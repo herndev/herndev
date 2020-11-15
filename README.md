@@ -54,13 +54,15 @@ In Mobile App Development I usually work with Flutter framework.
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Dart-blue"> 
 ---
 
+<p align="center">
 <h2 align="center">VISITORS</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{herndev}/count.svg" alt="herndev :: Visitor's Count" /></p>
+<img src="https://profile-counter.glitch.me/{herndev}/count.svg" alt="herndev :: Visitor's Count" /></p>
 <br /><br />
 
-<h2 align="center">You can reach me @</h2>
 
 <p align="center">
+  <h2 align="center">You can reach me @</h2>
+
   <a href="https://facebook.com/dota500">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="45" width="45">
   </a>
