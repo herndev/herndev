@@ -1,5 +1,5 @@
 ### Hi there, Gorgeous people of the internet 👋
-## I'm Hernie Jabien, Mobile app and Web Deleveloper.
+## I'm Hernie Jabien, Mobile app and Web Deleveloper. [HERN](https://herniedev.codes)
 
 
 
