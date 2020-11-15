@@ -22,13 +22,13 @@ For Web Development I work on frameworks like Laravel, Django, ReactJs and Vue.
 In Mobile App Development I usually work with Flutter framework.
 ```
 
-<table border="0">
+<table border="0" width="100%">
  <tr>
    <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
    </td>
    <td>
-     <img class="col-md-6" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> 
+     <img width="100%" class="col-md-6" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> 
    </td>
  </tr>
 </table>
