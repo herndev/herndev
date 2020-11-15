@@ -55,22 +55,23 @@ In Mobile App Development I usually work with Flutter framework.
 ---
 <p align="center"><img src="https://profile-counter.glitch.me/{herndev}/count.svg" alt="herndev :: Visitor's Count" /></p>
 <br /><br />
-<h2 align="center">You can reach me at :alien:</h2>
+
+<h4 align="center">You can reach me @</h4>
 
 <p align="center">
   <a href="https://facebook.com/dota500">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="30" width="30">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="50" width="50">
   </a>
 
   <a href="https://twitter.com/herndev">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="30" width="30">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="50" width="50">
+  </a>
+   
+  <a href="https://www.linkedin.com/in/hernie-jabien-6694aa155/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="50" width="50">
   </a>
    
    <!--
-  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
-    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Hernie" height="30" width="30">
-  </a>
-
   <a href="https://stackshare.io/anhello">
     <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Hernie's email" height="30" width="30">
   </a>
