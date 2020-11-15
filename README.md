@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 #### Visit my website click [here](https://herniedev.codes).
 ```
 For Web Development I work on frameworks like Laravel, Django, ReactJs and Vue.
-In Mobile App Development I usually work using Flutter.
+In Mobile App Development I usually work with Flutter framework.
 ```
 
