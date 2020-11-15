@@ -56,7 +56,7 @@ In Mobile App Development I usually work with Flutter framework.
 <p align="center"><img src="https://profile-counter.glitch.me/{herndev}/count.svg" alt="herndev :: Visitor's Count" /></p>
 <br /><br />
 
-<h4 align="center">You can reach me @</h4>
+<h2 align="center">You can reach me @</h2>
 
 <p align="center">
   <a href="https://facebook.com/dota500">
