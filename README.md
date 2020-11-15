@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new programming trends.
 - 👯 I’m looking forward to collaborate with other teams.
 - ⚡ Fun fact: I'm friendly and highly approachable.
-<br>
+<br/ >
 #### Visit my website click [here](https://herniedev.codes).
 ```
 For Web Development I work on frameworks like Laravel, Django, ReactJs and Vue.
