@@ -60,9 +60,8 @@ In Mobile App Development I usually work with Flutter framework.
 <br /><br />
 
 
+<h2 align="center">You can reach me @</h2>
 <p align="center">
-  <h2 align="center">You can reach me @</h2>
-
   <a href="https://facebook.com/dota500">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="45" width="45">
   </a>
