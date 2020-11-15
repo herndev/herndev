@@ -60,20 +60,20 @@ In Mobile App Development I usually work with Flutter framework.
 
 <p align="center">
   <a href="https://facebook.com/dota500">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="50" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="45" width="45">
   </a>
 
   <a href="https://twitter.com/herndev">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="50" width="50">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="45" width="45">
   </a>
    
   <a href="https://www.linkedin.com/in/hernie-jabien-6694aa155/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="50" width="50">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="45" width="45">
   </a>
    
    <!--
-  <a href="https://stackshare.io/anhello">
-    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Hernie's email" height="30" width="30">
+  <a href="mailto:herniejabien45@gmail.com">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" alt="Hernie's email" height="45" width="45">
   </a>
   -->
 </p>
