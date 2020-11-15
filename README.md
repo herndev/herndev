@@ -52,7 +52,10 @@ In Mobile App Development I usually work with Flutter framework.
 
 ### Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Dart-blue"> 
+
 ---
+
+<h2 align="center">VISITORS</h2>
 <p align="center"><img src="https://profile-counter.glitch.me/{herndev}/count.svg" alt="herndev :: Visitor's Count" /></p>
 <br /><br />
 
@@ -71,9 +74,7 @@ In Mobile App Development I usually work with Flutter framework.
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="45" width="45">
   </a>
    
-   <!--
   <a href="mailto:herniejabien45@gmail.com">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" alt="Hernie's email" height="45" width="45">
   </a>
-  -->
 </p>
