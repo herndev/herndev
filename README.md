@@ -1,4 +1,5 @@
 ### Hi there, Gorgeous people of the internet 👋
+## I'm Hernie Jabien, I am a developer for both mobile and web.
 
 <!--
 **herndev/herndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
