@@ -1,5 +1,5 @@
 ### Hi there, Gorgeous people of the internet 👋
-## I'm Hernie Jabien, Mobile app and Web Deleveloper.. I am a Fullstack Developer I work on both Front-end and Back-end, for Web Development I work on frameworks like Laravel, Django, ReactJs, and Vue. In Mobile Development I usually work on Flutter framework.
+## I'm Hernie Jabien, Mobile app and Web Deleveloper.
 
 <!--
 **herndev/herndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
