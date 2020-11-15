@@ -59,11 +59,11 @@ In Mobile App Development I usually work with Flutter framework.
 
 <h2 align="center">You can reach me @</h2>
 <p align="center">
-  <a href="https://facebook.com/dota500" target="blank_" margin-right="8">
+  <a href="https://facebook.com/dota500" target="blank_" margin-right="8px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="45" width="45">
   </a>
 
-  <a href="https://twitter.com/herndev" target="blank_" margin-right="8">
+  <a href="https://twitter.com/herndev" target="blank_" margin-right="8px">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="45" width="45">
   </a>
    
