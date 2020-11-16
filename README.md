@@ -48,6 +48,7 @@ In Mobile App Development I usually work with Flutter framework.
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Flutter-blue">
 <img src="https://img.shields.io/badge/-FileZilla-red">
+<img src="https://img.shields.io/badge/-VUE-yellowgreen">
 
 
 ### Other Languages I know
