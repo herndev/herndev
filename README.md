@@ -34,7 +34,7 @@ In Mobile App Development I usually work with Flutter framework.
         <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
      </td>
     <td width="49%">
-        <img width="100%" height="300" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
     </td>
  </tr>
 </table>
