@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 For Web Development I work on frameworks like Laravel, Django, ReactJs and Vue.
 In Mobile App Development I usually work with Flutter framework.
 ```
-
+<!--
 <p align="center">
     <img width="49%" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
-     <img width="49%" height="300px" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
+-->
+     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
 </p>
 
 ---
