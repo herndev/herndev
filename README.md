@@ -69,6 +69,10 @@ In Mobile App Development I usually work with Flutter framework.
   <a href="https://twitter.com/herndev">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="45" width="45">
   </a>
+  
+  <a href="https://instagram.com/hern.dev">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Hernie's twitter" height="45" width="45">
+  </a>
    
   <a href="https://www.linkedin.com/in/hernie-jabien-6694aa155/">
     <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="45" width="45">
