@@ -1,6 +1,8 @@
 ### Hi there, Gorgeous people of the internet 👋
 ## I'm Hernie Jabien, Mobile app and Web Deleveloper.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=flat" alt="herndev" /> </p>
+
 <!--
 **herndev/herndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
