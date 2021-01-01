@@ -1,5 +1,5 @@
 ### Hi there, Gorgeous people of the internet 👋
-## I'm Hernie Jabien, Mobile app and Web Deleveloper.
+## I'm Hernie Jabien, Full Stack Software Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=flat" alt="herndev" /> </p>
 
