@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 <br />
 
-#### Visit my website click [here](https://herniedev.codes).
-#### Checkout my blogging site click [here](http://hernie.me).
+### Checkout my portfolio click [here](https://www.hernie-software.ml/).
+<!-- #### Visit my website click [here](https://herniedev.codes). -->
+<!-- #### Checkout my blogging site click [here](http://hernie.me). -->
 ```
 For Web Development I work on frameworks like Wordpress, Laravel, Django, ReactJs and Vue.
 In Mobile App Development I usually work with Flutter framework.
