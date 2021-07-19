@@ -27,8 +27,8 @@ In Mobile App Development I usually work with Flutter framework.
 ```
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=light&layout=compact" alt="herndev :: Top Langs" />
-<img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=light" alt="herndev :: Profile Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true" alt="herndev :: Profile Stats" />
 </p>
 
 
