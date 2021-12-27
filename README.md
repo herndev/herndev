@@ -1,8 +1,8 @@
 <img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" />
 
-### Hi there, Gorgeous people of the internet <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 <!-- 👋 -->
-## I'm Hernie Jabien, Full Stack Software Developer.
+##  Full Stack Software Developer.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=flat" alt="herndev" /> </p>
 
