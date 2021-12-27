@@ -1,4 +1,4 @@
-<img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
+<img width="100%" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 
 ### Hi there, Gorgeous people of the internet 👋
 ## I'm Hernie Jabien, Full Stack Software Developer.
