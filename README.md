@@ -35,8 +35,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 
 <!-- <p align="center">
- <img width="49%" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
- <img width="49%" bg-color="black" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
+ <img width="450px" float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
+ <img width="450px" bg-color="black" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
 </p> -->
 
 ---
