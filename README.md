@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Checkout my portfolio click [here](https://www.hernie-jabien.com/).
+### Check out my portfolio click [here](https://www.hernie-jabien.com/).
 <!-- #### Visit my website click [here](https://herniedev.codes). -->
 <!-- #### Checkout my blogging site click [here](http://hernie.me). -->
 ```
