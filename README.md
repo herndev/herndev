@@ -60,8 +60,9 @@ In Mobile App Development I usually work with Flutter framework.
 <img src="https://img.shields.io/badge/-Flutter-blue?style=for-the-badge&logo=flutter&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Tailwind_CSS-e2e8f0?style=for-the-badge&logo=tailwindcss&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=for-the-badge&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-JQuery-0769ad?style=for-the-badge&logo=jquery&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=for-the-badge&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-Express.js-787878?style=for-the-badge">
