@@ -85,7 +85,9 @@ In Mobile App Development I usually work with Flutter framework.
 
 
 ### ✉️ Contact me
-![FB](https://img.shields.io/badge/Facebook-367BF0?style=for-the-badge&logo=facebook&logoColor=white)
+[![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
+[![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
 
 <h2 align="center">You can reach me @</h2>
 <p align="center">
