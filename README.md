@@ -75,7 +75,6 @@ In Mobile App Development I usually work with Flutter framework.
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-FileZilla-red?style=for-the-badge">
-<img src="https://img.shields.io/badge/-VUE-yellowgreen?style=for-the-badge">
 
 ### 💬 Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge"> 
