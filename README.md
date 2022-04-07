@@ -85,7 +85,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 
 ### ✉️ Contact me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
+![FB](https://img.shields.io/badge/Facebook-367BF0?style=for-the-badge&logo=facebook&logoColor=white)
 
 <h2 align="center">You can reach me @</h2>
 <p align="center">
