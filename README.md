@@ -88,7 +88,8 @@ In Mobile App Development I usually work with Flutter framework.
 [![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
 [![Instagram](https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hern.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com/hern.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
+[![Gmail](https://img.shields.io/badge/Gmail-0e76a8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
 
 <h2 align="center">You can reach me @</h2>
 <p align="center">
