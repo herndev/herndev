@@ -70,7 +70,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### ❤ Support me
+### ❤ Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
 
