@@ -74,7 +74,7 @@ In Mobile App Development I usually work with Flutter framework.
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Mx](https://img.shields.io/badge/MX_Linux-124250?style=for-the-badge&logo=mx-linux&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-124250?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-367BF0?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
