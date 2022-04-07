@@ -70,7 +70,6 @@ In Mobile App Development I usually work with Flutter framework.
 
 ### 💻 Workspace Spec
 
-![Windows](https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
