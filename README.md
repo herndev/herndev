@@ -70,10 +70,10 @@ In Mobile App Development I usually work with Flutter framework.
 
 ### 💻 Workspace Spec
 
-![Nvidia](https://img.shields.io/badge/NVIDIA-RTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Nvidia](https://img.shields.io/badge/NVIDIA-GK107GLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Mint](https://img.shields.io/badge/MX_Linux-7A7A7A?style=for-the-badge&logo=mx-linux&logoColor=white)
 
 ---
 
