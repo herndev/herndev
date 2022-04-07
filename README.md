@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 
 <br />
 
+### ✉️ Contact me
+[![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
+[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
+[![Instagram](https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hern.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
+[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
+
 ### Check out my portfolio click [here](https://www.hernie-jabien.com/).
 <!-- #### Visit my website click [here](https://herniedev.codes). -->
 <!-- #### Checkout my blogging site click [here](http://hernie.me). -->
@@ -64,7 +71,6 @@ In Mobile App Development I usually work with Flutter framework.
 <img src="https://img.shields.io/badge/-FileZilla-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/-VUE-yellowgreen?style=for-the-badge">
 
-
 ### 💬 Other Languages I know
 <img src="http://img.shields.io/badge/-Java-F89820?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=for-the-badge&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Dart-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-PHP-red?style=for-the-badge"> 
 
@@ -82,17 +88,6 @@ In Mobile App Development I usually work with Flutter framework.
 ### ❤ Support me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
-
-### ✉️ Contact me
-[![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
-[![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
-[![Instagram](https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hern.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
-[![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
-
-
 <br />
-
-
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
