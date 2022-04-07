@@ -91,30 +91,6 @@ In Mobile App Development I usually work with Flutter framework.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
 
-<h2 align="center">You can reach me @</h2>
-<p align="center">
-  <a href="https://facebook.com/dota500">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png" alt="Hernie's Facebook" height="45" width="45">
-  </a>
-
-  <a href="https://twitter.com/herndev">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" alt="Hernie's twitter" height="45" width="45">
-  </a>
-  
-  <a href="https://instagram.com/hern.dev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="Hernie's twitter" height="45" width="45">
-  </a>
-   
-  <a href="https://www.linkedin.com/in/hernie-jabien-6694aa155/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="Hernie's linkedin" height="45" width="45">
-  </a>
-   
-  <a href="mailto:herniejabien45@gmail.com">
-    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-512.png" alt="Hernie's email" height="45" width="45">
-  </a>
-</p>
-
-
 
 <br />
 
