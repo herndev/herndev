@@ -73,7 +73,8 @@ In Mobile App Development I usually work with Flutter framework.
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GK107GLM-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Intel](https://img.shields.io/badge/Intel-Core_i7_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Mint](https://img.shields.io/badge/MX_Linux-124250?style=for-the-badge&logo=mx-linux&logoColor=white)
+![Mx](https://img.shields.io/badge/MX_Linux-124250?style=for-the-badge&logo=mx-linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-124250?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
