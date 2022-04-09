@@ -55,7 +55,7 @@ In Mobile App Development I usually work with Flutter framework.
 </p> -->
 
 <details>
-  <summary> 💻 Tech tools & Workspace</summary>
+  <summary style="font-size: 16px"> 💻 Tech Tools & Workspace</summary>
 
 ---
 ### 🔥 Tech & Tools Preference
