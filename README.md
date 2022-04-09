@@ -1,5 +1,5 @@
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" /> -->
-<img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px;border-top-left-radius: 25px;" />
+<img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px;border-top-left-radius: 25px" />
 
 ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /><!-- 👋 -->
 
