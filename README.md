@@ -51,7 +51,7 @@ In Mobile App Development I usually work with Flutter framework.
 </p> -->
 
 <details>
-  <summary>📃 Resume</summary>
+  <summary> 💻 Tech tools & Workspace</summary>
 
 ---
 ### 🔥 Tech & Tools Preference
