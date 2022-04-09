@@ -1,4 +1,5 @@
-<img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" />
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" /> -->
+<img width="100%" src="./img/banner.png" />
 
 ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /><!-- 👋 -->
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
