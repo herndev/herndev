@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 
 <br />
 
+ <img src="https://github-profile-trophy.vercel.app/?username=herndev&theme=radical"/>
+
+
 <details>
   <summary style="font-size: 16px"> ℹ️ About Me</summary>
 
