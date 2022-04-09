@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### ✉️ Contact me
+### ✉️ Contact Me
 [![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
 [![Instagram](https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hern.dev)
