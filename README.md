@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
+
 <br />
 
  <!-- <img src="https://github-profile-trophy.vercel.app/?username=herndev&theme=radical"/> -->
@@ -93,7 +95,6 @@ In Mobile App Development I usually work with Flutter framework.
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true" alt="herndev :: Profile Stats" />
 </p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
 
 ---
 
