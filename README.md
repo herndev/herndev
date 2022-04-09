@@ -50,6 +50,9 @@ In Mobile App Development I usually work with Flutter framework.
  <img width="450px" height="450px" bg-color="black" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
 </p> -->
 
+<details>
+  <summary>📃 Resume</summary>
+
 ---
 ### 🔥 Tech & Tools Preference
 
@@ -69,6 +72,9 @@ In Mobile App Development I usually work with Flutter framework.
 ![Mac](https://img.shields.io/badge/Big_sur-303030?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
+
+</details>
+
 
 ### ❤ Support Me
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
