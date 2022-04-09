@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 <br />
 
- <img src="https://github-profile-trophy.vercel.app/?username=herndev&theme=radical"/>
+ <!-- <img src="https://github-profile-trophy.vercel.app/?username=herndev&theme=radical"/> -->
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
+
 
 
 <details>
