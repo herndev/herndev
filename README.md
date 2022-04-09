@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
 
+
+### ❤ Support Me
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
+
 <br />
 
 ### Check out my portfolio click [here](https://www.hernie-jabien.com/).
@@ -76,8 +80,6 @@ In Mobile App Development I usually work with Flutter framework.
 </details>
 
 
-### ❤ Support Me
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
