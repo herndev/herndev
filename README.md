@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking forward to collaborate with other teams.
 - ⚡ Fun fact: I'm friendly and highly approachable.
 
+<br />
+
 ### ✉️ Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
