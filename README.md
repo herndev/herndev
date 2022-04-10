@@ -1,5 +1,5 @@
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" /> -->
-<img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
+<img width="100%" src="./img/banner_darker.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
 
 ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /><!-- 👋 -->
 
@@ -9,7 +9,6 @@
 
 <!--
 **herndev/herndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
 
