@@ -15,4 +15,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with: 
-          COMMIT_MSG: "[AUTOMATED] New activities from HernDev!" 
+          COMMIT_MSG: "[AUTOMATED] Updated Activities from HernDev!" 
