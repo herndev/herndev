@@ -1,4 +1,4 @@
-name: Wakatime updates
+name: Update GitHub Stats
 
 on:
   schedule:
