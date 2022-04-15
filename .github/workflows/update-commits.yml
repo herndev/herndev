@@ -19,4 +19,5 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_SHORT_INFO: "False"
           LOCALE: "en"
