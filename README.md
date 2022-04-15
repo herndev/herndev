@@ -1,16 +1,11 @@
-<!-- <img width="100%" src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" /> -->
-<img width="100%" src="./img/banner_darker.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
+<img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
 
-### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /><!-- 👋 -->
+### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="herndev" /> </p>
 
-<!--
-**herndev/herndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
 
 <br />
 
@@ -37,7 +32,6 @@ Here are some ideas to get you started:
 
 <br />
  
- <!-- <img src="https://github-profile-trophy.vercel.app/?username=herndev&theme=radical"/> -->
  
 <details>
   <summary style="font-size: 16px"> ℹ️ About Me</summary>
@@ -45,9 +39,6 @@ Here are some ideas to get you started:
 ---
 
 ### Check out my portfolio click [here](https://www.hernie-jabien.com/).
-
-<!-- #### Visit my website click [here](https://herniedev.codes). -->
-<!-- #### Checkout my blogging site click [here](http://hernie.me). -->
 
 ```
 For Web Development I work on frameworks like Wordpress, Laravel, Django, ReactJs and Vue.
@@ -84,23 +75,53 @@ In Mobile App Development I usually work with Flutter framework.
 
 </details>
 
+
+<details>
+  <summary style="font-size: 16px"> 💻 Tech Updates & Memes</summary>
+
+---
+
+### 🎮 Game news for the hour
+
+<!-- GAME:START -->
+<!-- GAME:END -->
+
+### 💻 Tech news for the hour
+
+<!-- TECH:START -->
+<!-- TECH:END -->
+### 😂 Memes of the hour
+
+<!-- MEMES:START --
+<!-- MEMES:END -->
+
+---
+
+</details>
+
+
 <details>
   <summary style="font-size: 16px"> 📈 Github Status</summary>
 
 ---
+
+### 💬 Acyivities
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <p align="left">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true" alt="herndev :: Profile Stats" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 </details>
 
-<!-- <p align="center">
- <img width="450px" height="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&theme=merko&layout=compact" alt="herndev :: Top Langs" />
- <img width="450px" height="450px" bg-color="black" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" />
-</p> -->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
