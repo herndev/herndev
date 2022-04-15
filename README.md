@@ -105,7 +105,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### 💬 Acyivities
+### 💬 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
