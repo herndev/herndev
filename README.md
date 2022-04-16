@@ -105,8 +105,6 @@ In Mobile App Development I usually work with Flutter framework.
 
 ### 📣 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <p align="left">
 <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
