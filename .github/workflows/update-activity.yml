@@ -17,5 +17,5 @@ jobs:
         with: 
           COMMIT_MSG: "[AUTOMATED] Updated Activities from HernDev!" 
           committer_username: herndev
-          committer_email: herndev@gmail.com
+          committer_email: herniejabien45@gmail.com
 
