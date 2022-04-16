@@ -79,19 +79,19 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### 📣 Game news for the hour
+### 🎮 Game news for the hour
 
 <!-- GAME:START -->
 <!-- GAME:END -->
 
-### 📣 Tech news for the hour
+### 💻 Tech news for the hour
 
 <!-- TECH:START -->
 <!-- TECH:END -->
 
-### 📣 Memes of the hour
+### 😂 Memes of the hour
 
-<!-- MEMES:START --
+<!-- MEMES:START -->
 <!-- MEMES:END -->
 
 ---
@@ -103,8 +103,10 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### 📣 Recent Activity
+### ⚡️ Recent Activity
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <p align="left">
 <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
@@ -117,8 +119,5 @@ In Mobile App Development I usually work with Flutter framework.
 ---
 
 </details>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
