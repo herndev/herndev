@@ -79,17 +79,17 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### ⚡️ Game news for the hour
+### 📣 Game news for the hour
 
 <!-- GAME:START -->
 <!-- GAME:END -->
 
-### ⚡️ Tech news for the hour
+### 📣 Tech news for the hour
 
 <!-- TECH:START -->
 <!-- TECH:END -->
 
-### ⚡️ Memes of the hour
+### 📣 Memes of the hour
 
 <!-- MEMES:START --
 <!-- MEMES:END -->
@@ -103,7 +103,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### ⚡️ Recent Activity
+### 📣 Recent Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
