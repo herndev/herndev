@@ -16,3 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with: 
           COMMIT_MSG: "[AUTOMATED] Updated Activities from HernDev!" 
+          committer_username: herndev
+          committer_email: herndev@gmail.com
+
