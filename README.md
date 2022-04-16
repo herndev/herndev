@@ -105,10 +105,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-### 💬 Recent Activity
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 
 <p align="left">
@@ -122,6 +119,11 @@ In Mobile App Development I usually work with Flutter framework.
 ---
 
 </details>
+
+### ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
