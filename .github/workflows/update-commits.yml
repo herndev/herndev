@@ -21,5 +21,3 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_SHORT_INFO: "False"
           LOCALE: "en"
-          committer_username: herndev
-          committer_email: herniejabien45@gmail.com
