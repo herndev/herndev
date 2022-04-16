@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="herndev" /> </p>
 
-
 <br />
 
 - 🔭 I’m currently working on some projects.
@@ -75,22 +74,22 @@ In Mobile App Development I usually work with Flutter framework.
 
 </details>
 
-
 <details>
   <summary style="font-size: 16px"> 💻 Tech Updates & Memes</summary>
 
 ---
 
-### 🎮 Game news for the hour
+### ⚡️ Game news for the hour
 
 <!-- GAME:START -->
 <!-- GAME:END -->
 
-### 💻 Tech news for the hour
+### ⚡️ Tech news for the hour
 
 <!-- TECH:START -->
 <!-- TECH:END -->
-### 😂 Memes of the hour
+
+### ⚡️ Memes of the hour
 
 <!-- MEMES:START --
 <!-- MEMES:END -->
@@ -98,7 +97,6 @@ In Mobile App Development I usually work with Flutter framework.
 ---
 
 </details>
-
 
 <details>
   <summary style="font-size: 16px"> 📈 Github Status</summary>
@@ -109,7 +107,6 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
 
 <p align="left">
 <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
@@ -122,6 +119,5 @@ In Mobile App Development I usually work with Flutter framework.
 ---
 
 </details>
-
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
