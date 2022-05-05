@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No, Apple Music isn&#39;t pushing Spotify out of the iPhone dock on purpose](https://appleinsider.com/articles/22/05/05/no-apple-music-isnt-pushing-spotify-out-of-the-iphone-dock-on-purpose?utm_medium=rss)
- - [Apex Legends season 13 pushes teamwork with a new kind of hero and ranked mode changes](https://www.theverge.com/2022/5/5/23058327/apex-legends-saviors-newcastle-ranked-battle-royale)
- - [Futuristic &#39;Gravity Telescope&#39; Could Image Alien Worlds as Clearly as Earth     - CNET](https://www.cnet.com/science/space/futuristic-gravity-telescope-could-image-alien-worlds-as-clearly-as-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Block reports Q1 revenue of $3.96B, down 22% YoY, vs. $4.1B est., and Cash App bitcoin revenue of $1.73B, down 51% YoY; stock is up 5%+ &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220505/p34#a220505p34)
+ - [DoorDash reports Q1 revenue of $1.46B, up 35% YoY, vs. $1.38B est., 404M orders, up 23%, gross order value of $12.4B, up 25%, vs. $11.7B est.; stock up 9%+ &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/220505/p33#a220505p33)
+ - [Amazon’s trying to solve problem of endless streaming content with IMDb games](https://www.theverge.com/2022/5/5/23059025/amazon-imdb-app-games-fire-tv-exclusive)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
