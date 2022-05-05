@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The looming demise of Roe ties healthcare even more firmly to employers](https://www.theverge.com/2022/5/5/23058911/abortion-access-employers-amazon-supreme-court-roe)
- - [Google’s latest Nest cameras now work with Amazon Alexa](https://www.theverge.com/2022/5/5/23058471/google-nest-camera-work-with-amazon-alexa-echo-speakers)
- - [How to use Facebook – everything you need to know](https://www.androidauthority.com/how-to-use-facebook-3155263/)<!-- TECH:END -->
+ - [No, Apple Music isn&#39;t pushing Spotify out of the iPhone dock on purpose](https://appleinsider.com/articles/22/05/05/no-apple-music-isnt-pushing-spotify-out-of-the-iphone-dock-on-purpose?utm_medium=rss)
+ - [Apex Legends season 13 pushes teamwork with a new kind of hero and ranked mode changes](https://www.theverge.com/2022/5/5/23058327/apex-legends-saviors-newcastle-ranked-battle-royale)
+ - [Futuristic &#39;Gravity Telescope&#39; Could Image Alien Worlds as Clearly as Earth     - CNET](https://www.cnet.com/science/space/futuristic-gravity-telescope-could-image-alien-worlds-as-clearly-as-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
