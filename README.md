@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [40kg of trash pick up today. I\u2019m still cleaning. Your Cleaning Guy.](http://9gag.com/gag/aggEPRq)
- - ⏩ [Your terms are acceptable](http://9gag.com/gag/a31bVBN)
- - 👉 [Old but old](http://9gag.com/gag/a31bVW3)<!-- MEMES:END -->
+ - 💣 [Old but old](http://9gag.com/gag/a31bVW3)
+ - ⏩ [The guys who attacked the Russian Army recruitment building in Nizhnevartovsk in Russia not only filmed themselves doing it, but shared the video across Russian social media channels. Ballsy if nothing else.](http://9gag.com/gag/a11Ez78)
+ - 👉 [German Polizei at its best...](http://9gag.com/gag/aXrK5yz)<!-- MEMES:END -->
 
 ---
 
