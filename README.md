@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety First \ud83d\udea2\u2757\ufe0f](http://9gag.com/gag/azeY02K)
- - ⏩ [People f**king up at this exit](http://9gag.com/gag/a71pQ9q)
- - 👉 [Old but old](http://9gag.com/gag/a31bVW3)<!-- MEMES:END -->
+ - 💣 [The BMW behind you when you driving 15km/h above speed limit.](http://9gag.com/gag/aQXOGGe)
+ - ⏩ [German Polizei at its best...](http://9gag.com/gag/aXrK5yz)
+ - 👉 [Your terms are acceptable](http://9gag.com/gag/a31bVBN)<!-- MEMES:END -->
 
 ---
 
