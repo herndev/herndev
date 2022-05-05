@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men to Ment communication.](http://9gag.com/gag/aGzOXo5)
- - ⏩ [Oh glorious day!](http://9gag.com/gag/a11E9oR)
- - 👉 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)<!-- MEMES:END -->
+ - 💣 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)
+ - ⏩ [What&#39;s their best song?](http://9gag.com/gag/aqGYq2Q)
+ - 👉 [Why women can\u2019t join the special forces](http://9gag.com/gag/a91Oovo)<!-- MEMES:END -->
 
 ---
 
