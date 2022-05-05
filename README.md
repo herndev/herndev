@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Stanley Parable Ultra Deluxe Is The Smartest, Silliest Game Of The Year](https://kotaku.com/the-stanley-parable-ultra-deluxe-sequel-crows-new-endin-1848878469)
- - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)
- - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)<!-- GAME:END -->
+ - [Xbox Insider Release Notes – Beta &lpar;2206.220502-2200&rpar;](https://news.xbox.com/en-us/2022/05/05/xbox-insider-release-notes-beta-2206-220502-2200/)
+ - [Summer Game Fest 2022 set for June 9](https://www.polygon.com/23058698/summer-game-fest-date-time-livestream-game-awards-imax-2022)
+ - [Overwatch League returns Thursday, with perks and Overwatch 2 beta key drops](https://www.polygon.com/23058591/overwatch-league-2022-start-time-beta-drops-tokens)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
