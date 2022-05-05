@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use your iPhone’s Back Tap feature](https://www.theverge.com/23058569/iphone-back-tap-how-to-ios-14-iphone-8)
- - [US-based MaxLinear, which makes chips for broadband systems, will buy Taiwan&#39;s Silicon Motion, which makes NAND flash controllers for SSD devices, for $3.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p29#a220505p29)
- - [Twitter is working on new features, including mixed-media tweets, report shows](https://www.theverge.com/2022/5/5/23058661/twitter-new-features-photo-video-tweets-pronouns)<!-- TECH:END -->
+ - [The looming demise of Roe ties healthcare even more firmly to employers](https://www.theverge.com/2022/5/5/23058911/abortion-access-employers-amazon-supreme-court-roe)
+ - [Google’s latest Nest cameras now work with Amazon Alexa](https://www.theverge.com/2022/5/5/23058471/google-nest-camera-work-with-amazon-alexa-echo-speakers)
+ - [How to use Facebook – everything you need to know](https://www.androidauthority.com/how-to-use-facebook-3155263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
