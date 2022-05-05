@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ukrainian officials say Russia has taken over internet infrastructure in the Donbas region, rerouting traffic to Russia-controlled operators &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220505/p8#a220505p8)
- - [AWOL LTV-3500 ultra-short throw projector review: the bright stuff](https://www.theverge.com/23056908/awol-vision-projector-review-short-throw-tv-replacement)
- - [Sony’s WH-1000XM5 headphones could pack a sleek design &lpar;Updated: New images&rpar;](https://www.androidauthority.com/sony-wh-1000xm5-3156189/)<!-- TECH:END -->
+ - [Filing: Elon Musk raises $7.14B for his Twitter bid from Larry Ellison, Binance, Sequoia Capital, Fidelity, and others; Musk needs to raise $21B in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/220505/p10#a220505p10)
+ - [Which Microsoft Surface Laptop or Tablet Is Best?](https://www.wired.com/story/microsoft-surface-buying-guide)
+ - [15 Last-Minute Mother’s Day Gifts on Sale Now](https://www.wired.com/story/last-minute-mothers-day-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
