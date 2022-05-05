@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter&#39;s open source Bluesky unit releases early code for a decentralized social network protocol, dubbed Authenticated Data Experiment, for developers to test &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220505/p4#a220505p4)
- - [Google Assistant’s automatic password updater gets wider rollout](https://www.theverge.com/2022/5/5/23058153/google-assistant-duplex-change-compromised-password-breach-update-rollout)
- - [Two new Amazfit smartwatches are coming with mammoth batteries](https://www.androidauthority.com/amazfit-t-rex-pro-2-amazfit-vienna-3161172/)<!-- TECH:END -->
+ - [Ukrainian officials say Russia has taken over internet infrastructure in the Donbas region, rerouting traffic to Russia-controlled operators &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220505/p8#a220505p8)
+ - [AWOL LTV-3500 ultra-short throw projector review: the bright stuff](https://www.theverge.com/23056908/awol-vision-projector-review-short-throw-tv-replacement)
+ - [Sony’s WH-1000XM5 headphones could pack a sleek design &lpar;Updated: New images&rpar;](https://www.androidauthority.com/sony-wh-1000xm5-3156189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
