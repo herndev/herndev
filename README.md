@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orc astonished by how well fortified Ukrainian position is.](http://9gag.com/gag/a61jW0L)
- - ⏩ [Almost there](http://9gag.com/gag/angrAVz)
- - 👉 [Takatakataka](http://9gag.com/gag/awzYRwx)<!-- MEMES:END -->
+ - 💣 [Takatakataka](http://9gag.com/gag/awzYRwx)
+ - ⏩ [Who remembers?](http://9gag.com/gag/aZrRq2z)
+ - 👉 [`Can I pet it?`](http://9gag.com/gag/aogYrXX)<!-- MEMES:END -->
 
 ---
 
