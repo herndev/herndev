@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook freezes hiring, blames iOS changes for reduced revenue growth](https://appleinsider.com/articles/22/05/05/facebook-freezes-hiring-blames-ios-changes-for-reduced-revenue-growth?utm_medium=rss)
- - [Fictiv, which offers tools to predict manufacturing costs and other variables, raises a $100M Series E led by Activate, bringing its total funding to $192M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220505/p15#a220505p15)
- - [Apple, Google, and Microsoft announce plans to adopt features from the FIDO Alliance, which is working on passwordless tech for websites and apps &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p14#a220505p14)<!-- TECH:END -->
+ - [Six-year iPhone 4S &amp; iOS 9 legal battle may end in $15 settlement](https://appleinsider.com/articles/22/05/05/six-year-iphone-4s-ios-9-legal-battle-may-end-in-15-settlement?utm_medium=rss)
+ - [Leaked Sonos Ray marketing photos offer a better sense of the soundbar’s size](https://www.theverge.com/2022/5/5/23058306/sonos-ray-leaked-marketing-images)
+ - [How Samsung’s SmartThings is thinking about Matter and the future of the smart home](https://www.theverge.com/23055296/samsung-smartthings-smart-home-matter-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
