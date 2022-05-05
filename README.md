@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [The guys who attacked the Russian Army recruitment building in Nizhnevartovsk in Russia not only filmed themselves doing it, but shared the video across Russian social media channels. Ballsy if nothing else.](http://9gag.com/gag/a11Ez78)
- - ⏩ [Latin Phrases you should know](http://9gag.com/gag/aE8OLD9)
- - 👉 [Takatakataka](http://9gag.com/gag/awzYRwx)<!-- MEMES:END -->
+ - ⏩ [Takatakataka](http://9gag.com/gag/awzYRwx)
+ - 👉 [By our generation I think they mean teenagers. But it\u2019s quite true, don\u2019t you think ?](http://9gag.com/gag/a71pjpe)<!-- MEMES:END -->
 
 ---
 
