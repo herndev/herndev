@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Protect Your Digital Privacy if Roe v. Wade Falls](https://www.wired.com/story/roe-v-wade-privacy-practices)
- - [Here are some last-minute Mother’s Day gifts that should arrive on time](https://www.theverge.com/good-deals/2022/5/5/23057432/mothers-day-tech-gifts-ideas-amazon-kindle-apple-deal-sale)
- - [Latin American e-commerce company MercadoLibre reports Q1 revenue of $2.2B, up 63% YoY, vs $2B est., gross merchandise volume of $7.7B, up 27% YoY; stock up 8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p35#a220505p35)<!-- TECH:END -->
+ - [The CFTC orders the three cofounders of BitMEX, Arthur Hayes, Benjamin Delo, and Samuel Reed, to pay $10M each in civil penalties for illegal trading &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220505/p36#a220505p36)
+ - [WhatsApp rolls out emoji reactions, bigger files, and massive groups](https://www.theverge.com/2022/5/5/23059243/whatsapp-emoji-reaction-rollout-increased-file-size-groups)
+ - [Apple no longer accepting credit or debit card payments in India](https://appleinsider.com/articles/22/05/05/apple-no-longer-accepting-credit-or-debit-card-payments-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
