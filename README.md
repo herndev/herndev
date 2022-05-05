@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lux Æterna is an art-film freakout — and a designer fashion ad](https://www.polygon.com/reviews/23057390/lux-aeterna-review-gaspar-noe-saint-laurent)
- - [Free Play Days – Call of the Sea, Sid Meier’s Civilization VI, and Overcooked! All You Can Eat](https://news.xbox.com/en-us/2022/05/05/free-play-days-call-of-the-sea-sid-meiers-civilization-vi-and-overcooked-all-you-can-eat/)
- - [After 50 years, Captain Pike got the Star Trek show he deserves](https://www.polygon.com/23057405/star-trek-strange-new-worlds-creator-anson-mount-pike-masculinity)<!-- GAME:END -->
+ - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
+ - [HBO’s The Staircase shows the limits of the True-Crime Industrial Complex](https://www.polygon.com/reviews/23057697/the-staircase-review-hbo-miniseries)
+ - [Hangar 13 Bosses Leave, New Mafia In Development](https://kotaku.com/mafia-4-release-date-hangar-13-haden-blackman-lucasarts-1848883555)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
