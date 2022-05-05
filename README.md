@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Block reports Q1 revenue of $3.96B, down 22% YoY, vs. $4.1B est., and Cash App bitcoin revenue of $1.73B, down 51% YoY; stock is up 5%+ &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220505/p34#a220505p34)
- - [DoorDash reports Q1 revenue of $1.46B, up 35% YoY, vs. $1.38B est., 404M orders, up 23%, gross order value of $12.4B, up 25%, vs. $11.7B est.; stock up 9%+ &lpar;Jackie Davalos/Bloomberg&rpar;](http://www.techmeme.com/220505/p33#a220505p33)
- - [Amazon’s trying to solve problem of endless streaming content with IMDb games](https://www.theverge.com/2022/5/5/23059025/amazon-imdb-app-games-fire-tv-exclusive)<!-- TECH:END -->
+ - [How to Protect Your Digital Privacy if Roe v. Wade Falls](https://www.wired.com/story/roe-v-wade-privacy-practices)
+ - [Here are some last-minute Mother’s Day gifts that should arrive on time](https://www.theverge.com/good-deals/2022/5/5/23057432/mothers-day-tech-gifts-ideas-amazon-kindle-apple-deal-sale)
+ - [Latin American e-commerce company MercadoLibre reports Q1 revenue of $2.2B, up 63% YoY, vs $2B est., gross merchandise volume of $7.7B, up 27% YoY; stock up 8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220505/p35#a220505p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
