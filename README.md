@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best high refresh rate monitors](https://www.pcgamer.com/best-high-refresh-rate-monitor-for-gaming)
- - [HBO’s The Staircase shows the limits of the True-Crime Industrial Complex](https://www.polygon.com/reviews/23057697/the-staircase-review-hbo-miniseries)
- - [Hangar 13 Bosses Leave, New Mafia In Development](https://kotaku.com/mafia-4-release-date-hangar-13-haden-blackman-lucasarts-1848883555)<!-- GAME:END -->
+ - [The Stanley Parable Ultra Deluxe Is The Smartest, Silliest Game Of The Year](https://kotaku.com/the-stanley-parable-ultra-deluxe-sequel-crows-new-endin-1848878469)
+ - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)
+ - [The rhythm-based co-op of Soundfall hits PS5 and PS4 this spring](https://blog.playstation.com/2022/05/05/the-rhythm-based-co-op-of-soundfall-hits-ps5-and-ps4-this-spring/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
