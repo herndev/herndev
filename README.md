@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone asking what&#39;s with the Pepsi on a Chemo mug post made me think of making this](http://9gag.com/gag/a11E9Ab)
- - ⏩ [Thats because the apple strain relief is designed to fail.](http://9gag.com/gag/a81KREO)
- - 👉 [Why women can\u2019t join the special forces](http://9gag.com/gag/a91Oovo)<!-- MEMES:END -->
+ - 💣 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)
+ - ⏩ [Duck runs in a marathon and gets a medal](http://9gag.com/gag/a91OxN0)
+ - 👉 [A jar of what?](http://9gag.com/gag/aM4OovA)<!-- MEMES:END -->
 
 ---
 
