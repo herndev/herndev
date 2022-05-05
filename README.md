@@ -120,4 +120,6 @@ In Mobile App Development I usually work with Flutter framework.
 
 </details>
 
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif)
+
+<!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
