@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Listen to this eerie sound. The sound of electricity between the hand and the hair, foreshadowing an impending lightning strike? People who have had close encounters with lightning have reported such sounds. This buzzing being the final warning.](http://9gag.com/gag/aDDOyNK)
- - ⏩ [Without Italy this time](http://9gag.com/gag/arn2jKB)
- - 👉 [And the Oscar goes to..](http://9gag.com/gag/aM4Ooy6)<!-- MEMES:END -->
+ - 💣 [Men to Ment communication.](http://9gag.com/gag/aGzOXo5)
+ - ⏩ [Oh glorious day!](http://9gag.com/gag/a11E9oR)
+ - 👉 [In 2010. a family discovered a hidden ancient chappel under their house. Shropshire, England.](http://9gag.com/gag/awzYwG8)<!-- MEMES:END -->
 
 ---
 
