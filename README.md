@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speaks for itself](http://9gag.com/gag/aqGY3yj)
- - ⏩ [Zhat is correct](http://9gag.com/gag/a21LBM9)
- - 👉 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)<!-- MEMES:END -->
+ - 💣 [Your chances of getting killed by a goat are low, but never zero.](http://9gag.com/gag/aYrRj5w)
+ - ⏩ [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)
+ - 👉 [I design fake products and today I&#39;m created the Burrito Bumper!](http://9gag.com/gag/aKmK4KW)<!-- MEMES:END -->
 
 ---
 
