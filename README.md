@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mafia 3 studio founder stepping down, leaving 2K](https://www.polygon.com/23058816/mafia-3-studio-haden-blackman-leaving-2k)
- - [Necromunda: Ash Wastes is just the beginning of the Mad Max-ification of 40K](https://www.polygon.com/23057543/warhammer-40k-necromunda-ash-wastes-boxed-set-review-painting-guide)
- - [WWE Superstar The Miz Should Play Johnny Cage In Mortal Kombat II, And You Know It](https://kotaku.com/wwe-mortal-kombat-the-miz-mike-mizanin-johnny-cage-1848886074)<!-- GAME:END -->
+ - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)
+ - [Bill Gates on Musk, Twitter, and the conspiracy theorists that shout at him in public](https://www.pcgamer.com/bill-gates-on-musk-twitter-and-the-conspiracy-theorists-that-shout-at-him-in-public)
+ - [Take a Deep Dive into the Seasonal Storyline of Halo Infinite Season 2 – Lone Wolves](https://news.xbox.com/en-us/2022/05/05/deep-dive-seasonal-storyline-halo-infinite-season-2-lone-wolves/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
