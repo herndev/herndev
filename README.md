@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer xQc Claims He Lost Over $1.8 Million Gambling Last Month](https://kotaku.com/xqc-millions-money-gambling-losses-twitch-streamer-dad-1848886621)
- - [A new Mafia game is reportedly in development under new studio leadership](https://www.pcgamer.com/a-new-mafia-game-is-reportedly-in-development-under-new-studio-leadership)
- - [Genshin Impact Makes Its Devs One-Quarter Of A Bethesda Every Year](https://kotaku.com/genshin-impact-mihoyo-mobile-ios-android-earnings-pokem-1848887015)<!-- GAME:END -->
+ - [Doctor Strange 2’s post-credits scene sends Stephen on a new adventure](https://www.polygon.com/23055624/doctor-strange-2-credits-scene-explained-multiverse-of-madness-end-clea)
+ - [A week into the beta, Overwatch 2 heroes are already getting little reworks](https://www.polygon.com/23059012/overwatch-2-beta-patch-nerfs-bufffs-hero-reworks)
+ - [The Naga are coming to Hearthstone Battlegrounds on May 10](https://www.pcgamer.com/the-naga-are-coming-to-hearthstone-battlegrounds-on-may-10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
