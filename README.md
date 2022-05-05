@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IC3 says there were 241K+ reports of business email compromise scams globally from June 2016 to July 2019, totaling $43B+ in actual and attempted losses &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220505/p3#a220505p3)
- - [Android 13 is getting new sideloading restrictions, but they are good.](https://www.androidauthority.com/android-13-sideloading-apps-restrictions-3161162/)
- - [The Redmi Note 11T Pro is coming to pick up where Note 10 Pro left off](https://www.androidauthority.com/redmi-note-11t-pro-3161157/)<!-- TECH:END -->
+ - [Two new Amazfit smartwatches are coming with mammoth batteries](https://www.androidauthority.com/amazfit-t-rex-pro-2-amazfit-vienna-3161172/)
+ - [We asked, you told us: Most of you wouldn’t pay for Telegram Premium](https://www.androidauthority.com/telegram-premium-poll-results-3158459/)
+ - [The Quest to Save an Antarctic Kingdom Before It Falls Into Ruin     - CNET](https://www.cnet.com/science/climate/features/the-quest-to-save-an-antarctic-kingdom-before-it-falls-into-ruin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
