@@ -94,7 +94,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 💣 [Someone asking what&#39;s with the Pepsi on a Chemo mug post made me think of making this](http://9gag.com/gag/a11E9Ab)
+ - ⏩ [Thats because the apple strain relief is designed to fail.](http://9gag.com/gag/a81KREO)
+ - 👉 [Why women can\u2019t join the special forces](http://9gag.com/gag/a91Oovo)<!-- MEMES:END -->
 
 ---
 
