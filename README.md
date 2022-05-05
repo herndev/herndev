@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two new Amazfit smartwatches are coming with mammoth batteries](https://www.androidauthority.com/amazfit-t-rex-pro-2-amazfit-vienna-3161172/)
- - [We asked, you told us: Most of you wouldn’t pay for Telegram Premium](https://www.androidauthority.com/telegram-premium-poll-results-3158459/)
- - [The Quest to Save an Antarctic Kingdom Before It Falls Into Ruin     - CNET](https://www.cnet.com/science/climate/features/the-quest-to-save-an-antarctic-kingdom-before-it-falls-into-ruin/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter&#39;s open source Bluesky unit releases early code for a decentralized social network protocol, dubbed Authenticated Data Experiment, for developers to test &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220505/p4#a220505p4)
+ - [Google Assistant’s automatic password updater gets wider rollout](https://www.theverge.com/2022/5/5/23058153/google-assistant-duplex-change-compromised-password-breach-update-rollout)
+ - [Two new Amazfit smartwatches are coming with mammoth batteries](https://www.androidauthority.com/amazfit-t-rex-pro-2-amazfit-vienna-3161172/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
