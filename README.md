@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel acquires Finnish graphics tech company Siru Innovations](https://www.pcgamer.com/intel-acquires-finnish-graphics-tech-company-siru-innovations)
- - [Boot your Oculus headset directly into SteamVR with this free tool](https://www.pcgamer.com/boot-your-oculus-headset-directly-into-steamvr-with-this-free-tool)
- - [Windows 11 preview update will break Microsoft Store apps](https://www.pcgamer.com/windows-11-preview-update-will-break-microsoft-store-apps)<!-- GAME:END -->
+ - [NetEase launches its first US-based studio, led by former Daybreak Games chief](https://www.pcgamer.com/netease-launches-its-first-us-based-studio-led-by-former-daybreak-games-chief)
+ - [Today&#39;s Wordle answer #320: Thursday, May 5](https://www.pcgamer.com/wordle-may-5-320-homer-meaning)
+ - [Intel acquires Finnish graphics tech company Siru Innovations](https://www.pcgamer.com/intel-acquires-finnish-graphics-tech-company-siru-innovations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
