@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 50 years, Captain Pike got the Star Trek show he deserves](https://www.polygon.com/23057405/star-trek-strange-new-worlds-creator-anson-mount-pike-masculinity)
  - [Hitman 3’s Freelancer mode delayed, now coming later this year](https://www.polygon.com/23057480/hitman-3-freelancer-mode-delay-road-map)
- - [Best CPU coolers in 2022](https://www.pcgamer.com/best-cpu-coolers)
- - [Halo Infinite removes weird melee quirk that didn&#39;t make much sense](https://www.pcgamer.com/halo-infinite-removes-weird-melee-element-that-didnt-make-much-sense)<!-- GAME:END -->
+ - [Best CPU coolers in 2022](https://www.pcgamer.com/best-cpu-coolers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
