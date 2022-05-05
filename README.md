@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)
- - [Bill Gates on Musk, Twitter, and the conspiracy theorists that shout at him in public](https://www.pcgamer.com/bill-gates-on-musk-twitter-and-the-conspiracy-theorists-that-shout-at-him-in-public)
- - [Take a Deep Dive into the Seasonal Storyline of Halo Infinite Season 2 – Lone Wolves](https://news.xbox.com/en-us/2022/05/05/deep-dive-seasonal-storyline-halo-infinite-season-2-lone-wolves/)<!-- GAME:END -->
+ - [Twitch Streamer xQc Claims He Lost Over $1.8 Million Gambling Last Month](https://kotaku.com/xqc-millions-money-gambling-losses-twitch-streamer-dad-1848886621)
+ - [A new Mafia game is reportedly in development under new studio leadership](https://www.pcgamer.com/a-new-mafia-game-is-reportedly-in-development-under-new-studio-leadership)
+ - [Genshin Impact Makes Its Devs One-Quarter Of A Bethesda Every Year](https://kotaku.com/genshin-impact-mihoyo-mobile-ios-android-earnings-pokem-1848887015)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
