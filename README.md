@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These features make the Meta Quest 2 even better](https://www.theverge.com/2022/5/5/23054019/meta-oculus-quest-2-virtual-reality-vr-headset-tips-tricks)
- - [Meta, TikTok and YouTube may finally have to start sharing data with researchers](https://www.theverge.com/2022/5/5/23058139/meta-tiktok-youtube-senate-transparency-hearing-research-us-europe)
- - [A look at the rise of buy now, pay later services, driven by social media and Gen Z, and the risks involved; Afterpay says 73% of Gen Z purchases are fashion &lpar;Joshua Bote/SFGATE&rpar;](http://www.techmeme.com/220505/p19#a220505p19)<!-- TECH:END -->
+ - [Canadian digital bank Neo Financial raises a CAD$185M Series C at a CAD$1B+ valuation, bringing its total funding to CAD$299M, and says it has 1M+ customers &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220505/p22#a220505p22)
+ - [Microsoft teams up with VW to make HoloLens work in cars](https://www.theverge.com/2022/5/5/23058193/microsoft-hololens-moving-platform-cars-boats-vehicles-volkswagen-driving-hud)
+ - [Top deals May 5: $385 off Samsung Galaxy S21 Plus, $20 off Apple 10.2-inch iPad, $350 off Acer Nitro 5 Ryzen RTX 3080 Gaming Laptop](https://appleinsider.com/articles/22/05/05/top-deals-may-5-385-off-samsung-galaxy-s21-plus-20-off-apple-102-inch-ipad-350-off-acer-nitro-5-ryzen-rtx-3080-gaming-laptop-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
