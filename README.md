@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Elon Musk raises $7.14B for his Twitter bid from Larry Ellison, Binance, Sequoia Capital, Fidelity, and others; Musk needs to raise $21B in equity &lpar;Financial Times&rpar;](http://www.techmeme.com/220505/p10#a220505p10)
- - [Which Microsoft Surface Laptop or Tablet Is Best?](https://www.wired.com/story/microsoft-surface-buying-guide)
- - [15 Last-Minute Mother’s Day Gifts on Sale Now](https://www.wired.com/story/last-minute-mothers-day-deals-2022)<!-- TECH:END -->
+ - [Facebook freezes hiring, blames iOS changes for reduced revenue growth](https://appleinsider.com/articles/22/05/05/facebook-freezes-hiring-blames-ios-changes-for-reduced-revenue-growth?utm_medium=rss)
+ - [Fictiv, which offers tools to predict manufacturing costs and other variables, raises a $100M Series E led by Activate, bringing its total funding to $192M &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220505/p15#a220505p15)
+ - [Apple, Google, and Microsoft announce plans to adopt features from the FIDO Alliance, which is working on passwordless tech for websites and apps &lpar;Ian Sherr/CNET&rpar;](http://www.techmeme.com/220505/p14#a220505p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
