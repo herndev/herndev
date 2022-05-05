@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Takatakataka](http://9gag.com/gag/awzYRwx)
- - ⏩ [Who remembers?](http://9gag.com/gag/aZrRq2z)
- - 👉 [`Can I pet it?`](http://9gag.com/gag/aogYrXX)<!-- MEMES:END -->
+ - 💣 [Speaks for itself](http://9gag.com/gag/aqGY3yj)
+ - ⏩ [Zhat is correct](http://9gag.com/gag/a21LBM9)
+ - 👉 [Brand loyalty at it&#39;s finest](http://9gag.com/gag/aognm23)<!-- MEMES:END -->
 
 ---
 
