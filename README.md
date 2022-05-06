@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Moon Knight ends with a fascinating, worthwhile failure](https://www.polygon.com/23059244/moon-knight-finale-review)
- - [Journey to the Red Planet with Deliver Us Mars on PS4 and PS5](https://blog.playstation.com/2022/05/06/journey-to-the-red-planet-with-deliver-us-mars-on-ps4-and-ps5/)
- - [Journey to the Red Planet with Deliver Us Mars on PS4 and PS5](https://blog.playstation.com/2022/05/06/journey-to-the-red-planet-with-deliver-us-mars-on-ps4-and-ps5/)<!-- GAME:END -->
+ - [Let’s Talk About The Disappointing Ending To Tiny Tina’s Wonderlands](https://kotaku.com/tiny-tinas-wonderlands-ending-explained-dragon-lord-bor-1848888093)
+ - [Objects tell stories in Unpacking, arriving on PS4 and PS5 May 10](https://blog.playstation.com/2022/05/06/objects-tell-stories-in-unpacking-arriving-on-ps4-and-ps5-may-10/)
+ - [Objects tell stories in Unpacking, arriving on PS4 and PS5 May 10](https://blog.playstation.com/2022/05/06/objects-tell-stories-in-unpacking-arriving-on-ps4-and-ps5-may-10/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
