@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple users report &#39;phantom&#39; AirTag stalking alerts, likely because of a bug](https://appleinsider.com/articles/22/05/06/apple-users-report-phantom-airtag-stalking-alerts-likely-because-of-a-bug?utm_medium=rss)
- - [9 Laptops We’ve Tested and Love](https://www.wired.com/gallery/best-laptops)
- - [A pig virus may have contributed to the death of first pig heart transplant patient](https://www.theverge.com/2022/5/6/23060519/pig-virus-heart-transplant-xenotransplantation)<!-- TECH:END -->
+ - [Judge dismisses Donald Trump’s Twitter ban lawsuit](https://www.theverge.com/2022/5/6/23060642/california-judge-dismisses-trump-twitter-ban-lawsuit-first-amendment-section-230)
+ - [Internal docs: Google is revamping performance reviews, resulting in higher pay, as it tries to ease tensions between staff and leadership about compensation &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220506/p17#a220506p17)
+ - [How to cite a YouTube video](https://www.androidauthority.com/how-to-cite-a-youtube-video-3161616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
