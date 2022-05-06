@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ugly truth about that movement](http://9gag.com/gag/aVxRO72)
- - ⏩ [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
+ - 💣 [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
+ - ⏩ [Play stupid games](http://9gag.com/gag/a71n52L)
  - 👉 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)<!-- MEMES:END -->
 
 ---
