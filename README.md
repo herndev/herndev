@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The DJI Mini 3 Pro has thoroughly leaked in an unboxing video and retail post](https://www.theverge.com/2022/5/6/23060143/dii-mini-3-unboxing-leak-retail-announcement-controller-camera)
- - [NASA Artemis I Moon Mission Slips to Possible August Launch Date     - CNET](https://www.cnet.com/science/space/nasa-artemis-i-moon-mission-slips-to-possible-august-launch-date/#ftag=CAD590a51e)
- - [A Huge Wildfire Threatens This Historic Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/a-huge-wildfire-threatens-this-historic-town-but-it-cant-call-for-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
+ - [Volunteers and AI Spot Over 1,000 Unidentified Asteroids in Hubble Images     - CNET](https://www.cnet.com/science/space/volunteers-and-ai-spot-over-1000-unidentified-asteroids-in-hubble-images/#ftag=CAD590a51e)
+ - [World Video Game Hall of Fame 2022 Inductees Include Ocarina of Time, Ms. Pac-Man     - CNET](https://www.cnet.com/tech/gaming/world-video-game-hall-of-fame-2022-inductees-include-ocarina-of-time-ms-pac-man/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
