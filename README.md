@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 6&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [Sources: China has ordered government agencies and state-backed companies to replace foreign PCs with domestic ones running local OSes in two years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220506/p2#a220506p2)
- - [We asked, you told us: Most of you have seen a Pixel in the wild before](https://www.androidauthority.com/google-pixel-phone-in-wild-poll-results-3161709/)<!-- TECH:END -->
+ - [AirPods Pro came from once secretive Apple teams learning to share](https://appleinsider.com/articles/22/05/06/airpods-pro-came-from-once-secretive-apple-teams-learning-to-share?utm_medium=rss)
+ - [Daily Authority: 💻 No glass please](https://www.androidauthority.com/daily-authority-may-6-2022-3161832/)
+ - [Burning Crops to Capture Carbon? Good Luck Finding Water](https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
