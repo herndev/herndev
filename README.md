@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
- - [Halo Infinite&#39;s Season 2 launch has been &#39;bumpy&#39; admits creative lead](https://www.pcgamer.com/halo-infinites-season-2-launch-has-been-bumpy-admits-creative-lead)
- - [The best MMOs in 2022](https://www.pcgamer.com/the-best-mmos)<!-- GAME:END -->
+ - [Moon Knight ends with a fascinating, worthwhile failure](https://www.polygon.com/23059244/moon-knight-finale-review)
+ - [Journey to the Red Planet with Deliver Us Mars on PS4 and PS5](https://blog.playstation.com/2022/05/06/journey-to-the-red-planet-with-deliver-us-mars-on-ps4-and-ps5/)
+ - [Journey to the Red Planet with Deliver Us Mars on PS4 and PS5](https://blog.playstation.com/2022/05/06/journey-to-the-red-planet-with-deliver-us-mars-on-ps4-and-ps5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
