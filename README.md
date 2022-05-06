@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with a part-time employee who earns $10/hour at RaterLabs, a Google subcontractor evaluating search and ad-placement results for accuracy &lpar;Alexandra Garfinkle/Yahoo Finance&rpar;](http://www.techmeme.com/220506/p4#a220506p4)
- - [OpenSea’s official Discord compromised in a phishing attack that stole at least $18k worth of NFTs](https://www.theverge.com/2022/5/6/23059715/nft-discord-phishing-opensea-youtube)
- - [Apple&#39;s Ireland subsidiary paid Apple US $24.8 billion for 2021](https://appleinsider.com/articles/22/05/06/apples-ireland-subsidiary-paid-apple-us-248-billion-for-2021?utm_medium=rss)<!-- TECH:END -->
+ - [Ford files patent application for remote engine revving system](https://www.theverge.com/2022/5/6/23059874/ford-patent-application-remote-engine-revving-system)
+ - [Apple&#39;s $1,999 Mac Studio is in stock now, add AppleCare for only $1](https://appleinsider.com/articles/22/04/11/apples-mac-studio-is-in-stock-now-add-applecare-for-1?utm_medium=rss)
+ - [On May 6, 1998 the iMac changed Apple -- and the entire world](https://appleinsider.com/articles/18/05/06/20-years-ago-the-imac-changed-the-world?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
