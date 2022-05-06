@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid raises its EV prices as the company continues to struggle with production](https://www.theverge.com/2022/5/6/23059976/lucid-motor-ev-price-increase-q1-2022-earnings)
- - [First-batch Apple-1 &amp; Steve Jobs memorabilia hit the auction block](https://appleinsider.com/articles/22/05/06/first-batch-apple-1-steve-jobs-memorabilia-hit-the-auction-block?utm_medium=rss)
- - [US sanctions cryptocurrency mixer Blender.io for allegedly laundering $20.5M from the Axie Infinity hack, making it the first mixer to be sanctioned by the US &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/220506/p12#a220506p12)<!-- TECH:END -->
+ - [The DJI Mini 3 Pro has thoroughly leaked in an unboxing video and retail post](https://www.theverge.com/2022/5/6/23060143/dii-mini-3-unboxing-leak-retail-announcement-controller-camera)
+ - [NASA Artemis I Moon Mission Slips to Possible August Launch Date     - CNET](https://www.cnet.com/science/space/nasa-artemis-i-moon-mission-slips-to-possible-august-launch-date/#ftag=CAD590a51e)
+ - [A Huge Wildfire Threatens This Historic Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/a-huge-wildfire-threatens-this-historic-town-but-it-cant-call-for-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
