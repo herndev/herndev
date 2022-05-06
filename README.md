@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fan Is Making His Own Metroid 64, Nintendo Be Damned](https://kotaku.com/metroid-64-nintendo-fan-mods-fangame-game-3d-n64-indie-1848889132)
- - [First Overwatch 2 Patch Introduces Big Changes To Multiplayer Beta](https://kotaku.com/first-overwatch-2-patch-introduces-big-changes-to-multi-1848888972)
- - [The 24 Karat Gold Nintendo Wii Is Finally Up For Sale](https://kotaku.com/nintendo-wii-gold-24-karat-plated-queen-elizabeth-thq-a-1848888275)<!-- GAME:END -->
+ - [Citizen Sleeper review](https://www.pcgamer.com/citizen-sleeper-review)
+ - [What A Metroid 64 Could Have Looked Like](https://kotaku.com/metroid-64-nintendo-fan-mods-fangame-game-3d-n64-indie-1848889132)
+ - [First Overwatch 2 Patch Introduces Big Changes To Multiplayer Beta](https://kotaku.com/first-overwatch-2-patch-introduces-big-changes-to-multi-1848888972)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
