@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer Fest introduces new 40K Kill Team, Chaos Marines, squats, and more](https://www.polygon.com/23060077/warhammer-fest-kill-team-moloch-squats-chaos-space-marines-necromunda)
- - [Destiny 2 Xur location and items, May 6-10](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/6/23060226/destiny-2-xur-location-items-may-6-10)
- - [Halo Infinite Devs Acknowledge Botched Season 2 Rollout, Are ‘Reviewing Options’](https://kotaku.com/halo-infinite-season-two-challenge-swaps-xp-boosts-skil-1848892108)<!-- GAME:END -->
+ - [Sonic the Hedgehog 2 speeds past Sonic the Hedgehog as top-grossing video game movie](https://www.polygon.com/23060153/sonic-the-hedgehog-2-top-grossing-video-game-movie)
+ - [This Week on Xbox: Three New Xbox Game Pass Launches, New DLC, and Updates](https://news.xbox.com/en-us/2022/05/06/this-week-on-xbox-may-6/)
+ - [Who are the Illuminati in Marvel Comics?](https://www.polygon.com/23046771/doctor-strange-2-illuminati-black-bolt-reed-richards-professor-x-multiverse-of-madness)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
