@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make offline single-player games great again](http://9gag.com/gag/aognZYA)
- - ⏩ [What an awesome guy](http://9gag.com/gag/aYrRWqN)
+ - 💣 [Seems like being buff but not tall is also not an option...](http://9gag.com/gag/aDDQ37Z)
+ - ⏩ [Claw game so rigged that investigator can&#39;t force a win](http://9gag.com/gag/aqGDZxj)
  - 👉 [Enjoy your Friday](http://9gag.com/gag/aze4E7x)<!-- MEMES:END -->
 
 ---
