@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 16 close to completion, producer says, trailer coming ‘soon’](https://www.polygon.com/23059876/final-fantasy-16-development-status-trailer)
- - [How to make sense of House of the Dragon’s latest trailer and all its characters](https://www.polygon.com/game-of-thrones/23058669/house-of-the-dragon-cast-characters-story-fire-and-blood-targaryens)
- - [Cobra Kai season 5 goes back to the mat in September](https://www.polygon.com/23059978/cobra-kai-season-5-trailer-release-date-premiere-debut-cast)<!-- GAME:END -->
+ - [Ocarina of Time headlines Video Game Hall of Fame class of 2022](https://www.polygon.com/23060029/ocarina-of-time-zelda-pac-man-ddr-civilization-video-game-hall-fame)
+ - [Beat back the Bloom with this Warhammer 40,000: Chaos Gate — Daemonhunters guide](https://www.pcgamer.com/warhammer-40k-chaos-gate-daemonhunters-guide)
+ - [Share of the Week: Yellow](https://blog.playstation.com/2022/05/06/share-of-the-week-yellow/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
