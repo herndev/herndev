@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford files patent application for remote engine revving system](https://www.theverge.com/2022/5/6/23059874/ford-patent-application-remote-engine-revving-system)
- - [Apple&#39;s $1,999 Mac Studio is in stock now, add AppleCare for only $1](https://appleinsider.com/articles/22/04/11/apples-mac-studio-is-in-stock-now-add-applecare-for-1?utm_medium=rss)
- - [On May 6, 1998 the iMac changed Apple -- and the entire world](https://appleinsider.com/articles/18/05/06/20-years-ago-the-imac-changed-the-world?utm_medium=rss)<!-- TECH:END -->
+ - [Adding physical buttons to Fitbit’s next-gen devices is a smart idea](https://www.theverge.com/2022/5/6/23058971/fitbit-garmin-fitness-tracker-buttons-watch)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Beats unveils new Powerbeats Pro in collaboration with London designer](https://appleinsider.com/articles/22/05/06/beats-unveils-new-powerbeats-pro-in-collaboration-with-london-designer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
