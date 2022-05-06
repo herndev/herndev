@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Morrowind modder whose kids hate mudcrabs added the family cat to protect them](https://www.pcgamer.com/morrowind-modder-whose-kids-hate-mudcrabs-added-the-family-cat-to-protect-them)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Citizen Sleeper review](https://www.pcgamer.com/citizen-sleeper-review)
- - [What A Metroid 64 Could Have Looked Like](https://kotaku.com/metroid-64-nintendo-fan-mods-fangame-game-3d-n64-indie-1848889132)<!-- GAME:END -->
+ - [Citizen Sleeper review](https://www.pcgamer.com/citizen-sleeper-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
