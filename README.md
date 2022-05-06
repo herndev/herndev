@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [This RTX 3090 Ti running at an extreme 890W is one of the thirstiest GPUs yet](https://www.pcgamer.com/rtx-3090-ti-890w-power)
- - [Overwatch 2 patch gives Zenyatta a badass round-house kick](https://www.pcgamer.com/overwatch-2-patch-gives-zenyatta-a-badass-round-house-kick)<!-- GAME:END -->
+ - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
+ - [Halo Infinite&#39;s Season 2 launch has been &#39;bumpy&#39; admits creative lead](https://www.pcgamer.com/halo-infinites-season-2-launch-has-been-bumpy-admits-creative-lead)
+ - [The best MMOs in 2022](https://www.pcgamer.com/the-best-mmos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
