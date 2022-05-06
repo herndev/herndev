@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Chinese tech companies like Lenovo and Xiaomi are quietly pulling back from Russia; China&#39;s tech exports to Russia fell sharply from February to March &lpar;Dan Strumpf/Wall Street Journal&rpar;](http://www.techmeme.com/220506/p11#a220506p11)
- - [AltStore allows limited sideloading of iPhone apps Apple doesn&#39;t approve](https://appleinsider.com/articles/22/05/06/altstore-allows-limited-sideloading-of-iphone-apps-apple-doesnt-approve?utm_medium=rss)
- - [Nothing launcher is available now &lpar;Update: Video review!&rpar;](https://www.androidauthority.com/nothing-launcher-3158594/)<!-- TECH:END -->
+ - [Lucid raises its EV prices as the company continues to struggle with production](https://www.theverge.com/2022/5/6/23059976/lucid-motor-ev-price-increase-q1-2022-earnings)
+ - [First-batch Apple-1 &amp; Steve Jobs memorabilia hit the auction block](https://appleinsider.com/articles/22/05/06/first-batch-apple-1-steve-jobs-memorabilia-hit-the-auction-block?utm_medium=rss)
+ - [US sanctions cryptocurrency mixer Blender.io for allegedly laundering $20.5M from the Axie Infinity hack, making it the first mixer to be sanctioned by the US &lpar;Joe Warminsky/The Record&rpar;](http://www.techmeme.com/220506/p12#a220506p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
