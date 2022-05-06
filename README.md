@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sam Raimi made the Doctor Strange sequel into the MCU’s creepiest film](https://www.polygon.com/23060466/doctor-strange-in-the-multiverse-of-madness-scary-spoilers-wanda-horror)
- - [The 10 Best Star Wars Games Ever Made](https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189)
- - [How To Get Elden Ring&#39;s Beast-Repellent Torch ASAP](https://kotaku.com/elden-ring-beast-repellent-torch-caelid-useful-items-ea-1848892448)<!-- GAME:END -->
+ - [How Call of Duty turned war into a profitable circus](https://www.polygon.com/videos/23059933/call-of-duty-military-entertainment)
+ - [Where the hell does Star Wars go now?](https://www.polygon.com/star-wars/2022/5/6/23059196/whats-next-for-star-wars)
+ - [I think we have to talk about this $730 twerking Tifa statue](https://www.pcgamer.com/tifa-jack-o-statue-final-fantasy-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
