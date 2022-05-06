@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: An Indian court puts a hold on the Enforcement Directorate&#39;s decision last week to seize $725M of Xiaomi&#39;s local assets &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220506/p3#a220506p3)
- - [UK says its Big Tech regulator will have powers - some day](https://appleinsider.com/articles/22/05/06/uk-says-its-big-tech-regulator-will-have-powers---some-day?utm_medium=rss)
- - [Tips on How to Snag a PlayStation 5 &lpar;Good Luck!&rpar;](https://www.wired.com/story/how-to-buy-sony-playstation-5)<!-- TECH:END -->
+ - [An interview with a part-time employee who earns $10/hour at RaterLabs, a Google subcontractor evaluating search and ad-placement results for accuracy &lpar;Alexandra Garfinkle/Yahoo Finance&rpar;](http://www.techmeme.com/220506/p4#a220506p4)
+ - [OpenSea’s official Discord compromised in a phishing attack that stole at least $18k worth of NFTs](https://www.theverge.com/2022/5/6/23059715/nft-discord-phishing-opensea-youtube)
+ - [Apple&#39;s Ireland subsidiary paid Apple US $24.8 billion for 2021](https://appleinsider.com/articles/22/05/06/apples-ireland-subsidiary-paid-apple-us-248-billion-for-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
