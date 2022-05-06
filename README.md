@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lev, whose marketplace uses AI to help borrowers compare and source commercial real estate financing, raises a $70M Series B, sources say at a $400M valuation &lpar;T.P. Yeatts/The Real Deal New York&rpar;](http://www.techmeme.com/220505/p40#a220505p40)
- - [Huge Wildfire Threatens This Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/huge-wildfire-threatens-this-new-mexico-town-but-it-cant-call-for-help/#ftag=CAD590a51e)
- - [Some former and current staff of esports companies TSM and Blitz allege workplace abuse and a &quot;culture of fear&quot; fostered by CEO Andy Dinh; TSM is investigating &lpar;Mikhail Klimentov/Washington Post&rpar;](http://www.techmeme.com/220505/p39#a220505p39)<!-- TECH:END -->
+ - [SpaceX successfully returns four astronauts from International Space Station](https://www.theverge.com/2022/5/6/23055274/spacex-crew-3-return-iss-nasa-crew-dragon)
+ - [Pachama, which uses AI and remote sensing to verify forest carbon credits, raises a $55M Series B led by Future Positive &lpar;Reuters&rpar;](http://www.techmeme.com/220506/p1#a220506p1)
+ - [More rumors point to OnePlus Pad coming, India launch window tipped &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-pad-india-3073717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
