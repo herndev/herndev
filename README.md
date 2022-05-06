@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bored Ape Yacht Club NFT Fans Lose Millions Trying To Buy Video Game &#39;Land&#39;](https://kotaku.com/nft-bored-ape-otherside-metaverse-scam-video-game-ether-1848892937)
- - [A roboticist built a hardware aimbot that could outperform the pros, until it aimed so hard it died](https://www.pcgamer.com/a-roboticist-built-a-hardware-aimbot-that-could-outperform-the-pros-until-it-aimed-so-hard-it-died)
- - [Top Twitch Streamers Are Capitalizing On Depp V. Heard Trial Trauma](https://kotaku.com/twitch-depp-heard-trial-hasanabi-pokimane-xqc-johnny-am-1848892955)<!-- GAME:END -->
+ - [Sam Raimi made the Doctor Strange sequel into the MCU’s creepiest film](https://www.polygon.com/23060466/doctor-strange-in-the-multiverse-of-madness-scary-spoilers-wanda-horror)
+ - [The 10 Best Star Wars Games Ever Made](https://kotaku.com/star-wars-best-games-ranked-jedi-knight-dark-forces-lis-1848893189)
+ - [How To Get Elden Ring&#39;s Beast-Repellent Torch ASAP](https://kotaku.com/elden-ring-beast-repellent-torch-caelid-useful-items-ea-1848892448)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
