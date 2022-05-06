@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Devolver&#39;s latest Steam sale includes some steep discounts](https://www.pcgamer.com/devolvers-latest-steam-sale-includes-some-steep-discounts)
  - [Morrowind modder whose kids hate mudcrabs added the family cat to protect them](https://www.pcgamer.com/morrowind-modder-whose-kids-hate-mudcrabs-added-the-family-cat-to-protect-them)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Citizen Sleeper review](https://www.pcgamer.com/citizen-sleeper-review)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
