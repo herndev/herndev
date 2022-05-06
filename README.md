@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Fighting gravity](http://9gag.com/gag/aogn94m)
- - ⏩ [In the center of Moscow, several zumers decided to dance for the camera, when suddenly two cops approached them. - Gulag4you](http://9gag.com/gag/a5157nO)
- - 👉 [Are you ok honey ? You barely touched your squareghetti](http://9gag.com/gag/aVxRP98)<!-- MEMES:END -->
+ - ⏩ [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)
+ - 👉 [Scum](http://9gag.com/gag/aXrRw92)<!-- MEMES:END -->
 
 ---
 
