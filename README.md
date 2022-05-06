@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asahi the Beer from Japan](http://9gag.com/gag/aze4gnq)
- - ⏩ [True love....](http://9gag.com/gag/aqGDmqZ)
- - 👉 [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)<!-- MEMES:END -->
+ - 💣 [Leo and Jonah&#39;s subtle improvisation](http://9gag.com/gag/aNPjoB3)
+ - ⏩ [Slayeas&#39; lightsaber spinning](http://9gag.com/gag/aognz8e)
+ - 👉 [Media be like](http://9gag.com/gag/a31NYgN)<!-- MEMES:END -->
 
 ---
 
