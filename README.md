@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX successfully returns four astronauts from International Space Station](https://www.theverge.com/2022/5/6/23055274/spacex-crew-3-return-iss-nasa-crew-dragon)
- - [Pachama, which uses AI and remote sensing to verify forest carbon credits, raises a $55M Series B led by Future Positive &lpar;Reuters&rpar;](http://www.techmeme.com/220506/p1#a220506p1)
- - [More rumors point to OnePlus Pad coming, India launch window tipped &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-pad-india-3073717/)<!-- TECH:END -->
+ - [Poll: Do you read app changelogs on the Google Play Store?](https://www.androidauthority.com/google-play-store-app-changelogs-poll-3161700/)
+ - [OnePlus Nord 2T quietly listed for Europe, revealing price and specs](https://www.androidauthority.com/oneplus-nord-2t-europe-3161651/)
+ - [SpaceX successfully returns four astronauts from International Space Station](https://www.theverge.com/2022/5/6/23055274/spacex-crew-3-return-iss-nasa-crew-dragon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
