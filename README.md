@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro came from once secretive Apple teams learning to share](https://appleinsider.com/articles/22/05/06/airpods-pro-came-from-once-secretive-apple-teams-learning-to-share?utm_medium=rss)
- - [Daily Authority: 💻 No glass please](https://www.androidauthority.com/daily-authority-may-6-2022-3161832/)
- - [Burning Crops to Capture Carbon? Good Luck Finding Water](https://www.wired.com/story/burning-crops-to-capture-carbon-good-luck-finding-water)<!-- TECH:END -->
+ - [Sources: An Indian court puts a hold on the Enforcement Directorate&#39;s decision last week to seize $725M of Xiaomi&#39;s local assets &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220506/p3#a220506p3)
+ - [UK says its Big Tech regulator will have powers - some day](https://appleinsider.com/articles/22/05/06/uk-says-its-big-tech-regulator-will-have-powers---some-day?utm_medium=rss)
+ - [Tips on How to Snag a PlayStation 5 &lpar;Good Luck!&rpar;](https://www.wired.com/story/how-to-buy-sony-playstation-5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
