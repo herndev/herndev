@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crimes of the Future’s red-band trailer makes pain the ultimate pleasure](https://www.polygon.com/23060159/crimes-of-the-future-trailer-red-band-david-cronenberg)
- - [Get Your First Look at F1 22 Today and Watch the Inaugural Miami Grand Prix This Weekend](https://news.xbox.com/en-us/2022/05/06/first-look-f1-22-watch-miami-grand-prix-this-weekend/)
- - [Outriders, Square Enix&#39;s Answer To Destiny, Didn&#39;t Turn A Profit In Its First Year](https://kotaku.com/outriders-game-pass-square-enix-xbox-steam-profits-mone-1848891715)<!-- GAME:END -->
+ - [Warhammer Fest introduces new 40K Kill Team, Chaos Marines, squats, and more](https://www.polygon.com/23060077/warhammer-fest-kill-team-moloch-squats-chaos-space-marines-necromunda)
+ - [Destiny 2 Xur location and items, May 6-10](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/6/23060226/destiny-2-xur-location-items-may-6-10)
+ - [Halo Infinite Devs Acknowledge Botched Season 2 Rollout, Are ‘Reviewing Options’](https://kotaku.com/halo-infinite-season-two-challenge-swaps-xp-boosts-skil-1848892108)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
