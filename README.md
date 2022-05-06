@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete your YouTube account](https://www.androidauthority.com/delete-youtube-account-3161598/)
- - [Blockchain-based gaming startup Untamed Planet, which uses Roblox to create nature-themed games incorporating NFTs, raises a $24M Series A led by Animoca Brands &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220505/p38#a220505p38)
- - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lev, whose marketplace uses AI to help borrowers compare and source commercial real estate financing, raises a $70M Series B, sources say at a $400M valuation &lpar;T.P. Yeatts/The Real Deal New York&rpar;](http://www.techmeme.com/220505/p40#a220505p40)
+ - [Huge Wildfire Threatens This Town, But It Can&#39;t Call for Help     - CNET](https://www.cnet.com/science/huge-wildfire-threatens-this-new-mexico-town-but-it-cant-call-for-help/#ftag=CAD590a51e)
+ - [Some former and current staff of esports companies TSM and Blitz allege workplace abuse and a &quot;culture of fear&quot; fostered by CEO Andy Dinh; TSM is investigating &lpar;Mikhail Klimentov/Washington Post&rpar;](http://www.techmeme.com/220505/p39#a220505p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
