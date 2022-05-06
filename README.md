@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to install and manage apps for Messages on iOS 15 and iPadOS 15](https://appleinsider.com/articles/21/11/10/how-to-install-and-manage-apps-for-messages-on-ios-15-and-ipados-15?utm_medium=rss)
- - [Volunteers and AI Spot Over 1,000 Unidentified Asteroids in Hubble Images     - CNET](https://www.cnet.com/science/space/volunteers-and-ai-spot-over-1000-unidentified-asteroids-in-hubble-images/#ftag=CAD590a51e)
- - [World Video Game Hall of Fame 2022 Inductees Include Ocarina of Time, Ms. Pac-Man     - CNET](https://www.cnet.com/tech/gaming/world-video-game-hall-of-fame-2022-inductees-include-ocarina-of-time-ms-pac-man/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AirTags are sending a new kind of false alarm, report says](https://www.theverge.com/2022/5/6/23060113/airtags-safety-phantom-alerts-apple)
+ - [Google’s latest Roboto variant is a font customizable to its core](https://www.theverge.com/2022/5/6/23059186/google-roboto-flex-variable-font-web-design)
+ - [Apple TV+ shares a behind-the-scenes look at &#39;The Essex Serpent&#39;](https://appleinsider.com/articles/22/05/06/apple-tv-shares-a-behind-the-scenes-look-at-the-essex-serpent?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
