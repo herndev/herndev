@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strange, isn&#39;t it?](http://9gag.com/gag/aze4jEZ)
- - ⏩ [When the Asian community can no longer count on the elected government to protect them in Sacramento, California](http://9gag.com/gag/a515P8N)
- - 👉 [In the center of Moscow, several zumers decided to dance for the camera, when suddenly two cops approached them. - Gulag4you](http://9gag.com/gag/a5157nO)<!-- MEMES:END -->
+ - 💣 [Funny way to blow your nose](http://9gag.com/gag/aqGD5r7)
+ - ⏩ [Strange, isn&#39;t it?](http://9gag.com/gag/aze4jEZ)
+ - 👉 [Fighting gravity](http://9gag.com/gag/aogn94m)<!-- MEMES:END -->
 
 ---
 
