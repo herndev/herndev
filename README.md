@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Someone tweeted at Microsoft to release the 27-year-old source code to 3D Movie Maker, so they did](https://www.pcgamer.com/someone-tweeted-at-microsoft-to-release-the-27-year-old-source-code-to-3d-movie-maker-so-they-did)
- - [Dying Light&#39;s final update gives everyone a free Enhanced Edition upgrade](https://www.pcgamer.com/dying-lights-final-update-gives-everyone-a-free-enhanced-edition-upgrade)
- - [Shepherd finds the right disguise for its familiar horror-movie checklist](https://www.polygon.com/23059089/shepherd-review-horror-movie)<!-- GAME:END -->
+ - [Fan Is Making His Own Metroid 64, Nintendo Be Damned](https://kotaku.com/metroid-64-nintendo-fan-mods-fangame-game-3d-n64-indie-1848889132)
+ - [First Overwatch 2 Patch Introduces Big Changes To Multiplayer Beta](https://kotaku.com/first-overwatch-2-patch-introduces-big-changes-to-multi-1848888972)
+ - [The 24 Karat Gold Nintendo Wii Is Finally Up For Sale](https://kotaku.com/nintendo-wii-gold-24-karat-plated-queen-elizabeth-thq-a-1848888275)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
