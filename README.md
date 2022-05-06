@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who remembers?](http://9gag.com/gag/aZrRq2z)
- - ⏩ [Automatically lose the argment](http://9gag.com/gag/angGYqL)
+ - 💣 [Automatically lose the argment](http://9gag.com/gag/angGYqL)
+ - ⏩ [The garden hose!](http://9gag.com/gag/angGq6z)
  - 👉 [Redo](http://9gag.com/gag/aGz79gZ)<!-- MEMES:END -->
 
 ---
