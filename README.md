@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Automatically lose the argment](http://9gag.com/gag/angGYqL)
- - ⏩ [The garden hose!](http://9gag.com/gag/angGq6z)
- - 👉 [Redo](http://9gag.com/gag/aGz79gZ)<!-- MEMES:END -->
+ - 💣 [This isn&#39;t a GameBoy anymore, it&#39;s a GameMan, and it features just about every accessory you could possibly think of.](http://9gag.com/gag/aGz79Nn)
+ - ⏩ [Redo](http://9gag.com/gag/aGz79gZ)
+ - 👉 [In Japan, some blackboards are equipped with an eraser that scans &amp; saves the text as it erases it so students can access it later.](http://9gag.com/gag/a91DbZ6)<!-- MEMES:END -->
 
 ---
 
