@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you drink a large coffee in public](http://9gag.com/gag/aGz70Dz)
- - ⏩ [What the internet was made for](http://9gag.com/gag/apgVrDb)
- - 👉 [Steve Irwin on what it&#39;s really all about](http://9gag.com/gag/aegRYP5)<!-- MEMES:END -->
+ - 💣 [Man attempts to break into house.](http://9gag.com/gag/aze48xb)
+ - ⏩ [A one-year study of Vietnamese youth who built their own Bugatti out of clay mud...](http://9gag.com/gag/aDDQj79)
+ - 👉 [El Walrus](http://9gag.com/gag/a31NqZQ)<!-- MEMES:END -->
 
 ---
 
