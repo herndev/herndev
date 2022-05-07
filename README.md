@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Director of Machine Learning exits over return-to-office policy](https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy?utm_medium=rss)
- - [Ian Goodfellow, Apple&#39;s director of ML, is leaving due to its return to work policy, saying in a note that &quot;more flexibility would have been the best policy&quot; &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/220507/p9#a220507p9)
- - [Samsung Galaxy S22 Plus vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/galaxy-s22-plus-vs-pixel-6-pro-3141050/)<!-- TECH:END -->
+ - [Tronsmart Bang Speaker review: Solidly middle of the road for a portable speaker](https://appleinsider.com/articles/22/05/07/tronsmart-bang-speaker-review-solidly-middle-of-the-road-for-a-portable-speaker?utm_medium=rss)
+ - [An Xbox outage is preventing some players from launching digital titles](https://www.theverge.com/2022/5/7/23061588/xbox-having-more-issues-affecting-cloud-gaming-digital-titles)
+ - [UK sanctions Baikal Electronics and MCST, Russia&#39;s most important chipmakers, denying them access to the ARM architecture &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220507/p10#a220507p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
