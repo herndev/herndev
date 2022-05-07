@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man attempts to break into house.](http://9gag.com/gag/aze48xb)
- - ⏩ [A one-year study of Vietnamese youth who built their own Bugatti out of clay mud...](http://9gag.com/gag/aDDQj79)
+ - 💣 [I made dis](http://9gag.com/gag/aggKLwW)
+ - ⏩ [POV: How bad people look like!](http://9gag.com/gag/amgRYb6)
  - 👉 [El Walrus](http://9gag.com/gag/a31NqZQ)<!-- MEMES:END -->
 
 ---
