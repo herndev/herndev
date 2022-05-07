@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fighting gravity](http://9gag.com/gag/aogn94m)
- - ⏩ [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)
- - 👉 [Scum](http://9gag.com/gag/aXrRw92)<!-- MEMES:END -->
+ - 💣 [Instead of pulling to the side and take a few seconds, moron decides to take off hoodie while driving](http://9gag.com/gag/aM4q9jM)
+ - ⏩ [Seriously](http://9gag.com/gag/a0ZOpVL)
+ - 👉 [The Guards of the Sword - Historical Swordsmanship](http://9gag.com/gag/aKmKq0Z)<!-- MEMES:END -->
 
 ---
 
