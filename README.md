@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah Potter](http://9gag.com/gag/a61GbW2)
- - ⏩ [Bato Basanov, 25, from Buryatia, was in a record-breaking tank biathlon team that performed last year in war games in front of defence minister Sergei Shoigu and chief of the army general staff Valery Gerasimov.](http://9gag.com/gag/a0ZO54q)
- - 👉 [Pure satisfaction](http://9gag.com/gag/avA9G3M)<!-- MEMES:END -->
+ - 💣 [Bato Basanov, 25, from Buryatia, was in a record-breaking tank biathlon team that performed last year in war games in front of defence minister Sergei Shoigu and chief of the army general staff Valery Gerasimov.](http://9gag.com/gag/a0ZO54q)
+ - ⏩ [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)
+ - 👉 [Just cleaning my pc - found this](http://9gag.com/gag/aze4q3x)<!-- MEMES:END -->
 
 ---
 
