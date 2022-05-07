@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MSI is the latest company to bless our wretched Earth with Neon Genesis Evangelion PC components](https://www.pcgamer.com/msi-evangelion-pc-components)
- - [Netflix’s The Takedown lets old-school leading-man charm carry the action](https://www.polygon.com/23060636/the-takedown-review-netflix-omar-sy)
- - [Star Citizen is doing &#39;bedsheet deformation&#39; physics now, because of course it is](https://www.pcgamer.com/star-citizen-is-doing-bedsheet-deformation-physics-now-because-of-course-it-is)<!-- GAME:END -->
+ - [By The Way, Take-Two’s CEO Profits From All Your GTA Online, NBA 2K Microtransactions](https://kotaku.com/take-two-strauss-zelnick-ceo-gta-online-red-dead-nba-2k-1848894202)
+ - [Double Fine joins Bungie in standing up for women&#39;s healthcare rights, calls for donations to pro-choice orgs](https://www.pcgamer.com/double-fine-joins-bungie-in-standing-up-for-womens-healthcare-rights)
+ - [MSI is the latest company to bless our wretched Earth with Neon Genesis Evangelion PC components](https://www.pcgamer.com/msi-evangelion-pc-components)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
