@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #322: Saturday, May 7](https://www.pcgamer.com/wordle-may-7-322-midst-meaning)
  - [By The Way, Take-Two’s CEO Profits From All Your GTA Online, NBA 2K Microtransactions](https://kotaku.com/take-two-strauss-zelnick-ceo-gta-online-red-dead-nba-2k-1848894202)
- - [Double Fine joins Bungie in standing up for women&#39;s healthcare rights, calls for donations to pro-choice orgs](https://www.pcgamer.com/double-fine-joins-bungie-in-standing-up-for-womens-healthcare-rights)
- - [MSI is the latest company to bless our wretched Earth with Neon Genesis Evangelion PC components](https://www.pcgamer.com/msi-evangelion-pc-components)<!-- GAME:END -->
+ - [Double Fine joins Bungie in standing up for women&#39;s healthcare rights, calls for donations to pro-choice orgs](https://www.pcgamer.com/double-fine-joins-bungie-in-standing-up-for-womens-healthcare-rights)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
