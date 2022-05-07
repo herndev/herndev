@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hockey Star Zach Hyman Has Made Esports His Off-Ice Hustle](https://www.wired.com/story/zach-hyman-esports-gaming-hockey-edmonton-oilers)
- - [Apple Mail Now Blocks Email Tracking. Here’s What That Means](https://www.wired.com/story/apple-mail-blocks-email-tracking-heres-what-it-means)
- - [12 Great Weekend Deals on Smol iPads, TVs, and Theraguns](https://www.wired.com/story/weekend-deals-may-7-2022)<!-- TECH:END -->
+ - [A look at the rise of VPNs in Russia following its war in Ukraine; Apptopia: daily downloads of the top ten VPNs jumped from 15K before the war to 475K in March &lpar;Anthony Faiola/Washington Post&rpar;](http://www.techmeme.com/220507/p5#a220507p5)
+ - [The Best iPhone 13 Cases and Accessories](https://www.wired.com/gallery/best-iphone-13-cases-and-accessories)
+ - [A New Gas-Guzzling Postal Fleet Could Be Halted by Lawsuits](https://www.wired.com/story/a-new-gas-guzzling-postal-fleet-could-get-halted-by-lawsuits)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
