@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 Plus vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/galaxy-s22-plus-vs-pixel-6-pro-3141050/)
- - [Will Smith&#39;s &#39;Emancipation&#39; may not see release on Apple TV+ until 2023](https://appleinsider.com/articles/22/05/07/will-smiths-emancipation-may-delay-apple-tv-release-to-2023?utm_medium=rss)
- - [How to share your Apple Music or Apple One family plan](https://appleinsider.com/articles/21/11/26/how-to-share-your-apple-music-or-apple-one-family-plan?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Director of Machine Learning exits over return-to-office policy](https://appleinsider.com/articles/22/05/07/apples-director-of-machine-learning-exits-over-return-to-office-policy?utm_medium=rss)
+ - [Ian Goodfellow, Apple&#39;s director of ML, is leaving due to its return to work policy, saying in a note that &quot;more flexibility would have been the best policy&quot; &lpar;Zo&amp;euml; Schiffer/@zoeschiffer&rpar;](http://www.techmeme.com/220507/p9#a220507p9)
+ - [Samsung Galaxy S22 Plus vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/galaxy-s22-plus-vs-pixel-6-pro-3141050/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
