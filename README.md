@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [I made dis](http://9gag.com/gag/aggKLwW)
- - ⏩ [POV: How bad people look like!](http://9gag.com/gag/amgRYb6)
- - 👉 [El Walrus](http://9gag.com/gag/a31NqZQ)<!-- MEMES:END -->
+ - ⏩ [There\u2019s always one guy](http://9gag.com/gag/aze481q)
+ - 👉 [Yeah Potter](http://9gag.com/gag/a61GbW2)<!-- MEMES:END -->
 
 ---
 
