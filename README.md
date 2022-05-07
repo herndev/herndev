@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Engineered Arts, a UK-based company making humanoid robots for entertainment and education that can emote and respond to passersby with preset banter &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220507/p3#a220507p3)
- - [Paris-based Rise Up, which provides employee learning software that currently serves 400+ customers and 1M learners in 60 countries, raises a &amp;euro;30M Series B &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/220507/p2#a220507p2)
- - [A major Xbox Network outage is preventing some users from launching games and starting Cloud Gaming sessions; issues related to purchases have been resolved &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/220507/p1#a220507p1)<!-- TECH:END -->
+ - [Sources: Allen Wu, who was replaced as CEO of Arm China by Liu Renchen, has refused to surrender control amid Shanghai&#39;s lockdown, where Arm China&#39;s HQ is based &lpar;Financial Times&rpar;](http://www.techmeme.com/220507/p4#a220507p4)
+ - [Best Cordless Vacuums for 2022     - CNET](https://www.cnet.com/news/best-cordless-vacuum/#ftag=CAD590a51e)
+ - [Inside Engineered Arts, a UK-based company making humanoid robots for entertainment and education that can emote and respond to passersby with preset banter &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220507/p3#a220507p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
