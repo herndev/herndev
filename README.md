@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tronsmart Bang Speaker review: Solidly middle of the road for a portable speaker](https://appleinsider.com/articles/22/05/07/tronsmart-bang-speaker-review-solidly-middle-of-the-road-for-a-portable-speaker?utm_medium=rss)
- - [An Xbox outage is preventing some players from launching digital titles](https://www.theverge.com/2022/5/7/23061588/xbox-having-more-issues-affecting-cloud-gaming-digital-titles)
- - [UK sanctions Baikal Electronics and MCST, Russia&#39;s most important chipmakers, denying them access to the ARM architecture &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220507/p10#a220507p10)<!-- TECH:END -->
+ - [As decentralized crypto bridges prove susceptible to hacks, with ~$1B stolen in February and March, centralized exchanges are rushing out bridge-like features &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220507/p11#a220507p11)
+ - [Tesla sues former engineer for allegedly stealing its supercomputer’s secrets](https://www.theverge.com/2022/5/7/23061523/tesla-sues-former-engineer-allegedly-stealing-supercomputer-technology-project-dojo)
+ - [Tronsmart Bang Speaker review: Solidly middle of the road for a portable speaker](https://appleinsider.com/articles/22/05/07/tronsmart-bang-speaker-review-solidly-middle-of-the-road-for-a-portable-speaker?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
