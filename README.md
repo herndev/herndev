@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [We&#39;re All Going to the World&#39;s Fair is the online experience of a teenage girl in horror movie form](https://www.pcgamer.com/were-all-going-to-the-worlds-fair-is-the-online-experience-of-a-teenage-girl-in-horror-movie-form)
  - [Halo 3: ODST Reimagining Mod Expertly Enhances One Of The Series’ Best Campaigns](https://kotaku.com/halo-3-odst-mod-sandbox-campaign-elites-chief-cortana-w-1848894193)
- - [Who is America Chavez, the newest superhero in Doctor Strange 2?](https://www.polygon.com/23060363/doctor-strange-2-america-chavez-in-marvel-comics)
- - [Today&#39;s Wordle answer #322: Saturday, May 7](https://www.pcgamer.com/wordle-may-7-322-midst-meaning)<!-- GAME:END -->
+ - [Who is America Chavez, the newest superhero in Doctor Strange 2?](https://www.polygon.com/23060363/doctor-strange-2-america-chavez-in-marvel-comics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
