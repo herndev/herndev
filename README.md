@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How low prices and influencers helped Chinese online fast fashion retailer Shein become the world&#39;s third biggest private company, claiming a 28% US marketshare &lpar;Vauhini Vara/Wired&rpar;](http://www.techmeme.com/220506/p18#a220506p18)
- - [Snap didn’t make enough Pixy drones, but won’t say how many it made](https://www.theverge.com/2022/5/6/23059094/snap-pixy-drone-camera-shipping)
- - [US punishes Blender.io for helping North Korea launder millions in stolen Axie crypto](https://www.theverge.com/2022/5/6/23060544/us-treasury-blender-io-sanctions-bitcoin-mixer)<!-- TECH:END -->
+ - [Microsoft’s new ‘One Outlook’ email client for Windows is starting to leak out](https://www.theverge.com/2022/5/6/23060682/microsoft-outlook-redesign-windows-web)
+ - [Amazon is making ‘some management changes’ at JFK8](https://www.theverge.com/2022/5/6/23060808/amazon-jfk8-fired-senior-management-union-response)
+ - [How to turn YouTube closed captions on or off](https://www.androidauthority.com/closed-captions-youtube-3162149/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
