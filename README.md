@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 1TB 14-inch MacBook Pro is $164 off, in stock, plus $60 off AppleCare](https://appleinsider.com/articles/22/05/07/apples-1tb-14-inch-macbook-pro-is-164-off-in-stock-plus-60-off-applecare?utm_medium=rss)
- - [Govee Glide Hexa review: A light that looks good in any area of the home](https://appleinsider.com/articles/22/05/07/govee-glide-hexa-review-a-light-that-looks-good-in-any-area-of-the-home?utm_medium=rss)
- - [Apple&#39;s Self Repair Program was never going to be what repair advocates wanted](https://appleinsider.com/articles/22/05/07/apples-self-repair-program-was-never-going-to-be-what-repair-advocates-wanted?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy S22 Plus vs Google Pixel 6 Pro: Which should you buy?](https://www.androidauthority.com/galaxy-s22-plus-vs-pixel-6-pro-3141050/)
+ - [Will Smith&#39;s &#39;Emancipation&#39; may not see release on Apple TV+ until 2023](https://appleinsider.com/articles/22/05/07/will-smiths-emancipation-may-delay-apple-tv-release-to-2023?utm_medium=rss)
+ - [How to share your Apple Music or Apple One family plan](https://appleinsider.com/articles/21/11/26/how-to-share-your-apple-music-or-apple-one-family-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
