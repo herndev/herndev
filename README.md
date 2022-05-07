@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of VPNs in Russia following its war in Ukraine; Apptopia: daily downloads of the top ten VPNs jumped from 15K before the war to 475K in March &lpar;Anthony Faiola/Washington Post&rpar;](http://www.techmeme.com/220507/p5#a220507p5)
- - [The Best iPhone 13 Cases and Accessories](https://www.wired.com/gallery/best-iphone-13-cases-and-accessories)
- - [A New Gas-Guzzling Postal Fleet Could Be Halted by Lawsuits](https://www.wired.com/story/a-new-gas-guzzling-postal-fleet-could-get-halted-by-lawsuits)<!-- TECH:END -->
+ - [How to use iCloud&#39;s collaboration and sharing tools](https://appleinsider.com/articles/22/03/01/how-to-make-the-most-of-iclouds-collaboration-and-sharing-tools?utm_medium=rss)
+ - [Daily deals May 7: $399 iPad mini, $328 50-inch Vizio Smart TV, $347 LG 27-inch QHD Monitor, more](https://appleinsider.com/articles/22/05/07/daily-deals-may-7-399-ipad-mini-328-50-inch-vizio-smart-tv-347-lg-27-inch-qhd-monitor-more?utm_medium=rss)
+ - [Apple&#39;s Self Repair Program was never going to be what repair advocates wanted](https://appleinsider.com/articles/22/05/07/apples-self-repair-program-was-never-going-to-be-what-repair-advocates-wanted?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
