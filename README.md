@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [12 great sci-fi movies you can watch at home](https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-hbo-max-free)
- - [There was only one person in the world playing Babylon&#39;s Fall on PC earlier this week](https://www.pcgamer.com/there-was-only-one-person-in-the-world-playing-babylons-fall-on-pc-earlier-this-week)
- - [We&#39;re All Going to the World&#39;s Fair is the online experience of a teenage girl in horror movie form](https://www.pcgamer.com/were-all-going-to-the-worlds-fair-is-the-online-experience-of-a-teenage-girl-in-horror-movie-form)<!-- GAME:END -->
+ - [Indie roguelike Shotgun King takes chess and adds hot lead and a grudge](https://www.pcgamer.com/indie-roguelike-shotgun-king-takes-chess-and-adds-hot-lead-and-a-grudge)
+ - [Brutal survival RPG Outward has a definitive edition this month](https://www.pcgamer.com/brutal-survival-rpg-outward-has-a-definitive-edition-this-month)
+ - [12 great sci-fi movies you can watch at home](https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-hbo-max-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
