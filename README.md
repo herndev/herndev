@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wonder why you don&#39;t see those road block protests in Ireland](http://9gag.com/gag/aggKXv1)
- - ⏩ [Wisdom I guess](http://9gag.com/gag/amgR72d)
- - 👉 [Don&#39;t mess with guard kitty](http://9gag.com/gag/awzeQM8)<!-- MEMES:END -->
+ - 💣 [Wisdom I guess](http://9gag.com/gag/amgR72d)
+ - ⏩ [I just really love cats](http://9gag.com/gag/a81Vo1Y)
+ - 👉 [This was me till a few days ago. Slowly getting better though.](http://9gag.com/gag/a91DAQK)<!-- MEMES:END -->
 
 ---
 
