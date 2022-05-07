@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Allen Wu, who was replaced as CEO of Arm China by Liu Renchen, has refused to surrender control amid Shanghai&#39;s lockdown, where Arm China&#39;s HQ is based &lpar;Financial Times&rpar;](http://www.techmeme.com/220507/p4#a220507p4)
- - [Best Cordless Vacuums for 2022     - CNET](https://www.cnet.com/news/best-cordless-vacuum/#ftag=CAD590a51e)
- - [Inside Engineered Arts, a UK-based company making humanoid robots for entertainment and education that can emote and respond to passersby with preset banter &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220507/p3#a220507p3)<!-- TECH:END -->
+ - [Hockey Star Zach Hyman Has Made Esports His Off-Ice Hustle](https://www.wired.com/story/zach-hyman-esports-gaming-hockey-edmonton-oilers)
+ - [Apple Mail Now Blocks Email Tracking. Here’s What That Means](https://www.wired.com/story/apple-mail-blocks-email-tracking-heres-what-it-means)
+ - [12 Great Weekend Deals on Smol iPads, TVs, and Theraguns](https://www.wired.com/story/weekend-deals-may-7-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
