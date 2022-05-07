@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Smith&#39;s &#39;Emancipation&#39; may delay Apple TV+ release to 2023](https://appleinsider.com/articles/22/05/07/will-smiths-emancipation-may-delay-apple-tv-release-to-2023?utm_medium=rss)
- - [Ubisoft’s troubled Prince of Persia remake moved to a new studio, delayed further](https://www.theverge.com/2022/5/3/23055673/ubisoft-prince-persia-remastered-pune-mumbai-montreal)
- - [Sam&#39;s Club Kicks Off &#39;May Big Savings&#39; Event With Steep Discounts on Tech, Clothing and More     - CNET](https://www.cnet.com/news/sams-club-kicks-off-may-big-savings-event-with-steep-discounts-on-tech-clothing-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Govee Glide Hexa review: A light that looks good in any area of the home](https://appleinsider.com/articles/22/05/07/govee-glide-hexa-review-a-light-that-looks-good-in-any-area-of-the-home?utm_medium=rss)
+ - [I prefer Android face unlock to Apple’s Face ID for one simple reason](https://www.androidauthority.com/android-face-unlock-face-id-3159889/)
+ - [Will Smith&#39;s &#39;Emancipation&#39; may delay Apple TV+ release to 2023](https://appleinsider.com/articles/22/05/07/will-smiths-emancipation-may-delay-apple-tv-release-to-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
