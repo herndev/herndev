@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple finishes move of iCloud Documents &amp; Data into iCloud Drive](https://appleinsider.com/articles/22/05/07/apple-finishes-move-of-icloud-documents-data-into-icloud-drive?utm_medium=rss)
- - [Kentucky Derby 2022: How to Watch Live or Stream Today&#39;s Race Without Cable     - CNET](https://www.cnet.com/culture/sports/kentucky-derby-2022-how-to-watch-live-or-stream-without-cable/#ftag=CAD590a51e)
- - [China orders internet services to tighten controls to stop under-18s from tipping live streamers or becoming live streamers themselves without guardian consent &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/220507/p6#a220507p6)<!-- TECH:END -->
+ - [Elon Musk thinks he can double Twitter’s revenue through subscriptions alone](https://www.theverge.com/2022/5/7/23061198/elon-musk-double-twitter-revenue-through-subscriptions-blue)
+ - [How small, commercial drones in Ukraine are letting militias and others conduct cheap airborne surveillance and collect footage for war crimes investigations &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220507/p7#a220507p7)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-431-3162027/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
