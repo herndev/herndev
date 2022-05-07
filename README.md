@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Owner recorded this footage a few hours after his doggo past away.](http://9gag.com/gag/abgRZnp)
- - ⏩ [Annoying streamer gets pepper sprayed and cries like a wimp](http://9gag.com/gag/a5157bO)
- - 👉 [What the internet was made for](http://9gag.com/gag/apgVrDb)<!-- MEMES:END -->
+ - 💣 [Okay you&#39;re old, but are you this old?](http://9gag.com/gag/ajgRAog)
+ - ⏩ [Who&#39;s the legend here?](http://9gag.com/gag/aegRYEm)
+ - 👉 [Steve Irwin on what it&#39;s really all about](http://9gag.com/gag/aegRYP5)<!-- MEMES:END -->
 
 ---
 
