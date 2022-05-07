@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China orders internet services to tighten controls to stop under-18s from tipping live streamers or becoming live streamers themselves without guardian consent &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/220507/p6#a220507p6)
- - [Elden Ring on PlayStation is $10 off at Amazon](https://www.theverge.com/good-deals/2022/5/7/23060203/elden-ring-ps5-ps4-amazon-lenovo-flex-5-chromebook-xbox-stereo-headset-roborock-s7-deal-sale)
- - [Android tablets are exciting again, but Chrome hasn’t kept up](https://www.androidauthority.com/chrome-for-android-tablet-desktop-parity-3158519/)<!-- TECH:END -->
+ - [Apple finishes move of iCloud Documents &amp; Data into iCloud Drive](https://appleinsider.com/articles/22/05/07/apple-finishes-move-of-icloud-documents-data-into-icloud-drive?utm_medium=rss)
+ - [Kentucky Derby 2022: How to Watch Live or Stream Today&#39;s Race Without Cable     - CNET](https://www.cnet.com/culture/sports/kentucky-derby-2022-how-to-watch-live-or-stream-without-cable/#ftag=CAD590a51e)
+ - [China orders internet services to tighten controls to stop under-18s from tipping live streamers or becoming live streamers themselves without guardian consent &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/220507/p6#a220507p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
