@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s new ‘One Outlook’ email client for Windows is starting to leak out](https://www.theverge.com/2022/5/6/23060682/microsoft-outlook-redesign-windows-web)
- - [Amazon is making ‘some management changes’ at JFK8](https://www.theverge.com/2022/5/6/23060808/amazon-jfk8-fired-senior-management-union-response)
- - [How to turn YouTube closed captions on or off](https://www.androidauthority.com/closed-captions-youtube-3162149/)<!-- TECH:END -->
+ - [A report on publicly traded crypto mining companies finds Core Scientific leads with $545M in 2021 revenue, Riot Blockchain had $215M, and Hive Blockchain $195M &lpar;Cointelegraph&rpar;](http://www.techmeme.com/220506/p20#a220506p20)
+ - [Best Nintendo Switch Deals and Bundles     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-deals/#ftag=CAD590a51e)
+ - [The Mercedes-AMG Will.i.amg Will Make You Look Twice     - CNET](https://www.cnet.com/roadshow/pictures/mercedes-amg-will-i-am-coupe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
