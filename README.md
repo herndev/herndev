@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/adgRKzd)
- - ⏩ [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)
- - 👉 [Meanwhile in indonesia](http://9gag.com/gag/aOQprp3)<!-- MEMES:END -->
+ - 💣 [Got my wife a new rug for the kitchen, don&#39;t think she will notice.](http://9gag.com/gag/aOQp0y6)
+ - ⏩ [Faith in animals restored](http://9gag.com/gag/aGz7jGw)
+ - 👉 [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)<!-- MEMES:END -->
 
 ---
 
