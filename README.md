@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A report on publicly traded crypto mining companies finds Core Scientific leads with $545M in 2021 revenue, Riot Blockchain had $215M, and Hive Blockchain $195M &lpar;Cointelegraph&rpar;](http://www.techmeme.com/220506/p20#a220506p20)
- - [Best Nintendo Switch Deals and Bundles     - CNET](https://www.cnet.com/tech/gaming/best-nintendo-switch-deals/#ftag=CAD590a51e)
- - [The Mercedes-AMG Will.i.amg Will Make You Look Twice     - CNET](https://www.cnet.com/roadshow/pictures/mercedes-amg-will-i-am-coupe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside Engineered Arts, a UK-based company making humanoid robots for entertainment and education that can emote and respond to passersby with preset banter &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220507/p3#a220507p3)
+ - [Paris-based Rise Up, which provides employee learning software that currently serves 400+ customers and 1M learners in 60 countries, raises a &amp;euro;30M Series B &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/220507/p2#a220507p2)
+ - [A major Xbox Network outage is preventing some users from launching games and starting Cloud Gaming sessions; issues related to purchases have been resolved &lpar;Zachary Boddy/Windows Central&rpar;](http://www.techmeme.com/220507/p1#a220507p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
