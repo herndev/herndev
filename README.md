@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Parent angry Apple didn&#39;t stop 10-year-old&#39;s $2,500 TikTok spree](https://appleinsider.com/articles/22/05/08/parent-angry-apple-didnt-stop-10-year-olds-2500-tiktok-spree?utm_medium=rss)
  - [Bose Quietcomfort 35 II vs Bose Quietcomfort 45: The incumbent keeps the throne](https://www.androidauthority.com/bose-quietcomfort-35-ii-vs-bose-quietcomfort-45-3159928/)
- - [Leaked Motorola Razr 3 images reveal an upgraded camera and a boxier design](https://www.theverge.com/2022/5/8/23062542/motorola-razr-3-leak-upgraded-camera-boxier-design-foldable)
- - [Opinion: Apple has the technical chops to safely open up its NFC chip for third party payments apps, and the main reason it is not doing it is the revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220508/p7#a220508p7)<!-- TECH:END -->
+ - [Leaked Motorola Razr 3 images reveal an upgraded camera and a boxier design](https://www.theverge.com/2022/5/8/23062542/motorola-razr-3-leak-upgraded-camera-boxier-design-foldable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
