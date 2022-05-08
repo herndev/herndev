@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie roguelike Shotgun King takes chess and adds hot lead and a grudge](https://www.pcgamer.com/indie-roguelike-shotgun-king-takes-chess-and-adds-hot-lead-and-a-grudge)
- - [Brutal survival RPG Outward has a definitive edition this month](https://www.pcgamer.com/brutal-survival-rpg-outward-has-a-definitive-edition-this-month)
- - [12 great sci-fi movies you can watch at home](https://www.polygon.com/what-to-watch/23051923/best-sci-fi-movies-netflix-hulu-hbo-max-free)<!-- GAME:END -->
+ - [Dexter: The Game involved more crab-smashing than murder for some reason](https://www.pcgamer.com/saturday-crapshoot-dexter)
+ - [What do you drink while gaming?](https://www.pcgamer.com/what-do-you-drink-while-gaming)
+ - [Indie roguelike Shotgun King takes chess and adds hot lead and a grudge](https://www.pcgamer.com/indie-roguelike-shotgun-king-takes-chess-and-adds-hot-lead-and-a-grudge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
