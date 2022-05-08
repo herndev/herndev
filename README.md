@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They might be ok with the geh, up to B, but they still have some standards!](http://9gag.com/gag/aZrR0oQ)
- - ⏩ [Happy Mother&#39;s Day everyone](http://9gag.com/gag/aNPjPLb)
- - 👉 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)<!-- MEMES:END -->
+ - 💣 [When my best friend tells me there is no beer at his wedding because his wife wants him to stop drinking and start focusing on the family life](http://9gag.com/gag/aognKNA)
+ - ⏩ [The Chinese are really good at one thing....](http://9gag.com/gag/aze4MDb)
+ - 👉 [The boys in this photo were exposed to the same smallpox source. The one on the right received the small pox vaccine at birth, and the other didn\u2019t. This photo was taken by Dr. Allan Warner in the early 1900s at Isolation Hospital at Leicester in the UK.](http://9gag.com/gag/aE8Z839)<!-- MEMES:END -->
 
 ---
 
