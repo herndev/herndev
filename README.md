@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW temporarily ships cars without Apple CarPlay](https://appleinsider.com/articles/22/05/08/bmw-temporarily-ships-cars-without-apple-carplay?utm_medium=rss)
- - [I want to love smartwatches, but I can’t replace my GPS watch](https://www.androidauthority.com/smartwatches-gps-watch-3160392/)
- - [Liven Up Your Garden With Up to 51% Off Wind Chimes, Bird Feeders and More     - CNET](https://www.cnet.com/news/liven-up-your-garden-with-up-to-51-off-wind-chimes-bird-feeders-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Profile of AltStore, which has been downloaded 1.5M times since its launch in 2019, as it rolls out a curated section to make sideloading apps on iOS easier &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220508/p6#a220508p6)
+ - [Smarten Up Your Life With Up to 57% Off SwitchBot Smart Devices     - CNET](https://www.cnet.com/news/smarten-up-your-life-with-up-to-57-off-switchbot-smart-devices/#ftag=CAD590a51e)
+ - [BMW temporarily ships cars without Apple CarPlay](https://appleinsider.com/articles/22/05/08/bmw-temporarily-ships-cars-without-apple-carplay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
