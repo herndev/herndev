@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Challenger disaster](http://9gag.com/gag/a41w1Mp)
- - ⏩ [In a meme](http://9gag.com/gag/axBmyGb)
- - 👉 [How to die effectively](http://9gag.com/gag/aKmKGDj)<!-- MEMES:END -->
+ - 💣 [In a meme](http://9gag.com/gag/axBmyGb)
+ - ⏩ [How to die effectively](http://9gag.com/gag/aKmKGDj)
+ - 👉 [Happy mother&#39;s day !](http://9gag.com/gag/a91D13o)<!-- MEMES:END -->
 
 ---
 
