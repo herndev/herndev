@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her reason? `I didn&#39;t think I would feel this way`. Like, f**king how... All she ever talked about is how much she hates kids. Well, I don&#39;t regret it anyway](http://9gag.com/gag/a71nEpL)
- - ⏩ [Guys only want one thing](http://9gag.com/gag/aggKBAw)
- - 👉 [They might be ok with the geh, up to B, but they still have some standards!](http://9gag.com/gag/aZrR0oQ)<!-- MEMES:END -->
+ - 💣 [Art](http://9gag.com/gag/a31N17Q)
+ - ⏩ [Should have looked left...](http://9gag.com/gag/a91DEd0)
+ - 👉 [Jesus wild&#39;n man](http://9gag.com/gag/aDDQdQN)<!-- MEMES:END -->
 
 ---
 
