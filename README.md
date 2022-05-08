@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of AltStore, which has been downloaded 1.5M times since its launch in 2019, as it rolls out a curated section to make sideloading apps on iOS easier &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220508/p6#a220508p6)
- - [Smarten Up Your Life With Up to 57% Off SwitchBot Smart Devices     - CNET](https://www.cnet.com/news/smarten-up-your-life-with-up-to-57-off-switchbot-smart-devices/#ftag=CAD590a51e)
- - [BMW temporarily ships cars without Apple CarPlay](https://appleinsider.com/articles/22/05/08/bmw-temporarily-ships-cars-without-apple-carplay?utm_medium=rss)<!-- TECH:END -->
+ - [Get the Complete Microsoft Azure Training Bundle for Just $39     - CNET](https://www.cnet.com/tech/services-and-software/get-the-complete-microsoft-azure-training-bundle-for-just-39/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
+ - [Profile of AltStore, which has been downloaded 1.5M times since its launch in 2019, as it rolls out a curated section to make sideloading apps on iOS easier &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220508/p6#a220508p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
