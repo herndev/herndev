@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 8: $150 Apple TV 4K, $469 iPad Air, $80 Lego Star Wars Yoda, more](https://appleinsider.com/articles/22/05/08/daily-deals-may-8-10-off-apple-tv-4k-469-ipad-air-80-lego-star-wars-yoda-more?utm_medium=rss)
- - [How to use Shared with You on iOS 15](https://appleinsider.com/articles/21/08/05/how-to-use-shared-with-you-on-ios-15?utm_medium=rss)
- - [These Are Our Favorite Robot Vacuums](https://www.wired.com/gallery/best-robot-vacuums)<!-- TECH:END -->
+ - [Ncuti Gatwa will star as Doctor Who’s Fourteenth Doctor](https://www.theverge.com/2022/5/8/23062341/ncuti-gatwa-doctor-who-fourteenth-doctor-bbc)
+ - [Password sharing isn’t killing Netflix, streaming fatigue is](https://www.androidauthority.com/netflix-streaming-service-fatigue-3157277/)
+ - [AirPods Pro 2, new AirPods Max colors expected for fall launch](https://appleinsider.com/articles/22/05/08/airpods-pro-2-new-airpods-max-colors-expected-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
