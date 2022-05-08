@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get rect](http://9gag.com/gag/aze4mPz)
- - ⏩ [No strings attached](http://9gag.com/gag/angGQQ5)
- - 👉 [Nunchaku master !](http://9gag.com/gag/arn8MGV)<!-- MEMES:END -->
+ - 💣 [Made my first furniture ever! A cabinet with drawers for Magic the Gathering cards, and I&#39;m pretty happy with the results.](http://9gag.com/gag/aegRAev)
+ - ⏩ [Nunchaku master !](http://9gag.com/gag/arn8MGV)
+ - 👉 [Should\u2019ve been red](http://9gag.com/gag/aVxR7pO)<!-- MEMES:END -->
 
 ---
 
