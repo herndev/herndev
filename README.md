@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jabra Elite 7 Active review: Fit for fitness](https://www.androidauthority.com/jabra-elite-7-active-review-3158861/)
- - [Axiomatic Gaming, the parent of esports organization Team Liquid, raises $35M led by Ares Management, valuing Team Liquid at $415M &lpar;Matt Craig/Forbes&rpar;](http://www.techmeme.com/220507/p12#a220507p12)
- - [&#39;Doctor Strange 2&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp announces Message Reactions, support for sharing files up to 2GB in size, and is rolling out the ability to add up to 512 people to a group &lpar;WABetaInfo&rpar;](http://www.techmeme.com/220508/p2#a220508p2)
+ - [Sources: Instagram to launch a pilot for NFT integrations for Ethereum, Polygon, Solana, and Flow as soon as Monday, will not charge users for showcasing NFTs &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220508/p1#a220508p1)
+ - [Jabra Elite 7 Active review: Fit for fitness](https://www.androidauthority.com/jabra-elite-7-active-review-3158861/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
