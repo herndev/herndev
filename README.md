@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sam Raimi on how he let Doctor Strange audiences ‘build their own nightmare’](https://www.polygon.com/23060583/doctor-strange-in-the-multiverse-of-madness-sam-raimi-interview)
  - [Today&#39;s Wordle answer #323: Sunday, May 8](https://www.pcgamer.com/wordle-may-8-323-canny-meaning)
- - [The big games from the last decade we forgot ever existed](https://www.pcgamer.com/the-big-games-from-the-last-decade-we-forgot-ever-existed)
- - [D&amp;D board game Tomb of Annihilation is being pulled from Steam](https://www.pcgamer.com/dandd-board-game-tomb-of-annihilation-is-being-pulled-from-steam)<!-- GAME:END -->
+ - [The big games from the last decade we forgot ever existed](https://www.pcgamer.com/the-big-games-from-the-last-decade-we-forgot-ever-existed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
