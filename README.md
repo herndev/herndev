@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parent angry Apple didn&#39;t stop 10-year-old&#39;s $2,500 TikTok spree](https://appleinsider.com/articles/22/05/08/parent-angry-apple-didnt-stop-10-year-olds-2500-tiktok-spree?utm_medium=rss)
- - [Bose Quietcomfort 35 II vs Bose Quietcomfort 45: The incumbent keeps the throne](https://www.androidauthority.com/bose-quietcomfort-35-ii-vs-bose-quietcomfort-45-3159928/)
- - [Leaked Motorola Razr 3 images reveal an upgraded camera and a boxier design](https://www.theverge.com/2022/5/8/23062542/motorola-razr-3-leak-upgraded-camera-boxier-design-foldable)<!-- TECH:END -->
+ - [After halting Android app and subscription purchases in Russia over sanctions, Google Play now also blocks &quot;downloading of paid apps and updates to paid apps&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220508/p8#a220508p8)
+ - [The EU could start enforcing rules to regulate Big Tech in spring 2023](https://www.theverge.com/2022/5/8/23062666/eu-start-enforcing-the-dma-digital-markets-act-spring-2023-big-tech-regulation)
+ - [Monoprice 28-inch CrystalPro 4K monitor review: low-priced but hurt by cheap build](https://appleinsider.com/articles/22/05/08/monoprice-28-inch-crystalpro-4k-monitor-review-low-priced-but-hurt-by-cheap-build?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
