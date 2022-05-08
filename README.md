@@ -182,6 +182,6 @@ Linux                    14 hrs 1 min        ███████████�
 
 </details>
 
-![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
