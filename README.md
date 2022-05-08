@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Undone isn’t about escaping your past, but accepting it](https://www.polygon.com/23060278/undone-season-2-trauma-mental-health)
  - [This week in PC Gaming: Salt and Sacrifice, We Were Here Forever and Evil Dead: The Game](https://www.pcgamer.com/this-week-in-pc-gaming-salt-and-sacrifice-we-were-here-forever-evil-dead-the-game)
- - [‘My body is ready’: How Reggie learned to speak Nintendo’s language of fun](https://www.polygon.com/2022/5/8/23060311/reggie-fils-aime-nintendo-disrupting-the-game-interview)
- - [Sam Raimi on how he let Doctor Strange audiences ‘build their own nightmare’](https://www.polygon.com/23060583/doctor-strange-in-the-multiverse-of-madness-sam-raimi-interview)<!-- GAME:END -->
+ - [‘My body is ready’: How Reggie learned to speak Nintendo’s language of fun](https://www.polygon.com/2022/5/8/23060311/reggie-fils-aime-nintendo-disrupting-the-game-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
