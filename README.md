@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get the Complete Microsoft Azure Training Bundle for Just $39     - CNET](https://www.cnet.com/tech/services-and-software/get-the-complete-microsoft-azure-training-bundle-for-just-39/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Profile of AltStore, which has been downloaded 1.5M times since its launch in 2019, as it rolls out a curated section to make sideloading apps on iOS easier &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220508/p6#a220508p6)<!-- TECH:END -->
+ - [Bose Quietcomfort 35 II vs Bose Quietcomfort 45: The incumbent keeps the throne](https://www.androidauthority.com/bose-quietcomfort-35-ii-vs-bose-quietcomfort-45-3159928/)
+ - [Leaked Motorola Razr 3 images reveal an upgraded camera and a boxier design](https://www.theverge.com/2022/5/8/23062542/motorola-razr-3-leak-upgraded-camera-boxier-design-foldable)
+ - [Opinion: Apple has the technical chops to safely open up its NFC chip for third party payments apps, and the main reason it is not doing it is the revenue &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220508/p7#a220508p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
