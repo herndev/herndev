@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s 2022, phones should be built to last five years or more](https://www.androidauthority.com/mature-tech-outlook-3145421/)
- - [MIUI has some annoying issues, but here’s how to fix them](https://www.androidauthority.com/xiaomi-miui-annoyances-3161207/)
- - [7 Tips to Work Smarter in Google Docs](https://www.wired.com/story/7-google-docs-productivity-tips)<!-- TECH:END -->
+ - [Xbox Live recovers from an outage lasting several hours](https://www.theverge.com/2022/5/7/23061588/xbox-having-more-issues-affecting-cloud-gaming-digital-titles)
+ - [Sleuth, an AI-powered tool that integrates with software development toolchains to measure developer productivity, raises a $22M Series A led by Felicis &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220508/p4#a220508p4)
+ - [Who Are Instagram&#39;s Infertility Influencers Really Helping?](https://www.wired.com/story/mother-day-ivf-instagram-influencers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
