@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders are turning Mount &amp; Blade 2: Bannerlord into an RTS](https://www.pcgamer.com/modders-are-turning-mount-and-blade-2-bannerlord-into-an-rts)
- - [Undone isn’t about escaping your past, but accepting it](https://www.polygon.com/23060278/undone-season-2-trauma-mental-health)
- - [This week in PC Gaming: Salt and Sacrifice, We Were Here Forever and Evil Dead: The Game](https://www.pcgamer.com/this-week-in-pc-gaming-salt-and-sacrifice-we-were-here-forever-evil-dead-the-game)<!-- GAME:END -->
+ - [Mining sandbox Hydroneer now has multiplayer, vehicles, and an optimized code rework](https://www.pcgamer.com/mining-sandbox-hydroneer-now-has-multiplayer-vehicles-and-an-optimized-code-rework)
+ - [Vampire Survivors gets heavy metal in 0.5.2 update](https://www.pcgamer.com/vampire-survivors-gets-heavy-metal-in-052-update)
+ - [Modders are turning Mount &amp; Blade 2: Bannerlord into an RTS](https://www.pcgamer.com/modders-are-turning-mount-and-blade-2-bannerlord-into-an-rts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
