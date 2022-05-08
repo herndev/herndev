@@ -96,7 +96,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight Homo habilis](http://9gag.com/gag/aegRDdv)
+ - 💣 [Get rect](http://9gag.com/gag/aze4mPz)
  - ⏩ [No strings attached](http://9gag.com/gag/angGQQ5)
  - 👉 [Nunchaku master !](http://9gag.com/gag/arn8MGV)<!-- MEMES:END -->
 
