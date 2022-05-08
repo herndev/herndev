@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jabra Elite 7 Active review: Fit for fitness](https://www.androidauthority.com/jabra-elite-7-active-review-3158861/)
  - [The Real Costs of Electric Car Ownership     - CNET](https://www.cnet.com/roadshow/news/electric-vehicle-ownership-costs/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [As decentralized crypto bridges prove susceptible to hacks, with ~$1B stolen in February and March, centralized exchanges are rushing out bridge-like features &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220507/p11#a220507p11)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
