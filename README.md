@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ncuti Gatwa will star as Doctor Who’s Fourteenth Doctor](https://www.theverge.com/2022/5/8/23062341/ncuti-gatwa-doctor-who-fourteenth-doctor-bbc)
- - [Password sharing isn’t killing Netflix, streaming fatigue is](https://www.androidauthority.com/netflix-streaming-service-fatigue-3157277/)
- - [AirPods Pro 2, new AirPods Max colors expected for fall launch](https://appleinsider.com/articles/22/05/08/airpods-pro-2-new-airpods-max-colors-expected-for-fall-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Some tech workers in Latin America advocate for Spanish-language training and a Spanish programming language, even as the best IT jobs still require English &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220508/p5#a220508p5)
+ - [Apple plans more Fitness+ workouts and Instacart-style service alongside payment features](https://appleinsider.com/articles/22/05/08/apple-plans-more-fitness-workouts-and-instacart-style-service-alongside-payment-features?utm_medium=rss)
+ - [Ncuti Gatwa will star as Doctor Who’s Fourteenth Doctor](https://www.theverge.com/2022/5/8/23062341/ncuti-gatwa-doctor-who-fourteenth-doctor-bbc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
