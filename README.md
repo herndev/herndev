@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Faith in animals restored](http://9gag.com/gag/aGz7jGw)
- - ⏩ [Hope they are not siblings\u2026](http://9gag.com/gag/aVxR3y8)
- - 👉 [Whirlpool Turbines Can Provide 24/7 Renewable Energy For Dozens Of Homes](http://9gag.com/gag/apgV2m5)<!-- MEMES:END -->
+ - 💣 [How I met your mother.](http://9gag.com/gag/a21OZn1)
+ - ⏩ [Freddie Mercury - Barcelona](http://9gag.com/gag/a11OQ8R)
+ - 👉 [Is it them again Yogi?](http://9gag.com/gag/aKmKx4W)<!-- MEMES:END -->
 
 ---
 
