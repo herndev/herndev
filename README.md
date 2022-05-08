@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with RISC-V International CEO Calista Redmond about the non-profit that oversees the open-source processor technology, industry adoption, and more &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/220508/p3#a220508p3)
  - [WhatsApp announces Message Reactions, support for sharing files up to 2GB in size, and is rolling out the ability to add up to 512 people to a group &lpar;WABetaInfo&rpar;](http://www.techmeme.com/220508/p2#a220508p2)
- - [Sources: Instagram to launch a pilot for NFT integrations for Ethereum, Polygon, Solana, and Flow as soon as Monday, will not charge users for showcasing NFTs &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220508/p1#a220508p1)
- - [Jabra Elite 7 Active review: Fit for fitness](https://www.androidauthority.com/jabra-elite-7-active-review-3158861/)<!-- TECH:END -->
+ - [Sources: Instagram to launch a pilot for NFT integrations for Ethereum, Polygon, Solana, and Flow as soon as Monday, will not charge users for showcasing NFTs &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220508/p1#a220508p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
