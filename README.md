@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a big hole](http://9gag.com/gag/aOQp0Zv)
- - ⏩ [Now, this is a true icon.](http://9gag.com/gag/aKmK7K1)
- - 👉 [Due to Amber\u2019s stupidity, not only can Depp\u2019s team potentially depose and bring Kate Moss forward as a witness, but they can also now bring up Amber\u2019s history of previous violent relationships during her cross](http://9gag.com/gag/a21OR9w)<!-- MEMES:END -->
+ - 💣 [Now, this is a true icon.](http://9gag.com/gag/aKmK7K1)
+ - ⏩ [Ready to ride](http://9gag.com/gag/aegR58m)
+ - 👉 [I&#39;m coming for you Starbucks](http://9gag.com/gag/a31Nw7N)<!-- MEMES:END -->
 
 ---
 
