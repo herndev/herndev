@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to approach a cat in public](http://9gag.com/gag/a11OPy2)
- - ⏩ [How to die effectively](http://9gag.com/gag/aKmKGDj)
- - 👉 [When my best friend tells me there is no beer at his wedding because his wife wants him to stop drinking and start focusing on the family life](http://9gag.com/gag/aognKNA)<!-- MEMES:END -->
+ - 💣 [In a meme](http://9gag.com/gag/axBmyGb)
+ - ⏩ [When my best friend tells me there is no beer at his wedding because his wife wants him to stop drinking and start focusing on the family life](http://9gag.com/gag/aognKNA)
+ - 👉 [The Challenger disaster](http://9gag.com/gag/a41w1Mp)<!-- MEMES:END -->
 
 ---
 
