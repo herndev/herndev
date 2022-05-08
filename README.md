@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some new BMWs will reportedly come without Android Auto and Apple CarPlay](https://www.theverge.com/2022/5/8/23062417/new-bmws-reportedly-come-without-android-auto-apple-carplay-chip-shortage)
- - [Some tech workers in Latin America advocate for Spanish-language training and a Spanish programming language, even as the best IT jobs still require English &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220508/p5#a220508p5)
- - [Mother&#39;s Day Google Doodle Celebrates Mom&#39;s Nurturing Hand     - CNET](https://www.cnet.com/culture/internet/mothers-day-google-doodle-celebrates-moms-nurturing-hand/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW temporarily ships cars without Apple CarPlay](https://appleinsider.com/articles/22/05/08/bmw-temporarily-ships-cars-without-apple-carplay?utm_medium=rss)
+ - [I want to love smartwatches, but I can’t replace my GPS watch](https://www.androidauthority.com/smartwatches-gps-watch-3160392/)
+ - [Liven Up Your Garden With Up to 51% Off Wind Chimes, Bird Feeders and More     - CNET](https://www.cnet.com/news/liven-up-your-garden-with-up-to-51-off-wind-chimes-bird-feeders-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
