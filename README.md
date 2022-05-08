@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How I met your mother.](http://9gag.com/gag/a21OZn1)
- - ⏩ [Freddie Mercury - Barcelona](http://9gag.com/gag/a11OQ8R)
- - 👉 [Is it them again Yogi?](http://9gag.com/gag/aKmKx4W)<!-- MEMES:END -->
+ - 💣 [Got my wife a new rug for the kitchen, don&#39;t think she will notice.](http://9gag.com/gag/aOQp0y6)
+ - ⏩ [Yes I do sex every day](http://9gag.com/gag/angG9qo)
+ - 👉 [There is no feeling like it. The perfect nap scenario.](http://9gag.com/gag/arn8Vmd)<!-- MEMES:END -->
 
 ---
 
