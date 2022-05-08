@@ -90,8 +90,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Jabra Elite 7 Active review: Fit for fitness](https://www.androidauthority.com/jabra-elite-7-active-review-3158861/)
- - [The Real Costs of Electric Car Ownership     - CNET](https://www.cnet.com/roadshow/news/electric-vehicle-ownership-costs/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Axiomatic Gaming, the parent of esports organization Team Liquid, raises $35M led by Ares Management, valuing Team Liquid at $415M &lpar;Matt Craig/Forbes&rpar;](http://www.techmeme.com/220507/p12#a220507p12)
+ - [&#39;Doctor Strange 2&#39; Post-Credits Scenes, Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
