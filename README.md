@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [‘My body is ready’: How Reggie learned to speak Nintendo’s language of fun](https://www.polygon.com/2022/5/8/23060311/reggie-fils-aime-nintendo-disrupting-the-game-interview)
  - [Sam Raimi on how he let Doctor Strange audiences ‘build their own nightmare’](https://www.polygon.com/23060583/doctor-strange-in-the-multiverse-of-madness-sam-raimi-interview)
- - [Today&#39;s Wordle answer #323: Sunday, May 8](https://www.pcgamer.com/wordle-may-8-323-canny-meaning)
- - [The big games from the last decade we forgot ever existed](https://www.pcgamer.com/the-big-games-from-the-last-decade-we-forgot-ever-existed)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #323: Sunday, May 8](https://www.pcgamer.com/wordle-may-8-323-canny-meaning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
