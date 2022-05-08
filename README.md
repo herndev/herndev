@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dexter: The Game involved more crab-smashing than murder for some reason](https://www.pcgamer.com/saturday-crapshoot-dexter)
- - [What do you drink while gaming?](https://www.pcgamer.com/what-do-you-drink-while-gaming)
- - [Indie roguelike Shotgun King takes chess and adds hot lead and a grudge](https://www.pcgamer.com/indie-roguelike-shotgun-king-takes-chess-and-adds-hot-lead-and-a-grudge)<!-- GAME:END -->
+ - [D&amp;D board game Tomb of Annihilation is being pulled from Steam](https://www.pcgamer.com/dandd-board-game-tomb-of-annihilation-is-being-pulled-from-steam)
+ - [Lost Ark is getting its first legion raid and more modern clothes this month](https://www.pcgamer.com/lost-ark-is-getting-its-first-legion-raid-and-more-modern-clothes-this-month)
+ - [Dexter: The Game involved more crab-smashing than murder for some reason](https://www.pcgamer.com/saturday-crapshoot-dexter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
