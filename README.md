@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot Games sues another League of Legends ‘ripoff’](https://www.polygon.com/23064347/riot-games-league-of-legends-knockoffs-mobile-legends-bang-bang)
- - [Tech YouTubers are stepping up a war against Indian scam call centers](https://www.pcgamer.com/tech-youtubers-are-stepping-up-a-war-against-indian-scam-call-centers)
- - [Summer Games Done Quick features back-to-back Elden Ring runs](https://www.pcgamer.com/summer-games-done-quick-features-back-to-back-elden-ring-runs)<!-- GAME:END -->
+ - [The best gaming routers in 2022](https://www.pcgamer.com/best-gaming-routers)
+ - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)
+ - [Dead Space remake: everything we know about the revamped sci-fi horror classic](https://www.pcgamer.com/dead-space-remake-release-date-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
