@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Infamous, early build of Duke Nukem Forever leaks, ‘looks real,’ creator says](https://www.polygon.com/23063606/duke-nukem-forever-leak-leaked-build-source-code)
- - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
- - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)<!-- GAME:END -->
+ - [Borderlands 3 Shift codes: Every active Shift code and how to redeem them](https://www.pcgamer.com/borderlands-3-shift-codes)
+ - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)
+ - [Final Fantasy 14 director tackles the hopeless task of trying to get MMO players to uninstall UI mods](https://www.pcgamer.com/final-fantasy-14s-director-says-no-way-jose-to-thirdparty-software)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
