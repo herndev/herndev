@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, keyhole-peeping comes to Skyrim](https://www.pcgamer.com/finally-keyhole-peeping-comes-to-skyrim)
  - [Today&#39;s Wordle answer #324: Monday, May 9](https://www.pcgamer.com/wordle-may-9-324)
- - [Intel Arc desktop cards face more delays](https://www.pcgamer.com/intel-arc-desktop-cards-face-more-delays)
- - [This iMac to monitor conversion is almost as good as the Studio Display](https://www.pcgamer.com/this-imac-to-monitor-conversion-is-almost-as-good-as-the-studio-display)<!-- GAME:END -->
+ - [Intel Arc desktop cards face more delays](https://www.pcgamer.com/intel-arc-desktop-cards-face-more-delays)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
