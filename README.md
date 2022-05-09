@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elizabeth Olsen stands by the Scarlet Witch’s MCU evolution](https://www.theverge.com/2022/5/9/23058670/elizabeth-olsen-scarlet-witch-defend-marvel-mcu)
- - [Sonos Ray soundbar leaks, new Decora switches, and more on HomeKit Insider](https://appleinsider.com/articles/22/05/09/sonos-ray-soundbar-leaks-new-decora-switches-and-more-on-homekit-insider?utm_medium=rss)
- - [What to expect from Google I/O on Wednesday](https://www.theverge.com/2022/5/9/23063318/google-io-2022-rumors-announcements-android-13-pixel-watch-6a-keynote)<!-- TECH:END -->
+ - [How to make NFC automations to use with your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-make-nfc-automations-to-use-with-your-iphone?utm_medium=rss)
+ - [Everybody’s got a gun in Avatar: The Way of Water’s first trailer](https://www.theverge.com/23055453/avatar-2-trailer-the-way-of-water-release-date)
+ - [Poll: Is your phone covered by a long-term update pledge?](https://www.androidauthority.com/your-phone-long-term-update-pledge-poll-3162550/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
