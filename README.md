@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Czech Republic-based DoDo Group, which specializes in last-mile B2B logistics tech and has 2,000 couriers in seven countries, raises a &amp;euro;60M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220509/p4#a220509p4)
- - [Apple and Google protest against Australia&#39;s proposed antitrust reforms](https://appleinsider.com/articles/22/05/09/apple-and-google-protest-against-australias-proposed-antitrust-reforms?utm_medium=rss)
- - [What to Do If You Can&#39;t Log In to Your Google Account](https://www.wired.com/story/what-to-do-locked-out-cant-log-in-google-account)<!-- TECH:END -->
+ - [Bitcoin falls by up to 4.6% to $32,800, its lowest level since July 2021, as investors back away from risky investments; Cardano, Polkadot, and others also drop &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220509/p7#a220509p7)
+ - [How to check VRAM on Windows 11](https://www.androidauthority.com/check-vram-windows-11-3160861/)
+ - [How to find out why your iMessage is not working](https://www.androidauthority.com/imessage-not-working-3161927/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
