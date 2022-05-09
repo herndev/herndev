@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Chances are low, but never 0!](http://9gag.com/gag/aE8Z6bp)
- - ⏩ [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)
- - 👉 [He is an inspiration for all of us here. He is such a cool dude because he was raised by good people. &lpar;4:19 minute video&rpar;](http://9gag.com/gag/aVxRg0O)<!-- MEMES:END -->
+ - ⏩ [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)
+ - 👉 [Vote buying on Philippines as of today is the Presidential election.](http://9gag.com/gag/a91D6ED)<!-- MEMES:END -->
 
 ---
 
