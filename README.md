@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The wonders of modern engineering.](http://9gag.com/gag/ay9vWrM)
- - ⏩ [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)
- - 👉 [This guy gets it...](http://9gag.com/gag/abgRWbE)<!-- MEMES:END -->
+ - 💣 [This guy gets it...](http://9gag.com/gag/abgRWbE)
+ - ⏩ [Yes](http://9gag.com/gag/ay9v1dX)
+ - 👉 [Y&#39;all is a circus](http://9gag.com/gag/apgVxGE)<!-- MEMES:END -->
 
 ---
 
