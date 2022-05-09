@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You need to see how good this train station looks in Unreal Engine 5](https://www.polygon.com/23064113/unreal-engine-5-train-station-demo)
- - [Polygon summer 2022 preview](https://www.polygon.com/23055447/polygon-summer-2022-preview)
- - [This summer, be free of the need to read Fire &amp; Blood](https://www.polygon.com/23057740/read-fire-blood-house-of-the-dragon)<!-- GAME:END -->
+ - [White House announces a deal that will provide low-cost, high-speed internet to millions of American households](https://www.pcgamer.com/white-house-announces-a-deal-that-will-provide-low-cost-high-speed-internet-to-millions-of-american-households)
+ - [Overwatch 2 pro team punished for &#39;illegal&#39; maneuver that even Blizzard admits was fun](https://www.pcgamer.com/overwatch-2-pro-team-punished-for-illegal-maneuver-that-even-blizzard-admits-was-fun)
+ - [Genshin Impact guides and walkthroughs](https://www.polygon.com/genshin-impact-guides/21523060/tips-tricks-puzzle-walkthrough-resources-materials-exp-characters-level-up-stamina)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
