@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Egypt-based Paymob, which lets merchants accept digital payments online and in-store, raises a $50M Series B led by PayPal, bringing its total raised to $68.5M+ &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220509/p3#a220509p3)
- - [We asked, you told us: Most of you are using this version of Android right now](https://www.androidauthority.com/current-android-version-poll-results-3162449/)
- - [10 Nonalcoholic Drinks to Serve at Parties     - CNET](https://www.cnet.com/health/nutrition/10-non-alcoholic-drinks-to-serve-at-holiday-parties/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Czech Republic-based DoDo Group, which specializes in last-mile B2B logistics tech and has 2,000 couriers in seven countries, raises a &amp;euro;60M Series B &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220509/p4#a220509p4)
+ - [Apple and Google protest against Australia&#39;s proposed antitrust reforms](https://appleinsider.com/articles/22/05/09/apple-and-google-protest-against-australias-proposed-antitrust-reforms?utm_medium=rss)
+ - [What to Do If You Can&#39;t Log In to Your Google Account](https://www.wired.com/story/what-to-do-locked-out-cant-log-in-google-account)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
