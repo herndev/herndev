@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-see-this-evening/#ftag=CAD590a51e)
- - [The Problem With &#39;Doctor Strange 2&#39;s&#39; Surprise Cameos     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-and-the-mcus-bait-and-switch-cameos-need-to-stop/#ftag=CAD590a51e)
- - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-stream-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean startup Bucketplace, known for its home decorating app Ohouse, raises a $182M Series D, sources say at a post-money valuation of around $1.4B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220508/p9#a220508p9)
+ - [Kendrick Lamar Uses Deepfakes to Add Will Smith and Kanye West in New Music Video     - CNET](https://www.cnet.com/culture/entertainment/kendrick-lamar-uses-deepfakes-to-add-will-smith-and-kanye-west-in-new-music-video/#ftag=CAD590a51e)
+ - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-to-watch-on-netflix-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
