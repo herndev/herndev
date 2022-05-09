@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [George Pérez, legendary artist of Crisis on Infinite Earths, Infinity Gauntlet, dies at 67](https://www.polygon.com/23036059/george-perez-death-obituary-wonder-woman-teen-titans-avengers)
- - [Wordle Removes ‘Fetus’ Answer Following Attack On Abortion Rights](https://kotaku.com/wordle-different-answers-fetus-abortion-roe-wade-new-yo-1848899280)
- - [Avatar 2’s trailer is finally online so you can witness The Way of Water for yourself](https://www.polygon.com/23045177/avatar-2-trailer-way-of-water-release-date-cast-sequels)<!-- GAME:END -->
+ - [Infamous, early build of Duke Nukem Forever leaks, ‘looks real,’ creator says](https://www.polygon.com/23063606/duke-nukem-forever-leak-leaked-build-source-code)
+ - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)
+ - [The Salt and Sacrifice team talks about the magic of Soulslike multiplayer communities](https://blog.playstation.com/2022/05/09/the-salt-and-sacrifice-team-talks-about-the-magic-of-soulslike-multiplayer-communities/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
