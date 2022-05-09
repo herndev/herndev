@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What an ending](http://9gag.com/gag/aPZrmRV)
- - ⏩ [On your feet](http://9gag.com/gag/a0ZOV0X)
- - 👉 [Types of fire for outdoor adventure lovers](http://9gag.com/gag/aZrR1OX)<!-- MEMES:END -->
+ - 💣 [Get to the choppaaaa](http://9gag.com/gag/aAGvE8L)
+ - ⏩ [It&#39;s kinda like reverse nostalgia.](http://9gag.com/gag/a81VmeY)
+ - 👉 [Wish you a good day](http://9gag.com/gag/aqGDXxZ)<!-- MEMES:END -->
 
 ---
 
