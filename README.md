@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [White House announces a deal that will provide low-cost, high-speed internet to millions of American households](https://www.pcgamer.com/white-house-announces-a-deal-that-will-provide-low-cost-high-speed-internet-to-millions-of-american-households)
- - [Overwatch 2 pro team punished for &#39;illegal&#39; maneuver that even Blizzard admits was fun](https://www.pcgamer.com/overwatch-2-pro-team-punished-for-illegal-maneuver-that-even-blizzard-admits-was-fun)
- - [Genshin Impact guides and walkthroughs](https://www.polygon.com/genshin-impact-guides/21523060/tips-tricks-puzzle-walkthrough-resources-materials-exp-characters-level-up-stamina)<!-- GAME:END -->
+ - [Riot Games sues another League of Legends ‘ripoff’](https://www.polygon.com/23064347/riot-games-league-of-legends-knockoffs-mobile-legends-bang-bang)
+ - [Tech YouTubers are stepping up a war against Indian scam call centers](https://www.pcgamer.com/tech-youtubers-are-stepping-up-a-war-against-indian-scam-call-centers)
+ - [Summer Games Done Quick features back-to-back Elden Ring runs](https://www.pcgamer.com/summer-games-done-quick-features-back-to-back-elden-ring-runs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
