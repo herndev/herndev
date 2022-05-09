@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get to the choppaaaa](http://9gag.com/gag/aAGvE8L)
- - ⏩ [It&#39;s kinda like reverse nostalgia.](http://9gag.com/gag/a81VmeY)
- - 👉 [Wish you a good day](http://9gag.com/gag/aqGDXxZ)<!-- MEMES:END -->
+ - 💣 [Russia cancels military flyovers of fighter planes and helicopters in this year&#39;s victory day parade due to `bad weather`. I dont know dudes... looks f**king sunny to me.](http://9gag.com/gag/aDDQ8Gd)
+ - ⏩ [After a car accident, Dutch police give trauma teddies to children.](http://9gag.com/gag/a71n0Kb)
+ - 👉 [I may have made the wrong choice](http://9gag.com/gag/aggKORr)<!-- MEMES:END -->
 
 ---
 
