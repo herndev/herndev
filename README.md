@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers: Elon Musk, who promised to defeat Twitter&#39;s &quot;spam bots or die trying&quot;, has for years benefited from bots, from fake followers to Tesla shills &lpar;Washington Post&rpar;](http://www.techmeme.com/220509/p18#a220509p18)
- - [Asus’ new Zenbook Pro 16X OLED raises the entire keyboard tray when you lift its lid](https://www.theverge.com/23060820/asus-zenbook-pro-16x-oled-hinge-laptop-raise-keyboard-dial)
- - [Asus’ pop art-inspired laptops look totally absurd and I’m here for it](https://www.theverge.com/2022/5/9/23058543/asus-vivobook-slate-13-oled-steven-harrington-philip-colbert)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Asus Zenbook Pro 14 Duo OLED review: a dual-screen laptop that works](https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price)
+ - [UST loses its dollar peg twice in &lt;48 hours, going as low as $0.9825, after the Luna Foundation Guard said it would defend the stablecoin with bitcoin reserves &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/220509/p21#a220509p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
