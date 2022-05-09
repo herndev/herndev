@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Chaos Gate – Daemonhunters giving Twitch drops to everyone after players threw a tantrum](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-giving-twitch-drops-to-everyone-after-players-threw-a-tantrum)
- - [This modder is bringing the long-dormant dream of Voxel Doom to life](https://www.pcgamer.com/this-modder-is-bringing-the-long-dormant-dream-of-voxel-doom-to-life)
- - [Zelda Player Kills Guardian With Anime-Ass Swordplay](https://kotaku.com/zelda-breath-wild-anime-slice-sword-video-highlight-nin-1848898267)<!-- GAME:END -->
+ - [Asus is set to enter the high performance SSD market](https://www.pcgamer.com/asus-is-set-to-enter-the-high-performance-ssd-market)
+ - [40K Developers Criticised Over Dumb Twitch Drops](https://kotaku.com/warhammer-40000-chaos-gate-daemonhunters-40k-twitch-pc-1848898451)
+ - [Warhammer 40,000: Chaos Gate – Daemonhunters giving Twitch drops to everyone after players threw a tantrum](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-giving-twitch-drops-to-everyone-after-players-threw-a-tantrum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
