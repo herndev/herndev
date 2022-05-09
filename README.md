@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Number go down](https://www.theverge.com/2022/5/9/23064269/bitcoin-sell-plunge-crypto)
- - [Sonos Roam leak shows off new colors for the portable speaker: light blue, olive, and red](https://www.theverge.com/2022/5/9/23063538/sonos-roam-color-leak-email-portable-outdoor-speaker)
- - [Sources: Meta is considering reducing the money it gives news orgs as it weighs presenting news content on Facebook as short videos rather than as articles &lpar;The Information&rpar;](http://www.techmeme.com/220509/p24#a220509p24)<!-- TECH:END -->
+ - [Canada&#39;s Competition Bureau files an application to block Rogers&#39; $26B purchase of Shaw, saying it would lead to worse service, higher prices, and fewer choices &lpar;Tara Deschamps/Canadian Press&rpar;](http://www.techmeme.com/220509/p27#a220509p27)
+ - [US State Department announces $10 million bounty after Costa Rica ransomware attack](https://www.theverge.com/2022/5/9/23064321/costa-rica-conti-ransomware-attack-state-of-emergency-reward)
+ - [Apple to restructure services business to focus more on advertising, streaming](https://appleinsider.com/articles/22/05/09/apple-to-restructure-services-business-to-focus-more-on-advertising-streaming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
