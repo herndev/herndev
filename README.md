@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy gets it...](http://9gag.com/gag/abgRWbE)
- - ⏩ [All hail the money cat !!!](http://9gag.com/gag/avA9Eqb)
- - 👉 [Happy Europe Day from Baguetteland to all Europeans! EU is not perfect but I&#39;m glad we try to build something together](http://9gag.com/gag/amgRGOX)<!-- MEMES:END -->
+ - 💣 [The wonders of modern engineering.](http://9gag.com/gag/ay9vWrM)
+ - ⏩ [I need one of those birds lol](http://9gag.com/gag/aBn4VAx)
+ - 👉 [This guy gets it...](http://9gag.com/gag/abgRWbE)<!-- MEMES:END -->
 
 ---
 
