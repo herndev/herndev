@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On your feet](http://9gag.com/gag/a0ZOV0X)
- - ⏩ [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)
- - 👉 [How Legend eat gum](http://9gag.com/gag/a31N08r)<!-- MEMES:END -->
+ - 💣 [Intelligent people are more prone to mental illness?](http://9gag.com/gag/axBm62b)
+ - ⏩ [On your feet](http://9gag.com/gag/a0ZOV0X)
+ - 👉 [Trilobite fossil approximately 400 million years old](http://9gag.com/gag/a61G592)<!-- MEMES:END -->
 
 ---
 
