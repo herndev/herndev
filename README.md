@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Roe v. Wade gets overturned, any location and search data about users collected by tech companies might be used in abortion-related criminal prosecutions &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220509/p1#a220509p1)
- - [This may be our first look at the Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-design-images-3162383/)
- - [South Korean startup Bucketplace, known for its home decorating app Ohouse, raises a $182M Series D, sources say at a post-money valuation of around $1.4B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220508/p9#a220508p9)<!-- TECH:END -->
+ - [Samsung’s new foldable may not be its fastest charging phone, but that’s okay.](https://www.androidauthority.com/samsung-galaxy-z-fold-4-z-flip-4-charging-3162395/)
+ - [&#39;Groundbreaking Result&#39; of Milky Way&#39;s Black Hole Coming Soon     - CNET](https://www.cnet.com/science/space/groundbreaking-result-of-milky-ways-black-hole-coming-this-week/#ftag=CAD590a51e)
+ - [Monday&#39;s Wordle Answer Was About as Controversial as Possible     - CNET](https://www.cnet.com/culture/mondays-wordle-answer-was-about-as-controversial-as-possible/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
