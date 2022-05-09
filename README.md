@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mining sandbox Hydroneer now has multiplayer, vehicles, and an optimized code rework](https://www.pcgamer.com/mining-sandbox-hydroneer-now-has-multiplayer-vehicles-and-an-optimized-code-rework)
- - [Vampire Survivors gets heavy metal in 0.5.2 update](https://www.pcgamer.com/vampire-survivors-gets-heavy-metal-in-052-update)
- - [Modders are turning Mount &amp; Blade 2: Bannerlord into an RTS](https://www.pcgamer.com/modders-are-turning-mount-and-blade-2-bannerlord-into-an-rts)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 9, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-9-2022)
+ - [Neon boomer shooter Reaver lets you sail through the air with weapon recoil](https://www.pcgamer.com/neon-boomer-shooter-reaver-lets-you-sail-through-the-air-with-weapon-recoil)
+ - [Kids &#39;Tipping&#39; Streamers &amp; Watching After 10pm Is Being Banned In China](https://kotaku.com/china-livestream-gamers-gaming-tip-tips-banned-outlawed-1848898084)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
