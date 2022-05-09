@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean startup Bucketplace, known for its home decorating app Ohouse, raises a $182M Series D, sources say at a post-money valuation of around $1.4B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220508/p9#a220508p9)
- - [Kendrick Lamar Uses Deepfakes to Add Will Smith and Kanye West in New Music Video     - CNET](https://www.cnet.com/culture/entertainment/kendrick-lamar-uses-deepfakes-to-add-will-smith-and-kanye-west-in-new-music-video/#ftag=CAD590a51e)
- - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-to-watch-on-netflix-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [If Roe v. Wade gets overturned, any location and search data about users collected by tech companies might be used in abortion-related criminal prosecutions &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/220509/p1#a220509p1)
+ - [This may be our first look at the Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-design-images-3162383/)
+ - [South Korean startup Bucketplace, known for its home decorating app Ohouse, raises a $182M Series D, sources say at a post-money valuation of around $1.4B &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220508/p9#a220508p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
