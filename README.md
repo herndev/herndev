@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not gonna lie, I&#39;ve never been a fan of Stephen Harvey, but this is useful.](http://9gag.com/gag/aM4qnVA)
- - ⏩ [After a car accident, Dutch police give trauma teddies to children.](http://9gag.com/gag/a71n0Kb)
- - 👉 [My ex colleague and friend got killed by a Russian bomb this weekend. He was a good guy from the Netherlands who didn&#39;t hesitate one second to answer Zelenski&#39;s ask for help for experienced soldiers. RIP my friend](http://9gag.com/gag/angGn8o)<!-- MEMES:END -->
+ - 💣 [This guy gets it...](http://9gag.com/gag/abgRWbE)
+ - ⏩ [All hail the money cat !!!](http://9gag.com/gag/avA9Eqb)
+ - 👉 [Happy Europe Day from Baguetteland to all Europeans! EU is not perfect but I&#39;m glad we try to build something together](http://9gag.com/gag/amgRGOX)<!-- MEMES:END -->
 
 ---
 
