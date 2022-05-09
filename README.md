@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Borderlands 3 Shift codes: Every active Shift code and how to redeem them](https://www.pcgamer.com/borderlands-3-shift-codes)
- - [The horror movie Men is a thousand arguments waiting to happen](https://www.polygon.com/23063126/men-review-alex-garland-jessie-buckley)
- - [Final Fantasy 14 director tackles the hopeless task of trying to get MMO players to uninstall UI mods](https://www.pcgamer.com/final-fantasy-14s-director-says-no-way-jose-to-thirdparty-software)<!-- GAME:END -->
+ - [Far-Right Dev&#39;s Kyle Rittenhouse Steam Shooter Isn&#39;t &#39;Edgy,&#39; It&#39;s Embarrassing](https://kotaku.com/acquitted-steam-nordic-empire-games-far-right-kyle-ritt-1848900365)
+ - [Watch the new Guardians of the Galaxy ride without going to Disney World](https://www.polygon.com/23063825/guardians-of-the-galaxy-ride-epcot-pov-video)
+ - [Weird West patch means guards will think KO-ed NPCs on beds are just sleeping](https://www.pcgamer.com/weird-west-patch-means-guards-will-think-ko-ed-npcs-on-beds-are-just-sleeping)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
