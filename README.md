@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Doctor Doom’s multiverse of madness, and we’re all just living in it](https://www.polygon.com/23063545/marvel-multiverse-doctor-doom-avengers)
- - [Meet The Only Person Keeping Action RPG Babylon’s Fall Alive](https://kotaku.com/babylons-fall-dashiell-wood-sole-pc-player-platinum-squ-1848901095)
- - [Elden Ring legend Let Me Solo Her will livestream 1,000th Malenia victory tomorrow](https://www.pcgamer.com/elden-ring-legend-let-me-solo-her-will-livestream-1000th-malenia-victory-tomorrow)<!-- GAME:END -->
+ - [You need to see how good this train station looks in Unreal Engine 5](https://www.polygon.com/23064113/unreal-engine-5-train-station-demo)
+ - [Polygon summer 2022 preview](https://www.polygon.com/23055447/polygon-summer-2022-preview)
+ - [This summer, be free of the need to read Fire &amp; Blood](https://www.polygon.com/23057740/read-fire-blood-house-of-the-dragon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
