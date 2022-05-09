@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/axBmyML)
- - ⏩ [How to make Adventure time sandwich](http://9gag.com/gag/aBn46rP)
- - 👉 [Slime mold used to organize Japan\u2019s Train network \ud83c\uddef\ud83c\uddf5](http://9gag.com/gag/aqGDRyZ)<!-- MEMES:END -->
+ - 💣 [How to make Adventure time sandwich](http://9gag.com/gag/aBn46rP)
+ - ⏩ [Well of course this will get banned](http://9gag.com/gag/aze4dKB)
+ - 👉 [Vote buying on Philippines as of today is the Presidential election.](http://9gag.com/gag/a91D6ED)<!-- MEMES:END -->
 
 ---
 
