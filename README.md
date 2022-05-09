@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget consoles, Microsoft could soon launch an Xbox game streaming stick](https://www.androidauthority.com/xbox-game-streaming-device-3162438/)
- - [An interview with former SoftBank COO Marcelo Claure on his investment firm Claure Group, his current relationship with Masayoshi Son, helming WeWork, and more &lpar;Isabela Fleischmann/Bloomberg L&amp;iacute;nea&rpar;](http://www.techmeme.com/220509/p2#a220509p2)
- - [Leak says we must get ready for a Moto’rolla’ble phone](https://www.androidauthority.com/motorola-rollable-phone-3162421/)<!-- TECH:END -->
+ - [Egypt-based Paymob, which lets merchants accept digital payments online and in-store, raises a $50M Series B led by PayPal, bringing its total raised to $68.5M+ &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/220509/p3#a220509p3)
+ - [We asked, you told us: Most of you are using this version of Android right now](https://www.androidauthority.com/current-android-version-poll-results-3162449/)
+ - [10 Nonalcoholic Drinks to Serve at Parties     - CNET](https://www.cnet.com/health/nutrition/10-non-alcoholic-drinks-to-serve-at-holiday-parties/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
