@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Like fine wine](http://9gag.com/gag/aWgRoqd)
- - ⏩ [Only legends will get this](http://9gag.com/gag/aYrRPMw)
- - 👉 [Yes](http://9gag.com/gag/ay9v1dX)<!-- MEMES:END -->
+ - ⏩ [Yes](http://9gag.com/gag/ay9v1dX)
+ - 👉 [Epoxy flooring](http://9gag.com/gag/aegRxdB)<!-- MEMES:END -->
 
 ---
 
