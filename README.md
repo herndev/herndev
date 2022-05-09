@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby Gorilla making fun with elderly Gorilla in a game Reserve](http://9gag.com/gag/aegRZD5)
- - ⏩ [Get to the choppaaaa](http://9gag.com/gag/aAGvE8L)
- - 👉 [On your feet](http://9gag.com/gag/a0ZOV0X)<!-- MEMES:END -->
+ - 💣 [On your feet](http://9gag.com/gag/a0ZOV0X)
+ - ⏩ [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)
+ - 👉 [How Legend eat gum](http://9gag.com/gag/a31N08r)<!-- MEMES:END -->
 
 ---
 
