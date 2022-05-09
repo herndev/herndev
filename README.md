@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy mother&#39;s day !](http://9gag.com/gag/a91D13o)
- - ⏩ [Shanghai](http://9gag.com/gag/ay9v2RY)
- - 👉 [How to die effectively](http://9gag.com/gag/aKmKGDj)<!-- MEMES:END -->
+ - 💣 [In a meme](http://9gag.com/gag/axBmyGb)
+ - ⏩ [A blind man walks into a bar. And a table. And a door. And a staircase.](http://9gag.com/gag/ay9vq4V)
+ - 👉 [What happened to this \ud83d\ude15](http://9gag.com/gag/aqGDepZ)<!-- MEMES:END -->
 
 ---
 
