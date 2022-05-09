@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After halting Android app and subscription purchases in Russia over sanctions, Google Play now also blocks &quot;downloading of paid apps and updates to paid apps&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220508/p8#a220508p8)
- - [The EU could start enforcing rules to regulate Big Tech in spring 2023](https://www.theverge.com/2022/5/8/23062666/eu-start-enforcing-the-dma-digital-markets-act-spring-2023-big-tech-regulation)
- - [Monoprice 28-inch CrystalPro 4K monitor review: low-priced but hurt by cheap build](https://appleinsider.com/articles/22/05/08/monoprice-28-inch-crystalpro-4k-monitor-review-low-priced-but-hurt-by-cheap-build?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-see-this-evening/#ftag=CAD590a51e)
+ - [The Problem With &#39;Doctor Strange 2&#39;s&#39; Surprise Cameos     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-and-the-mcus-bait-and-switch-cameos-need-to-stop/#ftag=CAD590a51e)
+ - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-stream-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
