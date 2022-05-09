@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to make Adventure time sandwich](http://9gag.com/gag/aBn46rP)
- - ⏩ [Well of course this will get banned](http://9gag.com/gag/aze4dKB)
- - 👉 [Vote buying on Philippines as of today is the Presidential election.](http://9gag.com/gag/a91D6ED)<!-- MEMES:END -->
+ - 💣 [Chances are low, but never 0!](http://9gag.com/gag/aE8Z6bp)
+ - ⏩ [Unreal Engine graphics](http://9gag.com/gag/apgVDqM)
+ - 👉 [He is an inspiration for all of us here. He is such a cool dude because he was raised by good people. &lpar;4:19 minute video&rpar;](http://9gag.com/gag/aVxRg0O)<!-- MEMES:END -->
 
 ---
 
