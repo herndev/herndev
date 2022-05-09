@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The leaked 2001 build of Duke Nukem Forever is actually real](https://www.pcgamer.com/the-leaked-2001-build-of-duke-nukem-forever-is-actually-real)
- - [Shredder’s Revenge brings the TMNT beat-’em-up into the modern age](https://www.polygon.com/23060646/tmnt-shredders-revenge-impressions-gameplay)
- - [EA’s making Lord of the Rings games again](https://www.polygon.com/23062514/lord-of-the-rings-video-games-mobile-ea-heroes-of-middle-earth)<!-- GAME:END -->
+ - [George Pérez, legendary artist of Crisis on Infinite Earths, Infinity Gauntlet, dies at 67](https://www.polygon.com/23036059/george-perez-death-obituary-wonder-woman-teen-titans-avengers)
+ - [Wordle Removes ‘Fetus’ Answer Following Attack On Abortion Rights](https://kotaku.com/wordle-different-answers-fetus-abortion-roe-wade-new-yo-1848899280)
+ - [Avatar 2’s trailer is finally online so you can witness The Way of Water for yourself](https://www.polygon.com/23045177/avatar-2-trailer-way-of-water-release-date-cast-sequels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
