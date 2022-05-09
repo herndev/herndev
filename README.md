@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Scientists add mouth haptics to VR, complete with spiders](https://www.pcgamer.com/scientists-add-mouth-haptics-to-vr-complete-with-spiders)
  - [Asus is set to enter the high performance SSD market](https://www.pcgamer.com/asus-is-set-to-enter-the-high-performance-ssd-market)
- - [40K Developers Criticised Over Dumb Twitch Drops](https://kotaku.com/warhammer-40000-chaos-gate-daemonhunters-40k-twitch-pc-1848898451)
- - [Warhammer 40,000: Chaos Gate – Daemonhunters giving Twitch drops to everyone after players threw a tantrum](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-giving-twitch-drops-to-everyone-after-players-threw-a-tantrum)<!-- GAME:END -->
+ - [40K Developers Criticised Over Dumb Twitch Drops](https://kotaku.com/warhammer-40000-chaos-gate-daemonhunters-40k-twitch-pc-1848898451)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
