@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [American Vandal makers take on League of Legends in esports spoof](https://www.polygon.com/23063923/players-paramount-plus-trailer-release-date)
- - [Valve Boss Gabe Newell Didn&#39;t Want Zombies In Left 4 Dead](https://kotaku.com/left-4-dead-l4d-zombies-valve-gabe-newell-chet-faliszek-1848900909)
- - [Hitman 3 delays roguelike mode so it&#39;s &#39;as close to our ambitions as possible&#39;](https://www.pcgamer.com/hitman-3-delays-roguelike-mode-so-its-as-close-to-our-ambitions-as-possible)<!-- GAME:END -->
+ - [It’s Doctor Doom’s multiverse of madness, and we’re all just living in it](https://www.polygon.com/23063545/marvel-multiverse-doctor-doom-avengers)
+ - [Meet The Only Person Keeping Action RPG Babylon’s Fall Alive](https://kotaku.com/babylons-fall-dashiell-wood-sole-pc-player-platinum-squ-1848901095)
+ - [Elden Ring legend Let Me Solo Her will livestream 1,000th Malenia victory tomorrow](https://www.pcgamer.com/elden-ring-legend-let-me-solo-her-will-livestream-1000th-malenia-victory-tomorrow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
