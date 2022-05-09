@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Far-Right Dev&#39;s Kyle Rittenhouse Steam Shooter Isn&#39;t &#39;Edgy,&#39; It&#39;s Embarrassing](https://kotaku.com/acquitted-steam-nordic-empire-games-far-right-kyle-ritt-1848900365)
- - [Watch the new Guardians of the Galaxy ride without going to Disney World](https://www.polygon.com/23063825/guardians-of-the-galaxy-ride-epcot-pov-video)
- - [Weird West patch means guards will think KO-ed NPCs on beds are just sleeping](https://www.pcgamer.com/weird-west-patch-means-guards-will-think-ko-ed-npcs-on-beds-are-just-sleeping)<!-- GAME:END -->
+ - [American Vandal makers take on League of Legends in esports spoof](https://www.polygon.com/23063923/players-paramount-plus-trailer-release-date)
+ - [Valve Boss Gabe Newell Didn&#39;t Want Zombies In Left 4 Dead](https://kotaku.com/left-4-dead-l4d-zombies-valve-gabe-newell-chet-faliszek-1848900909)
+ - [Hitman 3 delays roguelike mode so it&#39;s &#39;as close to our ambitions as possible&#39;](https://www.pcgamer.com/hitman-3-delays-roguelike-mode-so-its-as-close-to-our-ambitions-as-possible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
