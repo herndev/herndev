@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some interesting culture](http://9gag.com/gag/a31N811)
- - ⏩ [Fact a day keeps your.........brain...blood....think.....sharp I&#39;m not good at these things](http://9gag.com/gag/aVxRZXv)
- - 👉 [The wonders of modern engineering.](http://9gag.com/gag/ay9vWrM)<!-- MEMES:END -->
+ - 💣 [Like fine wine](http://9gag.com/gag/aWgRoqd)
+ - ⏩ [Only legends will get this](http://9gag.com/gag/aYrRPMw)
+ - 👉 [Yes](http://9gag.com/gag/ay9v1dX)<!-- MEMES:END -->
 
 ---
 
