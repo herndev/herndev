@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Leak says we must get ready for a Moto’rolla’ble phone](https://www.androidauthority.com/motorola-rollable-phone-3162421/)
  - [Samsung’s new foldable may not be its fastest charging phone, but that’s okay.](https://www.androidauthority.com/samsung-galaxy-z-fold-4-z-flip-4-charging-3162395/)
- - [&#39;Groundbreaking Result&#39; of Milky Way&#39;s Black Hole Coming Soon     - CNET](https://www.cnet.com/science/space/groundbreaking-result-of-milky-ways-black-hole-coming-this-week/#ftag=CAD590a51e)
- - [Monday&#39;s Wordle Answer Was About as Controversial as Possible     - CNET](https://www.cnet.com/culture/mondays-wordle-answer-was-about-as-controversial-as-possible/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Groundbreaking Result&#39; of Milky Way&#39;s Black Hole Coming Soon     - CNET](https://www.cnet.com/science/space/groundbreaking-result-of-milky-ways-black-hole-coming-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
