@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Launcher beta now available for more Android phones](https://www.androidauthority.com/nothing-launcher-beta-3162617/)
- - [Uber CEO vows to be ‘hardcore about costs,’ slow down hiring in memo to employees](https://www.theverge.com/2022/5/9/23063499/uber-ceo-slash-costs-hiring-slowdown-ride-hailing-profit)
- - [Instagram will begin testing NFTs this week](https://www.theverge.com/2022/5/9/23063514/nfts-coming-to-instagram-meta-digital-artwork)<!-- TECH:END -->
+ - [Anker’s noise-canceling Soundcore Liberty 3 Pro earbuds are just $130 today](https://www.theverge.com/good-deals/2022/5/9/23063343/anker-liberty-soundcore-3-pro-pokemon-nintendo-switch-msi-sword-ecovacs-deebot-deal-sale)
+ - [How to update drivers on Windows 10](https://www.androidauthority.com/update-drivers-windows-10-3161378/)
+ - [Applications open for Apple&#39;s WWDC in-person developer Special Event](https://appleinsider.com/articles/22/05/09/applications-open-for-apples-wwdc-in-person-developer-special-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
