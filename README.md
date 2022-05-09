@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook is getting rid of some location-tracking features due to ‘low usage’](https://www.theverge.com/2022/5/9/23064109/facebook-getting-rid-location-tracking-features-nearby-friends-low-usage)
- - [Xbox Reportedly Plans to Launch New Streaming Device     - CNET](https://www.cnet.com/tech/home-entertainment/xbox-reportedly-plans-to-launch-new-streaming-device/#ftag=CAD590a51e)
- - [Apple is giving engineers in China more responsibility over manufacturing processes](https://www.theverge.com/2022/5/9/23063761/apple-engineers-china-responsibility-manufacturing)<!-- TECH:END -->
+ - [Number go down](https://www.theverge.com/2022/5/9/23064269/bitcoin-sell-plunge-crypto)
+ - [Sonos Roam leak shows off new colors for the portable speaker: light blue, olive, and red](https://www.theverge.com/2022/5/9/23063538/sonos-roam-color-leak-email-portable-outdoor-speaker)
+ - [Sources: Meta is considering reducing the money it gives news orgs as it weighs presenting news content on Facebook as short videos rather than as articles &lpar;The Information&rpar;](http://www.techmeme.com/220509/p24#a220509p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
