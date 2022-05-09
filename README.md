@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Asus Zenbook Pro 14 Duo OLED review: a dual-screen laptop that works](https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price)
- - [UST loses its dollar peg twice in &lt;48 hours, going as low as $0.9825, after the Luna Foundation Guard said it would defend the stablecoin with bitcoin reserves &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/220509/p21#a220509p21)<!-- TECH:END -->
+ - [You can hack Apple CarPlay into a Tesla using — what else — Android](https://www.theverge.com/2022/5/9/23063771/tesla-android-carplay-hack-raspberry-pi-web-browser)
+ - [Clearview AI agrees to permanent ban on selling facial recognition to private companies](https://www.theverge.com/2022/5/9/23063952/clearview-ai-aclu-settlement-illinois-bipa-injunction-private-companies)
+ - [How to block or unblock someone on TikTok](https://www.androidauthority.com/unblock-someone-tiktok-3162664/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
