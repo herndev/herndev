@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [Scary, $5 Retro FPS Perfectly Captures Classic Resident Evil Vibes](https://kotaku.com/resident-evil-ps1-retro-fps-nightmare-decay-horror-cree-1848907596)
- - [Riot sues Mobile Legends: Bang Bang maker for reasons you can probably guess](https://www.pcgamer.com/riot-sues-mobile-legends-bang-bang-maker-for-reasons-you-can-probably-guess)<!-- GAME:END -->
+ - [Mass Effect 4 Merch Has Fans Talking About Commander Shepard’s Return](https://kotaku.com/mass-effect-4-andromeda-sequel-commander-shepard-biowar-1848908042)
+ - [Fortnite Cheat Seller Ordered To Pay Epic Games Undisclosed Damages](https://kotaku.com/fortnite-epic-blazefn-cheats-childs-play-lawsuit-austra-1848907958)
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
