@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tesla recalls 130,000 vehicles to fix touchscreen issues caused by an overheating CPU](https://www.theverge.com/2022/5/10/23065987/tesla-recall-130000-vehicles-fix-touchscreen-issues-caused-overheating-cpu-amd-ryzen)
  - [Josh Hawley wants to punish Disney by taking copyright law back to 1909 and that sucks](https://www.theverge.com/2022/5/10/23066030/hawley-copyright-disney-mickey-mouse)
- - [Google TV’s ambient mode screen saver with sports scores and podcast links is rolling out](https://www.theverge.com/2022/5/10/23065933/google-tv-screen-saver-assistant-podcast-news-sports-youtube-personalized)
- - [Save $70 on the Razer Nari Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)<!-- TECH:END -->
+ - [Google TV’s ambient mode screen saver with sports scores and podcast links is rolling out](https://www.theverge.com/2022/5/10/23065933/google-tv-screen-saver-assistant-podcast-news-sports-youtube-personalized)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
