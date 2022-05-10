@@ -97,7 +97,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Are we the baddies?](http://9gag.com/gag/a0ZOEwz)
- - ⏩ [For the past several months, I\u2019ve been writing code to collect data on stock trading by U.S. politicians and building bots to mimic their trading. Here\u2019s the performance of a portfolio mimicking stock trading by U.S. congress as a whole vs. the market over the past 6 months.](http://9gag.com/gag/adgR2mV)
+ - ⏩ [This gem of an episode aged PERFECTLY! It&#39;s a royal flush!](http://9gag.com/gag/a71nNpb)
  - 👉 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 ---
