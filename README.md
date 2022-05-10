@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Westworld’s season four teaser trailer reveals a release date: June 26th](https://www.theverge.com/2022/5/9/23064532/hbo-max-westworld-s4-release-date-trailer-robots)
- - [Researchers detail a malicious campaign that used Windows event logs to store malware, a technique that has not been previously documented publicly in attacks &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220509/p30#a220509p30)
- - [F5 disclosed and patched an actively exploited critical bug last week in its BIG-IP products that act as load balancers and firewalls within enterprise networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220509/p29#a220509p29)<!-- TECH:END -->
+ - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)
+ - [How to edit videos on YouTube](https://www.androidauthority.com/edit-youtube-video-3162804/)
+ - [Best Mattress for Side Sleepers for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
