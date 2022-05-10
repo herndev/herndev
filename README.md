@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to go Live on TikTok: Everything you need to know](https://www.androidauthority.com/how-to-go-live-on-tiktok-3163243/)
- - [Sources: Luna Foundation Guard aims to raise $1B+ to shore up UST stablecoin, now trading for ~$0.92; one deal being negotiated offers LUNA tokens at 50% off &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220510/p35#a220510p35)
- - [AMD Gave Google Cloud Rare Access to Its Tech to Hunt Chip Flaws](https://www.wired.com/story/google-cloud-amd-confidential-computing-security-audit)<!-- TECH:END -->
+ - [Janet Yellen says that passing legislation this year to create a regulatory framework for stablecoins &quot;would be highly appropriate&quot;, after UST&#39;s stumble &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/220510/p37#a220510p37)
+ - [Online wholesale marketplace Faire raises a $416M extension, more than doubling the size of its Series G round and raising its post-money valuation to $12.59B &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220510/p36#a220510p36)
+ - [Apple releases new firmware for AirPods, AirPods Pro &amp; AirPods Max](https://appleinsider.com/articles/22/05/10/apple-releases-new-firmware-for-airpods-2-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
