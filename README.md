@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: in a note to employees, Netflix executives say an ad-supported tier could launch in Q4 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220510/p20#a220510p20)
- - [A profile of influential quantum computing physicist Jerry Chow, who joined IBM in 2010 and leads IBM Quantum, which said it broke the 100-qubit barrier in 2021 &lpar;Hayden Field/Emerging Tech Brew&rpar;](http://www.techmeme.com/220510/p19#a220510p19)
- - [Google needs to invest more in support than surprises](https://www.theverge.com/2022/5/10/23063497/google-support-pixel-watch-6a-io-2022)<!-- TECH:END -->
+ - [Analysis: El Salvador&#39;s bitcoin investment, driven by President Nayib Bukele, is worth $74M, well below the $103M paid for its 2,301 BTC since September &lpar;Michael D McDonald/Bloomberg&rpar;](http://www.techmeme.com/220510/p23#a220510p23)
+ - [Netflix’s ad-supported tier and password sharing crackdown could launch by the end of 2022](https://www.theverge.com/2022/5/10/23065126/netflix-login-sharing-rollout-ads)
+ - [Daily deals May 10: $600 off MSI Creator 15 Laptop, $1,149 M1 iMac 24-inch, $170 off Dyson Cinetic Vacuum, more](https://appleinsider.com/articles/22/05/10/daily-deals-may-10-600-off-msi-creator-15-laptop-1149-m1-imac-24-inch-170-off-dyson-cinetic-vacuum-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
