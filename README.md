@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stanley Parable Fans Find Ultra Rare Creeps You Likely Missed](https://kotaku.com/stanley-parable-ultra-deluxe-steam-mystery-sightings-cr-1848904928)
- - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)
- - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)<!-- GAME:END -->
+ - [Internet Hero Saves Abandoned Nintendogs Thrown Away In Old Cartridge](https://kotaku.com/nintendogs-tiktok-rescue-puppies-cart-bennyp-nintendo-3-1848905444)
+ - [The best gaming TV in 2022](https://www.pcgamer.com/best-4k-tv-for-gaming)
+ - [EA Sports and FIFA are breaking up after 30 years](https://www.polygon.com/23065395/fifa-23-ea-sports-fc-name-change-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
