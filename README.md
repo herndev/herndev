@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony reports Q4 gaming revenue rose 4.9% YoY to ~$5.1B; PS5 sales were 2M, reaching 19.3M in total, around 3.1M behind the PS4 at the same point in time &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220510/p9#a220510p9)
- - [Nintendo reports Q4 revenue rose 6% YoY to ~$2.9B as profit rose 0.6% YoY to $922M; Switch sales were 4.11M, for 23.1M total; Nintendo will split its stock 10:1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220510/p8#a220510p8)
- - [Google Pixel 6a: All the rumors in one place before possible May 11 launch](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
+ - [How to join a Microsoft Teams meeting on any device](https://www.androidauthority.com/join-microsoft-teams-meeting-3162819/)
+ - [Paddle raises $200m funding, delays its risky in-app purchase alternative](https://appleinsider.com/articles/22/05/10/paddle-raises-200m-funding-delays-its-risky-in-app-purchase-alternative?utm_medium=rss)
+ - [How to find your MAC address on Windows 10](https://www.androidauthority.com/find-mac-address-windows-10-3162403/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
