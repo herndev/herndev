@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick one, fellas](http://9gag.com/gag/a71npLw)
- - ⏩ [Ghost of McDonald&#39;s](http://9gag.com/gag/amgRpv6)
+ - 💣 [She went through all the chances, calculation, combinations.. and arrived at this mathematically correct shot](http://9gag.com/gag/arn82wB)
+ - ⏩ [This sucks!](http://9gag.com/gag/aBn4OZx)
  - 👉 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 ---
