@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paddle, which provides a billing backend for SaaS companies, raises a $200M Series D led by KKR at a $1.4B valuation, bringing its total raised to $293M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220510/p2#a220510p2)
- - [What to expect at Google I/O on Wednesday: Pixel Watch unveiling, a mid-range Pixel 6a, more details about Android 13, possibly Pixel Buds Pro, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220510/p1#a220510p1)
- - [More People Should Watch This Sci-Fi Masterpiece on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-sci-fi-masterpiece-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance has suspended withdrawals of LUNA and UST tokens due to high volume of pending withdrawals and &quot;network slowness and congestion&quot; &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220510/p4#a220510p4)
+ - [We asked, you told us: Most of your Fitbit devices don’t overheat, but some do](https://www.androidauthority.com/fitbit-overheating-poll-results-3162872/)
+ - [Tencent-owned Riot Games sues ByteDance-owned Moonton, alleging the Chinese studio is ripping off Wild Rift, the mobile version of League of Legends &lpar;Owen S. Good/Polygon&rpar;](http://www.techmeme.com/220510/p3#a220510p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
