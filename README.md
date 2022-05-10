@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to join a Microsoft Teams meeting on any device](https://www.androidauthority.com/join-microsoft-teams-meeting-3162819/)
- - [Paddle raises $200m funding, delays its risky in-app purchase alternative](https://appleinsider.com/articles/22/05/10/paddle-raises-200m-funding-delays-its-risky-in-app-purchase-alternative?utm_medium=rss)
- - [How to find your MAC address on Windows 10](https://www.androidauthority.com/find-mac-address-windows-10-3162403/)<!-- TECH:END -->
+ - [Analysis: Tiger Global has lost about $17B in 2022 during the tech stock sell-off, erasing around two-thirds of its gains made since 2001 in four months &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/220510/p13#a220510p13)
+ - [How to Watch Google I/O 2022 and What to Expect](https://www.wired.com/story/google-io-2022-how-to-watch)
+ - [What Would It Take for a Truly Ethical Clothing Industry?](https://www.wired.com/story/actually-bring-about-positive-change-ethics-consumption)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
