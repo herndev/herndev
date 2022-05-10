@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nintendo squeaks past Switch sales target but forecasts further slide](https://www.theverge.com/2022/5/10/23064853/nintendo-earnings-q4-2021-switch-sales-forecast-2022)
- - [Amazon is testing paying rural mom-and-pop shops a per-package fee to deliver orders within a 10-mile radius to neighbors in Nebraska, Mississippi, and Alabama &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/220510/p7#a220510p7)
- - [Arianee, which provides NFTs tied to the provenance and ownership of luxury goods, raises a &amp;euro;20M Series A led by Tiger Global &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220510/p6#a220510p6)<!-- TECH:END -->
+ - [Sony reports Q4 gaming revenue rose 4.9% YoY to ~$5.1B; PS5 sales were 2M, reaching 19.3M in total, around 3.1M behind the PS4 at the same point in time &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220510/p9#a220510p9)
+ - [Nintendo reports Q4 revenue rose 6% YoY to ~$2.9B as profit rose 0.6% YoY to $922M; Switch sales were 4.11M, for 23.1M total; Nintendo will split its stock 10:1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220510/p8#a220510p8)
+ - [Google Pixel 6a: All the rumors in one place before possible May 11 launch](https://www.androidauthority.com/google-pixel-6a-3062838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
