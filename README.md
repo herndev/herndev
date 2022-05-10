@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your Deepest, Darkest Elden Ring Secrets Will All Be Revealed By &#39;Make Up A Tarnished Guy&#39;](https://kotaku.com/elden-ring-did-you-know-make-up-a-tarnished-guy-twitter-1848902485)
- - [A new Nintendo Indie World event is coming this Wednesday](https://www.polygon.com/23064160/nintendo-indie-world-may-2022-date-time-nindies)
- - [Western Digital&#39;s newest hard drive is a 26TB monster](https://www.pcgamer.com/western-digitals-newest-hard-drive-is-a-26tb-monster)<!-- GAME:END -->
+ - [The 12 gnarliest dinosaur kills in Jurassic movies](https://www.polygon.com/23055621/jurassic-park-movies-best-dinosaur-kills)
+ - [This UE5 train station scene makes me fear the future of horror games](https://www.pcgamer.com/this-ue5-train-station-scene-makes-me-fear-the-future-of-horror-games)
+ - [Your Deepest, Darkest Elden Ring Secrets Will All Be Revealed By &#39;Make Up A Tarnished Guy&#39;](https://kotaku.com/elden-ring-did-you-know-make-up-a-tarnished-guy-twitter-1848902485)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
