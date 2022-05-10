@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK and EU say Russia launched a cyberattack on satellite internet network Viasat at the onset of the Ukraine war in late February, affecting many in Ukraine &lpar;James Pearson/Reuters&rpar;](http://www.techmeme.com/220510/p15#a220510p15)
- - [Match Group is suing Google over Android’s in-app payment monopoly](https://www.theverge.com/2022/5/9/23064305/match-group-suing-google-over-in-app-payment-policy)
- - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: in a note to employees, Netflix executives say an ad-supported tier could launch in Q4 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220510/p20#a220510p20)
+ - [A profile of influential quantum computing physicist Jerry Chow, who joined IBM in 2010 and leads IBM Quantum, which said it broke the 100-qubit barrier in 2021 &lpar;Hayden Field/Emerging Tech Brew&rpar;](http://www.techmeme.com/220510/p19#a220510p19)
+ - [Google needs to invest more in support than surprises](https://www.theverge.com/2022/5/10/23063497/google-support-pixel-watch-6a-io-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
