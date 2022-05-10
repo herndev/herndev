@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/a11O262)
- - ⏩ [Yep](http://9gag.com/gag/aPZrQjK)
+ - 💣 [This gem of an episode aged PERFECTLY! It&#39;s a royal flush!](http://9gag.com/gag/a71nNpb)
+ - ⏩ [I&#39;m a wizard. What now?](http://9gag.com/gag/aAGvXM2)
  - 👉 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
 
 ---
