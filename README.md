@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 12 gnarliest dinosaur kills in Jurassic movies](https://www.polygon.com/23055621/jurassic-park-movies-best-dinosaur-kills)
- - [This UE5 train station scene makes me fear the future of horror games](https://www.pcgamer.com/this-ue5-train-station-scene-makes-me-fear-the-future-of-horror-games)
- - [Your Deepest, Darkest Elden Ring Secrets Will All Be Revealed By &#39;Make Up A Tarnished Guy&#39;](https://kotaku.com/elden-ring-did-you-know-make-up-a-tarnished-guy-twitter-1848902485)<!-- GAME:END -->
+ - [Stanley Parable Fans Find Ultra Rare Creeps You Likely Missed](https://kotaku.com/stanley-parable-ultra-deluxe-steam-mystery-sightings-cr-1848904928)
+ - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)
+ - [Announcing the MLB The Show 22 Summer Circuit](https://blog.playstation.com/2022/05/10/announcing-the-mlb-the-show-22-summer-circuit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
