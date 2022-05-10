@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-on-netflix-to-watch-tonight/#ftag=CAD590a51e)
- - [Best Vacuum Cleaners for 2022: Roomba, Dyson, Tineco, Roborock and More     - CNET](https://www.cnet.com/news/best-vacuum-cleaner/#ftag=CAD590a51e)
- - [Westworld’s season four teaser trailer and release date have leaked](https://www.theverge.com/2022/5/9/23064532/hbo-max-westworld-s4-release-date-trailer-robots)<!-- TECH:END -->
+ - [Podcast ad revenue could hit $2B in 2022, more than $4B in 2024](https://appleinsider.com/articles/22/05/10/podcast-ad-revenue-could-hit-2b-in-2022-more-than-4b-in-2024?utm_medium=rss)
+ - [Study claims the implementation of EU&#39;s GDPR has reduced the number of apps on Google Play by a third, increased costs, and reduced revenues for app developers &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220509/p28#a220509p28)
+ - [&#39;Doctor Strange 2&#39; Guide: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-guide-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
