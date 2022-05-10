@@ -98,7 +98,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Dont look up](http://9gag.com/gag/aDDQMEx)
  - ⏩ [Scientific fact #274](http://9gag.com/gag/a515DDy)
- - 👉 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)<!-- MEMES:END -->
+ - 👉 [GTI go VROOM VROOM](http://9gag.com/gag/aOQppOM)<!-- MEMES:END -->
 
 ---
 
