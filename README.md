@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/a11O262)
+ - 💣 [Thank you \ud83c\uddec\ud83c\udde7 for your support! I know some Brits aren&#39;t fans of Boris but he is a real hero to every Ukrainian!](http://9gag.com/gag/avA9Rr5)
  - ⏩ [Where are my fellow 30s single guy?](http://9gag.com/gag/a41w2m1)
- - 👉 [These ice skating couple been teaming up together since they were kids until adults for more than 20 years &lpar;1997-2022&rpar;.](http://9gag.com/gag/aze4ROj)<!-- MEMES:END -->
+ - 👉 [True](http://9gag.com/gag/a11O262)<!-- MEMES:END -->
 
 ---
 
