@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top B&amp;H deals of the week: save up to $1,200 on Apple, digital cameras, TVs &amp; more](https://appleinsider.com/articles/22/05/10/top-bh-deals-of-the-week-save-up-to-1200-on-apple-digital-cameras-tvs-more?utm_medium=rss)
- - [Apple&#39;s iPod is the other device that saved Apple, and set the table for the iPhone](https://appleinsider.com/articles/22/05/10/apples-ipod-is-the-other-device-that-saved-apple-and-set-the-table-for-the-iphone?utm_medium=rss)
- - [AMD’s newest GPUs could mean realistic pricing for once](https://www.theverge.com/2022/5/10/23064599/amd-radeon-rx-6950-6750-6650-xt-specs-price-gpu)<!-- TECH:END -->
+ - [How to go Live on TikTok: Everything you need to know](https://www.androidauthority.com/how-to-go-live-on-tiktok-3163243/)
+ - [Sources: Luna Foundation Guard aims to raise $1B+ to shore up UST stablecoin, now trading for ~$0.92; one deal being negotiated offers LUNA tokens at 50% off &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220510/p35#a220510p35)
+ - [AMD Gave Google Cloud Rare Access to Its Tech to Hunt Chip Flaws](https://www.wired.com/story/google-cloud-amd-confidential-computing-security-audit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
