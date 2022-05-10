@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes](http://9gag.com/gag/ay9v1dX)
- - ⏩ [Epoxy flooring](http://9gag.com/gag/aegRxdB)
- - 👉 [All hail the money cat !!!](http://9gag.com/gag/avA9Eqb)<!-- MEMES:END -->
+ - 💣 [Epoxy flooring](http://9gag.com/gag/aegRxdB)
+ - ⏩ [Y&#39;all is a circus](http://9gag.com/gag/apgVxGE)
+ - 👉 [Some interesting culture](http://9gag.com/gag/a31N811)<!-- MEMES:END -->
 
 ---
 
