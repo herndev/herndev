@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [End of an era: Apple&#39;s last iPod has been discontinued](https://appleinsider.com/articles/22/05/10/end-of-an-era-apples-last-ipod-has-been-discontinued?utm_medium=rss)
- - [Report: Netflix ads and password sharing blocks coming much sooner than expected](https://www.androidauthority.com/netflix-ads-3163176/)
- - [LG’s massive Gram 17 is on sale at Amazon for just shy of its best price ever](https://www.theverge.com/good-deals/2022/5/10/23063754/lg-gram-17-laptop-roku-gaming-keyboard-mouse-deal-sale)<!-- TECH:END -->
+ - [Adobe Premiere Pro for macOS makes some video exports 10-times faster](https://appleinsider.com/articles/22/05/10/adobe-premiere-pro-for-macos-makes-some-video-exports-10-times-faster?utm_medium=rss)
+ - [Report: ICE has used private data brokers to bypass legal restrictions and build a surveillance system capable of &quot;pulling detailed dossiers&quot; for most US adults &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220510/p30#a220510p30)
+ - [Ploopy and the promise of an open-source trackball](https://www.theverge.com/2022/5/10/23065171/ploopy-trackball-open-source-vergecast-podcast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
