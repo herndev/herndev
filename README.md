@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epoxy flooring](http://9gag.com/gag/aegRxdB)
- - ⏩ [Y&#39;all is a circus](http://9gag.com/gag/apgVxGE)
- - 👉 [Some interesting culture](http://9gag.com/gag/a31N811)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/a11O262)
+ - ⏩ [Where are my fellow 30s single guy?](http://9gag.com/gag/a41w2m1)
+ - 👉 [These ice skating couple been teaming up together since they were kids until adults for more than 20 years &lpar;1997-2022&rpar;.](http://9gag.com/gag/aze4ROj)<!-- MEMES:END -->
 
 ---
 
