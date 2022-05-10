@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sales of Switch and PS5 held back by chip shortages](https://www.polygon.com/23064914/sony-nintendo-quarterly-earnings-financial-results-hardware-shortage)
- - [19 TV shows we have our eyes on this summer](https://www.polygon.com/what-to-watch/23035611/2022-new-summer-tv-shows-series-release-schedule)
- - [Best AMD motherboards in 2022](https://www.pcgamer.com/best-AMD-motherboards)<!-- GAME:END -->
+ - [Your Deepest, Darkest Elden Ring Secrets Will All Be Revealed By &#39;Make Up A Tarnished Guy&#39;](https://kotaku.com/elden-ring-did-you-know-make-up-a-tarnished-guy-twitter-1848902485)
+ - [A new Nintendo Indie World event is coming this Wednesday](https://www.polygon.com/23064160/nintendo-indie-world-may-2022-date-time-nindies)
+ - [Western Digital&#39;s newest hard drive is a 26TB monster](https://www.pcgamer.com/western-digitals-newest-hard-drive-is-a-26tb-monster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
