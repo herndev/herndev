@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Janet Yellen says that passing legislation this year to create a regulatory framework for stablecoins &quot;would be highly appropriate&quot;, after UST&#39;s stumble &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/220510/p37#a220510p37)
- - [Online wholesale marketplace Faire raises a $416M extension, more than doubling the size of its Series G round and raising its post-money valuation to $12.59B &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220510/p36#a220510p36)
- - [Apple releases new firmware for AirPods, AirPods Pro &amp; AirPods Max](https://appleinsider.com/articles/22/05/10/apple-releases-new-firmware-for-airpods-2-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox misses with Q1 revenue of $631.2M vs. $636.6M est., down 3% YoY, 54.1M average DAUs vs. 55M est., up 28% YoY, and average bookings per DAU of $11.67 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220510/p40#a220510p40)
+ - [What is the maximum length for a TikTok video?](https://www.androidauthority.com/how-long-are-tiktok-videos-3163309/)
+ - [Adobe Tool Makes it Easier to Post Videos to Instagram, Facebook, Twitter     - CNET](https://www.cnet.com/news/social-media/adobe-tool-makes-it-easier-to-post-videos-to-instagram-facebook-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
