@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada&#39;s Competition Bureau files an application to block Rogers&#39; $26B purchase of Shaw, saying it would lead to worse service, higher prices, and fewer choices &lpar;Tara Deschamps/Canadian Press&rpar;](http://www.techmeme.com/220509/p27#a220509p27)
- - [US State Department announces $10 million bounty after Costa Rica ransomware attack](https://www.theverge.com/2022/5/9/23064321/costa-rica-conti-ransomware-attack-state-of-emergency-reward)
- - [Apple to restructure services business to focus more on advertising, streaming](https://appleinsider.com/articles/22/05/09/apple-to-restructure-services-business-to-focus-more-on-advertising-streaming?utm_medium=rss)<!-- TECH:END -->
+ - [The Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-on-netflix-to-watch-tonight/#ftag=CAD590a51e)
+ - [Best Vacuum Cleaners for 2022: Roomba, Dyson, Tineco, Roborock and More     - CNET](https://www.cnet.com/news/best-vacuum-cleaner/#ftag=CAD590a51e)
+ - [Westworld’s season four teaser trailer and release date have leaked](https://www.theverge.com/2022/5/9/23064532/hbo-max-westworld-s4-release-date-trailer-robots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
