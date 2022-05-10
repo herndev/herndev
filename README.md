@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She went through all the chances, calculation, combinations.. and arrived at this mathematically correct shot](http://9gag.com/gag/arn82wB)
- - ⏩ [This sucks!](http://9gag.com/gag/aBn4OZx)
- - 👉 [Pranking mom on Mother\u2019s Day! Final Call: Join #9GAGOnePlus Giveaway to win a OnePlus 10 Pro phone. See the rules of entry in the description!](http://9gag.com/gag/aRrR2bq)<!-- MEMES:END -->
+ - 💣 [Oh boy, Ukraine foreign minister: The goals have changed from defence to total liberation of all occupied territories. &lpar;that means Donbas and Crimea too&rpar; Negotiations possible, but only from position of strength.` Russia f**ked up big time.](http://9gag.com/gag/aqGDD7v)
+ - ⏩ [Principles of topology](http://9gag.com/gag/aRrRRqj)
+ - 👉 [The profit Crypto traders will get after paying 28% GST + 20% foreign exchange + 1%tds + 30% income tax in India](http://9gag.com/gag/a21OLWd)<!-- MEMES:END -->
 
 ---
 
