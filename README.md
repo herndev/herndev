@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox misses with Q1 revenue of $631.2M vs. $636.6M est., down 3% YoY, 54.1M average DAUs vs. 55M est., up 28% YoY, and average bookings per DAU of $11.67 &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220510/p40#a220510p40)
- - [What is the maximum length for a TikTok video?](https://www.androidauthority.com/how-long-are-tiktok-videos-3163309/)
- - [Adobe Tool Makes it Easier to Post Videos to Instagram, Facebook, Twitter     - CNET](https://www.cnet.com/news/social-media/adobe-tool-makes-it-easier-to-post-videos-to-instagram-facebook-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Josh Hawley wants to punish Disney by taking copyright law back to 1909 and that sucks](https://www.theverge.com/2022/5/10/23066030/hawley-copyright-disney-mickey-mouse)
+ - [Google TV’s ambient mode screen saver with sports scores and podcast links is rolling out](https://www.theverge.com/2022/5/10/23065933/google-tv-screen-saver-assistant-podcast-news-sports-youtube-personalized)
+ - [Save $70 on the Razer Nari Ultimate headset, and more of the best PS4 deals](https://www.androidauthority.com/best-ps4-deals-and-bundles-1110706/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
