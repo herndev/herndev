@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming routers in 2022](https://www.pcgamer.com/best-gaming-routers)
- - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)
- - [Dead Space remake: everything we know about the revamped sci-fi horror classic](https://www.pcgamer.com/dead-space-remake-release-date-trailer)<!-- GAME:END -->
+ - [Massive Leak Claims To Be 2001 Build Of Duke Nukem Forever](https://kotaku.com/duke-nukem-forever-leak-2001-playable-4chan-broussard-3-1848903081)
+ - [Unreal Engine 5 Video May As Well Be Real Life](https://kotaku.com/unreal-engine-5-train-station-realism-textures-photorea-1848902957)
+ - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
