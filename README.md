@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Principles of topology](http://9gag.com/gag/aRrRRqj)
- - ⏩ [Don&#39;t indulge scalpers and miners](http://9gag.com/gag/abgRRKv)
- - 👉 [Scientific fact #274](http://9gag.com/gag/a515DDy)<!-- MEMES:END -->
+ - 💣 [Dont look up](http://9gag.com/gag/aDDQMEx)
+ - ⏩ [Scientific fact #274](http://9gag.com/gag/a515DDy)
+ - 👉 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)<!-- MEMES:END -->
 
 ---
 
