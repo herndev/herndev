@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FIFA will make video games with new partners after getting dumped by EA](https://www.polygon.com/23065672/fifa-soccer-video-games-world-cup-qatar)
  - [How multiplayer and co-op work in Elden Ring](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
- - [Pokémon Legends Arceus Outsells Classic Games, Proves Risks Pay Off](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-brilliant-diamon-1848906686)
- - [Godzilla and King Kong come to Call of Duty: Warzone tomorrow](https://www.polygon.com/23065570/call-of-duty-warzone-godzilla-kong-operation-monarch)<!-- GAME:END -->
+ - [Pokémon Legends Arceus Outsells Classic Games, Proves Risks Pay Off](https://kotaku.com/pokemon-legends-arceus-nintendo-switch-brilliant-diamon-1848906686)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
