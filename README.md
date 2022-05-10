@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supabase, an open-source Firebase alternative, raises an $80M Series B led by Felicis Ventures and says 80K+ devs have created 100K+ databases on the service &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220510/p25#a220510p25)
- - [Podcasting will be a $4 billion industry by 2024](https://www.theverge.com/2022/5/10/23065056/podcasting-industry-iab-report-audacy-earnings-patreon-pulitzer)
- - [NASA’s InSight lander detects largest ‘marsquake’ yet on Red Planet](https://www.theverge.com/2022/5/10/23065073/nasa-insight-lander-marsquake-red-planet)<!-- TECH:END -->
+ - [End of an era: Apple&#39;s last iPod has been discontinued](https://appleinsider.com/articles/22/05/10/end-of-an-era-apples-last-ipod-has-been-discontinued?utm_medium=rss)
+ - [Report: Netflix ads and password sharing blocks coming much sooner than expected](https://www.androidauthority.com/netflix-ads-3163176/)
+ - [LG’s massive Gram 17 is on sale at Amazon for just shy of its best price ever](https://www.theverge.com/good-deals/2022/5/10/23063754/lg-gram-17-laptop-roku-gaming-keyboard-mouse-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
