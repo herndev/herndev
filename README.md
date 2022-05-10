@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Podcast ad revenue could hit $2B in 2022, more than $4B in 2024](https://appleinsider.com/articles/22/05/10/podcast-ad-revenue-could-hit-2b-in-2022-more-than-4b-in-2024?utm_medium=rss)
- - [Study claims the implementation of EU&#39;s GDPR has reduced the number of apps on Google Play by a third, increased costs, and reduced revenues for app developers &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/220509/p28#a220509p28)
- - [&#39;Doctor Strange 2&#39; Guide: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-guide-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Westworld’s season four teaser trailer reveals a release date: June 26th](https://www.theverge.com/2022/5/9/23064532/hbo-max-westworld-s4-release-date-trailer-robots)
+ - [Researchers detail a malicious campaign that used Windows event logs to store malware, a technique that has not been previously documented publicly in attacks &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220509/p30#a220509p30)
+ - [F5 disclosed and patched an actively exploited critical bug last week in its BIG-IP products that act as load balancers and firewalls within enterprise networks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220509/p29#a220509p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
