@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: El Salvador&#39;s bitcoin investment, driven by President Nayib Bukele, is worth $74M, well below the $103M paid for its 2,301 BTC since September &lpar;Michael D McDonald/Bloomberg&rpar;](http://www.techmeme.com/220510/p23#a220510p23)
- - [Netflix’s ad-supported tier and password sharing crackdown could launch by the end of 2022](https://www.theverge.com/2022/5/10/23065126/netflix-login-sharing-rollout-ads)
- - [Daily deals May 10: $600 off MSI Creator 15 Laptop, $1,149 M1 iMac 24-inch, $170 off Dyson Cinetic Vacuum, more](https://appleinsider.com/articles/22/05/10/daily-deals-may-10-600-off-msi-creator-15-laptop-1149-m1-imac-24-inch-170-off-dyson-cinetic-vacuum-more?utm_medium=rss)<!-- TECH:END -->
+ - [Supabase, an open-source Firebase alternative, raises an $80M Series B led by Felicis Ventures and says 80K+ devs have created 100K+ databases on the service &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220510/p25#a220510p25)
+ - [Podcasting will be a $4 billion industry by 2024](https://www.theverge.com/2022/5/10/23065056/podcasting-industry-iab-report-audacy-earnings-patreon-pulitzer)
+ - [NASA’s InSight lander detects largest ‘marsquake’ yet on Red Planet](https://www.theverge.com/2022/5/10/23065073/nasa-insight-lander-marsquake-red-planet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
