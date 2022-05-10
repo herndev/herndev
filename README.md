@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: Tiger Global has lost about $17B in 2022 during the tech stock sell-off, erasing around two-thirds of its gains made since 2001 in four months &lpar;Laurence Fletcher/Financial Times&rpar;](http://www.techmeme.com/220510/p13#a220510p13)
- - [How to Watch Google I/O 2022 and What to Expect](https://www.wired.com/story/google-io-2022-how-to-watch)
- - [What Would It Take for a Truly Ethical Clothing Industry?](https://www.wired.com/story/actually-bring-about-positive-change-ethics-consumption)<!-- TECH:END -->
+ - [The UK and EU say Russia launched a cyberattack on satellite internet network Viasat at the onset of the Ukraine war in late February, affecting many in Ukraine &lpar;James Pearson/Reuters&rpar;](http://www.techmeme.com/220510/p15#a220510p15)
+ - [Match Group is suing Google over Android’s in-app payment monopoly](https://www.theverge.com/2022/5/9/23064305/match-group-suing-google-over-in-app-payment-policy)
+ - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
