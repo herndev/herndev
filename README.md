@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe Premiere Pro for macOS makes some video exports 10-times faster](https://appleinsider.com/articles/22/05/10/adobe-premiere-pro-for-macos-makes-some-video-exports-10-times-faster?utm_medium=rss)
- - [Report: ICE has used private data brokers to bypass legal restrictions and build a surveillance system capable of &quot;pulling detailed dossiers&quot; for most US adults &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/220510/p30#a220510p30)
- - [Ploopy and the promise of an open-source trackball](https://www.theverge.com/2022/5/10/23065171/ploopy-trackball-open-source-vergecast-podcast)<!-- TECH:END -->
+ - [Top B&amp;H deals of the week: save up to $1,200 on Apple, digital cameras, TVs &amp; more](https://appleinsider.com/articles/22/05/10/top-bh-deals-of-the-week-save-up-to-1200-on-apple-digital-cameras-tvs-more?utm_medium=rss)
+ - [Apple&#39;s iPod is the other device that saved Apple, and set the table for the iPhone](https://appleinsider.com/articles/22/05/10/apples-ipod-is-the-other-device-that-saved-apple-and-set-the-table-for-the-iphone?utm_medium=rss)
+ - [AMD’s newest GPUs could mean realistic pricing for once](https://www.theverge.com/2022/5/10/23064599/amd-radeon-rx-6950-6750-6650-xt-specs-price-gpu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
