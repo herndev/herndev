@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance has suspended withdrawals of LUNA and UST tokens due to high volume of pending withdrawals and &quot;network slowness and congestion&quot; &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220510/p4#a220510p4)
- - [We asked, you told us: Most of your Fitbit devices don’t overheat, but some do](https://www.androidauthority.com/fitbit-overheating-poll-results-3162872/)
- - [Tencent-owned Riot Games sues ByteDance-owned Moonton, alleging the Chinese studio is ripping off Wild Rift, the mobile version of League of Legends &lpar;Owen S. Good/Polygon&rpar;](http://www.techmeme.com/220510/p3#a220510p3)<!-- TECH:END -->
+ - [Nintendo squeaks past Switch sales target but forecasts further slide](https://www.theverge.com/2022/5/10/23064853/nintendo-earnings-q4-2021-switch-sales-forecast-2022)
+ - [Amazon is testing paying rural mom-and-pop shops a per-package fee to deliver orders within a 10-mile radius to neighbors in Nebraska, Mississippi, and Alabama &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/220510/p7#a220510p7)
+ - [Arianee, which provides NFTs tied to the provenance and ownership of luxury goods, raises a &amp;euro;20M Series A led by Tiger Global &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220510/p6#a220510p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
