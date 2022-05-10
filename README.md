@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dont look up](http://9gag.com/gag/aDDQMEx)
- - ⏩ [Scientific fact #274](http://9gag.com/gag/a515DDy)
- - 👉 [GTI go VROOM VROOM](http://9gag.com/gag/aOQppOM)<!-- MEMES:END -->
+ - 💣 [#Sharing](http://9gag.com/gag/a81Vn4V)
+ - ⏩ [That smile](http://9gag.com/gag/abgRdDr)
+ - 👉 [Do you agree?](http://9gag.com/gag/aE8ZEXe)<!-- MEMES:END -->
 
 ---
 
