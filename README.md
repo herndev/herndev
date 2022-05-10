@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [E-waste is an untapped source of rare Earth materials](https://www.pcgamer.com/e-waste-is-an-untapped-source-of-rare-earth-materials)
  - [Westworld season 4 has a new trailer and a June release date](https://www.polygon.com/23064442/westworld-season-4-trailer-release-date-cast-hbo)
- - [EA Is Once Again Making A Lord Of The Rings Video Game](https://kotaku.com/ea-lord-of-the-rings-lotr-middle-earth-mobile-galaxy-he-1848903418)
- - [Massive Leak Claims To Be 2001 Build Of Duke Nukem Forever](https://kotaku.com/duke-nukem-forever-leak-2001-playable-4chan-broussard-3-1848903081)<!-- GAME:END -->
+ - [EA Is Once Again Making A Lord Of The Rings Video Game](https://kotaku.com/ea-lord-of-the-rings-lotr-middle-earth-mobile-galaxy-he-1848903418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
