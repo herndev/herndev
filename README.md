@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Avatar&#39;: The Blockbuster Movie That History Forgot     - CNET](https://www.cnet.com/culture/avatar-the-blockbuster-movie-that-history-forgot/#ftag=CAD590a51e)
- - [How to edit videos on YouTube](https://www.androidauthority.com/edit-youtube-video-3162804/)
- - [Best Mattress for Side Sleepers for 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-side-sleepers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paddle, which provides a billing backend for SaaS companies, raises a $200M Series D led by KKR at a $1.4B valuation, bringing its total raised to $293M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220510/p2#a220510p2)
+ - [What to expect at Google I/O on Wednesday: Pixel Watch unveiling, a mid-range Pixel 6a, more details about Android 13, possibly Pixel Buds Pro, and more &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220510/p1#a220510p1)
+ - [More People Should Watch This Sci-Fi Masterpiece on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-sci-fi-masterpiece-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
