@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sit still](http://9gag.com/gag/aE8ZZNG)
- - ⏩ [Principles of topology](http://9gag.com/gag/aRrRRqj)
- - 👉 [My colleague today. It is always the same with them `wEsT bAd` but when told to leave, they don&#39;t want to.](http://9gag.com/gag/aQXyVOW)<!-- MEMES:END -->
+ - 💣 [Principles of topology](http://9gag.com/gag/aRrRRqj)
+ - ⏩ [Don&#39;t indulge scalpers and miners](http://9gag.com/gag/abgRRKv)
+ - 👉 [Scientific fact #274](http://9gag.com/gag/a515DDy)<!-- MEMES:END -->
 
 ---
 
