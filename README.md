@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Massive Leak Claims To Be 2001 Build Of Duke Nukem Forever](https://kotaku.com/duke-nukem-forever-leak-2001-playable-4chan-broussard-3-1848903081)
- - [Unreal Engine 5 Video May As Well Be Real Life](https://kotaku.com/unreal-engine-5-train-station-realism-textures-photorea-1848902957)
- - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)<!-- GAME:END -->
+ - [Westworld season 4 has a new trailer and a June release date](https://www.polygon.com/23064442/westworld-season-4-trailer-release-date-cast-hbo)
+ - [EA Is Once Again Making A Lord Of The Rings Video Game](https://kotaku.com/ea-lord-of-the-rings-lotr-middle-earth-mobile-galaxy-he-1848903418)
+ - [Massive Leak Claims To Be 2001 Build Of Duke Nukem Forever](https://kotaku.com/duke-nukem-forever-leak-2001-playable-4chan-broussard-3-1848903081)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
