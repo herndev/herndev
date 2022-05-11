@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Both..](http://9gag.com/gag/aze4vxp)
- - ⏩ [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)
- - 👉 [Yeah what a time!](http://9gag.com/gag/a0ZOGZZ)<!-- MEMES:END -->
+ - 💣 [It\u2019s Wednesday my dudes!](http://9gag.com/gag/awzeDMQ)
+ - ⏩ [In Georgia, there&#39;s a stray dog who has made it his job to protect this kindergarten class so they can cross the street safely. He shows up every single day, even barking at cars that don&#39;t stop](http://9gag.com/gag/a91DeE0)
+ - 👉 [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)<!-- MEMES:END -->
 
 ---
 
