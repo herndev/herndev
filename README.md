@@ -173,11 +173,11 @@ Linux                    17 hrs 6 mins       ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/herndev/Trace-me/pull/1) in [herndev/Trace-me](https://github.com/herndev/Trace-me)
-2. 🎉 Merged PR [#3](https://github.com/herndev/HLink/pull/3) in [herndev/HLink](https://github.com/herndev/HLink)
-3. 🎉 Merged PR [#1](https://github.com/herndev/JJ-shoe-collection/pull/1) in [herndev/JJ-shoe-collection](https://github.com/herndev/JJ-shoe-collection)
-4. 🎉 Merged PR [#1](https://github.com/herndev/Digital-Story-Book/pull/1) in [herndev/Digital-Story-Book](https://github.com/herndev/Digital-Story-Book)
-5. 🎉 Merged PR [#1](https://github.com/herndev/Git-User/pull/1) in [herndev/Git-User](https://github.com/herndev/Git-User)
+1. 🎉 Merged PR [#4](https://github.com/herndev/ReactJS-Portfolio/pull/4) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+2. 🎉 Merged PR [#1](https://github.com/herndev/Trace-me/pull/1) in [herndev/Trace-me](https://github.com/herndev/Trace-me)
+3. 🎉 Merged PR [#3](https://github.com/herndev/HLink/pull/3) in [herndev/HLink](https://github.com/herndev/HLink)
+4. 🎉 Merged PR [#1](https://github.com/herndev/JJ-shoe-collection/pull/1) in [herndev/JJ-shoe-collection](https://github.com/herndev/JJ-shoe-collection)
+5. 🎉 Merged PR [#1](https://github.com/herndev/Digital-Story-Book/pull/1) in [herndev/Digital-Story-Book](https://github.com/herndev/Digital-Story-Book)
 <!--END_SECTION:activity-->
  
 ---
