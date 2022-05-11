@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta withdraws request for Oversight Board’s advice on Russia-Ukraine war content policy](https://www.theverge.com/2022/5/11/23066587/meta-withdraws-oversight-board-request-russia-ukraine-war)
- - [Google Translate adds support for 24 additional languages, including regional dialects from India, South America, and Africa, used by 300M people &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/220511/p29#a220511p29)
- - [Google Maps brings a new &quot;immersive view&quot;, a combination of Street View and aerial shots, for select cities and will let third-party apps use Live View&#39;s AR &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220511/p28#a220511p28)<!-- TECH:END -->
+ - [Google Chrome for desktop will let users easily create virtual cards for safer online shopping using Autofill, coming later to Android and iOS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220511/p34#a220511p34)
+ - [Google pitches for user trust with expanded privacy controls](https://www.theverge.com/2022/5/11/23066161/google-privacy-controls-protected-computing-io)
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
