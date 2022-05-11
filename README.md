@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metroid 64 fan project is coming to PC](https://www.pcgamer.com/metroid-64-fan-project-is-coming-to-pc)
- - [14 exciting video games we’re anticipating this summer](https://www.polygon.com/what-to-play/23065123/summer-2022-video-games-release-dates-platforms)
- - [Nintendo’s next console is a ‘major concern’ for the company](https://www.polygon.com/23066923/nintendo-switch-next-console-furukawa)<!-- GAME:END -->
+ - [Now Would Have Been A Good Time For Another Batman Arkham Game](https://kotaku.com/batman-arkham-gotham-knights-suicide-squad-assassins-cr-1848911270)
+ - [So, I just spent my day playing Valheim through these weird-ass prototype XR glasses](https://www.pcgamer.com/viture-one-xr-glasses-hands-on)
+ - [Apex Legends Mobile launches next week](https://www.polygon.com/23067078/apex-legends-mobile-release-date-trailer-new-legend-maps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
