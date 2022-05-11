@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all had these. They were indestructible!](http://9gag.com/gag/avA948X)
- - ⏩ [By the power of white girl](http://9gag.com/gag/aKmKn6b)
- - 👉 [That smile](http://9gag.com/gag/abgRdDr)<!-- MEMES:END -->
+ - 💣 [That smile](http://9gag.com/gag/abgRdDr)
+ - ⏩ [Still one of my favourite Trump moments.](http://9gag.com/gag/aNPjqE6)
+ - 👉 [By the power of white girl](http://9gag.com/gag/aKmKn6b)<!-- MEMES:END -->
 
 ---
 
