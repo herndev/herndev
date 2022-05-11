@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple sells out of all 256GB iPod touch colors](https://appleinsider.com/articles/22/05/11/apple-sells-out-of-all-256gb-ipod-touch-colors?utm_medium=rss)
- - [An Elusive Gravity Signal Could Mean Faster Earthquake Warnings](https://www.wired.com/story/an-elusive-gravity-signal-could-mean-faster-earthquake-warnings)
- - [CIQ, which develops the open-source Rocky Linux distro for enterprise, raises a $26M Series A led by Two Bear Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220511/p20#a220511p20)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
+ - [Last chance: Amazon has iPod touch models in stock for $189.99](https://appleinsider.com/articles/22/05/11/last-chance-amazon-has-ipod-touch-models-in-stock-for-18999?utm_medium=rss)
+ - [Twitter made a browser game to help explain its privacy settings](https://www.theverge.com/2022/5/11/23067040/twitter-browser-game-privacy-settings-data-dash)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
