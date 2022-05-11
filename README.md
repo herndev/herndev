@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Osmind, which provides EHR software to chart and update mental health patient information and documents, raises a $40M Series B led by DFJ Growth &lpar;David Shultz/Fast Company&rpar;](http://www.techmeme.com/220511/p2#a220511p2)
  - [Dusty Robotics, whose first robot FieldPrinter automates the process of printing full-size floor plans at construction sites, raises a $45M Series B &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220511/p1#a220511p1)
- - [Brightseed, which develops an AI-based system called Forager to identify and categorize plant compounds for human health, raises a $68M Series B led by Temasek &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220510/p46#a220510p46)
- - [Leaked proposal: the EC plans to release a draft law this week that requires tech companies to scan for CSAM and threatens end-to-end encryption &lpar;Politico&rpar;](http://www.techmeme.com/220510/p45#a220510p45)<!-- TECH:END -->
+ - [Brightseed, which develops an AI-based system called Forager to identify and categorize plant compounds for human health, raises a $68M Series B led by Temasek &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220510/p46#a220510p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
