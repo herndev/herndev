@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-to-stream-on-netflix-tonight/#ftag=CAD590a51e)
- - [Mashgin, which makes computer vision-based touchless self-checkout kiosks, raises a $62.5M Series B led by NEA at a $1.5B post-money valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220510/p42#a220510p42)
- - [Dish’s upcoming wireless plan might let you buy an iPhone with crypto](https://www.theverge.com/2022/5/10/23066066/dish-network-boost-infinite-project-genesis-5g)<!-- TECH:END -->
+ - [Leaked proposal: the EC plans to release a draft law this week that would require tech companies like Meta, Apple, and Google to detect, remove, and report CSAM &lpar;Politico&rpar;](http://www.techmeme.com/220510/p45#a220510p45)
+ - [Certn, which offers AI-driven tools to conduct background checks and risk monitoring for employees, contractors, and tenants, raises a $50M Series B &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220510/p44#a220510p44)
+ - [Source: crypto analytics startup Chainalysis raises a $170M Series F led by GIC at an $8.6B valuation, up from $4.2B in June when it raised a $100M Series E &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220510/p43#a220510p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
