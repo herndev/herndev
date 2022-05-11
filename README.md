@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let&#39;s All Retire To The Happiest Village In Video Games](https://kotaku.com/nara-tony-kick-fine-art-concept-illustration-korea-arti-1848909013)
  - [Gwent&#39;s first two seasonal journeys are back, without the time limits](https://www.pcgamer.com/gwents-first-two-seasonal-journeys-are-back-without-the-time-limits)
- - [iPods are officially dead](https://www.pcgamer.com/ipods-are-officially-dead)
- - [Pokémon x Converse Sneaker Collab Looks Lovely](https://kotaku.com/pokemon-converse-chuck-taylors-collaboration-sneakers-j-1848908806)<!-- GAME:END -->
+ - [iPods are officially dead](https://www.pcgamer.com/ipods-are-officially-dead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
