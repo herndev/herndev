@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome for desktop will let users easily create virtual cards for safer online shopping using Autofill, coming later to Android and iOS &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220511/p34#a220511p34)
- - [Google pitches for user trust with expanded privacy controls](https://www.theverge.com/2022/5/11/23066161/google-privacy-controls-protected-computing-io)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)<!-- TECH:END -->
+ - [Google previews Pixel 7 flagship for fall, Pixel Tablet for 2023](https://appleinsider.com/articles/22/05/11/google-previews-pixel-7-flagship-for-fall-pixel-tablet-for-2023?utm_medium=rss)
+ - [Google announces the Pixel Buds Pro, first Pixel Buds with ANC](https://www.androidauthority.com/google-pixel-buds-pro-3163907/)
+ - [Google I/O sees debut of Pixel 6a, Pixel Watch, Pixel Buds Pro](https://appleinsider.com/articles/22/05/11/google-io-sees-debut-of-pixel-6a-pixel-watch-pixel-buds-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
