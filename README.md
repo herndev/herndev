@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s when most of you last used your phone’s hotspot](https://www.androidauthority.com/mobile-hotspot-poll-results-3163531/)
- - [Unity Software&#39;s stock fell 28%+ in after-hours trading amid company&#39;s lower than expected sales forecasts for Q2 and lower revenue guidance for next full-year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220511/p3#a220511p3)
- - [Osmind, which provides EHR software to chart and update mental health patient information and documents, raises a $40M Series B led by DFJ Growth &lpar;David Shultz/Fast Company&rpar;](http://www.techmeme.com/220511/p2#a220511p2)<!-- TECH:END -->
+ - [Sony Xperia 1 IV buyer’s guide: Everything you need to know](https://www.androidauthority.com/sony-xperia-1-iv-3152665/)
+ - [Sony’s Xperia 1 IV is a pricey proof of concept](https://www.theverge.com/23065641/sony-xperia-1-iv-announcement-hands-on-price-specs-zoom-screen)
+ - [Pixel 7 Rumors: A Few Possible Specs and Speculation     - CNET](https://www.cnet.com/tech/mobile/google-pixel-7-rumors/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
