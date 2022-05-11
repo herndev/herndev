@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
- - [Last chance: Amazon has iPod touch models in stock for $189.99](https://appleinsider.com/articles/22/05/11/last-chance-amazon-has-ipod-touch-models-in-stock-for-18999?utm_medium=rss)
- - [Twitter made a browser game to help explain its privacy settings](https://www.theverge.com/2022/5/11/23067040/twitter-browser-game-privacy-settings-data-dash)<!-- TECH:END -->
+ - [Meta withdraws request for Oversight Board’s advice on Russia-Ukraine war content policy](https://www.theverge.com/2022/5/11/23066587/meta-withdraws-oversight-board-request-russia-ukraine-war)
+ - [Google Translate adds support for 24 additional languages, including regional dialects from India, South America, and Africa, used by 300M people &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/220511/p29#a220511p29)
+ - [Google Maps brings a new &quot;immersive view&quot;, a combination of Street View and aerial shots, for select cities and will let third-party apps use Live View&#39;s AR &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220511/p28#a220511p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
