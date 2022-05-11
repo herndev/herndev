@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By the power of white girl](http://9gag.com/gag/aKmKn6b)
- - ⏩ [In Spanish they\u2019re called \u201cpendejo\u201d](http://9gag.com/gag/aPZrVxw)
- - 👉 [Interesting statement](http://9gag.com/gag/aDDQr8K)<!-- MEMES:END -->
+ - 💣 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/aOQpAdM)
+ - 👉 [True..](http://9gag.com/gag/a0ZOzXQ)<!-- MEMES:END -->
 
 ---
 
