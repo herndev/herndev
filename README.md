@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What Doctor Strange 2’s multitude of cameos could mean for the MCU’s future](https://www.theverge.com/2022/5/11/23063634/doctor-strange-2-post-credits-cameos-illuminati)
- - [Body Doubling: How the Gentle Productivity Movement Is Taking Over TikTok     - CNET](https://www.cnet.com/culture/internet/body-doubling-how-the-gentle-productivity-movement-is-taking-over-tiktok/#ftag=CAD590a51e)
- - [The Dark Side of &#39;What I Eat in a Day&#39; Videos     - CNET](https://www.cnet.com/health/nutrition/the-dark-side-of-what-i-eat-in-a-day-videos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple sells out of all 256GB iPod touch colors](https://appleinsider.com/articles/22/05/11/apple-sells-out-of-all-256gb-ipod-touch-colors?utm_medium=rss)
+ - [An Elusive Gravity Signal Could Mean Faster Earthquake Warnings](https://www.wired.com/story/an-elusive-gravity-signal-could-mean-faster-earthquake-warnings)
+ - [CIQ, which develops the open-source Rocky Linux distro for enterprise, raises a $26M Series A led by Two Bear Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220511/p20#a220511p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
