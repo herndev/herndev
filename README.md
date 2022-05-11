@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)
- - ⏩ [Guy finds thousands of scorpions in an abandoned house](http://9gag.com/gag/aNPjGK6)
- - 👉 [Both..](http://9gag.com/gag/aze4vxp)<!-- MEMES:END -->
+ - 💣 [Both..](http://9gag.com/gag/aze4vxp)
+ - ⏩ [The level of details](http://9gag.com/gag/a31Ner3)
+ - 👉 [He was chosen](http://9gag.com/gag/aVxR48M)<!-- MEMES:END -->
 
 ---
 
