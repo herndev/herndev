@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)
- - [The European Union releases plans for a law that requires tech companies to scan for CSAM and more, threatening to end-to-end encryption &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220511/p17#a220511p17)
- - [The Nintendo Switch is at a new low price of $259.99 today](https://www.theverge.com/good-deals/2022/5/11/23066765/nintendo-switch-neon-red-blue-console-walmart-deal-sale)<!-- TECH:END -->
+ - [What Doctor Strange 2’s multitude of cameos could mean for the MCU’s future](https://www.theverge.com/2022/5/11/23063634/doctor-strange-2-post-credits-cameos-illuminati)
+ - [Body Doubling: How the Gentle Productivity Movement Is Taking Over TikTok     - CNET](https://www.cnet.com/culture/internet/body-doubling-how-the-gentle-productivity-movement-is-taking-over-tiktok/#ftag=CAD590a51e)
+ - [The Dark Side of &#39;What I Eat in a Day&#39; Videos     - CNET](https://www.cnet.com/health/nutrition/the-dark-side-of-what-i-eat-in-a-day-videos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
