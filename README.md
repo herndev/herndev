@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel shows off its Arctic Sound-M datacentre GPU](https://www.pcgamer.com/intel-shows-off-its-arctic-sound-m-datacentre-gpu)
  - [Razer&#39;s new wireless Viper V2 Pro mouse is lighter than ever](https://www.pcgamer.com/razers-new-wireless-viper-v2-pro-mouse-is-lighter-than-ever)
- - [Mass Effect store listing that mentioned Shepard was a mistake, apparently](https://www.pcgamer.com/mass-effect-store-listing-that-mentioned-shepard-was-a-mistake-apparently)
- - [Former 3D Realms owners clash over Duke Nukem Forever blame](https://www.pcgamer.com/former-3d-realms-owners-blame-each-other-for-losing-duke-nukem-forever)<!-- GAME:END -->
+ - [Mass Effect store listing that mentioned Shepard was a mistake, apparently](https://www.pcgamer.com/mass-effect-store-listing-that-mentioned-shepard-was-a-mistake-apparently)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
