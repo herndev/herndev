@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6 vs Google Pixel 6a: Which should you buy?](https://www.androidauthority.com/google-pixel-6-vs-google-pixel-6a-3163694/)
- - [Poll: Is the Google Pixel 6a hot or not?](https://www.androidauthority.com/google-pixel-6a-hot-not-poll-3163373/)
- - [Google teases an early look at lightweight AR glasses that can display text of a conversation translated in real time &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220511/p43#a220511p43)<!-- TECH:END -->
+ - [Sonos launches new budget Ray soundbar, Roam in new colors](https://appleinsider.com/articles/22/05/11/sonos-launches-new-budget-ray-soundbar-roam-in-new-colors?utm_medium=rss)
+ - [Which Google Pixel Buds model should you buy?](https://www.theverge.com/23065279/google-pixel-buds-comparison-a-series-vs-pro-specs-price)
+ - [Harley-Davidson’s LiveWire announces S2 Del Mar, its most affordable electric motorcycle yet](https://www.theverge.com/2022/5/11/23067118/harley-davidson-livewire-s2-del-mar-electric-motorcycle-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
