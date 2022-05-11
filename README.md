@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fishe](http://9gag.com/gag/aPZr2VP)
- - ⏩ [They really know the market!](http://9gag.com/gag/aNPj5Y4)
- - 👉 [Fate worse than death.](http://9gag.com/gag/avA9qBO)<!-- MEMES:END -->
+ - 💣 [6 if you chop them up](http://9gag.com/gag/apgVwnn)
+ - ⏩ [So very true](http://9gag.com/gag/aDDQLBB)
+ - 👉 [Achtung!](http://9gag.com/gag/aAGv5Lg)<!-- MEMES:END -->
 
 ---
 
