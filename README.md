@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Fifth Circuit Court of Appeals votes 2-1 to let Texas enforce a social media law prohibiting Twitter, Facebook, and others from suppressing user content &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/220511/p48#a220511p48)
- - [Disney Plus added almost 8 million new subscribers as Netflix struggles](https://www.theverge.com/2022/5/11/23067551/disney-plus-q2-2022-earnings-205-million-streaming-subscribers)
- - [Google lowers the minimum price for apps to $0.05 in 20+ emerging markets, and will allow developers in those regions to create prepaid app subscription plans &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220511/p47#a220511p47)<!-- TECH:END -->
+ - [Jack Dorsey says he’ll never be the CEO of Twitter again](https://www.theverge.com/2022/5/11/23067717/jack-dorsey-ceo-twitter-return-elon-musk-buyout)
+ - [Source: Chelsea Football Club struck a &amp;pound;20M shirt-sleeve sponsorship deal with crypto trading app WhaleFin, owned by Singapore-based Amber Group, in January &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/220511/p50#a220511p50)
+ - [Disney&#39;s subscriptions for its streaming services rose to 205.6M globally: Disney+ added 7.9M subs to 137.7M, Hulu added 300K to 45.6M, ESPN+ added 1M to 22.3M &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220511/p49#a220511p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
