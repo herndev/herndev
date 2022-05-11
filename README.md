@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [P A I N](http://9gag.com/gag/aQXyb8q)
- - ⏩ [Man saves girl&#39;s life in Astana](http://9gag.com/gag/ay9vA5Y)
- - 👉 [Doesn&#39;t look good](http://9gag.com/gag/aOQpED3)<!-- MEMES:END -->
+ - ⏩ [The otherside of war: Ukrainian soldiers in Azovstal. &lpar;36th &amp; 56th brigade, National Guard &amp; Azov regiment&rpar;](http://9gag.com/gag/abgRoEL)
+ - 👉 [Next level mower](http://9gag.com/gag/aNPj5pb)<!-- MEMES:END -->
 
 ---
 
