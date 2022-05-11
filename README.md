@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked proposal: the EC plans to release a draft law this week that would require tech companies like Meta, Apple, and Google to detect, remove, and report CSAM &lpar;Politico&rpar;](http://www.techmeme.com/220510/p45#a220510p45)
- - [Certn, which offers AI-driven tools to conduct background checks and risk monitoring for employees, contractors, and tenants, raises a $50M Series B &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220510/p44#a220510p44)
- - [Source: crypto analytics startup Chainalysis raises a $170M Series F led by GIC at an $8.6B valuation, up from $4.2B in June when it raised a $100M Series E &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220510/p43#a220510p43)<!-- TECH:END -->
+ - [Dusty Robotics, whose first robot FieldPrinter automates the process of printing full-size floor plans at construction sites, raises a $45M Series B &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220511/p1#a220511p1)
+ - [Brightseed, which develops an AI-based system called Forager to identify and categorize plant compounds for human health, raises a $68M Series B led by Temasek &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220510/p46#a220510p46)
+ - [Leaked proposal: the EC plans to release a draft law this week that requires tech companies to scan for CSAM and threatens end-to-end encryption &lpar;Politico&rpar;](http://www.techmeme.com/220510/p45#a220510p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
