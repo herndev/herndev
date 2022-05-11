@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to know how to watch the Google I/O 2022 keynote? Check it out here!](https://www.androidauthority.com/watch-google-i-o-2022-keynote-3163244/)
- - [Twitter announces a &quot;Copypasta and Duplicate Content&quot; policy to clarify how it works to combat spam and duplicative content and what constitutes a violation &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220511/p6#a220511p6)
- - [Poll: Do you still use an iPod?](https://www.androidauthority.com/apple-ipod-poll-3163556/)<!-- TECH:END -->
+ - [Your wireless bill just got gamified, so you can earn free service](https://www.androidauthority.com/boostone-free-wireless-3163296/)
+ - [Ford’s F-150 Lightning Is a Refined Beast](https://www.wired.com/story/ford-f-150-lightning-first-drive)
+ - [Ford F-150 Lightning first drive: quiet storm](https://www.theverge.com/23065908/ford-f150-lightning-electric-truck-first-drive-specs-road-bluecruise)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
