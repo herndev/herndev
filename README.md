@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla recalls 130,000 vehicles to fix touchscreen issues caused by an overheating CPU](https://www.theverge.com/2022/5/10/23065987/tesla-recall-130000-vehicles-fix-touchscreen-issues-caused-overheating-cpu-amd-ryzen)
- - [Josh Hawley wants to punish Disney by taking copyright law back to 1909 and that sucks](https://www.theverge.com/2022/5/10/23066030/hawley-copyright-disney-mickey-mouse)
- - [Google TV’s ambient mode screen saver with sports scores and podcast links is rolling out](https://www.theverge.com/2022/5/10/23065933/google-tv-screen-saver-assistant-podcast-news-sports-youtube-personalized)<!-- TECH:END -->
+ - [The Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-to-stream-on-netflix-tonight/#ftag=CAD590a51e)
+ - [Mashgin, which makes computer vision-based touchless self-checkout kiosks, raises a $62.5M Series B led by NEA at a $1.5B post-money valuation &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220510/p42#a220510p42)
+ - [Dish’s upcoming wireless plan might let you buy an iPhone with crypto](https://www.theverge.com/2022/5/10/23066066/dish-network-boost-infinite-project-genesis-5g)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
