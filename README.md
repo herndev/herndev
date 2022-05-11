@@ -97,7 +97,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [6 if you chop them up](http://9gag.com/gag/apgVwnn)
- - ⏩ [So very true](http://9gag.com/gag/aDDQLBB)
+ - ⏩ [Hmmmm](http://9gag.com/gag/aDDQ9P9)
  - 👉 [Achtung!](http://9gag.com/gag/aAGv5Lg)<!-- MEMES:END -->
 
 ---
