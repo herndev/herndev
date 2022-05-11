@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On a mission to try ALL pizzas](http://9gag.com/gag/aE8ZE6n)
- - ⏩ [Petting a variety of adorable big cats](http://9gag.com/gag/aognqxm)
- - 👉 [Kids nap in Trolly Amsterdam - Fun Riding](http://9gag.com/gag/aRrRy6j)<!-- MEMES:END -->
+ - 💣 [Yellow brick road found at the bottom of Pacific Ocean.](http://9gag.com/gag/aRrRyOM)
+ - ⏩ [Tell em kids](http://9gag.com/gag/aegRdzj)
+ - 👉 [`Honey, stop the car and take a picture!` `why?` `you wouldnt get it.`](http://9gag.com/gag/aVxRd4w)<!-- MEMES:END -->
 
 ---
 
