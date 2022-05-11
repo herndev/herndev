@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Both..](http://9gag.com/gag/aze4vxp)
- - ⏩ [The level of details](http://9gag.com/gag/a31Ner3)
- - 👉 [He was chosen](http://9gag.com/gag/aVxR48M)<!-- MEMES:END -->
+ - ⏩ [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)
+ - 👉 [Yeah what a time!](http://9gag.com/gag/a0ZOGZZ)<!-- MEMES:END -->
 
 ---
 
