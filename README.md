@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk’s Dumb Elden Ring Build Proves The Billionaire Is Maidenless](https://kotaku.com/elon-musk-elden-ring-mage-worst-magic-build-twitter-bil-1848912000)
- - [Intel Arc is launching soon, but only in China](https://www.pcgamer.com/intel-arc-is-launching-in-q2-in-china)
- - [15 comic books we’ll kick back with this summer](https://www.polygon.com/23055412/new-comics-2022-summer-preview-dc-marvel)<!-- GAME:END -->
+ - [Ubisoft’s mysterious Avatar game still set to arrive in 2022](https://www.polygon.com/2022/5/11/23067350/ubisoft-avatar-frontiers-of-pandora-2022-release-massive-entertainment)
+ - [True Elden Ring Lord Let Me Solo Her Kills Malenia 1,000 Times](https://kotaku.com/elden-ring-let-me-solo-her-klein-tsuboi-1000-malenia-yo-1848911945)
+ - [The antitrust lawsuit against Valve is back on](https://www.pcgamer.com/the-antitrust-lawsuit-against-valve-is-back-on)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
