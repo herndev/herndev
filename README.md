@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let Me Solo Her&#39;s glorious 1000th battle was a nail biter](https://www.pcgamer.com/let-me-solo-hers-glorious-1000th-battle-was-a-nail-biter)
- - [Assassin’s Creed Streamer Beats All 12 Mainline Games Without Taking Damage](https://kotaku.com/assassin-s-creed-no-damage-valhalla-origins-odyssey-ezi-1848913255)
- - [Magic: The Gathering cards have a secret language that only a few can translate](https://www.polygon.com/23060686/magic-the-gathering-cards-secret-language-translation-phyrexian)<!-- GAME:END -->
+ - [Final Fantasy XIV Players Sent To In-Game Jail As Devs Mull Mod Controversy](https://kotaku.com/ffxiv-final-fantasy-xiv-square-enix-naoki-yoshida-mods-1848913705)
+ - [Nintendo Showcase Standout Gunbrella Has The Best New Video Game Name Of 2022](https://kotaku.com/gunbrella-punk-noir-nintendo-indie-world-showcase-doink-1848913570)
+ - [Tesla has to patch 130K cars because their Ryzen APUs are overheating](https://www.pcgamer.com/tesla-has-to-patch-130k-cars-because-their-ryzen-apus-are-overheating)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
