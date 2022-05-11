@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro stop blocking the view! Nevermind, you&#39;re cute](http://9gag.com/gag/aqGDObj)
- - ⏩ [Haa](http://9gag.com/gag/axBmenL)
- - 👉 [It\u2019s Wednesday my dudes!](http://9gag.com/gag/awzeDMQ)<!-- MEMES:END -->
+ - 💣 [It\u2019s Wednesday my dudes!](http://9gag.com/gag/awzeDMQ)
+ - ⏩ [Chinese reporter caught a T-72 winning the turret toss in RF controlled Donetsk.](http://9gag.com/gag/aOQpOWE)
+ - 👉 [WTF is just happening](http://9gag.com/gag/aZrRK6V)<!-- MEMES:END -->
 
 ---
 
