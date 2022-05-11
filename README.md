@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s reveals the first games to support its FSR 2.0 upscaling tech](https://www.pcgamer.com/amds-reveals-the-first-games-to-support-its-fsr-20-upscaling-tech)
- - [Microsoft announces heaps of specially designed accessibility accessories](https://www.pcgamer.com/microsoft-announces-heaps-of-specially-designed-accessibility-accessories)
- - [Let&#39;s All Retire To The Happiest Village In Video Games](https://kotaku.com/nara-tony-kick-fine-art-concept-illustration-korea-arti-1848909013)<!-- GAME:END -->
+ - [Mass Effect store listing that mentioned Shepard was a mistake, apparently](https://www.pcgamer.com/mass-effect-store-listing-that-mentioned-shepard-was-a-mistake-apparently)
+ - [Former 3D Realms owners clash over Duke Nukem Forever blame](https://www.pcgamer.com/former-3d-realms-owners-blame-each-other-for-losing-duke-nukem-forever)
+ - [AMD&#39;s reveals the first games to support its FSR 2.0 upscaling tech](https://www.pcgamer.com/amds-reveals-the-first-games-to-support-its-fsr-20-upscaling-tech)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
