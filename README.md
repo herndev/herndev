@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix pictures not showing on Google Chrome](https://www.androidauthority.com/fix-pictures-not-showing-google-chrome-3163528/)
- - [Chicken Soup for the Soul Entertainment will acquire DVD rental and streaming company Redbox for $375M in an all-stock deal &lpar;Matt Schifrin/Forbes&rpar;](http://www.techmeme.com/220511/p14#a220511p14)
- - [How to turn off read receipts on iOS 15, iPadOS 15, or macOS Monterey](https://appleinsider.com/articles/21/11/03/how-to-turn-off-read-receipts-on-ios-15-ipados-15-or-macos-monterey?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s $569.99 M1 Mac mini deal is back, marking return of cheapest online price](https://appleinsider.com/articles/22/05/11/amazons-56999-m1-mac-mini-deal-is-back-marking-return-of-cheapest-online-price?utm_medium=rss)
+ - [The European Union releases plans for a law that requires tech companies to scan for CSAM and more, threatening to end-to-end encryption &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220511/p17#a220511p17)
+ - [The Nintendo Switch is at a new low price of $259.99 today](https://www.theverge.com/good-deals/2022/5/11/23066765/nintendo-switch-neon-red-blue-console-walmart-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
