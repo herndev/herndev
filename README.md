@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now Would Have Been A Good Time For Another Batman Arkham Game](https://kotaku.com/batman-arkham-gotham-knights-suicide-squad-assassins-cr-1848911270)
- - [So, I just spent my day playing Valheim through these weird-ass prototype XR glasses](https://www.pcgamer.com/viture-one-xr-glasses-hands-on)
- - [Apex Legends Mobile launches next week](https://www.polygon.com/23067078/apex-legends-mobile-release-date-trailer-new-legend-maps)<!-- GAME:END -->
+ - [The Latest Paladins Update Emerges from the Shadows](https://news.xbox.com/en-us/2022/05/11/the-latest-paladins-update-emerges-from-the-shadows/)
+ - [The Worst Enemy In Elden Ring’s Sellia Crystal Tunnel](https://kotaku.com/elden-ring-worst-enemies-pests-caelid-sellia-crystal-tu-1848911431)
+ - [Cute crab game gets a trailer and coins the term &#39;Shellslike&#39;](https://www.pcgamer.com/cute-crab-game-gets-a-trailer-and-coins-the-term-shellslike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
