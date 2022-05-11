@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos launches new budget Ray soundbar, Roam in new colors](https://appleinsider.com/articles/22/05/11/sonos-launches-new-budget-ray-soundbar-roam-in-new-colors?utm_medium=rss)
- - [Which Google Pixel Buds model should you buy?](https://www.theverge.com/23065279/google-pixel-buds-comparison-a-series-vs-pro-specs-price)
- - [Harley-Davidson’s LiveWire announces S2 Del Mar, its most affordable electric motorcycle yet](https://www.theverge.com/2022/5/11/23067118/harley-davidson-livewire-s2-del-mar-electric-motorcycle-specs-price)<!-- TECH:END -->
+ - [The Fifth Circuit Court of Appeals votes 2-1 to let Texas enforce a social media law prohibiting Twitter, Facebook, and others from suppressing user content &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/220511/p48#a220511p48)
+ - [Disney Plus added almost 8 million new subscribers as Netflix struggles](https://www.theverge.com/2022/5/11/23067551/disney-plus-q2-2022-earnings-205-million-streaming-subscribers)
+ - [Google lowers the minimum price for apps to $0.05 in 20+ emerging markets, and will allow developers in those regions to create prepaid app subscription plans &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220511/p47#a220511p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
