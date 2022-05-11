@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Osmind, which provides EHR software to chart and update mental health patient information and documents, raises a $40M Series B led by DFJ Growth &lpar;David Shultz/Fast Company&rpar;](http://www.techmeme.com/220511/p2#a220511p2)
- - [Dusty Robotics, whose first robot FieldPrinter automates the process of printing full-size floor plans at construction sites, raises a $45M Series B &lpar;Amy Feldman/Forbes&rpar;](http://www.techmeme.com/220511/p1#a220511p1)
- - [Brightseed, which develops an AI-based system called Forager to identify and categorize plant compounds for human health, raises a $68M Series B led by Temasek &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220510/p46#a220510p46)<!-- TECH:END -->
+ - [We asked, you told us: Here’s when most of you last used your phone’s hotspot](https://www.androidauthority.com/mobile-hotspot-poll-results-3163531/)
+ - [Unity Software&#39;s stock fell 28%+ in after-hours trading amid company&#39;s lower than expected sales forecasts for Q2 and lower revenue guidance for next full-year &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220511/p3#a220511p3)
+ - [Osmind, which provides EHR software to chart and update mental health patient information and documents, raises a $40M Series B led by DFJ Growth &lpar;David Shultz/Fast Company&rpar;](http://www.techmeme.com/220511/p2#a220511p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
