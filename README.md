@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s been a long time since your last charisma buff. Take a break for a moment and recieve it.](http://9gag.com/gag/aM4q5gV)
+ - 💣 [Prank](http://9gag.com/gag/aggKwmv)
  - ⏩ [Achtung!](http://9gag.com/gag/aAGv5Lg)
- - 👉 [Prank](http://9gag.com/gag/aggKwmv)<!-- MEMES:END -->
+ - 👉 [After 12 years I\u2019ve started rewatching Srubs. It\u2019s still so good!](http://9gag.com/gag/aBn4eL1)<!-- MEMES:END -->
 
 ---
 
