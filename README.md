@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
- - [Watch Nintendo’s new Indie World event here](https://www.polygon.com/23064160/nintendo-indie-world-may-2022-date-time-nindies)
- - [The best Warzone loadouts and class setups](https://www.pcgamer.com/best-warzone-loadout)<!-- GAME:END -->
+ - [The leaked 2001 Duke Nukem Forever build can now be downloaded](https://www.pcgamer.com/the-leaked-2001-duke-nukem-forever-build-can-now-be-downloaded)
+ - [Clever puzzle-platformer ElecHead is coming to Switch](https://www.polygon.com/23065717/elechead-consoles-nintendo-switch-release-date)
+ - [PlayStation Store: April 2022’s top downloads](https://blog.playstation.com/2022/05/11/playstation-store-april-2022s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
