@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [What&#39;s Today?](http://9gag.com/gag/aKmKXwW)
- - ⏩ [Completely normal phenomenon](http://9gag.com/gag/aOQpAdM)
- - 👉 [True..](http://9gag.com/gag/a0ZOzXQ)<!-- MEMES:END -->
+ - ⏩ [Guy finds thousands of scorpions in an abandoned house](http://9gag.com/gag/aNPjGK6)
+ - 👉 [Both..](http://9gag.com/gag/aze4vxp)<!-- MEMES:END -->
 
 ---
 
