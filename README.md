@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2022/05/10/extended-play-promotion-comes-to-playstation-store-2/)
- - [Extended Play promotion comes to PlayStation Store](https://blog.playstation.com/2022/05/10/extended-play-promotion-comes-to-playstation-store-2/)
- - [Battlefield 2042 is using the &#39;Vince Zampella-slash-Respawn model&#39; now, EA CEO says](https://www.pcgamer.com/battlefield-2042-is-using-the-vince-zampella-slash-respawn-model-now-ea-ceo-says)<!-- GAME:END -->
+ - [Gwent&#39;s first two seasonal journeys are back, without the time limits](https://www.pcgamer.com/gwents-first-two-seasonal-journeys-are-back-without-the-time-limits)
+ - [iPods are officially dead](https://www.pcgamer.com/ipods-are-officially-dead)
+ - [Pokémon x Converse Sneaker Collab Looks Lovely](https://kotaku.com/pokemon-converse-chuck-taylors-collaboration-sneakers-j-1848908806)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
