@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Samsung announce Health Connect to simplify connectivity between health and fitness apps and allow users to share their data across apps &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220512/p23#a220512p23)
- - [Researchers Grew Tiny Plants in Moon Dirt Collected Decades Ago](https://www.wired.com/story/researchers-grew-tiny-plants-in-moon-dirt-collected-decades-ago)
- - [Daily deals May 12: $329 Apple Watch 7, $200 off Samsung Galaxy Z Flip 3 5G, $49 Logitech G413 Gaming Keyboard, more](https://appleinsider.com/articles/22/05/12/daily-deals-may-12-329-apple-watch-7-200-off-samsung-galaxy-z-flip-3-5g-49-logitech-g413-gaming-keyboard-more?utm_medium=rss)<!-- TECH:END -->
+ - [LUNA drops to $0.01, a 99%+ decline in 24 hours, down from $60 earlier this week and $120 in mid-April &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220512/p27#a220512p27)
+ - [Tether&#39;s CTO declined to reveal details on its $40B US government bond holdings, a similar amount to Vietnam, for fear of revealing its &quot;secret sauce&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p26#a220512p26)
+ - [Google says there are 110M monthly active devices using Android TV OS, up from 80M in May 2021, and it will let Android users cast to Google TV later this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220512/p25#a220512p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
