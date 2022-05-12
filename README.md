@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin price fluctuations increasingly mirror the broader tech stock market, as the recent downturn shows, belying its goal of hedging against inflation &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/220512/p13#a220512p13)
- - [Google Has a Plan to Stop Its New AI From Being Dirty and Rude](https://www.wired.com/story/google-voice-assistant-future)
- - [After mocking Apple for removing the iPhone headphone jack in an August 2021 ad for the Pixel 5a, Google quietly removes the headphone jack on the Pixel 6a &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p12#a220512p12)<!-- TECH:END -->
+ - [Apple&#39;s iPhone order shift to beat China lockdown boosted Foxconn&#39;s earnings](https://appleinsider.com/articles/22/05/12/apples-iphone-order-shift-to-beat-china-lockdown-boosted-foxconns-earnings?utm_medium=rss)
+ - [The Case for War Crimes Charges Against Russia’s Sandworm Hackers](https://www.wired.com/story/cyber-war-crimes-sandworm-russia-ukraine)
+ - [Lugano Ties Its Crypto City Dream to Tether](https://www.wired.com/story/lugano-tether-crypto-city)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
