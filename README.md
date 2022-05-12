@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going for family dinner too](http://9gag.com/gag/aKmKRbW)
- - ⏩ [Your only chance\u2026](http://9gag.com/gag/a91Dx3K)
+ - 💣 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)
+ - ⏩ [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)
  - 👉 [British conquest](http://9gag.com/gag/a0ZOBEL)<!-- MEMES:END -->
 
 ---
