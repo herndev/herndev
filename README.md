@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SoftBank reports a $26.2B full year loss for its Vision Fund unit, leading the group to a $13.15B annual net loss, as stocks decline and inflation rises &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220512/p7#a220512p7)
- - [Tether, the largest stablecoin, briefly drops to a 24-hour low of $0.96; Finance USD and USDC are trading at $1.08 and $1.09, respectively &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220512/p6#a220512p6)
- - [Galaxy Z Flip 4 leak shows a very familiar looking foldable](https://www.theverge.com/2022/5/12/23068245/galaxy-z-flip-4-leaked-renders-release-date-foldable-design)<!-- TECH:END -->
+ - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
+ - [Google Pixel 6a buyer’s guide: Everything you need to know](https://www.androidauthority.com/google-pixel-6a-3062838/)
+ - [Bitcoin dropped below $27,000 for the first time since December 2020, down 15% in 24 hours; Ether drops to as low as $1,750, its lowest level since July 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220512/p8#a220512p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
