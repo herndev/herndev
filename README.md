@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)
- - ⏩ [German bedtime stories are the best!](http://9gag.com/gag/avA9MqE)
+ - 💣 [When you woke up this morning you got yourself a gun](http://9gag.com/gag/aOQpMyv)
+ - ⏩ [Good Kitty](http://9gag.com/gag/aggKWN6)
  - 👉 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)<!-- MEMES:END -->
 
 ---
