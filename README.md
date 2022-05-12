@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase experiencing major outage as crypto prices plummet](https://www.theverge.com/2022/5/12/23068996/coinbase-outage-withdrawal-cryptocurrency-bitcoin-price-crash)
- - [Dead Space remake gets January release date](https://www.theverge.com/2022/5/12/23068873/ea-dead-space-release-date-art-livestream)
- - [Twitter shares fall to about $46, dropping its market cap to $9B below Elon Musk&#39;s purchase price of $54.20, amid investor concerns about the deal &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220512/p33#a220512p33)<!-- TECH:END -->
+ - [Roku bundles its Pro voice remote and Ultra streaming box without raising the price](https://www.theverge.com/2022/5/12/23069067/roku-ultra-streaming-box-voice-remote-pro-bundle)
+ - [The Pixel 6A loses the A-series’ best feature](https://www.theverge.com/2022/5/12/23067680/google-pixel-6a-phone-camera-tensor)
+ - [Alan Wake Remastered is coming to Nintendo Switch this fall](https://www.theverge.com/2022/5/12/23069044/alan-wake-remastered-nintendo-switch-tv-show-amc-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
