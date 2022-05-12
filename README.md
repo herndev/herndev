@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips for surviving and slaying in Evil Dead: The Game, out tomorrow](https://blog.playstation.com/2022/05/12/tips-for-surviving-and-slaying-in-evil-dead-the-game-out-tomorrow/)
- - [Tips for surviving and slaying in Evil Dead: The Game, out tomorrow](https://blog.playstation.com/2022/05/12/tips-for-surviving-and-slaying-in-evil-dead-the-game-out-tomorrow/)
- - [Elden Ring&#39;s lore has me obsessively scouring every corner for clues](https://www.pcgamer.com/elden-rings-lore-has-me-obsessively-scouring-every-corner-for-clues)<!-- GAME:END -->
+ - [So Much For Video Game Release Dates](https://kotaku.com/starfield-botw-2-god-war-ragnarok-delay-fall-2022-relea-1848916878)
+ - [How to defeat Death and survive over 30 minutes in Vampire Survivors](https://www.polygon.com/23067263/inlaid-library-red-death-unlock-31-minutes-boss)
+ - [Lego’s Horizon Forbidden West Tallneck won’t step on you, even if you want it to](https://www.polygon.com/23067766/horizon-forbidden-west-tallneck-lego-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
