@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In the latest Halo episode, Master Chief does the Covenant](https://www.theverge.com/2022/5/12/23069343/paramount-plus-halo-tv-show-master-chief-sex-scene)
- - [EcoFlow Wave answers the question ‘do I need air conditioning outside?’](https://www.theverge.com/2022/5/12/23068502/ecoflow-wave-portable-air-conditioner-camping-rv-cabin)
- - [Masayoshi Son says SoftBank will be cutting its startup investments by 50-75% through March 2023, after its Vision Fund unit reported a full-year loss of $20B+ &lpar;Veronica Irwin/Protocol&rpar;](http://www.techmeme.com/220512/p37#a220512p37)<!-- TECH:END -->
+ - [PitchBook: 16 new VC funds where at least 60% of decision-makers are women have raised $4.5B this year; women-led funds raised $3.7B in 2021 and $1.8B in 2020 &lpar;Mahira Dayal/The Information&rpar;](http://www.techmeme.com/220512/p40#a220512p40)
+ - [SEC filing: FTX CEO Sam Bankman-Fried bought a 7.6% stake, worth $648M, in Robinhood, calling it &quot;an attractive investment&quot;; stock jumps 20%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/220512/p39#a220512p39)
+ - [Apple circulating anti-union talking points to retail store managers](https://appleinsider.com/articles/22/05/12/apple-circulating-anti-union-talking-points-to-retail-store-managers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
