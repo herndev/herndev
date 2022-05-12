@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood insiders explain celebrities&#39; dwindling interest in Twitter, seen as a high-risk, low-reward platform, and why Musk&#39;s ownership might make it worse &lpar;Washington Post&rpar;](http://www.techmeme.com/220512/p36#a220512p36)
- - [Honor Magic 4 Pro review: Obsoletely fabulous](https://www.androidauthority.com/honor-magic-4-pro-review-specs-price-camera-3160230/)
- - [Honor Magic 4 Pro launches in UK with a Galaxy S22 Plus price](https://www.androidauthority.com/honor-magic-4-pro-launch-3164365/)<!-- TECH:END -->
+ - [In the latest Halo episode, Master Chief does the Covenant](https://www.theverge.com/2022/5/12/23069343/paramount-plus-halo-tv-show-master-chief-sex-scene)
+ - [EcoFlow Wave answers the question ‘do I need air conditioning outside?’](https://www.theverge.com/2022/5/12/23068502/ecoflow-wave-portable-air-conditioner-camping-rv-cabin)
+ - [Masayoshi Son says SoftBank will be cutting its startup investments by 50-75% through March 2023, after its Vision Fund unit reported a full-year loss of $20B+ &lpar;Veronica Irwin/Protocol&rpar;](http://www.techmeme.com/220512/p37#a220512p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
