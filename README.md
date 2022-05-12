@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The cryptocurrency market is experiencing an unprecedented crash](https://www.pcgamer.com/the-cryptocurrency-market-is-experiencing-an-unprecedented-crash)
  - [John Romero will publish a memoir next year](https://www.pcgamer.com/john-romero-will-publish-a-memoir-next-year)
- - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)
- - [Trek to Yomi review](https://www.pcgamer.com/trek-to-yomi-review)<!-- GAME:END -->
+ - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
