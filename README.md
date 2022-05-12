@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Google app stores include more than 1.5 million &#39;abandoned apps&#39;](https://appleinsider.com/articles/22/05/12/apple-and-google-app-stores-include-more-than-15-million-abandoned-apps?utm_medium=rss)
- - [The Pixel’s camera bar is here to stay, and that’s a good thing](https://www.theverge.com/23067931/google-pixel-7-6-a-pro-design-camera-bar-brand)
- - [Yeedi Vac 2 Pro review: This budget bot can scrub your floors and dodge your shoes](https://www.theverge.com/23067657/yeedi-vac-pro-2-robot-vacuum-mop-review)<!-- TECH:END -->
+ - [Google and Samsung announce Health Connect to simplify connectivity between health and fitness apps and allow users to share their data across apps &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220512/p23#a220512p23)
+ - [Researchers Grew Tiny Plants in Moon Dirt Collected Decades Ago](https://www.wired.com/story/researchers-grew-tiny-plants-in-moon-dirt-collected-decades-ago)
+ - [Daily deals May 12: $329 Apple Watch 7, $200 off Samsung Galaxy Z Flip 3 5G, $49 Logitech G413 Gaming Keyboard, more](https://appleinsider.com/articles/22/05/12/daily-deals-may-12-329-apple-watch-7-200-off-samsung-galaxy-z-flip-3-5g-49-logitech-g413-gaming-keyboard-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
