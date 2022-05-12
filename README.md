@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So Much For Video Game Release Dates](https://kotaku.com/starfield-botw-2-god-war-ragnarok-delay-fall-2022-relea-1848916878)
- - [How to defeat Death and survive over 30 minutes in Vampire Survivors](https://www.polygon.com/23067263/inlaid-library-red-death-unlock-31-minutes-boss)
- - [Lego’s Horizon Forbidden West Tallneck won’t step on you, even if you want it to](https://www.polygon.com/23067766/horizon-forbidden-west-tallneck-lego-review)<!-- GAME:END -->
+ - [Alan Wake Remastered is coming to Switch, and Remedy shows new Alan Wake 2 concept art](https://www.polygon.com/23068852/alan-wake-remastered-nintendo-switch-announcement)
+ - [This 29-year-old pro football manager trained on Football Manager](https://www.pcgamer.com/this-29-year-old-pro-football-manager-trained-on-football-manager)
+ - [This Destiny raid boss body pillow is here to give you comfort in the Darkness](https://www.pcgamer.com/rhulk-body-pillow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
