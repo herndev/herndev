@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The cryptocurrency market is experiencing an unprecedented crash](https://www.pcgamer.com/the-cryptocurrency-market-is-experiencing-an-unprecedented-crash)
- - [John Romero will publish a memoir next year](https://www.pcgamer.com/john-romero-will-publish-a-memoir-next-year)
- - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)<!-- GAME:END -->
+ - [Steam Deck update adds per-game performance settings](https://www.pcgamer.com/steam-deck-update-adds-per-game-performance-settings)
+ - [Intel showcases upcoming processors at its Vision 2022 event](https://www.pcgamer.com/intel-showcases-upcoming-processors-at-its-vision-2022-event)
+ - [The cryptocurrency market is experiencing an unprecedented crash](https://www.pcgamer.com/the-cryptocurrency-market-is-experiencing-an-unprecedented-crash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
