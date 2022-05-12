@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LUNA drops to $0.01, a 99%+ decline in 24 hours, down from $60 earlier this week and $120 in mid-April &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/220512/p27#a220512p27)
- - [Tether&#39;s CTO declined to reveal details on its $40B US government bond holdings, a similar amount to Vietnam, for fear of revealing its &quot;secret sauce&quot; &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p26#a220512p26)
- - [Google says there are 110M monthly active devices using Android TV OS, up from 80M in May 2021, and it will let Android users cast to Google TV later this year &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220512/p25#a220512p25)<!-- TECH:END -->
+ - [Twitter CEO pushes out top execs, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
+ - [Apple seeds Release Candidate iOS 15.5, iPadOS 15.5, tvOS 15.5, watchOS 8.6 developer betas](https://appleinsider.com/articles/22/05/12/apple-seeds-release-candidate-ios-155-ipados-155-tvos-155-watchos-86-developer-betas?utm_medium=rss)
+ - [Apple issues first macOS Monterey 12.4 Release Candidate beta to developers](https://appleinsider.com/articles/22/05/12/apple-issues-first-macos-monterey-124-release-candidate-beta-to-developers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
