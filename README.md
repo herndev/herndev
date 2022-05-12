@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The saddest word in the whole wide world is the word almost.](http://9gag.com/gag/a0ZO23B)
- - ⏩ [The Rise of the KAREN](http://9gag.com/gag/aggKWQg)
- - 👉 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)<!-- MEMES:END -->
+ - 💣 [Having lunch with a nice view, what can go wrong?](http://9gag.com/gag/aegRLDb)
+ - ⏩ [What does the [N] say - classic &lpar;repetition is the mother of learnin\u043f](http://9gag.com/gag/a91Do2m)
+ - 👉 [30kg of garbage today.it was good wether.I have a lot of energy to make more. I really love your photos with result! let\u2019s make more!Your Cleaning Guy.](http://9gag.com/gag/avA93Eq)<!-- MEMES:END -->
 
 ---
 
