@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bethesda’s Starfield and Redfall have been delayed to 2023](https://www.theverge.com/2022/5/12/23068378/starfield-bethesda-redfall-delay-2023-pc-xbox)
- - [The best new streaming movies this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [The Hidden Race to Protect the US Bioeconomy From Hacker Threats](https://www.wired.com/story/biotech-security-threats)<!-- TECH:END -->
+ - [S&amp;atilde;o Paulo-based Dock, a full-stack payments and digital banking service, raises $110M led by Lightrock and Silver Lake Waterman at a $1.5B+ valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220512/p21#a220512p21)
+ - [How Facebook undercut the Oversight Board](https://www.theverge.com/23068243/facebook-meta-oversight-board-putin-russia-ukraine-decision)
+ - [The latest Apple TV 4K is more affordable than ever today](https://www.theverge.com/good-deals/2022/5/12/23066918/apple-tv-4k-dji-mavic-3-drone-elgato-webcam-amazon-echo-show-8-m1-imac-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
