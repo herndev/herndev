@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He must be a dad](http://9gag.com/gag/a91D3XD)
- - ⏩ [We need him back](http://9gag.com/gag/a515LVo)
- - 👉 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)<!-- MEMES:END -->
+ - 💣 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)
+ - ⏩ [What a beautiful culture](http://9gag.com/gag/aze466K)
+ - 👉 [Alpha male Pro Max](http://9gag.com/gag/aze400p)<!-- MEMES:END -->
 
 ---
 
