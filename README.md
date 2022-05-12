@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey says he’ll never be the CEO of Twitter again](https://www.theverge.com/2022/5/11/23067717/jack-dorsey-ceo-twitter-return-elon-musk-buyout)
- - [Source: Chelsea Football Club struck a &amp;pound;20M shirt-sleeve sponsorship deal with crypto trading app WhaleFin, owned by Singapore-based Amber Group, in January &lpar;Samuel Agini/Financial Times&rpar;](http://www.techmeme.com/220511/p50#a220511p50)
- - [Disney&#39;s subscriptions for its streaming services rose to 205.6M globally: Disney+ added 7.9M subs to 137.7M, Hulu added 300K to 45.6M, ESPN+ added 1M to 22.3M &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220511/p49#a220511p49)<!-- TECH:END -->
+ - [Nexite, which develops a tagging system and data platform to track info about in-store merchandise, raises a $67M Series C, bringing its total funding to $100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220511/p55#a220511p55)
+ - [A new Steam Deck update adds one of the most-requested features](https://www.theverge.com/2022/5/11/23067870/steam-deck-update-per-game-performance-profiles)
+ - [A US appeals court rules 2-1 to let Texas enforce a social media law stopping Twitter, Facebook, and other services with 50M+ users from moderating content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220511/p54#a220511p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
