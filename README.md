@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder - southpark is free to watch on official website - they dont block ablock users. these dudes are awsome.](http://9gag.com/gag/aggKMeq)
- - ⏩ [Japan](http://9gag.com/gag/a41weQw)
- - 👉 [Finally, the respect we all deserve](http://9gag.com/gag/aegRvZO)<!-- MEMES:END -->
+ - 💣 [Take a break and pick a car](http://9gag.com/gag/a81VBM6)
+ - ⏩ [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)
+ - 👉 [Catwoman has joined the fight. Finland is entering NATO](http://9gag.com/gag/aGz7XGz)<!-- MEMES:END -->
 
 ---
 
