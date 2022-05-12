@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you woke up this morning you got yourself a gun](http://9gag.com/gag/aOQpMyv)
- - ⏩ [Good Kitty](http://9gag.com/gag/aggKWN6)
- - 👉 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)<!-- MEMES:END -->
+ - 💣 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)
+ - ⏩ [Hmm...ok!!](http://9gag.com/gag/a91DozZ)
+ - 👉 [How many times have you thought about quitting your job today ?](http://9gag.com/gag/aYrR9wm)<!-- MEMES:END -->
 
 ---
 
