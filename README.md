@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dane daneeeeeeee dameio damedetoiooooo](http://9gag.com/gag/amgRZZ9)
- - ⏩ [After 12 years I\u2019ve started rewatching Srubs. It\u2019s still so good!](http://9gag.com/gag/aBn4eL1)
- - 👉 [Fishe](http://9gag.com/gag/aPZr2VP)<!-- MEMES:END -->
+ - 💣 [Salamalakum](http://9gag.com/gag/aze4pQx)
+ - ⏩ [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)
+ - 👉 [On tinder](http://9gag.com/gag/aQXyWK8)<!-- MEMES:END -->
 
 ---
 
