@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Boss Asks Staff To Respect All Abortion Opinions In Email About Cats](https://kotaku.com/playstation-boss-jim-ryan-ceo-abortion-pro-life-memo-le-1848919014)
- - [Eric Barone says he &#39;can&#39;t believe&#39; Stardew Valley has sold 20 million copies](https://www.pcgamer.com/eric-barone-says-he-cant-believe-stardew-valley-has-sold-20-million-copies)
- - [El Salvador&#39;s bitcoin experiment is looking like a disaster](https://www.pcgamer.com/el-salvadors-bitcoin-experiment-is-looking-like-a-disaster)<!-- GAME:END -->
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
+ - [So am I the only one surprised Starfield is delayed?](https://www.pcgamer.com/so-am-i-the-only-one-surprised-starfield-is-delayed)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
