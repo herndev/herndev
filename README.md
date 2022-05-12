@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)
- - ⏩ [What a beautiful culture](http://9gag.com/gag/aze466K)
+ - 💣 [Been 6 times already to Finland. Probably I&#39;ll go 2 more tikes this year.](http://9gag.com/gag/aPZn6DP)
+ - ⏩ [Moi, Suomi! Hello Finland!](http://9gag.com/gag/aGz7WO5)
  - 👉 [Alpha male Pro Max](http://9gag.com/gag/aze400p)<!-- MEMES:END -->
 
 ---
