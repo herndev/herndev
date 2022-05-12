@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s &#39;Helpsters&#39; season 3 adds Bradley Cooper, Daphne Rubin-Vega](https://appleinsider.com/articles/22/05/11/apples-helpsters-season-3-adds-bradley-cooper-daphne-rubin-vega?utm_medium=rss)
- - [Google Pixel 6a buyer’s guide: Everything you need to know](https://www.androidauthority.com/google-pixel-6a-3062838/)
- - [Bitcoin dropped below $27,000 for the first time since December 2020, down 15% in 24 hours; Ether drops to as low as $1,750, its lowest level since July 2021 &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220512/p8#a220512p8)<!-- TECH:END -->
+ - [Bitcoin price fluctuations increasingly mirror the broader tech stock market, as the recent downturn shows, belying its goal of hedging against inflation &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/220512/p13#a220512p13)
+ - [Google Has a Plan to Stop Its New AI From Being Dirty and Rude](https://www.wired.com/story/google-voice-assistant-future)
+ - [After mocking Apple for removing the iPhone headphone jack in an August 2021 ad for the Pixel 5a, Google quietly removes the headphone jack on the Pixel 6a &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p12#a220512p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
