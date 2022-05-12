@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Painting miniatures? You’re probably overthinking it](https://www.polygon.com/23067627/slapchop-method-miniature-painting-contrast-speedpaint)
- - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
- - [Epic is going to release the Unreal Editor for Fortnite in an attempt to out-Roblox Roblox](https://www.pcgamer.com/epic-is-going-to-release-the-unreal-editor-for-fortnite-in-an-attempt-to-out-roblox-roblox)<!-- GAME:END -->
+ - [Tips for surviving and slaying in Evil Dead: The Game, out tomorrow](https://blog.playstation.com/2022/05/12/tips-for-surviving-and-slaying-in-evil-dead-the-game-out-tomorrow/)
+ - [Tips for surviving and slaying in Evil Dead: The Game, out tomorrow](https://blog.playstation.com/2022/05/12/tips-for-surviving-and-slaying-in-evil-dead-the-game-out-tomorrow/)
+ - [Elden Ring&#39;s lore has me obsessively scouring every corner for clues](https://www.pcgamer.com/elden-rings-lore-has-me-obsessively-scouring-every-corner-for-clues)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
