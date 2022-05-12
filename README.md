@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nexite, which develops a tagging system and data platform to track info about in-store merchandise, raises a $67M Series C, bringing its total funding to $100M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220511/p55#a220511p55)
- - [A new Steam Deck update adds one of the most-requested features](https://www.theverge.com/2022/5/11/23067870/steam-deck-update-per-game-performance-profiles)
- - [A US appeals court rules 2-1 to let Texas enforce a social media law stopping Twitter, Facebook, and other services with 50M+ users from moderating content &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220511/p54#a220511p54)<!-- TECH:END -->
+ - [Most rival algorithmic stablecoins are below the dollar peg after UST&#39;s collapse, while the two largest stablecoins Tether and USDC are holding their dollar peg &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220511/p59#a220511p59)
+ - [Google announces Workspace updates, including AI-powered tools to control how users look and sound on Meet and automated transcriptions of Meet meetings &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220511/p58#a220511p58)
+ - [Google confirms that Messages for Android will get end-to-end encryption for RCS group chats, rolling out &quot;later this year&quot; in open beta &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220511/p57#a220511p57)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
