@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Going for family dinner too](http://9gag.com/gag/aKmKRbW)
- - ⏩ [Hmm...ok!!](http://9gag.com/gag/a91DozZ)
- - 👉 [Your only chance\u2026](http://9gag.com/gag/a91Dx3K)<!-- MEMES:END -->
+ - ⏩ [Your only chance\u2026](http://9gag.com/gag/a91Dx3K)
+ - 👉 [British conquest](http://9gag.com/gag/a0ZOBEL)<!-- MEMES:END -->
 
 ---
 
