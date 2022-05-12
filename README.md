@@ -96,8 +96,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Buy the Dip Bro](http://9gag.com/gag/a31N9EQ)
- - ⏩ [Japan](http://9gag.com/gag/a41weQw)
+ - 💣 [He must be a dad](http://9gag.com/gag/a91D3XD)
+ - ⏩ [We need him back](http://9gag.com/gag/a515LVo)
  - 👉 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)<!-- MEMES:END -->
 
 ---
