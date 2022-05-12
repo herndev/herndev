@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [S&amp;atilde;o Paulo-based Dock, a full-stack payments and digital banking service, raises $110M led by Lightrock and Silver Lake Waterman at a $1.5B+ valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220512/p21#a220512p21)
- - [How Facebook undercut the Oversight Board](https://www.theverge.com/23068243/facebook-meta-oversight-board-putin-russia-ukraine-decision)
- - [The latest Apple TV 4K is more affordable than ever today](https://www.theverge.com/good-deals/2022/5/12/23066918/apple-tv-4k-dji-mavic-3-drone-elgato-webcam-amazon-echo-show-8-m1-imac-deal-sale)<!-- TECH:END -->
+ - [Apple and Google app stores include more than 1.5 million &#39;abandoned apps&#39;](https://appleinsider.com/articles/22/05/12/apple-and-google-app-stores-include-more-than-15-million-abandoned-apps?utm_medium=rss)
+ - [The Pixel’s camera bar is here to stay, and that’s a good thing](https://www.theverge.com/23067931/google-pixel-7-6-a-pro-design-camera-bar-brand)
+ - [Yeedi Vac 2 Pro review: This budget bot can scrub your floors and dodge your shoes](https://www.theverge.com/23067657/yeedi-vac-pro-2-robot-vacuum-mop-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
