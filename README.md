@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A San Francisco Police department training document notes that video footage from continuously recording autonomous vehicles can be obtained as evidence &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220512/p3#a220512p3)
- - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)
- - [Google will launch the Pixel 6a in India, its first phone in a while](https://www.androidauthority.com/google-pixel-6a-india-launch-3163698/)<!-- TECH:END -->
+ - [BVNK, which offers payments and banking services for crypto-native businesses, raises a $40M Series A led by Tiger Global at a $340M post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220512/p5#a220512p5)
+ - [Mophie introduces Apple Store exclusive USB-C GaN adapters](https://appleinsider.com/articles/22/05/11/mophie-introduces-apple-store-exclusive-usb-c-gan-adapters?utm_medium=rss)
+ - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: May 12&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
