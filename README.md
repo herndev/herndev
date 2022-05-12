@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck update adds per-game performance settings](https://www.pcgamer.com/steam-deck-update-adds-per-game-performance-settings)
- - [Intel showcases upcoming processors at its Vision 2022 event](https://www.pcgamer.com/intel-showcases-upcoming-processors-at-its-vision-2022-event)
- - [The cryptocurrency market is experiencing an unprecedented crash](https://www.pcgamer.com/the-cryptocurrency-market-is-experiencing-an-unprecedented-crash)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #327: Thursday, May 12](https://www.pcgamer.com/wordle-may-12-327-slung-meaning-definition)
+ - [Phanteks Evolv Shift XT review](https://www.pcgamer.com/phanteks-evolv-shift-xt)
+ - [Steam Deck update adds per-game performance settings](https://www.pcgamer.com/steam-deck-update-adds-per-game-performance-settings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
