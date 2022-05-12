@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most rival algorithmic stablecoins are below the dollar peg after UST&#39;s collapse, while the two largest stablecoins Tether and USDC are holding their dollar peg &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220511/p59#a220511p59)
- - [Google announces Workspace updates, including AI-powered tools to control how users look and sound on Meet and automated transcriptions of Meet meetings &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220511/p58#a220511p58)
- - [Google confirms that Messages for Android will get end-to-end encryption for RCS group chats, rolling out &quot;later this year&quot; in open beta &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220511/p57#a220511p57)<!-- TECH:END -->
+ - [Brian Armstrong says there&#39;s &quot;no risk of bankruptcy&quot; after Coinbase said in its filing that its users might lose all their crypto if the exchange goes bankrupt &lpar;Financial Times&rpar;](http://www.techmeme.com/220512/p2#a220512p2)
+ - [Google will launch the Pixel 6a in India, its first phone in a while](https://www.androidauthority.com/google-pixel-6a-india-launch-3163698/)
+ - [Twitter launches Data Dash, a browser game intended to help explain some of its privacy settings, as part of a bigger push around its rewritten privacy policy &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220512/p1#a220512p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
