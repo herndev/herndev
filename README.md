@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)
- - [Mr Bean NFTs launched at the same time as the crypto crash: coincidence?](https://www.pcgamer.com/mr-bean-nfts-launched-at-the-same-time-as-the-crypto-crash-coincidence)
- - [Final Fantasy 14 developers are cracking down on illicit mods](https://www.polygon.com/23068526/square-enix-final-fantasy-xiv-mod-ban-jail)<!-- GAME:END -->
+ - [Nintendo Still Silent On Workplace Allegations Despite Acknowledging Them Internally](https://kotaku.com/nintendo-splatoon-3-mario-strikers-working-conditions-u-1848918777)
+ - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)
+ - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
