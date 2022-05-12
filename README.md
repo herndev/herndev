@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: 16 new VC funds where at least 60% of decision-makers are women have raised $4.5B this year; women-led funds raised $3.7B in 2021 and $1.8B in 2020 &lpar;Mahira Dayal/The Information&rpar;](http://www.techmeme.com/220512/p40#a220512p40)
- - [SEC filing: FTX CEO Sam Bankman-Fried bought a 7.6% stake, worth $648M, in Robinhood, calling it &quot;an attractive investment&quot;; stock jumps 20%+ after hours &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/220512/p39#a220512p39)
- - [Apple circulating anti-union talking points to retail store managers](https://appleinsider.com/articles/22/05/12/apple-circulating-anti-union-talking-points-to-retail-store-managers?utm_medium=rss)<!-- TECH:END -->
+ - [Apple TV Plus’ The Essex Serpent is a slow, tense drama with lots of great sweaters](https://www.theverge.com/23067235/the-essex-serpent-review-apple-tv-plus)
+ - [Jason Calacanis says in an email that he&#39;s &quot;collecting interest to invest in Twitter&quot; as part of Elon Musk&#39;s bid; the minimum to participate is $250K &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220512/p41#a220512p41)
+ - [PitchBook: 16 new VC funds with 60%+ female decision makers have raised $4.5B from January to April 2022; women-led funds raised $3.7B in 2021 and $1.8B in 2020 &lpar;Mahira Dayal/The Information&rpar;](http://www.techmeme.com/220512/p40#a220512p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
