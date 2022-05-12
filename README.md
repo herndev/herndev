@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On tinder](http://9gag.com/gag/aQXyWK8)
- - ⏩ [Where&#39;s Anonymous when you really need them?](http://9gag.com/gag/a41wX7y)
- - 👉 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)<!-- MEMES:END -->
+ - 💣 [Low shutter speed and small aperture =](http://9gag.com/gag/ajgRzA8)
+ - ⏩ [German bedtime stories are the best!](http://9gag.com/gag/avA9MqE)
+ - 👉 [Untill Next time Boys](http://9gag.com/gag/aNPjNev)<!-- MEMES:END -->
 
 ---
 
