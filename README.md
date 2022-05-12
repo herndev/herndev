@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku bundles its Pro voice remote and Ultra streaming box without raising the price](https://www.theverge.com/2022/5/12/23069067/roku-ultra-streaming-box-voice-remote-pro-bundle)
- - [The Pixel 6A loses the A-series’ best feature](https://www.theverge.com/2022/5/12/23067680/google-pixel-6a-phone-camera-tensor)
- - [Alan Wake Remastered is coming to Nintendo Switch this fall](https://www.theverge.com/2022/5/12/23069044/alan-wake-remastered-nintendo-switch-tv-show-amc-2)<!-- TECH:END -->
+ - [Hollywood insiders explain celebrities&#39; dwindling interest in Twitter, seen as a high-risk, low-reward platform, and why Musk&#39;s ownership might make it worse &lpar;Washington Post&rpar;](http://www.techmeme.com/220512/p36#a220512p36)
+ - [Honor Magic 4 Pro review: Obsoletely fabulous](https://www.androidauthority.com/honor-magic-4-pro-review-specs-price-camera-3160230/)
+ - [Honor Magic 4 Pro launches in UK with a Galaxy S22 Plus price](https://www.androidauthority.com/honor-magic-4-pro-launch-3164365/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
