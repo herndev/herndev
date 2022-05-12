@@ -97,8 +97,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Buy the Dip Bro](http://9gag.com/gag/a31N9EQ)
- - ⏩ [The saddest word in the whole wide world is the word almost.](http://9gag.com/gag/a0ZO23B)
- - 👉 [Japan](http://9gag.com/gag/a41weQw)<!-- MEMES:END -->
+ - ⏩ [Japan](http://9gag.com/gag/a41weQw)
+ - 👉 [Arrange marriage at its finest](http://9gag.com/gag/aYrR8B0)<!-- MEMES:END -->
 
 ---
 
