@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: May 12&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [BVNK, which offers payments and banking services for crypto-native businesses, raises a $40M Series A led by Tiger Global at a $340M post-money valuation &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220512/p5#a220512p5)
- - [Mophie introduces Apple Store exclusive USB-C GaN adapters](https://appleinsider.com/articles/22/05/11/mophie-introduces-apple-store-exclusive-usb-c-gan-adapters?utm_medium=rss)<!-- TECH:END -->
+ - [SoftBank reports a $26.2B full year loss for its Vision Fund unit, leading the group to a $13.15B annual net loss, as stocks decline and inflation rises &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220512/p7#a220512p7)
+ - [Tether, the largest stablecoin, briefly drops to a 24-hour low of $0.96; Finance USD and USDC are trading at $1.08 and $1.09, respectively &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220512/p6#a220512p6)
+ - [Galaxy Z Flip 4 leak shows a very familiar looking foldable](https://www.theverge.com/2022/5/12/23068245/galaxy-z-flip-4-leaked-renders-release-date-foldable-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
