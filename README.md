@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The state of Valorant in 2022: an unstoppable machine](https://www.pcgamer.com/the-state-of-valorant-in-2022)
- - [Dracula Daily is Tumblr’s hottest new book club](https://www.polygon.com/23063882/dracula-daily-tumblr-memes)
- - [Surreal deep-sea adventure Silt dives onto PS5 &amp; PS4 on June 1](https://blog.playstation.com/2022/05/12/surreal-deep-sea-adventure-silt-dives-onto-ps5-ps4-on-june-1/)<!-- GAME:END -->
+ - [Painting miniatures? You’re probably overthinking it](https://www.polygon.com/23067627/slapchop-method-miniature-painting-contrast-speedpaint)
+ - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
+ - [Epic is going to release the Unreal Editor for Fortnite in an attempt to out-Roblox Roblox](https://www.pcgamer.com/epic-is-going-to-release-the-unreal-editor-for-fortnite-in-an-attempt-to-out-roblox-roblox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
