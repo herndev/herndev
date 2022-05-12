@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women. Vs Men.](http://9gag.com/gag/aWgRrv4)
- - ⏩ [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
- - 👉 [Hmm...ok!!](http://9gag.com/gag/a91DozZ)<!-- MEMES:END -->
+ - 💣 [Minutes away. Finland application for A Nato membership, followed by Sweden on Sunday \ud83c\uddf8\ud83c\uddea\ud83c\uddeb\ud83c\uddee](http://9gag.com/gag/amgR3Bj)
+ - ⏩ [Hmm...ok!!](http://9gag.com/gag/a91DozZ)
+ - 👉 [Thorilet](http://9gag.com/gag/aGz7m7n)<!-- MEMES:END -->
 
 ---
 
