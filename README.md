@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Kill is the gay vampire-hunter romance of our dreams](https://www.polygon.com/23069045/first-kill-netflix-trailer-release-date)
- - [Use nukes and airstrikes to protect your keyboard in Keymasher Ultimate](https://www.pcgamer.com/use-nukes-and-airstrikes-to-protect-your-keyboard-in-keymasher-ultimate)
- - [New Mario Strikers: Battle League trailer shows off the game’s multiplayer features](https://www.polygon.com/23068962/mario-strikers-battle-league-multiplayer-trailer)<!-- GAME:END -->
+ - [EA combines two studios to make new Need for Speed games](https://www.polygon.com/23069098/new-need-for-speed-games-criterion-motorstorm-dirt-5)
+ - [Looks Like Alan Wake 2 Concept Art Is All We’re Getting For A While](https://kotaku.com/alan-wake-2-remedy-entertainment-control-sam-lake-demo-1848918165)
+ - [Toxic fans have made Johnny Depp and Amber Heard’s trial inescapable](https://www.polygon.com/23068724/johnny-depp-amber-heard-trial-twitch-youtube-tiktok)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
