@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield, Bethesda&#39;s Next Big RPG, Delayed To 2023](https://kotaku.com/starfield-bethesda-rpg-redfall-arkane-austin-delayed-20-1848915397)
- - [Bethesda delays Starfield and Redfall to 2023](https://www.polygon.com/23068389/starfield-redfall-release-date-delay-bethesda-2023)
- - [The unthinkable has happened: Nvidia has finally embraced open-source GPU drivers](https://www.pcgamer.com/the-unthinkable-has-happened-nvidia-has-finally-embraced-open-source-gpu-drivers)<!-- GAME:END -->
+ - [The state of Valorant in 2022: an unstoppable machine](https://www.pcgamer.com/the-state-of-valorant-in-2022)
+ - [Dracula Daily is Tumblr’s hottest new book club](https://www.polygon.com/23063882/dracula-daily-tumblr-memes)
+ - [Surreal deep-sea adventure Silt dives onto PS5 &amp; PS4 on June 1](https://blog.playstation.com/2022/05/12/surreal-deep-sea-adventure-silt-dives-onto-ps5-ps4-on-june-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
