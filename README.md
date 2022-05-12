@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Streamer Nearly Burns Down Kitchen](https://kotaku.com/twitch-kjanecaron-stream-livestream-fire-burn-down-live-1848913960)
- - [Ubisoft CEO on buyout rumors: &quot;We have everything we need to remain independent&quot;](https://www.pcgamer.com/ubisoft-ceo-on-buyout-rumors-we-have-everything-we-need-to-remain-independent)
- - [RIP iPod, Home Of The Mobile Gaming Renaissance &lpar;2001–2022&rpar;](https://kotaku.com/apple-ipod-touch-discontinued-fruit-ninja-doodle-jump-b-1848913434)<!-- GAME:END -->
+ - [John Romero will publish a memoir next year](https://www.pcgamer.com/john-romero-will-publish-a-memoir-next-year)
+ - [New 40K Game Is XCOM With Space Marines, And It&#39;s Great](https://kotaku.com/warhammer-40000-40k-chaos-gate-daemonhunters-impression-1848903515)
+ - [Trek to Yomi review](https://www.pcgamer.com/trek-to-yomi-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
