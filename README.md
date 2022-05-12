@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake Remastered is coming to Switch, and Remedy shows new Alan Wake 2 concept art](https://www.polygon.com/23068852/alan-wake-remastered-nintendo-switch-announcement)
- - [This 29-year-old pro football manager trained on Football Manager](https://www.pcgamer.com/this-29-year-old-pro-football-manager-trained-on-football-manager)
- - [This Destiny raid boss body pillow is here to give you comfort in the Darkness](https://www.pcgamer.com/rhulk-body-pillow)<!-- GAME:END -->
+ - [First Kill is the gay vampire-hunter romance of our dreams](https://www.polygon.com/23069045/first-kill-netflix-trailer-release-date)
+ - [Use nukes and airstrikes to protect your keyboard in Keymasher Ultimate](https://www.pcgamer.com/use-nukes-and-airstrikes-to-protect-your-keyboard-in-keymasher-ultimate)
+ - [New Mario Strikers: Battle League trailer shows off the game’s multiplayer features](https://www.polygon.com/23068962/mario-strikers-battle-league-multiplayer-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
