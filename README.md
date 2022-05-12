@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Still Silent On Workplace Allegations Despite Acknowledging Them Internally](https://kotaku.com/nintendo-splatoon-3-mario-strikers-working-conditions-u-1848918777)
- - [The best audiophile headphones for gaming](https://www.pcgamer.com/best-headphones-for-gaming)
- - [Alan Wake Is Coming To Switch And Also TV Via AMC Show](https://kotaku.com/alan-wake-remastered-switch-release-date-fall-tv-show-a-1848918535)<!-- GAME:END -->
+ - [PlayStation Boss Asks Staff To Respect All Abortion Opinions In Email About Cats](https://kotaku.com/playstation-boss-jim-ryan-ceo-abortion-pro-life-memo-le-1848919014)
+ - [Eric Barone says he &#39;can&#39;t believe&#39; Stardew Valley has sold 20 million copies](https://www.pcgamer.com/eric-barone-says-he-cant-believe-stardew-valley-has-sold-20-million-copies)
+ - [El Salvador&#39;s bitcoin experiment is looking like a disaster](https://www.pcgamer.com/el-salvadors-bitcoin-experiment-is-looking-like-a-disaster)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
