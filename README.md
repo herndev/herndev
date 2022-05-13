@@ -19,7 +19,7 @@
 
 
 ```
-#DEVVELOPMENT #DESIGN
+#DEVELOPMENT #DESIGN
 > Flutter
 > Laravel
 > Wordpress
