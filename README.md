@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Terraform Labs halts Terra block production for the second time in 24 hours &quot;to come up with a plan to reconstitute it&quot;, after UST and LUNA collapsed &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/220513/p4#a220513p4)
- - [Elon Musk says his Twitter deal is temporarily on hold &quot;pending details supporting calculation that spam/fake accounts&quot; represent &lt;5% of users; TWTR drops 17%+ &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220513/p3#a220513p3)
- - [Best Adjustable Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arm reports 2021 revenue rose 35% YoY to $2.7B, driven by licensing, up 61% YoY to $1.13B, and royalties, up 20% YoY to $1.54B; 29.2B ARM chips shipped in 2021 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220513/p6#a220513p6)
+ - [2 Visions Clash Over How to Fight Online Child Abuse in Europe](https://www.wired.com/story/eu-child-abuse-law)
+ - [A Guide to Abortion Resources in a Post-Roe America](https://www.wired.com/story/guide-abortion-resources-post-roe-america)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
