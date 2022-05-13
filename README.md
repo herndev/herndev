@@ -64,7 +64,7 @@ In Mobile App Development I usually work with Flutter framework.
 </details> -->
 
 <details>
-  <summary style="font-size: 16px"> 💻 Tech Tools & Workspace</summary>
+  <summary style="font-size: 16px"> ℹ️ Tech Tools & Workspace</summary>
 
 ---
 
