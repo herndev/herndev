@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Elden Ring’s skeletons have such good bones](https://www.polygon.com/videos/2022/5/13/23066876/elden-ring-skeletons-history-video)
- - [Everything we know about World of Warcraft: Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-of-the-lich-king-wotlk-classic-release-date)
- - [Next Week on Xbox: May 16 to 20](https://news.xbox.com/en-us/2022/05/13/next-week-on-xbox-may-16-to-20/)<!-- GAME:END -->
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
+ - [Critical Role and Dimension 20 are crossing the streams for a new actual play series](https://www.polygon.com/23070658/critical-role-exandria-unlimited-dimension-20-crossover-brennan-lee-mulligan-aabria-iyengar)
+ - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
