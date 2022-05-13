@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Talk about a bottomless pit](http://9gag.com/gag/aVxBj7w)
- - ⏩ [Travel safe](http://9gag.com/gag/a618r3R)
- - 👉 [Just a reminder - southpark is free to watch on official website - they dont block ablock users. these dudes are awsome.](http://9gag.com/gag/aggKMeq)<!-- MEMES:END -->
+ - 💣 [FU Jeff](http://9gag.com/gag/azeQ7zZ)
+ - ⏩ [Talk about a bottomless pit](http://9gag.com/gag/aVxBj7w)
+ - 👉 [Assassin&#39;s creed irl](http://9gag.com/gag/a51Dp6y)<!-- MEMES:END -->
 
 ---
 
