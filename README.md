@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My time has come](http://9gag.com/gag/aKmp4q3)
- - ⏩ [Are you ready for WW III?](http://9gag.com/gag/aDDMA4Z)
- - 👉 [Travel safe](http://9gag.com/gag/a618r3R)<!-- MEMES:END -->
+ - 💣 [Let&#39;s just be honest here](http://9gag.com/gag/a81zWjV)
+ - ⏩ [The sun&#39;s rays can be bad but this time it&#39;s good~](http://9gag.com/gag/aVxBzN8)
+ - 👉 [Just became a Canadian Permanent Resident !](http://9gag.com/gag/aKmp4Rj)<!-- MEMES:END -->
 
 ---
 
