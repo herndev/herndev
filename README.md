@@ -47,7 +47,7 @@
 <br />
  
  
-<details>
+<!-- <details>
   <summary style="font-size: 16px"> ℹ️ About Me</summary>
 
 ---
@@ -61,7 +61,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-</details>
+</details> -->
 
 <details>
   <summary style="font-size: 16px"> 💻 Tech Tools & Workspace</summary>
