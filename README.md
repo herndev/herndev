@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Brand New Day](http://9gag.com/gag/aegWNe5)
- - ⏩ [Plus size MMA](http://9gag.com/gag/aWg9BrA)
- - 👉 [Robbing someone with a car.. what could go wrong?](http://9gag.com/gag/ay9P7pV)<!-- MEMES:END -->
+ - ⏩ [Come at me bro](http://9gag.com/gag/azeQbdZ)
+ - 👉 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)<!-- MEMES:END -->
 
 ---
 
