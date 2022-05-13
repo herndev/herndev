@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cozy Grove DLC’s BTS references are smooth like butter&lpar;flies&rpar;](https://www.polygon.com/23069117/cozy-grove-dlc-bts-butterflies)
- - [Who will step up to fill the Starfield-sized black hole at the end of this year?](https://www.pcgamer.com/who-will-step-up-to-fill-the-starfield-sized-black-hole-at-the-end-of-this-year)
- - [Skyrocketing Retro Game Price &#39;Manipulation&#39; Controversy Goes To Court](https://kotaku.com/wata-games-lawsuit-classic-nintendo-retro-collecting-sc-1848923457)<!-- GAME:END -->
+ - [16 years before the Steam Deck, Sony&#39;s Vaio UX was the coolest portable PC ever](https://www.pcgamer.com/16-years-before-the-steam-deck-sonys-vaio-ux-was-the-coolest-portable-pc-ever)
+ - [Monstrous takes straightforward creature-feature horror in a bonkers direction](https://www.polygon.com/23068895/monstrous-review-christina-ricci-horror)
+ - [The Super Mario Daisy Fandom Is Ready To Riot Against Nintendo](https://kotaku.com/super-mario-strikers-nintendo-switch-daisy-exclusion-wt-1848924025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
