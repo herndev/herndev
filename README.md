@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to embed a YouTube video in PowerPoint](https://www.androidauthority.com/embed-youtube-powerpoint-3164996/)
- - [SIDS study shows the risks of science hype](https://www.theverge.com/2022/5/13/23071364/sids-research-hype-science-studies)
- - [The Linux Foundation and OpenSSF plan to spend $150M+ to boost open source and supply chain security; Amazon, Google, Intel, Microsoft, and others pledged $30M+ &lpar;David Jones/Cybersecurity Dive&rpar;](http://www.techmeme.com/220513/p16#a220513p16)<!-- TECH:END -->
+ - [Over $1.2B of Luna Foundation Guard&#39;s bitcoin reserves remains unaccounted for; LFG accumulated $2B+ in bitcoin reserves and loaned $750M to market makers &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220513/p18#a220513p18)
+ - [How to record a Zoom meeting](https://www.androidauthority.com/record-zoom-meeting-3165024/)
+ - [PUBG: Battlegrounds is earning a lot more money after going free-to-play](https://www.theverge.com/2022/5/13/23070946/pubg-battlegrounds-free-to-play-money-krafton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
