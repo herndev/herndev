@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brand New Day](http://9gag.com/gag/aegWNe5)
- - ⏩ [Come at me bro](http://9gag.com/gag/azeQbdZ)
- - 👉 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)<!-- MEMES:END -->
+ - 💣 [Boating is a piece of cake](http://9gag.com/gag/arnzpv7)
+ - ⏩ [Space age design](http://9gag.com/gag/aQXVqq2)
+ - 👉 [Hol up](http://9gag.com/gag/a41V4gw)<!-- MEMES:END -->
 
 ---
 
