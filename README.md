@@ -96,9 +96,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Been 6 times already to Finland. Probably I&#39;ll go 2 more tikes this year.](http://9gag.com/gag/aPZn6DP)
- - ⏩ [Moi, Suomi! Hello Finland!](http://9gag.com/gag/aGz7WO5)
- - 👉 [Alpha male Pro Max](http://9gag.com/gag/aze400p)<!-- MEMES:END -->
+ - 💣 [Talk about a bottomless pit](http://9gag.com/gag/aVxBj7w)
+ - ⏩ [Travel safe](http://9gag.com/gag/a618r3R)
+ - 👉 [Just a reminder - southpark is free to watch on official website - they dont block ablock users. these dudes are awsome.](http://9gag.com/gag/aggKMeq)<!-- MEMES:END -->
 
 ---
 
