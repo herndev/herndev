@@ -28,10 +28,7 @@
 > Laravel
 > Wordpress
 > React JS
-
 ```
-
-<br />
 
 ### ✉️ Contact Me
 
