@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jimmy Neutron’s dad tries really hard to be cool in new Nickelodeon All-Star Brawl trailer](https://www.polygon.com/23071106/nickelodeon-all-star-brawl-jenny-xj-9-rocko-hugh-neutron)
- - [Rockstar is remaking Max Payne 3&#39;s soundtrack](https://www.pcgamer.com/rockstar-is-remaking-max-payne-3s-soundtrack)
- - [Magic: The Gathering’s first Warhammer 40,000 cards are sufficiently grim, dark](https://www.polygon.com/23071080/mtg-40k-preview-cards-deck-lists-abaddon-release-date-price)<!-- GAME:END -->
+ - [Cozy Grove DLC’s BTS references are smooth like butter&lpar;flies&rpar;](https://www.polygon.com/23069117/cozy-grove-dlc-bts-butterflies)
+ - [Who will step up to fill the Starfield-sized black hole at the end of this year?](https://www.pcgamer.com/who-will-step-up-to-fill-the-starfield-sized-black-hole-at-the-end-of-this-year)
+ - [Skyrocketing Retro Game Price &#39;Manipulation&#39; Controversy Goes To Court](https://kotaku.com/wata-games-lawsuit-classic-nintendo-retro-collecting-sc-1848923457)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
