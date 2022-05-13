@@ -6,7 +6,9 @@
 
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="herndev" /> <a href="https://hernie-jabien.com"><img src="https://img.shields.io/badge/Visit-My%20Portfolio-00aa71?style=for-the-badge" alt="portfolio /></a> </p>
+
 
 <!-- <br />
 
