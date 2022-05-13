@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As crypto becomes increasingly integrated into the real economy, massive downturns could begin to impact regular people, especially if stablecoins collapse &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220513/p9#a220513p9)
- - [Samsung prepping huge price hikes on components, which will trickle down to you](https://www.androidauthority.com/samsung-chip-shortage-pricing-3164845/)
- - [With its Pixel Watch and tablet, Google is getting serious about its own ecosystem](https://www.theverge.com/2022/5/13/23070484/google-ecosystem-pixel-watch-tablet-hardware-software)<!-- TECH:END -->
+ - [Sources: Apple is testing iPhones with a USB-C port, and adapters for Lightning accessories, for 2023 at the earliest, to help it conform with looming EU rules &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220513/p11#a220513p11)
+ - [The HP Envy x360 2-in-1 is on sale for its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2022/5/13/23068889/hp-envy-x360-laptop-samsung-galaxy-z-flip-3-phone-lenovo-chromebook-duet-apple-ipad-air-deal-sale)
+ - [Almost 900,000 abandoned Android apps could get removed from the Play Store soon](https://www.androidauthority.com/google-play-store-purging-apps-3164907/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
