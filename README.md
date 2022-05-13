@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm reports 2021 revenue rose 35% YoY to $2.7B, driven by licensing, up 61% YoY to $1.13B, and royalties, up 20% YoY to $1.54B; 29.2B ARM chips shipped in 2021 &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/220513/p6#a220513p6)
- - [2 Visions Clash Over How to Fight Online Child Abuse in Europe](https://www.wired.com/story/eu-child-abuse-law)
- - [A Guide to Abortion Resources in a Post-Roe America](https://www.wired.com/story/guide-abortion-resources-post-roe-america)<!-- TECH:END -->
+ - [Apple&#39;s Studio Display webcam fix &amp; firmware update will be offered separately](https://appleinsider.com/articles/22/05/13/apples-studio-display-webcam-fix-firmware-update-will-be-offered-separately?utm_medium=rss)
+ - [How to cancel your Apple Music subscription](https://www.androidauthority.com/cancel-apple-music-3164767/)
+ - [iPod Creator Tony Fadell Isn&#39;t Buying the Metaverse Hype     - CNET](https://www.cnet.com/tech/mobile/ipod-creator-tony-fadell-isnt-buying-the-metaverse-hype/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
