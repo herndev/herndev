@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Pausing $44B Twitter Deal: Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/social-media/elon-musk-pausing-44b-twitter-deal-heres-what-you-need-to-know/#ftag=CAD590a51e)
- - [Disney Plus: Everything You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/disney-plus-streaming-service-everything-to-know-all-prices-cancel/#ftag=CAD590a51e)
- - [&#39;Doctor Strange&#39; Isn&#39;t Streaming on Disney Plus Yet, Sorry     - CNET](https://www.cnet.com/tech/services-and-software/doctor-strange-isnt-streaming-on-disney-plus-yet-sorry/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Anonymous bulletin board app Yik Yak is revealing its users’ exact locations](https://www.theverge.com/2022/5/13/23070696/yik-yak-anonymous-app-precise-locations-revealed)
+ - [After SoftBank&#39;s subdued earnings call, some investors worry whether Masayoshi Son can handle the current market downturn &lpar;Financial Times&rpar;](http://www.techmeme.com/220513/p14#a220513p14)
+ - [A new bundle of tabletop RPGs is raising money for reproductive rights](https://www.theverge.com/2022/5/13/23071134/ttrpgs-reproductive-rights-itchio-bundle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
