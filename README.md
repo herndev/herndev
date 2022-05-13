@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Lightning could die next year &lpar;Update: Apple testing USB-C iPhones&rpar;](https://www.androidauthority.com/iphone-usb-c-lightning-3163684/)
- - [Apple&#39;s CEO Tim Cook Highlights Accessibility at Gallaudet University Commencement     - CNET](https://www.cnet.com/tech/apples-ceo-tim-cook-highlights-accessibility-at-gallaudet-university-commencement/#ftag=CAD590a51e)
- - [Best iPhone 13 Fast Chargers at the Lowest Prices We Can Find     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-usb-c-fast-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to embed a YouTube video in PowerPoint](https://www.androidauthority.com/embed-youtube-powerpoint-3164996/)
+ - [SIDS study shows the risks of science hype](https://www.theverge.com/2022/5/13/23071364/sids-research-hype-science-studies)
+ - [The Linux Foundation and OpenSSF plan to spend $150M+ to boost open source and supply chain security; Amazon, Google, Intel, Microsoft, and others pledged $30M+ &lpar;David Jones/Cybersecurity Dive&rpar;](http://www.techmeme.com/220513/p16#a220513p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
