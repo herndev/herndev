@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Xur location and items, May 13-17](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/13/23071194/destiny-2-xur-location-items-may-13-17)
- - [Everything is anime now, even NFL promo videos](https://www.polygon.com/23071055/chargers-anime-nfl-schedule-release-video-attack-on-titan-one-piece)
- - [A female video game pioneer was lost to history — until now](https://www.polygon.com/23070918/van-tran-mai-video-game-history-atari-2600-wabbit)<!-- GAME:END -->
+ - [Jimmy Neutron’s dad tries really hard to be cool in new Nickelodeon All-Star Brawl trailer](https://www.polygon.com/23071106/nickelodeon-all-star-brawl-jenny-xj-9-rocko-hugh-neutron)
+ - [Rockstar is remaking Max Payne 3&#39;s soundtrack](https://www.pcgamer.com/rockstar-is-remaking-max-payne-3s-soundtrack)
+ - [Magic: The Gathering’s first Warhammer 40,000 cards are sufficiently grim, dark](https://www.polygon.com/23071080/mtg-40k-preview-cards-deck-lists-abaddon-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
