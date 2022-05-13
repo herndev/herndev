@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change your Zoom profile picture](https://www.androidauthority.com/change-zoom-profile-picture-3164953/)
  - [Anonymous bulletin board app Yik Yak is revealing its users’ exact locations](https://www.theverge.com/2022/5/13/23070696/yik-yak-anonymous-app-precise-locations-revealed)
- - [After SoftBank&#39;s subdued earnings call, some investors worry whether Masayoshi Son can handle the current market downturn &lpar;Financial Times&rpar;](http://www.techmeme.com/220513/p14#a220513p14)
- - [A new bundle of tabletop RPGs is raising money for reproductive rights](https://www.theverge.com/2022/5/13/23071134/ttrpgs-reproductive-rights-itchio-bundle)<!-- TECH:END -->
+ - [After SoftBank&#39;s subdued earnings call, some investors worry whether Masayoshi Son can handle the current market downturn &lpar;Financial Times&rpar;](http://www.techmeme.com/220513/p14#a220513p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
