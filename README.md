@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Roe v. Wade is overturned, the enforcement of US laws should be seen as a strong argument for strengthening encryption, not weakening it &lpar;Riana Pfefferkorn/Stanford CIS Blog&rpar;](http://www.techmeme.com/220513/p1#a220513p1)
- - [How to insert a microSD card into a Nintendo Switch](https://www.androidauthority.com/microsd-card-nintendo-switch-3164008/)
- - [Apple announces &#39;Carpool Karaoke: The Series&#39; season five premiere date](https://appleinsider.com/articles/22/05/13/apple-announces-carpool-karaoke-the-series-season-five-premiere-date?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 4 gains May 2022 update, but where is Assistant?](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [The Best Horror Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-to-watch-on-prime-video-now/#ftag=CAD590a51e)
+ - [If Roe v. Wade is overturned, the enforcement of US laws should be seen as a strong argument for strengthening encryption, not weakening it &lpar;Riana Pfefferkorn/Stanford CIS Blog&rpar;](http://www.techmeme.com/220513/p1#a220513p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
