@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Studio Display webcam fix &amp; firmware update will be offered separately](https://appleinsider.com/articles/22/05/13/apples-studio-display-webcam-fix-firmware-update-will-be-offered-separately?utm_medium=rss)
- - [How to cancel your Apple Music subscription](https://www.androidauthority.com/cancel-apple-music-3164767/)
- - [iPod Creator Tony Fadell Isn&#39;t Buying the Metaverse Hype     - CNET](https://www.cnet.com/tech/mobile/ipod-creator-tony-fadell-isnt-buying-the-metaverse-hype/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 15% or More on Your Next Getaway With Deals Starting at Just $45 Today     - CNET](https://www.cnet.com/culture/save-15-or-more-on-your-next-getaway-with-deals-starting-at-just-45-today/#ftag=CAD590a51e)
+ - [AirPods Pro 2 rumors, USB-C on iPhone 15, goodbye to iPod &amp; more on the AppleInsider podcast](https://appleinsider.com/articles/22/05/13/airpods-pro-2-rumors-usb-c-on-iphone-15-goodbye-to-ipod-more-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Some local officials have forced schools and libraries to shut down or restrict e-reader apps like Epic and OverDrive after objections by conservative parents &lpar;David Ingram/NBC News&rpar;](http://www.techmeme.com/220513/p8#a220513p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
