@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bag this all-AMD gaming PC deal with RX 6600XT and six-core Ryzen for just $1,100](https://www.pcgamer.com/bag-this-all-amd-gaming-pc-deal-with-rx-6600xt-and-six-core-ryzen-for-just-dollar1100)
- - [Silent Hill leak seems all-but-confirmed by Konami DMCA strike](https://www.pcgamer.com/silent-hill-leak-seems-all-but-confirmed-by-konami-dmca-strike)
- - [Elon Musk puts Twitter deal &#39;temporarily on hold&#39; because of bots](https://www.pcgamer.com/elon-musk-puts-twitter-deal-temporarily-on-hold-because-of-bots)<!-- GAME:END -->
+ - [Crypto Pokémon Clone’s Currency Plunges To Less Than A Penny](https://kotaku.com/axie-infinity-crypto-crash-smooth-love-potion-token-val-1848920116)
+ - [Deathloop now has a photo mode and better accessibility options](https://www.pcgamer.com/deathloop-now-has-a-photo-mode-and-better-accessibility-options)
+ - [Bag this all-AMD gaming PC deal with RX 6600XT and six-core Ryzen for just $1,100](https://www.pcgamer.com/bag-this-all-amd-gaming-pc-deal-with-rx-6600xt-and-six-core-ryzen-for-just-dollar1100)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
