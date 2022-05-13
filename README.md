@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)
- - [So am I the only one surprised Starfield is delayed?](https://www.pcgamer.com/so-am-i-the-only-one-surprised-starfield-is-delayed)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Six Months Later, Grand Theft Auto: The Trilogy Still Needs Some Work](https://kotaku.com/grand-theft-auto-the-trilogy-definitive-edition-patches-1848920282)
+ - [I cannot stress enough that Overwatch 2 isn&#39;t &#39;Overwatch 2&#39;](https://www.pcgamer.com/i-cannot-stress-enough-that-overwatch-2-isnt-overwatch-2)
+ - [Skyrim Player Recreates Themselves Perfectly In-Game](https://kotaku.com/skyrim-elder-scrolls-face-character-creation-mods-pc-be-1848919993)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
