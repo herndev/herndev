@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter CEO pushes out top execs, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
- - [Broadway theater installs IR camera system to catch audience members trying to record nude scenes](https://www.theverge.com/2022/5/12/23069597/take-me-out-ir-camera-detection-jesse-l-williams)
- - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters     - CNET](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple announces &#39;Carpool Karaoke: The Series&#39; season five premiere date](https://appleinsider.com/articles/22/05/13/apple-announces-carpool-karaoke-the-series-season-five-premiere-date?utm_medium=rss)
+ - [Original iPhone was to lack SIM card slot, says Tony Fadell](https://appleinsider.com/articles/22/05/13/original-iphone-was-to-lack-sim-card-slot-says-tony-fadell?utm_medium=rss)
+ - [How to charge Nintendo Switch controllers](https://www.androidauthority.com/charge-nintendo-switch-controllers-3164009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
