@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well that explains a lot](http://9gag.com/gag/amgn9v9)
- - ⏩ [Go Sports](http://9gag.com/gag/aVxBWVn)
- - 👉 [Releasing the Pressure](http://9gag.com/gag/a21GmYw)<!-- MEMES:END -->
+ - 💣 [Go Sports](http://9gag.com/gag/aVxBWVn)
+ - ⏩ [Suggestions?](http://9gag.com/gag/apg80ZM)
+ - 👉 [Best butcher ownerleaving their leftovers outside so stray dogs can get something to eat](http://9gag.com/gag/aggjNxK)<!-- MEMES:END -->
 
 ---
 
