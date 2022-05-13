@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US states and local governments are backing off banning facial recognition, amid rising crime and increased lobbying from facial recognition developers &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220513/p2#a220513p2)
- - [Apple and Google app stores include more than 1.5 million &#39;abandoned apps&#39;](https://appleinsider.com/articles/22/05/12/apple-and-google-app-stores-include-more-than-15-million-abandoned-apps?utm_medium=rss)
- - [The best Google Pixel 6a cases you can buy](https://www.androidauthority.com/best-google-pixel-6a-cases-3164211/)<!-- TECH:END -->
+ - [Terraform Labs halts Terra block production for the second time in 24 hours &quot;to come up with a plan to reconstitute it&quot;, after UST and LUNA collapsed &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/220513/p4#a220513p4)
+ - [Elon Musk says his Twitter deal is temporarily on hold &quot;pending details supporting calculation that spam/fake accounts&quot; represent &lt;5% of users; TWTR drops 17%+ &lpar;Nivedita Balu/Reuters&rpar;](http://www.techmeme.com/220513/p3#a220513p3)
+ - [Best Adjustable Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-adjustable-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
