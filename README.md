@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s bringing its friends to Computex but Jen-Hsun&#39;s nowhere to be seen](https://www.pcgamer.com/amds-bringing-its-friends-to-computex-but-jen-hsuns-nowhere-to-be-seen)
- - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
- - [Overwatch 2 beta will make a &#39;secret&#39; Mercy ability easier to trigger](https://www.pcgamer.com/overwatch-2-beta-will-make-a-secret-mercy-ability-easier-to-trigger)<!-- GAME:END -->
+ - [Bag this all-AMD gaming PC deal with RX 6600XT and six-core Ryzen for just $1,100](https://www.pcgamer.com/bag-this-all-amd-gaming-pc-deal-with-rx-6600xt-and-six-core-ryzen-for-just-dollar1100)
+ - [Silent Hill leak seems all-but-confirmed by Konami DMCA strike](https://www.pcgamer.com/silent-hill-leak-seems-all-but-confirmed-by-konami-dmca-strike)
+ - [Elon Musk puts Twitter deal &#39;temporarily on hold&#39; because of bots](https://www.pcgamer.com/elon-musk-puts-twitter-deal-temporarily-on-hold-because-of-bots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
