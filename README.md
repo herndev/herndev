@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Phishing attack pop-up targets MetaMask users visiting popular crypto sites](https://www.theverge.com/2022/5/13/23071786/etherscan-coingecko-crypto-phishing-ad-popup-coinzilla-metamask)
  - [Over $1.2B of Luna Foundation Guard&#39;s bitcoin reserves remains unaccounted for; LFG accumulated $2B+ in bitcoin reserves and loaned $750M to market makers &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220513/p18#a220513p18)
- - [How to record a Zoom meeting](https://www.androidauthority.com/record-zoom-meeting-3165024/)
- - [PUBG: Battlegrounds is earning a lot more money after going free-to-play](https://www.theverge.com/2022/5/13/23070946/pubg-battlegrounds-free-to-play-money-krafton)<!-- TECH:END -->
+ - [Watch This NFL Team&#39;s Impressive Anime-Inspired Schedule Release Video     - CNET](https://www.cnet.com/culture/sports/watch-this-nfl-teams-impressive-anime-inspired-schedule-release-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
