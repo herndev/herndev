@@ -82,9 +82,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Magic: The Gathering&#39;s Warhammer crossover includes Blood Bowl and Age of Sigmar cards as well as 40K](https://www.pcgamer.com/magic-the-gatherings-warhammer-crossover-includes-blood-bowl-and-age-of-sigmar-cards-as-well-as-40k)
  - [Six Months Later, Grand Theft Auto: The Trilogy Still Needs Some Work](https://kotaku.com/grand-theft-auto-the-trilogy-definitive-edition-patches-1848920282)
- - [I cannot stress enough that Overwatch 2 isn&#39;t &#39;Overwatch 2&#39;](https://www.pcgamer.com/i-cannot-stress-enough-that-overwatch-2-isnt-overwatch-2)
- - [Skyrim Player Recreates Themselves Perfectly In-Game](https://kotaku.com/skyrim-elder-scrolls-face-character-creation-mods-pc-be-1848919993)<!-- GAME:END -->
+ - [I cannot stress enough that Overwatch 2 isn&#39;t &#39;Overwatch 2&#39;](https://www.pcgamer.com/i-cannot-stress-enough-that-overwatch-2-isnt-overwatch-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
