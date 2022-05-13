@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She did him dirty](http://9gag.com/gag/a21GYPp)
- - ⏩ [Meet the tiktok general](http://9gag.com/gag/aqGA2ov)
- - 👉 [True enough](http://9gag.com/gag/a51DPVy)<!-- MEMES:END -->
+ - 💣 [Well that explains a lot](http://9gag.com/gag/amgn9v9)
+ - ⏩ [Go Sports](http://9gag.com/gag/aVxBWVn)
+ - 👉 [Releasing the Pressure](http://9gag.com/gag/a21GmYw)<!-- MEMES:END -->
 
 ---
 
