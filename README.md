@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 beta will make a &#39;secret&#39; Mercy ability easier to trigger](https://www.pcgamer.com/overwatch-2-beta-will-make-a-secret-mercy-ability-easier-to-trigger)
- - [Today&#39;s Wordle answer #328: Friday, May 13](https://www.pcgamer.com/wordle-may-13-328-tipsy-meaning-definition)
- - [Magic: The Gathering&#39;s Warhammer crossover includes Blood Bowl and Age of Sigmar cards as well as 40K](https://www.pcgamer.com/magic-the-gatherings-warhammer-crossover-includes-blood-bowl-and-age-of-sigmar-cards-as-well-as-40k)<!-- GAME:END -->
+ - [AMD&#39;s bringing its friends to Computex but Jen-Hsun&#39;s nowhere to be seen](https://www.pcgamer.com/amds-bringing-its-friends-to-computex-but-jen-hsuns-nowhere-to-be-seen)
+ - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
+ - [Overwatch 2 beta will make a &#39;secret&#39; Mercy ability easier to trigger](https://www.pcgamer.com/overwatch-2-beta-will-make-a-secret-mercy-ability-easier-to-trigger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
