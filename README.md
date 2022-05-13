@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Company creates, then deletes NFTs of retro games it didn&#39;t own the rights to](https://www.pcgamer.com/company-creates-then-deletes-nfts-of-retro-games-it-didnt-own-the-rights-to)
- - [Watching this gamer true crime show is certainly a way to spend 2 hours](https://www.pcgamer.com/watching-this-gamer-true-crime-show-is-certainly-a-way-to-spend-2-hours)
- - [Everything we know about Dune 2](https://www.polygon.com/22745107/dune-2-release-date-cast)<!-- GAME:END -->
+ - [The Northman, Uncharted, and more new movies you can watch at home this weekend](https://www.polygon.com/23063460/new-movies-watch-the-northman-uncharted-netflix-senior-year-ambulance-the-bad-guys)
+ - [13 Killer Strategies For Dead By Daylight](https://kotaku.com/dead-by-daylight-survival-horror-multiplayer-resident-e-1848924411)
+ - [Company creates, then deletes NFTs of retro games it didn&#39;t own the rights to](https://www.pcgamer.com/company-creates-then-deletes-nfts-of-retro-games-it-didnt-own-the-rights-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
