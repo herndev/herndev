@@ -1,4 +1,6 @@
-<img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" />
+<!-- <img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" /> -->
+![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
+
 
 ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
@@ -6,14 +8,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="herndev" /> </p>
 
-<br />
+<!-- <br />
 
 - 🔭 I’m currently working on some projects.
 - 🌱 I’m currently learning new programming trends.
 - 👯 I’m looking forward to collaborate with other teams.
 - ⚡ Fun fact: I'm friendly and highly approachable.
 
-<br />
+<br /> -->
+
+
+```
+#Development #Design
+
+> Flutter
+> Laravel
+> Wordpress
+> React JS
+
+```
 
 ### ✉️ Contact Me
 
@@ -184,6 +197,6 @@ Linux                    18 hrs 11 mins      ███████████�
 
 </details>
 
-![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
