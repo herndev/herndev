@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to insert a microSD card into a Nintendo Switch](https://www.androidauthority.com/microsd-card-nintendo-switch-3164008/)
  - [Apple announces &#39;Carpool Karaoke: The Series&#39; season five premiere date](https://appleinsider.com/articles/22/05/13/apple-announces-carpool-karaoke-the-series-season-five-premiere-date?utm_medium=rss)
- - [Original iPhone was to lack SIM card slot, says Tony Fadell](https://appleinsider.com/articles/22/05/13/original-iphone-was-to-lack-sim-card-slot-says-tony-fadell?utm_medium=rss)
- - [How to charge Nintendo Switch controllers](https://www.androidauthority.com/charge-nintendo-switch-controllers-3164009/)<!-- TECH:END -->
+ - [Original iPhone was to lack SIM card slot, says Tony Fadell](https://appleinsider.com/articles/22/05/13/original-iphone-was-to-lack-sim-card-slot-says-tony-fadell?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
