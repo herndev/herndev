@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering&#39;s Warhammer crossover includes Blood Bowl and Age of Sigmar cards as well as 40K](https://www.pcgamer.com/magic-the-gatherings-warhammer-crossover-includes-blood-bowl-and-age-of-sigmar-cards-as-well-as-40k)
- - [Six Months Later, Grand Theft Auto: The Trilogy Still Needs Some Work](https://kotaku.com/grand-theft-auto-the-trilogy-definitive-edition-patches-1848920282)
- - [I cannot stress enough that Overwatch 2 isn&#39;t &#39;Overwatch 2&#39;](https://www.pcgamer.com/i-cannot-stress-enough-that-overwatch-2-isnt-overwatch-2)<!-- GAME:END -->
+ - [Overwatch 2 beta will make a &#39;secret&#39; Mercy ability easier to trigger](https://www.pcgamer.com/overwatch-2-beta-will-make-a-secret-mercy-ability-easier-to-trigger)
+ - [Today&#39;s Wordle answer #328: Friday, May 13](https://www.pcgamer.com/wordle-may-13-328-tipsy-meaning-definition)
+ - [Magic: The Gathering&#39;s Warhammer crossover includes Blood Bowl and Age of Sigmar cards as well as 40K](https://www.pcgamer.com/magic-the-gatherings-warhammer-crossover-includes-blood-bowl-and-age-of-sigmar-cards-as-well-as-40k)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
