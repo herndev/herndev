@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [Critical Role and Dimension 20 are crossing the streams for a new actual play series](https://www.polygon.com/23070658/critical-role-exandria-unlimited-dimension-20-crossover-brennan-lee-mulligan-aabria-iyengar)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
+ - [Doctor Strange 2 fixes WandaVision’s biggest problem](https://www.polygon.com/23069420/wandavision-doctor-strange-in-the-multiverse-of-madness)
+ - [Life&#39;s too short to give a crap about your PC&#39;s cable management](https://www.pcgamer.com/lifes-too-short-to-give-a-crap-about-your-pcs-cable-management)
+ - [Elden Ring pulls off a rare feat — outselling Call of Duty](https://www.polygon.com/23070948/elden-ring-sales-chart-npd-call-of-duty-best-sellers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
