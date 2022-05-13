@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Northman, Uncharted, and more new movies you can watch at home this weekend](https://www.polygon.com/23063460/new-movies-watch-the-northman-uncharted-netflix-senior-year-ambulance-the-bad-guys)
- - [13 Killer Strategies For Dead By Daylight](https://kotaku.com/dead-by-daylight-survival-horror-multiplayer-resident-e-1848924411)
- - [Company creates, then deletes NFTs of retro games it didn&#39;t own the rights to](https://www.pcgamer.com/company-creates-then-deletes-nfts-of-retro-games-it-didnt-own-the-rights-to)<!-- GAME:END -->
+ - [Activision Blizzard&#39;s New Diversity Game Tool Comes Across Terribly](https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832)
+ - [Texas law allows users to sue Facebook and Twitter for &#39;censoring&#39; their views](https://www.pcgamer.com/texas-law-allows-users-to-sue-facebook-and-twitter-for-censoring-their-views)
+ - [The Northman, Uncharted, and more new movies you can watch at home this weekend](https://www.polygon.com/23063460/new-movies-watch-the-northman-uncharted-netflix-senior-year-ambulance-the-bad-guys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
