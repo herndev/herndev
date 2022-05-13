@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple is testing iPhones with a USB-C port, and adapters for Lightning accessories, for 2023 at the earliest, to help it conform with looming EU rules &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220513/p11#a220513p11)
- - [The HP Envy x360 2-in-1 is on sale for its lowest price ever at Best Buy](https://www.theverge.com/good-deals/2022/5/13/23068889/hp-envy-x360-laptop-samsung-galaxy-z-flip-3-phone-lenovo-chromebook-duet-apple-ipad-air-deal-sale)
- - [Almost 900,000 abandoned Android apps could get removed from the Play Store soon](https://www.androidauthority.com/google-play-store-purging-apps-3164907/)<!-- TECH:END -->
+ - [Elon Musk Pausing $44B Twitter Deal: Here&#39;s What You Need to Know     - CNET](https://www.cnet.com/news/social-media/elon-musk-pausing-44b-twitter-deal-heres-what-you-need-to-know/#ftag=CAD590a51e)
+ - [Disney Plus: Everything You Need to Know     - CNET](https://www.cnet.com/tech/services-and-software/disney-plus-streaming-service-everything-to-know-all-prices-cancel/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange&#39; Isn&#39;t Streaming on Disney Plus Yet, Sorry     - CNET](https://www.cnet.com/tech/services-and-software/doctor-strange-isnt-streaming-on-disney-plus-yet-sorry/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
