@@ -89,9 +89,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus’ The Essex Serpent is a slow, tense drama with lots of great sweaters](https://www.theverge.com/23067235/the-essex-serpent-review-apple-tv-plus)
- - [Jason Calacanis says in an email that he&#39;s &quot;collecting interest to invest in Twitter&quot; as part of Elon Musk&#39;s bid; the minimum to participate is $250K &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220512/p41#a220512p41)
- - [PitchBook: 16 new VC funds with 60%+ female decision makers have raised $4.5B from January to April 2022; women-led funds raised $3.7B in 2021 and $1.8B in 2020 &lpar;Mahira Dayal/The Information&rpar;](http://www.techmeme.com/220512/p40#a220512p40)<!-- TECH:END -->
+ - [Twitter CEO pushes out top execs, freezes hiring](https://www.theverge.com/2022/5/12/23068851/twitter-product-chief-kayvon-beykpour-bruce-falck-parag-agrawal)
+ - [Broadway theater installs IR camera system to catch audience members trying to record nude scenes](https://www.theverge.com/2022/5/12/23069597/take-me-out-ir-camera-detection-jesse-l-williams)
+ - [Luna Cryptocurrency Collapse: How UST Broke and Why It Matters     - CNET](https://www.cnet.com/personal-finance/crypto/luna-cryptocurrency-collapse-how-ust-broke-and-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
