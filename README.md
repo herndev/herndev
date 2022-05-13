@@ -7,8 +7,8 @@
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/><img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 
 
-[![Views](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)](#)
-[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-00aa71?style=for-the-badge" alt="portfolio)](https://hernie-jabien.com)
+[![Views](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)
+[![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-00aa71?style=for-the-badge)](https://hernie-jabien.com)
 
 
 <!-- <br />
