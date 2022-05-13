@@ -19,13 +19,11 @@
 
 
 ```
-#Development #Design
-
+#DEVVELOPMENT #DESIGN
 > Flutter
 > Laravel
 > Wordpress
 > React JS
-
 ```
 
 ### ✉️ Contact Me
