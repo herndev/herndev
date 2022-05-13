@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come at me bro](http://9gag.com/gag/azeQbdZ)
+ - 💣 [Gotta make it more fun](http://9gag.com/gag/adgb6gN)
  - ⏩ [Some of our Ministers and MP&#39;s in Georgia, I think we have different priorities on elcetions](http://9gag.com/gag/aM4y16P)
  - 👉 [He is just brilliant in that movie.](http://9gag.com/gag/abgE5pB)<!-- MEMES:END -->
 
