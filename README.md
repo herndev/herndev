@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink now available to ship immediately in 32 countries](https://www.theverge.com/2022/5/13/23070269/starlink-availability-32-countries-shipping-immediately)
- - [&#39;Senior Year&#39; Starring Rebel Wilson Is Netflix&#39;s Best Bad Movie     - CNET](https://www.cnet.com/culture/entertainment/senior-year-starring-rebel-wilson-is-netflixs-best-bad-movie/#ftag=CAD590a51e)
- - [Samsung Galaxy Watch 4 gains May 2022 update, but where is Assistant?](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)<!-- TECH:END -->
+ - [US states and local governments are backing off banning facial recognition, amid rising crime and increased lobbying from facial recognition developers &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/220513/p2#a220513p2)
+ - [Apple and Google app stores include more than 1.5 million &#39;abandoned apps&#39;](https://appleinsider.com/articles/22/05/12/apple-and-google-app-stores-include-more-than-15-million-abandoned-apps?utm_medium=rss)
+ - [The best Google Pixel 6a cases you can buy](https://www.androidauthority.com/best-google-pixel-6a-cases-3164211/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
