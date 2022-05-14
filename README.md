@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say hacked data shared by Anonymous from various Sri Lankan governmental and other websites has put regular citizens at severe risk of cybercrimes &lpar;Dimuthu Attanayake/Rest of World&rpar;](http://www.techmeme.com/220514/p6#a220514p6)
- - [The HyperX Quadcast S Is Our Go-To Streaming Mic](https://www.wired.com/review/hyperx-quadcast-s)
- - [Farming Drives Toward ‘Precision Agriculture’ Technologies](https://www.wired.com/story/farming-drives-towards-precision-agriculture-technologies)<!-- TECH:END -->
+ - [Best Cheap Video Doorbells for 2022     - CNET](https://www.cnet.com/news/best-cheap-video-doorbells/#ftag=CAD590a51e)
+ - [Peloton’s ‘Worst-Kept Secret’ Is Out &lpar;Yes, It’s a Rowing Machine&rpar;](https://www.wired.com/story/peloton-rowing-machine-revealed)
+ - [The NSA Swears It Has ‘No Backdoors’ in Next-Gen Encryption](https://www.wired.com/story/nsa-backdoor-encryption-security-roundup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
