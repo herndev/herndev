@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech groups urge Supreme Court to block Texas social media law     - CNET](https://www.cnet.com/news/social-media/tech-groups-urge-supreme-court-to-block-texas-social-media-law/#ftag=CAD590a51e)
- - [Interview with Sam Bankman-Fried on the crypto hype, blockchain&#39;s potential to build a fairer financial system, philanthropy, and more &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220514/p9#a220514p9)
- - [Moment&#39;s Father&#39;s Day Sale Offers Savings on Cases, Lenses, Bags, and More     - CNET](https://www.cnet.com/tech/computing/moments-fathers-day-sale-offers-savings-on-cases-lenses-bags-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: Apple 2022 iPhone SE vs Google Pixel 6a](https://appleinsider.com/inside/iphone-se/vs/compared-apple-2022-iphone-se-vs-google-pixel-6a?utm_medium=rss)
+ - [&#39;Doctor Strange 2&#39; Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Samsung prepares to raise chip production prices by up to 20%](https://appleinsider.com/articles/22/05/14/samsung-prepares-to-raise-chip-production-prices-by-up-to-20?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
