@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
- - ⏩ [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - 💣 [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - ⏩ [Girls: They&#39;re probably flirting with other girls. Boys:](http://9gag.com/gag/angVjYE)
  - 👉 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)<!-- MEMES:END -->
 
 ---
