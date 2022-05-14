@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple 2022 iPhone SE vs Google Pixel 6a](https://appleinsider.com/inside/iphone-se/vs/compared-apple-2022-iphone-se-vs-google-pixel-6a?utm_medium=rss)
- - [&#39;Doctor Strange 2&#39; Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
- - [Samsung prepares to raise chip production prices by up to 20%](https://appleinsider.com/articles/22/05/14/samsung-prepares-to-raise-chip-production-prices-by-up-to-20?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
+ - [Best Noise-Canceling True Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
+ - [Netflix could follow Apple TV+ in producing live streaming video](https://appleinsider.com/articles/22/05/14/netflix-could-follow-apple-tv-in-producing-live-streaming-video?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
