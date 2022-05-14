@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This place is Cologne Cathedral in Germany if you wanted to know](http://9gag.com/gag/aXreqA2)
- - ⏩ [Are you winning, son?](http://9gag.com/gag/ay9PDDr)
- - 👉 [The fastest way to empty a bottle](http://9gag.com/gag/aVxBMzw)<!-- MEMES:END -->
+ - 💣 [Safety first...](http://9gag.com/gag/a618bOL)
+ - ⏩ [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - 👉 [Summer time](http://9gag.com/gag/aggjLzn)<!-- MEMES:END -->
 
 ---
 
