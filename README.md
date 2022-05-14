@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Texas&#39; content moderation law is clearly unconstitutional and forces social media services to allow a torrent of spam or face a deluge of frivolous litigation &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220514/p7#a220514p7)
- - [iPhone supplier Pegatron issues production warning over COVID lockdowns](https://appleinsider.com/articles/22/05/14/iphone-supplier-pegatron-issues-production-warning-over-covid-lockdowns?utm_medium=rss)
- - [Is the Google Pixel 6a just a little too expensive?](https://www.androidauthority.com/google-pixel-6a-price-3164299/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-432-3164501/)
+ - [HP has a Center Stage clone in one of its monitors](https://www.theverge.com/2022/5/14/23072682/hp-center-stage-clone-monitors-z24m-video-conferencing)
+ - [Texas&#39; content moderation law is clearly unconstitutional and forces social media services to allow a torrent of spam or face a deluge of frivolous litigation &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220514/p7#a220514p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
