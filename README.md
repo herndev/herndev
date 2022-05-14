@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need a series about this](http://9gag.com/gag/awzvx2Q)
- - ⏩ [Making new friends](http://9gag.com/gag/aWg9M32)
- - 👉 [Well that explains a lot](http://9gag.com/gag/amgn9v9)<!-- MEMES:END -->
+ - 💣 [Looking back childhood cartoons this show didn&#39;t get as much appreciation as some of the other bangers of its time , some of the animations in show are god tier](http://9gag.com/gag/avAmPMn)
+ - ⏩ [Fred ward a legend RIP](http://9gag.com/gag/aZrvNm3)
+ - 👉 [Breaking the Boulder](http://9gag.com/gag/a41VjR1)<!-- MEMES:END -->
 
 ---
 
