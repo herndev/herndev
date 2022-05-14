@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After 40 years, the creator of one of gaming&#39;s first female protagonists has been found](https://www.pcgamer.com/after-40-years-the-creator-of-one-of-gamings-first-female-protagonists-has-been-found)
  - [11 thrilling Stephen King adaptations you can watch at home](https://www.polygon.com/what-to-watch/23056636/stephen-king-movies-best-adaptations-list)
- - [20 sci-fi and fantasy books we can’t wait to dive into this summer](https://www.polygon.com/23070688/best-2022-summer-books-science-fiction-fantasy-preview)
- - [Trek To Yomi Sure Does Love Having You Cross Bridges](https://kotaku.com/trek-to-yomi-crossing-43-bridges-flying-wild-hog-1848923925)<!-- GAME:END -->
+ - [20 sci-fi and fantasy books we can’t wait to dive into this summer](https://www.polygon.com/23070688/best-2022-summer-books-science-fiction-fantasy-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
