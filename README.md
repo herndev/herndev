@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Cloud Technology Warns You When Not To Play Kingdom Hearts](https://kotaku.com/kingdom-hearts-cloud-version-switch-1-03-update-servers-1848924965)
  - [Today&#39;s Wordle answer #329: Saturday, May 13](https://www.pcgamer.com/wordle-may-14-329)
- - [Mean Streets was where the Tex Murphy series began, but thank god they got better](https://www.pcgamer.com/saturday-crapshoot-mean-streets)
- - [Robocop—the original, good one—comes to Fortnite](https://www.pcgamer.com/robocopthe-original-good-onecomes-to-fortnite)<!-- GAME:END -->
+ - [Mean Streets was where the Tex Murphy series began, but thank god they got better](https://www.pcgamer.com/saturday-crapshoot-mean-streets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
