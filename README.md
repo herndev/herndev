@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The fastest way to empty a bottle](http://9gag.com/gag/aVxBMzw)
- - ⏩ [Everything reminds me of her](http://9gag.com/gag/aLvr8K6)
- - 👉 [In other news, water is wet](http://9gag.com/gag/aVxBqE2)<!-- MEMES:END -->
+ - 💣 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
+ - ⏩ [Off to stratosphere](http://9gag.com/gag/a71AMoL)
+ - 👉 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)<!-- MEMES:END -->
 
 ---
 
