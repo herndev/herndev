@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Best Noise-Canceling True Wireless Earbuds for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-wireless-earbuds/#ftag=CAD590a51e)
- - [Netflix could follow Apple TV+ in producing live streaming video](https://appleinsider.com/articles/22/05/14/netflix-could-follow-apple-tv-in-producing-live-streaming-video?utm_medium=rss)<!-- TECH:END -->
+ - [As the possibility of Roe v. Wade overturn becomes a reality, pro-choice activists and nonprofits are looking at crypto and DAOs to speed up fundraising &lpar;New York Times&rpar;](http://www.techmeme.com/220514/p11#a220514p11)
+ - [Former eBay executive pleads guilty to harassment campaign involving live insects](https://www.theverge.com/2022/5/14/23073054/former-ebay-executive-pleads-guilty-intense-harassment-campaign-david-harville)
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
