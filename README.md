@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But will they listen?](http://9gag.com/gag/a11wdWb)
- - ⏩ [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
- - 👉 [LinKiN PaRk nUmB. MP3](http://9gag.com/gag/aRrDKP5)<!-- MEMES:END -->
+ - 💣 [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
+ - ⏩ [Learned this in kindergarten](http://9gag.com/gag/aNP3dG4)
+ - 👉 [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)<!-- MEMES:END -->
 
 ---
 
