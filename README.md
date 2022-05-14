@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Amazon, Flipkart, and Reliance Retail are in talks to join India&#39;s open e-commerce network, which aims to break the dominance of large e-commerce firms &lpar;The Economic Times&rpar;](http://www.techmeme.com/220514/p4#a220514p4)
  - [Q&amp;A with retail traders after Terra&#39;s crash: some lost their life savings, others shared suicidal ideation on forums, some now acknowledge it&#39;s a Ponzi scheme &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220514/p3#a220514p3)
- - [Irish DTC e-commerce services company ESW to acquire Los Angeles-based Scalefast, which helps DTC brands launch online stores quickly, sources say for $300M+ &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/220514/p2#a220514p2)
- - [Sources and a court document: Indian tax officials froze $478M worth of Xiaomi funds in February as part of an investigation into alleged tax evasion &lpar;Reuters&rpar;](http://www.techmeme.com/220514/p1#a220514p1)<!-- TECH:END -->
+ - [Irish DTC e-commerce services company ESW to acquire Los Angeles-based Scalefast, which helps DTC brands launch online stores quickly, sources say for $300M+ &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/220514/p2#a220514p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
