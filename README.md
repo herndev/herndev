@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 IV Has a 4K Display and an Actual Zoom Lens     - CNET](https://www.cnet.com/tech/mobile/sony-xperia-1-iv-has-a-4k-display-and-an-actual-zoom-lens/#ftag=CAD590a51e)
- - [The Xiaomi Pad 5 rips off the iPad in all the right ways](https://www.androidauthority.com/xiaomi-pad-5-review-3159782/)
- - [Best Portable Mini Bluetooth Speaker for 2022: JBL, Bose, Sony and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Use Tech to Perform Acts of Kindness](https://www.wired.com/story/how-to-use-tech-to-perform-acts-of-kindness)
+ - [9 Great Deals on Audio Tech, Projectors, and Coffee Gear](https://www.wired.com/story/weekend-deals-5-14-2022)
+ - [Where to Buy Vinyl Records Online and in Person](https://www.wired.com/story/where-to-buy-vinyl-records)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
