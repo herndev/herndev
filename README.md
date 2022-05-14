@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making $25 in Nebraska](http://9gag.com/gag/aLvrjjg)
- - ⏩ [This German dude figured out Physics](http://9gag.com/gag/aXrexrb)
- - 👉 [Sore throat](http://9gag.com/gag/aAGZD0g)<!-- MEMES:END -->
+ - 💣 [The fastest way to empty a bottle](http://9gag.com/gag/aVxBMzw)
+ - ⏩ [Everything reminds me of her](http://9gag.com/gag/aLvr8K6)
+ - 👉 [In other news, water is wet](http://9gag.com/gag/aVxBqE2)<!-- MEMES:END -->
 
 ---
 
