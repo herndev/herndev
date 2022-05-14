@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech groups urge Supreme Court to block Texas social media law     - CNET](https://www.cnet.com/news/social-media/tech-groups-urge-supreme-court-to-block-texas-social-media-law/#ftag=CAD590a51e)
  - [Interview with Sam Bankman-Fried on the crypto hype, blockchain&#39;s potential to build a fairer financial system, philanthropy, and more &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220514/p9#a220514p9)
- - [Jaybird Vista 2 review: One size doesn’t fit all](https://www.androidauthority.com/jaybird-vista-2-review-3160469/)
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Epic Cameo and Sam Raimi Nod, Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-epic-cameo-and-sam-raimi-nod-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Moment&#39;s Father&#39;s Day Sale Offers Savings on Cases, Lenses, Bags, and More     - CNET](https://www.cnet.com/tech/computing/moments-fathers-day-sale-offers-savings-on-cases-lenses-bags-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
