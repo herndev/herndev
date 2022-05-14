@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cheap Video Doorbells for 2022     - CNET](https://www.cnet.com/news/best-cheap-video-doorbells/#ftag=CAD590a51e)
- - [Peloton’s ‘Worst-Kept Secret’ Is Out &lpar;Yes, It’s a Rowing Machine&rpar;](https://www.wired.com/story/peloton-rowing-machine-revealed)
- - [The NSA Swears It Has ‘No Backdoors’ in Next-Gen Encryption](https://www.wired.com/story/nsa-backdoor-encryption-security-roundup)<!-- TECH:END -->
+ - [iPhone supplier Pegatron issues production warning over COVID lockdowns](https://appleinsider.com/articles/22/05/14/iphone-supplier-pegatron-issues-production-warning-over-covid-lockdowns?utm_medium=rss)
+ - [Is the Google Pixel 6a just a little too expensive?](https://www.androidauthority.com/google-pixel-6a-price-3164299/)
+ - [Our memories of the iPod](https://www.theverge.com/2022/5/14/23071036/ipod-memories-20-years-discontinued-mini-shuffle-classic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
