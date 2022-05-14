@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Forklift certification?](http://9gag.com/gag/aM4yjBx)
- - ⏩ [Off to stratosphere](http://9gag.com/gag/a71AMoL)
- - 👉 [What&#39;s the secret](http://9gag.com/gag/aQXV3mK)<!-- MEMES:END -->
+ - ⏩ [Brain goes brrr](http://9gag.com/gag/aDDMzOO)
+ - 👉 [Classic Amsterdam](http://9gag.com/gag/azeQX8B)<!-- MEMES:END -->
 
 ---
 
