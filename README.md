@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Breaking the Boulder](http://9gag.com/gag/a41VjR1)
- - ⏩ [But will they listen?](http://9gag.com/gag/a11wdWb)
- - 👉 [Making new friends](http://9gag.com/gag/aWg9M32)<!-- MEMES:END -->
+ - 💣 [But will they listen?](http://9gag.com/gag/a11wdWb)
+ - ⏩ [He&#39;s still going...](http://9gag.com/gag/aLvrM2x)
+ - 👉 [LinKiN PaRk nUmB. MP3](http://9gag.com/gag/aRrDKP5)<!-- MEMES:END -->
 
 ---
 
