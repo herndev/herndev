@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Learned this in kindergarten](http://9gag.com/gag/aNP3dG4)
- - ⏩ [Crypto recently be like:](http://9gag.com/gag/a81zp7Z)
- - 👉 [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)<!-- MEMES:END -->
+ - 💣 [Praise the Sun. The only true God that gives life to all we know and worth believing in.](http://9gag.com/gag/a41VZvy)
+ - ⏩ [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)
+ - 👉 [Instant Karma](http://9gag.com/gag/a618Mnm)<!-- MEMES:END -->
 
 ---
 
