@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Powerful testimony about the reality of poverty in the U.S.](http://9gag.com/gag/aBnow0Z)
- - ⏩ [Need to catch all the virus! Everyday you think they can\u2019t get more stupid but wake up with a surprise.](http://9gag.com/gag/aNP3AQw)
- - 👉 [Are you winning, son?](http://9gag.com/gag/ay9PDDr)<!-- MEMES:END -->
+ - 💣 [This place is Cologne Cathedral in Germany if you wanted to know](http://9gag.com/gag/aXreqA2)
+ - ⏩ [Are you winning, son?](http://9gag.com/gag/ay9PDDr)
+ - 👉 [The fastest way to empty a bottle](http://9gag.com/gag/aVxBMzw)<!-- MEMES:END -->
 
 ---
 
