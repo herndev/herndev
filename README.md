@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)
- - [Kendrick Lamar sets record for most first-day Apple Music album streams for 2022](https://appleinsider.com/articles/22/05/14/kendrick-lamar-sets-record-for-most-first-day-apple-music-album-streams-for-2022?utm_medium=rss)
- - [A Q&amp;A with SEC commissioner and &quot;Crypto Mom&quot; Hester Peirce, on her criticisms of the SEC&#39;s approach to crypto, chairman Gary Gensler&#39;s leadership, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220514/p8#a220514p8)<!-- TECH:END -->
+ - [Jaybird Vista 2 review: One size doesn’t fit all](https://www.androidauthority.com/jaybird-vista-2-review-3160469/)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Epic Cameo and Sam Raimi Nod, Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-epic-cameo-and-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [What to Do if You Test Positive for COVID at Home     - CNET](https://www.cnet.com/health/medical/what-to-do-if-you-test-positive-for-covid-at-home/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
