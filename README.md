@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Praise the Sun. The only true God that gives life to all we know and worth believing in.](http://9gag.com/gag/a41VZvy)
- - ⏩ [The unnecessary process to buy Coca-Cola in Japan](http://9gag.com/gag/aKmp2eO)
- - 👉 [Instant Karma](http://9gag.com/gag/a618Mnm)<!-- MEMES:END -->
+ - 💣 [Guys, they found this orc. His name is Dmitry Lapshakov. He&#39;s 29-years-old. He was born in a village in the Zabaikalsky Territory and lives in the village of Chita Pechanka, where his military unit is said to be located.](http://9gag.com/gag/a81zyDZ)
+ - ⏩ [Now, that&#39;s an idea!](http://9gag.com/gag/aRrDmj5)
+ - 👉 [Indian girl is from the Minority Meitei Community who lives on the North East Border with Myanmar. They led an independent kingdom called Manipur before merging to India and following Animism and Hinduism. Their native language, Meiteilon has been added to Google Translate.](http://9gag.com/gag/a71AZor)<!-- MEMES:END -->
 
 ---
 
