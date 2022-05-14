@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robocop—the original, good one—comes to Fortnite](https://www.pcgamer.com/robocopthe-original-good-onecomes-to-fortnite)
- - [RoboCop comes to Fortnite](https://www.polygon.com/23071479/fortnite-robocop-item-shop)
- - [Activision Blizzard&#39;s New Diversity Game Tool Comes Across Terribly](https://kotaku.com/activision-blizzard-diversity-tool-overwatch-2-call-of-1848924832)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #329: Saturday, May 13](https://www.pcgamer.com/wordle-may-14-329)
+ - [Mean Streets was where the Tex Murphy series began, but thank god they got better](https://www.pcgamer.com/saturday-crapshoot-mean-streets)
+ - [Robocop—the original, good one—comes to Fortnite](https://www.pcgamer.com/robocopthe-original-good-onecomes-to-fortnite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
