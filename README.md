@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sony Xperia 1 IV Has a 4K Display and an Actual Zoom Lens     - CNET](https://www.cnet.com/tech/mobile/sony-xperia-1-iv-has-a-4k-display-and-an-actual-zoom-lens/#ftag=CAD590a51e)
  - [The Xiaomi Pad 5 rips off the iPad in all the right ways](https://www.androidauthority.com/xiaomi-pad-5-review-3159782/)
- - [Best Portable Mini Bluetooth Speaker for 2022: JBL, Bose, Sony and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [Sources: Amazon, Flipkart, and Reliance Retail are in talks to join India&#39;s open e-commerce network, which aims to break the dominance of large e-commerce firms &lpar;The Economic Times&rpar;](http://www.techmeme.com/220514/p4#a220514p4)<!-- TECH:END -->
+ - [Best Portable Mini Bluetooth Speaker for 2022: JBL, Bose, Sony and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
