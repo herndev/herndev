@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-432-3164501/)
- - [HP has a Center Stage clone in one of its monitors](https://www.theverge.com/2022/5/14/23072682/hp-center-stage-clone-monitors-z24m-video-conferencing)
- - [Texas&#39; content moderation law is clearly unconstitutional and forces social media services to allow a torrent of spam or face a deluge of frivolous litigation &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220514/p7#a220514p7)<!-- TECH:END -->
+ - [Compared: USB 3, USB 4, Thunderbolt 3, Thunderbolt 4, USB-C - what you need to know](https://appleinsider.com/articles/20/08/24/usb-3-usb-4-thunderbolt-usb-c----everything-you-need-to-know?utm_medium=rss)
+ - [Kendrick Lamar sets record for most first-day Apple Music album streams for 2022](https://appleinsider.com/articles/22/05/14/kendrick-lamar-sets-record-for-most-first-day-apple-music-album-streams-for-2022?utm_medium=rss)
+ - [A Q&amp;A with SEC commissioner and &quot;Crypto Mom&quot; Hester Peirce, on her criticisms of the SEC&#39;s approach to crypto, chairman Gary Gensler&#39;s leadership, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220514/p8#a220514p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
