@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung is talking to clients about hiking chipmaking prices by up to 20% in 2022, joining TSMC and UMC, who are planning another round of price hikes &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220513/p23#a220513p23)
- - [A look at My Friends My Data, a group of startup founders pushing for legislation to force tech giants like Meta to let creators transfer followers between apps &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220513/p22#a220513p22)
- - [Tech industry appeals the bad Texas social media law to the Supreme Court](https://www.theverge.com/2022/5/13/23072310/netchoice-texas-social-media-law-supreme-court-appeal)<!-- TECH:END -->
+ - [Irish DTC e-commerce services company ESW to acquire Los Angeles-based Scalefast, which helps DTC brands launch online stores quickly, sources say for $300M+ &lpar;Ciara O&#39;Brien/The Irish Times&rpar;](http://www.techmeme.com/220514/p2#a220514p2)
+ - [Sources and a court document: Indian tax officials froze $478M worth of Xiaomi funds in February as part of an investigation into alleged tax evasion &lpar;Reuters&rpar;](http://www.techmeme.com/220514/p1#a220514p1)
+ - [Sources: Samsung is talking to clients about hiking chipmaking prices by up to 20% in 2022, joining TSMC and UMC, who are planning another round of price hikes &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/220513/p23#a220513p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
