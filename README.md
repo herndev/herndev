@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Cloud Technology Warns You When Not To Play Kingdom Hearts](https://kotaku.com/kingdom-hearts-cloud-version-switch-1-03-update-servers-1848924965)
- - [Today&#39;s Wordle answer #329: Saturday, May 13](https://www.pcgamer.com/wordle-may-14-329)
- - [Mean Streets was where the Tex Murphy series began, but thank god they got better](https://www.pcgamer.com/saturday-crapshoot-mean-streets)<!-- GAME:END -->
+ - [20 sci-fi and fantasy books we can’t wait to dive into this summer](https://www.polygon.com/23070688/best-2022-summer-books-science-fiction-fantasy-preview)
+ - [Trek To Yomi Sure Does Love Having You Cross Bridges](https://kotaku.com/trek-to-yomi-crossing-43-bridges-flying-wild-hog-1848923925)
+ - [New Cloud Technology Warns You When Not To Play Kingdom Hearts](https://kotaku.com/kingdom-hearts-cloud-version-switch-1-03-update-servers-1848924965)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
