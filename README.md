@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Montreal-based Vention, which develops software to help companies automate their production floor, raises a ~$95M Series C led by Georgian Partners &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/220515/p1#a220515p1)
  - [India-based GoKwik, which helps e-commerce merchants improve conversions and lower return rates, raises a $35M Series B led by Think Investments and RTP Global &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220514/p13#a220514p13)
- - [Best Memorial Day Mattress Deals: Casper, Puffy, Nolah, Amerisleep and More     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
- - [Twitch confirms the Buffalo gunman livestreamed Saturday&#39;s attack on its platform, saying it took his channel down within two minutes of the violence starting &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220514/p12#a220514p12)<!-- TECH:END -->
+ - [Best Memorial Day Mattress Deals: Casper, Puffy, Nolah, Amerisleep and More     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
