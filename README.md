@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People in my field are 4 times more productive than workers 30 years ago. Yet we aren&#39;t working any fewer hours](http://9gag.com/gag/awzvBX1)
- - ⏩ [A 5th century swimming pool in India that&#39;s still used to this day.](http://9gag.com/gag/aM4yZm6)
- - 👉 [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)<!-- MEMES:END -->
+ - 💣 [Accidentally](http://9gag.com/gag/aegWDgW)
+ - ⏩ [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
+ - 👉 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)<!-- MEMES:END -->
 
 ---
 
