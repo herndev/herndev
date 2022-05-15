@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pippin&#39;s actor from Lord of the Rings joins the cast of The Elder Scrolls Online](https://www.pcgamer.com/pippins-actor-from-lord-of-the-rings-joins-the-cast-of-the-elder-scrolls-online)
  - [This week in PC Gaming: Little Witch in the Woods, Vampire: The Masquerade - Swansong and Old World](https://www.pcgamer.com/this-week-in-pc-gaming-little-witch-in-the-woods-vampire-the-masquerade-swansong-old-world)
- - [Turning Red’s Rosalie Chiang shares her favorite line that was cut from the Pixar movie](https://www.polygon.com/23069347/turning-red-rosalie-chiang-interview)
- - [The Wheel of Time season 2 details we already know](https://www.polygon.com/23071290/the-wheel-of-time-season-2-release-cast-what-we-know)<!-- GAME:END -->
+ - [Turning Red’s Rosalie Chiang shares her favorite line that was cut from the Pixar movie](https://www.polygon.com/23069347/turning-red-rosalie-chiang-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
