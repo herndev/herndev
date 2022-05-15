@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The face of betrayal](http://9gag.com/gag/aM4y4OX)
- - ⏩ [We need more ppl like this guy](http://9gag.com/gag/aOQGxKy)
- - 👉 [She&#39;s been reading too many love story novels](http://9gag.com/gag/aPZnZYq)<!-- MEMES:END -->
+ - 💣 [We need more ppl like this guy](http://9gag.com/gag/aOQGxKy)
+ - ⏩ [Too slow bro](http://9gag.com/gag/aZrvD7W)
+ - 👉 [In an effort to reduce waste, this Supermarket in Switzerland has a refill station for cleaning products](http://9gag.com/gag/a0ZwZLd)<!-- MEMES:END -->
 
 ---
 
