@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [India-based GoKwik, which helps e-commerce merchants improve conversions and lower return rates, raises a $35M Series B led by Think Investments and RTP Global &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220514/p13#a220514p13)
  - [Best Memorial Day Mattress Deals: Casper, Puffy, Nolah, Amerisleep and More     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
- - [Twitch confirms the Buffalo gunman livestreamed Saturday&#39;s attack on its platform, saying it took his channel down within two minutes of the violence starting &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220514/p12#a220514p12)
- - [Best Noise-Canceling Headphones Under $100 for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitch confirms the Buffalo gunman livestreamed Saturday&#39;s attack on its platform, saying it took his channel down within two minutes of the violence starting &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220514/p12#a220514p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
