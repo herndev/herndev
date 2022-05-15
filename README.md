@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 15: $800 iPad Pro, $100 Beats Fit Pro, $800 75-inch Toshiba Smart TV, more](https://appleinsider.com/articles/22/05/15/daily-deals-may-15-800-ipad-pro-100-beats-fit-pro-800-75-inch-toshiba-smart-tv-more?utm_medium=rss)
- - [&#39;Top Gun: Maverick&#39; Won&#39;t Stream When It Hits Theaters May 24, Sorry     - CNET](https://www.cnet.com/tech/services-and-software/top-gun-maverick-wont-stream-when-it-hits-theaters-may-24/#ftag=CAD590a51e)
- - [The best Google Pixel 6a alternatives: 5 phones to consider before you buy](https://www.androidauthority.com/google-pixel-6a-alternatives-3164404/)<!-- TECH:END -->
+ - [Kuo: Lightning accessories also expected to shift to USB-C](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)
+ - [Germany&#39;s Ministry of Finance confirms that the sale of crypto assets is tax-free as long as they&#39;re held for over a year, even if used for staking and lending &lpar;Kevin Helms/Bitcoin News&rpar;](http://www.techmeme.com/220515/p6#a220515p6)
+ - [The Best Vinyl Accessories to Jazz Up Your Analog Audio](https://www.wired.com/gallery/best-vinyl-accessories)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
