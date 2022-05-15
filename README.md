@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Lightning accessories also expected to shift to USB-C](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)
- - [Germany&#39;s Ministry of Finance confirms that the sale of crypto assets is tax-free as long as they&#39;re held for over a year, even if used for staking and lending &lpar;Kevin Helms/Bitcoin News&rpar;](http://www.techmeme.com/220515/p6#a220515p6)
- - [The Best Vinyl Accessories to Jazz Up Your Analog Audio](https://www.wired.com/gallery/best-vinyl-accessories)<!-- TECH:END -->
+ - [Google still doesn’t understand what privacy means](https://www.androidauthority.com/google-io-2022-privacy-nonsense-3164427/)
+ - [iOS 16 will have refreshed Apple apps but look the same](https://appleinsider.com/articles/22/05/15/ios-16-will-have-refreshed-apple-apps-but-look-the-same?utm_medium=rss)
+ - [When the iPhone goes USB-C, other lightning accessories will too says Kuo](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
