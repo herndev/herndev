@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montreal-based Vention, which develops software to help companies automate their production floor, raises a ~$95M Series C led by Georgian Partners &lpar;Charlize Alcaraz/BetaKit&rpar;](http://www.techmeme.com/220515/p1#a220515p1)
- - [India-based GoKwik, which helps e-commerce merchants improve conversions and lower return rates, raises a $35M Series B led by Think Investments and RTP Global &lpar;Harsh Upadhyay/Entrackr&rpar;](http://www.techmeme.com/220514/p13#a220514p13)
- - [Best Memorial Day Mattress Deals: Casper, Puffy, Nolah, Amerisleep and More     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Several women who attended Miami&#39;s Bitcoin 2022 conference were harassed and say the conference didn&#39;t enforce its anti-harassment policies &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220515/p4#a220515p4)
+ - [Material Security, which helps enterprises protect sensitive info stored in email accounts even if they are hacked, raises a $100M Series C at a $1.1B valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/220515/p3#a220515p3)
+ - [OpenSea says it rolling out a new system to detect and remove copycat NFTs and verify accounts in an effort to &quot;improve authenticity&quot; on the marketplace &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220515/p2#a220515p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
