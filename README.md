@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [David Tennant and Catherine Tate to return for Doctor Who’s 60th anniversary](https://www.theverge.com/2022/5/15/23074041/david-tennant-catherine-tate-return-doctor-who-60th-anniversary)
- - [Apple AirPods Pro vs Apple AirPods &lpar;3rd generation&rpar;: Sealed or unsealed?](https://www.androidauthority.com/apple-airpods-pro-vs-apple-airpods-3rd-generation-3158853/)
- - [Google Pixel Watch: All the Details We Do &lpar;and Don&#39;t&rpar; Know     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-all-the-details-we-do-and-dont-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Turquoise Health, a free search engine that lets patients compare hospital prices for various medical procedures in the US, raises a $20M Series A led by a16z &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220515/p9#a220515p9)
+ - [Compared: Pixel Buds Pro versus AirPods 3 &amp; AirPods Pro](https://appleinsider.com/articles/22/05/15/compared-pixel-buds-pro-versus-airpods-3-airpods-pro?utm_medium=rss)
+ - [Passenger&#39;s iPhone racks up the miles trapped in a plane seat](https://appleinsider.com/articles/22/05/15/passengers-iphone-racks-up-the-miles-trapped-in-a-plane-seat?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
