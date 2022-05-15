@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)
- - ⏩ [Remember guys always stand up! And start the day with a smile.](http://9gag.com/gag/aBno0pD)
- - 👉 [I made this wall in my week off. Best vacation ever. I am a software developer so this kind of work feels sooo good and rewarding. Can recommend.](http://9gag.com/gag/aRrD3YA)<!-- MEMES:END -->
+ - 💣 [People in my field are 4 times more productive than workers 30 years ago. Yet we aren&#39;t working any fewer hours](http://9gag.com/gag/awzvBX1)
+ - ⏩ [A 5th century swimming pool in India that&#39;s still used to this day.](http://9gag.com/gag/aM4yZm6)
+ - 👉 [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)<!-- MEMES:END -->
 
 ---
 
