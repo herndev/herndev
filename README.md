@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)
- - ⏩ [The face of betrayal](http://9gag.com/gag/aM4y4OX)
- - 👉 [Give this guy a medal](http://9gag.com/gag/a41VEPZ)<!-- MEMES:END -->
+ - 💣 [Imagine you hear this at night](http://9gag.com/gag/a91B1VD)
+ - ⏩ [The evolution of humanoid robots](http://9gag.com/gag/aNP3PN3)
+ - 👉 [No more shins](http://9gag.com/gag/apg8gdE)<!-- MEMES:END -->
 
 ---
 
