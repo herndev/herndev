@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone SE 3 &lpar;2022&rpar; problems and how to fix them](https://www.androidauthority.com/iphone-se-3-2022-problems-fixes-3158917/)
- - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-the-first-time/#ftag=CAD590a51e)
- - [Several women who attended Miami&#39;s Bitcoin 2022 conference were harassed and say the conference didn&#39;t enforce its anti-harassment policies &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220515/p4#a220515p4)<!-- TECH:END -->
+ - [How do folding screens actually work?](https://www.androidauthority.com/how-do-folding-screens-actually-work-3164822/)
+ - [Evisort, which offers an AI-powered contract management software, raises a $100M Series C led by TCV, bringing its total funding to $155.6M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/220515/p5#a220515p5)
+ - [&#39;The Phantom Menace&#39; Trailer Was a Game-changer, And Not Just For Star Wars     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-phantom-menace-trailer-was-a-game-changer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
