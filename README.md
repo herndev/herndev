@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch creators explain they didn&#39;t use King&#39;s &#39;creepy&#39; diversity charts](https://www.pcgamer.com/overwatch-creators-explain-they-didnt-use-kings-creepy-diversity-charts)
  - [Mass Shooting Apparently Planned On Discord, Streamed On Twitch, Investigated As Hate Crime [Updated]](https://kotaku.com/twitch-discord-4chan-shooting-buffalo-tops-jimboboiii-m-1848927240)
- - [Which horror movie would make a great videogame?](https://www.pcgamer.com/which-horror-movie-would-make-a-great-videogame)
- - [Go adventuring with your favorite Elden Ring NPCs and Bosses with this mod](https://www.pcgamer.com/go-adventuring-with-your-favorite-elden-ring-npcs-and-bosses-with-this-mod)<!-- GAME:END -->
+ - [Which horror movie would make a great videogame?](https://www.pcgamer.com/which-horror-movie-would-make-a-great-videogame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
