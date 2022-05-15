@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accidentally](http://9gag.com/gag/aegWDgW)
- - ⏩ [The world&#39;s deadliest cat](http://9gag.com/gag/aE8EP7o)
- - 👉 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)<!-- MEMES:END -->
+ - 💣 [No risk no pun](http://9gag.com/gag/aRrD0RA)
+ - ⏩ [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)
+ - 👉 [Nice presentation](http://9gag.com/gag/aegWDvQ)<!-- MEMES:END -->
 
 ---
 
