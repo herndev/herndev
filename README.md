@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Several women who attended Miami&#39;s Bitcoin 2022 conference were harassed and say the conference didn&#39;t enforce its anti-harassment policies &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220515/p4#a220515p4)
- - [Material Security, which helps enterprises protect sensitive info stored in email accounts even if they are hacked, raises a $100M Series C at a $1.1B valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/220515/p3#a220515p3)
- - [OpenSea says it rolling out a new system to detect and remove copycat NFTs and verify accounts in an effort to &quot;improve authenticity&quot; on the marketplace &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220515/p2#a220515p2)<!-- TECH:END -->
+ - [iPhone SE 3 &lpar;2022&rpar; problems and how to fix them](https://www.androidauthority.com/iphone-se-3-2022-problems-fixes-3158917/)
+ - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-the-first-time/#ftag=CAD590a51e)
+ - [Several women who attended Miami&#39;s Bitcoin 2022 conference were harassed and say the conference didn&#39;t enforce its anti-harassment policies &lpar;Arielle Pardes/Wired&rpar;](http://www.techmeme.com/220515/p4#a220515p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
