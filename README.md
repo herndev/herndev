@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Super Mario\u2019s cousin](http://9gag.com/gag/adgbgz9)
- - ⏩ [When you get older and realize that a magical childhood is the result of your parent\u2019s effort](http://9gag.com/gag/aGzbybw)
- - 👉 [Your door dash order has been successfully delivered](http://9gag.com/gag/apg8REB)<!-- MEMES:END -->
+ - 💣 [The evolution of humanoid robots](http://9gag.com/gag/aNP3PN3)
+ - ⏩ [The Swedish parliament is now in majority of joining NATO. If everything goes as planned, Sweden will apply for membership tomorrow on the 16th of May.](http://9gag.com/gag/aE8EqyO)
+ - 👉 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)<!-- MEMES:END -->
 
 ---
 
