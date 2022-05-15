@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These rocks contain ancient water that has been trapped inside them for millions of years.](http://9gag.com/gag/aNP3PZ0)
- - ⏩ [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)
- - 👉 [Finnish President and PM said Finland will apply to NATO](http://9gag.com/gag/aLvrpZ5)<!-- MEMES:END -->
+ - 💣 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)
+ - ⏩ [The face of betrayal](http://9gag.com/gag/aM4y4OX)
+ - 👉 [Give this guy a medal](http://9gag.com/gag/a41VEPZ)<!-- MEMES:END -->
 
 ---
 
