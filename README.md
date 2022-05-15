@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People in my field are 4 times more productive than workers 30 years ago. Yet we aren&#39;t working any fewer hours](http://9gag.com/gag/awzvBX1)
- - ⏩ [Give this guy a medal](http://9gag.com/gag/a41VEPZ)
- - 👉 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)<!-- MEMES:END -->
+ - 💣 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)
+ - ⏩ [Egyptian newspapers](http://9gag.com/gag/ajgymXg)
+ - 👉 [Breaking Bad India](http://9gag.com/gag/awzvBGR)<!-- MEMES:END -->
 
 ---
 
