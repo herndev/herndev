@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-8-3162710/)
- - [A look at the Apple Together solidarity movement, which is providing tools and support for the company&#39;s retail, AppleCare, and other employees to organize &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220515/p8#a220515p8)
- - [Boost Mobile will let you lower your phone bill by playing games and watching ads](https://www.theverge.com/2022/5/15/23073854/boost-mobile-dish-lower-phone-bill-watch-ads-play-games)<!-- TECH:END -->
+ - [Why Johnny Depp v. Amber Heard Videos Are Flooding TikTok and YouTube     - CNET](https://www.cnet.com/culture/why-johnny-depp-v-amber-heard-videos-are-flooding-tiktok-and-youtube/#ftag=CAD590a51e)
+ - [Rest Easy With Up to 34% Off SoundAsleep Air Mattresses     - CNET](https://www.cnet.com/health/sleep/rest-easy-with-up-to-34-off-soundasleep-air-mattresses/#ftag=CAD590a51e)
+ - [Apple Watch Series 8: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-8-3162710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
