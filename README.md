@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the possibility of Roe v. Wade overturn becomes a reality, pro-choice activists and nonprofits are looking at crypto and DAOs to speed up fundraising &lpar;New York Times&rpar;](http://www.techmeme.com/220514/p11#a220514p11)
- - [Former eBay executive pleads guilty to harassment campaign involving live insects](https://www.theverge.com/2022/5/14/23073054/former-ebay-executive-pleads-guilty-intense-harassment-campaign-david-harville)
- - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Are These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-are-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Memorial Day Mattress Deals: Casper, Puffy, Nolah, Amerisleep and More     - CNET](https://www.cnet.com/health/sleep/best-mattress-deals/#ftag=CAD590a51e)
+ - [Twitch confirms the Buffalo gunman livestreamed Saturday&#39;s attack on its platform, saying it took his channel down within two minutes of the violence starting &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220514/p12#a220514p12)
+ - [Best Noise-Canceling Headphones Under $100 for 2022     - CNET](https://www.cnet.com/tech/mobile/best-noise-canceling-headphones-under-100/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
