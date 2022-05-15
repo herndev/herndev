@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And he is waiting, and waiting and still waiting...](http://9gag.com/gag/aDDMdYN)
- - ⏩ [Egyptian newspapers](http://9gag.com/gag/ajgymXg)
- - 👉 [The people of Sri Lanka have turned on the political class.](http://9gag.com/gag/aYrmoPx)<!-- MEMES:END -->
+ - 💣 [I only had the segs with the lunch lady.](http://9gag.com/gag/avAm51W)
+ - ⏩ [PAUL](http://9gag.com/gag/a618Ew8)
+ - 👉 [Mariupol shelling](http://9gag.com/gag/axB4Mj2)<!-- MEMES:END -->
 
 ---
 
