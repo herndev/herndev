@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No risk no pun](http://9gag.com/gag/aRrD0RA)
- - ⏩ [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)
- - 👉 [Nice presentation](http://9gag.com/gag/aegWDvQ)<!-- MEMES:END -->
+ - 💣 [Germanium, a silvery grey metalloid, is transparent in infrared](http://9gag.com/gag/aGzbdn6)
+ - ⏩ [In the words of Michael Kelso...burn.](http://9gag.com/gag/aLvrw2A)
+ - 👉 [Oneday I will buy it for sure, it has my respect](http://9gag.com/gag/aKmp7KZ)<!-- MEMES:END -->
 
 ---
 
