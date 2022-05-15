@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I conquered my anxiety after many years of hard work to finally make my dream of visiting Sweden. I did it. I f**king did it!](http://9gag.com/gag/aAGZbzd)
+ - 💣 [Too slow bro](http://9gag.com/gag/aZrvD7W)
  - ⏩ [No pull-up bars? Try this](http://9gag.com/gag/aQXVEyw)
- - 👉 [Too slow bro](http://9gag.com/gag/aZrvD7W)<!-- MEMES:END -->
+ - 👉 [How to stop racism? Stop talking about racism](http://9gag.com/gag/apg8g1W)<!-- MEMES:END -->
 
 ---
 
