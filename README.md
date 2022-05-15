@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Turquoise Health, a free search engine that lets patients compare hospital prices for various medical procedures in the US, raises a $20M Series A led by a16z &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220515/p9#a220515p9)
- - [Compared: Pixel Buds Pro versus AirPods 3 &amp; AirPods Pro](https://appleinsider.com/articles/22/05/15/compared-pixel-buds-pro-versus-airpods-3-airpods-pro?utm_medium=rss)
- - [Passenger&#39;s iPhone racks up the miles trapped in a plane seat](https://appleinsider.com/articles/22/05/15/passengers-iphone-racks-up-the-miles-trapped-in-a-plane-seat?utm_medium=rss)<!-- TECH:END -->
+ - [Ohio House introduces bill to criminalize AirTag stalking](https://appleinsider.com/articles/22/05/15/ohio-house-introduces-bill-to-criminalize-airtag-stalking?utm_medium=rss)
+ - [Google and Samsung join forces to make it easier to sync fitness data between apps](https://www.theverge.com/2022/5/15/23074015/google-samsung-health-connect-join-forces-easier-share-fitness-data-between-apps-developers)
+ - [Turquoise Health, a free search engine that lets patients compare hospital prices for various medical procedures in the US, raises a $20M Series A led by a16z &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220515/p9#a220515p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
