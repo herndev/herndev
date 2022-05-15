@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ohio House introduces bill to criminalize AirTag stalking](https://appleinsider.com/articles/22/05/15/ohio-house-introduces-bill-to-criminalize-airtag-stalking?utm_medium=rss)
- - [Google and Samsung join forces to make it easier to sync fitness data between apps](https://www.theverge.com/2022/5/15/23074015/google-samsung-health-connect-join-forces-easier-share-fitness-data-between-apps-developers)
- - [Turquoise Health, a free search engine that lets patients compare hospital prices for various medical procedures in the US, raises a $20M Series A led by a16z &lpar;Michael Schroeder/MedCity News&rpar;](http://www.techmeme.com/220515/p9#a220515p9)<!-- TECH:END -->
+ - [Marvel Cinematic Universe Phase 4: The Full List of Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
+ - [More People Should Watch the Best TV Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-tv-show-on-hbo-max/#ftag=CAD590a51e)
+ - [&#39;Senior Year&#39; Review: Netflix&#39;s Best Bad Movie     - CNET](https://www.cnet.com/culture/entertainment/senior-year-review-netflixs-best-bad-movie/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
