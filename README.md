@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [After Ukraine wins Eurovision.](http://9gag.com/gag/aWg9EGA)
- - ⏩ [Forklift certification?](http://9gag.com/gag/aM4yjBx)
- - 👉 [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)<!-- MEMES:END -->
+ - ⏩ [Ana Kasparian, a news anchor, went on a rant and gave national television her take on the place of religion in politics](http://9gag.com/gag/aOQGYZy)
+ - 👉 [State senator calls out corruption on senate floor](http://9gag.com/gag/avAmoBW)<!-- MEMES:END -->
 
 ---
 
