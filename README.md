@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #330: Sunday, May 15](https://www.pcgamer.com/wordle-may-15-330-yield-meaning-definition)
  - [Great moments in PC gaming: Beating an invader for the first time in Dark Souls](https://www.pcgamer.com/great-moments-in-pc-gaming-beating-an-invader-for-the-first-time-in-dark-souls)
- - [Unofficial patch for Mass Effect Legendary Edition addresses bugs in Mass Effect 2](https://www.pcgamer.com/unofficial-patch-for-mass-effect-legendary-edition-addresses-bugs-in-mass-effect-2)
- - [Overwatch creators explain they didn&#39;t use King&#39;s &#39;creepy&#39; diversity charts](https://www.pcgamer.com/overwatch-creators-explain-they-didnt-use-kings-creepy-diversity-charts)<!-- GAME:END -->
+ - [Unofficial patch for Mass Effect Legendary Edition addresses bugs in Mass Effect 2](https://www.pcgamer.com/unofficial-patch-for-mass-effect-legendary-edition-addresses-bugs-in-mass-effect-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
