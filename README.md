@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google still doesn’t understand what privacy means](https://www.androidauthority.com/google-io-2022-privacy-nonsense-3164427/)
- - [iOS 16 will have refreshed Apple apps but look the same](https://appleinsider.com/articles/22/05/15/ios-16-will-have-refreshed-apple-apps-but-look-the-same?utm_medium=rss)
- - [When the iPhone goes USB-C, other lightning accessories will too says Kuo](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [The Aya Neo 2 and Aya Neo Slide have specs that could challenge the Steam Deck](https://www.theverge.com/2022/5/15/23073748/aya-neo-2-slide-specs-challenge-steam-deck-handheld-pc-gaming-amd)
+ - [iOS 16 will have refreshed Apple apps but look the same as iOS 15](https://appleinsider.com/articles/22/05/15/ios-16-will-have-refreshed-apple-apps-but-look-the-same?utm_medium=rss)
+ - [Google still doesn’t understand what privacy means](https://www.androidauthority.com/google-io-2022-privacy-nonsense-3164427/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
