@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When the iPhone goes USB-C, other Lightning accessories will too says Kuo](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)
- - [Passenger&#39;s iPhone racks up the miles trapped in a plane seat](https://appleinsider.com/articles/22/05/15/passengers-iphone-racks-up-the-miles-trapped-in-a-plane-seat?utm_medium=rss)
- - [Opinion: to boost its car project, Apple should acquire EV startup Canoo, which warned it is running out of money, and whose former CEO now works for Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220515/p7#a220515p7)<!-- TECH:END -->
+ - [Apple Watch Series 8: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-8-3162710/)
+ - [A look at the Apple Together solidarity movement, which is providing tools and support for the company&#39;s retail, AppleCare, and other employees to organize &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220515/p8#a220515p8)
+ - [Boost Mobile will let you lower your phone bill by playing games and watching ads](https://www.theverge.com/2022/5/15/23073854/boost-mobile-dish-lower-phone-bill-watch-ads-play-games)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
