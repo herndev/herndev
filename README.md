@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Go adventuring with your favorite Elden Ring NPCs and Bosses with this mod](https://www.pcgamer.com/go-adventuring-with-your-favorite-elden-ring-npcs-and-bosses-with-this-mod)
- - [Lawsuit against videogame grading service Wata alleges manipulation of retro game prices](https://www.pcgamer.com/lawsuit-against-videogame-grading-service-wata-alleges-manipulation-of-retro-game-prices)
- - [Leak alleges Arma Reforger will be next game in series and a bridge to Arma 4](https://www.pcgamer.com/leak-alleges-arma-reforger-will-be-next-game-in-series-and-a-bridge-to-arma-4)<!-- GAME:END -->
+ - [Mass Shooting Apparently Planned On Discord, Streamed On Twitch, Investigated As Hate Crime [Updated]](https://kotaku.com/twitch-discord-4chan-shooting-buffalo-tops-jimboboiii-m-1848927240)
+ - [Which horror movie would make a great videogame?](https://www.pcgamer.com/which-horror-movie-would-make-a-great-videogame)
+ - [Go adventuring with your favorite Elden Ring NPCs and Bosses with this mod](https://www.pcgamer.com/go-adventuring-with-your-favorite-elden-ring-npcs-and-bosses-with-this-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
