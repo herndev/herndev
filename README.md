@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How do folding screens actually work?](https://www.androidauthority.com/how-do-folding-screens-actually-work-3164822/)
- - [Evisort, which offers an AI-powered contract management software, raises a $100M Series C led by TCV, bringing its total funding to $155.6M &lpar;Sean Michael Kerner/VentureBeat&rpar;](http://www.techmeme.com/220515/p5#a220515p5)
- - [&#39;The Phantom Menace&#39; Trailer Was a Game-changer, And Not Just For Star Wars     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-phantom-menace-trailer-was-a-game-changer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Stay Cool Without Air-Conditioning](https://www.wired.com/story/how-to-stay-cool-without-air-conditioning)
+ - [Tips for Cargo Biking With Your Kids](https://www.wired.com/story/how-to-family-ebike-with-kids)
+ - [KEF’s New LS60 Wireless Speakers Are an Absolute Triumph](https://www.wired.com/review/review-kef-ls60-wireless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
