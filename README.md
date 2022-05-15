@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opinion: to boost its car project, Apple should acquire EV startup Canoo, which warned it is running out of money, and whose former CEO now works for Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220515/p7#a220515p7)
- - [The iPod is dead, but the podcast lives on](https://www.theverge.com/2022/5/15/23071515/ipod-dead-podcast-legacy-apple-spotify)
- - [The Aya Neo 2 and Aya Neo Slide have specs that could challenge the Steam Deck](https://www.theverge.com/2022/5/15/23073748/aya-neo-2-slide-specs-challenge-steam-deck-handheld-pc-gaming-amd)<!-- TECH:END -->
+ - [When the iPhone goes USB-C, other Lightning accessories will too says Kuo](https://appleinsider.com/articles/22/05/15/kuo-lightning-accessories-also-expected-to-shift-to-usb-c?utm_medium=rss)
+ - [Passenger&#39;s iPhone racks up the miles trapped in a plane seat](https://appleinsider.com/articles/22/05/15/passengers-iphone-racks-up-the-miles-trapped-in-a-plane-seat?utm_medium=rss)
+ - [Opinion: to boost its car project, Apple should acquire EV startup Canoo, which warned it is running out of money, and whose former CEO now works for Apple &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220515/p7#a220515p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
