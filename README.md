@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [I only had the segs with the lunch lady.](http://9gag.com/gag/avAm51W)
- - ⏩ [PAUL](http://9gag.com/gag/a618Ew8)
- - 👉 [Mariupol shelling](http://9gag.com/gag/axB4Mj2)<!-- MEMES:END -->
+ - ⏩ [Nice presentation](http://9gag.com/gag/aegWDvQ)
+ - 👉 [Smarter than a lot of hoomans](http://9gag.com/gag/a31nEVQ)<!-- MEMES:END -->
 
 ---
 
