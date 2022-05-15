@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Johnny Depp v. Amber Heard Videos Are Flooding TikTok and YouTube     - CNET](https://www.cnet.com/culture/why-johnny-depp-v-amber-heard-videos-are-flooding-tiktok-and-youtube/#ftag=CAD590a51e)
- - [Rest Easy With Up to 34% Off SoundAsleep Air Mattresses     - CNET](https://www.cnet.com/health/sleep/rest-easy-with-up-to-34-off-soundasleep-air-mattresses/#ftag=CAD590a51e)
- - [Apple Watch Series 8: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-watch-series-8-3162710/)<!-- TECH:END -->
+ - [David Tennant and Catherine Tate to return for Doctor Who’s 60th anniversary](https://www.theverge.com/2022/5/15/23074041/david-tennant-catherine-tate-return-doctor-who-60th-anniversary)
+ - [Apple AirPods Pro vs Apple AirPods &lpar;3rd generation&rpar;: Sealed or unsealed?](https://www.androidauthority.com/apple-airpods-pro-vs-apple-airpods-3rd-generation-3158853/)
+ - [Google Pixel Watch: All the Details We Do &lpar;and Don&#39;t&rpar; Know     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-all-the-details-we-do-and-dont-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
