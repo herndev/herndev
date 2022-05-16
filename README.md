@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not even mad at him, That woman is fire](http://9gag.com/gag/angVn3n)
- - ⏩ [Novy Okkervil, Sankt Petersburg. A population of over 20&#39;000 lives in this massive, single construction.](http://9gag.com/gag/aYrmOn2)
- - 👉 [Me in my 30&#39;s](http://9gag.com/gag/aogDR5x)<!-- MEMES:END -->
+ - 💣 [French Language](http://9gag.com/gag/aZrvEM0)
+ - ⏩ [Me in my 30&#39;s](http://9gag.com/gag/aogDR5x)
+ - 👉 [Keep yourself healthy guys](http://9gag.com/gag/aegWVvp)<!-- MEMES:END -->
 
 ---
 
