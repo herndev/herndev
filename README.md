@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 15: $800 iPad Pro, $100 Beats Fit Pro, $800 75-inch Toshiba Smart TV, more](https://appleinsider.com/articles/22/05/15/daily-deals-may-15-800-ipad-pro-100-beats-fit-pro-800-75-inch-toshiba-smart-tv-more?utm_medium=rss)
- - [Travel Insurance: What You Should Know Before Your Summer Trip     - CNET](https://www.cnet.com/personal-finance/insurance/travel-insurance-what-you-should-know-before-your-summer-trip/#ftag=CAD590a51e)
- - [Poll: Where do you use voice assistants the most?](https://www.androidauthority.com/voice-assistant-devices-poll-3165280/)<!-- TECH:END -->
+ - [Luna Guard Foundation says its BTC reserves have depleted from ~80K to ~300 and the remaining UST and LUNA tokens will be used to compensate investors &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/220516/p5#a220516p5)
+ - [In Memoriam: Forgetting Your Password](https://www.wired.com/story/in-memoriam-forgetting-passwords)
+ - [Amazon Has Too Many Warehouses. Now Sellers Are Paying More](https://www.wired.com/story/amazon-warehouse-sellers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
