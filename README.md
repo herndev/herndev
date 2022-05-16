@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This modder added VR support to Resident Evil Village when Capcom refused](https://www.pcgamer.com/this-modder-added-vr-support-to-resident-evil-village-when-capcom-refused)
- - [Take-Two CEO Acknowledges Frustrated Red Dead Online Players, But Offers Nothing Else](https://kotaku.com/red-dead-online-rockstar-take-two-updates-savereddeadon-1848933810)
- - [MIT names nanoscience building after AMD CEO Dr. Lisa Su](https://www.pcgamer.com/mit-names-nanoscience-building-after-amd-ceo-dr-lisa-su)<!-- GAME:END -->
+ - [Anya punched her bully in Spy x Family and set the internet on fire](https://www.polygon.com/23077170/anya-forger-spy-x-family-meme-crunchyroll)
+ - [Kerbal Space Program 2 is now delayed to 2023](https://www.pcgamer.com/kerbal-space-program-2-is-now-delayed-to-2023)
+ - [Fall Guys Gets Free-To-Play Overhaul Next Month](https://kotaku.com/fall-guys-free-to-play-release-date-nintendo-switch-1848933949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
