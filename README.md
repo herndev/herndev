@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pain](http://9gag.com/gag/aGzb8e6)
- - ⏩ [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)
- - 👉 [This lady retiring after 42 years in nursing.](http://9gag.com/gag/ajgy1A8)<!-- MEMES:END -->
+ - 💣 [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)
+ - ⏩ [This lady retiring after 42 years in nursing.](http://9gag.com/gag/ajgy1A8)
+ - 👉 [An innocent gamer](http://9gag.com/gag/angVRb5)<!-- MEMES:END -->
 
 ---
 
