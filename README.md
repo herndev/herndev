@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Pulls Shooting Vid Quickly, But Facebook And Streamable Reuploads Reached Millions](https://kotaku.com/buffalo-mass-shooting-twitch-livestream-facebook-manife-1848931375)
- - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
- - [The Boys season 3 trailer brings blood, guts, and Jensen Ackles](https://www.polygon.com/23071355/the-boys-season-3-trailer-release-date)<!-- GAME:END -->
+ - [Fall Guys goes free in June](https://www.pcgamer.com/fall-guys-free-to-play)
+ - [Fall Guys is going free-to-play](https://www.polygon.com/23075037/fall-guys-nintendo-switch-xbox-free-to-play)
+ - [Philips Momentum 279M1RV 4K gaming monitor review](https://www.pcgamer.com/philips-momentum-279m1rv-4k-gaming-monitor-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
