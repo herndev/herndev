@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YT is turning on their own content creators and turning into hot pile of turd in summer](http://9gag.com/gag/a21Gvop)
- - ⏩ [Godzilla is still cool](http://9gag.com/gag/amgn11V)
- - 👉 [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)<!-- MEMES:END -->
+ - 💣 [If only I could have tips on how to make it a permanent thing..](http://9gag.com/gag/aVxBgYv)
+ - ⏩ [A truck driver\u2019s bedtime routine](http://9gag.com/gag/abgEeAv)
+ - 👉 [Godzilla is still cool](http://9gag.com/gag/amgn11V)<!-- MEMES:END -->
 
 ---
 
