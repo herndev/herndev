@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says a Twitter deal at a lower price wouldn&#39;t be &quot;out of the question&quot;, speaking to a Miami tech conference crowd; Twitter stock closes down 8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p23#a220516p23)
- - [Over half of US properties face at least some wildfire risk](https://www.theverge.com/2022/5/16/23075120/half-united-states-properties-wildfire-risk)
- - [The MSI GS66 Stealth gaming laptop is cheaper than ever at Best Buy](https://www.theverge.com/good-deals/2022/5/16/23074837/msi-gs66-laptop-asus-zephyrus-m16-samsung-razer-chair-deal-sale)<!-- TECH:END -->
+ - [Sony doesn’t want you to know that it’s donating $100K for reproductive rights](https://www.theverge.com/2022/5/16/23076730/sony-insomniac-100k-donation-womens-reproductive-rights-assistance-project-wrap)
+ - [Metatheory, a blockchain game company whose founders include Twitch cofounder Kevin Lin, raises a $24M Series A led by a16z &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220516/p26#a220516p26)
+ - [FDA: fluvoxamine doesn’t treat COVID-19 — and here’s 27 pages why](https://www.theverge.com/2022/5/16/23076314/fda-fluvoxamine-rejection-covid-eua)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
