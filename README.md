@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s how many of you bother reading app changelogs](https://www.androidauthority.com/app-changelogs-poll-results-3165213/)
- - [Knock-on effects of the TerraUSD/Luna collapse will be felt across the crypto industry and may chill VCs&#39; enthusiasm for investing in crypto startups &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220516/p2#a220516p2)
- - [Why Ron Gilbert is Going Back to Monkey Island     - CNET](https://www.cnet.com/tech/gaming/why-ron-gilbert-is-going-back-to-monkey-island/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ecobee Premium thermostat leaks with built-in Siri and Alexa support](https://www.theverge.com/2022/5/16/23074617/ecobee-enhanced-premium-smart-thermostats-leak)
+ - [Uber Eats to launch two autonomous delivery pilots in Los Angeles with robotic sidewalk delivery startup Serve Robotics and autonomous tech startup Motional &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220516/p3#a220516p3)
+ - [We asked, you told us: Here’s how many of you bother reading app changelogs](https://www.androidauthority.com/app-changelogs-poll-results-3165213/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
