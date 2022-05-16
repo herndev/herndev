@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Guys goes free in June](https://www.pcgamer.com/fall-guys-free-to-play)
- - [Fall Guys is going free-to-play](https://www.polygon.com/23075037/fall-guys-nintendo-switch-xbox-free-to-play)
- - [Philips Momentum 279M1RV 4K gaming monitor review](https://www.pcgamer.com/philips-momentum-279m1rv-4k-gaming-monitor-review)<!-- GAME:END -->
+ - [The MCU keeps doing its women dirty](https://www.polygon.com/23071667/mcu-women-deaths-wanda-maximoff-black-widow-gamora)
+ - [Good news everyone: Genshin Impact’s Heizou wears a fancy muscle tee](https://www.polygon.com/23075151/genshin-impact-shikanoin-heizou-design-hoyoverse)
+ - [Attack of the Clones is underrated — and it’s crucial to the current state of Star Wars](https://www.polygon.com/22875571/attack-of-the-clones-star-wars-obi-wan-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
