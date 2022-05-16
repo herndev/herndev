@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MythForce: Video games’ love letter to 1980s cartoons says the sweetest things](https://www.polygon.com/23065732/mythforce-1980s-cartoon-video-game-concept-art-studio)
- - [Square Enix made $394 million profit last year, and continues to bang on about the blockchain](https://www.pcgamer.com/square-enix-made-dollar394-million-profit-last-year-and-continues-to-bang-on-about-the-blockchain)
- - [Predator prequel Prey shows the right amount of Predator in its first teaser trailer](https://www.polygon.com/23074830/prey-trailer-predator-hulu-release-date-dan-trachtenberg)<!-- GAME:END -->
+ - [Biden On Buffalo Shooting: &#39;Hate That Remains A Stain&#39; On Nation’s Soul](https://kotaku.com/buffalo-shooting-biden-hochul-response-social-media-1848930806)
+ - [Pixar’s next movie, Elemental, is a melting pot story](https://www.polygon.com/23074896/pixar-new-movie-elemental-release-date)
+ - [A month later, Final Fantasy 14’s housing lottery is back online](https://www.polygon.com/23074860/final-fantasy-14-lottery-housing-fixed-dates-ff14)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
