@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Cinematic Universe Phase 4: The Full List of Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
- - [More People Should Watch the Best TV Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-tv-show-on-hbo-max/#ftag=CAD590a51e)
- - [&#39;Senior Year&#39; Review: Netflix&#39;s Best Bad Movie     - CNET](https://www.cnet.com/culture/entertainment/senior-year-review-netflixs-best-bad-movie/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The Best Fantasy TV Shows You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-fantasy-tv-shows-you-need-to-watch/#ftag=CAD590a51e)
+ - [Tel Aviv-based Komodor, which helps companies troubleshoot Kubernetes issues, raises a $42M Series B led by Tiger Global, bringing its total funding to $67M &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220515/p10#a220515p10)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-movies-to-see-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
