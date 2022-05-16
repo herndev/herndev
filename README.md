@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the most badass scenes in cinema history, this is the birth of the antihero.](http://9gag.com/gag/a11wNmv)
- - ⏩ [This lady retiring after 42 years in nursing.](http://9gag.com/gag/ajgy1A8)
- - 👉 [An innocent gamer](http://9gag.com/gag/angVRb5)<!-- MEMES:END -->
+ - 💣 [So, some total Chad completed Copenhagen Marathon yesterday while balancing a pineapple on his head](http://9gag.com/gag/aNP3vV6)
+ - ⏩ [Chad Questionee](http://9gag.com/gag/a31nAn8)
+ - 👉 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)<!-- MEMES:END -->
 
 ---
 
