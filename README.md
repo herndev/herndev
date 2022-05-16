@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)
- - ⏩ [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
- - 👉 [In my childhood, owning this was the highest possible status symbol](http://9gag.com/gag/aZrv8OQ)<!-- MEMES:END -->
+ - 💣 [Chad Questionee](http://9gag.com/gag/a31nAn8)
+ - ⏩ [I&#39;m not even mad at him, That woman is fire](http://9gag.com/gag/angVn3n)
+ - 👉 [Novy Okkervil, Sankt Petersburg. A population of over 20&#39;000 lives in this massive, single construction.](http://9gag.com/gag/aYrmOn2)<!-- MEMES:END -->
 
 ---
 
