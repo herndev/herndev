@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A truck driver\u2019s bedtime routine](http://9gag.com/gag/abgEeAv)
- - ⏩ [Your door dash order has been successfully delivered](http://9gag.com/gag/apg8REB)
- - 👉 [So, what&#39;s your talent?](http://9gag.com/gag/a21GKDE)<!-- MEMES:END -->
+ - 💣 [So, what&#39;s your talent?](http://9gag.com/gag/a21GKDE)
+ - ⏩ [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)
+ - 👉 [I don\u2019t know who can be :/](http://9gag.com/gag/ajgyPBw)<!-- MEMES:END -->
 
 ---
 
