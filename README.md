@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #331: Monday, May 16](https://www.pcgamer.com/wordle-may-16-331-delve-meaning-definition)
  - [Nvidia&#39;s RTX 40 series is set to launch as soon as July](https://www.pcgamer.com/nvidias-rtx-40-series-is-set-to-launch-as-soon-as-july)
- - [Cyberpunk games that are better than Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-games-on-pc)
- - [The Best Lord Of The Rings Video Games](https://kotaku.com/the-best-lord-of-the-rings-video-games-1820380737)<!-- GAME:END -->
+ - [Cyberpunk games that are better than Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-games-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
