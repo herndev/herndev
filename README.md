@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s Geeked Week ‘22 trailer reveals even more of The Sandman’s gods and monsters](https://www.theverge.com/23071727/netflix-geeked-2022-trailer-sandman-lucifer)
- - [Sonos&#39; Ray soundbar, Leviton Decora, Aqara smart lock and more on HomeKit Insider](https://appleinsider.com/articles/22/05/16/sonos-ray-soundbar-leviton-decora-aqara-smart-lock-and-more-on-homekit-insider?utm_medium=rss)
- - [Black Mirror’s coming back for a sixth series](https://www.theverge.com/2022/5/16/23074786/black-mirror-season-six-netflix-charlie-brooker)<!-- TECH:END -->
+ - [Pixar’s Elemental is releasing in June 2023](https://www.theverge.com/2022/5/16/23074944/pixar-elemental-release-date-concept-art)
+ - [Deals: Apple&#39;s 1TB 14-inch MacBook Pro &lpar;16-core GPU&rpar; is $200 off, in stock](https://appleinsider.com/articles/22/05/16/deals-apples-1tb-14-inch-macbook-pro-16-core-gpu-is-200-off-in-stock?utm_medium=rss)
+ - [Everything we know about the &#39;Apple Watch Series 8&#39; and what it may look like](https://appleinsider.com/articles/22/01/17/everything-we-know-about-the-apple-watch-series-8-and-what-it-may-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
