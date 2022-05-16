@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t talk about fight club if you can&#39;t remember fight club](http://9gag.com/gag/angVndL)
- - ⏩ [How college admissions work](http://9gag.com/gag/a71Aeer)
- - 👉 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)<!-- MEMES:END -->
+ - 💣 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)
+ - ⏩ [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
+ - 👉 [In my childhood, owning this was the highest possible status symbol](http://9gag.com/gag/aZrv8OQ)<!-- MEMES:END -->
 
 ---
 
