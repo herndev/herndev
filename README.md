@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slow Internet? Here’s How to Run a Wi-Fi Speed Check](https://www.wired.com/story/how-to-test-wifi-speed)
- - [Don&#39;t Just Tour That Home Online. By All Means Judge It     - CNET](https://www.cnet.com/news/social-media/dont-just-tour-that-home-online-by-all-means-judge-it/#ftag=CAD590a51e)
- - [The Google Pixel Watch needs a good chip, but which?](https://www.theverge.com/2022/5/16/23070725/google-pixel-watch-smartwatch-wear-os-processor-chip)<!-- TECH:END -->
+ - [Sony’s new PlayStation Plus subscriptions launch June 13th, and here’s the list of games](https://www.theverge.com/2022/5/16/23074725/playstation-plus-premium-extra-launch-date-games)
+ - [Israel-based Optibus, which develops SaaS tools to optimize public transport using AI, raises a $100M Series D from Insight and others at a $1.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220516/p12#a220516p12)
+ - [Spotify confirms it is running a test that lets select artists use NFTs on their profiles &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/220516/p11#a220516p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
