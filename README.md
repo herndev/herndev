@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar’s Elemental is releasing in June 2023](https://www.theverge.com/2022/5/16/23074944/pixar-elemental-release-date-concept-art)
- - [Deals: Apple&#39;s 1TB 14-inch MacBook Pro &lpar;16-core GPU&rpar; is $200 off, in stock](https://appleinsider.com/articles/22/05/16/deals-apples-1tb-14-inch-macbook-pro-16-core-gpu-is-200-off-in-stock?utm_medium=rss)
- - [Everything we know about the &#39;Apple Watch Series 8&#39; and what it may look like](https://appleinsider.com/articles/22/01/17/everything-we-know-about-the-apple-watch-series-8-and-what-it-may-look-like?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Podcasts gaining new features for producers, listeners](https://appleinsider.com/articles/22/05/16/apple-podcasts-gaining-new-features-for-producers-listeners?utm_medium=rss)
+ - [Spotify experiments with musician NFT galleries](https://www.theverge.com/2022/5/16/23074909/spotify-experiments-musician-nft-galleries)
+ - [What’s the Deal With Synesthesia TikTok?](https://www.wired.com/story/synesthesia-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
