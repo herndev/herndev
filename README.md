@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony reveals game lineup and launch dates for PlayStation Plus relaunch](https://www.polygon.com/23074740/ps-plus-extra-deluxe-premium-ps2-ps3-psp-games-list)
- - [Elon Musk accuses Twitter algorithm of manipulation as U-turn speculation mounts](https://www.pcgamer.com/elon-musk-accuses-twitter-algorithm-of-manipulation-as-u-turn-speculation-mounts)
- - [Hulu’s Conversations with Friends is, unfortunately, the new Normal People](https://www.polygon.com/reviews/23071037/conversations-with-friends-hulu-review)<!-- GAME:END -->
+ - [MythForce: Video games’ love letter to 1980s cartoons says the sweetest things](https://www.polygon.com/23065732/mythforce-1980s-cartoon-video-game-concept-art-studio)
+ - [Square Enix made $394 million profit last year, and continues to bang on about the blockchain](https://www.pcgamer.com/square-enix-made-dollar394-million-profit-last-year-and-continues-to-bang-on-about-the-blockchain)
+ - [Predator prequel Prey shows the right amount of Predator in its first teaser trailer](https://www.polygon.com/23074830/prey-trailer-predator-hulu-release-date-dan-trachtenberg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
