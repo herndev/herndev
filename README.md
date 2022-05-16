@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
- - [All-new PlayStation Plus game lineup: Assassin’s Creed Valhalla,  Demon’s Souls, Ghost of Tsushima Director’s Cut, NBA 2K22, and more join the service](https://blog.playstation.com/2022/05/16/all-new-playstation-plus-game-lineup-assassins-creed-valhalla-demons-souls-ghost-of-tsushima-directors-cut-nba-2k22-and-more-join-the-service/)
- - [Silicon Power XS70 2TB NVMe SSD review](https://www.pcgamer.com/silicon-power-xs70-2tb-nvme-ssd-review)<!-- GAME:END -->
+ - [Sony reveals game lineup and launch dates for PlayStation Plus relaunch](https://www.polygon.com/23074740/ps-plus-extra-deluxe-premium-ps2-ps3-psp-games-list)
+ - [Elon Musk accuses Twitter algorithm of manipulation as U-turn speculation mounts](https://www.pcgamer.com/elon-musk-accuses-twitter-algorithm-of-manipulation-as-u-turn-speculation-mounts)
+ - [Hulu’s Conversations with Friends is, unfortunately, the new Normal People](https://www.polygon.com/reviews/23071037/conversations-with-friends-hulu-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
