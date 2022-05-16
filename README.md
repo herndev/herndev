@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony doesn’t want you to know that it’s donating $100K for reproductive rights](https://www.theverge.com/2022/5/16/23076730/sony-insomniac-100k-donation-womens-reproductive-rights-assistance-project-wrap)
- - [Metatheory, a blockchain game company whose founders include Twitch cofounder Kevin Lin, raises a $24M Series A led by a16z &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220516/p26#a220516p26)
- - [FDA: fluvoxamine doesn’t treat COVID-19 — and here’s 27 pages why](https://www.theverge.com/2022/5/16/23076314/fda-fluvoxamine-rejection-covid-eua)<!-- TECH:END -->
+ - [On Buffalo, Elon Musk’s silence is deafening](https://www.theverge.com/2022/5/16/23076428/buffalo-shooting-video-elon-musk-twitter-content-moderation)
+ - [Google hires former FDA digital health leader](https://www.theverge.com/2022/5/16/23077337/google-fda-digital-health-leader-bakul-patel)
+ - [Our 14 favorite gadgets and hacks for working at home](https://www.theverge.com/22252470/work-from-home-remote-gadgets-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
