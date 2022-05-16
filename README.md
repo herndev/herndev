@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right..](http://9gag.com/gag/aKmp8Dj)
- - ⏩ [A legendary Classic](http://9gag.com/gag/aegWmjB)
- - 👉 [Another one sigma male](http://9gag.com/gag/adgbxPN)<!-- MEMES:END -->
+ - 💣 [Another one sigma male](http://9gag.com/gag/adgbxPN)
+ - ⏩ [Ladies and Gentlemen.. They got her!](http://9gag.com/gag/a91B2vj)
+ - 👉 [A legendary Classic](http://9gag.com/gag/aegWmjB)<!-- MEMES:END -->
 
 ---
 
