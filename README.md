@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, some total Chad completed Copenhagen Marathon yesterday while balancing a pineapple on his head](http://9gag.com/gag/aNP3vV6)
- - ⏩ [Chad Questionee](http://9gag.com/gag/a31nAn8)
- - 👉 [Lots of chest and cleavages.](http://9gag.com/gag/amgn13X)<!-- MEMES:END -->
+ - 💣 [Testing the strength of a 1:6 scale RC tank &lpar;Armortek Panther G&rpar;](http://9gag.com/gag/aGzbno6)
+ - ⏩ [What are your thoughts, of what&#39;s happening there, I stopped believing it&#39;s about the vi_rus](http://9gag.com/gag/aDDM627)
+ - 👉 [Tower of London &lpar;London, United Kingdom&rpar;. Mega evolution of the site](http://9gag.com/gag/abgEOAX)<!-- MEMES:END -->
 
 ---
 
