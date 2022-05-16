@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases macOS Monterey 12.4 to the public](https://appleinsider.com/articles/22/05/16/apple-releases-macos-monterey-124-to-the-public?utm_medium=rss)
- - [Apple releases iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5 with bug fixes](https://appleinsider.com/articles/22/05/16/apple-releases-ios-155-ipados-155-watchos-86-tvos-155-with-bug-fixes?utm_medium=rss)
- - [Construction robotics startup Dusty raises a $45M Series B led by Scale at a $250M valuation and says it has deals with construction firms DPR, PARIC, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220516/p19#a220516p19)<!-- TECH:END -->
+ - [Silent Hill is reportedly coming back with multiple new games](https://www.theverge.com/2022/5/16/23075106/silent-hill-leaked-screenshots-konami)
+ - [UAG&#39;s Rugged Bluetooth Keyboard for iPad can survive an 8-foot drop](https://appleinsider.com/articles/22/05/16/uags-rugged-bluetooth-keyboard-for-ipad-can-survive-an-8-foot-drop?utm_medium=rss)
+ - [Fall Guys is going free-to-play and coming to Nintendo Switch and Xbox on June 21st](https://www.theverge.com/2022/5/16/23074802/fall-guys-free-to-play-xbox-switch-ps5-epic-games-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
