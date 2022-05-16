@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Here’s how many of you bother reading app changelogs](https://www.androidauthority.com/app-changelogs-poll-results-3165213/)
  - [Knock-on effects of the TerraUSD/Luna collapse will be felt across the crypto industry and may chill VCs&#39; enthusiasm for investing in crypto startups &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220516/p2#a220516p2)
- - [Why Ron Gilbert is Going Back to Monkey Island     - CNET](https://www.cnet.com/tech/gaming/why-ron-gilbert-is-going-back-to-monkey-island/#ftag=CAD590a51e)
- - [Stable Android 12 update is now landing on the OnePlus Nord &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-android-12-3150730/)<!-- TECH:END -->
+ - [Why Ron Gilbert is Going Back to Monkey Island     - CNET](https://www.cnet.com/tech/gaming/why-ron-gilbert-is-going-back-to-monkey-island/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
