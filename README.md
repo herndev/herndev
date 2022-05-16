@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tells employees it will nearly double its global budget for merit-based salary increases, and up its range for annual stock-based compensation by 25%+ &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220516/p22#a220516p22)
- - [The Boys’ first season 3 trailer has Homelander doing damage control](https://www.theverge.com/2022/5/16/23075195/the-boys-season-3-trailer-soldier-boy-homelander)
- - [AAA tests assisted driving tech in a Hyundai Santa Fe, a Subaru Forester, and a Tesla Model 3 and finds significant risk of cyclist and oncoming car collisions &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/220516/p21#a220516p21)<!-- TECH:END -->
+ - [Elon Musk says a Twitter deal at a lower price wouldn&#39;t be &quot;out of the question&quot;, speaking to a Miami tech conference crowd; Twitter stock closes down 8%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p23#a220516p23)
+ - [Over half of US properties face at least some wildfire risk](https://www.theverge.com/2022/5/16/23075120/half-united-states-properties-wildfire-risk)
+ - [The MSI GS66 Stealth gaming laptop is cheaper than ever at Best Buy](https://www.theverge.com/good-deals/2022/5/16/23074837/msi-gs66-laptop-asus-zephyrus-m16-samsung-razer-chair-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
