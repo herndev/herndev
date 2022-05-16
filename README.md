@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Podcasts gaining new features for producers, listeners](https://appleinsider.com/articles/22/05/16/apple-podcasts-gaining-new-features-for-producers-listeners?utm_medium=rss)
- - [Spotify experiments with musician NFT galleries](https://www.theverge.com/2022/5/16/23074909/spotify-experiments-musician-nft-galleries)
- - [What’s the Deal With Synesthesia TikTok?](https://www.wired.com/story/synesthesia-tiktok)<!-- TECH:END -->
+ - [Apple releases macOS Monterey 12.4 to the public](https://appleinsider.com/articles/22/05/16/apple-releases-macos-monterey-124-to-the-public?utm_medium=rss)
+ - [Apple releases iOS 15.5, iPadOS 15.5, watchOS 8.6, tvOS 15.5 with bug fixes](https://appleinsider.com/articles/22/05/16/apple-releases-ios-155-ipados-155-watchos-86-tvos-155-with-bug-fixes?utm_medium=rss)
+ - [Construction robotics startup Dusty raises a $45M Series B led by Scale at a $250M valuation and says it has deals with construction firms DPR, PARIC, and more &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/220516/p19#a220516p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
