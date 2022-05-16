@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Live broadcasts and shared videos of mass shootings again raise questions about social networks&#39; responsibilities in curbing violent and hateful content &lpar;New York Times&rpar;](http://www.techmeme.com/220516/p1#a220516p1)
  - [iOS 16 Rumors: Release Date, Compatibility and Everything Else We&#39;ve Heard     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-rumors/#ftag=CAD590a51e)
- - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-first-time/#ftag=CAD590a51e)
- - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-fantasy-movies-to-watch-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Scientists Grow Plants in Moon Soil for the First Time     - CNET](https://www.cnet.com/science/space/scientists-grow-plants-in-moon-soil-for-first-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
