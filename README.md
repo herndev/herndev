@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Somehow, The N64 Can Do Portal](https://kotaku.com/portal-valve-n64-nintendo-demake-homebrew-indie-develop-1848929418)
- - [Strategy JRPG Brigandine: The Legend of Runersia is now on PC](https://www.pcgamer.com/strategy-jrpg-brigandine-the-legend-of-runersia-is-now-on-pc)
- - [Here&#39;s a demake of Portal... for the N64](https://www.pcgamer.com/heres-a-demake-of-portal-for-the-n64)<!-- GAME:END -->
+ - [The Best Lord Of The Rings Video Games](https://kotaku.com/the-best-lord-of-the-rings-video-games-1820380737)
+ - [Rumor: Gears of War series to get remasters in the vein of the Master Chief Collection](https://www.pcgamer.com/rumor-gears-of-war-series-to-get-remasters-in-the-vein-of-the-master-chief-collection)
+ - [Five new Steam games you probably missed &lpar;May 16, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-16-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
