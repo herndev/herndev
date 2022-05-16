@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [French Language](http://9gag.com/gag/aZrvEM0)
- - ⏩ [Me in my 30&#39;s](http://9gag.com/gag/aogDR5x)
- - 👉 [Keep yourself healthy guys](http://9gag.com/gag/aegWVvp)<!-- MEMES:END -->
+ - 💣 [Code brown it is](http://9gag.com/gag/aWg9vbn)
+ - ⏩ [I like his ring tone :&rpar;](http://9gag.com/gag/a81z0Od)
+ - 👉 [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)<!-- MEMES:END -->
 
 ---
 
