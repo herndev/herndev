@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new PlayStation Plus subscriptions launch June 13th, and here’s the list of games](https://www.theverge.com/2022/5/16/23074725/playstation-plus-premium-extra-launch-date-games)
- - [Israel-based Optibus, which develops SaaS tools to optimize public transport using AI, raises a $100M Series D from Insight and others at a $1.3B valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220516/p12#a220516p12)
- - [Spotify confirms it is running a test that lets select artists use NFTs on their profiles &lpar;Stuart Dredge/Music Ally&rpar;](http://www.techmeme.com/220516/p11#a220516p11)<!-- TECH:END -->
+ - [Netflix’s Geeked Week ‘22 trailer reveals even more of The Sandman’s gods and monsters](https://www.theverge.com/23071727/netflix-geeked-2022-trailer-sandman-lucifer)
+ - [Sonos&#39; Ray soundbar, Leviton Decora, Aqara smart lock and more on HomeKit Insider](https://appleinsider.com/articles/22/05/16/sonos-ray-soundbar-leviton-decora-aqara-smart-lock-and-more-on-homekit-insider?utm_medium=rss)
+ - [Black Mirror’s coming back for a sixth series](https://www.theverge.com/2022/5/16/23074786/black-mirror-season-six-netflix-charlie-brooker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
