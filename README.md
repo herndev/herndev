@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Somehow, The N64 Can Do Portal](https://kotaku.com/portal-valve-n64-nintendo-demake-homebrew-indie-develop-1848929418)
  - [Strategy JRPG Brigandine: The Legend of Runersia is now on PC](https://www.pcgamer.com/strategy-jrpg-brigandine-the-legend-of-runersia-is-now-on-pc)
- - [Here&#39;s a demake of Portal... for the N64](https://www.pcgamer.com/heres-a-demake-of-portal-for-the-n64)
- - [Build broken combos to gun down cosmic horrors in 20 Minutes Till Dawn](https://www.pcgamer.com/build-broken-combos-to-gun-down-cosmic-horrors-in-20-minutes-till-dawn)<!-- GAME:END -->
+ - [Here&#39;s a demake of Portal... for the N64](https://www.pcgamer.com/heres-a-demake-of-portal-for-the-n64)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
