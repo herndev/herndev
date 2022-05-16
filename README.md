@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [On Buffalo, Elon Musk’s silence is deafening](https://www.theverge.com/2022/5/16/23076428/buffalo-shooting-video-elon-musk-twitter-content-moderation)
- - [Google hires former FDA digital health leader](https://www.theverge.com/2022/5/16/23077337/google-fda-digital-health-leader-bakul-patel)
- - [Our 14 favorite gadgets and hacks for working at home](https://www.theverge.com/22252470/work-from-home-remote-gadgets-recommendations)<!-- TECH:END -->
+ - [Logs show that the alleged Buffalo shooter spoke explicitly in a private Discord server about plans to conduct and livestream an attack since at least December &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p27#a220516p27)
+ - [How to Order Your Free At-Home Covid-19 Tests](https://www.wired.com/story/how-to-get-free-covid-19-tests)
+ - [DJI may be working a new FPV drone that you can fly indoors](https://www.theverge.com/2022/5/16/23076686/dji-new-fpv-drone-fly-indoors-avata)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
