@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The \u201cMmmmm! That smells good! What\u2019s cooking?\u201d starter pack.](http://9gag.com/gag/aZrvne9)
- - ⏩ [I don\u2019t know who can be :/](http://9gag.com/gag/ajgyPBw)
- - 👉 [First time flying and I am amazed](http://9gag.com/gag/aXrePO2)<!-- MEMES:END -->
+ - 💣 [Godzilla is still cool](http://9gag.com/gag/amgn11V)
+ - ⏩ [When you get older and realize that a magical childhood is the result of your parent\u2019s effort](http://9gag.com/gag/aGzbybw)
+ - 👉 [The largest known Supermassive Black Hole compared to our solar system.](http://9gag.com/gag/aXreP4D)<!-- MEMES:END -->
 
 ---
 
