@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing the strength of a 1:6 scale RC tank &lpar;Armortek Panther G&rpar;](http://9gag.com/gag/aGzbno6)
- - ⏩ [What are your thoughts, of what&#39;s happening there, I stopped believing it&#39;s about the vi_rus](http://9gag.com/gag/aDDM627)
- - 👉 [Tower of London &lpar;London, United Kingdom&rpar;. Mega evolution of the site](http://9gag.com/gag/abgEOAX)<!-- MEMES:END -->
+ - 💣 [Me in my 30&#39;s](http://9gag.com/gag/aogDR5x)
+ - ⏩ [Pain](http://9gag.com/gag/aGzb8e6)
+ - 👉 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)<!-- MEMES:END -->
 
 ---
 
