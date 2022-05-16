@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyberpunk games that are better than Cyberpunk 2077](https://www.pcgamer.com/best-cyberpunk-games-on-pc)
  - [The Best Lord Of The Rings Video Games](https://kotaku.com/the-best-lord-of-the-rings-video-games-1820380737)
- - [Rumor: Gears of War series to get remasters in the vein of the Master Chief Collection](https://www.pcgamer.com/rumor-gears-of-war-series-to-get-remasters-in-the-vein-of-the-master-chief-collection)
- - [Five new Steam games you probably missed &lpar;May 16, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-16-2022)<!-- GAME:END -->
+ - [Rumor: Gears of War series to get remasters in the vein of the Master Chief Collection](https://www.pcgamer.com/rumor-gears-of-war-series-to-get-remasters-in-the-vein-of-the-master-chief-collection)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
