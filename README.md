@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NYC Funding $2 Million Bachelor’s Degree Program In Game Design](https://kotaku.com/new-york-city-nyc-eric-adams-bachelor-s-degree-game-dev-1848933337)
- - [Top Halo Pro Stops Playing In Protest Against Own Team](https://kotaku.com/halo-infinite-pro-tyler-spartan-ganza-eunited-benching-1848933234)
- - [A billionaire joins the space race in For All Mankind season 3 trailer](https://www.polygon.com/23075422/for-all-mankind-season-3-trailer-premiere-date)<!-- GAME:END -->
+ - [This modder added VR support to Resident Evil Village when Capcom refused](https://www.pcgamer.com/this-modder-added-vr-support-to-resident-evil-village-when-capcom-refused)
+ - [Take-Two CEO Acknowledges Frustrated Red Dead Online Players, But Offers Nothing Else](https://kotaku.com/red-dead-online-rockstar-take-two-updates-savereddeadon-1848933810)
+ - [MIT names nanoscience building after AMD CEO Dr. Lisa Su](https://www.pcgamer.com/mit-names-nanoscience-building-after-amd-ceo-dr-lisa-su)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
