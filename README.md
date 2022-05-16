@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Can&#39;t talk about fight club if you can&#39;t remember fight club](http://9gag.com/gag/angVndL)
- - ⏩ [I&#39;m with Thor](http://9gag.com/gag/azeQKQq)
+ - ⏩ [How college admissions work](http://9gag.com/gag/a71Aeer)
  - 👉 [When life play Uno reverse card](http://9gag.com/gag/aAGZKrd)<!-- MEMES:END -->
 
 ---
