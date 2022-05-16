@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Silent Hill is reportedly coming back with multiple new games](https://www.theverge.com/2022/5/16/23075106/silent-hill-leaked-screenshots-konami)
- - [UAG&#39;s Rugged Bluetooth Keyboard for iPad can survive an 8-foot drop](https://appleinsider.com/articles/22/05/16/uags-rugged-bluetooth-keyboard-for-ipad-can-survive-an-8-foot-drop?utm_medium=rss)
- - [Fall Guys is going free-to-play and coming to Nintendo Switch and Xbox on June 21st](https://www.theverge.com/2022/5/16/23074802/fall-guys-free-to-play-xbox-switch-ps5-epic-games-update)<!-- TECH:END -->
+ - [Microsoft tells employees it will nearly double its global budget for merit-based salary increases, and up its range for annual stock-based compensation by 25%+ &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220516/p22#a220516p22)
+ - [The Boys’ first season 3 trailer has Homelander doing damage control](https://www.theverge.com/2022/5/16/23075195/the-boys-season-3-trailer-soldier-boy-homelander)
+ - [AAA tests assisted driving tech in a Hyundai Santa Fe, a Subaru Forester, and a Tesla Model 3 and finds significant risk of cyclist and oncoming car collisions &lpar;Brandon Vigliarolo/The Register&rpar;](http://www.techmeme.com/220516/p21#a220516p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
