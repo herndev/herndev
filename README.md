@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fearing of cancel-culture is becoming problematic](http://9gag.com/gag/arnz8KB)
- - ⏩ [A German delicacy](http://9gag.com/gag/amgnRG9)
- - 👉 [After 12 years of playing on a budget guitar I bought for 70$ as a teenager, I was finally able to afford an upgrade. And not just any upgrade, but Ibanez Iceman that I always wanted since I first started playing. Don&#39;t give up on dreams guys :&rpar;](http://9gag.com/gag/aVxBBww)<!-- MEMES:END -->
+ - 💣 [Real men drive forklifts...](http://9gag.com/gag/adgbdYV)
+ - ⏩ [Docking with the space station](http://9gag.com/gag/aZrvdM9)
+ - 👉 [This is the way.](http://9gag.com/gag/avAmmPX)<!-- MEMES:END -->
 
 ---
 
