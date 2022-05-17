@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple accused of anti-union tactics at Cumberland Mall retail location](https://appleinsider.com/articles/22/05/17/apple-accused-of-anti-union-tactics-at-cumberland-mall-retail-location?utm_medium=rss)
- - [Stargazing in the UK is the best it’s been in over a decade](https://www.theverge.com/2022/5/17/23093996/uk-night-sky-stargazing-light-pollution)
- - [New season of &#39;Home&#39; to stream on Apple TV+ from June 17](https://appleinsider.com/articles/22/05/17/new-season-of-home-to-stream-on-apple-tv-from-june-17?utm_medium=rss)<!-- TECH:END -->
+ - [Researchers devise a BLE relay attack that lets a hacker unlock and operate a Tesla outside its BLE range; Tesla said in April that it was a &quot;known limitation&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220517/p26#a220517p26)
+ - [Report details the challenges Apple&#39;s mixed reality headset has faced over the years, including initial pushback from Jony Ive on a VR headset concept &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/220517/p25#a220517p25)
+ - [Apple partially postpones return to office plan, cites COVID spike](https://appleinsider.com/articles/22/05/17/apple-partially-postpones-return-to-office-plan-cites-covid-spike?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
