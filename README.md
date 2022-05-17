@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scavengers studio sold to Dead by Daylight dev](https://www.pcgamer.com/scavengers-studio-sold-to-dead-by-daylight-dev)
- - [Thermaltake&#39;s new gaming chair is giving us peak Porsche marketing](https://www.pcgamer.com/thermaltakes-new-gaming-chair-is-giving-us-peak-porsche-marketing)
- - [Today&#39;s Wordle answer #332: Tuesday, May 17](https://www.pcgamer.com/wordle-may-17-332)<!-- GAME:END -->
+ - [What Wordle answers have been used?](https://www.pcgamer.com/wordle-past-word-archive)
+ - [The best Elden Ring bleed builds](https://www.pcgamer.com/best-elden-ring-bleed-builds)
+ - [Indie darling Cave Story is now a roguelike](https://www.pcgamer.com/indie-darling-cave-story-is-now-a-roguelike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
