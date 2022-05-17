@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Patent Sounds Cool For People Buying Games On Disc](https://kotaku.com/xbox-series-x-one-360-microsoft-patent-application-disc-1848934404)
- - [Anya punched her bully in Spy x Family and set the internet on fire](https://www.polygon.com/23077170/anya-forger-spy-x-family-meme-crunchyroll)
- - [Kerbal Space Program 2 is now delayed to 2023](https://www.pcgamer.com/kerbal-space-program-2-is-now-delayed-to-2023)<!-- GAME:END -->
+ - [Nvidia&#39;s moved most of the code to firmware before releasing Open-Source Linux drivers](https://www.pcgamer.com/nvidias-moved-most-of-the-code-to-firmware-before-releasing-open-source-linux-drivers)
+ - [Please Enjoy These 19 Little Spaceships](https://kotaku.com/spaceship-drawings-illustration-art-design-kotaku-mark-1848934773)
+ - [Discord&#39;s new Party Mode may take a slice of your CPU](https://www.pcgamer.com/discords-new-party-mode-may-take-a-slice-of-your-cpu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
