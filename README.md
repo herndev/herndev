@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PS5 console covers will be available in three new galactic colors in June](https://www.theverge.com/2022/5/17/23099616/sony-ps5-console-covers-blue-purple-pink-june-17)
- - [Noctua stuck its big brown desktop PC fans on an RTX 3080](https://www.theverge.com/2022/5/17/23078107/noctua-asus-rtx-3080-graphics-card-quiet)
- - [The Fight for Abortion Rights Is a Battle Over History](https://www.wired.com/story/abortion-rights-us-history)<!-- TECH:END -->
+ - [Compared: AirPods Max versus Sony WH-1000XM5](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-versus-sony-wh-1000xm5?utm_medium=rss)
+ - [As the Overwatch 2 beta ends, a new Overwatch remix event begins](https://www.theverge.com/2022/5/17/23101045/blizzard-overwatch-2-beta-remix-event-anniversary)
+ - [Apple slows return to office plan, will let employees stay remote and require masks in common spaces](https://www.theverge.com/2022/5/17/23100696/apple-delay-hybrid-office-return-work-from-home-covid-19-masks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
