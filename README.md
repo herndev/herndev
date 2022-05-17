@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are family](http://9gag.com/gag/aVxB2Bv)
- - ⏩ [Asian Arowana aka Dragonfish will set you back $300,000.00](http://9gag.com/gag/a21G2bD)
+ - 💣 [Uno reverse card](http://9gag.com/gag/angVDL0)
+ - ⏩ [The Barnacle](http://9gag.com/gag/azeQZMZ)
  - 👉 [He tries to play off the aftermath](http://9gag.com/gag/aPZnXbV)<!-- MEMES:END -->
 
 ---
