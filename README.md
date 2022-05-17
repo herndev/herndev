@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new Magic: The Gathering set takes up residence in Baldur&#39;s Gate](https://www.pcgamer.com/the-new-magic-the-gathering-set-takes-up-residence-in-baldurs-gate)
- - [Arma Reforger is a $30 appetizer for Arma 4, and it&#39;s out today](https://www.pcgamer.com/arma-reforger-is-a-dollar30-appetizer-for-arma-4-and-its-out-today)
- - [Little Witch in the Woods &lpar;Game Preview&rpar; Available Today](https://news.xbox.com/en-us/2022/05/17/little-witch-in-the-woods-game-preview-available-today/)<!-- GAME:END -->
+ - [Dead by Daylight: Designing The Dredge](https://blog.playstation.com/2022/05/17/dead-by-daylight-designing-the-dredge/)
+ - [Dead by Daylight: Designing The Dredge](https://blog.playstation.com/2022/05/17/dead-by-daylight-designing-the-dredge/)
+ - [Umurangi Generation Special Edition Available Today with Game Pass](https://news.xbox.com/en-us/2022/05/17/umurangi-generation-special-edition-available-today-with-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
