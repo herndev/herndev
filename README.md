@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Wordle answers have been used?](https://www.pcgamer.com/wordle-past-word-archive)
- - [The best Elden Ring bleed builds](https://www.pcgamer.com/best-elden-ring-bleed-builds)
- - [Indie darling Cave Story is now a roguelike](https://www.pcgamer.com/indie-darling-cave-story-is-now-a-roguelike)<!-- GAME:END -->
+ - [Team Fortress 2 Players Beg Valve To Acknowledge The Game’s Bot Problem](https://kotaku.com/tf2-team-fortress-2-valve-bots-free-online-multiplayer-1848933881)
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Coming Soon to Xbox Game Pass: Jurassic World Evolution 2, Sniper Elite 5, and More](https://news.xbox.com/en-us/2022/05/17/game-pass-may-2022-wave-2-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
