@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk threatens to walk away from Twitter deal over high fake user count](https://appleinsider.com/articles/22/05/17/musk-threatens-to-walk-away-from-twitter-deal-over-high-fake-user-count?utm_medium=rss)
- - [Fitbit Luxe 2: Everything we know and what we want to see](https://www.androidauthority.com/fitbit-luxe-2-3164153/)
- - [The RedMagic 7 Pro Is a Gaming Powerhouse](https://www.wired.com/review/nubia-redmagic-7-pro)<!-- TECH:END -->
+ - [Apple announces door detection, live captions, and more accessibility features](https://appleinsider.com/articles/22/05/17/apple-announces-door-detection-live-captions-and-more-accessibility-features?utm_medium=rss)
+ - [How to move your data to a new Android phone](https://www.theverge.com/23067518/android-google-move-data-new-phone-how-to)
+ - [Apple announces several accessibility features, including Watch improvements and a live captioning tool for iOS, iPadOS, and macOS, rolling out later in 2022 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220517/p17#a220517p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
