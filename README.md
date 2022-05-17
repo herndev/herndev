@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple announces door detection, live captions, and more accessibility features](https://appleinsider.com/articles/22/05/17/apple-announces-door-detection-live-captions-and-more-accessibility-features?utm_medium=rss)
- - [How to move your data to a new Android phone](https://www.theverge.com/23067518/android-google-move-data-new-phone-how-to)
- - [Apple announces several accessibility features, including Watch improvements and a live captioning tool for iOS, iPadOS, and macOS, rolling out later in 2022 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220517/p17#a220517p17)<!-- TECH:END -->
+ - [Access governance service Pathlock raises $200M led by Vertica and merges with data security company Appsian and SAP compliance tool Security Weaver &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220517/p20#a220517p20)
+ - [Ode to the Apple iPod: The golden era of portable music](https://www.androidauthority.com/apple-ipod-3165285/)
+ - [The Internet Origin Story You Know Is Wrong](https://www.wired.com/story/internet-origin-story-bbs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
