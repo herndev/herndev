@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swift Playgrounds update adds App Store Connect integration for macOS users](https://appleinsider.com/articles/22/05/17/swift-playgrounds-update-adds-app-store-connect-integration-for-macos-users?utm_medium=rss)
- - [Enjoy Technology, which runs mobile retail stores for companies like AT&amp;T and went public last fall, says it lacks the cash to fund itself beyond next month &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220517/p30#a220517p30)
- - [Sony LinkBuds S rumored to be the ‘smallest and lightest’ ANC earbuds](https://www.theverge.com/2022/5/17/23092889/sony-linkbuds-s-leak-smallest-lightest-anc-earbuds)<!-- TECH:END -->
+ - [PS5 console covers will be available in three new galactic colors in June](https://www.theverge.com/2022/5/17/23099616/sony-ps5-console-covers-blue-purple-pink-june-17)
+ - [Noctua stuck its big brown desktop PC fans on an RTX 3080](https://www.theverge.com/2022/5/17/23078107/noctua-asus-rtx-3080-graphics-card-quiet)
+ - [The Fight for Abortion Rights Is a Battle Over History](https://www.wired.com/story/abortion-rights-us-history)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
