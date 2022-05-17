@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie boss says Sony acquisition won&#39;t &#39;muzzle&#39; the studio&#39;s political opinions](https://www.pcgamer.com/bungie-boss-says-sony-acquisition-wont-muzzle-the-studios-political-opinions)
- - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)
- - [PUBG Mobile’s Neon Genesis Evangelion Crossover Is Plain Weird](https://kotaku.com/pubg-mobile-playerunknown-s-battlegrounds-evangelion-cr-1848938533)<!-- GAME:END -->
+ - [Blizzard&#39;s next Overwatch 2 event will take place in June](https://www.pcgamer.com/blizzards-next-overwatch-2-event-will-take-place-in-june)
+ - [Best gaming motherboards in 2022](https://www.pcgamer.com/best-gaming-motherboards)
+ - [Bungie boss says Sony acquisition won&#39;t &#39;muzzle&#39; the studio&#39;s political opinions](https://www.pcgamer.com/bungie-boss-says-sony-acquisition-wont-muzzle-the-studios-political-opinions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
