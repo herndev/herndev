@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The defunct LG Wing is getting Verizon C-band, because 5G in this country is silly](https://www.theverge.com/2022/5/17/23097651/lg-wing-verizon-5g-c-band)
- - [Google Cloud launches new software supply chain and zero trust tools, including one giving government and enterprise users access to vetted open-source packages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220517/p34#a220517p34)
- - [Amazon Freevee: Everything you need to know about the free streaming service](https://www.androidauthority.com/amazon-freevee-3163323/)<!-- TECH:END -->
+ - [The US Has a Plan to Document Human Rights Violations in Ukraine](https://www.wired.com/story/conflict-observatory-ukraine-russia-war-crimes)
+ - [Google Opens Self-Designed, All-Electric Campus in California     - CNET](https://www.cnet.com/tech/google-opens-self-designed-all-electric-campus-in-california/#ftag=CAD590a51e)
+ - [She-Hulk: Attorney at Law’s first trailer looks simply smashing](https://www.theverge.com/2022/5/17/23104195/she-hulk-first-trailer-disney-plus-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
