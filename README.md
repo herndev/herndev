@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Hemsworth runs a futuristic jail in Netflix’s Spiderhead](https://www.polygon.com/23095601/spiderhead-netflix-trailer-release-date-chris-hemsworth)
- - [Microsoft Flight Simulator Releases World Update IX: Italy and Malta Today](https://news.xbox.com/en-us/2022/05/17/microsoft-flight-simulator-releases-world-update-9/)
- - [Activision Blizzard’s Diversity Tool Has A Long, Even More Embarrassing History](https://kotaku.com/activison-blizzard-king-diversity-space-tool-super-mari-1848936056)<!-- GAME:END -->
+ - [League of Legends’ next Void champion gets a terrifying teaser](https://www.polygon.com/23097188/league-of-legends-void-empress-teaser-kai-sa-butterfly-vel-koz)
+ - [Nu metal gods Slipknot join the Smite pantheon](https://www.polygon.com/23067147/slipknot-smite-skins-crossover-poseidon-chaac-raijin)
+ - [Chivalry 2 gallops onto Steam this June with new maps and mounted combat](https://www.pcgamer.com/chivalry-2-steam-release-date-tenosian-invasion-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
