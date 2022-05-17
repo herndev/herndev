@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ next Void champion gets a terrifying teaser](https://www.polygon.com/23097188/league-of-legends-void-empress-teaser-kai-sa-butterfly-vel-koz)
- - [Nu metal gods Slipknot join the Smite pantheon](https://www.polygon.com/23067147/slipknot-smite-skins-crossover-poseidon-chaac-raijin)
- - [Chivalry 2 gallops onto Steam this June with new maps and mounted combat](https://www.pcgamer.com/chivalry-2-steam-release-date-tenosian-invasion-update)<!-- GAME:END -->
+ - [The new Magic: The Gathering set takes up residence in Baldur&#39;s Gate](https://www.pcgamer.com/the-new-magic-the-gathering-set-takes-up-residence-in-baldurs-gate)
+ - [Arma Reforger is a $30 appetizer for Arma 4, and it&#39;s out today](https://www.pcgamer.com/arma-reforger-is-a-dollar30-appetizer-for-arma-4-and-its-out-today)
+ - [Little Witch in the Woods &lpar;Game Preview&rpar; Available Today](https://news.xbox.com/en-us/2022/05/17/little-witch-in-the-woods-game-preview-available-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
