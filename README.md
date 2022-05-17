@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another one sigma male](http://9gag.com/gag/adgbxPN)
- - ⏩ [Ladies and Gentlemen.. They got her!](http://9gag.com/gag/a91B2vj)
- - 👉 [A legendary Classic](http://9gag.com/gag/aegWmjB)<!-- MEMES:END -->
+ - 💣 [In 2017, a Reindeer Hunter found a perfectly preserved Viking sword in the mountains of Norway, which was just sticking out among the stones.](http://9gag.com/gag/aPZnenw)
+ - ⏩ [French Language](http://9gag.com/gag/aZrvEM0)
+ - 👉 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)<!-- MEMES:END -->
 
 ---
 
