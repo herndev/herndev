@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
- - ⏩ [Karma!](http://9gag.com/gag/a91BONj)
+ - ⏩ [The cross examination has begun, and it has been glorious. Miss Camille Vasquez has brought the fire.](http://9gag.com/gag/aVxBVrv)
  - 👉 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
 
 ---
