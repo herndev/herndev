@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are 2 kinds of people](http://9gag.com/gag/aVxBVYv)
- - ⏩ [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)
- - 👉 [He tries to play off the aftermath](http://9gag.com/gag/aPZnXbV)<!-- MEMES:END -->
+ - 💣 [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)
+ - ⏩ [Parking](http://9gag.com/gag/aDDMXjB)
+ - 👉 [Rock in the middle of the road](http://9gag.com/gag/apg8Yxb)<!-- MEMES:END -->
 
 ---
 
