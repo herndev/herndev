@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Fortress 2 Players Beg Valve To Acknowledge The Game’s Bot Problem](https://kotaku.com/tf2-team-fortress-2-valve-bots-free-online-multiplayer-1848933881)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Coming Soon to Xbox Game Pass: Jurassic World Evolution 2, Sniper Elite 5, and More](https://news.xbox.com/en-us/2022/05/17/game-pass-may-2022-wave-2-update/)<!-- GAME:END -->
+ - [Pixar’s Elemental characters remind fans of classic platformer Fireboy and Watergirl](https://www.polygon.com/23077283/pixar-elemental-waterboy-firegirl-sharkboy)
+ - [Star Wars’ next feature film will be from Taika Waititi after Rogue Squadron delays](https://www.polygon.com/star-wars/23093238/star-wars-taika-waititi-next-movie)
+ - [Jurassic World Evolution 2, Vampire Survivors lead Xbox Game Pass in May](https://www.polygon.com/23093216/jurassic-world-evolution-2-vampire-survivors-xbox-game-pass-may-2022-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
