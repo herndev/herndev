@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard&#39;s next Overwatch 2 event will take place in June](https://www.pcgamer.com/blizzards-next-overwatch-2-event-will-take-place-in-june)
- - [Best gaming motherboards in 2022](https://www.pcgamer.com/best-gaming-motherboards)
- - [Bungie boss says Sony acquisition won&#39;t &#39;muzzle&#39; the studio&#39;s political opinions](https://www.pcgamer.com/bungie-boss-says-sony-acquisition-wont-muzzle-the-studios-political-opinions)<!-- GAME:END -->
+ - [New She-Hulk trailer flexes muscles, jokes](https://www.polygon.com/23106501/she-hulk-trailer-release-date-cast)
+ - [Love Elden Ring But Miss Sekiro’s Grappling Hook? This May Be The Souls-Like For You](https://kotaku.com/salt-and-sacrifice-sekiro-grappling-hook-tool-ska-studi-1848936038)
+ - [Popular Yu-Gi-Oh card unbanned after 17 years](https://www.polygon.com/23104834/yu-gi-oh-card-unbanned-banned-card-list-forbidden-limited)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
