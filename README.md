@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In 2017, a Reindeer Hunter found a perfectly preserved Viking sword in the mountains of Norway, which was just sticking out among the stones.](http://9gag.com/gag/aPZnenw)
- - ⏩ [French Language](http://9gag.com/gag/aZrvEM0)
- - 👉 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)<!-- MEMES:END -->
+ - 💣 [Stunning Wisdom](http://9gag.com/gag/a91Bm3m)
+ - ⏩ [Metal Fans Are Aggressive And Worships The Devil. Metal Fans:](http://9gag.com/gag/aVxBZvv)
+ - 👉 [He said the quiet part out loud](http://9gag.com/gag/abgEBDp)<!-- MEMES:END -->
 
 ---
 
