@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers devise a BLE relay attack that lets a hacker unlock and operate a Tesla outside its BLE range; Tesla said in April that it was a &quot;known limitation&quot; &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220517/p26#a220517p26)
- - [Report details the challenges Apple&#39;s mixed reality headset has faced over the years, including initial pushback from Jony Ive on a VR headset concept &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/220517/p25#a220517p25)
- - [Apple partially postpones return to office plan, cites COVID spike](https://appleinsider.com/articles/22/05/17/apple-partially-postpones-return-to-office-plan-cites-covid-spike?utm_medium=rss)<!-- TECH:END -->
+ - [Swift Playgrounds update adds App Store Connect integration for macOS users](https://appleinsider.com/articles/22/05/17/swift-playgrounds-update-adds-app-store-connect-integration-for-macos-users?utm_medium=rss)
+ - [Enjoy Technology, which runs mobile retail stores for companies like AT&amp;T and went public last fall, says it lacks the cash to fund itself beyond next month &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220517/p30#a220517p30)
+ - [Sony LinkBuds S rumored to be the ‘smallest and lightest’ ANC earbuds](https://www.theverge.com/2022/5/17/23092889/sony-linkbuds-s-leak-smallest-lightest-anc-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
