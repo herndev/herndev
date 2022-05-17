@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Real men drive forklifts...](http://9gag.com/gag/adgbdYV)
- - ⏩ [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)
- - 👉 [JUST IN - #BLM founder Patrisse Cullors paid her baby father $970,000 for `creative services`, her brother $840,000 for `security services` from charity funds. - dailymail.co.uk](http://9gag.com/gag/apg8doW)<!-- MEMES:END -->
+ - 💣 [JUST IN - #BLM founder Patrisse Cullors paid her baby father $970,000 for `creative services`, her brother $840,000 for `security services` from charity funds. - dailymail.co.uk](http://9gag.com/gag/apg8doW)
+ - ⏩ [20s kids](http://9gag.com/gag/a21Gx9D)
+ - 👉 [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)<!-- MEMES:END -->
 
 ---
 
