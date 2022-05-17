@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple helps you download fewer podcasts](https://www.theverge.com/2022/5/17/23093633/apple-podcast-download-spotify-upfronts-siriusxm-wondery-amazon)
- - [How to create or delete a playlist on Apple Music](https://www.androidauthority.com/create-delete-playlist-apple-music-3166046/)
- - [Chris Hemsworth runs an unsettling futuristic prison in Spiderhead’s first trailer](https://www.theverge.com/2022/5/17/23094802/spiderhead-trailer-netflix-chris-hemsworth)<!-- TECH:END -->
+ - [Apple accused of anti-union tactics at Cumberland Mall retail location](https://appleinsider.com/articles/22/05/17/apple-accused-of-anti-union-tactics-at-cumberland-mall-retail-location?utm_medium=rss)
+ - [Stargazing in the UK is the best it’s been in over a decade](https://www.theverge.com/2022/5/17/23093996/uk-night-sky-stargazing-light-pollution)
+ - [New season of &#39;Home&#39; to stream on Apple TV+ from June 17](https://appleinsider.com/articles/22/05/17/new-season-of-home-to-stream-on-apple-tv-from-june-17?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
