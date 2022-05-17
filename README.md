@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the way.](http://9gag.com/gag/avAmmPX)
- - ⏩ [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
- - 👉 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
+ - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
+ - ⏩ [A German delicacy](http://9gag.com/gag/amgnRG9)
+ - 👉 [Fearing of cancel-culture is becoming problematic](http://9gag.com/gag/arnz8KB)<!-- MEMES:END -->
 
 ---
 
