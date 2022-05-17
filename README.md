@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s &#39;Doctor Strange 2&#39; Global Review: &#39;Vaguely Disappointing&#39;     - CNET](https://www.cnet.com/culture/entertainment/marvels-doctor-strange-2-global-review-vaguely-disappointing/#ftag=CAD590a51e)
- - [How add new backgrounds to Zoom](https://www.androidauthority.com/add-zoom-background-3165726/)
- - [Stranger Things Season 4: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: shareholders voted against Intel&#39;s compensation for its top executives; the vote is advisory and won&#39;t immediately affect the compensation of the execs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220516/p32#a220516p32)
+ - [Report: the real-time bidding industry exposes a person&#39;s online activity and location 747 times per day on average in the US and 376 times a day in Europe &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220516/p31#a220516p31)
+ - [California Law Requiring Women on Boards is Unconstitutional, Judge Rules     - CNET](https://www.cnet.com/tech/california-law-requiring-women-on-boards-is-unconstitutional-judge-rules/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
