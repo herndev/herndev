@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Survey: 44% of Americans think tech giants should be regulated more, down from 56% in April 2021, while 1 in 5 explicitly want less regulation, up from 1 in 10 &lpar;Emily A. Vogels/Pew Research Center&rpar;](http://www.techmeme.com/220517/p2#a220517p2)
  - [Regulatory filings show Tiger Global has sold its entire stake in Bumble, Airbnb, and Didi, and ~80% of its stake in Robinhood during 2022&#39;s tech stock sell-off &lpar;Financial Times&rpar;](http://www.techmeme.com/220517/p1#a220517p1)
- - [See Astronaut&#39;s Sublime Shot of Total Lunar Eclipse Dancing With the ISS     - CNET](https://www.cnet.com/science/space/see-astronauts-shot-of-total-lunar-eclipse-dancing-with-the-iss/#ftag=CAD590a51e)
- - [Terra&#39;s Plan to Revive Luna After Historic Crypto Crash     - CNET](https://www.cnet.com/personal-finance/crypto/terras-plan-to-revive-luna-after-historic-crypto-crash/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [See Astronaut&#39;s Sublime Shot of Total Lunar Eclipse Dancing With the ISS     - CNET](https://www.cnet.com/science/space/see-astronauts-shot-of-total-lunar-eclipse-dancing-with-the-iss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
