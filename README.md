@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [While you wait for Dark Souls to be fixed, here&#39;s a mod with 200+ community soapstone messages](https://www.pcgamer.com/while-you-wait-for-dark-souls-to-be-fixed-heres-a-mod-with-200-community-soapstone-messages)
  - [Sabrent make RAM now, launches with DDR5 sticks](https://www.pcgamer.com/sabrent-makes-ram-now-launches-with-ddr5-sticks)
- - [Excitement builds as new RTX 4090 specs emerge](https://www.pcgamer.com/excitement-builds-as-new-rtx-4090-specs-emerge)
- - [Nvidia&#39;s moved most of the code to firmware before releasing Open-Source Linux drivers](https://www.pcgamer.com/nvidias-moved-most-of-the-code-to-firmware-before-releasing-open-source-linux-drivers)<!-- GAME:END -->
+ - [Excitement builds as new RTX 4090 specs emerge](https://www.pcgamer.com/excitement-builds-as-new-rtx-4090-specs-emerge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
