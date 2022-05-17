@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logs show that the alleged Buffalo shooter spoke explicitly in a private Discord server about plans to conduct and livestream an attack since at least December &lpar;Bloomberg&rpar;](http://www.techmeme.com/220516/p27#a220516p27)
- - [How to Order Your Free At-Home Covid-19 Tests](https://www.wired.com/story/how-to-get-free-covid-19-tests)
- - [DJI may be working a new FPV drone that you can fly indoors](https://www.theverge.com/2022/5/16/23076686/dji-new-fpv-drone-fly-indoors-avata)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Doctor Strange 2&#39; Global Review: &#39;Vaguely Disappointing&#39;     - CNET](https://www.cnet.com/culture/entertainment/marvels-doctor-strange-2-global-review-vaguely-disappointing/#ftag=CAD590a51e)
+ - [How add new backgrounds to Zoom](https://www.androidauthority.com/add-zoom-background-3165726/)
+ - [Stranger Things Season 4: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
