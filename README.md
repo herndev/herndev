@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Your phone is covered by a long-term update pledge](https://www.androidauthority.com/phone-long-term-update-pledge-poll-results-3165842/)
- - [An in-depth look at OnlyFans agencies, which manage hundreds of models&#39; accounts and use teams of ghostwriters to chat with subscribers in private messages &lpar;Ezra Marcus/New York Times&rpar;](http://www.techmeme.com/220517/p6#a220517p6)
- - [Elon Musk says Twitter deal ‘cannot move forward’ until it proves bot numbers](https://www.theverge.com/2022/5/17/23085296/elon-musk-bots-twitter-20-percent-deal-acquisition)<!-- TECH:END -->
+ - [Future Apple Watch may move its battery to give haptic feedback](https://appleinsider.com/articles/21/01/28/future-apple-watch-may-move-its-battery-to-give-haptic-feedback?utm_medium=rss)
+ - [Cake Ösa electric motorbike review: hungry for more](https://www.theverge.com/23074615/cake-osa-review-electric-scooter-motorcycle-moped)
+ - [Coinbase says it will &quot;slow hiring and reassess our headcount needs&quot; during the market downturn, after initially planning to triple its workforce in 2022 &lpar;Ryan Weeks/The Block&rpar;](http://www.techmeme.com/220517/p8#a220517p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
