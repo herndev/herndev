@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead by Daylight: Designing The Dredge](https://blog.playstation.com/2022/05/17/dead-by-daylight-designing-the-dredge/)
- - [Dead by Daylight: Designing The Dredge](https://blog.playstation.com/2022/05/17/dead-by-daylight-designing-the-dredge/)
- - [Umurangi Generation Special Edition Available Today with Game Pass](https://news.xbox.com/en-us/2022/05/17/umurangi-generation-special-edition-available-today-with-game-pass/)<!-- GAME:END -->
+ - [The Sims 5: What we want from the inevitable sequel](https://www.pcgamer.com/the-sims-5-what-we-want)
+ - [Arma Reforger &lpar;Game Preview&rpar; Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/05/17/arma-reforger-game-preview-now-available-on-xbox-series-xs/)
+ - [Real Lego Figures Vs Skywalker Saga’s Digital Recreations](https://kotaku.com/lego-star-wars-skywalker-saga-comparison-real-minifigs-1848933248)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
