@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is laying off 150 employees, including dozens from its Tudum fansite](https://www.theverge.com/2022/5/17/23103131/netflix-layoffs-tudum-streaming-subscriber-loss-email)
- - [&#39;Morbius&#39; Post-Credits Scenes, Marvel Connections Explained     - CNET](https://www.cnet.com/culture/entertainment/morbius-post-credits-scenes-marvel-connections-explained/#ftag=CAD590a51e)
- - [Crazy person installs Wear OS on 2016 Galaxy Gear S3 because why the heck not?](https://www.androidauthority.com/wear-os-galaxy-gear-s3-3166238/)<!-- TECH:END -->
+ - [The defunct LG Wing is getting Verizon C-band, because 5G in this country is silly](https://www.theverge.com/2022/5/17/23097651/lg-wing-verizon-5g-c-band)
+ - [Google Cloud launches new software supply chain and zero trust tools, including one giving government and enterprise users access to vetted open-source packages &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220517/p34#a220517p34)
+ - [Amazon Freevee: Everything you need to know about the free streaming service](https://www.androidauthority.com/amazon-freevee-3163323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
