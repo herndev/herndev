@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uno reverse card](http://9gag.com/gag/angVDL0)
- - ⏩ [The Barnacle](http://9gag.com/gag/azeQZMZ)
+ - 💣 [There are 2 kinds of people](http://9gag.com/gag/aVxBVYv)
+ - ⏩ [The Ancient People used to have Horse-drawn Chariots; but now we&#39;ve got Motorcycle Chariot Racing.](http://9gag.com/gag/a11wEM8)
  - 👉 [He tries to play off the aftermath](http://9gag.com/gag/aPZnXbV)<!-- MEMES:END -->
 
 ---
