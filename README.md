@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter deal ‘cannot move forward’ until it proves bot numbers](https://www.theverge.com/2022/5/17/23085296/elon-musk-bots-twitter-20-percent-deal-acquisition)
- - [Elon Musk says the Twitter deal &quot;cannot move forward&quot; until Twitter proves bots are &lt;5% of users, claiming his offer is based on &quot;SEC filings being accurate&quot; &lpar;Edwin Chan/Bloomberg&rpar;](http://www.techmeme.com/220517/p5#a220517p5)
- - [Apple could be testing color e-ink displays for foldables](https://www.androidauthority.com/apple-color-e-ink-display-foldables-3165765/)<!-- TECH:END -->
+ - [We asked, you told us: Your phone is covered by a long-term update pledge](https://www.androidauthority.com/phone-long-term-update-pledge-poll-results-3165842/)
+ - [An in-depth look at OnlyFans agencies, which manage hundreds of models&#39; accounts and use teams of ghostwriters to chat with subscribers in private messages &lpar;Ezra Marcus/New York Times&rpar;](http://www.techmeme.com/220517/p6#a220517p6)
+ - [Elon Musk says Twitter deal ‘cannot move forward’ until it proves bot numbers](https://www.theverge.com/2022/5/17/23085296/elon-musk-bots-twitter-20-percent-deal-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
