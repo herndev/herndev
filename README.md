@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: AirPods Max versus Sony WH-1000XM5](https://appleinsider.com/inside/airpods-max/vs/compared-airpods-max-versus-sony-wh-1000xm5?utm_medium=rss)
- - [As the Overwatch 2 beta ends, a new Overwatch remix event begins](https://www.theverge.com/2022/5/17/23101045/blizzard-overwatch-2-beta-remix-event-anniversary)
- - [Apple slows return to office plan, will let employees stay remote and require masks in common spaces](https://www.theverge.com/2022/5/17/23100696/apple-delay-hybrid-office-return-work-from-home-covid-19-masks)<!-- TECH:END -->
+ - [Netflix is laying off 150 employees, including dozens from its Tudum fansite](https://www.theverge.com/2022/5/17/23103131/netflix-layoffs-tudum-streaming-subscriber-loss-email)
+ - [&#39;Morbius&#39; Post-Credits Scenes, Marvel Connections Explained     - CNET](https://www.cnet.com/culture/entertainment/morbius-post-credits-scenes-marvel-connections-explained/#ftag=CAD590a51e)
+ - [Crazy person installs Wear OS on 2016 Galaxy Gear S3 because why the heck not?](https://www.androidauthority.com/wear-os-galaxy-gear-s3-3166238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
