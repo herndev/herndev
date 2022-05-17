@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not only this](http://9gag.com/gag/aKmpOnZ)
- - ⏩ [A German delicacy](http://9gag.com/gag/amgnRG9)
- - 👉 [Smart Husband](http://9gag.com/gag/azeQ44p)<!-- MEMES:END -->
+ - 💣 [This is how much food you can get for the cost of a pack of cigarettes in Australia](http://9gag.com/gag/awzveDx)
+ - ⏩ [Karma!](http://9gag.com/gag/a91BONj)
+ - 👉 [A German delicacy](http://9gag.com/gag/amgnRG9)<!-- MEMES:END -->
 
 ---
 
