@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 44% of Americans think tech giants should be regulated more, down from 56% in April 2021, while 1 in 5 explicitly want less regulation, up from 1 in 10 &lpar;Emily A. Vogels/Pew Research Center&rpar;](http://www.techmeme.com/220517/p2#a220517p2)
- - [Regulatory filings show Tiger Global has sold its entire stake in Bumble, Airbnb, and Didi, and ~80% of its stake in Robinhood during 2022&#39;s tech stock sell-off &lpar;Financial Times&rpar;](http://www.techmeme.com/220517/p1#a220517p1)
- - [Please Don&#39;t Let Neil deGrasse Tyson Ruin Lunar Eclipses for You     - CNET](https://www.cnet.com/science/space/please-dont-let-neil-degrasse-tyson-ruin-lunar-eclipses-for-you/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple could be testing color e-ink displays for foldables](https://www.androidauthority.com/apple-color-e-ink-display-foldables-3165765/)
+ - [Tech that is designed for marginalized and vulnerable groups from the start is better, safer, more innovative, robust, and integrative of privacy &lpar;Afsaneh Rigot/Wired&rpar;](http://www.techmeme.com/220517/p4#a220517p4)
+ - [Paytm Mall, the e-commerce arm of Paytm, loses Alibaba and Ant Financial as investors, and its valuation drops from $3B to $13M &lpar;Entrackr&rpar;](http://www.techmeme.com/220517/p3#a220517p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
