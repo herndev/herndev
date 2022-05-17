@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fearing of cancel-culture is becoming problematic](http://9gag.com/gag/arnz8KB)
- - ⏩ [Exactly as it should be](http://9gag.com/gag/awzv4R4)
- - 👉 [Fat Jerry](http://9gag.com/gag/aNP3On3)<!-- MEMES:END -->
+ - 💣 [Rock in the middle of the road](http://9gag.com/gag/apg8Yxb)
+ - ⏩ [Curve it like Roberto Carlos](http://9gag.com/gag/aE8EZMG)
+ - 👉 [Is it ok to be a man](http://9gag.com/gag/azeQ4qB)<!-- MEMES:END -->
 
 ---
 
