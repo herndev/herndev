@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: shareholders voted against Intel&#39;s compensation for its top executives; the vote is advisory and won&#39;t immediately affect the compensation of the execs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220516/p32#a220516p32)
- - [Report: the real-time bidding industry exposes a person&#39;s online activity and location 747 times per day on average in the US and 376 times a day in Europe &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220516/p31#a220516p31)
- - [California Law Requiring Women on Boards is Unconstitutional, Judge Rules     - CNET](https://www.cnet.com/tech/california-law-requiring-women-on-boards-is-unconstitutional-judge-rules/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Regulatory filings show Tiger Global has sold its entire stake in Bumble, Airbnb, and Didi, and ~80% of its stake in Robinhood during 2022&#39;s tech stock sell-off &lpar;Financial Times&rpar;](http://www.techmeme.com/220517/p1#a220517p1)
+ - [See Astronaut&#39;s Sublime Shot of Total Lunar Eclipse Dancing With the ISS     - CNET](https://www.cnet.com/science/space/see-astronauts-shot-of-total-lunar-eclipse-dancing-with-the-iss/#ftag=CAD590a51e)
+ - [Terra&#39;s Plan to Revive Luna After Historic Crypto Crash     - CNET](https://www.cnet.com/personal-finance/crypto/terras-plan-to-revive-luna-after-historic-crypto-crash/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
