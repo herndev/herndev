@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life-size floor plans for a better understanding](http://9gag.com/gag/a91BBoZ)
- - ⏩ [After 12 years of playing on a budget guitar I bought for 70$ as a teenager, I was finally able to afford an upgrade. And not just any upgrade, but Ibanez Iceman that I always wanted since I first started playing. Don&#39;t give up on dreams guys :&rpar;](http://9gag.com/gag/aVxBBww)
- - 👉 [Docking with the space station](http://9gag.com/gag/aZrvdM9)<!-- MEMES:END -->
+ - 💣 [Real men drive forklifts...](http://9gag.com/gag/adgbdYV)
+ - ⏩ [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)
+ - 👉 [JUST IN - #BLM founder Patrisse Cullors paid her baby father $970,000 for `creative services`, her brother $840,000 for `security services` from charity funds. - dailymail.co.uk](http://9gag.com/gag/apg8doW)<!-- MEMES:END -->
 
 ---
 
