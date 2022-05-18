@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Costa Rican president says country is ‘at war’ with Conti ransomware group](https://www.theverge.com/2022/5/18/23125958/costa-rica-president-says-country-at-war-conti-ransomware-cybercrime)
- - [SpotOn, which provides software and payments services to SMBs in retail, food, and hospitality, raises a $300M Series F led by Dragoneer at a $3.6B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220518/p35#a220518p35)
- - [NY attorney general is investigating Twitch, Discord, and 4chan over Buffalo shooting](https://www.theverge.com/2022/5/18/23125783/ny-attorney-general-launches-investigation-twitch-discord-buffalo-shooting)<!-- TECH:END -->
+ - [N3TWORK Studios, a blockchain gaming startup that incorporates features like NFTs into their mobile games, raises a $46M Series A led by Griffin Gaming Partners &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220518/p37#a220518p37)
+ - [Survey shows Netflix is losing more long-term subscribers](https://www.theverge.com/2022/5/18/23125424/netflix-losing-long-term-subscribers-streaming)
+ - [Now non-Tesla EVs can use its Superchargers in the UK, Spain, Sweden, and Austria](https://www.theverge.com/2022/5/18/23125391/tesla-supercharger-electric-vehicle-charging-pilot-expansion-uk-spain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
