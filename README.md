@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vivo X80, X80 Pro launch globally: Still no X80 Pro Plus, though](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)
- - [Vivo’s new flagship has a bigger, better in-display fingerprint sensor](https://www.theverge.com/2022/5/18/23070106/vivo-x80-pro-announced-specs-features-camera-fingerprint-sensor)
- - [Twitter&#39;s board says it intends to &quot;close the transaction&quot; at the agreed price and &quot;enforce the merger agreement&quot; &lpar;Brian Stelter/CNN&rpar;](http://www.techmeme.com/220518/p4#a220518p4)<!-- TECH:END -->
+ - [Research: despite China&#39;s crypto mining ban, its global bitcoin hashrate share grew to 21.1% from Sept. 2021 to Jan. 2022, suggesting a rise in covert mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/220518/p5#a220518p5)
+ - [Vivo X80, X80 Pro launch globally: The best in-display fingerprint sensor?](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)
+ - [Vivo’s new flagship has a bigger, better in-display fingerprint sensor](https://www.theverge.com/2022/5/18/23070106/vivo-x80-pro-announced-specs-features-camera-fingerprint-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
