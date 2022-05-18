@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still want to shake hands](http://9gag.com/gag/abgELAr)
- - ⏩ [They have understood...](http://9gag.com/gag/ajgyjWp)
- - 👉 [Hmmm.......](http://9gag.com/gag/aKmpX5b)<!-- MEMES:END -->
+ - 💣 [Hmmm.......](http://9gag.com/gag/aKmpX5b)
+ - ⏩ [Marketers from God\u2060\u2060](http://9gag.com/gag/a41VBqZ)
+ - 👉 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)<!-- MEMES:END -->
 
 ---
 
