@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus&#39;s new ROG gaming laptop beast hides secret messages](https://www.pcgamer.com/asuss-new-rog-gaming-laptop-beast-hides-secret-messages)
- - [Nvidia is reportedly preparing the entry level GTX 1630](https://www.pcgamer.com/nvidia-is-reportedly-preparing-the-entry-level-gtx-1630)
- - [Total War: Warhammer 3&#39;s 1.2 update means more siege defences, less towers, free mounts](https://www.pcgamer.com/total-war-warhammer-3s-12-update-means-more-siege-defences-less-towers-free-mounts)<!-- GAME:END -->
+ - [Saudi Arabia Now Owns 5% Of Nintendo](https://kotaku.com/nintendo-saudi-arabia-public-investment-fund-pif-shares-1848941294)
+ - [EzBench is a new and free Unreal Engine 5 benchmark](https://www.pcgamer.com/ezbench-is-a-new-and-free-unreal-engine-5-benchmark)
+ - [Asus&#39;s new ROG gaming laptop beast hides secret messages](https://www.pcgamer.com/asuss-new-rog-gaming-laptop-beast-hides-secret-messages)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
