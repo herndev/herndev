@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix cuts 150 jobs out of 11K across departments in a new round of layoffs, mostly in the US, as the company reins in costs amid slowing revenue growth &lpar;Nellie Andreeva/Deadline&rpar;](http://www.techmeme.com/220518/p6#a220518p6)
  - [Research: despite China&#39;s crypto mining ban, its global bitcoin hashrate share grew to 21.1% from Sept. 2021 to Jan. 2022, suggesting a rise in covert mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/220518/p5#a220518p5)
- - [Vivo X80, X80 Pro launch globally: The best in-display fingerprint sensor?](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)
- - [Vivo’s new flagship has a bigger, better in-display fingerprint sensor](https://www.theverge.com/2022/5/18/23070106/vivo-x80-pro-announced-specs-features-camera-fingerprint-sensor)<!-- TECH:END -->
+ - [Vivo X80, X80 Pro launch globally: The best in-display fingerprint sensor?](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
