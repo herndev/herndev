@@ -105,8 +105,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Sources: Ian Goodfellow, Apple&#39;s former director of machine learning who left due to the company&#39;s return to work policy, is joining Alphabet&#39;s DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220518/p2#a220518p2)
- - [Pipedream, an integration platform that lets developers build workflow automations and connect cloud services, raises a $20M Series A led by True Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220518/p1#a220518p1)
- - [Buffalo Massacre Suspect Reportedly Invited Discord Users To Review His Plan     - CNET](https://www.cnet.com/tech/services-and-software/buffalo-massacre-suspect-reportedly-invited-discord-users-to-review-his-plan/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intriguing New UFO Footage Revealed by US Military at Historic Hearing     - CNET](https://www.cnet.com/science/us-military-reveals-intriguing-new-ufo-footage/#ftag=CAD590a51e)
+ - [Pipedream, an integration platform that lets developers build workflow automations and connect cloud services, raises a $20M Series A led by True Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220518/p1#a220518p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
