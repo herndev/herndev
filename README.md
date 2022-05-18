@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Penguins get violent in this heist game](https://www.polygon.com/23074933/penguin-heist-squirrel-gun-anime-action-fighting)
- - [Elden Ring mod lets you summon bosses and story NPCs as companions](https://www.polygon.com/23124600/elden-ring-mod-summon-companions-npcs-bosses)
- - [Cult classic RPG GreedFall gets a sequel to be released in 2024](https://www.polygon.com/23124803/greedfall-2-dying-world-announcement-2024-release-date)<!-- GAME:END -->
+ - [Does Multiverse of Madness prove there’s a hell in the MCU? The writer explains](https://www.polygon.com/23099050/doctor-strange-in-the-multiverse-of-madness-spirits-of-the-damned-hell)
+ - [Xbox’s Rep Takes A Hit Following Major Delays](https://kotaku.com/xbox-series-x-s-starfield-bethesda-redfall-arkane-2022-1848943956)
+ - [Slipknot vs. Zeus: Legendary Metal Band Enters the Battleground of the Gods in Smite](https://news.xbox.com/en-us/2022/05/18/slipknot-enters-the-battleground-of-the-gods-in-smite/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
