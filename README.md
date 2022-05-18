@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every movie/ series have become fortune tellers!](http://9gag.com/gag/aPZn0KR)
- - ⏩ [Wisdom from people who realised it too late.](http://9gag.com/gag/aqGAVyj)
- - 👉 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)<!-- MEMES:END -->
+ - 💣 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)
+ - ⏩ [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
+ - 👉 [Latvia, Riga today. Successful denazification.](http://9gag.com/gag/arnz086)<!-- MEMES:END -->
 
 ---
 
