@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)
- - ⏩ [How the dog act from the different signals](http://9gag.com/gag/aqGAMbP)
- - 👉 [Latvia, Riga today. Successful denazification.](http://9gag.com/gag/arnz086)<!-- MEMES:END -->
+ - 💣 [Latvia, Riga today. Successful denazification.](http://9gag.com/gag/arnz086)
+ - ⏩ [It&#39;s like his life depended on it](http://9gag.com/gag/aM4y616)
+ - 👉 [Truth be told](http://9gag.com/gag/aZrvXX9)<!-- MEMES:END -->
 
 ---
 
