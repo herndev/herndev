@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
- - ⏩ [Truth be told](http://9gag.com/gag/aZrvXX9)
- - 👉 [Germans love bread](http://9gag.com/gag/a61863A)<!-- MEMES:END -->
+ - 💣 [It&#39;s normal to me, but seems like a milestone these days](http://9gag.com/gag/aM4y57A)
+ - ⏩ [You go girl! .... Wait, who said that?](http://9gag.com/gag/a41Vy7d)
+ - 👉 [I wonder](http://9gag.com/gag/aWg9yzd)<!-- MEMES:END -->
 
 ---
 
