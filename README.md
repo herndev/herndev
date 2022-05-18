@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
- - ⏩ [Say what you like . ...](http://9gag.com/gag/a11wgY8)
+ - 💣 [Every movie/ series have become fortune tellers!](http://9gag.com/gag/aPZn0KR)
+ - ⏩ [Wisdom from people who realised it too late.](http://9gag.com/gag/aqGAVyj)
  - 👉 [George Relden Ring Martin](http://9gag.com/gag/a81z9Oe)<!-- MEMES:END -->
 
 ---
