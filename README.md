@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top 10 Apple Arcade games in May 2022](https://appleinsider.com/articles/22/05/18/the-top-10-apple-arcade-games-in-may-2022?utm_medium=rss)
- - [Google says its Russian subsidiary plans to file for bankruptcy after authorities seized its bank account; free services like Search and YouTube to keep running &lpar;Reuters&rpar;](http://www.techmeme.com/220518/p28#a220518p28)
- - [Apple’s hidden setting instantly makes your video and audio calls sound better](https://www.theverge.com/23123578/apple-voice-isolation-facetime-calls)<!-- TECH:END -->
+ - [Wear OS users with YouTube Premium and an Android phone can now use the YouTube Music app to stream music to their watches over Wi-Fi and LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220518/p29#a220518p29)
+ - [Sam Raimi movies ranked &lpar;including Doctor Strange in the Multiverse of Madness&rpar;](https://www.androidauthority.com/best-sam-raimi-movies-ranked-doctor-strange-multiverse-of-madness-3166117/)
+ - [Get the Galaxy Tab S8 for $150 with trade-in, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
