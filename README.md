@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let It Die sequel DeathVerse will get an open beta test in May](https://www.polygon.com/23076950/deathverse-let-it-die-open-beta-announcement-may-28)
- - [Saints Row’s Gen Z reboot won’t skimp on the mayhem, studio vows](https://www.polygon.com/23116188/saints-row-reboot-2022-preview-release-date-gameplay-characters-customization)
- - [GameFly Is Still Renting PS2 Games In 2022](https://kotaku.com/gamefly-ps2-xbox-gamecube-still-around-strange-selectio-1848939786)<!-- GAME:END -->
+ - [Bungie Calls Out Gaming Racism After Buffalo Shooting, Won&#39;t Be &#39;Muzzled&#39; By Sony](https://kotaku.com/destiny-2-witch-queen-buffalo-shooting-blm-pin-sony-1848942522)
+ - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
+ - [First episode of new Pokémon anime series is a thrilling call to adventure](https://www.polygon.com/23123567/pokemon-hisuian-snow-anime-first-episode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
