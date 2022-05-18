@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY AG will launch a probe into Twitch, Discord, 4chan, and 8chan, which officials say &quot;may have been used to plan, promote, and stream&quot; the Buffalo shooting &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220518/p33#a220518p33)
- - [China&#39;s internet censors have expanded the practice of displaying social media users&#39; locations and IP addresses under posts, ostensibly to fight disinformation &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/220518/p32#a220518p32)
- - [Apple releases iTunes 12.12.4 for Windows with security fixes](https://appleinsider.com/articles/22/05/18/apple-releases-itunes-12124-for-windows-with-security-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Costa Rican president says country is ‘at war’ with Conti ransomware group](https://www.theverge.com/2022/5/18/23125958/costa-rica-president-says-country-at-war-conti-ransomware-cybercrime)
+ - [SpotOn, which provides software and payments services to SMBs in retail, food, and hospitality, raises a $300M Series F led by Dragoneer at a $3.6B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220518/p35#a220518p35)
+ - [NY attorney general is investigating Twitch, Discord, and 4chan over Buffalo shooting](https://www.theverge.com/2022/5/18/23125783/ny-attorney-general-launches-investigation-twitch-discord-buffalo-shooting)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
