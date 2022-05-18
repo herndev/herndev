@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very cool trick](http://9gag.com/gag/aQXVBpq)
- - ⏩ [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)
- - 👉 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)<!-- MEMES:END -->
+ - 💣 [Perfect slur for toddlers?](http://9gag.com/gag/aZrvd90)
+ - ⏩ [Very cool trick](http://9gag.com/gag/aQXVBpq)
+ - 👉 [How to keep shit in Detroit](http://9gag.com/gag/aM4yDzM)<!-- MEMES:END -->
 
 ---
 
