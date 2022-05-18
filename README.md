@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie Calls Out Gaming Racism After Buffalo Shooting, Won&#39;t Be &#39;Muzzled&#39; By Sony](https://kotaku.com/destiny-2-witch-queen-buffalo-shooting-blm-pin-sony-1848942522)
- - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)
- - [First episode of new Pokémon anime series is a thrilling call to adventure](https://www.polygon.com/23123567/pokemon-hisuian-snow-anime-first-episode)<!-- GAME:END -->
+ - [Good News! PC Gaming Prices Might Stop Being A Hellscape Soon](https://kotaku.com/pc-gaming-gpu-crypto-amd-nvidia-intel-chip-shortage-1848943068)
+ - [Evil Dead: The Game is a bloody good time, especially with friends](https://www.polygon.com/23101393/evil-dead-game-impressions-release-early-review-ash)
+ - [Launch into the Minecraft Angry Birds DLC Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/18/launch-into-the-minecraft-angry-birds-dlc-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
