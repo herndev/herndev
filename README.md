@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS users with YouTube Premium and an Android phone can now use the YouTube Music app to stream music to their watches over Wi-Fi and LTE &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220518/p29#a220518p29)
- - [Sam Raimi movies ranked &lpar;including Doctor Strange in the Multiverse of Madness&rpar;](https://www.androidauthority.com/best-sam-raimi-movies-ranked-doctor-strange-multiverse-of-madness-3166117/)
- - [Get the Galaxy Tab S8 for $150 with trade-in, and more great tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)<!-- TECH:END -->
+ - [Here’s how Microsoft’s new One Outlook email app will work](https://www.theverge.com/2022/5/18/23125532/microsoft-new-one-outlook-beta-feature-details-loop-to-do-calendar)
+ - [Marvel Studios is licensing Stan Lee’s likeness from the company he sued before his death](https://www.theverge.com/2022/5/18/23123057/marvel-studios-stan-lee-likeness-pow-entertainment)
+ - [Fewer Americans think Big Tech should have more regulations](https://www.theverge.com/2022/5/18/23076508/big-tech-censorship-twitter-facebook-social-media-pew-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
