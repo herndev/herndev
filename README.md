@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how Microsoft’s new One Outlook email app will work](https://www.theverge.com/2022/5/18/23125532/microsoft-new-one-outlook-beta-feature-details-loop-to-do-calendar)
- - [Marvel Studios is licensing Stan Lee’s likeness from the company he sued before his death](https://www.theverge.com/2022/5/18/23123057/marvel-studios-stan-lee-likeness-pow-entertainment)
- - [Fewer Americans think Big Tech should have more regulations](https://www.theverge.com/2022/5/18/23076508/big-tech-censorship-twitter-facebook-social-media-pew-research)<!-- TECH:END -->
+ - [NY AG will launch a probe into Twitch, Discord, 4chan, and 8chan, which officials say &quot;may have been used to plan, promote, and stream&quot; the Buffalo shooting &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220518/p33#a220518p33)
+ - [China&#39;s internet censors have expanded the practice of displaying social media users&#39; locations and IP addresses under posts, ostensibly to fight disinformation &lpar;Joy Dong/New York Times&rpar;](http://www.techmeme.com/220518/p32#a220518p32)
+ - [Apple releases iTunes 12.12.4 for Windows with security fixes](https://appleinsider.com/articles/22/05/18/apple-releases-itunes-12124-for-windows-with-security-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
