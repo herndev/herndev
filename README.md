@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix cuts 150 jobs out of 11K across departments in a new round of layoffs, mostly in the US, as the company reins in costs amid slowing revenue growth &lpar;Nellie Andreeva/Deadline&rpar;](http://www.techmeme.com/220518/p6#a220518p6)
- - [Research: despite China&#39;s crypto mining ban, its global bitcoin hashrate share grew to 21.1% from Sept. 2021 to Jan. 2022, suggesting a rise in covert mining &lpar;Bloomberg&rpar;](http://www.techmeme.com/220518/p5#a220518p5)
- - [Vivo X80, X80 Pro launch globally: The best in-display fingerprint sensor?](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)<!-- TECH:END -->
+ - [Sources: despite Elon Musk&#39;s tweets, Twitter, Musk&#39;s team, and banks are continuing to work to close the deal, including preparing the 139-page SEC filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/220518/p9#a220518p9)
+ - [Amazon launches Smart Commerce in India, helping stores create online storefronts and offering tools for billing and inventory management &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220518/p8#a220518p8)
+ - [Tencent misses estimates with ~$20.1B in Q1 revenue, up 0% YoY, as net income dropped 51% YoY to ~$3.5B; Tencent has lost ~$500B in value since its 2021 peak &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220518/p7#a220518p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
