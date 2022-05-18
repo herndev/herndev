@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Do Kwon, the trash-talking founder of Terraform Labs, which raised $200M+ to build LUNA and UST; many investors avoided losses by cashing out early &lpar;New York Times&rpar;](http://www.techmeme.com/220518/p12#a220518p12)
- - [A Letter to My Fellow Asian Mothers From the Multiverse](https://www.wired.com/story/turning-red-everything-everywhere-all-at-once)
- - [Carbon-Rich Peat Is Disappearing. But Is It Also Growing?](https://www.wired.com/story/carbon-rich-peat-is-disappearing-but-is-it-also-growing)<!-- TECH:END -->
+ - [Plaid announces two products for Automated Clearing House transfers, including identify verification, putting it in direct competition with Stripe &lpar;Tomio Geron/Protocol&rpar;](http://www.techmeme.com/220518/p16#a220518p16)
+ - [Masterschool, a network of virtual coding schools that takes 10% of monthly income to repay tuition, raises a $100M seed led by Group 11 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220518/p15#a220518p15)
+ - [Seth Green Loses $200K Bored Ape Yacht Club NFT in Phishing Scam     - CNET](https://www.cnet.com/personal-finance/seth-green-loses-200k-bored-ape-yacht-club-nft-in-phishing-scam/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
