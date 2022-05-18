@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s finally straightening out its legacy free G-Suite mess](https://www.theverge.com/2022/5/17/23107246/google-g-suite-free-no-cost-option-custom-domain)
- - [Meta&#39;s Q1 enforcement report shows that Facebook&#39;s automated content moderation systems are improving, but the number of posts it wrongly removed remains high &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220517/p36#a220517p36)
- - [The best antivirus software for your PC](https://www.androidauthority.com/best-antivirus-software-pc-3164263/)<!-- TECH:END -->
+ - [Buffalo Massacre Suspect Reportedly Invited Discord Users To Review His Plan     - CNET](https://www.cnet.com/tech/services-and-software/buffalo-massacre-suspect-reportedly-invited-discord-users-to-review-his-plan/#ftag=CAD590a51e)
+ - [Palo Alto-based Pangea, which offers embedded security APIs for cloud-native app builders, emerges from stealth with a $25M Series A led by Ballistic Ventures &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220517/p37#a220517p37)
+ - [Every Harry Potter Movie Ranked: From Azkaban to Grindelwald     - CNET](https://www.cnet.com/culture/entertainment/every-harry-potter-movie-ranked-from-azkaban-to-grindelwald/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
