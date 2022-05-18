@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and 88rising: Music, Games, and Shared Experiences](https://news.xbox.com/en-us/2022/05/18/xbox-and-88-rising-music-games-and-shared-experiences/)
- - [Dead By Daylight Dev Announces Dating Sim Spin-Off, Gives Killers Amazing Glow-Ups](https://kotaku.com/dead-by-daylight-hooked-on-you-dating-sim-trapper-spiri-1848943810)
- - [10 of the most brutal game challenges of all time](https://www.pcgamer.com/10-of-the-most-brutal-game-challenges-of-all-time)<!-- GAME:END -->
+ - [New York Attorney General Investigating Twitch, Discord Following Buffalo Shooting](https://kotaku.com/new-york-attorney-general-buffalo-shooting-discord-twit-1848945081)
+ - [How the Roller Champions devs invented a new spectator sport](https://blog.playstation.com/2022/05/18/how-the-roller-champions-devs-invented-a-new-spectator-sport/)
+ - [How the Roller Champions devs invented a new spectator sport](https://blog.playstation.com/2022/05/18/how-the-roller-champions-devs-invented-a-new-spectator-sport/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
