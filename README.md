@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Good News! PC Gaming Prices Might Stop Being A Hellscape Soon](https://kotaku.com/pc-gaming-gpu-crypto-amd-nvidia-intel-chip-shortage-1848943068)
- - [Evil Dead: The Game is a bloody good time, especially with friends](https://www.polygon.com/23101393/evil-dead-game-impressions-release-early-review-ash)
- - [Launch into the Minecraft Angry Birds DLC Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/18/launch-into-the-minecraft-angry-birds-dlc-now-in-the-minecraft-marketplace/)<!-- GAME:END -->
+ - [Penguins get violent in this heist game](https://www.polygon.com/23074933/penguin-heist-squirrel-gun-anime-action-fighting)
+ - [Elden Ring mod lets you summon bosses and story NPCs as companions](https://www.polygon.com/23124600/elden-ring-mod-summon-companions-npcs-bosses)
+ - [Cult classic RPG GreedFall gets a sequel to be released in 2024](https://www.polygon.com/23124803/greedfall-2-dying-world-announcement-2024-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
