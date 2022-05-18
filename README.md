@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Has a Plan to Document Human Rights Violations in Ukraine](https://www.wired.com/story/conflict-observatory-ukraine-russia-war-crimes)
- - [Google Opens Self-Designed, All-Electric Campus in California     - CNET](https://www.cnet.com/tech/google-opens-self-designed-all-electric-campus-in-california/#ftag=CAD590a51e)
- - [She-Hulk: Attorney at Law’s first trailer looks simply smashing](https://www.theverge.com/2022/5/17/23104195/she-hulk-first-trailer-disney-plus-release-date)<!-- TECH:END -->
+ - [Google’s finally straightening out its legacy free G-Suite mess](https://www.theverge.com/2022/5/17/23107246/google-g-suite-free-no-cost-option-custom-domain)
+ - [Meta&#39;s Q1 enforcement report shows that Facebook&#39;s automated content moderation systems are improving, but the number of posts it wrongly removed remains high &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220517/p36#a220517p36)
+ - [The best antivirus software for your PC](https://www.androidauthority.com/best-antivirus-software-pc-3164263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
