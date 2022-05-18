@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who did that too?](http://9gag.com/gag/angV83E)
- - ⏩ [So it begins. It&#39;s official. Sweden and Finland applying for NATO](http://9gag.com/gag/azeQvxN)
- - 👉 [Technically speaking.. he is right](http://9gag.com/gag/a6184gb)<!-- MEMES:END -->
+ - 💣 [How to win a GTA mission in less than 5 seconds](http://9gag.com/gag/a11w8Dv)
+ - ⏩ [Battle of the year!](http://9gag.com/gag/a81zQB6)
+ - 👉 [Still want to shake hands](http://9gag.com/gag/abgELAr)<!-- MEMES:END -->
 
 ---
 
