@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The last number of your upvote will be your `Friends with benefit`](http://9gag.com/gag/avAmB15)
- - ⏩ [Grams made an animal vest to wear to parties](http://9gag.com/gag/aDDMq1w)
- - 👉 [How to win a GTA mission in less than 5 seconds](http://9gag.com/gag/a11w8Dv)<!-- MEMES:END -->
+ - 💣 [Grams made an animal vest to wear to parties](http://9gag.com/gag/aDDMq1w)
+ - ⏩ [This choir teacher uses a nerf gun to correct her students](http://9gag.com/gag/aAGZL90)
+ - 👉 [Constructing a stone walkway.](http://9gag.com/gag/aXreQOV)<!-- MEMES:END -->
 
 ---
 
