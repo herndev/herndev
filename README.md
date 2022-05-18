@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New York attorney general investigating Twitch, Discord over Buffalo attack](https://www.polygon.com/23125626/buffalo-shooting-twitch-discord-new-york-attorney-general)
  - [World of Warships: Legends Spring Update is Now Live](https://news.xbox.com/en-us/2022/05/18/world-of-warships-legends-spring-update-is-now-live/)
- - [Midnight Ghost Hunt’s first major update adds a terrifying doll factory](https://www.polygon.com/23125372/midnight-ghost-hunt-new-map-weapons-rebalance-impressions)
- - [Apple is no longer the world&#39;s most valuable company](https://www.pcgamer.com/apple-is-no-longer-the-worlds-most-valuable-company)<!-- GAME:END -->
+ - [Midnight Ghost Hunt’s first major update adds a terrifying doll factory](https://www.polygon.com/23125372/midnight-ghost-hunt-new-map-weapons-rebalance-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
