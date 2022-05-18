@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Total War: Warhammer 3&#39;s 1.2 update means more siege defences, less towers, free mounts](https://www.pcgamer.com/total-war-warhammer-3s-12-update-means-more-siege-defences-less-towers-free-mounts)
  - [Vampire survival game V Rising is out now](https://www.pcgamer.com/vampire-survival-game-v-rising-is-out-now)
- - [Welcome To Logjam, A Sexy Lumberjack Simulator](https://kotaku.com/robert-yang-logjam-sex-nsfw-indie-development-pc-limux-1848940442)
- - [Turns Out A Short Yakuza Is A Very Good Yakuza](https://kotaku.com/lost-judgment-kaito-files-dlc-expansion-review-impressi-1848935192)<!-- GAME:END -->
+ - [Welcome To Logjam, A Sexy Lumberjack Simulator](https://kotaku.com/robert-yang-logjam-sex-nsfw-indie-development-pc-limux-1848940442)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
