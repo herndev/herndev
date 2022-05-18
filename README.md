@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Following years of complaints from creators, TikTok announces its first crediting tools, linking back to creators and trend originators within videos &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220518/p24#a220518p24)
- - [Why It&#39;s So Hard to Count Twitter Bots](https://www.wired.com/story/twitter-musk-bots)
- - [Drop is taking 20 percent off select keycaps exclusively for Verge readers](https://www.theverge.com/good-deals/2022/5/18/23103325/drop-mechanical-keyboard-keycaps-exclusive-logitech-g-pro-superlight-apple-airpods-garmin-deal-sale)<!-- TECH:END -->
+ - [Apple releases first developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/18/apple-releases-first-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Apple seeds first macOS Monterey 12.5 beta to developers](https://appleinsider.com/articles/22/05/18/apple-seeds-first-macos-monterey-125-beta-to-developers?utm_medium=rss)
+ - [Vietnamese Prime Minister met with Tim Cook at Apple Park](https://appleinsider.com/articles/22/05/18/vietnamese-prime-minister-met-with-tim-cook-at-apple-park?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
