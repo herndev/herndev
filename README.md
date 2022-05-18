@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: after Tether lost its dollar peg, leading to $8.5B+ in redemptions, Circle&#39;s USDC stablecoin circulation rose by $3.4B and Binance USD is up $1.2B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220518/p22#a220518p22)
- - [Indian trade body calls for &#39;urgent&#39; App Store regulation](https://appleinsider.com/articles/22/05/18/indian-trade-body-calls-for-urgent-app-store-regulation?utm_medium=rss)
- - [Hisense launches its first-ever Fire TV for $529](https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon)<!-- TECH:END -->
+ - [Following years of complaints from creators, TikTok announces its first crediting tools, linking back to creators and trend originators within videos &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220518/p24#a220518p24)
+ - [Why It&#39;s So Hard to Count Twitter Bots](https://www.wired.com/story/twitter-musk-bots)
+ - [Drop is taking 20 percent off select keycaps exclusively for Verge readers](https://www.theverge.com/good-deals/2022/5/18/23103325/drop-mechanical-keyboard-keycaps-exclusive-logitech-g-pro-superlight-apple-airpods-garmin-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
