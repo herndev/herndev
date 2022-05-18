@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saudi Arabia Now Owns 5% Of Nintendo](https://kotaku.com/nintendo-saudi-arabia-public-investment-fund-pif-shares-1848941294)
- - [EzBench is a new and free Unreal Engine 5 benchmark](https://www.pcgamer.com/ezbench-is-a-new-and-free-unreal-engine-5-benchmark)
- - [Asus&#39;s new ROG gaming laptop beast hides secret messages](https://www.pcgamer.com/asuss-new-rog-gaming-laptop-beast-hides-secret-messages)<!-- GAME:END -->
+ - [Nintendo is the latest target of Saudi Arabia’s gaming investment](https://www.polygon.com/23122317/nintendo-saudi-arabia-investment-crown-prince-pif)
+ - [Let Bidoof Predict Your Breakup With This Fan-Made Pokémon Diamond Tarot Deck](https://kotaku.com/pokemon-tarot-deck-diamond-pearl-generation-iv-major-ar-1848939318)
+ - [Steve Jackson Games’ Ogre hits PS4 and PS5 today](https://blog.playstation.com/2022/05/18/steve-jackson-games-ogre-hits-ps4-and-ps5-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
