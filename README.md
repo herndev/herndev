@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches new training &amp; certification program for iPhone, iPad, Mac](https://appleinsider.com/articles/22/05/18/apple-launches-new-training-certification-program-for-iphone-ipad-mac?utm_medium=rss)
- - [Acer refreshes its Chromebook lineup, introducing the Spin 714 with a 14-inch 16:10 display and 12th-gen Intel Core i7 CPU, starting at $750 in August &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/220518/p20#a220518p20)
- - [Google’s Pixel 4 and 5-series phones are discounted today at Woot](https://www.theverge.com/good-deals/2022/5/18/23122601/google-pixel-4-5-5a-new-unlocked-woot-amazon-prime-deal-sale)<!-- TECH:END -->
+ - [CoinGecko: after Tether lost its dollar peg, leading to $8.5B+ in redemptions, Circle&#39;s USDC stablecoin circulation rose by $3.4B and Binance USD is up $1.2B &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220518/p22#a220518p22)
+ - [Indian trade body calls for &#39;urgent&#39; App Store regulation](https://appleinsider.com/articles/22/05/18/indian-trade-body-calls-for-urgent-app-store-regulation?utm_medium=rss)
+ - [Hisense launches its first-ever Fire TV for $529](https://www.theverge.com/2022/5/18/23122566/hisense-goes-against-google-makes-4k-fire-tv-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
