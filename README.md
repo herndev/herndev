@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)
- - ⏩ [20s kids](http://9gag.com/gag/a21Gx9D)
- - 👉 [The world&#39;s largest floating crane Hyundai 10000 carrying a giant ship](http://9gag.com/gag/aVxBdA8)<!-- MEMES:END -->
+ - 💣 [20s kids](http://9gag.com/gag/a21Gx9D)
+ - ⏩ [WTF Spain](http://9gag.com/gag/aogDdL2)
+ - 👉 [Gave it a rebirth.](http://9gag.com/gag/a81zX3Q)<!-- MEMES:END -->
 
 ---
 
