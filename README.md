@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google&#39;s Russian subsidiary plans to file for bankruptcy, saying it is impossible to pay employees and suppliers after authorities seized its bank account &lpar;Mauro Orru/Wall Street Journal&rpar;](http://www.techmeme.com/220518/p17#a220518p17)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;May 18&rpar;](https://www.androidauthority.com/wallpaper-wednesday-may-18-2022-3165516/)
- - [Daily deals May 18: $100 off Radeon RX 6800 XT, $70 Apple TV HD, discounted iPads, more](https://appleinsider.com/articles/22/05/18/daily-deals-may-18-100-off-radeon-rx-6800-xt-70-apple-tv-hd-discounted-ipads-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches new training &amp; certification program for iPhone, iPad, Mac](https://appleinsider.com/articles/22/05/18/apple-launches-new-training-certification-program-for-iphone-ipad-mac?utm_medium=rss)
+ - [Acer refreshes its Chromebook lineup, introducing the Spin 714 with a 14-inch 16:10 display and 12th-gen Intel Core i7 CPU, starting at $750 in August &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/220518/p20#a220518p20)
+ - [Google’s Pixel 4 and 5-series phones are discounted today at Woot](https://www.theverge.com/good-deals/2022/5/18/23122601/google-pixel-4-5-5a-new-unlocked-woot-amazon-prime-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
