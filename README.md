@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indie Live Expo 2022: Catch the Global Live Streaming Event on May 21 and 22](https://news.xbox.com/en-us/2022/05/17/indie-live-expo-2022-global-live-streaming-event-on-may-21-and-22/)
- - [New She-Hulk trailer flexes muscles, jokes](https://www.polygon.com/23106501/she-hulk-trailer-release-date-cast)
- - [It&#39;s really starting to look like Bloober Team is making a new Silent Hill game](https://www.pcgamer.com/its-really-starting-to-look-like-bloober-team-is-making-a-new-silent-hill-game)<!-- GAME:END -->
+ - [Vampire survival game V Rising is out now](https://www.pcgamer.com/vampire-survival-game-v-rising-is-out-now)
+ - [Welcome To Logjam, A Sexy Lumberjack Simulator](https://kotaku.com/robert-yang-logjam-sex-nsfw-indie-development-pc-limux-1848940442)
+ - [Turns Out A Short Yakuza Is A Very Good Yakuza](https://kotaku.com/lost-judgment-kaito-files-dlc-expansion-review-impressi-1848935192)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
