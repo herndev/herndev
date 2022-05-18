@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ian Goodfellow, Apple&#39;s former director of machine learning who left due to the company&#39;s return to work policy, is joining Alphabet&#39;s DeepMind &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220518/p2#a220518p2)
- - [Intriguing New UFO Footage Revealed by US Military at Historic Hearing     - CNET](https://www.cnet.com/science/us-military-reveals-intriguing-new-ufo-footage/#ftag=CAD590a51e)
- - [Pipedream, an integration platform that lets developers build workflow automations and connect cloud services, raises a $20M Series A led by True Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220518/p1#a220518p1)<!-- TECH:END -->
+ - [Vivo X80, X80 Pro launch globally: Still no X80 Pro Plus, though](https://www.androidauthority.com/vivo-x80-series-global-launch-3165898/)
+ - [Vivo’s new flagship has a bigger, better in-display fingerprint sensor](https://www.theverge.com/2022/5/18/23070106/vivo-x80-pro-announced-specs-features-camera-fingerprint-sensor)
+ - [Twitter&#39;s board says it intends to &quot;close the transaction&quot; at the agreed price and &quot;enforce the merger agreement&quot; &lpar;Brian Stelter/CNN&rpar;](http://www.techmeme.com/220518/p4#a220518p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
