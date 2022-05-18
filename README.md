@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Left or Right?](http://9gag.com/gag/a81zXdY)
- - ⏩ [Men&#39;s pockets be like](http://9gag.com/gag/a0ZwWAB)
- - 👉 [Mad Max 2022](http://9gag.com/gag/aGzb626)<!-- MEMES:END -->
+ - 💣 [This movie was my childhood. Still looks great.](http://9gag.com/gag/apg8zQB)
+ - ⏩ [Mad Max 2022](http://9gag.com/gag/aGzb626)
+ - 👉 [Scope to distance](http://9gag.com/gag/aE8EN3p)<!-- MEMES:END -->
 
 ---
 
