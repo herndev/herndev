@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: despite Elon Musk&#39;s tweets, Twitter, Musk&#39;s team, and banks are continuing to work to close the deal, including preparing the 139-page SEC filing &lpar;Bloomberg&rpar;](http://www.techmeme.com/220518/p9#a220518p9)
- - [Amazon launches Smart Commerce in India, helping stores create online storefronts and offering tools for billing and inventory management &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220518/p8#a220518p8)
- - [Tencent misses estimates with ~$20.1B in Q1 revenue, up 0% YoY, as net income dropped 51% YoY to ~$3.5B; Tencent has lost ~$500B in value since its 2021 peak &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220518/p7#a220518p7)<!-- TECH:END -->
+ - [A profile of Do Kwon, the trash-talking founder of Terraform Labs, which raised $200M+ to build LUNA and UST; many investors avoided losses by cashing out early &lpar;New York Times&rpar;](http://www.techmeme.com/220518/p12#a220518p12)
+ - [A Letter to My Fellow Asian Mothers From the Multiverse](https://www.wired.com/story/turning-red-everything-everywhere-all-at-once)
+ - [Carbon-Rich Peat Is Disappearing. But Is It Also Growing?](https://www.wired.com/story/carbon-rich-peat-is-disappearing-but-is-it-also-growing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
