@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Multiverse of Madness prove there’s a hell in the MCU? The writer explains](https://www.polygon.com/23099050/doctor-strange-in-the-multiverse-of-madness-spirits-of-the-damned-hell)
- - [Xbox’s Rep Takes A Hit Following Major Delays](https://kotaku.com/xbox-series-x-s-starfield-bethesda-redfall-arkane-2022-1848943956)
- - [Slipknot vs. Zeus: Legendary Metal Band Enters the Battleground of the Gods in Smite](https://news.xbox.com/en-us/2022/05/18/slipknot-enters-the-battleground-of-the-gods-in-smite/)<!-- GAME:END -->
+ - [Xbox and 88rising: Music, Games, and Shared Experiences](https://news.xbox.com/en-us/2022/05/18/xbox-and-88-rising-music-games-and-shared-experiences/)
+ - [Dead By Daylight Dev Announces Dating Sim Spin-Off, Gives Killers Amazing Glow-Ups](https://kotaku.com/dead-by-daylight-hooked-on-you-dating-sim-trapper-spiri-1848943810)
+ - [10 of the most brutal game challenges of all time](https://www.pcgamer.com/10-of-the-most-brutal-game-challenges-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
