@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, he&#39;s still president. No, he still doesn&#39;t want to take a cognitive test and no, the media doesn&#39;t cover it.](http://9gag.com/gag/aYrm3e0)
- - ⏩ [What is love??](http://9gag.com/gag/adgbGPB)
- - 👉 [Probably the closest thing we&#39;ll get to a confession](http://9gag.com/gag/aWg9rP3)<!-- MEMES:END -->
+ - 💣 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)
+ - ⏩ [Oh Yes](http://9gag.com/gag/ajgyz51)
+ - 👉 [Old but new](http://9gag.com/gag/a71AY6e)<!-- MEMES:END -->
 
 ---
 
