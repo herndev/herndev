@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skullcandy’s new Mod earbuds offer cheap multipoint Bluetooth support](https://www.theverge.com/2022/5/19/23130824/skullcandy-mod-wireless-earbuds-cheap-multipoint-bluetooth-support-headphones)
- - [Sony shows off God of War Ragnarok’s accessibility features](https://www.theverge.com/2022/5/19/23131085/god-of-war-ragnarok-accessibility-sony-santa-monica-studio)
- - [How to check which version of Chrome OS you’re running](https://www.theverge.com/23125531/chrome-os-chromebook-version-how-to)<!-- TECH:END -->
+ - [North American smartphone shipments grew 3.7% YoY in Q1 to 39M units; Apple grew its market share to 51% with 19.9M units, as Google grew 380% to 1.2M units &lpar;Canalys&rpar;](http://www.techmeme.com/220519/p29#a220519p29)
+ - [How to answer calls to your iPhone on macOS Monterey and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-answer-calls-to-your-iphone-on-macos-monterey-and-ipados-15?utm_medium=rss)
+ - [The Online Spider Market Is Massive—and Crawling With Issues](https://www.wired.com/story/the-online-spider-market-is-massive-and-crawling-with-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
