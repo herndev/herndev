@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap is a new card game from ex-Hearthstone devs](https://www.polygon.com/23131048/marvel-snap-new-game-from-hearthstone-developers)
- - [Marvel Snap is the first game from former Hearthstone director Ben Brode&#39;s new studio](https://www.pcgamer.com/marvel-snap-is-the-first-game-from-former-hearthstone-director-ben-brodes-new-studio)
- - [&#39;Security researchers&#39; aka hackers make $800k in prize money for exploiting Windows 11 and Teams](https://www.pcgamer.com/security-researchers-aka-hackers-make-dollar800k-prize-money-for-exploiting-windows-11-and-teams)<!-- GAME:END -->
+ - [The Innocents is the creepiest Stephen King movie that King didn’t write](https://www.polygon.com/23106917/the-innocents-review-horror)
+ - [The Future Games Show returns in June](https://www.pcgamer.com/future-games-show-summer-2022-announcement)
+ - [Batman: Everybody Lies is a big improvement on the Detective board game formula](https://www.polygon.com/23103698/batman-everybody-lies-detective-board-game-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
