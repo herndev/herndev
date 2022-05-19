@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Success Story](http://9gag.com/gag/aDDMvbN)
- - ⏩ [Germans love bread](http://9gag.com/gag/a61863A)
- - 👉 [Exactly](http://9gag.com/gag/a81zOvV)<!-- MEMES:END -->
+ - 💣 [Exactly](http://9gag.com/gag/a81zOvV)
+ - ⏩ [The falling speed is Independent from the mass.](http://9gag.com/gag/ay9PKYr)
+ - 👉 [No way](http://9gag.com/gag/aYrm0nx)<!-- MEMES:END -->
 
 ---
 
