@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Loot Vault Is Finally Getting Bigger After Three Long Years](https://kotaku.com/destiny-2-witch-queen-season-17-vault-space-bungie-exot-1848951099)
- - [Go ‘glamping’ with the coziest kit to hit The Sims](https://www.polygon.com/23131349/sims-new-expansion-pack-camping-moonlight-chic-little-campters)
- - [Superstar Final Fantasy XIV Producer’s First Square Enix Game Was Canceled](https://kotaku.com/final-fantasy-xiv-ffxiv-naoki-yoshida-square-enix-cance-1848951217)<!-- GAME:END -->
+ - [New Marvel Card Game From Ex-Hearthstone Devs Plays Fast As Hell](https://kotaku.com/marvel-snap-trailer-hearthstone-ben-brode-blizzard-card-1848951815)
+ - [Destiny 2’s new dungeon gets a release date](https://www.polygon.com/23131220/destiny-2-dungeon-season-17-vault-space-holiday-event-solstice)
+ - [People can&#39;t explain what the metaverse is but are very excited for it](https://www.pcgamer.com/people-cant-explain-what-the-metaverse-is-but-are-very-excited-for-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
