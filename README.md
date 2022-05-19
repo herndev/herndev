@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Yesss](http://9gag.com/gag/avAmNNM)
- - ⏩ [Life hack!!!! Sent by a friend !!!](http://9gag.com/gag/axB4XpL)
- - 👉 [Les Grossman vs Flaming Dragon](http://9gag.com/gag/aVxBAZ8)<!-- MEMES:END -->
+ - ⏩ [Make it happen!!](http://9gag.com/gag/a41VeNd)
+ - 👉 [A valuable lesson](http://9gag.com/gag/adgbEDN)<!-- MEMES:END -->
 
 ---
 
