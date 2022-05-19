@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s 18 cracking minutes of Fallout: London gameplay](https://www.pcgamer.com/heres-18-cracking-minutes-of-fallout-london-gameplay)
- - [Borderlands 3 goes free on the Epic Store](https://www.pcgamer.com/borderlands-3-goes-free-on-the-epic-store)
- - [Some Of The Best Puzzle Games Ever Made Are On Sale Right Now](https://kotaku.com/steam-pc-sale-outer-wilds-baba-is-you-obra-dinn-puzzle-1848950245)<!-- GAME:END -->
+ - [Destiny 2’s Loot Vault Is Finally Getting Bigger After Three Long Years](https://kotaku.com/destiny-2-witch-queen-season-17-vault-space-bungie-exot-1848951099)
+ - [Go ‘glamping’ with the coziest kit to hit The Sims](https://www.polygon.com/23131349/sims-new-expansion-pack-camping-moonlight-chic-little-campters)
+ - [Superstar Final Fantasy XIV Producer’s First Square Enix Game Was Canceled](https://kotaku.com/final-fantasy-xiv-ffxiv-naoki-yoshida-square-enix-cance-1848951217)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
