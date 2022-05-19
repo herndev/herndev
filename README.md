@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $20 on several Pokémon games for Nintendo Switch](https://www.theverge.com/good-deals/2022/5/19/23130831/pokemon-brilliant-diamond-shining-pearl-sword-shield-garmin-usb-c-xbox-deal-sale)
- - [Senators push to break up Google, Facebook ads businesses in new bill](https://www.theverge.com/2022/5/19/23130963/google-facebook-antitrust-digital-advertising-competition-bill-senate)
- - [Watch Boeing launch its Starliner space capsule in do-over flight](https://www.theverge.com/2022/5/19/23125978/boeing-cst-100-starliner-oft-2-space-station-test-flight-watch-live-stream)<!-- TECH:END -->
+ - [Tether&#39;s accounting firm says Tether holds $20.1B in commercial paper, down 17% QoQ; Tether had $82.4B in total assets on March 31 and $82.2B in liabilities &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220519/p26#a220519p26)
+ - [Meta makes its free WhatsApp Cloud API, aimed at SMBs, available to all businesses worldwide, and launches paid features for its WhatsApp Business app &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220519/p25#a220519p25)
+ - [Apple&#39;s mixed-reality headset has reached &#39;advanced&#39; stage of development](https://appleinsider.com/articles/22/05/19/apples-mixed-reality-headset-has-reached-advanced-stage-of-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
