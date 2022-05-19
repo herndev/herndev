@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei AppGallery flaw let’s you download paid Android apps for free](https://www.androidauthority.com/huawei-app-gallery-flaw-paid-apps-free-3166795/)
- - [Cairo- and San Francisco-based Instabug, which helps developers monitor performance and fix bugs in their apps, raises a $46M Series B led by Insight Partners &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220519/p1#a220519p1)
- - [Google Doodle Honors Disability Rights Activist Stacey Park Milbern     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-disability-rights-activist-stacey-park-milbern/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s how Disney Plus will implement its ad-supported plan later this year](https://www.androidauthority.com/disney-plus-ad-supported-plan-3127334/)
+ - [A look at the competition between China and the US to build exascale supercomputers, useful for defense and climate modeling, as China pulls ahead &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220519/p2#a220519p2)
+ - [&#39;The Boys&#39; Season 3: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
