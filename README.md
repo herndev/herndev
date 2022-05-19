@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPad accessories for digital artists](https://appleinsider.com/articles/22/05/19/the-best-ipad-accessories-for-digital-artists?utm_medium=rss)
- - [Pebble founder: it’s your ‘last chance’ to make a small Android phone happen](https://www.theverge.com/23125959/pebble-founder-eric-migicovsky-small-android-phone-quest-iphone-mini)
- - [Epic’s Mega Sale offers a 25 percent off coupon and four weeks of free games](https://www.theverge.com/good-deals/2022/5/19/23130778/epic-games-store-mega-sale-25-percent-off-free-games-deal)<!-- TECH:END -->
+ - [Skullcandy’s new Mod earbuds offer cheap multipoint Bluetooth support](https://www.theverge.com/2022/5/19/23130824/skullcandy-mod-wireless-earbuds-cheap-multipoint-bluetooth-support-headphones)
+ - [Sony shows off God of War Ragnarok’s accessibility features](https://www.theverge.com/2022/5/19/23131085/god-of-war-ragnarok-accessibility-sony-santa-monica-studio)
+ - [How to check which version of Chrome OS you’re running](https://www.theverge.com/23125531/chrome-os-chromebook-version-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
