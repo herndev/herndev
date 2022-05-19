@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Women](http://9gag.com/gag/aBnoAON)
- - ⏩ [Probably the closest thing we&#39;ll get to a confession](http://9gag.com/gag/aWg9rP3)
- - 👉 [It Just Works](http://9gag.com/gag/a31n6Z3)<!-- MEMES:END -->
+ - ⏩ [It Just Works](http://9gag.com/gag/a31n6Z3)
+ - 👉 [Probably the closest thing we&#39;ll get to a confession](http://9gag.com/gag/aWg9rP3)<!-- MEMES:END -->
 
 ---
 
