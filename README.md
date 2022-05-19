@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 next-gen version launches late 2022, CD Projekt says](https://www.polygon.com/23130835/the-witcher-3-wild-hunt-next-gen-edition-update-version-release-date)
- - [Sherlock Holmes studio Frogwares is making a new game, despite the war](https://www.pcgamer.com/sherlock-holmes-studio-frogwares-is-making-a-new-game-despite-the-war)
- - [Borderlands 3 is free on the Epic Games Store](https://www.polygon.com/23130579/borderlands-3-free-pc-epic-games-store-mega-sale-vault)<!-- GAME:END -->
+ - [New PlayStation 5 Bundle Comes With Horizon Forbidden West](https://kotaku.com/ps5-playstation-5-horizon-forbidden-west-sony-guerrilla-1848949762)
+ - [Alex Garland on how Attack on Titan shaped his horror movie Men: ‘I’ve got to run faster’](https://www.polygon.com/23076652/alex-garland-men-movie-attack-on-titan)
+ - [Riverdale ending with season 7](https://www.polygon.com/23130754/riverdale-canceled-finale-ending-last-season-7-cw)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
