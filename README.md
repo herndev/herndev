@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawsuit alleges Amber Alert on AirPods caused life-long hearing damage to a user](https://www.androidauthority.com/apple-lawsuit-airpods-pro-hearing-damage-3166841/)
- - [Here’s how Disney Plus will implement its ad-supported plan later this year](https://www.androidauthority.com/disney-plus-ad-supported-plan-3127334/)
- - [A look at the competition between China and the US to build exascale supercomputers, useful for defense and climate modeling, as China pulls ahead &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220519/p2#a220519p2)<!-- TECH:END -->
+ - [OnePlus 9 series getting new update with multitasking improvements and more](https://www.androidauthority.com/oneplus-9-update-1212009/)
+ - [Microsoft tests Windows 11 desktop widgets with web search bar](https://www.theverge.com/2022/5/19/23128319/microsoft-windows-11-widget-preview-build-test-desktop-web-search)
+ - [Apple accused of union busting in its stores for the second time this week](https://www.theverge.com/2022/5/19/23128247/apple-accused-union-busting-nyc-world-trade-center-stores-cwa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
