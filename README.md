@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Romanians](http://9gag.com/gag/arnzYV6)
- - ⏩ [Make 5his happen and give me one](http://9gag.com/gag/awzv6oy)
- - 👉 [Set the bar lower for yourself](http://9gag.com/gag/aOQGwg3)<!-- MEMES:END -->
+ - 💣 [I love chocolattes](http://9gag.com/gag/aRrDY6y)
+ - ⏩ [Lock equipped bike](http://9gag.com/gag/aZrvGrp)
+ - 👉 [Make 5his happen and give me one](http://9gag.com/gag/awzv6oy)<!-- MEMES:END -->
 
 ---
 
