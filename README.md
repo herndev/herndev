@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It Just Works](http://9gag.com/gag/a31n6Z3)
- - ⏩ [This place in New Zealand where you can race go karts down a hill.](http://9gag.com/gag/aWg9rY4)
- - 👉 [What is love??](http://9gag.com/gag/adgbGPB)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aBnoAON)
+ - ⏩ [Paid for the old thing with two crates of beer](http://9gag.com/gag/aGzbmOG)
+ - 👉 [This place in New Zealand where you can race go karts down a hill.](http://9gag.com/gag/aWg9rY4)<!-- MEMES:END -->
 
 ---
 
