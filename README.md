@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cairo- and San Francisco-based Instabug, which helps developers monitor performance and fix bugs in their apps, raises a $46M Series B led by Insight Partners &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220519/p1#a220519p1)
  - [Google Doodle Honors Disability Rights Activist Stacey Park Milbern     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-disability-rights-activist-stacey-park-milbern/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39; Could Be the Last Hope for Star Wars Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-could-be-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)
- - [Ozark Season 4&#39;s Shock Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/ozark-season-4s-shock-ending-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Obi-Wan Kenobi&#39; Could Be the Last Hope for Star Wars Under Disney     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-could-be-the-last-hope-for-star-wars-under-disney/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
