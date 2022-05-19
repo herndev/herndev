@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple promises changes in Final Cut Pro after video editor complaints](https://appleinsider.com/articles/22/05/19/apple-promises-changes-in-final-cut-pro-after-video-editor-complaints?utm_medium=rss)
- - [The GameStop Saga Takes Down Another Hedge Fund     - CNET](https://www.cnet.com/personal-finance/investing/the-gamestop-saga-takes-down-another-hedge-fund/#ftag=CAD590a51e)
- - [Umbrella Academy and Sparrow Academy Clash in Season 3 Trailer from Netflix     - CNET](https://www.cnet.com/culture/entertainment/umbrella-academy-and-sparrow-academy-clash-in-season-3-trailer-from-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $20 on several Pokémon games for Nintendo Switch](https://www.theverge.com/good-deals/2022/5/19/23130831/pokemon-brilliant-diamond-shining-pearl-sword-shield-garmin-usb-c-xbox-deal-sale)
+ - [Senators push to break up Google, Facebook ads businesses in new bill](https://www.theverge.com/2022/5/19/23130963/google-facebook-antitrust-digital-advertising-competition-bill-senate)
+ - [Watch Boeing launch its Starliner space capsule in do-over flight](https://www.theverge.com/2022/5/19/23125978/boeing-cst-100-starliner-oft-2-space-station-test-flight-watch-live-stream)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
