@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [N3TWORK Studios, a blockchain gaming startup that incorporates features like NFTs into their mobile games, raises a $46M Series A led by Griffin Gaming Partners &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220518/p37#a220518p37)
- - [Survey shows Netflix is losing more long-term subscribers](https://www.theverge.com/2022/5/18/23125424/netflix-losing-long-term-subscribers-streaming)
- - [Now non-Tesla EVs can use its Superchargers in the UK, Spain, Sweden, and Austria](https://www.theverge.com/2022/5/18/23125391/tesla-supercharger-electric-vehicle-charging-pilot-expansion-uk-spain)<!-- TECH:END -->
+ - [How to connect a Nintendo Switch to your TV](https://www.androidauthority.com/connect-nintendo-switch-to-tv-3165704/)
+ - [Memorial Day Deals: Early Sales on Mattresses, Appliances, Home Decor and More     - CNET](https://www.cnet.com/news/memorial-day-deals/#ftag=CAD590a51e)
+ - [More People Should Watch The Most Underrated Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-most-underrated-sci-fi-show-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
