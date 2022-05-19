@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anker says its new USB-C hub lets M1 MacBooks output to three external monitors](https://www.theverge.com/2022/5/19/23130150/anker-563-usb-c-dock-10-in-1-three-external-monitors-hdmi-display-port-price)
- - [Everstream Analytics, which uses AI to offer supply chain insights and risk analytics, raises a $24M Series A led by Morgan Stanley &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220519/p13#a220519p13)
- - [Framework updates the 13.5&quot; modular Framework Laptop with 12th-Gen Intel CPUs, starting at $1,049; owners can upgrade existing laptops with a $538 kit &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220519/p12#a220519p12)<!-- TECH:END -->
+ - [Apple&#39;s anti-tracking tech is mostly working, but it can&#39;t block everything](https://appleinsider.com/articles/22/05/19/apples-anti-tracking-tech-is-mostly-working-but-it-cant-block-everything?utm_medium=rss)
+ - [The best new streaming movies this week on HBO Max, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Indian used car marketplace Cars24 lays off 600 people, which a source says is 6% of its workforce, after raising $400M in December 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220519/p16#a220519p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
