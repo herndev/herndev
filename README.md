@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hearthstone pro suspended after Blizzard becomes aware of 2018 sexual assault conviction](https://www.pcgamer.com/hearthstone-pro-suspended-after-blizzard-becomes-aware-of-2018-sexual-assault-conviction)
- - [New York attorney general investigating Twitch, Discord over Buffalo attack](https://www.polygon.com/23125626/buffalo-shooting-twitch-discord-new-york-attorney-general)
- - [World of Warships: Legends Spring Update is Now Live](https://news.xbox.com/en-us/2022/05/18/world-of-warships-legends-spring-update-is-now-live/)<!-- GAME:END -->
+ - [A Tribute To Facing Worlds, One Of The Greatest Multiplayer Maps Of All Time](https://kotaku.com/facing-worlds-unreal-tournament-ut-epic-games-multiplay-1848946987)
+ - [Pentagon shows off cool new UFO footage, but still says it&#39;s probably not aliens](https://www.pcgamer.com/pentagon-shows-off-cool-new-ufo-footage-but-still-says-its-probably-not-aliens)
+ - [DICE is removing Battlefield 2042&#39;s 128-player Breakthrough playlist, says 64 players is &#39;more tactical&#39;](https://www.pcgamer.com/dice-is-removing-battlefield-2042s-128-player-breakthrough-playlist-says-64-players-is-more-tactical)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
