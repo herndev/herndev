@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Steam Deck rivals OneXPlayer, Aya, and GPD are planning their revenge with AMD’s 6800U](https://www.theverge.com/2022/5/19/23125695/steam-deck-onexplayer-aya-neo-gpd-win-max-2)
- - [Sacramento-based Azra Games, a blockchain gaming startup developing a sci-fi fantasy game with virtual collectibles, raises a $15M seed led by a16z &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/220519/p32#a220519p32)
- - [The Department of Energy to dole out $3.5 billion for carbon removal hubs](https://www.theverge.com/2022/5/19/23131286/energy-department-3-5-billion-carbon-removal-hubs)<!-- TECH:END -->
+ - [Analysis: insurers significantly raised cyber coverage premiums in 2021, after high profile hacks; direct-written premiums by the largest insurers rose 92% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220519/p33#a220519p33)
+ - [How to mute or unmute yourself on Zoom](https://www.androidauthority.com/how-to-mute-zoom-3167102/)
+ - [TikTok reportedly plans a ‘major push’ into gaming and games livestreamers could play with viewers](https://www.theverge.com/2022/5/19/23131385/tiktok-gaming-tests-livestream-zynga-html5-bytedance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
