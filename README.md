@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New PlayStation 5 Bundle Comes With Horizon Forbidden West](https://kotaku.com/ps5-playstation-5-horizon-forbidden-west-sony-guerrilla-1848949762)
- - [Alex Garland on how Attack on Titan shaped his horror movie Men: ‘I’ve got to run faster’](https://www.polygon.com/23076652/alex-garland-men-movie-attack-on-titan)
- - [Riverdale ending with season 7](https://www.polygon.com/23130754/riverdale-canceled-finale-ending-last-season-7-cw)<!-- GAME:END -->
+ - [Marvel Snap is a new card game from ex-Hearthstone devs](https://www.polygon.com/23131048/marvel-snap-new-game-from-hearthstone-developers)
+ - [Marvel Snap is the first game from former Hearthstone director Ben Brode&#39;s new studio](https://www.pcgamer.com/marvel-snap-is-the-first-game-from-former-hearthstone-director-ben-brodes-new-studio)
+ - [&#39;Security researchers&#39; aka hackers make $800k in prize money for exploiting Windows 11 and Teams](https://www.pcgamer.com/security-researchers-aka-hackers-make-dollar800k-prize-money-for-exploiting-windows-11-and-teams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
