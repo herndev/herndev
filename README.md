@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [North American smartphone shipments grew 3.7% YoY in Q1 to 39M units; Apple grew its market share to 51% with 19.9M units, as Google grew 380% to 1.2M units &lpar;Canalys&rpar;](http://www.techmeme.com/220519/p29#a220519p29)
- - [How to answer calls to your iPhone on macOS Monterey and iPadOS 15](https://appleinsider.com/articles/21/11/30/how-to-answer-calls-to-your-iphone-on-macos-monterey-and-ipados-15?utm_medium=rss)
- - [The Online Spider Market Is Massive—and Crawling With Issues](https://www.wired.com/story/the-online-spider-market-is-massive-and-crawling-with-issues)<!-- TECH:END -->
+ - [A new Daredevil series is reportedly coming to Disney Plus](https://www.theverge.com/2022/5/19/23131453/daredevil-mcu-marvel-disney-plus-series)
+ - [The Samsung Galaxy Z Flip 4 may have a much larger battery after all](https://www.androidauthority.com/samsung-galaxy-z-flip-4-battery-2-3167091/)
+ - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
