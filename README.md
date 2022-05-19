@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halo series never cared about aliens, and so it never got weird](https://www.polygon.com/23125338/halo-covenant-aliens-problem)
- - [How to complete Knight Bernahl&#39;s quest in Elden Ring](https://www.pcgamer.com/elden-ring-bernahl-quest-invasion-letter)
- - [Framework&#39;s 12th Gen Intel upgrade kit is a welcome first for laptops](https://www.pcgamer.com/frameworks-12th-gen-intel-upgrade-kit-is-a-welcome-first-for-laptops)<!-- GAME:END -->
+ - [Every Borderlands Game, Ranked From Worst To Best](https://kotaku.com/borderlands-games-ranked-tiny-tinas-wonderlands-gearbox-1848944874)
+ - [Fortnite returning to iOS, but not to the App Store](https://www.polygon.com/fortnite/22667072/fortnite-iphone-ios-geforce-now-epic-games)
+ - [Epic Games Store’s Mega Sale goes live, with 4 free games on the way](https://www.polygon.com/gaming/23125952/epic-games-stores-mega-sale-discounts-games-coupon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
