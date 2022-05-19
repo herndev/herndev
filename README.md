@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New PS Plus brings trophy support to classic games](https://www.polygon.com/23131569/playstation-plus-premium-trophy-support-spartacus)
- - [D&amp;D Beyond is giving away the Acquisitions Incorporated campaign book for free](https://www.polygon.com/23131334/dungeons-and-dragons-dnd-beyond-acquisitions-incorporated-campaign-book-free)
- - [Here Are All The Pressers Filling The Vacuum Left By E3’s Shambling Zombie Corpse](https://kotaku.com/e3-2022-press-conference-schedule-xbox-bethesda-gamesco-1848951821)<!-- GAME:END -->
+ - [The Halo Show’s First Season Closes With Uncertainty And Promise](https://kotaku.com/halo-tv-show-master-chief-infinite-cortana-paramount-pl-1848952140)
+ - [Here are 50 games worth picking up in Epic’s mega sale](https://www.polygon.com/2022/5/19/23131551/epic-games-store-mega-sale-recommendations-list-best)
+ - [Spirittea Is Stardew Valley Meets Spirited Away, Can Take Our Money Now](https://kotaku.com/spirittea-spirited-away-stardew-valley-cheesemaster-gam-1848952082)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
