@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yesss](http://9gag.com/gag/avAmNNM)
- - ⏩ [Make it happen!!](http://9gag.com/gag/a41VeNd)
- - 👉 [A valuable lesson](http://9gag.com/gag/adgbEDN)<!-- MEMES:END -->
+ - 💣 [A valuable lesson](http://9gag.com/gag/adgbEDN)
+ - ⏩ [Green gamma tetten](http://9gag.com/gag/aegWo6Q)
+ - 👉 [Lock equipped bike](http://9gag.com/gag/aZrvGrp)<!-- MEMES:END -->
 
 ---
 
