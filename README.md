@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Women](http://9gag.com/gag/aBnoAON)
- - ⏩ [Paid for the old thing with two crates of beer](http://9gag.com/gag/aGzbmOG)
- - 👉 [This place in New Zealand where you can race go karts down a hill.](http://9gag.com/gag/aWg9rY4)<!-- MEMES:END -->
+ - ⏩ [Probably the closest thing we&#39;ll get to a confession](http://9gag.com/gag/aWg9rP3)
+ - 👉 [It Just Works](http://9gag.com/gag/a31n6Z3)<!-- MEMES:END -->
 
 ---
 
