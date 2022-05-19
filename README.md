@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ comedy series &#39;Trying&#39; to return for season three on July 22](https://appleinsider.com/articles/22/05/19/apple-tv-comedy-series-trying-to-return-for-season-three-on-july-22?utm_medium=rss)
- - [Studio Display 15.5 update minimally improves camera and performance](https://appleinsider.com/articles/22/05/19/studio-display-155-update-minimally-improves-camera-and-performance?utm_medium=rss)
- - [More PlayStation 5 consoles are coming to Walmart on June 2nd](https://www.theverge.com/2022/5/19/23130194/sony-playstation-5-ps5-walmart-plus-console-restock-availability-date-time)<!-- TECH:END -->
+ - [Apple promises changes in Final Cut Pro after video editor complaints](https://appleinsider.com/articles/22/05/19/apple-promises-changes-in-final-cut-pro-after-video-editor-complaints?utm_medium=rss)
+ - [The GameStop Saga Takes Down Another Hedge Fund     - CNET](https://www.cnet.com/personal-finance/investing/the-gamestop-saga-takes-down-another-hedge-fund/#ftag=CAD590a51e)
+ - [Umbrella Academy and Sparrow Academy Clash in Season 3 Trailer from Netflix     - CNET](https://www.cnet.com/culture/entertainment/umbrella-academy-and-sparrow-academy-clash-in-season-3-trailer-from-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
