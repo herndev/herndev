@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9 series getting new update with multitasking improvements and more](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [Microsoft tests Windows 11 desktop widgets with web search bar](https://www.theverge.com/2022/5/19/23128319/microsoft-windows-11-widget-preview-build-test-desktop-web-search)
- - [Apple accused of union busting in its stores for the second time this week](https://www.theverge.com/2022/5/19/23128247/apple-accused-union-busting-nyc-world-trade-center-stores-cwa)<!-- TECH:END -->
+ - [Does Apex Legends Mobile support crossplay?](https://www.androidauthority.com/does-apex-legends-mobile-support-crossplay-3166707/)
+ - [NHTSA records show it is investigating over 30 incidents of a Tesla suspected of being on Autopilot mode going on to be involved in a serious crash &lpar;Ryan Felton/Wall Street Journal&rpar;](http://www.techmeme.com/220519/p6#a220519p6)
+ - [Best Coffee Grinder to Buy for 2022     - CNET](https://www.cnet.com/news/best-coffee-grinder/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
