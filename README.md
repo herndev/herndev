@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tribute To Facing Worlds, One Of The Greatest Multiplayer Maps Of All Time](https://kotaku.com/facing-worlds-unreal-tournament-ut-epic-games-multiplay-1848946987)
- - [Pentagon shows off cool new UFO footage, but still says it&#39;s probably not aliens](https://www.pcgamer.com/pentagon-shows-off-cool-new-ufo-footage-but-still-says-its-probably-not-aliens)
- - [DICE is removing Battlefield 2042&#39;s 128-player Breakthrough playlist, says 64 players is &#39;more tactical&#39;](https://www.pcgamer.com/dice-is-removing-battlefield-2042s-128-player-breakthrough-playlist-says-64-players-is-more-tactical)<!-- GAME:END -->
+ - [V Rising developers will make offline mode available &#39;as soon as possible&#39;](https://www.pcgamer.com/v-rising-developers-will-make-offline-mode-available-as-soon-as-possible)
+ - [AI robot painter holds an exhibition and her art is really cool](https://www.pcgamer.com/ai-robot-painter-holds-an-exhibition-and-her-art-is-really-cool)
+ - [Could Tether be the catalyst of a crypto apocalypse?](https://www.pcgamer.com/could-tether-be-the-catalyst-of-a-crypto-apocalypse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
