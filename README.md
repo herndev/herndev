@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)
- - ⏩ [Oh Yes](http://9gag.com/gag/ajgyz51)
- - 👉 [Old but new](http://9gag.com/gag/a71AY6e)<!-- MEMES:END -->
+ - 💣 [Set the bar lower for yourself](http://9gag.com/gag/aOQGwg3)
+ - ⏩ [Old but new](http://9gag.com/gag/a71AY6e)
+ - 👉 [Fast &amp; Furious multiverse.](http://9gag.com/gag/aAGZjOp)<!-- MEMES:END -->
 
 ---
 
