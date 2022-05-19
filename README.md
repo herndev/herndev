@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Lawsuit alleges Amber Alert on AirPods caused life-long hearing damage to a user](https://www.androidauthority.com/apple-lawsuit-airpods-pro-hearing-damage-3166841/)
  - [Here’s how Disney Plus will implement its ad-supported plan later this year](https://www.androidauthority.com/disney-plus-ad-supported-plan-3127334/)
- - [A look at the competition between China and the US to build exascale supercomputers, useful for defense and climate modeling, as China pulls ahead &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220519/p2#a220519p2)
- - [&#39;The Boys&#39; Season 3: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-what-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the competition between China and the US to build exascale supercomputers, useful for defense and climate modeling, as China pulls ahead &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220519/p2#a220519p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
