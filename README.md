@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Innocents is the creepiest Stephen King movie that King didn’t write](https://www.polygon.com/23106917/the-innocents-review-horror)
- - [The Future Games Show returns in June](https://www.pcgamer.com/future-games-show-summer-2022-announcement)
- - [Batman: Everybody Lies is a big improvement on the Detective board game formula](https://www.polygon.com/23103698/batman-everybody-lies-detective-board-game-review)<!-- GAME:END -->
+ - [Here&#39;s 18 cracking minutes of Fallout: London gameplay](https://www.pcgamer.com/heres-18-cracking-minutes-of-fallout-london-gameplay)
+ - [Borderlands 3 goes free on the Epic Store](https://www.pcgamer.com/borderlands-3-goes-free-on-the-epic-store)
+ - [Some Of The Best Puzzle Games Ever Made Are On Sale Right Now](https://kotaku.com/steam-pc-sale-outer-wilds-baba-is-you-obra-dinn-puzzle-1848950245)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
