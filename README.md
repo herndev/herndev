@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi beats estimates with ~$10.9B in Q1 revenue, down 4.6% YoY for its first-ever decline, and a ~$87M net loss, as China&#39;s lockdown cripples smartphone sales &lpar;Bloomberg&rpar;](http://www.techmeme.com/220519/p8#a220519p8)
- - [TikTok users can now credit specific videos to make sure viral creators get their due](https://www.theverge.com/2022/5/19/23129437/tiktok-credit-tag-individual-video-feature)
- - [Garmin finally adds a camera to its Varia bike radar](https://www.theverge.com/2022/5/19/23129229/garmin-varia-rct715-camera-radar-taillight-price-specs)<!-- TECH:END -->
+ - [Anker says its new USB-C hub lets M1 MacBooks output to three external monitors](https://www.theverge.com/2022/5/19/23130150/anker-563-usb-c-dock-10-in-1-three-external-monitors-hdmi-display-port-price)
+ - [Everstream Analytics, which uses AI to offer supply chain insights and risk analytics, raises a $24M Series A led by Morgan Stanley &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220519/p13#a220519p13)
+ - [Framework updates the 13.5&quot; modular Framework Laptop with 12th-Gen Intel CPUs, starting at $1,049; owners can upgrade existing laptops with a $538 kit &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220519/p12#a220519p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
