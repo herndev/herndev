@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 24 Best Outdoor Summer Deals From REI&#39;s Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2022)
- - [Halo’s first season is a Flood of bold bets and tangled plot points](https://www.theverge.com/23132662/halo-tv-series-season-1-review-paramount-plus)
- - [Amazon’s Fire OS finally ditches Android 9 Pie for something a bit more recent](https://www.androidauthority.com/amazon-fire-os-8-3167616/)<!-- TECH:END -->
+ - [How to share your screen in Zoom meetings](https://www.androidauthority.com/share-screen-zoom-3167021/)
+ - [Court docs and a source: Larry Ellison participated in a November 14, 2020 call that focused on strategies for contesting the legitimacy of the 2020 US election &lpar;Washington Post&rpar;](http://www.techmeme.com/220520/p18#a220520p18)
+ - [Bravado, a networking service and jobs marketplace for sales professionals, raises a $26M Series B led by Tiger Global &lpar;Sophia Kunthara/Crunchbase News&rpar;](http://www.techmeme.com/220520/p17#a220520p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
