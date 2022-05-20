@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These old school comedies](http://9gag.com/gag/a91Vj10)
- - ⏩ [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
+ - 💣 [All I have is Anxiety Disorder and that&#39;s it](http://9gag.com/gag/aBnoDvx)
+ - ⏩ [Accurate](http://9gag.com/gag/aogdmBe)
  - 👉 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
 
 ---
