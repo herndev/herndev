@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crouton](http://9gag.com/gag/aogdmMm)
- - ⏩ [I wonder which one&#39;s Dutch](http://9gag.com/gag/a618vvA)
+ - 💣 [These old school comedies](http://9gag.com/gag/a91Vj10)
+ - ⏩ [Find the center of a board](http://9gag.com/gag/abgEjGE)
  - 👉 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
 
 ---
