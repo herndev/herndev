@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple is working on an updated version of the HomePod for release in the Q4 2022 or Q1 2023 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220520/p19#a220520p19)
- - [Summer Game Fest and Other Events: Everything We Know So Far     - CNET](https://www.cnet.com/tech/gaming/summer-game-fest-and-other-events-everything-we-know-so-far/#ftag=CAD590a51e)
- - [Meta Tells Employees Not to Discuss Abortion at Work, Report Says     - CNET](https://www.cnet.com/news/social-media/meta-tells-employees-not-to-discuss-abortion-at-work-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Singapore-based online fashion marketplace Zilingo fires CEO Ankiti Bose after a probe found &quot;serious financial irregularities&quot;; Bose was suspended in April &lpar;Reuters&rpar;](http://www.techmeme.com/220520/p20#a220520p20)
+ - [Twitter’s latest update will make third party apps better](https://www.theverge.com/2022/5/20/23132871/twitter-reverse-chronological-timeline-api-v2-third-party-developers-support)
+ - [Microsoft&#39;s Bing Applied China&#39;s Political Censorship to Some US Searches, Report Says     - CNET](https://www.cnet.com/tech/microsofts-bing-applied-chinas-political-censorship-to-some-us-searches-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
