@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Johnny being Johnny](http://9gag.com/gag/aOQG6or)
- - ⏩ [Understandable](http://9gag.com/gag/a21GBvd)
- - 👉 [Make it happen!!](http://9gag.com/gag/a41VeNd)<!-- MEMES:END -->
+ - 💣 [You can\u2019t make this stuff up - Amber Heard\u2019s lawyers bring in a \u201cTwitter\u201d expert, and Johnny Depp\u2019s lawyer jumps on the opportunity to say #AmberTurd in front of jury](http://9gag.com/gag/arnz6j7)
+ - ⏩ [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
+ - 👉 [Han solo been playing too much Elden Ring](http://9gag.com/gag/aggjRjW)<!-- MEMES:END -->
 
 ---
 
