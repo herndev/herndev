@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We can&#39;t hardly do better than german&#39;s ads](http://9gag.com/gag/a91VbDD)
- - ⏩ [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
- - 👉 [That feeling..](http://9gag.com/gag/a21xzzY)<!-- MEMES:END -->
+ - 💣 [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
+ - ⏩ [We can&#39;t hardly do better than german&#39;s ads](http://9gag.com/gag/a91VbDD)
+ - 👉 [According to this hulu&#39;s series, This is Count Rostov, Russia, during the reign of Catherine The Great . \ud83e\udd26\ud83c\udffc\u2642\ufe0f I&#39;m NOT racist, I&#39;m just logical, reasonable and realistic. The rule of `diversity` doesn&#39;t apply here, that&#39;s just plain stupid!](http://9gag.com/gag/aGzoYp5)<!-- MEMES:END -->
 
 ---
 
