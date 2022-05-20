@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based online fashion marketplace Zilingo fires CEO Ankiti Bose after a probe found &quot;serious financial irregularities&quot;; Bose was suspended in April &lpar;Reuters&rpar;](http://www.techmeme.com/220520/p20#a220520p20)
- - [Twitter’s latest update will make third party apps better](https://www.theverge.com/2022/5/20/23132871/twitter-reverse-chronological-timeline-api-v2-third-party-developers-support)
- - [Microsoft&#39;s Bing Applied China&#39;s Political Censorship to Some US Searches, Report Says     - CNET](https://www.cnet.com/tech/microsofts-bing-applied-chinas-political-censorship-to-some-us-searches-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: EA is looking to sell or merge its business; sources say EA has held talks with Disney, Apple, Amazon, and NBCUniversal &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/220520/p22#a220520p22)
+ - [Apple reportedly chose a standalone AR / VR headset over a more powerful tethered design](https://www.theverge.com/2022/5/20/23133038/apple-mixed-virtual-augmented-reality-ar-vr-headset-self-contained-device)
+ - [Dutch e-commerce company Prosus says it is exiting Russia and is looking to sell Avito, its classifieds ads business in the country valued at an estimated $6B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/220520/p21#a220520p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
