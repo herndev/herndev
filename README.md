@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon hardware exec takes another swipe at Zuckerberg’s metaverse fantasy](https://www.theverge.com/2022/5/20/23131767/amazon-hardware-meta-metaverse-virtual-reality-vs-real-world)
- - [Samsung put Galaxy Buds 2 inside a Poke Ball, sells out in a flash](https://www.androidauthority.com/samsung-galaxy-buds-2-pokemon-edition-3167224/)
- - [Snapchat is testing Family Center, which lets parents see who their teens are friends with and whom they are texting; teens have the option to not participate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220520/p1#a220520p1)<!-- TECH:END -->
+ - [Mac Studio Deals: Where to Shop For Apple&#39;s Newest Desktop Computer     - CNET](https://www.cnet.com/tech/computing/best-mac-studio-deals/#ftag=CAD590a51e)
+ - [A wild Pokémon-themed Galaxy Buds case has appeared](https://www.theverge.com/tldr/2022/5/20/23132088/poke-ball-galaxy-buds-samsung-case-south-korea)
+ - [YC-backed DeFi startup Stablegains faces a lawsuit after losing $44M of users&#39; funds by investing them in UST, after earlier claiming it was investing in USDC &lpar;Timothy Craig/Crypto Briefing&rpar;](http://www.techmeme.com/220520/p2#a220520p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
