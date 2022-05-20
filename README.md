@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New HomePod model coming as soon as late 2022, according to Ming-Chi Kuo](https://appleinsider.com/articles/22/05/20/new-homepod-model-coming-as-soon-as-late-2022-according-to-ming-chi-kuo?utm_medium=rss)
- - [EU law will force Apple to blow open its entire hardware and software stack](https://appleinsider.com/articles/22/05/20/eu-law-will-force-apple-to-blow-open-its-entire-hardware-and-software-stack?utm_medium=rss)
- - [Seoul prosecutors open an investigation into Terraform Labs, the company behind LUNA and UST collapse, as its co-founder Do Kwon faces a $78M tax bill &lpar;TechCrunch&rpar;](http://www.techmeme.com/220520/p12#a220520p12)<!-- TECH:END -->
+ - [Amazon’s updating the foundation of Fire OS to something a bit more modern](https://www.theverge.com/2022/5/20/23132470/amazon-fire-os-update-android-pie-10-11-tablets)
+ - [Deal: Save $200 on the GoPro Hero 10 Black](https://www.androidauthority.com/gopro-hero-10-black-deal-3167597/)
+ - [Noyo, which provides APIs for companies to offer health insurance and other benefits, raises a $45M Series B led by Norwest Venture Partners &lpar;FinSMEs&rpar;](http://www.techmeme.com/220520/p13#a220520p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
