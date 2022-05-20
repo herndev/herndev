@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Nice friends](http://9gag.com/gag/a0ZxPWL)
- - ⏩ [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)
- - 👉 [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)<!-- MEMES:END -->
+ - ⏩ [I know it&#39;s a baboon but... its beautiful. Monkeypox though](http://9gag.com/gag/aM4W1b1)
+ - 👉 [We nearly there....](http://9gag.com/gag/aZrdPv3)<!-- MEMES:END -->
 
 ---
 
