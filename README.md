@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: the wild laptops from Computex 2022](https://www.theverge.com/2022/5/20/23132264/vergecast-podcast-498-computex-2022-elon-musk-twitter-bots)
- - [Apple a &#39;compelling name&#39; for riding out current market conditions, analyst says](https://appleinsider.com/articles/22/05/20/apple-a-compelling-name-for-riding-out-current-market-conditions-analyst-says?utm_medium=rss)
- - [Google says Android 13 Beta will provide native support for braille displays, so users will not need to download a separate app &lpar;Kishan Vyas/XDA Developers&rpar;](http://www.techmeme.com/220520/p10#a220520p10)<!-- TECH:END -->
+ - [New HomePod model coming as soon as late 2022, according to Ming-Chi Kuo](https://appleinsider.com/articles/22/05/20/new-homepod-model-coming-as-soon-as-late-2022-according-to-ming-chi-kuo?utm_medium=rss)
+ - [EU law will force Apple to blow open its entire hardware and software stack](https://appleinsider.com/articles/22/05/20/eu-law-will-force-apple-to-blow-open-its-entire-hardware-and-software-stack?utm_medium=rss)
+ - [Seoul prosecutors open an investigation into Terraform Labs, the company behind LUNA and UST collapse, as its co-founder Do Kwon faces a $78M tax bill &lpar;TechCrunch&rpar;](http://www.techmeme.com/220520/p12#a220520p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
