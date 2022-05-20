@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Mario Strikers: Battle League Could Be Nintendo’s Next Multiplayer Hit](https://kotaku.com/mario-strikers-battle-league-nintendo-switch-smash-kart-1848956887)
- - [The Body Bugs are Coming for You – Free Today on Xbox](https://news.xbox.com/en-us/2022/05/20/the-body-bugs-are-coming-for-you-free-today-on-xbox/)
- - [The FTC looks to crack down on influencers and platforms over &#39;fake and manipulated reviews&#39;](https://www.pcgamer.com/the-ftc-looks-to-crack-down-on-influencers-and-platforms-over-fake-and-manipulated-reviews)<!-- GAME:END -->
+ - [Belle, RRR, Morbius, and more new movies you can watch at home this weekend](https://www.polygon.com/23073809/new-movies-watch-belle-morbius-rrr-netflix-jackass)
+ - [This Week on Xbox: New Games, Upcoming Releases, and Events](https://news.xbox.com/en-us/2022/05/20/this-week-on-xbox-new-games-upcoming-releases-and-events/)
+ - [High School Musical: The Musical: The Series returns in July, has Corbin Bleu](https://www.polygon.com/23132764/high-school-musical-the-musical-the-series-season-3-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
