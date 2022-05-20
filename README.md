@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm unveils the Snapdragon 8 Plus Gen 1, says it will offer 10% faster CPU performance, 10% faster GPU clocks, and have up to 30% better power efficiency &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220520/p5#a220520p5)
- - [Snapdragon 8 Plus Gen 1 announced: What the regular chipset should’ve been?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-3164610/)
- - [Qualcomm&#39;s Snapdragon 8 Plus Gen 1 Is an Upgraded Chip for Only a Few US phones     - CNET](https://www.cnet.com/tech/mobile/qualcomms-snapdragon-8-plus-gen-1-is-an-upgraded-chip-for-only-a-few-us-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GameSir T4 Mini review: An amazing miniature controller at an unbeatable price](https://appleinsider.com/articles/22/05/20/gamesir-t4-mini-review-an-amazing-miniature-controller-at-an-unbeatable-price?utm_medium=rss)
+ - [Daily deals May 20: 10% off iPad, 10% off Apple Watch SE, 40% off Wireless CarPlay adapter, more](https://appleinsider.com/articles/22/05/20/daily-deals-may-20-10-off-ipad-10-off-apple-watch-se-40-off-wireless-carplay-adapter-more?utm_medium=rss)
+ - [Chromebook 101: how to change your Chrome OS channels and get unreleased features](https://www.theverge.com/23130901/chromebook-101-how-to-change-chrome-os-channels-unreleased-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
