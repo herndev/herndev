@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Sci-Fi Movies on Disney Plus You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-10-sci-fi-movies-on-disney-plus-you-need-to-watch/#ftag=CAD590a51e)
- - [17 Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/17-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
- - [Elon Musk Calls Sexual Misconduct Allegations &#39;Utterly Untrue&#39;     - CNET](https://www.cnet.com/tech/elon-musk-calls-sexual-misconduct-allegations-utterly-untrue/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Snapchat is testing Family Center, which lets parents see who their teens are friends with and whom they are texting; teens have the option to not participate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220520/p1#a220520p1)
+ - [The 2018-era Galaxy Note 9 just got another update, bringing May 2022 patch](https://www.androidauthority.com/samsung-galaxy-note-9-may-2022-update-3164612/)
+ - [Apple Showed AR, VR Headset to Company&#39;s Board, Report Says     - CNET](https://www.cnet.com/tech/apple-showed-ar-vr-headset-to-companys-board-report/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
