@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [You can\u2019t make this stuff up - Amber Heard\u2019s lawyers bring in a \u201cTwitter\u201d expert, and Johnny Depp\u2019s lawyer jumps on the opportunity to say #AmberTurd in front of jury](http://9gag.com/gag/arnz6j7)
- - ⏩ [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
- - 👉 [Han solo been playing too much Elden Ring](http://9gag.com/gag/aggjRjW)<!-- MEMES:END -->
+ - ⏩ [Vangelis, composer of Chariots of Fire and Blade Runner soundtracks, dies aged 79. Your songs helped me a lot while writing, R.I.P Master.](http://9gag.com/gag/aVxBnrK)
+ - 👉 [I wonder which one&#39;s Dutch](http://9gag.com/gag/a618vvA)<!-- MEMES:END -->
 
 ---
 
