@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice friends](http://9gag.com/gag/a0ZxPWL)
- - ⏩ [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)
- - 👉 [She said it perfectly. +10 wisdom](http://9gag.com/gag/a71GKXw)<!-- MEMES:END -->
+ - 💣 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
+ - ⏩ [This is hilarious](http://9gag.com/gag/abgdbyp)
+ - 👉 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)<!-- MEMES:END -->
 
 ---
 
