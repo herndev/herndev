@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Department of Justice will no longer prosecute &#39;good faith&#39; hackers](https://www.pcgamer.com/us-department-of-justice-will-no-longer-prosecute-good-faith-hackers)
- - [Xbox, Dolmen, Multiplayer, and You](https://news.xbox.com/en-us/2022/05/20/xbox-dolmen-multiplayer-and-you/)
- - [Pokémon TCG now includes peel-off Ditto cards, throwing collectors into disarray](https://www.polygon.com/23132566/pokemon-tcg-trading-card-game-peel-off-ditto-cards-collectors)<!-- GAME:END -->
+ - [22 Years Later, PS1 Classic Syphon Filter Will Soon Have Trophies](https://kotaku.com/syphon-filter-ps-plus-playstation-trophies-classics-ps1-1848956245)
+ - [Breaking down Love, Death &amp; Robots season 3 by the amounts of love, death, and robots](https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown)
+ - [New Wordle game lets you compete with your friends and family head-to-head](https://www.pcgamer.com/new-wordle-game-lets-you-compete-with-your-friends-and-family-head-to-head)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
