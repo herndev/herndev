@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His supporters will follow](http://9gag.com/gag/aQXrPOK)
- - ⏩ [That execution tho](http://9gag.com/gag/aNP3yx0)
- - 👉 [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)<!-- MEMES:END -->
+ - 💣 [We can&#39;t hardly do better than german&#39;s ads](http://9gag.com/gag/a91VbDD)
+ - ⏩ [This is called the Rehbinder effect, which in physics is the reduction in the hardness and ductility of a material, by a surface-active molecular film](http://9gag.com/gag/ajgdYPp)
+ - 👉 [That feeling..](http://9gag.com/gag/a21xzzY)<!-- MEMES:END -->
 
 ---
 
