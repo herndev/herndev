@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Controversial Street Fighter Champion Banned From Several Major Tournaments](https://kotaku.com/infiltration-evo-combo-breaker-fgc-fighting-game-commun-1848956624)
- - [Official PlayStation Podcast Episode 432: Tornado Townies](https://blog.playstation.com/2022/05/20/official-playstation-podcast-episode-432-tornado-townies/)
- - [Official PlayStation Podcast Episode 432: Tornado Townies](https://blog.playstation.com/2022/05/20/official-playstation-podcast-episode-432-tornado-townies/)<!-- GAME:END -->
+ - [Why Mario Strikers: Battle League Could Be Nintendo’s Next Multiplayer Hit](https://kotaku.com/mario-strikers-battle-league-nintendo-switch-smash-kart-1848956887)
+ - [The Body Bugs are Coming for You – Free Today on Xbox](https://news.xbox.com/en-us/2022/05/20/the-body-bugs-are-coming-for-you-free-today-on-xbox/)
+ - [The FTC looks to crack down on influencers and platforms over &#39;fake and manipulated reviews&#39;](https://www.pcgamer.com/the-ftc-looks-to-crack-down-on-influencers-and-platforms-over-fake-and-manipulated-reviews)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
