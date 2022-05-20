@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC warns edtech companies to not use children&#39;s data for commercial purposes like ads without parental consent, saying it will &quot;vigilantly enforce&quot; COPPA &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220519/p37#a220519p37)
- - [Pixelmator Pro update released with improved Photos Browser](https://appleinsider.com/articles/22/05/20/pixelmator-pro-update-released-with-improved-photos-browser?utm_medium=rss)
- - [A Meta executive told employees to stop discussing abortion on Workplace, citing &quot;an increased risk&quot; that the company is seen as a &quot;hostile work environment&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220519/p36#a220519p36)<!-- TECH:END -->
+ - [The 10 Sci-Fi Movies on Disney Plus You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-10-sci-fi-movies-on-disney-plus-you-need-to-watch/#ftag=CAD590a51e)
+ - [17 Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/17-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
+ - [Elon Musk Calls Sexual Misconduct Allegations &#39;Utterly Untrue&#39;     - CNET](https://www.cnet.com/tech/elon-musk-calls-sexual-misconduct-allegations-utterly-untrue/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
