@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Encountering wild Pokémon would be terrifying in real life](https://www.polygon.com/23125853/pokemon-real-life-vfx-animated)
- - [League of Legends’ new champion, Bel’Veth, revealed in a terror-filled new teaser](https://www.polygon.com/23132541/league-of-legends-new-champion-belveth-teaser-trailer)
- - [Genshin Impact Is Back, And The Update Was Worth Waiting For](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-chasm-2-7-xiao-itto-y-1848955633)<!-- GAME:END -->
+ - [US Department of Justice will no longer prosecute &#39;good faith&#39; hackers](https://www.pcgamer.com/us-department-of-justice-will-no-longer-prosecute-good-faith-hackers)
+ - [Xbox, Dolmen, Multiplayer, and You](https://news.xbox.com/en-us/2022/05/20/xbox-dolmen-multiplayer-and-you/)
+ - [Pokémon TCG now includes peel-off Ditto cards, throwing collectors into disarray](https://www.polygon.com/23132566/pokemon-tcg-trading-card-game-peel-off-ditto-cards-collectors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
