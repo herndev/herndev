@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s headset faced numerous snags early, Jony Ive still involved with project](https://appleinsider.com/articles/22/05/20/apples-headset-faced-numerous-snags-early-jony-ive-still-involved-with-project?utm_medium=rss)
- - [Report details Jony Ive&#39;s work on Apple&#39;s MR headset as sources say he remains involved as an external consultant and that the device is not gaming focused &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220520/p8#a220520p8)
- - [Obi-Wan is coming to Fortnite next week](https://www.theverge.com/2022/5/20/23131464/obi-wan-kenobi-fortnite-epic)<!-- TECH:END -->
+ - [Vergecast: the wild laptops from Computex 2022](https://www.theverge.com/2022/5/20/23132264/vergecast-podcast-498-computex-2022-elon-musk-twitter-bots)
+ - [Apple a &#39;compelling name&#39; for riding out current market conditions, analyst says](https://appleinsider.com/articles/22/05/20/apple-a-compelling-name-for-riding-out-current-market-conditions-analyst-says?utm_medium=rss)
+ - [Google says Android 13 Beta will provide native support for braille displays, so users will not need to download a separate app &lpar;Kishan Vyas/XDA Developers&rpar;](http://www.techmeme.com/220520/p10#a220520p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
