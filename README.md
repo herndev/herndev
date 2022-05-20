@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
- - ⏩ [This is hilarious](http://9gag.com/gag/abgdbyp)
- - 👉 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)<!-- MEMES:END -->
+ - 💣 [This steel disc spinning, sparking, pinging and bouncing on a concrete floor](http://9gag.com/gag/aLvbPB6)
+ - ⏩ [This ultra-small generator is highly portable and works even with shallow, slow moving water. Already tested with powering street lights, it promises to allow people in the world\u2019s remote regions to generate their own electricity.](http://9gag.com/gag/a0ZxPQB)
+ - 👉 [I hope some more will join her](http://9gag.com/gag/aQXrpW7)<!-- MEMES:END -->
 
 ---
 
