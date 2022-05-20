@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to allow Match Group to offer alternative billing to users on Android; the Tinder owner drops a request for a temporary restraining order &lpar;Jay Bonggolto/Android Central&rpar;](http://www.techmeme.com/220520/p15#a220520p15)
- - [More accurate wind forecasts can save Americans millions in energy costs](https://www.theverge.com/2022/5/20/23130791/accurate-forecast-wind-energy-cost-savings)
- - [Three Thousand Years of Longing’s first trailer is a kaleidoscope of cautionary tales](https://www.theverge.com/2022/5/20/23075186/three-thousand-years-of-longing-trailer)<!-- TECH:END -->
+ - [The 24 Best Outdoor Summer Deals From REI&#39;s Anniversary Sale](https://www.wired.com/story/rei-anniversary-sale-may-2022)
+ - [Halo’s first season is a Flood of bold bets and tangled plot points](https://www.theverge.com/23132662/halo-tv-series-season-1-review-paramount-plus)
+ - [Amazon’s Fire OS finally ditches Android 9 Pie for something a bit more recent](https://www.androidauthority.com/amazon-fire-os-8-3167616/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
