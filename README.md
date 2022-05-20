@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best free antivirus software for your PC](https://www.androidauthority.com/best-free-antivirus-software-pc-3165165/)
- - [SpaceX reportedly paid $250,000 to cover up Elon Musk’s sexual misconduct](https://www.theverge.com/2022/5/19/23131680/elon-musk-sexual-misconduct-accusations-spacex-flight-attendant)
- - [The Absolute Best RPGs on Nintendo Switch     - CNET](https://www.cnet.com/tech/gaming/the-absolute-best-rpgs-on-nintendo-switch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixelmator Pro update released with improved Photos Browser](https://appleinsider.com/articles/22/05/20/pixelmator-pro-update-released-with-improved-photos-browser?utm_medium=rss)
+ - [A Meta executive told employees to stop discussing abortion on Workplace, citing &quot;an increased risk&quot; that the company is seen as a &quot;hostile work environment&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220519/p36#a220519p36)
+ - [Meta tells employees to stop discussing abortion at work](https://www.theverge.com/2022/5/19/23131714/meta-ban-abortion-discussion-at-work-facebook-workplace-roe-v-wade)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
