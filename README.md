@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [22 Years Later, PS1 Classic Syphon Filter Will Soon Have Trophies](https://kotaku.com/syphon-filter-ps-plus-playstation-trophies-classics-ps1-1848956245)
- - [Breaking down Love, Death &amp; Robots season 3 by the amounts of love, death, and robots](https://www.polygon.com/23132611/love-death-robots-season-3-review-shorts-breakdown)
- - [New Wordle game lets you compete with your friends and family head-to-head](https://www.pcgamer.com/new-wordle-game-lets-you-compete-with-your-friends-and-family-head-to-head)<!-- GAME:END -->
+ - [Controversial Street Fighter Champion Banned From Several Major Tournaments](https://kotaku.com/infiltration-evo-combo-breaker-fgc-fighting-game-commun-1848956624)
+ - [Official PlayStation Podcast Episode 432: Tornado Townies](https://blog.playstation.com/2022/05/20/official-playstation-podcast-episode-432-tornado-townies/)
+ - [Official PlayStation Podcast Episode 432: Tornado Townies](https://blog.playstation.com/2022/05/20/official-playstation-podcast-episode-432-tornado-townies/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
