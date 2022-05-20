@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro update released with improved Photos Browser](https://appleinsider.com/articles/22/05/20/pixelmator-pro-update-released-with-improved-photos-browser?utm_medium=rss)
- - [A Meta executive told employees to stop discussing abortion on Workplace, citing &quot;an increased risk&quot; that the company is seen as a &quot;hostile work environment&quot; &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220519/p36#a220519p36)
- - [Meta tells employees to stop discussing abortion at work](https://www.theverge.com/2022/5/19/23131714/meta-ban-abortion-discussion-at-work-facebook-workplace-roe-v-wade)<!-- TECH:END -->
+ - [Elon Musk Calls Sexual Misconduct Allegations &#39;Utterly Untrue&#39;     - CNET](https://www.cnet.com/tech/elon-musk-calls-sexual-misconduct-allegations-utterly-untrue/#ftag=CAD590a51e)
+ - [FTC warns edtech companies to not use children&#39;s data for commercial purposes like ads without parental consent, saying it will &quot;vigilantly enforce&quot; COPPA &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220519/p37#a220519p37)
+ - [Pixelmator Pro update released with improved Photos Browser](https://appleinsider.com/articles/22/05/20/pixelmator-pro-update-released-with-improved-photos-browser?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
