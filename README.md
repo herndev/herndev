@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All I have is Anxiety Disorder and that&#39;s it](http://9gag.com/gag/aBnoDvx)
+ - 💣 [Black hole incoming](http://9gag.com/gag/a11xv7R)
  - ⏩ [Accurate](http://9gag.com/gag/aogdmBe)
- - 👉 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
+ - 👉 [Do you rock? B*tch please](http://9gag.com/gag/aKmL4nW)<!-- MEMES:END -->
 
 ---
 
