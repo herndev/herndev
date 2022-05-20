@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GameSir T4 Mini review: An amazing miniature controller at an unbeatable price](https://appleinsider.com/articles/22/05/20/gamesir-t4-mini-review-an-amazing-miniature-controller-at-an-unbeatable-price?utm_medium=rss)
- - [Daily deals May 20: 10% off iPad, 10% off Apple Watch SE, 40% off Wireless CarPlay adapter, more](https://appleinsider.com/articles/22/05/20/daily-deals-may-20-10-off-ipad-10-off-apple-watch-se-40-off-wireless-carplay-adapter-more?utm_medium=rss)
- - [Chromebook 101: how to change your Chrome OS channels and get unreleased features](https://www.theverge.com/23130901/chromebook-101-how-to-change-chrome-os-channels-unreleased-features)<!-- TECH:END -->
+ - [Apple&#39;s headset faced numerous snags early, Jony Ive still involved with project](https://appleinsider.com/articles/22/05/20/apples-headset-faced-numerous-snags-early-jony-ive-still-involved-with-project?utm_medium=rss)
+ - [Report details Jony Ive&#39;s work on Apple&#39;s MR headset as sources say he remains involved as an external consultant and that the device is not gaming focused &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220520/p8#a220520p8)
+ - [Obi-Wan is coming to Fortnite next week](https://www.theverge.com/2022/5/20/23131464/obi-wan-kenobi-fortnite-epic)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
