@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat is testing Family Center, which lets parents see who their teens are friends with and whom they are texting; teens have the option to not participate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220520/p1#a220520p1)
- - [The 2018-era Galaxy Note 9 just got another update, bringing May 2022 patch](https://www.androidauthority.com/samsung-galaxy-note-9-may-2022-update-3164612/)
- - [Apple Showed AR, VR Headset to Company&#39;s Board, Report Says     - CNET](https://www.cnet.com/tech/apple-showed-ar-vr-headset-to-companys-board-report/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon hardware exec takes another swipe at Zuckerberg’s metaverse fantasy](https://www.theverge.com/2022/5/20/23131767/amazon-hardware-meta-metaverse-virtual-reality-vs-real-world)
+ - [Samsung put Galaxy Buds 2 inside a Poke Ball, sells out in a flash](https://www.androidauthority.com/samsung-galaxy-buds-2-pokemon-edition-3167224/)
+ - [Snapchat is testing Family Center, which lets parents see who their teens are friends with and whom they are texting; teens have the option to not participate &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220520/p1#a220520p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
