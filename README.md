@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Ace Combat scores the dream collaboration with Top Gun](https://www.pcgamer.com/ace-combat-scores-the-dream-collaboration-with-top-gun)
- - [What to know about Stranger Things season 3 before season 4 part 1 hits](https://www.polygon.com/23077661/stranger-things-season-3-ending-4-eleven)<!-- GAME:END -->
+ - [This is not a review of The Stanley Parable: Ultra Deluxe](https://www.polygon.com/reviews/23131262/stanley-parable-ultra-deluxe-review-not-windows-pc)
+ - [Genshin Impact Version 2.7: Hidden Dreams in the Depths launches May 31](https://blog.playstation.com/2022/05/20/genshin-impact-version-2-7-hidden-dreams-in-the-depths-launches-may-31/)
+ - [Genshin Impact Version 2.7: Hidden Dreams in the Depths launches May 31](https://blog.playstation.com/2022/05/20/genshin-impact-version-2-7-hidden-dreams-in-the-depths-launches-may-31/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
