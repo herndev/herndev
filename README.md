@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck beta update includes more fan curve improvements](https://www.pcgamer.com/steam-deck-beta-update-includes-more-fan-curve-improvements)
- - [Where to find whetstone in V Rising](https://www.pcgamer.com/how-to-get-whetstone-v-rising)
- - [TikTok&#39;s trying to get into games in a big way](https://www.pcgamer.com/tiktoks-trying-to-get-into-games-in-a-big-way)<!-- GAME:END -->
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Ace Combat scores the dream collaboration with Top Gun](https://www.pcgamer.com/ace-combat-scores-the-dream-collaboration-with-top-gun)
+ - [What to know about Stranger Things season 3 before season 4 part 1 hits](https://www.polygon.com/23077661/stranger-things-season-3-ending-4-eleven)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
