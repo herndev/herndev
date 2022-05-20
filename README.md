@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canada bans Huawei equipment from 5G networks, orders removal by 2024](https://www.theverge.com/2022/5/20/23132125/canada-bans-huawei-5g-network-equipment-telcos-reoval-2024)
- - [Bill Gates is using a foldable and it’s not the Surface Duo 2](https://www.androidauthority.com/bill-gates-samsung-galaxy-z-fold-3-3167398/)
- - [Men Is an Excellent Movie and I Have No Idea Who It’s For](https://www.wired.com/story/men-alex-garland-review)<!-- TECH:END -->
+ - [Qualcomm unveils the Snapdragon 8 Plus Gen 1, says it will offer 10% faster CPU performance, 10% faster GPU clocks, and have up to 30% better power efficiency &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220520/p5#a220520p5)
+ - [Snapdragon 8 Plus Gen 1 announced: What the regular chipset should’ve been?](https://www.androidauthority.com/snapdragon-8-plus-gen-1-3164610/)
+ - [Qualcomm&#39;s Snapdragon 8 Plus Gen 1 Is an Upgraded Chip for Only a Few US phones     - CNET](https://www.cnet.com/tech/mobile/qualcomms-snapdragon-8-plus-gen-1-is-an-upgraded-chip-for-only-a-few-us-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
