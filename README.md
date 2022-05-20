@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Belle, RRR, Morbius, and more new movies you can watch at home this weekend](https://www.polygon.com/23073809/new-movies-watch-belle-morbius-rrr-netflix-jackass)
- - [This Week on Xbox: New Games, Upcoming Releases, and Events](https://news.xbox.com/en-us/2022/05/20/this-week-on-xbox-new-games-upcoming-releases-and-events/)
- - [High School Musical: The Musical: The Series returns in July, has Corbin Bleu](https://www.polygon.com/23132764/high-school-musical-the-musical-the-series-season-3-release-date)<!-- GAME:END -->
+ - [Fireflies Finished Following Frog Fan Feedback In Minecraft](https://kotaku.com/minecraft-mojang-fireflies-removes-fan-feedback-poison-1848957294)
+ - [Halo co-creator reacts to TV series: &#39;Not the Halo I made&#39;](https://www.pcgamer.com/halo-co-creator-reacts-to-tv-series-not-the-halo-i-made)
+ - [Report: EA Looking To Sell Or Merge](https://kotaku.com/ea-acquisition-apex-legends-star-wars-fifa-nbcuniversal-1848957274)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
