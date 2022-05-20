@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to share your screen in Zoom meetings](https://www.androidauthority.com/share-screen-zoom-3167021/)
- - [Court docs and a source: Larry Ellison participated in a November 14, 2020 call that focused on strategies for contesting the legitimacy of the 2020 US election &lpar;Washington Post&rpar;](http://www.techmeme.com/220520/p18#a220520p18)
- - [Bravado, a networking service and jobs marketplace for sales professionals, raises a $26M Series B led by Tiger Global &lpar;Sophia Kunthara/Crunchbase News&rpar;](http://www.techmeme.com/220520/p17#a220520p17)<!-- TECH:END -->
+ - [Kuo: Apple is working on an updated version of the HomePod for release in the Q4 2022 or Q1 2023 &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220520/p19#a220520p19)
+ - [Summer Game Fest and Other Events: Everything We Know So Far     - CNET](https://www.cnet.com/tech/gaming/summer-game-fest-and-other-events-everything-we-know-so-far/#ftag=CAD590a51e)
+ - [Meta Tells Employees Not to Discuss Abortion at Work, Report Says     - CNET](https://www.cnet.com/news/social-media/meta-tells-employees-not-to-discuss-abortion-at-work-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
