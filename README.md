@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: insurers significantly raised cyber coverage premiums in 2021, after high profile hacks; direct-written premiums by the largest insurers rose 92% YoY &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220519/p33#a220519p33)
- - [How to mute or unmute yourself on Zoom](https://www.androidauthority.com/how-to-mute-zoom-3167102/)
- - [TikTok reportedly plans a ‘major push’ into gaming and games livestreamers could play with viewers](https://www.theverge.com/2022/5/19/23131385/tiktok-gaming-tests-livestream-zynga-html5-bytedance)<!-- TECH:END -->
+ - [The best free antivirus software for your PC](https://www.androidauthority.com/best-free-antivirus-software-pc-3165165/)
+ - [SpaceX reportedly paid $250,000 to cover up Elon Musk’s sexual misconduct](https://www.theverge.com/2022/5/19/23131680/elon-musk-sexual-misconduct-accusations-spacex-flight-attendant)
+ - [The Absolute Best RPGs on Nintendo Switch     - CNET](https://www.cnet.com/tech/gaming/the-absolute-best-rpgs-on-nintendo-switch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
