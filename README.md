@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [These old school comedies](http://9gag.com/gag/a91Vj10)
- - ⏩ [Find the center of a board](http://9gag.com/gag/abgEjGE)
+ - ⏩ [I like my job and most of my colleagues. But I will not hide myself](http://9gag.com/gag/aE8EeZx)
  - 👉 [Hidden lock](http://9gag.com/gag/aGzoKL0)<!-- MEMES:END -->
 
 ---
