@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Maastricht, the Netherlands](http://9gag.com/gag/aZrdb56)
- - ⏩ [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)
- - 👉 [We nearly there....](http://9gag.com/gag/aZrdPv3)<!-- MEMES:END -->
+ - 💣 [Fitness training of the Polish army](http://9gag.com/gag/a81nWw6)
+ - ⏩ [Never take advice from a rich person.](http://9gag.com/gag/aAGmRN9)
+ - 👉 [What happens when a rock is thrown into a volcano from a height?](http://9gag.com/gag/aLvbKjM)<!-- MEMES:END -->
 
 ---
 
