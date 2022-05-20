@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get stone bricks in V Rising](https://www.pcgamer.com/v-rising-stone-bricks-dust)
- - [Queer love story Heartstopper is getting two more seasons](https://www.polygon.com/23132459/heartstopper-renew-seasons-netflix-lgbtq)
- - [Death Stranding Sequel Seemingly Acknowledged By Norman Reedus](https://kotaku.com/death-stranding-2-norman-reedus-hideo-kojima-production-1848955139)<!-- GAME:END -->
+ - [Encountering wild Pokémon would be terrifying in real life](https://www.polygon.com/23125853/pokemon-real-life-vfx-animated)
+ - [League of Legends’ new champion, Bel’Veth, revealed in a terror-filled new teaser](https://www.polygon.com/23132541/league-of-legends-new-champion-belveth-teaser-trailer)
+ - [Genshin Impact Is Back, And The Update Was Worth Waiting For](https://kotaku.com/genshin-impact-yelan-kuki-shinobu-chasm-2-7-xiao-itto-y-1848955633)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
