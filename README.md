@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Nice friends](http://9gag.com/gag/a0ZxPWL)
- - ⏩ [The differential](http://9gag.com/gag/arndpyK)
+ - ⏩ [The scene that made Steve Rogers worthy](http://9gag.com/gag/a31xd13)
  - 👉 [She said it perfectly. +10 wisdom](http://9gag.com/gag/a71GKXw)<!-- MEMES:END -->
 
 ---
