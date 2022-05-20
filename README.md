@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Killed My Favorite Game Mode](https://kotaku.com/battlefield-2042-dice-ea-breakthrough-128-player-remove-1848952986)
- - [GameStop Jumps Into NFTs Just As The Market Collapses](https://kotaku.com/gamestop-nft-crypto-blockchain-bitcoin-marketplace-meme-1848952829)
- - [SpaceX allegedly paid $250K to cover up Elon Musk sexual misconduct claim](https://www.pcgamer.com/elon-musk-spacex-flight-attendant-allegation)<!-- GAME:END -->
+ - [It&#39;s World Bee Day, so let&#39;s marvel at AI hives that know exactly what bees need](https://www.pcgamer.com/its-world-bee-day-so-lets-marvel-at-ai-hives-that-know-exactly-what-bees-need)
+ - [Check out this cute circular screen terminal DIY using a Framework Mainboard](https://www.pcgamer.com/check-out-this-cute-circular-screen-terminal-diy-using-a-framework-mainboard)
+ - [Battlefield 2042 Killed My Favorite Game Mode](https://kotaku.com/battlefield-2042-dice-ea-breakthrough-128-player-remove-1848952986)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
