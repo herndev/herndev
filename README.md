@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
- - [Darktide will have a playable psyker class](https://www.pcgamer.com/darktide-will-have-a-playable-psyker-class)
- - [It&#39;s World Bee Day, so let&#39;s marvel at AI hives that know exactly what bees need](https://www.pcgamer.com/its-world-bee-day-so-lets-marvel-at-ai-hives-that-know-exactly-what-bees-need)<!-- GAME:END -->
+ - [Steam Deck beta update includes more fan curve improvements](https://www.pcgamer.com/steam-deck-beta-update-includes-more-fan-curve-improvements)
+ - [Where to find whetstone in V Rising](https://www.pcgamer.com/how-to-get-whetstone-v-rising)
+ - [TikTok&#39;s trying to get into games in a big way](https://www.pcgamer.com/tiktoks-trying-to-get-into-games-in-a-big-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
