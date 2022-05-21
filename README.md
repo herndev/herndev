@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the antitrust woes of Google, which is potentially in more trouble than other Big Tech companies, as several bills and lawsuits target its businesses &lpar;Sara Morrison/Vox&rpar;](http://www.techmeme.com/220521/p9#a220521p9)
- - [How to enable and configure the gyroscope in Apex Legends Mobile](https://www.androidauthority.com/gyroscope-apex-legend-mobile-3166709/)
- - [Ugly Sonic Shows Up in New &#39;Chip &#39;n&#39; Dale&#39; Movie, and... I Love It?     - CNET](https://www.cnet.com/culture/entertainment/ugly-sonic-shows-up-in-new-chip-n-dale-movie-and-i-love-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Is Google’s ecosystem push too much too fast? Let’s debate.](https://www.androidauthority.com/googles-ecosystem-too-much-too-fast-3165230/)
+ - [A look at the antitrust woes of Google, which is potentially in more trouble than other Big Tech companies as several bills and lawsuits target its businesses &lpar;Sara Morrison/Vox&rpar;](http://www.techmeme.com/220521/p9#a220521p9)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
