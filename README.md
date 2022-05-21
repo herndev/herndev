@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - ⏩ [Dayum](http://9gag.com/gag/a71Gbyb)
- - 👉 [This is hilarious](http://9gag.com/gag/abgdbyp)<!-- MEMES:END -->
+ - 💣 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)
+ - ⏩ [This is hilarious](http://9gag.com/gag/abgdbyp)
+ - 👉 [More from Paderborn, Germany](http://9gag.com/gag/aPZpGgn)<!-- MEMES:END -->
 
 ---
 
