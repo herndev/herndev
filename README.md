@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Indexed Finance&#39;s legal fight with a Canadian teenager who exploited the DeFi platform for $16M, which is raising several tricky legal questions &lpar;Christopher Beam/Bloomberg&rpar;](http://www.techmeme.com/220521/p4#a220521p4)
- - [Google Pixel Tablet: Everything we know so far and what we want to see](https://www.androidauthority.com/google-pixel-tablet-3163922/)
- - [16 Great Deals on Video Games, Outdoor Gear, and Tech](https://www.wired.com/story/weekend-deals-may-21-2022)<!-- TECH:END -->
+ - [Without audio clips, messaging on a smartwatch is useless to me](https://www.androidauthority.com/smartwatch-voice-message-3166180/)
+ - [How to Migrate Your Newsletter From Substack to Buttondown](https://www.wired.com/story/how-to-migrate-newsletter-substack-to-buttondown)
+ - [Texas Cites Clarence Thomas to Defend Its Social Media Law](https://www.wired.com/story/texas-clarence-thomas-opinion-social-media-moderation-ban)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
