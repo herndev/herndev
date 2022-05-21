@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Without audio clips, messaging on a smartwatch is useless to me](https://www.androidauthority.com/smartwatch-voice-message-3166180/)
- - [How to Migrate Your Newsletter From Substack to Buttondown](https://www.wired.com/story/how-to-migrate-newsletter-substack-to-buttondown)
- - [Texas Cites Clarence Thomas to Defend Its Social Media Law](https://www.wired.com/story/texas-clarence-thomas-opinion-social-media-moderation-ban)<!-- TECH:END -->
+ - [Google’s Nest Wifi mesh router bundles are up to $100 off](https://www.theverge.com/good-deals/2022/5/21/23132559/google-nest-wifi-mesh-router-hub-max-seagate-xbox-expansions-card-gopro-hero-10-1password-deal-sale)
+ - [EA reportedly tried to sell itself to Apple](https://appleinsider.com/articles/22/05/21/ea-reportedly-talked-to-apple-about-a-potential-merger?utm_medium=rss)
+ - [Ecobee&#39;s Smart Thermostat Enhanced Has All the Basics at a Premium Price     - CNET](https://www.cnet.com/news/ecobees-smart-thermostat-enhanced-has-all-the-basics-at-a-premium-price/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
