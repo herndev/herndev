@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [How special effects were done before](http://9gag.com/gag/awz8VnD)
- - ⏩ [Mongolinese](http://9gag.com/gag/a61x7D9)
+ - ⏩ [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
  - 👉 [SaFeTy](http://9gag.com/gag/aLvb2xV)<!-- MEMES:END -->
 
 ---
