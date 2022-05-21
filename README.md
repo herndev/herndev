@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how a crocodile sounds like up close.](http://9gag.com/gag/a21xrBZ)
- - ⏩ [Monkeypox](http://9gag.com/gag/a71GZq2)
- - 👉 [Police brutality beyond sickness..](http://9gag.com/gag/aBnv8ZD)<!-- MEMES:END -->
+ - 💣 [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)
+ - ⏩ [Switch lane to be safe](http://9gag.com/gag/arnd52X)
+ - 👉 [Idk what the first person was thinking](http://9gag.com/gag/aRrymxA)<!-- MEMES:END -->
 
 ---
 
