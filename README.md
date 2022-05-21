@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We just had a small tornado in my town in germany, and clearly this bus driver has the right sense of humor, `Werkstattfahrt` means `maintenance`](http://9gag.com/gag/ay9z09W)
+ - 💣 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
  - ⏩ [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 👉 [When he says he just got forklift license](http://9gag.com/gag/amgd892)<!-- MEMES:END -->
+ - 👉 [Mongolinese](http://9gag.com/gag/a61x7D9)<!-- MEMES:END -->
 
 ---
 
