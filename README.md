@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)
- - ⏩ [Switch lane to be safe](http://9gag.com/gag/arnd52X)
+ - 💣 [Family Feud](http://9gag.com/gag/a71GDnw)
+ - ⏩ [Just some legends looking at the most awesome person in the room](http://9gag.com/gag/aXrdq29)
  - 👉 [Idk what the first person was thinking](http://9gag.com/gag/aRrymxA)<!-- MEMES:END -->
 
 ---
