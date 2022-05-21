@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The excitement faded immediately](http://9gag.com/gag/a71GZZe)
- - ⏩ [Move Over, Tom Cruise, we&#39;ve found a new star for Mission Impossible](http://9gag.com/gag/a81npL1)
- - 👉 [Breaking: it is still okay to be white](http://9gag.com/gag/aPZpWpn)<!-- MEMES:END -->
+ - 💣 [Breaking: it is still okay to be white](http://9gag.com/gag/aPZpWpn)
+ - ⏩ [Law of diminishing marginal utility](http://9gag.com/gag/aZrdmm6)
+ - 👉 [Why, yes I am a secret agent](http://9gag.com/gag/avADrzM)<!-- MEMES:END -->
 
 ---
 
