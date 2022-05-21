@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Apple&#39;s Self-Service Repair kit to swap iPhone batteries: users are rented 79 lbs of tools, including a heat station, for a 7-day $1,200 card hold &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220521/p8#a220521p8)
- - [Prime Video: The 46 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-46-best-series-to-stream-right-now/#ftag=CAD590a51e)
- - [Daily deals May 21: $100 off 11-inch iPad Pro, $173 Cuisinart Pizza Oven, $100 Linksys Mesh Wi-Fi](https://appleinsider.com/articles/22/05/21/daily-deals-may-21-100-off-11-inch-ipad-pro-173-cuisinart-pizza-oven-100-linksys-mesh-wi-fi?utm_medium=rss)<!-- TECH:END -->
+ - [100W wired vs 100W wireless charging: Which is faster and why](https://www.androidauthority.com/100w-wired-vs-wireless-charging-3160743/)
+ - [Crypto exchange FTX is getting into stock trading](https://www.theverge.com/2022/5/21/23135897/crypto-exchange-ftx-getting-into-stock-trading)
+ - [Apple talks to suppliers to increase manufacturing efforts outside of China](https://appleinsider.com/articles/22/05/21/apple-talks-to-suppliers-to-increase-manufacturing-efforts-outside-of-china?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
