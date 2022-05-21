@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When he says he just got forklift license](http://9gag.com/gag/amgd892)
- - ⏩ [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
- - 👉 [Mongolinese](http://9gag.com/gag/a61x7D9)<!-- MEMES:END -->
+ - 💣 [I couldn&#39;t care less about celebrities; this is about equality.](http://9gag.com/gag/ajgdA61)
+ - ⏩ [Dayum](http://9gag.com/gag/a71Gbyb)
+ - 👉 [This is hilarious](http://9gag.com/gag/abgdbyp)<!-- MEMES:END -->
 
 ---
 
