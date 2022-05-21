@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Prime Video: The 46 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-46-best-series-to-stream-right-now/#ftag=CAD590a51e)
  - [Daily deals May 21: $100 off 11-inch iPad Pro, $173 Cuisinart Pizza Oven, $100 Linksys Mesh Wi-Fi](https://appleinsider.com/articles/22/05/21/daily-deals-may-21-100-off-11-inch-ipad-pro-173-cuisinart-pizza-oven-100-linksys-mesh-wi-fi?utm_medium=rss)
- - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
- - [Tents, Coolers, Personal Floatation Devices and More Are Up to 49% Off -- Today Only     - CNET](https://www.cnet.com/news/tents-coolers-personal-floatation-devices-and-more-are-up-to-49-off-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-433-3167659/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
