@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit &amp; Apple Fitness should stop chastising people for taking rest days](https://www.androidauthority.com/fitbit-apple-fitness-rest-days-3163136/)
- - [Analysis finds 46 wallets bought a combined $17.3M worth of tokens that were listed shortly after on Coinbase, Binance, and FTX, making profits of $1.7M+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220521/p6#a220521p6)
- - [How to unlock Fade in Apex Legends Mobile](https://www.androidauthority.com/how-to-unlock-fade-apex-legends-mobile-3166708/)<!-- TECH:END -->
+ - [Daily deals May 21: $100 off 11-inch iPad Pro, $173 Cuisinart Pizza Oven, $100 Linksys Mesh Wi-Fi](https://appleinsider.com/articles/22/05/21/daily-deals-may-21-100-off-11-inch-ipad-pro-173-cuisinart-pizza-oven-100-linksys-mesh-wi-fi?utm_medium=rss)
+ - [Compared: OnePlus 10 Pro vs iPhone 13 Pro &amp; iPhone 13 Pro Max](https://appleinsider.com/articles/22/03/05/comparison-oneplus-10-pro-vs-iphone-13-pro-iphone-13-pro-max?utm_medium=rss)
+ - [Tents, Coolers, Personal Floatation Devices and More Are Up to 49% Off -- Today Only     - CNET](https://www.cnet.com/news/tents-coolers-personal-floatation-devices-and-more-are-up-to-49-off-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
