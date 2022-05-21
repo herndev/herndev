@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Modulr, an API payments infrastructure provider that lets businesses &quot;to automate and embed payments&quot;, raises a $108M Series C led by General Atlantic &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220521/p1#a220521p1)
- - [&#39;Night Sky&#39;: That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/night-sky-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [OpenSea launches Seaport, a new marketplace protocol which allows users to bundle different digital assets in exchange for an NFT, support for tipping, and more &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220520/p23#a220520p23)<!-- TECH:END -->
+ - [Deals: save $1,000 on Sonance Outdoor Speakers at Best Buy, with streaming powered by Sonos](https://appleinsider.com/articles/22/05/21/deals-save-1000-on-sonance-outdoor-speakers-at-best-buy-with-streaming-powered-by-sonos?utm_medium=rss)
+ - [UK-based Modulr, an API payments infrastructure provider that lets businesses automate and embed payments, raises a $108M Series C led by General Atlantic &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220521/p1#a220521p1)
+ - [&#39;Night Sky&#39;: That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/night-sky-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
