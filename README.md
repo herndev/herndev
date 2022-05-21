@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber indulges in Steam Deck destruction to demonstrate device&#39;s durability](https://www.pcgamer.com/youtuber-indulges-in-steam-deck-destruction-to-demonstrate-devices-durability)
- - [Prolific Studio-buyer EA is reportedly looking to be bought in turn](https://www.pcgamer.com/prolific-studio-buyer-ea-is-reportedly-looking-to-be-bought-in-turn)
- - [Chip ’n Dale: Rescue Rangers’ tiniest Easter egg salutes the show’s creator](https://www.polygon.com/23102353/chip-n-dale-rescue-rangers-original-creator-cameo)<!-- GAME:END -->
+ - [Get honey, get paid in charming beekeeping sim Apico](https://www.pcgamer.com/get-honey-get-paid-in-charming-beekeeping-sim-apico)
+ - [This underappreciated FPS from 1996 was a step on the path that led to games like Deus Ex](https://www.pcgamer.com/saturday-crapshoot-strife)
+ - [YouTuber indulges in Steam Deck destruction to demonstrate device&#39;s durability](https://www.pcgamer.com/youtuber-indulges-in-steam-deck-destruction-to-demonstrate-devices-durability)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
