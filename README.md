@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Pwn2Own Vancouver 2022, several bugs were exploited in Microsoft, Ubuntu, and Tesla products; first day saw $800K+ awarded for exploiting 16 zero-day bugs &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220521/p3#a220521p3)
- - [iFixit will sell nearly every part of the Steam Deck — including the entire motherboard](https://www.theverge.com/2022/5/21/23133302/ifixit-steam-deck-repair-parts-leak)
- - [Heartex, an AI-focused data labeling and annotation service, raises a $25M Series A led by Redpoint Ventures, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220521/p2#a220521p2)<!-- TECH:END -->
+ - [Deals: save $1,000 on Sonance Outdoor Speakers at Best Buy, with streaming powered by Sonos](https://appleinsider.com/articles/22/05/21/deals-save-1000-on-sonance-outdoor-speakers-at-best-buy-with-streaming-powered-by-sonos?utm_medium=rss)
+ - [Does Apex Legend Mobile have controller support?](https://www.androidauthority.com/apex-legend-mobile-controller-support-3166710/)
+ - [I Tried the &#39;Anti-Instagram&#39; App Called BeReal, and It&#39;s Actually Kinda Fun     - CNET](https://www.cnet.com/culture/internet/i-tried-bereal-the-anti-instagram-app-and-its-kinda-like-wordle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
