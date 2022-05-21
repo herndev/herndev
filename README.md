@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Prolific Studio-buyer EA is reportedly looking to be bought in turn](https://www.pcgamer.com/prolific-studio-buyer-ea-is-reportedly-looking-to-be-bought-in-turn)
  - [Chip ’n Dale: Rescue Rangers’ tiniest Easter egg salutes the show’s creator](https://www.polygon.com/23102353/chip-n-dale-rescue-rangers-original-creator-cameo)
- - [20 championship-worthy sports movies you can watch at home](https://www.polygon.com/what-to-watch/23041486/best-sports-movies-good-watch-netflix-football-basketball-racing-fighting-boxing-mma)
- - [Today&#39;s Wordle answer #336: Saturday, May 21](https://www.pcgamer.com/wordle-may-21-336)<!-- GAME:END -->
+ - [20 championship-worthy sports movies you can watch at home](https://www.polygon.com/what-to-watch/23041486/best-sports-movies-good-watch-netflix-football-basketball-racing-fighting-boxing-mma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
