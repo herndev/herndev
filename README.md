@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They\u2019re overpowered](http://9gag.com/gag/a91VYY0)
- - ⏩ [SaFeTy](http://9gag.com/gag/aLvb2xV)
- - 👉 [What a lovely... oh](http://9gag.com/gag/aPZpW4n)<!-- MEMES:END -->
+ - 💣 [SaFeTy](http://9gag.com/gag/aLvb2xV)
+ - ⏩ [What a lovely... oh](http://9gag.com/gag/aPZpW4n)
+ - 👉 [To the guy who asked the size of ants in Brazil...](http://9gag.com/gag/a71G7NL)<!-- MEMES:END -->
 
 ---
 
