@@ -105,8 +105,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Apple Store opens in Wuhan with China&#39;s first Apple Pickup area](https://appleinsider.com/articles/22/05/21/apple-store-opens-in-wuhan-with-chinas-first-apple-pickup-area?utm_medium=rss)
- - [Apple display supplier could lose out on large iPhone 14 order after it was reportedly caught cutting corners](https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners)
- - [European Central Bank President Christine Lagarde says crypto assets should be regulated, as they are &quot;worth nothing&quot; and &quot;based on nothing&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/220521/p10#a220521p10)<!-- TECH:END -->
+ - [Your Brain Operates at the Edge of Chaos, But That&#39;s Actually a Good Thing     - CNET](https://www.cnet.com/science/biology/features/your-brain-operates-at-the-edge-of-chaos-but-thats-actually-a-good-thing/#ftag=CAD590a51e)
+ - [Apple display supplier could lose out on large iPhone 14 order after it was reportedly caught cutting corners](https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
