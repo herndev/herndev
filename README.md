@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Nest Wifi mesh router bundles are up to $100 off](https://www.theverge.com/good-deals/2022/5/21/23132559/google-nest-wifi-mesh-router-hub-max-seagate-xbox-expansions-card-gopro-hero-10-1password-deal-sale)
- - [EA reportedly tried to sell itself to Apple](https://appleinsider.com/articles/22/05/21/ea-reportedly-talked-to-apple-about-a-potential-merger?utm_medium=rss)
- - [Ecobee&#39;s Smart Thermostat Enhanced Has All the Basics at a Premium Price     - CNET](https://www.cnet.com/news/ecobees-smart-thermostat-enhanced-has-all-the-basics-at-a-premium-price/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fitbit &amp; Apple Fitness should stop chastising people for taking rest days](https://www.androidauthority.com/fitbit-apple-fitness-rest-days-3163136/)
+ - [Analysis finds 46 wallets bought a combined $17.3M worth of tokens that were listed shortly after on Coinbase, Binance, and FTX, making profits of $1.7M+ &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220521/p6#a220521p6)
+ - [How to unlock Fade in Apex Legends Mobile](https://www.androidauthority.com/how-to-unlock-fade-apex-legends-mobile-3166708/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
