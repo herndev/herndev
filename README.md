@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European Central Bank President Christine Lagarde says crypto assets should be regulated, as they are &quot;worth nothing&quot; and &quot;based on nothing&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/220521/p10#a220521p10)
- - [Is Google’s ecosystem push too much too fast? Let’s debate.](https://www.androidauthority.com/googles-ecosystem-too-much-too-fast-3165230/)
- - [Apple Wants to Increase Production Outside of China, Report Says     - CNET](https://www.cnet.com/news/apple-wants-to-increase-production-outside-of-china-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Store opens in Wuhan with China&#39;s first Apple Pickup area](https://appleinsider.com/articles/22/05/21/apple-store-opens-in-wuhan-with-chinas-first-apple-pickup-area?utm_medium=rss)
+ - [Apple display supplier could lose out on large iPhone 14 order after it was reportedly caught cutting corners](https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners)
+ - [European Central Bank President Christine Lagarde says crypto assets should be regulated, as they are &quot;worth nothing&quot; and &quot;based on nothing&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/220521/p10#a220521p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
