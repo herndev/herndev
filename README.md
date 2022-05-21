@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A giant anteater casually crossing the road in Brazil](http://9gag.com/gag/aVxdXPO)
- - ⏩ [Holy f**king shit, didn&#39;t know that we have tornados too&lpar;Germany&rpar;](http://9gag.com/gag/aqGd2jY)
- - 👉 [I hope some more will join her](http://9gag.com/gag/aQXrpW7)<!-- MEMES:END -->
+ - 💣 [Holy f**king shit, didn&#39;t know that we have tornados too&lpar;Germany&rpar;](http://9gag.com/gag/aqGd2jY)
+ - ⏩ [Damn it!](http://9gag.com/gag/avADLyd)
+ - 👉 [Using a jetpack to climb a mountain](http://9gag.com/gag/a21xq0p)<!-- MEMES:END -->
 
 ---
 
