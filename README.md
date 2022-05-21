@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple shipped me a 79-pound iPhone repair kit to fix a 1.1-ounce battery](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
  - [OnePlus 10R review: A Realme in all but name](https://www.androidauthority.com/oneplus-10r-review-3162431/)
- - [Deals: save $1,000 on Sonance Outdoor Speakers at Best Buy, with streaming powered by Sonos](https://appleinsider.com/articles/22/05/21/deals-save-1000-on-sonance-outdoor-speakers-at-best-buy-with-streaming-powered-by-sonos?utm_medium=rss)
- - [Does Apex Legend Mobile have controller support?](https://www.androidauthority.com/apex-legend-mobile-controller-support-3166710/)<!-- TECH:END -->
+ - [Deals: save $1,000 on Sonance Outdoor Speakers at Best Buy, with streaming powered by Sonos](https://appleinsider.com/articles/22/05/21/deals-save-1000-on-sonance-outdoor-speakers-at-best-buy-with-streaming-powered-by-sonos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
