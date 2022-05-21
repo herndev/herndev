@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: EA is looking to sell or merge its business; sources say EA has held talks with Disney, Apple, Amazon, and NBCUniversal &lpar;Ethan Gach/Kotaku&rpar;](http://www.techmeme.com/220520/p22#a220520p22)
- - [Apple reportedly chose a standalone AR / VR headset over a more powerful tethered design](https://www.theverge.com/2022/5/20/23133038/apple-mixed-virtual-augmented-reality-ar-vr-headset-self-contained-device)
- - [Dutch e-commerce company Prosus says it is exiting Russia and is looking to sell Avito, its classifieds ads business in the country valued at an estimated $6B &lpar;Loni Prinsloo/Bloomberg&rpar;](http://www.techmeme.com/220520/p21#a220520p21)<!-- TECH:END -->
+ - [How to check the balance on Amazon gift cards](https://www.androidauthority.com/check-amazon-gift-card-3166669/)
+ - [Boeing’s Starliner successfully docks to the International Space Station for the first time](https://www.theverge.com/2022/5/20/23132777/boeing-cst-100-starliner-nasa-iss-docking-success-oft-2)
+ - [&#39;Doctor Strange 2&#39; Illuminati, Explained: Who Is This Group of Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-who-is-this-group-of-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
