@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [European Central Bank President Christine Lagarde says crypto assets should be regulated, as they are &quot;worth nothing&quot; and &quot;based on nothing&quot; &lpar;Cagan Koc/Bloomberg&rpar;](http://www.techmeme.com/220521/p10#a220521p10)
  - [Is Google’s ecosystem push too much too fast? Let’s debate.](https://www.androidauthority.com/googles-ecosystem-too-much-too-fast-3165230/)
- - [A look at the antitrust woes of Google, which is potentially in more trouble than other Big Tech companies as several bills and lawsuits target its businesses &lpar;Sara Morrison/Vox&rpar;](http://www.techmeme.com/220521/p9#a220521p9)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Wants to Increase Production Outside of China, Report Says     - CNET](https://www.cnet.com/news/apple-wants-to-increase-production-outside-of-china-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
