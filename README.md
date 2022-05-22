@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandfather makes pure alcohol from apples.](http://9gag.com/gag/a71G3Gr)
- - ⏩ [You can hear the radio on what appears to be a crane with high voltage running through it](http://9gag.com/gag/aLvb0KM)
- - 👉 [Classic Bond](http://9gag.com/gag/aKmLdW3)<!-- MEMES:END -->
+ - 💣 [So sweet](http://9gag.com/gag/angd455)
+ - ⏩ [Classic Bond](http://9gag.com/gag/aKmLdW3)
+ - 👉 [More!](http://9gag.com/gag/aLvb0ZA)<!-- MEMES:END -->
 
 ---
 
