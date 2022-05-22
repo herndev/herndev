@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid games... Win stupid prizes...](http://9gag.com/gag/aYrd7y0)
- - ⏩ [Tornado](http://9gag.com/gag/ay9zBP8)
- - 👉 [THIS MUST BE SEE](http://9gag.com/gag/aE8Q2Qx)<!-- MEMES:END -->
+ - 💣 [THIS MUST BE SEE](http://9gag.com/gag/aE8Q2Qx)
+ - ⏩ [Dad, the baby launcher](http://9gag.com/gag/abgdrg8)
+ - 👉 [Grandfather makes pure alcohol from apples.](http://9gag.com/gag/a71G3Gr)<!-- MEMES:END -->
 
 ---
 
