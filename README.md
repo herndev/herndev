@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Arm CEO Rene Haas on Arm&#39;s future plans, investing more in R&amp;D, its competitor RISC-V, the company&#39;s relationship with Intel, and more &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220522/p2#a220522p2)
- - [London-based SaaS management startup Vertice, which aims to help businesses reduce their annual SaaS spend by 20%-30%, emerges from stealth with a $26M Series A &lpar;Silicon Canals&rpar;](http://www.techmeme.com/220522/p1#a220522p1)
- - [NASA Voyager 1 Space Probe From &#39;70s Troubled by Mysterious Glitch     - CNET](https://www.cnet.com/science/space/nasa-voyager-1-space-probe-from-70s-troubled-by-mysterious-glitch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Limit Who Can Contact You on Facebook](https://www.wired.com/story/how-to-limit-who-can-contact-you-on-facebook)
+ - [5 Myths and Misconceptions About Coffee](https://www.wired.com/story/coffee-myths-and-misconceptions)
+ - [Volodymyr Zelensky and the Art of the War Story](https://www.wired.com/story/volodymyr-zelensky-video-ukraine-war)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
