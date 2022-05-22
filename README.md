@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This week in PC Gaming: My Time at Sandrock, Sniper Elite 5 and Kao the Kangaroo](https://www.pcgamer.com/this-week-in-pc-gaming-my-time-at-sandrock-sniper-elite-5-kao-the-kangaroo)
  - [The startling story behind Hatching’s horrifying puppet-monster](https://www.polygon.com/23131724/hatching-horror-movie-behind-the-scenes-puppet-star-wars-animatronic)
- - [Today&#39;s Wordle answer #337: Sunday, May 22](https://www.pcgamer.com/wordle-may-22-337)
- - [Evil Dead sold over half a million copies in five days](https://www.pcgamer.com/evil-dead-sold-over-half-a-million-copies-in-five-days)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #337: Sunday, May 22](https://www.pcgamer.com/wordle-may-22-337)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
