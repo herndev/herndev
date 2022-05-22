@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Curiosity vs intelligence](http://9gag.com/gag/aZrdgNQ)
- - ⏩ [Me, every time I see I shirt with a logo](http://9gag.com/gag/angdj00)
- - 👉 [Monkeypox?! U serious?! Wtf world!](http://9gag.com/gag/apgd2K9)<!-- MEMES:END -->
+ - 💣 [Monkeypox?! U serious?! Wtf world!](http://9gag.com/gag/apgd2K9)
+ - ⏩ [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
+ - 👉 [Friendly reminder](http://9gag.com/gag/aXrdx9g)<!-- MEMES:END -->
 
 ---
 
