@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [El hombre ara\u00f1a](http://9gag.com/gag/angd4DL)
- - ⏩ [I once bought a ps4. But it just collected dust and I decided to sell it. Adulting is hard. You lose all the passion you have. All you\u2019re craving is rest.](http://9gag.com/gag/aVxd0ZM)
+ - 💣 [I was not prepared for that spice](http://9gag.com/gag/a0Zx7Xv)
+ - ⏩ [So sweet](http://9gag.com/gag/angd455)
  - 👉 [This is what a good commercial looks like. no b*tching. showed everything in 20 sec](http://9gag.com/gag/a61xKQL)<!-- MEMES:END -->
 
 ---
