@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Family Feud](http://9gag.com/gag/a71GDnw)
- - ⏩ [Just some legends looking at the most awesome person in the room](http://9gag.com/gag/aXrdq29)
- - 👉 [Idk what the first person was thinking](http://9gag.com/gag/aRrymxA)<!-- MEMES:END -->
+ - 💣 [Been a fat lazy bastard for 37 years with a dream of practising some kind of martial art. Joined a gym one year ago and signed up for japanese Ju-jutsu this January, today i recived my first belt! Its never to late to follow your dreams friends!](http://9gag.com/gag/aGzo1b6)
+ - ⏩ [Family Feud](http://9gag.com/gag/a71GDnw)
+ - 👉 [A short love story](http://9gag.com/gag/aWgdq5n)<!-- MEMES:END -->
 
 ---
 
