@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was not prepared for that spice](http://9gag.com/gag/a0Zx7Xv)
- - ⏩ [So sweet](http://9gag.com/gag/angd455)
- - 👉 [This is what a good commercial looks like. no b*tching. showed everything in 20 sec](http://9gag.com/gag/a61xKQL)<!-- MEMES:END -->
+ - 💣 [If you know... you know](http://9gag.com/gag/aqGdjyM)
+ - ⏩ [The world&#39;s oldest navy - the Portuguese Navy - is 705 this month. Congratulations.](http://9gag.com/gag/a71Gwzm)
+ - 👉 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)<!-- MEMES:END -->
 
 ---
 
