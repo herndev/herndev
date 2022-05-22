@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Graduation Gift Guide 2022: find the perfect gifts for graduating students](https://appleinsider.com/articles/22/05/22/graduation-gift-guide-2022-find-the-perfect-gifts-for-graduating-students?utm_medium=rss)
- - [Apple&#39;s MacBook Air with 16GB RAM is on sale for $1,099 &amp; in stock](https://appleinsider.com/articles/22/05/19/apples-macbook-air-with-16gb-ram-is-on-sale-for-1099-in-stock?utm_medium=rss)
- - [Hyundai is building EV and battery production facilities in Georgia](https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia)<!-- TECH:END -->
+ - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)
+ - [Disney World visitor claims $40,000 credit card fraud occurred after losing Apple Watch](https://appleinsider.com/articles/22/05/22/woman-claims-40000-credit-card-fraud-occurred-after-losing-apple-watch?utm_medium=rss)
+ - [Graduation Gift Guide 2022: find the perfect gifts for graduating students](https://appleinsider.com/articles/22/05/22/graduation-gift-guide-2022-find-the-perfect-gifts-for-graduating-students?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
