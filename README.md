@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store opens in Wuhan with China&#39;s first Apple Pickup area](https://appleinsider.com/articles/22/05/21/apple-store-opens-in-wuhan-with-chinas-first-apple-pickup-area?utm_medium=rss)
- - [Your Brain Operates at the Edge of Chaos, But That&#39;s Actually a Good Thing     - CNET](https://www.cnet.com/science/biology/features/your-brain-operates-at-the-edge-of-chaos-but-thats-actually-a-good-thing/#ftag=CAD590a51e)
- - [Apple display supplier could lose out on large iPhone 14 order after it was reportedly caught cutting corners](https://www.theverge.com/2022/5/21/23136001/apple-display-supplier-lose-out-large-iphone-14-order-caught-cutting-corners)<!-- TECH:END -->
+ - [NASA Voyager 1 Space Probe From &#39;70s Troubled by Mysterious Glitch     - CNET](https://www.cnet.com/science/space/nasa-voyager-1-space-probe-from-70s-troubled-by-mysterious-glitch/#ftag=CAD590a51e)
+ - [iFixit will sell nearly every part of the Steam Deck, including its $350 motherboard with the AMD Aerith chipset, and upgrades to fans and screen &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220521/p11#a220521p11)
+ - [Apple Store opens in Wuhan with China&#39;s first Apple Pickup area](https://appleinsider.com/articles/22/05/21/apple-store-opens-in-wuhan-with-chinas-first-apple-pickup-area?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
