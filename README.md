@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute ALPHA predator](http://9gag.com/gag/a91VpXj)
- - ⏩ [Maybe Speeding Down Mountain Road is a Bad Idea](http://9gag.com/gag/a11xQ0w)
- - 👉 [Life are lies, deceptions...](http://9gag.com/gag/aRry3d5)<!-- MEMES:END -->
+ - 💣 [Pick your poison \u2620\ufe0f](http://9gag.com/gag/awz8Xpr)
+ - ⏩ [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)
+ - 👉 [THIS MUST BE SEE](http://9gag.com/gag/aE8Q2Qx)<!-- MEMES:END -->
 
 ---
 
