@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interview with Arm CEO Rene Haas on Arm&#39;s future plans, investing more in R&amp;D, its competitor RISC-V, the company&#39;s relationship with Intel, and more &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220522/p2#a220522p2)
  - [London-based SaaS management startup Vertice, which aims to help businesses reduce their annual SaaS spend by 20%-30%, emerges from stealth with a $26M Series A &lpar;Silicon Canals&rpar;](http://www.techmeme.com/220522/p1#a220522p1)
- - [NASA Voyager 1 Space Probe From &#39;70s Troubled by Mysterious Glitch     - CNET](https://www.cnet.com/science/space/nasa-voyager-1-space-probe-from-70s-troubled-by-mysterious-glitch/#ftag=CAD590a51e)
- - [iFixit will sell nearly every part of the Steam Deck, including its $350 motherboard with the AMD Aerith chipset, and upgrades to fans and screen &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/220521/p11#a220521p11)<!-- TECH:END -->
+ - [NASA Voyager 1 Space Probe From &#39;70s Troubled by Mysterious Glitch     - CNET](https://www.cnet.com/science/space/nasa-voyager-1-space-probe-from-70s-troubled-by-mysterious-glitch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
