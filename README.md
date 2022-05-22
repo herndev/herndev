@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was as this moment...](http://9gag.com/gag/a71GDjr)
- - ⏩ [A short love story](http://9gag.com/gag/aWgdq5n)
- - 👉 [Monkeypox?! U serious?! Wtf world!](http://9gag.com/gag/apgd2K9)<!-- MEMES:END -->
+ - 💣 [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
+ - ⏩ [Switch lane to be safe](http://9gag.com/gag/arnd52X)
+ - 👉 [Police brutality beyond sickness..](http://9gag.com/gag/aBnv8ZD)<!-- MEMES:END -->
 
 ---
 
