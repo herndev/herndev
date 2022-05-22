@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)
- - [Disney World visitor claims $40,000 credit card fraud occurred after losing Apple Watch](https://appleinsider.com/articles/22/05/22/woman-claims-40000-credit-card-fraud-occurred-after-losing-apple-watch?utm_medium=rss)
- - [Graduation Gift Guide 2022: find the perfect gifts for graduating students](https://appleinsider.com/articles/22/05/22/graduation-gift-guide-2022-find-the-perfect-gifts-for-graduating-students?utm_medium=rss)<!-- TECH:END -->
+ - [Hyundai is building EV and battery production facilities in Georgia](https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia)
+ - [Compared: Amazon Fire 7 2022 vs iPad mini &amp; 10.2-inch iPad](https://appleinsider.com/articles/22/05/22/compared-amazon-fire-7-2022-vs-ipad-mini-102-inch-ipad?utm_medium=rss)
+ - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
