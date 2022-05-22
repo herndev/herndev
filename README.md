@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 14: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-14-3153710/)
  - [Woman claims $40,000 credit card fraud occurred after losing Apple Watch](https://appleinsider.com/articles/22/05/22/woman-claims-40000-credit-card-fraud-occurred-after-losing-apple-watch?utm_medium=rss)
- - [A look at the autonomous vehicle industry, as CB Insights says equity funding for companies developing autonomous vehicles eclipsed $12B in 2021, up 50%+ YoY &lpar;Rebecca Fannin/CNBC&rpar;](http://www.techmeme.com/220522/p4#a220522p4)<!-- TECH:END -->
+ - [Larry Ellison was on a call with Sean Hannity and Lindsey Graham to discuss overturning election results](https://www.theverge.com/2022/5/22/23136790/larry-ellison-oracle-call-sean-hannity-lindsey-graham-overturning-election-results)
+ - [Apple iPhone 14: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
