@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monkeypox?! U serious?! Wtf world!](http://9gag.com/gag/apgd2K9)
+ - 💣 [Friendly reminder](http://9gag.com/gag/aXrdx9g)
  - ⏩ [No clue who this guy is but, posting shit like this makes me feel like an intellectual so... enjoy.](http://9gag.com/gag/aRry3Oq)
- - 👉 [Friendly reminder](http://9gag.com/gag/aXrdx9g)<!-- MEMES:END -->
+ - 👉 [9 years old boy finds a cougar inside school&#39;s locker room](http://9gag.com/gag/apgdmL8)<!-- MEMES:END -->
 
 ---
 
