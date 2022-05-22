@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So sweet](http://9gag.com/gag/angd455)
- - ⏩ [Classic Bond](http://9gag.com/gag/aKmLdW3)
+ - 💣 [Bill Burr has been saying this since he had hair.](http://9gag.com/gag/aVxdwQM)
+ - ⏩ [Clown world](http://9gag.com/gag/aOQj0V6)
  - 👉 [More!](http://9gag.com/gag/aLvb0ZA)<!-- MEMES:END -->
 
 ---
