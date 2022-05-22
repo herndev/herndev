@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Limit Who Can Contact You on Facebook](https://www.wired.com/story/how-to-limit-who-can-contact-you-on-facebook)
- - [5 Myths and Misconceptions About Coffee](https://www.wired.com/story/coffee-myths-and-misconceptions)
- - [Volodymyr Zelensky and the Art of the War Story](https://www.wired.com/story/volodymyr-zelensky-video-ukraine-war)<!-- TECH:END -->
+ - [Crime blotter: Federal indictment for Charlotte phone store owners](https://appleinsider.com/articles/22/05/22/crime-blotter-federal-indictment-for-charlotte-phone-store-owners?utm_medium=rss)
+ - [Apple Music raises prices for Student plan in multiple countries](https://appleinsider.com/articles/22/05/22/apple-music-raises-prices-for-student-plan-in-multiple-countries?utm_medium=rss)
+ - [Google Glass resurrected: What we want to see from Google’s new smart glasses](https://www.androidauthority.com/google-new-smart-glasses-3166828/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
