@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pick your poison \u2620\ufe0f](http://9gag.com/gag/awz8Xpr)
- - ⏩ [A man with no phone, just living in the moment enjoying Tiger.](http://9gag.com/gag/aqGd73Q)
- - 👉 [THIS MUST BE SEE](http://9gag.com/gag/aE8Q2Qx)<!-- MEMES:END -->
+ - 💣 [9 years old boy finds a cougar inside school&#39;s locker room](http://9gag.com/gag/apgdmL8)
+ - ⏩ [Before smartphones](http://9gag.com/gag/aBnvgKA)
+ - 👉 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)<!-- MEMES:END -->
 
 ---
 
