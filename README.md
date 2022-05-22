@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Woman claims $40,000 credit card fraud occurred after losing Apple Watch](https://appleinsider.com/articles/22/05/22/woman-claims-40000-credit-card-fraud-occurred-after-losing-apple-watch?utm_medium=rss)
- - [Larry Ellison was on a call with Sean Hannity and Lindsey Graham to discuss overturning election results](https://www.theverge.com/2022/5/22/23136790/larry-ellison-oracle-call-sean-hannity-lindsey-graham-overturning-election-results)
- - [Apple iPhone 14: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
+ - [Motorola Razr 3: Everything we know so far and what we want to see](https://www.androidauthority.com/motorola-razr-3-3079713/)
+ - [Apple Health VP promotes Apple Watch monitoring in wearables TV spot](https://appleinsider.com/articles/22/05/22/apple-health-vp-promotes-apple-watch-monitoring-in-wearables-tv-spot?utm_medium=rss)
+ - [Prime Video: The 44 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-44-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
