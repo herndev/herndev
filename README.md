@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 years old boy finds a cougar inside school&#39;s locker room](http://9gag.com/gag/apgdmL8)
- - ⏩ [Before smartphones](http://9gag.com/gag/aBnvgKA)
- - 👉 [The new she hulk look great](http://9gag.com/gag/azeB9Wb)<!-- MEMES:END -->
+ - 💣 [You can hear the radio on what appears to be a crane with high voltage running through it](http://9gag.com/gag/aLvb0KM)
+ - ⏩ [The new she hulk look great](http://9gag.com/gag/azeB9Wb)
+ - 👉 [Clown world](http://9gag.com/gag/aOQj0V6)<!-- MEMES:END -->
 
 ---
 
