@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)
- - [The Best Rain Jackets to Help You Brave the Elements](https://www.wired.com/story/best-rain-jackets)
- - [20 Outstanding Online Co-Op Games to Play With Faraway Friends](https://www.wired.com/gallery/best-online-co-op-games)<!-- TECH:END -->
+ - [Apple TV+ secures romantic sci-fi &#39;Fingernails&#39; in Cannes deal](https://appleinsider.com/articles/22/05/22/apple-tv-secures-romantic-sci-fi-fingernails-in-cannes-deal?utm_medium=rss)
+ - [Google is on the right path for watches and tablets, but there’s more to do](https://www.androidauthority.com/google-watches-and-tablets-3164477/)
+ - [Daily deals May 22: $600 70-inch LG Smart TV, $104 Beyerdynamic headphones, $32 Lego space shuttle, more](https://appleinsider.com/articles/22/05/22/daily-deals-may-22-600-70-inch-lg-smart-tv-104-beyerdynamic-headphones-32-lego-space-shuttle-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
