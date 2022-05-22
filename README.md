@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Graduation Gift Guide 2022: find the perfect gifts for graduating students](https://appleinsider.com/articles/22/05/22/graduation-gift-guide-2022-find-the-perfect-gifts-for-graduating-students?utm_medium=rss)
  - [Apple&#39;s MacBook Air with 16GB RAM is on sale for $1,099 &amp; in stock](https://appleinsider.com/articles/22/05/19/apples-macbook-air-with-16gb-ram-is-on-sale-for-1099-in-stock?utm_medium=rss)
- - [Hyundai is building EV and battery production facilities in Georgia](https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia)
- - [YouTube says it has taken down more than 70,000 videos and 9,000 channels related to the war in Ukraine for violating content guidelines &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220522/p5#a220522p5)<!-- TECH:END -->
+ - [Hyundai is building EV and battery production facilities in Georgia](https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
