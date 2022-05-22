@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The startling story behind Hatching’s horrifying puppet-monster](https://www.polygon.com/23131724/hatching-horror-movie-behind-the-scenes-puppet-star-wars-animatronic)
  - [Today&#39;s Wordle answer #337: Sunday, May 22](https://www.pcgamer.com/wordle-may-22-337)
- - [Evil Dead sold over half a million copies in five days](https://www.pcgamer.com/evil-dead-sold-over-half-a-million-copies-in-five-days)
- - [When&#39;s the last time you were excited about a Kickstarter?](https://www.pcgamer.com/whens-the-last-time-you-were-excited-about-a-kickstarter)<!-- GAME:END -->
+ - [Evil Dead sold over half a million copies in five days](https://www.pcgamer.com/evil-dead-sold-over-half-a-million-copies-in-five-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
