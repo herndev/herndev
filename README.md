@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get honey, get paid in charming beekeeping sim Apico](https://www.pcgamer.com/get-honey-get-paid-in-charming-beekeeping-sim-apico)
- - [This underappreciated FPS from 1996 was a step on the path that led to games like Deus Ex](https://www.pcgamer.com/saturday-crapshoot-strife)
- - [YouTuber indulges in Steam Deck destruction to demonstrate device&#39;s durability](https://www.pcgamer.com/youtuber-indulges-in-steam-deck-destruction-to-demonstrate-devices-durability)<!-- GAME:END -->
+ - [When&#39;s the last time you were excited about a Kickstarter?](https://www.pcgamer.com/whens-the-last-time-you-were-excited-about-a-kickstarter)
+ - [Final Fantasy 14 now works on Steam Deck](https://www.pcgamer.com/final-fantasy-14-works-on-steam-deck-now)
+ - [Get honey, get paid in charming beekeeping sim Apico](https://www.pcgamer.com/get-honey-get-paid-in-charming-beekeeping-sim-apico)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
