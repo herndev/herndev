@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based BUD, which offers a metaverse for Gen Z via its apps and plans to launch an NFT marketplace, raises $36.8M Series B led by Sequoia Capital India &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220522/p8#a220522p8)
- - [Xiaomi and Leica are partnering up for an ‘imaging flagship’ coming this July](https://www.androidauthority.com/xiaomi-leica-partnership-confirmed-3167835/)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-stream-on-hbo-max-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [General Atlantic says it plans to invest $2B in Indian and Southeast Asian startups over the next two years, with ~15 currently in early-stage funding talks &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220523/p1#a220523p1)
+ - [9 Comedies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/9-comedies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
+ - [Harry Potter Movies, Ranked: From Azkaban to Grindelwald     - CNET](https://www.cnet.com/culture/entertainment/harry-potter-movies-ranked-from-azkaban-to-grindelwald/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
