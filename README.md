@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon-with-guns survival game Palworld shows off more gameplay](https://www.polygon.com/23137767/palworld-new-trailer-pokemon-guns)
- - [Mission: Impossible Dead Reckoning’s first trailer throws Tom Cruise off a mountain](https://www.polygon.com/23137746/mission-impossible-7-trailer-dead-reckoning-tom-cruise)
- - [Card Shark is a delightful lesson in history and cheating](https://www.polygon.com/23131458/card-shark-preview-devolver-digital-nerial-nintendo-switch-pc)<!-- GAME:END -->
+ - [ViewSonic VX2882-4KP monitor review](https://www.pcgamer.com/viewsonic-vx2882-4kp-review)
+ - [PlayStation classics for PS5 may not require a PS Plus subscription](https://www.polygon.com/23137806/playstation-plus-ps1-psp-games-download-without-subscription)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
