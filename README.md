@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apple’s Prehistoric Planet starts with the very best kind of dinosaurs](https://www.polygon.com/23131699/prehistoric-planet-2022-review-apple-tv)
- - [The PS5&#39;s Worst Game Is Taking A Long, Hard Look At Itself](https://kotaku.com/babylon-s-fall-square-enix-worst-ps5-game-delay-nier-au-1848963086)
- - [Rainbow Six Siege is getting a Yakuza crossover this season](https://www.polygon.com/23137898/rainbow-six-siege-yakuza-bundle-kiryu-year-7-season-2)<!-- GAME:END -->
+ - [After Years Of Hype, The Xbox Game Pass Burnout Is Here](https://kotaku.com/xbox-game-pass-subscriber-numbers-2022-xbox-series-x-s-1848963643)
+ - [Upcoming One Piece JRPG Will Have Classic Turn-Based Combat](https://kotaku.com/one-piece-odyssey-jrpg-straw-hats-luffy-chopper-zoro-1848963136)
+ - [PS Plus Classic Games Will Have A Retro PS1-Like Visual Filter](https://kotaku.com/ps-plus-ps1-games-oddworld-abes-oddysee-crt-vintage-fil-1848963031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
