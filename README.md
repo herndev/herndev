@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I escaped the city, where I was a director of a school, to live in a little village in the mountains where I can grow my own vegetables, starting from zero work wise. This was the view of my balcony this afternoon.](http://9gag.com/gag/aogdMAe)
- - ⏩ [If you know... you know](http://9gag.com/gag/aqGdjyM)
- - 👉 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)<!-- MEMES:END -->
+ - 💣 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
+ - ⏩ [Photograph of the United Kingdom taken from the International Space Station.](http://9gag.com/gag/a41xELv)
+ - 👉 [I was not prepared for that spice](http://9gag.com/gag/a0Zx7Xv)<!-- MEMES:END -->
 
 ---
 
