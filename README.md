@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok will roll out Live subscriptions, to let creators generate recurring revenue via payments from their top fans, in beta on May 26 with a few creators &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220523/p32#a220523p32)
- - [The best early Memorial Day deals happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
- - [The best free apps for video calling](https://www.theverge.com/21286781/best-video-call-apps-free)<!-- TECH:END -->
+ - [eBay partners with NFT startup OneOf to launch 13 digital collectibles featuring Wayne Gretzky and plans to drop other sports-related NFTs throughout the year &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/220523/p34#a220523p34)
+ - [Snap plans to slow hiring, warns that revenue will grow slower than expected](https://www.theverge.com/2022/5/23/23138778/snap-plans-to-slow-hiring-warns-slow-revenue-growth)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
