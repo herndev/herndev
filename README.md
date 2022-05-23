@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to download songs from Apple Music and listen offline](https://www.androidauthority.com/download-songs-apple-music-offline-3166932/)
- - [Didi shareholders vote to delist from the NYSE, clearing the way for the company to work with Chinese regulators and prepare for a Hong Kong IPO &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220523/p16#a220523p16)
- - [Stranger Things 4 cranks everything up way past eleven](https://www.theverge.com/23067333/stranger-things-4-review)<!-- TECH:END -->
+ - [A look at efforts by 50+ countries to control digital data produced by citizens, governments, and businesses, driven by privacy concerns, economics, and more &lpar;New York Times&rpar;](http://www.techmeme.com/220523/p19#a220523p19)
+ - [Ecobee&#39;s new thermostats, Eve Outdoor Cam, &amp; Pebblebee trackers on HomeKit Insider](https://appleinsider.com/articles/22/05/23/ecobees-new-thermostats-eve-outdoor-cam-pebblebee-trackers-on-homekit-insider?utm_medium=rss)
+ - [Instagram created custom fonts called ‘Instagram Sans,’ and some of them are truly wild](https://www.theverge.com/2022/5/23/23137749/instagram-sans-brand-refresh-typeface-font-squircle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
