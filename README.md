@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #338: Monday, May 23](https://www.pcgamer.com/wordle-may-23-338-hinge-meaning)
- - [Stranger Things levels up in horror, but not so much in character](https://www.polygon.com/reviews/23131219/stranger-things-4-review-part-1-season)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)<!-- GAME:END -->
+ - [Asus&#39;s new X670E motherboard for Ryzen 7000 is so extreme they named it twice](https://www.pcgamer.com/asus-rog-crosshair-x670e-extreme-motherboard)
+ - [You can now play through Team Fortress 2&#39;s Meet the Spy short](https://www.pcgamer.com/you-can-now-play-through-team-fortress-2s-meet-the-spy-short)
+ - [AMD confirms first PCIe 5.0 SSDs will launch alongside Zen 4](https://www.pcgamer.com/amd-confirms-first-pcie-50-ssds-will-launch-alongside-zen-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
