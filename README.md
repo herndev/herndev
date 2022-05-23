@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone &amp; iPad gaming accessories](https://appleinsider.com/articles/22/05/23/the-best-iphone-ipad-gaming-accessories?utm_medium=rss)
- - [Argo AI is testing fully driverless vehicles in Miami and Austin](https://www.theverge.com/2022/5/23/23137834/argo-ai-driverless-test-av-miami-austin)
- - [Klarna&#39;s CEO tells employees the company is laying off 10% of its 6,500+ workforce, following reports that it was raising money at a reduced valuation of $30B &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/220523/p20#a220523p20)<!-- TECH:END -->
+ - [Sources: MainStreet, which helps SMBs find tax credits, is raising at a $200M valuation, down from a $500M last March, weeks after laying off 30% of staff &lpar;TechCrunch&rpar;](http://www.techmeme.com/220523/p23#a220523p23)
+ - [How to free up iCloud storage when space is low](https://www.androidauthority.com/free-up-icloud-storage-3168117/)
+ - [Pixel fans rejoice: The Google Pixel Watch may ship with USB-C charging](https://www.androidauthority.com/google-pixel-watch-usb-c-3168135/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
