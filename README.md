@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Credit to Dean Sherman &lpar;LinkedIn&rpar; - extinction event preserved in the fossil record &lpar;and as a geologist, let me just say... Oooooooooooh wee!&rpar; Skip to 2:03 minutes if you&#39;re short on time.](http://9gag.com/gag/a51xEGy)
+ - 💣 [I escaped the city, where I was a director of a school, to live in a little village in the mountains where I can grow my own vegetables, starting from zero work wise. This was the view of my balcony this afternoon.](http://9gag.com/gag/aogdMAe)
  - ⏩ [If you know... you know](http://9gag.com/gag/aqGdjyM)
- - 👉 [Maybe...if you&#39;re lucky](http://9gag.com/gag/aXrdoNv)<!-- MEMES:END -->
+ - 👉 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)<!-- MEMES:END -->
 
 ---
 
