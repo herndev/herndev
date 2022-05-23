@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best iPhone &amp; iPad gaming accessories](https://appleinsider.com/articles/22/05/23/the-best-iphone-ipad-gaming-accessories?utm_medium=rss)
- - [Welcome to the Zombie Cryptocalypse](https://www.wired.com/story/bitcoin-ethereum-price-cryptocalypse-david-gerard)
- - [How to use the helpful Speak to Chat feature on Sony headphones and earbuds](https://www.theverge.com/23138047/sony-speak-to-chat-how-to-use-headphones-earbuds-feature)<!-- TECH:END -->
+ - [Researchers are using Google’s app to study the effect of phones on mental health](https://www.theverge.com/2022/5/23/23138159/google-health-studies-digital-well-being-research-oregon-smartphone-use)
+ - [LG’s brilliant C1 OLED just hit its lowest price ever on Amazon](https://www.theverge.com/good-deals/2022/5/23/23137798/lg-c1-oled-samsung-galaxy-s22-ultra-apple-macbook-air-logitech-master-mouse-blue-yeti-deal-sale)
+ - [The QA team at Activision Blizzard&#39;s Raven Software votes 19-3 to unionize, as US labor board prosecutors say that the company illegally threatened staff &lpar;Patrick Klepek/VICE&rpar;](http://www.techmeme.com/220523/p29#a220523p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
