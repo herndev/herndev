@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After Years Of Hype, The Xbox Game Pass Burnout Is Here](https://kotaku.com/xbox-game-pass-subscriber-numbers-2022-xbox-series-x-s-1848963643)
- - [Upcoming One Piece JRPG Will Have Classic Turn-Based Combat](https://kotaku.com/one-piece-odyssey-jrpg-straw-hats-luffy-chopper-zoro-1848963136)
- - [PS Plus Classic Games Will Have A Retro PS1-Like Visual Filter](https://kotaku.com/ps-plus-ps1-games-oddworld-abes-oddysee-crt-vintage-fil-1848963031)<!-- GAME:END -->
+ - [Elvis ascends to godhood in new trailer for Baz Luhrmann’s biopic](https://www.polygon.com/23138261/elvis-baz-luhrmann-trailer-release-date)
+ - [The 27 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
+ - [Warhammer Skulls Festival Returns June 1](https://news.xbox.com/en-us/2022/05/23/warhammer-skulls-festival-returns-june-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
