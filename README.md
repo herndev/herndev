@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
- - ⏩ [Photograph of the United Kingdom taken from the International Space Station.](http://9gag.com/gag/a41xELv)
- - 👉 [I was not prepared for that spice](http://9gag.com/gag/a0Zx7Xv)<!-- MEMES:END -->
+ - 💣 [Weed vs Alcohol](http://9gag.com/gag/awz8M1y)
+ - ⏩ [My latest project : Icon A5 RC Seaplane](http://9gag.com/gag/arndn8K)
+ - 👉 [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)<!-- MEMES:END -->
 
 ---
 
