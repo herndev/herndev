@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lonely Mountains: Downhill – Launching Misty Peak DLC Today](https://news.xbox.com/en-us/2022/05/23/lonely-mountains-downhill-launching-misty-peak-dlc-today/)
- - [Elvis ascends to godhood in new trailer for Baz Luhrmann’s biopic](https://www.polygon.com/23138261/elvis-baz-luhrmann-trailer-release-date)
- - [The 27 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [Elden Ring mod that never makes you say goodbye is almost here](https://www.polygon.com/23138487/elden-ring-co-op-mod)
+ - [Valve Made Steam Deck Easy To Mod And Repair, And It’s Starting To Pay Off](https://kotaku.com/steam-deck-mods-repair-replacement-valve-ifixit-parts-d-1848964846)
+ - [Raven Software QA testers become first union at a major US developer](https://www.pcgamer.com/raven-software-qa-testers-become-first-union-at-a-major-us-developer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
