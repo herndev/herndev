@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Asus&#39;s new X670E motherboard for Ryzen 7000 is so extreme they named it twice](https://www.pcgamer.com/asus-rog-crosshair-x670e-extreme-motherboard)
- - [You can now play through Team Fortress 2&#39;s Meet the Spy short](https://www.pcgamer.com/you-can-now-play-through-team-fortress-2s-meet-the-spy-short)
- - [AMD confirms first PCIe 5.0 SSDs will launch alongside Zen 4](https://www.pcgamer.com/amd-confirms-first-pcie-50-ssds-will-launch-alongside-zen-4)<!-- GAME:END -->
+ - [Mission: Impossible Dead Reckoning’s first trailer throws Tom Cruise off a mountain](https://www.polygon.com/23137746/mission-impossible-7-trailer-dead-reckoning-tom-cruise)
+ - [Card Shark is a delightful lesson in history and cheating](https://www.polygon.com/23131458/card-shark-preview-devolver-digital-nerial-nintendo-switch-pc)
+ - [Meet Aegis, Steelrising’s automaton dancer](https://blog.playstation.com/2022/05/23/meet-aegis-steelrisings-automaton-dancer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
