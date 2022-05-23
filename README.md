@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [eBay partners with NFT startup OneOf to launch 13 digital collectibles featuring Wayne Gretzky and plans to drop other sports-related NFTs throughout the year &lpar;Riley de Le&amp;oacute;n/CNBC&rpar;](http://www.techmeme.com/220523/p34#a220523p34)
- - [Snap plans to slow hiring, warns that revenue will grow slower than expected](https://www.theverge.com/2022/5/23/23138778/snap-plans-to-slow-hiring-warns-slow-revenue-growth)
- - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [Spotify is slowly bringing back political ads on podcasts after pausing them in early 2020, and says it has strengthened its advertiser verification system &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220523/p35#a220523p35)
+ - [Klarna used a prerecorded video message to lay off 10 percent of employees](https://www.theverge.com/2022/5/23/23138602/klarna-bnpl-service-lays-off-10-percent-workers-economy-falters-video-messages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
