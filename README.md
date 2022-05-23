@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola confirms 200MP phone is coming in July](https://www.androidauthority.com/motorola-200mp-phone-launch-3167920/)
- - [Facebook, Apple, Amazon, Microsoft, and Google will emerge stronger from this downturn; Refinitiv: from 2008 to 2010, these companies acquired 100+ firms &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220523/p6#a220523p6)
- - [Clearview AI ordered to delete facial recognition data belonging to UK residents](https://www.theverge.com/2022/5/23/23137603/clearview-ai-ordered-delete-data-uk-residents-ico-fine)<!-- TECH:END -->
+ - [StepN, a Solana-based app that rewards users with tokens for walking and running, says it has 2M-3M MAUs and makes $3M-5M/day in net profit from trading fees &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220523/p7#a220523p7)
+ - [Rory Kinnear on Playing Men’s Villain with a Thousand Faces](https://www.wired.com/story/rory-kinnear-men-q-and-a)
+ - [Marvel, Please Don’t Digitally Resurrect Stan Lee](https://www.wired.com/story/let-stan-lee-rest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
