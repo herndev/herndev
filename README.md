@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mediatek Dimensity 1050 announced: The company’s first mmWave-capable processor](https://www.androidauthority.com/mediatek-dimensity-1050-mmwave-3167618/)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-tonight/#ftag=CAD590a51e)
- - [Why More People Need to Watch the Best TV Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Singapore-based BUD, which offers a metaverse for Gen Z via its apps and plans to launch an NFT marketplace, raises $36.8M Series B led by Sequoia Capital India &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220522/p8#a220522p8)
+ - [Xiaomi and Leica are partnering up for an ‘imaging flagship’ coming this July](https://www.androidauthority.com/xiaomi-leica-partnership-confirmed-3167835/)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-stream-on-hbo-max-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
