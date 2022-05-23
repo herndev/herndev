@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)
- - ⏩ [Brothers](http://9gag.com/gag/a51xXLG)
- - 👉 [Exerts in action...](http://9gag.com/gag/a71Gq6A)<!-- MEMES:END -->
+ - 💣 [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
+ - ⏩ [It&#39;s shift change time](http://9gag.com/gag/a91VqmD)
+ - 👉 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)<!-- MEMES:END -->
 
 ---
 
