@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why we need a public internet and how to get one](https://www.theverge.com/2022/5/23/23125917/ben-tarnoff-public-internet-interview)
- - [iPhone 14 to get &#39;high-end&#39; front camera with built-in autofocus](https://appleinsider.com/articles/22/05/23/iphone-14-to-get-high-end-front-camera-with-built-in-autofocus?utm_medium=rss)
- - [Save $250 on Apple&#39;s 13-inch MacBook Pro with 512GB SSD at Amazon](https://appleinsider.com/articles/22/05/23/save-250-on-apples-13-inch-macbook-pro-with-512gb-ssd-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [The best iPhone &amp; iPad gaming accessories](https://appleinsider.com/articles/22/05/23/the-best-iphone-ipad-gaming-accessories?utm_medium=rss)
+ - [Argo AI is testing fully driverless vehicles in Miami and Austin](https://www.theverge.com/2022/5/23/23137834/argo-ai-driverless-test-av-miami-austin)
+ - [Klarna&#39;s CEO tells employees the company is laying off 10% of its 6,500+ workforce, following reports that it was raising money at a reduced valuation of $30B &lpar;Mimi Billing/Sifted&rpar;](http://www.techmeme.com/220523/p20#a220523p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
