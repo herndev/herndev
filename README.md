@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ViewSonic VX2882-4KP monitor review](https://www.pcgamer.com/viewsonic-vx2882-4kp-review)
- - [PlayStation classics for PS5 may not require a PS Plus subscription](https://www.polygon.com/23137806/playstation-plus-ps1-psp-games-download-without-subscription)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
+ - [Apple’s Prehistoric Planet starts with the very best kind of dinosaurs](https://www.polygon.com/23131699/prehistoric-planet-2022-review-apple-tv)
+ - [The PS5&#39;s Worst Game Is Taking A Long, Hard Look At Itself](https://kotaku.com/babylon-s-fall-square-enix-worst-ps5-game-delay-nier-au-1848963086)
+ - [Rainbow Six Siege is getting a Yakuza crossover this season](https://www.polygon.com/23137898/rainbow-six-siege-yakuza-bundle-kiryu-year-7-season-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
