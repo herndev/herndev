@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring mod that never makes you say goodbye is almost here](https://www.polygon.com/23138487/elden-ring-co-op-mod)
- - [Valve Made Steam Deck Easy To Mod And Repair, And It’s Starting To Pay Off](https://kotaku.com/steam-deck-mods-repair-replacement-valve-ifixit-parts-d-1848964846)
- - [Raven Software QA testers become first union at a major US developer](https://www.pcgamer.com/raven-software-qa-testers-become-first-union-at-a-major-us-developer)<!-- GAME:END -->
+ - [Your guide to the all-new PlayStation Plus](https://blog.playstation.com/2022/05/23/your-guide-to-the-all-new-playstation-plus/)
+ - [Stab sinners for the glory of Mean Jesus in this gnarly alt history RPG](https://www.pcgamer.com/stab-sinners-for-the-glory-of-mean-jesus-in-this-gnarly-alt-history-rpg)
+ - [Rainbow Six Siege will now remember if you&#39;re a bad teammate](https://www.pcgamer.com/rainbow-six-siege-will-now-remember-if-youre-a-bad-teammate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
