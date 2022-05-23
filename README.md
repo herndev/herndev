@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Denver-based Velocity Global, which develops HR software for distributed workforces, raises a $400M Series B, and says it generated $125M in revenue last year &lpar;Kamaron Leach/Bloomberg&rpar;](http://www.techmeme.com/220523/p5#a220523p5)
  - [AMD announces Ryzen 7000 CPUs with up to 16 Zen 4 cores based on TSMC&#39;s 5nm process, PCIe 5 and DDR5 on an AM5 motherboard, coming in fall 2022 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/220523/p4#a220523p4)
- - [&#39;Stranger Things&#39; Season 4 Review: The Best One Yet     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-review-the-best-one-yet/#ftag=CAD590a51e)
- - [Corsair’s first-ever gaming laptop has a touch bar](https://www.theverge.com/2022/5/23/23132641/corsair-voyager-a1600-gaming-laptop-amd-advantage-announcement)<!-- TECH:END -->
+ - [&#39;Stranger Things&#39; Season 4 Review: The Best One Yet     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-review-the-best-one-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
