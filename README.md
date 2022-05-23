@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi Mi Band 7: Everything we know and what we want to see &lpar;Updated: May 23&rpar;](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
  - [General Atlantic says it plans to invest $2B in Indian and Southeast Asian startups over the next two years, with ~15 currently in early-stage funding talks &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220523/p1#a220523p1)
- - [9 Comedies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/9-comedies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
- - [Harry Potter Movies, Ranked: From Azkaban to Grindelwald     - CNET](https://www.cnet.com/culture/entertainment/harry-potter-movies-ranked-from-azkaban-to-grindelwald/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [9 Comedies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/9-comedies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
