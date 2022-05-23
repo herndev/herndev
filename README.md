@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cause that\u2019s what real friends do](http://9gag.com/gag/awz8g81)
- - ⏩ [Time to reset](http://9gag.com/gag/aE8Q0WG)
- - 👉 [Meow meow meow](http://9gag.com/gag/adgdv0N)<!-- MEMES:END -->
+ - 💣 [Each dot is a galaxy, not a star.](http://9gag.com/gag/azeB5XZ)
+ - ⏩ [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)
+ - 👉 [Up up and away!!](http://9gag.com/gag/aQXrgpw)<!-- MEMES:END -->
 
 ---
 
