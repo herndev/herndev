@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
- - ⏩ [It&#39;s shift change time](http://9gag.com/gag/a91VqmD)
- - 👉 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)<!-- MEMES:END -->
+ - 💣 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)
+ - ⏩ [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
+ - 👉 [Let&#39;s do it](http://9gag.com/gag/aNPqw2K)<!-- MEMES:END -->
 
 ---
 
