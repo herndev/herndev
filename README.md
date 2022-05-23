@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mario Balotelli absolutely filthy goal earlier today.](http://9gag.com/gag/aBnv2eO)
- - ⏩ [The cat broke into a Lynx&#39;s cage. Now they&#39;re best buds](http://9gag.com/gag/a31x1Dv)
- - 👉 [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)<!-- MEMES:END -->
+ - 💣 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)
+ - ⏩ [Wow i have a passion wow](http://9gag.com/gag/ay9z9Mr)
+ - 👉 [Big cats are still cats](http://9gag.com/gag/aWgdgP2)<!-- MEMES:END -->
 
 ---
 
