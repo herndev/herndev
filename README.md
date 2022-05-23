@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: MainStreet, which helps SMBs find tax credits, is raising at a $200M valuation, down from a $500M last March, weeks after laying off 30% of staff &lpar;TechCrunch&rpar;](http://www.techmeme.com/220523/p23#a220523p23)
- - [How to free up iCloud storage when space is low](https://www.androidauthority.com/free-up-icloud-storage-3168117/)
- - [Pixel fans rejoice: The Google Pixel Watch may ship with USB-C charging](https://www.androidauthority.com/google-pixel-watch-usb-c-3168135/)<!-- TECH:END -->
+ - [Sources: Airbnb to remove all mainland China listings for stays and experiences by this summer but will keep an office in Beijing focusing on outbound travel &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/220523/p25#a220523p25)
+ - [iFixit’s Steam Deck repair guides and parts are live &lpar;but the best pieces are MIA&rpar;](https://www.theverge.com/2022/5/23/23138196/ifixit-steam-deck-parts-sale)
+ - [The heatsink may finally have a much more svelte competitor](https://www.theverge.com/2022/5/23/23137904/heatsink-competitor-copper-coating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
