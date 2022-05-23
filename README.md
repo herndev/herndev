@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Each dot is a galaxy, not a star.](http://9gag.com/gag/azeB5XZ)
- - ⏩ [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)
- - 👉 [Up up and away!!](http://9gag.com/gag/aQXrgpw)<!-- MEMES:END -->
+ - ⏩ [Ahh yes the Japanese courtship ritual](http://9gag.com/gag/a11xmDR)
+ - 👉 [The It&#39;s-not-my-business-award goes to...](http://9gag.com/gag/a71GoOm)<!-- MEMES:END -->
 
 ---
 
