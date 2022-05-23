@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I had a 2 weeks work trip and this was waiting when i got back](http://9gag.com/gag/aOQjxnr)
- - ⏩ [Stop blocking the road to work, stop ruining movies and stay away from kids](http://9gag.com/gag/a91VyYo)
- - 👉 [All the time](http://9gag.com/gag/aqGde6p)<!-- MEMES:END -->
+ - 💣 [I think I downloaded the wrong Dr Strange movie](http://9gag.com/gag/ajgdPOp)
+ - ⏩ [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)
+ - 👉 [Time to reset](http://9gag.com/gag/aE8Q0WG)<!-- MEMES:END -->
 
 ---
 
