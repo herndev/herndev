@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi Band 7: Everything we know and what we want to see &lpar;Updated: May 23&rpar;](https://www.androidauthority.com/xiaomi-mi-band-7-3126826/)
- - [General Atlantic says it plans to invest $2B in Indian and Southeast Asian startups over the next two years, with ~15 currently in early-stage funding talks &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220523/p1#a220523p1)
- - [9 Comedies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/9-comedies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AMD announces Ryzen 7000 CPUs with up to 16 Zen 4 cores based on TSMC&#39;s 5nm process, PCIe 5 and DDR5 on an AM5 motherboard, coming in fall 2022 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/220523/p4#a220523p4)
+ - [Corsair’s first-ever gaming laptop has a touch bar](https://www.theverge.com/2022/5/23/23132641/corsair-voyager-a1600-gaming-laptop-amd-advantage-announcement)
+ - [Toronto-based Forma.ai, which helps companies manage and optimize sales compensation plans, raises a $45M Series B led by ACME Capital &lpar;Chris J. Preimesberger/VentureBeat&rpar;](http://www.techmeme.com/220523/p3#a220523p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
