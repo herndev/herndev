@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Illuminating lesson in 1..](http://9gag.com/gag/aDDPY2B)
- - ⏩ [Wow i have a passion wow](http://9gag.com/gag/ay9z9Mr)
- - 👉 [Big cats are still cats](http://9gag.com/gag/aWgdgP2)<!-- MEMES:END -->
+ - 💣 [This is how large pacific ocean is](http://9gag.com/gag/aqGdeyL)
+ - ⏩ [`Expensive sound` ASMR](http://9gag.com/gag/avADQPE)
+ - 👉 [Foreign aid packages be like](http://9gag.com/gag/aRryEeQ)<!-- MEMES:END -->
 
 ---
 
