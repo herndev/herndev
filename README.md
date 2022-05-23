@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Colin Cantwell, Designer Of The X-Wing, Has Died](https://kotaku.com/colin-cantwell-star-wars-artist-design-x-wing-tie-fight-1848961918)
- - [The latest Windows 11 preview feature is a Bing and Edge exclusive search box on your desktop](https://www.pcgamer.com/the-latest-windows-11-preview-feature-is-a-bing-and-edge-exclusive-search-box-on-your-desktop)
- - [Colin Cantwell, designer of the X-Wing, TIE Fighter, and other iconic spaceships, has died](https://www.pcgamer.com/colin-cantwell-designer-of-the-x-wing-tie-fighter-and-other-iconic-spaceships-has-died)<!-- GAME:END -->
+ - [Stranger Things levels up in horror, but not so much in character](https://www.polygon.com/reviews/23131219/stranger-things-4-review-part-1-season)
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
+ - [AMD SmartAccess Storage is built to rival Nvidia&#39;s own DirectStorage-based technology, RTX IO](https://www.pcgamer.com/amd-smartaccess-storage-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
