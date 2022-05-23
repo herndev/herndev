@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StepN, a Solana-based app that rewards users with tokens for walking and running, says it has 2M-3M MAUs and makes $3M-5M/day in net profit from trading fees &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220523/p7#a220523p7)
- - [Rory Kinnear on Playing Men’s Villain with a Thousand Faces](https://www.wired.com/story/rory-kinnear-men-q-and-a)
- - [Marvel, Please Don’t Digitally Resurrect Stan Lee](https://www.wired.com/story/let-stan-lee-rest)<!-- TECH:END -->
+ - [Meta says it plans to give outside researchers more info on political ad targeting on Facebook and Instagram and will update Ad Library with more info from July &lpar;Mike Isaac/New York Times&rpar;](http://www.techmeme.com/220523/p11#a220523p11)
+ - [Xiaomi signs a long-term partnership with Leica and announces a jointly developed smartphone will launch in July 2022, likely with the Snapdragon 8 Plus Gen 1 &lpar;Damien Wilde/9to5Google&rpar;](http://www.techmeme.com/220523/p10#a220523p10)
+ - [Crime blotter: Federal indictment for Charlotte phone store owners](https://appleinsider.com/articles/22/05/22/crime-blotter-federal-indictment-for-charlotte-phone-store-owners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
