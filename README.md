@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iFixit&#39;s Steam Deck component selection includes whole motherboards](https://www.pcgamer.com/ifixits-steam-deck-component-selection-includes-whole-motherboards)
- - [Love, Death &amp; Robots’ team wants more adult American animation — and anime is helping](https://www.polygon.com/23131415/love-death-and-robots-tim-miller-jennifer-yuh-nelson-interview)
- - [Kiryu finally gets a gun in new Yakuza Rainbow Six Siege crossover skin](https://www.pcgamer.com/kiryu-finally-gets-a-gun-in-new-yakuza-rainbow-six-siege-crossover-skin)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;May 23, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-may-23-2022)
+ - [Work on Stalker 2 is once again underway](https://www.pcgamer.com/work-on-stalker-2-is-once-again-underway)
+ - [Horror Game Helps Australia&#39;s Deadbeat Former Prime Minister Find A New Job](https://kotaku.com/scott-morrison-scotty-scomo-centrelink-video-game-macca-1848961534)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
