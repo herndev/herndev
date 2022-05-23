@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women posing in \u0130stanbul in the 50s](http://9gag.com/gag/awz8go4)
+ - 💣 [Fire trucks are blocked from fighting the fire due to the construction of a fence on the road to prevent the epidemic](http://9gag.com/gag/a71G86w)
  - ⏩ [Yikes!](http://9gag.com/gag/a21xwzw)
- - 👉 [Fire trucks are blocked from fighting the fire due to the construction of a fence on the road to prevent the epidemic](http://9gag.com/gag/a71G86w)<!-- MEMES:END -->
+ - 👉 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
 
 ---
 
