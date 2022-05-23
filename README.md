@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Amazon Fire 7 2022 vs iPad mini &amp; 10.2-inch iPad](https://appleinsider.com/articles/22/05/22/compared-amazon-fire-7-2022-vs-ipad-mini-102-inch-ipad?utm_medium=rss)
- - [Paytm, whose share price has dropped 57% so far this year, reports Q4 revenue of ~$200M, up 89% YoY, and a net loss of ~$98M, up 72% YoY due to higher expenses &lpar;Reuters&rpar;](http://www.techmeme.com/220522/p6#a220522p6)
- - [Hyundai is building EV and battery production facilities in Georgia](https://www.theverge.com/2022/5/22/23136871/hyundai-building-ev-battery-production-facilities-georgia)<!-- TECH:END -->
+ - [Mediatek Dimensity 1050 announced: The company’s first mmWave-capable processor](https://www.androidauthority.com/mediatek-dimensity-1050-mmwave-3167618/)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-tonight/#ftag=CAD590a51e)
+ - [Why More People Need to Watch the Best TV Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
