@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Airbnb to remove all mainland China listings for stays and experiences by this summer but will keep an office in Beijing focusing on outbound travel &lpar;Deirdre Bosa/CNBC&rpar;](http://www.techmeme.com/220523/p25#a220523p25)
- - [iFixit’s Steam Deck repair guides and parts are live &lpar;but the best pieces are MIA&rpar;](https://www.theverge.com/2022/5/23/23138196/ifixit-steam-deck-parts-sale)
- - [The heatsink may finally have a much more svelte competitor](https://www.theverge.com/2022/5/23/23137904/heatsink-competitor-copper-coating)<!-- TECH:END -->
+ - [The best iPhone &amp; iPad gaming accessories](https://appleinsider.com/articles/22/05/23/the-best-iphone-ipad-gaming-accessories?utm_medium=rss)
+ - [Welcome to the Zombie Cryptocalypse](https://www.wired.com/story/bitcoin-ethereum-price-cryptocalypse-david-gerard)
+ - [How to use the helpful Speak to Chat feature on Sony headphones and earbuds](https://www.theverge.com/23138047/sony-speak-to-chat-how-to-use-headphones-earbuds-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
