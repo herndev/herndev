@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gloomhaven is coming to consoles](https://www.polygon.com/23138647/gloomhaven-console-port-2023)
- - [Congrats, Blaidd&#39;s Voice Actor Read Your Horny Elden Ring Tweets](https://kotaku.com/elden-ring-blaidd-voice-actor-scott-arthur-horny-tweets-1848965561)
- - [Your guide to the all-new PlayStation Plus](https://blog.playstation.com/2022/05/23/your-guide-to-the-all-new-playstation-plus/)<!-- GAME:END -->
+ - [Vampire Survivors&#39; 0.6.1 update adds a bonus stage and two new mechanics](https://www.pcgamer.com/vampire-survivors-061-update-adds-a-bonus-stage-and-two-new-mechanics)
+ - [Sony appears to once again offer slower versions of PS1 games on PlayStation Plus](https://www.polygon.com/23138769/playstation-now-ps1-games-slower-why-pal-ntsc)
+ - [Gloomhaven is coming to consoles](https://www.polygon.com/23138647/gloomhaven-console-port-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
