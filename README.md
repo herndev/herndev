@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokémon-with-guns survival game Palworld shows off more gameplay](https://www.polygon.com/23137767/palworld-new-trailer-pokemon-guns)
  - [Mission: Impossible Dead Reckoning’s first trailer throws Tom Cruise off a mountain](https://www.polygon.com/23137746/mission-impossible-7-trailer-dead-reckoning-tom-cruise)
- - [Card Shark is a delightful lesson in history and cheating](https://www.polygon.com/23131458/card-shark-preview-devolver-digital-nerial-nintendo-switch-pc)
- - [Meet Aegis, Steelrising’s automaton dancer](https://blog.playstation.com/2022/05/23/meet-aegis-steelrisings-automaton-dancer/)<!-- GAME:END -->
+ - [Card Shark is a delightful lesson in history and cheating](https://www.polygon.com/23131458/card-shark-preview-devolver-digital-nerial-nintendo-switch-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
