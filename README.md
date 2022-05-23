@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old time](http://9gag.com/gag/a61xqBL)
- - ⏩ [My husband introduced me to 9GAG about 9 years ago. This week he passed away from fking ALS. It\u2019s his arm with tattoo I designed for him. It\u2019s not an Instagram to share my personal stuff, it\u2019s just a appreciation post about one of our fallen soldier.](http://9gag.com/gag/a61xqo9)
- - 👉 [Real talk](http://9gag.com/gag/a91V1ZK)<!-- MEMES:END -->
+ - 💣 [The Guardians of the Solar System](http://9gag.com/gag/a21xKBD)
+ - ⏩ [Brothers](http://9gag.com/gag/a51xXLG)
+ - 👉 [Exerts in action...](http://9gag.com/gag/a71Gq6A)<!-- MEMES:END -->
 
 ---
 
