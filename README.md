@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the last photo taken of Nicholas Mevoli before he attempted to dive 236ft deep and succeeded. He surfaced and gave the \u201cO.K.\u201d sign, attempted to speak and passed out. He never recovered and died from pulmonary edema.](http://9gag.com/gag/a61x2z9)
- - ⏩ [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)
- - 👉 [Clown world](http://9gag.com/gag/a11x23R)<!-- MEMES:END -->
+ - 💣 [I\u2019ve never seen a more accurate meme. And it\u2019s simpsons. What are you spending all your money on?](http://9gag.com/gag/azeBZ8j)
+ - ⏩ [As expected for him](http://9gag.com/gag/aAGm2xd)
+ - 👉 [UK Police arresting a taxi driver for driving a car similar to a criminal](http://9gag.com/gag/aAGmXMR)<!-- MEMES:END -->
 
 ---
 
