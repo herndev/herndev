@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Erik Neuenschwander talks about design choices at privacy conference](https://appleinsider.com/articles/22/05/24/apples-erik-neuenschwander-talks-about-design-choices-at-privacy-conference?utm_medium=rss)
- - [Asus Zenbook Pro 14 Duo OLED review: a dual-screen laptop that works](https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price)
- - [Motorola Moto G 5G &lpar;2022&rpar; review: The textbook Moto G deserves better](https://www.androidauthority.com/motorola-moto-g-5g-2022-review-3163087/)<!-- TECH:END -->
+ - [Apple could let you switch active devices in the future just by picking them up](https://appleinsider.com/articles/22/05/24/apple-could-let-you-switch-active-devices-in-the-future-just-by-picking-them-up?utm_medium=rss)
+ - [Microsoft Build 2022: news and updates from Microsoft’s developer conference](https://www.theverge.com/2022/5/24/23139584/microsoft-build-2022-developers-office-365-windows-conference)
+ - [Microsoft is making native Arm versions of Visual Studio 2022 and VS Code](https://www.theverge.com/2022/5/24/23139475/microsoft-visual-studio-2022-native-arm-vs-code)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
