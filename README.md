@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At Andy Jassy&#39;s first Amazon shareholder meeting this Wednesday, filings show the company will oppose all 15 proposals, the most it has faced since 2010 &lpar;Financial Times&rpar;](http://www.techmeme.com/220524/p5#a220524p5)
- - [Google Research details Imagen, an AI-based text-to-image generator to rival OpenAI&#39;s DALL-E 2 &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220524/p4#a220524p4)
- - [As Street View turns 15, Google announces several updates, including historical imagery on iOS and Android and a smaller camera system for its cars &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/220524/p3#a220524p3)<!-- TECH:END -->
+ - [Think Airport Crowding Is Bad Now? Wait ’Til Summer](https://www.wired.com/story/why-airport-crowding-is-so-bad)
+ - [Open Source Intelligence May Be Changing Old-School War](https://www.wired.com/story/open-source-intelligence-war-russia-ukraine)
+ - [A Novelist and an AI Cowrote Your Next Cringe-Read](https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
