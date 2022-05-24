@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite Pro Spouts Racial Slur, Shows Off Gun Stockpile In Widely Condemned Video](https://kotaku.com/fortnite-champion-series-epic-games-sin3278-racist-guns-1848970710)
- - [How To Get Halo Infinite’s Kick-Ass WW2-Inspired Armor](https://kotaku.com/halo-infinite-eaglestrike-armor-season-two-fracture-ent-1848971645)
- - [Human Woman Kissing Simulator Sonic ‘06 Relisted In Xbox 360 Store](https://kotaku.com/sonic-hedgehog-06-sega-xbox-360-digital-cult-classic-wo-1848971197)<!-- GAME:END -->
+ - [I am once again reminding you that Farming Simulator is a shockingly good esport](https://www.pcgamer.com/i-am-once-again-reminding-you-that-farming-simulator-is-a-shockingly-good-esport)
+ - [Destiny 2: Season of the Haunted adds 5 new Exotics — here’s what they do](https://www.polygon.com/23138419/destiny-2-season-of-the-haunted-trespasser-heartshadow-exotic-armor)
+ - [This Beautiful Farming Sim Combines Chinese Fantasy With Stardew Valley](https://kotaku.com/immortal-life-harvest-moon-stardew-valley-rune-factory-1848972094)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
