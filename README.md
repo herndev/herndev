@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Human Woman Kissing Simulator Sonic ‘06 Relisted In Xbox 360 Store](https://kotaku.com/sonic-hedgehog-06-sega-xbox-360-digital-cult-classic-wo-1848971197)
- - [The Sims 4 players can now choose their Sims’ pronouns](https://www.polygon.com/23140040/the-sims-4-custom-pronouns-create-a-sim)
- - [Jesus doesn’t love you in the new game I, the Inquisitor](https://www.polygon.com/23139970/jesus-i-the-inquisitor-jacek-piekara-novels)<!-- GAME:END -->
+ - [Fortnite Pro Spouts Racial Slur, Shows Off Gun Stockpile In Widely Condemned Video](https://kotaku.com/fortnite-champion-series-epic-games-sin3278-racist-guns-1848970710)
+ - [How To Get Halo Infinite’s Kick-Ass WW2-Inspired Armor](https://kotaku.com/halo-infinite-eaglestrike-armor-season-two-fracture-ent-1848971645)
+ - [Human Woman Kissing Simulator Sonic ‘06 Relisted In Xbox 360 Store](https://kotaku.com/sonic-hedgehog-06-sega-xbox-360-digital-cult-classic-wo-1848971197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
