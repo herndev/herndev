@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Marketplace Celebrates 5th Anniversary](https://news.xbox.com/en-us/2022/05/24/minecraft-marketplace-celebrates-5th-anniversary/)
- - [Reggie Fils-Aime: Companies Need To ‘Embrace’ Unions If That’s What Employees Want](https://kotaku.com/reggie-fils-aime-unions-nintendo-america-president-rave-1848970357)
- - [Battlefield 2042’s Hazard Zone mode is going to video game heaven](https://www.polygon.com/23139798/battlefield-2042-season-1-hazard-zone-mode-ending-development)<!-- GAME:END -->
+ - [Human Woman Kissing Simulator Sonic ‘06 Relisted In Xbox 360 Store](https://kotaku.com/sonic-hedgehog-06-sega-xbox-360-digital-cult-classic-wo-1848971197)
+ - [The Sims 4 players can now choose their Sims’ pronouns](https://www.polygon.com/23140040/the-sims-4-custom-pronouns-create-a-sim)
+ - [Jesus doesn’t love you in the new game I, the Inquisitor](https://www.polygon.com/23139970/jesus-i-the-inquisitor-jacek-piekara-novels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
