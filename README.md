@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple doubles its Today at Apple Creative Studios program, now reaches 14 cities](https://appleinsider.com/articles/22/05/24/apple-doubles-its-today-at-apple-creative-studios-program-now-reaches-14-cities?utm_medium=rss)
- - [How to create an iCloud account](https://www.androidauthority.com/create-icloud-account-3166108/)
- - [Daily deals May 24: $100 off Samsung M8 Smart Monitor, $290 iPad Air 3, Logitech discounts, more](https://appleinsider.com/articles/22/05/24/daily-deals-may-24-100-off-samsung-m8-smart-monitor-290-ipad-air-3-logitech-discounts-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple launches new Apple Watch Pride Edition bands, faces](https://appleinsider.com/articles/22/05/24/apple-launches-new-apple-watch-pride-edition-bands-faces?utm_medium=rss)
+ - [Here’s when Samsung will open a software beta program for the Galaxy Watch 4](https://www.androidauthority.com/one-ui-watch-beta-3168590/)
+ - [How to change your iCloud email and password](https://www.androidauthority.com/change-icloud-email-password-3168543/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
