@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can&#39;t judge people because of their towel](http://9gag.com/gag/a81nDy3)
- - ⏩ [Farm life](http://9gag.com/gag/amgd6PX)
- - 👉 [We&#39;re safe](http://9gag.com/gag/a91V59j)<!-- MEMES:END -->
+ - 💣 [Relatable](http://9gag.com/gag/avADEnn)
+ - ⏩ [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)
+ - 👉 [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)<!-- MEMES:END -->
 
 ---
 
