@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We warm blankets and then they warm us](http://9gag.com/gag/a11x026)
+ - 💣 [You can&#39;t judge people because of their towel](http://9gag.com/gag/a81nDy3)
  - ⏩ [Farm life](http://9gag.com/gag/amgd6PX)
  - 👉 [We&#39;re safe](http://9gag.com/gag/a91V59j)<!-- MEMES:END -->
 
