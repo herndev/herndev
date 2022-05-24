@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ new champion is a secret monster with infinite attack speed](https://www.polygon.com/23042792/league-of-legends-new-champion-belveth-ability-kit-ultimate-passive-lol)
- - [LotR: Gollum&#39;s gameplay reveal is as conflicted as its titular character](https://www.pcgamer.com/lotr-gollums-gameplay-reveal-is-as-conflicted-as-its-titular-character)
- - [How Hogwarts Legacy taps PS5 features to make gameplay feel magical](https://blog.playstation.com/2022/05/24/how-hogwarts-legacy-taps-ps5-features-to-make-gameplay-feel-magical/)<!-- GAME:END -->
+ - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
+ - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
+ - [Destiny 2 Takes Players Back To The Leviathan Raid In Season Of The Haunted](https://kotaku.com/destiny-2-witch-queen-season-17-haunted-raid-dungeon-ex-1848968413)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
