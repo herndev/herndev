@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hunter x Hunter Creator Joins Twitter, Reveals Manga’s Long Hiatus Is Ending](https://kotaku.com/hunter-x-hunter-yoshihiro-togashi-manga-hiatus-gon-kill-1848969729)
- - [Here Are The Top 10 Most-Played Games Of The Year So Far](https://kotaku.com/most-played-games-2022-gta-minecraft-call-of-duty-fortn-1848969703)
- - [Firewall Zero Hour’s tenth season goes live today](https://blog.playstation.com/2022/05/24/firewall-zero-hours-tenth-season-goes-live-today/)<!-- GAME:END -->
+ - [Battlefield 2042’s Hazard Zone mode is going to video game heaven](https://www.polygon.com/23139798/battlefield-2042-season-1-hazard-zone-mode-ending-development)
+ - [19 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
+ - [Judgment’s stair climbing animation will leave you breathless](https://www.polygon.com/23139760/judgment-stairs-escalator-physics-twitter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
