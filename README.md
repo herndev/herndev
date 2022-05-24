@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could let you switch active devices in the future just by picking them up](https://appleinsider.com/articles/22/05/24/apple-could-let-you-switch-active-devices-in-the-future-just-by-picking-them-up?utm_medium=rss)
- - [Microsoft Build 2022: news and updates from Microsoft’s developer conference](https://www.theverge.com/2022/5/24/23139584/microsoft-build-2022-developers-office-365-windows-conference)
- - [Microsoft is making native Arm versions of Visual Studio 2022 and VS Code](https://www.theverge.com/2022/5/24/23139475/microsoft-visual-studio-2022-native-arm-vs-code)<!-- TECH:END -->
+ - [Corey B. Marion, co-founder of The Iconfactory, dies age 54](https://appleinsider.com/articles/22/05/24/corey-b-marion-co-founder-of-the-iconfactory-dies-age-54?utm_medium=rss)
+ - [Nowports, an automated digital freight forwarder focused on Latin America, raises a $150M Series C at a $1.1B valuation, following a $60M Series B in Dec. 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220524/p15#a220524p15)
+ - [Apple shares full program for its upcoming hybrid WWDC 2022 event](https://appleinsider.com/articles/22/05/24/apple-shares-full-program-for-its-upcoming-hybrid-wwdc-2022-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
