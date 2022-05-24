@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You’re selective about answering phone calls](https://www.androidauthority.com/answer-phone-calls-poll-results-3168272/)
- - [Logitech&#39;s Upgraded MX Master 3S Mouse Is Quieter, New MX Mechanical Keyboards Are, Too     - CNET](https://www.cnet.com/tech/computing/logitechs-upgraded-mx-master-3s-mouse-is-quieter-new-mx-mechanical-keyboards-are-too/#ftag=CAD590a51e)
- - [Google Maps’ historical Street View imagery comes to mobile](https://www.theverge.com/2022/5/24/23137635/google-maps-15th-anniversary-historic-street-view-new-portable-camera)<!-- TECH:END -->
+ - [The Surveillance State Is Primed for Criminalized Abortion](https://www.wired.com/story/surveillance-police-roe-v-wade-abortion)
+ - [Motorola teases phone with 200-megapixel camera as Razr rumors mount](https://www.theverge.com/2022/5/24/23139245/motorola-200-megapixel-camera-phone-razr-third-gen-foldable-china-launch-july)
+ - [Blockchain Tech Could Literally Go to the Moon With Lockheed Martin     - CNET](https://www.cnet.com/personal-finance/crypto/blockchain-tech-could-literally-go-to-the-moon-with-lockheed-martin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
