@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #339: Tuesday, May 24](https://www.pcgamer.com/wordle-may-24-339-5-letter-words-starting-with-al)
- - [Hitman 3, F1 2022, Deep Rock Galactic, and more to get RTX On](https://www.pcgamer.com/hitman-3-f1-2022-deep-rock-galactic-and-more-to-get-rtx-on)
- - [Nvidia announces Asus Rog Swift 500Hz gaming monitor at Computex](https://www.pcgamer.com/nvidia-announces-asus-rog-swift-500hz-gaming-monitor-at-computex)<!-- GAME:END -->
+ - [How to mine iron ore in V Rising](https://www.pcgamer.com/how-to-get-v-rising-iron-ore)
+ - [The first SSDs to run at ultra-rapid 13,000MB/s break surface at Computex](https://www.pcgamer.com/first-pcie-gen5-ssd-apacer)
+ - [Take-Two and Zynga merge in the biggest deal in gaming history](https://www.pcgamer.com/take-two-and-zynga-merge-in-the-biggest-deal-in-gaming-history)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
