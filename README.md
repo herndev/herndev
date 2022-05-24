@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon&#39;s Dogma 10th anniversary website raises a lot of questions](https://www.pcgamer.com/dragons-dogma-10th-anniversary-website-raises-a-lot-of-questions)
- - [Thor: Love and Thunder’s new trailer shows off the retired god and his friends](https://www.polygon.com/23138688/thor-2-love-and-thunder-new-trailer-gorr-guardians-galaxy-cast)
- - [Destiny 2: Season 17 dungeon start time, new map, event cards, Iron Banner changes](https://www.pcgamer.com/destiny-2-season-17-start-time-new-map)<!-- GAME:END -->
+ - [Hitman 3, F1 2022, Deep Rock Galactic, and more to get RTX On](https://www.pcgamer.com/hitman-3-f1-2022-deep-rock-galactic-and-more-to-get-rtx-on)
+ - [Nvidia announces Asus Rog Swift 500Hz gaming monitor at Computex](https://www.pcgamer.com/nvidia-announces-asus-rog-swift-500hz-gaming-monitor-at-computex)
+ - [Nvidia&#39;s Computex 2022 keynote focused on AI and Cloud services](https://www.pcgamer.com/nvidias-computex-2022-keynote-focused-on-ai-and-cloud-services)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
