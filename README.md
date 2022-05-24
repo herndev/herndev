@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The one I always wanted vs the one I got](http://9gag.com/gag/ajgdKOq)
+ - 💣 [So, I&#39;ve been browsing 9gag for 10 years now. I finally opened my own business,thanks to you guys, a flower shop.And I would like to give my fellow 9gaggers free flowers. I&#39;m sorry it&#39;s not kebab, but you can visit my shop in Amman jordan anytime.](http://9gag.com/gag/a11xL4v)
  - ⏩ [I\u2019ve never seen a more accurate meme. And it\u2019s simpsons. What are you spending all your money on?](http://9gag.com/gag/azeBZ8j)
- - 👉 [This guy has been traveling in a car with his dog since 2017, they left Brazil planing to reach alaska, today both died in a car accident. Rest in peace both of them.](http://9gag.com/gag/aVxd252)<!-- MEMES:END -->
+ - 👉 [Clown world](http://9gag.com/gag/a11x23R)<!-- MEMES:END -->
 
 ---
 
