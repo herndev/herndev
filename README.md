@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps’ historical Street View imagery comes to mobile](https://www.theverge.com/2022/5/24/23137635/google-maps-15th-anniversary-historic-street-view-new-portable-camera)
- - [Logitech’s new mouse and keyboard offer a quieter click and more clack, respectively](https://www.theverge.com/2022/5/24/23137797/logitech-mx-master-3s-mechanical-mini-mouse-keyboard-price-release-date-features)
- - [Google TV finally gets individual profiles after multiple false starts](https://www.androidauthority.com/google-tv-profiles-rolling-out-3168270/)<!-- TECH:END -->
+ - [You told us: You’re selective about answering phone calls](https://www.androidauthority.com/answer-phone-calls-poll-results-3168272/)
+ - [Logitech&#39;s Upgraded MX Master 3S Mouse Is Quieter, New MX Mechanical Keyboards Are, Too     - CNET](https://www.cnet.com/tech/computing/logitechs-upgraded-mx-master-3s-mouse-is-quieter-new-mx-mechanical-keyboards-are-too/#ftag=CAD590a51e)
+ - [Google Maps’ historical Street View imagery comes to mobile](https://www.theverge.com/2022/5/24/23137635/google-maps-15th-anniversary-historic-street-view-new-portable-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
