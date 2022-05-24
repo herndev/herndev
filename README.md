@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches new Apple Watch Pride Edition bands, faces](https://appleinsider.com/articles/22/05/24/apple-launches-new-apple-watch-pride-edition-bands-faces?utm_medium=rss)
- - [Here’s when Samsung will open a software beta program for the Galaxy Watch 4](https://www.androidauthority.com/one-ui-watch-beta-3168590/)
- - [How to change your iCloud email and password](https://www.androidauthority.com/change-icloud-email-password-3168543/)<!-- TECH:END -->
+ - [Apple&#39;s Erik Neuenschwander talks about design choices at privacy conference](https://appleinsider.com/articles/22/05/24/apples-erik-neuenschwander-talks-about-design-choices-at-privacy-conference?utm_medium=rss)
+ - [Asus Zenbook Pro 14 Duo OLED review: a dual-screen laptop that works](https://www.theverge.com/23063863/asus-zenbook-pro-duo-14-review-screenpad-plus-dual-screen-laptop-specs-features-price)
+ - [Motorola Moto G 5G &lpar;2022&rpar; review: The textbook Moto G deserves better](https://www.androidauthority.com/motorola-moto-g-5g-2022-review-3163087/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
