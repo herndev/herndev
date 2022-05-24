@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
- - [Spotify is slowly bringing back political ads on podcasts after pausing them in early 2020, and says it has strengthened its advertiser verification system &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220523/p35#a220523p35)
- - [Klarna used a prerecorded video message to lay off 10 percent of employees](https://www.theverge.com/2022/5/23/23138602/klarna-bnpl-service-lays-off-10-percent-workers-economy-falters-video-messages)<!-- TECH:END -->
+ - [SwipeRx, a digital platform for pharmacists in Southeast Asia for daily tasks like purchasing or inventory financing, raises a $27M Series B led by MDI Ventures &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220523/p36#a220523p36)
+ - [Activision Blizzard Accused of Threatening Against Unionization as Staff Forms Union     - CNET](https://www.cnet.com/news/politics/activision-blizzard-accused-of-threatening-against-unionization-as-staff-forms-union/#ftag=CAD590a51e)
+ - [Starlink’s new RV plan lets buyers skip the line if they pay more for worse service](https://www.theverge.com/2022/5/23/23138898/spacex-starlink-rv-satellite-internet-waitlist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
