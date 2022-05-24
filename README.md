@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
- - [Days of Play 2022 sale starts May 25](https://blog.playstation.com/2022/05/24/days-of-play-2022-sale-starts-may-25/)
- - [Destiny 2 Takes Players Back To The Leviathan Raid In Season Of The Haunted](https://kotaku.com/destiny-2-witch-queen-season-17-haunted-raid-dungeon-ex-1848968413)<!-- GAME:END -->
+ - [Bungie reveals Destiny 2’s new Solar 3.0 abilities](https://www.polygon.com/23138408/destiny-2-season-of-the-haunted-solar-3-0-abilities-trailer-breakdown)
+ - [Pokémon’s Ultra Beasts are coming to Pokémon Go](https://www.polygon.com/23139490/pokemon-go-ultra-beast-nihilego-alola-go-fest-2022)
+ - [Thor: Love and Thunder’s villain, Gorr the God Butcher, is an interstellar atheist](https://www.polygon.com/23124300/thor-love-and-thunder-christian-bale-villain-name-gorr-god-butcher)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
