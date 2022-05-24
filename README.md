@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modjo - Lady &lpar;2000&rpar;](http://9gag.com/gag/aogdLx0)
- - ⏩ [Drifttt](http://9gag.com/gag/aYrdMKw)
- - 👉 [My washing machine was bought in 1982, and is still running, consuming only 10% more electricity than modern ones. Good luck finding a product like that today... Most break weeks after warranty ends, and can&#39;t be repaired. Until we put a stop to this, nothing will change](http://9gag.com/gag/aXrd7Ab)<!-- MEMES:END -->
+ - 💣 [This is the last photo taken of Nicholas Mevoli before he attempted to dive 236ft deep and succeeded. He surfaced and gave the \u201cO.K.\u201d sign, attempted to speak and passed out. He never recovered and died from pulmonary edema.](http://9gag.com/gag/a61x2z9)
+ - ⏩ [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)
+ - 👉 [Clown world](http://9gag.com/gag/a11x23R)<!-- MEMES:END -->
 
 ---
 
