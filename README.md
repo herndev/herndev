@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Democrats say Google must curb location tracking before Roe repeal](https://www.theverge.com/2022/5/24/23140279/democrat-letter-google-location-data-abortion-surveillance-geofence-warrants)
- - [Phones shipping with Android 13 will require a technology created by…Huawei?](https://www.androidauthority.com/android-13-erofs-3168808/)
- - [Pixel 6 owners aren’t thrilled with Google’s overpriced, yellowing cases](https://www.theverge.com/2022/5/24/23140038/pixel-6-pro-google-phone-case-yellowing-discoloration-stains-warping)<!-- TECH:END -->
+ - [Internal memo: Lyft plans to slow US hiring, cut some department budgets, and grant new stock options to some employees to make up for its eroding share price &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220524/p25#a220524p25)
+ - [In a letter, 42 Democratic lawmakers urge Google to stop collecting and keeping unnecessary user data that could be used to identify people seeking abortions &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220524/p24#a220524p24)
+ - [How to See the Mile-Wide Asteroid About to Make a Close Pass by Earth     - CNET](https://www.cnet.com/science/space/how-to-see-the-mile-wide-asteroid-about-to-make-a-close-pass-by-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
