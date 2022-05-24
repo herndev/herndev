@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2: Season 17 dungeon start time, new map, event cards, Iron Banner changes](https://www.pcgamer.com/destiny-2-season-17-start-time-new-map)
- - [Destiny 2 Season 17 trailer confirms the Season of the Haunted](https://www.pcgamer.com/destiny-2-season-17-trailer-confirms-the-season-of-the-haunted)
- - [Dune Crypto Leader Quits NFT Project After Being Accused Of Racism, Homophobia &amp; Grooming](https://kotaku.com/dune-dao-spice-crypto-nft-milady-charlotte-fang-miya-ts-1848966481)<!-- GAME:END -->
+ - [Dragon&#39;s Dogma 10th anniversary website raises a lot of questions](https://www.pcgamer.com/dragons-dogma-10th-anniversary-website-raises-a-lot-of-questions)
+ - [Thor: Love and Thunder’s new trailer shows off the retired god and his friends](https://www.polygon.com/23138688/thor-2-love-and-thunder-new-trailer-gorr-guardians-galaxy-cast)
+ - [Destiny 2: Season 17 dungeon start time, new map, event cards, Iron Banner changes](https://www.pcgamer.com/destiny-2-season-17-start-time-new-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
