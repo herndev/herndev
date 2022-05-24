@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good idea for older people](http://9gag.com/gag/aegdZjQ)
- - ⏩ [You know you&#39;re a batshit crazy libtard if Bill Maher is calling you out.](http://9gag.com/gag/arndXW6)
- - 👉 [We warm blankets and then they warm us](http://9gag.com/gag/a11x026)<!-- MEMES:END -->
+ - 💣 [We warm blankets and then they warm us](http://9gag.com/gag/a11x026)
+ - ⏩ [Farm life](http://9gag.com/gag/amgd6PX)
+ - 👉 [We&#39;re safe](http://9gag.com/gag/a91V59j)<!-- MEMES:END -->
 
 ---
 
