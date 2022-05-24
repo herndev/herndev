@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chris Evans and Ryan Gosling lead the first trailer for the Russo Brothers’ The Gray Man](https://www.polygon.com/23138091/the-gray-man-trailer-netflix-russo-brothers-chris-evans-ryan-gosling)
- - [Arcs is a 4X board game from the team behind critically acclaimed Root and Oath](https://www.polygon.com/23124230/arcs-collapse-and-conflict-in-the-void-cole-wehrle-leder-games-kickstarter-release-date-price)
- - [SteelSeries Arctis Nova Pro review](https://www.pcgamer.com/steelseries-arctis-nova-pro-wireless-review)<!-- GAME:END -->
+ - [League of Legends’ new champion is a secret monster with infinite attack speed](https://www.polygon.com/23042792/league-of-legends-new-champion-belveth-ability-kit-ultimate-passive-lol)
+ - [LotR: Gollum&#39;s gameplay reveal is as conflicted as its titular character](https://www.pcgamer.com/lotr-gollums-gameplay-reveal-is-as-conflicted-as-its-titular-character)
+ - [How Hogwarts Legacy taps PS5 features to make gameplay feel magical](https://blog.playstation.com/2022/05/24/how-hogwarts-legacy-taps-ps5-features-to-make-gameplay-feel-magical/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
