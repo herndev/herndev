@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t get it though, he was driving fine for so many years](http://9gag.com/gag/aGzoLV7)
- - ⏩ [That\u2019s how you handle rejection](http://9gag.com/gag/aRryZAQ)
- - 👉 [Why not...](http://9gag.com/gag/aegd11v)<!-- MEMES:END -->
+ - 💣 [Why not...](http://9gag.com/gag/aegd11v)
+ - ⏩ [Wrong day to wear a green t-shirt](http://9gag.com/gag/aQXrQQ7)
+ - 👉 [Classic wordplay joke](http://9gag.com/gag/a31xAKe)<!-- MEMES:END -->
 
 ---
 
