@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Relatable](http://9gag.com/gag/avADEnn)
- - ⏩ [\u201cI could be born in a stable that does not make me a horse\u201d](http://9gag.com/gag/aVxdKMw)
- - 👉 [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)<!-- MEMES:END -->
+ - 💣 [Christian Bale as Gorr the god butcher for Thor: Love and Thunder](http://9gag.com/gag/aqGd6Gj)
+ - ⏩ [At least he/she can still leave a review](http://9gag.com/gag/amgdm7j)
+ - 👉 [A physically purchased copy of WinRAR](http://9gag.com/gag/aOQjDqy)<!-- MEMES:END -->
 
 ---
 
