@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie reveals Destiny 2’s new Solar 3.0 abilities](https://www.polygon.com/23138408/destiny-2-season-of-the-haunted-solar-3-0-abilities-trailer-breakdown)
- - [Pokémon’s Ultra Beasts are coming to Pokémon Go](https://www.polygon.com/23139490/pokemon-go-ultra-beast-nihilego-alola-go-fest-2022)
- - [Thor: Love and Thunder’s villain, Gorr the God Butcher, is an interstellar atheist](https://www.polygon.com/23124300/thor-love-and-thunder-christian-bale-villain-name-gorr-god-butcher)<!-- GAME:END -->
+ - [Hunter x Hunter Creator Joins Twitter, Reveals Manga’s Long Hiatus Is Ending](https://kotaku.com/hunter-x-hunter-yoshihiro-togashi-manga-hiatus-gon-kill-1848969729)
+ - [Here Are The Top 10 Most-Played Games Of The Year So Far](https://kotaku.com/most-played-games-2022-gta-minecraft-call-of-duty-fortn-1848969703)
+ - [Firewall Zero Hour’s tenth season goes live today](https://blog.playstation.com/2022/05/24/firewall-zero-hours-tenth-season-goes-live-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
