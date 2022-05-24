@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ reveals &#39;Las Azules&#39; Spanish-language crime drama](https://appleinsider.com/articles/22/05/24/apple-tv-reveals-las-azules-spanish-language-crime-drama?utm_medium=rss)
- - [Here’s a real-life look at the Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-design-3168765/)
- - [Semperis, a cybersecurity startup offering tools to protect Microsoft Active Directory users, raises over $200M led by KKR &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220524/p21#a220524p21)<!-- TECH:END -->
+ - [Deal: Bring the noise with 23% off the JBL Flip 6 Bluetooth speaker](https://www.androidauthority.com/jbl-flip-6-deal-3168777/)
+ - [The PS5 is available directly from Sony at 4PM ET, and you can start queueing now](https://www.theverge.com/2022/5/24/23043630/sony-playstation-5-ps5-console-direct-restock-availability-inventory-check)
+ - [Microsoft says 10M+ players have streamed games with Xbox Cloud Gaming; last Sept., Nvidia said GeForce Now had 12M users; Google has been silent about Stadia &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220524/p22#a220524p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
