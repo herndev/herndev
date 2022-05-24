@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: Bring the noise with 23% off the JBL Flip 6 Bluetooth speaker](https://www.androidauthority.com/jbl-flip-6-deal-3168777/)
- - [The PS5 is available directly from Sony at 4PM ET, and you can start queueing now](https://www.theverge.com/2022/5/24/23043630/sony-playstation-5-ps5-console-direct-restock-availability-inventory-check)
- - [Microsoft says 10M+ players have streamed games with Xbox Cloud Gaming; last Sept., Nvidia said GeForce Now had 12M users; Google has been silent about Stadia &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220524/p22#a220524p22)<!-- TECH:END -->
+ - [Democrats say Google must curb location tracking before Roe repeal](https://www.theverge.com/2022/5/24/23140279/democrat-letter-google-location-data-abortion-surveillance-geofence-warrants)
+ - [Phones shipping with Android 13 will require a technology created by…Huawei?](https://www.androidauthority.com/android-13-erofs-3168808/)
+ - [Pixel 6 owners aren’t thrilled with Google’s overpriced, yellowing cases](https://www.theverge.com/2022/5/24/23140038/pixel-6-pro-google-phone-case-yellowing-discoloration-stains-warping)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
