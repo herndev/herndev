@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iodyne Pro Data review: External storage as fast as your Mac Studio&#39;s SSD](https://appleinsider.com/articles/22/05/24/iodyne-pro-data-review-external-storage-as-fast-as-your-mac-studios-ssd?utm_medium=rss)
- - [Fitbit Sense 2: Everything we know and what we want to see](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)
- - [Niantic unveils Visual Positioning System, a platform for developers building location-aware AR apps, and debuts Campfire, a location-based social network &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220524/p20#a220524p20)<!-- TECH:END -->
+ - [Apple TV+ reveals &#39;Las Azules&#39; Spanish-language crime drama](https://appleinsider.com/articles/22/05/24/apple-tv-reveals-las-azules-spanish-language-crime-drama?utm_medium=rss)
+ - [Here’s a real-life look at the Motorola Razr 3](https://www.androidauthority.com/motorola-razr-3-design-3168765/)
+ - [Semperis, a cybersecurity startup offering tools to protect Microsoft Active Directory users, raises over $200M led by KKR &lpar;Krystal Hu/Reuters&rpar;](http://www.techmeme.com/220524/p21#a220524p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
