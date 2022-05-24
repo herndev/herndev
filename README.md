@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft debuts Power Pages, a low-code website builder, and Power Apps Express Design, which can turn images into an app with functional controls &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/220524/p18#a220524p18)
- - [Android apps on Windows 11 coming to five more countries. Is yours on the list?](https://www.androidauthority.com/android-apps-on-windows-3168725/)
- - [The ‘800 pound gorilla’ in the Gulf of Mexico that could supercharge hurricanes this season](https://www.theverge.com/2022/5/24/23139430/loop-current-gulf-of-mexico-hurricane-season-forecast)<!-- TECH:END -->
+ - [Iodyne Pro Data review: External storage as fast as your Mac Studio&#39;s SSD](https://appleinsider.com/articles/22/05/24/iodyne-pro-data-review-external-storage-as-fast-as-your-mac-studios-ssd?utm_medium=rss)
+ - [Fitbit Sense 2: Everything we know and what we want to see](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)
+ - [Niantic unveils Visual Positioning System, a platform for developers building location-aware AR apps, and debuts Campfire, a location-based social network &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220524/p20#a220524p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
