@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Canon R7 and R10 Cameras Pair RF Lenses with APS-C Sensors     - CNET](https://www.cnet.com/tech/computing/new-canon-r7-and-r10-cameras-pair-rf-lenses-with-aps-c-sensors/#ftag=CAD590a51e)
- - [Nvidia turns to liquid cooling to reduce big tech’s energy use](https://www.theverge.com/2022/5/24/23138928/nvidia-liquid-cooling-a100-server-graphics-cards-computation-ai)
- - [More People Should Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at a San Francisco townhouse that became a hub for Ukrainian tech workers fleeing the war and entrepreneurs from Russia and Belarus that oppose the war &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220524/p1#a220524p1)
+ - [LG phones on T-Mobile were essentially bricked, but a fix is out now](https://www.androidauthority.com/lg-phones-t-mobile-bug-fix-3168264/)
+ - [Xbox &amp; Bethesda Games Showcase 2022: How to Watch, Start Times, What to Expect     - CNET](https://www.cnet.com/tech/gaming/xbox-bethesda-games-showcase-2022-how-to-watch-start-times-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
