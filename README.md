@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SwipeRx, a digital platform for pharmacists in Southeast Asia for daily tasks like purchasing or inventory financing, raises a $27M Series B led by MDI Ventures &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220523/p36#a220523p36)
- - [Activision Blizzard Accused of Threatening Against Unionization as Staff Forms Union     - CNET](https://www.cnet.com/news/politics/activision-blizzard-accused-of-threatening-against-unionization-as-staff-forms-union/#ftag=CAD590a51e)
- - [Starlink’s new RV plan lets buyers skip the line if they pay more for worse service](https://www.theverge.com/2022/5/23/23138898/spacex-starlink-rv-satellite-internet-waitlist)<!-- TECH:END -->
+ - [CA State Assembly approves a bill letting parents sue social media companies if children become &quot;addicted&quot; to the companies&#39; products; bill needs a final vote &lpar;Adam Beam/Associated Press&rpar;](http://www.techmeme.com/220523/p37#a220523p37)
+ - [Zeus flicks too hard in latest Thor trailer](https://www.theverge.com/2022/5/23/23139042/thor-love-and-thunder-trailer-mcu-gorr-god-butcher)
+ - [Apple may release 2022 Apple Watch Pride edition bands next week](https://appleinsider.com/articles/22/05/24/apple-may-release-2022-apple-watch-pride-edition-bands-next-week?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
