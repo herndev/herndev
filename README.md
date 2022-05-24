@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at a San Francisco townhouse that became a hub for Ukrainian tech workers fleeing the war and entrepreneurs from Russia and Belarus that oppose the war &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220524/p1#a220524p1)
- - [LG phones on T-Mobile were essentially bricked, but a fix is out now](https://www.androidauthority.com/lg-phones-t-mobile-bug-fix-3168264/)
- - [Xbox &amp; Bethesda Games Showcase 2022: How to Watch, Start Times, What to Expect     - CNET](https://www.cnet.com/tech/gaming/xbox-bethesda-games-showcase-2022-how-to-watch-start-times-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Maps’ historical Street View imagery comes to mobile](https://www.theverge.com/2022/5/24/23137635/google-maps-15th-anniversary-historic-street-view-new-portable-camera)
+ - [Logitech’s new mouse and keyboard offer a quieter click and more clack, respectively](https://www.theverge.com/2022/5/24/23137797/logitech-mx-master-3s-mechanical-mini-mouse-keyboard-price-release-date-features)
+ - [Google TV finally gets individual profiles after multiple false starts](https://www.androidauthority.com/google-tv-profiles-rolling-out-3168270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
