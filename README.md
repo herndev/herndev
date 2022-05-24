@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to mine iron ore in V Rising](https://www.pcgamer.com/how-to-get-v-rising-iron-ore)
- - [The first SSDs to run at ultra-rapid 13,000MB/s break surface at Computex](https://www.pcgamer.com/first-pcie-gen5-ssd-apacer)
- - [Take-Two and Zynga merge in the biggest deal in gaming history](https://www.pcgamer.com/take-two-and-zynga-merge-in-the-biggest-deal-in-gaming-history)<!-- GAME:END -->
+ - [Chris Evans and Ryan Gosling lead the first trailer for the Russo Brothers’ The Gray Man](https://www.polygon.com/23138091/the-gray-man-trailer-netflix-russo-brothers-chris-evans-ryan-gosling)
+ - [Arcs is a 4X board game from the team behind critically acclaimed Root and Oath](https://www.polygon.com/23124230/arcs-collapse-and-conflict-in-the-void-cole-wehrle-leder-games-kickstarter-release-date-price)
+ - [SteelSeries Arctis Nova Pro review](https://www.pcgamer.com/steelseries-arctis-nova-pro-wireless-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
