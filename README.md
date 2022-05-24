@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emily: Omg Tyler is so hot. Tyler:](http://9gag.com/gag/aGzoMvn)
- - ⏩ [The wisdom of an elder](http://9gag.com/gag/a21xDbw)
- - 👉 [Which means it&#39;s a must watch](http://9gag.com/gag/aqGdxqv)<!-- MEMES:END -->
+ - 💣 [Found this today.I hope it brings luck to you all !](http://9gag.com/gag/aggd4Aq)
+ - ⏩ [Music to my ears](http://9gag.com/gag/a51xGBy)
+ - 👉 [As expected for him](http://9gag.com/gag/aAGm2xd)<!-- MEMES:END -->
 
 ---
 
