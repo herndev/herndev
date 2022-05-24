@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wrong day to wear a green t-shirt](http://9gag.com/gag/aQXrQQ7)
+ - 💣 [Next up: a bizarre psychologist who evaluated Johnny Depp&#39;s cognitive abilities based on his performance in movies](http://9gag.com/gag/aegdOGO)
  - ⏩ [June is just around the corner! Run while you can!](http://9gag.com/gag/angdn0E)
- - 👉 [This really sucks a$](http://9gag.com/gag/apgdDLB)<!-- MEMES:END -->
+ - 👉 [Good idea for older people](http://9gag.com/gag/aegdZjQ)<!-- MEMES:END -->
 
 ---
 
