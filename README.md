@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Lyft plans to slow US hiring, cut some department budgets, and grant new stock options to some employees to make up for its eroding share price &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220524/p25#a220524p25)
- - [In a letter, 42 Democratic lawmakers urge Google to stop collecting and keeping unnecessary user data that could be used to identify people seeking abortions &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220524/p24#a220524p24)
- - [How to See the Mile-Wide Asteroid About to Make a Close Pass by Earth     - CNET](https://www.cnet.com/science/space/how-to-see-the-mile-wide-asteroid-about-to-make-a-close-pass-by-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Apple says that starting June 30, all App Store apps that offer account creation must also let users delete their account within the app &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220524/p26#a220524p26)
+ - [Judge rules Tesla can’t hide behind arbitration in sexual harassment case](https://www.theverge.com/2022/5/24/23140051/judge-rules-tesla-hide-behind-arbitration-sexual-harassment-case-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
