@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors&#39; 0.6.1 update adds a bonus stage and two new mechanics](https://www.pcgamer.com/vampire-survivors-061-update-adds-a-bonus-stage-and-two-new-mechanics)
- - [Sony appears to once again offer slower versions of PS1 games on PlayStation Plus](https://www.polygon.com/23138769/playstation-now-ps1-games-slower-why-pal-ntsc)
- - [Gloomhaven is coming to consoles](https://www.polygon.com/23138647/gloomhaven-console-port-2023)<!-- GAME:END -->
+ - [Destiny 2: Season 17 dungeon start time, new map, event cards, Iron Banner changes](https://www.pcgamer.com/destiny-2-season-17-start-time-new-map)
+ - [Destiny 2 Season 17 trailer confirms the Season of the Haunted](https://www.pcgamer.com/destiny-2-season-17-trailer-confirms-the-season-of-the-haunted)
+ - [Dune Crypto Leader Quits NFT Project After Being Accused Of Racism, Homophobia &amp; Grooming](https://kotaku.com/dune-dao-spice-crypto-nft-milady-charlotte-fang-miya-ts-1848966481)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
