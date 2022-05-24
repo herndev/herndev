@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corey B. Marion, co-founder of The Iconfactory, dies age 54](https://appleinsider.com/articles/22/05/24/corey-b-marion-co-founder-of-the-iconfactory-dies-age-54?utm_medium=rss)
- - [Nowports, an automated digital freight forwarder focused on Latin America, raises a $150M Series C at a $1.1B valuation, following a $60M Series B in Dec. 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220524/p15#a220524p15)
- - [Apple shares full program for its upcoming hybrid WWDC 2022 event](https://appleinsider.com/articles/22/05/24/apple-shares-full-program-for-its-upcoming-hybrid-wwdc-2022-event?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft debuts Power Pages, a low-code website builder, and Power Apps Express Design, which can turn images into an app with functional controls &lpar;Jo&amp;atilde;o Carrasqueira/XDA Developers&rpar;](http://www.techmeme.com/220524/p18#a220524p18)
+ - [Android apps on Windows 11 coming to five more countries. Is yours on the list?](https://www.androidauthority.com/android-apps-on-windows-3168725/)
+ - [The ‘800 pound gorilla’ in the Gulf of Mexico that could supercharge hurricanes this season](https://www.theverge.com/2022/5/24/23139430/loop-current-gulf-of-mexico-hurricane-season-forecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
