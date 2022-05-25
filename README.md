@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New No Man&#39;s Sky expedition adds a time loop, &#39;space whales&#39;](https://www.pcgamer.com/new-no-mans-sky-expedition-adds-a-time-loop-space-whales)
- - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)
- - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)<!-- GAME:END -->
+ - [How Behind the Frame’s animation makes you feel at home](https://blog.playstation.com/2022/05/25/how-behind-the-frames-animation-makes-you-feel-at-home/)
+ - [How Behind the Frame’s animation makes you feel at home](https://blog.playstation.com/2022/05/25/how-behind-the-frames-animation-makes-you-feel-at-home/)
+ - [Chip ’n Dale: Rescue Rangers almost had a very different villain](https://www.polygon.com/23138745/chip-n-dale-rescue-rangers-villain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
