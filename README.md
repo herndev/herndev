@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best monitor for PS5: What are your options?](https://www.androidauthority.com/best-monitor-ps5-3167692/)
- - [Jack Dorsey is leaving Twitter&#39;s board of directors, effective today &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220525/p22#a220525p22)
- - [The Story of Abortion Pills and How They Work](https://www.wired.com/story/abortion-pills-how-they-work)<!-- TECH:END -->
+ - [Live-action &#39;Speed Racer&#39; may be coming back to life on Apple TV+](https://appleinsider.com/articles/22/05/25/live-action-speed-racer-may-be-coming-back-to-life-on-apple-tv?utm_medium=rss)
+ - [Expert RAW camera app makes its way to yet another Samsung flagship](https://www.androidauthority.com/expert-raw-samsung-galaxy-z-fold-3-3169327/)
+ - [Leaked video shows Apple SVP of Retail + People Deirdre O&#39;Brien telling employees that joining a union could hinder Apple&#39;s ability to improve workers&#39; jobs &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220525/p23#a220525p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
