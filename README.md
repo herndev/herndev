@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Apple says that starting June 30, all App Store apps that offer account creation must also let users delete their account within the app &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220524/p26#a220524p26)
- - [Judge rules Tesla can’t hide behind arbitration in sexual harassment case](https://www.theverge.com/2022/5/24/23140051/judge-rules-tesla-hide-behind-arbitration-sexual-harassment-case-elon-musk)<!-- TECH:END -->
+ - [Stripe partners with OpenNode to let businesses convert fiat payments into bitcoin via OpenNode&#39;s Stripe app; Stripe suspended bitcoin support in 2018 &lpar;Shawn Amick/Bitcoin Magazine&rpar;](http://www.techmeme.com/220524/p28#a220524p28)
+ - [Kuaishou reports Q1 revenue up 24% YoY to ~$3.2B, vs. ~$3.1B est., a ~$939M net loss, down 89% YoY from ~$8.7B, and 346M DAUs, up 17% YoY from 295M &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/220524/p27#a220524p27)
+ - [More People Need to Watch the Best Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-show-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
