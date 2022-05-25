@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So, I&#39;ve been browsing 9gag for 10 years now. I finally opened my own business,thanks to you guys, a flower shop.And I would like to give my fellow 9gaggers free flowers. I&#39;m sorry it&#39;s not kebab, but you can visit my shop in Amman jordan anytime.](http://9gag.com/gag/a11xL4v)
- - ⏩ [I\u2019ve never seen a more accurate meme. And it\u2019s simpsons. What are you spending all your money on?](http://9gag.com/gag/azeBZ8j)
- - 👉 [Clown world](http://9gag.com/gag/a11x23R)<!-- MEMES:END -->
+ - 💣 [What was your favourite phone before smartphones? Here&#39;s mine](http://9gag.com/gag/a71Gprx)
+ - ⏩ [So, I&#39;ve been browsing 9gag for 10 years now. I finally opened my own business,thanks to you guys, a flower shop.And I would like to give my fellow 9gaggers free flowers. I&#39;m sorry it&#39;s not kebab, but you can visit my shop in Amman jordan anytime.](http://9gag.com/gag/a11xL4v)
+ - 👉 [Ricky gervais isnt the comedian we deserve, but he&#39;s the one we need.](http://9gag.com/gag/aYrdA4x)<!-- MEMES:END -->
 
 ---
 
