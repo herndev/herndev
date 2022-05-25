@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers discover that a popular Python library &quot;ctx&quot; and PHP package &quot;phpass&quot; have been compromised to steal developers&#39; AWS keys and credentials &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/220525/p3#a220525p3)
- - [Dyson eyes robots that can do your household chores](https://www.theverge.com/2022/5/25/23140950/dyson-robotics-investment-hiring-household-chores)
- - [Google Photos now getting Real Tone filters for more diverse skin tones](https://www.androidauthority.com/google-photo-real-tone-filters-3168956/)<!-- TECH:END -->
+ - [Iodyne Pro Data review: External storage as fast as your Mac Studio&#39;s SSD](https://appleinsider.com/articles/22/05/24/iodyne-pro-data-review-external-storage-as-fast-as-your-mac-studios-ssd?utm_medium=rss)
+ - [YouTube Music now suggests your favorite speaker for playback](https://www.theverge.com/2022/5/25/23140986/youtube-music-suggested-google-chromecast-cast)
+ - [After actor and producer Seth Green lost his BAYC NFTs to a phishing scam, his show based on those NFTs is in doubt; OpenSea says it has frozen the NFTs &lpar;Sarah Emerson/BuzzFeed News&rpar;](http://www.techmeme.com/220525/p5#a220525p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
