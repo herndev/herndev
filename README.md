@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As an American I tip even when I go abroad. It makes the servers smile](http://9gag.com/gag/aggdj3w)
- - ⏩ [Best feeling ever.](http://9gag.com/gag/a91VVqK)
- - 👉 [The darker the better](http://9gag.com/gag/a21xG01)<!-- MEMES:END -->
+ - 💣 [Aye, how\u2019s your future looking now](http://9gag.com/gag/aAGmZYp)
+ - ⏩ [I miss them](http://9gag.com/gag/a61xxQ8)
+ - 👉 [We are a family](http://9gag.com/gag/aZrddM0)<!-- MEMES:END -->
 
 ---
 
