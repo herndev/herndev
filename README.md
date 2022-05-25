@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirTag stalking incidents prompts Oklahoma State University police to warn students &amp; faculty](https://appleinsider.com/articles/22/05/25/oklahoma-state-airtag-stalking-incidents-prompts-university-police-to-warn-students-faculty?utm_medium=rss)
- - [Andreessen Horowitz announces a $4.5B crypto fund, including $1.5B for seed investments, its fourth and largest such fund &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220525/p7#a220525p7)
- - [Researchers Made Ultracold Quantum Bubbles on the Space Station](https://www.wired.com/story/researchers-made-ultracold-quantum-bubbles-on-the-space-station)<!-- TECH:END -->
+ - [Global digital tax plans delayed to 2024, says OECD](https://appleinsider.com/articles/22/05/25/global-digital-tax-plans-delayed-to-2024-says-oecd?utm_medium=rss)
+ - [How to access your iCloud photos on any device](https://www.androidauthority.com/access-icloud-photos-3169128/)
+ - [DuckDuckGo confirms a researcher&#39;s findings that its browser allows Microsoft trackers on third-party websites, citing a search content agreement with Microsoft &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220525/p10#a220525p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
