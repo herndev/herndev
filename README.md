@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christian Bale&#39;s first look from Thor, Love and Thunder](http://9gag.com/gag/aDDPO19)
- - ⏩ [Ever had these type of naps?](http://9gag.com/gag/amgdRdV)
- - 👉 [The appropriate reaction](http://9gag.com/gag/aAGmvXo)<!-- MEMES:END -->
+ - 💣 [The appropriate reaction](http://9gag.com/gag/aAGmvXo)
+ - ⏩ [As an American I tip even when I go abroad. It makes the servers smile](http://9gag.com/gag/aggdj3w)
+ - 👉 [Then someone told her to be less white](http://9gag.com/gag/abgdR79)<!-- MEMES:END -->
 
 ---
 
