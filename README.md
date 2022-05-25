@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does the Xiaomi Mi Band 7 have NFC?](https://www.androidauthority.com/xiaomi-mi-band-7-nfc-3168770/)
- - [Pixel 6 owners aren’t happy with rapidly yellowing official cases](https://www.androidauthority.com/pixel-6-yellow-cases-3168927/)
- - [Instagram not working? Here are some things you can try! &lpar;Updated: May 25&rpar;](https://www.androidauthority.com/instagram-not-working-985962/)<!-- TECH:END -->
+ - [Researchers discover that a popular Python library &quot;ctx&quot; and PHP package &quot;phpass&quot; have been compromised to steal developers&#39; AWS keys and credentials &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/220525/p3#a220525p3)
+ - [Dyson eyes robots that can do your household chores](https://www.theverge.com/2022/5/25/23140950/dyson-robotics-investment-hiring-household-chores)
+ - [Google Photos now getting Real Tone filters for more diverse skin tones](https://www.androidauthority.com/google-photo-real-tone-filters-3168956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
