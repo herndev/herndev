@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [StarTech Thunderbolt 4 Dock review: great for your MacBook Pro workstation](https://appleinsider.com/articles/22/05/25/startech-thunderbolt-4-dock-review-great-for-your-macbook-pro-workstation?utm_medium=rss)
- - [LG turned its 48-inch OLED TV into a huge 4K gaming monitor](https://www.theverge.com/2022/5/25/23141765/lg-48gq900-oled-tv-gaming-monitor-pc)
- - [Big Tech is pouring millions into the wrong climate solution at Davos](https://www.theverge.com/2022/5/25/23141166/big-tech-funding-wrong-climate-change-solution-davos-carbon-removal)<!-- TECH:END -->
+ - [Amazon’s first clothing store opens its doors in Los Angeles](https://www.theverge.com/2022/5/25/23141479/amazon-style-clothing-retail-los-angeles-fashion)
+ - [Filing: Elon Musk plans to provide an additional $6.25B in equity financing for his Twitter buyout, boosting his commitment to $33.5B; Twitter&#39;s stock jumps 7%+ &lpar;CNBC&rpar;](http://www.techmeme.com/220525/p26#a220525p26)
+ - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
