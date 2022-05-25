@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find and use Opulent Keys in Destiny 2](https://www.pcgamer.com/destiny-2-opulent-key-chest-locations)
- - [The best VR headset in 2022](https://www.pcgamer.com/best-vr-headset)
- - [Don&#39;t worry, AMD is still supporting overclocking across all AM5 boards](https://www.pcgamer.com/amd-b650-overclocking-ryzen)<!-- GAME:END -->
+ - [New No Man&#39;s Sky expedition adds a time loop, &#39;space whales&#39;](https://www.pcgamer.com/new-no-mans-sky-expedition-adds-a-time-loop-space-whales)
+ - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)
+ - [First details on No Man’s Sky’s Leviathan Expedition update, live today](https://blog.playstation.com/2022/05/25/first-details-on-no-mans-skys-leviathan-expedition-update-live-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
