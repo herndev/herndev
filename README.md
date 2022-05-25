@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use an Apple AirTag to keep tabs on your everyday belongings](https://appleinsider.com/inside/airtags/tips/how-to-use-an-apple-airtag-to-keep-tabs-on-your-everyday-belongings?utm_medium=rss)
- - [Turkish grocery delivery startup Getir will lay off 14% of its staff globally, an estimated 4,480 people, and plans to scale back some operations and promotions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220525/p17#a220525p17)
- - [Apple&#39;s MacBook Pro 16-inch is back in stock for $2,299 &lpar;$200 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/22/05/25/apples-macbook-pro-16-inch-is-back-in-stock-for-2299-200-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Lucid Motors issues recall for some Lucid Air EVs over faulty instrument display wiring](https://www.theverge.com/2022/5/25/23141160/lucid-motors-recall-air-ev-wiring-harness-display)
+ - [A look at Google&#39;s renewed efforts to gain a foothold in e-commerce, led by Prabhakar Raghavan, and compete with Amazon, including dropping Google&#39;s commission &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220525/p20#a220525p20)
+ - [Google starts rolling out ads in Shorts globally and says advertisers will be able to make their Shorts video ads shoppable later in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220525/p19#a220525p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
