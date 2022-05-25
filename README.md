@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite 5 is rooted in the past](https://www.polygon.com/reviews/23140180/sniper-elite-5-review-release-date-platforms)
- - [You can customize your Sims&#39; pronouns now](https://www.pcgamer.com/you-can-customize-your-sims-pronouns-now)
- - [V Rising&#39;s Huge Success On Steam Has Even Taken Its Developers By Surprise](https://kotaku.com/v-rising-stunlock-studios-pc-steam-concurrent-players-v-1848973124)<!-- GAME:END -->
+ - [How to find and use Opulent Keys in Destiny 2](https://www.pcgamer.com/destiny-2-opulent-key-chest-locations)
+ - [The best VR headset in 2022](https://www.pcgamer.com/best-vr-headset)
+ - [Don&#39;t worry, AMD is still supporting overclocking across all AM5 boards](https://www.pcgamer.com/amd-b650-overclocking-ryzen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
