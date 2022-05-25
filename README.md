@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live-action &#39;Speed Racer&#39; may be coming back to life on Apple TV+](https://appleinsider.com/articles/22/05/25/live-action-speed-racer-may-be-coming-back-to-life-on-apple-tv?utm_medium=rss)
- - [Expert RAW camera app makes its way to yet another Samsung flagship](https://www.androidauthority.com/expert-raw-samsung-galaxy-z-fold-3-3169327/)
- - [Leaked video shows Apple SVP of Retail + People Deirdre O&#39;Brien telling employees that joining a union could hinder Apple&#39;s ability to improve workers&#39; jobs &lpar;Lauren Kaori Gurley/VICE&rpar;](http://www.techmeme.com/220525/p23#a220525p23)<!-- TECH:END -->
+ - [StarTech Thunderbolt 4 Dock review: great for your MacBook Pro workstation](https://appleinsider.com/articles/22/05/25/startech-thunderbolt-4-dock-review-great-for-your-macbook-pro-workstation?utm_medium=rss)
+ - [LG turned its 48-inch OLED TV into a huge 4K gaming monitor](https://www.theverge.com/2022/5/25/23141765/lg-48gq900-oled-tv-gaming-monitor-pc)
+ - [Big Tech is pouring millions into the wrong climate solution at Davos](https://www.theverge.com/2022/5/25/23141166/big-tech-funding-wrong-climate-change-solution-davos-carbon-removal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
