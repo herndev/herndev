@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [VeinViewer projects near-infrared light which is absorbed by blood and reflected by surrounding tissue. A brilliant invention by Christie Medical](http://9gag.com/gag/aegdPLO)
- - ⏩ [Iroh teaches](http://9gag.com/gag/aGzoNy5)
- - 👉 [Best feeling ever.](http://9gag.com/gag/a91VVqK)<!-- MEMES:END -->
+ - 💣 [Iroh teaches](http://9gag.com/gag/aGzoNy5)
+ - ⏩ [Best feeling ever.](http://9gag.com/gag/a91VVqK)
+ - 👉 [VeinViewer projects near-infrared light which is absorbed by blood and reflected by surrounding tissue. A brilliant invention by Christie Medical](http://9gag.com/gag/aegdPLO)<!-- MEMES:END -->
 
 ---
 
