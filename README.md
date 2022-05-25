@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iroh teaches](http://9gag.com/gag/aGzoNy5)
- - ⏩ [Best feeling ever.](http://9gag.com/gag/a91VVqK)
- - 👉 [VeinViewer projects near-infrared light which is absorbed by blood and reflected by surrounding tissue. A brilliant invention by Christie Medical](http://9gag.com/gag/aegdPLO)<!-- MEMES:END -->
+ - 💣 [Classic, puushe wifi](http://9gag.com/gag/aRry9rM)
+ - ⏩ [Full moon charged amethyst up my bum](http://9gag.com/gag/aQXrBzd)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/arndr4X)<!-- MEMES:END -->
 
 ---
 
