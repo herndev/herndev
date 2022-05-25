@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian startups are resorting to layoffs, a hiring freeze, shutting down non-core verticals, and rationalizing ad spends as a two-year funding spree slows down &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220524/p30#a220524p30)
- - [DeFi Llama: the total value locked across DeFi protocols has dropped to ~$112B, down from ~$195B before UST and LUNA collapsed, amid a broader decline in crypto &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220524/p29#a220524p29)
- - [The Best Spider-Man Movies: From No Way Home to Spider-Man 3     - CNET](https://www.cnet.com/culture/entertainment/the-best-spider-man-movies-from-no-way-home-to-spider-man-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A researcher says Australia&#39;s New South Wales digital driver&#39;s license is easy to forge due to deficient encryption, data validation flaws, and other issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220525/p1#a220525p1)
+ - [This guy received a 36 kg DIY repair kit from Apple to fix his iPhone Mini](https://www.androidauthority.com/apple-self-repair-toolkit-3168919/)
+ - [Indian startups are resorting to layoffs, a hiring freeze, shutting down non-core verticals, and rationalizing ad spends as a two-year funding spree slows down &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220524/p30#a220524p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
