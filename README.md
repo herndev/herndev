@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global digital tax plans delayed to 2024, says OECD](https://appleinsider.com/articles/22/05/25/global-digital-tax-plans-delayed-to-2024-says-oecd?utm_medium=rss)
- - [How to access your iCloud photos on any device](https://www.androidauthority.com/access-icloud-photos-3169128/)
- - [DuckDuckGo confirms a researcher&#39;s findings that its browser allows Microsoft trackers on third-party websites, citing a search content agreement with Microsoft &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220525/p10#a220525p10)<!-- TECH:END -->
+ - [Apple&#39;s Beats &amp; Daily Paper collaborate for special edition Studio Buds](https://appleinsider.com/articles/22/05/25/apples-beats-daily-paper-collaborate-for-special-edition-studio-buds?utm_medium=rss)
+ - [Daily Deals May 25: 76% off Magic Leap AR headset, $24 256GB SD card, 10% off M1 MacBook Air, more](https://appleinsider.com/articles/22/05/25/daily-deals-may-25-76-off-magic-leap-ar-headset-24-256gb-sd-card-10-off-m1-macbook-air-more?utm_medium=rss)
+ - [Why the company behind Pokémon Go is getting crypto-curious](https://www.theverge.com/2022/5/25/23140932/niantic-crypto-web3-nft-spotx-john-hanke)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
