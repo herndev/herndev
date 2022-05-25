@@ -188,11 +188,11 @@ Linux                    21 hrs 15 mins      ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/herndev/Emberspec-Portfolio/pull/5) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
-2. 🎉 Merged PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
-3. 💪 Opened PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
-4. 🎉 Merged PR [#4](https://github.com/herndev/ReactJS-Portfolio/pull/4) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. 🎉 Merged PR [#1](https://github.com/herndev/Trace-me/pull/1) in [herndev/Trace-me](https://github.com/herndev/Trace-me)
+1. 🎉 Merged PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+2. 💪 Opened PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+3. 🎉 Merged PR [#5](https://github.com/herndev/Emberspec-Portfolio/pull/5) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+4. 🎉 Merged PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
+5. 💪 Opened PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
 <!--END_SECTION:activity-->
  
 ---
