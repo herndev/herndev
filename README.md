@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DXRacer AIR Mesh chair](https://www.pcgamer.com/dxracer-air-mesh-gaming-chair-review)
- - [The Marvel MMO project at Daybreak Games has been cancelled](https://www.pcgamer.com/the-marvel-mmo-project-at-daybreak-games-has-been-cancelled)
- - [I&#39;m begging space sims to stop turning themselves into shooters](https://www.pcgamer.com/im-begging-space-sims-to-stop-turning-themselves-into-shooters)<!-- GAME:END -->
+ - [CD Projekt Red pulls the plug on real-life Witcher school](https://www.pcgamer.com/cd-projekt-red-pulls-the-plug-on-real-life-witcher-school)
+ - [Counter-Strike&#39;s first-ever Brasilian major happens this November](https://www.pcgamer.com/counter-strikes-first-ever-brasilian-major-happens-this-november)
+ - [Welcome to Polygon’s new comment system!](https://www.polygon.com/2022/5/25/23141286/polygon-new-comment-system-faq-coral)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
