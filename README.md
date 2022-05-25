@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crab Soulslike Dev Explains Nintendo World Showcase ‘Selling Out’ Joke](https://kotaku.com/nintendo-switch-elden-ring-indie-selling-out-soulslike-1848976140)
- - [Samsung T7 Shield Portable SSD](https://www.pcgamer.com/samsung-t7-shield-portable-ssd)
- - [The Sims’ iconic Goth family gets a makeover](https://www.polygon.com/23141406/the-sims-4-goth-family-bella-mortimer-cassandra-makeover)<!-- GAME:END -->
+ - [Belarusian Devs Delay Cyberpunk Game Due To Ongoing War In Ukraine](https://kotaku.com/replaced-delay-xbox-pc-ukraine-sad-cat-release-date-202-1848976622)
+ - [Fan-made Gloomhaven expansion raises more than $300,000](https://www.polygon.com/23140145/gloomhaven-fan-made-expansion-the-crimson-scales-interview-pre-order-price)
+ - [Blaseball: The Card Game crowdfund goes live with great player art](https://www.polygon.com/23141392/blaseball-the-card-game-gamefound-crowdfunding-campaign)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
