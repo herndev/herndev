@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s first clothing store opens its doors in Los Angeles](https://www.theverge.com/2022/5/25/23141479/amazon-style-clothing-retail-los-angeles-fashion)
- - [Filing: Elon Musk plans to provide an additional $6.25B in equity financing for his Twitter buyout, boosting his commitment to $33.5B; Twitter&#39;s stock jumps 7%+ &lpar;CNBC&rpar;](http://www.techmeme.com/220525/p26#a220525p26)
- - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
+ - [PlayStation accessories and games are discounted for Sony’s Days of Play](https://www.theverge.com/good-deals/2022/5/25/23141851/sony-playstation-days-of-play-summer-2022-dualsense-headset-accessories-games-discounts-deal-sale)
+ - [Peter Thiel officially leaves Meta&#39;s board; Meta announced in February that Thiel would be leaving the board after 17 years &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220525/p29#a220525p29)
+ - [Google Docs is getting a big upgrade to formatting](https://www.theverge.com/2022/5/25/23141908/google-docs-multiple-section-selection-text-formating)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
