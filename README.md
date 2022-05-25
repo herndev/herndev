@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s highly anticipated Journeys Through the Radiant Citadel delayed](https://www.polygon.com/23141789/dungeons-dragons-journeys-through-the-radiant-citadel-delay-release-date-price)
- - [20 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [EA Tells Devs It Won&#39;t Take Stand On Abortion Rights, Encourages &#39;Healing Circles&#39;](https://kotaku.com/ea-roe-v-wade-abortion-trans-rights-fifa-apex-legends-1848977494)<!-- GAME:END -->
+ - [Microsoft Flight Simulator’s free Top Gun content is finally here](https://www.polygon.com/23141927/microsoft-flight-simulator-top-gun-maverick-dlc-expansion-free)
+ - [Stalker-like online FPS Survarium is closing next week after 7 years in early access](https://www.pcgamer.com/stalker-like-online-fps-survarium-is-closing-next-week-after-7-years-in-early-access)
+ - [Glass-Cannon Elden Ring Player Bonks Every Main Boss With A Single Hit](https://kotaku.com/elden-ring-bushygames-one-hit-kill-radahn-margit-speedr-1848977810)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
