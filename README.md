@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are a family](http://9gag.com/gag/aZrddM0)
- - ⏩ [Never let them know your next move](http://9gag.com/gag/arndr4X)
- - 👉 [I miss them](http://9gag.com/gag/a61xxQ8)<!-- MEMES:END -->
+ - 💣 [I miss them](http://9gag.com/gag/a61xxQ8)
+ - ⏩ [Moses](http://9gag.com/gag/aVxdBAd)
+ - 👉 [My Ultimate Respects Steve Kerr](http://9gag.com/gag/amgdndy)<!-- MEMES:END -->
 
 ---
 
