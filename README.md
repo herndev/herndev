@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Beats &amp; Daily Paper collaborate for special edition Studio Buds](https://appleinsider.com/articles/22/05/25/apples-beats-daily-paper-collaborate-for-special-edition-studio-buds?utm_medium=rss)
- - [Daily Deals May 25: 76% off Magic Leap AR headset, $24 256GB SD card, 10% off M1 MacBook Air, more](https://appleinsider.com/articles/22/05/25/daily-deals-may-25-76-off-magic-leap-ar-headset-24-256gb-sd-card-10-off-m1-macbook-air-more?utm_medium=rss)
- - [Why the company behind Pokémon Go is getting crypto-curious](https://www.theverge.com/2022/5/25/23140932/niantic-crypto-web3-nft-spotx-john-hanke)<!-- TECH:END -->
+ - [Android 101: how to update Android apps](https://www.theverge.com/23139417/android-apps-update-how-to)
+ - [Ikea unveils new smart hub with Matter, overhauled home app](https://appleinsider.com/articles/22/05/25/ikea-unveils-new-smart-hub-with-matter-overhauled-home-app?utm_medium=rss)
+ - [StarkWare, which makes the StarkEx scaling engine for Ethereum, raises a $100M Series D led by Greenoaks and Coatue at an $8B valuation, up from $2B in November &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220525/p14#a220525p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
