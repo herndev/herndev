@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation accessories and games are discounted for Sony’s Days of Play](https://www.theverge.com/good-deals/2022/5/25/23141851/sony-playstation-days-of-play-summer-2022-dualsense-headset-accessories-games-discounts-deal-sale)
- - [Peter Thiel officially leaves Meta&#39;s board; Meta announced in February that Thiel would be leaving the board after 17 years &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220525/p29#a220525p29)
- - [Google Docs is getting a big upgrade to formatting](https://www.theverge.com/2022/5/25/23141908/google-docs-multiple-section-selection-text-formating)<!-- TECH:END -->
+ - [How to delete photos from Google Photos](https://www.androidauthority.com/delete-photos-google-photos-3096922/)
+ - [Boeing’s Starliner spacecraft returns to Earth, wrapping up critical test mission](https://www.theverge.com/2022/5/25/23138395/boeing-cst-100-starliner-nasa-undocking-landing-oft-2)
+ - [How to find your current location on Google Maps](https://www.androidauthority.com/current-location-google-maps-3100375/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
