@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stripe partners with OpenNode to let businesses convert fiat payments into bitcoin via OpenNode&#39;s Stripe app; Stripe suspended bitcoin support in 2018 &lpar;Shawn Amick/Bitcoin Magazine&rpar;](http://www.techmeme.com/220524/p28#a220524p28)
- - [Kuaishou reports Q1 revenue up 24% YoY to ~$3.2B, vs. ~$3.1B est., a ~$939M net loss, down 89% YoY from ~$8.7B, and 346M DAUs, up 17% YoY from 295M &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/220524/p27#a220524p27)
- - [More People Need to Watch the Best Show on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-show-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DeFi Llama: the total value locked across DeFi protocols has dropped to ~$112B, down from ~$195B before UST and LUNA collapsed, amid a broader decline in crypto &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220524/p29#a220524p29)
+ - [&#39;Hunter x Hunter&#39; Appears to Be Ending Its 4 Year Hiatus     - CNET](https://www.cnet.com/culture/entertainment/hunter-x-hunter-appears-to-be-ending-its-4-year-hiatus/#ftag=CAD590a51e)
+ - [Seth Green&#39;s Bored Ape NFT Was to Star in New Show. Then It Got Stolen     - CNET](https://www.cnet.com/personal-finance/crypto/seth-greens-bored-ape-nft-was-to-star-in-new-show-then-it-got-stolen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
