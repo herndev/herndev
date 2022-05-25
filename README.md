@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Does the Xiaomi Mi Band 7 have NFC?](https://www.androidauthority.com/xiaomi-mi-band-7-nfc-3168770/)
  - [Pixel 6 owners aren’t happy with rapidly yellowing official cases](https://www.androidauthority.com/pixel-6-yellow-cases-3168927/)
- - [Instagram not working? Here are some things you can try! &lpar;Updated: May 25&rpar;](https://www.androidauthority.com/instagram-not-working-985962/)
- - [Study: Amazon 3rd-party delivery drivers had an injury rate of one per five full-time-equivalent workers in 2021, up 38% YoY, higher than other delivery drivers &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220525/p2#a220525p2)<!-- TECH:END -->
+ - [Instagram not working? Here are some things you can try! &lpar;Updated: May 25&rpar;](https://www.androidauthority.com/instagram-not-working-985962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
