@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lucid Motors issues recall for some Lucid Air EVs over faulty instrument display wiring](https://www.theverge.com/2022/5/25/23141160/lucid-motors-recall-air-ev-wiring-harness-display)
- - [A look at Google&#39;s renewed efforts to gain a foothold in e-commerce, led by Prabhakar Raghavan, and compete with Amazon, including dropping Google&#39;s commission &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220525/p20#a220525p20)
- - [Google starts rolling out ads in Shorts globally and says advertisers will be able to make their Shorts video ads shoppable later in 2022 &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220525/p19#a220525p19)<!-- TECH:END -->
+ - [Apple retail, HR chief pushes back against union drives at Apple Stores](https://appleinsider.com/articles/22/05/25/apple-retail-hr-chief-pushes-back-against-union-drives-at-apple-stores?utm_medium=rss)
+ - [Apple releases tvOS 15.5.1 &amp; HomePod Software 15.5.1 with bug fixes](https://appleinsider.com/articles/22/05/25/apple-releases-tvos-1551-homepod-software-1551-with-bug-fixes?utm_medium=rss)
+ - [Visible launches free $300 gift card promo and Apple iPhones are included](https://appleinsider.com/articles/22/05/25/visible-launches-free-300-gift-card-promo-and-apple-iphones-are-included?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
