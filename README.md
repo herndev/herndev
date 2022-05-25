@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Major Battlefield 2042 Update Leaves Remaining Fans Dismayed](https://kotaku.com/battlefield-2042-dice-ea-electronic-arts-update-season-1848973007)
- - [What to expect from the Xbox &amp; Bethesda Games Showcase 2022](https://www.pcgamer.com/what-to-expect-from-the-xbox-and-bethesda-games-showcase-2022)
- - [Warhammer 40,000: Chaos Gate – Daemonhunters update gives wounded Grey Knights more grit](https://www.pcgamer.com/warhammer-40000-chaos-gate-daemonhunters-update-gives-wounded-grey-knights-more-grit)<!-- GAME:END -->
+ - [You can customize your Sims&#39; pronouns now](https://www.pcgamer.com/you-can-customize-your-sims-pronouns-now)
+ - [V Rising&#39;s Huge Success On Steam Has Even Taken Its Developers By Surprise](https://kotaku.com/v-rising-stunlock-studios-pc-steam-concurrent-players-v-1848973124)
+ - [Major Battlefield 2042 Update Leaves Remaining Fans Dismayed](https://kotaku.com/battlefield-2042-dice-ea-electronic-arts-update-season-1848973007)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
