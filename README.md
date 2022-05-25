@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn that stings](http://9gag.com/gag/a11xO9P)
- - ⏩ [SuperNature...](http://9gag.com/gag/a81nKPV)
- - 👉 [Hehe](http://9gag.com/gag/aAGmv4Z)<!-- MEMES:END -->
+ - 💣 [The darker the better](http://9gag.com/gag/a21xG01)
+ - ⏩ [Hehe](http://9gag.com/gag/aAGmv4Z)
+ - 👉 [Then someone told her to be less white](http://9gag.com/gag/abgdR79)<!-- MEMES:END -->
 
 ---
 
