@@ -188,11 +188,11 @@ Linux                    21 hrs 15 mins      ███████████�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
-2. 💪 Opened PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
-3. 🎉 Merged PR [#5](https://github.com/herndev/Emberspec-Portfolio/pull/5) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
-4. 🎉 Merged PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
-5. 💪 Opened PR [#1](https://github.com/herndev/herndev/pull/1) in [herndev/herndev](https://github.com/herndev/herndev)
+1. 🎉 Merged PR [#7](https://github.com/herndev/Emberspec-Portfolio/pull/7) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+2. 💪 Opened PR [#7](https://github.com/herndev/Emberspec-Portfolio/pull/7) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+3. 🎉 Merged PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+4. 💪 Opened PR [#6](https://github.com/herndev/Emberspec-Portfolio/pull/6) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
+5. 🎉 Merged PR [#5](https://github.com/herndev/Emberspec-Portfolio/pull/5) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
 <!--END_SECTION:activity-->
  
 ---
