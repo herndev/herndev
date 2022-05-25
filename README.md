@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iodyne Pro Data review: External storage as fast as your Mac Studio&#39;s SSD](https://appleinsider.com/articles/22/05/24/iodyne-pro-data-review-external-storage-as-fast-as-your-mac-studios-ssd?utm_medium=rss)
- - [YouTube Music now suggests your favorite speaker for playback](https://www.theverge.com/2022/5/25/23140986/youtube-music-suggested-google-chromecast-cast)
- - [After actor and producer Seth Green lost his BAYC NFTs to a phishing scam, his show based on those NFTs is in doubt; OpenSea says it has frozen the NFTs &lpar;Sarah Emerson/BuzzFeed News&rpar;](http://www.techmeme.com/220525/p5#a220525p5)<!-- TECH:END -->
+ - [AirTag stalking incidents prompts Oklahoma State University police to warn students &amp; faculty](https://appleinsider.com/articles/22/05/25/oklahoma-state-airtag-stalking-incidents-prompts-university-police-to-warn-students-faculty?utm_medium=rss)
+ - [Andreessen Horowitz announces a $4.5B crypto fund, including $1.5B for seed investments, its fourth and largest such fund &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220525/p7#a220525p7)
+ - [Researchers Made Ultracold Quantum Bubbles on the Space Station](https://www.wired.com/story/researchers-made-ultracold-quantum-bubbles-on-the-space-station)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
