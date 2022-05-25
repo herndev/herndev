@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: Amazon 3rd-party delivery drivers had an injury rate of one per five full-time-equivalent workers in 2021, up 38% YoY, higher than other delivery drivers &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220525/p2#a220525p2)
- - [Samsung Galaxy S23, S24 to ditch Exynos chips, claims wild report &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-s24-exynos-2025-3168339/)
- - [A researcher says Australia&#39;s New South Wales digital driver&#39;s license is easy to forge due to deficient encryption, data validation flaws, and other issues &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220525/p1#a220525p1)<!-- TECH:END -->
+ - [Pixel 6 owners aren’t happy with rapidly yellowing official cases](https://www.androidauthority.com/pixel-6-yellow-cases-3168927/)
+ - [Instagram not working? Here are some things you can try! &lpar;Updated: May 25&rpar;](https://www.androidauthority.com/instagram-not-working-985962/)
+ - [Study: Amazon 3rd-party delivery drivers had an injury rate of one per five full-time-equivalent workers in 2021, up 38% YoY, higher than other delivery drivers &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220525/p2#a220525p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
