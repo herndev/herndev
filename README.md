@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 101: how to update Android apps](https://www.theverge.com/23139417/android-apps-update-how-to)
- - [Ikea unveils new smart hub with Matter, overhauled home app](https://appleinsider.com/articles/22/05/25/ikea-unveils-new-smart-hub-with-matter-overhauled-home-app?utm_medium=rss)
- - [StarkWare, which makes the StarkEx scaling engine for Ethereum, raises a $100M Series D led by Greenoaks and Coatue at an $8B valuation, up from $2B in November &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220525/p14#a220525p14)<!-- TECH:END -->
+ - [How to use an Apple AirTag to keep tabs on your everyday belongings](https://appleinsider.com/inside/airtags/tips/how-to-use-an-apple-airtag-to-keep-tabs-on-your-everyday-belongings?utm_medium=rss)
+ - [Turkish grocery delivery startup Getir will lay off 14% of its staff globally, an estimated 4,480 people, and plans to scale back some operations and promotions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220525/p17#a220525p17)
+ - [Apple&#39;s MacBook Pro 16-inch is back in stock for $2,299 &lpar;$200 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/22/05/25/apples-macbook-pro-16-inch-is-back-in-stock-for-2299-200-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
