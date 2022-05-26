@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alex Garland says the ending of Men is whatever you make of it](https://www.polygon.com/23141857/ending-of-men-alex-garland-interview-cut-scene)
- - [Halo Infinite Fixes A Bunch Of Dumb Mistakes From The Last Update](https://kotaku.com/halo-infinite-season-two-update-battle-rifle-skill-jump-1848983046)
- - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
+ - [10 more PlayStation titles in development for film and TV, Sony Pictures CEO says](https://www.polygon.com/23143314/playstation-games-film-tv-sony-pictures-ceo-horizon-zero-dawn)
+ - [Minecraft The Wild Update Releasing June 7](https://news.xbox.com/en-us/2022/05/26/minecraft-the-wild-update-releasing-june-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
