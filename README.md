@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung took its 200MP mobile camera out for a spin and printed a gigantic photo](https://www.androidauthority.com/samsung-200mp-sensor-photo-3169462/)
  - [A 51-page Senate committee report warns that the US government lacks comprehensive data on ransomware attacks and payments and suffers from fragmented reporting &lpar;Liam Tung/ZDNet&rpar;](http://www.techmeme.com/220526/p1#a220526p1)
- - [Apple to increase starting pay for hourly workers to $22 per hour](https://appleinsider.com/articles/22/05/26/apple-to-increase-starting-pay-for-hourly-workers-to-22-per-hour?utm_medium=rss)
- - [Interviews with former and current Microsoft employees suggest a widespread pattern of executive misconduct persists, years after Satya Nadella vowed to end it &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/220525/p36#a220525p36)<!-- TECH:END -->
+ - [AEW Double or Nothing 2022: How to Watch, Start Times, Full Card and BR Live     - CNET](https://www.cnet.com/culture/entertainment/aew-double-or-nothing-2022-how-to-watch-start-times-full-card-and-br-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
