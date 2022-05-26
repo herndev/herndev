@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A 51-page Senate committee report warns that the US government lacks comprehensive data on ransomware attacks and payments and suffers from fragmented reporting &lpar;Liam Tung/ZDNet&rpar;](http://www.techmeme.com/220526/p1#a220526p1)
  - [Apple to increase starting pay for hourly workers to $22 per hour](https://appleinsider.com/articles/22/05/26/apple-to-increase-starting-pay-for-hourly-workers-to-22-per-hour?utm_medium=rss)
- - [Interviews with former and current Microsoft employees suggest a widespread pattern of executive misconduct persists, years after Satya Nadella vowed to end it &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/220525/p36#a220525p36)
- - [Apple to raise pay for US hourly workers to $22/hour, a 45% rise from 2018, amid inflation and unionization push; starting salaries in US also expected to rise &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/220525/p35#a220525p35)<!-- TECH:END -->
+ - [Interviews with former and current Microsoft employees suggest a widespread pattern of executive misconduct persists, years after Satya Nadella vowed to end it &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/220525/p36#a220525p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
