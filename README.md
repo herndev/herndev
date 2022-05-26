@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
- - [10 more PlayStation titles in development for film and TV, Sony Pictures CEO says](https://www.polygon.com/23143314/playstation-games-film-tv-sony-pictures-ceo-horizon-zero-dawn)
- - [Minecraft The Wild Update Releasing June 7](https://news.xbox.com/en-us/2022/05/26/minecraft-the-wild-update-releasing-june-7/)<!-- GAME:END -->
+ - [All Three Bioshock Games Are Currently Free On PC](https://kotaku.com/bioshock-2-infinite-trilogy-free-pc-epic-store-fps-2k-1848984067)
+ - [Glen Schofield&#39;s new horror game The Callisto Protocol is now not set in the PUBG universe, for some reason](https://www.pcgamer.com/glen-schofields-new-horror-game-the-callisto-protocol-is-now-not-set-in-the-pubg-universe-for-some-reason)
+ - [Dead Space spiritual successor The Callisto Protocol severs its connection to PUBG](https://www.polygon.com/23143542/the-callisto-protocol-pubg-universe-glen-schofield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
