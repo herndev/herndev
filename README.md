@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung took its 200MP mobile camera out for a spin and printed a gigantic photo](https://www.androidauthority.com/samsung-200mp-sensor-photo-3169462/)
- - [A 51-page Senate committee report warns that the US government lacks comprehensive data on ransomware attacks and payments and suffers from fragmented reporting &lpar;Liam Tung/ZDNet&rpar;](http://www.techmeme.com/220526/p1#a220526p1)
- - [AEW Double or Nothing 2022: How to Watch, Start Times, Full Card and BR Live     - CNET](https://www.cnet.com/culture/entertainment/aew-double-or-nothing-2022-how-to-watch-start-times-full-card-and-br-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some hotels are looking to guarantee bookings revenue by partnering with startups like Pinktada that convert stays into NFTs to be bought and sold by guests &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/220526/p3#a220526p3)
+ - [Lenovo Q4 profit beats estimates, at $412M, up 58% YoY, on revenue of $16.7B, up 6.8% YoY; Counterpoint: Lenovo led global PC market in Q1 with 23% marketshare &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220526/p2#a220526p2)
+ - [Samsung took its 200MP mobile camera out for a spin and printed a gigantic photo](https://www.androidauthority.com/samsung-200mp-sensor-photo-3169462/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
