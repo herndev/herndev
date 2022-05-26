@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on HBO Max, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [How to use Apple Pay](https://www.theverge.com/23141574/apple-pay-iphone-ipad-mac-apple-watch-how-to)
- - [Broadcom announces plan to buy VMWare in $61B deal](https://appleinsider.com/articles/22/05/26/broadcom-announces-plan-to-buy-vmware-in-61b-deal?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
+ - [Fleet management software provider Motive, formerly called KeepTruckin, raises a $150M Series F led by Insight and Kleiner Perkins at a $2.85B valuation &lpar;Noi Mahoney/FreightWaves&rpar;](http://www.techmeme.com/220526/p21#a220526p21)
+ - [Scientists grow cells on a robot skeleton &lpar;but don’t know what to do with them yet&rpar;](https://www.theverge.com/2022/5/26/23142769/tissue-engineering-growing-cells-mobile-robot-skeleton)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
