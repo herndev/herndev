@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s popular &#39;Psychonauts 2&#39; is now available on the Mac](https://appleinsider.com/articles/22/05/26/microsofts-popular-psychonauts-2-is-now-available-on-the-mac?utm_medium=rss)
- - [Who Owns 4chan?](https://www.wired.com/story/who-owns-4chan)
- - [Analysis of 164 remote learning apps and sites used in 49 countries during the pandemic finds ~90% shared student data with ad tech companies and data brokers &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/220526/p25#a220526p25)<!-- TECH:END -->
+ - [Instagram is having some problems today](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
+ - [Android 13 schedule: When will it launch?](https://www.androidauthority.com/android-13-schedule-3105528/)
+ - [Los Angeles-based BuildOps, which makes management software for commercial contractors, raises a $43M Series A led by Next47 &lpar;FinSMEs&rpar;](http://www.techmeme.com/220526/p26#a220526p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
