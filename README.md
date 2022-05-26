@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Brazilian e-commerce startup Vtex, which has an $820M market cap, cut ~200 jobs, ~13% of its workforce; Mexican crypto exchange Bitso laid off 80+ staff &lpar;Bloomberg L&amp;iacute;nea&rpar;](http://www.techmeme.com/220526/p30#a220526p30)
- - [True Detective’s fourth season is going to the Arctic with Jodie Foster as the lead](https://www.theverge.com/2022/5/26/23143346/jodie-foster-true-detective-season-4-hbo)
- - [PlayStation keeps pushing into TV and film with a Horizon Zero Dawn Netflix series](https://www.theverge.com/2022/5/26/23143448/playstation-horizon-zero-dawn-netflix-series-tv-movie-push)<!-- TECH:END -->
+ - [Instacart plans to slow hiring as it prepares for its IPO, after hiring over 1,500 staff in 2021; Instacart cut its valuation by 40% to $24B in March 2022 &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220526/p32#a220526p32)
+ - [It’s hard to believe Google Drive’s just now getting copy / paste shortcuts](https://www.theverge.com/2022/5/26/23143568/google-drive-cut-copy-paste-keyboard-shortcuts)
+ - [&#39;Stranger Things&#39; Season 4: Everything to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-everything-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
