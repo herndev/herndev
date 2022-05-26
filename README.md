@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huston we have a problem](http://9gag.com/gag/aggd9gg)
- - ⏩ [Wonder who.](http://9gag.com/gag/aegdzO5)
- - 👉 [Legend](http://9gag.com/gag/avADweE)<!-- MEMES:END -->
+ - 💣 [Be the change, right?](http://9gag.com/gag/a0ZxqWZ)
+ - ⏩ [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
+ - 👉 [&#39;back in my day...&#39; f**k off grandma! Shits harder now more than ever!](http://9gag.com/gag/aKmLZDN)<!-- MEMES:END -->
 
 ---
 
