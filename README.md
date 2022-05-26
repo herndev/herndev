@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone emergency SOS saves woman from attempted rape](https://appleinsider.com/articles/22/05/25/apples-iphone-emergency-sos-saves-woman-from-attempted-rape?utm_medium=rss)
- - [Assembled, a workforce management service for customer support teams, raises a $51M Series B led by New Enterprise Associates, taking its total funding to $71M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220526/p17#a220526p17)
- - [A profile of Stripe&#39;s John and Patrick Collison; sources say the startup&#39;s gross revenue rose 60% YoY to nearly $12B in 2021 as net revenue reached almost $2.5B &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220526/p16#a220526p16)<!-- TECH:END -->
+ - [Bluetti&#39;s EB3A 268Wh Solar Generator offers portable power ideal for camping](https://appleinsider.com/articles/22/05/26/bluettis-eb3a-268wh-solar-generator-offers-portable-power-ideal-for-camping?utm_medium=rss)
+ - [Oura partners with Gucci on the Gucci x Oura Ring wearable, letting users monitor heart rate, sleep, and more, available at select stores for $1,100 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220526/p18#a220526p18)
+ - [Samsung’s bundles are great incentives for buyers — so why isn’t Apple doing it?](https://www.androidauthority.com/samsung-bundles-why-isnt-apple-3166906/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
