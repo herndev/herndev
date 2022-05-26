@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Old World Is The Best New 4X Game In Years](https://kotaku.com/old-world-4x-strategy-game-pc-mohawk-kotaku-impressions-1848973368)
- - [Microsoft Flight Sim&#39;s Top Gun tie-in teaches you how to fly like a skillful maniac](https://www.pcgamer.com/microsoft-flight-sims-top-gun-tie-in-teaches-you-how-to-fly-like-a-skillful-maniac)
- - [V Rising Adds Offline Mode, Sells 1 Million Copies](https://kotaku.com/v-rising-pc-steam-offline-solo-singleplayer-coop-stunlo-1848978456)<!-- GAME:END -->
+ - [Sony expects to earn $300 million from PC games in the next 12 months](https://www.pcgamer.com/sony-expects-to-earn-dollar300-million-from-pc-games-in-the-next-12-months)
+ - [Game Pirates Trolled With Controller Errors And Endless Rain](https://kotaku.com/game-piracy-pirates-big-ant-cricket-cheat-video-games-a-1848979192)
+ - [Old World Is The Best New 4X Game In Years](https://kotaku.com/old-world-4x-strategy-game-pc-mohawk-kotaku-impressions-1848973368)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
