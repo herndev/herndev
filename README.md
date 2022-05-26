@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classic, puushe wifi](http://9gag.com/gag/aRry9rM)
- - ⏩ [Full moon charged amethyst up my bum](http://9gag.com/gag/aQXrBzd)
- - 👉 [Never let them know your next move](http://9gag.com/gag/arndr4X)<!-- MEMES:END -->
+ - 💣 [Full moon charged amethyst up my bum](http://9gag.com/gag/aQXrBzd)
+ - ⏩ [This shit never worked.](http://9gag.com/gag/amgdbmv)
+ - 👉 [First time in my life I feel like I have my shit together. And I did it on my own](http://9gag.com/gag/a81nvYV)<!-- MEMES:END -->
 
 ---
 
