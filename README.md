@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice design](http://9gag.com/gag/aDDPqPO)
- - ⏩ [Noice!](http://9gag.com/gag/aLvbORV)
- - 👉 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
+ - 💣 [Bro you so ugly you got job application after walking out from haunted house](http://9gag.com/gag/a91V49L)
+ - ⏩ [Nice design](http://9gag.com/gag/aDDPqPO)
+ - 👉 [How to remove Porsche headlights](http://9gag.com/gag/aGzo6bz)<!-- MEMES:END -->
 
 ---
 
