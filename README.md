@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The HP Envy x360 2-in-1 is on sale for its lowest price ever at HP](https://www.theverge.com/good-deals/2022/5/26/23142219/hp-envy-x360-2-in-1-laptop-lg-gram-samsung-galaxy-book-acer-swift-deal-sale)
- - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
- - [Microsoft will slow hiring in Windows, Office, and Teams groups, citing a need to realign staffing priorities; all new hires must be approved by EVP Rajesh Jha &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220526/p24#a220526p24)<!-- TECH:END -->
+ - [Microsoft&#39;s popular &#39;Psychonauts 2&#39; is now available on the Mac](https://appleinsider.com/articles/22/05/26/microsofts-popular-psychonauts-2-is-now-available-on-the-mac?utm_medium=rss)
+ - [Who Owns 4chan?](https://www.wired.com/story/who-owns-4chan)
+ - [Analysis of 164 remote learning apps and sites used in 49 countries during the pandemic finds ~90% shared student data with ad tech companies and data brokers &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/220526/p25#a220526p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
