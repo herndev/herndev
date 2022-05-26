@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Substack dropped efforts to raise money, after talks to raise $75M to $100M at a $750M to $1B valuation, and told investors it had ~$9M revenue in 2021 &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/220526/p27#a220526p27)
- - [Microsoft confirms work on ‘Keystone’ Xbox game streaming dongle](https://www.theverge.com/2022/5/26/23143181/microsoft-keystone-xbox-xcloud-game-streaming-dongle-codename)
- - [Fossil Gen 7: Everything we know and what we want to see](https://www.androidauthority.com/fossil-gen-7-3160846/)<!-- TECH:END -->
+ - [OpenSea redesigns parts of its NFT store as sales continue to slump](https://www.theverge.com/2022/5/26/23143241/opensea-redesign-profile-collections-pages-nft)
+ - [Forget consoles, Microsoft is working on an Xbox game streaming stick &lpar;Updated&rpar;](https://www.androidauthority.com/xbox-game-streaming-device-3162438/)
+ - [iPhone impacted by April smartphone sales downturn in China, data suggests](https://appleinsider.com/articles/22/05/26/iphone-impacted-by-april-smartphone-sales-downturn-in-china-data-suggests?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
