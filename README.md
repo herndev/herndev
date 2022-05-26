@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess the nationality](http://9gag.com/gag/a41x0wy)
- - ⏩ [He left us, his meme will live](http://9gag.com/gag/a91V09o)
- - 👉 [True or false?](http://9gag.com/gag/a31xOPm)<!-- MEMES:END -->
+ - 💣 [He left us, his meme will live](http://9gag.com/gag/a91V09o)
+ - ⏩ [True or false?](http://9gag.com/gag/a31xOPm)
+ - 👉 [See ya around Tommy... Thanks for the purple-hued, 80s-styled memories &lpar;Ray Liotta, 1954 - 2022&rpar;](http://9gag.com/gag/aWgd5Vn)<!-- MEMES:END -->
 
 ---
 
