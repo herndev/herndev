@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Father&#39;s Day Gifts for Every Budget     - CNET](https://www.cnet.com/tech/best-fathers-day-gifts-for-every-budget/#ftag=CAD590a51e)
- - [How to change your Xbox Gamertag](https://www.androidauthority.com/change-xbox-gamertag-3169815/)
- - [An investigation finds Apple, Meta, Amazon, Google, and Microsoft have launched coordinated campaigns in 31 states against data privacy legislation since 2021 &lpar;The Markup&rpar;](http://www.techmeme.com/220526/p28#a220526p28)<!-- TECH:END -->
+ - [Source: Brazilian e-commerce startup Vtex, which has an $820M market cap, cut ~200 jobs, ~13% of its workforce; Mexican crypto exchange Bitso laid off 80+ staff &lpar;Bloomberg L&amp;iacute;nea&rpar;](http://www.techmeme.com/220526/p30#a220526p30)
+ - [True Detective’s fourth season is going to the Arctic with Jodie Foster as the lead](https://www.theverge.com/2022/5/26/23143346/jodie-foster-true-detective-season-4-hbo)
+ - [PlayStation keeps pushing into TV and film with a Horizon Zero Dawn Netflix series](https://www.theverge.com/2022/5/26/23143448/playstation-horizon-zero-dawn-netflix-series-tv-movie-push)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
