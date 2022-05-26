@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD has actually created only one chipset for Zen 4, not three](https://www.pcgamer.com/amd-has-actually-created-only-one-chipset-for-zen-4-not-three)
- - [Miyazaki&#39;s favourite Elden Ring boss is Radahn](https://www.pcgamer.com/miyazakis-favourite-elden-ring-boss-is-radahn)
- - [Meta is &#39;making good progress&#39; on removing the Quest 2&#39;s mandatory Facebook login](https://www.pcgamer.com/meta-quest-2-facebook-login-removal)<!-- GAME:END -->
+ - [Twitch Pledges To Make Ban Notifications More Transparent, Streamers Are Skeptical](https://kotaku.com/twitch-ban-notification-clips-guidelines-streaming-1848978063)
+ - [Where to find map fragments in Elden Ring](https://www.pcgamer.com/elden-ring-map-fragments-locations)
+ - [The Quarry creates a cast of compelling campers to torment](https://www.polygon.com/23140373/the-quarry-horror-game-preview-cast-characters-impressions-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
