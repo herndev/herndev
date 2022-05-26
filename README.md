@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Hol up little one...](http://9gag.com/gag/ajgdvPg)
- - ⏩ [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
- - 👉 [The Art of War](http://9gag.com/gag/aRryW3G)<!-- MEMES:END -->
+ - ⏩ [Putler met with wounded `soldiers`. Damn, he even need actors to play soldiers](http://9gag.com/gag/aqGdO3P)
+ - 👉 [Wonder who.](http://9gag.com/gag/aegdzO5)<!-- MEMES:END -->
 
 ---
 
