@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Putler met with wounded `soldiers`. Damn, he even need actors to play soldiers](http://9gag.com/gag/aqGdO3P)
+ - 💣 [5000 rubles for each leg](http://9gag.com/gag/a71GXdL)
  - ⏩ [Hol up little one...](http://9gag.com/gag/ajgdvPg)
- - 👉 [Father of the year](http://9gag.com/gag/arnd0AX)<!-- MEMES:END -->
+ - 👉 [Huston we have a problem](http://9gag.com/gag/aggd9gg)<!-- MEMES:END -->
 
 ---
 
