@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Now is the perfect time to start playing Genshin Impact](https://www.polygon.com/23141211/genshin-impact-hoyoverse-new-players)
- - [Returnal PC release hinted by uncovered listing](https://www.polygon.com/23139495/returnal-pc-release-hint-sony-steam)
- - [Posting the entirety of Morbius online is the best new Morbius joke](https://www.polygon.com/23142815/morbius-streaming-twitch-twitter-discord-tumblr)<!-- GAME:END -->
+ - [Polygon eats a shoe because of Top Gun 2](https://www.polygon.com/23143105/top-gun-2-eat-a-shoe-video)
+ - [Determine the Destiny of Golden Sands Outpost in Sea of Thieves’ New Adventure Lost Sands](https://news.xbox.com/en-us/2022/05/26/determine-destiny-golden-sands-outpost-sea-of-thieves-new-adventure/)
+ - [Enjoyable Disaster Morbius Finds Thousands Of New Fans On Twitch, And I&#39;m One Of Them](https://kotaku.com/twitch-morbius-marvel-jared-leto-livestream-sony-vampir-1848981765)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
