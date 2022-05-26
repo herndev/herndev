@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you enter the elevator after they tried to close the door on you](http://9gag.com/gag/angd0GE)
- - ⏩ [Mexican Mario is the best](http://9gag.com/gag/aqGdBnv)
- - 👉 [If classical had modern drums](http://9gag.com/gag/aAGmLNo)<!-- MEMES:END -->
+ - 💣 [First time in my life I feel like I have my shit together. And I did it on my own](http://9gag.com/gag/a81nvYV)
+ - ⏩ [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)
+ - 👉 [Bro you so ugly you got job application after walking out from haunted house](http://9gag.com/gag/a91V49L)<!-- MEMES:END -->
 
 ---
 
