@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full moon charged amethyst up my bum](http://9gag.com/gag/aQXrBzd)
- - ⏩ [This shit never worked.](http://9gag.com/gag/amgdbmv)
- - 👉 [First time in my life I feel like I have my shit together. And I did it on my own](http://9gag.com/gag/a81nvYV)<!-- MEMES:END -->
+ - 💣 [Dutch news today. We still have more bycicles per 100 people than guns in US per 100 people!](http://9gag.com/gag/a81nX11)
+ - ⏩ [Well this was damn satisfying &lpar;0:30&rpar;](http://9gag.com/gag/a71GP1b)
+ - 👉 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
 
 ---
 
