@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s self-repair process is reportedly ‘far from ideal’ for many iPhone users](https://www.androidauthority.com/apple-self-repair-toolkit-3168919/)
- - [DeFi-focused startup Common raises $20M from Spark Capital, Polychain, Jump, and others for Commonwealth, its community management platform for DAOs &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/220525/p34#a220525p34)
- - [Zip, whose SaaS product allows businesses to simplify the internal procurement process, raises a $43M Series B led by YC Continuity at a $1.2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220525/p33#a220525p33)<!-- TECH:END -->
+ - [Apple to increase starting pay for hourly workers to $22 per hour](https://appleinsider.com/articles/22/05/26/apple-to-increase-starting-pay-for-hourly-workers-to-22-per-hour?utm_medium=rss)
+ - [Interviews with former and current Microsoft employees suggest a widespread pattern of executive misconduct persists, years after Satya Nadella vowed to end it &lpar;Ashley Stewart/Insider&rpar;](http://www.techmeme.com/220525/p36#a220525p36)
+ - [Apple to raise pay for US hourly workers to $22/hour, a 45% rise from 2018, amid inflation and unionization push; starting salaries in US also expected to rise &lpar;Tim Higgins/Wall Street Journal&rpar;](http://www.techmeme.com/220525/p35#a220525p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
