@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)
- - [This tiny PSU makes even small-form factor units appear massive](https://www.pcgamer.com/this-tiny-psu-makes-even-small-form-factor-units-appear-massive)
- - [Today&#39;s Wordle answer #341: Thursday, May 26](https://www.pcgamer.com/wordle-may-26-341)<!-- GAME:END -->
+ - [AMD has actually created only one chipset for Zen 4, not three](https://www.pcgamer.com/amd-has-actually-created-only-one-chipset-for-zen-4-not-three)
+ - [Miyazaki&#39;s favourite Elden Ring boss is Radahn](https://www.pcgamer.com/miyazakis-favourite-elden-ring-boss-is-radahn)
+ - [Meta is &#39;making good progress&#39; on removing the Quest 2&#39;s mandatory Facebook login](https://www.pcgamer.com/meta-quest-2-facebook-login-removal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
