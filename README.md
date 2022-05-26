@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Pledges To Make Ban Notifications More Transparent, Streamers Are Skeptical](https://kotaku.com/twitch-ban-notification-clips-guidelines-streaming-1848978063)
- - [Where to find map fragments in Elden Ring](https://www.pcgamer.com/elden-ring-map-fragments-locations)
- - [The Quarry creates a cast of compelling campers to torment](https://www.polygon.com/23140373/the-quarry-horror-game-preview-cast-characters-impressions-release-date)<!-- GAME:END -->
+ - [Official Kirby Café Invites You To Eat ‘Waddle Dee’s Fried Balls’](https://kotaku.com/kirby-cafe-nintendo-waddle-dee-japan-restaurant-fried-b-1848978683)
+ - [Windows 11 will soon let you restore apps to a new PC](https://www.pcgamer.com/windows-11-will-soon-let-you-restore-apps-to-a-new-pc)
+ - [Critical Role’s newest DM changes the game](https://www.polygon.com/23139785/critical-role-exandria-unlimited-calamity-brennan-lee-mulligan-interview-dm-dimension-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
