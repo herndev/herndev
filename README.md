@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Deck hits 3,000 verified or playable games](https://www.pcgamer.com/steam-deck-hits-3000-verified-or-playable-games)
  - [Sony expects to earn $300 million from PC games in the next 12 months](https://www.pcgamer.com/sony-expects-to-earn-dollar300-million-from-pc-games-in-the-next-12-months)
- - [Game Pirates Trolled With Controller Errors And Endless Rain](https://kotaku.com/game-piracy-pirates-big-ant-cricket-cheat-video-games-a-1848979192)
- - [Old World Is The Best New 4X Game In Years](https://kotaku.com/old-world-4x-strategy-game-pc-mohawk-kotaku-impressions-1848973368)<!-- GAME:END -->
+ - [Game Pirates Trolled With Controller Errors And Endless Rain](https://kotaku.com/game-piracy-pirates-big-ant-cricket-cheat-video-games-a-1848979192)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
