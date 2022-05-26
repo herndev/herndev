@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Read the opening pages of Dragons of Deceit, the first new Dragonlance novel in more than a decade](https://www.polygon.com/23137990/dragonlance-dragons-of-deceit-book-excerpt-weis-hickman-interview)
- - [Xbox Boss Says He Will Recognize Raven Software&#39;s Union After Acquisition Closes](https://kotaku.com/xbox-phil-spencer-raven-qa-union-activision-blizzard-1848982555)
- - [The best battle royale games](https://www.pcgamer.com/battle-royale-games)<!-- GAME:END -->
+ - [Alex Garland says the ending of Men is whatever you make of it](https://www.polygon.com/23141857/ending-of-men-alex-garland-interview-cut-scene)
+ - [Halo Infinite Fixes A Bunch Of Dumb Mistakes From The Last Update](https://kotaku.com/halo-infinite-season-two-update-battle-rifle-skill-jump-1848983046)
+ - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
