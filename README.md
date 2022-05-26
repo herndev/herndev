@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti&#39;s EB3A 268Wh Solar Generator offers portable power ideal for camping](https://appleinsider.com/articles/22/05/26/bluettis-eb3a-268wh-solar-generator-offers-portable-power-ideal-for-camping?utm_medium=rss)
- - [Oura partners with Gucci on the Gucci x Oura Ring wearable, letting users monitor heart rate, sleep, and more, available at select stores for $1,100 &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220526/p18#a220526p18)
- - [Samsung’s bundles are great incentives for buyers — so why isn’t Apple doing it?](https://www.androidauthority.com/samsung-bundles-why-isnt-apple-3166906/)<!-- TECH:END -->
+ - [The best new streaming movies this week on HBO Max, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [How to use Apple Pay](https://www.theverge.com/23141574/apple-pay-iphone-ipad-mac-apple-watch-how-to)
+ - [Broadcom announces plan to buy VMWare in $61B deal](https://appleinsider.com/articles/22/05/26/broadcom-announces-plan-to-buy-vmware-in-61b-deal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
