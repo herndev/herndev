@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s CMA opens an investigation into whether Google illegally favored its own ad tech exchange services and excluded rivals &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/220526/p11#a220526p11)
- - [‘How Are They Weapons? That’s Only a Flashlight!’](https://www.wired.com/story/hong-kong-protests-things-they-carried)
- - [Q&amp;A with Epic CEO Tim Sweeney on creating the metaverse, growing the Unreal Engine, Apple and Google&#39;s app store policies, Meta&#39;s metaverse plans, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220526/p10#a220526p10)<!-- TECH:END -->
+ - [Broadcom announces plans to acquire VMware for around $61B in cash and stock and will assume VMware&#39;s $8B in net debt &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/220526/p13#a220526p13)
+ - [Apple raises retail hourly starting salary to $22 amid labor challenges](https://www.theverge.com/2022/5/26/23142607/apple-minimum-wage-increase-retail-unionization-tight-labor-market-inflation)
+ - [Apple TV+ may get new NFL Plus service together with Sunday Ticket](https://appleinsider.com/articles/22/05/26/apple-tv-may-get-new-nfl-plus-service-together-with-sunday-ticket?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
