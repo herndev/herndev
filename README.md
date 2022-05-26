@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Objection, Emotional Demage!!](http://9gag.com/gag/aDDPLnB)
- - ⏩ [#Bruno, this angel sacrificed his life protecting his owners from a robbery in Ecuador. Type of news that make real men cry.](http://9gag.com/gag/ajgd3eq)
- - 👉 [Really](http://9gag.com/gag/a91Veqm)<!-- MEMES:END -->
+ - 💣 [Nice trick](http://9gag.com/gag/abgdL5L)
+ - ⏩ [Objection, Emotional Demage!!](http://9gag.com/gag/aDDPLnB)
+ - 👉 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)<!-- MEMES:END -->
 
 ---
 
