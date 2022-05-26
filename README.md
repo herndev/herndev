@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squirtle, use water gun!](http://9gag.com/gag/aRryGBA)
- - ⏩ [Burned](http://9gag.com/gag/apgdXxn)
- - 👉 [Putler met with wounded `soldiers`. Damn, he even need actors to play soldiers](http://9gag.com/gag/aqGdO3P)<!-- MEMES:END -->
+ - 💣 [Belarusian cops beating illegal immigrants they tried to force push into Poland. &lpar;25.05.22&rpar;](http://9gag.com/gag/aKmLZwO)
+ - ⏩ [Really](http://9gag.com/gag/a91Veqm)
+ - 👉 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)<!-- MEMES:END -->
 
 ---
 
