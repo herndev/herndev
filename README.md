@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to delete photos from Google Photos](https://www.androidauthority.com/delete-photos-google-photos-3096922/)
- - [Boeing’s Starliner spacecraft returns to Earth, wrapping up critical test mission](https://www.theverge.com/2022/5/25/23138395/boeing-cst-100-starliner-nasa-undocking-landing-oft-2)
- - [How to find your current location on Google Maps](https://www.androidauthority.com/current-location-google-maps-3100375/)<!-- TECH:END -->
+ - [Apple’s self-repair process is reportedly ‘far from ideal’ for many iPhone users](https://www.androidauthority.com/apple-self-repair-toolkit-3168919/)
+ - [DeFi-focused startup Common raises $20M from Spark Capital, Polychain, Jump, and others for Commonwealth, its community management platform for DAOs &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/220525/p34#a220525p34)
+ - [Zip, whose SaaS product allows businesses to simplify the internal procurement process, raises a $43M Series B led by YC Continuity at a $1.2B valuation &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220525/p33#a220525p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
