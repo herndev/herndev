@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony wants around half its games to be on PC and mobile by 2025](https://www.theverge.com/2022/5/26/23142569/sony-playstation-pc-mobile-game-releases-first-party-portfolio)
- - [UK-based Bloom, which uses AI to offer e-commerce startups revenue-based loans, raises a &amp;pound;300M Series A led by Credo Capital and Fortress Investment Group &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220526/p6#a220526p6)
- - [We asked, you told us: Most of you are open to buying an older phone](https://www.androidauthority.com/buy-older-phone-poll-results-3169474/)<!-- TECH:END -->
+ - [The UK&#39;s CMA opens an investigation into whether Google illegally favored its own ad tech exchange services and excluded rivals &lpar;Jonathan Browning/Bloomberg&rpar;](http://www.techmeme.com/220526/p11#a220526p11)
+ - [‘How Are They Weapons? That’s Only a Flashlight!’](https://www.wired.com/story/hong-kong-protests-things-they-carried)
+ - [Q&amp;A with Epic CEO Tim Sweeney on creating the metaverse, growing the Unreal Engine, Apple and Google&#39;s app store policies, Meta&#39;s metaverse plans, and more &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220526/p10#a220526p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
