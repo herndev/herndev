@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dutch news today. We still have more bycicles per 100 people than guns in US per 100 people!](http://9gag.com/gag/a81nX11)
- - ⏩ [Well this was damn satisfying &lpar;0:30&rpar;](http://9gag.com/gag/a71GP1b)
+ - 💣 [Nice design](http://9gag.com/gag/aDDPqPO)
+ - ⏩ [Noice!](http://9gag.com/gag/aLvbORV)
  - 👉 [Someone please call the fire department!](http://9gag.com/gag/axBAQzp)<!-- MEMES:END -->
 
 ---
