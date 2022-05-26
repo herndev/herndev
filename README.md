@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broadcom announces plans to acquire VMware for around $61B in cash and stock and will assume VMware&#39;s $8B in net debt &lpar;Chavi Mehta/Reuters&rpar;](http://www.techmeme.com/220526/p13#a220526p13)
- - [Apple raises retail hourly starting salary to $22 amid labor challenges](https://www.theverge.com/2022/5/26/23142607/apple-minimum-wage-increase-retail-unionization-tight-labor-market-inflation)
- - [Apple TV+ may get new NFL Plus service together with Sunday Ticket](https://appleinsider.com/articles/22/05/26/apple-tv-may-get-new-nfl-plus-service-together-with-sunday-ticket?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s iPhone emergency SOS saves woman from attempted rape](https://appleinsider.com/articles/22/05/25/apples-iphone-emergency-sos-saves-woman-from-attempted-rape?utm_medium=rss)
+ - [Assembled, a workforce management service for customer support teams, raises a $51M Series B led by New Enterprise Associates, taking its total funding to $71M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220526/p17#a220526p17)
+ - [A profile of Stripe&#39;s John and Patrick Collison; sources say the startup&#39;s gross revenue rose 60% YoY to nearly $12B in 2021 as net revenue reached almost $2.5B &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220526/p16#a220526p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
