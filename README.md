@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
- - [Fleet management software provider Motive, formerly called KeepTruckin, raises a $150M Series F led by Insight and Kleiner Perkins at a $2.85B valuation &lpar;Noi Mahoney/FreightWaves&rpar;](http://www.techmeme.com/220526/p21#a220526p21)
- - [Scientists grow cells on a robot skeleton &lpar;but don’t know what to do with them yet&rpar;](https://www.theverge.com/2022/5/26/23142769/tissue-engineering-growing-cells-mobile-robot-skeleton)<!-- TECH:END -->
+ - [The HP Envy x360 2-in-1 is on sale for its lowest price ever at HP](https://www.theverge.com/good-deals/2022/5/26/23142219/hp-envy-x360-2-in-1-laptop-lg-gram-samsung-galaxy-book-acer-swift-deal-sale)
+ - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
+ - [Microsoft will slow hiring in Windows, Office, and Teams groups, citing a need to realign staffing priorities; all new hires must be approved by EVP Rajesh Jha &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220526/p24#a220526p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
