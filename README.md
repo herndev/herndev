@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Rip Ray Liotta](http://9gag.com/gag/aBnveRZ)
- - ⏩ [Legend](http://9gag.com/gag/avADweE)
- - 👉 [Be cool](http://9gag.com/gag/aVxd5Pd)<!-- MEMES:END -->
+ - ⏩ [Be the change, right?](http://9gag.com/gag/a0ZxqWZ)
+ - 👉 [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)<!-- MEMES:END -->
 
 ---
 
