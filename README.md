@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official Kirby Café Invites You To Eat ‘Waddle Dee’s Fried Balls’](https://kotaku.com/kirby-cafe-nintendo-waddle-dee-japan-restaurant-fried-b-1848978683)
- - [Windows 11 will soon let you restore apps to a new PC](https://www.pcgamer.com/windows-11-will-soon-let-you-restore-apps-to-a-new-pc)
- - [Critical Role’s newest DM changes the game](https://www.polygon.com/23139785/critical-role-exandria-unlimited-calamity-brennan-lee-mulligan-interview-dm-dimension-20)<!-- GAME:END -->
+ - [The Stranger Things cast explains the movies that helped shape season 4](https://www.polygon.com/23102919/stranger-things-4-movie-influences-indiana-jones-nightmare-on-elm-street)
+ - [A Horizon Zero Dawn TV series is on the way from Sony and Netflix](https://www.polygon.com/23141668/horizon-zero-dawn-tv-series-netflix-sony)
+ - [Hype around the launch of its new GeForce graphics cards is going to cost Nvidia](https://www.pcgamer.com/hype-around-the-launch-of-its-new-geforce-graphics-cards-is-going-to-cost-nvidia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
