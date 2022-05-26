@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After a 2 year delay, Ubisoft&#39;s free-to-play Roller Champions is painfully bland](https://www.pcgamer.com/after-a-2-year-delay-ubisofts-free-to-play-roller-champions-is-painfully-bland)
  - [All Three Bioshock Games Are Currently Free On PC](https://kotaku.com/bioshock-2-infinite-trilogy-free-pc-epic-store-fps-2k-1848984067)
- - [Glen Schofield&#39;s new horror game The Callisto Protocol is now not set in the PUBG universe, for some reason](https://www.pcgamer.com/glen-schofields-new-horror-game-the-callisto-protocol-is-now-not-set-in-the-pubg-universe-for-some-reason)
- - [Dead Space spiritual successor The Callisto Protocol severs its connection to PUBG](https://www.polygon.com/23143542/the-callisto-protocol-pubg-universe-glen-schofield)<!-- GAME:END -->
+ - [Glen Schofield&#39;s new horror game The Callisto Protocol is now not set in the PUBG universe, for some reason](https://www.pcgamer.com/glen-schofields-new-horror-game-the-callisto-protocol-is-now-not-set-in-the-pubg-universe-for-some-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
