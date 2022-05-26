@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unexplored 2 review](https://www.pcgamer.com/unexplored-2-review)
- - [A closer look at the chaotic, compelling gameplay of SpiderHeck](https://blog.playstation.com/2022/05/26/a-closer-look-at-the-chaotic-compelling-gameplay-of-spiderheck/)
- - [A closer look at the chaotic, compelling gameplay of SpiderHeck](https://blog.playstation.com/2022/05/26/a-closer-look-at-the-chaotic-compelling-gameplay-of-spiderheck/)<!-- GAME:END -->
+ - [Now is the perfect time to start playing Genshin Impact](https://www.polygon.com/23141211/genshin-impact-hoyoverse-new-players)
+ - [Returnal PC release hinted by uncovered listing](https://www.polygon.com/23139495/returnal-pc-release-hint-sony-steam)
+ - [Posting the entirety of Morbius online is the best new Morbius joke](https://www.polygon.com/23142815/morbius-streaming-twitch-twitter-discord-tumblr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
