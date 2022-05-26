@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Belarusian cops beating illegal immigrants they tried to force push into Poland. &lpar;25.05.22&rpar;](http://9gag.com/gag/aKmLZwO)
- - ⏩ [Really](http://9gag.com/gag/a91Veqm)
- - 👉 [Human-like precision of surgical robot](http://9gag.com/gag/a0ZxGKQ)<!-- MEMES:END -->
+ - 💣 [Hol up little one...](http://9gag.com/gag/ajgdvPg)
+ - ⏩ [Lawyer had the audacity to get offended when she was asked the same question](http://9gag.com/gag/angdZEV)
+ - 👉 [The Art of War](http://9gag.com/gag/aRryW3G)<!-- MEMES:END -->
 
 ---
 
