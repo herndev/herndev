@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5000 rubles for each leg](http://9gag.com/gag/a71GXdL)
- - ⏩ [Hol up little one...](http://9gag.com/gag/ajgdvPg)
- - 👉 [Huston we have a problem](http://9gag.com/gag/aggd9gg)<!-- MEMES:END -->
+ - 💣 [Huston we have a problem](http://9gag.com/gag/aggd9gg)
+ - ⏩ [Wonder who.](http://9gag.com/gag/aegdzO5)
+ - 👉 [Legend](http://9gag.com/gag/avADweE)<!-- MEMES:END -->
 
 ---
 
