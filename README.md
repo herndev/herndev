@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK-based Bloom, which uses AI to offer e-commerce startups revenue-based loans, raises a &amp;pound;300M Series A led by Credo Capital and Fortress Investment Group &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220526/p6#a220526p6)
  - [We asked, you told us: Most of you are open to buying an older phone](https://www.androidauthority.com/buy-older-phone-poll-results-3169474/)
- - [Does the Xiaomi Mi Band 7 have GPS?](https://www.androidauthority.com/xiaomi-mi-band-7-gps-3168958/)
- - [Sony says it plans to ramp up PlayStation 5 production and signals a radical broadening of its game portfolio, including more titles on PC and mobile &lpar;Sam Nussey/Reuters&rpar;](http://www.techmeme.com/220526/p5#a220526p5)<!-- TECH:END -->
+ - [Does the Xiaomi Mi Band 7 have GPS?](https://www.androidauthority.com/xiaomi-mi-band-7-gps-3168958/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
