@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Parallel Learning, a telehealth service focused on students with learning challenges, raises a $20M Series A led by Tiger Global &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220526/p34#a220526p34)
- - [Instagram is having some problems today](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
- - [Star Wars: The High Republic Reveals Phase 2 Adventures     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-high-republic-reveals-upcoming-adventures/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poland-based Nomagic, which makes pick-and-place warehouse robots, raises a $22M Series A led by Khosla Ventures, Almaz Capital, and European Investment Bank &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220526/p36#a220526p36)
+ - [Instagram was having problems, but it should be fixed now](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
+ - [Young gunmen are using private and disappearing messages in apps like Snapchat, Instagram, Discord, and Yubo to share violent plans, evading content moderation &lpar;Washington Post&rpar;](http://www.techmeme.com/220526/p35#a220526p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
