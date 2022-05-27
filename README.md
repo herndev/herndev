@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Federal regulators crack down after pipeline caught spewing CO2](https://www.theverge.com/2022/5/27/23144270/federal-regulators-phmsa-carbon-dioxide-pipeline-rupture-satartia-mississippi)
- - [Barnes &amp; Noble introduces a cheap e-reader to compete with the Kindle](https://www.theverge.com/2022/5/27/23144365/barnes-and-noble-nook-glowlight-4e-e-reader-kindle)
- - [Bose’s noise-canceling QuietComfort 45 headphones are $50 off today](https://www.theverge.com/good-deals/2022/5/27/23142897/bose-quietcomfort-45-amazfit-bip-s-lenovo-thinkpad-c13-yoga-sony-ps5-dualsense-controller-deal-sale)<!-- TECH:END -->
+ - [The best early Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
+ - [How to change Alexa’s wake word](https://www.theverge.com/23144484/change-alexa-echo-wake-word-name-how-to)
+ - [SEC questions Elon Musk over late Twitter disclosure](https://www.theverge.com/2022/5/27/23144536/sec-elon-musk-twitter-disclosure-inquiry)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
