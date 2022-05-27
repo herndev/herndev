@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That guy is the worst](http://9gag.com/gag/aggdDqx)
- - ⏩ [And you](http://9gag.com/gag/a31xOp5)
- - 👉 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)<!-- MEMES:END -->
+ - 💣 [Hmm\ud83e\udd14](http://9gag.com/gag/angdPpV)
+ - ⏩ [Making washi paper by hand](http://9gag.com/gag/aM4WoLW)
+ - 👉 [What about the walruses?](http://9gag.com/gag/a11xyyb)<!-- MEMES:END -->
 
 ---
 
