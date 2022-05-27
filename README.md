@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Obi-Wan Kenobi&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-release-schedule-when-is-episode-1-released-on-disney-plus/#ftag=CAD590a51e)
  - [Poland-based Nomagic, which makes pick-and-place warehouse robots, raises a $22M Series A led by Khosla Ventures, Almaz Capital, and European Investment Bank &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220526/p36#a220526p36)
- - [Instagram was having problems, but it should be fixed now](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
- - [Young gunmen are using private and disappearing messages in apps like Snapchat, Instagram, Discord, and Yubo to share violent plans, evading content moderation &lpar;Washington Post&rpar;](http://www.techmeme.com/220526/p35#a220526p35)<!-- TECH:END -->
+ - [See How Much the &#39;Stranger Things&#39; Kids Have Grown Up     - CNET](https://www.cnet.com/culture/entertainment/see-how-much-the-stranger-things-kids-have-grown-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
