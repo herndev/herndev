@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back in the days...](http://9gag.com/gag/a51x8Rg)
- - ⏩ [Man of culture](http://9gag.com/gag/a0ZxB6n)
- - 👉 [My Money\u2026](http://9gag.com/gag/aRryYmA)<!-- MEMES:END -->
+ - 💣 [My Money\u2026](http://9gag.com/gag/aRryYmA)
+ - ⏩ [This guy can do double back flip](http://9gag.com/gag/a61xAWL)
+ - 👉 [Wife and oldest daughter are away for the weekend so I gonna enjoy a good steak with some beers and maybe a cigar tonight! Hope your days are going well.](http://9gag.com/gag/aM4W3pM)<!-- MEMES:END -->
 
 ---
 
