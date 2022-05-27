@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [See ya around Tommy... Thanks for the purple-hued, 80s-styled memories &lpar;Ray Liotta, 1954 - 2022&rpar;](http://9gag.com/gag/aWgd5Vn)
- - ⏩ [Fun Fact - People swallow an average of 8 lemons per year while they sleep.](http://9gag.com/gag/aE8Q4WM)
- - 👉 [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)<!-- MEMES:END -->
+ - 💣 [Finally cyberpunk 2077. Would you like to ?](http://9gag.com/gag/angdP3E)
+ - ⏩ [Soldier vs Shaolin Monk](http://9gag.com/gag/awz8pXQ)
+ - 👉 [Rest in peace, Ray Liotta](http://9gag.com/gag/a11xj4G)<!-- MEMES:END -->
 
 ---
 
