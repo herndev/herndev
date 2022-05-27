@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Manta, which offers a date lineage service for companies to understand and visualize the flow of information, raises a $35M Series B led by Forestay Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220527/p7#a220527p7)
- - [Sony’s next State of Play will offer a sneak peek at PSVR2’s games](https://www.theverge.com/2022/5/27/23144332/sony-state-of-play-ps5-psvr2-games-announcements)
- - [‘How Are They Weapons? That’s Only a Flashlight!’](https://www.wired.com/story/hong-kong-protests-things-they-carried)<!-- TECH:END -->
+ - [Federal regulators crack down after pipeline caught spewing CO2](https://www.theverge.com/2022/5/27/23144270/federal-regulators-phmsa-carbon-dioxide-pipeline-rupture-satartia-mississippi)
+ - [Barnes &amp; Noble introduces a cheap e-reader to compete with the Kindle](https://www.theverge.com/2022/5/27/23144365/barnes-and-noble-nook-glowlight-4e-e-reader-kindle)
+ - [Bose’s noise-canceling QuietComfort 45 headphones are $50 off today](https://www.theverge.com/good-deals/2022/5/27/23142897/bose-quietcomfort-45-amazfit-bip-s-lenovo-thinkpad-c13-yoga-sony-ps5-dualsense-controller-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
