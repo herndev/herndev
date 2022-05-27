@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quanta MacBook factory workers riot over conditions for second time](https://appleinsider.com/articles/22/05/27/quanta-macbook-factory-workers-riot-over-conditions-for-second-time?utm_medium=rss)
- - [People from countries like Argentina, Venezuela, and Nigeria invested in Terra as they saw it as more stable than local currency, but lost thousands in savings &lpar;Rest of World&rpar;](http://www.techmeme.com/220527/p4#a220527p4)
- - [How the iPad is used by AppleInsider staff and why it remains important](https://appleinsider.com/articles/22/05/27/how-the-ipad-is-used-by-appleinsider-staff-and-why-it-remains-important?utm_medium=rss)<!-- TECH:END -->
+ - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)
+ - [Obi-Wan Kenobi recap: What happened in episodes 1 and 2?](https://www.androidauthority.com/obi-wan-kenobi-recap-episode-1-and-2-disney-plus-3169782/)
+ - [Facial recognition service PimEyes draws scrutiny for charging high fees to help remove users&#39; photos from sites and allowing searches for other people&#39;s faces &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220527/p5#a220527p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
