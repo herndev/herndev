@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you say you didn&#39;t do this as a kid, you&#39;re lying](http://9gag.com/gag/aDDPpPd)
- - ⏩ [I present to you .. Father of year!](http://9gag.com/gag/aVxdNYd)
- - 👉 [Stop it](http://9gag.com/gag/aqGdqdj)<!-- MEMES:END -->
+ - 💣 [This guy can do double back flip](http://9gag.com/gag/a61xAWL)
+ - ⏩ [Life](http://9gag.com/gag/aYrdzYN)
+ - 👉 [Wife and oldest daughter are away for the weekend so I gonna enjoy a good steak with some beers and maybe a cigar tonight! Hope your days are going well.](http://9gag.com/gag/aM4W3pM)<!-- MEMES:END -->
 
 ---
 
