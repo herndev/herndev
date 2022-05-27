@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Fallen Order Sequel Coming Next Year](https://kotaku.com/star-wars-jedi-fallen-order-survivor-respawn-lucasfilm-1848988649)
- - [3D Platformer Kao the Kangaroo Jumps onto Xbox This Summer!](https://news.xbox.com/en-us/2022/05/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer-2/)
- - [Ace Combat 7 takes the Hiiiiighway to the Danger Zone](https://www.pcgamer.com/ace-combat-7-takes-the-hiiiiighway-to-the-danger-zone)<!-- GAME:END -->
+ - [Sonic 2, Ambulance, and more new movies you can watch at home this weekend](https://www.polygon.com/23137087/new-movies-watch-sonic-2-netflix-godspeed-ambulance)
+ - [The best thing about Obi-Wan Kenobi is a frustratingly enormous spoiler](https://www.polygon.com/star-wars/23144294/obi-wan-kenobi-premiere-review-ewan-mcgregor-vivien-lyra-blair)
+ - [Does Stranger Things season 4 part 1 have a post-credits scene?](https://www.polygon.com/23145006/stranger-things-season-4-post-credits-scene)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
