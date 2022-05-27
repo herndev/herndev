@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)
- - [Obi-Wan Kenobi recap: What happened in episodes 1 and 2?](https://www.androidauthority.com/obi-wan-kenobi-recap-episode-1-and-2-disney-plus-3169782/)
- - [Facial recognition service PimEyes draws scrutiny for charging high fees to help remove users&#39; photos from sites and allowing searches for other people&#39;s faces &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220527/p5#a220527p5)<!-- TECH:END -->
+ - [The Dune crypto collective is facing a reckoning](https://www.theverge.com/2022/5/27/23141188/dune-crypto-collective-spice-dao-nft-tv-series-charlotte-fang-remilia-controversy)
+ - [What to do if your iPhone is stolen](https://appleinsider.com/inside/iphone/tips/what-to-do-if-your-iphone-is-stolen?utm_medium=rss)
+ - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
