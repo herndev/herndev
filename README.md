@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jadu, which is developing an AR game built around virtual objects owned by players in a metaverse, raises $36M led by Bain Capital Crypto &lpar;Agne Cimermanaite/Metaverse Post&rpar;](http://www.techmeme.com/220527/p3#a220527p3)
- - [Valve responds to TF2 bot issue, says it’s ‘working to improve things’](https://www.theverge.com/2022/5/27/23144061/valve-team-fortress-2-bot-problem-savetf2-spam)
- - [Poll: Which quality setting do you use for Google Photos backups?](https://www.androidauthority.com/quality-setting-google-photos-backups-poll-3167208/)<!-- TECH:END -->
+ - [Wouldn’t life be more fun if charging bricks looked like tiny Macintosh computers?](https://www.theverge.com/2022/5/27/23144112/retro-35-apple-macintosh-charging-brick-indiegogo)
+ - [Gucci built a persistent town inside of Roblox](https://www.theverge.com/2022/5/27/23143404/gucci-town-roblox)
+ - [Jadu, which is developing an AR game built around virtual objects owned by players in a metaverse, raises $36M led by Bain Capital Crypto &lpar;Agne Cimermanaite/Metaverse Post&rpar;](http://www.techmeme.com/220527/p3#a220527p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
