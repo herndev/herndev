@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trio mandilli from the Kakheti village of Georgia of Caucasus](http://9gag.com/gag/a11x9QP)
- - ⏩ [American volunteers in Ukraine striking a Russian BTR.](http://9gag.com/gag/aM4WgG1)
- - 👉 [Semi Manual?](http://9gag.com/gag/arndYNX)<!-- MEMES:END -->
+ - 💣 [Sounds legit.](http://9gag.com/gag/awz8wWB)
+ - ⏩ [Confused screaming](http://9gag.com/gag/aqGd0xj)
+ - 👉 [Way to go Mike](http://9gag.com/gag/aqGdPoM)<!-- MEMES:END -->
 
 ---
 
