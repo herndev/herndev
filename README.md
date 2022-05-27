@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Girlfriend wanted to sell her Broken Phone on Ebay...](http://9gag.com/gag/axBA5r1)
- - ⏩ [And I drove 3 hours for this\u2026 thanks for having me](http://9gag.com/gag/ay9zOnq)
- - 👉 [But how ?!](http://9gag.com/gag/aOQjwnR)<!-- MEMES:END -->
+ - ⏩ [But how ?!](http://9gag.com/gag/aOQjwnR)
+ - 👉 [Confused screaming](http://9gag.com/gag/aqGd0xj)<!-- MEMES:END -->
 
 ---
 
