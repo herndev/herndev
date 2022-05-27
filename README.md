@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mario Strikers: Battle League gives Mario’s soccer series a powerful jolt of personality](https://www.polygon.com/23143401/mario-strikers-battle-league-nintendo-switch-preview)
- - [How Team Fortress 2&#39;s silly videos sparked a whole new era of shooters](https://www.pcgamer.com/how-team-fortress-2s-silly-videos-sparked-a-whole-new-era-of-shooters)
- - [The real history behind Stranger Things 4’s Satanic Panic plot](https://www.polygon.com/23131731/stranger-things-4-satanic-panic-dnd-history)<!-- GAME:END -->
+ - [State of Play next Thursday, brings new game reveals, sneak peeks, and updates](https://blog.playstation.com/2022/05/27/state-of-play-next-thursday-brings-new-game-reveals-sneak-peeks-and-updates/)
+ - [State of Play next Thursday, brings new game reveals, sneak peeks, and updates](https://blog.playstation.com/2022/05/27/state-of-play-next-thursday-brings-new-game-reveals-sneak-peeks-and-updates/)
+ - [Have your say in Future Publishing&#39;s  UX design survey](https://www.pcgamer.com/have-your-say-in-future-publishings-ux-design-survey)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
