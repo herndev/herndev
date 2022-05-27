@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic 2, Ambulance, and more new movies you can watch at home this weekend](https://www.polygon.com/23137087/new-movies-watch-sonic-2-netflix-godspeed-ambulance)
- - [The best thing about Obi-Wan Kenobi is a frustratingly enormous spoiler](https://www.polygon.com/star-wars/23144294/obi-wan-kenobi-premiere-review-ewan-mcgregor-vivien-lyra-blair)
- - [Does Stranger Things season 4 part 1 have a post-credits scene?](https://www.polygon.com/23145006/stranger-things-season-4-post-credits-scene)<!-- GAME:END -->
+ - [The most infamous MMO players of all time](https://www.pcgamer.com/the-most-infamous-mmo-players-of-all-time)
+ - [This Week on Xbox: Upcoming Games, Free Updates, and New Releases](https://news.xbox.com/en-us/2022/05/27/this-week-on-xbox-upcoming-games-free-updates-and-new-releases/)
+ - [Watch Tokyo come alive with this real-time map of its transit system](https://www.pcgamer.com/watch-tokyo-come-alive-with-this-real-time-map-of-its-transit-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
