@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost too accurate](http://9gag.com/gag/aBnvAnN)
- - ⏩ [The long awaited day arrived](http://9gag.com/gag/aNPqbL0)
- - 👉 [Guess the nationality](http://9gag.com/gag/a41x0wy)<!-- MEMES:END -->
+ - 💣 [Guess the nationality](http://9gag.com/gag/a41x0wy)
+ - ⏩ [It\u2019s not walking, it\u2019s waddling](http://9gag.com/gag/aOQjLPv)
+ - 👉 [Almost too accurate](http://9gag.com/gag/aBnvAnN)<!-- MEMES:END -->
 
 ---
 
