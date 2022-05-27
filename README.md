@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Girlfriend wanted to sell her Broken Phone on Ebay...](http://9gag.com/gag/axBA5r1)
+ - 💣 [My Money\u2026](http://9gag.com/gag/aRryYmA)
  - ⏩ [But how ?!](http://9gag.com/gag/aOQjwnR)
  - 👉 [Confused screaming](http://9gag.com/gag/aqGd0xj)<!-- MEMES:END -->
 
