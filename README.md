@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart plans to slow hiring as it prepares for its IPO, after hiring over 1,500 staff in 2021; Instacart cut its valuation by 40% to $24B in March 2022 &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220526/p32#a220526p32)
- - [It’s hard to believe Google Drive’s just now getting copy / paste shortcuts](https://www.theverge.com/2022/5/26/23143568/google-drive-cut-copy-paste-keyboard-shortcuts)
- - [&#39;Stranger Things&#39; Season 4: Everything to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-everything-to-remember-before-watching/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New York-based Parallel Learning, a telehealth service focused on students with learning challenges, raises a $20M Series A led by Tiger Global &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220526/p34#a220526p34)
+ - [Instagram is having some problems today](https://www.theverge.com/2022/5/26/23143103/instagram-down-outage-not-loading-logout)
+ - [Star Wars: The High Republic Reveals Phase 2 Adventures     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-high-republic-reveals-upcoming-adventures/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
