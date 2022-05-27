@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dream Daddy Developers Are Making A Psychological Horror Game](https://kotaku.com/dream-daddy-homebody-game-grumps-horror-game-rogue-comp-1848986694)
- - [How to get to the Divine Tower of Caelid in Elden Ring](https://www.pcgamer.com/elden-ring-caelid-divine-tower)
- - [This New Portable Gaming Console Is Hands-Down The Best Way To Play Emulated Games](https://kotaku.com/odin-pro-base-lite-ayn-emulation-gaming-steam-deck-swit-1848986702)<!-- GAME:END -->
+ - [Why Everyone Spent The Week Losing It Over The ‘PS5 Pro’ And ‘Next Xbox’](https://kotaku.com/ps5-pro-xbox-series-xs-tcl-tv-next-gen-consoles-sony-mi-1848987002)
+ - [Moo Lander – the World’s First Mootroidvania, Drops on Xbox Today](https://news.xbox.com/en-us/2022/05/27/moo-lander-the-worlds-first-mootroidvania-drops-on-xbox-today/)
+ - [Steam Deck’s Latest Update Is Sure To Stir Debate](https://kotaku.com/steam-deck-os-update-3-2-valve-fan-noise-lifespan-1848986918)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
