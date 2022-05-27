@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Jedi: Survivor is the sequel to Fallen Order](https://www.theverge.com/2022/5/27/23141829/ea-jedi-survivor-fallen-order-2-teaser-trailer-star-wars-celebration)
- - [CWA withdraws its request for a union election next week for staff at an Atlanta Apple store, citing Apple&#39;s &quot;sophisticated campaign to intimidate&quot; and COVID-19 &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220527/p11#a220527p11)
- - [Meta rewrites privacy policy but says it won’t collect data in ‘new ways’](https://www.theverge.com/2022/5/27/23142949/meta-facebook-privacy-policy-terms-of-service-audience-control)<!-- TECH:END -->
+ - [Report: Samsung is preparing to cut smartphone production for 2022 and manufacture 280M devices, down from 310M as initially planned &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220527/p12#a220527p12)
+ - [Senators ask Apple, Google to stop collecting data that could identify abortion seekers](https://appleinsider.com/articles/22/05/27/senators-ask-apple-google-to-stop-collecting-data-that-could-identify-abortion-seekers?utm_medium=rss)
+ - [&#39;Top Gun: Maverick&#39; Review: Tom Cruise Sequel Is A Blast of Nostalgic Fun     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-tom-cruise-sequel-is-blast-nostalgic-fun/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
