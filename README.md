@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dune crypto collective is facing a reckoning](https://www.theverge.com/2022/5/27/23141188/dune-crypto-collective-spice-dao-nft-tv-series-charlotte-fang-remilia-controversy)
- - [What to do if your iPhone is stolen](https://appleinsider.com/inside/iphone/tips/what-to-do-if-your-iphone-is-stolen?utm_medium=rss)
- - [Chromebook 101: how to customize your Chromebook’s desktop](https://www.theverge.com/23143316/google-chromebook-customize-desktop-how-to)<!-- TECH:END -->
+ - [Manta, which offers a date lineage service for companies to understand and visualize the flow of information, raises a $35M Series B led by Forestay Capital &lpar;Paul Sawers/VentureBeat&rpar;](http://www.techmeme.com/220527/p7#a220527p7)
+ - [Sony’s next State of Play will offer a sneak peek at PSVR2’s games](https://www.theverge.com/2022/5/27/23144332/sony-state-of-play-ps5-psvr2-games-announcements)
+ - [‘How Are They Weapons? That’s Only a Flashlight!’](https://www.wired.com/story/hong-kong-protests-things-they-carried)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
