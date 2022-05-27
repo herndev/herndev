@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Android phone could soon get snore and cough detection abilities](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)
- - [Microsoft confirms it is developing an HDMI device codenamed Keystone, that connects to any TV or monitor, and offers Xbox game streaming &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/220527/p1#a220527p1)
- - [Star Wars Movies and TV Shows: The Full List of Release Dates     - CNET](https://www.cnet.com/culture/entertainment/star-wars-movies-and-tv-series-the-full-list-of-release-dates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: Only 15% of GPs at European VC firms are women, managing just 9% of total assets; in the UK, 13% of GPs are women with access to just 5% of total assets &lpar;Amy Lewin/Sifted&rpar;](http://www.techmeme.com/220527/p2#a220527p2)
+ - [Samsung Galaxy XCover 6 Pro is on the way, could be a huge power upgrade](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-3169955/)
+ - [Your Android phone could soon get snore and cough detection abilities](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
