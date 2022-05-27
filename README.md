@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Everyone Spent The Week Losing It Over The ‘PS5 Pro’ And ‘Next Xbox’](https://kotaku.com/ps5-pro-xbox-series-xs-tcl-tv-next-gen-consoles-sony-mi-1848987002)
- - [Moo Lander – the World’s First Mootroidvania, Drops on Xbox Today](https://news.xbox.com/en-us/2022/05/27/moo-lander-the-worlds-first-mootroidvania-drops-on-xbox-today/)
- - [Steam Deck’s Latest Update Is Sure To Stir Debate](https://kotaku.com/steam-deck-os-update-3-2-valve-fan-noise-lifespan-1848986918)<!-- GAME:END -->
+ - [The Bob’s Burgers Movie is a great first burger &lpar;or 200th&rpar;](https://www.polygon.com/23143242/bobs-burgers-movie-review)
+ - [Play Roller Champions For Free Now on Xbox](https://news.xbox.com/en-us/2022/05/27/play-roller-champions-for-free-now-on-xbox/)
+ - [Destiny 2 Xur location and items, May 27-31](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/27/23144677/destiny-2-xur-location-items-may-27-31)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
