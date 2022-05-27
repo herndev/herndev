@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wouldn’t life be more fun if charging bricks looked like tiny Macintosh computers?](https://www.theverge.com/2022/5/27/23144112/retro-35-apple-macintosh-charging-brick-indiegogo)
- - [Gucci built a persistent town inside of Roblox](https://www.theverge.com/2022/5/27/23143404/gucci-town-roblox)
- - [Jadu, which is developing an AR game built around virtual objects owned by players in a metaverse, raises $36M led by Bain Capital Crypto &lpar;Agne Cimermanaite/Metaverse Post&rpar;](http://www.techmeme.com/220527/p3#a220527p3)<!-- TECH:END -->
+ - [Daily Authority: 🎮 Xbox Keystone won’t happen](https://www.androidauthority.com/daily-authority-may-27-2022-3170118/)
+ - [The 25 Best Memorial Day Sales on Tech, Games, and Outdoor Gear](https://www.wired.com/story/best-memorial-day-sales-2022)
+ - [An Autonomous Car Blocked a Fire Truck Responding to an Emergency](https://www.wired.com/story/cruise-fire-truck-block-san-francisco-autonomous-vehicles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
