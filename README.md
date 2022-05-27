@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [State of Play next Thursday, brings new game reveals, sneak peeks, and updates](https://blog.playstation.com/2022/05/27/state-of-play-next-thursday-brings-new-game-reveals-sneak-peeks-and-updates/)
- - [State of Play next Thursday, brings new game reveals, sneak peeks, and updates](https://blog.playstation.com/2022/05/27/state-of-play-next-thursday-brings-new-game-reveals-sneak-peeks-and-updates/)
- - [Have your say in Future Publishing&#39;s  UX design survey](https://www.pcgamer.com/have-your-say-in-future-publishings-ux-design-survey)<!-- GAME:END -->
+ - [Nintendo Switch Online subscribers get a retro pinball game with Mario](https://www.polygon.com/23144314/nintendo-switch-online-new-games-mario-pinball-retro)
+ - [FromSoftware finally, officially confirms that Dark Souls servers are coming back](https://www.pcgamer.com/fromsoftware-finally-officially-confirms-that-dark-souls-servers-are-coming-back)
+ - [Celebrating Final Fantasy XI Online: A 20th anniversary retrospective with the game’s creators](https://blog.playstation.com/2022/05/27/celebrating-final-fantasy-xi-online-a-20th-anniversary-retrospective-with-the-games-creators/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
