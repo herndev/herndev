@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Bob’s Burgers Movie is a great first burger &lpar;or 200th&rpar;](https://www.polygon.com/23143242/bobs-burgers-movie-review)
- - [Play Roller Champions For Free Now on Xbox](https://news.xbox.com/en-us/2022/05/27/play-roller-champions-for-free-now-on-xbox/)
- - [Destiny 2 Xur location and items, May 27-31](https://www.polygon.com/destiny-2-guide-walkthrough/2022/5/27/23144677/destiny-2-xur-location-items-may-27-31)<!-- GAME:END -->
+ - [Cursed Mario Kart Clone Starring Peter Griffin Is Actually Pretty Good](https://kotaku.com/warped-kart-racers-mario-kart-cursed-family-guy-america-1848987777)
+ - [From Software’s Hidetaka Miyazaki on the Secrets of Elden Ring’s Development](https://news.xbox.com/en-us/2022/05/27/from-softwares-hidetaka-miyazaki-on-the-secrets-of-elden-rings-development/)
+ - [The Bob’s Burgers Movie is a great first burger &lpar;or 200th&rpar;](https://www.polygon.com/23143242/bobs-burgers-movie-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
