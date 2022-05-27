@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ace Combat 7 takes the Hiiiiighway to the Danger Zone](https://www.pcgamer.com/ace-combat-7-takes-the-hiiiiighway-to-the-danger-zone)
- - [No Man’s Sky: Expedition 7 – Leviathan is Available Now](https://news.xbox.com/en-us/2022/05/27/no-mans-sky-expedition-7-leviathan-is-available-now/)
- - [Guild Wars 2 players can&#39;t stop winning a group event they desperately want to lose](https://www.pcgamer.com/guild-wars-2-players-cant-stop-winning-a-group-event-they-desperately-want-to-lose)<!-- GAME:END -->
+ - [Star Wars Jedi: Fallen Order Sequel Coming Next Year](https://kotaku.com/star-wars-jedi-fallen-order-survivor-respawn-lucasfilm-1848988649)
+ - [3D Platformer Kao the Kangaroo Jumps onto Xbox This Summer!](https://news.xbox.com/en-us/2022/05/27/3d-platformer-kao-the-kangaroo-jumps-onto-xbox-this-summer-2/)
+ - [Ace Combat 7 takes the Hiiiiighway to the Danger Zone](https://www.pcgamer.com/ace-combat-7-takes-the-hiiiiighway-to-the-danger-zone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
