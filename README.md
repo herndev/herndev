@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
  - [Details from a Cyberpunk 2077 expansion may have leaked](https://www.pcgamer.com/details-from-a-cyberpunk-2077-expansion-may-have-leaked)
- - [The next Pathfinder RPG might actually be a Starfinder RPG](https://www.pcgamer.com/the-next-pathfinder-rpg-might-actually-be-a-starfinder-rpg)
- - [Apparently it&#39;s easy to mod the Quest 2 with prescription lenses](https://www.pcgamer.com/apparently-its-easy-to-mod-the-quest-2-with-prescription-lenses)<!-- GAME:END -->
+ - [The next Pathfinder RPG might actually be a Starfinder RPG](https://www.pcgamer.com/the-next-pathfinder-rpg-might-actually-be-a-starfinder-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
