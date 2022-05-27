@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve says it sees &#39;how large&#39; Team Fortress 2&#39;s bot problem is, and will actually do something](https://www.pcgamer.com/valve-says-it-sees-how-large-team-fortress-2s-bot-problem-is-and-will-actually-do-something)
- - [PC Gamer UK July issue: How you dune?](https://www.pcgamer.com/pc-gamer-uk-july-issue-how-you-dune)
- - [Today&#39;s Wordle answer #342: Friday, May 27](https://www.pcgamer.com/wordle-may-27-342)<!-- GAME:END -->
+ - [How Team Fortress 2&#39;s silly videos sparked a whole new era of shooters](https://www.pcgamer.com/how-team-fortress-2s-silly-videos-sparked-a-whole-new-era-of-shooters)
+ - [The real history behind Stranger Things 4’s Satanic Panic plot](https://www.polygon.com/23131731/stranger-things-4-satanic-panic-dnd-history)
+ - [Valve says it sees &#39;how large&#39; Team Fortress 2&#39;s bot problem is, and will actually do something](https://www.pcgamer.com/valve-says-it-sees-how-large-team-fortress-2s-bot-problem-is-and-will-actually-do-something)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
