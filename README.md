@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My Money\u2026](http://9gag.com/gag/aRryYmA)
+ - 💣 [Return to duck](http://9gag.com/gag/ajgdpNG)
  - ⏩ [But how ?!](http://9gag.com/gag/aOQjwnR)
- - 👉 [Confused screaming](http://9gag.com/gag/aqGd0xj)<!-- MEMES:END -->
+ - 👉 [7-Eleven employee refuses to discard edible food. Instead, sent an invitation to people that need it.](http://9gag.com/gag/aZrdew6)<!-- MEMES:END -->
 
 ---
 
