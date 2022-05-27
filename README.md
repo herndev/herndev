@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Samsung is preparing to cut smartphone production for 2022 and manufacture 280M devices, down from 310M as initially planned &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220527/p12#a220527p12)
- - [Senators ask Apple, Google to stop collecting data that could identify abortion seekers](https://appleinsider.com/articles/22/05/27/senators-ask-apple-google-to-stop-collecting-data-that-could-identify-abortion-seekers?utm_medium=rss)
- - [&#39;Top Gun: Maverick&#39; Review: Tom Cruise Sequel Is A Blast of Nostalgic Fun     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-tom-cruise-sequel-is-blast-nostalgic-fun/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Layoffs.ai data: 60+ tech companies had job cuts in May, with 16,000+ employees laid off; notable layoffs in the last month include Getir, Bolt, and Klarna &lpar;Michelle Ma/Protocol&rpar;](http://www.techmeme.com/220527/p13#a220527p13)
+ - [Atlanta Apple store workers say ‘intimidation’ has made a fair union vote impossible](https://www.theverge.com/2022/5/27/23145034/apple-atlanta-retail-store-union-election-canceled-intimidation)
+ - [&#39;Worst Song Ever&#39;: TikTok Reacts to the Ice Cream Song From &#39;Doctor Strange 2&#39;     - CNET](https://www.cnet.com/culture/entertainment/worst-song-ever-tiktok-reacts-to-the-ice-cream-song-from-doctor-strange/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
