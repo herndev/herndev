@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Obi-Wan Kenobi&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-release-schedule-when-is-episode-1-released-on-disney-plus/#ftag=CAD590a51e)
- - [Poland-based Nomagic, which makes pick-and-place warehouse robots, raises a $22M Series A led by Khosla Ventures, Almaz Capital, and European Investment Bank &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220526/p36#a220526p36)
- - [See How Much the &#39;Stranger Things&#39; Kids Have Grown Up     - CNET](https://www.cnet.com/culture/entertainment/see-how-much-the-stranger-things-kids-have-grown-up/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google could soon port over this helpful Nest Hub feature to Android phones](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)
+ - [Microsoft confirms it is developing an HDMI device codenamed Keystone, that connects to any TV or monitor, and offers Xbox game streaming &lpar;Jez Corden/Windows Central&rpar;](http://www.techmeme.com/220527/p1#a220527p1)
+ - [&#39;Obi-Wan Kenobi&#39; Release Schedule: When Does Episode 1 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-release-schedule-when-is-episode-1-released-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
