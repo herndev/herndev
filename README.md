@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia-based Bibit, which runs robo-advisor services for mutual funds and invests users&#39; money based on their risk profiles, raises $80M led by GIC &lpar;Budi Sutrisno/Tech in Asia&rpar;](http://www.techmeme.com/220527/p9#a220527p9)
- - [GameStop will have PS5 bundles in all stores on May 28](https://www.androidauthority.com/gamestop-ps5-bundle-3170277/)
- - [Apple&#39;s MacBook Pro 16-inch is back in stock for $2,299 &lpar;$200 off&rpar;, plus $80 off AppleCare](https://appleinsider.com/articles/22/05/25/apples-macbook-pro-16-inch-is-back-in-stock-for-2299-200-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Chromebooks will now tell you when you’re using the wrong USB-C cable](https://www.theverge.com/2022/5/27/23144411/google-chromebooks-wrong-usb-c-cable-cursive)
+ - [If the US government is good at anything, it&#39;s failing at technology](https://appleinsider.com/articles/22/05/27/if-the-us-government-is-good-at-anything-its-failing-at-technology?utm_medium=rss)
+ - [More Memorial Day Sales Going on Now: Ashley Furniture, Mattress Firm and More     - CNET](https://www.cnet.com/news/more-memorial-day-sales-going-on-now-ashley-furniture-mattress-firm-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
