@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [40K Kill Team: Moroch boxed set is a little light on new models, but the rules are fun](https://www.polygon.com/reviews/23142883/warhammer-40k-kill-team-moroch-review)
  - [Cal and BD-1 Return in Star Wars Jedi: Survivor](https://news.xbox.com/en-us/2022/05/27/cal-and-bd-1-return-in-star-wars-jedi-survivor/)
- - [The most infamous MMO players of all time](https://www.pcgamer.com/the-most-infamous-mmo-players-of-all-time)
- - [This Week on Xbox: Upcoming Games, Free Updates, and New Releases](https://news.xbox.com/en-us/2022/05/27/this-week-on-xbox-upcoming-games-free-updates-and-new-releases/)<!-- GAME:END -->
+ - [The most infamous MMO players of all time](https://www.pcgamer.com/the-most-infamous-mmo-players-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
