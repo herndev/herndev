@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Top Gun: Maverick&#39; Review: Tom Cruise Sequel Is More Fun Than You&#39;d Expect     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-tom-cruise-sequel-more-fun-than-youd-expect/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39; Review: Gripping Star Wars Series Is a Force To Be Reckoned With     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-review-gripping-star-wars-series-force-to-be-reckoned-with/#ftag=CAD590a51e)
- - [The new Ayn Loki handheld runs Windows and starts at $299](https://www.theverge.com/2022/5/28/23145658/ayn-loki-handheld-runs-windows-starts-299)<!-- TECH:END -->
+ - [Gamification has taken the fun out of exercise &amp; learning](https://www.androidauthority.com/gamification-exercise-learning-3164413/)
+ - [Twitter Circle is starting to roll out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)
+ - [The Best Sci-Fi TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-to-see-on-netflix-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
