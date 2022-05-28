@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Proctoring software like Honorlock that track students&#39; movements during online exams to prevent cheating are criticized for allegedly flagging normal behavior &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220528/p3#a220528p3)
  - [Argentina-based ClicOH, which lets sellers across Latin America track shipments in real time via its dashboard, raises a $25M Series A led by Tiger Global &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220528/p2#a220528p2)
- - [China&#39;s iQiyi, a streaming service majority-owned by Baidu and listed on the Nasdaq, reported its first quarterly profit, $26.7M in Q1, after cutting spending &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/220528/p1#a220528p1)
- - [Do Solar Panels Make Sense in the Midwest? What You Need to Know     - CNET](https://www.cnet.com/news/do-solar-panels-make-sense-in-the-midwest-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s iQiyi, a streaming service majority-owned by Baidu and listed on the Nasdaq, reported its first quarterly profit, $26.7M in Q1, after cutting spending &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/220528/p1#a220528p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
