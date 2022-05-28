@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Great Father&#39;s Day Gifts for Soon-to-Be Dads     - CNET](https://www.cnet.com/news/great-fathers-day-gifts-for-soon-to-be-dads/#ftag=CAD590a51e)
- - [Master Google Photos with these lesser-known features](https://www.androidauthority.com/underrated-google-photos-features-3169067/)
- - [Best Baby Food Delivery Services and Subscriptions for 2022     - CNET](https://www.cnet.com/health/parenting/best-baby-food-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Comcast received a patent for this smart speaker design, but will it ever be released?](https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-434-3170328/)
+ - [The latest iPad Air with M1 processor and expanded 256GB storage is $70 off](https://www.theverge.com/good-deals/2022/5/28/23144495/apple-ipad-air-2022-xbox-series-s-console-google-pixel-6-pro-lenovo-chromebook-duet-5-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
