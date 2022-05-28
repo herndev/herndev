@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)
- - ⏩ [Life](http://9gag.com/gag/aYrdzYN)
- - 👉 [Pretty much ya](http://9gag.com/gag/axBApXY)<!-- MEMES:END -->
+ - 💣 [So far so good.](http://9gag.com/gag/aqGp4n7)
+ - ⏩ [The same with dev?](http://9gag.com/gag/a613r2e)
+ - 👉 [Yoink](http://9gag.com/gag/aPZd61n)<!-- MEMES:END -->
 
 ---
 
