@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars: Knights of the Old Republic II is coming to Switch](https://www.theverge.com/2022/5/28/23145825/star-wars-knights-old-republic-ii-sith-lords-nintendo-switch-restored-content-dlc)
  - [Best Credit Cards With No Annual Fee for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-annual-fee-credit-cards/#ftag=CAD590a51e)
- - [Twitter Circle may be rolling out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)
- - [Interview with Ted Sarandos about Netflix&#39;s recent share price plunge, backing Dave Chappelle&#39;s latest comedy special, Hollywood schadenfreude, and more &lpar;Maureen Dowd/New York Times&rpar;](http://www.techmeme.com/220528/p7#a220528p7)<!-- TECH:END -->
+ - [Twitter Circle may be rolling out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
