@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo Isn’t as Private as You Think](https://www.wired.com/story/duckduckgo-microsoft-twitter-ft-bush-assassination-whatsapp)
- - [Finding a PlayStation 5 Is About to Get Easier](https://www.wired.com/story/finding-a-playstation-5-gets-easier)
- - [How to print from a Chromebook](https://www.theverge.com/23131478/chromebook-printer-cloud-google-how-to)<!-- TECH:END -->
+ - [Master Google Photos with these lesser-known features](https://www.androidauthority.com/underrated-google-photos-features-3169067/)
+ - [Stranger Things 4’s new monster is made with practical effects, some CG, and lots of lube](https://www.theverge.com/23141145/stranger-things-4-vecna-monster-creation-design-practical-effects)
+ - [Apple&#39;s Tim Cook trails behind Elon Musk in CEO pay for 2021](https://appleinsider.com/articles/22/05/28/apples-tim-cook-trails-behind-elon-musk-in-ceo-pay-for-2021?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
