@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memorial Day Sales 2022: Over 80 Must-Have Deals at Up to 80% Off     - CNET](https://www.cnet.com/news/memorial-day-deals/#ftag=CAD590a51e)
- - [Gamification has taken the fun out of exercise &amp; learning](https://www.androidauthority.com/gamification-exercise-learning-3164413/)
- - [Twitter Circle is starting to roll out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)<!-- TECH:END -->
+ - [Best Credit Cards With No Annual Fee for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-annual-fee-credit-cards/#ftag=CAD590a51e)
+ - [Twitter Circle may be rolling out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)
+ - [Interview with Ted Sarandos about Netflix&#39;s recent share price plunge, backing Dave Chappelle&#39;s latest comedy special, Hollywood schadenfreude, and more &lpar;Maureen Dowd/New York Times&rpar;](http://www.techmeme.com/220528/p7#a220528p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
