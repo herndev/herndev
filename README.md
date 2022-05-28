@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tense moment every time](http://9gag.com/gag/aegdXgj)
+ - 💣 [Not to sound like a Commie or anything but I hate how it costs money to live.](http://9gag.com/gag/axBApeb)
  - ⏩ [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
  - 👉 [Me: wait almost a decade and buy the game 5 days before it\u2019s free.](http://9gag.com/gag/aE8QeGO)<!-- MEMES:END -->
 
