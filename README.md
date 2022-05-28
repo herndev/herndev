@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google, YouTube and Bing Rank Chinese State Media High for COVID, Xinjiang Info     - CNET](https://www.cnet.com/news/politics/google-youtube-and-bing-rank-chinese-state-media-high-for-covid-xinjiang-info/#ftag=CAD590a51e)
  - [YipitData: average Uber and Lyft fares in the US hit a record high in April, as they drew ~20% fewer riders and 35% fewer trips in Q1 2022 compared to Q1 2019 &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/220527/p14#a220527p14)
- - [Robinhood Reportedly Settles Over 2020 Outage     - CNET](https://www.cnet.com/tech/robinhood-reportedly-settles-over-2020-outage/#ftag=CAD590a51e)
- - [Samsung Reportedly Cutting Phone Production by 10% This Year     - CNET](https://www.cnet.com/tech/mobile/samsung-reportedly-cutting-phone-production-by-10-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Wireless Mouse Deals: Save on Mice for Travel, Gaming and Everyday Computing     - CNET](https://www.cnet.com/tech/computing/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
