@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to start a German electric train.](http://9gag.com/gag/avAXpmZ)
- - ⏩ [What Pokemon is that?](http://9gag.com/gag/a31pY6v)
- - 👉 [These are the signs we need](http://9gag.com/gag/aE8Nw4o)<!-- MEMES:END -->
+ - 💣 [How to trigger an entire continent.](http://9gag.com/gag/apgjEeE)
+ - ⏩ [Running away!](http://9gag.com/gag/aGzNVZG)
+ - 👉 [Oh man I wonder how they do it](http://9gag.com/gag/awzGrEQ)<!-- MEMES:END -->
 
 ---
 
