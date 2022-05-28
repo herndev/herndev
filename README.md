@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cal and BD-1 Return in Star Wars Jedi: Survivor](https://news.xbox.com/en-us/2022/05/27/cal-and-bd-1-return-in-star-wars-jedi-survivor/)
  - [The most infamous MMO players of all time](https://www.pcgamer.com/the-most-infamous-mmo-players-of-all-time)
- - [This Week on Xbox: Upcoming Games, Free Updates, and New Releases](https://news.xbox.com/en-us/2022/05/27/this-week-on-xbox-upcoming-games-free-updates-and-new-releases/)
- - [Watch Tokyo come alive with this real-time map of its transit system](https://www.pcgamer.com/watch-tokyo-come-alive-with-this-real-time-map-of-its-transit-system)<!-- GAME:END -->
+ - [This Week on Xbox: Upcoming Games, Free Updates, and New Releases](https://news.xbox.com/en-us/2022/05/27/this-week-on-xbox-upcoming-games-free-updates-and-new-releases/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
