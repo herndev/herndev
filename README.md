@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google, YouTube and Bing Rank Chinese State Media High for COVID, Xinjiang Info     - CNET](https://www.cnet.com/news/politics/google-youtube-and-bing-rank-chinese-state-media-high-for-covid-xinjiang-info/#ftag=CAD590a51e)
- - [YipitData: average Uber and Lyft fares in the US hit a record high in April, as they drew ~20% fewer riders and 35% fewer trips in Q1 2022 compared to Q1 2019 &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/220527/p14#a220527p14)
- - [Best Wireless Mouse Deals: Save on Mice for Travel, Gaming and Everyday Computing     - CNET](https://www.cnet.com/tech/computing/best-wireless-mouse-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China&#39;s iQiyi, a streaming service majority-owned by Baidu and listed on the Nasdaq, reported its first quarterly profit, $26.7M in Q1, after cutting spending &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/220528/p1#a220528p1)
+ - [&#39;Stranger Things&#39; Season 4: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Google, YouTube and Bing Rank Chinese State Media High for COVID, Xinjiang Info     - CNET](https://www.cnet.com/news/politics/google-youtube-and-bing-rank-chinese-state-media-high-for-covid-xinjiang-info/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
