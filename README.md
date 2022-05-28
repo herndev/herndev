@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Profile of inDriver, a ride-hailing app developed in Siberia in 2012, which lets riders and drivers haggle over prices and is now available in 42 countries &lpar;Leonid Ragozin/Rest of World&rpar;](http://www.techmeme.com/220528/p5#a220528p5)
- - [How to send balloons, hearts, and other flair in iMessage](https://appleinsider.com/articles/21/11/30/how-to-send-balloons-hearts-and-other-flair-in-imessage?utm_medium=rss)
- - [Comcast received a patent for this smart speaker design, but will it ever be released?](https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release)<!-- TECH:END -->
+ - [I enabled RCS on Google Messages and all I got was ads](https://www.androidauthority.com/rcs-google-messages-ads-3167513/)
+ - [The 34 Best Memorial Day Deals on Tech, Gaming, Home, and More](https://www.wired.com/story/best-memorial-day-sales-2022-1)
+ - [Wow. See How Much the Young &#39;Stranger Things&#39; Stars Have Grown Up     - CNET](https://www.cnet.com/culture/entertainment/wow-see-how-much-the-young-stranger-things-stars-have-grown-up/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
