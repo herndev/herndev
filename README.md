@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found my old 3310](http://9gag.com/gag/amgb004)
- - ⏩ [My expectations were low, but holy f*ck](http://9gag.com/gag/aE8NGpx)
- - 👉 [True...](http://9gag.com/gag/amgbLdj)<!-- MEMES:END -->
+ - 💣 [True...](http://9gag.com/gag/amgbLdj)
+ - ⏩ [Found my old 3310](http://9gag.com/gag/amgb004)
+ - 👉 [How to draw your balls](http://9gag.com/gag/aVx1QXK)<!-- MEMES:END -->
 
 ---
 
