@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Layoffs.ai data: 60+ tech companies had job cuts in May, with 16,000+ employees laid off; notable layoffs in the last month include Getir, Bolt, and Klarna &lpar;Michelle Ma/Protocol&rpar;](http://www.techmeme.com/220527/p13#a220527p13)
- - [Atlanta Apple store workers say ‘intimidation’ has made a fair union vote impossible](https://www.theverge.com/2022/5/27/23145034/apple-atlanta-retail-store-union-election-canceled-intimidation)
- - [&#39;Worst Song Ever&#39;: TikTok Reacts to the Ice Cream Song From &#39;Doctor Strange 2&#39;     - CNET](https://www.cnet.com/culture/entertainment/worst-song-ever-tiktok-reacts-to-the-ice-cream-song-from-doctor-strange/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YipitData: average Uber and Lyft fares in the US hit a record high in April, as they drew ~20% fewer riders and 35% fewer trips in Q1 2022 compared to Q1 2019 &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/220527/p14#a220527p14)
+ - [Robinhood Reportedly Settles Over 2020 Outage     - CNET](https://www.cnet.com/tech/robinhood-reportedly-settles-over-2020-outage/#ftag=CAD590a51e)
+ - [Samsung Reportedly Cutting Phone Production by 10% This Year     - CNET](https://www.cnet.com/tech/mobile/samsung-reportedly-cutting-phone-production-by-10-this-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
