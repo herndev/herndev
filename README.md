@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wingless goose playing with her rescuer](http://9gag.com/gag/aBnNRXN)
- - ⏩ [Women vs Men](http://9gag.com/gag/aBnNR5z)
+ - 💣 [Women vs Men](http://9gag.com/gag/aBnNR5z)
+ - ⏩ [God dammit](http://9gag.com/gag/aM4N2BG)
  - 👉 [Have you ever taken a power nap so strong, a human surprised you?](http://9gag.com/gag/aNP2rMv)<!-- MEMES:END -->
 
 ---
