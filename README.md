@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Not to sound like a Commie or anything but I hate how it costs money to live.](http://9gag.com/gag/axBApeb)
- - ⏩ [One shouldn&#39;t joke about this but still, wtf](http://9gag.com/gag/aegdoXB)
- - 👉 [Me: wait almost a decade and buy the game 5 days before it\u2019s free.](http://9gag.com/gag/aE8QeGO)<!-- MEMES:END -->
+ - ⏩ [Pretty much ya](http://9gag.com/gag/axBApXY)
+ - 👉 [Too much sweetness will make you have diabetus](http://9gag.com/gag/aOQj6EN)<!-- MEMES:END -->
 
 ---
 
