@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Clean Your Vinyl Records &lpar;Because They&#39;re Filthy!&rpar;](https://www.wired.com/story/how-to-clean-vinyl)
- - [The Breaking Point Is Here—Again](https://www.wired.com/story/buffalo-uvalde-shootings-breaking-point)
- - [I bought an ultrawide monitor for productivity, and here’s what I learned](https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/)<!-- TECH:END -->
+ - [Daily deals May 28: Discounted refurbished MacBook Pro, $90 off iPad mini, 50% off 55-inch TCL 4K TV, more](https://appleinsider.com/articles/22/05/28/daily-deals-may-28-discounted-refurbished-macbook-pro-90-off-ipad-mini-50-off-55-inch-tcl-4k-tv-more?utm_medium=rss)
+ - [What is Nvidia Broadcast? How to set up and use it](https://www.androidauthority.com/nvidia-broadcast-3166370/)
+ - [How to Switch to Google Fi](https://www.wired.com/story/how-to-switch-to-google-fi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
