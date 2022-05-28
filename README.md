@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Wingless goose playing with her rescuer](http://9gag.com/gag/aBnNRXN)
- - ⏩ [True.](http://9gag.com/gag/ay9V73M)
- - 👉 [On this day in 2016, an event marked the decline of the world... He shall not be forgotten!](http://9gag.com/gag/a31pPmr)<!-- MEMES:END -->
+ - ⏩ [Women vs Men](http://9gag.com/gag/aBnNR5z)
+ - 👉 [Have you ever taken a power nap so strong, a human surprised you?](http://9gag.com/gag/aNP2rMv)<!-- MEMES:END -->
 
 ---
 
