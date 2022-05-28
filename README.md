@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)
- - ⏩ [Men only want one thing and it&#39;s disgusting](http://9gag.com/gag/aOQj6zN)
- - 👉 [Stuck in my head](http://9gag.com/gag/aggdRnv)<!-- MEMES:END -->
+ - 💣 [I&#39;m not lazy, I just work in energy-saving mode.](http://9gag.com/gag/aRrN6bM)
+ - ⏩ [What are the odds](http://9gag.com/gag/abgm39O)
+ - 👉 [Just a regular weekend in Brazil.](http://9gag.com/gag/a716vB2)<!-- MEMES:END -->
 
 ---
 
