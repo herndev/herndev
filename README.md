@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast received a patent for this smart speaker design, but will it ever be released?](https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-434-3170328/)
- - [The latest iPad Air with M1 processor and expanded 256GB storage is $70 off](https://www.theverge.com/good-deals/2022/5/28/23144495/apple-ipad-air-2022-xbox-series-s-console-google-pixel-6-pro-lenovo-chromebook-duet-5-deal-sale)<!-- TECH:END -->
+ - [Profile of inDriver, a ride-hailing app developed in Siberia in 2012, which lets riders and drivers haggle over prices and is now available in 42 countries &lpar;Leonid Ragozin/Rest of World&rpar;](http://www.techmeme.com/220528/p5#a220528p5)
+ - [How to send balloons, hearts, and other flair in iMessage](https://appleinsider.com/articles/21/11/30/how-to-send-balloons-hearts-and-other-flair-in-imessage?utm_medium=rss)
+ - [Comcast received a patent for this smart speaker design, but will it ever be released?](https://www.theverge.com/2022/5/28/23145559/comcast-smart-speaker-patent-design-release)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
