@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to trigger an entire continent.](http://9gag.com/gag/apgjEeE)
- - ⏩ [Running away!](http://9gag.com/gag/aGzNVZG)
- - 👉 [Oh man I wonder how they do it](http://9gag.com/gag/awzGrEQ)<!-- MEMES:END -->
+ - 💣 [True...](http://9gag.com/gag/amgbLdj)
+ - ⏩ [What Pokemon is that?](http://9gag.com/gag/a31pY6v)
+ - 👉 [Running away!](http://9gag.com/gag/aGzNVZG)<!-- MEMES:END -->
 
 ---
 
