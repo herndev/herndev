@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [I bought an ultrawide monitor for productivity, and here’s what I learned](https://www.androidauthority.com/ultrawide-monitor-for-productivity-3167406/)
  - [Xiaomi Mi Band 7 vs Mi Band 6: Which cheap tracker should you buy?](https://www.androidauthority.com/xiaomi-mi-band-7-vs-mi-band-6-3168274/)
- - [Proctoring software like Honorlock that track students&#39; movements during online exams to prevent cheating are criticized for allegedly flagging normal behavior &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220528/p3#a220528p3)
- - [Argentina-based ClicOH, which lets sellers across Latin America track shipments in real time via its dashboard, raises a $25M Series A led by Tiger Global &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220528/p2#a220528p2)<!-- TECH:END -->
+ - [Proctoring software like Honorlock that track students&#39; movements during online exams to prevent cheating are criticized for allegedly flagging normal behavior &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220528/p3#a220528p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
