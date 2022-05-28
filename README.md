@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Red Earth, Capcom’s forgotten fighting game, gets a second chance](https://www.polygon.com/gaming/23144094/red-earth-capcom-fighting-collection-interview)
  - [Our biggest questions heading into Stranger Things 4 part 2](https://www.polygon.com/stranger-things/23138007/stranger-things-4-ending-explained-part-2)
- - [17 great movies leaving streaming services at the end of May 2022](https://www.polygon.com/what-to-watch/2022/5/28/23132375/best-movies-netflix-amazon-hulu-hbo-leaving-may-2022)
- - [40K Kill Team: Moroch boxed set is a little light on new models, but the rules are fun](https://www.polygon.com/reviews/23142883/warhammer-40k-kill-team-moroch-review)<!-- GAME:END -->
+ - [17 great movies leaving streaming services at the end of May 2022](https://www.polygon.com/what-to-watch/2022/5/28/23132375/best-movies-netflix-amazon-hulu-hbo-leaving-may-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
