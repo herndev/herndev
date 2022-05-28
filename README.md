@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Dial Up Sound - Spectrogram](http://9gag.com/gag/a613m7e)
- - ⏩ [Finally paid off my debt, so I&#39;m treating myself today Cheers! you beautiful 9gaggers!](http://9gag.com/gag/aZrVb73)
- - 👉 [How to get death sentence in japan](http://9gag.com/gag/aGzoPnw)<!-- MEMES:END -->
+ - ⏩ [True.](http://9gag.com/gag/ay9V73M)
+ - 👉 [Beware of natural spaghetti.](http://9gag.com/gag/a21jzv1)<!-- MEMES:END -->
 
 ---
 
