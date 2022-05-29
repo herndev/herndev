@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s next? Women not wearing makeup in nuclear wasteland?](http://9gag.com/gag/abgm65b)
- - ⏩ [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
- - 👉 [Fans literally just walking through a gate to scan their tickets and this happens? It makes no sense\u2026](http://9gag.com/gag/aPZdWWR)<!-- MEMES:END -->
+ - 💣 [Fans literally just walking through a gate to scan their tickets and this happens? It makes no sense\u2026](http://9gag.com/gag/aPZdWWR)
+ - ⏩ [Natural selection at work](http://9gag.com/gag/azeD8gN)
+ - 👉 [Congratulation, you played yourself](http://9gag.com/gag/aZrVBez)<!-- MEMES:END -->
 
 ---
 
