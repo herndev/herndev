@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iPhone 14 Release Date May Be Just 3 Months Away     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-release-date-may-be-just-3-months-away/#ftag=CAD590a51e)
- - [23 Memorial Day Sales on iPad, Apple Watch, AirPods and More You Won&#39;t Want to Miss     - CNET](https://www.cnet.com/tech/computing/23-memorial-day-deals-on-ipad-apple-watch-airpods-more-you-wont-want-to-miss/#ftag=CAD590a51e)
- - [Impossible Burger vs. Beef: Which is Healthier?     - CNET](https://www.cnet.com/health/nutrition/is-the-impossible-burger-healthier-than-beef/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s Twitter Plans Would Mean Less Free Speech for Many](https://www.wired.com/story/elon-musk-free-speech-twitter-global-censorship)
+ - [Become a Telegram Master With These 10 Tips and Tricks](https://www.wired.com/story/10-telegram-tips-tricks)
+ - [Best Credit Cards With No Balance Transfer Fees for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-balance-transfer-fee-credit-cards/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
