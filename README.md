@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Saving a Trapped Wolf](http://9gag.com/gag/aGzN0e6)
- - ⏩ [How we start the summer in Norway.](http://9gag.com/gag/a91N75D)
- - 👉 [I would love to play it](http://9gag.com/gag/azeDAVp)<!-- MEMES:END -->
+ - ⏩ [He borrowed the barbers shotgun, now that\u2019s the Texas I know.](http://9gag.com/gag/aegPYQq)
+ - 👉 [ZAMUNDA](http://9gag.com/gag/aAGNwmR)<!-- MEMES:END -->
 
 ---
 
