@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [With Jaws of the Lion on PC, Gloomhaven has once again struck gold](https://www.polygon.com/reviews/23142795/gloomhaven-jaws-of-the-lion-dlc-pc-review)
  - [Top Gun: Maverick’s director explains how he convinced Tom Cruise to come back](https://www.polygon.com/23138035/top-gun-maverick-director-interview)
- - [Everything Stranger Things has revealed about Eleven’s past so far](https://www.polygon.com/stranger-things/23132806/stranger-things-eleven-past-explained)
- - [Spy x Family’s Anya is taking over the manga multiverse](https://www.polygon.com/23141841/spy-x-family-anya-manga-meme-one-piece-jujustu-kaisen-attack-on-titan)<!-- GAME:END -->
+ - [Everything Stranger Things has revealed about Eleven’s past so far](https://www.polygon.com/stranger-things/23132806/stranger-things-eleven-past-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
