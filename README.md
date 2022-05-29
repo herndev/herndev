@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Rewards Credit Cards for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)
- - [Best Credit Card Welcome Bonuses for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-card-welcome-bonus/#ftag=CAD590a51e)
- - [&#39;Tales of the Jedi&#39; Is a Disney Series About Ahsoka Tano and Count Dooku     - CNET](https://www.cnet.com/culture/entertainment/tales-of-the-jedi-is-a-disney-series-series-about-ahsoka-tano-and-count-dooku/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the Broadcom-VMware deal happened within two weeks; Broadcom CEO had switched his focus to software amid regulatory headwinds for semiconductor deals &lpar;Financial Times&rpar;](http://www.techmeme.com/220529/p1#a220529p1)
+ - [Star Wars Celebration Anaheim: How to Watch, What Happened and What to Expect     - CNET](https://www.cnet.com/culture/entertainment/star-wars-celebration-anaheim-how-to-watch-what-happened-what-to-expect/#ftag=CAD590a51e)
+ - [Best Rewards Credit Cards for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
