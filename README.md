@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Stressaxing](http://9gag.com/gag/aLvNBR6)
- - ⏩ [How pokemon fight would look like in real life](http://9gag.com/gag/angWBgn)
- - 👉 [MVP.](http://9gag.com/gag/axBnZep)<!-- MEMES:END -->
+ - ⏩ [MVP.](http://9gag.com/gag/axBnZep)
+ - 👉 [French police pepper spraying Liverpool fans with tickets](http://9gag.com/gag/a716yrx)<!-- MEMES:END -->
 
 ---
 
