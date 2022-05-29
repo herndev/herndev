@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro 2: Everything we know so far](https://www.androidauthority.com/airpods-pro-2-release-date-rumors-specs-price-features-3169965/)
- - [Best Low-Interest Personal Loans for June 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-low-interest-personal-loans/#ftag=CAD590a51e)
- - [Star Wars: The Bad Batch Season 2 Trailer Reveals Wookiee Jedi, Fall 2022 Release     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-trailer-reveals-fall-2022-release/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [For $500, you can buy the Third Sister’s 6.5-foot double-bladed lightsaber](https://www.theverge.com/2022/5/29/23146694/double-bladed-lightsaber-costs-500-star-wars-obi-wan-third-sister-reva)
+ - [As Terra blockchain reboots, freshly minted new LUNA tokens started trading on a number of exchanges and swiftly plummeted about 70% from the opening price &lpar;Sujith Somraaj/Decrypt&rpar;](http://www.techmeme.com/220529/p5#a220529p5)
+ - [Memorial Day Sales 2022: Over 80 Must-Have Deals at Up to 80% Off     - CNET](https://www.cnet.com/news/memorial-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
