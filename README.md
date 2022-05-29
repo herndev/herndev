@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monaco right now](http://9gag.com/gag/a11qXBG)
- - ⏩ [Consequences of the Champions League final. Place de la Nation. Paris this morning.](http://9gag.com/gag/aqGp5AM)
- - 👉 [He&#39;s not wrong](http://9gag.com/gag/aAGN1Ad)<!-- MEMES:END -->
+ - 💣 [Saving a Trapped Wolf](http://9gag.com/gag/aGzN0e6)
+ - ⏩ [How we start the summer in Norway.](http://9gag.com/gag/a91N75D)
+ - 👉 [I would love to play it](http://9gag.com/gag/azeDAVp)<!-- MEMES:END -->
 
 ---
 
