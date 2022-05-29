@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Always-on display support for iPhone 14 Pro to be included in iOS 16](https://appleinsider.com/articles/22/05/29/always-on-display-support-for-iphone-14-pro-to-be-included-in-ios-16?utm_medium=rss)
- - [The Pixel 6 Pro is now my real-time magnifier for the world](https://www.androidauthority.com/pixel-6-pro-zoom-magnifier-3169234/)
- - [Best Credit Cards for Fair and Average Credit for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 37 Best Memorial Day Deals on Tech, Gaming, Home, and More](https://www.wired.com/story/best-memorial-day-sales-2022-2)
+ - [iPhone 14 Pro and Pro Max could finally get always-on display](https://www.theverge.com/2022/5/29/23146454/iphone-14-pro-max-always-on-display-apple-wwdc-rumors)
+ - [Our Favorite Mattresses Are on Sale for Memorial Day](https://www.wired.com/story/memorial-day-mattress-deals-2022-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
