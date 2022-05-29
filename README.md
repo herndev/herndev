@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nansen: TerraUSD collapse wasn&#39;t a work of a single attacker but likely a result of investment decisions from a small number of large UST holders &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220529/p4#a220529p4)
- - [The Pixel Tablet could be the future of smart home displays](https://www.androidauthority.com/pixel-tablet-smart-home-displays-3166955/)
- - [Apple can’t dismiss Cydia’s amended antitrust lawsuit, judge says](https://www.theverge.com/2022/5/29/23146529/apple-cant-dismiss-cydia-antitrust-lawsuit-judge)<!-- TECH:END -->
+ - [Apple AirPods Pro 2: Everything we know so far](https://www.androidauthority.com/airpods-pro-2-release-date-rumors-specs-price-features-3169965/)
+ - [Star Wars: The Bad Batch Season 2 Trailer Reveals Wookiee Jedi, Fall 2022 Release     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-bad-batch-season-2-trailer-reveals-fall-2022-release/#ftag=CAD590a51e)
+ - [Nansen: TerraUSD collapse wasn&#39;t a work of a single attacker but likely a result of investment decisions from a small number of large UST holders &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220529/p4#a220529p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
