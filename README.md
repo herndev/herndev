@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True...](http://9gag.com/gag/amgbLdj)
- - ⏩ [Found my old 3310](http://9gag.com/gag/amgb004)
- - 👉 [How to draw your balls](http://9gag.com/gag/aVx1QXK)<!-- MEMES:END -->
+ - 💣 [This is what happens when you block the tram in Sheffield](http://9gag.com/gag/aBnN3eA)
+ - ⏩ [Congratulations](http://9gag.com/gag/aogqZK3)
+ - 👉 [Stressaxing](http://9gag.com/gag/aLvNBR6)<!-- MEMES:END -->
 
 ---
 
