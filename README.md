@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stressaxing](http://9gag.com/gag/aLvNBR6)
- - ⏩ [MVP.](http://9gag.com/gag/axBnZep)
- - 👉 [French police pepper spraying Liverpool fans with tickets](http://9gag.com/gag/a716yrx)<!-- MEMES:END -->
+ - 💣 [Here, have some 90&#39;s](http://9gag.com/gag/aE8N1pM)
+ - ⏩ [Some small turbulences](http://9gag.com/gag/arnr4rX)
+ - 👉 [Fact](http://9gag.com/gag/adg4pEj)<!-- MEMES:END -->
 
 ---
 
