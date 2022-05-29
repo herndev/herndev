@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Impossible Burger vs. Beef: Which is Healthier?     - CNET](https://www.cnet.com/health/nutrition/is-the-impossible-burger-healthier-than-beef/#ftag=CAD590a51e)
  - [Sources: the Broadcom-VMware deal happened within two weeks; Broadcom CEO had switched his focus to software amid regulatory headwinds for semiconductor deals &lpar;Financial Times&rpar;](http://www.techmeme.com/220529/p1#a220529p1)
- - [Star Wars Celebration Anaheim: How to Watch, What Happened and What to Expect     - CNET](https://www.cnet.com/culture/entertainment/star-wars-celebration-anaheim-how-to-watch-what-happened-what-to-expect/#ftag=CAD590a51e)
- - [Best Rewards Credit Cards for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-rewards-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Star Wars Celebration Anaheim: How to Watch, What Happened and What to Expect     - CNET](https://www.cnet.com/culture/entertainment/star-wars-celebration-anaheim-how-to-watch-what-happened-what-to-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
