@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars: Knights of the Old Republic II is coming to Switch](https://www.theverge.com/2022/5/28/23145825/star-wars-knights-old-republic-ii-sith-lords-nintendo-switch-restored-content-dlc)
- - [Best Credit Cards With No Annual Fee for June 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-no-annual-fee-credit-cards/#ftag=CAD590a51e)
- - [Twitter Circle may be rolling out to more users](https://www.theverge.com/2022/5/28/23145745/twitter-circle-starting-roll-out-more-users)<!-- TECH:END -->
+ - [&#39;Tales of the Jedi&#39; Is a Disney Series About Ahsoka Tano and Count Dooku     - CNET](https://www.cnet.com/culture/entertainment/tales-of-the-jedi-is-a-disney-series-series-about-ahsoka-tano-and-count-dooku/#ftag=CAD590a51e)
+ - [&#39;Ahsoka&#39; Trailer Reveals &#39;Star Wars Rebels&#39; Characters Coming to Live-Action     - CNET](https://www.cnet.com/culture/entertainment/ahsoka-trailer-reveals-star-wars-rebels-characters-coming-to-live-action/#ftag=CAD590a51e)
+ - [Star Wars: Knights of the Old Republic II is coming to Switch](https://www.theverge.com/2022/5/28/23145825/star-wars-knights-old-republic-ii-sith-lords-nintendo-switch-restored-content-dlc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
