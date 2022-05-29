@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Well, that escalated at medium speed](http://9gag.com/gag/aWgN644)
- - ⏩ [Rock on!](http://9gag.com/gag/aM4NGrW)
- - 👉 [Loved having her around](http://9gag.com/gag/arnrKOy)<!-- MEMES:END -->
+ - ⏩ [Loved having her around](http://9gag.com/gag/arnrKOy)
+ - 👉 [Courtney Love risking her career to expose Harvey Weinstein back in 2005](http://9gag.com/gag/a11qMpw)<!-- MEMES:END -->
 
 ---
 
