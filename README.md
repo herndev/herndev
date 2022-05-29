@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a reminder this scene exists](http://9gag.com/gag/aggZNGq)
- - ⏩ [This is what happens when you block the tram in Sheffield](http://9gag.com/gag/aBnN3eA)
- - 👉 [MVP.](http://9gag.com/gag/axBnZep)<!-- MEMES:END -->
+ - 💣 [How pokemon fight would look like in real life](http://9gag.com/gag/angWBgn)
+ - ⏩ [Designed and built my own bathroom in a house I&#39;m building. Many many hours later I&#39;m quite happy with the result! Thoughts?](http://9gag.com/gag/awzGb8B)
+ - 👉 [Stressaxing](http://9gag.com/gag/aLvNBR6)<!-- MEMES:END -->
 
 ---
 
