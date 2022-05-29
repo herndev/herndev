@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The finnish way of drinking](http://9gag.com/gag/a21jrKO)
+ - 💣 [Yup, well I do feel old](http://9gag.com/gag/aNP2Ap0)
  - ⏩ [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
- - 👉 [This cabinet mechanism](http://9gag.com/gag/aggZLX6)<!-- MEMES:END -->
+ - 👉 [`Starship Troopers` - 1997](http://9gag.com/gag/aqGprXj)<!-- MEMES:END -->
 
 ---
 
