@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What are your lies you are telling to your kids?](http://9gag.com/gag/amgbzG4)
- - ⏩ [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
- - 👉 [I just want my shooters single player.](http://9gag.com/gag/a91N7DW)<!-- MEMES:END -->
+ - 💣 [The perfect spot](http://9gag.com/gag/aGzNx2K)
+ - ⏩ [Consequences of the Champions League final. Place de la Nation. Paris this morning.](http://9gag.com/gag/aqGp5AM)
+ - 👉 [Balance resides in teeth](http://9gag.com/gag/aDDNGN9)<!-- MEMES:END -->
 
 ---
 
