@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
- - ⏩ [I would love to play it](http://9gag.com/gag/azeDAVp)
+ - 💣 [What are your lies you are telling to your kids?](http://9gag.com/gag/amgbzG4)
+ - ⏩ [Bar besides the Ocean in Mykonos Greece](http://9gag.com/gag/aogq9eA)
  - 👉 [I just want my shooters single player.](http://9gag.com/gag/a91N7DW)<!-- MEMES:END -->
 
 ---
