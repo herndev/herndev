@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
- - [How to turn your digital camera or iPhone into a powerful webcam](https://appleinsider.com/inside/iphone/tips/how-to-turn-your-digital-camera-or-iphone-into-a-powerful-webcam?utm_medium=rss)
- - [The big problems with small Android phones](https://www.androidauthority.com/big-problems-with-small-phones-3169293/)<!-- TECH:END -->
+ - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)
+ - [The best Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)
+ - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
