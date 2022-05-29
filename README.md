@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Courtney Love risking her career to expose Harvey Weinstein back in 2005](http://9gag.com/gag/a11qMpw)
- - ⏩ [Loved having her around](http://9gag.com/gag/arnrKOy)
- - 👉 [Buy beach front property they said! It would be great they said!](http://9gag.com/gag/a0ZWYzL)<!-- MEMES:END -->
+ - 💣 [I feel old](http://9gag.com/gag/a11qMP6)
+ - ⏩ [This trash cleaning boat](http://9gag.com/gag/ay9Vdd8)
+ - 👉 [Allergies suck](http://9gag.com/gag/a91N7ZZ)<!-- MEMES:END -->
 
 ---
 
