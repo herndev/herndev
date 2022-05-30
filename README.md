@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to block and disable ads in Google Messages](https://www.androidauthority.com/disable-ads-google-messages-3169991/)
- - [How self-driving startups Wayve, Waabi, and Autobrains are using end-to-end AI learning, hoping to leapfrog market leaders like Cruise and Waymo &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p4#a220530p4)
- - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [Top500: the US&#39; AMD-powered Frontier supercomputer becomes the fastest in the world, topping 1.102 exaflops/second, overtaking Japan&#39;s Fugaku by a wide margin &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220530/p6#a220530p6)
+ - [Daily Authority: ⚡ Massive new supercomputer](https://www.androidauthority.com/daily-authority-may-30-2022-3170697/)
+ - [This Startup Wants You to Eat Ground-Up Chicken Bones](https://www.wired.com/story/chicken-ground-bone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
