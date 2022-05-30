@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)
- - [Apple’s RealityOS for rumored headset appears in trademark application](https://www.theverge.com/2022/5/30/23147213/realityos-os-ros-trademark-apple-virtual-augmented-reality-headset)
- - [How to get rid of a virus on a computer](https://www.androidauthority.com/get-rid-virus-computer-3168973/)<!-- TECH:END -->
+ - [How to block and disable ads in Google Messages](https://www.androidauthority.com/disable-ads-google-messages-3169991/)
+ - [How self-driving startups Wayve, Waabi, and Autobrains are using end-to-end AI learning, hoping to leapfrog market leaders like Cruise and Waymo &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p4#a220530p4)
+ - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
