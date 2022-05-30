@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For $500, you can buy the Third Sister’s 6.5-foot double-bladed lightsaber](https://www.theverge.com/2022/5/29/23146694/double-bladed-lightsaber-costs-500-star-wars-obi-wan-third-sister-reva)
- - [As Terra blockchain reboots, freshly minted new LUNA tokens started trading on a number of exchanges and swiftly plummeted about 70% from the opening price &lpar;Sujith Somraaj/Decrypt&rpar;](http://www.techmeme.com/220529/p5#a220529p5)
- - [Memorial Day Sales 2022: Over 80 Must-Have Deals at Up to 80% Off     - CNET](https://www.cnet.com/news/memorial-day-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)
+ - [Experts say that governments should create bespoke IP law and an international treaty to protect AI-generated inventions, rather than rework old patent laws &lpar;Nature&rpar;](http://www.techmeme.com/220529/p7#a220529p7)
+ - [Star Wars Visions Season 2 Hits Disney Plus Next Spring     - CNET](https://www.cnet.com/culture/entertainment/star-wars-visions-season-2-hits-disney-plus-next-spring/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
