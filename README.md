@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)
- - ⏩ [Impressive](http://9gag.com/gag/axBn0QY)
- - 👉 [Moose charges after Grizzly who killed one of its calfs yesterday at Many Glacier, Montana](http://9gag.com/gag/aDDNz5G)<!-- MEMES:END -->
+ - 💣 [Bobo is my friend](http://9gag.com/gag/aRrN3BA)
+ - ⏩ [Moose charges after Grizzly who killed one of its calfs yesterday at Many Glacier, Montana](http://9gag.com/gag/aDDNz5G)
+ - 👉 [Look at this...graph](http://9gag.com/gag/aOQNBXR)<!-- MEMES:END -->
 
 ---
 
