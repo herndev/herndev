@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hulu: All the TV Shows and Movies Coming in June 2022     - CNET](https://www.cnet.com/culture/entertainment/hulu-all-the-tv-shows-and-movies-coming-in-june-2022/#ftag=CAD590a51e)
  - [Indonesia-based Astro, which offers 15-minute grocery delivery, raises a $60M Series B led by Accel, Citius, and Tiger Global, bringing its total raised to $90M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220529/p8#a220529p8)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
- - [Netflix: All the TV Shows and Movies Coming in June 2022     - CNET](https://www.cnet.com/culture/entertainment/netflix-all-the-tv-shows-and-movies-coming-in-june-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
