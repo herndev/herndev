@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to switch from PC to Mac and migrate your data from Windows to macOS](https://appleinsider.com/inside/mac/tips/how-to-switch-from-pc-to-mac-and-migrate-your-data-from-windows-to-macos?utm_medium=rss)
- - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar; this Memorial Day](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
- - [The merging of Comixology and Kindle has created a hell I’d like to escape](https://www.theverge.com/2022/5/30/23140157/comixology-amazon-kindle-integration-terrible)<!-- TECH:END -->
+ - [DeLorean offers a first look at its gull-winged Alpha 5 EV revival](https://www.theverge.com/2022/5/30/23147339/delorean-alpha-5-first-look-gull-winged-ev-revival)
+ - [Android OEMs, take note: This is an in-display fingerprint reader done right](https://www.androidauthority.com/vivo-x80-pro-in-display-fingerprint-scanner-3169683/)
+ - [Report: Google, Bing, and YouTube regularly return Chinese state media content in the top US results on China&#39;s human-rights record and the origins of COVID-19 &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/220530/p14#a220530p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
