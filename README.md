@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Iron Harvest, the 1920s mech RTS, is getting a free &#39;World Map Campaign&#39; update](https://www.pcgamer.com/iron-harvest-the-1920s-mech-rts-is-getting-a-free-world-map-campaign-update)
  - [Euro Truck Simulator 2 studio drops Heart of Russia DLC over Russian invasion of Ukraine](https://www.pcgamer.com/euro-truck-simulator-2-studio-drops-heart-of-russia-dlc-over-russian-invasion-of-ukraine)
- - [Use musical scales and magical melodies to solve puzzles in Sonority](https://www.pcgamer.com/use-musical-scales-and-magical-melodies-to-solve-puzzles-in-sonority)
- - [V Rising developers talk about the &#39;journey&#39; to full release](https://www.pcgamer.com/v-rising-developers-talk-about-the-journey-to-full-release)<!-- GAME:END -->
+ - [Use musical scales and magical melodies to solve puzzles in Sonority](https://www.pcgamer.com/use-musical-scales-and-magical-melodies-to-solve-puzzles-in-sonority)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
