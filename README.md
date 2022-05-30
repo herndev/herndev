@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeLorean offers a first look at its gull-winged Alpha 5 EV revival](https://www.theverge.com/2022/5/30/23147339/delorean-alpha-5-first-look-gull-winged-ev-revival)
- - [Android OEMs, take note: This is an in-display fingerprint reader done right](https://www.androidauthority.com/vivo-x80-pro-in-display-fingerprint-scanner-3169683/)
- - [Report: Google, Bing, and YouTube regularly return Chinese state media content in the top US results on China&#39;s human-rights record and the origins of COVID-19 &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/220530/p14#a220530p14)<!-- TECH:END -->
+ - [What to do if your Apple Watch is stolen](https://appleinsider.com/inside/apple-watch/tips/what-to-do-if-your-apple-watch-is-stolen?utm_medium=rss)
+ - [Google addresses RCS ad controversy, pauses business messaging in India](https://www.androidauthority.com/google-rcs-ads-india-3170852/)
+ - [The best Memorial Day sales happening now](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
