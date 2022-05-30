@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everybody&#39;s upstairs neighbors reveal what they do up there](http://9gag.com/gag/apgjm39)
+ - 💣 [Old Gallery Memes #5](http://9gag.com/gag/arnrgwK)
  - ⏩ [Im 20 and still do this](http://9gag.com/gag/a31pQAe)
- - 👉 [I can relate.](http://9gag.com/gag/aM4NjvX)<!-- MEMES:END -->
+ - 👉 [I see, I see..](http://9gag.com/gag/aM4NZyx)<!-- MEMES:END -->
 
 ---
 
