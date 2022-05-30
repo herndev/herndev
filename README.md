@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Berlin-based B2B buy now, pay later startup Mondu raises a $43M Series A led by Peter Thiel&#39;s Valar Ventures, bringing its total funding to $57M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/220530/p2#a220530p2)
- - [Kuo says that TSMC&#39;s roadmap from 2021 suggests this year&#39;s iPhone &quot;A16&quot; chip will stick to a 5nm process and new Macs later this year will also have a 5nm CPU &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220530/p1#a220530p1)
- - [HTC is readying a ‘metaverse’ phone &lpar;Updated: Delayed&rpar;](https://www.androidauthority.com/htc-metaverse-phone-3125838/)<!-- TECH:END -->
+ - [Spain-based CoverManager, which helps restaurants manage table reservations, raises &amp;euro;35M at a &amp;euro;150M valuation &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220530/p3#a220530p3)
+ - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)
+ - [Samsung Galaxy Z Fold 4 specs leak: An incremental upgrade?](https://www.androidauthority.com/samsung-galaxy-z-fold-4-specs-3169968/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
