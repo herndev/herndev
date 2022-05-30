@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top500: the US&#39; AMD-powered Frontier supercomputer becomes the fastest in the world, topping 1.102 exaflops/second, overtaking Japan&#39;s Fugaku by a wide margin &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220530/p6#a220530p6)
- - [Daily Authority: ⚡ Massive new supercomputer](https://www.androidauthority.com/daily-authority-may-30-2022-3170697/)
- - [This Startup Wants You to Eat Ground-Up Chicken Bones](https://www.wired.com/story/chicken-ground-bone)<!-- TECH:END -->
+ - [Ireland-based TransferMate, a B2B payments infrastructure company, raises $70M at a $1B valuation, bringing its total funding to $130M &lpar;Will Goodbody/RT&amp;Eacute;&rpar;](http://www.techmeme.com/220530/p9#a220530p9)
+ - [A federal judge rules Cydia&#39;s antitrust lawsuit against Apple can proceed, rejecting Apple&#39;s claim that the allegations are outside the statute of limitations &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/220530/p8#a220530p8)
+ - [BMW&#39;s Slick E-Motorbike Is Scary Fast](https://www.wired.com/review/bmw-ce-04)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
