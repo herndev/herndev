@@ -105,8 +105,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Indonesia-based Astro, which offers 15-minute grocery delivery, raises a $60M Series B led by Accel, Citius, and Tiger Global, bringing its total raised to $90M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220529/p8#a220529p8)
- - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-see-tonight/#ftag=CAD590a51e)
- - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)
+ - [Netflix: All the TV Shows and Movies Coming in June 2022     - CNET](https://www.cnet.com/culture/entertainment/netflix-all-the-tv-shows-and-movies-coming-in-june-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
