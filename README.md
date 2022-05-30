@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Or not, I am not your boss.](http://9gag.com/gag/axBnzoM)
- - ⏩ [I think we all do.](http://9gag.com/gag/adg4LWB)
- - 👉 [Decided to get my gf a little present. But somehow I triggerd it after wrapping it.](http://9gag.com/gag/arnropd)<!-- MEMES:END -->
+ - 💣 [Decided to get my gf a little present. But somehow I triggerd it after wrapping it.](http://9gag.com/gag/arnropd)
+ - ⏩ [Aw. What an adorable floppy sea spider, would make great content for my friends at home.](http://9gag.com/gag/aYrnyK0)
+ - 👉 [Art of War](http://9gag.com/gag/aBnNgVN)<!-- MEMES:END -->
 
 ---
 
