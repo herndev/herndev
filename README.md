@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What we want from Elden Ring DLC](https://www.pcgamer.com/elden-ring-dlc-possibilities)
- - [Polygon eats Bob’s burgers](https://www.polygon.com/entertainment/23124093/bobs-burgers-of-the-day-best-recipes)
- - [It&#39;s Your Last Chance To Grab The Pokémon Diamond/Pearl Sound Library](https://kotaku.com/nintendo-pokemon-diamond-pearl-sound-library-closing-la-1848993472)<!-- GAME:END -->
+ - [10 of Hot Ones’ best and spiciest interviews](https://www.polygon.com/23068909/hot-ones-best-interviews-list)
+ - [Cute indie games keep trying to make me cry, and I choose to blame Pixar](https://www.pcgamer.com/cute-indie-games-keep-trying-to-make-me-cry-and-i-choose-to-blame-pixar)
+ - [They&#39;re doing a Lego kit of Star Wars Jedi: Fallen Order droid BD-1](https://www.pcgamer.com/theyre-doing-a-lego-kit-of-star-wars-jedi-fallen-order-droid-bd-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
