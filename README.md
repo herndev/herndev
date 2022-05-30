@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is As Close To A Real-World Escape Room As You&#39;ll Find](https://kotaku.com/escape-simulator-room-pine-studio-review-indie-pc-co-op-1848993246)
- - [Meet the streamer who helps PS5 buyers beat bots and scalpers](https://www.polygon.com/23143579/jake-randall-twitch-how-to-buy-ps5-xbox-series-x-bots-scalpers)
- - [The Bad Batch season 2 trailer reveals fall release](https://www.polygon.com/star-wars/23146713/star-wars-bad-batch-season-2-trailer-release-disney-plus-streaming-celebration)<!-- GAME:END -->
+ - [This adorable WIP project is like Townscaper with castles](https://www.pcgamer.com/this-adorable-wip-project-is-like-townscaper-with-castles)
+ - [15 Incredible Indie Games To Slam On Your Wishlist](https://kotaku.com/steam-pc-indie-games-demo-wishlist-shadows-of-doubt-kni-1848993349)
+ - [This Is As Close To A Real-World Escape Room As You&#39;ll Find](https://kotaku.com/escape-simulator-room-pine-studio-review-indie-pc-co-op-1848993246)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
