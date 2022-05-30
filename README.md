@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)
- - [Experts say that governments should create bespoke IP law and an international treaty to protect AI-generated inventions, rather than rework old patent laws &lpar;Nature&rpar;](http://www.techmeme.com/220529/p7#a220529p7)
- - [Star Wars Visions Season 2 Hits Disney Plus Next Spring     - CNET](https://www.cnet.com/culture/entertainment/star-wars-visions-season-2-hits-disney-plus-next-spring/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia-based Astro, which offers 15-minute grocery delivery, raises a $60M Series B led by Accel, Citius, and Tiger Global, bringing its total raised to $90M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220529/p8#a220529p8)
+ - [Netflix: The 48 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-48-absolute-best-tv-shows-to-see-tonight/#ftag=CAD590a51e)
+ - [MacBook Air refresh with M2 a strong possibility for WWDC 2022](https://appleinsider.com/articles/22/05/29/macbook-air-refresh-with-m2-a-strong-possibility-for-wwdc-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
