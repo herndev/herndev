@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)
- - ⏩ [I just hope for a reply](http://9gag.com/gag/aXrGxNg)
- - 👉 [Always does that](http://9gag.com/gag/a613VYm)<!-- MEMES:END -->
+ - ⏩ [Impressive](http://9gag.com/gag/axBn0QY)
+ - 👉 [Moose charges after Grizzly who killed one of its calfs yesterday at Many Glacier, Montana](http://9gag.com/gag/aDDNz5G)<!-- MEMES:END -->
 
 ---
 
