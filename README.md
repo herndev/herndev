@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cried so much today that my eyes hurt. I planted some pretty flowers over his grave](http://9gag.com/gag/aqGpbxZ)
- - ⏩ [50 Shades of Grey 4: Demoralized Homemaker](http://9gag.com/gag/abgmzxp)
- - 👉 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)<!-- MEMES:END -->
+ - 💣 [Does this mean, shit&#39;s on fire, yo!](http://9gag.com/gag/aOQNB6M)
+ - ⏩ [I just hope for a reply](http://9gag.com/gag/aXrGxNg)
+ - 👉 [Always does that](http://9gag.com/gag/a613VYm)<!-- MEMES:END -->
 
 ---
 
