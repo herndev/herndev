@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Art of War](http://9gag.com/gag/aBnNgVN)
- - ⏩ [Aw. What an adorable floppy sea spider, would make great content for my friends at home.](http://9gag.com/gag/aYrnyK0)
- - 👉 [Citroen suspension](http://9gag.com/gag/ay9Vez8)<!-- MEMES:END -->
+ - 💣 [Aw. What an adorable floppy sea spider, would make great content for my friends at home.](http://9gag.com/gag/aYrnyK0)
+ - ⏩ [Spiderman sense](http://9gag.com/gag/a11qRB2)
+ - 👉 [Florida Police Arrested A 10-Year-Old For Threatening To Shoot Up His Elementary School](http://9gag.com/gag/a11qWDP)<!-- MEMES:END -->
 
 ---
 
