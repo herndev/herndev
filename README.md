@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: You think Samsung flagships should only use Snapdragon power](https://www.androidauthority.com/samsung-flagships-snapdragon-processor-poll-results-3170607/)
  - [Spain-based CoverManager, which helps restaurants manage table reservations, raises &amp;euro;35M at a &amp;euro;150M valuation &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220530/p3#a220530p3)
- - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)
- - [Samsung Galaxy Z Fold 4 specs leak: An incremental upgrade?](https://www.androidauthority.com/samsung-galaxy-z-fold-4-specs-3169968/)<!-- TECH:END -->
+ - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
