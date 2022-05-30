@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 of Hot Ones’ best and spiciest interviews](https://www.polygon.com/23068909/hot-ones-best-interviews-list)
- - [Cute indie games keep trying to make me cry, and I choose to blame Pixar](https://www.pcgamer.com/cute-indie-games-keep-trying-to-make-me-cry-and-i-choose-to-blame-pixar)
- - [They&#39;re doing a Lego kit of Star Wars Jedi: Fallen Order droid BD-1](https://www.pcgamer.com/theyre-doing-a-lego-kit-of-star-wars-jedi-fallen-order-droid-bd-1)<!-- GAME:END -->
+ - [15 Fantastic Hidden Gem Indie Games You&#39;ll Wishlist So Hard](https://kotaku.com/steam-pc-indie-games-demo-ice-hockey-incision-solara-bi-1848993820)
+ - [Diablo Immortal won&#39;t be released in Belgium or the Netherlands because of loot boxes](https://www.pcgamer.com/diablo-immortal-wont-be-released-in-belgium-or-the-netherlands-because-of-loot-boxes)
+ - [After a year of silence, Blizzard president says Warcraft 3: Reforged info is coming &#39;soon&#39;](https://www.pcgamer.com/after-a-year-of-silence-blizzard-president-says-warcraft-3-reforged-info-is-coming-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
