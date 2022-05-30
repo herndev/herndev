@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Get up to 29% off Bose true wireless earbuds, including ones with ANC](https://www.androidauthority.com/bose-deals-may-2022-3170908/)
  - [How to identify plants and flowers with your iPhone camera](https://appleinsider.com/articles/22/05/30/how-to-identify-plants-and-flowers-with-your-iphone-camera?utm_medium=rss)
- - [Google Pixel 7 prototype briefly listed on eBay, here’s what it looks like](https://www.androidauthority.com/google-pixel-7-prototype-3170876/)
- - [The 40 Best Memorial Day Deals on Tech, Gaming, Home, and More](https://www.wired.com/story/best-memorial-day-sales-2022-3)<!-- TECH:END -->
+ - [Xiaomi Mi Band 7 Pro leaks: A souped-up version on the way?](https://www.androidauthority.com/xiaomi-mi-band-7-pro-3170917/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
