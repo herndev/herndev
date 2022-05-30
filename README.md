@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Fantastic Hidden Gem Indie Games You&#39;ll Wishlist So Hard](https://kotaku.com/steam-pc-indie-games-demo-ice-hockey-incision-solara-bi-1848993820)
- - [Diablo Immortal won&#39;t be released in Belgium or the Netherlands because of loot boxes](https://www.pcgamer.com/diablo-immortal-wont-be-released-in-belgium-or-the-netherlands-because-of-loot-boxes)
- - [After a year of silence, Blizzard president says Warcraft 3: Reforged info is coming &#39;soon&#39;](https://www.pcgamer.com/after-a-year-of-silence-blizzard-president-says-warcraft-3-reforged-info-is-coming-soon)<!-- GAME:END -->
+ - [V Rising developers talk about the &#39;journey&#39; to full release](https://www.pcgamer.com/v-rising-developers-talk-about-the-journey-to-full-release)
+ - [Valorant&#39;s &#39;consecutive map streaks&#39; problem is finally fixed, Riot says](https://www.pcgamer.com/valorants-consecutive-map-streaks-problem-is-finally-fixed-riot-says)
+ - [15 Fantastic Hidden Gem Indie Games You&#39;ll Wishlist So Hard](https://kotaku.com/steam-pc-indie-games-demo-ice-hockey-incision-solara-bi-1848993820)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
