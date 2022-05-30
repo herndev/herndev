@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Art of War](http://9gag.com/gag/aBnNgVN)
- - ⏩ [Sad life](http://9gag.com/gag/arnroed)
- - 👉 [I think we all do.](http://9gag.com/gag/adg4LWB)<!-- MEMES:END -->
+ - 💣 [Or not, I am not your boss.](http://9gag.com/gag/axBnzoM)
+ - ⏩ [I think we all do.](http://9gag.com/gag/adg4LWB)
+ - 👉 [Decided to get my gf a little present. But somehow I triggerd it after wrapping it.](http://9gag.com/gag/arnropd)<!-- MEMES:END -->
 
 ---
 
