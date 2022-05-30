@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup, well I do feel old](http://9gag.com/gag/aNP2Ap0)
- - ⏩ [As a kid I always wanted to be a pilot. After 33 years and using my own money, I finally completed my first solo flight!](http://9gag.com/gag/a31pqQr)
- - 👉 [`Starship Troopers` - 1997](http://9gag.com/gag/aqGprXj)<!-- MEMES:END -->
+ - 💣 [Sanna Marin](http://9gag.com/gag/adg47bN)
+ - ⏩ [ZAMUNDA](http://9gag.com/gag/aAGNwmR)
+ - 👉 [Ah yes the sex](http://9gag.com/gag/aVx1qpK)<!-- MEMES:END -->
 
 ---
 
