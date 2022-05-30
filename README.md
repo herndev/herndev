@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ireland-based TransferMate, a B2B payments infrastructure company, raises $70M at a $1B valuation, bringing its total funding to $130M &lpar;Will Goodbody/RT&amp;Eacute;&rpar;](http://www.techmeme.com/220530/p9#a220530p9)
- - [A federal judge rules Cydia&#39;s antitrust lawsuit against Apple can proceed, rejecting Apple&#39;s claim that the allegations are outside the statute of limitations &lpar;Mike Scarcella/Reuters&rpar;](http://www.techmeme.com/220530/p8#a220530p8)
- - [BMW&#39;s Slick E-Motorbike Is Scary Fast](https://www.wired.com/review/bmw-ce-04)<!-- TECH:END -->
+ - [How to FaceTime on Android or Windows](https://www.androidauthority.com/facetime-android-windows-3170759/)
+ - [Dubai-based ride sharing service Swvl plans to cut 32% of its workforce, or around 400 people, after going public via SPAC on April 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220530/p11#a220530p11)
+ - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
