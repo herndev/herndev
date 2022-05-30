@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sanna Marin](http://9gag.com/gag/adg47bN)
- - ⏩ [ZAMUNDA](http://9gag.com/gag/aAGNwmR)
+ - 💣 [One in a million shot](http://9gag.com/gag/aE8NBPG)
+ - ⏩ [That&#39;s what I thought](http://9gag.com/gag/a31p7K1)
  - 👉 [Ah yes the sex](http://9gag.com/gag/aVx1qpK)<!-- MEMES:END -->
 
 ---
