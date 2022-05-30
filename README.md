@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hulu: All the TV Shows and Movies Coming in June 2022     - CNET](https://www.cnet.com/culture/entertainment/hulu-all-the-tv-shows-and-movies-coming-in-june-2022/#ftag=CAD590a51e)
- - [Indonesia-based Astro, which offers 15-minute grocery delivery, raises a $60M Series B led by Accel, Citius, and Tiger Global, bringing its total raised to $90M &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220529/p8#a220529p8)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Berlin-based B2B buy now, pay later startup Mondu raises a $43M Series A led by Peter Thiel&#39;s Valar Ventures, bringing its total funding to $57M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/220530/p2#a220530p2)
+ - [Kuo says that TSMC&#39;s roadmap from 2021 suggests this year&#39;s iPhone &quot;A16&quot; chip will stick to a 5nm process and new Macs later this year will also have a 5nm CPU &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220530/p1#a220530p1)
+ - [HTC is readying a ‘metaverse’ phone &lpar;Updated: Delayed&rpar;](https://www.androidauthority.com/htc-metaverse-phone-3125838/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
