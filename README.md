@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You think Samsung flagships should only use Snapdragon power](https://www.androidauthority.com/samsung-flagships-snapdragon-processor-poll-results-3170607/)
- - [Spain-based CoverManager, which helps restaurants manage table reservations, raises &amp;euro;35M at a &amp;euro;150M valuation &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220530/p3#a220530p3)
- - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated: May 30&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)<!-- TECH:END -->
+ - [What’s new on Disney Plus in June 2022: Ms. Marvel, Baymax, and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)
+ - [Apple’s RealityOS for rumored headset appears in trademark application](https://www.theverge.com/2022/5/30/23147213/realityos-os-ros-trademark-apple-virtual-augmented-reality-headset)
+ - [How to get rid of a virus on a computer](https://www.androidauthority.com/get-rid-virus-computer-3168973/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
