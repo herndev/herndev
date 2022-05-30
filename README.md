@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to FaceTime on Android or Windows](https://www.androidauthority.com/facetime-android-windows-3170759/)
- - [Dubai-based ride sharing service Swvl plans to cut 32% of its workforce, or around 400 people, after going public via SPAC on April 1 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220530/p11#a220530p11)
- - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Do you have notification history enabled on your phone?](https://www.androidauthority.com/notification-history-poll-3170767/)
+ - [Developers suspect that China has forced Gitee, the Chinese equivalent to GitHub, to censor open-source code, a move that harms trust and the quality of code &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220530/p12#a220530p12)
+ - [Pitaka&#39;s new MagEZ Case Pro brings wireless charging to iPad mini 6](https://appleinsider.com/articles/22/05/30/pitakas-new-magez-case-pro-brings-wireless-charging-to-ipad-mini-6?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
