@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Citroen suspension](http://9gag.com/gag/ay9Vez8)
- - ⏩ [I see your Finnish prime minister and I raise you Jetsun Pema, the queen of Bhutan](http://9gag.com/gag/aZrVymn)
- - 👉 [Raka raka taka taka taka](http://9gag.com/gag/aogqMAn)<!-- MEMES:END -->
+ - 💣 [Just turned 25 today. Still have no fcking Idea what to do with my life. Hope ya&#39;ll doing great guys.](http://9gag.com/gag/a716wX2)
+ - ⏩ [Lettuce never forget the sacrifices of these brave men.](http://9gag.com/gag/aOQN79N)
+ - 👉 [A well deserved award if you ask me!](http://9gag.com/gag/amgbgrj)<!-- MEMES:END -->
 
 ---
 
