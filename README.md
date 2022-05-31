@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who could have known?!](http://9gag.com/gag/aqGpeVR)
- - ⏩ [What a happy song](http://9gag.com/gag/avAXAe5)
- - 👉 [I&#39;m now a pram](http://9gag.com/gag/aNP2PjG)<!-- MEMES:END -->
+ - 💣 [WTF karl](http://9gag.com/gag/a21jKeO)
+ - ⏩ [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)
+ - 👉 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
 
 ---
 
