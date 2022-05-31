@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony PlayStation VR 2: Everything we know and what we want to see](https://www.androidauthority.com/playstation-vr-2-3171265/)
- - [Apple issues second developer beta of macOS Monterey 12.5](https://appleinsider.com/articles/22/05/31/apple-issues-second-developer-beta-of-macos-monterey-125?utm_medium=rss)
- - [Apple seeds second developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/31/apple-seeds-second-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)<!-- TECH:END -->
+ - [How iOS customization has evolved over time](https://appleinsider.com/articles/22/05/31/how-ios-customization-has-evolved-over-time?utm_medium=rss)
+ - [The US has fallen way behind on climate goals](https://www.theverge.com/2022/5/31/23148540/us-behind-climate-change-goals-global-ranking)
+ - [After Uvalde, social media monitoring apps struggle to justify surveillance](https://www.theverge.com/2022/5/31/23148541/digital-surveillance-school-shootings-social-sentinel-uvalde)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
