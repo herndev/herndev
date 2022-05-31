@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uploaded from GT 720M](http://9gag.com/gag/aAGNyNo)
- - ⏩ [Kid learned something today](http://9gag.com/gag/a91Nq5Z)
- - 👉 [Otters messing with a homeless](http://9gag.com/gag/a91NyAm)<!-- MEMES:END -->
+ - 💣 [Kid learned something today](http://9gag.com/gag/a91Nq5Z)
+ - ⏩ [`The world was my playground`](http://9gag.com/gag/angWz40)
+ - 👉 [Footage from the Mariana Trench. 10,792 meters &lpar;36,000 feet&rpar; below the ocean surface.](http://9gag.com/gag/a91NqA1)<!-- MEMES:END -->
 
 ---
 
