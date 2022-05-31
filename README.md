@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Latest Sims 4 Update Tries To Reckon With Its History Of Whitewashing](https://kotaku.com/sims-4-bella-goth-family-may-update-whitewashing-skin-c-1848996001)
- - [Destiny 2: Season of the Haunted Begins](https://news.xbox.com/en-us/2022/05/31/destiny-2-season-of-the-haunted-begins/)
- - [The Best Assassin’s Creed Game Is Coming To Game Pass](https://kotaku.com/xbox-game-pass-june-2022-lineup-assassins-creed-origins-1848996042)<!-- GAME:END -->
+ - [A super-fast rundown of what happened in The Boys season 2](https://www.polygon.com/23144737/the-boys-season-2-finale-recap-amazon-prime-video)
+ - [This itty bitty toaster is the perfect place to store your SD cards](https://www.pcgamer.com/this-itty-bitty-toaster-is-the-perfect-place-to-store-your-sd-cards)
+ - [Diablo Immortal Won’t Launch In Some Countries Due To Loot Box Laws](https://kotaku.com/diablo-immortal-loot-boxes-crates-laws-release-belgium-1848996451)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
