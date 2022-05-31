@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vendia, a blockchain-based multi-cloud enterprise data sharing service, raises a $30M Series B led by NewView Capital, bringing its total funding to $50M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220531/p9#a220531p9)
- - [Compared: Safari vs. Chrome vs. Firefox vs. Edge on macOS in 2022](https://appleinsider.com/inside/safari/vs/compared-safari-vs-chrome-vs-firefox-vs-edge-on-macos-in-2022?utm_medium=rss)
- - [The best Memorial Day deals you can still get](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
+ - [Safari has 1B users around the world, still lags far behind Chrome&#39;s market share](https://appleinsider.com/articles/22/05/31/safari-has-1b-users-around-the-world-still-lags-far-behind-chromes-market-share?utm_medium=rss)
+ - [Sony’s XM4 noise-canceling headphones are almost $100 off at Woot](https://www.theverge.com/good-deals/2022/5/31/23148260/sony-wh-1000-xm4-noise-canceling-headphones-apple-magsafe-switch-sale)
+ - [A once-in-a-lifetime bird](https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
