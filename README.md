@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A federal judge rules IBM must pay $1.6B to BMC for swapping to its own software while servicing a mutual client, AT&amp;T, violating a deal between IBM and BMC &lpar;Laurel Brubaker Calkins/Bloomberg&rpar;](http://www.techmeme.com/220531/p12#a220531p12)
- - [7 MacBook Pro 14-inch, 16-inch models &lpar;including M1 Max configs&rpar; are in stock with free expedited delivery](https://appleinsider.com/articles/22/05/31/7-macbook-pro-14-inch-16-inch-models-including-m1-max-configs-are-in-stock-with-free-expedited-delivery?utm_medium=rss)
- - [Affirm partners with Stripe to bring BNPL services to businesses that use Stripe, following Affirm&#39;s recent partnerships with Shopify, WooCommerce, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220531/p11#a220531p11)<!-- TECH:END -->
+ - [Sony PlayStation VR 2: Everything we know and what we want to see](https://www.androidauthority.com/playstation-vr-2-3171265/)
+ - [Apple issues second developer beta of macOS Monterey 12.5](https://appleinsider.com/articles/22/05/31/apple-issues-second-developer-beta-of-macos-monterey-125?utm_medium=rss)
+ - [Apple seeds second developer betas for iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/05/31/apple-seeds-second-developer-betas-for-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
