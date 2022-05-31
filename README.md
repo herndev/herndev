@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your name in Apex Legends Mobile](https://www.androidauthority.com/change-name-apex-legends-mobile-3170466/)
- - [Samsung Galaxy S21 series now getting June 2022 security update in some markets](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [A profile of Paramount three years into its streaming shift, an underdog choosing to continue alone as Netflix and Disney dominate and other streamers cut deals &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/220531/p2#a220531p2)<!-- TECH:END -->
+ - [Microsoft’s Surface Laptop Go successor leaks via retailer](https://www.theverge.com/2022/5/31/23148178/microsoft-surface-laptop-go-2-korean-retailer-leak)
+ - [How to use Samsung Expert RAW to up your photography game](https://www.androidauthority.com/how-to-use-samsung-expert-raw-3170310/)
+ - [The Multifarious Multiplexity of Taika Waititi](https://www.wired.com/story/multifarious-multiplexity-taika-waititi)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
