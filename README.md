@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Paramount three years into its streaming shift, an underdog choosing to continue alone as Netflix and Disney dominate and other streamers cut deals &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/220531/p2#a220531p2)
- - [Trucking simulator shelves Russia-themed expansion after Ukraine invasion](https://www.theverge.com/2022/5/31/23148156/euro-truck-simulator-heart-of-russia-dlc-cancelled-ukraine-invasion)
- - [Microsoft Office for Mac lifetime license is still on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)<!-- TECH:END -->
+ - [How to change your name in Apex Legends Mobile](https://www.androidauthority.com/change-name-apex-legends-mobile-3170466/)
+ - [Samsung Galaxy S21 series now getting June 2022 security update in some markets](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [A profile of Paramount three years into its streaming shift, an underdog choosing to continue alone as Netflix and Disney dominate and other streamers cut deals &lpar;Benjamin Mullin/New York Times&rpar;](http://www.techmeme.com/220531/p2#a220531p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
