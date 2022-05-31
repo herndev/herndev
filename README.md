@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Absolute Best Games to Play on the Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/the-absolute-best-games-to-play-on-the-xbox-series-x/#ftag=CAD590a51e)
  - [London-based Florence, a marketplace that connects vacant care home shifts to local nurses and carers looking for extra work in the UK, raises a $35M Series B &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220530/p17#a220530p17)
- - [Astronomers Unexpectedly Capture &#39;Great Dimming&#39; of Supergiant Star Betelgeuse     - CNET](https://www.cnet.com/science/space/astronomers-unexpectedly-capture-great-dimming-of-supergiant-star-betelgeuse/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-see-on-prime-video-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astronomers Unexpectedly Capture &#39;Great Dimming&#39; of Supergiant Star Betelgeuse     - CNET](https://www.cnet.com/science/space/astronomers-unexpectedly-capture-great-dimming-of-supergiant-star-betelgeuse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
