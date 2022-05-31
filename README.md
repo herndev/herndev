@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Our house ... in the middle of the street ...](http://9gag.com/gag/aogqKox)
- - ⏩ [Australian influencers be like](http://9gag.com/gag/aGzNz27)
- - 👉 [His sacrifice will be never forgotten](http://9gag.com/gag/a21j1v9)<!-- MEMES:END -->
+ - 💣 [Who could have known?!](http://9gag.com/gag/aqGpeVR)
+ - ⏩ [What a happy song](http://9gag.com/gag/avAXAe5)
+ - 👉 [I&#39;m now a pram](http://9gag.com/gag/aNP2PjG)<!-- MEMES:END -->
 
 ---
 
