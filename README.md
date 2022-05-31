@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Lol](http://9gag.com/gag/a7161WA)
- - ⏩ [Raka raka taka taka taka](http://9gag.com/gag/aogqMAn)
- - 👉 [This attitude needs to be more common](http://9gag.com/gag/amgbPMo)<!-- MEMES:END -->
+ - ⏩ [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
+ - 👉 [Australian influencers be like](http://9gag.com/gag/aGzNz27)<!-- MEMES:END -->
 
 ---
 
