@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blood oxygen monitors miss concerning COVID-19 symptoms more often in patients of color](https://www.theverge.com/2022/5/31/23148251/blood-oxygen-racial-bias-covid-treatment-pulse-oximeter)
- - [Razer’s Barracuda Pro is its latest do-it-all gaming headset](https://www.theverge.com/2022/5/31/23148364/razer-barracuda-pro-wireless-bluetooth-headset-headphones-specs-price)
- - [Dell&#39;s new 32-inch 4K Conferencing Monitor also has a 4K webcam](https://appleinsider.com/articles/22/05/31/dells-new-32-inch-4k-conferencing-monitor-also-has-a-4k-webcam?utm_medium=rss)<!-- TECH:END -->
+ - [A federal judge rules IBM must pay $1.6B to BMC for swapping to its own software while servicing a mutual client, AT&amp;T, violating a deal between IBM and BMC &lpar;Laurel Brubaker Calkins/Bloomberg&rpar;](http://www.techmeme.com/220531/p12#a220531p12)
+ - [7 MacBook Pro 14-inch, 16-inch models &lpar;including M1 Max configs&rpar; are in stock with free expedited delivery](https://appleinsider.com/articles/22/05/31/7-macbook-pro-14-inch-16-inch-models-including-m1-max-configs-are-in-stock-with-free-expedited-delivery?utm_medium=rss)
+ - [Affirm partners with Stripe to bring BNPL services to businesses that use Stripe, following Affirm&#39;s recent partnerships with Shopify, WooCommerce, and others &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220531/p11#a220531p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
