@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s leather Siri Remote case comes with a discreet AirTag pocket](https://www.theverge.com/2022/5/31/23148266/siri-remote-case-leather-airtag-pocket-nomad-apple-tv)
- - [Strawberries Linked to Hepatitis: How to Tell if Your Berries Are Safe to Eat     - CNET](https://www.cnet.com/health/nutrition/strawberries-linked-to-hepatitis-how-to-tell-if-your-berries-are-safe-to-eat/#ftag=CAD590a51e)
- - [Menlo Microsystems, which aims to make circuit breakers and electrical switches far more efficient, raises $150M, bringing its total raised to $225M &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220531/p14#a220531p14)<!-- TECH:END -->
+ - [Apple hid AR trading card booster packs in the WWDC event page](https://appleinsider.com/articles/22/05/31/apple-hid-ar-trading-card-booster-packs-in-the-wwdc-event-page?utm_medium=rss)
+ - [Apple announces finalists for the 2022 Apple Design Awards](https://appleinsider.com/articles/22/05/31/apple-announces-the-finalists-for-its-2022-apple-design-awards?utm_medium=rss)
+ - [Apple earned the third-most gaming revenue in 2021, outpacing Microsoft &amp; Nintendo](https://appleinsider.com/articles/22/05/31/apple-earner-the-third-most-gaming-revenue-in-2021-outpacing-microsoft-nintendo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
