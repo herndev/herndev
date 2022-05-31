@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [MSI is set to introduce affordable 12th Gen BCLK overclocking](https://www.pcgamer.com/msi-is-set-to-introduce-affordable-12th-gen-bclk-overclocking)
  - [Elden Ring Gets &#39;Seamless&#39; Co-op With New Mod](https://kotaku.com/elden-ring-co-op-mod-multiplayer-fromsoftware-miyazaki-1848994411)
- - [New Ni No Kuni Game Is Absolutely Rotten With Crypto Garbage](https://kotaku.com/ni-no-kuni-studio-ghibli-cryptocurrency-crypto-nft-scam-1848994266)
- - [Iron Harvest, the 1920s mech RTS, is getting a free &#39;World Map Campaign&#39; update](https://www.pcgamer.com/iron-harvest-the-1920s-mech-rts-is-getting-a-free-world-map-campaign-update)<!-- GAME:END -->
+ - [New Ni No Kuni Game Is Absolutely Rotten With Crypto Garbage](https://kotaku.com/ni-no-kuni-studio-ghibli-cryptocurrency-crypto-nft-scam-1848994266)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
