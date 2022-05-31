@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say no more](http://9gag.com/gag/a41rnEw)
- - ⏩ [Staying safe](http://9gag.com/gag/ajgM7BG)
- - 👉 [Noice](http://9gag.com/gag/aAGNy4p)<!-- MEMES:END -->
+ - 💣 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
+ - ⏩ [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)
+ - 👉 [Garda vs Garden](http://9gag.com/gag/aAGNQY9)<!-- MEMES:END -->
 
 ---
 
