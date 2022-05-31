@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Announces Ice Age DLC Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/31/minecraft-announces-ice-age-dlc-now-available-in-the-minecraft-marketplace/)
- - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)
- - [First Manga Worker Union Forms Amid Alleged Union Busting](https://kotaku.com/seven-seas-entertainment-manga-union-united-workers-in-1848996599)<!-- GAME:END -->
+ - [Get Your Halo Post-Show Fix with a Universe of Games, Books, and More](https://news.xbox.com/en-us/2022/05/31/get-your-halo-post-show-fix-with-a-universe-of-games-books-and-more/)
+ - [Sonic Frontiers Clip Gets Breath Of The Wild Trending On Twitter Again](https://kotaku.com/sonic-frontiers-zelda-breath-of-the-wild-botw-sega-open-1848997865)
+ - [Toronto comics festival boots NFT artist after intense backlash: ‘We made a mistake’](https://www.polygon.com/2022/5/31/23148751/toronto-tcaf-pink-cat-nft-controversy-social-media-artists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
