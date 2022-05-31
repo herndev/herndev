@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s Surface Laptop Go successor leaks via retailer](https://www.theverge.com/2022/5/31/23148178/microsoft-surface-laptop-go-2-korean-retailer-leak)
- - [How to use Samsung Expert RAW to up your photography game](https://www.androidauthority.com/how-to-use-samsung-expert-raw-3170310/)
- - [The Multifarious Multiplexity of Taika Waititi](https://www.wired.com/story/multifarious-multiplexity-taika-waititi)<!-- TECH:END -->
+ - [Kuo: Sony will begin mass producing its PSVR 2 headset in H2 2022 ahead of a possible launch in Q1 2023, depending on the state of flagship game titles &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220531/p4#a220531p4)
+ - [Apple’s Conversation Boost Works, but It Makes Things Awkward](https://www.wired.com/story/apple-conversation-boost)
+ - [As Bitcoin Falters, Crypto Miners Brace for a Crash](https://www.wired.com/story/bitcoin-mining-crisis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
