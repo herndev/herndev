@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Spotify gift cards](https://www.androidauthority.com/spotify-gift-cards-3077602/)
- - [&#39;Obi-Wan Kenobi&#39; Episode 1 and 2 Recap: Easter Eggs You Might Have Missed     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-1-and-2-recap-easter-eggs-you-might-have-missed/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: When does Episode 3 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-3-drop-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to create collaborative playlists on Spotify](https://www.androidauthority.com/make-collaborative-playlist-spotify-3075035/)
+ - [How to add music to your Instagram story](https://www.androidauthority.com/add-spotify-music-instagram-3076413/)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-to-stream-on-hbo-max-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
