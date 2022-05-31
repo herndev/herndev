@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for June 2022](https://news.xbox.com/en-us/2022/05/31/new-games-with-gold-for-june-2022/)
- - [AMD&#39;s budget laptop chip might not be game-ready on its own](https://www.pcgamer.com/amds-budget-laptop-chip-might-not-be-game-ready-on-its-own)
- - [Stranger Things finally makes room for girlhood nostalgia — kinda](https://www.polygon.com/stranger-things/23143112/stranger-things-girlhood-nostalgia-80s-essay-max-erica-season-4)<!-- GAME:END -->
+ - [The Latest Sims 4 Update Tries To Reckon With Its History Of Whitewashing](https://kotaku.com/sims-4-bella-goth-family-may-update-whitewashing-skin-c-1848996001)
+ - [Destiny 2: Season of the Haunted Begins](https://news.xbox.com/en-us/2022/05/31/destiny-2-season-of-the-haunted-begins/)
+ - [The Best Assassin’s Creed Game Is Coming To Game Pass](https://kotaku.com/xbox-game-pass-june-2022-lineup-assassins-creed-origins-1848996042)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
