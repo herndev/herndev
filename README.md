@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn captions on or off on Instagram](https://www.androidauthority.com/video-captions-instagram-3171375/)
- - [The push-button ignition was a luxurious way to start your car until it wasn’t](https://www.theverge.com/2022/5/31/23144907/push-button-start-ignition-cars-convenience-history)
- - [Sources: the FTC has revamped its Amazon antitrust probe, shaking up the investigative team, re-interviewing potential witnesses, and asking about the MGM deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220531/p20#a220531p20)<!-- TECH:END -->
+ - [How to add songs to a playlist on Spotify](https://www.androidauthority.com/how-to-add-songs-spotify-playlist-3075074/)
+ - [Best Debit Cards for Kids and Teens: Greenlight, Step, BusyKid and More     - CNET](https://www.cnet.com/personal-finance/credit-cards/debit-cards-for-kids-and-teens/#ftag=CAD590a51e)
+ - [2023 BMW X1 Arrives With More Technology, Starts Under $40,000     - CNET](https://www.cnet.com/roadshow/news/2023-bmw-x1-crossover-suv-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
