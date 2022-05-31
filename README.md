@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus Nord 2 makes the cut for stable Android 12](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)
- - [NASA Mars Helicopter Delivers Epic View of the Red Planet During Record Flight     - CNET](https://www.cnet.com/science/space/nasa-mars-helicopter-delivers-epic-view-of-the-red-planet-during-record-flight/#ftag=CAD590a51e)
- - [The Absolute Best Games to Play on the Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/the-absolute-best-games-to-play-on-the-xbox-series-x/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Galaxy Watch 4 having issues because of Google Assistant? Here’s what you can do](https://www.androidauthority.com/samsung-galaxy-watch-4-google-assistant-issues-fix-3171069/)
+ - [How musicians like Weezer frontman Rivers Cuomo use Discord: artists share ideas, host parties, and engage with fans, who help with moderation and other tasks &lpar;Cat Zhang/Pitchfork&rpar;](http://www.techmeme.com/220531/p1#a220531p1)
+ - [OnePlus Nord 2 makes the cut for stable Android 12](https://www.androidauthority.com/oneplus-nord-2-updates-1648431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
