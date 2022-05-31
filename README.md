@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PS5 shortages to ease up and sales to overtake PS4 by 2024, Sony says](https://www.pcgamer.com/ps5-shortages-to-ease-up-and-sales-to-overtake-ps4-by-2024-sony-says)
  - [MSI is set to introduce affordable 12th Gen BCLK overclocking](https://www.pcgamer.com/msi-is-set-to-introduce-affordable-12th-gen-bclk-overclocking)
- - [Elden Ring Gets &#39;Seamless&#39; Co-op With New Mod](https://kotaku.com/elden-ring-co-op-mod-multiplayer-fromsoftware-miyazaki-1848994411)
- - [New Ni No Kuni Game Is Absolutely Rotten With Crypto Garbage](https://kotaku.com/ni-no-kuni-studio-ghibli-cryptocurrency-crypto-nft-scam-1848994266)<!-- GAME:END -->
+ - [Elden Ring Gets &#39;Seamless&#39; Co-op With New Mod](https://kotaku.com/elden-ring-co-op-mod-multiplayer-fromsoftware-miyazaki-1848994411)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
