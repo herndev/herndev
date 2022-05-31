@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Garda vs Garden](http://9gag.com/gag/aAGNQY9)
- - ⏩ [Boss level 100](http://9gag.com/gag/a81X721)
- - 👉 [Who was there? 100 years ago](http://9gag.com/gag/a91NyMZ)<!-- MEMES:END -->
+ - 💣 [Boss level 100](http://9gag.com/gag/a81X721)
+ - ⏩ [A man jumps from a quad to catch an escaped bull &lpar;South of France&rpar;](http://9gag.com/gag/angWzdz)
+ - 👉 [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)<!-- MEMES:END -->
 
 ---
 
