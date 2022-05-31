@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a CFTC meeting, agricultural groups criticized FTX CEO Sam Bankman-Fried&#39;s plan for automated risk management and 24/7 trading in leveraged futures markets &lpar;Gary Silverman/Financial Times&rpar;](http://www.techmeme.com/220531/p8#a220531p8)
- - [Everything we know about the redesigned MacBook Air with M2 processor](https://appleinsider.com/articles/22/01/07/everything-we-know-about-the-redesigned-macbook-air-with-m2-processor?utm_medium=rss)
- - [Israel-based Seemplicity, which simplifies enterprise security threat monitoring, raises a $26M Series A and $6M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220531/p7#a220531p7)<!-- TECH:END -->
+ - [Vendia, a blockchain-based multi-cloud enterprise data sharing service, raises a $30M Series B led by NewView Capital, bringing its total funding to $50M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220531/p9#a220531p9)
+ - [Compared: Safari vs. Chrome vs. Firefox vs. Edge on macOS in 2022](https://appleinsider.com/inside/safari/vs/compared-safari-vs-chrome-vs-firefox-vs-edge-on-macos-in-2022?utm_medium=rss)
+ - [The best Memorial Day deals you can still get](https://www.theverge.com/good-deals/23131413/best-memorial-day-sales-2022-tech-deals-gadgets-tvs-headphones-speakers-phones-outdoors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
