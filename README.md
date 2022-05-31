@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
- - [Modder brings Super Mario 64&#39;s timeless platforming to Garry&#39;s Mod](https://www.pcgamer.com/modder-brings-super-mario-64s-timeless-platforming-to-garrys-mod)
- - [The best World of Warcraft addons to use in 2022](https://www.pcgamer.com/wow-addons)<!-- GAME:END -->
+ - [Stardew Valley players are arranging Green Day and more with flute blocks](https://www.polygon.com/23141975/stardew-valley-green-day-megalovania-pokemon-flute-blocks)
+ - [France bans English gamer slang in favour of much wordier French alternatives](https://www.pcgamer.com/france-bans-english-gamer-slang-in-favour-of-much-wordier-french-alternatives)
+ - [Halt the Nazi war machine with these Sniper Elite 5 tips](https://www.pcgamer.com/sniper-elite-5-tips-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
