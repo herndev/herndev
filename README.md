@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First Manga Worker Union Forms Amid Alleged Union Busting](https://kotaku.com/seven-seas-entertainment-manga-union-united-workers-in-1848996599)
- - [Experience Life on the Footplate with Spirit of Steam for Train Sim World 2](https://news.xbox.com/en-us/2022/05/31/experience-life-on-the-footplate-with-spirit-of-steam-for-train-sim-world-2/)
- - [These classic point-and-click adventures just got updated 25 years later](https://www.pcgamer.com/these-classic-point-and-click-adventures-just-got-updated-25-years-later)<!-- GAME:END -->
+ - [Minecraft Announces Ice Age DLC Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/05/31/minecraft-announces-ice-age-dlc-now-available-in-the-minecraft-marketplace/)
+ - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)
+ - [First Manga Worker Union Forms Amid Alleged Union Busting](https://kotaku.com/seven-seas-entertainment-manga-union-united-workers-in-1848996599)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
