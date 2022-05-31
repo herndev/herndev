@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pinocchio comes to life on Disney Plus this September](https://www.polygon.com/23148327/pinocchio-disney-plus-trailer-release-date)
  - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)
- - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)
- - [The best builds for Yelan in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-yelan-build-banner)<!-- GAME:END -->
+ - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
