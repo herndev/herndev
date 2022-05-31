@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Safari has 1B users around the world, still lags far behind Chrome&#39;s market share](https://appleinsider.com/articles/22/05/31/safari-has-1b-users-around-the-world-still-lags-far-behind-chromes-market-share?utm_medium=rss)
- - [Sony’s XM4 noise-canceling headphones are almost $100 off at Woot](https://www.theverge.com/good-deals/2022/5/31/23148260/sony-wh-1000-xm4-noise-canceling-headphones-apple-magsafe-switch-sale)
- - [A once-in-a-lifetime bird](https://www.theverge.com/c/23138305/ebird-cornell-lab-birding-climate-change-research)<!-- TECH:END -->
+ - [Blood oxygen monitors miss concerning COVID-19 symptoms more often in patients of color](https://www.theverge.com/2022/5/31/23148251/blood-oxygen-racial-bias-covid-treatment-pulse-oximeter)
+ - [Razer’s Barracuda Pro is its latest do-it-all gaming headset](https://www.theverge.com/2022/5/31/23148364/razer-barracuda-pro-wireless-bluetooth-headset-headphones-specs-price)
+ - [Dell&#39;s new 32-inch 4K Conferencing Monitor also has a 4K webcam](https://appleinsider.com/articles/22/05/31/dells-new-32-inch-4k-conferencing-monitor-also-has-a-4k-webcam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
