@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get Your Halo Post-Show Fix with a Universe of Games, Books, and More](https://news.xbox.com/en-us/2022/05/31/get-your-halo-post-show-fix-with-a-universe-of-games-books-and-more/)
- - [Sonic Frontiers Clip Gets Breath Of The Wild Trending On Twitter Again](https://kotaku.com/sonic-frontiers-zelda-breath-of-the-wild-botw-sega-open-1848997865)
- - [Toronto comics festival boots NFT artist after intense backlash: ‘We made a mistake’](https://www.polygon.com/2022/5/31/23148751/toronto-tcaf-pink-cat-nft-controversy-social-media-artists)<!-- GAME:END -->
+ - [Respawn Boss Vince Zampella Speaks Out On Trans Rights, Even As EA Refuses](https://kotaku.com/ea-trans-rights-star-wars-jedi-survive-apex-legends-res-1848998351)
+ - [Star Wars fans’ favorite character, Glup Shitto, is back in the spotlight](https://www.polygon.com/2020/12/18/22189448/who-is-glup-shitto-explained-star-wars-joke-meme)
+ - [Steam Breakout V Rising Is A Stellar Survival RPG](https://kotaku.com/v-rising-vampire-steam-rpg-survival-review-impressions-1848998225)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
