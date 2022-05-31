@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 7 takes over Virtua Fighter 5 in new collaboration DLC](https://www.polygon.com/23148430/virtua-fighter-5-tekken-7-skins-dlc-collaboration)
- - [Coming to Xbox Game Pass: Assassin’s Creed Origins, For Honor: Marching Fire Edition, and More](https://news.xbox.com/en-us/2022/05/31/game-pass-june-2022-announce/)
- - [Hard West 2 blends strategy and style together seamlessly in a cowboy caper](https://www.polygon.com/23144371/hard-west-2-beta-steam-gameplay-characters-art-preview)<!-- GAME:END -->
+ - [New Games with Gold for June 2022](https://news.xbox.com/en-us/2022/05/31/new-games-with-gold-for-june-2022/)
+ - [AMD&#39;s budget laptop chip might not be game-ready on its own](https://www.pcgamer.com/amds-budget-laptop-chip-might-not-be-game-ready-on-its-own)
+ - [Stranger Things finally makes room for girlhood nostalgia — kinda](https://www.polygon.com/stranger-things/23143112/stranger-things-girlhood-nostalgia-80s-essay-max-erica-season-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
