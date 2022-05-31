@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pinocchio comes to life on Disney Plus this September](https://www.polygon.com/23148327/pinocchio-disney-plus-trailer-release-date)
- - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)
- - [How to use Great Runes in Elden Ring](https://www.pcgamer.com/how-to-use-elden-ring-great-rune-arc)<!-- GAME:END -->
+ - [Tekken 7 takes over Virtua Fighter 5 in new collaboration DLC](https://www.polygon.com/23148430/virtua-fighter-5-tekken-7-skins-dlc-collaboration)
+ - [Coming to Xbox Game Pass: Assassin’s Creed Origins, For Honor: Marching Fire Edition, and More](https://news.xbox.com/en-us/2022/05/31/game-pass-june-2022-announce/)
+ - [Hard West 2 blends strategy and style together seamlessly in a cowboy caper](https://www.polygon.com/23144371/hard-west-2-beta-steam-gameplay-characters-art-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
