@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #346: Tuesday, May 31](https://www.pcgamer.com/wordle-may-31-346)
  - [Zotac is still making even weirder VR PC backpacks](https://www.pcgamer.com/zotac-is-still-making-even-weirder-vr-pc-backpacks)
- - [PS5 shortages to ease up and sales to overtake PS4 by 2024, Sony says](https://www.pcgamer.com/ps5-shortages-to-ease-up-and-sales-to-overtake-ps4-by-2024-sony-says)
- - [MSI is set to introduce affordable 12th Gen BCLK overclocking](https://www.pcgamer.com/msi-is-set-to-introduce-affordable-12th-gen-bclk-overclocking)<!-- GAME:END -->
+ - [PS5 shortages to ease up and sales to overtake PS4 by 2024, Sony says](https://www.pcgamer.com/ps5-shortages-to-ease-up-and-sales-to-overtake-ps4-by-2024-sony-says)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
