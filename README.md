@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/a7161WA)
+ - 💣 [The irony](http://9gag.com/gag/amgbgL9)
  - ⏩ [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
- - 👉 [Australian influencers be like](http://9gag.com/gag/aGzNz27)<!-- MEMES:END -->
+ - 👉 [Lol](http://9gag.com/gag/a7161WA)<!-- MEMES:END -->
 
 ---
 
