@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The irony](http://9gag.com/gag/amgbgL9)
- - ⏩ [The Dutch East India Company](http://9gag.com/gag/aAGNGrR)
- - 👉 [Lol](http://9gag.com/gag/a7161WA)<!-- MEMES:END -->
+ - 💣 [The Andromeda\u2013Milky Way collision predicted to occur in ~4.5 billion years](http://9gag.com/gag/a7161or)
+ - ⏩ [Things change](http://9gag.com/gag/apgjNYE)
+ - 👉 [I don&#39;t know why i suddenly thought of this scene,but i&#39;m glad i did. Great show,all 8 seasons of it.](http://9gag.com/gag/aXrGrPV)<!-- MEMES:END -->
 
 ---
 
