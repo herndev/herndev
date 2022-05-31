@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SCOTUS blocks Texas&#39; social media content moderation law in a 5-4 vote, putting the law on hold while a constitutional challenge proceeds in a lower court &lpar;Greg Stohr/Bloomberg Law&rpar;](http://www.techmeme.com/220531/p18#a220531p18)
- - [TikTok is giving some users a less cluttered viewing experience](https://www.theverge.com/2022/5/31/23148901/tiktok-clear-mode-test-longer-videos-ui-user-interface)
- - [Dell’s 32-inch 4K videoconferencing monitor costs just as much as a Studio Display](https://www.theverge.com/2022/5/31/23148628/dell-ultrasharp-u3223qz-monitor-4k-webcam-microphone)<!-- TECH:END -->
+ - [How to turn captions on or off on Instagram](https://www.androidauthority.com/video-captions-instagram-3171375/)
+ - [The push-button ignition was a luxurious way to start your car until it wasn’t](https://www.theverge.com/2022/5/31/23144907/push-button-start-ignition-cars-convenience-history)
+ - [Sources: the FTC has revamped its Amazon antitrust probe, shaking up the investigative team, re-interviewing potential witnesses, and asking about the MGM deal &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220531/p20#a220531p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
