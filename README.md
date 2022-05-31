@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Sony will begin mass producing its PSVR 2 headset in H2 2022 ahead of a possible launch in Q1 2023, depending on the state of flagship game titles &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220531/p4#a220531p4)
- - [Apple’s Conversation Boost Works, but It Makes Things Awkward](https://www.wired.com/story/apple-conversation-boost)
- - [As Bitcoin Falters, Crypto Miners Brace for a Crash](https://www.wired.com/story/bitcoin-mining-crisis)<!-- TECH:END -->
+ - [At a CFTC meeting, agricultural groups criticized FTX CEO Sam Bankman-Fried&#39;s plan for automated risk management and 24/7 trading in leveraged futures markets &lpar;Gary Silverman/Financial Times&rpar;](http://www.techmeme.com/220531/p8#a220531p8)
+ - [Everything we know about the redesigned MacBook Air with M2 processor](https://appleinsider.com/articles/22/01/07/everything-we-know-about-the-redesigned-macbook-air-with-m2-processor?utm_medium=rss)
+ - [Israel-based Seemplicity, which simplifies enterprise security threat monitoring, raises a $26M Series A and $6M seed &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220531/p7#a220531p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
