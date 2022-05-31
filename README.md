@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple hid AR trading card booster packs in the WWDC event page](https://appleinsider.com/articles/22/05/31/apple-hid-ar-trading-card-booster-packs-in-the-wwdc-event-page?utm_medium=rss)
- - [Apple announces finalists for the 2022 Apple Design Awards](https://appleinsider.com/articles/22/05/31/apple-announces-the-finalists-for-its-2022-apple-design-awards?utm_medium=rss)
- - [Apple earned the third-most gaming revenue in 2021, outpacing Microsoft &amp; Nintendo](https://appleinsider.com/articles/22/05/31/apple-earner-the-third-most-gaming-revenue-in-2021-outpacing-microsoft-nintendo?utm_medium=rss)<!-- TECH:END -->
+ - [SCOTUS blocks Texas&#39; social media content moderation law in a 5-4 vote, putting the law on hold while a constitutional challenge proceeds in a lower court &lpar;Greg Stohr/Bloomberg Law&rpar;](http://www.techmeme.com/220531/p18#a220531p18)
+ - [TikTok is giving some users a less cluttered viewing experience](https://www.theverge.com/2022/5/31/23148901/tiktok-clear-mode-test-longer-videos-ui-user-interface)
+ - [Dell’s 32-inch 4K videoconferencing monitor costs just as much as a Studio Display](https://www.theverge.com/2022/5/31/23148628/dell-ultrasharp-u3223qz-monitor-4k-webcam-microphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
