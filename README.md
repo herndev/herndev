@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be a man](http://9gag.com/gag/ajgMV6p)
- - ⏩ [Big ooooffff](http://9gag.com/gag/aegPgqW)
- - 👉 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)<!-- MEMES:END -->
+ - 💣 [If NASA had the same budget as the US military](http://9gag.com/gag/awzGzq8)
+ - ⏩ [Australian influencers be like](http://9gag.com/gag/aGzNz27)
+ - 👉 [His sacrifice will be never forgotten](http://9gag.com/gag/a21j1v9)<!-- MEMES:END -->
 
 ---
 
