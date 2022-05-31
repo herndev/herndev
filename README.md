@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
- - ⏩ [Solitude and Silence...... Absolutely priceless](http://9gag.com/gag/ay9VNOr)
- - 👉 [Garda vs Garden](http://9gag.com/gag/aAGNQY9)<!-- MEMES:END -->
+ - ⏩ [Garda vs Garden](http://9gag.com/gag/aAGNQY9)
+ - 👉 [Hey, Hollywood](http://9gag.com/gag/aggZmjg)<!-- MEMES:END -->
 
 ---
 
