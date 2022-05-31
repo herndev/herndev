@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A super-fast rundown of what happened in The Boys season 2](https://www.polygon.com/23144737/the-boys-season-2-finale-recap-amazon-prime-video)
- - [This itty bitty toaster is the perfect place to store your SD cards](https://www.pcgamer.com/this-itty-bitty-toaster-is-the-perfect-place-to-store-your-sd-cards)
- - [Diablo Immortal Won’t Launch In Some Countries Due To Loot Box Laws](https://kotaku.com/diablo-immortal-loot-boxes-crates-laws-release-belgium-1848996451)<!-- GAME:END -->
+ - [First Manga Worker Union Forms Amid Alleged Union Busting](https://kotaku.com/seven-seas-entertainment-manga-union-united-workers-in-1848996599)
+ - [Experience Life on the Footplate with Spirit of Steam for Train Sim World 2](https://news.xbox.com/en-us/2022/05/31/experience-life-on-the-footplate-with-spirit-of-steam-for-train-sim-world-2/)
+ - [These classic point-and-click adventures just got updated 25 years later](https://www.pcgamer.com/these-classic-point-and-click-adventures-just-got-updated-25-years-later)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
