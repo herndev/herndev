@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anti-abortion activists are using license plate tracking and body cameras to collect data on people arriving at clinics for prosecutions post-Roe v. Wade &lpar;Abby Ohlheiser/MIT Technology Review&rpar;](http://www.techmeme.com/220601/p3#a220601p3)
- - [Apple iPad mini 6 plus AppleCare kits are up to $60 off for a limited time](https://appleinsider.com/articles/22/06/01/apple-ipad-mini-6-plus-applecare-kits-are-up-to-60-off-for-a-limited-time?utm_medium=rss)
- - [Hands-on with Murena One, a privacy-focused $369 Android smartphone, which replaces all Google apps and services with its own custom ones &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220601/p2#a220601p2)<!-- TECH:END -->
+ - [Docs reveal Russian officials&#39; need to circumvent their own government&#39;s internet censorship, with 236 procurement contracts for VPN tech since the war started &lpar;Top10VPN&rpar;](http://www.techmeme.com/220601/p6#a220601p6)
+ - [What’s new on Paramount Plus in June: Evil Season 3, Players and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
+ - [A group of 26 leading computer experts urge US lawmakers to resist crypto lobbying efforts, calling crypto financial instruments &quot;risky, flawed, and unproven&quot; &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220601/p5#a220601p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
