@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Disgusting Images Motivate Good Public Health Behavior?](https://www.wired.com/story/can-disgusting-images-motivate-good-public-health-behavior)
- - [‘Civic Fan Fiction’ Makes Politics a Dysfunctional Team Sport](https://www.wired.com/story/elon-musk-social-media-civic-fanfiction)
- - [Messaging apps should consider reviving AIM&#39;s Away Message to create better social boundaries around people&#39;s time, as people treat the apps like live chats &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/220601/p13#a220601p13)<!-- TECH:END -->
+ - [FAANG no more - Facebook finally shifting to META on NASDAQ](https://appleinsider.com/articles/22/06/01/faang-no-more---facebook-finally-shifting-to-meta-on-nasdaq?utm_medium=rss)
+ - [Instagram will start pushing Amber Alerts in feeds to notify users about missing children in their area, rolling out to 25 countries in the coming weeks &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220601/p17#a220601p17)
+ - [Uvalde shows why online threats need to be taken more seriously](https://www.theverge.com/23149885/uvalde-online-threads-yubo-moderation-failure)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
