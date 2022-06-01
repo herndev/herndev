@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Junichi Masuda Leaves Game Freak To Join The Pokémon Company](https://kotaku.com/junichi-masuda-game-freak-the-pokemon-company-director-1849000222)
- - [Crypto-hackers are holding the Costa Rican healthcare system to ransom for $5B in bitcoin](https://www.pcgamer.com/crypto-hackers-are-holding-the-costa-rican-healthcare-system-to-ransom-for-dollar5b-in-bitcoin)
- - [World of Warcraft wants you to promise you&#39;ll be nice to people](https://www.pcgamer.com/world-of-warcraft-wants-you-to-promise-youll-be-nice-to-people)<!-- GAME:END -->
+ - [Will Sprigatito evolve into a human man in Pokémon Scarlet and Violet? Still unclear](https://www.polygon.com/23149258/pokemon-scarlet-violet-starters-new-info-sprigatito-fuecoco-quaxly)
+ - [Super Bomberman R Online is shutting down after just 18 months](https://www.pcgamer.com/super-bomberman-r-online-is-shutting-down-after-just-18-months)
+ - [These are Pokémon Scarlet and Violet’s new legendary Pokémon: Koraidon and Miraidon](https://www.polygon.com/23149207/pokemon-scarlet-violet-new-trailer-legendary-pokemon-revealed-koraidon-miraidon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
