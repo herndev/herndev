@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon kills off book purchases via Kindle Android app: Here are a few solutions](https://www.androidauthority.com/buy-books-kindle-app-android-3170592/)
- - [The 8 best Android phones to spend your money on &lpar;June 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
- - [Docs reveal Russian officials&#39; need to circumvent their own government&#39;s internet censorship, with 236 procurement contracts for VPN tech since the war started &lpar;Top10VPN&rpar;](http://www.techmeme.com/220601/p6#a220601p6)<!-- TECH:END -->
+ - [Volvo will use Epic’s Unreal Engine to create ‘photorealistic’ graphics in its electric cars](https://www.theverge.com/2022/6/1/23144461/volvo-epic-unreal-engine-hmi-human-machine-interface-partnership)
+ - [How to use Google Photos Real Tone filters](https://www.androidauthority.com/how-to-use-google-photos-real-tone-filters-3171446/)
+ - [How to play with your friends in Apex Legends Mobile](https://www.androidauthority.com/apex-legends-mobile-friends-3170468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
