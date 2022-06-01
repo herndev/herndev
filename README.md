@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FAANG no more - Facebook finally shifting to META on NASDAQ](https://appleinsider.com/articles/22/06/01/faang-no-more---facebook-finally-shifting-to-meta-on-nasdaq?utm_medium=rss)
- - [Instagram will start pushing Amber Alerts in feeds to notify users about missing children in their area, rolling out to 25 countries in the coming weeks &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220601/p17#a220601p17)
- - [Uvalde shows why online threats need to be taken more seriously](https://www.theverge.com/23149885/uvalde-online-threads-yubo-moderation-failure)<!-- TECH:END -->
+ - [New Plugable dock adds three HD displays to a Mac](https://appleinsider.com/articles/22/06/01/new-plugable-dock-adds-three-hd-displays-to-a-mac?utm_medium=rss)
+ - [Apple AirPods are on sale from $99 this June](https://appleinsider.com/articles/22/05/30/month-end-airpods-deals-drive-prices-down-to-9999?utm_medium=rss)
+ - [WorkOS, which helps developers add single sign-on and other enterprise features to apps, raises an $80M Series B led by Greenoaks and says it has 200+ customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p18#a220601p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
