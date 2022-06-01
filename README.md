@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I heared they want to ban english gamer slang?](http://9gag.com/gag/aVx1EnO)
- - ⏩ [At least in Eastern Europe](http://9gag.com/gag/aGzN8WK)
+ - 💣 [I chose a mildly adjusted version of my own name](http://9gag.com/gag/aGzNBMK)
+ - ⏩ [So hot right now](http://9gag.com/gag/aE8NoPK)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 ---
