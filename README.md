@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk reportedly declares remote work ‘no longer acceptable’ at Tesla](https://www.theverge.com/2022/6/1/23149784/elon-musk-tesla-remote-work-leaked-email-40-hours)
- - [Mac delays, iPod&#39;s demise, and Musk hesitates over Twitter - Apple&#39;s May 2022 in review](https://appleinsider.com/articles/22/06/01/mac-delays-ipods-demise-and-musk-hesitates-over-twitter---apples-may-2022-in-review?utm_medium=rss)
- - [The Trendy, Spendy Future of Tech-Enabled Indoor Farming](https://www.wired.com/story/indoor-farming-vertical-farming-freight-farms)<!-- TECH:END -->
+ - [Can Disgusting Images Motivate Good Public Health Behavior?](https://www.wired.com/story/can-disgusting-images-motivate-good-public-health-behavior)
+ - [‘Civic Fan Fiction’ Makes Politics a Dysfunctional Team Sport](https://www.wired.com/story/elon-musk-social-media-civic-fanfiction)
+ - [Messaging apps should consider reviving AIM&#39;s Away Message to create better social boundaries around people&#39;s time, as people treat the apps like live chats &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/220601/p13#a220601p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
