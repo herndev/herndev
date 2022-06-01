@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet And Violet’s Crying Lechonk Would Be Great On A Sandwich](https://kotaku.com/pokemon-scarlet-and-violet-new-pokemon-lechonk-smoliv-p-1849001661)
- - [Pokémon fans are going wild for Smoliv, the darndest little guy](https://www.polygon.com/23150011/pokemon-violet-scarlet-smoliv-memes-fan-art-gen-9)
- - [Kingdom Hearts co-creator Shinji Hashimoto retires after 28 years with Square Enix](https://www.pcgamer.com/kingdom-hearts-co-creator-shinji-hashimoto-retires-after-28-years-with-square-enix)<!-- GAME:END -->
+ - [HBO Max finally renews Our Flag Means Death for season 2](https://www.polygon.com/23150321/our-flag-means-death-renewed-season-2-hbo-taika-waititi-rhys-darby)
+ - [The new Total War: Warhammer 3 Immortal Empires trailer shows off dream alliances](https://www.polygon.com/23148447/total-war-warhammer-3-immortal-empires-open-beta-release-date-sign-up-trailer)
+ - [Warhammer 40K: Darktide’s new trailer introduces our unlikely heroes](https://www.polygon.com/23148456/warhammer-40k-darktide-story-reveal-trailer-skulls-convention)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
