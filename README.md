@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal is out early on mobile](https://www.polygon.com/23149973/diablo-immortal-early-release-date-android-ios-download-pc-version)
- - [Madden is Madden’s latest cover star](https://www.polygon.com/23143418/madden-23-cover-star-nfl-john-madden)
- - [Sniper Elite 5 review](https://www.pcgamer.com/sniper-elite-5-review)<!-- GAME:END -->
+ - [All hail Lechonk, Pokémon Scarlet and Violet’s new round king](https://www.polygon.com/23149951/pokemon-scarlet-and-violet-lechonk-memes)
+ - [Fruits Basket: Prelude will hit theaters in America this summer](https://www.polygon.com/23149122/fruits-basket-prelude-movie-new-trailer-theatrical-release-stateside)
+ - [Celebrating Double Dragon’s 35th Anniversary](https://blog.playstation.com/2022/06/01/celebrating-double-dragons-35th-anniversary/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
