@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Enough already](http://9gag.com/gag/aQXNmX8)
- - ⏩ [Not proud](http://9gag.com/gag/amgbmXj)
+ - 💣 [Design award](http://9gag.com/gag/aWgNoB4)
+ - ⏩ [So she got away with only a 15 mil price tag! But a win nonetheless.....](http://9gag.com/gag/a91N2bm)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 ---
