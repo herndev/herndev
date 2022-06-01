@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [John Madden returns to the cover of Madden NFL for the first time in more than 20 years](https://www.pcgamer.com/john-madden-returns-to-the-cover-of-madden-nfl-for-the-first-time-in-more-than-20-years)
- - [Dreams on PC: all the rumors in one place](https://www.pcgamer.com/dreams-pc-release-date-trailer-everything-we-know)
- - [V Rising, As Told By Steam Reviews](https://kotaku.com/v-rising-stunlock-studios-vampire-survival-rpg-steam-re-1849002923)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in June](https://www.polygon.com/23138768/disney-plus-new-movies-tv-watch-june-2022)
+ - [PC game collecting community rocked by game forgery scandal](https://www.pcgamer.com/pc-game-collecting-community-rocked-by-game-forgery-scandal)
+ - [Elden Ring Randomizer Turns It Into A Whole New Game](https://kotaku.com/elden-ring-randomizer-mod-malenia-moonveil-fromsoft-1849003557)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
