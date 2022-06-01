@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #347: Wednesday, June 1](https://www.pcgamer.com/wordle-june-1-347-creak-meaning-definition)
  - [An Apple I with the CPU signed by the Woz is heading to auction](https://www.pcgamer.com/an-apple-i-with-the-cpu-signed-by-the-woz-is-heading-to-auction)
- - [I wasn&#39;t prepared for how evil you can be in Let&#39;s Build a Zoo&#39;s dinosaur park DLC](https://www.pcgamer.com/i-wasnt-prepared-for-how-evil-you-can-be-in-lets-build-a-zoos-dinosaur-park-dlc)
- - [Razer&#39;s new hybrid headsets are RGB free](https://www.pcgamer.com/razers-new-hybrid-headsets-are-rgb-free)<!-- GAME:END -->
+ - [I wasn&#39;t prepared for how evil you can be in Let&#39;s Build a Zoo&#39;s dinosaur park DLC](https://www.pcgamer.com/i-wasnt-prepared-for-how-evil-you-can-be-in-lets-build-a-zoos-dinosaur-park-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
