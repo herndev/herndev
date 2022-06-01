@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Plugable dock adds three HD displays to a Mac](https://appleinsider.com/articles/22/06/01/new-plugable-dock-adds-three-hd-displays-to-a-mac?utm_medium=rss)
- - [Apple AirPods are on sale from $99 this June](https://appleinsider.com/articles/22/05/30/month-end-airpods-deals-drive-prices-down-to-9999?utm_medium=rss)
- - [WorkOS, which helps developers add single sign-on and other enterprise features to apps, raises an $80M Series B led by Greenoaks and says it has 200+ customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p18#a220601p18)<!-- TECH:END -->
+ - [Here’s when the Asus ROG Phone 6 will launch](https://www.androidauthority.com/asus-rog-phone-6-launch-date-3171711/)
+ - [Focusrite debuts its audio interfaces designed for podcasters](https://www.theverge.com/2022/6/1/23145083/focusrite-audio-interface-podcasting-vocaster-release-date)
+ - [Discord adds text chat directly inside your voice channels](https://www.theverge.com/2022/6/1/23148366/discord-new-text-chat-in-voice-channels-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
