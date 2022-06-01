@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokemon Violet Legendary Looks Like A Dick](https://kotaku.com/pokemon-violet-legendary-miraidon-dick-game-freak-ninte-1849001378)
- - [5 Big Things You May Have Missed In The Pokémon Scarlet And Violet Trailer](https://kotaku.com/pokemon-scarlet-violet-trailer-switch-starters-open-wor-1849003895)
- - [Diablo Immortal Is Enjoyable If You Can Ignore All The Mobile Game Crap](https://kotaku.com/diablo-immortal-blizzard-review-mobile-rpg-ios-android-1849003750)<!-- GAME:END -->
+ - [Dontnod spellchecks itself, is now called Don&#39;t Nod](https://www.pcgamer.com/dontnod-spellchecks-itself-is-now-called-dont-nod)
+ - [Diablo Immortal isn&#39;t quite pay-to-win, but it&#39;s close](https://www.pcgamer.com/diablo-immortal-isnt-quite-pay-to-win-but-its-close)
+ - [Warhammer 40,000: Space Marine 2 trailer recommits to the legend of mankind&#39;s big bulky boys](https://www.pcgamer.com/warhammer-40000-space-marine-2-trailer-recommits-to-the-legend-of-mankinds-big-bulky-boys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
