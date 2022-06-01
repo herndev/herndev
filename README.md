@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diablo Immortal skips Dutch and Belgian launches and loot boxes might be to blame](https://www.theverge.com/2022/6/1/23149771/diablo-immortal-loot-boxes-belgium-the-netherlands-gambling)
- - [Daily Authority: 🔧 Google Tensor 2 details](https://www.androidauthority.com/daily-authority-june-1-2022-3171621/)
- - [Sources: in a first, Apple will move some iPad production from China to Vietnam, after Shanghai&#39;s lockdowns disrupted production for months &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220601/p9#a220601p9)<!-- TECH:END -->
+ - [Elon Musk reportedly declares remote work ‘no longer acceptable’ at Tesla](https://www.theverge.com/2022/6/1/23149784/elon-musk-tesla-remote-work-leaked-email-40-hours)
+ - [Mac delays, iPod&#39;s demise, and Musk hesitates over Twitter - Apple&#39;s May 2022 in review](https://appleinsider.com/articles/22/06/01/mac-delays-ipods-demise-and-musk-hesitates-over-twitter---apples-may-2022-in-review?utm_medium=rss)
+ - [The Trendy, Spendy Future of Tech-Enabled Indoor Farming](https://www.wired.com/story/indoor-farming-vertical-farming-freight-farms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
