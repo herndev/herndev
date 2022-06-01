@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook and Instagram’s parent company will change its stock ticker to META on June 9th](https://www.theverge.com/2022/5/31/23149470/meta-new-stock-ticker-fb-facebook-instagram-metaverse)
- - [Production Mercedes-AMG One Is Finally Ready With 1,049-HP F1 Engine     - CNET](https://www.cnet.com/roadshow/news/mercedes-amg-one-production-hypercar-formula-1-debut/#ftag=CAD590a51e)
- - [Mercedes-AMG One Hypercar Is a Beautiful Catfish With an F1 Engine     - CNET](https://www.cnet.com/roadshow/pictures/mercedes-amg-one-production-hypercar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to find &lpar;and change&rpar; your Twitch stream key](https://www.androidauthority.com/find-change-twitch-stream-key-3169867/)
+ - [Podcasts hosted on Spotify-owned Megaphone were unavailable for over eight hours on Monday night and early Tuesday morning due to an expired SSL certificate &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/220531/p23#a220531p23)
+ - [Garmin announces the Forerunner 255 and Forerunner 955 Solar](https://www.androidauthority.com/garmin-forerunner-255-955-solar-3169396/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
