@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube Android app just upgraded casting to a TV in big ways](https://www.androidauthority.com/youtube-app-tv-3171814/)
- - [Canon wireless printers are getting stuck in reboot loops, but there may be a way for you to fix it](https://www.theverge.com/2022/6/1/23150498/canon-pixma-printer-reboot-loop-mx492-solution)
- - [How to track your Amazon package](https://www.androidauthority.com/track-amazon-package-3171773/)<!-- TECH:END -->
+ - [Meta COO Sheryl Sandberg is stepping down after 14 years](https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years)
+ - [HPE reports Q2 revenue of $6.7B, nearly flat YoY, Compute revenue of $2.99B, also nearly flat, and order growth of 20% YoY; stock falls ~5% after hours &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/220601/p29#a220601p29)
+ - [NASA outsources development of Moon spacesuit to two private companies](https://www.theverge.com/2022/6/1/23149903/nasa-artemis-moon-spacesuits-design-axiom-space-collins-aerospace)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
