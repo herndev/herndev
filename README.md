@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta COO Sheryl Sandberg is stepping down after 14 years](https://www.theverge.com/2022/6/1/23150601/sheryl-sandberg-stepping-down-meta-facebook-coo-14-years)
- - [HPE reports Q2 revenue of $6.7B, nearly flat YoY, Compute revenue of $2.99B, also nearly flat, and order growth of 20% YoY; stock falls ~5% after hours &lpar;Jon Swartz/MarketWatch&rpar;](http://www.techmeme.com/220601/p29#a220601p29)
- - [NASA outsources development of Moon spacesuit to two private companies](https://www.theverge.com/2022/6/1/23149903/nasa-artemis-moon-spacesuits-design-axiom-space-collins-aerospace)<!-- TECH:END -->
+ - [Scans of MySQL server instances by Shadowserver analysts found 2.3M exposed servers on IPV4 and 1.3M on IPV5 devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220601/p31#a220601p31)
+ - [Former OpenSea Manager Charged With Insider NFT Trading     - CNET](https://www.cnet.com/personal-finance/crypto/former-opensea-manager-charged-with-insider-nft-trading/#ftag=CAD590a51e)
+ - [Sonos Launches Voice Assistant in the US     - CNET](https://www.cnet.com/news/sonos-launches-voice-assistant-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
