@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [The new pinocchio is such a joke](http://9gag.com/gag/avAX6XZ)
- - ⏩ [Let me EATTTT!](http://9gag.com/gag/a7160ML)
+ - ⏩ [I heared they want to ban english gamer slang?](http://9gag.com/gag/aVx1EnO)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 ---
