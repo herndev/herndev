@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All hail Lechonk, Pokémon Scarlet and Violet’s new round king](https://www.polygon.com/23149951/pokemon-scarlet-and-violet-lechonk-memes)
- - [Fruits Basket: Prelude will hit theaters in America this summer](https://www.polygon.com/23149122/fruits-basket-prelude-movie-new-trailer-theatrical-release-stateside)
- - [Celebrating Double Dragon’s 35th Anniversary](https://blog.playstation.com/2022/06/01/celebrating-double-dragons-35th-anniversary/)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet’s Crying Lechonk Would Be Great On A Sandwich](https://kotaku.com/pokemon-scarlet-and-violet-new-pokemon-lechonk-smoliv-p-1849001661)
+ - [Pokémon fans are going wild for Smoliv, the darndest little guy](https://www.polygon.com/23150011/pokemon-violet-scarlet-smoliv-memes-fan-art-gen-9)
+ - [Kingdom Hearts co-creator Shinji Hashimoto retires after 28 years with Square Enix](https://www.pcgamer.com/kingdom-hearts-co-creator-shinji-hashimoto-retires-after-28-years-with-square-enix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
