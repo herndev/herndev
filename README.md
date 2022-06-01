@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Scans of MySQL server instances by Shadowserver analysts found 2.3M exposed servers on IPV4 and 1.3M on IPV5 devices &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220601/p31#a220601p31)
- - [Former OpenSea Manager Charged With Insider NFT Trading     - CNET](https://www.cnet.com/personal-finance/crypto/former-opensea-manager-charged-with-insider-nft-trading/#ftag=CAD590a51e)
- - [Sonos Launches Voice Assistant in the US     - CNET](https://www.cnet.com/news/sonos-launches-voice-assistant-in-the-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Analysis of S&amp;P 500 companies: Alphabet and Meta had the highest median pay for workers in 2021 at nearly $300K; Apple&#39;s median pay was ~$68K, Amazon&#39;s ~$32K &lpar;Inti Pacheco/Wall Street Journal&rpar;](http://www.techmeme.com/220601/p32#a220601p32)
+ - [How to make and share your Amazon wish list](https://www.androidauthority.com/make-amazon-wish-list-3171838/)
+ - [How to find and follow friends on Spotify](https://www.androidauthority.com/how-to-find-friends-spotify-3085231/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
