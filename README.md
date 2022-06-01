@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4 specs leak: A few welcome upgrades, but is it enough?](https://www.androidauthority.com/galaxy-z-flip-4-specs-3171564/)
- - [The best Cricket Wireless deals: Free phones, HBO Max, and more](https://www.androidauthority.com/best-cricket-wireless-deals-2-835972/)
- - [Volvo will use Epic’s Unreal Engine to create ‘photorealistic’ graphics in its electric cars](https://www.theverge.com/2022/6/1/23144461/volvo-epic-unreal-engine-hmi-human-machine-interface-partnership)<!-- TECH:END -->
+ - [Diablo Immortal skips Dutch and Belgian launches and loot boxes might be to blame](https://www.theverge.com/2022/6/1/23149771/diablo-immortal-loot-boxes-belgium-the-netherlands-gambling)
+ - [Daily Authority: 🔧 Google Tensor 2 details](https://www.androidauthority.com/daily-authority-june-1-2022-3171621/)
+ - [Sources: in a first, Apple will move some iPad production from China to Vietnam, after Shanghai&#39;s lockdowns disrupted production for months &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220601/p9#a220601p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
