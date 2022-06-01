@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secretlab&#39;s new armrests are the plush upgrade I didn&#39;t think my forearms needed](https://www.pcgamer.com/secretlabs-new-armrests-are-the-plush-upgrade-i-didnt-think-my-forearms-needed)
- - [Retro Game Collector Accused Of Selling $100,000 Worth Of Intricate Forgeries](https://kotaku.com/retro-fake-forgery-bbpcgc-pc-ultima-classic-sales-group-1848998869)
- - [Respawn Boss Vince Zampella Speaks Out On Trans Rights, Even As EA Refuses](https://kotaku.com/ea-trans-rights-star-wars-jedi-survive-apex-legends-res-1848998351)<!-- GAME:END -->
+ - [I wasn&#39;t prepared for how evil you can be in Let&#39;s Build a Zoo&#39;s dinosaur park DLC](https://www.pcgamer.com/i-wasnt-prepared-for-how-evil-you-can-be-in-lets-build-a-zoos-dinosaur-park-dlc)
+ - [Razer&#39;s new hybrid headsets are RGB free](https://www.pcgamer.com/razers-new-hybrid-headsets-are-rgb-free)
+ - [Secretlab&#39;s new armrests are the plush upgrade I didn&#39;t think my forearms needed](https://www.pcgamer.com/secretlabs-new-armrests-are-the-plush-upgrade-i-didnt-think-my-forearms-needed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
