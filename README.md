@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Sprigatito evolve into a human man in Pokémon Scarlet and Violet? Still unclear](https://www.polygon.com/23149258/pokemon-scarlet-violet-starters-new-info-sprigatito-fuecoco-quaxly)
- - [Super Bomberman R Online is shutting down after just 18 months](https://www.pcgamer.com/super-bomberman-r-online-is-shutting-down-after-just-18-months)
- - [These are Pokémon Scarlet and Violet’s new legendary Pokémon: Koraidon and Miraidon](https://www.polygon.com/23149207/pokemon-scarlet-violet-new-trailer-legendary-pokemon-revealed-koraidon-miraidon)<!-- GAME:END -->
+ - [Diablo Immortal is out early on mobile](https://www.polygon.com/23149973/diablo-immortal-early-release-date-android-ios-download-pc-version)
+ - [Madden is Madden’s latest cover star](https://www.polygon.com/23143418/madden-23-cover-star-nfl-john-madden)
+ - [Sniper Elite 5 review](https://www.pcgamer.com/sniper-elite-5-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
