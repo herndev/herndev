@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll take what I can get](http://9gag.com/gag/a91NvRD)
+ - 💣 [The new pinocchio is such a joke](http://9gag.com/gag/avAX6XZ)
  - ⏩ [Let me EATTTT!](http://9gag.com/gag/a7160ML)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
