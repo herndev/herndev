@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google launches the Google TV app on iOS, after removing the Movies and TV section from the Play Store, letting users connect to their TV and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/220601/p23#a220601p23)
- - [Google plans to combine two of its video calling apps, Duo and Meet, under the Meet brand but using Duo&#39;s app as the foundation &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220601/p22#a220601p22)
- - [Apple Music names Juan Paz as new Global Head of Latin Business role](https://appleinsider.com/articles/22/06/01/apple-music-names-juan-paz-as-new-global-head-of-latin-business-role?utm_medium=rss)<!-- TECH:END -->
+ - [Apple says it blocked $1.5B in fraudulent App Store transactions, 1.6M risky apps](https://appleinsider.com/articles/22/06/01/apple-says-it-blocked-15b-in-fraudulent-app-store-transactions-16m-risky-apps?utm_medium=rss)
+ - [New Apple webpage highlights community-led WWDC events](https://appleinsider.com/articles/22/06/01/new-apple-webpage-highlights-community-led-wwdc-events?utm_medium=rss)
+ - [GM is slashing prices for the Chevy Bolt amid high demand for electric vehicles](https://www.theverge.com/2022/6/1/23150210/gm-chevy-bolt-ev-euv-price-cut-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
