@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Mdou Moctar’s Music Went Viral Via Bluetooth](https://www.wired.com/story/mdou-moctar-bluetooth-music-star)
- - [Compared: 14-inch MacBook Pro vs 2022 Razer Blade 14](https://appleinsider.com/articles/22/05/10/compared-14-inch-macbook-pro-vs-2022-razer-blade-14?utm_medium=rss)
- - [How to speed up working on macOS Monterey by making windows snap into position](https://appleinsider.com/articles/21/12/04/how-to-speed-up-working-on-macos-monterey-by-making-windows-snap-into-position?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube Android app just upgraded casting to a TV in big ways](https://www.androidauthority.com/youtube-app-tv-3171814/)
+ - [Canon wireless printers are getting stuck in reboot loops, but there may be a way for you to fix it](https://www.theverge.com/2022/6/1/23150498/canon-pixma-printer-reboot-loop-mx492-solution)
+ - [How to track your Amazon package](https://www.androidauthority.com/track-amazon-package-3171773/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
