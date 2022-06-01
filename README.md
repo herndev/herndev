@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when the Asus ROG Phone 6 will launch](https://www.androidauthority.com/asus-rog-phone-6-launch-date-3171711/)
- - [Focusrite debuts its audio interfaces designed for podcasters](https://www.theverge.com/2022/6/1/23145083/focusrite-audio-interface-podcasting-vocaster-release-date)
- - [Discord adds text chat directly inside your voice channels](https://www.theverge.com/2022/6/1/23148366/discord-new-text-chat-in-voice-channels-feature)<!-- TECH:END -->
+ - [Google launches the Google TV app on iOS, after removing the Movies and TV section from the Play Store, letting users connect to their TV and more &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/220601/p23#a220601p23)
+ - [Google plans to combine two of its video calling apps, Duo and Meet, under the Meet brand but using Duo&#39;s app as the foundation &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/220601/p22#a220601p22)
+ - [Apple Music names Juan Paz as new Global Head of Latin Business role](https://appleinsider.com/articles/22/06/01/apple-music-names-juan-paz-as-new-global-head-of-latin-business-role?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
