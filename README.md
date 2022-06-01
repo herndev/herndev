@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never happens](http://9gag.com/gag/amgb1Z6)
- - ⏩ [Say no more](http://9gag.com/gag/a41rnEw)
+ - 💣 [Blue fairy](http://9gag.com/gag/aqGpX8P)
+ - ⏩ [Today was a good day](http://9gag.com/gag/aE8NVBO)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 ---
