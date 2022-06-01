@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every new movie and show coming to Disney Plus in June](https://www.polygon.com/23138768/disney-plus-new-movies-tv-watch-june-2022)
- - [PC game collecting community rocked by game forgery scandal](https://www.pcgamer.com/pc-game-collecting-community-rocked-by-game-forgery-scandal)
- - [Elden Ring Randomizer Turns It Into A Whole New Game](https://kotaku.com/elden-ring-randomizer-mod-malenia-moonveil-fromsoft-1849003557)<!-- GAME:END -->
+ - [The Pokemon Violet Legendary Looks Like A Dick](https://kotaku.com/pokemon-violet-legendary-miraidon-dick-game-freak-ninte-1849001378)
+ - [5 Big Things You May Have Missed In The Pokémon Scarlet And Violet Trailer](https://kotaku.com/pokemon-scarlet-violet-trailer-switch-starters-open-wor-1849003895)
+ - [Diablo Immortal Is Enjoyable If You Can Ignore All The Mobile Game Crap](https://kotaku.com/diablo-immortal-blizzard-review-mobile-rpg-ios-android-1849003750)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
