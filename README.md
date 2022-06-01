@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Docs reveal Russian officials&#39; need to circumvent their own government&#39;s internet censorship, with 236 procurement contracts for VPN tech since the war started &lpar;Top10VPN&rpar;](http://www.techmeme.com/220601/p6#a220601p6)
- - [What’s new on Paramount Plus in June: Evil Season 3, Players and more](https://www.androidauthority.com/new-on-paramount-plus-2540674/)
- - [A group of 26 leading computer experts urge US lawmakers to resist crypto lobbying efforts, calling crypto financial instruments &quot;risky, flawed, and unproven&quot; &lpar;Scott Chipolina/Financial Times&rpar;](http://www.techmeme.com/220601/p5#a220601p5)<!-- TECH:END -->
+ - [Amazon kills off book purchases via Kindle Android app: Here are a few solutions](https://www.androidauthority.com/buy-books-kindle-app-android-3170592/)
+ - [The 8 best Android phones to spend your money on &lpar;June 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
+ - [Docs reveal Russian officials&#39; need to circumvent their own government&#39;s internet censorship, with 236 procurement contracts for VPN tech since the war started &lpar;Top10VPN&rpar;](http://www.techmeme.com/220601/p6#a220601p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
