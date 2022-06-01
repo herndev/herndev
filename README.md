@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Respawn Boss Vince Zampella Speaks Out On Trans Rights, Even As EA Refuses](https://kotaku.com/ea-trans-rights-star-wars-jedi-survive-apex-legends-res-1848998351)
- - [Star Wars fans’ favorite character, Glup Shitto, is back in the spotlight](https://www.polygon.com/2020/12/18/22189448/who-is-glup-shitto-explained-star-wars-joke-meme)
- - [Steam Breakout V Rising Is A Stellar Survival RPG](https://kotaku.com/v-rising-vampire-steam-rpg-survival-review-impressions-1848998225)<!-- GAME:END -->
+ - [Secretlab&#39;s new armrests are the plush upgrade I didn&#39;t think my forearms needed](https://www.pcgamer.com/secretlabs-new-armrests-are-the-plush-upgrade-i-didnt-think-my-forearms-needed)
+ - [Retro Game Collector Accused Of Selling $100,000 Worth Of Intricate Forgeries](https://kotaku.com/retro-fake-forgery-bbpcgc-pc-ultima-classic-sales-group-1848998869)
+ - [Respawn Boss Vince Zampella Speaks Out On Trans Rights, Even As EA Refuses](https://kotaku.com/ea-trans-rights-star-wars-jedi-survive-apex-legends-res-1848998351)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
