@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
- - ⏩ [Garda vs Garden](http://9gag.com/gag/aAGNQY9)
- - 👉 [Hey, Hollywood](http://9gag.com/gag/aggZmjg)<!-- MEMES:END -->
+ - 💣 [Boba fatt](http://9gag.com/gag/aGzNL4w)
+ - ⏩ [Rewatching all seasons](http://9gag.com/gag/aDDN7Zx)
+ - 👉 [Staying safe](http://9gag.com/gag/ajgM7BG)<!-- MEMES:END -->
 
 ---
 
