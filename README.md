@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Joshua Williamson killed the Justice League to make a point about how many times the Justice League has been killed](https://www.polygon.com/23068687/justice-league-death-dc-comics-dark-crisis)
- - [Sonic Frontiers gameplay shows a strangely empty open world](https://www.polygon.com/23150275/sonic-frontiers-sega-new-gameplay-footage-open-world)
- - [Tell Me Why is free on Xbox and Steam for Pride Month](https://www.polygon.com/23150308/tell-me-why-dontnod-entertainment-xbox-publishing-free-june-pride-month)<!-- GAME:END -->
+ - [John Madden returns to the cover of Madden NFL for the first time in more than 20 years](https://www.pcgamer.com/john-madden-returns-to-the-cover-of-madden-nfl-for-the-first-time-in-more-than-20-years)
+ - [Dreams on PC: all the rumors in one place](https://www.pcgamer.com/dreams-pc-release-date-trailer-everything-we-know)
+ - [V Rising, As Told By Steam Reviews](https://kotaku.com/v-rising-stunlock-studios-vampire-survival-rpg-steam-re-1849002923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
