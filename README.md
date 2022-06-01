@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple says it blocked $1.5B in fraudulent App Store transactions, 1.6M risky apps](https://appleinsider.com/articles/22/06/01/apple-says-it-blocked-15b-in-fraudulent-app-store-transactions-16m-risky-apps?utm_medium=rss)
- - [New Apple webpage highlights community-led WWDC events](https://appleinsider.com/articles/22/06/01/new-apple-webpage-highlights-community-led-wwdc-events?utm_medium=rss)
- - [GM is slashing prices for the Chevy Bolt amid high demand for electric vehicles](https://www.theverge.com/2022/6/1/23150210/gm-chevy-bolt-ev-euv-price-cut-2023)<!-- TECH:END -->
+ - [FBI says it received intelligence about a planned cyberattack by Iran-backed hackers on the Boston Children&#39;s Hospital and was able to thwart it &lpar;Associated Press&rpar;](http://www.techmeme.com/220601/p26#a220601p26)
+ - [Our Flag Means Death is setting sail for a heartbreaking season 2](https://www.theverge.com/2022/6/1/23150328/our-flag-means-death-season-2)
+ - [China-linked hackers are exploiting a new vulnerability in Microsoft Office](https://www.theverge.com/2022/6/1/23150318/microsoft-office-china-hackers-exploiting-follina-vulnerability-tibet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
