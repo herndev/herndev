@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Railway, which provides a dashboard for building, deploying, and monitoring apps and services, raises a $20M Series A led by Redpoint Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220602/p1#a220602p1)
- - [Why Johnny Depp vs. Amber Heard Dominated the Internet     - CNET](https://www.cnet.com/culture/why-johnny-depp-vs-amber-heard-dominated-the-internet/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39;: When Are the Next Episodes Released on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-are-the-next-episodes-released-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apex Legends Mobile: Every Legend and what they do](https://www.androidauthority.com/apex-legends-mobile-legends-3170469/)
+ - [It’s taken almost two years, but Chromecast for Google TV is coming to India](https://www.androidauthority.com/chromecast-for-google-tv-india-3171502/)
+ - [Super, an Indonesian social commerce app that focuses on small towns and rural areas, raises a $70M Series C led by NEA, bringing its total funding to $106M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220602/p2#a220602p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
