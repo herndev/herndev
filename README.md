@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can request an invite to buy a PS5 on Amazon](https://www.theverge.com/2022/6/2/23151466/playstation-5-ps5-invite-amazon-buy-restock)
- - [Ford announces new Mustang, Ranger, and commercial EV in major Midwest expansion](https://www.theverge.com/2022/6/2/23151480/ford-mustang-ranger-commercial-ev-invest-midwest)
- - [Sonos’ long-awaited Sub Mini shows up at the FCC](https://www.theverge.com/2022/6/2/23151437/sonos-sub-mini-budget-subwoofer-fcc-specs-design)<!-- TECH:END -->
+ - [Enterprise software companies like IBM, HP, and Oracle have shown resilience amid the recent tech rout, boosted by demand for their cloud computing services &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/220602/p12#a220602p12)
+ - [Twitter is building a tool for keyword alerts, in case you need more Twitter notifications](https://www.theverge.com/2022/6/2/23151492/twitter-keyword-alerts-notifications)
+ - [Daily deals June 2: discounted iPhone 12, 11% off Xbox Series X with &#39;Elden Ring,&#39; Apple TV 4K for $150, more](https://appleinsider.com/articles/22/06/02/daily-deals-june-2-discounted-iphone-12-11-off-xbox-series-x-with-elden-ring-apple-tv-4k-for-150-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
