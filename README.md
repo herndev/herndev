@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sheryl Sandberg and the Death of &#39;The Deal&#39;](https://www.wired.com/story/sheryl-sandberg-leaves-meta)
- - [The Solana blockchain was down for about four hours on Wednesday after a bug blocked consensus; network validators disabled the feature to restart the network &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220601/p36#a220601p36)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [Managed cybersecurity and intelligence services provider ReliaQuest to acquire Digital Shadows, which offers threat intelligence services, for $160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220601/p39#a220601p39)
+ - [Ordr, which uses AI to monitor IoT devices for suspicious events, raises a $40M Series C co-led by Battery Ventures and Ten Eleven Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p38#a220601p38)
+ - [Scientists Discover a Black Hole Illusion That Will Trick Your Brain and Your Eyes     - CNET](https://www.cnet.com/science/biology/scientists-discover-a-black-hole-illusion-that-will-trick-your-brain-and-your-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
