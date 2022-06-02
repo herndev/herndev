@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s head of AI to depart in group reorg](https://www.theverge.com/2022/6/2/23151819/meta-head-of-ai-jerome-pesenti-to-depart-in-reorg)
- - [CFTC sues Gemini, alleging that the crypto exchange&#39;s staff misled the federal regulator during Gemini&#39;s 2017 effort to launch bitcoin futures contracts. &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220602/p22#a220602p22)
- - [iPadOS 16 will reportedly include some much-needed multitasking improvements](https://www.theverge.com/2022/6/2/23151835/ipados-16-multitasking-improvements)<!-- TECH:END -->
+ - [Apple&#39;s latest iPad Pro is on sale from $699 &lpar;up to $210 off&rpar; with promo code](https://appleinsider.com/articles/22/05/30/apples-latest-ipad-pro-is-on-sale-from-699-up-to-210-off-with-promo-code?utm_medium=rss)
+ - [8 Great Outdoor Deals to Kickstart Your Summer of Fun](https://www.wired.com/story/outdoor-summer-deals-june-2-2022)
+ - [Deals: Apple&#39;s M1 MacBook Air is discounted to $899, plus $40 off AppleCare](https://appleinsider.com/articles/22/06/02/deals-apples-m1-macbook-air-is-discounted-to-899-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
