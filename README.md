@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer 40,000: Chaos Gate is free to keep for a limited time](https://www.pcgamer.com/warhammer-40000-chaos-gate-is-free-to-keep-for-a-limited-time)
  - [French Institution Bans English Words Like &#39;esports&#39; And &#39;Streaming&#39;](https://kotaku.com/france-french-language-esports-streamer-academie-franca-1849005217)
- - [The next game from the studio behind the Pathfinder RPGs is Warhammer 40,000: Rogue Trader](https://www.pcgamer.com/the-next-game-from-the-studio-behind-the-pathfinder-rpgs-is-warhammer-40000-rogue-trader)
- - [New Pokémon Scarlet And Violet Trailer Features Hot Profs, 4-Player Co-Op, And Lechonk, The Hero We Deserve](https://kotaku.com/pokemon-scarlet-violet-trailer-professors-lechonk-co-op-1849004871)<!-- GAME:END -->
+ - [The next game from the studio behind the Pathfinder RPGs is Warhammer 40,000: Rogue Trader](https://www.pcgamer.com/the-next-game-from-the-studio-behind-the-pathfinder-rpgs-is-warhammer-40000-rogue-trader)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
