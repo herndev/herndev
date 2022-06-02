@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No. 1 songs worldwide for June 1955-2021](http://9gag.com/gag/aVx12mw)
- - ⏩ [The truth hurts](http://9gag.com/gag/aDDNOX9)
- - 👉 [I dont know why... but im not even sad or angery about it.](http://9gag.com/gag/aBnNOo1)<!-- MEMES:END -->
+ - 💣 [The truth hurts](http://9gag.com/gag/aDDNOX9)
+ - ⏩ [Making Tequila](http://9gag.com/gag/aAGNO1Z)
+ - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
 
