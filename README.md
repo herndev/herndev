@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hyped](http://9gag.com/gag/aVx1B38)
- - ⏩ [I wish I didn&#39;t see color. So I wouldn&#39;t see the randomly highlighted word for no reason](http://9gag.com/gag/azeDQ8Z)
+ - 💣 [What goes around... comes around](http://9gag.com/gag/aogqng2)
+ - ⏩ [Hyped](http://9gag.com/gag/aVx1B38)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
