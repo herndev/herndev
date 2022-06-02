@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How modders brought Titanfall 2 back from the brink](https://www.pcgamer.com/how-modders-brought-titanfall-2-back-from-the-brink)
- - [The Steam Deck’s Docking Station has been delayed indefinitely](https://www.pcgamer.com/the-steam-decks-docking-station-has-been-delayed-indefinitely)
- - [Today&#39;s Wordle answer #348: Thursday, June 2](https://www.pcgamer.com/wordle-june-2-348)<!-- GAME:END -->
+ - [ANOTHER Guy Has Leaked Classified Military Documents On The SAME TANK GAME&#39;S forums](https://kotaku.com/war-thunder-tank-classified-military-document-leak-chin-1849005359)
+ - [Battle with Be’lakor in a major update to Warhammer: Vermintide 2’s Chaos Wastes expansion.](https://www.pcgamer.com/battle-with-belakor-in-a-major-update-to-warhammer-vermintide-2s-chaos-wastes-expansion)
+ - [How modders brought Titanfall 2 back from the brink](https://www.pcgamer.com/how-modders-brought-titanfall-2-back-from-the-brink)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
