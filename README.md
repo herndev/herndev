@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After building Meta&#39;s massive ad business, Sheryl Sandberg&#39;s legacy is complicated by blind spots on data, misinformation, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220602/p3#a220602p3)
- - [Get a free 5G phone on any Verizon unlimited plan, and more Verizon deals](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [We asked, you told us: You’ve all used your phone’s tele lens as a magnifier](https://www.androidauthority.com/smartphone-telephoto-camera-magnifier-poll-results-3172008/)<!-- TECH:END -->
+ - [Huawei Watch GT 3 Pro review: Titanium, ceramic, and compromises](https://www.androidauthority.com/huawei-watch-gt-3-pro-review-3171215/)
+ - [Volodymyr Zelensky on War, Technology, and the Future of Ukraine](https://www.wired.com/story/volodymyr-zelensky-q-and-a-ukraine-war-technology)
+ - [Qualcomm wants to team up with its rivals to buy Arm](https://www.androidauthority.com/qualcomm-consortium-rivals-buy-arm-3172048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
