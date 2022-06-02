@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases four principles recognizing its employees&#39; rights to organize; president Brad Smith promises an &quot;open and constructive approach&quot; to unions &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220602/p26#a220602p26)
- - [How to manage your shipping address on Amazon](https://www.androidauthority.com/change-shipping-address-amazon-3172258/)
- - [BMW is making an all-electric version of its redesigned X1 compact SUV](https://www.theverge.com/2022/6/2/23152090/bmw-2023-ix1-electric-x1-redesign)<!-- TECH:END -->
+ - [Swift Student Challenge winners show off free AirPods Pro, Apple swag](https://appleinsider.com/articles/22/06/02/swift-student-challenge-winners-show-off-free-airpods-pro-apple-swag?utm_medium=rss)
+ - [It’s okay if the Pixel Watch only manages a day of battery life](https://www.theverge.com/2022/6/2/23151748/pixel-watch-battery-wear-os-3-google-apple-samsung)
+ - [NASA Releases Totally Rad Roman Telescope Retro Video Game     - CNET](https://www.cnet.com/science/space/nasa-releases-totally-rad-roman-telescope-retro-video-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
