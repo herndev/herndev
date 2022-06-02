@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [US Supreme Court blocks Texas law forbidding social media companies from deleting posts](https://www.pcgamer.com/us-supreme-court-blocks-texas-law-forbidding-social-media-companies-from-deleting-posts)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
- - [Wolfenstein: The New Order is free on the Epic Games Store](https://www.polygon.com/23152172/epic-games-store-free-wolfenstein-new-order-mega-sale-pc)<!-- GAME:END -->
+ - [Microsoft Promises To Play Nice With Future Unions Too](https://kotaku.com/microsoft-xbox-activision-blizzard-union-busting-ftc-ca-1849010773)
+ - [Chinese military secrets leaked on a video game forum](https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum)
+ - [Bungie admits Destiny 2&#39;s Solar 3.0 did not melt anyone&#39;s face off](https://www.pcgamer.com/bungie-admits-destiny-2s-solar-30-did-not-melt-anyones-face-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
