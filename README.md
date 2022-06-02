@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [JUSTICE BABY! Amber lost!](http://9gag.com/gag/apgjbNb)
- - ⏩ [De_Verdict](http://9gag.com/gag/aDDNV49)
+ - 💣 [De_Verdict](http://9gag.com/gag/aDDNV49)
+ - ⏩ [How can I get back into it?](http://9gag.com/gag/aVx12bK)
  - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
 
 ---
