@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walmart’s scheduled PlayStation 5 restock is happening now](https://www.theverge.com/2022/5/19/23130194/sony-playstation-5-ps5-walmart-plus-console-restock-availability-date-time)
- - [FEC data: crypto sector&#39;s political donations reached $26.3M in 2021 and Q1 2022, outpacing donations from Big Tech, drug makers, and the defense industry &lpar;Bloomberg&rpar;](http://www.techmeme.com/220602/p24#a220602p24)
- - [How to reuse an iPad as a HomeKit dashboard](https://appleinsider.com/articles/22/06/02/how-to-reuse-an-ipad-as-a-homekit-dashboard?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft releases four principles recognizing its employees&#39; rights to organize; president Brad Smith promises an &quot;open and constructive approach&quot; to unions &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220602/p26#a220602p26)
+ - [How to manage your shipping address on Amazon](https://www.androidauthority.com/change-shipping-address-amazon-3172258/)
+ - [BMW is making an all-electric version of its redesigned X1 compact SUV](https://www.theverge.com/2022/6/2/23152090/bmw-2023-ix1-electric-x1-redesign)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
