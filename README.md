@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Pulls Nintendo Soundtracks After Receiving Over 500 Copyright Claims](https://kotaku.com/nintendo-music-youtube-deoxysprime-legal-lawyers-copyri-1849005989)
- - [Monster Hunter’s Sunbreak expansion is a tonal shift from Rise](https://www.polygon.com/23150196/monster-hunter-rise-sunbreak-preview-interview-the-citadel-map)
- - [Graphics card shipments have actually declined in 2022](https://www.pcgamer.com/graphics-card-shipments-have-actually-declined-in-2022)<!-- GAME:END -->
+ - [How modders brought Titanfall 2 back from the brink](https://www.pcgamer.com/how-modders-brought-titanfall-2-back-from-the-brink)
+ - [The Steam Deck’s Docking Station has been delayed indefinitely](https://www.pcgamer.com/the-steam-decks-docking-station-has-been-delayed-indefinitely)
+ - [Today&#39;s Wordle answer #348: Thursday, June 2](https://www.pcgamer.com/wordle-june-2-348)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
