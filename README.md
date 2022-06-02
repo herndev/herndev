@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis of S&amp;P 500 companies: Alphabet and Meta had the highest median pay for workers in 2021 at nearly $300K; Apple&#39;s median pay was ~$68K, Amazon&#39;s ~$32K &lpar;Inti Pacheco/Wall Street Journal&rpar;](http://www.techmeme.com/220601/p32#a220601p32)
- - [How to make and share your Amazon wish list](https://www.androidauthority.com/make-amazon-wish-list-3171838/)
- - [How to find and follow friends on Spotify](https://www.androidauthority.com/how-to-find-friends-spotify-3085231/)<!-- TECH:END -->
+ - [Sheryl Sandberg and the Death of &#39;The Deal&#39;](https://www.wired.com/story/sheryl-sandberg-leaves-meta)
+ - [The Solana blockchain was down for about four hours on Wednesday after a bug blocked consensus; network validators disabled the feature to restart the network &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/220601/p36#a220601p36)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
