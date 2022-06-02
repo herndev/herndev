@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect Ending](http://9gag.com/gag/a716pMe)
- - ⏩ [Dad: `no we are not getting a dog`. Also dad:](http://9gag.com/gag/a716p5q)
- - 👉 [Gentlemen... WE GOT HER. Our Pirate won the case!](http://9gag.com/gag/aVx1ZGP)<!-- MEMES:END -->
+ - 💣 [Deadlock!](http://9gag.com/gag/a51yqXG)
+ - ⏩ [How can I get back into it?](http://9gag.com/gag/aVx12bK)
+ - 👉 [It&#39;s 3 A.M. Husky:](http://9gag.com/gag/a91NOmD)<!-- MEMES:END -->
 
 ---
 
