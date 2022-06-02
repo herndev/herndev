@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: online insurance marketplace Policygenius has laid off ~170 employees, or ~25% of its staff, less than three months after raising a $125M Series E &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220602/p30#a220602p30)
- - [Coinbase extends its hiring pause &quot;for as long as this macro environment requires&quot; and will &quot;rescind a number of accepted offers&quot;, notifying new hires via email &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220602/p29#a220602p29)
- - [These Drones Could Bring You 5G Networking After a Hurricane     - CNET](https://www.cnet.com/tech/mobile/these-drones-could-bring-you-5g-networking-after-a-hurricane/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Horizon, Resident Evil Village, and more are coming to PlayStation VR2](https://www.theverge.com/2022/6/2/23152445/horizon-resident-evil-village-4-no-mans-sky-playstation-vr2-psvr2-trailers)
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
+ - [Sources: Apple plans to improve working hours for retail staff, including more hours between shifts, no work for more than five days in a row, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220602/p31#a220602p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
