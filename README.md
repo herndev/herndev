@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diablo Immortal coming out, with PC support. Only took 4 years... Bring forth the red shirt legend !!!](http://9gag.com/gag/aggZ8Pq)
- - ⏩ [De_Verdict](http://9gag.com/gag/aDDNV49)
- - 👉 [Be salty Amber Heard supporters. Justice is served.](http://9gag.com/gag/awzGOR8)<!-- MEMES:END -->
+ - 💣 [De_Verdict](http://9gag.com/gag/aDDNV49)
+ - ⏩ [Be salty Amber Heard supporters. Justice is served.](http://9gag.com/gag/awzGOR8)
+ - 👉 [Not sure who cares to see this, but I just defeated Rathalos for the first time in Monster Hunter 1 for PS2 and I couldn&#39;t be more proud. Thanks for reading](http://9gag.com/gag/ajgMKvq)<!-- MEMES:END -->
 
 ---
 
