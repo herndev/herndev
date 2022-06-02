@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Google staff say Google is willfully ignoring caste bias after it canceled a presentation on the topic, which led to the resignation of a senior manager &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220602/p8#a220602p8)
- - [Texting Is a Hellscape. Is There a Way Out?](https://www.wired.com/story/gadget-lab-podcast-552)
- - [Smaller Reactors May Still Have a Big Nuclear Waste Problem](https://www.wired.com/story/smaller-reactors-may-still-have-a-big-nuclear-waste-problem)<!-- TECH:END -->
+ - [You can request an invite to buy a PS5 on Amazon](https://www.theverge.com/2022/6/2/23151466/playstation-5-ps5-invite-amazon-buy-restock)
+ - [Ford announces new Mustang, Ranger, and commercial EV in major Midwest expansion](https://www.theverge.com/2022/6/2/23151480/ford-mustang-ranger-commercial-ev-invest-midwest)
+ - [Sonos’ long-awaited Sub Mini shows up at the FCC](https://www.theverge.com/2022/6/2/23151437/sonos-sub-mini-budget-subwoofer-fcc-specs-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
