@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music stops pushing apps out of the dock in the iOS 15.6 beta](https://appleinsider.com/articles/22/06/02/apple-music-stops-pushing-apps-out-of-the-dock-in-the-ios-156-beta?utm_medium=rss)
- - [Daily Authority: ⛔ Diablo’s no-no](https://www.androidauthority.com/daily-authority-june-2-2022-3172120/)
- - [Arctis&#39; Nova Pro Wireless Sound Great, Unless You&#39;re Speaking](https://www.wired.com/review/steelseries-arctis-nova-pro-wireless)<!-- TECH:END -->
+ - [Some Google staff say Google is willfully ignoring caste bias after it canceled a presentation on the topic, which led to the resignation of a senior manager &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220602/p8#a220602p8)
+ - [Texting Is a Hellscape. Is There a Way Out?](https://www.wired.com/story/gadget-lab-podcast-552)
+ - [Smaller Reactors May Still Have a Big Nuclear Waste Problem](https://www.wired.com/story/smaller-reactors-may-still-have-a-big-nuclear-waste-problem)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
