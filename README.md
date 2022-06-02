@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei Watch GT 3 Pro review: Titanium, ceramic, and compromises](https://www.androidauthority.com/huawei-watch-gt-3-pro-review-3171215/)
- - [Volodymyr Zelensky on War, Technology, and the Future of Ukraine](https://www.wired.com/story/volodymyr-zelensky-q-and-a-ukraine-war-technology)
- - [Qualcomm wants to team up with its rivals to buy Arm](https://www.androidauthority.com/qualcomm-consortium-rivals-buy-arm-3172048/)<!-- TECH:END -->
+ - [Apple Music stops pushing apps out of the dock in the iOS 15.6 beta](https://appleinsider.com/articles/22/06/02/apple-music-stops-pushing-apps-out-of-the-dock-in-the-ios-156-beta?utm_medium=rss)
+ - [Daily Authority: ⛔ Diablo’s no-no](https://www.androidauthority.com/daily-authority-june-2-2022-3172120/)
+ - [Arctis&#39; Nova Pro Wireless Sound Great, Unless You&#39;re Speaking](https://www.wired.com/review/steelseries-arctis-nova-pro-wireless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
