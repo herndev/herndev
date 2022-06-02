@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She dares to play the `this is a setback for all women card`...](http://9gag.com/gag/aWgND44)
- - ⏩ [I dont know why... but im not even sad or angery about it.](http://9gag.com/gag/aBnNOo1)
+ - 💣 [Dude Throws Cup Of Urine Into Crowd...](http://9gag.com/gag/aE8NZro)
+ - ⏩ [Chinese Alexa would be a great idea](http://9gag.com/gag/aLvNWVM)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
