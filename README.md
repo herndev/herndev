@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Resident Evil 4 comes to PS5 next year: first gameplay and story details](https://blog.playstation.com/2022/06/02/resident-evil-4-comes-to-ps5-next-year-first-gameplay-and-story-details/)
- - [Resident Evil 4 comes to PS5 next year: first gameplay and story details](https://blog.playstation.com/2022/06/02/resident-evil-4-comes-to-ps5-next-year-first-gameplay-and-story-details/)
- - [Resident Evil 4 remake announced, coming March 2023](https://www.polygon.com/23152449/resident-evil-4-remake-release-date-capcom)<!-- GAME:END -->
+ - [Everything Sony Showed At PlayStation&#39;s Big State Of Play Event](https://kotaku.com/sony-playstation-state-of-play-e3-2022-showcase-present-1849011711)
+ - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)
+ - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
