@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Madden NFL 23](https://news.xbox.com/en-us/2022/06/02/welcome-to-madden-nfl-23/)
- - [Madden NFL 23’s mission: Shed the canned tackles that have long dragged it down](https://www.polygon.com/23151502/madden-nfl-23-gameplay-preview-release-date-screenshots)
- - [Check out these wicked helicopter skills in GTA Online](https://www.pcgamer.com/check-out-these-wicked-helicopter-skills-in-gta-online)<!-- GAME:END -->
+ - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)
+ - [The sci-fi story Crimes of the Future puts the king of body horror back in his slimy saddle](https://www.polygon.com/23150682/crimes-of-the-future-david-cronenberg-review-sex-surgery)
+ - [Free Play Days – Warhammer: Chaosbane, Warhammer: Vermintide 2, and Warhammer 40,000: Mechanicus](https://news.xbox.com/en-us/2022/06/02/free-play-days-warhammer-chaosbane-warhammer-vermintide-2-and-warhammer-40000-mechanicus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
