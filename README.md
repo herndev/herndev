@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [River City Girl&#39;s Sequel Aims To Perfect That Juicy Fusion Of Anime And Wrestling](https://kotaku.com/river-city-girls-2-sequel-upcoming-release-arc-system-w-1849009237)
- - [10 Things I Wish I Knew Before Starting V Rising](https://kotaku.com/v-rising-steam-stunlock-studios-vampire-survival-1849009270)
- - [How to watch Sony&#39;s Summer 2022 State of Play](https://www.pcgamer.com/sony-state-of-play-summer-2022-june-2)<!-- GAME:END -->
+ - [Obi-Wan Kenobi Just Crossed Over With Jedi Fallen Order](https://kotaku.com/obi-wan-kenobi-star-wars-jedi-fallen-order-easter-egg-d-1849009341)
+ - [Lechonk, The Cute New Hog Pokémon, Spotted In AEW Audience](https://kotaku.com/pokemon-scarlet-violet-lechonk-aew-mjf-cm-punk-pipe-bom-1849009421)
+ - [Will Arnett is Sweet Tooth in the live-action Twisted Metal TV show](https://www.polygon.com/23152056/will-arnett-sweet-tooth-twisted-metal-series-peacock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
