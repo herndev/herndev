@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amber heard officially lost the case! Johnny Depp won!!](http://9gag.com/gag/adg4xmM)
- - ⏩ [Not sure who cares to see this, but I just defeated Rathalos for the first time in Monster Hunter 1 for PS2 and I couldn&#39;t be more proud. Thanks for reading](http://9gag.com/gag/ajgMKvq)
- - 👉 [Johnny Depp wins](http://9gag.com/gag/aggZ4G6)<!-- MEMES:END -->
+ - 💣 [Dad: `no we are not getting a dog`. Also dad:](http://9gag.com/gag/a716p5q)
+ - ⏩ [Thnx to them !](http://9gag.com/gag/angWExB)
+ - 👉 [Not sure who cares to see this, but I just defeated Rathalos for the first time in Monster Hunter 1 for PS2 and I couldn&#39;t be more proud. Thanks for reading](http://9gag.com/gag/ajgMKvq)<!-- MEMES:END -->
 
 ---
 
