@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Promises To Play Nice With Future Unions Too](https://kotaku.com/microsoft-xbox-activision-blizzard-union-busting-ftc-ca-1849010773)
- - [Chinese military secrets leaked on a video game forum](https://www.polygon.com/23152203/war-thunder-chinese-tank-weapon-leak-classified-military-secrets-forum)
- - [Bungie admits Destiny 2&#39;s Solar 3.0 did not melt anyone&#39;s face off](https://www.pcgamer.com/bungie-admits-destiny-2s-solar-30-did-not-melt-anyones-face-off)<!-- GAME:END -->
+ - [Resident Evil 4 comes to PS5 next year: first gameplay and story details](https://blog.playstation.com/2022/06/02/resident-evil-4-comes-to-ps5-next-year-first-gameplay-and-story-details/)
+ - [Resident Evil 4 comes to PS5 next year: first gameplay and story details](https://blog.playstation.com/2022/06/02/resident-evil-4-comes-to-ps5-next-year-first-gameplay-and-story-details/)
+ - [Resident Evil 4 remake announced, coming March 2023](https://www.polygon.com/23152449/resident-evil-4-remake-release-date-capcom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
