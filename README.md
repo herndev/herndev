@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Managed cybersecurity and intelligence services provider ReliaQuest to acquire Digital Shadows, which offers threat intelligence services, for $160M &lpar;Duncan Riley/SiliconANGLE&rpar;](http://www.techmeme.com/220601/p39#a220601p39)
- - [Ordr, which uses AI to monitor IoT devices for suspicious events, raises a $40M Series C co-led by Battery Ventures and Ten Eleven Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220601/p38#a220601p38)
- - [Scientists Discover a Black Hole Illusion That Will Trick Your Brain and Your Eyes     - CNET](https://www.cnet.com/science/biology/scientists-discover-a-black-hole-illusion-that-will-trick-your-brain-and-your-eyes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Railway, which provides a dashboard for building, deploying, and monitoring apps and services, raises a $20M Series A led by Redpoint Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220602/p1#a220602p1)
+ - [Why Johnny Depp vs. Amber Heard Dominated the Internet     - CNET](https://www.cnet.com/culture/why-johnny-depp-vs-amber-heard-dominated-the-internet/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39;: When Are the Next Episodes Released on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-when-are-the-next-episodes-released-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
