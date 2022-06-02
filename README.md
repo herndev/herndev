@@ -97,7 +97,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Removes Nintendo Soundtracks After Receiving Over 500 Copyright Claims](https://kotaku.com/nintendo-music-youtube-deoxysprime-legal-lawyers-copyri-1849005989)
+ - [YouTuber Pulls Nintendo Soundtracks After Receiving Over 500 Copyright Claims](https://kotaku.com/nintendo-music-youtube-deoxysprime-legal-lawyers-copyri-1849005989)
  - [Monster Hunter’s Sunbreak expansion is a tonal shift from Rise](https://www.polygon.com/23150196/monster-hunter-rise-sunbreak-preview-interview-the-citadel-map)
  - [Graphics card shipments have actually declined in 2022](https://www.pcgamer.com/graphics-card-shipments-have-actually-declined-in-2022)<!-- GAME:END -->
 
