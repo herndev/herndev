@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Obi-Wan Kenobi Just Crossed Over With Jedi Fallen Order](https://kotaku.com/obi-wan-kenobi-star-wars-jedi-fallen-order-easter-egg-d-1849009341)
- - [Lechonk, The Cute New Hog Pokémon, Spotted In AEW Audience](https://kotaku.com/pokemon-scarlet-violet-lechonk-aew-mjf-cm-punk-pipe-bom-1849009421)
- - [Will Arnett is Sweet Tooth in the live-action Twisted Metal TV show](https://www.polygon.com/23152056/will-arnett-sweet-tooth-twisted-metal-series-peacock)<!-- GAME:END -->
+ - [US Supreme Court blocks Texas law forbidding social media companies from deleting posts](https://www.pcgamer.com/us-supreme-court-blocks-texas-law-forbidding-social-media-companies-from-deleting-posts)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
+ - [Wolfenstein: The New Order is free on the Epic Games Store](https://www.polygon.com/23152172/epic-games-store-free-wolfenstein-new-order-mega-sale-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
