@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War gets support for AMD FSR 2.0](https://www.pcgamer.com/god-of-war-gets-support-for-amd-fsr-20)
- - [ANOTHER Guy Has Leaked Classified Military Documents On The SAME TANK GAME&#39;S forums](https://kotaku.com/war-thunder-tank-classified-military-document-leak-chin-1849005359)
- - [Battle with Be’lakor in a major update to Warhammer: Vermintide 2’s Chaos Wastes expansion.](https://www.pcgamer.com/battle-with-belakor-in-a-major-update-to-warhammer-vermintide-2s-chaos-wastes-expansion)<!-- GAME:END -->
+ - [The best order to watch all of Star Wars, based on your needs](https://www.polygon.com/2019/11/13/20959862/star-wars-watch-order-disney-plus-movies-shows-chronological-skywalker-saga)
+ - [The oft-overlooked first Witcher has one of the best cities in gaming](https://www.pcgamer.com/the-oft-overlooked-first-witcher-has-one-of-the-best-cities-in-gaming)
+ - [God of War gets support for AMD FSR 2.0](https://www.pcgamer.com/god-of-war-gets-support-for-amd-fsr-20)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
