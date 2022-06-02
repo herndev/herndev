@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Swift Student Challenge winners show off free AirPods Pro, Apple swag](https://appleinsider.com/articles/22/06/02/swift-student-challenge-winners-show-off-free-airpods-pro-apple-swag?utm_medium=rss)
- - [It’s okay if the Pixel Watch only manages a day of battery life](https://www.theverge.com/2022/6/2/23151748/pixel-watch-battery-wear-os-3-google-apple-samsung)
- - [NASA Releases Totally Rad Roman Telescope Retro Video Game     - CNET](https://www.cnet.com/science/space/nasa-releases-totally-rad-roman-telescope-retro-video-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: online insurance marketplace Policygenius has laid off ~170 employees, or ~25% of its staff, less than three months after raising a $125M Series E &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220602/p30#a220602p30)
+ - [Coinbase extends its hiring pause &quot;for as long as this macro environment requires&quot; and will &quot;rescind a number of accepted offers&quot;, notifying new hires via email &lpar;Anushree Dave/The Block&rpar;](http://www.techmeme.com/220602/p29#a220602p29)
+ - [These Drones Could Bring You 5G Networking After a Hurricane     - CNET](https://www.cnet.com/tech/mobile/these-drones-could-bring-you-5g-networking-after-a-hurricane/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
