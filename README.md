@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Enterprise software companies like IBM, HP, and Oracle have shown resilience amid the recent tech rout, boosted by demand for their cloud computing services &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/220602/p12#a220602p12)
- - [Twitter is building a tool for keyword alerts, in case you need more Twitter notifications](https://www.theverge.com/2022/6/2/23151492/twitter-keyword-alerts-notifications)
- - [Daily deals June 2: discounted iPhone 12, 11% off Xbox Series X with &#39;Elden Ring,&#39; Apple TV 4K for $150, more](https://appleinsider.com/articles/22/06/02/daily-deals-june-2-discounted-iphone-12-11-off-xbox-series-x-with-elden-ring-apple-tv-4k-for-150-more?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M1 MacBook Air is discounted to $899, plus $40 off AppleCare](https://appleinsider.com/articles/22/06/02/deals-apples-m1-macbook-air-is-discounted-to-899-plus-40-off-applecare?utm_medium=rss)
+ - [Ring raised its subscription prices without warning, and users are furious](https://www.theverge.com/2022/6/2/23151531/ring-protect-basic-price-increase-subscription)
+ - [Psychological thriller series &#39;Surface&#39; set to debut on Apple TV+ in July](https://appleinsider.com/articles/22/06/02/psychological-thriller-series-surface-set-to-debut-on-apple-tv-in-july?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
