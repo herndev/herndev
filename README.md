@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [De_Verdict](http://9gag.com/gag/aDDNV49)
- - ⏩ [How can I get back into it?](http://9gag.com/gag/aVx12bK)
- - 👉 [Normalize buying a run of 7 frozen pizzas.](http://9gag.com/gag/adg4OqD)<!-- MEMES:END -->
+ - 💣 [Diablo Immortal coming out, with PC support. Only took 4 years... Bring forth the red shirt legend !!!](http://9gag.com/gag/aggZ8Pq)
+ - ⏩ [De_Verdict](http://9gag.com/gag/aDDNV49)
+ - 👉 [Be salty Amber Heard supporters. Justice is served.](http://9gag.com/gag/awzGOR8)<!-- MEMES:END -->
 
 ---
 
