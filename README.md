@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Callisto Protocol: Everything we know about the sci-fi survival horror from Dead Space veterans](https://www.pcgamer.com/callisto-protocol-release-date-trailer-everything-we-know)
  - [Warhammer 40,000: Chaos Gate is free to keep for a limited time](https://www.pcgamer.com/warhammer-40000-chaos-gate-is-free-to-keep-for-a-limited-time)
- - [French Institution Bans English Words Like &#39;esports&#39; And &#39;Streaming&#39;](https://kotaku.com/france-french-language-esports-streamer-academie-franca-1849005217)
- - [The next game from the studio behind the Pathfinder RPGs is Warhammer 40,000: Rogue Trader](https://www.pcgamer.com/the-next-game-from-the-studio-behind-the-pathfinder-rpgs-is-warhammer-40000-rogue-trader)<!-- GAME:END -->
+ - [French Institution Bans English Words Like &#39;esports&#39; And &#39;Streaming&#39;](https://kotaku.com/france-french-language-esports-streamer-academie-franca-1849005217)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
