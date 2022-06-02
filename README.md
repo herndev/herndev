@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Despite she can&#39;t afford to pay the $10.4 million &lpar;+Including the Remaining Pledged Donation&rpar;, Amber Heard and her attorney would still go for an appeal](http://9gag.com/gag/a91NVED)
- - ⏩ [It&#39;s time to Duel!](http://9gag.com/gag/aAGNN3E)
+ - 💣 [Getting there](http://9gag.com/gag/a81XnrO)
+ - ⏩ [I am speed](http://9gag.com/gag/a0ZWWRL)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
