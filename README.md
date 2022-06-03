@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Accuracy of Airfare Predictions Is Up in the Air](https://www.wired.com/story/airfare-prediction-tools)
- - [Apple’s Software Strategy Is More Important Than Ever](https://www.wired.com/story/wwdc-2022-what-to-expect)
- - [The Fight Against Robocall Spam and Scams Heats Up in India](https://www.wired.com/story/india-robocall-spam-caller-id)<!-- TECH:END -->
+ - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
+ - [EU about to finalize law that would require Apple to use USB-C on iPhones](https://appleinsider.com/articles/22/06/03/eu-about-to-finalize-law-that-would-require-apple-to-use-usb-c-on-iphones?utm_medium=rss)
+ - [Honor&#39;s Magic 4 Pro Is a Decent Phone, but It&#39;s No Huawei](https://www.wired.com/review/honor-magic-4-pro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
