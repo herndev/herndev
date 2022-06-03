@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to do if your Mac is stolen](https://appleinsider.com/inside/mac/tips/what-to-do-if-your-mac-is-stolen?utm_medium=rss)
- - [Cruise can finally start charging for fully driverless robotaxis](https://www.theverge.com/2022/6/3/23153183/cruise-paid-driverless-rides-fares-san-francisco)
- - [Samsung’s forthcoming Galaxy Watch 5 Pro ‘confirmed’ in beta app](https://www.theverge.com/2022/6/3/23153057/samsung-galaxy-watch-5-pro-smartwatch-wearable)<!-- TECH:END -->
+ - [Amazon is closing down its Kindle store in China](https://www.theverge.com/2022/6/3/23153303/amazon-china-closing-kindle-store-business)
+ - [Report: EU could pass legislation next week ending Apple’s Lightning connector](https://www.androidauthority.com/eu-poised-to-adopt-usb-c-3172628/)
+ - [A bipartisan data privacy bill, unveiled in the House and Senate, will let users opt out of targeted ads and sue companies that improperly sell their data, more &lpar;Washington Post&rpar;](http://www.techmeme.com/220603/p12#a220603p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
