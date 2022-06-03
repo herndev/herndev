@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks 101: how to take screenshots on your Chromebook](https://www.theverge.com/23144906/chromebooks-screenshots-chrome-os-how-to)
- - [Atlanta store union vote is postponed not cancelled, says organizers](https://appleinsider.com/articles/22/06/03/atlanta-store-union-vote-is-postponed-not-cancelled-says-organizers?utm_medium=rss)
- - [Apple highlights three young winners of the Swift Student Challenge](https://appleinsider.com/articles/22/06/03/apple-highlights-three-young-winners-of-the-swift-student-challenge?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Astro review: too much Alexa, not enough arms](https://www.theverge.com/23141966/amazon-astro-robot-review)
+ - [Vergecast: Meta’s executive shakeup, vaporware cars, and a WWDC preview](https://www.theverge.com/23153028/vergecast-499-podcast-sandberg-facebook-unreal-engine-volvo-delorean-wwdc-2022)
+ - [Shows like Shining Girls: 9 titles to check out after the Apple series](https://www.androidauthority.com/shows-like-shining-girls-apple-tv-plus-3170898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
