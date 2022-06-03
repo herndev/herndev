@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is closing down its Kindle store in China](https://www.theverge.com/2022/6/3/23153303/amazon-china-closing-kindle-store-business)
- - [Report: EU could pass legislation next week ending Apple’s Lightning connector](https://www.androidauthority.com/eu-poised-to-adopt-usb-c-3172628/)
- - [A bipartisan data privacy bill, unveiled in the House and Senate, will let users opt out of targeted ads and sue companies that improperly sell their data, more &lpar;Washington Post&rpar;](http://www.techmeme.com/220603/p12#a220603p12)<!-- TECH:END -->
+ - [The New York State Assembly passes the first right-to-repair bill in the US covering electronics; Governor Kathy Hochul is expected to sign the measure &lpar;Russell Brandom/The Verge&rpar;](http://www.techmeme.com/220603/p14#a220603p14)
+ - [The best HomeKit locks for your smart home in 2022](https://appleinsider.com/articles/22/06/02/the-best-homekit-locks-for-your-smart-home-in-2022?utm_medium=rss)
+ - [Google is eliminating the most easily accessible version of Android Auto](https://www.theverge.com/2022/6/3/23153100/android-auto-app-phone-screens-discontinued)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
