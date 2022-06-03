@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wolfenstein: The New Order, One Of The Best Shooters Ever, Is Currently Free On PC](https://kotaku.com/wolfenstein-new-order-id-machinegames-free-epic-store-d-1849013982)
- - [Horizon Forbidden West’s new game plus mode included in big update](https://www.polygon.com/23153085/horizon-forbidden-west-update-new-game-plus-ultra-hard-difficulty-modes-how-to-start)
- - [The anime movie Fortune Favors Lady Nikuko is bold, bright, and surprisingly cruel](https://www.polygon.com/23152038/fortune-favors-lady-nikuko-review-anime-movie)<!-- GAME:END -->
+ - [Morbius memes its way back to movie theaters to make morbillions](https://www.polygon.com/23153203/morbius-back-in-theaters)
+ - [The horror movie Watcher asks and answers ‘Are scream queens still a thing?’](https://www.polygon.com/23152041/watcher-review-maika-monroe-scream-queens)
+ - [Share of the Week: NPCs of Horizon Forbidden West](https://blog.playstation.com/2022/06/03/share-of-the-week-npcs-of-horizon-forbidden-west/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
