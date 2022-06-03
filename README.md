@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get a dog they said](http://9gag.com/gag/amgbKDv)
+ - 💣 [Driver tries to run over Insulate Britain protestors](http://9gag.com/gag/abgmKoL)
  - ⏩ [Facts](http://9gag.com/gag/a11q8LR)
- - 👉 [Johnny Depp version India &lpar;\u20b9500 = $7&rpar;](http://9gag.com/gag/a21jALD)<!-- MEMES:END -->
+ - 👉 [It is what it is](http://9gag.com/gag/axBn8VW)<!-- MEMES:END -->
 
 ---
 
