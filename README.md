@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 3 was ultimate freedom for builders](https://www.pcgamer.com/the-sims-3-was-ultimate-freedom-for-builders)
- - [Leon&#39;s jacket in Resident Evil 4 Remake is a real thing you can buy](https://www.pcgamer.com/leons-jacket-in-resident-evil-4-remake-is-a-real-thing-you-can-buy)
- - [Nvidia&#39;s RTX 40 series may be many months away from release](https://www.pcgamer.com/nvidias-rtx-40-series-may-be-many-months-away-from-release)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #349: Friday, June 3](https://www.pcgamer.com/wordle-june-3-349)
+ - [10 years on, Super Hexagon just got a major update](https://www.pcgamer.com/10-years-on-super-hexagon-just-got-a-major-update)
+ - [The Sims 3 was ultimate freedom for builders](https://www.pcgamer.com/the-sims-3-was-ultimate-freedom-for-builders)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
