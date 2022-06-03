@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Pocket VP Matt Koidin on the 50M/month articles people save, longform content, the &quot;algotorial&quot; approach to the Pocket Hits newsletter, and more &lpar;Delia Cai/Vanity Fair&rpar;](http://www.techmeme.com/220603/p15#a220603p15)
- - [Firm sues Samsung over basic battery tech, could have far-reaching impact](https://www.androidauthority.com/samsung-battery-lawsuit-3172675/)
- - [Everything we learned from Final Fantasy XVI’s new trailer](https://www.theverge.com/2022/6/3/23153215/final-fantasy-xvi-trailer-lore-square-enix)<!-- TECH:END -->
+ - [LG’s new lifestyle TV reminds us that TVs don’t have to be ugly](https://www.theverge.com/2022/6/3/23153581/lifestyle-tvs-lg-pose-easel-oled-tv-design)
+ - [The best tech you can gift mom year round](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
+ - [This Week in Elon: Come back to the office, you’re fired](https://www.theverge.com/2022/6/3/23153369/this-week-in-elon-musk-twitter-spacex-tesla)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
