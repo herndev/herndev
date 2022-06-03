@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
- - [EU about to finalize law that would require Apple to use USB-C on iPhones](https://appleinsider.com/articles/22/06/03/eu-about-to-finalize-law-that-would-require-apple-to-use-usb-c-on-iphones?utm_medium=rss)
- - [Honor&#39;s Magic 4 Pro Is a Decent Phone, but It&#39;s No Huawei](https://www.wired.com/review/honor-magic-4-pro)<!-- TECH:END -->
+ - [Chromebooks 101: how to take screenshots on your Chromebook](https://www.theverge.com/23144906/chromebooks-screenshots-chrome-os-how-to)
+ - [Atlanta store union vote is postponed not cancelled, says organizers](https://appleinsider.com/articles/22/06/03/atlanta-store-union-vote-is-postponed-not-cancelled-says-organizers?utm_medium=rss)
+ - [Apple highlights three young winners of the Swift Student Challenge](https://appleinsider.com/articles/22/06/03/apple-highlights-three-young-winners-of-the-swift-student-challenge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
