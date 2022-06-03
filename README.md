@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 Changed Its Terrible Logo](https://kotaku.com/street-fighter-6-vi-capcom-logo-graphic-design-fix-upda-1849012069)
- - [Wolfenstein: The New Order goes free on the Epic Store](https://www.pcgamer.com/wolfenstein-the-new-order-goes-free-on-the-epic-store)
- - [Final Fantasy 16&#39;s music is by legendary composer Masayoshi Soken and it already rules](https://www.pcgamer.com/final-fantasy-16s-music-is-by-legendary-composer-masayoshi-soken-and-it-already-rules)<!-- GAME:END -->
+ - [The Afrofuturist musical Neptune Frost lays out a bold, bizarre vision for a world to come](https://www.polygon.com/22903338/neptune-frost-review-afrofuturism-musical-sci-fi)
+ - [Returnal and Sackboy for PC seem even more real thanks to these convincing leaks](https://www.pcgamer.com/returnal-and-sackboy-for-pc-seem-even-more-real-thanks-to-these-convincing-leaks)
+ - [These AI-generated Dukes Nukem never asked to be born](https://www.pcgamer.com/these-ai-generated-dukes-nukem-never-asked-to-be-born)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
