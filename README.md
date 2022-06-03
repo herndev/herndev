@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cheating used to be fun](https://www.polygon.com/videos/23153403/cheating-games-codes-secrets)
- - [Chun-Li gets new voice actor in Street Fighter 6](https://www.polygon.com/23153443/street-fighter-6-chun-li-voice-actor-jennie-kwan)
- - [Looks Like Street Fighter 6’s Entire Roster May Have Already Leaked](https://kotaku.com/sf6-street-fighter-6-leak-capcom-roster-ryu-marisa-camm-1849015598)<!-- GAME:END -->
+ - [Y&#39;all Morbed Too Hard, Now Morbius Is Coming Back To 1,000 Theaters](https://kotaku.com/morbius-morbin-time-memes-marvel-sony-theaters-sequel-1849016291)
+ - [New Persona-Inspired JRPG Has You Fighting The Apocalypse, Holding Hands Lewdly](https://kotaku.com/eternights-persona-playstation-state-of-play-jrpg-roman-1849016237)
+ - [Cheating used to be fun](https://www.polygon.com/videos/23153403/cheating-games-codes-secrets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
