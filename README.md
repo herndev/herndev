@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 40 series may be many months away from release](https://www.pcgamer.com/nvidias-rtx-40-series-may-be-many-months-away-from-release)
- - [The Afrofuturist musical Neptune Frost lays out a bold, bizarre vision for a world to come](https://www.polygon.com/22903338/neptune-frost-review-afrofuturism-musical-sci-fi)
- - [Returnal and Sackboy for PC seem even more real thanks to these convincing leaks](https://www.pcgamer.com/returnal-and-sackboy-for-pc-seem-even-more-real-thanks-to-these-convincing-leaks)<!-- GAME:END -->
+ - [The Sims 3 was ultimate freedom for builders](https://www.pcgamer.com/the-sims-3-was-ultimate-freedom-for-builders)
+ - [Leon&#39;s jacket in Resident Evil 4 Remake is a real thing you can buy](https://www.pcgamer.com/leons-jacket-in-resident-evil-4-remake-is-a-real-thing-you-can-buy)
+ - [Nvidia&#39;s RTX 40 series may be many months away from release](https://www.pcgamer.com/nvidias-rtx-40-series-may-be-many-months-away-from-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
