@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Driver tries to run over Insulate Britain protestors](http://9gag.com/gag/abgmKoL)
- - ⏩ [Facts](http://9gag.com/gag/a11q8LR)
+ - 💣 [Well, what can I say](http://9gag.com/gag/aegPEMp)
+ - ⏩ [More games need to have this](http://9gag.com/gag/aKmNy8W)
  - 👉 [It is what it is](http://9gag.com/gag/axBn8VW)<!-- MEMES:END -->
 
 ---
