@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you&#39;ve know you&#39;ve been a bad boy!](http://9gag.com/gag/aM4NDxA)
- - ⏩ [I think this has gone way too far.](http://9gag.com/gag/aqGppDM)
+ - 💣 [Cat tries to provoke dog into a cat fight!](http://9gag.com/gag/aM4N011)
+ - ⏩ [And the Darwin award goes to...](http://9gag.com/gag/ajgMMvR)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
