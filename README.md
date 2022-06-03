@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 great thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [Release Your Pac-Passion Today in Pac-Man Museum+ with Xbox Game Pass](https://news.xbox.com/en-us/2022/06/03/release-your-pac-passion-with-pac-man-museum/)
- - [Check out this breakdown of Love, Death &amp; Robots’ most evocative shorts](https://www.polygon.com/23153104/love-death-and-robots-netflix-making-of-exclusive-clip)<!-- GAME:END -->
+ - [Cheating used to be fun](https://www.polygon.com/videos/23153403/cheating-games-codes-secrets)
+ - [Chun-Li gets new voice actor in Street Fighter 6](https://www.polygon.com/23153443/street-fighter-6-chun-li-voice-actor-jennie-kwan)
+ - [Looks Like Street Fighter 6’s Entire Roster May Have Already Leaked](https://kotaku.com/sf6-street-fighter-6-leak-capcom-roster-ryu-marisa-camm-1849015598)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
