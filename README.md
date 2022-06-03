@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Wi-Fi service expands coverage, eats into your data cap](https://www.androidauthority.com/google-fi-wi-fi-network-data-cap-3171938/)
- - [Influencers who focused on the Johnny Depp vs. Amber Heard trial made thousands of dollars through platform incentives, shaping public opinion in the process &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220603/p1#a220603p1)
- - [New York lawmakers pass a moratorium on Bitcoin mining](https://www.theverge.com/2022/6/3/23151622/new-york-bitcoin-mining-moratorium-bill-state-senate)<!-- TECH:END -->
+ - [You told us: Do you enable notification history? The answer is complicated.](https://www.androidauthority.com/notification-history-poll-results-3172432/)
+ - [Galaxy Z Fold 2 getting June 2022 security update in Europe](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [The best T-Mobile deals: Get a free Samsung Galaxy S22 with trade-in](https://www.androidauthority.com/best-t-mobile-deals-836582/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
