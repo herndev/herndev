@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX 40 series may be many months away from release](https://www.pcgamer.com/nvidias-rtx-40-series-may-be-many-months-away-from-release)
  - [The Afrofuturist musical Neptune Frost lays out a bold, bizarre vision for a world to come](https://www.polygon.com/22903338/neptune-frost-review-afrofuturism-musical-sci-fi)
- - [Returnal and Sackboy for PC seem even more real thanks to these convincing leaks](https://www.pcgamer.com/returnal-and-sackboy-for-pc-seem-even-more-real-thanks-to-these-convincing-leaks)
- - [These AI-generated Dukes Nukem never asked to be born](https://www.pcgamer.com/these-ai-generated-dukes-nukem-never-asked-to-be-born)<!-- GAME:END -->
+ - [Returnal and Sackboy for PC seem even more real thanks to these convincing leaks](https://www.pcgamer.com/returnal-and-sackboy-for-pc-seem-even-more-real-thanks-to-these-convincing-leaks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
