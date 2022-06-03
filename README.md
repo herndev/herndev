@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Cat tries to provoke dog into a cat fight!](http://9gag.com/gag/aM4N011)
- - ⏩ [And the Darwin award goes to...](http://9gag.com/gag/ajgMMvR)
+ - ⏩ [Game manuals then vs now](http://9gag.com/gag/aWgNe4Z)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
