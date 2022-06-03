@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney hear me out...!!!](http://9gag.com/gag/ajgM401)
- - ⏩ [Biblically accurate BBQ](http://9gag.com/gag/aOQN5DR)
+ - 💣 [Still trying.](http://9gag.com/gag/apgjMEp)
+ - ⏩ [War never changes](http://9gag.com/gag/aegPEnQ)
  - 👉 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)<!-- MEMES:END -->
 
 ---
