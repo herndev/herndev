@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hopefully Street Fighter 6&#39;s New Open World Won&#39;t Mean Capcom Skimps On The Fighting](https://kotaku.com/street-fighter-6-world-tour-soul-calibur-3-pokken-capco-1849014224)
  - [The Northman, Fire Island, and more new movies you can watch at home this weekend](https://www.polygon.com/23148401/new-movies-watch-the-northman-netflix-interceptor-fire-island-fantastic-beasts-watcher)
- - [This Week on Xbox: New Pre-orders, Games with Gold, and Updates](https://news.xbox.com/en-us/2022/06/03/this-week-on-xbox-new-pre-orders-games-with-gold-and-updates/)
- - [Pokémon Go Fest Shaymin Special Research Tasks and rewards](https://www.polygon.com/pokemon-go-guide/23153308/pokemon-go-fest-shaymin-special-research-tasks-rewards-battle-explore-catch-difficulty)<!-- GAME:END -->
+ - [This Week on Xbox: New Pre-orders, Games with Gold, and Updates](https://news.xbox.com/en-us/2022/06/03/this-week-on-xbox-new-pre-orders-games-with-gold-and-updates/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
