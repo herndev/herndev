@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Morbius memes its way back to movie theaters to make morbillions](https://www.polygon.com/23153203/morbius-back-in-theaters)
- - [The horror movie Watcher asks and answers ‘Are scream queens still a thing?’](https://www.polygon.com/23152041/watcher-review-maika-monroe-scream-queens)
- - [Share of the Week: NPCs of Horizon Forbidden West](https://blog.playstation.com/2022/06/03/share-of-the-week-npcs-of-horizon-forbidden-west/)<!-- GAME:END -->
+ - [FaZe Clan Fans Rally Around Member Disavowing Its Gay Pride Post](https://kotaku.com/faze-clan-virus-lgbtq-pride-month-homophobic-call-duty-1849014688)
+ - [Horizon Forbidden West Adds New Game Plus And More Fancy Features](https://kotaku.com/horizon-forbidden-west-ps4-ps5-new-game-plus-patch-1-14-1849014535)
+ - [English translations of Elden Ring boss music uncover grim, fascinating lore](https://www.pcgamer.com/english-translations-of-elden-ring-boss-music-uncover-grim-fascinating-lore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
