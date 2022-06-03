@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Clubhouse eliminated &quot;a handful of roles&quot; as part of a restructuring; employees who left include the heads of news partnerships, community, and others &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220603/p17#a220603p17)
- - [Square to begin beta testing support for Apple’s Tap to Pay](https://www.theverge.com/2022/6/3/23153615/square-apple-tap-to-pay-beta-contactless)
- - [ISS Cosmonaut Spots Whimsical Space &#39;Stowaways&#39;     - CNET](https://www.cnet.com/science/space/iss-cosmonaut-spots-whimsical-space-stowaways/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to uninstall Microsoft Edge on Windows 11](https://www.androidauthority.com/uninstall-microsoft-edge-windows-11-3172708/)
+ - [Tiger Global-backed email service Superhuman lays off 23 employees, about 22% of its workforce; Superhuman was last valued at $825M in August 2021 &lpar;Melia Russell/Insider&rpar;](http://www.techmeme.com/220603/p19#a220603p19)
+ - [2TM, the parent company of Brazil&#39;s largest crypto exchange Mercado Bitcoin, dismisses over 80 employees, or ~12% of its staff; 2TM was valued at $2.1B in 2021 &lpar;Mike Millard/The Block&rpar;](http://www.techmeme.com/220603/p18#a220603p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
