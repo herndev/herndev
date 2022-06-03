@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Dad made just one or two mods](http://9gag.com/gag/arnr9OB)
- - ⏩ [It will be the best sh*t in your life](http://9gag.com/gag/angWdwL)
+ - ⏩ [The original boss - when ur absolutely not giving up](http://9gag.com/gag/aDDNr2G)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
