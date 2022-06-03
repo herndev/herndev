@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh my...](http://9gag.com/gag/aE8NQOx)
- - ⏩ [Breaking news : the only albino galapagos turtle in the world was born in a swiss zoo &lpar;1 chance on 100&#39;000 births although there are around 20&#39;000 left on the planet!&rpar; we have to find it a name now](http://9gag.com/gag/amgbd8v)
+ - 💣 [Dad made just one or two mods](http://9gag.com/gag/arnr9OB)
+ - ⏩ [It will be the best sh*t in your life](http://9gag.com/gag/angWdwL)
  - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
 
 ---
