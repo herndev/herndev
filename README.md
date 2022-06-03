@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
- - [Behind the high-tech COVID-19 tests you probably haven’t heard about](https://www.theverge.com/2022/6/3/23141813/molecular-covid-19-test-otc-pcr-fda)
- - [Masayoshi Son used SoftBank&#39;s Vision Fund to build a society mediated by AI, but failed as he invested in firms with exploitative technology, not explorative &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/220603/p2#a220603p2)<!-- TECH:END -->
+ - [The Accuracy of Airfare Predictions Is Up in the Air](https://www.wired.com/story/airfare-prediction-tools)
+ - [Apple’s Software Strategy Is More Important Than Ever](https://www.wired.com/story/wwdc-2022-what-to-expect)
+ - [The Fight Against Robocall Spam and Scams Heats Up in India](https://www.wired.com/story/india-robocall-spam-caller-id)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
