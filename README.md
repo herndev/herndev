@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat tries to provoke dog into a cat fight!](http://9gag.com/gag/aM4N011)
- - ⏩ [Game manuals then vs now](http://9gag.com/gag/aWgNe4Z)
- - 👉 [Wake up \u279d Work \u279d Rest](http://9gag.com/gag/avAXdGZ)<!-- MEMES:END -->
+ - 💣 [Facts](http://9gag.com/gag/a11q8LR)
+ - ⏩ [Johnny Depp version India &lpar;\u20b9500 = $7&rpar;](http://9gag.com/gag/a21jALD)
+ - 👉 [Also the middle eastern](http://9gag.com/gag/aegPqyQ)<!-- MEMES:END -->
 
 ---
 
