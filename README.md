@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6’s full roster appears to have leaked](https://www.polygon.com/23153029/street-fighter-6-roster-leak-new-characters-capcom)
- - [Session: Skate Sim rolls out of Early Access in September](https://www.pcgamer.com/session-skate-sim-rolls-out-of-early-access-in-september)
- - [Next Week on Xbox: June 6 to 10](https://news.xbox.com/en-us/2022/06/03/next-week-on-xbox-june-6-to-10/)<!-- GAME:END -->
+ - [Wolfenstein: The New Order, One Of The Best Shooters Ever, Is Currently Free On PC](https://kotaku.com/wolfenstein-new-order-id-machinegames-free-epic-store-d-1849013982)
+ - [Horizon Forbidden West’s new game plus mode included in big update](https://www.polygon.com/23153085/horizon-forbidden-west-update-new-game-plus-ultra-hard-difficulty-modes-how-to-start)
+ - [The anime movie Fortune Favors Lady Nikuko is bold, bright, and surprisingly cruel](https://www.polygon.com/23152038/fortune-favors-lady-nikuko-review-anime-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
