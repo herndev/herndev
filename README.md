@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon, Resident Evil Village, and more are coming to PlayStation VR2](https://www.theverge.com/2022/6/2/23152445/horizon-resident-evil-village-4-no-mans-sky-playstation-vr2-psvr2-trailers)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [Sources: Apple plans to improve working hours for retail staff, including more hours between shifts, no work for more than five days in a row, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220602/p31#a220602p31)<!-- TECH:END -->
+ - [&#39;The Boys&#39; Season 3 Review: Still The Perfect Antidote to Marvel Fatigue     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-review-still-the-perfect-antidote-to-marvel-fatigue/#ftag=CAD590a51e)
+ - [Not All Samsung Phones Will Get Android 13: See the List     - CNET](https://www.cnet.com/tech/mobile/will-your-samsung-galaxy-phone-get-android-13-see-if-its-on-the-list/#ftag=CAD590a51e)
+ - [The $300 TCL Stylus 5G Is The Latest Affordable Phone With A Built-in Pen     - CNET](https://www.cnet.com/tech/mobile/the-300-tcl-stylus-5g-is-the-latest-affordable-phone-with-a-built-in-pen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
