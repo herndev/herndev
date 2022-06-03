@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York lawmakers pass a moratorium on Bitcoin mining](https://www.theverge.com/2022/6/3/23151622/new-york-bitcoin-mining-moratorium-bill-state-senate)
  - [A report highlights security risks in Meeting Owl, a videoconference device used by governments and colleges, including exposure of its Pro users&#39; data &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220602/p37#a220602p37)
- - [Diablo Immortal Starter Guide: Classes, Gameplay and More     - CNET](https://www.cnet.com/tech/gaming/diablo-immortal-starter-guide-classes-gameplay-and-more/#ftag=CAD590a51e)
- - [GM&#39;s Cruise secures a permit to charge fares for its driverless robotaxi service in San Francisco, which will operate from 10PM to 6AM on select streets &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220602/p36#a220602p36)<!-- TECH:END -->
+ - [Diablo Immortal Starter Guide: Classes, Gameplay and More     - CNET](https://www.cnet.com/tech/gaming/diablo-immortal-starter-guide-classes-gameplay-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
