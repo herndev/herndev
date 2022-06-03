@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces that Dave Clark, CEO of its worldwide consumer division, will step down after 23 years with the company &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220603/p10#a220603p10)
- - [Ex-Apple Arcade creative director poached by Disney for metaverse push](https://appleinsider.com/articles/22/06/03/ex-apple-arcade-creative-director-poached-by-disney-for-metaverse-push?utm_medium=rss)
- - [App Store is still growing, but not as much as expected says Katy Huberty](https://appleinsider.com/articles/22/06/03/app-store-is-still-growing-but-not-as-much-as-expected-says-katy-huberty?utm_medium=rss)<!-- TECH:END -->
+ - [What to do if your Mac is stolen](https://appleinsider.com/inside/mac/tips/what-to-do-if-your-mac-is-stolen?utm_medium=rss)
+ - [Cruise can finally start charging for fully driverless robotaxis](https://www.theverge.com/2022/6/3/23153183/cruise-paid-driverless-rides-fares-san-francisco)
+ - [Samsung’s forthcoming Galaxy Watch 5 Pro ‘confirmed’ in beta app](https://www.theverge.com/2022/6/3/23153057/samsung-galaxy-watch-5-pro-smartwatch-wearable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
