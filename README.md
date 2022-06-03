@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Well, what can I say](http://9gag.com/gag/aegPEMp)
- - ⏩ [More games need to have this](http://9gag.com/gag/aKmNy8W)
- - 👉 [It is what it is](http://9gag.com/gag/axBn8VW)<!-- MEMES:END -->
+ - ⏩ [It is what it is](http://9gag.com/gag/axBn8VW)
+ - 👉 [Also the middle eastern](http://9gag.com/gag/aegPqyQ)<!-- MEMES:END -->
 
 ---
 
