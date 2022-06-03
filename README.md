@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok, short coffee break and I&#39;ll be back to work](http://9gag.com/gag/aQXNbXe)
- - ⏩ [Fish a wrong fish](http://9gag.com/gag/a613zo2)
- - 👉 [More games need to have this](http://9gag.com/gag/aKmNy8W)<!-- MEMES:END -->
+ - 💣 [More games need to have this](http://9gag.com/gag/aKmNy8W)
+ - ⏩ [Give it up to the](http://9gag.com/gag/aKmNXOO)
+ - 👉 [Yeah science and stuff](http://9gag.com/gag/aPZd0jB)<!-- MEMES:END -->
 
 ---
 
