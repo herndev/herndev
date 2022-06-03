@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Boys&#39; Season 3 Review: Still The Perfect Antidote to Marvel Fatigue     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-review-still-the-perfect-antidote-to-marvel-fatigue/#ftag=CAD590a51e)
- - [Not All Samsung Phones Will Get Android 13: See the List     - CNET](https://www.cnet.com/tech/mobile/will-your-samsung-galaxy-phone-get-android-13-see-if-its-on-the-list/#ftag=CAD590a51e)
- - [The $300 TCL Stylus 5G Is The Latest Affordable Phone With A Built-in Pen     - CNET](https://www.cnet.com/tech/mobile/the-300-tcl-stylus-5g-is-the-latest-affordable-phone-with-a-built-in-pen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GM&#39;s Cruise secures a permit to charge fares for its driverless robotaxi service in San Francisco, which will operate from 10PM to 6AM on select streets &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220602/p36#a220602p36)
+ - [Atlassian warns users to restrict internet access to its Confluence software, or disable it, in light of an unpatched critical RCE flaw actively under attack &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/220602/p35#a220602p35)
+ - [Best OLED TV Deals: Save $1,125 on 65-Inch Sony, 55-Inch LG Under $1,000     - CNET](https://www.cnet.com/tech/home-entertainment/best-oled-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
