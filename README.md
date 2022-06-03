@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Sony Showed At PlayStation&#39;s Big State Of Play Event](https://kotaku.com/sony-playstation-state-of-play-e3-2022-showcase-present-1849011711)
- - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)
- - [Discover the gameplay and story of Season: a Letter to the Future](https://blog.playstation.com/2022/06/02/discover-the-gameplay-and-story-of-season-a-letter-to-the-future/)<!-- GAME:END -->
+ - [Street Fighter 6 Changed Its Terrible Logo](https://kotaku.com/street-fighter-6-vi-capcom-logo-graphic-design-fix-upda-1849012069)
+ - [Wolfenstein: The New Order goes free on the Epic Store](https://www.pcgamer.com/wolfenstein-the-new-order-goes-free-on-the-epic-store)
+ - [Final Fantasy 16&#39;s music is by legendary composer Masayoshi Soken and it already rules](https://www.pcgamer.com/final-fantasy-16s-music-is-by-legendary-composer-masayoshi-soken-and-it-already-rules)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
