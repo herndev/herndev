@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Facebook is developing a &quot;basic ads&quot; product that doesn&#39;t rely on anonymized data from users and instead uses metrics like engagement and video views &lpar;Insider&rpar;](http://www.techmeme.com/220603/p8#a220603p8)
- - [After Jony Ive&#39;s departure, Apple&#39;s design philosophy is slowly changing](https://appleinsider.com/articles/22/06/03/after-jony-ives-departure-apples-design-philosophy-is-slowly-changing?utm_medium=rss)
- - [Tempo Move review: a great idea with terrible connectivity](https://www.theverge.com/23151591/tempo-move-review-smart-gym)<!-- TECH:END -->
+ - [Amazon announces that Dave Clark, CEO of its worldwide consumer division, will step down after 23 years with the company &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220603/p10#a220603p10)
+ - [Ex-Apple Arcade creative director poached by Disney for metaverse push](https://appleinsider.com/articles/22/06/03/ex-apple-arcade-creative-director-poached-by-disney-for-metaverse-push?utm_medium=rss)
+ - [App Store is still growing, but not as much as expected says Katy Huberty](https://appleinsider.com/articles/22/06/03/app-store-is-still-growing-but-not-as-much-as-expected-says-katy-huberty?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
