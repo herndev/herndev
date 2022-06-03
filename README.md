@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new lifestyle TV reminds us that TVs don’t have to be ugly](https://www.theverge.com/2022/6/3/23153581/lifestyle-tvs-lg-pose-easel-oled-tv-design)
- - [The best tech you can gift mom year round](https://www.theverge.com/22899871/best-gifts-mom-tech-gadgets-ideas-christmas-birthday-mothers-valentines-day)
- - [This Week in Elon: Come back to the office, you’re fired](https://www.theverge.com/2022/6/3/23153369/this-week-in-elon-musk-twitter-spacex-tesla)<!-- TECH:END -->
+ - [Sources: Clubhouse eliminated &quot;a handful of roles&quot; as part of a restructuring; employees who left include the heads of news partnerships, community, and others &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220603/p17#a220603p17)
+ - [Square to begin beta testing support for Apple’s Tap to Pay](https://www.theverge.com/2022/6/3/23153615/square-apple-tap-to-pay-beta-contactless)
+ - [ISS Cosmonaut Spots Whimsical Space &#39;Stowaways&#39;     - CNET](https://www.cnet.com/science/space/iss-cosmonaut-spots-whimsical-space-stowaways/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
