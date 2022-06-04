@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Great Deals on Sustainable Products, Walmart+ Sales, and More](https://www.wired.com/story/weekend-deals-june-4-2022)
- - [The Best Earplugs for Gig-goers, Insomniacs, and Anyone With Ears](https://www.wired.com/gallery/best-earplugs)
- - [A look at &quot;migrant TikTok&quot;, content by and for migrants journeying to Europe, as platforms struggle to moderate videos referring to illegal smuggling &lpar;Betsy Joles/Rest of World&rpar;](http://www.techmeme.com/220604/p4#a220604p4)<!-- TECH:END -->
+ - [Crypto 101: The difference between hot and cold wallets](https://appleinsider.com/articles/22/06/04/crypto-101-the-difference-between-hot-and-cold-wallets?utm_medium=rss)
+ - [Daily deals June 4: $399 Gen 4 iPad Air, half-price Shark IQ Robot Vacuum, $83 Ruko Robot, more](https://appleinsider.com/articles/22/06/04/daily-deals-june-4-399-gen-4-ipad-air-half-price-shark-iq-robot-vacuum-83-ruko-robot-more?utm_medium=rss)
+ - [Stock Android needs this nifty Xiaomi file-sharing feature](https://www.androidauthority.com/xiaomi-miui-ftp-opinion-3161880/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
