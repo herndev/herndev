@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The pivot to Web3, driven by ideology rather than utility, is akin to a &quot;collective Theranos&quot; that&#39;s warping the economy to benefit professional investors &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220604/p8#a220604p8)
- - [Apple AirPods are on sale from $99 at Amazon](https://appleinsider.com/articles/22/05/30/month-end-airpods-deals-drive-prices-down-to-9999?utm_medium=rss)
- - [Apple&#39;s mixed reality headset may miss WWDC for 2023 launch](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s AR &amp; VR headset not expected at WWDC, launch in 2023 instead](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
+ - [I love TV shows but I no longer watch them as they air; do you?](https://www.androidauthority.com/completed-tv-show-binge-3169310/)
+ - [New York gets closer to cracking down on Amazon’s warehouse production quotas](https://www.theverge.com/2022/6/4/23154379/new-york-cracking-down-amazon-warehouse-production-quotas-warehouse-worker-protection-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
