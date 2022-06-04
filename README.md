@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Rather than expecting users to read and consent to overwhelming privacy policies, laws and tech can help give them real privacy choices &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/220604/p3#a220604p3)
  - [Customer engagement service MoEngage raises a $77M Series E led by Goldman Sachs and B Capital; MoEngage has raised close to $140M over the past 12 months &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220604/p2#a220604p2)
- - [Cleveland-based Felux, an online B2B marketplace and supply chain management service for steel and other metals, raises a $19M Series A led by EquipmentShare &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220604/p1#a220604p1)
- - [FarmWise, which builds a weeding robot that uses cameras, sensors, and AI to identify and cut down weeds without harming the crops, raises a $45M Series B &lpar;Jordan McDonald/Emerging Tech Brew&rpar;](http://www.techmeme.com/220603/p24#a220603p24)<!-- TECH:END -->
+ - [Cleveland-based Felux, an online B2B marketplace and supply chain management service for steel and other metals, raises a $19M Series A led by EquipmentShare &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220604/p1#a220604p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
