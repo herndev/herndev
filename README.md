@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time.](http://9gag.com/gag/aXrGyB2)
- - ⏩ [Well, that escalated quickly...](http://9gag.com/gag/aXrGBAD)
- - 👉 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)<!-- MEMES:END -->
+ - 💣 [Holding hand with 20ft white shark biggest ever recorded in Hawaii.](http://9gag.com/gag/a21j32e)
+ - ⏩ [Every single time.](http://9gag.com/gag/aXrGyB2)
+ - 👉 [Welcome to Australia](http://9gag.com/gag/aOQNMoN)<!-- MEMES:END -->
 
 ---
 
