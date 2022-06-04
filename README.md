@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Air &lpar;5th generation&rpar; review: Spec-tock-ular](https://www.androidauthority.com/apple-ipad-air-5th-generation-review-3171139/)
- - [Filings: ByteDance, which is reportedly planning to re-enter India, has fully exited its investment in VerSe, parent of Josh and DailyHunt, at a 56% discount &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220604/p10#a220604p10)
- - [Someone says they bought a Pixel 7 Pro prototype on Facebook Marketplace](https://www.theverge.com/2022/6/4/23153144/google-pixel-7-pro-prototype-leak-reddit)<!-- TECH:END -->
+ - [Fortnite’s latest live event was a giant mech battle](https://www.theverge.com/2022/6/4/23153353/fortnite-collision-live-event-recap)
+ - [Apple’s mixed reality headset will reportedly feature content created by Hollywood directors](https://www.theverge.com/2022/6/4/23154486/apple-reportedly-working-hollywood-directors-upcoming-ar-vr-headset-jon-favreau)
+ - [Apple iPad Air &lpar;5th generation&rpar; review: Spec-tock-ular](https://www.androidauthority.com/apple-ipad-air-5th-generation-review-3171139/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
