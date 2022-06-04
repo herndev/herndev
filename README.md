@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Phone to Buy for 2022     - CNET](https://www.cnet.com/tech/mobile/best-phone-to-buy/#ftag=CAD590a51e)
  - [Rather than expecting users to read and consent to overwhelming privacy policies, laws and tech can help give them real privacy choices &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/220604/p3#a220604p3)
- - [Customer engagement service MoEngage raises a $77M Series E led by Goldman Sachs and B Capital; MoEngage has raised close to $140M over the past 12 months &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220604/p2#a220604p2)
- - [Cleveland-based Felux, an online B2B marketplace and supply chain management service for steel and other metals, raises a $19M Series A led by EquipmentShare &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220604/p1#a220604p1)<!-- TECH:END -->
+ - [Customer engagement service MoEngage raises a $77M Series E led by Goldman Sachs and B Capital; MoEngage has raised close to $140M over the past 12 months &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220604/p2#a220604p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
