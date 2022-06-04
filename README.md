@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s mixed reality headset may miss WWDC for 2023 launch](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-435-3172770/)
- - [Glasses or no glasses, this year’s WWDC is all about AR](https://www.theverge.com/2022/6/4/23150897/wwdc-2022-apple-ar-glasses-software)<!-- TECH:END -->
+ - [The pivot to Web3, driven by ideology rather than utility, is akin to a &quot;collective Theranos&quot; that&#39;s warping the economy to benefit professional investors &lpar;Maxwell Strachan/VICE&rpar;](http://www.techmeme.com/220604/p8#a220604p8)
+ - [Apple AirPods are on sale from $99 at Amazon](https://appleinsider.com/articles/22/05/30/month-end-airpods-deals-drive-prices-down-to-9999?utm_medium=rss)
+ - [Apple&#39;s mixed reality headset may miss WWDC for 2023 launch](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
