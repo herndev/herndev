@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR &amp; VR headset not expected at WWDC, launch in 2023 instead](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
- - [I love TV shows but I no longer watch them as they air; do you?](https://www.androidauthority.com/completed-tv-show-binge-3169310/)
- - [New York gets closer to cracking down on Amazon’s warehouse production quotas](https://www.theverge.com/2022/6/4/23154379/new-york-cracking-down-amazon-warehouse-production-quotas-warehouse-worker-protection-act)<!-- TECH:END -->
+ - [Someone says they bought a Pixel 7 Pro prototype on Facebook Marketplace](https://www.theverge.com/2022/6/4/23153144/google-pixel-7-pro-prototype-leak-reddit)
+ - [Apex Legends Mobile: Tips and tricks to help you play better](https://www.androidauthority.com/apex-legends-mobile-tips-tricks-3170470/)
+ - [Guild Education, a marketplace for lower-skilled workers to find higher education programs, raises a $175M Series F at a $4.4B valuation, up from $3.75B in 2021 &lpar;Jena McGregor/Forbes&rpar;](http://www.techmeme.com/220604/p9#a220604p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
