@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ralphie May. Rest in peace](http://9gag.com/gag/aLvN7Rg)
- - ⏩ [Destruction 100.](http://9gag.com/gag/a613Yg2)
- - 👉 [Well done it is. ..](http://9gag.com/gag/a81XR8p)<!-- MEMES:END -->
+ - 💣 [Extruded.aluminium factory Jun 22](http://9gag.com/gag/a91NGxW)
+ - ⏩ [Engineer from Sweden invents a suit that changes the lives of Parkinson&#39;s and stroke patients. With the help of electrical stimulation, it can get rid of tremors.](http://9gag.com/gag/aDDNerN)
+ - 👉 [Destruction 100.](http://9gag.com/gag/a613Yg2)<!-- MEMES:END -->
 
 ---
 
