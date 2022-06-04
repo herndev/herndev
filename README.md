@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/azeDnGb)
- - ⏩ [Hehe](http://9gag.com/gag/aogqXrA)
- - 👉 [Porsche douchebag in Portugal](http://9gag.com/gag/aE8N37M)<!-- MEMES:END -->
+ - 💣 [By mistake, I mean NOT a BIG mistake like cheating or being irresponsible.](http://9gag.com/gag/a11qGxY)
+ - ⏩ [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)
+ - 👉 [Top gun is out. So we need a new one of this](http://9gag.com/gag/aLvNxo6)<!-- MEMES:END -->
 
 ---
 
