@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every single time.](http://9gag.com/gag/aXrGyB2)
- - ⏩ [Don&#39;t judge a book by it&#39;s cover](http://9gag.com/gag/aegPnY5)
- - 👉 [Homer&#39;s change](http://9gag.com/gag/adg4E2B)<!-- MEMES:END -->
+ - 💣 [Homer&#39;s change](http://9gag.com/gag/adg4E2B)
+ - ⏩ [Hehe](http://9gag.com/gag/aogqXrA)
+ - 👉 [The struggle is real](http://9gag.com/gag/aXrGyD6)<!-- MEMES:END -->
 
 ---
 
