@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Full Counter to all Karens.](http://9gag.com/gag/aZrVOOX)
- - ⏩ [Lemons](http://9gag.com/gag/aVx1ywK)
- - 👉 [Himachal Pradesh, India &lpar;looks like a Disney fairytale&rpar;](http://9gag.com/gag/a41rOdw)<!-- MEMES:END -->
+ - 💣 [Ralphie May. Rest in peace](http://9gag.com/gag/aLvN7Rg)
+ - ⏩ [Destruction 100.](http://9gag.com/gag/a613Yg2)
+ - 👉 [Well done it is. ..](http://9gag.com/gag/a81XR8p)<!-- MEMES:END -->
 
 ---
 
