@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Xbox Game Pass Games, From Citizen Sleeper to Weird West](https://www.wired.com/gallery/best-xbox-game-pass-games)
- - [Amazon Watches Its Workers and Waits for Them to Fail](https://www.wired.com/story/amazon-worker-tracking-details-revealed)
- - [Google May Owe You a Chunk of $100 Million](https://www.wired.com/story/google-photos-settlement-us-ukraine-hacks-michael-flynn-unmasking)<!-- TECH:END -->
+ - [Samsung Galaxy A53 5G vs Google Pixel 6a: Which should you buy?](https://www.androidauthority.com/samsung-galaxy-a53-5g-vs-google-pixel-6a-3172160/)
+ - [Sources: Apple enlisted Hollywood directors like Jon Favreau to develop video content for its MR headset that resembles ski goggles and may ship in 2023 &lpar;New York Times&rpar;](http://www.techmeme.com/220604/p5#a220604p5)
+ - [Man murdered after girlfriend used AirTag to investigate cheating](https://appleinsider.com/articles/22/06/04/man-murdered-after-girlfriend-used-airtag-to-investigate-cheating?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
