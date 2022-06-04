@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is an early example of a successful cranioplasty from Peru &lpar;400 CE&rpar;. The patient survived, as evidenced by the well-healed in situ cranioplasty made from a gold inlay](http://9gag.com/gag/arnr62d)
- - ⏩ [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)
- - 👉 [Two cuties](http://9gag.com/gag/aKmNb2g)<!-- MEMES:END -->
+ - 💣 [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)
+ - ⏩ [Well, It worked](http://9gag.com/gag/azeD62m)
+ - 👉 [This movie...](http://9gag.com/gag/aM4NR3G)<!-- MEMES:END -->
 
 ---
 
