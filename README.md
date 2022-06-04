@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s latest live event was a giant mech battle](https://www.theverge.com/2022/6/4/23153353/fortnite-collision-live-event-recap)
- - [Apple’s mixed reality headset will reportedly feature content created by Hollywood directors](https://www.theverge.com/2022/6/4/23154486/apple-reportedly-working-hollywood-directors-upcoming-ar-vr-headset-jon-favreau)
- - [Apple iPad Air &lpar;5th generation&rpar; review: Spec-tock-ular](https://www.androidauthority.com/apple-ipad-air-5th-generation-review-3171139/)<!-- TECH:END -->
+ - [Morbius gets resurrected by memes, flops on first day back in theaters](https://www.theverge.com/2022/6/4/23154631/morbius-meme-flop-first-day-back-theaters-jared-leto-sony)
+ - [Apple&#39;s AR &amp; VR headset not expected at WWDC, launch in 2023 instead](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
+ - [Stephen King Says &#39;Stranger Things&#39; Character &#39;Deserves His Own Show&#39;     - CNET](https://www.cnet.com/culture/entertainment/stephen-king-says-stranger-things-character-deserves-his-own-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
