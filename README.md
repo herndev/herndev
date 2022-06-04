@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [By mistake, I mean NOT a BIG mistake like cheating or being irresponsible.](http://9gag.com/gag/a11qGxY)
- - ⏩ [This is the man who made your life so much easier. The inventor of the Microwave oven. Thank you sir.](http://9gag.com/gag/ajgMo7g)
- - 👉 [We didn&#39;t expect that to happen](http://9gag.com/gag/adg4m6D)<!-- MEMES:END -->
+ - 💣 [LMAO](http://9gag.com/gag/a81XPDV)
+ - ⏩ [This is an early example of a successful cranioplasty from Peru &lpar;400 CE&rpar;. The patient survived, as evidenced by the well-healed in situ cranioplasty made from a gold inlay](http://9gag.com/gag/arnr62d)
+ - 👉 [This brings smile on my face.](http://9gag.com/gag/aXrG5R2)<!-- MEMES:END -->
 
 ---
 
