@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Forbidden West: The making of Machine Strike](https://blog.playstation.com/2022/06/04/horizon-forbidden-west-the-making-of-machine-strike/)
- - [Horizon Forbidden West: The making of Machine Strike](https://blog.playstation.com/2022/06/04/horizon-forbidden-west-the-making-of-machine-strike/)
- - [18 great movies new to streaming to watch in June 2022](https://www.polygon.com/what-to-watch/23148622/best-movies-new-on-netflix-hbo-hulu-may-2022)<!-- GAME:END -->
+ - [The Sailor Moon and Vans collaboration looks maximalist and cute as hell](https://www.polygon.com/23153135/sailor-moon-vans-collaboration)
+ - [The Boys’ Ant-Man gag involved building an 11-foot-tall penis and was inspired by the ‘Thanus’ meme](https://www.polygon.com/23150699/the-boys-termite-scene-explosion-ant-man)
+ - [Horizon Forbidden West: The making of Machine Strike](https://blog.playstation.com/2022/06/04/horizon-forbidden-west-the-making-of-machine-strike/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
