@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Still trying.](http://9gag.com/gag/apgjMEp)
- - ⏩ [War never changes](http://9gag.com/gag/aegPEnQ)
- - 👉 [Florida man receiving oral sex crashes head-on into FedEx truck.](http://9gag.com/gag/aOQN5O6)<!-- MEMES:END -->
+ - ⏩ [Origin of the meme](http://9gag.com/gag/aAGN54R)
+ - 👉 [Pepsi](http://9gag.com/gag/aGzN5Z5)<!-- MEMES:END -->
 
 ---
 
