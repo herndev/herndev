@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to uninstall Microsoft Edge on Windows 11](https://www.androidauthority.com/uninstall-microsoft-edge-windows-11-3172708/)
- - [Tiger Global-backed email service Superhuman lays off 23 employees, about 22% of its workforce; Superhuman was last valued at $825M in August 2021 &lpar;Melia Russell/Insider&rpar;](http://www.techmeme.com/220603/p19#a220603p19)
- - [2TM, the parent company of Brazil&#39;s largest crypto exchange Mercado Bitcoin, dismisses over 80 employees, or ~12% of its staff; 2TM was valued at $2.1B in 2021 &lpar;Mike Millard/The Block&rpar;](http://www.techmeme.com/220603/p18#a220603p18)<!-- TECH:END -->
+ - [In an NLRB complaint, CWA alleges that Activision Blizzard illegally terminated a dozen workers and reorganized operations at Raven Software amid union efforts &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/220603/p21#a220603p21)
+ - [MacBook Air may not launch with large array of colors](https://appleinsider.com/articles/22/06/04/macbook-air-may-not-launch-with-large-array-of-colors?utm_medium=rss)
+ - [Disney&#39;s &#39;Ultra Violet &amp; Black Scorpion&#39; Is a Latinx Superhero Comedy     - CNET](https://www.cnet.com/culture/entertainment/disneys-ultra-violet-black-scorpion-is-a-latinx-superhero-comedy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
