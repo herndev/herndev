@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Razer&#39;s new Ecologos will tell you just how green your new hardware is, or how guilty you should feel](https://www.pcgamer.com/razers-new-ecologos-will-tell-you-just-how-green-your-new-hardware-is-or-how-guilty-you-should-feel)
- - [Fortnite Chapter 3 season 3 brings Darth Vader and the return of Ballers](https://www.polygon.com/23153278/fortnite-chapter-3-season-3-patch-changes-battle-pass-ballers-darth-vader-skins)
- - [Drop into Fortnite Battle Royale Chapter 3 Season 3: Vibin’, live today](https://blog.playstation.com/2022/06/05/drop-into-fortnite-battle-royale-chapter-3-season-3-vibin-live-today/)<!-- GAME:END -->
+ - [10 LGBTQ comedies and rom-coms to watch at home](https://www.polygon.com/what-to-watch/23150244/best-lgbtq-comedies-gay-queer-romcoms-movies-watch-streaming)
+ - [Fortinite&#39;s new season features mushrooms, mounts, and Darth Vader](https://www.pcgamer.com/fortinites-new-season-features-mushrooms-mounts-and-darth-vader)
+ - [Razer&#39;s new Ecologos will tell you just how green your new hardware is, or how guilty you should feel](https://www.pcgamer.com/razers-new-ecologos-will-tell-you-just-how-green-your-new-hardware-is-or-how-guilty-you-should-feel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
