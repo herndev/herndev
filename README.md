@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yuga Labs confirms BAYC Discord server hack with 200 ETH worth of NFTs stolen, the third time a bad actor impersonated a Yuga Labs-run account to steal funds &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/220604/p12#a220604p12)
  - [Dune Is One of the Most Influential Sci-Fi Books Ever](https://www.wired.com/2020/06/geeks-guide-dune-influence)
- - [Yandex CEO and co-founder Arkady Volozh resigns after being included in the latest European Union&#39;s sanctions list; the company itself has not been sanctioned &lpar;Reuters&rpar;](http://www.techmeme.com/220604/p11#a220604p11)
- - [Morbius gets resurrected by memes, flops on first day back in theaters](https://www.theverge.com/2022/6/4/23154631/morbius-meme-flop-first-day-back-theaters-jared-leto-sony)<!-- TECH:END -->
+ - [Yandex CEO and co-founder Arkady Volozh resigns after being included in the latest European Union&#39;s sanctions list; the company itself has not been sanctioned &lpar;Reuters&rpar;](http://www.techmeme.com/220604/p11#a220604p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
