@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sailor Moon and Vans collaboration looks maximalist and cute as hell](https://www.polygon.com/23153135/sailor-moon-vans-collaboration)
- - [The Boys’ Ant-Man gag involved building an 11-foot-tall penis and was inspired by the ‘Thanus’ meme](https://www.polygon.com/23150699/the-boys-termite-scene-explosion-ant-man)
- - [Horizon Forbidden West: The making of Machine Strike](https://blog.playstation.com/2022/06/04/horizon-forbidden-west-the-making-of-machine-strike/)<!-- GAME:END -->
+ - [Arena Champion, the &#39;sexy&#39; shooter that definitely was not](https://www.pcgamer.com/saturday-crapshoot-arena-champion)
+ - [What game would you never play without mods?](https://www.pcgamer.com/what-game-would-you-never-play-without-mods)
+ - [Here&#39;s Deep Rock Galactic in VR, thanks to a mod](https://www.pcgamer.com/heres-deep-rock-galactic-in-vr-thanks-to-a-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
