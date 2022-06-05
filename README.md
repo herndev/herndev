@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Democrats&#39; efforts to pass the AICO Act, which bans Big Tech companies from favoring their products, before the November midterms or end of the year &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220605/p2#a220605p2)
- - [Dating App Profiles: The 15 Most Annoying Phrases to Avoid     - CNET](https://www.cnet.com/culture/dating-app-profiles-the-15-most-annoying-phrases-to-avoid/#ftag=CAD590a51e)
- - [Hourly, an app that lets businesses track working hours, generate payroll, and assign compensation insurance to hourly wage workers, raises a $27M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220605/p1#a220605p1)<!-- TECH:END -->
+ - [In an email chain mistakenly forwarded to Politico, an Amazon spokesperson asked a consultant to push a narrative that the AICO Act would harm people of color &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220605/p3#a220605p3)
+ - [It’s the End of a Pokémon Era](https://www.wired.com/story/pokemon-evolution-finally)
+ - [The Hacker Gold Rush That&#39;s Poised to Eclipse Ransomware](https://www.wired.com/story/business-email-compromise-bec-ransomware-scams)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
