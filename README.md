@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sailor Moon and Vans collaboration looks maximalist and cute as hell](https://www.polygon.com/23153135/sailor-moon-vans-collaboration)
- - [The Boys’ Ant-Man gag involved building an 11-foot-tall penis and was inspired by the ‘Thanus’ meme](https://www.polygon.com/23150699/the-boys-termite-scene-explosion-ant-man)
- - [Horizon Forbidden West: The making of Machine Strike](https://blog.playstation.com/2022/06/04/horizon-forbidden-west-the-making-of-machine-strike/)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #351: Sunday, June 5](https://www.pcgamer.com/wordle-june-5-351)
+ - [Great moments in PC Gaming: Releasing your first game](https://www.pcgamer.com/great-moments-in-pc-gaming-releasing-your-first-game)
+ - [Nightdive wants to remaster the original Unreal next](https://www.pcgamer.com/nightdive-wants-to-remaster-the-original-unreal-next)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
