@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Save Up to 20% On Summer-Ready Sonos Speakers and Soundbars     - CNET](https://www.cnet.com/tech/home-entertainment/save-up-to-20-on-summer-ready-sonos-speakers-and-soundbars/#ftag=CAD590a51e)
  - [What to expect at WWDC: overhauled iOS 16 lock screen with widgets, more laptop-like iPadOS 16 multitasking, redesigned MacBook Air, and more, but no headset &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220605/p5#a220605p5)
- - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)
- - [Apple Music basics: How to get started, make playlists, and more](https://appleinsider.com/inside/apple-music/tips/apple-music-basics-how-to-get-started-make-playlists-and-more?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect from WWDC 2022 - and what not to](https://appleinsider.com/articles/22/05/30/what-to-expect-from-wwdc-2022---and-what-not-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
