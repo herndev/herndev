@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Factory and city builder Captain of Industry also gives you a boat](https://www.pcgamer.com/factory-and-city-builder-captain-of-industry-also-gives-you-a-boat)
  - [Arena Champion, the &#39;sexy&#39; shooter that definitely was not](https://www.pcgamer.com/saturday-crapshoot-arena-champion)
- - [What game would you never play without mods?](https://www.pcgamer.com/what-game-would-you-never-play-without-mods)
- - [Here&#39;s Deep Rock Galactic in VR, thanks to a mod](https://www.pcgamer.com/heres-deep-rock-galactic-in-vr-thanks-to-a-mod)<!-- GAME:END -->
+ - [What game would you never play without mods?](https://www.pcgamer.com/what-game-would-you-never-play-without-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
