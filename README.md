@@ -105,8 +105,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [A look at Democrats&#39; efforts to pass the AICO Act, which bans Big Tech companies from favoring their products, before the November midterms or end of the year &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220605/p2#a220605p2)
- - [Hourly, an app that lets businesses track working hours, generate payroll, and assign compensation insurance to hourly wage workers, raises a $27M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220605/p1#a220605p1)
- - [Yuga Labs confirms BAYC Discord server hack with 200 ETH worth of NFTs stolen, the third time a bad actor impersonated a Yuga Labs-run account to steal funds &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/220604/p12#a220604p12)<!-- TECH:END -->
+ - [Dating App Profiles: The 15 Most Annoying Phrases to Avoid     - CNET](https://www.cnet.com/culture/dating-app-profiles-the-15-most-annoying-phrases-to-avoid/#ftag=CAD590a51e)
+ - [Hourly, an app that lets businesses track working hours, generate payroll, and assign compensation insurance to hourly wage workers, raises a $27M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220605/p1#a220605p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
