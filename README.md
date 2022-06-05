@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drop into Fortnite Battle Royale Chapter 3 Season 3: Vibin’, live today](https://blog.playstation.com/2022/06/05/drop-into-fortnite-battle-royale-chapter-3-season-3-vibin-live-today/)
- - [Drop into Fortnite Battle Royale Chapter 3 Season 3: Vibin’, live today](https://blog.playstation.com/2022/06/05/drop-into-fortnite-battle-royale-chapter-3-season-3-vibin-live-today/)
- - [Today&#39;s Wordle answer #351: Sunday, June 5](https://www.pcgamer.com/wordle-june-5-351)<!-- GAME:END -->
+ - [Razer&#39;s new Ecologos will tell you just how green your new hardware is, or how guilty you should feel](https://www.pcgamer.com/razers-new-ecologos-will-tell-you-just-how-green-your-new-hardware-is-or-how-guilty-you-should-feel)
+ - [Fortnite Chapter 3 season 3 brings Darth Vader and the return of Ballers](https://www.polygon.com/23153278/fortnite-chapter-3-season-3-patch-changes-battle-pass-ballers-darth-vader-skins)
+ - [Drop into Fortnite Battle Royale Chapter 3 Season 3: Vibin’, live today](https://blog.playstation.com/2022/06/05/drop-into-fortnite-battle-royale-chapter-3-season-3-vibin-live-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
