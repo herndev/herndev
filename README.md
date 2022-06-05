@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today in 1989 @Tiananmen square, nothing happened](http://9gag.com/gag/a91ZbYo)
- - ⏩ [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)
- - 👉 [Well at least he got one shot](http://9gag.com/gag/aXrQ01d)<!-- MEMES:END -->
+ - 💣 [Surprise mother trucker!](http://9gag.com/gag/aM4D2RA)
+ - ⏩ [Down to 230lbs!](http://9gag.com/gag/aVx4jnd)
+ - 👉 [Ate an organic salad and found this at the bottom.](http://9gag.com/gag/aPZzwwB)<!-- MEMES:END -->
 
 ---
 
