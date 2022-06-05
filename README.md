@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)
- - [Compared: Apple Studio Display vs Dell UltraSharp 32 4K Video Conferencing Monitor](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-dell-ultrasharp-32-4k-video-conferencing-monitor?utm_medium=rss)
- - [Polar’s Latest Running Watch Thinks It&#39;s Smarter Than It Is](https://www.wired.com/review/polar-pacer-2)<!-- TECH:END -->
+ - [Refreshed 13-inch MacBook Pro won&#39;t join MacBook Air in WWDC](https://appleinsider.com/articles/22/06/05/refreshed-13-inch-macbook-pro-wont-join-macbook-air-in-wwdc?utm_medium=rss)
+ - [Android’s file sync is broken. Here’s how I work around it.](https://www.androidauthority.com/android-file-transfer-3170085/)
+ - [These Are the 10 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
