@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 LGBTQ comedies and rom-coms to watch at home](https://www.polygon.com/what-to-watch/23150244/best-lgbtq-comedies-gay-queer-romcoms-movies-watch-streaming)
- - [Fortinite&#39;s new season features mushrooms, mounts, and Darth Vader](https://www.pcgamer.com/fortinites-new-season-features-mushrooms-mounts-and-darth-vader)
- - [Razer&#39;s new Ecologos will tell you just how green your new hardware is, or how guilty you should feel](https://www.pcgamer.com/razers-new-ecologos-will-tell-you-just-how-green-your-new-hardware-is-or-how-guilty-you-should-feel)<!-- GAME:END -->
+ - [N64 modder achieves ray tracing and other advanced effects across multiple games](https://www.pcgamer.com/n64-modder-achieves-ray-tracing-and-other-advanced-effects-across-multiple-games)
+ - [For the price of one AAA game, you can get hundreds of queer indies in this bundle](https://www.pcgamer.com/for-the-price-of-one-aaa-game-you-can-get-hundreds-of-queer-indies-in-this-bundle)
+ - [10 LGBTQ comedies and rom-coms to watch at home](https://www.polygon.com/what-to-watch/23150244/best-lgbtq-comedies-gay-queer-romcoms-movies-watch-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
