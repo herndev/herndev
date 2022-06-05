@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hourly, an app that lets businesses track working hours, generate payroll, and assign compensation insurance to hourly wage workers, raises a $27M Series A &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220605/p1#a220605p1)
  - [Yuga Labs confirms BAYC Discord server hack with 200 ETH worth of NFTs stolen, the third time a bad actor impersonated a Yuga Labs-run account to steal funds &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/220604/p12#a220604p12)
- - [Dune Is One of the Most Influential Sci-Fi Books Ever](https://www.wired.com/2020/06/geeks-guide-dune-influence)
- - [Yandex CEO and co-founder Arkady Volozh resigns after being included in the latest European Union&#39;s sanctions list; the company itself has not been sanctioned &lpar;Reuters&rpar;](http://www.techmeme.com/220604/p11#a220604p11)<!-- TECH:END -->
+ - [Dune Is One of the Most Influential Sci-Fi Books Ever](https://www.wired.com/2020/06/geeks-guide-dune-influence)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
