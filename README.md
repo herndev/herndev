@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People nursing a neglected baby orangutan back to health](http://9gag.com/gag/aKmNbKW)
- - ⏩ [This movie...](http://9gag.com/gag/aM4NR3G)
- - 👉 [Exactly that word.](http://9gag.com/gag/aOQNXAv)<!-- MEMES:END -->
+ - 💣 [Pass me my lightsaber it\u2019s the one with](http://9gag.com/gag/azeo7Lp)
+ - ⏩ [Predictable](http://9gag.com/gag/aDDNEpK)
+ - 👉 [Yup.](http://9gag.com/gag/a41rMyv)<!-- MEMES:END -->
 
 ---
 
