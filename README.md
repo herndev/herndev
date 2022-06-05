@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is working on VR versions of FaceTime and Maps, SwiftUI for AR and VR apps, and a way for its headset to extend a Mac&#39;s display, bringing it into 3D &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220605/p4#a220605p4)
- - [Chinese astronauts arrive at Tiangong space station to prepare for its completion](https://www.theverge.com/2022/6/5/23155224/chinese-astronauts-arrive-tiangong-space-station-oversee-completion-tianhe)
- - [Refreshed 13-inch MacBook Pro won&#39;t join MacBook Air in WWDC](https://appleinsider.com/articles/22/06/05/refreshed-13-inch-macbook-pro-wont-join-macbook-air-in-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Google Tensor 2 expectations and what we want to see](https://www.androidauthority.com/google-tensor-2-3171605/)
+ - [MacBook Air refresh could ship 7M units by end of 2022, says Kuo](https://appleinsider.com/articles/22/06/05/macbook-air-refresh-could-ship-7m-units-by-end-of-2022-says-kuo?utm_medium=rss)
+ - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
