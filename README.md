@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [When boss walks in](http://9gag.com/gag/aBnjQXZ)
- - ⏩ [For 2001, Harry Potter and the Sorcerer&#39;s Stone had some good visuals and textures](http://9gag.com/gag/a0ZzLWv)
- - 👉 [Oh, well....](http://9gag.com/gag/aBnj31Z)<!-- MEMES:END -->
+ - ⏩ [Oh, well....](http://9gag.com/gag/aBnj31Z)
+ - 👉 [We live in a time where intelligent people are silenced so that stupid people won&#39;t be offended!](http://9gag.com/gag/aegypbb)<!-- MEMES:END -->
 
 ---
 
