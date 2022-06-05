@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ate an organic salad and found this at the bottom.](http://9gag.com/gag/aPZzwwB)
- - ⏩ [Have you ever hated someone so much .](http://9gag.com/gag/azeo7Dj)
- - 👉 [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)<!-- MEMES:END -->
+ - 💣 [1980 party night.... Days without social media ...](http://9gag.com/gag/aYrZjP2)
+ - ⏩ [Love her Vibes](http://9gag.com/gag/aPZzwMw)
+ - 👉 [This is one of the most incredible moment in golf sports ever](http://9gag.com/gag/aAGqBq0)<!-- MEMES:END -->
 
 ---
 
