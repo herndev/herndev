@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And I thought that fear was irrational](http://9gag.com/gag/a81QLn3)
- - ⏩ [Nobody cares](http://9gag.com/gag/aLvVKVv)
- - 👉 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)<!-- MEMES:END -->
+ - 💣 [One more from \u201dWhat Is A Woman ?\u201d Hope more people get to see it, especially teens and parents.](http://9gag.com/gag/aGz693K)
+ - ⏩ [Surprise mother trucker!](http://9gag.com/gag/aM4D2RA)
+ - 👉 [Legendary prank](http://9gag.com/gag/azeobON)<!-- MEMES:END -->
 
 ---
 
