@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [OMG He sucks his bride soul....](http://9gag.com/gag/aqGB9oM)
- - ⏩ [Sad](http://9gag.com/gag/ang8YR5)
- - 👉 [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)<!-- MEMES:END -->
+ - ⏩ [Ah yes, the seks.](http://9gag.com/gag/aDDrAXB)
+ - 👉 [And I thought that fear was irrational](http://9gag.com/gag/a81QLn3)<!-- MEMES:END -->
 
 ---
 
