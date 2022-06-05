@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC Gaming: Releasing your first game](https://www.pcgamer.com/great-moments-in-pc-gaming-releasing-your-first-game)
  - [Nightdive wants to remaster the original Unreal next](https://www.pcgamer.com/nightdive-wants-to-remaster-the-original-unreal-next)
- - [Factory and city builder Captain of Industry also gives you a boat](https://www.pcgamer.com/factory-and-city-builder-captain-of-industry-also-gives-you-a-boat)
- - [Arena Champion, the &#39;sexy&#39; shooter that definitely was not](https://www.pcgamer.com/saturday-crapshoot-arena-champion)<!-- GAME:END -->
+ - [Factory and city builder Captain of Industry also gives you a boat](https://www.pcgamer.com/factory-and-city-builder-captain-of-industry-also-gives-you-a-boat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
