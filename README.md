@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love the smell of redhead in the morning](http://9gag.com/gag/axBQE0M)
- - ⏩ [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)
- - 👉 [Have you ever hated someone so much .](http://9gag.com/gag/azeo7Dj)<!-- MEMES:END -->
+ - 💣 [Ate an organic salad and found this at the bottom.](http://9gag.com/gag/aPZzwwB)
+ - ⏩ [Have you ever hated someone so much .](http://9gag.com/gag/azeo7Dj)
+ - 👉 [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)<!-- MEMES:END -->
 
 ---
 
