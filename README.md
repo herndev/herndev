@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody cares](http://9gag.com/gag/aLvVKVv)
- - ⏩ [Destruction 100](http://9gag.com/gag/aogAZD2)
- - 👉 [One more from \u201dWhat Is A Woman ?\u201d Hope more people get to see it, especially teens and parents.](http://9gag.com/gag/aGz693K)<!-- MEMES:END -->
+ - 💣 [Sad](http://9gag.com/gag/ang8YR5)
+ - ⏩ [What&#39;s your scale fellow wizards?](http://9gag.com/gag/aKmnPzN)
+ - 👉 [Unlucky](http://9gag.com/gag/azeoLvK)<!-- MEMES:END -->
 
 ---
 
