@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new season has a rollercoaster, Darth Vader, and vibes](https://www.theverge.com/2022/6/5/23153012/fortnite-chapter-3-season-3-vibin-darth-vader)
- - [Crime blotter: Gang robs Apple Store in England of display iPhones](https://appleinsider.com/articles/22/06/05/crime-blotter-gang-robs-apple-store-in-england-of-display-iphones?utm_medium=rss)
- - [What’s next for 5G in 2022 and beyond?](https://www.androidauthority.com/5g-in-2022-3171102/)<!-- TECH:END -->
+ - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)
+ - [Compared: Apple Studio Display vs Dell UltraSharp 32 4K Video Conferencing Monitor](https://appleinsider.com/inside/studio-display/vs/compared-apple-studio-display-vs-dell-ultrasharp-32-4k-video-conferencing-monitor?utm_medium=rss)
+ - [Polar’s Latest Running Watch Thinks It&#39;s Smarter Than It Is](https://www.wired.com/review/polar-pacer-2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
