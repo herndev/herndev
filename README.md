@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Crypto winter has come, and Coinbase is in trouble](https://www.theverge.com/2022/6/5/23155442/crypto-winter-coinbase-in-trouble-hiring-freeze-rescinded-job-offers)
  - [Apple hosts developers for pre-WWDC Open House at Apple Park](https://appleinsider.com/articles/22/06/05/apple-hosts-developers-for-pre-wwdc-open-house-at-apple-park?utm_medium=rss)
- - [All the news coming out of Apple’s Worldwide Developers Conference](https://www.theverge.com/2022/6/5/23149921/apple-wwdc-2022-news-rumors-products-announcements)
- - [Save Up to 20% On Summer-Ready Sonos Speakers and Soundbars     - CNET](https://www.cnet.com/tech/home-entertainment/save-up-to-20-on-summer-ready-sonos-speakers-and-soundbars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [All the news coming out of Apple’s Worldwide Developers Conference](https://www.theverge.com/2022/6/5/23149921/apple-wwdc-2022-news-rumors-products-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
