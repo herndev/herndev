@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [People nursing a neglected baby orangutan back to health](http://9gag.com/gag/aKmNbKW)
- - ⏩ [Well, It worked](http://9gag.com/gag/azeD62m)
- - 👉 [Two cuties](http://9gag.com/gag/aKmNb2g)<!-- MEMES:END -->
+ - ⏩ [Daily dose of feelgood](http://9gag.com/gag/angWAwz)
+ - 👉 [May be a woman designed that t-shirt, jk woman can\u2019t design](http://9gag.com/gag/arn91zB)<!-- MEMES:END -->
 
 ---
 
