@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email chain mistakenly forwarded to Politico, an Amazon spokesperson asked a consultant to push a narrative that the AICO Act would harm people of color &lpar;Emily Birnbaum/Politico&rpar;](http://www.techmeme.com/220605/p3#a220605p3)
- - [It’s the End of a Pokémon Era](https://www.wired.com/story/pokemon-evolution-finally)
- - [The Hacker Gold Rush That&#39;s Poised to Eclipse Ransomware](https://www.wired.com/story/business-email-compromise-bec-ransomware-scams)<!-- TECH:END -->
+ - [Fortnite’s new season has a rollercoaster, Darth Vader, and vibes](https://www.theverge.com/2022/6/5/23153012/fortnite-chapter-3-season-3-vibin-darth-vader)
+ - [Crime blotter: Gang robs Apple Store in England of display iPhones](https://appleinsider.com/articles/22/06/05/crime-blotter-gang-robs-apple-store-in-england-of-display-iphones?utm_medium=rss)
+ - [What’s next for 5G in 2022 and beyond?](https://www.androidauthority.com/5g-in-2022-3171102/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
