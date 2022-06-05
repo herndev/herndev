@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morbius gets resurrected by memes, flops on first day back in theaters](https://www.theverge.com/2022/6/4/23154631/morbius-meme-flop-first-day-back-theaters-jared-leto-sony)
- - [Apple&#39;s AR &amp; VR headset not expected at WWDC, launch in 2023 instead](https://appleinsider.com/articles/22/06/04/apples-mixed-reality-headset-may-miss-wwdc-for-2023-launch?utm_medium=rss)
- - [Stephen King Says &#39;Stranger Things&#39; Character &#39;Deserves His Own Show&#39;     - CNET](https://www.cnet.com/culture/entertainment/stephen-king-says-stranger-things-character-deserves-his-own-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dune Is One of the Most Influential Sci-Fi Books Ever](https://www.wired.com/2020/06/geeks-guide-dune-influence)
+ - [Yandex CEO and co-founder Arkady Volozh resigns after being included in the latest European Union&#39;s sanctions list; the company itself has not been sanctioned &lpar;Reuters&rpar;](http://www.techmeme.com/220604/p11#a220604p11)
+ - [Morbius gets resurrected by memes, flops on first day back in theaters](https://www.theverge.com/2022/6/4/23154631/morbius-meme-flop-first-day-back-theaters-jared-leto-sony)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
