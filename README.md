@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Tensor 2 expectations and what we want to see](https://www.androidauthority.com/google-tensor-2-3171605/)
- - [MacBook Air refresh could ship 7M units by end of 2022, says Kuo](https://appleinsider.com/articles/22/06/05/macbook-air-refresh-could-ship-7m-units-by-end-of-2022-says-kuo?utm_medium=rss)
- - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals June 5: $239 eero Pro 6E Tri-Band Mesh Wi-Fi, $200 iRobot Roomba, $869 55-inch LG OLED TV, more!](https://appleinsider.com/articles/22/06/05/daily-deals-june-5-239-eero-pro-6e-tri-band-mesh-wi-fi-200-irobot-roomba-869-55-inch-lg-oled-tv-more?utm_medium=rss)
+ - [The new MacBook Air might come with a long wait time](https://www.theverge.com/2022/6/5/23155291/new-macbook-air-long-wait-time-apple-wwdc-covid-closures-china)
+ - [Google Tensor 2 expectations and what we want to see](https://www.androidauthority.com/google-tensor-2-3171605/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
