@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I did this with fuse beads. What do youbguys think? 14 ,000 beads](http://9gag.com/gag/amgK9j2)
- - ⏩ [What a view](http://9gag.com/gag/awzPVQ1)
- - 👉 [How to draw a happy tree.](http://9gag.com/gag/aZropDX)<!-- MEMES:END -->
+ - 💣 [What is your excuse?](http://9gag.com/gag/aLvV9K6)
+ - ⏩ [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)
+ - 👉 [What a view](http://9gag.com/gag/awzPVQ1)<!-- MEMES:END -->
 
 ---
 
