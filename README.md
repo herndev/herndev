@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Am Groot animated series arrives on Disney Plus in August](https://www.theverge.com/2022/6/5/23155585/i-am-groot-animated-series-arrives-disney-plus-august-marvel-guardians-of-the-galaxy)
- - [Crypto winter has come, and Coinbase is in trouble](https://www.theverge.com/2022/6/5/23155442/crypto-winter-coinbase-in-trouble-hiring-freeze-rescinded-job-offers)
- - [Our iOS 16 Wish List: Every iPhone Feature We Want To See At WWDC     - CNET](https://www.cnet.com/tech/mobile/our-ios-16-wishe-list-every-iphone-features-we-want-at-wwdc/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Sci-Fi Video Game Everyone Needs To Play Once     - CNET](https://www.cnet.com/tech/gaming/the-sci-fi-video-game-everyone-needs-to-play-once/#ftag=CAD590a51e)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-stream-this-week/#ftag=CAD590a51e)
+ - [Diablo Immortal Beginner&#39;s Guide: Classes, Equipment and More     - CNET](https://www.cnet.com/tech/gaming/diablo-immortal-beginners-guide-classes-equipment-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
