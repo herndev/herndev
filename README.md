@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
  - [Aliens might be using rogue planets as spaceships](https://www.pcgamer.com/aliens-might-be-using-rogue-planets-as-spaceships)
- - [RIP Fantasy Artist Ken Kelly, 1946-2022](https://kotaku.com/ken-kelly-art-kiss-rainbow-manowar-star-wars-conan-fant-1849021772)
- - [Five new Steam games you probably missed &lpar;June 6, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-6-2022)<!-- GAME:END -->
+ - [RIP Fantasy Artist Ken Kelly, 1946-2022](https://kotaku.com/ken-kelly-art-kiss-rainbow-manowar-star-wars-conan-fant-1849021772)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
