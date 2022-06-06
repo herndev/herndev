@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Midnight Club trailer has some scary stories to tell](https://www.polygon.com/23156425/the-midnight-club-trailer-netflix-cast-mike-flanagan)
- - [Check Out What’s New in Fortnite Battle Royale Chapter 3 – Season 3: Vibin’](https://news.xbox.com/en-us/2022/06/06/whats-new-fortnite-battle-royale-chapter-3-season-3-vibin/)
- - [How to get Heart Shadow in Destiny 2](https://www.pcgamer.com/destiny-2-heart-shadow)<!-- GAME:END -->
+ - [Fate: The Winx Club finally introduces a missing fan-favorite character](https://www.polygon.com/23156619/fate-the-winx-saga-clip-release-date-flora)
+ - [Consent And Compassion: How Devs Are Reshaping The Conversation Around Content Warnings](https://kotaku.com/content-warnings-consent-glitchhikers-psychonauts-2-tak-1849022977)
+ - [The Imperfects is Netflix’s latest supernatural coming-of-age show](https://www.polygon.com/23156566/the-imperfects-netflix-release-date-trailer-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
