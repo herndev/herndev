@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iFixit uses its tools to dismantle Apple’s self-service iPhone repair tools](https://www.theverge.com/2022/6/6/23156453/ifixit-apple-self-service-toolkit-teardown-video)
- - [Mike Flanagan’s The Midnight Club is summoning something shady in its first teaser](https://www.theverge.com/2022/6/6/23156429/midnight-club-teaser-trailer-mike-flanagan)
- - [Go read this report on an AI shopping app that was actually just using humans](https://www.theverge.com/2022/6/6/23156318/artificial-intelligence-nate-app-ecommerce-go-read-this)<!-- TECH:END -->
+ - [Apple introduces iOS 16 with a revamped widget-covered lock screen](https://appleinsider.com/articles/22/06/06/apple-introduces-ios-16-with-a-revamped-widget-covered-lock-screen?utm_medium=rss)
+ - [Microsoft Office for Mac lifetime license on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
+ - [Apple iOS 16 brings massive improvements to lock screen and messages](https://www.theverge.com/2022/6/6/23149402/apple-ios-16-iphone-features-updates-release-date-wwdc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
