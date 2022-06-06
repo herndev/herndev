@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New evidence suggests the Pixel tablet could replace your Google Nest Hub](https://www.androidauthority.com/pixel-tablet-nest-hub-replacement-3172950/)
- - [Google Colaboratory, a web service popular with AI researchers for running Python code, quietly bans deepfake-related projects, though some remain &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220606/p2#a220606p2)
- - [Now the Pixel 6a has been listed for sale on Facebook way before its release](https://www.androidauthority.com/google-pixel-6a-sale-facebook-marketplace-3172409/)<!-- TECH:END -->
+ - [BMW&#39;s M Hybrid V8 LMDh Race Car Debuts Rad Livery for Testing     - CNET](https://www.cnet.com/roadshow/news/bmw-m-hybrid-v8-lmdh-race-car-testing-livery-debut/#ftag=CAD590a51e)
+ - [The M Hybrid V8 LMDh Race Car Has BMW&#39;s Biggest Kidneys Yet     - CNET](https://www.cnet.com/roadshow/pictures/bmw-m-hybrid-v8-lmdh-race-car-testing-livery/#ftag=CAD590a51e)
+ - [New evidence suggests the Pixel tablet could replace your Google Nest Hub](https://www.androidauthority.com/pixel-tablet-nest-hub-replacement-3172950/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
