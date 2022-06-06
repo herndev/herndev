@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC controller in 2022](https://www.pcgamer.com/best-controller-for-pc-gaming)
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Today&#39;s Wordle answer #352: Monday, June 6](https://www.pcgamer.com/wordle-june-6-352)<!-- GAME:END -->
+ - [Best antivirus for PC gaming 2022](https://www.pcgamer.com/best-anti-virus)
+ - [Java and Bedrock editions merge, creating one Minecraft to rule them all](https://www.pcgamer.com/java-and-bedrock-editions-merge-creating-one-minecraft-to-rule-them-all)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
