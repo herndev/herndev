@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Need To Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-netflix-2022/#ftag=CAD590a51e)
- - [M1 Ultra, M1 Pro, M1 Max and M1: Apple Mac Chips Compared     - CNET](https://www.cnet.com/tech/computing/m1-ultra-m1-pro-m1-max-and-m1-apple-mac-chips-compared/#ftag=CAD590a51e)
- - [Mac Pro Rumors: Could an M1 Ultra Desktop Tower Arrive June 6?     - CNET](https://www.cnet.com/tech/computing/mac-pro-rumors-could-an-m1-ultra-desktop-tower-arrive-june-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Stranger Things 4&#39;: When Is Volume 2 Available on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-when-is-volume-2-available-on-netflix/#ftag=CAD590a51e)
+ - [Kate Bush Says &#39;Stranger Things&#39; Gave Running Up That Hill &#39;New Lease of Life&#39;     - CNET](https://www.cnet.com/culture/entertainment/kate-bush-says-stranger-things-gave-running-up-that-hill-new-lease-of-life/#ftag=CAD590a51e)
+ - [WWE Hell in a Cell 2022: Results, Cody Rhodes Injury, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-hell-in-a-cell-2022-results-cody-rhodes-injury-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
