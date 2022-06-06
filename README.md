@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fate: The Winx Club finally introduces a missing fan-favorite character](https://www.polygon.com/23156619/fate-the-winx-saga-clip-release-date-flora)
- - [Consent And Compassion: How Devs Are Reshaping The Conversation Around Content Warnings](https://kotaku.com/content-warnings-consent-glitchhikers-psychonauts-2-tak-1849022977)
- - [The Imperfects is Netflix’s latest supernatural coming-of-age show](https://www.polygon.com/23156566/the-imperfects-netflix-release-date-trailer-cast)<!-- GAME:END -->
+ - [Even The Morbius Memes Couldn’t Stop It From Flopping In Theaters &lpar;Again&rpar;](https://kotaku.com/morbius-memes-jared-leto-movie-theaters-marvel-sony-bom-1849024089)
+ - [BioWare contractors in Canada vote unanimously to form union](https://www.polygon.com/23156652/bioware-contractors-qa-keywords-studio-union-vote)
+ - [The Sandman’s new trailer reveals Netflix release date](https://www.polygon.com/23156694/netflix-sandman-trailer-series-release-date-mark-hamill-merv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
