@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Stranger Things 4&#39;: When Is Volume 2 Available on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-when-is-volume-2-available-on-netflix/#ftag=CAD590a51e)
- - [Kate Bush Says &#39;Stranger Things&#39; Gave Running Up That Hill &#39;New Lease of Life&#39;     - CNET](https://www.cnet.com/culture/entertainment/kate-bush-says-stranger-things-gave-running-up-that-hill-new-lease-of-life/#ftag=CAD590a51e)
- - [WWE Hell in a Cell 2022: Results, Cody Rhodes Injury, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-hell-in-a-cell-2022-results-cody-rhodes-injury-full-recap-and-analysis/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [France-based Diabeloop, whose AI-based diabetes management tech automatically adjusts insulin as needed, raises a &amp;euro;70M Series C led by LBO France &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/220606/p1#a220606p1)
+ - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: June 6&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
+ - [&#39;Stranger Things 4&#39;: When Is Volume 2 Available on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-when-is-volume-2-available-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
