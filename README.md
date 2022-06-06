@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC [u]](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)
- - [Apple Event Today: How to Watch WWDC 2022 Live     - CNET](https://www.cnet.com/tech/mobile/how-to-watch-wwdc-2022-livestream-apple-keynote/#ftag=CAD590a51e)
- - [Microsoft tests Windows 11 store that won’t update apps if you’re using them](https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature)<!-- TECH:END -->
+ - [Bolt Loaned Employees Thousands to Buy Stock—Then Laid Them Off](https://www.wired.com/story/bolt-stock-loans)
+ - [A New Kind of Genome Editing Is Here to Fine-Tune DNA](https://www.wired.com/story/a-new-kind-of-genome-editing-is-here-to-fine-tune-dna)
+ - [Google&#39;s Russian Empire Faces an Uncertain Future](https://www.wired.com/story/google-russia-exit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
