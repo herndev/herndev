@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
- - [An investigation finds Binance served as a conduit for laundering $2.35B+ between 2017 and 2021, including funds gathered from hacks, fraud, and drug sales &lpar;Reuters&rpar;](http://www.techmeme.com/220606/p7#a220606p7)
- - [Sources: Chinese regulators will conclude yearlong probes into Didi, logistics platform Full Truck Alliance and recruitment firm Kanzhun as early as this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220606/p6#a220606p6)<!-- TECH:END -->
+ - [Musk threatens to scrap Twitter deal over ‘breach’ of agreement](https://www.theverge.com/2022/6/6/23156233/elon-musk-twitter-bots-merger-agreement-termination-threat)
+ - [Magical, which makes a Chrome extension to move data across websites and apps, raises a $35M Series A led by Coatue and says it has 300,000+ users &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220606/p11#a220606p11)
+ - [Final day: Apple&#39;s latest iPad Pro is on sale from $699 &lpar;up to $210 off&rpar;](https://appleinsider.com/articles/22/05/30/apples-latest-ipad-pro-is-on-sale-from-699-up-to-210-off-with-promo-code?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
