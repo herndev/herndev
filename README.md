@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dragon Age QA Workers Votes Unanimously To Form Labor Union](https://kotaku.com/dragon-age-4-bioware-labor-union-keywords-edmonton-1849025110)
- - [Now we finally know what Batman thinks about the Purge movies](https://www.polygon.com/23153231/batman-dc-comics-the-purge-joke-gary-whitta-fortress)
- - [Half-baked battle royale with NFTs to launch on the Epic Games Store, pleasing nobody](https://www.pcgamer.com/half-baked-battle-royale-with-nfts-to-launch-on-the-epic-games-store-pleasing-nobody)<!-- GAME:END -->
+ - [Like customizing Xbox controllers? Get a load of these custom Dungeon Master screens](https://www.polygon.com/tabletop-games/23156309/dog-might-games-custom-dungeon-master-screens)
+ - [Nickelodeon All-Star Brawl just got voice acting](https://www.polygon.com/23156943/nickelodeon-all-star-brawl-just-got-voice-acting)
+ - [Giant Bomb Co-Founder Jeff Gerstmann Leaving Site After 14 Years](https://kotaku.com/giant-bomb-jeff-gertsmann-14-years-leaving-departure-bo-1849025179)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
