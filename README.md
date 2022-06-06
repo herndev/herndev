@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POV - Painting very tall buildings.](http://9gag.com/gag/amgKY9j)
- - ⏩ [Ding Ding Ding](http://9gag.com/gag/a41mZy1)
- - 👉 [We&#39;ve come to a point where Karl Urban has been cast in pretty much every major fiction genre](http://9gag.com/gag/aXrQqMb)<!-- MEMES:END -->
+ - 💣 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)
+ - ⏩ [Whatever!](http://9gag.com/gag/amgKrxj)
+ - 👉 [June 6th 1944](http://9gag.com/gag/arn9OPX)<!-- MEMES:END -->
 
 ---
 
