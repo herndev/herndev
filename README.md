@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW&#39;s M Hybrid V8 LMDh Race Car Debuts Rad Livery for Testing     - CNET](https://www.cnet.com/roadshow/news/bmw-m-hybrid-v8-lmdh-race-car-testing-livery-debut/#ftag=CAD590a51e)
- - [The M Hybrid V8 LMDh Race Car Has BMW&#39;s Biggest Kidneys Yet     - CNET](https://www.cnet.com/roadshow/pictures/bmw-m-hybrid-v8-lmdh-race-car-testing-livery/#ftag=CAD590a51e)
- - [New evidence suggests the Pixel tablet could replace your Google Nest Hub](https://www.androidauthority.com/pixel-tablet-nest-hub-replacement-3172950/)<!-- TECH:END -->
+ - [Microsoft tests Windows 11 store that won’t update apps if you’re using them](https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature)
+ - [No longer a concept? A smartphone with 200W charging could be coming soon](https://www.androidauthority.com/200w-charging-smartphone-3172973/)
+ - [BMW&#39;s M Hybrid V8 LMDh Race Car Debuts Rad Livery for Testing     - CNET](https://www.cnet.com/roadshow/news/bmw-m-hybrid-v8-lmdh-race-car-testing-livery-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
