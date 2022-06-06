@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple offers first developer betas of iOS 16, iPadOS 16, tvOS 16, watchOS 9, macOS 13](https://appleinsider.com/articles/22/06/06/apple-offers-first-developer-betas-of-ios-16-ipados-16-tvos-16-watchos-8-macos-13?utm_medium=rss)
- - [Apple is finally putting the Apple Watch Series 3 out to pasture](https://www.theverge.com/2022/6/6/23156839/watchos-9-series-3-compatibility-apple-watch-wwdc-2022)
- - [Apple will continue selling the M1 Macbook Air alongside the M2 model](https://appleinsider.com/articles/22/06/06/apple-will-continue-selling-the-m1-macbook-air-alongside-the-m2-model?utm_medium=rss)<!-- TECH:END -->
+ - [Apple details new APIs &amp; Xcode Cloud for developers](https://appleinsider.com/articles/22/06/06/apple-details-new-apis-xcode-cloud-for-developers?utm_medium=rss)
+ - [Apple is finally adding some of Gmail’s best features to its own email apps](https://www.theverge.com/2022/6/6/23157188/apple-mail-gmail-undo-scheduled-send-forget-attachment)
+ - [Does Tinder notify users when you screenshot?](https://www.androidauthority.com/does-tinder-notify-screenshots-3173292/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
