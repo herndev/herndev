@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reason for dad humor](http://9gag.com/gag/aKmnDoN)
+ - 💣 [Would you date a trans person?](http://9gag.com/gag/avA475O)
  - ⏩ [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
- - 👉 [WHOOAA! I FEEL GOOD](http://9gag.com/gag/aqGB7mj)<!-- MEMES:END -->
+ - 👉 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)<!-- MEMES:END -->
 
 ---
 
