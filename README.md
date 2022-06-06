@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend.](http://9gag.com/gag/amgK8q9)
- - ⏩ [A bee movie](http://9gag.com/gag/amgK8nd)
- - 👉 [What&#39;s your scale fellow wizards?](http://9gag.com/gag/aKmnPzN)<!-- MEMES:END -->
+ - 💣 [Proof that saving an animals life can be a blessing](http://9gag.com/gag/a11BMe2)
+ - ⏩ [Too lazy to think up title](http://9gag.com/gag/aogAj7n)
+ - 👉 [Here we go boys](http://9gag.com/gag/aYrZWbO)<!-- MEMES:END -->
 
 ---
 
