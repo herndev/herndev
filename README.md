@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sci-Fi Video Game Everyone Needs To Play Once     - CNET](https://www.cnet.com/tech/gaming/the-sci-fi-video-game-everyone-needs-to-play-once/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-stream-this-week/#ftag=CAD590a51e)
- - [Diablo Immortal Beginner&#39;s Guide: Classes, Equipment and More     - CNET](https://www.cnet.com/tech/gaming/diablo-immortal-beginners-guide-classes-equipment-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need To Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-netflix-2022/#ftag=CAD590a51e)
+ - [M1 Ultra, M1 Pro, M1 Max and M1: Apple Mac Chips Compared     - CNET](https://www.cnet.com/tech/computing/m1-ultra-m1-pro-m1-max-and-m1-apple-mac-chips-compared/#ftag=CAD590a51e)
+ - [Mac Pro Rumors: Could an M1 Ultra Desktop Tower Arrive June 6?     - CNET](https://www.cnet.com/tech/computing/mac-pro-rumors-could-an-m1-ultra-desktop-tower-arrive-june-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
