@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High jump competition held at a high school in Kenya.](http://9gag.com/gag/aRr9epy)
- - ⏩ [How to draw a happy tree.](http://9gag.com/gag/aZropDX)
+ - 💣 [Wouldn\u2019t ya know it?](http://9gag.com/gag/amgKr6d)
+ - ⏩ [Ding Ding Ding](http://9gag.com/gag/a41mZy1)
  - 👉 [Bro have balls of steel](http://9gag.com/gag/aNP8dgA)<!-- MEMES:END -->
 
 ---
