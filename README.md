@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
- - [Online Voice Chat Is Often A Sexist Nightmare &lpar;But It Doesn&#39;t Have To Be&rpar;](https://kotaku.com/discord-voice-chat-anxiety-harassment-girl-gamers-1849016726)
- - [Pokémon Go gets a crossover event with the next Pokémon trading card expansion](https://www.polygon.com/23156291/pokemon-go-trading-card-game-crossover-event-details)<!-- GAME:END -->
+ - [Disney’s new animated movie follows a dysfunctional family of space explorers](https://www.polygon.com/23156398/disney-strange-world-trailer-release-date)
+ - [Seasonic&#39;s wattage calculator sees no power increase for AMD&#39;s 7000-series GPUs](https://www.pcgamer.com/seasonics-wattage-calculator-sees-no-power-increase-for-amds-7000-series-gpus)
+ - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
