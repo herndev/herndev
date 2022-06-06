@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bolt Loaned Employees Thousands to Buy Stock—Then Laid Them Off](https://www.wired.com/story/bolt-stock-loans)
- - [A New Kind of Genome Editing Is Here to Fine-Tune DNA](https://www.wired.com/story/a-new-kind-of-genome-editing-is-here-to-fine-tune-dna)
- - [Google&#39;s Russian Empire Faces an Uncertain Future](https://www.wired.com/story/google-russia-exit)<!-- TECH:END -->
+ - [NFTs, explained](https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq)
+ - [An investigation finds Binance served as a conduit for laundering $2.35B+ between 2017 and 2021, including funds gathered from hacks, fraud, and drug sales &lpar;Reuters&rpar;](http://www.techmeme.com/220606/p7#a220606p7)
+ - [Sources: Chinese regulators will conclude yearlong probes into Didi, logistics platform Full Truck Alliance and recruitment firm Kanzhun as early as this week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220606/p6#a220606p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
