@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
- - ⏩ [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)
- - 👉 [We&#39;ve come to a point where Karl Urban has been cast in pretty much every major fiction genre](http://9gag.com/gag/aXrQqMb)<!-- MEMES:END -->
+ - 💣 [Reason for dad humor](http://9gag.com/gag/aKmnDoN)
+ - ⏩ [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
+ - 👉 [WHOOAA! I FEEL GOOD](http://9gag.com/gag/aqGB7mj)<!-- MEMES:END -->
 
 ---
 
