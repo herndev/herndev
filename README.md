@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bee movie](http://9gag.com/gag/amgK8nd)
+ - 💣 [The barrier was broken, so there were signs and police were on guard. How can you still dare to break through..damn..](http://9gag.com/gag/aDDr3EN)
  - ⏩ [Really really interested](http://9gag.com/gag/aXrQXmP)
- - 👉 [The barrier was broken, so there were signs and police were on guard. How can you still dare to break through..damn..](http://9gag.com/gag/aDDr3EN)<!-- MEMES:END -->
+ - 👉 [After the scheduled player couldn&#39;t get in time, Johnny Carson asked someone from the audience to come up and play piano for Tonight Show in 1985. David Tolley was chosen from the audience and gave a surprising, jaw-dropping performance.](http://9gag.com/gag/aYrZeq0)<!-- MEMES:END -->
 
 ---
 
