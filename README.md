@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils macOS Ventura with Stage Manager, plus adding Center Stage with an iPhone](https://appleinsider.com/articles/22/06/06/apple-unveils-macos-ventura-at-wwdc-2022?utm_medium=rss)
- - [Apple offers first developer betas of iOS 16, iPadOS 16, tvOS 16, watchOS 8, macOS 13](https://appleinsider.com/articles/22/06/06/apple-offers-first-developer-betas-of-ios-16-ipados-16-tvos-16-watchos-8-macos-13?utm_medium=rss)
- - [Apple&#39;s iPadOS 16 brings full external display support, overlapping windows to M1 iPads](https://appleinsider.com/articles/22/06/06/apples-ipados-16-has-new-collaboration-features-more?utm_medium=rss)<!-- TECH:END -->
+ - [Here&#39;s what you need to run iOS 16, iPadOS 16, watchOS 9, macOS Ventura, and tvOS 16](https://appleinsider.com/articles/22/06/06/heres-what-you-need-to-run-ios-16-ipados-16-watchos-9-macos-ventura-and-tvos-16?utm_medium=rss)
+ - [Apple introduces iOS 16 with a revamped widget-covered lock screen, Wallet and Map changes, and more](https://appleinsider.com/articles/22/06/06/apple-introduces-ios-16-with-a-revamped-widget-covered-lock-screen?utm_medium=rss)
+ - [Second-generation M2 Apple Silicon chip arrives in MacBook Air, MacBook Pro](https://appleinsider.com/articles/22/06/06/second-generation-m2-apple-silicon-chip-arrives-in-macbook-air-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
