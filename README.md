@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces iOS 16 with a revamped widget-covered lock screen](https://appleinsider.com/articles/22/06/06/apple-introduces-ios-16-with-a-revamped-widget-covered-lock-screen?utm_medium=rss)
- - [Microsoft Office for Mac lifetime license on sale for $49.99 &lpar;85% off&rpar;](https://appleinsider.com/articles/22/05/26/microsoft-office-for-mac-lifetime-license-is-still-on-sale-for-4999-85-off?utm_medium=rss)
- - [Apple iOS 16 brings massive improvements to lock screen and messages](https://www.theverge.com/2022/6/6/23149402/apple-ios-16-iphone-features-updates-release-date-wwdc)<!-- TECH:END -->
+ - [Apple debuts 13-inch MacBook Pro with upgraded M2 processor](https://appleinsider.com/articles/22/06/06/apple-debuts-13-inch-macbook-pro-with-upgraded-m2-processor?utm_medium=rss)
+ - [Apple unveils new MacBook Air with M2 processor in multiple colors](https://appleinsider.com/articles/22/06/06/apple-unveils-new-macbook-air-with-m2-processor-in-multiple-colors?utm_medium=rss)
+ - [Apple unveils macOS Ventura at WWDC 2022](https://appleinsider.com/articles/22/06/06/apple-unveils-macos-ventura-at-wwdc-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
