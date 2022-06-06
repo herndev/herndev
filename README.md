@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 12 Ultra renders leak, showing another massive camera system](https://www.androidauthority.com/xiaomi-12-ultra-design-3173134/)
- - [As Sheryl Sandberg leaves Meta, Silicon Valley loses one of its most powerful women; a report shows only 4.8% of SV&#39;s top 15 firms were led by women in 2020 &lpar;New York Times&rpar;](http://www.techmeme.com/220606/p13#a220606p13)
- - [Apple&#39;s MacBook Air with 16GB RAM is on sale for $1,099 &amp; in stock](https://appleinsider.com/articles/22/05/19/apples-macbook-air-with-16gb-ram-is-on-sale-for-1099-in-stock?utm_medium=rss)<!-- TECH:END -->
+ - [The Sony LinkBuds just got their first discount at Amazon](https://www.theverge.com/good-deals/2022/6/6/23154813/sony-linkbuds-earbuds-apple-watch-se-razer-kishi-sonos-roam-move-deal-sale)
+ - [Apple&#39;s AirPods &amp; Beats continue domination of the true wireless stereo market](https://appleinsider.com/articles/22/06/06/apples-airpods-beats-continue-domination-of-the-true-wireless-stereo-market?utm_medium=rss)
+ - [A look at Adam Neumann&#39;s Flowcarbon startup and its Goddess Nature Token, focused on tokenizing carbon offsetting, and what it says about Web3 more broadly &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220606/p15#a220606p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
