@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sony LinkBuds just got their first discount at Amazon](https://www.theverge.com/good-deals/2022/6/6/23154813/sony-linkbuds-earbuds-apple-watch-se-razer-kishi-sonos-roam-move-deal-sale)
- - [Apple&#39;s AirPods &amp; Beats continue domination of the true wireless stereo market](https://appleinsider.com/articles/22/06/06/apples-airpods-beats-continue-domination-of-the-true-wireless-stereo-market?utm_medium=rss)
- - [A look at Adam Neumann&#39;s Flowcarbon startup and its Goddess Nature Token, focused on tokenizing carbon offsetting, and what it says about Web3 more broadly &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220606/p15#a220606p15)<!-- TECH:END -->
+ - [iFixit uses its tools to dismantle Apple’s self-service iPhone repair tools](https://www.theverge.com/2022/6/6/23156453/ifixit-apple-self-service-toolkit-teardown-video)
+ - [Mike Flanagan’s The Midnight Club is summoning something shady in its first teaser](https://www.theverge.com/2022/6/6/23156429/midnight-club-teaser-trailer-mike-flanagan)
+ - [Go read this report on an AI shopping app that was actually just using humans](https://www.theverge.com/2022/6/6/23156318/artificial-intelligence-nate-app-ecommerce-go-read-this)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
