@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft tests Windows 11 store that won’t update apps if you’re using them](https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature)
- - [No longer a concept? A smartphone with 200W charging could be coming soon](https://www.androidauthority.com/200w-charging-smartphone-3172973/)
- - [BMW&#39;s M Hybrid V8 LMDh Race Car Debuts Rad Livery for Testing     - CNET](https://www.cnet.com/roadshow/news/bmw-m-hybrid-v8-lmdh-race-car-testing-livery-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mac mini &#39;tower,&#39; M2 Mac mini listed by B&amp;H before WWDC [u]](https://appleinsider.com/articles/22/06/05/mac-mini-tower-m2-mac-mini-listed-by-bh-before-wwdc?utm_medium=rss)
+ - [Apple Event Today: How to Watch WWDC 2022 Live     - CNET](https://www.cnet.com/tech/mobile/how-to-watch-wwdc-2022-livestream-apple-keynote/#ftag=CAD590a51e)
+ - [Microsoft tests Windows 11 store that won’t update apps if you’re using them](https://www.theverge.com/2022/6/6/23156083/microsoft-windows-11-microsoft-store-app-updates-skip-feature)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
