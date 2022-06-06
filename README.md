@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be responsible when driving, guys..](http://9gag.com/gag/aGz60Y6)
- - ⏩ [Meeting of former colleagues](http://9gag.com/gag/aGz604w)
- - 👉 [Best one I\u2019ve seen in a while](http://9gag.com/gag/aGz61o6)<!-- MEMES:END -->
+ - 💣 [Meeting of former colleagues](http://9gag.com/gag/aGz604w)
+ - ⏩ [Constantine](http://9gag.com/gag/aXrQvd2)
+ - 👉 [F you\u2026 and you and you and you](http://9gag.com/gag/aAGqdRg)<!-- MEMES:END -->
 
 ---
 
