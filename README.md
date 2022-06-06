@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italy, Amalfi Coast](http://9gag.com/gag/agg6G1x)
- - ⏩ [What a view](http://9gag.com/gag/awzPVQ1)
- - 👉 [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)<!-- MEMES:END -->
+ - 💣 [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)
+ - ⏩ [High jump competition held at a high school in Kenya.](http://9gag.com/gag/aRr9epy)
+ - 👉 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/aBnj15z)<!-- MEMES:END -->
 
 ---
 
