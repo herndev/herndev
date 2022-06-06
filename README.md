@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple details new APIs &amp; Xcode Cloud for developers](https://appleinsider.com/articles/22/06/06/apple-details-new-apis-xcode-cloud-for-developers?utm_medium=rss)
- - [Apple is finally adding some of Gmail’s best features to its own email apps](https://www.theverge.com/2022/6/6/23157188/apple-mail-gmail-undo-scheduled-send-forget-attachment)
- - [Does Tinder notify users when you screenshot?](https://www.androidauthority.com/does-tinder-notify-screenshots-3173292/)<!-- TECH:END -->
+ - [What hardware you need to run iOS 16, iPadOS 16, watchOS 9, macOS Ventura, and tvOS 16](https://appleinsider.com/articles/22/06/06/heres-what-you-need-to-run-ios-16-ipados-16-watchos-9-macos-ventura-and-tvos-16?utm_medium=rss)
+ - [MFS Africa, a digital payments network in Africa, acquires Oklahoma-based Global Technology Partners, which makes prepaid payments software, for $34M &lpar;David Pilling/Financial Times&rpar;](http://www.techmeme.com/220606/p46#a220606p46)
+ - [&#39;Ms. Marvel&#39; Star Iman Vellani Got Cast on Her Last Day of High School     - CNET](https://www.cnet.com/culture/entertainment/ms-marvel-star-iman-vellani-got-cast-on-her-last-day-of-high-school/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
