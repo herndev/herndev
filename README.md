@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is your excuse?](http://9gag.com/gag/aLvV9K6)
- - ⏩ [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)
- - 👉 [What a view](http://9gag.com/gag/awzPVQ1)<!-- MEMES:END -->
+ - 💣 [Italy, Amalfi Coast](http://9gag.com/gag/agg6G1x)
+ - ⏩ [What a view](http://9gag.com/gag/awzPVQ1)
+ - 👉 [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)<!-- MEMES:END -->
 
 ---
 
