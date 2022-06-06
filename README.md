@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France-based Diabeloop, whose AI-based diabetes management tech automatically adjusts insulin as needed, raises a &amp;euro;70M Series C led by LBO France &lpar;Andrea Park/Fierce Biotech&rpar;](http://www.techmeme.com/220606/p1#a220606p1)
- - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: June 6&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
- - [&#39;Stranger Things 4&#39;: When Is Volume 2 Available on Netflix?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-when-is-volume-2-available-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New evidence suggests the Pixel tablet could replace your Google Nest Hub](https://www.androidauthority.com/pixel-tablet-nest-hub-replacement-3172950/)
+ - [Google Colaboratory, a web service popular with AI researchers for running Python code, quietly bans deepfake-related projects, though some remain &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220606/p2#a220606p2)
+ - [Now the Pixel 6a has been listed for sale on Facebook way before its release](https://www.androidauthority.com/google-pixel-6a-sale-facebook-marketplace-3172409/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
