@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the anime movies coming to theaters in summer 2022](https://www.polygon.com/23153272/summer-anime-preview-theatrical-movies-2022)
- - [New Game Tests Your Nerve As You Cheat At Cards To Rob The Rich](https://kotaku.com/card-shark-switch-steam-review-cheating-poker-tricks-ha-1849024359)
- - [New Umbrella Academy clip shows new characters and the ominous Hotel Obsidian](https://www.polygon.com/23156523/the-umbrella-academy-season-3-clips-release-date)<!-- GAME:END -->
+ - [Dragon Age QA Workers Votes Unanimously To Form Labor Union](https://kotaku.com/dragon-age-4-bioware-labor-union-keywords-edmonton-1849025110)
+ - [Now we finally know what Batman thinks about the Purge movies](https://www.polygon.com/23153231/batman-dc-comics-the-purge-joke-gary-whitta-fortress)
+ - [Half-baked battle royale with NFTs to launch on the Epic Games Store, pleasing nobody](https://www.pcgamer.com/half-baked-battle-royale-with-nfts-to-launch-on-the-epic-games-store-pleasing-nobody)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
