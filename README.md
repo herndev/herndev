@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine her thought process\u2026](http://9gag.com/gag/adgrXBB)
+ - 💣 [Car trick](http://9gag.com/gag/avA4nP5)
  - ⏩ [High jump competition held at a high school in Kenya.](http://9gag.com/gag/aRr9epy)
  - 👉 [GameStop\u2019s reaction when it was announced new consoles would not have disc drives](http://9gag.com/gag/aBnj15z)<!-- MEMES:END -->
 
