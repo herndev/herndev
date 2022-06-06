@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney’s new animated movie follows a dysfunctional family of space explorers](https://www.polygon.com/23156398/disney-strange-world-trailer-release-date)
- - [Seasonic&#39;s wattage calculator sees no power increase for AMD&#39;s 7000-series GPUs](https://www.pcgamer.com/seasonics-wattage-calculator-sees-no-power-increase-for-amds-7000-series-gpus)
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)<!-- GAME:END -->
+ - [The Midnight Club trailer has some scary stories to tell](https://www.polygon.com/23156425/the-midnight-club-trailer-netflix-cast-mike-flanagan)
+ - [Check Out What’s New in Fortnite Battle Royale Chapter 3 – Season 3: Vibin’](https://news.xbox.com/en-us/2022/06/06/whats-new-fortnite-battle-royale-chapter-3-season-3-vibin/)
+ - [How to get Heart Shadow in Destiny 2](https://www.pcgamer.com/destiny-2-heart-shadow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
