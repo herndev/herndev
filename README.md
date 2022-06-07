@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [The argument in my head every weekend](http://9gag.com/gag/aGz6dbX)
- - ⏩ [Don&#39;t trust women](http://9gag.com/gag/apgz5xD)
- - 👉 [I broke my tongue](http://9gag.com/gag/aogAPZm)<!-- MEMES:END -->
+ - ⏩ [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)
+ - 👉 [I\u2019m in this photo, and I don\u2019t like it](http://9gag.com/gag/aqGBj7R)<!-- MEMES:END -->
 
 ---
 
