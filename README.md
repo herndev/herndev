@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Time For Another Moebius-Looking Video Game](https://kotaku.com/moebius-jean-giraud-xtal-pc-steam-true-colors-indie-vid-1849026742)
- - [Nintendo&#39;s Big Piracy Case Is A Very Sad Story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
- - [Final Fantasy XIV Devs Brainstormed A Battle Royale Mode That Sounds Fun As Hell](https://kotaku.com/final-fantasy-xiv-battle-royale-pvp-blue-mage-naoki-yos-1849026347)<!-- GAME:END -->
+ - [Apple has its own upscaling tech now, MetalFX Upscaling](https://www.pcgamer.com/apple-has-its-own-upscaling-tech-now-metalfx-upscaling)
+ - [If Nvidia’s next-gen GPUs can somehow live up to the hype, they&#39;ll make the RTX 3090 look slow](https://www.pcgamer.com/if-nvidias-next-gen-gpus-can-somehow-live-up-to-the-hype-theyll-make-the-rtx-3090-look-slow)
+ - [Time For Another Moebius-Looking Video Game](https://kotaku.com/moebius-jean-giraud-xtal-pc-steam-true-colors-indie-vid-1849026742)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
