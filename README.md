@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung&#39;s Father&#39;s Day Sale: up to $4,000 off TVs, Galaxy S22 phones, Bespoke kitchen appliances &amp; more](https://appleinsider.com/articles/22/06/07/samsungs-fathers-day-sale-up-to-4000-off-tvs-galaxy-s22-phones-bespoke-kitchen-appliances-more?utm_medium=rss)
- - [Tim Cook is concerned that slow erosion of privacy is a big danger](https://appleinsider.com/articles/22/06/07/tim-cook-is-concerned-that-slow-erosion-of-privacy-is-a-big-danger?utm_medium=rss)
- - [Day Shift’s new behind-the-scenes teaser promises one hell of a vampire-hunting ride](https://www.theverge.com/2022/6/7/23157915/netflix-day-shift-jamie-foxx-geeked-week)<!-- TECH:END -->
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [The five best features for Apple users that were announced at WWDC 2022](https://appleinsider.com/articles/22/06/07/the-five-best-features-for-apple-users-that-were-announced-at-wwdc-2022?utm_medium=rss)
+ - [First look at Netflix’s Wendell &amp; Wild](https://www.theverge.com/2022/6/7/23158099/jordan-peele-wendell-and-wild-geeked-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
