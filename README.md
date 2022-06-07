@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: Using the iPhone as a webcam with iOS 16 and macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-using-the-iphone-as-a-webcam-with-ios-16-and-macos-ventura?utm_medium=rss)
- - [First iOS 16 beta hints at always-on display support on the iPhone 14 Pro](https://appleinsider.com/articles/22/06/07/first-ios-16-beta-hints-at-always-on-display-support-on-the-iphone-14-pro?utm_medium=rss)
- - [Daily deals June 7: $129 Apple Watch Series 4, $15 Anker Nano Pro Charger, $139 Anova Sous Vide Cooker, more](https://appleinsider.com/articles/22/06/07/daily-deals-june-7-129-apple-watch-series-4-15-anker-nano-pro-charger-139-anova-sous-vide-cooker-more?utm_medium=rss)<!-- TECH:END -->
+ - [Apple’s Screen Time gets a handy new feature, but parental controls can be better](https://www.theverge.com/2022/6/7/23157223/apple-screen-time-family-sharing-ios-16-new-parental-control-features)
+ - [Waymo is teaming up with Uber on autonomous trucking because time really heals all wounds](https://www.theverge.com/2022/6/7/23156674/waymo-via-uber-freight-autonomous-truck-deal)
+ - [TikTok launches custom avatars to rival Snapchat’s Bitmoji and Apple’s Memoji](https://www.theverge.com/2022/6/7/23157668/tiktok-avatar-memoji-bitmoji-feature-how-to-use)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
