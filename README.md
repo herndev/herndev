@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BlockFi is in the process of raising a down round at $1B valuation; BlockFi was last valued at $3B in March 2021 &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220606/p49#a220606p49)
- - [Let&#39;s Do This, which uses fitness, racing, and social data to recommend endurance activities, raises a $60M Series B led by Craft Ventures and Headline &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220606/p48#a220606p48)
- - [Compared: 13-inch MacBook Pro with M2 vs 13-inch MacBook Pro with M1](https://appleinsider.com/inside/13-inch-macbook-pro/vs/compared-13-inch-macbook-pro-with-m2-vs-13-inch-macbook-pro-with-m1?utm_medium=rss)<!-- TECH:END -->
+ - [Indonesian crypto assets trading app Pintu raises a $113M Series B from Intudo Ventures, Lightspeed, Northstar Group, and Pantera Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220606/p53#a220606p53)
+ - [Vayyar, which builds radar-imaging chips and software for senior care, auto, and other industries, raises a $108M Series E at a $1B+ post-money valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220606/p52#a220606p52)
+ - [References to an unknown HomePod model can be found in the iOS 16 beta](https://appleinsider.com/articles/22/06/07/references-to-an-unknown-homepod-model-can-be-found-in-the-ios-16-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
