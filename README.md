@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [The five best features for Apple users that were announced at WWDC 2022](https://appleinsider.com/articles/22/06/07/the-five-best-features-for-apple-users-that-were-announced-at-wwdc-2022?utm_medium=rss)
- - [First look at Netflix’s Wendell &amp; Wild](https://www.theverge.com/2022/6/7/23158099/jordan-peele-wendell-and-wild-geeked-week)<!-- TECH:END -->
+ - [Apple passkey feature will be our first taste of a truly password-less future](https://appleinsider.com/articles/22/06/07/apple-passkey-feature-will-be-our-first-taste-of-a-truly-password-less-future?utm_medium=rss)
+ - [HBO Max canceled Raised by Wolves after two seasons](https://www.theverge.com/2022/6/7/23157925/raised-by-wolves-canceled-hbo-max-warner-bros-discovery)
+ - [NASA Mars Helicopter Has a Dead Sensor, but It Might Still Fly     - CNET](https://www.cnet.com/science/space/nasa-mars-helicopter-has-a-dead-sensor-but-it-might-still-fly/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
