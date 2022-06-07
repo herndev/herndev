@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK-based Internet Watch Foundation, a charity helping identify CSAM, says it has created hashes of 1M images of child sexual abuse to help prevent their reuse &lpar;BBC&rpar;](http://www.techmeme.com/220607/p4#a220607p4)
- - [Android 12 beta program ends for Pixels: Here’s what you can do next](https://www.androidauthority.com/android-12-beta-program-end-3172952/)
- - [FTX CEO Sam Bankman-Fried has spent $30M+ on political donations during the 2022 US primaries election cycle to prop up candidates who favor crypto deregulation &lpar;Timi Iwayemi/American Prospect&rpar;](http://www.techmeme.com/220607/p3#a220607p3)<!-- TECH:END -->
+ - [Apple adds support in iOS 16 for Nintendo&#39;s Joy-Cons and Pro Controller for Switch, expanding on support for PlayStation 5 and Xbox Series X controllers &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220607/p6#a220607p6)
+ - [iOS 16 supports Nintendo’s Switch Pro and Joy-Con controllers](https://www.theverge.com/2022/6/7/23157642/apple-ios-16-nintendo-switch-pro-joy-con-controller-support)
+ - [Indian startup PhysicsWallah, which offers online courses and content for as low as $4, raises a $100M Series A led by Westbridge and GSV at a $1.1B valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220607/p5#a220607p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
