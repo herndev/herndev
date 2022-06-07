@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First Blockchain Game Coming To The Epic Store Looks Like Garbage](https://kotaku.com/epic-games-web3-pc-blockchain-nft-video-game-grit-1849025194)
- - [Tim Sweeney says Fortnite Token cryptocurrency is &#39;a scam&#39;](https://www.pcgamer.com/tim-sweeney-says-fortnite-token-cryptocurrency-is-a-scam)
- - [Be on the lookout for this malware that hijacks your browser and generates bogus search results](https://www.pcgamer.com/be-on-the-lookout-for-this-malware-that-hijacks-your-browser-and-generates-bogus-search-results)<!-- GAME:END -->
+ - [Nintendo&#39;s Big Piracy Case Is A Very Sad Story](https://kotaku.com/nintendo-piracy-case-bowser-xecuter-team-prison-pirate-1849026479)
+ - [Final Fantasy XIV Devs Brainstormed A Battle Royale Mode That Sounds Fun As Hell](https://kotaku.com/final-fantasy-xiv-battle-royale-pvp-blue-mage-naoki-yos-1849026347)
+ - [New Nickelodeon All-Star Brawl Update Adds Long-Awaited Character Voices](https://kotaku.com/nickelodeon-all-star-brawl-character-voices-update-free-1849026232)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
