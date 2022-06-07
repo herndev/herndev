@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take total control of your race weekend, F1 Manager 2022 launches August 25](https://blog.playstation.com/2022/06/07/take-total-control-of-your-race-weekend-f1-manager-2022-launches-august-25/)
- - [First Details on Battlefield 2042 – Season 1: Zero Hour, Launching June 9](https://news.xbox.com/en-us/2022/06/07/first-details-battlefield-2042-season-1-zero-hour/)
- - [Battlefield 2042 season 1 kicks off this week with stealth choppers, new ‘vehicle killer expert’ specialist](https://www.polygon.com/23157898/battlefield-2042-season-1-release-date-new-content-map-specialist-helicopters)<!-- GAME:END -->
+ - [Jamie Foxx is a vampire-killing dad in Netflix’s Day Shift](https://www.polygon.com/23156394/day-shift-trailer-jamie-foxx-netflix-cast-release-date)
+ - [New Sea Beast trailer proves the scariest adversary in the world is childcare](https://www.polygon.com/23157838/the-sea-beast-netflix-trailer-release-date)
+ - [Minecraft ditched fireflies in the 1.19 update so kids&#39; real pet frogs won&#39;t croak](https://www.pcgamer.com/minecraft-ditched-fireflies-in-the-119-update-so-kids-real-pet-frogs-wont-croak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
