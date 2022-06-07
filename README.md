@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [I&#39;m looking at you EA, Ubisoft, Blizzard etc.](http://9gag.com/gag/axBQ7XL)
- - ⏩ [Can&#39;t win](http://9gag.com/gag/aZro7mz)
- - 👉 [I broke my tongue](http://9gag.com/gag/aogAPZm)<!-- MEMES:END -->
+ - ⏩ [F**ker should be jailed or worse](http://9gag.com/gag/ang845q)
+ - 👉 [Chocolate Chess just dropped](http://9gag.com/gag/aGz6g6K)<!-- MEMES:END -->
 
 ---
 
