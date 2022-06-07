@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ecuadorian payments infrastructure startup Kushki raises a $100M Series B extension at a $1.5B valuation, bringing its total funding to ~$200M since 2017 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220607/p31#a220607p31)
- - [Best Apple CarPlay Head Unit Car Stereos for 2022     - CNET](https://www.cnet.com/roadshow/news/best-apple-carplay-head-unit/#ftag=CAD590a51e)
- - [Here&#39;s the Absolute Best Thing About Stranger Things 4     - CNET](https://www.cnet.com/culture/entertainment/heres-the-absolute-best-thing-about-stranger-things-4/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Flash deals: M1 iPad Pro with AppleCare up to $110 off for WWDC](https://appleinsider.com/articles/22/06/07/flash-deals-m1-ipad-pro-with-applecare-up-to-110-off-for-wwdc?utm_medium=rss)
+ - [How to hide and unhide songs on Spotify](https://www.androidauthority.com/how-to-hide-unhide-songs-spotify-3086106/)
+ - [Twitter aims to grow its mDAUs by 13M this quarter, the highest goal it has ever set, and is currently on track with 8.5M users, per an internal staff meeting &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220607/p32#a220607p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
