@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deals: M1 iPad Pro with AppleCare up to $110 off for WWDC](https://appleinsider.com/articles/22/06/07/flash-deals-m1-ipad-pro-with-applecare-up-to-110-off-for-wwdc?utm_medium=rss)
- - [How to hide and unhide songs on Spotify](https://www.androidauthority.com/how-to-hide-unhide-songs-spotify-3086106/)
- - [Twitter aims to grow its mDAUs by 13M this quarter, the highest goal it has ever set, and is currently on track with 8.5M users, per an internal staff meeting &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/220607/p32#a220607p32)<!-- TECH:END -->
+ - [Taco Bell opens its first ‘Defy’ restaurant that prioritizes ordering via app](https://www.theverge.com/2022/6/7/23158666/taco-bell-defy-digital-online-orders-drive-thru)
+ - [IBM says it will wind down its business in Russia and lay off its workforce there, after suspending operations in the county in March &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220607/p33#a220607p33)
+ - [New EU Rules on USB-C Charging Could Force an iPhone Redesign](https://www.wired.com/story/eu-rules-usb-c-charging-iphone-lightning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
