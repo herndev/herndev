@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The risk he took was calculated, but man, he&#39;s bad at math.](http://9gag.com/gag/apgz56p)
- - ⏩ [Y tho](http://9gag.com/gag/aQXB192)
- - 👉 [New Fear Unlocked](http://9gag.com/gag/aWgPEYZ)<!-- MEMES:END -->
+ - 💣 [I&#39;m looking at you EA, Ubisoft, Blizzard etc.](http://9gag.com/gag/axBQ7XL)
+ - ⏩ [Can&#39;t win](http://9gag.com/gag/aZro7mz)
+ - 👉 [I broke my tongue](http://9gag.com/gag/aogAPZm)<!-- MEMES:END -->
 
 ---
 
