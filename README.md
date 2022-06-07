@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [SteelSeries Aerox 5 Wireless](https://www.pcgamer.com/steelseries-aerox-5-wireless-review)
  - [Today&#39;s Wordle answer #353: Tuesday, June 7](https://www.pcgamer.com/todays-wordle-answer-353-tuesday-june-7)
- - [Berserk Will Continue Without Kentaro Miura](https://kotaku.com/beserk-manga-continue-kentaro-miura-new-story-kouji-mor-1849027173)
- - [Apple has its own upscaling tech now, MetalFX Upscaling](https://www.pcgamer.com/apple-has-its-own-upscaling-tech-now-metalfx-upscaling)<!-- GAME:END -->
+ - [Berserk Will Continue Without Kentaro Miura](https://kotaku.com/beserk-manga-continue-kentaro-miura-new-story-kouji-mor-1849027173)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
