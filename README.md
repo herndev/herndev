@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mystery meets shoot ‘em up action in Yurukill: The Calumniation Games, demo out today](https://blog.playstation.com/2022/06/07/mystery-meets-shoot-em-up-action-in-yurukill-the-calumniation-games-demo-out-today/)
- - [Mystery meets shoot ‘em up action in Yurukill: The Calumniation Games, demo out today](https://blog.playstation.com/2022/06/07/mystery-meets-shoot-em-up-action-in-yurukill-the-calumniation-games-demo-out-today/)
- - [Spacelines from the Far Out is Now Available on Xbox, PC, and Xbox Game Pass](https://news.xbox.com/en-us/2022/06/07/spacelines-from-the-far-out-is-now-available-on-xbox-pc-and-xbox-game-pass/)<!-- GAME:END -->
+ - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)
+ - [Hades mod adding god of music Apollo almost looks like official DLC](https://www.pcgamer.com/hades-mod-adding-god-of-music-apollo-almost-looks-like-official-dlc)
+ - [One Piece manga will take one-month break ahead of story conclusion](https://www.polygon.com/23158245/one-piece-manga-final-arc-wano-viz-eiichiro-oda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
