@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smells like male privilege](http://9gag.com/gag/a614NmR)
+ - 💣 [Y tho](http://9gag.com/gag/aQXB192)
  - ⏩ [I can only count to four - original song](http://9gag.com/gag/aZroLz0)
- - 👉 [I shall wear them forever](http://9gag.com/gag/apgz51W)<!-- MEMES:END -->
+ - 👉 [Yo Ho, Yo Ho, A pirates life for me...](http://9gag.com/gag/aZroLvz)<!-- MEMES:END -->
 
 ---
 
