@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Depp-Heard trial was a new low point for Twitch culture](https://www.pcgamer.com/the-depp-heard-trial-was-a-new-low-point-for-twitch-culture)
- - [Diablo Immortal microtransactions have sparked a brutal backlash](https://www.pcgamer.com/diablo-immortal-microtransactions-have-sparked-a-brutal-backlash)
- - [In Eternights You Press R2 To Hold Hands Just Like IRL](https://kotaku.com/eternights-jrpg-persona-studio-sai-pc-playstation-state-1849030770)<!-- GAME:END -->
+ - [Halo Infinite Finally Gets Co-Op Next Month, But As A Beta](https://kotaku.com/halo-infinite-campaign-co-op-network-beta-test-season-t-1849031399)
+ - [Manga Bizarro World: One Piece Goes On Hiatus, HxH And Berserk Return](https://kotaku.com/berserk-kentaro-miura-one-piece-eiichiro-oda-hunter-x-h-1849031165)
+ - [Giant Bomb Staff Discuss Jeff Gerstmann Exit While He Starts New Podcast](https://kotaku.com/giant-bomb-jeff-gerstmann-staff-podcast-patreon-exit-de-1849031232)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
