@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I Don&#39;t Mind` My latest acrylic painting. I find these scenes to be nice and calming. Hope ya dig it, - Flooko](http://9gag.com/gag/aM4DjVG)
- - ⏩ [Helicopter footage of a loose cow being wrangled by Emergency Services and cowboys in OKC](http://9gag.com/gag/abgKpPB)
- - 👉 [Death by snus snus](http://9gag.com/gag/aBnjxNx)<!-- MEMES:END -->
+ - 💣 [Constantine](http://9gag.com/gag/aXrQvd2)
+ - ⏩ [Well ... enough internet for today](http://9gag.com/gag/aVx431P)
+ - 👉 [Looped](http://9gag.com/gag/aKmnx3W)<!-- MEMES:END -->
 
 ---
 
