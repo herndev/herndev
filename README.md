@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesian crypto assets trading app Pintu raises a $113M Series B from Intudo Ventures, Lightspeed, Northstar Group, and Pantera Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220606/p53#a220606p53)
- - [Vayyar, which builds radar-imaging chips and software for senior care, auto, and other industries, raises a $108M Series E at a $1B+ post-money valuation &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220606/p52#a220606p52)
- - [References to an unknown HomePod model can be found in the iOS 16 beta](https://appleinsider.com/articles/22/06/07/references-to-an-unknown-homepod-model-can-be-found-in-the-ios-16-beta?utm_medium=rss)<!-- TECH:END -->
+ - [A study of the first two years of Bitcoin transactions finds 64 key players who mined most of the Bitcoin at the time, contrary to decentralized crypto ethos &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/220607/p1#a220607p1)
+ - [Dark web marketplace AlphaBay, which was taken down by law enforcement in 2017 and relaunched last August, now has 30K+ unique product listings, largely drugs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220606/p54#a220606p54)
+ - [Indonesian crypto assets trading app Pintu raises a $113M Series B from Intudo Ventures, Lightspeed, Northstar Group, and Pantera Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220606/p53#a220606p53)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
