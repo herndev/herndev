@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m looking at you EA, Ubisoft, Blizzard etc.](http://9gag.com/gag/axBQ7XL)
- - ⏩ [F**ker should be jailed or worse](http://9gag.com/gag/ang845q)
- - 👉 [Chocolate Chess just dropped](http://9gag.com/gag/aGz6g6K)<!-- MEMES:END -->
+ - 💣 [Chocolate Chess just dropped](http://9gag.com/gag/aGz6g6K)
+ - ⏩ [I shall wear them forever](http://9gag.com/gag/apgz51W)
+ - 👉 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)<!-- MEMES:END -->
 
 ---
 
