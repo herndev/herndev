@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s design is getting a little more human-friendly — sort of](https://www.theverge.com/23158417/apple-wwdc-2022-ios-ipados-16-macos-ventura-imessage-mail-undo-send)
- - [Best Fitness Deals: Save on Trackers, Equipment, Accessories and More     - CNET](https://www.cnet.com/health/fitness/best-fitness-deals/#ftag=CAD590a51e)
- - [11 shows like Stranger Things: What to watch alongside season 4](https://www.androidauthority.com/shows-like-stranger-things-season-4-netflix-3173833/)<!-- TECH:END -->
+ - [How to lift subjects from photos in iOS 16 and macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-how-to-lift-subjects-from-photos-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [Apple revamps Human Interface Guidelines with new organization &amp; more](https://appleinsider.com/articles/22/06/07/apple-revamps-human-interface-guidelines-with-new-organization-more?utm_medium=rss)
+ - [Apple brings Xcode Cloud out of beta, making the CI/CD service generally available to all developers; the base plan starts at $14.99 per month for 25 hours &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220607/p29#a220607p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
