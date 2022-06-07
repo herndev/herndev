@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Castor, which offers enterprise tools to help catalog data, raises a $23.5M Series A led by Blossom &lpar;Shubham Sharma/VentureBeat&rpar;](http://www.techmeme.com/220607/p18#a220607p18)
- - [iOS 16 beta code shows multiple references to an always-on display, a feature rumored for the iPhone 14 Pro models &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220607/p17#a220607p17)
- - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on: Using the iPhone as a webcam with iOS 16 and macOS Ventura](https://appleinsider.com/articles/22/06/07/hands-on-using-the-iphone-as-a-webcam-with-ios-16-and-macos-ventura?utm_medium=rss)
+ - [First iOS 16 beta hints at always-on display support on the iPhone 14 Pro](https://appleinsider.com/articles/22/06/07/first-ios-16-beta-hints-at-always-on-display-support-on-the-iphone-14-pro?utm_medium=rss)
+ - [Daily deals June 7: $129 Apple Watch Series 4, $15 Anker Nano Pro Charger, $139 Anova Sous Vide Cooker, more](https://appleinsider.com/articles/22/06/07/daily-deals-june-7-129-apple-watch-series-4-15-anker-nano-pro-charger-139-anova-sous-vide-cooker-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
