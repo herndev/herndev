@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries Aerox 5 Wireless](https://www.pcgamer.com/steelseries-aerox-5-wireless-review)
- - [Today&#39;s Wordle answer #353: Tuesday, June 7](https://www.pcgamer.com/todays-wordle-answer-353-tuesday-june-7)
- - [Berserk Will Continue Without Kentaro Miura](https://kotaku.com/beserk-manga-continue-kentaro-miura-new-story-kouji-mor-1849027173)<!-- GAME:END -->
+ - [HDMI 2.1 cables could get a whole lot longer without messy power cables](https://www.pcgamer.com/hdmi-21-cables-could-get-a-whole-lot-longer-without-messy-power-cables)
+ - [First Intel Arc Alchemist benchmarks are a bit of a mixed bag](https://www.pcgamer.com/first-intel-arc-alchemist-benchmarks-are-a-bit-of-a-mixed-bag)
+ - [There&#39;s a new Just Cause in development](https://www.pcgamer.com/theres-a-new-just-cause-in-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
