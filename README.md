@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They don&#39;t make toons like they used to](http://9gag.com/gag/ang8QKB)
- - ⏩ [Good ol Middle East](http://9gag.com/gag/apgzNwD)
- - 👉 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)<!-- MEMES:END -->
+ - 💣 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)
+ - ⏩ [Don&#39;t be an A-hole](http://9gag.com/gag/ay9ZMYq)
+ - 👉 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)<!-- MEMES:END -->
 
 ---
 
