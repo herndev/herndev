@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple passkey feature will be our first taste of a truly password-less future](https://appleinsider.com/articles/22/06/07/apple-passkey-feature-will-be-our-first-taste-of-a-truly-password-less-future?utm_medium=rss)
- - [HBO Max canceled Raised by Wolves after two seasons](https://www.theverge.com/2022/6/7/23157925/raised-by-wolves-canceled-hbo-max-warner-bros-discovery)
- - [NASA Mars Helicopter Has a Dead Sensor, but It Might Still Fly     - CNET](https://www.cnet.com/science/space/nasa-mars-helicopter-has-a-dead-sensor-but-it-might-still-fly/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s design is getting a little more human-friendly — sort of](https://www.theverge.com/23158417/apple-wwdc-2022-ios-ipados-16-macos-ventura-imessage-mail-undo-send)
+ - [Best Fitness Deals: Save on Trackers, Equipment, Accessories and More     - CNET](https://www.cnet.com/health/fitness/best-fitness-deals/#ftag=CAD590a51e)
+ - [11 shows like Stranger Things: What to watch alongside season 4](https://www.androidauthority.com/shows-like-stranger-things-season-4-netflix-3173833/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
