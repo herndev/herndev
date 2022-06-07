@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reservation](http://9gag.com/gag/aRr9jNy)
- - ⏩ [Rude when they don&#39;t do it back...](http://9gag.com/gag/aNP81Nr)
- - 👉 [Well ... enough internet for today](http://9gag.com/gag/aVx431P)<!-- MEMES:END -->
+ - 💣 [WHOOAA! I FEEL GOOD](http://9gag.com/gag/aqGB7mj)
+ - ⏩ [Well ... enough internet for today](http://9gag.com/gag/aVx431P)
+ - 👉 [I think Calvin is fu**ing right, and you?](http://9gag.com/gag/a614Oq2)<!-- MEMES:END -->
 
 ---
 
