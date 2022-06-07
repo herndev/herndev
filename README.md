@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at attempts by the US to prosecute hot-headed coder Joshua Schulte, who allegedly leaked the CIA&#39;s hacking arsenal, ahead of his June 13 trial &lpar;Patrick Radden Keefe/New Yorker&rpar;](http://www.techmeme.com/220607/p10#a220607p10)
- - [The Unwritten Laws of Physics for Black Women](https://www.wired.com/story/the-unwritten-laws-of-physics)
- - [Mandatory USB-C phone port edges closer after EU deal](https://www.theverge.com/2022/6/7/23156361/european-union-usb-c-wired-charging-iphone-lightning-ewaste)<!-- TECH:END -->
+ - [EU lawmakers reach an agreement on legislation that will mandate USB-C on smartphones and other electronic devices, starting in autumn 2024, to reduce e-waste &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220607/p12#a220607p12)
+ - [How Marginalized Workers Can Make the Most of Remote Work](https://www.wired.com/story/marginalized-workers-remote-work)
+ - [25 Father’s Day Gifts for the Dependable Dad in Your Life](https://www.wired.com/gallery/best-fathers-day-gift-ideas-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
