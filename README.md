@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now run Doom entirely within a motherboard BIOS](https://www.pcgamer.com/doom-coreboot-coredoom)
- - [Here Are All The Pressers Filling The Vacuum Left By E3’s Shambling Zombie Corpse](https://kotaku.com/e3-2022-press-conference-schedule-xbox-bethesda-gamesco-1848951821)
- - [20 of the best anime to watch on Netflix right now](https://www.polygon.com/22783137/best-anime-on-netflix)<!-- GAME:END -->
+ - [Take total control of your race weekend, F1 Manager 2022 launches August 25](https://blog.playstation.com/2022/06/07/take-total-control-of-your-race-weekend-f1-manager-2022-launches-august-25/)
+ - [First Details on Battlefield 2042 – Season 1: Zero Hour, Launching June 9](https://news.xbox.com/en-us/2022/06/07/first-details-battlefield-2042-season-1-zero-hour/)
+ - [Battlefield 2042 season 1 kicks off this week with stealth choppers, new ‘vehicle killer expert’ specialist](https://www.polygon.com/23157898/battlefield-2042-season-1-release-date-new-content-map-specialist-helicopters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
