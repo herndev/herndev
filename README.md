@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chocolate Chess just dropped](http://9gag.com/gag/aGz6g6K)
- - ⏩ [I shall wear them forever](http://9gag.com/gag/apgz51W)
- - 👉 [I don&#39;t know how to say you this...](http://9gag.com/gag/aVx4wrK)<!-- MEMES:END -->
+ - 💣 [The argument in my head every weekend](http://9gag.com/gag/aGz6dbX)
+ - ⏩ [Don&#39;t trust women](http://9gag.com/gag/apgz5xD)
+ - 👉 [I broke my tongue](http://9gag.com/gag/aogAPZm)<!-- MEMES:END -->
 
 ---
 
