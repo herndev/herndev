@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Screen Time gets a handy new feature, but parental controls can be better](https://www.theverge.com/2022/6/7/23157223/apple-screen-time-family-sharing-ios-16-new-parental-control-features)
- - [Waymo is teaming up with Uber on autonomous trucking because time really heals all wounds](https://www.theverge.com/2022/6/7/23156674/waymo-via-uber-freight-autonomous-truck-deal)
- - [TikTok launches custom avatars to rival Snapchat’s Bitmoji and Apple’s Memoji](https://www.theverge.com/2022/6/7/23157668/tiktok-avatar-memoji-bitmoji-feature-how-to-use)<!-- TECH:END -->
+ - [Samsung&#39;s Father&#39;s Day Sale: up to $4,000 off TVs, Galaxy S22 phones, Bespoke kitchen appliances &amp; more](https://appleinsider.com/articles/22/06/07/samsungs-fathers-day-sale-up-to-4000-off-tvs-galaxy-s22-phones-bespoke-kitchen-appliances-more?utm_medium=rss)
+ - [Tim Cook is concerned that slow erosion of privacy is a big danger](https://appleinsider.com/articles/22/06/07/tim-cook-is-concerned-that-slow-erosion-of-privacy-is-a-big-danger?utm_medium=rss)
+ - [Day Shift’s new behind-the-scenes teaser promises one hell of a vampire-hunting ride](https://www.theverge.com/2022/6/7/23157915/netflix-day-shift-jamie-foxx-geeked-week)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
