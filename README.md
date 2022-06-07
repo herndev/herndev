@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU lawmakers reach an agreement on legislation that will mandate USB-C on smartphones and other electronic devices, starting in autumn 2024, to reduce e-waste &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220607/p12#a220607p12)
- - [How Marginalized Workers Can Make the Most of Remote Work](https://www.wired.com/story/marginalized-workers-remote-work)
- - [25 Father’s Day Gifts for the Dependable Dad in Your Life](https://www.wired.com/gallery/best-fathers-day-gift-ideas-2022)<!-- TECH:END -->
+ - [New iOS 16 Developer Mode may be preview of third-party app store toggle](https://appleinsider.com/articles/22/06/07/new-ios-16-developer-mode-may-preview-of-third-party-app-store-toggle?utm_medium=rss)
+ - [NBA Top Shot seemed like a slam dunk — so why are some collectors crying foul?](https://www.theverge.com/23153620/nba-top-shot-nft-bored-ape-yacht-club)
+ - [TikTok announces TikTok Avatars, similar to Snap&#39;s Bitmoji and Apple&#39;s Memoji, letting users customize their appearance, add voice effects, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220607/p14#a220607p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
