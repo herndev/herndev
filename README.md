@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Wendell &amp; Wild clip is full of spooky stop-motion](https://www.polygon.com/23158244/wendell-and-wild-clip-release-date-netflix)
- - [One Year of Rust Console Edition. Let’s celebrate!](https://news.xbox.com/en-us/2022/06/07/one-year-of-rust-console-edition-lets-celebrate-2/)
- - [The School for Good and Evil teaser trailer showcases a world of myth and magic](https://www.polygon.com/23158412/the-school-for-good-and-evil-first-trailer-teaser-netflix)<!-- GAME:END -->
+ - [NCSoft announces Project M, a hyper-realistic Unreal Engine 5 game](https://www.polygon.com/gaming/23158593/ncsoft-interactive-movie-project-m-unreal-engine-5)
+ - [Making Disc Room for Everyone – Available Now on Game Pass](https://news.xbox.com/en-us/2022/06/07/making-disc-room-for-everyone-available-now-on-game-pass/)
+ - [Author of ARC: Doom tabletop RPG honored as Diana Jones Emerging Designer](https://www.polygon.com/23158313/arc-doom-author-artist-momatoes-diana-jones-award)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
