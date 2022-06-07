@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you date a trans person?](http://9gag.com/gag/avA475O)
- - ⏩ [Can&#39;t argue with that](http://9gag.com/gag/aYrZ41w)
- - 👉 [And the Stupid MotherF**ker award goes tooooo....](http://9gag.com/gag/adgr7bB)<!-- MEMES:END -->
+ - 💣 [`I Don&#39;t Mind` My latest acrylic painting. I find these scenes to be nice and calming. Hope ya dig it, - Flooko](http://9gag.com/gag/aM4DjVG)
+ - ⏩ [Helicopter footage of a loose cow being wrangled by Emergency Services and cowboys in OKC](http://9gag.com/gag/abgKpPB)
+ - 👉 [Death by snus snus](http://9gag.com/gag/aBnjxNx)<!-- MEMES:END -->
 
 ---
 
