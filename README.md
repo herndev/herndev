@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at TSMC&#39;s struggles to recruit US workers to build its chip factories in Arizona, planned to open in 2024, as Intel faces similar issues &lpar;Financial Times&rpar;](http://www.techmeme.com/220607/p2#a220607p2)
  - [A study of the first two years of Bitcoin transactions finds 64 key players who mined most of the Bitcoin at the time, contrary to decentralized crypto ethos &lpar;Siobhan Roberts/New York Times&rpar;](http://www.techmeme.com/220607/p1#a220607p1)
- - [Dark web marketplace AlphaBay, which was taken down by law enforcement in 2017 and relaunched last August, now has 30K+ unique product listings, largely drugs &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220606/p54#a220606p54)
- - [Indonesian crypto assets trading app Pintu raises a $113M Series B from Intudo Ventures, Lightspeed, Northstar Group, and Pantera Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220606/p53#a220606p53)<!-- TECH:END -->
+ - [iOS 16: Every Major New Feature Apple Revealed at WWDC     - CNET](https://www.cnet.com/tech/mobile/ios-16-every-major-new-feature-apple-revealed-wwdc/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
