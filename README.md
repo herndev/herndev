@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emma watson un speech](http://9gag.com/gag/aZroypQ)
- - ⏩ [What kind of math do they use? I am completely lost at this point now..](http://9gag.com/gag/abgKG69)
- - 👉 [Doctor explains to patients why crippling understaffing means a 7.5 hour wait in Accident &amp; Emergency Ward](http://9gag.com/gag/aKmn6wZ)<!-- MEMES:END -->
+ - 💣 [They don&#39;t make toons like they used to](http://9gag.com/gag/ang8QKB)
+ - ⏩ [Good ol Middle East](http://9gag.com/gag/apgzNwD)
+ - 👉 [It\u2019s almost like it\u2019s not about the environment at all. Go figure.](http://9gag.com/gag/apgzGpE)<!-- MEMES:END -->
 
 ---
 
