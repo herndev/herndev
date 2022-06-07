@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android 12 beta program ends for Pixels: Here’s what you can do next](https://www.androidauthority.com/android-12-beta-program-end-3172952/)
  - [FTX CEO Sam Bankman-Fried has spent $30M+ on political donations during the 2022 US primaries election cycle to prop up candidates who favor crypto deregulation &lpar;Timi Iwayemi/American Prospect&rpar;](http://www.techmeme.com/220607/p3#a220607p3)
- - [Google blames Sonos for latest ‘interruption’ on Pixel phones](https://www.androidauthority.com/google-pixel-smart-home-set-up-3173448/)
- - [A look at TSMC&#39;s struggles to recruit US workers to build its chip factories in Arizona, planned to open in 2024, as Intel faces similar issues &lpar;Financial Times&rpar;](http://www.techmeme.com/220607/p2#a220607p2)<!-- TECH:END -->
+ - [Berserk is Set to Return, One Year After Kentaro Miura&#39;s Death     - CNET](https://www.cnet.com/culture/entertainment/berserk-is-set-to-return-one-year-after-kentaro-miuras-death/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
