@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Someone turned Insteon’s lights back on](https://www.theverge.com/2022/6/8/23159723/insteon-smart-home-servers-reportedly-online)
- - [Twitter will give Elon Musk ‘firehose’ data access to settle bot complaints](https://www.theverge.com/2022/6/8/23159898/twitter-musk-firehose-bot-complaints-data-sec-deal)
- - [Android 13 schedule: When will it launch?](https://www.androidauthority.com/android-13-schedule-3105528/)<!-- TECH:END -->
+ - [Apple says Stage Manager is limited to M1 iPad models because it uses iPadOS 16&#39;s fast memory swap feature, which essentially lets apps convert storage into RAM &lpar;Prakhar Khanna/Digital Trends&rpar;](http://www.techmeme.com/220608/p30#a220608p30)
+ - [Razer unveils second-generation Kishi mobile controller with improved controls](https://appleinsider.com/articles/22/06/08/razer-unveils-second-generation-kishi-mobile-controller-with-improved-controls?utm_medium=rss)
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
