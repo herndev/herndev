@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare II comes to PS5 &amp; PS4 October 28](https://blog.playstation.com/2022/06/08/call-of-duty-modern-warfare-ii-comes-to-ps5-ps4-october-28/)
- - [Call of Duty: Modern Warfare II comes to PS5 &amp; PS4 October 28](https://blog.playstation.com/2022/06/08/call-of-duty-modern-warfare-ii-comes-to-ps5-ps4-october-28/)
- - [Saudi Arabia invests $1B in Embracer, expanding position in games and media](https://www.polygon.com/23159791/saudi-arabia-investment-embracer-asmodee-gearbox)<!-- GAME:END -->
+ - [Stray Won’t Show You The Cat’s Butthole &lpar;Probably&rpar;](https://kotaku.com/stray-preview-ps4-ps5-ps-plus-annapurna-interactive-1849035211)
+ - [Announcing Call of Duty: Modern Warfare II](https://news.xbox.com/en-us/2022/06/08/announcing-call-of-duty-modern-warfare-ii/)
+ - [Ukrainian game developers use their art to fight back against the Russian invasion](https://www.polygon.com/23157926/ukraine-russia-war-indie-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
