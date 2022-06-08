@@ -107,9 +107,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bicycle Health, a Boston-based provider of virtual opioid addiction treatment, raises a $50M Series B, bringing its total funding to $83M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220608/p1#a220608p1)
- - [WaterField Design&#39;s Mac Studio Travel Bag holds your Mac and its accessories](https://appleinsider.com/articles/22/06/08/waterfield-designs-mac-studio-travel-bag-holds-your-mac-and-its-accessories?utm_medium=rss)
- - [Amazon Sees Dip in Sellers Signing up to Sell Counterfeits, Company Says     - CNET](https://www.cnet.com/tech/services-and-software/amazon-sees-dip-in-sellers-signing-up-to-sell-counterfeits-company-says/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital asset bank Custodia sues the Federal Reserve Board and the Federal Reserve Bank of Kansas City for &quot;unlawfully&quot; delaying its master account application &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220608/p2#a220608p2)
+ - [The Galaxy Z Fold 4 could beat rivals to the punch with this storage option](https://www.androidauthority.com/samsung-galaxy-z-fold-4-1tb-variant-3173498/)
+ - [How to use banners in Catalyst Black](https://www.androidauthority.com/catalyst-black-banners-explained-3172707/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
