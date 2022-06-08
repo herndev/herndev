@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [From Baguetteland with love](http://9gag.com/gag/awzP3nR)
- - ⏩ [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)
- - 👉 [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)<!-- MEMES:END -->
+ - 💣 [5 stars on trustpilot](http://9gag.com/gag/a219wnp)
+ - ⏩ [Creed](http://9gag.com/gag/a31e5ze)
+ - 👉 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)<!-- MEMES:END -->
 
 ---
 
