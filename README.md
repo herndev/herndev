@@ -45,7 +45,7 @@
 </p>
   <img src="https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true" />
   
-  https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true
+<!--   https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true -->
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&cover_image=true&theme=novatorem&bar_color=00aa71&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true) -->
 
