@@ -108,10 +108,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-
-- [In a joint advisory, the NSA, CIA, and FBI detail how China-backed hackers have exploited common vulnerabilities to snoop on network traffic &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220607/p41#a220607p41)
-- [Massachusetts-based Shields Health Care Group says hackers accessed its databases containing personal data like SSNs and medical info of 2M patients in March &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220607/p40#a220607p40)
-- [Gantry, which aims to help developers find out how their AI models are performing and ways to improve them, emerges from stealth with a $28.3M seed and Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p39#a220607p39)<!-- TECH:END -->
+ - [Bicycle Health, a Boston-based provider of virtual opioid addiction treatment, raises a $50M Series B, bringing its total funding to $83M &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220608/p1#a220608p1)
+ - [WaterField Design&#39;s Mac Studio Travel Bag holds your Mac and its accessories](https://appleinsider.com/articles/22/06/08/waterfield-designs-mac-studio-travel-bag-holds-your-mac-and-its-accessories?utm_medium=rss)
+ - [Amazon Sees Dip in Sellers Signing up to Sell Counterfeits, Company Says     - CNET](https://www.cnet.com/tech/services-and-software/amazon-sees-dip-in-sellers-signing-up-to-sell-counterfeits-company-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
