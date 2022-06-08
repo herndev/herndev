@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Supreme Court speech showdown is coming, and nobody knows what to expect](https://www.theverge.com/2022/6/8/23152245/supreme-court-hb20-texas-florida-social-media-regulation-first-amendment-questions)
- - [LibLab, which offers tools to automate the production and maintenance of SDKs, raises a $42M Series A led by Insight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p18#a220608p18)
- - [Black Adam’s first trailer brings the thunder and the fury](https://www.theverge.com/23159511/black-adam-trailer-the-rock-release-date)<!-- TECH:END -->
+ - [After leaving Amazon on July 1, Dave Clark will join supply chain software startup Flexport as co-CEO starting September 1, becoming sole CEO six months later &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220608/p20#a220608p20)
+ - [Bluetooth SIG unveils Auracast, a way for you to share audio to many devices](https://www.androidauthority.com/bluetooth-sig-auracast-3173964/)
+ - [How to install a Ring video doorbell](https://www.theverge.com/23157868/how-to-install-ring-video-doorbell-wired-wireless)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
