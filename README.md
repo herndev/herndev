@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Flirting 101](http://9gag.com/gag/a51vBmo)
- - ⏩ [The plural of Octopus](http://9gag.com/gag/ang8veo)
- - 👉 [Aubrey Plazza](http://9gag.com/gag/ajgGLqQ)<!-- MEMES:END -->
+ - 💣 [Aubrey Plazza](http://9gag.com/gag/ajgGLqQ)
+ - ⏩ [Can everyone of similar age &lpar;I&#39;m 32&rpar; just take a moments silence to remember the joy of getting home from school and spending hours and hours on this masterpiece](http://9gag.com/gag/a2198Ad)
+ - 👉 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)<!-- MEMES:END -->
 
 ---
 
