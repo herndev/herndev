@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces NFT Cloud, a service for buying and selling NFTs, available in a closed preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220608/p16#a220608p16)
- - [The tangled truth about NFTs and copyright](https://www.theverge.com/23139793/nft-crypto-copyright-ownership-primer-cornell-ic3)
- - [Stock advisor Delphia, which offers an algorithm-based service via its app, raises a $60M Series A led by Multicoin Capital and plans its Delphia Data token &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220608/p15#a220608p15)<!-- TECH:END -->
+ - [A Supreme Court speech showdown is coming, and nobody knows what to expect](https://www.theverge.com/2022/6/8/23152245/supreme-court-hb20-texas-florida-social-media-regulation-first-amendment-questions)
+ - [LibLab, which offers tools to automate the production and maintenance of SDKs, raises a $42M Series A led by Insight &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p18#a220608p18)
+ - [Black Adam’s first trailer brings the thunder and the fury](https://www.theverge.com/23159511/black-adam-trailer-the-rock-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
