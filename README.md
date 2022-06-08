@@ -107,9 +107,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital asset bank Custodia sues the Federal Reserve Board and the Federal Reserve Bank of Kansas City for &quot;unlawfully&quot; delaying its master account application &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220608/p2#a220608p2)
- - [The Galaxy Z Fold 4 could beat rivals to the punch with this storage option](https://www.androidauthority.com/samsung-galaxy-z-fold-4-1tb-variant-3173498/)
- - [How to use banners in Catalyst Black](https://www.androidauthority.com/catalyst-black-banners-explained-3172707/)<!-- TECH:END -->
+ - [Xiaomi Mi Box 4S Max brings a big storage boost to TV boxes](https://www.androidauthority.com/xiaomi-mi-box-4s-max-3174085/)
+ - [&#39;Ms. Marvel&#39; Episode 1 Recap: Cosmic Powers, Easter Eggs and Post-Credits     - CNET](https://www.cnet.com/culture/entertainment/ms-marvel-episode-1-recap-cosmic-powers-easter-eggs-and-post-credits/#ftag=CAD590a51e)
+ - [Digital asset bank Custodia sues the Federal Reserve Board and the Federal Reserve Bank of Kansas City for &quot;unlawfully&quot; delaying its master account application &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220608/p2#a220608p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
