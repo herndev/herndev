@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Sex Games On Steam, According To OnlyFans Creators](https://kotaku.com/nsfw-porn-sex-video-games-steam-onlyfans-1849036328)
- - [Mario Strikers: Battle League Reviews Are All Over The Field](https://kotaku.com/mario-strikers-battle-league-nintendo-switch-review-rou-1849035907)
- - [Obi-Wan Kenobi reintroduced an old — and best abandoned — Star Wars fan fixation](https://www.polygon.com/star-wars/23160006/obi-wan-kenobi-brother-star-wars)<!-- GAME:END -->
+ - [Xenoblade Chronicles 3 Special Edition Pre-Orders Crash Nintendo’s Online Store](https://kotaku.com/xenoblade-chronicles-3-xc3-special-edition-nintendo-pre-1849036592)
+ - [Call of Duty Returns To Steam At The Premium Price Of $70](https://kotaku.com/call-of-duty-modern-warfare-ii-steam-price-70-cod-activ-1849036411)
+ - [The Best Sex Games On Steam, According To OnlyFans Creators](https://kotaku.com/nsfw-porn-sex-video-games-steam-onlyfans-1849036328)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
