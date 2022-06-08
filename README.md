@@ -112,8 +112,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
- - ⏩ [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)
- - 👉 [The Apple doesnt fall far from the tree](http://9gag.com/gag/axBQ9wb)<!-- MEMES:END -->
+ - ⏩ [Enjoy the show](http://9gag.com/gag/a31eZr7)
+ - 👉 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)<!-- MEMES:END -->
 
 ---
 
