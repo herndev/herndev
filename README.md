@@ -42,7 +42,10 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
+<p>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width=48% />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=qavoimqmh9k7ne4br5vn6nqrr&unique=1&count=3" width=35% />
+</p>
 
 <br />
  
