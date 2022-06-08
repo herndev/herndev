@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple Watch Series 7 slashed to $300 at Amazon, a record low price](https://appleinsider.com/articles/22/06/08/deals-apple-watch-series-7-slashed-to-300-at-amazon-a-record-low-price?utm_medium=rss)
- - [iPadOS 16 Stage Manager needs enhanced virtual memory that only M1 supports](https://appleinsider.com/articles/22/06/08/ipados-16-stage-manager-needs-enhanced-virtual-memory-that-only-m1-supports?utm_medium=rss)
- - [Sources: in an internal meeting, Twitter&#39;s Vijaya Gadde said a shareholder vote to approve Twitter&#39;s sale to Elon Musk will occur in late July or early August &lpar;Bloomberg&rpar;](http://www.techmeme.com/220608/p31#a220608p31)<!-- TECH:END -->
+ - [12 movies that inspired Stranger Things &lpar;and where to watch them&rpar;](https://www.androidauthority.com/movies-that-inspired-stranger-things-movies-like-stranger-things-netflix-3173870/)
+ - [eBay’s new vault facilitates digital trading of your non-fungible physical items](https://www.theverge.com/2022/6/8/23160015/ebay-vault-facility-trading-cards-assets-physical-collectibles-nft)
+ - [Google releases Android 13 Beta 3 for Pixel phones and says Android 13 has reached platform stability &lpar;Florence Ion/Gizmodo&rpar;](http://www.techmeme.com/220608/p32#a220608p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
