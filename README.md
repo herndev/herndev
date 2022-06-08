@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disinfo and Hate Speech Flood TikTok Ahead of Kenya’s Elections](https://www.wired.com/story/kenya-tiktok-election-disinformation-hate-speech)
- - [A coalition including Amazon, Google, and Uber urges the DHS to let kids of high-skilled visa holders stay in the US past the age of 21 without a green card &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220607/p35#a220607p35)
- - [How to scan a Spotify code](https://www.androidauthority.com/how-to-scan-spotify-code-3079616/)<!-- TECH:END -->
+ - [In a joint advisory, the NSA, CIA, and FBI detail how China-backed hackers have exploited common vulnerabilities to snoop on network traffic &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220607/p41#a220607p41)
+ - [Massachusetts-based Shields Health Care Group says hackers accessed its databases containing personal data like SSNs and medical info of 2M patients in March &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220607/p40#a220607p40)
+ - [Gantry, which aims to help developers find out how their AI models are performing and ways to improve them, emerges from stealth with a $28.3M seed and Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p39#a220607p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
