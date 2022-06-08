@@ -97,9 +97,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Not-E3 hasn&#39;t had any major leaks yet, and it&#39;s kind of weird](https://www.pcgamer.com/not-e3-hasnt-had-any-major-leaks-yet-and-its-kind-of-weird)
- - [Diablo Immortal is a game designed to exploit your love of Diablo](https://www.pcgamer.com/diablo-immortal-is-a-game-designed-to-exploit-your-love-of-diablo)
- - [Halo Infinite Finally Gets Co-Op Next Month, But As A Beta](https://kotaku.com/halo-infinite-campaign-co-op-network-beta-test-season-t-1849031399)<!-- GAME:END -->
+ - [Halo Infinite campaign co-op will get a public test in July](https://www.pcgamer.com/halo-infinite-campaign-co-op-will-get-a-public-test-in-july)
+ - [E3 Says It&#39;s Coming Back In 2023](https://kotaku.com/e3-2023-electronic-entertainment-expo-esa-la-in-person-1849031888)
+ - [Joker 2 confirmed by director Todd Phillips](https://www.polygon.com/23158937/joker-2-sequel-todd-phillips-joaquin-phoenix-folie-a-deux)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
