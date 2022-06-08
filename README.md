@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m sure Apple will screw this over](http://9gag.com/gag/aKmn1Gb)
- - ⏩ [Creed](http://9gag.com/gag/a31e5ze)
- - 👉 [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)<!-- MEMES:END -->
+ - 💣 [From Baguetteland with love](http://9gag.com/gag/awzP3nR)
+ - ⏩ [Is she asking men to stalk women until they give in?](http://9gag.com/gag/a71P8M2)
+ - 👉 [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)<!-- MEMES:END -->
 
 ---
 
