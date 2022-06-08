@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best gaming desk in 2022](https://www.pcgamer.com/best-gaming-desk)
- - [New Ghostbusters animated series coming to Netflix](https://www.polygon.com/23159707/ghostbusters-animated-series-announcement-netflix-sony)
- - [Netflix’s Hustle gives Adam Sandler the Jerry Maguire role he’s always needed](https://www.polygon.com/23158653/hustle-review-adam-sandler-netflix-basketball)<!-- GAME:END -->
+ - [Sci-fi game Stray delivers the ultimate fantasy: a cat who listens](https://www.polygon.com/23158701/stray-game-ps5-ps4-pc-impressions-gameplay-release-date)
+ - [The Human Toll Of Fallout 76’s Disastrous Launch](https://kotaku.com/bethesda-zenimax-fallout-76-crunch-development-1849033233)
+ - [Stray proves that everybody does want to be a cat, actually](https://www.pcgamer.com/stray-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
