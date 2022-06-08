@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What are Ms. Marvel’s powers?](https://www.polygon.com/23158018/ms-marvel-kamala-khan-powers-abilities-disney-plus-cinematic-universe)
- - [US Senators&#39; proposed crypto bill doesn&#39;t give a hoot about home mining rigs](https://www.pcgamer.com/us-senators-proposed-crypto-bill-doesnt-give-a-hoot-about-home-mining-rigs)
- - [The best indie games to play right now](https://www.pcgamer.com/best-indie-games)<!-- GAME:END -->
+ - [Black Adam’s first trailer shows The Rock’s reluctant superhero](https://www.polygon.com/23159559/black-adam-trailer-release-date-the-rock-dwayne-johnson)
+ - [Diablo Immortal Is Far Too Good To Be Free](https://kotaku.com/diablo-immortal-review-hands-on-vgchat-free-good-blizza-1849031009)
+ - [Vinland Saga season 2 will premiere early next year, new trailer reveals](https://www.polygon.com/23156452/vinland-saga-season-2-release-date-trailer-wit-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
