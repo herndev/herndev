@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Voughtland](http://9gag.com/gag/a11B0Wb)
- - ⏩ [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)
- - 👉 [Two years of WFH have made pants feel unnatural. Free the balls from the societal repression of pants.](http://9gag.com/gag/aWgPL9q)<!-- MEMES:END -->
+ - 💣 [The last one sent me](http://9gag.com/gag/awzP1VB)
+ - ⏩ [Basturds](http://9gag.com/gag/adgr1MN)
+ - 👉 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)<!-- MEMES:END -->
 
 ---
 
