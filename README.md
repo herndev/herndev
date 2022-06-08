@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 movies that inspired Stranger Things &lpar;and where to watch them&rpar;](https://www.androidauthority.com/movies-that-inspired-stranger-things-movies-like-stranger-things-netflix-3173870/)
- - [eBay’s new vault facilitates digital trading of your non-fungible physical items](https://www.theverge.com/2022/6/8/23160015/ebay-vault-facility-trading-cards-assets-physical-collectibles-nft)
- - [Google releases Android 13 Beta 3 for Pixel phones and says Android 13 has reached platform stability &lpar;Florence Ion/Gizmodo&rpar;](http://www.techmeme.com/220608/p32#a220608p32)<!-- TECH:END -->
+ - [Apple is financing all the lending for the Apple Pay Later service](https://appleinsider.com/articles/22/06/08/apple-is-financing-all-the-lending-for-the-apple-pay-later-service?utm_medium=rss)
+ - [Ethereum&#39;s proof-of-stake Merge upgrade goes live today on the Ropsten testnet, which allows for blockchain development testing before deployment on the mainnet &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/220608/p35#a220608p35)
+ - [NASA’s new powerful space telescope gets hit by larger than expected micrometeoroid](https://www.theverge.com/2022/6/8/23160209/nasa-james-webb-space-telescope-meteor-strike-impact)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
