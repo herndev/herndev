@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [The last one sent me](http://9gag.com/gag/awzP1VB)
- - ⏩ [Basturds](http://9gag.com/gag/adgr1MN)
- - 👉 [Does Snoop Dogg regrets his lyrics?](http://9gag.com/gag/ay9Z628)<!-- MEMES:END -->
+ - ⏩ [That&#39;s how a kid should be treated.](http://9gag.com/gag/a219wDe)
+ - 👉 [Someone is not very good at math.](http://9gag.com/gag/a11B5eR)<!-- MEMES:END -->
 
 ---
 
