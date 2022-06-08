@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5 stars on trustpilot](http://9gag.com/gag/a219wnp)
- - ⏩ [Creed](http://9gag.com/gag/a31e5ze)
- - 👉 [What about another extended edition?](http://9gag.com/gag/aKmnA8b)<!-- MEMES:END -->
+ - 💣 [The already did that](http://9gag.com/gag/aQXBgKe)
+ - ⏩ [Two years of WFH have made pants feel unnatural. Free the balls from the societal repression of pants.](http://9gag.com/gag/aWgPL9q)
+ - 👉 [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)<!-- MEMES:END -->
 
 ---
 
