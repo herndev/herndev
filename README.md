@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After leaving Amazon on July 1, Dave Clark will join supply chain software startup Flexport as co-CEO starting September 1, becoming sole CEO six months later &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220608/p20#a220608p20)
- - [Bluetooth SIG unveils Auracast, a way for you to share audio to many devices](https://www.androidauthority.com/bluetooth-sig-auracast-3173964/)
- - [How to install a Ring video doorbell](https://www.theverge.com/23157868/how-to-install-ring-video-doorbell-wired-wireless)<!-- TECH:END -->
+ - [GM offers more glimpses of the electric Cadillac Celestiq show car](https://www.theverge.com/2022/6/8/23159685/gm-cadillac-celestiq-ev-tease-image-release)
+ - [Apple’s tvOS looks destined for a slow year after little WWDC attention](https://www.theverge.com/2022/6/8/23156901/apple-tvos-16-ignored-wwdc-2022-minor-features)
+ - [PayPal gets its full New York BitLicense, and now lets users transfer crypto to external wallets](https://www.theverge.com/2022/6/8/23159519/paypal-crypto-transfers-new-york-bitlicense-bitcoin-ethereum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
