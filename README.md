@@ -100,9 +100,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [DIYer uses tiny screens to bring Lego terminals and human keyboards to life](https://www.pcgamer.com/diyer-uses-tiny-screens-to-bring-lego-terminals-and-human-keyboards-to-life)
  - [Taiwan further restricts the sale of modern chips to Russia and Belarus](https://www.pcgamer.com/taiwan-further-restricts-the-sale-of-modern-chips-to-russia-and-belarus)
- - [Halo Infinite campaign co-op will get a public test in July](https://www.pcgamer.com/halo-infinite-campaign-co-op-will-get-a-public-test-in-july)
- - [E3 Says It&#39;s Coming Back In 2023](https://kotaku.com/e3-2023-electronic-entertainment-expo-esa-la-in-person-1849031888)<!-- GAME:END -->
+ - [Halo Infinite campaign co-op will get a public test in July](https://www.pcgamer.com/halo-infinite-campaign-co-op-will-get-a-public-test-in-july)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
