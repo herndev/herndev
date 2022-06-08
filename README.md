@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good ol Middle East](http://9gag.com/gag/apgzNwD)
- - ⏩ [The personification of toxicity](http://9gag.com/gag/aE8ypXx)
- - 👉 [Today I fell](http://9gag.com/gag/aPZzZqn)<!-- MEMES:END -->
+ - 💣 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
+ - ⏩ [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)
+ - 👉 [The Apple doesnt fall far from the tree](http://9gag.com/gag/axBQ9wb)<!-- MEMES:END -->
 
 ---
 
