@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GM offers more glimpses of the electric Cadillac Celestiq show car](https://www.theverge.com/2022/6/8/23159685/gm-cadillac-celestiq-ev-tease-image-release)
- - [Apple’s tvOS looks destined for a slow year after little WWDC attention](https://www.theverge.com/2022/6/8/23156901/apple-tvos-16-ignored-wwdc-2022-minor-features)
- - [PayPal gets its full New York BitLicense, and now lets users transfer crypto to external wallets](https://www.theverge.com/2022/6/8/23159519/paypal-crypto-transfers-new-york-bitlicense-bitcoin-ethereum)<!-- TECH:END -->
+ - [Twitter begins testing Product Drops, letting brands tease items ahead of their sale, starting on iOS in the US with select partners &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220608/p24#a220608p24)
+ - [Poll: How much storage do you want in your TV box?](https://www.androidauthority.com/tv-box-storage-poll-3174234/)
+ - [Twitter is testing shopping reminders for upcoming product drops](https://www.theverge.com/2022/6/8/23158661/twitter-shopping-product-drops-reminders-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
