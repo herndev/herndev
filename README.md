@@ -114,9 +114,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This should have been used by the defense.](http://9gag.com/gag/a71PoQA)
- - ⏩ [Instant spark of joy](http://9gag.com/gag/aRr9BL2)
- - 👉 [She got promoted to partner position](http://9gag.com/gag/axBQyxM)<!-- MEMES:END -->
+ - 💣 [Instant spark of joy](http://9gag.com/gag/aRr9BL2)
+ - ⏩ [She got promoted to partner position](http://9gag.com/gag/axBQyxM)
+ - 👉 [I bet there is a lack of diversity for this job](http://9gag.com/gag/aqGByRj)<!-- MEMES:END -->
 
 ---
 
