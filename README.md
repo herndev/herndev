@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter begins testing Product Drops, letting brands tease items ahead of their sale, starting on iOS in the US with select partners &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220608/p24#a220608p24)
- - [Poll: How much storage do you want in your TV box?](https://www.androidauthority.com/tv-box-storage-poll-3174234/)
- - [Twitter is testing shopping reminders for upcoming product drops](https://www.theverge.com/2022/6/8/23158661/twitter-shopping-product-drops-reminders-test)<!-- TECH:END -->
+ - [Someone turned Insteon’s lights back on](https://www.theverge.com/2022/6/8/23159723/insteon-smart-home-servers-reportedly-online)
+ - [Twitter will give Elon Musk ‘firehose’ data access to settle bot complaints](https://www.theverge.com/2022/6/8/23159898/twitter-musk-firehose-bot-complaints-data-sec-deal)
+ - [Android 13 schedule: When will it launch?](https://www.androidauthority.com/android-13-schedule-3105528/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
