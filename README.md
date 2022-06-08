@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is financing all the lending for the Apple Pay Later service](https://appleinsider.com/articles/22/06/08/apple-is-financing-all-the-lending-for-the-apple-pay-later-service?utm_medium=rss)
- - [Ethereum&#39;s proof-of-stake Merge upgrade goes live today on the Ropsten testnet, which allows for blockchain development testing before deployment on the mainnet &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/220608/p35#a220608p35)
- - [NASA’s new powerful space telescope gets hit by larger than expected micrometeoroid](https://www.theverge.com/2022/6/8/23160209/nasa-james-webb-space-telescope-meteor-strike-impact)<!-- TECH:END -->
+ - [Meta&#39;s David Mortenson steps down as head of infrastructure; Santosh Janardhan, VP of engineering and infrastructure, will assume Mortenson&#39;s role later in June &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220608/p37#a220608p37)
+ - [Apple Wallet Updates: Apple Pay Later, Tap to Pay on iPhone and More     - CNET](https://www.cnet.com/tech/mobile/apple-wallet-updates-apple-pay-later-tap-to-pay-on-iphone-and-more/#ftag=CAD590a51e)
+ - [Kojima Productions asked a reporter to delete a leak about its new game](https://www.theverge.com/2022/6/8/23160240/kojima-productions-overdose-leak-margaret-qualley)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
