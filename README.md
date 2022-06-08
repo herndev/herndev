@@ -114,9 +114,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good job, EU](http://9gag.com/gag/axBQByp)
- - ⏩ [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)
- - 👉 [Grey wolf howls and gets response from the entire forest.](http://9gag.com/gag/aE8yqPx)<!-- MEMES:END -->
+ - 💣 [European Parliament to only allow USB C as universal charger for all mobile devices.](http://9gag.com/gag/a91ZqWW)
+ - ⏩ [This should have been used by the defense.](http://9gag.com/gag/a71PoQA)
+ - 👉 [Quentin Tarantino vibes](http://9gag.com/gag/a41mPXA)<!-- MEMES:END -->
 
 ---
 
