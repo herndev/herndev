@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bud Financial, which offers an open banking service that automates affordability checks, raises an $80M Series B, following a $20M Series A in February 2019 &lpar;City A.M.&rpar;](http://www.techmeme.com/220608/p11#a220608p11)
- - [Hands on with Stage Manager &amp; external monitors with iPadOS 16](https://appleinsider.com/articles/22/06/08/hands-on-with-stage-manager-external-monitors-with-ipados-16?utm_medium=rss)
- - [Daily Authority: 📺 Chromecast but cheaper?](https://www.androidauthority.com/daily-authority-june-8-2022-3174194/)<!-- TECH:END -->
+ - [Salesforce announces NFT Cloud, a service for buying and selling NFTs, available in a closed preview &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220608/p16#a220608p16)
+ - [The tangled truth about NFTs and copyright](https://www.theverge.com/23139793/nft-crypto-copyright-ownership-primer-cornell-ic3)
+ - [Stock advisor Delphia, which offers an algorithm-based service via its app, raises a $60M Series A led by Multicoin Capital and plans its Delphia Data token &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220608/p15#a220608p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
