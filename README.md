@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Creed](http://9gag.com/gag/a31e5ze)
- - ⏩ [Did you know that Apple is the only company who refused to use the standard world wide USB port and its been polluting the planet since 2004 with more plastic waste than any other company world wide.](http://9gag.com/gag/azeo5wb)
- - 👉 [Flirting 101](http://9gag.com/gag/a51vBmo)<!-- MEMES:END -->
+ - 💣 [Voughtland](http://9gag.com/gag/a11B0Wb)
+ - ⏩ [It&#39;s time to bring your best historical memes](http://9gag.com/gag/aegyONW)
+ - 👉 [Two years of WFH have made pants feel unnatural. Free the balls from the societal repression of pants.](http://9gag.com/gag/aWgPL9q)<!-- MEMES:END -->
 
 ---
 
