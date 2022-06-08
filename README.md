@@ -107,9 +107,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi Box 4S Max brings a big storage boost to TV boxes](https://www.androidauthority.com/xiaomi-mi-box-4s-max-3174085/)
- - [&#39;Ms. Marvel&#39; Episode 1 Recap: Cosmic Powers, Easter Eggs and Post-Credits     - CNET](https://www.cnet.com/culture/entertainment/ms-marvel-episode-1-recap-cosmic-powers-easter-eggs-and-post-credits/#ftag=CAD590a51e)
- - [Digital asset bank Custodia sues the Federal Reserve Board and the Federal Reserve Bank of Kansas City for &quot;unlawfully&quot; delaying its master account application &lpar;Michael del Castillo/Forbes&rpar;](http://www.techmeme.com/220608/p2#a220608p2)<!-- TECH:END -->
+ - [Tim Cook says return to office work plan is &#39;the mother of all experiments&#39;](https://appleinsider.com/articles/22/06/08/tim-cook-says-return-to-office-work-plan-is-the-mother-of-all-experiments?utm_medium=rss)
+ - [Microsoft plans to &quot;significantly scale down our operations in Russia&quot;, impacting 400+ staff, while continuing &quot;to fulfill our existing contractual obligations&quot; &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/220608/p7#a220608p7)
+ - [Grab plans to start selling its mapping data and map-making abilities to businesses, in an effort to become profitable &lpar;Shotaro Tani/Financial Times&rpar;](http://www.techmeme.com/220608/p6#a220608p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
