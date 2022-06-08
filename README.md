@@ -1,15 +1,13 @@
 <!-- <img width="100%" src="./img/banner.png" style="border-top-right-radius: 25px !important; border-top-left-radius: 25px !important" /> -->
-![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
 
 ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
 
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
 
-
 [![Views](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)
 [![Portfolio](https://img.shields.io/badge/Visit-My%20Portfolio-00aa71?style=for-the-badge)](https://hernie-jabien.com)
-
 
 <!-- <br />
 
@@ -19,7 +17,6 @@
 - ⚡ Fun fact: I'm friendly and highly approachable.
 
 <br /> -->
-
 
 ```
 #DEVELOPMENT #DESIGN
@@ -42,10 +39,14 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width=48% />
+
 <p>
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width=48% />
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=qavoimqmh9k7ne4br5vn6nqrr&unique=1&count=3" width=35% />
+ <img src="https://spotify-recently-played-readme.vercel.app/api?user=qavoimqmh9k7ne4br5vn6nqrr&unique=1&count=3" height=300 width=35% />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&cover_image=true&theme=novatorem&bar_color=00aa71&bar_color_cover=false" width=60% height=300 />
 </p>
+
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&cover_image=true&theme=novatorem&bar_color=00aa71&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true) -->
 
 <br />
  
@@ -100,23 +101,26 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taiwan further restricts the sale of modern chips to Russia and Belarus](https://www.pcgamer.com/taiwan-further-restricts-the-sale-of-modern-chips-to-russia-and-belarus)
- - [Halo Infinite campaign co-op will get a public test in July](https://www.pcgamer.com/halo-infinite-campaign-co-op-will-get-a-public-test-in-july)
- - [E3 Says It&#39;s Coming Back In 2023](https://kotaku.com/e3-2023-electronic-entertainment-expo-esa-la-in-person-1849031888)<!-- GAME:END -->
+
+- [Taiwan further restricts the sale of modern chips to Russia and Belarus](https://www.pcgamer.com/taiwan-further-restricts-the-sale-of-modern-chips-to-russia-and-belarus)
+- [Halo Infinite campaign co-op will get a public test in July](https://www.pcgamer.com/halo-infinite-campaign-co-op-will-get-a-public-test-in-july)
+- [E3 Says It&#39;s Coming Back In 2023](https://kotaku.com/e3-2023-electronic-entertainment-expo-esa-la-in-person-1849031888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a joint advisory, the NSA, CIA, and FBI detail how China-backed hackers have exploited common vulnerabilities to snoop on network traffic &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220607/p41#a220607p41)
- - [Massachusetts-based Shields Health Care Group says hackers accessed its databases containing personal data like SSNs and medical info of 2M patients in March &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220607/p40#a220607p40)
- - [Gantry, which aims to help developers find out how their AI models are performing and ways to improve them, emerges from stealth with a $28.3M seed and Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p39#a220607p39)<!-- TECH:END -->
+
+- [In a joint advisory, the NSA, CIA, and FBI detail how China-backed hackers have exploited common vulnerabilities to snoop on network traffic &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220607/p41#a220607p41)
+- [Massachusetts-based Shields Health Care Group says hackers accessed its databases containing personal data like SSNs and medical info of 2M patients in March &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220607/p40#a220607p40)
+- [Gantry, which aims to help developers find out how their AI models are performing and ways to improve them, emerges from stealth with a $28.3M seed and Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220607/p39#a220607p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
- - ⏩ [Enjoy the show](http://9gag.com/gag/a31eZr7)
- - 👉 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)<!-- MEMES:END -->
+
+- 💣 [Harmless PRENK](http://9gag.com/gag/aOQAxe3)
+- ⏩ [Enjoy the show](http://9gag.com/gag/a31eZr7)
+- 👉 [She was quite a good greenscreen on that peculiar day](http://9gag.com/gag/aLvV1Gv)<!-- MEMES:END -->
 
 ---
 
@@ -137,67 +141,68 @@ In Mobile App Development I usually work with Flutter framework.
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning    247 commits    ██████████░░░░░░░░░░░░░░░   40.36% 
-🌆 Daytime    173 commits    ███████░░░░░░░░░░░░░░░░░░   28.27% 
-🌃 Evening    151 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67% 
+🌞 Morning    247 commits    ██████████░░░░░░░░░░░░░░░   40.36%
+🌆 Daytime    173 commits    ███████░░░░░░░░░░░░░░░░░░   28.27%
+🌃 Evening    151 commits    ██████░░░░░░░░░░░░░░░░░░░   24.67%
 🌙 Night      41 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.7%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday       43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03% 
-Tuesday      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42% 
-Wednesday    161 commits    ██████░░░░░░░░░░░░░░░░░░░   26.31% 
-Thursday     34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
-Saturday     145 commits    ██████░░░░░░░░░░░░░░░░░░░   23.69% 
+Monday       43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.03%
+Tuesday      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.42%
+Wednesday    161 commits    ██████░░░░░░░░░░░░░░░░░░░   26.31%
+Thursday     34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Friday       89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54%
+Saturday     145 commits    ██████░░░░░░░░░░░░░░░░░░░   23.69%
 Sunday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Manila
 
-💬 Programming Languages: 
-JavaScript               10 hrs 51 mins      ████████████░░░░░░░░░░░░░   51.09% 
-Dart                     3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-HTML                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
-CSS                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+💬 Programming Languages:
+JavaScript               10 hrs 51 mins      ████████████░░░░░░░░░░░░░   51.09%
+Dart                     3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+HTML                     3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.35%
+CSS                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.15%
 Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.67%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  21 hrs 15 mins      █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Linux                    21 hrs 15 mins      █████████████████████████   100.0%
 
 ```
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/herndev/herndev/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/herndev/herndev/main/charts/bar_graph.png)
 
+Last Updated on 15/05/2022 02:03:30 UTC
 
- Last Updated on 15/05/2022 02:03:30 UTC
 <!--END_SECTION:waka-->
 
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#5](https://github.com/herndev/ReactJS-Portfolio/pull/5) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
 2. 🎉 Merged PR [#1](https://github.com/herndev/My-Agenda/pull/1) in [herndev/My-Agenda](https://github.com/herndev/My-Agenda)
 3. ❗️ Opened issue [#1727](https://github.com/marcizhu/marcizhu/issues/1727) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 4. ❌ Closed PR [#11](https://github.com/herndev/Emberspec-Portfolio/pull/11) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
 5. 💪 Opened PR [#11](https://github.com/herndev/Emberspec-Portfolio/pull/11) in [herndev/Emberspec-Portfolio](https://github.com/herndev/Emberspec-Portfolio)
 <!--END_SECTION:activity-->
- 
+
 ---
 
 </details>
