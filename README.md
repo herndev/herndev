@@ -41,9 +41,9 @@
 
 <p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width=48% />
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=qavoimqmh9k7ne4br5vn6nqrr&unique=1&count=3" width=35% />
+<!--  <img src="https://spotify-recently-played-readme.vercel.app/api?user=qavoimqmh9k7ne4br5vn6nqrr&unique=1&count=3" width=35% /> -->
 </p>
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true" />
+<!--   <img src="https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true" /> -->
   
 <!--   https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true -->
 
