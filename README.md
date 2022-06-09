@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime Expo Drops Attendee Vax Proof, Negative Covid Test Requirements](https://kotaku.com/anime-expo-covid-test-cosplay-spy-x-family-one-piece-ti-1849037303)
- - [Midnight Suns: Everything we know about the tactical Marvel RPG](https://www.pcgamer.com/midnight-suns-release-date-characters-gameplay)
- - [Saudi Arabia buys a $1B chunk of Embracer Group](https://www.pcgamer.com/saudi-arabia-buys-a-dollar1b-chunk-of-embracer-group)<!-- GAME:END -->
+ - [Report: Microsoft Kinect Creator Resigns After Being Accused Of Watching ‘VR Porn’ At Work](https://kotaku.com/microsoft-xbox-kinect-alex-kipman-resign-misconduct-abu-1849037624)
+ - [Little Witch in the Woods has a talking hat, but doesn&#39;t quite have that Stardew charm](https://www.pcgamer.com/little-witch-in-the-woods-has-a-talking-hat-but-doesnt-quite-have-that-stardew-charm)
+ - [Cyberpunk 2077&#39;s Netflix Anime Series Gets A Trailer, Looks Great](https://kotaku.com/cyberpunk-anime-netflix-edgerunners-studio-trigger-trai-1849037673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
