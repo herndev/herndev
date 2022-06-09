@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We used to talk like this](http://9gag.com/gag/aVx42x2)
- - ⏩ [England will Never forget that ...](http://9gag.com/gag/a31e2Q5)
- - 👉 [Has to be what goes through their minds.](http://9gag.com/gag/aOQA1wr)<!-- MEMES:END -->
+ - 💣 [Improvise, adapt, overcome](http://9gag.com/gag/a81Q2we)
+ - ⏩ [What times](http://9gag.com/gag/azeoZeN)
+ - 👉 [Man is the crown of creation.](http://9gag.com/gag/aogA8RA)<!-- MEMES:END -->
 
 ---
 
