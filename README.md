@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cDisney owes Johnny Depp a public apology for engaging in cancel culture and making a premature decision to remove him from Pirates before Justice was done.\u201d Matthew Santoro](http://9gag.com/gag/a81Qw8Y)
- - ⏩ [All that Childhood Memories](http://9gag.com/gag/a51vqRE)
+ - 💣 [Better call some backup](http://9gag.com/gag/aGz67p0)
+ - ⏩ [This is just.. hurtful](http://9gag.com/gag/a41mwWy)
  - 👉 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 ---
