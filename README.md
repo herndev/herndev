@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says Chrome 102 will use machine learning, running entirely within the browser, to silence unsolicited permission requests from websites &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220609/p30#a220609p30)
- - [Google Chrome’s on-device machine learning blocks notification requests and could adjust your browser buttons](https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences)
- - [Ross Young: Apple is developing a 14.1-inch iPad Pro with miniLEDs and ProMotion, likely for release in early 2023; recent rumors corroborate the new model &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220609/p29#a220609p29)<!-- TECH:END -->
+ - [Source: Meta decided to not release first version of its AR glasses, scheduled for 2024, to focus on their second version, with a release unlikely for years &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220609/p33#a220609p33)
+ - [The federal government’s Tesla Autopilot investigation is moving into a new phase](https://www.theverge.com/2022/6/9/23161365/tesla-autopilot-nhtsa-crash-investigation-emergency-vehicle)
+ - [NASA is putting together a research team to study UFOs](https://www.theverge.com/2022/6/9/23161241/nasa-unidentified-aerial-phenomena-uap-ufo-study-team)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
