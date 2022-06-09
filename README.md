@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warehouse robotics and automation company Symbotic raises $725M after going public via SPAC, valuing it at over $10B after shares jumped 120% to ~$20 &lpar;Financial Times&rpar;](http://www.techmeme.com/220609/p7#a220609p7)
- - [Amsterdam-based Backbase, which helps banks analyze data, raises &amp;euro;120M from Motive Partners at a &amp;euro;2.5B valuation and says it has 150 banking customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220609/p6#a220609p6)
- - [More DC fast charging, no app sign-ups under White House’s new EV charging rules](https://www.theverge.com/2022/6/9/23160493/biden-ev-charging-standards-electric-vehicle-buttigieg)<!-- TECH:END -->
+ - [Documents show how Cerebral used social media ads to grow its ADHD drug business, as federal prosecutors look into possible Controlled Substance Act violations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220609/p11#a220609p11)
+ - [Google Maps now helps you find fresh air](https://www.theverge.com/2022/6/9/23160948/google-maps-air-pollution-purpleair-wildfire-smoke-smog)
+ - [A Pandemic Tragedy on Brazil’s Lago Verde](https://www.wired.com/story/covid-19-brazil-indigenous-amazon-death)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
