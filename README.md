@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BrrrErrrr](http://9gag.com/gag/a31ey07)
- - ⏩ [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)
- - 👉 [Conjunction](http://9gag.com/gag/a41m52d)<!-- MEMES:END -->
+ - 💣 [Hitachi Zaxis 350 in action](http://9gag.com/gag/aAGq4Od)
+ - ⏩ [Conjunction](http://9gag.com/gag/a41m52d)
+ - 👉 [The plural of Octopus](http://9gag.com/gag/ang8veo)<!-- MEMES:END -->
 
 ---
 
