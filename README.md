@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s AirTag item trackers drop to their lowest price yet](https://www.theverge.com/good-deals/2022/6/9/23161704/apple-airtag-item-tracker-deal-sale)
- - [Frost Giant Studios’ Debut Mixes Starcraft With Diablo](https://www.wired.com/story/frost-giant-studios-stormgate-starcraft-diablo/)
- - [The first version of Meta’s AR glasses will be for developers only](https://www.theverge.com/2022/6/9/23161657/meta-to-not-sell-first-ar-glasses-cancel-camera-smartwatch)<!-- TECH:END -->
+ - [Apple TV+ officially announces new ten-episode mystery &#39;Sugar&#39;](https://appleinsider.com/articles/22/06/09/apple-tv-officially-announces-new-ten-episode-mystery-sugar?utm_medium=rss)
+ - [DocuSign reports Q1 revenue of $588.7M, up 25% YoY, vs. $581.8M est., and net loss of $27.4M, up from $8.4M in Q1 2021; stock drops ~20% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220609/p40#a220609p40)
+ - [The Last of Us Part I remake is coming to PS5 on September 2nd and PC someday](https://www.theverge.com/2022/6/9/23159914/sony-ps5-pc-the-last-of-us-part-one-remake-release-date-september-2nd)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
