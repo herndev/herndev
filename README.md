@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Is More Fun When You Stop Caring About Damage](https://kotaku.com/genshin-impact-hoyoverse-damage-numbers-youtube-meta-1849036681)
- - [With Darth Vader, less is more, according to the screenwriter of Obi-Wan Kenobi](https://www.polygon.com/star-wars/23159661/obi-wan-kenobi-screenwriter-darth-vader-disney-plus)
- - [Starfield is finally getting &#39;finishing touches&#39; and may actually release in 2023](https://www.pcgamer.com/starfield-is-finally-getting-finishing-touches-and-may-actually-release-in-2023)<!-- GAME:END -->
+ - [V Rising doesn&#39;t revolutionize survival games — but it has me excited for what’s next](https://www.polygon.com/reviews/23160234/v-rising-review-platforms-castle-vampire-survival)
+ - [How to watch Summer Game Fest](https://www.polygon.com/23159625/sgf-summer-game-fest-2022-start-time-cuphead-mw2-reveal)
+ - [The Decade-Long Struggle To Fund Oakland’s Scrappy Video Game Museum](https://kotaku.com/the-made-oakland-game-museum-funding-dolby-ea-ubisoft-g-1849030490)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
