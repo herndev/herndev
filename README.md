@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What timeline is this?](http://9gag.com/gag/abgKBx9)
- - ⏩ [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)
- - 👉 [A fish can climb a wall through water](http://9gag.com/gag/aYrZqYq)<!-- MEMES:END -->
+ - 💣 [Well Japan is Japan](http://9gag.com/gag/aZrojZ9)
+ - ⏩ [A fish can climb a wall through water](http://9gag.com/gag/aYrZqYq)
+ - 👉 [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)<!-- MEMES:END -->
 
 ---
 
