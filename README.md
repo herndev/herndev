@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saudi Arabia Buys $1 Billion Stake In Publisher That Owns Many Of Your Favorite Games](https://kotaku.com/embracer-group-saudi-arabia-tomb-raider-borderlands-sai-1849042472)
- - [Essential Guide to Boss Factory, the Free Saints Row Character Creator](https://news.xbox.com/en-us/2022/06/09/essential-guide-to-boss-factory-the-free-saints-row-character-creator/)
- - [Everything shown at Summer Game Fest’s Day of the Devs](https://www.polygon.com/23160020/summer-game-fest-day-of-the-devs-double-fine-iam8bit)<!-- GAME:END -->
+ - [David Harbour says World of Warcraft &#39;ruined my life&#39;](https://www.pcgamer.com/david-harbour-says-world-of-warcraft-ruined-my-life)
+ - [Genshin Impact&#39;s developer is making too many new gacha games, but they all look sick](https://www.pcgamer.com/genshin-impacts-developer-is-making-too-many-new-gacha-games-but-they-all-look-sick)
+ - [Why are there so many sci-fi horror games all of a sudden, anyway?](https://www.pcgamer.com/why-are-there-so-many-sci-fi-horror-games-all-of-a-sudden-anyway)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
