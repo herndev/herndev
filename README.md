@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you don’t use your watch less when wearing long sleeves](https://www.androidauthority.com/smartwatch-use-long-sleeves-poll-results-3174556/)
- - [Jaguar Land Rover Adds What3words Location Tech to New and Older Cars     - CNET](https://www.cnet.com/roadshow/news/jaguar-land-rover-adds-what3words-location-tech-to-new-and-older-cars/#ftag=CAD590a51e)
- - [TikTok Wants to Remind You to Take Breaks From the App     - CNET](https://www.cnet.com/news/social-media/tiktok-wants-to-remind-you-to-take-breaks-from-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Warehouse robotics and automation company Symbotic raises $725M after going public via SPAC, valuing it at over $10B after shares jumped 120% to ~$20 &lpar;Financial Times&rpar;](http://www.techmeme.com/220609/p7#a220609p7)
+ - [Amsterdam-based Backbase, which helps banks analyze data, raises &amp;euro;120M from Motive Partners at a &amp;euro;2.5B valuation and says it has 150 banking customers &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220609/p6#a220609p6)
+ - [More DC fast charging, no app sign-ups under White House’s new EV charging rules](https://www.theverge.com/2022/6/9/23160493/biden-ev-charging-standards-electric-vehicle-buttigieg)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
