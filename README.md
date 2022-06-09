@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Twist twist](http://9gag.com/gag/aQXB2Kq)
- - ⏩ [Benefits Of Video Games...!](http://9gag.com/gag/aYrZqvN)
- - 👉 [The strike papyrus from 1170 BCE describes how the workers of Ramses III went on strike because of a lack of payment. It&#39;s the earliest record of a labor strike in history](http://9gag.com/gag/a91ZOYL)<!-- MEMES:END -->
+ - ⏩ [Silo&#39;s being moved by boat, it looks like the bridge is moving](http://9gag.com/gag/arn92p6)
+ - 👉 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
 
 ---
 
