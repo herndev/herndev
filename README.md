@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ghost in the Shell: SAC_2045 is a dead end of an adaptation](https://www.polygon.com/reviews/23156242/ghost-in-the-shell-sac-2045-season-2-review)
- - [Where To Watch Summer Game Fest’s Big Opening Event](https://kotaku.com/summer-game-fest-2022-starfield-where-to-watch-what-to-1849024576)
- - [Junji Ito anime anthology Maniac coming to Netflix in 2023](https://www.polygon.com/23161393/netflix-junji-ito-maniac-announcement-2023)<!-- GAME:END -->
+ - [Aliens: Dark Descent is a top-down cooperative bug blaster, coming 2023](https://www.pcgamer.com/aliens-dark-descent-is-a-top-down-cooperative-bug-blaster-coming-2023)
+ - [Space is moist in the latest gameplay trailer for The Callisto Protocol](https://www.polygon.com/23161199/the-callisto-protocol-gameplay-trailer-summer-game-fest)
+ - [New Street Fighter 6 Trailer Shows Guile Punching Up Ryu](https://kotaku.com/street-fighter-6-guile-gameplay-trailer-summer-game-fes-1849041118)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
