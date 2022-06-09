@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Cloud Gaming is coming to Samsung smart TVs](https://www.androidauthority.com/xbox-cloud-gaming-samsung-3174707/)
- - [Apple developing 14.1-inch iPad Pro with M2 chip, two sources claim](https://appleinsider.com/articles/22/06/09/apple-developing-141-inch-ipad-pro-with-m2-chip-two-sources-claim?utm_medium=rss)
- - [How to watch Congress’ public January 6th hearings](https://www.theverge.com/2022/6/9/23160981/congresss-january-6th-hearings-watch-live-stream-date-start-time)<!-- TECH:END -->
+ - [Google says Chrome 102 will use machine learning, running entirely within the browser, to silence unsolicited permission requests from websites &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220609/p30#a220609p30)
+ - [Google Chrome’s on-device machine learning blocks notification requests and could adjust your browser buttons](https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences)
+ - [Ross Young: Apple is developing a 14.1-inch iPad Pro with miniLEDs and ProMotion, likely for release in early 2023; recent rumors corroborate the new model &lpar;Hartley Charlton/MacRumors&rpar;](http://www.techmeme.com/220609/p29#a220609p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
