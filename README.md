@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always hated the trampoline model of spacetime curvature](http://9gag.com/gag/a0ZznAB)
- - ⏩ [As fun as it gets](http://9gag.com/gag/adgrxwV)
- - 👉 [So talented!!!](http://9gag.com/gag/aLvVAvW)<!-- MEMES:END -->
+ - 💣 [My lovely Brazil](http://9gag.com/gag/aQXBAWK)
+ - ⏩ [So talented!!!](http://9gag.com/gag/aLvVAvW)
+ - 👉 [Let&#39;s fight then](http://9gag.com/gag/aOQA9xM)<!-- MEMES:END -->
 
 ---
 
