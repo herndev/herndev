@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 8: iPhone scratch &amp; dent sale, $200 off Sony water resistant speaker, 20% off Eero routers, more](https://appleinsider.com/articles/22/06/09/daily-deals-june-8-iphone-scratch-dent-sale-200-off-sony-water-resistant-speaker-20-off-eero-routers-more?utm_medium=rss)
- - [Zugu case review: a stylish iPad case with a few tricks up its sleeve](https://appleinsider.com/articles/22/06/09/zugu-case-review-a-stylish-ipad-case-with-a-few-tricks-up-its-sleeve?utm_medium=rss)
- - [Dell redesigns the $999 XPS 13 and XPS 13 2-in-1, transforming the 2-in-1 into a detachable Surface rival, adding Intel&#39;s 12th Gen CPUs, and more &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/220609/p22#a220609p22)<!-- TECH:END -->
+ - [The US has a new OnePlus 10 Pro that might make you regret buying the older one](https://www.androidauthority.com/oneplus-10-pro-us-3174362/)
+ - [The best new streaming movies this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [5 Gaming Laptops That Pwned the Competition](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
