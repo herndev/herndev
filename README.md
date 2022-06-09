@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [David Harbour says World of Warcraft &#39;ruined my life&#39;](https://www.pcgamer.com/david-harbour-says-world-of-warcraft-ruined-my-life)
- - [Genshin Impact&#39;s developer is making too many new gacha games, but they all look sick](https://www.pcgamer.com/genshin-impacts-developer-is-making-too-many-new-gacha-games-but-they-all-look-sick)
- - [Why are there so many sci-fi horror games all of a sudden, anyway?](https://www.pcgamer.com/why-are-there-so-many-sci-fi-horror-games-all-of-a-sudden-anyway)<!-- GAME:END -->
+ - [You&#39;re a skateboarding demon made of glass on a mission to swallow the moon](https://www.pcgamer.com/youre-a-skateboarding-demon-made-of-glass-on-a-mission-to-swallow-the-moon)
+ - [Once Again, A Quiet Indie Games Show Upstages A Bombastic ‘AAA’ Event](https://kotaku.com/day-of-the-devs-indie-animal-well-birth-goodbye-world-w-1849043017)
+ - [The Grammy Awards adds a dedicated videogame category](https://www.pcgamer.com/the-grammy-awards-adds-a-dedicated-videogame-category)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
