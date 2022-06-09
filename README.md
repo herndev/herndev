@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Improvise, adapt, overcome](http://9gag.com/gag/a81Q2we)
- - ⏩ [What times](http://9gag.com/gag/azeoZeN)
- - 👉 [Man is the crown of creation.](http://9gag.com/gag/aogA8RA)<!-- MEMES:END -->
+ - 💣 [Twist twist](http://9gag.com/gag/aQXB2Kq)
+ - ⏩ [Benefits Of Video Games...!](http://9gag.com/gag/aYrZqvN)
+ - 👉 [The strike papyrus from 1170 BCE describes how the workers of Ramses III went on strike because of a lack of payment. It&#39;s the earliest record of a labor strike in history](http://9gag.com/gag/a91ZOYL)<!-- MEMES:END -->
 
 ---
 
