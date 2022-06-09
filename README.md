@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2022 it been wild....](http://9gag.com/gag/aqGBYyM)
- - ⏩ [Holly Shit!!!](http://9gag.com/gag/a31enEv)
- - 👉 [Jaws. Only the first one was good, the others were trash.](http://9gag.com/gag/aKmnYq1)<!-- MEMES:END -->
+ - 💣 [Owner pretends to be drowning to see if his dog would save him](http://9gag.com/gag/axBQmYM)
+ - ⏩ [Me trying to fill my emptiness](http://9gag.com/gag/a0ZzwEX)
+ - 👉 [Stares motherf**kerly](http://9gag.com/gag/aGz6bpz)<!-- MEMES:END -->
 
 ---
 
