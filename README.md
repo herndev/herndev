@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA denies report that Battlefield 2042 development is winding down: &#39;We are committed to the future&#39;](https://www.pcgamer.com/ea-denies-battlefield-2042-development-is-winding-down-we-are-committed-to-the-future)
- - [How to watch today&#39;s Summer Game Fest](https://www.pcgamer.com/how-to-watch-todays-summer-game-fest)
- - [Today&#39;s Wordle answer #355: Thursday, June 9](https://www.pcgamer.com/todays-wordle-answer-355-thursday-june-9)<!-- GAME:END -->
+ - [Oops, Forza Horizon 5&#39;s first expansion has accidentally leaked](https://www.pcgamer.com/oops-forza-horizon-5s-first-expansion-has-accidentally-leaked)
+ - [Xbox is Building the Gaming Platform for the Next 20 Years](https://news.xbox.com/en-us/2022/06/09/whats-next-for-gaming/)
+ - [Xbox Gaming on Your Samsung Smart TV; No Console Required](https://news.xbox.com/en-us/2022/06/09/xbox-app-for-smart-tvs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
