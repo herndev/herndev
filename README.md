@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ officially announces new ten-episode mystery &#39;Sugar&#39;](https://appleinsider.com/articles/22/06/09/apple-tv-officially-announces-new-ten-episode-mystery-sugar?utm_medium=rss)
- - [DocuSign reports Q1 revenue of $588.7M, up 25% YoY, vs. $581.8M est., and net loss of $27.4M, up from $8.4M in Q1 2021; stock drops ~20% after hours &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220609/p40#a220609p40)
- - [The Last of Us Part I remake is coming to PS5 on September 2nd and PC someday](https://www.theverge.com/2022/6/9/23159914/sony-ps5-pc-the-last-of-us-part-one-remake-release-date-september-2nd)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Doctor Strange 2&#39; Global Review: &#39;Vaguely Disappointing&#39;     - CNET](https://www.cnet.com/culture/entertainment/marvels-doctor-strange-2-global-review-vaguely-disappointing/#ftag=CAD590a51e)
+ - [Call of Duty: Modern Warfare 2 is the Start of a New Era for CoD and Warzone     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-2-is-the-start-of-new-era-for-cod-and-warzone/#ftag=CAD590a51e)
+ - [AMD updates its Zen architecture roadmap, including Zen 4 improvements in 2022 and Zen 5 in 2024 with a mix of 4nm and 3nm processes and AI and ML optimizations &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p41#a220609p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
