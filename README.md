@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Terrifying spider-train horror game Choo-Choo Charles is coming to consoles too](https://www.polygon.com/23158808/choo-choo-charles-horror-train-thomas-the-tank-engine)
- - [Will the The Last of Us multiplayer game come to PC?](https://www.pcgamer.com/will-the-the-last-of-us-multiplayer-game-come-to-pc)
- - [Everything Shown At Summer Game Fest’s Big Kickoff Event](https://kotaku.com/summer-game-fest-2022-call-of-duty-mw2-the-last-of-us-r-1849041073)<!-- GAME:END -->
+ - [Saudi Arabia Buys $1 Billion Stake In Publisher That Owns Many Of Your Favorite Games](https://kotaku.com/embracer-group-saudi-arabia-tomb-raider-borderlands-sai-1849042472)
+ - [Essential Guide to Boss Factory, the Free Saints Row Character Creator](https://news.xbox.com/en-us/2022/06/09/essential-guide-to-boss-factory-the-free-saints-row-character-creator/)
+ - [Everything shown at Summer Game Fest’s Day of the Devs](https://www.polygon.com/23160020/summer-game-fest-day-of-the-devs-double-fine-iam8bit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
