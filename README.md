@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Conjunction](http://9gag.com/gag/a41m52d)
- - ⏩ [The plural of Octopus](http://9gag.com/gag/ang8veo)
- - 👉 [Someone is not very good at math.](http://9gag.com/gag/a11B5eR)<!-- MEMES:END -->
+ - 💣 [Always hated the trampoline model of spacetime curvature](http://9gag.com/gag/a0ZznAB)
+ - ⏩ [As fun as it gets](http://9gag.com/gag/adgrxwV)
+ - 👉 [So talented!!!](http://9gag.com/gag/aLvVAvW)<!-- MEMES:END -->
 
 ---
 
