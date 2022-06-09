@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vivaldi browser launches a free built-in email client that integrates its Calendar and Feed Reader](https://www.theverge.com/2022/6/9/23159860/vivaldi-browser-free-built-in-email-client-vivaldi-calendar-vivaldi-feed-reader-integrated)
- - [A look at China&#39;s plans for the IPv6+ internet protocol, set to be presented at the UN&#39;s ITU conference, in a bid to lure regions lagging in IPv6 adoption &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/220609/p4#a220609p4)
- - [Here’s when the new Galaxy foldables, Galaxy Watch 5 series might launch](https://www.androidauthority.com/galaxy-z-flip-fold-4-watch-5-launch-date-3174056/)<!-- TECH:END -->
+ - [You told us: Most of you don’t use your watch less when wearing long sleeves](https://www.androidauthority.com/smartwatch-use-long-sleeves-poll-results-3174556/)
+ - [Jaguar Land Rover Adds What3words Location Tech to New and Older Cars     - CNET](https://www.cnet.com/roadshow/news/jaguar-land-rover-adds-what3words-location-tech-to-new-and-older-cars/#ftag=CAD590a51e)
+ - [TikTok Wants to Remind You to Take Breaks From the App     - CNET](https://www.cnet.com/news/social-media/tiktok-wants-to-remind-you-to-take-breaks-from-the-app/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
