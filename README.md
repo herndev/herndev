@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [V Rising doesn&#39;t revolutionize survival games — but it has me excited for what’s next](https://www.polygon.com/reviews/23160234/v-rising-review-platforms-castle-vampire-survival)
- - [How to watch Summer Game Fest](https://www.polygon.com/23159625/sgf-summer-game-fest-2022-start-time-cuphead-mw2-reveal)
- - [The Decade-Long Struggle To Fund Oakland’s Scrappy Video Game Museum](https://kotaku.com/the-made-oakland-game-museum-funding-dolby-ea-ubisoft-g-1849030490)<!-- GAME:END -->
+ - [Ms. Marvel’s directors say episode 1’s biggest action sequence wasn’t in the script](https://www.polygon.com/23160356/ms-marvel-directors-interview-avengercon)
+ - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
+ - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
