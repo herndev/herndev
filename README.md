@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ms. Marvel’s directors say episode 1’s biggest action sequence wasn’t in the script](https://www.polygon.com/23160356/ms-marvel-directors-interview-avengercon)
- - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)
- - [Pistol Whip’s new Contracts feature drags players out of retirement June 16](https://blog.playstation.com/2022/06/09/pistol-whips-new-contracts-feature-drags-players-out-of-retirement-june-16/)<!-- GAME:END -->
+ - [The Last of Us PS5 remake launching this September](https://www.polygon.com/23132765/the-last-of-us-ps5-remake-release-date-pc)
+ - [The Last of Us remake is coming to PC](https://www.pcgamer.com/the-last-of-us-remake-is-coming-to-pc)
+ - [The Last of Us Part 2 on PC: all the rumors in one place](https://www.pcgamer.com/the-last-of-us-part-2-pc-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
