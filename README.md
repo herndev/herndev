@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goat Simulator 3 will bring chaos this year, adding multiplayer](https://www.polygon.com/23161574/goat-simulator-3-announcement-trailer-reveal)
- - [Sci-fi horror game Routine gets a new trailer, nearly a decade after it was announced](https://www.polygon.com/gaming/23161642/routine-trailer-sci-fi-horror-re-reveal-game-pass)
- - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)<!-- GAME:END -->
+ - [Terrifying spider-train horror game Choo-Choo Charles is coming to consoles too](https://www.polygon.com/23158808/choo-choo-charles-horror-train-thomas-the-tank-engine)
+ - [Will the The Last of Us multiplayer game come to PC?](https://www.pcgamer.com/will-the-the-last-of-us-multiplayer-game-come-to-pc)
+ - [Everything Shown At Summer Game Fest’s Big Kickoff Event](https://kotaku.com/summer-game-fest-2022-call-of-duty-mw2-the-last-of-us-r-1849041073)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
