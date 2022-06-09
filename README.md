@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well Japan is Japan](http://9gag.com/gag/aZrojZ9)
- - ⏩ [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)
- - 👉 [What timeline is this?](http://9gag.com/gag/abgKBx9)<!-- MEMES:END -->
+ - 💣 [Football players when they reached the pitch after the dive](http://9gag.com/gag/aVx42md)
+ - ⏩ [Fire burning inside a tree after it was struck by lightning](http://9gag.com/gag/ay9ZROy)
+ - 👉 [Adultood, V. 2.2](http://9gag.com/gag/aXrQWnb)<!-- MEMES:END -->
 
 ---
 
