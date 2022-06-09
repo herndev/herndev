@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change the alert sounds on your iPhone](https://www.theverge.com/23160418/iphone-ios-change-alarm-notification-alert-sounds-how-to)
- - [Source: the SEC is investigating whether the marketing of the TerraUSD stablecoin before it crashed in May violated federal investor-protection regulations &lpar;Matt Robinson/Bloomberg&rpar;](http://www.techmeme.com/220609/p34#a220609p34)
- - [Report: Facebook smartwatch no one wants has been put on hold, thankfully](https://www.androidauthority.com/facebook-smartwatch-halted-3174758/)<!-- TECH:END -->
+ - [Apple retail workers in New York switch unions](https://www.theverge.com/2022/6/9/23161526/apple-retail-workers-switch-unions-communications-workers-america)
+ - [New Prime Video Sci-Fi Series &#39;Paper Girls&#39; Confirms July Release Date     - CNET](https://www.cnet.com/culture/entertainment/new-prime-video-sci-fi-series-paper-girls-confirms-july-release-date/#ftag=CAD590a51e)
+ - [How to cancel YouTube Premium](https://www.androidauthority.com/cancel-youtube-premium-3174428/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
