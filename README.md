@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Intel freezes all hiring in its client computing group, which is responsible for desktop and laptop chips, amid other cost-cutting measures &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220608/p43#a220608p43)
- - [South Korean crypto exchanges Bithumb and Upbit plan to delist Litecoin, saying the token&#39;s new privacy features violate the country&#39;s anti-money laundering law &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/220608/p42#a220608p42)
- - [How to change playlist names on Spotify](https://www.androidauthority.com/change-playlist-name-spotify-3081864/)<!-- TECH:END -->
+ - [GitHub is sunsetting Atom, the text editor for developers it launched in 2011, and will archive all projects under the Atom organization on December 15, 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p45#a220608p45)
+ - [Blood Flow Restriction Training Gets You Stronger Without the Heavy Weights     - CNET](https://www.cnet.com/health/fitness/blood-flow-restriction-training-gets-you-stronger-without-the-heavy-weights/#ftag=CAD590a51e)
+ - [Sweden-based Juni, a neobank catering to e-commerce and online marketing companies, raises a $206M Series B, $100M in equity led by Mubadala and $106M in debt &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220608/p44#a220608p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
