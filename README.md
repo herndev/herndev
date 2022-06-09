@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Source: Meta has halted development of a smartwatch with dual cameras, which was in development for two years, and is instead working on other wrist devices &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220609/p1#a220609p1)
  - [Amazon drops Apple&#39;s Mac mini to just $569.99](https://appleinsider.com/articles/22/06/09/amazon-drops-apples-mac-mini-to-just-56999?utm_medium=rss)
- - [London-based Codat, whose universal API for SMB data is used by SaaS, lending, and payments companies, raises a $100M Series C at an ~$825M valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220608/p46#a220608p46)
- - [GitHub is sunsetting Atom, the text editor for developers it launched in 2011, and will archive all projects under the Atom organization on December 15, 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p45#a220608p45)<!-- TECH:END -->
+ - [London-based Codat, whose universal API for SMB data is used by SaaS, lending, and payments companies, raises a $100M Series C at an ~$825M valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220608/p46#a220608p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
