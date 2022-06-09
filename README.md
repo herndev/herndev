@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA denies report that Battlefield 2042 development is winding down: &#39;We are committed to the future&#39;](https://www.pcgamer.com/ea-denies-battlefield-2042-development-is-winding-down-we-are-committed-to-the-future)
  - [How to watch today&#39;s Summer Game Fest](https://www.pcgamer.com/how-to-watch-todays-summer-game-fest)
- - [Today&#39;s Wordle answer #355: Thursday, June 9](https://www.pcgamer.com/todays-wordle-answer-355-thursday-june-9)
- - [Report: Microsoft Kinect Creator Resigns After Being Accused Of Watching ‘VR Porn’ At Work](https://kotaku.com/microsoft-xbox-kinect-alex-kipman-resign-misconduct-abu-1849037624)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #355: Thursday, June 9](https://www.pcgamer.com/todays-wordle-answer-355-thursday-june-9)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
