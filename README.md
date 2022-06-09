@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Block data: weekly NFT sales declined by just over 70% from a high of nearly 1M units in the third week of 2022 to 250K+ at the end of May &lpar;Alex Wilhelm/TechCrunch&rpar;](http://www.techmeme.com/220608/p38#a220608p38)
- - [Apple’s kind of a bank now](https://www.theverge.com/2022/6/8/23160400/apple-kind-of-bank-now-pay-later-bnpl-financial-services)
- - [Meta&#39;s David Mortenson steps down as head of infrastructure; Santosh Janardhan, VP of engineering and infrastructure, will assume Mortenson&#39;s role later in June &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220608/p37#a220608p37)<!-- TECH:END -->
+ - [Internal memo: Intel freezes all hiring in its client computing group, which is responsible for desktop and laptop chips, amid other cost-cutting measures &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220608/p43#a220608p43)
+ - [South Korean crypto exchanges Bithumb and Upbit plan to delist Litecoin, saying the token&#39;s new privacy features violate the country&#39;s anti-money laundering law &lpar;Andr&amp;eacute; Beganski/Decrypt&rpar;](http://www.techmeme.com/220608/p42#a220608p42)
+ - [How to change playlist names on Spotify](https://www.androidauthority.com/change-playlist-name-spotify-3081864/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
