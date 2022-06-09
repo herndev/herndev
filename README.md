@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub is sunsetting Atom, the text editor for developers it launched in 2011, and will archive all projects under the Atom organization on December 15, 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p45#a220608p45)
- - [Blood Flow Restriction Training Gets You Stronger Without the Heavy Weights     - CNET](https://www.cnet.com/health/fitness/blood-flow-restriction-training-gets-you-stronger-without-the-heavy-weights/#ftag=CAD590a51e)
- - [Sweden-based Juni, a neobank catering to e-commerce and online marketing companies, raises a $206M Series B, $100M in equity led by Mubadala and $106M in debt &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220608/p44#a220608p44)<!-- TECH:END -->
+ - [Amazon drops Apple&#39;s Mac mini to just $569.99](https://appleinsider.com/articles/22/06/09/amazon-drops-apples-mac-mini-to-just-56999?utm_medium=rss)
+ - [London-based Codat, whose universal API for SMB data is used by SaaS, lending, and payments companies, raises a $100M Series C at an ~$825M valuation &lpar;Gillian Tan/Bloomberg&rpar;](http://www.techmeme.com/220608/p46#a220608p46)
+ - [GitHub is sunsetting Atom, the text editor for developers it launched in 2011, and will archive all projects under the Atom organization on December 15, 2022 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220608/p45#a220608p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
