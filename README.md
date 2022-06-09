@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when the new Galaxy foldables, Galaxy Watch 5 series might launch](https://www.androidauthority.com/galaxy-z-flip-fold-4-watch-5-launch-date-3174056/)
- - [Ex-Bethesda and parent ZeniMax Media employees detail the human toll of Fallout 76&#39;s launch, including QA testers being surveilled and developers falling ill &lpar;Sisi Jiang/Kotaku&rpar;](http://www.techmeme.com/220609/p3#a220609p3)
- - [Researcher says over 120K passports, drivers licenses, and IDs of users of Chinese bike-sharing service Mobike was not encrypted and exposed online &lpar;TechCrunch&rpar;](http://www.techmeme.com/220609/p2#a220609p2)<!-- TECH:END -->
+ - [The Vivaldi browser launches a free built-in email client that integrates its Calendar and Feed Reader](https://www.theverge.com/2022/6/9/23159860/vivaldi-browser-free-built-in-email-client-vivaldi-calendar-vivaldi-feed-reader-integrated)
+ - [A look at China&#39;s plans for the IPv6+ internet protocol, set to be presented at the UN&#39;s ITU conference, in a bid to lure regions lagging in IPv6 adoption &lpar;Luca Bertuzzi/Euractiv&rpar;](http://www.techmeme.com/220609/p4#a220609p4)
+ - [Here’s when the new Galaxy foldables, Galaxy Watch 5 series might launch](https://www.androidauthority.com/galaxy-z-flip-fold-4-watch-5-launch-date-3174056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
