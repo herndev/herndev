@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s &#39;Doctor Strange 2&#39; Global Review: &#39;Vaguely Disappointing&#39;     - CNET](https://www.cnet.com/culture/entertainment/marvels-doctor-strange-2-global-review-vaguely-disappointing/#ftag=CAD590a51e)
- - [Call of Duty: Modern Warfare 2 is the Start of a New Era for CoD and Warzone     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-modern-warfare-2-is-the-start-of-new-era-for-cod-and-warzone/#ftag=CAD590a51e)
- - [AMD updates its Zen architecture roadmap, including Zen 4 improvements in 2022 and Zen 5 in 2024 with a mix of 4nm and 3nm processes and AI and ML optimizations &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p41#a220609p41)<!-- TECH:END -->
+ - [Windows 11 rolls out a test build with tabs in File Explorer](https://www.theverge.com/2022/6/9/23161942/microsoft-windows-11-insiders-file-explorer-tabs-widgets-notepad-media-player)
+ - [How to copy a playlist on Spotify](https://www.androidauthority.com/how-to-copy-playlist-spotify-3084058/)
+ - [Summer Game Fest’s Biggest Announcement Was a Remake](https://www.wired.com/story/summer-game-fest-last-of-us/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
