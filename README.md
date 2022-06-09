@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 Nissan Altima Gets More Tech and a Bigger Grille     - CNET](https://www.cnet.com/roadshow/news/2023-nissan-altima-debut/#ftag=CAD590a51e)
- - [2023 Nissan Altima Has an Updated Face     - CNET](https://www.cnet.com/roadshow/pictures/2023-nissan-altima/#ftag=CAD590a51e)
- - [For All Mankind Is the Best Sci-Fi of Its Era](https://www.wired.com/story/for-all-mankind-best-sci-fi-show)<!-- TECH:END -->
+ - [Apple issues rare AirPods developer beta firmware](https://appleinsider.com/articles/22/06/09/apple-issues-rare-developer-beta-software-for-airpods?utm_medium=rss)
+ - [The freelance artist behind a million-dollar NFT collection](https://www.theverge.com/23151540/pudgy-penguins-artist-antoine-mingo-nft-cole-thereum)
+ - [Hands-on with Xbox TV for Samsung&#39;s 2022 TVs: games load quickly and work with Xbox and PS5 controllers, a high-speed connection is essential, and more &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/220609/p18#a220609p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
