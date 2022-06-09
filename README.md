@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [What timeline is this?](http://9gag.com/gag/abgKBx9)
  - ⏩ [Well, happy birthday...i guess?](http://9gag.com/gag/axBQR1Y)
- - 👉 [Man stops to rescue kitten, gets ambushed by platoon](http://9gag.com/gag/adgrnMD)<!-- MEMES:END -->
+ - 👉 [A fish can climb a wall through water](http://9gag.com/gag/aYrZqYq)<!-- MEMES:END -->
 
 ---
 
