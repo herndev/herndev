@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Meta decided to not release first version of its AR glasses, scheduled for 2024, to focus on their second version, with a release unlikely for years &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220609/p33#a220609p33)
- - [The federal government’s Tesla Autopilot investigation is moving into a new phase](https://www.theverge.com/2022/6/9/23161365/tesla-autopilot-nhtsa-crash-investigation-emergency-vehicle)
- - [NASA is putting together a research team to study UFOs](https://www.theverge.com/2022/6/9/23161241/nasa-unidentified-aerial-phenomena-uap-ufo-study-team)<!-- TECH:END -->
+ - [How to change the alert sounds on your iPhone](https://www.theverge.com/23160418/iphone-ios-change-alarm-notification-alert-sounds-how-to)
+ - [Source: the SEC is investigating whether the marketing of the TerraUSD stablecoin before it crashed in May violated federal investor-protection regulations &lpar;Matt Robinson/Bloomberg&rpar;](http://www.techmeme.com/220609/p34#a220609p34)
+ - [Report: Facebook smartwatch no one wants has been put on hold, thankfully](https://www.androidauthority.com/facebook-smartwatch-halted-3174758/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
