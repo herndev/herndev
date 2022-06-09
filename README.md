@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US has a new OnePlus 10 Pro that might make you regret buying the older one](https://www.androidauthority.com/oneplus-10-pro-us-3174362/)
- - [The best new streaming movies this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [5 Gaming Laptops That Pwned the Competition](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [Xbox Cloud Gaming is coming to Samsung smart TVs](https://www.androidauthority.com/xbox-cloud-gaming-samsung-3174707/)
+ - [Apple developing 14.1-inch iPad Pro with M2 chip, two sources claim](https://appleinsider.com/articles/22/06/09/apple-developing-141-inch-ipad-pro-with-m2-chip-two-sources-claim?utm_medium=rss)
+ - [How to watch Congress’ public January 6th hearings](https://www.theverge.com/2022/6/9/23160981/congresss-january-6th-hearings-watch-live-stream-date-start-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
