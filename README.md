@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Football players when they reached the pitch after the dive](http://9gag.com/gag/aVx42md)
- - ⏩ [Fire burning inside a tree after it was struck by lightning](http://9gag.com/gag/ay9ZROy)
- - 👉 [Adultood, V. 2.2](http://9gag.com/gag/aXrQWnb)<!-- MEMES:END -->
+ - 💣 [We used to talk like this](http://9gag.com/gag/aVx42x2)
+ - ⏩ [England will Never forget that ...](http://9gag.com/gag/a31e2Q5)
+ - 👉 [Has to be what goes through their minds.](http://9gag.com/gag/aOQA1wr)<!-- MEMES:END -->
 
 ---
 
