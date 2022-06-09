@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues rare AirPods developer beta firmware](https://appleinsider.com/articles/22/06/09/apple-issues-rare-developer-beta-software-for-airpods?utm_medium=rss)
- - [The freelance artist behind a million-dollar NFT collection](https://www.theverge.com/23151540/pudgy-penguins-artist-antoine-mingo-nft-cole-thereum)
- - [Hands-on with Xbox TV for Samsung&#39;s 2022 TVs: games load quickly and work with Xbox and PS5 controllers, a high-speed connection is essential, and more &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/220609/p18#a220609p18)<!-- TECH:END -->
+ - [Daily deals June 8: iPhone scratch &amp; dent sale, $200 off Sony water resistant speaker, 20% off Eero routers, more](https://appleinsider.com/articles/22/06/09/daily-deals-june-8-iphone-scratch-dent-sale-200-off-sony-water-resistant-speaker-20-off-eero-routers-more?utm_medium=rss)
+ - [Zugu case review: a stylish iPad case with a few tricks up its sleeve](https://appleinsider.com/articles/22/06/09/zugu-case-review-a-stylish-ipad-case-with-a-few-tricks-up-its-sleeve?utm_medium=rss)
+ - [Dell redesigns the $999 XPS 13 and XPS 13 2-in-1, transforming the 2-in-1 into a detachable Surface rival, adding Intel&#39;s 12th Gen CPUs, and more &lpar;Devindra Hardawar/Engadget&rpar;](http://www.techmeme.com/220609/p22#a220609p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
