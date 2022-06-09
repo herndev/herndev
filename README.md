@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aliens: Dark Descent is a top-down cooperative bug blaster, coming 2023](https://www.pcgamer.com/aliens-dark-descent-is-a-top-down-cooperative-bug-blaster-coming-2023)
- - [Space is moist in the latest gameplay trailer for The Callisto Protocol](https://www.polygon.com/23161199/the-callisto-protocol-gameplay-trailer-summer-game-fest)
- - [New Street Fighter 6 Trailer Shows Guile Punching Up Ryu](https://kotaku.com/street-fighter-6-guile-gameplay-trailer-summer-game-fes-1849041118)<!-- GAME:END -->
+ - [Goat Simulator 3 will bring chaos this year, adding multiplayer](https://www.polygon.com/23161574/goat-simulator-3-announcement-trailer-reveal)
+ - [Sci-fi horror game Routine gets a new trailer, nearly a decade after it was announced](https://www.polygon.com/gaming/23161642/routine-trailer-sci-fi-horror-re-reveal-game-pass)
+ - [Reimagining iconic heroes for Marvel’s Midnight Suns, out October 7](https://blog.playstation.com/2022/06/09/reimagining-iconic-heroes-for-marvels-midnight-suns-out-october-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
