@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’m Going To Play The Heck Out Of Mario Strikers: Battle League](https://kotaku.com/mario-strikers-battle-league-review-nintendo-switch-mul-1849047762)
- - [The Best &lpar;And Weirdest&rpar; Creations People Have Made Using Saints Row Boss Factory](https://kotaku.com/saints-row-5-demo-boss-factory-character-creations-joke-1849047486)
- - [Build pretend PCs for free in the PC Building Simulator 2 open beta](https://www.pcgamer.com/build-pretend-pcs-for-free-in-the-pc-building-simulator-2-open-beta)<!-- GAME:END -->
+ - [Sorry, But Hollywood Is Making A Duke Nukem Movie](https://kotaku.com/duke-nukem-film-movie-gearbox-cobra-kai-game-adaptation-1849047814)
+ - [A Duke Nukem movie is coming from the makers of Cobra Kai](https://www.pcgamer.com/a-duke-nukem-movie-is-coming-from-the-makers-of-cobra-kai)
+ - [Everything Everywhere All At Once, No Time to Die, and more new movies you can watch at home this weekend](https://www.polygon.com/23155425/new-movies-watch-everything-everywhere-all-at-once-netflix-hustle-no-time-to-die-vod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
