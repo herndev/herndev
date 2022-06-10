@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: May 2022’s top downloads](https://blog.playstation.com/2022/06/10/playstation-store-may-2022s-top-downloads/)
- - [PlayStation Store: May 2022’s top downloads](https://blog.playstation.com/2022/06/10/playstation-store-may-2022s-top-downloads/)
- - [Let&#39;s All Exploit The Exploitative Games](https://kotaku.com/diablo-immortal-genshin-impact-free-to-play-mobile-gami-1849036627)<!-- GAME:END -->
+ - [God of War Ragnarok will still come out this year, report says](https://www.polygon.com/23162598/god-of-war-ragnarok-release-month-bloomberg-report)
+ - [An Insider’s Guide for the First Hours of Playing Unexplored 2](https://news.xbox.com/en-us/2022/06/10/an-insiders-guide-for-the-first-hours-of-playing-unexplored-2/)
+ - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
