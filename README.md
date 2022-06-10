@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 rolls out a test build with tabs in File Explorer](https://www.theverge.com/2022/6/9/23161942/microsoft-windows-11-insiders-file-explorer-tabs-widgets-notepad-media-player)
- - [How to copy a playlist on Spotify](https://www.androidauthority.com/how-to-copy-playlist-spotify-3084058/)
- - [Summer Game Fest’s Biggest Announcement Was a Remake](https://www.wired.com/story/summer-game-fest-last-of-us/)<!-- TECH:END -->
+ - [AMD&#39;s upcoming RDNA 3 GPU architecture will use a chiplet design and target a 50%+ performance-per-watt uplift versus RDNA 2; the first chips are coming in 2022 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p43#a220609p43)
+ - [How to clear your Amazon browsing history](https://www.androidauthority.com/clear-amazon-search-history-3174867/)
+ - [Jack Dorsey and Jay-Z launch The Bitcoin Academy, giving free financial education classes on Bitcoin at the Brooklyn public housing complex where Jay-Z grew up &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220609/p42#a220609p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
