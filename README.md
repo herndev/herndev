@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OnePlus 10T rumors surface again: No Snapdragon processor?](https://www.androidauthority.com/oneplus-10t-specs-3174965/)
  - [iOS 16: Every Major New Feature You Should Know About     - CNET](https://www.cnet.com/tech/mobile/ios-16-every-major-new-feature-you-should-know-about/#ftag=CAD590a51e)
- - [iOS 16: Every Apple Maps Improvement Coming to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-every-apple-maps-improvement-coming-phone/#ftag=CAD590a51e)
- - [Jurassic World Dominion: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 16: Every Apple Maps Improvement Coming to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-every-apple-maps-improvement-coming-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
