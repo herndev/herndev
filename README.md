@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After delivery startup Gorillas raised $1B in October, sources say it is drastically cutting costs, reducing staff benefits, and considering closing warehouses &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/220610/p7#a220610p7)
- - [UK antitrust agency will investigate Apple &amp; Google over gaming and mobile browsers](https://appleinsider.com/articles/22/06/10/uk-antitrust-agency-will-investigate-apple-google-over-gaming-and-mobile-browsers?utm_medium=rss)
- - [Source: Meta will distribute the first version of its AR glasses, codenamed Orion, exclusively to developers, helping them build software for future devices &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220610/p5#a220610p5)<!-- TECH:END -->
+ - [The graffiti economics behind Williamsburg’s wall of NFTs](https://www.theverge.com/23152315/williamsburg-nft-graffiti-grand-roebling-bayc-cryptopunk)
+ - [Firefox and Chrome are squaring off over ad-blocker extensions](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
+ - [Apple&#39;s Safety Check Is Built to Prevent &#39;Terrifying&#39; Consequences     - CNET](https://www.cnet.com/tech/mobile/apples-safety-check-is-built-to-prevent-terrifying-consequences/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
