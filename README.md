@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;PacMan&#39; flaw in Apple Silicon is an echo of Spectre and Meltdown](https://appleinsider.com/articles/22/06/10/new-pacman-flaw-in-apple-silicon-is-an-echo-of-spectre-and-meltdown?utm_medium=rss)
- - [Vergecast WWDC: iOS 16, new M2 processor, macOS Ventura, and more](https://www.theverge.com/23162491/vergecast-podcast-500-wwdc-2022-ios16-macos-ventura-m2)
- - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)<!-- TECH:END -->
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
+ - [The Dune Miniseries Is a Fascinating Piece of History](https://www.wired.com/2022/06/geeks-guide-dune-miniseries/)
+ - [Apple TV+ renews musical comedy &#39;Schmigadoon!&#39; for second season](https://appleinsider.com/articles/22/06/10/apple-tv-renews-musical-comedy-schmigadoon-for-second-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
