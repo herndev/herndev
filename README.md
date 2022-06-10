@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Old Guard 2 gets 2 more action stars in Uma Thurman, Henry Golding](https://www.polygon.com/23162764/the-old-guard-2-cast-uma-thurman-henry-golding-charlize-theron-release-date)
- - [A Dragon Age anime series is coming to Netflix in December](https://www.pcgamer.com/dragon-age-absolution-netflix-announced)
- - [Share of the Week: Deathloop – Photo Mode](https://blog.playstation.com/2022/06/10/share-of-the-week-deathloop-photo-mode/)<!-- GAME:END -->
+ - [Castlevania returns to Netflix with new animated series, Nocturne](https://www.polygon.com/23162911/castlevania-nocturne-netflix-animated-series)
+ - [Downwell creator releases new game Poinpy on Netflix](https://www.polygon.com/23162887/poinpy-free-game-netflix-mobile-downwell)
+ - [Dota: Dragon’s Blood’s third season debuts in August](https://www.polygon.com/23162901/dota-dragons-blood-season-3-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
