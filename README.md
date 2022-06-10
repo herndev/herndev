@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hakuna matata\u2026](http://9gag.com/gag/a11BqDD)
- - ⏩ [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)
- - 👉 [Governments be like](http://9gag.com/gag/a41mxXy)<!-- MEMES:END -->
+ - 💣 [Governments be like](http://9gag.com/gag/a41mxXy)
+ - ⏩ [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
+ - 👉 [Travel](http://9gag.com/gag/aXrQQvg)<!-- MEMES:END -->
 
 ---
 
