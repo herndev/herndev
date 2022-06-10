@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I’m Going To Play The Heck Out Of Mario Strikers: Battle League](https://kotaku.com/mario-strikers-battle-league-review-nintendo-switch-mul-1849047762)
  - [The Best &lpar;And Weirdest&rpar; Creations People Have Made Using Saints Row Boss Factory](https://kotaku.com/saints-row-5-demo-boss-factory-character-creations-joke-1849047486)
- - [Our national nightmare is over: Seth Green&#39;s kidnapped Bored Ape NFT has returned home](https://www.pcgamer.com/our-national-nightmare-is-over-seth-greens-kidnapped-bored-ape-nft-has-returned-home)
- - [Netflix Reveals First Look At New Castlevania Series Starring Richter Belmont](https://kotaku.com/castlevania-nocturne-spin-off-richter-belmont-trevor-sy-1849047581)<!-- GAME:END -->
+ - [Build pretend PCs for free in the PC Building Simulator 2 open beta](https://www.pcgamer.com/build-pretend-pcs-for-free-in-the-pc-building-simulator-2-open-beta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
