@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Anacrusis Celebrates Launch of Mod Support with 50% off Sale This Weekend](https://news.xbox.com/en-us/2022/06/10/the-anacrusis-celebrates-launch-of-mod-support-with-50-off-sale-this-weekend/)
- - [Thirsty Suitors early gameplay shows off bright visuals and dynamic dance battles](https://www.polygon.com/23158624/thirsty-suitors-preview-annapurna)
- - [Outriders’ Worldslayer expansion introduces a new type of endgame content](https://www.polygon.com/23161821/outriders-worldslayer-expansion-trial-of-tarya-gratar-dungeon-endgame)<!-- GAME:END -->
+ - [Wow! Netflix made the game from The Queen’s Gambit](https://www.polygon.com/23162888/the-queens-gambit-chess-game-netflix)
+ - [New Dragon Age Anime Suffers From Typical Netflix Blandness](https://kotaku.com/dragon-age-absolution-netflix-tevinter-anime-1849047054)
+ - [The Anacrusis Celebrates Launch of Mod Support with 50% off Sale This Weekend](https://news.xbox.com/en-us/2022/06/10/the-anacrusis-celebrates-launch-of-mod-support-with-50-off-sale-this-weekend/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
