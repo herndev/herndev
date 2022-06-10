@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2 Hopefuls Get Played By Goat Simulator 3 Parody Trailer](https://kotaku.com/goat-simulator-3-dead-island-2-trailer-troll-summer-gam-1849045817)
- - [The Quarry: How Interactive Narrative Games Brings out the Best in Horror](https://news.xbox.com/en-us/2022/06/10/the-quarry-how-interactive-narrative-games-brings-out-the-best-in-horror/)
- - [Udder Mayhem Awaits in Goat Simulator 3 This Fall](https://news.xbox.com/en-us/2022/06/10/udder-mayhem-awaits-in-goat-simulator-3-this-fall/)<!-- GAME:END -->
+ - [The Old Guard 2 gets 2 more action stars in Uma Thurman, Henry Golding](https://www.polygon.com/23162764/the-old-guard-2-cast-uma-thurman-henry-golding-charlize-theron-release-date)
+ - [A Dragon Age anime series is coming to Netflix in December](https://www.pcgamer.com/dragon-age-absolution-netflix-announced)
+ - [Share of the Week: Deathloop – Photo Mode](https://blog.playstation.com/2022/06/10/share-of-the-week-deathloop-photo-mode/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
