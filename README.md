@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rapping without saying the n word once &lpar;1993&rpar;](http://9gag.com/gag/a91Z4BW)
- - ⏩ [Billions of dollars, and this](http://9gag.com/gag/a81QQmY)
- - 👉 [Roman road construction](http://9gag.com/gag/aDDrqX9)<!-- MEMES:END -->
+ - 💣 [Roman road construction](http://9gag.com/gag/aDDrqX9)
+ - ⏩ [Must be so proud of me](http://9gag.com/gag/aNP8Gjb)
+ - 👉 [Point](http://9gag.com/gag/aRr9GGG)<!-- MEMES:END -->
 
 ---
 
