@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Castlevania returns to Netflix with new animated series, Nocturne](https://www.polygon.com/23162911/castlevania-nocturne-netflix-animated-series)
- - [Downwell creator releases new game Poinpy on Netflix](https://www.polygon.com/23162887/poinpy-free-game-netflix-mobile-downwell)
- - [Dota: Dragon’s Blood’s third season debuts in August](https://www.polygon.com/23162901/dota-dragons-blood-season-3-release-date)<!-- GAME:END -->
+ - [The Anacrusis Celebrates Launch of Mod Support with 50% off Sale This Weekend](https://news.xbox.com/en-us/2022/06/10/the-anacrusis-celebrates-launch-of-mod-support-with-50-off-sale-this-weekend/)
+ - [Thirsty Suitors early gameplay shows off bright visuals and dynamic dance battles](https://www.polygon.com/23158624/thirsty-suitors-preview-annapurna)
+ - [Outriders’ Worldslayer expansion introduces a new type of endgame content](https://www.polygon.com/23161821/outriders-worldslayer-expansion-trial-of-tarya-gratar-dungeon-endgame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
