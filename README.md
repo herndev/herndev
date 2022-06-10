@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo, listen up, here&#39;s a story...](http://9gag.com/gag/aLvVNe6)
- - ⏩ [Can you name them all?](http://9gag.com/gag/aOQANG3)
- - 👉 [Hakuna matata\u2026](http://9gag.com/gag/a11BqDD)<!-- MEMES:END -->
+ - 💣 [Hakuna matata\u2026](http://9gag.com/gag/a11BqDD)
+ - ⏩ [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)
+ - 👉 [Governments be like](http://9gag.com/gag/a41mxXy)<!-- MEMES:END -->
 
 ---
 
