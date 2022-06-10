@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anagenex, which combines AI and large-scale proprietary datasets for drug discovery, has raised a $30M Series A led by Catalio Capital Management &lpar;Arundhati Parmar/MedCity News&rpar;](http://www.techmeme.com/220609/p46#a220609p46)
- - [&#39;Stranger Things 4&#39; Uncanny Valley: Who Plays Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-who-plays-young-eleven/#ftag=CAD590a51e)
- - [Grape-Killing Bug Likely to Terrorize California&#39;s Beloved Wine Country     - CNET](https://www.cnet.com/science/biology/grape-killing-bug-likely-to-terrorize-californias-beloved-wine-country/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 16: Every Major New Feature You Should Know About     - CNET](https://www.cnet.com/tech/mobile/ios-16-every-major-new-feature-you-should-know-about/#ftag=CAD590a51e)
+ - [iOS 16: Every Apple Maps Improvement Coming to Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-every-apple-maps-improvement-coming-phone/#ftag=CAD590a51e)
+ - [Jurassic World Dominion: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
