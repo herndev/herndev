@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)
- - [The Dune Miniseries Is a Fascinating Piece of History](https://www.wired.com/2022/06/geeks-guide-dune-miniseries/)
- - [Apple TV+ renews musical comedy &#39;Schmigadoon!&#39; for second season](https://appleinsider.com/articles/22/06/10/apple-tv-renews-musical-comedy-schmigadoon-for-second-season?utm_medium=rss)<!-- TECH:END -->
+ - [These little satellites could bring big advances to tropical storm forecasts](https://www.theverge.com/2022/6/10/23162485/nasa-satellites-launch-advances-tropical-storm-hurricane-forecasts)
+ - [Tim Cook voices support for federal privacy proposal in letter to lawmakers](https://appleinsider.com/articles/22/06/10/tim-cook-voices-support-for-federal-privacy-proposal-in-letter-to-lawmakers?utm_medium=rss)
+ - [Meta is adding social hangouts to the Quest’s VR home space](https://www.theverge.com/2022/6/10/23162750/meta-quest-vr-headset-horizon-home-social-hangouts-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
