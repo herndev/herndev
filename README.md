@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brompton recalls folding e-bikes over risk of front wheel lockup](https://www.theverge.com/2022/6/10/23162313/brompton-e-bike-recall-mudguard-lockup)
- - [Sources: &quot;AI transformer&quot; startups Inflection, Cohere, Adept, and Anthropic, which collectively raised $1B+, recently poached dozens of scientists from Big Tech &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220610/p2#a220610p2)
- - [Facebook is killing Portal and that’s okay](https://www.androidauthority.com/facebook-portal-discontinued-3175013/)<!-- TECH:END -->
+ - [The UK&#39;s CMA plans a market investigation into Apple&#39;s App Store restrictions on cloud gaming alongside Apple and Google&#39;s market power in mobile browsers &lpar;GOV.UK&rpar;](http://www.techmeme.com/220610/p3#a220610p3)
+ - [Glasgow Apple Store staff join union, ask Apple to recognize it](https://appleinsider.com/articles/22/06/10/glasgow-apple-store-staff-join-union-ask-apple-to-recognize-it?utm_medium=rss)
+ - [Jay-Z and Jack Dorsey criticized for launching ‘Bitcoin Academy’ in rapper’s childhood home](https://www.theverge.com/2022/6/10/23162314/jay-z-jack-dorsey-bitcoin-academy-brooklyn-free-classes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
