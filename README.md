@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Governments be like](http://9gag.com/gag/a41mxXy)
- - ⏩ [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
- - 👉 [Travel](http://9gag.com/gag/aXrQQvg)<!-- MEMES:END -->
+ - 💣 [The obstacles haven\u2019t reacted yet](http://9gag.com/gag/aYrZZ7m)
+ - ⏩ [Can you name them all?](http://9gag.com/gag/aOQANG3)
+ - 👉 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)<!-- MEMES:END -->
 
 ---
 
