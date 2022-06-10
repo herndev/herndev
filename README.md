@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Peaky Blinders makes its final season a punishment](https://www.polygon.com/reviews/23161382/peaky-blinders-season-6-review)
- - [You can now speedrun Genshin Impact&#39;s massive wiki](https://www.pcgamer.com/you-can-now-speedrun-genshin-impacts-massive-wiki)
- - [AMD RDNA 3 GPUs sport next-gen ports for true 4K gaming at 240Hz](https://www.pcgamer.com/amd-rdna-3-gpus-sport-next-gen-ports-for-true-4k-gaming-at-240hz)<!-- GAME:END -->
+ - [PlayStation Store: May 2022’s top downloads](https://blog.playstation.com/2022/06/10/playstation-store-may-2022s-top-downloads/)
+ - [PlayStation Store: May 2022’s top downloads](https://blog.playstation.com/2022/06/10/playstation-store-may-2022s-top-downloads/)
+ - [Let&#39;s All Exploit The Exploitative Games](https://kotaku.com/diablo-immortal-genshin-impact-free-to-play-mobile-gami-1849036627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
