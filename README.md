@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The graffiti economics behind Williamsburg’s wall of NFTs](https://www.theverge.com/23152315/williamsburg-nft-graffiti-grand-roebling-bayc-cryptopunk)
- - [Firefox and Chrome are squaring off over ad-blocker extensions](https://www.theverge.com/2022/6/10/23131029/mozilla-ad-blocking-firefox-google-chrome-privacy-manifest-v3-web-request)
- - [Apple&#39;s Safety Check Is Built to Prevent &#39;Terrifying&#39; Consequences     - CNET](https://www.cnet.com/tech/mobile/apples-safety-check-is-built-to-prevent-terrifying-consequences/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals June 10: AirTag 4-pack for $89, $169 32GB Apple TV 4K, up to 16% off 4TB WD NAS, more](https://appleinsider.com/articles/22/06/10/daily-deals-june-10-airtag-4-pack-for-89-169-32gb-apple-tv-4k-up-to-16-off-4tb-wd-nas-more?utm_medium=rss)
+ - [In a staff memo, Activision Blizzard CEO says it is opening collective bargaining negotiations with workers at Raven Software who recently voted to join a union &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/220610/p10#a220610p10)
+ - [AT&amp;T Is Working on 20-Gigabit Fiber to Homes, Could Launch Next Year     - CNET](https://www.cnet.com/news/at-t-is-working-on-20-gigabit-fiber-to-homes-could-launch-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
