@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 10: AirTag 4-pack for $89, $169 32GB Apple TV 4K, up to 16% off 4TB WD NAS, more](https://appleinsider.com/articles/22/06/10/daily-deals-june-10-airtag-4-pack-for-89-169-32gb-apple-tv-4k-up-to-16-off-4tb-wd-nas-more?utm_medium=rss)
- - [In a staff memo, Activision Blizzard CEO says it is opening collective bargaining negotiations with workers at Raven Software who recently voted to join a union &lpar;Hope King/Axios&rpar;](http://www.techmeme.com/220610/p10#a220610p10)
- - [AT&amp;T Is Working on 20-Gigabit Fiber to Homes, Could Launch Next Year     - CNET](https://www.cnet.com/news/at-t-is-working-on-20-gigabit-fiber-to-homes-could-launch-next-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reach Easy With the 12 Best Messenger and Crossbody Bags](https://www.wired.com/gallery/best-messenger-bags/)
+ - [How DALL-E could power a creative revolution](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution)
+ - [An in-depth look at the mechanics behind Axie Infinity and the ramifications of the ~$620M hack on players and the game, as Sky Mavis plots its next steps &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/220610/p11#a220610p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
