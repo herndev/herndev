@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These little satellites could bring big advances to tropical storm forecasts](https://www.theverge.com/2022/6/10/23162485/nasa-satellites-launch-advances-tropical-storm-hurricane-forecasts)
- - [Tim Cook voices support for federal privacy proposal in letter to lawmakers](https://appleinsider.com/articles/22/06/10/tim-cook-voices-support-for-federal-privacy-proposal-in-letter-to-lawmakers?utm_medium=rss)
- - [Meta is adding social hangouts to the Quest’s VR home space](https://www.theverge.com/2022/6/10/23162750/meta-quest-vr-headset-horizon-home-social-hangouts-launch)<!-- TECH:END -->
+ - [Jack Dorsey&#39;s Bitcoin-focused venture TBD unveils plans to build a &quot;Web 5&quot; platform focused on decentralized identity and data storage for applications &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220610/p16#a220610p16)
+ - [Everything the rumor mill got right -- and wrong -- about the M2 MacBook Air](https://appleinsider.com/articles/22/06/10/everything-the-rumor-mill-got-right----and-wrong----about-the-m2-macbook-air?utm_medium=rss)
+ - [Tech antitrust is facing its biggest challenge yet in the Senate](https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
