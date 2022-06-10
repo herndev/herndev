@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leap of fail](http://9gag.com/gag/aAGqNqR)
- - ⏩ [Billions of dollars, and this](http://9gag.com/gag/a81QQmY)
- - 👉 [4 modes of transportation in 1 picture](http://9gag.com/gag/a41mrA1)<!-- MEMES:END -->
+ - 💣 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
+ - ⏩ [We gonna die](http://9gag.com/gag/aWgPPoA)
+ - 👉 [And the people who enjoyed](http://9gag.com/gag/avA44dq)<!-- MEMES:END -->
 
 ---
 
