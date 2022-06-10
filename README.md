@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s CMA plans a market investigation into Apple&#39;s App Store restrictions on cloud gaming alongside Apple and Google&#39;s market power in mobile browsers &lpar;GOV.UK&rpar;](http://www.techmeme.com/220610/p3#a220610p3)
- - [Glasgow Apple Store staff join union, ask Apple to recognize it](https://appleinsider.com/articles/22/06/10/glasgow-apple-store-staff-join-union-ask-apple-to-recognize-it?utm_medium=rss)
- - [Jay-Z and Jack Dorsey criticized for launching ‘Bitcoin Academy’ in rapper’s childhood home](https://www.theverge.com/2022/6/10/23162314/jay-z-jack-dorsey-bitcoin-academy-brooklyn-free-classes)<!-- TECH:END -->
+ - [After delivery startup Gorillas raised $1B in October, sources say it is drastically cutting costs, reducing staff benefits, and considering closing warehouses &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/220610/p7#a220610p7)
+ - [UK antitrust agency will investigate Apple &amp; Google over gaming and mobile browsers](https://appleinsider.com/articles/22/06/10/uk-antitrust-agency-will-investigate-apple-google-over-gaming-and-mobile-browsers?utm_medium=rss)
+ - [Source: Meta will distribute the first version of its AR glasses, codenamed Orion, exclusively to developers, helping them build software for future devices &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220610/p5#a220610p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
