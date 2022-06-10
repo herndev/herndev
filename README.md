@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lottery](http://9gag.com/gag/aqGBdPZ)
- - ⏩ [Please, after you.](http://9gag.com/gag/a614xRA)
- - 👉 [Phat](http://9gag.com/gag/apgz8Z8)<!-- MEMES:END -->
+ - 💣 [Please, after you.](http://9gag.com/gag/a614xRA)
+ - ⏩ [Above 30](http://9gag.com/gag/a6148Em)
+ - 👉 [Still the most impressive way to light the Olympic flame](http://9gag.com/gag/a0ZzWev)<!-- MEMES:END -->
 
 ---
 
