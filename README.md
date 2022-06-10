@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: Everything new with CarPlay in iOS 16](https://appleinsider.com/articles/22/06/10/hands-on-everything-new-with-carplay-in-ios-16?utm_medium=rss)
- - [The Tricky Business of Elon Musk Getting Twitter Fire-Hose Access](https://www.wired.com/story/elon-musk-twitter-firehose/)
- - [Telegram Premium is happening: Here’s what we know so far](https://www.androidauthority.com/telegram-premium-plan-3175408/)<!-- TECH:END -->
+ - [Daniel Ek says Spotify&#39;s upcoming audiobooks vertical will adopt the freemium model; Spotify&#39;s acquisition of audiobook distributor Findaway is under DOJ review &lpar;Ariel Shapiro/The Verge&rpar;](http://www.techmeme.com/220610/p17#a220610p17)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [Rumor: OnePlus could be phasing out the alert slider for most of its phones](https://www.androidauthority.com/oneplus-alert-slider-3175416/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
