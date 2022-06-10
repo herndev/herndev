@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s First Kill is a YA romance worth sinking your teeth into](https://www.polygon.com/reviews/23161988/netflix-first-kill-review)
- - [Redux &#39;Good&#39; tier PC](https://www.pcgamer.com/redux-good-tier-pc)
- - [MSI Radeon RX 6750 XT Gaming X Trio](https://www.pcgamer.com/msi-radeon-rx-6750-xt-gaming-x-trio)<!-- GAME:END -->
+ - [Square Enix promises &#39;short but sweet&#39; update on Final Fantasy 7 next week](https://www.pcgamer.com/square-enix-promises-short-but-sweet-update-on-final-fantasy-7-next-week)
+ - [Best gaming keyboards in 2022](https://www.pcgamer.com/best-gaming-keyboard)
+ - [Netflix’s First Kill is a YA romance worth sinking your teeth into](https://www.polygon.com/reviews/23161988/netflix-first-kill-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
