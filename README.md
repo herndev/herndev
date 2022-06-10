@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD&#39;s upcoming RDNA 3 GPU architecture will use a chiplet design and target a 50%+ performance-per-watt uplift versus RDNA 2; the first chips are coming in 2022 &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220609/p43#a220609p43)
- - [How to clear your Amazon browsing history](https://www.androidauthority.com/clear-amazon-search-history-3174867/)
- - [Jack Dorsey and Jay-Z launch The Bitcoin Academy, giving free financial education classes on Bitcoin at the Brooklyn public housing complex where Jay-Z grew up &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220609/p42#a220609p42)<!-- TECH:END -->
+ - [Anagenex, which combines AI and large-scale proprietary datasets for drug discovery, has raised a $30M Series A led by Catalio Capital Management &lpar;Arundhati Parmar/MedCity News&rpar;](http://www.techmeme.com/220609/p46#a220609p46)
+ - [&#39;Stranger Things 4&#39; Uncanny Valley: Who Plays Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-who-plays-young-eleven/#ftag=CAD590a51e)
+ - [Grape-Killing Bug Likely to Terrorize California&#39;s Beloved Wine Country     - CNET](https://www.cnet.com/science/biology/grape-killing-bug-likely-to-terrorize-californias-beloved-wine-country/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
