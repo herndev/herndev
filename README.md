@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adjusts Dutch App Store rules for dating apps to comply with regulators](https://appleinsider.com/articles/22/06/10/apple-adjusts-dutch-app-store-rules-for-dating-apps-to-comply-with-regulators?utm_medium=rss)
- - [Android 13 beta 3.1 drops out of nowhere to fix one significant problem](https://www.androidauthority.com/android-13-beta-3-1-3175494/)
- - [Stadia just made it a lot easier to play the Resident Evil Village demo](https://www.theverge.com/2022/6/10/23163089/capcom-resident-evil-village-demo-browser-google-stadia)<!-- TECH:END -->
+ - [Tesla Forges Ahead With a 3-for-1 Stock Split     - CNET](https://www.cnet.com/roadshow/news/tesla-forges-ahead-with-a-3-for-1-stock-split/#ftag=CAD590a51e)
+ - [Apple Watch Series 7 vs. Series 6: The Biggest Differences     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-7-vs-series-6-comparing-apples-smartwatches/#ftag=CAD590a51e)
+ - [iOS 16: The Best New Features Coming To Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-the-best-new-features-coming-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
