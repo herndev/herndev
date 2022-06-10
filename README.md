@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Videogame Atlas Is A Love Letter To Game Levels &amp; Architecture](https://kotaku.com/video-game-maps-architecture-levels-book-fortnite-dark-1849032060)
  - [AMD teases its next gen chiplet-based RDNA 3 architecture](https://www.pcgamer.com/amd-teases-its-next-gen-chiplet-based-rdna-3-architecture)
- - [AMD provides new Zen 4 details and touts a greater than 25% performance-per-watt gain](https://www.pcgamer.com/amd-provides-new-zen-4-details-and-touts-a-greater-than-25-performance-per-watt-gain)
- - [Metro 2033&#39;s Author Has Been Added To Russian &#39;Wanted&#39; List](https://kotaku.com/metro-2033-dmitry-glukhovsky-russia-war-putin-author-wa-1849043761)<!-- GAME:END -->
+ - [AMD provides new Zen 4 details and touts a greater than 25% performance-per-watt gain](https://www.pcgamer.com/amd-provides-new-zen-4-details-and-touts-a-greater-than-25-performance-per-watt-gain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
