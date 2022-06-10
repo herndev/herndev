@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reach Easy With the 12 Best Messenger and Crossbody Bags](https://www.wired.com/gallery/best-messenger-bags/)
- - [How DALL-E could power a creative revolution](https://www.theverge.com/23162454/openai-dall-e-image-generation-tool-creative-revolution)
- - [An in-depth look at the mechanics behind Axie Infinity and the ramifications of the ~$620M hack on players and the game, as Sky Mavis plots its next steps &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/220610/p11#a220610p11)<!-- TECH:END -->
+ - [New &#39;PacMan&#39; flaw in Apple Silicon is an echo of Spectre and Meltdown](https://appleinsider.com/articles/22/06/10/new-pacman-flaw-in-apple-silicon-is-an-echo-of-spectre-and-meltdown?utm_medium=rss)
+ - [Vergecast WWDC: iOS 16, new M2 processor, macOS Ventura, and more](https://www.theverge.com/23162491/vergecast-podcast-500-wwdc-2022-ios16-macos-ventura-m2)
+ - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
