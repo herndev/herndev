@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ikea announces record player that might actually make it to stores this time](https://www.theverge.com/2022/6/10/23162302/ikea-obergransad-record-player-swedish-house-mafia-news-features)
- - [Latest Samsung Galaxy Z Flip 3 update brings Galaxy S22 camera features](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [Samsung owns up to mistake after using iPhone photos in promotion](https://www.androidauthority.com/samsung-iphone-promotion-mistake-3174990/)<!-- TECH:END -->
+ - [Brompton recalls folding e-bikes over risk of front wheel lockup](https://www.theverge.com/2022/6/10/23162313/brompton-e-bike-recall-mudguard-lockup)
+ - [Sources: &quot;AI transformer&quot; startups Inflection, Cohere, Adept, and Anthropic, which collectively raised $1B+, recently poached dozens of scientists from Big Tech &lpar;Sam Shead/CNBC&rpar;](http://www.techmeme.com/220610/p2#a220610p2)
+ - [Facebook is killing Portal and that’s okay](https://www.androidauthority.com/facebook-portal-discontinued-3175013/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
