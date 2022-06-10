@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You&#39;re a skateboarding demon made of glass on a mission to swallow the moon](https://www.pcgamer.com/youre-a-skateboarding-demon-made-of-glass-on-a-mission-to-swallow-the-moon)
- - [Once Again, A Quiet Indie Games Show Upstages A Bombastic ‘AAA’ Event](https://kotaku.com/day-of-the-devs-indie-animal-well-birth-goodbye-world-w-1849043017)
- - [The Grammy Awards adds a dedicated videogame category](https://www.pcgamer.com/the-grammy-awards-adds-a-dedicated-videogame-category)<!-- GAME:END -->
+ - [Dude Spends $6000 On Diablo Immortal, Gets No 5-Star Legendary Gems](https://kotaku.com/diablo-immortal-gems-legendary-spend-economy-loot-box-b-1849043437)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [Every game at not-E3 2022](https://www.pcgamer.com/every-game-e3-2022-summer-game-fest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
