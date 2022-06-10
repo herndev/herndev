@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rapping without saying the n word once &lpar;1993&rpar;](http://9gag.com/gag/a91Z4BW)
- - ⏩ [Must be so proud of me](http://9gag.com/gag/aNP8Gjb)
- - 👉 [Just recently I thought I&#39;d end up a wizard. I guess not, unfortunately.](http://9gag.com/gag/abgKoLO)<!-- MEMES:END -->
+ - 💣 [Bismuth has a much lower melting point than many other types of metals and forms iridescent square crystals when it solidifies oxidation adds colour, the shade is determined by the level of oxygen it\u2019s exposed to as it cools down.](http://9gag.com/gag/awzPj7D)
+ - ⏩ [Just recently I thought I&#39;d end up a wizard. I guess not, unfortunately.](http://9gag.com/gag/abgKoLO)
+ - 👉 [The Argentine government banned the use of inclusive language in primary schools.](http://9gag.com/gag/a41mB2p)<!-- MEMES:END -->
 
 ---
 
