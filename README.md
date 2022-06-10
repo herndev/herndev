@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Are trans activists delusional or what](http://9gag.com/gag/a51vy4O)
- - ⏩ [We gonna die](http://9gag.com/gag/aWgPPoA)
- - 👉 [And the people who enjoyed](http://9gag.com/gag/avA44dq)<!-- MEMES:END -->
+ - ⏩ [The obstacles haven\u2019t reacted yet](http://9gag.com/gag/aYrZZ7m)
+ - 👉 [Well, when karma gets it right](http://9gag.com/gag/aRr9Ndj)<!-- MEMES:END -->
 
 ---
 
