@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indian credit card payment service Cred raises $80M as part of a planned $140M Series F, at a $6.2B valuation, up from its $4B valuation in Oct 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220610/p1#a220610p1)
- - [Latest Samsung Galaxy S22 series update focuses on camera improvements](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [OnePlus 10T rumors surface again: No Snapdragon processor?](https://www.androidauthority.com/oneplus-10t-specs-3174965/)<!-- TECH:END -->
+ - [Samsung owns up to mistake after using iPhone photos in promotion](https://www.androidauthority.com/samsung-iphone-promotion-mistake-3174990/)
+ - [HTC’s metaverse smartphone finally has a reveal date](https://www.androidauthority.com/htc-launch-date-metaverse-smartphone-3174546/)
+ - [Indian credit card payment service Cred raises $80M as part of a planned $140M Series F, at a $6.2B valuation, up from its $4B valuation in Oct 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/220610/p1#a220610p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
