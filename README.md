@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey&#39;s Bitcoin-focused venture TBD unveils plans to build a &quot;Web 5&quot; platform focused on decentralized identity and data storage for applications &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220610/p16#a220610p16)
- - [Everything the rumor mill got right -- and wrong -- about the M2 MacBook Air](https://appleinsider.com/articles/22/06/10/everything-the-rumor-mill-got-right----and-wrong----about-the-m2-macbook-air?utm_medium=rss)
- - [Tech antitrust is facing its biggest challenge yet in the Senate](https://www.theverge.com/2022/6/10/23162438/american-innovation-choice-online-act-aico-klobuchar-grassley-senate)<!-- TECH:END -->
+ - [Hands on: Everything new with CarPlay in iOS 16](https://appleinsider.com/articles/22/06/10/hands-on-everything-new-with-carplay-in-ios-16?utm_medium=rss)
+ - [The Tricky Business of Elon Musk Getting Twitter Fire-Hose Access](https://www.wired.com/story/elon-musk-twitter-firehose/)
+ - [Telegram Premium is happening: Here’s what we know so far](https://www.androidauthority.com/telegram-premium-plan-3175408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
