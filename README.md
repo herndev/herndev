@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #356: Friday, June 10](https://www.pcgamer.com/todays-wordle-answer-356-friday-june-10)
- - [Videogame Atlas Is A Love Letter To Game Levels &amp; Architecture](https://kotaku.com/video-game-maps-architecture-levels-book-fortnite-dark-1849032060)
- - [AMD teases its next gen chiplet-based RDNA 3 architecture](https://www.pcgamer.com/amd-teases-its-next-gen-chiplet-based-rdna-3-architecture)<!-- GAME:END -->
+ - [Netflix’s First Kill is a YA romance worth sinking your teeth into](https://www.polygon.com/reviews/23161988/netflix-first-kill-review)
+ - [Redux &#39;Good&#39; tier PC](https://www.pcgamer.com/redux-good-tier-pc)
+ - [MSI Radeon RX 6750 XT Gaming X Trio](https://www.pcgamer.com/msi-radeon-rx-6750-xt-gaming-x-trio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
