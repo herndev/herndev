@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When keeping real goes wrong. She snatched his soul.](http://9gag.com/gag/amgKRYV)
- - ⏩ [The good old days](http://9gag.com/gag/agg6KKg)
- - 👉 [This is just.. hurtful](http://9gag.com/gag/a41mwWy)<!-- MEMES:END -->
+ - 💣 [Atleast play something decent](http://9gag.com/gag/aE8yErG)
+ - ⏩ [This is just.. hurtful](http://9gag.com/gag/a41mwWy)
+ - 👉 [Wife Material](http://9gag.com/gag/aYrZdwx)<!-- MEMES:END -->
 
 ---
 
