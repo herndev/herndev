@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with Apple&#39;s Craig Federighi and VP of Design Alan Dye on the new features in iOS 16 for customizing lock screens &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/220611/p1#a220611p1)
  - [A week with Dall-E 2, OpenAI&#39;s text-to-image AI tool that is in private research beta and feels like a breakthrough in the history of consumer tech &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/220610/p21#a220610p21)
- - [My Favorite iOS 16 Feature: Tap to Lift a Pet Out of a Photo     - CNET](https://www.cnet.com/tech/mobile/my-favorite-ios-16-feature-is-you-tap-to-lift-a-pet-out-of-a-photo/#ftag=CAD590a51e)
- - [Spider-Man Movies, Ranked: From No Way Home to Spider-Man 3     - CNET](https://www.cnet.com/culture/entertainment/spider-man-movies-ranked-from-no-way-home-to-spider-man-3/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My Favorite iOS 16 Feature: Tap to Lift a Pet Out of a Photo     - CNET](https://www.cnet.com/tech/mobile/my-favorite-ios-16-feature-is-you-tap-to-lift-a-pet-out-of-a-photo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
