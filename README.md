@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Millenials and Gen Z](http://9gag.com/gag/aWgPXg6)
- - ⏩ [Why are you pretending you are not geh?](http://9gag.com/gag/agg6eB1)
+ - 💣 [Okay, enough Internet for today](http://9gag.com/gag/aGz6QoZ)
+ - ⏩ [Dammitt Good](http://9gag.com/gag/aKmnoz3)
  - 👉 [Engage a B](http://9gag.com/gag/aqGBEYQ)<!-- MEMES:END -->
 
 ---
