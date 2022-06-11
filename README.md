@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 11: $225 off WD Black 2TB NVMe SSD, $200 50-inch JVC 4K Smart TV, $90 Donner Speakers, more](https://appleinsider.com/articles/22/06/11/daily-deals-june-11-225-off-wd-black-2tb-nvme-ssd-200-50-inch-jvc-4k-smart-tv-90-donner-speakers-more?utm_medium=rss)
- - [The Last-Ditch Effort to Save Wild Salmon](https://www.wired.com/story/the-last-ditch-effort-to-save-wild-salmon/)
- - [The Best Kindles to Take Your Library Anywhere](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
+ - [Meta Hits the Brakes on Portal, AR Glasses, and Other Hardware](https://www.wired.com/story/meta-stops-selling-portal-to-consumers/)
+ - [How China Hacked US Phone Networks](https://www.wired.com/story/china-hacking-phone-network-security-roundup/)
+ - [The delight is in the details of Drop’s new DCX keycaps](https://www.theverge.com/2022/6/11/23162531/drop-dcx-black-on-white-keycaps-hands-on)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
