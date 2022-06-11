@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This PC snowboarding game mixes SSX, Mario Kart, and various small animals](https://www.pcgamer.com/slopecrashers-demo)
- - [Encounter dreamy dogboys and aliens in this intergalactic dating sim](https://www.pcgamer.com/encounter-dreamy-dogboys-and-aliens-in-this-intergalactic-dating-sim)
- - [The Last Worker is a warehouse fulfilment sim at the end of capitalism](https://www.pcgamer.com/the-last-worker-is-a-warehouse-fulfilment-sim-at-the-end-of-capitalism)<!-- GAME:END -->
+ - [Here&#39;s another look at Coffee Talk Episode 2: Hibiscus &amp; Butterfly](https://www.pcgamer.com/heres-another-look-at-coffee-talk-episode-2-hibiscus-and-butterfly)
+ - [49 Under-The-Radar Games That Belong On Your Radar](https://kotaku.com/49-under-the-radar-games-that-belong-on-your-radar-1849049477)
+ - [Fold and tear the world itself in this unique paper puzzle game](https://www.pcgamer.com/fold-and-tear-the-world-itself-in-this-unique-paper-puzzle-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
