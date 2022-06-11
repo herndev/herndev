@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Wholesome Direct&#39;s indie game showcase](https://www.pcgamer.com/how-to-watch-wholesome-directs-indie-game-showcase)
- - [Sorry, But Hollywood Is Making A Duke Nukem Movie](https://kotaku.com/duke-nukem-film-movie-gearbox-cobra-kai-game-adaptation-1849047814)
- - [A Duke Nukem movie is coming from the makers of Cobra Kai](https://www.pcgamer.com/a-duke-nukem-movie-is-coming-from-the-makers-of-cobra-kai)<!-- GAME:END -->
+ - [How to watch the Guerrilla Collective 2022 showcase](https://www.pcgamer.com/guerilla-collective-2022-start-time)
+ - [Today&#39;s Wordle answer #357: Saturday, June 11](https://www.pcgamer.com/todays-wordle-answer-357-saturday-june-11)
+ - [How to watch Wholesome Direct&#39;s indie game showcase](https://www.pcgamer.com/how-to-watch-wholesome-directs-indie-game-showcase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
