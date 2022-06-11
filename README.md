@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony predicts phones to soon overtake DSLR cameras — is that really likely?](https://www.androidauthority.com/sony-phones-overtake-dslr-2024-3173634/)
- - [A look at advanced large language models, as a Google engineer is placed on paid leave after becoming convinced that its LaMDA chatbot generator became sentient &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220611/p5#a220611p5)
- - [TikTok’s parent company is gearing up to invest a lot of money in VR](https://www.theverge.com/2022/6/11/23163839/tiktok-parent-company-bytedance-gearing-up-invest-money-vr)<!-- TECH:END -->
+ - [Best Cases for iPhone 12 and iPhone 12 Pro     - CNET](https://www.cnet.com/tech/mobile/best-iphone-12-cases/#ftag=CAD590a51e)
+ - [Moderna COVID Vaccine Safe for Kids Under 5, FDA Reviewers Say     - CNET](https://www.cnet.com/health/parenting/moderna-covid-vaccine-safe-for-kids-under-5-fda-reviewers-say/#ftag=CAD590a51e)
+ - [Foxconn chairman accuses other Apple suppliers of poaching workers in Vietnam](https://appleinsider.com/articles/22/06/11/foxconn-chairman-accuses-other-apple-suppliers-of-poaching-workers-in-vietnam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
