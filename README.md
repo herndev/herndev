@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Horror fans are enjoying a feast of fantastic, terrifying games](https://www.polygon.com/23161855/horror-game-genre-callisto-protocol-dead-space-resident-evil-indie-games-golden-age)
  - [How to watch Wholesome Direct 2022](https://www.polygon.com/2022/6/11/23158733/how-to-watch-wholesome-direct-2022)
- - [Delightful New Game Looks Like Reverse The Legend Of Zelda: A Link Between Worlds](https://kotaku.com/the-plucky-squire-trailer-nintendo-switch-pc-playstatio-1849048046)
- - [10 recent Indian movies to watch after RRR](https://www.polygon.com/what-to-watch/23157894/indian-movies-to-watch-streaming)<!-- GAME:END -->
+ - [Delightful New Game Looks Like Reverse Zelda: A Link Between Worlds](https://kotaku.com/the-plucky-squire-trailer-nintendo-switch-pc-playstatio-1849048046)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
