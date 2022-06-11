@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Apple&#39;s Craig Federighi and VP of Design Alan Dye on the new features in iOS 16 for customizing lock screens &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/220611/p1#a220611p1)
- - [A week with Dall-E 2, OpenAI&#39;s text-to-image AI tool that is in private research beta and feels like a breakthrough in the history of consumer tech &lpar;Casey Newton/The Verge&rpar;](http://www.techmeme.com/220610/p21#a220610p21)
- - [My Favorite iOS 16 Feature: Tap to Lift a Pet Out of a Photo     - CNET](https://www.cnet.com/tech/mobile/my-favorite-ios-16-feature-is-you-tap-to-lift-a-pet-out-of-a-photo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk&#39;s Starlink has become an unexpected lifeline in Ukraine, on the battlefield and in the war for public opinion, impressing many Western militaries &lpar;Politico&rpar;](http://www.techmeme.com/220611/p2#a220611p2)
+ - [Hack Your Happiness Hormones: How to Boost Serotonin and Dopamine     - CNET](https://www.cnet.com/culture/hack-your-happiness-hormones-how-to-boost-serotonin-and-dopamine/#ftag=CAD590a51e)
+ - [An interview with Apple&#39;s Craig Federighi and VP of Design Alan Dye on the new features in iOS 16 for customizing lock screens &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/220611/p1#a220611p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
