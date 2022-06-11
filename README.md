@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
- - ⏩ [And they say war isn&#39;t like a video game](http://9gag.com/gag/amgK3B9)
+ - 💣 [Cat bubble](http://9gag.com/gag/ay9ZbWV)
+ - ⏩ [Georgia. Tbilisi . Students of the State University forcibly occupied the rector&#39;s office, demanding an audit of the university budget, the construction of a dormitory and a change in the format of exams.](http://9gag.com/gag/aZro6jV)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
