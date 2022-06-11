@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Johnny Depp Has Become a Full-Circle Meme](https://www.wired.com/story/johnny-depp-amber-heard-trial-tiktok/)
- - [Apple Embraces the Ever-Expanding Dashboard Touchscreen](https://www.wired.com/story/apple-carplay-dashboard-touchscreen-distracted-driving/)
- - [Controlling My Family’s Smart Home Is Driving Us Mad](https://www.wired.com/story/family-smart-home-control-rant/)<!-- TECH:END -->
+ - [Daily deals June 11: $225 off WD Black 2TB NVMe SSD, $200 50-inch JVC 4K Smart TV, $90 Donner Speakers, more](https://appleinsider.com/articles/22/06/11/daily-deals-june-11-225-off-wd-black-2tb-nvme-ssd-200-50-inch-jvc-4k-smart-tv-90-donner-speakers-more?utm_medium=rss)
+ - [The Last-Ditch Effort to Save Wild Salmon](https://www.wired.com/story/the-last-ditch-effort-to-save-wild-salmon/)
+ - [The Best Kindles to Take Your Library Anywhere](https://www.wired.com/gallery/best-kindle/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
