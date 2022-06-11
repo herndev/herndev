@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He gets the ball!](http://9gag.com/gag/aBnjzNQ)
- - ⏩ [Just recently I thought I&#39;d end up a wizard. I guess not, unfortunately.](http://9gag.com/gag/abgKoLO)
- - 👉 [Point](http://9gag.com/gag/aRr9GGG)<!-- MEMES:END -->
+ - 💣 [They never acknowledged my presence and when they found out I was in a relationship, they are super nice and flirty](http://9gag.com/gag/ajgGjA8)
+ - ⏩ [Thailand gives away more then 1 million weed plants to it&#39;s citizens to celebrate legalization](http://9gag.com/gag/a219g2E)
+ - 👉 [Historical figures and their names](http://9gag.com/gag/ajgGjXx)<!-- MEMES:END -->
 
 ---
 
