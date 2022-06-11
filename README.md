@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is still treating the iPad as a second-class citizen](https://www.androidauthority.com/ipados-16-ipad-second-class-citizen-3174408/)
- - [HBO Max: The 40 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-40-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)
- - [Stage Manager for iPadOS 16 limited to M1 over memory, storage speed requirements](https://appleinsider.com/articles/22/06/11/stage-manager-for-ipados-16-limited-to-m1-over-memory-storage-speed-requirements?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok’s parent company is gearing up to invest a lot of money in VR](https://www.theverge.com/2022/6/11/23163839/tiktok-parent-company-bytedance-gearing-up-invest-money-vr)
+ - [See all the macOS naming locations in this Apple Maps guide](https://appleinsider.com/inside/apple-maps/tips/see-all-the-macos-naming-locations-in-this-apple-maps-guide?utm_medium=rss)
+ - [Apple is still treating the iPad as a second-class citizen](https://www.androidauthority.com/ipados-16-ipad-second-class-citizen-3174408/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
