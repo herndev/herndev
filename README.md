@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Script for Apple TV+ &#39;Pachinko&#39; pilot reveals highly detailed writing behind the drama](https://appleinsider.com/articles/22/06/11/script-for-apple-tv-pachinko-pilot-reveals-highly-detailed-writing-behind-the-drama?utm_medium=rss)
- - [The travel-friendly Sonos Roam is still on sale for a rare $37 off](https://www.theverge.com/good-deals/2022/6/11/23162575/sonos-roam-apple-airpods-pro-samsung-galaxy-chromebook-2-lenovo-thinkpad-ps5-dualsense-deal-sale)
- - [Garmin Forerunner 255 review: Running back to the top](https://www.androidauthority.com/garmin-forerunner-255-review-3173110/)<!-- TECH:END -->
+ - [Apple is still treating the iPad as a second-class citizen](https://www.androidauthority.com/ipados-16-ipad-second-class-citizen-3174408/)
+ - [HBO Max: The 40 Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-40-best-tv-series-to-stream-tonight/#ftag=CAD590a51e)
+ - [Stage Manager for iPadOS 16 limited to M1 over memory, storage speed requirements](https://appleinsider.com/articles/22/06/11/stage-manager-for-ipados-16-limited-to-m1-over-memory-storage-speed-requirements?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
