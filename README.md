@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does size matter?](http://9gag.com/gag/aZro6A6)
- - ⏩ [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
+ - 💣 [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
+ - ⏩ [And they say war isn&#39;t like a video game](http://9gag.com/gag/amgK3B9)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
