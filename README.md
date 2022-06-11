@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands)
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Recruiters say hiring in some tech sectors is holding firm; Indeed.com: US developer job postings are up 120% on an early 2020 pre-coronavirus pandemic baseline &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220610/p19#a220610p19)<!-- TECH:END -->
+ - [My Favorite iOS 16 Feature: Tap to Lift a Pet Out of a Photo     - CNET](https://www.cnet.com/tech/mobile/my-favorite-ios-16-feature-is-you-tap-to-lift-a-pet-out-of-a-photo/#ftag=CAD590a51e)
+ - [Spider-Man Movies, Ranked: From No Way Home to Spider-Man 3     - CNET](https://www.cnet.com/culture/entertainment/spider-man-movies-ranked-from-no-way-home-to-spider-man-3/#ftag=CAD590a51e)
+ - [COVID-19 Testing Requirement for Air Travelers Entering US to End     - CNET](https://www.cnet.com/health/covid-19-testing-requirement-for-air-travelers-entering-us-to-end/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
