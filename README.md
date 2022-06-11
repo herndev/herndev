@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s another look at Coffee Talk Episode 2: Hibiscus &amp; Butterfly](https://www.pcgamer.com/heres-another-look-at-coffee-talk-episode-2-hibiscus-and-butterfly)
- - [49 Under-The-Radar Games That Belong On Your Radar](https://kotaku.com/49-under-the-radar-games-that-belong-on-your-radar-1849049477)
- - [Fold and tear the world itself in this unique paper puzzle game](https://www.pcgamer.com/fold-and-tear-the-world-itself-in-this-unique-paper-puzzle-game)<!-- GAME:END -->
+ - [Freeride is an action-RPG that&#39;s also a secret personality test](https://www.pcgamer.com/freeride-is-an-action-rpg-thats-also-a-secret-personality-test)
+ - [If you enjoy For All Mankind, you should watch … For All Mankind](https://www.polygon.com/23161272/for-all-mankind-movie-recommendation-essay)
+ - [Analyze excrement and develop clever cures as a... fuel station manager?](https://www.pcgamer.com/analyze-excrement-and-develop-clever-cures-as-a-fuel-station-manager)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
