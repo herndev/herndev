@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-436-3174835/)
- - [Dutch ACM says Apple&#39;s latest changes to App Store rules, which let developers of dating apps choose payment methods, meet local and EU competition requirements &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220611/p4#a220611p4)
- - [How to close apps on the iPhone 13](https://www.androidauthority.com/close-apps-iphone-13-3175296/)<!-- TECH:END -->
+ - [Script for Apple TV+ &#39;Pachinko&#39; pilot reveals highly detailed writing behind the drama](https://appleinsider.com/articles/22/06/11/script-for-apple-tv-pachinko-pilot-reveals-highly-detailed-writing-behind-the-drama?utm_medium=rss)
+ - [The travel-friendly Sonos Roam is still on sale for a rare $37 off](https://www.theverge.com/good-deals/2022/6/11/23162575/sonos-roam-apple-airpods-pro-samsung-galaxy-chromebook-2-lenovo-thinkpad-ps5-dualsense-deal-sale)
+ - [Garmin Forerunner 255 review: Running back to the top](https://www.androidauthority.com/garmin-forerunner-255-review-3173110/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
