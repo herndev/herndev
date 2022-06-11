@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New features](http://9gag.com/gag/apgzMoM)
- - ⏩ [Imagine looking out in the morning when you just woke up. Another one of borisao blois animation.](http://9gag.com/gag/aKmn5Bg)
- - 👉 [When a fan made film has more Star Wars Spirit than Disney itself...](http://9gag.com/gag/a41mg2w)<!-- MEMES:END -->
+ - 💣 [This is scary. I like this guy&#39;s animations.](http://9gag.com/gag/aZroXjV)
+ - ⏩ [Elephant&#39;s enjoying his birthday celebration](http://9gag.com/gag/apgzMK5)
+ - 👉 [Pretty much most of Asian Countries. Except Middle East I guess.](http://9gag.com/gag/ay9ZKDq)<!-- MEMES:END -->
 
 ---
 
