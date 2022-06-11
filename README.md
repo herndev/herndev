@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wholesome Direct 2022 highlights: Moomin, paper puzzles, shadow jumping](https://www.polygon.com/23158786/wholesome-direct-2022-highlights-announcements-trailers)
  - [Freeride is an action-RPG that&#39;s also a secret personality test](https://www.pcgamer.com/freeride-is-an-action-rpg-thats-also-a-secret-personality-test)
- - [If you enjoy For All Mankind, you should watch … For All Mankind](https://www.polygon.com/23161272/for-all-mankind-movie-recommendation-essay)
- - [Analyze excrement and develop clever cures as a... fuel station manager?](https://www.pcgamer.com/analyze-excrement-and-develop-clever-cures-as-a-fuel-station-manager)<!-- GAME:END -->
+ - [If you enjoy For All Mankind, you should watch … For All Mankind](https://www.polygon.com/23161272/for-all-mankind-movie-recommendation-essay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
