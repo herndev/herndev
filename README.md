@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla Forges Ahead With a 3-for-1 Stock Split     - CNET](https://www.cnet.com/roadshow/news/tesla-forges-ahead-with-a-3-for-1-stock-split/#ftag=CAD590a51e)
- - [Apple Watch Series 7 vs. Series 6: The Biggest Differences     - CNET](https://www.cnet.com/tech/mobile/apple-watch-series-7-vs-series-6-comparing-apples-smartwatches/#ftag=CAD590a51e)
- - [iOS 16: The Best New Features Coming To Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-the-best-new-features-coming-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple’s giving up ground in its App Store fight with Dutch regulators and Tinder](https://www.theverge.com/2022/6/10/23163277/apple-third-party-payment-rules-update-acm-dutch-dating-apps-netherlands)
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Recruiters say hiring in some tech sectors is holding firm; Indeed.com: US developer job postings are up 120% on an early 2020 pre-coronavirus pandemic baseline &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220610/p19#a220610p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
