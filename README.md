@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One-legged men VS healthy women, playing footbal and men are winning.](http://9gag.com/gag/aAGqzr9)
+ - 💣 [What happens?](http://9gag.com/gag/aNP87Q6)
  - ⏩ [Headlight wipers](http://9gag.com/gag/aXrQ6e9)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
