@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Starlink has become an unexpected lifeline in Ukraine, on the battlefield and in the war for public opinion, impressing many Western militaries &lpar;Politico&rpar;](http://www.techmeme.com/220611/p2#a220611p2)
- - [Hack Your Happiness Hormones: How to Boost Serotonin and Dopamine     - CNET](https://www.cnet.com/culture/hack-your-happiness-hormones-how-to-boost-serotonin-and-dopamine/#ftag=CAD590a51e)
- - [An interview with Apple&#39;s Craig Federighi and VP of Design Alan Dye on the new features in iOS 16 for customizing lock screens &lpar;Lance Ulanoff/TechRadar&rpar;](http://www.techmeme.com/220611/p1#a220611p1)<!-- TECH:END -->
+ - [Johnny Depp Has Become a Full-Circle Meme](https://www.wired.com/story/johnny-depp-amber-heard-trial-tiktok/)
+ - [Apple Embraces the Ever-Expanding Dashboard Touchscreen](https://www.wired.com/story/apple-carplay-dashboard-touchscreen-distracted-driving/)
+ - [Controlling My Family’s Smart Home Is Driving Us Mad](https://www.wired.com/story/family-smart-home-control-rant/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
