@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s parent company is gearing up to invest a lot of money in VR](https://www.theverge.com/2022/6/11/23163839/tiktok-parent-company-bytedance-gearing-up-invest-money-vr)
- - [See all the macOS naming locations in this Apple Maps guide](https://appleinsider.com/inside/apple-maps/tips/see-all-the-macos-naming-locations-in-this-apple-maps-guide?utm_medium=rss)
- - [Apple is still treating the iPad as a second-class citizen](https://www.androidauthority.com/ipados-16-ipad-second-class-citizen-3174408/)<!-- TECH:END -->
+ - [Sony predicts phones to soon overtake DSLR cameras — is that really likely?](https://www.androidauthority.com/sony-phones-overtake-dslr-2024-3173634/)
+ - [A look at advanced large language models, as a Google engineer is placed on paid leave after becoming convinced that its LaMDA chatbot generator became sentient &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220611/p5#a220611p5)
+ - [TikTok’s parent company is gearing up to invest a lot of money in VR](https://www.theverge.com/2022/6/11/23163839/tiktok-parent-company-bytedance-gearing-up-invest-money-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
