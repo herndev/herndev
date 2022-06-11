@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s official: Frogs won The Summer of Games](https://www.pcgamer.com/its-official-frogs-won-the-summer-of-games)
- - [Firewatch meets The Thing in this game about a near-future plane crash in Alaska](https://www.pcgamer.com/firewatch-meets-the-thing-in-this-game-about-a-near-future-plane-crash-in-alaska)
- - [&#39;90s crime scene cleanup caper Serial  Cleaners is coming in September](https://www.pcgamer.com/90s-crime-scene-cleanup-caper-serial-cleaners-is-coming-in-september)<!-- GAME:END -->
+ - [8 Wholesome Indie Games To Keep An Eye On](https://kotaku.com/wholesome-indie-games-livestream-paper-mario-kaiju-dati-1849049902)
+ - [Offbeat detective game Deadly Premonition 2 surprise launches on Steam](https://www.pcgamer.com/offbeat-detective-game-deadly-premonition-2-surprise-launches-on-steam)
+ - [It&#39;s official: Frogs won The Summer of Games](https://www.pcgamer.com/its-official-frogs-won-the-summer-of-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
