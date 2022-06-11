@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to close apps on the iPhone 13](https://www.androidauthority.com/close-apps-iphone-13-3175296/)
- - [23 of the best LGBTQ+ shows and where to stream them during Pride Month 2022](https://www.androidauthority.com/best-lgbtq-shows-streaming-pride-month-3172252/)
- - [The US military is embracing video gaming culture to attract and retain talent, but faces internal challenges and fierce outside criticism for doing so &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/220611/p3#a220611p3)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-436-3174835/)
+ - [Dutch ACM says Apple&#39;s latest changes to App Store rules, which let developers of dating apps choose payment methods, meet local and EU competition requirements &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220611/p4#a220611p4)
+ - [How to close apps on the iPhone 13](https://www.androidauthority.com/close-apps-iphone-13-3175296/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
