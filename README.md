@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Testing the effectiveness of the Roman Testudo formation](http://9gag.com/gag/arn9jKK)
- - ⏩ [Dark mode memes](http://9gag.com/gag/aogAQBA)
+ - 💣 [And they say war isn&#39;t like a video game](http://9gag.com/gag/amgK3B9)
+ - ⏩ [Coolest jump into water ever.](http://9gag.com/gag/ajgGoqg)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
