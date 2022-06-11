@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Georgia. Tbilisi . Students of the State University forcibly occupied the rector&#39;s office, demanding an audit of the university budget, the construction of a dormitory and a change in the format of exams.](http://9gag.com/gag/aZro6jV)
+ - 💣 [Hello... I&#39;d like to report a robbery](http://9gag.com/gag/aBnjBR2)
  - ⏩ [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
