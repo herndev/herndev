@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello... I&#39;d like to report a robbery](http://9gag.com/gag/aBnjBR2)
+ - 💣 [Does size matter?](http://9gag.com/gag/aZro6A6)
  - ⏩ [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41mXzd)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
