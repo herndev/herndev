@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 coming next year, Blizzard reveals Necromancer class](https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression)
- - [Flintlock: Siege of Dawn is games’ newest blend of magic and musketfire](https://www.polygon.com/23164944/flintlock-siege-of-dawn-trailer-xbox-bethesda-2022)
- - [Diablo IV Revives The Necromancer For A 2023 Launch](https://kotaku.com/diablo-iv-4-necromancer-blizzard-activision-launch-game-1849051118)<!-- GAME:END -->
+ - [Persona Series Coming Soon to Xbox One, Xbox Series X|S, Windows PC, and with Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/persona-series-coming-soon-to-xbox/)
+ - [Ereban: Shadow Legacy is a cyber-stealth game that gives you shady powers](https://www.pcgamer.com/ereban-shadow-legacy-is-a-cyber-stealth-game-that-gives-you-shady-powers)
+ - [Yep, Forza Horizon 5&#39;s first expansion is a Hot Wheels collaboration](https://www.pcgamer.com/oops-forza-horizon-5s-first-expansion-has-accidentally-leaked)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
