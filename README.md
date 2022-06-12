@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hollow Knight: Silksong gets a new gameplay trailer, but still no release date](https://www.polygon.com/21441317/hollow-knight-silksong-trailer-release-date-game-pass)
- - [Redfall’s meddling kids get together to fight vampires by the seashore](https://www.polygon.com/23164879/redfall-gameplay-trailer-xbox-bethesda-show-2022-not-e3)
- - [Redfall Gameplay Reveal &amp; Everything You Need to Know About Redfall](https://news.xbox.com/en-us/2022/06/12/redfall-gameplay-reveal/)<!-- GAME:END -->
+ - [Diablo 4 coming next year, Blizzard reveals Necromancer class](https://www.polygon.com/23164688/diablo-4-necromancer-release-date-beta-sign-up-cross-play-progression)
+ - [Flintlock: Siege of Dawn is games’ newest blend of magic and musketfire](https://www.polygon.com/23164944/flintlock-siege-of-dawn-trailer-xbox-bethesda-2022)
+ - [Diablo IV Revives The Necromancer For A 2023 Launch](https://kotaku.com/diablo-iv-4-necromancer-blizzard-activision-launch-game-1849051118)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
