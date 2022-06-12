@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlanta-based Ledgible, which develops crypto tax and accounting software to determine tax liabilities for consumers and enterprises, has raised a $20M Series A &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220612/p1#a220612p1)
- - [Best Mattresses for Kids in 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Leaked images seem to show a Samsung Galaxy Z Flip 4 unit with a design similar to the Flip 3&#39;s but with a shallower, less noticeable display crease &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220611/p7#a220611p7)<!-- TECH:END -->
+ - [Sources: Apple will use Apple ID data for identity verification and fraud prevention, rely on credit reports and FICO scores for its buy now, pay later service &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/220612/p2#a220612p2)
+ - [New &#39;PacMan&#39; flaw in Apple Silicon is an echo of Spectre and Meltdown](https://appleinsider.com/articles/22/06/10/new-pacman-flaw-in-apple-silicon-is-an-echo-of-spectre-and-meltdown?utm_medium=rss)
+ - [Atlanta-based Ledgible, which develops crypto tax and accounting software to determine tax liabilities for consumers and enterprises, has raised a $20M Series A &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220612/p1#a220612p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
