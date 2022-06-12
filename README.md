@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Screw over political groups, bully other nations and get filthy rich in Victoria 3 this year](https://www.pcgamer.com/screw-over-political-groups-bully-other-nations-and-get-filthy-rich-in-victoria-3-this-year)
- - [Fantasy survival sandbox Frozen Flame launches this fall](https://www.pcgamer.com/fantasy-survival-sandbox-frozen-flame-launches-this-fall)
- - [Laysara: Summit Kingdom dares you to stop a city falling off the side of a mountain](https://www.pcgamer.com/laysara-summit-kingdom-dares-you-to-stop-a-city-falling-off-the-side-of-a-mountain)<!-- GAME:END -->
+ - [From ION LANDS and 505 Games comes Nivalis, a beautiful voxel-art cyberpunk life simulator](https://www.pcgamer.com/from-ion-lands-and-505-games-comes-nivalis-a-beautiful-voxel-art-cyberpunk-life-simulator)
+ - [Genre defining System Shock is coming back better than ever this year](https://www.pcgamer.com/genre-defining-system-shock-is-coming-back-better-than-ever-this-year)
+ - [Mana is the perfect rewards debit card for gamers](https://www.pcgamer.com/mana-is-the-perfect-rewards-debit-card-for-gamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
