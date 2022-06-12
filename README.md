@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [18 yo Monika Marach lifting 99kg/218lbs](http://9gag.com/gag/aKmn0e3)
- - ⏩ [The legend](http://9gag.com/gag/a0ZzAZq)
+ - 💣 [The legend](http://9gag.com/gag/a0ZzAZq)
+ - ⏩ [Best way to cut a watermelon when sharing.](http://9gag.com/gag/aogArNX)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
