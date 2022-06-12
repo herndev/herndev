@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My brain says, whuut](http://9gag.com/gag/aWgPzxK)
+ - 💣 [Fcuk Vertical Videos](http://9gag.com/gag/aAGqoE2)
  - ⏩ [James Webb Telescope got hit by a rock in one of its mirrors. You know the one that took 20 years to build](http://9gag.com/gag/a81QBx6)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
