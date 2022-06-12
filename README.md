@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you get a cat hoping it will help you get rid of the big rat in your yard](http://9gag.com/gag/a21AzoZ)
- - ⏩ [*draws Mona Lisa* Sorry it&#39;s just a sketch... took me about ten minutes because I was bored](http://9gag.com/gag/a519ddE)
- - 👉 [Pilot successfully crash lands his plane on a field after engine failure](http://9gag.com/gag/aPZVwZB)<!-- MEMES:END -->
+ - 💣 [Who will come up with the best name for this character?](http://9gag.com/gag/aE8jwbe)
+ - ⏩ [When the time hits, you gotta do it](http://9gag.com/gag/aRr8Qnq)
+ - 👉 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)<!-- MEMES:END -->
 
 ---
 
