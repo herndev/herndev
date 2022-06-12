@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bison are quite powerful](http://9gag.com/gag/aGz630Z)
- - ⏩ [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
+ - 💣 [Crows have such developed cognitive abilities that they can think three steps into the future](http://9gag.com/gag/a71PjEA)
+ - ⏩ [In the 2016 olympics, Flavia Oliveria ended the cycling race in 7th place. Even though that&#39;s the best placing that Brazil ever got, almost no one, not even from the Brazilian Cycling Confederation, appeared to celebrate the result with her... and then her cousin showed up.](http://9gag.com/gag/awzPRPW)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
