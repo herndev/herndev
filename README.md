@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just boy things](http://9gag.com/gag/aWgeZNn)
- - ⏩ [Back in my childhood we all wanted to be scientists and engineers because of this kind of series](http://9gag.com/gag/awz90AQ)
- - 👉 [The boys will understand](http://9gag.com/gag/a61erRR)<!-- MEMES:END -->
+ - 💣 [When you get a cat hoping it will help you get rid of the big rat in your yard](http://9gag.com/gag/a21AzoZ)
+ - ⏩ [*draws Mona Lisa* Sorry it&#39;s just a sketch... took me about ten minutes because I was bored](http://9gag.com/gag/a519ddE)
+ - 👉 [Pilot successfully crash lands his plane on a field after engine failure](http://9gag.com/gag/aPZVwZB)<!-- MEMES:END -->
 
 ---
 
