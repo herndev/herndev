@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
- - ⏩ [This is wild](http://9gag.com/gag/a91ZQ3m)
+ - 💣 [Share your darkest Sesame street memes](http://9gag.com/gag/awzPqdQ)
+ - ⏩ [1989 Germany, pilot lands a plane on a field so it can be placed at the museum nearby. Its cheaper then transporting it for sure.](http://9gag.com/gag/aPZzNKg)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
