@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In 1991, Ultima went to Mars for some reason](https://www.pcgamer.com/saturday-crapshoot-ultima-martian-dreams)
- - [8 Wholesome Indie Games To Keep An Eye On](https://kotaku.com/wholesome-indie-games-livestream-paper-mario-kaiju-dati-1849049902)
- - [Offbeat detective game Deadly Premonition 2 surprise launches on Steam](https://www.pcgamer.com/offbeat-detective-game-deadly-premonition-2-surprise-launches-on-steam)<!-- GAME:END -->
+ - [Get Venetica, a Eurojank RPG about Death&#39;s daughter, free for a limited time](https://www.pcgamer.com/get-venetica-a-eurojank-rpg-about-deaths-daughter-free-for-a-limited-time)
+ - [What not-E3 is like: LA heat, unlimited popcorn, and not quite enough games](https://www.pcgamer.com/what-not-e3-is-like-la-heat-unlimited-popcorn-and-not-quite-enough-games)
+ - [Orx is Carcassonne crossed with They Are Billions](https://www.pcgamer.com/orx-is-carcassonne-crossed-with-they-are-billions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
