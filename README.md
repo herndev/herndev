@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Atlanta-based Ledgible, which develops crypto tax and accounting software to determine tax liabilities for consumers and enterprises, has raised a $20M Series A &lpar;Tom Matsuda/The Block&rpar;](http://www.techmeme.com/220612/p1#a220612p1)
  - [Best Mattresses for Kids in 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-kids/#ftag=CAD590a51e)
- - [Leaked images seem to show a Samsung Galaxy Z Flip 4 unit with a design similar to the Flip 3&#39;s but with a shallower, less noticeable display crease &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220611/p7#a220611p7)
- - [Formula 1: How to Watch the Azerbaijan Grand Prix and F1 Racing in 2022     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-the-azerbaijan-grand-prix-and-f1-racing-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked images seem to show a Samsung Galaxy Z Flip 4 unit with a design similar to the Flip 3&#39;s but with a shallower, less noticeable display crease &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220611/p7#a220611p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
