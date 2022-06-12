@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Smooth switching between AR and VR could be big Apple headset feature, says Kuo](https://appleinsider.com/articles/22/06/12/smooth-switching-between-ar-and-vr-could-be-big-apple-headset-feature-says-kuo?utm_medium=rss)
  - [Astra’s failed launch resulted in the loss of two NASA weather satellites](https://www.theverge.com/2022/6/12/23165065/astra-failed-launch-resulted-loss-nasa-weather-satellites-cubesats-tropics)
- - [Association for Private Capital Investment in Latin America: startups in the region have raised $2.8B in Q1 2022, up 67% YoY and up 375% compared to Q1 2020 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220612/p7#a220612p7)
- - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Did You Test Positive for COVID at Home? Here&#39;s What to Do     - CNET](https://www.cnet.com/health/medical/did-you-test-positive-for-covid-at-home-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
