@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lets play outside!](http://9gag.com/gag/amgOq0V)
- - ⏩ [Man Snail](http://9gag.com/gag/aPZzOEQ)
+ - 💣 [This is just too much, even for soccer standards](http://9gag.com/gag/a614WmN)
+ - ⏩ [Lets play outside!](http://9gag.com/gag/amgOq0V)
  - 👉 [Cat burglar](http://9gag.com/gag/aggpr5r)<!-- MEMES:END -->
 
 ---
