@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #358: Sunday, June 12](https://www.pcgamer.com/todays-wordle-answer-358-sunday-june-12)
  - [How to watch today&#39;s Xbox and Bethesda showcase](https://www.pcgamer.com/xbox-bethesda-showcase-2022-time)
- - [Boyfriend Dungeon&#39;s getting free DLC with three new dateable weapons](https://www.pcgamer.com/boyfriend-dungeons-getting-free-dlc-with-three-new-dateable-weapons)
- - [Here&#39;s 8 minutes of gameplay from Outpost, the game with the bonkers trailer](https://www.pcgamer.com/heres-8-minutes-of-gameplay-from-outpost-the-game-with-the-bonkers-trailer)<!-- GAME:END -->
+ - [Boyfriend Dungeon&#39;s getting free DLC with three new dateable weapons](https://www.pcgamer.com/boyfriend-dungeons-getting-free-dlc-with-three-new-dateable-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
