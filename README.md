@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want whatever the animators are smoking](http://9gag.com/gag/a0ZDvrd)
- - ⏩ [Gone are those good days](http://9gag.com/gag/a31eoD3)
- - 👉 [The boys will understand](http://9gag.com/gag/a61erRR)<!-- MEMES:END -->
+ - 💣 [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
+ - ⏩ [Cat burglar](http://9gag.com/gag/aggpr5r)
+ - 👉 [Awwwwwwwmmmmmm](http://9gag.com/gag/avAB2PM)<!-- MEMES:END -->
 
 ---
 
