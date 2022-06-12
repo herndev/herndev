@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spider-Man: No Way Home is returning to theaters with new Spidey scenes](https://www.theverge.com/2022/6/11/23164052/spider-man-no-way-home-returning-theaters-new-spidey-scenes-more-fun-stuff)
- - [The Only Way to Slide Into Someone&#39;s DMs Without Being a Creep     - CNET](https://www.cnet.com/culture/the-only-way-to-slide-into-someones-dms-without-being-a-creep/#ftag=CAD590a51e)
- - [A defense of blockchains and crypto, as they go through growing pains in a bid to transform the US payments industry, which has been stagnant for decades &lpar;Matthew Green/A Few Thoughts on Cryptographic Engineering&rpar;](http://www.techmeme.com/220611/p6#a220611p6)<!-- TECH:END -->
+ - [Leaked images seem to show a Samsung Galaxy Z Flip 4 unit with a design similar to the Flip 3&#39;s but with a shallower, less noticeable display crease &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220611/p7#a220611p7)
+ - [Formula 1: How to Watch the Azerbaijan Grand Prix and F1 Racing in 2022     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-the-azerbaijan-grand-prix-and-f1-racing-in-2022/#ftag=CAD590a51e)
+ - [&#39;Spider-Man: No Way Home, The More Fun Stuff Version&#39; to Land in Theaters     - CNET](https://www.cnet.com/culture/entertainment/spider-man-no-way-home-the-more-fun-stuff-version-to-land-in-theaters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
