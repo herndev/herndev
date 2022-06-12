@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Portable Mini Bluetooth Speaker for 2022: JBL, Bose, Sony and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-portable-mini-bluetooth-speaker/#ftag=CAD590a51e)
- - [Xbox &amp; Bethesda Games Showcase: Start Time, How to Watch Online     - CNET](https://www.cnet.com/tech/gaming/xbox-and-bethesda-games-showcase-start-time-how-to-watch-online-event/#ftag=CAD590a51e)
- - [Google to pay $118 million to settle gender discrimination lawsuit](https://www.theverge.com/2022/6/12/23164678/google-pay-118-million-settle-gender-discrimination-lawsuit)<!-- TECH:END -->
+ - [Diablo IV will bring the blood waves in 2023](https://www.theverge.com/2022/6/12/23164873/diablo-iv-4-launch-2023)
+ - [Google agreed to pay $118M to settle a pay discrimination lawsuit with about 15,500 female employees, according to the lawfirms representing the women &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/220612/p6#a220612p6)
+ - [It’s not the USB-C port, it’s what you do with it that counts](https://www.androidauthority.com/usb-c-mandatory-2024-3174323/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
