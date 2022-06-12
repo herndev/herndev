@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s 8 minutes of gameplay from Outpost, the game with the bonkers trailer](https://www.pcgamer.com/heres-8-minutes-of-gameplay-from-outpost-the-game-with-the-bonkers-trailer)
  - [Get Venetica, a Eurojank RPG about Death&#39;s daughter, free for a limited time](https://www.pcgamer.com/get-venetica-a-eurojank-rpg-about-deaths-daughter-free-for-a-limited-time)
- - [What not-E3 is like: LA heat, unlimited popcorn, and not quite enough games](https://www.pcgamer.com/what-not-e3-is-like-la-heat-unlimited-popcorn-and-not-quite-enough-games)
- - [Orx is Carcassonne crossed with They Are Billions](https://www.pcgamer.com/orx-is-carcassonne-crossed-with-they-are-billions)<!-- GAME:END -->
+ - [What not-E3 is like: LA heat, unlimited popcorn, and not quite enough games](https://www.pcgamer.com/what-not-e3-is-like-la-heat-unlimited-popcorn-and-not-quite-enough-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
