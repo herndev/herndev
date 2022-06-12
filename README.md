@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Organic Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-organic-mattress/#ftag=CAD590a51e)
- - [Sources: Apple will use Apple ID data for identity verification and fraud prevention, rely on credit reports and FICO scores for its buy now, pay later service &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/220612/p2#a220612p2)
- - [New &#39;PacMan&#39; flaw in Apple Silicon is an echo of Spectre and Meltdown](https://appleinsider.com/articles/22/06/10/new-pacman-flaw-in-apple-silicon-is-an-echo-of-spectre-and-meltdown?utm_medium=rss)<!-- TECH:END -->
+ - [All three of China&#39;s top livestreaming influencers on Taobao have gone dark in recent months amid increasing government scrutiny on e-commerce livestreaming &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220612/p3#a220612p3)
+ - [Here&#39;s How Much Energy a Microwave Uses Compared to an Oven     - CNET](https://www.cnet.com/news/oven-versus-microwave-which-uses-less-energy/#ftag=CAD590a51e)
+ - [Best Queen Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
