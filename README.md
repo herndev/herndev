@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
- - [6 features Apple pinched from Android with iOS 16](https://www.androidauthority.com/apple-ios-16-features-android-3174281/)
- - [iOS 16: The Big Features We Didn&#39;t See at WWDC 2022     - CNET](https://www.cnet.com/tech/mobile/ios-16-the-big-features-we-didnt-see-at-wwdc-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astra’s failed launch resulted in the loss of two NASA weather satellites](https://www.theverge.com/2022/6/12/23165065/astra-failed-launch-resulted-loss-nasa-weather-satellites-cubesats-tropics)
+ - [Association for Private Capital Investment in Latin America: startups in the region have raised $2.8B in Q1 2022, up 67% YoY and up 375% compared to Q1 2020 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220612/p7#a220612p7)
+ - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
