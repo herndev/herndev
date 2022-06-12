@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Watch Xbox&#39;s Big Press Conference](https://kotaku.com/xbox-bethesda-showcase-2022-starfield-halo-infinite-gam-1849049827)
- - [Ms. Marvel’s directors wanted their show to be ‘Into the Spider-Verse in live action’](https://www.polygon.com/23161575/ms-marvel-interview-spider-man-into-the-spider-verse)
- - [Chivalry 2 is finally on Steam, and finally has horses](https://www.pcgamer.com/chivalry-2-is-finally-on-steam-and-finally-has-horses)<!-- GAME:END -->
+ - [Hollow Knight: Silksong gets a new gameplay trailer, but still no release date](https://www.polygon.com/21441317/hollow-knight-silksong-trailer-release-date-game-pass)
+ - [Redfall’s meddling kids get together to fight vampires by the seashore](https://www.polygon.com/23164879/redfall-gameplay-trailer-xbox-bethesda-show-2022-not-e3)
+ - [Redfall Gameplay Reveal &amp; Everything You Need to Know About Redfall](https://news.xbox.com/en-us/2022/06/12/redfall-gameplay-reveal/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
