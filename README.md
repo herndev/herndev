@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Starfield looks like Fallout in space, with a bit of No Man&#39;s Sky thrown in](https://www.pcgamer.com/starfield-looks-like-fallout-in-space-with-a-bit-of-no-mans-sky-thrown-in)
  - [From ION LANDS and 505 Games comes Nivalis, a beautiful voxel-art cyberpunk life simulator](https://www.pcgamer.com/from-ion-lands-and-505-games-comes-nivalis-a-beautiful-voxel-art-cyberpunk-life-simulator)
- - [Genre defining System Shock is coming back better than ever this year](https://www.pcgamer.com/genre-defining-system-shock-is-coming-back-better-than-ever-this-year)
- - [Mana is the perfect rewards debit card for gamers](https://www.pcgamer.com/mana-is-the-perfect-rewards-debit-card-for-gamers)<!-- GAME:END -->
+ - [Genre defining System Shock is coming back better than ever this year](https://www.pcgamer.com/genre-defining-system-shock-is-coming-back-better-than-ever-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
