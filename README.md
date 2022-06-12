@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crows have such developed cognitive abilities that they can think three steps into the future](http://9gag.com/gag/a71PjEA)
- - ⏩ [In the 2016 olympics, Flavia Oliveria ended the cycling race in 7th place. Even though that&#39;s the best placing that Brazil ever got, almost no one, not even from the Brazilian Cycling Confederation, appeared to celebrate the result with her... and then her cousin showed up.](http://9gag.com/gag/awzPRPW)
+ - 💣 [Featuring approximately one stunt every two seconds, extraordinary cinematics &amp; creativity in the most action packed commercial of all time this is an ordinary morning commute in `stunt city` filmed in 2005, this video has sound](http://9gag.com/gag/aPZzN5g)
+ - ⏩ [Crows have such developed cognitive abilities that they can think three steps into the future](http://9gag.com/gag/a71PjEA)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
