@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
- - ⏩ [Cat burglar](http://9gag.com/gag/aggpr5r)
- - 👉 [Awwwwwwwmmmmmm](http://9gag.com/gag/avAB2PM)<!-- MEMES:END -->
+ - 💣 [Chess devs lazy af](http://9gag.com/gag/aegqj3O)
+ - ⏩ [`Wow, his dick must be huge`](http://9gag.com/gag/aogGmwx)
+ - 👉 [Young birds think the food will jump on their mouths since their mother feed them like this....](http://9gag.com/gag/agg6RRg)<!-- MEMES:END -->
 
 ---
 
