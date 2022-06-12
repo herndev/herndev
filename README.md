@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Featuring approximately one stunt every two seconds, extraordinary cinematics &amp; creativity in the most action packed commercial of all time this is an ordinary morning commute in `stunt city` filmed in 2005, this video has sound](http://9gag.com/gag/aPZzN5g)
- - ⏩ [Crows have such developed cognitive abilities that they can think three steps into the future](http://9gag.com/gag/a71PjEA)
+ - 💣 [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
+ - ⏩ [This is wild](http://9gag.com/gag/a91ZQ3m)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
