@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All three of China&#39;s top livestreaming influencers on Taobao have gone dark in recent months amid increasing government scrutiny on e-commerce livestreaming &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220612/p3#a220612p3)
- - [Here&#39;s How Much Energy a Microwave Uses Compared to an Oven     - CNET](https://www.cnet.com/news/oven-versus-microwave-which-uses-less-energy/#ftag=CAD590a51e)
- - [Best Queen Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-queen-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Reshuffled Rivers Bolster the Amazon’s Hyper-Biodiversity](https://www.wired.com/story/reshuffled-rivers-bolster-the-amazons-hyper-biodiversity/)
+ - [Hisense’s Short-Throw Laser Projector Is a Glorious Plug-and-Play](https://www.wired.com/review/hisense-px1-pro/)
+ - [All three of China&#39;s top livestreaming influencers on Taobao have gone dark in recent months amid increasing government scrutiny on e-commerce livestreaming &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220612/p3#a220612p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
