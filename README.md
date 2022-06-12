@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Diablo IV will bring the blood waves in 2023](https://www.theverge.com/2022/6/12/23164873/diablo-iv-4-launch-2023)
- - [Google agreed to pay $118M to settle a pay discrimination lawsuit with about 15,500 female employees, according to the lawfirms representing the women &lpar;Robert Burnson/Bloomberg&rpar;](http://www.techmeme.com/220612/p6#a220612p6)
- - [It’s not the USB-C port, it’s what you do with it that counts](https://www.androidauthority.com/usb-c-mandatory-2024-3174323/)<!-- TECH:END -->
+ - [Deal alert: Apple TV 4K drops to $129.99 at both Amazon and Best Buy](https://appleinsider.com/articles/22/06/12/deal-alert-apple-tv-4k-drops-to-12999-at-both-amazon-and-best-buy?utm_medium=rss)
+ - [Watch 15 minutes of Starfield gameplay](https://www.theverge.com/2022/6/12/23162369/starfied-gameplay-trailer-bethesda-xbox-showcase-2022)
+ - [The biggest trailers and announcements from the 2022 Xbox &amp; Bethesda Games Showcase](https://www.theverge.com/2022/6/12/23164791/biggest-announcements-xbox-bethesda-games-showcase-starfield-overwatch-2-persona-diablo-iv)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
