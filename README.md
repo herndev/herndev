@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The legend](http://9gag.com/gag/a0ZzAZq)
- - ⏩ [Best way to cut a watermelon when sharing.](http://9gag.com/gag/aogArNX)
+ - 💣 [Bison are quite powerful](http://9gag.com/gag/aGz630Z)
+ - ⏩ [The cable management here is just beautiful.](http://9gag.com/gag/aM4DpZV)
  - 👉 [One gif to describe my life.](http://9gag.com/gag/aDDrKox)<!-- MEMES:END -->
 
 ---
