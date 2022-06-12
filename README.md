@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona Series Coming Soon to Xbox One, Xbox Series X|S, Windows PC, and with Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/persona-series-coming-soon-to-xbox/)
- - [Ereban: Shadow Legacy is a cyber-stealth game that gives you shady powers](https://www.pcgamer.com/ereban-shadow-legacy-is-a-cyber-stealth-game-that-gives-you-shady-powers)
- - [Yep, Forza Horizon 5&#39;s first expansion is a Hot Wheels collaboration](https://www.pcgamer.com/oops-forza-horizon-5s-first-expansion-has-accidentally-leaked)<!-- GAME:END -->
+ - [Frostpunk creators dive into mind-bending sci-fi with The Alters, a deep-space game of survival](https://www.pcgamer.com/frostpunk-creators-dive-into-mind-bending-sci-fi-with-the-alters-a-deep-space-game-of-survival)
+ - [Here&#39;s a cheat sheet for the Compass Datacenters quiz and a chance to win a $500 Razer gift card](https://www.pcgamer.com/heres-a-cheat-sheet-for-the-compass-datacenters-quiz-and-a-chance-to-win-a-dollar500-razer-gift-card)
+ - [Roguelike Hit Gunfire Reborn is Coming Soon to Xbox Game Pass](https://news.xbox.com/en-us/2022/06/12/roguelike-hit-gunfire-reborn-is-coming-soon-to-xbox-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
