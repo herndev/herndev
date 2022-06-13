@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Celsius&#39;s token CEL fell 70% in one hour after the DeFi lending giant suspended withdrawals, now at about 20 cents amid a broader crypto market slump &lpar;Daniel Roberts/Decrypt&rpar;](http://www.techmeme.com/220613/p3#a220613p3)
- - [Samsung Galaxy Z Flip 4 shows up in the real world way ahead of launch](https://www.androidauthority.com/samsung-galaxy-z-flip-4-live-images-3175634/)
- - [Belgium-based Odoo, which makes open source ERP and CRM software for SMBs globally, raises &amp;euro;112M from Summit Partners at a &amp;euro;3.2B valuation &lpar;Robin Wauters/Tech.eu&rpar;](http://www.techmeme.com/220613/p2#a220613p2)<!-- TECH:END -->
+ - [We asked, you told us: You want way more storage on your TV box](https://www.androidauthority.com/streaming-tv-box-storage-poll-results-3174973/)
+ - [Q&amp;A with Unity CEO John Riccitiello, who thinks the metaverse will be compelling with millions of destinations but won&#39;t be dominated by users&#39; 3D avatars &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220613/p4#a220613p4)
+ - [Celsius&#39;s token CEL fell 70% in one hour after the DeFi lending giant suspended withdrawals, now at about 20 cents amid a broader crypto market slump &lpar;Daniel Roberts/Decrypt&rpar;](http://www.techmeme.com/220613/p3#a220613p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
