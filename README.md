@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Home Security Systems for 2022     - CNET](https://www.cnet.com/news/best-home-security-system/#ftag=CAD590a51e)
- - [What iOS 16 and Android 13 Tell Us About the Future of Smartphones     - CNET](https://www.cnet.com/tech/mobile/what-ios-16-android-13-tell-about-future-smartphones/#ftag=CAD590a51e)
- - [Apple to add autofocus to iPhone front camera, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [How to set alarms on your Garmin watch](https://www.androidauthority.com/garmin-set-alarms-3173088/)
+ - [Save 30% on the Fitbit Versa 3, and more of the latest smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
+ - [How to boot into safe mode in Windows 11](https://www.androidauthority.com/boot-safe-mode-windows-11-3174565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
