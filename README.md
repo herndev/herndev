@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal Slammed On Metacritic, Now Holds Lowest User Score Ever](https://kotaku.com/diablo-immortal-metacritic-user-score-blizzard-free-to-1849055624)
- - [Dying Light 2 gets free missions and photo mode in next patch](https://www.polygon.com/23166583/dying-light-2-patch-new-mission-nightrunner-dlc-photo-mode)
- - [Watch the Capcom showcase here](https://www.pcgamer.com/watch-the-capcom-showcase-here)<!-- GAME:END -->
+ - [Kojima Studio Confirms &#39;Good Relationship&#39; With Sony After Xbox News, Angry Fanboy Reactions](https://kotaku.com/hideo-kojima-productions-xbox-playstation-fanboys-state-1849056141)
+ - [Resident Evil Village is getting playable Lady D and a third-person mode](https://www.pcgamer.com/resident-evil-village-is-getting-playable-lady-d-and-a-third-person-mode)
+ - [The biggest disappointments of not-E3](https://www.pcgamer.com/the-biggest-disappointments-of-not-e3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
