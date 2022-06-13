@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stalker 2 delayed until 2023](https://www.pcgamer.com/stalker-2-delayed-until-2023)
- - [How to make a recovery compass in Minecraft](https://www.pcgamer.com/minecraft-recovery-compass)
- - [In Netflix’s Spiderhead, Deadpool’s writing team tackles somber, serious sci-fi](https://www.polygon.com/reviews/23163147/spiderhead-review-chris-hemsworth-deadpool-writers)<!-- GAME:END -->
+ - [Netflix officially announces Squid Game season 2](https://www.polygon.com/22771995/squid-game-creator-confirms-season-2-return-seong-gi-hun)
+ - [Demon Slayer, Pokémon Voice Actor Billy Kametz Passes Away At 35](https://kotaku.com/billy-kametz-voice-actor-pokemon-fire-emblem-persona-5-1849053311)
+ - [Deceive Inc. is a unique take on competitive multiplayer shooters](https://www.pcgamer.com/deceive-inc-is-a-unique-take-on-competitive-multiplayer-shooters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
