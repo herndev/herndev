@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better than the German Mouse Trap](http://9gag.com/gag/avABgOW)
- - ⏩ [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)
- - 👉 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)<!-- MEMES:END -->
+ - 💣 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
+ - ⏩ [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
+ - 👉 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)<!-- MEMES:END -->
 
 ---
 
