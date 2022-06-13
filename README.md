@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Google engineer thinks its AI has become sentient, which seems... fine](https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine)
- - [Starfield looks like Fallout in space, with a bit of No Man&#39;s Sky thrown in](https://www.pcgamer.com/starfield-looks-like-fallout-in-space-with-a-bit-of-no-mans-sky-thrown-in)
- - [Mana is the perfect rewards debit card for gamers](https://www.pcgamer.com/mana-is-the-perfect-rewards-debit-card-for-gamers)<!-- GAME:END -->
+ - [There&#39;s no way all 1,000 explorable planets in Starfield are actually interesting](https://www.pcgamer.com/theres-no-way-all-1000-explorable-planets-in-starfield-are-actually-interesting)
+ - [Get Ark: Survival Evolved for free on Steam for a limited time](https://www.pcgamer.com/get-ark-survival-evolved-for-free-on-steam-for-a-limited-time)
+ - [A Google engineer thinks its AI has become sentient, which seems... fine](https://www.pcgamer.com/a-google-engineer-thinks-its-ai-has-become-sentient-which-seems-fine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
