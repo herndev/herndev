@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Amazon entices creators to join its Influencer Program, which launched in 2017 and pays a commission for generated sales, by flying them to resorts and more &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220612/p8#a220612p8)
- - [Astronomers May Have Discovered the First Wandering Black Hole     - CNET](https://www.cnet.com/science/space/astronomers-may-have-discovered-the-first-wandering-black-hole/#ftag=CAD590a51e)
- - [Smooth switching between AR and VR could be big Apple headset feature, says Kuo](https://appleinsider.com/articles/22/06/12/smooth-switching-between-ar-and-vr-could-be-big-apple-headset-feature-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [Intel claims its Intel 4 node, its first to use EUV lithography, offers 21.5% higher frequencies or 40% power reduction vs Intel 7, up to 2x transistor density &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220612/p10#a220612p10)
+ - [DeFi lending platform Celsius pauses &quot;all withdrawals, Swap, and transfers between accounts&quot;, citing extreme market conditions &lpar;Celsius&rpar;](http://www.techmeme.com/220612/p9#a220612p9)
+ - [How Amazon entices creators to join its Influencer Program, which launched in 2017 and pays a commission for generated sales, by flying them to resorts and more &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220612/p8#a220612p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
