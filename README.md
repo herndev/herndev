@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo IV Won’t Be Anything Like Diablo Immortal, Blizzard Promises](https://kotaku.com/diablo-iv-4-blizzard-immortal-microtransactions-damage-1849055038)
- - [Tech is notoriously anti-union. Microsoft is taking a different approach — neutrality](https://www.polygon.com/23166217/microsoft-labor-union-neutrality-agreement-code-cwa-raven-software)
- - [Call of Duty: Warzone has a preview for its new map, Fortune’s Keep](https://www.polygon.com/call-of-duty/23166316/call-of-duty-warzone-fortunes-keep-new-minimap-tac-season-4)<!-- GAME:END -->
+ - [A Big Nintendo Direct Might Be Coming Soon](https://kotaku.com/nintendo-direct-botw-2-splatoon-3-metroid-prime-4-e3-ju-1849055479)
+ - [Lightyear follows a familiar Pixar theme — and that’s its biggest problem](https://www.polygon.com/reviews/23166374/lightyear-review-pixar-toy-story)
+ - [Welcome to Backfirewall_](https://news.xbox.com/en-us/2022/06/13/welcome-to-backfirewall_/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
