@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set alarms on your Garmin watch](https://www.androidauthority.com/garmin-set-alarms-3173088/)
- - [Save 30% on the Fitbit Versa 3, and more of the latest smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [How to boot into safe mode in Windows 11](https://www.androidauthority.com/boot-safe-mode-windows-11-3174565/)<!-- TECH:END -->
+ - [Why It’s Impossible to Rent a Car Right Now](https://www.wired.com/story/car-rental-pandemic-shortage/)
+ - [Streaming Is Too Big for Its Own Good](https://www.wired.com/story/streaming-too-big/)
+ - [How Ukraine Is Winning the Propaganda War](https://www.wired.com/story/ukraine-propaganda-war/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
