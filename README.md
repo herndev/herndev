@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How coaches and sports teams are using computer vision to predict injuries and provide tailored workouts and practice drills to reduce the risk of injury &lpar;Eric Niiler/Wall Street Journal&rpar;](http://www.techmeme.com/220613/p1#a220613p1)
  - [Intel claims its Intel 4 node, its first to use EUV lithography, offers 21.5% higher frequencies or 40% power reduction vs Intel 7, up to 2x transistor density &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220612/p10#a220612p10)
- - [DeFi lending platform Celsius pauses &quot;all withdrawals, Swap, and transfers between accounts&quot;, citing extreme market conditions &lpar;Celsius&rpar;](http://www.techmeme.com/220612/p9#a220612p9)
- - [How Amazon entices creators to join its Influencer Program, which launched in 2017 and pays a commission for generated sales, by flying them to resorts and more &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220612/p8#a220612p8)<!-- TECH:END -->
+ - [DeFi lending platform Celsius pauses &quot;all withdrawals, Swap, and transfers between accounts&quot;, citing extreme market conditions &lpar;Celsius&rpar;](http://www.techmeme.com/220612/p9#a220612p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
