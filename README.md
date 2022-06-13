@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This single PCIe 4.0 RAID controller can deliver a ridiculous 28,000 MB/s in SSD bandwidth speeds](https://www.pcgamer.com/this-single-pcie-40-raid-controller-can-deliver-a-ridiculous-28000-mbs-in-ssd-bandwidth-speeds)
- - [Bethesda confirms your Starfield character will be a silent protagonist](https://www.pcgamer.com/bethesda-confirms-your-starfield-character-will-be-a-silent-protagonist)
- - [If You Want To Get The Most Out of Mario Strikers: Battle League Make Some Friends](https://kotaku.com/super-mario-strikers-battle-league-multiplayer-nintendo-1849053927)<!-- GAME:END -->
+ - [Fallout Shelter Turns 7 with Anniversary Giveaways and Sale](https://news.xbox.com/en-us/2022/06/13/fallout-shelter-turns-7-with-anniversary-giveaways-and-sale/)
+ - [New Elden Ring patch adds the game&#39;s biggest quality of life improvement yet](https://www.pcgamer.com/elden-ring-will-finally-let-you-quit-straight-to-desktop)
+ - [This single PCIe 4.0 RAID controller can deliver a ridiculous 28,000 MB/s in SSD bandwidth speeds](https://www.pcgamer.com/this-single-pcie-40-raid-controller-can-deliver-a-ridiculous-28000-mbs-in-ssd-bandwidth-speeds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
