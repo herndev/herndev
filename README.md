@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning versus USB-C: Pros and cons for the iPhone](https://appleinsider.com/articles/22/06/13/lightning-versus-usb-c-pros-and-cons-for-the-iphone?utm_medium=rss)
- - [Amazon.com is having some problems right now](https://www.theverge.com/2022/6/13/23166246/amazon-down-error-message-outage)
- - [June 2022 patch landing now on the Samsung Galaxy Note 10 series](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)<!-- TECH:END -->
+ - [BlockFi and Crypto.com lay off hundreds of staff as coins slump](https://www.theverge.com/2022/6/13/23166028/blockfi-crypto-com-layoffs-cryptocurrency-defi-slump-halts)
+ - [Pokemon Go June Community Day: Deino, Event Move, Bonuses and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-june-community-day-deino-event-move-bonuses-and-more/#ftag=CAD590a51e)
+ - [Best TV for 2022: Our Favorite Models, Brands and Sizes for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
