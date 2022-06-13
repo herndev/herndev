@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Shelter Turns 7 with Anniversary Giveaways and Sale](https://news.xbox.com/en-us/2022/06/13/fallout-shelter-turns-7-with-anniversary-giveaways-and-sale/)
- - [New Elden Ring patch adds the game&#39;s biggest quality of life improvement yet](https://www.pcgamer.com/elden-ring-will-finally-let-you-quit-straight-to-desktop)
- - [This single PCIe 4.0 RAID controller can deliver a ridiculous 28,000 MB/s in SSD bandwidth speeds](https://www.pcgamer.com/this-single-pcie-40-raid-controller-can-deliver-a-ridiculous-28000-mbs-in-ssd-bandwidth-speeds)<!-- GAME:END -->
+ - [Diablo IV Won’t Be Anything Like Diablo Immortal, Blizzard Promises](https://kotaku.com/diablo-iv-4-blizzard-immortal-microtransactions-damage-1849055038)
+ - [Tech is notoriously anti-union. Microsoft is taking a different approach — neutrality](https://www.polygon.com/23166217/microsoft-labor-union-neutrality-agreement-code-cwa-raven-software)
+ - [Call of Duty: Warzone has a preview for its new map, Fortune’s Keep](https://www.polygon.com/call-of-duty/23166316/call-of-duty-warzone-fortunes-keep-new-minimap-tac-season-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
