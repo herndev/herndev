@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)
- - ⏩ [I miss cartoon network &lpar;30 years old&rpar;](http://9gag.com/gag/aDDq0Pw)
- - 👉 [I harvested my first honey today. Who wants a glas?](http://9gag.com/gag/aPZVvpR)<!-- MEMES:END -->
+ - 💣 [I harvested my first honey today. Who wants a glas?](http://9gag.com/gag/aPZVvpR)
+ - ⏩ [Better than the German Mouse Trap](http://9gag.com/gag/avABgOW)
+ - 👉 [A choir of Danish girls practicing from their balcony suddenly find themselves performing for former US president Barack Obama &lpar;credit to ungklang_ on IG&rpar;](http://9gag.com/gag/aBnbKG2)<!-- MEMES:END -->
 
 ---
 
