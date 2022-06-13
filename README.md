@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best H4 Blixen loadouts for Warzone Season 3: Reloaded](https://www.pcgamer.com/best-h4-blixen-warzone-loadout)
- - [Have an AMD PC? Update your BIOS to nix some stuttering issues](https://www.pcgamer.com/its-absolutely-worth-updating-your-amd-pc-with-the-latest-round-of-bios-updates)
- - [Hell yeah, Persona 5 Royal and Persona 3 Portable are coming to Steam](https://www.pcgamer.com/oh-hell-yes-persona-5-royal-is-actually-coming-to-pc)<!-- GAME:END -->
+ - [Soulstice is budget Devil May Cry, but I kind of dig it](https://www.pcgamer.com/soulstice-preview)
+ - [Battle royale Super People begins its final closed beta testing in August](https://www.pcgamer.com/battle-royale-super-people-begins-its-final-closed-beta-testing-in-august)
+ - [Kojima Productions has to clarify it still likes Sony after fanboy implosion](https://www.pcgamer.com/kojima-productions-has-to-clarify-it-still-likes-sony-after-fanboy-implosion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
