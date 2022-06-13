@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True.. True..](http://9gag.com/gag/aGzrRrw)
- - ⏩ [Two men led a team of 80 people, spent 5 years collecting 1.2 million golden orb spiders, milked them for their silk, and created the rarest textile on Earth: A golden silk cape.](http://9gag.com/gag/aDDqoY7)
- - 👉 [That guy xD](http://9gag.com/gag/avABL1X)<!-- MEMES:END -->
+ - 💣 [That guy xD](http://9gag.com/gag/avABL1X)
+ - ⏩ [We wuz Sorceresses](http://9gag.com/gag/aXrmXxb)
+ - 👉 [Don\u2019t be a sheep](http://9gag.com/gag/a61eLn8)<!-- MEMES:END -->
 
 ---
 
