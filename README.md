@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This show is packed with golden moments like this](http://9gag.com/gag/aE8jnYn)
- - ⏩ [Good guy FBI](http://9gag.com/gag/aLvO9zA)
- - 👉 [Two men led a team of 80 people, spent 5 years collecting 1.2 million golden orb spiders, milked them for their silk, and created the rarest textile on Earth: A golden silk cape.](http://9gag.com/gag/aDDqoY7)<!-- MEMES:END -->
+ - 💣 [Remember when this gif was banned](http://9gag.com/gag/arnDKqp)
+ - ⏩ [Bitcoin right now](http://9gag.com/gag/aAGLp5L)
+ - 👉 [A bunch of morons](http://9gag.com/gag/aRr8eej)<!-- MEMES:END -->
 
 ---
 
