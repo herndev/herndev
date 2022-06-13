@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix officially announces Squid Game season 2](https://www.polygon.com/22771995/squid-game-creator-confirms-season-2-return-seong-gi-hun)
- - [Demon Slayer, Pokémon Voice Actor Billy Kametz Passes Away At 35](https://kotaku.com/billy-kametz-voice-actor-pokemon-fire-emblem-persona-5-1849053311)
- - [Deceive Inc. is a unique take on competitive multiplayer shooters](https://www.pcgamer.com/deceive-inc-is-a-unique-take-on-competitive-multiplayer-shooters)<!-- GAME:END -->
+ - [One Piece Just Said &#39;Trans Rights&#39; In The Most Oda Way Possible](https://kotaku.com/one-piece-yamato-kiku-trans-wano-eiichiro-oda-chapter-1849053700)
+ - [10 must-watch anime arriving for the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
+ - [Diablo 4’s monetization isn’t like Diablo Immortal, Blizzard says](https://www.polygon.com/23165978/diablo-4-microtransactions-monetization-diablo-immortal-pay-2-win-cosmetics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
