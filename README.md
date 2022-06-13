@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why It’s Impossible to Rent a Car Right Now](https://www.wired.com/story/car-rental-pandemic-shortage/)
- - [Streaming Is Too Big for Its Own Good](https://www.wired.com/story/streaming-too-big/)
- - [How Ukraine Is Winning the Propaganda War](https://www.wired.com/story/ukraine-propaganda-war/)<!-- TECH:END -->
+ - [TP-Link’s new smart plug adds HomeKit and energy monitoring](https://www.theverge.com/2022/6/13/23162475/tp-link-kasa-smart-plug-mini-energy-monitoring-homekit-price-specs-release-date)
+ - [A skeptical look at crypto as a foundation for self-sovereign identity and some likely dystopian outcomes, as Buterin, Dorsey, and others explore the idea &lpar;Molly White&rpar;](http://www.techmeme.com/220613/p8#a220613p8)
+ - [iPhone 14 front camera gaining auto-focus, says Kuo](https://appleinsider.com/articles/22/06/13/apple-to-add-autofocus-to-iphone-front-camera-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
