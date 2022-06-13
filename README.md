@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deal: Amazon slashes Apple&#39;s 14-inch MacBook Pro to $1,799](https://appleinsider.com/articles/22/06/13/early-prime-day-deal-amazon-slashes-apples-14-inch-macbook-pro-to-1799?utm_medium=rss)
- - [EU document: Meta, Twitter, Google, TikTok, and others agree to tougher EU disinformation rules, including mandatory country-by-country content removal reports &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220613/p16#a220613p16)
- - [How to turn off and restart your iPhone 13](https://www.androidauthority.com/turn-off-restart-iphone-13-3175803/)<!-- TECH:END -->
+ - [FAA requiring SpaceX to make changes to its Texas Starbase launch site to lessen environmental impact](https://www.theverge.com/2022/6/13/22994460/spacex-faa-starbase-boca-chica-texas-environmental-review-mitigated-fonsi)
+ - [Watch the trailer for The Verge’s first Netflix show, The Future Of](https://www.theverge.com/23159664/the-future-of-trailer-netflix-show-release-date)
+ - [Bitcoin price plummets below $25K following Celsius freeze](https://www.theverge.com/2022/6/13/23165611/bitcoin-ethereum-crypto-price-drop-celsius)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
