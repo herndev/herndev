@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)
- - ⏩ [We are absolutely nothing.](http://9gag.com/gag/aLvOBQ6)
+ - 💣 [Better than the German Mouse Trap](http://9gag.com/gag/avABgOW)
+ - ⏩ [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)
  - 👉 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)<!-- MEMES:END -->
 
 ---
