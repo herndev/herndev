@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess, i will need one](http://9gag.com/gag/apgn0A8)
- - ⏩ [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
- - 👉 [Time flies](http://9gag.com/gag/azevE1Z)<!-- MEMES:END -->
+ - 💣 [Japanese Companies that Specialize in Helping People Vanish without a Trace](http://9gag.com/gag/abgLyy8)
+ - ⏩ [How teeth are connected to the nervous system](http://9gag.com/gag/abgLyWX)
+ - 👉 [Which one&#39;s more believable?](http://9gag.com/gag/aRr8PXM)<!-- MEMES:END -->
 
 ---
 
