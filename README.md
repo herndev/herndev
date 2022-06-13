@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah what about apache helicopter ?](http://9gag.com/gag/aWge06K)
- - ⏩ [When the time hits, you gotta do it](http://9gag.com/gag/aRr8Qnq)
- - 👉 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)<!-- MEMES:END -->
+ - 💣 [This is my most favourite scene of all time. This is a question that will become more and more relevant with each year of our technological progress.](http://9gag.com/gag/aXrmEp6)
+ - ⏩ [I miss cartoon network &lpar;30 years old&rpar;](http://9gag.com/gag/aDDq0Pw)
+ - 👉 [I harvested my first honey today. Who wants a glas?](http://9gag.com/gag/aPZVvpR)<!-- MEMES:END -->
 
 ---
 
