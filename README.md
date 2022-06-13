@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember when this gif was banned](http://9gag.com/gag/arnDKqp)
- - ⏩ [Bitcoin right now](http://9gag.com/gag/aAGLp5L)
+ - 💣 [Let us take a moment and thank these brave men for their service!](http://9gag.com/gag/azevAyj)
+ - ⏩ [Big brain move](http://9gag.com/gag/azevjjj)
  - 👉 [A bunch of morons](http://9gag.com/gag/aRr8eej)<!-- MEMES:END -->
 
 ---
