@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Big Nintendo Direct Might Be Coming Soon](https://kotaku.com/nintendo-direct-botw-2-splatoon-3-metroid-prime-4-e3-ju-1849055479)
- - [Lightyear follows a familiar Pixar theme — and that’s its biggest problem](https://www.polygon.com/reviews/23166374/lightyear-review-pixar-toy-story)
- - [Welcome to Backfirewall_](https://news.xbox.com/en-us/2022/06/13/welcome-to-backfirewall_/)<!-- GAME:END -->
+ - [Diablo Immortal Slammed On Metacritic, Now Holds Lowest User Score Ever](https://kotaku.com/diablo-immortal-metacritic-user-score-blizzard-free-to-1849055624)
+ - [Dying Light 2 gets free missions and photo mode in next patch](https://www.polygon.com/23166583/dying-light-2-patch-new-mission-nightrunner-dlc-photo-mode)
+ - [Watch the Capcom showcase here](https://www.pcgamer.com/watch-the-capcom-showcase-here)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
