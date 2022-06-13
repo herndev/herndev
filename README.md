@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung will fix your cracked screen for just $50 for a limited time](https://www.androidauthority.com/fix-cracked-samsung-3176020/)
- - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)
- - [Steam Next Fest is back, with demos, livestreams, and a special badge](https://www.theverge.com/2022/6/13/23166512/steam-next-fest-pc-game-demos-livestreams-badge)<!-- TECH:END -->
+ - [Qualcomm acquires Cellwize, a software platform that helps carriers operate their networks more efficiently, for an undisclosed amount; Cellwize raised $56.5M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220613/p21#a220613p21)
+ - [A One Punch Man live-action movie is in the works](https://www.theverge.com/2022/6/13/23166543/one-punch-man-live-action-sony-pictures-justin-lin)
+ - [How to start streaming on Twitch from your PS5](https://www.androidauthority.com/stream-twitch-ps5-3176022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
