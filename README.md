@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based Malaysia](http://9gag.com/gag/adgWjxj)
- - ⏩ [A bunch of morons](http://9gag.com/gag/aRr8eej)
- - 👉 [Let us take a moment and thank these brave men for their service!](http://9gag.com/gag/azevAyj)<!-- MEMES:END -->
+ - 💣 [Denmark and Canada no longer at war, island has been split in half.](http://9gag.com/gag/aDDqj6d)
+ - ⏩ [Let us take a moment and thank these brave men for their service!](http://9gag.com/gag/azevAyj)
+ - 👉 [Good guy FBI](http://9gag.com/gag/aLvO9zA)<!-- MEMES:END -->
 
 ---
 
