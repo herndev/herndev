@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Budget-Friendly Laptop Alert: Grab This Asus PC for Just $130 Today &lpar;$120 Off&rpar;     - CNET](https://www.cnet.com/tech/computing/budget-friendly-laptop-alert-grab-this-asus-pc-for-just-130-today-120-off/#ftag=CAD590a51e)
- - [Binance temporarily pauses BTC withdrawals, citing a &quot;stuck transaction&quot;, initially giving a ~30 minute timeframe; no updates have been given for 90+ minutes &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220613/p12#a220613p12)
- - [How to find your phone using your Garmin watch](https://www.androidauthority.com/garmin-find-my-phone-3174073/)<!-- TECH:END -->
+ - [How to watch Congress’ public January 6th hearings](https://www.theverge.com/2022/6/9/23160981/congresss-january-6th-hearings-watch-live-stream-date-start-time)
+ - [Sources: Alphabet has offered to let rival ad intermediaries place ads on YouTube to address a key part of an EU antitrust probe that the EC opened last year &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220613/p14#a220613p14)
+ - [Amazon’s troubled drone delivery project is finally taking off](https://www.theverge.com/2022/6/13/23165727/amazon-drone-delivery-pilot-lockeford-faa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
