@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle Q4: revenue grew 5.5% YoY to $11.84B, vs $11.7B est., with total cloud revenue up 19% YoY to $2.9B and net income down 21% YoY to $3.2B; stock jumps 8%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220613/p19#a220613p19)
- - [Genshin Impact: How to change your server](https://www.androidauthority.com/genshin-impact-change-server-3175985/)
- - [The Activision Blizzard Union Win Is Only a Beginning](https://www.wired.com/story/activision-blizzard-union-negotiations/)<!-- TECH:END -->
+ - [Samsung will fix your cracked screen for just $50 for a limited time](https://www.androidauthority.com/fix-cracked-samsung-3176020/)
+ - [You can get a 48-inch LG C1 OLED TV for its lowest price ever](https://www.theverge.com/good-deals/2022/6/10/23161244/lg-c1-a1-oled-tv-beats-fit-pro-sony-earbuds-paramount-plus-deal-sale)
+ - [Steam Next Fest is back, with demos, livestreams, and a special badge](https://www.theverge.com/2022/6/13/23166512/steam-next-fest-pc-game-demos-livestreams-badge)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
