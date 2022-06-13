@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer guide #359: Monday, June 13](https://www.pcgamer.com/todays-wordle-answer-guide-359-monday-june-13)
  - [The Xbox &amp; Bethesda showcase removed the usual hype, but added some uncertainty](https://www.pcgamer.com/the-xbox-and-bethesda-showcase-removed-the-usual-hype-but-added-some-uncertainty)
- - [There&#39;s no way all 1,000 explorable planets in Starfield are actually interesting](https://www.pcgamer.com/theres-no-way-all-1000-explorable-planets-in-starfield-are-actually-interesting)
- - [Get Ark: Survival Evolved for free on Steam for a limited time](https://www.pcgamer.com/get-ark-survival-evolved-for-free-on-steam-for-a-limited-time)<!-- GAME:END -->
+ - [There&#39;s no way all 1,000 explorable planets in Starfield are actually interesting](https://www.pcgamer.com/theres-no-way-all-1000-explorable-planets-in-starfield-are-actually-interesting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
