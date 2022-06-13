@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Netflix’s Spiderhead, Deadpool’s writing team tackles somber, serious sci-fi](https://www.polygon.com/reviews/23163147/spiderhead-review-chris-hemsworth-deadpool-writers)
- - [Hands-on: Warhammer 40K: Darktide absolutely rules](https://www.pcgamer.com/hands-on-warhammer-40k-darktide-absolutely-rules)
- - [AMD hero is giving Return to Castle Wolfenstein a path tracing upgrade](https://www.pcgamer.com/amd-hero-is-giving-return-to-castle-wolfenstein-a-path-tracing-upgrade)<!-- GAME:END -->
+ - [Stalker 2 delayed until 2023](https://www.pcgamer.com/stalker-2-delayed-until-2023)
+ - [How to make a recovery compass in Minecraft](https://www.pcgamer.com/minecraft-recovery-compass)
+ - [In Netflix’s Spiderhead, Deadpool’s writing team tackles somber, serious sci-fi](https://www.polygon.com/reviews/23163147/spiderhead-review-chris-hemsworth-deadpool-writers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
