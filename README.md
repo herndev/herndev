@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeFi lending giant Celsius halts withdrawals](https://www.theverge.com/2022/6/13/23165401/defi-cryptocurrency-celsius-network-pause-withdrawals)
- - [How coaches and sports teams are using computer vision to predict injuries and provide tailored workouts and practice drills to reduce the risk of injury &lpar;Eric Niiler/Wall Street Journal&rpar;](http://www.techmeme.com/220613/p1#a220613p1)
- - [Intel claims its Intel 4 node, its first to use EUV lithography, offers 21.5% higher frequencies or 40% power reduction vs Intel 7, up to 2x transistor density &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220612/p10#a220612p10)<!-- TECH:END -->
+ - [Celsius&#39;s token CEL fell 70% in one hour after the DeFi lending giant suspended withdrawals, now at about 20 cents amid a broader crypto market slump &lpar;Daniel Roberts/Decrypt&rpar;](http://www.techmeme.com/220613/p3#a220613p3)
+ - [Samsung Galaxy Z Flip 4 shows up in the real world way ahead of launch](https://www.androidauthority.com/samsung-galaxy-z-flip-4-live-images-3175634/)
+ - [Belgium-based Odoo, which makes open source ERP and CRM software for SMBs globally, raises &amp;euro;112M from Summit Partners at a &amp;euro;3.2B valuation &lpar;Robin Wauters/Tech.eu&rpar;](http://www.techmeme.com/220613/p2#a220613p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
