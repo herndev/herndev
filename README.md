@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [bttn, a B2B marketplace for medical supplies, has raised a $20M Series A led by Tiger Global at a $110M post-money valuation and says it has 7,000 customers &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220613/p11#a220613p11)
- - [Astra’s failed launch resulted in the loss of two NASA weather satellites](https://www.theverge.com/2022/6/12/23165065/astra-failed-launch-resulted-loss-nasa-weather-satellites-cubesats-tropics)
- - [Early Prime Day deal: Amazon slashes Apple&#39;s 14-inch MacBook Pro to $1,799](https://appleinsider.com/articles/22/06/13/early-prime-day-deal-amazon-slashes-apples-14-inch-macbook-pro-to-1799?utm_medium=rss)<!-- TECH:END -->
+ - [Budget-Friendly Laptop Alert: Grab This Asus PC for Just $130 Today &lpar;$120 Off&rpar;     - CNET](https://www.cnet.com/tech/computing/budget-friendly-laptop-alert-grab-this-asus-pc-for-just-130-today-120-off/#ftag=CAD590a51e)
+ - [Binance temporarily pauses BTC withdrawals, citing a &quot;stuck transaction&quot;, initially giving a ~30 minute timeframe; no updates have been given for 90+ minutes &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220613/p12#a220613p12)
+ - [How to find your phone using your Garmin watch](https://www.androidauthority.com/garmin-find-my-phone-3174073/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
