@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which is your favorite GIF?](http://9gag.com/gag/aBnb3bQ)
- - ⏩ [Improvise. Adapt. Overcome.](http://9gag.com/gag/awz9KYR)
- - 👉 [The perfect vintage aviation photo does not exis...](http://9gag.com/gag/aggpNXq)<!-- MEMES:END -->
+ - 💣 [Diving through clouds](http://9gag.com/gag/aKmXBG3)
+ - ⏩ [We are absolutely nothing.](http://9gag.com/gag/aLvOBQ6)
+ - 👉 [True.. True..](http://9gag.com/gag/aGzrRrw)<!-- MEMES:END -->
 
 ---
 
