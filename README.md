@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BlockFi and Crypto.com lay off hundreds of staff as coins slump](https://www.theverge.com/2022/6/13/23166028/blockfi-crypto-com-layoffs-cryptocurrency-defi-slump-halts)
- - [Pokemon Go June Community Day: Deino, Event Move, Bonuses and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-june-community-day-deino-event-move-bonuses-and-more/#ftag=CAD590a51e)
- - [Best TV for 2022: Our Favorite Models, Brands and Sizes for Every Budget     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oracle Q4: revenue grew 5.5% YoY to $11.84B, vs $11.7B est., with total cloud revenue up 19% YoY to $2.9B and net income down 21% YoY to $3.2B; stock jumps 8%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220613/p19#a220613p19)
+ - [Genshin Impact: How to change your server](https://www.androidauthority.com/genshin-impact-change-server-3175985/)
+ - [The Activision Blizzard Union Win Is Only a Beginning](https://www.wired.com/story/activision-blizzard-union-negotiations/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
