@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Denmark and Canada no longer at war, island has been split in half.](http://9gag.com/gag/aDDqj6d)
- - ⏩ [Let us take a moment and thank these brave men for their service!](http://9gag.com/gag/azevAyj)
- - 👉 [Good guy FBI](http://9gag.com/gag/aLvO9zA)<!-- MEMES:END -->
+ - ⏩ [Right in the nostalgia](http://9gag.com/gag/a118dEv)
+ - 👉 [Hard to argue with that](http://9gag.com/gag/aGzrDR0)<!-- MEMES:END -->
 
 ---
 
