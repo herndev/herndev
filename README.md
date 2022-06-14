@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [DRIFTERU](http://9gag.com/gag/awz9nBD)
- - ⏩ [Slight Design Flaw](http://9gag.com/gag/adgWqQQ)
- - 👉 [Right in the nostalgia](http://9gag.com/gag/a118dEv)<!-- MEMES:END -->
+ - ⏩ [This teacher handling the situation](http://9gag.com/gag/a31zjV7)
+ - 👉 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
 
 ---
 
