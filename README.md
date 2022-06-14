@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple smart ring research extends into accessories for it too](https://appleinsider.com/articles/22/06/14/apple-smart-ring-research-extends-into-accessories-for-it-too?utm_medium=rss)
- - [Apple Fitness+ could grow to $3.6B in revenue by 2025, analyst says](https://appleinsider.com/articles/22/06/14/apple-fitness-could-grow-to-36b-in-revenue-by-2025-analyst-says?utm_medium=rss)
- - [New 13-inch MacBook Pro with M2 will be available to order on June 17](https://appleinsider.com/articles/22/06/14/new-13-inch-macbook-pro-with-m2-will-be-available-to-order-on-june-17?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram will start nudging teens away from content they continuously browse through](https://www.theverge.com/2022/6/14/23167233/instagram-nudge-teens-harmful-content)
+ - [Chevy is auctioning off a Corvette NFT, and the winning bidder gets the car, too](https://www.theverge.com/2022/6/14/23166278/chevy-corvette-nft-xsullo-auction-blockchain-web3-crypto)
+ - [Apple’s M2-equipped 13-inch MacBook Pro opens for preorders on June 17th](https://www.theverge.com/2022/6/14/23167368/apple-macbook-pro-m2-13-inch-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
