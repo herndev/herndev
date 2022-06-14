@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm acquires Cellwize, a software platform that helps carriers operate their networks more efficiently, for an undisclosed amount; Cellwize raised $56.5M &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220613/p21#a220613p21)
- - [A One Punch Man live-action movie is in the works](https://www.theverge.com/2022/6/13/23166543/one-punch-man-live-action-sony-pictures-justin-lin)
- - [How to start streaming on Twitch from your PS5](https://www.androidauthority.com/stream-twitch-ps5-3176022/)<!-- TECH:END -->
+ - [Sequoia launches two new funds, a $2B early-stage, venture and growth fund for India and an $850M dedicated fund for Southeast Asia, the largest in the regions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220613/p24#a220613p24)
+ - [Israel-based Pixellot, which offers AI-automated streaming and video analytics tech for sports broadcasting, raised a $161M Series D led by PSG &lpar;Steve McCaskill/SportsPro&rpar;](http://www.techmeme.com/220613/p23#a220613p23)
+ - [Sources: Elon Musk will address Twitter employees and take questions at a company-wide virtual meeting on Thursday morning &lpar;Bloomberg&rpar;](http://www.techmeme.com/220613/p22#a220613p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
