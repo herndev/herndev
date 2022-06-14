@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Denmark and Canada no longer at war, island has been split in half.](http://9gag.com/gag/aDDqj6d)
- - ⏩ [Right in the nostalgia](http://9gag.com/gag/a118dEv)
- - 👉 [Hard to argue with that](http://9gag.com/gag/aGzrDR0)<!-- MEMES:END -->
+ - 💣 [DRIFTERU](http://9gag.com/gag/awz9nBD)
+ - ⏩ [Slight Design Flaw](http://9gag.com/gag/adgWqQQ)
+ - 👉 [Right in the nostalgia](http://9gag.com/gag/a118dEv)<!-- MEMES:END -->
 
 ---
 
