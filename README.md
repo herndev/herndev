@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mustang Mach-E: Over 48,000 of Ford&#39;s EV Recalled Due to Possible Battery Issue     - CNET](https://www.cnet.com/roadshow/news/mustang-mach-e-over-48000-of-fords-ev-recalled-due-to-possible-battery-issue/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39;: When Does Episode 5 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-5-drop-on-disney-plus/#ftag=CAD590a51e)
- - [How to set up two-factor authentication in iCloud Keychain](https://appleinsider.com/inside/icloud/tips/how-to-set-up-two-factor-authentication-in-icloud-keychain?utm_medium=rss)<!-- TECH:END -->
+ - [Best TV Antenna for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
+ - [Downton Abbey gets a 24/7 channel and a movie premiere on Peacock](https://www.theverge.com/2022/6/14/23167984/peacock-nbc-downton-abbey-new-era-24-7-channel)
+ - [Best Cordless Vacuum for 2022     - CNET](https://www.cnet.com/news/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
