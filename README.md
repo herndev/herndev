@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lime is testing out a new shared electric motorbike in California](https://www.theverge.com/2022/6/14/23167342/lime-citra-motorbike-long-beach-shared-electric-scooter)
- - [Sonos Voice Control assistant review: fast, private, and good at tasks like grouping rooms, but lacks Spotify support and doesn&#39;t understand some artists&#39; names &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220614/p32#a220614p32)
- - [Adidas is suing Nike over its apps and Adapt sneakers](https://www.theverge.com/2022/6/14/23167306/adidas-sues-nike-adapt-sneakers-running-apps)<!-- TECH:END -->
+ - [Mustang Mach-E: Over 48,000 of Ford&#39;s EV Recalled Due to Possible Battery Issue     - CNET](https://www.cnet.com/roadshow/news/mustang-mach-e-over-48000-of-fords-ev-recalled-due-to-possible-battery-issue/#ftag=CAD590a51e)
+ - [&#39;Obi-Wan Kenobi&#39;: When Does Episode 5 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-5-drop-on-disney-plus/#ftag=CAD590a51e)
+ - [How to set up two-factor authentication in iCloud Keychain](https://appleinsider.com/inside/icloud/tips/how-to-set-up-two-factor-authentication-in-icloud-keychain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
