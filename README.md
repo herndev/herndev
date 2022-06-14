@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Live-Action One Punch Man Movie Is In Development](https://kotaku.com/one-punch-man-movie-film-sony-pictures-avi-arad-adaptat-1849056947)
  - [Assassin&#39;s Creed Celebration Stream confirmed for this week](https://www.pcgamer.com/assassins-creed-celebration-stream-confirmed-for-this-week)
- - [Elden Ring Finally Lets PC Players Exit Straight To The Desktop](https://kotaku.com/elden-ring-exit-quit-desktop-update-patch-fromsoftware-1849056581)
- - [Joker 2 will be a musical, with Lady Gaga in early talks to play Harley Quinn](https://www.polygon.com/23166794/joker-2-lady-gaga-musical-harley-quinn-joaquin-phoenix)<!-- GAME:END -->
+ - [Elden Ring Finally Lets PC Players Exit Straight To The Desktop](https://kotaku.com/elden-ring-exit-quit-desktop-update-patch-fromsoftware-1849056581)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
