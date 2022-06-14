@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia launches two new funds, a $2B early-stage, venture and growth fund for India and an $850M dedicated fund for Southeast Asia, the largest in the regions &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220613/p24#a220613p24)
- - [Israel-based Pixellot, which offers AI-automated streaming and video analytics tech for sports broadcasting, raised a $161M Series D led by PSG &lpar;Steve McCaskill/SportsPro&rpar;](http://www.techmeme.com/220613/p23#a220613p23)
- - [Sources: Elon Musk will address Twitter employees and take questions at a company-wide virtual meeting on Thursday morning &lpar;Bloomberg&rpar;](http://www.techmeme.com/220613/p22#a220613p22)<!-- TECH:END -->
+ - [NY-based Capital Rx, whose software lets employers, unions, and insurers handle claims processing and billing for prescription drugs, raises a $106M Series C &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220613/p26#a220613p26)
+ - [Astronomers Found a Twisted Magnetic Field in Deep Space. It Was Hiding a Star     - CNET](https://www.cnet.com/science/space/astronomers-found-a-twisted-magnetic-field-in-deep-space-it-was-hiding-a-star/#ftag=CAD590a51e)
+ - [iPhone 13 Models Compared: The Most Important Differences to Know     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-vs-iphone-13-pro-vs-iphone-13-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
