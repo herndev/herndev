@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Surreal horror RPG Omori coming to consoles this week](https://www.polygon.com/23167959/omori-omocat-nintendo-switch-playstation-xbox-release-date)
- - [Microsoft Flight Simulator Releases Beechcraft Model 18, a New Aircraft in Local Legends Series](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-beechcraft-model-18/)
- - [S.T.A.L.K.E.R. 2 Devs Open Up About Life During The Russian Invasion](https://kotaku.com/stalker-2-russia-invasion-ukraine-release-date-delay-1849061092)<!-- GAME:END -->
+ - [Fallout 76’s Test Your Metal Update is Now Live](https://news.xbox.com/en-us/2022/06/14/fallout-76-test-your-metal-update-is-now-live/)
+ - [Fallout 5 is coming after the next Elder Scrolls game, Todd Howard says](https://www.polygon.com/23167994/fallout-5-todd-howard-elder-scrolls-6)
+ - [Bethesda Really Wants Y’all To Know That Redfall Ain’t Left 4 Dead](https://kotaku.com/redfall-bethesda-left-4-dead-co-op-shooter-rpg-arkane-x-1849061390)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
