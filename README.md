@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 76’s Test Your Metal Update is Now Live](https://news.xbox.com/en-us/2022/06/14/fallout-76-test-your-metal-update-is-now-live/)
- - [Fallout 5 is coming after the next Elder Scrolls game, Todd Howard says](https://www.polygon.com/23167994/fallout-5-todd-howard-elder-scrolls-6)
- - [Bethesda Really Wants Y’all To Know That Redfall Ain’t Left 4 Dead](https://kotaku.com/redfall-bethesda-left-4-dead-co-op-shooter-rpg-arkane-x-1849061390)<!-- GAME:END -->
+ - [Minecraft Legends: everything we know about the new strategy spinoff](https://www.pcgamer.com/minecraft-legends-trailer-gameplay-release-date)
+ - [Todd Howard says Fallout 5 is coming after The Elder Scrolls 6, if we all live that long](https://www.pcgamer.com/todd-howard-says-fallout-5-is-coming-after-the-elder-scrolls-6-if-we-all-live-that-long)
+ - [Fallout 76’s Test Your Metal Update is Now Live](https://news.xbox.com/en-us/2022/06/14/fallout-76-test-your-metal-update-is-now-live/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
