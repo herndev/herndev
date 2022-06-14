@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pakistan-based Dastgyr, which is building an e-commerce service, raised a $37M Series A, the country&#39;s largest-ever, led by telecom Veon&#39;s venture arm &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220614/p7#a220614p7)
- - [Amsterdam-based TestGorilla, which offers skills-based tests in place of CVs to help eliminate hiring bias, raised a $70M Series A led by Atomico and Balderton &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220614/p6#a220614p6)
- - [Alibaba and Tencent are struggling to grow their cloud businesses after Beijing&#39;s tech crackdown and competition from politically favored Huawei and others &lpar;Financial Times&rpar;](http://www.techmeme.com/220614/p5#a220614p5)<!-- TECH:END -->
+ - [Craig Federighi promises iPad Stage Management improvements coming](https://appleinsider.com/articles/22/06/14/craig-federighi-promises-ipad-stage-management-improvements-coming?utm_medium=rss)
+ - [When Covid Came for Provincetown](https://www.wired.com/story/provincetown-covid-delta-outbreak-response/)
+ - [A Chinese regulator says automaker Geely plans to acquire a 79% stake in smartphone maker Meizu for an undisclosed amount and release a smartphone by 2023 &lpar;Brenda Goh/Reuters&rpar;](http://www.techmeme.com/220614/p10#a220614p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
