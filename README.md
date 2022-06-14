@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [STALKER 2 now coming in 2023](https://www.polygon.com/23167834/stalker-2-delayed-release-date-trailer-xbox-game-pass-pc)
- - [Microsoft Flight Simulator Releases World Update X: United States and US Territories Today](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-world-update-10/)
- - [Callisto Protocol creator Glen Schofield says: &#39;We&#39;re trying to be even more gross&#39;](https://www.pcgamer.com/callisto-protocol-creator-glen-schofield-says-were-trying-to-be-even-more-gross)<!-- GAME:END -->
+ - [Surreal horror RPG Omori coming to consoles this week](https://www.polygon.com/23167959/omori-omocat-nintendo-switch-playstation-xbox-release-date)
+ - [Microsoft Flight Simulator Releases Beechcraft Model 18, a New Aircraft in Local Legends Series](https://news.xbox.com/en-us/2022/06/14/microsoft-flight-simulator-releases-beechcraft-model-18/)
+ - [S.T.A.L.K.E.R. 2 Devs Open Up About Life During The Russian Invasion](https://kotaku.com/stalker-2-russia-invasion-ukraine-release-date-delay-1849061092)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
