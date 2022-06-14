@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Virtual Reality](http://9gag.com/gag/aVx931K)
- - ⏩ [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
- - 👉 [Easy pick for artists](http://9gag.com/gag/amgO70d)<!-- MEMES:END -->
+ - 💣 [Crypto currency goin brrrrr](http://9gag.com/gag/ang0975)
+ - ⏩ [Make Seawater drinkable.](http://9gag.com/gag/aDDq1O7)
+ - 👉 [My neighbor threw this kitten out because it was `meowing too much`. I guess I have a cat now.. Looking for name ideas..](http://9gag.com/gag/aAGLDX9)<!-- MEMES:END -->
 
 ---
 
