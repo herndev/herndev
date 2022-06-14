@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba and Tencent are struggling to grow their cloud businesses after Beijing&#39;s tech crackdown and competition from politically favored Huawei and others &lpar;Financial Times&rpar;](http://www.techmeme.com/220614/p5#a220614p5)
- - [Samsung Galaxy S20 FE gets June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Google Maps now estimates toll charges for your journey](https://www.theverge.com/2022/6/14/23167107/google-maps-toll-estimates-us-india-japan-indonesia)<!-- TECH:END -->
+ - [Pakistan-based Dastgyr, which is building an e-commerce service, raised a $37M Series A, the country&#39;s largest-ever, led by telecom Veon&#39;s venture arm &lpar;Faseeh Mangi/Bloomberg&rpar;](http://www.techmeme.com/220614/p7#a220614p7)
+ - [Amsterdam-based TestGorilla, which offers skills-based tests in place of CVs to help eliminate hiring bias, raised a $70M Series A led by Atomico and Balderton &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220614/p6#a220614p6)
+ - [Alibaba and Tencent are struggling to grow their cloud businesses after Beijing&#39;s tech crackdown and competition from politically favored Huawei and others &lpar;Financial Times&rpar;](http://www.techmeme.com/220614/p5#a220614p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
