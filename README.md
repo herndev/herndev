@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple issues third developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/06/14/apple-issues-third-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
- - [Apple seeds third developer beta of macOS Monterey 12.5](https://appleinsider.com/articles/22/06/14/apple-seeds-third-developer-beta-of-macos-monterey-125?utm_medium=rss)
- - [Wonder, a food delivery app led by Marc Lore, raised $350M last month, sources say at a $3.5B valuation, bringing its total raised to $900M in equity and debt &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/220614/p26#a220614p26)<!-- TECH:END -->
+ - [Overwatch 2’s next beta kicks off at the end of June, and it’s coming to PlayStation and Xbox](https://www.theverge.com/2022/6/14/23167691/overwatch-2-beta-pc-console-playstation-xbox)
+ - [What Black One Direction Fans Reveal About Activism and Fandom](https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/)
+ - [There are only a few good reasons to buy the new 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/14/there-are-only-a-few-good-reasons-to-buy-the-new-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
