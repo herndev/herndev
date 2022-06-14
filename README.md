@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Some of you use a 4K TV as a monitor, but there’s more to it](https://www.androidauthority.com/4k-tv-monitor-poll-results-3176281/)
- - [Coinbase plans to reduce its headcount by ~18%, or ~1,100 people, seeking to &quot;stay healthy during this economy downturn&quot;, saying the company &quot;grew too quickly&quot; &lpar;Brian Armstrong/The Coinbase Blog&rpar;](http://www.techmeme.com/220614/p17#a220614p17)
- - [Apple&#39;s macOS Ventura beta review: great new features, but some concerns](https://appleinsider.com/articles/22/06/14/apples-macos-ventura-beta-review-great-new-features-but-some-concerns?utm_medium=rss)<!-- TECH:END -->
+ - [Firefox boosts privacy by giving ‘total cookie protection’ to all users by default](https://www.theverge.com/2022/6/14/23166537/firefox-privacy-total-cookie-protection-default)
+ - [Adobe begins testing a free-to-use version of Photoshop for the web in Canada; some features will eventually be subscriber-only &lpar;Jacob Kastrenakes/The Verge&rpar;](http://www.techmeme.com/220614/p19#a220614p19)
+ - [Anker’s noise-canceling Soundcore Liberty Air 2 Pro earbuds are just $70](https://www.theverge.com/good-deals/2022/6/14/23165802/anker-soundcore-liberty-air-2-pro-amazon-fire-hd-10-philips-hue-kindle-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
