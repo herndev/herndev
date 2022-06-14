@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bumble is pushing for legislation across several US states that penalizes &quot;cyberflashing&quot;, the act of sending unwanted sexual images to another person online &lpar;Valeriya Safronova/New York Times&rpar;](http://www.techmeme.com/220614/p4#a220614p4)
  - [NYU report details how influencers backing India&#39;s BJP have used YouTube to spread conspiracy theories and hateful content targeting Muslims and women in India &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/220614/p3#a220614p3)
- - [Google engineer says AI chatbot has developed feelings, gets suspended](https://www.androidauthority.com/google-lamda-3176080/)
- - [Craig Federighi says Stage Manager is exclusive to M1 iPads because it requires the M1&#39;s better GPU, virtual memory, storage, and RAM for a seamless experience &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/220614/p2#a220614p2)<!-- TECH:END -->
+ - [Google engineer says AI chatbot has developed feelings, gets suspended](https://www.androidauthority.com/google-lamda-3176080/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
