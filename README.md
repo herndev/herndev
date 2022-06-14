@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
- - ⏩ [This shit right here man.](http://9gag.com/gag/aegqbnp)
- - 👉 [Makes sense](http://9gag.com/gag/a118K2P)<!-- MEMES:END -->
+ - 💣 [The Boys](http://9gag.com/gag/amgOYKv)
+ - ⏩ [Makes sense](http://9gag.com/gag/a118K2P)
+ - 👉 [Pay Taxes or Enjoy the Tax benefits!](http://9gag.com/gag/aqGV7Zp)<!-- MEMES:END -->
 
 ---
 
