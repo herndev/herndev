@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft Legends: everything we know about the new strategy spinoff](https://www.pcgamer.com/minecraft-legends-trailer-gameplay-release-date)
- - [Todd Howard says Fallout 5 is coming after The Elder Scrolls 6, if we all live that long](https://www.pcgamer.com/todd-howard-says-fallout-5-is-coming-after-the-elder-scrolls-6-if-we-all-live-that-long)
- - [Fallout 76’s Test Your Metal Update is Now Live](https://news.xbox.com/en-us/2022/06/14/fallout-76-test-your-metal-update-is-now-live/)<!-- GAME:END -->
+ - [The Story Of 2022&#39;s Biggest Video Game*](https://kotaku.com/video-game-development-story-insider-crunch-delay-misma-1848776267)
+ - [The winner of Netflix&#39;s &#39;real&#39; Squid Game competition will become a multimillionaire](https://www.pcgamer.com/netflix-squid-game-reality-competition-announced)
+ - [Fallout 5 Is Bethesda’s Next Game After Elder Scrolls 6, Will Probably Be Out By 2050](https://kotaku.com/fallout-5-v-bethesda-elder-scrolls-6-release-date-starf-1849062025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
