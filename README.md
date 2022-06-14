@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DRIFTERU](http://9gag.com/gag/awz9nBD)
- - ⏩ [This teacher handling the situation](http://9gag.com/gag/a31zjV7)
- - 👉 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
+ - 💣 [Deadly accurate](http://9gag.com/gag/aNPGze4)
+ - ⏩ [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)
+ - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)<!-- MEMES:END -->
 
 ---
 
