@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)
- - ⏩ [Dark times lately but...gentlemen with great pleasure I got the honors, MBChB. Bachelor of medicine and Bachelor of surgery](http://9gag.com/gag/aWge8jq)
+ - 💣 [Figure that one out...](http://9gag.com/gag/aqGV1EY)
+ - ⏩ [This shit right here man.](http://9gag.com/gag/aegqbnp)
  - 👉 [Makes sense](http://9gag.com/gag/a118K2P)<!-- MEMES:END -->
 
 ---
