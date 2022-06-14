@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Boys](http://9gag.com/gag/amgOYKv)
- - ⏩ [Makes sense](http://9gag.com/gag/a118K2P)
- - 👉 [Pay Taxes or Enjoy the Tax benefits!](http://9gag.com/gag/aqGV7Zp)<!-- MEMES:END -->
+ - 💣 [World\u2019s Greatest Economy](http://9gag.com/gag/aQXDeve)
+ - ⏩ [Retired pro boxer, now working as a security guard sorts troublesome d**head out.](http://9gag.com/gag/aKmXVng)
+ - 👉 [Lmao](http://9gag.com/gag/apgnQ4W)<!-- MEMES:END -->
 
 ---
 
