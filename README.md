@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As part of the Content Authenticity Initiative, Adobe releases a toolkit to let devs integrate content provenance, which can help counter visual misinformation &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220614/p1#a220614p1)
  - [NY-based Capital Rx, whose software lets employers, unions, and insurers handle claims processing and billing for prescription drugs, raises a $106M Series C &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220613/p26#a220613p26)
- - [Astronomers Found a Twisted Magnetic Field in Deep Space. It Was Hiding a Star     - CNET](https://www.cnet.com/science/space/astronomers-found-a-twisted-magnetic-field-in-deep-space-it-was-hiding-a-star/#ftag=CAD590a51e)
- - [iPhone 13 Models Compared: The Most Important Differences to Know     - CNET](https://www.cnet.com/tech/mobile/iphone-13-vs-iphone-13-mini-vs-iphone-13-pro-vs-iphone-13-pro-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Documentaries on Netflix: From Keep Sweet to Our Father     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-from-keep-sweet-to-our-father/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
