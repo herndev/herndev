@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best TV Antenna for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv-antenna/#ftag=CAD590a51e)
- - [Downton Abbey gets a 24/7 channel and a movie premiere on Peacock](https://www.theverge.com/2022/6/14/23167984/peacock-nbc-downton-abbey-new-era-24-7-channel)
- - [Best Cordless Vacuum for 2022     - CNET](https://www.cnet.com/news/best-cordless-vacuum/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to stream on Twitch from your Xbox](https://www.androidauthority.com/stream-twitch-xbox-3176067/)
+ - [Sony’s Gran Turismo film hits theaters in August 2023](https://www.theverge.com/2022/6/14/23168247/sony-gran-turismo-film-movie-release-date)
+ - [Catalyst Black: How to use loadouts](https://www.androidauthority.com/catalyst-black-how-to-use-loadouts-3176461/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
