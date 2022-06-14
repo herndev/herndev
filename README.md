@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fortnite’s new Grapple Gloves will let you swing around the island](https://www.polygon.com/23166184/fortnite-grapple-glove-patch-notes-season-3-chapter-3)
  - [Cloud gaming will save you money but won&#39;t save the planet](https://www.pcgamer.com/cloud-gaming-will-save-you-money-but-wont-save-the-planet)
- - [Xbox doesn’t have a big 2022 game, but does it matter?](https://www.polygon.com/23166392/xbox-game-pass-2022-2023-exclusives)
- - [Upcoming Dragon&#39;s Dogma celebration video has hopes high for a sequel](https://www.pcgamer.com/upcoming-dragons-dogma-celebration-video-has-hopes-high-for-a-sequel)<!-- GAME:END -->
+ - [Xbox doesn’t have a big 2022 game, but does it matter?](https://www.polygon.com/23166392/xbox-game-pass-2022-2023-exclusives)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
