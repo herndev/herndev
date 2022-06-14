@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best mounts and stands to use with Apple&#39;s Continuity Camera feature](https://appleinsider.com/inside/iphone/best/best-mounts-and-stands-to-use-with-apples-continuity-camera-feature?utm_medium=rss)
- - [Last LG phone available through a major US carrier heads out to pasture](https://www.androidauthority.com/last-lg-phone-available-in-us-3176421/)
- - [Rumored 14-inch iPad may not be an iPad Pro after all, analyst claims](https://appleinsider.com/articles/22/06/14/rumored-14-inch-ipad-may-not-be-an-ipad-pro-after-all-analyst-claims?utm_medium=rss)<!-- TECH:END -->
+ - [Lime is testing out a new shared electric motorbike in California](https://www.theverge.com/2022/6/14/23167342/lime-citra-motorbike-long-beach-shared-electric-scooter)
+ - [Sonos Voice Control assistant review: fast, private, and good at tasks like grouping rooms, but lacks Spotify support and doesn&#39;t understand some artists&#39; names &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220614/p32#a220614p32)
+ - [Adidas is suing Nike over its apps and Adapt sneakers](https://www.theverge.com/2022/6/14/23167306/adidas-sues-nike-adapt-sneakers-running-apps)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
