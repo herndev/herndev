@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [World\u2019s Greatest Economy](http://9gag.com/gag/aQXDeve)
- - ⏩ [Retired pro boxer, now working as a security guard sorts troublesome d**head out.](http://9gag.com/gag/aKmXVng)
- - 👉 [Lmao](http://9gag.com/gag/apgnQ4W)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/apgnQ4W)
+ - ⏩ [What nostalgia sounds like](http://9gag.com/gag/aBnb8bN)
+ - 👉 [Easy pick for artists](http://9gag.com/gag/amgO70d)<!-- MEMES:END -->
 
 ---
 
