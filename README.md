@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple and Major League Soccer announce a 10-year broadcasting deal for MLS games, available in the Apple TV app with Apple TV+ in 2023, with some free to watch &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220614/p23#a220614p23)
- - [Adobe Photoshop’s web version might become free for all](https://www.androidauthority.com/adobe-photoshop-free-3176358/)
- - [How Apple could kill CAPTCHAs with Private Access Tokens](https://appleinsider.com/articles/22/06/14/how-apple-could-kill-captchas-with-private-access-tokens?utm_medium=rss)<!-- TECH:END -->
+ - [Apple issues third developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/06/14/apple-issues-third-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)
+ - [Apple seeds third developer beta of macOS Monterey 12.5](https://appleinsider.com/articles/22/06/14/apple-seeds-third-developer-beta-of-macos-monterey-125?utm_medium=rss)
+ - [Wonder, a food delivery app led by Marc Lore, raised $350M last month, sources say at a $3.5B valuation, bringing its total raised to $900M in equity and debt &lpar;Sarah Nassauer/Wall Street Journal&rpar;](http://www.techmeme.com/220614/p26#a220614p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
