@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pay Taxes or Enjoy the Tax benefits!](http://9gag.com/gag/aqGV7Zp)
- - ⏩ [For 50 years, Denmark and Canada has been at `war` over this rock. Today they finally agreed on splitting it. I present to you, the border between Denmark and Canada](http://9gag.com/gag/a0ZDKjX)
- - 👉 [*angry noises*](http://9gag.com/gag/aLvOjGP)<!-- MEMES:END -->
+ - 💣 [Virtual Reality](http://9gag.com/gag/aVx931K)
+ - ⏩ [There are two types of Horror Survival players.](http://9gag.com/gag/aVx93xy)
+ - 👉 [Easy pick for artists](http://9gag.com/gag/amgO70d)<!-- MEMES:END -->
 
 ---
 
