@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Craig Federighi says Stage Manager is exclusive to M1 iPads because it requires the M1&#39;s better GPU, virtual memory, storage, and RAM for a seamless experience &lpar;Matthew Panzarino/TechCrunch&rpar;](http://www.techmeme.com/220614/p2#a220614p2)
  - [As part of the Content Authenticity Initiative, Adobe releases a toolkit to let devs integrate content provenance, which can help counter visual misinformation &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220614/p1#a220614p1)
- - [NY-based Capital Rx, whose software lets employers, unions, and insurers handle claims processing and billing for prescription drugs, raises a $106M Series C &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220613/p26#a220613p26)
- - [The Best Documentaries on Netflix: From Keep Sweet to Our Father     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-from-keep-sweet-to-our-father/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NY-based Capital Rx, whose software lets employers, unions, and insurers handle claims processing and billing for prescription drugs, raises a $106M Series C &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220613/p26#a220613p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
