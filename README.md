@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2’s next beta kicks off at the end of June, and it’s coming to PlayStation and Xbox](https://www.theverge.com/2022/6/14/23167691/overwatch-2-beta-pc-console-playstation-xbox)
- - [What Black One Direction Fans Reveal About Activism and Fandom](https://www.wired.com/story/fandom-internet-culture-one-direction-politics-kaitlyn-tiffany/)
- - [There are only a few good reasons to buy the new 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/14/there-are-only-a-few-good-reasons-to-buy-the-new-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Best mounts and stands to use with Apple&#39;s Continuity Camera feature](https://appleinsider.com/inside/iphone/best/best-mounts-and-stands-to-use-with-apples-continuity-camera-feature?utm_medium=rss)
+ - [Last LG phone available through a major US carrier heads out to pasture](https://www.androidauthority.com/last-lg-phone-available-in-us-3176421/)
+ - [Rumored 14-inch iPad may not be an iPad Pro after all, analyst claims](https://appleinsider.com/articles/22/06/14/rumored-14-inch-ipad-may-not-be-an-ipad-pro-after-all-analyst-claims?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
