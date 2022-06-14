@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 Next Fest Demos That Will Have You Begging For More](https://kotaku.com/steam-next-fest-demo-free-roguelike-platformer-dating-s-1849059330)
- - [4 months after infamous Super Bowl ad, Coinbase lays off 1,100 staff](https://www.pcgamer.com/4-months-after-infamous-super-bowl-ad-coinbase-lays-off-1100-staff)
- - [Batman Returns is the most anti-franchise franchise movie ever made](https://www.polygon.com/23165989/batman-returns-30th-anniversary-tim-burton)<!-- GAME:END -->
+ - [What Diablo Immortal Means For The Future Of Gaming](https://kotaku.com/diablo-immortal-blizzard-metacritic-f2p-1849059627)
+ - [Get on the Pitch Soon with EA Play](https://news.xbox.com/en-us/2022/06/14/get-on-the-pitch-soon-with-ea-play/)
+ - [Assassin’s Creed Valhalla’s second year of free updates includes a new game mode](https://www.polygon.com/23167590/assassins-creed-valhalla-updates-post-launch-support-the-forgotten-saga)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
