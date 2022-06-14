@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What Diablo Immortal Means For The Future Of Gaming](https://kotaku.com/diablo-immortal-blizzard-metacritic-f2p-1849059627)
- - [Get on the Pitch Soon with EA Play](https://news.xbox.com/en-us/2022/06/14/get-on-the-pitch-soon-with-ea-play/)
- - [Assassin’s Creed Valhalla’s second year of free updates includes a new game mode](https://www.polygon.com/23167590/assassins-creed-valhalla-updates-post-launch-support-the-forgotten-saga)<!-- GAME:END -->
+ - [Pokémon Go Spotlight Hour: Can Mantine be Shiny?](https://www.polygon.com/pokemon-go-guide/23167683/can-mantine-be-shiny-spotlight-hour-june)
+ - [Shooter Dev Makes Joke &#39;White Blood&#39; Mod After Fans Complain About Blood Effects](https://kotaku.com/selaco-demo-doom-fps-cum-jizz-porn-mod-steam-next-fest-1849059946)
+ - [Valheim coming to Xbox in 2023 as a ‘console launch exclusive’](https://www.polygon.com/23167686/valheim-xbox-game-pass-console-exclusive-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
