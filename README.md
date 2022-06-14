@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bumble is pushing for legislation across several US states that penalizes &quot;cyberflashing&quot;, the act of sending unwanted sexual images to another person online &lpar;Valeriya Safronova/New York Times&rpar;](http://www.techmeme.com/220614/p4#a220614p4)
- - [NYU report details how influencers backing India&#39;s BJP have used YouTube to spread conspiracy theories and hateful content targeting Muslims and women in India &lpar;Upmanyu Trivedi/Bloomberg&rpar;](http://www.techmeme.com/220614/p3#a220614p3)
- - [Google engineer says AI chatbot has developed feelings, gets suspended](https://www.androidauthority.com/google-lamda-3176080/)<!-- TECH:END -->
+ - [Alibaba and Tencent are struggling to grow their cloud businesses after Beijing&#39;s tech crackdown and competition from politically favored Huawei and others &lpar;Financial Times&rpar;](http://www.techmeme.com/220614/p5#a220614p5)
+ - [Samsung Galaxy S20 FE gets June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
+ - [Google Maps now estimates toll charges for your journey](https://www.theverge.com/2022/6/14/23167107/google-maps-toll-estimates-us-india-japan-indonesia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
