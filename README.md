@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Deadly accurate](http://9gag.com/gag/aNPGze4)
- - ⏩ [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)
- - 👉 [That&#39;s one way to do it](http://9gag.com/gag/aE8jY6n)<!-- MEMES:END -->
+ - ⏩ [First-class cat got loose during flight](http://9gag.com/gag/a519bLE)
+ - 👉 [Professional Scream Artist Ashley Peldon](http://9gag.com/gag/azev8VN)<!-- MEMES:END -->
 
 ---
 
