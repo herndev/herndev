@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cryptocurrency markets collapse to their lowest levels in years, but it&#39;s not all good news for gamers](https://www.pcgamer.com/cryptocurrency-markets-collapse-to-their-lowest-levels-in-years-enjoy-the-schadenfreude-everyone)
  - [Today&#39;s Wordle answer guide #360: Tuesday, June 14](https://www.pcgamer.com/todays-wordle-answer-guide-360-tuesday-june-14)
- - [Most detailed map of the Milky Way ever released](https://www.pcgamer.com/most-detailed-map-of-the-milky-way-ever-released)
- - [UK CMA to investigate Apple and Google over possible cloud gaming dominance](https://www.pcgamer.com/uk-cma-to-investigate-apple-and-google-over-possible-cloud-gaming-dominance)<!-- GAME:END -->
+ - [Most detailed map of the Milky Way ever released](https://www.pcgamer.com/most-detailed-map-of-the-milky-way-ever-released)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
