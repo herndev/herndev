@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Tips To Survive Your First Journey To The Quarry](https://kotaku.com/the-quarry-guide-until-dawn-horror-video-game-1849055831)
- - [Netflix teases Stranger Things 4 finale in first look images](https://www.polygon.com/stranger-things/23167255/netflix-stranger-things-4-vol-2-first-look)
- - [The best Diablo Immortal builds](https://www.pcgamer.com/diablo-immortal-build-best)<!-- GAME:END -->
+ - [Flying a Halo spaceship in Microsoft Flight Sim shouldn&#39;t work this well](https://www.pcgamer.com/flying-a-halo-spaceship-in-microsoft-flight-sim-shouldnt-work-this-well)
+ - [Capcom reveals more about Exoprimal, its 5v5 action game about a dinosaur crisis](https://www.polygon.com/23166629/capcom-exoprimal-gameplay-release-date-beta-test)
+ - [5 cool games from the PC Gaming Show](https://www.polygon.com/23165930/pc-gaming-show-announcements-roundup)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
