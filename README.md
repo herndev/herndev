@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [C*nts](http://9gag.com/gag/azev1qz)
- - ⏩ [God.Damnit. This must be one of the most incredible piece of music I&#39;ve ever heard, and I&#39;m pretty old. I never knew that kind of magic could flow from a freaking bass... This Berthoud guy, proved me wrong. Put the sound to 11 and listen to the end... And then again and again...](http://9gag.com/gag/a0ZDROn)
- - 👉 [You can wash your clothes in this while you workout](http://9gag.com/gag/aLvOw3g)<!-- MEMES:END -->
+ - 💣 [God.Damnit. This must be one of the most incredible piece of music I&#39;ve ever heard, and I&#39;m pretty old. I never knew that kind of magic could flow from a freaking bass... This Berthoud guy, proved me wrong. Put the sound to 11 and listen to the end... And then again and again...](http://9gag.com/gag/a0ZDROn)
+ - ⏩ [Mah feelings](http://9gag.com/gag/aDDqdgO)
+ - 👉 [The german job market in a nutshell](http://9gag.com/gag/aXrmg0P)<!-- MEMES:END -->
 
 ---
 
