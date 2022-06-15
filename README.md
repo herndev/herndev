@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)
- - [The Callisto Protocol’s director on his return to horror: ‘I don’t know what too scary is’](https://www.theverge.com/2022/6/15/23169787/the-callisto-protocol-glen-schofield-interview)
- - [Spotify will reduce hiring by 25 percent](https://www.theverge.com/2022/6/15/23169839/spotify-reduce-hiring-25-percent-recession-netflix-twitter)<!-- TECH:END -->
+ - [&#39;Stranger Things&#39;: Will Vecna Still Be the Villain in Season 5?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-will-vecna-still-be-the-villain-in-season-5/#ftag=CAD590a51e)
+ - [FDA Panel Recommends Moderna&#39;s and Pfizer&#39;s COVID Vaccine for Children as Young as 6 Months     - CNET](https://www.cnet.com/health/medical/fda-panel-recommends-moderna-pfizer-covid-vaccine-for-children-as-young-as-6-months/#ftag=CAD590a51e)
+ - [The Secret to a Happy Brain: How to Boost Your Stress-Fighting Hormones     - CNET](https://www.cnet.com/culture/the-secret-to-a-happy-brain-how-to-boost-your-stress-fighting-hormones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
