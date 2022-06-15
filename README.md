@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A trilogy of Avatar: The Last Airbender animated films is in development](https://www.polygon.com/23169637/avatar-the-last-airbender-animated-film-trilogy-in-development)
- - [Dying Light 2 Stay Human Just Keeps Getting Bigger with a Whole New Free Chapter](https://news.xbox.com/en-us/2022/06/15/dying-light-2-stay-human-new-free-chapter/)
- - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)<!-- GAME:END -->
+ - [Discovery Tour: Viking Age Standalone Edition Available Now](https://news.xbox.com/en-us/2022/06/15/discovery-tour-viking-age-standalone-edition-available-now/)
+ - [Kingdom Hearts’ Director Was ‘Very Picky’ About Adding Sora To Smash Bros. Ultimate](https://kotaku.com/kingdom-hearts-sora-super-smash-bros-ultimate-tetsuya-n-1849065582)
+ - [A trilogy of Avatar: The Last Airbender animated films is in development](https://www.polygon.com/23169637/avatar-the-last-airbender-animated-film-trilogy-in-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
