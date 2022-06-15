@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
- - ⏩ [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)
- - 👉 [Relatable](http://9gag.com/gag/aZr4r96)<!-- MEMES:END -->
+ - 💣 [I like to live dangerously](http://9gag.com/gag/a61e1Nq)
+ - ⏩ [Deal with it.](http://9gag.com/gag/awz9zZx)
+ - 👉 [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)<!-- MEMES:END -->
 
 ---
 
