@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41BnEd)
- - ⏩ [This is Impossible!](http://9gag.com/gag/ang0OYn)
+ - 💣 [Moles are so specialized at digging, they can&#39;t walk very well.](http://9gag.com/gag/aM40d5R)
+ - ⏩ [Internet explorer shut down after 27 years of service.](http://9gag.com/gag/azev2Kx)
  - 👉 [If only](http://9gag.com/gag/aE8j0LG)<!-- MEMES:END -->
 
 ---
