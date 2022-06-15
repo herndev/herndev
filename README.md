@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Stranger Things&#39;: Will Vecna Still Be the Villain in Season 5?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-will-vecna-still-be-the-villain-in-season-5/#ftag=CAD590a51e)
- - [FDA Panel Recommends Moderna&#39;s and Pfizer&#39;s COVID Vaccine for Children as Young as 6 Months     - CNET](https://www.cnet.com/health/medical/fda-panel-recommends-moderna-pfizer-covid-vaccine-for-children-as-young-as-6-months/#ftag=CAD590a51e)
- - [The Secret to a Happy Brain: How to Boost Your Stress-Fighting Hormones     - CNET](https://www.cnet.com/culture/the-secret-to-a-happy-brain-how-to-boost-your-stress-fighting-hormones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NLRB files a complaint against Mapbox, alleging it threatened job loss for union organizing and fired union organizers after a failed vote in August 2021 &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220615/p26#a220615p26)
+ - [The best apps to use with Sidecar for iPad and Mac users](https://appleinsider.com/articles/22/06/15/the-best-apps-to-use-with-sidecar-for-ipad-and-mac-users?utm_medium=rss)
+ - [Hands on with the new Apple Watch faces in watchOS 9](https://appleinsider.com/articles/22/06/15/hands-on-with-the-new-apple-watch-faces-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
