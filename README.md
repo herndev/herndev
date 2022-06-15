@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP Internet Explorer: Here are 10 things as old as the expired browser](https://www.pcgamer.com/rip-internet-explorer-here-are-10-things-as-old-as-the-expired-browser)
- - [Neverwinter: Dragonslayer Roars to Xbox](https://news.xbox.com/en-us/2022/06/15/neverwinter-dragonslayer-roars-to-xbox/)
- - [Everything you might’ve forgotten from Umbrella Academy season 2](https://www.polygon.com/23167479/umbrella-academy-season-2-ending-explained)<!-- GAME:END -->
+ - [Redfall campaign progress stays with the host](https://www.pcgamer.com/redfalls-co-op-campaign-progress-stays-with-the-host)
+ - [Octopath Traveler: Champions of the Continent coming to mobile this summer](https://www.polygon.com/23169985/octopath-traveler-champions-of-the-continent-release-summer-2022)
+ - [Ms. Marvel’s real origin story was too embarrassing for the Marvel Cinematic Universe](https://www.polygon.com/23167430/ms-marvel-bangle-origin-story-kamran-najma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
