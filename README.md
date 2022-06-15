@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Under pressure from Apple Pay Later, PayPal improves its buy now pay later offerings](https://appleinsider.com/articles/22/06/15/under-pressure-from-apple-pay-later-paypal-improves-its-buy-now-pay-later-offerings?utm_medium=rss)
- - [The Verge’s 2022 Father’s Day Gift Guide](https://www.theverge.com/23069006/fathers-day-gift-ideas-2022-best-dad-unique-tech-gadgets-tools)
- - [The company behind PUBG shows off its ‘hyper-realistic’ virtual human](https://www.theverge.com/2022/6/15/23169463/krafton-virtual-human-ana)<!-- TECH:END -->
+ - [Polestar Shows 3 SUV and 5 Sedan&#39;s Rear Ends, Teases 4 Crossover Coupe EV     - CNET](https://www.cnet.com/roadshow/news/polestar-3-suv-4-crossover-coupe-5-sedan-ev-teaser-images/#ftag=CAD590a51e)
+ - [How to show and create hidden files on any Mac](https://www.androidauthority.com/show-hidden-files-mac-3175572/)
+ - [Free Shiny Pokemon Available for Pokemon Sword and Shield This Weekend     - CNET](https://www.cnet.com/tech/gaming/free-shiny-pokemon-available-for-pokemon-sword-and-shield-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
