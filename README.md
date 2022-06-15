@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So long fella](http://9gag.com/gag/aAGL6vL)
- - ⏩ [Moles are so specialized at digging, they can&#39;t walk very well.](http://9gag.com/gag/aM40d5R)
- - 👉 [Hard doubt](http://9gag.com/gag/a914y61)<!-- MEMES:END -->
+ - 💣 [Is she alive?\u2060\u2060](http://9gag.com/gag/aZr410z)
+ - ⏩ [Quality over quantity](http://9gag.com/gag/amgOoV2)
+ - 👉 [So long fella](http://9gag.com/gag/aAGL6vL)<!-- MEMES:END -->
 
 ---
 
