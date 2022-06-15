@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar Shows 3 SUV and 5 Sedan&#39;s Rear Ends, Teases 4 Crossover Coupe EV     - CNET](https://www.cnet.com/roadshow/news/polestar-3-suv-4-crossover-coupe-5-sedan-ev-teaser-images/#ftag=CAD590a51e)
- - [How to show and create hidden files on any Mac](https://www.androidauthority.com/show-hidden-files-mac-3175572/)
- - [Free Shiny Pokemon Available for Pokemon Sword and Shield This Weekend     - CNET](https://www.cnet.com/tech/gaming/free-shiny-pokemon-available-for-pokemon-sword-and-shield-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo details plans to make Facebook more like TikTok, including bringing Messenger back into the app and recommending posts from &quot;unconnected&quot; sources &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220615/p22#a220615p22)
+ - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
+ - [Don’t wait to install the June Windows update — it fixes a major security bug](https://www.theverge.com/2022/6/15/23169480/microsoft-patch-windows-11-update-follina-zero-day-exploit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
