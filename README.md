@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This is what the Nothing Phone 1 looks like](https://www.androidauthority.com/nothing-phone-1-design-back-3176577/)
  - [Sources: crypto hedge fund Three Arrows Capital faces an uncertain future after a $400M liquidation; CEO Zhu tweeted we are &quot;committed to working this out&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220615/p1#a220615p1)
- - [21 Word Game Alternatives if You&#39;re Done With Wordle     - CNET](https://www.cnet.com/culture/internet/21-word-game-alternatives-if-youre-done-with-wordle/#ftag=CAD590a51e)
- - [The 17 Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-17-best-sci-fi-movies-on-netflix-you-need-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Stranger Things 4&#39; Uncanny Valley: Who Plays the Young Eleven?     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-uncanny-valley-who-plays-the-young-eleven/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
