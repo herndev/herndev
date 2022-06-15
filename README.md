@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Carl Pei reveals Nothing phone &lpar;1&rpar; ahead of its July 12 launch event, saying &quot;leaks are harder to contain nowadays&quot;; more details will be revealed over time &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220615/p2#a220615p2)
- - [&#39;Lightyear&#39; Review: Intergalactic Fun With a Whole Lot of Heart     - CNET](https://www.cnet.com/culture/entertainment/lightyear-review-intergalactic-fun-with-a-whole-lot-of-heart/#ftag=CAD590a51e)
- - [Red Light, Green Light: Netflix announces real-life Squid Game competition](https://www.androidauthority.com/netflix-squid-game-competition-3176591/)<!-- TECH:END -->
+ - [Keychron’s latest keyboard is a more compact way to get your numpad fix](https://www.theverge.com/2022/6/15/23168986/keychron-q5-mechanical-keyboard-features-usb-c-hot-swap-qmk-via)
+ - [&#39;Gran Turismo&#39; Movie Release Date Confirmed, and it&#39;s Based On a True Story     - CNET](https://www.cnet.com/culture/entertainment/gran-turismo-movie-release-date-confirmed-and-its-based-on-a-true-story/#ftag=CAD590a51e)
+ - [Carl Pei reveals Nothing phone &lpar;1&rpar; ahead of its July 12 launch event, saying &quot;leaks are harder to contain nowadays&quot;; more details will be revealed over time &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220615/p2#a220615p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
