@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you might’ve forgotten from Umbrella Academy season 2](https://www.polygon.com/23167479/umbrella-academy-season-2-ending-explained)
- - [Sorry, Capcom’s New Dinosaur Game Has Nothing To Do With Dino Crisis](https://kotaku.com/exoprimal-dino-crisis-reboot-sequel-dinosaur-shooter-ca-1849066060)
- - [Out of This World Customization in OlliOlli World: VOID Riders](https://news.xbox.com/en-us/2022/06/15/out-of-this-world-customization-in-olliolli-world-void-riders/)<!-- GAME:END -->
+ - [RIP Internet Explorer: Here are 10 things as old as the expired browser](https://www.pcgamer.com/rip-internet-explorer-here-are-10-things-as-old-as-the-expired-browser)
+ - [Neverwinter: Dragonslayer Roars to Xbox](https://news.xbox.com/en-us/2022/06/15/neverwinter-dragonslayer-roars-to-xbox/)
+ - [Everything you might’ve forgotten from Umbrella Academy season 2](https://www.polygon.com/23167479/umbrella-academy-season-2-ending-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
