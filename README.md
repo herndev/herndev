@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Story Of 2022&#39;s Biggest Video Game*](https://kotaku.com/video-game-development-story-insider-crunch-delay-misma-1848776267)
- - [The winner of Netflix&#39;s &#39;real&#39; Squid Game competition will become a multimillionaire](https://www.pcgamer.com/netflix-squid-game-reality-competition-announced)
- - [Fallout 5 Is Bethesda’s Next Game After Elder Scrolls 6, Will Probably Be Out By 2050](https://kotaku.com/fallout-5-v-bethesda-elder-scrolls-6-release-date-starf-1849062025)<!-- GAME:END -->
+ - [The Gran Turismo Movie Actually Has A Plot](https://kotaku.com/gran-turismo-movie-film-hollywood-neill-blomkamp-polyph-1849062702)
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
+ - [The most exciting games of not-E3 actually coming out this year](https://www.pcgamer.com/the-most-exciting-games-of-not-e3-actually-coming-out-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
