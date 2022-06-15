@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone manufacturer Pegatron prioritizing expansion outside of China](https://appleinsider.com/articles/22/06/15/iphone-manufacturer-pegatron-prioritizing-expansion-outside-of-china?utm_medium=rss)
- - [Charge an iPhone, Apple Watch &amp; AirPods in style with the VogDUO 3-in-1](https://appleinsider.com/articles/22/06/15/charge-an-iphone-apple-watch-airpods-in-style-with-the-vogduo-3-in-1?utm_medium=rss)
- - [Metropolis, which uses AI and computer vision to help parking facilities automatically charge drivers, raises a $167M Series B, bringing its funding to $226M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220615/p12#a220615p12)<!-- TECH:END -->
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;June 15&rpar;](https://www.androidauthority.com/wallpaper-wednesday-jun-15-2022-3175849/)
+ - [AlphaSense, which offers search tools for market intelligence, has raised a $225M Series D at a $1.7B valuation, following a $180M Series C in September 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220615/p15#a220615p15)
+ - [Just trying to order Dish’s Project Genesis 5G service is an odyssey](https://www.theverge.com/2022/6/15/23168270/dish-network-5g-project-genesis-sign-up-issues-addresses)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
