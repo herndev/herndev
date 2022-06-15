@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to see your Spotify listening history](https://www.androidauthority.com/spotify-listening-history-3072454/)
- - [&#39;Obi-Wan Kenobi&#39; Episode 5: When Does It Release on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-5-when-does-it-release-on-disney-plus/#ftag=CAD590a51e)
- - [India-based Groyyo, a B2B automation startup that uses AI to boost the efficiency of small-scale manufacturing, has raised a $27M Series A led by Tiger Global &lpar;Entrackr&rpar;](http://www.techmeme.com/220614/p40#a220614p40)<!-- TECH:END -->
+ - [Sources: crypto hedge fund Three Arrows Capital faces an uncertain future after a $400M liquidation; CEO Zhu tweeted we are &quot;committed to working this out&quot; &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220615/p1#a220615p1)
+ - [21 Word Game Alternatives if You&#39;re Done With Wordle     - CNET](https://www.cnet.com/culture/internet/21-word-game-alternatives-if-youre-done-with-wordle/#ftag=CAD590a51e)
+ - [The 17 Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-17-best-sci-fi-movies-on-netflix-you-need-to-watch-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
