@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chevy&#39;s new NFT comes with actual Corvette for winning bidder](https://www.pcgamer.com/chevys-new-nft-comes-with-actual-corvette-for-winning-bidder)
- - [AMD&#39;s RDNA 3 series is rumored to launch sooner than expected](https://www.pcgamer.com/amds-rdna-3-series-is-rumored-to-launch-sooner-than-expected)
- - [Total War: Warhammer 3&#39;s Immortal Empires DLC is coming in August, with big changes](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-coming-in-august-with-big-changes)<!-- GAME:END -->
+ - [In Umbrella Academy season 3, family is the ultimate test](https://www.polygon.com/reviews/23167913/umbrella-academy-season-3-review)
+ - [Intel&#39;s Arc A380 GPU launches in China for around $150 USD](https://www.pcgamer.com/intels-arc-a380-gpu-launches-in-china-for-around-dollar150-usd)
+ - [Internet Explorer dies today](https://www.pcgamer.com/internet-explorer-dies-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
