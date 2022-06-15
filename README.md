@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo details plans to make Facebook more like TikTok, including bringing Messenger back into the app and recommending posts from &quot;unconnected&quot; sources &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220615/p22#a220615p22)
- - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
- - [Don’t wait to install the June Windows update — it fixes a major security bug](https://www.theverge.com/2022/6/15/23169480/microsoft-patch-windows-11-update-follina-zero-day-exploit)<!-- TECH:END -->
+ - [In a note to staff, Spotify says it will slow hiring growth by 25%; Spotify hired 2,000+ staff from 2019 to 2021 bringing its headcount to 6,617; stock up 7%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220615/p23#a220615p23)
+ - [How to protect your personal information and online accounts](https://appleinsider.com/articles/22/06/15/how-to-protect-your-personal-information-and-online-accounts?utm_medium=rss)
+ - [Apple opens registrations for full in-person Apple Camp educational program](https://appleinsider.com/articles/22/06/15/apple-opens-registrations-for-full-in-person-apple-camp-educational-program?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
