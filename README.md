@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moles are so specialized at digging, they can&#39;t walk very well.](http://9gag.com/gag/aM40d5R)
- - ⏩ [Internet explorer shut down after 27 years of service.](http://9gag.com/gag/azev2Kx)
- - 👉 [If only](http://9gag.com/gag/aE8j0LG)<!-- MEMES:END -->
+ - 💣 [So long fella](http://9gag.com/gag/aAGL6vL)
+ - ⏩ [Moles are so specialized at digging, they can&#39;t walk very well.](http://9gag.com/gag/aM40d5R)
+ - 👉 [Hard doubt](http://9gag.com/gag/a914y61)<!-- MEMES:END -->
 
 ---
 
