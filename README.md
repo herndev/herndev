@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 16 makes significant changes to how an iPad operates, but it isn&#39;t enough](https://appleinsider.com/articles/22/06/15/ipados-16-makes-significant-changes-to-how-an-ipad-operates-but-it-isnt-enough?utm_medium=rss)
- - [What is Keystone Correction for Projectors? And Why You Should Avoid It     - CNET](https://www.cnet.com/tech/home-entertainment/what-is-keystone-correction-for-projectors-and-why-you-should-avoid-it/#ftag=CAD590a51e)
- - [Russia Is Taking Over Ukraine’s Internet](https://www.wired.com/story/ukraine-russia-internet-takeover/)<!-- TECH:END -->
+ - [iPhone manufacturer Pegatron prioritizing expansion outside of China](https://appleinsider.com/articles/22/06/15/iphone-manufacturer-pegatron-prioritizing-expansion-outside-of-china?utm_medium=rss)
+ - [Charge an iPhone, Apple Watch &amp; AirPods in style with the VogDUO 3-in-1](https://appleinsider.com/articles/22/06/15/charge-an-iphone-apple-watch-airpods-in-style-with-the-vogduo-3-in-1?utm_medium=rss)
+ - [Metropolis, which uses AI and computer vision to help parking facilities automatically charge drivers, raises a $167M Series B, bringing its funding to $226M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220615/p12#a220615p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
