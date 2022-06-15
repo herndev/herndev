@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We&#39;re worse off without E3](https://www.pcgamer.com/were-worse-off-without-e3)
- - [NZXT Streaming PC](https://www.pcgamer.com/nzxt-streaming-pc-review)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [Newegg&#39;s new gaming PC finder wants to make buying a PC easier and it does. Sort of](https://www.pcgamer.com/newegg-gaming-pc-finder)
+ - [The best PC cases in 2022](https://www.pcgamer.com/best-pc-case)
+ - [Stalker 2 developers continue work as key team members fight for Ukraine](https://www.pcgamer.com/stalker-2-developers-continue-work-as-key-team-members-fight-for-ukraine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
