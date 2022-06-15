@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mah feelings](http://9gag.com/gag/aDDqdgO)
- - ⏩ [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
- - 👉 [Today is the last day\u2026 thank you for letting me download google chrome in the past 14 years](http://9gag.com/gag/arnDVyX)<!-- MEMES:END -->
+ - 💣 [People like this should have there license taken away on the spot, car towed and make them walk to their destination! Absolute Fuktards!!!](http://9gag.com/gag/amgOPV9)
+ - ⏩ [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)
+ - 👉 [Relatable](http://9gag.com/gag/aZr4r96)<!-- MEMES:END -->
 
 ---
 
