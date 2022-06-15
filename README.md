@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discovery Tour: Viking Age Standalone Edition Available Now](https://news.xbox.com/en-us/2022/06/15/discovery-tour-viking-age-standalone-edition-available-now/)
- - [Kingdom Hearts’ Director Was ‘Very Picky’ About Adding Sora To Smash Bros. Ultimate](https://kotaku.com/kingdom-hearts-sora-super-smash-bros-ultimate-tetsuya-n-1849065582)
- - [A trilogy of Avatar: The Last Airbender animated films is in development](https://www.polygon.com/23169637/avatar-the-last-airbender-animated-film-trilogy-in-development)<!-- GAME:END -->
+ - [Everything you might’ve forgotten from Umbrella Academy season 2](https://www.polygon.com/23167479/umbrella-academy-season-2-ending-explained)
+ - [Sorry, Capcom’s New Dinosaur Game Has Nothing To Do With Dino Crisis](https://kotaku.com/exoprimal-dino-crisis-reboot-sequel-dinosaur-shooter-ca-1849066060)
+ - [Out of This World Customization in OlliOlli World: VOID Riders](https://news.xbox.com/en-us/2022/06/15/out-of-this-world-customization-in-olliolli-world-void-riders/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
