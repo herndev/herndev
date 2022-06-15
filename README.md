@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple ad business could reach $6B by 2025, with $4.1B from Search Ads](https://appleinsider.com/articles/22/06/15/apple-ad-business-could-reach-6b-by-2025-with-41b-from-search-ads?utm_medium=rss)
- - [Peloton rival Tonal is adding a New York studio to win the fitness content race](https://www.theverge.com/2022/6/15/23167828/tonal-peloton-ny-studio-aly-orady)
- - [Nreal is adding Steam streaming to its AR glasses](https://www.theverge.com/2022/6/15/23169347/nreal-light-air-steam-beta-launch-ar-glasses)<!-- TECH:END -->
+ - [Under pressure from Apple Pay Later, PayPal improves its buy now pay later offerings](https://appleinsider.com/articles/22/06/15/under-pressure-from-apple-pay-later-paypal-improves-its-buy-now-pay-later-offerings?utm_medium=rss)
+ - [The Verge’s 2022 Father’s Day Gift Guide](https://www.theverge.com/23069006/fathers-day-gift-ideas-2022-best-dad-unique-tech-gadgets-tools)
+ - [The company behind PUBG shows off its ‘hyper-realistic’ virtual human](https://www.theverge.com/2022/6/15/23169463/krafton-virtual-human-ana)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
