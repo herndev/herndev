@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chevy&#39;s new NFT comes with actual Corvette for winning bidder](https://www.pcgamer.com/chevys-new-nft-comes-with-actual-corvette-for-winning-bidder)
  - [AMD&#39;s RDNA 3 series is rumored to launch sooner than expected](https://www.pcgamer.com/amds-rdna-3-series-is-rumored-to-launch-sooner-than-expected)
- - [Total War: Warhammer 3&#39;s Immortal Empires DLC is coming in August, with big changes](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-coming-in-august-with-big-changes)
- - [Shantae and the Pirate&#39;s Curse is free-to-keep on GOG](https://www.pcgamer.com/shantae-and-the-pirates-curse-is-free-to-keep-on-gog)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s Immortal Empires DLC is coming in August, with big changes](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-coming-in-august-with-big-changes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
