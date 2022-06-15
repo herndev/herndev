@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Gran Turismo Movie Actually Has A Plot](https://kotaku.com/gran-turismo-movie-film-hollywood-neill-blomkamp-polyph-1849062702)
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [The most exciting games of not-E3 actually coming out this year](https://www.pcgamer.com/the-most-exciting-games-of-not-e3-actually-coming-out-this-year)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s Immortal Empires DLC is coming in August, with big changes](https://www.pcgamer.com/total-war-warhammer-3s-immortal-empires-dlc-is-coming-in-august-with-big-changes)
+ - [Shantae and the Pirate&#39;s Curse is free-to-keep on GOG](https://www.pcgamer.com/shantae-and-the-pirates-curse-is-free-to-keep-on-gog)
+ - [The Gran Turismo Movie Actually Has A Plot](https://kotaku.com/gran-turismo-movie-film-hollywood-neill-blomkamp-polyph-1849062702)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
