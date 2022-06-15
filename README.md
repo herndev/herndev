@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza is love](http://9gag.com/gag/a0ZDeEz)
- - ⏩ [Die Fahne Hoch](http://9gag.com/gag/aegqQEB)
- - 👉 [If only](http://9gag.com/gag/aE8j0LG)<!-- MEMES:END -->
+ - 💣 [You may be forklift certified, but can you do this?](http://9gag.com/gag/a41BnEd)
+ - ⏩ [The concept of truth is transphobic!!](http://9gag.com/gag/amgOW0j)
+ - 👉 [This is Impossible!](http://9gag.com/gag/ang0OYn)<!-- MEMES:END -->
 
 ---
 
