@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto altcoins are up after the Federal Reserve&#39;s interest rate hike: Cardano, Solana, and Dogecoin are up 6%+, Polkadot up ~15%; bitcoin and ether closed flat &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/220615/p27#a220615p27)
- - [Jurassic World Dominion: Ending Explained and Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-and-every-question-answered/#ftag=CAD590a51e)
- - [Lord of the Rings Anime &#39;War of the Rohirrim&#39; to Star Brian Cox, Gaia Wise     - CNET](https://www.cnet.com/culture/entertainment/lord-of-the-rings-anime-war-of-the-rohirrim-to-star-brian-cox-gaia-wise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boring Company receives approval for expanding its tunnels to downtown Las Vegas](https://www.theverge.com/2022/6/15/23170170/the-boring-company-las-vegas-loop-tunnels-expand)
+ - [Instagram Stories Repeating for You? Company Releases App Update With Bug Fixes     - CNET](https://www.cnet.com/tech/services-and-software/instagram-stories-repeating-for-you-company-releases-app-update-with-bug-fixes/#ftag=CAD590a51e)
+ - [BitMEX co-founder Benjamin Delo is sentenced to 30 months probation without home confinement after pleading guilty to violating the US Bank Secrecy Act &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220615/p29#a220615p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
