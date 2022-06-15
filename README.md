@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron’s latest keyboard is a more compact way to get your numpad fix](https://www.theverge.com/2022/6/15/23168986/keychron-q5-mechanical-keyboard-features-usb-c-hot-swap-qmk-via)
- - [&#39;Gran Turismo&#39; Movie Release Date Confirmed, and it&#39;s Based On a True Story     - CNET](https://www.cnet.com/culture/entertainment/gran-turismo-movie-release-date-confirmed-and-its-based-on-a-true-story/#ftag=CAD590a51e)
- - [Carl Pei reveals Nothing phone &lpar;1&rpar; ahead of its July 12 launch event, saying &quot;leaks are harder to contain nowadays&quot;; more details will be revealed over time &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220615/p2#a220615p2)<!-- TECH:END -->
+ - [PayCargo, which develops cloud-based payment and financing services for the cargo industry, announces a $130M Series C, following a $125M Series B in July 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220615/p4#a220615p4)
+ - [The EU&#39;s General Court sides with Qualcomm over the European Commission&#39;s $1.05B fine from 2018 for allegedly paying Apple to use only Qualcomm chips &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220615/p3#a220615p3)
+ - [Bill Gates says NFTs are ‘100 percent based on greater fool theory’](https://www.theverge.com/2022/6/15/23169008/bill-gates-cryptocurrency-nft-greater-fool-theory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
