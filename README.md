@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An ABSOLUTE GENIUS.](http://9gag.com/gag/a118m2w)
- - ⏩ [Riddle me this...](http://9gag.com/gag/aPZVAvR)
- - 👉 [Women, can&#39;t live with them, can&#39;t live without them](http://9gag.com/gag/adgWPn9)<!-- MEMES:END -->
+ - 💣 [And skirts ofcourse](http://9gag.com/gag/aGzrEm0)
+ - ⏩ [You know, im something of a scientest myself...](http://9gag.com/gag/aLvO1BA)
+ - 👉 [Die Fahne Hoch](http://9gag.com/gag/aegqQEB)<!-- MEMES:END -->
 
 ---
 
