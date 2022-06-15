@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New update for Share Factory Studio unleashes Bits on PS5 today](https://blog.playstation.com/2022/06/15/new-update-for-share-factory-studio-unleashes-bits-on-ps5-today/)
- - [New update for Share Factory Studio unleashes Bits on PS5 today](https://blog.playstation.com/2022/06/15/new-update-for-share-factory-studio-unleashes-bits-on-ps5-today/)
- - [Rainbow Six Siege: Operation Vector Glare Brings a New Operator](https://news.xbox.com/en-us/2022/06/15/rainbow-six-siege-operation-vector-glare-brings-a-new-operator/)<!-- GAME:END -->
+ - [A trilogy of Avatar: The Last Airbender animated films is in development](https://www.polygon.com/23169637/avatar-the-last-airbender-animated-film-trilogy-in-development)
+ - [Dying Light 2 Stay Human Just Keeps Getting Bigger with a Whole New Free Chapter](https://news.xbox.com/en-us/2022/06/15/dying-light-2-stay-human-new-free-chapter/)
+ - [How to complete the Volcano Manor questline in Elden Ring](https://www.pcgamer.com/elden-ring-volcano-manor-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
