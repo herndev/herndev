@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to see your Spotify listening history](https://www.androidauthority.com/spotify-listening-history-3072454/)
  - [&#39;Obi-Wan Kenobi&#39; Episode 5: When Does It Release on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-episode-5-when-does-it-release-on-disney-plus/#ftag=CAD590a51e)
- - [India-based Groyyo, a B2B automation startup that uses AI to boost the efficiency of small-scale manufacturing, has raised a $27M Series A led by Tiger Global &lpar;Entrackr&rpar;](http://www.techmeme.com/220614/p40#a220614p40)
- - [How to turn off shuffle on Spotify](https://www.androidauthority.com/how-to-turn-shuffle-off-spotify-3092612/)<!-- TECH:END -->
+ - [India-based Groyyo, a B2B automation startup that uses AI to boost the efficiency of small-scale manufacturing, has raised a $27M Series A led by Tiger Global &lpar;Entrackr&rpar;](http://www.techmeme.com/220614/p40#a220614p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
