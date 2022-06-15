@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to stream on Twitch from your Xbox](https://www.androidauthority.com/stream-twitch-xbox-3176067/)
- - [Sony’s Gran Turismo film hits theaters in August 2023](https://www.theverge.com/2022/6/14/23168247/sony-gran-turismo-film-movie-release-date)
- - [Catalyst Black: How to use loadouts](https://www.androidauthority.com/catalyst-black-how-to-use-loadouts-3176461/)<!-- TECH:END -->
+ - [Paris-based EcoVadis, which provides software for business sustainability ratings, raised a $500M Series C led by BeyondNetZero and Astorg at a $1B+ valuation &lpar;Peter Wayner/VentureBeat&rpar;](http://www.techmeme.com/220614/p39#a220614p39)
+ - [&#39;Obi-Wan Kenobi&#39;: When Does Episode 5 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-when-does-episode-5-land-on-disney-plus/#ftag=CAD590a51e)
+ - [Source: crypto lender Celsius Networks is looking for financing options from investors and exploring other strategic alternatives, like financial restructuring &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220614/p38#a220614p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
