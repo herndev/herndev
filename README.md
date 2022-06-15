@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLRB files a complaint against Mapbox, alleging it threatened job loss for union organizing and fired union organizers after a failed vote in August 2021 &lpar;Anna Kramer/Protocol&rpar;](http://www.techmeme.com/220615/p26#a220615p26)
- - [The best apps to use with Sidecar for iPad and Mac users](https://appleinsider.com/articles/22/06/15/the-best-apps-to-use-with-sidecar-for-ipad-and-mac-users?utm_medium=rss)
- - [Hands on with the new Apple Watch faces in watchOS 9](https://appleinsider.com/articles/22/06/15/hands-on-with-the-new-apple-watch-faces-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
+ - [Crypto altcoins are up after the Federal Reserve&#39;s interest rate hike: Cardano, Solana, and Dogecoin are up 6%+, Polkadot up ~15%; bitcoin and ether closed flat &lpar;Vildana Hajric/Bloomberg&rpar;](http://www.techmeme.com/220615/p27#a220615p27)
+ - [Jurassic World Dominion: Ending Explained and Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-and-every-question-answered/#ftag=CAD590a51e)
+ - [Lord of the Rings Anime &#39;War of the Rohirrim&#39; to Star Brian Cox, Gaia Wise     - CNET](https://www.cnet.com/culture/entertainment/lord-of-the-rings-anime-war-of-the-rohirrim-to-star-brian-cox-gaia-wise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
