@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [This raccoon using a plank to get out of a garbage container](http://9gag.com/gag/aegqgKm)
- - ⏩ [Can&#39;t lie, still do it](http://9gag.com/gag/aGzrpqK)
- - 👉 [Deal with it.](http://9gag.com/gag/awz9zZx)<!-- MEMES:END -->
+ - ⏩ [Where bobs?](http://9gag.com/gag/ang0Qnz)
+ - 👉 [Mah feelings](http://9gag.com/gag/aDDqdgO)<!-- MEMES:END -->
 
 ---
 
