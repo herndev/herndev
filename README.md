@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall campaign progress stays with the host](https://www.pcgamer.com/redfalls-co-op-campaign-progress-stays-with-the-host)
- - [Octopath Traveler: Champions of the Continent coming to mobile this summer](https://www.polygon.com/23169985/octopath-traveler-champions-of-the-continent-release-summer-2022)
- - [Ms. Marvel’s real origin story was too embarrassing for the Marvel Cinematic Universe](https://www.polygon.com/23167430/ms-marvel-bangle-origin-story-kamran-najma)<!-- GAME:END -->
+ - [Lancelot, First Knight of the Round Table, Rides Alongside the Legendary Mizkif in a New Smite Update](https://news.xbox.com/en-us/2022/06/15/lancelot-new-smite-update/)
+ - [If NFTs are the future of gaming, it&#39;s sure weird no one mentioned them at this year&#39;s big showcases](https://www.pcgamer.com/if-nfts-are-the-future-of-gaming-its-sure-weird-no-one-mentioned-them-at-this-years-big-showcases)
+ - [Halo Keeps Getting DLC For Every Game Except Halo Infinite](https://kotaku.com/halo-infinite-dlc-fall-guys-microsoft-flight-sim-the-en-1849067299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
