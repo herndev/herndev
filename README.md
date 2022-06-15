@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lancelot, First Knight of the Round Table, Rides Alongside the Legendary Mizkif in a New Smite Update](https://news.xbox.com/en-us/2022/06/15/lancelot-new-smite-update/)
- - [If NFTs are the future of gaming, it&#39;s sure weird no one mentioned them at this year&#39;s big showcases](https://www.pcgamer.com/if-nfts-are-the-future-of-gaming-its-sure-weird-no-one-mentioned-them-at-this-years-big-showcases)
- - [Halo Keeps Getting DLC For Every Game Except Halo Infinite](https://kotaku.com/halo-infinite-dlc-fall-guys-microsoft-flight-sim-the-en-1849067299)<!-- GAME:END -->
+ - [Nintendo Unleashes Lawyers On YouTube Musician’s Metroid Covers](https://kotaku.com/nintendo-metroid-prime-youtube-music-takedown-synamax-c-1849067850)
+ - [Jurassic World Evolution 2: Dominion Biosyn Expansion Available Now](https://news.xbox.com/en-us/2022/06/15/jurassic-world-evolution-2-dominion-biosyn-expansion-available-now/)
+ - [April O’Neil Is Breaking News And Foot Clan Faces In The First Stage Of TMNT: Shredder&#39;s Revenge](https://kotaku.com/teenage-mutant-ninja-turtles-shredders-revenge-april-o-1849064743)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
