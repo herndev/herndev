@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like to live dangerously](http://9gag.com/gag/a61e1Nq)
- - ⏩ [Deal with it.](http://9gag.com/gag/awz9zZx)
- - 👉 [I need to come out and say it, I am fully converting to metric.](http://9gag.com/gag/aZr4DPp)<!-- MEMES:END -->
+ - 💣 [Women, can&#39;t live with them, can&#39;t live without them](http://9gag.com/gag/adgWPn9)
+ - ⏩ [Squat 20 times and get a free bus ride in Cluj-Napoca](http://9gag.com/gag/aNPGPV6)
+ - 👉 [Lel](http://9gag.com/gag/aM40EG6)<!-- MEMES:END -->
 
 ---
 
