@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a note to staff, Spotify says it will slow hiring growth by 25%; Spotify hired 2,000+ staff from 2019 to 2021 bringing its headcount to 6,617; stock up 7%+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220615/p23#a220615p23)
- - [How to protect your personal information and online accounts](https://appleinsider.com/articles/22/06/15/how-to-protect-your-personal-information-and-online-accounts?utm_medium=rss)
- - [Apple opens registrations for full in-person Apple Camp educational program](https://appleinsider.com/articles/22/06/15/apple-opens-registrations-for-full-in-person-apple-camp-educational-program?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)
+ - [The Callisto Protocol’s director on his return to horror: ‘I don’t know what too scary is’](https://www.theverge.com/2022/6/15/23169787/the-callisto-protocol-glen-schofield-interview)
+ - [Spotify will reduce hiring by 25 percent](https://www.theverge.com/2022/6/15/23169839/spotify-reduce-hiring-25-percent-recession-netflix-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
