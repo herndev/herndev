@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Award-Winning Harpist Slays Elden Ring Baddies By Plucking Some Strings](https://kotaku.com/elden-ring-anna-ellsworth-harp-margit-fell-omen-tree-se-1849071184)
- - [Gatlopp’s goofy take on horror gives the Jumanji genre a new adult spin](https://www.polygon.com/reviews/23167504/gatlopp-review-drinking-game-horror-movie)
- - [Apex Legends&#39; resident healer opens a new clinic on Olympus next week](https://www.pcgamer.com/apex-legends-resident-healer-opens-a-new-clinic-on-olympus-next-week)<!-- GAME:END -->
+ - [New details on Call of Duty: Vanguard and Warzone: Mercenaries of Fortune, out June 22](https://blog.playstation.com/2022/06/16/new-details-on-call-of-duty-vanguard-and-warzone-mercenaries-of-fortune-out-june-22/)
+ - [New details on Call of Duty: Vanguard and Warzone: Mercenaries of Fortune, out June 22](https://blog.playstation.com/2022/06/16/new-details-on-call-of-duty-vanguard-and-warzone-mercenaries-of-fortune-out-june-22/)
+ - [The US to join forces with Japan to produce bleeding-edge 2nm chips by 2025](https://www.pcgamer.com/the-us-to-join-forces-with-japan-to-produce-bleeding-edge-2nm-chips-by-2025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
