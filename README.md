@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything Shown During The Overwatch 2 ‘Reveal’ Event](https://kotaku.com/overwatch-2-beta-junker-queen-pve-roadmap-lootboxes-1849073088)
- - [Original versions of Resident Evil remakes return to Steam after &#39;overwhelming community response&#39;](https://www.pcgamer.com/original-versions-of-resident-evil-remakes-return-to-steam-after-overwhelming-community-response)
- - [Zenless Zone Zero: what&#39;s there to know about HoYoverse&#39;s next action game?](https://www.pcgamer.com/zenless-zone-zero-characters-trailer-gameplay-gacha)<!-- GAME:END -->
+ - [Do Yourself A Favor And Listen To Ryu’s New Street Fighter 6 Theme](https://kotaku.com/street-fighter-6-theme-ryu-music-chun-li-luke-capcom-so-1849073427)
+ - [$13.5M settlement puts the cost of one Destiny 2 cheater at $2,000](https://www.pcgamer.com/dollar135m-settlement-puts-the-cost-of-one-destiny-2-cheater-at-dollar2000)
+ - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
