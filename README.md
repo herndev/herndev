@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day will have more than 30 free games, including Mass Effect](https://www.theverge.com/2022/6/16/23171580/amazon-prime-day-free-games-mass-effect-legendary-edition)
- - [Apple&#39;s iOS 16 lets you remove 30 stock apps](https://appleinsider.com/articles/22/06/16/apples-ios-16-lets-you-remove-29-stock-apps?utm_medium=rss)
- - [Activision Blizzard investigated Activision Blizzard and found Activision Blizzard didn’t do anything wrong](https://www.theverge.com/2022/6/16/23171447/activision-blizzard-investigation-sec-filing)<!-- TECH:END -->
+ - [Final Fantasy VII Remake is coming to Steam on June 17th](https://www.theverge.com/2022/6/16/23170144/final-fantasy-7-remake-steam-release-date)
+ - [Roku raises its ad revenue share for ad-supported streaming channels to 45% from 40% and requires linear channels to use Roku&#39;s ad insertion technology and CDN &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220616/p38#a220616p38)
+ - [HomeLight, which offers AI-powered tools for home buyers, sellers, and real estate agents, raised $60M in equity and $55M in debt at a $1.7B valuation &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220616/p37#a220616p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
