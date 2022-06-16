@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League of Legends’ new champion Bel’Veth comes with an ocean of lore](https://www.polygon.com/23169846/league-of-legends-bel-veth-lore-explainer)
- - [Mass Effect Legendary Edition And 30 Other Games Will Be Free On Amazon Prime](https://kotaku.com/mass-effect-legendary-edition-bioware-amazon-prime-day-1849072201)
- - [Overwatch 2 is Free for All Starting October 4](https://news.xbox.com/en-us/2022/06/16/overwatch-2-is-free-for-all-starting-october-4/)<!-- GAME:END -->
+ - [See A24’s adorable oddity Marcel the Shell With Shoes On early and for free](https://www.polygon.com/23171419/marcel-the-shell-with-shoes-on-free-ticket-giveaway)
+ - [Capcom Letting Resident Evil Players Roll Back Ray Tracing, 3D Audio Upgrades On Steam](https://kotaku.com/resident-evil-2-3-7-remake-capcom-steam-update-upgrade-1849072452)
+ - [League of Legends’ new champion Bel’Veth comes with an ocean of lore](https://www.polygon.com/23169846/league-of-legends-bel-veth-lore-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
