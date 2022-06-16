@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard says its internal review found that there is &quot;no widespread harassment, or systemic harassment&quot; at the company &lpar;Ed Smith/PCGamesN&rpar;](http://www.techmeme.com/220616/p25#a220616p25)
- - [Vergecast: Dish’s 5G network, Apple’s Major League Soccer deal, and Google’s AI debate](https://www.theverge.com/2022/6/16/23170968/network-oran-project-genesis-mls-apple-tv-google-lambda-vergecast-podcast-501-dish)
- - [Quick fixes: grouping Sonos speakers without the app](https://www.theverge.com/23170997/sonos-quickly-group-speakers-how-to)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [The Verge’s favorite camera gear](https://www.theverge.com/23165796/cameras-photography-favorites-sony-fuji)
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
