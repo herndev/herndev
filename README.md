@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boring Company receives approval for expanding its tunnels to downtown Las Vegas](https://www.theverge.com/2022/6/15/23170170/the-boring-company-las-vegas-loop-tunnels-expand)
- - [Instagram Stories Repeating for You? Company Releases App Update With Bug Fixes     - CNET](https://www.cnet.com/tech/services-and-software/instagram-stories-repeating-for-you-company-releases-app-update-with-bug-fixes/#ftag=CAD590a51e)
- - [BitMEX co-founder Benjamin Delo is sentenced to 30 months probation without home confinement after pleading guilty to violating the US Bank Secrecy Act &lpar;Aislinn Keely/The Block&rpar;](http://www.techmeme.com/220615/p29#a220615p29)<!-- TECH:END -->
+ - [Why More People Need to Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39; Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
