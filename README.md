@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In occupied Ukraine, Russia is forcing multiple ISPs to reroute connections through Russian infrastructure, subjecting traffic to censorship and surveillance &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220616/p14#a220616p14)
- - [A look at Twitter&#39;s research into its offensive content tweet pop-ups, resulting in a positive change in long-term behavior even though 69% still sent the tweet &lpar;Ryan Broderick/Garbage Day&rpar;](http://www.techmeme.com/220616/p13#a220616p13)
- - [How to cancel a subscription on an iPhone or iPad](https://www.androidauthority.com/cancel-subscription-iphone-3176194/)<!-- TECH:END -->
+ - [Some Ethereum miners express reservations about the planned shift to a proof-of-stake model, arguing it makes expensive mining equipment useless &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p17#a220616p17)
+ - [The Many Possible Futures of Streaming Television](https://www.wired.com/story/gadget-lab-podcast-554/)
+ - [Why Watch Content on Your Phone When You Can Watch It on Your TV?](https://www.wired.com/story/cast-from-phone-to-tv-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
