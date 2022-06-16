@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy VII Remake is coming to Steam on June 17th](https://www.theverge.com/2022/6/16/23170144/final-fantasy-7-remake-steam-release-date)
- - [Roku raises its ad revenue share for ad-supported streaming channels to 45% from 40% and requires linear channels to use Roku&#39;s ad insertion technology and CDN &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220616/p38#a220616p38)
- - [HomeLight, which offers AI-powered tools for home buyers, sellers, and real estate agents, raised $60M in equity and $55M in debt at a $1.7B valuation &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220616/p37#a220616p37)<!-- TECH:END -->
+ - [Boston-based remote notarization startup Notarize has laid off 110 of ~440 employees, or 25% of its workforce; Notarize was valued at $760M in March 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220616/p40#a220616p40)
+ - [Does Catalyst Black have controller support?](https://www.androidauthority.com/pair-controller-catalyst-black-3177358/)
+ - [Crisis Core: Final Fantasy VII remake coming to consoles and PC this winter](https://www.theverge.com/2022/6/16/23171813/crisis-core-final-fantasy-7-remake-ps4-ps5-pc-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
