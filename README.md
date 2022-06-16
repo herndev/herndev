@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2022 will take place on July 12th and 13th](https://www.theverge.com/2022/6/16/23152230/amazon-prime-day-dates-july-2022-sale)
- - [A look at hacking group Cyber Partisans, which seeks to overthrow Belarus&#39; government and has disrupted Russia&#39;s supply lines in Belarus for the war in Ukraine &lpar;Ryan Gallagher/Bloomberg&rpar;](http://www.techmeme.com/220616/p4#a220616p4)
- - [Japan passes an amendment making &quot;online insults&quot; punishable by up to a year in prison, after the suicide of a reality TV star who had faced social media abuse &lpar;CNN&rpar;](http://www.techmeme.com/220616/p3#a220616p3)<!-- TECH:END -->
+ - [Researchers say Big Tech&#39;s political ad bans are a charade and likely had minimal impact on curbing misinformation while hurting smaller advocacy groups &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220616/p6#a220616p6)
+ - [Sources: the US increased its funding into VPN companies nthLink, Psiphon, and Lantern by about 50% since February to support the surge in their Russian users &lpar;Reuters&rpar;](http://www.techmeme.com/220616/p5#a220616p5)
+ - [Sonos accidentally sent a man a truckload of speakers worth thousands of dollars](https://www.androidauthority.com/sonos-order-glitch-3177052/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
