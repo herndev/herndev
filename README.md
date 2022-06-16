@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [See A24’s adorable oddity Marcel the Shell With Shoes On early and for free](https://www.polygon.com/23171419/marcel-the-shell-with-shoes-on-free-ticket-giveaway)
- - [Capcom Letting Resident Evil Players Roll Back Ray Tracing, 3D Audio Upgrades On Steam](https://kotaku.com/resident-evil-2-3-7-remake-capcom-steam-update-upgrade-1849072452)
- - [League of Legends’ new champion Bel’Veth comes with an ocean of lore](https://www.polygon.com/23169846/league-of-legends-bel-veth-lore-explainer)<!-- GAME:END -->
+ - [Everything Shown During The Overwatch 2 ‘Reveal’ Event](https://kotaku.com/overwatch-2-beta-junker-queen-pve-roadmap-lootboxes-1849073088)
+ - [Original versions of Resident Evil remakes return to Steam after &#39;overwhelming community response&#39;](https://www.pcgamer.com/original-versions-of-resident-evil-remakes-return-to-steam-after-overwhelming-community-response)
+ - [Zenless Zone Zero: what&#39;s there to know about HoYoverse&#39;s next action game?](https://www.pcgamer.com/zenless-zone-zero-characters-trailer-gameplay-gacha)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
