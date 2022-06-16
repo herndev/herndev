@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1996 Elder Scrolls Game Re-Released With Modern Controls, New Visuals](https://kotaku.com/elder-scrolls-ii-daggerfall-bethesda-mods-pc-unity-rema-1849068558)
- - [Valheim will have crossplay with the upcoming Xbox version](https://www.pcgamer.com/valheim-will-have-crossplay-with-the-upcoming-xbox-version)
- - [Halo Infinite studio apologies for &#39;offensive and hurtful&#39; word in Juneteenth cosmetic](https://www.pcgamer.com/halo-infinite-studio-apologies-for-offensive-and-hurtful-word-in-juneteenth-cosmetic)<!-- GAME:END -->
+ - [Fallout 5 should go back to where it started: California](https://www.pcgamer.com/fallout-5-should-go-back-to-where-it-started-california)
+ - [It&#39;s Always A Good Time To Play Persona 3](https://kotaku.com/its-always-a-good-time-to-play-persona-3-1846768802)
+ - [1996 Elder Scrolls Game Re-Released With Modern Controls, New Visuals](https://kotaku.com/elder-scrolls-ii-daggerfall-bethesda-mods-pc-unity-rema-1849068558)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
