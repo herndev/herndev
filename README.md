@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Naruto skins are coming to Fortnite](https://www.polygon.com/fortnite/23171015/fortnite-naruto-skins-team-8-release-date)
- - [We watched over 200 game trailers across five showcases — here’s what stood out](https://www.polygon.com/23165828/summer-games-fest-best-games-announced)
- - [Free Play Days – Assassin’s Creed Origins, Dead Island Definitive Edition, and I Am Fish](https://news.xbox.com/en-us/2022/06/16/free-play-days-assassins-creed-origins-dead-island-definitive-edition-and-i-am-fish/)<!-- GAME:END -->
+ - [Award-Winning Harpist Slays Elden Ring Baddies By Plucking Some Strings](https://kotaku.com/elden-ring-anna-ellsworth-harp-margit-fell-omen-tree-se-1849071184)
+ - [Gatlopp’s goofy take on horror gives the Jumanji genre a new adult spin](https://www.polygon.com/reviews/23167504/gatlopp-review-drinking-game-horror-movie)
+ - [Apex Legends&#39; resident healer opens a new clinic on Olympus next week](https://www.pcgamer.com/apex-legends-resident-healer-opens-a-new-clinic-on-olympus-next-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
