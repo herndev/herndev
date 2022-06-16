@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike&#39;s good](http://9gag.com/gag/awz9m1x)
- - ⏩ [It has minerals they said](http://9gag.com/gag/arnDA2y)
+ - 💣 [Ha, got \u2018em](http://9gag.com/gag/aDDqnPG)
+ - ⏩ [He was so excited to be free](http://9gag.com/gag/a61e528)
  - 👉 [If we are boys and we are also friends... Maybe we are boyfriends...](http://9gag.com/gag/avABejW)<!-- MEMES:END -->
 
 ---
