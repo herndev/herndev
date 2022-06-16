@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft patches the Follina Windows zero-day, which let hackers execute malicious PowerShell commands and had been exploited by state-backed actors &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220616/p9#a220616p9)
- - [Samsung merges its Pay and Pass apps to create Wallet, letting users organize ID cards, keys, and crypto, rolling out now &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220616/p8#a220616p8)
- - [Tesla raises prices, again](https://www.theverge.com/2022/6/16/23170714/tesla-price-increase-june-2022-model-3-y-s)<!-- TECH:END -->
+ - [Alaskan, Finnish, and Japanese companies, alongside the Russian government, are planning Arctic undersea cables, made possible by shrinking ice coverage &lpar;Isabelle Bousquette/Wall Street Journal&rpar;](http://www.techmeme.com/220616/p12#a220616p12)
+ - [Can Democracy Include a World Beyond Humans?](https://www.wired.com/story/can-democracy-include-a-world-beyond-humans/)
+ - [Camo update lets you overlay graphics and text when using your phone as a webcam](https://www.theverge.com/2022/6/16/23169694/camo-information-overlays-phone-webcam-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
