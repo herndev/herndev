@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she alive?\u2060\u2060](http://9gag.com/gag/aZr410z)
- - ⏩ [Quality over quantity](http://9gag.com/gag/amgOoV2)
- - 👉 [So long fella](http://9gag.com/gag/aAGL6vL)<!-- MEMES:END -->
+ - 💣 [In case you don&#39;t know that movie already, you should watch it. 12 Angry Men](http://9gag.com/gag/awz9geB)
+ - ⏩ [&lpar;2020&rpar; proportion of 25-29 year olds living with their parents](http://9gag.com/gag/avAB1qb)
+ - 👉 [Is she alive?\u2060\u2060](http://9gag.com/gag/aZr410z)<!-- MEMES:END -->
 
 ---
 
