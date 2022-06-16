@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
- - ⏩ [Robin Williams&#39; Jumanji is still the best](http://9gag.com/gag/amgOxKd)
- - 👉 [True or false](http://9gag.com/gag/aM40zRR)<!-- MEMES:END -->
+ - 💣 [True or false](http://9gag.com/gag/aM40zRR)
+ - ⏩ [Drops the mic!](http://9gag.com/gag/a21AbMY)
+ - 👉 [Cheese and frickin rice](http://9gag.com/gag/a9142oD)<!-- MEMES:END -->
 
 ---
 
