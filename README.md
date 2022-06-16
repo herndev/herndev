@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New details on Call of Duty: Vanguard and Warzone: Mercenaries of Fortune, out June 22](https://blog.playstation.com/2022/06/16/new-details-on-call-of-duty-vanguard-and-warzone-mercenaries-of-fortune-out-june-22/)
- - [New details on Call of Duty: Vanguard and Warzone: Mercenaries of Fortune, out June 22](https://blog.playstation.com/2022/06/16/new-details-on-call-of-duty-vanguard-and-warzone-mercenaries-of-fortune-out-june-22/)
- - [The US to join forces with Japan to produce bleeding-edge 2nm chips by 2025](https://www.pcgamer.com/the-us-to-join-forces-with-japan-to-produce-bleeding-edge-2nm-chips-by-2025)<!-- GAME:END -->
+ - [League of Legends’ new champion Bel’Veth comes with an ocean of lore](https://www.polygon.com/23169846/league-of-legends-bel-veth-lore-explainer)
+ - [Mass Effect Legendary Edition And 30 Other Games Will Be Free On Amazon Prime](https://kotaku.com/mass-effect-legendary-edition-bioware-amazon-prime-day-1849072201)
+ - [Overwatch 2 is Free for All Starting October 4](https://news.xbox.com/en-us/2022/06/16/overwatch-2-is-free-for-all-starting-october-4/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
