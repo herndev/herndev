@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy VII Prequel Crisis Core Getting Remake Treatment This Winter](https://kotaku.com/final-fantasy-vii-7-crisis-core-remake-zack-fair-cloud-1849073281)
- - [Final Fantasy 7 Ever Crisis gets new trailer, closed beta later this year](https://www.polygon.com/23171376/final-fantasy-7-ever-crisis-closed-beta-anniversary)
- - [Final Fantasy 7 Remake Intergrade coming to Steam](https://www.polygon.com/23171809/final-fantasy-7-remake-pc-steam-release-date)<!-- GAME:END -->
+ - [Capcom is finally making Dragon’s Dogma 2](https://www.polygon.com/23171878/dragons-dogma-2-release-date-capcom-trailer)
+ - [Confirmed: Dragon&#39;s Dogma Is Getting A Sequel](https://kotaku.com/dragons-dogma-ii-capcom-sequel-10-year-anniversary-1849074098)
+ - [Mutant Rat Rampages Through Streets Of New York In The Second Stage Of TMNT: Shredder&#39;s Revenge](https://kotaku.com/splinter-teenage-mutant-ninja-turtles-shredders-revenge-1849073757)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
