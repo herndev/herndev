@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This PC orchestra, built from 512 floppy disk drives, is wondrous to hear and behold](https://www.theverge.com/2022/6/16/23170696/pc-hardware-orchestra-floppy-disk-drive-floppotron-3)
  - [Samsung launches Samsung Wallet, a one-stop shop to manage your digital identity](https://www.androidauthority.com/samsung-wallet-launch-3176889/)
- - [Samsung Wallet is back to organize your ID, keys, and crypto](https://www.theverge.com/2022/6/16/23169586/samsung-wallet-pay-pass-id-keys-boarding-pass)
- - [Amazon Prime Day 2022 dates and early deals announced](https://www.androidauthority.com/amazon-prime-day-2022-3159044/)<!-- TECH:END -->
+ - [Samsung Launches Mobile Wallet App to Compete With Apple and Google     - CNET](https://www.cnet.com/tech/mobile/samsung-launches-mobile-wallet-app-to-compete-with-apple-and-google/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
