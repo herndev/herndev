@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Witness the Tarantula Nebula: Scientists Capture Stunning View of Violent Star Factory     - CNET](https://www.cnet.com/science/space/witness-the-tarantula-nebula-scientists-capture-stunning-view-of-violent-star-factory/#ftag=CAD590a51e)
- - [Netgear R6700AX Review: Sturdy Speeds From This Affordable Wi-Fi 6 Router     - CNET](https://www.cnet.com/news/netgear-r6700ax-review-sturdy-speeds-from-this-affordable-wi-fi-6-router/#ftag=CAD590a51e)
- - [Netflix’s Spiderhead makes its dystopic sci-fi vision seem playful](https://www.theverge.com/23171042/spiderhead-review-netflix-chris-hemsworth)<!-- TECH:END -->
+ - [Sources: BlockFi was among the groups that liquidated at least some of the positions in Three Arrows, which failed to meet margin calls this past weekend &lpar;Financial Times&rpar;](http://www.techmeme.com/220616/p30#a220616p30)
+ - [Meet the unique group of polar bears living with less sea ice](https://www.theverge.com/2022/6/16/23170894/polar-bears-sea-ice-greenland-climate-change-refuge)
+ - [Instagram is chasing TikTok with a new full-screen experience test](https://www.theverge.com/2022/6/16/23170210/instagram-full-screen-video-feed-another-test-tiktok-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
