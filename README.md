@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bromance](http://9gag.com/gag/a51927o)
- - ⏩ [True or false](http://9gag.com/gag/aM40zRR)
- - 👉 [Nice shovel](http://9gag.com/gag/ang0x30)<!-- MEMES:END -->
+ - 💣 [True or false](http://9gag.com/gag/aM40zRR)
+ - ⏩ [Let&#39;s count to five bananas](http://9gag.com/gag/aNPGBmA)
+ - 👉 [More than 10,000 cattles died cause of heat stroke in Kansas, US.](http://9gag.com/gag/aXrm4AD)<!-- MEMES:END -->
 
 ---
 
