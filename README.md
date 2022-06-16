@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say Big Tech&#39;s political ad bans are a charade and likely had minimal impact on curbing misinformation while hurting smaller advocacy groups &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220616/p6#a220616p6)
- - [Sources: the US increased its funding into VPN companies nthLink, Psiphon, and Lantern by about 50% since February to support the surge in their Russian users &lpar;Reuters&rpar;](http://www.techmeme.com/220616/p5#a220616p5)
- - [Sonos accidentally sent a man a truckload of speakers worth thousands of dollars](https://www.androidauthority.com/sonos-order-glitch-3177052/)<!-- TECH:END -->
+ - [Samsung launches Samsung Wallet, a one-stop shop to manage your digital identity](https://www.androidauthority.com/samsung-wallet-launch-3176889/)
+ - [Samsung Wallet is back to organize your ID, keys, and crypto](https://www.theverge.com/2022/6/16/23169586/samsung-wallet-pay-pass-id-keys-boarding-pass)
+ - [Amazon Prime Day 2022 dates and early deals announced](https://www.androidauthority.com/amazon-prime-day-2022-3159044/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
