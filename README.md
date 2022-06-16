@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP](http://9gag.com/gag/aOQnZmr)
- - ⏩ [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)
- - 👉 [Bro chill](http://9gag.com/gag/amgOm92)<!-- MEMES:END -->
+ - 💣 [Crypto holders right now.](http://9gag.com/gag/aKmXv2Z)
+ - ⏩ [Another employee lied and got me fired. I was going to take her to lunch and a movie.. I hope she likes nature walks and water](http://9gag.com/gag/aegqZ8m)
+ - 👉 [No no no no si, gracias](http://9gag.com/gag/aOQnZBE)<!-- MEMES:END -->
 
 ---
 
