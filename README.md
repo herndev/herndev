@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dead End: Paranormal Park’s one of those fantastic queer cartoons you’re always hearing about](https://www.theverge.com/23171056/dead-end-paranormal-park-review-netflix)
- - [Apple releases M2-specific macOS Monterey 12.4 update ahead of MacBook Pro release](https://appleinsider.com/articles/22/06/16/apple-releases-m2-specific-macos-monterey-124-update-ahead-of-macbook-pro-release?utm_medium=rss)
- - [Apple hosts premiere event for own comedy series &#39;Loot&#39;](https://appleinsider.com/articles/22/06/16/apple-hosts-premiere-event-for-own-comedy-series-loot?utm_medium=rss)<!-- TECH:END -->
+ - [You can 3D print an iPhone Continuity Camera mount before the actual ones arrive](https://www.theverge.com/2022/6/16/23171424/apple-iphone-mac-webcam-continuity-camera-mount-3d-printed)
+ - [Securities regulators in Texas, Alabama, Kentucky, New Jersey, and Washington are investigating Celsius Network&#39;s decision to suspend customer redemptions &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220616/p33#a220616p33)
+ - [Microsoft launches Defender for Individuals, a centralized online security dashboard, for Microsoft 365 Family and Personal users on PC, Mac, iOS, and Android &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220616/p32#a220616p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
