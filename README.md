@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He absolutely loves his new toy](http://9gag.com/gag/azevOqp)
- - ⏩ [Die Autobahn.](http://9gag.com/gag/aBnbPj1)
- - 👉 [Monke gym](http://9gag.com/gag/aPZV87G)<!-- MEMES:END -->
+ - 💣 [Monke gym](http://9gag.com/gag/aPZV87G)
+ - ⏩ [Rate my setup](http://9gag.com/gag/a21AyMZ)
+ - 👉 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)<!-- MEMES:END -->
 
 ---
 
