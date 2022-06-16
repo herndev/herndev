@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s second-ever permanent store is open now](https://www.androidauthority.com/google-store-new-york-brooklyn-3176848/)
- - [Analysis: 33 of the top 100 US hospitals used the Meta Pixel tracker, sending data back to Facebook, including details about prescriptions and conditions &lpar;The Markup&rpar;](http://www.techmeme.com/220616/p21#a220616p21)
- - [The best new streaming movies this week on Netflix, Apple TV Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [Activision Blizzard says its internal review found that there is &quot;no widespread harassment, or systemic harassment&quot; at the company &lpar;Ed Smith/PCGamesN&rpar;](http://www.techmeme.com/220616/p25#a220616p25)
+ - [Vergecast: Dish’s 5G network, Apple’s Major League Soccer deal, and Google’s AI debate](https://www.theverge.com/2022/6/16/23170968/network-oran-project-genesis-mls-apple-tv-google-lambda-vergecast-podcast-501-dish)
+ - [Quick fixes: grouping Sonos speakers without the app](https://www.theverge.com/23170997/sonos-quickly-group-speakers-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
