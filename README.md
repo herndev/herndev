@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He wants to be picked up.](http://9gag.com/gag/aNPGBL3)
- - ⏩ [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
+ - 💣 [DIY gone wrong](http://9gag.com/gag/aDDqVm7)
+ - ⏩ [Robin Williams&#39; Jumanji is still the best](http://9gag.com/gag/amgOxKd)
  - 👉 [True or false](http://9gag.com/gag/aM40zRR)<!-- MEMES:END -->
 
 ---
