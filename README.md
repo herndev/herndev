@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: BlockFi was among the groups that liquidated at least some of the positions in Three Arrows, which failed to meet margin calls this past weekend &lpar;Financial Times&rpar;](http://www.techmeme.com/220616/p30#a220616p30)
- - [Meet the unique group of polar bears living with less sea ice](https://www.theverge.com/2022/6/16/23170894/polar-bears-sea-ice-greenland-climate-change-refuge)
- - [Instagram is chasing TikTok with a new full-screen experience test](https://www.theverge.com/2022/6/16/23170210/instagram-full-screen-video-feed-another-test-tiktok-competition)<!-- TECH:END -->
+ - [Dead End: Paranormal Park’s one of those fantastic queer cartoons you’re always hearing about](https://www.theverge.com/23171056/dead-end-paranormal-park-review-netflix)
+ - [Apple releases M2-specific macOS Monterey 12.4 update ahead of MacBook Pro release](https://appleinsider.com/articles/22/06/16/apple-releases-m2-specific-macos-monterey-124-update-ahead-of-macbook-pro-release?utm_medium=rss)
+ - [Apple hosts premiere event for own comedy series &#39;Loot&#39;](https://appleinsider.com/articles/22/06/16/apple-hosts-premiere-event-for-own-comedy-series-loot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
