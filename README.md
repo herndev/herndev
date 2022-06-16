@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This PC orchestra, built from 512 floppy disk drives, is wondrous to hear and behold](https://www.theverge.com/2022/6/16/23170696/pc-hardware-orchestra-floppy-disk-drive-floppotron-3)
- - [Samsung launches Samsung Wallet, a one-stop shop to manage your digital identity](https://www.androidauthority.com/samsung-wallet-launch-3176889/)
- - [Samsung Launches Mobile Wallet App to Compete With Apple and Google     - CNET](https://www.cnet.com/tech/mobile/samsung-launches-mobile-wallet-app-to-compete-with-apple-and-google/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft patches the Follina Windows zero-day, which let hackers execute malicious PowerShell commands and had been exploited by state-backed actors &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220616/p9#a220616p9)
+ - [Samsung merges its Pay and Pass apps to create Wallet, letting users organize ID cards, keys, and crypto, rolling out now &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220616/p8#a220616p8)
+ - [Tesla raises prices, again](https://www.theverge.com/2022/6/16/23170714/tesla-price-increase-june-2022-model-3-y-s)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
