@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If we are boys and we are also friends... Maybe we are boyfriends...](http://9gag.com/gag/avABejW)
- - ⏩ [He was so excited to be free](http://9gag.com/gag/a61e528)
- - 👉 [RIP](http://9gag.com/gag/aOQnZmr)<!-- MEMES:END -->
+ - 💣 [RIP](http://9gag.com/gag/aOQnZmr)
+ - ⏩ [Bernie Sanders out here speaking the truth.](http://9gag.com/gag/arnDAEX)
+ - 👉 [Bro chill](http://9gag.com/gag/amgOm92)<!-- MEMES:END -->
 
 ---
 
