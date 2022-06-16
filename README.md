@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout 5 should go back to where it started: California](https://www.pcgamer.com/fallout-5-should-go-back-to-where-it-started-california)
- - [It&#39;s Always A Good Time To Play Persona 3](https://kotaku.com/its-always-a-good-time-to-play-persona-3-1846768802)
- - [1996 Elder Scrolls Game Re-Released With Modern Controls, New Visuals](https://kotaku.com/elder-scrolls-ii-daggerfall-bethesda-mods-pc-unity-rema-1849068558)<!-- GAME:END -->
+ - [Help 3D print these accessible controller adapters for people in need](https://www.pcgamer.com/help-3d-print-these-accessible-controller-adapters-for-people-in-need)
+ - [AOC unveils a flat ultrawide 34 inch mini LED gaming monitor](https://www.pcgamer.com/aoc-unveils-a-flat-ultrawide-34-inch-mini-led-gaming-monitor)
+ - [Fallout 5 should go back to where it started: California](https://www.pcgamer.com/fallout-5-should-go-back-to-where-it-started-california)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
