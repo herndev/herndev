@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Constantine 2, Keanu Reeves: `I want to do it, I&#39;m giving it my all &#39;](http://9gag.com/gag/arnDZy6)
- - ⏩ [Let&#39;s count to five bananas](http://9gag.com/gag/aNPGBmA)
- - 👉 [Another employee lied and got me fired. I was going to take her to lunch and a movie.. I hope she likes nature walks and water](http://9gag.com/gag/aegqZ8m)<!-- MEMES:END -->
+ - 💣 [He absolutely loves his new toy](http://9gag.com/gag/azevOqp)
+ - ⏩ [Die Autobahn.](http://9gag.com/gag/aBnbPj1)
+ - 👉 [Monke gym](http://9gag.com/gag/aPZV87G)<!-- MEMES:END -->
 
 ---
 
