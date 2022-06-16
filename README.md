@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can 3D print an iPhone Continuity Camera mount before the actual ones arrive](https://www.theverge.com/2022/6/16/23171424/apple-iphone-mac-webcam-continuity-camera-mount-3d-printed)
- - [Securities regulators in Texas, Alabama, Kentucky, New Jersey, and Washington are investigating Celsius Network&#39;s decision to suspend customer redemptions &lpar;Hannah Lang/Reuters&rpar;](http://www.techmeme.com/220616/p33#a220616p33)
- - [Microsoft launches Defender for Individuals, a centralized online security dashboard, for Microsoft 365 Family and Personal users on PC, Mac, iOS, and Android &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220616/p32#a220616p32)<!-- TECH:END -->
+ - [Amazon Prime Day will have more than 30 free games, including Mass Effect](https://www.theverge.com/2022/6/16/23171580/amazon-prime-day-free-games-mass-effect-legendary-edition)
+ - [Apple&#39;s iOS 16 lets you remove 30 stock apps](https://appleinsider.com/articles/22/06/16/apples-ios-16-lets-you-remove-29-stock-apps?utm_medium=rss)
+ - [Activision Blizzard investigated Activision Blizzard and found Activision Blizzard didn’t do anything wrong](https://www.theverge.com/2022/6/16/23171447/activision-blizzard-investigation-sec-filing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
