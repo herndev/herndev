@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monke gym](http://9gag.com/gag/aPZV87G)
- - ⏩ [Rate my setup](http://9gag.com/gag/a21AyMZ)
+ - 💣 [Rate my setup](http://9gag.com/gag/a21AyMZ)
+ - ⏩ [Robin Williams&#39; Jumanji is still the best](http://9gag.com/gag/amgOxKd)
  - 👉 [Mouse stuck in pasta](http://9gag.com/gag/aKmXWZj)<!-- MEMES:END -->
 
 ---
