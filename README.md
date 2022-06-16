@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightning AI, which develops the open-source PyTorch Lightning framework, has raised a $40M Series B led by Coatue &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220616/p19#a220616p19)
- - [Daily deals June 16: iPhone 12 and Apple Watch Series 6 scratch &amp; dent sale on Woot!, discounted AirTags, more](https://appleinsider.com/articles/22/06/16/daily-deals-june-16-iphone-12-and-apple-watch-series-6-scratch-dent-sale-on-woot-discounted-airtags-more?utm_medium=rss)
- - [The best floodlight camera to buy right now](https://www.theverge.com/22811985/best-smart-floodlight-security-camera)<!-- TECH:END -->
+ - [Google’s second-ever permanent store is open now](https://www.androidauthority.com/google-store-new-york-brooklyn-3176848/)
+ - [Analysis: 33 of the top 100 US hospitals used the Meta Pixel tracker, sending data back to Facebook, including details about prescriptions and conditions &lpar;The Markup&rpar;](http://www.techmeme.com/220616/p21#a220616p21)
+ - [The best new streaming movies this week on Netflix, Apple TV Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
