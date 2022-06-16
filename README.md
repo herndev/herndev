@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Do Yourself A Favor And Listen To Ryu’s New Street Fighter 6 Theme](https://kotaku.com/street-fighter-6-theme-ryu-music-chun-li-luke-capcom-so-1849073427)
- - [$13.5M settlement puts the cost of one Destiny 2 cheater at $2,000](https://www.pcgamer.com/dollar135m-settlement-puts-the-cost-of-one-destiny-2-cheater-at-dollar2000)
- - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)<!-- GAME:END -->
+ - [Final Fantasy VII Prequel Crisis Core Getting Remake Treatment This Winter](https://kotaku.com/final-fantasy-vii-7-crisis-core-remake-zack-fair-cloud-1849073281)
+ - [Final Fantasy 7 Ever Crisis gets new trailer, closed beta later this year](https://www.polygon.com/23171376/final-fantasy-7-ever-crisis-closed-beta-anniversary)
+ - [Final Fantasy 7 Remake Intergrade coming to Steam](https://www.polygon.com/23171809/final-fantasy-7-remake-pc-steam-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
