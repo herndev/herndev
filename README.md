@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [The Verge’s favorite camera gear](https://www.theverge.com/23165796/cameras-photography-favorites-sony-fuji)
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)<!-- TECH:END -->
+ - [Witness the Tarantula Nebula: Scientists Capture Stunning View of Violent Star Factory     - CNET](https://www.cnet.com/science/space/witness-the-tarantula-nebula-scientists-capture-stunning-view-of-violent-star-factory/#ftag=CAD590a51e)
+ - [Netgear R6700AX Review: Sturdy Speeds From This Affordable Wi-Fi 6 Router     - CNET](https://www.cnet.com/news/netgear-r6700ax-review-sturdy-speeds-from-this-affordable-wi-fi-6-router/#ftag=CAD590a51e)
+ - [Netflix’s Spiderhead makes its dystopic sci-fi vision seem playful](https://www.theverge.com/23171042/spiderhead-review-netflix-chris-hemsworth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
