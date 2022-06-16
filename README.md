@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why More People Need to Watch the Best TV Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-the-best-tv-show-on-netflix/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39; Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
- - [Here’s what happens when Sonos won’t stop sending you speakers](https://www.theverge.com/2022/6/15/23169668/sonos-ordering-glitch-sent-30-speaker-shipments)<!-- TECH:END -->
+ - [DealHub, whose configure, price, and quote software tools help businesses quote complex and configurable products, has raised $60M led by Alpha Wave Global &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220615/p33#a220615p33)
+ - [Genshin Impact: How to change your email address](https://www.androidauthority.com/change-email-address-genshin-3176997/)
+ - [SwitchBot’s retrofit smart door lock installs in under a minute](https://www.theverge.com/2022/6/15/23159606/switchbot-smart-door-lock-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
