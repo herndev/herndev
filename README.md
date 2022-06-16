@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OlliOlli World adds skater-abducting aliens](https://www.pcgamer.com/olliolli-world-adds-skater-abducting-aliens)
- - [Today&#39;s Wordle answer guide #362: Thursday, June 16](https://www.pcgamer.com/todays-wordle-answer-june-16)
- - [Sonos accidentally sent one customer $15,000 worth of audio equipment and charged them for it](https://www.pcgamer.com/sonos-accidentally-sent-one-customer-dollar15000-worth-of-audio-equipment-and-charged-them-for-it)<!-- GAME:END -->
+ - [Street Fighter 6’s Cheat Mode Is A Game Changer](https://kotaku.com/street-fighter-6-impressions-roster-crossplay-rollback-1849067735)
+ - [Amazon will give away 30 games, including Mass Effect Legendary Edition, next month](https://www.polygon.com/2022/6/16/23170855/amazon-prime-day-2022-deals-free-video-games)
+ - [Nightmare Frames finds the horror in 1980s Hollywood](https://www.polygon.com/reviews/23170094/nightmare-frames-review-horror-games-point-and-click-adventures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
