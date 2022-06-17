@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK publishes its final response to a data reform consultation to diverge from EU rules, including replacing cookie pop-ups with browser-based opt-outs &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220617/p8#a220617p8)
- - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
- - [Apple starts taking preorders start for M2 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/17/apple-starts-taking-preorders-start-for-m2-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Best deals June 17: 20% off Eero router 2-pack, Roku Ultra 4K for $80, AirPods for $99, more](https://appleinsider.com/articles/22/06/17/best-deals-june-17-20-off-eero-router-2-pack-roku-ultra-4k-for-80-airpods-for-99-more?utm_medium=rss)
+ - [Elon Musk’s plan is to run Twitter off the top of his head](https://www.theverge.com/2022/6/17/23172380/elon-musk-twitter-meeting-employee-reactions)
+ - [Garmin Forerunner 255S review: running with the big dogs](https://www.theverge.com/23171721/garmin-forerunner-255s-review-running-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
