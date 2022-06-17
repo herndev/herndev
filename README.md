@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players creators on how they brought their ‘esports love story’ to life](https://www.polygon.com/23166135/players-show-paramount-plus-interview-creators-league-of-legends-esports-lol-american-vandal)
- - [Vince McMahon Steps Back As WWE CEO Amid Investigation Of Alleged Employee Affair](https://kotaku.com/wwe-vince-mcmahon-stephanie-mcmahon-investigation-affai-1849077094)
- - [How to save Nick in The Quarry](https://www.pcgamer.com/quarry-nick)<!-- GAME:END -->
+ - [Elon Musk Faces $258 Billion Lawsuit Over Alleged Dogecoin Pyramid Scheme](https://kotaku.com/elon-musk-lawsuit-dogecoin-258-billion-class-action-cry-1849077456)
+ - [Autonauts Has Landed on Xbox](https://news.xbox.com/en-us/2022/06/17/autonauts-has-landed-on-xbox/)
+ - [It took me maybe 10 seconds to fall in love with Schim](https://www.pcgamer.com/it-took-me-maybe-10-seconds-to-fall-in-love-with-schim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
