@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer guide #363: Friday, June 17](https://www.pcgamer.com/wordle-today-june-17-363)
- - [Welcome To Sushi Town](https://kotaku.com/welcome-to-sushi-town-1849074702)
- - [Epic&#39;s free multiplayer tools let developers enable Steam crossplay](https://www.pcgamer.com/epics-free-multiplayer-tools-let-developers-enable-steam-crossplay)<!-- GAME:END -->
+ - [The best gaming monitors in 2022](https://www.pcgamer.com/best-gaming-monitor)
+ - [Halo Infinite issues fixed on Steam Deck with new Windows drivers](https://www.pcgamer.com/windows-drivers-steam-deck-halo-infinite)
+ - [Today&#39;s Wordle answer guide #363: Friday, June 17](https://www.pcgamer.com/wordle-today-june-17-363)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
