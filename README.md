@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to bully 101](http://9gag.com/gag/awz98Zr)
- - ⏩ [True](http://9gag.com/gag/aogGdQm)
- - 👉 [Drag Queen says drag is not for kids.](http://9gag.com/gag/aLvOrqz)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/aogGdQm)
+ - ⏩ [Where he at](http://9gag.com/gag/adgW4eB)
+ - 👉 [Yap..next question.](http://9gag.com/gag/aRr8yR7)<!-- MEMES:END -->
 
 ---
 
