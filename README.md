@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things I Wished I Knew Before Starting Neon White](https://kotaku.com/neon-white-tips-tricks-secrets-shortcuts-nintendo-switc-1849078211)
- - [TMNT: Shredder&#39;s Revenge Is Heckin&#39; Dope](https://kotaku.com/tmnt-shredders-revenge-review-tribute-game-dotemu-multi-1849077972)
- - [Madcap modders have ported PS2 platformer Jak and Daxter to PC](https://www.pcgamer.com/madcap-modders-have-ported-ps2-platformer-jak-and-daxter-to-pc)<!-- GAME:END -->
+ - [Cha Cha Real Smooth proves it’s possible for a director to love his character way too much](https://www.polygon.com/23171593/cha-cha-real-smooth-review-cooper-raiff)
+ - [I WooHooed an alpha wolf and then betrayed him in The Sims 4 Werewolves](https://www.pcgamer.com/i-woohooed-an-alpha-wolf-and-then-betrayed-him-in-the-sims-4-werewolves)
+ - [Madden 23’s director calls on James Cameron’s Avatar camera to film in virtual reality](https://www.polygon.com/23156015/madden-nfl-23-preview-head-scans-players-coaches)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
