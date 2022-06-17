@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy 2-day Apple flash sale: up to $200 off MacBooks, iPhones, iPads, Apple Watch, AirPods &amp; more](https://appleinsider.com/articles/22/06/17/best-buy-2-day-apple-flash-sale-up-to-200-off-macbooks-iphones-ipads-apple-watch-airpods-more?utm_medium=rss)
- - [Samsung Galaxy XCover 6 Pro has a launch date, rugged tablet tagging along](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-galaxy-tab-active-4-pro-3177432/)
- - [How to use Apple&#39;s Contacts app hidden power to improve your iPhone](https://appleinsider.com/inside/iphone/tips/how-to-use-apples-contacts-app-hidden-power-to-improve-your-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Roku unveils an e-commerce deal with Walmart, allowing TV viewers to use remotes to shop during commercials and check out with Roku Pay; stock up 4% after hours &lpar;Etan Vlessing/Hollywood Reporter&rpar;](http://www.techmeme.com/220617/p1#a220617p1)
+ - [SpaceX fires employees who wrote open letter complaining about Elon Musk: report](https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints)
+ - [One Strange Reason Why the Boston Celtics May Have Lost NBA Finals Game 6     - CNET](https://www.cnet.com/science/biology/one-strange-reason-why-the-boston-celtics-may-have-lost-nba-finals-game-6/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
