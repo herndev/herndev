@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung has some very lofty goals for foldables this year](https://www.androidauthority.com/samsung-foldable-shipment-estimate-3177651/)
- - [TikTok says it has completed migrating its US users&#39; data to Oracle&#39;s servers in the US &lpar;Reuters&rpar;](http://www.techmeme.com/220617/p16#a220617p16)
- - [The Moon Is a Harsh Mistress Makes Lunar Rebellion Fun](https://www.wired.com/2022/06/geeks-guide-robert-heinlein/)<!-- TECH:END -->
+ - [Final Fantasy VII Rebirth Isn&#39;t the Game You&#39;re Expecting](https://www.wired.com/story/thirsty-suitors-essay/)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [FAA says Verizon and AT&amp;T will soon be able to use the good 5G](https://www.theverge.com/2022/6/17/23172731/verizon-att-c-band-5g-rollout-faa-deal-airports-plan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
