@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bought a truck and starting my own transport company in August 55.000\u20ac loan total for starting The shortage of drivers is huge so there should be more than enough work for me to make a decent living](http://9gag.com/gag/aE8jQwe)
+ - 💣 [Hiding place during war in Vietnam](http://9gag.com/gag/aRr8Dd5)
  - ⏩ [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
- - 👉 [Drag Queen says drag is not for kids.](http://9gag.com/gag/aLvOrqz)<!-- MEMES:END -->
+ - 👉 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
 
 ---
 
