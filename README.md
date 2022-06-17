@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based remote notarization startup Notarize has laid off 110 of ~440 employees, or 25% of its workforce; Notarize was valued at $760M in March 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220616/p40#a220616p40)
- - [Does Catalyst Black have controller support?](https://www.androidauthority.com/pair-controller-catalyst-black-3177358/)
- - [Crisis Core: Final Fantasy VII remake coming to consoles and PC this winter](https://www.theverge.com/2022/6/16/23171813/crisis-core-final-fantasy-7-remake-ps4-ps5-pc-steam)<!-- TECH:END -->
+ - [Some employees say although Musk sounded genuinely enthusiastic about owning and running Twitter, the meeting reinforced their mostly negative beliefs about him &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220616/p44#a220616p44)
+ - [Snap is testing Snapchat Plus, a paid subscription service which will give users early access to exclusive, experimental, and pre-release features &lpar;The Verge&rpar;](http://www.techmeme.com/220616/p43#a220616p43)
+ - [India-based FanClash, which lets users compete with one another with fantasy esports teams via its mobile app, raised a $40M Series B led by Alpha Wave Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220616/p42#a220616p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
