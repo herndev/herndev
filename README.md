@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final Fantasy VII Rebirth Isn&#39;t the Game You&#39;re Expecting](https://www.wired.com/story/thirsty-suitors-essay/)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
- - [FAA says Verizon and AT&amp;T will soon be able to use the good 5G](https://www.theverge.com/2022/6/17/23172731/verizon-att-c-band-5g-rollout-faa-deal-airports-plan)<!-- TECH:END -->
+ - [Blake Lemoine Says Google&#39;s LaMDA AI Faces &#39;Bigotry&#39;](https://www.wired.com/story/blake-lemoine-google-lamda-ai-bigotry/)
+ - [New price drop: lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $39.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
+ - [Destiny 2 cheat creators come to a $13.5 million settlement with Bungie](https://www.theverge.com/2022/6/17/23172558/destiny-2-bungie-cheat-settlement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
