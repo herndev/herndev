@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve VR patent stirs up fresh hopes about rumored standalone Deckard headset](https://www.theverge.com/2022/6/17/23172293/valve-deckard-vr-headset-rumor-patent-images-leak)
- - [Prague-based online grocery delivery service Rohlik has raised a &amp;euro;220M Series D led by Sofina and says it had revenues of &amp;euro;500M in 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220617/p4#a220617p4)
- - [Apple Music, Spotify, Amazon, lose million music subscribers in UK](https://appleinsider.com/articles/22/06/17/apple-music-spotify-amazon-lose-million-music-subscribers-in-uk?utm_medium=rss)<!-- TECH:END -->
+ - [Apple is the world&#39;s most valuable brand, says yet another spurious report](https://appleinsider.com/articles/22/06/17/apple-is-the-worlds-most-valuable-brand-says-yet-another-spurious-report?utm_medium=rss)
+ - [How Setapp&#39;s app service is building value for developers and users](https://appleinsider.com/articles/22/06/17/how-setapps-app-service-is-building-value-for-developers-and-users?utm_medium=rss)
+ - [Daily Authority: 👉 An actual cult in Google?](https://www.androidauthority.com/da-june-17-2022-3177522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
