@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best deals June 17: 20% off Eero router 2-pack, Roku Ultra 4K for $80, AirPods for $99, more](https://appleinsider.com/articles/22/06/17/best-deals-june-17-20-off-eero-router-2-pack-roku-ultra-4k-for-80-airpods-for-99-more?utm_medium=rss)
- - [Elon Musk’s plan is to run Twitter off the top of his head](https://www.theverge.com/2022/6/17/23172380/elon-musk-twitter-meeting-employee-reactions)
- - [Garmin Forerunner 255S review: running with the big dogs](https://www.theverge.com/23171721/garmin-forerunner-255s-review-running-watch)<!-- TECH:END -->
+ - [US lawmakers call for universal charging standard - but not necessarily for USB-C](https://appleinsider.com/articles/22/06/17/us-lawmakers-call-for-universal-charging-standard---but-not-necessarily-for-usb-c?utm_medium=rss)
+ - [These Retro Gaming Consoles Deliver a Dose of Nostalgia](https://www.wired.com/gallery/best-retro-gaming-consoles/)
+ - [Some UK creators say they abandoned TikTok Shop&#39;s e-commerce program due to poor pay, long hours, and having to take flak for limited stock and shipping issues &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220617/p11#a220617p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
