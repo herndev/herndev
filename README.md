@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom is finally making Dragon’s Dogma 2](https://www.polygon.com/23171878/dragons-dogma-2-release-date-capcom-trailer)
- - [Confirmed: Dragon&#39;s Dogma Is Getting A Sequel](https://kotaku.com/dragons-dogma-ii-capcom-sequel-10-year-anniversary-1849074098)
- - [Mutant Rat Rampages Through Streets Of New York In The Second Stage Of TMNT: Shredder&#39;s Revenge](https://kotaku.com/splinter-teenage-mutant-ninja-turtles-shredders-revenge-1849073757)<!-- GAME:END -->
+ - [Zachtronics is making its final game: Last Call BBS](https://www.pcgamer.com/zachtronics-is-making-its-final-game-last-call-bbs)
+ - [Elon Musk is being sued for $258 billion because of Dogecoin](https://www.pcgamer.com/elon-musk-is-being-sued-for-dollar258-billion-because-of-dogecoin)
+ - [I hope Starfield&#39;s four cities are more Vivec and less Diamond City](https://www.pcgamer.com/i-hope-starfields-four-cities-are-more-vivec-and-less-diamond-city)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
