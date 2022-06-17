@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)
- - ⏩ [The other cows will never believe him](http://9gag.com/gag/a71mAwx)
+ - 💣 [How every Eastern European is brought up. Greetings from Romania](http://9gag.com/gag/a0ZDwWZ)
+ - ⏩ [He definetly was in there](http://9gag.com/gag/aXrmGvv)
  - 👉 [How to bully 101](http://9gag.com/gag/awz98Zr)<!-- MEMES:END -->
 
 ---
