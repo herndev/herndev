@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Playermaker, whose footwear-mounted trackers monitor the performance of athletes of all skill levels, raised $40M led by Ventura Capital Group &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220616/p48#a220616p48)
- - [Why The Boston Celtics Lost NBA Finals Game 6, According to Science     - CNET](https://www.cnet.com/science/biology/why-the-boston-celtics-lost-nba-finals-game-6-according-to-science/#ftag=CAD590a51e)
- - [New York City-based Transfr, which provides businesses with VR simulations for on-the-job worker training, raised a $35M Series B led by Lumos Capital Group &lpar;FinSMEs&rpar;](http://www.techmeme.com/220616/p47#a220616p47)<!-- TECH:END -->
+ - [Google Pixel Watch accessories detailed in new leak](https://www.androidauthority.com/google-pixel-watch-bands-3177428/)
+ - [No, China Has Not Detected Radio Signals From Alien Civilizations     - CNET](https://www.cnet.com/science/space/no-china-has-not-detected-radio-signals-from-alien-civilizations/#ftag=CAD590a51e)
+ - [London-based Playermaker, whose footwear-mounted trackers monitor the performance of athletes of all skill levels, raised $40M led by Ventura Capital Group &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220616/p48#a220616p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
