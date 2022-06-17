@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The robot comedy Brian and Charles finds the sweeter side of Ex Machina](https://www.polygon.com/reviews/22898918/brian-and-charles-review)
- - [Marvel&#39;s next Midnight Sons comic looks a bit more like the Midnight Suns videogame](https://www.pcgamer.com/marvels-next-midnight-sons-comic-looks-a-bit-more-like-the-midnight-suns-videogame)
- - [Our Favorite Cosplay From MomoCon 2022](https://kotaku.com/momocon-2022-cosplay-photos-video-gallery-showcase-atla-1849057097)<!-- GAME:END -->
+ - [Welcome To Sushi Town](https://kotaku.com/welcome-to-sushi-town-1849074702)
+ - [Epic&#39;s free multiplayer tools let developers enable Steam crossplay](https://www.pcgamer.com/epics-free-multiplayer-tools-let-developers-enable-steam-crossplay)
+ - [The robot comedy Brian and Charles finds the sweeter side of Ex Machina](https://www.polygon.com/reviews/22898918/brian-and-charles-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
