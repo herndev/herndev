@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hiding place during war in Vietnam](http://9gag.com/gag/aRr8Dd5)
- - ⏩ [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
- - 👉 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
+ - 💣 [How to bully 101](http://9gag.com/gag/awz98Zr)
+ - ⏩ [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)
+ - 👉 [Life in London](http://9gag.com/gag/a71mAoq)<!-- MEMES:END -->
 
 ---
 
