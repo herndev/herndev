@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cha Cha Real Smooth proves it’s possible for a director to love his character way too much](https://www.polygon.com/23171593/cha-cha-real-smooth-review-cooper-raiff)
- - [I WooHooed an alpha wolf and then betrayed him in The Sims 4 Werewolves](https://www.pcgamer.com/i-woohooed-an-alpha-wolf-and-then-betrayed-him-in-the-sims-4-werewolves)
- - [Madden 23’s director calls on James Cameron’s Avatar camera to film in virtual reality](https://www.polygon.com/23156015/madden-nfl-23-preview-head-scans-players-coaches)<!-- GAME:END -->
+ - [Xbox Podcast: Starfield &amp; The Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/06/17/xbox-podcast-starfield-the-xbox-bethesda-games-showcase/)
+ - [Everything Missing From This Year’s Not-E3](https://kotaku.com/fable-pragmata-avowed-missing-games-summer-game-fest-20-1849078806)
+ - [Play These Fantastic Free Games On Steam To Fill Your Long Weekend](https://kotaku.com/free-games-steam-long-weekend-ark-survival-evolved-word-1849078788)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
