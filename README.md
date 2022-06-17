@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her dad every time got me!](http://9gag.com/gag/ajg3KjR)
- - ⏩ [He saw 14 million 605 possibilities and came 1 conclusion..](http://9gag.com/gag/a0ZDMmL)
- - 👉 [Masterpiece](http://9gag.com/gag/aDDqQW9)<!-- MEMES:END -->
+ - 💣 [He saw 14 million 605 possibilities and came 1 conclusion..](http://9gag.com/gag/a0ZDMmL)
+ - ⏩ [Thank you for your sacrifice and service](http://9gag.com/gag/aVx9V9w)
+ - 👉 [Kid accidentally walks in front of people posing for a picture.](http://9gag.com/gag/aogGYD0)<!-- MEMES:END -->
 
 ---
 
