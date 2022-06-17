@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is the world&#39;s most valuable brand, says yet another spurious report](https://appleinsider.com/articles/22/06/17/apple-is-the-worlds-most-valuable-brand-says-yet-another-spurious-report?utm_medium=rss)
- - [How Setapp&#39;s app service is building value for developers and users](https://appleinsider.com/articles/22/06/17/how-setapps-app-service-is-building-value-for-developers-and-users?utm_medium=rss)
- - [Daily Authority: 👉 An actual cult in Google?](https://www.androidauthority.com/da-june-17-2022-3177522/)<!-- TECH:END -->
+ - [The UK publishes its final response to a data reform consultation to diverge from EU rules, including replacing cookie pop-ups with browser-based opt-outs &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220617/p8#a220617p8)
+ - [How to preorder the new 13-inch MacBook Pro](https://www.theverge.com/23167620/apple-m2-macbook-pro-2022-preorder-buy-price-release-date)
+ - [Apple starts taking preorders start for M2 13-inch MacBook Pro](https://appleinsider.com/articles/22/06/17/apple-starts-taking-preorders-start-for-m2-13-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
