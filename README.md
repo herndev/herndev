@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Transfr, which offers businesses VR simulations for training workers, has raised a $35M Series B led by Lumos Capital Group &lpar;FinSMEs&rpar;](http://www.techmeme.com/220616/p47#a220616p47)
- - [Fed Hikes Push APYs Higher: Best Savings Accounts for June 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-savings-account/#ftag=CAD590a51e)
- - [Canadian telecom Telus plans to acquire Toronto-based digital health care and wellness services provider LifeWorks for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p46#a220616p46)<!-- TECH:END -->
+ - [Playermaker, which makes footwear-mounted trackers to monitor athlete&#39;s performance, has raised $40M led by Ventura Capital Group &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220616/p48#a220616p48)
+ - [Why The Boston Celtics Lost NBA Finals Game 6, According to Science     - CNET](https://www.cnet.com/science/biology/why-the-boston-celtics-lost-nba-finals-game-6-according-to-science/#ftag=CAD590a51e)
+ - [NYC-based Transfr, which offers businesses VR simulations for training workers, has raised a $35M Series B led by Lumos Capital Group &lpar;FinSMEs&rpar;](http://www.techmeme.com/220616/p47#a220616p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
