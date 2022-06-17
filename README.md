@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku unveils an e-commerce deal with Walmart, allowing TV viewers to use remotes to shop during commercials and check out with Roku Pay; stock up 4% after hours &lpar;Etan Vlessing/Hollywood Reporter&rpar;](http://www.techmeme.com/220617/p1#a220617p1)
- - [SpaceX fires employees who wrote open letter complaining about Elon Musk: report](https://www.theverge.com/2022/6/17/23172262/spacex-fires-employees-open-letter-elon-musk-complaints)
- - [One Strange Reason Why the Boston Celtics May Have Lost NBA Finals Game 6     - CNET](https://www.cnet.com/science/biology/one-strange-reason-why-the-boston-celtics-may-have-lost-nba-finals-game-6/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [TikTok: Facebook wants to connect you, we just want to entertain you](https://www.theverge.com/2022/6/17/23172276/tiktok-facebook-difference-entertainment-social-connections)
+ - [Sources: SpaceX fired employees who helped write and distribute an open letter calling Elon Musk&#39;s behavior &quot;a frequent source of distraction and embarrassment&quot; &lpar;Ryan Mac/New York Times&rpar;](http://www.techmeme.com/220617/p2#a220617p2)
+ - [Sonos says customers that got extra speakers don’t have to send them back](https://www.theverge.com/2022/6/17/23172282/sonos-ordering-glitch-extra-speakers-keep-them-free-ftc-rules)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
