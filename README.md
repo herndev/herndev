@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bought a truck and starting my own transport company in August 55.000\u20ac loan total for starting The shortage of drivers is huge so there should be more than enough work for me to make a decent living](http://9gag.com/gag/aE8jQwe)
+ - 💣 [First time watching as a 35yo, amazing](http://9gag.com/gag/aegqPzq)
  - ⏩ [And so it was written](http://9gag.com/gag/abgLmWE)
- - 👉 [Impossible](http://9gag.com/gag/a519yqq)<!-- MEMES:END -->
+ - 👉 [He definetly was in there](http://9gag.com/gag/aXrmGvv)<!-- MEMES:END -->
 
 ---
 
