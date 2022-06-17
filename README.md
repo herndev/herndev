@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty season 4 raises the stakes with ‘Mercenaries of Fortune’](https://www.polygon.com/23172557/call-of-duty-warzone-vanguard-season-4-content-roadmap)
- - [Ride Alongside the Dark Horses of World of Tanks in Newest Season, The Independents](https://news.xbox.com/en-us/2022/06/17/world-of-tanks-new-independents-season/)
- - [A Closer Look at Bitmap Bureau’s New Title, Final Vendetta](https://news.xbox.com/en-us/2022/06/17/a-closer-look-at-our-new-title-final-vendetta/)<!-- GAME:END -->
+ - [Players creators on how they brought their ‘esports love story’ to life](https://www.polygon.com/23166135/players-show-paramount-plus-interview-creators-league-of-legends-esports-lol-american-vandal)
+ - [Vince McMahon Steps Back As WWE CEO Amid Investigation Of Alleged Employee Affair](https://kotaku.com/wwe-vince-mcmahon-stephanie-mcmahon-investigation-affai-1849077094)
+ - [How to save Nick in The Quarry](https://www.pcgamer.com/quarry-nick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
