@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now US senators want a law to force companies to ditch proprietary chargers](https://www.androidauthority.com/us-senators-proprietary-chargers-3177573/)
- - [Crunchyroll announces reboot of space western Trigun](https://www.theverge.com/2022/6/17/23172462/trigun-stampede-anime-2023-crunchyroll)
- - [Facebook will make it it easier to move Whatsapp from Android to iPhone](https://appleinsider.com/articles/22/06/17/facebook-will-make-it-it-easier-to-move-whatsapp-from-android-to-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [The 65-inch TCL 5-Series with Google TV is down to a new low price of $549.99](https://www.theverge.com/good-deals/2022/6/17/23171186/tcl-5-series-google-tv-drop-mt3-mechanical-keycaps-amazon-fire-7-kids-pro-eero-pro-6-deal-sale)
+ - [Narmi, which enables small financial institutions offer online and mobile banking services, raised a $35M Series B, bringing its total funding to $60M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220617/p13#a220617p13)
+ - [Apple highlights artist chronicling historical Black figures for Juneteenth](https://appleinsider.com/articles/22/06/17/apple-highlights-artist-chronicling-historical-black-figures-for-juneteenth?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
