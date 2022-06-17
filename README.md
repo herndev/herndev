@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Podcast: Starfield &amp; The Xbox &amp; Bethesda Games Showcase](https://news.xbox.com/en-us/2022/06/17/xbox-podcast-starfield-the-xbox-bethesda-games-showcase/)
- - [Everything Missing From This Year’s Not-E3](https://kotaku.com/fable-pragmata-avowed-missing-games-summer-game-fest-20-1849078806)
- - [Play These Fantastic Free Games On Steam To Fill Your Long Weekend](https://kotaku.com/free-games-steam-long-weekend-ark-survival-evolved-word-1849078788)<!-- GAME:END -->
+ - [This Week on Xbox: Xbox &amp; Bethesda Games Showcase Recap, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/06/17/this-week-on-xbox-xbox-bethesda-games-showcase-recap-games-coming-soon-and-more/)
+ - [Everything We Know About WWE&#39;s Probe Of Vince McMahon](https://kotaku.com/wwe-vince-mcmahon-stephanie-mcmahon-nick-khan-john-laur-1849079202)
+ - [Lost Japanese adventure game from 1999 resurfaces on Steam, and it&#39;s so weird I can&#39;t describe it in a headline](https://www.pcgamer.com/lost-japanese-adventure-game-from-1999-resurfaces-on-steam-and-its-so-weird-i-cant-describe-it-in-a-headline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
