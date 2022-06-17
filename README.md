@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such Innocence...](http://9gag.com/gag/adgWooB)
- - ⏩ [Instructions on tying a scarf](http://9gag.com/gag/a0ZDELQ)
- - 👉 [Best car salesman ever](http://9gag.com/gag/aLvOdj6)<!-- MEMES:END -->
+ - 💣 [Dad&#39;s are super heroes..](http://9gag.com/gag/a31zb4v)
+ - ⏩ [Drops the mic!](http://9gag.com/gag/a21AbMY)
+ - 👉 [Thank you for your sacrifice and service](http://9gag.com/gag/aVx9V9w)<!-- MEMES:END -->
 
 ---
 
