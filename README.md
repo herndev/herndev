@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some employees say although Musk sounded genuinely enthusiastic about owning and running Twitter, the meeting reinforced their mostly negative beliefs about him &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220616/p44#a220616p44)
- - [Snap is testing Snapchat Plus, a paid subscription service which will give users early access to exclusive, experimental, and pre-release features &lpar;The Verge&rpar;](http://www.techmeme.com/220616/p43#a220616p43)
- - [India-based FanClash, which lets users compete with one another with fantasy esports teams via its mobile app, raised a $40M Series B led by Alpha Wave Global &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220616/p42#a220616p42)<!-- TECH:END -->
+ - [NYC-based Transfr, which offers businesses VR simulations for training workers, has raised a $35M Series B led by Lumos Capital Group &lpar;FinSMEs&rpar;](http://www.techmeme.com/220616/p47#a220616p47)
+ - [Fed Hikes Push APYs Higher: Best Savings Accounts for June 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-savings-account/#ftag=CAD590a51e)
+ - [Canadian telecom Telus plans to acquire Toronto-based digital health care and wellness services provider LifeWorks for ~$1.8B &lpar;Bloomberg&rpar;](http://www.techmeme.com/220616/p46#a220616p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
