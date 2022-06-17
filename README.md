@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact codes: free Primogems and Mora for June](https://www.pcgamer.com/redeem-genshin-impact-codes)
- - [Game of Thrones’ Jon Snow set to get his own series](https://www.polygon.com/game-of-thrones/23172315/game-of-thrones-jon-snow-sequel-series)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
+ - [Signalis is a brutally stunning slice of sci-fi survival horror](https://www.pcgamer.com/signalis-survival-horror)
+ - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)
+ - [Atari shocks the world with decent-looking game](https://www.pcgamer.com/atari-shocks-the-world-with-decent-looking-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
