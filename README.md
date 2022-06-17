@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gaming to the end](http://9gag.com/gag/a519jEg)
- - ⏩ [Cheese and frickin rice](http://9gag.com/gag/a9142oD)
- - 👉 [I&#39;m this old](http://9gag.com/gag/a81vwO6)<!-- MEMES:END -->
+ - 💣 [I&#39;m this old](http://9gag.com/gag/a81vwO6)
+ - ⏩ [Me on the right](http://9gag.com/gag/arnDqmV)
+ - 👉 [Best car salesman ever](http://9gag.com/gag/aLvOdj6)<!-- MEMES:END -->
 
 ---
 
