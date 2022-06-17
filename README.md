@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good god I\u2019m so glad I got married before this nightmare of a social world.](http://9gag.com/gag/a71mA3x)
+ - 💣 [You deserve better because you know your worth.](http://9gag.com/gag/aogGnB2)
  - ⏩ [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
- - 👉 [Hang out with my friends](http://9gag.com/gag/adgWR3M)<!-- MEMES:END -->
+ - 👉 [And again not the people who commited the unbelievable crimes are in jail - its the one who told it YOU - the public! Free Assange!!](http://9gag.com/gag/a61e8nb)<!-- MEMES:END -->
 
 ---
 
