@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elon Musk Faces $258 Billion Lawsuit Over Alleged Dogecoin Pyramid Scheme](https://kotaku.com/elon-musk-lawsuit-dogecoin-258-billion-class-action-cry-1849077456)
- - [Autonauts Has Landed on Xbox](https://news.xbox.com/en-us/2022/06/17/autonauts-has-landed-on-xbox/)
- - [It took me maybe 10 seconds to fall in love with Schim](https://www.pcgamer.com/it-took-me-maybe-10-seconds-to-fall-in-love-with-schim)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 434: Exclusive Memories](https://blog.playstation.com/2022/06/17/official-playstation-podcast-episode-434-exclusive-memories/)
+ - [Official PlayStation Podcast Episode 434: Exclusive Memories](https://blog.playstation.com/2022/06/17/official-playstation-podcast-episode-434-exclusive-memories/)
+ - [Cruise Kvaris in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/06/17/cruise-kvaris-in-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
