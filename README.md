@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 434: Exclusive Memories](https://blog.playstation.com/2022/06/17/official-playstation-podcast-episode-434-exclusive-memories/)
- - [Official PlayStation Podcast Episode 434: Exclusive Memories](https://blog.playstation.com/2022/06/17/official-playstation-podcast-episode-434-exclusive-memories/)
- - [Cruise Kvaris in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/06/17/cruise-kvaris-in-phantasy-star-online-2-new-genesis/)<!-- GAME:END -->
+ - [10 Things I Wished I Knew Before Starting Neon White](https://kotaku.com/neon-white-tips-tricks-secrets-shortcuts-nintendo-switc-1849078211)
+ - [TMNT: Shredder&#39;s Revenge Is Heckin&#39; Dope](https://kotaku.com/tmnt-shredders-revenge-review-tribute-game-dotemu-multi-1849077972)
+ - [Madcap modders have ported PS2 platformer Jak and Daxter to PC](https://www.pcgamer.com/madcap-modders-have-ported-ps2-platformer-jak-and-daxter-to-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
