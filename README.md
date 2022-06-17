@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ says RSocks, a Russian botnet used to hijack millions of devices worldwide for use as proxy servers, was disrupted in an international operation &lpar;Andrea Peterson/The Record&rpar;](http://www.techmeme.com/220617/p19#a220617p19)
- - [Samsung’s latest foldables finally gain eSIM support in the US](https://www.androidauthority.com/samsungs-foldables-esim-3177736/)
- - [No One Knows How Safe New Driver-Assistance Systems Really Are](https://www.wired.com/story/advanced-driver-assistance-system-safety-tesla-autopilot/)<!-- TECH:END -->
+ - [Meta unveils Avatars Store, where users can buy digital clothes for avatars, and plans to make it a marketplace where developers can create and sell clothing &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220617/p20#a220617p20)
+ - [Samsung Galaxy Z Fold 3 gets eSIM support, more photo features](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [Hundreds of SpaceX employees signed letter denouncing Elon Musk’s behavior](https://www.theverge.com/2022/6/17/23172913/spacex-complaint-letter-firing-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
