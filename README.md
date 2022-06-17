@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dad&#39;s are super heroes..](http://9gag.com/gag/a31zb4v)
- - ⏩ [Drops the mic!](http://9gag.com/gag/a21AbMY)
- - 👉 [Thank you for your sacrifice and service](http://9gag.com/gag/aVx9V9w)<!-- MEMES:END -->
+ - 💣 [Best car salesman ever](http://9gag.com/gag/aLvOdj6)
+ - ⏩ [Masterpiece](http://9gag.com/gag/aDDqQW9)
+ - 👉 [Companies shoving We NeEd MoRe DiVeRsIty, yet we had goddamn masterpieces like this without making it a big deal](http://9gag.com/gag/aQXDOA7)<!-- MEMES:END -->
 
 ---
 
