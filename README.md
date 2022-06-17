@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers call for universal charging standard - but not necessarily for USB-C](https://appleinsider.com/articles/22/06/17/us-lawmakers-call-for-universal-charging-standard---but-not-necessarily-for-usb-c?utm_medium=rss)
- - [These Retro Gaming Consoles Deliver a Dose of Nostalgia](https://www.wired.com/gallery/best-retro-gaming-consoles/)
- - [Some UK creators say they abandoned TikTok Shop&#39;s e-commerce program due to poor pay, long hours, and having to take flak for limited stock and shipping issues &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/220617/p11#a220617p11)<!-- TECH:END -->
+ - [Now US senators want a law to force companies to ditch proprietary chargers](https://www.androidauthority.com/us-senators-proprietary-chargers-3177573/)
+ - [Crunchyroll announces reboot of space western Trigun](https://www.theverge.com/2022/6/17/23172462/trigun-stampede-anime-2023-crunchyroll)
+ - [Facebook will make it it easier to move Whatsapp from Android to iPhone](https://appleinsider.com/articles/22/06/17/facebook-will-make-it-it-easier-to-move-whatsapp-from-android-to-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
