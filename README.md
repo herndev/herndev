@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clapping](http://9gag.com/gag/aegqWbp)
- - ⏩ [Qatar is getting ready for the World Cup.](http://9gag.com/gag/aAGLONp)
- - 👉 [The other cows will never believe him](http://9gag.com/gag/a71mAwx)<!-- MEMES:END -->
+ - 💣 [Good god I\u2019m so glad I got married before this nightmare of a social world.](http://9gag.com/gag/a71mA3x)
+ - ⏩ [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
+ - 👉 [Hang out with my friends](http://9gag.com/gag/adgWR3M)<!-- MEMES:END -->
 
 ---
 
