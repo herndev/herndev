@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [The original Pokémon Snap coming to Nintendo Switch Online](https://www.polygon.com/23172420/pokemon-snap-n64-game-nintendo-switch-online-expansion-pack)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for June 20 to 24](https://news.xbox.com/en-us/2022/06/17/next-week-on-xbox-new-games-for-june-20-to-24/)
+ - [Trigun Stampede anime announced, coming to Crunchyroll in 2023](https://www.polygon.com/23172453/trigun-anime-coming-2023-crunchyroll)
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
