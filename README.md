@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s save the planet, so reach people get more rich](http://9gag.com/gag/a71mA5e)
+ - 💣 [Bought a truck and starting my own transport company in August 55.000\u20ac loan total for starting The shortage of drivers is huge so there should be more than enough work for me to make a decent living](http://9gag.com/gag/aE8jQwe)
  - ⏩ [Don&#39;t forget to wear sunblock this summer](http://9gag.com/gag/avABm4M)
- - 👉 [Italian car owners dealing with global warming crazies](http://9gag.com/gag/a21AOQ9)<!-- MEMES:END -->
+ - 👉 [Drag Queen says drag is not for kids.](http://9gag.com/gag/aLvOrqz)<!-- MEMES:END -->
 
 ---
 
