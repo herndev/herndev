@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Japan&#39;s equivalent of Avengers, even before Endgame was a thing](http://9gag.com/gag/arnDq46)
+ - 💣 [Gaming to the end](http://9gag.com/gag/a519jEg)
  - ⏩ [Cheese and frickin rice](http://9gag.com/gag/a9142oD)
- - 👉 [To everyone about to say that I&#39;m just an arsehole, yes you&#39;re correct.](http://9gag.com/gag/aBnbG2A)<!-- MEMES:END -->
+ - 👉 [I&#39;m this old](http://9gag.com/gag/a81vwO6)<!-- MEMES:END -->
 
 ---
 
