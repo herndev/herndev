@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Signalis is a brutally stunning slice of sci-fi survival horror](https://www.pcgamer.com/signalis-survival-horror)
- - [Best light gaming mouse in 2022](https://www.pcgamer.com/best-light-gaming-mouse)
- - [Atari shocks the world with decent-looking game](https://www.pcgamer.com/atari-shocks-the-world-with-decent-looking-game)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [The original Pokémon Snap coming to Nintendo Switch Online](https://www.polygon.com/23172420/pokemon-snap-n64-game-nintendo-switch-online-expansion-pack)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
