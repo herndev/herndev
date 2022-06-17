@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta unveils Avatars Store, where users can buy digital clothes for avatars, and plans to make it a marketplace where developers can create and sell clothing &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220617/p20#a220617p20)
- - [Samsung Galaxy Z Fold 3 gets eSIM support, more photo features](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [Hundreds of SpaceX employees signed letter denouncing Elon Musk’s behavior](https://www.theverge.com/2022/6/17/23172913/spacex-complaint-letter-firing-elon-musk)<!-- TECH:END -->
+ - [New price drop: lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $39.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
+ - [Meta is launching an avatar store, and designer clothes are the first products](https://www.theverge.com/2022/6/17/23173128/meta-avatar-store-clothing-balenciaga-prada-thom-browne)
+ - [Big Tech CEOs Push Congress on Antitrust Legislation     - CNET](https://www.cnet.com/news/politics/big-tech-ceos-push-congress-on-antitrust-legislation/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
