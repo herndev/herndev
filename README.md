@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for June 20 to 24](https://news.xbox.com/en-us/2022/06/17/next-week-on-xbox-new-games-for-june-20-to-24/)
- - [Trigun Stampede anime announced, coming to Crunchyroll in 2023](https://www.polygon.com/23172453/trigun-anime-coming-2023-crunchyroll)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [Call of Duty season 4 raises the stakes with ‘Mercenaries of Fortune’](https://www.polygon.com/23172557/call-of-duty-warzone-vanguard-season-4-content-roadmap)
+ - [Ride Alongside the Dark Horses of World of Tanks in Newest Season, The Independents](https://news.xbox.com/en-us/2022/06/17/world-of-tanks-new-independents-season/)
+ - [A Closer Look at Bitmap Bureau’s New Title, Final Vendetta](https://news.xbox.com/en-us/2022/06/17/a-closer-look-at-our-new-title-final-vendetta/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
