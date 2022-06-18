@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This collection of old game logos delights the primordial lizard parts of my dumb brain](https://www.pcgamer.com/this-collection-of-old-game-logos-delights-the-primordial-lizard-parts-of-my-dumb-brain)
- - [How Strange New Worlds built the next great Star Trek villain](https://www.polygon.com/23172649/strange-new-worlds-episode-7-angel-sybok)
- - [Check out the demo for stylish, dynamic deckbuilder Beneath Oresa](https://www.pcgamer.com/check-out-the-demo-for-stylish-dynamic-deckbuilder-beneath-oresa)<!-- GAME:END -->
+ - [Mecha armada stomps kaiju all the way out of Early Access](https://www.pcgamer.com/mecha-armada-stomps-kaiju-all-the-way-out-of-early-access)
+ - [Rob the town blind and cheat gods in Dread Delusion&#39;s Early Access](https://www.pcgamer.com/rob-the-town-blind-and-cheat-gods-in-dread-delusions-early-access)
+ - [This collection of old game logos delights the primordial lizard parts of my dumb brain](https://www.pcgamer.com/this-collection-of-old-game-logos-delights-the-primordial-lizard-parts-of-my-dumb-brain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
