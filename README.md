@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuphead Director Didn’t Care About Delays, Only Staff’s Well-Being](https://kotaku.com/cuphead-studiomdhr-delays-dlc-delicious-last-course-xbo-1849079354)
- - [Netflix’s Spiderhead, Morbius, and more new movies you can watch at home this weekend](https://www.polygon.com/23164707/new-movies-watch-spiderhead-netflix-morbius-vod)
- - [This Week on Xbox: Xbox &amp; Bethesda Games Showcase Recap, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/06/17/this-week-on-xbox-xbox-bethesda-games-showcase-recap-games-coming-soon-and-more/)<!-- GAME:END -->
+ - [Instead of Fallout 5, I wish Bethesda would make literally anything else](https://www.pcgamer.com/instead-of-fallout-5-i-wish-bethesda-would-make-literally-anything-else)
+ - [Controversial tactical shooter Ready or Not removed from Steam without explanation](https://www.pcgamer.com/controversial-tactical-shooter-ready-or-not-removed-from-steam-without-explanation)
+ - [Cuphead Director Didn’t Care About Delays, Only Staff’s Well-Being](https://kotaku.com/cuphead-studiomdhr-delays-dlc-delicious-last-course-xbo-1849079354)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
