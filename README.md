@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Postscript, which helps Shopify merchants reach customers via SMS, has raised a $65M Series C led by 01 Advisors and says it now works with 8K+ Shopify brands &lpar;Sophia Kunthara/Crunchbase News&rpar;](http://www.techmeme.com/220618/p13#a220618p13)
- - [US lawmakers call on Google to label or limit search results for ‘fake’ abortion clinics](https://www.theverge.com/2022/6/18/23173849/us-lawmakers-google-label-limit-search-results-fake-abortion-clinics)
- - [We all want a new Nvidia Shield Tablet and now is the perfect time](https://www.androidauthority.com/new-nvidia-shield-tablet-2022-3175120/)<!-- TECH:END -->
+ - [TikTok staff in China allegedly accessed U.S. user data](https://appleinsider.com/articles/22/06/18/tiktok-staff-in-china-allegedly-accessed-us-user-data?utm_medium=rss)
+ - [WhatsApp now lets you mute individual users during group calls](https://www.theverge.com/2022/6/18/23174047/whatsapp-mute-people-group-calls-privacy-features)
+ - [Ex-Amazon Cloud Worker Found Guilty in Capital One Hack     - CNET](https://www.cnet.com/tech/services-and-software/ex-amazon-cloud-worker-found-guilty-in-capital-one-hack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
