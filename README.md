@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $49.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-437-3177713/)
- - [Lightyear’s a stiff-as-plastic deconstruction of heroic space dramas](https://www.theverge.com/23172895/lightyear-disney-pixar-review)<!-- TECH:END -->
+ - [27 Last-Minute Father’s Day Deals](https://www.wired.com/story/last-minute-fathers-day-deals-2022-2/)
+ - [Former Amazon employee convicted over 2019 Capital One hack](https://www.theverge.com/2022/6/18/23173727/former-amazon-employee-convicted-over-2019-capital-one-hack-paige-thompson)
+ - [Sources: ByteDance shuts down its Shanghai games studio, in a setback to its gaming ambitions after struggling to make a splash in the Chinese gaming market &lpar;Bloomberg&rpar;](http://www.techmeme.com/220618/p10#a220618p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
