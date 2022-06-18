@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 18: $900 off Xiaomi Projector, $24 Spigen Battery Pack, $680 Lego Star Wars Millennium Falcon, more](https://appleinsider.com/articles/22/06/18/daily-deals-june-18-900-off-xiaomi-projector-24-spigen-battery-pack-680-lego-star-wars-millennium-falcon-more?utm_medium=rss)
- - [Sources: Sequoia India, hit by governance scandals at companies in its portfolio, faces fresh challenges including a defamation suit by a former general counsel &lpar;Reuters&rpar;](http://www.techmeme.com/220618/p8#a220618p8)
- - [Should Samsung keep or ditch the Fan Edition?](https://www.androidauthority.com/samsung-fan-edition-opinion-3177484/)<!-- TECH:END -->
+ - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $49.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-437-3177713/)
+ - [Lightyear’s a stiff-as-plastic deconstruction of heroic space dramas](https://www.theverge.com/23172895/lightyear-disney-pixar-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
