@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should Samsung keep or ditch the Fan Edition?](https://www.androidauthority.com/samsung-fan-edition-opinion-3177484/)
- - [These Apple TV 4K and Sonos deals will end after Father’s Day](https://www.theverge.com/good-deals/2022/6/18/23173062/apple-tv-4k-sonos-samsung-m8-monitor-tv-steam-summer-deal-sale)
- - [How Shredder’s Revenge captures the essence of classic TMNT arcade games](https://www.theverge.com/2022/6/18/23172898/tmnt-shredders-revenge-classic-arcade-game-interview)<!-- TECH:END -->
+ - [Daily deals June 18: $900 off Xiaomi Projector, $24 Spigen Battery Pack, $680 Lego Star Wars Millennium Falcon, more](https://appleinsider.com/articles/22/06/18/daily-deals-june-18-900-off-xiaomi-projector-24-spigen-battery-pack-680-lego-star-wars-millennium-falcon-more?utm_medium=rss)
+ - [Sources: Sequoia India, hit by governance scandals at companies in its portfolio, faces fresh challenges including a defamation suit by a former general counsel &lpar;Reuters&rpar;](http://www.techmeme.com/220618/p8#a220618p8)
+ - [Should Samsung keep or ditch the Fan Edition?](https://www.androidauthority.com/samsung-fan-edition-opinion-3177484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
