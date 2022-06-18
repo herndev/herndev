@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s Open Network for Digital Commerce &lpar;ONDC&rpar;, which could help the country&#39;s mom-and-pop retailers compete against rapid grocery delivery startups &lpar;Varsha Bansal/TIME&rpar;](http://www.techmeme.com/220618/p1#a220618p1)
  - [New price drop: lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $39.99 [u]](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
- - [How eBay, launched in 1995 as AuctionWeb, anticipated many of the key features that would define a &quot;platform&quot; and unlocked the profit potential of the internet &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/220617/p22#a220617p22)
- - [Is &#39;Healthy Coke&#39; Healthier Than Real Coke?     - CNET](https://www.cnet.com/health/psa-ditch-the-healthy-coke-trend-and-just-drink-the-damn-soda/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How eBay, launched in 1995 as AuctionWeb, anticipated many of the key features that would define a &quot;platform&quot; and unlocked the profit potential of the internet &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/220617/p22#a220617p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
