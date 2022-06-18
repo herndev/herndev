@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What is Chrome OS Phone Hub and how do you use it?](https://www.androidauthority.com/chrome-os-phone-hub-3172779/)
  - [Chipmakers including TSMC embark on a $120B investment spree across Taiwan, with 20 new fabs ready or in the works, dwarfing planned investments in US and Japan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220618/p3#a220618p3)
- - [Brex says it will no longer work with SMBs that do not have venture funding and will shut down &quot;tens of thousands&quot; of accounts after August 15 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220618/p2#a220618p2)
- - [A look at India&#39;s Open Network for Digital Commerce &lpar;ONDC&rpar;, which could help the country&#39;s mom-and-pop retailers compete against rapid grocery delivery startups &lpar;Varsha Bansal/TIME&rpar;](http://www.techmeme.com/220618/p1#a220618p1)<!-- TECH:END -->
+ - [Brex says it will no longer work with SMBs that do not have venture funding and will shut down &quot;tens of thousands&quot; of accounts after August 15 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220618/p2#a220618p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
