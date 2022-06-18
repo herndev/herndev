@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ecstatica was a survival horror game where everyone was made of balls](https://www.pcgamer.com/saturday-crapshoot-ecstatica)
  - [Instead of Fallout 5, I wish Bethesda would make literally anything else](https://www.pcgamer.com/instead-of-fallout-5-i-wish-bethesda-would-make-literally-anything-else)
- - [Controversial tactical shooter Ready or Not removed from Steam without explanation](https://www.pcgamer.com/controversial-tactical-shooter-ready-or-not-removed-from-steam-without-explanation)
- - [Cuphead Director Didn’t Care About Delays, Only Staff’s Well-Being](https://kotaku.com/cuphead-studiomdhr-delays-dlc-delicious-last-course-xbo-1849079354)<!-- GAME:END -->
+ - [Controversial tactical shooter Ready or Not removed from Steam without explanation](https://www.pcgamer.com/controversial-tactical-shooter-ready-or-not-removed-from-steam-without-explanation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
