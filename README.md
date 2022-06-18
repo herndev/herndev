@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s ok; there are still some good-looking games coming out in 2022](https://www.pcgamer.com/its-ok-there-are-still-some-good-looking-games-coming-out-in-2022)
  - [The 17 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)
- - [Indie publisher Shiro Unlimited has some great new games coming soon](https://www.pcgamer.com/indie-publisher-shiro-unlimited-has-some-great-new-games-coming-soon)
- - [Today&#39;s Wordle answer guide #364: Saturday, June 18](https://www.pcgamer.com/wordle-today-june-18-364)<!-- GAME:END -->
+ - [Indie publisher Shiro Unlimited has some great new games coming soon](https://www.pcgamer.com/indie-publisher-shiro-unlimited-has-some-great-new-games-coming-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
