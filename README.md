@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/aRr89vB)
- - ⏩ [Kung Fu Panda Version](http://9gag.com/gag/aE8jjpn)
- - 👉 [Where he at](http://9gag.com/gag/adgW4eB)<!-- MEMES:END -->
+ - 💣 [Using 3D glasses at a music festival](http://9gag.com/gag/aegqq9O)
+ - ⏩ [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)
+ - 👉 [Kung Fu Panda Version](http://9gag.com/gag/aE8jjpn)<!-- MEMES:END -->
 
 ---
 
