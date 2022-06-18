@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Addiction](http://9gag.com/gag/aDDq9RZ)
- - ⏩ [A man can never forget his first car](http://9gag.com/gag/ang0ZN5)
- - 👉 [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)<!-- MEMES:END -->
+ - 💣 [Fake concrete blocks](http://9gag.com/gag/amgOyx2)
+ - ⏩ [Someone found a solution for the gasoline prices](http://9gag.com/gag/a21AgVw)
+ - 👉 [Always the winning team.](http://9gag.com/gag/a5193NN)<!-- MEMES:END -->
 
 ---
 
