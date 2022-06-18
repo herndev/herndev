@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC plans more 3nm chip factories in big Taiwan production push](https://appleinsider.com/articles/22/06/18/tsmc-plans-more-3nm-chip-factories-in-big-taiwan-production-push?utm_medium=rss)
- - [iPad Stage Manager is a good start, but it has a lot to learn from Samsung Dex](https://www.androidauthority.com/ipad-stage-manager-samsung-dex-3174818/)
- - [Lego’s original spaceship, the Galaxy Explorer, is back and better than ever](https://www.theverge.com/23173235/lego-galaxy-explorer-90th-anniversary-birthday-price-release-date)<!-- TECH:END -->
+ - [US lawmakers call on Google to label or limit search results for ‘fake’ abortion clinics](https://www.theverge.com/2022/6/18/23173849/us-lawmakers-google-label-limit-search-results-fake-abortion-clinics)
+ - [We all want a new Nvidia Shield Tablet and now is the perfect time](https://www.androidauthority.com/new-nvidia-shield-tablet-2022-3175120/)
+ - [TSMC plans more 3nm chip factories in big Taiwan production push](https://appleinsider.com/articles/22/06/18/tsmc-plans-more-3nm-chip-factories-in-big-taiwan-production-push?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
