@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a letter, 21 US lawmakers ask Google to clamp down on &quot;misleading&quot; search results that steer people searching for abortions services to anti-abortion clinics &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220617/p21#a220617p21)
- - [I Finally Found the Perfect Phone Tripod. But There Are 2 Big Problems     - CNET](https://www.cnet.com/tech/mobile/i-finally-found-the-perfect-phone-tripod-but-there-are-2-big-problems/#ftag=CAD590a51e)
- - [New price drop: lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $39.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)<!-- TECH:END -->
+ - [Is &#39;Healthy Coke&#39; Healthier Than Real Coke?     - CNET](https://www.cnet.com/health/psa-ditch-the-healthy-coke-trend-and-just-drink-the-damn-soda/#ftag=CAD590a51e)
+ - [Here are the best AirPods deals you can get right now](https://www.theverge.com/21302051/best-apple-airpods-deals)
+ - [How to create and download clips on Twitch](https://www.androidauthority.com/how-to-clip-on-twitch-3176552/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
