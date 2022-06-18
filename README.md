@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Bitcoin falls by 6%+ to below $20,000 for the first time since December 2020, the twelfth straight day of decline, as ether briefly dropped below $1,000 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220618/p4#a220618p4)
  - [What is Chrome OS Phone Hub and how do you use it?](https://www.androidauthority.com/chrome-os-phone-hub-3172779/)
- - [Chipmakers including TSMC embark on a $120B investment spree across Taiwan, with 20 new fabs ready or in the works, dwarfing planned investments in US and Japan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220618/p3#a220618p3)
- - [Brex says it will no longer work with SMBs that do not have venture funding and will shut down &quot;tens of thousands&quot; of accounts after August 15 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220618/p2#a220618p2)<!-- TECH:END -->
+ - [Best Internet Speed Tests of 2022: Here&#39;s How Fast Your Internet Really Is     - CNET](https://www.cnet.com/news/best-speed-tests/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
