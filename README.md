@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using 3D glasses at a music festival](http://9gag.com/gag/aegqq9O)
- - ⏩ [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)
- - 👉 [Kung Fu Panda Version](http://9gag.com/gag/aE8jjpn)<!-- MEMES:END -->
+ - 💣 [This is the man who made your life so much easier. The inventor of Air Conditioning. Willis Carrier.](http://9gag.com/gag/aDDqqw7)
+ - ⏩ [Electric fence power at 400 % capacity.....](http://9gag.com/gag/axBeQxY)
+ - 👉 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)<!-- MEMES:END -->
 
 ---
 
