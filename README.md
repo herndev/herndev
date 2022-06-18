@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Back Up Your Digital Life With the Best Cloud Storage Services](https://www.wired.com/gallery/best-cloud-storage-services/)
- - [An Alleged Russian Spy Was Busted Trying to Intern at The Hague](https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundup/)
- - [Microsoft’s weird Surface Duo 2 has surprisingly become my favorite device of the year](https://www.theverge.com/23171638/microsoft-surface-duo-2-dual-screen-revisit-updates-price)<!-- TECH:END -->
+ - [Should Samsung keep or ditch the Fan Edition?](https://www.androidauthority.com/samsung-fan-edition-opinion-3177484/)
+ - [These Apple TV 4K and Sonos deals will end after Father’s Day](https://www.theverge.com/good-deals/2022/6/18/23173062/apple-tv-4k-sonos-samsung-m8-monitor-tv-steam-summer-deal-sale)
+ - [How Shredder’s Revenge captures the essence of classic TMNT arcade games](https://www.theverge.com/2022/6/18/23172898/tmnt-shredders-revenge-classic-arcade-game-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
