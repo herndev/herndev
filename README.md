@@ -195,11 +195,11 @@ Last Updated on 15/05/2022 02:03:30 UTC
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/herndev/ReactJS-Portfolio/pull/6) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-2. 🎉 Merged PR [#2](https://github.com/herndev/Random-Qoutes/pull/2) in [herndev/Random-Qoutes](https://github.com/herndev/Random-Qoutes)
-3. 💪 Opened PR [#2](https://github.com/herndev/Random-Qoutes/pull/2) in [herndev/Random-Qoutes](https://github.com/herndev/Random-Qoutes)
-4. 🎉 Merged PR [#7](https://github.com/herndev/ReactJS-Portfolio/pull/7) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. 💪 Opened PR [#7](https://github.com/herndev/ReactJS-Portfolio/pull/7) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+1. ❗️ Opened issue [#1783](https://github.com/marcizhu/marcizhu/issues/1783) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. ❗️ Opened issue [#1782](https://github.com/marcizhu/marcizhu/issues/1782) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. 🎉 Merged PR [#6](https://github.com/herndev/ReactJS-Portfolio/pull/6) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
+4. 🎉 Merged PR [#2](https://github.com/herndev/Random-Qoutes/pull/2) in [herndev/Random-Qoutes](https://github.com/herndev/Random-Qoutes)
+5. 💪 Opened PR [#2](https://github.com/herndev/Random-Qoutes/pull/2) in [herndev/Random-Qoutes](https://github.com/herndev/Random-Qoutes)
 <!--END_SECTION:activity-->
 
 ---
