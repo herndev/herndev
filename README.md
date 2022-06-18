@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern victimhood need modern solutions](http://9gag.com/gag/a0ZDDYZ)
- - ⏩ [Floating in the salt pools of Siwa Oasis in Egypt](http://9gag.com/gag/adgW4EN)
- - 👉 [Meet Midas.. A cute cat with a rare genetic Mutation which gave her 2 pairs of ears](http://9gag.com/gag/ang0WW5)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/aRr89vB)
+ - ⏩ [Kung Fu Panda Version](http://9gag.com/gag/aE8jjpn)
+ - 👉 [Where he at](http://9gag.com/gag/adgW4eB)<!-- MEMES:END -->
 
 ---
 
