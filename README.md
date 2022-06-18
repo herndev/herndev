@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Emotional damage: 99999](http://9gag.com/gag/aogGGyn)
- - ⏩ [Dat look](http://9gag.com/gag/azevzBN)
- - 👉 [This jellyfish found at the depth of 1225m off the coast of California](http://9gag.com/gag/aQXDDjK)<!-- MEMES:END -->
+ - 💣 [Dat look](http://9gag.com/gag/azevzBN)
+ - ⏩ [Nike cow](http://9gag.com/gag/a71mBXL)
+ - 👉 [The IT Star Crowd Trek](http://9gag.com/gag/aOQnOZN)<!-- MEMES:END -->
 
 ---
 
