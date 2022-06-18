@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $49.99](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
- - [What Is Energy Star and How Does It Save You Money?](https://www.wired.com/story/energy-star-program-explainer/)
- - [Some Scientists Coined a New Name for Summer: ‘Danger Season’](https://www.wired.com/story/some-scientists-have-a-new-name-for-summer-danger-season/)<!-- TECH:END -->
+ - [Back Up Your Digital Life With the Best Cloud Storage Services](https://www.wired.com/gallery/best-cloud-storage-services/)
+ - [An Alleged Russian Spy Was Busted Trying to Intern at The Hague](https://www.wired.com/story/russia-spy-sergey-vladimirovich-cherkasov-gru-roundup/)
+ - [Microsoft’s weird Surface Duo 2 has surprisingly become my favorite device of the year](https://www.theverge.com/23171638/microsoft-surface-duo-2-dual-screen-revisit-updates-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
