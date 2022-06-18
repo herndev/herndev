@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Postscript, which helps Shopify merchants reach customers via SMS, has raised a $65M Series C led by 01 Advisors and says it now works with 8K+ Shopify brands &lpar;Sophia Kunthara/Crunchbase News&rpar;](http://www.techmeme.com/220618/p13#a220618p13)
  - [US lawmakers call on Google to label or limit search results for ‘fake’ abortion clinics](https://www.theverge.com/2022/6/18/23173849/us-lawmakers-google-label-limit-search-results-fake-abortion-clinics)
- - [We all want a new Nvidia Shield Tablet and now is the perfect time](https://www.androidauthority.com/new-nvidia-shield-tablet-2022-3175120/)
- - [TSMC plans more 3nm chip factories in big Taiwan production push](https://appleinsider.com/articles/22/06/18/tsmc-plans-more-3nm-chip-factories-in-big-taiwan-production-push?utm_medium=rss)<!-- TECH:END -->
+ - [We all want a new Nvidia Shield Tablet and now is the perfect time](https://www.androidauthority.com/new-nvidia-shield-tablet-2022-3175120/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
