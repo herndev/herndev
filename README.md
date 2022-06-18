@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [27 Last-Minute Father’s Day Deals](https://www.wired.com/story/last-minute-fathers-day-deals-2022-2/)
- - [Former Amazon employee convicted over 2019 Capital One hack](https://www.theverge.com/2022/6/18/23173727/former-amazon-employee-convicted-over-2019-capital-one-hack-paige-thompson)
- - [Sources: ByteDance shuts down its Shanghai games studio, in a setback to its gaming ambitions after struggling to make a splash in the Chinese gaming market &lpar;Bloomberg&rpar;](http://www.techmeme.com/220618/p10#a220618p10)<!-- TECH:END -->
+ - [TSMC plans more 3nm chip factories in big Taiwan production push](https://appleinsider.com/articles/22/06/18/tsmc-plans-more-3nm-chip-factories-in-big-taiwan-production-push?utm_medium=rss)
+ - [iPad Stage Manager is a good start, but it has a lot to learn from Samsung Dex](https://www.androidauthority.com/ipad-stage-manager-samsung-dex-3174818/)
+ - [Lego’s original spaceship, the Galaxy Explorer, is back and better than ever](https://www.theverge.com/23173235/lego-galaxy-explorer-90th-anniversary-birthday-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
