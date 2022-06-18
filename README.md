@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This collection of old game logos delights the primordial lizard parts of my dumb brain](https://www.pcgamer.com/this-collection-of-old-game-logos-delights-the-primordial-lizard-parts-of-my-dumb-brain)
  - [How Strange New Worlds built the next great Star Trek villain](https://www.polygon.com/23172649/strange-new-worlds-episode-7-angel-sybok)
- - [Check out the demo for stylish, dynamic deckbuilder Beneath Oresa](https://www.pcgamer.com/check-out-the-demo-for-stylish-dynamic-deckbuilder-beneath-oresa)
- - [Controversial tactical shooter Ready or Not returns to Steam after brief removal](https://www.pcgamer.com/controversial-tactical-shooter-ready-or-not-removed-from-steam-without-explanation)<!-- GAME:END -->
+ - [Check out the demo for stylish, dynamic deckbuilder Beneath Oresa](https://www.pcgamer.com/check-out-the-demo-for-stylish-dynamic-deckbuilder-beneath-oresa)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
