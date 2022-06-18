@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the man who made your life so much easier. The inventor of Air Conditioning. Willis Carrier.](http://9gag.com/gag/aDDqqw7)
- - ⏩ [Electric fence power at 400 % capacity.....](http://9gag.com/gag/axBeQxY)
- - 👉 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)<!-- MEMES:END -->
+ - 💣 [Is that a cow? Cow, right?](http://9gag.com/gag/aM400zA)
+ - ⏩ [It still gets me every time](http://9gag.com/gag/azevvLK)
+ - 👉 [A good practice example where people and stores from Romania have donated fruits, which are about to expire](http://9gag.com/gag/a71mm9r)<!-- MEMES:END -->
 
 ---
 
