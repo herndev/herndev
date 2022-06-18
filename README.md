@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Washing mockine](http://9gag.com/gag/a41ByP1)
+ - 💣 [Improvise, Adapt, Overcome](http://9gag.com/gag/aKmX5P3)
  - ⏩ [Yeah...](http://9gag.com/gag/aRr8dNj)
- - 👉 [Always the winning team.](http://9gag.com/gag/a5193NN)<!-- MEMES:END -->
+ - 👉 [These are lines to view vacant apartments in NYC. With demand soaring, some landlords are taking the highest bidder](http://9gag.com/gag/aPZVLRg)<!-- MEMES:END -->
 
 ---
 
