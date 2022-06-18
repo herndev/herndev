@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s Open Network for Digital Commerce &lpar;ONDC&rpar;, which could help the country&#39;s mom-and-pop retailers compete against rapid grocery delivery startups &lpar;Varsha Bansal/TIME&rpar;](http://www.techmeme.com/220618/p1#a220618p1)
- - [New price drop: lifetime Microsoft Office for Mac Home &amp; Business 2021 license now $39.99 [u]](https://appleinsider.com/articles/22/06/17/new-price-drop-lifetime-microsoft-office-for-mac-home-business-2021-license-now-3999?utm_medium=rss)
- - [How eBay, launched in 1995 as AuctionWeb, anticipated many of the key features that would define a &quot;platform&quot; and unlocked the profit potential of the internet &lpar;Ben Tarnoff/The Guardian&rpar;](http://www.techmeme.com/220617/p22#a220617p22)<!-- TECH:END -->
+ - [Chipmakers including TSMC embark on a $120B investment spree across Taiwan, with 20 new fabs ready or in the works, dwarfing planned investments in US and Japan &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220618/p3#a220618p3)
+ - [Brex says it will no longer work with SMBs that do not have venture funding and will shut down &quot;tens of thousands&quot; of accounts after August 15 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220618/p2#a220618p2)
+ - [A look at India&#39;s Open Network for Digital Commerce &lpar;ONDC&rpar;, which could help the country&#39;s mom-and-pop retailers compete against rapid grocery delivery startups &lpar;Varsha Bansal/TIME&rpar;](http://www.techmeme.com/220618/p1#a220618p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
