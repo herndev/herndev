@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definetly was in there](http://9gag.com/gag/aXrmGvv)
- - ⏩ [Be a man is necessary not toxic masculinity](http://9gag.com/gag/a118xzY)
- - 👉 [True](http://9gag.com/gag/aRr89vB)<!-- MEMES:END -->
+ - 💣 [Safety Guy: *Does his job Tom Cruise: You&#39;re fkcuing usless!](http://9gag.com/gag/aGzr6mG)
+ - ⏩ [Sometimes animals and people need to be put in their place.](http://9gag.com/gag/aVx94mv)
+ - 👉 [Impossible](http://9gag.com/gag/a519yqq)<!-- MEMES:END -->
 
 ---
 
