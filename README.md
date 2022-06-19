@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steven Moffat’s TV wasn’t made for these times](https://www.polygon.com/23172599/steven-moffat-tv-doctor-who-sherlock)
  - [New E.T. the Extra-Terrestrial board game breaks the franchise’s bizarre curse](https://www.polygon.com/reviews/23171024/et-board-game-funko-prospero-hall-review)
- - [A taste of Cuphead’s Delicious Last Course is as challenging and satisfying as ever](https://www.polygon.com/23172732/cuphead-dlc-delicious-last-course-impressions)
- - [Polygon rides the Buzz Lightyear ride](https://www.polygon.com/23167865/buzz-lightyear-ride-disney-world-disneyland-pixar)<!-- GAME:END -->
+ - [A taste of Cuphead’s Delicious Last Course is as challenging and satisfying as ever](https://www.polygon.com/23172732/cuphead-dlc-delicious-last-course-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
