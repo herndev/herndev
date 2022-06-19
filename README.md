@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can already have Apple’s new CarPlay experience today](https://www.androidauthority.com/apple-carplay-android-automotive-3175401/)
- - [PowerA’s pastel controllers are perfect for a summer spent playing games indoors](https://www.theverge.com/23171609/powera-enhanced-wired-controller-pastel-xbox-hands-on-impressions-photos)
- - [Daily deals June 19: $175 AirPods Pro, $88 AirTag 4-pack, $115 Blink camera package, more](https://appleinsider.com/articles/22/06/19/daily-deals-june-19-175-airpods-pro-88-airtag-4-pack-115-blink-camera-package-more?utm_medium=rss)<!-- TECH:END -->
+ - [Go read this report about a Google contractor who claims he was fired for calling out cult activity](https://www.theverge.com/2022/6/19/23174605/go-read-this-report-google-contractor-fired-calling-out-cult-activity)
+ - [Formula 1: How to Watch Today&#39;s Canadian Grand Prix     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-how-to-watch-the-canadian-grand-prix-today/#ftag=CAD590a51e)
+ - [You can already have Apple’s new CarPlay experience today](https://www.androidauthority.com/apple-carplay-android-automotive-3175401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
