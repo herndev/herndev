@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok staff in China allegedly accessed U.S. user data](https://appleinsider.com/articles/22/06/18/tiktok-staff-in-china-allegedly-accessed-us-user-data?utm_medium=rss)
- - [WhatsApp now lets you mute individual users during group calls](https://www.theverge.com/2022/6/18/23174047/whatsapp-mute-people-group-calls-privacy-features)
- - [Ex-Amazon Cloud Worker Found Guilty in Capital One Hack     - CNET](https://www.cnet.com/tech/services-and-software/ex-amazon-cloud-worker-found-guilty-in-capital-one-hack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)
+ - [Apple employees at a store in Towson, Maryland, vote 65-33 to unionize, making it the company&#39;s first unionized store in the US &lpar;New York Times&rpar;](http://www.techmeme.com/220618/p15#a220618p15)
+ - [An Apple Store Votes to Unionize for the First Time](https://www.wired.com/story/first-apple-store-union-towson/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
