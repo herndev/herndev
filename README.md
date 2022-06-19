@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wah](http://9gag.com/gag/aYrv0GN)
- - ⏩ [Very 90s sounds](http://9gag.com/gag/a21ApEp)
- - 👉 [The door closing at the end was perfect](http://9gag.com/gag/aWgeXmd)<!-- MEMES:END -->
+ - 💣 [Best friend](http://9gag.com/gag/arnDL00)
+ - ⏩ [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)
+ - 👉 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)<!-- MEMES:END -->
 
 ---
 
