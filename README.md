@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Telegram surpasses 700M MAUs and unveils Telegram Premium, which will let users follow up to 1,000 channels, send files up to 4GB, and more for ~$5/month &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220619/p5#a220619p5)
  - [Telegram plans premium service after topping 700M active users](https://appleinsider.com/articles/22/06/19/telegram-plans-premium-service-after-topping-700m-active-users?utm_medium=rss)
- - [It&#39;s 2022, So of Course I&#39;m Still Playing My Nintendo Wii     - CNET](https://www.cnet.com/culture/its-2022-so-of-course-im-still-playing-my-nintendo-wii/#ftag=CAD590a51e)
- - [Google&#39;s Juneteenth Doodle Highlights Black Family and Fatherhood     - CNET](https://www.cnet.com/culture/internet/googles-juneteenth-doodle-highlights-black-family-and-fatherhood/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It&#39;s 2022, So of Course I&#39;m Still Playing My Nintendo Wii     - CNET](https://www.cnet.com/culture/its-2022-so-of-course-im-still-playing-my-nintendo-wii/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
