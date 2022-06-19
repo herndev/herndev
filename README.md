@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Organized cops](http://9gag.com/gag/a41BX66)
- - ⏩ [What next](http://9gag.com/gag/a41Bv46)
+ - 💣 [It will be an unforgettable moment](http://9gag.com/gag/aKmXooQ)
+ - ⏩ [India is not for beginners](http://9gag.com/gag/ajg3p7p)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 ---
