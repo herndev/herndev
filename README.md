@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wipes tears with cash](http://9gag.com/gag/azevpYB)
- - ⏩ [How to tie a tarp corner knot to make shelter or tent](http://9gag.com/gag/a71mRdm)
- - 👉 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)<!-- MEMES:END -->
+ - 💣 [Wah](http://9gag.com/gag/aYrv0GN)
+ - ⏩ [Makes sense](http://9gag.com/gag/arnD7E5)
+ - 👉 [Best friend](http://9gag.com/gag/arnDL00)<!-- MEMES:END -->
 
 ---
 
