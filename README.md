@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why does my body need the blanket so much?](http://9gag.com/gag/aE8j4RO)
- - ⏩ [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)
- - 👉 [How to tie a tarp corner knot to make shelter or tent](http://9gag.com/gag/a71mRdm)<!-- MEMES:END -->
+ - 💣 [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)
+ - ⏩ [Lol Woman](http://9gag.com/gag/a118jqP)
+ - 👉 [Joe Biden falls off his bike](http://9gag.com/gag/aM4077A)<!-- MEMES:END -->
 
 ---
 
