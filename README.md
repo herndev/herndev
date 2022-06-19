@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cows are becoming a major problem on roads](http://9gag.com/gag/aDDqp3G)
- - ⏩ [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
+ - 💣 [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
+ - ⏩ [The truth and nothing but the truth](http://9gag.com/gag/azev0ej)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 ---
