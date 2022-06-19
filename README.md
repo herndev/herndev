@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [An easter egg in Unpacking has revealed the developer&#39;s next game](https://www.pcgamer.com/an-easter-egg-in-unpacking-has-revealed-the-developers-next-game)
  - [Great moments in PC gaming: Getting home in Dragon&#39;s Dogma](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-home-in-dragons-dogma)
- - [Diablo Immortal has apparently earned over $24M in just two weeks](https://www.pcgamer.com/diablo-immortal-has-apparently-earned-over-dollar24m-in-just-two-weeks)
- - [Alice: Madness Returns has been taken off Steam again](https://www.pcgamer.com/alice-madness-returns-has-been-taken-off-steam-again)<!-- GAME:END -->
+ - [Diablo Immortal has apparently earned over $24M in just two weeks](https://www.pcgamer.com/diablo-immortal-has-apparently-earned-over-dollar24m-in-just-two-weeks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
