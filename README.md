@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 46 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-the-46-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)
- - [Since bitcoin hit an all-time high in November 2021, ~$2T of cryptocurrency value has been erased, which is more than two-thirds of all the crypto that existed &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220619/p3#a220619p3)
- - [The iPad Air convinced me that the post-PC world is almost here](https://www.androidauthority.com/ipad-air-post-computer-world-3175222/)<!-- TECH:END -->
+ - [Crime blotter: Cargo handlers at airport arrested for $21,000 Apple theft](https://appleinsider.com/articles/22/06/19/crime-blotter-cargo-handlers-at-airport-arrested-for-21000-apple-theft?utm_medium=rss)
+ - [Google Maps should have a way to block businesses](https://www.androidauthority.com/google-maps-block-businesses-3176385/)
+ - [30 Last-Minute Father’s Day Deals](https://www.wired.com/story/last-minute-fathers-day-deals-2022-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
