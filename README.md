@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India lifts ban on Mastercard from issuing new debit, credit, or prepaid cards after it demonstrated &quot;satisfactory compliance&quot; with the local data storage rules &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220619/p2#a220619p2)
- - [What Is the Ideal Gas Law?](https://www.wired.com/story/what-is-the-ideal-gas-law/)
- - [How to Password Protect Any File](https://www.wired.com/story/how-to-password-protect-any-file/)<!-- TECH:END -->
+ - [Crime blotter: Cargo handlers at airport arrested for $21,000 Apple theft](https://appleinsider.com/articles/22/06/19/crime-blotter-cargo-handlers-at-airport-arrested-for-21000-apple-theft?utm_medium=rss)
+ - [I bought a smart kettle that turned out pretty dumb, but I’m keeping it](https://www.androidauthority.com/mi-smart-kettle-pro-3176659/)
+ - [24 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
