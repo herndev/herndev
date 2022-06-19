@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get isometric point-and-click Beautiful Desolation free for a limited time](https://www.pcgamer.com/get-isometric-point-and-click-beautiful-desolation-free-for-a-limited-time)
- - [What do we want from Fallout 5?](https://www.pcgamer.com/what-do-we-want-from-fallout-5)
- - [Mecha armada stomps kaiju all the way out of Early Access](https://www.pcgamer.com/mecha-armada-stomps-kaiju-all-the-way-out-of-early-access)<!-- GAME:END -->
+ - [Great moments in PC gaming: Getting home in Dragon&#39;s Dogma](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-home-in-dragons-dogma)
+ - [Diablo Immortal has apparently earned over $24M in just two weeks](https://www.pcgamer.com/diablo-immortal-has-apparently-earned-over-dollar24m-in-just-two-weeks)
+ - [Alice: Madness Returns has been taken off Steam again](https://www.pcgamer.com/alice-madness-returns-has-been-taken-off-steam-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
