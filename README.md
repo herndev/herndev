@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wah](http://9gag.com/gag/aYrv0GN)
- - ⏩ [Makes sense](http://9gag.com/gag/arnD7E5)
- - 👉 [Best friend](http://9gag.com/gag/arnDL00)<!-- MEMES:END -->
+ - 💣 [Makes sense](http://9gag.com/gag/arnD7E5)
+ - ⏩ [Watching History channel after midnight](http://9gag.com/gag/aVx9y7M)
+ - 👉 [This is a 393-years old Greenland Shark that was located in the Arctic Ocean. It&#39;s been wandering the ocean since 1627. It is the oldest living vertebrate known on the planet. Photo by Julius Nielsen.](http://9gag.com/gag/amgO41j)<!-- MEMES:END -->
 
 ---
 
