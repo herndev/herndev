@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A taste of Cuphead’s Delicious Last Course is as challenging and satisfying as ever](https://www.polygon.com/23172732/cuphead-dlc-delicious-last-course-impressions)
  - [Polygon rides the Buzz Lightyear ride](https://www.polygon.com/23167865/buzz-lightyear-ride-disney-world-disneyland-pixar)
- - [Today&#39;s Wordle answer guide #365: Sunday, June 19](https://www.pcgamer.com/wordle-today-june-19-365)
- - [According to a report, The Quarry and High On Life were almost Stadia games](https://www.pcgamer.com/according-to-a-report-the-quarry-and-high-on-life-were-almost-stadia-games)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer guide #365: Sunday, June 19](https://www.pcgamer.com/wordle-today-june-19-365)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
