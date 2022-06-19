@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [AirTag shipments rise could result in second-gen model, says Kuo](https://appleinsider.com/articles/22/06/19/airtag-shipments-rise-could-result-in-second-gen-model-says-kuo?utm_medium=rss)
  - [Crime blotter: Cargo handlers at airport arrested for $21,000 Apple theft](https://appleinsider.com/articles/22/06/19/crime-blotter-cargo-handlers-at-airport-arrested-for-21000-apple-theft?utm_medium=rss)
- - [I bought a smart kettle that turned out pretty dumb, but I’m keeping it](https://www.androidauthority.com/mi-smart-kettle-pro-3176659/)
- - [24 Great Wireless Chargers to Refuel Your Phone &lpar;or Watch&rpar;](https://www.wired.com/gallery/best-wireless-chargers/)<!-- TECH:END -->
+ - [I bought a smart kettle that turned out pretty dumb, but I’m keeping it](https://www.androidauthority.com/mi-smart-kettle-pro-3176659/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
