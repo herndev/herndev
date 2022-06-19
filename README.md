@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Interviews with the members of Peter Thiel&#39;s inner circle describe how he came to the decision to leave Facebook&#39;s board &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/220619/p4#a220619p4)
  - [Crime blotter: Cargo handlers at airport arrested for $21,000 Apple theft](https://appleinsider.com/articles/22/06/19/crime-blotter-cargo-handlers-at-airport-arrested-for-21000-apple-theft?utm_medium=rss)
- - [Google Maps should have a way to block businesses](https://www.androidauthority.com/google-maps-block-businesses-3176385/)
- - [30 Last-Minute Father’s Day Deals](https://www.wired.com/story/last-minute-fathers-day-deals-2022-3/)<!-- TECH:END -->
+ - [Google Maps should have a way to block businesses](https://www.androidauthority.com/google-maps-block-businesses-3176385/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
