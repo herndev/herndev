@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer guide #365: Sunday, June 19](https://www.pcgamer.com/wordle-today-june-19-365)
  - [According to a report, The Quarry and High On Life were almost Stadia games](https://www.pcgamer.com/according-to-a-report-the-quarry-and-high-on-life-were-almost-stadia-games)
- - [An easter egg in Unpacking has revealed the developer&#39;s next game](https://www.pcgamer.com/an-easter-egg-in-unpacking-has-revealed-the-developers-next-game)
- - [Great moments in PC gaming: Getting home in Dragon&#39;s Dogma](https://www.pcgamer.com/great-moments-in-pc-gaming-getting-home-in-dragons-dogma)<!-- GAME:END -->
+ - [An easter egg in Unpacking has revealed the developer&#39;s next game](https://www.pcgamer.com/an-easter-egg-in-unpacking-has-revealed-the-developers-next-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
