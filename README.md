@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Get Free Wi-Fi Anywhere If You Can&#39;t Connect at Home     - CNET](https://www.cnet.com/news/how-to-get-free-wi-fi-anywhere-if-you-cant-connect-at-home/#ftag=CAD590a51e)
  - [A look at the safety and economics of autonomous trucks as Aurora and TuSimple say they plan to have commercial-trucking services in the US by the end of 2023 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220619/p1#a220619p1)
- - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)
- - [Apple Store Employees in Maryland First to Vote to Unionize     - CNET](https://www.cnet.com/tech/apple-store-employees-in-maryland-first-to-vote-to-unionize/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
