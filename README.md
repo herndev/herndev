@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get Free Wi-Fi Anywhere If You Can&#39;t Connect at Home     - CNET](https://www.cnet.com/news/how-to-get-free-wi-fi-anywhere-if-you-cant-connect-at-home/#ftag=CAD590a51e)
- - [A look at the safety and economics of autonomous trucks as Aurora and TuSimple say they plan to have commercial-trucking services in the US by the end of 2023 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220619/p1#a220619p1)
- - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)<!-- TECH:END -->
+ - [India lifts ban on Mastercard from issuing new debit, credit, or prepaid cards after it demonstrated &quot;satisfactory compliance&quot; with the local data storage rules &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220619/p2#a220619p2)
+ - [What Is the Ideal Gas Law?](https://www.wired.com/story/what-is-the-ideal-gas-law/)
+ - [How to Password Protect Any File](https://www.wired.com/story/how-to-password-protect-any-file/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
