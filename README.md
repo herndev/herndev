@@ -104,7 +104,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- GAME:START -->
  - [Unused Elden Ring quest would have tied an early NPC to the game&#39;s darkest secrets](https://www.pcgamer.com/unused-elden-ring-quest-would-have-tied-an-early-npc-to-the-games-darkest-secrets)
- - [The Looker is a free puzzle parody of other very serious puzzlers](https://www.pcgamer.com/the-looker-is-a-free-puzzle-parody-of-other-very-serious-puzzlers)
+ - [The Looker is a free puzzle parody of other, much more serious, puzzlers](https://www.pcgamer.com/the-looker-is-a-free-puzzle-parody-of-other-very-serious-puzzlers)
  - [Deus Ex Randomizer mod also adds bingo, Dark Souls-style online death markers](https://www.pcgamer.com/deus-ex-randomizer-mod-also-adds-bingo-dark-souls-style-online-death-markers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
