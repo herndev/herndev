@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best friend](http://9gag.com/gag/arnDL00)
- - ⏩ [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)
- - 👉 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)<!-- MEMES:END -->
+ - 💣 [It was a happy childhood](http://9gag.com/gag/aQXD5w8)
+ - ⏩ [Why does my body need the blanket so much?](http://9gag.com/gag/aE8j4RO)
+ - 👉 [Always stay within the 3mile line](http://9gag.com/gag/a71mXgq)<!-- MEMES:END -->
 
 ---
 
