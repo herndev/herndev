@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These tourists are everywhere](http://9gag.com/gag/a41Bvrp)
- - ⏩ [Let&#39;s never forget this legend. Happy Father&#39;s Day!!](http://9gag.com/gag/aegqoeB)
+ - 💣 [Cows are becoming a major problem on roads](http://9gag.com/gag/aDDqp3G)
+ - ⏩ [Show us your cursed things](http://9gag.com/gag/aKmXRL1)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 ---
