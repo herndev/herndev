@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Maryland Apple Store first to vote in favor of unionization](https://appleinsider.com/articles/22/06/19/maryland-apple-store-first-to-vote-in-favor-of-employee-unionization?utm_medium=rss)
- - [Apple employees at a store in Towson, Maryland, vote 65-33 to unionize, making it the company&#39;s first unionized store in the US &lpar;New York Times&rpar;](http://www.techmeme.com/220618/p15#a220618p15)
- - [An Apple Store Votes to Unionize for the First Time](https://www.wired.com/story/first-apple-store-union-towson/)<!-- TECH:END -->
+ - [Apple Store Employees in Maryland First to Vote to Unionize     - CNET](https://www.cnet.com/tech/apple-store-employees-in-maryland-first-to-vote-to-unionize/#ftag=CAD590a51e)
+ - [Apple employees at a store in Towson, Maryland, vote 65-33 to unionize, making it the company&#39;s first unionized store in the US &lpar;New York Times&rpar;](http://www.techmeme.com/220618/p15#a220618p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
