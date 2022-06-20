@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Netflix Video Game You Need to Play     - CNET](https://www.cnet.com/culture/entertainment/the-netflix-video-game-you-need-to-play/#ftag=CAD590a51e)
  - [Save 50% on a TCL 55-inch Roku Smart TV, and more top TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, votes to take over an account that deposited 5.7M SOL, over 95% of the pool&#39;s deposits &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220619/p7#a220619p7)
- - [I&#39;m Racing My Own Son for $1000 Because I Am an Idiot     - CNET](https://www.cnet.com/culture/internet/im-racing-my-own-son-for-1000-because-i-am-an-idiot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, votes to take over an account that deposited 5.7M SOL, over 95% of the pool&#39;s deposits &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220619/p7#a220619p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
