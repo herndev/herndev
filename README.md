@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal delayed in China just days ahead of launch](https://www.pcgamer.com/diablo-immortal-delayed-in-china-just-days-ahead-of-launch)
- - [The World of Warships: Legends Summer Update is Now Live](https://news.xbox.com/en-us/2022/06/20/the-world-of-warships-legends-summer-update-is-now-live/)
- - [Riot brings back LoL&#39;s magical anime troupe, fans go bananas](https://www.pcgamer.com/riot-brings-back-lols-magical-anime-troupe-fans-go-bananas)<!-- GAME:END -->
+ - [Sniper Elite 5 has one of the best sandbox missions I’ve ever played](https://www.polygon.com/sub-gems/23172671/sniper-elite-5-spy-academy-best-missions-stealth-games)
+ - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)
+ - [This Scottish Cycle Lane Is Harder Than Any Video Game](https://kotaku.com/paperboy-cycle-lane-bike-cycling-atari-scotland-edinbur-1849084667)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
