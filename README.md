@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You’ll be able to bet against Bitcoin with an ETF, before you can buy a Bitcoin ETF](https://www.theverge.com/2022/6/20/23176105/sec-etf-short-bitcoin-proshares-nyse)
- - [iOS 16, iPadOS 16, and macOS Ventura add an Automatic Verification option, which lets users bypass CAPTCHAs on websites and in apps that support the feature &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220620/p16#a220620p16)
- - [Xenoblade Chronicles 3 Nintendo Direct Set for June 22     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-nintendo-direct-set-for-june-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [London-based Instanda, which offers insurance providers a no-code core infrastructure to deploy products easily, has raised a $45M Series B led by Toscafund &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220620/p18#a220620p18)
+ - [There has to be a better way to binge](https://www.theverge.com/2022/6/20/23175918/there-has-to-be-a-better-way-to-binge)
+ - [New York-headquartered Wahed, a fintech which allows Muslims to invest in line with their faith, has raised a $50M Series B led by Wa&#39;ed Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p17#a220620p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
