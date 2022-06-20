@@ -2,7 +2,8 @@
 
 ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
 
-### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+### Hi there, I'm Hernie <img height="30px" src="https://2no.co/2n31G4.gif" />
+<!-- <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> -->
 
 ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
 
