@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why getting hit by space dust is an unavoidable aspect of space travel](https://www.theverge.com/2022/6/20/23168039/micrometeoroid-space-dust-spacecraft-impact-debris-jwst)
- - [Apple TV+ signs Peter Capaldi for &#39;Criminal Record&#39; thriller](https://appleinsider.com/articles/22/06/20/apple-tv-signs-peter-capaldi-for-criminal-record-thriller?utm_medium=rss)
- - [Analysis: despite claiming to reject gun ads, Google accepted ads from 15 top US firearms sellers between March 9 and June 6, generating over 120M impressions &lpar;ProPublica&rpar;](http://www.techmeme.com/220620/p12#a220620p12)<!-- TECH:END -->
+ - [How to set up an iPad for another family member](https://appleinsider.com/articles/22/06/20/how-to-set-up-an-ipad-for-another-family-member?utm_medium=rss)
+ - [Picard showrunner teases even more legacy returns for season 3](https://www.theverge.com/2022/6/20/23175611/picard-season-3-tng-cameos-returns)
+ - [Vivosmart 5 review: Good, but not enough big strides](https://www.androidauthority.com/garmin-vivosmart-5-review-3156991/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
