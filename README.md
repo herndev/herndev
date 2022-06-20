@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up an iPad for another family member](https://appleinsider.com/articles/22/06/20/how-to-set-up-an-ipad-for-another-family-member?utm_medium=rss)
- - [Picard showrunner teases even more legacy returns for season 3](https://www.theverge.com/2022/6/20/23175611/picard-season-3-tng-cameos-returns)
- - [Vivosmart 5 review: Good, but not enough big strides](https://www.androidauthority.com/garmin-vivosmart-5-review-3156991/)<!-- TECH:END -->
+ - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM is back in stock &amp; $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/06/20/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-is-back-in-stock-150-off-plus-60-off-applecare?utm_medium=rss)
+ - [Google Reminders could be sunsetted soon](https://www.androidauthority.com/google-reminders-sunset-3178207/)
+ - [A look at crypto &quot;shark traders&quot;, who scour blockchain records to find highly leveraged traders and try to push them into liquidation &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220620/p13#a220620p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
