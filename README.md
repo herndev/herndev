@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM is back in stock &amp; $150 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/06/20/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-is-back-in-stock-150-off-plus-60-off-applecare?utm_medium=rss)
- - [Google Reminders could be sunsetted soon](https://www.androidauthority.com/google-reminders-sunset-3178207/)
- - [A look at crypto &quot;shark traders&quot;, who scour blockchain records to find highly leveraged traders and try to push them into liquidation &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220620/p13#a220620p13)<!-- TECH:END -->
+ - [Morbius finally finds some success...on Vudu](https://www.theverge.com/2022/6/20/23175780/morbius-vudu-streaming-number-1-for-once)
+ - [Paris-based Platform.sh, which offers tools to build web apps, raises a $140M Series D, bringing its total raised to $187M, and says ARR is up 50% YoY to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220620/p14#a220620p14)
+ - [iOS 16 will let you bypass CAPTCHAs on some apps and websites](https://www.theverge.com/2022/6/20/23175765/apple-ios-16-captcha-private-access-tokens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
