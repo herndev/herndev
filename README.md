@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy saves 4 ducklings from dying of cold and took care of them. Mommy duck thought had lost her babies forever.](http://9gag.com/gag/aggby3K)
- - ⏩ [I\u2019m glad she got aids.](http://9gag.com/gag/a51ApwG)
- - 👉 [Enjoy the Guinea pig buffet](http://9gag.com/gag/arn0vx6)<!-- MEMES:END -->
+ - 💣 [Enjoy the Guinea pig buffet](http://9gag.com/gag/arn0vx6)
+ - ⏩ [DAD, trust me I&#39;m an engineer!](http://9gag.com/gag/amgyNb9)
+ - 👉 [At first my wife said she would respect my choice but when I said i don&#39;t want it she got mad at me](http://9gag.com/gag/a91ebd0)<!-- MEMES:END -->
 
 ---
 
