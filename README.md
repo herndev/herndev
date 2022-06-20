@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [100% of older brothers](http://9gag.com/gag/aWgA0DA)
- - ⏩ [Krystal Ball schooling Bill Maher on inflation](http://9gag.com/gag/a21VN2w)
- - 👉 [Neo is back](http://9gag.com/gag/awzDr6B)<!-- MEMES:END -->
+ - 💣 [Crying inside](http://9gag.com/gag/aDDL377)
+ - ⏩ [Neo is back](http://9gag.com/gag/awzDr6B)
+ - 👉 [Words are getting clearer.](http://9gag.com/gag/a31DYQr)<!-- MEMES:END -->
 
 ---
 
