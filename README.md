@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I spent 200 dollars for nothing](http://9gag.com/gag/aGzqVgz)
- - ⏩ [Free milk](http://9gag.com/gag/apgX0VE)
- - 👉 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
+ - 💣 [You are the reason for this](http://9gag.com/gag/azezb6p)
+ - ⏩ [Comedian has to prove the ausencia he&#39;s 5&#39;4](http://9gag.com/gag/azezERm)
+ - 👉 [Free milk](http://9gag.com/gag/apgX0VE)<!-- MEMES:END -->
 
 ---
 
