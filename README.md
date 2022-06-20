@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pixel June feature drop update adds a music maker and much more &lpar;Updated&rpar;](https://www.androidauthority.com/june-2022-pixel-feature-drop-update-3173212/)
  - [Here’s how the new ‘Nearby Unlock’ feature might work on the Pixel Watch](https://www.androidauthority.com/pixel-watch-nearby-unlock-3177956/)
- - [Tel Aviv-based Jit, which automates product security for developers, announces a $38.5M seed led by Boldstart Ventures and the launch of its free beta version &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p1#a220620p1)
- - [Telegram Premium launched: Here’s everything you need to know](https://www.androidauthority.com/telegram-premium-price-features-availability-3177921/)<!-- TECH:END -->
+ - [Tel Aviv-based Jit, which automates product security for developers, announces a $38.5M seed led by Boldstart Ventures and the launch of its free beta version &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p1#a220620p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
