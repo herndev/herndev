@@ -111,9 +111,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Netflix Video Game You Need to Play     - CNET](https://www.cnet.com/culture/entertainment/the-netflix-video-game-you-need-to-play/#ftag=CAD590a51e)
- - [Save 50% on a TCL 55-inch Roku Smart TV, and more top TV deals](https://www.androidauthority.com/best-tv-deals-2-1111250/)
- - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, votes to take over an account that deposited 5.7M SOL, over 95% of the pool&#39;s deposits &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220619/p7#a220619p7)<!-- TECH:END -->
+ - [Tel Aviv-based Jit, which automates product security for developers, announces a $38.5M seed led by Boldstart Ventures and the launch of its free beta version &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p1#a220620p1)
+ - [Telegram Premium launched: Here’s everything you need to know](https://www.androidauthority.com/telegram-premium-price-features-availability-3177921/)
+ - [Google uses a Drake song to argue against green bubbles in iMessage](https://www.androidauthority.com/google-drake-song-green-bubbles-imessage-3176568/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
