@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Home versus HomeKit, new air purifier, and more on HomeKit Insider](https://appleinsider.com/articles/22/06/20/apple-home-versus-homekit-new-air-purifier-and-more-on-homekit-insider?utm_medium=rss)
- - [Best Stores for Buying MP3 and Digital Music You Own Forever     - CNET](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
- - [After suspending withdrawals on Friday, Babel Finance says it has reached &quot;preliminary agreements&quot; on repayments of &quot;some debts&quot;, helping ease its liquidity &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220620/p8#a220620p8)<!-- TECH:END -->
+ - [Frances Haugen wants to train lawyers to fight Facebook](https://www.theverge.com/2022/6/20/23175477/frances-haugen-facebook-whistleblower-nonprofit-beyond-the-screen-lawyers-researchers)
+ - [Mark Zuckerberg has so many VR headset prototypes to show us](https://www.theverge.com/2022/6/20/23172503/mark-zuckerberg-meta-vr-headset-prototype-reveal-butterscotch-sunburst-holocake-mirror-lake)
+ - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, overturns a controversial vote to commandeer a whale&#39;s account and regain ~5.7M SOL &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220620/p10#a220620p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
