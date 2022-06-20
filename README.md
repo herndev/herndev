@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sniper Elite 5 has one of the best sandbox missions I’ve ever played](https://www.polygon.com/sub-gems/23172671/sniper-elite-5-spy-academy-best-missions-stealth-games)
- - [All that chanting in the Elden Ring soundtrack is gibberish](https://www.pcgamer.com/all-that-chanting-in-the-elden-ring-soundtrack-is-gibberish)
- - [This Scottish Cycle Lane Is Harder Than Any Video Game](https://kotaku.com/paperboy-cycle-lane-bike-cycling-atari-scotland-edinbur-1849084667)<!-- GAME:END -->
+ - [This Free Low-Res Six-Color Game Will Take Over Your Day](https://kotaku.com/toy-cavers-free-itch-io-platform-ismael-rodriguez-game-1849085637)
+ - [This indie strategy game is like a tiny Total War that only takes an hour](https://www.pcgamer.com/this-indie-strategy-game-is-like-a-tiny-total-war-that-only-takes-an-hour)
+ - [Flashback is free on GOG](https://www.pcgamer.com/flashback-is-free-on-gog)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
