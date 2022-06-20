@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people talk a lot about Climate Change...](http://9gag.com/gag/aM46eXX)
+ - 💣 [Don\u2019t mess with the hand](http://9gag.com/gag/a11nvdY)
  - ⏩ [We\u2019ve been playing xbox live games with each other since 2004, we were even in a counterstrike clan for awhile. Today, we met for the first time, in real life!](http://9gag.com/gag/axB8EoL)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
