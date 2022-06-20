@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Frances Haugen wants to train lawyers to fight Facebook](https://www.theverge.com/2022/6/20/23175477/frances-haugen-facebook-whistleblower-nonprofit-beyond-the-screen-lawyers-researchers)
- - [Mark Zuckerberg has so many VR headset prototypes to show us](https://www.theverge.com/2022/6/20/23172503/mark-zuckerberg-meta-vr-headset-prototype-reveal-butterscotch-sunburst-holocake-mirror-lake)
- - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, overturns a controversial vote to commandeer a whale&#39;s account and regain ~5.7M SOL &lpar;Vishal Chawla/The Block&rpar;](http://www.techmeme.com/220620/p10#a220620p10)<!-- TECH:END -->
+ - [Why getting hit by space dust is an unavoidable aspect of space travel](https://www.theverge.com/2022/6/20/23168039/micrometeoroid-space-dust-spacecraft-impact-debris-jwst)
+ - [Apple TV+ signs Peter Capaldi for &#39;Criminal Record&#39; thriller](https://appleinsider.com/articles/22/06/20/apple-tv-signs-peter-capaldi-for-criminal-record-thriller?utm_medium=rss)
+ - [Analysis: despite claiming to reject gun ads, Google accepted ads from 15 top US firearms sellers between March 9 and June 6, generating over 120M impressions &lpar;ProPublica&rpar;](http://www.techmeme.com/220620/p12#a220620p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
