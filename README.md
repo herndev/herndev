@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Joe Biden &#39;proud&#39; of Apple workers forming a union](https://appleinsider.com/articles/22/06/20/president-joe-biden-proud-of-apple-workers-forming-a-union?utm_medium=rss)
- - [How iOS 16 makes your iPhone more personal](https://appleinsider.com/articles/22/06/18/how-ios-16-makes-your-iphone-more-personal?utm_medium=rss)
- - [How to block a website on Safari](https://www.androidauthority.com/block-website-safari-3178147/)<!-- TECH:END -->
+ - [Some SMB owners complain about Google ending its G Suite legacy free edition after more than a decade on August 1, arguing it lured them with a free service &lpar;Nico Grant/New York Times&rpar;](http://www.techmeme.com/220620/p15#a220620p15)
+ - [Asus ROG Phone 6: Everything we know so far and what we want to see](https://www.androidauthority.com/asus-rog-phone-6-release-date-rumors-specs-price-features-3177742/)
+ - [More than one person can now use Google TV](https://www.theverge.com/2022/6/20/23175945/google-tv-update-multiple-users-personalized-profiles-chromecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
