@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is terrifying](http://9gag.com/gag/aM40p0A)
- - ⏩ [Finally few hours later](http://9gag.com/gag/avABb3M)
+ - 💣 [If Star Wars was R rated](http://9gag.com/gag/aegqXz5)
+ - ⏩ [Dr Jordan B Peterson on writing out your Traumatic experiences](http://9gag.com/gag/aLvOq4x)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 ---
