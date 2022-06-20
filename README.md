@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00a0\u00a0\u00a0](http://9gag.com/gag/a1184RR)
- - ⏩ [Most incredible golf shot pulled off by Jon Rahm](http://9gag.com/gag/arnDPgd)
+ - 💣 [This is terrifying](http://9gag.com/gag/aM40p0A)
+ - ⏩ [Finally few hours later](http://9gag.com/gag/avABb3M)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
 ---
