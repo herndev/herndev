@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ericsson brings 5G patent infringement battle to the UK](https://appleinsider.com/articles/22/06/20/ericsson-brings-5g-patent-infringement-battle-to-the-uk?utm_medium=rss)
- - [Chicago-based Elevate K-12, which helps school districts alleviate teacher shortages by virtually connecting teachers to classrooms, has raised a $40M Series C &lpar;Abel Rodriguez/Built In Chicago&rpar;](http://www.techmeme.com/220620/p2#a220620p2)
- - [This Designer Guitar Is Made From a Bent Sheet of Steel](https://www.wired.com/story/verso-cosmo-guitar-is-made-from-bent-steel/)<!-- TECH:END -->
+ - [JD.com reports revenue from its June 18 shopping festival rose 10.3% to $56.6B, the slowest growth since 2017, as China&#39;s lockdowns dampen consumer demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220620/p4#a220620p4)
+ - [Why Twitter Can Be a Perfect Portfolio for Artists](https://www.wired.com/story/why-twitter-perfect-artists-portfolio/)
+ - [Apple&#39;s TikTok filter lets you recreate Harry Styles&#39; AirPods spot](https://appleinsider.com/articles/22/06/20/apples-tiktok-filter-lets-you-recreate-harry-styles-airpods-spot?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
