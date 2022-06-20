@@ -118,9 +118,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a21VzWe)
- - ⏩ [Don\u2019t mess with the hand](http://9gag.com/gag/a11nvdY)
- - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
+ - 💣 [Previous owner: The car is in perfect condition. The car:](http://9gag.com/gag/amgyN32)
+ - ⏩ [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a21VzWe)
+ - 👉 [DAD, trust me I&#39;m an engineer!](http://9gag.com/gag/amgyNb9)<!-- MEMES:END -->
 
 ---
 
