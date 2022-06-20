@@ -104,9 +104,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Of course AI NPCs &#39;can be conscious and can have feelings&#39; says technophilosopher](https://www.pcgamer.com/of-course-ai-npcs-can-be-conscious-and-can-have-feelings-says-technophilosopher)
  - [Today&#39;s Wordle answer guide #366: Monday, June 20](https://www.pcgamer.com/wordle-today-june-20-366)
- - [Intel Arc A380 graphics card goes on sale in China](https://www.pcgamer.com/intel-arc-a380-graphics-card-goes-on-sale-in-china)
- - [TSMC&#39;s 2nm chips are coming to a device near you in 2026](https://www.pcgamer.com/tsmcs-2nm-chips-are-coming-to-a-device-near-you-in-2026)<!-- GAME:END -->
+ - [Intel Arc A380 graphics card goes on sale in China](https://www.pcgamer.com/intel-arc-a380-graphics-card-goes-on-sale-in-china)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
