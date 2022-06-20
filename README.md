@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [FINA Bans Transgender Swimmers From Female Competitions](http://9gag.com/gag/aKmy4nb)
+ - 💣 [This guy saving his co-worker at the last moment after ladder slips](http://9gag.com/gag/a21VzWe)
  - ⏩ [Don\u2019t mess with the hand](http://9gag.com/gag/a11nvdY)
  - 👉 [All hail the new king!](http://9gag.com/gag/aegqLbb)<!-- MEMES:END -->
 
