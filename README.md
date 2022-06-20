@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)
- - [Alice: Madness Returns is back on Steam again, American McGee says ‘yikes’](https://www.pcgamer.com/alice-madness-returns-is-back-on-steam-again-american-mcgee-says-yikes)
- - [Madden 23’s ‘Face of the Franchise’ tries to solve two big problems with one small change](https://www.polygon.com/23155787/madden-nfl-23-face-of-the-franchise-mode-story-preview-gameplay)<!-- GAME:END -->
+ - [Outriders is free to play on Steam until Thursday](https://www.pcgamer.com/outriders-is-free-to-play-on-steam-until-thursday)
+ - [Developers Admit There&#39;s No Way To Complete KOTOR II On Switch](https://kotaku.com/kotor-ii-star-wars-aspyr-nintendo-switch-bug-the-sith-l-1849085914)
+ - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
