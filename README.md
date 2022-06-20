@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the hero shooter took over competitive FPS design](https://www.pcgamer.com/how-the-hero-shooter-took-over-competitive-fps-design)
- - [RIP Heroes of Newerth, once LoL&#39;s biggest competitor](https://www.pcgamer.com/rip-heroes-of-newerth-once-lols-biggest-competitor)
- - [Diablo Immortal&#39;s China Release Delayed Following Social Media Silencing](https://kotaku.com/diablo-immortal-blizzard-netease-china-weibo-mobile-gam-1849084106)<!-- GAME:END -->
+ - [Meet the TikToker who lets a D20 decide what goes into his lunchtime sandwiches](https://www.polygon.com/23169570/roll-for-sandwich-interview)
+ - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)
+ - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
