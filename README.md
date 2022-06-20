@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unused Elden Ring quest would have tied an early NPC to the game&#39;s darkest secrets](https://www.pcgamer.com/unused-elden-ring-quest-would-have-tied-an-early-npc-to-the-games-darkest-secrets)
- - [The Looker is a free puzzle parody of other, much more serious, puzzlers](https://www.pcgamer.com/the-looker-is-a-free-puzzle-parody-of-other-very-serious-puzzlers)
- - [Deus Ex Randomizer mod also adds bingo, Dark Souls-style online death markers](https://www.pcgamer.com/deus-ex-randomizer-mod-also-adds-bingo-dark-souls-style-online-death-markers)<!-- GAME:END -->
+ - [Breath of the Wild Guardian Cosplay Is A Sight To Behold](https://kotaku.com/zelda-breath-of-the-wild-cosplay-guardian-nintendo-mega-1848966767)
+ - [Five new Steam games you probably missed &lpar;June 20, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-june-20-2022)
+ - [Jak And Daxter Is Being &#39;Ported&#39; To The PC, Looks Great](https://kotaku.com/jak-daxter-ps2-pc-port-recompile-naughty-dog-code-versi-1849083277)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
