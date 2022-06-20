@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am now realy realy happy](http://9gag.com/gag/aWgAZpn)
- - ⏩ [Mamma mia!](http://9gag.com/gag/aQXKPjq)
- - 👉 [The waves created by a moving body in water, be it a duck or a ship&lpar;called feather waves&rpar; are always at an angle of 19.47 degrees to the direction of motion, irrespective of the speed.](http://9gag.com/gag/a4184xw)<!-- MEMES:END -->
+ - 💣 [That was a critical hit for Brit](http://9gag.com/gag/a21VNQO)
+ - ⏩ [Agreed](http://9gag.com/gag/a819br3)
+ - 👉 [Rare France W](http://9gag.com/gag/aVx8Q6v)<!-- MEMES:END -->
 
 ---
 
