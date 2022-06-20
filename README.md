@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Free Low-Res Six-Color Game Will Take Over Your Day](https://kotaku.com/toy-cavers-free-itch-io-platform-ismael-rodriguez-game-1849085637)
- - [This indie strategy game is like a tiny Total War that only takes an hour](https://www.pcgamer.com/this-indie-strategy-game-is-like-a-tiny-total-war-that-only-takes-an-hour)
- - [Flashback is free on GOG](https://www.pcgamer.com/flashback-is-free-on-gog)<!-- GAME:END -->
+ - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)
+ - [Alice: Madness Returns is back on Steam again, American McGee says ‘yikes’](https://www.pcgamer.com/alice-madness-returns-is-back-on-steam-again-american-mcgee-says-yikes)
+ - [Madden 23’s ‘Face of the Franchise’ tries to solve two big problems with one small change](https://www.polygon.com/23155787/madden-nfl-23-face-of-the-franchise-mode-story-preview-gameplay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
