@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Morbius finally finds some success...on Vudu](https://www.theverge.com/2022/6/20/23175780/morbius-vudu-streaming-number-1-for-once)
- - [Paris-based Platform.sh, which offers tools to build web apps, raises a $140M Series D, bringing its total raised to $187M, and says ARR is up 50% YoY to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220620/p14#a220620p14)
- - [iOS 16 will let you bypass CAPTCHAs on some apps and websites](https://www.theverge.com/2022/6/20/23175765/apple-ios-16-captcha-private-access-tokens)<!-- TECH:END -->
+ - [President Joe Biden &#39;proud&#39; of Apple workers forming a union](https://appleinsider.com/articles/22/06/20/president-joe-biden-proud-of-apple-workers-forming-a-union?utm_medium=rss)
+ - [How iOS 16 makes your iPhone more personal](https://appleinsider.com/articles/22/06/18/how-ios-16-makes-your-iphone-more-personal?utm_medium=rss)
+ - [How to block a website on Safari](https://www.androidauthority.com/block-website-safari-3178147/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
