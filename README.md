@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS and iPadOS 16 add an option called Automatic Verification, which lets users bypass CAPTCHAs on websites and in apps that support the feature &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220620/p16#a220620p16)
- - [Xenoblade Chronicles 3 Nintendo Direct Set for June 22     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-nintendo-direct-set-for-june-22/#ftag=CAD590a51e)
- - [Prime Video: The 46 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-the-46-best-movies-to-stream-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [You’ll be able to bet against Bitcoin with an ETF, before you can buy a Bitcoin ETF](https://www.theverge.com/2022/6/20/23176105/sec-etf-short-bitcoin-proshares-nyse)
+ - [iOS 16, iPadOS 16, and macOS Ventura add an Automatic Verification option, which lets users bypass CAPTCHAs on websites and in apps that support the feature &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220620/p16#a220620p16)
+ - [Xenoblade Chronicles 3 Nintendo Direct Set for June 22     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-nintendo-direct-set-for-june-22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
