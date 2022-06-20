@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JD.com reports revenue from its June 18 shopping festival rose 10.3% to $56.6B, the slowest growth since 2017, as China&#39;s lockdowns dampen consumer demand &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220620/p4#a220620p4)
- - [Why Twitter Can Be a Perfect Portfolio for Artists](https://www.wired.com/story/why-twitter-perfect-artists-portfolio/)
- - [Apple&#39;s TikTok filter lets you recreate Harry Styles&#39; AirPods spot](https://appleinsider.com/articles/22/06/20/apples-tiktok-filter-lets-you-recreate-harry-styles-airpods-spot?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Home versus HomeKit, new air purifier, and more on HomeKit Insider](https://appleinsider.com/articles/22/06/20/apple-home-versus-homekit-new-air-purifier-and-more-on-homekit-insider?utm_medium=rss)
+ - [Best Stores for Buying MP3 and Digital Music You Own Forever     - CNET](https://www.cnet.com/tech/home-entertainment/best-sites-to-buy-mp3-and-digital-music-you-own-forever/#ftag=CAD590a51e)
+ - [After suspending withdrawals on Friday, Babel Finance says it has reached &quot;preliminary agreements&quot; on repayments of &quot;some debts&quot;, helping ease its liquidity &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220620/p8#a220620p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
