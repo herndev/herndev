@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo Immortal&#39;s China Release Delayed Following Social Media Silencing](https://kotaku.com/diablo-immortal-blizzard-netease-china-weibo-mobile-gam-1849084106)
- - [5 great anime you can watch for free on Funimation](https://www.polygon.com/what-to-watch/23165791/free-anime-to-watch-online-best-funimation)
- - [Thousands of PC parts go up for auction from the defunct Artesian Builds](https://www.pcgamer.com/artesian-builds-auction)<!-- GAME:END -->
+ - [How the hero shooter took over competitive FPS design](https://www.pcgamer.com/how-the-hero-shooter-took-over-competitive-fps-design)
+ - [RIP Heroes of Newerth, once LoL&#39;s biggest competitor](https://www.pcgamer.com/rip-heroes-of-newerth-once-lols-biggest-competitor)
+ - [Diablo Immortal&#39;s China Release Delayed Following Social Media Silencing](https://kotaku.com/diablo-immortal-blizzard-netease-china-weibo-mobile-gam-1849084106)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
