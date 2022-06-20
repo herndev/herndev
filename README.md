@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s Surface Duo 2 is finally a compelling dual-screen phone, after many software updates and a $500 price cut, but it works best as a secondary device &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220619/p6#a220619p6)
- - [&#39;Stranger Things&#39;: 14 Movies to Watch With A Similar Vibe     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-14-movies-to-watch-with-a-similar-vibe/#ftag=CAD590a51e)
- - [The Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/netflix-12-best-fantasy-movies-to-watch-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Solend Labs, a &quot;decentralized&quot; borrowing and lending protocol on Solana, votes to take over an account that deposited 5.7M SOL, over 95% of the pool&#39;s deposits &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220619/p7#a220619p7)
+ - [I&#39;m Racing My Own Son for $1000 Because I Am an Idiot     - CNET](https://www.cnet.com/culture/internet/im-racing-my-own-son-for-1000-because-i-am-an-idiot/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Surface Duo 2 is a compelling dual-screen phone after at least nine software updates and a $500 price cut, but it works best as a secondary device &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220619/p6#a220619p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
