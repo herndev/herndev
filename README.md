@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crying inside](http://9gag.com/gag/aDDL377)
- - ⏩ [Neo is back](http://9gag.com/gag/awzDr6B)
- - 👉 [Words are getting clearer.](http://9gag.com/gag/a31DYQr)<!-- MEMES:END -->
+ - 💣 [I spent 200 dollars for nothing](http://9gag.com/gag/aGzqVgz)
+ - ⏩ [Free milk](http://9gag.com/gag/apgX0VE)
+ - 👉 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
 
 ---
 
