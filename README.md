@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the TikToker who lets a D20 decide what goes into his lunchtime sandwiches](https://www.polygon.com/23169570/roll-for-sandwich-interview)
- - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)
- - [How PS5’s DualSense controller is making EA Sports F1 22 an incredibly authentic racing experience](https://blog.playstation.com/2022/06/20/how-ps5s-dualsense-controller-is-making-ea-sports-f1-22-an-incredibly-authentic-racing-experience/)<!-- GAME:END -->
+ - [Jensen Ackles was very particular about his Soldier Boy voice on The Boys](https://www.polygon.com/23171387/jensen-ackles-the-boys-soldier-boy-voice)
+ - [Genius Hero-Man Rebuilds His PS5 To Less Than An Inch Wide](https://kotaku.com/ps5-slim-sony-youtube-diy-perks-1849084848)
+ - [These Neon White beginner tips will get you off to a speedy start](https://www.pcgamer.com/neon-white-tips-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
