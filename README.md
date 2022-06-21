@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite is testing a clever way to help you find teammates](https://www.theverge.com/2022/6/21/23177405/fortnite-find-teammates-social-tags-looking-for-group)
- - [Barack and Michelle Obama&#39;s production company Higher Ground signs a first-look deal with Amazon&#39;s Audible; Spotify: &quot;we declined to extend our deal&quot; &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/220621/p34#a220621p34)
- - [Bentley Continental GT Mulliner W12 Is Speedy and Swanky     - CNET](https://www.cnet.com/roadshow/news/bentley-continental-gt-mulliner-w12-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Mediatek Dimensity 9000 Plus launched: Its power level is &lpar;technically&rpar; over 9000](https://www.androidauthority.com/mediatek-dimensity-9000-plus-3177927/)
+ - [Volvo’s commercial truck group is testing out hydrogen fuel cell semis](https://www.theverge.com/2022/6/21/23177624/volvo-trucks-tests-hydrogen-fuel-cell-semi)
+ - [An analysis of how Apple&#39;s approach to ATT is anti-competitive and harms legitimate targeted ad businesses integral to the new internet economy &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220621/p35#a220621p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
