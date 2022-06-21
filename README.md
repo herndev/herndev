@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at Tiger Global, the secretive hedge fund and VC firm led by Chase Coleman, as its huge bets on booming tech stocks led to a $25B+ loss by June &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/220621/p2#a220621p2)
- - [VerSe Innovation rolls out its news aggregator Dailyhunt in the UAE, Saudi Arabia, Bahrain, Oman, Qatar, and Kuwait, with over 5K content partners in the region &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220621/p1#a220621p1)
- - [Get Xbox games for under $15, and more of the latest Xbox One deals](https://www.androidauthority.com/best-xbox-deals-1118171/)<!-- TECH:END -->
+ - [PwC report: subscription streaming video services in the US will generate revenue of $25.32B in 2022, up 13% YoY but down from annual growth of 19.5% in 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220621/p4#a220621p4)
+ - [Analysis: China has 19 of the world&#39;s 20 fastest-growing chip industry firms of the past four quarters, on average, compared to eight at the same time last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/220621/p3#a220621p3)
+ - [An in-depth look at Tiger Global, the secretive hedge fund and VC firm led by Chase Coleman, as its huge bets on booming tech stocks led to a $25B+ loss by June &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/220621/p2#a220621p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
