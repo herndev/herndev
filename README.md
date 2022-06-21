@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I miss shows like House](http://9gag.com/gag/a11nMGw)
- - ⏩ [The Honker killed the Capybara](http://9gag.com/gag/azezjON)
- - 👉 [Iconic scene of comedy, I don&#39;t know how he kept a straight face doing this.](http://9gag.com/gag/a819M4Q)<!-- MEMES:END -->
+ - 💣 [Office techno](http://9gag.com/gag/a31DjQv)
+ - ⏩ [Both are usefull in the end !!!](http://9gag.com/gag/aAG71z2)
+ - 👉 [I miss shows like House](http://9gag.com/gag/a11nMGw)<!-- MEMES:END -->
 
 ---
 
