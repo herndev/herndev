@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to See the Giant Comet Flying by Earth Soon     - CNET](https://www.cnet.com/science/space/how-to-see-the-giant-comet-flying-by-earth-soon/#ftag=CAD590a51e)
- - [Hyundai Ioniq 6 EV Teased as a Streamlined Sedan, Debuts This Month     - CNET](https://www.cnet.com/roadshow/news/hyundai-ioniq-6-ev-sedan-teaser-sketch/#ftag=CAD590a51e)
- - [Best Smart Displays of 2022     - CNET](https://www.cnet.com/news/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ex-Apple engineer explains why the first iPhone didn&#39;t have copy and paste](https://appleinsider.com/articles/22/06/21/ex-apple-engineer-explains-why-the-first-iphone-didnt-have-copy-and-paste?utm_medium=rss)
+ - [Compared: M2 MacBook Air vs Surface Laptop Go 2](https://appleinsider.com/inside/macbook-air/vs/compared-m2-macbook-air-vs-surface-laptop-go-2?utm_medium=rss)
+ - [Beyoncé&#39;s New Single &#39;Break My Soul&#39; Hits Tidal Early     - CNET](https://www.cnet.com/culture/entertainment/beyonces-new-single-break-my-soul-hits-tidal-early/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
