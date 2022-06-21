@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outriders is free to play on Steam until Thursday](https://www.pcgamer.com/outriders-is-free-to-play-on-steam-until-thursday)
- - [Developer Admits There&#39;s No Way To Complete KOTOR II On Switch](https://kotaku.com/kotor-ii-star-wars-aspyr-nintendo-switch-bug-the-sith-l-1849085914)
- - [Watery survival hit Raft splashes out of Early Access with its largest update ever](https://www.pcgamer.com/watery-survival-hit-raft-splashes-out-of-early-access-with-its-largest-update-ever)<!-- GAME:END -->
+ - [Crytek warns against using revolver glitch in Hunt: Showdown, says fix is coming soon](https://www.pcgamer.com/crytek-warns-against-using-revolver-glitch-in-hunt-showdown-says-fix-is-coming-soon)
+ - [Heroes Of Newerth, Once League Of Legends&#39; Rival, Has Shut Down](https://kotaku.com/league-of-legends-heroes-of-newerth-dota-moba-pc-shut-d-1849086418)
+ - [Outriders is free to play on Steam until Thursday](https://www.pcgamer.com/outriders-is-free-to-play-on-steam-until-thursday)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
