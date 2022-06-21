@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU says TikTok agreed to curb undisclosed ads by altering its branded content policy and ad reporting options and to ban promotion of &quot;inappropriate products&quot; &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/220621/p32#a220621p32)
- - [Best Internet Providers in Austin     - CNET](https://www.cnet.com/news/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
- - [NASA’s Giant SLS Rocket Is One Step Closer to Launch](https://www.wired.com/story/nasas-giant-sls-rocket-is-one-step-closer-to-launch/)<!-- TECH:END -->
+ - [Sources: three senior executives of Better.com resign, following other executive departures, mass layoffs, and a lawsuit alleging the company misled investors &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220621/p33#a220621p33)
+ - [Apple&#39;s 35W Dual USB-C Port power adapter is uniquely engineered, demonstrates teardown](https://appleinsider.com/articles/22/06/21/apples-35w-dual-usb-c-port-power-adapter-is-uniquely-engineered-demonstrates-teardown?utm_medium=rss)
+ - [Apple iPhone sales in China strongly rebound in May after downtick](https://appleinsider.com/articles/22/06/21/apple-iphone-sales-in-china-strongly-rebound-in-may-after-downtick?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
