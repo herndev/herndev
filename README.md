@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My house my rules](http://9gag.com/gag/a61zQA2)
- - ⏩ [Natural selection captured live](http://9gag.com/gag/a71BrXq)
+ - 💣 [Why?](http://9gag.com/gag/azezqXm)
+ - ⏩ [Does he not understand the language?](http://9gag.com/gag/aVx8Dnv)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
