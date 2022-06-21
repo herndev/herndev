@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a prediction 60 years ago..](http://9gag.com/gag/avAVP2Z)
- - ⏩ [Ever been this tired after work?](http://9gag.com/gag/apgX0jb)
- - 👉 [Crying inside](http://9gag.com/gag/aDDL377)<!-- MEMES:END -->
+ - 💣 [Ever been this tired after work?](http://9gag.com/gag/apgX0jb)
+ - ⏩ [These two Italian women constructed a table in their balconies to enjoy dinner together.](http://9gag.com/gag/aVx8PgO)
+ - 👉 [My lords, let us not forget about this old gem...](http://9gag.com/gag/aegE0dv)<!-- MEMES:END -->
 
 ---
 
