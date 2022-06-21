@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are not like regular people](http://9gag.com/gag/aM46wNV)
+ - 💣 [At 44-feet tall, 90-feet long and weighing 2,300 tons, the Finnish-made W\u00e4rtsil\u00e4-Sulzer RTA96-C churns out a whopping 109,000 horsepower and is designed for large container ships. It&#39;s the world&#39;s largest diesel engine](http://9gag.com/gag/abgop48)
  - ⏩ [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
