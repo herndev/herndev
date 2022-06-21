@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Mod Lets You Get Behind The Wheel Of A Flying Car](https://kotaku.com/cyberpunk-2077-flying-car-mod-expansion-dlc-release-dat-1849088154)
- - [Fall Guys now free on Epic but de-listed from Steam](https://www.pcgamer.com/fall-guys-now-free-on-epic-and-de-listed-from-steam)
- - [The best Genshin Impact Kuki Shinobu builds](https://www.pcgamer.com/best-genshin-impact-kuki-shinobu-build-banner)<!-- GAME:END -->
+ - [Leave me alone, Elden Ring dogs](https://www.polygon.com/videos/23176905/elden-ring-dogs-git-gud)
+ - [The Twisted Paths of Dysfunctional Love in Milky Way Prince – The Vampire Star, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/06/21/167645/)
+ - [ID@Xbox Summer Game Fest Demo Event Showcases 34 Games](https://news.xbox.com/en-us/2022/06/21/idxbox-summer-game-fest-demo-event-showcases-34-games/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
