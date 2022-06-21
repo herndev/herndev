@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte Aorus 17 XE4 gaming laptop](https://www.pcgamer.com/gigabyte-aorus-17-xe4-review)
  - [Today&#39;s Wordle answer guide #367: Tuesday, June 21](https://www.pcgamer.com/wordle-today-june-21-367)
- - [More Tony Hawk remakes were planned, but then shelved](https://www.pcgamer.com/more-tony-hawk-remakes-were-planned-but-then-shelved)
- - [Tony Hawk Says A Pro Skater 3+4 Remake Was Killed By Activision&#39;s Moves](https://kotaku.com/tony-hawk-activision-3-4-remaster-remake-blizzard-vicar-1849086875)<!-- GAME:END -->
+ - [More Tony Hawk remakes were planned, but then shelved](https://www.pcgamer.com/more-tony-hawk-remakes-were-planned-but-then-shelved)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
