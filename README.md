@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto payments company MoonPay partners with Universal, Fox Corp., Death Row Records, and others to create NFT collections on its HyperMint service &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220621/p7#a220621p7)
- - [Germany&#39;s Echobot and Finland&#39;s Leadfeeder, which both offer sales tools, agree to merge and have raised &amp;euro;180M from Great Hill Partners to expand &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220621/p6#a220621p6)
- - [SpaceX&#39;s Starlink aid to Ukraine has triggered scrutiny in China, as Chinese firms rush to deploy their own satellite constellations to compete &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p5#a220621p5)<!-- TECH:END -->
+ - [Today I learned you can identify plants and flowers using just your iPhone camera](https://www.theverge.com/2022/6/21/23176561/iphone-identify-flowers-plants-art-landmarks-more-how-to-ios-15-camera-app-visual-look-up)
+ - [Sony could have a trio of new gaming headsets on the way](https://www.theverge.com/2022/6/21/23176570/sony-inzone-gaming-headsets-leak-h3-h7-h9-monitors)
+ - [Indian startup LeadSquared, which offers sales automation tools, has raised a $153M Series C led by WestBridge Capital at a $1B post-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220621/p11#a220621p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
