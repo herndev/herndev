@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Emblem Warriors: Three Hopes Reviews Say It’s Not For Everyone](https://kotaku.com/fire-emblem-warriors-three-hopes-nintendo-switch-review-1849089472)
- - [Protect the Legacy of the Bretons in The Elder Scrolls Online: High Isle](https://news.xbox.com/en-us/2022/06/21/protect-the-legacy-of-the-bretons-in-the-elder-scrolls-online-high-isle/)
- - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)<!-- GAME:END -->
+ - [Persona 3, 4, and 5 are also coming to PlayStation and Steam](https://www.polygon.com/23165846/persona-5-royal-4-golden-3-portable-ps5-ps4-steam-nintendo-xbox-release-date)
+ - [Developer acknowledges you can’t beat Knights of the Old Republic 2 on Nintendo Switch](https://www.polygon.com/23177180/knights-of-the-old-republic-2-bug-nintendo-switch)
+ - [The Terminator will be back &lpar;in Call of Duty: Warzone&rpar;](https://www.polygon.com/23177114/call-of-duty-warzone-terminator-season-4-battle-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
