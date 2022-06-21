@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That magic block](http://9gag.com/gag/aVx8PDn)
- - ⏩ [Based Hungary](http://9gag.com/gag/ay9A8RY)
+ - 💣 [Yea?](http://9gag.com/gag/aQXKxVW)
+ - ⏩ [Noooo nooo, wait....](http://9gag.com/gag/aog69Bg)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
