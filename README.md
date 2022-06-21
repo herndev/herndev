@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Stranger Things season 4 part 2’s trailer teases a showdown with Vecna](https://www.polygon.com/stranger-things/23175716/stranger-things-season-4-part-2-trailer-netflix-release-date-vecna)
  - [Tony Hawk says remaster of Pro Skater 3 and 4 isn’t happening](https://www.polygon.com/23176662/tony-hawk-pro-skater-3-4-remaster-vicarious-visions-blizzard)
- - [Coming to Xbox Game Pass: Total War: Three Kingdoms, Naraka: Bladepoint, Far Cry 5, and More](https://news.xbox.com/en-us/2022/06/21/game-pass-june-2022-wave-2-update/)
- - [Fire Emblem Warriors: Three Hopes fails to reinvigorate the Musou genre](https://www.polygon.com/reviews/23176301/fire-emblem-warriors-three-hopes-review-release-date-nintendo-switch)<!-- GAME:END -->
+ - [Coming to Xbox Game Pass: Total War: Three Kingdoms, Naraka: Bladepoint, Far Cry 5, and More](https://news.xbox.com/en-us/2022/06/21/game-pass-june-2022-wave-2-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
