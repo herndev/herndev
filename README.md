@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight will be out later this year](https://www.pcgamer.com/world-of-warcraft-dragonflight-will-be-out-later-this-year)
- - [&#39;Almost half&#39; of The Callisto Protocol&#39;s combat will be hand-to-hand &lpar;or hand-to-tentacle&rpar;](https://www.pcgamer.com/almost-half-of-the-callisto-protocols-combat-will-be-hand-to-hand-or-hand-to-tentacle)
- - [Mario Movie Producer Says Chris Pratt Won&#39;t Offend Italians, Completely Missing The Point](https://kotaku.com/mario-movie-chris-pratt-nintendo-illumination-charles-m-1849090005)<!-- GAME:END -->
+ - [eBay offers a wide selection of gaming laptops for every budget](https://www.pcgamer.com/ebay-offers-a-wide-selection-of-gaming-laptops-for-every-budget)
+ - [Activision Stockholders Vote To Release Annual Harassment Reports, Company Will &#39;Consider&#39; It](https://kotaku.com/activision-board-harassment-abuse-report-stockholders-v-1849090137)
+ - [How to kill the Varuna Point Rhino Shark boss in Raft](https://www.polygon.com/raft-guide/23177160/rhino-shark-varuna-point-boss-how-to-beat-pillars-explosive-barrels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
