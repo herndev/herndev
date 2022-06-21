@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft appears to have blocked Windows downloads in Russia](https://www.pcgamer.com/windows-downloads-blocked-in-russia)
- - [Kojima Productions starts selling anti-war merch with proceeds going to Ukrainian refugees](https://www.pcgamer.com/kojima-productions-starts-selling-anti-war-merch-with-proceeds-going-to-ukrainian-refugees)
- - [Gigabyte Aorus 17 XE4 gaming laptop](https://www.pcgamer.com/gigabyte-aorus-17-xe4-review)<!-- GAME:END -->
+ - [The next Nintendo Direct will focus on Xenoblade Chronicles 3](https://www.polygon.com/23176623/nintendo-direct-xenoblade-chronicles-3-e3-2022)
+ - [Modder builds the world&#39;s first PS5 slim](https://www.pcgamer.com/ps5-slim-water-cooling)
+ - [Milky Way Prince – The Vampire Star: inspirations and PS5 features](https://blog.playstation.com/2022/06/21/milky-way-prince-the-vampire-star-inspirations-and-ps5-features/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
