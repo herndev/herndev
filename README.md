@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [More Tony Hawk remakes were planned, but then shelved](https://www.pcgamer.com/more-tony-hawk-remakes-were-planned-but-then-shelved)
  - [Tony Hawk Says A Pro Skater 3+4 Remake Was Killed By Activision&#39;s Moves](https://kotaku.com/tony-hawk-activision-3-4-remaster-remake-blizzard-vicar-1849086875)
- - [Crytek warns against using revolver glitch in Hunt: Showdown, says fix is coming soon](https://www.pcgamer.com/crytek-warns-against-using-revolver-glitch-in-hunt-showdown-says-fix-is-coming-soon)
- - [Heroes Of Newerth, Once League Of Legends&#39; Rival, Has Shut Down](https://kotaku.com/league-of-legends-heroes-of-newerth-dota-moba-pc-shut-d-1849086418)<!-- GAME:END -->
+ - [Crytek warns against using revolver glitch in Hunt: Showdown, says fix is coming soon](https://www.pcgamer.com/crytek-warns-against-using-revolver-glitch-in-hunt-showdown-says-fix-is-coming-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
