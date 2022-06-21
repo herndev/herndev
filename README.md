@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brussel, Belgium 80k protesting agiants the increase price of everything](http://9gag.com/gag/aVx8Dbv)
- - ⏩ [With friends like this](http://9gag.com/gag/aDDLzLB)
+ - 💣 [Controling the Urchin plague while being a fish bro.](http://9gag.com/gag/a819pOZ)
+ - ⏩ [Natural selection captured live](http://9gag.com/gag/a71BrXq)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
