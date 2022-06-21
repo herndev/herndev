@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 3, 4, and 5 are also coming to PlayStation and Steam](https://www.polygon.com/23165846/persona-5-royal-4-golden-3-portable-ps5-ps4-steam-nintendo-xbox-release-date)
- - [Developer acknowledges you can’t beat Knights of the Old Republic 2 on Nintendo Switch](https://www.polygon.com/23177180/knights-of-the-old-republic-2-bug-nintendo-switch)
- - [The Terminator will be back &lpar;in Call of Duty: Warzone&rpar;](https://www.polygon.com/23177114/call-of-duty-warzone-terminator-season-4-battle-pass)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight will be out later this year](https://www.pcgamer.com/world-of-warcraft-dragonflight-will-be-out-later-this-year)
+ - [&#39;Almost half&#39; of The Callisto Protocol&#39;s combat will be hand-to-hand &lpar;or hand-to-tentacle&rpar;](https://www.pcgamer.com/almost-half-of-the-callisto-protocols-combat-will-be-hand-to-hand-or-hand-to-tentacle)
+ - [Mario Movie Producer Says Chris Pratt Won&#39;t Offend Italians, Completely Missing The Point](https://kotaku.com/mario-movie-chris-pratt-nintendo-illumination-charles-m-1849090005)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
