@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: three senior executives of Better.com resign, following other executive departures, mass layoffs, and a lawsuit alleging the company misled investors &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/220621/p33#a220621p33)
- - [Apple&#39;s 35W Dual USB-C Port power adapter is uniquely engineered, demonstrates teardown](https://appleinsider.com/articles/22/06/21/apples-35w-dual-usb-c-port-power-adapter-is-uniquely-engineered-demonstrates-teardown?utm_medium=rss)
- - [Apple iPhone sales in China strongly rebound in May after downtick](https://appleinsider.com/articles/22/06/21/apple-iphone-sales-in-china-strongly-rebound-in-may-after-downtick?utm_medium=rss)<!-- TECH:END -->
+ - [Fortnite is testing a clever way to help you find teammates](https://www.theverge.com/2022/6/21/23177405/fortnite-find-teammates-social-tags-looking-for-group)
+ - [Barack and Michelle Obama&#39;s production company Higher Ground signs a first-look deal with Amazon&#39;s Audible; Spotify: &quot;we declined to extend our deal&quot; &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/220621/p34#a220621p34)
+ - [Bentley Continental GT Mulliner W12 Is Speedy and Swanky     - CNET](https://www.cnet.com/roadshow/news/bentley-continental-gt-mulliner-w12-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
