@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung’s latest Galaxy Z Fold 3 deal brings down its price to just $599](https://www.androidauthority.com/samsung-galaxy-z-fold-3-deal-free-galaxy-watch-4-1200-dollar-trade-in-3178488/)
  - [PwC report: subscription streaming video services in the US will generate revenue of $25.32B in 2022, up 13% YoY but down from annual growth of 19.5% in 2021 &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220621/p4#a220621p4)
- - [Analysis: China has 19 of the world&#39;s 20 fastest-growing chip industry firms of the past four quarters, on average, compared to eight at the same time last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/220621/p3#a220621p3)
- - [An in-depth look at Tiger Global, the secretive hedge fund and VC firm led by Chase Coleman, as its huge bets on booming tech stocks led to a $25B+ loss by June &lpar;Michelle Celarier/New York Magazine&rpar;](http://www.techmeme.com/220621/p2#a220621p2)<!-- TECH:END -->
+ - [Analysis: China has 19 of the world&#39;s 20 fastest-growing chip industry firms of the past four quarters, on average, compared to eight at the same time last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/220621/p3#a220621p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
