@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today I learned you can identify plants and flowers using just your iPhone camera](https://www.theverge.com/2022/6/21/23176561/iphone-identify-flowers-plants-art-landmarks-more-how-to-ios-15-camera-app-visual-look-up)
- - [Sony could have a trio of new gaming headsets on the way](https://www.theverge.com/2022/6/21/23176570/sony-inzone-gaming-headsets-leak-h3-h7-h9-monitors)
- - [Indian startup LeadSquared, which offers sales automation tools, has raised a $153M Series C led by WestBridge Capital at a $1B post-money valuation &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220621/p11#a220621p11)<!-- TECH:END -->
+ - [An investigation into Chinese government bidding documents details its huge surveillance apparatus, including ~500M cameras and extensive phone tracking tools &lpar;New York Times&rpar;](http://www.techmeme.com/220621/p14#a220621p14)
+ - [Daily Authority: 🥽 Meta’s VR prototypes](https://www.androidauthority.com/daily-authority-june-21-2022-3178582/)
+ - [South Korean prosecutors ban &quot;dozens&quot; of current and former Terraform Labs employees from leaving the country, pending an investigation into LUNA&#39;s collapse &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p13#a220621p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
