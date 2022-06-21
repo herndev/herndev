@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 35W Dual USB-C Port power adapter is uniquely engineered, demonstrates teardown](https://appleinsider.com/articles/22/06/21/apples-35w-dual-usb-c-port-power-adapter-is-uniquely-engineered-demonstrates-teardown?utm_medium=rss)
- - [How to change your Instagram username](https://www.theverge.com/23176720/change-instagram-username-how-to)
- - [How to link Instagram accounts](https://www.androidauthority.com/link-instagram-accounts-3178782/)<!-- TECH:END -->
+ - [Paramount Plus plans 150 international originals by 2025](https://www.theverge.com/2022/6/21/23176984/paramount-plus-150-international-originals)
+ - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Dress rehearsal for NASA’s deep-space rocket cut short by mere seconds](https://www.theverge.com/2022/6/21/23175681/nasa-space-launch-system-wet-dress-rehearsal-test-29-seconds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
