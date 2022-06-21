@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus plans 150 international originals by 2025](https://www.theverge.com/2022/6/21/23176984/paramount-plus-150-international-originals)
- - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Dress rehearsal for NASA’s deep-space rocket cut short by mere seconds](https://www.theverge.com/2022/6/21/23175681/nasa-space-launch-system-wet-dress-rehearsal-test-29-seconds)<!-- TECH:END -->
+ - [EU says TikTok agreed to curb undisclosed ads by altering its branded content policy and ad reporting options and to ban promotion of &quot;inappropriate products&quot; &lpar;Katie Collins/CNET&rpar;](http://www.techmeme.com/220621/p32#a220621p32)
+ - [Best Internet Providers in Austin     - CNET](https://www.cnet.com/news/best-internet-providers-in-austin-tx/#ftag=CAD590a51e)
+ - [NASA’s Giant SLS Rocket Is One Step Closer to Launch](https://www.wired.com/story/nasas-giant-sls-rocket-is-one-step-closer-to-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
