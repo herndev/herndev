@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [VerSe Innovation rolls out its news aggregator Dailyhunt in the UAE, Saudi Arabia, Bahrain, Oman, Qatar, and Kuwait, with over 5K content partners in the region &lpar;Kul Bhushan/Tech in Asia&rpar;](http://www.techmeme.com/220621/p1#a220621p1)
  - [Ex-Apple engineer explains why the first iPhone didn&#39;t have copy and paste](https://appleinsider.com/articles/22/06/21/ex-apple-engineer-explains-why-the-first-iphone-didnt-have-copy-and-paste?utm_medium=rss)
- - [Compared: M2 MacBook Air vs Surface Laptop Go 2](https://appleinsider.com/inside/macbook-air/vs/compared-m2-macbook-air-vs-surface-laptop-go-2?utm_medium=rss)
- - [Beyoncé&#39;s New Single &#39;Break My Soul&#39; Hits Tidal Early     - CNET](https://www.cnet.com/culture/entertainment/beyonces-new-single-break-my-soul-hits-tidal-early/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Compared: M2 MacBook Air vs Surface Laptop Go 2](https://appleinsider.com/inside/macbook-air/vs/compared-m2-macbook-air-vs-surface-laptop-go-2?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
