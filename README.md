@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The iOS App Icon Book&#39; review: A mesmerizing tribute to beautiful iPhone icons](https://appleinsider.com/articles/22/06/21/the-ios-app-icon-book-review-a-mesmerizing-tribute-to-beautiful-iphone-icons?utm_medium=rss)
- - [Uber rebrands Uber Pool, paused in March 2020, as UberX Share and relaunches the service in NYC, LA, Chicago, San Francisco, and five other US cities &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220621/p22#a220621p22)
- - [Daily deals June 21: $130 off Hisense 50-inch 4K TV, $525 21.5-inch Intel iMac, $249 Nike Apple Watch Series 6, more](https://appleinsider.com/articles/22/06/21/daily-deals-june-21-130-off-hisense-50-inch-4k-tv-525-215-inch-intel-imac-249-nike-apple-watch-series-6-more?utm_medium=rss)<!-- TECH:END -->
+ - [Everyone’s ready to die on that hill in Stranger Things 4 Volume 2’s first trailer](https://www.theverge.com/2022/6/21/23176770/stranger-things-season-4-volume-2-trailer)
+ - [Anker’s new Soundcore fitness earbuds take on the Powerbeats Pro with a rotating ear-hook design](https://www.theverge.com/2022/6/21/23176689/anker-soundcore-x10-fitness-earbuds-announced-features-price)
+ - [Here Comes the Sun—to End Civilization](https://www.wired.com/story/sun-storm-end-civilization/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
