@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deadpool’s writers explain their Chris Hemsworth dance dreams in Spiderhead](https://www.polygon.com/23172695/spiderhead-chris-hemsworth-dance-deadpool-connection)
- - [This 1.5TB microSD is surely witchcraft](https://www.pcgamer.com/this-15tb-microsd-is-surely-witchcraft)
- - [Fall Guys Free For All Hits Xbox June 21st](https://news.xbox.com/en-us/2022/06/21/fall-guys-free-for-all-hits-xbox-june-21st/)<!-- GAME:END -->
+ - [Fire Emblem Warriors: Three Hopes Reviews Say It’s Not For Everyone](https://kotaku.com/fire-emblem-warriors-three-hopes-nintendo-switch-review-1849089472)
+ - [Protect the Legacy of the Bretons in The Elder Scrolls Online: High Isle](https://news.xbox.com/en-us/2022/06/21/protect-the-legacy-of-the-bretons-in-the-elder-scrolls-online-high-isle/)
+ - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
