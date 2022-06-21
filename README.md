@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t know whether to put the drying clothes back inside or repent from my sins](http://9gag.com/gag/aKmy3Oj)
- - ⏩ [Other girlfriends vs. yours](http://9gag.com/gag/axB8DOK)
+ - 💣 [Built myself a little reading room in the new house](http://9gag.com/gag/a61zMPe)
+ - ⏩ [Does he not understand the language?](http://9gag.com/gag/aVx8Dnv)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
