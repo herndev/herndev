@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon names new retail CEO](https://www.theverge.com/2022/6/21/23177040/amazon-retail-ceo-doug-herrington-worldwide-stores)
- - [New Adobe Premiere Pro update brings video encoding improvements to Apple Silicon](https://appleinsider.com/articles/22/06/21/new-adobe-premiere-pro-update-brings-video-encoding-improvements-to-apple-silicon?utm_medium=rss)
- - [ProShares, which debuted the first bitcoin futures ETF, launches the first ETF to short bitcoin in the US, trading under BITI &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220621/p27#a220621p27)<!-- TECH:END -->
+ - [Apple&#39;s 35W Dual USB-C Port power adapter is uniquely engineered, demonstrates teardown](https://appleinsider.com/articles/22/06/21/apples-35w-dual-usb-c-port-power-adapter-is-uniquely-engineered-demonstrates-teardown?utm_medium=rss)
+ - [How to change your Instagram username](https://www.theverge.com/23176720/change-instagram-username-how-to)
+ - [How to link Instagram accounts](https://www.androidauthority.com/link-instagram-accounts-3178782/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
