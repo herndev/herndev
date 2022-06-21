@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Yea?](http://9gag.com/gag/aQXKxVW)
- - ⏩ [Noooo nooo, wait....](http://9gag.com/gag/aog69Bg)
+ - ⏩ [I really liked both movies tbh](http://9gag.com/gag/aQXKx4W)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
