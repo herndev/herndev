@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GitHub’s AI-powered Copilot will help you write code for $10 a month](https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date)
- - [As part of its new Responsible AI Standard rules, Microsoft plans to remove Azure&#39;s facial analysis tools, which can estimate age, emotional state, and more &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220621/p25#a220621p25)
- - [Facebook and Instagram won’t take a cut from creators’ revenues until 2024](https://www.theverge.com/2022/6/21/23176749/meta-instagram-facebook-creators-revenue-policy-reels)<!-- TECH:END -->
+ - [Amazon names new retail CEO](https://www.theverge.com/2022/6/21/23177040/amazon-retail-ceo-doug-herrington-worldwide-stores)
+ - [New Adobe Premiere Pro update brings video encoding improvements to Apple Silicon](https://appleinsider.com/articles/22/06/21/new-adobe-premiere-pro-update-brings-video-encoding-improvements-to-apple-silicon?utm_medium=rss)
+ - [ProShares, which debuted the first bitcoin futures ETF, launches the first ETF to short bitcoin in the US, trading under BITI &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220621/p27#a220621p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
