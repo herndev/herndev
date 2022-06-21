@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Instanda, which offers insurance providers a no-code core infrastructure to deploy products easily, has raised a $45M Series B led by Toscafund &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220620/p18#a220620p18)
- - [There has to be a better way to binge](https://www.theverge.com/2022/6/20/23175918/there-has-to-be-a-better-way-to-binge)
- - [New York-headquartered Wahed, a fintech which allows Muslims to invest in line with their faith, has raised a $50M Series B led by Wa&#39;ed Ventures &lpar;FinSMEs&rpar;](http://www.techmeme.com/220620/p17#a220620p17)<!-- TECH:END -->
+ - [How to See the Giant Comet Flying by Earth Soon     - CNET](https://www.cnet.com/science/space/how-to-see-the-giant-comet-flying-by-earth-soon/#ftag=CAD590a51e)
+ - [Hyundai Ioniq 6 EV Teased as a Streamlined Sedan, Debuts This Month     - CNET](https://www.cnet.com/roadshow/news/hyundai-ioniq-6-ev-sedan-teaser-sketch/#ftag=CAD590a51e)
+ - [Best Smart Displays of 2022     - CNET](https://www.cnet.com/news/best-smart-displays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
