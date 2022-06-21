@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save Up to 58% On Echo Dot Smart Speakers and Accessories     - CNET](https://www.cnet.com/deals/save-up-to-58-on-echo-dot-smart-speakers-and-accessories/#ftag=CAD590a51e)
- - [Shows like For All Mankind on Apple TV Plus: 9 titles to check out next](https://www.androidauthority.com/shows-like-for-all-mankind-apple-tv-plus-3178211/)
- - [DocuSign says CEO Dan Springer &quot;has agreed to step aside&quot;, effective immediately; the company has lost 60% of its market value year to date &lpar;Jessica Bursztynsky/CNBC&rpar;](http://www.techmeme.com/220621/p20#a220621p20)<!-- TECH:END -->
+ - [&#39;The iOS App Icon Book&#39; review: A mesmerizing tribute to beautiful iPhone icons](https://appleinsider.com/articles/22/06/21/the-ios-app-icon-book-review-a-mesmerizing-tribute-to-beautiful-iphone-icons?utm_medium=rss)
+ - [Uber rebrands Uber Pool, paused in March 2020, as UberX Share and relaunches the service in NYC, LA, Chicago, San Francisco, and five other US cities &lpar;Amrita Khalid/Engadget&rpar;](http://www.techmeme.com/220621/p22#a220621p22)
+ - [Daily deals June 21: $130 off Hisense 50-inch 4K TV, $525 21.5-inch Intel iMac, $249 Nike Apple Watch Series 6, more](https://appleinsider.com/articles/22/06/21/daily-deals-june-21-130-off-hisense-50-inch-4k-tv-525-215-inch-intel-imac-249-nike-apple-watch-series-6-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
