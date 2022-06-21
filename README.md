@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leave me alone, Elden Ring dogs](https://www.polygon.com/videos/23176905/elden-ring-dogs-git-gud)
- - [The Twisted Paths of Dysfunctional Love in Milky Way Prince – The Vampire Star, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/06/21/167645/)
- - [ID@Xbox Summer Game Fest Demo Event Showcases 34 Games](https://news.xbox.com/en-us/2022/06/21/idxbox-summer-game-fest-demo-event-showcases-34-games/)<!-- GAME:END -->
+ - [Deadpool’s writers explain their Chris Hemsworth dance dreams in Spiderhead](https://www.polygon.com/23172695/spiderhead-chris-hemsworth-dance-deadpool-connection)
+ - [This 1.5TB microSD is surely witchcraft](https://www.pcgamer.com/this-15tb-microsd-is-surely-witchcraft)
+ - [Fall Guys Free For All Hits Xbox June 21st](https://news.xbox.com/en-us/2022/06/21/fall-guys-free-for-all-hits-xbox-june-21st/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
