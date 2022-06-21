@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation into Chinese government bidding documents details its huge surveillance apparatus, including ~500M cameras and extensive phone tracking tools &lpar;New York Times&rpar;](http://www.techmeme.com/220621/p14#a220621p14)
- - [Daily Authority: 🥽 Meta’s VR prototypes](https://www.androidauthority.com/daily-authority-june-21-2022-3178582/)
- - [South Korean prosecutors ban &quot;dozens&quot; of current and former Terraform Labs employees from leaving the country, pending an investigation into LUNA&#39;s collapse &lpar;Financial Times&rpar;](http://www.techmeme.com/220621/p13#a220621p13)<!-- TECH:END -->
+ - [How to convert, download &amp; edit media files using HitPaw Video Converter](https://appleinsider.com/articles/22/06/21/how-to-convert-download-edit-media-files-using-hitpaw-video-converter?utm_medium=rss)
+ - [Philips Hue adds indoor-outdoor lamp, smart light switch to range](https://appleinsider.com/articles/22/06/21/philips-hue-adds-indoor-outdoor-lamp-smart-light-switch-to-range?utm_medium=rss)
+ - [BlockFi CEO Zac Prince says the crypto lending service has secured a $250M &quot;revolving credit facility&quot; from FTX &lpar;Andrew Rummer/The Block&rpar;](http://www.techmeme.com/220621/p18#a220621p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
