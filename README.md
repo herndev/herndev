@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [eBay offers a wide selection of gaming laptops for every budget](https://www.pcgamer.com/ebay-offers-a-wide-selection-of-gaming-laptops-for-every-budget)
- - [Activision Stockholders Vote To Release Annual Harassment Reports, Company Will &#39;Consider&#39; It](https://kotaku.com/activision-board-harassment-abuse-report-stockholders-v-1849090137)
- - [How to kill the Varuna Point Rhino Shark boss in Raft](https://www.polygon.com/raft-guide/23177160/rhino-shark-varuna-point-boss-how-to-beat-pillars-explosive-barrels)<!-- GAME:END -->
+ - [Build a Rapture that actually works in this undersea survival city builder](https://www.pcgamer.com/build-a-rapture-that-actually-works-in-this-undersea-survival-city-builder)
+ - [Doom Modder Ports Game To [Checks Notes] A Lego Brick](https://kotaku.com/doom-game-modder-james-brown-lego-brick-id-software-min-1849090717)
+ - [The best gaming projectors in 2022](https://www.pcgamer.com/best-gaming-projectors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
