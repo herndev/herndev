@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everyone’s ready to die on that hill in Stranger Things 4 Volume 2’s first trailer](https://www.theverge.com/2022/6/21/23176770/stranger-things-season-4-volume-2-trailer)
- - [Anker’s new Soundcore fitness earbuds take on the Powerbeats Pro with a rotating ear-hook design](https://www.theverge.com/2022/6/21/23176689/anker-soundcore-x10-fitness-earbuds-announced-features-price)
- - [Here Comes the Sun—to End Civilization](https://www.wired.com/story/sun-storm-end-civilization/)<!-- TECH:END -->
+ - [GitHub’s AI-powered Copilot will help you write code for $10 a month](https://www.theverge.com/2022/6/21/23176574/github-copilot-launch-pricing-release-date)
+ - [As part of its new Responsible AI Standard rules, Microsoft plans to remove Azure&#39;s facial analysis tools, which can estimate age, emotional state, and more &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220621/p25#a220621p25)
+ - [Facebook and Instagram won’t take a cut from creators’ revenues until 2024](https://www.theverge.com/2022/6/21/23176749/meta-instagram-facebook-creators-revenue-policy-reels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
