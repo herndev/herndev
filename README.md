@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These two Italian women constructed a table in their balconies to enjoy dinner together.](http://9gag.com/gag/aVx8PgO)
- - ⏩ [Use the force](http://9gag.com/gag/aOQOVg2)
- - 👉 [The Honker killed the Capybara](http://9gag.com/gag/azezjON)<!-- MEMES:END -->
+ - 💣 [I miss shows like House](http://9gag.com/gag/a11nMGw)
+ - ⏩ [The Honker killed the Capybara](http://9gag.com/gag/azezjON)
+ - 👉 [Iconic scene of comedy, I don&#39;t know how he kept a straight face doing this.](http://9gag.com/gag/a819M4Q)<!-- MEMES:END -->
 
 ---
 
