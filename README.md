@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Office techno](http://9gag.com/gag/a31DjQv)
- - ⏩ [Both are usefull in the end !!!](http://9gag.com/gag/aAG71z2)
- - 👉 [I miss shows like House](http://9gag.com/gag/a11nMGw)<!-- MEMES:END -->
+ - 💣 [That magic block](http://9gag.com/gag/aVx8PDn)
+ - ⏩ [Based Hungary](http://9gag.com/gag/ay9A8RY)
+ - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
 
