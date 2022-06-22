@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Controling the Urchin plague while being a fish bro.](http://9gag.com/gag/a819pOZ)
+ - 💣 [Tyler for the win!](http://9gag.com/gag/aXrzqyD)
  - ⏩ [Natural selection captured live](http://9gag.com/gag/a71BrXq)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
