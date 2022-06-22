@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: June 22&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [Pixel 7 Pro leak suggests Tensor 2 might lag behind once again](https://www.androidauthority.com/google-pixel-7-pro-leak-3178972/)
- - [A DARPA report finds blockchains are vulnerable to &quot;unintended centralities&quot;, such as powerful new crypto miners, that could pervasively affect their security &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/220622/p4#a220622p4)<!-- TECH:END -->
+ - [Twitter ready to launch long-form Notes feature in ‘the coming weeks’: report](https://www.theverge.com/2022/6/22/23178133/twitter-long-form-notes-articles-blogging-feature-ready-to-launch-features)
+ - [Researchers detail fundamental cryptography flaws in MEGA&#39;s end-to-end encryption scheme that could let the cloud storage service decipher stored files &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220622/p5#a220622p5)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: June 22&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
