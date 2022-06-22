@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a happy home life](http://9gag.com/gag/aegEgyO)
- - ⏩ [;-&rpar;](http://9gag.com/gag/aRrGX1B)
+ - 💣 [;-&rpar;](http://9gag.com/gag/aRrGX1B)
+ - ⏩ [`I have always stowed the coils like this. You are not going to teach me.`](http://9gag.com/gag/aGzqz15)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
