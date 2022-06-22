@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice design](http://9gag.com/gag/aGzqZKn)
- - ⏩ [Dad](http://9gag.com/gag/aKmyxVW)
+ - 💣 [Ukraine kamikaze drone attack Russian oil facility &lpar;translation in comments&rpar;](http://9gag.com/gag/aPZ0RjR)
+ - ⏩ [The only good scene in the whole movie](http://9gag.com/gag/adgM5Yj)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
