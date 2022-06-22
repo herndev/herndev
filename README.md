@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter ready to launch long-form Notes feature in ‘the coming weeks’: report](https://www.theverge.com/2022/6/22/23178133/twitter-long-form-notes-articles-blogging-feature-ready-to-launch-features)
- - [Researchers detail fundamental cryptography flaws in MEGA&#39;s end-to-end encryption scheme that could let the cloud storage service decipher stored files &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220622/p5#a220622p5)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: June 22&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [The Canadian government approves legislation that will compel YouTube, TikTok, and streaming services to boost domestic content; the law now heads to the Senate &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/220622/p10#a220622p10)
+ - [EcoFlow solar-tracking robot review: beep, blop, stop!](https://www.theverge.com/23171154/ecoflow-solar-tracker-review-power-charging-efficiency-noise)
+ - [Leap, which offers online resources like visa assistance to help Indians study abroad, raised $75M led by Owl Ventures at a nearly $1B valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220622/p9#a220622p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
