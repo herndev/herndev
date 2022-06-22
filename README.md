@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mr Bean](http://9gag.com/gag/aog61wg)
- - ⏩ [Idiot throws coffee at an NSX](http://9gag.com/gag/a21VovY)
+ - 💣 [Classic game](http://9gag.com/gag/aggbnm1)
+ - ⏩ [Why u lying Disney?](http://9gag.com/gag/aRrG32Q)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
 ---
