@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard’s summer sale offers discounts on Diablo, Call of Duty, and more](https://www.polygon.com/deals/23178732/activision-blizzard-battle-net-summer-sale-games-cosmetics)
- - [Final Fantasy XVI Will Be Darker And More Mature, Says Producer](https://kotaku.com/final-fantasy-xvi-ffxiv-yoshi-p-naoki-yoshida-square-en-1849094421)
- - [YouTuber designs truly cursed Fortnite versions of Among Us crewmates](https://www.polygon.com/23177532/fortnite-among-us-custom-event)<!-- GAME:END -->
+ - [Vilifying Amber Heard Shows We Learned Nothing From GamerGate](https://kotaku.com/amber-heard-johnny-depp-trial-gamergate-me-too-twitch-1849095122)
+ - [Experience the Original Sci-fi-Fantasy World of Shadowrun in Three Xbox Game Pass Titles](https://news.xbox.com/en-us/2022/06/22/experience-the-original-sci-fi-fantasy-world-of-shadowrun-in-three-xbox-game-pass-titles/)
+ - [Meet the Fuel Rats, the fearless space paramedics of Elite Dangerous](https://www.pcgamer.com/meet-the-fuel-rats-the-fearless-space-paramedics-of-elite-dangerous)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
