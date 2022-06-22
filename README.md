@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Botox &#39;n stuff](http://9gag.com/gag/amgyvd4)
- - ⏩ [True love](http://9gag.com/gag/awzDB4R)
+ - ⏩ [Dream job](http://9gag.com/gag/arn0VW7)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
