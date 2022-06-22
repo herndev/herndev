@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub owner’s CEO and COO resign](https://www.theverge.com/2022/6/22/23178427/pornhub-owners-ceo-coo-resign-antoon-tassillo-mindgeek)
- - [Electric vehicle maker Polestar beats Tesla to Apple CarPlay](https://appleinsider.com/articles/22/06/22/electric-vehicle-maker-polestar-beats-tesla-to-apple-carplay?utm_medium=rss)
- - [Social Security Numbers Stolen in Flagstar Bank Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/social-security-numbers-stolen-in-flagstar-bank-data-breach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Obi-Wan Kenobi is entirely predictable — but that doesn’t make it any less fun](https://www.theverge.com/23178299/obi-wan-kenobi-season-1-review-disney-plus)
+ - [Spotify says it is conducting early tests of a new feature called Community, which allows mobile users to see their friends&#39; listening activity in real time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220622/p34#a220622p34)
+ - [Apple releases second developer beta of macOS Ventura](https://appleinsider.com/articles/22/06/22/apple-releases-second-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
