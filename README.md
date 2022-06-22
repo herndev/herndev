@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina&#39;s Wonderlands rolls a crit on Steam tomorrow](https://www.pcgamer.com/tiny-tinas-wonderlands-rolls-a-crit-on-steam-tomorrow)
- - [Today&#39;s Wordle answer guide #368: Wednesday, June 22](https://www.pcgamer.com/wordle-today-june-22-368)
- - [Gaming laptops are set for a stealthy upgrade thanks to Cherry&#39;s new switches](https://www.pcgamer.com/cherry-mx-low-profile-switches-now-come-with-stealth-options)<!-- GAME:END -->
+ - [Gran Turismo 7 Update 1.17 brings three new 3 cars, an international circuit, and Extra Menus](https://blog.playstation.com/2022/06/22/gran-turismo-7-update-1-17-brings-three-new-3-cars-an-international-circuit-and-extra-menus/)
+ - [Gran Turismo 7 Update 1.17 brings three new 3 cars, an international circuit, and Extra Menus](https://blog.playstation.com/2022/06/22/gran-turismo-7-update-1-17-brings-three-new-3-cars-an-international-circuit-and-extra-menus/)
+ - [We’re pitting the Umbrella Academy against the Sparrow Academy](https://www.polygon.com/23177319/umbrella-academy-sparrow-academy-who-would-win)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
