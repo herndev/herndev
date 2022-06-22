@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cMy rescue cat allows me to help him groom\u201d](http://9gag.com/gag/a71BW6L)
- - ⏩ [Not getting over this one](http://9gag.com/gag/arn0Vd5)
+ - 💣 [Botox &#39;n stuff](http://9gag.com/gag/amgyvd4)
+ - ⏩ [True love](http://9gag.com/gag/awzDB4R)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
