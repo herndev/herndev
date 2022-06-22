@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Umbrella Academy comics are so much weirder than the show](https://www.polygon.com/entertainment/23177152/the-umbrella-academy-comics-weird-moments)
- - [Thank You, PS Plus, For Making My Backlog Even Bigger](https://kotaku.com/ps-plus-game-catalog-dark-cloud-racer-revenge-jak-and-d-1849093968)
- - [Fall Guys Goes Free-To-Play, Servers Immediately Crash](https://kotaku.com/fall-guys-goes-free-to-play-servers-immediately-crash-1849093851)<!-- GAME:END -->
+ - [Final Fantasy XVI Will Be Darker And More Mature, Says Producer](https://kotaku.com/final-fantasy-xvi-ffxiv-yoshi-p-naoki-yoshida-square-en-1849094421)
+ - [YouTuber designs truly cursed Fortnite versions of Among Us crewmates](https://www.polygon.com/23177532/fortnite-among-us-custom-event)
+ - [TMNT Illustrator Re-Imagines King of the Hill As Junji Ito Horror Manga](https://kotaku.com/junji-ito-king-of-the-hill-horror-art-uzumaki-tomie-gyo-1849094286)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
