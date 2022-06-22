@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Obi-Wan Kenobi is entirely predictable — but that doesn’t make it any less fun](https://www.theverge.com/23178299/obi-wan-kenobi-season-1-review-disney-plus)
- - [Spotify says it is conducting early tests of a new feature called Community, which allows mobile users to see their friends&#39; listening activity in real time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220622/p34#a220622p34)
- - [Apple releases second developer beta of macOS Ventura](https://appleinsider.com/articles/22/06/22/apple-releases-second-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [The best noise-canceling headphones to buy right now](https://www.theverge.com/21345733/best-noise-canceling-headphones)
+ - [Twitter&#39;s new 2500-word limit won&#39;t fix the attention spans it has broken](https://appleinsider.com/articles/22/06/22/twitters-new-2500-word-limit-wont-fix-the-attention-spans-it-has-broken?utm_medium=rss)
+ - [10 Deals to Spoil Your Pets From Chewy&#39;s Blue Box Sale](https://www.wired.com/story/chewy-blue-box-event-sale-june-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
