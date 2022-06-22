@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Covid Shots for Little Kids Are Here. Now for the Hardest Part](https://www.wired.com/story/covid-19-vaccine-little-kids-delivery/)
- - [Microsoft details how it curbs Russian propaganda, largely about the war in Ukraine and vaccines; US traffic to such stories rose 80%+ in the war&#39;s first weeks &lpar;Brad Smith/Microsoft On the Issues&rpar;](http://www.techmeme.com/220622/p36#a220622p36)
- - [How to work efficiently across Mac, iPad, and Windows](https://appleinsider.com/inside/mac/tips/how-to-work-efficiently-across-mac-ipad-and-windows?utm_medium=rss)<!-- TECH:END -->
+ - [Ms. Marvel’s MCU powers may be connected to Captain Marvel’s classic comics tech](https://www.theverge.com/2022/6/22/23178317/ms-marvel-quantum-bands-nega-bands)
+ - [What macOS Ventura features Intel Macs won&#39;t get, and what&#39;s coming later for Apple Silicon](https://appleinsider.com/articles/22/06/22/what-macos-ventura-features-intel-macs-wont-get-and-whats-coming-later-for-apple-silicon?utm_medium=rss)
+ - [eBay says it acquired NFT marketplace KnownOrigin, which has facilitated $7.8M in digital collectible trade volume since its 2018 launch, for an undisclosed sum &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220622/p38#a220622p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
