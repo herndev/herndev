@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Commodore 64 PC prebuilds are pricy, but the case looks great for DIY](https://www.pcgamer.com/these-commodore-64-pc-prebuilds-are-pricy-but-the-case-looks-great-for-diy)
- - [PCIe 7.0 to quadruple the bandwidth of PCIe 5.0, coming in 2025](https://www.pcgamer.com/pcie-70-to-quadruple-the-bandwidth-of-pcie-50-coming-in-2025)
- - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)<!-- GAME:END -->
+ - [Cherry MX low profile switches now come with stealth options](https://www.pcgamer.com/cherry-mx-low-profile-switches-now-come-with-stealth-options)
+ - [Tabs are coming to Windows 11 Explorer, and they&#39;re saving your RAM](https://www.pcgamer.com/tabs-are-coming-to-windows-11-explorer-and-theyre-saving-your-ram)
+ - [These Commodore 64 PC prebuilds are pricy, but the case looks great for DIY](https://www.pcgamer.com/these-commodore-64-pc-prebuilds-are-pricy-but-the-case-looks-great-for-diy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
