@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China&#39;s Bilibili launches a paywall for some videos, as it seeks to diversify revenue after its market cap dropped from ~$54B in February to $10B+ this month &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220622/p1#a220622p1)
- - [Google Boosts Local News in Redesign as Governments Consider Big Tech Impact     - CNET](https://www.cnet.com/tech/services-and-software/google-boosts-local-news-in-redesign-as-governments-consider-big-tech-impact/#ftag=CAD590a51e)
- - [Here&#39;s When New Stranger Things Episodes Hit Netflix in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-new-stranger-things-episodes-hit-netflix-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Xiaomi Mi Band 7 goes global for $52](https://www.androidauthority.com/xiaomi-mi-band-7-global-launch-3178970/)
+ - [SoftBank Group International CEO Michel Combes is leaving his post after five months and will be replaced by SBGI Managing Partner Alex Clavel on June 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220622/p3#a220622p3)
+ - [After Tesla shifted entirely to online car sales in 2019, other US automakers could follow suit, seeking lower costs and wider distribution &lpar;Paul Stenquist/New York Times&rpar;](http://www.techmeme.com/220622/p2#a220622p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
