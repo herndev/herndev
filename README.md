@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Team work makes the work easier](http://9gag.com/gag/avAV86n)
+ - 💣 [Nice design](http://9gag.com/gag/aGzqZKn)
  - ⏩ [Dad](http://9gag.com/gag/aKmyxVW)
  - 👉 [Meowlord vs Human Kings, who would you bow to?](http://9gag.com/gag/azezAmz)<!-- MEMES:END -->
 
