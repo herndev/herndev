@@ -103,8 +103,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These Commodore 64 PC prebuilds are pricy, but the case looks great for DIY](https://www.pcgamer.com/these-commodore-64-pc-prebuilds-are-pricy-but-the-case-looks-great-for-diy)
  - [PCIe 7.0 to quadruple the bandwidth of PCIe 5.0, coming in 2025](https://www.pcgamer.com/pcie-70-to-quadruple-the-bandwidth-of-pcie-50-coming-in-2025)
- - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)
  - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
