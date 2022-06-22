@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta, Adobe, Microsoft join metaverse standards body -- but Apple does not](https://appleinsider.com/articles/22/06/22/meta-adobe-microsoft-join-metaverse-standards-body----but-apple-does-not?utm_medium=rss)
- - [Xbox Cloud Gaming is getting mouse and keyboard support and latency improvements](https://www.theverge.com/2022/6/22/23178179/xbox-cloud-gaming-keyboard-and-mouse-support-latency-improvements)
- - [Tim Cook says &#39;stay tuned&#39; to see how Apple will evolve AR with humanity](https://appleinsider.com/articles/22/06/22/tim-cook-says-stay-tuned-for-how-apple-will-evolve-ar-with-humanity?utm_medium=rss)<!-- TECH:END -->
+ - [Nothing confirms that phone &lpar;1&rpar; will not be available widely in the US, as the company is focusing on &quot;home markets&quot; in the UK and Europe &lpar;Sascha Segan/PCMag&rpar;](http://www.techmeme.com/220622/p20#a220622p20)
+ - [Brooke Minters Joins The Verge as Editorial Director for Audio; Alex Cranz Becomes Official Co-host of The Vergecast](https://www.theverge.com/press-room/2022/6/22/23177346/brooke-minters-joins-the-verge-as-editorial-director-for-audio)
+ - [Nothing’s Phone 1 isn’t coming to the US](https://www.theverge.com/2022/6/22/23178221/nothings-phone-1-usa-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
