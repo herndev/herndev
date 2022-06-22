@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ms. Marvel’s MCU powers may be connected to Captain Marvel’s classic comics tech](https://www.theverge.com/2022/6/22/23178317/ms-marvel-quantum-bands-nega-bands)
- - [What macOS Ventura features Intel Macs won&#39;t get, and what&#39;s coming later for Apple Silicon](https://appleinsider.com/articles/22/06/22/what-macos-ventura-features-intel-macs-wont-get-and-whats-coming-later-for-apple-silicon?utm_medium=rss)
- - [eBay says it acquired NFT marketplace KnownOrigin, which has facilitated $7.8M in digital collectible trade volume since its 2018 launch, for an undisclosed sum &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220622/p38#a220622p38)<!-- TECH:END -->
+ - [Zuckerberg details his plan to move your digital items across the metaverse](https://www.theverge.com/2022/6/22/23179058/mark-zuckerberg-meta-pay-wallet-metaverse-details)
+ - [Privacy browser Brave grew ~5,000% from 8.1M searches in June 2021 to 411.7M in May 2022, and launches Goggles, which lets users customize results, in beta &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220622/p39#a220622p39)
+ - [Swimmer stuck in frigid Columbia River uses Apple Watch to call for help](https://appleinsider.com/articles/22/06/22/swimmer-stuck-in-the-columbia-river-uses-apple-watch-to-call-for-help?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
