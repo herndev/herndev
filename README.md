@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Botox &#39;n stuff](http://9gag.com/gag/amgyvd4)
- - ⏩ [A Japanese house constructed without any nails almost 100 years ago](http://9gag.com/gag/axB8BR1)
+ - 💣 [Not a happy home life](http://9gag.com/gag/aegEgyO)
+ - ⏩ [;-&rpar;](http://9gag.com/gag/aRrGX1B)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
