@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just don\u2019t go there. Problem solved.](http://9gag.com/gag/a21VR3d)
- - ⏩ [How To Eat Sushi The Right Way](http://9gag.com/gag/aDDL1bx)
- - 👉 [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)<!-- MEMES:END -->
+ - 💣 [Always the english teachers](http://9gag.com/gag/aDDLgpK)
+ - ⏩ [It\u2019s Wednesday! Halfway the work week\u2026](http://9gag.com/gag/aWgAEn3)
+ - 👉 [5 years till 40..Yayyy](http://9gag.com/gag/aPZ07vn)<!-- MEMES:END -->
 
 ---
 
