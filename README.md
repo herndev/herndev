@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 7 Update 1.17 brings three new 3 cars, an international circuit, and Extra Menus](https://blog.playstation.com/2022/06/22/gran-turismo-7-update-1-17-brings-three-new-3-cars-an-international-circuit-and-extra-menus/)
- - [Gran Turismo 7 Update 1.17 brings three new 3 cars, an international circuit, and Extra Menus](https://blog.playstation.com/2022/06/22/gran-turismo-7-update-1-17-brings-three-new-3-cars-an-international-circuit-and-extra-menus/)
- - [We’re pitting the Umbrella Academy against the Sparrow Academy](https://www.polygon.com/23177319/umbrella-academy-sparrow-academy-who-would-win)<!-- GAME:END -->
+ - [Enhanced edition of one of the greatest licensed games ever made out tomorrow](https://www.pcgamer.com/enhanced-edition-of-one-of-the-greatest-licensed-games-ever-made-out-tomorrow)
+ - [Read This Before You Break Up Over Video Games](https://kotaku.com/video-game-addict-break-up-relationship-expert-advice-1849090961)
+ - [Watch the new Nintendo Direct all about Xenoblade Chronicles 3](https://www.polygon.com/23178292/nintendo-direct-xenoblade-chronicles-3-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
