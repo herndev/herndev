@@ -103,7 +103,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enhanced edition of one of the greatest licensed games ever made out tomorrow](https://www.pcgamer.com/enhanced-edition-of-one-of-the-greatest-licensed-games-ever-made-out-tomorrow)
+ - [Enhanced edition of one of the greatest licensed games ever releases tomorrow](https://www.pcgamer.com/enhanced-edition-of-one-of-the-greatest-licensed-games-ever-made-out-tomorrow)
  - [Read This Before You Break Up Over Video Games](https://kotaku.com/video-game-addict-break-up-relationship-expert-advice-1849090961)
  - [Watch the new Nintendo Direct all about Xenoblade Chronicles 3](https://www.polygon.com/23178292/nintendo-direct-xenoblade-chronicles-3-watch-stream)<!-- GAME:END -->
 
