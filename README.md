@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Mi Band 7 goes global for $52](https://www.androidauthority.com/xiaomi-mi-band-7-global-launch-3178970/)
- - [SoftBank Group International CEO Michel Combes is leaving his post after five months and will be replaced by SBGI Managing Partner Alex Clavel on June 30 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220622/p3#a220622p3)
- - [After Tesla shifted entirely to online car sales in 2019, other US automakers could follow suit, seeking lower costs and wider distribution &lpar;Paul Stenquist/New York Times&rpar;](http://www.techmeme.com/220622/p2#a220622p2)<!-- TECH:END -->
+ - [Pixel 7 Pro leak suggests Tensor 2 might lag behind once again](https://www.androidauthority.com/google-pixel-7-pro-leak-3178972/)
+ - [A DARPA report finds blockchains are vulnerable to &quot;unintended centralities&quot;, such as powerful new crypto miners, that could pervasively affect their security &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/220622/p4#a220622p4)
+ - [How to update your Zoom app on mobile or desktop](https://www.androidauthority.com/update-zoom-app-3176380/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
