@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enhanced edition of one of the greatest licensed games ever releases tomorrow](https://www.pcgamer.com/enhanced-edition-of-one-of-the-greatest-licensed-games-ever-made-out-tomorrow)
- - [Read This Before You Break Up Over Video Games](https://kotaku.com/video-game-addict-break-up-relationship-expert-advice-1849090961)
- - [Watch the new Nintendo Direct all about Xenoblade Chronicles 3](https://www.polygon.com/23178292/nintendo-direct-xenoblade-chronicles-3-watch-stream)<!-- GAME:END -->
+ - [Lightyear’s director explains the gross sandwiches of the future](https://www.polygon.com/23177499/lightyear-sandwiches-director-pixar)
+ - [What to watch to catch up before Doctor Strange in the Multiverse of Madness](https://www.polygon.com/23041574/movies-to-watch-before-doctor-strange-2-multiverse-of-madness-mcu-marvel)
+ - [League of Legends’ next champion is a water whip-wielding monk with a big demon](https://www.polygon.com/23176841/league-of-legends-nilah-joy-unbound-champion-kit-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
