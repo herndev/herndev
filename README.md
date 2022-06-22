@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard’s summer sale offers discounts on Diablo, Call of Duty, and more](https://www.polygon.com/deals/23178732/activision-blizzard-battle-net-summer-sale-games-cosmetics)
  - [Final Fantasy XVI Will Be Darker And More Mature, Says Producer](https://kotaku.com/final-fantasy-xvi-ffxiv-yoshi-p-naoki-yoshida-square-en-1849094421)
- - [YouTuber designs truly cursed Fortnite versions of Among Us crewmates](https://www.polygon.com/23177532/fortnite-among-us-custom-event)
- - [TMNT Illustrator Re-Imagines King of the Hill As Junji Ito Horror Manga](https://kotaku.com/junji-ito-king-of-the-hill-horror-art-uzumaki-tomie-gyo-1849094286)<!-- GAME:END -->
+ - [YouTuber designs truly cursed Fortnite versions of Among Us crewmates](https://www.polygon.com/23177532/fortnite-among-us-custom-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
