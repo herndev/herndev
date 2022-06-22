@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s When the &#39;Obi-Wan Kenobi&#39; Finale Hits Disney Plus in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-obi-wan-kenobi-finale-hits-disney-plus-in-your-time-zone/#ftag=CAD590a51e)
- - [Sonic Origins Review: This Collection of Classic Games Improved My Mood     - CNET](https://www.cnet.com/tech/gaming/sonic-origins-review-this-collection-of-classic-games-improved-my-mood/#ftag=CAD590a51e)
- - [Xenoblade Chronicles 3 Nintendo Direct: Start Time and How to Watch     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-nintendo-direct-set-for-june-22/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Germany-based Wingcopter, a delivery drone company for transporting medical supplies, raised a $42M Series A extension, tripling its total funding to $60M+ &lpar;Jack Daleo/FreightWaves&rpar;](http://www.techmeme.com/220621/p41#a220621p41)
+ - [Apple Releases new Safari Technology Preview with macOS Ventura features](https://appleinsider.com/articles/22/06/22/apple-releases-new-safari-technology-preview-with-macos-ventura-features?utm_medium=rss)
+ - [Twitter is testing Twitter Notes to let users create articles with rich text formatting and uploaded media, which can then be tweeted and shared upon publishing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220621/p40#a220621p40)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
