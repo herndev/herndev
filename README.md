@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [Analysis finds HiMama and other popular daycare apps lack 2FA and have privacy-compromising features like trackers that were not disclosed in privacy policies &lpar;Alexis Hancock/Electronic Frontier ...&rpar;](http://www.techmeme.com/220622/p30#a220622p30)
- - [Montblanc Summit 3 smartwatch is the second watch to launch with Wear OS 3](https://www.androidauthority.com/montblanc-summit-3-3179192/)<!-- TECH:END -->
+ - [Pornhub owner’s CEO and COO resign](https://www.theverge.com/2022/6/22/23178427/pornhub-owners-ceo-coo-resign-antoon-tassillo-mindgeek)
+ - [Electric vehicle maker Polestar beats Tesla to Apple CarPlay](https://appleinsider.com/articles/22/06/22/electric-vehicle-maker-polestar-beats-tesla-to-apple-carplay?utm_medium=rss)
+ - [Social Security Numbers Stolen in Flagstar Bank Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/social-security-numbers-stolen-in-flagstar-bank-data-breach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
