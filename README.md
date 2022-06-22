@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smile is the first horror movie in a long time with a genuinely scary trailer](https://www.polygon.com/23178743/smile-horror-movie-trailer-release-date-cast)
- - [Here’s How To Cheat Your Way Around KOTOR II’s Game-Breaking Crash On Switch](https://kotaku.com/kotor-2-switch-bug-fix-star-wars-crash-onderon-cheat-sw-1849095888)
- - [Some of Obi-Wan Kenobi’s voice actors had digital help, but Lucasfilm won’t say who](https://www.polygon.com/star-wars/23178636/respeecher-star-wars-ceo-interview-luke-vader)<!-- GAME:END -->
+ - [I’d die for the Pope Turtle in this SNES Elden Ring fan demake](https://www.polygon.com/23178974/elden-ring-snes-fan-demake-pope-turtle)
+ - [Steam reviewers love Neon White despite its horny anime nonsense, or very much because of it](https://www.pcgamer.com/neon-white-steam-reviews)
+ - [Red Bull suspends Formula 2 driver after he drops a racist slur during a Warzone stream](https://www.pcgamer.com/red-bull-suspends-formula-2-driver-after-he-drops-a-racist-slur-during-a-warzone-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
