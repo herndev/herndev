@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Germany-based Wingcopter, a delivery drone company for transporting medical supplies, raised a $42M Series A extension, tripling its total funding to $60M+ &lpar;Jack Daleo/FreightWaves&rpar;](http://www.techmeme.com/220621/p41#a220621p41)
- - [Apple Releases new Safari Technology Preview with macOS Ventura features](https://appleinsider.com/articles/22/06/22/apple-releases-new-safari-technology-preview-with-macos-ventura-features?utm_medium=rss)
- - [Twitter is testing Twitter Notes to let users create articles with rich text formatting and uploaded media, which can then be tweeted and shared upon publishing &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220621/p40#a220621p40)<!-- TECH:END -->
+ - [China&#39;s Bilibili launches a paywall for some videos, as it seeks to diversify revenue after its market cap dropped from ~$54B in February to $10B+ this month &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/220622/p1#a220622p1)
+ - [Google Boosts Local News in Redesign as Governments Consider Big Tech Impact     - CNET](https://www.cnet.com/tech/services-and-software/google-boosts-local-news-in-redesign-as-governments-consider-big-tech-impact/#ftag=CAD590a51e)
+ - [Here&#39;s When New Stranger Things Episodes Hit Netflix in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-new-stranger-things-episodes-hit-netflix-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
