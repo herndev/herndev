@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mediatek Dimensity 9000 Plus launched: Its power level is &lpar;technically&rpar; over 9000](https://www.androidauthority.com/mediatek-dimensity-9000-plus-3177927/)
- - [Volvo’s commercial truck group is testing out hydrogen fuel cell semis](https://www.theverge.com/2022/6/21/23177624/volvo-trucks-tests-hydrogen-fuel-cell-semi)
- - [An analysis of how Apple&#39;s approach to ATT is anti-competitive and harms legitimate targeted ad businesses integral to the new internet economy &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220621/p35#a220621p35)<!-- TECH:END -->
+ - [Here&#39;s When the &#39;Obi-Wan Kenobi&#39; Finale Hits Disney Plus in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-obi-wan-kenobi-finale-hits-disney-plus-in-your-time-zone/#ftag=CAD590a51e)
+ - [Sonic Origins Review: This Collection of Classic Games Improved My Mood     - CNET](https://www.cnet.com/tech/gaming/sonic-origins-review-this-collection-of-classic-games-improved-my-mood/#ftag=CAD590a51e)
+ - [Xenoblade Chronicles 3 Nintendo Direct: Start Time and How to Watch     - CNET](https://www.cnet.com/tech/gaming/xenoblade-chronicles-3-nintendo-direct-set-for-june-22/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
