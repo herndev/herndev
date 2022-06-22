@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer guide #368: Wednesday, June 22](https://www.pcgamer.com/wordle-today-june-22-368)
  - [Cherry MX low profile switches now come with stealth options](https://www.pcgamer.com/cherry-mx-low-profile-switches-now-come-with-stealth-options)
- - [Tabs are coming to Windows 11 Explorer, and they&#39;re saving your RAM](https://www.pcgamer.com/tabs-are-coming-to-windows-11-explorer-and-theyre-saving-your-ram)
- - [These Commodore 64 PC prebuilds are pricy, but the case looks great for DIY](https://www.pcgamer.com/these-commodore-64-pc-prebuilds-are-pricy-but-the-case-looks-great-for-diy)<!-- GAME:END -->
+ - [Tabs are coming to Windows 11 Explorer, and they&#39;re saving your RAM](https://www.pcgamer.com/tabs-are-coming-to-windows-11-explorer-and-theyre-saving-your-ram)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
