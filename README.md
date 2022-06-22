@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg details his plan to move your digital items across the metaverse](https://www.theverge.com/2022/6/22/23179058/mark-zuckerberg-meta-pay-wallet-metaverse-details)
- - [Privacy browser Brave grew ~5,000% from 8.1M searches in June 2021 to 411.7M in May 2022, and launches Goggles, which lets users customize results, in beta &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220622/p39#a220622p39)
- - [Swimmer stuck in frigid Columbia River uses Apple Watch to call for help](https://appleinsider.com/articles/22/06/22/swimmer-stuck-in-the-columbia-river-uses-apple-watch-to-call-for-help?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook Pay officially rebrands to Meta Pay; Zuckerberg says Meta is working on an interoperable &quot;wallet for the metaverse&quot; that will have &quot;proof of ownership&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220622/p41#a220622p41)
+ - [Deno, a runtime for JavaScript, TypeScript, and WebAssembly built using the Rust programming language and the V8 JavaScript engine, raised a $21M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220622/p40#a220622p40)
+ - [How CRISPR rice could help tackle climate change](https://www.theverge.com/2022/6/22/23178791/crispr-gene-editing-rice-soil-climate-change)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
