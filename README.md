@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Canadian government approves legislation that will compel YouTube, TikTok, and streaming services to boost domestic content; the law now heads to the Senate &lpar;Paul Vieira/Wall Street Journal&rpar;](http://www.techmeme.com/220622/p10#a220622p10)
- - [EcoFlow solar-tracking robot review: beep, blop, stop!](https://www.theverge.com/23171154/ecoflow-solar-tracker-review-power-charging-efficiency-noise)
- - [Leap, which offers online resources like visa assistance to help Indians study abroad, raised $75M led by Owl Ventures at a nearly $1B valuation &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220622/p9#a220622p9)<!-- TECH:END -->
+ - [Meta, Adobe, Microsoft join metaverse standards body -- but Apple does not](https://appleinsider.com/articles/22/06/22/meta-adobe-microsoft-join-metaverse-standards-body----but-apple-does-not?utm_medium=rss)
+ - [Xbox Cloud Gaming is getting mouse and keyboard support and latency improvements](https://www.theverge.com/2022/6/22/23178179/xbox-cloud-gaming-keyboard-and-mouse-support-latency-improvements)
+ - [Tim Cook says &#39;stay tuned&#39; to see how Apple will evolve AR with humanity](https://appleinsider.com/articles/22/06/22/tim-cook-says-stay-tuned-for-how-apple-will-evolve-ar-with-humanity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
