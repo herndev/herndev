@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I thought the point of acting was pretending to be something/someone you aren&#39;t?](http://9gag.com/gag/ay9AM58)
- - ⏩ [This makes perfect sense](http://9gag.com/gag/aYrB727)
+ - 💣 [This makes perfect sense](http://9gag.com/gag/aYrB727)
+ - ⏩ [The unaimed arrow never misses.](http://9gag.com/gag/avAV5vE)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
