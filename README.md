@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook Pay officially rebrands to Meta Pay; Zuckerberg says Meta is working on an interoperable &quot;wallet for the metaverse&quot; that will have &quot;proof of ownership&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220622/p41#a220622p41)
- - [Deno, a runtime for JavaScript, TypeScript, and WebAssembly built using the Rust programming language and the V8 JavaScript engine, raised a $21M Series A &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220622/p40#a220622p40)
- - [How CRISPR rice could help tackle climate change](https://www.theverge.com/2022/6/22/23178791/crispr-gene-editing-rice-soil-climate-change)<!-- TECH:END -->
+ - [Valve&#39;s Steam Deck, which runs Arch Linux and lets users install software from anywhere unlike other game consoles, makes a great case against walled gardens &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220622/p43#a220622p43)
+ - [Brave’s search engine lets you customize your results](https://www.theverge.com/2022/6/22/23179067/brave-search-engine-apply-custom-rankings-filters-goggles)
+ - [MasterClass, which offers celebrity-taught online classes, laid off around 120 employees, or 20% of its team; sources: MasterClass was valued at $2.75B in 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220622/p42#a220622p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
