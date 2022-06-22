@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony’s Skipping Gamescom 2022, So Forget About Any God Of War Ragnarök News](https://kotaku.com/sony-gamescom-2022-onl-opening-night-playstation-god-of-1849095480)
- - [Final Fantasy 16 isn&#39;t open world so it can have a &#39;global scale&#39;, according to producer](https://www.pcgamer.com/final-fantasy-16-isnt-open-world-so-it-can-have-a-global-scale-according-to-producer)
- - [Fall Guys&#39; Steam player count skyrockets a day after it becomes an Epic exclusive](https://www.pcgamer.com/fall-guys-steam-player-count-skyrockets-a-day-after-it-becomes-an-epic-exclusive)<!-- GAME:END -->
+ - [Smile is the first horror movie in a long time with a genuinely scary trailer](https://www.polygon.com/23178743/smile-horror-movie-trailer-release-date-cast)
+ - [Here’s How To Cheat Your Way Around KOTOR II’s Game-Breaking Crash On Switch](https://kotaku.com/kotor-2-switch-bug-fix-star-wars-crash-onderon-cheat-sw-1849095888)
+ - [Some of Obi-Wan Kenobi’s voice actors had digital help, but Lucasfilm won’t say who](https://www.polygon.com/star-wars/23178636/respeecher-star-wars-ceo-interview-luke-vader)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
