@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing confirms that phone &lpar;1&rpar; will not be available widely in the US, as the company is focusing on &quot;home markets&quot; in the UK and Europe &lpar;Sascha Segan/PCMag&rpar;](http://www.techmeme.com/220622/p20#a220622p20)
- - [Brooke Minters Joins The Verge as Editorial Director for Audio; Alex Cranz Becomes Official Co-host of The Vergecast](https://www.theverge.com/press-room/2022/6/22/23177346/brooke-minters-joins-the-verge-as-editorial-director-for-audio)
- - [Nothing’s Phone 1 isn’t coming to the US](https://www.theverge.com/2022/6/22/23178221/nothings-phone-1-usa-release-date)<!-- TECH:END -->
+ - [Volkswagen CEO isn&#39;t sure that Apple wants to build cars](https://appleinsider.com/articles/22/06/22/volkswagen-ceo-isnt-sure-that-apple-wants-to-build-cars?utm_medium=rss)
+ - [Las Vegas-based Prime Trust, which offers crypto infrastructure tools, raised a $107M Series B, following a $65M Series A in July 2021 &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220622/p25#a220622p25)
+ - [MacBook Pro 13-inch &lpar;M2&rpar; review: still fast with excellent battery life, but just two USB-C ports, design is from 2016, and webcam is still bad &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220622/p24#a220622p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
