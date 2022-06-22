@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dude Builds An Xbox Series X That&#39;s Over Six-Foot Tall](https://kotaku.com/xbox-series-x-worlds-largest-tallest-console-six-feet-t-1849091353)
- - [Ted Cruz Is A Microtransaction Whale](https://kotaku.com/ted-cruz-mtx-microtransaction-whale-mobile-game-senator-1849091395)
- - [Mid-Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2022/06/21/mid-year-deals-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
+ - [PCIe 7.0 to quadruple the bandwidth of PCIe 5.0, coming in 2025](https://www.pcgamer.com/pcie-70-to-quadruple-the-bandwidth-of-pcie-50-coming-in-2025)
+ - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)
+ - [Interview: Naoki Yoshida sheds new light on Final Fantasy XVI](https://blog.playstation.com/2022/06/21/interview-naoki-yoshida-sheds-new-light-on-final-fantasy-xvi/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
