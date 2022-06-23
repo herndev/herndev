@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50% chance, but happening 99% of the times i open the box](http://9gag.com/gag/awzDZbr)
- - ⏩ [Oh no, not again](http://9gag.com/gag/aqGOe4R)
+ - 💣 [That&#39;s pretty cool](http://9gag.com/gag/arn0ynB)
+ - ⏩ [I&#39;ll show myself out](http://9gag.com/gag/ay9A2Yr)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
