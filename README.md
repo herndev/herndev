@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The plural of fish](http://9gag.com/gag/aYrBGXm)
- - ⏩ [Comparing soundtracks](http://9gag.com/gag/a31D55r)
+ - 💣 [Filming of a Train scene](http://9gag.com/gag/aYrBOEw)
+ - ⏩ [Everyone is watching and enjoy the show](http://9gag.com/gag/aVx8oZ8)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
