@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final day: B&amp;H&#39;s Mega Deal Zone event discounts 100s of electronics by up to $2,500](https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500?utm_medium=rss)
- - [Cerebras says its &quot;wafer-scale&quot; chip sets a record for the largest AI model trained on a single device with up to 20B parameters &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220623/p1#a220623p1)
- - [These &#39;Stranger Things&#39; TikToks Will Tide You Over Until Season 4, Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/these-stranger-things-tiktoks-will-tide-you-over-until-season-4-vol-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s latest 200MP sensor is smaller than the Pixel 6’s 50MP camera](https://www.androidauthority.com/samsung-isocell-hp3-200mp-3179457/)
+ - [Nothing Phone 1 to be sold via invite system, just like the first OnePlus phones](https://www.androidauthority.com/nothing-phone-1-invite-system-3179169/)
+ - [Final day: B&amp;H&#39;s Mega Deal Zone event discounts 100s of electronics by up to $2,500](https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
