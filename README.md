@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sanas, a startup focused on call centers which develops a voice AI that changes users&#39; accents in real time, has raised a $32M Series A led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220622/p50#a220622p50)
- - [Tel Aviv-based Jackpot, which is developing an app and website to make buying US state lottery tickets easier, raised a $35M Series A led by Accomplice &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/220622/p49#a220622p49)
- - [India-based Cashify, a marketplace for selling and buying used smartphones and other gadgets, has raised a $90M Series E, bringing its total funding to $130M+ &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220622/p48#a220622p48)<!-- TECH:END -->
+ - [Cerebras says its &quot;wafer-scale&quot; chip sets a record for the largest AI model trained on a single device with up to 20B parameters &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220623/p1#a220623p1)
+ - [Coinbase says it plans to shut down its standalone, trader-focused Pro service by the end of 2022 and replace it with Advanced Trade in the main app and site &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220622/p51#a220622p51)
+ - [Mountain View-based Sanas, which develops a call center voice AI that changes users&#39; accents in real time, raised a $32M Series A led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220622/p50#a220622p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
