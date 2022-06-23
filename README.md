@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s latest 200MP sensor is smaller than the Pixel 6’s 50MP camera](https://www.androidauthority.com/samsung-isocell-hp3-200mp-3179457/)
- - [Nothing Phone 1 to be sold via invite system, just like the first OnePlus phones](https://www.androidauthority.com/nothing-phone-1-invite-system-3179169/)
- - [Final day: B&amp;H&#39;s Mega Deal Zone event discounts 100s of electronics by up to $2,500](https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s creepy feature makes Alexa mimic the voice of a dead person](https://www.androidauthority.com/amazon-alexa-mimic-dead-person-voice-3179459/)
+ - [Final day: B&amp;H&#39;s Mega Deal Zone event discounts 100s of electronics by up to $2,500](https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500?utm_medium=rss)
+ - [A look at Alibaba&#39;s plans to expand into South Asia as its growth in China falters, including through its Daraz unit in Pakistan, acquired for $194M in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/220623/p3#a220623p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
