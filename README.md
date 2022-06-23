@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will bring Chrome&#39;s Enhanced Safe Browsing, which helps Google track URLs to monitor dangerous websites, to its iOS app, expanding on Android and desktop &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220623/p20#a220623p20)
- - [Cruise is now charging for rides in its driverless vehicles in San Francisco](https://www.theverge.com/2022/6/23/23180156/cruise-driverless-vehicle-charge-riders-san-francisco)
- - [Daily deals June 23: $570 for M1 Mac mini,  24% off 2 bay NAS, 21% off Dell 27-inch 4K monitor, more](https://appleinsider.com/articles/22/06/23/daily-deals-june-23-570-for-m1-mac-mini-24-off-2-bay-nas-21-off-dell-27-inch-4k-monitor-more?utm_medium=rss)<!-- TECH:END -->
+ - [Khaby Lame is now the most-followed TikToker in the world](https://www.theverge.com/2022/6/23/23180139/khaby-lame-tiktok-followers-charli-damelio)
+ - [MacBook Pro Blowout Sale: save up to $300 on 14-inch &amp; 16-inch models &lpar;even M1 Max&rpar; at B&amp;H](https://appleinsider.com/articles/22/06/23/macbook-pro-blowout-sale-save-up-to-300-on-14-inch-16-inch-models-even-m1-max-at-bh?utm_medium=rss)
+ - [Instagram can now verify your age with your face with new AI technology](https://www.androidauthority.com/instagram-can-now-verify-your-age-with-your-face-3179652/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
