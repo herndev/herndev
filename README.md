@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Pineapple in different languages](http://9gag.com/gag/adgMv2Q)
- - ⏩ [Comparing soundtracks](http://9gag.com/gag/a31D55r)
+ - ⏩ [Man in China uses fireworks to fight off bulldozer sent to demolish his building](http://9gag.com/gag/aOQO28v)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
