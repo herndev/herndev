@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Valve&#39;s Steam Deck, which runs Arch Linux and lets users install software from anywhere unlike other game consoles, makes a great case against walled gardens &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/220622/p43#a220622p43)
- - [Brave’s search engine lets you customize your results](https://www.theverge.com/2022/6/22/23179067/brave-search-engine-apply-custom-rankings-filters-goggles)
- - [MasterClass, which offers celebrity-taught online classes, laid off around 120 employees, or 20% of its team; sources: MasterClass was valued at $2.75B in 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220622/p42#a220622p42)<!-- TECH:END -->
+ - [Ghana-based Fido, which offers financial tools and loans to customers via its mobile app, raised a $30M Series A led by Fortissimo Capital &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220622/p47#a220622p47)
+ - [Amazon is developing a system to let Alexa mimic any voice after hearing less than a minute of audio; an Alexa SVP says the goal is to &quot;make the memories last&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220622/p46#a220622p46)
+ - [Best Personal Loans for Bad Credit for June 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-loans-for-bad-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
