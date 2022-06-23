@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors’ New Character Is, Uh…A Tree That Doesn’t Move At All](https://kotaku.com/vampire-survivors-playable-tree-secret-peppino-beta-upd-1849096695)
- - [Super Stardust Portable sneaks onto PlayStation Plus Premium](https://www.polygon.com/23179863/playstation-plus-premium-launch-line-up-super-stardust-portable)
- - [No Man’s Sky coming to Nintendo Switch in October](https://www.polygon.com/23179237/no-mans-sky-nintendo-switch-release-date-ps5-physical-edition)<!-- GAME:END -->
+ - [Return to Dark Tower is a fascinating and expensive sequel to the cult classic board game](https://www.polygon.com/reviews/23171216/return-to-dark-tower-kickstarter-board-game-review)
+ - [Best Acer gaming laptop deals](https://www.pcgamer.com/the-best-acer-laptop-for-gaming-2019)
+ - [Vampire Survivors’ New Character Is, Uh…A Tree That Doesn’t Move At All](https://kotaku.com/vampire-survivors-playable-tree-secret-peppino-beta-upd-1849096695)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
