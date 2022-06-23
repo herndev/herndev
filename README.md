@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lightyear is out, so we’re ranking Pixar movies again](https://www.polygon.com/movies/22239548/best-pixar-movies-ranked)
- - [Free Play Days – Dead Island: Riptide and theHunter: Call of the Wild](https://news.xbox.com/en-us/2022/06/23/free-play-days-dead-island-riptide-and-thehunter-call-of-the-wild/)
- - [MIT robotics engineers are accelerating robot learning across the board](https://www.pcgamer.com/mit-robotics-engineers-are-accelerating-robot-learning-across-the-board)<!-- GAME:END -->
+ - [Sonic Creator Confirms Michael Jackson Composed Music For Sonic 3](https://kotaku.com/sonic-origins-yuji-naka-michael-jackson-carnival-night-1849099570)
+ - [Zombie shooter Killing Floor 2 gets first big update of 2022](https://www.pcgamer.com/zombie-shooter-killing-floor-2-gets-first-big-update-of-2022)
+ - [Today&#39;s Wordle answer for Thursday, June 23 &lpar;#369&rpar;](https://www.pcgamer.com/wordle-today-june-23-369-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
