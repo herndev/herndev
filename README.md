@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Khaby Lame is now the most-followed TikToker in the world](https://www.theverge.com/2022/6/23/23180139/khaby-lame-tiktok-followers-charli-damelio)
- - [MacBook Pro Blowout Sale: save up to $300 on 14-inch &amp; 16-inch models &lpar;even M1 Max&rpar; at B&amp;H](https://appleinsider.com/articles/22/06/23/macbook-pro-blowout-sale-save-up-to-300-on-14-inch-16-inch-models-even-m1-max-at-bh?utm_medium=rss)
- - [Instagram can now verify your age with your face with new AI technology](https://www.androidauthority.com/instagram-can-now-verify-your-age-with-your-face-3179652/)<!-- TECH:END -->
+ - [Cryptoys, which is building blockchain-based kids toys in partnership with Dapper Labs, raised a $23M Series A led by a16z, after a $7.5M seed in October 2021 &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220623/p25#a220623p25)
+ - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
+ - [Nintendo and the Steam summer sale are here to ruin you financially](https://www.theverge.com/good-deals/2022/6/23/23180287/nintendo-switch-eshop-steam-deck-valve-games-summer-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
