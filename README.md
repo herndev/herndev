@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells adds more difficulties, accessibility options](https://www.polygon.com/23180668/dead-cells-difficulties-accessibility-options-motion-twin)
- - [Disney teases new photo of Santa Clause series ... without Bernard the Hot Elf](https://www.polygon.com/23180693/the-santa-clause-bernard-tim-allen-david-krumholtz)
- - [A Plague Tale: Requiem Releases October 18 on Game Pass](https://news.xbox.com/en-us/2022/06/23/a-plague-tale-requiem-releases-october-18-on-game-pass/)<!-- GAME:END -->
+ - [The Nintendo Switch Has A Big Summer Sale Right Now](https://kotaku.com/nintendo-switch-summer-sale-discounts-mario-skyrim-star-1849102147)
+ - [Netflix Spy Kids reboot will star Gina Rodriguez and Zachary Levi](https://www.polygon.com/23180761/spy-kids-netflix-reboot-gina-rodriguez-zachary-levi-robert-rodriguez)
+ - [Devs Share The Wild, Secret Hacks Your Favorite Games Rely On](https://kotaku.com/dirty-tricks-secrets-hacks-devs-assassin-s-creed-horses-1849102054)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
