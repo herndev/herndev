@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based BNPL service Playter raised $55M in equity and debt led by Adit Ventures and Fasanara Capital, following a $1.7M seed in March 2022 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220623/p14#a220623p14)
- - [How to save iMessage conversations as a PDF](https://appleinsider.com/inside/imessage/tips/how-to-save-imessage-conversations-as-a-pdf?utm_medium=rss)
- - [Senate Commerce Chair Maria Cantwell says she does not support the bipartisan privacy bill, a significant blow to long-stalled federal data protections &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/220623/p13#a220623p13)<!-- TECH:END -->
+ - [JobGet, a job marketplace for salaried or hourly workers, raised a $52M Series B, comprising $40M equity and $12M debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220623/p16#a220623p16)
+ - [Daily deals June 23: $570 for M1 Mac mini,  24% off 2 bay NAS, 21% off Dell 27-inch 4K monitor, more](https://appleinsider.com/articles/22/06/23/daily-deals-june-23-570-for-m1-mac-mini-24-off-2-bay-nas-21-off-dell-27-inch-4k-monitor-more?utm_medium=rss)
+ - [Talk therapy apps face new questions about data collection from senators](https://www.theverge.com/2022/6/23/23179866/elizabeth-warren-betterhelp-talkspace-therapy-pandemic-app-philip-defranco)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
