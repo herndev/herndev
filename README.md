@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pay wages](http://9gag.com/gag/azez5YN)
- - ⏩ [I feel like shit](http://9gag.com/gag/aVx8gdP)
+ - 💣 [Hurr &#39;&#39;I was under the influence of an evil magic book&#39;&#39; Durr](http://9gag.com/gag/axB8yMK)
+ - ⏩ [Amazing...](http://9gag.com/gag/aKmy1MQ)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
