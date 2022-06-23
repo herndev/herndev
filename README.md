@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to Dark Tower is a fascinating and expensive sequel to the cult classic board game](https://www.polygon.com/reviews/23171216/return-to-dark-tower-kickstarter-board-game-review)
- - [Best Acer gaming laptop deals](https://www.pcgamer.com/the-best-acer-laptop-for-gaming-2019)
- - [Vampire Survivors’ New Character Is, Uh…A Tree That Doesn’t Move At All](https://kotaku.com/vampire-survivors-playable-tree-secret-peppino-beta-upd-1849096695)<!-- GAME:END -->
+ - [Lightyear is out, so we’re ranking Pixar movies again](https://www.polygon.com/movies/22239548/best-pixar-movies-ranked)
+ - [Free Play Days – Dead Island: Riptide and theHunter: Call of the Wild](https://news.xbox.com/en-us/2022/06/23/free-play-days-dead-island-riptide-and-thehunter-call-of-the-wild/)
+ - [MIT robotics engineers are accelerating robot learning across the board](https://www.pcgamer.com/mit-robotics-engineers-are-accelerating-robot-learning-across-the-board)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
