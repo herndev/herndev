@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Hooman, let me help you](http://9gag.com/gag/a21VvgY)
- - ⏩ [SWall-E](http://9gag.com/gag/aOQO2bD)
+ - ⏩ [It\u2019s more about fit than qualifications](http://9gag.com/gag/aGzqy2z)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
