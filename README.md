@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cryptoys, which is building blockchain-based kids toys in partnership with Dapper Labs, raised a $23M Series A led by a16z, after a $7.5M seed in October 2021 &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220623/p25#a220623p25)
- - [How to sign up for Amazon Prime](https://www.theverge.com/21493780/amazon-prime-sign-up-day-deals-sale-price-free)
- - [Nintendo and the Steam summer sale are here to ruin you financially](https://www.theverge.com/good-deals/2022/6/23/23180287/nintendo-switch-eshop-steam-deck-valve-games-summer-deal-sale)<!-- TECH:END -->
+ - [China issues new rules for live streamers, including requiring them to have relevant qualifications to discuss some topics, such as law, finance, and medicine &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/220623/p26#a220623p26)
+ - [Attackers hit iOS and Android devices with spyware in Italy and Kazakhstan](https://appleinsider.com/articles/22/06/23/attackers-hit-ios-and-android-devices-with-spyware-in-italy-and-kazakhstan?utm_medium=rss)
+ - [Meta reportedly plans to shut down CrowdTangle, its tool that tracks popular social media posts](https://www.theverge.com/2022/6/23/23180357/meta-crowdtangle-shut-down-facebook-misinformation-viral-news-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
