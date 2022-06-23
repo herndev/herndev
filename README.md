@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Senator posts cryptocurrency bill on GitHub, chaos ensues](https://www.theverge.com/2022/6/23/23180813/cryptocurrency-bill-cynthia-lummis-kirsten-gillibrand-github-trolling)
- - [Report: video gaming revenue in China fell for a third consecutive month in May, declining 6.7% YoY to $3.4B, amid a slowing economy and regulatory uncertainty &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/220623/p32#a220623p32)
- - [See the Largest Burmese Python Ever Captured in Florida     - CNET](https://www.cnet.com/science/biology/see-the-largest-burmese-python-ever-captured-in-florida/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter’s closed caption toggle is now available on iOS and Android](https://www.theverge.com/2022/6/23/23180819/twitter-video-closed-captions-ios-android-accessibility-subtitles)
+ - [Yandex says it has made YaLM 100B, its language model for AI research, publicly available, and claims it contains 100B parameters &lpar;Reuters&rpar;](http://www.techmeme.com/220623/p34#a220623p34)
+ - [Chris Pratt says his Mario voice is ‘unlike anything you’ve heard’](https://www.theverge.com/2022/6/23/23180812/chris-pratt-mario-movie-voice)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
