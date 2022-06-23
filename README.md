@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I’d die for the Pope Turtle in this SNES Elden Ring fan demake](https://www.polygon.com/23178974/elden-ring-snes-fan-demake-pope-turtle)
- - [Steam reviewers love Neon White despite its horny anime nonsense, or very much because of it](https://www.pcgamer.com/neon-white-steam-reviews)
- - [Red Bull suspends Formula 2 driver after he drops a racist slur during a Warzone stream](https://www.pcgamer.com/red-bull-suspends-formula-2-driver-after-he-drops-a-racist-slur-during-a-warzone-stream)<!-- GAME:END -->
+ - [Evil Dead: The Game review](https://www.pcgamer.com/evil-dead-the-game-review)
+ - [Yakuza Fan Is Fixing The PS2 Original&#39;s Mistakes](https://kotaku.com/yakuza-sega-ps2-subtitles-mod-project-localization-orig-1849096632)
+ - [The next wave of city builders will let us build in some amazing places](https://www.pcgamer.com/the-next-wave-of-city-building-games-will-let-us-build-in-some-amazing-places)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
