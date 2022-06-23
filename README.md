@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China issues new rules for live streamers, including requiring them to have relevant qualifications to discuss some topics, such as law, finance, and medicine &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/220623/p26#a220623p26)
- - [Attackers hit iOS and Android devices with spyware in Italy and Kazakhstan](https://appleinsider.com/articles/22/06/23/attackers-hit-ios-and-android-devices-with-spyware-in-italy-and-kazakhstan?utm_medium=rss)
- - [Meta reportedly plans to shut down CrowdTangle, its tool that tracks popular social media posts](https://www.theverge.com/2022/6/23/23180357/meta-crowdtangle-shut-down-facebook-misinformation-viral-news-tracker)<!-- TECH:END -->
+ - [Crypto may be &quot;more bad than good&quot; but decentralization is its main use case, so the claim that &quot;there are still no use cases for crypto&quot; is not rational &lpar;https://twitter.com/evanjconrad/Evan ...&rpar;](http://www.techmeme.com/220623/p29#a220623p29)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [You can now use your Chromebook to quickly access your phone’s pictures](https://www.androidauthority.com/chromebook-phone-pictures-3179764/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
