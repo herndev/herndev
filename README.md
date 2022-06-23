@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Japanese PC that ran the original Metal Gear is coming back after 30 years of extinction](https://www.pcgamer.com/the-japanese-pc-that-ran-the-original-metal-gear-is-coming-back-after-30-years-of-extinction)
- - [The Steam Summer Sale has begun, and it&#39;s a little weird this year](https://www.pcgamer.com/the-steam-summer-sale-has-begun-and-its-a-little-weird-this-year)
- - [What’s in a Season? More on Age IV Seasons Two and Three!](https://news.xbox.com/en-us/2022/06/23/whats-in-a-season-more-on-age-iv-seasons-two-and-three/)<!-- GAME:END -->
+ - [Into the Breach is getting a big update, coming to mobile thanks to Netflix](https://www.polygon.com/23180377/into-the-breach-ios-android-netflix-release-date)
+ - [The 2022 Steam Summer Sale is live for the next two weeks](https://www.polygon.com/23180319/steam-summer-sale-live-dates-details)
+ - [Obi-Wan Kenobi’s aging, explained](https://www.polygon.com/23180299/obi-wan-kenobi-show-age-fictional-character-played-by-actors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
