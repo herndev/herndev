@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [JobGet, a job marketplace for salaried or hourly workers, raised a $52M Series B, comprising $40M equity and $12M debt &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220623/p16#a220623p16)
- - [Daily deals June 23: $570 for M1 Mac mini,  24% off 2 bay NAS, 21% off Dell 27-inch 4K monitor, more](https://appleinsider.com/articles/22/06/23/daily-deals-june-23-570-for-m1-mac-mini-24-off-2-bay-nas-21-off-dell-27-inch-4k-monitor-more?utm_medium=rss)
- - [Talk therapy apps face new questions about data collection from senators](https://www.theverge.com/2022/6/23/23179866/elizabeth-warren-betterhelp-talkspace-therapy-pandemic-app-philip-defranco)<!-- TECH:END -->
+ - [Spotify replaces its Concert Hub with a Live Events Feed, populated by Ticketmaster, AXS, DICE, Eventbrite, See Tickets, and other partners &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/220623/p17#a220623p17)
+ - [Inscryption, the delightfully unsettling card-battling roguelike, comes to Mac and Linux](https://www.theverge.com/2022/6/23/23179901/inscryption-macos-linux-release-deck-builder-card-battler-roguelike)
+ - [Apple MacBook Pro 13 &lpar;2022&rpar; review: new chip, old threads](https://www.theverge.com/23177674/apple-macbook-pro-m2-2022-review-price-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
