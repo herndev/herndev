@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5, Watch 5 Pro prices revealed in fresh leak](https://www.androidauthority.com/samsung-galaxy-watch-5-prices-3179490/)
- - [Amazon’s creepy feature makes Alexa mimic the voice of a dead person](https://www.androidauthority.com/amazon-alexa-mimic-dead-person-voice-3179459/)
- - [Final day: B&amp;H&#39;s Mega Deal Zone event discounts 100s of electronics by up to $2,500](https://appleinsider.com/articles/22/06/23/final-day-bhs-mega-deal-zone-event-discounts-100s-of-electronics-by-up-to-2500?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung admits to making misleading water-resistance claims about 7 phones](https://www.androidauthority.com/samsung-misleading-ads-water-resistance-3179507/)
+ - [A profile of Changpeng Zhao, who built Binance into the largest crypto exchange, as he navigates a regulatory crackdown in a brutal crypto winter &lpar;Bloomberg&rpar;](http://www.techmeme.com/220623/p6#a220623p6)
+ - [The Loneliness of the Junior College Esports Coach](https://www.wired.com/story/the-loneliness-of-the-junior-college-esports-coach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
