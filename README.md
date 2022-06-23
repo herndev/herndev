@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Into the Breach is getting a big update, coming to mobile thanks to Netflix](https://www.polygon.com/23180377/into-the-breach-ios-android-netflix-release-date)
- - [The 2022 Steam Summer Sale is live for the next two weeks](https://www.polygon.com/23180319/steam-summer-sale-live-dates-details)
- - [Obi-Wan Kenobi’s aging, explained](https://www.polygon.com/23180299/obi-wan-kenobi-show-age-fictional-character-played-by-actors)<!-- GAME:END -->
+ - [Bungie hits YouTuber with a $7.6 million lawsuit for fake DMCA claims](https://www.polygon.com/23180433/bungie-youtube-dmca-takedowns-lawsuit-lord-nazo)
+ - [Horror movie Barbarian looks like the ultimate Airbnb nightmare](https://www.polygon.com/23180140/barbarian-horror-movie-trailer-justin-long-release-date-cast)
+ - [Into the Breach is getting a big update, coming to mobile thanks to Netflix](https://www.polygon.com/23180377/into-the-breach-ios-android-netflix-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
