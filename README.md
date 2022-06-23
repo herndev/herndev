@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Triggered feminist` meme is one of the biggest lies of all time. Poor girl was actually just having a fairly civil conversation with a Trump supporter.[I know it is repost but I feel bad for this girl]](http://9gag.com/gag/abgogEO)
- - ⏩ [Doubt](http://9gag.com/gag/aRrGXBj)
+ - 💣 [Someone created this in minecraft ..](http://9gag.com/gag/aDDLYeO)
+ - ⏩ [Fxitinpost](http://9gag.com/gag/avAVQGO)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
 ---
