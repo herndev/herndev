@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore&#39;s fintech policy chief says the country will be &quot;brutal and unrelentingly hard&quot; on &quot;any market bad behaviour&quot; in the crypto industry &lpar;Financial Times&rpar;](http://www.techmeme.com/220623/p8#a220623p8)
- - [How Covid Tracking Apps Are Pivoting for Commercial Profit](https://www.wired.com/story/covid-19-data-switch/)
- - [Parents Need to Know What’s Going On Inside Their Day Care Apps](https://www.wired.com/story/daycare-app-privacy-security/)<!-- TECH:END -->
+ - [London-based BNPL service Playter raised $55M in equity and debt led by Adit Ventures and Fasanara Capital, following a $1.7M seed in March 2022 &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/220623/p14#a220623p14)
+ - [How to save iMessage conversations as a PDF](https://appleinsider.com/inside/imessage/tips/how-to-save-imessage-conversations-as-a-pdf?utm_medium=rss)
+ - [Senate Commerce Chair Maria Cantwell says she does not support the bipartisan privacy bill, a significant blow to long-stalled federal data protections &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/220623/p13#a220623p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
