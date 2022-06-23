@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ghana-based Fido, which offers financial tools and loans to customers via its mobile app, raised a $30M Series A led by Fortissimo Capital &lpar;Annie Njanja/TechCrunch&rpar;](http://www.techmeme.com/220622/p47#a220622p47)
- - [Amazon is developing a system to let Alexa mimic any voice after hearing less than a minute of audio; an Alexa SVP says the goal is to &quot;make the memories last&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220622/p46#a220622p46)
- - [Best Personal Loans for Bad Credit for June 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-loans-for-bad-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sanas, a startup focused on call centers which develops a voice AI that changes users&#39; accents in real time, has raised a $32M Series A led by Insight Partners &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220622/p50#a220622p50)
+ - [Tel Aviv-based Jackpot, which is developing an app and website to make buying US state lottery tickets easier, raised a $35M Series A led by Accomplice &lpar;Jessica Golden/CNBC&rpar;](http://www.techmeme.com/220622/p49#a220622p49)
+ - [India-based Cashify, a marketplace for selling and buying used smartphones and other gadgets, has raised a $90M Series E, bringing its total funding to $130M+ &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220622/p48#a220622p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
