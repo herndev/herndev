@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)
- - [New commercial, Mr. Malcolm, celebrates the global launch of the all-new PlayStation Plus](https://blog.playstation.com/2022/06/23/new-commercial-mr-malcolm-celebrates-the-global-launch-of-the-all-new-playstation-plus/)
- - [Today&#39;s Wordle answer guide #369: Thursday, June 23](https://www.pcgamer.com/wordle-today-june-23-369)<!-- GAME:END -->
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
+ - [Overwatch 2 is getting a guild system, apparently](https://www.pcgamer.com/overwatch-2-is-getting-a-guild-system-apparently)
+ - [Open your Overwatch loot boxes or Blizzard will do it for you](https://www.pcgamer.com/open-your-overwatch-loot-boxes-or-blizzard-will-do-it-for-you)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
