@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)
- - [Overwatch 2 is getting a guild system, apparently](https://www.pcgamer.com/overwatch-2-is-getting-a-guild-system-apparently)
- - [Open your Overwatch loot boxes or Blizzard will do it for you](https://www.pcgamer.com/open-your-overwatch-loot-boxes-or-blizzard-will-do-it-for-you)<!-- GAME:END -->
+ - [The questions we are really hoping Umbrella Academy answers in season 4](https://www.polygon.com/23179263/umbrella-academy-season-4-3-questions-explained)
+ - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)
+ - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
