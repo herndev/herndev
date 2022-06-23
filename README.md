@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will be Men](http://9gag.com/gag/adgMOEM)
- - ⏩ [Filming of a Train scene](http://9gag.com/gag/aYrBOEw)
+ - 💣 [Smol](http://9gag.com/gag/aVx8KqM)
+ - ⏩ [Just want to tell the younglings to watch this movie.](http://9gag.com/gag/arn0X45)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
