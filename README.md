@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify replaces its Concert Hub with a Live Events Feed, populated by Ticketmaster, AXS, DICE, Eventbrite, See Tickets, and other partners &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/220623/p17#a220623p17)
- - [Inscryption, the delightfully unsettling card-battling roguelike, comes to Mac and Linux](https://www.theverge.com/2022/6/23/23179901/inscryption-macos-linux-release-deck-builder-card-battler-roguelike)
- - [Apple MacBook Pro 13 &lpar;2022&rpar; review: new chip, old threads](https://www.theverge.com/23177674/apple-macbook-pro-m2-2022-review-price-specs-features)<!-- TECH:END -->
+ - [Samsung Australia owes $9.7 million for misleading waterproof claims](https://www.theverge.com/2022/6/23/23179875/samsung-australia-waterproof-ad-fine-galaxy)
+ - [Best MacBook Pro case for the 2021 14-inch and 16-inch models](https://appleinsider.com/inside/macbook-pro/best/best-macbook-pro-case-for-the-2021-14-inch-and-16-inch-models?utm_medium=rss)
+ - [Poll: Do you feel your smartphone runs too hot?](https://www.androidauthority.com/smartphone-too-hot-poll-3179614/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
