@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The questions we are really hoping Umbrella Academy answers in season 4](https://www.polygon.com/23179263/umbrella-academy-season-4-3-questions-explained)
- - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)
- - [Best wireless gaming mouse](https://www.pcgamer.com/best-wireless-gaming-mouse)<!-- GAME:END -->
+ - [Vampire Survivors’ New Character Is, Uh…A Tree That Doesn’t Move At All](https://kotaku.com/vampire-survivors-playable-tree-secret-peppino-beta-upd-1849096695)
+ - [Super Stardust Portable sneaks onto PlayStation Plus Premium](https://www.polygon.com/23179863/playstation-plus-premium-launch-line-up-super-stardust-portable)
+ - [No Man’s Sky coming to Nintendo Switch in October](https://www.polygon.com/23179237/no-mans-sky-nintendo-switch-release-date-ps5-physical-edition)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
