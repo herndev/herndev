@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto may be &quot;more bad than good&quot; but decentralization is its main use case, so the claim that &quot;there are still no use cases for crypto&quot; is not rational &lpar;https://twitter.com/evanjconrad/Evan ...&rpar;](http://www.techmeme.com/220623/p29#a220623p29)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
- - [You can now use your Chromebook to quickly access your phone’s pictures](https://www.androidauthority.com/chromebook-phone-pictures-3179764/)<!-- TECH:END -->
+ - [Epic monster battles will be at the heart of Final Fantasy XVI](https://www.theverge.com/2022/6/23/23180709/final-fantasy-16-eikons-naoki-yoshida-interview)
+ - [Acclaimed strategy game Into the Breach comes to mobile via Netflix](https://www.theverge.com/2022/6/23/23180572/into-the-breach-netflix-mobile-ios-android-advanced-edition)
+ - [Tesla partners with California utility on virtual power plant](https://www.theverge.com/2022/6/23/23180471/tesla-california-utility-virtual-power-plant-powerwall)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
