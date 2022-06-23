@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just dont](http://9gag.com/gag/adgMv0Q)
+ - 💣 [Rob Zombie is a true chad](http://9gag.com/gag/aXrzLn9)
  - ⏩ [Standards](http://9gag.com/gag/aNPXLzv)
  - 👉 [This is the right way. Period.](http://9gag.com/gag/avAV8QM)<!-- MEMES:END -->
 
