@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Intel&#39;s 13th Gen Raptor Lake CPUs will continue to support DDR4](https://www.pcgamer.com/intels-13th-gen-raptor-lake-cpus-will-continue-to-support-ddr4)
  - [Miners are dumping GPUs via livestreamed auctions](https://www.pcgamer.com/miners-are-dumping-gpus-via-livestreamed-auctions)
- - [Super Mario Odyssey Mod Adds 10-Player Multiplayer](https://kotaku.com/super-mario-odyssey-mod-switch-10-player-co-op-nintendo-1849083672)
- - [Evil Dead: The Game review](https://www.pcgamer.com/evil-dead-the-game-review)<!-- GAME:END -->
+ - [Super Mario Odyssey Mod Adds 10-Player Multiplayer](https://kotaku.com/super-mario-odyssey-mod-switch-10-player-co-op-nintendo-1849083672)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
