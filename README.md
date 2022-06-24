@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ adapts Edith Wharton&#39;s unfinished &#39;The Buccaneers&#39;](https://appleinsider.com/articles/22/06/24/apple-tv-adapts-edith-whartons-unfinished-the-buccaneers?utm_medium=rss)
- - [Nothing opens Phone 1 waitlist if you must have it at launch](https://www.androidauthority.com/nothing-phone-1-waitlist-3180100/)
- - [Microsoft prepares to forget about Windows 8.1 with end of support notifications](https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups)<!-- TECH:END -->
+ - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [The End of Klarna’s Easy Money Is Bad News for BNPL](https://www.wired.com/story/the-end-of-klarnas-easy-money-is-bad-news-for-bnpl/)
+ - [What Polar Bear Genomes May Reveal About Life in a Low-Ice Arctic](https://www.wired.com/story/what-polar-bear-genomes-may-reveal-about-life-in-a-low-ice-arctic/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
