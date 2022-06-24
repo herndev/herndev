@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring studio FromSoftware has a new game in the &#39;final stages&#39; of development](https://www.pcgamer.com/elden-ring-studio-fromsoftware-has-a-new-game-in-the-final-stages-of-development)
  - [Canceled Scarface 2 Game Footage Leaks On YouTube](https://kotaku.com/scarface-2-empire-unreleased-gameplay-footage-leak-gta-1849107489)
- - [The best milsim FPS just got its biggest update ever](https://www.pcgamer.com/the-best-milsim-fps-just-got-its-biggest-update-ever)
- - [Neon White Is The Best Puzzle-Platformer-Time-Attack-Card-Slinging-Dating-Sim Of The Year](https://kotaku.com/neon-white-fps-platformer-puzzle-speedrun-dating-sim-sw-1849107271)<!-- GAME:END -->
+ - [The best milsim FPS just got its biggest update ever](https://www.pcgamer.com/the-best-milsim-fps-just-got-its-biggest-update-ever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
