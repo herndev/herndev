@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We watched Westworld season 3 so you don’t have to](https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer)
- - [Halo Devs ‘Exploring’ Microtransactions For Master Chief Collection, An 8-Year-Old Game](https://kotaku.com/halo-master-chief-collection-microtransactions-343-indu-1849106566)
- - [Chris Pratt Ominously Declares His Mario Voice Is &#39;Unlike Anything&#39; From The Games](https://kotaku.com/chris-pratt-teases-mario-voice-nintendo-animated-film-i-1849106424)<!-- GAME:END -->
+ - [Elvis Presley’s best movies to watch at home](https://www.polygon.com/what-to-watch/23160373/elvis-presley-best-movies-list-watch-streaming)
+ - [Persona 5 Fanzine In Disarray After Lead Organizer Allegedly Embezzles $20,000](https://kotaku.com/persona-5-genshin-impact-joker-crow-atlus-akechi-goro-z-1849107195)
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
