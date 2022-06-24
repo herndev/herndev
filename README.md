@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Downloaded the new mod of fish-walking at gta](http://9gag.com/gag/azezGjK)
- - ⏩ [Countries in the world using MM/DD/YYYY Date form](http://9gag.com/gag/a11n0LR)
+ - 💣 [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
+ - ⏩ [Finally had money to upgrade my pc and it&#39;s still pretty low end. But a render like this used to take 2 hours &lpar;if it doesn&#39;t crash on me&rpar;.. now 20 mins and I couldn&#39;t be happier.](http://9gag.com/gag/aZrK8qV)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
