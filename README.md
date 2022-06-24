@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Im just as confused as the rat](http://9gag.com/gag/a71BnKA)
- - ⏩ [Table race](http://9gag.com/gag/aNPXOAv)
- - 👉 [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)<!-- MEMES:END -->
+ - ⏩ [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)
+ - 👉 [The world needs more people like him!](http://9gag.com/gag/a51A5AL)<!-- MEMES:END -->
 
 ---
 
