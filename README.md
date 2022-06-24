@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft CEO Takes $300,000 Pay Cut After Company’s Poor Performance](https://kotaku.com/ubisoft-ceo-yves-guillemot-assassin-s-creed-valhalla-pa-1849102248)
- - [I still don&#39;t know what the metaverse is, but it has a &#39;Standards Forum&#39; now](https://www.pcgamer.com/i-still-dont-know-what-the-metaverse-is-but-it-has-a-standards-forum-now)
- - [Warzone Season 4 players agree: great new map, jury&#39;s still out on balance changes](https://www.pcgamer.com/warzone-season-4-players-agree-great-new-map-jurys-still-out-on-balance-changes)<!-- GAME:END -->
+ - [Goodbye Zachtronics, Developers Of Very Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
+ - [$15,000 Later, Diablo Immortal Player Finally Has His Legendary Gem](https://kotaku.com/diablo-immortal-gacha-loot-microtransaction-spending-qu-1849102569)
+ - [Ubisoft CEO Takes $300,000 Pay Cut After Company’s Poor Performance](https://kotaku.com/ubisoft-ceo-yves-guillemot-assassin-s-creed-valhalla-pa-1849102248)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
