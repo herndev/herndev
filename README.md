@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Back to School promotion with Gift Cards in US and Canada](https://appleinsider.com/articles/22/06/24/apple-launches-back-to-school-promotion-with-gift-cards-in-us-and-canada?utm_medium=rss)
- - [Searching for the dankest iPod knockoffs of the mid-2000s](https://www.theverge.com/23173070/dankpods-patreon-ipod-youtube-hit-mp3-player-history)
- - [Zendesk to be acquired by an investor group in an all-cash deal valuing the company at ~$10.2B and will go private once the deal closes; stock is up 30%+ &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220624/p5#a220624p5)<!-- TECH:END -->
+ - [Axie Infinity developer Sky Mavis says it will reimburse a total of $216.5M in USDC and ethereum on June 28 to the victims of the $625M Ronin bridge hack &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220624/p7#a220624p7)
+ - [The NHL is getting into NFTs, because that’s just what sports leagues do now](https://www.theverge.com/2022/6/24/23181441/nhl-nfts-sweet-digital-collectibles)
+ - [Zomato acquires instant delivery service Blinkit, formerly Grofers, for $568.1M; Blinkit raised about $700M in total and was valued at $1B+ in 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220624/p6#a220624p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
