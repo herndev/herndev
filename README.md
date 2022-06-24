@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5G gains June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
- - [Facebook has emerged in Mexico City as a low-cost alternative to food delivery services like Uber Eats and Rappi, as restaurateurs seek to avoid high fees &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220624/p1#a220624p1)
- - [&#39;Thor: Love and Thunder&#39; Early Reactions -- Natalie Portman Steals the Show     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-early-reactions-natalie-portman-steals-the-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Asus ROG Phone 6 images, specs appear online: Here’s what we know about it](https://www.androidauthority.com/asus-rog-phone-6-design-3180034/)
+ - [&#39;Westworld&#39; Season 4: What to Remember Before Watching     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-what-to-remember-before-watching/#ftag=CAD590a51e)
+ - [Samsung Galaxy Z Flip 5G gains June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
