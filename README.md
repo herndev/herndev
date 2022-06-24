@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
- - ⏩ [How some countries fight their wars](http://9gag.com/gag/ay9AWzV)
+ - 💣 [I think it has a malfunction, but it works tho.](http://9gag.com/gag/aRrGzDq)
+ - ⏩ [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
