@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elvis Presley’s best movies to watch at home](https://www.polygon.com/what-to-watch/23160373/elvis-presley-best-movies-list-watch-streaming)
- - [Persona 5 Fanzine In Disarray After Lead Organizer Allegedly Embezzles $20,000](https://kotaku.com/persona-5-genshin-impact-joker-crow-atlus-akechi-goro-z-1849107195)
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)<!-- GAME:END -->
+ - [Canceled Scarface 2 Game Footage Leaks On YouTube](https://kotaku.com/scarface-2-empire-unreleased-gameplay-footage-leak-gta-1849107489)
+ - [The best milsim FPS just got its biggest update ever](https://www.pcgamer.com/the-best-milsim-fps-just-got-its-biggest-update-ever)
+ - [Neon White Is The Best Puzzle-Platformer-Time-Attack-Card-Slinging-Dating-Sim Of The Year](https://kotaku.com/neon-white-fps-platformer-puzzle-speedrun-dating-sim-sw-1849107271)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
