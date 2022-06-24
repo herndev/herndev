@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [No I identify as boot which will be in your mouth](http://9gag.com/gag/aWgAb2d)
- - ⏩ [Is it true?](http://9gag.com/gag/avAVR1d)
+ - ⏩ [Rich Rich](http://9gag.com/gag/a21VDXE)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
