@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US judge rules that Pinterest must face a suit by digital marketing strategist Christine Martinez, who says she co-created Pinterest but was never compensated &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/220624/p18#a220624p18)
- - [T-Mobile is selling your app usage data to advertisers — here’s how to opt out](https://www.theverge.com/2022/6/24/23181851/t-mobile-browsing-data-app-insights-marketing-opt-out)
- - [Apple&#39;s 2022 Back to School promo is here, but there are better deals](https://appleinsider.com/articles/22/06/24/apples-2022-back-to-school-promo-is-here-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+ - [Apple won&#39;t challenge union vote at Maryland retail location](https://appleinsider.com/articles/22/06/24/apple-wont-challenge-union-vote-at-maryland-retail-location?utm_medium=rss)
+ - [America’s Armed Forces Are Weaker Without Roe](https://www.wired.com/story/america-armed-forces-roe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
