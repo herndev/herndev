@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OMFG face is priceless](http://9gag.com/gag/ay9AQMb)
- - ⏩ [Table race](http://9gag.com/gag/aNPXOAv)
- - 👉 [Nature is healing.](http://9gag.com/gag/aXrzWGP)<!-- MEMES:END -->
+ - 💣 [He right tho](http://9gag.com/gag/aog6YY2)
+ - ⏩ [Nature is healing.](http://9gag.com/gag/aXrzWGP)
+ - 👉 [Table race](http://9gag.com/gag/aNPXOAv)<!-- MEMES:END -->
 
 ---
 
