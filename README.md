@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AI: The Somnium Files - Nirvana Initiative is the best detective story this year](https://www.polygon.com/reviews/23180095/ai-the-somnium-files-nirvana-initiative-review-puzzle-games-zero-escape)
- - [The latest Windows 11 update fixes game crash woes for some users](https://www.pcgamer.com/the-latest-windows-11-update-fixes-game-crash-woes-for-some-users)
- - [Fruits Basket: Prelude goes full soap opera, for better or worse](https://www.polygon.com/23178983/fruits-basket-prelude-review)<!-- GAME:END -->
+ - [We watched Westworld season 3 so you don’t have to](https://www.polygon.com/23180079/what-happened-in-westworld-season-3-explainer)
+ - [Halo Devs ‘Exploring’ Microtransactions For Master Chief Collection, An 8-Year-Old Game](https://kotaku.com/halo-master-chief-collection-microtransactions-343-indu-1849106566)
+ - [Chris Pratt Ominously Declares His Mario Voice Is &#39;Unlike Anything&#39; From The Games](https://kotaku.com/chris-pratt-teases-mario-voice-nintendo-animated-film-i-1849106424)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
