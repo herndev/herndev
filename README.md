@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will &#39;likely release&#39; its mixed-reality headset in January 2023, Kuo says](https://appleinsider.com/articles/22/06/24/apple-will-likely-release-its-mixed-reality-headset-in-january-2023-kuo-says?utm_medium=rss)
- - [Jake Paul vs. Tommy Fury: Fight Date, How to Watch Online, Everything to Know     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-fight-date-how-to-watch-online-everything-to-know/#ftag=CAD590a51e)
- - [First M2 MacBook Pro orders starting to arrive in Australia, New Zealand](https://appleinsider.com/articles/22/06/24/first-m2-macbook-pro-orders-starting-to-arrive-in-australia-new-zealand?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5G gains June 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Facebook has emerged in Mexico City as a low-cost alternative to food delivery services like Uber Eats and Rappi, as restaurateurs seek to avoid high fees &lpar;Leo Schwartz/Rest of World&rpar;](http://www.techmeme.com/220624/p1#a220624p1)
+ - [&#39;Thor: Love and Thunder&#39; Early Reactions -- Natalie Portman Steals the Show     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-early-reactions-natalie-portman-steals-the-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
