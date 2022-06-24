@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ant city](http://9gag.com/gag/arn03DK)
- - ⏩ [SpaceX Straight-up Fires Woke Activist Employees](http://9gag.com/gag/a51A6yr)
+ - 💣 [Downloaded the new mod of fish-walking at gta](http://9gag.com/gag/azezGjK)
+ - ⏩ [Countries in the world using MM/DD/YYYY Date form](http://9gag.com/gag/a11n0LR)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
