@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How some countries fight their wars](http://9gag.com/gag/ay9AWzV)
- - ⏩ [*sad noises*](http://9gag.com/gag/aNPXB3K)
+ - 💣 [Bless my friend... He tried](http://9gag.com/gag/aZrKE69)
+ - ⏩ [And a full tank of fuel!](http://9gag.com/gag/aog64om)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
