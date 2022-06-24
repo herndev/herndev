@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Brand-new Newfound Courage Remake Uses Combat to Tell a Story](https://news.xbox.com/en-us/2022/06/24/how-the-brand-new-newfound-courage-remake-uses-combat-to-tell-a-story/)
- - [Sonic Origins developer ‘very unhappy’ with finished product, blames Sega](https://www.polygon.com/23181738/sonic-origins-bugs-glitches-apology-sega-headcannon)
- - [Vertagear SL5000 gaming chair](https://www.pcgamer.com/vertagear-sl5000-gaming-chair)<!-- GAME:END -->
+ - [AI: The Somnium Files - Nirvana Initiative is the best detective story this year](https://www.polygon.com/reviews/23180095/ai-the-somnium-files-nirvana-initiative-review-puzzle-games-zero-escape)
+ - [The latest Windows 11 update fixes game crash woes for some users](https://www.pcgamer.com/the-latest-windows-11-update-fixes-game-crash-woes-for-some-users)
+ - [Fruits Basket: Prelude goes full soap opera, for better or worse](https://www.polygon.com/23178983/fruits-basket-prelude-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
