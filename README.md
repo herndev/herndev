@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We feel you girl](http://9gag.com/gag/aRrG2A5)
- - ⏩ [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
- - 👉 [Table race](http://9gag.com/gag/aNPXOAv)<!-- MEMES:END -->
+ - 💣 [Massive respect for the The Boys production team. In this era of getting offended by anything and everything, they are brave enough to break the boundaries and explore beyond while making fun of both sides. Not everything has to be family friendly.](http://9gag.com/gag/azezZMx)
+ - ⏩ [Table race](http://9gag.com/gag/aNPXOAv)
+ - 👉 [Friendly reminder that this exists](http://9gag.com/gag/aGzq7G6)<!-- MEMES:END -->
 
 ---
 
