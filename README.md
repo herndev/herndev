@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Apple will &#39;likely release&#39; its mixed-reality headset in January 2023, Kuo says](https://appleinsider.com/articles/22/06/24/apple-will-likely-release-its-mixed-reality-headset-in-january-2023-kuo-says?utm_medium=rss)
- - [First M2 MacBook Pro orders starting to arrive in Australia, New Zealand](https://appleinsider.com/articles/22/06/24/first-m2-macbook-pro-orders-starting-to-arrive-in-australia-new-zealand?utm_medium=rss)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jake Paul vs. Tommy Fury: Fight Date, How to Watch Online, Everything to Know     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-fight-date-how-to-watch-online-everything-to-know/#ftag=CAD590a51e)
+ - [First M2 MacBook Pro orders starting to arrive in Australia, New Zealand](https://appleinsider.com/articles/22/06/24/first-m2-macbook-pro-orders-starting-to-arrive-in-australia-new-zealand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
