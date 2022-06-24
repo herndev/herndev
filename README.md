@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who does that](http://9gag.com/gag/aegEVwp)
- - ⏩ [That&#39;s why we use Mace](http://9gag.com/gag/arn0xvB)
+ - 💣 [That&#39;s why we use Mace](http://9gag.com/gag/arn0xvB)
+ - ⏩ [Done!](http://9gag.com/gag/a31D8p7)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
