@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elvis is the Top Gun: Maverick of music biopics](https://www.polygon.com/reviews/23180048/elvis-review-baz-luhrmann-tom-hanks-austin-butler)
- - [5 Very Queer Games On Steam To Close Out Your Pride Month](https://kotaku.com/best-queer-games-steam-pride-month-stardew-valley-1849104427)
- - [Pokémon GO Seems Set On Ruining Every Improvement From The Pandemic](https://kotaku.com/pokemon-go-niantic-mobile-remote-raid-pass-legendary-ra-1849104441)<!-- GAME:END -->
+ - [Blade Runner Enhanced Edition is a disaster, not a remaster](https://www.pcgamer.com/blade-runner-enhanced-edition-is-a-disaster-not-a-remaster)
+ - [Best gaming laptops in 2022](https://www.pcgamer.com/best-gaming-laptop)
+ - [Halo: The Master Chief Collection might get ‘Spartan Points’ microtransactions](https://www.polygon.com/23181566/halo-the-master-chief-collection-spartan-point-microtransaction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
