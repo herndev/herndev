@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft prepares to forget about Windows 8.1 with end of support notifications](https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups)
- - [Coinbase Derivatives Exchange is launching its first crypto derivatives product, Nano Bitcoin futures &lpar;BIT&rpar;, at 1/100th of the size of a Bitcoin, on June 27 &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220624/p2#a220624p2)
- - [Apple’s AR / VR headset could release in January, analyst predicts](https://www.theverge.com/2022/6/24/23181334/apples-ar-vr-headset-january-2023-ming-chi-kuo-release-date-prediction)<!-- TECH:END -->
+ - [Apple TV+ adapts Edith Wharton&#39;s unfinished &#39;The Buccaneers&#39;](https://appleinsider.com/articles/22/06/24/apple-tv-adapts-edith-whartons-unfinished-the-buccaneers?utm_medium=rss)
+ - [Nothing opens Phone 1 waitlist if you must have it at launch](https://www.androidauthority.com/nothing-phone-1-waitlist-3180100/)
+ - [Microsoft prepares to forget about Windows 8.1 with end of support notifications](https://www.theverge.com/2022/6/24/23181347/microsoft-windows-8-1-end-of-support-notifications-pop-ups)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
