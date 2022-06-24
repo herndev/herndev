@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Twitter gave Elon Musk more data, including real-time API access, after he complained last week that the large historical data he received wasn&#39;t enough &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/220624/p12#a220624p12)
- - [The Mars Express spacecraft is finally getting a Windows 98 upgrade](https://www.theverge.com/2022/6/24/23181715/mars-express-marsis-windows-98-upgrade-esa)
- - [Games Done Quick’s summer marathon kicks off Sunday, and there’s a lot to look forward to](https://www.theverge.com/2022/6/24/23181727/summer-games-done-quick-sgdq-2022-how-to-watch)<!-- TECH:END -->
+ - [Bitcoin’s energy use drops following price plunge](https://www.theverge.com/2022/6/24/23181683/bitcoin-ethereum-energy-use-drops-price-plunge)
+ - [Tapcheck, an earned wage access service that connects with payroll systems of employers like McDonald&#39;s to calculate employee earnings, raised a $20M Series A &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p13#a220624p13)
+ - [How to reuse an iPad as a remote On Air light](https://appleinsider.com/articles/22/06/24/how-to-reuse-an-ipad-as-a-remote-on-air-light?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
