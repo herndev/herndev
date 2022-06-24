@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Turns out a simple Steam Deck mod means you can install a larger NVMe SSD](https://www.pcgamer.com/turns-out-a-simple-steam-deck-mod-means-you-can-install-a-larger-nvme-ssd)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [The horror adaptation The Black Phone has the same problem as the It movies](https://www.polygon.com/reviews/23180515/the-black-phone-review-joe-hill)<!-- GAME:END -->
+ - [Let’s Use Dall-E Mini To Conjure Up Half-Life 3 And Other Sequels We’ll Never Get](https://kotaku.com/dall-e-mini-sequels-half-life-agent-titanfall-mass-effe-1849101326)
+ - [Free RPG Day is back — grab these 5 great games, including one from Critical Role](https://www.polygon.com/tabletop-games/23180137/free-rpg-day-best-games-2022-critical-role)
+ - [Turtle Power! A behind-the-scenes look at TMNT: Shredder’s Revenge soundtrack](https://blog.playstation.com/2022/06/24/turtle-power-a-behind-the-scenes-look-at-tmnt-shredders-revenge-soundtrack/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
