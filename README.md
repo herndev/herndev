@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goodbye Zachtronics, Developers Of Very Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)
- - [$15,000 Later, Diablo Immortal Player Finally Has His Legendary Gem](https://kotaku.com/diablo-immortal-gacha-loot-microtransaction-spending-qu-1849102569)
- - [Ubisoft CEO Takes $300,000 Pay Cut After Company’s Poor Performance](https://kotaku.com/ubisoft-ceo-yves-guillemot-assassin-s-creed-valhalla-pa-1849102248)<!-- GAME:END -->
+ - [AMD 7000 series V-Cache CPUs to fight an Intel 13th Gen CPU that could hit 6GHz](https://www.pcgamer.com/amd-7000-series-v-cache-cpus-to-fight-an-intel-13th-gen-cpu-that-could-hit-6ghz)
+ - [Oh Yeah, Into The Breach Is Back, Baby](https://kotaku.com/into-the-breach-mobile-ios-android-netflix-advanced-edi-1849103038)
+ - [Goodbye Zachtronics, Developers Of Very Cool Video Games](https://kotaku.com/zachtronics-farewell-goodbye-closing-eliza-last-call-bb-1849096767)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
