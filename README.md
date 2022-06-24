@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to ensure Apple Health cycle tracking data stays private](https://appleinsider.com/articles/22/06/24/how-to-ensure-apple-health-cycle-tracking-data-stays-private?utm_medium=rss)
- - [Samsung’s monstrous 55-inch Odyssey Ark monitor could go on sale in August](https://www.theverge.com/2022/6/24/23182030/samsung-55-inch-odyssey-ark-monitor-august-launch-rumors-ces)
- - [How TikTok is cashing in on its exploding popularity; source: TikTok plans to grow its e-commerce gross merchandise volume to $2B in 2022 and $23B in 2023 &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220624/p15#a220624p15)<!-- TECH:END -->
+ - [US judge rules that Pinterest must face a suit by digital marketing strategist Christine Martinez, who says she co-created Pinterest but was never compensated &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/220624/p18#a220624p18)
+ - [T-Mobile is selling your app usage data to advertisers — here’s how to opt out](https://www.theverge.com/2022/6/24/23181851/t-mobile-browsing-data-app-insights-marketing-opt-out)
+ - [Apple&#39;s 2022 Back to School promo is here, but there are better deals](https://appleinsider.com/articles/22/06/24/apples-2022-back-to-school-promo-is-here-but-there-are-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
