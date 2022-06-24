@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring studio FromSoftware has a new game in the &#39;final stages&#39; of development](https://www.pcgamer.com/elden-ring-studio-fromsoftware-has-a-new-game-in-the-final-stages-of-development)
- - [Canceled Scarface 2 Game Footage Leaks On YouTube](https://kotaku.com/scarface-2-empire-unreleased-gameplay-footage-leak-gta-1849107489)
- - [The best milsim FPS just got its biggest update ever](https://www.pcgamer.com/the-best-milsim-fps-just-got-its-biggest-update-ever)<!-- GAME:END -->
+ - [This mod turns Stellaris into the Mass Effect strategy game you&#39;ve dreamed of](https://www.pcgamer.com/this-mod-turns-stellaris-into-the-mass-effect-strategy-game-youve-dreamed-of)
+ - [Bungie, Ubisoft, Bethesda, EA, and others speak out in support of abortion rights in the US](https://www.pcgamer.com/bungie-ubisoft-sony-studios-and-others-speak-out-in-support-of-abortion-rights-in-the-us)
+ - [Doctor Strange in the Multiverse of Madness, Crimes of the Future, and more new movies you can watch at home this weekend](https://www.polygon.com/23176954/new-movies-watch-doctor-strange-2-netflix-man-from-toronto-multiverse-of-madness-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
