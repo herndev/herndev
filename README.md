@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Young writers, send us your pitches](https://www.theverge.com/2022/6/24/23178786/verge-next-gen-essays-call-for-pitches-young-writers)
- - [Legendary designer Yu Suzuki returns with a wild arcade shooter](https://www.theverge.com/2022/6/24/23180278/air-twister-apple-arcade-yu-suzuki-interview)
- - [Paint Your Door This Color and Earn Thousands More When You Sell Your House     - CNET](https://www.cnet.com/personal-finance/mortgages/paint-your-door-this-color-and-earn-thousands-more-when-you-sell-your-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple launches Back to School promotion with Gift Cards in US and Canada](https://appleinsider.com/articles/22/06/24/apple-launches-back-to-school-promotion-with-gift-cards-in-us-and-canada?utm_medium=rss)
+ - [Searching for the dankest iPod knockoffs of the mid-2000s](https://www.theverge.com/23173070/dankpods-patreon-ipod-youtube-hit-mp3-player-history)
+ - [Zendesk to be acquired by an investor group in an all-cash deal valuing the company at ~$10.2B and will go private once the deal closes; stock is up 30%+ &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220624/p5#a220624p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
