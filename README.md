@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to replace your computer with an iPad](https://appleinsider.com/inside/ipad-pro/tips/how-to-replace-your-computer-with-an-ipad?utm_medium=rss)
- - [Binance launches Binance Institutional, for VIP and institutional investors to trade digital assets; the service is not available to customers of Binance.US &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220624/p9#a220624p9)
- - [FTC asked to investigate Apple &amp; Google over selling personal data](https://appleinsider.com/articles/22/06/24/ftc-asked-to-investigate-apple-google-over-selling-personal-data?utm_medium=rss)<!-- TECH:END -->
+ - [Source: in February, Meta started an official internal process to shut down CrowdTangle, but paused the plan as the EU&#39;s Digital Services Act gained traction &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/220624/p11#a220624p11)
+ - [How a YouTube Sensation Became a Movie—12 Years Later](https://www.wired.com/story/marcel-the-shell-with-shoes-on-movie/)
+ - [Up Against It Explores Life in the Asteroid Belt](https://www.wired.com/2022/06/geeksguide-up-against-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
