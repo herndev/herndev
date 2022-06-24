@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s Use Dall-E Mini To Conjure Up Half-Life 3 And Other Sequels We’ll Never Get](https://kotaku.com/dall-e-mini-sequels-half-life-agent-titanfall-mass-effe-1849101326)
- - [Free RPG Day is back — grab these 5 great games, including one from Critical Role](https://www.polygon.com/tabletop-games/23180137/free-rpg-day-best-games-2022-critical-role)
- - [Turtle Power! A behind-the-scenes look at TMNT: Shredder’s Revenge soundtrack](https://blog.playstation.com/2022/06/24/turtle-power-a-behind-the-scenes-look-at-tmnt-shredders-revenge-soundtrack/)<!-- GAME:END -->
+ - [Elvis is the Top Gun: Maverick of music biopics](https://www.polygon.com/reviews/23180048/elvis-review-baz-luhrmann-tom-hanks-austin-butler)
+ - [5 Very Queer Games On Steam To Close Out Your Pride Month](https://kotaku.com/best-queer-games-steam-pride-month-stardew-valley-1849104427)
+ - [Pokémon GO Seems Set On Ruining Every Improvement From The Pandemic](https://kotaku.com/pokemon-go-niantic-mobile-remote-raid-pass-legendary-ra-1849104441)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
