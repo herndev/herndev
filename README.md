@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [How to get a girlfriend 101](http://9gag.com/gag/aVx8mqd)
- - ⏩ [Finally had money to upgrade my pc and it&#39;s still pretty low end. But a render like this used to take 2 hours &lpar;if it doesn&#39;t crash on me&rpar;.. now 20 mins and I couldn&#39;t be happier.](http://9gag.com/gag/aZrK8qV)
+ - ⏩ [How some countries fight their wars](http://9gag.com/gag/ay9AWzV)
  - 👉 [She&#39;s out of your league.](http://9gag.com/gag/a91ezem)<!-- MEMES:END -->
 
 ---
