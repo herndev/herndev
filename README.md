@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ESA is finally updating Mars Express Windows 98-based software](https://www.pcgamer.com/esa-is-finally-updating-mars-express-windows-98-based-software)
- - [Today&#39;s Wordle answer #370: Friday, June 24](https://www.pcgamer.com/wordle-today-june-24-370-answer-hint)
- - [AMD 7000 series V-Cache CPUs to fight an Intel 13th Gen CPU that could hit 6GHz](https://www.pcgamer.com/amd-7000-series-v-cache-cpus-to-fight-an-intel-13th-gen-cpu-that-could-hit-6ghz)<!-- GAME:END -->
+ - [Turns out a simple Steam Deck mod means you can install a larger NVMe SSD](https://www.pcgamer.com/turns-out-a-simple-steam-deck-mod-means-you-can-install-a-larger-nvme-ssd)
+ - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
+ - [The horror adaptation The Black Phone has the same problem as the It movies](https://www.polygon.com/reviews/23180515/the-black-phone-review-joe-hill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
