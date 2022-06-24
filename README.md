@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: in February, Meta started an official internal process to shut down CrowdTangle, but paused the plan as the EU&#39;s Digital Services Act gained traction &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/220624/p11#a220624p11)
- - [How a YouTube Sensation Became a Movie—12 Years Later](https://www.wired.com/story/marcel-the-shell-with-shoes-on-movie/)
- - [Up Against It Explores Life in the Asteroid Belt](https://www.wired.com/2022/06/geeksguide-up-against-it/)<!-- TECH:END -->
+ - [Report: Twitter gave Elon Musk more data, including real-time API access, after he complained last week that the large historical data he received wasn&#39;t enough &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/220624/p12#a220624p12)
+ - [The Mars Express spacecraft is finally getting a Windows 98 upgrade](https://www.theverge.com/2022/6/24/23181715/mars-express-marsis-windows-98-upgrade-esa)
+ - [Games Done Quick’s summer marathon kicks off Sunday, and there’s a lot to look forward to](https://www.theverge.com/2022/6/24/23181727/summer-games-done-quick-sgdq-2022-how-to-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
