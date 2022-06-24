@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Axie Infinity developer Sky Mavis says it will reimburse a total of $216.5M in USDC and ethereum on June 28 to the victims of the $625M Ronin bridge hack &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/220624/p7#a220624p7)
- - [The NHL is getting into NFTs, because that’s just what sports leagues do now](https://www.theverge.com/2022/6/24/23181441/nhl-nfts-sweet-digital-collectibles)
- - [Zomato acquires instant delivery service Blinkit, formerly Grofers, for $568.1M; Blinkit raised about $700M in total and was valued at $1B+ in 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220624/p6#a220624p6)<!-- TECH:END -->
+ - [How to replace your computer with an iPad](https://appleinsider.com/inside/ipad-pro/tips/how-to-replace-your-computer-with-an-ipad?utm_medium=rss)
+ - [Binance launches Binance Institutional, for VIP and institutional investors to trade digital assets; the service is not available to customers of Binance.US &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220624/p9#a220624p9)
+ - [FTC asked to investigate Apple &amp; Google over selling personal data](https://appleinsider.com/articles/22/06/24/ftc-asked-to-investigate-apple-google-over-selling-personal-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
