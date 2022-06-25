@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)
  - [Berlin-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, has raised a $50M Series B led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p22#a220624p22)
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
- - [&#39;Doctor Strange 2&#39;: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
