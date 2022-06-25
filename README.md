@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This. All of this. Every word.](http://9gag.com/gag/a11nx3G)
+ - 💣 [Cheese! Don&#39;t Move!](http://9gag.com/gag/ay9AVOM)
  - ⏩ [Are U okay?](http://9gag.com/gag/a51AvQN)
  - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
