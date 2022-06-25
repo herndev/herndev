@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing reminds us that smartphone design innovation isn’t dead](https://www.androidauthority.com/nothing-phone-1-design-innovation-3180006/)
- - [The Cowboy 4 Ebike Is the Perfect Steed for Rookie Riders](https://www.wired.com/review/cowboy-4/)
- - [A Warming Climate Takes a Toll on the Vanishing Rio Grande](https://www.wired.com/story/a-warming-climate-takes-a-toll-on-the-vanishing-rio-grande/)<!-- TECH:END -->
+ - [The beginner’s guide to smart light bulbs](https://www.androidauthority.com/smart-lights-guide-3169766/)
+ - [Juul Survives a Blow From the FDA—for Now](https://www.wired.com/story/fda-has-dealt-juul-a-crushing-blow/)
+ - [The Post-Roe Privacy Nightmare Has Arrived](https://www.wired.com/story/post-roe-privacy-russia-ukraine-hacks/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
