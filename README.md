@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not expected this\u2026](http://9gag.com/gag/azezYGx)
- - ⏩ [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)
- - 👉 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)<!-- MEMES:END -->
+ - 💣 [Im happy to inform you gentlemen, that yesterday i got my forklift certificate](http://9gag.com/gag/aVx8Vm2)
+ - ⏩ [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)
+ - 👉 [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)<!-- MEMES:END -->
 
 ---
 
