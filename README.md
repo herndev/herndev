@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)
- - [Should Apple M2 iPads worry the Pixel Tablet crowd?](https://www.androidauthority.com/m2-ipad-vs-pixel-tablet-3174164/)
- - [Apple supports out-of-state medical after Roe vs. Wade overturn](https://appleinsider.com/articles/22/06/25/apple-supports-out-of-state-medical-care-supreme-court-overturned-roe-vs-wade?utm_medium=rss)<!-- TECH:END -->
+ - [13-inch MacBook Pro with M2 processor review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)
+ - [Apple Music’s student plan is getting more expensive in the US, UK, and Canada](https://www.theverge.com/2022/6/25/23182887/apple-music-student-plan-more-expensive-us-uk-canada)
+ - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
