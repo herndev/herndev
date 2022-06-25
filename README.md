@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Netflix in July 2022: Stranger Things, The Gray Man, and more](https://www.androidauthority.com/new-on-netflix-939257/)
- - [Elliptic: US regulators have collected more than $3.3B in monetary penalties from crypto-related businesses since 2009, including $179.7M so far in 2022 &lpar;Sam Venis/The Block&rpar;](http://www.techmeme.com/220624/p20#a220624p20)
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)<!-- TECH:END -->
+ - [Berlin-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, has raised a $50M Series B led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p22#a220624p22)
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
+ - [Federal appeals court pauses FDA ban on Juul’s e-cigarettes](https://www.theverge.com/2022/6/24/23182384/fda-juul-ban-pause-dc-appeals-court-emergency-immediate-stay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
