@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)
- - [13-inch MacBook Pro with M2 review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)
- - [Asus ROG Phone 5/5S problems and how to fix them](https://www.androidauthority.com/asus-rog-phone-5-5s-problems-fixes-3179927/)<!-- TECH:END -->
+ - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
+ - [Sonic Origins Review: Classic Game Collection Put Me in a Better Mood     - CNET](https://www.cnet.com/tech/gaming/sonic-origins-review-classic-game-collection-put-me-in-a-better-mood/#ftag=CAD590a51e)
+ - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
