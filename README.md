@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13-inch MacBook Pro with M2 processor review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)
- - [Apple Music’s student plan is getting more expensive in the US, UK, and Canada](https://www.theverge.com/2022/6/25/23182887/apple-music-student-plan-more-expensive-us-uk-canada)
- - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)<!-- TECH:END -->
+ - [13-inch MacBook Pro with M2 review: Incremental upgrade and unexciting](https://appleinsider.com/articles/22/06/25/13-inch-macbook-pro-with-m2-processor-review-incremental-upgrade-and-unexciting?utm_medium=rss)
+ - [Asus ROG Phone 5/5S problems and how to fix them](https://www.androidauthority.com/asus-rog-phone-5-5s-problems-fixes-3179927/)
+ - [How to download Xcode faster](https://appleinsider.com/inside/xcode/tips/how-to-download-xcode-faster?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
