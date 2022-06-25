@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Meta told staff not to discuss the Roe V. Wade ruling on wide-reaching internal channels, citing a company memo issued after the May draft opinion leak &lpar;New York Times&rpar;](http://www.techmeme.com/220625/p4#a220625p4)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-438-3179757/)
- - [Intel delays ceremony for Ohio factory over lack of government funding](https://www.theverge.com/2022/6/25/23182727/intel-groundbreaking-ceremony-delayed-government-funding-chips-act)<!-- TECH:END -->
+ - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)
+ - [Should Apple M2 iPads worry the Pixel Tablet crowd?](https://www.androidauthority.com/m2-ipad-vs-pixel-tablet-3174164/)
+ - [Apple supports out-of-state medical after Roe vs. Wade overturn](https://appleinsider.com/articles/22/06/25/apple-supports-out-of-state-medical-care-supreme-court-overturned-roe-vs-wade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
