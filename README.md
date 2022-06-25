@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
- - [Sonic Origins Review: Classic Game Collection Put Me in a Better Mood     - CNET](https://www.cnet.com/tech/gaming/sonic-origins-review-classic-game-collection-put-me-in-a-better-mood/#ftag=CAD590a51e)
- - [Here’s Google’s letter saying employees can relocate to states with abortion rights](https://www.theverge.com/2022/6/24/23182288/google-letter-email-employees-roe-v-wade-decision)<!-- TECH:END -->
+ - [Michael Saylor, whose company MicroStrategy holds bitcoin now worth ~$2.7B, says bitcoin &quot;is still at an early stage in its development and poorly understood&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220625/p6#a220625p6)
+ - [Google says attackers worked with ISPs to deploy Hermit spyware on Android and iOS](https://www.theverge.com/2022/6/25/23183046/google-hermit-spyware-isp-android-ios)
+ - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
