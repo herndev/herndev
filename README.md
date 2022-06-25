@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)
- - ⏩ [Next level woke shit](http://9gag.com/gag/aM46X3W)
- - 👉 [Not expected this\u2026](http://9gag.com/gag/azezYGx)<!-- MEMES:END -->
+ - 💣 [Not expected this\u2026](http://9gag.com/gag/azezYGx)
+ - ⏩ [Sleepy Joe accidently faces his cheat sheet towards camera. They forgot to add instructions `Remember to inhale and exhale to stay alive.`](http://9gag.com/gag/aBnMo0D)
+ - 👉 [Pairs the city of garbage](http://9gag.com/gag/adgMoEB)<!-- MEMES:END -->
 
 ---
 
