@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just saying...](http://9gag.com/gag/aYrBm07)
- - ⏩ [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)
- - 👉 [Holding the camera is 100% top priority here](http://9gag.com/gag/a91eBzm)<!-- MEMES:END -->
+ - 💣 [This five year old performing a Mozart piece at a music competition, all while being unable to read sheet music](http://9gag.com/gag/avAVmMZ)
+ - ⏩ [Australians are built different](http://9gag.com/gag/aWgAdeK)
+ - 👉 [Homer proves that God doesn&#39;t exist](http://9gag.com/gag/aYrBdRm)<!-- MEMES:END -->
 
 ---
 
