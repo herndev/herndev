@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [What a loyal soul](http://9gag.com/gag/aBnMoXO)
- - ⏩ [The famous Evil dance of tobey maguire a.k.a spiderman, everyones talking about.](http://9gag.com/gag/a31DnVe)
- - 👉 [The world needs more people like him!](http://9gag.com/gag/a51A5AL)<!-- MEMES:END -->
+ - ⏩ [RICH GET RICHER](http://9gag.com/gag/aPZ0p4B)
+ - 👉 [Friendly reminder that this exists](http://9gag.com/gag/aGzq7G6)<!-- MEMES:END -->
 
 ---
 
