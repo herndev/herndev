@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how oyster can clean up polluted water. Both tanks are full of water from the same source, but the tank on left has oysters.](http://9gag.com/gag/aggbdRg)
- - ⏩ [Simple](http://9gag.com/gag/arn0dzX)
+ - 💣 [There I fixed it for ya](http://9gag.com/gag/aBnMvAZ)
+ - ⏩ [Carbon vitamins](http://9gag.com/gag/aNPX2o6)
  - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 ---
