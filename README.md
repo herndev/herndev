@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #371: Saturday, June 25](https://www.pcgamer.com/wordle-today-june-25-371-answer-hint)
  - [This Japanese open air, all-in-one PC case is as impractical as it is cool](https://www.pcgamer.com/this-japanese-open-air-all-in-one-pc-case-is-as-impractical-as-it-is-cool)
- - [This mod turns Stellaris into the Mass Effect strategy game you&#39;ve dreamed of](https://www.pcgamer.com/this-mod-turns-stellaris-into-the-mass-effect-strategy-game-youve-dreamed-of)
- - [Bungie, Ubisoft, Bethesda, EA, and others speak out in support of abortion rights in the US](https://www.pcgamer.com/bungie-ubisoft-sony-studios-and-others-speak-out-in-support-of-abortion-rights-in-the-us)<!-- GAME:END -->
+ - [This mod turns Stellaris into the Mass Effect strategy game you&#39;ve dreamed of](https://www.pcgamer.com/this-mod-turns-stellaris-into-the-mass-effect-strategy-game-youve-dreamed-of)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
