@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im just as confused as the rat](http://9gag.com/gag/a71BnKA)
- - ⏩ [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)
- - 👉 [The world needs more people like him!](http://9gag.com/gag/a51A5AL)<!-- MEMES:END -->
+ - 💣 [`My son is sweet. You gonna love him`. The son:](http://9gag.com/gag/aM46qEx)
+ - ⏩ [Next level woke shit](http://9gag.com/gag/aM46X3W)
+ - 👉 [Not expected this\u2026](http://9gag.com/gag/azezYGx)<!-- MEMES:END -->
 
 ---
 
