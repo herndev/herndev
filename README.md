@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise of Nigeria&#39;s BNPL services as some doubt the success of local startups amid weak ID verification systems and scant consumer credit records &lpar;Abubakar Idris/Rest of World&rpar;](http://www.techmeme.com/220625/p2#a220625p2)
- - [Huawei’s Matepad Paper convinced me that e-ink and Android aren’t a good fit](https://www.androidauthority.com/huaweis-matepad-paper-review-3177256/)
- - [11 Great Deals on Backyard, Beach, and Camp Gear](https://www.wired.com/story/weekend-deals-june-25-2022/)<!-- TECH:END -->
+ - [Nothing reminds us that smartphone design innovation isn’t dead](https://www.androidauthority.com/nothing-phone-1-design-innovation-3180006/)
+ - [The Cowboy 4 Ebike Is the Perfect Steed for Rookie Riders](https://www.wired.com/review/cowboy-4/)
+ - [A Warming Climate Takes a Toll on the Vanishing Rio Grande](https://www.wired.com/story/a-warming-climate-takes-a-toll-on-the-vanishing-rio-grande/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
