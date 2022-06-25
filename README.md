@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research: 67 separate ransomware attacks impacted 954 US schools and colleges in 2021, costing schools an estimated $3.5B+ in downtime &lpar;Paul Bischoff/Comparitech&rpar;](http://www.techmeme.com/220625/p1#a220625p1)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Berlin-based WorkMotion, an HR software startup that helps companies onboard and manage staff abroad, has raised a $50M Series B led by Canaan &lpar;FinSMEs&rpar;](http://www.techmeme.com/220624/p22#a220624p22)<!-- TECH:END -->
+ - [A look at the rise of Nigeria&#39;s BNPL services as some doubt the success of local startups amid weak ID verification systems and scant consumer credit records &lpar;Abubakar Idris/Rest of World&rpar;](http://www.techmeme.com/220625/p2#a220625p2)
+ - [Huawei’s Matepad Paper convinced me that e-ink and Android aren’t a good fit](https://www.androidauthority.com/huaweis-matepad-paper-review-3177256/)
+ - [11 Great Deals on Backyard, Beach, and Camp Gear](https://www.wired.com/story/weekend-deals-june-25-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
