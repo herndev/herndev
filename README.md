@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge in UK demolished and cleared in 15 hours](http://9gag.com/gag/a71Bx3r)
- - ⏩ [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)
- - 👉 [Hated by many loved by few](http://9gag.com/gag/abgowGv)<!-- MEMES:END -->
+ - 💣 [Hated by many loved by few](http://9gag.com/gag/abgowGv)
+ - ⏩ [Returning to an old project...](http://9gag.com/gag/ajgjwMg)
+ - 👉 [Have fun, but sorry about the leg, and arm, and...](http://9gag.com/gag/arn0LZ0)<!-- MEMES:END -->
 
 ---
 
