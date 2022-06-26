@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8&#39;s S8 chip may not be a big upgrade from S7](https://appleinsider.com/articles/22/06/26/apple-watch-series-8s-s8-chip-may-not-be-a-big-upgrade-from-s7?utm_medium=rss)
- - [Sources: Apple about to embark on one of the most ambitious periods of new products in its history, with the deluge coming between the fall of 2022 and H1 2023 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220626/p5#a220626p5)
- - [Apple TV with A14 &amp; new HomePod with Apple Watch S8 chip rumored for 2023](https://appleinsider.com/articles/22/06/26/apple-tv-will-get-a14-update-new-homepod-to-use-s8-chip?utm_medium=rss)<!-- TECH:END -->
+ - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
+ - [Apple’s mixed reality headset will reportedly come with an M2 chip](https://www.theverge.com/2022/6/26/23183777/apple-mixed-reality-headset-m2-chip-rumors-virtual-reality-ar)
+ - [Can Carl Pei make lightning strike twice with the Nothing Phone 1?](https://www.androidauthority.com/carl-pei-nothing-phone-1-3180148/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
