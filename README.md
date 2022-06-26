@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She had a nice butt.](http://9gag.com/gag/aegEL65)
- - ⏩ [Reality is often disappointing](http://9gag.com/gag/apgXZX5)
- - 👉 [An ice cream man&#39;s funeral, with ice cream vans following in solidarity.](http://9gag.com/gag/a31D6w1)<!-- MEMES:END -->
+ - 💣 [Reality is often disappointing](http://9gag.com/gag/apgXZX5)
+ - ⏩ [An ice cream man&#39;s funeral, with ice cream vans following in solidarity.](http://9gag.com/gag/a31D6w1)
+ - 👉 [Automaton Robotics created this artificial muscles robotic arm operated by water, consuming 200W at peak. Dumbbell weights 7 kg &lpar;15,6 lbs&rpar; , forearm with hand only 1 kg &lpar;2,2 lbs&rpar;](http://9gag.com/gag/aYrB3x2)<!-- MEMES:END -->
 
 ---
 
