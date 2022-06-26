@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge in UK demolished and cleared in 15 hours](http://9gag.com/gag/a71Bx3r)
- - ⏩ [After years of saving, I can finally buy an apartment!](http://9gag.com/gag/aXrz1D6)
- - 👉 [A way out](http://9gag.com/gag/aggbzmK)<!-- MEMES:END -->
+ - 💣 [Pneumonoultramicroscopicsilicovolcanoconiosis](http://9gag.com/gag/aOQOWXy)
+ - ⏩ [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)
+ - 👉 [Interesting flavor on my ice cream.](http://9gag.com/gag/a91eGW6)<!-- MEMES:END -->
 
 ---
 
