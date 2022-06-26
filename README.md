@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bicyclists protest by blocking roads with bikes.](http://9gag.com/gag/axB881K)
- - ⏩ [And I always finished my plate. But how did I help? All I did was gain 30kg](http://9gag.com/gag/a41885w)
+ - 💣 [No wiser words have been spoken](http://9gag.com/gag/a418gZZ)
+ - ⏩ [Time to do some hacking](http://9gag.com/gag/a51AgGV)
  - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 ---
