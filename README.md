@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK online grocer Ocado, which licenses its automated warehouse tech to other brands, raised &amp;pound;578M in a share sale and secured a &amp;pound;300M loan facility from banks &lpar;Oscar Hornstein/UKTN&rpar;](http://www.techmeme.com/220626/p1#a220626p1)
- - [Leaked investor call: BlockFi backer Morgan Creek Digital aims to raise $250M to counter FTX&#39;s BlockFi bailout, since it could wipe out BlockFi shareholders &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220625/p8#a220625p8)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Amazon&#39;s fight with China-based sellers of generic items trying to game its algorithm to develop Marketplace brands and get the &quot;Amazon&#39;s Choice&quot; tag &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220626/p3#a220626p3)
+ - [India&#39;s central bank ban on loading non-bank prepaid payment instruments using credit lines has created panic among Indian fintech startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220626/p2#a220626p2)
+ - [UK online grocer Ocado, which licenses its automated warehouse tech to other brands, raised &amp;pound;578M in a share sale and secured a &amp;pound;300M loan facility from banks &lpar;Oscar Hornstein/UKTN&rpar;](http://www.techmeme.com/220626/p1#a220626p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
