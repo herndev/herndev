@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac mini, 14-inch &amp; 16-inch MacBook Pro rumored to get M2 Pro in the next year](https://appleinsider.com/articles/22/06/26/mac-mini-may-gain-m2-pro-alongside-14-inch-macbook-pro-16-inch-macbook-pro?utm_medium=rss)
- - [I stuck a cooling fan to my phone — did it make a difference?](https://www.androidauthority.com/gamesir-x3-smartphone-game-controller-review-3178511/)
- - [Spotify secretly launched a show with this controversial duo — it’s already a hit](https://www.theverge.com/2022/6/26/23181940/spotify-claudia-jackie-oshry-breaking-bread-girl-with-no-job)<!-- TECH:END -->
+ - [Apple Watch Series 8&#39;s S8 chip may not be a big upgrade from S7](https://appleinsider.com/articles/22/06/26/apple-watch-series-8s-s8-chip-may-not-be-a-big-upgrade-from-s7?utm_medium=rss)
+ - [Sources: Apple about to embark on one of the most ambitious periods of new products in its history, with the deluge coming between the fall of 2022 and H1 2023 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220626/p5#a220626p5)
+ - [Apple TV with A14 &amp; new HomePod with Apple Watch S8 chip rumored for 2023](https://appleinsider.com/articles/22/06/26/apple-tv-will-get-a14-update-new-homepod-to-use-s8-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
