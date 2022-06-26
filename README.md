@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Bungie identified a mass sender of fake DMCA notices to YouTube targeting Destiny content creators and Bungie&#39;s own channels, leading to its $7.65M lawsuit &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/220626/p4#a220626p4)
- - [It’s 2022 and blockchain smartphones still make no sense](https://www.androidauthority.com/blockchain-smartphones-3180483/)
- - [Astronomers Radically Reimagine the Making of the Planets](https://www.wired.com/story/astronomers-radically-reimagine-the-making-of-the-planets/)<!-- TECH:END -->
+ - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
+ - [The 18 Best Wireless Headphones for Everyone](https://www.wired.com/gallery/best-wireless-headphones/)
+ - [The Best Wired Gaming Headsets for Every System](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
