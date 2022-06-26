@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Level 20 scavenger build with low endurance goes into fat rolling mode to intimidate a giant](http://9gag.com/gag/adgMwL2)
- - ⏩ [CONGRATS!!! We&#39;re OLD!!!!](http://9gag.com/gag/ay9Arvy)
+ - 💣 [This is the most ridiculous, epic scene I&#39;ve seen in a while](http://9gag.com/gag/aXrzz8V)
+ - ⏩ [Time to do some hacking](http://9gag.com/gag/a51AgGV)
  - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 ---
