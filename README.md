@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [UK online grocer Ocado, which licenses its automated warehouse tech to other brands, raised &amp;pound;578M in a share sale and secured a &amp;pound;300M loan facility from banks &lpar;Oscar Hornstein/UKTN&rpar;](http://www.techmeme.com/220626/p1#a220626p1)
  - [Leaked investor call: BlockFi backer Morgan Creek Digital aims to raise $250M to counter FTX&#39;s BlockFi bailout, since it could wipe out BlockFi shareholders &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220625/p8#a220625p8)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Detroit-based Autobooks, a payment and accounting service for small businesses, raised a $50M Series C led by Macquarie, bringing its total funding to ~$98M &lpar;Julie Muhn/Finovate&rpar;](http://www.techmeme.com/220625/p7#a220625p7)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
