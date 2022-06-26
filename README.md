@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 encore-worthy musician biopics to watch at home](https://www.polygon.com/what-to-watch/23167385/movies-about-musicians-best-biopics-music)
- - [Microphones are the new gaming status symbol](https://www.pcgamer.com/microphones-are-the-new-gaming-status-symbol)
- - [Sovietcore FPS Hrot launches second episode, &#39;The Degustation&#39;](https://www.pcgamer.com/sovietcore-fps-hrot-launches-second-episode-the-degustation)<!-- GAME:END -->
+ - [Turns out a simple Steam Deck mod means you can install a larger NVMe SSD](https://www.pcgamer.com/turns-out-a-simple-steam-deck-mod-means-you-can-install-a-larger-nvme-ssd)
+ - [Steam Deck designer says SSD mod &#39;will significantly shorten the life of your Deck&#39;](https://www.pcgamer.com/steam-deck-designer-says-ssd-mod-will-significantly-shorten-the-life-of-your-deck)
+ - [8 encore-worthy musician biopics to watch at home](https://www.polygon.com/what-to-watch/23167385/movies-about-musicians-best-biopics-music)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
