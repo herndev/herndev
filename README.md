@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #372: Sunday, June 26](https://www.pcgamer.com/wordle-today-june-26-372-answer-hint)
  - [Valorant will start listening to your voice chat in July](https://www.pcgamer.com/valorant-will-start-listening-to-your-voice-chat-in-july)
- - [The Umbrella Academy’s Hotel Oblivion is way cooler in the comics](https://www.polygon.com/23180504/umbrella-academy-hotel-oblivion-comics-differences)
- - [16 great movies leaving Netflix, Hulu, and HBO Max at the end of June 2022](https://www.polygon.com/what-to-watch/23178220/best-movies-netflix-amazon-hulu-hbo-leaving-june-2022)<!-- GAME:END -->
+ - [The Umbrella Academy’s Hotel Oblivion is way cooler in the comics](https://www.polygon.com/23180504/umbrella-academy-hotel-oblivion-comics-differences)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
