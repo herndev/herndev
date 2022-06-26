@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
  - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)
- - [Apple’s mixed reality headset will reportedly come with an M2 chip](https://www.theverge.com/2022/6/26/23183777/apple-mixed-reality-headset-m2-chip-rumors-virtual-reality-ar)
- - [Can Carl Pei make lightning strike twice with the Nothing Phone 1?](https://www.androidauthority.com/carl-pei-nothing-phone-1-3180148/)<!-- TECH:END -->
+ - [Apple’s mixed reality headset will reportedly come with an M2 chip](https://www.theverge.com/2022/6/26/23183777/apple-mixed-reality-headset-m2-chip-rumors-virtual-reality-ar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
