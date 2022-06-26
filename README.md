@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Childhood things](http://9gag.com/gag/abgowWO)
- - ⏩ [Level 20 scavenger build with low endurance goes into fat rolling mode to intimidate a giant](http://9gag.com/gag/adgMwL2)
- - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
+ - 💣 [\u201cDon\u2019t You Worry. Daddy\u2019s Home.\u201d](http://9gag.com/gag/a418yqA)
+ - ⏩ [Just charging](http://9gag.com/gag/awzDj2r)
+ - 👉 [It ain&#39;t much, but it&#39;s honest work](http://9gag.com/gag/azezw1z)<!-- MEMES:END -->
 
 ---
 
