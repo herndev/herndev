@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Amazon&#39;s fight with China-based sellers of generic items trying to game its algorithm to develop Marketplace brands and get the &quot;Amazon&#39;s Choice&quot; tag &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220626/p3#a220626p3)
- - [India&#39;s central bank ban on loading non-bank prepaid payment instruments using credit lines has created panic among Indian fintech startups &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220626/p2#a220626p2)
- - [UK online grocer Ocado, which licenses its automated warehouse tech to other brands, raised &amp;pound;578M in a share sale and secured a &amp;pound;300M loan facility from banks &lpar;Oscar Hornstein/UKTN&rpar;](http://www.techmeme.com/220626/p1#a220626p1)<!-- TECH:END -->
+ - [OnePlus 11 Pro: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-11-pro-3177299/)
+ - [The Best Camping Cookware](https://www.wired.com/story/best-camp-cookware-gear/)
+ - [One Day, AI Will Seem as Human as Anyone. What Then?](https://www.wired.com/story/lamda-sentience-psychology-ethics-policy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
