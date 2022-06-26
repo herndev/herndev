@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
- - [The 18 Best Wireless Headphones for Everyone](https://www.wired.com/gallery/best-wireless-headphones/)
- - [The Best Wired Gaming Headsets for Every System](https://www.wired.com/gallery/best-gaming-headsets/)<!-- TECH:END -->
+ - [Mac mini, 14-inch &amp; 16-inch MacBook Pro rumored to get M2 Pro in the next year](https://appleinsider.com/articles/22/06/26/mac-mini-may-gain-m2-pro-alongside-14-inch-macbook-pro-16-inch-macbook-pro?utm_medium=rss)
+ - [I stuck a cooling fan to my phone — did it make a difference?](https://www.androidauthority.com/gamesir-x3-smartphone-game-controller-review-3178511/)
+ - [Spotify secretly launched a show with this controversial duo — it’s already a hit](https://www.theverge.com/2022/6/26/23181940/spotify-claudia-jackie-oshry-breaking-bread-girl-with-no-job)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
