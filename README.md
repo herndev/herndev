@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Uzbekistan, the winner of the IT competition was awarded an extension cord](http://9gag.com/gag/aqGOE7j)
+ - 💣 [A way out](http://9gag.com/gag/aggbzmK)
  - ⏩ [This is a title](http://9gag.com/gag/ajgje4w)
- - 👉 [The old husband matching shirt prank](http://9gag.com/gag/a21V3oY)<!-- MEMES:END -->
+ - 👉 [One of the best scenes in The Dictator](http://9gag.com/gag/axB8ryW)<!-- MEMES:END -->
 
 ---
 
