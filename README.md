@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Xbox indie games for Xbox Series X/S](https://www.androidauthority.com/best-xbox-indie-games-3178053/)
- - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)
- - [How to use Plex on Mac to create your own personal streaming service](https://appleinsider.com/articles/22/06/26/how-to-use-plex-on-mac-to-create-your-own-personal-streaming-service?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s First Mixed-Reality Headset May Sport New M2 Processor     - CNET](https://www.cnet.com/tech/mobile/apples-first-mixed-reality-headset-may-sport-new-m2-processor/#ftag=CAD590a51e)
+ - [Harber Leather Desk Mat review: a comfortable, desirable Mac accessory](https://appleinsider.com/articles/22/06/25/harber-leather-desk-mat-review-comfortable-desirable-mac-accessory?utm_medium=rss)
+ - [A deep dive: how Apple uses iOS WebKit monopoly to strip-mine and sabotage the web, hurting all browser engine projects and draining the web of future potential &lpar;Alex Russell/Infrequently Noted&rpar;](http://www.techmeme.com/220626/p6#a220626p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
