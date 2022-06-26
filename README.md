@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pneumonoultramicroscopicsilicovolcanoconiosis](http://9gag.com/gag/aOQOWXy)
- - ⏩ [Cheers, my far flung friends. To smarter times.](http://9gag.com/gag/ang3ozV)
- - 👉 [Interesting flavor on my ice cream.](http://9gag.com/gag/a91eGW6)<!-- MEMES:END -->
+ - 💣 [In Uzbekistan, the winner of the IT competition was awarded an extension cord](http://9gag.com/gag/aqGOE7j)
+ - ⏩ [This is a title](http://9gag.com/gag/ajgje4w)
+ - 👉 [The old husband matching shirt prank](http://9gag.com/gag/a21V3oY)<!-- MEMES:END -->
 
 ---
 
