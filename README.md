@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Only the Umbrella Academy showrunner knows what the cube is saying](https://www.polygon.com/23180587/umbrella-academy-christopher-hargreeves-steve-blackman-interview)
- - [Today&#39;s Wordle answer #372: Sunday, June 26](https://www.pcgamer.com/wordle-today-june-26-372-answer-hint)
- - [Valorant will start listening to your voice chat in July](https://www.pcgamer.com/valorant-will-start-listening-to-your-voice-chat-in-july)<!-- GAME:END -->
+ - [8 encore-worthy musician biopics to watch at home](https://www.polygon.com/what-to-watch/23167385/movies-about-musicians-best-biopics-music)
+ - [Microphones are the new gaming status symbol](https://www.pcgamer.com/microphones-are-the-new-gaming-status-symbol)
+ - [Sovietcore FPS Hrot launches second episode, &#39;The Degustation&#39;](https://www.pcgamer.com/sovietcore-fps-hrot-launches-second-episode-the-degustation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
