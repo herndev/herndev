@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mafia boss in the video just leaked a sex-tape of a member of Erdogan&#39;s party. In the tape, the guy is having sex with two other dudes. Link in the comment section.](http://9gag.com/gag/aLv3ZmA)
- - ⏩ [This is a title](http://9gag.com/gag/ajgje4w)
+ - 💣 [She had a nice butt.](http://9gag.com/gag/aegEL65)
+ - ⏩ [Reality is often disappointing](http://9gag.com/gag/apgXZX5)
  - 👉 [An ice cream man&#39;s funeral, with ice cream vans following in solidarity.](http://9gag.com/gag/a31D6w1)<!-- MEMES:END -->
 
 ---
