@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No wiser words have been spoken](http://9gag.com/gag/a418gZZ)
- - ⏩ [Dude deserves 10 oscars for his performance as Homelander](http://9gag.com/gag/awzDD3R)
+ - 💣 [Level 20 scavenger build with low endurance goes into fat rolling mode to intimidate a giant](http://9gag.com/gag/adgMwL2)
+ - ⏩ [CONGRATS!!! We&#39;re OLD!!!!](http://9gag.com/gag/ay9Arvy)
  - 👉 [Alone no more! Let&#39;s party in the Royal Kingdom!](http://9gag.com/gag/aYrBdV7)<!-- MEMES:END -->
 
 ---
