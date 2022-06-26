@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-sam-raimi-nod-explained/#ftag=CAD590a51e)
- - [&#39;Obi-Wan Kenobi&#39; Finale Recap: Ending and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/obi-wan-kenobi-finale-recap-ending-and-cameos-explained/#ftag=CAD590a51e)
- - [Michael Saylor, whose company MicroStrategy holds bitcoin now worth ~$2.7B, says bitcoin &quot;is still at an early stage in its development and poorly understood&quot; &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220625/p6#a220625p6)<!-- TECH:END -->
+ - [Leaked investor call: BlockFi backer Morgan Creek Digital aims to raise $250M to counter FTX&#39;s BlockFi bailout, since it could wipe out BlockFi shareholders &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/220625/p8#a220625p8)
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to These Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-these-elite-marvel-heroes/#ftag=CAD590a51e)
+ - [Detroit-based Autobooks, a payment and accounting service for small businesses, raised a $50M Series C led by Macquarie, bringing its total funding to ~$98M &lpar;Julie Muhn/Finovate&rpar;](http://www.techmeme.com/220625/p7#a220625p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
