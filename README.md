@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Skull &amp; Bones rating more proof that Skull &amp; Bones will come out](https://www.polygon.com/23184818/skull-and-bones-release-date-ubisoft)
- - [Introducing FieldSense in Madden NFL 23](https://news.xbox.com/en-us/2022/06/27/introducing-fieldsense-in-madden-nfl-23/)
- - [Miyamoto Couldn&#39;t Stand Wind Waker&#39;s Art Style At First](https://kotaku.com/the-legend-of-zelda-wind-waker-graphics-shigeru-miyamot-1849112926)<!-- GAME:END -->
+ - [Hearthstone’s next expansion is a devilish murder mystery](https://www.polygon.com/gaming/23185162/hearthstone-murder-at-castle-nathria-expansion-announcement)
+ - [Hideo Kojima Killed A Project Because It Was Too Much Like The Boys](https://kotaku.com/hideo-kojima-productions-the-boys-amazon-studios-homela-1849113845)
+ - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
