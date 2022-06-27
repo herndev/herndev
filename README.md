@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Automaton Robotics created this artificial muscles robotic arm operated by water, consuming 200W at peak. Dumbbell weights 7 kg &lpar;15,6 lbs&rpar; , forearm with hand only 1 kg &lpar;2,2 lbs&rpar;](http://9gag.com/gag/aYrB3x2)
- - ⏩ [Swiftly saving two lives](http://9gag.com/gag/a21VerZ)
- - 👉 [Tight fit thru the mountain](http://9gag.com/gag/aGzqmPK)<!-- MEMES:END -->
+ - 💣 [To protect the floor](http://9gag.com/gag/azezngB)
+ - ⏩ [Tight fit thru the mountain](http://9gag.com/gag/aGzqmPK)
+ - 👉 [The Japanese know what art is](http://9gag.com/gag/aKmyobZ)<!-- MEMES:END -->
 
 ---
 
