@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)
- - [Today&#39;s Wordle answer #373: Monday, June 27](https://www.pcgamer.com/wordle-today-june-27-373-answer-hint)
- - [Innosilicon&#39;s low power LPDDR5X memory hits a stunning 10,000 Mbps](https://www.pcgamer.com/innosilicons-low-power-lpddr5x-memory-hits-a-stunning-10000-mbps)<!-- GAME:END -->
+ - [I used AI to help Nvidia design an 800W version of the RTX 4090](https://www.pcgamer.com/i-used-ai-to-help-nvidia-design-an-800w-version-of-the-rtx-4090)
+ - [Blade Runner: Enhanced Edition updated with the un-enhanced edition on Steam after awful reception](https://www.pcgamer.com/blade-runner-enhanced-edition-updated-with-the-un-enhanced-edition-on-steam-after-awful-reception)
+ - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
