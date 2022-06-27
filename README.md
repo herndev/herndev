@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m on a diet and it&#39;s not fair](http://9gag.com/gag/aNPX6nK)
- - ⏩ [She had a nice butt.](http://9gag.com/gag/aegEL65)
- - 👉 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
+ - 💣 [Spike curve ball](http://9gag.com/gag/a21VenY)
+ - ⏩ [Madman](http://9gag.com/gag/adgMEZj)
+ - 👉 [Komodo dragons have razor-like teeth and poisonous venom that can kill a person within hours of a bite. The venom rapidly decreases blood pressure, expedites blood loss, and sends a victim into shock. They live\u00a0on only five islands in southeastern Indonesia](http://9gag.com/gag/a11nG8D)<!-- MEMES:END -->
 
 ---
 
