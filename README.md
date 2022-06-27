@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)
- - ⏩ [I am listening, but at the same time I want to punch in the face so much.](http://9gag.com/gag/adgMZD9)
- - 👉 [Hell hath no fury like Ripley](http://9gag.com/gag/aQXKwp7)<!-- MEMES:END -->
+ - 💣 [Afraid of sharks](http://9gag.com/gag/aqGOvzP)
+ - ⏩ [When you hear a noise in the kitchen at 1 am](http://9gag.com/gag/aqGO3yY)
+ - 👉 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
 
 ---
 
