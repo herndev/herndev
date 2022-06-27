@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Prime Day shopping event, set for July 12-13, appears to be low-key than previous years, focused on discount Amazon-made products &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220627/p20#a220627p20)
- - [Samsung’s Starbucks collab Galaxy Buds case is silly and pointless and I want one](https://www.theverge.com/2022/6/27/23184820/samsung-starbucks-galaxy-buds-phone-case)
- - [Galaxy S23 camera might not get an improvement in at least one area](https://www.androidauthority.com/samsung-galaxy-s23-camera-3180750/)<!-- TECH:END -->
+ - [The Supreme Court says it won’t consider rewriting defamation law... yet](https://www.theverge.com/2022/6/27/23184792/supreme-court-coral-ridge-splc-petition-denied-libel-law-actual-malice)
+ - [What’s a smart button, and do you need one for your smart home?](https://www.androidauthority.com/smart-buttons-3169344/)
+ - [Solar Panel Installation: How Long It Takes and What You Need to Know     - CNET](https://www.cnet.com/news/solar-panel-installation-how-long-it-takes-and-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
