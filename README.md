@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook’s video app may no longer work on Apple TV](https://www.theverge.com/2022/6/26/23184144/facebook-watch-apple-tv-no-longer-available)
- - [In the wake of SCOTUS overturning Roe v. Wade, tech companies give &quot;no comment&quot; in response to questions about users&#39; data that can be used in prosecutions &lpar;Brian Kahn/Protocol&rpar;](http://www.techmeme.com/220626/p7#a220626p7)
- - [Valorant will start monitoring your voice chats starting July 13th](https://www.theverge.com/2022/6/26/23184009/valorant-monitor-voice-chats-july-13th-riot-games)<!-- TECH:END -->
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
+ - [AEW Forbidden Door 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/aew-forbidden-door-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
