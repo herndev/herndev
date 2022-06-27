@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Open sussame](http://9gag.com/gag/awzDRdD)
- - ⏩ [..........](http://9gag.com/gag/aAG7WVg)
- - 👉 [That stuffed animal looks suspiciously familiar](http://9gag.com/gag/aBnMD82)<!-- MEMES:END -->
+ - 💣 [Viktor Frankl](http://9gag.com/gag/amgyDxX)
+ - ⏩ [Fail safe](http://9gag.com/gag/a819rwp)
+ - 👉 [Woman Battle scars](http://9gag.com/gag/aqGO3OQ)<!-- MEMES:END -->
 
 ---
 
