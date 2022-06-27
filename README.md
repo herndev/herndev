@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 6a wins against Pixel 6 Pro in fingerprint unlocking test](https://www.androidauthority.com/pixel-6a-vs-pixel-6-pro-fingerprint-unlocking-3180602/)
- - [Daily Authority: 🌩️ Nothing but character](https://www.androidauthority.com/daily-authority-june-27-2022-3180526/)
- - [Data centers, typically located in suburbs and rural zones, are increasingly being built in urban areas to further reduce internet lag for locals &lpar;Michael Waters/MIT Technology Review&rpar;](http://www.techmeme.com/220627/p3#a220627p3)<!-- TECH:END -->
+ - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)
+ - [Meet the Viking merchants of the internet](https://www.theverge.com/23132752/viking-weaponry-monetize-youtube-twitch-etsy)
+ - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
