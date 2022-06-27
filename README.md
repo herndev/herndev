@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)
- - ⏩ [Wait, what?](http://9gag.com/gag/a0ZGmXQ)
- - 👉 [Viktor Frankl](http://9gag.com/gag/amgyDxX)<!-- MEMES:END -->
+ - 💣 [Top Secret](http://9gag.com/gag/aXr3Zvg)
+ - ⏩ [My ex came back to me like this, and I&#39;m like: nope](http://9gag.com/gag/aRrGxPB)
+ - 👉 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
 
 ---
 
