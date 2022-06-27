@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals June 25: $175 AirPods Pro, $40 Amazon Kindle, $30 OtterBox MagSafe Power Bank, more](https://appleinsider.com/articles/22/06/25/daily-deals-june-25-75-airpods-pro-40-amazon-kindle-30-otterbox-magsafe-power-bank-more?utm_medium=rss)
- - [Meet the Viking merchants of the internet](https://www.theverge.com/23132752/viking-weaponry-monetize-youtube-twitch-etsy)
- - [Daily deals June 26: $80 Bose Frames, $200 Nest Wi-Fi, $100 off Insignia 42-inch Smart TV, more](https://appleinsider.com/articles/22/06/26/daily-deals-june-26-80-bose-frames-200-nest-wi-fi-100-off-insignia-42-inch-smart-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [An analysis of ten major DAO governance tokens finds, on average, less than 1% of all holders have 90% of voting power &lpar;Chainalysis&rpar;](http://www.techmeme.com/220627/p15#a220627p15)
+ - [Starlink RV review: works in truly remote locations and its power consumption is fine, but it can&#39;t be used on a moving vehicle and storms can be an issue &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/220627/p14#a220627p14)
+ - [Filing: South Korea&#39;s largest car sharing service Socar files for an IPO in Seoul, seeking to raise at least ~$119M and pricing shares at ~$26-$35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220627/p13#a220627p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
