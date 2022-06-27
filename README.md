@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of ten major DAO governance tokens finds, on average, less than 1% of all holders have 90% of voting power &lpar;Chainalysis&rpar;](http://www.techmeme.com/220627/p15#a220627p15)
- - [Starlink RV review: works in truly remote locations and its power consumption is fine, but it can&#39;t be used on a moving vehicle and storms can be an issue &lpar;Thomas Ricker/The Verge&rpar;](http://www.techmeme.com/220627/p14#a220627p14)
- - [Filing: South Korea&#39;s largest car sharing service Socar files for an IPO in Seoul, seeking to raise at least ~$119M and pricing shares at ~$26-$35 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220627/p13#a220627p13)<!-- TECH:END -->
+ - [The archnemeses of war rugs](https://www.theverge.com/2022/6/27/23177797/afghan-war-rugs-drone-imagery-copyright-dispute)
+ - [Best alternatives to Apple&#39;s 35W dual-output USB-C power adapter](https://appleinsider.com/articles/22/06/27/best-alternatives-to-apples-35w-dual-output-usb-c-power-adapter?utm_medium=rss)
+ - [CB Insights: global VC activity dropped 23% between Q1 and Q2 2022 through June 23, after dropping just 1.4% between Q4 2021 and Q1 2022 &lpar;Ellen Huet/Bloomberg&rpar;](http://www.techmeme.com/220627/p17#a220627p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
