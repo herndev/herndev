@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Piece celebration stream promises game, anime, and manga news in July](https://www.polygon.com/23185514/one-piece-celebration-stream-announcements-july-2022)
- - [Pokémon Card Game Player Uses Comically Large Cards At Championship](https://kotaku.com/pokemon-card-game-jumbo-deck-american-championship-1849115216)
- - [The Boys showrunner wants to team up with Hideo Kojima to make a game](https://www.pcgamer.com/the-boys-showrunner-wants-to-team-up-with-hideo-kojima-to-make-a-game)<!-- GAME:END -->
+ - [Roller Champions New Season: Disco Fever Out Now](https://news.xbox.com/en-us/2022/06/27/roller-champions-new-season-disco-fever-out-now/)
+ - [How to help the fight for reproductive rights](https://www.pcgamer.com/how-to-help-the-fight-for-reproductive-rights)
+ - [Wuxia Martial Arts Game Looks Slick As Hell](https://kotaku.com/tencent-code-to-jin-yong-wuxia-novels-martial-arts-1849115524)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
