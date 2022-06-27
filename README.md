@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tight fit thru the mountain](http://9gag.com/gag/aGzqmPK)
- - ⏩ [That&#39;ll be $20 pls](http://9gag.com/gag/aegEn1O)
- - 👉 [Swiftly saving two lives](http://9gag.com/gag/a21VerZ)<!-- MEMES:END -->
+ - 💣 [This man spitting facts fr fr](http://9gag.com/gag/aVx8A9P)
+ - ⏩ [Swiftly saving two lives](http://9gag.com/gag/a21VerZ)
+ - 👉 [The old husband matching shirt prank](http://9gag.com/gag/a21V3oY)<!-- MEMES:END -->
 
 ---
 
