@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Innosilicon&#39;s low power LPDDR5X memory hits a stunning 10,000 Mbps](https://www.pcgamer.com/innosilicons-low-power-lpddr5x-memory-hits-a-stunning-10000-mbps)
- - [AMD&#39;s next gen cards will come with higher power levels, but not as high as Nvidia&#39;s](https://www.pcgamer.com/amds-next-gen-cards-will-come-with-higher-power-levels-but-not-as-high-as-nvidias)
- - [This year&#39;s strategy RPG hotness might just be Symphony of War: The Nephilim Saga](https://www.pcgamer.com/this-years-strategy-rpg-hotness-might-just-be-symphony-of-war-the-nephilim-saga)<!-- GAME:END -->
+ - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)
+ - [Today&#39;s Wordle answer #373: Monday, June 27](https://www.pcgamer.com/wordle-today-june-27-373-answer-hint)
+ - [Innosilicon&#39;s low power LPDDR5X memory hits a stunning 10,000 Mbps](https://www.pcgamer.com/innosilicons-low-power-lpddr5x-memory-hits-a-stunning-10000-mbps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
