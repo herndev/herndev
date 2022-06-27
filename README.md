@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Empty Grief challenge in Destiny 2](https://www.pcgamer.com/destiny-2-empty-grief)
- - [Nethack is now in the Museum of Modern Art](https://www.pcgamer.com/nethack-is-now-in-the-museum-of-modern-art)
- - [How do you train an AI to play Minecraft? Feed it 70,000 hours of YouTube gameplay](https://www.pcgamer.com/how-do-you-train-an-ai-to-play-minecraft-feed-it-70000-hours-of-youtube-gameplay)<!-- GAME:END -->
+ - [Horror movie The Invitation shows why you shouldn’t go to a vampire wedding](https://www.polygon.com/23184735/the-invitation-horror-movie-trailer-dracula-vampires)
+ - [Diablo Immortal Could Run Your Wallet Way More Than You Thought](https://kotaku.com/diablo-immortal-build-microtransaction-legendary-gem-bl-1849112884)
+ - [Fall Guys’ battle pass encourages being a loser](https://www.polygon.com/23184810/fall-guys-losing-fame-first-round-free-to-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
