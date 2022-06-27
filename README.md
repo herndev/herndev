@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Digital World Acquisition Corp., which wants to take Trump&#39;s Truth Social public, discloses subpoenas by a federal grand jury to all board directors &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220627/p19#a220627p19)
- - [How to install fonts on Windows 10 and 11](https://www.androidauthority.com/install-fonts-windows-3178293/)
- - [Are You Ready to Be Surveilled Like a Sex Worker?](https://www.wired.com/story/roe-abortion-sex-worker-policy/)<!-- TECH:END -->
+ - [Amazon&#39;s Prime Day shopping event, set for July 12-13, appears to be low-key than previous years, focused on discount Amazon-made products &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/220627/p20#a220627p20)
+ - [Samsung’s Starbucks collab Galaxy Buds case is silly and pointless and I want one](https://www.theverge.com/2022/6/27/23184820/samsung-starbucks-galaxy-buds-phone-case)
+ - [Galaxy S23 camera might not get an improvement in at least one area](https://www.androidauthority.com/samsung-galaxy-s23-camera-3180750/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
