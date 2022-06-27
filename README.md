@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Data centers, typically located in suburbs and rural zones, are increasingly being built in urban areas to further reduce internet lag for locals &lpar;Michael Waters/MIT Technology Review&rpar;](http://www.techmeme.com/220627/p3#a220627p3)
- - [Poll: Are you happy with your phone’s performance?](https://www.androidauthority.com/happy-phone-performance-poll-3180560/)
- - [Fitbit Versa 4: Everything we know &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/fitbit-versa-4-3160220/)<!-- TECH:END -->
+ - [Pixel 6a wins against Pixel 6 Pro in fingerprint unlocking test](https://www.androidauthority.com/pixel-6a-vs-pixel-6-pro-fingerprint-unlocking-3180602/)
+ - [Daily Authority: 🌩️ Nothing but character](https://www.androidauthority.com/daily-authority-june-27-2022-3180526/)
+ - [Data centers, typically located in suburbs and rural zones, are increasingly being built in urban areas to further reduce internet lag for locals &lpar;Michael Waters/MIT Technology Review&rpar;](http://www.techmeme.com/220627/p3#a220627p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
