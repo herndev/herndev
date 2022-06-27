@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To protect the floor](http://9gag.com/gag/azezngB)
- - ⏩ [Tight fit thru the mountain](http://9gag.com/gag/aGzqmPK)
- - 👉 [The Japanese know what art is](http://9gag.com/gag/aKmyobZ)<!-- MEMES:END -->
+ - 💣 [Tight fit thru the mountain](http://9gag.com/gag/aGzqmPK)
+ - ⏩ [That&#39;ll be $20 pls](http://9gag.com/gag/aegEn1O)
+ - 👉 [Swiftly saving two lives](http://9gag.com/gag/a21VerZ)<!-- MEMES:END -->
 
 ---
 
