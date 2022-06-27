@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Stardust period tracking app, which became the top free app on the US App Store on Saturday, shares users&#39; phone numbers with analytics company Mixpanel &lpar;TechCrunch&rpar;](http://www.techmeme.com/220627/p26#a220627p26)
- - [Epic&#39;s &#39;Support a creator&#39; program pays out only 5% of game content makers&#39; sales](https://appleinsider.com/articles/22/06/27/epics-support-a-creator-program-pays-out-only-5-of-game-content-makers-sales?utm_medium=rss)
- - [The biggest privacy risks in post-Roe America](https://www.theverge.com/23185081/abortion-data-privacy-roe-v-wade-dobbs-surveillance-period-tracking)<!-- TECH:END -->
+ - [Sam Bankman-Fried says there are no active talks for FTX to acquire Robinhood; Robinhood says no acquisition can go through without the founders&#39; approval &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220627/p28#a220627p28)
+ - [Compared: 13-inch MacBook Pro with M2 vs 13-inch MacBook Pro with M1](https://appleinsider.com/inside/13-inch-macbook-pro/vs/compared-13-inch-macbook-pro-with-m2-vs-13-inch-macbook-pro-with-m1?utm_medium=rss)
+ - [Google says Hangouts will shut down in November as it begins prompting mobile Hangouts users to move to Chat &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220627/p27#a220627p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
