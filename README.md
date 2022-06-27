@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hearthstone’s next expansion is a devilish murder mystery](https://www.polygon.com/gaming/23185162/hearthstone-murder-at-castle-nathria-expansion-announcement)
- - [Hideo Kojima Killed A Project Because It Was Too Much Like The Boys](https://kotaku.com/hideo-kojima-productions-the-boys-amazon-studios-homela-1849113845)
- - [Where to find the Calus bobbleheads in Destiny 2](https://www.pcgamer.com/destiny-2-bobblehead-locations-calus)<!-- GAME:END -->
+ - [Adult Swim’s Uzumaki adaptation has been delayed again](https://www.polygon.com/23185255/uzumaki-adult-swim-release-date-delay)
+ - [WWE Superstar John Cena Kept Asking Nintendo For A New 2D Metroid &lpar;Then Got It&rpar;](https://kotaku.com/john-cena-nintendo-switch-metroid-dread-wwe-1849114058)
+ - [Raft Varuna Point note location guide](https://www.polygon.com/raft-guide/23180564/varuna-point-note-location-walkthrough)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
