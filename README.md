@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Makes sense to me](http://9gag.com/gag/adgAy2Q)
- - ⏩ [UglyFans](http://9gag.com/gag/adgM3wB)
- - 👉 [Kid did greater job than Megatron](http://9gag.com/gag/aWgyBM3)<!-- MEMES:END -->
+ - 💣 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)
+ - ⏩ [Wait, what?](http://9gag.com/gag/a0ZGmXQ)
+ - 👉 [Viktor Frankl](http://9gag.com/gag/amgyDxX)<!-- MEMES:END -->
 
 ---
 
