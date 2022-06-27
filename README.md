@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [Asus ROG Phone 6 breaks cover, looks absolutely massive with its cooling fan](https://www.androidauthority.com/asus-rog-phone-6-cooling-3180858/)
- - [Supreme Court rejects Apple’s bid to continue fighting over two Qualcomm patents](https://www.theverge.com/2022/6/27/23184743/apple-qualcomm-patent-lawsuit-supreme-court-5g-modems)<!-- TECH:END -->
+ - [The Stardust period tracking app, which became the top free app on the US App Store on Saturday, shares users&#39; phone numbers with analytics company Mixpanel &lpar;TechCrunch&rpar;](http://www.techmeme.com/220627/p26#a220627p26)
+ - [Epic&#39;s &#39;Support a creator&#39; program pays out only 5% of game content makers&#39; sales](https://appleinsider.com/articles/22/06/27/epics-support-a-creator-program-pays-out-only-5-of-game-content-makers-sales?utm_medium=rss)
+ - [The biggest privacy risks in post-Roe America](https://www.theverge.com/23185081/abortion-data-privacy-roe-v-wade-dobbs-surveillance-period-tracking)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
