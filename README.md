@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 will replace the original Overwatch](https://www.theverge.com/2022/6/27/23185275/overwatch-2-original-overwatch-game-overwrite)
- - [Deals: Apple&#39;s 16-inch MacBook Pro dips to $2,279 &amp; it&#39;s in stock](https://appleinsider.com/articles/22/06/27/deals-apples-16-inch-macbook-pro-dips-to-2279-its-in-stock?utm_medium=rss)
- - [Rumor: Here’s when Samsung’s Android 13 beta program could start](https://www.androidauthority.com/samsung-android-13-3180962/)<!-- TECH:END -->
+ - [How SCOTUS overturning Roe could be used to curb online freedoms and surveil vulnerable populations, as happened to sex workers following FOSTA/SESTA in 2018 &lpar;Olivia Snow/Wired&rpar;](http://www.techmeme.com/220627/p30#a220627p30)
+ - [Look at How Much This Spider Looks Scarily Like the Cartoon Pringles Mascot     - CNET](https://www.cnet.com/science/look-at-how-much-this-spider-looks-scarily-like-the-cartoon-pringles-mascot/#ftag=CAD590a51e)
+ - [Crypto exchange FTX is reportedly looking into buying Robinhood](https://www.theverge.com/2022/6/27/23185455/ftx-crypto-exchange-robinhood-acquisition-sam-bankman-fried)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
