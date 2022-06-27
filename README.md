@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a shame](http://9gag.com/gag/aegEoMO)
- - ⏩ [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
- - 👉 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
+ - 💣 [Mick Jagger at 78 folks!](http://9gag.com/gag/avAV3AM)
+ - ⏩ [Still do](http://9gag.com/gag/avAV34E)
+ - 👉 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)<!-- MEMES:END -->
 
 ---
 
