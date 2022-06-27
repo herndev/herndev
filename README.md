@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Let me see that finger ...](http://9gag.com/gag/aM46pRW)
- - ⏩ [That stuffed animal looks suspiciously familiar](http://9gag.com/gag/aBnMD82)
- - 👉 [UglyFans](http://9gag.com/gag/adgM3wB)<!-- MEMES:END -->
+ - ⏩ [Kid did greater job than Megatron](http://9gag.com/gag/aWgyBM3)
+ - 👉 [Fail safe](http://9gag.com/gag/a819rwp)<!-- MEMES:END -->
 
 ---
 
