@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-week/#ftag=CAD590a51e)
- - [AEW Forbidden Door 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/aew-forbidden-door-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [SSD benchmarks show the 256GB 13&quot; MacBook Pro with M2 has ~50% slower read and ~30% slower write speeds than the previous gen 256GB MacBook Pro with M1 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220626/p9#a220626p9)
+ - [Jurassic World Dominion: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39; Directors to Digitally Fix Will Byers Plot Hole     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-directors-to-digitally-fix-will-byers-plot-hole/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
