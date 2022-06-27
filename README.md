@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mick Jagger at 78 folks!](http://9gag.com/gag/avAV3AM)
- - ⏩ [Still do](http://9gag.com/gag/avAV34E)
- - 👉 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)<!-- MEMES:END -->
+ - 💣 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
+ - ⏩ [Open sussame](http://9gag.com/gag/awzDRdD)
+ - 👉 [For the love of God please stop.](http://9gag.com/gag/aqGO3Zp)<!-- MEMES:END -->
 
 ---
 
