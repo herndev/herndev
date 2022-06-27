@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This year&#39;s strategy RPG hotness might just be Symphony of War: The Nephilim Saga](https://www.pcgamer.com/this-years-strategy-rpg-hotness-might-just-be-symphony-of-war-the-nephilim-saga)
  - [RIP Bernie Stolar, Who Helped Launch Both The PlayStation And Dreamcast](https://kotaku.com/bernie-stolar-bernard-sega-playstation-dreamcast-rip-de-1849111587)
- - [Blade Runner Remake Looks Like Complete Dogshit](https://kotaku.com/blade-runner-enhanced-edition-remake-rerelease-pc-steam-1849111500)
- - [Gordian Quest is a deckbuilding RPG inspired by the genre classics](https://www.pcgamer.com/gordian-quest-is-a-deckbuilding-rpg-inspired-by-the-genre-classics)<!-- GAME:END -->
+ - [Blade Runner Remake Looks Like Complete Dogshit](https://kotaku.com/blade-runner-enhanced-edition-remake-rerelease-pc-steam-1849111500)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
