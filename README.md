@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Endless Dungeon is an unexpected roguelike sequel with a dash of Overwatch](https://www.pcgamer.com/endless-dungeon-is-an-unexpected-roguelike-sequel-with-a-dash-of-overwatch)
- - [How to find the Raft Temperance code](https://www.pcgamer.com/raft-temperance-code-observatory-safe)
- - [AMD has released new drivers for GPUs it no longer supports](https://www.pcgamer.com/amd-has-released-new-drivers-for-gpus-it-no-longer-supports)<!-- GAME:END -->
+ - [How to complete the Empty Grief challenge in Destiny 2](https://www.pcgamer.com/destiny-2-empty-grief)
+ - [Nethack is now in the Museum of Modern Art](https://www.pcgamer.com/nethack-is-now-in-the-museum-of-modern-art)
+ - [How do you train an AI to play Minecraft? Feed it 70,000 hours of YouTube gameplay](https://www.pcgamer.com/how-do-you-train-an-ai-to-play-minecraft-feed-it-70000-hours-of-youtube-gameplay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
