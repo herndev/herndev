@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried says there are no active talks for FTX to acquire Robinhood; Robinhood says no acquisition can go through without the founders&#39; approval &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220627/p28#a220627p28)
- - [Compared: 13-inch MacBook Pro with M2 vs 13-inch MacBook Pro with M1](https://appleinsider.com/inside/13-inch-macbook-pro/vs/compared-13-inch-macbook-pro-with-m2-vs-13-inch-macbook-pro-with-m1?utm_medium=rss)
- - [Google says Hangouts will shut down in November as it begins prompting mobile Hangouts users to move to Chat &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220627/p27#a220627p27)<!-- TECH:END -->
+ - [Overwatch 2 will replace the original Overwatch](https://www.theverge.com/2022/6/27/23185275/overwatch-2-original-overwatch-game-overwrite)
+ - [Deals: Apple&#39;s 16-inch MacBook Pro dips to $2,279 &amp; it&#39;s in stock](https://appleinsider.com/articles/22/06/27/deals-apples-16-inch-macbook-pro-dips-to-2279-its-in-stock?utm_medium=rss)
+ - [Rumor: Here’s when Samsung’s Android 13 beta program could start](https://www.androidauthority.com/samsung-android-13-3180962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
