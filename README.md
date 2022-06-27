@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reptilian Rising is the &#39;80s tabletop mashup you never knew you needed](https://www.pcgamer.com/reptilian-rising-is-the-80s-tabletop-mashup-you-never-knew-you-needed)
- - [New Nintendo Direct ‘Mini’ coming June 28](https://www.polygon.com/23184625/nintendo-direct-june-2022-date-time)
- - [Sonic Origins co-developer is &#39;very unhappy&#39; about the state of it](https://www.pcgamer.com/sonic-origins-co-developer-is-very-unhappy-about-the-state-of-it)<!-- GAME:END -->
+ - [Endless Dungeon is an unexpected roguelike sequel with a dash of Overwatch](https://www.pcgamer.com/endless-dungeon-is-an-unexpected-roguelike-sequel-with-a-dash-of-overwatch)
+ - [How to find the Raft Temperance code](https://www.pcgamer.com/raft-temperance-code-observatory-safe)
+ - [AMD has released new drivers for GPUs it no longer supports](https://www.pcgamer.com/amd-has-released-new-drivers-for-gpus-it-no-longer-supports)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
