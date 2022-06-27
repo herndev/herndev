@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SSD benchmarks show the 256GB 13&quot; MacBook Pro with M2 has ~50% slower read and ~30% slower write speeds than the previous gen 256GB MacBook Pro with M1 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/220626/p9#a220626p9)
- - [Jurassic World Dominion: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/jurassic-world-dominion-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39; Directors to Digitally Fix Will Byers Plot Hole     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-directors-to-digitally-fix-will-byers-plot-hole/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-watch-this-week/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; -- When Does the Marvel Flick Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-does-the-marvel-flick-hit-disney-plus/#ftag=CAD590a51e)
+ - [Every Pixar Movie, Ranked     - CNET](https://www.cnet.com/culture/entertainment/every-pixar-movie-ranked/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
