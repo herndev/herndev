@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Top Secret](http://9gag.com/gag/aXr3Zvg)
- - ⏩ [My ex came back to me like this, and I&#39;m like: nope](http://9gag.com/gag/aRrGxPB)
+ - ⏩ [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
  - 👉 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
 
 ---
