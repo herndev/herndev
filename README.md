@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An unlocked Pixel 6 Pro is $120 off at Woot for today only](https://www.theverge.com/good-deals/2022/6/27/23184942/google-pixel-6-pro-woot-one-day-deal-sale)
- - [Free Hangouts users will be moved to Chat starting today &lpar;Updated&rpar;](https://www.androidauthority.com/google-hangouts-chat-transition-3180787/)
- - [Google Hangouts is shutting down in November](https://www.theverge.com/2022/6/27/23185012/google-hangouts-shutting-down-november-chat-migration)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [Asus ROG Phone 6 breaks cover, looks absolutely massive with its cooling fan](https://www.androidauthority.com/asus-rog-phone-6-cooling-3180858/)
+ - [Supreme Court rejects Apple’s bid to continue fighting over two Qualcomm patents](https://www.theverge.com/2022/6/27/23184743/apple-qualcomm-patent-lawsuit-supreme-court-5g-modems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
