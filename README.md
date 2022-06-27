@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I used AI to help Nvidia design an 800W version of the RTX 4090](https://www.pcgamer.com/i-used-ai-to-help-nvidia-design-an-800w-version-of-the-rtx-4090)
- - [Blade Runner: Enhanced Edition updated with the un-enhanced edition on Steam after awful reception](https://www.pcgamer.com/blade-runner-enhanced-edition-updated-with-the-un-enhanced-edition-on-steam-after-awful-reception)
- - [Microsoft&#39;s Edge browser gets a game streaming upgrade](https://www.pcgamer.com/microsofts-edge-browser-gets-a-game-streaming-upgrade)<!-- GAME:END -->
+ - [Reptilian Rising is the &#39;80s tabletop mashup you never knew you needed](https://www.pcgamer.com/reptilian-rising-is-the-80s-tabletop-mashup-you-never-knew-you-needed)
+ - [New Nintendo Direct ‘Mini’ coming June 28](https://www.polygon.com/23184625/nintendo-direct-june-2022-date-time)
+ - [Sonic Origins co-developer is &#39;very unhappy&#39; about the state of it](https://www.pcgamer.com/sonic-origins-co-developer-is-very-unhappy-about-the-state-of-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
