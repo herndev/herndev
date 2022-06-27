@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man spitting facts fr fr](http://9gag.com/gag/aVx8A9P)
- - ⏩ [Still do](http://9gag.com/gag/avAV34E)
- - 👉 [Someone needs to release some steam](http://9gag.com/gag/apgX4zD)<!-- MEMES:END -->
+ - 💣 [I&#39;m on a diet and it&#39;s not fair](http://9gag.com/gag/aNPX6nK)
+ - ⏩ [She had a nice butt.](http://9gag.com/gag/aegEL65)
+ - 👉 [Bird manages to escape a clowder of cats by playing statue](http://9gag.com/gag/a61zAxA)<!-- MEMES:END -->
 
 ---
 
