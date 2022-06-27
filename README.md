@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple AirPods Pro 2: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/airpods-pro-2-release-date-rumors-specs-price-features-3169965/)
  - [Icebergify: How To Create an Iceberg of Your Most Listened to Spotify Artists     - CNET](https://www.cnet.com/culture/entertainment/icebergify-how-to-create-an-iceberg-of-your-most-listened-to-spotify-artists/#ftag=CAD590a51e)
- - [Dublin-based &amp;Open, which helps brands send both physical and digital gifts at scale, raised a $26M Series A led by Molten Ventures &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/220627/p1#a220627p1)
- - [More People Need to Watch This Hidden Sci-Fi Gem on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-hidden-sci-fi-gem-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dublin-based &amp;Open, which helps brands send both physical and digital gifts at scale, raised a $26M Series A led by Molten Ventures &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/220627/p1#a220627p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
