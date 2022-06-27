@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game companies pledge to help workers as abortion becomes illegal in many states](https://www.polygon.com/23185284/roe-v-wade-abortion-illegal-video-game-industry-response)
- - [Just in time for The Rock’s movie, DC Comics gives Black Adam a big shakeup](https://www.polygon.com/23184702/black-adam-dc-comics)
- - [Skull and Bones ESRB listing appears, this thing might actually be happening](https://www.pcgamer.com/skull-and-bones-esrb-listing-appears-this-thing-might-actually-be-happening)<!-- GAME:END -->
+ - [Extreme gaming PC build 2022](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
+ - [Impressive Fan Creation Fallout: London Coming In 2023](https://kotaku.com/fallout-london-4-pc-mod-dlc-release-date-trailer-2023-1849114916)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
