@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPhone 14: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)
- - [Strapi, known for its open-source headless CMS, raises a $31M Series B led by CRV and says it plans to launch its Strapi Cloud service in 2023 &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220627/p2#a220627p2)
- - [Nothing Phone 1: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)<!-- TECH:END -->
+ - [Xiaomi 12T leaks, could fix where Xiaomi 12 went wrong](https://www.androidauthority.com/xiaomi-12t-3180098/)
+ - [Apple’s entry-level MacBook Pro M2 has slower SSD speeds than its M1 counterpart](https://www.theverge.com/2022/6/27/23184515/apple-macbook-pro-m2-slow-ssd-speeds)
+ - [Apple iPhone 14: Everything we know so far &lpar;Updated: June 27&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
