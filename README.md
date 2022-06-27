@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This chair is feeling motivated](http://9gag.com/gag/aqGO3nZ)
- - ⏩ [Open sussame](http://9gag.com/gag/awzDRdD)
- - 👉 [For the love of God please stop.](http://9gag.com/gag/aqGO3Zp)<!-- MEMES:END -->
+ - 💣 [Open sussame](http://9gag.com/gag/awzDRdD)
+ - ⏩ [..........](http://9gag.com/gag/aAG7WVg)
+ - 👉 [That stuffed animal looks suspiciously familiar](http://9gag.com/gag/aBnMD82)<!-- MEMES:END -->
 
 ---
 
