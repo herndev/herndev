@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Airbnb’s party ban is now permanent](https://www.theverge.com/2022/6/28/23186141/airbnb-party-ban-policy-16-person-occupancy-limit-lifted)
- - [Uber drivers are liking the Teslas](https://www.theverge.com/2022/6/28/23185468/uber-drivers-tesla-car-rentals-through-hertz-growth)
- - [After Twitter gives Elon Musk access to its firehose and historical tweet data, experts doubt the data will provide conclusive answers on spam and bots &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p8#a220628p8)<!-- TECH:END -->
+ - [Spotting Objects From Space Is Easy. This Challenge Is Harder](https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/)
+ - [Democracy Is Asking Too Much of Its Data](https://www.wired.com/story/census-algorithm-politics/)
+ - [The Rise and Precarious Reign of China’s Battery King](https://www.wired.com/story/catl-china-battery-production-evs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
