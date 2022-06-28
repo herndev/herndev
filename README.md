@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Podcasters are organizing to support abortion rights after Roe is overturned](https://www.theverge.com/2022/6/28/23186432/abortion-roe-scotus-howard-stern-my-favorite-murder-podcast)
- - [AirTags help Toronto man track down stolen Range Rover](https://appleinsider.com/articles/22/06/28/airtags-help-toronto-man-track-down-stolen-range-rover?utm_medium=rss)
- - [Deals: save $220 on Apple&#39;s 1TB 14-inch MacBook Pro, but only for a limited time](https://appleinsider.com/articles/22/06/28/deals-save-220-on-apples-1tb-14-inch-macbook-pro-but-only-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
+ - [What is a Sonos Boost, and do you need one?](https://www.androidauthority.com/what-is-a-sonos-boost-3170323/)
+ - [Arm announces new mobile Armv9 CPUs with improved performance and new GPUs including the Immortalis-G715, its first with ray-tracing support &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/220628/p21#a220628p21)
+ - [Apple&#39;s iPhone came out 15 years ago and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
