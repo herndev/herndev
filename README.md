@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Inzone M9 gaming monitor review](https://www.pcgamer.com/sony-inzone-m9-gaming-monitor-review)
- - [Anvil: Vault Breakers Season 2 is Here!](https://news.xbox.com/en-us/2022/06/28/anvil-vault-breakers-season-2-is-here/)
- - [Xbox Head Defends Bethesda In Wake Of Crunch Allegations](https://kotaku.com/bethesda-xbox-microsoft-fallout-76-crunch-starfield-1849120084)<!-- GAME:END -->
+ - [Simpsons Hit and Run fan puts a cult classic in an open-world remake](https://www.polygon.com/23187203/simpsons-hit-and-run-fan-project-open-world)
+ - [Like the PS5’s design? Maybe you’ll like Sony’s new gaming monitors and headsets](https://www.polygon.com/23187033/sony-gaming-headset-monitor-pc-ps5-inzone)
+ - [Thai cave movie Thirteen Lives follows the terrifying real-world rescue](https://www.polygon.com/23187131/thirteen-lives-thai-cave-rescue-movie-trailer-tham-luang)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
