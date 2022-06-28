@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Yet another OnePlus 10 series phone surfaces in leaks](https://www.androidauthority.com/oneplus-10rt-camera-specs-3181069/)
  - [Samsung’s next phone might be the most powerful one with a removable battery](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
- - [Hypercasual video games, with simple gameplay and low-stakes challenges, are getting more sophisticated as studios struggle to retain monetizable players &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p1#a220628p1)
- - [Still holding on to your Pixel 3 and 3 XL? An important update is here for you.](https://www.androidauthority.com/google-pixel-3-volte-update-3181050/)<!-- TECH:END -->
+ - [Hypercasual video games, with simple gameplay and low-stakes challenges, are getting more sophisticated as studios struggle to retain monetizable players &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p1#a220628p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
