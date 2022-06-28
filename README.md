@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laaaaame](http://9gag.com/gag/aXr3pD9)
- - ⏩ [Chadgirl](http://9gag.com/gag/axBKG5W)
+ - 💣 [Inb4 be grateful you have a job](http://9gag.com/gag/a91wLZm)
+ - ⏩ [Just keep swimming](http://9gag.com/gag/aogojQA)
  - 👉 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 ---
