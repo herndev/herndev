@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
- - ⏩ [Legend.](http://9gag.com/gag/aVxrjEO)
- - 👉 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
+ - 💣 [Legend.](http://9gag.com/gag/aVxrjEO)
+ - ⏩ [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)
+ - 👉 [Browser&#39;s History](http://9gag.com/gag/a71g51r)<!-- MEMES:END -->
 
 ---
 
