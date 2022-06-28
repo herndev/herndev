@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #374: Tuesday, June 28](https://www.pcgamer.com/wordle-today-june-28-374-answer-hint)
  - [Nvidia is set to halt production of the RTX 3080 12GB](https://www.pcgamer.com/nvidia-is-set-to-halt-production-of-the-rtx-3080-12gb)
- - [Stadia may be getting an Nvidia GPU upgrade](https://www.pcgamer.com/stadia-may-be-getting-an-nvidia-gpu-upgrade)
- - [Blood Red](https://kotaku.com/kurozaki-sakura-art-illustration-concept-artstation-1849116285)<!-- GAME:END -->
+ - [Stadia may be getting an Nvidia GPU upgrade](https://www.pcgamer.com/stadia-may-be-getting-an-nvidia-gpu-upgrade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
