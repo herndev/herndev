@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Edge Collections go full-on Pinterest with inspiration feed and sharing](https://www.theverge.com/2022/6/28/23186775/microsoft-edge-collections-pinterest-inspiration-feed-sharing)
- - [Sony has another PlayStation 5 restock you can queue up for right now](https://www.theverge.com/2022/6/28/23186988/sony-playstation-5-ps5-restock-direct-console-availability-inventory-check)
- - [Harley Quinn and Poison Ivy are ready to get even freakier in season 3 trailer](https://www.theverge.com/2022/6/28/23186845/harley-quinn-season-3-trailer-hbo-max)<!-- TECH:END -->
+ - [FCC commissioner calls for Apple &amp; Google to ban TikTok](https://appleinsider.com/articles/22/06/28/fcc-commissioner-calls-for-apple-google-to-ban-tiktok?utm_medium=rss)
+ - [Sony’s InZone gaming monitors and headsets are for more than just PS5 gamers](https://www.theverge.com/2022/6/28/23180410/sony-inzone-gaming-monitors-hands-on-specs-price-ps5-pc)
+ - [Amazon limits Plan B purchases after demand spike](https://www.theverge.com/2022/6/28/23187039/amazon-cvs-rite-aid-plan-b-emergency-contraception)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
