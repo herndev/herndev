@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yet another OnePlus 10 series phone surfaces in leaks](https://www.androidauthority.com/oneplus-10rt-camera-specs-3181069/)
- - [Samsung’s next phone might be the most powerful one with a removable battery](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
- - [Hypercasual video games, with simple gameplay and low-stakes challenges, are getting more sophisticated as studios struggle to retain monetizable players &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p1#a220628p1)<!-- TECH:END -->
+ - [Google makes Google Earth Engine, which tracks the earth&#39;s surface, available to any commercial or government organization using Google Cloud &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/220628/p4#a220628p4)
+ - [UK startup Speechmatics, which uses AI to translate speech to text, regardless of accent, raised a $62M Series B led by Susquehanna and says it has 170 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220628/p3#a220628p3)
+ - [HTC’s smartphone division limps on with metaverse-focused Desire 22 Pro](https://www.theverge.com/2022/6/28/23186110/htc-desire-22-pro-price-release-date-features-metaverse-flow-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
