@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Simpsons Hit and Run fan puts a cult classic in an open-world remake](https://www.polygon.com/23187203/simpsons-hit-and-run-fan-project-open-world)
- - [Like the PS5’s design? Maybe you’ll like Sony’s new gaming monitors and headsets](https://www.polygon.com/23187033/sony-gaming-headset-monitor-pc-ps5-inzone)
- - [Thai cave movie Thirteen Lives follows the terrifying real-world rescue](https://www.polygon.com/23187131/thirteen-lives-thai-cave-rescue-movie-trailer-tham-luang)<!-- GAME:END -->
+ - [Steam&#39;s most-wishlisted game admits to using some &#39;volunteer&#39; workers](https://www.pcgamer.com/steams-most-wishlisted-game-admits-to-using-some-volunteer-workers)
+ - [&#39;I will stream while you cook for me,&#39; says banned Twitch streamer in bizarre sexist rant](https://www.pcgamer.com/i-will-stream-while-you-cook-for-me-says-banned-twitch-streamer-in-bizarre-sexist-rant)
+ - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
