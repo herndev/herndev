@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lorelei and the Laser Eyes is the newest game from Sayonara Wild Hearts developers](https://www.polygon.com/23186346/lorelei-and-the-laser-eyes-trailer-nintendo-switch)
- - [New Games with Gold for July 2022](https://news.xbox.com/en-us/2022/06/28/new-games-with-gold-for-july-2022/)
- - [The Boys and Umbrella Academy are finally doing more with their marginalized characters](https://www.polygon.com/23185393/the-boys-umbrella-academy-characters-season-3)<!-- GAME:END -->
+ - [Take Your Seat in the New Era of Formula 1 with EA Sports F1 22](https://news.xbox.com/en-us/2022/06/28/new-era-of-formula-1-with-ea-sports-f1-22/)
+ - [Make the most of Legendary Crests in Diablo Immortal](https://www.polygon.com/guides/23180579/diablo-immortal-legendary-crests-elder-rifts-gems)
+ - [Xbox Games with Gold for July’s lineup delivers Torchlight. Again.](https://www.polygon.com/23186523/xbox-games-with-gold-free-games-july-2022-torchlight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
