@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to make a QR code on any device](https://www.androidauthority.com/make-qr-code-3181199/)
- - [Apple researching dual-monitor mounting system for Pro Display XDR](https://appleinsider.com/articles/20/12/03/apple-researching-dual-monitor-mounting-system-for-pro-display-xdr?utm_medium=rss)
- - [a16z&#39;s Marc Andreessen and Packy McCormick failing to coherently explain web3 use cases demonstrate the hollowness of the space, often obscured by boosterism &lpar;Charlie Warzel/The Atlantic&rpar;](http://www.techmeme.com/220628/p16#a220628p16)<!-- TECH:END -->
+ - [Gloat, an AI-powered internal jobs board, raised a $90M Series D led by Generation Investment Management, bringing its total funding to $192M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220628/p18#a220628p18)
+ - [[Thread] A look at the crypto deals made by English Premier League soccer clubs, including sponsorships and fan tokens, most of which have tanked in value &lpar;Joey D&#39;Urso/@josephmdurso&rpar;](http://www.techmeme.com/220628/p17#a220628p17)
+ - [Foxconn steps up bonuses to attract workers for iPhone 14](https://appleinsider.com/articles/22/06/28/foxconn-steps-up-bonuses-to-attract-workers-for-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
