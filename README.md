@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s Arc GPUs will officially support AMD SmartAccess Memory when they finally hit the DIY market](https://www.pcgamer.com/intels-arc-gpus-will-officially-support-amd-smartaccess-memory-when-they-finally-hit-the-diy-market)
- - [Today&#39;s Wordle answer #374: Tuesday, June 28](https://www.pcgamer.com/wordle-today-june-28-374-answer-hint)
- - [Nvidia rumored to have halted production of the RTX 3080 12GB](https://www.pcgamer.com/nvidia-is-set-to-halt-production-of-the-rtx-3080-12gb)<!-- GAME:END -->
+ - [How to make a Recycler in Raft](https://www.pcgamer.com/raft-recycler-blueprint-craft)
+ - [Where to find every Calus Automaton in Destiny 2](https://www.pcgamer.com/destiny-2-calus-automaton)
+ - [How to get Trash Cubes in Raft](https://www.pcgamer.com/raft-trash-cubes-craft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
