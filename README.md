@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montblanc Summit 3 will be the first Wear OS 3 smartwatch for iOS](https://www.theverge.com/2022/6/28/23186980/montblanc-summit-3-wear-os-3-ios)
- - [How to scan a QR code on Android](https://www.androidauthority.com/scan-qr-code-android-3179791/)
- - [Pinterest has a new CEO, who has one job: to build the internet’s shopping mall](https://www.theverge.com/2022/6/28/23187084/pinterest-ceo-bill-ready-new)<!-- TECH:END -->
+ - [Are Hyper’s stackable USB-C chargers melting?](https://www.theverge.com/2022/6/28/23186796/hyper-sanho-targus-stackable-gan-usb-c-charger-overheating-issue)
+ - [NLRB certifies union election win for Apple Towson Town Center employees](https://appleinsider.com/articles/22/06/28/nlrb-certifies-union-election-win-for-apple-towson-town-center-employees?utm_medium=rss)
+ - [Google announces Google Public Sector, a new division aiming to bring Google Cloud tech to US educational institutions and federal, state, and local governments &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220628/p26#a220628p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
