@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to make a Recycler in Raft](https://www.pcgamer.com/raft-recycler-blueprint-craft)
- - [Where to find every Calus Automaton in Destiny 2](https://www.pcgamer.com/destiny-2-calus-automaton)
- - [How to get Trash Cubes in Raft](https://www.pcgamer.com/raft-trash-cubes-craft)<!-- GAME:END -->
+ - [Square Enix’s Harvestella is a new life sim farming game with a deadly twist](https://www.polygon.com/23185454/harvestella-square-enix-game-nintendo-switch-release-date)
+ - [Valve’s Portal collection gets surprise launch on Nintendo Switch](https://www.polygon.com/23185502/portal-companion-collection-nintendo-switch-release-download-live-a-live-demo-little-noah)
+ - [Mario + Rabbids sequel launches in October](https://www.polygon.com/23185434/mario-rabbids-sparks-of-hope-release-date-gameplay-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
