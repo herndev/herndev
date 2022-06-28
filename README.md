@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is a Sonos Boost, and do you need one?](https://www.androidauthority.com/what-is-a-sonos-boost-3170323/)
- - [Arm announces new mobile Armv9 CPUs with improved performance and new GPUs including the Immortalis-G715, its first with ray-tracing support &lpar;Hadlee Simons/Android Authority&rpar;](http://www.techmeme.com/220628/p21#a220628p21)
- - [Apple&#39;s iPhone came out 15 years ago and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_medium=rss)<!-- TECH:END -->
+ - [The Supreme Court is about to decide a major climate court case](https://www.theverge.com/2022/6/28/23186627/supreme-court-climate-court-case-west-virginia-epa-power-plant-emissions)
+ - [Google spam proposal sparks partisan backlash in Washington](https://www.theverge.com/2022/6/28/23186742/google-spam-proposal-republicans-democrats-campaign-fundraising)
+ - [How to set up Samsung Pay on your Galaxy Watch](https://www.androidauthority.com/how-to-set-up-samsung-pay-galaxy-watch-3180433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
