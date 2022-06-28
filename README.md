@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Outriders Worldslayer Out Now](https://news.xbox.com/en-us/2022/06/28/outriders-worldslayer-out-now/)
- - [Everything Shown At Today&#39;s Nintendo Direct Mini](https://kotaku.com/nintendo-direct-roundup-persona-5-monster-hunter-sonic-1849118857)
- - [Where to find every Calus Automaton in Destiny 2](https://www.pcgamer.com/destiny-2-calus-automaton)<!-- GAME:END -->
+ - [Tiny Tina’s Wonderlands: Molten Mirrors Is Out Now](https://news.xbox.com/en-us/2022/06/28/tiny-tinas-wonderlands-molten-mirrors-is-out-now/)
+ - [Sega’s open-world Sonic Frontiers has traditional Sonic levels, too](https://www.polygon.com/23186531/sonic-frontiers-cyberspace-sega-sonic-the-hedgehog)
+ - [Neon White Wouldn’t Be ‘Freaky’ Without Machine Girl&#39;s Music](https://kotaku.com/neon-white-fps-soundtrack-nintendo-switch-machine-girl-1849119261)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
