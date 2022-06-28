@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Delhi-based Progcap, a digital bank that provides working capital to SMBs, raised a $40M Series C extension at a $600M valuation, up 3x since September 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220627/p32#a220627p32)
- - [Siemens plans to buy Brightly, a North Carolina-based provider of buildings and infrastructure management software, from Clearlake Capital for $1.58B &lpar;Wilfried Eckl-Dorna/Bloomberg&rpar;](http://www.techmeme.com/220627/p31#a220627p31)
- - [&#39;Westworld&#39; Season 4 Premiere Recap: A Mysterious Caller, A Time Jump and Teddy     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-premiere-recap-a-mysterious-caller-a-time-jump-and-teddy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Filing: Google asks the US FEC to green light a program that would exempt campaign-related emails from spam; GOP alleges Gmail unfairly flags its emails as spam &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/220627/p33#a220627p33)
+ - [Behold the Weird Physics of Double-Impact Asteroids](https://www.wired.com/story/mars-binary-asteroid-craters/)
+ - [New Delhi-based Progcap, a digital bank that provides working capital to SMBs, raised a $40M Series C extension at a $600M valuation, up 3x since September 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220627/p32#a220627p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
