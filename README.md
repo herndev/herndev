@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix’s Harvestella is a new life sim farming game with a deadly twist](https://www.polygon.com/23185454/harvestella-square-enix-game-nintendo-switch-release-date)
- - [Valve’s Portal collection gets surprise launch on Nintendo Switch](https://www.polygon.com/23185502/portal-companion-collection-nintendo-switch-release-download-live-a-live-demo-little-noah)
- - [Mario + Rabbids sequel launches in October](https://www.polygon.com/23185434/mario-rabbids-sparks-of-hope-release-date-gameplay-trailer)<!-- GAME:END -->
+ - [Dragon Quest 11 spinoff Dragon Quest Treasures heads to Switch this fall](https://www.polygon.com/23185614/dragon-quest-treasures-nintendo-switch-release-date)
+ - [Everything announced during Tuesday’s Nintendo Direct ‘Mini’](https://www.polygon.com/23185421/nintendo-direct-mini-june-2022-partner-showcase-persona-monster-hunter-minecraft)
+ - [Square Enix’s Harvestella is a new life sim farming game with a deadly twist](https://www.polygon.com/23185454/harvestella-square-enix-game-nintendo-switch-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
