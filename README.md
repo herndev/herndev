@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How SCOTUS overturning Roe could be used to curb online freedoms and surveil vulnerable populations, as happened to sex workers following FOSTA/SESTA in 2018 &lpar;Olivia Snow/Wired&rpar;](http://www.techmeme.com/220627/p30#a220627p30)
- - [Look at How Much This Spider Looks Scarily Like the Cartoon Pringles Mascot     - CNET](https://www.cnet.com/science/look-at-how-much-this-spider-looks-scarily-like-the-cartoon-pringles-mascot/#ftag=CAD590a51e)
- - [Crypto exchange FTX is reportedly looking into buying Robinhood](https://www.theverge.com/2022/6/27/23185455/ftx-crypto-exchange-robinhood-acquisition-sam-bankman-fried)<!-- TECH:END -->
+ - [Siemens plans to buy Brightly, a North Carolina-based provider of buildings and infrastructure management software, from Clearlake Capital for $1.58B &lpar;Wilfried Eckl-Dorna/Bloomberg&rpar;](http://www.techmeme.com/220627/p31#a220627p31)
+ - [&#39;Westworld&#39; Season 4 Premiere Recap: A Mysterious Caller, A Time Jump and Teddy     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-premiere-recap-a-mysterious-caller-a-time-jump-and-teddy/#ftag=CAD590a51e)
+ - [Best Standing Desks of 2022     - CNET](https://www.cnet.com/news/best-standing-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
