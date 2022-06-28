@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top Secret](http://9gag.com/gag/aXr3Zvg)
- - ⏩ [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
+ - 💣 [Remove the roadblock with glass](http://9gag.com/gag/apg7E9p)
+ - ⏩ [Legend.](http://9gag.com/gag/aVxrjEO)
  - 👉 [3, 2, 1, liftoff!](http://9gag.com/gag/aqGM9DQ)<!-- MEMES:END -->
 
 ---
