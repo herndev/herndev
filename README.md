@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blood Red](https://kotaku.com/kurozaki-sakura-art-illustration-concept-artstation-1849116285)
- - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)
- - [Fan Wants To Build An Open World Simpsons: Hit &amp; Run](https://kotaku.com/simpsons-hit-run-ps2-gamecube-ea-remake-unreal-engine-5-1849115906)<!-- GAME:END -->
+ - [Nvidia is set to halt production of the RTX 3080 12GB](https://www.pcgamer.com/nvidia-is-set-to-halt-production-of-the-rtx-3080-12gb)
+ - [Stadia may be getting an Nvidia GPU upgrade](https://www.pcgamer.com/stadia-may-be-getting-an-nvidia-gpu-upgrade)
+ - [Blood Red](https://kotaku.com/kurozaki-sakura-art-illustration-concept-artstation-1849116285)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
