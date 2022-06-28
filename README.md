@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gloat, an AI-powered internal jobs board, raised a $90M Series D led by Generation Investment Management, bringing its total funding to $192M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220628/p18#a220628p18)
- - [[Thread] A look at the crypto deals made by English Premier League soccer clubs, including sponsorships and fan tokens, most of which have tanked in value &lpar;Joey D&#39;Urso/@josephmdurso&rpar;](http://www.techmeme.com/220628/p17#a220628p17)
- - [Foxconn steps up bonuses to attract workers for iPhone 14](https://appleinsider.com/articles/22/06/28/foxconn-steps-up-bonuses-to-attract-workers-for-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch credited with helping save Australian kayaker lost at sea](https://appleinsider.com/articles/22/06/28/apple-watch-credited-with-helping-save-australian-kayaker-lost-at-sea?utm_medium=rss)
+ - [How to set up call reminders on Android and iPhone](https://www.androidauthority.com/set-up-call-reminders-android-iphone-3181249/)
+ - [Vague lawsuit claims AirPods, Beats infringe on &#39;communication jewelry&#39; patents](https://appleinsider.com/articles/22/06/28/vague-lawsuit-claims-airpods-beats-infringe-on-communication-jewelry-patents?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
