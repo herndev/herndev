@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black magic is banned in hogwarts.](http://9gag.com/gag/aqGMNR7)
- - ⏩ [But there is more](http://9gag.com/gag/a0ZgPDB)
+ - 💣 [Inb4 be grateful you have a job](http://9gag.com/gag/a91wLZm)
+ - ⏩ [Every time they say: `we care about you or the environment is a lie`](http://9gag.com/gag/aegz3bQ)
  - 👉 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
 ---
