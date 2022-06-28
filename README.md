@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tiny Tina’s Wonderlands: Molten Mirrors Is Out Now](https://news.xbox.com/en-us/2022/06/28/tiny-tinas-wonderlands-molten-mirrors-is-out-now/)
- - [Sega’s open-world Sonic Frontiers has traditional Sonic levels, too](https://www.polygon.com/23186531/sonic-frontiers-cyberspace-sega-sonic-the-hedgehog)
- - [Neon White Wouldn’t Be ‘Freaky’ Without Machine Girl&#39;s Music](https://kotaku.com/neon-white-fps-soundtrack-nintendo-switch-machine-girl-1849119261)<!-- GAME:END -->
+ - [theHunter: Call of the Wild’s New Reserve Arrives Today on Xbox One](https://news.xbox.com/en-us/2022/06/28/thehunter-call-of-the-wilds-new-reserve-arrives-today-on-xbox-one/)
+ - [Harley and Ivy have been ‘doing a ton of banging’ in the Harley Quinn season 3 trailer](https://www.polygon.com/entertainment/23186725/harley-quinn-season-3-trailer-shagadelic-baby)
+ - [Pokémon Go Spotlight Hour: Can TCG Hat Pikachu be Shiny?](https://www.polygon.com/pokemon-go-guide/23186940/can-tcg-hat-pikachu-be-shiny-spotlight-hour-june)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
