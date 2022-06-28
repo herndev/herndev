@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Google asks the US FEC to green light a program that would exempt campaign-related emails from spam; GOP alleges Gmail unfairly flags its emails as spam &lpar;Ashley Gold/Axios&rpar;](http://www.techmeme.com/220627/p33#a220627p33)
- - [Behold the Weird Physics of Double-Impact Asteroids](https://www.wired.com/story/mars-binary-asteroid-craters/)
- - [New Delhi-based Progcap, a digital bank that provides working capital to SMBs, raised a $40M Series C extension at a $600M valuation, up 3x since September 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220627/p32#a220627p32)<!-- TECH:END -->
+ - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Movie on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-movie-on-disney-plus/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
