@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch credited with helping save Australian kayaker lost at sea](https://appleinsider.com/articles/22/06/28/apple-watch-credited-with-helping-save-australian-kayaker-lost-at-sea?utm_medium=rss)
- - [How to set up call reminders on Android and iPhone](https://www.androidauthority.com/set-up-call-reminders-android-iphone-3181249/)
- - [Vague lawsuit claims AirPods, Beats infringe on &#39;communication jewelry&#39; patents](https://appleinsider.com/articles/22/06/28/vague-lawsuit-claims-airpods-beats-infringe-on-communication-jewelry-patents?utm_medium=rss)<!-- TECH:END -->
+ - [Podcasters are organizing to support abortion rights after Roe is overturned](https://www.theverge.com/2022/6/28/23186432/abortion-roe-scotus-howard-stern-my-favorite-murder-podcast)
+ - [AirTags help Toronto man track down stolen Range Rover](https://appleinsider.com/articles/22/06/28/airtags-help-toronto-man-track-down-stolen-range-rover?utm_medium=rss)
+ - [Deals: save $220 on Apple&#39;s 1TB 14-inch MacBook Pro, but only for a limited time](https://appleinsider.com/articles/22/06/28/deals-save-220-on-apples-1tb-14-inch-macbook-pro-but-only-for-a-limited-time?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
