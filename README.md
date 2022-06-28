@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dogs&gt;Hoes](http://9gag.com/gag/aogoZe0)
- - ⏩ [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
- - 👉 [Amazing wood](http://9gag.com/gag/angZXEz)<!-- MEMES:END -->
+ - 💣 [Yeah, about that\u2026](http://9gag.com/gag/aAGAYOg)
+ - ⏩ [Easy trick to clean cut carpet flooring around the pole](http://9gag.com/gag/aBnzQYQ)
+ - 👉 [Fast as F@ck!](http://9gag.com/gag/azeyLex)<!-- MEMES:END -->
 
 ---
 
