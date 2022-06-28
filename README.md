@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi’s first three Leica camera phones are coming on July 4](https://www.androidauthority.com/xiaomi-12s-series-3181040/)
- - [UFC 276 Israel Adesanya vs. Jared Cannonier: Start Time, How to Watch     - CNET](https://www.cnet.com/culture/sports/ufc-276-israel-adesanya-vs-jared-cannonier-start-time-how-to-watch/#ftag=CAD590a51e)
- - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Movie on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-movie-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s next phone might be the most powerful one with a removable battery](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
+ - [Hypercasual video games, with simple gameplay and low-stakes challenges, are getting more sophisticated as studios struggle to retain monetizable players &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p1#a220628p1)
+ - [Still holding on to your Pixel 3 and 3 XL? An important update is here for you.](https://www.androidauthority.com/google-pixel-3-volte-update-3181050/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
