@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC commissioner calls for Apple &amp; Google to ban TikTok](https://appleinsider.com/articles/22/06/28/fcc-commissioner-calls-for-apple-google-to-ban-tiktok?utm_medium=rss)
- - [Sony’s InZone gaming monitors and headsets are for more than just PS5 gamers](https://www.theverge.com/2022/6/28/23180410/sony-inzone-gaming-monitors-hands-on-specs-price-ps5-pc)
- - [Amazon limits Plan B purchases after demand spike](https://www.theverge.com/2022/6/28/23187039/amazon-cvs-rite-aid-plan-b-emergency-contraception)<!-- TECH:END -->
+ - [Montblanc Summit 3 will be the first Wear OS 3 smartwatch for iOS](https://www.theverge.com/2022/6/28/23186980/montblanc-summit-3-wear-os-3-ios)
+ - [How to scan a QR code on Android](https://www.androidauthority.com/scan-qr-code-android-3179791/)
+ - [Pinterest has a new CEO, who has one job: to build the internet’s shopping mall](https://www.theverge.com/2022/6/28/23187084/pinterest-ceo-bill-ready-new)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
