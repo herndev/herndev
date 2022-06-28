@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Your Seat in the New Era of Formula 1 with EA Sports F1 22](https://news.xbox.com/en-us/2022/06/28/new-era-of-formula-1-with-ea-sports-f1-22/)
- - [Make the most of Legendary Crests in Diablo Immortal](https://www.polygon.com/guides/23180579/diablo-immortal-legendary-crests-elder-rifts-gems)
- - [Xbox Games with Gold for July’s lineup delivers Torchlight. Again.](https://www.polygon.com/23186523/xbox-games-with-gold-free-games-july-2022-torchlight)<!-- GAME:END -->
+ - [Some baller used a Raspberry Pi to play YouTube on the Commodore PET](https://www.pcgamer.com/some-baller-used-a-raspberry-pi-to-play-youtube-on-the-commodore-pet)
+ - [Ray tracing in F1 22 is not worth the penalty to performance](https://www.pcgamer.com/f1-22-performance-ray-tracing)
+ - [A low-key Nintendo Direct belies the strongest lineup of 2022](https://www.polygon.com/23186499/nintendo-direct-mini-2022-switch-lineup-schedule-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
