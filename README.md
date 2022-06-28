@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s all fun and games until God stops accepting his collect calls](http://9gag.com/gag/a41g42Z)
- - ⏩ [Warzone game mode in Aqaba port as toxic gas leaks](http://9gag.com/gag/apg7ErB)
- - 👉 [Works every time](http://9gag.com/gag/arnEvLd)<!-- MEMES:END -->
+ - 💣 [Asking the right questions!](http://9gag.com/gag/aBnzKmN)
+ - ⏩ [Works every time](http://9gag.com/gag/arnEvLd)
+ - 👉 [Move b&#39;tch](http://9gag.com/gag/adgA0P2)<!-- MEMES:END -->
 
 ---
 
