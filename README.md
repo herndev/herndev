@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield 2042&#39;s Maps, Ranked](https://kotaku.com/battlefield-2042-maps-ranked-ea-dice-ranking-worst-best-1848695917)
  - [Fan Wants To Build An Open World Simpsons: Hit &amp; Run](https://kotaku.com/simpsons-hit-run-ps2-gamecube-ea-remake-unreal-engine-5-1849115906)
- - [Fall Guys pushes the Epic Games Store to a new record player count](https://www.pcgamer.com/fall-guys-pushes-the-epic-games-store-to-a-new-record-player-count)
- - [Valve Is Doubling Steam Deck Deliveries, So Check Your Emails](https://kotaku.com/steam-deck-q3-emails-valve-preorder-reservation-date-q2-1849115741)<!-- GAME:END -->
+ - [Fall Guys pushes the Epic Games Store to a new record player count](https://www.pcgamer.com/fall-guys-pushes-the-epic-games-store-to-a-new-record-player-count)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
