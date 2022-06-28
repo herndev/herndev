@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google makes Google Earth Engine, which tracks the earth&#39;s surface, available to any commercial or government organization using Google Cloud &lpar;Stephanie Condon/ZDNet&rpar;](http://www.techmeme.com/220628/p4#a220628p4)
- - [UK startup Speechmatics, which uses AI to translate speech to text, regardless of accent, raised a $62M Series B led by Susquehanna and says it has 170 clients &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220628/p3#a220628p3)
- - [HTC’s smartphone division limps on with metaverse-focused Desire 22 Pro](https://www.theverge.com/2022/6/28/23186110/htc-desire-22-pro-price-release-date-features-metaverse-flow-headset)<!-- TECH:END -->
+ - [Airbnb’s party ban is now permanent](https://www.theverge.com/2022/6/28/23186141/airbnb-party-ban-policy-16-person-occupancy-limit-lifted)
+ - [Uber drivers are liking the Teslas](https://www.theverge.com/2022/6/28/23185468/uber-drivers-tesla-car-rentals-through-hertz-growth)
+ - [After Twitter gives Elon Musk access to its firehose and historical tweet data, experts doubt the data will provide conclusive answers on spam and bots &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/220628/p8#a220628p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
