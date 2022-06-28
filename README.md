@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotting Objects From Space Is Easy. This Challenge Is Harder](https://www.wired.com/story/spotting-objects-from-space-is-easy-this-challenge-is-harder/)
- - [Democracy Is Asking Too Much of Its Data](https://www.wired.com/story/census-algorithm-politics/)
- - [The Rise and Precarious Reign of China’s Battery King](https://www.wired.com/story/catl-china-battery-production-evs/)<!-- TECH:END -->
+ - [Pitaka unveils Pita!Tag AirTag case ecosystem, FlipBook Case for iPad Pro](https://appleinsider.com/articles/22/06/22/pitaka-unveils-pitatag-airtag-case-ecosystem-flipbook-case-for-ipad?utm_medium=rss)
+ - [AirPods swallowed by UK TV presenter in vitamin mixup](https://appleinsider.com/articles/22/06/28/airpods-swallowed-by-uk-tv-presenter-in-vitamin-mixup?utm_medium=rss)
+ - [How to turn off auto-correct on iPhone and Android](https://www.androidauthority.com/turn-off-auto-correct-3180761/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
