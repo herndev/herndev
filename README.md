@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some baller used a Raspberry Pi to play YouTube on the Commodore PET](https://www.pcgamer.com/some-baller-used-a-raspberry-pi-to-play-youtube-on-the-commodore-pet)
- - [Ray tracing in F1 22 is not worth the penalty to performance](https://www.pcgamer.com/f1-22-performance-ray-tracing)
- - [A low-key Nintendo Direct belies the strongest lineup of 2022](https://www.polygon.com/23186499/nintendo-direct-mini-2022-switch-lineup-schedule-analysis)<!-- GAME:END -->
+ - [Outriders Worldslayer Out Now](https://news.xbox.com/en-us/2022/06/28/outriders-worldslayer-out-now/)
+ - [Everything Shown At Today&#39;s Nintendo Direct Mini](https://kotaku.com/nintendo-direct-roundup-persona-5-monster-hunter-sonic-1849118857)
+ - [Where to find every Calus Automaton in Destiny 2](https://www.pcgamer.com/destiny-2-calus-automaton)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
