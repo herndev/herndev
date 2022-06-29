@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [We spoke to Dr. Wasteland, the heroic healer who became a legend in DayZ&#39;s early days](https://www.pcgamer.com/we-spoke-to-dr-wasteland-the-heroic-healer-from-dayzs-early-days)
  - [Wonderful, That Bonkers Fishing Game Series Is Back](https://kotaku.com/fishing-spirits-fish-play-aquarium-switch-namco-bandai-1849121336)
- - [Cruisy Japanese Summer Game Gets Surprise English Release](https://kotaku.com/crayon-shin-chan-my-summer-vacation-ps4-switch-english-1849121072)
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
+ - [Cruisy Japanese Summer Game Gets Surprise English Release](https://kotaku.com/crayon-shin-chan-my-summer-vacation-ps4-switch-english-1849121072)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
