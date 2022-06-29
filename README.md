@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata’s Native Nintendo Switch Port Has Kingdom Hearts Fans Fuming](https://kotaku.com/nier-automata-kingdom-hearts-nintendo-switch-port-cloud-1849125280)
- - [Red Dagger is Marvel Comics’ foremost Pakistani superhero](https://www.polygon.com/23187976/ms-marvel-red-dagger-marvel-comics-waleed-kareem)
- - [Best SSD for gaming in 2022](https://www.pcgamer.com/best-ssd-for-gaming)<!-- GAME:END -->
+ - [Arcade Paradise launches on PS4 &amp; PS5 on August 11](https://blog.playstation.com/2022/06/29/arcade-paradise-launches-on-ps4-ps5-on-august-11/)
+ - [Halo Infinite&#39;s desync problem is on hold because developers are busy with other things](https://www.pcgamer.com/halo-infinites-desync-problem-is-on-hold-because-developers-are-busy-with-other-things)
+ - [Xbox Game Studios boss says there&#39;s no more crunching at Bethesda](https://www.pcgamer.com/xbox-game-studios-boss-says-theres-no-more-crunching-at-bethesda)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
