@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horses are Chad](http://9gag.com/gag/aDD91WB)
- - ⏩ [True.](http://9gag.com/gag/azey9Mp)
- - 👉 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)<!-- MEMES:END -->
+ - 💣 [These two have been in use for roughly the same amount of time](http://9gag.com/gag/angZM9q)
+ - ⏩ [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
+ - 👉 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)<!-- MEMES:END -->
 
 ---
 
