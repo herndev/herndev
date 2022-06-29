@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Archery in games is bad: here&#39;s how to make it better](https://www.pcgamer.com/archery-in-games-is-bad-heres-how-to-make-it-better)
- - [Bow Down Before the Beat! Music and Gameplay Become One in Metal: Hellsinger](https://news.xbox.com/en-us/2022/06/29/bow-down-before-the-beat-music-and-gameplay-become-one-in-metal-hellsinger/)
- - [High School Musical: The Musical: The Series takes on summer camp in a new trailer](https://www.polygon.com/23188041/hsmtmts-season-3-trailer-olivia-rodrigo-jojo-siwa-high-school-musical-series-disney-plus)<!-- GAME:END -->
+ - [Workers behind D&amp;D, Magic are speaking up about their company’s stance on abortion rights](https://www.polygon.com/23188223/wizards-of-the-coast-hasbro-abortion-rights-response)
+ - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)
+ - [Cyberpunk 2077 QA CEO Claps Back, Says People Don’t Understand Testing](https://kotaku.com/cyberpunk-2077-bugs-cd-projekt-red-quantic-lab-qa-teste-1849124066)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
