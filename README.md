@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Commissioner Wants TikTok Pulled From Apple, Google App Stores     - CNET](https://www.cnet.com/news/fcc-commissioner-wants-tiktok-pulled-from-apple-google-app-stores/#ftag=CAD590a51e)
- - [NASA Is Outsourcing a Martian Mystery -- You Can Take Part Online     - CNET](https://www.cnet.com/science/space/nasa-is-outsourcing-a-martian-mystery-you-can-take-part-online/#ftag=CAD590a51e)
- - [This Taco Bell Cheez-It Isn&#39;t Your Average Size Snack     - CNET](https://www.cnet.com/culture/this-taco-bell-cheez-it-isnt-your-average-size-snack/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elliptic: North Korea-backed hacking group Lazarus might be behind Harmony&#39;s $100M altcoin theft; the hack bore similarities to the $600M Ronin bridge attack &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/220629/p31#a220629p31)
+ - [Netflix is bringing Cameron Diaz out of retirement for a new movie with Jamie Foxx](https://www.theverge.com/2022/6/29/23188583/netflix-cameron-diaz-retirement-new-movie-jamie-foxx-back-in-action)
+ - [Select merchants now offering 4% Apple Card Daily Cash until July 31](https://appleinsider.com/articles/22/06/29/select-merchants-now-offering-4-apple-card-daily-cash-until-july-31?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
