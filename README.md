@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out an early iPhone prototype worth $500k on the 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)
- - [Research details sophisticated malware targeting a wide range of routers then taking over Windows, Linux, and Mac devices, in N. America and Europe for ~2 years &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220629/p29#a220629p29)
- - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated June 29&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)<!-- TECH:END -->
+ - [FCC Commissioner Wants TikTok Pulled From Apple, Google App Stores     - CNET](https://www.cnet.com/news/fcc-commissioner-wants-tiktok-pulled-from-apple-google-app-stores/#ftag=CAD590a51e)
+ - [NASA Is Outsourcing a Martian Mystery -- You Can Take Part Online     - CNET](https://www.cnet.com/science/space/nasa-is-outsourcing-a-martian-mystery-you-can-take-part-online/#ftag=CAD590a51e)
+ - [This Taco Bell Cheez-It Isn&#39;t Your Average Size Snack     - CNET](https://www.cnet.com/culture/this-taco-bell-cheez-it-isnt-your-average-size-snack/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
