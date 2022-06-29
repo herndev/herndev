@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
- - [Today&#39;s Wordle answer #375: Wednesday, June 29](https://www.pcgamer.com/wordle-today-june-29-375-answer-hint)
- - [Wizard royale Spellbreak is shutting down next year](https://www.pcgamer.com/wizard-royale-spellbreak-is-shutting-down-next-year)<!-- GAME:END -->
+ - [AI: The Somnium Files – nirvanA Initiative review](https://www.pcgamer.com/ai-the-somnium-files-nirvana-initiative-review)
+ - [AMD-powered Frontier supercomputer is now the world&#39;s first &#39;true exascale machine&#39;](https://www.pcgamer.com/amd-powered-frontier-supercomputer-is-now-the-worlds-first-true-exascale-machine)
+ - [AMD hack due to some of its passwords being just &quot;password&quot;](https://www.pcgamer.com/amd-hack-due-to-some-of-its-passwords-being-just-password)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
