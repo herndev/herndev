@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The deadliest](http://9gag.com/gag/a21groE)
+ - 💣 [Wait what](http://9gag.com/gag/adgA7DV)
  - ⏩ [Gordo has left the game](http://9gag.com/gag/a91wr5o)
  - 👉 [What kind of Royals are you? Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win an iPhone!](http://9gag.com/gag/aYr6p5x)<!-- MEMES:END -->
 
