@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Byju&#39;s has offered to buy 2U Inc. for ~$15/share, a 61% premium to its Tuesday closing price, in a cash deal that values the US edtech company at ~$2B &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220629/p3#a220629p3)
- - [London-based Birdie, which offers digital tools to in-home care providers to optimize their workflow, raised a $30M Series B, bringing its total funding to $52M &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220629/p2#a220629p2)
- - [PicnicHealth, which lets patients manage their health records online and share their medical data with researchers, has raised a $60M Series C led by B Capital &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/220629/p1#a220629p1)<!-- TECH:END -->
+ - [Samsung’s next removable battery phone could be a powerful one &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
+ - [A profile of ADT, which is helping sell and install Nest smart home products, as it prepares to unveil its own smart home security software and hardware in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p5#a220629p5)
+ - [Fossil Gen 7: Everything we know &lpar;Updated: June 29&rpar;](https://www.androidauthority.com/fossil-gen-7-3160846/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
