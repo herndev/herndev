@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPadOS 16 Stage Manager vs. iOS 15 Split View multitasking](https://appleinsider.com/inside/ios-16/vs/compared-ipados-16-stage-manager-vs-ios-15-split-view-multitasking?utm_medium=rss)
- - [The NuraTrue Pro are the first wireless earbuds to support aptX Lossless streaming](https://www.theverge.com/2022/6/29/23187844/nuratrue-pro-true-wireless-headphones-aptx-lossless-cd-quality-audio)
- - [Nothing’s Phone 1 uses Qualcomm’s midrange Snapdragon 778G Plus processor](https://www.theverge.com/2022/6/29/23188036/nothing-phone-1-processor-snapdragon-778g-plus)<!-- TECH:END -->
+ - [How to use the new mail merge in Pages](https://appleinsider.com/inside/iwork/tips/how-to-use-the-new-mail-merge-in-pages?utm_medium=rss)
+ - [Sources: the Treasury Department and IRS are likely to postpone a January 2023 starting date for crypto companies to track clients&#39; captial gains and losses &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/220629/p26#a220629p26)
+ - [See’s third and final season has its sight set on war in new trailer](https://www.theverge.com/2022/6/29/23188134/see-apple-tv-season-three-series-finale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
