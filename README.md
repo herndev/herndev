@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Workers behind D&amp;D, Magic are speaking up about their company’s stance on abortion rights](https://www.polygon.com/23188223/wizards-of-the-coast-hasbro-abortion-rights-response)
- - [Live-action stretchy powers: gross or cool?](https://www.polygon.com/entertainment/23153258/stretch-powers-superheroes-movies-tv-mr-fantastic-ms-marvel)
- - [Cyberpunk 2077 QA CEO Claps Back, Says People Don’t Understand Testing](https://kotaku.com/cyberpunk-2077-bugs-cd-projekt-red-quantic-lab-qa-teste-1849124066)<!-- GAME:END -->
+ - [Team RWBY is making its way to the Realm in a new Paladins Patch!](https://news.xbox.com/en-us/2022/06/29/team-rwby-is-making-its-way-to-paladins/)
+ - [NFT Pokémon Clone Recovers From $600 Million Hack, Ready To Chew Players Up Again](https://kotaku.com/crypto-pokemon-nft-game-axie-infinity-blockchain-1849124622)
+ - [Windows Defender is reportedly hindering performance on Intel CPUs](https://www.pcgamer.com/windows-defender-is-reportedly-hindering-performance-on-intel-cpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
