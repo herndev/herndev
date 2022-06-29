@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Fighting Collection is a showcase of the company’s most creative era](https://www.polygon.com/reviews/23186682/capcom-fighting-collection-review-games-platforms-street-fighter-6)
- - [Battle royale Spellbreak shutting down after Blizzard buys studio](https://www.polygon.com/23188013/spellbreak-shut-down-servers-off-blizzard-buys-proletariat)
- - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)<!-- GAME:END -->
+ - [Archery in games is bad: here&#39;s how to make it better](https://www.pcgamer.com/archery-in-games-is-bad-heres-how-to-make-it-better)
+ - [Bow Down Before the Beat! Music and Gameplay Become One in Metal: Hellsinger](https://news.xbox.com/en-us/2022/06/29/bow-down-before-the-beat-music-and-gameplay-become-one-in-metal-hellsinger/)
+ - [High School Musical: The Musical: The Series takes on summer camp in a new trailer](https://www.polygon.com/23188041/hsmtmts-season-3-trailer-olivia-rodrigo-jojo-siwa-high-school-musical-series-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
