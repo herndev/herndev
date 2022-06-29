@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Normalyze, which enables security teams to continuously analyze, prioritize, and respond to cloud data threats, emerges from stealth with a $22.2M Series A &lpar;Corinna Makris/VentureBeat&rpar;](http://www.techmeme.com/220628/p31#a220628p31)
- - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raised a $100M Series C at a $1.6B valuation and acquired rival Option Impact &lpar;Allison Levitsky/Protocol&rpar;](http://www.techmeme.com/220628/p30#a220628p30)
- - [Why More People Need to Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PicnicHealth, which lets patients manage their health records online and share their medical data with researchers, has raised a $60M Series C led by B Capital &lpar;Conor Hale/Fierce Biotech&rpar;](http://www.techmeme.com/220629/p1#a220629p1)
+ - [Nomad Health, an online marketplace for temporary healthcare jobs, has raised $105M, bringing its total funding to $200M+, as it expands beyond travel nurses &lpar;Katie Jennings/Forbes&rpar;](http://www.techmeme.com/220628/p32#a220628p32)
+ - [Normalyze, which enables security teams to continuously analyze, prioritize, and respond to cloud data threats, emerges from stealth with a $22.2M Series A &lpar;Corinna Makris/VentureBeat&rpar;](http://www.techmeme.com/220628/p31#a220628p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
