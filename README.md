@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [AOKZOE AI is the next Steam Deck competitor powered by AMD 6800U](https://www.pcgamer.com/aokzoe-ai-is-the-next-steam-deck-competitor-powered-by-amd-6800u)
- - [Arm&#39;s new flagship GPU will include hardware ray tracing support. Yeah, ray-traced phones](https://www.pcgamer.com/arms-new-flagship-gpu-will-include-hardware-ray-tracing-support-yeah-ray-traced-phones)<!-- GAME:END -->
+ - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)
+ - [Today&#39;s Wordle answer #375: Wednesday, June 29](https://www.pcgamer.com/wordle-today-june-29-375-answer-hint)
+ - [Wizard royale Spellbreak is shutting down next year](https://www.pcgamer.com/wizard-royale-spellbreak-is-shutting-down-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
