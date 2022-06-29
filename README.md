@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These two have been in use for roughly the same amount of time](http://9gag.com/gag/angZM9q)
- - ⏩ [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
+ - 💣 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
+ - ⏩ [Be kind](http://9gag.com/gag/a21gRYw)
  - 👉 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)<!-- MEMES:END -->
 
 ---
