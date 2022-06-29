@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 might be getting a selfie camera upgrade](https://www.androidauthority.com/pixel-7-selfie-camera-3181524/)
- - [Samsung’s next removable battery phone could be a powerful one &lpar;Updated&rpar;](https://www.androidauthority.com/samsung-galaxy-xcover-6-pro-removable-battery-3181052/)
- - [A profile of ADT, which is helping sell and install Nest smart home products, as it prepares to unveil its own smart home security software and hardware in 2023 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p5#a220629p5)<!-- TECH:END -->
+ - [Tesla lays off nearly 200 Autopilot employees who help train the company’s AI](https://www.theverge.com/2022/6/29/23187751/tesla-layoffs-firings-autopilot-san-mateo-office-200-workers)
+ - [Sources: Tesla lays off around 200 Autopilot workers, most of them hourly and focused on labeling data, as part of a broader reduction in staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p8#a220629p8)
+ - [London-based Entrepreneur First, which invests in nascent startups, connects co-founders, and offers other support, has raised a $158M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220629/p7#a220629p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
