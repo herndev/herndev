@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arcade Paradise launches on PS4 &amp; PS5 on August 11](https://blog.playstation.com/2022/06/29/arcade-paradise-launches-on-ps4-ps5-on-august-11/)
- - [Halo Infinite&#39;s desync problem is on hold because developers are busy with other things](https://www.pcgamer.com/halo-infinites-desync-problem-is-on-hold-because-developers-are-busy-with-other-things)
- - [Xbox Game Studios boss says there&#39;s no more crunching at Bethesda](https://www.pcgamer.com/xbox-game-studios-boss-says-theres-no-more-crunching-at-bethesda)<!-- GAME:END -->
+ - [KeyForge CCG is still broken, but a new publisher wants to fix that](https://www.polygon.com/23188650/keyforge-ffg-ghost-games-christian-peterson)
+ - [God Of War Ragnarök Producer Asks Rabid Stans To Chill Out Over Reveal Rumors](https://kotaku.com/god-of-war-ragnarok-cory-barlog-sony-state-play-rumor-1849126137)
+ - [Wild West Dynasty looks like any other survival game until it turns into a city builder](https://www.pcgamer.com/wild-west-dynasty-looks-like-any-other-survival-game-until-it-turns-into-a-city-builder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
