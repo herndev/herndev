@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are Hyper’s stackable USB-C chargers melting?](https://www.theverge.com/2022/6/28/23186796/hyper-sanho-targus-stackable-gan-usb-c-charger-overheating-issue)
- - [NLRB certifies union election win for Apple Towson Town Center employees](https://appleinsider.com/articles/22/06/28/nlrb-certifies-union-election-win-for-apple-towson-town-center-employees?utm_medium=rss)
- - [Google announces Google Public Sector, a new division aiming to bring Google Cloud tech to US educational institutions and federal, state, and local governments &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220628/p26#a220628p26)<!-- TECH:END -->
+ - [CoinFLEX CEO Mark Lamb says crypto investor Roger Ver owes CoinFLEX $47M in USDC, after Ver denied &quot;some rumors&quot; he defaulted on a debt to a counterparty &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220628/p27#a220628p27)
+ - [Gmail’s new look is about to appear for more people, even if they didn’t ask for it](https://www.theverge.com/2022/6/28/23187304/google-gmail-ui-opt-out-rollout-chat-spaces-meet)
+ - [&#39;Thor: Love and Thunder&#39; -- Here&#39;s When to Expect the Marvel Flick on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-heres-when-to-expect-the-marvel-flick-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
