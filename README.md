@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stonkz](http://9gag.com/gag/amgQ2O2)
- - ⏩ [Women&#39;s job](http://9gag.com/gag/aqGM7oQ)
- - 👉 [\u201cI couldn&#39;t figure out how my bed kept getting unmade while I was making coffee until I put up a camera.\u201d](http://9gag.com/gag/a51gnxq)<!-- MEMES:END -->
+ - 💣 [Must have 10 of the same shirts.](http://9gag.com/gag/aE8KBBe)
+ - ⏩ [This dude has a point](http://9gag.com/gag/aQXbezr)
+ - 👉 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)<!-- MEMES:END -->
 
 ---
 
