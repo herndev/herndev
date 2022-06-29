@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True.](http://9gag.com/gag/azey9Mp)
- - ⏩ [9 days of work](http://9gag.com/gag/ay9rXjY)
- - 👉 [Clow World](http://9gag.com/gag/aGzvgqw)<!-- MEMES:END -->
+ - 💣 [A captain always goes down with his ship](http://9gag.com/gag/ajgv968)
+ - ⏩ [Wait, 2002 is just 8 years ago, right? RIGHT??](http://9gag.com/gag/a51go0O)
+ - 👉 [And that was it. 15 seconds, and it was over. The seminar was over. The whole crowd, almost 200 people, were in utter shock. Some of my friends say it was a waste of time, but I think that was the whole point](http://9gag.com/gag/aGzvZ25)<!-- MEMES:END -->
 
 ---
 
