@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Normalyze, which enables security teams to continuously analyze, prioritize, and respond to cloud data threats, emerges from stealth with a $22.2M Series A &lpar;Corinna Makris/VentureBeat&rpar;](http://www.techmeme.com/220628/p31#a220628p31)
  - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raised a $100M Series C at a $1.6B valuation and acquired rival Option Impact &lpar;Allison Levitsky/Protocol&rpar;](http://www.techmeme.com/220628/p30#a220628p30)
- - [How to Improve Your Happiness, According to Science     - CNET](https://www.cnet.com/culture/how-to-improve-your-happiness-according-to-science/#ftag=CAD590a51e)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why More People Need to Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-need-to-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
