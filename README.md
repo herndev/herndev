@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinFLEX CEO Mark Lamb says crypto investor Roger Ver owes CoinFLEX $47M in USDC, after Ver denied &quot;some rumors&quot; he defaulted on a debt to a counterparty &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220628/p27#a220628p27)
- - [Gmail’s new look is about to appear for more people, even if they didn’t ask for it](https://www.theverge.com/2022/6/28/23187304/google-gmail-ui-opt-out-rollout-chat-spaces-meet)
- - [&#39;Thor: Love and Thunder&#39; -- Here&#39;s When to Expect the Marvel Flick on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-heres-when-to-expect-the-marvel-flick-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NOAA triples its weather modeling capabilities with two supercomputers built by General Dynamics at a cost of $505M, each operating at a speed of 12.1 petaflops &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/220628/p29#a220628p29)
+ - [Brazil joins fight to make USB-C standard on iPhone](https://appleinsider.com/articles/22/06/29/brazil-joins-fight-to-make-usb-c-standard-on-iphone?utm_medium=rss)
+ - [Instagram Fumbles Moderation of Abortion Content     - CNET](https://www.cnet.com/news/social-media/instagram-fumbles-moderation-of-abortion-content/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
