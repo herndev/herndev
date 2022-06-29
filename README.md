@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Xiaomi Mi 12S Ultra will use a huge 1-inch camera sensor co-developed with Sony](https://www.theverge.com/2022/6/29/23188304/xiaomi-mi-12s-ultra-1-inch-camera-sensor-sony-imx989)
- - [How to quickly disable Face ID](https://appleinsider.com/inside/iphone/tips/how-to-quickly-disable-face-id?utm_medium=rss)
- - [Firefox now offers a way to strip URLs of certain tracking parameters, like from HubSpot, Marketo, and Meta, following similar functionality in Brave Browser &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220629/p28#a220629p28)<!-- TECH:END -->
+ - [Check out an early iPhone prototype worth $500k on the 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)
+ - [Research details sophisticated malware targeting a wide range of routers then taking over Windows, Linux, and Mac devices, in N. America and Europe for ~2 years &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220629/p29#a220629p29)
+ - [Pixel Tablet: Everything we know and what we want to see &lpar;Updated June 29&rpar;](https://www.androidauthority.com/google-pixel-tablet-3163922/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
