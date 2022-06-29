@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla lays off nearly 200 Autopilot employees who help train the company’s AI](https://www.theverge.com/2022/6/29/23187751/tesla-layoffs-firings-autopilot-san-mateo-office-200-workers)
- - [Sources: Tesla lays off around 200 Autopilot workers, most of them hourly and focused on labeling data, as part of a broader reduction in staff &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p8#a220629p8)
- - [London-based Entrepreneur First, which invests in nascent startups, connects co-founders, and offers other support, has raised a $158M Series C &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220629/p7#a220629p7)<!-- TECH:END -->
+ - [Apple brings its universal Gift Card to selected European countries](https://appleinsider.com/articles/22/06/29/apple-brings-its-universal-gift-card-to-selected-european-countries?utm_medium=rss)
+ - [Hyundai gives first look at Ioniq 6 EV as market share surges](https://www.theverge.com/2022/6/29/23187759/hyundai-ioniq-6-electric-car-sedan-design-reveal-features)
+ - [How to share PowerPoint presentations on Zoom](https://www.androidauthority.com/share-powerpoint-zoom-3178193/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
