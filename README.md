@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Switch to Android iPhone app now works with any Android 12 phone](https://www.theverge.com/2022/6/29/23187754/google-switch-to-android-iphone-app-12-support)
- - [Construction begins on ‘Mammoth’ direct air capture plant](https://www.theverge.com/2022/6/29/23188164/mammoth-direct-air-capture-plant-climeworks-groundbreaking-iceland)
- - [Check out a pre-iPhone prototype worth $500k on iPhone&#39;s 15th anniversary](https://appleinsider.com/articles/22/06/29/check-out-a-pre-iphone-prototype-worth-500k-on-iphones-15th-anniversary?utm_medium=rss)<!-- TECH:END -->
+ - [The Xiaomi Mi 12S Ultra will use a huge 1-inch camera sensor co-developed with Sony](https://www.theverge.com/2022/6/29/23188304/xiaomi-mi-12s-ultra-1-inch-camera-sensor-sony-imx989)
+ - [How to quickly disable Face ID](https://appleinsider.com/inside/iphone/tips/how-to-quickly-disable-face-id?utm_medium=rss)
+ - [Firefox now offers a way to strip URLs of certain tracking parameters, like from HubSpot, Marketo, and Meta, following similar functionality in Brave Browser &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220629/p28#a220629p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
