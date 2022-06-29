@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elliptic: North Korea-backed hacking group Lazarus might be behind Harmony&#39;s $100M altcoin theft; the hack bore similarities to the $600M Ronin bridge attack &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/220629/p31#a220629p31)
- - [Netflix is bringing Cameron Diaz out of retirement for a new movie with Jamie Foxx](https://www.theverge.com/2022/6/29/23188583/netflix-cameron-diaz-retirement-new-movie-jamie-foxx-back-in-action)
- - [Select merchants now offering 4% Apple Card Daily Cash until July 31](https://appleinsider.com/articles/22/06/29/select-merchants-now-offering-4-apple-card-daily-cash-until-july-31?utm_medium=rss)<!-- TECH:END -->
+ - [Now iFixit has genuine repair parts for Google Pixels, from the 2 to the 6 Pro](https://www.theverge.com/2022/6/29/23188693/google-pixel-repair-kit-ifixit-battery-screen-usb-port-replacement)
+ - [EU lawmakers provisionally agree on anti-laundering rules for crypto, requiring verified customer identities for transfers between regulated digital wallets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p34#a220629p34)
+ - [Docs: Coinbase is selling features of its intelligence-gathering tool Coinbase Tracer to ICE, letting ICE track crypto transactions including bitcoin and ether &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220629/p33#a220629p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
