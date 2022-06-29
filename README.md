@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)
- - ⏩ [True.](http://9gag.com/gag/azey9Mp)
- - 👉 [The Future is now old man](http://9gag.com/gag/agg9XYx)<!-- MEMES:END -->
+ - 💣 [True.](http://9gag.com/gag/azey9Mp)
+ - ⏩ [9 days of work](http://9gag.com/gag/ay9rXjY)
+ - 👉 [Clow World](http://9gag.com/gag/aGzvgqw)<!-- MEMES:END -->
 
 ---
 
