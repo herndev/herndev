@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Fixed it](http://9gag.com/gag/aKmZDBN)
- - ⏩ [Please God](http://9gag.com/gag/aZrXmZQ)
- - 👉 [Sorry](http://9gag.com/gag/amgQ2W4)<!-- MEMES:END -->
+ - ⏩ [Just because Pelican doesn\u2019t mean Peli should](http://9gag.com/gag/aegzbLB)
+ - 👉 [Selling all P keyboard](http://9gag.com/gag/avAqGVZ)<!-- MEMES:END -->
 
 ---
 
