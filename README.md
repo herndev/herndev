@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team RWBY is making its way to the Realm in a new Paladins Patch!](https://news.xbox.com/en-us/2022/06/29/team-rwby-is-making-its-way-to-paladins/)
- - [NFT Pokémon Clone Recovers From $600 Million Hack, Ready To Chew Players Up Again](https://kotaku.com/crypto-pokemon-nft-game-axie-infinity-blockchain-1849124622)
- - [Windows Defender is reportedly hindering performance on Intel CPUs](https://www.pcgamer.com/windows-defender-is-reportedly-hindering-performance-on-intel-cpus)<!-- GAME:END -->
+ - [Time-traveling Paper Girls on Amazon Prime has hints of Stranger Things](https://www.polygon.com/23188434/paper-girls-amazon-prime-show-cast-premise-teaser-trailer)
+ - [RimWorld, the Acclaimed Sci-Fi Colony Management Sim, is Coming to Xbox on July 29](https://news.xbox.com/en-us/2022/06/29/rimworld-coming-to-xbox-on-july-29/)
+ - [14 vampire movies to fill that Morbius-shaped hole in your heart](https://www.polygon.com/22878158/best-vampire-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
