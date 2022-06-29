@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NOAA triples its weather modeling capabilities with two supercomputers built by General Dynamics at a cost of $505M, each operating at a speed of 12.1 petaflops &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/220628/p29#a220628p29)
- - [Brazil joins fight to make USB-C standard on iPhone](https://appleinsider.com/articles/22/06/29/brazil-joins-fight-to-make-usb-c-standard-on-iphone?utm_medium=rss)
- - [Instagram Fumbles Moderation of Abortion Content     - CNET](https://www.cnet.com/news/social-media/instagram-fumbles-moderation-of-abortion-content/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pave, whose software analyzes HR data to help companies close pay and equity gaps, raised a $100M Series C at a $1.6B valuation and acquired rival Option Impact &lpar;Allison Levitsky/Protocol&rpar;](http://www.techmeme.com/220628/p30#a220628p30)
+ - [How to Improve Your Happiness, According to Science     - CNET](https://www.cnet.com/culture/how-to-improve-your-happiness-according-to-science/#ftag=CAD590a51e)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
