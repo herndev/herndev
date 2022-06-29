@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry](http://9gag.com/gag/amgQ2W4)
- - ⏩ [Not bad news: Romania is working to restore an abandoned railway line 30 years ago in order to export Ukrainian grain through the Danube port of Galati](http://9gag.com/gag/a91wAYW)
- - 👉 [#JusticeForTimothy](http://9gag.com/gag/azeyqAj)<!-- MEMES:END -->
+ - 💣 [Mystery resolved](http://9gag.com/gag/arnE5Yd)
+ - ⏩ [#JusticeForTimothy](http://9gag.com/gag/azeyqAj)
+ - 👉 [Wanda is a pedo](http://9gag.com/gag/abgDzdp)<!-- MEMES:END -->
 
 ---
 
