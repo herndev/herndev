@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Hunter Rise: Sunbreak is great — if you’re patient enough](https://www.polygon.com/reviews/23186814/monster-hunter-rise-sunbreak-review-new-monsters-malzeno-unlock-dlc)
- - [Here&#39;s when Monster Hunter Rise: Sunbreak unlocks in your timezone on PC](https://www.pcgamer.com/monster-hunter-rise-sunbreak-release-time)
- - [Chivalry 2’s limited time &#39;Midsommar Event&#39; brings a new map and new ways to smash your opponents](https://www.pcgamer.com/chivalry-2s-limited-time-midsommar-event-brings-a-new-map-and-new-ways-to-smash-your-opponents)<!-- GAME:END -->
+ - [How to get fishing bait in Raft](https://www.pcgamer.com/raft-how-to-get-bait-fishing-rod)
+ - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
+ - [2021&#39;s best RPG improves a key feature alongside fixing &#39;wonky barber jobs&#39;](https://www.pcgamer.com/2021s-best-rpg-improves-a-key-feature-alongside-fixing-wonky-barber-jobs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
