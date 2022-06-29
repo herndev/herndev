@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the new mail merge in Pages](https://appleinsider.com/inside/iwork/tips/how-to-use-the-new-mail-merge-in-pages?utm_medium=rss)
- - [Sources: the Treasury Department and IRS are likely to postpone a January 2023 starting date for crypto companies to track clients&#39; captial gains and losses &lpar;Allyson Versprille/Bloomberg&rpar;](http://www.techmeme.com/220629/p26#a220629p26)
- - [See’s third and final season has its sight set on war in new trailer](https://www.theverge.com/2022/6/29/23188134/see-apple-tv-season-three-series-finale)<!-- TECH:END -->
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
+ - [What to expect from Apple&#39;s Q3 2022 earnings report on July 28](https://appleinsider.com/articles/22/06/29/what-to-expect-from-apples-q3-2022-earnings-report-on-july-28?utm_medium=rss)
+ - [How to track sleep with Nest Hub and Google Fit](https://www.androidauthority.com/how-to-track-sleep-with-nest-hub-and-google-fit-3170945/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
