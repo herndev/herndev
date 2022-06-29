@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A different side of Fidel Castro](http://9gag.com/gag/ajgvEOR)
- - ⏩ [Be kind](http://9gag.com/gag/a21gRYw)
- - 👉 [Perfectly laying cement and stacking bricks](http://9gag.com/gag/awzjXX4)<!-- MEMES:END -->
+ - 💣 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)
+ - ⏩ [True.](http://9gag.com/gag/azey9Mp)
+ - 👉 [The Future is now old man](http://9gag.com/gag/agg9XYx)<!-- MEMES:END -->
 
 ---
 
