@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro gaming tools are helping streamers get paid](https://www.theverge.com/23150208/pro-gaming-tools-aimlab-kovaaks-streamers-esports)
- - [Snapchat adds paid subscription with more features for power users](https://www.theverge.com/2022/6/29/23187132/snapchat-plus-subscription-announced)
- - [Forbes estimates the top 16 crypto billionaires lost $59B+ between March and June, led by Binance&#39;s CZ, as retail investors suffer heavy losses amid the rout &lpar;David Yaffe-Bellany/New York Times&rpar;](http://www.techmeme.com/220629/p18#a220629p18)<!-- TECH:END -->
+ - [Daily deals June 29: $500 off RTX 3080 Ti graphics card, MagSafe Battery Pack for $87, 46% off Razer mini keyboard, more](https://appleinsider.com/articles/22/06/29/daily-deals-june-29-500-off-rtx-3080-ti-graphics-card-magsafe-battery-pack-for-87-46-off-razer-mini-keyboard-more?utm_medium=rss)
+ - [The Best Smart Lighting Panels, LED Strips, and Ambient Lamps](https://www.wired.com/gallery/best-smart-lighting/)
+ - [Cozy Grove Doesn’t Shame Me](https://www.wired.com/story/cozy-grove-does-not-shame-me/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
