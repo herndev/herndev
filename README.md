@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We spoke to Dr. Wasteland, the heroic healer who became a legend in DayZ&#39;s early days](https://www.pcgamer.com/we-spoke-to-dr-wasteland-the-heroic-healer-from-dayzs-early-days)
- - [Wonderful, That Bonkers Fishing Game Series Is Back](https://kotaku.com/fishing-spirits-fish-play-aquarium-switch-namco-bandai-1849121336)
- - [Cruisy Japanese Summer Game Gets Surprise English Release](https://kotaku.com/crayon-shin-chan-my-summer-vacation-ps4-switch-english-1849121072)<!-- GAME:END -->
+ - [This 3D printer mod on Kickstarter can automatically swap your filament mid-print](https://www.pcgamer.com/this-3d-printer-mod-on-kickstarter-can-automatically-swap-your-filament-mid-print)
+ - [Overclocker pointlessly delids a Ryzen 7 5800X3D](https://www.pcgamer.com/overclocker-pointlessly-delids-a-ryzen-7-5800x3d)
+ - [We spoke to Dr. Wasteland, the heroic healer who became a legend in DayZ&#39;s early days](https://www.pcgamer.com/we-spoke-to-dr-wasteland-the-heroic-healer-from-dayzs-early-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
