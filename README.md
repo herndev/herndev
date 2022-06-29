@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam&#39;s most-wishlisted game admits to using some &#39;volunteer&#39; workers](https://www.pcgamer.com/steams-most-wishlisted-game-admits-to-using-some-volunteer-workers)
- - [&#39;I will stream while you cook for me,&#39; says banned Twitch streamer in bizarre sexist rant](https://www.pcgamer.com/i-will-stream-while-you-cook-for-me-says-banned-twitch-streamer-in-bizarre-sexist-rant)
- - [How to get the Rivers of Blood katana in Elden Ring](https://www.pcgamer.com/elden-ring-rivers-of-blood-location)<!-- GAME:END -->
+ - [Cruisy Japanese Summer Game Gets Surprise English Release](https://kotaku.com/crayon-shin-chan-my-summer-vacation-ps4-switch-english-1849121072)
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
+ - [Steam&#39;s most-wishlisted game admits to using some &#39;volunteer&#39; workers](https://www.pcgamer.com/steams-most-wishlisted-game-admits-to-using-some-volunteer-workers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
