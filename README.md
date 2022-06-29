@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Valve says Steam Deck&#39;s SSD change impacts performance only in &#39;extremely uncommon cases&#39;](https://www.pcgamer.com/valve-says-steam-decks-ssd-change-impacts-performance-only-in-extremely-uncommon-cases)
  - [KeyForge CCG is still broken, but a new publisher wants to fix that](https://www.polygon.com/23188650/keyforge-ffg-ghost-games-christian-peterson)
- - [God Of War Ragnarök Producer Asks Rabid Stans To Chill Out Over Reveal Rumors](https://kotaku.com/god-of-war-ragnarok-cory-barlog-sony-state-play-rumor-1849126137)
- - [Wild West Dynasty looks like any other survival game until it turns into a city builder](https://www.pcgamer.com/wild-west-dynasty-looks-like-any-other-survival-game-until-it-turns-into-a-city-builder)<!-- GAME:END -->
+ - [God Of War Ragnarök Producer Asks Rabid Stans To Chill Out Over Reveal Rumors](https://kotaku.com/god-of-war-ragnarok-cory-barlog-sony-state-play-rumor-1849126137)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
