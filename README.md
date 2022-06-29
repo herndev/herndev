@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As crypto plummets, Paris Hilton, Jimmy Fallon, Serena Williams, Reese Witherspoon, and other celebrities have quietly changed their NFT profile pictures &lpar;Annie Armstrong/Artnet News&rpar;](http://www.techmeme.com/220629/p24#a220629p24)
- - [The Best Electric Cargo Bikes for Families](https://www.wired.com/gallery/best-electric-cargo-bikes/)
- - [SiriusXM’s radio app is now available on Comcast X1 boxes and smart TVs](https://www.theverge.com/2022/6/29/23187874/siriusxm-app-available-comcast-subscribers-xfinity)<!-- TECH:END -->
+ - [Compared: iPadOS 16 Stage Manager vs. iOS 15 Split View multitasking](https://appleinsider.com/inside/ios-16/vs/compared-ipados-16-stage-manager-vs-ios-15-split-view-multitasking?utm_medium=rss)
+ - [The NuraTrue Pro are the first wireless earbuds to support aptX Lossless streaming](https://www.theverge.com/2022/6/29/23187844/nuratrue-pro-true-wireless-headphones-aptx-lossless-cd-quality-audio)
+ - [Nothing’s Phone 1 uses Qualcomm’s midrange Snapdragon 778G Plus processor](https://www.theverge.com/2022/6/29/23188036/nothing-phone-1-processor-snapdragon-778g-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
