@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get fishing bait in Raft](https://www.pcgamer.com/raft-how-to-get-bait-fishing-rod)
- - [The best FreeSync monitors in 2022](https://www.pcgamer.com/best-freesync-monitor)
- - [2021&#39;s best RPG improves a key feature alongside fixing &#39;wonky barber jobs&#39;](https://www.pcgamer.com/2021s-best-rpg-improves-a-key-feature-alongside-fixing-wonky-barber-jobs)<!-- GAME:END -->
+ - [Capcom Fighting Collection is a showcase of the company’s most creative era](https://www.polygon.com/reviews/23186682/capcom-fighting-collection-review-games-platforms-street-fighter-6)
+ - [Battle royale Spellbreak shutting down after Blizzard buys studio](https://www.polygon.com/23188013/spellbreak-shut-down-servers-off-blizzard-buys-proletariat)
+ - [Gaming PC build guide](https://www.pcgamer.com/gaming-pc-build-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
