@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R. Kelly sentenced to 30 years in prison for trafficking.](http://9gag.com/gag/angZ5Ob)
- - ⏩ [Dave Brubeck - Take Five](http://9gag.com/gag/a91wEwo)
- - 👉 [Can&#39;t move on](http://9gag.com/gag/aqGMGrR)<!-- MEMES:END -->
+ - 💣 [Boxy 80s Lincoln Continental Town Car](http://9gag.com/gag/aZrXyV0)
+ - ⏩ [\u2026or simply left the towel on the bed after showering](http://9gag.com/gag/aWgyjL2)
+ - 👉 [Don&#39;t blink](http://9gag.com/gag/azeyM6N)<!-- MEMES:END -->
 
 ---
 
