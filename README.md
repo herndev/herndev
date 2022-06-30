@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Ocean The Divine Force Launches October 27 on Xbox](https://news.xbox.com/en-us/2022/06/30/star-ocean-the-divine-force-launches-october-27-on-xbox/)
- - [Halo Infinite Co-Op Testing Starts July 11, Also Adds Mission Replay](https://kotaku.com/halo-infinite-co-op-beta-test-dates-how-to-join-xbox-1849130666)
- - [Skull and Bones leak points to a November release](https://www.pcgamer.com/skull-and-bones-leak-points-to-a-november-release)<!-- GAME:END -->
+ - [Watch Ant-Man try to explain why he couldn’t go up Thanos’ Thanus](https://www.polygon.com/23190256/ant-man-explains-thanos-butt)
+ - [Cats are better than dogs &lpar;as videogame protagonists&rpar;](https://www.pcgamer.com/cats-are-better-than-dogs-as-videogame-protagonists)
+ - [Latest Genshin Impact Leaks Spark Whitewashing Controversy](https://kotaku.com/genshin-impact-sumeru-whitewashing-kusanali-tighnari-1849130776)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
