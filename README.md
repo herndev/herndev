@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cooking up a New Composition for Cuphead – The Delicious Last Course](https://news.xbox.com/en-us/2022/06/30/cooking-up-a-new-composition-for-cuphead-the-delicious-last-course/)
- - [The first Warhammer 40,000 Magic: The Gathering Set is delayed to October](https://www.polygon.com/23189687/magic-the-gathering-warhammer-40000-commander-deck-delay-release-date)
- - [Monkey Island Creator Ron Gilbert Has Joy Sapped From Sequel Thanks To Awful People](https://kotaku.com/return-monkey-island-ron-gilbert-art-style-angry-fans-1849128586)<!-- GAME:END -->
+ - [The Xbox App is Available Today on Samsung 2022 Smart TVs](https://news.xbox.com/en-us/2022/06/30/xbox-app-available-today-samsung-2022-smart-tv/)
+ - [EA is giving you a chance to play the new Skate early](https://www.polygon.com/23189826/skate-4-early-access-insider-program-electronic-arts)
+ - [Modder Sorta Gets Half-Life 2 Running On Switch &lpar;It&#39;s Actually Portal&rpar;](https://kotaku.com/nintendo-switch-portal-companion-collection-half-life-2-1849129112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
