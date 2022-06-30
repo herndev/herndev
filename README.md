@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile 5G home internet reaches 5 million new addresses in the middle of the country](https://www.theverge.com/2022/6/30/23190047/t-mobile-5g-home-internet-colorado-missouri-iowa-kansas-oklahoma)
- - [April, which personalizes and autofills tax filings by using AI to analyze tax code, raised a $30M Series A led by Treasury, bringing its total funding to $40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p36#a220630p36)
- - [The Supreme Court just decided a major climate court case](https://www.theverge.com/2022/6/28/23186627/supreme-court-climate-court-case-west-virginia-epa-power-plant-emissions)<!-- TECH:END -->
+ - [Gene Levoff, a former lawyer at Apple, pleads guilty to insider trading; he allegedly traded ahead of quarterly earnings from 2011 to 2016 and was fired in 2018 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220630/p38#a220630p38)
+ - [You can buy Sega’s Mega Drive Mini 2 flight stick and get it shipped to the US](https://www.theverge.com/2022/6/30/23190324/sega-mega-drive-mini-2-cyber-stick-after-burner-ii)
+ - [GM’s reportedly only making about 12 Hummer EVs a day](https://www.theverge.com/2022/6/30/23190299/gm-hummer-ev-production-numbers-12-vehicles-a-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
