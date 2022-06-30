@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eyla Moore](http://9gag.com/gag/aNPMDg6)
- - ⏩ [People pulling a 10 ton stone uphill, using only primitive technology](http://9gag.com/gag/apg794D)
+ - 💣 [Yup](http://9gag.com/gag/aLvo1wv)
+ - ⏩ [We need more wholesome videos like this. Not just negativity in the media.](http://9gag.com/gag/aogoWjw)
  - 👉 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
 ---
