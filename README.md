@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say using period tracker apps does not necessarily put women at additional risk of prosecutions in the wake of SCOTUS overturning Roe v. Wade &lpar;Kendra Albert&rpar;](http://www.techmeme.com/220630/p8#a220630p8)
- - [Nothing Phone 1 European price leaks on Amazon](https://www.androidauthority.com/nothing-phone-1-price-3181579/)
- - [What’s new on Disney Plus in July 2022: Zombies 3 and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
+ - [&#39;Zach Snyder&#39;s Justice League&#39; Coming to Digital, If You Have Four Hours to Spare     - CNET](https://www.cnet.com/culture/entertainment/snyder-cut-justice-league-hbo-max-movie-review-digital-four-hours-to-spare/#ftag=CAD590a51e)
+ - [How to update your Garmin watch](https://www.androidauthority.com/garmin-watch-update-3181547/)
+ - [The Xiaomi 12S Ultra is on the way, but what happened to 12 Ultra?](https://www.androidauthority.com/xiaomi-12-ultra-canceled-3182087/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
