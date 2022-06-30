@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally! Worthy Opponents! Our Battle Will Be Legendary!](http://9gag.com/gag/apg7RDD)
+ - 💣 [Eyla Moore](http://9gag.com/gag/aNPMDg6)
  - ⏩ [People pulling a 10 ton stone uphill, using only primitive technology](http://9gag.com/gag/apg794D)
  - 👉 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
