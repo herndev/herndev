@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: digital asset trading firm Genesis is potentially facing &quot;hundreds of millions&quot; of dollars in losses, partly through exposure to 3AC and Babel Finance &lpar;CoinDesk&rpar;](http://www.techmeme.com/220629/p36#a220629p36)
- - [Researchers say some businesses are exaggerating AI&#39;s capabilities, brewing misunderstanding and distorting policymakers&#39; views of AI&#39;s power and fallibility &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220629/p35#a220629p35)
- - [New Yorker Cartoonist Asher Perlman Explains How His Work Became a Meme     - CNET](https://www.cnet.com/culture/entertainment/new-yorker-cartoonist-asher-perlman-explains-how-his-work-became-a-meme/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Sci-Fi Movies on Netflix You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/17-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39;: Spotify Decides What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-decides-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
+ - [The Best Netflix Fantasy Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
