@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuphead: The Delicious Last Course is a hell of a dessert](https://www.polygon.com/reviews/23188169/cuphead-the-delicious-last-course-dlc-review)
- - [Minions: The Rise of Gru packs in enough plot for three Minions movies](https://www.polygon.com/reviews/23188355/minions-rise-of-gru-review-despicable-me)
- - [Unity lays off hundreds of employees to &#39;realign&#39; resources](https://www.pcgamer.com/unity-lays-off-hundreds-of-employees-to-realign-resources)<!-- GAME:END -->
+ - [Seek ‘The Forsaken Hunter’ in Sea of Thieves’ Fifth Adventure, Live Until July 14!](https://news.xbox.com/en-us/2022/06/30/seek-the-forsaken-hunter-in-sea-of-thieves-fifth-adventure-live-until-july-14/)
+ - [Id won&#39;t do it, so hobbyists ported Carmack&#39;s final Doom game to PC](https://www.pcgamer.com/id-wont-do-it-so-hobbyists-ported-carmacks-final-doom-game-to-pc)
+ - [Stranger of Paradise announces first DLC with a rickroll](https://www.pcgamer.com/stranger-of-paradise-announces-first-dlc-with-a-rickroll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
