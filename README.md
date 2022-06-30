@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A small change in Overwatch 2 encapsulates a more hopeful future](https://www.polygon.com/23189654/overwatch-2-new-york-map-change)
- - [Um…Logan Paul To WWE Confirmed](https://kotaku.com/logan-paul-wwe-contract-wrestlemania-the-miz-1849131419)
- - [The next Hunt: Showdown update is pretty big](https://www.pcgamer.com/hunt-showdown-patch-19)<!-- GAME:END -->
+ - [Twitch streamers may soon be able to share banlists with other channels](https://www.pcgamer.com/twitch-streamers-may-soon-be-able-to-share-banlists-with-other-channels)
+ - [Major cryptocurrency exchange signs $1.4 million deal to help ICE track crypto trades](https://www.pcgamer.com/major-cryptocurrency-exchange-signs-dollar14-million-deal-to-help-ice-track-crypto-trades)
+ - [Someone Reportedly Bought Up $40k Of Stock To Ask Nintendo About F-Zero](https://kotaku.com/nintendo-fan-f-zero-40k-5-million-yen-stock-investor-1849131627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
