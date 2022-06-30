@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pokemon&#39;s Kids Are All Grown Up](https://kotaku.com/pokemon-art-misty-brock-adults-brahim-bensehoul-1849126886)
  - [The Steam Deck&#39;s Specs Have Changed, And Nobody Noticed Until Now](https://kotaku.com/steam-deck-valve-specs-components-ssd-downgrade-pc-1849126677)
- - [Terrible Remake Is Being Remade All Over Again](https://kotaku.com/xiii-remake-remaster-pc-microids-fps-tower-five-1849126445)
- - [Valve says Steam Deck&#39;s SSD change impacts performance only in &#39;extremely uncommon cases&#39;](https://www.pcgamer.com/valve-says-steam-decks-ssd-change-impacts-performance-only-in-extremely-uncommon-cases)<!-- GAME:END -->
+ - [Terrible Remake Is Being Remade All Over Again](https://kotaku.com/xiii-remake-remaster-pc-microids-fps-tower-five-1849126445)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
