@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Owner of itch.io accuses newly launched alternative w3itch.io of theft](https://www.pcgamer.com/owner-of-itchio-accuses-newly-launched-alternative-w3itchio-of-theft)
  - [Pokemon&#39;s Kids Are All Grown Up](https://kotaku.com/pokemon-art-misty-brock-adults-brahim-bensehoul-1849126886)
- - [The Steam Deck&#39;s Specs Have Changed, And Nobody Noticed Until Now](https://kotaku.com/steam-deck-valve-specs-components-ssd-downgrade-pc-1849126677)
- - [Terrible Remake Is Being Remade All Over Again](https://kotaku.com/xiii-remake-remaster-pc-microids-fps-tower-five-1849126445)<!-- GAME:END -->
+ - [The Steam Deck&#39;s Specs Have Changed, And Nobody Noticed Until Now](https://kotaku.com/steam-deck-valve-specs-components-ssd-downgrade-pc-1849126677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
