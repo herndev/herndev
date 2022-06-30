@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the Search for Life on Mars Is Happening in Canada’s Arctic](https://www.wired.com/story/why-the-search-for-life-on-mars-is-happening-in-canadas-arctic/)
- - [Worker-Owned Apps Are Redefining the Sharing Economy](https://www.wired.com/story/gig-economy-worker-owned-apps/)
- - [The World Can’t Wean Itself Off Chinese Lithium](https://www.wired.com/story/china-lithium-mining-production/)<!-- TECH:END -->
+ - [What’s new on Peacock in July: Trigger Point, The Resort, and more](https://www.androidauthority.com/new-on-peacock-2306327/)
+ - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
+ - [The Metaverse is Still Messy](https://www.wired.com/story/gadget-lab-podcast-556/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
