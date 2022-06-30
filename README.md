@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [End](http://9gag.com/gag/ajgv95g)
- - ⏩ [Christopher Walken in the airport. So he hasn&#39;t been acting this whole time, that&#39;s just his face.](http://9gag.com/gag/awzjodW)
- - 👉 [You dare challenge me mortal?](http://9gag.com/gag/a0ZgRdq)<!-- MEMES:END -->
+ - 💣 [Clow World](http://9gag.com/gag/aGzvgqw)
+ - ⏩ [One eye open for me](http://9gag.com/gag/a0ZgNqQ)
+ - 👉 [A captain always goes down with his ship](http://9gag.com/gag/ajgv968)<!-- MEMES:END -->
 
 ---
 
