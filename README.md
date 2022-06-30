@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you don&#39;t want odor in your apartment...](http://9gag.com/gag/aNPM0V4)
- - ⏩ [Women&#39;s job](http://9gag.com/gag/aqGM7oQ)
- - 👉 [And that was it. 15 seconds, and it was over. The seminar was over. The whole crowd, almost 200 people, were in utter shock. Some of my friends say it was a waste of time, but I think that was the whole point](http://9gag.com/gag/aGzvZ25)<!-- MEMES:END -->
+ - 💣 [End](http://9gag.com/gag/ajgv95g)
+ - ⏩ [Yup](http://9gag.com/gag/abgDGmO)
+ - 👉 [Be kind](http://9gag.com/gag/a21gRYw)<!-- MEMES:END -->
 
 ---
 
