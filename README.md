@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Sci-Fi Movies on Netflix You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/17-best-sci-fi-movies-on-netflix-2022/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39;: Spotify Decides What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-decides-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
- - [The Best Netflix Fantasy Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Grayscale Investments sues the US SEC after the agency rejected its application on Wednesday to convert its flagship Grayscale Bitcoin Trust product to an ETF &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220629/p38#a220629p38)
+ - [M2 MacBook Air could hit shelves on July 15, with preorders on July 8](https://appleinsider.com/articles/22/06/30/m2-macbook-air-could-hit-shelves-on-july-15-with-preorders-on-july-8?utm_medium=rss)
+ - [Substack CEO says he’s ‘very sorry’ about laying off 13 people](https://www.theverge.com/2022/6/29/23188977/substack-layoffs-14-percent-economy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
