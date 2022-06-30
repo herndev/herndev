@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gene Levoff, a former lawyer at Apple, pleads guilty to insider trading; he allegedly traded ahead of quarterly earnings from 2011 to 2016 and was fired in 2018 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220630/p38#a220630p38)
- - [You can buy Sega’s Mega Drive Mini 2 flight stick and get it shipped to the US](https://www.theverge.com/2022/6/30/23190324/sega-mega-drive-mini-2-cyber-stick-after-burner-ii)
- - [GM’s reportedly only making about 12 Hummer EVs a day](https://www.theverge.com/2022/6/30/23190299/gm-hummer-ev-production-numbers-12-vehicles-a-day)<!-- TECH:END -->
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)
+ - [Best Fitbit Prime Day Deals: Save $82 Off Sense, $68 Off Verse 3, $41 Off Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
+ - [Allstate Car Insurance Review for July 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/allstate-auto-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
