@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Half of all smartphones sold during China&#39;s 6.18 Festival were iPhones](https://appleinsider.com/articles/22/06/30/half-of-all-smartphones-sold-during-chinas-618-festival-were-iphones?utm_medium=rss)
- - [Daily deal June 30: $200 off M1 13-inch MacBook Pro, $312 Apple Watch Series 7, more](https://appleinsider.com/articles/22/06/30/daily-deal-june-30-200-off-m1-13-inch-macbook-pro-312-apple-watch-series-7-more?utm_medium=rss)
- - [Snowplow Analytics, which helps companies collect and analyze customer data, raised a $40M Series B led by NEA, bringing its total funding to $55M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220630/p21#a220630p21)<!-- TECH:END -->
+ - [How one of gaming’s most intimidating genres spawned a legion of hits](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption)
+ - [Select merchants now offering 4% Apple Card Daily Cash until July 31](https://appleinsider.com/articles/22/06/29/select-merchants-now-offering-4-apple-card-daily-cash-until-july-31?utm_medium=rss)
+ - [Apple&#39;s CarPlay update, demoed at WWDC, lets users navigate to a pump and buy gas from its dashboard &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220630/p24#a220630p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
