@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Seek ‘The Forsaken Hunter’ in Sea of Thieves’ Fifth Adventure, Live Until July 14!](https://news.xbox.com/en-us/2022/06/30/seek-the-forsaken-hunter-in-sea-of-thieves-fifth-adventure-live-until-july-14/)
- - [Id won&#39;t do it, so hobbyists ported Carmack&#39;s final Doom game to PC](https://www.pcgamer.com/id-wont-do-it-so-hobbyists-ported-carmacks-final-doom-game-to-pc)
- - [Stranger of Paradise announces first DLC with a rickroll](https://www.pcgamer.com/stranger-of-paradise-announces-first-dlc-with-a-rickroll)<!-- GAME:END -->
+ - [Monster High’s live action movie is a freaky, fangtastic musical](https://www.polygon.com/23189621/monster-high-live-action-musical-trailer)
+ - [Kickstarter’s Zine Quest is moving back to February, and the change will be permanent](https://www.polygon.com/23189559/kickstarter-zinequest-date-change-february-indie-rpg-controversy)
+ - [The Boys isn’t about superheroes, it’s about TV](https://www.polygon.com/23188742/the-boys-season-3-is-about-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
