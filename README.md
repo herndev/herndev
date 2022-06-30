@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: ex-Apple retail chief Ron Johnson&#39;s at-home tech setup company Enjoy files for bankruptcy less than a year after a SPAC merger and sells to Asurion &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p27#a220630p27)
- - [Apple TV+ shares first trailer for family comedy &#39;Best Foot Forward&#39;](https://appleinsider.com/articles/22/06/30/apple-tv-shares-first-trailer-for-family-comedy-best-foot-forward?utm_medium=rss)
- - [Samsung is already making 3nm chips, beating out competitors](https://www.androidauthority.com/samsung-3nm-launch-3182235/)<!-- TECH:END -->
+ - [Robot Umpires Could Be Coming to MLB as Soon as 2024     - CNET](https://www.cnet.com/culture/sports/robot-umpires-could-be-coming-to-mlb-as-soon-as-2024/#ftag=CAD590a51e)
+ - [Pokemon Go Events for July 2022: Go Fest, Starly Community Day and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-july-2022-events-go-fest-community-day-more/#ftag=CAD590a51e)
+ - [Pokemon Go&#39;s New Social Network, Campfire, Is a Doorway to Niantic&#39;s AR Multiverse     - CNET](https://www.cnet.com/tech/computing/pokemon-gos-social-network-campfire-is-a-doorway-to-niantics-ar-multiverse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
