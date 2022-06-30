@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Officials in Zhengzhou, China used the smartphone location tracking-based health code system to stop 1,000+ depositors from protesting over failing rural banks &lpar;Financial Times&rpar;](http://www.techmeme.com/220630/p3#a220630p3)
- - [South Korea&#39;s chip stockpile has jumped 53.4% YoY in May, the most in more than four years, suggesting a slowdown in demand for memory chips &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220630/p2#a220630p2)
- - [Samsung begins mass production of 3nm chips touting a 45% reduction in power usage, a 16% smaller surface area, and 23% better performance compared to 5nm chips &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/220630/p1#a220630p1)<!-- TECH:END -->
+ - [A Taiwanese minister and TSMC board member urges US Congress to pass the Chips Act, saying the pace of building TSMC&#39;s Arizona chip factory depends on subsidies &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/220630/p5#a220630p5)
+ - [London-based Shop Circle, which offers merchants a one-stop shop for e-commerce software, emerges from stealth with $65M in funding led by NFX and QED Investors &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220630/p4#a220630p4)
+ - [Officials in Zhengzhou, China used the smartphone location tracking-based health code system to stop 1,000+ depositors from protesting over failing rural banks &lpar;Financial Times&rpar;](http://www.techmeme.com/220630/p3#a220630p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
