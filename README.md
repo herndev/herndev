@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Ant-Man try to explain why he couldn’t go up Thanos’ Thanus](https://www.polygon.com/23190256/ant-man-explains-thanos-butt)
- - [Cats are better than dogs &lpar;as videogame protagonists&rpar;](https://www.pcgamer.com/cats-are-better-than-dogs-as-videogame-protagonists)
- - [Latest Genshin Impact Leaks Spark Whitewashing Controversy](https://kotaku.com/genshin-impact-sumeru-whitewashing-kusanali-tighnari-1849130776)<!-- GAME:END -->
+ - [A small change in Overwatch 2 encapsulates a more hopeful future](https://www.polygon.com/23189654/overwatch-2-new-york-map-change)
+ - [Um…Logan Paul To WWE Confirmed](https://kotaku.com/logan-paul-wwe-contract-wrestlemania-the-miz-1849131419)
+ - [The next Hunt: Showdown update is pretty big](https://www.pcgamer.com/hunt-showdown-patch-19)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
