@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Zach Snyder&#39;s Justice League&#39; Coming to Digital, If You Have Four Hours to Spare     - CNET](https://www.cnet.com/culture/entertainment/snyder-cut-justice-league-hbo-max-movie-review-digital-four-hours-to-spare/#ftag=CAD590a51e)
- - [How to update your Garmin watch](https://www.androidauthority.com/garmin-watch-update-3181547/)
- - [The Xiaomi 12S Ultra is on the way, but what happened to 12 Ultra?](https://www.androidauthority.com/xiaomi-12-ultra-canceled-3182087/)<!-- TECH:END -->
+ - [An in-depth look at the 2016 Bitfinex hack and US government&#39;s case against Ilya Lichtenstein and Heather Morgan, aka Razzlekhan, over alleged money laundering &lpar;Zeke Faux/Bloomberg&rpar;](http://www.techmeme.com/220630/p14#a220630p14)
+ - [Xiaomi Mi Band 7 Pro is on the way: A smartwatch in all but name?](https://www.androidauthority.com/xiaomi-mi-band-7-pro-design-3182119/)
+ - [Apple lets apps in South Korea use third-party payment systems](https://www.theverge.com/2022/6/30/23189384/apple-south-korean-app-store-third-party-payment-systems-in-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
