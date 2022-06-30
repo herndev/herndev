@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Peacock in July: Trigger Point, The Resort, and more](https://www.androidauthority.com/new-on-peacock-2306327/)
- - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
- - [The Metaverse is Still Messy](https://www.wired.com/story/gadget-lab-podcast-556/)<!-- TECH:END -->
+ - [Half of all smartphones sold during China&#39;s 6.18 Festival were iPhones](https://appleinsider.com/articles/22/06/30/half-of-all-smartphones-sold-during-chinas-618-festival-were-iphones?utm_medium=rss)
+ - [Daily deal June 30: $200 off M1 13-inch MacBook Pro, $312 Apple Watch Series 7, more](https://appleinsider.com/articles/22/06/30/daily-deal-june-30-200-off-m1-13-inch-macbook-pro-312-apple-watch-series-7-more?utm_medium=rss)
+ - [Snowplow Analytics, which helps companies collect and analyze customer data, raised a $40M Series B led by NEA, bringing its total funding to $55M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220630/p21#a220630p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
