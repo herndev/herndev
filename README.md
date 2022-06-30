@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Xbox App is Available Today on Samsung 2022 Smart TVs](https://news.xbox.com/en-us/2022/06/30/xbox-app-available-today-samsung-2022-smart-tv/)
- - [EA is giving you a chance to play the new Skate early](https://www.polygon.com/23189826/skate-4-early-access-insider-program-electronic-arts)
- - [Modder Sorta Gets Half-Life 2 Running On Switch &lpar;It&#39;s Actually Portal&rpar;](https://kotaku.com/nintendo-switch-portal-companion-collection-half-life-2-1849129112)<!-- GAME:END -->
+ - [21 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
+ - [Master Chief Dives into Fall Guys with the Spartan Showdown Challenges](https://news.xbox.com/en-us/2022/06/30/master-chief-dives-into-fall-guys-with-the-spartan-showdown-challenges/)
+ - [Halo Infinite’s campaign co-op beta begins July 11, finally adds mission replay](https://www.polygon.com/23189576/halo-infinite-campaign-co-op-mission-replay-july-2022-beta)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
