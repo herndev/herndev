@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How one of gaming’s most intimidating genres spawned a legion of hits](https://www.theverge.com/2022/6/30/23181999/roguelike-deckbuilder-genre-slay-the-spire-inscryption)
- - [Select merchants now offering 4% Apple Card Daily Cash until July 31](https://appleinsider.com/articles/22/06/29/select-merchants-now-offering-4-apple-card-daily-cash-until-july-31?utm_medium=rss)
- - [Apple&#39;s CarPlay update, demoed at WWDC, lets users navigate to a pump and buy gas from its dashboard &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220630/p24#a220630p24)<!-- TECH:END -->
+ - [Samsung’s gaming TV hub launches with Xbox, Stadia, and GeForce Now streaming](https://www.theverge.com/2022/6/30/23189392/samsung-gaming-hub-xbox-stadia-luna-apps-support)
+ - [Epic Games-funded polls claim public want open App Store](https://appleinsider.com/articles/22/06/30/epic-games-funded-polls-claim-public-want-open-app-store?utm_medium=rss)
+ - [Interviews detail Didi&#39;s downfall under China&#39;s scrutiny, losing $60B in value in one year and blindsiding executives, following its $4.4B US IPO in June 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p25#a220630p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
