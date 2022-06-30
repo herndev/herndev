@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Taiwanese minister and TSMC board member urges US Congress to pass the Chips Act, saying the pace of building TSMC&#39;s Arizona chip factory depends on subsidies &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/220630/p5#a220630p5)
- - [London-based Shop Circle, which offers merchants a one-stop shop for e-commerce software, emerges from stealth with $65M in funding led by NFX and QED Investors &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220630/p4#a220630p4)
- - [Officials in Zhengzhou, China used the smartphone location tracking-based health code system to stop 1,000+ depositors from protesting over failing rural banks &lpar;Financial Times&rpar;](http://www.techmeme.com/220630/p3#a220630p3)<!-- TECH:END -->
+ - [Experts say using period tracker apps does not necessarily put women at additional risk of prosecutions in the wake of SCOTUS overturning Roe v. Wade &lpar;Kendra Albert&rpar;](http://www.techmeme.com/220630/p8#a220630p8)
+ - [Nothing Phone 1 European price leaks on Amazon](https://www.androidauthority.com/nothing-phone-1-price-3181579/)
+ - [What’s new on Disney Plus in July 2022: Zombies 3 and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
