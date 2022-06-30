@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Unity lays off hundreds of employees to &#39;realign&#39; resources](https://www.pcgamer.com/unity-lays-off-hundreds-of-employees-to-realign-resources)
  - [Today&#39;s Wordle answer #376: Thursday, June 30](https://www.pcgamer.com/wordle-today-june-30-376-answer-hint)
- - [Monkey Island creator says he&#39;s done sharing the new game after &#39;personal attack comments&#39;](https://www.pcgamer.com/monkey-island-creator-says-hes-done-sharing-the-new-game-after-personal-attack-comments)
- - [Check out these Hackaday Reuse, Recycle, Revamp finalist projects](https://www.pcgamer.com/check-out-these-hackaday-reuse-recycle-revamp-finalist-projects)<!-- GAME:END -->
+ - [Monkey Island creator says he&#39;s done sharing the new game after &#39;personal attack comments&#39;](https://www.pcgamer.com/monkey-island-creator-says-hes-done-sharing-the-new-game-after-personal-attack-comments)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
