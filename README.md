@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster High’s live action movie is a freaky, fangtastic musical](https://www.polygon.com/23189621/monster-high-live-action-musical-trailer)
- - [Kickstarter’s Zine Quest is moving back to February, and the change will be permanent](https://www.polygon.com/23189559/kickstarter-zinequest-date-change-february-indie-rpg-controversy)
- - [The Boys isn’t about superheroes, it’s about TV](https://www.polygon.com/23188742/the-boys-season-3-is-about-tv)<!-- GAME:END -->
+ - [Cooking up a New Composition for Cuphead – The Delicious Last Course](https://news.xbox.com/en-us/2022/06/30/cooking-up-a-new-composition-for-cuphead-the-delicious-last-course/)
+ - [The first Warhammer 40,000 Magic: The Gathering Set is delayed to October](https://www.polygon.com/23189687/magic-the-gathering-warhammer-40000-commander-deck-delay-release-date)
+ - [Monkey Island Creator Ron Gilbert Has Joy Sapped From Sequel Thanks To Awful People](https://kotaku.com/return-monkey-island-ron-gilbert-art-style-angry-fans-1849128586)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
