@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s gaming TV hub launches with Xbox, Stadia, and GeForce Now streaming](https://www.theverge.com/2022/6/30/23189392/samsung-gaming-hub-xbox-stadia-luna-apps-support)
- - [Epic Games-funded polls claim public want open App Store](https://appleinsider.com/articles/22/06/30/epic-games-funded-polls-claim-public-want-open-app-store?utm_medium=rss)
- - [Interviews detail Didi&#39;s downfall under China&#39;s scrutiny, losing $60B in value in one year and blindsiding executives, following its $4.4B US IPO in June 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p25#a220630p25)<!-- TECH:END -->
+ - [Filing: ex-Apple retail chief Ron Johnson&#39;s at-home tech setup company Enjoy files for bankruptcy less than a year after a SPAC merger and sells to Asurion &lpar;Bloomberg&rpar;](http://www.techmeme.com/220630/p27#a220630p27)
+ - [Apple TV+ shares first trailer for family comedy &#39;Best Foot Forward&#39;](https://appleinsider.com/articles/22/06/30/apple-tv-shares-first-trailer-for-family-comedy-best-foot-forward?utm_medium=rss)
+ - [Samsung is already making 3nm chips, beating out competitors](https://www.androidauthority.com/samsung-3nm-launch-3182235/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
