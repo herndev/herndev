@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Photographer uses DALL-E 2 AI to automatically edit images better than Photoshop](https://www.pcgamer.com/photographer-uses-dall-e-2-ai-to-automatically-edit-images-better-than-photoshop)
  - [How to get the new Switch Skills in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-switch-skills)
- - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)
- - [Where to find the three Elgado Cohoots in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-cohoot-elgado)<!-- GAME:END -->
+ - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
