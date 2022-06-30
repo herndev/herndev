@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why big tech companies are so quiet on abortion rights](https://www.theverge.com/2022/6/30/23189810/abortion-rights-activism-big-tech-employees)
- - [Sources: FTX is close to finalizing a term sheet to buy BlockFi for around $25M; BlockFi was last valued at $4.8B, per PitchBook &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/220630/p31#a220630p31)
- - [Meta says it is rolling out NFT support on Facebook, allowing select US creators to display NFTs on their profiles, after adding the feature to Instagram in May &lpar;TechCrunch&rpar;](http://www.techmeme.com/220630/p30#a220630p30)<!-- TECH:END -->
+ - [Galaxy Watch 5 hopefuls get a glimpse at Wear OS 3.5 and One UI Watch 4.5](https://www.androidauthority.com/wear-os-3-5-one-ui-watch-4-5-3182275/)
+ - [EA’s ‘pre-pre-pre-alpha’ video of the new Skate still looks pretty great](https://www.theverge.com/2022/6/30/23189958/ea-skate-trailer-progress-update-playtest-sign-up)
+ - [CFTC charges South Africa-based bitcoin pool operator Mirror Trading International with $1.7B fraud, in its largest ever fraud case involving bitcoin &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220630/p33#a220630p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
