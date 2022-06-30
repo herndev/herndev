@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Photographer uses DALL-E 2 AI to automatically edit images better than Photoshop](https://www.pcgamer.com/photographer-uses-dall-e-2-ai-to-automatically-edit-images-better-than-photoshop)
- - [How to get the new Switch Skills in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-switch-skills)
- - [Every new monster in Sunbreak and when you can fight them](https://www.pcgamer.com/sunbreak-monster-list)<!-- GAME:END -->
+ - [Check out these Hackaday Reuse, Recycle, Revamp finalist projects](https://www.pcgamer.com/check-out-these-hackaday-reuse-recycle-revamp-finalist-projects)
+ - [Asrock&#39;s 600-series motherboards officially support 13th Gen Raptor Lake CPUs after a BIOS update](https://www.pcgamer.com/asrocks-600-series-motherboards-officially-support-13th-gen-raptor-lake-cpus-after-a-bios-update)
+ - [Photographer uses DALL-E 2 AI to automatically edit images better than Photoshop](https://www.pcgamer.com/photographer-uses-dall-e-2-ai-to-automatically-edit-images-better-than-photoshop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
