@@ -195,11 +195,11 @@ Last Updated on 15/05/2022 02:03:30 UTC
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1811](https://github.com/marcizhu/marcizhu/issues/1811) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-2. 🎉 Merged PR [#3](https://github.com/herndev/herndev/pull/3) in [herndev/herndev](https://github.com/herndev/herndev)
-3. 💪 Opened PR [#3](https://github.com/herndev/herndev/pull/3) in [herndev/herndev](https://github.com/herndev/herndev)
-4. 🎉 Merged PR [#10](https://github.com/herndev/ReactJS-Portfolio/pull/10) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
-5. 🎉 Merged PR [#2](https://github.com/herndev/herndev/pull/2) in [herndev/herndev](https://github.com/herndev/herndev)
+1. ❗️ Opened issue [#1817](https://github.com/marcizhu/marcizhu/issues/1817) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+2. ❗️ Opened issue [#1811](https://github.com/marcizhu/marcizhu/issues/1811) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+3. 🎉 Merged PR [#3](https://github.com/herndev/herndev/pull/3) in [herndev/herndev](https://github.com/herndev/herndev)
+4. 💪 Opened PR [#3](https://github.com/herndev/herndev/pull/3) in [herndev/herndev](https://github.com/herndev/herndev)
+5. 🎉 Merged PR [#10](https://github.com/herndev/ReactJS-Portfolio/pull/10) in [herndev/ReactJS-Portfolio](https://github.com/herndev/ReactJS-Portfolio)
 <!--END_SECTION:activity-->
 
 ---
