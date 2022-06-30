@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [21 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)
- - [Master Chief Dives into Fall Guys with the Spartan Showdown Challenges](https://news.xbox.com/en-us/2022/06/30/master-chief-dives-into-fall-guys-with-the-spartan-showdown-challenges/)
- - [Halo Infinite’s campaign co-op beta begins July 11, finally adds mission replay](https://www.polygon.com/23189576/halo-infinite-campaign-co-op-mission-replay-july-2022-beta)<!-- GAME:END -->
+ - [House Flipper – Renovating Old Fixer-Uppers is Available Now with Xbox Game Pass!](https://news.xbox.com/en-us/2022/06/30/house-flipper-renovating-old-fixer-uppers-is-available-now-with-xbox-game-pass/)
+ - [When emulators were legit](https://www.polygon.com/23184989/emulators-roms-playstation-legal-illegal-legit)
+ - [The sci-fi morality play Rubikon gets stranded in orbit](https://www.polygon.com/reviews/23187803/rubikon-review-sci-fi-space-station-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
