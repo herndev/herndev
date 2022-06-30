@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House Flipper – Renovating Old Fixer-Uppers is Available Now with Xbox Game Pass!](https://news.xbox.com/en-us/2022/06/30/house-flipper-renovating-old-fixer-uppers-is-available-now-with-xbox-game-pass/)
- - [When emulators were legit](https://www.polygon.com/23184989/emulators-roms-playstation-legal-illegal-legit)
- - [The sci-fi morality play Rubikon gets stranded in orbit](https://www.polygon.com/reviews/23187803/rubikon-review-sci-fi-space-station-movie)<!-- GAME:END -->
+ - [Star Ocean The Divine Force Launches October 27 on Xbox](https://news.xbox.com/en-us/2022/06/30/star-ocean-the-divine-force-launches-october-27-on-xbox/)
+ - [Halo Infinite Co-Op Testing Starts July 11, Also Adds Mission Replay](https://kotaku.com/halo-infinite-co-op-beta-test-dates-how-to-join-xbox-1849130666)
+ - [Skull and Bones leak points to a November release](https://www.pcgamer.com/skull-and-bones-leak-points-to-a-november-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
