@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Halo Infinite’s campaign co-op preview kicks off in July](https://www.theverge.com/2022/6/30/23190099/halo-infinite-co-op-preview-test-mission-replay)
- - [Raspberry Pi announces the Pico W, a $6 microcontroller equipped with Wi-Fi](https://www.theverge.com/2022/6/30/23189994/raspberry-pi-pico-w-wi-fi-microcontroller-6)
- - [iFixit tears down the 13-inch MacBook Pro with M2, finds it near identical to M1](https://appleinsider.com/articles/22/06/30/ifixit-pulls-apart-the-13-inch-macbook-pro-with-m2-finds-it-near-identical-to-m1?utm_medium=rss)<!-- TECH:END -->
+ - [T-Mobile 5G home internet reaches 5 million new addresses in the middle of the country](https://www.theverge.com/2022/6/30/23190047/t-mobile-5g-home-internet-colorado-missouri-iowa-kansas-oklahoma)
+ - [April, which personalizes and autofills tax filings by using AI to analyze tax code, raised a $30M Series A led by Treasury, bringing its total funding to $40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220630/p36#a220630p36)
+ - [The Supreme Court just decided a major climate court case](https://www.theverge.com/2022/6/28/23186627/supreme-court-climate-court-case-west-virginia-epa-power-plant-emissions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
