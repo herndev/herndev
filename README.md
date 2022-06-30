@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out these Hackaday Reuse, Recycle, Revamp finalist projects](https://www.pcgamer.com/check-out-these-hackaday-reuse-recycle-revamp-finalist-projects)
- - [ASRock&#39;s 600-series motherboards officially support 13th Gen Raptor Lake CPUs after a BIOS update](https://www.pcgamer.com/asrocks-600-series-motherboards-officially-support-13th-gen-raptor-lake-cpus-after-a-bios-update)
- - [Photographer uses DALL-E 2 AI to automatically edit images better than Photoshop](https://www.pcgamer.com/photographer-uses-dall-e-2-ai-to-automatically-edit-images-better-than-photoshop)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #376: Thursday, June 30](https://www.pcgamer.com/wordle-today-june-30-376-answer-hint)
+ - [Monkey Island creator says he&#39;s done sharing the new game after &#39;personal attack comments&#39;](https://www.pcgamer.com/monkey-island-creator-says-hes-done-sharing-the-new-game-after-personal-attack-comments)
+ - [Check out these Hackaday Reuse, Recycle, Revamp finalist projects](https://www.pcgamer.com/check-out-these-hackaday-reuse-recycle-revamp-finalist-projects)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
