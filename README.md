@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grayscale Investments sues the US SEC after the agency rejected its application on Wednesday to convert its flagship Grayscale Bitcoin Trust product to an ETF &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220629/p38#a220629p38)
- - [M2 MacBook Air could hit shelves on July 15, with preorders on July 8](https://appleinsider.com/articles/22/06/30/m2-macbook-air-could-hit-shelves-on-july-15-with-preorders-on-july-8?utm_medium=rss)
- - [Substack CEO says he’s ‘very sorry’ about laying off 13 people](https://www.theverge.com/2022/6/29/23188977/substack-layoffs-14-percent-economy)<!-- TECH:END -->
+ - [Tel Aviv-based Cyolo, maker of zero trust security tech enabling secure connection to workplaces, has raised a $60M Series B, bringing its total raised to $85M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220629/p40#a220629p40)
+ - [Google Workspace head Javier Soltero, who managed Google&#39;s productivity and collaboration tools including Gmail and Meet, is leaving the company on July 15 &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/220629/p39#a220629p39)
+ - [Grayscale Investments sues the US SEC after the agency rejected its application on Wednesday to convert its flagship Grayscale Bitcoin Trust product to an ETF &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220629/p38#a220629p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
