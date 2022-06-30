@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now iFixit has genuine repair parts for Google Pixels, from the 2 to the 6 Pro](https://www.theverge.com/2022/6/29/23188693/google-pixel-repair-kit-ifixit-battery-screen-usb-port-replacement)
- - [EU lawmakers provisionally agree on anti-laundering rules for crypto, requiring verified customer identities for transfers between regulated digital wallets &lpar;Bloomberg&rpar;](http://www.techmeme.com/220629/p34#a220629p34)
- - [Docs: Coinbase is selling features of its intelligence-gathering tool Coinbase Tracer to ICE, letting ICE track crypto transactions including bitcoin and ether &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220629/p33#a220629p33)<!-- TECH:END -->
+ - [Sources: digital asset trading firm Genesis is potentially facing &quot;hundreds of millions&quot; of dollars in losses, partly through exposure to 3AC and Babel Finance &lpar;CoinDesk&rpar;](http://www.techmeme.com/220629/p36#a220629p36)
+ - [Researchers say some businesses are exaggerating AI&#39;s capabilities, brewing misunderstanding and distorting policymakers&#39; views of AI&#39;s power and fallibility &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220629/p35#a220629p35)
+ - [New Yorker Cartoonist Asher Perlman Explains How His Work Became a Meme     - CNET](https://www.cnet.com/culture/entertainment/new-yorker-cartoonist-asher-perlman-explains-how-his-work-became-a-meme/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
