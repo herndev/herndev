@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robot Umpires Could Be Coming to MLB as Soon as 2024     - CNET](https://www.cnet.com/culture/sports/robot-umpires-could-be-coming-to-mlb-as-soon-as-2024/#ftag=CAD590a51e)
- - [Pokemon Go Events for July 2022: Go Fest, Starly Community Day and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-july-2022-events-go-fest-community-day-more/#ftag=CAD590a51e)
- - [Pokemon Go&#39;s New Social Network, Campfire, Is a Doorway to Niantic&#39;s AR Multiverse     - CNET](https://www.cnet.com/tech/computing/pokemon-gos-social-network-campfire-is-a-doorway-to-niantics-ar-multiverse/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Why big tech companies are so quiet on abortion rights](https://www.theverge.com/2022/6/30/23189810/abortion-rights-activism-big-tech-employees)
+ - [Sources: FTX is close to finalizing a term sheet to buy BlockFi for around $25M; BlockFi was last valued at $4.8B, per PitchBook &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/220630/p31#a220630p31)
+ - [Meta says it is rolling out NFT support on Facebook, allowing select US creators to display NFTs on their profiles, after adding the feature to Instagram in May &lpar;TechCrunch&rpar;](http://www.techmeme.com/220630/p30#a220630p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
