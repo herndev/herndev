@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watch 5 hopefuls get a glimpse at Wear OS 3.5 and One UI Watch 4.5](https://www.androidauthority.com/wear-os-3-5-one-ui-watch-4-5-3182275/)
- - [EA’s ‘pre-pre-pre-alpha’ video of the new Skate still looks pretty great](https://www.theverge.com/2022/6/30/23189958/ea-skate-trailer-progress-update-playtest-sign-up)
- - [CFTC charges South Africa-based bitcoin pool operator Mirror Trading International with $1.7B fraud, in its largest ever fraud case involving bitcoin &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220630/p33#a220630p33)<!-- TECH:END -->
+ - [Halo Infinite’s campaign co-op preview kicks off in July](https://www.theverge.com/2022/6/30/23190099/halo-infinite-co-op-preview-test-mission-replay)
+ - [Raspberry Pi announces the Pico W, a $6 microcontroller equipped with Wi-Fi](https://www.theverge.com/2022/6/30/23189994/raspberry-pi-pico-w-wi-fi-microcontroller-6)
+ - [iFixit tears down the 13-inch MacBook Pro with M2, finds it near identical to M1](https://appleinsider.com/articles/22/06/30/ifixit-pulls-apart-the-13-inch-macbook-pro-with-m2-finds-it-near-identical-to-m1?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
