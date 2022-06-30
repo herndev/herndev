@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung begins mass production of 3nm chips touting a 45% reduction in power usage, a 16% smaller surface area, and 23% better performance compared to 5nm chips &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/220630/p1#a220630p1)
  - [Tel Aviv-based Cyolo, maker of zero trust security tech enabling secure connection to workplaces, has raised a $60M Series B, bringing its total raised to $85M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220629/p40#a220629p40)
- - [Google Workspace head Javier Soltero, who managed Google&#39;s productivity and collaboration tools including Gmail and Meet, is leaving the company on July 15 &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/220629/p39#a220629p39)
- - [Grayscale Investments sues the US SEC after the agency rejected its application on Wednesday to convert its flagship Grayscale Bitcoin Trust product to an ETF &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220629/p38#a220629p38)<!-- TECH:END -->
+ - [Google Workspace head Javier Soltero, who managed Google&#39;s productivity and collaboration tools including Gmail and Meet, is leaving the company on July 15 &lpar;Aisha Counts/Protocol&rpar;](http://www.techmeme.com/220629/p39#a220629p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
