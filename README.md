@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories/)
- - [Insta360’s 1-inch 360 mod sets the stage for 360 cameras to come](https://www.theverge.com/23190146/insta360-one-rs-1-inch-360-edition-camera-review)
- - [M2 MacBook Pro and 15 years of iPhone on the AppleInsider Podcast](https://appleinsider.com/articles/22/07/01/m2-macbook-pro-and-15-years-of-iphone-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [COVID-19 variant boosters won’t need new clinical trials for clearance, FDA says](https://www.theverge.com/2022/7/1/23191165/covid-variant-trials-vaccine-booster-fda)
+ - [London-based Omeda Studios, which is developing a third-person action MOBA named Predecessor, raised a $20M Series A, following a $2.2M seed in March 2021 &lpar;Jason McMaster/VentureBeat&rpar;](http://www.techmeme.com/220701/p4#a220701p4)
+ - [How to use Nintendo Joy-Cons with iPhone, iPad, Apple TV](https://appleinsider.com/inside/ios-16/tips/how-to-use-nintendo-joy-cons-with-iphone-ipad-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
