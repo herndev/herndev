@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twice the pride double the fall](http://9gag.com/gag/a81NmVZ)
- - ⏩ [Friday](http://9gag.com/gag/aAGAEvo)
- - 👉 [Wow](http://9gag.com/gag/a61g5Oe)<!-- MEMES:END -->
+ - 💣 [Wow](http://9gag.com/gag/a61g5Oe)
+ - ⏩ [99%](http://9gag.com/gag/aE8KV3O)
+ - 👉 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 ---
 
