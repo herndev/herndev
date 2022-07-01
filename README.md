@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York-based Tomorrow Health, whose data-driven marketplace matches patients with home-based care suppliers, has raised a $60M Series B led by BOND &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/220630/p46#a220630p46)
  - [Kaspersky researchers discovered malware used in the wild since March 2021 to backdoor Microsoft Exchange servers of government and military orgs worldwide &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220630/p45#a220630p45)
- - [The FCC authorizes SpaceX to provide Starlink satellite internet to vehicles in motion, including commercial airlines, shipping vessels, and trucks &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220630/p44#a220630p44)
- - [Best Crypto Exchanges for July 2022: Buy, Sell and Trade Bitcoin, Ether and More     - CNET](https://www.cnet.com/personal-finance/crypto/best-crypto-exchanges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The FCC authorizes SpaceX to provide Starlink satellite internet to vehicles in motion, including commercial airlines, shipping vessels, and trucks &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220630/p44#a220630p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
