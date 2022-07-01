@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
+ - 💣 [Every time I watch this film it scares the hell out of me.](http://9gag.com/gag/aogoL5e)
  - ⏩ [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
- - 👉 [It&#39;s already too late](http://9gag.com/gag/a21g2Dd)<!-- MEMES:END -->
+ - 👉 [All aboard the party bus](http://9gag.com/gag/aAGAMZL)<!-- MEMES:END -->
 
 ---
 
