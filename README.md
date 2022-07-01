@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fire Emblem Heroes Becomes Nintendo’s First Billion-Dollar Mobile Game](https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777)
- - [The Princess turns a familiar fairy-tale trope into a satisfying, indulgent kick-ass fantasy](https://www.polygon.com/reviews/23189983/the-princess-review-martial-arts-disney-fairy-tale)
- - [Tensions Rise At Bethesda As Employees Pressure Company On Abortion Measures](https://kotaku.com/bethesda-zenimax-roe-v-wade-abortion-politics-microsoft-1849134727)<!-- GAME:END -->
+ - [Every Hot Dog Emoji On Steam Belongs To A Guy Named Brian](https://kotaku.com/discord-steam-marketplace-2016-hot-dog-emoji-steam-deck-1849135121)
+ - [Rhythm roguelike Crypt of the Necrodancer gets massive update after 5-year hiatus](https://www.pcgamer.com/rhythm-roguelike-crypt-of-the-necrodancer-gets-massive-update-after-5-year-hiatus)
+ - [Max’s arc in Stranger Things 4 reveals one of the show’s greatest strengths &lpar;and weaknesses&rpar;](https://www.polygon.com/stranger-things/23191311/max-dead-eleven-stranger-things-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
