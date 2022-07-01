@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
- - [Vergecast: EVs are a mess, Starlink is confusing, and WFH monitors are here](https://www.theverge.com/2022/7/1/23191267/ev-starlink-tesla-rivian-google-wfh-monitors-vergecast)
- - [Eero’s flagship Pro 6E mesh router is down to a new low price ahead of Prime Day](https://www.theverge.com/good-deals/2022/7/1/23189632/eero-pro-6e-mesh-wifi-routers-shure-mv7-podcast-mic-hisense-u8g-tv-deal-sale)<!-- TECH:END -->
+ - [EA makes a bad joke, gets relentlessly flamed](https://www.theverge.com/2022/7/1/23191274/ea-single-player-games-respawn-bioware-visceral-games)
+ - [Finding the limits of Dish’s new 5G network](https://www.theverge.com/2022/7/1/23188077/dish-wireless-project-genesis-first-week-testing-speeds-coverage)
+ - [TikTok assures Republicans it’s working to protect US data security](https://www.theverge.com/2022/7/1/23191506/tiktok-republicans-data-security-ccp-china)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
