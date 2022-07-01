@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase Says It Doesn&#39;t Sell Customer Data After ICE &#39;Geo Tracking&#39; Contract Surfaces     - CNET](https://www.cnet.com/personal-finance/crypto/coinbase-says-it-doesnt-sell-customer-data-after-ice-geo-tracking-contract-surfaces/#ftag=CAD590a51e)
- - [Best Gaming Laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
- - [Married? Stop Being Smug Around Your Friends on Dating Apps     - CNET](https://www.cnet.com/culture/married-stop-being-smug-around-your-friends-on-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Three Arrows Capital files for Chapter 15 bankruptcy, a move that protects its US assets while a liquidation is carried out in the British Virgin Islands &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/220701/p16#a220701p16)
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
+ - [Coinbase Says It Doesn&#39;t Sell Customer Data After ICE &#39;Geo Tracking&#39; Contract Surfaces     - CNET](https://www.cnet.com/personal-finance/crypto/coinbase-says-it-doesnt-sell-customer-data-after-ice-geo-tracking-contract-surfaces/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
