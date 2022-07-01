@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 1: eBay 4th of July sale, $120 off stainless steel Apple Watch Series 7, $50 off LG UltraFine 4K, more](https://appleinsider.com/articles/22/07/01/daily-deals-july-1-ebay-4th-of-july-sale-120-off-stainless-steel-apple-watch-series-7-50-off-lg-ultrafine-4k-more?utm_medium=rss)
- - [Netflix execs say they plan no big programming changes; analysts for two banks say a cheaper ad-supported tier may cannibalize the higher-paying subscriber base &lpar;New York Times&rpar;](http://www.techmeme.com/220701/p3#a220701p3)
- - [How to factory reset your smartwatch](https://www.theverge.com/23190338/smartwatch-factory-reset-how-to)<!-- TECH:END -->
+ - [The Best Samsung Galaxy S22 Cases and Accessories](https://www.wired.com/gallery/best-samsung-galaxy-s22-cases-accessories/)
+ - [Insta360’s 1-inch 360 mod sets the stage for 360 cameras to come](https://www.theverge.com/23190146/insta360-one-rs-1-inch-360-edition-camera-review)
+ - [M2 MacBook Pro and 15 years of iPhone on the AppleInsider Podcast](https://appleinsider.com/articles/22/07/01/m2-macbook-pro-and-15-years-of-iphone-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
