@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take on the Zodiac with the Updated Minecraft Minions DLC](https://news.xbox.com/en-us/2022/07/01/take-on-the-zodiac-with-the-updated-minecraft-minions-dlc/)
- - [PlayStation Studio Refreshingly Honest About What It Isn&#39;t Working On](https://kotaku.com/ghost-tsushima-infamous-sly-cooper-sequel-release-date-1849135478)
- - [Sucker Punch clarifies that no one is working on a Sly Cooper or Infamous game](https://www.polygon.com/23191720/sucker-punch-no-sly-cooper-or-infamous-game)<!-- GAME:END -->
+ - [This Week on Xbox: Launches, Sales, and Updates](https://news.xbox.com/en-us/2022/07/01/this-week-on-xbox-launches-sales-and-updates/)
+ - [Let’s Remember How Amazing 2002 Was For Video Games](https://kotaku.com/best-video-games-of-2002-metroid-prime-thps4-1849135720)
+ - [And now, an adventure game about, uh, getting a divorce](https://www.pcgamer.com/and-now-an-adventure-game-about-uh-getting-a-divorce)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
