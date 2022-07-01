@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
- - ⏩ [Give me the cursed Stuff. Thanks.](http://9gag.com/gag/aZrX8Ln)
+ - 💣 [When your fruit needs to travel between 3 continents just so it can be served in plastic, you know the system may not be that concerned with the environment.](http://9gag.com/gag/arnEZ36)
+ - ⏩ [My snacks for the beach](http://9gag.com/gag/aVxrKj8)
  - 👉 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 ---
