@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [COVID-19 variant boosters won’t need new clinical trials for clearance, FDA says](https://www.theverge.com/2022/7/1/23191165/covid-variant-trials-vaccine-booster-fda)
- - [London-based Omeda Studios, which is developing a third-person action MOBA named Predecessor, raised a $20M Series A, following a $2.2M seed in March 2021 &lpar;Jason McMaster/VentureBeat&rpar;](http://www.techmeme.com/220701/p4#a220701p4)
- - [How to use Nintendo Joy-Cons with iPhone, iPad, Apple TV](https://appleinsider.com/inside/ios-16/tips/how-to-use-nintendo-joy-cons-with-iphone-ipad-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
+ - [Vergecast: EVs are a mess, Starlink is confusing, and WFH monitors are here](https://www.theverge.com/2022/7/1/23191267/ev-starlink-tesla-rivian-google-wfh-monitors-vergecast)
+ - [Eero’s flagship Pro 6E mesh router is down to a new low price ahead of Prime Day](https://www.theverge.com/good-deals/2022/7/1/23189632/eero-pro-6e-mesh-wifi-routers-shure-mv7-podcast-mic-hisense-u8g-tv-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
