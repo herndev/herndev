@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Epic Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-epic-tale/#ftag=CAD590a51e)
- - [Best Fitbit Prime Day Deals: Save $82 Off Sense, $68 Off Verse 3, $41 Off Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)
- - [Allstate Car Insurance Review for July 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/allstate-auto-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-weekend/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39;: Spotify Reveals What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-reveals-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
