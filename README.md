@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will face a full trial in the UK after failing to limit a consumer claim that it breached competition law by taking a 30% cut on app and in-app purchases &lpar;Jonathan Chadwick/Daily Mail&rpar;](http://www.techmeme.com/220701/p13#a220701p13)
- - [There’s a better way to bypass Windows 11 install restrictions](https://www.theverge.com/2022/7/1/23191794/windows-11-install-microsoft-account-tpm-restrictions-rufus)
- - [You can now play the ‘all your base are belong to us’ game on Switch](https://www.theverge.com/2022/7/1/23191830/all-your-base-are-belong-to-us-zero-wing-nintendo-switch-sega-genesis)<!-- TECH:END -->
+ - [Coinbase Says It Doesn&#39;t Sell Customer Data After ICE &#39;Geo Tracking&#39; Contract Surfaces     - CNET](https://www.cnet.com/personal-finance/crypto/coinbase-says-it-doesnt-sell-customer-data-after-ice-geo-tracking-contract-surfaces/#ftag=CAD590a51e)
+ - [Best Gaming Laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)
+ - [Married? Stop Being Smug Around Your Friends on Dating Apps     - CNET](https://www.cnet.com/culture/married-stop-being-smug-around-your-friends-on-dating-apps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
