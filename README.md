@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-weekend/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39;: Spotify Reveals What Song Will Save You From Vecna     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-spotify-reveals-what-song-will-save-you-from-vecna/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google settles a lawsuit by agreeing in part to pay $90M in a fund to support US app developers who made $2M or less in annual Play Store revenue from 2016-2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220630/p43#a220630p43)
+ - [Jake Paul vs. Tommy Fury: Is the Fight Still On?     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-the-fight-still-on/#ftag=CAD590a51e)
+ - [Why More People Should Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
