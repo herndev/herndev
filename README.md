@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Hot Dog Emoji On Steam Belongs To A Guy Named Brian](https://kotaku.com/discord-steam-marketplace-2016-hot-dog-emoji-steam-deck-1849135121)
- - [Rhythm roguelike Crypt of the Necrodancer gets massive update after 5-year hiatus](https://www.pcgamer.com/rhythm-roguelike-crypt-of-the-necrodancer-gets-massive-update-after-5-year-hiatus)
- - [Max’s arc in Stranger Things 4 reveals one of the show’s greatest strengths &lpar;and weaknesses&rpar;](https://www.polygon.com/stranger-things/23191311/max-dead-eleven-stranger-things-4)<!-- GAME:END -->
+ - [Take on the Zodiac with the Updated Minecraft Minions DLC](https://news.xbox.com/en-us/2022/07/01/take-on-the-zodiac-with-the-updated-minecraft-minions-dlc/)
+ - [PlayStation Studio Refreshingly Honest About What It Isn&#39;t Working On](https://kotaku.com/ghost-tsushima-infamous-sly-cooper-sequel-release-date-1849135478)
+ - [Sucker Punch clarifies that no one is working on a Sly Cooper or Infamous game](https://www.polygon.com/23191720/sucker-punch-no-sly-cooper-or-infamous-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
