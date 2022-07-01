@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Minions movies offer a master class on comedy-friendly evil](https://www.polygon.com/23185128/minions-evil-essay-rise-of-gru-despicable-me)
- - [How Minions beat Disney at the copyright game](https://www.polygon.com/23189968/minions-public-domain-disney-copyright-mickey-mouse)
- - [I have one eye and I must scream: A guided tour of Facebook’s Minion meme pages](https://www.polygon.com/23190284/facebook-minion-meme-pages-wasteland)<!-- GAME:END -->
+ - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)
+ - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)
+ - [Go Wild With Rabbids: Party of Legends Today](https://news.xbox.com/en-us/2022/07/01/go-wild-with-rabbids-party-of-legends-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
