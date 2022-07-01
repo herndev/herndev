@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok assures US officials it has strong data security, denies recent report](https://appleinsider.com/articles/22/07/01/tiktok-assures-us-officials-it-has-strong-data-security-denies-recent-report?utm_medium=rss)
- - [Voyager Digital temporarily suspends trading, deposits, and withdrawals citing market conditions, after issuing a default notice to 3AC in June on a ~$650M loan &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220701/p12#a220701p12)
- - [Social networks won’t be able to stay neutral on abortion](https://www.theverge.com/2022/7/1/23187995/social-networks-abortion-law-moderation-state-decisions)<!-- TECH:END -->
+ - [Apple will face a full trial in the UK after failing to limit a consumer claim that it breached competition law by taking a 30% cut on app and in-app purchases &lpar;Jonathan Chadwick/Daily Mail&rpar;](http://www.techmeme.com/220701/p13#a220701p13)
+ - [There’s a better way to bypass Windows 11 install restrictions](https://www.theverge.com/2022/7/1/23191794/windows-11-install-microsoft-account-tpm-restrictions-rufus)
+ - [You can now play the ‘all your base are belong to us’ game on Switch](https://www.theverge.com/2022/7/1/23191830/all-your-base-are-belong-to-us-zero-wing-nintendo-switch-sega-genesis)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
