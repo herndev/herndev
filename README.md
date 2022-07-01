@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The retro gaming Era had some bangers , some of the old games soundtracks had no right to be this good](http://9gag.com/gag/aOQEZED)
- - ⏩ [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
+ - 💣 [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
+ - ⏩ [Give me the cursed Stuff. Thanks.](http://9gag.com/gag/aZrX8Ln)
  - 👉 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 ---
