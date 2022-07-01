@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How gaming on the Mac is getting better with macOS Ventura](https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura?utm_medium=rss)
- - [Apple must face UK complaint that its App Store commission is unfair](https://appleinsider.com/articles/22/07/01/apple-must-face-uk-complaint-that-its-app-store-commission-is-unfair?utm_medium=rss)
- - [BlockFi says it agreed to an option to be acquired by FTX for up to $240M; the deal also includes a $400M revolving credit facility from FTX &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220701/p10#a220701p10)<!-- TECH:END -->
+ - [TikTok assures US officials it has strong data security, denies recent report](https://appleinsider.com/articles/22/07/01/tiktok-assures-us-officials-it-has-strong-data-security-denies-recent-report?utm_medium=rss)
+ - [Voyager Digital temporarily suspends trading, deposits, and withdrawals citing market conditions, after issuing a default notice to 3AC in June on a ~$650M loan &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220701/p12#a220701p12)
+ - [Social networks won’t be able to stay neutral on abortion](https://www.theverge.com/2022/7/1/23187995/social-networks-abortion-law-moderation-state-decisions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
