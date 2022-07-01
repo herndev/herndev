@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Avatar: The Way of Water’s going to turn Sigourney Weaver into a teenage Na’vi](https://www.theverge.com/2022/7/1/23191479/avatar-the-way-of-water-sigourney-weaver-kiri)
- - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
- - [You should probably skip the base M2 MacBook Pro model](https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device)<!-- TECH:END -->
+ - [How gaming on the Mac is getting better with macOS Ventura](https://appleinsider.com/articles/22/07/01/how-gaming-on-the-mac-is-getting-better-with-macos-ventura?utm_medium=rss)
+ - [Apple must face UK complaint that its App Store commission is unfair](https://appleinsider.com/articles/22/07/01/apple-must-face-uk-complaint-that-its-app-store-commission-is-unfair?utm_medium=rss)
+ - [BlockFi says it agreed to an option to be acquired by FTX for up to $240M; the deal also includes a $400M revolving credit facility from FTX &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/220701/p10#a220701p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
