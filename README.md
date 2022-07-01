@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA makes a bad joke, gets relentlessly flamed](https://www.theverge.com/2022/7/1/23191274/ea-single-player-games-respawn-bioware-visceral-games)
- - [Finding the limits of Dish’s new 5G network](https://www.theverge.com/2022/7/1/23188077/dish-wireless-project-genesis-first-week-testing-speeds-coverage)
- - [TikTok assures Republicans it’s working to protect US data security](https://www.theverge.com/2022/7/1/23191506/tiktok-republicans-data-security-ccp-china)<!-- TECH:END -->
+ - [Avatar: The Way of Water’s going to turn Sigourney Weaver into a teenage Na’vi](https://www.theverge.com/2022/7/1/23191479/avatar-the-way-of-water-sigourney-weaver-kiri)
+ - [Mac keyboard showdown: Apple versus chiclet versus mechanical](https://appleinsider.com/inside/mac/best/mac-keyboard-showdown-apple-versus-chiclet-versus-mechanical?utm_medium=rss)
+ - [You should probably skip the base M2 MacBook Pro model](https://www.theverge.com/2022/7/1/23191141/apple-macbook-pro-13-m2-base-model-slow-device)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
