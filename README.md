@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Technoblade, a popular Minecraft YouTuber, dies from cancer age 23 — shares final video](https://www.theverge.com/2022/7/1/23191022/technoblade-dies-cancer-final-video-message)
- - [Apple launches $50 gift card incentive for Apple TV 4K](https://appleinsider.com/articles/22/07/01/apple-launches-50-gift-card-incentive-for-apple-tv-4k?utm_medium=rss)
- - [Google offers small app developers $90 million to settle antitrust allegations](https://www.theverge.com/2022/7/1/23191008/google-app-developers-fund-90-million-play-store-antitrust)<!-- TECH:END -->
+ - [WWDC, iPhone&#39;s anniversary, and USB-C is taking over - Apple&#39;s June 2022 in review](https://appleinsider.com/articles/22/07/01/wwdc-iphones-anniversary-and-usb-c-is-taking-over---apples-june-2022-in-review?utm_medium=rss)
+ - [Your iPhone 13 Might Not Need a Case All Day Long     - CNET](https://www.cnet.com/tech/mobile/your-iphone-13-might-not-need-a-case-all-day-long/#ftag=CAD590a51e)
+ - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
