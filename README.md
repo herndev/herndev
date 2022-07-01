@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [New York-based Tomorrow Health, whose data-driven marketplace matches patients with home-based care suppliers, has raised a $60M Series B led by BOND &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/220630/p46#a220630p46)
- - [Kaspersky researchers discovered malware used in the wild since March 2021 to backdoor Microsoft Exchange servers of government and military orgs worldwide &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220630/p45#a220630p45)
- - [The FCC authorizes SpaceX to provide Starlink satellite internet to vehicles in motion, including commercial airlines, shipping vessels, and trucks &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220630/p44#a220630p44)<!-- TECH:END -->
+ - [UFC 276 Israel Adesanya vs. Jared Cannonier: How to Watch, Start Time, Full Fight Card     - CNET](https://www.cnet.com/culture/sports/ufc-276-israel-adesanya-vs-jared-cannonier-how-to-watch-start-time-full-fight-card/#ftag=CAD590a51e)
+ - [Best Online Will Makers for July 2022     - CNET](https://www.cnet.com/personal-finance/the-best-online-will-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
