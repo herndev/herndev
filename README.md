@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple&#39;s iPhone came out 15 years ago and changed the world](https://appleinsider.com/articles/21/06/29/apples-original-iphone-went-on-sale-14-years-ago?utm_medium=rss)
  - [New York-based Tomorrow Health, whose data-driven marketplace matches patients with home-based care suppliers, has raised a $60M Series B led by BOND &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/220630/p46#a220630p46)
- - [UFC 276 Israel Adesanya vs. Jared Cannonier: How to Watch, Start Time, Full Fight Card     - CNET](https://www.cnet.com/culture/sports/ufc-276-israel-adesanya-vs-jared-cannonier-how-to-watch-start-time-full-fight-card/#ftag=CAD590a51e)
- - [Best Online Will Makers for July 2022     - CNET](https://www.cnet.com/personal-finance/the-best-online-will-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UFC 276 Israel Adesanya vs. Jared Cannonier: How to Watch, Start Time, Full Fight Card     - CNET](https://www.cnet.com/culture/sports/ufc-276-israel-adesanya-vs-jared-cannonier-how-to-watch-start-time-full-fight-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
