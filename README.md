@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)
- - [Share of the Week: Celebration](https://blog.playstation.com/2022/07/01/share-of-the-week-celebration/)
- - [Go Wild With Rabbids: Party of Legends Today](https://news.xbox.com/en-us/2022/07/01/go-wild-with-rabbids-party-of-legends-today/)<!-- GAME:END -->
+ - [Tributes Pour In For Beloved Minecraft YouTuber Technoblade](https://kotaku.com/technoblade-minecraft-youtuber-sarcoma-cancer-hypixel-1849134376)
+ - [New York by Night brings Vampire-themed actual play to the City That Never Sleeps](https://www.polygon.com/tabletop-games/23189660/new-york-by-night-preview-vampire-the-masquerade-actual-play-aabria-iyengar)
+ - [Official PlayStation Podcast Episode 435: Unpacking Retro Origins](https://blog.playstation.com/2022/07/01/official-playstation-podcast-episode-435-unpacking-retro-origins/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
