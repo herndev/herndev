@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Launches, Sales, and Updates](https://news.xbox.com/en-us/2022/07/01/this-week-on-xbox-launches-sales-and-updates/)
- - [Let’s Remember How Amazing 2002 Was For Video Games](https://kotaku.com/best-video-games-of-2002-metroid-prime-thps4-1849135720)
- - [And now, an adventure game about, uh, getting a divorce](https://www.pcgamer.com/and-now-an-adventure-game-about-uh-getting-a-divorce)<!-- GAME:END -->
+ - [KOTOR 2 On Switch Is Officially Fixed For Real Now, Kinda Sorta](https://kotaku.com/kotor-2-gamebreaking-bug-aspyr-crash-onderon-1849136189)
+ - [Bethesda Keeps Hiring The Fans Creating Fallout: London](https://kotaku.com/fallout-london-mod-4-skyrim-pc-hired-bethesda-fan-dev-1849136115)
+ - [Netflix’s New Heavy Metal Fantasy Anime Is Unapologetically Horny And That&#39;s OK](https://kotaku.com/bastard-netflix-anime-harem-heavy-metal-trashy-ecchi-1849135990)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
