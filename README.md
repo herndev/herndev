@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta add the tip that starts at a 20% minimum](http://9gag.com/gag/a91wvXZ)
- - ⏩ [Give me the cursed Stuff. Thanks.](http://9gag.com/gag/aZrX8Ln)
- - 👉 [Friday](http://9gag.com/gag/aAGAEvo)<!-- MEMES:END -->
+ - 💣 [Twice the pride double the fall](http://9gag.com/gag/a81NmVZ)
+ - ⏩ [Friday](http://9gag.com/gag/aAGAEvo)
+ - 👉 [Wow](http://9gag.com/gag/a61g5Oe)<!-- MEMES:END -->
 
 ---
 
