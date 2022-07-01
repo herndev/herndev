@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best games for the Steam Deck](https://www.pcgamer.com/steam-deck-best-games)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Old Soldiers Never Die...](https://kotaku.com/age-empires-iv-halo-master-chief-relic-concept-art-illu-1849132363)
- - [Blade Runner Remake Mess Continues With Shopfront Switcheroo](https://kotaku.com/blade-runner-enhanced-edition-gog-good-old-games-remake-1849132129)<!-- GAME:END -->
+ - [Old Soldiers Never Die...](https://kotaku.com/age-empires-iv-halo-master-chief-relic-concept-art-illu-1849132363)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
