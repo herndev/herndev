@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow](http://9gag.com/gag/a61g5Oe)
- - ⏩ [99%](http://9gag.com/gag/aE8KV3O)
+ - 💣 [The retro gaming Era had some bangers , some of the old games soundtracks had no right to be this good](http://9gag.com/gag/aOQEZED)
+ - ⏩ [Played for 100h VS 1000h](http://9gag.com/gag/aNPMQM3)
  - 👉 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 ---
