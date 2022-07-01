@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [The retro gaming Era had some bangers , some of the old games soundtracks had no right to be this good](http://9gag.com/gag/aOQEZED)
- - ⏩ [Played for 100h VS 1000h](http://9gag.com/gag/aNPMQM3)
+ - ⏩ [Can you spot me $20?](http://9gag.com/gag/aBnzVbN)
  - 👉 [Happy 14th birthday to me](http://9gag.com/gag/aqGM8OP)<!-- MEMES:END -->
 
 ---
