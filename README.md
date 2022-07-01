@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the modder making $20,000 a month bringing the biggest games to VR](https://www.theverge.com/23190201/luke-ross-vr-real-mod-gta-v-elden-ring-horizon-red-dead)
  - [WWDC, iPhone&#39;s anniversary, and USB-C is taking over - Apple&#39;s June 2022 in review](https://appleinsider.com/articles/22/07/01/wwdc-iphones-anniversary-and-usb-c-is-taking-over---apples-june-2022-in-review?utm_medium=rss)
- - [Your iPhone 13 Might Not Need a Case All Day Long     - CNET](https://www.cnet.com/tech/mobile/your-iphone-13-might-not-need-a-case-all-day-long/#ftag=CAD590a51e)
- - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [EU agrees on new crypto rules, including measures guarding against market abuse and requiring crypto firms to disclose environmental impact of their assets &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220701/p2#a220701p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
