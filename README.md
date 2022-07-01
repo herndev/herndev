@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the modder making $20,000 a month bringing the biggest games to VR](https://www.theverge.com/23190201/luke-ross-vr-real-mod-gta-v-elden-ring-horizon-red-dead)
- - [WWDC, iPhone&#39;s anniversary, and USB-C is taking over - Apple&#39;s June 2022 in review](https://appleinsider.com/articles/22/07/01/wwdc-iphones-anniversary-and-usb-c-is-taking-over---apples-june-2022-in-review?utm_medium=rss)
- - [EU agrees on new crypto rules, including measures guarding against market abuse and requiring crypto firms to disclose environmental impact of their assets &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220701/p2#a220701p2)<!-- TECH:END -->
+ - [Daily deals July 1: eBay 4th of July sale, $120 off stainless steel Apple Watch Series 7, $50 off LG UltraFine 4K, more](https://appleinsider.com/articles/22/07/01/daily-deals-july-1-ebay-4th-of-july-sale-120-off-stainless-steel-apple-watch-series-7-50-off-lg-ultrafine-4k-more?utm_medium=rss)
+ - [Netflix execs say they plan no big programming changes; analysts for two banks say a cheaper ad-supported tier may cannibalize the higher-paying subscriber base &lpar;New York Times&rpar;](http://www.techmeme.com/220701/p3#a220701p3)
+ - [How to factory reset your smartwatch](https://www.theverge.com/23190338/smartwatch-factory-reset-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
