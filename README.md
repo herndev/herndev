@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: July 4 to 8](https://news.xbox.com/en-us/2022/07/01/next-week-on-xbox-july-4-to-8/)
- - [Nintendo set up us the 4 new Sega Genesis games for Switch Online](https://www.polygon.com/23191161/nintendo-switch-online-new-sega-genesis-games-zero-wing-mega-man)
- - [How to get Centuria Ore in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-centuria-ore)<!-- GAME:END -->
+ - [The Minions movies offer a master class on comedy-friendly evil](https://www.polygon.com/23185128/minions-evil-essay-rise-of-gru-despicable-me)
+ - [How Minions beat Disney at the copyright game](https://www.polygon.com/23189968/minions-public-domain-disney-copyright-mickey-mouse)
+ - [I have one eye and I must scream: A guided tour of Facebook’s Minion meme pages](https://www.polygon.com/23190284/facebook-minion-meme-pages-wasteland)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
