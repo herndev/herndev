@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The boys after causing damage to current state of Hollywood series.](http://9gag.com/gag/angZ7Wq)
+ - 💣 [It&#39;s a problem](http://9gag.com/gag/aBnz652)
  - ⏩ [Emotional confusion](http://9gag.com/gag/awzj3AB)
  - 👉 [Win an iPhone! Try King\u2019s Choice \u201cCrown Yourself\u201d filter &amp; submit your video for a chance to win the phone!](http://9gag.com/gag/a21g7oe)<!-- MEMES:END -->
 
