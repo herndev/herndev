@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Old Soldiers Never Die...](https://kotaku.com/age-empires-iv-halo-master-chief-relic-concept-art-illu-1849132363)
  - [Blade Runner Remake Mess Continues With Shopfront Switcheroo](https://kotaku.com/blade-runner-enhanced-edition-gog-good-old-games-remake-1849132129)
- - [9 things you probably don&#39;t know about Elden Ring](https://www.pcgamer.com/9-things-you-probably-dont-know-about-elden-ring)
- - [Twitch streamers may soon be able to share banlists with other channels](https://www.pcgamer.com/twitch-streamers-may-soon-be-able-to-share-banlists-with-other-channels)<!-- GAME:END -->
+ - [9 things you probably don&#39;t know about Elden Ring](https://www.pcgamer.com/9-things-you-probably-dont-know-about-elden-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
