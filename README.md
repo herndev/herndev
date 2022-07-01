@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google settles a lawsuit by agreeing in part to pay $90M in a fund to support US app developers who made $2M or less in annual Play Store revenue from 2016-2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220630/p43#a220630p43)
- - [Jake Paul vs. Tommy Fury: Is the Fight Still On?     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-the-fight-still-on/#ftag=CAD590a51e)
- - [Why More People Should Watch This Hidden Sci-Fi Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/why-more-people-should-watch-this-hidden-sci-fi-gem-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kaspersky researchers discovered malware used in the wild since March 2021 to backdoor Microsoft Exchange servers of government and military orgs worldwide &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220630/p45#a220630p45)
+ - [The FCC authorizes SpaceX to provide Starlink satellite internet to vehicles in motion, including commercial airlines, shipping vessels, and trucks &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/220630/p44#a220630p44)
+ - [Best Crypto Exchanges for July 2022: Buy, Sell and Trade Bitcoin, Ether and More     - CNET](https://www.cnet.com/personal-finance/crypto/best-crypto-exchanges/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
