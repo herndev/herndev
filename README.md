@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tributes Pour In For Beloved Minecraft YouTuber Technoblade](https://kotaku.com/technoblade-minecraft-youtuber-sarcoma-cancer-hypixel-1849134376)
- - [New York by Night brings Vampire-themed actual play to the City That Never Sleeps](https://www.polygon.com/tabletop-games/23189660/new-york-by-night-preview-vampire-the-masquerade-actual-play-aabria-iyengar)
- - [Official PlayStation Podcast Episode 435: Unpacking Retro Origins](https://blog.playstation.com/2022/07/01/official-playstation-podcast-episode-435-unpacking-retro-origins/)<!-- GAME:END -->
+ - [Fire Emblem Heroes Becomes Nintendo’s First Billion-Dollar Mobile Game](https://kotaku.com/fire-emblem-heroes-profits-revenue-nintendo-billion-app-1849134777)
+ - [The Princess turns a familiar fairy-tale trope into a satisfying, indulgent kick-ass fantasy](https://www.polygon.com/reviews/23189983/the-princess-review-martial-arts-disney-fairy-tale)
+ - [Tensions Rise At Bethesda As Employees Pressure Company On Abortion Measures](https://kotaku.com/bethesda-zenimax-roe-v-wade-abortion-politics-microsoft-1849134727)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
