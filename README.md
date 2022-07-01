@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Oh my chicken!](http://9gag.com/gag/aZrXEyW)
- - ⏩ [Fair Question](http://9gag.com/gag/apg7Pon)
- - 👉 [I&#39;m melting bros](http://9gag.com/gag/aogo43A)<!-- MEMES:END -->
+ - ⏩ [I&#39;m melting bros](http://9gag.com/gag/aogo43A)
+ - 👉 [So no more React.js tutorials on YouTube? /s](http://9gag.com/gag/axBK6pW)<!-- MEMES:END -->
 
 ---
 
