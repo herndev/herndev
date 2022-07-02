@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your internet life needs a Feeds Reboot — here’s how to do it](https://www.theverge.com/23191292/control-social-algorithms-feeds-reboot-how-to)
- - [Refurbished Sonos speakers are discounted for the Fourth of July](https://www.theverge.com/good-deals/2022/7/2/23191676/refurbished-sonos-speakers-beam-roam-nvidia-rtx-3070-gpu-in-stock-deal-sale)
- - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)<!-- TECH:END -->
+ - [These fire-prone places are ditching fireworks for drones this July Fourth](https://www.theverge.com/2022/7/2/23191205/fire-prone-places-replace-fireworks-drone-shows)
+ - [Meta’s shutting down its digital wallet, Novi](https://www.theverge.com/2022/7/2/23192501/meta-shutting-down-digital-wallet-novi-diem-cryptocurrency)
+ - [RadioShack, which was bought by a PE firm in 2020, has become an online cryptocurrency company trying to attract users with a stream of often-profane tweets &lpar;Yiwen Lu/Washington Post&rpar;](http://www.techmeme.com/220702/p4#a220702p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
