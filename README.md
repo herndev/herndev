@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #378: Saturday, July 2](https://www.pcgamer.com/wordle-today-july-2-378-answer-hint)
- - [POV: This cowboy falls out of the sky with a double-barreled shotgun pointed at you. What do you do?](https://www.pcgamer.com/pov-this-cowboy-falls-out-of-the-sky-with-a-double-barreled-shotgun-pointed-at-you-what-do-you-do)
- - [Junker Queen is a reminder that nobody does heroes like Overwatch](https://www.pcgamer.com/junker-queen-is-a-reminder-that-nobody-does-heroes-like-overwatch)<!-- GAME:END -->
+ - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)
+ - [8 movies to watch that are shorter than an episode of Stranger Things](https://www.polygon.com/what-to-watch/23186556/best-short-movies-to-watch)
+ - [Today&#39;s Wordle answer #378: Saturday, July 2](https://www.pcgamer.com/wordle-today-july-2-378-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
