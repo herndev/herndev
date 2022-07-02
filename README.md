@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Yorker Cartoonist Asher Perlman Explains How His Work Became a Meme     - CNET](https://www.cnet.com/culture/entertainment/new-yorker-cartoonist-asher-perlman-explains-how-his-work-became-a-meme/#ftag=CAD590a51e)
- - [After 3AC&#39;s collapse, centralized lenders with 3AC exposure had failed, while their decentralized counterparts liquidated collateral and continued operating &lpar;Arthur Hayes/Entrepreneur&#39;s Handbook&rpar;](http://www.techmeme.com/220702/p2#a220702p2)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Work Offline and Still Be Productive](https://www.wired.com/story/how-to-work-offline/)
+ - [130-Year-Old Menus Show How Climate Change Affects What We Eat](https://www.wired.com/story/130-year-old-menus-show-how-climate-change-affects-what-we-eat/)
+ - [Stranger Things 4 ends by trusting in the season’s best and worst instincts](https://www.theverge.com/2022/7/2/23192070/stranger-things-4-volume-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
