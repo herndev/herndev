@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New Yorker Cartoonist Asher Perlman Explains How His Work Became a Meme     - CNET](https://www.cnet.com/culture/entertainment/new-yorker-cartoonist-asher-perlman-explains-how-his-work-became-a-meme/#ftag=CAD590a51e)
  - [After 3AC&#39;s collapse, centralized lenders with 3AC exposure had failed, while their decentralized counterparts liquidated collateral and continued operating &lpar;Arthur Hayes/Entrepreneur&#39;s Handbook&rpar;](http://www.techmeme.com/220702/p2#a220702p2)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-prime-video/#ftag=CAD590a51e)
- - [PolySign, which provides blockchain-enabled digital asset infrastructure for institutional investors, has raised a $53M Series C from Cowen Digital and others &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220702/p1#a220702p1)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
