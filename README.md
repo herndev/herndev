@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [POV: This cowboy falls out of the sky with a double-barreled shotgun pointed at you. What do you do?](https://www.pcgamer.com/pov-this-cowboy-falls-out-of-the-sky-with-a-double-barreled-shotgun-pointed-at-you-what-do-you-do)
  - [Junker Queen is a reminder that nobody does heroes like Overwatch](https://www.pcgamer.com/junker-queen-is-a-reminder-that-nobody-does-heroes-like-overwatch)
- - [Someone got Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)
- - [Capcom putting this monster in Monster Hunter Rise: Sunbreak is an unforgivable insult to me personally](https://www.pcgamer.com/capcom-putting-this-monster-in-monster-hunter-rise-sunbreak-is-an-unforgivable-insult-to-me-personally)<!-- GAME:END -->
+ - [Someone got Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
