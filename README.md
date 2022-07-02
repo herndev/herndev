@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IDC: global shipments for VR headsets jumped 241.6% during Q1 2022, with Meta capturing 90% of market share thanks to its Quest 2 headset &lpar;The Economic Times&rpar;](http://www.techmeme.com/220701/p17#a220701p17)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)
- - [Formula 1 Racing 2022: How to Watch the British Grand Prix Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-racing-2022-how-to-watch-the-british-grand-prix-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: more than two dozen Azure data centers globally are operating with limited server capacity; more than six will continue to be limited until early 2023 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/220701/p18#a220701p18)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [IDC: global shipments for VR headsets jumped 241.6% during Q1 2022, with Meta capturing 90% of market share thanks to its Quest 2 headset &lpar;The Economic Times&rpar;](http://www.techmeme.com/220701/p17#a220701p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
