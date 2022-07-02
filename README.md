@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Adventure     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-adventure/#ftag=CAD590a51e)
- - [Sources: more than two dozen Azure data centers globally are operating with limited server capacity; more than six will continue to be limited until early 2023 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/220701/p18#a220701p18)
- - [&#39;Doctor Strange 2&#39;: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
+ - [State Farm Car Insurance Review for July 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/state-farm-car-insurance-review/#ftag=CAD590a51e)
+ - [Meta&#39;s Novi Service to Be Phased Out: What you need to know     - CNET](https://www.cnet.com/personal-finance/crypto/metas-novi-service-to-be-phased-out-what-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
