@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s run of record quarterly deliveries comes to an end thanks to China’s COVID shutdowns](https://www.theverge.com/2022/7/2/23190004/tesla-record-quarterly-deliveries-end-china-covid-shutdowns)
- - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)
- - [Why a Chromebook Is Probably All You Need     - CNET](https://www.cnet.com/tech/computing/why-a-chromebook-is-probably-all-you-need/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How El Salvador&#39;s president Nayib Bukele weaponized bitcoin to whitewash his government&#39;s growing authoritarianism and spread propaganda &lpar;Nelson Rauda Zablah/New York Times&rpar;](http://www.techmeme.com/220702/p6#a220702p6)
+ - [Abortion Access Doesn&#39;t Only Affect Women     - CNET](https://www.cnet.com/health/parenting/abortion-access-doesnt-only-affect-women/#ftag=CAD590a51e)
+ - [&#39;Stranger Things 4&#39;: What to Watch After You&#39;ve Finished Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-what-to-watch-after-youve-finished-vol-2/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
