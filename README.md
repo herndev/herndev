@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)
- - ⏩ [There is another one](http://9gag.com/gag/aGzv215)
+ - ⏩ [Atleast the mate\u2019s honest](http://9gag.com/gag/aPZLXoV)
  - 👉 [Asshole tries to kick doggo, made national news.](http://9gag.com/gag/azeyOym)<!-- MEMES:END -->
 
 ---
