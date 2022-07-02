@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom tried to Nutella \u201cFake Poop\u201d prank her kid but he got the last laugh](http://9gag.com/gag/aqGMD9P)
- - ⏩ [Sweet kitten](http://9gag.com/gag/a91wOG6)
+ - 💣 [Oof size .... Large](http://9gag.com/gag/aBnz412)
+ - ⏩ [The man climbed out of his eighth floor apartment window to catch the helpless three-year-old girl.](http://9gag.com/gag/aGzv7Gw)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
