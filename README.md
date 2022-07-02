@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why a Chromebook Is Probably All You Need     - CNET](https://www.cnet.com/tech/computing/why-a-chromebook-is-probably-all-you-need/#ftag=CAD590a51e)
- - [HackerOne says a staffer stole vulnerability reports submitted through its bug bounty platform and disclosed them to seven companies to claim financial rewards &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220702/p5#a220702p5)
- - [Virgin Orbit successfully launches satellites during first night mission](https://www.theverge.com/2022/7/2/23192664/virgin-orbit-successfully-launches-satellites-orbit-night-mission-straight-up)<!-- TECH:END -->
+ - [Tesla’s run of record quarterly deliveries comes to an end thanks to China’s COVID shutdowns](https://www.theverge.com/2022/7/2/23190004/tesla-record-quarterly-deliveries-end-china-covid-shutdowns)
+ - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)
+ - [Why a Chromebook Is Probably All You Need     - CNET](https://www.cnet.com/tech/computing/why-a-chromebook-is-probably-all-you-need/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
