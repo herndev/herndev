@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After 3AC&#39;s collapse, centralized lenders with 3AC exposure had failed, while their decentralized counterparts liquidated collateral and continued operating &lpar;Arthur Hayes/Entrepreneur&#39;s Handbook&rpar;](http://www.techmeme.com/220702/p2#a220702p2)
  - [PolySign, which provides blockchain-enabled digital asset infrastructure for institutional investors, has raised a $53M Series C from Cowen Digital and others &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220702/p1#a220702p1)
- - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)
- - [State Farm Car Insurance Review for July 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/state-farm-car-insurance-review/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
