@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is another one](http://9gag.com/gag/aGzv215)
- - ⏩ [What just happened?](http://9gag.com/gag/aE8KDoN)
+ - 💣 [Cat almost became coyote food](http://9gag.com/gag/a21g20e)
+ - ⏩ [My favorite pastime](http://9gag.com/gag/aPZLX0G)
  - 👉 [Shield](http://9gag.com/gag/aYr6AN2)<!-- MEMES:END -->
 
 ---
