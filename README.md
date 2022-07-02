@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He always be our captain](http://9gag.com/gag/awzjYG4)
- - ⏩ [Mom tried to Nutella \u201cFake Poop\u201d prank her kid but he got the last laugh](http://9gag.com/gag/aqGMD9P)
+ - 💣 [Tom and Jerry museum in Japan](http://9gag.com/gag/a51gqAO)
+ - ⏩ [Duck](http://9gag.com/gag/aM47OOX)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
