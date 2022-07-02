@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How El Salvador President Nayib Bukele weaponized bitcoin to whitewash his government&#39;s growing authoritarianism on the world stage and spread local propaganda &lpar;Nelson Rauda Zablah/New York Times&rpar;](http://www.techmeme.com/220702/p6#a220702p6)
- - [Abortion Access Doesn&#39;t Only Affect Women     - CNET](https://www.cnet.com/health/parenting/abortion-access-doesnt-only-affect-women/#ftag=CAD590a51e)
- - [&#39;Stranger Things 4&#39;: What to Watch After You&#39;ve Finished Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-what-to-watch-after-youve-finished-vol-2/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto hedge fund Three Arrows files for bankruptcy](https://www.theverge.com/2022/7/2/23192810/three-arrows-capital-chapter-15-bankruptcy-cryptocurrency)
+ - [Gamevice for iPhone &amp; iPad review: simulated Nintendo Switch](https://appleinsider.com/articles/22/07/02/gamevice-for-iphone-ipad-review-simulated-nintendo-switch?utm_medium=rss)
+ - [7 Stress-Relief Strategies That Really Work     - CNET](https://www.cnet.com/health/mental/7-stress-relief-strategies-that-really-work/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
