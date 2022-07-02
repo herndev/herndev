@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Atleast the mate\u2019s honest](http://9gag.com/gag/aPZLXoV)
- - ⏩ [There is another one](http://9gag.com/gag/aGzv215)
- - 👉 [It&#39;s already too late](http://9gag.com/gag/a21g2Dd)<!-- MEMES:END -->
+ - 💣 [There is another one](http://9gag.com/gag/aGzv215)
+ - ⏩ [What just happened?](http://9gag.com/gag/aE8KDoN)
+ - 👉 [Shield](http://9gag.com/gag/aYr6AN2)<!-- MEMES:END -->
 
 ---
 
