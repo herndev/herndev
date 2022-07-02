@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)
- - ⏩ [Atleast the mate\u2019s honest](http://9gag.com/gag/aPZLXoV)
- - 👉 [Asshole tries to kick doggo, made national news.](http://9gag.com/gag/azeyOym)<!-- MEMES:END -->
+ - 💣 [Atleast the mate\u2019s honest](http://9gag.com/gag/aPZLXoV)
+ - ⏩ [There is another one](http://9gag.com/gag/aGzv215)
+ - 👉 [It&#39;s already too late](http://9gag.com/gag/a21g2Dd)<!-- MEMES:END -->
 
 ---
 
