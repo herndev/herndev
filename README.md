@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
- - ⏩ [Just slide it in](http://9gag.com/gag/a41gVzQ)
+ - ⏩ [It is what it is](http://9gag.com/gag/aQXbybK)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
