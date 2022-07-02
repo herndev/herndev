@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There is another one](http://9gag.com/gag/aGzv215)
- - ⏩ [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)
- - 👉 [What are holes in jeans used for?](http://9gag.com/gag/a31gWYN)<!-- MEMES:END -->
+ - 💣 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)
+ - ⏩ [There is another one](http://9gag.com/gag/aGzv215)
+ - 👉 [Asshole tries to kick doggo, made national news.](http://9gag.com/gag/azeyOym)<!-- MEMES:END -->
 
 ---
 
