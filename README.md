@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Adventure     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-adventure/#ftag=CAD590a51e)
  - [Sources: more than two dozen Azure data centers globally are operating with limited server capacity; more than six will continue to be limited until early 2023 &lpar;Kevin McLaughlin/The Information&rpar;](http://www.techmeme.com/220701/p18#a220701p18)
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
- - [IDC: global shipments for VR headsets jumped 241.6% during Q1 2022, with Meta capturing 90% of market share thanks to its Quest 2 headset &lpar;The Economic Times&rpar;](http://www.techmeme.com/220701/p17#a220701p17)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39;: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
