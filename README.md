@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to launch any macOS app, even those not notarized by Apple](https://appleinsider.com/inside/macos/tips/how-to-launch-any-macos-app-even-those-not-notarized-by-apple?utm_medium=rss)
- - [Lululook Foldable Magnetic Stand review: maximum adjustability but stiff joints](https://appleinsider.com/articles/22/07/02/lululook-foldable-magnetic-stand-review-maximum-adjustability-but-stiff-joints?utm_medium=rss)
- - [These fire-prone places are ditching fireworks for drones this July Fourth](https://www.theverge.com/2022/7/2/23191205/fire-prone-places-replace-fireworks-drone-shows)<!-- TECH:END -->
+ - [Why a Chromebook Is Probably All You Need     - CNET](https://www.cnet.com/tech/computing/why-a-chromebook-is-probably-all-you-need/#ftag=CAD590a51e)
+ - [HackerOne says a staffer stole vulnerability reports submitted through its bug bounty platform and disclosed them to seven companies to claim financial rewards &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220702/p5#a220702p5)
+ - [Virgin Orbit successfully launches satellites during first night mission](https://www.theverge.com/2022/7/2/23192664/virgin-orbit-successfully-launches-satellites-orbit-night-mission-straight-up)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
