@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These fire-prone places are ditching fireworks for drones this July Fourth](https://www.theverge.com/2022/7/2/23191205/fire-prone-places-replace-fireworks-drone-shows)
- - [Meta’s shutting down its digital wallet, Novi](https://www.theverge.com/2022/7/2/23192501/meta-shutting-down-digital-wallet-novi-diem-cryptocurrency)
- - [RadioShack, which was bought by a PE firm in 2020, has become an online cryptocurrency company trying to attract users with a stream of often-profane tweets &lpar;Yiwen Lu/Washington Post&rpar;](http://www.techmeme.com/220702/p4#a220702p4)<!-- TECH:END -->
+ - [How to launch any macOS app, even those not notarized by Apple](https://appleinsider.com/inside/macos/tips/how-to-launch-any-macos-app-even-those-not-notarized-by-apple?utm_medium=rss)
+ - [Lululook Foldable Magnetic Stand review: maximum adjustability but stiff joints](https://appleinsider.com/articles/22/07/02/lululook-foldable-magnetic-stand-review-maximum-adjustability-but-stiff-joints?utm_medium=rss)
+ - [These fire-prone places are ditching fireworks for drones this July Fourth](https://www.theverge.com/2022/7/2/23191205/fire-prone-places-replace-fireworks-drone-shows)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
