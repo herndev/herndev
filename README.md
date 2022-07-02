@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)
- - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)
- - [8 movies to watch that are shorter than an episode of Stranger Things](https://www.polygon.com/what-to-watch/23186556/best-short-movies-to-watch)<!-- GAME:END -->
+ - [Unfortunately, someone did not get Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)
+ - [17 great movies new to streaming to watch in July 2022](https://www.polygon.com/what-to-watch/23185381/best-movies-watch-new-on-netflix-hbo-hulu-july-2022)
+ - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
