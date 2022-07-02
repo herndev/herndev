@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An important decision?](http://9gag.com/gag/aLvoX3g)
- - ⏩ [Shield](http://9gag.com/gag/aYr6AN2)
- - 👉 [Basically](http://9gag.com/gag/apg7AM8)<!-- MEMES:END -->
+ - 💣 [This stop motion animation](http://9gag.com/gag/a31gbYr)
+ - ⏩ [Kookaburra, the sound of most jungle movies.](http://9gag.com/gag/a41gWo1)
+ - 👉 [He always be our captain](http://9gag.com/gag/awzjYG4)<!-- MEMES:END -->
 
 ---
 
