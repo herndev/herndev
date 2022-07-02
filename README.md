@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s the big preview of Genshin Impact 2.8](https://www.pcgamer.com/heres-the-big-preview-of-genshin-impact-28)
  - [The questions we have from Stranger Things 4](https://www.polygon.com/stranger-things/23190405/stranger-things-4-ending-questions-explained)
- - [Unfortunately, someone did not get Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)
- - [17 great movies new to streaming to watch in July 2022](https://www.polygon.com/what-to-watch/23185381/best-movies-watch-new-on-netflix-hbo-hulu-july-2022)<!-- GAME:END -->
+ - [Unfortunately, someone did not get Doom running in a McDonald&#39;s](https://www.pcgamer.com/someone-got-doom-running-in-a-mcdonalds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
