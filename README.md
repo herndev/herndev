@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely is the one](http://9gag.com/gag/ajgvBdQ)
- - ⏩ [All aboard the party bus](http://9gag.com/gag/aAGAMZL)
- - 👉 [When you eat 3 servings of family size](http://9gag.com/gag/awzjOnr)<!-- MEMES:END -->
+ - 💣 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
+ - ⏩ [Every time I watch this film it scares the hell out of me.](http://9gag.com/gag/aogoL5e)
+ - 👉 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)<!-- MEMES:END -->
 
 ---
 
