@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you ever wondered how beavers handle their young to get them out of the water?](http://9gag.com/gag/a11g2Z8)
- - ⏩ [Every time I watch this film it scares the hell out of me.](http://9gag.com/gag/aogoL5e)
+ - 💣 [Some girls be like](http://9gag.com/gag/aE8KWB9)
+ - ⏩ [What are holes in jeans used for?](http://9gag.com/gag/a31gWYN)
  - 👉 [Trans people are so brave LOL](http://9gag.com/gag/amgQMPo)<!-- MEMES:END -->
 
 ---
