@@ -104,8 +104,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- GAME:START -->
  - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)
- - [8 movies to watch that are shorter than an episode of Stranger Things](https://www.polygon.com/what-to-watch/23186556/best-short-movies-to-watch)
- - [Today&#39;s Wordle answer #378: Saturday, July 2](https://www.pcgamer.com/wordle-today-july-2-378-answer-hint)<!-- GAME:END -->
+ - [Genshin Impact version 2.8: Summer Fantasia details revealed, live July 13](https://blog.playstation.com/2022/07/02/genshin-impact-version-2-8-summer-fantasia-details-revealed-live-july-13/)
+ - [8 movies to watch that are shorter than an episode of Stranger Things](https://www.polygon.com/what-to-watch/23186556/best-short-movies-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
