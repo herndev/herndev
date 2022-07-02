@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prepare to fight](http://9gag.com/gag/a0ZgMMB)
- - ⏩ [He always be our captain](http://9gag.com/gag/awzjYG4)
+ - 💣 [Tom and Jerry museum in Japan](http://9gag.com/gag/a51gqAO)
+ - ⏩ [The Cat Concerto. Oscar Winning Cartoon](http://9gag.com/gag/adgAoK9)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
