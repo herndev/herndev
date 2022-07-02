@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Your internet life needs a Feeds Reboot — here’s how to do it](https://www.theverge.com/23191292/control-social-algorithms-feeds-reboot-how-to)
  - [Refurbished Sonos speakers are discounted for the Fourth of July](https://www.theverge.com/good-deals/2022/7/2/23191676/refurbished-sonos-speakers-beam-roam-nvidia-rtx-3070-gpu-in-stock-deal-sale)
- - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)
- - [The Most Unexpected Things on Disney&#39;s Newest Cruise Ship, the Wish     - CNET](https://www.cnet.com/culture/the-most-unexpected-things-on-disneys-newest-cruise-ship-the-wish/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals July 2: 48% off LG 48-inch OLED TV, $45 Blink Mini, $219 Shure Podcast Mic, more](https://appleinsider.com/articles/22/07/02/daily-deals-july-2-48-off-lg-48-inch-oled-tv-45-blink-mini-219-shure-podcast-mic-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
