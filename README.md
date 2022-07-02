@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat almost became coyote food](http://9gag.com/gag/a21g20e)
- - ⏩ [My favorite pastime](http://9gag.com/gag/aPZLX0G)
- - 👉 [Shield](http://9gag.com/gag/aYr6AN2)<!-- MEMES:END -->
+ - 💣 [An important decision?](http://9gag.com/gag/aLvoX3g)
+ - ⏩ [Shield](http://9gag.com/gag/aYr6AN2)
+ - 👉 [Basically](http://9gag.com/gag/apg7AM8)<!-- MEMES:END -->
 
 ---
 
