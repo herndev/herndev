@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Quality to be trusted](http://9gag.com/gag/aogoD1m)
- - ⏩ [It is what it is](http://9gag.com/gag/aQXbybK)
+ - 💣 [It is what it is](http://9gag.com/gag/aQXbybK)
+ - ⏩ [Quality to be trusted](http://9gag.com/gag/aogoD1m)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
