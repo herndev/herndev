@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Birthday](http://9gag.com/gag/aPZLz6n)
- - ⏩ [Tom Felton meets a Harry Potter fan](http://9gag.com/gag/a61g4gL)
- - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
+ - 💣 [Lock&#39;n&#39;Load](http://9gag.com/gag/amgQOz4)
+ - ⏩ [Haha uncle so funny](http://9gag.com/gag/aegzyoq)
+ - 👉 [Traditional way to purify water](http://9gag.com/gag/a61g4pm)<!-- MEMES:END -->
 
 ---
 
