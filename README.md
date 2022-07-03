@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony had to make a PC gaming monitor because the PS5 isn’t enough](https://www.theverge.com/2022/7/3/23191477/sony-inzone-monitor-m9-pc-ps5-xcloud-nintendo-steam-deck-xbox)
- - [AirPods Pro 2 probably won&#39;t offer fitness tracking features](https://appleinsider.com/articles/22/07/03/airpods-pro-2-probably-wont-offer-fitness-tracking-features?utm_medium=rss)
- - [Daily deals July 3: $300 off LG 21:9 curved monitor, $259 Hisense 50-inch 4K smart TV, $100 Amazon Echo Frames, more](https://appleinsider.com/articles/22/07/03/daily-deals-july-3-300-off-lg-219-curved-monitor-259-hisense-50-inch-4k-smart-tv-100-amazon-echo-frames-more?utm_medium=rss)<!-- TECH:END -->
+ - [Razer’s Kishi V2 is an improved yet even more imperfect controller](https://www.theverge.com/23191199/razer-kishi-v2-mobile-game-controller-android-review)
+ - [Apple Watch Series 8 may detect user&#39;s fever with temperature sensor](https://appleinsider.com/articles/22/07/03/apple-watch-series-8-may-detect-users-fever-with-temperature-sensor?utm_medium=rss)
+ - [Apple Watch Series 8 will reportedly be able to detect if you have a fever](https://www.theverge.com/2022/7/3/23193443/apple-watch-series-8-detect-fever-body-temperature-sensor-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
