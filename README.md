@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In case you&#39;re having a bad day, here&#39;s a school of puffer fish](http://9gag.com/gag/aE8Kj39)
- - ⏩ [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
- - 👉 [Understandable](http://9gag.com/gag/abgDDv8)<!-- MEMES:END -->
+ - 💣 [Love that one tree in particular.](http://9gag.com/gag/aE8KKBe)
+ - ⏩ [Thats cheating](http://9gag.com/gag/aYr663q)
+ - 👉 [Old iron restoration](http://9gag.com/gag/aDD9qqN)<!-- MEMES:END -->
 
 ---
 
