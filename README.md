@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Shop Like a Pro on Amazon Prime Day](https://www.wired.com/story/amazon-prime-day-2022-tips-to-find-best-deals/)
- - [What, Exactly, Is the Metaverse Standards Forum Creating?](https://www.wired.com/story/metaverse-standards-forum-explained/)
- - [Q&amp;A with Microsoft President Brad Smith on assistance for employees seeking abortion, labor and employment reforms, pending antitrust regulation, and more &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220703/p1#a220703p1)<!-- TECH:END -->
+ - [ML-powered surveillance systems will never eliminate the risk of school shootings in the US, no matter how expansive and intricate those systems become &lpar;Chris Gilliard/Wired&rpar;](http://www.techmeme.com/220703/p2#a220703p2)
+ - [Crime blotter: iPhones seized from two lawyers associated with January 6 probe](https://appleinsider.com/articles/22/07/03/crime-blotter-iphones-seized-from-two-lawyers-associated-with-january-6-probe?utm_medium=rss)
+ - [How to Set a Maximum Limit on Your Phone&#39;s Volume](https://www.wired.com/story/how-to-limit-phone-maximum-volume/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
