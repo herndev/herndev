@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hidden gems you shouldn&#39;t miss before the Steam Summer Sale ends](https://www.pcgamer.com/hidden-gems-you-shouldnt-miss-before-the-steam-summer-sale-ends)
  - [In 1998, we wanted to believe The X-Files would make a good videogame](https://www.pcgamer.com/saturday-crapshoot-the-x-files)
- - [What&#39;s the longest you&#39;ve had to wait for a sequel?](https://www.pcgamer.com/whats-the-longest-youve-had-to-wait-for-a-sequel)
- - [Square Enix puts their spin on the farm and fantasy life sim with Harvestella](https://www.pcgamer.com/square-enix-puts-their-spin-on-the-farm-and-fantasy-life-sim-with-harvestella)<!-- GAME:END -->
+ - [What&#39;s the longest you&#39;ve had to wait for a sequel?](https://www.pcgamer.com/whats-the-longest-youve-had-to-wait-for-a-sequel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
