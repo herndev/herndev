@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Logarithmic map of the universe](http://9gag.com/gag/aqGMpMM)
- - ⏩ [When Ed Sheeran was basically s*it](http://9gag.com/gag/aE8KQ5o)
+ - ⏩ [Ain&#39;t stupid if it works](http://9gag.com/gag/aOQEABv)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
