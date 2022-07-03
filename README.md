@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Ed Sheeran was basically s*it](http://9gag.com/gag/aE8KQ5o)
- - ⏩ [Just slide it in](http://9gag.com/gag/a41gVzQ)
+ - 💣 [Men will be men](http://9gag.com/gag/aAGAmQR)
+ - ⏩ [Appreciation post to TALENT](http://9gag.com/gag/amgQnY4)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
