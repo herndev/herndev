@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 3: $300 off LG 21:9 curved monitor, $259 Hisense 50-inch 4K smart TV, $100 Amazon Echo Frames, more](https://appleinsider.com/articles/22/07/03/daily-deals-july-3-300-off-lg-219-curved-monitor-259-hisense-50-inch-4k-smart-tv-100-amazon-echo-frames-more?utm_medium=rss)
- - [The Best Webcams for Looking Brighter and Better](https://www.wired.com/gallery/best-webcams/)
- - [Neon White’s creative director on making the ‘most video games game possible’](https://www.theverge.com/23187369/neon-white-ben-esposito-most-video-games-game-possible)<!-- TECH:END -->
+ - [Sony had to make a PC gaming monitor because the PS5 isn’t enough](https://www.theverge.com/2022/7/3/23191477/sony-inzone-monitor-m9-pc-ps5-xcloud-nintendo-steam-deck-xbox)
+ - [AirPods Pro 2 probably won&#39;t offer fitness tracking features](https://appleinsider.com/articles/22/07/03/airpods-pro-2-probably-wont-offer-fitness-tracking-features?utm_medium=rss)
+ - [Daily deals July 3: $300 off LG 21:9 curved monitor, $259 Hisense 50-inch 4K smart TV, $100 Amazon Echo Frames, more](https://appleinsider.com/articles/22/07/03/daily-deals-july-3-300-off-lg-219-curved-monitor-259-hisense-50-inch-4k-smart-tv-100-amazon-echo-frames-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
