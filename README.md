@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Joey King explains her ‘exhausting’ epic staircase fight in The Princess](https://www.polygon.com/23191319/the-princess-joey-king-oldboy)
  - [Final Fantasy 14 will give you a personal island garden in the next patch](https://www.pcgamer.com/final-fantasy-14-will-give-you-a-personal-island-garden-in-the-next-patch)
- - [Star Trek’s blend of dialogue and action feels ideal for a Telltale-style game](https://www.polygon.com/23191888/star-trek-resurgence-preview-dramatic-labs)
- - [You should watch Furie, the previous martial arts revenge thriller from The Princess director](https://www.polygon.com/23188776/furie-movie-watch-streaming-martial-arts-vietnam-le-van-kiet-the-princess-veronica-ngo)<!-- GAME:END -->
+ - [Star Trek’s blend of dialogue and action feels ideal for a Telltale-style game](https://www.polygon.com/23191888/star-trek-resurgence-preview-dramatic-labs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
