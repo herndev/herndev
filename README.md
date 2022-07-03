@@ -112,7 +112,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- TECH:START -->
  - [Q&amp;A with Microsoft President Brad Smith on assistance for employees seeking abortion, labor and employment reforms, pending antitrust regulation, and more &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220703/p1#a220703p1)
  - [What I Want in the iPhone 14: New Design Tweaks, USB-C and MorI     - CNET](https://www.cnet.com/tech/mobile/what-i-want-in-the-iphone-14-new-design-tweaks-usb-c-and-more/#ftag=CAD590a51e)
- - [Does WhatsApp let you know when someone takes a screenshot?](https://www.androidauthority.com/whatsapp-notify-screenshot-3182013/)<!-- TECH:END -->
+ - [Here&#39;s Why You Shouldn&#39;t Use &#39;Hey&#39; as a Dating App Pickup Line     - CNET](https://www.cnet.com/culture/heres-why-you-shouldnt-use-hey-as-a-dating-app-pickup-line/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
