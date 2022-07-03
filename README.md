@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Vita Mojo, which makes restaurant software for digital ordering and kitchen management, has raised $30M led by Battery Ventures &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220702/p7#a220702p7)
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
- - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to The Movie&#39;s Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-movies-elite-marvel-heroes/#ftag=CAD590a51e)
+ - [Dear Streamers, Please Stop Making TV Shows That Shouldn&#39;t Be Full Shows     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-please-stop-making-tv-shows-that-shouldnt-be-full-shows/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39;: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
