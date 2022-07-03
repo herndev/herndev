@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [London-based Vita Mojo, which makes restaurant software for digital ordering and kitchen management, has raised $30M led by Battery Ventures &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220702/p7#a220702p7)
- - [&#39;Lightyear&#39;: Here&#39;s When to Expect the Pixar Film on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/lightyear-heres-when-to-expect-the-pixar-film-on-disney-plus/#ftag=CAD590a51e)
- - [Crypto hedge fund Three Arrows files for bankruptcy](https://www.theverge.com/2022/7/2/23192810/three-arrows-capital-chapter-15-bankruptcy-cryptocurrency)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo and Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-and-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Reveals Rey&#39;s Parents in an Unforgettable Tale     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-reveals-reys-parents-in-an-unforgettable-tale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
