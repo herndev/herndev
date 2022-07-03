@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Guardians of the Galaxy/Deus Ex prequel writer is BioWare&#39;s new senior narrative director](https://www.pcgamer.com/guardians-of-the-galaxydeus-ex-prequel-writer-is-biowares-new-senior-narrative-director)
  - [Crime caper Sunday Gold is half adventure game, half JRPG, and all style](https://www.pcgamer.com/crime-caper-sunday-gold-is-half-adventure-game-half-jrpg-and-all-style)
- - [Hidden gems you shouldn&#39;t miss before the Steam Summer Sale ends](https://www.pcgamer.com/hidden-gems-you-shouldnt-miss-before-the-steam-summer-sale-ends)
- - [In 1998, we wanted to believe The X-Files would make a good videogame](https://www.pcgamer.com/saturday-crapshoot-the-x-files)<!-- GAME:END -->
+ - [Hidden gems you shouldn&#39;t miss before the Steam Summer Sale ends](https://www.pcgamer.com/hidden-gems-you-shouldnt-miss-before-the-steam-summer-sale-ends)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
