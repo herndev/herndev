@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Very skillful](http://9gag.com/gag/aVxr9qn)
- - ⏩ [Weekend cat](http://9gag.com/gag/abgDLYE)
- - 👉 [One touch is masterpiece](http://9gag.com/gag/agg9bLW)<!-- MEMES:END -->
+ - 💣 [Habitable dragon balls](http://9gag.com/gag/ay9rmpV)
+ - ⏩ [Maybe I am a Finn](http://9gag.com/gag/aNPMGx4)
+ - 👉 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
 
 ---
 
