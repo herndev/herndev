@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [You should watch Furie, the previous martial arts revenge thriller from The Princess director](https://www.polygon.com/23188776/furie-movie-watch-streaming-martial-arts-vietnam-le-van-kiet-the-princess-veronica-ngo)
  - [Today&#39;s Wordle answer #379: Sunday, July 3](https://www.pcgamer.com/wordle-today-july-3-379-answer-hint)
- - [Guardians of the Galaxy/Deus Ex prequel writer is BioWare&#39;s new senior narrative director](https://www.pcgamer.com/guardians-of-the-galaxydeus-ex-prequel-writer-is-biowares-new-senior-narrative-director)
- - [Crime caper Sunday Gold is half adventure game, half JRPG, and all style](https://www.pcgamer.com/crime-caper-sunday-gold-is-half-adventure-game-half-jrpg-and-all-style)<!-- GAME:END -->
+ - [Guardians of the Galaxy/Deus Ex prequel writer is BioWare&#39;s new senior narrative director](https://www.pcgamer.com/guardians-of-the-galaxydeus-ex-prequel-writer-is-biowares-new-senior-narrative-director)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
