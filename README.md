@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who should pay on a date? Men or women?](http://9gag.com/gag/a91wVrj)
- - ⏩ [Logarithmic map of the universe](http://9gag.com/gag/aqGMpMM)
+ - 💣 [Traditional way to purify water](http://9gag.com/gag/a61g4pm)
+ - ⏩ [Ta da!!!!!!](http://9gag.com/gag/a81NQ3O)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
