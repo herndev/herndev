@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here&#39;s Why You Shouldn&#39;t Use &#39;Hey&#39; as a Dating App Pickup Line     - CNET](https://www.cnet.com/culture/heres-why-you-shouldnt-use-hey-as-a-dating-app-pickup-line/#ftag=CAD590a51e)
  - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to The Movie&#39;s Elite Marvel Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-movies-elite-marvel-heroes/#ftag=CAD590a51e)
- - [Dear Streamers, Please Stop Making TV Shows That Shouldn&#39;t Be Full Shows     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-please-stop-making-tv-shows-that-shouldnt-be-full-shows/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39;: Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dear Streamers, Please Stop Making TV Shows That Shouldn&#39;t Be Full Shows     - CNET](https://www.cnet.com/culture/entertainment/dear-streamers-please-stop-making-tv-shows-that-shouldnt-be-full-shows/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
