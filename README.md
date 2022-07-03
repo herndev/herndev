@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lock&#39;n&#39;Load](http://9gag.com/gag/amgQOz4)
- - ⏩ [Haha uncle so funny](http://9gag.com/gag/aegzyoq)
- - 👉 [Traditional way to purify water](http://9gag.com/gag/a61g4pm)<!-- MEMES:END -->
+ - 💣 [Dangares](http://9gag.com/gag/a0ZgD4X)
+ - ⏩ [Lock&#39;n&#39;Load](http://9gag.com/gag/amgQOz4)
+ - 👉 [Advice?](http://9gag.com/gag/aOQEneN)<!-- MEMES:END -->
 
 ---
 
