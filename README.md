@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ML-powered surveillance systems will never eliminate the risk of school shootings in the US, no matter how expansive and intricate those systems become &lpar;Chris Gilliard/Wired&rpar;](http://www.techmeme.com/220703/p2#a220703p2)
- - [Crime blotter: iPhones seized from two lawyers associated with January 6 probe](https://appleinsider.com/articles/22/07/03/crime-blotter-iphones-seized-from-two-lawyers-associated-with-january-6-probe?utm_medium=rss)
- - [How to Set a Maximum Limit on Your Phone&#39;s Volume](https://www.wired.com/story/how-to-limit-phone-maximum-volume/)<!-- TECH:END -->
+ - [Daily deals July 3: $300 off LG 21:9 curved monitor, $259 Hisense 50-inch 4K smart TV, $100 Amazon Echo Frames, more](https://appleinsider.com/articles/22/07/03/daily-deals-july-3-300-off-lg-219-curved-monitor-259-hisense-50-inch-4k-smart-tv-100-amazon-echo-frames-more?utm_medium=rss)
+ - [The Best Webcams for Looking Brighter and Better](https://www.wired.com/gallery/best-webcams/)
+ - [Neon White’s creative director on making the ‘most video games game possible’](https://www.theverge.com/23187369/neon-white-ben-esposito-most-video-games-game-possible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
