@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men will be men](http://9gag.com/gag/aAGAmQR)
- - ⏩ [Appreciation post to TALENT](http://9gag.com/gag/amgQnY4)
+ - 💣 [Appreciation post to TALENT](http://9gag.com/gag/amgQnY4)
+ - ⏩ [Look ma, no hand rails!](http://9gag.com/gag/adgA4VM)
  - 👉 [Queue level: King](http://9gag.com/gag/a11gE4v)<!-- MEMES:END -->
 
 ---
