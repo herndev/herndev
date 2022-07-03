@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crime caper Sunday Gold is half adventure game, half JRPG, and all style](https://www.pcgamer.com/crime-caper-sunday-gold-is-half-adventure-game-half-jrpg-and-all-style)
  - [Hidden gems you shouldn&#39;t miss before the Steam Summer Sale ends](https://www.pcgamer.com/hidden-gems-you-shouldnt-miss-before-the-steam-summer-sale-ends)
- - [In 1998, we wanted to believe The X-Files would make a good videogame](https://www.pcgamer.com/saturday-crapshoot-the-x-files)
- - [What&#39;s the longest you&#39;ve had to wait for a sequel?](https://www.pcgamer.com/whats-the-longest-youve-had-to-wait-for-a-sequel)<!-- GAME:END -->
+ - [In 1998, we wanted to believe The X-Files would make a good videogame](https://www.pcgamer.com/saturday-crapshoot-the-x-files)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
