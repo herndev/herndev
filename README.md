@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Silent Hill 2 fan patch fixes 20 year-old game breaking glitch](https://www.pcgamer.com/silent-hill-2-fan-patch-fixes-20-year-old-game-breaking-glitch)
- - [Joey King explains her ‘exhausting’ epic staircase fight in The Princess](https://www.polygon.com/23191319/the-princess-joey-king-oldboy)
- - [Final Fantasy 14 will give you a personal island garden in the next patch](https://www.pcgamer.com/final-fantasy-14-will-give-you-a-personal-island-garden-in-the-next-patch)<!-- GAME:END -->
+ - [Amazon&#39;s Alexa necromancy takes us one step further from God&#39;s light](https://www.pcgamer.com/amazons-alexa-necromancy-takes-us-one-step-further-from-gods-light)
+ - [Just over 20% of Steam users are using Windows 11](https://www.pcgamer.com/just-over-20-of-steam-users-are-using-windows-11)
+ - [Ubisoft to pull online from older games, which also takes away your DLC](https://www.pcgamer.com/ubisoft-to-pull-online-from-older-games-which-also-takes-away-your-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
