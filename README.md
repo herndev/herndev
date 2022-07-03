@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone should have a father like his](http://9gag.com/gag/a71gPRq)
- - ⏩ [We did it](http://9gag.com/gag/aogoABX)
- - 👉 [Very skillful](http://9gag.com/gag/aVxr9qn)<!-- MEMES:END -->
+ - 💣 [Very skillful](http://9gag.com/gag/aVxr9qn)
+ - ⏩ [Weekend cat](http://9gag.com/gag/abgDLYE)
+ - 👉 [One touch is masterpiece](http://9gag.com/gag/agg9bLW)<!-- MEMES:END -->
 
 ---
 
