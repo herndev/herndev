@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Apple ramped up investment in Mac chips, the progress of its other chips slowed down; sources: Apple Watch Series 8 may be able to tell if users have a fever &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220703/p3#a220703p3)
- - [Buying Groceries Online vs. In-Store: We Find Out Which Is Cheaper     - CNET](https://www.cnet.com/news/buying-groceries-online-vs-in-store-we-find-out-which-is-cheaper/#ftag=CAD590a51e)
- - [Samsung Should Forget the Galaxy S22 FE. Here&#39;s Why     - CNET](https://www.cnet.com/tech/mobile/samsung-should-forget-the-galaxy-s22-fe-heres-why/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to create a quick note in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-a-quick-note-in-ios-16?utm_medium=rss)
+ - [Best Cases for iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max     - CNET](https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e)
+ - [Tesla is facing yet another racial discrimination lawsuit](https://www.theverge.com/2022/7/3/23193415/tesla-facing-another-racial-discrimination-lawsuit-california)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
