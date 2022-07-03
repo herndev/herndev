@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eddie Munson plays Metallica&#39;s Master of Puppets](http://9gag.com/gag/a0ZgGYQ)
- - ⏩ [Advice?](http://9gag.com/gag/aOQEneN)
- - 👉 [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)<!-- MEMES:END -->
+ - 💣 [And it&#39;s still the Stupid ones that always win and always succesfull](http://9gag.com/gag/aogo6x0)
+ - ⏩ [Just a snail crossing gap](http://9gag.com/gag/a71gBVb)
+ - 👉 [In case you&#39;re having a bad day, here&#39;s a school of puffer fish](http://9gag.com/gag/aE8Kj39)<!-- MEMES:END -->
 
 ---
 
