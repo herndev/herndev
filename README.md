@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [British Army’s YouTube and Twitter accounts were hacked to promote crypto scams](https://www.theverge.com/2022/7/3/23193668/british-army-youtube-twitter-accounts-hacked-promote-crypto-scam-fraud)
- - [An update broke my favorite game on Xbox, but there is a way to fix Apex Legends input lag](https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea)
- - [Best Breast Pumps in 2022     - CNET](https://www.cnet.com/health/parenting/best-breast-pumps-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to make a custom iPhone ringtone in iOS 15](https://appleinsider.com/inside/iphone/tips/how-to-make-a-custom-iphone-ringtone-in-ios-15?utm_medium=rss)
+ - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
