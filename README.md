@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*judgemental look*](http://9gag.com/gag/adgAmbV)
- - ⏩ [Wtf Barcelona](http://9gag.com/gag/aqGM02p)
- - 👉 [Workers are doing it wrong](http://9gag.com/gag/aE8KLnG)<!-- MEMES:END -->
+ - 💣 [The ideal fruit seller](http://9gag.com/gag/a81NBGO)
+ - ⏩ [No values no courtesy](http://9gag.com/gag/aDD9E9x)
+ - 👉 [*judgemental look*](http://9gag.com/gag/adgAmbV)<!-- MEMES:END -->
 
 ---
 
