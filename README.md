@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)
- - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
- - [After a pandemic frenzy to buy laptops and other gadgets, Intel, Nvidia, Micron, and others suggest crypto mining, PC gaming, and smartphone demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)<!-- TECH:END -->
+ - [Google releases a Chrome update for Windows to address a high-severity zero-day vulnerability exploited in the wild, its fourth Chrome zero-day patch in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220704/p14#a220704p14)
+ - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
+ - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
