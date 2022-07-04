@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon expands Prime Video’s Watch Party feature to Roku, smart TVs, and more](https://www.theverge.com/2022/7/4/23194474/amazon-prime-video-watch-party-roku-smart-tv-xbox-playstation)
- - [&#39;Star Wars: Shadow of the Sith&#39; Sends Rey&#39;s Parents on an Unforgettable Journey     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-sends-reys-parents-on-an-unforgettable-journey/#ftag=CAD590a51e)
- - [Crypto lender Vauld says it is pausing all withdrawals, trading, and deposits and is exploring restructuring, after customers withdrew $197.7M+ since June 12 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220704/p12#a220704p12)<!-- TECH:END -->
+ - [Compared: Rumored 47mm Apple Watch Series 8 size versus Series 7](https://appleinsider.com/articles/22/07/04/compared-rumored-47mm-apple-watch-series-8-size-versus-series-7?utm_medium=rss)
+ - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
