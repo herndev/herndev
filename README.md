@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u200e](http://9gag.com/gag/a11gg1v)
- - ⏩ [Have you ever seen this many ladybugs? \ud83d\udc1e](http://9gag.com/gag/a0Zgq2v)
- - 👉 [Thats cheating](http://9gag.com/gag/aYr663q)<!-- MEMES:END -->
+ - 💣 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
+ - ⏩ [Thats cheating](http://9gag.com/gag/aYr663q)
+ - 👉 [Tomorrow Monday again](http://9gag.com/gag/aOQE5VM)<!-- MEMES:END -->
 
 ---
 
