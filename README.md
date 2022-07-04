@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After demand for laptops and other gadgets surged during the pandemic, executives at Intel, Nvidia, Micron, and others suggest demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)
- - [This vault of SNES manuals is an amazing resource for fans of gaming history](https://www.theverge.com/2022/7/4/23194549/snes-super-nintendo-game-manuals-archive-peebs)
- - [&#39;Star Wars: Shadow of the Sith&#39; Makes Luke Skywalker the &#39;Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-makes-luke-skywalker-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)
+ - [Star Wars Lightsaber Colors Decoded, Following Obi-Wan Kenobi&#39;s Disney Plus Show     - CNET](https://www.cnet.com/culture/entertainment/star-wars-lightsaber-colors-decoded-following-obi-wan-kenobi-disney-plus-show/#ftag=CAD590a51e)
+ - [After a pandemic frenzy to buy laptops and other gadgets, Intel, Nvidia, Micron, and others suggest crypto mining, PC gaming, and smartphone demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
