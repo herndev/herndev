@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please just pick a different style](http://9gag.com/gag/aM47LAx)
- - ⏩ [What are these people thinking?](http://9gag.com/gag/a61ggRb)
- - 👉 [The `Capital towers` in the center of Moscow are on fire.](http://9gag.com/gag/amgQwg6)<!-- MEMES:END -->
+ - 💣 [High-tech shit on pre historic weapons](http://9gag.com/gag/aNPME0v)
+ - ⏩ [Happy Cheesburger Day](http://9gag.com/gag/aGzv4RG)
+ - 👉 [Show some love](http://9gag.com/gag/axBKq7W)<!-- MEMES:END -->
 
 ---
 
