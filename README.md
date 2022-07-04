@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sunbreak expansion nearly doubles Monster Hunter Rise&#39;s Steam player record](https://www.pcgamer.com/sunbreak-expansion-nearly-doubles-monster-hunter-rises-steam-player-record)
- - [Amazon&#39;s Alexa necromancy takes us one step further from God&#39;s light](https://www.pcgamer.com/amazons-alexa-necromancy-takes-us-one-step-further-from-gods-light)
- - [Just over 20% of Steam users are using Windows 11](https://www.pcgamer.com/just-over-20-of-steam-users-are-using-windows-11)<!-- GAME:END -->
+ - [Summer Games Done Quick Raises Over $3 Million For Charity](https://kotaku.com/sgdq-gdq-agdq-speedrun-pokemon-ocarina-time-zelda-1849139603)
+ - [Great moments in PC gaming: Stabbing my cousin in the face in Crusader Kings 3](https://www.pcgamer.com/great-moments-in-pc-gaming-stabbing-my-cousin-in-the-face-in-crusader-kings-3)
+ - [Sunbreak expansion nearly doubles Monster Hunter Rise&#39;s Steam player record](https://www.pcgamer.com/sunbreak-expansion-nearly-doubles-monster-hunter-rises-steam-player-record)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
