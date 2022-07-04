@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Rumored 47mm Apple Watch Series 8 size versus Series 7](https://appleinsider.com/articles/22/07/04/compared-rumored-47mm-apple-watch-series-8-size-versus-series-7?utm_medium=rss)
- - [Best Apple AirPods for 2022     - CNET](https://www.cnet.com/tech/mobile/best-apple-airpods/#ftag=CAD590a51e)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After demand for laptops and other gadgets surged during the pandemic, executives at Intel, Nvidia, Micron, and others suggest demand is weakening &lpar;Asa Fitch/Wall Street Journal&rpar;](http://www.techmeme.com/220704/p13#a220704p13)
+ - [This vault of SNES manuals is an amazing resource for fans of gaming history](https://www.theverge.com/2022/7/4/23194549/snes-super-nintendo-game-manuals-archive-peebs)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Makes Luke Skywalker the &#39;Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-makes-luke-skywalker-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
