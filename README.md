@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 More Fascinating Indie Games To Wishlist Today](https://kotaku.com/steam-indie-games-pc-wishlist-arctic-awakening-1849140770)
- - [Stranger Things actor doesn’t think what happened to Eddie was fair — but it was ‘inspired’](https://www.polygon.com/stranger-things/23191788/eddie-died-stranger-things-4-interview-actor)
- - [Disco Elysium has dyslexia-friendly fonts now](https://www.pcgamer.com/disco-elysium-has-dyslexia-friendly-fonts-now)<!-- GAME:END -->
+ - [A boatload of old ZX Spectrum games are releasing on Steam](https://www.pcgamer.com/a-boatload-of-old-zx-spectrum-games-are-releasing-on-steam)
+ - [A Game So Good It Could Have Been Hexen III](https://kotaku.com/hands-of-necromancy-hexen-heretic-hon-team-raven-review-1849140855)
+ - [Mojang pays tribute to Technoblade on the Minecraft loading screen](https://www.pcgamer.com/mojang-pays-tribute-to-technoblade-on-the-minecraft-loading-screen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
