@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox App streaming is available on 2022 Samsung TVs](https://www.pcgamer.com/xbox-app-streaming-is-available-on-2022-samsung-tvs)
- - [The Kingpin RTX 3090 Ti goes on sale with a bundled 1600W PSU](https://www.pcgamer.com/the-kingpin-rtx-3090-ti-goes-on-sale-with-a-bundled-1600w-psu)
- - [Every Single English-Language SNES Manual Is Now Available Online](https://kotaku.com/snes-super-nintendo-manual-instructions-download-read-1849139755)<!-- GAME:END -->
+ - [AMD needs to release a Ryzen 5 5600X3D](https://www.pcgamer.com/amd-needs-to-release-a-ryzen-5-5600x3d)
+ - [Razer acquires software haptics company to boost HyperSense](https://www.pcgamer.com/razer-acquires-software-haptics-company-to-boost-hypersense)
+ - [Xbox App streaming is available on 2022 Samsung TVs](https://www.pcgamer.com/xbox-app-streaming-is-available-on-2022-samsung-tvs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
