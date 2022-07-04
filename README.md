@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla can now scan for potholes and adjust vehicle suspension to avoid damage](https://www.theverge.com/2022/7/4/23194285/tesla-pothole-automatic-suspension-adjust-software)
- - [How to back up and delete your Apple Health data](https://appleinsider.com/inside/ios-15/tips/how-to-back-up-and-delete-your-apple-health-data?utm_medium=rss)
- - [Chevrolet&#39;s first NFT auction, an original artwork accompanied by a unique green 2023 Corvette Z06, received zero bids, as the price of ether fluctuated wildly &lpar;Keith Cornett/CorvetteBlogger.com&rpar;](http://www.techmeme.com/220704/p10#a220704p10)<!-- TECH:END -->
+ - [Display leak suggests Apple Watch Series 8 may have 47mm size](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)
+ - [Xiaomi put a huge camera sensor in its new Mi 12S Ultra flagship smartphone](https://www.theverge.com/2022/7/4/23194259/xiaomi-mi-12s-ultra-one-inch-camera-sensor)
+ - [Final Day to Shop Deals on Tech, TVs, Appliances and More At Best Buy&#39;s Fourth of July Sale     - CNET](https://www.cnet.com/deals/best-buy-fourth-of-july-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
