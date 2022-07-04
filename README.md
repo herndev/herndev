@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Cyberpunk: Edgerunners&#39; Opening Titles](https://kotaku.com/netflix-cdpr-studio-trigger-cyberpunk-edgerunners-1849140599)
- - [How to get Twisted Stiffbone in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-twisted-stiffbone)
- - [My return to Elden Ring has turned me into a crafty little rat](https://www.pcgamer.com/my-return-to-elden-ring-has-turned-me-into-a-crafty-little-rat)<!-- GAME:END -->
+ - [10 More Fascinating Indie Games To Wishlist Today](https://kotaku.com/steam-indie-games-pc-wishlist-arctic-awakening-1849140770)
+ - [Stranger Things actor doesn’t think what happened to Eddie was fair — but it was ‘inspired’](https://www.polygon.com/stranger-things/23191788/eddie-died-stranger-things-4-interview-actor)
+ - [Disco Elysium has dyslexia-friendly fonts now](https://www.pcgamer.com/disco-elysium-has-dyslexia-friendly-fonts-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
