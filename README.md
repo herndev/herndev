@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)
- - [How iPad will act as a Home Hub in iOS 16 and more on HomeKit Insider](https://appleinsider.com/articles/22/07/04/how-ipad-will-act-as-a-home-hub-in-ios-16-and-more-on-homekit-insider?utm_medium=rss)
- - [Daily deals July 4: Up to $50 off 10.2-inch iPad, $297 LG 32-inch UHD monitor, $162 Bose SoundLink, more](https://appleinsider.com/articles/22/07/04/daily-deals-july-4-up-to-50-off-102-inch-ipad-297-lg-32-inch-uhd-monitor-162-bose-soundlink-more?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla can now scan for potholes and adjust vehicle suspension to avoid damage](https://www.theverge.com/2022/7/4/23194285/tesla-pothole-automatic-suspension-adjust-software)
+ - [How to back up and delete your Apple Health data](https://appleinsider.com/inside/ios-15/tips/how-to-back-up-and-delete-your-apple-health-data?utm_medium=rss)
+ - [Chevrolet&#39;s first NFT auction, an original artwork accompanied by a unique green 2023 Corvette Z06, received zero bids, as the price of ether fluctuated wildly &lpar;Keith Cornett/CorvetteBlogger.com&rpar;](http://www.techmeme.com/220704/p10#a220704p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
