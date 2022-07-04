@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op mod Skyrim Together Reborn gets a release date](https://www.pcgamer.com/co-op-mod-skyrim-together-reborn-gets-a-release-date)
- - [AMD needs to release a Ryzen 5 5600X3D](https://www.pcgamer.com/amd-needs-to-release-a-ryzen-5-5600x3d)
- - [Razer acquires software haptics company to boost HyperSense](https://www.pcgamer.com/razer-acquires-software-haptics-company-to-boost-hypersense)<!-- GAME:END -->
+ - [I too laughed at this ridiculous SSD tower cooler and now I fear it might augur a super-heated future](https://www.pcgamer.com/i-too-laughed-at-this-ridiculous-ssd-tower-cooler-and-now-i-fear-it-might-augur-a-super-heated-future)
+ - [Hilarious &#39;Web 3 Console&#39; Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
+ - [Today&#39;s Wordle answer #380: Monday, July 4](https://www.pcgamer.com/wordle-today-july-4-380-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
