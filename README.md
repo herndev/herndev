@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell me why.](http://9gag.com/gag/aDD9yyd)
- - ⏩ [Shark spotted off the coast of England!](http://9gag.com/gag/aGzvXN0)
+ - 💣 [The ideal fruit seller](http://9gag.com/gag/a81NBGO)
+ - ⏩ [Tell me why.](http://9gag.com/gag/aDD9yyd)
  - 👉 [Workers are doing it wrong](http://9gag.com/gag/aE8KLnG)<!-- MEMES:END -->
 
 ---
