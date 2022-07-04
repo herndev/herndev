@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chainalysis: NFT sales totaled just over $1B in June 2022, a 12-month low since June 2021 when sales were $648M; sales reached a peak of $12.6B in January 2022 &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220704/p2#a220704p2)
  - [A look at national security concerns around modern cars filled with cameras and sensors, as a Chinese town bans Teslas during a communist party conclave &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220704/p1#a220704p1)
- - [&#39;Westworld&#39;: A Simple Guide to What Is Going On Before Season 4     - CNET](https://www.cnet.com/culture/entertainment/westworld-a-simple-guide-to-what-is-going-on-before-season-4/#ftag=CAD590a51e)
- - [More People Need To Watch This Sci-Fi Masterpiece on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-sci-fi-masterpiece-on-apple-tv/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Westworld&#39;: A Simple Guide to What Is Going On Before Season 4     - CNET](https://www.cnet.com/culture/entertainment/westworld-a-simple-guide-to-what-is-going-on-before-season-4/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
