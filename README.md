@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s the flashy intro to Netflix&#39;s upcoming Cyberpunk 2077 anime](https://www.pcgamer.com/heres-the-flashy-intro-to-netflixs-upcoming-cyberpunk-2077-anime)
  - [A boatload of old ZX Spectrum games are releasing on Steam](https://www.pcgamer.com/a-boatload-of-old-zx-spectrum-games-are-releasing-on-steam)
- - [A Game So Good It Could Have Been Hexen III](https://kotaku.com/hands-of-necromancy-hexen-heretic-hon-team-raven-review-1849140855)
- - [Mojang pays tribute to Technoblade on the Minecraft loading screen](https://www.pcgamer.com/mojang-pays-tribute-to-technoblade-on-the-minecraft-loading-screen)<!-- GAME:END -->
+ - [A Game So Good It Could Have Been Hexen III](https://kotaku.com/hands-of-necromancy-hexen-heretic-hon-team-raven-review-1849140855)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
