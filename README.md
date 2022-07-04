@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Raft mods](https://www.pcgamer.com/best-raft-mods)
- - [Here&#39;s an AI&#39;s interpretation of what lies beyond Michelangelo&#39;s &#39;Creation of Adam&#39;](https://www.pcgamer.com/heres-an-ais-interpretation-of-what-lies-beyond-michelangelos-creation-of-adam)
- - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)<!-- GAME:END -->
+ - [Watch Cyberpunk: Edgerunners&#39; Opening Titles](https://kotaku.com/netflix-cdpr-studio-trigger-cyberpunk-edgerunners-1849140599)
+ - [How to get Twisted Stiffbone in Monster Hunter Rise: Sunbreak](https://www.pcgamer.com/monster-hunter-rise-sunbreak-twisted-stiffbone)
+ - [My return to Elden Ring has turned me into a crafty little rat](https://www.pcgamer.com/my-return-to-elden-ring-has-turned-me-into-a-crafty-little-rat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
