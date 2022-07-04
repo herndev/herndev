@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How a Group of Murderers Became Skyrim&#39;s Most Beloved Faction](https://www.wired.com/story/dark-brotherhood-skyrim-most-beloved-faction/)
- - [TikTok’s Latest Cringe Trend: Gen Z Critiques Their Former Selves](https://www.wired.com/story/tiktok-cringe-gen-z-growing-up-on-social-media/)
- - [Tim Cook returning to Sun Valley media conference](https://appleinsider.com/articles/22/07/04/tim-cook-returning-to-sun-valley-media-conference?utm_medium=rss)<!-- TECH:END -->
+ - [Long-rumored Apple Silicon iMac Pro still in the works, but not coming soon](https://appleinsider.com/articles/22/07/04/long-rumored-apple-silicon-imac-pro-still-in-the-works-but-not-coming-soon?utm_medium=rss)
+ - [Sharing Music Rescued My Relationship With My Teenager](https://www.wired.com/story/sharing-music-rescued-my-relationship-with-my-teenager/)
+ - [Which Amazon Fire Tablet Is Best for You?](https://www.wired.com/story/best-amazon-fire-tablet/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
