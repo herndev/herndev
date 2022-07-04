@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Westworld&#39; Season 4, Episode 2 Recap: &#39;Welcome to the Golden Age&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-2-recap-welcome-to-the-golden-age/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to The Marvel Movie&#39;s Elite Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-marvel-movies-elite-heroes/#ftag=CAD590a51e)
- - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Westworld&#39;: A Simple Guide to What Is Going On Before Season 4     - CNET](https://www.cnet.com/culture/entertainment/westworld-a-simple-guide-to-what-is-going-on-before-season-4/#ftag=CAD590a51e)
+ - [More People Need To Watch This Sci-Fi Masterpiece on Apple TV+     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-sci-fi-masterpiece-on-apple-tv/#ftag=CAD590a51e)
+ - [&#39;Westworld&#39; Season 4, Episode 2 Recap: &#39;Welcome to the Golden Age&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-2-recap-welcome-to-the-golden-age/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
