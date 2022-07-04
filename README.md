@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Break Dance](http://9gag.com/gag/a91wxEK)
- - ⏩ [We all die one day](http://9gag.com/gag/angZm6B)
+ - 💣 [\ud83d\udc4b\ud83c\udffdHappy Independence Day](http://9gag.com/gag/awzjwMx)
+ - ⏩ [The future](http://9gag.com/gag/a31gmAe)
  - 👉 [Feels Bar is open for your Monday blues, grab a drink and tell us what\u2019s bothering you at work.](http://9gag.com/gag/aOQELq6)<!-- MEMES:END -->
 
 ---
