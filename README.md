@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
- - ⏩ [Thats cheating](http://9gag.com/gag/aYr663q)
- - 👉 [Tomorrow Monday again](http://9gag.com/gag/aOQE5VM)<!-- MEMES:END -->
+ - ⏩ [What?](http://9gag.com/gag/aVxr5PM)
+ - 👉 [So it begins](http://9gag.com/gag/aKmZMPg)<!-- MEMES:END -->
 
 ---
 
