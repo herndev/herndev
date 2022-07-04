@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Long-rumored Apple Silicon iMac Pro still in the works, but not coming soon](https://appleinsider.com/articles/22/07/04/long-rumored-apple-silicon-imac-pro-still-in-the-works-but-not-coming-soon?utm_medium=rss)
- - [Sharing Music Rescued My Relationship With My Teenager](https://www.wired.com/story/sharing-music-rescued-my-relationship-with-my-teenager/)
- - [Which Amazon Fire Tablet Is Best for You?](https://www.wired.com/story/best-amazon-fire-tablet/)<!-- TECH:END -->
+ - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)
+ - [How iPad will act as a Home Hub in iOS 16 and more on HomeKit Insider](https://appleinsider.com/articles/22/07/04/how-ipad-will-act-as-a-home-hub-in-ios-16-and-more-on-homekit-insider?utm_medium=rss)
+ - [Daily deals July 4: Up to $50 off 10.2-inch iPad, $297 LG 32-inch UHD monitor, $162 Bose SoundLink, more](https://appleinsider.com/articles/22/07/04/daily-deals-july-4-up-to-50-off-102-inch-ipad-297-lg-32-inch-uhd-monitor-162-bose-soundlink-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
