@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Kingpin RTX 3090 Ti goes on sale with a bundled 1600W PSU](https://www.pcgamer.com/the-kingpin-rtx-3090-ti-goes-on-sale-with-a-bundled-1600w-psu)
  - [Every Single English-Language SNES Manual Is Now Available Online](https://kotaku.com/snes-super-nintendo-manual-instructions-download-read-1849139755)
- - [Our Favorite Cosplay From Yeticon 2022](https://kotaku.com/yeticon-2022-cosplay-party-gallery-genshin-anime-1849139703)
- - [Five new Steam games you probably missed &lpar;July 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-4-2022)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Yeticon 2022](https://kotaku.com/yeticon-2022-cosplay-party-gallery-genshin-anime-1849139703)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
