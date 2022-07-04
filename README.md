@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor CJ](http://9gag.com/gag/ay9rGYW)
- - ⏩ [I was fired, and instead of being sad at home, I decided to cross the oceans in a 16th century galleon as a volunteer sailor. Best decision I ever made. Just want to share with you \ud83d\udda4](http://9gag.com/gag/aLvo755)
- - 👉 [On July 4th 1996 this man sacrificed himself to defeat Alien invaders and save Earth.](http://9gag.com/gag/angZmBq)<!-- MEMES:END -->
+ - 💣 [We all die one day](http://9gag.com/gag/angZm6B)
+ - ⏩ [Tell me why.](http://9gag.com/gag/aDD9yyd)
+ - 👉 [Stranger Things song](http://9gag.com/gag/a21g30p)<!-- MEMES:END -->
 
 ---
 
