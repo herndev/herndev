@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
- - ⏩ [A game for the whole family](http://9gag.com/gag/a31gg08)
+ - ⏩ [Have you ever seen this many ladybugs? \ud83d\udc1e](http://9gag.com/gag/a0Zgq2v)
  - 👉 [So it begins](http://9gag.com/gag/aKmZMPg)<!-- MEMES:END -->
 
 ---
