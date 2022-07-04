@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Doctor Strange 2&#39;: Ending Explained, All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-ending-explained-all-your-questions-answered/#ftag=CAD590a51e)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-binge-this-evening/#ftag=CAD590a51e)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-films-to-binge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Westworld&#39; Season 4, Episode 2 Recap: &#39;Welcome to the Golden Age&#39;     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-2-recap-welcome-to-the-golden-age/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to The Marvel Movie&#39;s Elite Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-the-marvel-movies-elite-heroes/#ftag=CAD590a51e)
+ - [New Apple Music student subscribers can get free Beats Flex](https://appleinsider.com/articles/22/07/03/new-apple-music-student-subscribers-can-get-free-beats-flex?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
