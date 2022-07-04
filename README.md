@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Display leak suggests Apple Watch Series 8 may have 47mm size](https://appleinsider.com/articles/22/07/04/apple-watch-series-8-may-feature-505mm-display?utm_medium=rss)
- - [Xiaomi put a huge camera sensor in its new Mi 12S Ultra flagship smartphone](https://www.theverge.com/2022/7/4/23194259/xiaomi-mi-12s-ultra-one-inch-camera-sensor)
- - [Final Day to Shop Deals on Tech, TVs, Appliances and More At Best Buy&#39;s Fourth of July Sale     - CNET](https://www.cnet.com/deals/best-buy-fourth-of-july-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon is using electric cargo bikes that look like mini-trucks to make deliveries in the UK](https://www.theverge.com/2022/7/4/23194412/amazon-ebike-walking-delivery-london-hub)
+ - [The 36 Best Fourth of July Deals on Kitchen Gizmos and Tech](https://www.wired.com/story/fourth-of-july-sales-2022-1/)
+ - [Crosby, Stills &amp; Nash return to Spotify after Joe Rogan protest](https://www.theverge.com/2022/7/4/23194251/crosby-stills-nash-spotify-return-end-joe-rogan-covid-protest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
