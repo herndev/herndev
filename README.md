@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
- - ⏩ [What?](http://9gag.com/gag/aVxr5PM)
- - 👉 [So it begins](http://9gag.com/gag/aKmZMPg)<!-- MEMES:END -->
+ - 💣 [What?](http://9gag.com/gag/aVxr5PM)
+ - ⏩ [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
+ - 👉 [Milton Friedman, Nobel prize winner &lpar;1976&rpar; in economics on who creates inflation &lpar;2:58&rpar;](http://9gag.com/gag/aKmZ5OO)<!-- MEMES:END -->
 
 ---
 
