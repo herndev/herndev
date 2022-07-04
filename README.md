@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gen 1 &amp; 2 Boomer here... but the new gens ain&#39;t so bad...played until Black and White...](http://9gag.com/gag/a11ggYw)
- - ⏩ [Collapse of a serac on the Marmolada glacier &lpar;Veneto - Italy&rpar;. several dead, wounded and missing.](http://9gag.com/gag/avAqwdM)
- - 👉 [\u200e](http://9gag.com/gag/a11gg1v)<!-- MEMES:END -->
+ - 💣 [\u200e](http://9gag.com/gag/a11gg1v)
+ - ⏩ [Have you ever seen this many ladybugs? \ud83d\udc1e](http://9gag.com/gag/a0Zgq2v)
+ - 👉 [Thats cheating](http://9gag.com/gag/aYr663q)<!-- MEMES:END -->
 
 ---
 
