@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I too laughed at this ridiculous SSD tower cooler and now I fear it might augur a super-heated future](https://www.pcgamer.com/i-too-laughed-at-this-ridiculous-ssd-tower-cooler-and-now-i-fear-it-might-augur-a-super-heated-future)
- - [Hilarious &#39;Web 3 Console&#39; Will Never, Ever Happen](https://kotaku.com/polium-one-console-web3-nft-metaverse-crypto-blockchain-1849140057)
- - [Today&#39;s Wordle answer #380: Monday, July 4](https://www.pcgamer.com/wordle-today-july-4-380-answer-hint)<!-- GAME:END -->
+ - [Everything we know about Genshin Impact 2.8](https://www.pcgamer.com/genshin-impact-28-release-date)
+ - [Spelunky 2 speedrunner and world record holder Twiggle dies at 25](https://www.pcgamer.com/spelunky-2-speedrunner-and-world-record-holder-twiggle-dies-at-25)
+ - [This desk from Costco has gone viral on TikTok and I&#39;m not sure why](https://www.pcgamer.com/costco-tresanti-desk-tiktok-fame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
