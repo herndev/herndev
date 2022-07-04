@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look to much into these conspiracy theories](http://9gag.com/gag/angZoBz)
- - ⏩ [Have you ever seen this many ladybugs? \ud83d\udc1e](http://9gag.com/gag/a0Zgq2v)
- - 👉 [So it begins](http://9gag.com/gag/aKmZMPg)<!-- MEMES:END -->
+ - 💣 [Please just pick a different style](http://9gag.com/gag/aM47LAx)
+ - ⏩ [What are these people thinking?](http://9gag.com/gag/a61ggRb)
+ - 👉 [The `Capital towers` in the center of Moscow are on fire.](http://9gag.com/gag/amgQwg6)<!-- MEMES:END -->
 
 ---
 
