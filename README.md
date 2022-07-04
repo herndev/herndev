@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Tiny Glimpse Of Hope For PS3 Emulation On PS5](https://kotaku.com/sony-playstation-ps5-ps5-ps3-emulation-engineer-1849140353)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [The one horror homage that Vecna’s actor couldn’t quite fit in Stranger Things](https://www.polygon.com/stranger-things/23191881/stranger-things-vecna-jamie-campbell-bower-hellraiser)<!-- GAME:END -->
+ - [The best Raft mods](https://www.pcgamer.com/best-raft-mods)
+ - [Here&#39;s an AI&#39;s interpretation of what lies beyond Michelangelo&#39;s &#39;Creation of Adam&#39;](https://www.pcgamer.com/heres-an-ais-interpretation-of-what-lies-beyond-michelangelos-creation-of-adam)
+ - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
