@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [If You Struggle to Fall Asleep, These Yoga Poses Can Help     - CNET](https://www.cnet.com/health/sleep/if-you-struggle-to-fall-asleep-these-yoga-poses-can-help/#ftag=CAD590a51e)
  - [Survey: experts split on the likely evolution of an immersive metaverse by 2040, worry about the dominant platforms building it, and expect more useful AR/MR &lpar;Pew Research Center&rpar;](http://www.techmeme.com/220703/p4#a220703p4)
- - [Now Android users on Twitter can pay to drop the Spaces button too](https://www.theverge.com/2022/7/3/23193650/twitter-blue-android-users-pay-drop-spaces-button)
- - [Best Garden and Seed Delivery Services for 2022     - CNET](https://www.cnet.com/news/best-garden-subscription-and-seed-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Sci-Fi Movies on Netflix You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-17-best-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
