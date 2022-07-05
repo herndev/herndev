@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi&#39;s new 12S Ultra smartphone features a 6.73-inch OLED screen and three rear cameras, including a 50MP main camera with a 1-inch sensor, starting at ~$900 &lpar;Richard Lai/Engadget&rpar;](http://www.techmeme.com/220704/p15#a220704p15)
  - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to This Marvel Movie&#39;s Elite Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-this-marvel-movies-elite-heroes/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-watch-on-netflix/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
