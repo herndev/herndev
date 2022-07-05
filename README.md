@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stranger Things 4 just became the second Netflix show to hit 1 billion hours viewed](https://www.theverge.com/2022/7/5/23195675/stranger-things-4-popularity-netflix-billion-hours)
  - [TikTok is reportedly giving up on its live shopping plans in the US and Europe](https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us)
- - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
- - [Xbox input lag for Apex Legends is finally fixed, two weeks later](https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea)<!-- TECH:END -->
+ - [&#39;Thor: Love and Thunder&#39; Review: A Disappointing Taika Waititi Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-taika-waititi-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
