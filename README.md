@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)
- - ⏩ [Accomplishments](http://9gag.com/gag/aOQ5o06)
- - 👉 [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)<!-- MEMES:END -->
+ - 💣 [Accomplishments](http://9gag.com/gag/aOQ5o06)
+ - ⏩ [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)
+ - 👉 [Happy 60th Birthday to this Legend](http://9gag.com/gag/a81OLWp)<!-- MEMES:END -->
 
 ---
 
