@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderate Apple hardware lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
- - [James Cameron says Avatar 4 is a ‘motherfucker’ — but he might not direct it](https://www.theverge.com/2022/7/5/23195404/james-cameron-avatar-4-5-director)
- - [Deal alert: Apple&#39;s M1 Max 16-inch MacBook Pro is on sale for $2,899, limited supply available](https://appleinsider.com/articles/22/07/05/deal-alert-apples-m1-max-16-inch-macbook-pro-is-on-sale-for-2899-limited-supply-available?utm_medium=rss)<!-- TECH:END -->
+ - [The EU just pummeled Big Tech again: Here are the newest rules](https://www.androidauthority.com/digital-services-act-3183440/)
+ - [Nexo, a crypto lender managing assets for ~4M users, says it&#39;s signed a term sheet to buy Vauld, which recently halted withdrawals and manages assets for ~100K &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220705/p21#a220705p21)
+ - [Apple seeds fifth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/07/05/apple-seeds-fifth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
