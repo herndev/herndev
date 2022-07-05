@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Everyone’s Suddenly Obsessed With A Two-Year-Old Game About Action Figures](https://kotaku.com/hypercharge-xbox-release-date-switch-steam-pc-1849143675)
- - [DC’s flagship Batman writer wants to know: ‘How essential is money to Batman?’](https://www.polygon.com/23187128/batman-failsafe-origin-chip-zdarsky-125)
- - [The recent Monster Hunter games have sold very, very well](https://www.pcgamer.com/monster-hunter-rise-sunbreak-sales)<!-- GAME:END -->
+ - [Metal Gear Speedrunner Reveals He Faked ‘Live’ World Record, Claims It’s A ‘Puzzle’](https://kotaku.com/metal-gear-rising-revengeance-sgdq-2022-speedrun-fake-1849144004)
+ - [Xbox 360 Games Will No Longer Be A Part Of Games With Gold In October](https://kotaku.com/xbox-360-free-games-with-gold-october-microsoft-end-1849143651)
+ - [Why Everyone’s Suddenly Obsessed With A Two-Year-Old Game About Action Figures](https://kotaku.com/hypercharge-xbox-release-date-switch-steam-pc-1849143675)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
