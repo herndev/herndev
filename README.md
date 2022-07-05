@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Crisis Core: Final Fantasy 7 remake is changing the battle system, and I demand to see the manager](https://www.pcgamer.com/the-crisis-core-final-fantasy-7-remake-is-changing-the-battle-system-and-i-demand-to-see-the-manager)
- - [The Netherlands moves toward an outright loot box ban](https://www.pcgamer.com/the-netherlands-moves-toward-an-outright-loot-box-ban)
- - [Ubisoft Is Axing 15 More Games’ Multiplayer This Fall](https://kotaku.com/ubisoft-multiplayer-assassin-s-creed-far-cry-ghost-reco-1849143040)<!-- GAME:END -->
+ - [Why Everyone’s Suddenly Obsessed With A Two-Year-Old Game About Action Figures](https://kotaku.com/hypercharge-xbox-release-date-switch-steam-pc-1849143675)
+ - [DC’s flagship Batman writer wants to know: ‘How essential is money to Batman?’](https://www.polygon.com/23187128/batman-failsafe-origin-chip-zdarsky-125)
+ - [The recent Monster Hunter games have sold very, very well](https://www.pcgamer.com/monster-hunter-rise-sunbreak-sales)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
