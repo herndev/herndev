@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Some Bulba love](http://9gag.com/gag/aDD9BvK)
- - ⏩ [Certainly](http://9gag.com/gag/aLv56Kv)
- - 👉 [Praise The Sun](http://9gag.com/gag/aVxrG7P)<!-- MEMES:END -->
+ - ⏩ [Satisfied](http://9gag.com/gag/aWg5BEA)
+ - 👉 [Driving 50 mph and firing a soccer ball out of a cannon at 50 mph, completely canceling its momentum.](http://9gag.com/gag/a71gj8L)<!-- MEMES:END -->
 
 ---
 
