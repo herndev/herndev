@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this story about the guy behind RadioShack’s insane, sex-crazed Twitter account](https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock)
- - [Apple iPhone 14 Release Date: What We Know So Far     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-release-date-what-we-know-so-far/#ftag=CAD590a51e)
- - [HTC quietly announced a new Android tablet — and nobody noticed](https://www.theverge.com/2022/7/5/23195248/htc-android-tablet-a101-africa)<!-- TECH:END -->
+ - [Moderate Apple hardware lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
+ - [James Cameron says Avatar 4 is a ‘motherfucker’ — but he might not direct it](https://www.theverge.com/2022/7/5/23195404/james-cameron-avatar-4-5-director)
+ - [Deal alert: Apple&#39;s M1 Max 16-inch MacBook Pro is on sale for $2,899, limited supply available](https://appleinsider.com/articles/22/07/05/deal-alert-apples-m1-max-16-inch-macbook-pro-is-on-sale-for-2899-limited-supply-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
