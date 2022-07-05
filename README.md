@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey: 25% of Black American investors owned crypto at the start of 2022, compared to 15% of white investors, making them especially vulnerable to the downturn &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/220705/p18#a220705p18)
- - [Jackery Solar Generator 2000 Pro review: letting flex-workers flex](https://www.theverge.com/23195018/jackery-explorer-2000-solarsaga-portable-backup-price-specs)
- - [Current Refinance Rates on Jul. 5, 2022: Rates Fall     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-jul-5-2022-rates-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Have you heard the one about the crab and the underwater volcano?](https://www.theverge.com/2022/7/5/23191365/crab-underwater-volcano-seamount-seismometer-research)
+ - [Research: Amazon, Microsoft, and Google accounted for 65% of the $53B in global cloud spending in Q1 2022, up from 52% in 2018 &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220705/p19#a220705p19)
+ - [Moderate lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
