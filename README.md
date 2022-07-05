@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Competition.](http://9gag.com/gag/amgwXm2)
- - ⏩ [Best of both worlds.](http://9gag.com/gag/aogwmr2)
- - 👉 [This dog](http://9gag.com/gag/a616mgR)<!-- MEMES:END -->
+ - 💣 [This dog](http://9gag.com/gag/a616mgR)
+ - ⏩ [Very interesting ballet performance](http://9gag.com/gag/a71X5pz)
+ - 👉 [A gentleman](http://9gag.com/gag/aRrdQqy)<!-- MEMES:END -->
 
 ---
 
