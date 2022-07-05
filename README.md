@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some Bulba love](http://9gag.com/gag/aDD9BvK)
- - ⏩ [Satisfied](http://9gag.com/gag/aWg5BEA)
- - 👉 [Driving 50 mph and firing a soccer ball out of a cannon at 50 mph, completely canceling its momentum.](http://9gag.com/gag/a71gj8L)<!-- MEMES:END -->
+ - 💣 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)
+ - ⏩ [Certainly](http://9gag.com/gag/aLv56Kv)
+ - 👉 [Every five years Amsterdam welcomes scores of tall ships and hundreds of other historical ships from all over the world for the greatest nautical spectacle in the world called Sail Amsterdam.](http://9gag.com/gag/a11jpKG)<!-- MEMES:END -->
 
 ---
 
