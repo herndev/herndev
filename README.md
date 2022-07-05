@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)
- - [The Raspberry Pi Pico W brings wireless functionality to this tiny computer](https://www.pcgamer.com/the-raspberry-pi-pico-w-brings-wireless-functionality-to-this-tiny-computer)
- - [Nvidia&#39;s RTX 4090 is rumored to top 2.75GHz in terms of &#39;actual max&#39; clock speed](https://www.pcgamer.com/nvidias-rtx-is-rumored-to-hit-an-insane-275ghz-boost-clock)<!-- GAME:END -->
+ - [Lollipop Chainsaw is getting a remake next year](https://www.pcgamer.com/lollipop-chainsaw-is-getting-a-remake-next-year)
+ - [Today&#39;s Wordle answer #381: Tuesday, July 5](https://www.pcgamer.com/wordle-today-july-5-381-answer-hint)
+ - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
