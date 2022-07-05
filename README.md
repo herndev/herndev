@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [End-to-End Encryption&#39;s Central Role in Modern Self-Defense](https://www.wired.com/story/end-to-end-encryption-abortion-privacy/)
- - [Genetic Screening Now Lets Parents Pick the Healthiest Embryos](https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/)
- - [Climate Change Breaks Plant Immune Systems. Can They Be Rebooted?](https://www.wired.com/story/climate-change-breaks-plant-immune-systems-can-they-be-rebooted/)<!-- TECH:END -->
+ - [Danish startup Onomondo, which offers an interoperable network for IoT devices in more than 180 countries, raised a $21M Series A led by Verdane &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220705/p14#a220705p14)
+ - [How Landsat Chronicled 50 Years on a Changing, Fiery Planet](https://www.wired.com/story/how-landsat-chronicled-50-years-on-a-changing-fiery-planet/)
+ - [Apple is preparing three new Mac Studio models](https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
