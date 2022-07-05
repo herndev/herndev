@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
- - ⏩ [Science](http://9gag.com/gag/abgw348)
- - 👉 [He is a 10](http://9gag.com/gag/abgw39X)<!-- MEMES:END -->
+ - ⏩ [Japan needs you fellow young male.](http://9gag.com/gag/a0Zgmxz)
+ - 👉 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)<!-- MEMES:END -->
 
 ---
 
