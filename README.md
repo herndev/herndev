@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The rarely seen Snow Leopard, captured on a camera trap](http://9gag.com/gag/aLvoyAg)
- - ⏩ [Just an observation from the older people here](http://9gag.com/gag/aegzo9Q)
- - 👉 [Oi, where is he!](http://9gag.com/gag/a61gvx9)<!-- MEMES:END -->
+ - 💣 [Praise The Sun](http://9gag.com/gag/aVxrG7P)
+ - ⏩ [Oi, where is he!](http://9gag.com/gag/a61gvx9)
+ - 👉 [Driving 50 mph and firing a soccer ball out of a cannon at 50 mph, completely canceling its momentum.](http://9gag.com/gag/a71gj8L)<!-- MEMES:END -->
 
 ---
 
