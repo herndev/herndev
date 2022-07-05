@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX is rumored to hit an insane 2.75GHz boost clock](https://www.pcgamer.com/nvidias-rtx-is-rumored-to-hit-an-insane-275ghz-boost-clock)
  - [No Man&#39;s Sky players invent their own cryptocurrency and it&#39;s worthless &lpar;but it&#39;s supposed to be&rpar;](https://www.pcgamer.com/no-mans-sky-players-invent-their-own-cryptocurrency-and-its-worthless-but-its-supposed-to-be)
- - [Here&#39;s the flashy intro to Netflix&#39;s upcoming Cyberpunk 2077 anime](https://www.pcgamer.com/heres-the-flashy-intro-to-netflixs-upcoming-cyberpunk-2077-anime)
- - [A boatload of old ZX Spectrum games are releasing on Steam](https://www.pcgamer.com/a-boatload-of-old-zx-spectrum-games-are-releasing-on-steam)<!-- GAME:END -->
+ - [Here&#39;s the flashy intro to Netflix&#39;s upcoming Cyberpunk 2077 anime](https://www.pcgamer.com/heres-the-flashy-intro-to-netflixs-upcoming-cyberpunk-2077-anime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
