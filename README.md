@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stranger Things 4 just became the second Netflix show to hit 1 billion hours viewed](https://www.theverge.com/2022/7/5/23195675/stranger-things-4-popularity-netflix-billion-hours)
- - [TikTok is reportedly giving up on its live shopping plans in the US and Europe](https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us)
- - [&#39;Thor: Love and Thunder&#39; Review: A Disappointing Taika Waititi Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-taika-waititi-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UK signs its first data sharing deal post-Brexit, with South Korea, allowing organizations in the two countries to transfer data without restrictions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220705/p23#a220705p23)
+ - [Apple releases new firmware update for redesigned Siri Remote](https://appleinsider.com/articles/22/07/05/apple-releases-new-firmware-update-for-redesigned-siri-remote?utm_medium=rss)
+ - [Amazon&#39;s Discounted Smart Thermostat Is the Prime Day Deal That Keeps On Giving     - CNET](https://www.cnet.com/deals/amazon-smart-thermostat-deal-july/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
