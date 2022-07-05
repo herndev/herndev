@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accomplishments](http://9gag.com/gag/aOQ5o06)
- - ⏩ [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)
- - 👉 [Happy 60th Birthday to this Legend](http://9gag.com/gag/a81OLWp)<!-- MEMES:END -->
+ - 💣 [So Hobbits are genX](http://9gag.com/gag/aBn5RVD)
+ - ⏩ [I would marry her](http://9gag.com/gag/aAG5Rn0)
+ - 👉 [Ah yes good old days](http://9gag.com/gag/arnw1YK)<!-- MEMES:END -->
 
 ---
 
