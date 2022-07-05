@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah yes good old days](http://9gag.com/gag/arnw1YK)
- - ⏩ [Japan needs you fellow young male.](http://9gag.com/gag/a0Zgmxz)
- - 👉 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)<!-- MEMES:END -->
+ - 💣 [Better watch your back at anime conventions](http://9gag.com/gag/aPZ26mg)
+ - ⏩ [Accomplishments](http://9gag.com/gag/aOQ5o06)
+ - 👉 [What&#39;s your favorite GIF?](http://9gag.com/gag/aqGw4b7)<!-- MEMES:END -->
 
 ---
 
