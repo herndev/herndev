@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
- - ⏩ [Europeans, do you Agree?](http://9gag.com/gag/azewL8B)
- - 👉 [RIP](http://9gag.com/gag/aggw3nn)<!-- MEMES:END -->
+ - 💣 [This farmer runs a sanctuary for animals, they connection they have is adorable!](http://9gag.com/gag/aXr1bpV)
+ - ⏩ [Why i am wasting my life ?](http://9gag.com/gag/aegw3Wb)
+ - 👉 [Slow motion art](http://9gag.com/gag/a910MYZ)<!-- MEMES:END -->
 
 ---
 
