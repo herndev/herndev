@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [No Man&#39;s Sky players invent their own cryptocurrency and it&#39;s worthless &lpar;but it&#39;s supposed to be&rpar;](https://www.pcgamer.com/no-mans-sky-players-invent-their-own-cryptocurrency-and-its-worthless-but-its-supposed-to-be)
  - [Here&#39;s the flashy intro to Netflix&#39;s upcoming Cyberpunk 2077 anime](https://www.pcgamer.com/heres-the-flashy-intro-to-netflixs-upcoming-cyberpunk-2077-anime)
- - [A boatload of old ZX Spectrum games are releasing on Steam](https://www.pcgamer.com/a-boatload-of-old-zx-spectrum-games-are-releasing-on-steam)
- - [A Game So Good It Could Have Been Hexen III](https://kotaku.com/hands-of-necromancy-hexen-heretic-hon-team-raven-review-1849140855)<!-- GAME:END -->
+ - [A boatload of old ZX Spectrum games are releasing on Steam](https://www.pcgamer.com/a-boatload-of-old-zx-spectrum-games-are-releasing-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
