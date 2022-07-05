@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lollipop Chainsaw is getting a remake next year](https://www.pcgamer.com/lollipop-chainsaw-is-getting-a-remake-next-year)
- - [Today&#39;s Wordle answer #381: Tuesday, July 5](https://www.pcgamer.com/wordle-today-july-5-381-answer-hint)
- - [Pimax&#39;s 8K VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)<!-- GAME:END -->
+ - [Everything we know about Stranger Things 5](https://www.polygon.com/23191823/everything-we-know-stranger-things-5)
+ - [Stranger Things will have shorter episodes in its final season](https://www.polygon.com/stranger-things/23195085/stranger-things-season-5-length-shorter-episodes)
+ - [Thor: Love and Thunder sells out its characters for jokes](https://www.polygon.com/reviews/23191901/thor-love-and-thunder-review-taika-waititi-chris-hemsworth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
