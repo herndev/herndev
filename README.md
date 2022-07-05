@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: daily trading volumes at Indian crypto exchanges ZebPay, WazirX, CoinDCX have dropped 60%-87% after the 1% transaction tax became effective on July 1 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220705/p1#a220705p1)
- - [Xiaomi&#39;s new 12S Ultra smartphone features a 6.73-inch OLED screen and three rear cameras, including a 50MP main camera with a 1-inch sensor, starting at ~$900 &lpar;Richard Lai/Engadget&rpar;](http://www.techmeme.com/220704/p15#a220704p15)
- - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to This Marvel Movie&#39;s Elite Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-this-marvel-movies-elite-heroes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The megadrought gripping the US West is increasing the scrutiny of water use by hyperscale data centers &lpar;Lisa Martine Jenkins/Protocol&rpar;](http://www.techmeme.com/220705/p3#a220705p3)
+ - [We asked, you told us: You really don’t care for HTC’s metaverse phone](https://www.androidauthority.com/htc-metaverse-phone-poll-results-3183230/)
+ - [Report: VC funding into Indian startups was $6.9B in Q2, down from $11B in Q1; VC investments in H1 were $17.9B, up 36% YoY &lpar;The Economic Times&rpar;](http://www.techmeme.com/220705/p2#a220705p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
