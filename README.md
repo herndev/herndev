@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PowerWash Simulator is Ready to Clean Up with Game Pass](https://news.xbox.com/en-us/2022/07/05/powerwash-simulator-is-here-to-clean-up-with-game-pass/)
- - [What you need to remember before watching Thor: Love and Thunder](https://www.polygon.com/23189669/thor-love-and-thunder-what-to-watch-remember)
- - [Red Dead Redemption, GTA IV Remasters Shelved After GTA Trilogy Debacle](https://kotaku.com/gta-iv-remastered-red-dead-redemption-canceled-rockstar-1849142371)<!-- GAME:END -->
+ - [The Crisis Core: Final Fantasy 7 remake is changing the battle system, and I demand to see the manager](https://www.pcgamer.com/the-crisis-core-final-fantasy-7-remake-is-changing-the-battle-system-and-i-demand-to-see-the-manager)
+ - [The Netherlands moves toward an outright loot box ban](https://www.pcgamer.com/the-netherlands-moves-toward-an-outright-loot-box-ban)
+ - [Ubisoft Is Axing 15 More Games’ Multiplayer This Fall](https://kotaku.com/ubisoft-multiplayer-assassin-s-creed-far-cry-ghost-reco-1849143040)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
