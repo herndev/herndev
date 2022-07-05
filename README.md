@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Danish startup Onomondo, which offers an interoperable network for IoT devices in more than 180 countries, raised a $21M Series A led by Verdane &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220705/p14#a220705p14)
- - [How Landsat Chronicled 50 Years on a Changing, Fiery Planet](https://www.wired.com/story/how-landsat-chronicled-50-years-on-a-changing-fiery-planet/)
- - [Apple is preparing three new Mac Studio models](https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models?utm_medium=rss)<!-- TECH:END -->
+ - [Survey: 25% of Black American investors owned crypto at the start of 2022, compared to 15% of white investors, making them especially vulnerable to the downturn &lpar;Taylor Nicole Rogers/Financial Times&rpar;](http://www.techmeme.com/220705/p18#a220705p18)
+ - [Jackery Solar Generator 2000 Pro review: letting flex-workers flex](https://www.theverge.com/23195018/jackery-explorer-2000-solarsaga-portable-backup-price-specs)
+ - [Current Refinance Rates on Jul. 5, 2022: Rates Fall     - CNET](https://www.cnet.com/personal-finance/mortgages/current-refinance-rates-on-jul-5-2022-rates-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
