@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FIFA will track players’ bodies using AI to make offside calls at 2022 World Cup](https://www.theverge.com/2022/7/5/23195009/fifa-ai-automated-offside-ball-body-tracking-2022-qatar-world-cup)
- - [EU forces Amazon to make it easier to cancel Prime subscriptions in Europe](https://www.theverge.com/2022/7/5/23195019/amazon-prime-cancellation-europe-european-union-dark-patterns)
- - [Dubai-based digital bank YAP has raised $41M as part of a Series A, and says it plans to expand into Saudi Arabia, Egypt, Pakistan, and Ghana &lpar;Alexander Cornwell/Reuters&rpar;](http://www.techmeme.com/220705/p8#a220705p8)<!-- TECH:END -->
+ - [End-to-End Encryption&#39;s Central Role in Modern Self-Defense](https://www.wired.com/story/end-to-end-encryption-abortion-privacy/)
+ - [Genetic Screening Now Lets Parents Pick the Healthiest Embryos](https://www.wired.com/story/genetic-screening-ivf-healthiest-embryos/)
+ - [Climate Change Breaks Plant Immune Systems. Can They Be Rebooted?](https://www.wired.com/story/climate-change-breaks-plant-immune-systems-can-they-be-rebooted/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
