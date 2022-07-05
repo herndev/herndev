@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Stranger Things 5](https://www.polygon.com/23191823/everything-we-know-stranger-things-5)
- - [Stranger Things will have shorter episodes in its final season](https://www.polygon.com/stranger-things/23195085/stranger-things-season-5-length-shorter-episodes)
- - [Thor: Love and Thunder sells out its characters for jokes](https://www.polygon.com/reviews/23191901/thor-love-and-thunder-review-taika-waititi-chris-hemsworth)<!-- GAME:END -->
+ - [Players’ Choice: Vote for June 2022’s best new game](https://blog.playstation.com/2022/07/05/players-choice-vote-for-june-2022s-best-new-game/)
+ - [Players’ Choice: Vote for June 2022’s best new game](https://blog.playstation.com/2022/07/05/players-choice-vote-for-june-2022s-best-new-game/)
+ - [Overwatch 2&#39;s latest hero is an overdesigned mess](https://www.pcgamer.com/overwatch-2s-latest-hero-is-an-overdesigned-mess)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
