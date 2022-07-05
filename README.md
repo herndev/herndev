@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Speedrunner banned from charity event after faking world-record Metal Gear run](https://www.pcgamer.com/speedrunner-banned-from-charity-event-after-faking-world-record-metal-gear-run)
- - [Rockstar reportedly halts Red Dead Redemption remaster because of GTA Trilogy mess](https://www.pcgamer.com/rockstar-reportedly-halts-red-dead-redemption-remaster-because-of-gta-trilogy-mess)
- - [Ubisoft is trying to save Anno 2070 from Ubisoft](https://www.pcgamer.com/ubisoft-is-trying-to-save-anno-2070-from-ubisoft)<!-- GAME:END -->
+ - [Every Big Reveal Announced At Anime Expo 2022](https://kotaku.com/bleach-trigun-stampede-panty-stocking-anime-expo-1849144771)
+ - [To bring attention to climate change, Ubisoft will burn down virtual forests](https://www.pcgamer.com/to-bring-attention-to-climate-change-ubisoft-will-burn-down-virtual-forests)
+ - [Speedrunner banned from charity event after faking world-record Metal Gear run](https://www.pcgamer.com/speedrunner-banned-from-charity-event-after-faking-world-record-metal-gear-run)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
