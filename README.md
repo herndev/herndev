@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX is rumored to hit an insane 2.75GHz boost clock](https://www.pcgamer.com/nvidias-rtx-is-rumored-to-hit-an-insane-275ghz-boost-clock)
- - [No Man&#39;s Sky players invent their own cryptocurrency and it&#39;s worthless &lpar;but it&#39;s supposed to be&rpar;](https://www.pcgamer.com/no-mans-sky-players-invent-their-own-cryptocurrency-and-its-worthless-but-its-supposed-to-be)
- - [Here&#39;s the flashy intro to Netflix&#39;s upcoming Cyberpunk 2077 anime](https://www.pcgamer.com/heres-the-flashy-intro-to-netflixs-upcoming-cyberpunk-2077-anime)<!-- GAME:END -->
+ - [Pimax&#39;s 8k VR headsets just got a 120Hz upgrade](https://www.pcgamer.com/pimaxs-8k-vr-headsets-just-got-a-120hz-upgrade)
+ - [The Raspberry Pi Pico W brings wireless functionality to this tiny computer](https://www.pcgamer.com/the-raspberry-pi-pico-w-brings-wireless-functionality-to-this-tiny-computer)
+ - [Nvidia&#39;s RTX is rumored to hit an insane 2.75GHz boost clock](https://www.pcgamer.com/nvidias-rtx-is-rumored-to-hit-an-insane-275ghz-boost-clock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
