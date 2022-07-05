@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK signs its first data sharing deal post-Brexit, with South Korea, allowing organizations in the two countries to transfer data without restrictions &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220705/p23#a220705p23)
- - [Apple releases new firmware update for redesigned Siri Remote](https://appleinsider.com/articles/22/07/05/apple-releases-new-firmware-update-for-redesigned-siri-remote?utm_medium=rss)
- - [Amazon&#39;s Discounted Smart Thermostat Is the Prime Day Deal That Keeps On Giving     - CNET](https://www.cnet.com/deals/amazon-smart-thermostat-deal-july/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
+ - [Apps and advertisers are coming for your lock screen, and it’s going to be exhausting](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
+ - [NIST selects four encryption algorithms designed to withstand future quantum computing hacking threats to be part of its post-quantum cryptographic standard &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/220705/p24#a220705p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
