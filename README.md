@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Is Now Officially A Revolving Door For Big Games](https://kotaku.com/xbox-game-pass-july-2022-yakuza-0-kiwami-2-1849142256)
- - [Celebrate Disability Pride, Uplift Gaming and Disability Communities and Creators with Team Xbox](https://news.xbox.com/en-us/2022/07/05/team-xbox-celebrates-disability-pride/)
- - [Solo Leveling anime trailer reveals 2023 release date](https://www.polygon.com/23193750/solo-leveling-anime-trailer-release-date-2023-crunchyroll)<!-- GAME:END -->
+ - [Nickelodeon and Smite collide in an all-new crossover, live July 12](https://blog.playstation.com/2022/07/05/nickelodeon-and-smite-collide-in-an-all-new-crossover-live-july-12/)
+ - [Nickelodeon and Smite collide in an all-new crossover, live July 12](https://blog.playstation.com/2022/07/05/nickelodeon-and-smite-collide-in-an-all-new-crossover-live-july-12/)
+ - [Cult, camp zombie game Lollipop Chainsaw is getting a remake](https://www.polygon.com/23195318/lollipop-chainsaw-remake-2023-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
