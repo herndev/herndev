@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Big Reveal Announced At Anime Expo 2022](https://kotaku.com/bleach-trigun-stampede-panty-stocking-anime-expo-1849144771)
- - [To bring attention to climate change, Ubisoft will burn down virtual forests](https://www.pcgamer.com/to-bring-attention-to-climate-change-ubisoft-will-burn-down-virtual-forests)
- - [Speedrunner banned from charity event after faking world-record Metal Gear run](https://www.pcgamer.com/speedrunner-banned-from-charity-event-after-faking-world-record-metal-gear-run)<!-- GAME:END -->
+ - [Nobody thinks buying billboards to promote this NSFW Final Fantasy 14 nightclub was a good idea](https://www.pcgamer.com/nobody-thinks-buying-billboards-to-promote-this-nsfw-final-fantasy-14-nightclub-was-a-good-idea)
+ - [History&#39;s weirdest shotgun is coming to a videogame near you](https://www.pcgamer.com/historys-weirdest-shotgun-is-coming-to-a-videogame-near-you)
+ - [Why Last Call BBS is the last call for indie studio Zachtronics](https://www.pcgamer.com/why-last-call-bbs-is-the-last-call-for-indie-studio-zachtronics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
