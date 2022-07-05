@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU just pummeled Big Tech again: Here are the newest rules](https://www.androidauthority.com/digital-services-act-3183440/)
- - [Nexo, a crypto lender managing assets for ~4M users, says it&#39;s signed a term sheet to buy Vauld, which recently halted withdrawals and manages assets for ~100K &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/220705/p21#a220705p21)
- - [Apple seeds fifth developer betas of iOS 15.6, iPadOS 15.6, tvOS 15.6, watchOS 8.7](https://appleinsider.com/articles/22/07/05/apple-seeds-fifth-developer-betas-of-ios-156-ipados-156-tvos-156-watchos-87?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok is reportedly giving up on its live shopping plans in the US and Europe](https://www.theverge.com/2022/7/5/23195587/tiktok-live-shopping-expansion-europe-us)
+ - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
+ - [Xbox input lag for Apex Legends is finally fixed, two weeks later](https://www.theverge.com/2022/6/28/23171008/xbox-series-x-s-input-lag-apex-legends-respawn-ea)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
