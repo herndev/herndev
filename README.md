@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This farmer runs a sanctuary for animals, they connection they have is adorable!](http://9gag.com/gag/aXr1bpV)
+ - 💣 [Unnoticed](http://9gag.com/gag/axBwZ0K)
  - ⏩ [Why i am wasting my life ?](http://9gag.com/gag/aegw3Wb)
  - 👉 [Slow motion art](http://9gag.com/gag/a910MYZ)<!-- MEMES:END -->
 
