@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The 90&#39;s was an awesome time. Less surveillance, no Twitter, and more hand drawn anime.](http://9gag.com/gag/aLv56OM)
- - ⏩ [This dog](http://9gag.com/gag/a616mgR)
- - 👉 [Happy 60th Birthday to this Legend](http://9gag.com/gag/a81OLWp)<!-- MEMES:END -->
+ - 💣 [When the](http://9gag.com/gag/azewgbK)
+ - ⏩ [Here we go! T-Minus 60 seconds](http://9gag.com/gag/aVx5OMd)
+ - 👉 [This dog](http://9gag.com/gag/a616mgR)<!-- MEMES:END -->
 
 ---
 
