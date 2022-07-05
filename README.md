@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [The megadrought gripping the US West is increasing the scrutiny of water use by hyperscale data centers &lpar;Lisa Martine Jenkins/Protocol&rpar;](http://www.techmeme.com/220705/p3#a220705p3)
- - [We asked, you told us: You really don’t care for HTC’s metaverse phone](https://www.androidauthority.com/htc-metaverse-phone-poll-results-3183230/)
- - [Report: VC funding into Indian startups was $6.9B in Q2, down from $11B in Q1; VC investments in H1 were $17.9B, up 36% YoY &lpar;The Economic Times&rpar;](http://www.techmeme.com/220705/p2#a220705p2)<!-- TECH:END -->
+ - [Report: VC funding into Indian startups was $6.9B in Q2, down from $11B in Q1; VC investments in H1 were $17.9B, up 36% YoY &lpar;The Economic Times&rpar;](http://www.techmeme.com/220705/p2#a220705p2)
+ - [CoinGecko: daily trading volumes at Indian crypto exchanges ZebPay, WazirX, CoinDCX have dropped 60%-87% after the 1% transaction tax became effective on July 1 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220705/p1#a220705p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
