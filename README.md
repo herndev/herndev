@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moderate lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
- - [Apple is preparing three new M2 Macs](https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models?utm_medium=rss)
- - [Xbox 360 games will no longer be part of Xbox Games with Gold in October](https://www.theverge.com/2022/7/5/23195244/xbox-games-with-gold-xbox-360-games-end)<!-- TECH:END -->
+ - [Go read this story about the guy behind RadioShack’s insane, sex-crazed Twitter account](https://www.theverge.com/2022/7/5/23195313/radioshack-twitter-account-sex-meme-stock)
+ - [Apple iPhone 14 Release Date: What We Know So Far     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-release-date-what-we-know-so-far/#ftag=CAD590a51e)
+ - [HTC quietly announced a new Android tablet — and nobody noticed](https://www.theverge.com/2022/7/5/23195248/htc-android-tablet-a101-africa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
