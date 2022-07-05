@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Have you heard the one about the crab and the underwater volcano?](https://www.theverge.com/2022/7/5/23191365/crab-underwater-volcano-seamount-seismometer-research)
- - [Research: Amazon, Microsoft, and Google accounted for 65% of the $53B in global cloud spending in Q1 2022, up from 52% in 2018 &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220705/p19#a220705p19)
- - [Moderate lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [Moderate lead times suggest better than forecasted June quarter, analyst says](https://appleinsider.com/articles/22/07/05/moderate-lead-times-suggest-better-than-forecasted-june-quarter-analyst-says?utm_medium=rss)
+ - [Apple is preparing three new M2 Macs](https://appleinsider.com/articles/22/07/05/apple-is-preparing-three-new-mac-studio-models?utm_medium=rss)
+ - [Xbox 360 games will no longer be part of Xbox Games with Gold in October](https://www.theverge.com/2022/7/5/23195244/xbox-games-with-gold-xbox-360-games-end)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
