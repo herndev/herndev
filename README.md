@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google releases a Chrome update for Windows to address a high-severity zero-day vulnerability exploited in the wild, its fourth Chrome zero-day patch in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220704/p14#a220704p14)
- - [Best Graphics Card for Gamers and Creatives in 2022     - CNET](https://www.cnet.com/tech/gaming/best-graphics-card/#ftag=CAD590a51e)
- - [What to Know About Novavax     - CNET](https://www.cnet.com/health/medical/what-to-know-about-novavax/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-tonight/#ftag=CAD590a51e)
+ - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
+ - [YouTube, Instagram, Discord appear to pull pages belonging to Illinois shooting person of interest](https://www.theverge.com/2022/7/4/23194750/youtube-discord-instagram-chicago-shooting-ban-robert-crimo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
