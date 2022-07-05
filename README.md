@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-tonight/#ftag=CAD590a51e)
- - [&#39;Doctor Strange 2&#39;: Post-Credits Scenes&#39; Cameo, Classic Sam Raimi Nod Explained     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-post-credits-scenes-cameo-classic-sam-raimi-nod-explained/#ftag=CAD590a51e)
- - [YouTube, Instagram, Discord appear to pull pages belonging to Illinois shooting person of interest](https://www.theverge.com/2022/7/4/23194750/youtube-discord-instagram-chicago-shooting-ban-robert-crimo)<!-- TECH:END -->
+ - [&#39;Doctor Strange 2&#39; Illuminati Explained: What Happens to This Marvel Movie&#39;s Elite Heroes?     - CNET](https://www.cnet.com/culture/entertainment/doctor-strange-2-illuminati-explained-what-happens-to-this-marvel-movies-elite-heroes/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-tonight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
