@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)
- - [Apps and advertisers are coming for your lock screen, and it’s going to be exhausting](https://www.theverge.com/2022/7/5/23195827/lockscreen-content-apple-ios-16-glance)
- - [NIST selects four encryption algorithms designed to withstand future quantum computing hacking threats to be part of its post-quantum cryptographic standard &lpar;Derek B. Johnson/SC Media&rpar;](http://www.techmeme.com/220705/p24#a220705p24)<!-- TECH:END -->
+ - [Sources: the US is lobbying the Netherlands to ban ASML from selling some of its some of its older deep ultraviolet lithography systems to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/220705/p26#a220705p26)
+ - [The Senate Intelligence Committee asks the FTC to investigate whether TikTok misled lawmakers about China-based ByteDance employees accessing American user data &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220705/p25#a220705p25)
+ - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
