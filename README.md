@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon and Smite collide in an all-new crossover, live July 12](https://blog.playstation.com/2022/07/05/nickelodeon-and-smite-collide-in-an-all-new-crossover-live-july-12/)
- - [Nickelodeon and Smite collide in an all-new crossover, live July 12](https://blog.playstation.com/2022/07/05/nickelodeon-and-smite-collide-in-an-all-new-crossover-live-july-12/)
- - [Cult, camp zombie game Lollipop Chainsaw is getting a remake](https://www.polygon.com/23195318/lollipop-chainsaw-remake-2023-announcement)<!-- GAME:END -->
+ - [PowerWash Simulator is Ready to Clean Up with Game Pass](https://news.xbox.com/en-us/2022/07/05/powerwash-simulator-is-here-to-clean-up-with-game-pass/)
+ - [What you need to remember before watching Thor: Love and Thunder](https://www.polygon.com/23189669/thor-love-and-thunder-what-to-watch-remember)
+ - [Red Dead Redemption, GTA IV Remasters Shelved After GTA Trilogy Debacle](https://kotaku.com/gta-iv-remastered-red-dead-redemption-canceled-rockstar-1849142371)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
