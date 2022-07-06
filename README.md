@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto exchange Bitstamp cancels plans to charge a monthly &amp;euro;10 fee for inactive non-US accounts, five days after announcing them &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220706/p22#a220706p22)
- - [Sorry, so LimeWire is now a dumping ground for celebrity NFTs?](https://www.theverge.com/2022/7/6/23197146/limewire-nfts-marketplace-soulja-boy-travis-barker)
- - [Amazon Prime Day 2022: the latest news, deals, and coverage](https://www.theverge.com/23191701/amazon-prime-day-2022-deals-news-date-time-retailer-sales)<!-- TECH:END -->
+ - [The gang’s all back in Clerks III’s first trailer](https://www.theverge.com/2022/7/6/23196973/the-gangs-all-back-in-clerks-3-first-trailer-kevin-smith)
+ - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
+ - [A rumored extreme sports Apple Watch could have larger screen, ‘strong metal’ case](https://www.theverge.com/2022/7/6/23197322/apple-extreme-sports-watch-rumor-ruggedized)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
