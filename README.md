@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)
- - [Horizon Forbidden West patch adds VRR support and new ‘balanced’ graphics mode](https://www.theverge.com/2022/7/6/23196778/horizon-forbidden-west-patch-1-17-vrr-high-refresh-rate-balanced-graphics)
- - [Ubisoft&#39;s &#39;The Division: Resurgence&#39; coming to iOS soon](https://appleinsider.com/articles/22/07/06/ubisofts-the-division-resurgence-coming-to-ios-soon?utm_medium=rss)<!-- TECH:END -->
+ - [The inside story at Meta as it moves beyond Facebook](https://www.theverge.com/2022/7/6/23197067/land-of-the-giants-facebook-meta-podcast-trailer)
+ - [Senators call on FTC Chair Khan to investigate TikTok’s data security practices](https://www.theverge.com/2022/7/6/23197007/tiktok-china-data-security-ftc-probe-investigation-warner-rubio-lina-khan)
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
