@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [M2 MacBook Air preorders begin on Friday, July 8](https://appleinsider.com/articles/22/07/06/m2-macbook-air-preorders-begin-on-friday-june-8?utm_medium=rss)
- - [Apple’s new MacBook Air with M2 ships July 15th, preorders start Friday](https://www.theverge.com/2022/7/6/23167469/apple-macbook-air-m2-availability-shipping-date-preorder)
- - [Here&#39;s How You Know You&#39;re Buying an Energy-Efficient House     - CNET](https://www.cnet.com/news/heres-how-you-know-youre-buying-an-energy-efficient-house/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta makes its AI translation model, which supports 200 languages, open source, as part of its work on a &quot;universal speech translator&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220706/p15#a220706p15)
+ - [God of War: Ragnarok is launching on November 9th](https://www.theverge.com/2022/7/6/23073122/god-of-war-ragnarok-release-date-ps5-ps4)
+ - [Daily deals July 6: 35% off SanDisk 1TB microSDXC card, iPhone 11 scratch &amp; dent sale, M1 Mac mini discounted $40, more](https://appleinsider.com/articles/22/07/06/daily-deals-july-6-35-off-sandisk-1tb-microsdxc-card-iphone-11-scratch-dent-sale-m1-mac-mini-discounted-40-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
