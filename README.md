@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Matrix Awakens is being delisted on July 9, download it now](https://www.polygon.com/23196689/the-matrix-awakens-unreal-engine-5-demo-delisted-july-9)
- - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)
- - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)<!-- GAME:END -->
+ - [The Crew 2 Season 6 Episode 1 Out Now, Free Week July 7-13](https://news.xbox.com/en-us/2022/07/06/the-crew-2-season-6-episode-1-out-now-free-week-july-7-13/)
+ - [Deus Ex writer Mary DeMarle joins BioWare, working on new Mass Effect](https://www.polygon.com/23196789/mass-effect-deus-ex-narrative-designer-bioware-mary-demarle)
+ - [Why Games Give Some People Motion Sickness And What You Can Do About It](https://kotaku.com/video-game-motion-sickness-expert-tips-call-of-duty-fps-1849147209)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
