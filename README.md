@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Dig A Little Deeper](http://9gag.com/gag/aXr1XBd)
- - ⏩ [How to smuggle mobile phones into prisons.](http://9gag.com/gag/abgwbPL)
- - 👉 [How do skaters not get dizzy?](http://9gag.com/gag/a31r3yQ)<!-- MEMES:END -->
+ - ⏩ [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)
+ - 👉 [US is a shit show](http://9gag.com/gag/a11jY58)<!-- MEMES:END -->
 
 ---
 
