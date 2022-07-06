@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voyantis, which develops AI-powered tools to help marketing teams predict a customer&#39;s lifetime value, emerges from stealth with a $19M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220705/p28#a220705p28)
- - [&#39;Lightyear&#39;: Why Tim Allen Isn&#39;t the Voice of Buzz in the Toy Story Spin-Off?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-why-tim-allen-isnt-the-voice-of-buzz-in-the-toy-story-spin-off/#ftag=CAD590a51e)
- - [More People Should Watch The Best Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-sci-fi-show-on-prime-video-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: India&#39;s Enforcement Directorate on Tuesday raided Chinese smartphone maker Vivo&#39;s offices as part of an investigation into suspected money laundering &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220705/p29#a220705p29)
+ - [&#39;Thor: Love and Thunder&#39; Review: A Disappointing Taika Waititi Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-taika-waititi-marvel-encore/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39; Spinoff Won&#39;t Be About Eleven or Dustin     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-spinoff-wont-be-about-eleven-or-dustin/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
