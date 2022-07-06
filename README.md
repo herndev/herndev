@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s A16 processor to be exclusive to iPhone 14 Pro, says Kuo](https://appleinsider.com/articles/22/07/06/apples-a16-processor-to-be-exclusive-to-iphone-14-pro-says-kuo?utm_medium=rss)
- - [Meta&#39;s Stephane Kasriel says the company still plans to roll out NFT support to help creators monetize through cross-platform &quot;memberships&quot; and &quot;subscriptions&quot; &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220706/p7#a220706p7)
- - [Crypto exchange Bitstamp plans to add a &amp;euro;10/month fee for non-US accounts that are inactive for over one year with a balance below &amp;euro;200, starting August 1 &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220706/p6#a220706p6)<!-- TECH:END -->
+ - [The Best USB-C Cables for Your Phone, Tablet, or Laptop](https://www.wired.com/gallery/best-usb-c-cables/)
+ - [The Infamous 1972 Report That Warned of Civilization&#39;s Collapse](https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse/)
+ - [Permanent Birth Control Is in Demand in the US—but Hard to Get](https://www.wired.com/story/permanent-birth-control-iuds-post-roe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
