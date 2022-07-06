@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [++ inflation](http://9gag.com/gag/amgwrov)
- - ⏩ [As we learn new things](http://9gag.com/gag/aRrdeZ5)
- - 👉 [Ahhh-the-golden-age-of-youtubewhere-did-it-all-go-wrong](http://9gag.com/gag/aLv5DQP)<!-- MEMES:END -->
+ - 💣 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps](http://9gag.com/gag/a0Zqjxv)
+ - ⏩ [Whyte Peepo](http://9gag.com/gag/apgwLBM)
+ - 👉 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
 
 ---
 
