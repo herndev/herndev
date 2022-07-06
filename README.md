@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #382: Wednesday, July 6](https://www.pcgamer.com/wordle-today-july-6-382-answer-hint)
- - [How to complete the Nullifying Reconciliation challenge in Destiny 2](https://www.pcgamer.com/destiny-2-nullifying-reconciliation)
- - [The best loadouts and class setups for Warzone Season 4](https://www.pcgamer.com/best-warzone-loadout-season-4)<!-- GAME:END -->
+ - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
+ - [DNF Duel review](https://www.pcgamer.com/dnf-duel-review)
+ - [Pi-powered Cyberdecks are the retro futuristic PCs of our dreams](https://www.pcgamer.com/pi-powered-cyberdecks-are-the-retro-futuristic-pcs-of-our-dreams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
