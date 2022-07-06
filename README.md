@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to complete the Millicent quest in Elden Ring](https://www.pcgamer.com/elden-ring-millicent-quest)
- - [DNF Duel review](https://www.pcgamer.com/dnf-duel-review)
- - [Pi-powered Cyberdecks are the retro futuristic PCs of our dreams](https://www.pcgamer.com/pi-powered-cyberdecks-are-the-retro-futuristic-pcs-of-our-dreams)<!-- GAME:END -->
+ - [God Of War Ragnarök Release Date Finally Confirmed](https://kotaku.com/god-of-war-ragnarok-santa-monica-studio-sony-ps5-1849146462)
+ - [God of War Ragnarok launches in November, watch the new trailer](https://www.polygon.com/23068988/god-of-war-ragnarok-release-date-ps5-ps4)
+ - [God of War Ragnarök Collector’s Edition unboxing](https://blog.playstation.com/2022/07/06/god-of-war-ragnarok-collectors-edition-unboxing/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
