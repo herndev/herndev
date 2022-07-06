@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saw it for my first time today. Highly recommended](http://9gag.com/gag/angwyyq)
- - ⏩ [I&#39;m a He/His white privileged cis](http://9gag.com/gag/adgwXm2)
- - 👉 [++ inflation](http://9gag.com/gag/amgwrov)<!-- MEMES:END -->
+ - 💣 [++ inflation](http://9gag.com/gag/amgwrov)
+ - ⏩ [As we learn new things](http://9gag.com/gag/aRrdeZ5)
+ - 👉 [Ahhh-the-golden-age-of-youtubewhere-did-it-all-go-wrong](http://9gag.com/gag/aLv5DQP)<!-- MEMES:END -->
 
 ---
 
