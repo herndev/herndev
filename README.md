@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the US is lobbying the Netherlands to ban ASML from selling some of its some of its older deep ultraviolet lithography systems to China &lpar;Bloomberg&rpar;](http://www.techmeme.com/220705/p26#a220705p26)
- - [The Senate Intelligence Committee asks the FTC to investigate whether TikTok misled lawmakers about China-based ByteDance employees accessing American user data &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220705/p25#a220705p25)
- - [Shows like The Terminal List on Amazon Prime Video](https://www.androidauthority.com/shows-like-the-terminal-list-amazon-prime-video-3183220/)<!-- TECH:END -->
+ - [After Stranger Things, More People Should Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/after-stranger-things-you-should-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [&#39;Lightyear&#39;: Why Tim Allen Isn&#39;t the Voice of Buzz in the Toy Story Spin-Off?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-why-tim-allen-isnt-the-voice-of-buzz-in-the-toy-story-spin-off/#ftag=CAD590a51e)
+ - [Hyundai teases N Day 2022, new performance EVs on July 14     - CNET](https://www.cnet.com/roadshow/news/hyundai-n-day-2022-teaser-performance-evs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
