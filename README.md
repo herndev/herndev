@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let there be light](http://9gag.com/gag/a41ydOy)
- - ⏩ [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)
- - 👉 [That confidence](http://9gag.com/gag/avAwgjE)<!-- MEMES:END -->
+ - 💣 [US is a shit show](http://9gag.com/gag/a11jY58)
+ - ⏩ [He is a great man](http://9gag.com/gag/aqGw24Y)
+ - 👉 [Guess the country!](http://9gag.com/gag/aggwN66)<!-- MEMES:END -->
 
 ---
 
