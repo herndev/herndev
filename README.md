@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oscar](http://9gag.com/gag/a5137eV)
- - ⏩ [Police searching bus for Shooter](http://9gag.com/gag/aggwNWw)
- - 👉 [How to smuggle mobile phones into prisons.](http://9gag.com/gag/abgwbPL)<!-- MEMES:END -->
+ - 💣 [How to smuggle mobile phones into prisons.](http://9gag.com/gag/abgwbPL)
+ - ⏩ [That look you give a slow driver in the fast lane when you pass them on the right](http://9gag.com/gag/a21pm6p)
+ - 👉 [Whyte Peepo](http://9gag.com/gag/apgwLBM)<!-- MEMES:END -->
 
 ---
 
