@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Stranger Things, More People Should Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/after-stranger-things-you-should-watch-the-best-show-on-netflix/#ftag=CAD590a51e)
+ - [Voyantis, which develops AI-powered tools to help marketing teams predict a customer&#39;s lifetime value, emerges from stealth with a $19M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220705/p28#a220705p28)
  - [&#39;Lightyear&#39;: Why Tim Allen Isn&#39;t the Voice of Buzz in the Toy Story Spin-Off?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-why-tim-allen-isnt-the-voice-of-buzz-in-the-toy-story-spin-off/#ftag=CAD590a51e)
- - [Hyundai teases N Day 2022, new performance EVs on July 14     - CNET](https://www.cnet.com/roadshow/news/hyundai-n-day-2022-teaser-performance-evs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Should Watch The Best Sci-Fi Show on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-best-sci-fi-show-on-prime-video-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
