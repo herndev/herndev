@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hugely Popular Macross Anime Finally Scores U.S. Video Release](https://kotaku.com/macross-plus-anime-expo-bigwest-blu-ray-release-u-s-1849147586)
- - [Sonic co-creator erases other Sonic co-creator from old photo](https://www.pcgamer.com/sonic-co-creator-erases-other-sonic-co-creator-from-old-photo)
- - [Here&#39;s what 1,400 people singing Final Fantasy 14&#39;s &#39;Close in the Distance&#39; sounds like](https://www.pcgamer.com/heres-what-1400-people-singing-final-fantasy-14s-close-in-the-distance-sounds-like)<!-- GAME:END -->
+ - [Tom Clancy’s The Division goes mobile with its next game](https://www.polygon.com/23197037/tom-clancys-the-division-mobile-game-resurgence-release-date-free-to-play)
+ - [Rocket League Celebrates Seven Years of Soccar with the Birthday Ball Event](https://news.xbox.com/en-us/2022/07/06/rocket-league-celebrates-seven-years-of-soccar-with-the-birthday-ball-event/)
+ - [Wild Rift’s next patch adds more League of Legends champions and magical girls](https://www.polygon.com/2022/7/6/23197000/league-of-legends-wild-rift-patch-shining-bright-additions-champions-skins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
