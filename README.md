@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things Creators Are Making A New Live-Action Death Note For Netflix](https://kotaku.com/death-note-netflix-stranger-things-duffer-brothers-1849148519)
- - [The ‘GentleMinions’ trend, explained](https://www.polygon.com/23196860/minions-rise-of-gru-gentleminions-yeat-tiktok-trend-meme)
- - [We get crafty in Clay-O-Rama, a messy, hands-on tabletop RPG](https://www.polygon.com/23178451/overboard-clay-o-rama-dungeons-and-dragons-rpg)<!-- GAME:END -->
+ - [The Forspoken delay also means we probably won&#39;t get to test Microsoft&#39;s super-fast DirectStorage tech this year](https://www.pcgamer.com/the-forspoken-delay-also-means-we-probably-wont-get-to-test-microsofts-super-fast-directstorage-tech-this-year)
+ - [Who is Kamran, the MCU’s newest superpowered kid?](https://www.polygon.com/23196742/ms-marvel-kamran-powers-origin-marvel-comics)
+ - [17 ways to get your summer camp fix through video games](https://www.polygon.com/23168263/summer-camp-games-gift-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
