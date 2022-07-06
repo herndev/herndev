@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Crew 2 Season 6 Episode 1 Out Now, Free Week July 7-13](https://news.xbox.com/en-us/2022/07/06/the-crew-2-season-6-episode-1-out-now-free-week-july-7-13/)
- - [Deus Ex writer Mary DeMarle joins BioWare, working on new Mass Effect](https://www.polygon.com/23196789/mass-effect-deus-ex-narrative-designer-bioware-mary-demarle)
- - [Why Games Give Some People Motion Sickness And What You Can Do About It](https://kotaku.com/video-game-motion-sickness-expert-tips-call-of-duty-fps-1849147209)<!-- GAME:END -->
+ - [Hugely Popular Macross Anime Finally Scores U.S. Video Release](https://kotaku.com/macross-plus-anime-expo-bigwest-blu-ray-release-u-s-1849147586)
+ - [Sonic co-creator erases other Sonic co-creator from old photo](https://www.pcgamer.com/sonic-co-creator-erases-other-sonic-co-creator-from-old-photo)
+ - [Here&#39;s what 1,400 people singing Final Fantasy 14&#39;s &#39;Close in the Distance&#39; sounds like](https://www.pcgamer.com/heres-what-1400-people-singing-final-fantasy-14s-close-in-the-distance-sounds-like)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
