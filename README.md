@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Google halts Play Store updates to KakaoTalk, a popular messaging app in South Korea, after Kakao continued using an external payment link in its app &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220706/p1#a220706p1)
  - [Samsung is one step closer to releasing One UI 5 beta on Galaxy S22 series](https://www.androidauthority.com/samsung-one-ui-5-release-schedule-3183619/)
- - [SiteGround Opens New Data Center in Spain     - CNET](https://www.cnet.com/tech/services-and-software/siteground-opens-new-data-center-in-spain/#ftag=CAD590a51e)
- - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license is back on sale for $39.99](https://appleinsider.com/articles/22/07/06/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-on-sale-for-3999?utm_medium=rss)<!-- TECH:END -->
+ - [Google Doodle Celebrates Native American Comedian Charlie Hill     - CNET](https://www.cnet.com/culture/internet/google-doodle-celebrates-native-american-comedian-charlie-hill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
