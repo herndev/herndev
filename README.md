@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Google halts Play Store updates to KakaoTalk, a popular messaging app in South Korea, after Kakao continued using an external payment link in its app &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220706/p1#a220706p1)
- - [Samsung is one step closer to releasing One UI 5 beta on Galaxy S22 series](https://www.androidauthority.com/samsung-one-ui-5-release-schedule-3183619/)
- - [Google Doodle Celebrates Native American Comedian Charlie Hill     - CNET](https://www.cnet.com/culture/internet/google-doodle-celebrates-native-american-comedian-charlie-hill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Toronto-based crypto lender Voyager Digital files for Chapter 11 bankruptcy protection in New York, estimating it has 100,000 creditors and $1B-$10B in assets &lpar;CoinDesk&rpar;](http://www.techmeme.com/220706/p2#a220706p2)
+ - [Poll: How many years of security patches should smartphone makers provide?](https://www.androidauthority.com/android-security-updates-poll-3183626/)
+ - [Report: Google halts Play Store updates to KakaoTalk, a popular messaging app in South Korea, after Kakao continued using an external payment link in its app &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220706/p1#a220706p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
