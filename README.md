@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK proposes an Online Safety Bill amendment that would force tech firms to scan for and remove CSAM or be fined up to &amp;pound;18M or 10% of their annual turnover &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220705/p30#a220705p30)
- - [Sources: India&#39;s Enforcement Directorate on Tuesday raided Chinese smartphone maker Vivo&#39;s offices as part of an investigation into suspected money laundering &lpar;Aditya Kalra/Reuters&rpar;](http://www.techmeme.com/220705/p29#a220705p29)
- - [&#39;Thor: Love and Thunder&#39; Review: A Disappointing Taika Waititi Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointing-taika-waititi-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lifetime Microsoft Office for Mac Home &amp; Business 2021 license is back on sale for $39.99](https://appleinsider.com/articles/22/07/06/lifetime-microsoft-office-for-mac-home-business-2021-license-is-back-on-sale-for-3999?utm_medium=rss)
+ - [NASA Loses Contact With Moon Probe, Delays Trajectory Correction Maneuver     - CNET](https://www.cnet.com/science/space/nasa-loses-contact-with-moon-probe-delays-trajectory-correction-maneuver/#ftag=CAD590a51e)
+ - [The UK proposes an Online Safety Bill amendment that would force tech firms to scan for and remove CSAM or be fined up to &amp;pound;18M or 10% of their annual turnover &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220705/p30#a220705p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
