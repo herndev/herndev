@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The gang’s all back in Clerks III’s first trailer](https://www.theverge.com/2022/7/6/23196973/the-gangs-all-back-in-clerks-3-first-trailer-kevin-smith)
- - [Here are the best tablet deals right now](https://www.theverge.com/good-deals/22916033/best-tablet-deals)
- - [A rumored extreme sports Apple Watch could have larger screen, ‘strong metal’ case](https://www.theverge.com/2022/7/6/23197322/apple-extreme-sports-watch-rumor-ruggedized)<!-- TECH:END -->
+ - [Seattle-based Flexe, which provides software that allows retailers to optimize their supply chains, raised a $119M Series D at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220706/p27#a220706p27)
+ - [A look at the decline of Yandex, which has been pushing Russian propaganda thanks to new laws and sank in value from $31B+ in 2021 to &lt;$7B after the invasion &lpar;Neil MacFarquhar/New York Times&rpar;](http://www.techmeme.com/220706/p26#a220706p26)
+ - [Voyager Digital files for Chapter 11 bankruptcy, estimating it has 100K+ creditors and $1B-$10B in assets; Bankman-Fried&#39;s Alameda Research is its main creditor &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/220706/p25#a220706p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
