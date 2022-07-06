@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best USB-C Cables for Your Phone, Tablet, or Laptop](https://www.wired.com/gallery/best-usb-c-cables/)
- - [The Infamous 1972 Report That Warned of Civilization&#39;s Collapse](https://www.wired.com/story/the-infamous-1972-report-that-warned-of-civilizations-collapse/)
- - [Permanent Birth Control Is in Demand in the US—but Hard to Get](https://www.wired.com/story/permanent-birth-control-iuds-post-roe/)<!-- TECH:END -->
+ - [M2 MacBook Air preorders begin on Friday, July 8](https://appleinsider.com/articles/22/07/06/m2-macbook-air-preorders-begin-on-friday-june-8?utm_medium=rss)
+ - [Apple’s new MacBook Air with M2 ships July 15th, preorders start Friday](https://www.theverge.com/2022/7/6/23167469/apple-macbook-air-m2-availability-shipping-date-preorder)
+ - [Here&#39;s How You Know You&#39;re Buying an Energy-Efficient House     - CNET](https://www.cnet.com/news/heres-how-you-know-youre-buying-an-energy-efficient-house/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
