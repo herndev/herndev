@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The inside story at Meta as it moves beyond Facebook](https://www.theverge.com/2022/7/6/23197067/land-of-the-giants-facebook-meta-podcast-trailer)
- - [Senators call on FTC Chair Khan to investigate TikTok’s data security practices](https://www.theverge.com/2022/7/6/23197007/tiktok-china-data-security-ftc-probe-investigation-warner-rubio-lina-khan)
- - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)<!-- TECH:END -->
+ - [Games Done Quick bans Metal Gear speedrunner for faking world record](https://www.theverge.com/2022/7/6/23196836/summer-games-done-quick-cheating-metal-gear-rising-revengeance)
+ - [How to manage camera and microphone permissions on iPhone and iPad](https://appleinsider.com/inside/iphone/tips/how-to-manage-camera-and-microphone-permissions-on-iphone-and-ipad?utm_medium=rss)
+ - [The Division mobile game gets a name and a trailer](https://www.theverge.com/2022/7/6/23197015/the-division-resurgence-mobile-game-trailer-ubisoft-free-to-play)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
