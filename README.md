@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel&#39;s 13th Gen Raptor Lake specs have leaked, and its bad news for PCIe 5.0 SSDs?](https://www.pcgamer.com/intels-13th-gen-raptor-lake-specs-have-leaked-and-its-bad-news-for-pcie-50-ssds)
- - [Even with the power of 25 3080s, this Ethereum mining ASIC will soon be useless](https://www.pcgamer.com/even-with-the-power-of-25-3080s-this-ethereum-mining-asic-will-soon-be-useless)
- - [In Immortal Empires, Total War: Warhammer&#39;s vampire couple are &#39;staying together in undead matrimony&#39;](https://www.pcgamer.com/in-immortal-empires-total-war-warhammers-vampire-couple-are-staying-together-in-undead-matrimony)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #382: Wednesday, July 6](https://www.pcgamer.com/wordle-today-july-6-382-answer-hint)
+ - [How to complete the Nullifying Reconciliation challenge in Destiny 2](https://www.pcgamer.com/destiny-2-nullifying-reconciliation)
+ - [The best loadouts and class setups for Warzone Season 4](https://www.pcgamer.com/best-warzone-loadout-season-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
