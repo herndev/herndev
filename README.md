@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ave!](http://9gag.com/gag/angwXAL)
- - ⏩ [Something went wrong at CERN today](http://9gag.com/gag/aogwZ4w)
- - 👉 [Rich white woman hard life](http://9gag.com/gag/a616yLL)<!-- MEMES:END -->
+ - 💣 [That confidence](http://9gag.com/gag/avAwgjE)
+ - ⏩ [Rich white woman hard life](http://9gag.com/gag/a616yLL)
+ - 👉 [Society](http://9gag.com/gag/ay9w07W)<!-- MEMES:END -->
 
 ---
 
