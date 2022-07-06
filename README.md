@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stay wierd Japan!](http://9gag.com/gag/a11jA4P)
- - ⏩ [After ordering some shrimp, customer returned the plate like this](http://9gag.com/gag/amgw0y2)
- - 👉 [Ave!](http://9gag.com/gag/angwXAL)<!-- MEMES:END -->
+ - 💣 [Ave!](http://9gag.com/gag/angwXAL)
+ - ⏩ [Something went wrong at CERN today](http://9gag.com/gag/aogwZ4w)
+ - 👉 [Rich white woman hard life](http://9gag.com/gag/a616yLL)<!-- MEMES:END -->
 
 ---
 
