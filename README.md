@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps](http://9gag.com/gag/a0Zqjxv)
- - ⏩ [Whyte Peepo](http://9gag.com/gag/apgwLBM)
- - 👉 [So which one do you use?](http://9gag.com/gag/aPZ2MWw)<!-- MEMES:END -->
+ - 💣 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
+ - ⏩ [F*ck the new world order.](http://9gag.com/gag/aLv5M5V)
+ - 👉 [Just another day in Brasil](http://9gag.com/gag/avAwnmE)<!-- MEMES:END -->
 
 ---
 
