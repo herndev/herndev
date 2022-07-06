@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to backup your iPhone and iPad to various places](https://www.androidauthority.com/backup-iphone-ipad-3183782/)
- - [Experts say a dashboard used to manage the Shanghai police database was left exposed from April 2021 to June 2022, letting a hacker steal details on ~1B people &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220706/p17#a220706p17)
- - [The Samsung Galaxy Z Flip 3 is now the first foldable on the July 2022 patch](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)<!-- TECH:END -->
+ - [Apple’s Lockdown Mode Aims to Counter Spyware Threats](https://www.wired.com/story/apple-ios-16-lockdown-mode/)
+ - [Axie Infinity’s blockchain was reportedly hacked via a fake LinkedIn job offer](https://www.theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer)
+ - [Apple debuts new high-security Lockdown mode, $10M cybersecurity grant](https://appleinsider.com/articles/22/07/06/apple-debuts-new-high-security-lockdown-mode-10m-cybersecurity-grant?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
