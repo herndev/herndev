@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Even with the power of 25 3080s, this Ethereum mining ASIC will soon be useless](https://www.pcgamer.com/even-with-the-power-of-25-3080s-this-ethereum-mining-asic-will-soon-be-useless)
  - [In Immortal Empires, Total War: Warhammer&#39;s vampire couple are &#39;staying together in undead matrimony&#39;](https://www.pcgamer.com/in-immortal-empires-total-war-warhammers-vampire-couple-are-staying-together-in-undead-matrimony)
- - [Singleplayer Battlefield game announced in the modern style: with a job posting](https://www.pcgamer.com/singleplayer-battlefield-game-announced-in-the-modern-style-with-a-job-posting)
- - [This Week’s Deals With Gold And Spotlight Sale](https://news.xbox.com/en-us/2022/07/05/this-weeks-deals-with-gold-and-spotlight-sale/)<!-- GAME:END -->
+ - [Singleplayer Battlefield game announced in the modern style: with a job posting](https://www.pcgamer.com/singleplayer-battlefield-game-announced-in-the-modern-style-with-a-job-posting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
