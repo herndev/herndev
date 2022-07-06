@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick fixes: restoring pages of tabs on Chrome](https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to)
- - [BOE gets go-ahead for iPhone 14 OLED production despite previous panel problems](https://appleinsider.com/articles/22/07/06/boe-gets-go-ahead-for-iphone-14-oled-production-despite-previous-panel-problems?utm_medium=rss)
- - [Vizio’s Elevate soundbar with rotating speakers is $300 off](https://www.theverge.com/good-deals/2022/7/6/23196519/vizio-elevate-soundbar-atmos-chipofy-usb-c-cable-amazon-prime-day-2022-deal-sale)<!-- TECH:END -->
+ - [Japan to start jailing people for online insults](https://www.theverge.com/2022/7/6/23196593/japan-jail-online-insult-cyberbullying)
+ - [Anker&#39;s Early Amazon Prime Day Deals Save You Up to $400 on Its Nebula Projectors     - CNET](https://www.cnet.com/deals/ankers-early-amazon-prime-day-deals-save-you-up-to-400-on-its-nebula-projectors/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Activision Blizzard Takeover Under Scrutiny From UK Competition Watchdog     - CNET](https://www.cnet.com/news/politics/microsofts-activision-blizzard-takeover-under-scrutiny-from-uk-competition-watchdog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
