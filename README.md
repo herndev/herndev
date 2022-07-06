@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s Lockdown Mode Aims to Counter Spyware Threats](https://www.wired.com/story/apple-ios-16-lockdown-mode/)
- - [Axie Infinity’s blockchain was reportedly hacked via a fake LinkedIn job offer](https://www.theverge.com/2022/7/6/23196713/axie-infinity-ronin-blockchain-hack-phishing-linkedin-job-offer)
- - [Apple debuts new high-security Lockdown mode, $10M cybersecurity grant](https://appleinsider.com/articles/22/07/06/apple-debuts-new-high-security-lockdown-mode-10m-cybersecurity-grant?utm_medium=rss)<!-- TECH:END -->
+ - [How to clear your browser cache](https://www.theverge.com/23191110/browser-cache-chrome-safari-edge-how-to)
+ - [Horizon Forbidden West patch adds VRR support and new ‘balanced’ graphics mode](https://www.theverge.com/2022/7/6/23196778/horizon-forbidden-west-patch-1-17-vrr-high-refresh-rate-balanced-graphics)
+ - [Ubisoft&#39;s &#39;The Division: Resurgence&#39; coming to iOS soon](https://appleinsider.com/articles/22/07/06/ubisofts-the-division-resurgence-coming-to-ios-soon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
