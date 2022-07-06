@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God Of War Ragnarök Release Date Finally Confirmed](https://kotaku.com/god-of-war-ragnarok-santa-monica-studio-sony-ps5-1849146462)
- - [God of War Ragnarok launches in November, watch the new trailer](https://www.polygon.com/23068988/god-of-war-ragnarok-release-date-ps5-ps4)
- - [God of War Ragnarök Collector’s Edition unboxing](https://blog.playstation.com/2022/07/06/god-of-war-ragnarok-collectors-edition-unboxing/)<!-- GAME:END -->
+ - [Square Enix delays Forspoken to 2023](https://www.polygon.com/23196552/forspoken-release-date-delay-square-enix-ps5-pc)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
+ - [Splatoon 3 is getting its own stylish new Nintendo Switch in August](https://www.polygon.com/23196555/new-nintendo-switch-oled-model-splatoon-3-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
