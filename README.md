@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dig A Little Deeper](http://9gag.com/gag/aXr1XBd)
- - ⏩ [Most Dutch thing of this week](http://9gag.com/gag/amgw82d)
- - 👉 [US is a shit show](http://9gag.com/gag/a11jY58)<!-- MEMES:END -->
+ - 💣 [Oscar](http://9gag.com/gag/a5137eV)
+ - ⏩ [Avenging waifu death...](http://9gag.com/gag/aBn5ryZ)
+ - 👉 [Not a good idea, but would be funny](http://9gag.com/gag/aKm5BdN)<!-- MEMES:END -->
 
 ---
 
