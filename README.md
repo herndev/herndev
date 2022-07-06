@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta makes its AI translation model, which supports 200 languages, open source, as part of its work on a &quot;universal speech translator&quot; &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/220706/p15#a220706p15)
- - [God of War: Ragnarok is launching on November 9th](https://www.theverge.com/2022/7/6/23073122/god-of-war-ragnarok-release-date-ps5-ps4)
- - [Daily deals July 6: 35% off SanDisk 1TB microSDXC card, iPhone 11 scratch &amp; dent sale, M1 Mac mini discounted $40, more](https://appleinsider.com/articles/22/07/06/daily-deals-july-6-35-off-sandisk-1tb-microsdxc-card-iphone-11-scratch-dent-sale-m1-mac-mini-discounted-40-more?utm_medium=rss)<!-- TECH:END -->
+ - [Quick fixes: restoring pages of tabs on Chrome](https://www.theverge.com/23196510/chrome-tabs-restore-google-how-to)
+ - [BOE gets go-ahead for iPhone 14 OLED production despite previous panel problems](https://appleinsider.com/articles/22/07/06/boe-gets-go-ahead-for-iphone-14-oled-production-despite-previous-panel-problems?utm_medium=rss)
+ - [Vizio’s Elevate soundbar with rotating speakers is $300 off](https://www.theverge.com/good-deals/2022/7/6/23196519/vizio-elevate-soundbar-atmos-chipofy-usb-c-cable-amazon-prime-day-2022-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
