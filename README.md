@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix delays Forspoken to 2023](https://www.polygon.com/23196552/forspoken-release-date-delay-square-enix-ps5-pc)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)
- - [Splatoon 3 is getting its own stylish new Nintendo Switch in August](https://www.polygon.com/23196555/new-nintendo-switch-oled-model-splatoon-3-release-date-price)<!-- GAME:END -->
+ - [The Matrix Awakens is being delisted on July 9, download it now](https://www.polygon.com/23196689/the-matrix-awakens-unreal-engine-5-demo-delisted-july-9)
+ - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)
+ - [PlayStation Store: June 2022’s top downloads](https://blog.playstation.com/2022/07/06/playstation-store-june-2022s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
