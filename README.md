@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nobody thinks buying billboards to promote this NSFW Final Fantasy 14 nightclub was a good idea](https://www.pcgamer.com/nobody-thinks-buying-billboards-to-promote-this-nsfw-final-fantasy-14-nightclub-was-a-good-idea)
- - [History&#39;s weirdest shotgun is coming to a videogame near you](https://www.pcgamer.com/historys-weirdest-shotgun-is-coming-to-a-videogame-near-you)
- - [Why Last Call BBS is the last call for indie studio Zachtronics](https://www.pcgamer.com/why-last-call-bbs-is-the-last-call-for-indie-studio-zachtronics)<!-- GAME:END -->
+ - [Singleplayer Battlefield game announced in the modern style: with a job posting](https://www.pcgamer.com/singleplayer-battlefield-game-announced-in-the-modern-style-with-a-job-posting)
+ - [This Week’s Deals With Gold And Spotlight Sale](https://news.xbox.com/en-us/2022/07/05/this-weeks-deals-with-gold-and-spotlight-sale/)
+ - [Despite Backlash, Diablo Immortal Is Making A Million Dollars A Day](https://kotaku.com/diablo-immortal-earnings-1-million-blizzard-arpg-mobile-1849144951)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
