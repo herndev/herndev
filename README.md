@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Oscar](http://9gag.com/gag/a5137eV)
- - ⏩ [Avenging waifu death...](http://9gag.com/gag/aBn5ryZ)
- - 👉 [Not a good idea, but would be funny](http://9gag.com/gag/aKm5BdN)<!-- MEMES:END -->
+ - ⏩ [Classic fat girls](http://9gag.com/gag/ay9wn48)
+ - 👉 [Police searching bus for Shooter](http://9gag.com/gag/aggwNWw)<!-- MEMES:END -->
 
 ---
 
