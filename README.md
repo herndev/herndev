@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan to start jailing people for online insults](https://www.theverge.com/2022/7/6/23196593/japan-jail-online-insult-cyberbullying)
- - [Anker&#39;s Early Amazon Prime Day Deals Save You Up to $400 on Its Nebula Projectors     - CNET](https://www.cnet.com/deals/ankers-early-amazon-prime-day-deals-save-you-up-to-400-on-its-nebula-projectors/#ftag=CAD590a51e)
- - [Microsoft&#39;s Activision Blizzard Takeover Under Scrutiny From UK Competition Watchdog     - CNET](https://www.cnet.com/news/politics/microsofts-activision-blizzard-takeover-under-scrutiny-from-uk-competition-watchdog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to backup your iPhone and iPad to various places](https://www.androidauthority.com/backup-iphone-ipad-3183782/)
+ - [Experts say a dashboard used to manage the Shanghai police database was left exposed from April 2021 to June 2022, letting a hacker steal details on ~1B people &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220706/p17#a220706p17)
+ - [The Samsung Galaxy Z Flip 3 is now the first foldable on the July 2022 patch](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
