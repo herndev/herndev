@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime subscribers now get GrubHub Plus free for a year](https://www.theverge.com/2022/7/6/23196375/amazon-prime-free-grubhub-plus-food-deliveries)
- - [The Daily Authority: 📱 ROG Phone 6 is finally here](https://www.androidauthority.com/daily-authority-july-6-2022-3183620/)
- - [Toronto-based crypto lender Voyager Digital files for Chapter 11 bankruptcy protection in New York, estimating it has 100,000 creditors and $1B-$10B in assets &lpar;CoinDesk&rpar;](http://www.techmeme.com/220706/p2#a220706p2)<!-- TECH:END -->
+ - [Apple&#39;s A16 processor to be exclusive to iPhone 14 Pro, says Kuo](https://appleinsider.com/articles/22/07/06/apples-a16-processor-to-be-exclusive-to-iphone-14-pro-says-kuo?utm_medium=rss)
+ - [Meta&#39;s Stephane Kasriel says the company still plans to roll out NFT support to help creators monetize through cross-platform &quot;memberships&quot; and &quot;subscriptions&quot; &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220706/p7#a220706p7)
+ - [Crypto exchange Bitstamp plans to add a &amp;euro;10/month fee for non-US accounts that are inactive for over one year with a balance below &amp;euro;200, starting August 1 &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220706/p6#a220706p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
