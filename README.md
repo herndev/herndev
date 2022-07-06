@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equality](http://9gag.com/gag/a11jMED)
- - ⏩ [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)
- - 👉 [She&#39;s &lpar;14&rpar; retiring from life in a week and we&#39;re taking her to the parks everyday. This is her old lady tippytaps](http://9gag.com/gag/a0Zqjxv)<!-- MEMES:END -->
+ - 💣 [Oh no is it my turn next](http://9gag.com/gag/aGz5xy6)
+ - ⏩ [True Skyrim Enjoyer](http://9gag.com/gag/amgwz5v)
+ - 👉 [Let&#39;s go](http://9gag.com/gag/awz2xdx)<!-- MEMES:END -->
 
 ---
 
