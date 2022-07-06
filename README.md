@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tom Clancy’s The Division goes mobile with its next game](https://www.polygon.com/23197037/tom-clancys-the-division-mobile-game-resurgence-release-date-free-to-play)
- - [Rocket League Celebrates Seven Years of Soccar with the Birthday Ball Event](https://news.xbox.com/en-us/2022/07/06/rocket-league-celebrates-seven-years-of-soccar-with-the-birthday-ball-event/)
- - [Wild Rift’s next patch adds more League of Legends champions and magical girls](https://www.polygon.com/2022/7/6/23197000/league-of-legends-wild-rift-patch-shining-bright-additions-champions-skins)<!-- GAME:END -->
+ - [Stranger Things Creators Are Making A New Live-Action Death Note For Netflix](https://kotaku.com/death-note-netflix-stranger-things-duffer-brothers-1849148519)
+ - [The ‘GentleMinions’ trend, explained](https://www.polygon.com/23196860/minions-rise-of-gru-gentleminions-yeat-tiktok-trend-meme)
+ - [We get crafty in Clay-O-Rama, a messy, hands-on tabletop RPG](https://www.polygon.com/23178451/overboard-clay-o-rama-dungeons-and-dragons-rpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
