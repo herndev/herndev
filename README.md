@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft launch page remembers Technoblade with his avatar](https://www.polygon.com/23197377/minecraft-technoblade-youtube-launch-tribute-page)
- - [Xbox Games with Gold dropping Xbox 360 games in October](https://www.polygon.com/23197434/xbox-live-games-with-gold-free-games-xbox-360-ends-october-2022)
- - [Two Decades Later, Halo 2’s Iconic E3 Trailer Will Be Playable](https://kotaku.com/halo-2-e3-2003-demo-master-chief-collection-343-mods-1849149759)<!-- GAME:END -->
+ - [Blizzard aims to bring BlizzCon back in 2023](https://www.pcgamer.com/blizzard-aims-to-bring-blizzcon-back-in-2023)
+ - [How to watch Ubisoft&#39;s Skull and Bones gameplay reveal](https://www.pcgamer.com/how-to-watch-ubisofts-skull-and-bones-gameplay-reveal)
+ - [Diablo Immortal&#39;s first update brings a new season and battle pass, but players aren&#39;t impressed](https://www.pcgamer.com/diablo-immortals-first-update-brings-a-new-season-and-battle-pass-but-players-arent-impressed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
