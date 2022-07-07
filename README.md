@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice sign, bro](http://9gag.com/gag/aQX53Lw)
- - ⏩ [F**k this guy&#39;s property in particular!](http://9gag.com/gag/aE85xRx)
+ - 💣 [Date a NPC](http://9gag.com/gag/aAG53MR)
+ - ⏩ [.....](http://9gag.com/gag/aXr1YoV)
  - 👉 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)<!-- MEMES:END -->
 
 ---
