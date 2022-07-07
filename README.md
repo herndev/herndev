@@ -110,8 +110,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: July 7&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
  - [The FBI and MI5 issued a rare joint statement warning tech companies of China&#39;s large-scale state-sponsored hacking and a global network of agents to steal IP &lpar;Max Colchester/Wall Street Journal&rpar;](http://www.techmeme.com/220707/p1#a220707p1)
- - [A Fake Job Offer Reportedly Led to Axie Infinity&#39;s $600M Hack     - CNET](https://www.cnet.com/personal-finance/crypto/a-fake-job-offer-reportedly-led-to-axie-infinitys-600m-hack/#ftag=CAD590a51e)
  - [Jake Paul vs. Tommy Fury Is Now Cancelled     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-now-cancelled/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
