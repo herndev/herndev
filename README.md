@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Raft review](https://www.pcgamer.com/raft-review)
  - [Blizzard aims to bring BlizzCon back in 2023](https://www.pcgamer.com/blizzard-aims-to-bring-blizzcon-back-in-2023)
- - [How to watch Ubisoft&#39;s Skull and Bones gameplay reveal](https://www.pcgamer.com/how-to-watch-ubisofts-skull-and-bones-gameplay-reveal)
- - [Diablo Immortal&#39;s first update brings a new season and battle pass, but players aren&#39;t impressed](https://www.pcgamer.com/diablo-immortals-first-update-brings-a-new-season-and-battle-pass-but-players-arent-impressed)<!-- GAME:END -->
+ - [How to watch Ubisoft&#39;s Skull and Bones gameplay reveal](https://www.pcgamer.com/how-to-watch-ubisofts-skull-and-bones-gameplay-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
