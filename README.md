@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Charlie Cox and Vincent D’Onofrio reunite in Marvel’s Echo series on Disney Plus](https://www.polygon.com/23198923/charlie-cox-daredevil-vincent-donofrio-kingpin-marvel-echo-disney-plus)
- - [Crisis Core: Final Fantasy VII Remaster Retains Sephiroth’s Intense Hair Care Routine](https://kotaku.com/final-fantasy-7-ff7-crisis-core-reunion-sephiroth-hair-1849153496)
- - [New Terminator survival game tasks you with surviving Judgment Day](https://www.polygon.com/23198875/terminator-survival-game-project-teaser)<!-- GAME:END -->
+ - [Meta Quest will remove mandatory Facebook login and replace it with another one](https://www.pcgamer.com/meta-quest-will-remove-mandatory-facebook-login-and-replace-it-with-another-one)
+ - [PlayStation to remove purchased movies from users&#39; accounts in some regions](https://www.pcgamer.com/playstation-to-remove-purchased-movies-from-users-accounts-in-some-regions)
+ - [Coming out is the best thing that’s happened to Robin in a decade](https://www.polygon.com/23191897/batman-robin-queer-dc-comics-tim-drake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
