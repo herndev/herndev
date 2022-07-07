@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seattle-based Flexe, which provides software that allows retailers to optimize their supply chains, raised a $119M Series D at a $1B+ valuation &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220706/p27#a220706p27)
- - [A look at the decline of Yandex, which has been pushing Russian propaganda thanks to new laws and sank in value from $31B+ in 2021 to &lt;$7B after the invasion &lpar;Neil MacFarquhar/New York Times&rpar;](http://www.techmeme.com/220706/p26#a220706p26)
- - [Voyager Digital files for Chapter 11 bankruptcy, estimating it has 100K+ creditors and $1B-$10B in assets; Bankman-Fried&#39;s Alameda Research is its main creditor &lpar;Suvashree Ghosh/Bloomberg&rpar;](http://www.techmeme.com/220706/p25#a220706p25)<!-- TECH:END -->
+ - [A look at Intel&#39;s plan to spend &amp;euro;17B building a chipmaking factory in Magdeburg, Germany, and what it means to the city, which has struggled after reunification &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220706/p29#a220706p29)
+ - [The best Chromebook deals you can get right now](https://www.theverge.com/good-deals/22912456/best-chromebook-deals)
+ - [Cybersecurity and privacy firms, many of which raised hundreds of millions, have laid off ~1,400 workers since May; OneTrust axed 950, Lacework laid off 200 &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/220706/p28#a220706p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
