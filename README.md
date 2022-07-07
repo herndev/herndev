@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
- - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
- - [Ms. Marvel brings some much-needed everyday life into the MCU](https://www.polygon.com/23197005/ms-marvel-slice-of-life-mcu-disney-plus)<!-- GAME:END -->
+ - [DJMax Respect V Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/07/07/djmax-respect-v-available-today/)
+ - [Elden Ring devs sent their most infamous player a commemorative sword](https://www.polygon.com/23198342/elden-ring-let-me-solo-her-fromsoftware-bandai-namco-gift-box)
+ - [Yu-Gi-Oh! creator Kazuki Takahashi has died, aged 60](https://www.pcgamer.com/yu-gi-oh-creator-kazuki-takahashi-has-died-aged-60)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
