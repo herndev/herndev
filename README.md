@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hydrow Wave review: I can’t believe I love rowing now](https://www.theverge.com/23172559/hydrow-wave-review-rower-price-specs)
- - [How engineers got the world’s most powerful space telescope ready to do science](https://www.theverge.com/2022/7/7/23188300/nasa-jwst-space-telescope-mirror-alignment-commissioning-engineers)
- - [How to use Apple&#39;s ultra-secure Lockdown Mode and when you would want to](https://appleinsider.com/inside/ios-16/tips/how-to-use-apples-ultra-secure-lockdown-mode-and-when-you-would-want-to?utm_medium=rss)<!-- TECH:END -->
+ - [How to preorder the 2022 MacBook Air](https://www.theverge.com/23148516/apple-macbook-air-2022-preorder-buy-price-release-date)
+ - [China says new data export review rules for companies that have sent abroad the personal info of 100K+ users since January 1, 2021 will be effective September 1 &lpar;Reuters&rpar;](http://www.techmeme.com/220707/p12#a220707p12)
+ - [The best new streaming movies this week on Netflix, Freevee, Mubi, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
