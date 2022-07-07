@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)
- - ⏩ [No BS in my business ma\u2019am](http://9gag.com/gag/a71XM82)
- - 👉 [Priorities](http://9gag.com/gag/aWg51mx)<!-- MEMES:END -->
+ - 💣 [Nice sign, bro](http://9gag.com/gag/aQX53Lw)
+ - ⏩ [F**k this guy&#39;s property in particular!](http://9gag.com/gag/aE85xRx)
+ - 👉 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)<!-- MEMES:END -->
 
 ---
 
