@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skull and Bones Coming November 8](https://news.xbox.com/en-us/2022/07/07/skull-and-bones-coming-november-8/)
- - [Cursed to Golf, Cult of the Lamb, Sea of Stars and other cool PlayStation indies get new trailers](https://www.polygon.com/23198605/inscryption-cursed-to-golf-sea-of-stars-the-tomorrow-children-playstation-indie)
- - [This Stunning Dragon Ball Fan Film Finally Gives Vegeta His Due](https://kotaku.com/dragon-ball-z-fan-film-legend-goku-vegeta-broly-super-s-1849153117)<!-- GAME:END -->
+ - [Charlie Cox and Vincent D’Onofrio reunite in Marvel’s Echo series on Disney Plus](https://www.polygon.com/23198923/charlie-cox-daredevil-vincent-donofrio-kingpin-marvel-echo-disney-plus)
+ - [Crisis Core: Final Fantasy VII Remaster Retains Sephiroth’s Intense Hair Care Routine](https://kotaku.com/final-fantasy-7-ff7-crisis-core-reunion-sephiroth-hair-1849153496)
+ - [New Terminator survival game tasks you with surviving Judgment Day](https://www.polygon.com/23198875/terminator-survival-game-project-teaser)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
