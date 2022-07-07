@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)
- - [Apple releases full trailer for animated comedy &#39;Luck&#39;](https://appleinsider.com/articles/22/07/07/apple-releases-full-trailer-for-animated-comedy-luck?utm_medium=rss)
- - [Tech companies are too slow at preventing users from spreading videos and images that analyze and celebrate shooters, potentially inspiring future attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/220707/p5#a220707p5)<!-- TECH:END -->
+ - [FBI and MI5: ‘The Chinese government is set on stealing your technology’](https://www.theverge.com/2022/7/7/23198045/fbi-mi5-chinese-government-spying-warning)
+ - [A look at Amazon&#39;s plans to crack livestream shopping, including hosting four events to attract influencers, offering generous bonuses, and more &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220707/p6#a220707p6)
+ - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
