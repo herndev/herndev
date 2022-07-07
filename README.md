@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Sources: Elon Musk&#39;s deal to buy Twitter is in serious jeopardy as his team concluded that spam account figures aren&#39;t verifiable using Twitter&#39;s data firehose &lpar;Washington Post&rpar;](http://www.techmeme.com/220707/p22#a220707p22)<!-- TECH:END -->
+ - [Web3 projects have lost more than $2 billion to hacks this year](https://www.theverge.com/2022/7/7/23199148/web3-lost-2-billion-hacks-flash-loan-certik-cryptocurrency)
+ - [GameStop fires CFO Mike Recupero, a source says chairman Ryan Cohen pushed him out; the company is also laying off staff across departments &lpar;CNBC&rpar;](http://www.techmeme.com/220707/p25#a220707p25)
+ - [It’s looking more like Elon Musk could bail on buying Twitter](https://www.theverge.com/2022/7/7/23199137/elon-musk-twitter-spam-account-bot-data-breakup)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
