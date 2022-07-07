@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Intel&#39;s plan to spend &amp;euro;17B building a chipmaking factory in Magdeburg, Germany, and what it means to the city, which has struggled after reunification &lpar;Jillian Deutsch/Bloomberg&rpar;](http://www.techmeme.com/220706/p29#a220706p29)
- - [The best Chromebook deals you can get right now](https://www.theverge.com/good-deals/22912456/best-chromebook-deals)
- - [Cybersecurity and privacy firms, many of which raised hundreds of millions, have laid off ~1,400 workers since May; OneTrust axed 950, Lacework laid off 200 &lpar;David Uberti/Wall Street Journal&rpar;](http://www.techmeme.com/220706/p28#a220706p28)<!-- TECH:END -->
+ - [Best Internet Providers in St. Louis for 2022     - CNET](https://www.cnet.com/news/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)
+ - [FDA Puts Juul Ban on Hold     - CNET](https://www.cnet.com/health/medical/fda-puts-juul-ban-on-hold/#ftag=CAD590a51e)
+ - [Code in Meta&#39;s iPhone app for VR headsets suggests Meta&#39;s Project Cambria headset will be called the Meta Quest Pro; a source says it will cost over $1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220706/p30#a220706p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
