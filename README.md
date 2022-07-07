@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Planetarium Labs, which is building a Web3 gaming ecosystem based on Libplanet blockchain, has raised a $32M Series A led by Animoca Brands &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220706/p35#a220706p35)
- - [Cybersecurity firm Group-IB to split its international business, headquartered in Singapore, from its Russian operations, which will be &quot;completely autonomous&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p34#a220706p34)
- - [A new legal advisory from the US Office of Government Ethics bars federal workers who own crypto from working on cryptocurrency-related policy and regulation &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/220706/p33#a220706p33)<!-- TECH:END -->
+ - [The FBI and MI5 issued a rare joint statement warning tech companies of China&#39;s large-scale state-sponsored hacking and a global network of agents to steal IP &lpar;Max Colchester/Wall Street Journal&rpar;](http://www.techmeme.com/220707/p1#a220707p1)
+ - [A Fake Job Offer Reportedly Led to Axie Infinity&#39;s $600M Hack     - CNET](https://www.cnet.com/personal-finance/crypto/a-fake-job-offer-reportedly-led-to-axie-infinitys-600m-hack/#ftag=CAD590a51e)
+ - [Jake Paul vs. Tommy Fury Is Now Cancelled     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-tommy-fury-is-now-cancelled/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
