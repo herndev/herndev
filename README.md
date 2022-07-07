@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Date a NPC](http://9gag.com/gag/aAG53MR)
- - ⏩ [.....](http://9gag.com/gag/aXr1YoV)
- - 👉 [Day and night I watch videos of hair-cutting tutorials. Now I want to practice it](http://9gag.com/gag/aAG53Rg)<!-- MEMES:END -->
+ - 💣 [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)
+ - ⏩ [You can like Tom Cruise or not, but he has an amazing work ethics](http://9gag.com/gag/ajgwEjg)
+ - 👉 [Guess the country](http://9gag.com/gag/aE852Px)<!-- MEMES:END -->
 
 ---
 
