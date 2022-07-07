@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2021 game of the year Inscryption heading to PS4 and PS5 with bonus features](https://www.polygon.com/23198640/inscryption-ps4-ps5-annouced-bonus-features)
- - [Replaying God Of War Ahead Of Ragnarök? Ignore The New Game Plus](https://kotaku.com/god-of-war-2018-new-game-plus-ragnarok-ps4-ps5-sony-1849152534)
- - [What Yu-Gi-Oh Meant For Immigrant Duelists](https://kotaku.com/yugioh-kazuki-takahashi-duel-monsters-1849152770)<!-- GAME:END -->
+ - [Skull and Bones Coming November 8](https://news.xbox.com/en-us/2022/07/07/skull-and-bones-coming-november-8/)
+ - [Cursed to Golf, Cult of the Lamb, Sea of Stars and other cool PlayStation indies get new trailers](https://www.polygon.com/23198605/inscryption-cursed-to-golf-sea-of-stars-the-tomorrow-children-playstation-indie)
+ - [This Stunning Dragon Ball Fan Film Finally Gives Vegeta His Due](https://kotaku.com/dragon-ball-z-fan-film-legend-goku-vegeta-broly-super-s-1849153117)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
