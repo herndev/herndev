@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Look elegant and punch your bullies in Uniqlo’s new Spy x Family collab](https://www.polygon.com/23199143/uniqlo-spy-x-family-uniqlo-collab-fashion)
- - [Ghostrunner: Complete Edition Available Now for Xbox](https://news.xbox.com/en-us/2022/07/07/ghostrunner-complete-edition-available-now-for-xbox/)
- - [Reddit Avatars Get The NFT Treatment In Cursed Limited-Edition Campaign](https://kotaku.com/reddit-nft-blockchain-based-snoo-avatar-vault-polygon-1849154795)<!-- GAME:END -->
+ - [Steam&#39;s most wishlisted game gets knocked over by a cat](https://www.pcgamer.com/steams-most-wishlisted-game-gets-knocked-over-by-a-cat)
+ - [Look elegant and punch your bullies in Uniqlo’s new Spy x Family collab](https://www.polygon.com/23199143/spy-x-family-uniqlo-collaboration)
+ - [Ghostrunner: Complete Edition Available Now for Xbox](https://news.xbox.com/en-us/2022/07/07/ghostrunner-complete-edition-available-now-for-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
