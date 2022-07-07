@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [F*ck the new world order.](http://9gag.com/gag/aLv5M5V)
- - ⏩ [Still got the moves](http://9gag.com/gag/ay9wD0X)
- - 👉 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)<!-- MEMES:END -->
+ - ⏩ [Medieval armor](http://9gag.com/gag/aXr1Ap9)
+ - 👉 [Still got the moves](http://9gag.com/gag/ay9wD0X)<!-- MEMES:END -->
 
 ---
 
