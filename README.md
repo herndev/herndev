@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Huawei: There would only be Apple and Huawei if US didn’t intervene](https://www.androidauthority.com/huawei-apple-richard-yu-only-major-brands-3184067/)
- - [Galaxy Watch 5 leak gives best look yet at Samsung’s upcoming smartwatches](https://www.theverge.com/2022/7/7/23197992/samsung-galaxy-watch-5-leaked-renders-evan-blass)
- - [In a joint advisory, the FBI, CISA, and Treasury Department warn North Korea-backed hackers are using Maui ransomware against healthcare organizations &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220707/p3#a220707p3)<!-- TECH:END -->
+ - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)
+ - [Apple releases full trailer for animated comedy &#39;Luck&#39;](https://appleinsider.com/articles/22/07/07/apple-releases-full-trailer-for-animated-comedy-luck?utm_medium=rss)
+ - [Tech companies are too slow at preventing users from spreading videos and images that analyze and celebrate shooters, potentially inspiring future attacks &lpar;Bloomberg&rpar;](http://www.techmeme.com/220707/p5#a220707p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
