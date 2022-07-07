@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A closer look at the turn-based combat in Sea of Stars](https://blog.playstation.com/2022/07/07/a-closer-look-at-the-turn-based-combat-in-sea-of-stars/)
- - [E3 to return in 2023 with in-person event, with help from the company that runs PAX](https://www.polygon.com/23197143/e3-2023-dates-physical-event-reedpop)
- - [Yu-Gi-Oh! creator Kazuki Takahashi dies at 60](https://www.polygon.com/23198148/yu-gi-oh-creator-manga-kazuki-takahashi-death)<!-- GAME:END -->
+ - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
+ - [The Tomorrow Children: Phoenix Edition Launches September 6](https://blog.playstation.com/2022/07/07/the-tomorrow-children-phoenix-edition-launches-september-6/)
+ - [Ms. Marvel brings some much-needed everyday life into the MCU](https://www.polygon.com/23197005/ms-marvel-slice-of-life-mcu-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
