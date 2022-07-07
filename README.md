@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Internet Providers in St. Louis for 2022     - CNET](https://www.cnet.com/news/best-internet-providers-in-st-louis-mo/#ftag=CAD590a51e)
- - [FDA Puts Juul Ban on Hold     - CNET](https://www.cnet.com/health/medical/fda-puts-juul-ban-on-hold/#ftag=CAD590a51e)
- - [Code in Meta&#39;s iPhone app for VR headsets suggests Meta&#39;s Project Cambria headset will be called the Meta Quest Pro; a source says it will cost over $1,000 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220706/p30#a220706p30)<!-- TECH:END -->
+ - [Samsung forecasts an 11% YoY rise in Q2 operating profit to $10.7B, as strong demand for its memory chips from server customers offset slowing smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p32#a220706p32)
+ - [Blizzard&#39;s Mike Ybarra says it is committed to relaunching BlizzCon in 2023, after pausing plans for the fan-focused event in 2022 amid a harassment lawsuit &lpar;Todd Martens/Los Angeles Times&rpar;](http://www.techmeme.com/220706/p31#a220706p31)
+ - [&#39;The Umbrella Academy&#39; Season 3: That Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-that-ending-explained-every-question-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
