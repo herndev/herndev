@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Diabetes is no joke](http://9gag.com/gag/apgwrR8)
- - ⏩ [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
- - 👉 [At least my body can looks good](http://9gag.com/gag/aZr5gRp)<!-- MEMES:END -->
+ - 💣 [Human remains in Pompeii are not petrified bodies, they&#39;re made out of plaster that&#39;s been poured into the molds that the decayed bodies left in the volcanic ash. There are mostly skeletons in them but the rest is plaster.](http://9gag.com/gag/a513bEO)
+ - ⏩ [Give that man a comb](http://9gag.com/gag/aqGwb4P)
+ - 👉 [Perfection and a lot of free time.](http://9gag.com/gag/aOQ5zRy)<!-- MEMES:END -->
 
 ---
 
