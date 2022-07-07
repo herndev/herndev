@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best mid-tower cases in 2022](https://www.pcgamer.com/best-mid-tower-case)
- - [How to complete the Fia quest in Elden Ring](https://www.pcgamer.com/elden-ring-fia-quest-dagger-hold-you-debuff)
- - [The best PC fans in 2022](https://www.pcgamer.com/best-pc-fans)<!-- GAME:END -->
+ - [With Xenoblade Chronicles 3, Monolith Soft finally seems unconstrained](https://www.polygon.com/23197349/xenoblade-chronicles-3-preview-impressions-release-date-nintendo-switch)
+ - [How to open the secret door in Fortnite](https://www.pcgamer.com/fortnite-how-to-open-secret-door)
+ - [The best Ashes of War in Elden Ring](https://www.pcgamer.com/best-elden-ring-ashes-of-war)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
