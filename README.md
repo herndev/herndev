@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A change to the proposed UK Online Safety Bill would stop platforms like YouTube and Facebook from taking down news content before letting the publisher appeal &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220707/p17#a220707p17)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)
- - [Lewis Black sues Pandora for $10 million over copyright infringement](https://www.theverge.com/2022/7/7/23197394/lewis-black-sues-pandora-10-million-copyright-spotify)<!-- TECH:END -->
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [Sunny Balwani found guilty of defrauding Theranos investors and patients](https://www.theverge.com/2022/7/7/23198848/sunny-balwani-guilty-theranos-fraud-holmes)
+ - [Charlie Cox’s Daredevil and Vincent D’Onofrio’s Kingpin will appear in Disney Plus’ Echo series](https://www.theverge.com/2022/7/7/23198720/echo-charlie-cox-daredevil-kingpin-vincent-donofrio-mcu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
