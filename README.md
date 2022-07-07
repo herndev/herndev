@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)
- - ⏩ [You can like Tom Cruise or not, but he has an amazing work ethics](http://9gag.com/gag/ajgwEjg)
- - 👉 [Guess the country](http://9gag.com/gag/aE852Px)<!-- MEMES:END -->
+ - 💣 [Proof me wrong](http://9gag.com/gag/aegwMB5)
+ - ⏩ [What men actually want](http://9gag.com/gag/angw98q)
+ - 👉 [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)<!-- MEMES:END -->
 
 ---
 
