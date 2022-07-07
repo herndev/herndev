@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung forecasts an 11% YoY rise in Q2 operating profit to $10.7B, as strong demand for its memory chips from server customers offset slowing smartphone sales &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p32#a220706p32)
- - [Blizzard&#39;s Mike Ybarra says it is committed to relaunching BlizzCon in 2023, after pausing plans for the fan-focused event in 2022 amid a harassment lawsuit &lpar;Todd Martens/Los Angeles Times&rpar;](http://www.techmeme.com/220706/p31#a220706p31)
- - [&#39;The Umbrella Academy&#39; Season 3: That Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-that-ending-explained-every-question-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Planetarium Labs, which is building a Web3 gaming ecosystem based on Libplanet blockchain, has raised a $32M Series A led by Animoca Brands &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220706/p35#a220706p35)
+ - [Cybersecurity firm Group-IB to split its international business, headquartered in Singapore, from its Russian operations, which will be &quot;completely autonomous&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/220706/p34#a220706p34)
+ - [A new legal advisory from the US Office of Government Ethics bars federal workers who own crypto from working on cryptocurrency-related policy and regulation &lpar;Cheyenne Ligon/CoinDesk&rpar;](http://www.techmeme.com/220706/p33#a220706p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
