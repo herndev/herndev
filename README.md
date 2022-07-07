@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In honor of \u2018Yu-Gi-Oh!&#39; Manga Creator Kazuki Takahashi, I place my card face down and end my turn!](http://9gag.com/gag/aM45xZX)
+ - 💣 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
  - ⏩ [Rest in peace. James Caan. 1940-2022](http://9gag.com/gag/aWg5xYd)
- - 👉 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)<!-- MEMES:END -->
+ - 👉 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)<!-- MEMES:END -->
 
 ---
 
