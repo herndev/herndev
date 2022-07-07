@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FaZe Clan Is Going Public—Just as the Creator Economy Shifts](https://www.wired.com/story/faze-clan-going-public/)
- - [Netflix doesn’t want to hear it anymore](https://www.theverge.com/23196764/netflix-culture-ted-sarandos-employee-feedback-dave-chappelle-controversy)
- - [Sources: SoftBank&#39;s Rajeev Misra is stepping back from the organization but will remain CEO of Vision Fund 1; Misra has secured $6B+ for his own fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/220707/p7#a220707p7)<!-- TECH:END -->
+ - [Binance.US hires ex-Acorns CFO and COO Jasmine Lee as CFO, as the affiliate prepares for an IPO in the next two to three years &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220707/p9#a220707p9)
+ - [Daily deals July 7: $24 Spigen MagSafe Battery Pack, $20 off 10.2-inch iPad, 20% discount on AirPods Pro, more](https://appleinsider.com/articles/22/07/07/daily-deals-july-7-24-spigen-magsafe-battery-pack-20-off-102-inch-ipad-20-discount-on-airpods-pro-more?utm_medium=rss)
+ - [That Weird Smell in Your House Might Be Mold. Here&#39;s How to Check](https://www.wired.com/story/mold-assessment-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
