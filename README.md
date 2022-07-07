@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta Quest will remove mandatory Facebook login and replace it with another one](https://www.pcgamer.com/meta-quest-will-remove-mandatory-facebook-login-and-replace-it-with-another-one)
- - [PlayStation to remove purchased movies from users&#39; accounts in some regions](https://www.pcgamer.com/playstation-to-remove-purchased-movies-from-users-accounts-in-some-regions)
- - [Coming out is the best thing that’s happened to Robin in a decade](https://www.polygon.com/23191897/batman-robin-queer-dc-comics-tim-drake)<!-- GAME:END -->
+ - [Thor: Love and Thunder’s post-credits scene introduces some competition](https://www.polygon.com/23196904/thor-love-and-thunder-post-credits-scene-hercules-actor-brett-goldstein)
+ - [Let Me Solo Her gets an actual frikkin&#39; sword from Bandai Namco for killing Malenia 2,000 times](https://www.pcgamer.com/let-me-solo-her-gets-an-actual-frikkin-sword-from-bandai-namco-for-killing-malenia-2000-times)
+ - [GameStop Loses Executive, Does More Mass Layoffs Even As Meme Stock Surges](https://kotaku.com/gamestop-gme-stock-meme-price-layoffs-game-informer-1849154389)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
