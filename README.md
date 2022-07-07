@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Web3 projects have lost more than $2 billion to hacks this year](https://www.theverge.com/2022/7/7/23199148/web3-lost-2-billion-hacks-flash-loan-certik-cryptocurrency)
- - [GameStop fires CFO Mike Recupero, a source says chairman Ryan Cohen pushed him out; the company is also laying off staff across departments &lpar;CNBC&rpar;](http://www.techmeme.com/220707/p25#a220707p25)
- - [It’s looking more like Elon Musk could bail on buying Twitter](https://www.theverge.com/2022/7/7/23199137/elon-musk-twitter-spam-account-bot-data-breakup)<!-- TECH:END -->
+ - [Common phrases on TikTok and what they mean](https://www.androidauthority.com/tiktok-slang-trends-explained-3184350/)
+ - [Netflix will reportedly ‘help finance’ Johnny Depp’s next movie about France’s King Louis XV](https://www.theverge.com/2022/7/7/23198910/netflix-johnny-depp-la-favorite)
+ - [Glassnode: bitcoin blockchain activity has dropped 13% from November 2021 to July 2022; balances at exchanges are down 20%+ from a January 20 peak &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220707/p26#a220707p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
