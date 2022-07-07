@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)
- - ⏩ [It&#39;s a men thing](http://9gag.com/gag/ajgw9Z0)
- - 👉 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)<!-- MEMES:END -->
+ - 💣 [He looks like a well-adjusted individual](http://9gag.com/gag/avAwzxq)
+ - ⏩ [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)
+ - 👉 [It was never about the color of the skin, as long as the actress looks like the character. Cosplayers does a far better job than the studios.](http://9gag.com/gag/aKm5dbW)<!-- MEMES:END -->
 
 ---
 
