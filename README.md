@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance.US hires ex-Acorns CFO and COO Jasmine Lee as CFO, as the affiliate prepares for an IPO in the next two to three years &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220707/p9#a220707p9)
- - [Daily deals July 7: $24 Spigen MagSafe Battery Pack, $20 off 10.2-inch iPad, 20% discount on AirPods Pro, more](https://appleinsider.com/articles/22/07/07/daily-deals-july-7-24-spigen-magsafe-battery-pack-20-off-102-inch-ipad-20-discount-on-airpods-pro-more?utm_medium=rss)
- - [That Weird Smell in Your House Might Be Mold. Here&#39;s How to Check](https://www.wired.com/story/mold-assessment-tips/)<!-- TECH:END -->
+ - [Hydrow Wave review: I can’t believe I love rowing now](https://www.theverge.com/23172559/hydrow-wave-review-rower-price-specs)
+ - [How engineers got the world’s most powerful space telescope ready to do science](https://www.theverge.com/2022/7/7/23188300/nasa-jwst-space-telescope-mirror-alignment-commissioning-engineers)
+ - [How to use Apple&#39;s ultra-secure Lockdown Mode and when you would want to](https://appleinsider.com/inside/ios-16/tips/how-to-use-apples-ultra-secure-lockdown-mode-and-when-you-would-want-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
