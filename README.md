@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [Sunny Balwani found guilty of defrauding Theranos investors and patients](https://www.theverge.com/2022/7/7/23198848/sunny-balwani-guilty-theranos-fraud-holmes)
- - [Charlie Cox’s Daredevil and Vincent D’Onofrio’s Kingpin will appear in Disney Plus’ Echo series](https://www.theverge.com/2022/7/7/23198720/echo-charlie-cox-daredevil-kingpin-vincent-donofrio-mcu)<!-- TECH:END -->
+ - [Bungie is charging $284 just to ship your $185 Nerf Gjallarhorn to Canada](https://www.theverge.com/2022/7/7/23198881/bungie-nerf-gjallarhorn-destiny-canada-shipping-price)
+ - [Twitter insists it has bots handled, claims it blocks 1 million spammers every day](https://www.theverge.com/2022/7/7/23198893/twitter-million-spam-account-removals-per-day-musk-buyout)
+ - [Here’s our first look at what to expect from the Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-3184338/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
