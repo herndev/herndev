@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thor: Love and Thunder’s post-credits scene introduces some competition](https://www.polygon.com/23196904/thor-love-and-thunder-post-credits-scene-hercules-actor-brett-goldstein)
- - [Let Me Solo Her gets an actual frikkin&#39; sword from Bandai Namco for killing Malenia 2,000 times](https://www.pcgamer.com/let-me-solo-her-gets-an-actual-frikkin-sword-from-bandai-namco-for-killing-malenia-2000-times)
- - [GameStop Loses Executive, Does More Mass Layoffs Even As Meme Stock Surges](https://kotaku.com/gamestop-gme-stock-meme-price-layoffs-game-informer-1849154389)<!-- GAME:END -->
+ - [Look elegant and punch your bullies in Uniqlo’s new Spy x Family collab](https://www.polygon.com/23199143/uniqlo-spy-x-family-uniqlo-collab-fashion)
+ - [Ghostrunner: Complete Edition Available Now for Xbox](https://news.xbox.com/en-us/2022/07/07/ghostrunner-complete-edition-available-now-for-xbox/)
+ - [Reddit Avatars Get The NFT Treatment In Cursed Limited-Edition Campaign](https://kotaku.com/reddit-nft-blockchain-based-snoo-avatar-vault-polygon-1849154795)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
