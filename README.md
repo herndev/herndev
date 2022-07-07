@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bungie is charging $284 just to ship your $185 Nerf Gjallarhorn to Canada](https://www.theverge.com/2022/7/7/23198881/bungie-nerf-gjallarhorn-destiny-canada-shipping-price)
- - [Twitter insists it has bots handled, claims it blocks 1 million spammers every day](https://www.theverge.com/2022/7/7/23198893/twitter-million-spam-account-removals-per-day-musk-buyout)
- - [Here’s our first look at what to expect from the Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-3184338/)<!-- TECH:END -->
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Sources: Elon Musk&#39;s deal to buy Twitter is in serious jeopardy as his team concluded that spam account figures aren&#39;t verifiable using Twitter&#39;s data firehose &lpar;Washington Post&rpar;](http://www.techmeme.com/220707/p22#a220707p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
