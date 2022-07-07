@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Chainsaw Build PC case looks gnarly as hell](https://www.pcgamer.com/this-chainsaw-build-pc-case-looks-gnarly-as-hell)
  - [Turn your desk into a dangerous chaos Horse with this Red Dead Redemption 2 mod](https://www.pcgamer.com/turn-your-desk-into-a-dangerous-chaos-horse-with-this-red-dead-redemption-2-mod)
- - [Take-Two sends a DMCA claim over GTA5, RDR2, and Mafia VR mods](https://www.pcgamer.com/take-two-issued-a-dmca-claim-over-gta5-rdr2-and-mafia-vr-mods)
- - [Raft review](https://www.pcgamer.com/raft-review)<!-- GAME:END -->
+ - [Take-Two sends a DMCA claim over GTA5, RDR2, and Mafia VR mods](https://www.pcgamer.com/take-two-issued-a-dmca-claim-over-gta5-rdr2-and-mafia-vr-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
