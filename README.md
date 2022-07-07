@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandma showing how the trick is done](http://9gag.com/gag/aVx50DK)
- - ⏩ [What men actually want](http://9gag.com/gag/angw98q)
+ - 💣 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)
+ - ⏩ [It&#39;s a men thing](http://9gag.com/gag/ajgw9Z0)
  - 👉 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)<!-- MEMES:END -->
 
 ---
