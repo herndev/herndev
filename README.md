@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Take-Two issued a DMCA claim over GTA5, RDR2, and Mafia VR mods](https://www.pcgamer.com/take-two-issued-a-dmca-claim-over-gta5-rdr2-and-mafia-vr-mods)
  - [Raft review](https://www.pcgamer.com/raft-review)
- - [Blizzard aims to bring BlizzCon back in 2023](https://www.pcgamer.com/blizzard-aims-to-bring-blizzcon-back-in-2023)
- - [How to watch Ubisoft&#39;s Skull and Bones gameplay reveal](https://www.pcgamer.com/how-to-watch-ubisofts-skull-and-bones-gameplay-reveal)<!-- GAME:END -->
+ - [Blizzard aims to bring BlizzCon back in 2023](https://www.pcgamer.com/blizzard-aims-to-bring-blizzcon-back-in-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
