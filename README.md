@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FBI and MI5: ‘The Chinese government is set on stealing your technology’](https://www.theverge.com/2022/7/7/23198045/fbi-mi5-chinese-government-spying-warning)
- - [A look at Amazon&#39;s plans to crack livestream shopping, including hosting four events to attract influencers, offering generous bonuses, and more &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/220707/p6#a220707p6)
- - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FaZe Clan Is Going Public—Just as the Creator Economy Shifts](https://www.wired.com/story/faze-clan-going-public/)
+ - [Netflix doesn’t want to hear it anymore](https://www.theverge.com/23196764/netflix-culture-ted-sarandos-employee-feedback-dave-chappelle-controversy)
+ - [Sources: SoftBank&#39;s Rajeev Misra is stepping back from the organization but will remain CEO of Vision Fund 1; Misra has secured $6B+ for his own fund &lpar;Bloomberg&rpar;](http://www.techmeme.com/220707/p7#a220707p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
