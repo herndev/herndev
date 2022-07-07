@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 1: Everything we know so far &lpar;Updated: July 7&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)
- - [Q&amp;A with tech YouTuber Marques Brownlee on staying relevant for 10 years, monetizing videos, embracing TikTok, why Google Glass deserves a redemption, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220707/p2#a220707p2)
- - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: July 7&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)<!-- TECH:END -->
+ - [Samsung Galaxy S20 FE gets July 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
+ - [Apple has a new Lockdown Mode that’s unlike anything on Android](https://www.androidauthority.com/apple-lockdown-mode-3182061/)
+ - [Nothing Phone 1: Everything we know so far &lpar;Updated: July 7&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
