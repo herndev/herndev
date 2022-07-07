@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Grandma showing how the trick is done](http://9gag.com/gag/aVx50DK)
  - ⏩ [I cant be the only one seeing him](http://9gag.com/gag/aegwrqb)
- - 👉 [I wanted to know why he made these but I&#39;m too afraid to axe](http://9gag.com/gag/adgwLA9)<!-- MEMES:END -->
+ - 👉 [You stupid?](http://9gag.com/gag/aOQ5Ym2)<!-- MEMES:END -->
 
 ---
 
