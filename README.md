@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Microsoft’s data centers become big batteries for the grid?](https://www.theverge.com/2022/7/7/23197103/microsoft-data-center-dublin-batteries-electricity-grid-renewable-energy)
- - [Meta Quest headsets will finally stop requiring a Facebook account](https://www.theverge.com/2022/7/7/23198208/meta-quest-vr-headset-facebook-login-requirement)
- - [Inscryption is coming to console with PlayStation port](https://www.theverge.com/2022/7/7/23198449/inscryption-ps4-ps5-release)<!-- TECH:END -->
+ - [Zuckerberg gives up, will not require Facebook login for Oculus/Meta Quests](https://www.androidauthority.com/oculus-facebook-account-3184280/)
+ - [Nine ex-Wish staffers detail how deceptive experiments and low product standards drove customers away, as MAUs fell from 101M in Q1 2021 to 27M in Q1 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220707/p15#a220707p15)
+ - [These Philips Hue deals on outdoor lighting might brighten your day](https://www.theverge.com/good-deals/2022/7/7/23197499/philips-hue-lighting-hp-acer-laptop-fitbit-charge-sense-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
