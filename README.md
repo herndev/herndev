@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DJMax Respect V Available Today with Xbox Game Pass and PC Game Pass](https://news.xbox.com/en-us/2022/07/07/djmax-respect-v-available-today/)
- - [Elden Ring devs sent their most infamous player a commemorative sword](https://www.polygon.com/23198342/elden-ring-let-me-solo-her-fromsoftware-bandai-namco-gift-box)
- - [Yu-Gi-Oh! creator Kazuki Takahashi has died, aged 60](https://www.pcgamer.com/yu-gi-oh-creator-kazuki-takahashi-has-died-aged-60)<!-- GAME:END -->
+ - [2021 game of the year Inscryption heading to PS4 and PS5 with bonus features](https://www.polygon.com/23198640/inscryption-ps4-ps5-annouced-bonus-features)
+ - [Replaying God Of War Ahead Of Ragnarök? Ignore The New Game Plus](https://kotaku.com/god-of-war-2018-new-game-plus-ragnarok-ps4-ps5-sony-1849152534)
+ - [What Yu-Gi-Oh Meant For Immigrant Duelists](https://kotaku.com/yugioh-kazuki-takahashi-duel-monsters-1849152770)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
