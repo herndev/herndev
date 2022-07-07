@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [European parliament suddenly remembers that atomic power plants are `green energy`](http://9gag.com/gag/aAG53gZ)
+ - 💣 [Grandma showing how the trick is done](http://9gag.com/gag/aVx50DK)
  - ⏩ [What men actually want](http://9gag.com/gag/angw98q)
  - 👉 [Wtf is going on here...](http://9gag.com/gag/aGz5gqn)<!-- MEMES:END -->
 
