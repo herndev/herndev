@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Creator Of Yu-Gi-Oh Has Died](https://kotaku.com/yu-gi-oh-creator-kazuki-takahashi-manga-konami-died-60-1849151231)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Gigabyte Z690I Aorus Ultra Plus](https://www.pcgamer.com/gigabyte-z690i-aorus-ultra-plus)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #383: Thursday, July 7](https://www.pcgamer.com/wordle-today-july-7-383-answer-hint)
+ - [Where to find The Quarry Lost Sector in Destiny 2](https://www.pcgamer.com/destiny-2-the-quarry)
+ - [Best mechanical keyboards in 2022](https://www.pcgamer.com/best-mechanical-keyboard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
