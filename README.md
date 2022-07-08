@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk and the $44 billion Twitter buyout he’s trying to terminate](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
  - [Elon Musk files to exit $44 billion Twitter deal](https://appleinsider.com/articles/22/07/08/elon-musk-files-to-exit-44-billion-twitter-deal?utm_medium=rss)
- - [Elon Musk officially tries to bail on buying Twitter](https://www.theverge.com/2022/7/8/23200961/elon-musk-files-back-out-twitter-deal-breach-of-contract)
- - [SEC filing: Elon Musk notified Twitter he wants to end the merger agreement, claiming it didn&#39;t provide him the info he requested; stock is down 6%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220708/p17#a220708p17)<!-- TECH:END -->
+ - [Twitter says it’s going to sue Elon Musk for trying to back out of the deal](https://www.theverge.com/2022/7/8/23201004/twitter-to-sue-elon-musk-for-backing-out-of-merger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
