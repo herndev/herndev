@@ -103,7 +103,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [iam8bit: Psychonauts 2 Collector’s Edition Now Available for Pre-order](https://news.xbox.com/en-us/2022/07/07/iam8bit-psychonauts-2-collectors-edition-now-available-for-pre-order/)
+ - [Baldur&#39;s Gate 3 class guide](https://www.pcgamer.com/baldurs-gate-3-classes)
  - [Baldur&#39;s Gate 3 races guide](https://www.pcgamer.com/baldurs-gate-3-races)
  - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
