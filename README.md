@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Klonoa Phantasy Reverie Series Arrives Today for Xbox](https://news.xbox.com/en-us/2022/07/08/klonoa-phantasy-reverie-series-arrives-today-for-xbox/)
- - [Marvel Comics already has a roadmap for Jane Foster after Thor: Love and Thunder](https://www.polygon.com/23198547/thor-love-thunder-end-credits-scene-jane-death-valhalla)
- - [Destiny 2 Xur location and items, July 8-12](https://www.polygon.com/destiny-2-guide-walkthrough/2022/7/8/23200534/destiny-2-xur-location-items-july-8-12)<!-- GAME:END -->
+ - [Hearthstone Is Randomly Awarding Some Players A Ton Of Free Packs](https://kotaku.com/hearthstone-blizzard-free-packs-battle-net-sunken-city-1849158299)
+ - [George R.R. Martin has big updates on Winds of Winter and why his ending is very different from the show](https://www.polygon.com/23200605/game-of-thrones-books-ending-winds-of-winter-george-r-r-martin-song-ice-fire)
+ - [10 games we can&#39;t believe are still technically in development](https://www.pcgamer.com/10-games-we-cant-believe-are-still-technically-in-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
