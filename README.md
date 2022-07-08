@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
- - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
- - [SpaceX debuts Starlink Maritime, a yacht-focused satellite internet service with speeds up to 350 Mbps, for $5K/month and a $10K one-time hardware fee &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/220707/p28#a220707p28)<!-- TECH:END -->
+ - [A Bridge Too Far: Rotterdam Won&#39;t Dismantle Bridge for Jeff Bezos&#39; Superyacht     - CNET](https://www.cnet.com/culture/a-bridge-too-far-rotterdam-wont-dismantle-bridge-for-jeff-bezos-superyacht/#ftag=CAD590a51e)
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
+ - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
