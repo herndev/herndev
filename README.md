@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
- - [Sources say Twitter CEO Parag Agrawal has become more vocal and aggressive internally, as Twitter seems &quot;willing to go to war&quot; to make the Musk deal happen &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220708/p4#a220708p4)
- - [How to AirPlay from iPhone to Mac with macOS Monterey and iOS 15](https://appleinsider.com/articles/21/08/16/how-to-airplay-from-iphone-to-mac-with-macos-monterey-and-ios-15?utm_medium=rss)<!-- TECH:END -->
+ - [Best fitness and workout accessories for Apple Watch &amp; iPhone users](https://appleinsider.com/articles/22/07/08/best-fitness-and-workout-accessories-for-apple-watch-iphone-users?utm_medium=rss)
+ - [In a shareholder letter, Blockchain.com CEO says the exchange stands to lose about $270M in loans to Three Arrows Capital but it &quot;remains liquid, solvent&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220708/p6#a220708p6)
+ - [M1 Mac mini instances now generally available in Amazon AWS cloud service](https://appleinsider.com/articles/22/07/08/m1-mac-mini-instances-now-generally-available-in-amazon-aws-cloud-service?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
