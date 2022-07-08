@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And a big mouth](http://9gag.com/gag/angwOzb)
- - ⏩ [After an epic fish fight Michelle Bancewicz Cicale\u00a0from Seabrook, New Hampshire reels in a 643lbs &lpar;291.66 kilo&rpar; Bluefin Tuna solo on her boat `No Limits`\u00a0Oct2021](http://9gag.com/gag/aNP59p6)
+ - 💣 [Please ladies, don&#39;t do this.](http://9gag.com/gag/azewxKB)
+ - ⏩ [It was an eye roll for the ages, after Trump&#39;s signature, 30-second-long, vigorous handshake. RIP Shinzo Abe](http://9gag.com/gag/a0Zqe8n)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
