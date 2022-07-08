@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s MacBook Air with M2 processor is now available to preorder](https://appleinsider.com/articles/22/07/08/apples-macbook-air-with-m2-processor-is-now-available-to-preorder?utm_medium=rss)
- - [Some iPad mini 6 owners are seeing a charging problem after the iPadOS 15.5 update](https://appleinsider.com/articles/22/07/08/some-ipad-mini-6-have-a-charging-issue-after-the-ipados-155-update?utm_medium=rss)
- - [Apple Store is down ahead of M2 MacBook Air preorders](https://appleinsider.com/articles/22/07/08/apple-store-is-down-ahead-of-m2-macbook-air-preorders?utm_medium=rss)<!-- TECH:END -->
+ - [Epic Beatles Documentary &#39;Get Back&#39; Lands on DVD and Blu-ray Soon     - CNET](https://www.cnet.com/culture/entertainment/get-back-epic-beatles-peter-jackson-documentary-lands-dvd-blu-ray/#ftag=CAD590a51e)
+ - [A major Rogers outage is affecting 911 calls and internet access in parts of Canada](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
+ - [Keep Your Floors Spotless With Up to 31% Off Bissell Steam Cleaners     - CNET](https://www.cnet.com/deals/keep-your-floors-spotless-with-up-to-31-off-bissell-steam-cleaners/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
