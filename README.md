@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
- - [Joe Biden issues an EO calling on FTC and other agencies to examine and reinforce protections for reproductive health and other sensitive health-related data &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220708/p16#a220708p16)
- - [Right to repair: FTC forces Weber to tell grillmasters it’s OK to use third-party parts](https://www.theverge.com/2022/7/8/23200649/right-to-repair-ftc-weber-third-party-parts-warranty-act)<!-- TECH:END -->
+ - [Elon Musk files to exit $44 billion Twitter deal](https://appleinsider.com/articles/22/07/08/elon-musk-files-to-exit-44-billion-twitter-deal?utm_medium=rss)
+ - [Elon Musk officially tries to bail on buying Twitter](https://www.theverge.com/2022/7/8/23200961/elon-musk-files-back-out-twitter-deal-breach-of-contract)
+ - [SEC filing: Elon Musk notified Twitter he wants to end the merger agreement, claiming it didn&#39;t provide him the info he requested; stock is down 6%+ after hours &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/220708/p17#a220708p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
