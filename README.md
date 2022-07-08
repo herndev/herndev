@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
- - ⏩ [Tell me your night out stories please](http://9gag.com/gag/aogwKN0)
+ - 💣 [How dare they?](http://9gag.com/gag/axBwo0b)
+ - ⏩ [Shinzo Abe, former Japan prime minister, shot during speech \u2013 report](http://9gag.com/gag/aRrdrZB)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
