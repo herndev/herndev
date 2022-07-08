@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So confident in his skill](http://9gag.com/gag/aBn5ngD)
- - ⏩ [It&#39;s a men thing](http://9gag.com/gag/ajgw9Z0)
+ - 💣 [Plane taking off and plane landing try to use the same runway](http://9gag.com/gag/a61611e)
+ - ⏩ [Cool uniform](http://9gag.com/gag/aWg5gDK)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
