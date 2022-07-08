@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shinzo Abe has died](http://9gag.com/gag/aZr5Dv3)
- - ⏩ [Tons of Anarchy](http://9gag.com/gag/aogwyVn)
+ - 💣 [Tons of Anarchy](http://9gag.com/gag/aogwyVn)
+ - ⏩ [Y\u2019all share your best Boris Johnson photos](http://9gag.com/gag/a513XwL)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
