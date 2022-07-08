@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Oracle considered cost reductions of up to $1B that could result in thousands of layoffs as soon as August, mostly impacting staff in the US and Europe &lpar;The Information&rpar;](http://www.techmeme.com/220708/p15#a220708p15)
- - [Transcend JetDrive Lite review: An easy way to add local storage to the MacBook Pro](https://appleinsider.com/articles/22/07/08/transcend-jetdrive-lite-review-an-easy-way-to-add-local-storage-to-the-macbook-pro?utm_medium=rss)
- - [Brazil-based Creditas, which operates an online consumer loans service, raises $200M, bringing its total funding to $830M, and buys a Brazilian banking license &lpar;Tatiana Bautzer/Reuters&rpar;](http://www.techmeme.com/220708/p14#a220708p14)<!-- TECH:END -->
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)
+ - [Joe Biden issues an EO calling on FTC and other agencies to examine and reinforce protections for reproductive health and other sensitive health-related data &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/220708/p16#a220708p16)
+ - [Right to repair: FTC forces Weber to tell grillmasters it’s OK to use third-party parts](https://www.theverge.com/2022/7/8/23200649/right-to-repair-ftc-weber-third-party-parts-warranty-act)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
