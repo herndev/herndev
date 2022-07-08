@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: 14-inch MacBook Pro returns to $1,799 &lpar;$200 off&rpar; this weekend](https://appleinsider.com/articles/22/07/08/flash-deal-14-inch-macbook-pro-returns-to-1799-200-off-this-weekend?utm_medium=rss)
- - [Nothing Phone 1: Everything we know so far &lpar;Updated: July 8&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)
- - [The Ways Loneliness Could Be Changing Your Brain and Body     - CNET](https://www.cnet.com/science/the-ways-loneliness-could-be-changing-your-brain-and-body/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Transformers fan? This Bumblebee Edition phone might be for you.](https://www.androidauthority.com/red-magic-7s-pro-bumblebee-edition-transformers-3184038/)
+ - [How to find downloaded files on Android](https://www.androidauthority.com/find-downloads-android-3184426/)
+ - [Flash deal: 14-inch MacBook Pro returns to $1,799 &lpar;$200 off&rpar; this weekend](https://appleinsider.com/articles/22/07/08/flash-deal-14-inch-macbook-pro-returns-to-1799-200-off-this-weekend?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
