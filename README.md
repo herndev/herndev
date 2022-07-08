@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Mouse with maxed out stats](http://9gag.com/gag/aE85P99)
- - ⏩ [Rest in peace. James Caan. 1940-2022](http://9gag.com/gag/aWg5xYd)
- - 👉 [Germans in a traffic jam](http://9gag.com/gag/aWg5x2x)<!-- MEMES:END -->
+ - ⏩ [You are responsible for your own life](http://9gag.com/gag/a513R0O)
+ - 👉 [In honor of \u2018Yu-Gi-Oh!&#39; Manga Creator Kazuki Takahashi, I place my card face down and end my turn!](http://9gag.com/gag/aM45xZX)<!-- MEMES:END -->
 
 ---
 
