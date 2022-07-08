@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best fitness and workout accessories for Apple Watch &amp; iPhone users](https://appleinsider.com/articles/22/07/08/best-fitness-and-workout-accessories-for-apple-watch-iphone-users?utm_medium=rss)
- - [In a shareholder letter, Blockchain.com CEO says the exchange stands to lose about $270M in loans to Three Arrows Capital but it &quot;remains liquid, solvent&quot; &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220708/p6#a220708p6)
- - [M1 Mac mini instances now generally available in Amazon AWS cloud service](https://appleinsider.com/articles/22/07/08/m1-mac-mini-instances-now-generally-available-in-amazon-aws-cloud-service?utm_medium=rss)<!-- TECH:END -->
+ - [How to turn off automatic updates in Windows](https://www.androidauthority.com/turn-off-automatic-updates-windows-3183680/)
+ - [Arvies Imagines a World Ruled by Fetuses](https://www.wired.com/2022/07/geeks-guide-arvies-castro/)
+ - [Steve Jobs posthumously awarded Presidential Medal of Freedom](https://appleinsider.com/articles/22/07/07/steve-jobs-posthumously-awarded-presidential-medal-of-freedom?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
