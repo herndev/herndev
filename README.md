@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
- - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
- - [Google reportedly offers to shuffle ads business to avoid Justice Department lawsuit](https://www.theverge.com/2022/7/8/23200387/google-ad-auctions-spin-off-alphabet-antitrust-regulations)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-sony-apple-bose-sale)
+ - [Tether says it liquidated a loan to Celsius without incurring any losses; the bitcoin-denominated loan to Celsius was overcollateralized about 130% &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/220708/p12#a220708p12)
+ - [The FCC is trying to stop annoying auto warranty spam calls](https://www.theverge.com/2022/7/8/23200527/fcc-stop-auto-warranty-spam-calls)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
