@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former Japanese PM Shinzo Abe Shot in Reported Assassination Attempt     - CNET](https://www.cnet.com/news/politics/former-japanese-pm-shinzo-abe-shot-in-reported-assassination-attempt/#ftag=CAD590a51e)
- - [NASA condemns Russian cosmonauts displaying anti-Ukraine propaganda in space](https://www.theverge.com/2022/7/7/23199581/nasa-russia-roscosmos-cosmonauts-iss-ukraine-propaganda)
- - [A former investment manager at Celsius sues the company, saying it ran a Ponzi scheme and defrauded his company into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)<!-- TECH:END -->
+ - [Flash deal: 14-inch MacBook Pro returns to $1,799 &lpar;$200 off&rpar; this weekend](https://appleinsider.com/articles/22/07/08/flash-deal-14-inch-macbook-pro-returns-to-1799-200-off-this-weekend?utm_medium=rss)
+ - [Nothing Phone 1: Everything we know so far &lpar;Updated: July 8&rpar;](https://www.androidauthority.com/nothing-phone-1-release-date-rumors-specs-price-features-3170131/)
+ - [The Ways Loneliness Could Be Changing Your Brain and Body     - CNET](https://www.cnet.com/science/the-ways-loneliness-could-be-changing-your-brain-and-body/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
