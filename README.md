@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off automatic updates in Windows](https://www.androidauthority.com/turn-off-automatic-updates-windows-3183680/)
- - [Arvies Imagines a World Ruled by Fetuses](https://www.wired.com/2022/07/geeks-guide-arvies-castro/)
- - [Steve Jobs posthumously awarded Presidential Medal of Freedom](https://appleinsider.com/articles/22/07/07/steve-jobs-posthumously-awarded-presidential-medal-of-freedom?utm_medium=rss)<!-- TECH:END -->
+ - [Congress demands info from period tracking apps and data brokers, including policies on geofencing, as part of an investigation into reproductive health data &lpar;VICE&rpar;](http://www.techmeme.com/220708/p11#a220708p11)
+ - [Roger Goodell tries to explain why the league is launching NFL Plus](https://www.theverge.com/2022/7/8/23200219/nfl-plus-streaming-service-roger-goodell)
+ - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
