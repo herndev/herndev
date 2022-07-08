@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Year’s Best Games Finally Gets A Final Boss](https://kotaku.com/vampire-survivors-final-boss-pc-steam-itch-patch-1849156978)
- - [The Crisis Core remake’s battle system is going to be more like the Final Fantasy 7 remake&#39;s one](https://www.pcgamer.com/the-crisis-core-remakes-battle-system-is-going-to-be-more-like-the-final-fantasy-7-remakes-one)
- - [Stranger Things’ Surfer Boy Pizza number really lets you call Argyle](https://www.polygon.com/stranger-things/23200060/stranger-things-surfer-boy-pizza-number-phone-easter-egg-argyle-message)<!-- GAME:END -->
+ - [Share of the Week: Vacation](https://blog.playstation.com/2022/07/08/share-of-the-week-vacation/)
+ - [Are You Ready to Join the Adventure? Strong Moon is Coming!](https://news.xbox.com/en-us/2022/07/08/strong-moon-is-coming/)
+ - [Pokémon Puzzle League is coming to Nintendo Switch Online](https://www.polygon.com/23200232/pokemon-puzzle-league-nintendo-switch-online-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
