@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
- - [Cruise&#39;s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
- - [Could Your Old Poop Cure You of Future Diseases?](https://www.wired.com/story/could-old-poop-cure-future-diseases/)<!-- TECH:END -->
+ - [Apple&#39;s MacBook Air with M2 processor is now available to preorder](https://appleinsider.com/articles/22/07/08/apples-macbook-air-with-m2-processor-is-now-available-to-preorder?utm_medium=rss)
+ - [Some iPad mini 6 owners are seeing a charging problem after the iPadOS 15.5 update](https://appleinsider.com/articles/22/07/08/some-ipad-mini-6-have-a-charging-issue-after-the-ipados-155-update?utm_medium=rss)
+ - [Apple Store is down ahead of M2 MacBook Air preorders](https://appleinsider.com/articles/22/07/08/apple-store-is-down-ahead-of-m2-macbook-air-preorders?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
