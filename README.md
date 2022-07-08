@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Bridge Too Far: Rotterdam Won&#39;t Dismantle Bridge for Jeff Bezos&#39; Superyacht     - CNET](https://www.cnet.com/culture/a-bridge-too-far-rotterdam-wont-dismantle-bridge-for-jeff-bezos-superyacht/#ftag=CAD590a51e)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-stream-this-evening/#ftag=CAD590a51e)
- - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)<!-- TECH:END -->
+ - [A former investment manager at Celsius Network sues the company, saying it defrauded his company KeyFi into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)
+ - [No One is Buying Chris Brown&#39;s NFT Collection     - CNET](https://www.cnet.com/personal-finance/crypto/no-one-is-buying-chris-browns-nft-collection/#ftag=CAD590a51e)
+ - [Microsoft says it&#39;s rolling back its decision to block VBA macro scripts by default in Excel, PowerPoint, Access, Visio, and Word, based on the &quot;feedback&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220707/p29#a220707p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
