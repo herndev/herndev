@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where did they get this idea ..](http://9gag.com/gag/a0Zq43z)
- - ⏩ [Mmm. Onion rings](http://9gag.com/gag/aKm5EDN)
+ - 💣 [According to recent studies of Oxford university, Egg cells actually choose their sperm, the term `fastest sperm` has been debunked because even if you are the fastest sperm to reach the egg cells, it depends on the egg cell if it will accept the sperm.](http://9gag.com/gag/aWg5g3x)
+ - ⏩ [Please ladies, don&#39;t do this.](http://9gag.com/gag/azewxKB)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
