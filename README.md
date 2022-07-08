@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime subscribers now get Grubhub Plus free for a year](https://www.theverge.com/2022/7/6/23196375/amazon-prime-free-grubhub-plus-food-deliveries)
- - [Netflix deal will ‘help fund’ Johnny Depp’s next movie about France’s King Louis XV](https://www.theverge.com/2022/7/7/23198910/netflix-johnny-depp-la-favorite)
- - [&#39;Stranger Things&#39; Season 4 Ending Explained: Full Recap and Easter Eggs     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-recap-and-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The TikTok ‘blackout challenge’ has now allegedly killed seven kids](https://www.theverge.com/2022/7/7/23199058/tiktok-lawsuits-blackout-challenge-children-death)
+ - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
+ - [SpaceX debuts Starlink Maritime, a yacht-focused satellite internet service with speeds up to 350 Mbps, for $5K/month and a $10K one-time hardware fee &lpar;Andrew Mendez/TechCrunch&rpar;](http://www.techmeme.com/220707/p28#a220707p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
