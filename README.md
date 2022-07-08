@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for July 11 to 15](https://news.xbox.com/en-us/2022/07/08/next-week-on-xbox-new-games-for-july-11-to-15/)
- - [Supermassive’s horror factory rolls on: The Devil in Me will be out this fall](https://www.polygon.com/23200023/the-dark-pictures-the-devil-in-me-release-window-trailer)
- - [The 28 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
+ - [One Of The Year’s Best Games Finally Gets A Final Boss](https://kotaku.com/vampire-survivors-final-boss-pc-steam-itch-patch-1849156978)
+ - [The Crisis Core remake’s battle system is going to be more like the Final Fantasy 7 remake&#39;s one](https://www.pcgamer.com/the-crisis-core-remakes-battle-system-is-going-to-be-more-like-the-final-fantasy-7-remakes-one)
+ - [Stranger Things’ Surfer Boy Pizza number really lets you call Argyle](https://www.polygon.com/stranger-things/23200060/stranger-things-surfer-boy-pizza-number-phone-easter-egg-argyle-message)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
