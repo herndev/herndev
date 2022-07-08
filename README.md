@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Transformers fan? This Bumblebee Edition phone might be for you.](https://www.androidauthority.com/red-magic-7s-pro-bumblebee-edition-transformers-3184038/)
- - [How to find downloaded files on Android](https://www.androidauthority.com/find-downloads-android-3184426/)
- - [Flash deal: 14-inch MacBook Pro returns to $1,799 &lpar;$200 off&rpar; this weekend](https://appleinsider.com/articles/22/07/08/flash-deal-14-inch-macbook-pro-returns-to-1799-200-off-this-weekend?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation Store removes purchased movies from libraries after service shutdown](https://www.theverge.com/2022/7/8/23199861/playstation-store-film-tv-show-removed-austria-germany-studiocanal)
+ - [Tech companies&#39; offer to help employees sidestep abortion bans does not cover gig workers, temporary workers, and subcontractors, deepening the workplace divide &lpar;Caitlin Harrington/Wired&rpar;](http://www.techmeme.com/220708/p1#a220708p1)
+ - [Poll: What’s the smallest battery size you’re willing to settle for on a phone?](https://www.androidauthority.com/battery-size-phone-poll-3184464/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
