@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Initial D x Nike Dunks Are Just Lovely](https://kotaku.com/initial-d-nike-dunk-low-custom-sneaker-shoe-manga-anime-1849155392)
- - [Hearthstone players are getting up to 150 free packs as a welcome back gift](https://www.pcgamer.com/hearthstone-players-are-getting-up-to-150-free-packs-as-a-welcome-back-gift)
- - [Obscure Japanese PS1 Game Finally Available In English](https://kotaku.com/obscure-japanese-ps1-game-finally-available-in-english-1849155145)<!-- GAME:END -->
+ - [iam8bit: Psychonauts 2 Collector’s Edition Now Available for Pre-order](https://news.xbox.com/en-us/2022/07/07/iam8bit-psychonauts-2-collectors-edition-now-available-for-pre-order/)
+ - [Baldur&#39;s Gate 3 races guide](https://www.pcgamer.com/baldurs-gate-3-races)
+ - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
