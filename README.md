@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress demands info from period tracking apps and data brokers, including policies on geofencing, as part of an investigation into reproductive health data &lpar;VICE&rpar;](http://www.techmeme.com/220708/p11#a220708p11)
- - [Roger Goodell tries to explain why the league is launching NFL Plus](https://www.theverge.com/2022/7/8/23200219/nfl-plus-streaming-service-roger-goodell)
- - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)<!-- TECH:END -->
+ - [The best early Amazon Prime Day deals you can get right now](https://www.theverge.com/good-deals/23176667/amazon-prime-day-2022-best-early-deals-tech-echo-show-4k-tvs-kindles)
+ - [A major Rogers outage has cut off 25 percent of Canada’s internet traffic](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
+ - [Google reportedly offers to shuffle ads business to avoid Justice Department lawsuit](https://www.theverge.com/2022/7/8/23200387/google-ad-auctions-spin-off-alphabet-antitrust-regulations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
