@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tons of Anarchy](http://9gag.com/gag/aogwyVn)
- - ⏩ [Y\u2019all share your best Boris Johnson photos](http://9gag.com/gag/a513XwL)
+ - 💣 [And a big mouth](http://9gag.com/gag/angwOzb)
+ - ⏩ [What happened?](http://9gag.com/gag/aPZ2xnq)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
