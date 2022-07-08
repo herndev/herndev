@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring&#39;s horror is better because it&#39;s not dark and gloomy](https://www.pcgamer.com/elden-rings-horror-is-better-because-its-not-dark-and-gloomy)
- - [This might be the first decent Robocop game since the &#39;80s](https://www.pcgamer.com/this-might-be-the-first-decent-robocop-game-since-the-80s)
- - [Today&#39;s Wordle answer #384: Friday, July 8](https://www.pcgamer.com/wordle-today-july-8-384-answer-hint)<!-- GAME:END -->
+ - [Xbox Celebrates Marvel Studios’ Thor: Love and Thunder with the Goat Simulator Challenge](https://news.xbox.com/en-us/2022/07/08/xbox-celebrates-marvel-studios-thor-love-and-thunder/)
+ - [The excellent Killing Floor 2 is free on the Epic Games Store](https://www.pcgamer.com/the-excellent-killing-floor-2-is-free-on-the-epic-games-store)
+ - [Atlanta Faze apologises for misogynistic &#39;misguided tweet&#39; after backlash](https://www.pcgamer.com/atlanta-faze-apologises-for-misogynistic-misguided-tweet-after-backlash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
