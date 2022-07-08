@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way he says done after every prepping](http://9gag.com/gag/aWg5G5q)
- - ⏩ [He shall be missed](http://9gag.com/gag/aAG5yj9)
+ - 💣 [Solar energy pannel roofing.. these new designs are coming great](http://9gag.com/gag/avAwWQn)
+ - ⏩ [Shinzo Abe has died](http://9gag.com/gag/aZr5Dv3)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
