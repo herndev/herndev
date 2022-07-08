@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Starlink’s Dishy McFlatface internet now available for Boaty McBoatfaces — just $5,000 per month](https://www.theverge.com/2022/7/8/23199866/starlink-maritime-water-price-speed)
- - [Europe&#39;s Big Tech Law Is Approved. Now Comes the Hard Part](https://www.wired.com/story/digital-services-act-regulation/)
- - [PlayStation Store removes purchased movies from libraries after service shutdown](https://www.theverge.com/2022/7/8/23199861/playstation-store-film-tv-show-removed-austria-germany-studiocanal)<!-- TECH:END -->
+ - [Hollywood Critics Association Awards recognizes Apple TV+ as most nominated streaming service](https://appleinsider.com/articles/22/07/08/hollywood-critics-association-awards-recognizes-apple-tv-as-most-nominated-streaming-service?utm_medium=rss)
+ - [Cruise&#39;s Robot Car Outages Are Jamming Up San Francisco](https://www.wired.com/story/cruises-robot-car-outages/)
+ - [Could Your Old Poop Cure You of Future Diseases?](https://www.wired.com/story/could-old-poop-cure-future-diseases/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
