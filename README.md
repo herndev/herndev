@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Unveils Disney’s “Rise” Xbox Series S Travel Kit](https://news.xbox.com/en-us/2022/07/08/xbox-unveils-disneys-rise-xbox-series-s-travel-kit/)
- - [Venba Is A Gorgeous Tale About Authentic Indian Cooking, Family, And Feels](https://kotaku.com/venba-narrative-puzzle-indian-cooking-visai-studios-pc-1849158603)
- - [The Sickest Skate 4 Footage Yet Just Leaked](https://kotaku.com/skate-4-leaks-ea-early-gameplay-skateboarding-kickflip-1849159135)<!-- GAME:END -->
+ - [Vampire: The Masquerade - Bloodhunt is dropping &#39;traditional&#39; seasons to focus on faster updates](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-is-dropping-traditional-seasons-to-focus-on-faster-updates)
+ - [Finally, Skyrim has realistic rug physics—complete with tripping!](https://www.pcgamer.com/finally-skyrim-has-realistic-rug-physicscomplete-with-tripping)
+ - [The Sea Beast, Everything Everywhere All at Once, and more new movies you can watch at home](https://www.polygon.com/23195662/new-movies-watch-the-sea-beast-netflix-everything-everywhere-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
