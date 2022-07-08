@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The US seeks further restrictions on China&#39;s access to advanced chipmaking equipment](https://www.pcgamer.com/the-us-seeks-further-restrictions-on-chinas-access-to-advanced-chipmaking-equipment)
  - [Baldur&#39;s Gate 3 class guide](https://www.pcgamer.com/baldurs-gate-3-classes)
- - [Baldur&#39;s Gate 3 races guide](https://www.pcgamer.com/baldurs-gate-3-races)
- - [Baldur&#39;s Gate 3: How far can you play in Early Access, when&#39;s it likely to be done, and everything we know](https://www.pcgamer.com/baldurs-gate-3-everything-we-know)<!-- GAME:END -->
+ - [Baldur&#39;s Gate 3 races guide](https://www.pcgamer.com/baldurs-gate-3-races)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
