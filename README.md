@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Common phrases on TikTok and what they mean](https://www.androidauthority.com/tiktok-slang-trends-explained-3184350/)
- - [Netflix will reportedly ‘help finance’ Johnny Depp’s next movie about France’s King Louis XV](https://www.theverge.com/2022/7/7/23198910/netflix-johnny-depp-la-favorite)
- - [Glassnode: bitcoin blockchain activity has dropped 13% from November 2021 to July 2022; balances at exchanges are down 20%+ from a January 20 peak &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220707/p26#a220707p26)<!-- TECH:END -->
+ - [Amazon Prime subscribers now get Grubhub Plus free for a year](https://www.theverge.com/2022/7/6/23196375/amazon-prime-free-grubhub-plus-food-deliveries)
+ - [Netflix deal will ‘help fund’ Johnny Depp’s next movie about France’s King Louis XV](https://www.theverge.com/2022/7/7/23198910/netflix-johnny-depp-la-favorite)
+ - [&#39;Stranger Things&#39; Season 4 Ending Explained: Full Recap and Easter Eggs     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-ending-explained-recap-and-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
