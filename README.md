@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [NASA condemns Russian cosmonauts displaying anti-Ukraine propaganda in space](https://www.theverge.com/2022/7/7/23199581/nasa-russia-roscosmos-cosmonauts-iss-ukraine-propaganda)
  - [A former investment manager at Celsius Network sues the company, saying it defrauded his company KeyFi into providing services and refusing to pay &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220707/p30#a220707p30)
- - [No One is Buying Chris Brown&#39;s NFT Collection     - CNET](https://www.cnet.com/personal-finance/crypto/no-one-is-buying-chris-browns-nft-collection/#ftag=CAD590a51e)
- - [Microsoft says it&#39;s rolling back its decision to block VBA macro scripts by default in Excel, PowerPoint, Access, Visio, and Word, based on the &quot;feedback&quot; &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220707/p29#a220707p29)<!-- TECH:END -->
+ - [No One is Buying Chris Brown&#39;s NFT Collection     - CNET](https://www.cnet.com/personal-finance/crypto/no-one-is-buying-chris-browns-nft-collection/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
