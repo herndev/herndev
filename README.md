@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to unlock and buy houses and apartments in Final Fantasy 14](https://www.pcgamer.com/final-fantasy-14-buy-house-apartment)
  - [GameStop lays off staff and fires CFO, continues banking on blockchain](https://www.pcgamer.com/gamestop-lays-off-staff-and-fires-cfo-continues-banking-on-blockchain)
- - [The US seeks further restrictions on China&#39;s access to advanced chipmaking equipment](https://www.pcgamer.com/the-us-seeks-further-restrictions-on-chinas-access-to-advanced-chipmaking-equipment)
- - [Baldur&#39;s Gate 3 class guide](https://www.pcgamer.com/baldurs-gate-3-classes)<!-- GAME:END -->
+ - [The US seeks further restrictions on China&#39;s access to advanced chipmaking equipment](https://www.pcgamer.com/the-us-seeks-further-restrictions-on-chinas-access-to-advanced-chipmaking-equipment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
