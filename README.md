@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell me your night out stories please](http://9gag.com/gag/aogwKN0)
+ - 💣 [I&#39;m The Homelander, and I can do whatever the f**k I want.](http://9gag.com/gag/aLv5vY5)
  - ⏩ [Mmm. Onion rings](http://9gag.com/gag/aKm5EDN)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
