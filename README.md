@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Stranger Things 4&#39;: The Best Movies to Watch After You&#39;ve Seen Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-the-best-movies-to-watch-after-youve-seen-vol-2/#ftag=CAD590a51e)
- - [Elon Musk&#39;s offer to buy Twitter likely was a joke, since he previously pretended he would take Tesla private, but he may not be able to get out of the deal &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220709/p5#a220709p5)
- - [How I fixed my sleep and wake-up pattern with Hue’s hidden automations](https://www.androidauthority.com/hue-lights-sleep-wake-up-3182713/)<!-- TECH:END -->
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-stream-tonight/#ftag=CAD590a51e)
+ - [Best King Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [&#39;The Umbrella Academy&#39; Season 3: That Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-that-ending-explained-every-question-answered-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
