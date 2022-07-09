@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I build fake products and today I created the Jewel Cooler.](http://9gag.com/gag/azewPbb)
- - ⏩ [All the f**king time...](http://9gag.com/gag/a513BZE)
- - 👉 [Happy birthday !](http://9gag.com/gag/ay9w3GV)<!-- MEMES:END -->
+ - 💣 [After an epic fish fight Michelle Bancewicz Cicale\u00a0from Seabrook, New Hampshire reels in a 643lbs &lpar;291.66 kilo&rpar; Bluefin Tuna solo on her boat `No Limits`\u00a0Oct2021](http://9gag.com/gag/aNP59p6)
+ - ⏩ [Thank god we&#39;re too smart to let that hap....oh shit we&#39;re f**ked.](http://9gag.com/gag/a41y6xQ)
+ - 👉 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)<!-- MEMES:END -->
 
 ---
 
