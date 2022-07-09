@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 could cost $100 more than iPhone 13](https://appleinsider.com/articles/22/07/09/iphone-14-could-cost-100-more-than-iphone-13?utm_medium=rss)
- - [Elon Musk says he’ll increase childcare benefits at his companies ‘significantly’](https://www.theverge.com/2022/7/9/23201809/elon-musk-increase-childcare-benefits-companies-spacex-tesla-neuralink-boring-company)
- - [Price war: save $250 on Apple&#39;s 1TB 16-inch MacBook Pro](https://appleinsider.com/articles/22/07/04/price-war-save-250-on-apples-1tb-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Stranger Things 4&#39;: The Best Movies to Watch After You&#39;ve Seen Vol. 2     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-the-best-movies-to-watch-after-youve-seen-vol-2/#ftag=CAD590a51e)
+ - [Elon Musk&#39;s offer to buy Twitter likely was a joke, since he previously pretended he would take Tesla private, but he may not be able to get out of the deal &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/220709/p5#a220709p5)
+ - [How I fixed my sleep and wake-up pattern with Hue’s hidden automations](https://www.androidauthority.com/hue-lights-sleep-wake-up-3182713/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
