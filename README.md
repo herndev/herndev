@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk proves he’s the wrong man to save the world](https://www.theverge.com/2022/7/8/23201082/elon-musk-twitter-deal-is-over)
- - [In an internal memo, Twitter&#39;s general counsel says staffers should &quot;refrain from tweeting, Slacking, or sharing any commentary about the merger agreement&quot; &lpar;The Verge&rpar;](http://www.techmeme.com/220708/p20#a220708p20)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [As tech stocks fall, Andreessen Horowitz, Sequoia, GGV, and other VC firms are buying publicly traded stocks of companies whose prospects they deem to be strong &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220708/p21#a220708p21)
+ - [&#39;Thor: Love and Thunder&#39; Review: A Disappointingly Shallow Marvel Encore for Taika Waititi     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointingly-shallow-marvel-encore-for-taika-waititi/#ftag=CAD590a51e)
+ - [Twitter Reportedly Tells Employees Not to Post About Deal With Elon Musk     - CNET](https://www.cnet.com/tech/mobile/twitter-reportedly-tells-employees-not-to-post-about-deal-with-elon-musk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
