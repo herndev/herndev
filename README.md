@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two actors that were born for their roles.](http://9gag.com/gag/aM45B7R)
- - ⏩ [What happened?](http://9gag.com/gag/aPZ2xnq)
+ - 💣 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)
+ - ⏩ [Two actors that were born for their roles.](http://9gag.com/gag/aM45B7R)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
