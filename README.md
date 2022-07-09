@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sri Lankan president trying to escape the country. His palace already fallen to the mobs.](http://9gag.com/gag/a31ryKv)
+ - 💣 [Famous meme](http://9gag.com/gag/a11j222)
  - ⏩ [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
  - 👉 [Just some casual Olive Garden fashion.](http://9gag.com/gag/angwxVq)<!-- MEMES:END -->
 
