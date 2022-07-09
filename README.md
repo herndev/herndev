@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #385: Saturday, July 9](https://www.pcgamer.com/wordle-today-july-9-385-answer-hint)
  - [Elon Musk tries to bail on Twitter purchase](https://www.pcgamer.com/elon-musk-tries-to-bail-on-twitter-purchase)
- - [I &#39;got gud&#39; at a competitive shooter, and it sucks](https://www.pcgamer.com/i-got-gud-at-a-competitive-shooter-and-it-sucks)
- - [Vampire: The Masquerade - Bloodhunt is dropping &#39;traditional&#39; seasons to focus on faster updates](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-is-dropping-traditional-seasons-to-focus-on-faster-updates)<!-- GAME:END -->
+ - [I &#39;got gud&#39; at a competitive shooter, and it sucks](https://www.pcgamer.com/i-got-gud-at-a-competitive-shooter-and-it-sucks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
