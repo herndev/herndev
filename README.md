@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fan made dragon ball film &lpar;5:41&rpar;](http://9gag.com/gag/aNP5B13)
- - ⏩ [The women who demolished fast food in NYC were caught and charged. Sweet justice](http://9gag.com/gag/a31ryN7)
- - 👉 [California](http://9gag.com/gag/aqGwQpj)<!-- MEMES:END -->
+ - 💣 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)
+ - ⏩ [California](http://9gag.com/gag/aqGwQpj)
+ - 👉 [Just some casual Olive Garden fashion.](http://9gag.com/gag/angwxVq)<!-- MEMES:END -->
 
 ---
 
