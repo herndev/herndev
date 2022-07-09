@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)
- - ⏩ [California](http://9gag.com/gag/aqGwQpj)
- - 👉 [Just some casual Olive Garden fashion.](http://9gag.com/gag/angwxVq)<!-- MEMES:END -->
+ - 💣 [Explain to me how you not brainwashed?](http://9gag.com/gag/a81O2oY)
+ - ⏩ [Bro was waiting so long for his girlfriend he started to meditate.](http://9gag.com/gag/abgwB5v)
+ - 👉 [. .](http://9gag.com/gag/ay9wWZV)<!-- MEMES:END -->
 
 ---
 
