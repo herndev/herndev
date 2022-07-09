@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Long-Lost Rare Crayfish Resurfaces in an Alabama Cave](https://www.wired.com/story/a-long-lost-rare-crayfish-resurfaces-in-an-alabama-cave/)
- - [The Quarry and Evil Dead: The Game Lure You Into a Scary Movie](https://www.wired.com/story/the-quarry-evil-dead-the-game-horror-movie-inspirations/)
- - [MacBook Air vs 13-inch MacBook Pro: Which M2 MacBook to buy](https://appleinsider.com/articles/22/07/08/macbook-air-vs-13-inch-macbook-pro-which-m2-macbook-to-buy?utm_medium=rss)<!-- TECH:END -->
+ - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
+ - [2023 GMC Sierra AT4X AEV Edition Is Seriously Rugged     - CNET](https://www.cnet.com/roadshow/pictures/2023-gmc-sierra-at4x-aev-edition-debut/#ftag=CAD590a51e)
+ - [Chinese Police Exposed 1B People&#39;s Data in Unprecedented Leak](https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
