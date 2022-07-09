@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poco F4 review: The Poco F3 reloaded](https://www.androidauthority.com/poco-f4-review-3179631/)
- - [The Hype Machine That Turned Minions Into a $4B Juggernaut](https://www.wired.com/story/minions-meme-gentleminions-minionscult/)
- - [Thor: Love and Thunder’s Biggest Drawback? It’s Just for Fans](https://www.wired.com/story/review-thor-love-and-thunder/)<!-- TECH:END -->
+ - [A Long-Lost Rare Crayfish Resurfaces in an Alabama Cave](https://www.wired.com/story/a-long-lost-rare-crayfish-resurfaces-in-an-alabama-cave/)
+ - [The Quarry and Evil Dead: The Game Lure You Into a Scary Movie](https://www.wired.com/story/the-quarry-evil-dead-the-game-horror-movie-inspirations/)
+ - [MacBook Air vs 13-inch MacBook Pro: Which M2 MacBook to buy](https://appleinsider.com/articles/22/07/08/macbook-air-vs-13-inch-macbook-pro-which-m2-macbook-to-buy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
