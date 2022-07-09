@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite many of CJEU&#39;s rulings saying mass surveillance is banned in the EU, member states have been exploiting loopholes in them to collect and keep the data &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220709/p6#a220709p6)
- - [Colombia court bans 5G iPhones and iPads in Ericsson patent case](https://appleinsider.com/articles/22/07/09/colombia-court-bans-5g-iphones-and-ipads-in-ericsson-patent-case?utm_medium=rss)
- - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)<!-- TECH:END -->
+ - [Hitman 3 is getting its first new map on July 26th as free DLC](https://www.theverge.com/2022/7/9/23202088/hitman-3-first-new-map-july-26th-free-dlc-ambrose-island)
+ - [&#39;Star Wars: Shadow of the Sith&#39; Presents Luke Skywalker as the &#39;Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-presents-luke-skywalker-as-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)
+ - [Despite many of CJEU&#39;s rulings saying mass surveillance is banned in the EU, member states have been exploiting loopholes in them to collect and keep the data &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220709/p6#a220709p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
