@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So true. lawn is the biggest waste of space and water](http://9gag.com/gag/awz2gAQ)
- - ⏩ [Two actors that were born for their roles.](http://9gag.com/gag/aM45B7R)
+ - 💣 [Did she notice it?](http://9gag.com/gag/amgwG6V)
+ - ⏩ [Happy birthday !](http://9gag.com/gag/ay9w3GV)
  - 👉 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)<!-- MEMES:END -->
 
 ---
