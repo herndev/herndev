@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)
- - ⏩ [It&#39;s the weekend my dudes](http://9gag.com/gag/a9105Mm)
- - 👉 [German farmers join the protest, following the Dutch, Italians and Poles. High fuel prices, high fertilizer prices, and stupid government policies are making farmers angry.](http://9gag.com/gag/amgw1Md)<!-- MEMES:END -->
+ - 💣 [Every morning to work](http://9gag.com/gag/aZr583Q)
+ - ⏩ [Trump: goes way off script. Biden: I am the script.](http://9gag.com/gag/aogwVV3)
+ - 👉 [Tequila](http://9gag.com/gag/aNP5vOG)<!-- MEMES:END -->
 
 ---
 
