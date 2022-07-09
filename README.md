@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals July 9: $200 HP 28-inch 4K monitor, Samsung Pro Plus 128GB microSD for $20.99, $40 IOGear Print Server, more](https://appleinsider.com/articles/22/07/09/daily-deals-july-9-200-hp-28-inch-4k-monitor-samsung-pro-plus-128gb-microsd-for-2099-40-iogear-print-server-more?utm_medium=rss)
  - [8 Back-to-School College Essentials to Keep in Your Backpack     - CNET](https://www.cnet.com/news/8-back-to-school-college-essentials-to-keep-in-your-backpack/#ftag=CAD590a51e)
- - [2023 GMC Sierra AT4X AEV Edition Is Seriously Rugged     - CNET](https://www.cnet.com/roadshow/pictures/2023-gmc-sierra-at4x-aev-edition-debut/#ftag=CAD590a51e)
- - [Chinese Police Exposed 1B People&#39;s Data in Unprecedented Leak](https://www.wired.com/story/chinese-police-exposed-1-billion-peoples-data/)<!-- TECH:END -->
+ - [2023 GMC Sierra AT4X AEV Edition Is Seriously Rugged     - CNET](https://www.cnet.com/roadshow/pictures/2023-gmc-sierra-at4x-aev-edition-debut/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
