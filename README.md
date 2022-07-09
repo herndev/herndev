@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What’s so good about a Superman gone bad?](https://www.polygon.com/23200207/the-boys-finale-homelander-black-adam-superman)
  - [League of Legends’ magical girls return in a multi-game summer event](https://www.polygon.com/23199152/league-of-legends-star-guardian-summer-event-lore-culture-fans)
- - [Valve&#39;s Fake Games Look Great, Actually](https://kotaku.com/valve-steam-summer-sale-hidden-games-art-fake-half-life-1849159677)
- - [Steam Deck’s Web Browser Desperately Needs An Update](https://kotaku.com/steam-deck-firefox-valve-linux-gaming-pc-1849159772)<!-- GAME:END -->
+ - [Valve&#39;s Fake Games Look Great, Actually](https://kotaku.com/valve-steam-summer-sale-hidden-games-art-fake-half-life-1849159677)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
