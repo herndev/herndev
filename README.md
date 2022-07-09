@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)
- - ⏩ [Nucular](http://9gag.com/gag/a0Zq0qB)
- - 👉 [Unboxing sawmill blades is quite dangerous](http://9gag.com/gag/a31r0Mr)<!-- MEMES:END -->
+ - 💣 [Want to play football?](http://9gag.com/gag/aKm5vyQ)
+ - ⏩ [These people in Sri Lanka marching towards presidents house... Some are already breached barriers](http://9gag.com/gag/avAw6jX)
+ - 👉 [Grandpa\u2019s reaction to grandsons 3D printer](http://9gag.com/gag/aYr5O87)<!-- MEMES:END -->
 
 ---
 
