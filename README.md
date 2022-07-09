@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is Elon right](http://9gag.com/gag/aqGw6AP)
+ - 💣 [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
  - ⏩ [California](http://9gag.com/gag/aqGwQpj)
- - 👉 [Old school designs are so much more practical](http://9gag.com/gag/a71X04q)<!-- MEMES:END -->
+ - 👉 [The women who demolished fast food in NYC were caught and charged. Sweet justice](http://9gag.com/gag/a31ryN7)<!-- MEMES:END -->
 
 ---
 
