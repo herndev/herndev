@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the game GeoGuessr, in which the best players can pinpoint in seconds where a Google Street View image has been taken &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/220709/p4#a220709p4)
- - [Rogers restores service for ‘vast majority’ of customers after massive outage](https://www.theverge.com/2022/7/9/23201678/rogers-communications-restores-service-vast-majority-customers-widespread-outage)
- - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Disappointingly Shallow Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-disappointingly-shallow-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)
+ - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-440-3184652/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
