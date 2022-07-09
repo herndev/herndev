@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CIRP: the number of Amazon Prime members in the US remained at 172M as of June 30, the same as six months earlier, after Amazon raised prices in February 2022 &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220709/p2#a220709p2)
- - [The most common Xiaomi Mi Band problems and how to fix them](https://www.androidauthority.com/xiaomi-mi-band-problems-issues-3182177/)
- - [Best Keto Meal Delivery for 2022     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poco F4 review: The Poco F3 reloaded](https://www.androidauthority.com/poco-f4-review-3179631/)
+ - [The Hype Machine That Turned Minions Into a $4B Juggernaut](https://www.wired.com/story/minions-meme-gentleminions-minionscult/)
+ - [Thor: Love and Thunder’s Biggest Drawback? It’s Just for Fans](https://www.wired.com/story/review-thor-love-and-thunder/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
