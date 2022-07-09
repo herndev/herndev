@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every morning to work](http://9gag.com/gag/aZr583Q)
- - ⏩ [Trump: goes way off script. Biden: I am the script.](http://9gag.com/gag/aogwVV3)
- - 👉 [Tequila](http://9gag.com/gag/aNP5vOG)<!-- MEMES:END -->
+ - 💣 [Just another day in Australia.](http://9gag.com/gag/apgw6vp)
+ - ⏩ [Nucular](http://9gag.com/gag/a0Zq0qB)
+ - 👉 [Unboxing sawmill blades is quite dangerous](http://9gag.com/gag/a31r0Mr)<!-- MEMES:END -->
 
 ---
 
