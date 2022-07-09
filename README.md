@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Massive Rogers outage cut off 25 percent of Canada’s internet traffic for nearly all of Friday](https://www.theverge.com/2022/7/8/23199945/rogers-down-outage-internet-issues911-canada)
  - [As tech stocks fall, Andreessen Horowitz, Sequoia, GGV, and other VC firms are buying publicly traded stocks of companies whose prospects they deem to be strong &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/220708/p21#a220708p21)
- - [&#39;Thor: Love and Thunder&#39; Review: A Disappointingly Shallow Marvel Encore for Taika Waititi     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointingly-shallow-marvel-encore-for-taika-waititi/#ftag=CAD590a51e)
- - [Twitter Reportedly Tells Employees Not to Post About Deal With Elon Musk     - CNET](https://www.cnet.com/tech/mobile/twitter-reportedly-tells-employees-not-to-post-about-deal-with-elon-musk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Thor: Love and Thunder&#39; Review: A Disappointingly Shallow Marvel Encore for Taika Waititi     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-a-disappointingly-shallow-marvel-encore-for-taika-waititi/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
