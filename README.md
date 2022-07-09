@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford-backed autonomous car startup Argo AI lays off 150 employees](https://www.theverge.com/2022/7/9/23201966/ford-backed-autonomous-car-startup-argo-ai-lays-off-150-employees-driverless)
  - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-shows-to-stream-tonight/#ftag=CAD590a51e)
- - [Best King Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [&#39;The Umbrella Academy&#39; Season 3: That Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-that-ending-explained-every-question-answered-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best King Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
