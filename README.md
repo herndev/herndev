@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with NIST&#39;s Dustin Moody on the agency&#39;s recently selected encryption algorithms and why they&#39;re designed to withstand future quantum hacking threats &lpar;Lucas Ropek/Gizmodo&rpar;](http://www.techmeme.com/220709/p1#a220709p1)
- - [Amazon Prime Day TV Sales: Worth Buying Now or Wait Till Black Friday?     - CNET](https://www.cnet.com/tech/home-entertainment/amazon-prime-day-tv-sales-worth-buying-now-or-wait-till-black-friday/#ftag=CAD590a51e)
- - [How to log out of the Amazon app or website](https://www.androidauthority.com/log-out-amazon-3182858/)<!-- TECH:END -->
+ - [Best Keto Meal Delivery for 2022     - CNET](https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e)
+ - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)
+ - [Best Elliptical for 2022     - CNET](https://www.cnet.com/health/fitness/best-elliptical/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
