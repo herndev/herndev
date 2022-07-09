@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-440-3184652/)<!-- TECH:END -->
+ - [iPhone 14 could cost $100 more than iPhone 13](https://appleinsider.com/articles/22/07/09/iphone-14-could-cost-100-more-than-iphone-13?utm_medium=rss)
+ - [Elon Musk says he’ll increase childcare benefits at his companies ‘significantly’](https://www.theverge.com/2022/7/9/23201809/elon-musk-increase-childcare-benefits-companies-spacex-tesla-neuralink-boring-company)
+ - [Price war: save $250 on Apple&#39;s 1TB 16-inch MacBook Pro](https://appleinsider.com/articles/22/07/04/price-war-save-250-on-apples-1tb-16-inch-macbook-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
