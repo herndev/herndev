@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sri Lankan army platoon joined with protesters](http://9gag.com/gag/aBn5PWx)
- - ⏩ [Motivation](http://9gag.com/gag/aDD58PN)
- - 👉 [Nucular](http://9gag.com/gag/a0Zq0qB)<!-- MEMES:END -->
+ - 💣 [Nucular](http://9gag.com/gag/a0Zq0qB)
+ - ⏩ [Rewinding technique of truck starter motor](http://9gag.com/gag/aYr5Pm7)
+ - 👉 [Sri Lankans have breached presidential palace. President is on the run](http://9gag.com/gag/aqGwQbP)<!-- MEMES:END -->
 
 ---
 
