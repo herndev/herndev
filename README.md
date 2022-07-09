@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The questions we still have after Thor: Love and Thunder](https://www.polygon.com/23200143/thor-love-and-thunder-ending-explained)
- - [Today&#39;s Wordle answer #385: Saturday, July 9](https://www.pcgamer.com/wordle-today-july-9-385-answer-hint)
- - [Elon Musk tries to bail on Twitter purchase](https://www.pcgamer.com/elon-musk-tries-to-bail-on-twitter-purchase)<!-- GAME:END -->
+ - [Figuring out what makes a god in the MCU so Gorr the God Butcher doesn’t have to](https://www.polygon.com/23200050/mcu-thor-gods-asgard-eternals-moon-knight-explainer)
+ - [It Looks Like A PlayStation Classic, But Your Grappling Hook Is A Frog](https://kotaku.com/frogun-platformer-molegate-playstation-pc-switch-xbox-1849158460)
+ - [The questions we still have after Thor: Love and Thunder](https://www.polygon.com/23200143/thor-love-and-thunder-ending-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
