@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was an eye roll for the ages, after Trump&#39;s signature, 30-second-long, vigorous handshake. RIP Shinzo Abe](http://9gag.com/gag/a0Zqe8n)
- - ⏩ [The Moon](http://9gag.com/gag/aQX5vx2)
+ - 💣 [Thank god we&#39;re too smart to let that hap....oh shit we&#39;re f**ked.](http://9gag.com/gag/a41y6xQ)
+ - ⏩ [Happy birthday !](http://9gag.com/gag/ay9w3GV)
  - 👉 [Enter the free Potatoz raffle!](http://9gag.com/gag/aGz5zL7)<!-- MEMES:END -->
 
 ---
