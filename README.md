@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange New Worlds robbed Pike of the power of his sacrifice](https://www.polygon.com/23199249/strange-new-worlds-star-trek-pike)
- - [11 times the 4th movie in a franchise was actually good](https://www.polygon.com/what-to-watch/23196691/best-movies-to-watch-fourth-franchise-streaming)
- - [What’s so good about a Superman gone bad?](https://www.polygon.com/23200207/the-boys-finale-homelander-black-adam-superman)<!-- GAME:END -->
+ - [Canada&#39;s biggest telecom company is back online, but questions remain](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)
+ - [Crisis Core: FF7 Reunion is targeting 120 fps on PC, but will it overcome Square Enix&#39;s recent performance woes?](https://www.pcgamer.com/crisis-core-ff7-reunion-is-targeting-120fps-on-pc-but-will-it-overcome-square-enixs-recent-performance-woes)
+ - [Strange New Worlds robbed Pike of the power of his sacrifice](https://www.polygon.com/23199249/strange-new-worlds-star-trek-pike)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
