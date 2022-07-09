@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I &#39;got gud&#39; at a competitive shooter, and it sucks](https://www.pcgamer.com/i-got-gud-at-a-competitive-shooter-and-it-sucks)
  - [Vampire: The Masquerade - Bloodhunt is dropping &#39;traditional&#39; seasons to focus on faster updates](https://www.pcgamer.com/vampire-the-masquerade-bloodhunt-is-dropping-traditional-seasons-to-focus-on-faster-updates)
- - [Finally, Skyrim has realistic rug physics—complete with tripping!](https://www.pcgamer.com/finally-skyrim-has-realistic-rug-physicscomplete-with-tripping)
- - [The Sea Beast, Everything Everywhere All at Once, and more new movies you can watch at home](https://www.polygon.com/23195662/new-movies-watch-the-sea-beast-netflix-everything-everywhere-streaming)<!-- GAME:END -->
+ - [Finally, Skyrim has realistic rug physics—complete with tripping!](https://www.pcgamer.com/finally-skyrim-has-realistic-rug-physicscomplete-with-tripping)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
