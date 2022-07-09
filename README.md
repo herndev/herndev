@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did she notice it?](http://9gag.com/gag/amgwG6V)
- - ⏩ [Happy birthday !](http://9gag.com/gag/ay9w3GV)
- - 👉 [Bear is surprised when he looked in the mirror](http://9gag.com/gag/aZr5wr6)<!-- MEMES:END -->
+ - 💣 [I build fake products and today I created the Jewel Cooler.](http://9gag.com/gag/azewPbb)
+ - ⏩ [All the f**king time...](http://9gag.com/gag/a513BZE)
+ - 👉 [Happy birthday !](http://9gag.com/gag/ay9w3GV)<!-- MEMES:END -->
 
 ---
 
