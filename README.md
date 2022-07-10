@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Respect](http://9gag.com/gag/aYr5Amq)
- - ⏩ [A pair of blue tit arrives in a new house. For 46 days they prepare the nest as they please with everything they find.](http://9gag.com/gag/aAG5O5L)
- - 👉 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)<!-- MEMES:END -->
+ - 💣 [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/ajgwWyg)
+ - ⏩ [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)
+ - 👉 [Free fruit daily](http://9gag.com/gag/aGz571G)<!-- MEMES:END -->
 
 ---
 
