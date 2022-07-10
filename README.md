@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It’s not just because it’s exploitative that Diablo Immortal doesn’t work](https://www.polygon.com/23200136/diablo-immortal-exploitative-monetization-legendary-gems-rifts)
  - [Today&#39;s Wordle answer #386: Sunday, July 10](https://www.pcgamer.com/wordle-today-july-10-386-answer-hint)
- - [Great moments in PC gaming: Finally getting Gjallarhorn to drop in Destiny](https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny)
- - [Fable reboot gets a new narrative lead](https://www.pcgamer.com/fable-reboot-gets-a-new-narrative-lead)<!-- GAME:END -->
+ - [Great moments in PC gaming: Finally getting Gjallarhorn to drop in Destiny](https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
