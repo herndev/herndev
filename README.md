@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna make a pro move and like my own post.](http://9gag.com/gag/aOQ5PyM)
- - ⏩ [Explain to me how you not brainwashed?](http://9gag.com/gag/a81O2oY)
+ - 💣 [We need to bottle his reaction and fairy dust it around the world! OMG!!!](http://9gag.com/gag/a81OwLp)
+ - ⏩ [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)
  - 👉 [The trolley theory](http://9gag.com/gag/aPZ2QVw)<!-- MEMES:END -->
 
 ---
