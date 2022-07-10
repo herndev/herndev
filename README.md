@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)
- - ⏩ [Sun Tzu](http://9gag.com/gag/aWg5R32)
- - 👉 [Dont. move\u2026\u2026..](http://9gag.com/gag/a6168b8)<!-- MEMES:END -->
+ - 💣 [Just do it!!](http://9gag.com/gag/ay9wzeM)
+ - ⏩ [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)
+ - 👉 [Overthinking his life](http://9gag.com/gag/amgwnY2)<!-- MEMES:END -->
 
 ---
 
