@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two idiots on the road](http://9gag.com/gag/arnw8Ey)
- - ⏩ [Old pc](http://9gag.com/gag/ay9wvzb)
- - 👉 [Dont. move\u2026\u2026..](http://9gag.com/gag/a6168b8)<!-- MEMES:END -->
+ - 💣 [Thank you for watching](http://9gag.com/gag/aOQ5GY6)
+ - ⏩ [Sun Tzu](http://9gag.com/gag/aWg5R32)
+ - 👉 [India in 1922](http://9gag.com/gag/aDD5M8N)<!-- MEMES:END -->
 
 ---
 
