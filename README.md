@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Westworld&#39;: A Simple Guide to What&#39;s Going On Before Season 4     - CNET](https://www.cnet.com/culture/entertainment/westworld-a-simple-guide-to-whats-going-on-before-season-4/#ftag=CAD590a51e)
- - [Hitman 3 is getting its first new map on July 26th as free DLC](https://www.theverge.com/2022/7/9/23202088/hitman-3-first-new-map-july-26th-free-dlc-ambrose-island)
- - [&#39;Star Wars: Shadow of the Sith&#39; Presents Luke Skywalker as the &#39;Most Powerful Person in the Galaxy&#39;     - CNET](https://www.cnet.com/culture/entertainment/star-wars-shadow-of-the-sith-presents-luke-skywalker-as-the-most-powerful-person-in-the-galaxy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
+ - [16 Early Prime Day Deals That Won&#39;t Last Much Longer     - CNET](https://www.cnet.com/health/11-early-prime-day-deals-that-wont-last-much-longer/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Disappointingly Shallow Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-disappointingly-shallow-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
