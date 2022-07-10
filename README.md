@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
- - ⏩ [French big export](http://9gag.com/gag/aggw2rW)
- - 👉 [Our prime minister at rock festival](http://9gag.com/gag/aZr5jg0)<!-- MEMES:END -->
+ - 💣 [Morticia Addams](http://9gag.com/gag/adgwoNQ)
+ - ⏩ [Massive Protest in Sri Lanka, Demonstrators occupied the president office July9th](http://9gag.com/gag/aOQ59Xy)
+ - 👉 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)<!-- MEMES:END -->
 
 ---
 
