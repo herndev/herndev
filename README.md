@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Two idiots on the road](http://9gag.com/gag/arnw8Ey)
  - ⏩ [Old pc](http://9gag.com/gag/ay9wvzb)
- - 👉 [Some good news](http://9gag.com/gag/azewYnb)<!-- MEMES:END -->
+ - 👉 [Dont. move\u2026\u2026..](http://9gag.com/gag/a6168b8)<!-- MEMES:END -->
 
 ---
 
