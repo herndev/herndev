@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)
- - ⏩ [Respect](http://9gag.com/gag/aYr5Amq)
- - 👉 [Everything in this video is perfect](http://9gag.com/gag/a71XNg2)<!-- MEMES:END -->
+ - 💣 [That&#39;s the UK Parliament...](http://9gag.com/gag/aLv5dvW)
+ - ⏩ [Wait\u2026](http://9gag.com/gag/a31rbd7)
+ - 👉 [I have done it! Works for me!](http://9gag.com/gag/amgwpe9)<!-- MEMES:END -->
 
 ---
 
