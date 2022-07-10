@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where’s the cheap Pixel for the next billion people?](https://www.androidauthority.com/budget-pixel-3183627/)
- - [Rumored rugged Apple Watch could be $900 &#39;Pro&#39; model](https://appleinsider.com/articles/22/07/10/rumored-rugged-apple-watch-could-be-900-pro-model?utm_medium=rss)
- - [Daily deals July 10, $569 M1 Mac mini, $174 AirPods Pro, $154 Eero Mesh Wi-Fi, more](https://appleinsider.com/articles/22/07/10/daily-deals-july-10-569-m1-mac-mini-174-airpods-pro-154-eero-mesh-wi-fi-more?utm_medium=rss)<!-- TECH:END -->
+ - [Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk](https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid)
+ - [Rumored wearable Apple Watch Pro could cost $900](https://appleinsider.com/articles/22/07/10/rumored-rugged-apple-watch-could-be-900-pro-model?utm_medium=rss)
+ - [Where’s the cheap Pixel for the next billion people?](https://www.androidauthority.com/budget-pixel-3183627/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
