@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperJuice 4-in-1 MagSafe charger review: One wireless charger to do it all](https://appleinsider.com/articles/22/07/10/hyperjuice-4-in-1-magsafe-charger-review-one-wireless-charger-to-do-it-all?utm_medium=rss)
- - [Best Prime Day TV Deals: $1,000 Off Samsung QLED, $330 Off Amazon Omni and More     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Ford-backed autonomous car startup Argo AI lays off 150 employees](https://www.theverge.com/2022/7/9/23201966/ford-backed-autonomous-car-startup-argo-ai-lays-off-150-employees-driverless)<!-- TECH:END -->
+ - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)
+ - [Sources: defense contractor L3Harris scuttled plans to buy NSO Group, despite alleged US intel officials&#39; support, after outrage from Biden admin over the talks &lpar;New York Times&rpar;](http://www.techmeme.com/220710/p7#a220710p7)
+ - [VC funding in Latin America, which hit a record $14.8B in 2021 according to PitchBook, has slowed down in 2022 amid a downturn as some investors pull back &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220710/p6#a220710p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
