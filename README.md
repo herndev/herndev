@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thoughts and prayers](http://9gag.com/gag/a31rx9m)
- - ⏩ [Just do it!!](http://9gag.com/gag/ay9wzeM)
- - 👉 [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)<!-- MEMES:END -->
+ - 💣 [First &amp; Last drink of the day](http://9gag.com/gag/a910Byj)
+ - ⏩ [This is why ships use tugboats](http://9gag.com/gag/abgwmWL)
+ - 👉 [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)<!-- MEMES:END -->
 
 ---
 
