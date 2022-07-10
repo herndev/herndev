@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #386: Sunday, July 10](https://www.pcgamer.com/wordle-today-july-10-386-answer-hint)
  - [Great moments in PC gaming: Finally getting Gjallarhorn to drop in Destiny](https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny)
- - [Fable reboot gets a new narrative lead](https://www.pcgamer.com/fable-reboot-gets-a-new-narrative-lead)
- - [New multiplayer Skyrim mod has been downloaded over 50,000 times](https://www.pcgamer.com/new-multiplayer-skyrim-mod-has-been-downloaded-over-50000-times)<!-- GAME:END -->
+ - [Fable reboot gets a new narrative lead](https://www.pcgamer.com/fable-reboot-gets-a-new-narrative-lead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
