@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just do it!!](http://9gag.com/gag/ay9wzeM)
- - ⏩ [He&#39;s gonna do the thing](http://9gag.com/gag/aqGwdyM)
- - 👉 [Overthinking his life](http://9gag.com/gag/amgwnY2)<!-- MEMES:END -->
+ - 💣 [Still impressed, still in love](http://9gag.com/gag/a71XGPw)
+ - ⏩ [India in 1922](http://9gag.com/gag/aDD5M8N)
+ - 👉 [This especially true in the soulsborne games](http://9gag.com/gag/a513Dmy)<!-- MEMES:END -->
 
 ---
 
