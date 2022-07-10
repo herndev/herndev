@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Free fruit daily](http://9gag.com/gag/aGz571G)
- - ⏩ [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)
+ - 💣 [Sun Tzu](http://9gag.com/gag/aWg5R32)
+ - ⏩ [Old pc](http://9gag.com/gag/ay9wvzb)
  - 👉 [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)<!-- MEMES:END -->
 
 ---
