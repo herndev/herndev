@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I&#39;m tired of roguelike deckbuilders, but this dicebuilder is a whole different story](https://www.pcgamer.com/im-tired-of-roguelike-deckbuilders-but-this-dicebuilder-is-a-whole-different-story)
  - [How many save files do you keep per game?](https://www.pcgamer.com/how-many-save-files-do-you-keep-per-game)
- - [The &#39;90s Back to the Future games really were manure](https://www.pcgamer.com/saturday-crapshoot-back-to-the-future)
- - [The Windows 11 &#39;context menu&#39; reverts me to a primal and inhuman state](https://www.pcgamer.com/the-windows-11-context-menu-reverts-me-to-a-primal-and-inhuman-state)<!-- GAME:END -->
+ - [The &#39;90s Back to the Future games really were manure](https://www.pcgamer.com/saturday-crapshoot-back-to-the-future)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
