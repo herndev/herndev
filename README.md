@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karma is a B!t*h](http://9gag.com/gag/a616Gwq)
- - ⏩ [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)
- - 👉 [Y no riot?](http://9gag.com/gag/aBn54gx)<!-- MEMES:END -->
+ - 💣 [Two idiots on the road](http://9gag.com/gag/arnw8Ey)
+ - ⏩ [Old pc](http://9gag.com/gag/ay9wvzb)
+ - 👉 [Some good news](http://9gag.com/gag/azewYnb)<!-- MEMES:END -->
 
 ---
 
