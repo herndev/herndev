@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
- - ⏩ [The trolley theory](http://9gag.com/gag/aPZ2QVw)
- - 👉 [French big export](http://9gag.com/gag/aggw2rW)<!-- MEMES:END -->
+ - ⏩ [French big export](http://9gag.com/gag/aggw2rW)
+ - 👉 [Our prime minister at rock festival](http://9gag.com/gag/aZr5jg0)<!-- MEMES:END -->
 
 ---
 
