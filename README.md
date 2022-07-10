@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Massive trove of internal Uber documents from 2013 to 2017 reveal management discussions and lobbying efforts during the company&#39;s rapid international expansion &lpar;The Guardian&rpar;](http://www.techmeme.com/220710/p5#a220710p5)
- - [21 Last-Chance Early Prime Day Deals You Still Can Shop Ahead of the Big Day     - CNET](https://www.cnet.com/health/11-early-prime-day-deals-that-wont-last-much-longer/#ftag=CAD590a51e)
- - [Apple&#39;s Tim Cook Seen Riding a Rivian Electric Truck at Sun Valley Conference     - CNET](https://www.cnet.com/roadshow/news/apples-tim-cook-seen-riding-a-rivian-electric-truck-at-sun-valley-conference/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber leaks reveal how it spread ‘fucking illegal’ ride-sharing globally](https://www.theverge.com/2022/7/10/23202857/uber-files-leak-kalanick-macron-ridesharing)
+ - [First Touch Bar MacBook Pro models will become vintage on July 31](https://appleinsider.com/articles/22/07/10/first-touch-bar-macbook-pro-models-will-become-vintage-on-july-31?utm_medium=rss)
+ - [Amazon Fire 7 &lpar;2022&rpar; review: Carry-on companion](https://www.androidauthority.com/amazon-fire-7-2022-review-3182715/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
