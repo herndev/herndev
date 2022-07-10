@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As mobile ad targeting becomes less effective, the &quot;super app&quot; idea could become more appealing in the West with companies scrambling to keep people inside apps &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220710/p1#a220710p1)
- - [Can you split payments on Amazon?](https://www.androidauthority.com/split-payments-amazon-3183996/)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The war in Ukraine has prompted militaries to invest more money into AI; NATO has announced a ~$1B fund to invest in startups developing &quot;priority&quot; tech like AI &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220710/p2#a220710p2)
+ - [NASA&#39;s James Webb Space Telescope: Here&#39;s What You&#39;ll See in the First Images     - CNET](https://www.cnet.com/science/space/nasas-james-webb-space-telescope-heres-what-youll-see-in-the-first-images/#ftag=CAD590a51e)
+ - [As mobile ad targeting becomes less effective, the &quot;super app&quot; idea could become more appealing in the West with companies scrambling to keep people inside apps &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220710/p1#a220710p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
