@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Erikaaaaa](http://9gag.com/gag/aKm5Y53)
- - ⏩ [Why do men go pick up at bars instead of target?](http://9gag.com/gag/aKm5Ymb)
- - 👉 [This dad handled his daughter&#39;s tantrum in the best way](http://9gag.com/gag/aegw7gQ)<!-- MEMES:END -->
+ - 💣 [Respect](http://9gag.com/gag/aYr5Amq)
+ - ⏩ [A pair of blue tit arrives in a new house. For 46 days they prepare the nest as they please with everything they find.](http://9gag.com/gag/aAG5O5L)
+ - 👉 [Power to the people.](http://9gag.com/gag/aDD5Ved)<!-- MEMES:END -->
 
 ---
 
