@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and MCU Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-mcu-cameos-explained/#ftag=CAD590a51e)
  - [Ford recalls more than 100,000 Mavericks, Escapes, and Corsairs over fire risk](https://www.theverge.com/2022/7/10/23202658/ford-recall-maverick-escape-corsair-fire-risk-hybrid)
- - [Rumored wearable Apple Watch Pro could cost $900](https://appleinsider.com/articles/22/07/10/rumored-rugged-apple-watch-could-be-900-pro-model?utm_medium=rss)
- - [Where’s the cheap Pixel for the next billion people?](https://www.androidauthority.com/budget-pixel-3183627/)<!-- TECH:END -->
+ - [Score 3 Free Months of Audible Premium Plus With This Early Prime Day Offer     - CNET](https://www.cnet.com/deals/early-prime-day-offer-nets-prime-members-3-free-months-of-audible-premium-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
