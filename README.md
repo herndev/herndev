@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New multiplayer Skyrim mod has been downloaded over 50,000 times](https://www.pcgamer.com/new-multiplayer-skyrim-mod-has-been-downloaded-over-50000-times)
  - [Blizzard puts a final bullet in Heroes of the Storm development](https://www.pcgamer.com/blizzard-puts-a-final-bullet-in-heroes-of-the-storm-development)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [I&#39;m tired of roguelike deckbuilders, but this dicebuilder is a whole different story](https://www.pcgamer.com/im-tired-of-roguelike-deckbuilders-but-this-dicebuilder-is-a-whole-different-story)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
