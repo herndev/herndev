@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [As mobile ad targeting becomes less effective, the &quot;super app&quot; idea could become more appealing in the West with companies scrambling to keep people inside apps &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220710/p1#a220710p1)
  - [Can you split payments on Amazon?](https://www.androidauthority.com/split-payments-amazon-3183996/)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Disappointingly Shallow Marvel Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-disappointingly-shallow-marvel-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Marvel Cameos, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
