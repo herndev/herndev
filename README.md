@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)
- - [Sources: defense contractor L3Harris scuttled plans to buy NSO Group, despite alleged US intel officials&#39; support, after outrage from Biden admin over the talks &lpar;New York Times&rpar;](http://www.techmeme.com/220710/p7#a220710p7)
- - [VC funding in Latin America, which hit a record $14.8B in 2021 according to PitchBook, has slowed down in 2022 amid a downturn as some investors pull back &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220710/p6#a220710p6)<!-- TECH:END -->
+ - [Hideo Kojima’s studio says it will consider ‘legal action’ after fake assassin posts circulate](https://www.theverge.com/2022/7/10/23202998/hideo-kojima-studio-legal-action-fake-assassin-posts-circulate-shinzo-abe-japan-prime-minister)
+ - [These HyperX early Prime Day deals are literally game-changing](https://www.androidauthority.com/hyperx-prime-day-deals-3184889/)
+ - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
