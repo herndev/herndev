@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s not just because it’s exploitative that Diablo Immortal doesn’t work](https://www.polygon.com/23200136/diablo-immortal-exploitative-monetization-legendary-gems-rifts)
- - [Today&#39;s Wordle answer #386: Sunday, July 10](https://www.pcgamer.com/wordle-today-july-10-386-answer-hint)
- - [Great moments in PC gaming: Finally getting Gjallarhorn to drop in Destiny](https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny)<!-- GAME:END -->
+ - [Chicory: A Colorful Tale remains a perfect co-op game](https://www.polygon.com/dear-polygon/23200338/chicory-a-colorful-tale-dear-polygon-advice-column)
+ - [Canada&#39;s biggest telecom company claims outage was caused by botched &#39;maintenance&#39;](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)
+ - [Kojima Productions responds to false news reports linking founder to Shinzo Abe assassination](https://www.pcgamer.com/news-outlets-falsely-link-hideo-kojima-to-shinzo-abe-assassination-after-racist-joke)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
