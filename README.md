@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m tired of roguelike deckbuilders, but this dicebuilder is a whole different story](https://www.pcgamer.com/im-tired-of-roguelike-deckbuilders-but-this-dicebuilder-is-a-whole-different-story)
- - [How many save files do you keep per game?](https://www.pcgamer.com/how-many-save-files-do-you-keep-per-game)
- - [The &#39;90s Back to the Future games really were manure](https://www.pcgamer.com/saturday-crapshoot-back-to-the-future)<!-- GAME:END -->
+ - [Blizzard puts a final bullet in Heroes of the Storm development](https://www.pcgamer.com/blizzard-puts-a-final-bullet-in-heroes-of-the-storm-development)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [I&#39;m tired of roguelike deckbuilders, but this dicebuilder is a whole different story](https://www.pcgamer.com/im-tired-of-roguelike-deckbuilders-but-this-dicebuilder-is-a-whole-different-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
