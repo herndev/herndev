@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Travel Back in Time With Street View and Map Archives](https://www.wired.com/story/google-street-view-old-maps-online-travel-back-time/)
- - [‘Clean Slate’ Justice Laws Offer a Second Chance—Only to Some](https://www.wired.com/story/clean-slate-law-race/)
- - [How to Earn More Than $50 in Amazon Credits Ahead of Prime Day](https://www.wired.com/story/amazon-prime-day-stampcard-earn-credits-2022/)<!-- TECH:END -->
+ - [I’ve tried dozens of true wireless buds, but Nothing is as comfortable as these](https://www.androidauthority.com/nothing-ear-1-comfort-3183062/)
+ - [The Brain Has a ‘Low-Power Mode’ That Blunts Our Senses](https://www.wired.com/story/the-brain-has-a-low-power-mode-that-blunts-our-senses/)
+ - [Everything You Need to Work From Home Like a Pro](https://www.wired.com/story/work-from-home-home-office-gear-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
