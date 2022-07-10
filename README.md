@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/ajgwWyg)
+ - 💣 [Free fruit daily](http://9gag.com/gag/aGz571G)
  - ⏩ [Bro is seeing in 16K 500 fps](http://9gag.com/gag/abgwR1v)
- - 👉 [Free fruit daily](http://9gag.com/gag/aGz571G)<!-- MEMES:END -->
+ - 👉 [Big fire in the east of Capital, Italy Rome](http://9gag.com/gag/a41ywEw)<!-- MEMES:END -->
 
 ---
 
