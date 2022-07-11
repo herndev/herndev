@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-you-absolutely-need-to-watch-2022/#ftag=CAD590a51e)
- - [Stranger Things&#39; Season 4 Finale Should Have Delivered More     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-finale-should-have-delivered-more/#ftag=CAD590a51e)
- - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Tiger Global plans to slow startup investments for two quarters and is on track to raise a new fund later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220710/p9#a220710p9)
+ - [Sources: Myanmar&#39;s junta rolls out Chinese surveillance cameras with facial recognition tech in five more cities and plans to add them to every state in Myanmar &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/220710/p8#a220710p8)
+ - [Some top Samsung storage devices are already at Prime Day prices](https://www.androidauthority.com/samsung-storage-devices-prime-day-3184920/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
