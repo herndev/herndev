@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)
- - [Twitter reportedly hires the firm that invented the ‘poison pill’ to sue Elon Musk](https://www.theverge.com/2022/7/10/23202931/elon-musk-lawsuit-twitter-merger-delaware)
- - [How to contact a seller on Amazon before or after a purchase](https://www.androidauthority.com/contact-seller-amazon-3183968/)<!-- TECH:END -->
+ - [Qiming Venture Partners, an early Xiaomi backer, raised $3.2B across two funds, bringing its total managed to $9.4B across 18 funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220711/p1#a220711p1)
+ - [Best Buy Black Friday in July Sale: MacBooks from $899, TVs as low as $79, $170 off Beats](https://appleinsider.com/articles/22/07/11/best-buy-black-friday-in-july-sale-macbooks-from-899-tvs-as-low-as-79-170-off-beats?utm_medium=rss)
+ - [It sounds more likely that Samsung could skip Exynos for Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-no-exynos-2023-3184499/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
