@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Everything we know about Genshin Impact&#39;s Collei](https://www.pcgamer.com/genshin-impact-collei-build-banner)
  - [6 box sets worth buying in the Barnes and Noble Criterion sale](https://www.polygon.com/deals/23196726/criterion-sale-recommendations-details-dates-barnes-noble)
- - [Shroud makes grand return to esports as a Valorant pro](https://www.pcgamer.com/shroud-makes-grand-return-to-esports-as-a-valorant-pro)
- - [Developer turns &#39;future of gaming&#39; talk into a surprise attack on convention&#39;s NFT and blockchain sponsors](https://www.pcgamer.com/developer-turns-future-of-gaming-talk-into-a-surprise-attack-on-conventions-nft-and-blockchain-sponsors)<!-- GAME:END -->
+ - [Shroud makes grand return to esports as a Valorant pro](https://www.pcgamer.com/shroud-makes-grand-return-to-esports-as-a-valorant-pro)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
