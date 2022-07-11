@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on: How to mirror your Apple Watch to iPhone in iOS 16](https://appleinsider.com/articles/22/07/11/hands-on-how-to-mirror-your-apple-watch-to-iphone-in-ios-16?utm_medium=rss)
- - [How to download and install the HomePod Software 16 public beta](https://www.theverge.com/23204047/homepod-software-16-public-beta-how-to-download-homepod-mini)
- - [Ubisoft says Steam games like Assassin’s Creed Liberation HD will remain playable despite warning](https://www.theverge.com/2022/7/11/23203791/ubisoft-steam-pc-games-accessible)<!-- TECH:END -->
+ - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)
+ - [Rivian reportedly considers laying off 700 employees](https://www.theverge.com/2022/7/11/23204199/rivian-electric-vehicles-layoffs-planned-manufacturing)
+ - [GameStop launches its NFT marketplace in beta, letting users connect digital asset wallets, including the recently debuted GameStop Wallet, to buy and sell NFTs &lpar;CNBC&rpar;](http://www.techmeme.com/220711/p16#a220711p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
