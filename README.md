@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [#MissionUndead: Red Cross Partnership with State of Decay 2](https://news.xbox.com/en-us/2022/07/11/missionundead-red-cross-partnership-with-state-of-decay-2/)
- - [Respawn is hiring for an Apex Legends single-player spinoff game](https://www.polygon.com/23203656/apex-legends-single-player-fps-spinoff-game-development)
- - [YouTube Star Dr Disrespect&#39;s NFT Game Is Charging Players To Playtest](https://kotaku.com/dr-disrespect-nft-youtube-project-moon-midnight-society-1849164253)<!-- GAME:END -->
+ - [The best UK Amazon Prime Day PC gaming deals are coming](https://www.pcgamer.com/amazon-prime-day-pc-gaming-deals-uk-2021)
+ - [After four years of sturm and drang Batman finally, successfully, married Catwoman](https://www.polygon.com/23200398/batman-catwoman-married-dc-comics)
+ - [#MissionUndead: Red Cross Partnership with State of Decay 2](https://news.xbox.com/en-us/2022/07/11/missionundead-red-cross-partnership-with-state-of-decay-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
