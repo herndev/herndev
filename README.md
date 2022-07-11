@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-black-friday-july-sale-tech-deals-prime-day)
- - [The Xbox Series X will now run one of the best retro versions of Windows](https://www.theverge.com/2022/7/11/23203906/xbox-series-consoles-windows-98-gaming-retro)
- - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on: How to mirror your Apple Watch to iPhone in iOS 16](https://appleinsider.com/articles/22/07/11/hands-on-how-to-mirror-your-apple-watch-to-iphone-in-ios-16?utm_medium=rss)
+ - [How to download and install the HomePod Software 16 public beta](https://www.theverge.com/23204047/homepod-software-16-public-beta-how-to-download-homepod-mini)
+ - [Ubisoft says Steam games like Assassin’s Creed Liberation HD will remain playable despite warning](https://www.theverge.com/2022/7/11/23203791/ubisoft-steam-pc-games-accessible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
