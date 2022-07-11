@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)
- - [Rivian reportedly considers laying off 700 employees](https://www.theverge.com/2022/7/11/23204199/rivian-electric-vehicles-layoffs-planned-manufacturing)
- - [GameStop launches its NFT marketplace in beta, letting users connect digital asset wallets, including the recently debuted GameStop Wallet, to buy and sell NFTs &lpar;CNBC&rpar;](http://www.techmeme.com/220711/p16#a220711p16)<!-- TECH:END -->
+ - [Amazon Prime Day streaming sales include the Fire TV Stick Lite for just $12](https://www.androidauthority.com/amazon-prime-day-streaming-sales-3185186/)
+ - [The PlayStation 5 is available for Best Buy Totaltech subscribers beginning July 12th at 12PM ET](https://www.theverge.com/2022/7/11/23204445/sony-playstation-5-ps5-console-restock-amazon-prime-day-totaltech-members-availability-check)
+ - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
