@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft&#39;s online decommissioning may render three games unplayable for people who bought them](https://www.pcgamer.com/ubisofts-online-decommissioning-may-render-three-games-unplayable-for-people-who-bought-them)
- - [Chicory: A Colorful Tale remains a perfect co-op game](https://www.polygon.com/dear-polygon/23200338/chicory-a-colorful-tale-dear-polygon-advice-column)
- - [Canada&#39;s biggest telecom company claims outage was caused by botched &#39;maintenance&#39;](https://www.pcgamer.com/canadas-biggest-telecom-company-is-completely-offline-and-nobody-knows-why)<!-- GAME:END -->
+ - [Kojima Productions Threatens Legal Action Over &#39;Assassin&#39; Photo](https://kotaku.com/kojima-productions-tetsuya-yamagami-shinzo-abe-photo-1849162976)
+ - [Great moments in PC gaming: Finally getting Gjallarhorn to drop in Destiny](https://www.pcgamer.com/great-moments-in-pc-gaming-finally-getting-gjallarhorn-to-drop-in-destiny)
+ - [Ubisoft&#39;s online decommissioning may render three games unplayable for people who bought them](https://www.pcgamer.com/ubisofts-online-decommissioning-may-render-three-games-unplayable-for-people-who-bought-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
