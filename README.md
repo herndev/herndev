@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to contact a seller on Amazon before or after a purchase](https://www.androidauthority.com/contact-seller-amazon-3183968/)
  - [&#39;Thor: Love and Thunder&#39; -- When Will the Marvel Flick Arrive On Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-will-the-marvel-flick-arrive-on-disney-plus/#ftag=CAD590a51e)
- - [Sources: Tiger Global plans to slow startup investments for two quarters and is on track to raise a new fund later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220710/p9#a220710p9)
- - [Sources: Myanmar&#39;s junta rolls out Chinese surveillance cameras with facial recognition tech in five more cities and plans to add them to every state in Myanmar &lpar;Fanny Potkin/Reuters&rpar;](http://www.techmeme.com/220710/p8#a220710p8)<!-- TECH:END -->
+ - [Sources: Tiger Global plans to slow startup investments for two quarters and is on track to raise a new fund later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220710/p9#a220710p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
