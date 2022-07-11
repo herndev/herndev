@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Science spud](http://9gag.com/gag/aAG5NBZ)
- - ⏩ [Ice making in the 19th century](http://9gag.com/gag/aBn5opD)
- - 👉 [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)<!-- MEMES:END -->
+ - 💣 [This should be illegal](http://9gag.com/gag/aDD5NEx)
+ - ⏩ [In case someone hasn&#39;t seen this gem, you&#39;re welcome.](http://9gag.com/gag/apgwjmD)
+ - 👉 [Thoughts and prayers](http://9gag.com/gag/a31rx9m)<!-- MEMES:END -->
 
 ---
 
