@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How North Korean spies infiltrate US crypto firms, posing as remote workers; UN says the country has stolen billions of dollars&#39; worth of crypto from exchanges &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220711/p2#a220711p2)
- - [One UI 5 beta leaks ahead of launch: Here’s what’s new](https://www.androidauthority.com/samsung-one-ui-5-features-3184971/)
- - [Qiming Venture Partners, an early Xiaomi backer, raised $3.2B across two funds, bringing its total managed to $9.4B across 18 funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220711/p1#a220711p1)<!-- TECH:END -->
+ - [Humans Have Always Been Wrong About Humans](https://www.wired.com/story/david-wengrow-dawn-of-everything/)
+ - [Apple&#39;s second AR headset in 2025 will be more affordable, says Kuo](https://appleinsider.com/articles/22/07/11/apples-second-ar-headset-in-2025-will-be-more-affordable-says-kuo?utm_medium=rss)
+ - [Samsung Galaxy S22 series gets July 2022 security update in the US](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
