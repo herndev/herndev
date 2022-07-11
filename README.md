@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High school in the 1990s](http://9gag.com/gag/arnwEey)
- - ⏩ [WD40 magic](http://9gag.com/gag/avAwV9M)
- - 👉 [Srilankan citizens chilling in their president&#39;s house](http://9gag.com/gag/amgwOLd)<!-- MEMES:END -->
+ - 💣 [Coldplay told fans at the concert in Warsaw to put away their phones and put their hands up with the bracelets they received at the entrance and live the moment for a few minutes. The effect was amazing.](http://9gag.com/gag/aegwEKm)
+ - ⏩ [Hey Autumn!](http://9gag.com/gag/aVx5r1v)
+ - 👉 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)<!-- MEMES:END -->
 
 ---
 
