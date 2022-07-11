@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok offers free training to court small businesses](https://www.theverge.com/2022/7/11/23203719/tiktok-small-businesses-follow-me-educational-training-program-advertising)
- - [Reports of hijacked accounts and analysis of Experian&#39;s authentication flow reveal subpar security at the credit bureau, a year after PIN reset flaws were found &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220711/p11#a220711p11)
- - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)
+ - [Apple debuts iOS 16&#39;s first public beta, with widgets on the lock screen, iMessage edit and undo, and more, alongside public betas for macOS, watchOS, iPadOS &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220711/p14#a220711p14)
+ - [How to install the iOS 16 and iPad 16 public betas](https://www.theverge.com/23200304/ios-16-beta-install-apple-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
