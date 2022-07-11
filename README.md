@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yesterday the mother of my kids, 4 and 10 years old, passed away. I don\u2019t understand why this happened, but I will make her proud and give them my all. They are all I have](http://9gag.com/gag/abgwLKp)
- - ⏩ [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
- - 👉 [This man cuts the coconut perfectly so he can drink the water](http://9gag.com/gag/aDD59LN)<!-- MEMES:END -->
+ - 💣 [This man cuts the coconut perfectly so he can drink the water](http://9gag.com/gag/aDD59LN)
+ - ⏩ [Mantis shrimp hold the world record for the most complex visual system. They have up to 16 photoreceptors and can see UV, visible and polarised light being the only animals known to detect circularly polarised light](http://9gag.com/gag/amgww9y)
+ - 👉 [High school in the 1990s](http://9gag.com/gag/arnwEey)<!-- MEMES:END -->
 
 ---
 
