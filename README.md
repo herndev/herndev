@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hideo Kojima’s studio says it will consider ‘legal action’ after fake assassin posts circulate](https://www.theverge.com/2022/7/10/23202998/hideo-kojima-studio-legal-action-fake-assassin-posts-circulate-shinzo-abe-japan-prime-minister)
- - [These HyperX early Prime Day deals are literally game-changing](https://www.androidauthority.com/hyperx-prime-day-deals-3184889/)
- - [Early Prime Day deal: Apple Watch Series 7 dips to $284, lowest price ever](https://appleinsider.com/articles/22/07/09/early-prime-day-deal-apple-watch-series-7-dips-to-284-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Gentleminions&#39; on TikTok: Why People Going to the &#39;Minions&#39; Movie Wearing Suits     - CNET](https://www.cnet.com/culture/internet/gentleminions-on-tiktok-why-people-going-to-the-minions-movie-wearing-suits/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)
+ - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
