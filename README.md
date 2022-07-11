@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Now you can play the first Witcher&#39;s prologue in VR](https://www.pcgamer.com/now-you-can-play-the-first-witchers-prologue-in-vr)
  - [Dr. Disrespect&#39;s AAA studio is making an &#39;extraction shooter&#39;](https://www.pcgamer.com/dr-disrespects-aaa-studio-is-making-an-extraction-shooter)
- - [Anime-Looking Ramen Is Actually 3D](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)
- - [Five new Steam games you probably missed &lpar;July 11, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-11-2022)<!-- GAME:END -->
+ - [Anime-Looking Ramen Is Actually 3D](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
