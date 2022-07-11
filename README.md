@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to contact a seller on Amazon before or after a purchase](https://www.androidauthority.com/contact-seller-amazon-3183968/)
- - [&#39;Thor: Love and Thunder&#39; -- When Will the Marvel Flick Arrive On Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-will-the-marvel-flick-arrive-on-disney-plus/#ftag=CAD590a51e)
- - [Sources: Tiger Global plans to slow startup investments for two quarters and is on track to raise a new fund later this year &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220710/p9#a220710p9)<!-- TECH:END -->
+ - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)
+ - [Twitter reportedly hires the firm that invented the ‘poison pill’ to sue Elon Musk](https://www.theverge.com/2022/7/10/23202931/elon-musk-lawsuit-twitter-merger-delaware)
+ - [How to contact a seller on Amazon before or after a purchase](https://www.androidauthority.com/contact-seller-amazon-3183968/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
