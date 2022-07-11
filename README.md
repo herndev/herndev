@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why ships use tugboats](http://9gag.com/gag/abgwmWL)
- - ⏩ [You\u2019d like, wouldn\u2019t you?](http://9gag.com/gag/aGz5N57)
- - 👉 [Life goal complete](http://9gag.com/gag/ay9wV0q)<!-- MEMES:END -->
+ - 💣 [Life goal complete](http://9gag.com/gag/ay9wV0q)
+ - ⏩ [Scarred for life](http://9gag.com/gag/aogwAAX)
+ - 👉 [This should be illegal](http://9gag.com/gag/aDD5NEx)<!-- MEMES:END -->
 
 ---
 
