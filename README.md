@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)
- - ⏩ [Standard for being a decent human being](http://9gag.com/gag/aGz563X)
- - 👉 [Helicopter helicopter](http://9gag.com/gag/a41yB9m)<!-- MEMES:END -->
+ - 💣 [Be a weak person](http://9gag.com/gag/apgwn3W)
+ - ⏩ [Helicopter helicopter](http://9gag.com/gag/a41yB9m)
+ - 👉 [Whooosh!](http://9gag.com/gag/a616eZe)<!-- MEMES:END -->
 
 ---
 
