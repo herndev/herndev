@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These mangoes are bigger than your head and will fill up your stomach many times over. Hello all the way from Thailand.](http://9gag.com/gag/adgwAoM)
- - ⏩ [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)
- - 👉 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)<!-- MEMES:END -->
+ - 💣 [Yesterday the mother of my kids, 4 and 10 years old, passed away. I don\u2019t understand why this happened, but I will make her proud and give them my all. They are all I have](http://9gag.com/gag/abgwLKp)
+ - ⏩ [Hell yeah whatever the f**k this is.](http://9gag.com/gag/a71XXDe)
+ - 👉 [This man cuts the coconut perfectly so he can drink the water](http://9gag.com/gag/aDD59LN)<!-- MEMES:END -->
 
 ---
 
