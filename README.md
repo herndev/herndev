@@ -104,7 +104,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- GAME:START -->
  - [Dr. Disrespect&#39;s AAA studio is making an &#39;extraction shooter&#39;](https://www.pcgamer.com/dr-disrespects-aaa-studio-is-making-an-extraction-shooter)
- - [I&#39;m Getting Hungry Just Looking At This 3D Ramen](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)
+ - [Anime-Looking Ramen Is Actually 3D](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)
  - [Five new Steam games you probably missed &lpar;July 11, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-11-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
