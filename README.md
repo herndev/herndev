@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jeopardy! and Wheel of Fortune will stream 24/7](https://www.polygon.com/23204251/jeopardy-wheel-of-fortune-24-7-stream-pluto-tv)
- - [Cancelled Doom 4 gameplay shared as part of &#39;game preservation mission&#39;](https://www.pcgamer.com/cancelled-doom-4-gameplay-shared-as-part-of-game-preservation-mission)
- - [Here’s why you can’t listen to Lofi Hip Hop Beats streams right now](https://www.polygon.com/23204295/lofi-hip-hop-beats-down-youtube-study-relax)<!-- GAME:END -->
+ - [Lance Reddick reveals his approach to playing Wesker in Netflix&#39;s Resident Evil](https://www.pcgamer.com/lance-reddick-reveals-his-approach-to-playing-wesker-in-netflixs-resident-evil)
+ - [Netflix is making a &#39;K-zombie action game&#39; based on the hit series Kingdom](https://www.pcgamer.com/netflix-is-making-a-k-zombie-action-game-based-on-the-hit-series-kingdom)
+ - [Streamer, former Fortnite pro Myth moving to YouTube in exclusive deal](https://www.polygon.com/23204360/myth-fortnite-pro-youtube-twitch-exclusive-deal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
