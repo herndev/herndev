@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day streaming sales include the Fire TV Stick Lite for just $12](https://www.androidauthority.com/amazon-prime-day-streaming-sales-3185186/)
- - [The PlayStation 5 is available for Best Buy Totaltech subscribers beginning July 12th at 12PM ET](https://www.theverge.com/2022/7/11/23204445/sony-playstation-5-ps5-console-restock-amazon-prime-day-totaltech-members-availability-check)
- - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)<!-- TECH:END -->
+ - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)
+ - [Apple renews workplace comedy &#39;Loot&#39; for a second season](https://appleinsider.com/articles/22/07/11/apple-renews-workplace-comedy-loot-for-a-second-season?utm_medium=rss)
+ - [Here’s the first full-color image from NASA’s James Webb Space Telescope](https://www.theverge.com/2022/7/11/23202949/nasa-jwst-first-image-joe-biden-universe-deep-field)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
