@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [What kind of sorcery is this??](http://9gag.com/gag/aWg5e6q)
- - ⏩ [Scarred for life](http://9gag.com/gag/aogwAAX)
- - 👉 [Maze fluid dynamics](http://9gag.com/gag/a71XP2b)<!-- MEMES:END -->
+ - ⏩ [Be a weak person](http://9gag.com/gag/apgwn3W)
+ - 👉 [Summary of my craftsmanship skill](http://9gag.com/gag/aogwAo2)<!-- MEMES:END -->
 
 ---
 
