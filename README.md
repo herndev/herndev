@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #387: Monday, July 11](https://www.pcgamer.com/wordle-today-july-11-387-answer-hint)
- - [How to complete the Elden Ring Sellen quest](https://www.pcgamer.com/elden-ring-sellen-quest-location)
- - [Now you can play the first Witcher&#39;s prologue in VR](https://www.pcgamer.com/now-you-can-play-the-first-witchers-prologue-in-vr)<!-- GAME:END -->
+ - [Stranger Things 4 needed to dream bigger](https://www.polygon.com/stranger-things/23200376/stranger-things-4-volume-2-review)
+ - [Look at all the fake games Valve made-up for the recent Steam sale](https://www.pcgamer.com/look-at-all-the-fake-games-valve-made-up-for-the-recent-steam-sale)
+ - [Today&#39;s Wordle answer #387: Monday, July 11](https://www.pcgamer.com/wordle-today-july-11-387-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
