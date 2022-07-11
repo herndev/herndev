@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dr. Disrespect&#39;s AAA studio is making an &#39;extraction shooter&#39;](https://www.pcgamer.com/dr-disrespects-aaa-studio-is-making-an-extraction-shooter)
  - [I&#39;m Getting Hungry Just Looking At This 3D Ramen](https://kotaku.com/unity-3d-ramen-noodles-art-artist-tech-vfx-shader-blend-1849163073)
- - [Five new Steam games you probably missed &lpar;July 11, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-11-2022)
- - [Kojima Productions Threatens Legal Action Over &#39;Assassin&#39; Photo](https://kotaku.com/kojima-productions-tetsuya-yamagami-shinzo-abe-photo-1849162976)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;July 11, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-11-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
