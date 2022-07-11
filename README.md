@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coldplay told fans at the concert in Warsaw to put away their phones and put their hands up with the bracelets they received at the entrance and live the moment for a few minutes. The effect was amazing.](http://9gag.com/gag/aegwEKm)
- - ⏩ [Hey Autumn!](http://9gag.com/gag/aVx5r1v)
- - 👉 [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)<!-- MEMES:END -->
+ - 💣 [These mangoes are bigger than your head and will fill up your stomach many times over. Hello all the way from Thailand.](http://9gag.com/gag/adgwAoM)
+ - ⏩ [Can we have two two holds? - one unforgettable moments of history.](http://9gag.com/gag/aPZ20bw)
+ - 👉 [Chris Pratt trying to hold his wifes hand](http://9gag.com/gag/aDD5L0N)<!-- MEMES:END -->
 
 ---
 
