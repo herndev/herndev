@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qiming Venture Partners, an early Xiaomi backer, raised $3.2B across two funds, bringing its total managed to $9.4B across 18 funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220711/p1#a220711p1)
- - [Best Buy Black Friday in July Sale: MacBooks from $899, TVs as low as $79, $170 off Beats](https://appleinsider.com/articles/22/07/11/best-buy-black-friday-in-july-sale-macbooks-from-899-tvs-as-low-as-79-170-off-beats?utm_medium=rss)
- - [It sounds more likely that Samsung could skip Exynos for Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-no-exynos-2023-3184499/)<!-- TECH:END -->
+ - [How North Korean spies infiltrate US crypto firms, posing as remote workers; UN says the country has stolen billions of dollars&#39; worth of crypto from exchanges &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/220711/p2#a220711p2)
+ - [One UI 5 beta leaks ahead of launch: Here’s what’s new](https://www.androidauthority.com/samsung-one-ui-5-features-3184971/)
+ - [Qiming Venture Partners, an early Xiaomi backer, raised $3.2B across two funds, bringing its total managed to $9.4B across 18 funds &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220711/p1#a220711p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
