@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft says decommissioned games will remain available to current owners](https://www.pcgamer.com/ubisofts-online-decommissioning-may-render-three-games-unplayable-for-people-who-bought-them)
- - [Here’s Everything You Need to Know About As Dusk Falls Multiplayer and Accessibility Features](https://news.xbox.com/en-us/2022/07/11/as-dusk-falls-multiplayer-and-accessibility-features/)
- - [Smash Champ Apologizes For Attending Tournament While Seriously Ill](https://kotaku.com/super-smash-bros-melee-ultimate-hungrybox-covid-19-1849165594)<!-- GAME:END -->
+ - [The Open World Racing Game That&#39;s Been Gone For A Decade Is Coming Back](https://kotaku.com/test-drive-unlimited-tdu-solar-crown-forza-horizon-1849165295)
+ - [A singleplayer Apex Legends shooter is in development at Respawn](https://www.pcgamer.com/a-singleplayer-apex-legends-shooter-is-in-development-at-respawn)
+ - [The Best Cozy Switch Games To Tap Out Of Your Daily Grind](https://kotaku.com/nintendo-switch-best-cozy-games-animal-crossing-1849165579)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
