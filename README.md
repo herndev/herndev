@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whooosh!](http://9gag.com/gag/a616eZe)
- - ⏩ [How dare you dont believe](http://9gag.com/gag/aAG57ep)
- - 👉 [Love isn&#39;t always on time](http://9gag.com/gag/aRrd88G)<!-- MEMES:END -->
+ - 💣 [Installing Belgian Blocks](http://9gag.com/gag/aAG57bp)
+ - ⏩ [Never give up](http://9gag.com/gag/aZr54L6)
+ - 👉 [Phase 4 so far..](http://9gag.com/gag/a41yB1d)<!-- MEMES:END -->
 
 ---
 
