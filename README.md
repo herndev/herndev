@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready for Prime Day 2022 with these tips &amp; exclusive deals on Apple products](https://appleinsider.com/articles/22/07/07/get-ready-for-prime-day-2022-with-these-tips-exclusive-deals-on-apple-products?utm_medium=rss)
- - [How to watch NASA reveal the first images from the James Webb Space Telescope](https://www.theverge.com/2022/7/11/23198234/nasa-jwst-first-full-color-images-reveal-how-to-watch)
- - [Oppo’s Air Glass is an AR experiment with one great idea](https://www.theverge.com/2022/7/11/23200756/oppo-air-glass-hands-on-ar-glasses)<!-- TECH:END -->
+ - [Uncontrolled rockets pose unnecessary risk, study finds](https://www.theverge.com/2022/7/11/23199088/uncontrolled-rocket-reentry-casualty-risk-analysis-space-industry)
+ - [Apple slips to fifth place, ties with Asus in global PC market in Q2 2022](https://appleinsider.com/articles/22/07/11/apple-slips-to-fifth-place-ties-with-asus-in-global-pc-market-in-q2-2022?utm_medium=rss)
+ - [FDA to consider ‘mini’ over-the-counter birth control pill](https://www.theverge.com/2022/7/11/23203546/fda-over-the-counter-birth-control-pill-contraceptive-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
