@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This man cuts the coconut perfectly so he can drink the water](http://9gag.com/gag/aDD59LN)
- - ⏩ [Mantis shrimp hold the world record for the most complex visual system. They have up to 16 photoreceptors and can see UV, visible and polarised light being the only animals known to detect circularly polarised light](http://9gag.com/gag/amgww9y)
- - 👉 [High school in the 1990s](http://9gag.com/gag/arnwEey)<!-- MEMES:END -->
+ - 💣 [High school in the 1990s](http://9gag.com/gag/arnwEey)
+ - ⏩ [Hola !](http://9gag.com/gag/aggwwxx)
+ - 👉 [Mantis shrimp hold the world record for the most complex visual system. They have up to 16 photoreceptors and can see UV, visible and polarised light being the only animals known to detect circularly polarised light](http://9gag.com/gag/amgww9y)<!-- MEMES:END -->
 
 ---
 
