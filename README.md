@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These Mega Church shit shows...Run like a business... should be taxed like a business. They are an abomination of true Christianity.](http://9gag.com/gag/aQX5NPW)
- - ⏩ [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)
- - 👉 [F**k these ppl](http://9gag.com/gag/a910Nm6)<!-- MEMES:END -->
+ - 💣 [What kind of sorcery is this??](http://9gag.com/gag/aWg5e6q)
+ - ⏩ [Scarred for life](http://9gag.com/gag/aogwAAX)
+ - 👉 [Maze fluid dynamics](http://9gag.com/gag/a71XP2b)<!-- MEMES:END -->
 
 ---
 
