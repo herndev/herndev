@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Gentleminions&#39; on TikTok: Why People Going to the &#39;Minions&#39; Movie Wearing Suits     - CNET](https://www.cnet.com/culture/internet/gentleminions-on-tiktok-why-people-going-to-the-minions-movie-wearing-suits/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39;: Post-Credits Scenes and Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-cameos-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-documentaries-on-netflix-you-absolutely-need-to-watch-2022/#ftag=CAD590a51e)
+ - [Stranger Things&#39; Season 4 Finale Should Have Delivered More     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-season-4-finale-should-have-delivered-more/#ftag=CAD590a51e)
+ - [Netflix: The 49 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-49-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
