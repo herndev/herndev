@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)
- - [Apple debuts iOS 16&#39;s first public beta, with widgets on the lock screen, iMessage edit and undo, and more, alongside public betas for macOS, watchOS, iPadOS &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220711/p14#a220711p14)
- - [How to install the iOS 16 and iPad 16 public betas](https://www.theverge.com/23200304/ios-16-beta-install-apple-how-to)<!-- TECH:END -->
+ - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-black-friday-july-sale-tech-deals-prime-day)
+ - [The Xbox Series X will now run one of the best retro versions of Windows](https://www.theverge.com/2022/7/11/23203906/xbox-series-consoles-windows-98-gaming-retro)
+ - [Prime Day 2022 deals: Amazon slashes Apple Mac mini to $569.99](https://appleinsider.com/articles/22/07/11/prime-day-2022-deals-amazon-slashes-apple-mac-mini-to-56999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
