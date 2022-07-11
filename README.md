@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You\u2019d like, wouldn\u2019t you?](http://9gag.com/gag/aGz5N57)
- - ⏩ [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)
+ - 💣 [Normal day in my town San Francisco](http://9gag.com/gag/a0ZqxxZ)
+ - ⏩ [You\u2019d like, wouldn\u2019t you?](http://9gag.com/gag/aGz5N57)
  - 👉 [This is why ships use tugboats](http://9gag.com/gag/abgwmWL)<!-- MEMES:END -->
 
 ---
