@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Life goal complete](http://9gag.com/gag/ay9wV0q)
- - ⏩ [Scarred for life](http://9gag.com/gag/aogwAAX)
- - 👉 [This should be illegal](http://9gag.com/gag/aDD5NEx)<!-- MEMES:END -->
+ - 💣 [Surprise motherf**ker!](http://9gag.com/gag/aegwygB)
+ - ⏩ [I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem I don&#39;t have a problem](http://9gag.com/gag/a71XPMe)
+ - 👉 [Standard for being a decent human being](http://9gag.com/gag/aGz563X)<!-- MEMES:END -->
 
 ---
 
