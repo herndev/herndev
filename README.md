@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 11: $284 Apple Watch Series 7, $379 iPad Air, $249 Philips 28-inch 4K Monitor, more](https://appleinsider.com/articles/22/07/11/daily-deals-july-11-284-apple-watch-series-7-379-ipad-air-249-philips-28-inch-4k-monitor-more?utm_medium=rss)
- - [How to set up, use, and remove iPhone Restrictions](https://www.androidauthority.com/iphone-restrictions-3184558/)
- - [Could TikTok Charge Users to View Your Videos? The Law Says Yes](https://www.wired.com/story/social-media-content-property/)<!-- TECH:END -->
+ - [Microsoft still plans to block Office macros by default after temporary rollback](https://www.theverge.com/2022/7/11/23203554/microsoft-block-office-vba-macros-changes-temporary-statement)
+ - [Rumored Apple Watch Pro could cost $900](https://appleinsider.com/articles/22/07/10/rumored-rugged-apple-watch-could-be-900-pro-model?utm_medium=rss)
+ - [Upnext is a nice read-later app — and the very beginning of something bigger](https://www.theverge.com/2022/7/11/23200855/upnext-read-later-app)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
