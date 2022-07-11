@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Climate Anxiety Discussion Has a Whiteness Problem](https://www.wired.com/story/climate-anxiety-whiteness-problem/)
- - [Quantum Advantage Showdowns Have No Clear Winners](https://www.wired.com/story/quantum-advantage-showdowns-have-no-clear-winners/)
- - [Russian ‘Hacktivists’ Are Causing Trouble Far Beyond Ukraine](https://www.wired.com/story/russia-hacking-xaknet-killnet/)<!-- TECH:END -->
+ - [Daily deals July 11: $284 Apple Watch Series 7, $379 iPad Air, $249 Philips 28-inch 4K Monitor, more](https://appleinsider.com/articles/22/07/11/daily-deals-july-11-284-apple-watch-series-7-379-ipad-air-249-philips-28-inch-4k-monitor-more?utm_medium=rss)
+ - [How to set up, use, and remove iPhone Restrictions](https://www.androidauthority.com/iphone-restrictions-3184558/)
+ - [Could TikTok Charge Users to View Your Videos? The Law Says Yes](https://www.wired.com/story/social-media-content-property/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
