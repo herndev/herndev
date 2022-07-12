@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t touch females apparently](http://9gag.com/gag/a11jyb2)
- - ⏩ [Brazilian man buys parachute online and tests it in his apartment in front of his wife and child](http://9gag.com/gag/apgw4jW)
- - 👉 [Japanese woman is accused of appropriating her own culture](http://9gag.com/gag/adgwEb9)<!-- MEMES:END -->
+ - 💣 [Absolutely deserve that](http://9gag.com/gag/a21p3Dw)
+ - ⏩ [Boys just wanna have fun](http://9gag.com/gag/a81OZrd)
+ - 👉 [As a south african true story ......](http://9gag.com/gag/arnwQD5)<!-- MEMES:END -->
 
 ---
 
