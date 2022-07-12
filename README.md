@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am very smart](http://9gag.com/gag/aE853xK)
- - ⏩ [Everyone of us knows who puts something like that up there!](http://9gag.com/gag/awz2EMB)
+ - 💣 [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)
+ - ⏩ [Neymar&#39;s daughter.](http://9gag.com/gag/aVx5A4y)
  - 👉 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
 
 ---
