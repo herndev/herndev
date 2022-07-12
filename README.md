@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No 1 reads this](http://9gag.com/gag/aOQ5LEv)
- - ⏩ [Bank runs happening in China. Part II](http://9gag.com/gag/aBn5BLD)
- - 👉 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)<!-- MEMES:END -->
+ - 💣 [Bank runs happening in China. Part II](http://9gag.com/gag/aBn5BLD)
+ - ⏩ [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
+ - 👉 [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)<!-- MEMES:END -->
 
 ---
 
