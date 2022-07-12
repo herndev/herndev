@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Privacy Panic Flares Up in India After Police Pull Payment Data](https://www.wired.com/story/police-pull-indian-payments-data/)
- - [The 55 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
- - [Elon Musk, in replies to a Breitbart tweet about Trump calling him a &quot;bullshit artist&quot;, says Trump should &quot;hang up his hat&quot; and DeSantis would easily beat Biden &lpar;Gareth Vipers/Wall Street Journal&rpar;](http://www.techmeme.com/220712/p22#a220712p22)<!-- TECH:END -->
+ - [Elon Musk’s Twitter battle ignites the right’s online agitators](https://www.theverge.com/2022/7/12/23205553/elon-musk-twitter-deal-charlie-kirk-jason-miller-republican-gop-expose)
+ - [How to use multi-stop routing in iOS 16 using Apple Maps](https://www.theverge.com/23200139/apple-maps-ios-16-multi-stop-directions-how-to)
+ - [Apple sues Ericsson over standards-essential patents](https://appleinsider.com/articles/22/07/12/apple-sues-over-sep-infringement-in-ericsson-legal-fight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
