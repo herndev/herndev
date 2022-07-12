@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)
- - [This remote keyfob hack may leave the past decade of Hondas vulnerable](https://www.theverge.com/2022/7/11/23204663/honda-remote-keyfob-hack-rolling-pwn-demonstration-security)
- - [Sources: Mysten Labs, a blockchain startup founded by ex-Meta crypto execs, is in talks to raise a $200M+ Series B led by FTX Ventures, seeking a $2B valuation &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/220711/p20#a220711p20)<!-- TECH:END -->
+ - [In an internal post, Meta&#39;s Head of Remote Presence and Engineering Maher Saba instructed engineering managers to identify and &quot;move to exit&quot; low performers &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220711/p22#a220711p22)
+ - [STMicro and GlobalFoundries plan to build a &amp;euro;5.7B chip factory in France with full capacity by 2026, with &quot;significant&quot; funding from the French government &lpar;Reuters&rpar;](http://www.techmeme.com/220711/p21#a220711p21)
+ - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
