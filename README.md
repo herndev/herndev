@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an internal post, Meta&#39;s Head of Remote Presence and Engineering Maher Saba instructed engineering managers to identify and &quot;move to exit&quot; low performers &lpar;Sylvia Varnham O&#39;Regan/The Information&rpar;](http://www.techmeme.com/220711/p22#a220711p22)
- - [STMicro and GlobalFoundries plan to build a &amp;euro;5.7B chip factory in France with full capacity by 2026, with &quot;significant&quot; funding from the French government &lpar;Reuters&rpar;](http://www.techmeme.com/220711/p21#a220711p21)
- - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)<!-- TECH:END -->
+ - [How much money do Twitch streamers make?](https://www.androidauthority.com/twitch-income-explained-3185267/)
+ - [Edge, which lets gamers clip their own shareable gameplay moments and turn them into standalone playable units called Playables, has raised a $30M Series A &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/220711/p24#a220711p24)
+ - [Twitter is rolling out the &quot;Unmentioning&quot; feature to all users, allowing users to remove themselves from conversations that include their Twitter handle &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220711/p23#a220711p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
