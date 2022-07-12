@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Twitter battle ignites the right’s online agitators](https://www.theverge.com/2022/7/12/23205553/elon-musk-twitter-deal-charlie-kirk-jason-miller-republican-gop-expose)
- - [How to use multi-stop routing in iOS 16 using Apple Maps](https://www.theverge.com/23200139/apple-maps-ios-16-multi-stop-directions-how-to)
- - [Apple sues Ericsson over standards-essential patents](https://appleinsider.com/articles/22/07/12/apple-sues-over-sep-infringement-in-ericsson-legal-fight?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Google already broke its new YouTube UI on old Chromecasts](https://www.theverge.com/2022/7/12/23205442/google-youtube-remote-experience-older-chromecasts)
+ - [How to enable Android’s TalkBack screen reader](https://www.theverge.com/23184596/android-screen-reader-how-to-enable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
