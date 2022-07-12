@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Google already broke its new YouTube UI on old Chromecasts](https://www.theverge.com/2022/7/12/23205442/google-youtube-remote-experience-older-chromecasts)
- - [How to enable Android’s TalkBack screen reader](https://www.theverge.com/23184596/android-screen-reader-how-to-enable)<!-- TECH:END -->
+ - [The Magic Leap 2 launches September 30th for $3,299](https://www.theverge.com/2022/7/12/23205702/magic-leap-2-enterprise-release-price-shipping-date-mixed-reality-ar-headset)
+ - [Airlift, a top startup in Pakistan that delivered goods in 30 minutes, is shutting down following a funding crunch, after raising an $85M Series B in Aug. 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220712/p28#a220712p28)
+ - [Nothing announces its phone &lpar;1&rpar;, starting at &amp;pound;399 with LED strips on the back, two 50MP rear cameras including an ultrawide lens, in 40 markets but not the US &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/220712/p27#a220712p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
