@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much money do Twitch streamers make?](https://www.androidauthority.com/twitch-income-explained-3185267/)
- - [Edge, which lets gamers clip their own shareable gameplay moments and turn them into standalone playable units called Playables, has raised a $30M Series A &lpar;Rachel Kaser/VentureBeat&rpar;](http://www.techmeme.com/220711/p24#a220711p24)
- - [Twitter is rolling out the &quot;Unmentioning&quot; feature to all users, allowing users to remove themselves from conversations that include their Twitter handle &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220711/p23#a220711p23)<!-- TECH:END -->
+ - [A look at the dispute between satellite internet operators like SpaceX and 5G operators like Dish, with each party lobbying the FCC over the 12 GHz band rules &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220712/p1#a220712p1)
+ - [How to cancel subscriptions on Amazon](https://www.androidauthority.com/cancel-subscriptions-amazon-3183952/)
+ - [How much money do Twitch streamers make?](https://www.androidauthority.com/twitch-income-explained-3185267/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
