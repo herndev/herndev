@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)
- - [Until Dawn and The Quarry developer acquired by Nordic media giant](https://www.pcgamer.com/until-dawn-and-the-quarry-developer-acquired-by-nordic-media-giant)
- - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)<!-- GAME:END -->
+ - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
+ - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
+ - [Monument Valley 1 and 2 finally come to PC in re-imagined &#39;panoramic editions&#39;](https://www.pcgamer.com/monument-valley-1-and-2-finally-come-to-pc-in-re-imagined-panoramic-editions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
