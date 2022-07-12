@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trove Celebrating Its Sunfest and Preparing Sunrise for Its Next Big Update](https://news.xbox.com/en-us/2022/07/12/trove-celebrating-sunfest-and-sunrise-update/)
- - [I am once again asking for Doomguy Pro Skater to become a reality](https://www.pcgamer.com/i-am-once-again-asking-for-doomguy-pro-skater-to-become-a-reality)
- - [I don’t think there’s enough blood in this game based on a Netflix Korean zombie series](https://www.polygon.com/23205887/kingdom-the-blood-game-netflix-korean-zombie-series)<!-- GAME:END -->
+ - [Citizen Sleeper’s first DLC chapter arrives in two weeks](https://www.polygon.com/23205623/citizen-sleeper-dlc-episodes-release-dates-chapters-flux)
+ - [Twitter sues Elon Musk](https://www.pcgamer.com/twitter-sues-elon-musk)
+ - [Nothing Is More Relaxing Than Building A Plastic Model Kit](https://kotaku.com/gundam-model-kit-plastic-last-call-bbs-zachtronics-1849163348)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
