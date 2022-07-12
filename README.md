@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An unnamed ex-Twitter employee tells the Jan. 6 committee that Twitter went easy on Trump because it &quot;relished&quot; the power of being his favorite social network &lpar;Washington Post&rpar;](http://www.techmeme.com/220712/p29#a220712p29)
- - [10 Prime Day Deals on Coffee Gear, Subscriptions, and More](https://www.wired.com/story/coffee-gear-deals-prime-day/)
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)
+ - [Twitter sues Elon Musk for backing out of $44 billion merger](https://appleinsider.com/articles/22/07/12/twitter-sues-elon-musk-for-backing-out-of-44-billion-merger?utm_medium=rss)
+ - [Match Group is bringing Tinder’s free background checks to more dating apps](https://www.theverge.com/2022/7/12/23205789/match-stir-free-background-checks-tinder-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
