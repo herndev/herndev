@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Animoca Brands says it has completed a $75.32M raise, which was the second tranche of its January raise, pushing its valuation from $5.5B up to $5.9B &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220712/p19#a220712p19)
- - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
- - [YouTube TV hits 5 million subscribers and is looking like the future of cable](https://www.theverge.com/2022/7/12/23205080/youtube-tv-subscribers-5-million-sports-bundle)<!-- TECH:END -->
+ - [A Privacy Panic Flares Up in India After Police Pull Payment Data](https://www.wired.com/story/police-pull-indian-payments-data/)
+ - [The 55 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
+ - [Elon Musk, in replies to a Breitbart tweet about Trump calling him a &quot;bullshit artist&quot;, says Trump should &quot;hang up his hat&quot; and DeSantis would easily beat Biden &lpar;Gareth Vipers/Wall Street Journal&rpar;](http://www.techmeme.com/220712/p22#a220712p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
