@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
- - [Doom hacker gets Doom running in Doom](https://www.pcgamer.com/doom-hacker-gets-doom-running-in-doom)
- - [Rejoice, Chainsaw gang, there’s finally a new chapter of Chainsaw Man](https://www.polygon.com/23205390/chainsaw-man-manga-part-2)<!-- GAME:END -->
+ - [Nickelodeon and Smite Collide in an All-New Crossover Event on the Battleground of the Gods](https://news.xbox.com/en-us/2022/07/12/nickelodeon-and-smite-collide-in-an-all-new-crossover-event-on-the-battleground-of-the-gods/)
+ - [Netflix’s Resident Evil series could have been about superdad Albert Wesker. Instead it’s just boring](https://www.polygon.com/23204483/netflix-resident-evil-review)
+ - [The OBSBOT Tiny 4K camera could be the smartest webcam around](https://www.pcgamer.com/the-obsbot-tiny-4k-camera-could-be-the-smartest-webcam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
