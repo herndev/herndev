@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nickelodeon and Smite Collide in an All-New Crossover Event on the Battleground of the Gods](https://news.xbox.com/en-us/2022/07/12/nickelodeon-and-smite-collide-in-an-all-new-crossover-event-on-the-battleground-of-the-gods/)
- - [Netflix’s Resident Evil series could have been about superdad Albert Wesker. Instead it’s just boring](https://www.polygon.com/23204483/netflix-resident-evil-review)
- - [The OBSBOT Tiny 4K camera could be the smartest webcam around](https://www.pcgamer.com/the-obsbot-tiny-4k-camera-could-be-the-smartest-webcam)<!-- GAME:END -->
+ - [Grab these 34 games free through Wednesday if you&#39;ve got Amazon Prime](https://www.pcgamer.com/grab-these-34-games-free-through-wednesday-if-youve-got-amazon-prime)
+ - [Spotify got Wordle envy and bought music-guessing game Heardle](https://www.pcgamer.com/spotify-got-wordle-envy-and-bought-music-guessing-game-heardle)
+ - [Nickelodeon and Smite Collide in an All-New Crossover Event on the Battleground of the Gods](https://news.xbox.com/en-us/2022/07/12/nickelodeon-and-smite-collide-in-an-all-new-crossover-event-on-the-battleground-of-the-gods/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
