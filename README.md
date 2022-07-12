@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You might say it is pointless if it is fake, but it does make them happy. I don&#39;t feel anything about it, but I know it is better for them, and my logical side says it is the right thing to do, so I choose to do it.](http://9gag.com/gag/aPZ2NrB)
- - ⏩ [The next few days](http://9gag.com/gag/aRrdYnq)
- - 👉 [How different breeds react to robbers 2 &lpar;Johnny Devaney&rpar;](http://9gag.com/gag/a71Xzdq)<!-- MEMES:END -->
+ - 💣 [First incredible picture of the James Webb Space Telescope using wide-lens x-ray scattering morphology laser focus. Mars.](http://9gag.com/gag/amgwjAy)
+ - ⏩ [Carina Nebula compared. Top is taken with James Webb Space Telescope, bottom is taken with Hubble Telescope.](http://9gag.com/gag/a5138BG)
+ - 👉 [You might say it is pointless if it is fake, but it does make them happy. I don&#39;t feel anything about it, but I know it is better for them, and my logical side says it is the right thing to do, so I choose to do it.](http://9gag.com/gag/aPZ2NrB)<!-- MEMES:END -->
 
 ---
 
