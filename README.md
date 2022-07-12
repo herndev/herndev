@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A shopping mall in India announced mid night sale with 50% discount.](http://9gag.com/gag/arnwE6p)
- - ⏩ [That&#39;s gonna leave a mark](http://9gag.com/gag/ajgwvoQ)
- - 👉 [It&#39;s really tough.....](http://9gag.com/gag/aZr5OZ6)<!-- MEMES:END -->
+ - 💣 [That\u2019s a lot of meat!! The largest dry aging room in the world.](http://9gag.com/gag/a81Ogrp)
+ - ⏩ [No 1 reads this](http://9gag.com/gag/aOQ5LEv)
+ - 👉 [When you go on a date but she brings her friends and they get drunk](http://9gag.com/gag/a0ZqqmO)<!-- MEMES:END -->
 
 ---
 
