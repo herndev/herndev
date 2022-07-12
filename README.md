@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Liquidators say they can&#39;t find the founders of 3AC and seek to subpoena Kyle Davies, Zhu Su, and others to prevent the dissipation of the fund&#39;s assets &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/220712/p2#a220712p2)
- - [Master iOS 15 with this new AppleInsider book](https://appleinsider.com/articles/22/07/11/master-ios-15-with-this-new-appleinsider-book?utm_medium=rss)
- - [Amazon Prime Day Alternatives: Shop the Best Anti-Prime Day Deals Now     - CNET](https://www.cnet.com/deals/amazon-prime-day-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HMD’s new Nokia phone has a hidden charger for included earbuds](https://www.theverge.com/2022/7/12/23199892/hmd-nokia-5710-xpressaudio-true-wireless-earbuds-charging-case)
+ - [Wefox, a Berlin-based digital insurer focused on personal insurance products, raised a $400M Series D at a post-money valuation of $4.5B, up from $3B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220712/p6#a220712p6)
+ - [Prime Day deals: AirPods Pro dip to $169, Apple TV 4K $119, M1 Pro MacBook Pro $1,799](https://appleinsider.com/articles/22/07/11/early-prime-day-deals-airpods-pro-dip-to-169-apple-tv-4k-119-m1-pro-macbook-pro-1799?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
