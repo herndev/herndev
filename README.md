@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetooth audio’s biggest upgrade in years is coming soon to headphones](https://www.theverge.com/2022/7/12/23204956/bluetooth-le-audio-completed-low-power-high-quality-wireless-headphones)
- - [Daily Authority: 👀 Nothing’s secret](https://www.androidauthority.com/daily-authority-july-12-2022-3185400/)
- - [Sony Prime Day deals: Headphones, TVs, and more at record-low prices](https://www.androidauthority.com/sony-prime-day-deals-3185357/)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Popular ‘link in bio’ service Linktree is launching a mobile app](https://www.theverge.com/2022/7/12/23204327/linktree-mobile-ios-android-app-link-in-bio)
+ - [This Apple Watch Prime Day deal slashes $120 off your favorite model](https://www.androidauthority.com/apple-watch-deals-prime-day-2022-3185448/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
