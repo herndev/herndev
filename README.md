@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Phone 1 wallpapers are out. Download them here.](https://www.androidauthority.com/nothing-phone-1-wallpapers-download-3185393/)
- - [A look at the dispute between satellite internet operators like SpaceX and 5G operators like Dish, with each party lobbying the FCC over the 12 GHz band rules &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220712/p1#a220712p1)
- - [The James Webb Space Telescope Image Reveal Was an Embarrassment     - CNET](https://www.cnet.com/science/space/the-james-webb-space-telescope-image-reveal-was-an-embarrassment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Liquidators say they can&#39;t find the founders of 3AC and seek to subpoena Kyle Davies, Zhu Su, and others to prevent the dissipation of the fund&#39;s assets &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/220712/p2#a220712p2)
+ - [Master iOS 15 with this new AppleInsider book](https://appleinsider.com/articles/22/07/11/master-ios-15-with-this-new-appleinsider-book?utm_medium=rss)
+ - [Amazon Prime Day Alternatives: Shop the Best Anti-Prime Day Deals Now     - CNET](https://www.cnet.com/deals/amazon-prime-day-alternatives/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
