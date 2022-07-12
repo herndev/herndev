@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bodies Bodies Bodies looks like Euphoria meets Among Us in new trailer](https://www.polygon.com/23205216/bodies-bodies-bodies-trailer-a24-pete-davidson)
- - [How Neon White brought back the leaderboard chase](https://www.polygon.com/23200381/neon-white-leaderboards-platforms-ben-esposito)
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)<!-- GAME:END -->
+ - [Get More FIFA 22 with EA Play – Now Available on The Play List](https://news.xbox.com/en-us/2022/07/12/get-more-fifa-22-with-ea-play-now-available-on-the-play-list/)
+ - [The best Amazon Prime Day SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
+ - [A Prime Day TV Deal That Boosts Your PS5 And Xbox Series X Graphics](https://kotaku.com/amazon-prime-day-gaming-tv-ps5-xbox-series-x-vrr-lg-tcl-1849168802)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
