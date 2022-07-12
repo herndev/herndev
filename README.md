@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gentleman and Female Gentlemans.At the age of 23 i can proudly say that im the proud owner of a Vw Polo 1.4.](http://9gag.com/gag/aogwbRe)
- - ⏩ [Its not always about the graphics](http://9gag.com/gag/a31rmZ8)
+ - 💣 [You might say it is pointless if it is fake, but it does make them happy. I don&#39;t feel anything about it, but I know it is better for them, and my logical side says it is the right thing to do, so I choose to do it.](http://9gag.com/gag/aPZ2NrB)
+ - ⏩ [The next few days](http://9gag.com/gag/aRrdYnq)
  - 👉 [How different breeds react to robbers 2 &lpar;Johnny Devaney&rpar;](http://9gag.com/gag/a71Xzdq)<!-- MEMES:END -->
 
 ---
