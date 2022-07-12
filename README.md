@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Early Amazon Prime Day Deals](https://www.wired.com/story/early-amazon-prime-day-deals-and-tips-2022-3/)
- - [GameStop’s NFT market has arrived just in time for a crypto market crash](https://www.theverge.com/2022/7/11/23204454/gamestop-nft-marketplace-crypto)
- - [Report shows Mac shipments grew in Q2, up 9.3 percent year-over-year](https://appleinsider.com/articles/22/07/11/report-shows-mac-shipments-grew-in-q2-up-93-percent-year-over-year?utm_medium=rss)<!-- TECH:END -->
+ - [These are the best routers for iPhone, iPad, and Mac owners](https://appleinsider.com/inside/homekit/best/these-are-the-best-routers-for-iphone-ipad-and-mac-owners?utm_medium=rss)
+ - [This remote keyfob hack may leave the past decade of Hondas vulnerable](https://www.theverge.com/2022/7/11/23204663/honda-remote-keyfob-hack-rolling-pwn-demonstration-security)
+ - [Sources: Mysten Labs, a blockchain startup founded by ex-Meta crypto execs, is in talks to raise a $200M+ Series B led by FTX Ventures, seeking a $2B valuation &lpar;Aidan Ryan/The Information&rpar;](http://www.techmeme.com/220711/p20#a220711p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
