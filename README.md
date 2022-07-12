@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s a lot of meat!! The largest dry aging room in the world.](http://9gag.com/gag/a81Ogrp)
- - ⏩ [No 1 reads this](http://9gag.com/gag/aOQ5LEv)
- - 👉 [When you go on a date but she brings her friends and they get drunk](http://9gag.com/gag/a0ZqqmO)<!-- MEMES:END -->
+ - 💣 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
+ - ⏩ [Too slow](http://9gag.com/gag/aQX5WQ8)
+ - 👉 [Judge finds out that someone was videotaping witnesses and jurors in the courthouse and suspects intimidation may be the reason](http://9gag.com/gag/aYr5X7v)<!-- MEMES:END -->
 
 ---
 
