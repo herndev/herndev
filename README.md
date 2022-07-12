@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [This Week’s Deals With Gold And Spotlight Sale &lpar;Week of July 11&rpar;](https://news.xbox.com/en-us/2022/07/11/this-weeks-deals-with-gold-and-spotlight-sale-2/)<!-- GAME:END -->
+ - [Farming Simulator 22 Platinum Edition expansion details revealed, out November 15](https://blog.playstation.com/2022/07/12/farming-simulator-22-platinum-edition-expansion-details-revealed-out-november-15/)
+ - [Until Dawn and The Quarry developer acquired by Nordic media giant](https://www.pcgamer.com/until-dawn-and-the-quarry-developer-acquired-by-nordic-media-giant)
+ - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
