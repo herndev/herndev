@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HMD’s new Nokia phone has a hidden charger for included earbuds](https://www.theverge.com/2022/7/12/23199892/hmd-nokia-5710-xpressaudio-true-wireless-earbuds-charging-case)
- - [Wefox, a Berlin-based digital insurer focused on personal insurance products, raised a $400M Series D at a post-money valuation of $4.5B, up from $3B in 2021 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220712/p6#a220712p6)
- - [Prime Day deals: AirPods Pro dip to $169, Apple TV 4K $119, M1 Pro MacBook Pro $1,799](https://appleinsider.com/articles/22/07/11/early-prime-day-deals-airpods-pro-dip-to-169-apple-tv-4k-119-m1-pro-macbook-pro-1799?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Twitter employees say it&#39;s a &quot;shit show internally&quot;, exasperated by weak leadership and lack of support amid targeted harassment from outside the company &lpar;Wired&rpar;](http://www.techmeme.com/220712/p7#a220712p7)
+ - [Chromecast with Google TV gets a fresh update after 7 months](https://www.androidauthority.com/chromecast-with-google-tv-android-update-3185412/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
