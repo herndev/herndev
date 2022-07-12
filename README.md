@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [GameStop Boss Celebrates NFT Marketplace Days After Laying People Off](https://kotaku.com/gamestop-nft-crypto-scam-meme-stock-layoffs-1849166655)
- - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)<!-- GAME:END -->
+ - [Developer Ambushes NFTs In Public Talk, Makes Crypto Sponsors Real Mad](https://kotaku.com/nft-blockchain-crypto-scam-brazil-video-games-1849166901)
+ - [Heroic streamer plays Getting Over It with motion-controlled hammer and a cauldron](https://www.pcgamer.com/heroic-streamer-plays-getting-over-it-with-motion-controlled-hammer-while-sitting-in-a-cauldron)
+ - [Apex pro shows mercy on disconnected player during $2M championship tournament](https://www.pcgamer.com/apex-pro-shows-mercy-on-disconnected-player-during-dollar2m-championship-tournament)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
