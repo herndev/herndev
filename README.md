@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Grab these 34 games free through Wednesday if you&#39;ve got Amazon Prime](https://www.pcgamer.com/grab-these-34-games-free-through-wednesday-if-youve-got-amazon-prime)
- - [Spotify got Wordle envy and bought music-guessing game Heardle](https://www.pcgamer.com/spotify-got-wordle-envy-and-bought-music-guessing-game-heardle)
- - [Nickelodeon and Smite Collide in an All-New Crossover Event on the Battleground of the Gods](https://news.xbox.com/en-us/2022/07/12/nickelodeon-and-smite-collide-in-an-all-new-crossover-event-on-the-battleground-of-the-gods/)<!-- GAME:END -->
+ - [Destiny Dev Demands Bungie Support Trans-Inclusive Health Care](https://kotaku.com/bungie-sony-trans-transgender-health-care-signy-destiny-1849170727)
+ - [Lost Ark guide: Vykas Legion Raid Gate 1 walkthrough and cheat sheet](https://www.polygon.com/guides/2022/7/12/23204511/lost-ark-guide-vykas-legion-raid-gate-1-first-phase-walkthrough-cheat-sheet)
+ - [Lost Ark guide: How to start the Vykas Legion Raid](https://www.polygon.com/guides/2022/7/12/23204280/lost-ark-guide-vykas-legion-raid-guide-walkthrough-how-to-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
