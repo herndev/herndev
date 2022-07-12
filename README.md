@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Day 2022 gaming deals](https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022)
- - [Twitter sues Elon Musk for backing out of $44 billion merger](https://appleinsider.com/articles/22/07/12/twitter-sues-elon-musk-for-backing-out-of-44-billion-merger?utm_medium=rss)
- - [Match Group is bringing Tinder’s free background checks to more dating apps](https://www.theverge.com/2022/7/12/23205789/match-stir-free-background-checks-tinder-system)<!-- TECH:END -->
+ - [The 73 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
+ - [Liquidators for crypto hedge fund Three Arrows Capital say they can’t find founders](https://www.theverge.com/2022/7/11/23204465/three-arrows-capita-3ac-liquidators-crypto-hedge-fund-cant-find-founders-kyle-davies-su-zhu)
+ - [The best Prime Day 2022 deals on smart home tech](https://www.theverge.com/23200949/amazon-prime-day-best-smart-home-devices-google-alexa-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
