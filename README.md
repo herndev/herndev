@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
- - ⏩ [Too slow](http://9gag.com/gag/aQX5WQ8)
- - 👉 [Judge finds out that someone was videotaping witnesses and jurors in the courthouse and suspects intimidation may be the reason](http://9gag.com/gag/aYr5X7v)<!-- MEMES:END -->
+ - 💣 [32 degrees C &lpar;90 F&rpar; recorded in Inuvik, NWT, Canada last week. That town is well inside the Arctic circle and near the Arctic Ocean\u2026](http://9gag.com/gag/aPZ2q2q)
+ - ⏩ [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)
+ - 👉 [Checking the hen to see if she&#39;s got any eggs](http://9gag.com/gag/a6160de)<!-- MEMES:END -->
 
 ---
 
