@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any veterans here? Im at 3648 days. Dont know what rank am I](http://9gag.com/gag/a81OB8V)
- - ⏩ [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)
- - 👉 [How different breeds react to robbers 2 &lpar;Johnny Devaney&rpar;](http://9gag.com/gag/a71Xzdq)<!-- MEMES:END -->
+ - 💣 [It&#39;s evolving, just backwards](http://9gag.com/gag/angw6x0)
+ - ⏩ [Neymar&#39;s daughter.](http://9gag.com/gag/aVx5A4y)
+ - 👉 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)<!-- MEMES:END -->
 
 ---
 
