@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Genetically engineered pig hearts transplanted into dead people](https://www.theverge.com/2022/7/12/23205141/pig-heart-xenotransplant-dead-patients-organs)
- - [Prime Day 2022: Apple AirPods are back in stock for $89.99](https://appleinsider.com/articles/22/07/12/prime-day-2022-apple-airpods-are-back-in-stock-for-8999?utm_medium=rss)
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)<!-- TECH:END -->
+ - [Animoca Brands says it has completed a $75.32M raise, which was the second tranche of its January raise, pushing its valuation from $5.5B up to $5.9B &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220712/p19#a220712p19)
+ - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
+ - [YouTube TV hits 5 million subscribers and is looking like the future of cable](https://www.theverge.com/2022/7/12/23205080/youtube-tv-subscribers-5-million-sports-bundle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
