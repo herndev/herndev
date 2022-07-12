@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making my own Video Game in my free time. Not as cool as a forklift certificate but it&#39;s something. What do you guys think? Once its done it will be free ofc. Gameplay is base/tower defense and exploration.](http://9gag.com/gag/aGz5mKG)
- - ⏩ [Breathtakingly idiotic\u2026](http://9gag.com/gag/avAwM0Z)
- - 👉 [Medical vs engineers](http://9gag.com/gag/aDD5KwG)<!-- MEMES:END -->
+ - 💣 [Medical vs engineers](http://9gag.com/gag/aDD5KwG)
+ - ⏩ [Emergency landing on a highway](http://9gag.com/gag/a21p32w)
+ - 👉 [Brazilian man buys parachute online and tests it in his apartment in front of his wife and child](http://9gag.com/gag/apgw4jW)<!-- MEMES:END -->
 
 ---
 
