@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Medical vs engineers](http://9gag.com/gag/aDD5KwG)
+ - 💣 [Its not always about the graphics](http://9gag.com/gag/a31rmZ8)
  - ⏩ [Emergency landing on a highway](http://9gag.com/gag/a21p32w)
- - 👉 [Brazilian man buys parachute online and tests it in his apartment in front of his wife and child](http://9gag.com/gag/apgw4jW)<!-- MEMES:END -->
+ - 👉 [Our local Crackhead in Action](http://9gag.com/gag/aBn5Ae2)<!-- MEMES:END -->
 
 ---
 
