@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get More FIFA 22 with EA Play – Now Available on The Play List](https://news.xbox.com/en-us/2022/07/12/get-more-fifa-22-with-ea-play-now-available-on-the-play-list/)
- - [The best Amazon Prime Day SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
- - [A Prime Day TV Deal That Boosts Your PS5 And Xbox Series X Graphics](https://kotaku.com/amazon-prime-day-gaming-tv-ps5-xbox-series-x-vrr-lg-tcl-1849168802)<!-- GAME:END -->
+ - [In Tomorrow, and Tomorrow, and Tomorrow, intense friendship and game design are intertwined](https://www.polygon.com/23204315/tomorrow-and-tomorrow-and-tomorrow-gabrielle-zevin-interview-book)
+ - [Company of Heroes 3&#39;s North African operation is a classic RTS campaign](https://www.pcgamer.com/company-of-heroes-3s-north-african-operation-is-a-classic-rts-campaign)
+ - [Company of Heroes 3 is launching on November 17, along with 2 very different campaigns](https://www.pcgamer.com/company-of-heroes-3-is-coming-on-november-17-along-with-two-very-different-campaigns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
