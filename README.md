@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
  - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [This Week’s Deals With Gold And Spotlight Sale &lpar;Week of July 11&rpar;](https://news.xbox.com/en-us/2022/07/11/this-weeks-deals-with-gold-and-spotlight-sale-2/)
- - [Skyrim Co-Op Mod Released, Mostly Actually Works](https://kotaku.com/skyrim-co-op-multiplayer-mod-pc-elder-scrolls-1849167210)<!-- GAME:END -->
+ - [This Week’s Deals With Gold And Spotlight Sale &lpar;Week of July 11&rpar;](https://news.xbox.com/en-us/2022/07/11/this-weeks-deals-with-gold-and-spotlight-sale-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
