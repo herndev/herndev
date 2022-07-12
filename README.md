@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
- - [Become a Bebop &amp; Rocksteady Expert In TMNT: The Cowabunga Collection](https://blog.playstation.com/2022/07/12/become-a-bebop-rocksteady-expert-in-tmnt-the-cowabunga-collection/)
- - [Monument Valley 1 and 2 finally come to PC in re-imagined &#39;panoramic editions&#39;](https://www.pcgamer.com/monument-valley-1-and-2-finally-come-to-pc-in-re-imagined-panoramic-editions)<!-- GAME:END -->
+ - [Kirby takes on dessert in surprise new racing game Kirby’s Dream Buffet](https://www.polygon.com/nintendo/23205122/kirbys-dream-buffet-trailer-nintendo-switch)
+ - [Amazon giving away 30 games, including Mass Effect Legendary Edition, right now](https://www.polygon.com/2022/6/16/23170855/amazon-prime-day-2022-deals-free-video-games)
+ - [Here’s what we liked about Thor: Love and Thunder](https://www.polygon.com/23200497/thor-love-and-thunder-best-moments)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
