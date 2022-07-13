@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM&#39;s Red Hat names Matt Hicks, head of products and technologies, as president and chief executive officer, replacing Paul Cormier, who will serve as chairman &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220712/p37#a220712p37)
- - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)
- - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)<!-- TECH:END -->
+ - [Lightspeed Ventures raised $6.6B across three US funds and $500M for an India and Southeast Asia fund, as it debuts a dedicated team to back blockchain founders &lpar;Fortune&rpar;](http://www.techmeme.com/220712/p39#a220712p39)
+ - [Our Favorite Prime Day Mattress and Sleep Deals](https://www.wired.com/story/best-amazon-prime-day-mattress-and-sleep-deals-2022-1/)
+ - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-deals-black-friday-july-sale-prime-day-tech-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
