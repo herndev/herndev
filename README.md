@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)
- - ⏩ [Educated Elite](http://9gag.com/gag/aPZ2OPQ)
+ - 💣 [It&#39;s like a tradition here, anyways i&#39;m gonna be dad in couple hours.](http://9gag.com/gag/aZr59M9)
+ - ⏩ [When comedy didn\u2019t offend everyone.](http://9gag.com/gag/aAG5n5R)
  - 👉 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)<!-- MEMES:END -->
 
 ---
