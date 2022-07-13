@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: crypto startups received $6.76B in VC funding in Q2 2022, down 31% from a record $9.85B in Q1 2022 &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220713/p20#a220713p20)
- - [Android 13 schedule: When will it launch?](https://www.androidauthority.com/android-13-schedule-3105528/)
- - [Android 13 beta 4 is here: The final beta before we go stable?](https://www.androidauthority.com/android-13-beta-4-3185786/)<!-- TECH:END -->
+ - [Sega’s Genesis Mini 2 launches in October with more power and more games](https://www.theverge.com/2022/7/13/23207267/sega-genesis-mini-2-announced-games-features)
+ - [How to do a ping test on Windows](https://www.androidauthority.com/ping-test-windows-3184265/)
+ - [Samsung Galaxy Note 10 series now receiving July 2022 patch](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
