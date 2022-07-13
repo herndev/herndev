@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
- - [China has approved publishing licenses to 67 more online game titles, its third batch this year, but Tencent and NetEase games again failed to make the list &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/220712/p42#a220712p42)
- - [A critique of Ev Williams&#39; 10-year tenure at Medium and how it got caught in the middle between Substack and well-funded publishers like BuzzFeed and Vice &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220712/p41#a220712p41)<!-- TECH:END -->
+ - [Vermont&#39;s Department of Financial Regulation joins a multistate investigation into Celsius and says it believes the crypto lender is &quot;deeply insolvent&quot; &lpar;Shivani Tanna/Reuters&rpar;](http://www.techmeme.com/220713/p1#a220713p1)
+ - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
