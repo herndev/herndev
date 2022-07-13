@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thor: Love and Thunder sells Valkyrie out in the worst ways](https://www.polygon.com/23205840/thor-love-and-thunder-valkyrie-cheated)
- - [Valve trials a new take on Steam&#39;s Discovery Queue](https://www.pcgamer.com/valve-trials-a-new-take-on-steams-discovery-queue)
- - [The best Amazon Prime Day SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)<!-- GAME:END -->
+ - [Skate 4 devs kindly ask folks to stop playing a leaked build](https://www.polygon.com/23206837/skate-4-leaked-game-build-devs-respond)
+ - [Spooky New Game Rekindles The Horror Of The Cryptid Legend](https://kotaku.com/mothmen-1966-visual-novel-cryptid-mothman-horror-strate-1849065925)
+ - [Spotify buys Heardle, the Wordle for music lovers](https://www.polygon.com/23206760/spotify-buys-heardle-music-guessing-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
