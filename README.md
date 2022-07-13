@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok is giving you new ways to control your For You page](https://www.theverge.com/2022/7/13/23205795/tiktok-algorithm-hashtag-filters-safety-content-levels)
- - [Amazon Prime Day deals: Phones, TVs, and much more on sale now!](https://www.androidauthority.com/best-prime-day-deals-1236398/)
- - [Need a cheap slate? These Prime Day Fire tablet deals might be for you.](https://www.androidauthority.com/amazon-prime-day-fire-tablets-2022-3185956/)<!-- TECH:END -->
+ - [Twitter says roughly 1.5B tweets about gaming were made on its site in H1 2022, up 36% YoY; Genshin Impact and Wordle were the most tweeted-about games &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220713/p9#a220713p9)
+ - [TikTok unveils Content Levels, a system to classify content, similar to age ratings in films, and plans to let users block videos with certain words or hashtags &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p8#a220713p8)
+ - [Apple TV+ receives 52 Primetime Emmy nominations, including 20 for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/22/07/12/apple-tv-receives-51-primetime-emmy-nominations-including-20-for-ted-lasso?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
