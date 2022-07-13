@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
- - [SVP Prabhakar Raghavan says Google&#39;s studies show younger users often use apps like Instagram and TikTok instead of Google Search or Maps for discovery purposes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p2#a220713p2)
- - [&#39;Westworld&#39; Season 4, Episode 3 Recap: Unleash the Flies     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-3-recap-unleash-the-flies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Top Apple deals to grab during the Amazon Prime Day sale](https://www.androidauthority.com/best-apple-deals-amazon-prime-day-sale-3185908/)
+ - [The top 5 Prime Day smartphone deals worth checking out](https://www.androidauthority.com/top-5-prime-day-smartphone-deals-3185405/)
+ - [Atlanta-based SingleOps, which makes business management software for the green industry, has raised $74M led by FTV Management Company &lpar;Zach Armstrong/Atlanta Business Journal&rpar;](http://www.techmeme.com/220713/p4#a220713p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
