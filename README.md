@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google SVP Prabhakar Raghavan says its studies show younger users often use apps like Instagram and TikTok over Google Search or Maps for discovery purposes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p2#a220713p2)
- - [Vermont&#39;s Department of Financial Regulation joins a multistate investigation into Celsius and says it believes the cryptocurrency lender is &quot;deeply insolvent&quot; &lpar;Shivani Tanna/Reuters&rpar;](http://www.techmeme.com/220713/p1#a220713p1)
- - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)<!-- TECH:END -->
+ - [Amazon Prime Day 2022: here are the best tech deals](https://www.theverge.com/23198392/amazon-prime-day-best-deals-sales-tech-gadgets-laptops-tvs-headphones-2022)
+ - [SVP Prabhakar Raghavan says Google&#39;s studies show younger users often use apps like Instagram and TikTok instead of Google Search or Maps for discovery purposes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p2#a220713p2)
+ - [&#39;Westworld&#39; Season 4, Episode 3 Recap: Unleash the Flies     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-3-recap-unleash-the-flies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
