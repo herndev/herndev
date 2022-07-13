@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The N64 controller for Switch is back in stock at the Nintendo store](https://www.theverge.com/2022/7/13/23149214/n64-controller-wireless-switch-nintendo-online-expansion-restock)
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Valve Steam Deck review: Mac users can welcome back 32-bit games](https://appleinsider.com/articles/22/07/13/valve-steam-deck-review-mac-users-can-welcome-back-32-bit-games?utm_medium=rss)<!-- TECH:END -->
+ - [24 Best Prime Day Deals on Amazon Devices](https://www.wired.com/story/best-amazon-device-deals-prime-day-2022-1/)
+ - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)
+ - [Esther isn’t fooling anyone in Orphan: First Kill’s new trailer](https://www.theverge.com/2022/7/13/23206816/orphan-first-kill-trailer-isabelle-fuhrman)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
