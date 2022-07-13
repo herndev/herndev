@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Citizen Sleeper’s first DLC chapter arrives in two weeks](https://www.polygon.com/23205623/citizen-sleeper-dlc-episodes-release-dates-chapters-flux)
- - [Twitter sues Elon Musk](https://www.pcgamer.com/twitter-sues-elon-musk)
- - [Nothing Is More Relaxing Than Building A Plastic Model Kit](https://kotaku.com/gundam-model-kit-plastic-last-call-bbs-zachtronics-1849163348)<!-- GAME:END -->
+ - [Nintendo Japan Says It Recognises Same-Sex Marriages, Even Though Japan Doesn&#39;t](https://kotaku.com/nintendo-japan-same-sex-marriage-gay-law-ruling-1849171499)
+ - [Sub-$100 Amazon Prime Day deals on things PC gamers need](https://www.pcgamer.com/sub-dollar100-amazon-prime-day-deals-on-things-pc-gamers-need)
+ - [Citizen Sleeper’s first DLC chapter arrives in two weeks](https://www.polygon.com/23205623/citizen-sleeper-dlc-episodes-release-dates-chapters-flux)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
