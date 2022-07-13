@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)
- - ⏩ [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
- - 👉 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)<!-- MEMES:END -->
+ - ⏩ [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)
+ - 👉 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)<!-- MEMES:END -->
 
 ---
 
