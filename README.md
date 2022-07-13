@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 73 Best Prime Day Deals Under $50](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022/)
- - [Liquidators for crypto hedge fund Three Arrows Capital say they can’t find founders](https://www.theverge.com/2022/7/11/23204465/three-arrows-capita-3ac-liquidators-crypto-hedge-fund-cant-find-founders-kyle-davies-su-zhu)
- - [The best Prime Day 2022 deals on smart home tech](https://www.theverge.com/23200949/amazon-prime-day-best-smart-home-devices-google-alexa-deals-2022)<!-- TECH:END -->
+ - [IBM&#39;s Red Hat names Matt Hicks, head of products and technologies, as president and chief executive officer, replacing Paul Cormier, who will serve as chairman &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220712/p37#a220712p37)
+ - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)
+ - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
