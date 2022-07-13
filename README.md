@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)
- - ⏩ [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)
+ - 💣 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)
+ - ⏩ [Educated Elite](http://9gag.com/gag/aPZ2OPQ)
  - 👉 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)<!-- MEMES:END -->
 
 ---
