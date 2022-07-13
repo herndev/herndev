@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New emoji for iOS and Android include a high five and shaking face](https://www.theverge.com/2022/7/13/23206617/new-emoji-high-five-shaking-face-emoji-15-0-unicode-consortium)
- - [The First—and Last—Time We Rank the Star Wars Movies](https://www.wired.com/story/star-wars-movies-ranked/)
- - [Turkey Probably Hasn’t Found the Rare Earth Metals It Says It Has](https://www.wired.com/story/turkey-rare-earth-metals/)<!-- TECH:END -->
+ - [Unity to merge with app monetization service Ironsource, valued at $4.4B in the all-stock deal; Silver Lake, Sequoia will invest $1B in Unity after the merger &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220713/p14#a220713p14)
+ - [My war on animation](https://www.theverge.com/23191768/animation-accessibility-neurodivergence)
+ - [Sources: Foxconn Industrial Internet took a minority stake in Chinese state-backed chipmaker Tsinghua Unigroup for $788M during Unigroup&#39;s $9B bailout by China &lpar;Bloomberg&rpar;](http://www.techmeme.com/220713/p13#a220713p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
