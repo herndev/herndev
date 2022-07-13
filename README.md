@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This little maneuver is gonna cost me the succ of dik](http://9gag.com/gag/aYr0NP2)
- - ⏩ [Old but gold](http://9gag.com/gag/aDDvAEG)
+ - 💣 [Yes its a different country but the principle remains. Challenging the politicians is worse then providing children to the politicians. Honk Honk.](http://9gag.com/gag/aE84vrK)
+ - ⏩ [Sure he will](http://9gag.com/gag/aAG9Y1g)
  - 👉 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
