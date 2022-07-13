@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal Gear Solid 2 and 3 are returning to sale](https://www.pcgamer.com/metal-gear-solid-2-and-3-are-returning-to-sale)
- - [Fall Guys Is Hotter Than Ever Now That It’s Free To Play](https://kotaku.com/fall-guys-free-to-play-skill-gap-switch-xbox-pc-ps4-1849175024)
- - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)<!-- GAME:END -->
+ - [Immortality, the new cinematic mystery from Her Story creator Sam Barlow, is delayed](https://www.pcgamer.com/immortality-the-new-cinematic-mystery-from-her-story-creator-sam-barlow-is-delayed)
+ - [PUBG’s new Deston map finally introduces elevator technology](https://www.polygon.com/23207731/pubg-deston-new-map-release-date-consoles-patch-changes)
+ - [Astroneer: where to get ceramics](https://game-rant-2022.blogspot.com/2022/07/astroneer-where-to-get-ceramics.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
