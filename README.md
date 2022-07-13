@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter says roughly 1.5B tweets about gaming were made on its site in H1 2022, up 36% YoY; Genshin Impact and Wordle were the most tweeted-about games &lpar;Erron Kelly/VentureBeat&rpar;](http://www.techmeme.com/220713/p9#a220713p9)
- - [TikTok unveils Content Levels, a system to classify content, similar to age ratings in films, and plans to let users block videos with certain words or hashtags &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p8#a220713p8)
- - [Apple TV+ receives 52 Primetime Emmy nominations, including 20 for &#39;Ted Lasso&#39;](https://appleinsider.com/articles/22/07/12/apple-tv-receives-51-primetime-emmy-nominations-including-20-for-ted-lasso?utm_medium=rss)<!-- TECH:END -->
+ - [New emoji for iOS and Android include a high five and shaking face](https://www.theverge.com/2022/7/13/23206617/new-emoji-high-five-shaking-face-emoji-15-0-unicode-consortium)
+ - [The First—and Last—Time We Rank the Star Wars Movies](https://www.wired.com/story/star-wars-movies-ranked/)
+ - [Turkey Probably Hasn’t Found the Rare Earth Metals It Says It Has](https://www.wired.com/story/turkey-rare-earth-metals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
