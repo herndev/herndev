@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
- - [Amazon Prime Day Deals Round 2: last call for epic price cuts on Apple products](https://appleinsider.com/articles/22/07/13/amazon-prime-day-deals-round-2-last-call-for-epic-price-cuts-on-apple-products?utm_medium=rss)
- - [Here are the top Fitbit Prime Day deals you won’t want to miss](https://www.androidauthority.com/fitbit-prime-day-deals-2022-3185915/)<!-- TECH:END -->
+ - [TikTok is giving you new ways to control your For You page](https://www.theverge.com/2022/7/13/23205795/tiktok-algorithm-hashtag-filters-safety-content-levels)
+ - [Amazon Prime Day deals: Phones, TVs, and much more on sale now!](https://www.androidauthority.com/best-prime-day-deals-1236398/)
+ - [Need a cheap slate? These Prime Day Fire tablet deals might be for you.](https://www.androidauthority.com/amazon-prime-day-fire-tablets-2022-3185956/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
