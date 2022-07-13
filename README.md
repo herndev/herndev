@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sega’s Genesis Mini 2 launches in October with more power and more games](https://www.theverge.com/2022/7/13/23207267/sega-genesis-mini-2-announced-games-features)
- - [How to do a ping test on Windows](https://www.androidauthority.com/ping-test-windows-3184265/)
- - [Samsung Galaxy Note 10 series now receiving July 2022 patch](https://www.androidauthority.com/samsung-galaxy-note-10-plus-update-1020236/)<!-- TECH:END -->
+ - [Netflix says it is partnering with Microsoft as its &quot;global advertising technology and sales partner&quot; for its upcoming ad-supported streaming tier &lpar;The Verge&rpar;](http://www.techmeme.com/220713/p22#a220713p22)
+ - [Netflix is partnering with Microsoft for its new ad-supported tier](https://www.theverge.com/2022/7/13/23207410/netflix-streaming-ads-microsoft)
+ - [Amazon Prime Day 2022: the best tech deals for day two](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
