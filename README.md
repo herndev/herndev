@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vermont&#39;s Department of Financial Regulation joins a multistate investigation into Celsius and says it believes the crypto lender is &quot;deeply insolvent&quot; &lpar;Shivani Tanna/Reuters&rpar;](http://www.techmeme.com/220713/p1#a220713p1)
- - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)
- - [Best smartwatch and fitness tracker deals for Amazon Prime Day 2022](https://www.theverge.com/23203891/amazon-prime-day-best-fitness-tracker-smartwatch-deals-2022)<!-- TECH:END -->
+ - [Google SVP Prabhakar Raghavan says its studies show younger users often use apps like Instagram and TikTok over Google Search or Maps for discovery purposes &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220713/p2#a220713p2)
+ - [Vermont&#39;s Department of Financial Regulation joins a multistate investigation into Celsius and says it believes the cryptocurrency lender is &quot;deeply insolvent&quot; &lpar;Shivani Tanna/Reuters&rpar;](http://www.techmeme.com/220713/p1#a220713p1)
+ - [The best anti-Prime Day deals happening at Walmart](https://www.theverge.com/23205063/walmart-best-deals-prime-day-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
