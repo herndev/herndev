@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Female vs male comedian reaction to a `difficult` crowd.](http://9gag.com/gag/avAwbpZ)
- - ⏩ [Carina Nebula compared. Top is taken with James Webb Space Telescope, bottom is taken with Hubble Telescope.](http://9gag.com/gag/a5138BG)
- - 👉 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)<!-- MEMES:END -->
+ - 💣 [Here is a glimpse of the first pictures from the James Webb telescope. F**k yeah humanity](http://9gag.com/gag/aDD5EdG)
+ - ⏩ [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
+ - 👉 [Hungary just pretty much put double tax on more than 200K small business owners.](http://9gag.com/gag/aggwM06)<!-- MEMES:END -->
 
 ---
 
