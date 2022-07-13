@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Old Metal Gears are going back on sale to celebrate series’ 35th birthday](https://www.polygon.com/23207185/metal-gear-solid-anniversary-konami-games-back-on-sale)
- - [GameStop NFT Marketplace Earns $44,500 In Its First Day](https://kotaku.com/gamestop-nft-meme-stock-crypto-scam-marketplace-1849173873)
- - [How to get every ending in Elden Ring](https://www.pcgamer.com/best-elden-ring-ending-good-secret)<!-- GAME:END -->
+ - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
+ - [Rob Zombie’s The Munsters trailer promises the greatest love story ever told](https://www.polygon.com/23207089/rob-zombie-the-munsters-trailer-release-date)
+ - [Disney teams up with Cookie Run: Kingdom for a new collaboration](https://www.polygon.com/23207123/cookie-run-kingdom-disney-mickey-mouse-collaboration)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
