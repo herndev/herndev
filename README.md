@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-deals-black-friday-july-sale-prime-day-tech-2022)
- - [The Verge Prime Day 2022 live blog](https://www.theverge.com/23203530/amazon-prime-day-2022-live-blog-lightning-deals-tech)
- - [How I Accidentally Broke My Doomscrolling Habit](https://www.wired.com/story/stop-doomscrolling-with-mobile-games/)<!-- TECH:END -->
+ - [The N64 controller for Switch is back in stock at the Nintendo store](https://www.theverge.com/2022/7/13/23149214/n64-controller-wireless-switch-nintendo-online-expansion-restock)
+ - [Best Prime Day 2022 deals: $89 AirPods, $279 Apple Watch 7, $299 iPad, iPhone accessory savings &amp; more](https://appleinsider.com/articles/22/07/12/best-prime-day-2022-deals-89-airpods-279-apple-watch-7-299-ipad-iphone-accessory-savings-more?utm_medium=rss)
+ - [Valve Steam Deck review: Mac users can welcome back 32-bit games](https://appleinsider.com/articles/22/07/13/valve-steam-deck-review-mac-users-can-welcome-back-32-bit-games?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
