@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Roman Bridge Building](http://9gag.com/gag/aegBjzq)
- - ⏩ [My mornings on vacation...](http://9gag.com/gag/aegBjNW)
+ - 💣 [This little maneuver is gonna cost me the succ of dik](http://9gag.com/gag/aYr0NP2)
+ - ⏩ [Old but gold](http://9gag.com/gag/aDDvAEG)
  - 👉 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
