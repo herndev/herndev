@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
- - [The best Amazon Prime Day graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [Your Wordle stats will soon follow you across browsers and devices](https://www.pcgamer.com/your-wordle-stats-will-soon-follow-you-across-browsers-and-devices)<!-- GAME:END -->
+ - [Fall Guys Is Hotter Than Ever Now That It’s Free To Play](https://kotaku.com/fall-guys-free-to-play-skill-gap-switch-xbox-pc-ps4-1849175024)
+ - [The best video games of 2022, so far](https://www.polygon.com/what-to-play/22956981/best-games-2022)
+ - [TMNT: Shredder’s Revenge Sells 1 Million Copies In A Week](https://kotaku.com/tmnt-shredder-s-revenge-1-million-sold-game-pass-1849174885)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
