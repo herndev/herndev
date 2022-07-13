@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity to merge with app monetization service Ironsource, valued at $4.4B in the all-stock deal; Silver Lake, Sequoia will invest $1B in Unity after the merger &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220713/p14#a220713p14)
- - [My war on animation](https://www.theverge.com/23191768/animation-accessibility-neurodivergence)
- - [Sources: Foxconn Industrial Internet took a minority stake in Chinese state-backed chipmaker Tsinghua Unigroup for $788M during Unigroup&#39;s $9B bailout by China &lpar;Bloomberg&rpar;](http://www.techmeme.com/220713/p13#a220713p13)<!-- TECH:END -->
+ - [The best anti-Prime Day tech deals happening at Best Buy](https://www.theverge.com/23199051/best-buy-deals-black-friday-july-sale-prime-day-tech-2022)
+ - [The Verge Prime Day 2022 live blog](https://www.theverge.com/23203530/amazon-prime-day-2022-live-blog-lightning-deals-tech)
+ - [How I Accidentally Broke My Doomscrolling Habit](https://www.wired.com/story/stop-doomscrolling-with-mobile-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
