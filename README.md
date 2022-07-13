@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great news from the James Webb Telescope, people!!!](http://9gag.com/gag/awzp0ER)
- - ⏩ [The problem with american culture](http://9gag.com/gag/aBneRyz)
+ - 💣 [Describe tour post\u2026.](http://9gag.com/gag/aOQWyzR)
+ - ⏩ [The Boys - Origins](http://9gag.com/gag/aVx6O2d)
  - 👉 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
