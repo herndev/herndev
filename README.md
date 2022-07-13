@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
  - [Fans Are Dubbing Japan&#39;s 1980&#39;s Super Mario Bros. Anime](https://kotaku.com/super-mario-bros-movie-japan-anime-dub-english-1849171787)
- - [Citizen Sleeper&#39;s free DLC Flux gets a release date](https://www.pcgamer.com/citizen-sleepers-free-dlc-flux-gets-a-release-date)
- - [Nintendo Japan Says It Recognises Same-Sex Marriages, Even Though Japan Doesn&#39;t](https://kotaku.com/nintendo-japan-same-sex-marriage-gay-law-ruling-1849171499)<!-- GAME:END -->
+ - [Citizen Sleeper&#39;s free DLC Flux gets a release date](https://www.pcgamer.com/citizen-sleepers-free-dlc-flux-gets-a-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
