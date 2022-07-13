@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s like a tradition here, anyways i&#39;m gonna be dad in couple hours.](http://9gag.com/gag/aZr59M9)
- - ⏩ [When comedy didn\u2019t offend everyone.](http://9gag.com/gag/aAG5n5R)
- - 👉 [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)<!-- MEMES:END -->
+ - 💣 [The era of brightly colored, see-thru gadgets just take me back to a simpler time!](http://9gag.com/gag/aZr59YQ)
+ - ⏩ [She is bad ass!!!](http://9gag.com/gag/aWg5KrA)
+ - 👉 [You might say it is pointless if it is fake, but it does make them happy. I don&#39;t feel anything about it, but I know it is better for them, and my logical side says it is the right thing to do, so I choose to do it.](http://9gag.com/gag/aPZ2NrB)<!-- MEMES:END -->
 
 ---
 
