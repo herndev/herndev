@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Immortality, the new cinematic mystery from Her Story creator Sam Barlow, is delayed](https://www.pcgamer.com/immortality-the-new-cinematic-mystery-from-her-story-creator-sam-barlow-is-delayed)
- - [PUBG’s new Deston map finally introduces elevator technology](https://www.polygon.com/23207731/pubg-deston-new-map-release-date-consoles-patch-changes)
- - [Astroneer: where to get ceramics](https://game-rant-2022.blogspot.com/2022/07/astroneer-where-to-get-ceramics.html)<!-- GAME:END -->
+ - [Mass Effect Writer Was Somehow Surprised Players Wanted To Bang Aliens](https://kotaku.com/mass-effect-garrus-tali-thane-bioware-alien-sex-romance-1849175937)
+ - [Retro horror game Mothmen 1966 is a Stephen King short story in videogame form](https://www.pcgamer.com/retro-horror-game-mothmen-1966-is-a-stephen-king-short-story-in-videogame-form)
+ - [Immortality, the new cinematic mystery from Her Story creator Sam Barlow, is delayed](https://www.pcgamer.com/immortality-the-new-cinematic-mystery-from-her-story-creator-sam-barlow-is-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
