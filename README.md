@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about Suicide Squad: Kill The Justice League](https://www.pcgamer.com/suicide-squad-game-kill-the-justice-league-release-date-trailer)
- - [Today&#39;s Wordle answer #389: Wednesday, July 13](https://www.pcgamer.com/wordle-today-july-13-389-answer-hint)
- - [The best UK Amazon Prime Day PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)<!-- GAME:END -->
+ - [The best Amazon Prime Day graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
+ - [The best Amazon Prime Day gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
+ - [The best Amazon Prime Day gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
