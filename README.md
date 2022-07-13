@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The era of brightly colored, see-thru gadgets just take me back to a simpler time!](http://9gag.com/gag/aZr59YQ)
+ - 💣 [Gif comparison between Hubble and James Webb telescope picture quality &lpar;credit: @batsuto_ on Twitter&rpar;](http://9gag.com/gag/a0ZqAeQ)
  - ⏩ [Female vs male comedian reaction to a `difficult` crowd.](http://9gag.com/gag/avAwbpZ)
- - 👉 [Finally...](http://9gag.com/gag/avAj2r5)<!-- MEMES:END -->
+ - 👉 [Everytime I see pictures from James Webb Telescope](http://9gag.com/gag/aWg5Kyq)<!-- MEMES:END -->
 
 ---
 
