@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Take that!](http://9gag.com/gag/aGzQKzX)
- - ⏩ [Every cat wants to be your enemy.](http://9gag.com/gag/aegBKxb)
- - 👉 [This Guy&#39;s song + piano skill !!](http://9gag.com/gag/a21XExw)<!-- MEMES:END -->
+ - 💣 [This Guy&#39;s song + piano skill !!](http://9gag.com/gag/a21XExw)
+ - ⏩ [Moment of discovery](http://9gag.com/gag/a61Rr9L)
+ - 👉 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
 
