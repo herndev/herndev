@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Guy&#39;s song + piano skill !!](http://9gag.com/gag/a21XExw)
- - ⏩ [Moment of discovery](http://9gag.com/gag/a61Rr9L)
+ - 💣 [This smooth Laser welding](http://9gag.com/gag/aRrpwQj)
+ - ⏩ [This little maneuver is gonna cost me the succ of dik](http://9gag.com/gag/aYr0NP2)
  - 👉 [My moods everyday](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
