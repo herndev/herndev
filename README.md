@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)
- - [I Got Hit By A Car In A Roblox Indie Rock Show So You Don’t Have To](https://kotaku.com/i-got-hit-by-a-car-in-a-roblox-indie-rock-show-so-you-d-1849180401)
- - [Unity CEO sparks fury by saying developers who don&#39;t consider monetization are &#39;f***ing idiots&#39;](https://www.pcgamer.com/unity-ceo-sparks-fury-by-saying-developers-who-dont-consider-monetization-are-fing-idiots)<!-- GAME:END -->
+ - [Destiny 2’s Big Summer Hangout Gets A Major Overhaul](https://kotaku.com/destiny-2-witch-queen-solstice-bungie-high-stat-armor-1849180626)
+ - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)
+ - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
