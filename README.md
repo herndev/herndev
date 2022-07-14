@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power trailer gives us our best look yet at the Lord of the Rings prequel](https://www.polygon.com/23209717/lord-of-the-rings-rings-of-power-trailer-release-date-amazon-prime)
- - [Introducing PlayStation Stars – An all new loyalty program](https://blog.playstation.com/2022/07/14/introducing-playstation-stars-an-all-new-loyalty-program/)
- - [Netflix announces new board games for Stranger Things and other hit shows](https://www.polygon.com/23205567/netflix-board-games-stranger-things-squid-game-ozark)<!-- GAME:END -->
+ - [Sony announces PlayStation Stars loyalty program with ‘digital collectibles’](https://www.polygon.com/23215824/playstation-stars-sony-loyalty-program-nft-ps4-ps5)
+ - [We Taste-Tested Cold Stone Creamery’s Special Nintendo Flavors](https://kotaku.com/coldstone-ice-cream-animal-crossing-mario-party-kirby-1849175501)
+ - [The Rings of Power trailer gives us our best look yet at the Lord of the Rings prequel](https://www.polygon.com/23209717/lord-of-the-rings-rings-of-power-trailer-release-date-amazon-prime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
