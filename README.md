@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Headquarters is the next generation of Spy Kids, with Owen Wilson as Iron Man](https://www.polygon.com/23219199/secret-headquarters-trailer-owen-wilson-superhero)
- - [Suddenly, Everyone Wants To Remake Dead Space](https://kotaku.com/the-callisto-protocol-dead-space-routine-fort-solis-1849179938)
- - [There&#39;s an official Wordle board game now](https://www.pcgamer.com/theres-an-official-wordle-board-game-now)<!-- GAME:END -->
+ - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)
+ - [I Got Hit By A Car In A Roblox Indie Rock Show So You Don’t Have To](https://kotaku.com/i-got-hit-by-a-car-in-a-roblox-indie-rock-show-so-you-d-1849180401)
+ - [Unity CEO sparks fury by saying developers who don&#39;t consider monetization are &#39;f***ing idiots&#39;](https://www.pcgamer.com/unity-ceo-sparks-fury-by-saying-developers-who-dont-consider-monetization-are-fing-idiots)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
