@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The DioField Chronicle Marches onto Xbox Series X|S and Xbox One This September](https://news.xbox.com/en-us/2022/07/14/the-diofield-chronicle-xbox-this-september/)
- - [Windows 8.1 has begun warning users of its imminent demise](https://www.pcgamer.com/windows-81-has-begun-warning-users-of-its-imminent-demise)
- - [Microsoft announces &#39;Hardwear&#39; clothing line. Yes, really.](https://www.pcgamer.com/microsoft-hardwear-clothing-line)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight alpha launches today — here’s what to expect](https://www.polygon.com/23214090/wow-dragonflight-alpha-beta-release-date-world-of-warcraft-blizzard)
+ - [World of Warcraft: Dragonflight’s new Evoker class feels impressively modern](https://www.polygon.com/23210654/wow-dragonflight-evoker-dracthyr-class-impressions-alpha-interview)
+ - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
