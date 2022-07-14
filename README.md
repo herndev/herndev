@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beyoncé — and her music — is now on TikTok](https://www.theverge.com/2022/7/14/23216377/beyonce-tiktok-music-catalog-break-my-soul)
- - [Stray is getting a line of cute accessories for your IRL cat](https://www.theverge.com/2022/7/14/23207474/stray-annapurna-interactive-cat-accessories-travel-cat)
- - [Google releases Chrome OS Flex, a Chrome OS version for businesses and schools to run on more than 400 old models of PCs and Macs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220714/p18#a220714p18)<!-- TECH:END -->
+ - [Alphabet’s Wing is working on larger drones that can handle heavier deliveries](https://www.theverge.com/2022/7/14/23217294/wing-drone-delivery-package-size-prototype)
+ - [Hot and hyped: inside the strange launch of the Nothing Phone 1](https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype)
+ - [Potential iPhone 14 demand continuing to grow in China, Kuo says](https://appleinsider.com/articles/22/07/14/potential-iphone-14-demand-continuing-to-grow-in-china-kuo-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
