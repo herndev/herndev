@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight alpha launches today — here’s what to expect](https://www.polygon.com/23214090/wow-dragonflight-alpha-beta-release-date-world-of-warcraft-blizzard)
- - [World of Warcraft: Dragonflight’s new Evoker class feels impressively modern](https://www.polygon.com/23210654/wow-dragonflight-evoker-dracthyr-class-impressions-alpha-interview)
- - [What&#39;s free on the Epic Games Store right now?](https://www.pcgamer.com/epic-games-store-free-games-list)<!-- GAME:END -->
+ - [TennoCon 2022: Band Together for Digital Extremes’ Flagship Warframe Event This Saturday](https://news.xbox.com/en-us/2022/07/14/tennocon-2022-warframe-event-this-saturday/)
+ - [Steam Deck competitor is already talking to Valve about adding SteamOS support](https://www.pcgamer.com/steam-deck-competitor-is-already-talking-to-valve-about-adding-steamos-support)
+ - [Everything we know about World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
