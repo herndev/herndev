@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony announces PlayStation Stars loyalty program with ‘digital collectibles’](https://www.polygon.com/23215824/playstation-stars-sony-loyalty-program-nft-ps4-ps5)
- - [We Taste-Tested Cold Stone Creamery’s Special Nintendo Flavors](https://kotaku.com/coldstone-ice-cream-animal-crossing-mario-party-kirby-1849175501)
- - [The Rings of Power trailer gives us our best look yet at the Lord of the Rings prequel](https://www.polygon.com/23209717/lord-of-the-rings-rings-of-power-trailer-release-date-amazon-prime)<!-- GAME:END -->
+ - [The DioField Chronicle Marches onto Xbox Series X|S and Xbox One This September](https://news.xbox.com/en-us/2022/07/14/the-diofield-chronicle-xbox-this-september/)
+ - [Windows 8.1 has begun warning users of its imminent demise](https://www.pcgamer.com/windows-81-has-begun-warning-users-of-its-imminent-demise)
+ - [Microsoft announces &#39;Hardwear&#39; clothing line. Yes, really.](https://www.pcgamer.com/microsoft-hardwear-clothing-line)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
