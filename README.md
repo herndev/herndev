@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [EA kills off BioWare Points, making old Mass Effect and Dragon Age DLC free](https://www.pcgamer.com/ea-kills-off-bioware-points-making-old-mass-effect-and-dragon-age-dlc-free)
  - [Skate 4 Team Says People Have Been Playing A Leaked, Early Build Of The Game](https://kotaku.com/skate-4-ea-leaked-alpha-beta-build-pc-devs-1849176399)
- - [Drake Gets $8000 Gaming PC Just To Gamble In A Browser](https://kotaku.com/drake-xposed-custom-pc-build-stake-gambling-computer-1849176232)
- - [Time on Frog Island review](https://www.pcgamer.com/time-on-frog-island-review)<!-- GAME:END -->
+ - [Drake Gets $8000 Gaming PC Just To Gamble In A Browser](https://kotaku.com/drake-xposed-custom-pc-build-stake-gambling-computer-1849176232)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
