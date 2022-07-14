@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)
- - ⏩ [Happy new year!!](http://9gag.com/gag/a21X45O)
- - 👉 [Most of the kids don&#39;t get good grades not because they stupid but because they don&#39;t have the right motivation](http://9gag.com/gag/aBnewwx)<!-- MEMES:END -->
+ - 💣 [Epstein didn&#39;t kill himself.](http://9gag.com/gag/aPZqWeG)
+ - ⏩ [Spooky ride](http://9gag.com/gag/aNPbd4K)
+ - 👉 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)<!-- MEMES:END -->
 
 ---
 
