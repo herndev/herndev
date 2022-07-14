@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC beats Q2 estimates with a net profit of $7.94B, up 76.4% YoY, and total revenue of $18.16B, up 36.6% YoY &lpar;Reuters&rpar;](http://www.techmeme.com/220714/p2#a220714p2)
- - [You told us: Most of you have had comfort issues with wireless earbuds](https://www.androidauthority.com/wireless-earbuds-comfort-issues-poll-results-3185906/)
- - [With Flight Cancellations on the Rise, Is Travel Insurance Worth the Cost?     - CNET](https://www.cnet.com/personal-finance/insurance/with-flight-cancellations-on-the-rise-is-travel-insurance-worth-the-cost/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nintendo acquires animation studio that’ll become ‘Nintendo Pictures’](https://www.theverge.com/2022/7/14/23214706/nintendo-dynamo-pictures-acquisition-pictures-mario-movie)
+ - [Here’s what to expect from the iPhone’s first periscope camera](https://www.androidauthority.com/apple-iphone-15-periscope-cameras-3186460/)
+ - [Periscope lens coming for iPhone 15 Pro, may be in all iPhone 16 models](https://appleinsider.com/articles/22/07/14/periscope-lens-coming-for-iphone-15-pro-may-be-in-all-iphone-16-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
