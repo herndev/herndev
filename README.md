@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung says it has developed a new GDDR6 DRAM with a 24Gbps data transfer rate, 30% faster than its 18Gbps predecessor, built on its 10nm process using EUV &lpar;Cho Mu-Hyun/ZDNet&rpar;](http://www.techmeme.com/220714/p3#a220714p3)
- - [Nintendo acquires animation studio that’ll become ‘Nintendo Pictures’](https://www.theverge.com/2022/7/14/23214706/nintendo-dynamo-pictures-acquisition-pictures-mario-movie)
- - [Here’s what to expect from the iPhone’s first periscope camera](https://www.androidauthority.com/apple-iphone-15-periscope-cameras-3186460/)<!-- TECH:END -->
+ - [Meet the Lobbyist Next Door](https://www.wired.com/story/meet-the-lobbyist-next-door/)
+ - [JPMorgan: bitcoin&#39;s production cost dropped from ~$24K at the start of June to ~$13K now, as miners seek profitability by deploying more efficient mining rigs &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220714/p4#a220714p4)
+ - [Your Phone&#39;s Lock Screen Is About to Get So Much More Useful     - CNET](https://www.cnet.com/tech/mobile/your-phones-lock-screen-is-about-get-so-much-more-useful/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
