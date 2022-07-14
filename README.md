@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [F1 22 Perfectly Simulates the Morality Vacuum of Formula 1](https://www.wired.com/story/f1-22-consummerism/)
- - [A New Attack Can Unmask Anonymous Users on Any Major Browser](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
- - [Is It a Bird? Is It a Plane? No, It’s a Flying Ferry](https://www.wired.com/story/flying-ferry-stockholm/)<!-- TECH:END -->
+ - [The hidden history of screen readers](https://www.theverge.com/23203911/screen-readers-history-blind-henter-curran-teh-nvda)
+ - [Apple lead runner for $3 billion NFL streaming deal](https://appleinsider.com/articles/22/07/14/apple-lead-runner-for-3-billion-per-year-nfl-streaming-deal?utm_medium=rss)
+ - [Leaked iPhone 14 Pro Max schematic corroborates previous diagrams](https://appleinsider.com/articles/22/07/14/leaked-iphone-14-pro-max-schematic-corroborates-previous-diagrams?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
