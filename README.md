@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: consumer spending in non-game apps hit ~$3.4B in Q2 on the US App Store, surpassing spending in mobile games, which hit ~$3.3B, for the first time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220714/p32#a220714p32)
- - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
- - [Adobe report: US online sales during Amazon Prime Day jumped 8.5% from last year to nearly $12B; Prime members bought 300M+ items, or 100K products a minute &lpar;Uday Sampath/Reuters&rpar;](http://www.techmeme.com/220714/p31#a220714p31)<!-- TECH:END -->
+ - [Hyundai imagines a grim future where metaverse ‘artists’ live in their cars](https://www.theverge.com/23218727/hyundai-ioniq-6-video-trashion-metaverse-nft-cringe)
+ - [CoinFlex will let users withdraw up to 10% of their balances, excluding its flexUSD stablecoin, on July 15, after pausing withdrawals last month &lpar;Immanual John Milton/Bloomberg&rpar;](http://www.techmeme.com/220714/p34#a220714p34)
+ - [Efforts to regulate crypto should be ramped up amid the crash, after it gained an illusion of respectability through association with high-profile institutions &lpar;Paul Krugman/New York Times&rpar;](http://www.techmeme.com/220714/p33#a220714p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
