@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
- - [ChromeOS Flex now available to run on aging Macs and PCs](https://appleinsider.com/articles/22/07/14/chromeos-flex-now-available-to-run-on-aging-macs-and-pcs?utm_medium=rss)
- - [OWC Envoy Pro SX 4TB review: Compact &amp; understated design hides fast speeds](https://appleinsider.com/articles/22/07/14/owc-envoy-pro-sx-4tb-review-compact-understated-design-hides-fast-speeds?utm_medium=rss)<!-- TECH:END -->
+ - [NFT marketplace OpenSea CEO Devin Finzer says it laid off roughly 20% of employees; OpenSea has 769 employees according to its LinkedIn profile &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220714/p24#a220714p24)
+ - [Facebook says it is testing a way for users to create up to five profiles linked to one account and that switching between profiles will require only two taps &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220714/p23#a220714p23)
+ - [Escape Academy is the escape room game you never wanna leave](https://www.theverge.com/23218887/escape-academy-review-xbox-playstation-escape-room-puzzle-game)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
