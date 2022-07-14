@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo buys animation studio, forms Nintendo Pictures](https://www.polygon.com/23215942/nintendo-pictures-animation-studio-dynamo-mario)
- - [MultiVersus open beta launches this month](https://www.polygon.com/23218298/multiversus-open-beta-launch-date-july)
- - [The Sea Beast’s director walks us through the ‘wise monsters’ that inspired his creatures](https://www.polygon.com/23205582/the-sea-beast-chris-williams-interview-netflix)<!-- GAME:END -->
+ - [To drive F1 22’s new cars, first, give yourself a break](https://www.polygon.com/23218970/f1-22-how-to-drive-traction-control-assists-setups-ai-difficulty)
+ - [Join Milo the Dog as We Play Marvel’s Guardians of the Galaxy and Raise Money for SPCA International](https://news.xbox.com/en-us/2022/07/14/play-guardians-of-the-galaxy-pc-game-pass-raise-money-spca/)
+ - [Skate will be &#39;an authentic evolution&#39; of the series, but is definitely not Skate 4](https://www.pcgamer.com/skate-will-be-an-authentic-evolution-of-the-series-but-is-definitely-not-skate-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
