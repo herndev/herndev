@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the EU&#39;s new big tech antitrust laws will hit Apple](https://appleinsider.com/articles/22/07/14/how-the-eus-new-big-tech-antitrust-laws-will-hit-apple?utm_medium=rss)
- - [Pulley, which offers cap table management software, raised a $40M Series B led by Founders Fund at a valuation between $150M and $300M &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/220714/p26#a220714p26)
- - [This is an unlisted tweet](https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline)<!-- TECH:END -->
+ - [Filing: Celsius has a $1.19B deficit on its balance sheet, ~$4.3B in assets, and $5.5B in liabilities; it lost 35K ether tokens due to the misplacement of keys &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220714/p30#a220714p30)
+ - [You.com, an AI-powered open search engine that offers built-in apps, like search tools for Twitter, raised a $25M Series A, bringing its total funding to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220714/p29#a220714p29)
+ - [Wordle is being turned into a multiplayer board game](https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
