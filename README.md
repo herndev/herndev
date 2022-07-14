@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [This goodboy followed me home yesterday, I gave him water and food, this morning he was waiting me outside. I think he&#39;s addopted me.](http://9gag.com/gag/avAjPLX)
- - ⏩ [How dog breeds react to robbers](http://9gag.com/gag/aBneY32)
+ - ⏩ [Snow Leopard](http://9gag.com/gag/aAG91BL)
  - 👉 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
