@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the best Prime Day 2022 phone deals](https://www.theverge.com/23201958/amazon-prime-day-best-phone-deals-2022)
- - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23198671/target-deal-days-sale-prime-day-tech-2022)
- - [These are the best laptop deals around for Amazon Prime Day 2022](https://www.theverge.com/23204343/amazon-prime-day-best-laptop-deals-2022)<!-- TECH:END -->
+ - [A look at pro-Russian hacktivist group Killnet, which has launched DDoS attacks against websites in countries supporting Ukraine, including Germany and the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220714/p1#a220714p1)
+ - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)
+ - [These are the best Prime Day 2022 phone deals](https://www.theverge.com/23201958/amazon-prime-day-best-phone-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
