@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet’s Wing is working on larger drones that can handle heavier deliveries](https://www.theverge.com/2022/7/14/23217294/wing-drone-delivery-package-size-prototype)
- - [Hot and hyped: inside the strange launch of the Nothing Phone 1](https://www.theverge.com/2022/7/14/23216359/nothing-phone-1-london-launch-hype)
- - [Potential iPhone 14 demand continuing to grow in China, Kuo says](https://appleinsider.com/articles/22/07/14/potential-iphone-14-demand-continuing-to-grow-in-china-kuo-says?utm_medium=rss)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [ChromeOS Flex now available to run on aging Macs and PCs](https://appleinsider.com/articles/22/07/14/chromeos-flex-now-available-to-run-on-aging-macs-and-pcs?utm_medium=rss)
+ - [OWC Envoy Pro SX 4TB review: Compact &amp; understated design hides fast speeds](https://appleinsider.com/articles/22/07/14/owc-envoy-pro-sx-4tb-review-compact-understated-design-hides-fast-speeds?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
