@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer)
- - [The PC industry suffers its worst decline in years, though it&#39;s no cause for alarm](https://www.pcgamer.com/the-pc-industry-suffers-its-worst-decline-in-years-though-its-no-cause-for-alarm)
- - [EA kills off BioWare Points, making old Mass Effect and Dragon Age DLC free](https://www.pcgamer.com/ea-kills-off-bioware-points-making-old-mass-effect-and-dragon-age-dlc-free)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #390: Thursday, July 14](https://www.pcgamer.com/todays-wordle-july-14-390-answer-hint)
+ - [Teenage Mutant Ninja Turtles: Shredder&#39;s Revenge sells over a million in its first week](https://www.pcgamer.com/teenage-mutant-ninja-turtles-shredders-revenge-sells-over-a-million-in-its-first-week)
+ - [Unity is merging with a company who made a malware installer](https://www.pcgamer.com/unity-is-merging-with-a-company-who-made-a-malware-installer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
