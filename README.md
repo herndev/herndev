@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at pro-Russian hacktivist group Killnet, which has launched DDoS attacks against websites in countries supporting Ukraine, including Germany and the US &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220714/p1#a220714p1)
- - [Nothing Phone 1 Hands-On: Lots of Reasons to Like It, Including the Price     - CNET](https://www.cnet.com/tech/mobile/the-nothing-phone-1-hands-on-is-it-good-how-much-does-it-cost-can-i-buy-it/#ftag=CAD590a51e)
- - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23206084/amazon-prime-day-best-tech-deals-still-available-earbuds-tablets-smartwatches-smart-home-2022)<!-- TECH:END -->
+ - [TSMC beats Q2 estimates with a net profit of $7.94B, up 76.4% YoY, and total revenue of $18.16B, up 36.6% YoY &lpar;Reuters&rpar;](http://www.techmeme.com/220714/p2#a220714p2)
+ - [You told us: Most of you have had comfort issues with wireless earbuds](https://www.androidauthority.com/wireless-earbuds-comfort-issues-poll-results-3185906/)
+ - [With Flight Cancellations on the Rise, Is Travel Insurance Worth the Cost?     - CNET](https://www.cnet.com/personal-finance/insurance/with-flight-cancellations-on-the-rise-is-travel-insurance-worth-the-cost/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
