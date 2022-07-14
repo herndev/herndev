@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Porter Robinson on crafting a new anthem for League of Legends](https://www.theverge.com/2022/7/14/23205064/porter-robinson-interview-league-of-legends)
- - [UnCaged Studios, a web3-focused gaming studio, has raised a $24M Series A, following a $4M token presale for its Solana-focused game MonkeyLeague &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220714/p16#a220714p16)
- - [Razer’s Stream Controller takes on the Stream Deck for $269.99](https://www.theverge.com/2022/7/14/23215273/razer-stream-controller-release-date-price-specs)<!-- TECH:END -->
+ - [Beyoncé — and her music — is now on TikTok](https://www.theverge.com/2022/7/14/23216377/beyonce-tiktok-music-catalog-break-my-soul)
+ - [Stray is getting a line of cute accessories for your IRL cat](https://www.theverge.com/2022/7/14/23207474/stray-annapurna-interactive-cat-accessories-travel-cat)
+ - [Google releases Chrome OS Flex, a Chrome OS version for businesses and schools to run on more than 400 old models of PCs and Macs &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220714/p18#a220714p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
