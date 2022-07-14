@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Celsius has a $1.19B deficit on its balance sheet, ~$4.3B in assets, and $5.5B in liabilities; it lost 35K ether tokens due to the misplacement of keys &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220714/p30#a220714p30)
- - [You.com, an AI-powered open search engine that offers built-in apps, like search tools for Twitter, raised a $25M Series A, bringing its total funding to $45M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220714/p29#a220714p29)
- - [Wordle is being turned into a multiplayer board game](https://www.theverge.com/2022/7/14/23219072/wordle-the-party-game-multiplayer-board-new-york-times-hasbro)<!-- TECH:END -->
+ - [Sensor Tower: consumer spending in non-game apps hit ~$3.4B in Q2 on the US App Store, surpassing spending in mobile games, which hit ~$3.3B, for the first time &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220714/p32#a220714p32)
+ - [Amazon Prime Day 2022: the best deals you can still get](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
+ - [Adobe report: US online sales during Amazon Prime Day jumped 8.5% from last year to nearly $12B; Prime members bought 300M+ items, or 100K products a minute &lpar;Uday Sampath/Reuters&rpar;](http://www.techmeme.com/220714/p31#a220714p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
