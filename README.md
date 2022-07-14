@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Atari 2600 Remake Was 40 Years In The Making](https://kotaku.com/yars-recharged-pc-xbox-playstation-switch-atari-2600-1849175469)
- - [Today&#39;s Wordle answer #390: Thursday, July 14](https://www.pcgamer.com/todays-wordle-july-14-390-answer-hint)
- - [Teenage Mutant Ninja Turtles: Shredder&#39;s Revenge sells over a million in its first week](https://www.pcgamer.com/teenage-mutant-ninja-turtles-shredders-revenge-sells-over-a-million-in-its-first-week)<!-- GAME:END -->
+ - [The Rings of Power trailer gives us our best look yet at the Lord of the Rings prequel](https://www.polygon.com/23209717/lord-of-the-rings-rings-of-power-trailer-release-date-amazon-prime)
+ - [Introducing PlayStation Stars – An all new loyalty program](https://blog.playstation.com/2022/07/14/introducing-playstation-stars-an-all-new-loyalty-program/)
+ - [Netflix announces new board games for Stranger Things and other hit shows](https://www.polygon.com/23205567/netflix-board-games-stranger-things-squid-game-ozark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
