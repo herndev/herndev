@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)
- - ⏩ [Painfully simple](http://9gag.com/gag/aegBpWb)
+ - 💣 [Warning.](http://9gag.com/gag/a71xd5m)
+ - ⏩ [How dog breeds react to robbers](http://9gag.com/gag/aBneY32)
  - 👉 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)<!-- MEMES:END -->
 
 ---
