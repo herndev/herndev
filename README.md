@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The hidden history of screen readers](https://www.theverge.com/23203911/screen-readers-history-blind-henter-curran-teh-nvda)
- - [Apple lead runner for $3 billion NFL streaming deal](https://appleinsider.com/articles/22/07/14/apple-lead-runner-for-3-billion-per-year-nfl-streaming-deal?utm_medium=rss)
- - [Leaked iPhone 14 Pro Max schematic corroborates previous diagrams](https://appleinsider.com/articles/22/07/14/leaked-iphone-14-pro-max-schematic-corroborates-previous-diagrams?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter was down for an hour on Thursday morning](https://appleinsider.com/articles/22/07/14/twitter-suffering-from-outages-globally?utm_medium=rss)
+ - [MacBook Air M2 review: thinner with much-improved screen and webcam but gets warm and throttles aggressively under intense workloads, base model has slower SSD &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220714/p11#a220714p11)
+ - [Nanoleaf launches black panels for 10th anniversary](https://appleinsider.com/articles/22/07/14/nanoleaf-launches-black-panels-for-10th-anniversary?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
