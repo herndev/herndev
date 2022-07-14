@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snow Leopard](http://9gag.com/gag/aAG91BL)
- - ⏩ [Wise words](http://9gag.com/gag/a71xbjL)
+ - 💣 [Dog tries SURSTR\u00d6MMING..](http://9gag.com/gag/aZrYM1n)
+ - ⏩ [That poor baby was so scared](http://9gag.com/gag/aZrYN6n)
  - 👉 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
