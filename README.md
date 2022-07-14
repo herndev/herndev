@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Lobbyist Next Door](https://www.wired.com/story/meet-the-lobbyist-next-door/)
- - [JPMorgan: bitcoin&#39;s production cost dropped from ~$24K at the start of June to ~$13K now, as miners seek profitability by deploying more efficient mining rigs &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/220714/p4#a220714p4)
- - [Your Phone&#39;s Lock Screen Is About to Get So Much More Useful     - CNET](https://www.cnet.com/tech/mobile/your-phones-lock-screen-is-about-get-so-much-more-useful/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [F1 22 Perfectly Simulates the Morality Vacuum of Formula 1](https://www.wired.com/story/f1-22-consummerism/)
+ - [A New Attack Can Unmask Anonymous Users on Any Major Browser](https://www.wired.com/story/web-deanonymization-side-channel-attack-njit/)
+ - [Is It a Bird? Is It a Plane? No, It’s a Flying Ferry](https://www.wired.com/story/flying-ferry-stockholm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
