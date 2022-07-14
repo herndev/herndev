@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix is bringing back its Tudum event in September](https://www.theverge.com/2022/7/14/23209304/netflix-tudum-event-youtube-stream-september-2022)
- - [Twitter went down for around 40 minutes on Thursday morning, the first major Twitter outage since a series of problems for the social network in February &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220714/p12#a220714p12)
- - [Sony’s PlayStation Stars loyalty program has points and collectibles but not NFTs](https://www.theverge.com/2022/7/14/23215753/sony-playstation-stars-digital-collectibles-loyalty-points)<!-- TECH:END -->
+ - [Porter Robinson on crafting a new anthem for League of Legends](https://www.theverge.com/2022/7/14/23205064/porter-robinson-interview-league-of-legends)
+ - [UnCaged Studios, a web3-focused gaming studio, has raised a $24M Series A, following a $4M token presale for its Solana-focused game MonkeyLeague &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/220714/p16#a220714p16)
+ - [Razer’s Stream Controller takes on the Stream Deck for $269.99](https://www.theverge.com/2022/7/14/23215273/razer-stream-controller-release-date-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
