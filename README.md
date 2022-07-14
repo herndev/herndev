@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women \u2615](http://9gag.com/gag/aqGErVP)
- - ⏩ [YET\u2026..](http://9gag.com/gag/aWgX8gd)
- - 👉 [It was at this point Megan knew her friends dad will be called daddy by her from now on.](http://9gag.com/gag/aBnewRZ)<!-- MEMES:END -->
+ - 💣 [It was at this point Megan knew her friends dad will be called daddy by her from now on.](http://9gag.com/gag/aBnewRZ)
+ - ⏩ [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
+ - 👉 [Women \u2615](http://9gag.com/gag/aqGErVP)<!-- MEMES:END -->
 
 ---
 
