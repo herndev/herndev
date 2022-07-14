@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFT marketplace OpenSea CEO Devin Finzer says it laid off roughly 20% of employees; OpenSea has 769 employees according to its LinkedIn profile &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220714/p24#a220714p24)
- - [Facebook says it is testing a way for users to create up to five profiles linked to one account and that switching between profiles will require only two taps &lpar;Queenie Wong/CNET&rpar;](http://www.techmeme.com/220714/p23#a220714p23)
- - [Escape Academy is the escape room game you never wanna leave](https://www.theverge.com/23218887/escape-academy-review-xbox-playstation-escape-room-puzzle-game)<!-- TECH:END -->
+ - [How the EU&#39;s new big tech antitrust laws will hit Apple](https://appleinsider.com/articles/22/07/14/how-the-eus-new-big-tech-antitrust-laws-will-hit-apple?utm_medium=rss)
+ - [Pulley, which offers cap table management software, raised a $40M Series B led by Founders Fund at a valuation between $150M and $300M &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/220714/p26#a220714p26)
+ - [This is an unlisted tweet](https://www.theverge.com/2022/7/14/23218987/twitter-cotweet-trick-unlisted-tweet-hidden-search-timeline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
