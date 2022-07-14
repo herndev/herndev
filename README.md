@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After a breakup from a girl I wanted to marry almost made me insane, I choose this as a therapy. I don&#39;t care for likes or environment even, this is for everyone in dire situation; work like this really helps](http://9gag.com/gag/a410dm1)
- - ⏩ [Size doesn&#39;t matter](http://9gag.com/gag/aXrOpwz)
+ - 💣 [Here we go](http://9gag.com/gag/aVx6WoK)
+ - ⏩ [WOrLd](http://9gag.com/gag/avAjgKM)
  - 👉 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
 ---
