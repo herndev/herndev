@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter was down for an hour on Thursday morning](https://appleinsider.com/articles/22/07/14/twitter-suffering-from-outages-globally?utm_medium=rss)
- - [MacBook Air M2 review: thinner with much-improved screen and webcam but gets warm and throttles aggressively under intense workloads, base model has slower SSD &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/220714/p11#a220714p11)
- - [Nanoleaf launches black panels for 10th anniversary](https://appleinsider.com/articles/22/07/14/nanoleaf-launches-black-panels-for-10th-anniversary?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix is bringing back its Tudum event in September](https://www.theverge.com/2022/7/14/23209304/netflix-tudum-event-youtube-stream-september-2022)
+ - [Twitter went down for around 40 minutes on Thursday morning, the first major Twitter outage since a series of problems for the social network in February &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220714/p12#a220714p12)
+ - [Sony’s PlayStation Stars loyalty program has points and collectibles but not NFTs](https://www.theverge.com/2022/7/14/23215753/sony-playstation-stars-digital-collectibles-loyalty-points)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
