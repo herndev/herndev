@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to fake](http://9gag.com/gag/aggevn1)
+ - 💣 [This goodboy followed me home yesterday, I gave him water and food, this morning he was waiting me outside. I think he&#39;s addopted me.](http://9gag.com/gag/avAjPLX)
  - ⏩ [How dog breeds react to robbers](http://9gag.com/gag/aBneY32)
  - 👉 [My moods everyday! FWD Hong Kong jumps into the metaverse to celebrate its 9th anniversary with health inspirations at the core.](http://9gag.com/gag/a71xvQw)<!-- MEMES:END -->
 
