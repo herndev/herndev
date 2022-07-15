@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spooky ride](http://9gag.com/gag/aNPbd4K)
- - ⏩ [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
+ - 💣 [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
+ - ⏩ [The only person I\u2019ll ever refer to as they/them](http://9gag.com/gag/aM4LA4A)
  - 👉 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)<!-- MEMES:END -->
 
 ---
