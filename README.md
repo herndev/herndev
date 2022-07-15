@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie and Sony make it official](https://www.pcgamer.com/bungie-and-sony-make-it-official)
- - [Factorio studio angers Russian gamers by increasing regional price from $9 to $174](https://www.pcgamer.com/factorio-studio-angers-russian-gamers-by-increasing-regional-price-from-dollar9-to-dollar174)
- - [Fall Guys studio apologizes for bug that caused players to make unintentional purchases](https://www.pcgamer.com/fall-guys-studio-apologizes-for-bug-that-caused-players-to-make-unintentional-purchases)<!-- GAME:END -->
+ - [Total War: Warhammer 3 video accidentally leaks 4 DLC factions](https://www.pcgamer.com/total-war-warhammer-3-video-accidentally-leaks-4-dlc-factions)
+ - [The Bob’s Burgers Movie, Valley of the Dead, and more new movies you can watch at home this weekend](https://www.polygon.com/23205133/new-movies-watch-the-bobs-burgers-movie-netflix-valley-of-the-dead-streaming)
+ - [Bungie and Sony make it official](https://www.pcgamer.com/bungie-and-sony-make-it-official)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
