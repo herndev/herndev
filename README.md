@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight drops gendered language from character creator](https://www.polygon.com/23220055/world-of-warcraft-dragonflight-character-creator-gender-pronoun-voice-customization)
- - [Oh no, they Fleabag-ified Persuasion](https://www.polygon.com/23216499/persuasion-netflix-review-fleabag)
- - [Sega’s new mini Mega Drive gets some great  game additions &lpar;and cool curiosities&rpar;](https://www.polygon.com/23220017/sega-genesis-mini-2-mega-drive-game-list)<!-- GAME:END -->
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Pokémon’s life-size Spheal plush is my new best friend](https://www.polygon.com/23220108/pokemon-plush-spheal-life-size-buy-japan)
+ - [Intel shows Arc A750 GPU beating Nvidia&#39;s RTX 3060 in some very specific games](https://www.pcgamer.com/intel-shows-arc-a750-gpu-beating-nvidias-rtx-3060-in-some-very-specific-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
