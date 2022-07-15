@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)
- - [Free Play Days – For the King, MLB The Show 22, and Tropico 6](https://news.xbox.com/en-us/2022/07/15/free-play-days-for-the-king-mlb-the-show-22-and-tropico-6/)
- - [God of War Ragnarok’s deluxe editions go on sale, including $259.99 Jotnar Edition](https://www.polygon.com/23220091/god-of-war-ragnarok-pre-order-jotnar-collectors-edition-price)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight drops gendered language from character creator](https://www.polygon.com/23220055/world-of-warcraft-dragonflight-character-creator-gender-pronoun-voice-customization)
+ - [Oh no, they Fleabag-ified Persuasion](https://www.polygon.com/23216499/persuasion-netflix-review-fleabag)
+ - [Sega’s new mini Mega Drive gets some great  game additions &lpar;and cool curiosities&rpar;](https://www.polygon.com/23220017/sega-genesis-mini-2-mega-drive-game-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
