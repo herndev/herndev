@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego Comic-Con 2022: all the best panels, trailers, and news to watch out for](https://www.theverge.com/2022/7/15/23205625/san-diego-comic-con-2022-panel-schedule)
- - [FCC Chair Jessica Rosenworcel proposes a US broadband standard of 100Mbps down and 20Mbps up; the proposal requires a vote in the currently deadlocked FCC &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/220715/p13#a220715p13)
- - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)<!-- TECH:END -->
+ - [You’re not hearing things — yes, the Twitter app chirps now](https://www.theverge.com/2022/7/15/23220697/twitter-app-chirps-sounds-refresh)
+ - [Apple’s new MacBook Air M2 is the start of a whole new Air-a](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)
+ - [We benchmarked the base M2 MacBook Air’s storage and &lpar;surprise!&rpar; it’s slow](https://www.theverge.com/23220299/apple-macbook-air-m2-slow-ssd-read-write-speeds-testing-benchmark)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
