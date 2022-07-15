@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Secret Neighbor’s Paranormal Amusement Park Update is out Now for Xbox Series X|S &amp; Xbox One](https://news.xbox.com/en-us/2022/07/15/secret-neighbors-paranormal-amusement-park-update-is-out-now-for-xbox-series-xs-xbox-one/)
- - [Sims can now be asexual or aromantic](https://www.polygon.com/23220207/the-sims-4-high-school-years-aromantic-asexual-options-create-a-sim)
- - [Have crushes and pull pranks in Sims 4’s High School Years expansion](https://www.polygon.com/23219296/the-sims-4-high-school-years-expansion-pack)<!-- GAME:END -->
+ - [Four Months In, GTA&#39;s New Subscription Isn&#39;t Worth It For Most](https://kotaku.com/gta-subscription-worth-it-review-rewards-rockstar-1849184044)
+ - [Free Sims 4 update will add growable body hair and sexual preferences](https://www.pcgamer.com/free-sims-4-update-will-add-growable-body-hair-and-sexual-preference-options)
+ - [Play deadly pranks and be a teen trendsetter in The Sims 4 High School Years expansion](https://www.pcgamer.com/the-sims-4-high-school-years-expansion-preview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
