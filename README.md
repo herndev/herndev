@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
- - ⏩ [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
- - 👉 [When Factory say they created `job` for the community](http://9gag.com/gag/ay9KM8r)<!-- MEMES:END -->
+ - 💣 [So you c**ts got me hooked on the boys and got damn thats a fcking good actor.](http://9gag.com/gag/aGzQdX5)
+ - ⏩ [Banana for self-defence](http://9gag.com/gag/a91GE6Z)
+ - 👉 [Hoping for a better 2023.](http://9gag.com/gag/aegBDbb)<!-- MEMES:END -->
 
 ---
 
