@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Combat 101](http://9gag.com/gag/a21XWwZ)
- - ⏩ [How Superman shaves](http://9gag.com/gag/arnLVVK)
- - 👉 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)<!-- MEMES:END -->
+ - 💣 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
+ - ⏩ [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
+ - 👉 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
 
 ---
 
