@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #391: Friday, July 15](https://www.pcgamer.com/todays-wordle-july-15-391-answer-hint)
- - [The fastest GDDR6 memory ever is coming to next gen graphics cards](https://www.pcgamer.com/the-fastest-gddr6-memory-ever-is-coming-to-next-gen-graphics-cards)
- - [Dark Souls&#39; Lore Is Being Released In Two Glorious Books](https://kotaku.com/dark-souls-lore-story-books-maps-guide-miyazaki-1849181099)<!-- GAME:END -->
+ - [MSI Oculux NXG253R](https://www.pcgamer.com/msi-oculuz-nxg253r-gaming-monitor-review)
+ - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)
+ - [China&#39;s &#39;mind-reading&#39; porn detection cap takes censorship to new levels](https://www.pcgamer.com/chinas-mind-reading-porn-detection-cap-takes-censorship-to-new-levels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
