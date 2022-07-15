@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are two types of dogs ...](http://9gag.com/gag/aGzQZ1z)
- - ⏩ [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
- - 👉 [Ride the whale](http://9gag.com/gag/apgMm35)<!-- MEMES:END -->
+ - 💣 [Awww look at her](http://9gag.com/gag/aAG9xNR)
+ - ⏩ [Arrested bin](http://9gag.com/gag/aBne0eQ)
+ - 👉 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)<!-- MEMES:END -->
 
 ---
 
