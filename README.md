@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing&#39;s New Phone Is Everything a Phone Should Be](https://www.wired.com/review/nothing-phone-1/)
- - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)
- - [Dbrand trolls Nothing with Something... decals](https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1)<!-- TECH:END -->
+ - [Has this OnePlus patent given us a look at the OnePlus 10 Ultra?](https://www.androidauthority.com/oneplus-patent-filing-oneplus-10-ultra-3187007/)
+ - [Intel plans to raise CPU prices this year](https://www.theverge.com/2022/7/15/23219873/intel-cpu-chip-price-increase)
+ - [Nothing Phone 1 review: a good midrange phone with snappy performance but the glyph notification system is mostly gimmicky and battery performance is not great &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220715/p3#a220715p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
