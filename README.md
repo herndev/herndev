@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Four Months In, GTA&#39;s New Subscription Isn&#39;t Worth It For Most](https://kotaku.com/gta-subscription-worth-it-review-rewards-rockstar-1849184044)
- - [Free Sims 4 update will add growable body hair and sexual preferences](https://www.pcgamer.com/free-sims-4-update-will-add-growable-body-hair-and-sexual-preference-options)
- - [Play deadly pranks and be a teen trendsetter in The Sims 4 High School Years expansion](https://www.pcgamer.com/the-sims-4-high-school-years-expansion-preview)<!-- GAME:END -->
+ - [This Week on Xbox: Crossover Events, New Games, and Updates](https://news.xbox.com/en-us/2022/07/15/this-week-on-xbox-crossover-events-new-games-and-updates/)
+ - [WoW Dragonflight&#39;s closed alpha is live, here&#39;s how to get in](https://www.pcgamer.com/wow-dragonflight-alpha-sign-up-how-to)
+ - [The Best Games On The New PS Plus](https://kotaku.com/best-ps-plus-games-extra-premium-classic-ps4-ps5-1849184319)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
