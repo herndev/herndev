@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Richard Matheson Explored Loneliness Through Sci-Fi](https://www.wired.com/2022/07/geeks-guide-chris-matheson/)
- - [Apple Music subscribers will get exclusive live performances in spatial audio](https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced)
- - [New ‘988’ mental health crisis hotline launches Saturday](https://www.theverge.com/2022/7/15/23219962/988-mental-health-crisis-suicide-hotline-lifeline)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [Taiwan authorities charge Apple supplier Luxshare with corporate espionage](https://appleinsider.com/articles/22/07/15/taiwan-authorities-charge-apple-supplier-luxshare-with-corporate-espionage?utm_medium=rss)
+ - [iFixit’s Steam Deck fan and battery replacement kits are finally in stock](https://www.theverge.com/2022/7/15/23220111/ifixit-steam-deck-fan-battery-replacement-kits-in-stock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
