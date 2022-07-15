@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me escaping from my responsibilities](http://9gag.com/gag/aKmMxPZ)
- - ⏩ [Great Father](http://9gag.com/gag/aKmMjnQ)
- - 👉 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)<!-- MEMES:END -->
+ - 💣 [There are two types of dogs ...](http://9gag.com/gag/aGzQZ1z)
+ - ⏩ [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
+ - 👉 [Bcz its Once in a lifetime chance.](http://9gag.com/gag/aVx635K)<!-- MEMES:END -->
 
 ---
 
