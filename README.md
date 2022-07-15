@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2’s Big Summer Hangout Gets A Major Overhaul](https://kotaku.com/destiny-2-witch-queen-solstice-bungie-high-stat-armor-1849180626)
- - [Epic’s body-slamming battle royale Rumbleverse arrives this summer](https://www.polygon.com/23219386/rumbleverse-release-date-pro-wrestling-battle-royale)
- - [New Aliens game will be single-player and likely terrifying in VR](https://www.polygon.com/23219360/aliens-game-survios-vr-announcement)<!-- GAME:END -->
+ - [The X-Wing Team Were Working On A Cancelled Xbox Game](https://kotaku.com/x-wing-lucasarts-totally-games-xbox-phil-spencer-1849181040)
+ - [Aliens is finally getting a new singleplayer &#39;action horror&#39; game](https://www.pcgamer.com/aliens-is-finally-getting-a-new-singleplayer-action-horror-game)
+ - [Twitch Will Not Unban Jidion](https://game-rant-2022.blogspot.com/2022/07/twitch-will-not-unban-jidion.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
