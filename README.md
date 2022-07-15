@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montblanc Summit 3 has arrived: See how Wear OS 3 looks on a non-Samsung watch](https://www.androidauthority.com/montblanc-summit-3-wear-os-3-3186949/)
- - [Samsung Galaxy Z Fold 5 and Z Flip 5 rumors are already here](https://www.androidauthority.com/samsung-galaxy-z-fold-5-galaxy-z-flip-5-3186934/)
- - [2023 Toyota Crown Is Part Sedan, Part SUV With 340-HP Hybrid Power     - CNET](https://www.cnet.com/roadshow/news/2023-toyota-crown-hybrid-max-debut/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nothing&#39;s New Phone Is Everything a Phone Should Be](https://www.wired.com/review/nothing-phone-1/)
+ - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)
+ - [Dbrand trolls Nothing with Something... decals](https://www.theverge.com/2022/7/15/23218671/dbrand-something-decal-skins-looks-like-nothing-phone-1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
