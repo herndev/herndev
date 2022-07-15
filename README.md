@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Crossover Events, New Games, and Updates](https://news.xbox.com/en-us/2022/07/15/this-week-on-xbox-crossover-events-new-games-and-updates/)
- - [WoW Dragonflight&#39;s closed alpha is live, here&#39;s how to get in](https://www.pcgamer.com/wow-dragonflight-alpha-sign-up-how-to)
- - [The Best Games On The New PS Plus](https://kotaku.com/best-ps-plus-games-extra-premium-classic-ps4-ps5-1849184319)<!-- GAME:END -->
+ - [Fearing Unity And Unreal Abandonment, Russia May Build Its Own Game Engine](https://kotaku.com/russia-unreal-unity-game-engine-development-ukraine-1849184860)
+ - [Your Favorite Manga Isn&#39;t More Important Than The Creator&#39;s Health](https://kotaku.com/hunter-x-hunter-berserk-nana-vagabond-hiatus-manga-1849184744)
+ - [Halo Infinite campaign co-op launches in public testing](https://www.polygon.com/23219163/halo-infinite-campaign-co-op-mission-replay-beta-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
