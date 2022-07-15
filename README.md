@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hide your gfs. It&#39;s Friday my dudes!](http://9gag.com/gag/aZrYgj3)
- - ⏩ [Natural selection](http://9gag.com/gag/a51YonN)
- - 👉 [Hungary right now. The next SriLanka!People protesting because tax changes. &lpar;which are already the highest in the EU&rpar;](http://9gag.com/gag/aGzQeZZ)<!-- MEMES:END -->
+ - 💣 [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
+ - ⏩ [Some people need a reminder. Especially Philippines](http://9gag.com/gag/a81g8rp)
+ - 👉 [Bcz its Once in a lifetime chance.](http://9gag.com/gag/aVx635K)<!-- MEMES:END -->
 
 ---
 
