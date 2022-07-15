@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple launches Apple Music Sessions with exclusive live performances](https://appleinsider.com/articles/22/07/15/apple-launches-apple-music-sessions-with-exclusive-live-performances?utm_medium=rss)
- - [Ventje VW campervan review: ‘work from home’ from anywhere](https://www.theverge.com/23203408/ventje-frank-westland-review-price)
- - [iOS 16 Public Beta, M2 MacBook Air Reviews, Best Wi-Fi Routers for iPhone on the AppleInsider Podcast](https://appleinsider.com/articles/22/07/15/ios-16-public-beta-m2-macbook-air-reviews-best-wi-fi-routers-for-iphone-on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [Shopify demos Apple&#39;s RoomPlan, strips all furniture from room](https://appleinsider.com/articles/22/07/15/shopify-demos-apples-roomplan-strips-all-furniture-from-room?utm_medium=rss)
+ - [Celsius CEO said in a court filing that his company was owed $439M by a &quot;private lending platform&quot; that sources say is specialist finance company EquitiesFirst &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/220715/p7#a220715p7)
+ - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;July 15&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
