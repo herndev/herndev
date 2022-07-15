@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How Superman shaves](http://9gag.com/gag/arnLVVK)
- - ⏩ [Little monkey](http://9gag.com/gag/aNPbY5v)
- - 👉 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)<!-- MEMES:END -->
+ - 💣 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)
+ - ⏩ [How Superman shaves](http://9gag.com/gag/arnLVVK)
+ - 👉 [Always do everything for yourself and yourself only](http://9gag.com/gag/a116RAG)<!-- MEMES:END -->
 
 ---
 
