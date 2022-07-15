@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Dark Souls&#39; Lore Is Being Released In Two Glorious Books](https://kotaku.com/dark-souls-lore-story-books-maps-guide-miyazaki-1849181099)
  - [The X-Wing Team Were Working On A Cancelled Xbox Game](https://kotaku.com/x-wing-lucasarts-totally-games-xbox-phil-spencer-1849181040)
- - [Aliens is finally getting a new singleplayer &#39;action horror&#39; game](https://www.pcgamer.com/aliens-is-finally-getting-a-new-singleplayer-action-horror-game)
- - [Twitch Will Not Unban Jidion](https://game-rant-2022.blogspot.com/2022/07/twitch-will-not-unban-jidion.html)<!-- GAME:END -->
+ - [Aliens is finally getting a new singleplayer &#39;action horror&#39; game](https://www.pcgamer.com/aliens-is-finally-getting-a-new-singleplayer-action-horror-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
