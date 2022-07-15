@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fearing Unity And Unreal Abandonment, Russia May Build Its Own Game Engine](https://kotaku.com/russia-unreal-unity-game-engine-development-ukraine-1849184860)
- - [Your Favorite Manga Isn&#39;t More Important Than The Creator&#39;s Health](https://kotaku.com/hunter-x-hunter-berserk-nana-vagabond-hiatus-manga-1849184744)
- - [Halo Infinite campaign co-op launches in public testing](https://www.polygon.com/23219163/halo-infinite-campaign-co-op-mission-replay-beta-launch)<!-- GAME:END -->
+ - [Bungie and Sony make it official](https://www.pcgamer.com/bungie-and-sony-make-it-official)
+ - [Factorio studio angers Russian gamers by increasing regional price from $9 to $174](https://www.pcgamer.com/factorio-studio-angers-russian-gamers-by-increasing-regional-price-from-dollar9-to-dollar174)
+ - [Fall Guys studio apologizes for bug that caused players to make unintentional purchases](https://www.pcgamer.com/fall-guys-studio-apologizes-for-bug-that-caused-players-to-make-unintentional-purchases)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
