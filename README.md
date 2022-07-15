@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Pokémon’s life-size Spheal plush is my new best friend](https://www.polygon.com/23220108/pokemon-plush-spheal-life-size-buy-japan)
- - [Intel shows Arc A750 GPU beating Nvidia&#39;s RTX 3060 in some very specific games](https://www.pcgamer.com/intel-shows-arc-a750-gpu-beating-nvidias-rtx-3060-in-some-very-specific-games)<!-- GAME:END -->
+ - [Secret Neighbor’s Paranormal Amusement Park Update is out Now for Xbox Series X|S &amp; Xbox One](https://news.xbox.com/en-us/2022/07/15/secret-neighbors-paranormal-amusement-park-update-is-out-now-for-xbox-series-xs-xbox-one/)
+ - [Sims can now be asexual or aromantic](https://www.polygon.com/23220207/the-sims-4-high-school-years-aromantic-asexual-options-create-a-sim)
+ - [Have crushes and pull pranks in Sims 4’s High School Years expansion](https://www.polygon.com/23219296/the-sims-4-high-school-years-expansion-pack)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
