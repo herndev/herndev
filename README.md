@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You didn&#39;t break up with me, I broke up with you!](http://9gag.com/gag/angob1E)
- - ⏩ [This colorized 1943 performance of Cab Calloway &amp; the Nicholas brothers](http://9gag.com/gag/angob7L)
- - 👉 [Hide your gfs. It&#39;s Friday my dudes!](http://9gag.com/gag/aZrYgj3)<!-- MEMES:END -->
+ - 💣 [Natural selection](http://9gag.com/gag/a51YonN)
+ - ⏩ [90\u2019s kids wet dream](http://9gag.com/gag/aDDvz3x)
+ - 👉 [The only person I\u2019ll ever refer to as they/them](http://9gag.com/gag/aM4LA4A)<!-- MEMES:END -->
 
 ---
 
