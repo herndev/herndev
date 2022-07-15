@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bishop Fox, which offers tools for dynamic application security testing, has raised a $75M Series B led by Carrick Capital Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220714/p37#a220714p37)
- - [How to see how many Wishes you’ve made in Genshin Impact](https://www.androidauthority.com/wish-count-genshin-impact-3185882/)
- - [Amazon Prime Day 2022: the best deals still available](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)<!-- TECH:END -->
+ - [Sources: Amazon has started reducing its white label products and mulled exiting the business altogether, amid poor sales and mounting regulatory pressure &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220714/p38#a220714p38)
+ - [Jake Paul vs. Hasim Rahman Jr.: When It Takes Place and How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-when-it-takes-place-and-how-to-watch-or-stream-online/#ftag=CAD590a51e)
+ - [Bishop Fox, which offers tools for dynamic application security testing, has raised a $75M Series B led by Carrick Capital Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220714/p37#a220714p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
