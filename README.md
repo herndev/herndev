@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Feed weird creatures to other creatures to make more powerful creatures in this new open-world survival game](https://www.pcgamer.com/feed-weird-creatures-to-other-creatures-to-make-more-powerful-creatures-in-this-new-open-world-survival-game)
- - [MSI Oculux NXG253R](https://www.pcgamer.com/msi-oculuz-nxg253r-gaming-monitor-review)
- - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)<!-- GAME:END -->
+ - [Next Week on Xbox: July 18 to 22](https://news.xbox.com/en-us/2022/07/15/next-week-on-xbox-july-18-to-22/)
+ - [PUBG&#39;s new map lets you slingshot across it](https://www.pcgamer.com/pubgs-new-map-lets-you-slingshot-across-it)
+ - [Netflix’s The Gray Man shows the Avengers directors can’t think small enough](https://www.polygon.com/reviews/23216417/the-gray-man-netflix-review-chris-evans-ryan-gosling)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
