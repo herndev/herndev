@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Captain America&#39; star Chris Evans misses the Home Button, says new iPhones too heavy](https://appleinsider.com/articles/22/07/15/captain-america-star-chris-evans-misses-the-home-button-says-new-iphones-too-heavy?utm_medium=rss)
- - [How crypto broker Voyager, which generated interest on deposits by loaning crypto assets, collapsed after its largest borrower Three Arrows Capital defaulted &lpar;CoinDesk&rpar;](http://www.techmeme.com/220715/p9#a220715p9)
- - [Who needs a Nothing Phone 1 when you can turn your existing phone into one?](https://www.androidauthority.com/nothing-phone-1-dbrand-3187123/)<!-- TECH:END -->
+ - [Richard Matheson Explored Loneliness Through Sci-Fi](https://www.wired.com/2022/07/geeks-guide-chris-matheson/)
+ - [Apple Music subscribers will get exclusive live performances in spatial audio](https://www.theverge.com/2022/7/15/23220056/apple-music-sessions-live-performances-spatial-audio-announced)
+ - [New ‘988’ mental health crisis hotline launches Saturday](https://www.theverge.com/2022/7/15/23219962/988-mental-health-crisis-suicide-hotline-lifeline)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
