@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FCC Chair proposes new US broadband standard of 100Mbps up and 20Mbps down; the proposal would need to pass a vote in the currently deadlocked FCC &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/220715/p13#a220715p13)
- - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)
- - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)<!-- TECH:END -->
+ - [San Diego Comic-Con 2022: all the best panels, trailers, and news to watch out for](https://www.theverge.com/2022/7/15/23205625/san-diego-comic-con-2022-panel-schedule)
+ - [FCC Chair Jessica Rosenworcel proposes a US broadband standard of 100Mbps down and 20Mbps up; the proposal requires a vote in the currently deadlocked FCC &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/220715/p13#a220715p13)
+ - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
