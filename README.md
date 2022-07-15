@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Epstein didn&#39;t kill himself.](http://9gag.com/gag/aPZqWeG)
- - ⏩ [Spooky ride](http://9gag.com/gag/aNPbd4K)
+ - 💣 [Spooky ride](http://9gag.com/gag/aNPbd4K)
+ - ⏩ [Wild animals are not your friends](http://9gag.com/gag/aKmM2r3)
  - 👉 [It shouldn&#39;t have to be said](http://9gag.com/gag/aegBbnm)<!-- MEMES:END -->
 
 ---
