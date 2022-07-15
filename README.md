@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`WTF did I do!?` probably cat](http://9gag.com/gag/abg8GpO)
+ - 💣 [Combat 101](http://9gag.com/gag/a21XWwZ)
  - ⏩ [How Superman shaves](http://9gag.com/gag/arnLVVK)
- - 👉 [Always do everything for yourself and yourself only](http://9gag.com/gag/a116RAG)<!-- MEMES:END -->
+ - 👉 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)<!-- MEMES:END -->
 
 ---
 
