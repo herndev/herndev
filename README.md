@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Awww look at her](http://9gag.com/gag/aAG9xNR)
- - ⏩ [Arrested bin](http://9gag.com/gag/aBne0eQ)
- - 👉 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)<!-- MEMES:END -->
+ - 💣 [Space for 1 more, maybe?](http://9gag.com/gag/abg8Yrv)
+ - ⏩ [Me escaping from my responsibilities](http://9gag.com/gag/aKmMxPZ)
+ - 👉 [Y&#39;all still winning](http://9gag.com/gag/aZrY3KQ)<!-- MEMES:END -->
 
 ---
 
