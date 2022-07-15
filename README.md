@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [M2 MacBook Air review roundup: This is the Mac you&#39;re looking for](https://appleinsider.com/articles/22/07/14/m2-macbook-air-review-roundup-this-is-the-mac-youre-looking-for?utm_medium=rss)
  - [Meta unveils Make-A-Scene, an exploratory AI research project that turns a user&#39;s sketches and text descriptions into 2,048 x 2,048-pixel images &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/220715/p1#a220715p1)
- - [How to link Amazon Prime to Twitch](https://www.androidauthority.com/link-amazon-prime-twitch-3185354/)
- - [Sources: Amazon has reduced its white label product selection and mulled exiting the business altogether, amid weak sales and mounting regulatory pressure &lpar;Dana Mattioli/Wall Street Journal&rpar;](http://www.techmeme.com/220714/p38#a220714p38)<!-- TECH:END -->
+ - [Types of Birth Control: Is Yours Effective Enough?     - CNET](https://www.cnet.com/health/medical/types-of-birth-control-is-yours-effective-enough/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
