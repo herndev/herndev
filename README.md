@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [And all of a sudden we&#39;ll be hunted by machine zombies](http://9gag.com/gag/aNPbgbK)
  - ⏩ [Try to be less white guys!](http://9gag.com/gag/aVx6wdK)
- - 👉 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
+ - 👉 [When Factory say they created `job` for the community](http://9gag.com/gag/ay9KM8r)<!-- MEMES:END -->
 
 ---
 
