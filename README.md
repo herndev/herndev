@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s ChromeOS now, not Chrome OS](https://www.theverge.com/tldr/2022/7/14/23219443/google-chromeos-not-chrome-os-branding)
- - [The Girl in the Picture: Where Is Franklin Delano Floyd Now? All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-where-is-franklin-delano-floyd-now-all-your-questions-answered/#ftag=CAD590a51e)
- - [The alumni of Colombian last-mile delivery unicorn Rappi have founded 100+ startups in under seven years, outpacing even the PayPal Mafia in startup creation &lpar;Rest of World&rpar;](http://www.techmeme.com/220714/p35#a220714p35)<!-- TECH:END -->
+ - [Amazon Prime Day 2022: the best deals still available](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
+ - [Today I learned Amazon has a form so police can get my data without permission or a warrant](https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent)
+ - [Hang, which aims to help brands create and manage Web3-powered membership and loyalty programs that leverage NFTs, raised a $16M Series A led by Paradigm &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220714/p36#a220714p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
