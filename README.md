@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: July 18 to 22](https://news.xbox.com/en-us/2022/07/15/next-week-on-xbox-july-18-to-22/)
- - [PUBG&#39;s new map lets you slingshot across it](https://www.pcgamer.com/pubgs-new-map-lets-you-slingshot-across-it)
- - [Netflix’s The Gray Man shows the Avengers directors can’t think small enough](https://www.polygon.com/reviews/23216417/the-gray-man-netflix-review-chris-evans-ryan-gosling)<!-- GAME:END -->
+ - [Getting to know Stray’s leading feline, out July 19](https://blog.playstation.com/2022/07/15/getting-to-know-strays-leading-feline-out-july-19/)
+ - [Free Play Days – For the King, MLB The Show 22, and Tropico 6](https://news.xbox.com/en-us/2022/07/15/free-play-days-for-the-king-mlb-the-show-22-and-tropico-6/)
+ - [God of War Ragnarok’s deluxe editions go on sale, including $259.99 Jotnar Edition](https://www.polygon.com/23220091/god-of-war-ragnarok-pre-order-jotnar-collectors-edition-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
