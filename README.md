@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Agony and Ecstasy of Playing Out Your School Years in Games](https://www.wired.com/story/sims-4-high-school-demonschool-persona/)
- - [Amazon’s Prime Air drone delivery tests are coming to Texas, too](https://www.theverge.com/2022/7/15/23220069/amazon-prime-air-drone-delivery-packages-test-texas-california)
- - [Even the Playdate Simulator can run on Steam Deck](https://www.theverge.com/2022/7/15/23220195/steam-deck-playdate-simulator)<!-- TECH:END -->
+ - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)
+ - [Disney plans to raise ESPN+&#39;s monthly subscription from $6.99 to $9.99 and its annual price from $69.99 to $99.99, 43% increases, starting on August 23, 2022 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/220715/p12#a220715p12)
+ - [&#39;Thrilling Discovery&#39;: Surprising Sea Creature Spotted in Pacific     - CNET](https://www.cnet.com/science/biology/thrilling-discovery-surprising-sea-creature-spotted-in-pacific/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
