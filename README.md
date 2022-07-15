@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Day 2022: the best deals still available](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)
- - [Today I learned Amazon has a form so police can get my data without permission or a warrant](https://www.theverge.com/2022/7/14/23219419/amazon-ring-law-enforcement-no-warrant-no-consent)
- - [Hang, which aims to help brands create and manage Web3-powered membership and loyalty programs that leverage NFTs, raised a $16M Series A led by Paradigm &lpar;Lucas Matney/TechCrunch&rpar;](http://www.techmeme.com/220714/p36#a220714p36)<!-- TECH:END -->
+ - [Bishop Fox, which offers tools for dynamic application security testing, has raised a $75M Series B led by Carrick Capital Partners &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/220714/p37#a220714p37)
+ - [How to see how many Wishes you’ve made in Genshin Impact](https://www.androidauthority.com/wish-count-genshin-impact-3185882/)
+ - [Amazon Prime Day 2022: the best deals still available](https://www.theverge.com/23215654/amazon-prime-day-best-tech-deals-still-available-games-headphones-laptops-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
