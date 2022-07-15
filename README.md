@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify demos Apple&#39;s RoomPlan, strips all furniture from room](https://appleinsider.com/articles/22/07/15/shopify-demos-apples-roomplan-strips-all-furniture-from-room?utm_medium=rss)
- - [Celsius CEO said in a court filing that his company was owed $439M by a &quot;private lending platform&quot; that sources say is specialist finance company EquitiesFirst &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/220715/p7#a220715p7)
- - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;July 15&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)<!-- TECH:END -->
+ - [&#39;Captain America&#39; star Chris Evans misses the Home Button, says new iPhones too heavy](https://appleinsider.com/articles/22/07/15/captain-america-star-chris-evans-misses-the-home-button-says-new-iphones-too-heavy?utm_medium=rss)
+ - [How crypto broker Voyager, which generated interest on deposits by loaning crypto assets, collapsed after its largest borrower Three Arrows Capital defaulted &lpar;CoinDesk&rpar;](http://www.techmeme.com/220715/p9#a220715p9)
+ - [Who needs a Nothing Phone 1 when you can turn your existing phone into one?](https://www.androidauthority.com/nothing-phone-1-dbrand-3187123/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
