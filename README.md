@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Feed weird creatures to other creatures to make more powerful creatures in this new open-world survival game](https://www.pcgamer.com/feed-weird-creatures-to-other-creatures-to-make-more-powerful-creatures-in-this-new-open-world-survival-game)
  - [MSI Oculux NXG253R](https://www.pcgamer.com/msi-oculuz-nxg253r-gaming-monitor-review)
- - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)
- - [China&#39;s &#39;mind-reading&#39; porn detection cap takes censorship to new levels](https://www.pcgamer.com/chinas-mind-reading-porn-detection-cap-takes-censorship-to-new-levels)<!-- GAME:END -->
+ - [Intel&#39;s next-gen Raptor Lake CPU is 39% faster in Cinebench than the Core i9 12900KF](https://www.pcgamer.com/intel-raptor-lake-bilibili-benchmark-leak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
