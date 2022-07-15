@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)
- - [Disney plans to raise ESPN+&#39;s monthly subscription from $6.99 to $9.99 and its annual price from $69.99 to $99.99, 43% increases, starting on August 23, 2022 &lpar;Brian Steinberg/Variety&rpar;](http://www.techmeme.com/220715/p12#a220715p12)
- - [&#39;Thrilling Discovery&#39;: Surprising Sea Creature Spotted in Pacific     - CNET](https://www.cnet.com/science/biology/thrilling-discovery-surprising-sea-creature-spotted-in-pacific/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC Chair proposes new US broadband standard of 100Mbps up and 20Mbps down; the proposal would need to pass a vote in the currently deadlocked FCC &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/220715/p13#a220715p13)
+ - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)
+ - [Compared: New M2 MacBook Air vs M1 MacBook Air](https://appleinsider.com/articles/22/06/07/compared-new-m2-macbook-air-vs-m1-macbook-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
