@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [There are two types of dogs ...](http://9gag.com/gag/aGzQZ1z)
  - ⏩ [Diss your own Country with a Meme](http://9gag.com/gag/a51Yo0q)
- - 👉 [Bcz its Once in a lifetime chance.](http://9gag.com/gag/aVx635K)<!-- MEMES:END -->
+ - 👉 [Ride the whale](http://9gag.com/gag/apgMm35)<!-- MEMES:END -->
 
 ---
 
