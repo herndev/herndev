@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ride the whale](http://9gag.com/gag/apgMm35)
- - ⏩ [His reactions are unmatched.](http://9gag.com/gag/ango51E)
- - 👉 [A secret locker...](http://9gag.com/gag/aM4LZ3M)<!-- MEMES:END -->
+ - 💣 [His reactions are unmatched.](http://9gag.com/gag/ango51E)
+ - ⏩ [A secret locker...](http://9gag.com/gag/aM4LZ3M)
+ - 👉 [Are James Webb telescope images real??](http://9gag.com/gag/aog7e93)<!-- MEMES:END -->
 
 ---
 
