@@ -111,8 +111,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [India escalates its crackdown on Oppo, Vivo, and Xiaomi, which control ~60% of its smartphone market, with claims of tax evasion and unlawful remittances &lpar;Financial Times&rpar;](http://www.techmeme.com/220716/p11#a220716p11)
- - [Intel is setting expectations low for its Arc GPUs](https://www.theverge.com/2022/7/16/23232217/intel-arc-gpu-a750-setting-expectations)
- - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [The Sopranos and Friends are HBO Max’s secret weapon against Netflix](https://www.androidauthority.com/netflix-vs-hbo-max-library-back-catalog-streaming-wars-3185319/)
+ - [Intel is setting expectations low for its Arc GPUs](https://www.theverge.com/2022/7/16/23232217/intel-arc-gpu-a750-setting-expectations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
