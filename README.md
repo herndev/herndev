@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
- - [Fossil Gen 6 Hybrid review: too much bling, not enough zing](https://www.theverge.com/23220102/fossil-gen-6-hybrid-review-smartwatches-wearables)
- - [Evo’s general manager is making an event that he would want to go to](https://www.theverge.com/2022/7/16/23220503/evo-2022-event-rick-thiher-interview)<!-- TECH:END -->
+ - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://www.theverge.com/2022/7/16/23228983/tiktok-security-chief-steps-down-oracle-servers-us-user-data-roland-cloutier)
+ - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)
+ - [Report: in emails sent to three creators, Coinbase says it is &quot;temporarily shutting down&quot; its US affiliate program on July 19 and plans to relaunch it in 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220716/p7#a220716p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
