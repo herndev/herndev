@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After years of struggling and being homeless i was finally able to get my shit together and buy this house. It ain&#39;t much but it&#39;s something](http://9gag.com/gag/avAjAXd)
+ - 💣 [It&#39;s funny cause it&#39;s um Asfutmsifwffutsh](http://9gag.com/gag/axBrBLp)
  - ⏩ [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)
- - 👉 [`I&#39;m watching you, Wazowski. Always watching. Always.`](http://9gag.com/gag/a71xqnA)<!-- MEMES:END -->
+ - 👉 [Yep](http://9gag.com/gag/aXrOn6b)<!-- MEMES:END -->
 
 ---
 
