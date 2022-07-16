@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Online scam centers in Southeast Asia have perfected &quot;pig butchering&quot;, a romance-meets-investment fraud, to lure victims into bogus investment schemes &lpar;Alastair McCready/VICE&rpar;](http://www.techmeme.com/220716/p10#a220716p10)
- - [Amazon Drone Deliveries Coming to Texas City as Prime Air Expands     - CNET](https://www.cnet.com/tech/computing/amazon-drone-deliveries-coming-to-texas-city-as-prime-air-expands/#ftag=CAD590a51e)
- - [Making the Android lock screen busier is a bad, bad idea](https://www.androidauthority.com/android-lock-screen-ads-content-3184439/)<!-- TECH:END -->
+ - [India escalates its crackdown on Oppo, Vivo, and Xiaomi, which control ~60% of its smartphone market, with claims of tax evasion and unlawful remittances &lpar;Financial Times&rpar;](http://www.techmeme.com/220716/p11#a220716p11)
+ - [Intel is setting expectations low for its Arc GPUs](https://www.theverge.com/2022/7/16/23232217/intel-arc-gpu-a750-setting-expectations)
+ - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
