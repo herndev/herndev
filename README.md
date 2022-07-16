@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk wants Twitter trial to wait until February 2023](https://www.theverge.com/2022/7/15/23220797/elon-musk-twitter-trial-scheduling-delaware-acquisition-lawsuit)
- - [Sonos Ray review: Finally a capable budget soundbar](https://appleinsider.com/articles/22/07/15/sonos-ray-review-finally-a-capable-budget-soundbar?utm_medium=rss)
- - [Filing: Elon Musk&#39;s lawyers say Twitter is unfairly pushing for a &quot;warp speed&quot; four-day trial in September and ask for a court date in February 2023 or later &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/220715/p15#a220715p15)<!-- TECH:END -->
+ - [TikTok says its global CSO Roland Cloutier will step down in September to take an advisory role, and that the move is not related to security concerns in the US &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/220715/p17#a220715p17)
+ - [SEC filing: Twitter&#39;s board invites shareholders to a special meeting to vote on Elon Musk&#39;s acquisition and unanimously recommends they approve the deal &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220715/p16#a220715p16)
+ - [5 Tips to Help You Stop Tossing and Turning at Night     - CNET](https://www.cnet.com/health/sleep/5-tips-to-help-you-stop-tossing-and-turning-at-night/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
