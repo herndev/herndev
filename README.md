@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Microsoft moves to a three-year release cycle for major versions of Windows, with new features to the current version shipping up to four times a year &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220715/p19#a220715p19)
  - [How to change your World Level in Genshin Impact](https://www.androidauthority.com/lower-world-level-genshin-impact-3186356/)
- - [Boston-based Robin, which makes office reservation software, has raised a $30M Series C led by Tola Capital, bringing its total funding to more than $59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220715/p18#a220715p18)
- - [Hyundai&#39;s RN22e Concept Is an Ioniq 6 Race Car     - CNET](https://www.cnet.com/roadshow/pictures/hyundai-rn22e-concept-ioniq-6-n-ev/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston-based Robin, which makes office reservation software, has raised a $30M Series C led by Tola Capital, bringing its total funding to more than $59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220715/p18#a220715p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
