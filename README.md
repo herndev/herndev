@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nothing Phone 1 Review: Affordable Phone With Flashy Extras     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-review-affordable-phone-with-flashy-extras/#ftag=CAD590a51e)
  - [Experts say archiving content from TikTok is challenging and urge the platform to preserve and provide access to content for war crime investigations in Ukraine &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220716/p3#a220716p3)
- - [Study: as the war persists, Meta has responded fairly effectively to Russian propaganda flagged by Ukrainian officials, while YouTube, Twitter, and LinkedIn lag &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220716/p2#a220716p2)
- - [Russian President Vladimir Putin signed into law a national ban on using digital assets for payments, but allows investing in digital assets like bitcoin &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220716/p1#a220716p1)<!-- TECH:END -->
+ - [Study: as the war persists, Meta has responded fairly effectively to Russian propaganda flagged by Ukrainian officials, while YouTube, Twitter, and LinkedIn lag &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220716/p2#a220716p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
