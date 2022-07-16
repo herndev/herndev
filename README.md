@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian President Vladimir Putin singed into law a national ban on using digital assets for payments, but allows investing in digital assets like bitcoin &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220716/p1#a220716p1)
- - [How to create PDF files](https://www.androidauthority.com/create-pdf-files-3185375/)
- - [Sources: Microsoft moves to a three-year release cycle for major versions of Windows, with new features to the current version shipping up to four times a year &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/220715/p19#a220715p19)<!-- TECH:END -->
+ - [Experts say archiving content from TikTok is challenging and urge the platform to preserve and provide access to content for war crime investigations in Ukraine &lpar;Madhumita Murgia/Financial Times&rpar;](http://www.techmeme.com/220716/p3#a220716p3)
+ - [Study: as the war persists, Meta has responded fairly effectively to Russian propaganda flagged by Ukrainian officials, while YouTube, Twitter, and LinkedIn lag &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/220716/p2#a220716p2)
+ - [Russian President Vladimir Putin signed into law a national ban on using digital assets for payments, but allows investing in digital assets like bitcoin &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/220716/p1#a220716p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
