@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [122 hamburguers per hour](http://9gag.com/gag/aAG9GdL)
- - ⏩ [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)
- - 👉 [Stop touching my pan dammit](http://9gag.com/gag/aWgXgbZ)<!-- MEMES:END -->
+ - 💣 [Stop touching my pan dammit](http://9gag.com/gag/aWgXgbZ)
+ - ⏩ [.. and that\u2019s how you stay aerodynamic.](http://9gag.com/gag/aXrOrmb)
+ - 👉 [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)<!-- MEMES:END -->
 
 ---
 
