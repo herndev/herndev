@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s why england never win world cup](http://9gag.com/gag/a31OwL3)
- - ⏩ [Absolute unit](http://9gag.com/gag/aBne2OP)
- - 👉 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
+ - 💣 [Shame](http://9gag.com/gag/arnLVQK)
+ - ⏩ [Choo choo Hurensohn](http://9gag.com/gag/a71xW6b)
+ - 👉 [I grew with Metallica and I agree](http://9gag.com/gag/a31Ow28)<!-- MEMES:END -->
 
 ---
 
