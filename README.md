@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 2022 &quot;crypto winter&quot; differs from previous crashes, in part due to the macro environment, the TerraUSD collapse, excess leverage, and contagion via 3AC &lpar;CNBC&rpar;](http://www.techmeme.com/220716/p12#a220716p12)
- - [&#39;Lightyear&#39;: When Is the Pixar Flick Coming to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-when-is-the-pixar-flick-coming-to-disney-plus/#ftag=CAD590a51e)
- - [&#39;The Umbrella Academy&#39; Season 3: The Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-the-ending-explained-every-question-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s chips targeted in a new patent infringement suit](https://appleinsider.com/articles/22/07/16/apples-chips-targeted-in-a-new-patent-infringement-suit?utm_medium=rss)
+ - [Today I learned Amazon will recycle small electronics for free](https://www.theverge.com/2022/7/16/23205725/today-i-learned-til-amazon-recycle-small-electronics-free)
+ - [The 2022 &quot;crypto winter&quot; differs from previous crashes, in part due to the macro environment, the TerraUSD collapse, excess leverage, and contagion via 3AC &lpar;CNBC&rpar;](http://www.techmeme.com/220716/p12#a220716p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
