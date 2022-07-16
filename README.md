@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Banana for self-defence](http://9gag.com/gag/a91GE6Z)
+ - 💣 [When your crush touch you](http://9gag.com/gag/aKmMmWj)
  - ⏩ [Swimming cat](http://9gag.com/gag/aE848Mn)
- - 👉 [When Factory say they created `job` for the community](http://9gag.com/gag/ay9KM8r)<!-- MEMES:END -->
+ - 👉 [122 hamburguers per hour](http://9gag.com/gag/aAG9GdL)<!-- MEMES:END -->
 
 ---
 
