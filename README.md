@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says its global CSO Roland Cloutier will step down in September to take an advisory role, and that the move is not related to security concerns in the US &lpar;Ryan Tracy/Wall Street Journal&rpar;](http://www.techmeme.com/220715/p17#a220715p17)
- - [SEC filing: Twitter&#39;s board invites shareholders to a special meeting to vote on Elon Musk&#39;s acquisition and unanimously recommends they approve the deal &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220715/p16#a220715p16)
- - [5 Tips to Help You Stop Tossing and Turning at Night     - CNET](https://www.cnet.com/health/sleep/5-tips-to-help-you-stop-tossing-and-turning-at-night/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston-based Robin, which makes office reservation software, has raised a $30M Series C led by Tola Capital, bringing its total funding to more than $59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220715/p18#a220715p18)
+ - [Elon Musk Responds to Twitter&#39;s Lawsuit Over $44B Deal     - CNET](https://www.cnet.com/news/social-media/elon-musk-responds-to-twitters-lawsuit-over-44b-deal/#ftag=CAD590a51e)
+ - [T-Mobile&#39;s 5G Network Could Soon Send Live Concert Audio to Your Phone     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-5g-network-could-soon-send-live-concert-audio-to-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
