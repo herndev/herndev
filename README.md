@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to change your World Level in Genshin Impact](https://www.androidauthority.com/lower-world-level-genshin-impact-3186356/)
  - [Boston-based Robin, which makes office reservation software, has raised a $30M Series C led by Tola Capital, bringing its total funding to more than $59M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220715/p18#a220715p18)
- - [Elon Musk Responds to Twitter&#39;s Lawsuit Over $44B Deal     - CNET](https://www.cnet.com/news/social-media/elon-musk-responds-to-twitters-lawsuit-over-44b-deal/#ftag=CAD590a51e)
- - [T-Mobile&#39;s 5G Network Could Soon Send Live Concert Audio to Your Phone     - CNET](https://www.cnet.com/tech/mobile/t-mobiles-5g-network-could-soon-send-live-concert-audio-to-your-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hyundai&#39;s RN22e Concept Is an Ioniq 6 Race Car     - CNET](https://www.cnet.com/roadshow/pictures/hyundai-rn22e-concept-ioniq-6-n-ev/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
