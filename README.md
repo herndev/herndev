@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 17 Best Accessories for Your PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories/)
- - [The Dangerous Chemicals Lurking Inside Shipping Containers](https://www.wired.com/story/the-dangerous-chemicals-lurking-inside-shipping-containers/)
- - [Democratic lawmakers ask federal agencies to crack down on crypto mining](https://www.theverge.com/2022/7/16/23220671/bitcoin-cryptomining-democratic-lawmakers-letter-epa-energy-department)<!-- TECH:END -->
+ - [‘Blood Washing’ Is the Latest Dubious—and Pricey—Long-Covid Trend](https://www.wired.com/story/blood-washing-long-covid-unproven-trend/)
+ - [Amazon Handed Ring Videos to Cops Without Warrants](https://www.wired.com/story/amazon-ring-police-videos-security-roundup/)
+ - [Peloton Will Stop Making Its Own Bikes and Treadmills](https://www.wired.com/story/peloton-will-stop-making-its-own-bikes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
