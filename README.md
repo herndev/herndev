@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amber Hurt](http://9gag.com/gag/adgzvyV)
- - ⏩ [Call me a boomer but f&amp;ck those QR codes just give me the menu](http://9gag.com/gag/aZrYn8n)
+ - 💣 [This is so true](http://9gag.com/gag/aggeQAw)
+ - ⏩ [A natural hunter](http://9gag.com/gag/a410nxZ)
  - 👉 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)<!-- MEMES:END -->
 
 ---
