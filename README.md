@@ -111,9 +111,9 @@ To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cit
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Blood Washing’ Is the Latest Dubious—and Pricey—Long-Covid Trend](https://www.wired.com/story/blood-washing-long-covid-unproven-trend/)
- - [Amazon Handed Ring Videos to Cops Without Warrants](https://www.wired.com/story/amazon-ring-police-videos-security-roundup/)
- - [Peloton Will Stop Making Its Own Bikes and Treadmills](https://www.wired.com/story/peloton-will-stop-making-its-own-bikes/)<!-- TECH:END -->
+ - [JBL’s waterproof Flip 5 speaker is cheaper today than during Prime Day](https://www.theverge.com/good-deals/2022/7/16/23220018/jbl-flip-5-bluetooth-speaker-google-pixel-6-pro-fitbit-versa-3-nomad-base-one-magsafe-deal-sale)
+ - [Daily deals July 16: $192 Anycubic resin 3D printer, $170 AirPods Pro, $130 Cuisinart AirFryer, more](https://appleinsider.com/articles/22/07/16/daily-deals-july-16-192-anycubic-resin-3d-printer-170-airpods-pro-130-cuisinart-airfryer-more?utm_medium=rss)
+ - [‘Blood Washing’ Is the Latest Dubious—and Pricey—Long-Covid Trend](https://www.wired.com/story/blood-washing-long-covid-unproven-trend/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
