@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Amber Hurt](http://9gag.com/gag/adgzvyV)
- - ⏩ [This is how populism works](http://9gag.com/gag/a410PQy)
- - 👉 [Have we really evolved?](http://9gag.com/gag/amgZoLd)<!-- MEMES:END -->
+ - ⏩ [Call me a boomer but f&amp;ck those QR codes just give me the menu](http://9gag.com/gag/aZrYn8n)
+ - 👉 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)<!-- MEMES:END -->
 
 ---
 
