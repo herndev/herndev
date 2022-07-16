@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yep](http://9gag.com/gag/aXrOn6b)
+ - 💣 [Amber Hurt](http://9gag.com/gag/adgzvyV)
  - ⏩ [This is how populism works](http://9gag.com/gag/a410PQy)
- - 👉 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/ay9KNrb)<!-- MEMES:END -->
+ - 👉 [Have we really evolved?](http://9gag.com/gag/amgZoLd)<!-- MEMES:END -->
 
 ---
 
