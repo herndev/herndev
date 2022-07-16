@@ -103,10 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The reimagined cartoon version of Blazing Saddles is better than it looks](https://www.polygon.com/reviews/23220122/paws-of-fury-review-animated-blazing-saddles-remake)
- - [How To Unlock Vampire Survivors’ Secret Tree Character](https://kotaku.com/vampire-survivors-secret-peppino-steam-pc-game-pass-1849185028)
- - [Fallout Players Talk Cities They Want To See In The Next Game From NYC
-To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cities-they-want.html)<!-- GAME:END -->
+ - [Pokémon Go Starly Community Day event guide](https://www.polygon.com/pokemon-go-guide/2022/7/16/23205402/starly-community-day-shiny-event-times-moveset)
+ - [How One Player Beat Elden Ring Without Getting Hit Or Leveling](https://kotaku.com/elden-ring-no-hit-rl1-world-s-first-scion-fromsoftware-1849185157)
+ - [The Steam Deck&#39;s Funky Controls Prove That Gamepads Are Outdated](https://kotaku.com/steam-deck-valve-controls-first-person-shooter-halo-cry-1849185160)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
