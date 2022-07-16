@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go Starly Community Day event guide](https://www.polygon.com/pokemon-go-guide/2022/7/16/23205402/starly-community-day-shiny-event-times-moveset)
- - [How One Player Beat Elden Ring Without Getting Hit Or Leveling](https://kotaku.com/elden-ring-no-hit-rl1-world-s-first-scion-fromsoftware-1849185157)
- - [The Steam Deck&#39;s Funky Controls Prove That Gamepads Are Outdated](https://kotaku.com/steam-deck-valve-controls-first-person-shooter-halo-cry-1849185160)<!-- GAME:END -->
+ - [The underpaid and unrecognized editors behind Twitch&#39;s biggest streamers want and deserve more](https://www.pcgamer.com/the-underpaid-and-unrecognized-editors-behind-twitchs-biggest-streamers-want-and-deserve-more)
+ - [I think I love Draconia, the only MMO about dragons peacefully collecting seashells](https://www.pcgamer.com/i-think-i-love-draconia-the-only-mmo-about-dragons-peacefully-collecting-seashells)
+ - [Xbox’s Summer Sale Features Huge Deals On Far Cry, Red Dead Redemption II, And More](https://kotaku.com/xbox-summer-sale-july-deals-best-far-cry-red-dead-1849185308)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
