@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is so true](http://9gag.com/gag/aggeQAw)
- - ⏩ [A natural hunter](http://9gag.com/gag/a410nxZ)
- - 👉 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)<!-- MEMES:END -->
+ - 💣 [Remember, always ground your appliances](http://9gag.com/gag/a61RDrm)
+ - ⏩ [Breaking Bad](http://9gag.com/gag/a91GzN1)
+ - 👉 [Name this move.](http://9gag.com/gag/aVx6v5w)<!-- MEMES:END -->
 
 ---
 
