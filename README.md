@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Resident Evil’s villains are unlikable. Their actors are fine with that](https://www.polygon.com/23219370/resident-evil-netflix-villain-interviews-2022)
  - [The underpaid and unrecognized editors behind Twitch&#39;s biggest streamers want and deserve more](https://www.pcgamer.com/the-underpaid-and-unrecognized-editors-behind-twitchs-biggest-streamers-want-and-deserve-more)
- - [I think I love Draconia, the only MMO about dragons peacefully collecting seashells](https://www.pcgamer.com/i-think-i-love-draconia-the-only-mmo-about-dragons-peacefully-collecting-seashells)
- - [Xbox’s Summer Sale Features Huge Deals On Far Cry, Red Dead Redemption II, And More](https://kotaku.com/xbox-summer-sale-july-deals-best-far-cry-red-dead-1849185308)<!-- GAME:END -->
+ - [I think I love Draconia, the only MMO about dragons peacefully collecting seashells](https://www.pcgamer.com/i-think-i-love-draconia-the-only-mmo-about-dragons-peacefully-collecting-seashells)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
