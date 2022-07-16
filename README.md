@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So you c**ts got me hooked on the boys and got damn thats a fcking good actor.](http://9gag.com/gag/aGzQdX5)
- - ⏩ [Banana for self-defence](http://9gag.com/gag/a91GE6Z)
- - 👉 [Hoping for a better 2023.](http://9gag.com/gag/aegBDbb)<!-- MEMES:END -->
+ - 💣 [That&#39;s why england never win world cup](http://9gag.com/gag/a31OwL3)
+ - ⏩ [Absolute unit](http://9gag.com/gag/aBne2OP)
+ - 👉 [Shame](http://9gag.com/gag/arnLVQK)<!-- MEMES:END -->
 
 ---
 
