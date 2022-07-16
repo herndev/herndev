@@ -103,9 +103,10 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer #392: Saturday, July 16](https://www.pcgamer.com/todays-wordle-july-16-392-answer-hint)
- - [The James Webb Telescope&#39;s hard drive can&#39;t store Warzone, but it will withstand the horrifying effects of cosmic radiation](https://www.pcgamer.com/the-james-webb-telescopes-hard-drive-cant-store-warzone-but-it-will-withstand-the-horrifying-effects-of-cosmic-radiation)
- - [Total War: Warhammer 3 video accidentally leaks 4 DLC factions](https://www.pcgamer.com/total-war-warhammer-3-video-accidentally-leaks-4-dlc-factions)<!-- GAME:END -->
+ - [Fallout Players Talk Cities They Want To See In The Next Game From NYC
+To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cities-they-want.html)
+ - [Horizon Zero Dawn&#39;s Coloring Book Releases Later This Month](https://game-rant-2022.blogspot.com/2022/07/horizon-zero-dawn-coloring-book.html)
+ - [Getting Over It Played By Mostly Naked YouTuber In A Giant Pot](https://game-rant-2022.blogspot.com/2022/07/getting-over-it-played-by-mostly-naked.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
