@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India escalates its crackdown on Oppo, Vivo, and Xiaomi, which control ~60% of its smartphone market, with claims of tax evasion and unlawful remittances &lpar;Financial Times&rpar;](http://www.techmeme.com/220716/p11#a220716p11)
- - [The Sopranos and Friends are HBO Max’s secret weapon against Netflix](https://www.androidauthority.com/netflix-vs-hbo-max-library-back-catalog-streaming-wars-3185319/)
- - [Intel is setting expectations low for its Arc GPUs](https://www.theverge.com/2022/7/16/23232217/intel-arc-gpu-a750-setting-expectations)<!-- TECH:END -->
+ - [The 2022 &quot;crypto winter&quot; differs from previous crashes, in part due to the macro environment, the TerraUSD collapse, excess leverage, and contagion via 3AC &lpar;CNBC&rpar;](http://www.techmeme.com/220716/p12#a220716p12)
+ - [&#39;Lightyear&#39;: When Is the Pixar Flick Coming to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/lightyear-when-is-the-pixar-flick-coming-to-disney-plus/#ftag=CAD590a51e)
+ - [&#39;The Umbrella Academy&#39; Season 3: The Ending Explained, Every Question Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-the-ending-explained-every-question-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
