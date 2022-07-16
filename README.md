@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There will never be a gamer table that surpasses this aesthetic](http://9gag.com/gag/a51Y6VO)
- - ⏩ [Take notes netflix &lpar;4:03&rpar;](http://9gag.com/gag/a410Pzv)
- - 👉 [Panic mode activated](http://9gag.com/gag/adgz1YN)<!-- MEMES:END -->
+ - 💣 [Not the picture I was expecting from my 5 y/o daughter’s teacher. They put this up on the school FB before they realized what she was doing.](https://www.reddit.com/r/funny/comments/w0ot4o/not_the_picture_i_was_expecting_from_my_5_yo/)
+ - ⏩ [Jesse, we need to congratulate who ever made this work of art.](https://www.reddit.com/r/funny/comments/w0njo2/jesse_we_need_to_congratulate_who_ever_made_this/)
+ - 👉 [🗿fence in estonia](https://www.reddit.com/r/memes/comments/w0ncfc/fence_in_estonia/)<!-- MEMES:END -->
 
 ---
 
