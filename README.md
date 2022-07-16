@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy Black Friday in July Sale: up to $250 off MacBooks, TVs as low as $79, up to 50% off small kitchen appliances](https://appleinsider.com/articles/22/07/11/best-buy-black-friday-in-july-sale-macbooks-from-899-tvs-as-low-as-79-170-off-beats?utm_medium=rss)
- - [New Gab accounts appear to be automatically following the GOP nominee for PA governor Doug Mastriano, after he paid Gab $5K in April for &quot;campaign consulting&quot; &lpar;Christopher Mathias/HuffPost&rpar;](http://www.techmeme.com/220716/p9#a220716p9)
- - [Beyerdynamic Free Byrd earbuds review: soaring sound and long battery life](https://www.theverge.com/23220566/beyerdynamic-free-byrd-review)<!-- TECH:END -->
+ - [Online scam centers in Southeast Asia have perfected &quot;pig butchering&quot;, a romance-meets-investment fraud, to lure victims into bogus investment schemes &lpar;Alastair McCready/VICE&rpar;](http://www.techmeme.com/220716/p10#a220716p10)
+ - [Amazon Drone Deliveries Coming to Texas City as Prime Air Expands     - CNET](https://www.cnet.com/tech/computing/amazon-drone-deliveries-coming-to-texas-city-as-prime-air-expands/#ftag=CAD590a51e)
+ - [Making the Android lock screen busier is a bad, bad idea](https://www.androidauthority.com/android-lock-screen-ads-content-3184439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
