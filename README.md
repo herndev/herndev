@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 Public Beta: New iPhone Features You&#39;ll Love to Use     - CNET](https://www.cnet.com/tech/mobile/ios-16-public-beta-new-iphone-features-youll-love-to-use/#ftag=CAD590a51e)
- - [As China builds up its vast surveillance and security apparatus, it is running up against growing public unease about data security and privacy in the country &lpar;New York Times&rpar;](http://www.techmeme.com/220716/p4#a220716p4)
- - [Nothing Phone 1 Review: Affordable Phone With Flashy Extras     - CNET](https://www.cnet.com/tech/mobile/nothing-phone-1-review-affordable-phone-with-flashy-extras/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 17 Best Accessories for Your PlayStation 5](https://www.wired.com/gallery/best-ps5-accessories/)
+ - [The Dangerous Chemicals Lurking Inside Shipping Containers](https://www.wired.com/story/the-dangerous-chemicals-lurking-inside-shipping-containers/)
+ - [Democratic lawmakers ask federal agencies to crack down on crypto mining](https://www.theverge.com/2022/7/16/23220671/bitcoin-cryptomining-democratic-lawmakers-letter-epa-energy-department)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
