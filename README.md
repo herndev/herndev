@@ -103,10 +103,10 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The reimagined cartoon version of Blazing Saddles is better than it looks](https://www.polygon.com/reviews/23220122/paws-of-fury-review-animated-blazing-saddles-remake)
+ - [How To Unlock Vampire Survivors’ Secret Tree Character](https://kotaku.com/vampire-survivors-secret-peppino-steam-pc-game-pass-1849185028)
  - [Fallout Players Talk Cities They Want To See In The Next Game From NYC
-To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cities-they-want.html)
- - [Horizon Zero Dawn&#39;s Coloring Book Releases Later This Month](https://game-rant-2022.blogspot.com/2022/07/horizon-zero-dawn-coloring-book.html)
- - [Getting Over It Played By Mostly Naked YouTuber In A Giant Pot](https://game-rant-2022.blogspot.com/2022/07/getting-over-it-played-by-mostly-naked.html)<!-- GAME:END -->
+To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cities-they-want.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
