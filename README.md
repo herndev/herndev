@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop touching my pan dammit](http://9gag.com/gag/aWgXgbZ)
- - ⏩ [I grew with Metallica and I agree](http://9gag.com/gag/a31Ow28)
- - 👉 [Banana for self-defence](http://9gag.com/gag/a91GE6Z)<!-- MEMES:END -->
+ - 💣 [Banana for self-defence](http://9gag.com/gag/a91GE6Z)
+ - ⏩ [Swimming cat](http://9gag.com/gag/aE848Mn)
+ - 👉 [When Factory say they created `job` for the community](http://9gag.com/gag/ay9KM8r)<!-- MEMES:END -->
 
 ---
 
