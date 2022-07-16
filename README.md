@@ -119,7 +119,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [What it was like being in the army for 8 years.](http://9gag.com/gag/arnLmL6)
  - ⏩ [I have heard about Dropbox but f**k this is some express service](http://9gag.com/gag/a51YX9y)
- - 👉 [Have we really evolved?](http://9gag.com/gag/amgZoLd)<!-- MEMES:END -->
+ - 👉 [Definitely won\u2019t be leaving it in there](http://9gag.com/gag/aGzQEm7)<!-- MEMES:END -->
 
 ---
 
