@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s true.](http://9gag.com/gag/a61REBe)
- - ⏩ [Swimming cat](http://9gag.com/gag/aE848Mn)
- - 👉 [When your crush touch you](http://9gag.com/gag/aKmMmWj)<!-- MEMES:END -->
+ - 💣 [122 hamburguers per hour](http://9gag.com/gag/aAG9GdL)
+ - ⏩ [Now that&#39;s excellent](http://9gag.com/gag/aNPbwd3)
+ - 👉 [Stop touching my pan dammit](http://9gag.com/gag/aWgXgbZ)<!-- MEMES:END -->
 
 ---
 
