@@ -118,9 +118,9 @@ To Chicago](https://game-rant-2022.blogspot.com/2022/07/fallout-players-talk-cit
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I&#39;m watching you, Wazowski. Always watching. Always.`](http://9gag.com/gag/a71xqnA)
- - ⏩ [Definitely won\u2019t be leaving it in there](http://9gag.com/gag/aGzQEm7)
- - 👉 [Magical](http://9gag.com/gag/aggeoxx)<!-- MEMES:END -->
+ - 💣 [Yep](http://9gag.com/gag/aXrOn6b)
+ - ⏩ [This is how populism works](http://9gag.com/gag/a410PQy)
+ - 👉 [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/ay9KNrb)<!-- MEMES:END -->
 
 ---
 
