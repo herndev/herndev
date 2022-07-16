@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s security chief steps down as company moves US data to Oracle servers](https://www.theverge.com/2022/7/16/23228983/tiktok-security-chief-steps-down-oracle-servers-us-user-data-roland-cloutier)
- - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)
- - [Report: in emails sent to three creators, Coinbase says it is &quot;temporarily shutting down&quot; its US affiliate program on July 19 and plans to relaunch it in 2023 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/220716/p7#a220716p7)<!-- TECH:END -->
+ - [Beyerdynamic Free Byrd earbuds review: soaring sound and long battery life](https://www.theverge.com/23220566/beyerdynamic-free-byrd-review)
+ - [Hands-on with Apple&#39;s M2 MacBook Air in Starlight](https://appleinsider.com/articles/22/07/15/hands-on-with-apples-m2-macbook-air-in-starlight?utm_medium=rss)
+ - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
