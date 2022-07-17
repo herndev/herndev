@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [DIY Lego Submarine reminds me of Nautilus from 1000 Leagues Under the Sea and The Mysterious Island](http://9gag.com/gag/aRrpMLA)
- - ⏩ [Dads being das](http://9gag.com/gag/aOQWZMD)
- - 👉 [MY PARKING SPACE BAWK BAWK](http://9gag.com/gag/ay9K64X)<!-- MEMES:END -->
+ - 💣 [Hooray, hooray, it&#39;a Holi-Holiday](http://9gag.com/gag/aze3GBm)
+ - ⏩ [For me, one of the greatest action comedies from the 90&#39;s. What makes it even better is fact that they didn&#39;t made any unnecessary sequel or prequel. Wrapped around story as it should be.](http://9gag.com/gag/awzpL9B)
+ - 👉 [Americans Trying To Use First Roundabout In Town](http://9gag.com/gag/awzpLzx)<!-- MEMES:END -->
 
 ---
 
