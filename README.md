@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nuke it](http://9gag.com/gag/aZrYwXn)
+ - 💣 [Doctor came wearing PPE Kit, the patient thought him as a ghost.](http://9gag.com/gag/aE84V5K)
  - ⏩ [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
- - 👉 [Body Change !](http://9gag.com/gag/aVx6E8P)<!-- MEMES:END -->
+ - 👉 [Nuke it](http://9gag.com/gag/aZrYwXn)<!-- MEMES:END -->
 
 ---
 
