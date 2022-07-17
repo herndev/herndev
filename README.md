@@ -117,7 +117,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
+ - 💣 [Whoever wastes food needs to be served a table of manner by Sanji san.](http://9gag.com/gag/ajg4ZL8)
  - ⏩ [C&amp;C Series, NFS underground 2, GTA San andreas, Prince of Persia, Diablo II, Warcraft 3](http://9gag.com/gag/aPZqe8q)
  - 👉 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)<!-- MEMES:END -->
 
