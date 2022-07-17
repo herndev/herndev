@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Nuke it](http://9gag.com/gag/aZrYwXn)
- - ⏩ [Breaking Bad](http://9gag.com/gag/a91GzN1)
- - 👉 [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)<!-- MEMES:END -->
+ - ⏩ [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
+ - 👉 [Body Change !](http://9gag.com/gag/aVx6E8P)<!-- MEMES:END -->
 
 ---
 
