@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hooray, hooray, it&#39;a Holi-Holiday](http://9gag.com/gag/aze3GBm)
- - ⏩ [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
- - 👉 [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)<!-- MEMES:END -->
+ - 💣 [After Watching The Resident Evil Netflix Series](http://9gag.com/gag/aLvEGjM)
+ - ⏩ [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)
+ - 👉 [Innit mate?](http://9gag.com/gag/aqGEQxP)<!-- MEMES:END -->
 
 ---
 
