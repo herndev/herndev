@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Panic mode activated](http://9gag.com/gag/adgz1YN)
+ - 💣 [Nuke it](http://9gag.com/gag/aZrYwXn)
  - ⏩ [Breaking Bad](http://9gag.com/gag/a91GzN1)
- - 👉 [Hyundai N Vision 74](http://9gag.com/gag/a4106jv)<!-- MEMES:END -->
+ - 👉 [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)<!-- MEMES:END -->
 
 ---
 
