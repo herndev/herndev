@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawmakers push FTC to clean up the VPN industry](https://www.theverge.com/2022/7/17/23264384/lawmakers-ftc-eshoo-wyden-vpn-industry-roe-v-wade-abortion-privacy)
- - [Seattle-based Phaidra, whose AI software automates building controls for industrial facilities like power plants, raised a $25M Series A led by Starshot Capital &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220717/p5#a220717p5)
- - [In an age of smart speakers, sometimes Bluetooth is still king](https://www.androidauthority.com/bluetooth-speaker-vs-smart-speaker-3186110/)<!-- TECH:END -->
+ - [Elon Musk says we should see Steam running on Teslas soon](https://www.theverge.com/2022/7/17/23265627/elon-musk-tesla-steam-integration-model-s-x)
+ - [How to tailor your Apple Music recommendations to be more accurate](https://appleinsider.com/inside/apple-music/tips/how-to-tailor-your-apple-music-recommendations-to-be-more-accurate?utm_medium=rss)
+ - [Lawmakers push FTC to clean up the VPN industry](https://www.theverge.com/2022/7/17/23264384/lawmakers-ftc-eshoo-wyden-vpn-industry-roe-v-wade-abortion-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
