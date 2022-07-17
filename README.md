@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 Public Beta: New iPhone Features You&#39;ll Love to Use     - CNET](https://www.cnet.com/tech/mobile/ios-16-public-beta-new-iphone-features-youll-love-to-use/#ftag=CAD590a51e)
- - [An app for India&#39;s largest public employment program is jeopardizing the livelihood of millions in the country due to technical glitches and poor connectivity &lpar;Sabah Gurmat/Rest of World&rpar;](http://www.techmeme.com/220717/p2#a220717p2)
- - [MakeMyMove: at least 71 US cities and town are now offering cash grants and other perks to attract remote tech workers, up from 24 in October 2021 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220717/p1#a220717p1)<!-- TECH:END -->
+ - [Meet the Ukrainian Number Theorist Who Won Math’s Highest Honor](https://www.wired.com/story/meet-the-ukrainian-number-theorist-who-won-maths-highest-honor/)
+ - [Home Equity Loan Rates for July 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/home-equity-loan-rates/#ftag=CAD590a51e)
+ - [Android Apps Can Be Sketchy. How to Deny Permissions     - CNET](https://www.cnet.com/tech/services-and-software/android-apps-can-be-sketchy-how-to-deny-permissions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
