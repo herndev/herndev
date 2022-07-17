@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite China&#39;s scrutiny of online credit, smaller services have proliferated in China, as the penetration rate of online microlending reached 69.2% in 2021 &lpar;Yaling Jiang/South China Morning Post&rpar;](http://www.techmeme.com/220717/p4#a220717p4)
- - [Get Ready, Big Changes Are Coming to Your Phone&#39;s Lock Screen     - CNET](https://www.cnet.com/tech/mobile/get-ready-big-changes-are-coming-to-your-phones-lock-screen/#ftag=CAD590a51e)
- - [I bought an electric scooter for quick commutes, and here’s what I learned](https://www.androidauthority.com/what-i-learned-electric-scooter-3180345/)<!-- TECH:END -->
+ - [Google’s now solely relying on developers to provide accurate app data collection information](https://www.theverge.com/2022/7/17/23259385/google-play-store-developers-accurate-app-data-collection-information-safety)
+ - [M2 Pro, M2 Max MacBook Pro models could arrive by the fall](https://appleinsider.com/articles/22/07/17/m2-pro-m2-max-macbook-pro-models-could-arrive-by-the-fall?utm_medium=rss)
+ - [This small magnetic power bank from Anker is a big game changer](https://www.androidauthority.com/anker-622-3185626/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
