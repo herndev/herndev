@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption 2 fan shows off collection of real cigarette cards](https://game-rant-2022.blogspot.com/2022/07/red-dead-redemption-2-fan-shows-off.html)
- - [Jul 16 Wordle Answer 392](https://game-rant-2022.blogspot.com/2022/07/jul-16-wordle-answer-392.html)
- - [Pokemon Scarlet and Violet Leaker sets expectations for number of new Pokemon](https://game-rant-2022.blogspot.com/2022/07/pokemon-scarlet-and-violet-leaker-sets.html)<!-- GAME:END -->
+ - [How to have the best Duke Nukem 3D experience in 2022](https://www.pcgamer.com/duke-nukem-3d-mods-setup-guide)
+ - [Stranger Things&#39; Noah Schnapp Says Will Byers Is Gay And Loves Mike](https://game-rant-2022.blogspot.com/2022/07/stranger-things-noah-schnapp-says-will.html)
+ - [July 17 Wordle Answer 393](https://game-rant-2022.blogspot.com/2022/07/july-17-wordle-answer-393.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
