@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [UK Government&#39;s loot box inquiry says no changes to law, asks industry to self-regulate](https://www.pcgamer.com/uk-governments-loot-box-inquiry-says-no-changes-to-law-asks-industry-to-self-regulate)
  - [14 video game movie and TV adaptations that actually work](https://www.polygon.com/what-to-watch/23196727/best-video-game-movies-adaptations-tv-watch-streaming)
- - [Automotive](https://game-rant-2022.blogspot.com/2022/07/automotive.html)
- - [Today&#39;s Wordle answer #393: Sunday, July 17](https://www.pcgamer.com/todays-wordle-july-17-393-answer-hint)<!-- GAME:END -->
+ - [Automotive](https://game-rant-2022.blogspot.com/2022/07/automotive.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
