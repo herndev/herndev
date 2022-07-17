@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes and Marvel Cameos Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-marvel-cameos-explained/#ftag=CAD590a51e)
  - [Best Mattress Deals: Discounts on Bear, Casper, Avocado, Purple and More     - CNET](https://www.cnet.com/deals/best-mattress-deals/#ftag=CAD590a51e)
- - [Apple&#39;s chips targeted in a new patent infringement suit](https://appleinsider.com/articles/22/07/16/apples-chips-targeted-in-a-new-patent-infringement-suit?utm_medium=rss)
- - [Today I learned Amazon will recycle small electronics for free](https://www.theverge.com/2022/7/16/23205725/today-i-learned-til-amazon-recycle-small-electronics-free)<!-- TECH:END -->
+ - [Apple&#39;s chips targeted in a new patent infringement suit](https://appleinsider.com/articles/22/07/16/apples-chips-targeted-in-a-new-patent-infringement-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
