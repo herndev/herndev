@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
- - ⏩ [House meme](http://9gag.com/gag/aKmMWZN)
- - 👉 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)<!-- MEMES:END -->
+ - ⏩ [Best clown ever](http://9gag.com/gag/aRrpoGq)
+ - 👉 [Something is wrong I can feel ittt](http://9gag.com/gag/aqGEWYM)<!-- MEMES:END -->
 
 ---
 
