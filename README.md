@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Soulframe looks like Warframe crossed with Princess Mononoke](https://www.pcgamer.com/soulframe-looks-like-warframe-crossed-with-princess-mononoke)
  - [Fall Guys Developers Address Accidental In-Game Purchases, Refunds For All Requests Submitted](https://game-rant-2022.blogspot.com/2022/07/fall-guys-developers-address-accidental.html)
- - [Someone remastered 1981&#39;s Ultima with the stellar graphics of 1985&#39;s Ultima 4](https://www.pcgamer.com/someone-remastered-1981s-ultima-with-the-stellar-graphics-of-1985s-ultima-4)
- - [In 1986, EA published a game with a simulated model of every Manhattan block south of 110th](https://www.pcgamer.com/saturday-crapshoot-amnesia)<!-- GAME:END -->
+ - [Someone remastered 1981&#39;s Ultima with the stellar graphics of 1985&#39;s Ultima 4](https://www.pcgamer.com/someone-remastered-1981s-ultima-with-the-stellar-graphics-of-1985s-ultima-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
