@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hooray, hooray, it&#39;a Holi-Holiday](http://9gag.com/gag/aze3GBm)
- - ⏩ [For me, one of the greatest action comedies from the 90&#39;s. What makes it even better is fact that they didn&#39;t made any unnecessary sequel or prequel. Wrapped around story as it should be.](http://9gag.com/gag/awzpL9B)
+ - 💣 [Don&#39;t we all](http://9gag.com/gag/a81g0Ve)
+ - ⏩ [Dredd Appreciation Day. Never Forget this masterpiece!](http://9gag.com/gag/aAG94YL)
  - 👉 [Americans Trying To Use First Roundabout In Town](http://9gag.com/gag/awzpLzx)<!-- MEMES:END -->
 
 ---
