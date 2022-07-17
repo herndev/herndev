@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A natural hunter](http://9gag.com/gag/a410nxZ)
- - ⏩ [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
- - 👉 [Call me a boomer but f&amp;ck those QR codes just give me the menu](http://9gag.com/gag/aZrYn8n)<!-- MEMES:END -->
+ - 💣 [No chill](http://9gag.com/gag/a21Xwgp)
+ - ⏩ [Hyundai N Vision 74](http://9gag.com/gag/a4106jv)
+ - 👉 [Panic mode activated](http://9gag.com/gag/adgz1YN)<!-- MEMES:END -->
 
 ---
 
