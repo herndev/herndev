@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doctor came wearing PPE Kit, the patient thought him as a ghost.](http://9gag.com/gag/aE84V5K)
+ - 💣 [Dad as wingman](http://9gag.com/gag/a0Z3X5O)
  - ⏩ [What&#39;s gone is gone.](http://9gag.com/gag/amgZ1ed)
- - 👉 [Nuke it](http://9gag.com/gag/aZrYwXn)<!-- MEMES:END -->
+ - 👉 [I still have a lot to learn, but i would really like to &lpar;one day&rpar; illustrate children\u2019s books. This is my latest digital drawing I would like to share in the hope some of you find some enjoyment in it. Have a good weekend my dudes.](http://9gag.com/gag/abg81pb)<!-- MEMES:END -->
 
 ---
 
