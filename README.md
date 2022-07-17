@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An app for India&#39;s largest public employment program is jeopardizing the livelihood of millions in the country due to technical glitches and poor connectivity &lpar;Sabah Gurmat/Rest of World&rpar;](http://www.techmeme.com/220717/p2#a220717p2)
  - [MakeMyMove: at least 71 US cities and town are now offering cash grants and other perks to attract remote tech workers, up from 24 in October 2021 &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220717/p1#a220717p1)
- - [Oakland-based Mayvenn, which offers an e-commerce tool and a marketplace for salon services, has raised a $40M Series C led by Cleveland Ave &lpar;FinSMEs&rpar;](http://www.techmeme.com/220716/p13#a220716p13)
- - [&#39;Ms. Marvel&#39; Finale Recap: Ending, Post-Credits and That M Word Explained     - CNET](https://www.cnet.com/culture/entertainment/ms-marvel-finale-recap-ending-post-credits-and-that-m-word-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Oakland-based Mayvenn, which offers an e-commerce tool and a marketplace for salon services, has raised a $40M Series C led by Cleveland Ave &lpar;FinSMEs&rpar;](http://www.techmeme.com/220716/p13#a220716p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
