@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why don&#39;t use public toilets in Austria anymore:](http://9gag.com/gag/ajg4Bpw)
- - ⏩ [Innit mate?](http://9gag.com/gag/aqGEQxP)
- - 👉 [2 speeding motorcyclists nearly reached 300km/h and crashes.](http://9gag.com/gag/aOQWD2D)<!-- MEMES:END -->
+ - 💣 [One year on, lost 70 kg](http://9gag.com/gag/apgMbp8)
+ - ⏩ [2 speeding motorcyclists nearly reached 300km/h and crashes.](http://9gag.com/gag/aOQWD2D)
+ - 👉 [House meme](http://9gag.com/gag/aKmMWZN)<!-- MEMES:END -->
 
 ---
 
