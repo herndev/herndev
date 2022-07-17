@@ -104,8 +104,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- GAME:START -->
  - [Owlcat gives a first look at Warhammer 40,000: Rogue Trader and some of its companions](https://www.pcgamer.com/owlcat-gives-a-first-look-at-warhammer-40000-rogue-trader-and-some-of-its-companions)
- - [How to have the best Duke Nukem 3D experience in 2022](https://www.pcgamer.com/duke-nukem-3d-mods-setup-guide)
- - [Stranger Things&#39; Noah Schnapp Says Will Byers Is Gay And Loves Mike](https://game-rant-2022.blogspot.com/2022/07/stranger-things-noah-schnapp-says-will.html)<!-- GAME:END -->
+ - [Three Anime-Related Pieces Nominated for Emmy Awards](https://game-rant-2022.blogspot.com/2022/07/three-anime-related-pieces-nominated.html)
+ - [Wordle 393: July 17, 2022 Hints &amp; Answers](https://game-rant-2022.blogspot.com/2022/07/wordle-393-july-17-2022-hints-answers.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
