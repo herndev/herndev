@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I bought an electric scooter for quick commutes, and here’s what I learned](https://www.androidauthority.com/what-i-learned-electric-scooter-3180345/)
- - [Daily deals July 17: $130 Apple TV 4K, $700 off 55-inch LG OLED Smart TV, $27 Netgear router, more](https://appleinsider.com/articles/22/07/17/daily-deals-july-17-130-apple-tv-4k-700-off-55-inch-lg-oled-smart-tv-27-netgear-router-more?utm_medium=rss)
- - [HBO Max: The 31 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-the-31-best-movies-to-stream-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Despite China&#39;s scrutiny of online credit, smaller services have proliferated in China, as the penetration rate of online microlending reached 69.2% in 2021 &lpar;Yaling Jiang/South China Morning Post&rpar;](http://www.techmeme.com/220717/p4#a220717p4)
+ - [Get Ready, Big Changes Are Coming to Your Phone&#39;s Lock Screen     - CNET](https://www.cnet.com/tech/mobile/get-ready-big-changes-are-coming-to-your-phones-lock-screen/#ftag=CAD590a51e)
+ - [I bought an electric scooter for quick commutes, and here’s what I learned](https://www.androidauthority.com/what-i-learned-electric-scooter-3180345/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
