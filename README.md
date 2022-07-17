@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Hyundai N’s ‘rolling labs’ imagine performance EVs that aren’t so boring](https://www.theverge.com/2022/7/17/23266195/hyundai-n-lab-concepts-performance-evs-nvision-74-rn22e-electric-vehicles)
  - [Chris Evans still misses his iPhone 6S and its home button](https://www.theverge.com/iphone/2022/7/17/23220127/iphone-6s-chris-evans-apple-iphone-12-pro-home-button)
- - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)
- - [Sydney-based Hivery, whose software helps retailers select the right mix of products to stock on store shelves, has raised a $30M Series B led by Tiger Global &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220717/p6#a220717p6)<!-- TECH:END -->
+ - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
