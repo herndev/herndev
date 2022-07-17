@@ -111,7 +111,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Lawmakers push FTC to clean up the VPN industry](https://www.theverge.com/2022/7/17/23264384/lawmakers-ftc-eshoo-wyden-vpn-industry-roe-v-wade-abortion-privacy)
- - [Seattle-based Phaidra, which develops AI software to automate building controls for power plants and other industrial facilities, has raised a $25M Series A &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220717/p5#a220717p5)
+ - [Seattle-based Phaidra, whose AI software automates building controls for industrial facilities like power plants, raised a $25M Series A led by Starshot Capital &lpar;Mark Bergen/Bloomberg&rpar;](http://www.techmeme.com/220717/p5#a220717p5)
  - [In an age of smart speakers, sometimes Bluetooth is still king](https://www.androidauthority.com/bluetooth-speaker-vs-smart-speaker-3186110/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
