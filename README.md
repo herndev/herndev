@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meet the Ukrainian Number Theorist Who Won Math’s Highest Honor](https://www.wired.com/story/meet-the-ukrainian-number-theorist-who-won-maths-highest-honor/)
- - [Home Equity Loan Rates for July 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/home-equity-loan-rates/#ftag=CAD590a51e)
- - [Android Apps Can Be Sketchy. How to Deny Permissions     - CNET](https://www.cnet.com/tech/services-and-software/android-apps-can-be-sketchy-how-to-deny-permissions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Xbox Game Pass Games Worth Playing](https://www.wired.com/gallery/best-xbox-game-pass-games/)
+ - [The Best Turntables for Your Vinyl Collection](https://www.wired.com/gallery/best-turntables/)
+ - [Arlo Go 2 or Eufy 4G Starlight: which is the best cellular security camera?](https://www.theverge.com/23207336/arlo-go-2-eufy-4g-starlight-review-best-cellular-security-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
