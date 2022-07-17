@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Soulframe looks like Warframe crossed with Princess Mononoke](https://www.pcgamer.com/soulframe-looks-like-warframe-crossed-with-princess-mononoke)
- - [Fall Guys Developers Address Accidental In-Game Purchases, Refunds For All Requests Submitted](https://game-rant-2022.blogspot.com/2022/07/fall-guys-developers-address-accidental.html)
- - [Someone remastered 1981&#39;s Ultima with the stellar graphics of 1985&#39;s Ultima 4](https://www.pcgamer.com/someone-remastered-1981s-ultima-with-the-stellar-graphics-of-1985s-ultima-4)<!-- GAME:END -->
+ - [Red Dead Redemption 2 fan shows off collection of real cigarette cards](https://game-rant-2022.blogspot.com/2022/07/red-dead-redemption-2-fan-shows-off.html)
+ - [Jul 16 Wordle Answer 392](https://game-rant-2022.blogspot.com/2022/07/jul-16-wordle-answer-392.html)
+ - [Pokemon Scarlet and Violet Leaker sets expectations for number of new Pokemon](https://game-rant-2022.blogspot.com/2022/07/pokemon-scarlet-and-violet-leaker-sets.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
