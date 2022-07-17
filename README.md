@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [14 Xbox Game Pass Games Worth Playing](https://www.wired.com/gallery/best-xbox-game-pass-games/)
- - [The Best Turntables for Your Vinyl Collection](https://www.wired.com/gallery/best-turntables/)
- - [Arlo Go 2 or Eufy 4G Starlight: which is the best cellular security camera?](https://www.theverge.com/23207336/arlo-go-2-eufy-4g-starlight-review-best-cellular-security-camera)<!-- TECH:END -->
+ - [Daily deals July 17: $130 Apple TV 4K, $700 off 55-inch LG OLED Smart TV, $27 Netgear router, more](https://appleinsider.com/articles/22/07/17/daily-deals-july-17-130-apple-tv-4k-700-off-55-inch-lg-oled-smart-tv-27-netgear-router-more?utm_medium=rss)
+ - [Crime blotter: Pro wrestlers&#39; Find My iPhone expedition ends predictably](https://appleinsider.com/articles/22/07/17/crime-blotter-pro-wrestlers-find-my-iphone-expedition-ends-predictably?utm_medium=rss)
+ - [14 Xbox Game Pass Games Worth Playing](https://www.wired.com/gallery/best-xbox-game-pass-games/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
