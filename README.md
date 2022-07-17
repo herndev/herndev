@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)
- - ⏩ [Best clown ever](http://9gag.com/gag/aRrpoGq)
- - 👉 [Something is wrong I can feel ittt](http://9gag.com/gag/aqGEWYM)<!-- MEMES:END -->
+ - 💣 [Realistic headlock Escaping](http://9gag.com/gag/aggexL6)
+ - ⏩ [C&amp;C Series, NFS underground 2, GTA San andreas, Prince of Persia, Diablo II, Warcraft 3](http://9gag.com/gag/aPZqe8q)
+ - 👉 [Thank God we have diverse strong female characters now... No hate, just disappointment.](http://9gag.com/gag/apgMbQW)<!-- MEMES:END -->
 
 ---
 
