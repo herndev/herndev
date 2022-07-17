@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Say what now?](http://9gag.com/gag/avAj6Db)
- - ⏩ [Emanuel, don&#39;t do it.](http://9gag.com/gag/awzp1m1)
- - 👉 [Doctor came wearing PPE Kit, the patient thought him as a ghost.](http://9gag.com/gag/aE84V5K)<!-- MEMES:END -->
+ - 💣 [Rendition of Sultans of Swing](http://9gag.com/gag/a71x0px)
+ - ⏩ [Finally got to hold my daughter after 3 days in the ICU, 6 weeks early and only 3 pounds. 9GAG has been keeping me distracted from the stress. Thanks 9gaggers.](http://9gag.com/gag/apgM62B)
+ - 👉 [Emanuel, don&#39;t do it.](http://9gag.com/gag/awzp1m1)<!-- MEMES:END -->
 
 ---
 
