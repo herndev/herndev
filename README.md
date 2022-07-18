@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snapchat launches Snapchat for Web to let users send snaps and make video calls on desktop, says the average caller on the app spends 30+ minutes a day on calls &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220718/p5#a220718p5)
- - [Daily deals July 18: $170 AirPods Pro, 4K monitor for $199, Elgato Stream Deck discounts, more](https://appleinsider.com/articles/22/07/18/daily-deals-july-18-170-airpods-pro-180-off-hps-28-inch-4k-monitor-elgato-stream-deck-discounts-more?utm_medium=rss)
- - [The US Has a Historic Opportunity to Bridge the Digital Divide](https://www.wired.com/story/digital-divide-broadband-fcc/)<!-- TECH:END -->
+ - [Corsair brings Nvidia’s impressive noise removal to its iCue and Elgato software](https://www.theverge.com/2022/7/18/23268329/corsair-nvidia-broadcast-integration-audio-video-icue-elgato-wave-link)
+ - [New Nanoleaf lights, fish tank robot, and more on HomeKit Insider](https://appleinsider.com/articles/22/07/18/new-nanoleaf-lights-fish-tank-robot-and-more-on-homekit-insider?utm_medium=rss)
+ - [Andy Jassy has quietly put his own imprint on Amazon in his first year as CEO, making more changes than many expected, including a hands-on approach to lobbying &lpar;New York Times&rpar;](http://www.techmeme.com/220718/p6#a220718p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
