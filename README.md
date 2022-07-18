@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;July 18, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-july-18-2022)
- - [Footballers Wearing Body Cameras Looks Like FIFA From The Future](https://kotaku.com/fifa-23-ac-milan-body-camera-gopro-giroud-goal-ea-1849188685)
- - [Am I the only one happy that Skate is free to play?](https://game-rant-2022.blogspot.com/2022/07/am-i-only-one-happy-that-skate-is-free.html)<!-- GAME:END -->
+ - [Fan-made Ocarina of Time PC port gets unlocked framerate, difficulty settings, and more](https://www.pcgamer.com/fan-made-ocarina-of-time-pc-port-gets-unlocked-framerate-difficulty-settings-and-more)
+ - [Elden Ring Video Explores Origins and Nature of Brave Monstrous Gargoyles](https://game-rant-2022.blogspot.com/2022/07/elden-ring-video-explores-origins-and.html)
+ - [Pokémon Puzzle League has secret messages of love](https://game-rant-2022.blogspot.com/2022/07/pokemon-puzzle-league-has-secret.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
