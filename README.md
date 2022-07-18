@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
- - ⏩ [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)
- - 👉 [Best god and devil actors in my opinion](http://9gag.com/gag/a81gzDY)<!-- MEMES:END -->
+ - 💣 [Best god and devil actors in my opinion](http://9gag.com/gag/a81gzDY)
+ - ⏩ [Consensus says.......](http://9gag.com/gag/aXrOd1V)
+ - 👉 [No need to rush, patience.](http://9gag.com/gag/aze3QRj)<!-- MEMES:END -->
 
 ---
 
