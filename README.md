@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Powerpuff Girls are being rebooted for the third time](https://www.theverge.com/2022/7/18/23268861/powerpuff-girls-reboot-fosters-home-for-imaginary-friends-hanna-barbera)
- - [Russia fines Google $358M for not censoring topics including the war with Ukraine, after Google&#39;s Russian subsidiary filed for bankruptcy earlier this year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220718/p14#a220718p14)
- - [Verizon is rolling out faster 5G in more places, but you’ll have to guess where](https://www.theverge.com/2022/7/18/23268642/verizon-faster-5g-100-mhz-c-band-expansion-spectrum-speeds)<!-- TECH:END -->
+ - [Apple adds new &#39;Leaving Soon&#39; section to Apple Arcade, starting with 15 titles](https://appleinsider.com/articles/22/07/18/apple-adds-new-leaving-soon-section-to-apple-arcade-starting-with-15-titles?utm_medium=rss)
+ - [Netflix’s latest anti-password sharing test lets users ‘buy’ additional homes](https://www.theverge.com/2022/7/18/23269063/netflix-home-password-account-sharing-latin-america-test)
+ - [IBM reports Q2 revenue up 9% YoY to $15.54B, vs $15.18B est., with its infrastructure unit, which includes mainframe computers, up almost 19% YoY to $4.24B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220718/p15#a220718p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
