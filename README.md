@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA delays launch of rover designed to search and drill for water on the Moon](https://www.theverge.com/2022/7/18/23269126/nasa-viper-rover-moon-clps-astrobotic-griffin-lander)
- - [How to print a paper copy or a PDF from an iPhone or iPad](https://www.theverge.com/23220358/ios-print-airprint-wireless-pdf-iphone-ipad-apple)
- - [The London Luton airport suspended flights after its runway buckled due to the UK heat](https://www.theverge.com/2022/7/18/23269052/london-luton-airport-brize-norton-runway-heat-damage-rail-travel)<!-- TECH:END -->
+ - [New York-based Meow, which offers corporate investors a compliant-first approach to cryptocurrency investing, raised a $22M Series A led by Tiger Global &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220718/p18#a220718p18)
+ - [TikTok Starts Layoffs in Company-Wide Restructuring](https://www.wired.com/story/tiktok-layoffs-company-wide-restructuring/)
+ - [Sources: SoftBank halts plans for a London IPO for Arm amid political turmoil; Boris Johnson had lobbied Masayoshi Son for at least a partial IPO on the LSE &lpar;Financial Times&rpar;](http://www.techmeme.com/220718/p17#a220718p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
