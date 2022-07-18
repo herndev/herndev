@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)
- - ⏩ [We are this close to get it.](http://9gag.com/gag/a71xNew)
- - 👉 [Seriously](http://9gag.com/gag/apgMAxn)<!-- MEMES:END -->
+ - 💣 [Seriously](http://9gag.com/gag/apgMAxn)
+ - ⏩ [When you see your friends are about to start a civil war between each others..](http://9gag.com/gag/aqGEz3P)
+ - 👉 [Hurry before they get up](http://9gag.com/gag/aegB7Ev)<!-- MEMES:END -->
 
 ---
 
