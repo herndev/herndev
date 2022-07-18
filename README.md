@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai N’s ‘rolling labs’ imagine performance EVs that aren’t so boring](https://www.theverge.com/2022/7/17/23266195/hyundai-n-lab-concepts-performance-evs-nvision-74-rn22e-electric-vehicles)
- - [Chris Evans still misses his iPhone 6S and its home button](https://www.theverge.com/iphone/2022/7/17/23220127/iphone-6s-chris-evans-apple-iphone-12-pro-home-button)
- - [MacBook Air with M2 processor review: The sweet spot for Mac portables in 2022](https://appleinsider.com/articles/22/07/16/macbook-air-with-m2-processor-review-the-sweet-spot-for-mac-portables-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Adam Neumann&#39;s Flowcarbon and some other startups offering cryptocurrencies backed by carbon-offset credits have slowed product rollouts amid the crypto crash &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220717/p7#a220717p7)
+ - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-best-documentaries-2022/#ftag=CAD590a51e)
+ - [&#39;Stranger Things&#39; Ending Explained: Full Recap, All The Easter Eggs     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-ending-explained-recap-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
