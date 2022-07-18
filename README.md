@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jeff Hardy finisher move](http://9gag.com/gag/angox3L)
- - ⏩ [Ok Karen. Life sucks for me, but u don&#39;t hear me asking for the manger of the earth.](http://9gag.com/gag/aM4Lz7x)
- - 👉 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)<!-- MEMES:END -->
+ - 💣 [There&#39;s alot of mosquitoes in Texas](http://9gag.com/gag/aAG9Mzg)
+ - ⏩ [When you see your friends are about to start a civil war between each others..](http://9gag.com/gag/aqGEz3P)
+ - 👉 [Seriously](http://9gag.com/gag/apgMAxn)<!-- MEMES:END -->
 
 ---
 
