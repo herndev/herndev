@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the Arctic Is Warming 4 Times as Fast as the Rest of Earth](https://www.wired.com/story/why-the-arctic-is-warming-4-times-as-fast-as-the-rest-of-earth/)
- - [Fully’s Workstation Is a Standing Desk in Disguise](https://www.wired.com/review/fully-nolan-standing-desk/)
- - [Apple unveils prestigious new London store](https://appleinsider.com/articles/22/07/18/apple-unveils-prestigious-new-london-store?utm_medium=rss)<!-- TECH:END -->
+ - [Snapchat launches Snapchat for Web to let users send snaps and make video calls on desktop, says the average caller on the app spends 30+ minutes a day on calls &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220718/p5#a220718p5)
+ - [Daily deals July 18: $170 AirPods Pro, 4K monitor for $199, Elgato Stream Deck discounts, more](https://appleinsider.com/articles/22/07/18/daily-deals-july-18-170-airpods-pro-180-off-hps-28-inch-4k-monitor-elgato-stream-deck-discounts-more?utm_medium=rss)
+ - [The US Has a Historic Opportunity to Bridge the Digital Divide](https://www.wired.com/story/digital-divide-broadband-fcc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
