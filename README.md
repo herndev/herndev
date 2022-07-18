@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone in Europe today..](http://9gag.com/gag/a31ON78)
- - ⏩ [No need to rush, patience.](http://9gag.com/gag/aze3QRj)
- - 👉 [Best god and devil actors in my opinion](http://9gag.com/gag/a81gzDY)<!-- MEMES:END -->
+ - 💣 [I used to be an adventurer but..](http://9gag.com/gag/a116OPG)
+ - ⏩ [Who wore it better](http://9gag.com/gag/aPZqnDG)
+ - 👉 [Professionals have standards](http://9gag.com/gag/a81gVDZ)<!-- MEMES:END -->
 
 ---
 
