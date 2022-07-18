@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Dogs 2, Inside, and As Dusk Falls coming to Xbox Game Pass in July](https://www.polygon.com/23268363/xbox-game-pass-update-july-2022-new-additions-leaving)
- - [I hate my gaming PC in the summer](https://www.pcgamer.com/my-pc-is-a-radiator)
- - [Unity CEO Promises To &#39;Do Better&#39; After Calling Some Game Devs &#39;F*cking Idiots&#39;](https://kotaku.com/unity-ea-ceo-riccitiello-microtransactions-apology-1849189694)<!-- GAME:END -->
+ - [Stray: The Kotaku Review](https://kotaku.com/stray-review-ps4-ps5-pc-cat-game-annapurna-bluetwelve-1849189599)
+ - [Stray is the work of sly cat people, and it’s a triumph](https://www.polygon.com/reviews/23268326/stray-review-cat-game-ps4-ps5-windows-pc-cyberpunk)
+ - [Genshin Impact codes: free Primogems and Mora for July](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
