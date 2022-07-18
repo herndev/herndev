@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Reveals Even Bigger Bowser](https://kotaku.com/lego-bowser-mario-big-set-figure-comic-con-size-luigi-1849191222)
- - [PlayStation is acquiring Repeat](https://game-rant-2022.blogspot.com/2022/07/playstation-is-acquiring-repeat.html)
- - [Why Chatot is banned in competitive Pokemon](https://game-rant-2022.blogspot.com/2022/07/why-chatot-is-banned-in-competitive.html)<!-- GAME:END -->
+ - [Fall Guys Threatens Everyone With Free Dick Bean](https://kotaku.com/fall-guys-apology-refund-auto-buy-tall-bean-grandis-1849191721)
+ - [Does the cat die in Stray?](https://www.polygon.com/guides/23269001/stray-cat-die-injury-fate)
+ - [The 10 Absolute Best Anime On Netflix](https://kotaku.com/netflix-anime-castlevania-beastars-devilman-blue-period-1849191757)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
