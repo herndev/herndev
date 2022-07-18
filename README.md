@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum Shows Signs of Life, Hits $1,400 After Merge News     - CNET](https://www.cnet.com/personal-finance/ethereum-shows-signs-of-life-hits-1400-after-merge-news/#ftag=CAD590a51e)
- - [&#39;Black Bird&#39; on Apple TV Plus: The True Story of Jimmy Keene, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-bird-on-apple-tv-plus-the-true-story-of-jimmy-keene-explained/#ftag=CAD590a51e)
- - [&#39;Westworld&#39; Season 4, Episode 4 Recap: The Tower Emerges     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-4-recap-the-tower-emerges/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
+ - [Researchers say Alibaba&#39;s cloud platform that hosted Shanghai&#39;s now-leaked police database used outdated systems that didn&#39;t offer the ability to set a password &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/220718/p1#a220718p1)
+ - [Nothing Phone 1 is glowing green for some users and that’s not a good thing](https://www.androidauthority.com/nothing-phone-1-green-tint-display-problem-3187390/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
