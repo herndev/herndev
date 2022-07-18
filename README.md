@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)
- - [Researchers say Alibaba&#39;s cloud platform that hosted Shanghai&#39;s now-leaked police database used outdated systems that didn&#39;t offer the ability to set a password &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/220718/p1#a220718p1)
- - [Nothing Phone 1 is glowing green for some users and that’s not a good thing](https://www.androidauthority.com/nothing-phone-1-green-tint-display-problem-3187390/)<!-- TECH:END -->
+ - [Watch the trailer for a new HBO show from the Weeknd and the creator of Euphoria](https://www.theverge.com/2022/7/18/23268147/the-idol-teaser-trailer-the-weeknd-euphoria-creator-hbo-tv-show)
+ - [You told us: Most of you place your phone screen-down in some capacity](https://www.androidauthority.com/smartphone-screen-face-down-poll-results-3187406/)
+ - [Best Prime Day deals that are still going strong](https://appleinsider.com/articles/22/07/14/best-prime-day-deals-that-are-still-going-strong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
