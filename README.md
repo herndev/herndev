@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Corsair brings Nvidia’s impressive noise removal to its iCue and Elgato software](https://www.theverge.com/2022/7/18/23268329/corsair-nvidia-broadcast-integration-audio-video-icue-elgato-wave-link)
- - [New Nanoleaf lights, fish tank robot, and more on HomeKit Insider](https://appleinsider.com/articles/22/07/18/new-nanoleaf-lights-fish-tank-robot-and-more-on-homekit-insider?utm_medium=rss)
- - [Andy Jassy has quietly put his own imprint on Amazon in his first year as CEO, making more changes than many expected, including a hands-on approach to lobbying &lpar;New York Times&rpar;](http://www.techmeme.com/220718/p6#a220718p6)<!-- TECH:END -->
+ - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)
+ - [Microsoft’s secret plastic Surface Duo leaks on eBay](https://www.theverge.com/2022/7/18/23268381/microsoft-surface-duo-plastic-cronos-rumors)
+ - [Sources: several US chip makers are deliberating whether to oppose the Chips Act if its final language disproportionately benefits manufacturers like Intel &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220718/p8#a220718p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
