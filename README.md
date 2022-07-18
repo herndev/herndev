@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [13 year old Dutch Heineken commercial](http://9gag.com/gag/amgZnGj)
- - ⏩ [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)
- - 👉 [Had a bit of a setback. In a coma with both kidneys failed for 6 days. Now letting me out again today hopefully.](http://9gag.com/gag/aVx6dQ8)<!-- MEMES:END -->
+ - 💣 [When Karma gets the better of you...](http://9gag.com/gag/aggeKwr)
+ - ⏩ [Life hacks](http://9gag.com/gag/arnL8YV)
+ - 👉 [Yeah Science b*tch!](http://9gag.com/gag/avAjm3n)<!-- MEMES:END -->
 
 ---
 
