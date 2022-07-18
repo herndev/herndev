@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They lost the chance of making a Tomb Rider movie with the perfect cast for Lara Croft](http://9gag.com/gag/aE84NYn)
- - ⏩ [No need to rush, patience.](http://9gag.com/gag/aze3QRj)
- - 👉 [Had a bit of a setback. In a coma with both kidneys failed for 6 days. Now letting me out again today hopefully.](http://9gag.com/gag/aVx6dQ8)<!-- MEMES:END -->
+ - 💣 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)
+ - ⏩ [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)
+ - 👉 [Checking into rehab today to finally try to get sober. Thank you for all the laughs you provide for me &lt;3](http://9gag.com/gag/aOQWNNv)<!-- MEMES:END -->
 
 ---
 
