@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Times](http://9gag.com/gag/a61RGme)
- - ⏩ [Well, that&#39;s unexpected](http://9gag.com/gag/aRrpR62)
- - 👉 [Hehen\u2019t](http://9gag.com/gag/angoG1V)<!-- MEMES:END -->
+ - 💣 [Well, that&#39;s unexpected](http://9gag.com/gag/aRrpR62)
+ - ⏩ [Ma&#39;am I do my own plumbing,This has been an amazing series.](http://9gag.com/gag/aze34ep)
+ - 👉 [Everything in german hits different](http://9gag.com/gag/avAjdjO)<!-- MEMES:END -->
 
 ---
 
