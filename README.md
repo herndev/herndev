@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Guys Threatens Everyone With Free Dick Bean](https://kotaku.com/fall-guys-apology-refund-auto-buy-tall-bean-grandis-1849191721)
- - [Does the cat die in Stray?](https://www.polygon.com/guides/23269001/stray-cat-die-injury-fate)
- - [The 10 Absolute Best Anime On Netflix](https://kotaku.com/netflix-anime-castlevania-beastars-devilman-blue-period-1849191757)<!-- GAME:END -->
+ - [The hot new co-op farming game is called Dinkum](https://www.pcgamer.com/the-hot-new-co-op-farming-game-is-called-dinkum)
+ - [Monkey Island in-game footage shows off the remake&#39;s controversial new art direction](https://www.pcgamer.com/monkey-island-in-game-footage-shows-off-the-remakes-controversial-new-art-direction)
+ - [Fall Guys Threatens Everyone With Free Dick Bean](https://kotaku.com/fall-guys-apology-refund-auto-buy-tall-bean-grandis-1849191721)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
