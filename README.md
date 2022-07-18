@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Band Wrote the Best Legend of Zelda Song of 2022](https://www.wired.com/story/horse-jumper-of-love-zelda-video-game-music/)
- - [Abortion Pill Demand Is Driving an Underground Network](https://www.wired.com/story/the-wild-abortion-pill-supply-chain/)
- - [The Covid Virus Keeps Evolving. Why Haven&#39;t Vaccines?](https://www.wired.com/story/the-covid-virus-keeps-evolving-why-havent-vaccines/)<!-- TECH:END -->
+ - [Why the Arctic Is Warming 4 Times as Fast as the Rest of Earth](https://www.wired.com/story/why-the-arctic-is-warming-4-times-as-fast-as-the-rest-of-earth/)
+ - [Fully’s Workstation Is a Standing Desk in Disguise](https://www.wired.com/review/fully-nolan-standing-desk/)
+ - [Apple unveils prestigious new London store](https://appleinsider.com/articles/22/07/18/apple-unveils-prestigious-new-london-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
