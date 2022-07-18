@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #394: Monday, July 18](https://www.pcgamer.com/todays-wordle-july-18-394-answer-hint)
  - [Big hack, a modathon and getting the most out of the counter](https://game-rant-2022.blogspot.com/2022/07/big-hack-modathon-and-getting-most-out.html)
- - [Elden Ring Player makes Final Fantasy-style Black Mage in the game](https://game-rant-2022.blogspot.com/2022/07/elden-ring-player-makes-final-fantasy.html)
- - [Overwatch fan brings Wrecking Ball to life using his pet hamster](https://game-rant-2022.blogspot.com/2022/07/overwatch-fan-brings-wrecking-ball-to.html)<!-- GAME:END -->
+ - [Elden Ring Player makes Final Fantasy-style Black Mage in the game](https://game-rant-2022.blogspot.com/2022/07/elden-ring-player-makes-final-fantasy.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
