@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
- - [Give your old laptop a new lease of life with Chrome OS Flex](https://www.pcgamer.com/chrome-os-flex-old-laptop)
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
+ - [Metal Terror Shakes the World of The Riftbreaker](https://news.xbox.com/en-us/2022/07/18/metal-terror-shakes-the-world-of-the-riftbreaker/)
+ - [This is what happens if you literally put Wolverine and Deadpool in a blender](https://www.polygon.com/23220066/wolverine-deadpool-fight-mashup)
+ - [Star Wars: The Clone Wars writer is working on a new animated series with Xbox](https://www.polygon.com/23268616/grounded-animated-tv-show-adaptation-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
