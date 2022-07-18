@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deal: lifetime Microsoft Office for Mac Home &amp; Business 2021 back on sale for $39.99](https://appleinsider.com/articles/22/07/16/flash-deal-lifetime-microsoft-office-for-mac-home-business-2021-back-on-sale-for-3999?utm_medium=rss)
- - [Microsoft’s secret plastic Surface Duo leaks on eBay](https://www.theverge.com/2022/7/18/23268381/microsoft-surface-duo-plastic-cronos-rumors)
- - [Sources: several US chip makers are deliberating whether to oppose the Chips Act if its final language disproportionately benefits manufacturers like Intel &lpar;Stephen Nellis/Reuters&rpar;](http://www.techmeme.com/220718/p8#a220718p8)<!-- TECH:END -->
+ - [Stray improves adventure games by turning you into a cat](https://www.theverge.com/2022/7/18/23220428/stray-video-game-review-ps4-ps5-steam)
+ - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)
+ - [UK government decides not to ban game loot boxes after consultation](https://appleinsider.com/articles/22/07/18/uk-government-decides-not-to-ban-game-loot-boxes-after-consultation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
