@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I became a bee tycoon in this survival city builder, then lost my fortune to a perfect heist](https://www.pcgamer.com/i-became-a-bee-tycoon-in-this-survival-city-builder-then-lost-my-fortune-to-a-perfect-heist)
- - [This teeny Steam Deck rival is just the right size for a handheld gaming PC](https://www.pcgamer.com/this-teeny-steam-deck-rival-is-just-the-right-size-for-a-handheld-gaming-pc)
- - [Powerpuff Girls is getting rebooted again, but this time by the original creator](https://www.polygon.com/23268796/powerpuff-girls-reboot-mccracken-fosters-home-for-imaginary-friends)<!-- GAME:END -->
+ - [Lego Reveals Even Bigger Bowser](https://kotaku.com/lego-bowser-mario-big-set-figure-comic-con-size-luigi-1849191222)
+ - [PlayStation is acquiring Repeat](https://game-rant-2022.blogspot.com/2022/07/playstation-is-acquiring-repeat.html)
+ - [Why Chatot is banned in competitive Pokemon](https://game-rant-2022.blogspot.com/2022/07/why-chatot-is-banned-in-competitive.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
