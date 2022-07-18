@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese grocery delivery firm Missfresh, which had raised $1B+ in VC funding from Tiger, Goldman, others, falls in market cap on Nasdaq from $3B in 2021 to $88M &lpar;Financial Times&rpar;](http://www.techmeme.com/220717/p8#a220717p8)
- - [&#39;Stranger Things 4&#39; Directors Reveal Eddie Munson Alternative Ending     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-directors-reveal-eddie-munson-alternative-ending/#ftag=CAD590a51e)
- - [The Girl in the Picture: Where Is Franklin Delano Floyd? All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-where-is-franklin-delano-floyd-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ethereum Shows Signs of Life, Hits $1,400 After Merge News     - CNET](https://www.cnet.com/personal-finance/ethereum-shows-signs-of-life-hits-1400-after-merge-news/#ftag=CAD590a51e)
+ - [&#39;Black Bird&#39; on Apple TV Plus: The True Story of Jimmy Keene, Explained     - CNET](https://www.cnet.com/culture/entertainment/black-bird-on-apple-tv-plus-the-true-story-of-jimmy-keene-explained/#ftag=CAD590a51e)
+ - [&#39;Westworld&#39; Season 4, Episode 4 Recap: The Tower Emerges     - CNET](https://www.cnet.com/culture/entertainment/westworld-season-4-episode-4-recap-the-tower-emerges/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
