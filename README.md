@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming Soon to Xbox Game Pass: As Dusk Falls, Inside, Watch Dogs 2, and More](https://news.xbox.com/en-us/2022/07/18/game-pass-july-2022-wave-2-announce/)
- - [Symphony of War: The Nephilim Saga review](https://www.pcgamer.com/symphony-of-war-the-nephilim-saga-review)
- - [The price of ethereum rises by over 48% but miners are still selling their GPUs. Here&#39;s why](https://www.pcgamer.com/the-price-of-ethereum-rises-by-over-48-but-miners-are-still-selling-their-gpus-heres-why)<!-- GAME:END -->
+ - [Resident Evil’s showrunner has an eye on other video game characters](https://www.polygon.com/23220251/resident-evil-season-1-ending-netflix)
+ - [Genshin Impact Broken Isle Pyro pillar puzzle walkthrough](https://www.polygon.com/genshin-impact-guides/23267884/broken-isle-pyro-pillar-monument-hidden-imaging-conch-shell-location-walkthrough-puzzle)
+ - [Warframe’s creators are making a new fantasy MMO called Soulframe](https://www.polygon.com/23216753/warframe-fantasy-mmo-soulframe-digital-extremes-airship-syndicate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
