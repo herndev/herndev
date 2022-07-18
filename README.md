@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These mini control toy](http://9gag.com/gag/ay9KYDM)
- - ⏩ [This is Namibia, where the desert meets the ocean.](http://9gag.com/gag/aWgXDEA)
- - 👉 [Best clown ever](http://9gag.com/gag/aRrpoGq)<!-- MEMES:END -->
+ - 💣 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)
+ - ⏩ [Its flat, bro](http://9gag.com/gag/aVx62xP)
+ - 👉 [This is Namibia, where the desert meets the ocean.](http://9gag.com/gag/aWgXDEA)<!-- MEMES:END -->
 
 ---
 
