@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Downtown Brooklyn Store is &quot;temporarily closed&quot;](https://appleinsider.com/articles/22/07/18/apples-downtown-brooklyn-store-is-temporarily-closed?utm_medium=rss)
- - [How to uninstall McAfee from your computer](https://www.androidauthority.com/how-to-uninstall-mcafee-from-your-computer-3187175/)
- - [iPhone recovered from ocean after seven hours underwater](https://appleinsider.com/articles/22/07/18/paddleboarders-fully-working-iphone-recovered-from-ocean?utm_medium=rss)<!-- TECH:END -->
+ - [The Powerpuff Girls are being rebooted for the third time](https://www.theverge.com/2022/7/18/23268861/powerpuff-girls-reboot-fosters-home-for-imaginary-friends-hanna-barbera)
+ - [Russia fines Google $358M for not censoring topics including the war with Ukraine, after Google&#39;s Russian subsidiary filed for bankruptcy earlier this year &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220718/p14#a220718p14)
+ - [Verizon is rolling out faster 5G in more places, but you’ll have to guess where](https://www.theverge.com/2022/7/18/23268642/verizon-faster-5g-100-mhz-c-band-expansion-spectrum-speeds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
