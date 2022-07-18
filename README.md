@@ -118,7 +118,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [These mini control toy](http://9gag.com/gag/ay9KYDM)
- - ⏩ [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
+ - ⏩ [This is Namibia, where the desert meets the ocean.](http://9gag.com/gag/aWgXDEA)
  - 👉 [Best clown ever](http://9gag.com/gag/aRrpoGq)<!-- MEMES:END -->
 
 ---
