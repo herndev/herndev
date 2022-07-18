@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next gen Core i9 13900K tested against Core i9 12900K](https://www.pcgamer.com/next-gen-core-i9-13900k-tested-against-core-i9-12900k)
- - [Comedy sex game House Party adds playable woman, leaves Early Access](https://www.pcgamer.com/comedy-sex-game-house-party-adds-playable-woman-leaves-early-access)
- - [New Horizons player shows off amazing skeleton-themed island](https://game-rant-2022.blogspot.com/2022/07/new-horizons-player-shows-off-amazing.html)<!-- GAME:END -->
+ - [Elden Ring Player makes Final Fantasy-style Black Mage in the game](https://game-rant-2022.blogspot.com/2022/07/elden-ring-player-makes-final-fantasy.html)
+ - [Overwatch fan brings Wrecking Ball to life using his pet hamster](https://game-rant-2022.blogspot.com/2022/07/overwatch-fan-brings-wrecking-ball-to.html)
+ - [Class Action Filed Against Sony for PS5 Defect](https://game-rant-2022.blogspot.com/2022/07/class-action-filed-against-sony-for-ps5.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
