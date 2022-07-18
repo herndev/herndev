@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The James Webb Space Telescope&#39;s Next Targets Are Potentially Mind-Blowing     - CNET](https://www.cnet.com/science/space/features/the-james-webb-space-telescopes-next-targets-are-potentially-mind-blowing/#ftag=CAD590a51e)
- - [&#39;The Boys&#39; Season 3: Ending Explained, Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-ending-explained-lingering-questions-answered/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-sci-fi-movies-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese grocery delivery firm Missfresh, which had raised $1B+ in VC funding from Tiger, Goldman, others, falls in market cap on Nasdaq from $3B in 2021 to $88M &lpar;Financial Times&rpar;](http://www.techmeme.com/220717/p8#a220717p8)
+ - [&#39;Stranger Things 4&#39; Directors Reveal Eddie Munson Alternative Ending     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-4-directors-reveal-eddie-munson-alternative-ending/#ftag=CAD590a51e)
+ - [The Girl in the Picture: Where Is Franklin Delano Floyd? All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-where-is-franklin-delano-floyd-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
