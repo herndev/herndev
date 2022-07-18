@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The hot new co-op farming game is called Dinkum](https://www.pcgamer.com/the-hot-new-co-op-farming-game-is-called-dinkum)
- - [Monkey Island in-game footage shows off the remake&#39;s controversial new art direction](https://www.pcgamer.com/monkey-island-in-game-footage-shows-off-the-remakes-controversial-new-art-direction)
- - [Fall Guys Threatens Everyone With Free Dick Bean](https://kotaku.com/fall-guys-apology-refund-auto-buy-tall-bean-grandis-1849191721)<!-- GAME:END -->
+ - [Activision further embraces Steam with official publisher homepage](https://www.pcgamer.com/activision-further-embraces-steam-with-official-publisher-homepage)
+ - [Obsidian&#39;s backyard survival game Grounded is being made into a television series](https://www.pcgamer.com/obsidians-backyard-survival-game-grounded-is-being-made-into-a-television-series)
+ - [Intel Arc A-Series desktop GPUs to retail for less than $399, according to leak](https://www.pcgamer.com/intel-arc-a-series-desktop-gpus-to-retail-for-less-than-dollar399-according-to-leak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
