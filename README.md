@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stray improves adventure games by turning you into a cat](https://www.theverge.com/2022/7/18/23220428/stray-video-game-review-ps4-ps5-steam)
- - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $80 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)
- - [UK government decides not to ban game loot boxes after consultation](https://appleinsider.com/articles/22/07/18/uk-government-decides-not-to-ban-game-loot-boxes-after-consultation?utm_medium=rss)<!-- TECH:END -->
+ - [How to record a Skype call](https://www.androidauthority.com/record-skype-call-3187302/)
+ - [iPhone won’t turn off? Here’s what you need to do](https://www.androidauthority.com/iphone-wont-turn-off-3187494/)
+ - [Here’s one final look at the Cadillac Celestiq before its full reveal](https://www.theverge.com/2022/7/18/23268550/cadillac-celestiq-announcement-teaser-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
