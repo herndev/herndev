@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Horizons player shows off amazing skeleton-themed island](https://game-rant-2022.blogspot.com/2022/07/new-horizons-player-shows-off-amazing.html)
- - [Inflation means a new Intel PC will soon be more expensive](https://www.pcgamer.com/inflation-means-a-new-intel-pc-will-soon-be-more-expensive)
- - [Call of Duty Zombies Fan Creates Human Perk-a-Colas](https://game-rant-2022.blogspot.com/2022/07/call-of-duty-zombies-fan-creates-human.html)<!-- GAME:END -->
+ - [Next gen Core i9 13900K tested against Core i9 12900K](https://www.pcgamer.com/next-gen-core-i9-13900k-tested-against-core-i9-12900k)
+ - [Comedy sex game House Party adds playable woman, leaves Early Access](https://www.pcgamer.com/comedy-sex-game-house-party-adds-playable-woman-leaves-early-access)
+ - [New Horizons player shows off amazing skeleton-themed island](https://game-rant-2022.blogspot.com/2022/07/new-horizons-player-shows-off-amazing.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
