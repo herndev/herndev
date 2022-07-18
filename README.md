@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adam Neumann&#39;s Flowcarbon and some other startups offering cryptocurrencies backed by carbon-offset credits have slowed product rollouts amid the crypto crash &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220717/p7#a220717p7)
- - [The Best Documentaries on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-best-documentaries-2022/#ftag=CAD590a51e)
- - [&#39;Stranger Things&#39; Ending Explained: Full Recap, All The Easter Eggs     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-ending-explained-recap-easter-eggs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The James Webb Space Telescope&#39;s Next Targets Are Potentially Mind-Blowing     - CNET](https://www.cnet.com/science/space/features/the-james-webb-space-telescopes-next-targets-are-potentially-mind-blowing/#ftag=CAD590a51e)
+ - [&#39;The Boys&#39; Season 3: Ending Explained, Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-boys-season-3-ending-explained-lingering-questions-answered/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-best-sci-fi-movies-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
