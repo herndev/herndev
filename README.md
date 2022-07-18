@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray: The Kotaku Review](https://kotaku.com/stray-review-ps4-ps5-pc-cat-game-annapurna-bluetwelve-1849189599)
- - [Stray is the work of sly cat people, and it’s a triumph](https://www.polygon.com/reviews/23268326/stray-review-cat-game-ps4-ps5-windows-pc-cyberpunk)
- - [Genshin Impact codes: free Primogems and Mora for July](https://www.pcgamer.com/redeem-genshin-impact-codes)<!-- GAME:END -->
+ - [The best Genshin Impact characters](https://www.pcgamer.com/all-new-genshin-impact-characters-tier-list)
+ - [Give your old laptop a new lease of life with Chrome OS Flex](https://www.pcgamer.com/chrome-os-flex-old-laptop)
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
