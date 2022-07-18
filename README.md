@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
- - ⏩ [We are this close to get it.](http://9gag.com/gag/a71xNew)
- - 👉 [\u201clike for what?\u201d](http://9gag.com/gag/aM4LXB1)<!-- MEMES:END -->
+ - 💣 [Jeff Hardy finisher move](http://9gag.com/gag/angox3L)
+ - ⏩ [Ok Karen. Life sucks for me, but u don&#39;t hear me asking for the manger of the earth.](http://9gag.com/gag/aM4Lz7x)
+ - 👉 [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)<!-- MEMES:END -->
 
 ---
 
