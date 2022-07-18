@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is giving Prime Video its biggest redesign in years](https://www.theverge.com/2022/7/18/23268285/amazon-prime-video-2022-redesign-preview-announcement)
- - [Apple seeds second macOS Monterey 12.5 Release Candidate to developers](https://appleinsider.com/articles/22/07/18/apple-seeds-second-macos-monterey-125-release-candidate-to-developers?utm_medium=rss)
- - [Apple plans to slow hiring, spending in some teams in 2023](https://appleinsider.com/articles/22/07/18/apple-plans-to-slow-hiring-spending-in-some-teams-in-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s Downtown Brooklyn Store is &quot;temporarily closed&quot;](https://appleinsider.com/articles/22/07/18/apples-downtown-brooklyn-store-is-temporarily-closed?utm_medium=rss)
+ - [How to uninstall McAfee from your computer](https://www.androidauthority.com/how-to-uninstall-mcafee-from-your-computer-3187175/)
+ - [iPhone recovered from ocean after seven hours underwater](https://appleinsider.com/articles/22/07/18/paddleboarders-fully-working-iphone-recovered-from-ocean?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
