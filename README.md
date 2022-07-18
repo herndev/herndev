@@ -118,8 +118,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Inca whistle jar doing all kinds of animal sounds](http://9gag.com/gag/aAG9O3p)
- - ⏩ [Its flat, bro](http://9gag.com/gag/aVx62xP)
- - 👉 [This is Namibia, where the desert meets the ocean.](http://9gag.com/gag/aWgXDEA)<!-- MEMES:END -->
+ - ⏩ [We are this close to get it.](http://9gag.com/gag/a71xNew)
+ - 👉 [Seriously](http://9gag.com/gag/apgMAxn)<!-- MEMES:END -->
 
 ---
 
