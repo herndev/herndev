@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s alot of mosquitoes in Texas](http://9gag.com/gag/aAG9Mzg)
- - ⏩ [When you see your friends are about to start a civil war between each others..](http://9gag.com/gag/aqGEz3P)
+ - 💣 [These mini control toy](http://9gag.com/gag/ay9KYDM)
+ - ⏩ [Well, my 2000 years old Greek ancestry gave me `white privilege` since I&#39;m from Alexandria Egypt I guess.](http://9gag.com/gag/awzp4BR)
  - 👉 [Seriously](http://9gag.com/gag/apgMAxn)<!-- MEMES:END -->
 
 ---
