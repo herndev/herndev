@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crunchyroll drops prices in nearly 100 countries and territories, cutting the Mega Fan plan by 25% in the UK, nearly 50% in the UAE, and nearly 90% in India &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220719/p5#a220719p5)
- - [Amazon targets admins behind thousands of fake review Facebook groups](https://www.theverge.com/2022/7/19/23269656/amazon-fake-reviews-facebook-legal-action-sellers)
- - [A look at Netflix&#39;s franchise-building efforts, as it plans to build brands that traverse film, TV, games, and consumer products, to counter slowing growth &lpar;Reuters&rpar;](http://www.techmeme.com/220719/p4#a220719p4)<!-- TECH:END -->
+ - [Samsung confirms August 10th Unpacked event date with ‘cryptic’ puzzle](https://www.theverge.com/2022/7/19/23269698/samsung-galaxy-unpacked-august-10th-cryptic-puzzle-fold-flip-watch)
+ - [Vizio’s new TVs and soundbars focus on what the company does best: value](https://www.theverge.com/2022/7/19/23269247/vizio-2023-m-series-quantum-x-v-d-tvs-soundbars-announced)
+ - [Daily Authority: 📱 Smartphone slump](https://www.androidauthority.com/daily-authority-july-19-2022-3187440/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
