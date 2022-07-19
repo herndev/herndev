@@ -117,8 +117,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
- - ⏩ [Checking into rehab today to finally try to get sober. Thank you for all the laughs you provide for me &lt;3](http://9gag.com/gag/aOQWNNv)
+ - 💣 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
+ - ⏩ [Regret every single dime](http://9gag.com/gag/amgZd3V)
  - 👉 [Feels Bar is back, what is bothering you at home?](http://9gag.com/gag/a91GVdo)<!-- MEMES:END -->
 
 ---
