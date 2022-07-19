@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chill out with this new sfw Reddit rabbit hole, 3D printed fans](https://www.pcgamer.com/chill-out-with-this-new-sfw-reddit-rabbit-hole-3d-printed-fans)
  - [SATAn hack can steal data directly from your SATA cable](https://www.pcgamer.com/satan-hack-can-steal-data-directly-from-your-sata-cable)
- - [This Week’s Deals With Gold And Spotlight Sale Plus The Ultimate Game Sale](https://news.xbox.com/en-us/2022/07/18/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale/)
- - [Mod Turns Battlefield 3 Into A More Realistic Military Shooter](https://kotaku.com/battlefield-3-mod-reality-project-dice-pc-arma-squad-1849192760)<!-- GAME:END -->
+ - [This Week’s Deals With Gold And Spotlight Sale Plus The Ultimate Game Sale](https://news.xbox.com/en-us/2022/07/18/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
