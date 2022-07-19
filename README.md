@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s why you shouldn&#39;t mess with a bull](http://9gag.com/gag/a91GNB1)
- - ⏩ [A friend reminder, my fellow dudes, to check on your nuts](http://9gag.com/gag/aegBy3m)
- - 👉 [Consensus says.......](http://9gag.com/gag/aXrOd1V)<!-- MEMES:END -->
+ - 💣 [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
+ - ⏩ [Checking into rehab today to finally try to get sober. Thank you for all the laughs you provide for me &lt;3](http://9gag.com/gag/aOQWNNv)
+ - 👉 [Feels Bar is back, what is bothering you at home?](http://9gag.com/gag/a91GVdo)<!-- MEMES:END -->
 
 ---
 
