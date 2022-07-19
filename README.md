@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ByteDance says it is exploring designing chips for its own use in specialized areas because it hasn&#39;t been able to find suppliers that can meet its requirements &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220718/p23#a220718p23)
- - [The CISA announces its first international Attach&amp;eacute; Office, which it plans to open this month in London to support collaboration between CISA and UK officials &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/220718/p22#a220718p22)
- - [Crisis Core Final Fantasy 7 Remake: Release Date and Everything We Know     - CNET](https://www.cnet.com/tech/gaming/crisis-core-final-fantasy-7-remake-release-date-and-everything-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon starts rolling out a Prime Video redesign for Android and connected TV devices, with a Netflix-like look, a top 10 list, a vertical navigation, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220718/p24#a220718p24)
+ - [2024 Chevy Blazer EV Debuts With Up to 557 HP or 320 Miles of Range     - CNET](https://www.cnet.com/roadshow/news/2024-chevy-blazer-ev-ss-design-details-debut/#ftag=CAD590a51e)
+ - [The 2024 Chevy Blazer EV Is a Hot New Electric Crossover     - CNET](https://www.cnet.com/roadshow/pictures/2024-chevy-blazer-ev-ss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
