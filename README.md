@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon starts rolling out a Prime Video redesign for Android and connected TV devices, with a Netflix-like look, a top 10 list, a vertical navigation, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220718/p24#a220718p24)
- - [2024 Chevy Blazer EV Debuts With Up to 557 HP or 320 Miles of Range     - CNET](https://www.cnet.com/roadshow/news/2024-chevy-blazer-ev-ss-design-details-debut/#ftag=CAD590a51e)
- - [The 2024 Chevy Blazer EV Is a Hot New Electric Crossover     - CNET](https://www.cnet.com/roadshow/pictures/2024-chevy-blazer-ev-ss/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to share your screen on Skype](https://www.androidauthority.com/share-screen-skype-3187284/)
+ - [Albania shuts down access to online public services and government websites due to a cyberattack, just a few months after launching an online services portal &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220718/p25#a220718p25)
+ - [Amazon starts rolling out a Prime Video redesign for Android and connected TV devices, with a Netflix-like look, a top 10 list, a vertical navigation, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220718/p24#a220718p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
