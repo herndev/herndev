@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vandana Shiva! We need to listen! She\u2019s been saying these things for many years! Wake up!](http://9gag.com/gag/a0Z3z7X)
- - ⏩ [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
- - 👉 [Feels Bar is back, what is bothering you at home?](http://9gag.com/gag/a91GVdo)<!-- MEMES:END -->
+ - 💣 [In case you need a song to soothe your nerves: Fade Into You - Mazzy Star &lpar;Live 1994&rpar;](http://9gag.com/gag/adgz4e2)
+ - ⏩ [Regret every single dime](http://9gag.com/gag/amgZd3V)
+ - 👉 [It&#39;s just fanfiction then. No surprise here.](http://9gag.com/gag/a31Oey5)<!-- MEMES:END -->
 
 ---
 
