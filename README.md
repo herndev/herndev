@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York-based Meow, which offers corporate investors a compliant-first approach to cryptocurrency investing, raised a $22M Series A led by Tiger Global &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/220718/p18#a220718p18)
- - [TikTok Starts Layoffs in Company-Wide Restructuring](https://www.wired.com/story/tiktok-layoffs-company-wide-restructuring/)
- - [Sources: SoftBank halts plans for a London IPO for Arm amid political turmoil; Boris Johnson had lobbied Masayoshi Son for at least a partial IPO on the LSE &lpar;Financial Times&rpar;](http://www.techmeme.com/220718/p17#a220718p17)<!-- TECH:END -->
+ - [Slack to update its subscriptions on Sept. 1, with free plans getting access to the last 90 days of messages and Pro plans to cost a max $8.74/user per month &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220718/p20#a220718p20)
+ - [Desus and Mero are over](https://www.theverge.com/2022/7/18/23269319/desus-and-mero-split-showtime-bodega-boys)
+ - [&#39;Black Hole Destroyers&#39; Just Found a Strange Black Hole Lurking in Deep Space     - CNET](https://www.cnet.com/science/space/black-hole-destroyers-just-found-a-strange-black-hole-lurking-in-deep-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
