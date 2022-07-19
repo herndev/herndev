@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shows like Resident Evil on Netflix: 7 shows to watch next](https://www.androidauthority.com/shows-like-resident-evil-netflix-3187608/)
- - [Google plans to test AR prototypes in public starting next month](https://www.theverge.com/2022/7/19/23270219/google-ar-prototypes-test-public)
- - [Best Places to Shop for Back-to-School Supplies     - CNET](https://www.cnet.com/health/parenting/best-places-to-shop-for-back-to-school-supplies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo to staff: healthcare administration automation startup Olive AI, valued at $4B in July 2021, is laying off 450 employees, or about 31% of the company &lpar;Erin Brodwin/Axios&rpar;](http://www.techmeme.com/220719/p21#a220719p21)
+ - [Apple will settle butterfly keyboard lawsuit for $50 million](https://www.theverge.com/2022/7/19/23270157/apple-butterfly-keyboard-settlement-class-action-lawsuit)
+ - [A company called Meta is suing Meta for naming itself Meta](https://www.theverge.com/2022/7/19/23270164/meta-augmented-reality-facebook-lawsuit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
