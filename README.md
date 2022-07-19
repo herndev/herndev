@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ms. Marvel Ended Up Being the Best Thing on Disney+ This Year](https://www.wired.com/story/ms-marvel-best-disney-plus-show/)
- - [Meet the UK’s New Woodland Rangers: a Herd of Wild Bison](https://www.wired.com/story/uk-woodland-rangers-wild-bison/)
- - [Slack is increasing its prices and making big changes to its free plan](https://www.theverge.com/2022/7/19/23269717/slack-price-changes-increase-september-free-plan-changes)<!-- TECH:END -->
+ - [How China Threatens to Splinter the Metaverse](https://www.wired.com/story/china-threatens-splinter-metaverse/)
+ - [Gender-Affirming Care Improves Mental Health—and May Save Lives](https://www.wired.com/story/gender-affirming-care-improves-mental-health-and-may-save-lives/)
+ - [Tomorrow, and Tomorrow, and Tomorrow Shows Games Are a Shared Art](https://www.wired.com/story/tomorrow-and-tomorrow-and-tomorrow-essay/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
