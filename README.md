@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she ok?](http://9gag.com/gag/aM4L7AV)
- - ⏩ [I learned this much in school](http://9gag.com/gag/aE84bmo)
- - 👉 [Stand for Strays Thailand, has launched foldable Shelters made of recycled billboards for stray dogs.](http://9gag.com/gag/aggebQ6)<!-- MEMES:END -->
+ - 💣 [I learned this much in school](http://9gag.com/gag/aE84bmo)
+ - ⏩ [Well? We are still waiting](http://9gag.com/gag/a91GeGj)
+ - 👉 [Oh no\u2026](http://9gag.com/gag/aRrpGvj)<!-- MEMES:END -->
 
 ---
 
