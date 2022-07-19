@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Cybersecurity startups raised $3.37B in Q2 2022, down nearly 40% QoQ from $5.93B and $5.43B YoY, exceeding the drop in overall global VC funding &lpar;Cynthia Brumfield/Metacurity&rpar;](http://www.techmeme.com/220719/p1#a220719p1)
  - [How to share your screen on Skype](https://www.androidauthority.com/share-screen-skype-3187284/)
- - [Albania shuts down access to online public services and government websites due to a cyberattack, just a few months after launching an online services portal &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220718/p25#a220718p25)
- - [Amazon starts rolling out a Prime Video redesign for Android and connected TV devices, with a Netflix-like look, a top 10 list, a vertical navigation, and more &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220718/p24#a220718p24)<!-- TECH:END -->
+ - [Albania shuts down access to online public services and government websites due to a cyberattack, just a few months after launching an online services portal &lpar;Jonathan Greig/The Record&rpar;](http://www.techmeme.com/220718/p25#a220718p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
