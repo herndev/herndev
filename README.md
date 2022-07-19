@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google will let non-gaming Android apps provide alternative payments for IAP, with a 3% reduction in Google&#39;s Play Store cut, in the European Economic Area &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220719/p14#a220719p14)
- - [Nothing Phone 1 review: something else](https://www.theverge.com/23219421/nothing-phone-1-review-glyph-notifications-specs-screen-battery-camera-price)
- - [The best Thunderbolt 4 docks and hubs you can buy for your Mac](https://appleinsider.com/articles/22/03/17/the-best-thunderbolt-4-docks-and-hubs-you-can-buy-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [European Council approves Digital Markets Act rules](https://appleinsider.com/articles/22/07/19/european-council-approves-digital-markets-act-rules?utm_medium=rss)
+ - [Microsoft Teams will soon let you collaboratively edit Excel spreadsheets in meetings](https://www.theverge.com/2022/7/19/23268162/microsoft-teams-excel-live-collaborative-annotations-video-clip-features)
+ - [Microsoft is launching a Facebook rip-off inside Teams](https://www.theverge.com/2022/7/19/23268187/microsoft-viva-engage-facebook-work-yammer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
