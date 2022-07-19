@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Cells promises 2023 will be &#39;by far our biggest year&#39; since launch](https://www.pcgamer.com/dead-cells-promises-2023-will-be-by-far-our-biggest-year-since-launch)
- - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)
- - [Netflix’s Tekken anime hits all the right notes, and it’s coming soon](https://www.polygon.com/23269732/tekken-bloodline-netflix-anime-release-date-trailer)<!-- GAME:END -->
+ - [These Raspberry Pi backpacks are what my childhood spy dreams were made of](https://www.pcgamer.com/these-raspberry-pi-backpacks-are-what-my-childhood-spy-dreams-were-made-of)
+ - [2021’s best game is finally coming to PlayStation in August](https://www.polygon.com/23269825/inscryption-playstation-release-august)
+ - [Tiny Tina’s Wonderlands Player Finds A Rare ‘One In 85 Billion’ Item](https://kotaku.com/tina-tinas-wonderlands-rarest-item-ascended-amalgam-1849194106)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
