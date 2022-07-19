@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Slack to update its subscriptions on Sept. 1, with free plans getting access to the last 90 days of messages and Pro plans to cost a max $8.74/user per month &lpar;Greg Kumparak/TechCrunch&rpar;](http://www.techmeme.com/220718/p20#a220718p20)
- - [Desus and Mero are over](https://www.theverge.com/2022/7/18/23269319/desus-and-mero-split-showtime-bodega-boys)
- - [&#39;Black Hole Destroyers&#39; Just Found a Strange Black Hole Lurking in Deep Space     - CNET](https://www.cnet.com/science/space/black-hole-destroyers-just-found-a-strange-black-hole-lurking-in-deep-space/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US must grant more green cards to retain tech leaders; Turkish MIT and Caltech grad Erdal Arikan, whose work led to Huawei&#39;s early 5G lead, had to leave US &lpar;Foreign Policy&rpar;](http://www.techmeme.com/220718/p21#a220718p21)
+ - [Apple’s getting sued for having a monopoly on the iPhone’s tap-to-pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu)
+ - [How to clone a hard drive on a Mac or Windows PC](https://www.androidauthority.com/clone-hard-drive-mac-windows-pc-3186050/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
