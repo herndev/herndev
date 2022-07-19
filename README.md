@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess i made the right decision](http://9gag.com/gag/aDDvrK9)
- - ⏩ [Win](http://9gag.com/gag/a116neG)
- - 👉 [Greedy bastards](http://9gag.com/gag/a81g9G6)<!-- MEMES:END -->
+ - 💣 [Temperatures for the next couple of days](http://9gag.com/gag/aQXjDG7)
+ - ⏩ [Oh no\u2026](http://9gag.com/gag/aRrpGvj)
+ - 👉 [Win](http://9gag.com/gag/a116neG)<!-- MEMES:END -->
 
 ---
 
