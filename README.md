@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good guy Amish](http://9gag.com/gag/aQXjby7)
- - ⏩ [Greedy bastards](http://9gag.com/gag/a81g9G6)
- - 👉 [Well? We are still waiting](http://9gag.com/gag/a91GeGj)<!-- MEMES:END -->
+ - 💣 [It&#39;s uncanny](http://9gag.com/gag/aegBweQ)
+ - ⏩ [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)
+ - 👉 [Glad he told her](http://9gag.com/gag/aBnezrO)<!-- MEMES:END -->
 
 ---
 
