@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gatekeeping at its finest](http://9gag.com/gag/aDDvqyx)
+ - 💣 [Fizecs\u2026](http://9gag.com/gag/aAG97Eg)
  - ⏩ [Game of Trains](http://9gag.com/gag/amgZOV6)
- - 👉 [Stand for Strays Thailand, has launched foldable Shelters made of recycled billboards for stray dogs.](http://9gag.com/gag/aggebQ6)<!-- MEMES:END -->
+ - 👉 [Don\u2019t get offended for others](http://9gag.com/gag/aDDvLww)<!-- MEMES:END -->
 
 ---
 
