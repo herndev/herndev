@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus beta launches, here’s how to get in](https://www.polygon.com/23270262/multiversus-beta-how-to-get-in)
- - [Crunchyroll&#39;s 10 Most Slept-On Anime You Ought To Watch](https://kotaku.com/crunchyroll-funimation-what-to-watch-golden-kamuy-1849196004)
- - [Sony’s PlayStation Network is having problems](https://www.polygon.com/2022/7/19/23270308/sony-playstation-network-store-down-psn-ps-plus)<!-- GAME:END -->
+ - [Ranking All The Grand Theft Auto Games, From Worst To Best](https://kotaku.com/ranking-the-grand-theft-auto-games-from-worst-to-best-1791387873)
+ - [Co-op Skyrim is finally real and works almost exactly how I hoped](https://www.pcgamer.com/co-op-skyrim-is-finally-real-and-works-almost-exactly-how-i-hoped)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
