@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking All The Grand Theft Auto Games, From Worst To Best](https://kotaku.com/ranking-the-grand-theft-auto-games-from-worst-to-best-1791387873)
- - [Co-op Skyrim is finally real and works almost exactly how I hoped](https://www.pcgamer.com/co-op-skyrim-is-finally-real-and-works-almost-exactly-how-i-hoped)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
+ - [The 8 most ambitious Skyrim mods in development in 2022](https://www.pcgamer.com/the-8-most-ambitious-skyrim-mods-in-development-right-now)
+ - [How to &quot;Seize Destiny&quot; in Mona&#39;s new Genshin Impact quest](https://www.pcgamer.com/genshin-impact-seize-destiny)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
