@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision further embraces Steam with official publisher homepage](https://www.pcgamer.com/activision-further-embraces-steam-with-official-publisher-homepage)
- - [Obsidian&#39;s backyard survival game Grounded is being made into a television series](https://www.pcgamer.com/obsidians-backyard-survival-game-grounded-is-being-made-into-a-television-series)
- - [Intel Arc A-Series desktop GPUs to retail for less than $399, according to leak](https://www.pcgamer.com/intel-arc-a-series-desktop-gpus-to-retail-for-less-than-dollar399-according-to-leak)<!-- GAME:END -->
+ - [Ghostbusters ROM Hack Finally Adds Winston Zeddemore To Classic Sega Genesis Game](https://kotaku.com/ghostbusters-sega-genesis-mega-drive-rom-hack-zeddemore-1849192638)
+ - [$20,000 Bounty Offered For Finishing Halo 2 &lpar;With Skulls&rpar; Without Dying](https://kotaku.com/halo-2-deathless-laso-run-cr1tikal-stream-skulls-1849192613)
+ - [Activision further embraces Steam with official publisher homepage](https://www.pcgamer.com/activision-further-embraces-steam-with-official-publisher-homepage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
