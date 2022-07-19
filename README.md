@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Especially the smelly cat part...](http://9gag.com/gag/awzpPE4)
- - ⏩ [Yes you. The one viewing this meme](http://9gag.com/gag/aYr0ZMq)
- - 👉 [Cooking for the one](http://9gag.com/gag/aOQWnNE)<!-- MEMES:END -->
+ - 💣 [Gatekeeping at its finest](http://9gag.com/gag/aDDvqyx)
+ - ⏩ [Cooking for the one](http://9gag.com/gag/aOQWnNE)
+ - 👉 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)<!-- MEMES:END -->
 
 ---
 
