@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I learned this much in school](http://9gag.com/gag/aE84bmo)
+ - 💣 [Oh no\u2026](http://9gag.com/gag/aRrpGvj)
  - ⏩ [Well? We are still waiting](http://9gag.com/gag/a91GeGj)
- - 👉 [Oh no\u2026](http://9gag.com/gag/aRrpGvj)<!-- MEMES:END -->
+ - 👉 [Greedy bastards](http://9gag.com/gag/a81g9G6)<!-- MEMES:END -->
 
 ---
 
