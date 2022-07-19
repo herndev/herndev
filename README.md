@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US must grant more green cards to retain tech leaders; Turkish MIT and Caltech grad Erdal Arikan, whose work led to Huawei&#39;s early 5G lead, had to leave US &lpar;Foreign Policy&rpar;](http://www.techmeme.com/220718/p21#a220718p21)
- - [Apple’s getting sued for having a monopoly on the iPhone’s tap-to-pay](https://www.theverge.com/2022/7/18/23269369/apple-pay-class-action-lawsuit-antitrust-tap-to-pay-eu)
- - [How to clone a hard drive on a Mac or Windows PC](https://www.androidauthority.com/clone-hard-drive-mac-windows-pc-3186050/)<!-- TECH:END -->
+ - [ByteDance says it is exploring designing chips for its own use in specialized areas because it hasn&#39;t been able to find suppliers that can meet its requirements &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220718/p23#a220718p23)
+ - [The CISA announces its first international Attach&amp;eacute; Office, which it plans to open this month in London to support collaboration between CISA and UK officials &lpar;Martin Matishak/The Record&rpar;](http://www.techmeme.com/220718/p22#a220718p22)
+ - [Crisis Core Final Fantasy 7 Remake: Release Date and Everything We Know     - CNET](https://www.cnet.com/tech/gaming/crisis-core-final-fantasy-7-remake-release-date-and-everything-we-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
