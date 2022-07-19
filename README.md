@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This D&amp;D inspired game&#39;s AI image generator is now free for all](https://www.pcgamer.com/ai-dungeon-image-generator)
  - [Today&#39;s Wordle answer #395: Tuesday, July 19](https://www.pcgamer.com/todays-wordle-july-19-395-answer-hint)
- - [Chill out with this new sfw Reddit rabbit hole, 3D printed fans](https://www.pcgamer.com/chill-out-with-this-new-sfw-reddit-rabbit-hole-3d-printed-fans)
- - [SATAn hack can steal data directly from your SATA cable](https://www.pcgamer.com/satan-hack-can-steal-data-directly-from-your-sata-cable)<!-- GAME:END -->
+ - [Chill out with this new sfw Reddit rabbit hole: 3D printed fans](https://www.pcgamer.com/chill-out-with-this-new-sfw-reddit-rabbit-hole-3d-printed-fans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
