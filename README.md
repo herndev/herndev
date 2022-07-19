@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm&#39;s New Smartwatch Chips Promise Big Battery Life Gains](https://www.wired.com/story/qualcomm-snapdragon-w5-plus-gen-1-smartwatch-chips/)
- - [Qualcomm launches Snapdragon Wear 5 Plus to give Wear OS 3 watches a boost](https://www.theverge.com/2022/7/19/23268272/qualcomm-snapdragon-w5-wearables-processor)
- - [ESR launches CryoBoost line of MagSafe-compatible accessories](https://appleinsider.com/articles/22/07/19/esr-launches-cryoboost-line-of-magsafe-compatible-accessories?utm_medium=rss)<!-- TECH:END -->
+ - [Adobe offering new customers 25% off first year of Creative Cloud All Apps plan](https://appleinsider.com/articles/22/07/19/adobe-offering-new-customers-25-off-first-year-of-creative-cloud-all-apps-plan?utm_medium=rss)
+ - [UK heatwave breaks records as Brits roast in 40 C temperatures](https://www.theverge.com/2022/7/19/23270042/uk-heat-wave-record-40-celsius-temperature-europe-us)
+ - [Apple agrees to $50M settlement in MacBook butterfly keyboard lawsuit](https://appleinsider.com/articles/22/07/19/apple-agrees-to-50m-settlement-in-macbook-butterfly-keyboard-lawsuit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
