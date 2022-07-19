@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mod Turns Battlefield 3 Into A More Realistic Military Shooter](https://kotaku.com/battlefield-3-mod-reality-project-dice-pc-arma-squad-1849192760)
  - [Ghostbusters ROM Hack Finally Adds Winston Zeddemore To Classic Sega Genesis Game](https://kotaku.com/ghostbusters-sega-genesis-mega-drive-rom-hack-zeddemore-1849192638)
- - [$20,000 Bounty Offered For Finishing Halo 2 &lpar;With Skulls&rpar; Without Dying](https://kotaku.com/halo-2-deathless-laso-run-cr1tikal-stream-skulls-1849192613)
- - [Activision further embraces Steam with official publisher homepage](https://www.pcgamer.com/activision-further-embraces-steam-with-official-publisher-homepage)<!-- GAME:END -->
+ - [$20,000 Bounty Offered For Finishing Halo 2 &lpar;With Skulls&rpar; Without Dying](https://kotaku.com/halo-2-deathless-laso-run-cr1tikal-stream-skulls-1849192613)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
