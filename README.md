@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which flagship phone are you looking forward to next?](https://www.androidauthority.com/flagship-phone-poll-3187903/)
- - [Several historic sites in Nepal, where TikTok creators have reportedly trampled crops and even caused traffic jams while filming, have erected &quot;No TikTok&quot; signs &lpar;Abhaya Raj Joshi/Rest of World&rpar;](http://www.techmeme.com/220719/p3#a220719p3)
- - [A canceled mid-range Surface Duo briefly appeared on eBay](https://www.androidauthority.com/mid-range-surface-duo-ebay-3186438/)<!-- TECH:END -->
+ - [Crunchyroll drops prices in nearly 100 countries and territories, cutting the Mega Fan plan by 25% in the UK, nearly 50% in the UAE, and nearly 90% in India &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/220719/p5#a220719p5)
+ - [Amazon targets admins behind thousands of fake review Facebook groups](https://www.theverge.com/2022/7/19/23269656/amazon-fake-reviews-facebook-legal-action-sellers)
+ - [A look at Netflix&#39;s franchise-building efforts, as it plans to build brands that traverse film, TV, games, and consumer products, to counter slowing growth &lpar;Reuters&rpar;](http://www.techmeme.com/220719/p4#a220719p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
