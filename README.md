@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cryptocurrency apps stealing millions of dollars have finally caught the FBI&#39;s eye](https://www.pcgamer.com/cryptocurrency-apps-stealing-millions-of-dollars-have-finally-caught-the-fbis-eye)
- - [Latest Windows 11 security patch is causing problems, again](https://www.pcgamer.com/windows-11-security-patch-problems)
- - [Elden Ring modder recreates the god-murdering ambush that sets up the game](https://www.pcgamer.com/elden-ring-modder-recreates-the-god-murdering-ambush-that-sets-up-the-game)<!-- GAME:END -->
+ - [Dead Cells promises 2023 will be &#39;by far our biggest year&#39; since launch](https://www.pcgamer.com/dead-cells-promises-2023-will-be-by-far-our-biggest-year-since-launch)
+ - [The 19 best games in PlayStation Plus’ Game Catalog](https://www.polygon.com/what-to-play/23165954/best-playstation-plus-game-catalog-games-extra-premium)
+ - [Netflix’s Tekken anime hits all the right notes, and it’s coming soon](https://www.polygon.com/23269732/tekken-bloodline-netflix-anime-release-date-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
