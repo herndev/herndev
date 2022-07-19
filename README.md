@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How China Threatens to Splinter the Metaverse](https://www.wired.com/story/china-threatens-splinter-metaverse/)
- - [Gender-Affirming Care Improves Mental Health—and May Save Lives](https://www.wired.com/story/gender-affirming-care-improves-mental-health-and-may-save-lives/)
- - [Tomorrow, and Tomorrow, and Tomorrow Shows Games Are a Shared Art](https://www.wired.com/story/tomorrow-and-tomorrow-and-tomorrow-essay/)<!-- TECH:END -->
+ - [YouTube rolls out new shopping features, including a partnership with Shopify to let eligible US creators link their Shopify store and YouTube channel &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220719/p12#a220719p12)
+ - [A Father’s Quest for an Accessible Game Controller](https://www.wired.com/story/andreas-karlsson-accessible-controller-8bitdo/)
+ - [How to Promote Your Music Online](https://www.wired.com/story/how-to-promote-music-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
