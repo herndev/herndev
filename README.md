@@ -103,9 +103,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mod Turns Battlefield 3 Into A More Realistic Military Shooter](https://kotaku.com/battlefield-3-mod-reality-project-dice-pc-arma-squad-1849192760)
- - [Ghostbusters ROM Hack Finally Adds Winston Zeddemore To Classic Sega Genesis Game](https://kotaku.com/ghostbusters-sega-genesis-mega-drive-rom-hack-zeddemore-1849192638)
- - [$20,000 Bounty Offered For Finishing Halo 2 &lpar;With Skulls&rpar; Without Dying](https://kotaku.com/halo-2-deathless-laso-run-cr1tikal-stream-skulls-1849192613)<!-- GAME:END -->
+ - [SATAn hack can steal data directly from your SATA cable](https://www.pcgamer.com/satan-hack-can-steal-data-directly-from-your-sata-cable)
+ - [This Week’s Deals With Gold And Spotlight Sale Plus The Ultimate Game Sale](https://news.xbox.com/en-us/2022/07/18/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale/)
+ - [Mod Turns Battlefield 3 Into A More Realistic Military Shooter](https://kotaku.com/battlefield-3-mod-reality-project-dice-pc-arma-squad-1849192760)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
