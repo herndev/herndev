@@ -110,9 +110,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon files a lawsuit against the admins of 10K+ Facebook groups that offer cash or goods to people willing to post bogus product reviews on Amazon &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220719/p2#a220719p2)
- - [Cybersecurity startups raised $3.37B in Q2 2022, down nearly 40% QoQ from $5.93B and $5.43B YoY, exceeding the drop in overall global VC funding &lpar;Cynthia Brumfield/Metacurity&rpar;](http://www.techmeme.com/220719/p1#a220719p1)
- - [How to share your screen on Skype](https://www.androidauthority.com/share-screen-skype-3187284/)<!-- TECH:END -->
+ - [Several historic sites in Nepal, where TikTok creators have reportedly trampled crops and even caused traffic jams while filming, have erected &quot;No TikTok&quot; signs &lpar;Abhaya Raj Joshi/Rest of World&rpar;](http://www.techmeme.com/220719/p3#a220719p3)
+ - [A canceled mid-range Surface Duo briefly appeared on eBay](https://www.androidauthority.com/mid-range-surface-duo-ebay-3186438/)
+ - [Netflix updates us on its paid password sharing plans](https://www.androidauthority.com/netflix-paid-password-sharing-add-a-home-3187877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
