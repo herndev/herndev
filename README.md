@@ -39,9 +39,8 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width=48% />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
+
   
 <!--   https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true -->
 
