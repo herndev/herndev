@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s uncanny](http://9gag.com/gag/aegBweQ)
- - ⏩ [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)
- - 👉 [Glad he told her](http://9gag.com/gag/aBnezrO)<!-- MEMES:END -->
+ - 💣 [Is she ok?](http://9gag.com/gag/aM4L7AV)
+ - ⏩ [F is for...](http://9gag.com/gag/aE8457p)
+ - 👉 [When refrigerators where build to out live you](http://9gag.com/gag/a31OgMN)<!-- MEMES:END -->
 
 ---
 
