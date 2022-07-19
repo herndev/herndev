@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These Raspberry Pi backpacks are what my childhood spy dreams were made of](https://www.pcgamer.com/these-raspberry-pi-backpacks-are-what-my-childhood-spy-dreams-were-made-of)
- - [2021’s best game is finally coming to PlayStation in August](https://www.polygon.com/23269825/inscryption-playstation-release-august)
- - [Tiny Tina’s Wonderlands Player Finds A Rare ‘One In 85 Billion’ Item](https://kotaku.com/tina-tinas-wonderlands-rarest-item-ascended-amalgam-1849194106)<!-- GAME:END -->
+ - [No More Heroes 3 comes to every other platform in October](https://www.polygon.com/23269902/no-more-heroes-3-xbox-ps4-ps5-pc-port-release-date)
+ - [We got a scam artist to critique Card Shark, here&#39;s what he thought](https://www.pcgamer.com/we-got-a-scam-artist-to-critique-card-shark-heres-what-he-thought)
+ - [Microsoft changes its mind about open source monetization](https://www.pcgamer.com/microsoft-store-u-turn-open-source)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
