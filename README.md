@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Go monkey go!](http://9gag.com/gag/a0Z3g0L)
- - ⏩ [F is for...](http://9gag.com/gag/aE8457p)
- - 👉 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
+ - 💣 [F is for...](http://9gag.com/gag/aE8457p)
+ - ⏩ [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)
+ - 👉 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)<!-- MEMES:END -->
 
 ---
 
