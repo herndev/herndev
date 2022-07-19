@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hot Wheels’ ‘most extreme’ crossover with Forza is here](https://www.polygon.com/23269979/forza-hot-wheels-xbox-pc-dlc-horizon-5)
- - [As Dusk Falls is Available Now](https://news.xbox.com/en-us/2022/07/19/as-dusk-falls-available-now-game-pass-pc-steam/)
- - [Doom creator John Romero is making a new FPS](https://www.polygon.com/23269955/doom-creator-john-romero-new-fps-game)<!-- GAME:END -->
+ - [Forza Horizon 5: Hot Wheels is Now Available](https://news.xbox.com/en-us/2022/07/19/forza-horizon-5-hot-wheels-is-now-available/)
+ - [First glimpses of Yakuza 8 appear on monitors in Sega office video](https://www.pcgamer.com/first-glimpses-of-yakuza-8-appear-on-monitors-in-sega-office-video)
+ - [Activision&#39;s Former Tony Hawk Studio Is Unionizing](https://kotaku.com/tony-hawk-diablo-ii-vicarious-visions-blizzard-union-1849195326)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
