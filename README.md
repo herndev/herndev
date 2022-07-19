@@ -117,9 +117,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)
- - ⏩ [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)
- - 👉 [Checking into rehab today to finally try to get sober. Thank you for all the laughs you provide for me &lt;3](http://9gag.com/gag/aOQWNNv)<!-- MEMES:END -->
+ - 💣 [Mexican anime convention. &lpar;Digimon opening&rpar;](http://9gag.com/gag/avAjDEW)
+ - ⏩ [Highscore](http://9gag.com/gag/a31Ox58)
+ - 👉 [I&#39;m being warned about &gt;35* heat in the next days. I&#39;m Scandinavian. How do i write a last will?](http://9gag.com/gag/aNPb2w3)<!-- MEMES:END -->
 
 ---
 
