@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Spider-Man movies are coming to Netflix](https://www.theverge.com/2022/7/19/23270605/netflix-spider-man-sam-raimi-trilogy-movies)
- - [Google Cloud and Oracle servers suffer cooling breakdowns during UK heatwave](https://www.theverge.com/2022/7/19/23270581/google-cloud-oracle-servers-outage-uk-cooling-failure)
- - [Roku Streaming Stick 4K vs. Roku Express 4K Plus: Is One Better Than the Other?     - CNET](https://www.cnet.com/tech/home-entertainment/roku-streaming-stick-4k-vs-roku-express-4k-plus-is-one-better-than-the-other/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix’s ad-supported tier won’t have everything at launch](https://www.theverge.com/2022/7/19/23270693/netflix-adds-ads-subtracts-content-streaming-tier)
+ - [US lawmakers release internal documents from Amazon, Meta, and Google that they say show evidence of self-preferencing, as they call for tougher antitrust laws &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220719/p29#a220719p29)
+ - [Netflix subscriber count in the US and Canada dropped by 1.3 million over the last three months](https://www.theverge.com/2022/7/19/23268626/netflix-q2-2022-earnings-subscribers-ads-stranger-things)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
