@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gatekeeping at its finest](http://9gag.com/gag/aDDvqyx)
- - ⏩ [Cooking for the one](http://9gag.com/gag/aOQWnNE)
- - 👉 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)<!-- MEMES:END -->
+ - 💣 [Animator: How much we need to spend the budget for this scene? Ufotable: Yes](http://9gag.com/gag/aog7Av0)
+ - ⏩ [And the media said Don\u2019t Look Up wasn\u2019t realistic\u2026](http://9gag.com/gag/awzpPZW)
+ - 👉 [This is a good spost, I promise...](http://9gag.com/gag/aog7GLn)<!-- MEMES:END -->
 
 ---
 
