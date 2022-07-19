@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit’s adding one of the Apple Watch’s most useful features to the Charge 5](https://www.theverge.com/2022/7/19/23270352/fitbit-charge-5-find-phone-feature-update)
- - [Internal documents show Facebook and Google discussing platform strategies](https://www.theverge.com/2022/7/19/23270400/facebook-google-amazon-apple-antitrust-house-judiciary-investigation-report)
- - [Instagram Slow to Tackle Bots Targeting Iranian Women’s Groups](https://www.wired.com/story/iran-women-groups-instagram-bot-battle/)<!-- TECH:END -->
+ - [Blockchain security company Halborn, which works with Coinbase, Ava Labs, and others, raises a $90M Series A led by Summit Partners &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/220719/p25#a220719p25)
+ - [Netflix is acquiring the animation studio behind The Lego Movie](https://www.theverge.com/2022/7/19/23270507/netflix-acquiring-animation-studio-animal-logic)
+ - [M2 MacBook Air teardown reveals accelerometer, simple cooling system](https://appleinsider.com/articles/22/07/19/m2-macbook-air-teardown-reveals-accelerometer-simple-cooling-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
