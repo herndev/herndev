@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Recently divorced..she took everything, starting over again.Wish me luck guys](http://9gag.com/gag/a51Y8WN)
- - ⏩ [No talk me im playin stray](http://9gag.com/gag/aqGEqqv)
- - 👉 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)<!-- MEMES:END -->
+ - ⏩ [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)
+ - 👉 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)<!-- MEMES:END -->
 
 ---
 
