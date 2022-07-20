@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Wallet rolls out to all users, available as a separate app for those in the US and Singapore and as a simple Google Pay update for others &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220720/p20#a220720p20)
- - [John Fetterman and Dr. Oz trade memes in Twitter fight](https://www.theverge.com/2022/7/20/23271840/john-fetterman-dr-mehmet-oz-twitter-meme-bernie-sanders-aoc)
- - [Mojang Studios will not support or allow NFTs, as they &quot;create models of scarcity and exclusion that conflict with our Guidelines and the spirit of Minecraft&quot; &lpar;Minecraft&rpar;](http://www.techmeme.com/220720/p19#a220720p19)<!-- TECH:END -->
+ - [Tesla sold 75 percent of its Bitcoin](https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk)
+ - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)
+ - [Google pauses hiring for two weeks to ‘review our headcount needs’](https://www.theverge.com/2022/7/20/23271634/google-hiring-pause-two-weeks-review-headcount-needs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
