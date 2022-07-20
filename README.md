@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; cast in &#39;mourning&#39; as filming for third season wraps up](https://appleinsider.com/articles/22/07/20/ted-lasso-cast-in-mourning-as-filming-for-third-season-wraps-up?utm_medium=rss)
- - [Microsoft unveils Viva Engage, a social-community app launching in late August, that brings Stories and other image and video sharing tools to Teams &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220719/p31#a220719p31)
- - [The 14 Best PS5 Games You Can Play Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Get up to $200 in Samsung credit to preorder upcoming Galaxy Fold, Watch devices](https://appleinsider.com/articles/22/07/20/get-up-to-200-in-samsung-credit-to-preorder-upcoming-galaxy-fold-watch-devices?utm_medium=rss)
+ - [&#39;Thor: Love and Thunder&#39; -- When Is the Marvel Flick Heading to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-is-the-marvel-flick-heading-to-disney-plus/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
