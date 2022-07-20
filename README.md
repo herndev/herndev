@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How QA workers are driving the video game industry’s union push](https://www.polygon.com/23270642/union-video-game-industry-qa-activision-blizzard-keywords)
- - [Twitter accuses Musk of &#39;sabotage&#39; and gets the early trial it wanted](https://www.pcgamer.com/twitter-accuses-musk-of-sabotage-and-gets-the-early-trial-it-wanted)
- - [How to upgrade armor in the Destiny 2 Solstice event](https://www.pcgamer.com/destiny-2-candescent-armor-reroll-stats)<!-- GAME:END -->
+ - [No Man’s Sky Endurance update overhauls freighter customization, live today](https://blog.playstation.com/2022/07/20/no-mans-sky-endurance-update-overhauls-freighter-customization-live-today/)
+ - [Xbox Celebrates the Next Generation of Women in Sports, Gaming, and More](https://news.xbox.com/en-us/2022/07/20/xbox-celebrates-the-next-generation-of-women-in-sports-gaming-and-more/)
+ - [No Man’s Sky’s Endurance update lets players crew up their big ships](https://www.polygon.com/23270061/no-mans-sky-endurance-update-2022-freighters-crew)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
