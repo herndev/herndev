@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mastering](http://9gag.com/gag/a91GgE0)
- - ⏩ [Gold](http://9gag.com/gag/aLvE71P)
- - 👉 [How to fold a fitted sheet.](http://9gag.com/gag/aDDvKo9)<!-- MEMES:END -->
+ - 💣 [English at it&#39;s best](http://9gag.com/gag/aze3prN)
+ - ⏩ [Emmanuel!!!](http://9gag.com/gag/a21X68Y)
+ - 👉 [Typical Sigma Male vs Women\u2615](http://9gag.com/gag/apgMMyE)<!-- MEMES:END -->
 
 ---
 
