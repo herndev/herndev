@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports’ last FIFA will be its biggest ever, developers vow](https://www.polygon.com/23271025/fifa-23-preview-trailer-gameplay-hypermotion-womens-football)
- - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
- - [Stray: All the safe unlock codes](https://www.pcgamer.com/stray-safe-unlock-codes)<!-- GAME:END -->
+ - [Jordan Peele’s Nope brings chills and thrills, but it’s all empty air](https://www.polygon.com/reviews/23271422/jordan-peele-nope-review-alien-invasion)
+ - [Genshin Impact Sea Salt-Crusted Key guide](https://www.polygon.com/genshin-impact-guides/23271341/sea-salt-crusted-key-use-where-to-find-minacious-isle)
+ - [Latest No Man&#39;s Sky expansion lets you captain it up like Picard](https://www.pcgamer.com/latest-no-mans-sky-expansion-lets-you-captain-your-ship-like-picard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
