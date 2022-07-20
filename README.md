@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Call of Duty: Vanguard Free Through July 26](https://news.xbox.com/en-us/2022/07/20/play-call-of-duty-vanguard-free-through-july-26/)
- - [What to expect from Marvel’s big MCU panel at SDCC 2022](https://www.polygon.com/sdcc/23271531/marvel-hall-h-panel-trailers-announcements-x-men-black-panther-deadpool-she-hulk)
- - [The Times When Stray Perfectly Captures The Full Cat Experience](https://kotaku.com/stray-puzzle-platformer-bluetwelve-annapurna-ps4-ps5-pc-1849197639)<!-- GAME:END -->
+ - [EVE Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game)
+ - [FCC Chair wants to give everyone in the US good internet by raising the minimum broadband speed to 100/20 Mbps](https://www.pcgamer.com/fcc-chair-wants-to-give-everyone-in-the-us-good-internet-by-raising-the-minimum-broadband-speed-to-10020-mbps)
+ - [Stray: How to acquire the Poncho and where to use it](https://www.polygon.com/guides/23271706/stray-poncho-location-super-spirit-detergent-eclectic-cable-broken-tracker-elliot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
