@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why..](http://9gag.com/gag/aze33nm)
- - ⏩ [Cute laugh](http://9gag.com/gag/angoPW5)
+ - 💣 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
+ - ⏩ [That face of regret](http://9gag.com/gag/awzpWR1)
  - 👉 [`it&#39;s lil dirty, but it works` that&#39;s not his first time saying that](http://9gag.com/gag/a410ONm)<!-- MEMES:END -->
 
 ---
