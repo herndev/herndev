@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You’ll have to sacrifice content for the cheaper Netflix plan with ads](https://www.androidauthority.com/netflix-ad-plan-content-3188366/)
  - [The Absolute Best Nintendo GameCube Games, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-20-best-nintendo-gamecube-games-ranked/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Netflix You Can&#39;t Afford to Miss     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-cant-afford-to-miss/#ftag=CAD590a51e)
- - [The Girl in the Picture: All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on Netflix You Can&#39;t Afford to Miss     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-cant-afford-to-miss/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
