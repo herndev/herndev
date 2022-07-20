@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dammit, time to watch Blade Runner 2049 again](http://9gag.com/gag/aOQW5G3)
- - ⏩ [Why..](http://9gag.com/gag/aze33nm)
- - 👉 [Gold](http://9gag.com/gag/aLvE71P)<!-- MEMES:END -->
+ - 💣 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - ⏩ [European women are the most beautiful women in the world. Change my mind.](http://9gag.com/gag/aDDv95w)
+ - 👉 [Emmanuel!!!](http://9gag.com/gag/a21X68Y)<!-- MEMES:END -->
 
 ---
 
