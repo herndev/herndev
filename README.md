@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Animal Well taps into PS5 hardware to elevate 2D pixel-art platforming](https://blog.playstation.com/2022/07/20/how-animal-well-taps-into-ps5-hardware-to-elevate-2d-pixel-art-platforming/)
- - [Connect Your Worlds – Discord Voice Chat Comes to Xbox Consoles for Xbox Insiders](https://news.xbox.com/en-us/2022/07/20/discord-voice-chat-for-xbox-insiders/)
- - [Halloween Ends’ first trailer shows Laurie Strode getting the drop on Michael Myers](https://www.polygon.com/23271269/halloween-ends-trailer-release-date-jamie-lee-curtis)<!-- GAME:END -->
+ - [EA Sports’ last FIFA will be its biggest ever, developers vow](https://www.polygon.com/23271025/fifa-23-preview-trailer-gameplay-hypermotion-womens-football)
+ - [The best graphics cards in 2022](https://www.pcgamer.com/the-best-graphics-cards)
+ - [Stray: All the safe unlock codes](https://www.pcgamer.com/stray-safe-unlock-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
