@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need much more respect...](http://9gag.com/gag/amgZE0v)
- - ⏩ [Took me 29 years](http://9gag.com/gag/a116Gb2)
- - 👉 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)<!-- MEMES:END -->
+ - 💣 [Being a short guy, it&#39;s always nice to feel accommodated for.](http://9gag.com/gag/a71xQ1A)
+ - ⏩ [Stop it weebs](http://9gag.com/gag/aLvExBv)
+ - 👉 [Yup. This is a Purrfect game](http://9gag.com/gag/aBne7B2)<!-- MEMES:END -->
 
 ---
 
