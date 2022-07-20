@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neverending loop](http://9gag.com/gag/ango6VL)
- - ⏩ [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)
+ - 💣 [Need much more respect...](http://9gag.com/gag/amgZE0v)
+ - ⏩ [Took me 29 years](http://9gag.com/gag/a116Gb2)
  - 👉 [What are these globalists putting into our atmosphere?](http://9gag.com/gag/aZrY6Gp)<!-- MEMES:END -->
 
 ---
