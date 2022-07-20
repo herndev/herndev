@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the most satisfying feelings](http://9gag.com/gag/aM4LMLP)
- - ⏩ [That face of regret](http://9gag.com/gag/awzpWR1)
- - 👉 [`it&#39;s lil dirty, but it works` that&#39;s not his first time saying that](http://9gag.com/gag/a410ONm)<!-- MEMES:END -->
+ - 💣 [Mastering](http://9gag.com/gag/a91GgE0)
+ - ⏩ [Gold](http://9gag.com/gag/aLvE71P)
+ - 👉 [How to fold a fitted sheet.](http://9gag.com/gag/aDDvKo9)<!-- MEMES:END -->
 
 ---
 
