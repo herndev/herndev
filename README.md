@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple lands upcoming film &#39;Causeway&#39; starring Jennifer Lawrence](https://appleinsider.com/articles/22/07/20/apple-lands-upcoming-film-causeway-starring-jennifer-lawrence?utm_medium=rss)
- - [Exclusive savings drive Apple AirPods Max down to $425 &lpar;$125 off&rpar;](https://appleinsider.com/articles/22/07/20/exclusive-savings-drive-apple-airpods-max-down-to-425-125-off?utm_medium=rss)
- - [How to sign out of Amazon Prime on TV](https://www.androidauthority.com/sign-out-amazon-prime-tv-3188601/)<!-- TECH:END -->
+ - [Baidu&#39;s video streaming service iQiyi signs a content deal with Douyin, the Chinese version of TikTok, ending a dispute over alleged copyright infringement &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p26#a220720p26)
+ - [Tesla sold 75 percent of its Bitcoin](https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk)
+ - [Elon Musk now says Tesla could start Cybertruck deliveries in mid-2023](https://www.theverge.com/2022/7/20/23272045/tesla-cybertruck-delivery-middle-next-year-q2-earnings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
