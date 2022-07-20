@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tanks are on the streets again in China. The protests are related to the freezing of deposits by the Bank of China in Henan Province: people&#39;s savings in accounts are now `investment products` and cannot be cashed out. `Your money = our money!`](http://9gag.com/gag/a116Gj6)
- - ⏩ [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)
- - 👉 [Took me 29 years](http://9gag.com/gag/a116Gb2)<!-- MEMES:END -->
+ - 💣 [Recently divorced..she took everything, starting over again.Wish me luck guys](http://9gag.com/gag/a51Y8WN)
+ - ⏩ [No talk me im playin stray](http://9gag.com/gag/aqGEqqv)
+ - 👉 [&#39;Hasta la vista, baby&#39;. Boris johnson&#39;s last words at PMQs.](http://9gag.com/gag/amgZ3Mv)<!-- MEMES:END -->
 
 ---
 
