@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky: Endurance Update Available Today](https://news.xbox.com/en-us/2022/07/20/no-mans-sky-endurance-update-available-today/)
- - [Last Friday brings Friday the 13th vibes to Camp Overboard](https://www.polygon.com/23180307/camp-overboard-last-friday-friday-the-13th-boardgame)
- - [The origin of Matt Berry shouting ‘Bat!’ on What We Do in the Shadows](https://www.polygon.com/23268562/what-we-do-in-the-shadows-laszlo-bat-matt-berry)<!-- GAME:END -->
+ - [Valve Warns Steam Deck Users To Beware The Hot Weather](https://kotaku.com/valve-steam-deck-nintendo-switch-global-warming-alyx-1849209382)
+ - [Frogs and Mechs Team up in Sci-Fi Roguelike Shoulders of Giants – Coming to Xbox](https://news.xbox.com/en-us/2022/07/20/frogs-and-mechs-team-up-in-sci-fi-roguelike-shoulders-of-giants-coming-to-xbox/)
+ - [Real-world animal shelters are streaming Stray to save cats’ lives](https://www.polygon.com/23271147/stray-game-cat-rescue-twitch-humane-society)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
