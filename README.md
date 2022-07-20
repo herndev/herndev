@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No Man’s Sky Endurance update overhauls freighter customization, live today](https://blog.playstation.com/2022/07/20/no-mans-sky-endurance-update-overhauls-freighter-customization-live-today/)
- - [Xbox Celebrates the Next Generation of Women in Sports, Gaming, and More](https://news.xbox.com/en-us/2022/07/20/xbox-celebrates-the-next-generation-of-women-in-sports-gaming-and-more/)
- - [No Man’s Sky’s Endurance update lets players crew up their big ships](https://www.polygon.com/23270061/no-mans-sky-endurance-update-2022-freighters-crew)<!-- GAME:END -->
+ - [How Animal Well taps into PS5 hardware to elevate 2D pixel-art platforming](https://blog.playstation.com/2022/07/20/how-animal-well-taps-into-ps5-hardware-to-elevate-2d-pixel-art-platforming/)
+ - [Connect Your Worlds – Discord Voice Chat Comes to Xbox Consoles for Xbox Insiders](https://news.xbox.com/en-us/2022/07/20/discord-voice-chat-for-xbox-insiders/)
+ - [Halloween Ends’ first trailer shows Laurie Strode getting the drop on Michael Myers](https://www.polygon.com/23271269/halloween-ends-trailer-release-date-jamie-lee-curtis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
