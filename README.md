@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Wish More People Would Watch Netflix&#39;s Best &#39;True Crime&#39; Show     - CNET](https://www.cnet.com/culture/entertainment/i-wish-more-people-would-watch-netflix-best-true-crime-show/#ftag=CAD590a51e)
- - [FTC Repaying $25M to Next-Gen Sweepstakes Scam Victims Globally     - CNET](https://www.cnet.com/tech/services-and-software/ftc-repaying-25m-to-next-gen-sweepstakes-scam-victims-globally/#ftag=CAD590a51e)
- - [San Diego Comic-Con: The Movies and TV Shows We Hope To See     - CNET](https://www.cnet.com/culture/entertainment/san-diego-comic-con-the-movies-and-tv-shows-we-hope-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; cast in &#39;mourning&#39; as filming for third season wraps up](https://appleinsider.com/articles/22/07/20/ted-lasso-cast-in-mourning-as-filming-for-third-season-wraps-up?utm_medium=rss)
+ - [Microsoft unveils Viva Engage, a social-community app launching in late August, that brings Stories and other image and video sharing tools to Teams &lpar;Mary Jo Foley/ZDNet&rpar;](http://www.techmeme.com/220719/p31#a220719p31)
+ - [The 14 Best PS5 Games You Can Play Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-14-best-ps5-games-you-can-play-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
