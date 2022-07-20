@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve Warns Steam Deck Users To Beware The Hot Weather](https://kotaku.com/valve-steam-deck-nintendo-switch-global-warming-alyx-1849209382)
- - [Frogs and Mechs Team up in Sci-Fi Roguelike Shoulders of Giants – Coming to Xbox](https://news.xbox.com/en-us/2022/07/20/frogs-and-mechs-team-up-in-sci-fi-roguelike-shoulders-of-giants-coming-to-xbox/)
- - [Real-world animal shelters are streaming Stray to save cats’ lives](https://www.polygon.com/23271147/stray-game-cat-rescue-twitch-humane-society)<!-- GAME:END -->
+ - [Play Call of Duty: Vanguard Free Through July 26](https://news.xbox.com/en-us/2022/07/20/play-call-of-duty-vanguard-free-through-july-26/)
+ - [What to expect from Marvel’s big MCU panel at SDCC 2022](https://www.polygon.com/sdcc/23271531/marvel-hall-h-panel-trailers-announcements-x-men-black-panther-deadpool-she-hulk)
+ - [The Times When Stray Perfectly Captures The Full Cat Experience](https://kotaku.com/stray-puzzle-platformer-bluetwelve-annapurna-ps4-ps5-pc-1849197639)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
