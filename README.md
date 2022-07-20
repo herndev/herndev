@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
- - ⏩ [European women are the most beautiful women in the world. Change my mind.](http://9gag.com/gag/aDDv95w)
- - 👉 [Emmanuel!!!](http://9gag.com/gag/a21X68Y)<!-- MEMES:END -->
+ - 💣 [Why..](http://9gag.com/gag/aze33nm)
+ - ⏩ [Cute laugh](http://9gag.com/gag/angoPW5)
+ - 👉 [`it&#39;s lil dirty, but it works` that&#39;s not his first time saying that](http://9gag.com/gag/a410ONm)<!-- MEMES:END -->
 
 ---
 
