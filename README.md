@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alaska Airlines will let flyers use digital bag tags to save time and paper](https://www.theverge.com/2022/7/20/23271068/alaska-airlines-electronic-bag-tag-program-bagtag-e-paper-display-nfc)
  - [Turn on Windows 11 Dark Mode in 3 Short Steps     - CNET](https://www.cnet.com/tech/services-and-software/turn-on-windows-11-dark-mode-in-3-short-steps/#ftag=CAD590a51e)
- - [An interview with Matthew Ball on his new book about the metaverse, which he sees as the next phase of the internet, Meta&#39;s big pivot, AR hardware, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220720/p1#a220720p1)
- - [You’ll have to sacrifice content for the cheaper Netflix plan with ads](https://www.androidauthority.com/netflix-ad-plan-content-3188366/)<!-- TECH:END -->
+ - [An interview with Matthew Ball on his new book about the metaverse, which he sees as the next phase of the internet, Meta&#39;s big pivot, AR hardware, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220720/p1#a220720p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
