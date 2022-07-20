@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)
- - ⏩ [Being a short guy, it&#39;s always nice to feel accommodated for.](http://9gag.com/gag/a71xQ1A)
- - 👉 [Vacuuming the pool](http://9gag.com/gag/avAjNzO)<!-- MEMES:END -->
+ - 💣 [The man is right ...](http://9gag.com/gag/a51Y4PG)
+ - ⏩ [Hi Lisa](http://9gag.com/gag/aRrpbO5)
+ - 👉 [100% better cast](http://9gag.com/gag/aOQWMr6)<!-- MEMES:END -->
 
 ---
 
