@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F is for...](http://9gag.com/gag/aE8457p)
- - ⏩ [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)
- - 👉 [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)<!-- MEMES:END -->
+ - 💣 [Meanwhile in China. CCP tanks on the street again this time protecting Banks &lpar;possibly Rizhao, Shandong Province&rpar;. This is because the Henan branch of the Bank of China declaring that people&#39;s savings in their branch are now &#39;investment products&#39; and can&#39;t be withdrawn.](http://9gag.com/gag/adgzzbM)
+ - ⏩ [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
+ - 👉 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
 
 ---
 
