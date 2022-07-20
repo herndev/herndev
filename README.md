@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it will pause hiring for two weeks, not affecting offers that were already made, after saying last week it would slow hiring for the rest of 2022 &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/220720/p13#a220720p13)
- - [Apple releases iOS 15.6 &amp; iPadOS 15.6 with bug fixes](https://appleinsider.com/articles/22/07/20/apple-releases-ios-156-ipados-156-with-bug-fixes?utm_medium=rss)
- - [EA’s last FIFA game goes all in on women’s soccer](https://www.theverge.com/2022/7/20/23271528/ea-sports-fifa-23-trailer-release-date-womens-soccer)<!-- TECH:END -->
+ - [macOS Monterey 12.5 is now available to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
+ - [Apple issues tvOS 15.6 to the public with under-the-hood improvements](https://appleinsider.com/articles/22/07/20/apple-releases-tvos-156-with-under-the-hood-improvements?utm_medium=rss)
+ - [YouTube hires Rene Ritchie, a tech YouTuber and former iMore leader, as its new creator liaison](https://www.theverge.com/2022/7/20/23271599/youtube-rene-ritchie-creator-liaison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
