@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is slowly turning Alexa into a totally automated virtual assistant](https://www.theverge.com/2022/7/20/23270516/amazon-alexa-routines-kit-universal-commands)
- - [Amazon says Matter really matters to its smart home ambitions](https://www.theverge.com/2022/7/20/23271227/amazon-matter-smart-home-alexa-live-announcements)
- - [CTA report: from July 2018 to December 2021, US importers of tech products from China paid $32B+ in extra tariffs that President Trump had imposed &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/220720/p11#a220720p11)<!-- TECH:END -->
+ - [Google says it will pause hiring for two weeks, not affecting offers that were already made, after saying last week it would slow hiring for the rest of 2022 &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/220720/p13#a220720p13)
+ - [Apple releases iOS 15.6 &amp; iPadOS 15.6 with bug fixes](https://appleinsider.com/articles/22/07/20/apple-releases-ios-156-ipados-156-with-bug-fixes?utm_medium=rss)
+ - [EA’s last FIFA game goes all in on women’s soccer](https://www.theverge.com/2022/7/20/23271528/ea-sports-fifa-23-trailer-release-date-womens-soccer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
