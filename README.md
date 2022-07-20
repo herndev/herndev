@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix’s ad-supported tier won’t have everything at launch](https://www.theverge.com/2022/7/19/23270693/netflix-adds-ads-subtracts-content-streaming-tier)
- - [US lawmakers release internal documents from Amazon, Meta, and Google that they say show evidence of self-preferencing, as they call for tougher antitrust laws &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220719/p29#a220719p29)
- - [Netflix subscriber count in the US and Canada dropped by 1.3 million over the last three months](https://www.theverge.com/2022/7/19/23268626/netflix-q2-2022-earnings-subscribers-ads-stranger-things)<!-- TECH:END -->
+ - [I Wish More People Would Watch Netflix&#39;s Best &#39;True Crime&#39; Show     - CNET](https://www.cnet.com/culture/entertainment/i-wish-more-people-would-watch-netflix-best-true-crime-show/#ftag=CAD590a51e)
+ - [FTC Repaying $25M to Next-Gen Sweepstakes Scam Victims Globally     - CNET](https://www.cnet.com/tech/services-and-software/ftc-repaying-25m-to-next-gen-sweepstakes-scam-victims-globally/#ftag=CAD590a51e)
+ - [San Diego Comic-Con: The Movies and TV Shows We Hope To See     - CNET](https://www.cnet.com/culture/entertainment/san-diego-comic-con-the-movies-and-tv-shows-we-hope-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
