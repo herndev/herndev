@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new AI can make 2D images 3D, like these high def faces and yes, even cats](https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats)
- - [This planned controller aims to bring realistic gun haptics to VR](https://www.pcgamer.com/this-planned-controller-aims-to-bring-realistic-gun-haptics-to-vr)
- - [Gigabyte&#39;s 600-series motherboards add support for 13th Gen Raptor Lake CPUs](https://www.pcgamer.com/gigabytes-600-series-motherboards-add-support-for-13th-gen-raptor-lake-cpus)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #396: Wednesday, July 20](https://www.pcgamer.com/todays-wordle-july-20-396-answer-hint)
+ - [A new AI can make 2D images 3D, like these high-def faces and yes, even cats](https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats)
+ - [This planned controller aims to bring realistic gun haptics to VR](https://www.pcgamer.com/this-planned-controller-aims-to-bring-realistic-gun-haptics-to-vr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
