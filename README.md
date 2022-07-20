@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Apple agrees to pay $50M to customers with faulty MacBook keyboards](https://www.pcgamer.com/apple-agrees-to-pay-dollar50m-to-customers-with-faulty-macbook-keyboards)
  - [Today&#39;s Wordle answer #396: Wednesday, July 20](https://www.pcgamer.com/todays-wordle-july-20-396-answer-hint)
- - [A new AI can make 2D images 3D, like these high-def faces and yes, even cats](https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats)
- - [This planned controller aims to bring realistic gun haptics to VR](https://www.pcgamer.com/this-planned-controller-aims-to-bring-realistic-gun-haptics-to-vr)<!-- GAME:END -->
+ - [A new AI can make 2D images 3D, like these high-def faces and yes, even cats](https://www.pcgamer.com/a-new-ai-can-make-2d-images-3d-like-these-high-def-faces-and-yes-even-cats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
