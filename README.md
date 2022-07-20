@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Enjoy This Very Brief Look At Yakuza 8](https://kotaku.com/yakuza-8-like-a-dragon-2-sega-first-look-ryu-ga-gotoku-1849197924)
- - [Summer Sale promotion comes to PlayStation Store](https://blog.playstation.com/2022/07/19/summer-sale-promotion-comes-to-playstation-store/)
- - [Into the Breach launches free Advanced Edition update](https://www.pcgamer.com/into-the-breach-launches-free-advanced-edition-update)<!-- GAME:END -->
+ - [Leaked Total War: Warhammer 3 DLC factions confirmed as the Champions of Chaos](https://www.pcgamer.com/leaked-total-war-warhammer-3-dlc-factions-confirmed-as-the-champions-of-chaos)
+ - [The biggest gaming news for July 19, 2022](https://game-rant-2022.blogspot.com/2022/07/the-biggest-gaming-news-for-july-19-2022.html)
+ - [Sierra Founders Ken &amp; Roberta Williams Talk About Their Past &lpar;And Future&rpar; In Video Games](https://kotaku.com/sierra-roberta-williams-kings-quest-interview-feature-1849192779)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
