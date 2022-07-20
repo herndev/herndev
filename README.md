@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lost Ark&#39;s new card-throwing arcanist class is basically Gambit from the X-Men](https://www.pcgamer.com/lost-arks-new-card-throwing-arcanist-class-is-basically-gambit-from-the-x-men)
- - [Thank You For Your Service](https://kotaku.com/jean-luc-sabourin-art-illustration-concept-showcase-1849198216)
- - [Leaked Total War: Warhammer 3 DLC factions confirmed as the Champions of Chaos](https://www.pcgamer.com/leaked-total-war-warhammer-3-dlc-factions-confirmed-as-the-champions-of-chaos)<!-- GAME:END -->
+ - [This planned controller aims to bring realistic gun haptics to VR](https://www.pcgamer.com/this-planned-controller-aims-to-bring-realistic-gun-haptics-to-vr)
+ - [Gigabyte&#39;s 600-series motherboards add support for 13th Gen Raptor Lake CPUs](https://www.pcgamer.com/gigabytes-600-series-motherboards-add-support-for-13th-gen-raptor-lake-cpus)
+ - [Lost Ark&#39;s new card-throwing arcanist class is basically Gambit from the X-Men](https://www.pcgamer.com/lost-arks-new-card-throwing-arcanist-class-is-basically-gambit-from-the-x-men)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
