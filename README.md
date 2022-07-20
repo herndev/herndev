@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get up to $200 in Samsung credit to preorder upcoming Galaxy Fold, Watch devices](https://appleinsider.com/articles/22/07/20/get-up-to-200-in-samsung-credit-to-preorder-upcoming-galaxy-fold-watch-devices?utm_medium=rss)
- - [&#39;Thor: Love and Thunder&#39; -- When Is the Marvel Flick Heading to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-when-is-the-marvel-flick-heading-to-disney-plus/#ftag=CAD590a51e)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Senate votes 64-34 to advance a bill to provide ~$52B in US chip production subsidies, paving way for a larger package that would include additional R&amp;D funding &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/220719/p33#a220719p33)
+ - [Gordian Software, whose API enables airlines to sell flight add-ons like seat selection or additional baggage, has raised a $25M Series A at a $200M valuation &lpar;Ariyana Griffin/Forbes&rpar;](http://www.techmeme.com/220719/p32#a220719p32)
+ - [How to get new characters in Genshin Impact](https://www.androidauthority.com/get-characters-genshin-impact-3188235/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
