@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon looks like it’ll bring back everything we loved about Game of Thrones](https://www.polygon.com/23219215/house-of-the-dragon-trailer-game-of-thrones-characters-cast-release-date)
- - [Powerwash Simulator is the best Far Cry game I&#39;ve ever played](https://www.pcgamer.com/powerwash-simulator-is-the-best-far-cry-game-ive-ever-played)
- - [30 years later, DC Comics’ first transgender superhero is still the genre’s best](https://www.polygon.com/23269050/dc-comics-trans-supehero-doom-patrol-rachel-pollack-coagula-kate-godwin)<!-- GAME:END -->
+ - [No Man’s Sky: Endurance Update Available Today](https://news.xbox.com/en-us/2022/07/20/no-mans-sky-endurance-update-available-today/)
+ - [Last Friday brings Friday the 13th vibes to Camp Overboard](https://www.polygon.com/23180307/camp-overboard-last-friday-friday-the-13th-boardgame)
+ - [The origin of Matt Berry shouting ‘Bat!’ on What We Do in the Shadows](https://www.polygon.com/23268562/what-we-do-in-the-shadows-laszlo-bat-matt-berry)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
