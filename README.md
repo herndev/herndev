@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [macOS Monterey 12.5 is now available to the public](https://appleinsider.com/articles/22/07/20/apple-releases-macos-monterey-125-to-the-public?utm_medium=rss)
- - [Apple issues tvOS 15.6 to the public with under-the-hood improvements](https://appleinsider.com/articles/22/07/20/apple-releases-tvos-156-with-under-the-hood-improvements?utm_medium=rss)
- - [YouTube hires Rene Ritchie, a tech YouTuber and former iMore leader, as its new creator liaison](https://www.theverge.com/2022/7/20/23271599/youtube-rene-ritchie-creator-liaison)<!-- TECH:END -->
+ - [Google Calendar’s ‘known senders’ filter should help stamp out spam invites](https://www.theverge.com/2022/7/20/23271485/google-calendar-known-senders-filter-spam-invites)
+ - [Research details Reddit&#39;s cautious approach to monetization, giving no_ads, some_ads, and all_ads labels to subreddits based on human review &lpar;Ryan Barwick/Marketing Brew&rpar;](http://www.techmeme.com/220720/p16#a220720p16)
+ - [Now Google Photos has a shortcut to help you find your screenshots faster](https://www.theverge.com/2022/7/20/23271304/google-photos-screenshots-shortcut-android-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
