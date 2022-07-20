@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New &#39;CloudMensis&#39; malware uses cloud storage to spy on Mac users](https://appleinsider.com/articles/22/07/20/new-cloudmensis-malware-uses-cloud-storage-to-spy-on-mac-users?utm_medium=rss)
- - [Vergecast: Nothing Phone 1 review, Congress takes on VPNs, and Project Genesis adventures](https://www.theverge.com/2022/7/20/23271277/dish-network-nft-genesis-vpn-nothing-phone-1-podcast-vergecast)
- - [Sources: Sequoia China raised a $9B fund, as others struggled, by realigning its investment themes with China&#39;s &quot;politically correct&quot; sectors like chips and AI &lpar;Financial Times&rpar;](http://www.techmeme.com/220720/p7#a220720p7)<!-- TECH:END -->
+ - [Amazon is slowly turning Alexa into a totally automated virtual assistant](https://www.theverge.com/2022/7/20/23270516/amazon-alexa-routines-kit-universal-commands)
+ - [Amazon says Matter really matters to its smart home ambitions](https://www.theverge.com/2022/7/20/23271227/amazon-matter-smart-home-alexa-live-announcements)
+ - [CTA report: from July 2018 to December 2021, US importers of tech products from China paid $32B+ in extra tariffs that President Trump had imposed &lpar;David Lawder/Reuters&rpar;](http://www.techmeme.com/220720/p11#a220720p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
