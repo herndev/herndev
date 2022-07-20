@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Quit My Job to Make Robo Revenge Squad, Now It’s Coming to Xbox!](https://news.xbox.com/en-us/2022/07/20/i-quit-my-job-to-make-robo-revenge-squad-now-its-coming-to-xbox/)
- - [A new actual play ports Jane Austen into Dungeons &amp; Dragons](https://www.polygon.com/23271360/dnd-a-court-of-fey-and-flowers-aabria-iyengar-dimension-20-premiere-date-time)
- - [Marvel’s Spider-Man Remastered PC reveals specs, new features](https://www.polygon.com/23271538/marvels-spider-man-remastered-pc-release-date-specs-minimum-features-trailer)<!-- GAME:END -->
+ - [House of the Dragon looks like it’ll bring back everything we loved about Game of Thrones](https://www.polygon.com/23219215/house-of-the-dragon-trailer-game-of-thrones-characters-cast-release-date)
+ - [Powerwash Simulator is the best Far Cry game I&#39;ve ever played](https://www.pcgamer.com/powerwash-simulator-is-the-best-far-cry-game-ive-ever-played)
+ - [30 years later, DC Comics’ first transgender superhero is still the genre’s best](https://www.polygon.com/23269050/dc-comics-trans-supehero-doom-patrol-rachel-pollack-coagula-kate-godwin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
