@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
- - ⏩ [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)
- - 👉 [English at it&#39;s best](http://9gag.com/gag/aze3prN)<!-- MEMES:END -->
+ - 💣 [Dammit, time to watch Blade Runner 2049 again](http://9gag.com/gag/aOQW5G3)
+ - ⏩ [Why..](http://9gag.com/gag/aze33nm)
+ - 👉 [Gold](http://9gag.com/gag/aLvE71P)<!-- MEMES:END -->
 
 ---
 
