@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Popular Period-Tracking Apps, Ranked by Data Privacy](https://www.wired.com/story/period-tracking-apps-flo-clue-stardust-ranked-data-privacy/)
- - [Bookstagram Is Fueling an Unnerving Trend](https://www.wired.com/story/tagging-authors-on-tiktok/)
- - [I Shredded a 70-Mile Dirt Ride on a Folding Commuter Bike](https://www.wired.com/story/north-london-dirt-brompton-t-line-folding-commuter-bike/)<!-- TECH:END -->
+ - [Facebook puts news on the back burner as it continues to push video and creators](https://www.theverge.com/2022/7/20/23271108/facebook-news-bulletin-newsletter-shift-resources-video-feed-creators)
+ - [How to find songs that have been removed from Apple Music](https://appleinsider.com/inside/apple-music/tips/how-to-find-songs-that-have-been-removed-from-apple-music?utm_medium=rss)
+ - [A coalition representing Apple, Meta, and others asks India to amend its proposed IT rules, including allowing a self-regulatory grievance redressal mechanism &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220720/p3#a220720p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
