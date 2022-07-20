@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cute laugh](http://9gag.com/gag/angoPW5)
- - ⏩ [Really?](http://9gag.com/gag/aqGEP9p)
- - 👉 [Now I doubt if he&#39;s acting](http://9gag.com/gag/a91GxEj)<!-- MEMES:END -->
+ - 💣 [I respect the rules but still...](http://9gag.com/gag/aWgXzMd)
+ - ⏩ [This pillow....](http://9gag.com/gag/aGzQmo6)
+ - 👉 [Checkmate Zionists!](http://9gag.com/gag/aggeDjn)<!-- MEMES:END -->
 
 ---
 
