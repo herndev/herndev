@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jordan Peele’s Nope brings chills and thrills, but it’s all empty air](https://www.polygon.com/reviews/23271422/jordan-peele-nope-review-alien-invasion)
- - [Genshin Impact Sea Salt-Crusted Key guide](https://www.polygon.com/genshin-impact-guides/23271341/sea-salt-crusted-key-use-where-to-find-minacious-isle)
- - [Latest No Man&#39;s Sky expansion lets you captain it up like Picard](https://www.pcgamer.com/latest-no-mans-sky-expansion-lets-you-captain-your-ship-like-picard)<!-- GAME:END -->
+ - [I Quit My Job to Make Robo Revenge Squad, Now It’s Coming to Xbox!](https://news.xbox.com/en-us/2022/07/20/i-quit-my-job-to-make-robo-revenge-squad-now-its-coming-to-xbox/)
+ - [A new actual play ports Jane Austen into Dungeons &amp; Dragons](https://www.polygon.com/23271360/dnd-a-court-of-fey-and-flowers-aabria-iyengar-dimension-20-premiere-date-time)
+ - [Marvel’s Spider-Man Remastered PC reveals specs, new features](https://www.polygon.com/23271538/marvels-spider-man-remastered-pc-release-date-specs-minimum-features-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
