@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EVE Online&#39;s most notorious player has quit the game](https://www.pcgamer.com/eve-onlines-most-notorious-player-has-quit-the-game)
- - [FCC Chair wants to give everyone in the US good internet by raising the minimum broadband speed to 100/20 Mbps](https://www.pcgamer.com/fcc-chair-wants-to-give-everyone-in-the-us-good-internet-by-raising-the-minimum-broadband-speed-to-10020-mbps)
- - [Stray: How to acquire the Poncho and where to use it](https://www.polygon.com/guides/23271706/stray-poncho-location-super-spirit-detergent-eclectic-cable-broken-tracker-elliot)<!-- GAME:END -->
+ - [Hard-To-Get Infamous Second Son DLC Now Free On PlayStation Store](https://kotaku.com/infamous-second-son-sucker-punch-sony-playstation-ghost-1849228187)
+ - [Detroit: Become Human’s manga spinoff might do better by the game’s great premise](https://www.polygon.com/23271739/detroit-become-human-tokyo-stories-manga)
+ - [The Last Of Us Part I Leaks Show That It Looks Like The Original, But Better I Guess](https://kotaku.com/the-last-of-us-part-i-naughty-dog-playstation-sony-elli-1849222680)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
