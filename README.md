@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To rob a bike-rider with 1000cc Suzuki](http://9gag.com/gag/ay9KKLy)
- - ⏩ [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)
- - 👉 [How the climate in Europe will change over the next few years.](http://9gag.com/gag/aGzQQ95)<!-- MEMES:END -->
+ - 💣 [Thanos Plan B](http://9gag.com/gag/aVx66pM)
+ - ⏩ [DOG `human we go for walk NOW!`](http://9gag.com/gag/a21Xp9p)
+ - 👉 [English at it&#39;s best](http://9gag.com/gag/aze3prN)<!-- MEMES:END -->
 
 ---
 
