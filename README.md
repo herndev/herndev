@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Calendar’s ‘known senders’ filter should help stamp out spam invites](https://www.theverge.com/2022/7/20/23271485/google-calendar-known-senders-filter-spam-invites)
- - [Research details Reddit&#39;s cautious approach to monetization, giving no_ads, some_ads, and all_ads labels to subreddits based on human review &lpar;Ryan Barwick/Marketing Brew&rpar;](http://www.techmeme.com/220720/p16#a220720p16)
- - [Now Google Photos has a shortcut to help you find your screenshots faster](https://www.theverge.com/2022/7/20/23271304/google-photos-screenshots-shortcut-android-update)<!-- TECH:END -->
+ - [Google Wallet rolls out to all users, available as a separate app for those in the US and Singapore and as a simple Google Pay update for others &lpar;Jasmine Hicks/The Verge&rpar;](http://www.techmeme.com/220720/p20#a220720p20)
+ - [John Fetterman and Dr. Oz trade memes in Twitter fight](https://www.theverge.com/2022/7/20/23271840/john-fetterman-dr-mehmet-oz-twitter-meme-bernie-sanders-aoc)
+ - [Mojang Studios will not support or allow NFTs, as they &quot;create models of scarcity and exclusion that conflict with our Guidelines and the spirit of Minecraft&quot; &lpar;Minecraft&rpar;](http://www.techmeme.com/220720/p19#a220720p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
