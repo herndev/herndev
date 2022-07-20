@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find your Skype ID](https://www.androidauthority.com/find-skype-id-3186913/)
- - [Senate votes 64-34 to advance a bill to provide ~$52B in US chip production subsidies, paving way for a larger package that would include additional R&amp;D funding &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/220719/p33#a220719p33)
- - [Gordian Software, whose API enables airlines to sell flight add-ons like seat selection or additional baggage, has raised a $25M Series A at a $200M valuation &lpar;Ariyana Griffin/Forbes&rpar;](http://www.techmeme.com/220719/p32#a220719p32)<!-- TECH:END -->
+ - [The Absolute Best Nintendo GameCube Games, Ranked     - CNET](https://www.cnet.com/culture/entertainment/the-20-best-nintendo-gamecube-games-ranked/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Netflix You Can&#39;t Afford to Miss     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-cant-afford-to-miss/#ftag=CAD590a51e)
+ - [The Girl in the Picture: All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-girl-in-the-picture-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
