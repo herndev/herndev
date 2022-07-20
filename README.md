@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congratulations to J.Lo and Ben Affleck on their wedding](http://9gag.com/gag/a410g2Z)
- - ⏩ [Those are the rookie numbers..](http://9gag.com/gag/a51Y3Vr)
- - 👉 [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)<!-- MEMES:END -->
+ - 💣 [To rob a bike-rider with 1000cc Suzuki](http://9gag.com/gag/ay9KKLy)
+ - ⏩ [Did you ever pirated a game that was so good that you buyed the original ?](http://9gag.com/gag/aNPb5OA)
+ - 👉 [How the climate in Europe will change over the next few years.](http://9gag.com/gag/aGzQQ95)<!-- MEMES:END -->
 
 ---
 
