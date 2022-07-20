@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to find your Skype ID](https://www.androidauthority.com/find-skype-id-3186913/)
  - [Senate votes 64-34 to advance a bill to provide ~$52B in US chip production subsidies, paving way for a larger package that would include additional R&amp;D funding &lpar;Natalie Andrews/Wall Street Journal&rpar;](http://www.techmeme.com/220719/p33#a220719p33)
- - [Gordian Software, whose API enables airlines to sell flight add-ons like seat selection or additional baggage, has raised a $25M Series A at a $200M valuation &lpar;Ariyana Griffin/Forbes&rpar;](http://www.techmeme.com/220719/p32#a220719p32)
- - [How to get new characters in Genshin Impact](https://www.androidauthority.com/get-characters-genshin-impact-3188235/)<!-- TECH:END -->
+ - [Gordian Software, whose API enables airlines to sell flight add-ons like seat selection or additional baggage, has raised a $25M Series A at a $200M valuation &lpar;Ariyana Griffin/Forbes&rpar;](http://www.techmeme.com/220719/p32#a220719p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
