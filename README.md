@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yup. This is a Purrfect game](http://9gag.com/gag/aBne7B2)
- - ⏩ [Life is a b*tch](http://9gag.com/gag/amgZj34)
+ - 💣 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
+ - ⏩ [Easy win](http://9gag.com/gag/apgMWzW)
  - 👉 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)<!-- MEMES:END -->
 
 ---
