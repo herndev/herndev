@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)
- - [Quick, I Need $200 For This Figure Of Cloud Strife In A Dress](https://kotaku.com/ff7-final-fantasy-7-remake-cloud-strife-dress-figure-1849315632)
- - [Trans Streamer Keffals Says Twitch Banned Her For &#39;Openly Talking&#39; About Abuse She Receives](https://kotaku.com/twitch-ban-keffals-destiny-trans-hate-speech-slur-1849315462)<!-- GAME:END -->
+ - [Lots of Content, Lots of Logging – Farming Simulator 22 is Growing](https://news.xbox.com/en-us/2022/07/21/lots-of-content-lots-of-logging-farming-simulator-22-is-growing/)
+ - [FIFA 23 will not have Russian teams, EA confirms](https://www.pcgamer.com/fifa-23-will-not-have-russian-teams-ea-confirms)
+ - [Even GTA Online can&#39;t escape high gas prices and record-breaking heat](https://www.pcgamer.com/even-gta-online-cant-escape-high-gas-prices-and-record-breaking-heat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
