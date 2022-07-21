@@ -115,7 +115,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
  - ⏩ [Pay to play](http://9gag.com/gag/aE8mGYN)
- - 👉 [Two is company, three is a party](http://9gag.com/gag/a41O46m)<!-- MEMES:END -->
+ - 👉 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
 
 ---
 
