@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hard-To-Get Infamous Second Son DLC Now Free On PlayStation Store](https://kotaku.com/infamous-second-son-sucker-punch-sony-playstation-ghost-1849228187)
- - [Detroit: Become Human’s manga spinoff might do better by the game’s great premise](https://www.polygon.com/23271739/detroit-become-human-tokyo-stories-manga)
- - [The Last Of Us Part I Leaks Show That It Looks Like The Original, But Better I Guess](https://kotaku.com/the-last-of-us-part-i-naughty-dog-playstation-sony-elli-1849222680)<!-- GAME:END -->
+ - [Minecraft Bans NFTs And Blockchain, Which &#39;Do Not Align&#39; With Game&#39;s &#39;Values&#39;](https://kotaku.com/minecraft-nft-blockchain-mojang-microsoft-ban-scam-1849234967)
+ - [You can just rename jfifs to jpegs](https://www.pcgamer.com/you-can-just-rename-jfifs-to-jpegs)
+ - [Hard-To-Get Infamous Second Son DLC Now Free On PlayStation Store](https://kotaku.com/infamous-second-son-sucker-punch-sony-playstation-ghost-1849228187)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
