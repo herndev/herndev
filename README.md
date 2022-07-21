@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a never ending cycle I guess](http://9gag.com/gag/aM4MeKW)
- - ⏩ [Legend.](http://9gag.com/gag/a31XP5N)
- - 👉 [Black Magic](http://9gag.com/gag/awzWNp4)<!-- MEMES:END -->
+ - 💣 [Psychological Mario](http://9gag.com/gag/a510eNL)
+ - ⏩ [Old but gold.](http://9gag.com/gag/a31XPW5)
+ - 👉 [F**king sad how a woman can completely f**k-up her face.](http://9gag.com/gag/aGz4KpZ)<!-- MEMES:END -->
 
 ---
 
