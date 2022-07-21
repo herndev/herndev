@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu&#39;s video streaming service iQiyi signs a content deal with Douyin, the Chinese version of TikTok, ending a dispute over alleged copyright infringement &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p26#a220720p26)
- - [Tesla sold 75 percent of its Bitcoin](https://www.theverge.com/2022/7/20/23271834/tesla-q2-2022-earnings-elon-musk)
- - [Elon Musk now says Tesla could start Cybertruck deliveries in mid-2023](https://www.theverge.com/2022/7/20/23272045/tesla-cybertruck-delivery-middle-next-year-q2-earnings)<!-- TECH:END -->
+ - [Square Enix summons Meteor, launches its NFT project](https://www.theverge.com/2022/7/20/23271832/square-enix-nft-final-fantasy-vii-enjin-blockchain)
+ - [Qualcomm unveils the Snapdragon W5 Gen 1 and W5+ Gen 1 chips for wearables, based on 4nm process and debuting in watches from Oppo and Mobvoi &lpar;Andrew Myrick/Android Central&rpar;](http://www.techmeme.com/220720/p28#a220720p28)
+ - [Mojang blocks NFTs in Minecraft](https://www.theverge.com/2022/7/20/23272152/minecraft-mojang-blocks-rejects-nfts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
