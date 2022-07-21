@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin-based Fonoa, which makes an automated tax compliance service used by companies like Uber and Zoom, has raised a $60M Series B led by Coatue &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220721/p9#a220721p9)
- - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)
- - [Meta&#39;s research, published internally in February, reveals Facebook&#39;s challenges in India, including that women are shunning it due to safety concerns and more &lpar;Reuters&rpar;](http://www.techmeme.com/220721/p8#a220721p8)<!-- TECH:END -->
+ - [Blockchain.com says it will cut 25% of its workforce, equal to about 150 people, close its Argentina-based offices, and halt expansion in several countries &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220721/p12#a220721p12)
+ - [Ford will add iron phosphate battery options for Mustang Mach-E and F-150 Lightning](https://www.theverge.com/2022/7/21/23272516/ford-electric-vehicle-batteries-lfp-lightning-mach-e)
+ - [Hands on: Apple&#39;s Home app in iOS 16 has an all-new design](https://appleinsider.com/articles/22/07/21/hands-on-apples-home-app-in-ios-16-has-an-all-new-design?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
