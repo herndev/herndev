@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain.com says it will cut 25% of its workforce, equal to about 150 people, close its Argentina-based offices, and halt expansion in several countries &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/220721/p12#a220721p12)
- - [Ford will add iron phosphate battery options for Mustang Mach-E and F-150 Lightning](https://www.theverge.com/2022/7/21/23272516/ford-electric-vehicle-batteries-lfp-lightning-mach-e)
- - [Hands on: Apple&#39;s Home app in iOS 16 has an all-new design](https://appleinsider.com/articles/22/07/21/hands-on-apples-home-app-in-ios-16-has-an-all-new-design?utm_medium=rss)<!-- TECH:END -->
+ - [Jordan Peele’s Nope is a breathtaking celebration of filmmaking as an art form](https://www.theverge.com/23271236/nope-jordan-peele-review)
+ - [Daily deals July 21: $300 off MacBook Pro, 41% off LG 55-inch 4K OLED TV, more](https://appleinsider.com/articles/22/07/21/daily-deals-july-21-300-off-macbook-pro-41-off-lg-55-inch-4k-oled-tv-more?utm_medium=rss)
+ - [Warner Music adopts SoundCloud’s user-centric revenue model](https://www.theverge.com/2022/7/21/23272548/warner-music-soundcloud-user-centric-model-spotify)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
