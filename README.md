@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)
- - ⏩ [*The Cat game launches*](http://9gag.com/gag/aM4L33M)
+ - 💣 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
+ - ⏩ [Xu Xiadong is a Chinese MMA fighter who fought around the mainland to expose fake kung fu masters](http://9gag.com/gag/aZrY9o0)
  - 👉 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
 
 ---
