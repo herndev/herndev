@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
- - ⏩ [Xu Xiadong is a Chinese MMA fighter who fought around the mainland to expose fake kung fu masters](http://9gag.com/gag/aZrY9o0)
- - 👉 [Kebab can&#39;t even caterpillar.](http://9gag.com/gag/a0Z3Adn)<!-- MEMES:END -->
+ - 💣 [Why I don&#39;t want to be cryogenically frozen. &lpar;1:34&rpar;](http://9gag.com/gag/amgZD9j)
+ - ⏩ [Rodent Fights Snake To Get Baby Back](http://9gag.com/gag/aVx6G62)
+ - 👉 [Hans?!](http://9gag.com/gag/ay9KgNW)<!-- MEMES:END -->
 
 ---
 
