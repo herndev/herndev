@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Psychological Mario](http://9gag.com/gag/a510eNL)
+ - 💣 [Effective](http://9gag.com/gag/a0Zy8gO)
  - ⏩ [Old but gold.](http://9gag.com/gag/a31XPW5)
  - 👉 [F**king sad how a woman can completely f**k-up her face.](http://9gag.com/gag/aGz4KpZ)<!-- MEMES:END -->
 
