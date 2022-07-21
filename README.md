@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We have good and bad news about that video of the robot dog firing a gun](https://www.theverge.com/2022/7/21/23272237/robot-dog-gun-skynet-russia-alexander-atamanov)
- - [War of Heroes, a game from Myanmar-born developers, lets opponents of the country&#39;s military coup kill virtual soldiers and raise money for real-life resistance &lpar;Richard C. Paddock/New York Times&rpar;](http://www.techmeme.com/220721/p6#a220721p6)
- - [China fined Didi Global $1.2B after a year-long probe, the regulator said for illegal operations that threatened national security &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220721/p5#a220721p5)<!-- TECH:END -->
+ - [It looks like a 5-way fight for the lead in India’s smartphone market](https://www.androidauthority.com/india-q2-2022-market-share-3188741/)
+ - [NASA&#39;s Webb Space Telescope&#39;s First Data Has Astronomers on Twitter Buzzing     - CNET](https://www.cnet.com/science/space/nasas-webb-space-telescopes-first-data-has-astronomers-on-twitter-buzzing/#ftag=CAD590a51e)
+ - [We have good and bad news about that video of the robot dog firing a gun](https://www.theverge.com/2022/7/21/23272237/robot-dog-gun-skynet-russia-alexander-atamanov)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
