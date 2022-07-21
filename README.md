@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mysterious pro-Kari Lake PAC paid fake elector $2 million for ads and promotion](https://www.theverge.com/2022/7/21/23273007/kari-lake-arizona-governor-jake-hoffman-karrin-taylor-robson-rally-forge-pac)
- - [Whatnot, a livestreaming service for buying and selling collectibles, has raised a $260M Series D at a $3.7B valuation, up from $1.5B in September 2021 &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/220721/p28#a220721p28)
- - [Get Discovery+ during Shark Week for $0.99 per month for two months](https://appleinsider.com/articles/22/07/21/get-discovery-during-shark-week-for-099-per-month-for-two-months?utm_medium=rss)<!-- TECH:END -->
+ - [Yes, crypto Twitter, the Southern District of New York is reading your tweets](https://www.theverge.com/2022/7/21/23273103/crypto-coinbase-insider-trading-sdny-never-tweet)
+ - [Instagram says new video posts shorter than 15 minutes will be shared as Reels, and those under 90 seconds from public accounts will be recommended to others &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220721/p29#a220721p29)
+ - [Katy Huberty is no longer covering Apple for Morgan Stanley](https://appleinsider.com/articles/22/07/21/katy-huberty-is-no-longer-covering-apple-for-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
