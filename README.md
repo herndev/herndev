@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neopets Hacker Steals 69 Million Accounts, Tries To Sell Them For Bitcoin](https://kotaku.com/neopets-hacker-breach-data-pets-bitcoin-theft-crime-1849315409)
- - [San Diego Comic-Con 2022](https://www.polygon.com/sdcc/23186970/san-diego-comic-con-2022)
- - [Ubisoft cancels Ghost Recon battle royale game that got so much hate](https://www.polygon.com/23272721/ghost-recon-battle-royale-frontline-canceled-ubisoft)<!-- GAME:END -->
+ - [It’s Too Hot To Play Video Games](https://kotaku.com/it-s-too-hot-to-play-video-games-1847410462)
+ - [Quick, I Need $200 For This Figure Of Cloud Strife In A Dress](https://kotaku.com/ff7-final-fantasy-7-remake-cloud-strife-dress-figure-1849315632)
+ - [Trans Streamer Keffals Says Twitch Banned Her For &#39;Openly Talking&#39; About Abuse She Receives](https://kotaku.com/twitch-ban-keffals-destiny-trans-hate-speech-slur-1849315462)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
