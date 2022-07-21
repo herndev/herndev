@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Square Enix summons Meteor, launches its NFT project](https://www.theverge.com/2022/7/20/23271832/square-enix-nft-final-fantasy-vii-enjin-blockchain)
- - [Qualcomm unveils the Snapdragon W5 Gen 1 and W5+ Gen 1 chips for wearables, based on 4nm process and debuting in watches from Oppo and Mobvoi &lpar;Andrew Myrick/Android Central&rpar;](http://www.techmeme.com/220720/p28#a220720p28)
- - [Mojang blocks NFTs in Minecraft](https://www.theverge.com/2022/7/20/23272152/minecraft-mojang-blocks-rejects-nfts)<!-- TECH:END -->
+ - [Google Pixel 6a pre-orders start in India, first Pixel there since Pixel 4a](https://www.androidauthority.com/google-pixel-6a-india-3188503/)
+ - [Samsung says it sold nearly 10M Fold3 and Flip3 devices combined over the past year, up 300%+ from 2020; ~70% of foldable customers bought the Flip3 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220720/p29#a220720p29)
+ - [Pokemon Go Moltres Raid Guide: Best Counters, Weaknesses and Moveset     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-moltres-raid-guide-best-counters-weaknesses-and-moveset/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
