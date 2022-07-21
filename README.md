@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big Ghey](http://9gag.com/gag/a31XvdQ)
- - ⏩ [Black Magic](http://9gag.com/gag/awzWNp4)
+ - 💣 [It&#39;s all coming together](http://9gag.com/gag/aM4MeMV)
+ - ⏩ [Turtle got stuck on its way to the sea and this bro here help it out &lpar;Utila, Honduras&rpar;](http://9gag.com/gag/aPZb6Yw)
  - 👉 [Actually scary](http://9gag.com/gag/adgDyR2)<!-- MEMES:END -->
 
 ---
