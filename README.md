@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Pokémon Squishmallows are exceptionally cute](https://www.polygon.com/sdcc/23272711/pokemon-squishmallows-pikachu-gengar-sdcc-2022)
- - [Watch the Gran Turismo World Series — Everything you need to know](https://blog.playstation.com/2022/07/21/watch-the-gran-turismo-world-series-everything-you-need-to-know/)
- - [Free Play Days – Farming Simulator 22, NASCAR 21: Ignition, and Hell Let Loose](https://news.xbox.com/en-us/2022/07/21/free-play-days-farming-simulator-22-nascar-21-ignition-and-hell-let-loose/)<!-- GAME:END -->
+ - [PUBG: Battlegrounds – New 8×8 Map Deston is Finally Available](https://news.xbox.com/en-us/2022/07/21/pubg-battlegrounds-new-8x8-map-deston-is-finally-available/)
+ - [Disney Plus adding R-rated Marvel movies, including Deadpool](https://www.polygon.com/sdcc/23272637/deadpool-1-2-logan-disney-plus-marvel-r-rated-wolverine)
+ - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
