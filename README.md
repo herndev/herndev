@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stolen AirPods lead to high-speed chase and arrests](https://appleinsider.com/articles/22/07/21/stolen-airpods-lead-to-high-speed-chase-and-arrests?utm_medium=rss)
- - [Dungeons &amp; Dragons: Honor Among Thieves looks like a celebrity-filled LARP in first trailer](https://www.theverge.com/2022/7/21/23268392/dungeons-dragons-honor-among-thieves-trailer-sdcc)
- - [Snap plans to &quot;substantially reduce&quot; hiring, authorizes a stock repurchase program of up to $500M, and locks in CEO and CTO roles until at least January 1, 2027 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220721/p33#a220721p33)<!-- TECH:END -->
+ - [Google’s adding the app permissions section back to the Play Store after removing it](https://www.theverge.com/2022/7/21/23273288/google-play-store-permissions-section-data-safety-reenabled)
+ - [Nobody knows what’s in Pink Sauce, TikTok’s latest viral product](https://www.theverge.com/2022/7/21/23273221/pink-sauce-tiktok-viral-product-mystery-condiment)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
