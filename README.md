@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lots of Content, Lots of Logging – Farming Simulator 22 is Growing](https://news.xbox.com/en-us/2022/07/21/lots-of-content-lots-of-logging-farming-simulator-22-is-growing/)
- - [FIFA 23 will not have Russian teams, EA confirms](https://www.pcgamer.com/fifa-23-will-not-have-russian-teams-ea-confirms)
- - [Even GTA Online can&#39;t escape high gas prices and record-breaking heat](https://www.pcgamer.com/even-gta-online-cant-escape-high-gas-prices-and-record-breaking-heat)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons: Honor Among Thieves star Sophia Lillis knows Critical Role brought you here](https://www.polygon.com/sdcc/23273355/dungeons-dragons-honor-among-thieves-sophia-lillis-critical-role)
+ - [22 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Fake Pokémon Scarlet And Violet Leak Sneakily Mocks Thirsty Fans](https://kotaku.com/pokemon-scarlet-violet-leak-fuecoco-dumbass-girlfriend-1849316497)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
