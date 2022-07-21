@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What to Expect in the First Stranger of Paradise Final Fantasy Origin Expansion, Trials of the Dragon King](https://news.xbox.com/en-us/2022/07/21/stranger-of-paradise-expansion/)
- - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)
- - [Halo Infinite’s Player Stats Problem Is About To Get A Lot Worse](https://kotaku.com/halo-infinite-halodotapi-343-industries-microsoft-xbox-1849314904)<!-- GAME:END -->
+ - [Neopets Hacker Steals 69 Million Accounts, Tries To Sell Them For Bitcoin](https://kotaku.com/neopets-hacker-breach-data-pets-bitcoin-theft-crime-1849315409)
+ - [San Diego Comic-Con 2022](https://www.polygon.com/sdcc/23186970/san-diego-comic-con-2022)
+ - [Ubisoft cancels Ghost Recon battle royale game that got so much hate](https://www.polygon.com/23272721/ghost-recon-battle-royale-frontline-canceled-ubisoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
