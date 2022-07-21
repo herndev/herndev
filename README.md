@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta and Google&#39;s content rules are restrictive for many abortion-rights groups worldwide, while abortion ads on Google aren&#39;t permitted in dozens of countries &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220721/p4#a220721p4)
- - [YouTube Music could finally get a key feature from Play Music](https://www.androidauthority.com/youtube-music-sleep-timer-3188736/)
- - [Ofcom: TikTok is the fastest growing news source among UK adults, being used by 7%, up from 1% in 2020; 32% use Facebook, 17% use Twitter, and 16% use Instagram &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220721/p3#a220721p3)<!-- TECH:END -->
+ - [We have good and bad news about that video of the robot dog firing a gun](https://www.theverge.com/2022/7/21/23272237/robot-dog-gun-skynet-russia-alexander-atamanov)
+ - [War of Heroes, a game from Myanmar-born developers, lets opponents of the country&#39;s military coup kill virtual soldiers and raise money for real-life resistance &lpar;Richard C. Paddock/New York Times&rpar;](http://www.techmeme.com/220721/p6#a220721p6)
+ - [China fined Didi Global $1.2B after a year-long probe, the regulator said for illegal operations that threatened national security &lpar;Coco Liu/Bloomberg&rpar;](http://www.techmeme.com/220721/p5#a220721p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
