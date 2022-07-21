@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Square Enix&#39;s Final Fantasy VII NFTs Are Stupid Little Things](https://kotaku.com/final-fantasy-vii-square-enix-nft-blockchain-scam-1849241965)
- - [Minecraft Bans NFTs And Blockchain, Which &#39;Do Not Align&#39; With Game&#39;s &#39;Values&#39;](https://kotaku.com/minecraft-nft-blockchain-mojang-microsoft-ban-scam-1849234967)
- - [You can just rename jfifs to jpegs](https://www.pcgamer.com/you-can-just-rename-jfifs-to-jpegs)<!-- GAME:END -->
+ - [Gearbox Closing Forums, Moving To Discord](https://kotaku.com/gearbox-forums-discord-community-chat-closing-moving-1849251519)
+ - [Fallout 4 isn&#39;t the best Fallout game, but it&#39;s the best one to play today](https://www.pcgamer.com/fallout-4-isnt-the-best-fallout-game-but-its-the-best-one-to-play-today)
+ - [The biggest gaming news for July 20, 2022](https://game-rant-2022.blogspot.com/2022/07/the-biggest-gaming-news-for-july-20-2022.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
