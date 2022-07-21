@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It looks like a 5-way fight for the lead in India’s smartphone market](https://www.androidauthority.com/india-q2-2022-market-share-3188741/)
- - [NASA&#39;s Webb Space Telescope&#39;s First Data Has Astronomers on Twitter Buzzing     - CNET](https://www.cnet.com/science/space/nasas-webb-space-telescopes-first-data-has-astronomers-on-twitter-buzzing/#ftag=CAD590a51e)
- - [We have good and bad news about that video of the robot dog firing a gun](https://www.theverge.com/2022/7/21/23272237/robot-dog-gun-skynet-russia-alexander-atamanov)<!-- TECH:END -->
+ - [Daily Authority: 📱 Google Pixel 5a still good?](https://www.androidauthority.com/daily-authority-july-21-2022-3188735/)
+ - [Anyone can now share Twitter Spaces clips on iOS and Android](https://www.theverge.com/2022/7/21/23272456/twitter-spaces-clipping-ios-android-widespread-rollout)
+ - [It looks like a 5-way fight for the lead in India’s smartphone market](https://www.androidauthority.com/india-q2-2022-market-share-3188741/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
