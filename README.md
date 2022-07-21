@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A chip teardown shows that China&#39;s SMIC is quietly shipping 7nm chips; SMIC is rapidly approaching as the world&#39;s third largest foundry, behind TSMC and Samsung &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/220721/p2#a220721p2)
- - [Dell’s XPS 13 Plus is the first laptop certified for Ubuntu 22.04 LTS](https://www.theverge.com/2022/7/21/23272166/dell-xps-13-plus-project-sputnik-linux-laptop-ubuntu)
- - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)<!-- TECH:END -->
+ - [Meta and Google&#39;s content rules are restrictive for many abortion-rights groups worldwide, while abortion ads on Google aren&#39;t permitted in dozens of countries &lpar;Issie Lapowsky/Protocol&rpar;](http://www.techmeme.com/220721/p4#a220721p4)
+ - [YouTube Music could finally get a key feature from Play Music](https://www.androidauthority.com/youtube-music-sleep-timer-3188736/)
+ - [Ofcom: TikTok is the fastest growing news source among UK adults, being used by 7%, up from 1% in 2020; 32% use Facebook, 17% use Twitter, and 16% use Instagram &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/220721/p3#a220721p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
