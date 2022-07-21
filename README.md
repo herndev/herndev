@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [13 must-watch anime to look out for in the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
- - [Step right up to Circus Electrique, Zen Studios’ steampunk-circus RPG coming September 6](https://blog.playstation.com/2022/07/21/step-right-up-to-circus-electrique-zen-studios-steampunk-circus-rpg-coming-september-6/)
- - [I terrorized London with a team of clowns in this upcoming circus tactics game inspired by Darkest Dungeon](https://www.pcgamer.com/i-terrorized-london-with-a-team-of-clowns-in-this-upcoming-circus-tactics-game-inspired-by-darkest-dungeon)<!-- GAME:END -->
+ - [Five over-the-top co-op moments from Saints Row, out August 23](https://blog.playstation.com/2022/07/21/five-over-the-top-co-op-moments-from-saints-row-out-august-23/)
+ - [Live A Live’s characters can’t hold the weight of its time-hopping story](https://www.polygon.com/reviews/23271849/live-a-live-review-remake-nintendo-switch-square-enix-release-date-takashi-tokita)
+ - [13 must-watch anime to look out for in the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
