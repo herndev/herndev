@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything we know about WoW Shadowlands Season 4](https://www.pcgamer.com/world-of-warcraft-wow-shadowlands-season-4)
- - [Every Elden Ring map fragment and where to find them](https://www.pcgamer.com/elden-ring-map-fragments-locations)
- - [Newegg&#39;s GPU-focused mini site is &#39;reducing the hassle and frustration&#39; of buying a graphics card](https://www.pcgamer.com/neweggs-gpu-focused-mini-site-is-reducing-the-hassle-and-frustration-of-buying-a-graphics-card)<!-- GAME:END -->
+ - [13 must-watch anime to look out for in the 2022 summer season](https://www.polygon.com/22852808/new-anime-2022-how-to-watch)
+ - [Step right up to Circus Electrique, Zen Studios’ steampunk-circus RPG coming September 6](https://blog.playstation.com/2022/07/21/step-right-up-to-circus-electrique-zen-studios-steampunk-circus-rpg-coming-september-6/)
+ - [I terrorized London with a team of clowns in this upcoming circus tactics game inspired by Darkest Dungeon](https://www.pcgamer.com/i-terrorized-london-with-a-team-of-clowns-in-this-upcoming-circus-tactics-game-inspired-by-darkest-dungeon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
