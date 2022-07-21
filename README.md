@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #397: Thursday, July 21](https://www.pcgamer.com/todays-wordle-july-21-397-answer-hint)
  - [The Core i5 13600K looks mighty in this early leak](https://www.pcgamer.com/the-core-i5-13600k-looks-mighty-in-this-early-leak)
- - [Western Digital&#39;s 22TB hard drives are available to buy](https://www.pcgamer.com/western-digitals-22tb-hard-drives-are-available-to-buy)
- - [Gearbox Closing Forums, Moving To Discord](https://kotaku.com/gearbox-forums-discord-community-chat-closing-moving-1849251519)<!-- GAME:END -->
+ - [Western Digital&#39;s 22TB hard drives are available to buy](https://www.pcgamer.com/western-digitals-22tb-hard-drives-are-available-to-buy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
