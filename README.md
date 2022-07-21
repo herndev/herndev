@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Google Pixel 5a still good?](https://www.androidauthority.com/daily-authority-july-21-2022-3188735/)
- - [Anyone can now share Twitter Spaces clips on iOS and Android](https://www.theverge.com/2022/7/21/23272456/twitter-spaces-clipping-ios-android-widespread-rollout)
- - [It looks like a 5-way fight for the lead in India’s smartphone market](https://www.androidauthority.com/india-q2-2022-market-share-3188741/)<!-- TECH:END -->
+ - [Dublin-based Fonoa, which makes an automated tax compliance service used by companies like Uber and Zoom, has raised a $60M Series B led by Coatue &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220721/p9#a220721p9)
+ - [The new Google Wallet is now available to all users](https://www.theverge.com/2022/7/20/23270301/google-wallet-return-android-payment-cards-keys-id)
+ - [Meta&#39;s research, published internally in February, reveals Facebook&#39;s challenges in India, including that women are shunning it due to safety concerns and more &lpar;Reuters&rpar;](http://www.techmeme.com/220721/p8#a220721p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
