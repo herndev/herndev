@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I don&#39;t want to be cryogenically frozen. &lpar;1:34&rpar;](http://9gag.com/gag/amgZD9j)
+ - 💣 [If that happened today, idiots would claim its a hoax and we should actually increase CFC to not hurt the economy.](http://9gag.com/gag/ay9KgAq)
  - ⏩ [Rodent Fights Snake To Get Baby Back](http://9gag.com/gag/aVx6G62)
- - 👉 [Hans?!](http://9gag.com/gag/ay9KgNW)<!-- MEMES:END -->
+ - 👉 [My other one rule.](http://9gag.com/gag/a81xd43)<!-- MEMES:END -->
 
 ---
 
