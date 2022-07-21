@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
- - ⏩ [Bored?](http://9gag.com/gag/a0ZyPVZ)
- - 👉 [Da f**k they doin ova der?! Seriously, I was considering renewing my VISA because I enjoyed LA 10 years ago. But according to 9GAG, California has become one of the worst for this...](http://9gag.com/gag/a81xWjV)<!-- MEMES:END -->
+ - 💣 [Probably paint identifies as Skype in Netflix universe](http://9gag.com/gag/aqGoZqY)
+ - ⏩ [Sure You Don&#39;t Want a Job on an Oil Rig?](http://9gag.com/gag/aE8mGpo)
+ - 👉 [I need to know for highly important academic research](http://9gag.com/gag/aLv7KWV)<!-- MEMES:END -->
 
 ---
 
