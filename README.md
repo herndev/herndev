@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Square Enix&#39;s Final Fantasy VII NFTs Are Stupid Little Things](https://kotaku.com/final-fantasy-vii-square-enix-nft-blockchain-scam-1849241965)
  - [Minecraft Bans NFTs And Blockchain, Which &#39;Do Not Align&#39; With Game&#39;s &#39;Values&#39;](https://kotaku.com/minecraft-nft-blockchain-mojang-microsoft-ban-scam-1849234967)
- - [You can just rename jfifs to jpegs](https://www.pcgamer.com/you-can-just-rename-jfifs-to-jpegs)
- - [Hard-To-Get Infamous Second Son DLC Now Free On PlayStation Store](https://kotaku.com/infamous-second-son-sucker-punch-sony-playstation-ghost-1849228187)<!-- GAME:END -->
+ - [You can just rename jfifs to jpegs](https://www.pcgamer.com/you-can-just-rename-jfifs-to-jpegs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
