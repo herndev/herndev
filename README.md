@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)
- - [Experts say chiplet-based designs, which let AMD make a full suite of server chips to compete with Intel, will quickly become a dominant form of chip design &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220721/p1#a220721p1)
- - [Eve’s new motion sensor is the first with Thread](https://www.theverge.com/2022/7/21/23271631/eve-motion-sensor-thread-matter-homekit-specs-release-date-price)<!-- TECH:END -->
+ - [A chip teardown shows that China&#39;s SMIC is quietly shipping 7nm chips; SMIC is rapidly approaching as the world&#39;s third largest foundry, behind TSMC and Samsung &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/220721/p2#a220721p2)
+ - [Dell’s XPS 13 Plus is the first laptop certified for Ubuntu 22.04 LTS](https://www.theverge.com/2022/7/21/23272166/dell-xps-13-plus-project-sputnik-linux-laptop-ubuntu)
+ - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
