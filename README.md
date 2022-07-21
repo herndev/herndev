@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filings: Samsung is considering building 11 new chipmaking facilities in the Austin area over the next two decades, which could lead to ~$192B in new investment &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/220720/p32#a220720p32)
- - [Final Fantasy 7 NFTs Are Coming Next Year -- Kind Of     - CNET](https://www.cnet.com/personal-finance/crypto/final-fantasy-7-nfts-are-coming-next-year-kind-of/#ftag=CAD590a51e)
- - [Shanghai-based JAKA Robotics, which makes collaborative industrial robots that work alongside humans, has raised a $150M Series D led by Temasek and others &lpar;Noriyuki Doi/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p31#a220720p31)<!-- TECH:END -->
+ - [Better than Prime Day pricing hits Apple&#39;s 14-inch &amp; 16-inch MacBook Pro, as low as $1,749](https://appleinsider.com/articles/22/07/21/better-than-prime-day-pricing-hits-apples-14-inch-and-16-inch-macbook-pro-as-low-as-1749?utm_medium=rss)
+ - [Experts say chiplet-based designs, which let AMD make a full suite of server chips to compete with Intel, will quickly become a dominant form of chip design &lpar;Max A. Cherney/Protocol&rpar;](http://www.techmeme.com/220721/p1#a220721p1)
+ - [Eve’s new motion sensor is the first with Thread](https://www.theverge.com/2022/7/21/23271631/eve-motion-sensor-thread-matter-homekit-specs-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
