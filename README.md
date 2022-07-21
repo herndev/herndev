@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Yes. yes, very sad.](http://9gag.com/gag/avAjYNM)
- - ⏩ [Easy win](http://9gag.com/gag/apgMWzW)
- - 👉 [Netflix... Always Netflix.](http://9gag.com/gag/aQXjwM8)<!-- MEMES:END -->
+ - ⏩ [Why I don&#39;t want to be cryogenically frozen. &lpar;1:34&rpar;](http://9gag.com/gag/amgZD9j)
+ - 👉 [*The Cat game launches*](http://9gag.com/gag/aM4L33M)<!-- MEMES:END -->
 
 ---
 
