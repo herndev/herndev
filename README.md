@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If that happened today, idiots would claim its a hoax and we should actually increase CFC to not hurt the economy.](http://9gag.com/gag/ay9KgAq)
- - ⏩ [Rodent Fights Snake To Get Baby Back](http://9gag.com/gag/aVx6G62)
- - 👉 [My other one rule.](http://9gag.com/gag/a81xd43)<!-- MEMES:END -->
+ - 💣 [F**king sad how a woman can completely f**k-up her face.](http://9gag.com/gag/aGz4KpZ)
+ - ⏩ [Today my wife told me she f**ked a guy for no reason worst feeling I felt ever. KINGS help.](http://9gag.com/gag/aDDvB5d)
+ - 👉 [Bummer](http://9gag.com/gag/a81gPnV)<!-- MEMES:END -->
 
 ---
 
