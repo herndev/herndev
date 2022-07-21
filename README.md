@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG: Battlegrounds – New 8×8 Map Deston is Finally Available](https://news.xbox.com/en-us/2022/07/21/pubg-battlegrounds-new-8x8-map-deston-is-finally-available/)
- - [Disney Plus adding R-rated Marvel movies, including Deadpool](https://www.polygon.com/sdcc/23272637/deadpool-1-2-logan-disney-plus-marvel-r-rated-wolverine)
- - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)<!-- GAME:END -->
+ - [What to Expect in the First Stranger of Paradise Final Fantasy Origin Expansion, Trials of the Dragon King](https://news.xbox.com/en-us/2022/07/21/stranger-of-paradise-expansion/)
+ - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)
+ - [Halo Infinite’s Player Stats Problem Is About To Get A Lot Worse](https://kotaku.com/halo-infinite-halodotapi-343-industries-microsoft-xbox-1849314904)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
