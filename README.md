@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live A Live is an experimental short story collection disguised as a classic RPG](https://www.theverge.com/2022/7/21/23271592/live-a-live-review-nintendo-switch)
- - [Framework Laptop &lpar;2022&rpar; review: promises kept](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
- - [Stockholm-based Normative, whose software helps companies accurately measure their carbon footprints, has raised a $31M Series B led by Blume Equity &lpar;Benjamin Robertson/Bloomberg&rpar;](http://www.techmeme.com/220721/p19#a220721p19)<!-- TECH:END -->
+ - [Subscription model will drive Apple&#39;s $3T market valuation, analyst says](https://appleinsider.com/articles/22/07/21/subscription-model-will-drive-apples-3t-market-valuation-analyst-says?utm_medium=rss)
+ - [Airbnb co-founder Joe Gebbia is stepping down from his role at the company, the first of the three original founders to step down, but will remain on its board &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220721/p22#a220721p22)
+ - [President Joe Biden tests positive for COVID-19](https://www.theverge.com/2022/7/21/23272693/joe-biden-covid-19-positive-test-symptoms-paxlovid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
