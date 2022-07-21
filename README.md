@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jordan Peele’s Nope is a breathtaking celebration of filmmaking as an art form](https://www.theverge.com/23271236/nope-jordan-peele-review)
- - [Daily deals July 21: $300 off MacBook Pro, 41% off LG 55-inch 4K OLED TV, more](https://appleinsider.com/articles/22/07/21/daily-deals-july-21-300-off-macbook-pro-41-off-lg-55-inch-4k-oled-tv-more?utm_medium=rss)
- - [Warner Music adopts SoundCloud’s user-centric revenue model](https://www.theverge.com/2022/7/21/23272548/warner-music-soundcloud-user-centric-model-spotify)<!-- TECH:END -->
+ - [Live A Live is an experimental short story collection disguised as a classic RPG](https://www.theverge.com/2022/7/21/23271592/live-a-live-review-nintendo-switch)
+ - [Framework Laptop &lpar;2022&rpar; review: promises kept](https://www.theverge.com/23270191/framework-laptop-12th-gen-2022-review)
+ - [Stockholm-based Normative, whose software helps companies accurately measure their carbon footprints, has raised a $31M Series B led by Blume Equity &lpar;Benjamin Robertson/Bloomberg&rpar;](http://www.techmeme.com/220721/p19#a220721p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
