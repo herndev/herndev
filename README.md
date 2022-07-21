@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dungeons &amp; Dragons: Honor Among Thieves star Sophia Lillis knows Critical Role brought you here](https://www.polygon.com/sdcc/23273355/dungeons-dragons-honor-among-thieves-sophia-lillis-critical-role)
- - [22 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
- - [Fake Pokémon Scarlet And Violet Leak Sneakily Mocks Thirsty Fans](https://kotaku.com/pokemon-scarlet-violet-leak-fuecoco-dumbass-girlfriend-1849316497)<!-- GAME:END -->
+ - [Sarah Michelle Gellar trades vampires for werewolves, joins the Teen Wolf universe](https://www.polygon.com/sdcc/23273490/teen-wolf-universe-sarah-michelle-gellar-sdcc)
+ - [Roblox Updating Its Potato Graphics To Look Mildly More Realistic](https://kotaku.com/roblox-graphics-adopt-me-metaverse-scam-1849316894)
+ - [The D&amp;D movie’s first trailer is stuffed with all the things that make D&amp;D fun](https://www.polygon.com/sdcc/23273389/dnd-movie-trailer-is-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
