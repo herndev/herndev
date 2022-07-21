@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6a pre-orders start in India, first Pixel there since Pixel 4a](https://www.androidauthority.com/google-pixel-6a-india-3188503/)
- - [Samsung says it sold nearly 10M Fold3 and Flip3 devices combined over the past year, up 300%+ from 2020; ~70% of foldable customers bought the Flip3 &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220720/p29#a220720p29)
- - [Pokemon Go Moltres Raid Guide: Best Counters, Weaknesses and Moveset     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-moltres-raid-guide-best-counters-weaknesses-and-moveset/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Shanghai-based JAKA Robotics, which makes collaborative industrial robots that work alongside humans, has raised a $150M Series D led by Temasek and others &lpar;Noriyuki Doi/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p31#a220720p31)
+ - [Lyft closes its car rental service, which was running in five locations, but will still offer third-party rentals in 30+ locations, as it lays off 60 employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220720/p30#a220720p30)
+ - [How to delete your Twitch account on any device](https://www.androidauthority.com/delete-twitch-account-3188717/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
