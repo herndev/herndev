@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Yes, crypto Twitter, the Southern District of New York is reading your tweets](https://www.theverge.com/2022/7/21/23273103/crypto-coinbase-insider-trading-sdny-never-tweet)
- - [Instagram says new video posts shorter than 15 minutes will be shared as Reels, and those under 90 seconds from public accounts will be recommended to others &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220721/p29#a220721p29)
- - [Katy Huberty is no longer covering Apple for Morgan Stanley](https://appleinsider.com/articles/22/07/21/katy-huberty-is-no-longer-covering-apple-for-morgan-stanley?utm_medium=rss)<!-- TECH:END -->
+ - [Twitch is rolling out new moderator tools, including letting channels swap ban lists and inviting communities to collaborate on locking disruptive users out &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/220721/p31#a220721p31)
+ - [Android is ready for the Pixel Buds Pro’s AirPods-like audio switching trick](https://www.theverge.com/2022/7/21/23273231/android-pixel-buds-pro-audio-automatic-switching-headphones)
+ - [Flash deal: save $150 on Apple&#39;s Mac Studio, plus add AppleCare for $1 today only](https://appleinsider.com/articles/22/07/21/flash-deal-save-150-on-apples-mac-studio-plus-add-applecare-for-1-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
