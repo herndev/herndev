@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shanghai-based JAKA Robotics, which makes collaborative industrial robots that work alongside humans, has raised a $150M Series D led by Temasek and others &lpar;Noriyuki Doi/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p31#a220720p31)
- - [Lyft closes its car rental service, which was running in five locations, but will still offer third-party rentals in 30+ locations, as it lays off 60 employees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220720/p30#a220720p30)
- - [How to delete your Twitch account on any device](https://www.androidauthority.com/delete-twitch-account-3188717/)<!-- TECH:END -->
+ - [Filings: Samsung is considering building 11 new chipmaking facilities in the Austin area over the next two decades, which could lead to ~$192B in new investment &lpar;Austin American-Statesman&rpar;](http://www.techmeme.com/220720/p32#a220720p32)
+ - [Final Fantasy 7 NFTs Are Coming Next Year -- Kind Of     - CNET](https://www.cnet.com/personal-finance/crypto/final-fantasy-7-nfts-are-coming-next-year-kind-of/#ftag=CAD590a51e)
+ - [Shanghai-based JAKA Robotics, which makes collaborative industrial robots that work alongside humans, has raised a $150M Series D led by Temasek and others &lpar;Noriyuki Doi/Nikkei Asia&rpar;](http://www.techmeme.com/220720/p31#a220720p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
