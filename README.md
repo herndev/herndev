@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard employees walk out again, this time for reproductive protections](https://www.theverge.com/2022/7/21/23272806/activision-blizzard-walkout-roe-v-wade-employee-protections)
- - [TikTok will now let viewers turn on closed captions even if a creator doesn’t](https://www.theverge.com/2022/7/21/23272700/tiktok-auto-captions-subtitles-accessibility-language-translations)
- - [Amazon&#39;s Rivian-built Electric Delivery Fleet Hits the Road Across US Cities     - CNET](https://www.cnet.com/news/amazons-rivian-built-electric-delivery-fleet-hits-the-road-across-us-cities/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 6a review: Nobody &lpar;but Google&rpar; puts Google in a corner](https://www.androidauthority.com/google-pixel-6a-review-3186645/)
+ - [Google Pixel 6A review: midrange parts, Tensor smarts](https://www.theverge.com/23272042/google-pixel-6a-review-screen-price-specs-battery-camera)
+ - [Flash deal: save $150 on Apple&#39;s Mac Studio, plus add AppleCare for $1 today only](https://appleinsider.com/articles/22/07/21/flash-deal-save-150-on-apples-mac-studio-plus-add-applecare-for-1-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
