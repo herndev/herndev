@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pro-Russia authorities will ban Google in occupied regions of Ukraine](https://www.theverge.com/2022/7/22/23274134/google-banned-occupied-ukraine-russia-war-donetsk-luhansk)
- - [California approves new rules to let candidates for state and local offices accept cryptocurrency donations if they immediately convert them to US dollars &lpar;Associated Press&rpar;](http://www.techmeme.com/220722/p10#a220722p10)
- - [Bellroy iPhone Mod Case + Wallet review: A MagSafe case with a near-perfect companion wallet](https://appleinsider.com/articles/22/07/22/bellroy-iphone-mod-case-wallet-review-a-magsafe-case-with-a-near-perfect-companion-wallet?utm_medium=rss)<!-- TECH:END -->
+ - [Meta introduces a Mature Worlds Policy for Horizon, a new content rating system which will default to 18+ if creators do not apply for a rating &lpar;Harry Baker/UploadVR&rpar;](http://www.techmeme.com/220722/p12#a220722p12)
+ - [If you have one of these Thread border routers, your smart home will be Matter-ready](https://www.theverge.com/2022/7/19/23269460/thread-1-3-0-matter-border-routers-homepod-mini-echo-nest)
+ - [This solar-powered smart lock is also a video doorbell](https://www.theverge.com/2022/7/22/23273996/lockly-vision-elite-smart-video-door-lock-price-specs-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
