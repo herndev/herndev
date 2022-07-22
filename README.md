@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📲 Google Pixel 6a reviews are in](https://www.androidauthority.com/daily-authority-july-22-2022-3188961/)
- - [A look at Meta&#39;s $150M Meta Immersive Learning project, through which it has partnered with Iowa-based VR startup VictoryXR to create 10 &quot;metaversities&quot; &lpar;Kwasi Gyamfi Asiedu/Protocol&rpar;](http://www.techmeme.com/220722/p2#a220722p2)
- - [AMD just leaked its Nvidia RTX Voice competitor in a &lpar;now deleted&rpar; video](https://www.theverge.com/2022/7/22/23273859/amd-noise-suppression-machine-learning-reduction-microphone-rtx-voice-competitor)<!-- TECH:END -->
+ - [The Unsolved Mystery Attack on Internet Cables in Paris](https://www.wired.com/story/france-paris-internet-cable-cuts-attack/)
+ - [After Roe, Men Might Finally Get Better Birth Control](https://www.wired.com/story/after-roe-men-might-finally-get-better-birth-control/)
+ - [The Best Laptop Deals Right Now—and Which One Is Right for You](https://www.wired.com/story/best-laptop-deals/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
