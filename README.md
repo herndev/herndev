@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is time to bring up this meme...](http://9gag.com/gag/a113YQY)
- - ⏩ [Work or Starve](http://9gag.com/gag/aVxyXx8)
- - 👉 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
+ - 💣 [Based Ana de Armas](http://9gag.com/gag/a113enP)
+ - ⏩ [Probably paint identifies as Skype in Netflix universe](http://9gag.com/gag/aqGoZqY)
+ - 👉 [It is time to bring up this meme...](http://9gag.com/gag/a113YQY)<!-- MEMES:END -->
 
 ---
 
