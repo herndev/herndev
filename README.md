@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Slash, Choke, And Throw Vanities As Lady Dimitrescu In Resident Evil Village DLC](https://kotaku.com/lady-dimitrescu-choke-resident-evil-village-dlc-1849321380)
- - [This $6 online street racing game has quickly built a small fanbase on Steam](https://www.pcgamer.com/kanjozoku-game-racing-steam)
- - [Batman and Spawn will reunite in new story from Todd McFarlane](https://www.polygon.com/sdcc/23273324/new-batman-spawn-comic-con-todd-mcfarlane-greg-capullo)<!-- GAME:END -->
+ - [PlayStation’s Summer Sale Includes Big Discounts On Star Wars, Assassin’s Creed, And Batman](https://kotaku.com/playstation-summer-sale-best-ps4-ps5-star-wars-batman-1849321596)
+ - [Everything to know about new Lord of the Rings series](https://www.polygon.com/23032806/lotr-rings-power-release-date-cast-trailer)
+ - [World of Warcraft streamer finally finds his rare mount after four years of trying](https://www.pcgamer.com/world-of-warcraft-streamer-finally-finds-his-rare-mount-after-four-years-of-trying)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
