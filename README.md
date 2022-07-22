@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Interview with 3AC founders Su Zhu and Kyle Davies, who could be hiding in UAE, on its &quot;regrettable&quot; collapse, leveraged bets, Luna, risk management, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220722/p15#a220722p15)
- - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [FTX plans to allow customers of bankrupt crypto lender Voyager to create accounts funded by an early distribution of a part of their bankruptcy claims &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220722/p16#a220722p16)
+ - [MultiVersus adds Fortnite characters LeBron James and Rick and Morty](https://www.theverge.com/2022/7/22/23274680/multiversus-lebron-james-rick-and-morty-fortnite)
+ - [&#39;Spider-Man: Freshman Year&#39; Hits Disney Plus in 2024     - CNET](https://www.cnet.com/culture/entertainment/spider-man-freshman-year-hits-disney-plus-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
