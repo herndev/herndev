@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)
- - ⏩ [That&#39;s pretty cool](http://9gag.com/gag/axBqG8n)
- - 👉 [Evergreen oak tree located in Italy](http://9gag.com/gag/a81xMbV)<!-- MEMES:END -->
+ - 💣 [This game could be more fun for the boys!](http://9gag.com/gag/aOQLVGr)
+ - ⏩ [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
+ - 👉 [This is the first imagery we have of tiny cuboid crystals made of tens of molecules of NaCl emerging from the chaotic mixture of separate sodium and chloride ions. In other words, the first-ever atomic resolution video of salt crystals forming in real time](http://9gag.com/gag/aAGz1VZ)<!-- MEMES:END -->
 
 ---
 
