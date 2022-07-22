@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [This game could be more fun for the boys!](http://9gag.com/gag/aOQLVGr)
- - ⏩ [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)
- - 👉 [This is the first imagery we have of tiny cuboid crystals made of tens of molecules of NaCl emerging from the chaotic mixture of separate sodium and chloride ions. In other words, the first-ever atomic resolution video of salt crystals forming in real time](http://9gag.com/gag/aAGz1VZ)<!-- MEMES:END -->
+ - ⏩ [Damn these teenies.](http://9gag.com/gag/a61Y7yb)
+ - 👉 [Shocking.](http://9gag.com/gag/aKmoqnZ)<!-- MEMES:END -->
 
 ---
 
