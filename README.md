@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These new Pixel 6a skins turn your phone into a Ninja Turtle](https://www.androidauthority.com/google-pixel-6a-ninja-turtles-skin-3189282/)
- - [Here’s how much you see your lock screen and what you think of content on it](https://www.androidauthority.com/android-lock-screen-poll-results-3189265/)
- - [It’ll now be less frustrating to switch audio between Android devices](https://www.androidauthority.com/google-audio-switching-bluetooth-earbuds-3187880/)<!-- TECH:END -->
+ - [A look at Meta&#39;s $150M Meta Immersive Learning project, through which it has partnered with Iowa-based VR startup VictoryXR to create 10 &quot;metaversities&quot; &lpar;Kwasi Gyamfi Asiedu/Protocol&rpar;](http://www.techmeme.com/220722/p2#a220722p2)
+ - [AMD just leaked its Nvidia RTX Voice competitor in a &lpar;now deleted&rpar; video](https://www.theverge.com/2022/7/22/23273859/amd-noise-suppression-machine-learning-reduction-microphone-rtx-voice-competitor)
+ - [These new Pixel 6a skins turn your phone into a Ninja Turtle](https://www.androidauthority.com/google-pixel-6a-ninja-turtles-skin-3189282/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
