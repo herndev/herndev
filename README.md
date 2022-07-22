@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus is adding LeBron James, Rick and Morty to roster](https://www.polygon.com/sdcc/23215918/multiversus-rick-and-morty-lebron-james-characters-roster-warner-bros-sdcc-2022)
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [The best webcams in 2022](https://www.pcgamer.com/best-webcams)<!-- GAME:END -->
+ - [Bright Memory: Infinite Platinum Edition is Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/07/22/bright-memory-infinite-platinum-edition-is-now-available-on-xbox-series-xs/)
+ - [Real Human Being LeBron James Is Taking His Talents To MultiVersus](https://kotaku.com/multiversus-lebron-james-rick-morty-dlc-nba-smash-bros-1849320755)
+ - [Amandla Stenberg cast in new Star Wars series The Acolyte](https://www.polygon.com/23274589/star-wars-amandla-stenberg-casting-the-acolyte)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
