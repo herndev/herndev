@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s turf war over Chicago&#39;s &#39;Netflix tax&#39; ends in settlement](https://appleinsider.com/articles/22/07/21/apples-turf-war-over-chicagos-netflix-tax-ends-in-settlement?utm_medium=rss)
- - [Hashflow, a DeFi trading app, raised a $25M Series A from Jump Crypto, Wintermute, and the VC arms of Coinbase and Kraken, among others, at a $400M valuation &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220721/p35#a220721p35)
- - [Google’s adding the app permissions section back to the Play Store after removing it](https://www.theverge.com/2022/7/21/23273288/google-play-store-permissions-section-data-safety-reenabled)<!-- TECH:END -->
+ - [You can make your new Pixel look like a Teenage Mutant Ninja Turtle](https://www.theverge.com/2022/7/21/23273392/google-pixel-6-6a-dbrand-tmnt-tmnp-ninja-turtles-skin)
+ - [&#39;Thor: Love and Thunder&#39; Ending Explained, Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-ending-explained-lingering-questions-answered/#ftag=CAD590a51e)
+ - [Apple is on track for its biggest year of lobbying in 2022, spending $4.6M in H1, as Tim Cook becomes one of the most politically active tech CEOs in the US &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220721/p36#a220721p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
