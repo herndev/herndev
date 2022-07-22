@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snap opens down 33% following its Q2 earnings report; Snap stock is down 77% year-to-date &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220722/p7#a220722p7)
- - [The Bags, Backpacks, Cubes, and Straps to Protect Your Camera](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
- - [How macOS Ventura&#39;s background removal compares to Photoshop, Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Razer is dangling features behind a $30 dongle](https://www.theverge.com/2022/7/22/23271987/razer-hyperpolling-dongle-adapter-gaming-mouse-viper-pro)
+ - [How to enable your iPhone’s screen reader](https://www.theverge.com/23274010/iphone-screen-reader-accessibility-how-to)
+ - [Theator, which uses AI to analyze video captured during surgeries and provide insights, raised $24M led by Insight Partners, bringing its Series A to $39.5M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220722/p8#a220722p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
