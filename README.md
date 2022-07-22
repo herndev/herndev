@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights’ Batgirl trailer shows Barbara Gordon stepping in to fill the Batman void](https://www.polygon.com/sdcc/23269208/gotham-knights-batgirl-barbara-gordon-sdcc-trailer-batman)
- - [Magic&#39;s next set brings back Legends in a big way](https://www.pcgamer.com/magics-next-set-brings-back-legends-in-a-big-way)
- - [Dungeons and Dragons: Honor Among Thieves trailer has an owlbear, a mimic, and Hugh Grant](https://www.pcgamer.com/dungeons-and-dragons-honor-among-thieves-trailer-has-an-owl-bear-a-mimic-and-hugh-grant)<!-- GAME:END -->
+ - [How Naughty Dog rebuilt The Last of Us Part I](https://blog.playstation.com/2022/07/21/how-naughty-dog-rebuilt-the-last-of-us-part-i/)
+ - [New RE Village The Mercenaries Additional Orders details revealed](https://blog.playstation.com/2022/07/21/new-re-village-the-mercenaries-additional-orders-details-revealed/)
+ - [What Other Games Could Use Bayonetta 3&#39;s Family-Friendly Mode?](https://kotaku.com/bayonetta-3-devil-may-cry-platinumgames-nintendo-switch-1849317412)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
