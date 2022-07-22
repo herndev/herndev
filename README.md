@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gladiator](http://9gag.com/gag/awzWbnx)
- - ⏩ [Based Ana de Armas](http://9gag.com/gag/a113enP)
- - 👉 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)<!-- MEMES:END -->
+ - 💣 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)
+ - ⏩ [Bored?](http://9gag.com/gag/a0ZyPVZ)
+ - 👉 [Smooth](http://9gag.com/gag/aDDewZB)<!-- MEMES:END -->
 
 ---
 
