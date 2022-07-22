@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
+ - 💣 [Does he have a good point or nah?](http://9gag.com/gag/a81xyMQ)
  - ⏩ [Multiverse of chrises](http://9gag.com/gag/a41OZV6)
- - 👉 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)<!-- MEMES:END -->
+ - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/azeprMx)<!-- MEMES:END -->
 
 ---
 
