@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Capcom Arcade 2nd Stadium Slams Down with 32 More Arcade Classics](https://news.xbox.com/en-us/2022/07/22/capcom-arcade-2nd-stadium-available-now/)
- - [How to get the blocked chests in Xinyan’s domain in Genshin Impact](https://www.polygon.com/genshin-impact-guides/23274295/xinyan-domain-luxurious-chest-vines-blocked-location-puzzle-solution)
- - [Batman Really Is Dead In Gotham Knights &lpar;And The Joker&#39;s MIA&rpar;](https://kotaku.com/gotham-knights-batman-alive-joker-secret-batgirl-1849319699)<!-- GAME:END -->
+ - [MultiVersus is adding LeBron James, Rick and Morty to roster](https://www.polygon.com/sdcc/23215918/multiversus-rick-and-morty-lebron-james-characters-roster-warner-bros-sdcc-2022)
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
+ - [The best webcams in 2022](https://www.pcgamer.com/best-webcams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
