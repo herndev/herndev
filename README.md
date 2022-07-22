@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How macOS Ventura&#39;s background removal compares to Photoshop &amp; Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)
- - [Diablo Immortal is in trouble in China due to Winnie the Pooh](https://www.theverge.com/2022/7/22/23274348/diablo-immortal-china-winnie-the-pooh-launch-date-blizzard-netease)
- - [SpaceX just broke its annual launch record — and it’s only July](https://www.theverge.com/2022/7/22/23273077/spacex-falcon-9-launch-record-2022-32-high-cadence)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Interview with 3AC founders Su Zhu and Kyle Davies, who could be hiding in UAE, on its &quot;regrettable&quot; collapse, leveraged bets, Luna, risk management, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/220722/p15#a220722p15)
+ - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
