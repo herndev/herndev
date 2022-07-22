@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Medina Haram Piazza Shading Umbrellas](http://9gag.com/gag/abgnq7B)
- - ⏩ [Gladiator](http://9gag.com/gag/awzWbnx)
- - 👉 [Welcome to jurrasic park](http://9gag.com/gag/aGz4wy5)<!-- MEMES:END -->
+ - 💣 [Gladiator](http://9gag.com/gag/awzWbnx)
+ - ⏩ [Based Ana de Armas](http://9gag.com/gag/a113enP)
+ - 👉 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)<!-- MEMES:END -->
 
 ---
 
