@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Russian Teams Won&#39;t Be In FIFA 23](https://kotaku.com/russia-fifa-23-ban-removed-ukraine-war-invasion-1849317507)
- - [How Naughty Dog rebuilt The Last of Us Part I](https://blog.playstation.com/2022/07/21/how-naughty-dog-rebuilt-the-last-of-us-part-i/)<!-- GAME:END -->
+ - [Russian Teams Won&#39;t Be In FIFA 23](https://kotaku.com/russia-fifa-23-ban-removed-ukraine-war-invasion-1849317507)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
