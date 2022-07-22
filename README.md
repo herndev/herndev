@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram-based thrift stores in India, Bangladesh, Pakistan, and Nepal are making used clothes popular, even desirable, among young shoppers &lpar;Rest of World&rpar;](http://www.techmeme.com/220722/p1#a220722p1)
- - [Motorola Razr 2022: Everything we know so far &lpar;Updated: July 22&rpar;](https://www.androidauthority.com/motorola-razr-2022-3079713/)
- - [Motorola’s new Razr and first 200MP phone finally have a launch date](https://www.androidauthority.com/motorola-razr-2022-motorola-x30-pro-launch-date-3189255/)<!-- TECH:END -->
+ - [Here’s how much you see your lock screen and what you think of content on it](https://www.androidauthority.com/android-lock-screen-poll-results-3189265/)
+ - [It’ll now be less frustrating to switch audio between Android devices](https://www.androidauthority.com/google-audio-switching-bluetooth-earbuds-3187880/)
+ - [Instagram-based thrift stores in India, Bangladesh, Pakistan, and Nepal are making used clothes popular, even desirable, among young shoppers &lpar;Rest of World&rpar;](http://www.techmeme.com/220722/p1#a220722p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
