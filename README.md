@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Dragon Prince returns to Netflix with a time skip this winter](https://www.polygon.com/sdcc/23274111/the-dragon-prince-season-4-netflix-footage-release-date-sdcc)
- - [Steam Horror Game Challenges You To Beat It Before You Can Refund It](https://kotaku.com/refund-me-if-you-can-steam-sungame-studio-valve-1849319120)
- - [World of Warcraft: Dragonflight&#39;s verdant new zones are the perfect return to Azeroth](https://www.pcgamer.com/world-of-warcraft-dragonflights-verdant-new-zones-are-the-perfect-return-to-azeroth)<!-- GAME:END -->
+ - [10 Things I Wish I Knew Before Playing MultiVersus, WB&#39;s Smash-Like Fighter](https://kotaku.com/multiversus-wb-tips-batman-beta-release-smash-bros-1849318941)
+ - [Magic: The Gathering’s Fortnite cards are up for pre-order, but not for long](https://www.polygon.com/23274172/mtg-fortnite-secret-lair)
+ - [The Best Free Games On Nintendo Switch &lpar;Right Now&rpar;](https://kotaku.com/best-free-games-on-nintendo-switch-kirby-fall-guys-1849319186)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
