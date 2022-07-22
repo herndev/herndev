@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [These new Pixel 6a skins turn your phone into a Ninja Turtle](https://www.androidauthority.com/google-pixel-6a-ninja-turtles-skin-3189282/)
  - [Here’s how much you see your lock screen and what you think of content on it](https://www.androidauthority.com/android-lock-screen-poll-results-3189265/)
- - [It’ll now be less frustrating to switch audio between Android devices](https://www.androidauthority.com/google-audio-switching-bluetooth-earbuds-3187880/)
- - [Instagram-based thrift stores in India, Bangladesh, Pakistan, and Nepal are making used clothes popular, even desirable, among young shoppers &lpar;Rest of World&rpar;](http://www.techmeme.com/220722/p1#a220722p1)<!-- TECH:END -->
+ - [It’ll now be less frustrating to switch audio between Android devices](https://www.androidauthority.com/google-audio-switching-bluetooth-earbuds-3187880/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
