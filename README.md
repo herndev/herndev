@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If we discovered oil on Mars](http://9gag.com/gag/aBnBY0z)
- - ⏩ [Shocking.](http://9gag.com/gag/aKmoqnZ)
- - 👉 [Mysterious red glow seen over the Atlantic, pilot says he\u2019s never seen anything like it. Via July 2022.](http://9gag.com/gag/aWg3Mj2)<!-- MEMES:END -->
+ - 💣 [Arthur would be proud](http://9gag.com/gag/aGz40Y7)
+ - ⏩ [Johnny B. Goode &lpar;Live in NY w/ Michael J. Fox&rpar; and Coldplay!](http://9gag.com/gag/a81x4We)
+ - 👉 [Home, i&#39;m going home.](http://9gag.com/gag/avAKPYW)<!-- MEMES:END -->
 
 ---
 
