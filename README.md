@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 taskbar gets extra app space for people that can&#39;t get their act together](https://www.pcgamer.com/windows-11-taskbar-gets-extra-app-space-for-people-that-cant-get-their-act-together)
- - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)
- - [Resident Evil Village DLC trailer offers glimpse of playable Lady D](https://www.pcgamer.com/resident-evil-village-dlc-trailer-offers-glimpse-of-playable-lady-d)<!-- GAME:END -->
+ - [With this crypto gift card you&#39;ll never be sure if you have $1 or $100 to spend](https://www.pcgamer.com/with-this-crypto-gift-card-youll-never-be-sure-if-you-have-dollar1-or-dollar100-to-spend)
+ - [Amazon has already ordered a third season of The Wheel of Time](https://www.polygon.com/sdcc/23273882/the-wheel-of-time-season-3-renewal)
+ - [Windows 11 taskbar gets extra app space for people that can&#39;t get their act together](https://www.pcgamer.com/windows-11-taskbar-gets-extra-app-space-for-people-that-cant-get-their-act-together)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
