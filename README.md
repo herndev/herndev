@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you purchase this toy Liebherr throws in a full size one for free.](http://9gag.com/gag/aE8m1R9)
+ - 💣 [Smooth](http://9gag.com/gag/aDDewZB)
  - ⏩ [Bored?](http://9gag.com/gag/a0ZyPVZ)
- - 👉 [Smooth](http://9gag.com/gag/aDDewZB)<!-- MEMES:END -->
+ - 👉 [Young blind girl absolutely loves Harry Potter. Her aunt helped raise money to surprise her with Harry Potter books in Braille for Christmas.](http://9gag.com/gag/avAKL0Z)<!-- MEMES:END -->
 
 ---
 
