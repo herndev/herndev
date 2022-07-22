@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does he have a good point or nah?](http://9gag.com/gag/a81xyMQ)
- - ⏩ [Multiverse of chrises](http://9gag.com/gag/a41OZV6)
- - 👉 [Play stupid games, win stupid prizes](http://9gag.com/gag/azeprMx)<!-- MEMES:END -->
+ - 💣 [Trump vs Obama](http://9gag.com/gag/awzW5n4)
+ - ⏩ [So this is the power of ultra instinct?](http://9gag.com/gag/aZrOBpX)
+ - 👉 [Multiverse of chrises](http://9gag.com/gag/a41OZV6)<!-- MEMES:END -->
 
 ---
 
