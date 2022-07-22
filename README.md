@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)
+ - 💣 [If we discovered oil on Mars](http://9gag.com/gag/aBnBY0z)
  - ⏩ [Shocking.](http://9gag.com/gag/aKmoqnZ)
- - 👉 [If we discovered oil on Mars](http://9gag.com/gag/aBnBY0z)<!-- MEMES:END -->
+ - 👉 [Mysterious red glow seen over the Atlantic, pilot says he\u2019s never seen anything like it. Via July 2022.](http://9gag.com/gag/aWg3Mj2)<!-- MEMES:END -->
 
 ---
 
