@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola’s new Razr and first 200MP phone finally have a launch date](https://www.androidauthority.com/motorola-razr-2022-motorola-x30-pro-launch-date-3189255/)
- - [Apple set to expand supplier roster for iPhone 14 launch](https://appleinsider.com/articles/22/07/22/apple-set-to-expand-supplier-roster-for-iphone-14-launch?utm_medium=rss)
- - [Paris-based Contentsquare, which offers web and app analytics to businesses, raised a $400M Series F and $200M in debt, doubling its May 2021 valuation to $5.6B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220721/p40#a220721p40)<!-- TECH:END -->
+ - [Instagram-based thrift stores in India, Bangladesh, Pakistan, and Nepal are making used clothes popular, even desirable, among young shoppers &lpar;Rest of World&rpar;](http://www.techmeme.com/220722/p1#a220722p1)
+ - [Motorola Razr 2022: Everything we know so far &lpar;Updated: July 22&rpar;](https://www.androidauthority.com/motorola-razr-2022-3079713/)
+ - [Motorola’s new Razr and first 200MP phone finally have a launch date](https://www.androidauthority.com/motorola-razr-2022-motorola-x30-pro-launch-date-3189255/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
