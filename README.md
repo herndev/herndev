@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta introduces a Mature Worlds Policy for Horizon, a new content rating system which will default to 18+ if creators do not apply for a rating &lpar;Harry Baker/UploadVR&rpar;](http://www.techmeme.com/220722/p12#a220722p12)
- - [If you have one of these Thread border routers, your smart home will be Matter-ready](https://www.theverge.com/2022/7/19/23269460/thread-1-3-0-matter-border-routers-homepod-mini-echo-nest)
- - [This solar-powered smart lock is also a video doorbell](https://www.theverge.com/2022/7/22/23273996/lockly-vision-elite-smart-video-door-lock-price-specs-release-date)<!-- TECH:END -->
+ - [The best external SSDs to use with your Mac](https://appleinsider.com/inside/mac/best/best-external-ssd-for-mac?utm_medium=rss)
+ - [What to expect from Apple&#39;s Q3 2022 earnings report on July 28](https://appleinsider.com/articles/22/06/29/what-to-expect-from-apples-q3-2022-earnings-report-on-july-28?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
