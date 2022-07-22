@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This game could be more fun for the boys!](http://9gag.com/gag/aOQLVGr)
- - ⏩ [Damn these teenies.](http://9gag.com/gag/a61Y7yb)
- - 👉 [Shocking.](http://9gag.com/gag/aKmoqnZ)<!-- MEMES:END -->
+ - 💣 [Shocking.](http://9gag.com/gag/aKmoqnZ)
+ - ⏩ [Johnny B. Goode &lpar;Live in NY w/ Michael J. Fox&rpar; and Coldplay!](http://9gag.com/gag/a81x4We)
+ - 👉 [Old Metal vs New Metal](http://9gag.com/gag/aYrXeom)<!-- MEMES:END -->
 
 ---
 
