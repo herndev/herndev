@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone deserves to make a living](http://9gag.com/gag/aOQLbnv)
- - ⏩ [He is right](http://9gag.com/gag/awzWKyy)
+ - 💣 [Work or Starve](http://9gag.com/gag/aVxyXx8)
+ - ⏩ [I wanna equality, but le me choose where I want it.](http://9gag.com/gag/aAGzprE)
  - 👉 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)<!-- MEMES:END -->
 
 ---
