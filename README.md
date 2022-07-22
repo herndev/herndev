@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Last of Us’ PS5 remake includes a speed run mode and smarter AI](https://www.theverge.com/2022/7/21/23273635/the-last-of-us-part-1-ps5-remake-speed-run-accessibility-ai)
- - [Flash deal: M2 MacBook Pro with AppleCare drops to $1,325 &lpar;$223 off&rpar;](https://appleinsider.com/articles/22/07/22/flash-deal-m2-macbook-pro-with-applecare-drops-to-1325-223-off?utm_medium=rss)
- - [Nearly 200 US rural carriers are saddled with Huawei and ZTE gear they can&#39;t afford to replace without promised Congress funds, which aren&#39;t coming fast enough &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220721/p37#a220721p37)<!-- TECH:END -->
+ - [Apple set to expand supplier roster for iPhone 14 launch](https://appleinsider.com/articles/22/07/22/apple-set-to-expand-supplier-roster-for-iphone-14-launch?utm_medium=rss)
+ - [Contentsquare, which offers web and app user analytics to businesses, raised a $400M Series F and $200M in debt, doubling its valuation from May 2021 to $5.6B &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220721/p40#a220721p40)
+ - [ClassDojo, a school communications app, raised a $125M Series D at a $1.25B valuation last September and plans to launch a virtual space for kids in August &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220721/p39#a220721p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
