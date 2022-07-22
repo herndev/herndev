@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [How to do an indian accent](http://9gag.com/gag/a41OZ9Z)
- - ⏩ [Mysterious red glow seen over the Atlantic, pilot says he\u2019s never seen anything like it. Via July 2022.](http://9gag.com/gag/aWg3Mj2)
- - 👉 [Sounds about Right](http://9gag.com/gag/aXr6Anv)<!-- MEMES:END -->
+ - ⏩ [Multiverse of chrises](http://9gag.com/gag/a41OZV6)
+ - 👉 [After new Amazon LotR trailer](http://9gag.com/gag/angP1Y0)<!-- MEMES:END -->
 
 ---
 
