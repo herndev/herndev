@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Work or Starve](http://9gag.com/gag/aVxyXx8)
- - ⏩ [I wanna equality, but le me choose where I want it.](http://9gag.com/gag/aAGzprE)
- - 👉 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)<!-- MEMES:END -->
+ - 💣 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)
+ - ⏩ [Friends&gt; himym](http://9gag.com/gag/aeg8pW5)
+ - 👉 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)<!-- MEMES:END -->
 
 ---
 
