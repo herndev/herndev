@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [With this crypto gift card you&#39;ll never be sure if you have $1 or $100 to spend](https://www.pcgamer.com/with-this-crypto-gift-card-youll-never-be-sure-if-you-have-dollar1-or-dollar100-to-spend)
- - [Amazon has already ordered a third season of The Wheel of Time](https://www.polygon.com/sdcc/23273882/the-wheel-of-time-season-3-renewal)
- - [Windows 11 taskbar gets extra app space for people that can&#39;t get their act together](https://www.pcgamer.com/windows-11-taskbar-gets-extra-app-space-for-people-that-cant-get-their-act-together)<!-- GAME:END -->
+ - [Bringing brawling to life in Midnight Fight Express](https://blog.playstation.com/2022/07/22/bringing-brawling-to-life-in-midnight-fight-express/)
+ - [This is the most demanding PC game in terms of GPU power &#39;and for a long time it had no graphics&#39;](https://www.pcgamer.com/this-is-the-most-demanding-pc-game-in-terms-of-gpu-power-and-for-a-long-time-it-had-no-graphics)
+ - [Trans Twitch streamer claims she was banned for showing examples of abuse](https://www.pcgamer.com/trans-twitch-streamer-claims-she-was-banned-for-showing-examples-of-abuse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
