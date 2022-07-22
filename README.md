@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take one guess as to why people are mad about the new free-to-play Marvel CCG](https://www.pcgamer.com/take-one-guess-as-to-why-people-are-mad-about-the-new-free-to-play-marvel-ccg)
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Resident Evil Village DLC trailer offers glimpse of playable Lady D](https://www.pcgamer.com/resident-evil-village-dlc-trailer-offers-glimpse-of-playable-lady-d)
+ - [Today&#39;s Wordle answer #398: Friday, July 22](https://www.pcgamer.com/todays-wordle-july-22-398-answer-hint)
+ - [Take one guess as to why people are mad about the new free-to-play Marvel CCG](https://www.pcgamer.com/take-one-guess-as-to-why-people-are-mad-about-the-new-free-to-play-marvel-ccg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
