@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX plans to allow customers of bankrupt crypto lender Voyager to create accounts funded by an early distribution of a part of their bankruptcy claims &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220722/p16#a220722p16)
- - [MultiVersus adds Fortnite characters LeBron James and Rick and Morty](https://www.theverge.com/2022/7/22/23274680/multiversus-lebron-james-rick-and-morty-fortnite)
- - [&#39;Spider-Man: Freshman Year&#39; Hits Disney Plus in 2024     - CNET](https://www.cnet.com/culture/entertainment/spider-man-freshman-year-hits-disney-plus-in-2024/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel’s going all in on animation with Spider-Man: Freshman Year and even more X-Men ’97](https://www.theverge.com/2022/7/22/23274562/spider-man-freshman-year-x-men-97-what-if-san-diego-comic-con)
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [Star Wars Retro Collection Goes Back to the &#39;70s with &#39;A New Hope&#39; Multipack     - CNET](https://www.cnet.com/culture/entertainment/star-wars-retro-collection-goes-back-to-the-70s/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
