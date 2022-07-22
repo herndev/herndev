@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Windows 11 taskbar gets extra app space for people that can&#39;t get their act together](https://www.pcgamer.com/windows-11-taskbar-gets-extra-app-space-for-people-that-cant-get-their-act-together)
  - [Every Warhammer 40,000 game, ranked](https://www.pcgamer.com/best-warhammer-40k-games)
- - [Resident Evil Village DLC trailer offers glimpse of playable Lady D](https://www.pcgamer.com/resident-evil-village-dlc-trailer-offers-glimpse-of-playable-lady-d)
- - [Today&#39;s Wordle answer #398: Friday, July 22](https://www.pcgamer.com/todays-wordle-july-22-398-answer-hint)<!-- GAME:END -->
+ - [Resident Evil Village DLC trailer offers glimpse of playable Lady D](https://www.pcgamer.com/resident-evil-village-dlc-trailer-offers-glimpse-of-playable-lady-d)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
