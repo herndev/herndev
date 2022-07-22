@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Young blind girl absolutely loves Harry Potter. Her aunt helped raise money to surprise her with Harry Potter books in Braille for Christmas.](http://9gag.com/gag/avAKL0Z)
- - ⏩ [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)
- - 👉 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)<!-- MEMES:END -->
+ - 💣 [Everyone deserves to make a living](http://9gag.com/gag/aOQLbnv)
+ - ⏩ [He is right](http://9gag.com/gag/awzWKyy)
+ - 👉 [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)<!-- MEMES:END -->
 
 ---
 
