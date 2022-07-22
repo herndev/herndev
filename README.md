@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can make your new Pixel look like a Teenage Mutant Ninja Turtle](https://www.theverge.com/2022/7/21/23273392/google-pixel-6-6a-dbrand-tmnt-tmnp-ninja-turtles-skin)
- - [&#39;Thor: Love and Thunder&#39; Ending Explained, Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-ending-explained-lingering-questions-answered/#ftag=CAD590a51e)
- - [Apple is on track for its biggest year of lobbying in 2022, spending $4.6M in H1, as Tim Cook becomes one of the most politically active tech CEOs in the US &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220721/p36#a220721p36)<!-- TECH:END -->
+ - [The Last of Us’ PS5 remake includes a speed run mode and smarter AI](https://www.theverge.com/2022/7/21/23273635/the-last-of-us-part-1-ps5-remake-speed-run-accessibility-ai)
+ - [Flash deal: M2 MacBook Pro with AppleCare drops to $1,325 &lpar;$223 off&rpar;](https://appleinsider.com/articles/22/07/22/flash-deal-m2-macbook-pro-with-applecare-drops-to-1325-223-off?utm_medium=rss)
+ - [Nearly 200 US rural carriers are saddled with Huawei and ZTE gear they can&#39;t afford to replace without promised Congress funds, which aren&#39;t coming fast enough &lpar;John Hendel/Politico&rpar;](http://www.techmeme.com/220721/p37#a220721p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
