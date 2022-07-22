@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: July 25 to 29](https://news.xbox.com/en-us/2022/07/22/next-week-on-xbox-july-25-to-29/)
- - [Everything new in The Last of Us Part 1 for PS5](https://www.polygon.com/23274016/the-last-of-us-part-1-ps5-release-date-changes-new-features)
- - [Review: Knights of the Old Republic 2 On Switch Is A Buggy, Brilliant Triumph In RPGs](https://kotaku.com/star-wars-kotor-2-obsidian-nintendo-switch-1849318853)<!-- GAME:END -->
+ - [The Dragon Prince returns to Netflix with a time skip this winter](https://www.polygon.com/sdcc/23274111/the-dragon-prince-season-4-netflix-footage-release-date-sdcc)
+ - [Steam Horror Game Challenges You To Beat It Before You Can Refund It](https://kotaku.com/refund-me-if-you-can-steam-sungame-studio-valve-1849319120)
+ - [World of Warcraft: Dragonflight&#39;s verdant new zones are the perfect return to Azeroth](https://www.pcgamer.com/world-of-warcraft-dragonflights-verdant-new-zones-are-the-perfect-return-to-azeroth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
