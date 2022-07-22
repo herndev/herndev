@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Supreme Court Accidentally Spurred a Data Privacy Push](https://www.wired.com/story/plaintext-supreme-court-data-privacy-dobbs/)
- - [Which Google Pixel Phone &lpar;and Gear&rpar; Should You Buy?](https://www.wired.com/story/best-google-pixel-phone/)
- - [Netflix CEO Predicts Linear TV’s Demise Over Next ‘5-10 Years’](https://www.wired.com/story/netflix-subscriber-loss-end-of-tv/)<!-- TECH:END -->
+ - [Snap opens down 33% following its Q2 earnings report; Snap stock is down 77% year-to-date &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220722/p7#a220722p7)
+ - [The Bags, Backpacks, Cubes, and Straps to Protect Your Camera](https://www.wired.com/gallery/best-camera-bags-backpacks-straps-inserts/)
+ - [How macOS Ventura&#39;s background removal compares to Photoshop, Pixelmator Pro](https://appleinsider.com/inside/macos-ventura/vs/how-macos-venturas-background-removal-compares-to-photoshop-pixelmator-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
