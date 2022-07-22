@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer is dangling features behind a $30 dongle](https://www.theverge.com/2022/7/22/23271987/razer-hyperpolling-dongle-adapter-gaming-mouse-viper-pro)
- - [How to enable your iPhone’s screen reader](https://www.theverge.com/23274010/iphone-screen-reader-accessibility-how-to)
- - [Theator, which uses AI to analyze video captured during surgeries and provide insights, raised $24M led by Insight Partners, bringing its Series A to $39.5M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220722/p8#a220722p8)<!-- TECH:END -->
+ - [Pro-Russia authorities will ban Google in occupied regions of Ukraine](https://www.theverge.com/2022/7/22/23274134/google-banned-occupied-ukraine-russia-war-donetsk-luhansk)
+ - [California approves new rules to let candidates for state and local offices accept cryptocurrency donations if they immediately convert them to US dollars &lpar;Associated Press&rpar;](http://www.techmeme.com/220722/p10#a220722p10)
+ - [Bellroy iPhone Mod Case + Wallet review: A MagSafe case with a near-perfect companion wallet](https://appleinsider.com/articles/22/07/22/bellroy-iphone-mod-case-wallet-review-a-magsafe-case-with-a-near-perfect-companion-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
