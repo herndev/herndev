@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based Ana de Armas](http://9gag.com/gag/a113enP)
- - ⏩ [Probably paint identifies as Skype in Netflix universe](http://9gag.com/gag/aqGoZqY)
- - 👉 [It is time to bring up this meme...](http://9gag.com/gag/a113YQY)<!-- MEMES:END -->
+ - 💣 [Young blind girl absolutely loves Harry Potter. Her aunt helped raise money to surprise her with Harry Potter books in Braille for Christmas.](http://9gag.com/gag/avAKL0Z)
+ - ⏩ [It&#39;s always intentional](http://9gag.com/gag/aYrXwvV)
+ - 👉 [Swan\u2019s reaction to human returning home..](http://9gag.com/gag/aYrXwdw)<!-- MEMES:END -->
 
 ---
 
