@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Game of Thrones in 4K is coming to HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)
- - [Uber admits it failed to inform the FTC of the November 2016 hack that affected 57M passengers and drivers, as part of a settlement to avoid US criminal charges &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220723/p10#a220723p10)
- - [Black Adam sure seems like the villain in his movie’s latest trailer](https://www.theverge.com/2022/7/23/23275565/black-adam-san-diego-comic-con-trailer)<!-- TECH:END -->
+ - [DoorDash and Uber Eats are moving beyond food, focusing on groceries and alcohol as users cut spending due to high inflation and a potential economic downturn &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/220723/p11#a220723p11)
+ - [Star Trek teases Picard cast and Strange New Worlds crossover](https://www.theverge.com/2022/7/23/23275444/star-trek-picard-cast-strange-new-world-crossover-trailer-teaser-paramount-plus-patrick-stewart)
+ - [Game of Thrones in 4K is coming to HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
