@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After years of failing to learn languages on Duolingo, I switched to Memrise](https://www.androidauthority.com/memrise-language-learning-versus-duolingo-3185707/)
- - [Shazam! Fury of the Gods’ first trailer introduces a delightful villain](https://www.theverge.com/2022/7/23/23268474/shazam-fury-of-the-gods-trailer-helen-mirren-sdcc)
- - [Epidemic Sound, which provides royalty-free music, sues Meta for allegedly letting Facebook and Instagram creators use 94% of Epidemic&#39;s tracks without licenses &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/220723/p7#a220723p7)<!-- TECH:END -->
+ - [Black Adam sure seems like the villain in his movie’s latest trailer](https://www.theverge.com/2022/7/23/23275565/black-adam-san-diego-comic-con-trailer)
+ - [Sources: British satellite internet startup OneWeb is nearing a merger with France&#39;s Eutelsat, in a deal valuing OneWeb at $3B+; Eutelsat invested in OneWeb &lpar;Dinesh Nair/Bloomberg&rpar;](http://www.techmeme.com/220723/p9#a220723p9)
+ - [Blockchain infrastructure company Chain acquires Measurable Data Token, including the cash-back app RewardMe and the financial data protocol MeFi, for $100M &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220723/p8#a220723p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
