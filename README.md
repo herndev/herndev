@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Multiverse of chrises](http://9gag.com/gag/a41OZV6)
- - ⏩ [When your girl is mad at you](http://9gag.com/gag/amg4YO9)
- - 👉 [When the solution is simple but beyond your imagination](http://9gag.com/gag/adgDqG9)<!-- MEMES:END -->
+ - ⏩ [1, 2, 3, 4, 5, 6, f**k](http://9gag.com/gag/aGz41G5)
+ - 👉 [Hold TF UP](http://9gag.com/gag/aWg3mP6)<!-- MEMES:END -->
 
 ---
 
