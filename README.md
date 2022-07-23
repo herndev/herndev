@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Quick question: would you buy a monitor from a company called Dough?](https://www.theverge.com/2022/7/23/23274889/eve-dough-name-change-spectrum-monitor-eve-v-tablet)
- - [Meta closed down 7%+ and Alphabet closed down 5%+ on Friday, as Snap&#39;s weak earnings, inflation, and other factors lead to worries about online advertising &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/220723/p5#a220723p5)
- - [Walk The Distance makes exercise fun for those who’d rather be hiking](https://www.theverge.com/2022/7/23/23272407/walk-the-distance-app-exercise-motivation)<!-- TECH:END -->
+ - [Monkeypox is now a global emergency, World Health Organization says](https://www.theverge.com/2022/7/23/23275380/monkeypox-global-emergency-world-health-organization)
+ - [The Dutch Ministry of Education suspends the use of Chrome OS and Chrome browser until August 2023 over concerns about student data privacy and GDPR violations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220723/p6#a220723p6)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-442-3189513/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
