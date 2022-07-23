@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Xperia 1 IV review: Simply outrageous](https://www.androidauthority.com/sony-xperia-1-iv-review-3183134/)
- - [CBRE research: San Francisco&#39;s office vacancy rate rose to 24.2% in Q2 2022, up 0.4% QoQ, as tech companies&#39; flexible return-to-office slows the city&#39;s recovery &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220723/p3#a220723p3)
- - [Daily deals July 23: $999 M1 13-inch MacBook Pro, $55 Razer Kishi, $145 Netgear Orbi Pro, more](https://appleinsider.com/articles/22/07/23/daily-deals-july-23-999-m1-13-inch-macbook-pro-55-razer-kishi-145-netgear-orbi-pro-more?utm_medium=rss)<!-- TECH:END -->
+ - [Walk The Distance makes exercise fun for those who’d rather be hiking](https://www.theverge.com/2022/7/23/23272407/walk-the-distance-app-exercise-motivation)
+ - [Sources: FBI determined around 2017 that Huawei gear in cell towers near US military bases in the&amp;#8239;Midwest was capable of capturing and disrupting DoD comms &lpar;Katie Bo Lillis/CNN&rpar;](http://www.techmeme.com/220723/p4#a220723p4)
+ - [Netflix reportedly starts linking iPhone and iPad users to an external sign-up page](https://www.theverge.com/2022/7/23/23275298/netflix-apple-external-sign-up-link-iphone-ipad-app-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
