@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That happens when a cement truck has to stop quickly](http://9gag.com/gag/aGz4dKZ)
- - ⏩ [Is it a good news or ?](http://9gag.com/gag/aYrXYvO)
- - 👉 [He got divorced](http://9gag.com/gag/aWg3EN6)<!-- MEMES:END -->
+ - 💣 [Norwegians....](http://9gag.com/gag/axBq7Lb)
+ - ⏩ [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
+ - 👉 [US Politics](http://9gag.com/gag/aAGz38Z)<!-- MEMES:END -->
 
 ---
 
