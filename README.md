@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New RevAir Hair Dryer Is Speedier, Smaller, and Sleeker](https://www.wired.com/review/new-revair-reverse-air-dryer-2022/)
- - [The Mazda MX-30 Is Big on Charm but Short on Everything Else](https://www.wired.com/review/mazda-mx-30/)
- - [The Controversial Plan to Unleash the Mississippi River](https://www.wired.com/story/the-controversial-plan-to-unleash-the-mississippi-river/)<!-- TECH:END -->
+ - [The January 6 Secret Service Text Scandal Turns Criminal](https://www.wired.com/story/secret-service-jan-6-text-scandal/)
+ - [Google Wallet Is Back, for Some Reason](https://www.wired.com/story/google-wallet-samsung-unpacked-amazon-one-medical/)
+ - [Looking for a Tablet? These Are Our Absolute Favorites](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
