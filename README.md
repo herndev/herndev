@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Adam sure seems like the villain in his movie’s latest trailer](https://www.theverge.com/2022/7/23/23275565/black-adam-san-diego-comic-con-trailer)
- - [Sources: British satellite internet startup OneWeb is nearing a merger with France&#39;s Eutelsat, in a deal valuing OneWeb at $3B+; Eutelsat invested in OneWeb &lpar;Dinesh Nair/Bloomberg&rpar;](http://www.techmeme.com/220723/p9#a220723p9)
- - [Blockchain infrastructure company Chain acquires Measurable Data Token, including the cash-back app RewardMe and the financial data protocol MeFi, for $100M &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220723/p8#a220723p8)<!-- TECH:END -->
+ - [Game of Thrones in 4K is coming to HBO Max](https://www.theverge.com/2022/7/23/23275429/game-of-thrones-4k-hbo-max-august)
+ - [Uber admits it failed to inform the FTC of the November 2016 hack that affected 57M passengers and drivers, as part of a settlement to avoid US criminal charges &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/220723/p10#a220723p10)
+ - [Black Adam sure seems like the villain in his movie’s latest trailer](https://www.theverge.com/2022/7/23/23275565/black-adam-san-diego-comic-con-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
