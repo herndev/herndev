@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #399: Saturday, July 23](https://www.pcgamer.com/wordle-today-july-23-399-answer-hint)
  - [Dragon Ball Super: Super Hero gets Comic-Con trailer ahead of August release](https://www.polygon.com/sdcc/23275016/dragon-ball-super-super-hero-movie-comic-con-panel-recap-trailer)
- - [The new animated Avatar movie will star Aang and the Gaang as adults](https://www.polygon.com/sdcc/23275015/animated-avatar-airbender-movie-aang)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
+ - [The new animated Avatar movie will star Aang and the Gaang as adults](https://www.polygon.com/sdcc/23275015/animated-avatar-airbender-movie-aang)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
