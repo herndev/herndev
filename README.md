@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s morbin time](http://9gag.com/gag/angP5EB)
- - ⏩ [Norwegians....](http://9gag.com/gag/axBq7Lb)
- - 👉 [Every darn time.](http://9gag.com/gag/amg4v49)<!-- MEMES:END -->
+ - 💣 [He got divorced](http://9gag.com/gag/aWg3EN6)
+ - ⏩ [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
+ - 👉 [Norwegians....](http://9gag.com/gag/axBq7Lb)<!-- MEMES:END -->
 
 ---
 
