@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s The Sandman TV series has a trailer worth dreaming about](https://www.polygon.com/sdcc/23273180/sandman-trailer-netflix-dc-comics-neil-gaiman-tom-sturridge)
  - [Interview with a Vampire gives fans first bite of the new series with a trailer](https://www.polygon.com/sdcc/23220434/interview-with-a-vampire-trailer-tv-sdcc-release-date)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [Star Trek: Lower Decks sets its parody sights on Deep Space 9 in new trailer](https://www.polygon.com/sdcc/23275659/star-trek-lower-decks-season-3-trailer-release-date-deep-space-9)<!-- GAME:END -->
+ - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
