@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The January 6 Secret Service Text Scandal Turns Criminal](https://www.wired.com/story/secret-service-jan-6-text-scandal/)
- - [Google Wallet Is Back, for Some Reason](https://www.wired.com/story/google-wallet-samsung-unpacked-amazon-one-medical/)
- - [Looking for a Tablet? These Are Our Absolute Favorites](https://www.wired.com/gallery/the-best-tablets/)<!-- TECH:END -->
+ - [Sony Xperia 1 IV review: Simply outrageous](https://www.androidauthority.com/sony-xperia-1-iv-review-3183134/)
+ - [CBRE research: San Francisco&#39;s office vacancy rate rose to 24.2% in Q2 2022, up 0.4% QoQ, as tech companies&#39; flexible return-to-office slows the city&#39;s recovery &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/220723/p3#a220723p3)
+ - [Daily deals July 23: $999 M1 13-inch MacBook Pro, $55 Razer Kishi, $145 Netgear Orbi Pro, more](https://appleinsider.com/articles/22/07/23/daily-deals-july-23-999-m1-13-inch-macbook-pro-55-razer-kishi-145-netgear-orbi-pro-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
