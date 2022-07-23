@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Norwegians....](http://9gag.com/gag/axBq7Lb)
- - ⏩ [Take a look at this fluffy sea doggo](http://9gag.com/gag/aPZbRvn)
- - 👉 [US Politics](http://9gag.com/gag/aAGz38Z)<!-- MEMES:END -->
+ - 💣 [Space debris witnessed in India.](http://9gag.com/gag/aGz4g3K)
+ - ⏩ [Norwegians....](http://9gag.com/gag/axBq7Lb)
+ - 👉 [He got divorced](http://9gag.com/gag/aWg3EN6)<!-- MEMES:END -->
 
 ---
 
