@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monkeypox is now a global emergency, World Health Organization says](https://www.theverge.com/2022/7/23/23275380/monkeypox-global-emergency-world-health-organization)
- - [The Dutch Ministry of Education suspends the use of Chrome OS and Chrome browser until August 2023 over concerns about student data privacy and GDPR violations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220723/p6#a220723p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-442-3189513/)<!-- TECH:END -->
+ - [After years of failing to learn languages on Duolingo, I switched to Memrise](https://www.androidauthority.com/memrise-language-learning-versus-duolingo-3185707/)
+ - [Shazam! Fury of the Gods’ first trailer introduces a delightful villain](https://www.theverge.com/2022/7/23/23268474/shazam-fury-of-the-gods-trailer-helen-mirren-sdcc)
+ - [Epidemic Sound, which provides royalty-free music, sues Meta for allegedly letting Facebook and Instagram creators use 94% of Epidemic&#39;s tracks without licenses &lpar;Andy Maxwell/TorrentFreak&rpar;](http://www.techmeme.com/220723/p7#a220723p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
