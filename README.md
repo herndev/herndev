@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shibuya Crossing is the world&#39;s busiest pedestrian crossing, with as many as 3,000 people crossing at a time.](http://9gag.com/gag/a510oxO)
- - ⏩ [Suffering in silence](http://9gag.com/gag/amg47j4)
- - 👉 [Hell yes!! First look at John Wick 4.](http://9gag.com/gag/a71RMbq)<!-- MEMES:END -->
+ - 💣 [The emotional damage left by the Rabbit burnt a hole through the Eagle&#39;s curriculum vitae](http://9gag.com/gag/aqGo7MZ)
+ - ⏩ [You Really Can&#39;t](http://9gag.com/gag/aeg8rnO)
+ - 👉 [This unit cat climbing up her back](http://9gag.com/gag/aM4MZz1)<!-- MEMES:END -->
 
 ---
 
