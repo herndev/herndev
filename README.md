@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Judge had me wheezing at the end lol](http://9gag.com/gag/amg47Oy)
- - ⏩ [Still worth it.](http://9gag.com/gag/ay9jxOr)
- - 👉 [You are welcome.](http://9gag.com/gag/a61Yo3A)<!-- MEMES:END -->
+ - ⏩ [Suffering in silence](http://9gag.com/gag/amg47j4)
+ - 👉 [Shibuya Crossing is the world&#39;s busiest pedestrian crossing, with as many as 3,000 people crossing at a time.](http://9gag.com/gag/a510oxO)<!-- MEMES:END -->
 
 ---
 
