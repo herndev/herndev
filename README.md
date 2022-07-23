@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The new live-action Avatar movie will star Aang and the Gaang as adults](https://www.polygon.com/sdcc/23275015/live-action-avatar-airbender-movie-aang)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [The Walking Dead’s Rick Grimes movie is now a romantic Walking Dead TV show](https://www.polygon.com/sdcc/23274953/walking-dead-rick-grimes-movie-tv-series-michonne-romance)<!-- GAME:END -->
+ - [Dragon Ball Super: Super Hero gets Comic-Con trailer ahead of August release](https://www.polygon.com/sdcc/23275016/dragon-ball-super-super-hero-movie-comic-con-panel-recap-trailer)
+ - [The new animated Avatar movie will star Aang and the Gaang as adults](https://www.polygon.com/sdcc/23275015/animated-avatar-airbender-movie-aang)
+ - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
