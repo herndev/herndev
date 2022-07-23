@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation’s Summer Sale Includes Big Discounts On Star Wars, Assassin’s Creed, And Batman](https://kotaku.com/playstation-summer-sale-best-ps4-ps5-star-wars-batman-1849321596)
- - [Everything to know about new Lord of the Rings series](https://www.polygon.com/23032806/lotr-rings-power-release-date-cast-trailer)
- - [World of Warcraft streamer finally finds his rare mount after four years of trying](https://www.pcgamer.com/world-of-warcraft-streamer-finally-finds-his-rare-mount-after-four-years-of-trying)<!-- GAME:END -->
+ - [The Walking Dead’s Rick Grimes movie is now a romantic Walking Dead TV show](https://www.polygon.com/sdcc/23274953/walking-dead-rick-grimes-movie-tv-series-michonne-romance)
+ - [PlayStation’s Summer Sale Includes Big Discounts On Star Wars, Assassin’s Creed, Batman](https://kotaku.com/playstation-summer-sale-best-ps4-ps5-star-wars-batman-1849321596)
+ - [Everything to know about the new Lord of the Rings series](https://www.polygon.com/23032806/lotr-rings-power-release-date-cast-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
