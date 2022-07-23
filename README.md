@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Adam revealed its secret villain to San Diego Comic-Con fans only](https://www.polygon.com/sdcc/23275572/black-adam-villain-dwayne-johnson-the-rock-sabbac-sdcc)
  - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)
- - [New Black Adam trailer shows off the Justice Society, more antihero antics](https://www.polygon.com/sdcc/23270082/black-adam-trailer-sdcc-2022-the-rock-dwayne-johnson-justice-society)
- - [The biggest news and announcements from Warner Bros.’ SDCC 2022 panel](https://www.polygon.com/sdcc/23272917/dc-panel-warner-bros-news-trailers-announcements)<!-- GAME:END -->
+ - [New Black Adam trailer shows off the Justice Society, more antihero antics](https://www.polygon.com/sdcc/23270082/black-adam-trailer-sdcc-2022-the-rock-dwayne-johnson-justice-society)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
