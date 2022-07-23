@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix now features an external subscription button on iOS](https://appleinsider.com/articles/22/07/23/netflix-now-features-an-external-subscription-button-on-ios?utm_medium=rss)
- - [Now Microsoft Office is blocking macros by default](https://www.theverge.com/2022/7/22/23274905/microsoft-office-block-macros-security-malware-default-warning)
- - [Apple renews sci-fi hit &#39;For All Mankind&#39; for a fourth season](https://appleinsider.com/articles/22/07/22/apple-renews-sci-fi-hit-for-all-mankind-for-a-fourth-season?utm_medium=rss)<!-- TECH:END -->
+ - [The engineer who claimed a Google AI is sentient has been fired](https://www.theverge.com/2022/7/22/23274958/google-ai-engineer-blake-lemoine-chatbot-lamda-2-sentience)
+ - [Microsoft resumes blocking VBA macros by default in downloaded Office documents, after rolling it back earlier this month following user feedback &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220722/p20#a220722p20)
+ - [Netflix now features an external subscription button on iOS](https://appleinsider.com/articles/22/07/23/netflix-now-features-an-external-subscription-button-on-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
