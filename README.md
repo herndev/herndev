@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reverse cowgirl](http://9gag.com/gag/aogQNVe)
- - ⏩ [When you think the ball is about to get grounded, these two volleyball teams keep fighting for the play.](http://9gag.com/gag/ay9jXeV)
- - 👉 [Just a reminder](http://9gag.com/gag/avAK7wM)<!-- MEMES:END -->
+ - 💣 [The chances of your cat stealing your man are low, but never zero](http://9gag.com/gag/aeg8MVQ)
+ - ⏩ [The here we deserve. The hero we need.](http://9gag.com/gag/aBnB8QN)
+ - 👉 [When you think the ball is about to get grounded, these two volleyball teams keep fighting for the play.](http://9gag.com/gag/ay9jXeV)<!-- MEMES:END -->
 
 ---
 
