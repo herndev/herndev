@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Keanu Reeves and Donnie Yen square off in a sword and gun fight in the John Wick 4 trailer](https://www.polygon.com/sdcc/23275339/john-wick-4-trailer-release-date-cast-donnie-yen-keanu-reeves)
  - [The Best PS2 Games On PS Plus](https://kotaku.com/ps-plus-ps2-jak-and-daxter-red-faction-2-dark-cloud-2-1849321489)
- - [Today&#39;s Wordle answer #399: Saturday, July 23](https://www.pcgamer.com/wordle-today-july-23-399-answer-hint)
- - [Dragon Ball Super: Super Hero gets Comic-Con trailer ahead of August release](https://www.polygon.com/sdcc/23275016/dragon-ball-super-super-hero-movie-comic-con-panel-recap-trailer)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer #399: Saturday, July 23](https://www.pcgamer.com/wordle-today-july-23-399-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
