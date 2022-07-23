@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile agrees to $350 million settlement over its massive 2021 data breach](https://www.theverge.com/2022/7/22/23274833/t-mobile-2021-hack-settlement-lawsuit-500-million)
- - [T-Mobile agrees to pay $350M to settle a class action lawsuit over a cyberattack in 2021 that impacted 76M+ customers and pledges $150M in security investments &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220722/p18#a220722p18)
- - [Meta adds an 18 and up tag in Horizon Worlds, opening the door to mature VR content](https://www.theverge.com/2022/7/22/23274676/meta-horizon-worlds-mature-content-18-plus-tag)<!-- TECH:END -->
+ - [Netflix now features an external subscription button on iOS](https://appleinsider.com/articles/22/07/23/netflix-now-features-an-external-subscription-button-on-ios?utm_medium=rss)
+ - [Now Microsoft Office is blocking macros by default](https://www.theverge.com/2022/7/22/23274905/microsoft-office-block-macros-security-malware-default-warning)
+ - [Apple renews sci-fi hit &#39;For All Mankind&#39; for a fourth season](https://appleinsider.com/articles/22/07/22/apple-renews-sci-fi-hit-for-all-mankind-for-a-fourth-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
