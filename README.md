@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Ukraine&#39;s thriving tech sector amid war; National Bank of Ukraine: tech firms brought in $3.1B in revenue from January to May 2022, up from $2.5B YoY &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/220723/p1#a220723p1)
  - [How to reach Genshin Impact’s Golden Apple Archipelago](https://www.androidauthority.com/golden-apple-archipelago-genshin-3189653/)
- - [A South Carolina bill would make it illegal to host, or provide access to, a website with information that is &quot;reasonably likely to be used for an abortion&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220722/p21#a220722p21)
- - [The engineer who claimed a Google AI is sentient has been fired](https://www.theverge.com/2022/7/22/23274958/google-ai-engineer-blake-lemoine-chatbot-lamda-2-sentience)<!-- TECH:END -->
+ - [A South Carolina bill would make it illegal to host, or provide access to, a website with information that is &quot;reasonably likely to be used for an abortion&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220722/p21#a220722p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
