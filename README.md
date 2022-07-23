@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [23 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
- - [Keanu Reeves and Donnie Yen square off in a sword and gun fight in the John Wick 4 trailer](https://www.polygon.com/sdcc/23275339/john-wick-4-trailer-release-date-cast-donnie-yen-keanu-reeves)
- - [The Best PS2 Games On PS Plus](https://kotaku.com/ps-plus-ps2-jak-and-daxter-red-faction-2-dark-cloud-2-1849321489)<!-- GAME:END -->
+ - [Shazam 2 trailer shows off the villains and introduces Rachel Zegler](https://www.polygon.com/sdcc/23132820/shazam-fury-of-the-gods-trailer-release-date-cast-zegler-mirren-liu)
+ - [Star Wars Jedi: Survivor toys show off Cal Kestis’ new look](https://www.polygon.com/sdcc/23275481/star-wars-jedi-survivor-cal-kestis-new-look-hasbro-toys-droids)
+ - [23 hard-hitting action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
