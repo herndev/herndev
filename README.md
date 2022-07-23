@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Ukraine&#39;s thriving tech sector amid war; National Bank of Ukraine: tech firms brought in $3.1B in revenue from January to May 2022, up from $2.5B YoY &lpar;David Segal/New York Times&rpar;](http://www.techmeme.com/220723/p1#a220723p1)
- - [How to reach Genshin Impact’s Golden Apple Archipelago](https://www.androidauthority.com/golden-apple-archipelago-genshin-3189653/)
- - [A South Carolina bill would make it illegal to host, or provide access to, a website with information that is &quot;reasonably likely to be used for an abortion&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220722/p21#a220722p21)<!-- TECH:END -->
+ - [10 Great Deals on TVs, Keyboards, and Robot Vacuums](https://www.wired.com/story/weekend-deals-july-23-2022/)
+ - [Best Women&#39;s Running Shoes for 2022: Asics, Brooks and More     - CNET](https://www.cnet.com/health/fitness/best-womens-running-shoes/#ftag=CAD590a51e)
+ - [Ask Farnoosh: I&#39;m Self-Employed. How Can I Afford Maternity Leave?     - CNET](https://www.cnet.com/personal-finance/ask-farnoosh-im-self-employed-how-to-afford-maternity-leave/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
