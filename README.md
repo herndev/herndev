@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A South Carolina bill would make it illegal to host, or provide access to, a website with information that is &quot;reasonably likely to be used for an abortion&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220722/p21#a220722p21)
  - [The engineer who claimed a Google AI is sentient has been fired](https://www.theverge.com/2022/7/22/23274958/google-ai-engineer-blake-lemoine-chatbot-lamda-2-sentience)
- - [Microsoft resumes blocking VBA macros by default in downloaded Office documents, after rolling it back earlier this month following user feedback &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220722/p20#a220722p20)
- - [Netflix now features an external subscription button on iOS](https://appleinsider.com/articles/22/07/23/netflix-now-features-an-external-subscription-button-on-ios?utm_medium=rss)<!-- TECH:END -->
+ - [What We Know About the Monkeypox Vaccine     - CNET](https://www.cnet.com/health/medical/what-we-know-about-the-monkeypox-vaccine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
