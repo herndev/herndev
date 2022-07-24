@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am Chorizo.](http://9gag.com/gag/avAKWgO)
- - ⏩ [Cat](http://9gag.com/gag/a81xA4V)
+ - 💣 [Cat](http://9gag.com/gag/a81xA4V)
+ - ⏩ [Little monster](http://9gag.com/gag/a91gyMj)
  - 👉 [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)<!-- MEMES:END -->
 
 ---
