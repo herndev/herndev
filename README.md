@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hear me out: Risk of Rain 2 is the Mario 64 of roguelikes](https://www.polygon.com/reviews/23274644/risk-of-rain-2-review-roguelike-mario-64-windows-switch-xbox-ps4)
  - [Today&#39;s Wordle answer #400: Sunday, July 24](https://www.pcgamer.com/wordle-today-july-24-400-answer-hint)
- - [Everything we know about Namor, Black Panther 2’s supposed new villain](https://www.polygon.com/sdcc/23275915/namor-black-panther-2-villain-mcu)
- - [Avengers: Secret Wars could give the MCU the ultimate superpower: a reboot](https://www.polygon.com/sdcc/23275883/marvel-phase-6-secret-wars-kang-dynasty)<!-- GAME:END -->
+ - [Everything we know about Namor, Black Panther 2’s supposed new villain](https://www.polygon.com/sdcc/23275915/namor-black-panther-2-villain-mcu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
