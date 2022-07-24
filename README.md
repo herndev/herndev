@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the bipartisan American Data Privacy and Protection Act, which privacy experts say might finally give the US a strong federal data protection law &lpar;Gilad Edelman/Wired&rpar;](http://www.techmeme.com/220723/p13#a220723p13)
- - [Black Panther: Wakanda Forever’s first trailer pits Atlantis against the world](https://www.theverge.com/2022/7/23/23275842/black-panther-wakanda-forever-trailer-sdcc)
- - [Marvel finally reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-5-kicks-off-in-2023-includes-daredevil-born-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel outlines Phase 6 with Fantastic Four and two new Avengers movies](https://www.theverge.com/2022/7/23/23275861/marvel-phase-6-fantastic-four-avengers-sdcc)
+ - [Marvel’s Phase 5 will kick off with Ant-Man &amp; The Wasp: Quantumania and end with Thunderbolts](https://www.theverge.com/2022/7/23/23275850/marvel-phase-5-comic-con-loki-secret-invasion-captain-america)
+ - [A look at the bipartisan American Data Privacy and Protection Act, which privacy experts say might finally give the US a strong federal data protection law &lpar;Gilad Edelman/Wired&rpar;](http://www.techmeme.com/220723/p13#a220723p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
