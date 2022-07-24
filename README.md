@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Apple, Amazon, and Google are trying to secure live sports streaming rights, working to convince leagues to switch from traditional TV and cable networks &lpar;New York Times&rpar;](http://www.techmeme.com/220724/p5#a220724p5)
- - [One America News gets dumped by Verizon, the only major carrier it had left](https://www.theverge.com/2022/7/24/23276366/one-america-news-verizon-fios-dumped-major-carriers-oan)
- - [Synology built a Wi-Fi router for the connected home, and I love it](https://www.androidauthority.com/synology-rt6600ax-router-review-3177220/)<!-- TECH:END -->
+ - [How to see if your Apple Watch is backed up](https://appleinsider.com/articles/21/10/04/how-to-see-if-your-apple-watch-is-backed-up?utm_medium=rss)
+ - [How Apple, Amazon, and Google are trying to win live sports streaming rights by persuading skeptical leagues to switch from traditional TV and cable networks &lpar;New York Times&rpar;](http://www.techmeme.com/220724/p5#a220724p5)
+ - [Before the Air Force: From Biplanes to Jet Prototypes     - CNET](https://www.cnet.com/pictures/before-the-air-force-anniversary-75-from-biplanes-to-jet-prototypes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
