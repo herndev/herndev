@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Panther 2 trailer shows what’s next for Wakanda](https://www.polygon.com/sdcc/23132717/black-panther-2-trailer-wakanda-shuri-namor)
- - [Here’s the official slate for Marvel’s Phase 5 and 6](https://www.polygon.com/sdcc/23275835/marvel-mcu-phase-5-schedule-calendar-upcoming-ant-man)
- - [Marvel announces a Fantastic Four movie release date](https://www.polygon.com/sdcc/23272901/comic-con-fantastic-four-revealed-release-date)<!-- GAME:END -->
+ - [Magic’s Unfinity set will include stickers so players can make their own cards](https://www.polygon.com/sdcc/23274559/mtg-unfinity-stickers)
+ - [Every major announcement from SDCC 2022](https://www.polygon.com/sdcc/23268741/sdcc-2022-comic-con-news-announcements-exclusives-trailers-marvel)
+ - [A chess playing robot broke a kid&#39;s finger](https://www.pcgamer.com/a-chess-playing-robot-broke-a-kids-finger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
