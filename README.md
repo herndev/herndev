@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)
- - [Apple TV+&#39;s &#39;Mythic Quest&#39; teaser targets teamwork, the metaverse](https://appleinsider.com/articles/22/07/24/apple-tvs-mythic-quest-teaser-targets-teamwork-the-metaverse?utm_medium=rss)
- - [Daily deals July 24: $499 M1 Mac mini, $328 Vizio 55-inch smart TV, $79 AirTag 4-pack, more](https://appleinsider.com/articles/22/07/24/daily-deals-july-24-699-m1-mac-mini-328-vizio-55-inch-smart-tv-79-airtag-4-pack-more?utm_medium=rss)<!-- TECH:END -->
+ - [Sources: new &quot;Pro&quot; Apple Watch will have about 7% larger screen, a new design, and a case with a more durable formulation of titanium to make it extra rugged &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220724/p4#a220724p4)
+ - [When Google Maps struggles, Citymapper comes to my rescue](https://www.androidauthority.com/citymapper-vs-google-maps-3189239/)
+ - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
