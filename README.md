@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to see if your Apple Watch is backed up](https://appleinsider.com/articles/21/10/04/how-to-see-if-your-apple-watch-is-backed-up?utm_medium=rss)
- - [How Apple, Amazon, and Google are trying to win live sports streaming rights by persuading skeptical leagues to switch from traditional TV and cable networks &lpar;New York Times&rpar;](http://www.techmeme.com/220724/p5#a220724p5)
- - [Before the Air Force: From Biplanes to Jet Prototypes     - CNET](https://www.cnet.com/pictures/before-the-air-force-anniversary-75-from-biplanes-to-jet-prototypes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The OnePlus 10T won’t have a mute switch — here’s why](https://www.theverge.com/2022/7/24/23273890/oneplus-10t-design-alert-slider-display-size-camera-specs)
+ - [The best alternatives to Apple&#39;s Dark Sky weather app](https://appleinsider.com/articles/22/07/24/the-best-alternatives-to-apples-dark-sky-weather-app?utm_medium=rss)
+ - [An in-depth look at the research collaboration between NASA and the FAA since 2017 to write new US airspace rules for safely accommodating millions of drones &lpar;Chris Feliciano Arnold/Bloomberg&rpar;](http://www.techmeme.com/220724/p6#a220724p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
