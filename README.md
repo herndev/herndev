@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
- - [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
- - [As Dusk Falls’ couch co-op makes a middling thriller a lot more memorable](https://www.theverge.com/2022/7/24/23274602/as-dusk-falls-xbox-game-pass-review-couch-co-op)<!-- TECH:END -->
+ - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)
+ - [Formula 1 French Grand Prix Starts Now: How to Watch the Race Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-french-grand-prix-starts-now-how-to-watch-the-race-live/#ftag=CAD590a51e)
+ - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
