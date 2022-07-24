@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [China successfully launches Wentian module as space station nears completion](https://www.theverge.com/2022/7/24/23276578/china-launches-wentian-module-tiangong-space-station)
  - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
- - [The OnePlus 10T won’t have a mute switch — here’s why](https://www.theverge.com/2022/7/24/23273890/oneplus-10t-design-alert-slider-display-size-camera-specs)
- - [The best alternatives to Apple&#39;s Dark Sky weather app](https://appleinsider.com/articles/22/07/24/the-best-alternatives-to-apples-dark-sky-weather-app?utm_medium=rss)<!-- TECH:END -->
+ - [You Don&#39;t Need Cable TV to Watch All Your Favorite Live Channels     - CNET](https://www.cnet.com/tech/services-and-software/where-to-stream-all-top-100-live-tv-channels-no-cable-required/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
