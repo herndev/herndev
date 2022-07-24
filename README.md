@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat](http://9gag.com/gag/a81xA4V)
+ - 💣 [Train to Rangpur: The zombie train in Bangladesh.](http://9gag.com/gag/avAKWmE)
  - ⏩ [Little monster](http://9gag.com/gag/a91gyMj)
- - 👉 [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)<!-- MEMES:END -->
+ - 👉 [YES](http://9gag.com/gag/abgneLX)<!-- MEMES:END -->
 
 ---
 
