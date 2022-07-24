@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aye it be so](http://9gag.com/gag/abgngKp)
- - ⏩ [Blue Jay](http://9gag.com/gag/aWg3GO6)
- - 👉 [Praise be to God!](http://9gag.com/gag/aYrXQWq)<!-- MEMES:END -->
+ - 💣 [Let&#39;s traumatize an entire generation](http://9gag.com/gag/aVxyxyw)
+ - ⏩ [Ghanaian musician Moussa Diarra demonstrating how to play the kush-kosh](http://9gag.com/gag/a61Y1Pb)
+ - 👉 [Pardon me](http://9gag.com/gag/a61YqP8)<!-- MEMES:END -->
 
 ---
 
