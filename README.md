@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BeReal Basics: How to Use the &#39;Unfiltered&#39; Social Media App](https://www.wired.com/story/how-to-use-bereal/)
- - [Life Helps Make Almost Half of All Minerals on Earth](https://www.wired.com/story/life-helps-make-almost-half-of-all-minerals-on-earth/)
- - [Marvel Reveals Phase 6 MCU Plans, Including 2 New Avengers Films     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-phase-6-mcu-plans-including-2-new-avengers-films/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)
+ - [How to Safely Lend Someone Else Your Phone](https://www.wired.com/story/how-to-safely-lend-someone-else-your-phone/)
+ - [As Dusk Falls’ couch co-op makes a middling thriller a lot more memorable](https://www.theverge.com/2022/7/24/23274602/as-dusk-falls-xbox-game-pass-review-couch-co-op)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
