@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Diego Comic-Con 2022 Highlights: Trailers and News You Need to See     - CNET](https://www.cnet.com/culture/entertainment/san-diego-comic-con-2022-highlights-trailers-and-news-you-need-to-see/#ftag=CAD590a51e)
- - [The Sandman’s Comic-Con trailer teases endless possibilities](https://www.theverge.com/2022/7/23/23275712/the-sandman-san-diego-comic-con-trailer-netflix)
- - [Gamers in China, where online porn is banned, are using the Steam app Wallpaper Engine as a cloud drive and a video player to exchange adult-only content &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220723/p12#a220723p12)<!-- TECH:END -->
+ - [Marvel confirms new Daredevil series for Disney Plus](https://www.theverge.com/2022/7/23/23275849/daredevil-born-again-disney-plus-sdcc)
+ - [Marvel finally reveals MCU Phase 5 Schedule     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-5-kicks-off-in-2023-includes-daredevil-born-again/#ftag=CAD590a51e)
+ - [San Diego Comic-Con 2022 Highlights: Trailers and News You Need to See     - CNET](https://www.cnet.com/culture/entertainment/san-diego-comic-con-2022-highlights-trailers-and-news-you-need-to-see/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
