@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Germany has come for you](http://9gag.com/gag/aogQK0m)
- - ⏩ [What&#39;re you doing step-planes](http://9gag.com/gag/aLv71AA)
- - 👉 [Aye it be so](http://9gag.com/gag/abgngKp)<!-- MEMES:END -->
+ - 💣 [Aye it be so](http://9gag.com/gag/abgngKp)
+ - ⏩ [Blue Jay](http://9gag.com/gag/aWg3GO6)
+ - 👉 [Praise be to God!](http://9gag.com/gag/aYrXQWq)<!-- MEMES:END -->
 
 ---
 
