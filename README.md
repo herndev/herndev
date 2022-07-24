@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel outlines Phase 6 with Fantastic Four and two new Avengers movies](https://www.theverge.com/2022/7/23/23275861/marvel-phase-6-fantastic-four-avengers-sdcc)
- - [Marvel’s Phase 5 will kick off with Ant-Man &amp; The Wasp: Quantumania and end with Thunderbolts](https://www.theverge.com/2022/7/23/23275850/marvel-phase-5-comic-con-loki-secret-invasion-captain-america)
- - [A look at the bipartisan American Data Privacy and Protection Act, which privacy experts say might finally give the US a strong federal data protection law &lpar;Gilad Edelman/Wired&rpar;](http://www.techmeme.com/220723/p13#a220723p13)<!-- TECH:END -->
+ - [Black Panther: Wakanda Forever Trailer Unveiled at San Diego Comic-Con     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-trailer-unveiled-at-san-diego-comic-con/#ftag=CAD590a51e)
+ - [Marvel Finally Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-5-kicks-off-in-2023-includes-daredevil-born-again/#ftag=CAD590a51e)
+ - [Marvel outlines Phase 6 with Fantastic Four and two new Avengers movies](https://www.theverge.com/2022/7/23/23275861/marvel-phase-6-fantastic-four-avengers-sdcc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
