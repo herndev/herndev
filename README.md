@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the nearly two-year-old chip shortage upended Detroit&#39;s car manufacturing, which a historian says may be the biggest disruption since the 1970s fuel crisis &lpar;Jeanne Whalen/Washington Post&rpar;](http://www.techmeme.com/220724/p1#a220724p1)
- - [Black Panther: Wakanda Forever Trailer Unveiled at San Diego Comic-Con     - CNET](https://www.cnet.com/culture/entertainment/black-panther-wakanda-forever-trailer-unveiled-at-san-diego-comic-con/#ftag=CAD590a51e)
- - [Marvel Finally Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-5-kicks-off-in-2023-includes-daredevil-born-again/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BMW’s Heated Seats as a Service Model Has Drivers Seeking Hacks](https://www.wired.com/story/bmw-heated-seats-as-a-service-model-has-drivers-seeking-hacks/)
+ - [How to Digitize Old Photos With Your Phone](https://www.wired.com/story/best-photo-scanning-apps/)
+ - [How China&#39;s mass collection of personal info and its new, unevenly enforced data security rules contribute to a thriving underground market for stolen data &lpar;Karen Hao/Wall Street Journal&rpar;](http://www.techmeme.com/220724/p2#a220724p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
