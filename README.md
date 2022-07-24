@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Loopool](http://9gag.com/gag/aLv7pPz)
- - ⏩ [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
- - 👉 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
+ - 💣 [I&#39;m not saying you&#39;re good, I&#39;m just saying you&#39;re not THAT bad](http://9gag.com/gag/aE8mpZM)
+ - ⏩ [Loopool](http://9gag.com/gag/aLv7pPz)
+ - 👉 [Cooking with a view](http://9gag.com/gag/a71RW7e)<!-- MEMES:END -->
 
 ---
 
