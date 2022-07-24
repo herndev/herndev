@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: new &quot;Pro&quot; Apple Watch will have about 7% larger screen, a new design, and a case with a more durable formulation of titanium to make it extra rugged &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220724/p4#a220724p4)
- - [When Google Maps struggles, Citymapper comes to my rescue](https://www.androidauthority.com/citymapper-vs-google-maps-3189239/)
- - [Feds’ case against Huawei in cell networks tracked ‘unprofitable’ deals near US military bases](https://www.theverge.com/2022/7/24/23276222/huawei-telecom-cell-networks-unprofitable-deals-us-military-bases)<!-- TECH:END -->
+ - [One America News gets dumped by Verizon, the only major carrier it had left](https://www.theverge.com/2022/7/24/23276366/one-america-news-verizon-fios-dumped-major-carriers-oan)
+ - [Get up to $200 in Samsung credit to preorder upcoming Galaxy Fold, Watch devices](https://appleinsider.com/articles/22/07/20/get-up-to-200-in-samsung-credit-to-preorder-upcoming-galaxy-fold-watch-devices?utm_medium=rss)
+ - [San Diego Comic-Con 2022 Highlights: MCU Phase 5, 2 New Avengers Movies and All the Big Trailers     - CNET](https://www.cnet.com/culture/entertainment/san-diego-comic-con-2022-highlights-mcu-phase-5-2-new-avengers-movies-and-all-the-big-trailers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
