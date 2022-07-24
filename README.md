@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People throwing water bottles at Kid Cudi during Rolling Loud festival](http://9gag.com/gag/amg457d)
+ - 💣 [Loopool](http://9gag.com/gag/aLv7pPz)
  - ⏩ [Little bugger saw his opportunity and took it](http://9gag.com/gag/aYrXyR7)
- - 👉 [English is weird](http://9gag.com/gag/ay9jeLy)<!-- MEMES:END -->
+ - 👉 [That\u2019s it](http://9gag.com/gag/aLv7pnP)<!-- MEMES:END -->
 
 ---
 
