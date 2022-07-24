@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)
- - [Formula 1 French Grand Prix Starts Now: How to Watch the Race Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-french-grand-prix-starts-now-how-to-watch-the-race-live/#ftag=CAD590a51e)
- - [The Best Accessories and Tech Essentials for Your Dog](https://www.wired.com/gallery/best-dog-accessories-and-tech/)<!-- TECH:END -->
+ - [Daily deals July 24: $499 M1 Mac mini, $328 Vizio 55-inch smart TV, $79 AirTag 4-pack, more](https://appleinsider.com/articles/22/07/24/daily-deals-july-24-699-m1-mac-mini-328-vizio-55-inch-smart-tv-79-airtag-4-pack-more?utm_medium=rss)
+ - [How to calibrate an Apple Watch for accurate fitness tracking](https://appleinsider.com/articles/21/11/08/how-to-calibrate-an-apple-watch-for-accurate-fitness-tracking?utm_medium=rss)
+ - [A look at attacks on internet cables in France in April 2022, when &quot;backbone cables&quot; were surgically cut in three locations around Paris in around two hours &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220724/p3#a220724p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
