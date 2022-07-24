@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus players are extremely salty about Taz, the Tasmanian Devil](https://www.pcgamer.com/multiversus-players-are-extremely-salty-about-taz-the-tasmanian-devil)
- - [Here&#39;s 30 minutes of American Truck Simulator: Montana to soothe your frazzled nerves](https://www.pcgamer.com/heres-30-minutes-of-american-truck-simulator-montana-to-soothe-your-frazzled-nerves)
- - [Hear me out: Risk of Rain 2 is the Mario 64 of roguelikes](https://www.polygon.com/reviews/23274644/risk-of-rain-2-review-roguelike-mario-64-windows-switch-xbox-ps4)<!-- GAME:END -->
+ - [These classic creature features prove you don’t need a shark for a great Jaws movie](https://www.polygon.com/what-to-watch/23272697/piranha-orca-alligator-movies-like-jaws)
+ - [Apex Legends accident might have leaked Season 14&#39;s new character Vantage](https://www.pcgamer.com/apex-legends-accident-might-have-leaked-season-14s-new-character-vantage)
+ - [MultiVersus players are extremely salty about Taz, the Tasmanian Devil](https://www.pcgamer.com/multiversus-players-are-extremely-salty-about-taz-the-tasmanian-devil)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
