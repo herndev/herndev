@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hytale&#39;s not coming in 2023, so renew your patience](https://www.pcgamer.com/hytales-not-coming-in-2023-so-renew-your-patience)
  - [These classic creature features prove you don’t need a shark for a great Jaws movie](https://www.polygon.com/what-to-watch/23272697/piranha-orca-alligator-movies-like-jaws)
- - [Apex Legends accident might have leaked Season 14&#39;s new character Vantage](https://www.pcgamer.com/apex-legends-accident-might-have-leaked-season-14s-new-character-vantage)
- - [MultiVersus players are extremely salty about Taz, the Tasmanian Devil](https://www.pcgamer.com/multiversus-players-are-extremely-salty-about-taz-the-tasmanian-devil)<!-- GAME:END -->
+ - [Apex Legends accident might have leaked Season 14&#39;s new character Vantage](https://www.pcgamer.com/apex-legends-accident-might-have-leaked-season-14s-new-character-vantage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
