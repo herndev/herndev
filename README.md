@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
  - [The OnePlus 10T won’t have a mute switch — here’s why](https://www.theverge.com/2022/7/24/23273890/oneplus-10t-design-alert-slider-display-size-camera-specs)
- - [The best alternatives to Apple&#39;s Dark Sky weather app](https://appleinsider.com/articles/22/07/24/the-best-alternatives-to-apples-dark-sky-weather-app?utm_medium=rss)
- - [An in-depth look at the research collaboration between NASA and the FAA since 2017 to write new US airspace rules for safely accommodating millions of drones &lpar;Chris Feliciano Arnold/Bloomberg&rpar;](http://www.techmeme.com/220724/p6#a220724p6)<!-- TECH:END -->
+ - [The best alternatives to Apple&#39;s Dark Sky weather app](https://appleinsider.com/articles/22/07/24/the-best-alternatives-to-apples-dark-sky-weather-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
