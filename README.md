@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The wisdom of the ages:](http://9gag.com/gag/aVxy7O8)
- - ⏩ [Well water is wet so...](http://9gag.com/gag/aogQPd2)
- - 👉 [Loopool](http://9gag.com/gag/aLv7pPz)<!-- MEMES:END -->
+ - 💣 [The Feeler: My truth](http://9gag.com/gag/a0ZyZOB)
+ - ⏩ [That\u2019s it](http://9gag.com/gag/aLv7pnP)
+ - 👉 [Every darn time.](http://9gag.com/gag/amg4v49)<!-- MEMES:END -->
 
 ---
 
