@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Refund Me If You Can challenges you to beat it in under 2 hours](https://www.pcgamer.com/refund-me-if-you-can-challenges-you-to-beat-it-in-under-2-hours)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
- - [With games like Jill of the Jungle, Rick Dangerous, and James Pond 2, the PC wasn&#39;t exactly spoiled for great platformers back in the day](https://www.pcgamer.com/saturday-crapshoot-quickies-week-ii)<!-- GAME:END -->
+ - [Black Panther 2 trailer shows what’s next for Wakanda](https://www.polygon.com/sdcc/23132717/black-panther-2-trailer-wakanda-shuri-namor)
+ - [Here’s the official slate for Marvel’s Phase 5 and 6](https://www.polygon.com/sdcc/23275835/marvel-mcu-phase-5-schedule-calendar-upcoming-ant-man)
+ - [Marvel announces a Fantastic Four movie release date](https://www.polygon.com/sdcc/23272901/comic-con-fantastic-four-revealed-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
