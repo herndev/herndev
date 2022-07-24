@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #400: Sunday, July 24](https://www.pcgamer.com/wordle-today-july-24-400-answer-hint)
  - [Everything we know about Namor, Black Panther 2’s supposed new villain](https://www.polygon.com/sdcc/23275915/namor-black-panther-2-villain-mcu)
- - [Avengers: Secret Wars could give the MCU the ultimate superpower: a reboot](https://www.polygon.com/sdcc/23275883/marvel-phase-6-secret-wars-kang-dynasty)
- - [Gotham Knights: Everything we know about the co-op Bat Family game](https://www.pcgamer.com/gotham-knights-release-date-characters-gameplay)<!-- GAME:END -->
+ - [Avengers: Secret Wars could give the MCU the ultimate superpower: a reboot](https://www.polygon.com/sdcc/23275883/marvel-phase-6-secret-wars-kang-dynasty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
