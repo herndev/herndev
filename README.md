@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s The Sandman TV series has a trailer worth dreaming about](https://www.polygon.com/sdcc/23273180/sandman-trailer-netflix-dc-comics-neil-gaiman-tom-sturridge)
- - [Interview with a Vampire gives fans first bite of the new series with a trailer](https://www.polygon.com/sdcc/23220434/interview-with-a-vampire-trailer-tv-sdcc-release-date)
- - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)<!-- GAME:END -->
+ - [Refund Me If You Can challenges you to beat it in under 2 hours](https://www.pcgamer.com/refund-me-if-you-can-challenges-you-to-beat-it-in-under-2-hours)
+ - [Watch the best San Diego Comic-Con 2022 trailers here](https://www.polygon.com/sdcc/23274873/san-diego-comic-con-2022-trailers-movie-tv)
+ - [With games like Jill of the Jungle, Rick Dangerous, and James Pond 2, the PC wasn&#39;t exactly spoiled for great platformers back in the day](https://www.pcgamer.com/saturday-crapshoot-quickies-week-ii)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
