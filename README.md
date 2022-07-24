@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mini clubbing](http://9gag.com/gag/avAKAmW)
- - ⏩ [Oh boy..](http://9gag.com/gag/aDDeDgd)
- - 👉 [Inherited this beauty from my father. Only 67000 km. Complete history intact. Now fully serviced ready to travel.](http://9gag.com/gag/aM4M4DG)<!-- MEMES:END -->
+ - 💣 [I&#39;m bad I&#39;m bad](http://9gag.com/gag/avAKAb5)
+ - ⏩ [I don&#39;t usually like cats but this one melted my heart. And I&#39;m glad she has a home now](http://9gag.com/gag/aWg3jK6)
+ - 👉 [Old Hollywood Bloopers](http://9gag.com/gag/a61Y1q9)<!-- MEMES:END -->
 
 ---
 
