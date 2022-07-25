@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Can Ring Vaccination Contain Monkeypox in the US?](https://www.wired.com/story/ring-vaccination-beat-smallpox-could-it-work-for-monkeypox/)
- - [Interstate Travel Post-Roe Isn’t as Secure as You May Think](https://www.wired.com/story/insterstate-travel-abortion-post-roe/)
- - [Russia Is Quietly Ramping Up Its Internet Censorship Machine](https://www.wired.com/story/russia-internet-censorship-splinternet/)<!-- TECH:END -->
+ - [How Electronic Arts Tries to Make Diverse Video Games](https://www.wired.com/story/electronic-arts-inclusive-diverse-video-games/)
+ - [How Do You Know a Cargo Ship Is Polluting? It Makes Clouds](https://www.wired.com/story/how-do-you-know-a-cargo-ship-is-polluting-it-makes-clouds/)
+ - [The HP Dev One Is the Best Linux Laptop We’ve Tested](https://www.wired.com/review/hp-dev-one-linux-laptop/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
