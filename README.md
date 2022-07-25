@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is paying some much-needed attention to its Android tablet apps](https://www.theverge.com/2022/7/25/23277050/google-android-tablet-apps-update-docs-slides-drive-sheets)
- - [Google Play gets a new logo for its 10-year anniversary](https://www.theverge.com/2022/7/25/23277042/google-play-new-logo-10-year-anniversary)
- - [Hulu blocks ads on abortion, guns, and climate change — and Dems aren’t happy](https://www.theverge.com/2022/7/25/23277391/hulu-blocks-democratic-ads-abortion-guns-climate-change-january-6-insurrection)<!-- TECH:END -->
+ - [The ten keyboard shortcuts that make using your Mac faster](https://appleinsider.com/inside/macos/tips/the-ten-keyboard-shortcuts-that-make-using-your-mac-faster?utm_medium=rss)
+ - [Blue Apron has realized that we don’t really want to do any work](https://www.theverge.com/2022/7/25/23277373/blue-apron-ready-to-cook-meal-kit-service)
+ - [The trial of Ahmad Abouammo, once a rising star at Twitter, is underway; he is charged with spying for Saudi Arabia, outing dissidents who likely faced torture &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220725/p19#a220725p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
