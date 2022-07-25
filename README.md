@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Funko&#39;s awful dolls are coming to an action platformer near you](https://www.pcgamer.com/funkos-awful-dolls-are-coming-to-an-action-platformer-near-you)
- - [The Lord of the Rings: Gollum gets another delay, precious](https://www.polygon.com/23277541/the-lord-of-the-rings-gollum-delay-new-release-date)
- - [Stray’s Secret Weapon: A PR Campaign Unlike Any Other In Gaming](https://kotaku.com/stray-annapurna-interactive-meow-parlour-travel-cat-1849327602)<!-- GAME:END -->
+ - [One of the best games of 2013 is getting a mobile port](https://www.polygon.com/23277667/papers-please-mobile-game-release)
+ - [Rogue Trader will explore the far reaches of the Warhammer 40,000 universe](https://www.polygon.com/gaming/23272839/warhammer-40k-rogue-trader-crpg-interview)
+ - [I&#39;m Entering My Fortnite Era In 2022, Thanks To No Build And Quests](https://kotaku.com/fortnite-2022-quests-zero-build-fun-indiana-jones-1849327938)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
