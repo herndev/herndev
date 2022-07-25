@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
- - ⏩ [Courage: The capability to hide fear](http://9gag.com/gag/a31XGj7)
- - 👉 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)<!-- MEMES:END -->
+ - 💣 [How average girls use Tinder](http://9gag.com/gag/ay9jN4Y)
+ - ⏩ [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
+ - 👉 [Train to Rangpur: The zombie train in Bangladesh.](http://9gag.com/gag/avAKWmE)<!-- MEMES:END -->
 
 ---
 
