@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 25: $200 4K monitor, $180 AirPods Pro, $100 off M1 MacBook Air, more](https://appleinsider.com/articles/22/07/25/daily-deals-july-25-200-4k-monitor-180-airpods-pro-100-off-m1-macbook-air-more?utm_medium=rss)
- - [Defending HomeKit Secure Video, Thread 1.3.0 explained, &amp; Eve Motion, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/07/25/defending-homekit-secure-video-thread-130-explained-eve-motion-more-on-homekit-insider?utm_medium=rss)
- - [All the best trailers from SDCC 2022](https://www.theverge.com/comic-con/23274366/sdcc-2022-comic-con-trailers-black-panther-lotr-john-wick-shazam)<!-- TECH:END -->
+ - [A New Time-Travel App, Reviewed](https://www.wired.com/story/review-time-travel-app-chronoswoop/)
+ - [Uber admits covering up massive 2016 data breach in settlement with US prosecutors](https://www.theverge.com/2022/7/25/23277161/uber-2016-data-breach-settlement-cover-up)
+ - [Apple still a safe haven stock amid sticky macroeconomic situation, analyst says](https://appleinsider.com/articles/22/07/25/apple-still-a-safe-haven-stock-amid-sticky-macroeconomic-situation-analyst-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
