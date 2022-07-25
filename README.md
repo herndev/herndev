@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ready or not, the Glassholes are coming back](https://www.theverge.com/2022/7/25/23054367/google-ar-glasses-glassholes-coming-back)
- - [Facebook will give you ad revenue for putting Post Malone’s music in your videos](https://www.theverge.com/2022/7/25/23277839/facebook-post-malone-meta-youtube-music)
- - [Lego’s new Minifigure Factory lets you create a $12 minifig of yourself](https://www.theverge.com/2022/7/25/23277421/lego-minifigure-factory-tool-customize)<!-- TECH:END -->
+ - [Android 13 Beta 4.1 for Pixel fixes some bugs](https://www.androidauthority.com/android-13-beta-4-1-3190150/)
+ - [US resurrects green energy loan program that helped put Tesla on the map](https://www.theverge.com/2022/7/25/23277838/doe-atvm-loan-gm-lg-battery-joint-venture)
+ - [The Gollum video game won’t be launching with Amazon’s LotR show anymore](https://www.theverge.com/2022/7/25/23277777/gollum-video-game-delay-lord-of-the-rings-of-power-amazon-show)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
