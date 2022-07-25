@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The ten keyboard shortcuts that make using your Mac faster](https://appleinsider.com/inside/macos/tips/the-ten-keyboard-shortcuts-that-make-using-your-mac-faster?utm_medium=rss)
- - [Blue Apron has realized that we don’t really want to do any work](https://www.theverge.com/2022/7/25/23277373/blue-apron-ready-to-cook-meal-kit-service)
- - [The trial of Ahmad Abouammo, once a rising star at Twitter, is underway; he is charged with spying for Saudi Arabia, outing dissidents who likely faced torture &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220725/p19#a220725p19)<!-- TECH:END -->
+ - [iPad Pro with OLED may be more expensive because of dry etching](https://appleinsider.com/articles/22/07/25/ipad-pro-with-oled-may-be-more-expensive-because-of-dry-etching?utm_medium=rss)
+ - [Anker’s new GaNPrime chargers are more powerful and slightly smaller](https://www.theverge.com/2022/7/25/23277347/anker-ganprime-fast-charging-usb-c-747)
+ - [Overwatch League team loses tournament in embarrassingly hilarious way](https://www.theverge.com/2022/7/25/23277168/overwatch-league-midseason-madness-tournament-san-francisco-shock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
