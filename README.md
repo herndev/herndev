@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
+ - 💣 [We just want Borgir !!](http://9gag.com/gag/a91g6XL)
  - ⏩ [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
  - 👉 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)<!-- MEMES:END -->
 
