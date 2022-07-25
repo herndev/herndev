@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If Starfield takes one thing from Elite Dangerous, I hope it&#39;s bus driving](https://www.pcgamer.com/if-starfield-takes-one-thing-from-elite-dangerous-i-hope-its-bus-driving)
  - [Thanks to a modder, the cat in Stray now hates Mondays and loves lasagna](https://www.pcgamer.com/stray-mods)
- - [Somebody decoded Stray&#39;s mystery language](https://www.pcgamer.com/somebody-decoded-strays-mystery-language)
- - [MultiVersus unlock time: when does it actually release?](https://www.pcgamer.com/multiversus-unlock-time-open-beta)<!-- GAME:END -->
+ - [Somebody decoded Stray&#39;s mystery language](https://www.pcgamer.com/somebody-decoded-strays-mystery-language)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
