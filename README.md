@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro with OLED may be more expensive because of dry etching](https://appleinsider.com/articles/22/07/25/ipad-pro-with-oled-may-be-more-expensive-because-of-dry-etching?utm_medium=rss)
- - [Anker’s new GaNPrime chargers are more powerful and slightly smaller](https://www.theverge.com/2022/7/25/23277347/anker-ganprime-fast-charging-usb-c-747)
- - [Overwatch League team loses tournament in embarrassingly hilarious way](https://www.theverge.com/2022/7/25/23277168/overwatch-league-midseason-madness-tournament-san-francisco-shock)<!-- TECH:END -->
+ - [The NFL launches its NFL+ streaming service, offering a $4.99/month tier and $9.99/month Premium tier with full game replays; NFL+ replaces Game Pass in the US &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220725/p21#a220725p21)
+ - [Avatar Studios’ first animated movie will feature very familiar faces](https://www.theverge.com/2022/7/25/23277475/avatar-studios-airbender-first-animated-movie-aang-comic-con-reveal)
+ - [Creators are turning to chat apps like Discord and Geneva to build communities, which they say offer a more intimate experience than traditional social networks &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220725/p20#a220725p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
