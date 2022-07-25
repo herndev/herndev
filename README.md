@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ASRock prepares to enter the gaming monitor market](https://www.pcgamer.com/asrock-prepares-to-enter-the-gaming-monitor-market)
- - [Overclocker gives Intel&#39;s Arc A380 GPU more power and sees huge gains](https://www.pcgamer.com/overclocker-gives-intels-arc-a380-gpu-more-power-and-sees-huge-gains)
- - [Today&#39;s Wordle answer #401: Monday, July 25](https://www.pcgamer.com/wordle-today-july-25-401-answer-hint)<!-- GAME:END -->
+ - [2K has quietly delisted almost all of the WWE games on Steam](https://www.pcgamer.com/2k-has-quietly-delisted-almost-all-of-the-wwe-games-on-steam)
+ - [Stray modders are putting their own four-legged friends in the game](https://www.pcgamer.com/stray-modders-are-putting-their-own-four-legged-friends-in-the-game)
+ - [Spooky Half-Life 2 mod &#39;We Don’t Go to Ravenholm&#39; has a demo out now](https://www.pcgamer.com/spooky-half-life-2-mod-we-dont-go-to-ravenholm-has-a-demo-out-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
