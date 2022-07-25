@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jake Paul vs. Hasim Rahman Jr.: Fight Date, Start Time, How to Watch     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-fight-date-start-time-how-to-watch/#ftag=CAD590a51e)
- - [The Best Netflix Fantasy TV Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-tv-shows-2022/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix rolls out a button for iOS and iPadOS users to take them directly to its site to sign up, which avoids the App Store cut via an API for &quot;reader apps&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220724/p7#a220724p7)
+ - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-flicks-to-stream/#ftag=CAD590a51e)
+ - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
