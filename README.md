@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Voyager says the restructuring proposal by FTX and Alameda is &quot;a low-ball bid dressed up as a white knight rescue&quot; that disrupts the bankruptcy process &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220725/p1#a220725p1)
- - [Elon Musk denies report of an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
- - [Ethereum Merge Explained: Why It Matters For Everyone     - CNET](https://www.cnet.com/personal-finance/crypto/ethereum-merge-explained-why-it-matters-for-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Report: CEO of Chinese smartphone brand Honor said the company pulled its team out of India, where authorities have been investigating Chinese smartphone firms &lpar;Jiaxing Li/South China Morning Post&rpar;](http://www.techmeme.com/220725/p2#a220725p2)
+ - [Here’s why the OnePlus 10T is missing an alert slider and Hasselblad branding](https://www.androidauthority.com/oneplus-10t-alert-slider-3189936/)
+ - [Filing: Voyager says the restructuring proposal by FTX and Alameda is &quot;a low-ball bid dressed up as a white knight rescue&quot; that disrupts the bankruptcy process &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220725/p1#a220725p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
