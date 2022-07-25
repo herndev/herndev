@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Corsair is expected to announce a quarterly financial loss as the economy struggles](https://www.pcgamer.com/corsair-is-expected-to-announce-a-quarterly-financial-loss-as-the-economy-struggles)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [Halo Infinite co-op won&#39;t have online matchmaking, for some reason](https://www.pcgamer.com/halo-infinite-co-op-wont-have-online-matchmaking-for-some-reason)<!-- GAME:END -->
+ - [Overclocker gives Intel&#39;s Arc A380 GPU more power and sees huge gains](https://www.pcgamer.com/overclocker-gives-intels-arc-a380-gpu-more-power-and-sees-huge-gains)
+ - [Today&#39;s Wordle answer #401: Monday, July 25](https://www.pcgamer.com/wordle-today-july-25-401-answer-hint)
+ - [Corsair is expected to announce a quarterly financial loss as the economy struggles](https://www.pcgamer.com/corsair-is-expected-to-announce-a-quarterly-financial-loss-as-the-economy-struggles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
