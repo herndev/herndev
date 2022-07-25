@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Time-Travel App, Reviewed](https://www.wired.com/story/review-time-travel-app-chronoswoop/)
- - [Uber admits covering up massive 2016 data breach in settlement with US prosecutors](https://www.theverge.com/2022/7/25/23277161/uber-2016-data-breach-settlement-cover-up)
- - [Apple still a safe haven stock amid sticky macroeconomic situation, analyst says](https://appleinsider.com/articles/22/07/25/apple-still-a-safe-haven-stock-amid-sticky-macroeconomic-situation-analyst-says?utm_medium=rss)<!-- TECH:END -->
+ - [Hunting for asteroids at twilight is turning up space rocks we normally wouldn’t see](https://www.theverge.com/2022/7/25/23272751/asteroid-hunting-twilight-blanco-4-telescope)
+ - [The Samsung Galaxy Z Fold 4 and Flip 4 may use batteries from three companies](https://www.androidauthority.com/galaxy-z-fold-4-and-flip-4-batteries-3190052/)
+ - [The Chip Shortage is Easing—But Only For Some](https://www.wired.com/story/the-chip-shortage-is-easing-but-only-for-some/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
