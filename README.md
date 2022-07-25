@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mod Turns The Cat From Stray Into CJ From San Andreas](https://kotaku.com/stray-cat-mod-gta-cj-san-andreas-pc-horse-1849325755)
  - [GameStop took down an NFT based on a 9/11 victim](https://www.pcgamer.com/gamestop-took-down-an-nft-based-on-a-911-victim)
- - [The Incredible Story Of Mario Kart: Double Dash&#39;s Hidden Shortcuts](https://kotaku.com/mario-kart-double-dash-speedrun-shortcut-nintendo-1849325683)
- - [Hytale&#39;s not coming in 2023, so renew your patience](https://www.pcgamer.com/hytales-not-coming-in-2023-so-renew-your-patience)<!-- GAME:END -->
+ - [The Incredible Story Of Mario Kart: Double Dash&#39;s Hidden Shortcuts](https://kotaku.com/mario-kart-double-dash-speedrun-shortcut-nintendo-1849325683)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
