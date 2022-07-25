@@ -107,8 +107,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [China successfully launches Wentian module as space station nears completion](https://www.theverge.com/2022/7/24/23276578/china-launches-wentian-module-tiangong-space-station)
- - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
- - [You Don&#39;t Need Cable TV to Watch All Your Favorite Live Channels     - CNET](https://www.cnet.com/tech/services-and-software/where-to-stream-all-top-100-live-tv-channels-no-cable-required/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)
+ - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
