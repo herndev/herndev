@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On Vice City in particular](http://9gag.com/gag/abgnOmv)
- - ⏩ [How new housing?](http://9gag.com/gag/a41Oz0p)
- - 👉 [Collect today 20 kg of garbage. Total is 1320kg. I keep going until people don\u2019t litter at all, even if it takes my whole live.](http://9gag.com/gag/aeg8ZPm)<!-- MEMES:END -->
+ - 💣 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
+ - ⏩ [There&#39;s absolutely ZERO chance to find a vampire in that area.](http://9gag.com/gag/a81x0LV)
+ - 👉 [That&#39;s how you do it](http://9gag.com/gag/aRrqMYj)<!-- MEMES:END -->
 
 ---
 
