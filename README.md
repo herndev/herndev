@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [European investing app Shares, which debuted in the UK two months ago and has 150K+ users, raises $40M led by Valar Ventures, bringing its total raised to $90M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220724/p8#a220724p8)
- - [Elon Musk Reportedly Had Affair With Google Co-Founder&#39;s Wife     - CNET](https://www.cnet.com/tech/elon-musk-reportedly-had-affair-with-google-co-founders-wife/#ftag=CAD590a51e)
- - [Netflix rolls out a button for iOS and iPadOS users to take them directly to its site to sign up, which avoids the App Store cut via an API for &quot;reader apps&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220724/p7#a220724p7)<!-- TECH:END -->
+ - [Filing: Voyager says the restructuring proposal by FTX and Alameda is &quot;a low-ball bid dressed up as a white knight rescue&quot; that disrupts the bankruptcy process &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220725/p1#a220725p1)
+ - [Elon Musk denies report of an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)
+ - [Ethereum Merge Explained: Why It Matters For Everyone     - CNET](https://www.cnet.com/personal-finance/crypto/ethereum-merge-explained-why-it-matters-for-everyone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
