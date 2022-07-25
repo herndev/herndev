@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
- - ⏩ [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
- - 👉 [Neymar during a preseason game in Japan](http://9gag.com/gag/aOQL9oM)<!-- MEMES:END -->
+ - 💣 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
+ - ⏩ [Perhaps I&#39;m not ready to be a father](http://9gag.com/gag/aNPEVDG)
+ - 👉 [Typical](http://9gag.com/gag/aLv7A9z)<!-- MEMES:END -->
 
 ---
 
