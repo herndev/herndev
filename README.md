@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
- - [Some of Nope’s enigmas are better left unsolved](https://www.polygon.com/23274697/jordan-peele-nope-ending-explained)
- - [How Digimon Survive’s Karma system impacts your Digimon and story, out July 29](https://blog.playstation.com/2022/07/25/how-digimon-survives-karma-system-impacts-your-digimon-and-story-out-july-29/)<!-- GAME:END -->
+ - [Welcome to the Computer Lab](https://www.polygon.com/23268686/computer-lab-week-2022)
+ - [Type to Learn became a battle royale in our computer lab](https://www.polygon.com/23270747/type-to-learn-computer-lab-retrospective)
+ - [I watched iPods take over my school’s computer lab](https://www.polygon.com/23269653/school-computer-lab-ipod-touch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
