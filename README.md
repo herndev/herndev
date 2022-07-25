@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China successfully launches Wentian module as space station nears completion](https://www.theverge.com/2022/7/24/23276578/china-launches-wentian-module-tiangong-space-station)
- - [Marvel Reveals MCU Phase 5 Schedule, Gives First Phase 6 Details     - CNET](https://www.cnet.com/culture/entertainment/marvel-reveals-mcu-phase-5-schedule-gives-first-phase-6-details/#ftag=CAD590a51e)
- - [Elon Musk reportedly had an affair with Google co-founder Sergey Brin’s wife](https://www.theverge.com/2022/7/24/23276518/elon-musk-sergey-brin-tesla-google-affair-nicole-shanahan)<!-- TECH:END -->
+ - [Jake Paul vs. Hasim Rahman Jr.: Fight Date, Start Time, How to Watch     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-fight-date-start-time-how-to-watch/#ftag=CAD590a51e)
+ - [The Best Netflix Fantasy TV Shows You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-tv-shows-2022/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-watch-on-hbo-max-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
