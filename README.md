@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case you missed it. These are the c**ts that tell you to use less energy, save on your spendings and all that shit and just granted themselves an 8.5% pay increase a few days ago!](http://9gag.com/gag/arn7X05)
- - ⏩ [Hats off good sir.](http://9gag.com/gag/a81xDG6)
- - 👉 [Horologist](http://9gag.com/gag/aRrqvrq)<!-- MEMES:END -->
+ - 💣 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)
+ - ⏩ [Broke as always](http://9gag.com/gag/aqGoQx7)
+ - 👉 [Sucking Dicks not allowed](http://9gag.com/gag/avAKxOq)<!-- MEMES:END -->
 
 ---
 
