@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: CEO of Chinese smartphone brand Honor said the company pulled its team out of India, where authorities have been investigating Chinese smartphone firms &lpar;Jiaxing Li/South China Morning Post&rpar;](http://www.techmeme.com/220725/p2#a220725p2)
- - [Here’s why the OnePlus 10T is missing an alert slider and Hasselblad branding](https://www.androidauthority.com/oneplus-10t-alert-slider-3189936/)
- - [Filing: Voyager says the restructuring proposal by FTX and Alameda is &quot;a low-ball bid dressed up as a white knight rescue&quot; that disrupts the bankruptcy process &lpar;Yueqi Yang/Bloomberg&rpar;](http://www.techmeme.com/220725/p1#a220725p1)<!-- TECH:END -->
+ - [A global shortage of fiber optic cable has driven up prices and lengthened lead times, especially in Europe, India, and China, casting a shadow over 5G rollouts &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220725/p4#a220725p4)
+ - [OnePlus 10T: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-10t-2-3185490/)
+ - [Zomato stock dropped 14%+ to a record low after a lock-in period expired, giving the company a market cap of $4.2B, down from $13.2B on its IPO debut year ago &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220725/p3#a220725p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
