@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 Beta 4.1 for Pixel fixes some bugs](https://www.androidauthority.com/android-13-beta-4-1-3190150/)
- - [US resurrects green energy loan program that helped put Tesla on the map](https://www.theverge.com/2022/7/25/23277838/doe-atvm-loan-gm-lg-battery-joint-venture)
- - [The Gollum video game won’t be launching with Amazon’s LotR show anymore](https://www.theverge.com/2022/7/25/23277777/gollum-video-game-delay-lord-of-the-rings-of-power-amazon-show)<!-- TECH:END -->
+ - [Teenagers spotted the largest gas pipeline spill in US history](https://www.theverge.com/2022/7/25/23277804/largest-gas-pipeline-spill-us-history-colonial-north-carolina)
+ - [Anti-vax dating site exposed data for 3,500 users through ‘debug mode’ bug](https://www.theverge.com/2022/7/25/23277788/unjected-anti-vax-dating-debug-mode-data-covid)
+ - [Genshin Impact’s next major update will add two beautiful new biomes](https://www.theverge.com/2022/7/25/23277952/genshin-impact-sumeru-3-0-update-rainforest-desert-biomes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
