@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman practicing Beryozka dancing.](http://9gag.com/gag/aAGzE52)
- - ⏩ [You people disgust me](http://9gag.com/gag/aRrqZ95)
- - 👉 [How new housing?](http://9gag.com/gag/a41Oz0p)<!-- MEMES:END -->
+ - 💣 [On Vice City in particular](http://9gag.com/gag/abgnOmv)
+ - ⏩ [How new housing?](http://9gag.com/gag/a41Oz0p)
+ - 👉 [Collect today 20 kg of garbage. Total is 1320kg. I keep going until people don\u2019t litter at all, even if it takes my whole live.](http://9gag.com/gag/aeg8ZPm)<!-- MEMES:END -->
 
 ---
 
