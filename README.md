@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crocodiles swim way faster than you think.](http://9gag.com/gag/aggzO1g)
- - ⏩ [I want to join](http://9gag.com/gag/aE8mVQp)
- - 👉 [She seems fun at parties](http://9gag.com/gag/aogQ3b2)<!-- MEMES:END -->
+ - 💣 [She seems fun at parties](http://9gag.com/gag/aogQ3b2)
+ - ⏩ [Woman practicing Beryozka dancing.](http://9gag.com/gag/aAGzE52)
+ - 👉 [Italian police delivering a donor kidney travels 490 kilometers in two hours from Rome to Padua in a Lamborghini Huracan. His average speed during the trip was 233km/h &lpar;145mph&rpar;. The trip normally takes 6 hours.](http://9gag.com/gag/amg4GD6)<!-- MEMES:END -->
 
 ---
 
