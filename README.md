@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how you do it](http://9gag.com/gag/aRrqMYj)
- - ⏩ [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
- - 👉 [Collect today 20 kg of garbage. Total is 1320kg. I keep going until people don\u2019t litter at all, even if it takes my whole live.](http://9gag.com/gag/aeg8ZPm)<!-- MEMES:END -->
+ - 💣 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
+ - ⏩ [Silly design](http://9gag.com/gag/aKmovm1)
+ - 👉 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)<!-- MEMES:END -->
 
 ---
 
