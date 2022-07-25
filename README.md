@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
- - ⏩ [Sometimes, people don&#39;t just wanna watch the world burn....](http://9gag.com/gag/aogQVPg)
- - 👉 [Alright ... Enough Internet for Today !!](http://9gag.com/gag/a81x6K3)<!-- MEMES:END -->
+ - 💣 [Crocodiles swim way faster than you think.](http://9gag.com/gag/aggzO1g)
+ - ⏩ [I want to join](http://9gag.com/gag/aE8mVQp)
+ - 👉 [She seems fun at parties](http://9gag.com/gag/aogQ3b2)<!-- MEMES:END -->
 
 ---
 
