@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Teenagers spotted the largest gas pipeline spill in US history](https://www.theverge.com/2022/7/25/23277804/largest-gas-pipeline-spill-us-history-colonial-north-carolina)
- - [Anti-vax dating site exposed data for 3,500 users through ‘debug mode’ bug](https://www.theverge.com/2022/7/25/23277788/unjected-anti-vax-dating-debug-mode-data-covid)
- - [Genshin Impact’s next major update will add two beautiful new biomes](https://www.theverge.com/2022/7/25/23277952/genshin-impact-sumeru-3-0-update-rainforest-desert-biomes)<!-- TECH:END -->
+ - [Apple reaches a deal to settle a patent case with Koss, which in 2020 alleged that the AirPods violate five Koss&#39; patents; terms of the deal were not disclosed &lpar;Kelcee Griffis/Bloomberg Law&rpar;](http://www.techmeme.com/220725/p24#a220725p24)
+ - [Amazon’s best-selling new charcoal grill is... the Pixel Buds Pro?](https://www.theverge.com/tldr/2022/7/25/23278082/amazon-pixel-buds-pro-grill)
+ - [Dell is getting out of the phone syncing game](https://www.theverge.com/2022/7/25/23278047/dell-mobile-connect-discontinued-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
