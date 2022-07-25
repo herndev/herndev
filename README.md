@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wikipedia at it again:](http://9gag.com/gag/a31Xy5r)
- - ⏩ [Got deleted...wtf](http://9gag.com/gag/aWg3vg6)
+ - 💣 [Got deleted...wtf](http://9gag.com/gag/aWg3vg6)
+ - ⏩ [Smooth](http://9gag.com/gag/a41OAo1)
  - 👉 [Damn Iphone alarm](http://9gag.com/gag/aeg8xQ5)<!-- MEMES:END -->
 
 ---
