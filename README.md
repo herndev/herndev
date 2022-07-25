@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata player stumbles onto a secret that&#39;s remained hidden for 5 years](https://www.pcgamer.com/nier-automata-player-stumbles-onto-a-secret-thats-remained-hidden-for-5-years)
- - [Pokémon Go’s free new daily item is just what many players need](https://www.polygon.com/23268513/pokemon-go-daily-adventure-incense-new-item-rural-players)
- - [Booting Up Your Xbox Series X/S Just Got A Little Quicker](https://kotaku.com/xbox-series-x-s-boot-speed-next-gen-console-war-1849328585)<!-- GAME:END -->
+ - [Stray Falls Into The Usual Orientalism Pitfalls Of The Cyberpunk Genre](https://kotaku.com/stray-game-annapurna-interactive-cat-cyberpunk-1849328820)
+ - [Into The Breach’s Massive Free Update Feels Like A Sequel](https://kotaku.com/into-the-breach-advanced-edition-best-squads-switch-pc-1849328891)
+ - [Roller Champions is not cancelled, but Ubisoft is delaying the next season](https://www.pcgamer.com/roller-champions-is-not-cancelled-but-ubisoft-is-delaying-the-next-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
