@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2K has quietly delisted almost all of the WWE games on Steam](https://www.pcgamer.com/2k-has-quietly-delisted-almost-all-of-the-wwe-games-on-steam)
- - [Stray modders are putting their own four-legged friends in the game](https://www.pcgamer.com/stray-modders-are-putting-their-own-four-legged-friends-in-the-game)
- - [Spooky Half-Life 2 mod &#39;We Don’t Go to Ravenholm&#39; has a demo out now](https://www.pcgamer.com/spooky-half-life-2-mod-we-dont-go-to-ravenholm-has-a-demo-out-now)<!-- GAME:END -->
+ - [Netflix’s weird interactive specials, ranked by how much your choices matter](https://www.polygon.com/22286070/netflix-interactive-shows-movies-ranked)
+ - [Some of Nope’s enigmas are better left unsolved](https://www.polygon.com/23274697/jordan-peele-nope-ending-explained)
+ - [How Digimon Survive’s Karma system impacts your Digimon and story, out July 29](https://blog.playstation.com/2022/07/25/how-digimon-survives-karma-system-impacts-your-digimon-and-story-out-july-29/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
