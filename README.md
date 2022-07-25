@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How average girls use Tinder](http://9gag.com/gag/ay9jN4Y)
- - ⏩ [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
- - 👉 [Train to Rangpur: The zombie train in Bangladesh.](http://9gag.com/gag/avAKWmE)<!-- MEMES:END -->
+ - 💣 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
+ - ⏩ [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
+ - 👉 [YES](http://9gag.com/gag/abgneLX)<!-- MEMES:END -->
 
 ---
 
