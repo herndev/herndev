@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NFL launches its NFL+ streaming service, offering a $4.99/month tier and $9.99/month Premium tier with full game replays; NFL+ replaces Game Pass in the US &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/220725/p21#a220725p21)
- - [Avatar Studios’ first animated movie will feature very familiar faces](https://www.theverge.com/2022/7/25/23277475/avatar-studios-airbender-first-animated-movie-aang-comic-con-reveal)
- - [Creators are turning to chat apps like Discord and Geneva to build communities, which they say offer a more intimate experience than traditional social networks &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220725/p20#a220725p20)<!-- TECH:END -->
+ - [Ready or not, the Glassholes are coming back](https://www.theverge.com/2022/7/25/23054367/google-ar-glasses-glassholes-coming-back)
+ - [Facebook will give you ad revenue for putting Post Malone’s music in your videos](https://www.theverge.com/2022/7/25/23277839/facebook-post-malone-meta-youtube-music)
+ - [Lego’s new Minifigure Factory lets you create a $12 minifig of yourself](https://www.theverge.com/2022/7/25/23277421/lego-minifigure-factory-tool-customize)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
