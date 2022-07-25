@@ -107,8 +107,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [European investing app Shares, which debuted in the UK two months ago and has 150K+ users, raises $40M led by Valar Ventures, bringing its total raised to $90M &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/220724/p8#a220724p8)
- - [Netflix rolls out a button for iOS and iPadOS users to take them directly to its site to sign up, which avoids the App Store cut via an API for &quot;reader apps&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220724/p7#a220724p7)
- - [Netflix: The 43 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-43-absolute-best-flicks-to-stream/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk Reportedly Had Affair With Google Co-Founder&#39;s Wife     - CNET](https://www.cnet.com/tech/elon-musk-reportedly-had-affair-with-google-co-founders-wife/#ftag=CAD590a51e)
+ - [Netflix rolls out a button for iOS and iPadOS users to take them directly to its site to sign up, which avoids the App Store cut via an API for &quot;reader apps&quot; &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220724/p7#a220724p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
