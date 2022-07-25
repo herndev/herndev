@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Halo Infinite co-op won&#39;t have online matchmaking, for some reason](https://www.pcgamer.com/halo-infinite-co-op-wont-have-online-matchmaking-for-some-reason)
- - [New City-Building Game Is All About The Voxels](https://kotaku.com/new-city-building-game-is-all-about-the-voxels-1849325917)
- - [A newsfeed update is responsible for new bugs in old Borderlands games](https://www.pcgamer.com/a-newsfeed-update-is-responsible-for-new-bugs-in-old-borderlands-games)<!-- GAME:END -->
+ - [Corsair is expected to announce a quarterly financial loss as the economy struggles](https://www.pcgamer.com/corsair-is-expected-to-announce-a-quarterly-financial-loss-as-the-economy-struggles)
+ - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
+ - [Halo Infinite co-op won&#39;t have online matchmaking, for some reason](https://www.pcgamer.com/halo-infinite-co-op-wont-have-online-matchmaking-for-some-reason)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
