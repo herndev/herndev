@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I blame covid for this](http://9gag.com/gag/aKmo1Q6)
- - ⏩ [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)
- - 👉 [YES](http://9gag.com/gag/abgneLX)<!-- MEMES:END -->
+ - 💣 [She seems fun at parties](http://9gag.com/gag/aogQ3b2)
+ - ⏩ [German scientists after WW2](http://9gag.com/gag/ay9j3Mq)
+ - 👉 [I am 42 bro&#39;s does this even get worse!?](http://9gag.com/gag/aVxyoZn)<!-- MEMES:END -->
 
 ---
 
