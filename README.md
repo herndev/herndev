@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A global shortage of fiber optic cable has driven up prices and lengthened lead times, especially in Europe, India, and China, casting a shadow over 5G rollouts &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220725/p4#a220725p4)
- - [OnePlus 10T: Everything we know so far and what we want to see](https://www.androidauthority.com/oneplus-10t-2-3185490/)
- - [Zomato stock dropped 14%+ to a record low after a lock-in period expired, giving the company a market cap of $4.2B, down from $13.2B on its IPO debut year ago &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220725/p3#a220725p3)<!-- TECH:END -->
+ - [Chess robot breaks seven-year-old’s finger during tournament in Russia](https://www.theverge.com/2022/7/25/23276982/chess-robot-breaks-childs-finger-russia-tournament)
+ - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: July 25&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
+ - [A global shortage of fiber optic cable has driven up prices and lengthened lead times, especially in Europe, India, and China, casting a shadow over 5G rollouts &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220725/p4#a220725p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
