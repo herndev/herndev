@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chess robot breaks seven-year-old’s finger during tournament in Russia](https://www.theverge.com/2022/7/25/23276982/chess-robot-breaks-childs-finger-russia-tournament)
- - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: July 25&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
- - [A global shortage of fiber optic cable has driven up prices and lengthened lead times, especially in Europe, India, and China, casting a shadow over 5G rollouts &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/220725/p4#a220725p4)<!-- TECH:END -->
+ - [Google employees, kept in the dark about firm&#39;s sale of advanced AI tools to Israel, say it could bolster Israel&#39;s ongoing military occupation of Palestine &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220725/p6#a220725p6)
+ - [Dystopian document thriller Papers, Please is coming to iOS and Android on August 5th](https://www.theverge.com/2022/7/25/23277003/papers-please-mobile-port-app-ios-android-release-date-august-5)
+ - [New Zealand&#39;s internet safety group Netsafe says Meta, Google, Amazon, TikTok, and Twitter have agreed to self-regulate to reduce harmful content in the country &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/220725/p5#a220725p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
