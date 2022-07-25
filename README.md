@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to the Computer Lab](https://www.polygon.com/23268686/computer-lab-week-2022)
- - [Type to Learn became a battle royale in our computer lab](https://www.polygon.com/23270747/type-to-learn-computer-lab-retrospective)
- - [I watched iPods take over my school’s computer lab](https://www.polygon.com/23269653/school-computer-lab-ipod-touch)<!-- GAME:END -->
+ - [Halo Infinite campaign co-op won’t offer online matchmaking](https://www.polygon.com/23277315/halo-infinite-campaign-multiplayer-co-op-matchmaking-discord)
+ - [GameStop 9/11 NFT Pulled After Selling Dozens Of Times](https://kotaku.com/gamestop-nft-9-11-falling-man-stock-split-gme-1849327049)
+ - [David Warner, voice of Baldur&#39;s Gate 2&#39;s Jon Irenicus, has died](https://www.pcgamer.com/david-warner-voice-of-baldurs-gate-2s-jon-irenicus-has-died)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
