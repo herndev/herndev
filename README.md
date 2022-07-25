@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Play stupid games, win stupid prices &lpar;Austria&rpar;](http://9gag.com/gag/angPv9B)
- - ⏩ [Silly design](http://9gag.com/gag/aKmovm1)
- - 👉 [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)<!-- MEMES:END -->
+ - ⏩ [Which Scary Movie Is This..??](http://9gag.com/gag/awzWLrW)
+ - 👉 [Neymar during a preseason game in Japan](http://9gag.com/gag/aOQL9oM)<!-- MEMES:END -->
 
 ---
 
