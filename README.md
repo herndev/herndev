@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Electronic Arts Tries to Make Diverse Video Games](https://www.wired.com/story/electronic-arts-inclusive-diverse-video-games/)
- - [How Do You Know a Cargo Ship Is Polluting? It Makes Clouds](https://www.wired.com/story/how-do-you-know-a-cargo-ship-is-polluting-it-makes-clouds/)
- - [The HP Dev One Is the Best Linux Laptop We’ve Tested](https://www.wired.com/review/hp-dev-one-linux-laptop/)<!-- TECH:END -->
+ - [Daily deals July 25: $200 4K monitor, $180 AirPods Pro, $100 off M1 MacBook Air, more](https://appleinsider.com/articles/22/07/25/daily-deals-july-25-200-4k-monitor-180-airpods-pro-100-off-m1-macbook-air-more?utm_medium=rss)
+ - [Defending HomeKit Secure Video, Thread 1.3.0 explained, &amp; Eve Motion, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/07/25/defending-homekit-secure-video-thread-130-explained-eve-motion-more-on-homekit-insider?utm_medium=rss)
+ - [All the best trailers from SDCC 2022](https://www.theverge.com/comic-con/23274366/sdcc-2022-comic-con-trailers-black-panther-lotr-john-wick-shazam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
