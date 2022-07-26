@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If Starfield takes one thing from Elite Dangerous, I hope it&#39;s bus driving](https://www.pcgamer.com/if-starfield-takes-one-thing-from-elite-dangerous-i-hope-its-bus-driving)
- - [Thanks to a modder, the cat in Stray now hates Mondays and loves lasagna](https://www.pcgamer.com/stray-mods)
- - [Somebody decoded Stray&#39;s mystery language](https://www.pcgamer.com/somebody-decoded-strays-mystery-language)<!-- GAME:END -->
+ - [Guy Turns His Mazda Miata Into The Nintendo Wiiata](https://kotaku.com/nintendo-wii-car-mazda-tiktok-sports-baseball-cars-1849329977)
+ - [BMW owners are figuring out how to pirate their heated seats](https://www.pcgamer.com/bmw-owners-are-figuring-out-how-to-pirate-their-heated-seats)
+ - [After 183 days offline, Dark Souls 3 shows signs of life](https://www.pcgamer.com/after-183-days-offline-dark-souls-3-shows-signs-of-life)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
