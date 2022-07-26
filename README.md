@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avengers: The Kang Dynasty will be directed by Shang-Chi’s Destin Daniel Cretton](https://www.polygon.com/23279383/avengers-the-kang-dynasty-director-dustin-daniel-cretton-marvel-phase-5-6-secret-wars)
- - [John Cena Joins Fortnite, Won’t Actually Be Invisible](https://kotaku.com/fortnite-wwe-john-cena-epic-rocket-league-fall-guys-dlc-1849333456)
- - [Facebook Jacks Up Price Of The One Affordable VR Headset](https://kotaku.com/facebook-meta-quest-2-price-tiktok-mark-zuckerberg-1849333729)<!-- GAME:END -->
+ - [5 Hot Tips To Survive The Fiery New Skating Shooter From OlliOlli World Devs](https://kotaku.com/rollerdrome-preview-skate-olli-olli-world-shooter-steam-1849334148)
+ - [Quest 2 VR headset prices are going up $100](https://www.pcgamer.com/quest-2-vr-headset-prices-are-going-up-dollar100)
+ - [Games like Stardew Valley on PC with farms to save and villages to revitalize](https://www.pcgamer.com/games-like-stardew-valley)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
