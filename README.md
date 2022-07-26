@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alibaba plans to apply for a primary Hong Kong listing while keeping its NYSE listing, taking advantage of a rule change to attract Chinese tech firms &lpar;Reuters&rpar;](http://www.techmeme.com/220726/p2#a220726p2)
- - [How to boost a Discord server](https://www.androidauthority.com/how-to-boost-a-discord-server-3189905/)
- - [Congress plans to vote on a bill to ban firms that sell spyware from working with the US government; experts say the surveillance market will be hard to curtail &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/220726/p1#a220726p1)<!-- TECH:END -->
+ - [Logitech’s new ‘gender-inclusive’ PC gaming accessories come with the pink tax](https://www.theverge.com/2022/7/26/23271625/logitech-g-aurora-collection-g735-g715-g705-headset-keyboard-mouse-price-features)
+ - [JWST Might Have Already Smashed the Record for Most Distant Galaxy Ever Seen     - CNET](https://www.cnet.com/science/space/jwst-might-have-already-smashed-the-record-for-most-distant-galaxy-ever-seen/#ftag=CAD590a51e)
+ - [Facebook&#39;s TikTok-like redesign marks the end of a social networking era centered around friends and a move toward algorithmically sorted content from strangers &lpar;Scott Rosenberg/Axios&rpar;](http://www.techmeme.com/220726/p5#a220726p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
