@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix adds Before Your Eyes to its mobile game lineup](https://www.theverge.com/2022/7/26/23278826/netflix-before-your-eyes-mobile-exclusive)
- - [Netflix is turning The Gray Man into a cinematic universe](https://www.theverge.com/2022/7/26/23279002/netflix-the-gray-man-sequel-spinoff-cinematic-universe)
- - [How to blur your background in FaceTime calls](https://appleinsider.com/articles/22/01/03/how-to-blur-your-background-in-facetime-calls?utm_medium=rss)<!-- TECH:END -->
+ - [MultiVersus, WB’s free-to-play crossover brawler, launches in open beta](https://www.theverge.com/2022/7/26/23279073/multiversus-open-beta-wb-games-smash-bros)
+ - [Titanium Blockchain CEO pleads guilty to $21 million crypto fundraising scam](https://www.theverge.com/2022/7/26/23278995/titanium-blockchain-ceo-michael-stollery-guilty-plea)
+ - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-movie-editor-3190406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
