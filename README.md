@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] A look at Helium, a network of 500K+ crypto mining hotspots, which raised $365M from a16z and others and generates an estimated $6.5K/month in revenue &lpar;Liron Shapira/@liron&rpar;](http://www.techmeme.com/220726/p15#a220726p15)
- - [GM just secured enough cathode material for 5 million electric vehicles](https://www.theverge.com/2022/7/26/23278733/gm-lg-chem-cathode-deal-ev-battery-earnings)
- - [These Vaccines Will Take Aim at Covid—and Its Entire SARS Lineage](https://www.wired.com/story/these-vaccines-will-take-aim-at-covid-and-its-entire-sars-lineage/)<!-- TECH:END -->
+ - [Instagram leader: we’re gonna keep adding more video](https://www.theverge.com/2022/7/26/23278763/instagram-video-adam-mosseri-photos-jenner-petition)
+ - [Xenoblade Chronicles 3 is as enjoyable as it is inscrutable](https://www.theverge.com/23277681/xenoblade-chronicles-3-review-nintendo-switch)
+ - [Am I an Idiot for Wanting a Dumber Phone?](https://www.wired.com/story/am-i-an-idiot-for-wanting-a-dumber-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
