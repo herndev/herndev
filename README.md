@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [KPMG: VC investments in China fell to $9.1B in Q2 2022, down from $18.1B in Q1 2022, the lowest quarterly investment since Q4 2014, when $5.5B was invested &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/220726/p9#a220726p9)
- - [Sources: Alibaba&#39;s US B2B arm, which has been hit by staff departures in its NY office, has slashed its target of signing up 1M SMBs to just 2,000 each year &lpar;Financial Times&rpar;](http://www.techmeme.com/220726/p8#a220726p8)
- - [Alibaba&#39;s annual report shows the company has removed all Ant Group executives from its partnership and says only its own staff will be able to become partners &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/220726/p7#a220726p7)<!-- TECH:END -->
+ - [UK CMA&#39;s publishes its report into music streaming services, saying the market is dominated by major players but this is not &quot;currently causing consumers harm&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p10#a220726p10)
+ - [Steve Jobs&#39;s own Apple-1 prototype to be auctioned](https://appleinsider.com/articles/22/07/26/steve-jobss-own-apple-1-prototype-to-be-auctioned?utm_medium=rss)
+ - [Daily Authority: 📷 Pixel-perfect photos](https://www.androidauthority.com/daily-authority-july-26-2022-3190001/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
