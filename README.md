@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reaches a deal to settle a patent case with Koss, which in 2020 alleged that the AirPods violate five Koss&#39; patents; terms of the deal were not disclosed &lpar;Kelcee Griffis/Bloomberg Law&rpar;](http://www.techmeme.com/220725/p24#a220725p24)
- - [Amazon’s best-selling new charcoal grill is... the Pixel Buds Pro?](https://www.theverge.com/tldr/2022/7/25/23278082/amazon-pixel-buds-pro-grill)
- - [Dell is getting out of the phone syncing game](https://www.theverge.com/2022/7/25/23278047/dell-mobile-connect-discontinued-2023)<!-- TECH:END -->
+ - [Michael Stollery, CEO of Titanium Blockchain Infrastructure Services, pleads guilty to carrying out a fraudulent initial coin offering in 2018 that raised $21M &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220725/p26#a220725p26)
+ - [Amazon UK plans to raise its monthly Prime subscription price by &amp;pound;1 to &amp;pound;8.99 and by &amp;pound;16 to &amp;pound;95 annually starting on September 15, the first increase since 2014 &lpar;Sarah Butler/The Guardian&rpar;](http://www.techmeme.com/220725/p25#a220725p25)
+ - [Apple reaches a deal to settle a patent case with Koss, which in 2020 alleged that the AirPods violate five Koss&#39; patents; terms of the deal were not disclosed &lpar;Kelcee Griffis/Bloomberg Law&rpar;](http://www.techmeme.com/220725/p24#a220725p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
