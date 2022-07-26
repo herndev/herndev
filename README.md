@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Glaciered is an aquatic action game set 65 million years in the future where you play an ass-kicking ninja fish-bird](https://www.pcgamer.com/glaciered-is-an-aquatic-action-game-set-65-million-years-in-the-future-where-you-play-an-ass-kicking-ninja-fish-bird)
- - [Corsair RM750x &lpar;2021&rpar;](https://www.pcgamer.com/corsair-rm750x-2021-power-supply-review)
- - [John Cena’s coming to Fortnite](https://www.polygon.com/23278886/john-cena-fortnite-skin-rocket-league-decal-epic-games)<!-- GAME:END -->
+ - [Summer Spotlight 2022: Tis the Season for the Greatest Games](https://news.xbox.com/en-us/2022/07/26/summer-spotlight-2022-season-for-greatest-games/)
+ - [One of 2021’s best games got even better on mobile](https://www.polygon.com/sub-gems/23278056/before-your-eyes-netflix-subscription-mobile)
+ - [Pokémon Go Spotlight Hour: Can Meditite be Shiny?](https://www.polygon.com/pokemon-go-guide/23279034/can-meditite-be-shiny-spotlight-hour-july)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
