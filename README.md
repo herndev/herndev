@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;The Ultimate Steam Deck&#39; Is Customised Overkill](https://kotaku.com/valve-steam-deck-linus-tech-tips-customise-mod-1849330322)
  - [Guy Turns His Mazda Miata Into The Nintendo Wiiata](https://kotaku.com/nintendo-wii-car-mazda-tiktok-sports-baseball-cars-1849329977)
- - [BMW owners are figuring out how to pirate their heated seats](https://www.pcgamer.com/bmw-owners-are-figuring-out-how-to-pirate-their-heated-seats)
- - [After 183 days offline, Dark Souls 3 shows signs of life](https://www.pcgamer.com/after-183-days-offline-dark-souls-3-shows-signs-of-life)<!-- GAME:END -->
+ - [BMW owners are figuring out how to pirate their heated seats](https://www.pcgamer.com/bmw-owners-are-figuring-out-how-to-pirate-their-heated-seats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
