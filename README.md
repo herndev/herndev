@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [From Pixel 7 to Pixel foldable: Upcoming Pixel cameras may have leaked](https://www.androidauthority.com/google-pixel-phones-camera-leak-3189956/)
- - [How to record internal and external audio on your Android device](https://www.androidauthority.com/record-audio-android-3188243/)
- - [Amazon is raising Prime prices in Europe by up to 43 percent a year](https://www.theverge.com/2022/7/26/23278510/amazon-prime-price-increase-europe-uk)<!-- TECH:END -->
+ - [KPMG: VC investments in China fell to $9.1B in Q2 2022, down from $18.1B in Q1 2022, the lowest quarterly investment since Q4 2014, when $5.5B was invested &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/220726/p9#a220726p9)
+ - [Sources: Alibaba&#39;s US B2B arm, which has been hit by staff departures in its NY office, has slashed its target of signing up 1M SMBs to just 2,000 each year &lpar;Financial Times&rpar;](http://www.techmeme.com/220726/p8#a220726p8)
+ - [Alibaba&#39;s annual report shows the company has removed all Ant Group executives from its partnership and says only its own staff will be able to become partners &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/220726/p7#a220726p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
