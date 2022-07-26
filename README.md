@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Hot Tips To Survive The Fiery New Skating Shooter From OlliOlli World Devs](https://kotaku.com/rollerdrome-preview-skate-olli-olli-world-shooter-steam-1849334148)
- - [Quest 2 VR headset prices are going up $100](https://www.pcgamer.com/quest-2-vr-headset-prices-are-going-up-dollar100)
- - [Games like Stardew Valley on PC with farms to save and villages to revitalize](https://www.pcgamer.com/games-like-stardew-valley)<!-- GAME:END -->
+ - [How to farm clay in Minecraft](https://www.polygon.com/minecraft-guides/23277961/clay-farm-infinite-dripstone-dirt-mud-brick-terracotta-glazed)
+ - [How to get infinite lava in Minecraft](https://www.polygon.com/minecraft-guides/23277177/lava-infinite-farm-dripstone-obsidian-cobblestone-fuel)
+ - [How to farm dripstone in Minecraft](https://www.polygon.com/minecraft-guides/23272797/dripstone-block-pointed-stalactite-stalagmite-cave-farm-grow-infinite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
