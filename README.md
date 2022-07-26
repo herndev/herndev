@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR2 has a new broadcast feature that looks great](https://www.polygon.com/23278844/psvr2-playstation-vr2-ps5-vr-see-through-view-streaming-mode-specs)
- - [DreamsCom ‘22 starts today](https://blog.playstation.com/2022/07/26/dreamscom-22-starts-today/)
- - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
+ - [Glaciered is an aquatic action game set 65 million years in the future where you play an ass-kicking ninja fish-bird](https://www.pcgamer.com/glaciered-is-an-aquatic-action-game-set-65-million-years-in-the-future-where-you-play-an-ass-kicking-ninja-fish-bird)
+ - [Corsair RM750x &lpar;2021&rpar;](https://www.pcgamer.com/corsair-rm750x-2021-power-supply-review)
+ - [John Cena’s coming to Fortnite](https://www.polygon.com/23278886/john-cena-fortnite-skin-rocket-league-decal-epic-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
