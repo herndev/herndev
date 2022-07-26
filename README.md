@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Minecraft SpongeBob SquarePants DLC Now Available in Minecraft Marketplace](https://news.xbox.com/en-us/2022/07/26/minecraft-spongebob-squarepants-dlc-now-available-in-minecraft-marketplace/)
- - [Xbox launches camping gear collection so you too can touch grass](https://www.polygon.com/deals/23279683/xbox-camping-gear-collection)
- - [The Steam Bash Bash is a violence-oriented Steam sale coming in September](https://www.pcgamer.com/the-steam-bash-bash-is-a-violence-oriented-steam-sale-coming-in-september)<!-- GAME:END -->
+ - [NFT Gaming Debate Puts Enjin Coin &lpar;ENJ-USD&rpar; In ​​The Spotlight](https://game-rant-2022.blogspot.com/2022/07/nft-gaming-debate-puts-enjin-coin-enj.html)
+ - [Report: Star Wars: Knights Of The Old Republic Remake In Serious Trouble](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-remake-hold-1849335104)
+ - [Knights of the Old Republic remake is &#39;delayed indefinitely,&#39; according to report](https://www.pcgamer.com/knights-of-the-old-republic-remake-is-delayed-indefinitely-according-to-report)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
