@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His bail has been paid in full.](http://9gag.com/gag/a91g8o0)
- - ⏩ [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)
- - 👉 [Horologist](http://9gag.com/gag/aRrqvrq)<!-- MEMES:END -->
+ - 💣 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)
+ - ⏩ [Typical](http://9gag.com/gag/aLv7A9z)
+ - 👉 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
 
 ---
 
