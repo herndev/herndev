@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US Congress is working on a bill to crack down on and ban firms that sell spyware from working with the government; experts say market will be hard to curtail &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/220726/p1#a220726p1)
  - [Sources: a bipartisan bill to curb potential risks posed by stablecoins has been delayed by US House lawmakers until at least September &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)
- - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)
- - [An &#39;Eragon&#39; TV Show Is Now in Development at Disney Plus, Author Reacts     - CNET](https://www.cnet.com/culture/entertainment/an-eragon-tv-show-is-now-in-development-at-disney-plus-author-reacts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
