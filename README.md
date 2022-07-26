@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Could you also speed up my Windows PC&#39;s boot time, Microsoft?](https://www.pcgamer.com/could-you-also-speed-up-my-windows-pcs-boot-time-microsoft)
- - [This Week’s Deals with Gold and Spotlight Sale plus the Ultimate Game Sale &lpar;Week of 25 July&rpar;](https://news.xbox.com/en-us/2022/07/25/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-ultimate-game-sale-week-of-25-july/)
- - [Fortnite: everything you need to know about the online game](https://game-rant-2022.blogspot.com/2022/07/fortnite-everything-you-need-to-know.html)<!-- GAME:END -->
+ - [I just found out what Wi-Fi means and it&#39;s sending me](https://www.pcgamer.com/i-just-found-out-what-wi-fi-means-and-its-sending-me)
+ - [AMD invests in a new CPU R&amp;D facility in New York](https://www.pcgamer.com/amd-invests-in-a-new-cpu-randd-facility-in-new-york)
+ - [Could you also speed up my Windows PC&#39;s boot time, Microsoft?](https://www.pcgamer.com/could-you-also-speed-up-my-windows-pcs-boot-time-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
