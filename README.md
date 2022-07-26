@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)
- - ⏩ [Disney announces new marvel movies. Me:](http://9gag.com/gag/aNPEOPG)
- - 👉 [Chicago\u2019s gonna be quite the experiment, huh](http://9gag.com/gag/angPrY5)<!-- MEMES:END -->
+ - 💣 [Yup](http://9gag.com/gag/aQXW2wq)
+ - ⏩ [Jif](http://9gag.com/gag/aLv7dWV)
+ - 👉 [Are you friendly?](http://9gag.com/gag/a0ZyM0d)<!-- MEMES:END -->
 
 ---
 
