@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [See Apple&#39;s VR headset on your desk using augmented reality](https://appleinsider.com/articles/22/07/26/see-apples-vr-headset-on-your-desk-using-augmented-reality?utm_medium=rss)
- - [Coinbase&#39;s post-IPO decision to list &quot;altcoins&quot;, or &quot;shitcoins&quot;, was a reckless shift that led to alleged insider trading and higher risks for retail investors &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220726/p19#a220726p19)
- - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese display maker CSOT wants to make screens for iPad, MacBook](https://appleinsider.com/articles/22/07/26/chinese-display-maker-csot-wants-to-make-screens-for-ipad-macbook?utm_medium=rss)
+ - [FDA warnings aren’t stopping illicit weight-loss supplements](https://www.theverge.com/2022/7/26/23277753/supplements-fda-warning-letters-stimulants)
+ - [Razer’s low-profile DeathStalker keyboard returns with mechanical switches](https://www.theverge.com/2022/7/26/23277202/razer-deathstalker-v2-pro-tkl-mechanical-keyboard-release-date-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
