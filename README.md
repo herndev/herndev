@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese display maker CSOT wants to make screens for iPad, MacBook](https://appleinsider.com/articles/22/07/26/chinese-display-maker-csot-wants-to-make-screens-for-ipad-macbook?utm_medium=rss)
- - [FDA warnings aren’t stopping illicit weight-loss supplements](https://www.theverge.com/2022/7/26/23277753/supplements-fda-warning-letters-stimulants)
- - [Razer’s low-profile DeathStalker keyboard returns with mechanical switches](https://www.theverge.com/2022/7/26/23277202/razer-deathstalker-v2-pro-tkl-mechanical-keyboard-release-date-features)<!-- TECH:END -->
+ - [Netflix adds Before Your Eyes to its mobile game lineup](https://www.theverge.com/2022/7/26/23278826/netflix-before-your-eyes-mobile-exclusive)
+ - [Netflix is turning The Gray Man into a cinematic universe](https://www.theverge.com/2022/7/26/23279002/netflix-the-gray-man-sequel-spinoff-cinematic-universe)
+ - [How to blur your background in FaceTime calls](https://appleinsider.com/articles/22/01/03/how-to-blur-your-background-in-facetime-calls?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
