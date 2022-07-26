@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked shots show Amazon&#39;s colossal take on Fallout&#39;s power armour](https://www.pcgamer.com/leaked-shots-show-amazons-colossal-take-on-fallouts-power-armour)
- - [Everything we know about World of Warcraft: Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-of-the-lich-king-wotlk-classic-release-date)
- - [The creator of the Xbox planned a sequel to Trespasser that eventually became Jurassic World](https://www.pcgamer.com/the-creator-of-the-xbox-planned-a-sequel-to-trespasser-that-eventually-became-jurassic-world)<!-- GAME:END -->
+ - [Exploring gender and femininity with computer lab dress-up games](https://www.polygon.com/23271844/dress-up-games-roiworld-retrospective)
+ - [Someone Beat Stray Without The Cute Cat Taking Any Damage](https://kotaku.com/stray-cat-game-ps5-cyberpunk-no-damage-perfect-speedrun-1849329237)
+ - [The trailer for Ti West’s Pearl adds porn and pitchfork murder to The Wizard of Oz](https://www.polygon.com/23277948/pearl-trailer-ti-west-x-prequel-mia-goth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
