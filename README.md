@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [France&#39;s Eutelsat and UK satellite internet company OneWeb agree to merge in an all-stock deal valuing OneWeb at $3.4B, in a bid to compete with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p12#a220726p12)
- - [Your Final Resting Place Could Be a Coffin Made of Mushrooms](https://www.wired.com/story/mycelium-coffins-loop/)
- - [EV Makers Think They’ve Figured Out What Women Want](https://www.wired.com/story/women-evs-ford/)<!-- TECH:END -->
+ - [[Thread] A look at Helium, a network of 500K+ crypto mining hotspots, which raised $365M from a16z and others and generates an estimated $6.5K/month in revenue &lpar;Liron Shapira/@liron&rpar;](http://www.techmeme.com/220726/p15#a220726p15)
+ - [GM just secured enough cathode material for 5 million electric vehicles](https://www.theverge.com/2022/7/26/23278733/gm-lg-chem-cathode-deal-ev-battery-earnings)
+ - [These Vaccines Will Take Aim at Covid—and Its Entire SARS Lineage](https://www.wired.com/story/these-vaccines-will-take-aim-at-covid-and-its-entire-sars-lineage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
