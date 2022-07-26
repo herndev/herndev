@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm clay in Minecraft](https://www.polygon.com/minecraft-guides/23277961/clay-farm-infinite-dripstone-dirt-mud-brick-terracotta-glazed)
- - [How to get infinite lava in Minecraft](https://www.polygon.com/minecraft-guides/23277177/lava-infinite-farm-dripstone-obsidian-cobblestone-fuel)
- - [How to farm dripstone in Minecraft](https://www.polygon.com/minecraft-guides/23272797/dripstone-block-pointed-stalactite-stalagmite-cave-farm-grow-infinite)<!-- GAME:END -->
+ - [Minecraft SpongeBob SquarePants DLC Now Available in Minecraft Marketplace](https://news.xbox.com/en-us/2022/07/26/minecraft-spongebob-squarepants-dlc-now-available-in-minecraft-marketplace/)
+ - [Xbox launches camping gear collection so you too can touch grass](https://www.polygon.com/deals/23279683/xbox-camping-gear-collection)
+ - [The Steam Bash Bash is a violence-oriented Steam sale coming in September](https://www.pcgamer.com/the-steam-bash-bash-is-a-violence-oriented-steam-sale-coming-in-september)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
