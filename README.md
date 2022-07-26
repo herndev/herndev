@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: a bipartisan bill to curb potential risks posed by stablecoins has been delayed by US House lawmakers until at least September &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)
  - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)
- - [Amazon plans to raise its annual Prime subscription prices across Europe by up to 43% starting on September 15, citing &quot;increased inflation and operating costs&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220725/p28#a220725p28)
- - [After &#39;Stranger Things,&#39; More People Should Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/after-stranger-things-more-people-should-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An &#39;Eragon&#39; TV Show Is Now in Development at Disney Plus, Author Reacts     - CNET](https://www.cnet.com/culture/entertainment/an-eragon-tv-show-is-now-in-development-at-disney-plus-author-reacts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
