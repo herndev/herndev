@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creator of the Xbox planned a sequel to Trespasser that eventually became Jurassic World](https://www.pcgamer.com/the-creator-of-the-xbox-planned-a-sequel-to-trespasser-that-eventually-became-jurassic-world)
- - [Best Wireless Keyboards for PS5](https://game-rant-2022.blogspot.com/2022/07/best-wireless-keyboards-for-ps5.html)
- - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/07/contact-customer-service_25.html)<!-- GAME:END -->
+ - [Leaked shots show Amazon&#39;s colossal take on Fallout&#39;s power armour](https://www.pcgamer.com/leaked-shots-show-amazons-colossal-take-on-fallouts-power-armour)
+ - [Everything we know about World of Warcraft: Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-of-the-lich-king-wotlk-classic-release-date)
+ - [The creator of the Xbox planned a sequel to Trespasser that eventually became Jurassic World](https://www.pcgamer.com/the-creator-of-the-xbox-planned-a-sequel-to-trespasser-that-eventually-became-jurassic-world)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
