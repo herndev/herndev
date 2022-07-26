@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Wednesday but yea](http://9gag.com/gag/aE8mXP9)
+ - 💣 [Bloopers from the past](http://9gag.com/gag/aogQ8K0)
  - ⏩ [Neymar during a preseason game in Japan](http://9gag.com/gag/aOQL9oM)
- - 👉 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
+ - 👉 [Not Wednesday but yea](http://9gag.com/gag/aE8mXP9)<!-- MEMES:END -->
 
 ---
 
