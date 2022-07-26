@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Alibaba plans to apply for a primary Hong Kong listing while keeping its NYSE listing, taking advantage of a rule change to attract Chinese tech firms &lpar;Reuters&rpar;](http://www.techmeme.com/220726/p2#a220726p2)
  - [How to boost a Discord server](https://www.androidauthority.com/how-to-boost-a-discord-server-3189905/)
- - [Congress plans to vote on a bill to ban firms that sell spyware from working with the US government; experts say the surveillance market will be hard to curtail &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/220726/p1#a220726p1)
- - [Sources: US House lawmakers delayed a tentative July 27 vote on a bipartisan bill to curb potential risks posed by stablecoins until at least September 2022 &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220725/p30#a220725p30)<!-- TECH:END -->
+ - [Congress plans to vote on a bill to ban firms that sell spyware from working with the US government; experts say the surveillance market will be hard to curtail &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/220726/p1#a220726p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
