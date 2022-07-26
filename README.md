@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MultiVersus, WB’s free-to-play crossover brawler, launches in open beta](https://www.theverge.com/2022/7/26/23279073/multiversus-open-beta-wb-games-smash-bros)
- - [Titanium Blockchain CEO pleads guilty to $21 million crypto fundraising scam](https://www.theverge.com/2022/7/26/23278995/titanium-blockchain-ceo-michael-stollery-guilty-plea)
- - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-movie-editor-3190406/)<!-- TECH:END -->
+ - [You can finally send friend requests from the Nintendo Switch Online app](https://www.theverge.com/2022/7/26/23278812/nintendo-switch-online-friend-requests-qr-code)
+ - [Crypto exchange Coinbase is reportedly facing an SEC investigation over securities](https://www.theverge.com/2022/7/26/23279013/coinbase-cryptocurrency-exchange-sec-investigation-securities)
+ - [This website lets you watch US heatwaves in real time](https://www.theverge.com/2022/7/26/23278982/extreme-heatwaves-real-time-us-data-federal-website)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
