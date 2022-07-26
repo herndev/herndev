@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)
- - ⏩ [Have a nice day guys!](http://9gag.com/gag/ajgeW7G)
- - 👉 [Cool](http://9gag.com/gag/aqGoWw7)<!-- MEMES:END -->
+ - 💣 [Bike Proof Bridge](http://9gag.com/gag/aogQ8z2)
+ - ⏩ [Kid is going places](http://9gag.com/gag/a0ZyEbZ)
+ - 👉 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)<!-- MEMES:END -->
 
 ---
 
