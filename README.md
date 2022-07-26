@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UK CMA&#39;s publishes its report into music streaming services, saying the market is dominated by major players but this is not &quot;currently causing consumers harm&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p10#a220726p10)
- - [Steve Jobs&#39;s own Apple-1 prototype to be auctioned](https://appleinsider.com/articles/22/07/26/steve-jobss-own-apple-1-prototype-to-be-auctioned?utm_medium=rss)
- - [Daily Authority: 📷 Pixel-perfect photos](https://www.androidauthority.com/daily-authority-july-26-2022-3190001/)<!-- TECH:END -->
+ - [France&#39;s Eutelsat and UK satellite internet company OneWeb agree to merge in an all-stock deal valuing OneWeb at $3.4B, in a bid to compete with SpaceX &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p12#a220726p12)
+ - [Your Final Resting Place Could Be a Coffin Made of Mushrooms](https://www.wired.com/story/mycelium-coffins-loop/)
+ - [EV Makers Think They’ve Figured Out What Women Want](https://www.wired.com/story/women-evs-ford/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
