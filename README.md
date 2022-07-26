@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never leave a buddy hanging!](http://9gag.com/gag/aPZb1pq)
- - ⏩ [Are you friendly?](http://9gag.com/gag/a0ZyM0d)
- - 👉 [Jif](http://9gag.com/gag/aLv7dWV)<!-- MEMES:END -->
+ - 💣 [Jif](http://9gag.com/gag/aLv7dWV)
+ - ⏩ [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)
+ - 👉 [Micro-wa-ve](http://9gag.com/gag/ajgeRgR)<!-- MEMES:END -->
 
 ---
 
