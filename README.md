@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trust the Empire, the rebels spread propoganda.](http://9gag.com/gag/aQXWmYr)
- - ⏩ [Typical](http://9gag.com/gag/aLv7A9z)
+ - 💣 [Not Wednesday but yea](http://9gag.com/gag/aE8mXP9)
+ - ⏩ [Neymar during a preseason game in Japan](http://9gag.com/gag/aOQL9oM)
  - 👉 [What&#39;s your name?](http://9gag.com/gag/axBqR3Y)<!-- MEMES:END -->
 
 ---
