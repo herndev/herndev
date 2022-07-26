@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Summer Spotlight 2022: Tis the Season for the Greatest Games](https://news.xbox.com/en-us/2022/07/26/summer-spotlight-2022-season-for-greatest-games/)
- - [One of 2021’s best games got even better on mobile](https://www.polygon.com/sub-gems/23278056/before-your-eyes-netflix-subscription-mobile)
- - [Pokémon Go Spotlight Hour: Can Meditite be Shiny?](https://www.polygon.com/pokemon-go-guide/23279034/can-meditite-be-shiny-spotlight-hour-july)<!-- GAME:END -->
+ - [Eragon is getting a Disney Plus series](https://www.polygon.com/23279199/eragon-disney-plus-tv-series-adaptation-inheritance-cycle)
+ - [Razer Enki Pro](https://www.pcgamer.com/razer-enki-pro-gaming-chair-review)
+ - [Every WoW Classic server: How to pick the realm for you](https://www.pcgamer.com/wow-classic-servers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
