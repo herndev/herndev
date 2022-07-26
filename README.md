@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crunch time](http://9gag.com/gag/aogQnd0)
- - ⏩ [I define myself as a dog](http://9gag.com/gag/aggzKKn)
- - 👉 [They are not leaders....](http://9gag.com/gag/arn72ZV)<!-- MEMES:END -->
+ - 💣 [Yep](http://9gag.com/gag/aYrXm4O)
+ - ⏩ [Wtf](http://9gag.com/gag/aggzKZw)
+ - 👉 [Streaming Services : you&#39;ll have to pay us exorbitant sums of money if you want to continue watching our shows &amp; movies](http://9gag.com/gag/arn78wK)<!-- MEMES:END -->
 
 ---
 
