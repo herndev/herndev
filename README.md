@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Exploring gender and femininity with computer lab dress-up games](https://www.polygon.com/23271844/dress-up-games-roiworld-retrospective)
- - [Someone Beat Stray Without The Cute Cat Taking Any Damage](https://kotaku.com/stray-cat-game-ps5-cyberpunk-no-damage-perfect-speedrun-1849329237)
- - [The trailer for Ti West’s Pearl adds porn and pitchfork murder to The Wizard of Oz](https://www.polygon.com/23277948/pearl-trailer-ti-west-x-prequel-mia-goth)<!-- GAME:END -->
+ - [PlayStation VR2 has a new broadcast feature that looks great](https://www.polygon.com/23278844/psvr2-playstation-vr2-ps5-vr-see-through-view-streaming-mode-specs)
+ - [DreamsCom ‘22 starts today](https://blog.playstation.com/2022/07/26/dreamscom-22-starts-today/)
+ - [Best CPU air coolers](https://www.pcgamer.com/best-cpu-air-coolers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
