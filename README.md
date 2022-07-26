@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you ever killed man, Peter ?](http://9gag.com/gag/a1132ow)
- - ⏩ [Not Wednesday but yea](http://9gag.com/gag/aE8mXP9)
- - 👉 [Wait for it... It&#39;s going to be shitandary! Looking forward to the critical drinker review...](http://9gag.com/gag/aeg8m7B)<!-- MEMES:END -->
+ - 💣 [Malcom in the middle was one of the best shows growing up](http://9gag.com/gag/axBqY22)
+ - ⏩ [Have a nice day guys!](http://9gag.com/gag/ajgeW7G)
+ - 👉 [Cool](http://9gag.com/gag/aqGoWw7)<!-- MEMES:END -->
 
 ---
 
