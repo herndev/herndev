@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The creator of the Xbox planned a sequel to Trespasser that eventually became Jurassic World](https://www.pcgamer.com/the-creator-of-the-xbox-planned-a-sequel-to-trespasser-that-eventually-became-jurassic-world)
  - [Best Wireless Keyboards for PS5](https://game-rant-2022.blogspot.com/2022/07/best-wireless-keyboards-for-ps5.html)
- - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/07/contact-customer-service_25.html)
- - [Today&#39;s Wordle answer #402: Tuesday, July 26](https://www.pcgamer.com/wordle-today-july-26-402-answer-hint)<!-- GAME:END -->
+ - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/07/contact-customer-service_25.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
