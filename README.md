@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazon just informed customers of their Prime subscription in Europe that they&#39;ll increase the price from 69 \u20ac to 89,90 \u20ac per year. Because of inflation. Guess what I just canceled.](http://9gag.com/gag/arn72nX)
- - ⏩ [Foxes are dogs but ok](http://9gag.com/gag/aVxyV5v)
- - 👉 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)<!-- MEMES:END -->
+ - 💣 [Gotta love the Netherlands](http://9gag.com/gag/a5105Kq)
+ - ⏩ [Wtf](http://9gag.com/gag/aggzKZw)
+ - 👉 [I define myself as a dog](http://9gag.com/gag/aggzKKn)<!-- MEMES:END -->
 
 ---
 
