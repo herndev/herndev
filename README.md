@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Harry Poter reboot](http://9gag.com/gag/aAGzZKd)
- - ⏩ [Jesus be like](http://9gag.com/gag/a5105Vo)
- - 👉 [Farm video games getting realistic](http://9gag.com/gag/aNPEjXK)<!-- MEMES:END -->
+ - 💣 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
+ - ⏩ [I love this part. Soldier Boy quickly becomes my favourite character ever. &lpar;Not my video&rpar;](http://9gag.com/gag/aZrOv3W)
+ - 👉 [They get offended for a group of people they aren\u2019t even a part of](http://9gag.com/gag/aggzK6w)<!-- MEMES:END -->
 
 ---
 
