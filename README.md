@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the SEC is investigating whether Coinbase improperly let Americans trade digital assets that should have been registered as securities &lpar;Bloomberg&rpar;](http://www.techmeme.com/220725/p27#a220725p27)
- - [Apple purchased gold from supplier linked to illegal mining in Brazil](https://appleinsider.com/articles/22/07/26/apple-purchased-gold-from-supplier-linked-to-illegal-mining-in-brazil?utm_medium=rss)
- - [Instagram Faces More Allegations That It&#39;s &#39;Addictive&#39; And &#39;Harmful&#39;     - CNET](https://www.cnet.com/news/social-media/instagram-faces-more-allegations-that-its-addictive-and-harmful/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance CEO sues Bloomberg Businessweek&#39;s Hong Kong publisher for defamation over a June 23 profile, claiming it depicted him as running a Ponzi scheme &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220725/p29#a220725p29)
+ - [Amazon plans to raise its annual Prime subscription prices across Europe by up to 43% starting on September 15, citing &quot;increased inflation and operating costs&quot; &lpar;Jeffrey Dastin/Reuters&rpar;](http://www.techmeme.com/220725/p28#a220725p28)
+ - [After &#39;Stranger Things,&#39; More People Should Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/after-stranger-things-more-people-should-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
