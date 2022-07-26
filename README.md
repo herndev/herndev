@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eragon is getting a Disney Plus series](https://www.polygon.com/23279199/eragon-disney-plus-tv-series-adaptation-inheritance-cycle)
- - [Razer Enki Pro](https://www.pcgamer.com/razer-enki-pro-gaming-chair-review)
- - [Every WoW Classic server: How to pick the realm for you](https://www.pcgamer.com/wow-classic-servers)<!-- GAME:END -->
+ - [Former Dragon Age: Dreadwolf boss is making a new game for the publisher of D&amp;D and Magic: The Gathering](https://www.pcgamer.com/former-dragon-age-dreadwolf-boss-is-making-a-new-game-for-the-publisher-of-dandd-and-magic-the-gathering)
+ - [Meta is raising the price of Quest 2 VR headsets by $100](https://www.polygon.com/23279280/meta-quest-2-price-hike-change-more-expensive)
+ - [Mario Strikers Fans Love Shy Guy’s New Existential Crises](https://kotaku.com/mario-strikers-battle-league-shy-guy-nintendo-switch-1849333184)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
