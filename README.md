@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
- - ⏩ [I love this part. Soldier Boy quickly becomes my favourite character ever. &lpar;Not my video&rpar;](http://9gag.com/gag/aZrOv3W)
- - 👉 [They get offended for a group of people they aren\u2019t even a part of](http://9gag.com/gag/aggzK6w)<!-- MEMES:END -->
+ - 💣 [\u25cf_\u25cf](http://9gag.com/gag/aZrOdxV)
+ - ⏩ [Damn bruh, chill](http://9gag.com/gag/azepB3m)
+ - 👉 [Excuse me?](http://9gag.com/gag/azep40q)<!-- MEMES:END -->
 
 ---
 
