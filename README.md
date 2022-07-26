@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram leader: we’re gonna keep adding more video](https://www.theverge.com/2022/7/26/23278763/instagram-video-adam-mosseri-photos-jenner-petition)
- - [Xenoblade Chronicles 3 is as enjoyable as it is inscrutable](https://www.theverge.com/23277681/xenoblade-chronicles-3-review-nintendo-switch)
- - [Am I an Idiot for Wanting a Dumber Phone?](https://www.wired.com/story/am-i-an-idiot-for-wanting-a-dumber-phone/)<!-- TECH:END -->
+ - [See Apple&#39;s VR headset on your desk using augmented reality](https://appleinsider.com/articles/22/07/26/see-apples-vr-headset-on-your-desk-using-augmented-reality?utm_medium=rss)
+ - [Coinbase&#39;s post-IPO decision to list &quot;altcoins&quot;, or &quot;shitcoins&quot;, was a reckless shift that led to alleged insider trading and higher risks for retail investors &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/220726/p19#a220726p19)
+ - [Apple&#39;s upgraded 1TB 14-inch MacBook Pro dips to the lowest price ever at $300 off, plus $60 off AppleCare](https://appleinsider.com/articles/22/07/18/apples-upgraded-1tb-14-inch-macbook-pro-dips-to-the-lowest-price-ever-at-300-off-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
