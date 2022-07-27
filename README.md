@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every Mainline Yakuza Game Is Coming To PlayStation Plus](https://kotaku.com/yakuza-like-a-dragon-sony-playstation-plus-sega-kazuma-1849340218)
- - [You may not know any Latin American game studios by name, but that&#39;s about to change](https://www.pcgamer.com/you-may-not-know-any-latin-american-game-studios-by-name-but-thats-about-to-change)
- - [Bernard the Hot Elf officially joins the new Santa Clause series](https://www.polygon.com/23180693/the-santa-clause-bernard-tim-allen-david-krumholtz)<!-- GAME:END -->
+ - [The Witcher season 3 has halted production because of a new Covid-19 outbreak](https://www.pcgamer.com/the-witcher-season-3-has-halted-production-because-of-a-new-covid-19-outbreak)
+ - [Fixating on player counts and &#39;dead games&#39; is making gaming worse](https://www.pcgamer.com/fixating-on-player-counts-and-dead-games-is-making-gaming-worse)
+ - [Every Mainline Yakuza Game Is Coming To PlayStation Plus](https://kotaku.com/yakuza-like-a-dragon-sony-playstation-plus-sega-kazuma-1849340218)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
