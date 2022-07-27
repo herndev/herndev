@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android Auto is so bad it made me switch back to the iPhone](https://www.androidauthority.com/android-auto-apple-carplay-3185189/)
- - [Memo: Twitter plans to reduce its office space in San Francisco, New York, Sydney, Seoul, Tokyo, and other major markets, in a bid to cut costs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220727/p24#a220727p24)
- - [Harley Quinn’s sexy season 3 puts the important things like love, trust, and Poison Ivy first](https://www.theverge.com/2022/7/27/23276510/harley-quinn-season-3-review-hbo-max)<!-- TECH:END -->
+ - [Google Maps gets closer to its immersive view feature with its latest update](https://www.androidauthority.com/google-maps-immersive-3190819/)
+ - [GTA VI could finally let you blow up Miami as a woman in 2024](https://www.theverge.com/2022/7/27/23280496/gta6-gta-vi-miami-female-protagonist-2024-release-date-development-crunch)
+ - [TikTok plans to give &quot;selected researchers&quot; access to its platform and moderation system, helping them &quot;assess content and trends or conducts tests&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220727/p26#a220727p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
