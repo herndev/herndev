@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was a heavy beer drinker for almost 27 years, now I have stopped drinking, began building lego sets and started a youtube channel.](http://9gag.com/gag/aogQq13)
+ - 💣 [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
  - ⏩ [Some people in this world.](http://9gag.com/gag/aKmoL8W)
- - 👉 [This is a cat appreciation post. Show off your cats.](http://9gag.com/gag/apgZ8nE)<!-- MEMES:END -->
+ - 👉 [The audacity of this witch and her stepdaughter](http://9gag.com/gag/aE8mQzK)<!-- MEMES:END -->
 
 ---
 
