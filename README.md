@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**kin savage](http://9gag.com/gag/aDDeLBw)
- - ⏩ [You&#39;re fine](http://9gag.com/gag/aDDe9MK)
- - 👉 [Only 3% with 24000 votes. There is still hope the crazy wokeness is just a very vocal small minority](http://9gag.com/gag/a91g0y0)<!-- MEMES:END -->
+ - 💣 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)
+ - ⏩ [Smile](http://9gag.com/gag/angPwQz)
+ - 👉 [I&#39;ve just watched it yesterday, why is it again recommended??](http://9gag.com/gag/aXr61gz)<!-- MEMES:END -->
 
 ---
 
