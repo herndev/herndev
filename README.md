@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Drakania Awakening Has Descended!](https://news.xbox.com/en-us/2022/07/27/drakania-awakening-has-descended/)
- - [Eight Yakuza games coming to PlayStation Plus in 2022, beginning in August](https://www.polygon.com/23280836/playstation-plus-yakuza-series-like-a-dragon-release-2022)
- - [World of Warcraft fans took a weekend off for the Stranglethorn Bonfire Bash](https://www.polygon.com/23279429/world-of-warcraft-stranglethorn-bonfire-bash)<!-- GAME:END -->
+ - [Riders Republic Season 3: Summer Break Coming July 27](https://news.xbox.com/en-us/2022/07/27/riders-republic-season-3-summer-break-coming-july-27/)
+ - [MultiVersus confirms no more progress resets following open beta launch](https://www.pcgamer.com/multiversus-confirms-no-more-progress-resets-following-open-beta-launch)
+ - [Live A Live: The Kotaku Review](https://kotaku.com/live-a-live-nintendo-switch-review-remake-square-enix-1849338456)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
