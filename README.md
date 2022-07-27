@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate my Setup](http://9gag.com/gag/a216A51)
- - ⏩ [I guess, she is talking about distance from ceiling.](http://9gag.com/gag/apgZjGp)
- - 👉 [Car headlights](http://9gag.com/gag/aAGzq5Z)<!-- MEMES:END -->
+ - 💣 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)
+ - ⏩ [Rate my Setup](http://9gag.com/gag/a216A51)
+ - 👉 [Mira Sorvino won Best Supporting Actress for Mighty Aphrodite and took a moment yo thank her father, Paul Sorvino, who was visually moved. Mira is a Harvard graduate.](http://9gag.com/gag/a510yBE)<!-- MEMES:END -->
 
 ---
 
