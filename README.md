@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)
- - ⏩ [Rate my Setup](http://9gag.com/gag/a216A51)
- - 👉 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)<!-- MEMES:END -->
+ - 💣 [Man also matter](http://9gag.com/gag/a1138zD)
+ - ⏩ [Every morning](http://9gag.com/gag/ajge37g)
+ - 👉 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)<!-- MEMES:END -->
 
 ---
 
