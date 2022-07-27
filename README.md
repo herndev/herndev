@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 Just Got A Free New Level, Which Rules](https://kotaku.com/hitman-3-year-two-ambrose-island-free-level-agent-47-1849339605)
- - [Stray Strikes Down God Of War As Steam’s Best-Reviewed Game](https://kotaku.com/stray-steam-cat-game-god-of-war-powerwash-simulator-1849339513)
- - [Ark: Survival Evolved cheats and console commands](https://www.pcgamer.com/ark-cheats)<!-- GAME:END -->
+ - [Every Mainline Yakuza Game Is Coming To PlayStation Plus](https://kotaku.com/yakuza-like-a-dragon-sony-playstation-plus-sega-kazuma-1849340218)
+ - [You may not know any Latin American game studios by name, but that&#39;s about to change](https://www.pcgamer.com/you-may-not-know-any-latin-american-game-studios-by-name-but-thats-about-to-change)
+ - [Bernard the Hot Elf officially joins the new Santa Clause series](https://www.polygon.com/23180693/the-santa-clause-bernard-tim-allen-david-krumholtz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
