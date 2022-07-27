@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-new-features-3190721/)
- - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
- - [Google is making it easier to edit PDFs on Chromebooks](https://www.theverge.com/2022/7/27/23280660/google-photos-chromebook-gallery-pdf-video-movie-editor-themes)<!-- TECH:END -->
+ - [Apple releases fourth tvOS 16 beta for developer testing](https://appleinsider.com/articles/22/07/27/apple-releases-fourth-tvos-16-beta-for-developer-testing?utm_medium=rss)
+ - [Apple issues fourth developer beta for macOS Ventura](https://appleinsider.com/articles/22/07/27/apple-issues-fourth-developer-beta-for-macos-ventura?utm_medium=rss)
+ - [Apple seeds fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/07/27/apple-seeds-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
