@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
- - ⏩ [The audacity of this witch and her stepdaughter](http://9gag.com/gag/aE8mQzK)
- - 👉 [Some people in this world.](http://9gag.com/gag/aKmoL8W)<!-- MEMES:END -->
+ - 💣 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
+ - ⏩ [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
+ - 👉 [Ultra pride](http://9gag.com/gag/axBqQd1)<!-- MEMES:END -->
 
 ---
 
