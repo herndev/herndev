@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The realism of FIFA 23’s new motion capture technology](https://blog.playstation.com/2022/07/27/the-realism-of-fifa-23s-new-motion-capture-technology/)
- - [Rank Up, Hold Your Ground and Join Forces in Aliens: Fireteam Elite Season 4](https://news.xbox.com/en-us/2022/07/27/rank-up-hold-your-ground-and-join-forces-in-aliens-fireteam-elite-season-4/)
- - [The Evolution and Creative Inspirations Behind Train Valley, out Today on Xbox](https://news.xbox.com/en-us/2022/07/27/the-evolution-and-creative-inspirations-behind-train-valley-out-today-on-xbox/)<!-- GAME:END -->
+ - [Brawlhalla’s Assassin’s Creed Epic Crossover is Here](https://news.xbox.com/en-us/2022/07/27/brawlhallas-assassins-creed-epic-crossover-is-here/)
+ - [Elden Ring quests: How to start NPC storylines](https://www.pcgamer.com/all-elden-ring-quests-side-best)
+ - [Grand Theft Auto 6 will have a playable female protagonist, report claims](https://www.pcgamer.com/grand-theft-auto-6-will-have-a-playable-female-protagonist-report-claims)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
