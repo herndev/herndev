@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps gets closer to its immersive view feature with its latest update](https://www.androidauthority.com/google-maps-immersive-3190819/)
- - [GTA VI could finally let you blow up Miami as a woman in 2024](https://www.theverge.com/2022/7/27/23280496/gta6-gta-vi-miami-female-protagonist-2024-release-date-development-crunch)
- - [TikTok plans to give &quot;selected researchers&quot; access to its platform and moderation system, helping them &quot;assess content and trends or conducts tests&quot; &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220727/p26#a220727p26)<!-- TECH:END -->
+ - [Chromebooks will get new Google Photos movie editor and more this fall](https://www.androidauthority.com/chromebooks-google-photos-new-features-3190721/)
+ - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
+ - [Google is making it easier to edit PDFs on Chromebooks](https://www.theverge.com/2022/7/27/23280660/google-photos-chromebook-gallery-pdf-video-movie-editor-themes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
