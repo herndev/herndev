@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The hair cut](http://9gag.com/gag/aggz6vx)
- - ⏩ [Props for making it realistic](http://9gag.com/gag/aLv7VXx)
- - 👉 [Ultra pride](http://9gag.com/gag/axBqQd1)<!-- MEMES:END -->
+ - 💣 [Rate my Setup](http://9gag.com/gag/a216A51)
+ - ⏩ [I guess, she is talking about distance from ceiling.](http://9gag.com/gag/apgZjGp)
+ - 👉 [Car headlights](http://9gag.com/gag/aAGzq5Z)<!-- MEMES:END -->
 
 ---
 
