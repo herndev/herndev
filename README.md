@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California Wants to Make Cheap Insulin. Here’s How It Could Work](https://www.wired.com/story/california-wants-to-make-cheap-insulin-heres-how-it-could-work/)
- - [How to flip screen orientation on a smartwatch](https://www.theverge.com/23279212/smartwatch-screen-orientation-how-to)
- - [Shopify misses as Q2 revenue grew 16% YoY to $1.3B and GMV reached $46.9B, up 11% YoY; SHOP drops 6%+, after crashing 14% on Tuesday due to layoffs &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220727/p18#a220727p18)<!-- TECH:END -->
+ - [Sources: Microsoft asks Google, Oracle, and others to help pressure the US into spreading its cloud spending across more services, challenging AWS&#39; dominance &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p20#a220727p20)
+ - [Daily deals July 27: $130 off Apple Watch Series 6, Apple TV 4K for $130, 26% off iPhone telescope attachment, more](https://appleinsider.com/articles/22/07/27/daily-deals-july-27-130-off-apple-watch-series-6-apple-tv-4k-for-130-26-off-iphone-telescope-attachment-more?utm_medium=rss)
+ - [Madrid-based Seedtag, which offers a cookie-less contextual advertising engine to brands, raised &amp;euro;250M from Advent, following a ~&amp;euro;39M Series B in September 2021 &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220727/p19#a220727p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
