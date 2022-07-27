@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riders Republic Season 3: Summer Break Coming July 27](https://news.xbox.com/en-us/2022/07/27/riders-republic-season-3-summer-break-coming-july-27/)
- - [MultiVersus confirms no more progress resets following open beta launch](https://www.pcgamer.com/multiversus-confirms-no-more-progress-resets-following-open-beta-launch)
- - [Live A Live: The Kotaku Review](https://kotaku.com/live-a-live-nintendo-switch-review-remake-square-enix-1849338456)<!-- GAME:END -->
+ - [A Sims 4 bug is making Sims speedrun the aging process](https://www.pcgamer.com/a-sims-4-bug-is-making-sims-speedrun-the-aging-process)
+ - [Riot Suspends Valorant Pros Over Teabagging Controversy](https://kotaku.com/valorant-riot-teabagging-esports-galorant-dawn-risorah-1849338854)
+ - [Clean up the beach and play music in this stunningly animated game](https://www.polygon.com/23279312/music-game-free-download-twin-stick-shooter-co-op)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
