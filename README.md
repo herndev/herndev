@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: activist investor Elliott Management is building a stake in PayPal to speed cost cuts and may become one of the company&#39;s five largest shareholders &lpar;Bloomberg&rpar;](http://www.techmeme.com/220726/p40#a220726p40)
- - [A researcher finds messaging and calling app JusTalk left exposed a database with millions of users&#39; conversations and call logs in plaintext since January 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220726/p39#a220726p39)
- - [&#39;Crypto Star&#39; Immutable, Creator of NFT Game Gods Unchained, Lays Off Over 20 Staff     - CNET](https://www.cnet.com/tech/gaming/crypto-star-immutable-creator-of-nft-game-gods-unchained-lays-off-over-20-staff/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Senate Majority Leader Chuck Schumer told donors at a fundraiser that the AICO Act to pare back the power of big tech companies is unlikely to pass &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220727/p2#a220727p2)
+ - [How to delete your Strava account](https://www.androidauthority.com/delete-strava-account-3190297/)
+ - [Unit 42: hackers typically scan for vulnerabilities within 15 minutes of a new CVE disclosure with the first active exploitation attempts observed within hours &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220727/p1#a220727p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
