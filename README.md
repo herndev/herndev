@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Pablo Galindo, one of the five members of the Python Steering Council who vet all revisions and additions to the programming language &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220727/p7#a220727p7)
- - [Researchers say cybercriminals are leveraging the automation features, like bots, inside Discord and Telegram to host, distribute, and execute malware schemes &lpar;Intel471&rpar;](http://www.techmeme.com/220727/p6#a220727p6)
- - [3G Service Is Going Extinct. We Asked T-Mobile, Verizon and Sprint What They&#39;re Doing About It     - CNET](https://www.cnet.com/tech/mobile/3g-service-is-going-extinct-we-asked-t-mobile-verizon-and-sprint-what-theyre-doing-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Acronis, which offers enterprise cybersecurity and data protection tools, raised $250M at a $3.5B+ valuation, up from $2.5B in May 2021 after raising $250M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p12#a220727p12)
+ - [Mark Zuckerberg tells employees Meta and Apple are in a &quot;very deep, philosophical competition&quot; to build AR and VR devices and determine the internet&#39;s direction &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220727/p11#a220727p11)
+ - [Google announces Maps updates: photorealistic aerial views of nearly 100 landmarks, more detailed cycling routes, and improved location sharing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220727/p10#a220727p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
