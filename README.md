@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cuphead: The Delicious Last Course Boss Pulls BS Trick &lpar;And It&#39;s Pretty Great&rpar;](https://kotaku.com/cuphead-dlc-studio-mdhr-sekiro-shadows-die-twice-1849329503)
- - [Square Enix’s HD-2D style lets classic games be themselves](https://www.polygon.com/23278977/live-a-live-hd-2d-remake-square-enix-jrpg)
- - [Gran Turismo 7 July Update 1.19 delivers three new vehicles to Legend Cars and Brand Central](https://blog.playstation.com/2022/07/27/gran-turismo-7-july-update-1-19-delivers-three-new-vehicles-to-legend-cars-and-brand-central/)<!-- GAME:END -->
+ - [Every Marvel movie release set for 2022 and beyond](https://www.polygon.com/21452835/new-marvel-movies-come-out-release-schedule)
+ - [Sniper Elite 5 Reloads with a Free Multiplayer Map and the Landing Force Mission and Weapon Pack](https://news.xbox.com/en-us/2022/07/27/185322/)
+ - [Sylvester Stallone takes out the trash in aging superhero movie Samaritan](https://www.polygon.com/23279681/sylvester-stallone-samaritan-trailer-streaming-release-amazon-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
