@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
- - ⏩ [Some people in this world.](http://9gag.com/gag/aKmoL8W)
- - 👉 [The audacity of this witch and her stepdaughter](http://9gag.com/gag/aE8mQzK)<!-- MEMES:END -->
+ - ⏩ [The audacity of this witch and her stepdaughter](http://9gag.com/gag/aE8mQzK)
+ - 👉 [Some people in this world.](http://9gag.com/gag/aKmoL8W)<!-- MEMES:END -->
 
 ---
 
