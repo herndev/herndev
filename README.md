@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [For the First Time, NASA Space Robots Work Together on the International Space Station     - CNET](https://www.cnet.com/science/space/for-the-first-time-nasa-space-robots-work-together-on-the-international-space-station/#ftag=CAD590a51e)
- - [Google Photos Update Adds New Video Editor And Movie Maker     - CNET](https://www.cnet.com/tech/computing/google-photos-update-adds-new-video-editor-and-movie-maker/#ftag=CAD590a51e)
- - [Gmail rolls out new integrated design with Chat, Spaces, and Meet apps](https://www.androidauthority.com/gmail-new-integrated-design-3190952/)<!-- TECH:END -->
+ - [London paid a record price for electricity during its heatwave](https://www.theverge.com/2022/7/27/23280640/london-uk-electricity-blackouts-heatwave-import)
+ - [The best routers under $75 for iPhone, iPad, and Mac owners](https://appleinsider.com/articles/22/07/25/the-best-routers-under-75-for-iphone-ipad-and-mac-owners?utm_medium=rss)
+ - [Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to &quot;steadily reduce headcount growth over the next year&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220727/p38#a220727p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
