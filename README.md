@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just realized, but I am actually fine with that](http://9gag.com/gag/amg4Qoo)
- - ⏩ [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
- - 👉 [Half empty or half full? XD](http://9gag.com/gag/aXr6znd)<!-- MEMES:END -->
+ - 💣 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
+ - ⏩ [Everyday](http://9gag.com/gag/ajgejZg)
+ - 👉 [It\u2019s Wednesday mah dudes!](http://9gag.com/gag/aQXWK4r)<!-- MEMES:END -->
 
 ---
 
