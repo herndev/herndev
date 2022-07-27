@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Redmi flagship leak promises a 200MP powerhouse](https://www.androidauthority.com/redmi-k50s-pro-specs-3190745/)
  - [Google is adding Flyover-like aerial views to Maps](https://www.theverge.com/2022/7/27/23279880/google-maps-aerial-views-immersive-cycling-directions-location-sharing-notifications)
- - [A profile of Andrew Yao, a China-born, Harvard-trained academic influencing China&#39;s AI plans via his computer science course at Beijing&#39;s Tsinghua University &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220727/p5#a220727p5)
- - [Official Galaxy Z Flip 4 photos and colorways outed in new leak](https://www.androidauthority.com/samsung-galaxy-z-flip-4-colors-3190729/)<!-- TECH:END -->
+ - [A profile of Andrew Yao, a China-born, Harvard-trained academic influencing China&#39;s AI plans via his computer science course at Beijing&#39;s Tsinghua University &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220727/p5#a220727p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
