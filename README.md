@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kioxia&#39;s new enterprise drives already near the limits of a PCIe 5.0 x4 interface](https://www.pcgamer.com/kioxias-new-enterprise-drives-already-near-the-limits-of-a-pcie-50-x4-interface)
- - [Today&#39;s Wordle answer #403: Wednesday, July 27](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Our Favorite Cosplay From Anime Expo 2022](https://kotaku.com/cosplay-photos-gallery-video-anime-expo-lacc-la-1849336093)<!-- GAME:END -->
+ - [UEFI Malware discovered in Gigabyte and Asus H81 motherboard firmware](https://www.pcgamer.com/uefi-malware-discovered-in-gigabyte-and-asus-h81-motherboard-firmware)
+ - [Logitech&#39;s new peripherals are a welcome pop of colour](https://www.pcgamer.com/logitechs-new-peripherals-are-a-welcome-pop-of-colour)
+ - [Kioxia&#39;s new enterprise drives already near the limits of a PCIe 5.0 x4 interface](https://www.pcgamer.com/kioxias-new-enterprise-drives-already-near-the-limits-of-a-pcie-50-x4-interface)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
