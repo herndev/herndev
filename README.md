@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man also matter](http://9gag.com/gag/a1138zD)
+ - 💣 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)
  - ⏩ [Every morning](http://9gag.com/gag/ajge37g)
- - 👉 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)<!-- MEMES:END -->
+ - 👉 [Oh no...](http://9gag.com/gag/aeg8qBb)<!-- MEMES:END -->
 
 ---
 
