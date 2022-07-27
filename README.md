@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [20 famous riffs on the stylophone](http://9gag.com/gag/aAGz7Dg)
- - ⏩ [Wtf Jesse](http://9gag.com/gag/aM4M6r6)
- - 👉 [Man also matter](http://9gag.com/gag/a1138zD)<!-- MEMES:END -->
+ - 💣 [A day in the life of a cyclist](http://9gag.com/gag/a0ZyGzZ)
+ - ⏩ [Everyday](http://9gag.com/gag/ajgejZg)
+ - 👉 [Them AGAIN................ oh wait](http://9gag.com/gag/a51096L)<!-- MEMES:END -->
 
 ---
 
