@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s ‘unlimited’ connectivity plan, including navigation, now expires after eight years](https://www.theverge.com/2022/7/27/23281022/tesla-standard-data-connectivity-navigation-limited-eight-years)
- - [Microsoft says it caught an Austrian spyware group using previously unknown Windows exploits](https://www.theverge.com/2022/7/27/23281215/microsoft-austrian-commercial-spyware-dsirf-knotweed-intelligence-committee)
- - [How to test macOS Ventura without risking your data](https://appleinsider.com/articles/22/07/11/how-to-test-macos-ventura-without-risking-your-data?utm_medium=rss)<!-- TECH:END -->
+ - [Facebook reports drop in revenue for the first time](https://www.theverge.com/2022/7/27/23281294/facebook-meta-revenue-declines-for-first-time)
+ - [Meta reports its first-ever YoY quarterly revenue decline and issues a lowered Q3 forecast, citing a weak ad demand environment and macroeconomic uncertainty &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p35#a220727p35)
+ - [Meta&#39;s Reality Labs division posts a $2.8B loss in Q2 2022, compared to a $2.96B loss in Q1 2022, on a revenue of $452M, down from $695M in Q1 2022 &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220727/p34#a220727p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
