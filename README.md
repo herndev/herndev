@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This cyberpunk RPG claims it teaches real hacking skills but I can&#39;t get past the clown makeup](https://www.pcgamer.com/this-cyberpunk-rpg-claims-it-teaches-real-hacking-skills-but-i-cant-get-past-the-clown-makeup)
- - [NFT Gaming Debate Puts Enjin Coin &lpar;ENJ-USD&rpar; In ​​The Spotlight](https://game-rant-2022.blogspot.com/2022/07/nft-gaming-debate-puts-enjin-coin-enj.html)
- - [Report: Star Wars: Knights Of The Old Republic Remake In Serious Trouble](https://kotaku.com/star-wars-knights-of-the-old-republic-kotor-remake-hold-1849335104)<!-- GAME:END -->
+ - [Stray&#39;s Little Worlds Are The Best Part Of The Game](https://kotaku.com/stray-cat-slums-midtown-city-world-ps5-pc-architecture-1849330805)
+ - [Get free Witcher and Cyberpunk 2077 goodies on GOG](https://www.pcgamer.com/get-free-witcher-and-cyberpunk-2077-goodies-on-gog)
+ - [8 Best Mobile Games For Couples](https://game-rant-2022.blogspot.com/2022/07/8-best-mobile-games-for-couples.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
