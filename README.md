@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Facebookification of Instagram](https://www.theverge.com/2022/7/27/23281104/instagram-facebook-acquisition-changes-land-of-the-giants-podcast)
- - [iMessage edit log added &amp; unsend time limit cut way back in iOS 16 beta 4](https://appleinsider.com/articles/22/07/27/imessage-edit-log-added-unsend-time-limit-cut-way-back-in-ios-16-beta-4?utm_medium=rss)
- - [Google delays the phaseout of third-party cookies in Chrome to H2 2024, after delaying it from 2022 to 2023, citing the need for more Privacy Sandbox tests &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220727/p31#a220727p31)<!-- TECH:END -->
+ - [Tesla’s ‘unlimited’ connectivity plan, including navigation, now expires after eight years](https://www.theverge.com/2022/7/27/23281022/tesla-standard-data-connectivity-navigation-limited-eight-years)
+ - [Microsoft says it caught an Austrian spyware group using previously unknown Windows exploits](https://www.theverge.com/2022/7/27/23281215/microsoft-austrian-commercial-spyware-dsirf-knotweed-intelligence-committee)
+ - [How to test macOS Ventura without risking your data](https://appleinsider.com/articles/22/07/11/how-to-test-macos-ventura-without-risking-your-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
