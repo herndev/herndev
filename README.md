@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A researcher finds messaging and calling app JusTalk left exposed a database with millions of users&#39; conversations and call logs in plaintext since January 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/220726/p39#a220726p39)
  - [Sony reveals more PlayStation VR2 details, including a see-through view, a broadcast mode for filming gameplay, and a cinematic mode for non-VR games and media &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220726/p38#a220726p38)
- - [Best Cheap Car Insurance Companies for August 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)
- - [Bill Gates Has Been Playing Pickleball 50 Years Longer Than the Rest of Us     - CNET](https://www.cnet.com/culture/bill-gates-has-been-playing-pickleball-50-years-longer-than-the-rest-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Cheap Car Insurance Companies for August 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
