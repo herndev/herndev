@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acronis, which offers enterprise cybersecurity and data protection tools, raised $250M at a $3.5B+ valuation, up from $2.5B in May 2021 after raising $250M &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p12#a220727p12)
- - [Mark Zuckerberg tells employees Meta and Apple are in a &quot;very deep, philosophical competition&quot; to build AR and VR devices and determine the internet&#39;s direction &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/220727/p11#a220727p11)
- - [Google announces Maps updates: photorealistic aerial views of nearly 100 landmarks, more detailed cycling routes, and improved location sharing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220727/p10#a220727p10)<!-- TECH:END -->
+ - [Spotify says it has &quot;decided to stop further production of Car Thing units&quot; and will take a &amp;euro;31M charge, citing demand and supply chain issues &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220727/p15#a220727p15)
+ - [An illustrated look at the bipartisan American Innovation and Choice Act&#39;s impact on US tech giants, seeking to ban self-preferencing and improve competition &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220727/p14#a220727p14)
+ - [Apple TV+ hosts premiere event for &#39;Surface&#39; thriller](https://appleinsider.com/articles/22/07/27/apple-tv-hosts-premiere-event-for-surface-thriller?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
