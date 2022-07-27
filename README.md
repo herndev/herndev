@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [OneWeb and Eutelsat merger sets up a European satellite internet giant to take on SpaceX, Amazon](https://www.theverge.com/2022/7/26/23279205/satellite-internet-oneweb-eutelsat-starlink-project-kuiper-competition)
  - [Facebook expecting to fight Apple for metaverse dominance](https://appleinsider.com/articles/22/07/26/facebook-expecting-to-fight-apple-for-metaverse-dominance?utm_medium=rss)
- - [Google Earnings Miss Expectations as Tech Industry Shows Weakness     - CNET](https://www.cnet.com/tech/google-earnings-miss-expectations-as-tech-industry-shows-weakness/#ftag=CAD590a51e)
- - [The Star Wars: Knights of the Old Republic remake is reportedly on pause](https://www.theverge.com/2022/7/26/23279810/star-wars-knights-of-the-old-republic-kotor-remake-development-on-pause)<!-- TECH:END -->
+ - [Google Earnings Miss Expectations as Tech Industry Shows Weakness     - CNET](https://www.cnet.com/tech/google-earnings-miss-expectations-as-tech-industry-shows-weakness/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
