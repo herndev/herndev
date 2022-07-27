@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Sims 4 bug is making Sims speedrun the aging process](https://www.pcgamer.com/a-sims-4-bug-is-making-sims-speedrun-the-aging-process)
- - [Riot Suspends Valorant Pros Over Teabagging Controversy](https://kotaku.com/valorant-riot-teabagging-esports-galorant-dawn-risorah-1849338854)
- - [Clean up the beach and play music in this stunningly animated game](https://www.polygon.com/23279312/music-game-free-download-twin-stick-shooter-co-op)<!-- GAME:END -->
+ - [Stray Strikes Down God Of War As Steam’s Best-Reviewed Game](https://kotaku.com/stray-steam-cat-game-god-of-war-powerwash-simulator-1849339513)
+ - [Ark: Survival Evolved cheats and console commands](https://www.pcgamer.com/ark-cheats)
+ - [Dig for treasures and dark secrets in Wadjet Eye&#39;s new &#39;folk horror&#39; adventure](https://www.pcgamer.com/dig-for-treasures-and-dark-secrets-in-wadjet-eyes-new-folk-horror-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
