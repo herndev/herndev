@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gmail’s new search tweaks will make sure you’re emailing the right person](https://www.theverge.com/2022/7/27/23280860/gmail-search-update-emailing-right-person)
- - [Nier: Automata community is in shambles after player finds a secret church](https://www.theverge.com/2022/7/27/23280612/nier-automata-nintendo-switch-secret-church-easter-egg)
- - [Apple &amp; Google facing new class action lawsuit in Portugal over 30% app store fees](https://appleinsider.com/articles/22/07/27/apple-google-facing-new-class-action-lawsuit-in-portugal-over-30-app-store-fees?utm_medium=rss)<!-- TECH:END -->
+ - [The Facebookification of Instagram](https://www.theverge.com/2022/7/27/23281104/instagram-facebook-acquisition-changes-land-of-the-giants-podcast)
+ - [iMessage edit log added &amp; unsend time limit cut way back in iOS 16 beta 4](https://appleinsider.com/articles/22/07/27/imessage-edit-log-added-unsend-time-limit-cut-way-back-in-ios-16-beta-4?utm_medium=rss)
+ - [Google delays the phaseout of third-party cookies in Chrome to H2 2024, after delaying it from 2022 to 2023, citing the need for more Privacy Sandbox tests &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220727/p31#a220727p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
