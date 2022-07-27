@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My goldfish is a better pet..](http://9gag.com/gag/a61YzLm)
- - ⏩ [Opossums are friends.](http://9gag.com/gag/a61YzPq)
- - 👉 [You&#39;re fine](http://9gag.com/gag/aDDe9MK)<!-- MEMES:END -->
+ - 💣 [Farm automation](http://9gag.com/gag/angPZrE)
+ - ⏩ [I&#39;ve just watched it yesterday, why is it again recommended??](http://9gag.com/gag/aXr61gz)
+ - 👉 [Opossums are friends.](http://9gag.com/gag/a61YzPq)<!-- MEMES:END -->
 
 ---
 
