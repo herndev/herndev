@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hitman 3 Just Got A Free New Level, Which Rules](https://kotaku.com/hitman-3-year-two-ambrose-island-free-level-agent-47-1849339605)
  - [Stray Strikes Down God Of War As Steam’s Best-Reviewed Game](https://kotaku.com/stray-steam-cat-game-god-of-war-powerwash-simulator-1849339513)
- - [Ark: Survival Evolved cheats and console commands](https://www.pcgamer.com/ark-cheats)
- - [Dig for treasures and dark secrets in Wadjet Eye&#39;s new &#39;folk horror&#39; adventure](https://www.pcgamer.com/dig-for-treasures-and-dark-secrets-in-wadjet-eyes-new-folk-horror-adventure)<!-- GAME:END -->
+ - [Ark: Survival Evolved cheats and console commands](https://www.pcgamer.com/ark-cheats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
