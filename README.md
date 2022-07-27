@@ -114,7 +114,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
- - ⏩ [Surely they don&#39;t help.](http://9gag.com/gag/aKmoNOj)
+ - ⏩ [Right in the feels](http://9gag.com/gag/aKmon6g)
  - 👉 [Damn bruh, chill](http://9gag.com/gag/azepB3m)<!-- MEMES:END -->
 
 ---
