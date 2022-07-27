@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Props for making it realistic](http://9gag.com/gag/aLv7VXx)
- - ⏩ [Rate my Setup](http://9gag.com/gag/a216A51)
- - 👉 [Mira Sorvino won Best Supporting Actress for Mighty Aphrodite and took a moment yo thank her father, Paul Sorvino, who was visually moved. Mira is a Harvard graduate.](http://9gag.com/gag/a510yBE)<!-- MEMES:END -->
+ - 💣 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)
+ - ⏩ [This a damn trap](http://9gag.com/gag/ay9jZ1r)
+ - 👉 [Arise, wretched of the earth!](http://9gag.com/gag/aeg8qRp)<!-- MEMES:END -->
 
 ---
 
