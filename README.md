@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Redmi flagship leak promises a 200MP powerhouse](https://www.androidauthority.com/redmi-k50s-pro-specs-3190745/)
- - [Google is adding Flyover-like aerial views to Maps](https://www.theverge.com/2022/7/27/23279880/google-maps-aerial-views-immersive-cycling-directions-location-sharing-notifications)
- - [A profile of Andrew Yao, a China-born, Harvard-trained academic influencing China&#39;s AI plans via his computer science course at Beijing&#39;s Tsinghua University &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220727/p5#a220727p5)<!-- TECH:END -->
+ - [An interview with Pablo Galindo, one of the five members of the Python Steering Council who vet all revisions and additions to the programming language &lpar;Joel Khalili/TechRadar&rpar;](http://www.techmeme.com/220727/p7#a220727p7)
+ - [Researchers say cybercriminals are leveraging the automation features, like bots, inside Discord and Telegram to host, distribute, and execute malware schemes &lpar;Intel471&rpar;](http://www.techmeme.com/220727/p6#a220727p6)
+ - [3G Service Is Going Extinct. We Asked T-Mobile, Verizon and Sprint What They&#39;re Doing About It     - CNET](https://www.cnet.com/tech/mobile/3g-service-is-going-extinct-we-asked-t-mobile-verizon-and-sprint-what-theyre-doing-about-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
