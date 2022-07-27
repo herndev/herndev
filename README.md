@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases fourth tvOS 16 beta for developer testing](https://appleinsider.com/articles/22/07/27/apple-releases-fourth-tvos-16-beta-for-developer-testing?utm_medium=rss)
- - [Apple issues fourth developer beta for macOS Ventura](https://appleinsider.com/articles/22/07/27/apple-issues-fourth-developer-beta-for-macos-ventura?utm_medium=rss)
- - [Apple seeds fourth developer beta of iOS 16 and iPadOS 16](https://appleinsider.com/articles/22/07/27/apple-seeds-fourth-developer-beta-of-ios-16-and-ipados-16?utm_medium=rss)<!-- TECH:END -->
+ - [Gmail’s new search tweaks will make sure you’re emailing the right person](https://www.theverge.com/2022/7/27/23280860/gmail-search-update-emailing-right-person)
+ - [Nier: Automata community is in shambles after player finds a secret church](https://www.theverge.com/2022/7/27/23280612/nier-automata-nintendo-switch-secret-church-easter-egg)
+ - [Apple &amp; Google facing new class action lawsuit in Portugal over 30% app store fees](https://appleinsider.com/articles/22/07/27/apple-google-facing-new-class-action-lawsuit-in-portugal-over-30-app-store-fees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
