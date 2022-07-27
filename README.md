@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s my birthday and Wednesday my dudes!!!!!](http://9gag.com/gag/avAK4N5)
- - ⏩ [Every morning](http://9gag.com/gag/ajge37g)
- - 👉 [Oh no...](http://9gag.com/gag/aeg8qBb)<!-- MEMES:END -->
+ - 💣 [Australian farmer celebrates rain falling on farm for first time in months after the Australian bushfires, 2020](http://9gag.com/gag/aNPEGd0)
+ - ⏩ [Wtf Jesse](http://9gag.com/gag/aM4M6r6)
+ - 👉 [20 famous riffs on the stylophone](http://9gag.com/gag/aAGz7Dg)<!-- MEMES:END -->
 
 ---
 
