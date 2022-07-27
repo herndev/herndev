@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft asks Google, Oracle, and others to help pressure the US into spreading its cloud spending across more services, challenging AWS&#39; dominance &lpar;Aaron Tilley/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p20#a220727p20)
- - [Daily deals July 27: $130 off Apple Watch Series 6, Apple TV 4K for $130, 26% off iPhone telescope attachment, more](https://appleinsider.com/articles/22/07/27/daily-deals-july-27-130-off-apple-watch-series-6-apple-tv-4k-for-130-26-off-iphone-telescope-attachment-more?utm_medium=rss)
- - [Madrid-based Seedtag, which offers a cookie-less contextual advertising engine to brands, raised &amp;euro;250M from Advent, following a ~&amp;euro;39M Series B in September 2021 &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/220727/p19#a220727p19)<!-- TECH:END -->
+ - [Android Auto is so bad it made me switch back to the iPhone](https://www.androidauthority.com/android-auto-apple-carplay-3185189/)
+ - [Memo: Twitter plans to reduce its office space in San Francisco, New York, Sydney, Seoul, Tokyo, and other major markets, in a bid to cut costs &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/220727/p24#a220727p24)
+ - [Harley Quinn’s sexy season 3 puts the important things like love, trust, and Poison Ivy first](https://www.theverge.com/2022/7/27/23276510/harley-quinn-season-3-review-hbo-max)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
