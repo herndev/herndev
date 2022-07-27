@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stray&#39;s Little Worlds Are The Best Part Of The Game](https://kotaku.com/stray-cat-slums-midtown-city-world-ps5-pc-architecture-1849330805)
- - [Get free Witcher and Cyberpunk 2077 goodies on GOG](https://www.pcgamer.com/get-free-witcher-and-cyberpunk-2077-goodies-on-gog)
- - [8 Best Mobile Games For Couples](https://game-rant-2022.blogspot.com/2022/07/8-best-mobile-games-for-couples.html)<!-- GAME:END -->
+ - [RIP Roblox&#39;s Famous &#39;Oof&#39; Sound, Which Has Been Removed](https://kotaku.com/roblox-oof-sound-death-removed-licensing-tallarico-1849335787)
+ - [Returnal PC port may support Steam Deck](https://www.pcgamer.com/returnal-pc-port-may-support-steam-deck)
+ - [Stray&#39;s Little Worlds Are The Best Part Of The Game](https://kotaku.com/stray-cat-slums-midtown-city-world-ps5-pc-architecture-1849330805)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
