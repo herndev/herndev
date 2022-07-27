@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New study finds gaming is &#39;unlikely&#39; to affect well-being](https://www.pcgamer.com/new-study-finds-gaming-is-unlikely-to-affect-well-being)
- - [UEFI Malware discovered in Gigabyte and Asus H81 motherboard firmware](https://www.pcgamer.com/uefi-malware-discovered-in-gigabyte-and-asus-h81-motherboard-firmware)
- - [Logitech&#39;s new peripherals are a welcome pop of colour](https://www.pcgamer.com/logitechs-new-peripherals-are-a-welcome-pop-of-colour)<!-- GAME:END -->
+ - [Zombies return to Call of Duty: Warzone in a new limited-time mode](https://www.pcgamer.com/zombies-return-to-call-of-duty-warzone-in-a-new-limited-time-mode)
+ - [Oof, the iconic Roblox death noise has been replaced with a way uglier sound](https://www.pcgamer.com/oof-the-iconic-roblox-death-noise-has-been-replaced-with-a-way-uglier-sound)
+ - [New study finds gaming is &#39;unlikely&#39; to affect well-being](https://www.pcgamer.com/new-study-finds-gaming-is-unlikely-to-affect-well-being)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
