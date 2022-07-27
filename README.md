@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [MCU died with Ironman - Change my mind](http://9gag.com/gag/avAKBOO)
- - ⏩ [This a damn trap](http://9gag.com/gag/ay9jZ1r)
- - 👉 [Arise, wretched of the earth!](http://9gag.com/gag/aeg8qRp)<!-- MEMES:END -->
+ - ⏩ [Rate my Setup](http://9gag.com/gag/a216A51)
+ - 👉 [I love it when people collectively decide to be silly](http://9gag.com/gag/aGz46Wz)<!-- MEMES:END -->
 
 ---
 
