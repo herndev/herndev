@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your profile banner on Discord](https://www.androidauthority.com/change-banner-discord-3190601/)
- - [Nash, which aggregates delivery providers for businesses, has raised a $20M Series A led by Andreessen Horowitz, bringing its total raised to $27.8M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220726/p37#a220726p37)
- - [Jake Paul vs. Hasim Rahman Jr.: Fight Date, Start Time, How to Watch Online     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-fight-date-start-time-how-to-watch-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony reveals more PlayStation VR2 details, including a see-through view, a broadcast mode for filming gameplay, and a cinematic mode for non-VR games and media &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220726/p38#a220726p38)
+ - [Best Cheap Car Insurance Companies for August 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/best-cheap-car-insurance-companies/#ftag=CAD590a51e)
+ - [Bill Gates Has Been Playing Pickleball 50 Years Longer Than the Rest of Us     - CNET](https://www.cnet.com/culture/bill-gates-has-been-playing-pickleball-50-years-longer-than-the-rest-of-us/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
