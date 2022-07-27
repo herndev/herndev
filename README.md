@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people in this world.](http://9gag.com/gag/aKmoL8W)
- - ⏩ [Right in the feels](http://9gag.com/gag/aKmon6g)
- - 👉 [Damn bruh, chill](http://9gag.com/gag/azepB3m)<!-- MEMES:END -->
+ - 💣 [This a damn trap](http://9gag.com/gag/ay9jZ1r)
+ - ⏩ [1993](http://9gag.com/gag/aeg8drQ)
+ - 👉 [All animals are equal, but some animals are more equal than others](http://9gag.com/gag/aWg3N13)<!-- MEMES:END -->
 
 ---
 
