@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get ready to pay a lot more for Amazon Prime if you live in these regions](https://www.androidauthority.com/amazon-prime-price-hike-europe-uk-3190718/)
- - [US CFPB Director Rohit Chopra says the agency should &quot;take a very careful look&quot; at Big Tech entering the buy now, pay later space, after Apple&#39;s BNPL debut &lpar;Stefania Palma/Financial Times&rpar;](http://www.techmeme.com/220727/p3#a220727p3)
- - [Sources: Senate Majority Leader Chuck Schumer told donors at a fundraiser that the AICO Act to pare back the power of Big Tech companies doesn&#39;t have the votes &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220727/p2#a220727p2)<!-- TECH:END -->
+ - [Google is adding Flyover-like aerial views to Maps](https://www.theverge.com/2022/7/27/23279880/google-maps-aerial-views-immersive-cycling-directions-location-sharing-notifications)
+ - [A profile of Andrew Yao, a China-born, Harvard-trained academic influencing China&#39;s AI plans via his computer science course at Beijing&#39;s Tsinghua University &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/220727/p5#a220727p5)
+ - [Official Galaxy Z Flip 4 photos and colorways outed in new leak](https://www.androidauthority.com/samsung-galaxy-z-flip-4-colors-3190729/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
