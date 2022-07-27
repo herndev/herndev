@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify says it has &quot;decided to stop further production of Car Thing units&quot; and will take a &amp;euro;31M charge, citing demand and supply chain issues &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220727/p15#a220727p15)
- - [An illustrated look at the bipartisan American Innovation and Choice Act&#39;s impact on US tech giants, seeking to ban self-preferencing and improve competition &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220727/p14#a220727p14)
- - [Apple TV+ hosts premiere event for &#39;Surface&#39; thriller](https://appleinsider.com/articles/22/07/27/apple-tv-hosts-premiere-event-for-surface-thriller?utm_medium=rss)<!-- TECH:END -->
+ - [California Wants to Make Cheap Insulin. Here’s How It Could Work](https://www.wired.com/story/california-wants-to-make-cheap-insulin-heres-how-it-could-work/)
+ - [How to flip screen orientation on a smartwatch](https://www.theverge.com/23279212/smartwatch-screen-orientation-how-to)
+ - [Shopify misses as Q2 revenue grew 16% YoY to $1.3B and GMV reached $46.9B, up 11% YoY; SHOP drops 6%+, after crashing 14% on Tuesday due to layoffs &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220727/p18#a220727p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
