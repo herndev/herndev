@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook reports drop in revenue for the first time](https://www.theverge.com/2022/7/27/23281294/facebook-meta-revenue-declines-for-first-time)
- - [Meta reports its first-ever YoY quarterly revenue decline and issues a lowered Q3 forecast, citing a weak ad demand environment and macroeconomic uncertainty &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p35#a220727p35)
- - [Meta&#39;s Reality Labs division posts a $2.8B loss in Q2 2022, compared to a $2.96B loss in Q1 2022, on a revenue of $452M, down from $695M in Q1 2022 &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220727/p34#a220727p34)<!-- TECH:END -->
+ - [For the First Time, NASA Space Robots Work Together on the International Space Station     - CNET](https://www.cnet.com/science/space/for-the-first-time-nasa-space-robots-work-together-on-the-international-space-station/#ftag=CAD590a51e)
+ - [Google Photos Update Adds New Video Editor And Movie Maker     - CNET](https://www.cnet.com/tech/computing/google-photos-update-adds-new-video-editor-and-movie-maker/#ftag=CAD590a51e)
+ - [Gmail rolls out new integrated design with Chat, Spaces, and Meet apps](https://www.androidauthority.com/gmail-new-integrated-design-3190952/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
