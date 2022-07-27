@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OneWeb and Eutelsat merger sets up a European satellite internet giant to take on SpaceX, Amazon](https://www.theverge.com/2022/7/26/23279205/satellite-internet-oneweb-eutelsat-starlink-project-kuiper-competition)
- - [Facebook expecting to fight Apple for metaverse dominance](https://appleinsider.com/articles/22/07/26/facebook-expecting-to-fight-apple-for-metaverse-dominance?utm_medium=rss)
- - [Google Earnings Miss Expectations as Tech Industry Shows Weakness     - CNET](https://www.cnet.com/tech/google-earnings-miss-expectations-as-tech-industry-shows-weakness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to change your profile banner on Discord](https://www.androidauthority.com/change-banner-discord-3190601/)
+ - [Nash, which aggregates delivery providers for businesses, has raised a $20M Series A led by Andreessen Horowitz, bringing its total raised to $27.8M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220726/p37#a220726p37)
+ - [Jake Paul vs. Hasim Rahman Jr.: Fight Date, Start Time, How to Watch Online     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-fight-date-start-time-how-to-watch-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
