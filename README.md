@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope is restored. A legend and his queen.](http://9gag.com/gag/aDDeKPK)
- - ⏩ [Sounds about right](http://9gag.com/gag/aggzD7w)
- - 👉 [Refuse to watch new shit](http://9gag.com/gag/a81xxN3)<!-- MEMES:END -->
+ - 💣 [The banners are up. Sooooo looking forward to finally having a festival again!](http://9gag.com/gag/aqGo0m7)
+ - ⏩ [Online](http://9gag.com/gag/aBnBAON)
+ - 👉 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
 
 ---
 
