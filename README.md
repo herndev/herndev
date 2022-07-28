@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RimWorld Console Edition Brings a Rich Colony Simulator Experience to Xbox – Out Now](https://news.xbox.com/en-us/2022/07/28/rimworld-console-edition-brings-a-rich-colony-simulator-experience-to-xbox-out-now/)
- - [Bernard Cribbins helped remind the world Doctor Who should always be about kindness](https://www.polygon.com/23282809/bernard-cribbins-doctor-who)
- - [Gaming RDY SLHBG216 review](https://www.pcgamer.com/gaming-rdy-slhbg216-review)<!-- GAME:END -->
+ - [Someone made P.T. inside Halo Infinite&#39;s leaked Forge mode](https://www.pcgamer.com/someone-made-pt-inside-halo-infinites-leaked-forge-mode)
+ - [You Gotta Check Out This Stylish, Gender-Swapped Scott Pilgrim-Like RPG](https://kotaku.com/thirsty-suitors-annapurna-outerloop-games-rpg-1849345581)
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
