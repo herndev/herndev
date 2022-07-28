@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com Announces Second Quarter Results &lpar;Business Wire&rpar;](http://www.techmeme.com/220728/p39#a220728p39)
- - [Harber London Nomad Organiser review: Stylish, but pricey](https://appleinsider.com/articles/22/07/28/harber-london-nomad-organiser-review-stylish-but-pricey?utm_medium=rss)
- - [OnePlus Nord Watch reportedly leaked, takes obvious inspiration from Apple Watch](https://www.androidauthority.com/oneplus-nord-watch-leaked-3191431/)<!-- TECH:END -->
+ - [People aren’t buying as many PCs — and Intel is feeling the multibillion-dollar burn](https://www.theverge.com/2022/7/28/23282849/intel-q2-2022-earnings-pc-industry-sales)
+ - [Roku misses with Q2 revenue up 18% YoY to $764M, vs. $805.2M estimated, and reaches 63.1M active accounts, up 1.8M QoQ; stock down ~26% after hours &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p44#a220728p44)
+ - [Amazon says sales are picking up following a big Prime Day](https://www.theverge.com/2022/7/28/23278058/amazon-q2-2022-earnings-sales-picking-up-prime-day)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
