@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram will start asking some users for their race or ethnicity](https://www.theverge.com/2022/7/28/23282148/instagram-race-ethnicity-survey-researchers-you-gov)
- - [Frontegg, a user management service for B2B SaaS providers, has raised a $40M Series B led by Stripes and Insight Partners, bringing its total funding to $70M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220728/p28#a220728p28)
- - [Audio format guide: MP3, M4A, AAC, FLAC, and more](https://www.androidauthority.com/audio-format-guide-mp3-m4a-aac-flac-3190468/)<!-- TECH:END -->
+ - [MrBallen is YouTube’s big podcast breakout](https://www.theverge.com/2022/7/28/23282464/podcast-mrballen-spotify-youtube-apple-rogan)
+ - [Switchboard, a collaboration app that combines videoconferencing and digital whiteboarding, has raised a $25M Series A at a $200M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220728/p29#a220728p29)
+ - [Are the Google Pixel Buds Pro good enough to be Android’s AirPods Pro killer?](https://www.androidauthority.com/pixel-buds-pro-3190878/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
