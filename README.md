@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘Save Minecraft!’ Cry Players After Mojang Starts Moderating Private Servers](https://kotaku.com/save-minecraft-private-server-ban-mojang-microsoft-1849345188)
- - [MultiVersus turns LeBron James meme into a devastating weapon](https://www.pcgamer.com/multiversus-turns-lebron-james-meme-into-a-devastating-weapon)
- - [They&#39;re remaking the game where Sherlock Holmes fights Cthulhu](https://www.pcgamer.com/theyre-remaking-the-game-where-sherlock-holmes-fights-cthulhu)<!-- GAME:END -->
+ - [RimWorld Console Edition Brings a Rich Colony Simulator Experience to Xbox – Out Now](https://news.xbox.com/en-us/2022/07/28/rimworld-console-edition-brings-a-rich-colony-simulator-experience-to-xbox-out-now/)
+ - [Bernard Cribbins helped remind the world Doctor Who should always be about kindness](https://www.polygon.com/23282809/bernard-cribbins-doctor-who)
+ - [Gaming RDY SLHBG216 review](https://www.pcgamer.com/gaming-rdy-slhbg216-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
