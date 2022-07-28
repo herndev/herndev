@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher season 3 has halted production because of a new Covid-19 outbreak](https://www.pcgamer.com/the-witcher-season-3-has-halted-production-because-of-a-new-covid-19-outbreak)
- - [Fixating on player counts and &#39;dead games&#39; is making gaming worse](https://www.pcgamer.com/fixating-on-player-counts-and-dead-games-is-making-gaming-worse)
- - [Every Mainline Yakuza Game Is Coming To PlayStation Plus](https://kotaku.com/yakuza-like-a-dragon-sony-playstation-plus-sega-kazuma-1849340218)<!-- GAME:END -->
+ - [We Met In Virtual Reality opens a startling window into people’s most surreal fantasies](https://www.polygon.com/reviews/22909446/we-met-in-virtual-reality-review)
+ - [Former Deus Ex Boss Unloads On Square Enix](https://kotaku.com/square-enix-eidos-montreal-deus-ex-tomb-raider-shit-1849340622)
+ - [The Witcher season 3 has halted production because of a new Covid-19 outbreak](https://www.pcgamer.com/the-witcher-season-3-has-halted-production-because-of-a-new-covid-19-outbreak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
