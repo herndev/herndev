@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p44#a220727p44)
- - [Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p43#a220727p43)
- - [Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p42#a220727p42)<!-- TECH:END -->
+ - [Islamabad-based fintech Dbank, which aims to &quot;democratize banking&quot; in Pakistan, raised a $17.6M seed led by Sequoia Capital Southeast Asia and Kleiner Perkins &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220728/p2#a220728p2)
+ - [France-based Cegid is merging with Spanish rival Grupo Primavera in a &amp;euro;6.8B all-share deal; the combined company will sell specialized software to digitize SMBs &lpar;Financial Times&rpar;](http://www.techmeme.com/220728/p1#a220728p1)
+ - [Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini&#39;s head of chassis and vehicle dynamics, to work on its self-driving electric car &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220727/p45#a220727p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
