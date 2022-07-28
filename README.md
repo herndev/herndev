@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Former US national security officials form Open Source Intelligence Foundation to promote analysis of public data like social media posts for intel-gathering &lpar;Dustin Volz/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p44#a220727p44)
  - [Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p43#a220727p43)
- - [Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p42#a220727p42)
- - [Best Fitbit Deals: Save $74 on Sense, $78 on Verse 3, $43 on Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p42#a220727p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
