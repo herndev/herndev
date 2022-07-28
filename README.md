@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally see a live feed of your Google Nest cameras on your TV](https://www.theverge.com/2022/7/27/23281580/google-nest-cam-chromecast-google-tv-live-video)
- - [Facebook and Instagram are going to show even more posts from accounts you don’t follow](https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-stream-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 26 Amazon workers want the feds to investigate racist death threats](https://www.theverge.com/2022/7/27/23281681/amazon-workers-eeoc-complaint-racist-death-threats-illinois)
+ - [Samsung Q2: operating profit up 12% YoY to ~$10.8B, revenue up 21.3% YoY to ~$59B, and chip division revenue of ~$22B, citing strong demand and strong US dollar &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/220727/p41#a220727p41)
+ - [You can finally see a live feed of your Google Nest cameras on your TV](https://www.theverge.com/2022/7/27/23281580/google-nest-cam-chromecast-google-tv-live-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
