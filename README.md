@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony introduces its first gamepad for iPhone — and it’s a Backbone One](https://www.theverge.com/2022/7/28/23277204/sony-playstation-backbone-one-iphone-mobile-gaming-controller-ps-remote-play-games)
- - [How to edit or unsend an iMessage in iOS 16](https://www.theverge.com/23204468/imessage-ios-16-apple-unsend-edit-how-to)
- - [How to speed up working on your Mac with basic automation](https://appleinsider.com/inside/macos/tips/how-to-speed-up-working-on-your-mac-with-basic-automation?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram will start asking some users for their race or ethnicity](https://www.theverge.com/2022/7/28/23282148/instagram-race-ethnicity-survey-researchers-you-gov)
+ - [Frontegg, a user management service for B2B SaaS providers, has raised a $40M Series B led by Stripes and Insight Partners, bringing its total funding to $70M &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/220728/p28#a220728p28)
+ - [Audio format guide: MP3, M4A, AAC, FLAC, and more](https://www.androidauthority.com/audio-format-guide-mp3-m4a-aac-flac-3190468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
