@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If you&#39;re eager to learn more about AMD&#39;s upcoming AM5 platform, tune into this event](https://www.pcgamer.com/if-youre-eager-to-learn-more-about-amds-upcoming-am5-platform-tune-into-this-event)
  - [The hidden Nier: Automata church mystery keeps getting weirder and weirder](https://www.pcgamer.com/the-hidden-nier-automata-church-mystery-keeps-getting-weirder-and-weirder)
- - [The new Dwarf Fortress animal people look beautiful](https://www.pcgamer.com/the-new-dwarf-fortress-animal-people-look-beautiful)
- - [One of Warhammer 40,000&#39;s best games is adding even more demons](https://www.pcgamer.com/one-of-warhammer-40000s-best-games-is-adding-even-more-demons)<!-- GAME:END -->
+ - [The new Dwarf Fortress animal people look beautiful](https://www.pcgamer.com/the-new-dwarf-fortress-animal-people-look-beautiful)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
