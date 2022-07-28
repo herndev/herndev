@@ -115,7 +115,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [The banners are up. Sooooo looking forward to finally having a festival again!](http://9gag.com/gag/aqGo0m7)
  - ⏩ [Online](http://9gag.com/gag/aBnBAON)
- - 👉 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
+ - 👉 [Might be a good plan.](http://9gag.com/gag/aKmoQej)<!-- MEMES:END -->
 
 ---
 
