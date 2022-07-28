@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GMing for over 100,000 Players in Citizen Sleeper’s First Free Episode](https://news.xbox.com/en-us/2022/07/28/gming-in-citizen-sleepers-first-free-episode/)
- - [Elden Ring&#39;s Turtle Pope Wins All-Out Death Battle By Doing Absolutely Nothing](https://kotaku.com/elden-ring-miriel-turtle-pope-fromsoftware-youtube-1849344582)
- - [Katamari Damacy creator teases his next game, which is a total mystery](https://www.polygon.com/23282597/annapurna-interactive-keita-takahashi-new-game-uvula)<!-- GAME:END -->
+ - [‘Save Minecraft!’ Cry Players After Mojang Starts Moderating Private Servers](https://kotaku.com/save-minecraft-private-server-ban-mojang-microsoft-1849345188)
+ - [MultiVersus turns LeBron James meme into a devastating weapon](https://www.pcgamer.com/multiversus-turns-lebron-james-meme-into-a-devastating-weapon)
+ - [They&#39;re remaking the game where Sherlock Holmes fights Cthulhu](https://www.pcgamer.com/theyre-remaking-the-game-where-sherlock-holmes-fights-cthulhu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
