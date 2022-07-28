@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Garlic butter sauce](http://9gag.com/gag/azep3yj)
- - ⏩ [This book for babies is on another level\u2026](http://9gag.com/gag/a81xO3Z)
- - 👉 [Dat backflip](http://9gag.com/gag/a91gGYo)<!-- MEMES:END -->
+ - 💣 [Dat backflip](http://9gag.com/gag/a91gGYo)
+ - ⏩ [Older I get, more I see how people are easily manipulated and how the world is slowly slipping into oligarchy while majority is having fun with tiktok, instagram,... and I hate it. I feel like a crab in a pot that is aware he&#39;ll be cooked even before water got warm.](http://9gag.com/gag/aXr6O99)
+ - 👉 [Okay](http://9gag.com/gag/angPP2E)<!-- MEMES:END -->
 
 ---
 
