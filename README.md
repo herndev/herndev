@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You won&#39;t upgrade your legendary gear in WoW Shadowlands Season 4](https://www.pcgamer.com/you-wont-upgrade-your-legendary-gear-in-wow-shadowlands-season-4)
- - [All MultiVersus characters, including leaked and upcoming fighters](https://www.pcgamer.com/multiversus-characters-list)
- - [HyperX Clutch](https://www.pcgamer.com/hyper-x-clutch-controller-review)<!-- GAME:END -->
+ - [B.J. Novak’s thriller satire Vengeance could use a few more sharp edges](https://www.polygon.com/reviews/23281343/vengeance-review-bj-novak-podcast-thriller)
+ - [Meet the developers still making games for your calculator](https://www.polygon.com/23272242/graphing-calculator-games-texas-instruments)
+ - [PS5 will get folders and support for 1440p displays this year](https://www.polygon.com/23282047/ps5-1440p-support-folders-gamelists)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
