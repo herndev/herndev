@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the 11 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones/)
- - [It’s TikTok’s World. Instagram Just Lives in It](https://www.wired.com/story/gadget-lab-podcast-559/)
- - [Recent AMD and Nvidia leaks show upcoming GPUs will consume excessive amounts of power, creating a high environmental cost for limited improvement in graphics &lpar;John Loeffler/TechRadar&rpar;](http://www.techmeme.com/220728/p18#a220728p18)<!-- TECH:END -->
+ - [Everything new in iOS 16 beta 4: Messages history, Lock Screen, wallpapers, &amp; more](https://appleinsider.com/articles/22/07/27/everything-new-in-ios-16-beta-4-messages-history-lock-screen-wallpapers-more?utm_medium=rss)
+ - [Retool, a low-code service for creating enterprise apps, raised a $45M Series C2 from Sequoia and others at a $3.2B valuation, up from $1.93B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220728/p20#a220728p20)
+ - [The best new streaming movies this week on Netflix, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
