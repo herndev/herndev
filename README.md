@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)
+ - 💣 [I just realized, but I am actually fine with that](http://9gag.com/gag/amg4Qoo)
  - ⏩ [True true](http://9gag.com/gag/aAGz9BL)
- - 👉 [Older I get, more I see how people are easily manipulated and how the world is slowly slipping into oligarchy while majority is having fun with tiktok, instagram,... and I hate it. I feel like a crab in a pot that is aware he&#39;ll be cooked even before water got warm.](http://9gag.com/gag/aXr6O99)<!-- MEMES:END -->
+ - 👉 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)<!-- MEMES:END -->
 
 ---
 
