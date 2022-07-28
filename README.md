@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft details Austria-based spyware group Knotweed, which has used Windows and Adobe zero-day exploits to attack organizations in Europe and Central America &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/220728/p3#a220728p3)
- - [The Best Fantasy TV Shows on Prime Video You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video-you-absolutely-need-to-watch/#ftag=CAD590a51e)
- - [Islamabad-based fintech Dbank, which aims to &quot;democratize banking&quot; in Pakistan, raised a $17.6M seed led by Sequoia Capital Southeast Asia and Kleiner Perkins &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220728/p2#a220728p2)<!-- TECH:END -->
+ - [Smartphone sales in China fell 14.2% YoY in Q2 &#39;22 to the lowest quarterly mark since Q4 &#39;12; Honor grew its share from 7.7% to 18.3% after sales rose ~103% YoY &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/220728/p6#a220728p6)
+ - [New leak points to major price hike for Samsung Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-price-3190765/)
+ - [Google rolls out new Gmail UI, moving Mail, Meet, Spaces, and Chat buttons into one list at the top of the left rail, and teases an update for tablets &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220728/p5#a220728p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
