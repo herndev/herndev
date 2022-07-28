@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Limit Theory dev releases source code of the cancelled space sim, officially ends project](https://www.pcgamer.com/limit-theory-dev-releases-source-code-of-the-cancelled-space-sim-officially-ends-project)
- - [Corsair Xeneon 32UHD144](https://www.pcgamer.com/corsair-xeneon-32uhd144-gaming-monitor-review)
- - [Cookie Run: Kingdom’s adorable Disney crossover is here](https://www.polygon.com/23279487/disney-cookie-run-kingdom-mickey-mouse)<!-- GAME:END -->
+ - [You won&#39;t upgrade your legendary gear in WoW Shadowlands Season 4](https://www.pcgamer.com/you-wont-upgrade-your-legendary-gear-in-wow-shadowlands-season-4)
+ - [All MultiVersus characters, including leaked and upcoming fighters](https://www.pcgamer.com/multiversus-characters-list)
+ - [HyperX Clutch](https://www.pcgamer.com/hyper-x-clutch-controller-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
