@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – WWE 2K22, Generation Zero, and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2022/07/28/free-play-days-wwe-2k22-generation-zero-and-naruto-to-boruto-shinobi-striker/)
- - [Bear and Breakfast finds the magic in woodland resort management](https://www.polygon.com/reviews/23281125/bear-and-breakfast-gummy-cat-review-pc-steam-animal-crossing)
- - [Intel Arc GPUs don&#39;t natively support HDMI 2.1](https://www.pcgamer.com/intel-arc-gpus-dont-natively-support-hdmi-21)<!-- GAME:END -->
+ - [Introducing Backbone One – PlayStation Edition, an officially licensed controller for PlayStation](https://blog.playstation.com/2022/07/28/introducing-backbone-one-playstation-edition-an-officially-licensed-controller-for-playstation/)
+ - [New Games with Gold for August 2022](https://news.xbox.com/en-us/2022/07/28/new-games-with-gold-for-august-2022/)
+ - [Citizen Sleeper’s first DLC recontextualizes the RPG’s tough decisions](https://www.polygon.com/reviews/23279722/citizen-sleeper-flux-episode-one-dlc-review-cyberpunk-rpg-tabletop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
