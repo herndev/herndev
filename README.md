@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brandon Conway with an insane Michael Jackson impression](http://9gag.com/gag/aggzevr)
- - ⏩ [Especially on transatlantic flights](http://9gag.com/gag/aAGz5R2)
- - 👉 [Only 3% with 24000 votes. There is still hope the crazy wokeness is just a very vocal small minority](http://9gag.com/gag/a91g0y0)<!-- MEMES:END -->
+ - 💣 [Garlic butter sauce](http://9gag.com/gag/azep3yj)
+ - ⏩ [True true](http://9gag.com/gag/aAGz9BL)
+ - 👉 [Human beings](http://9gag.com/gag/aE8mmRp)<!-- MEMES:END -->
 
 ---
 
