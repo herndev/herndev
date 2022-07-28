@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Smartphone sales in China fell 14.2% YoY in Q2 &#39;22 to the lowest quarterly mark since Q4 &#39;12; Honor grew its share from 7.7% to 18.3% after sales rose ~103% YoY &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/220728/p6#a220728p6)
- - [New leak points to major price hike for Samsung Galaxy Buds 2 Pro](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-price-3190765/)
- - [Google rolls out new Gmail UI, moving Mail, Meet, Spaces, and Chat buttons into one list at the top of the left rail, and teases an update for tablets &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220728/p5#a220728p5)<!-- TECH:END -->
+ - [A look at the recent rise of protestware, where developers deliberately sabotage their own software libraries as a means of protest for a cause they believe in &lpar;Ax Sharma/TechCrunch&rpar;](http://www.techmeme.com/220728/p8#a220728p8)
+ - [Crypto analytics startup Chainalysis launches Government Solutions, a government-facing subsidiary initially staffed with 90 investigators assisting US agencies &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220728/p7#a220728p7)
+ - [China smartphone sales fell 14.2% YoY in Q2 2022 to the lowest point since Q4 2012; Honor grew sales 103.3% YoY, boosting its Q2 market share from 7.7% to 18.3% &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/220728/p6#a220728p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
