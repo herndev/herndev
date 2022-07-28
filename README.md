@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Clock app in iOS 15 to help you sleep, and wake up better](https://appleinsider.com/inside/ios-15/tips/how-to-use-clock-app-in-ios-15-to-help-you-sleep-and-wake-up-better?utm_medium=rss)
- - [Sources: Meta begins telling its 50 US news partners that it will no longer pay for content to run on Facebook&#39;s News Tab, ending a three-year deal from 2019 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220728/p23#a220728p23)
- - [What is Gboard – everything you need to know](https://www.androidauthority.com/what-is-gboard-3189999/)<!-- TECH:END -->
+ - [Sony introduces its first gamepad for iPhone — and it’s a Backbone One](https://www.theverge.com/2022/7/28/23277204/sony-playstation-backbone-one-iphone-mobile-gaming-controller-ps-remote-play-games)
+ - [How to edit or unsend an iMessage in iOS 16](https://www.theverge.com/23204468/imessage-ios-16-apple-unsend-edit-how-to)
+ - [How to speed up working on your Mac with basic automation](https://appleinsider.com/inside/macos/tips/how-to-speed-up-working-on-your-mac-with-basic-automation?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
