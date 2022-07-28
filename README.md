@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We’re still in July but the Galaxy S22 series just got the August 2022 update](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Twitter goes full circle with Status feature test](https://www.theverge.com/2022/7/28/23281956/twitter-status-feature-test)
- - [Samsung says it won’t discontinue Exynos, but what’s coming next?](https://www.androidauthority.com/samsung-exynos-business-discontinue-denial-3191172/)<!-- TECH:END -->
+ - [The Ford F-150 Lightning Pro SSV is an electric truck made for cops](https://www.theverge.com/2022/7/28/23281139/ford-f150-lightning-pro-ssv-police-cop)
+ - [Snap’s first AR game is a spooky ‘found phone’ mystery](https://www.theverge.com/2022/7/28/23281538/snap-snapchat-ar-game-ghost-phone-found-phone-mystery)
+ - [An interview with Paytm CEO Vijay Shekhar Sharma on the company&#39;s $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220728/p11#a220728p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
