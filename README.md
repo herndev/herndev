@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weed shouldn&#39;t be criminal to begin with](http://9gag.com/gag/aNPExzr)
- - ⏩ [The council of man approves](http://9gag.com/gag/aOQLgqy)
- - 👉 [Fermented fruit is the BEST....whoaaa....whoaaaaa](http://9gag.com/gag/axBqxgp)<!-- MEMES:END -->
+ - 💣 [The admiral\u2019s daughter](http://9gag.com/gag/avAKN3M)
+ - ⏩ [Words of wisdom](http://9gag.com/gag/angPpdL)
+ - 👉 [*Jeff Bezos laughing noise*](http://9gag.com/gag/aVxyNrO)<!-- MEMES:END -->
 
 ---
 
