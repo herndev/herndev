@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Islamabad-based fintech Dbank, which aims to &quot;democratize banking&quot; in Pakistan, raised a $17.6M seed led by Sequoia Capital Southeast Asia and Kleiner Perkins &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220728/p2#a220728p2)
- - [France-based Cegid is merging with Spanish rival Grupo Primavera in a &amp;euro;6.8B all-share deal; the combined company will sell specialized software to digitize SMBs &lpar;Financial Times&rpar;](http://www.techmeme.com/220728/p1#a220728p1)
- - [Sources: Apple has hired Luigi Taraborrelli, who was most recently Lamborghini&#39;s head of chassis and vehicle dynamics, to work on its self-driving electric car &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220727/p45#a220727p45)<!-- TECH:END -->
+ - [Microsoft details Austria-based spyware group Knotweed, which has used Windows and Adobe zero-day exploits to attack organizations in Europe and Central America &lpar;Richard Speed/The Register&rpar;](http://www.techmeme.com/220728/p3#a220728p3)
+ - [The Best Fantasy TV Shows on Prime Video You Absolutely Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video-you-absolutely-need-to-watch/#ftag=CAD590a51e)
+ - [Islamabad-based fintech Dbank, which aims to &quot;democratize banking&quot; in Pakistan, raised a $17.6M seed led by Sequoia Capital Southeast Asia and Kleiner Perkins &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220728/p2#a220728p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
