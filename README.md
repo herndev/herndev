@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything new in iOS 16 beta 4: Messages history, Lock Screen, wallpapers, &amp; more](https://appleinsider.com/articles/22/07/27/everything-new-in-ios-16-beta-4-messages-history-lock-screen-wallpapers-more?utm_medium=rss)
- - [Retool, a low-code service for creating enterprise apps, raised a $45M Series C2 from Sequoia and others at a $3.2B valuation, up from $1.93B in December 2021 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220728/p20#a220728p20)
- - [The best new streaming movies this week on Netflix, Paramount Plus, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)<!-- TECH:END -->
+ - [How to use Clock app in iOS 15 to help you sleep, and wake up better](https://appleinsider.com/inside/ios-15/tips/how-to-use-clock-app-in-ios-15-to-help-you-sleep-and-wake-up-better?utm_medium=rss)
+ - [Sources: Meta begins telling its 50 US news partners that it will no longer pay for content to run on Facebook&#39;s News Tab, ending a three-year deal from 2019 &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/220728/p23#a220728p23)
+ - [What is Gboard – everything you need to know](https://www.androidauthority.com/what-is-gboard-3189999/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
