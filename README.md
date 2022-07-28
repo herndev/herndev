@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wish she was my science teacher in school](http://9gag.com/gag/aBnBpGO)
+ - 💣 [Weed shouldn&#39;t be criminal to begin with](http://9gag.com/gag/aNPExzr)
  - ⏩ [The council of man approves](http://9gag.com/gag/aOQLgqy)
- - 👉 [Remarkable voice!](http://9gag.com/gag/aVxyAYP)<!-- MEMES:END -->
+ - 👉 [Fermented fruit is the BEST....whoaaa....whoaaaaa](http://9gag.com/gag/axBqxgp)<!-- MEMES:END -->
 
 ---
 
