@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Be the change you want to see in this world](http://9gag.com/gag/aqGo39P)
+ - 💣 [Good. Stay that way](http://9gag.com/gag/aVxyANd)
  - ⏩ [What happened to the left?](http://9gag.com/gag/aXr65qd)
- - 👉 [*Jeff Bezos laughing noise*](http://9gag.com/gag/aVxyNrO)<!-- MEMES:END -->
+ - 👉 [One of the perks pf being an adult](http://9gag.com/gag/aXr65xD)<!-- MEMES:END -->
 
 ---
 
