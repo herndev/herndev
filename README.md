@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 26 Amazon workers want the feds to investigate racist death threats](https://www.theverge.com/2022/7/27/23281681/amazon-workers-eeoc-complaint-racist-death-threats-illinois)
- - [Samsung Q2: operating profit up 12% YoY to ~$10.8B, revenue up 21.3% YoY to ~$59B, and chip division revenue of ~$22B, citing strong demand and strong US dollar &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/220727/p41#a220727p41)
- - [You can finally see a live feed of your Google Nest cameras on your TV](https://www.theverge.com/2022/7/27/23281580/google-nest-cam-chromecast-google-tv-live-video)<!-- TECH:END -->
+ - [Fantasy sports app Underdog has raised a $35M Series B at a $485M valuation, and plans to launch licensed sports betting in Ohio and Colorado next year &lpar;Katherine Sayre/Wall Street Journal&rpar;](http://www.techmeme.com/220727/p43#a220727p43)
+ - [Crypto exchange FTX US is expanding its no-fee stock trading service to all US users, including non-crypto investors, and plans to offer options trading next &lpar;Bloomberg&rpar;](http://www.techmeme.com/220727/p42#a220727p42)
+ - [Best Fitbit Deals: Save $74 on Sense, $78 on Verse 3, $43 on Charge 4 and More     - CNET](https://www.cnet.com/deals/best-fitbit-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
