@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
- - ⏩ [White People why are you like this](http://9gag.com/gag/aDDeKZw)
+ - 💣 [Little guy won&#39;t survive another year at this rate](http://9gag.com/gag/a81xZn1)
+ - ⏩ [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
  - 👉 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)<!-- MEMES:END -->
 
 ---
