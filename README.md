@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [From chip to battery: Motorola confirms several Razr 2022 specs](https://www.androidauthority.com/motorola-razr-2022-design-specs-3191155/)
  - [A look at the recent rise of protestware, where developers deliberately sabotage their own software libraries as a means of protest for a cause they believe in &lpar;Ax Sharma/TechCrunch&rpar;](http://www.techmeme.com/220728/p8#a220728p8)
- - [Crypto analytics startup Chainalysis launches Government Solutions, a government-facing subsidiary initially staffed with 90 investigators assisting US agencies &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220728/p7#a220728p7)
- - [China smartphone sales fell 14.2% YoY in Q2 2022 to the lowest point since Q4 2012; Honor grew sales 103.3% YoY, boosting its Q2 market share from 7.7% to 18.3% &lpar;Ivan Lam/Counterpoint Research&rpar;](http://www.techmeme.com/220728/p6#a220728p6)<!-- TECH:END -->
+ - [Crypto analytics startup Chainalysis launches Government Solutions, a government-facing subsidiary initially staffed with 90 investigators assisting US agencies &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220728/p7#a220728p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
