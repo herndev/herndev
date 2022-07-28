@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Garlic butter sauce](http://9gag.com/gag/azep3yj)
- - ⏩ [True true](http://9gag.com/gag/aAGz9BL)
- - 👉 [Human beings](http://9gag.com/gag/aE8mmRp)<!-- MEMES:END -->
+ - ⏩ [We have all been there](http://9gag.com/gag/aKmooAj)
+ - 👉 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)<!-- MEMES:END -->
 
 ---
 
