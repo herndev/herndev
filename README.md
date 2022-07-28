@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sims 4 Update Accidentally Adds Incest](https://kotaku.com/sims-4-family-dating-bug-new-update-incest-ea-fix-1849343888)
- - [Grand Theft Auto 5: A 2022 re-review](https://www.polygon.com/reviews/23281268/grand-theft-auto-5-re-review-gta-online-playstation-5-xbox-series-x-pc-steam-rockstar-games)
- - [Goat Simulator 3 promises a ‘Digital Downgrade’ edition,  exciting ‘Pre-Udder’ content](https://www.polygon.com/23282493/goat-simulator-3-release-date-preorder-details)<!-- GAME:END -->
+ - [Strange new Philip K. Dick biopic sounds like something Philip K. Dick would write](https://www.polygon.com/23282619/philip-k-dick-alternate-history-movie-jane-amazon-charlize-theron)
+ - [Sims 4 update adds incest bug, kills off rapidly aging Sims](https://www.polygon.com/23282517/the-sims-4-aging-bug-incest-high-school-years-base-update)
+ - [Marvel’s Avengers goes full beach day episode with new outfits for Black Widow, Thor, and Iron Man](https://www.polygon.com/23282547/marvels-avengers-summer-outfits-black-widow-thor-iron-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
