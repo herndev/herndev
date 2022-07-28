@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Ford F-150 Lightning Pro SSV is an electric truck made for cops](https://www.theverge.com/2022/7/28/23281139/ford-f150-lightning-pro-ssv-police-cop)
- - [Snap’s first AR game is a spooky ‘found phone’ mystery](https://www.theverge.com/2022/7/28/23281538/snap-snapchat-ar-game-ghost-phone-found-phone-mystery)
- - [An interview with Paytm CEO Vijay Shekhar Sharma on the company&#39;s $1B annual revenue goal, post-IPO stock price crash, giving investors more info, and more &lpar;Saritha Rai/Bloomberg&rpar;](http://www.techmeme.com/220728/p11#a220728p11)<!-- TECH:END -->
+ - [DeepMind found the structure of nearly every protein known to science](https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet)
+ - [The electricity demands of data centers are making it harder to build new homes in London](https://www.theverge.com/2022/7/28/23282007/electricity-demands-london-data-centers-blocking-new-housing-development)
+ - [An interview with a Baidu robotaxi safety operator, who sits in the passenger seat and monitors how self-driving cars cope with Beijing&#39;s streets &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220728/p14#a220728p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
