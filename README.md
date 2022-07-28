@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope Americans still asleep but this is annoying](http://9gag.com/gag/aE8mmeN)
- - ⏩ [I know this is not the right meme but I wanted to show the plane I trained in](http://9gag.com/gag/aVxy6N2)
- - 👉 [Human beings](http://9gag.com/gag/aE8mmRp)<!-- MEMES:END -->
+ - 💣 [Cougar in a tree.](http://9gag.com/gag/apgZ4rW)
+ - ⏩ [Yes, there was just one TV in the living room.](http://9gag.com/gag/aqGoPNj)
+ - 👉 [Hope Americans still asleep but this is annoying](http://9gag.com/gag/aE8mmeN)<!-- MEMES:END -->
 
 ---
 
