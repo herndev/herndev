@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [B.J. Novak’s thriller satire Vengeance could use a few more sharp edges](https://www.polygon.com/reviews/23281343/vengeance-review-bj-novak-podcast-thriller)
- - [Meet the developers still making games for your calculator](https://www.polygon.com/23272242/graphing-calculator-games-texas-instruments)
- - [PS5 will get folders and support for 1440p displays this year](https://www.polygon.com/23282047/ps5-1440p-support-folders-gamelists)<!-- GAME:END -->
+ - [Free Play Days – WWE 2K22, Generation Zero, and Naruto to Boruto: Shinobi Striker](https://news.xbox.com/en-us/2022/07/28/free-play-days-wwe-2k22-generation-zero-and-naruto-to-boruto-shinobi-striker/)
+ - [Bear and Breakfast finds the magic in woodland resort management](https://www.polygon.com/reviews/23281125/bear-and-breakfast-gummy-cat-review-pc-steam-animal-crossing)
+ - [Intel Arc GPUs don&#39;t natively support HDMI 2.1](https://www.pcgamer.com/intel-arc-gpus-dont-natively-support-hdmi-21)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
