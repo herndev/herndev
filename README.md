@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We Met In Virtual Reality opens a startling window into people’s most surreal fantasies](https://www.polygon.com/reviews/22909446/we-met-in-virtual-reality-review)
- - [Former Deus Ex Boss Unloads On Square Enix](https://kotaku.com/square-enix-eidos-montreal-deus-ex-tomb-raider-shit-1849340622)
- - [The Witcher season 3 has halted production because of a new Covid-19 outbreak](https://www.pcgamer.com/the-witcher-season-3-has-halted-production-because-of-a-new-covid-19-outbreak)<!-- GAME:END -->
+ - [The hidden Nier: Automata church mystery keeps getting weirder and weirder](https://www.pcgamer.com/the-hidden-nier-automata-church-mystery-keeps-getting-weirder-and-weirder)
+ - [The new Dwarf Fortress animal people look beautiful](https://www.pcgamer.com/the-new-dwarf-fortress-animal-people-look-beautiful)
+ - [One of Warhammer 40,000&#39;s best games is adding even more demons](https://www.pcgamer.com/one-of-warhammer-40000s-best-games-is-adding-even-more-demons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
