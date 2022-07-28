@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MrBallen is YouTube’s big podcast breakout](https://www.theverge.com/2022/7/28/23282464/podcast-mrballen-spotify-youtube-apple-rogan)
- - [Switchboard, a collaboration app that combines videoconferencing and digital whiteboarding, has raised a $25M Series A at a $200M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220728/p29#a220728p29)
- - [Are the Google Pixel Buds Pro good enough to be Android’s AirPods Pro killer?](https://www.androidauthority.com/pixel-buds-pro-3190878/)<!-- TECH:END -->
+ - [This Stamp-Sized Ultrasound Patch Can Image Internal Organs](https://www.wired.com/story/this-stamp-sized-ultrasound-patch-can-image-internal-organs/)
+ - [Sources: Ashraf Ismail, who Ubisoft fired in mid-2020 amid misconduct allegations, was hired by Tencent in 2021 to develop a game at its TiMi Studio Group &lpar;Stephen Totilo/Axios&rpar;](http://www.techmeme.com/220728/p31#a220728p31)
+ - [Best Air Purifier Deals: HoMedics, Coway, Blueair, Honeywell and More     - CNET](https://www.cnet.com/deals/best-air-purifier-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
