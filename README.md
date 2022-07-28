@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know this is not the right meme but I wanted to show the plane I trained in](http://9gag.com/gag/aVxy6N2)
- - ⏩ [Only 3% with 24000 votes. There is still hope the crazy wokeness is just a very vocal small minority](http://9gag.com/gag/a91g0y0)
- - 👉 [Mexican captains assemble, is this true?](http://9gag.com/gag/arn7wY6)<!-- MEMES:END -->
+ - 💣 [Brandon Conway with an insane Michael Jackson impression](http://9gag.com/gag/aggzevr)
+ - ⏩ [Especially on transatlantic flights](http://9gag.com/gag/aAGz5R2)
+ - 👉 [Only 3% with 24000 votes. There is still hope the crazy wokeness is just a very vocal small minority](http://9gag.com/gag/a91g0y0)<!-- MEMES:END -->
 
 ---
 
