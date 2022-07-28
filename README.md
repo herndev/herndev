@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little guy won&#39;t survive another year at this rate](http://9gag.com/gag/a81xZn1)
+ - 💣 [Du hasn&#39;t](http://9gag.com/gag/aBnBpDz)
  - ⏩ [The kind of healthcare we all need](http://9gag.com/gag/aGz4Xzz)
- - 👉 [If in doubt, always DNA test.](http://9gag.com/gag/a510OWg)<!-- MEMES:END -->
+ - 👉 [I do adore redheads](http://9gag.com/gag/adgDEj9)<!-- MEMES:END -->
 
 ---
 
