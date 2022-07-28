@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cookie Run: Kingdom’s adorable Disney crossover is here](https://www.polygon.com/23279487/disney-cookie-run-kingdom-mickey-mouse)
- - [PS5 Beta introduces 1440p support, Gamelists, and more](https://blog.playstation.com/2022/07/28/ps5-beta-introduces-1440p-support-gamelists-and-more/)
- - [PS5 Beta introduces 1440p support, Gamelists, and more](https://blog.playstation.com/2022/07/28/ps5-beta-introduces-1440p-support-gamelists-and-more/)<!-- GAME:END -->
+ - [Limit Theory dev releases source code of the cancelled space sim, officially ends project](https://www.pcgamer.com/limit-theory-dev-releases-source-code-of-the-cancelled-space-sim-officially-ends-project)
+ - [Corsair Xeneon 32UHD144](https://www.pcgamer.com/corsair-xeneon-32uhd144-gaming-monitor-review)
+ - [Cookie Run: Kingdom’s adorable Disney crossover is here](https://www.polygon.com/23279487/disney-cookie-run-kingdom-mickey-mouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
