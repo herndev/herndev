@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I just realized, but I am actually fine with that](http://9gag.com/gag/amg4Qoo)
- - ⏩ [True true](http://9gag.com/gag/aAGz9BL)
- - 👉 [Manga is destroying comics. I wonder why...](http://9gag.com/gag/aogQwGX)<!-- MEMES:END -->
+ - 💣 [Especially on transatlantic flights](http://9gag.com/gag/aAGz5R2)
+ - ⏩ [Mexican captains assemble, is this true?](http://9gag.com/gag/arn7wY6)
+ - 👉 [True true](http://9gag.com/gag/aAGz9BL)<!-- MEMES:END -->
 
 ---
 
