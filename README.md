@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London paid a record price for electricity during its heatwave](https://www.theverge.com/2022/7/27/23280640/london-uk-electricity-blackouts-heatwave-import)
- - [The best routers under $75 for iPhone, iPad, and Mac owners](https://appleinsider.com/articles/22/07/25/the-best-routers-under-75-for-iphone-ipad-and-mac-owners?utm_medium=rss)
- - [Mark Zuckerberg: the economic downturn will broadly impact the digital ad business and Meta thus plans to &quot;steadily reduce headcount growth over the next year&quot; &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/220727/p38#a220727p38)<!-- TECH:END -->
+ - [You can finally see a live feed of your Google Nest cameras on your TV](https://www.theverge.com/2022/7/27/23281580/google-nest-cam-chromecast-google-tv-live-video)
+ - [Facebook and Instagram are going to show even more posts from accounts you don’t follow](https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai)
+ - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-stream-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
