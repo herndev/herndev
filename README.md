@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hours before Sky Mavis told users it was hacked, CEO Trung Nguyen moved about $3M worth of Axie Infinity&#39;s main token AXS; Sky Mavis says it was to help users &lpar;Joshua Brustein/Bloomberg&rpar;](http://www.techmeme.com/220728/p34#a220728p34)
- - [Instagram is walking back its changes for now — Adam Mosseri explains why](https://www.theverge.com/2022/7/28/23282682/instagram-rollback-tiktok-feed-recommendations-interview-adam-mosseri)
- - [Best monitor for MacBook Pro in 2022: which to buy from Apple, Dell, LG &amp; Samsung](https://appleinsider.com/inside/macbook-pro/best/best-monitor-for-macbook-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon.com Announces Second Quarter Results &lpar;Business Wire&rpar;](http://www.techmeme.com/220728/p39#a220728p39)
+ - [Harber London Nomad Organiser review: Stylish, but pricey](https://appleinsider.com/articles/22/07/28/harber-london-nomad-organiser-review-stylish-but-pricey?utm_medium=rss)
+ - [OnePlus Nord Watch reportedly leaked, takes obvious inspiration from Apple Watch](https://www.androidauthority.com/oneplus-nord-watch-leaked-3191431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
