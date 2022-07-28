@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind found the structure of nearly every protein known to science](https://www.theverge.com/2022/7/28/23280743/deepmind-alphafold-protein-database-alphabet)
- - [The electricity demands of data centers are making it harder to build new homes in London](https://www.theverge.com/2022/7/28/23282007/electricity-demands-london-data-centers-blocking-new-housing-development)
- - [An interview with a Baidu robotaxi safety operator, who sits in the passenger seat and monitors how self-driving cars cope with Beijing&#39;s streets &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220728/p14#a220728p14)<!-- TECH:END -->
+ - [These Are the 11 Android Phones Worth Buying](https://www.wired.com/gallery/best-android-phones/)
+ - [It’s TikTok’s World. Instagram Just Lives in It](https://www.wired.com/story/gadget-lab-podcast-559/)
+ - [Recent AMD and Nvidia leaks show upcoming GPUs will consume excessive amounts of power, creating a high environmental cost for limited improvement in graphics &lpar;John Loeffler/TechRadar&rpar;](http://www.techmeme.com/220728/p18#a220728p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
