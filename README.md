@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Micron starts bleeding edge 232-layer NAND production](https://www.pcgamer.com/micron-starts-bleeding-edge-232-layer-nand-production)
- - [Lost Ark Twitch drops: what they are and how to get them](https://www.pcgamer.com/lost-ark-twitch-drops)
- - [There is so, so much weird shit in Lost Ark](https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark)<!-- GAME:END -->
+ - [There is so, so much weird shit in Lost Ark](https://www.pcgamer.com/there-is-so-so-much-weird-shit-in-lost-ark)
+ - [Today&#39;s Wordle answer #404: Thursday, July 28](https://www.pcgamer.com/wordle-today-answer-hint)
+ - [If you&#39;re eager to learn more about AMD&#39;s upcoming AM5 platform, tune into this event](https://www.pcgamer.com/if-youre-eager-to-learn-more-about-amds-upcoming-am5-platform-tune-into-this-event)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
