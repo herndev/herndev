@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goat Simulator 3 releases November 17, devs discuss naming the game](https://blog.playstation.com/2022/07/28/goat-simulator-3-releases-november-17-devs-discuss-naming-the-game/)
- - [For Honor’s Medjay Hero Arrives July 28](https://news.xbox.com/en-us/2022/07/28/for-honors-medjay-hero-arrives-july-28/)
- - [Xbox Games with Gold retreads two Xbox 360 titles for August](https://www.polygon.com/23282210/xbox-games-with-gold-free-games-august-2022-xbox-360)<!-- GAME:END -->
+ - [Warhammer 40k: Darktide has been delayed to the end of fall](https://www.pcgamer.com/warhammer-40k-darktide-has-been-delayed-to-the-end-of-fall)
+ - [Mario Kart 8 Deluxe&#39;s DLC Will Have Brand-New Race Track Amid Returning Courses](https://kotaku.com/mario-kart-8-nintendo-sky-high-sundae-switch-1849343547)
+ - [The best iPhone controller now comes in a PS5-branded version](https://www.polygon.com/23282343/playstation-backbone-one-remote-play-mobile-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
