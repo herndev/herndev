@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)
+ - 💣 [Reason as an absolute](http://9gag.com/gag/aQXLPWW)
  - ⏩ [I like her, she seems unstable](http://9gag.com/gag/aVxpjL8)
  - 👉 [If only.](http://9gag.com/gag/aKmQwXb)<!-- MEMES:END -->
 
