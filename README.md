@@ -115,7 +115,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
  - ⏩ [Please somebody give this man a beer](http://9gag.com/gag/aGz43B5)
- - 👉 [Burn baby Burn](http://9gag.com/gag/aE8me2p)<!-- MEMES:END -->
+ - 👉 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
 
 ---
 
