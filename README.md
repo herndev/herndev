@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kylie Jenner can’t save Instagram forever](https://www.theverge.com/2022/7/29/23282330/instagram-reels-backlash-tiktok-adam-mosseri)
- - [Analogue releases video game from 1962 on the Pocket](https://www.theverge.com/2022/7/29/23282660/analogue-pocket-spacewar-1962)
- - [Analogue’s Pocket is finally getting its 1.1 update, though in beta to start](https://www.theverge.com/2022/7/29/23278164/analogue-pocket-v-1-1-update-beta-library-memories-save-states)<!-- TECH:END -->
+ - [As Congress debated the $280B CHIPS Act for 13 months, China&#39;s semiconductor industry surged ahead, producing an advanced 7nm chip to rival those made in Taiwan &lpar;David E. Sanger/New York Times&rpar;](http://www.techmeme.com/220729/p12#a220729p12)
+ - [Escaping Gravity Takes a Brutally Honest Look at NASA](https://www.wired.com/2022/07/geeks-guide-escaping-gravity-nasa/)
+ - [Kingdom Rush Vengeance TD Now on Apple Arcade     - CNET](https://www.cnet.com/tech/gaming/kingdom-rush-vengeance-td-now-on-apple-arcade/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
