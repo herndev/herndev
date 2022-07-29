@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna need a bigger boat](http://9gag.com/gag/a31X9om)
- - ⏩ [Please somebody give this man a beer](http://9gag.com/gag/aGz43B5)
+ - 💣 [Slow clap](http://9gag.com/gag/aDDeBq7)
+ - ⏩ [You got any more of these?](http://9gag.com/gag/awzWRAB)
  - 👉 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
 
 ---
