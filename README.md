@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals July 29: $240 Insignia 50-inch 4K TV, 33% off 1TB microSDXC card, $220 off Eufy RoboVac, more](https://appleinsider.com/articles/22/07/29/daily-deals-july-29-240-insignia-50-inch-4k-tv-33-off-1tb-microsdxc-card-220-off-eufy-robovac-more?utm_medium=rss)
- - [Here are the best accessories for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)
- - [By stepping away from Ant Group, Jack Ma escapes Beijing&#39;s scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220729/p8#a220729p8)<!-- TECH:END -->
+ - [Apple TV Plus’ new thriller Surface keeps you completely in the dark](https://www.theverge.com/23282239/surface-review-apple-tv-plus)
+ - [Eve Motion 2 Review: New capabilities make up for a boring design](https://appleinsider.com/articles/22/07/29/eve-motion-2-review-new-capabilities-make-up-for-a-boring-design?utm_medium=rss)
+ - [Sources: Lina Khan overruled FTC staff to sue Meta over its Within acquisition; FTC didn&#39;t take sworn interviews of company execs during the nine-month inquiry &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220729/p10#a220729p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
