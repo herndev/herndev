@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)
  - [Snap announces Sounds Creator Fund to provide monthly grants of up to $100K to artists who are distributing music on Snapchat via DistroKid, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)
- - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, mainly due to attrition in its warehouses following pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)
- - [The Best Fantasy TV Shows You Should Watch On Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-you-should-watch-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, primarily due to attrition in its warehouses after the pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
