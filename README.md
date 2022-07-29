@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slow clap](http://9gag.com/gag/aDDeBq7)
- - ⏩ [You got any more of these?](http://9gag.com/gag/awzWRAB)
- - 👉 [No mumbling just raw talent](http://9gag.com/gag/aKmo0y3)<!-- MEMES:END -->
+ - 💣 [Hitting the high note](http://9gag.com/gag/abgnjNE)
+ - ⏩ [Burn baby Burn](http://9gag.com/gag/aE8me2p)
+ - 👉 [What\u2019s the counter argument?](http://9gag.com/gag/axBqpp1)<!-- MEMES:END -->
 
 ---
 
