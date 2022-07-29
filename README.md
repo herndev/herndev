@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s the counter argument?](http://9gag.com/gag/axBqpp1)
- - ⏩ [We are waiting](http://9gag.com/gag/aogvm0n)
- - 👉 [Those were simple day](http://9gag.com/gag/avAM2QM)<!-- MEMES:END -->
+ - 💣 [Those were simple day](http://9gag.com/gag/avAM2QM)
+ - ⏩ [How do you call this trick?](http://9gag.com/gag/aNPEyx0)
+ - 👉 [Liberals protesters and their spirit animals](http://9gag.com/gag/a0Zrv1X)<!-- MEMES:END -->
 
 ---
 
