@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [How to use Steam’s FPS counter](https://www.theverge.com/23283921/steam-fps-counter-how-to)
- - [The US’s federal courts were reportedly hit by another data breach](https://www.theverge.com/2022/7/29/23283942/us-justice-department-federal-courts-data-breach-solar-winds)<!-- TECH:END -->
+ - [An interview with Robinhood CEO Vlad Tenev on the company&#39;s post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/220729/p18#a220729p18)
+ - [The Best Office Chairs, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-office-chairs-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)
+ - [The Best Desks: According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/news/the-best-desks-according-to-the-cnet-staff-who-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
