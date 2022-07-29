@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SilverStone SX1000 Platinum](https://www.pcgamer.com/sx1000-platinum-review)
- - [13 Games Making 2022 A JRPG Bonanza](https://kotaku.com/pokemon-final-fantasy-persona-nintendo-switch-jrpg-1849348069)
- - [San Andreas HD mod subtly sharpens Rockstar&#39;s classic crime sim](https://www.pcgamer.com/san-andreas-hd-mod-subtly-sharpens-rockstars-classic-crime-sim)<!-- GAME:END -->
+ - [Will Smith after The Slap: ‘This is probably irreparable’](https://www.polygon.com/23283913/will-smith-slap-apology-video-youtube-oscars)
+ - [How to beat Malenia in Elden Ring](https://www.pcgamer.com/hand-of-malenia-elden-ring-location-miquella)
+ - [Tomb Raider’s movie rights are up for grabs, which could mean another reboot](https://www.polygon.com/23283651/tomb-raider-movie-reboot-lara-croft-rights-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
