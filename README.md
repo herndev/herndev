@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: a Chinese government PR division asked to open a stealth account on TikTok, targeting Western audiences; TikTok declined the &quot;sensitive&quot; request &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/220729/p6#a220729p6)
- - [OnePlus 10T: Everything we know so far &lpar;Updated: July 29&rpar;](https://www.androidauthority.com/oneplus-10t-2-3185490/)
- - [Sources: EU is considering creating a new directorate headed by two top antitrust officials, amid concerns EU competition watchdog may struggle to enforce DMA &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220729/p5#a220729p5)<!-- TECH:END -->
+ - [After Going Solar, I Felt the Bliss of Sudden Abundance](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
+ - [Thread is Matter’s secret sauce for a better smart home](https://www.theverge.com/23165855/thread-smart-home-protocol-matter-apple-google-interview)
+ - [Sergey Brin and Elon Musk are Silicon Valley frenemies](https://www.theverge.com/2022/7/29/23282848/sergey-brin-elon-musk-divorce-tesla-waymo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
