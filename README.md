@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battle-royale game BGMI, with 16.5M MAUs in India, delisted from iOS and Android app stores after Indian government ban, two years after a ban of Krafton&#39;s PUBG &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220729/p2#a220729p2)
- - [US banking regulators order Voyager Digital to cease and desist from making &quot;false and misleading&quot; claims that its customers&#39; funds were insured by the FDIC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/220729/p1#a220729p1)
- - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Just bought a Google Pixel 6a? The first update is here](https://www.androidauthority.com/google-pixel-6a-update-3191678/)
+ - [Samsung won’t discontinue Exynos, but what’s next? &lpar;Updated: Qualcomm deal&rpar;](https://www.androidauthority.com/samsung-exynos-business-discontinue-denial-3191172/)
+ - [Battle-royale game BGMI, with 16.5M MAUs in India, delisted from iOS and Android app stores after Indian government ban, two years after a ban of Krafton&#39;s PUBG &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220729/p2#a220729p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
