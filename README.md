@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;July 29&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)
- - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: July 29&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)
- - [New Samsung feature will ensure you rest easy while your phone’s out for repairs](https://www.androidauthority.com/samsung-repair-mode-3191685/)<!-- TECH:END -->
+ - [See exactly what Samsung’s next foldables look like in leaked marketing renders](https://www.theverge.com/2022/7/29/23283431/samsung-galaxy-z-flip-fold-4-press-images-leak-evan-blass-colors)
+ - [As inflation rises and the economy contracts, some US Twitch streamers are losing promotional deals, forcing them to rely on meager ad earnings from the service &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220729/p3#a220729p3)
+ - [We asked, you told us: Here’s when you charge your wearable](https://www.androidauthority.com/when-charge-wearable-poll-results-3191726/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
