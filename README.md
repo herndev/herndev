@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Samsung feature will ensure you rest easy while your phone’s out for repairs](https://www.androidauthority.com/samsung-repair-mode-3191685/)
- - [Motorola Razr 2022: Everything we know so far &lpar;Updated: July 29&rpar;](https://www.androidauthority.com/motorola-razr-2022-3079713/)
- - [From chip to battery: Motorola confirms several Razr 2022 specs &lpar;Updated&rpar;](https://www.androidauthority.com/motorola-razr-2022-design-specs-3191155/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 4: What we know so far and what we want to see &lpar;July 29&rpar;](https://www.androidauthority.com/samsung-galaxy-z-flip-4-release-date-rumors-specs-price-features-3175642/)
+ - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: July 29&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)
+ - [New Samsung feature will ensure you rest easy while your phone’s out for repairs](https://www.androidauthority.com/samsung-repair-mode-3191685/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
