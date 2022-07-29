@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chuck Berry&#39;s reaction to Yoko Ono screaming while playing John Lennon in 1972](http://9gag.com/gag/aXryE66)
- - ⏩ [Do science they said .. `it&#39;s fun` They said](http://9gag.com/gag/ay9b5mr)
- - 👉 [Ghosting?](http://9gag.com/gag/aNP7oZ6)<!-- MEMES:END -->
+ - 💣 [Ghosting?](http://9gag.com/gag/aNP7oZ6)
+ - ⏩ [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
+ - 👉 [What is love?](http://9gag.com/gag/aPZEyKV)<!-- MEMES:END -->
 
 ---
 
