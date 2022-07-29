@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Will Smith after The Slap: ‘This is probably irreparable’](https://www.polygon.com/23283913/will-smith-slap-apology-video-youtube-oscars)
- - [How to beat Malenia in Elden Ring](https://www.pcgamer.com/hand-of-malenia-elden-ring-location-miquella)
- - [Tomb Raider’s movie rights are up for grabs, which could mean another reboot](https://www.polygon.com/23283651/tomb-raider-movie-reboot-lara-croft-rights-sale)<!-- GAME:END -->
+ - [Goat Simulator 3 Scores a November Release Date](https://news.xbox.com/en-us/2022/07/29/goat-simulator-3-scores-a-november-release-date/)
+ - [Destiny 2 Xur location and items, July 29-Aug. 2](https://www.polygon.com/destiny-2-guide-walkthrough/2022/7/29/23284033/destiny-2-xur-location-items-july-29-aug-2-this-week)
+ - [Harley Quinn season 3 completes the Deadpooling of the Batman universe](https://www.polygon.com/reviews/23283048/harley-quinn-season-3-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
