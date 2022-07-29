@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Harry Potter Movies Are Leaving HBO Max for Peacock     - CNET](https://www.cnet.com/tech/home-entertainment/the-harry-potter-movies-are-leaving-hbo-max-for-peacock/#ftag=CAD590a51e)
- - [Intel is winding down its Optane memory business, incurring a $559M inventory impairment; it&#39;s Intel&#39;s sixth non-core business sold under CEO Pat Gelsinger &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220728/p48#a220728p48)
- - [Spotify&#39;s &#39;Friends Mix&#39; Adds Automatic Mixtapes From Your Friends List     - CNET](https://www.cnet.com/culture/entertainment/spotify-adds-new-way-to-get-recommendations-from-your-friends/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta will stop paying US publishers to put their content in Facebook’s News tab](https://www.theverge.com/2022/7/28/23283078/meta-facebook-news-tab-paid-publishers-is-over)
+ - [Valve won’t allow awards and reviews on Steam store images starting in September](https://www.theverge.com/2022/7/28/23283068/valve-steam-awards-reviews-store-images)
+ - [&#39;The Umbrella Academy&#39; Season 3: Ending Explained, All Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-ending-explained-all-lingering-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
