@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [G.Skill Trident Z5 RGB 2x16 GB DDR5-5600 CL28](https://www.pcgamer.com/gskill-trident-z5-rgb-ddr5-cl28-memory-review-benchmarks)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Steam bans award logos and review scores in key art images](https://www.pcgamer.com/steam-bans-award-logos-and-review-scores-in-key-art-images)
- - [Sega, Please Let Us Play The Yakuza Samurai Spin-Offs](https://kotaku.com/yakuza-kenzan-ishi-spinoff-ps5-sega-samurai-release-1849341080)<!-- GAME:END -->
+ - [Steam bans award logos and review scores in key art images](https://www.pcgamer.com/steam-bans-award-logos-and-review-scores-in-key-art-images)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
