@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn off Instagram’s feed recommendations for an entire month](https://www.theverge.com/23283844/how-to-snooze-instagram-recommendations-suggested-posts)
- - [Canadian coffee giant Tim Hortons proposes offering customers a free hot drink and baked good as settlement for tracking their location data for over a year &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220729/p14#a220729p14)
- - [Valve says you’re getting your Steam Deck by the end of the year](https://www.theverge.com/2022/7/29/23283839/steam-deck-pre-order-reservation-valve)<!-- TECH:END -->
+ - [Sources: Ola and Uber are discussing a possible merger, after a deal did not materialize four years ago, when common investor Softbank pushed for it &lpar;Manu P Toms/The Economic Times&rpar;](http://www.techmeme.com/220729/p15#a220729p15)
+ - [Samsung Galaxy S20, S21, and S22 phones start getting August 2022 security patch](https://www.androidauthority.com/samsung-phones-august-2022-update-3191863/)
+ - [How to turn off Instagram’s feed recommendations for an entire month](https://www.theverge.com/23283844/how-to-snooze-instagram-recommendations-suggested-posts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
