@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official PlayStation Podcast Episode 436: Stray Thoughts](https://blog.playstation.com/2022/07/29/official-playstation-podcast-episode-436-stray-thoughts/)
  - [This Week on Xbox: Updates, New Releases, and Events](https://news.xbox.com/en-us/2022/07/29/this-week-on-xbox-updates-new-releases-and-events/)
- - [Octopath Traveler: Champions Of The Continent Is Better Than The Nintendo Switch Original](https://kotaku.com/octopath-traveler-champions-continent-square-enix-jrpg-1849349763)
- - [The Best PS Plus Games To Devour In A Weekend](https://kotaku.com/sony-ps-plus-ps4-ps5-short-games-stray-miles-morales-1849349732)<!-- GAME:END -->
+ - [Octopath Traveler: Champions Of The Continent Is Better Than The Nintendo Switch Original](https://kotaku.com/octopath-traveler-champions-continent-square-enix-jrpg-1849349763)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
