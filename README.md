@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy&#39;s epic MacBook, iPad sale knocks up to $350 off Apple products, deals as low as $399](https://appleinsider.com/articles/22/07/29/best-buys-epic-macbook-ipad-sale-knocks-up-to-350-off-apple-products-deals-as-low-as-399?utm_medium=rss)
- - [Is that a birthday greeting or are you just trying to sell me something?](https://www.theverge.com/2022/7/29/23284214/birthday-emails-automated-corporate-brands-unsubscribe)
- - [An interview with Robinhood CEO Vlad Tenev on the company&#39;s post-IPO stock plunge, catering to its most active users, job cuts, reining in expenses, and more &lpar;Annie Massa/Bloomberg&rpar;](http://www.techmeme.com/220729/p18#a220729p18)<!-- TECH:END -->
+ - [Brazilian prosecutors ask WhatsApp to delay its Communities feature launch in Brazil until January to avoid spreading misinformation around the October election &lpar;Anthony Boadle/Reuters&rpar;](http://www.techmeme.com/220729/p20#a220729p20)
+ - [Apple is planning to put ads right in the App Store’s Today tab](https://www.theverge.com/2022/7/29/23284272/apple-app-store-ads-today-tab-page-search)
+ - [Samsung has a new feature that will hide your pics during a phone repair](https://www.theverge.com/2022/7/29/23284292/samsung-repair-mode-protect-personal-data-accounts-messages-pictures-korea-galaxy-s21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
