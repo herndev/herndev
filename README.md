@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How developers are using PS5’s DualSense controller and 3D Audio to make their games more immersive](https://blog.playstation.com/2022/07/29/how-developers-are-using-ps5s-dualsense-controller-and-3d-audio-to-make-their-games-more-immersive/)
- - [The fear of the early internet, as seen through ’90s TV shows](https://www.polygon.com/23278131/reboot-superhuman-samurai-syber-squad-analysis-retrospective)
- - [Ben Affleck will return as Batman in Aquaman 2](https://www.polygon.com/23283494/ben-affleck-batman-aquaman-2-the-flash-cast)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for August 1 to 5](https://news.xbox.com/en-us/2022/07/29/next-week-on-xbox-new-games-for-august-1-to-5/)
+ - [Overwatch Contenders game grinds to a halt after both teams refuse to play](https://www.pcgamer.com/overwatch-contenders-game-grinds-to-a-halt-after-both-teams-refuse-to-play)
+ - [The Best Indie Sex Games On The ‘Unspeakable’ Itch.io](https://kotaku.com/best-nsfw-sex-video-games-itch-1849345409)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
