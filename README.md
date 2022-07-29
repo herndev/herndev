@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [See exactly what Samsung’s next foldables look like in leaked marketing renders](https://www.theverge.com/2022/7/29/23283431/samsung-galaxy-z-flip-fold-4-press-images-leak-evan-blass-colors)
- - [As inflation rises and the economy contracts, some US Twitch streamers are losing promotional deals, forcing them to rely on meager ad earnings from the service &lpar;Nathan Grayson/Washington Post&rpar;](http://www.techmeme.com/220729/p3#a220729p3)
- - [We asked, you told us: Here’s when you charge your wearable](https://www.androidauthority.com/when-charge-wearable-poll-results-3191726/)<!-- TECH:END -->
+ - [Daily Authority: ⚰️ Exynos extinction?](https://www.androidauthority.com/daily-authority-july-29-2022-3191701/)
+ - [Samsung Galaxy Buds 2 Pro: Everything we know so far](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-release-date-rumors-specs-price-features-3191330/)
+ - [Ben Affleck’s Batman will return for Aquaman 2](https://www.theverge.com/2022/7/29/23283439/batfleck-ben-affleck-batman-aquaman-2-jason-momoa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
