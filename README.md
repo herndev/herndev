@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email to Twitter Blue subscribers, Twitter says it&#39;s raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220728/p53#a220728p53)
- - [YouTube’s making it easier for creators to turn longer content into Shorts](https://www.theverge.com/2022/7/28/23283138/youtube-shorts-editor-iphone-android-long-videos)
- - [The Twitter Blue subscription is getting more expensive](https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99)<!-- TECH:END -->
+ - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, mainly due to attrition in its warehouses following pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)
+ - [The Best Fantasy TV Shows You Should Watch On Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-you-should-watch-on-netflix/#ftag=CAD590a51e)
+ - [Amazon Warehouse Workers Reportedly Complain of Racism and Death Threats     - CNET](https://www.cnet.com/tech/amazon-warehouse-workers-reportedly-complain-of-racism-and-death-threats/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
