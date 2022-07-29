@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for August 1 to 5](https://news.xbox.com/en-us/2022/07/29/next-week-on-xbox-new-games-for-august-1-to-5/)
- - [Overwatch Contenders game grinds to a halt after both teams refuse to play](https://www.pcgamer.com/overwatch-contenders-game-grinds-to-a-halt-after-both-teams-refuse-to-play)
- - [The Best Indie Sex Games On The ‘Unspeakable’ Itch.io](https://kotaku.com/best-nsfw-sex-video-games-itch-1849345409)<!-- GAME:END -->
+ - [The Nier: Automata Secret Door Hunt Is Over, In The Wildest Possible Way](https://kotaku.com/nier-automata-secret-door-hunt-modding-ending-1849347714)
+ - [Corsair AX1600i](https://www.pcgamer.com/corsair-ax1600i-power-supply-review)
+ - [AMD Ryzen 5 5600](https://www.pcgamer.com/amd-ryzen-5-5600-review-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
