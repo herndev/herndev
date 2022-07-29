@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Things More Likely Than Winning The Colossal Mega Millions Jackpot Today](https://kotaku.com/mega-millions-lottery-jackpot-july-odds-shiny-pokemon-1849350412)
- - [Ass Creed meets Ass Pan in the year&#39;s weirdest videogame crossover event](https://www.pcgamer.com/ass-creed-meets-ass-pan-in-the-years-weirdest-videogame-crossover-event)
- - [17 NSFW Anime And Manga To Check Out For The &#39;Plot&#39;](https://kotaku.com/anime-ecchi-harem-hentai-manga-crunchyroll-hidive-hulu-1849350170)<!-- GAME:END -->
+ - [Witcher 3 veterans announce a multiplayer stealth-action game set in feudal Japan](https://www.pcgamer.com/witcher-3-veterans-announce-a-multiplayer-stealth-action-game-set-in-feudal-japan)
+ - [Not Okay, Benediction, and more new movies you can watch at home this weekend](https://www.polygon.com/23277301/new-movies-watch-not-okay-netflix-purple-hearts-benediction-streaming)
+ - [8 Things More Likely Than Winning The Colossal Mega Millions Jackpot Today](https://kotaku.com/mega-millions-lottery-jackpot-july-odds-shiny-pokemon-1849350412)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
