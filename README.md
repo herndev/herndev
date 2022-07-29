@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goat Simulator 3 ragdolls onto PC this November](https://www.pcgamer.com/goat-simulator-3-ragdolls-onto-pc-this-november)
- - [A Whole Damn Book About Alien: Isolation](https://kotaku.com/alien-isolation-creative-assembly-sega-book-writing-1849345880)
- - [Someone made P.T. inside Halo Infinite&#39;s leaked Forge mode](https://www.pcgamer.com/someone-made-pt-inside-halo-infinites-leaked-forge-mode)<!-- GAME:END -->
+ - [Steam bans award logos and review scores in key art images](https://www.pcgamer.com/steam-bans-award-logos-and-review-scores-in-key-art-images)
+ - [Sega, Please Let Us Play The Yakuza Samurai Spin-Offs](https://kotaku.com/yakuza-kenzan-ishi-spinoff-ps5-sega-samurai-release-1849341080)
+ - [Blizzard Screws Up Overwatch Comp Rules, Teams &#39;Strike&#39; In Protest](https://kotaku.com/overwatch-league-blizzard-esports-scandal-ruling-1849346036)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
