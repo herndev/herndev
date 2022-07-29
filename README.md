@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Brazil, drug dealers put vegetable oil on asphalt to prevent special forces from advancing](http://9gag.com/gag/aogvz43)
- - ⏩ [5 minutes craft](http://9gag.com/gag/aNP7eQ3)
- - 👉 [If only.](http://9gag.com/gag/aKmQwXb)<!-- MEMES:END -->
+ - 💣 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
+ - ⏩ [How to do pull ups in home](http://9gag.com/gag/a41X4j6)
+ - 👉 [Welcome to Brazil, drug dealers put vegetable oil on asphalt to prevent special forces from advancing](http://9gag.com/gag/aogvz43)<!-- MEMES:END -->
 
 ---
 
