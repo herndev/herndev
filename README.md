@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women..](http://9gag.com/gag/axBLEXW)
- - ⏩ [Bring the Empire back](http://9gag.com/gag/a610rOe)
- - 👉 [Liberals protesters and their spirit animals](http://9gag.com/gag/a0Zrv1X)<!-- MEMES:END -->
+ - 💣 [Liberals protesters and their spirit animals](http://9gag.com/gag/a0Zrv1X)
+ - ⏩ [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
+ - 👉 [Bri&#39;ish peeple be like](http://9gag.com/gag/aAG8Bvp)<!-- MEMES:END -->
 
 ---
 
