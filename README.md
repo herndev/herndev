@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Going Solar, I Felt the Bliss of Sudden Abundance](https://www.wired.com/story/after-going-solar-i-felt-the-bliss-of-sudden-abundance/)
- - [Thread is Matter’s secret sauce for a better smart home](https://www.theverge.com/23165855/thread-smart-home-protocol-matter-apple-google-interview)
- - [Sergey Brin and Elon Musk are Silicon Valley frenemies](https://www.theverge.com/2022/7/29/23282848/sergey-brin-elon-musk-divorce-tesla-waymo)<!-- TECH:END -->
+ - [Daily deals July 29: $240 Insignia 50-inch 4K TV, 33% off 1TB microSDXC card, $220 off Eufy RoboVac, more](https://appleinsider.com/articles/22/07/29/daily-deals-july-29-240-insignia-50-inch-4k-tv-33-off-1tb-microsdxc-card-220-off-eufy-robovac-more?utm_medium=rss)
+ - [Here are the best accessories for your new PlayStation 5](https://www.theverge.com/21550907/ps5-wireless-controller-ssd-hard-drive-accessories-sony)
+ - [By stepping away from Ant Group, Jack Ma escapes Beijing&#39;s scrutiny; Ma has been seen traveling Europe after disappearing from public view for almost two years &lpar;Bloomberg&rpar;](http://www.techmeme.com/220729/p8#a220729p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
