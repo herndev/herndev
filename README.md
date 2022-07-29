@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will stop paying US publishers to put their content in Facebook’s News tab](https://www.theverge.com/2022/7/28/23283078/meta-facebook-news-tab-paid-publishers-is-over)
- - [Valve won’t allow awards and reviews on Steam store images starting in September](https://www.theverge.com/2022/7/28/23283068/valve-steam-awards-reviews-store-images)
- - [&#39;The Umbrella Academy&#39; Season 3: Ending Explained, All Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-umbrella-academy-season-3-ending-explained-all-lingering-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In an email to Twitter Blue subscribers, Twitter says it&#39;s raising the price of the service; in the US the price will jump from $2.99 to $4.99 per month &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220728/p53#a220728p53)
+ - [YouTube’s making it easier for creators to turn longer content into Shorts](https://www.theverge.com/2022/7/28/23283138/youtube-shorts-editor-iphone-android-long-videos)
+ - [The Twitter Blue subscription is getting more expensive](https://www.theverge.com/2022/7/28/23283166/twitter-blue-subscription-price-hike-4-99)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
