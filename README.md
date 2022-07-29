@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Ola and Uber are discussing a possible merger, after a deal did not materialize four years ago, when common investor Softbank pushed for it &lpar;Manu P Toms/The Economic Times&rpar;](http://www.techmeme.com/220729/p15#a220729p15)
- - [Samsung Galaxy S20, S21, and S22 phones start getting August 2022 security patch](https://www.androidauthority.com/samsung-phones-august-2022-update-3191863/)
- - [How to turn off Instagram’s feed recommendations for an entire month](https://www.theverge.com/23283844/how-to-snooze-instagram-recommendations-suggested-posts)<!-- TECH:END -->
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [How to use Steam’s FPS counter](https://www.theverge.com/23283921/steam-fps-counter-how-to)
+ - [The US’s federal courts were reportedly hit by another data breach](https://www.theverge.com/2022/7/29/23283942/us-justice-department-federal-courts-data-breach-solar-winds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
