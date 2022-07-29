@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 436: Stray Thoughts](https://blog.playstation.com/2022/07/29/official-playstation-podcast-episode-436-stray-thoughts/)
- - [This Week on Xbox: Updates, New Releases, and Events](https://news.xbox.com/en-us/2022/07/29/this-week-on-xbox-updates-new-releases-and-events/)
- - [Octopath Traveler: Champions Of The Continent Is Better Than The Nintendo Switch Original](https://kotaku.com/octopath-traveler-champions-continent-square-enix-jrpg-1849349763)<!-- GAME:END -->
+ - [8 Things More Likely Than Winning The Colossal Mega Millions Jackpot Today](https://kotaku.com/mega-millions-lottery-jackpot-july-odds-shiny-pokemon-1849350412)
+ - [Ass Creed meets Ass Pan in the year&#39;s weirdest videogame crossover event](https://www.pcgamer.com/ass-creed-meets-ass-pan-in-the-years-weirdest-videogame-crossover-event)
+ - [17 NSFW Anime And Manga To Check Out For The &#39;Plot&#39;](https://kotaku.com/anime-ecchi-harem-hentai-manga-crunchyroll-hidive-hulu-1849350170)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
