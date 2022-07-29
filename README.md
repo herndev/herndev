@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)
- - [Snap announces Sounds Creator Fund to provide monthly grants of up to $100K to artists who are distributing music on Snapchat via DistroKid, starting in August &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220728/p55#a220728p55)
- - [Amazon&#39;s direct workforce declined by 99K in Q2 to 1.52M, a record QoQ drop, primarily due to attrition in its warehouses after the pandemic-driven expansion &lpar;Todd Bishop/GeekWire&rpar;](http://www.techmeme.com/220728/p54#a220728p54)<!-- TECH:END -->
+ - [Battle-royale game BGMI, with 16.5M MAUs in India, delisted from iOS and Android app stores after Indian government ban, two years after a ban of Krafton&#39;s PUBG &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220729/p2#a220729p2)
+ - [US banking regulators order Voyager Digital to cease and desist from making &quot;false and misleading&quot; claims that its customers&#39; funds were insured by the FDIC &lpar;Pete Schroeder/Reuters&rpar;](http://www.techmeme.com/220729/p1#a220729p1)
+ - [Intel&#39;s Profit Plunges as We Stopped Buying All Those PCs     - CNET](https://www.cnet.com/tech/computing/intels-profit-plunges-as-we-stopped-buying-all-those-pcs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
