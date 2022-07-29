@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Viernes comenz\u00f3...](http://9gag.com/gag/aqGP9Yp)
- - ⏩ [How to do pull ups in home](http://9gag.com/gag/a41X4j6)
- - 👉 [Welcome to Brazil, drug dealers put vegetable oil on asphalt to prevent special forces from advancing](http://9gag.com/gag/aogvz43)<!-- MEMES:END -->
+ - 💣 [Ghosting?](http://9gag.com/gag/aNP7oZ6)
+ - ⏩ [Don&#39;t be stupid](http://9gag.com/gag/aKmQw96)
+ - 👉 [How to do pull ups in home](http://9gag.com/gag/a41X4j6)<!-- MEMES:END -->
 
 ---
 
