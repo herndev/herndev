@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [How are we gonna do this?](http://9gag.com/gag/arnQeqK)
- - ⏩ [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
- - 👉 [Freiburg, Germany](http://9gag.com/gag/adgGYnB)<!-- MEMES:END -->
+ - ⏩ [Freiburg, Germany](http://9gag.com/gag/adgGYnB)
+ - 👉 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)<!-- MEMES:END -->
 
 ---
 
