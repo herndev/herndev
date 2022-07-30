@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia says it has blocked PayPal, Yahoo, Steam, Epic Games, and other websites for failure to comply with licensing rules introduced in November 2020 &lpar;Gayatri Suroyo/Reuters&rpar;](http://www.techmeme.com/220730/p7#a220730p7)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-443-3191843/)
- - [The Google Pixel’s squeeze for assistant was a button without a button](https://www.theverge.com/2022/7/30/23278192/google-pixel-2-active-edge-squeeze-sides-button-control)<!-- TECH:END -->
+ - [Dell XPS 13 Plus review: thin with a great OLED screen and a powerful P-series chip but expensive, gets very hot, mediocre battery life, and very few ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220730/p8#a220730p8)
+ - [Midea 8000 BTU U-shaped Air Conditioner review: energy efficient without sacrificing performance](https://appleinsider.com/articles/22/07/30/midea-8000-btu-u-shaped-air-conditioner-review-energy-efficient-without-sacrificing-performance?utm_medium=rss)
+ - [Best Credit Cards for Fair and Average Credit for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
