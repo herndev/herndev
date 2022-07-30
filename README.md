@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Beats Fit Pro are the best running earbuds I’ve ever had](https://www.theverge.com/23282855/beats-fit-pro-wireless-earbuds-running)
- - [Martin Scorsese, Leonardo DiCaprio team up for Apple TV+&#39;s &#39;The Wager&#39;](https://appleinsider.com/articles/22/07/30/scorsese-dicaprio-team-up-for-apple-tvs-the-wager?utm_medium=rss)
- - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
+ - [Amazon’s stunner of a smart thermostat is on sale for its best price to date](https://www.theverge.com/good-deals/2022/7/30/23283710/amazon-smart-thermostat-echo-dot-show-apple-macbook-pro-14-sonos-roam-speaker-deal-sale)
+ - [Subscriptions have made gaming on an iPhone fun again](https://www.theverge.com/23282846/iphone-gaming-subscriptions-apple-arcade-netflix)
+ - [Salesforce, whose logo appeared on Helium&#39;s website, also says it is not a Helium partner; Helium has removed both Lime and Salesforce logos from its website &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220730/p5#a220730p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
