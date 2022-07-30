@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 Windows settings we recommend](https://www.pcgamer.com/7-windows-settings-we-recommend)
- - [Artist alleges Call of Duty plagiarized a military dog skin](https://www.pcgamer.com/artist-alleges-call-of-duty-plagiarized-a-military-dog-skin)
- - [Today&#39;s Wordle answer #406: Saturday, July 30](https://www.pcgamer.com/wordle-today-answer-hint)<!-- GAME:END -->
+ - [Sapiens wants to take you from Stone Age huts to Medieval castles](https://www.pcgamer.com/sapiens-wants-to-take-you-from-stone-age-huts-to-medieval-castles)
+ - [The creator of Disco Elysium is looking for artists with &#39;a love of sci-fi and space&#39;](https://www.pcgamer.com/the-creator-of-disco-elysium-is-looking-for-artists-with-a-love-of-sci-fi-and-space)
+ - [7 Windows settings we recommend](https://www.pcgamer.com/7-windows-settings-we-recommend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
