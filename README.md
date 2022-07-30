@@ -108,7 +108,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- TECH:START -->
  - [PriceLabs, which uses AI to help owners and managers of vacation homes and short-term rentals automate dynamic pricing, has raised $30M from Summit Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/220729/p27#a220729p27)
  - [RPA Supervisor, which lets companies integrate and manage their robotic process automation tools, has raised a $20M Series A led by Dawn Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220729/p26#a220729p26)
- - [Uber unveils new features for US drivers, like showing what they will earn and the destination before accepting a trip, seeing multiple trip requests, and more &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220729/p25#a220729p25)<!-- TECH:END -->
+ - [Best Car Loans and Lenders for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-car-loans-and-lenders/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
