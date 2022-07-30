@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your YouTube channel URL](https://www.androidauthority.com/change-youtube-channel-url-3191995/)
- - [$7 billion verdict awarded after Charter Spectrum tried to forge documents in a murder case](https://www.theverge.com/2022/7/29/23282522/charter-spectrum-customer-murder-forged-terms-of-service)
- - [Global smartphone shipments fell 7% YoY to 291M units in Q2 2022; Samsung had a 21.5% market share, followed by Apple&#39;s 16.3%, its best Q2 in the past 10 years &lpar;Strategy Analytics&rpar;](http://www.techmeme.com/220729/p21#a220729p21)<!-- TECH:END -->
+ - [Samsung announces a feature that keeps users&#39; data secure during a phone repair, starting with the Galaxy S21 series in South Korea &lpar;Sagar Naresh/SamMobile&rpar;](http://www.techmeme.com/220729/p23#a220729p23)
+ - [Elon Musk countersues Twitter over the merger agreement in a confidential filing in a Delaware court &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/220729/p22#a220729p22)
+ - [Helium says its crypto mesh network is used by Lime and Salesforce — it isn’t](https://www.theverge.com/2022/7/29/23284330/helium-crypto-mesh-network-lime-salesforce-denials)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
