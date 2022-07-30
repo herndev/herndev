@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There It Is: Analogue Pocket Just Got Its Long-Awaited Jailbreak](https://kotaku.com/analogue-pocket-jailbreak-game-boy-advance-nintendo-1849351231)
  - [Valve speeds Steam Deck fulfilment up after ‘clearing up’ supply chain issues](https://www.pcgamer.com/valve-speeds-steam-deck-fulfilment-up-after-clearing-up-supply-chain-issues)
- - [Saudi Arabia&#39;s $1T Mirror City plan looks like a videogame concept, and should probably stay that way](https://www.pcgamer.com/saudi-arabias-dollar1t-mirror-city-plan-looks-like-a-videogame-concept-and-should-probably-stay-that-way)
- - [BattleTech has grown into a sprawling, must-play mech war sim](https://www.pcgamer.com/battletech-has-grown-into-a-sprawling-must-play-mech-war-sim)<!-- GAME:END -->
+ - [Saudi Arabia&#39;s $1T Mirror City plan looks like a videogame concept, and should probably stay that way](https://www.pcgamer.com/saudi-arabias-dollar1t-mirror-city-plan-looks-like-a-videogame-concept-and-should-probably-stay-that-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
