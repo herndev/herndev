@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PriceLabs, which uses AI to help owners and managers of vacation homes and short-term rentals automate dynamic pricing, has raised $30M from Summit Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/220729/p27#a220729p27)
- - [RPA Supervisor, which lets companies integrate and manage their robotic process automation tools, has raised a $20M Series A led by Dawn Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220729/p26#a220729p26)
- - [Best Car Loans and Lenders for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-car-loans-and-lenders/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: the Commerce Department has told all US chipmaking equipment manufacturers to not supply gear to China for fabs for making 14nm chips or below &lpar;Bloomberg&rpar;](http://www.techmeme.com/220730/p2#a220730p2)
+ - [The US Secret Service is exploring disabling iMessage on employees&#39; phones, since its E2E encryption may have led to the loss of January 6 texts &lpar;Eric Geller/Politico&rpar;](http://www.techmeme.com/220730/p1#a220730p1)
+ - [PriceLabs, which uses AI to help owners and managers of vacation homes and short-term rentals automate dynamic pricing, has raised $30M from Summit Partners &lpar;The Economic Times&rpar;](http://www.techmeme.com/220729/p27#a220729p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
