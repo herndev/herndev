@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)
- - ⏩ [Never satisfied](http://9gag.com/gag/aQXLnBd)
- - 👉 [A wise man once said, `If you can&#39;t beat them, join them`](http://9gag.com/gag/abgN00E)<!-- MEMES:END -->
+ - 💣 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)
+ - ⏩ [Today is a sad day for indonesia citizen](http://9gag.com/gag/a51OKRV)
+ - 👉 [...](http://9gag.com/gag/a41XYm6)<!-- MEMES:END -->
 
 ---
 
