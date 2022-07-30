@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A July 2022 proposal deck shows that Babel Finance lost 8K BTC and 56K ETH, worth $280M+, in proprietary trading of customer funds, as it seeks to raise money &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220729/p24#a220729p24)
- - [Uber will start showing drivers how much they’ll be paid for accepting a trip](https://www.theverge.com/2022/7/29/23284543/uber-driver-app-pay-information-trip-radar)
- - [Samsung announces a feature that keeps users&#39; data secure during a phone repair, starting with the Galaxy S21 series in South Korea &lpar;Sagar Naresh/SamMobile&rpar;](http://www.techmeme.com/220729/p23#a220729p23)<!-- TECH:END -->
+ - [RPA Supervisor, which lets companies integrate and manage their robotic process automation tools, has raised a $20M Series A led by Dawn Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220729/p26#a220729p26)
+ - [Uber unveils new features for US drivers, like showing what they will earn and the destination before accepting a trip, seeing multiple trip requests, and more &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/220729/p25#a220729p25)
+ - [A July 2022 proposal deck shows that Babel Finance lost 8K BTC and 56K ETH, worth $280M+, in proprietary trading of customer funds, as it seeks to raise money &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220729/p24#a220729p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
