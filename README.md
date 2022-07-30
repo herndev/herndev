@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China is carrying out military shipments to Fujian province, which is directly opposite Taiwan.](http://9gag.com/gag/a11ye12)
+ - 💣 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
  - ⏩ [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)
- - 👉 [Gimme!!](http://9gag.com/gag/aZr6NGn)<!-- MEMES:END -->
+ - 👉 [Man surprises his lock down host with a visit.](http://9gag.com/gag/aVxpXQK)<!-- MEMES:END -->
 
 ---
 
