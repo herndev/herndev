@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love to visit Scotland one day. But better remember do not mention England](http://9gag.com/gag/a0Zrd2O)
- - ⏩ [`Apparently` civil airplane going to Taiwan.](http://9gag.com/gag/a3167Z8)
- - 👉 [Just saw it again. Gods, what a film.](http://9gag.com/gag/axBLVjK)<!-- MEMES:END -->
+ - 💣 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)
+ - ⏩ [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)
+ - 👉 [My pants would be drooling with poop](http://9gag.com/gag/a316qjN)<!-- MEMES:END -->
 
 ---
 
