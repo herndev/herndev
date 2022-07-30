@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell XPS 13 Plus review: thin with a great OLED screen and a powerful P-series chip but expensive, gets very hot, mediocre battery life, and very few ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220730/p8#a220730p8)
- - [Midea 8000 BTU U-shaped Air Conditioner review: energy efficient without sacrificing performance](https://appleinsider.com/articles/22/07/30/midea-8000-btu-u-shaped-air-conditioner-review-energy-efficient-without-sacrificing-performance?utm_medium=rss)
- - [Best Credit Cards for Fair and Average Credit for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-fair-and-average-credit/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Indonesia bans access to Steam, Epic Games, PayPal, and more](https://www.theverge.com/2022/7/30/23285091/indonesia-bans-access-steam-epic-games-paypal-yahoo)
+ - [I’ve been on 12 trips in one year — these are my 10 favorite travel products](https://www.androidauthority.com/favorite-travel-products-3189594/)
+ - [Dell XPS 13 Plus review: thin with a great OLED screen and a powerful P-series chip but expensive, gets very hot, mediocre battery life, and very few ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220730/p8#a220730p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
