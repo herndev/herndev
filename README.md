@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Witcher 3 veterans announce a multiplayer stealth-action game set in feudal Japan](https://www.pcgamer.com/witcher-3-veterans-announce-a-multiplayer-stealth-action-game-set-in-feudal-japan)
- - [Not Okay, Benediction, and more new movies you can watch at home this weekend](https://www.polygon.com/23277301/new-movies-watch-not-okay-netflix-purple-hearts-benediction-streaming)
- - [8 Things More Likely Than Winning The Colossal Mega Millions Jackpot Today](https://kotaku.com/mega-millions-lottery-jackpot-july-odds-shiny-pokemon-1849350412)<!-- GAME:END -->
+ - [Valve speeds Steam Deck fulfilment up after ‘clearing up’ supply chain issues](https://www.pcgamer.com/valve-speeds-steam-deck-fulfilment-up-after-clearing-up-supply-chain-issues)
+ - [Saudi Arabia&#39;s $1T Mirror City plan looks like a videogame concept, and should probably stay that way](https://www.pcgamer.com/saudi-arabias-dollar1t-mirror-city-plan-looks-like-a-videogame-concept-and-should-probably-stay-that-way)
+ - [BattleTech has grown into a sprawling, must-play mech war sim](https://www.pcgamer.com/battletech-has-grown-into-a-sprawling-must-play-mech-war-sim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
