@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 great movies leaving Netflix, Hulu, and HBO Max at the end of July 2022](https://www.polygon.com/what-to-watch/2022/7/30/23277406/best-movies-netflix-amazon-hulu-hbo-leaving-july-2022)
- - [There It Is: Analogue Pocket Just Got Its Long-Awaited Jailbreak](https://kotaku.com/analogue-pocket-jailbreak-game-boy-advance-nintendo-1849351231)
- - [Valve speeds Steam Deck fulfilment up after ‘clearing up’ supply chain issues](https://www.pcgamer.com/valve-speeds-steam-deck-fulfilment-up-after-clearing-up-supply-chain-issues)<!-- GAME:END -->
+ - [Have You Seen This Dog? Call Of Duty Pup Is ‘Plagiarized,’ Artist Claims](https://kotaku.com/call-of-duty-warzone-vanguard-terminator-dog-1849350418)
+ - [We Need To Talk About This John-Wick-But-It&#39;s-Cute-Girls Anime](https://kotaku.com/lycoris-recoil-a1-pictures-john-wick-anime-1849350169)
+ - [15 great movies leaving Netflix, Hulu, and HBO Max at the end of July 2022](https://www.polygon.com/what-to-watch/2022/7/30/23277406/best-movies-netflix-amazon-hulu-hbo-leaving-july-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
