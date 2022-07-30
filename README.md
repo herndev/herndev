@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t look at me](http://9gag.com/gag/aOQMm0r)
- - ⏩ [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)
- - 👉 [Man surprises his lock down host with a visit.](http://9gag.com/gag/aVxpXQK)<!-- MEMES:END -->
+ - 💣 [Elephant says thank you after the herd crossed the road](http://9gag.com/gag/aLvZBVz)
+ - ⏩ [A wise man once said, `If you can&#39;t beat them, join them`](http://9gag.com/gag/abgN00E)
+ - 👉 [I Was There... 3000 Years Ago!](http://9gag.com/gag/ay9bnmY)<!-- MEMES:END -->
 
 ---
 
