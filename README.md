@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [20-Year Interest Rates for August 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/20-year-interest-rates/#ftag=CAD590a51e)
- - [Flagstar Bank Mortgage Lender Review for August 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/flagstar-bank-mortgage-lender-review/#ftag=CAD590a51e)
- - [Ask Farnoosh: Are We in a Recession? Plus: So Many Home Buying Questions     - CNET](https://www.cnet.com/personal-finance/ask-farnoosh-are-we-in-a-recession-plus-so-many-homebuying-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Forget in-display, this is the golden age of side-mounted fingerprint scanners](https://www.androidauthority.com/side-mounted-fingerprint-scanners-2022-3190791/)
+ - [Dell XPS 13 Plus review: XPS plus, battery minus](https://www.theverge.com/23284276/dell-xps-13-plus-intel-2022-review)
+ - [The Weekly Authority: 🎨 Flip out for Flip 4 colorways](https://www.androidauthority.com/the-weekly-authority-july-30-2022-205-3191174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
