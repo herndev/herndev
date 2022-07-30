@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some streamers on Twitch, a more intimate platform than others, endure threats and stalkers and say Twitch gives limited support when dangerous situations arise &lpar;New York Times&rpar;](http://www.techmeme.com/220730/p3#a220730p3)
- - [Sources: the Commerce Department has told all US chipmaking equipment manufacturers to not supply gear to China for fabs for making 14nm chips or below &lpar;Bloomberg&rpar;](http://www.techmeme.com/220730/p2#a220730p2)
- - [The US Secret Service is exploring disabling iMessage on employees&#39; phones, since its E2E encryption may have led to the loss of January 6 texts &lpar;Eric Geller/Politico&rpar;](http://www.techmeme.com/220730/p1#a220730p1)<!-- TECH:END -->
+ - [Apple&#39;s iOS 15.6 Update: Everything New on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-update-everything-new-on-your-iphone/#ftag=CAD590a51e)
+ - [Apple TV Plus: Every New TV Show Arriving in July     - CNET](https://www.cnet.com/culture/entertainment/apple-tv-plus-every-new-tv-show-arriving-this-july/#ftag=CAD590a51e)
+ - [Some streamers on Twitch, a more intimate platform than others, endure threats and stalkers and say Twitch gives limited support when dangerous situations arise &lpar;New York Times&rpar;](http://www.techmeme.com/220730/p3#a220730p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
