@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sapiens wants to take you from Stone Age huts to Medieval castles](https://www.pcgamer.com/sapiens-wants-to-take-you-from-stone-age-huts-to-medieval-castles)
- - [The creator of Disco Elysium is looking for artists with &#39;a love of sci-fi and space&#39;](https://www.pcgamer.com/the-creator-of-disco-elysium-is-looking-for-artists-with-a-love-of-sci-fi-and-space)
- - [7 Windows settings we recommend](https://www.pcgamer.com/7-windows-settings-we-recommend)<!-- GAME:END -->
+ - [Counter-Strike&#39;s famous Door Stuck video has been hijacked by copyright fraud](https://www.pcgamer.com/counter-strikes-famous-door-stuck-video-has-been-hijacked-by-copyright-fraud)
+ - [Check out this sick Half-Life x Metal Gear Rising: Revengeance crossover animation](https://www.pcgamer.com/check-out-this-sick-half-life-x-metal-gear-rising-revengeance-crossover-animation)
+ - [Sapiens wants to take you from Stone Age huts to Medieval castles](https://www.pcgamer.com/sapiens-wants-to-take-you-from-stone-age-huts-to-medieval-castles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
