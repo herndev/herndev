@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Queen of the night` in bloom](http://9gag.com/gag/amge9rd)
- - ⏩ [Today is a sad day for indonesia citizen](http://9gag.com/gag/a51OKRV)
- - 👉 [...](http://9gag.com/gag/a41XYm6)<!-- MEMES:END -->
+ - 💣 [Gimme!!](http://9gag.com/gag/aZr6NGn)
+ - ⏩ [I just realized that if everybody continues to move into these overpriced cities, the prices there will continue to grow](http://9gag.com/gag/aE897oo)
+ - 👉 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)<!-- MEMES:END -->
 
 ---
 
