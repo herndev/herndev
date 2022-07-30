@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
- - ⏩ [German is super easy, trust me](http://9gag.com/gag/angm1xE)
- - 👉 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
+ - 💣 [I caught a praying mantis and decided to feed it a fly. I did not expect what was inside the fly.](http://9gag.com/gag/aBnAYGP)
+ - ⏩ [`Apparently` civil airplane going to Taiwan.](http://9gag.com/gag/a3167Z8)
+ - 👉 [German is super easy, trust me](http://9gag.com/gag/angm1xE)<!-- MEMES:END -->
 
 ---
 
