@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)
- - ⏩ [This is some serious fight](http://9gag.com/gag/aE8977O)
- - 👉 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
+ - 💣 [Drunk dude pepper sprays 3 people after his phone gets slapped to the ground](http://9gag.com/gag/a91x7D0)
+ - ⏩ [Elliott Page is not a real actor](http://9gag.com/gag/a11yXBR)
+ - 👉 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)<!-- MEMES:END -->
 
 ---
 
