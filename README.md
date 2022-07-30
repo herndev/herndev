@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s stunner of a smart thermostat is on sale for its best price to date](https://www.theverge.com/good-deals/2022/7/30/23283710/amazon-smart-thermostat-echo-dot-show-apple-macbook-pro-14-sonos-roam-speaker-deal-sale)
- - [Subscriptions have made gaming on an iPhone fun again](https://www.theverge.com/23282846/iphone-gaming-subscriptions-apple-arcade-netflix)
- - [Salesforce, whose logo appeared on Helium&#39;s website, also says it is not a Helium partner; Helium has removed both Lime and Salesforce logos from its website &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220730/p5#a220730p5)<!-- TECH:END -->
+ - [The Google Pixel’s squeeze for assistant was a button without a button](https://www.theverge.com/2022/7/30/23278192/google-pixel-2-active-edge-squeeze-sides-button-control)
+ - [Google’s latest multiplayer Doodle lets you play a round of pétanque with your friends](https://www.theverge.com/2022/7/30/23284432/google-doodle-multiplayer-game-petanque)
+ - [Apple Pay may finally work on Chrome, Edge, and Firefox in iOS 16](https://www.theverge.com/2022/7/30/23284992/apple-pay-compatible-edge-chrome-firefox-ios-16-beta-browsers-safari)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
