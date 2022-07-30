@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I caught a praying mantis and decided to feed it a fly. I did not expect what was inside the fly.](http://9gag.com/gag/aBnAYGP)
- - ⏩ [`Apparently` civil airplane going to Taiwan.](http://9gag.com/gag/a3167Z8)
- - 👉 [German is super easy, trust me](http://9gag.com/gag/angm1xE)<!-- MEMES:END -->
+ - 💣 [How to annoy your neighbors](http://9gag.com/gag/aRrbKMj)
+ - ⏩ [For all the city people that never seen a cow\u2019s nest.](http://9gag.com/gag/aWgr82n)
+ - 👉 [Literally me now, sometimes i feel like a god, sometimes i feel like a looser](http://9gag.com/gag/aqGPLYj)<!-- MEMES:END -->
 
 ---
 
