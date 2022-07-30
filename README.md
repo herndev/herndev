@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to annoy your neighbors](http://9gag.com/gag/aRrbKMj)
+ - 💣 [Got a job with Good Year and I will be doing sporting events this fall](http://9gag.com/gag/aQXLx5e)
  - ⏩ [For all the city people that never seen a cow\u2019s nest.](http://9gag.com/gag/aWgr82n)
- - 👉 [Literally me now, sometimes i feel like a god, sometimes i feel like a looser](http://9gag.com/gag/aqGPLYj)<!-- MEMES:END -->
+ - 👉 [Danish](http://9gag.com/gag/aLvZMXz)<!-- MEMES:END -->
 
 ---
 
