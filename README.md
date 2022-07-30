@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Biden Again Tests Positive for COVID, in a &#39;Rebound&#39; Case     - CNET](https://www.cnet.com/health/biden-again-tests-positive-for-covid-in-a-rebound-case/#ftag=CAD590a51e)
  - [Tim Hortons offers free coffee to settle mobile app class action lawsuits](https://appleinsider.com/articles/22/07/30/tim-hortons-offers-free-coffee-to-settle-mobile-app-class-action-lawsuits?utm_medium=rss)
- - [China’s uncontrolled rocket crashes over the Indian Ocean](https://www.theverge.com/2022/7/30/23285239/china-uncontrolled-rocket-crashes-down-indian-ocean-long-march-5b-borneo)
- - [A look at the rise and fall of Bird, now a penny stock with a public market cap under $140M, as valuations in its sector collapse &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220730/p9#a220730p9)<!-- TECH:END -->
+ - [China’s uncontrolled rocket crashes over the Indian Ocean](https://www.theverge.com/2022/7/30/23285239/china-uncontrolled-rocket-crashes-down-indian-ocean-long-march-5b-borneo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
