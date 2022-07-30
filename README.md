@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget in-display, this is the golden age of side-mounted fingerprint scanners](https://www.androidauthority.com/side-mounted-fingerprint-scanners-2022-3190791/)
- - [Dell XPS 13 Plus review: XPS plus, battery minus](https://www.theverge.com/23284276/dell-xps-13-plus-intel-2022-review)
- - [The Weekly Authority: 🎨 Flip out for Flip 4 colorways](https://www.androidauthority.com/the-weekly-authority-july-30-2022-205-3191174/)<!-- TECH:END -->
+ - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones/)
+ - [You Pay More When Companies Get Hacked](https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/)
+ - [Google Maps Gets More Bike-Friendly](https://www.wired.com/story/google-maps-adds-more-bike-directions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
