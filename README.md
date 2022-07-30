@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghosting?](http://9gag.com/gag/aNP7oZ6)
+ - 💣 [Freiburg, Germany](http://9gag.com/gag/adgGYnB)
  - ⏩ [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
  - 👉 [What is love?](http://9gag.com/gag/aPZEyKV)<!-- MEMES:END -->
 
