@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the rise and fall of Bird, now a penny stock with a public market cap under $140M, as valuations in its sector collapse &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220730/p9#a220730p9)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-stream-on-hbo-max-now/#ftag=CAD590a51e)
- - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Hortons offers free coffee to settle mobile app class action lawsuits](https://appleinsider.com/articles/22/07/30/tim-hortons-offers-free-coffee-to-settle-mobile-app-class-action-lawsuits?utm_medium=rss)
+ - [China’s uncontrolled rocket crashes over the Indian Ocean](https://www.theverge.com/2022/7/30/23285239/china-uncontrolled-rocket-crashes-down-indian-ocean-long-march-5b-borneo)
+ - [A look at the rise and fall of Bird, now a penny stock with a public market cap under $140M, as valuations in its sector collapse &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220730/p9#a220730p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
