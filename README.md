@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones/)
- - [You Pay More When Companies Get Hacked](https://www.wired.com/story/cyber-tax-data-breach-cost-security-roundup/)
- - [Google Maps Gets More Bike-Friendly](https://www.wired.com/story/google-maps-adds-more-bike-directions/)<!-- TECH:END -->
+ - [The Beats Fit Pro are the best running earbuds I’ve ever had](https://www.theverge.com/23282855/beats-fit-pro-wireless-earbuds-running)
+ - [Martin Scorsese, Leonardo DiCaprio team up for Apple TV+&#39;s &#39;The Wager&#39;](https://appleinsider.com/articles/22/07/30/scorsese-dicaprio-team-up-for-apple-tvs-the-wager?utm_medium=rss)
+ - [The Best Cheap Phones for Almost Every Budget](https://www.wired.com/story/best-cheap-phones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
