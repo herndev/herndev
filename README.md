@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There must be a better way bro.](http://9gag.com/gag/aqGPZqv)
- - ⏩ [What is love?](http://9gag.com/gag/aPZEyKV)
- - 👉 [My best friend of 15 years died today he was the goodest of boys](http://9gag.com/gag/apg40w8)<!-- MEMES:END -->
+ - 💣 [Cats are not from this world...](http://9gag.com/gag/abgNqbB)
+ - ⏩ [Imagine modern karens being introduced to kids from the 90&#39;s](http://9gag.com/gag/aM4orZ6)
+ - 👉 [And they&#39;ll come](http://9gag.com/gag/a610yEN)<!-- MEMES:END -->
 
 ---
 
