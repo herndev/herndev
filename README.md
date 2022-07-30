@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indonesia bans access to Steam, Epic Games, PayPal, and more](https://www.theverge.com/2022/7/30/23285091/indonesia-bans-access-steam-epic-games-paypal-yahoo)
- - [I’ve been on 12 trips in one year — these are my 10 favorite travel products](https://www.androidauthority.com/favorite-travel-products-3189594/)
- - [Dell XPS 13 Plus review: thin with a great OLED screen and a powerful P-series chip but expensive, gets very hot, mediocre battery life, and very few ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/220730/p8#a220730p8)<!-- TECH:END -->
+ - [A look at the rise and fall of Bird, now a penny stock with a public market cap under $140M, as valuations in its sector collapse &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/220730/p9#a220730p9)
+ - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-stream-on-hbo-max-now/#ftag=CAD590a51e)
+ - [The Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-sci-fi-tv-shows-to-binge-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
