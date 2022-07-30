@@ -115,7 +115,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Imagine modern karens being introduced to kids from the 90&#39;s](http://9gag.com/gag/aM4orZ6)
  - ⏩ [And they&#39;ll come](http://9gag.com/gag/a610yEN)
- - 👉 [Man surprises his lock down host with a visit.](http://9gag.com/gag/aVxpXQK)<!-- MEMES:END -->
+ - 👉 [How are we gonna do this?](http://9gag.com/gag/arnQeqK)<!-- MEMES:END -->
 
 ---
 
