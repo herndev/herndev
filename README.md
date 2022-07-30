@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Biden Again Tests Positive for COVID, in a &#39;Rebound&#39; Case     - CNET](https://www.cnet.com/health/biden-again-tests-positive-for-covid-in-a-rebound-case/#ftag=CAD590a51e)
- - [Tim Hortons offers free coffee to settle mobile app class action lawsuits](https://appleinsider.com/articles/22/07/30/tim-hortons-offers-free-coffee-to-settle-mobile-app-class-action-lawsuits?utm_medium=rss)
- - [China’s uncontrolled rocket crashes over the Indian Ocean](https://www.theverge.com/2022/7/30/23285239/china-uncontrolled-rocket-crashes-down-indian-ocean-long-march-5b-borneo)<!-- TECH:END -->
+ - [Lomi review: A great countertop composter -- if you&#39;ve got the space for it](https://appleinsider.com/articles/22/07/30/lomi-review-a-great-countertop-composter----if-youve-got-the-space-for-it?utm_medium=rss)
+ - [The US and Japan plan to open an R&amp;D center for 2nm chips in 2022 and start mass production in 2025, to establish secure supply chains amid tensions over Taiwan &lpar;Rieko Miki/Nikkei Asia&rpar;](http://www.techmeme.com/220730/p10#a220730p10)
+ - [Netflix sues creators behind The Unofficial Bridgerton Musical following sold-out show](https://www.theverge.com/2022/7/30/23285371/netflix-sues-creators-unofficial-bridgerton-musical-emily-bear-abigail-barlow)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
