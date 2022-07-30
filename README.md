@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [If you lived in Central or Eastern Europe in the 90s, this pic is way too familiar](http://9gag.com/gag/aogv9rX)
- - ⏩ [Selfish.](http://9gag.com/gag/axBLj9K)
- - 👉 [Got a job with Good Year and I will be doing sporting events this fall](http://9gag.com/gag/aQXLx5e)<!-- MEMES:END -->
+ - ⏩ [German is super easy, trust me](http://9gag.com/gag/angm1xE)
+ - 👉 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 ---
 
