@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iOS 15.6 Update: Everything New on Your iPhone     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-update-everything-new-on-your-iphone/#ftag=CAD590a51e)
- - [Apple TV Plus: Every New TV Show Arriving in July     - CNET](https://www.cnet.com/culture/entertainment/apple-tv-plus-every-new-tv-show-arriving-this-july/#ftag=CAD590a51e)
- - [Some streamers on Twitch, a more intimate platform than others, endure threats and stalkers and say Twitch gives limited support when dangerous situations arise &lpar;New York Times&rpar;](http://www.techmeme.com/220730/p3#a220730p3)<!-- TECH:END -->
+ - [20-Year Interest Rates for August 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/20-year-interest-rates/#ftag=CAD590a51e)
+ - [Flagstar Bank Mortgage Lender Review for August 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/flagstar-bank-mortgage-lender-review/#ftag=CAD590a51e)
+ - [Ask Farnoosh: Are We in a Recession? Plus: So Many Home Buying Questions     - CNET](https://www.cnet.com/personal-finance/ask-farnoosh-are-we-in-a-recession-plus-so-many-homebuying-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
