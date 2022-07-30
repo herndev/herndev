@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bean](http://9gag.com/gag/aOQMV6r)
- - ⏩ [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)
- - 👉 [When they start changing the definition to avoid getting caught](http://9gag.com/gag/aegnGQq)<!-- MEMES:END -->
+ - 💣 [OoooO, yesss .. thats the good stuff](http://9gag.com/gag/axBLD4L)
+ - ⏩ [This is some serious fight](http://9gag.com/gag/aE8977O)
+ - 👉 [Weeb Son Wins](http://9gag.com/gag/aAG8PxR)<!-- MEMES:END -->
 
 ---
 
