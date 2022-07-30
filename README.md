@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gimme!!](http://9gag.com/gag/aZr6NGn)
+ - 💣 [Is there any `boss` here could share your story and how you deal with `special employees`?](http://9gag.com/gag/ajgzAMG)
  - ⏩ [I just realized that if everybody continues to move into these overpriced cities, the prices there will continue to grow](http://9gag.com/gag/aE897oo)
  - 👉 [When you find out the winner gets a year of free beer.](http://9gag.com/gag/aM4oGER)<!-- MEMES:END -->
 
