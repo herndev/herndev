@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is a cat?](http://9gag.com/gag/aDDKWnN)
- - ⏩ [A just born Alpaca](http://9gag.com/gag/a91xpY0)
- - 👉 [Using discarded human hair to clean up oil spills seems a little unorthodox but man is it effective](http://9gag.com/gag/a610oQN)<!-- MEMES:END -->
+ - 💣 [Whenever i see myself in the mirror](http://9gag.com/gag/adgGK7D)
+ - ⏩ [Just a reminder that this exists - Yuri Bezmenov Explaining 4 Stages to Bring Down a Country &lpar;09:43&rpar;](http://9gag.com/gag/aVxpMoy)
+ - 👉 [Put it right back in the oven for another 5hrs.](http://9gag.com/gag/aNP7zWr)<!-- MEMES:END -->
 
 ---
 
