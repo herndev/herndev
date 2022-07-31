@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Star Wars: The Princess and the Scoundrel&#39; Gives Leia Organa and Han Solo a Worthy Wedding     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-princess-and-the-scoundrel-review-leia-organa-and-han-solo-get-a-worthy-wedding/#ftag=CAD590a51e)
  - [WWE SummerSlam 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
- - [WWE SummerSlam 2022: Start Times, Final Card and How to Watch     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-start-times-final-card-and-how-to-watch/#ftag=CAD590a51e)
- - [Lomi review: A great countertop composter -- if you&#39;ve got the space for it](https://appleinsider.com/articles/22/07/30/lomi-review-a-great-countertop-composter----if-youve-got-the-space-for-it?utm_medium=rss)<!-- TECH:END -->
+ - [WWE SummerSlam 2022: Start Times, Final Card and How to Watch     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-start-times-final-card-and-how-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
