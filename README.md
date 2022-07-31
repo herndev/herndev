@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats a wierd dogo](http://9gag.com/gag/aGzmjz6)
- - ⏩ [Pack your things](http://9gag.com/gag/a11yoZv)
- - 👉 [A just born Alpaca](http://9gag.com/gag/a91xpY0)<!-- MEMES:END -->
+ - 💣 [Using discarded human hair to clean up oil spills seems a little unorthodox but man is it effective](http://9gag.com/gag/a610oQN)
+ - ⏩ [Guilty](http://9gag.com/gag/axBLz22)
+ - 👉 [Trying to get some sleep when Rammstein is playing right outside three nights in a row](http://9gag.com/gag/aZr6Lmn)<!-- MEMES:END -->
 
 ---
 
