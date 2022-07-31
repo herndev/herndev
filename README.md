@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crime blotter: Apple Store thefts, driving while using an iPad](https://appleinsider.com/articles/22/07/31/crime-blotter-apple-store-thefts-driving-while-using-an-ipad?utm_medium=rss)
- - [The Samsung QN90B Is the Best TV for Bright Rooms](https://www.wired.com/review/samsung-qn90b/)
- - [Hypergraphs Reveal a Solution to a 50-Year-Old Problem](https://www.wired.com/story/hypergraphs-reveal-a-solution-to-a-50-year-old-problem/)<!-- TECH:END -->
+ - [5 Great Features You Only Get in Samsung’s Version of Android](https://www.wired.com/story/5-features-samsung-android-only/)
+ - [Step Away From Screens With the 20 Best Family Board Games](https://www.wired.com/gallery/best-family-board-games/)
+ - [The best instant photo printer you can buy right now](https://www.theverge.com/23283824/best-instant-photo-printer-polaroid-fujifilm-canon-hp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
