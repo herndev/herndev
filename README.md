@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lomi review: A great countertop composter -- if you&#39;ve got the space for it](https://appleinsider.com/articles/22/07/30/lomi-review-a-great-countertop-composter----if-youve-got-the-space-for-it?utm_medium=rss)
- - [The US and Japan plan to open an R&amp;D center for 2nm chips in 2022 and start mass production in 2025, to establish secure supply chains amid tensions over Taiwan &lpar;Rieko Miki/Nikkei Asia&rpar;](http://www.techmeme.com/220730/p10#a220730p10)
- - [Netflix sues creators behind The Unofficial Bridgerton Musical following sold-out show](https://www.theverge.com/2022/7/30/23285371/netflix-sues-creators-unofficial-bridgerton-musical-emily-bear-abigail-barlow)<!-- TECH:END -->
+ - [WWE SummerSlam 2022: Results, Live Updates and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-results-live-updates-and-match-ratings/#ftag=CAD590a51e)
+ - [WWE SummerSlam 2022: Start Times, Final Card and How to Watch     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-start-times-final-card-and-how-to-watch/#ftag=CAD590a51e)
+ - [Lomi review: A great countertop composter -- if you&#39;ve got the space for it](https://appleinsider.com/articles/22/07/30/lomi-review-a-great-countertop-composter----if-youve-got-the-space-for-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
