@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That scream](http://9gag.com/gag/a610O12)
- - ⏩ [How do you eat this?](http://9gag.com/gag/aggDnnq)
- - 👉 [From starlight to 99-cent storelight](http://9gag.com/gag/aOQMrmy)<!-- MEMES:END -->
+ - 💣 [Mountain view](http://9gag.com/gag/aBnA04Z)
+ - ⏩ [That scream](http://9gag.com/gag/a610O12)
+ - 👉 [Cool fish tanks](http://9gag.com/gag/aXryYmz)<!-- MEMES:END -->
 
 ---
 
