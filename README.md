@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 WWE Studios movies that are actually worth your time](https://www.polygon.com/what-to-watch/23270454/wwe-movies-best-list-watch-streaming)
  - [Today&#39;s Wordle answer #407: Sunday, July 31](https://www.pcgamer.com/wordle-today-answer-hint)
- - [Dr. Disrespect&#39;s game is called Deadrop, watch some early gameplay footage](https://www.pcgamer.com/dr-disrespects-game-is-called-deadrop-watch-some-early-gameplay-footage)
- - [What&#39;s the greatest length you&#39;ve gone to just to run a game?](https://www.pcgamer.com/whats-the-greatest-length-youve-gone-to-get-a-game-to-run)<!-- GAME:END -->
+ - [Dr. Disrespect&#39;s game is called Deadrop, watch some early gameplay footage](https://www.pcgamer.com/dr-disrespects-game-is-called-deadrop-watch-some-early-gameplay-footage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
