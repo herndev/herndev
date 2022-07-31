@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a neat Minecraft model restoring a ruined castle to its former glory](https://www.pcgamer.com/heres-a-neat-minecraft-model-restoring-a-ruined-castle-to-its-former-glory)
  - [Destiny 2 disables text chat due to game breaking exploit](https://www.pcgamer.com/destiny-2-disables-text-chat-due-to-game-breaking-exploit)
- - [Indonesia has blocked Steam, Epic Games, PayPal, and more](https://www.pcgamer.com/indonesia-has-blocked-steam-epic-games-paypal-and-more)
- - [Henry Cavill has PC hardware issues just like you or me](https://www.pcgamer.com/henry-cavill-has-pc-hardware-issues-just-like-you-or-me)<!-- GAME:END -->
+ - [Indonesia has blocked Steam, Epic Games, PayPal, and more](https://www.pcgamer.com/indonesia-has-blocked-steam-epic-games-paypal-and-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
