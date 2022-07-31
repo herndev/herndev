@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to get some sleep when Rammstein is playing right outside three nights in a row](http://9gag.com/gag/aZr6Lmn)
- - ⏩ [It&#39;s Morbin&#39; time.](http://9gag.com/gag/a0ZrN5X)
- - 👉 [You&#39;re fired](http://9gag.com/gag/a610OWR)<!-- MEMES:END -->
+ - 💣 [You&#39;re fired](http://9gag.com/gag/a610OWR)
+ - ⏩ [Cool fish tanks](http://9gag.com/gag/aXryYmz)
+ - 👉 [Sirens are sounding in Kosovo, the tension is high. Serbian President Vu\u010di\u0107: Kosovo army plans to attack northern Serbia at midnight&#39;&#39;](http://9gag.com/gag/aDDK4wB)<!-- MEMES:END -->
 
 ---
 
