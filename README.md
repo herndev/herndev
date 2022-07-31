@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mountain view](http://9gag.com/gag/aBnA04Z)
+ - 💣 [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)
  - ⏩ [That scream](http://9gag.com/gag/a610O12)
- - 👉 [Cool fish tanks](http://9gag.com/gag/aXryYmz)<!-- MEMES:END -->
+ - 👉 [Been too long since this was posted](http://9gag.com/gag/awzEX64)<!-- MEMES:END -->
 
 ---
 
