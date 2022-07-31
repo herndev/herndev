@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chris Evans Wants the iPhone&#39;s Home Button Back -- Here&#39;s Why That&#39;s Important     - CNET](https://www.cnet.com/tech/mobile/chris-evans-wants-the-iphones-home-button-back-heres-why-thats-important/#ftag=CAD590a51e)
  - [A look at the supply chain resilience myth, as efforts to replicate the chipmaking process inside single countries or regions reveal and exacerbate bottlenecks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220731/p2#a220731p2)
- - [RedMagic 7S Pro&#39;s Highlight Feature May Be Its Hidden 16MP Selfie Camera     - CNET](https://www.cnet.com/tech/mobile/redmagic-7s-pro-highlight-feature-may-be-its-hidden-16mp-selfie-camera/#ftag=CAD590a51e)
- - [Best Debt Consolidation Loans for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-debt-consolidation-loans/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Phone Under $200: Cheaper Phones for the Essentials     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
