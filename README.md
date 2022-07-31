@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the supply chain resilience myth, as efforts to replicate the chipmaking process inside single countries or regions reveal and exacerbate bottlenecks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220731/p2#a220731p2)
  - [RedMagic 7S Pro&#39;s Highlight Feature May Be Its Hidden 16MP Selfie Camera     - CNET](https://www.cnet.com/tech/mobile/redmagic-7s-pro-highlight-feature-may-be-its-hidden-16mp-selfie-camera/#ftag=CAD590a51e)
- - [Best Debt Consolidation Loans for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-debt-consolidation-loans/#ftag=CAD590a51e)
- - [Most Efficient Cars for August 2022     - CNET](https://www.cnet.com/personal-finance/most-efficient-cars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Debt Consolidation Loans for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-debt-consolidation-loans/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
