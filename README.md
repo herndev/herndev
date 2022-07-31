@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whenever i see myself in the mirror](http://9gag.com/gag/adgGK7D)
- - ⏩ [Thats a wierd dogo](http://9gag.com/gag/aGzmjz6)
- - 👉 [How things changes](http://9gag.com/gag/aBnAxED)<!-- MEMES:END -->
+ - 💣 [Thats a wierd dogo](http://9gag.com/gag/aGzmjz6)
+ - ⏩ [Pack your things](http://9gag.com/gag/a11yoZv)
+ - 👉 [A just born Alpaca](http://9gag.com/gag/a91xpY0)<!-- MEMES:END -->
 
 ---
 
