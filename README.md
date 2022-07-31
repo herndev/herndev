@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put it right back in the oven for another 5hrs.](http://9gag.com/gag/aNP7zWr)
- - ⏩ [Samsung ad on Cathedral de Barcelona. Absolute disgrace in my opinion and I&#39;m not even religious.](http://9gag.com/gag/a213rXw)
- - 👉 [Whenever i see myself in the mirror](http://9gag.com/gag/adgGK7D)<!-- MEMES:END -->
+ - 💣 [Whenever i see myself in the mirror](http://9gag.com/gag/adgGK7D)
+ - ⏩ [Thats a wierd dogo](http://9gag.com/gag/aGzmjz6)
+ - 👉 [How things changes](http://9gag.com/gag/aBnAxED)<!-- MEMES:END -->
 
 ---
 
