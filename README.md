@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A TikTok Music app could challenge Spotify and Apple](https://www.theverge.com/2022/7/31/23286166/tiktok-music-app-challenge-spotify-apple-streaming-bytedance)
- - [Cyberattack on Illuminate Education, exposing information on 1M+ students, highlights the dangers of stockpiling sensitive info on millions of school children &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220731/p5#a220731p5)
- - [OtterBox 2-in-1 Charging Station with MagSafe review: Compact fast charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/22/07/31/otterbox-2-in-1-charging-station-with-magsafe-review-compact-fast-charging-for-iphone-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [ESR HaloLock car charger with CryoBoost Review: MagSafe-compatible with active cooling](https://appleinsider.com/articles/22/07/31/esr-halolock-car-charger-with-cryoboost-review-magsafe-compatible-with-active-cooling?utm_medium=rss)
+ - [How to turn off Spatial Audio](https://appleinsider.com/inside/airpods/tips/how-to-turn-off-spatial-audio?utm_medium=rss)
+ - [Lomi review: A great countertop composter -- if you&#39;ve got the space for it](https://appleinsider.com/articles/22/07/30/lomi-review-a-great-countertop-composter----if-youve-got-the-space-for-it?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
