@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Earlier today, china deployed heavy military equipment to the coastal area closest to Taiwan, while Taiwan did one of the biggest military drills in the island&#39;s history &lpar;war is coming&rpar;](http://9gag.com/gag/awzE5M1)
- - ⏩ [When the mod fits perfect](http://9gag.com/gag/aZr6mGn)
- - 👉 [My pants would be drooling with poop](http://9gag.com/gag/a316qjN)<!-- MEMES:END -->
+ - 💣 [Who remembers this classic?](http://9gag.com/gag/aVxpqQ8)
+ - ⏩ [Just saw it again. Gods, what a film.](http://9gag.com/gag/axBLVjK)
+ - 👉 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)<!-- MEMES:END -->
 
 ---
 
