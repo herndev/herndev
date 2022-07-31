@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer #407: Sunday, July 31](https://www.pcgamer.com/wordle-today-answer-hint)
  - [Dr. Disrespect&#39;s game is called Deadrop, watch some early gameplay footage](https://www.pcgamer.com/dr-disrespects-game-is-called-deadrop-watch-some-early-gameplay-footage)
- - [What&#39;s the greatest length you&#39;ve gone to just to run a game?](https://www.pcgamer.com/whats-the-greatest-length-youve-gone-to-get-a-game-to-run)
- - [Before FEAR and No One Lives Forever, Monolith made an action game where Ice-T played a psychic](https://www.pcgamer.com/saturday-crapshoot-sanity-aikens-artifact)<!-- GAME:END -->
+ - [What&#39;s the greatest length you&#39;ve gone to just to run a game?](https://www.pcgamer.com/whats-the-greatest-length-youve-gone-to-get-a-game-to-run)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
