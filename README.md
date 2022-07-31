@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Star Trek’s Nichelle Nichols dies at age 89](https://www.theverge.com/2022/7/31/23286342/star-trek-nichelle-nichols-dies-age-89-nyota-uhura)
  - [Inside China&#39;s $16B virtual influencer industry, as motion capture actors complain of hard working conditions powering their avatars four to five hours per day &lpar;Rest of World&rpar;](http://www.techmeme.com/220731/p6#a220731p6)
- - [ESR HaloLock car charger with CryoBoost Review: MagSafe-compatible with active cooling](https://appleinsider.com/articles/22/07/31/esr-halolock-car-charger-with-cryoboost-review-magsafe-compatible-with-active-cooling?utm_medium=rss)
- - [Nichelle Nichols, Original Uhura on &#39;Star Trek,&#39; dies at 89     - CNET](https://www.cnet.com/culture/entertainment/nichelle-nichols-original-uhura-on-star-trek-star-dies-at-89/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [ESR HaloLock car charger with CryoBoost Review: MagSafe-compatible with active cooling](https://appleinsider.com/articles/22/07/31/esr-halolock-car-charger-with-cryoboost-review-magsafe-compatible-with-active-cooling?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
