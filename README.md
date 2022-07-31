@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 6A is getting an immediate update to make sure it’s moddable](https://www.theverge.com/2022/7/31/23286119/google-pixel-6a-update-moddable-unlocked-bootloader-rooting-custom-roms)
- - [How Tor is fighting Russia&#39;s efforts since December 2021 to block the anonymous browser, such as by using Telegram to share details of volunteer-run Tor bridges &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220731/p4#a220731p4)
- - [Things are looking good for the Matter smart home standard &lpar;knock on wood&rpar;](https://www.androidauthority.com/matter-smart-home-getting-closer-3189590/)<!-- TECH:END -->
+ - [OtterBox 2-in-1 Charging Station with MagSafe review: Compact fast charging for iPhone &amp; Apple Watch](https://appleinsider.com/articles/22/07/31/otterbox-2-in-1-charging-station-with-magsafe-review-compact-fast-charging-for-iphone-apple-watch?utm_medium=rss)
+ - [Best Business Credit Cards for August 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-business-credit-card/#ftag=CAD590a51e)
+ - [The Pixel 6A is getting an immediate update to make sure it’s moddable](https://www.theverge.com/2022/7/31/23286119/google-pixel-6a-update-moddable-unlocked-bootloader-rooting-custom-roms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
