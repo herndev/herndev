@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)
- - ⏩ [That scream](http://9gag.com/gag/a610O12)
- - 👉 [Been too long since this was posted](http://9gag.com/gag/awzEX64)<!-- MEMES:END -->
+ - 💣 [That scream](http://9gag.com/gag/a610O12)
+ - ⏩ [Meanwhile in Fluoridia....](http://9gag.com/gag/a610O28)
+ - 👉 [Odor free safe alternative to effectively getting rid of flies!](http://9gag.com/gag/ay9bBdq)<!-- MEMES:END -->
 
 ---
 
