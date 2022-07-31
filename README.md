@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chris Evans Wants the iPhone&#39;s Home Button Back -- Here&#39;s Why That&#39;s Important     - CNET](https://www.cnet.com/tech/mobile/chris-evans-wants-the-iphones-home-button-back-heres-why-thats-important/#ftag=CAD590a51e)
- - [A look at the supply chain resilience myth, as efforts to replicate the chipmaking process inside single countries or regions reveal and exacerbate bottlenecks &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220731/p2#a220731p2)
- - [Best Phone Under $200: Cheaper Phones for the Essentials     - CNET](https://www.cnet.com/tech/mobile/best-phone-under-200/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Crime blotter: Apple Store thefts, driving while using an iPad](https://appleinsider.com/articles/22/07/31/crime-blotter-apple-store-thefts-driving-while-using-an-ipad?utm_medium=rss)
+ - [The Samsung QN90B Is the Best TV for Bright Rooms](https://www.wired.com/review/samsung-qn90b/)
+ - [Hypergraphs Reveal a Solution to a 50-Year-Old Problem](https://www.wired.com/story/hypergraphs-reveal-a-solution-to-a-50-year-old-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
