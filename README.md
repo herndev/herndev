@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Most Efficient Cars for August 2022     - CNET](https://www.cnet.com/personal-finance/most-efficient-cars/#ftag=CAD590a51e)
- - [Chasing TikTok&#39;s success and leaving behind the protection of hard-to-replicate, large social graphs could end the lengthy dominance of platforms like Facebook &lpar;Cal Newport/New Yorker&rpar;](http://www.techmeme.com/220731/p1#a220731p1)
- - [&#39;Star Wars: The Princess and the Scoundrel&#39; Gives Leia Organa and Han Solo a Worthy Wedding     - CNET](https://www.cnet.com/culture/entertainment/star-wars-the-princess-and-the-scoundrel-review-leia-organa-and-han-solo-get-a-worthy-wedding/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [RedMagic 7S Pro&#39;s Highlight Feature May Be Its Hidden 16MP Selfie Camera     - CNET](https://www.cnet.com/tech/mobile/redmagic-7s-pro-highlight-feature-may-be-its-hidden-16mp-selfie-camera/#ftag=CAD590a51e)
+ - [Best Debt Consolidation Loans for August 2022     - CNET](https://www.cnet.com/personal-finance/loans/best-debt-consolidation-loans/#ftag=CAD590a51e)
+ - [Most Efficient Cars for August 2022     - CNET](https://www.cnet.com/personal-finance/most-efficient-cars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
