@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tony Stark: I want one.](http://9gag.com/gag/aDDKWEG)
- - ⏩ [Just saw it again. Gods, what a film.](http://9gag.com/gag/axBLVjK)
- - 👉 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)<!-- MEMES:END -->
+ - 💣 [Gumball was the last good cartoon](http://9gag.com/gag/azeW8Mq)
+ - ⏩ [It&#39;s so easy](http://9gag.com/gag/aegnbqO)
+ - 👉 [Tony Stark: I want one.](http://9gag.com/gag/aDDKWEG)<!-- MEMES:END -->
 
 ---
 
