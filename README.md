@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opened a new box of assorted glasses screws upside down.](http://9gag.com/gag/awzEANW)
- - ⏩ [Homelander most probable outcome](http://9gag.com/gag/a0ZrQPv)
- - 👉 [How things changes](http://9gag.com/gag/aBnAxED)<!-- MEMES:END -->
+ - 💣 [That scream](http://9gag.com/gag/a610O12)
+ - ⏩ [How do you eat this?](http://9gag.com/gag/aggDnnq)
+ - 👉 [From starlight to 99-cent storelight](http://9gag.com/gag/aOQMrmy)<!-- MEMES:END -->
 
 ---
 
