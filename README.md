@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leviathan-class steampunk miniatures will compete with Star Wars X-Wing, Armada](https://www.polygon.com/23279771/leviathans-kickstarter-miniatures-battletech-catalyst-preview-gencon-2022)
- - [The best CPU for gaming in 2022](https://www.pcgamer.com/best-cpu-for-gaming)
- - [Sea of Thieves players can now be the captains of their own ship](https://www.polygon.com/23287209/sea-of-thieves-season-seven-captaincy-update-news-details)<!-- GAME:END -->
+ - [10 Things Every GTA Online Player Trying The Giant New Update Should Do](https://kotaku.com/gta-online-criminal-enterprises-new-update-tips-1849355831)
+ - [Red Dead Online’s animals, NPCs go missing &lpar;again&rpar;](https://www.polygon.com/23287288/red-dead-online-missing-npc-animal-bug-rockstar-support)
+ - [Play Stray like a dragon with this Spyro mod](https://www.pcgamer.com/play-stray-like-a-dragon-with-this-spyro-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
