@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s iOS 15.6: iPhone Update Fixes Bugs, Boosts Security     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-iphone-update-fixes-bugs-boosts-security/#ftag=CAD590a51e)
- - [PSA: Check your email — Amazon is sending out invites to buy a PS5 or Xbox Series X](https://www.theverge.com/2022/8/1/23287546/sony-playstation-5-ps5-microsoft-xbox-series-x-amazon-invite-only-console-restock-emails)
- - [Meet Cyberpunk: Edgerunners&#39; quirky cast of characters in this new trailer](https://www.theverge.com/2022/8/1/23287260/cyberpunk-netflix-anime-studio-trigger-gurren-lagann-kill-la-kill-trailer)<!-- TECH:END -->
+ - [Apple opens applications for next Entrepreneur Camp in October](https://appleinsider.com/articles/22/08/01/apple-opens-applications-for-next-entrepreneur-camp-in-october?utm_medium=rss)
+ - [Activision Blizzard Q2: revenue of $1.64B, down from $2.3B YoY, vs $1.57B est., net income of $280M, down from $876M YoY, and MAUs of 361M, down from 408M YoY &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/220801/p15#a220801p15)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
