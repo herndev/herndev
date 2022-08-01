@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [High Tech Gaming Chair](http://9gag.com/gag/avAMAgq)
- - ⏩ [Sometimes I go blind for 5 min after watching a modern day fight scene with all the jump cuts and shakey cam....](http://9gag.com/gag/angmQYB)
- - 👉 [Hitmonchan knucklesandwich](http://9gag.com/gag/a81R1Gd)<!-- MEMES:END -->
+ - 💣 [Ruined](http://9gag.com/gag/aAG8GO0)
+ - ⏩ [Par for the course.](http://9gag.com/gag/aE898WM)
+ - 👉 [Earthquake clears a swimming pool](http://9gag.com/gag/aWgrgQA)<!-- MEMES:END -->
 
 ---
 
