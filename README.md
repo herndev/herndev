@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An update on review scoring](https://www.theverge.com/23286429/review-score-update-processes)
- - [Pets get wearable fans to beat Japan’s heatwave](https://www.theverge.com/2022/8/1/23286986/cats-dogs-wearable-fan-japan-heat-wave)
- - [Investigation: the tech supporting the organ donation network in the US uses old software containing programming mistakes, leading to periodic system failures &lpar;Washington Post&rpar;](http://www.techmeme.com/220801/p11#a220801p11)<!-- TECH:END -->
+ - [Sega’s Genesis Mini 2 will only get ‘a small number of units’ in North America](https://www.theverge.com/2022/8/1/23287240/sega-genesis-mini-2-north-american-release-reduced-quantities)
+ - [French iOS developers launch class action lawsuit over App Store fees](https://appleinsider.com/articles/22/08/01/french-ios-developers-launch-class-action-lawsuit-over-app-store-fees?utm_medium=rss)
+ - [A US judge rules Visa must face a lawsuit alleging that it is liable for the distribution of child sex abuse material on Pornhub and other MindGeek websites &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220801/p12#a220801p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
