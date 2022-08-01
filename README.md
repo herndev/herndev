@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
- - ⏩ [Makes me smile every time](http://9gag.com/gag/a51OQXy)
+ - 💣 [El Hopaness](http://9gag.com/gag/awzEyq8)
+ - ⏩ [If Dying Light was in real life](http://9gag.com/gag/axBLorY)
  - 👉 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 ---
