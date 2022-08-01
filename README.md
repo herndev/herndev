@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [El Hopaness](http://9gag.com/gag/awzEyq8)
- - ⏩ [If Dying Light was in real life](http://9gag.com/gag/axBLorY)
- - 👉 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
+ - 💣 [Lower your expectations](http://9gag.com/gag/axBLWoK)
+ - ⏩ [I like Otters.](http://9gag.com/gag/aQXLzOe)
+ - 👉 [I\u2019m that friend](http://9gag.com/gag/aE89MMN)<!-- MEMES:END -->
 
 ---
 
