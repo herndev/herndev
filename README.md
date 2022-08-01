@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Need a Password Manager. Here Are the Best Ones](https://www.wired.com/story/best-password-managers/)
- - [Star Wars spinoff Andor has a new trailer and a new premiere date](https://www.theverge.com/23286948/star-wars-andor-trailer-release-date-disney-plus)
- - [How to use iCloud Keychain on Windows and how it differs from macOS and iOS](https://appleinsider.com/inside/icloud/tips/how-to-use-icloud-keychain-on-windows-and-how-it-differs-from-macos-and-ios?utm_medium=rss)<!-- TECH:END -->
+ - [In Pennyslvania, campaign volunteers are getting a taste of gig work](https://www.theverge.com/2022/8/1/23287002/josh-shapiro-campaign-pennsylvania-governor-sign-delivery)
+ - [Daily deals August 1: $299 10.2-inch iPad, 480GB SSD for $35, $298 50-inch 4K Smart TV, more](https://appleinsider.com/articles/22/08/01/daily-deals-august-1-299-102-inch-ipad-480gb-ssd-for-35-298-50-inch-4k-smart-tv-more?utm_medium=rss)
+ - [How to turn your AirPods noise-cancelling on or off](https://www.androidauthority.com/how-to-turn-your-airpods-noise-cancelling-on-or-off-3190666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
