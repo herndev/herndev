@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Oh f**k....](http://9gag.com/gag/a81RAqY)
- - ⏩ [This guy looks lit yo](http://9gag.com/gag/aRrbLG5)
- - 👉 [How to annoy and wake up your entire neighborhood at midnight](http://9gag.com/gag/aegn9Aq)<!-- MEMES:END -->
+ - ⏩ [Lower your expectations](http://9gag.com/gag/axBLWoK)
+ - 👉 [Constantly mass producing content to keep fans hyped](http://9gag.com/gag/aogv302)<!-- MEMES:END -->
 
 ---
 
