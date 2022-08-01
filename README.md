@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Price war: Apple TV 4K now on sale for $119.99 at Amazon, Best Buy](https://appleinsider.com/articles/22/08/01/price-war-apple-tv-4k-now-on-sale-for-11999-at-amazon-best-buy?utm_medium=rss)
- - [Nichelle Nichols, Original Uhura on &#39;Star Trek,&#39; Dies at 89     - CNET](https://www.cnet.com/culture/entertainment/nichelle-nichols-original-uhura-on-star-trek-star-dies-at-89/#ftag=CAD590a51e)
- - [Amazon says its carbon footprint rose 18% YoY and 40% from 2019 to ~71.54M metric tons of CO2 equivalent in 2021, despite plans to be &quot;net zero carbon&quot; by 2040 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/220801/p13#a220801p13)<!-- TECH:END -->
+ - [Acer Chromebook Spin 513 &lpar;2H&rpar; review: Reworking the basics](https://www.androidauthority.com/acer-chromebook-spin-513-2h-review-3187542/)
+ - [Beats Pill+ makes weird return after being discontinued](https://appleinsider.com/articles/22/08/01/beats-pill-makes-weird-return-after-being-discontinued?utm_medium=rss)
+ - [The US organ transplant network is built on shaky technology, reports say](https://www.theverge.com/2022/8/1/23287266/unos-organ-transplant-network-tech-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
