@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon is finally on TikTok!](https://www.polygon.com/videos/23270233/polygon-video-games-tiktok)
- - [Apex Legends&#39; first map gets its biggest update yet](https://www.polygon.com/23287399/apex-legends-kings-canyon-reforged)
- - [Yoshi’s Island is the Super Mario series’ loveliest detour](https://www.polygon.com/sub-gems/23283668/yoshis-island-super-mario-world-2-nintendo-switch-online-sub-gems)<!-- GAME:END -->
+ - [Netflix’s Cyberpunk 2077 Anime Looks More Breathtaking Than The Game](https://kotaku.com/cyberpunk-2077-edgerunners-trigger-anime-netflix-1849356662)
+ - [Terraria devs still had &#39;unfinished business&#39; that inspired latest update](https://www.pcgamer.com/terraria-devs-still-had-unfinished-business-that-inspired-latest-update)
+ - [Destiny 2 Chat Shut Off After Players Abuse It To Crash Games](https://kotaku.com/destiny-2-bungie-exploit-crash-text-chat-offline-1849356581)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
