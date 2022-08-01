@@ -107,8 +107,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- TECH:START -->
  - [Samsung Galaxy Z Flip 5G gains August 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
- - [Researchers say Meta is failing to moderate dangerous content in Kenya on Facebook, citing failures in AI, as well as linguistic and cultural expertise gaps &lpar;Neha Wadekar/Washington Post&rpar;](http://www.techmeme.com/220801/p4#a220801p4)
- - [Sunny Optical becomes main iPhone 14 lens supplier, says Kuo](https://appleinsider.com/articles/22/08/01/sunny-optical-becomes-main-iphone-14-lens-supplier-says-kuo?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Stranger Things&#39;: See Eddie Munson Actor and Actual Metallica Play &#39;Master of Puppets&#39;     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-see-eddie-munson-actor-and-actual-metallica-play-master-of-puppets/#ftag=CAD590a51e)
+ - [Researchers say Meta is failing to moderate dangerous content in Kenya on Facebook, citing failures in AI, as well as linguistic and cultural expertise gaps &lpar;Neha Wadekar/Washington Post&rpar;](http://www.techmeme.com/220801/p4#a220801p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
