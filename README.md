@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Air raid sirens are sounding again in Mitrovica, Kosovo, on the border with Serbia. Just holy shit!](http://9gag.com/gag/abgNGjr)
- - ⏩ [Ruined](http://9gag.com/gag/aAG8GO0)
- - 👉 [Kid enjoys a show with dinner.](http://9gag.com/gag/a11y1Eb)<!-- MEMES:END -->
+ - 💣 [Magic tricks debunked](http://9gag.com/gag/aAG80ed)
+ - ⏩ [FML...right?](http://9gag.com/gag/azeWexm)
+ - 👉 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)<!-- MEMES:END -->
 
 ---
 
