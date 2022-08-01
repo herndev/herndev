@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Makes me smile every time](http://9gag.com/gag/a51OQXy)
- - ⏩ [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
+ - 💣 [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
+ - ⏩ [Makes me smile every time](http://9gag.com/gag/a51OQXy)
  - 👉 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 ---
