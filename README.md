@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah the 90skids](http://9gag.com/gag/aYr3ob0)
- - ⏩ [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)
- - 👉 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)<!-- MEMES:END -->
+ - 💣 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)
+ - ⏩ [Satisfying](http://9gag.com/gag/aPZE32P)
+ - 👉 [Guys don\u2019t put your piemeltje in crazy girls](http://9gag.com/gag/a51ORYy)<!-- MEMES:END -->
 
 ---
 
