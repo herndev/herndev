@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Cyberpunk 2077 Anime Looks More Breathtaking Than The Game](https://kotaku.com/cyberpunk-2077-edgerunners-trigger-anime-netflix-1849356662)
- - [Terraria devs still had &#39;unfinished business&#39; that inspired latest update](https://www.pcgamer.com/terraria-devs-still-had-unfinished-business-that-inspired-latest-update)
- - [Destiny 2 Chat Shut Off After Players Abuse It To Crash Games](https://kotaku.com/destiny-2-bungie-exploit-crash-text-chat-offline-1849356581)<!-- GAME:END -->
+ - [All the 2023 games already confirmed for next year](https://www.pcgamer.com/2023-games-new-upcoming)
+ - [SEC charges 11 people in alleged $300 million crypto Ponzi scheme](https://www.pcgamer.com/sec-charges-11-people-in-alleged-dollar300-million-crypto-ponzi-scheme)
+ - [The Best Time To Play Nier: Automata Is Right Now](https://kotaku.com/nier-automata-replay-endings-xbox-playstation-pc-1849356855)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
