@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The most unpredicted place is the most safest](http://9gag.com/gag/aQXLX5w)
- - ⏩ [Is This Legal](http://9gag.com/gag/aYr3rZ0)
- - 👉 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)<!-- MEMES:END -->
+ - 💣 [Good joke &lpar;post again&rpar;](http://9gag.com/gag/ay9b27p)
+ - ⏩ [Why though?](http://9gag.com/gag/aRrbEEA)
+ - 👉 [I&#39;ll Do It AGAIN](http://9gag.com/gag/azeWe4B)<!-- MEMES:END -->
 
 ---
 
