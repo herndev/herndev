@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens applications for next Entrepreneur Camp in October](https://appleinsider.com/articles/22/08/01/apple-opens-applications-for-next-entrepreneur-camp-in-october?utm_medium=rss)
- - [Activision Blizzard Q2: revenue of $1.64B, down from $2.3B YoY, vs $1.57B est., net income of $280M, down from $876M YoY, and MAUs of 361M, down from 408M YoY &lpar;Wallace Witkowski/MarketWatch&rpar;](http://www.techmeme.com/220801/p15#a220801p15)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
+ - [Flash deals: save $150 on Apple&#39;s 2022 M2 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/22/08/01/flash-deals-save-150-on-apples-2022-m2-macbook-pro-with-16gb-ram?utm_medium=rss)
+ - [Amazon&#39;s climate pollution is getting way worse](https://www.theverge.com/2022/8/1/23287351/amazon-climate-change-carbon-emissions-worse-2021)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
