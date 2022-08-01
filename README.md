@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: 32 US brokers are selling overlapping datasets with ~2.9B profiles of people pegged as &quot;actively pregnant&quot; or &quot;shopping for maternity products&quot; &lpar;Gizmodo&rpar;](http://www.techmeme.com/220731/p7#a220731p7)
- - [The Best Horror Movies on Prime Video You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-you-need-to-watch/#ftag=CAD590a51e)
- - [Best Gaming Laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In iOS 16 beta 4, Apple Pay finally works in non-Safari browsers like Chrome and Edge, a move that may be in response to the EU&#39;s Digital Markets Act &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220731/p8#a220731p8)
+ - [The 42 Absolute Best Games on Nintendo Switch     - CNET](https://www.cnet.com/pictures/the-42-absolute-best-games-on-nintendo-switch/#ftag=CAD590a51e)
+ - [Get JBL&#39;s Great New Earbuds for $50 Off     - CNET](https://www.cnet.com/deals/jbl-live-pro-2-and-live-free-2-great-new-earbuds-on-sale-for-50-off/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
