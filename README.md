@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There are of course nude Sephiroth mods for Final Fantasy 7 Remake](https://www.pcgamer.com/there-are-of-course-nude-sephiroth-mods-for-final-fantasy-7-remake)
  - [Tony Hawk Makes Surprise Appearance For Tony Hawk&#39;s Pro Skater Cover Band](https://kotaku.com/tony-hawk-pro-skater-cover-band-music-soundtrack-1849353902)
- - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)
- - [Great moments in PC gaming: Editing rules.ini to make Red Alert guns shoot lightning](https://www.pcgamer.com/great-moments-in-pc-gaming-editing-rulesini-to-make-red-alert-guns-shoot-lightning)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
