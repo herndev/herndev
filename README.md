@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Flip 5G gains August 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
- - [&#39;Stranger Things&#39;: See Eddie Munson Actor and Actual Metallica Play &#39;Master of Puppets&#39;     - CNET](https://www.cnet.com/culture/entertainment/stranger-things-see-eddie-munson-actor-and-actual-metallica-play-master-of-puppets/#ftag=CAD590a51e)
- - [Researchers say Meta is failing to moderate dangerous content in Kenya on Facebook, citing failures in AI, as well as linguistic and cultural expertise gaps &lpar;Neha Wadekar/Washington Post&rpar;](http://www.techmeme.com/220801/p4#a220801p4)<!-- TECH:END -->
+ - [The 8 best Android phones to spend your money on &lpar;August 2022&rpar;](https://www.androidauthority.com/best-android-phones-568001/)
+ - [Apple brings Apple TV gift card offer to international sites](https://appleinsider.com/articles/22/08/01/apple-brings-apple-tv-gift-card-offer-to-international-sites?utm_medium=rss)
+ - [Apple takes down online Apple Store for &#39;updates&#39; [u]](https://appleinsider.com/articles/22/08/01/apple-takes-down-online-apple-store-for-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
