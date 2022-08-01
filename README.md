@@ -115,7 +115,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!-- MEMES:START -->
  - 💣 [Ah the 90skids](http://9gag.com/gag/aYr3ob0)
  - ⏩ [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)
- - 👉 [Satisfying](http://9gag.com/gag/aPZE32P)<!-- MEMES:END -->
+ - 👉 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)<!-- MEMES:END -->
 
 ---
 
