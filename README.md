@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best Kindle deals right now](https://www.theverge.com/21539047/best-amazon-kindle-deals)
- - [Flash deals: save $150 on Apple&#39;s 2022 M2 MacBook Pro with 16GB RAM](https://appleinsider.com/articles/22/08/01/flash-deals-save-150-on-apples-2022-m2-macbook-pro-with-16gb-ram?utm_medium=rss)
- - [Amazon&#39;s climate pollution is getting way worse](https://www.theverge.com/2022/8/1/23287351/amazon-climate-change-carbon-emissions-worse-2021)<!-- TECH:END -->
+ - [Tiffany is selling custom CryptoPunk pendants for $50,000](https://www.theverge.com/2022/8/1/23287775/tiffany-custom-cryptopunk-pendants-nfts-nftiff)
+ - [Kenya’s Threat to Ban Facebook Could Backfire](https://www.wired.com/story/kenya-facebook-elections-hate-speech-ban/)
+ - [Global Payments plans to acquire fintech peer EVO Payments for nearly $4B, a 24% premium on EVO&#39;s last closing price, and expects the deal to close by Q1 2023 &lpar;Niket Nishant/Reuters&rpar;](http://www.techmeme.com/220801/p16#a220801p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
