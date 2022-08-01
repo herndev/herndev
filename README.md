@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Collect today 15kg of garbage. Total is 1335kg. Some bad people dump a lot of plastic near my countryside home. Your Cleaning Guy.](http://9gag.com/gag/aYr3V1x)
- - ⏩ [I like Otters.](http://9gag.com/gag/aQXLzOe)
- - 👉 [France peeping at the corner](http://9gag.com/gag/a71YoLw)<!-- MEMES:END -->
+ - 💣 [Makes me smile every time](http://9gag.com/gag/a51OQXy)
+ - ⏩ [Look Honey! I can explain. It is not what it looks like](http://9gag.com/gag/aZr6DjX)
+ - 👉 [I like Otters.](http://9gag.com/gag/aQXLzOe)<!-- MEMES:END -->
 
 ---
 
