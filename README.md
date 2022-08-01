@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jake Paul vs. Hasim Rahman Jr. Has Been Cancelled     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-hasim-rahman-jr-has-been-cancelled/#ftag=CAD590a51e)
  - [An interview with Kate Edwards, a geographer and consultant who helps video game companies better reflect international cultures and geopolitics in their games &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/220801/p1#a220801p1)
- - [WWE SummerSlam 2022 Results: Biggest Winners and Match Ratings     - CNET](https://www.cnet.com/culture/entertainment/wwe-summerslam-2022-results-biggest-winners-and-match-ratings/#ftag=CAD590a51e)
- - [In iOS 16 beta 4, Apple Pay finally works in non-Safari browsers like Chrome and Edge, a move that may be in response to the EU&#39;s Digital Markets Act &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/220731/p8#a220731p8)<!-- TECH:END -->
+ - [Apple&#39;s iOS 15.6 on Your iPhone: Every Update to Know About     - CNET](https://www.cnet.com/tech/services-and-software/apples-ios-15-6-on-your-iphone-every-update-to-know-about/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
