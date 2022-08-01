@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MacBook Air ships, Apple Arcade loses games, and Chris Evans&#39; iPhone - July 2022 in review](https://appleinsider.com/articles/22/08/01/macbook-air-ships-apple-arcade-loses-games-and-chris-evans-iphone---july-2022-in-review?utm_medium=rss)
- - [Apple TV gift card offer extended in US, spread internationally](https://appleinsider.com/articles/22/08/01/apple-brings-apple-tv-gift-card-offer-to-international-sites?utm_medium=rss)
- - [As the market downturn sees some US tech investors and startups hunkering down, others continue as normal; Q2 average investment deal sizes are at record levels &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/220801/p6#a220801p6)<!-- TECH:END -->
+ - [I Never Want to Take Off the Garmin Instinct 2S Solar](https://www.wired.com/review/garmin-instinct-2s-solar/)
+ - [NASA is Crowdsourcing Cloud Research—on Mars](https://www.wired.com/story/nasa-is-crowdsourcing-cloud-research-on-mars/)
+ - [How to troubleshoot your home’s Wi-Fi](https://www.theverge.com/23277172/wifi-home-wfh-troubleshoot-fix-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
