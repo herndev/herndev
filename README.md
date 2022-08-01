@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony says no one used its anonymous Accolades on PS5, so they’re going away](https://www.theverge.com/2022/8/1/23286972/sony-ps5-anonymous-accolades-discontinued-fall-2022)
- - [Eight photo-centric social sites that are not Instagram](https://www.theverge.com/23280518/instagram-flickr-vero-photos-social-networks)
- - [How to use the hidden social features in Apple Music to help discovery](https://appleinsider.com/inside/apple-music/tips/how-to-use-the-hidden-social-features-in-apple-music-to-help-discovery?utm_medium=rss)<!-- TECH:END -->
+ - [An update on review scoring](https://www.theverge.com/23286429/review-score-update-processes)
+ - [Pets get wearable fans to beat Japan’s heatwave](https://www.theverge.com/2022/8/1/23286986/cats-dogs-wearable-fan-japan-heat-wave)
+ - [Investigation: the tech supporting the organ donation network in the US uses old software containing programming mistakes, leading to periodic system failures &lpar;Washington Post&rpar;](http://www.techmeme.com/220801/p11#a220801p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
