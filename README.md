@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Never Want to Take Off the Garmin Instinct 2S Solar](https://www.wired.com/review/garmin-instinct-2s-solar/)
- - [NASA is Crowdsourcing Cloud Research—on Mars](https://www.wired.com/story/nasa-is-crowdsourcing-cloud-research-on-mars/)
- - [How to troubleshoot your home’s Wi-Fi](https://www.theverge.com/23277172/wifi-home-wfh-troubleshoot-fix-how-to)<!-- TECH:END -->
+ - [You Need a Password Manager. Here Are the Best Ones](https://www.wired.com/story/best-password-managers/)
+ - [Star Wars spinoff Andor has a new trailer and a new premiere date](https://www.theverge.com/23286948/star-wars-andor-trailer-release-date-disney-plus)
+ - [How to use iCloud Keychain on Windows and how it differs from macOS and iOS](https://appleinsider.com/inside/icloud/tips/how-to-use-icloud-keychain-on-windows-and-how-it-differs-from-macos-and-ios?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
