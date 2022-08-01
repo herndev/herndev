@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Morbin&#39; time.](http://9gag.com/gag/a0ZrN5X)
- - ⏩ [A huge piece of space junk, believed to be from the first manned SpaceX mission to the International Space Station, has landed on an Australian farm.](http://9gag.com/gag/a213RQZ)
- - 👉 [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)<!-- MEMES:END -->
+ - 💣 [Ah the 90skids](http://9gag.com/gag/aYr3ob0)
+ - ⏩ [The Fascinating Fertilization Process](http://9gag.com/gag/arnQV8X)
+ - 👉 [Satisfying](http://9gag.com/gag/aPZE32P)<!-- MEMES:END -->
 
 ---
 
