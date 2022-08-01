@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Things Every GTA Online Player Trying The Giant New Update Should Do](https://kotaku.com/gta-online-criminal-enterprises-new-update-tips-1849355831)
- - [Red Dead Online’s animals, NPCs go missing &lpar;again&rpar;](https://www.polygon.com/23287288/red-dead-online-missing-npc-animal-bug-rockstar-support)
- - [Play Stray like a dragon with this Spyro mod](https://www.pcgamer.com/play-stray-like-a-dragon-with-this-spyro-mod)<!-- GAME:END -->
+ - [Polygon is finally on TikTok!](https://www.polygon.com/videos/23270233/polygon-video-games-tiktok)
+ - [Apex Legends&#39; first map gets its biggest update yet](https://www.polygon.com/23287399/apex-legends-kings-canyon-reforged)
+ - [Yoshi’s Island is the Super Mario series’ loveliest detour](https://www.polygon.com/sub-gems/23283668/yoshis-island-super-mario-world-2-nintendo-switch-online-sub-gems)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
