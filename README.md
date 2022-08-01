@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Ruined](http://9gag.com/gag/aAG8GO0)
- - ⏩ [Par for the course.](http://9gag.com/gag/aE898WM)
- - 👉 [Earthquake clears a swimming pool](http://9gag.com/gag/aWgrgQA)<!-- MEMES:END -->
+ - ⏩ [Made me chuckle](http://9gag.com/gag/aDDKdLB)
+ - 👉 [Still growing strong: 700lbs and gaining 49lbs a day](http://9gag.com/gag/ajgzg91)<!-- MEMES:END -->
 
 ---
 
