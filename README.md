@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Is Westworld season 4 worth watching? Depends on what you came to Westworld for](https://www.polygon.com/23283744/westworld-season-4-mid-season-review-explainer)
- - [Pokémon Presents Big Info Dump Announced Amid Alleged Leaks](https://kotaku.com/pokemon-presents-scarlet-violet-gen-9-evolutions-1849354647)
- - [Pokémon Presents stream coming Aug. 3 with new details on Pokémon Scarlet and Violet](https://www.polygon.com/23286984/pokemon-scarlet-violet-presents-august-2022-livestream-date-time)<!-- GAME:END -->
+ - [Sony says it’s ramping up PS5 production for the holidays](https://www.polygon.com/23287030/sony-playstation-5-ps5-console-restock-2022-holiday)
+ - [Diablo Immortal hits 30 million players, estimated to have raked-in over $100 million](https://www.pcgamer.com/diablo-immortal-hits-30-million-players-estimated-to-have-raked-in-over-dollar100-million)
+ - [Is Westworld season 4 worth watching? Depends on what you came to Westworld for](https://www.polygon.com/23283744/westworld-season-4-mid-season-review-explainer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
