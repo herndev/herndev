@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [High Tech Gaming Chair](http://9gag.com/gag/avAMAgq)
- - ⏩ [Rest in Peace, Lieutenant Uhura. Channels closed.](http://9gag.com/gag/aM4ox4R)
- - 👉 [FML...right?](http://9gag.com/gag/azeWexm)<!-- MEMES:END -->
+ - ⏩ [Sometimes I go blind for 5 min after watching a modern day fight scene with all the jump cuts and shakey cam....](http://9gag.com/gag/angmQYB)
+ - 👉 [Hitmonchan knucklesandwich](http://9gag.com/gag/a81R1Gd)<!-- MEMES:END -->
 
 ---
 
