@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s new on Disney Plus in August 2022: She-Hulk, Star Wars: Andor and more](https://www.androidauthority.com/new-on-disney-plus-1079270/)
- - [Nothing Phone 1 fares well in durability test but teardown is another story](https://www.androidauthority.com/nothing-phone-1-durability-repair-3192088/)
- - [Apple takes down online Apple Store for &#39;updates&#39;](https://appleinsider.com/articles/22/08/01/apple-takes-down-online-apple-store-for-updates?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 5G gains August 2022 security patch](https://www.androidauthority.com/samsung-galaxy-z-flip-update-1084312/)
+ - [Researchers say Meta is failing to moderate dangerous content in Kenya on Facebook, citing failures in AI, as well as linguistic and cultural expertise gaps &lpar;Neha Wadekar/Washington Post&rpar;](http://www.techmeme.com/220801/p4#a220801p4)
+ - [Sunny Optical becomes main iPhone 14 lens supplier, says Kuo](https://appleinsider.com/articles/22/08/01/sunny-optical-becomes-main-iphone-14-lens-supplier-says-kuo?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
