@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Trek’s Nichelle Nichols dies at age 89](https://www.theverge.com/2022/7/31/23286342/star-trek-nichelle-nichols-dies-age-89-nyota-uhura)
- - [The Best Electric Kettle of 2022     - CNET](https://www.cnet.com/news/best-electric-kettle/#ftag=CAD590a51e)
- - [Inside China&#39;s $16B virtual influencer industry, as motion capture actors complain of hard working conditions powering their avatars four to five hours per day &lpar;Rest of World&rpar;](http://www.techmeme.com/220731/p6#a220731p6)<!-- TECH:END -->
+ - [Investigation: 32 US brokers are selling overlapping datasets with ~2.9B profiles of people pegged as &quot;actively pregnant&quot; or &quot;shopping for maternity products&quot; &lpar;Gizmodo&rpar;](http://www.techmeme.com/220731/p7#a220731p7)
+ - [The Best Horror Movies on Prime Video You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-horror-movies-on-prime-video-you-need-to-watch/#ftag=CAD590a51e)
+ - [Best Gaming Laptop for 2022     - CNET](https://www.cnet.com/tech/computing/best-gaming-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
