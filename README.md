@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You definitely won’t buy a phone with ads if it were cheaper](https://www.androidauthority.com/buy-phone-ads-cheaper-poll-results-3192117/)
- - [A look at Samsung&#39;s mounting semiconductor problems: reportedly losing Qualcomm and Nvidia&#39;s business to TSMC, Galaxy S22 lagging iPhone 13&#39;s chips, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/220801/p5#a220801p5)
- - [Samsung Galaxy Z Fold 4: Everything we know so far &lpar;Updated: August 1&rpar;](https://www.androidauthority.com/samsung-galaxy-z-fold-4-release-date-rumors-specs-price-features-3172983/)<!-- TECH:END -->
+ - [MacBook Air ships, Apple Arcade loses games, and Chris Evans&#39; iPhone - July 2022 in review](https://appleinsider.com/articles/22/08/01/macbook-air-ships-apple-arcade-loses-games-and-chris-evans-iphone---july-2022-in-review?utm_medium=rss)
+ - [Apple TV gift card offer extended in US, spread internationally](https://appleinsider.com/articles/22/08/01/apple-brings-apple-tv-gift-card-offer-to-international-sites?utm_medium=rss)
+ - [As the market downturn sees some US tech investors and startups hunkering down, others continue as normal; Q2 average investment deal sizes are at record levels &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/220801/p6#a220801p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
