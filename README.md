@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you remember when this was the dumbest President ever?](http://9gag.com/gag/aBnAmNO)
- - ⏩ [Satisfying](http://9gag.com/gag/aPZE32P)
- - 👉 [Guys don\u2019t put your piemeltje in crazy girls](http://9gag.com/gag/a51ORYy)<!-- MEMES:END -->
+ - 💣 [High Tech Gaming Chair](http://9gag.com/gag/avAMAgq)
+ - ⏩ [Rest in Peace, Lieutenant Uhura. Channels closed.](http://9gag.com/gag/aM4ox4R)
+ - 👉 [FML...right?](http://9gag.com/gag/azeWexm)<!-- MEMES:END -->
 
 ---
 
