@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nichelle Nichols, the USS Enterprise’s Lt. Uhura, dies at 89](https://www.polygon.com/23286522/nichelle-nichols-uhura-obituary-star-trek)
- - [Here&#39;s a neat Minecraft model restoring a ruined castle to its former glory](https://www.pcgamer.com/heres-a-neat-minecraft-model-restoring-a-ruined-castle-to-its-former-glory)
- - [Destiny 2 disables text chat due to game breaking exploit](https://www.pcgamer.com/destiny-2-disables-text-chat-due-to-game-breaking-exploit)<!-- GAME:END -->
+ - [Tony Hawk Makes Surprise Appearance For Tony Hawk&#39;s Pro Skater Cover Band](https://kotaku.com/tony-hawk-pro-skater-cover-band-music-soundtrack-1849353902)
+ - [Five new Steam games you probably missed &lpar;August 1, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-august-1-2022)
+ - [Great moments in PC gaming: Editing rules.ini to make Red Alert guns shoot lightning](https://www.pcgamer.com/great-moments-in-pc-gaming-editing-rulesini-to-make-red-alert-guns-shoot-lightning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
