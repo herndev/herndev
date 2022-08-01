@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sega’s Genesis Mini 2 will only get ‘a small number of units’ in North America](https://www.theverge.com/2022/8/1/23287240/sega-genesis-mini-2-north-american-release-reduced-quantities)
- - [French iOS developers launch class action lawsuit over App Store fees](https://appleinsider.com/articles/22/08/01/french-ios-developers-launch-class-action-lawsuit-over-app-store-fees?utm_medium=rss)
- - [A US judge rules Visa must face a lawsuit alleging that it is liable for the distribution of child sex abuse material on Pornhub and other MindGeek websites &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220801/p12#a220801p12)<!-- TECH:END -->
+ - [Price war: Apple TV 4K now on sale for $119.99 at Amazon, Best Buy](https://appleinsider.com/articles/22/08/01/price-war-apple-tv-4k-now-on-sale-for-11999-at-amazon-best-buy?utm_medium=rss)
+ - [Nichelle Nichols, Original Uhura on &#39;Star Trek,&#39; Dies at 89     - CNET](https://www.cnet.com/culture/entertainment/nichelle-nichols-original-uhura-on-star-trek-star-dies-at-89/#ftag=CAD590a51e)
+ - [Amazon says its carbon footprint rose 18% YoY and 40% from 2019 to ~71.54M metric tons of CO2 equivalent in 2021, despite plans to be &quot;net zero carbon&quot; by 2040 &lpar;Matt Day/Bloomberg&rpar;](http://www.techmeme.com/220801/p13#a220801p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
