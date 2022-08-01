@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lower your expectations](http://9gag.com/gag/axBLWoK)
- - ⏩ [I like Otters.](http://9gag.com/gag/aQXLzOe)
- - 👉 [I\u2019m that friend](http://9gag.com/gag/aE89MMN)<!-- MEMES:END -->
+ - 💣 [Oh f**k....](http://9gag.com/gag/a81RAqY)
+ - ⏩ [This guy looks lit yo](http://9gag.com/gag/aRrbLG5)
+ - 👉 [How to annoy and wake up your entire neighborhood at midnight](http://9gag.com/gag/aegn9Aq)<!-- MEMES:END -->
 
 ---
 
