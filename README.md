@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
- - ⏩ [The Choir Teacher](http://9gag.com/gag/aegngLp)
- - 👉 [Silence and money](http://9gag.com/gag/aZr6rjz)<!-- MEMES:END -->
+ - 💣 [The Choir Teacher](http://9gag.com/gag/aegngLp)
+ - ⏩ [Where are my glasses?!](http://9gag.com/gag/a71YqKb)
+ - 👉 [France peeping at the corner](http://9gag.com/gag/a71YoLw)<!-- MEMES:END -->
 
 ---
 
