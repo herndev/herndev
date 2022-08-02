@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple confirms Studio Display speaker fault, offers workaround](https://appleinsider.com/articles/22/08/02/apple-confirms-studio-display-speaker-fault-offers-workaround?utm_medium=rss)
- - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)
- - [Daily Authority: 👆 Side-mounted scanners for the win](https://www.androidauthority.com/daily-authority-august-2-2022-3192161/)<!-- TECH:END -->
+ - [Apple is reportedly aware of the Studio Display’s audio issues](https://www.theverge.com/2022/8/2/23288425/apple-studio-display-audio-issues-cutouts-distortion-dropouts)
+ - [A Minimalist Approach to the Hunt for Dark Matter](https://www.wired.com/story/a-minimalist-approach-to-the-hunt-for-dark-matter/)
+ - [How Siestas Might Help Europe Survive Deadly Heat Waves](https://www.wired.com/story/how-siestas-might-help-europe-survive-deadly-heat-waves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
