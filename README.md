@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku has a problem — its buttons aren’t printing enough money](https://www.theverge.com/2022/8/1/23283008/roku-button-revenue-earnings-q2-2022)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-hbo-max-this-week/#ftag=CAD590a51e)
- - [A mysterious battery-powered Google device appears in FCC filings](https://www.theverge.com/2022/8/1/23287842/google-amazon-devices-fcc-filings-echo-studio-nest)<!-- TECH:END -->
+ - [Apple drops mask requirements for most of its corporate workers](https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store)
+ - [IDC reports global Chromebook shipments fell 51.4% YoY to 6M units in Q2 2022, still above pre-pandemic levels, and tablet shipments rose 0.15% YoY to 40.5M &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/220801/p18#a220801p18)
+ - [Legal docs: Twitter is subpoenaing information about Chamath Palihapitiya, David Sacks, Steve Jurvetson, Marc Andreessen, and others in its lawsuit against Musk &lpar;Washington Post&rpar;](http://www.techmeme.com/220801/p17#a220801p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
