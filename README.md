@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [TwitchCon Doesn&#39;t Care That The Pandemic Is Still Happening](https://kotaku.com/twitchcon-2022-san-diego-covid-masks-testing-vaccine-1849357845)
- - [Reminisce about all the places you sold 53 short swords at once with this Twitter account celebrating videogame stores](https://www.pcgamer.com/reminisce-about-all-the-places-you-sold-53-short-swords-at-once-with-this-twitter-account-celebrating-videogame-stores)
- - [The world&#39;s first syndicated game journalist was an 11-year-old kid](https://www.pcgamer.com/the-worlds-first-syndicated-game-journalist-was-an-11-year-old-kid)<!-- GAME:END -->
+ - [Surprisingly, Xenoblade Chronicles 3 Won Me Over In The First Few Hours](https://kotaku.com/xenoblade-chronicles-3-nintendo-switch-jrpg-impressions-1849357306)
+ - [Activision Blizzard&#39;s quarterly revenue steeply declines, but Call of Duty will come to the rescue](https://www.pcgamer.com/activision-blizzards-quarterly-revenue-steeply-declines-but-call-of-duty-will-come-to-the-rescue)
+ - [Battlefield 2042 Update Is Going To Give Everyone Beards](https://kotaku.com/battlefield-2042-update-1-2-patch-dice-ea-beards-1849358015)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
