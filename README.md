@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A mysterious battery-powered Google device appears in FCC filings](https://www.theverge.com/2022/8/1/23287842/google-amazon-devices-fcc-filings-echo-studio-nest)
- - [Tiffany is selling custom CryptoPunk pendants for $50,000](https://www.theverge.com/2022/8/1/23287775/tiffany-custom-cryptopunk-pendants-nfts-nftiff)
- - [Kenya’s Threat to Ban Facebook Could Backfire](https://www.wired.com/story/kenya-facebook-elections-hate-speech-ban/)<!-- TECH:END -->
+ - [Roku has a problem — its buttons aren’t printing enough money](https://www.theverge.com/2022/8/1/23283008/roku-button-revenue-earnings-q2-2022)
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-stream-on-hbo-max-this-week/#ftag=CAD590a51e)
+ - [A mysterious battery-powered Google device appears in FCC filings](https://www.theverge.com/2022/8/1/23287842/google-amazon-devices-fcc-filings-echo-studio-nest)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
