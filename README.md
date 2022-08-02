@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA reports Q1 revenue up 14% YoY to $1.77B, vs. $1.26B est., and net income up 52% YoY to $311M, vs. $101.6M est., but gives Q2 guidance below projections &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p25#a220802p25)
- - [Justice Department Files First Lawsuit Against Abortion Ban After Roe v. Wade Overturned     - CNET](https://www.cnet.com/health/medical/justice-department-files-first-lawsuit-against-abortion-ban-after-roe-v-wade-overturned/#ftag=CAD590a51e)
- - [Dark Matter From 12 Billion Years Ago Mapped Through Warped Spacetime     - CNET](https://www.cnet.com/science/space/dark-matter-from-12-billion-years-ago-mapped-through-warped-spacetime/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [HBO Max’s $90 million Batgirl movie is headed to the vault](https://www.theverge.com/2022/8/2/23288198/batgirl-warner-bros-release-canceled-streaming-theatrical)
+ - [Sources: Nancy Pelosi is set to meet with TSMC&#39;s chairman Mark Liu to discuss implementation of the Chips and Science Act during her visit to Taiwan &lpar;Washington Post&rpar;](http://www.techmeme.com/220802/p29#a220802p29)
+ - [AMD rode the PS5, Xbox, and GPUs from a loss in 2020 to a likely billion in 2022](https://www.theverge.com/2022/8/2/23289464/amd-gaming-business-q2-2022-gpu-playstation-xbox-semicustom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
