@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The OpenCAPI consortium&#39;s assets and standards will be transferred to the CXL consortium, making CXL the dominant server CPU-to-device interconnect standard &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220801/p20#a220801p20)
  - [Hackers drain nearly all of the ~$190M in crypto from the Nomad token bridge, which is backed by Coinbase and OpenSea, over a long series of transactions &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220801/p19#a220801p19)
- - [Apple lifts mask mandate for corporate employees](https://appleinsider.com/articles/22/08/02/apple-lifts-mask-mandate-for-corporate-employees?utm_medium=rss)
- - [Apple drops mask requirements for most of its corporate workers](https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store)<!-- TECH:END -->
+ - [Apple lifts mask mandate for corporate employees](https://appleinsider.com/articles/22/08/02/apple-lifts-mask-mandate-for-corporate-employees?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
