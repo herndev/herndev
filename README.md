@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Adam Mosseri to temporarily relocate to London, building out Instagram&#39;s presence in London by hiring more staff at Meta&#39;s King&#39;s Cross offices &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p1#a220802p1)
- - [The OpenCAPI consortium&#39;s assets and standards will be transferred to the CXL consortium, making CXL the dominant server CPU-to-device interconnect standard &lpar;Ryan Smith/AnandTech&rpar;](http://www.techmeme.com/220801/p20#a220801p20)
- - [Hackers drain nearly all of the ~$190M in crypto from the Nomad token bridge, which is backed by Coinbase and OpenSea, over a long series of transactions &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220801/p19#a220801p19)<!-- TECH:END -->
+ - [Leaked Roblox documents show how the platform handles grooming, automatic image scanning, and mass shooting simulators; Roblox says it has over 2,600 moderators &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220802/p3#a220802p3)
+ - [As TikTok grows in the Middle East and North Africa, its regional content moderators complain of psychological distress and pay of around $2 to $3 per hour &lpar;Insider&rpar;](http://www.techmeme.com/220802/p2#a220802p2)
+ - [Sources: Adam Mosseri to temporarily relocate to London, building out Instagram&#39;s presence in London by hiring more staff at Meta&#39;s King&#39;s Cross offices &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p1#a220802p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
