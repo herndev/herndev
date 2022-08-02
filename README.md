@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York&#39;s Department of Financial Services fines Robinhood&#39;s crypto unit $30M for allegedly violating anti-money laundering and cybersecurity regulations &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p10#a220802p10)
- - [US gamers are spending a lot less on video games now than they did in 2021](https://www.theverge.com/2022/8/2/23288496/us-video-game-spending-npd-second-quarter-2022)
- - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
+ - [Apple TV+ &#39;Luck&#39; is John Lasseter&#39;s post-Pixar redemption arc](https://appleinsider.com/articles/22/08/02/apple-tv-luck-is-john-lasseters-post-pixar-redemption-arc?utm_medium=rss)
+ - [Uber receipt emails are crashing Microsoft Outlook](https://www.theverge.com/2022/8/2/23288589/microsoft-outlook-app-crash-uber-email-receipts)
+ - [Daybridge thinks it’s time we reimagined digital calendars](https://www.theverge.com/2022/8/2/23283861/daybridge-calendar-app-social-network)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
