@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what an elephant herd supposed to look like. Tsavo, Kenya in the 1950s](http://9gag.com/gag/amgeWej)
- - ⏩ [118 kg and counting](http://9gag.com/gag/avAMWR5)
- - 👉 [Lower your expectations](http://9gag.com/gag/axBLWoK)<!-- MEMES:END -->
+ - 💣 [118 kg and counting](http://9gag.com/gag/avAMWR5)
+ - ⏩ [Lower your expectations](http://9gag.com/gag/axBLWoK)
+ - 👉 [I\u2019m that friend](http://9gag.com/gag/aE89MMN)<!-- MEMES:END -->
 
 ---
 
