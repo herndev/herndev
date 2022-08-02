@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple drops mask requirements for most of its corporate workers](https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store)
- - [IDC reports global Chromebook shipments fell 51.4% YoY to 6M units in Q2 2022, still above pre-pandemic levels, and tablet shipments rose 0.15% YoY to 40.5M &lpar;Sabrina Ortiz/ZDNet&rpar;](http://www.techmeme.com/220801/p18#a220801p18)
- - [Legal docs: Twitter is subpoenaing information about Chamath Palihapitiya, David Sacks, Steve Jurvetson, Marc Andreessen, and others in its lawsuit against Musk &lpar;Washington Post&rpar;](http://www.techmeme.com/220801/p17#a220801p17)<!-- TECH:END -->
+ - [Hackers drain nearly all of the ~$190M in crypto from the Nomad token bridge, which is backed by Coinbase and OpenSea, over a long series of transactions &lpar;Brian Newar/Cointelegraph&rpar;](http://www.techmeme.com/220801/p19#a220801p19)
+ - [Apple lifts mask mandate for corporate employees](https://appleinsider.com/articles/22/08/02/apple-lifts-mask-mandate-for-corporate-employees?utm_medium=rss)
+ - [Apple drops mask requirements for most of its corporate workers](https://www.theverge.com/2022/8/1/23288197/apple-mask-mandate-covid-19-protocols-hq-apple-store)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
