@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech will launch a handheld cloud gaming device in 2022](https://www.androidauthority.com/logitech-handheld-cloud-gaming-3192595/)
- - [‘An engine for the imagination’: the rise of AI image generators](https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz)
- - [How to update Android Auto](https://www.androidauthority.com/update-android-auto-3192602/)<!-- TECH:END -->
+ - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
+ - [Sources: Unity is in negotiations to spin off its China unit, valued at $1B+ in talks, to help it expand in the country, the world&#39;s biggest games market &lpar;Reuters&rpar;](http://www.techmeme.com/220802/p18#a220802p18)
+ - [European iPhone shipments grow despite overall decline in smartphone market](https://appleinsider.com/articles/22/08/02/european-iphone-shipments-grow-despite-overall-decline-in-smartphone-market?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
