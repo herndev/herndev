@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple should have followed Google’s Pixel 6A playbook with the iPhone SE](https://www.theverge.com/23288604/apple-iphone-se-versus-google-pixel-6a-screen-camera-night-mode)
- - [The Chips and Science Act bars companies that get US federal funding from adding production of advanced chips in China, impacting Intel, TSMC, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/220802/p14#a220802p14)
- - [You Can Get 20 Days of Sling TV for Free Right Now if You Act Quick     - CNET](https://www.cnet.com/deals/you-can-get-20-days-of-sling-tv-for-free-right-now-if-you-act-quick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Usain Bolt’s e-scooter rental company isn’t bolting around anymore](https://www.theverge.com/2022/8/2/23288748/usain-bolt-mobility-escooter-rideshare-fail)
+ - [Nomad launches new gold color for Base One and Base One Max MagSafe chargers](https://appleinsider.com/articles/22/08/02/nomad-launches-new-gold-colors-of-base-one-and-base-one-max-magsafe-chargers?utm_medium=rss)
+ - [Nomad crypto bridge loses $200 million in ‘chaotic’ hack](https://www.theverge.com/2022/8/2/23288785/nomad-bridge-200-million-chaotic-hack-smart-contract-cryptocurrency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
