@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How order and delivery tracking is better with Apple Wallet in iOS 16](https://appleinsider.com/articles/22/08/02/how-order-and-delivery-tracking-is-better-with-apple-wallet-in-ios-16?utm_medium=rss)
- - [Blake Masters is splitting the difference between Donald Trump and Peter Thiel](https://www.theverge.com/2022/8/2/23289084/blake-masters-senate-arizona-gop-primary-election-mark-kelly)
- - [Sources: despite an earlier pledge to slow down, in 2021 Masayoshi Son pushed SoftBank staff into investing $38B out of Vision Fund 2 across 180 companies &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p20#a220802p20)<!-- TECH:END -->
+ - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
+ - [How to customize the new Home app in iOS 16](https://www.theverge.com/23289078/how-to-customize-homekit-home-app-ios-16)
+ - [Netflix’s limited-edition Cowboy Bebop vinyl is a very good boy](https://www.theverge.com/2022/8/2/23289149/netflix-cowboy-bebop-soundtrack-vinyl-yoko-kanno-the-seatbelts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
