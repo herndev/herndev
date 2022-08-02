@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chernobylite is Getting New Free Content Updates Today](https://news.xbox.com/en-us/2022/08/02/chernobylite-is-getting-new-free-content-updates-today/)
- - [Competitive Pokémon Now Allows Mythicals, And It Changes Everything](https://kotaku.com/pokemon-sword-shield-switch-mythical-vgc-magearna-1849360101)
- - [D&amp;D’s Spelljammer reboot will require some very specific content warnings](https://www.polygon.com/23288597/dnd-spelljammer-adventures-in-space-clowns-spiders-content-warning)<!-- GAME:END -->
+ - [I understand why my main got nerfed, but the pain is real](https://www.pcgamer.com/i-understand-why-my-main-got-nerfed-but-the-pain-is-real)
+ - [CS:GO players celebrate as matchmaking tweak leads to bonus rankings](https://www.pcgamer.com/csgo-players-celebrate-as-matchmaking-tweak-leads-to-bonus-rankings)
+ - [D&amp;D: Onslaught is both a pricey collectible and a miniatures skirmish game](https://www.polygon.com/23277133/dnd-onslaught-miniatures-skirmish-price-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
