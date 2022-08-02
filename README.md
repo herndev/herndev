@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don&#39;t expect Mortal Kombat 12 to make an appearance at Evo](https://www.pcgamer.com/dont-expect-mortal-kombat-12-to-make-an-appearance-at-evo)
- - [Logitech and Tencent are building a streaming handheld for Xbox Cloud Gaming and GeForce Now](https://www.pcgamer.com/logitech-g-tencent-cloud-gaming-device)
- - [How to unlock flying in Shadowlands](https://www.pcgamer.com/how-to-get-wow-shadowlands-flying-mount)<!-- GAME:END -->
+ - [Deathverse: Let It Die launches this fall, devs detail wild weaponry](https://blog.playstation.com/2022/08/02/deathverse-let-it-die-launches-this-fall-devs-detail-wild-weaponry/)
+ - [9 great movies new to streaming to watch in August 2022](https://www.polygon.com/what-to-watch/23283825/best-movies-watch-new-on-netflix-hbo-hulu-august-2022)
+ - [ASRock DeskMeet B660](https://www.pcgamer.com/asrock-deskmeet-b660-mini-pc-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
