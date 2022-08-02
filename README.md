@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Usain Bolt’s e-scooter rental company isn’t bolting around anymore](https://www.theverge.com/2022/8/2/23288748/usain-bolt-mobility-escooter-rideshare-fail)
- - [Nomad launches new gold color for Base One and Base One Max MagSafe chargers](https://appleinsider.com/articles/22/08/02/nomad-launches-new-gold-colors-of-base-one-and-base-one-max-magsafe-chargers?utm_medium=rss)
- - [Nomad crypto bridge loses $200 million in ‘chaotic’ hack](https://www.theverge.com/2022/8/2/23288785/nomad-bridge-200-million-chaotic-hack-smart-contract-cryptocurrency)<!-- TECH:END -->
+ - [Logitech will launch a handheld cloud gaming device in 2022](https://www.androidauthority.com/logitech-handheld-cloud-gaming-3192595/)
+ - [‘An engine for the imagination’: the rise of AI image generators](https://www.theverge.com/2022/8/2/23287173/ai-image-generation-art-midjourney-multiverse-interview-david-holz)
+ - [How to update Android Auto](https://www.androidauthority.com/update-android-auto-3192602/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
