@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you got into the wrong convention](http://9gag.com/gag/amge656)
+ - 💣 [I shall play you the song of my people](http://9gag.com/gag/aM4omK6)
  - ⏩ [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
- - 👉 [An average husky next to a grey wolf](http://9gag.com/gag/aOQM43y)<!-- MEMES:END -->
+ - 👉 [Surprise](http://9gag.com/gag/a2138p9)<!-- MEMES:END -->
 
 ---
 
