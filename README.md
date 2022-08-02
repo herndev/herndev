@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 7 Best BDSM Sex Games To Play, Learn, And Experiment With Kink](https://kotaku.com/best-bdsm-nsfw-sex-video-games-vr-1849361269)
- - [Fans have taken back Android: Netrunner, the popular card game discontinued in 2018](https://www.polygon.com/23282272/netrunner-fan-made-project-nisei-gencon-2022)
- - [Warhammer 40K’s 9 best video games, ranked](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)<!-- GAME:END -->
+ - [Some Neopets users are locked out of their accounts following data breach](https://www.polygon.com/23289144/neopets-data-breach-password-reset-disaster)
+ - [Game of Thrones upgraded to 4K HDR on HBO Max, not ‘too dark’ anymore](https://www.polygon.com/23287801/game-of-thrones-house-of-the-dragon-4k-hdr-hbo-max-dolby-atmos-vision)
+ - [Garfield, Spyro, And More Sweet Stray Mods To Change Up The Cat’s Look](https://kotaku.com/stray-garfield-spyro-aristocats-minecraft-pig-pc-mods-1849361378)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
