@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Luck&#39; is John Lasseter&#39;s post-Pixar redemption arc](https://appleinsider.com/articles/22/08/02/apple-tv-luck-is-john-lasseters-post-pixar-redemption-arc?utm_medium=rss)
- - [Uber receipt emails are crashing Microsoft Outlook](https://www.theverge.com/2022/8/2/23288589/microsoft-outlook-app-crash-uber-email-receipts)
- - [Daybridge thinks it’s time we reimagined digital calendars](https://www.theverge.com/2022/8/2/23283861/daybridge-calendar-app-social-network)<!-- TECH:END -->
+ - [Apple should have followed Google’s Pixel 6A playbook with the iPhone SE](https://www.theverge.com/23288604/apple-iphone-se-versus-google-pixel-6a-screen-camera-night-mode)
+ - [The Chips and Science Act bars companies that get US federal funding from adding production of advanced chips in China, impacting Intel, TSMC, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/220802/p14#a220802p14)
+ - [You Can Get 20 Days of Sling TV for Free Right Now if You Act Quick     - CNET](https://www.cnet.com/deals/you-can-get-20-days-of-sling-tv-for-free-right-now-if-you-act-quick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
