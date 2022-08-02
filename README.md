@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Asking for people to be peaceful is White supremacy`](http://9gag.com/gag/ajgzLQ1)
- - ⏩ [Fox puzzle of different animal shapes](http://9gag.com/gag/aBnAV6P)
- - 👉 [Almost everyone knows people who are like that.](http://9gag.com/gag/adgGO32)<!-- MEMES:END -->
+ - 💣 [This world gets weirder every day!](http://9gag.com/gag/angm280)
+ - ⏩ [Man down.](http://9gag.com/gag/axBLb2D)
+ - 👉 [Meow](http://9gag.com/gag/azeWKDp)<!-- MEMES:END -->
 
 ---
 
