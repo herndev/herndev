@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet and Sour](http://9gag.com/gag/a316843)
- - ⏩ [More PLA military equipment and military personnel are being drawn to the beaches of the Fujian province closest to Taiwan.](http://9gag.com/gag/a91x5OL)
+ - 💣 [Chinese officials hearing that Pelosi has arrived in Taiwan even after all their hissyfits](http://9gag.com/gag/angmvLq)
+ - ⏩ [Granny don&#39;t play that](http://9gag.com/gag/aWgrogK)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
