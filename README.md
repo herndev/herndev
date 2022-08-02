@@ -113,7 +113,7 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Falling to your death](http://9gag.com/gag/angmn3o)
+ - 💣 [Back in the days](http://9gag.com/gag/aQXL708)
  - ⏩ [Meow](http://9gag.com/gag/azeWKDp)
  - 👉 [If I had a nickel for every time this woman was almost hit by a tram, I&#39;d have two nickels. Which isn&#39;t a lot, but it&#39;s weird that it happened twice.](http://9gag.com/gag/aOQMZwr)<!-- MEMES:END -->
 
