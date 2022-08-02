@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2 Refugee Crises—and Their Dark Lessons for the Coming Famine](https://www.wired.com/story/ukraine-poland-refugees-disinformation-famine-politics/)
- - [The Kia EV6 GT Swaps Range for Speed, Sadly](https://www.wired.com/story/kia-ev6-gt-review/)
- - [This $400 Touchscreen Toaster Is a Waste of Your Dough](https://www.wired.com/review/revolution-cooking-instaglo-r270-toaster/)<!-- TECH:END -->
+ - [New York&#39;s Department of Financial Services fines Robinhood&#39;s crypto unit $30M for allegedly violating anti-money laundering and cybersecurity regulations &lpar;Mengqi Sun/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p10#a220802p10)
+ - [US gamers are spending a lot less on video games now than they did in 2021](https://www.theverge.com/2022/8/2/23288496/us-video-game-spending-npd-second-quarter-2022)
+ - [Give Your Back a Break With Our Favorite Office Chairs](https://www.wired.com/gallery/best-office-chairs/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
