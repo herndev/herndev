@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s new Home app in iOS 16 is better but still half-baked](https://www.theverge.com/23279283/apple-homekit-home-app-ios16-preview)
- - [How to customize the new Home app in iOS 16](https://www.theverge.com/23289078/how-to-customize-homekit-home-app-ios-16)
- - [Netflix’s limited-edition Cowboy Bebop vinyl is a very good boy](https://www.theverge.com/2022/8/2/23289149/netflix-cowboy-bebop-soundtrack-vinyl-yoko-kanno-the-seatbelts)<!-- TECH:END -->
+ - [EA reports Q1 revenue up 14% YoY to $1.77B, vs. $1.26B est., and net income up 52% YoY to $311M, vs. $101.6M est., but gives Q2 guidance below projections &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p25#a220802p25)
+ - [Justice Department Files First Lawsuit Against Abortion Ban After Roe v. Wade Overturned     - CNET](https://www.cnet.com/health/medical/justice-department-files-first-lawsuit-against-abortion-ban-after-roe-v-wade-overturned/#ftag=CAD590a51e)
+ - [Dark Matter From 12 Billion Years Ago Mapped Through Warped Spacetime     - CNET](https://www.cnet.com/science/space/dark-matter-from-12-billion-years-ago-mapped-through-warped-spacetime/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
