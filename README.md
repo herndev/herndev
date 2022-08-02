@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake 2: Everything we know about Remedy&#39;s survival horror sequel](https://www.pcgamer.com/alan-wake-2-release-date-trailers-gameplay)
- - [Marvel&#39;s new card game is scrapping its unpopular monetization scheme](https://www.pcgamer.com/marvels-new-card-game-is-scrapping-its-unpopular-monetization-scheme)
- - [Fire Emblem Fans Should Give This Steam Hit A Try](https://kotaku.com/fire-emblem-triangle-strategy-steam-best-seller-rpg-1849361857)<!-- GAME:END -->
+ - [The Batgirl movie may never be released, even though it’s already done](https://www.polygon.com/23289406/batgirl-movie-canceled)
+ - [Everything Everywhere All at Once directors are leaving behind indie studio A24](https://www.polygon.com/23289344/everything-everywhere-all-at-once-directors-daniels-a24-universal-deal)
+ - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
