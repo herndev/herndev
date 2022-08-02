@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)
- - [Sources: Unity is in negotiations to spin off its China unit, valued at $1B+ in talks, to help it expand in the country, the world&#39;s biggest games market &lpar;Reuters&rpar;](http://www.techmeme.com/220802/p18#a220802p18)
- - [European iPhone shipments grow despite overall decline in smartphone market](https://appleinsider.com/articles/22/08/02/european-iphone-shipments-grow-despite-overall-decline-in-smartphone-market?utm_medium=rss)<!-- TECH:END -->
+ - [How order and delivery tracking is better with Apple Wallet in iOS 16](https://appleinsider.com/articles/22/08/02/how-order-and-delivery-tracking-is-better-with-apple-wallet-in-ios-16?utm_medium=rss)
+ - [Blake Masters is splitting the difference between Donald Trump and Peter Thiel](https://www.theverge.com/2022/8/2/23289084/blake-masters-senate-arizona-gop-primary-election-mark-kelly)
+ - [Sources: despite an earlier pledge to slow down, in 2021 Masayoshi Son pushed SoftBank staff into investing $38B out of Vision Fund 2 across 180 companies &lpar;Eliot Brown/Wall Street Journal&rpar;](http://www.techmeme.com/220802/p20#a220802p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
