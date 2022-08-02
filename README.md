@@ -114,8 +114,8 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)
- - ⏩ [An average husky next to a grey wolf](http://9gag.com/gag/aOQM43y)
- - 👉 [CHINA&#39;S LAST WARNING ! &lpar;For those who are worrying&rpar;](http://9gag.com/gag/a81R6B3)<!-- MEMES:END -->
+ - ⏩ [Classics never dies](http://9gag.com/gag/aQXLvG7)
+ - 👉 [Constantly mass producing content to keep fans hyped](http://9gag.com/gag/aogv302)<!-- MEMES:END -->
 
 ---
 
