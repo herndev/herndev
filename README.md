@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Sims 4 High School Years Expansion Pack is Here](https://news.xbox.com/en-us/2022/08/02/the-sims-4-high-school-years-expansion-pack-is-here/)
- - [Hitman 3’s new pirate map has a Monkey Island Easter egg](https://www.polygon.com/23288998/hitman-3-pirate-island-map-monkey-island-easter-egg-how-to-find)
- - [Bullet Train is the Looney Tunes version of John Wick we didn’t know we needed](https://www.polygon.com/reviews/23288981/bullet-train-review-brad-pitt-john-wick)<!-- GAME:END -->
+ - [The 7 Best BDSM Sex Games To Play, Learn, And Experiment With Kink](https://kotaku.com/best-bdsm-nsfw-sex-video-games-vr-1849361269)
+ - [Fans have taken back Android: Netrunner, the popular card game discontinued in 2018](https://www.polygon.com/23282272/netrunner-fan-made-project-nisei-gencon-2022)
+ - [Warhammer 40K’s 9 best video games, ranked](https://www.polygon.com/pc/23287598/warhammer-40k-video-games-list-best-games-pc-playstation-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
