@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
- - [CloudSEK researchers find 3,207 mobile apps exposing Twitter API keys to the public, potentially letting hackers take over associated users&#39; Twitter accounts &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220802/p4#a220802p4)
- - [We asked, you told us: This is the fingerprint scanner style you like the most](https://www.androidauthority.com/fingerprint-scanner-poll-results-3192340/)<!-- TECH:END -->
+ - [Samsung Galaxy Z Flip 3 gets August security patch ahead of Unpacked](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
+ - [New ‘wireless’ Google device turns up on FCC. What could it be?](https://www.androidauthority.com/google-wireless-device-fcc-3192347/)
+ - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
