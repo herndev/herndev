@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I understand why my main got nerfed, but the pain is real](https://www.pcgamer.com/i-understand-why-my-main-got-nerfed-but-the-pain-is-real)
- - [CS:GO players celebrate as matchmaking tweak leads to bonus rankings](https://www.pcgamer.com/csgo-players-celebrate-as-matchmaking-tweak-leads-to-bonus-rankings)
- - [D&amp;D: Onslaught is both a pricey collectible and a miniatures skirmish game](https://www.polygon.com/23277133/dnd-onslaught-miniatures-skirmish-price-release-date)<!-- GAME:END -->
+ - [The Sims 4 High School Years Expansion Pack is Here](https://news.xbox.com/en-us/2022/08/02/the-sims-4-high-school-years-expansion-pack-is-here/)
+ - [Hitman 3’s new pirate map has a Monkey Island Easter egg](https://www.polygon.com/23288998/hitman-3-pirate-island-map-monkey-island-easter-egg-how-to-find)
+ - [Bullet Train is the Looney Tunes version of John Wick we didn’t know we needed](https://www.polygon.com/reviews/23288981/bullet-train-review-brad-pitt-john-wick)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
