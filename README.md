@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Batgirl movie may never be released, even though it’s already done](https://www.polygon.com/23289406/batgirl-movie-canceled)
- - [Everything Everywhere All at Once directors are leaving behind indie studio A24](https://www.polygon.com/23289344/everything-everywhere-all-at-once-directors-daniels-a24-universal-deal)
- - [The best wireless gaming headset in 2022](https://www.pcgamer.com/best-wireless-gaming-headset)<!-- GAME:END -->
+ - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)
+ - [Fallout 4 modder performs miracle, creates working ladders](https://www.pcgamer.com/fallout-4-modder-performs-miracle-creates-working-ladders)
+ - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
