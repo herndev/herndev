@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Steps For Learning Even The Most Daunting Tabletop Roleplaying Game](https://kotaku.com/tabletop-roleplaying-game-dnd-how-to-play-1849357007)
- - [We Are OFK: How an indie band wants to change music biopics, out August 18](https://blog.playstation.com/2022/08/02/we-are-ofk-how-an-indie-band-wants-to-change-music-biopics-out-august-18/)
- - [Coming to Xbox Game Pass: Ghost Recon Wildlands, Turbo Golf Racing, Two Point Campus, and More](https://news.xbox.com/en-us/2022/08/02/game-pass-august-2022-wave-1-announce/)<!-- GAME:END -->
+ - [Xbox and NY Liberty Partner for WNBA’s First Gaming-inspired Basketball Court](https://news.xbox.com/en-us/2022/08/02/xbox-and-ny-liberty-partner-wnba-basketball-court/)
+ - [Inside the Backrooms: Where to find the elevator code](https://www.pcgamer.com/inside-the-backrooms-elevator-code)
+ - [HBO&#39;s Historic Virtual Reality Movie Isn&#39;t Fully Honest With Itself](https://kotaku.com/we-met-in-virtual-reality-vrchat-metaverse-joe-hunting-1849357053)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
