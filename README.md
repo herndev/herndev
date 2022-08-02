@@ -114,7 +114,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Classics never dies](http://9gag.com/gag/aQXLvG7)
- - ⏩ [Loli=pedo](http://9gag.com/gag/a81R67e)
+ - ⏩ [I am not even mad. It\u2019s amazing](http://9gag.com/gag/a316A3N)
  - 👉 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)<!-- MEMES:END -->
 
 ---
