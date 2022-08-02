@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked Roblox documents show how the platform handles grooming, automatic image scanning, and mass shooting simulators; Roblox says it has over 2,600 moderators &lpar;Joseph Cox/VICE&rpar;](http://www.techmeme.com/220802/p3#a220802p3)
- - [As TikTok grows in the Middle East and North Africa, its regional content moderators complain of psychological distress and pay of around $2 to $3 per hour &lpar;Insider&rpar;](http://www.techmeme.com/220802/p2#a220802p2)
- - [Sources: Adam Mosseri to temporarily relocate to London, building out Instagram&#39;s presence in London by hiring more staff at Meta&#39;s King&#39;s Cross offices &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p1#a220802p1)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5: Everything we know so far &lpar;Updated: August 2&rpar;](https://www.androidauthority.com/samsung-galaxy-watch-5-3142225/)
+ - [CloudSEK researchers find 3,207 mobile apps exposing Twitter API keys to the public, potentially letting hackers take over associated users&#39; Twitter accounts &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220802/p4#a220802p4)
+ - [We asked, you told us: This is the fingerprint scanner style you like the most](https://www.androidauthority.com/fingerprint-scanner-poll-results-3192340/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
