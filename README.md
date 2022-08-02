@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taipei 101 tower right now](http://9gag.com/gag/azeWGwZ)
- - ⏩ [US carrier strike group 5 is currently operating 500 km south of Taiwan. Carrier USS Abraham Lincoln operating in the East China Sea, 1000 km north of Taiwan. Both carry 90 aircraft each.](http://9gag.com/gag/aDDKVA9)
+ - 💣 [Children running Lemonade stand being robbed of money in world&#39;s greatest country](http://9gag.com/gag/a81RDDZ)
+ - ⏩ [Granny don&#39;t play that](http://9gag.com/gag/aWgrogK)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
