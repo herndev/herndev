@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Constantly mass producing content to keep fans hyped](http://9gag.com/gag/aogv302)
- - ⏩ [Your thoughts? Im sick of people who can dish it but cant take it and play victim.](http://9gag.com/gag/aWgr7Ox)
+ - 💣 [Well then...](http://9gag.com/gag/aBnALr1)
+ - ⏩ [I don&#39;t really care about the battle between &#39;&#39;feminists&#39;&#39; and &#39;&#39;men&#39;&#39;, but god damn this lady is lost.](http://9gag.com/gag/a31650N)
  - 👉 [CHINA&#39;S LAST WARNING ! &lpar;For those who are worrying&rpar;](http://9gag.com/gag/a81R6B3)<!-- MEMES:END -->
 
 ---
