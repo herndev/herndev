@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max’s $90 million Batgirl movie is headed to the vault](https://www.theverge.com/2022/8/2/23288198/batgirl-warner-bros-release-canceled-streaming-theatrical)
- - [Sources: Nancy Pelosi is set to meet with TSMC&#39;s chairman Mark Liu to discuss implementation of the Chips and Science Act during her visit to Taiwan &lpar;Washington Post&rpar;](http://www.techmeme.com/220802/p29#a220802p29)
- - [AMD rode the PS5, Xbox, and GPUs from a loss in 2020 to a likely billion in 2022](https://www.theverge.com/2022/8/2/23289464/amd-gaming-business-q2-2022-gpu-playstation-xbox-semicustom)<!-- TECH:END -->
+ - [Chevy is offering up to $6,000 Bolt rebates — with a big asterisk](https://www.theverge.com/2022/8/2/23289219/chevy-bolt-goodwill-rebate-6000-dollars-barred-lawsuits)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial](https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
