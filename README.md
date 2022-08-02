@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I shall play you the song of my people](http://9gag.com/gag/aM4omK6)
- - ⏩ [Now that&#39;s Deep](http://9gag.com/gag/azeWPnK)
- - 👉 [Surprise](http://9gag.com/gag/a2138p9)<!-- MEMES:END -->
+ - 💣 [Tough choice](http://9gag.com/gag/aqGP6Gj)
+ - ⏩ [Surprise](http://9gag.com/gag/a2138p9)
+ - 👉 [Water puppy morning routine](http://9gag.com/gag/ay9b4Vb)<!-- MEMES:END -->
 
 ---
 
