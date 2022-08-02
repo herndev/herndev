@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Classics never dies](http://9gag.com/gag/aQXLvG7)
- - ⏩ [I am not even mad. It\u2019s amazing](http://9gag.com/gag/a316A3N)
- - 👉 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)<!-- MEMES:END -->
+ - 💣 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)
+ - ⏩ [An average husky next to a grey wolf](http://9gag.com/gag/aOQM43y)
+ - 👉 [CHINA&#39;S LAST WARNING ! &lpar;For those who are worrying&rpar;](http://9gag.com/gag/a81R6B3)<!-- MEMES:END -->
 
 ---
 
