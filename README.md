@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 1&rpar;](https://news.xbox.com/en-us/2022/08/01/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-1/)
- - [Surprisingly, Xenoblade Chronicles 3 Won Me Over In The First Few Hours](https://kotaku.com/xenoblade-chronicles-3-nintendo-switch-jrpg-impressions-1849357306)
- - [Activision Blizzard&#39;s quarterly revenue steeply declines, but Call of Duty will come to the rescue](https://www.pcgamer.com/activision-blizzards-quarterly-revenue-steeply-declines-but-call-of-duty-will-come-to-the-rescue)<!-- GAME:END -->
+ - [Intel&#39;s 13th Gen 13700K reaches 6GHz milestone](https://www.pcgamer.com/intels-13th-gen-13700k-reaches-6ghz-milestone)
+ - [Today&#39;s Wordle answer #409: Tuesday, August 2](https://www.pcgamer.com/wordle-today-answer-hint)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of August 1&rpar;](https://news.xbox.com/en-us/2022/08/01/this-weeks-deals-with-gold-and-spotlight-sale-week-of-august-1/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
