@@ -113,9 +113,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lower your expectations](http://9gag.com/gag/axBLWoK)
- - ⏩ [Some of you may remember my post about buying a truck and starting a company well today I finally picked up my truck and my &lpar;rental&rpar; trailer and I will pick up my first load this Friday! A year in preparation and now it&#39;s time to take charge and make some money!](http://9gag.com/gag/aBnAyGz)
- - 👉 [I\u2019m that friend](http://9gag.com/gag/aE89MMN)<!-- MEMES:END -->
+ - 💣 [Classics never dies](http://9gag.com/gag/aQXLvG7)
+ - ⏩ [Loli=pedo](http://9gag.com/gag/a81R67e)
+ - 👉 [A functioning chocolate safe](http://9gag.com/gag/abgN1RX)<!-- MEMES:END -->
 
 ---
 
