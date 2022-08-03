@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An illustration of Chinese reaction to Pelosi\u2019s landing on Taiwan](http://9gag.com/gag/a316WV5)
- - ⏩ [The floor is slicc but he thicc](http://9gag.com/gag/aM4oO6M)
+ - 💣 [Blocking the exit to pack groceries because it\u2019s raining](http://9gag.com/gag/aLvZdpz)
+ - ⏩ [Seriously like how?](http://9gag.com/gag/awzEYOR)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
