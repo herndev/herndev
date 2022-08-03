@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to kick someone off your Wi-Fi](https://www.androidauthority.com/kick-people-off-wi-fi-3183857/)
- - [Sales of Nintendo’s Switch dip as chip shortage continues to bite](https://www.theverge.com/2022/8/3/23290085/nintendo-switch-q1-2023-earnings-sales-software-hardware-down-semiconductor-shortage)
- - [US House Speaker Nancy Pelosi meets with TSMC chairman Mark Liu and others to discuss implementation of the Chips and Science Act during her Taiwan visit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220803/p6#a220803p6)<!-- TECH:END -->
+ - [Ford says it delivered the sold-out F-150 Lightning to customers in all 50 states](https://www.theverge.com/2022/8/3/23289378/ford-f150-lightning-delivery-50-states-ev)
+ - [Daily Authority: ⚒️ Self-repair your Samsung phones](https://www.androidauthority.com/daily-authority-august-3-2022-3192758/)
+ - [Dubai-based buy now, pay later startup Tabby raised $150M in debt from Atalaya Capital and Partners for Growth, bringing its total funding to $275M &lpar;Leen Al-Rashdan/Bloomberg&rpar;](http://www.techmeme.com/220803/p9#a220803p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
