@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to turn your living room into a PC gaming haven](https://www.polygon.com/23287523/pc-gaming-living-room-setup-tv-mouse-keyboard-lapboard-controller-steam-deck)
- - [Bodies Bodies Bodies revs up Scream to killer speeds](https://www.polygon.com/reviews/23289265/bodies-review-a24-horror-pete-davidson-lee-pace)
- - [Multiversus will have a 50-tier battle pass when season 1 launches](https://www.pcgamer.com/multiversus-will-have-a-50-tier-battle-pass-when-season-1-launches)<!-- GAME:END -->
+ - [Where to buy the Vessel of Profound Possibilities in WoW Shadowlands](https://www.pcgamer.com/world-of-warcraft-wow-vessel-of-profound-possibilities)
+ - [Netflix’s YA vampire romance series First Kill has been canceled after one season](https://www.polygon.com/23290324/netflix-first-kill-canceled)
+ - [Pokémon Scarlet and Violet introduces new Terastal forms for all Paldean Pokémon](https://www.polygon.com/pokemon/23289294/pokemon-scarlet-violet-paldea-region-terastal-forms)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
