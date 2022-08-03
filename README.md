@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)
- - [Fallout 4 modder performs miracle, creates working ladders](https://www.pcgamer.com/fallout-4-modder-performs-miracle-creates-working-ladders)
- - [EA Changes Sims 4 Paid Mod Rules After Fan Backlash](https://kotaku.com/ea-paid-mods-early-access-sims-4-rule-changes-maxis-1849362416)<!-- GAME:END -->
+ - [PS5 Scam Hacks Twitter Account Of Lakers Owner Jeanie Buss](https://kotaku.com/lakers-nba-jeanie-buss-ps5-playstation-5-scam-twitter-1849362863)
+ - [The VRChat documentary gets VR right, but already feels old](https://www.pcgamer.com/the-vrchat-documentary-gets-vr-right-but-already-feels-old)
+ - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
