@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PS5 Scam Hacks Twitter Account Of Lakers Owner Jeanie Buss](https://kotaku.com/lakers-nba-jeanie-buss-ps5-playstation-5-scam-twitter-1849362863)
- - [The VRChat documentary gets VR right, but already feels old](https://www.pcgamer.com/the-vrchat-documentary-gets-vr-right-but-already-feels-old)
- - [Malcolm McDowell announces Gloomwood delay: &#39;For God&#39;s sake, you can wait&#39;](https://www.pcgamer.com/malcolm-mcdowell-announces-gloomwood-delay-for-gods-sake-you-can-wait)<!-- GAME:END -->
+ - [It&#39;s wild that mobile game ripoffs this bad are allowed to exist](https://www.pcgamer.com/its-wild-that-mobile-game-ripoffs-this-bad-are-allowed-to-exist)
+ - [Esports Owner Wanted By Cops After $33 Million Drug Bust](https://kotaku.com/bernard-bren-chong-philippines-esports-drugs-manhunt-1849363134)
+ - [This parody of Bo Burnham&#39;s &#39;Welcome to the internet&#39; is better than it has any right to be](https://www.pcgamer.com/this-parody-of-bo-burnhams-welcome-to-the-internet-is-better-than-it-has-any-right-to-be)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
