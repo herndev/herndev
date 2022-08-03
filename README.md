@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals August 3: $90 HomePod mini, AirPods 2 with wireless charging for $100, more](https://appleinsider.com/articles/22/08/03/daily-deals-august-3-90-homepod-mini-airpods-2-with-wireless-charging-for-100-more?utm_medium=rss)
- - [An interview with Bored Ape Yacht Club creators Greg Solano and Wylie Aronow on BuzzFeed &quot;doxxing&quot; them, Yuga Labs, the future of BAYC, Otherside, and more &lpar;Jessica Klein/Input&rpar;](http://www.techmeme.com/220803/p18#a220803p18)
- - [A New Attack Easily Knocked Out a Potential Encryption Algorithm](https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/)<!-- TECH:END -->
+ - [The Most Surveilled Place in America](https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech)
+ - [Alec Baldwin shouting ‘Patriot Act’ in The Departed: a close reading](https://www.theverge.com/c/23280403/the-departed-patriot-act-alec-baldwin-close-reading)
+ - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
