@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Samsung and SK Hynix rethink their exposure to China following the US Chips and Science Act, which contains qualified &quot;guardrails&quot; against China &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p35#a220802p35)
- - [An unknown attacker has been draining Solana and USDC wallets; blockchain audit firm OtterSec says 5K+ Solana wallets have been drained in the past few hours &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/220802/p34#a220802p34)
- - [Microsoft Snubs Activision Games as It Vies for Acquisition Approval     - CNET](https://www.cnet.com/tech/gaming/microsoft-snubs-activision-games-as-it-vies-for-acquisition-approval/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Nick Clegg is partly relocating to London for personal reasons, splitting his time between California and the UK, as Meta embraces remote leadership &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p38#a220802p38)
+ - [Virginia-based RegScale, which provides continuous compliance automation software to companies, has raised a $20M Series A led by SYN Ventures &lpar;Michaela Althouse/Technical.ly&rpar;](http://www.techmeme.com/220802/p37#a220802p37)
+ - [Equifax says it fixed a &quot;technological coding issue&quot; that sources say sent lenders faulty credit scores on millions of US consumers from mid-March-early April &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220802/p36#a220802p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
