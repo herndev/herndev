@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Assassins Creed: Chicago](http://9gag.com/gag/aggDjAq)
- - ⏩ [What is a woman?](http://9gag.com/gag/avAM9pq)
+ - 💣 [Then &amp; Now](http://9gag.com/gag/a51O5XE)
+ - ⏩ [Citizens at work.](http://9gag.com/gag/aDDKM7x)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
