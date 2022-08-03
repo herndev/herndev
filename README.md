@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then &amp; Now](http://9gag.com/gag/a51O5XE)
- - ⏩ [Citizens at work.](http://9gag.com/gag/aDDKM7x)
+ - 💣 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
+ - ⏩ [Just in case](http://9gag.com/gag/a316nGr)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
