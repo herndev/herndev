@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forget Disruption. Tech Needs to Fetishize Stability](https://www.wired.com/story/forget-disruption-tech-fetishize-stability/)
- - [Desk setup videos have taken over YouTube — and my life](https://www.theverge.com/23272016/youtube-desk-setup-home-office-videos)
- - [What happened to the Apple union campaign?](https://www.theverge.com/2022/8/3/23289129/apple-union-campaign-silent-starbucks-trader-joes)<!-- TECH:END -->
+ - [Daily deals August 3: $90 HomePod mini, AirPods 2 with wireless charging for $100, more](https://appleinsider.com/articles/22/08/03/daily-deals-august-3-90-homepod-mini-airpods-2-with-wireless-charging-for-100-more?utm_medium=rss)
+ - [An interview with Bored Ape Yacht Club creators Greg Solano and Wylie Aronow on BuzzFeed &quot;doxxing&quot; them, Yuga Labs, the future of BAYC, Otherside, and more &lpar;Jessica Klein/Input&rpar;](http://www.techmeme.com/220803/p18#a220803p18)
+ - [A New Attack Easily Knocked Out a Potential Encryption Algorithm](https://www.wired.com/story/new-attack-sike-post-quantum-computing-encryption-algorithm/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
