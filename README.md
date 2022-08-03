@@ -114,7 +114,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 <!-- MEMES:START -->
  - 💣 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
- - ⏩ [Just in case](http://9gag.com/gag/a316nGr)
+ - ⏩ [Hold my beer](http://9gag.com/gag/aLvZrrV)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
