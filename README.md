@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Forged in the heart of a dying star](http://9gag.com/gag/aBnAXdx)
- - ⏩ [Excuse me .. can you be my friend](http://9gag.com/gag/aKmQOw6)
+ - 💣 [That day, for no particular reason I decided to go for a little run. So I run to Taiwan.](http://9gag.com/gag/aVxpZKO)
+ - ⏩ [Forged in the heart of a dying star](http://9gag.com/gag/aBnAXdx)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
