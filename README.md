@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Situation right now](http://9gag.com/gag/adgGxRM)
- - ⏩ [China: The US will pay the price it they go to Taiwan! *go to Taiwan anyway* The world:](http://9gag.com/gag/aegnxmq)
+ - 💣 [Forged in the heart of a dying star](http://9gag.com/gag/aBnAXdx)
+ - ⏩ [Excuse me .. can you be my friend](http://9gag.com/gag/aKmQOw6)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
