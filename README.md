@@ -202,6 +202,19 @@ Last Updated on 15/05/2022 02:03:30 UTC
 
 </details>
 
+
+<details>
+  <summary style="font-size: 16px"> 😂 Random Joke</summary>
+  
+---
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+---
+
+</details>
+
+
 <!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg) -->
 
 <!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
