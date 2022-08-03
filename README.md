@@ -113,8 +113,8 @@ In Mobile App Development I usually work with Flutter framework.
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China is the Chihuahua of the world, all bark no bite](http://9gag.com/gag/aM4oOEW)
- - ⏩ [The ugly truth](http://9gag.com/gag/ajgzRWg)
+ - 💣 [Assassins Creed: Chicago](http://9gag.com/gag/aggDjAq)
+ - ⏩ [What is a woman?](http://9gag.com/gag/avAM9pq)
  - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
 
 ---
