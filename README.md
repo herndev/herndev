@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where to buy the Vessel of Profound Possibilities in WoW Shadowlands](https://www.pcgamer.com/world-of-warcraft-wow-vessel-of-profound-possibilities)
- - [Netflix’s YA vampire romance series First Kill has been canceled after one season](https://www.polygon.com/23290324/netflix-first-kill-canceled)
- - [Pokémon Scarlet and Violet introduces new Terastal forms for all Paldean Pokémon](https://www.polygon.com/pokemon/23289294/pokemon-scarlet-violet-paldea-region-terastal-forms)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet&#39;s Fidough Is A Good Boy Everyone&#39;s Already Fallen In Love With](https://kotaku.com/pokemon-scarlet-violet-nintendo-fidough-type-fairy-1849365034)
+ - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)
+ - [Everybody loves ‘Pooper,’ Pokémon Scarlet and Violet’s new Wooper](https://www.polygon.com/23290359/pokemon-scarlet-violet-wooper-paldea-variant-fan-art-memes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
