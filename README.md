@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Striking Graphs That Show Humanity’s Domination of the Earth](https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/)
- - [The Pigs Died. Then Scientists Revived Their Cells](https://www.wired.com/story/the-pigs-died-then-scientists-revived-their-cells/)
- - [Google Meet meets Duo Meet, with Meet in Duo but Duo isn’t going into Meet](https://www.theverge.com/2022/8/3/23290225/google-meet-duo-video-calling-messaging)<!-- TECH:END -->
+ - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)
+ - [Wemo’s new Smart Dimmer works with Thread and HomeKit, but not Matter](https://www.theverge.com/2022/8/3/23290273/wemo-smart-dimmer-switch-thread-apple-homekit-price-specs)
+ - [OnePlus 10T review, unveiled today for $649: Snapdragon 8+ Gen 1 and wired charging are fast, but water resistance is weak and the 2MP macro camera is pointless &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/220803/p24#a220803p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
