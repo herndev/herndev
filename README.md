@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s record $6.6B revenue keeps &#39;high-end&#39; RDNA 3 GPUs and Ryzen 7000 CPUs on track for launch this year](https://www.pcgamer.com/amds-record-dollar66b-revenue-keeps-high-end-rdna-3-gpus-and-ryzen-7000-cpus-on-track-for-launch-this-year)
  - [Today&#39;s Wordle answer #410: Wednesday, August 3](https://www.pcgamer.com/wordle-today-answer-hint)
- - [It&#39;s wild that mobile game ripoffs this bad are allowed to exist](https://www.pcgamer.com/its-wild-that-mobile-game-ripoffs-this-bad-are-allowed-to-exist)
- - [Esports Owner Wanted By Cops After $33 Million Drug Bust](https://kotaku.com/bernard-bren-chong-philippines-esports-drugs-manhunt-1849363134)<!-- GAME:END -->
+ - [It&#39;s wild that mobile game ripoffs this bad are allowed to exist](https://www.pcgamer.com/its-wild-that-mobile-game-ripoffs-this-bad-are-allowed-to-exist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
