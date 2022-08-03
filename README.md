@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blake Masters wins Arizona Republican Senate primary](https://www.theverge.com/2022/8/3/23289316/blake-masters-donald-trump-peter-thiel-arizona-senate-jd-vance-yarvin)
- - [Nansen: users spent ~$2.7B worth of ether to mint NFTs in H1 2022; 50.7% of the ETH raised stayed with the NFT projects and 45.7% went to non-entity wallets &lpar;Zhiyuan Sun/Cointelegraph&rpar;](http://www.techmeme.com/220803/p5#a220803p5)
- - [Deals: Sam&#39;s Club membership on sale for $14.99, plus free $10 gift card](https://appleinsider.com/articles/22/08/03/deals-sams-club-membership-on-sale-for-1499-plus-free-10-gift-card?utm_medium=rss)<!-- TECH:END -->
+ - [How to kick someone off your Wi-Fi](https://www.androidauthority.com/kick-people-off-wi-fi-3183857/)
+ - [Sales of Nintendo’s Switch dip as chip shortage continues to bite](https://www.theverge.com/2022/8/3/23290085/nintendo-switch-q1-2023-earnings-sales-software-hardware-down-semiconductor-shortage)
+ - [US House Speaker Nancy Pelosi meets with TSMC chairman Mark Liu and others to discuss implementation of the Chips and Science Act during her Taiwan visit &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220803/p6#a220803p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
