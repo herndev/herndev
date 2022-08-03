@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NPD Group: US consumer spending on video game products fell 13% YoY to $12.35B in Q2 2022; non-mobile subscription content was Q2&#39;s only growth category &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220803/p1#a220803p1)
- - [Kids Are Back in Classrooms and Laptops Are Still Spying on Them](https://www.wired.com/story/student-monitoring-software-privacy-in-schools/)
- - [Source: Nick Clegg is partly relocating to London for personal reasons, splitting his time between California and the UK, as Meta embraces remote leadership &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p38#a220802p38)<!-- TECH:END -->
+ - [Semiconductor maker Semtech Corp. to acquire Sierra Wireless in an all-cash deal valuing the Canadian company at $1.2B including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/220803/p2#a220803p2)
+ - [AT&amp;T’s 3G shutdown catches blame for a major election headache in Michigan](https://www.theverge.com/2022/8/3/23289999/att-3g-shutdown-michigan-wayne-county-election-midterms)
+ - [NPD Group: US consumer spending on video game products fell 13% YoY to $12.35B in Q2 2022; non-mobile subscription content was Q2&#39;s only growth category &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220803/p1#a220803p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
