@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
- - [Y Combinator narrows its Summer cohort size by 40%, down from 414 in its Winter cohort, due to the economic downturn and changes to the VC funding environment &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220802/p31#a220802p31)
- - [Court finds a former T-Mobile store owner guilty of hacking T-Mobile staff to access internal tools that he used to make ~$25M by unlocking customers&#39; phones &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220802/p30#a220802p30)<!-- TECH:END -->
+ - [Match Group says Tinder CEO Renate Nyborg to leave after less than a year on the job, reorganizes app&#39;s management team, and kills crypto and metaverse plans &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220802/p33#a220802p33)
+ - [Best Printer for 2022     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
+ - [Chicago-based investment research service Tegus has acquired financial data and analytics startup Canalyst, sources say for between CAD$400M and CAD$500M &lpar;BetaKit&rpar;](http://www.techmeme.com/220802/p32#a220802p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
