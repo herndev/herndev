@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chevy is offering up to $6,000 Bolt rebates — with a big asterisk](https://www.theverge.com/2022/8/2/23289219/chevy-bolt-goodwill-rebate-6000-dollars-barred-lawsuits)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Bitcoin Fog Case Could Put Cryptocurrency Tracing on Trial](https://www.wired.com/story/bitcoin-fog-roman-sterlingov-blockchain-analysis/)<!-- TECH:END -->
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)
+ - [Y Combinator narrows its Summer cohort size by 40%, down from 414 in its Winter cohort, due to the economic downturn and changes to the VC funding environment &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220802/p31#a220802p31)
+ - [Court finds a former T-Mobile store owner guilty of hacking T-Mobile staff to access internal tools that he used to make ~$25M by unlocking customers&#39; phones &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220802/p30#a220802p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
