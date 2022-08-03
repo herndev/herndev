@@ -99,9 +99,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet And Violet&#39;s Fidough Is A Good Boy Everyone&#39;s Already Fallen In Love With](https://kotaku.com/pokemon-scarlet-violet-nintendo-fidough-type-fairy-1849365034)
- - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)
- - [Everybody loves ‘Pooper,’ Pokémon Scarlet and Violet’s new Wooper](https://www.polygon.com/23290359/pokemon-scarlet-violet-wooper-paldea-variant-fan-art-memes)<!-- GAME:END -->
+ - [HeroQuest expansion leans into replayability, giving players more characters to explore](https://www.polygon.com/tabletop-games/23289425/heroquest-expansion-rogue-heir-of-elethorn-announcement-release-date-price)
+ - [Pokémon Scarlet and Violet co-op could change everything](https://www.polygon.com/23290366/pokemon-scarlet-and-violet-co-op-multiplayer-open-world-rpg)
+ - [EA says it thinks single-player games are ‘really, really important,’ despite ample evidence to the contrary](https://www.polygon.com/23290497/ea-ceo-single-player-games-financial-call)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
