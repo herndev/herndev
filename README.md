@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group says Tinder CEO Renate Nyborg to leave after less than a year on the job, reorganizes app&#39;s management team, and kills crypto and metaverse plans &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220802/p33#a220802p33)
- - [Best Printer for 2022     - CNET](https://www.cnet.com/tech/computing/best-printer/#ftag=CAD590a51e)
- - [Chicago-based investment research service Tegus has acquired financial data and analytics startup Canalyst, sources say for between CAD$400M and CAD$500M &lpar;BetaKit&rpar;](http://www.techmeme.com/220802/p32#a220802p32)<!-- TECH:END -->
+ - [Sources: Samsung and SK Hynix rethink their exposure to China following the US Chips and Science Act, which contains qualified &quot;guardrails&quot; against China &lpar;Financial Times&rpar;](http://www.techmeme.com/220802/p35#a220802p35)
+ - [An unknown attacker has been draining Solana and USDC wallets; blockchain audit firm OtterSec says 5K+ Solana wallets have been drained in the past few hours &lpar;Jason Nelson/Decrypt&rpar;](http://www.techmeme.com/220802/p34#a220802p34)
+ - [Microsoft Snubs Activision Games as It Vies for Acquisition Approval     - CNET](https://www.cnet.com/tech/gaming/microsoft-snubs-activision-games-as-it-vies-for-acquisition-approval/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
