@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Most Surveilled Place in America](https://www.theverge.com/c/23203881/border-patrol-wall-surveillance-tech)
- - [Alec Baldwin shouting ‘Patriot Act’ in The Departed: a close reading](https://www.theverge.com/c/23280403/the-departed-patriot-act-alec-baldwin-close-reading)
- - [Fitbit Sense 2: Everything we know and what we want to see &lpar;Updated: August 3&rpar;](https://www.androidauthority.com/fitbit-sense-2-release-date-rumors-specs-price-features-3166399/)<!-- TECH:END -->
+ - [Striking Graphs That Show Humanity’s Domination of the Earth](https://www.wired.com/story/striking-graphs-that-show-humanitys-domination-of-the-earth/)
+ - [The Pigs Died. Then Scientists Revived Their Cells](https://www.wired.com/story/the-pigs-died-then-scientists-revived-their-cells/)
+ - [Google Meet meets Duo Meet, with Meet in Duo but Duo isn’t going into Meet](https://www.theverge.com/2022/8/3/23290225/google-meet-duo-video-calling-messaging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
