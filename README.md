@@ -106,9 +106,9 @@ In Mobile App Development I usually work with Flutter framework.
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford says it delivered the sold-out F-150 Lightning to customers in all 50 states](https://www.theverge.com/2022/8/3/23289378/ford-f150-lightning-delivery-50-states-ev)
- - [Daily Authority: ⚒️ Self-repair your Samsung phones](https://www.androidauthority.com/daily-authority-august-3-2022-3192758/)
- - [Dubai-based buy now, pay later startup Tabby raised $150M in debt from Atalaya Capital and Partners for Growth, bringing its total funding to $275M &lpar;Leen Al-Rashdan/Bloomberg&rpar;](http://www.techmeme.com/220803/p9#a220803p9)<!-- TECH:END -->
+ - [No One Cares About My Framed NFT Art](https://www.wired.com/story/no-one-cares-about-my-framed-nft-art/)
+ - [What Twitter’s Move to Shutter Offices Signals for Big Tech](https://www.wired.com/story/twitter-cuts-spell-trouble-for-big-office-boom/)
+ - [The Endless Afterlife of The Sandman](https://www.wired.com/story/the-sandman-neil-gaiman-netflix/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
