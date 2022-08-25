@@ -39,7 +39,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" />
+<!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
+### 😂 Random Joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
   
 <!--   https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true -->
@@ -203,6 +205,7 @@ Last Updated on 15/05/2022 02:03:30 UTC
 </details>
 
 
+<!-- 
 <details>
   <summary style="font-size: 16px"> 😂 Random Joke</summary>
   
@@ -213,6 +216,7 @@ Last Updated on 15/05/2022 02:03:30 UTC
 ---
 
 </details>
+-->
 
 
 <!-- ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg) -->
