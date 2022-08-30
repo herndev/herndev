@@ -2,7 +2,7 @@
 
 ![snake gif](https://github.com/herndev/herndev/blob/output/github-contribution-grid-snake.svg)
 
-|   Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
+|   Hi there, I'm Hernie <img height="20px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />    |
 | ----------- |
 <!-- ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> -->
 
