@@ -29,7 +29,7 @@
 
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=dark" alt="herndev :: Profile Stats" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
 ### ✉️ Contact Me
 
