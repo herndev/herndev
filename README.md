@@ -27,6 +27,10 @@
 > React JS
 ```
 
+|   DEVELOPMENT    | RANDOM JOKE |
+| ----------- | ----------- |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" /> | <img src="https://readme-jokes.vercel.app/api" /> |
+
 ### ✉️ Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
