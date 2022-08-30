@@ -30,7 +30,7 @@
 
 |   FULL STACK SOFTWARE DEVELOPER    |
 | ----------- |
-| <img src="./img/banner3.png" /> |
+| <img src="./img/banner4.png" /> |
 
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
