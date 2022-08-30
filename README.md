@@ -28,9 +28,9 @@
 > React JS
 ```
 
-|   STREAK    |
+|   FULL STACK SOFTWARE DEVELOPER    |
 | ----------- |
-| <img src="./img/banner2.png" /> |
+| <img src="./img/banner3.png" /> |
 
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
