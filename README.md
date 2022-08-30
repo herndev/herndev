@@ -33,7 +33,7 @@
 
 |   RANDOM JOKE    |
 | ----------- |
-| <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200" width="100%" /> |
+| <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200" width="100vw" /> |
 
 ### ✉️ Contact Me
 
