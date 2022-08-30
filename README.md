@@ -29,7 +29,7 @@
 
 |   DEVELOPMENT    |   RANDOM JOKE    |
 | ----------- | ----------- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" width="100%" /> | <img src="https://readme-jokes.vercel.app/api" width="100%" /> |
+| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" /> |
 
 ### ✉️ Contact Me
 
