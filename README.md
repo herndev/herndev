@@ -6,6 +6,8 @@
 | ----------- |
 <!-- ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> -->
 
+---
+
 <!-- ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> -->
 
 [![Views](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://komarev.com/ghpvc/?username=herndev&label=Profile%20views&color=0e75b6&style=for-the-badge)
