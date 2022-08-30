@@ -34,9 +34,9 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200&textColor=%23ABD200&codeColor=%23ABD200" width="100%" />
 
 
-|   STREAK    |   STATUS    |
-| ----------- | ----------- |
-| <img src="./img/1.gif" height="100px" /> | <img src="./img/4.gif" height="100px" /> |
+<!-- |   STREAK    |   STATUS    |
+| ----------- | ----------- | -->
+<img src="./img/1.gif" width="50%" /><img src="./img/4.gif" width="50%" />
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
 <!-- ### 😂 Random Joke -->
