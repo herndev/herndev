@@ -6,7 +6,7 @@
 | ----------- |
 <!-- ### Hi there, I'm Hernie <img height="30px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" /> -->
 
----
+<br />
 
 <!-- ## Full Stack Software Developer <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> -->
 
