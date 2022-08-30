@@ -30,6 +30,7 @@
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
+<img src="https://readme-jokes.vercel.app/api?hideBorder" width="100%" />
 
 ### ✉️ Contact Me
 
@@ -44,8 +45,7 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
-### 😂 Random Joke
-<img src="https://readme-jokes.vercel.app/api" width="100%" />
+<!-- ### 😂 Random Joke -->
 <!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
   
