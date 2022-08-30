@@ -45,7 +45,8 @@
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
 ### 😂 Random Joke
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" width="100%" />
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api) -->
 
   
 <!--   https://spotify-github-profile.vercel.app/api/view?uid=qavoimqmh9k7ne4br5vn6nqrr&redirect=true -->
