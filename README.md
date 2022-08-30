@@ -28,6 +28,10 @@
 > React JS
 ```
 
+|   STREAK    |
+| ----------- |
+| <img src="./img/banner2.png" /> |
+
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
