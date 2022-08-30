@@ -30,21 +30,20 @@
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
-
-|   RANDOM JOKE    |
-| ----------- |
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200" width="100%" />
 
-### ✉️ Contact Me
-
+<!-- ### ✉️ Contact Me -->
+|   CONTACT ME    |
+| ----------- |
 [![Gmail](https://img.shields.io/badge/Gmail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herniejabien45@gmail.com)
 [![FB](https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/dota500)
 [![Twitter](https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/herndev)
 [![Instagram](https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hern.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hernie-jabien-6694aa155)
 
-### ❤ Support Me
-
+<!-- ### ❤ Support Me -->
+|   SUPPORT ME    |
+| ----------- |
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O6APHKJ)
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
