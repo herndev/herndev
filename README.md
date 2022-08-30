@@ -22,7 +22,7 @@
 
 |   #DEVELOPMENT #DESIGN    |
 | ----------- |
-> Flutter
+>> Flutter
 
 > Laravel
 
@@ -35,7 +35,7 @@
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
-<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200" width="100%" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&textColor=%23ABD200" width="100%" />
 
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
