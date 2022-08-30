@@ -36,7 +36,7 @@
 
 |   STREAK    |   STATUS    |
 | ----------- | ----------- |
-| <img src="./img/1.gif" /> | <img src="./img/4.gif" /> |
+| <img src="./img/1.gif" height="100px" /> | <img src="./img/4.gif" height="100px" /> |
 
 <!-- img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=dark" / -->
 <!-- ### 😂 Random Joke -->
