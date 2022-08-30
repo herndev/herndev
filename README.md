@@ -20,13 +20,16 @@
 
 <br /> -->
 
-```
-#DEVELOPMENT #DESIGN
-```
+|   #DEVELOPMENT #DESIGN    |
+| ----------- |
 > Flutter
+
 > Laravel
+
 > Wordpress
+
 > React JS
+
 <br />
 
 |   STREAK    |   STATUS    |
