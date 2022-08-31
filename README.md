@@ -63,7 +63,12 @@ In Mobile App Development I usually work with Flutter framework.
 
 </details> -->
 
-<details>
+
+<!-- #################### -->
+<!-- BEGIN UNCOMMENT HERE -->
+<!-- #################### -->
+
+<!-- <details>
   <summary style="font-size: 16px"> ℹ️ Tech Tools & Workspace</summary>
 
 ---
@@ -87,35 +92,36 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary style="font-size: 16px"> 💻 Tech Updates & Memes</summary>
 
 ---
 
-### 🎮 Game news for the hour
+### 🎮 Game news for the hour -->
 
 <!-- GAME:START -->
- - [HeroQuest expansion leans into replayability, giving players more characters to explore](https://www.polygon.com/tabletop-games/23289425/heroquest-expansion-rogue-heir-of-elethorn-announcement-release-date-price)
+ <!-- - [HeroQuest expansion leans into replayability, giving players more characters to explore](https://www.polygon.com/tabletop-games/23289425/heroquest-expansion-rogue-heir-of-elethorn-announcement-release-date-price)
  - [Pokémon Scarlet and Violet co-op could change everything](https://www.polygon.com/23290366/pokemon-scarlet-and-violet-co-op-multiplayer-open-world-rpg)
  - [EA says it thinks single-player games are ‘really, really important,’ despite ample evidence to the contrary](https://www.polygon.com/23290497/ea-ceo-single-player-games-financial-call)<!-- GAME:END -->
 
-### 💻 Tech news for the hour
+<!-- ### 💻 Tech news for the hour -->
 
 <!-- TECH:START -->
- - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)
+ <!-- - [Wemo Smart Dimmer with Thread announced at CES now available to order](https://appleinsider.com/articles/22/08/03/wemo-smart-dimmer-with-thread-announced-at-ces-now-available-to-order?utm_medium=rss)
  - [Wemo’s new Smart Dimmer works with Thread and HomeKit, but not Matter](https://www.theverge.com/2022/8/3/23290273/wemo-smart-dimmer-switch-thread-apple-homekit-price-specs)
  - [OnePlus 10T review, unveiled today for $649: Snapdragon 8+ Gen 1 and wired charging are fast, but water resistance is weak and the 2MP macro camera is pointless &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/220803/p24#a220803p24)<!-- TECH:END -->
 
-### 😂 Memes of the hour
+<!-- ### 😂 Memes of the hour -->
 
 <!-- MEMES:START -->
- - 💣 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
+ <!-- - 💣 [Jack of all trades](http://9gag.com/gag/aBnA4VZ)
  - ⏩ [Hold my beer](http://9gag.com/gag/aLvZrrV)
- - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK)<!-- MEMES:END -->
+ - 👉 [Pooping Cat Contest \ud83d\udc31](http://9gag.com/gag/aggDrYK) -->
+ <!-- MEMES:END -->
 
----
+<!-- ---
 
 </details>
 
@@ -124,7 +130,7 @@ In Mobile App Development I usually work with Flutter framework.
 
 ---
 
-<p align="left">
+<p align="left"> -->
 <!-- <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
 <img height="170px" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true" alt="herndev :: Profile Stats" /> -->
 </p>
@@ -132,7 +138,7 @@ In Mobile App Development I usually work with Flutter framework.
 <!--START_SECTION:waka-->
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤**
 
@@ -181,25 +187,29 @@ Linux                    21 hrs 15 mins      ███████████�
 
 ![Chart not found](https://raw.githubusercontent.com/herndev/herndev/main/charts/bar_graph.png)
 
-Last Updated on 15/05/2022 02:03:30 UTC
+Last Updated on 15/05/2022 02:03:30 UTC -->
 
 <!--END_SECTION:waka-->
 
-### ⚡️ Recent Activity
+<!-- ### ⚡️ Recent Activity -->
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/kodoooo/.github/pull/2) in [kodoooo/.github](https://github.com/kodoooo/.github)
+<!-- 1. 🎉 Merged PR [#2](https://github.com/kodoooo/.github/pull/2) in [kodoooo/.github](https://github.com/kodoooo/.github)
 2. 💪 Opened PR [#2](https://github.com/kodoooo/.github/pull/2) in [kodoooo/.github](https://github.com/kodoooo/.github)
 3. 🎉 Merged PR [#1](https://github.com/kodoooo/.github/pull/1) in [kodoooo/.github](https://github.com/kodoooo/.github)
 4. 💪 Opened PR [#1](https://github.com/kodoooo/.github/pull/1) in [kodoooo/.github](https://github.com/kodoooo/.github)
-5. ❗️ Opened issue [#1913](https://github.com/marcizhu/marcizhu/issues/1913) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
+5. ❗️ Opened issue [#1913](https://github.com/marcizhu/marcizhu/issues/1913) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu) -->
 <!--END_SECTION:activity-->
 
----
+<!-- ---
 
-</details>
+</details> -->
 
+
+<!-- #################### -->
+<!-- END UNCOMMENT HERE -->
+<!-- #################### -->
 
 <!-- 
 <details>
