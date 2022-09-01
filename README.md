@@ -19,6 +19,6 @@
 
 |   RANDOM JOKE    |
 | ----------- |
-<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%23ABD200&aColor=%23ABD200&textColor=%23ABD200&codeColor=%23ABD200&bgColor=%23000" width="100%" />
+<img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%234C8563&aColor=%23ABD200&textColor=%23ABD200&codeColor=%23ABD200&bgColor=%23000" width="100%" />
  
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
