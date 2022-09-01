@@ -25,9 +25,9 @@
 |   FULL STACK SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |
 | ----------- |
 | <img src="./img/banner.png" /> |
-| ----------- |
-<!-- |   STREAK    |   STATUS    |
-| ----------- | ----------- | -->
+
+|   STREAK    |   STATUS    |
+| ----------- | ----------- |
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
 |   RANDOM JOKE    |
