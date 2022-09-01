@@ -26,8 +26,8 @@
 | ----------- |
 | <img src="./img/banner.png" /> |
 | ----------- |
-|   STREAK    |   STATUS    |
-| ----------- | ----------- |
+<!-- |   STREAK    |   STATUS    |
+| ----------- | ----------- | -->
 | <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
 |   RANDOM JOKE    |
