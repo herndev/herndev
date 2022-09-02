@@ -13,7 +13,7 @@
 | ----------- |
 | <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" /> |
 
-|   FULL STACK SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>    |
+|   FULL STACK SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="20" height="20"/>    |
 | ----------- | ----------- |
 | <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
