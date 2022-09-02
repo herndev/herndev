@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)
- - ⏩ [Picked up today 13 kg of garbage. Total is 1488 kg. Some people hate me for daily updates, some people love. I love you all no matter you love me or hate. Hope we clean nature. Your cleaning Guy.](http://9gag.com/gag/a31oG1r)
- - 👉 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)<!-- MEMES:END -->
+ - 💣 [The soul](http://9gag.com/gag/aKmbGYg)
+ - ⏩ [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)
+ - 👉 [MCU going strong](http://9gag.com/gag/aKmbG8Z)<!-- MEMES:END -->
 
 ---
 
