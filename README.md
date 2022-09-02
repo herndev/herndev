@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap microphone for streaming and gaming](https://www.pcgamer.com/best-budget-microphone)
- - [Gizmo and Stripe are coming to Multiversus and are &quot;two separate characters&quot;](https://www.pcgamer.com/gizmo-and-stripe-are-coming-to-multiversus-and-are-two-separate-characters)
- - [Share of the Week: Duality](https://blog.playstation.com/2022/09/02/share-of-the-week-duality/)<!-- GAME:END -->
+ - [Take a Stand or Strike a Pose – JoJo’s Bizarre Adventure: All-Star Battle R is Out Now](https://news.xbox.com/en-us/2022/09/02/jojos-bizarre-adventure-all-star-battle-out-now/)
+ - [Is Ninja&#39;s dramatic &#39;break from Twitch&#39; just a setup?](https://www.pcgamer.com/is-ninjas-dramatic-break-from-twitch-just-a-setup)
+ - [The return of the &#39;90s: That game you love is coming back](https://www.pcgamer.com/the-return-of-the-90s-that-game-you-love-is-coming-back)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
