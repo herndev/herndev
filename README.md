@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bankruptcy filing: Celsius says it expects ~$70M of &quot;proceeds from the repayment of USD denominated loans&quot;, which could help it operate through the end of 2022 &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220902/p21#a220902p21)
- - [Apple&#39;s M1 Max MacBook Pro 16-inch is $300 off with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/22/09/02/apples-m1-max-macbook-pro-16-inch-is-300-off-with-64gb-ram-2tb-ssd?utm_medium=rss)
- - [Google put Parler’s app back in the Play Store](https://www.theverge.com/2022/9/2/23334794/google-reinstates-parler-play-store-moderation)<!-- TECH:END -->
+ - [Sources: Biden considers EOs to limit US investments in China, collection of US citizens&#39; data by Chinese companies, and selling of US tech to Chinese customers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/220902/p22#a220902p22)
+ - [Facebook Parent Meta Aims to Fuel VR Ambitions With Latest Acquisition     - CNET](https://www.cnet.com/tech/gaming/facebook-parent-meta-aims-to-fuel-vr-ambitions-with-latest-acquisition/#ftag=CAD590a51e)
+ - [&#39;Rings of Power&#39; Middle-Earth Map a Handy &#39;Lord of the Rings&#39; Travel Guide     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-middle-earth-map-is-a-handy-lord-of-the-rings-travel-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
