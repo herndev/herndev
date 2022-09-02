@@ -11,11 +11,11 @@
 
 |   FULL STACK SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |
 | ----------- |
-| <img src="./img/banner.png" /> |
+| <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" /> |
 
 |   STATUS    |   CONTRIBUTIONS    |
 | ----------- | ----------- |
-| <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> | <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" height="200px" /> |
+| <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
 |   RANDOM JOKE    |
 | ----------- |
