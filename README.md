@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello](http://9gag.com/gag/aWgV4md)
- - ⏩ [The reaction, grief and questions of the family just hit different. So guys, if you are having dark thoughts please talk to someone. You have no idea what you to to the ones left behind.](http://9gag.com/gag/avAbAjZ)
- - 👉 [Must&#39;ve been holy water](http://9gag.com/gag/aogBKK2)<!-- MEMES:END -->
+ - 💣 [Told my married &lpar;female&rpar; friend, who is like a sister to me, that I finally found a girl who really likes me. She got mad, ended our relationship and blocked me...](http://9gag.com/gag/aegXgmW)
+ - ⏩ [Hello](http://9gag.com/gag/aWgV4md)
+ - 👉 [People in Naples, Italy burn their energy bills and block the town hall: `We don&#39;t pay the bills! Now it will be chaos!`](http://9gag.com/gag/axBpyKp)<!-- MEMES:END -->
 
 ---
 
