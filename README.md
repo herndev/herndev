@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Told my married &lpar;female&rpar; friend, who is like a sister to me, that I finally found a girl who really likes me. She got mad, ended our relationship and blocked me...](http://9gag.com/gag/aegXgmW)
+ - 💣 [That&#39;s just how it is.](http://9gag.com/gag/adg3vK2)
  - ⏩ [Hello](http://9gag.com/gag/aWgV4md)
- - 👉 [People in Naples, Italy burn their energy bills and block the town hall: `We don&#39;t pay the bills! Now it will be chaos!`](http://9gag.com/gag/axBpyKp)<!-- MEMES:END -->
+ - 👉 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)<!-- MEMES:END -->
 
 ---
 
