@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail how Twitter&#39;s health team, tasked with fostering civil conversations, went from 15 full-time staffers down to two amid the Musk acquisition chaos &lpar;The Verge&rpar;](http://www.techmeme.com/220902/p16#a220902p16)
- - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
- - [Twitter had a new plan to fight extremism — then Elon arrived](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)<!-- TECH:END -->
+ - [Withings Body Comp scale and Health Plus promises to help you break bad habits](https://www.androidauthority.com/withings-body-comp-scale-3204388/)
+ - [Samsung says some customer data, including names, contact info, and product registration info, was compromised in a breach of its US systems in late July &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p17#a220902p17)
+ - [Samsung hack in July 2022 led to customer data theft](https://appleinsider.com/articles/22/09/02/samsung-hack-in-july-2022-led-to-customer-data-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
