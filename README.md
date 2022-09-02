@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft will keep Call of Duty on PlayStation for ‘several more years’ beyond existing deal](https://www.theverge.com/2022/9/2/23334619/microsoft-sony-call-of-duty-playstation-letter-commitment-activision-blizzard)
- - [Customer Information Stolen in Samsung Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/customer-information-stolen-in-samsung-data-breach/#ftag=CAD590a51e)
- - [iPhone 14 Launch: What We Expect at Apple&#39;s Sept. 7 Event     - CNET](https://www.cnet.com/tech/mobile/iphone-14-launch-what-we-expect-at-apples-sept-7-event/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Snap&#39;s decision to close Zenly, popular in Europe and Asia with a claimed ~35M MAUs earlier in 2022, to &quot;focus on Snap Map&quot;, which has 300M+ MAUs &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p20#a220902p20)
+ - [The best Verizon deals: Save up to $1,000 on the Z Fold 4 or Z Flip 4](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [&#39;Top Gun: Maverick&#39; Review: Smash Hit Tom Cruise Sequel on Digital Now     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-smash-hit-tom-cruise-sequel-on-digital-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
