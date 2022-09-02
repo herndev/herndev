@@ -35,7 +35,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
-<!-- TECH:END -->
+ - [Sources detail how Twitter&#39;s health team, tasked with fostering civil conversations, went from 15 full-time staffers down to two amid the Musk acquisition chaos &lpar;The Verge&rpar;](http://www.techmeme.com/220902/p16#a220902p16)
+ - [The Verge’s 2022 back-to-school gift guide](https://www.theverge.com/23199281/back-to-school-student-gift-ideas-college-high-school-dorm-supplies-tech-2022)
+ - [Twitter had a new plan to fight extremism — then Elon arrived](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
