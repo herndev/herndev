@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Gearbox designed New Tales from the Borderlands as a spiritual successor](https://blog.playstation.com/2022/09/02/how-gearbox-designed-new-tales-from-the-borderlands-as-a-spiritual-successor/)
- - [Microsoft Lets Sony Have ‘Several More Years’ Of Call Of Duty, As A Treat](https://kotaku.com/call-of-duty-microsoft-xbox-sony-playstation-exclusive-1849492532)
- - [One of our most anticipated games since 2020 is about to enter early access](https://www.pcgamer.com/one-of-our-most-anticipated-games-since-2020-is-about-to-enter-early-access)<!-- GAME:END -->
+ - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)
+ - [Elvis, Jurassic World Dominion, and every other new movie you can stream from home this weekend](https://www.polygon.com/23326758/new-movies-watch-elvis-hbo-jurassic-world-dominion-netflix-i-came-by)
+ - [Everyone is using their Steam Deck like a better Nintendo Switch](https://www.pcgamer.com/everyone-is-using-their-steam-deck-like-a-better-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
