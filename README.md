@@ -42,7 +42,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
-<!-- MEMES:END -->
+ - 💣 [Sometime Nature isn&#39;t quite supportive](http://9gag.com/gag/aDDBYdO)
+ - ⏩ [Dad: I don&#39;t want any animals in my house! , the family decides to have a cat anyways, the Dad 3 days later with the cat:](http://9gag.com/gag/aAGnGnL)
+ - 👉 [Must&#39;ve been holy water](http://9gag.com/gag/aogBKK2)<!-- MEMES:END -->
 
 ---
 
