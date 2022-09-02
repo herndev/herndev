@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splitgate dev is leaving &#39;Halo with portals&#39; behind to make its next shooter](https://www.pcgamer.com/splitgate-dev-is-leaving-halo-with-portals-behind-to-make-its-next-shooter)
- - [The first episodes of The Rings of Power have a real &#39;unskippable cutscene&#39; vibe](https://www.pcgamer.com/the-first-episodes-of-the-rings-of-power-have-a-real-unskippable-cutscene-vibe)
- - [Steam Bans Scammers After Dev Reveals Potential Shady Game Reselling](https://kotaku.com/steam-ban-scammers-curators-brok-cowcat-scam-1849491621)<!-- GAME:END -->
+ - [How Gearbox designed New Tales from the Borderlands as a spiritual successor](https://blog.playstation.com/2022/09/02/how-gearbox-designed-new-tales-from-the-borderlands-as-a-spiritual-successor/)
+ - [Microsoft Lets Sony Have ‘Several More Years’ Of Call Of Duty, As A Treat](https://kotaku.com/call-of-duty-microsoft-xbox-sony-playstation-exclusive-1849492532)
+ - [One of our most anticipated games since 2020 is about to enter early access](https://www.pcgamer.com/one-of-our-most-anticipated-games-since-2020-is-about-to-enter-early-access)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
