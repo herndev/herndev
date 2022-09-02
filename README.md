@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s just how it is.](http://9gag.com/gag/adg3vK2)
- - ⏩ [Hello](http://9gag.com/gag/aWgV4md)
- - 👉 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)<!-- MEMES:END -->
+ - 💣 [South of Brasil they have `A festa da Tainha` , which consists in trapping all the female fish coming to spawn in the lagoons . It&#39;s celebrated instead of punish , since is a yearly tradition to kill as much as you can , not realizing they&#39;re bringing the Tainha to extinction.](http://9gag.com/gag/apge9WB)
+ - ⏩ [Picked up today 13 kg of garbage. Total is 1488 kg. Some people hate me for daily updates, some people love. I love you all no matter you love me or hate. Hope we clean nature. Your cleaning Guy.](http://9gag.com/gag/a31oG1r)
+ - 👉 [Kaval Sviri - bulgarian folk song. Ghost in the shell vibes.](http://9gag.com/gag/avAbQNq)<!-- MEMES:END -->
 
 ---
 
