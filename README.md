@@ -21,5 +21,3 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000" width="100%" />
  
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-
-<!-- https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko -->
