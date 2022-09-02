@@ -21,3 +21,53 @@
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000" width="100%" />
  
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+
+<details>
+  <summary style="font-size: 16px"> 💻 Tech Updates & Memes</summary>
+
+---
+
+### 🎮 Game news for the hour
+
+<!-- GAME:START -->
+<!-- GAME:END -->
+
+### 💻 Tech news for the hour
+
+<!-- TECH:START -->
+<!-- TECH:END -->
+
+### 😂 Memes of the hour
+
+<!-- MEMES:START -->
+<!-- MEMES:END -->
+
+---
+
+</details>
+
+
+<details>
+  <summary style="font-size: 16px"> 📈 Github Status</summary>
+
+---
+
+<p align="left">
+<!-- <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herndev&langs_count=10&layout=compact" alt="herndev :: Top Langs" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true" alt="herndev :: Profile Stats" /> -->
+</p>
+
+<!--START_SECTION:waka-->
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue) -->
+
+
+<!--END_SECTION:waka-->
+
+### ⚡️ Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+</details>
