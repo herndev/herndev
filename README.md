@@ -37,8 +37,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Withings Body Comp scale and Health Plus promises to help you break bad habits](https://www.androidauthority.com/withings-body-comp-scale-3204388/)
- - [Samsung says some customer data, including names, contact info, and product registration info, was compromised in a breach of its US systems in late July &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p17#a220902p17)
+ - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [The Apple Car is highly rated by possible buyers before it exists](https://appleinsider.com/articles/22/09/02/the-apple-car-is-highly-rated-by-possible-buyers-before-it-exists?utm_medium=rss)
  - [Samsung hack in July 2022 led to customer data theft](https://appleinsider.com/articles/22/09/02/samsung-hack-in-july-2022-led-to-customer-data-theft?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
