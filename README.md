@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take a Stand or Strike a Pose – JoJo’s Bizarre Adventure: All-Star Battle R is Out Now](https://news.xbox.com/en-us/2022/09/02/jojos-bizarre-adventure-all-star-battle-out-now/)
- - [Is Ninja&#39;s dramatic &#39;break from Twitch&#39; just a setup?](https://www.pcgamer.com/is-ninjas-dramatic-break-from-twitch-just-a-setup)
- - [The return of the &#39;90s: That game you love is coming back](https://www.pcgamer.com/the-return-of-the-90s-that-game-you-love-is-coming-back)<!-- GAME:END -->
+ - [Human uses AI to win art competition—other humans angry](https://www.pcgamer.com/human-uses-ai-to-win-art-competition-other-humans-angry)
+ - [Start saving up now for the 800-page Elden Ring art books](https://www.pcgamer.com/start-saving-up-now-for-the-800-page-elden-ring-art-books)
+ - [Take a Stand or Strike a Pose – JoJo’s Bizarre Adventure: All-Star Battle R is Out Now](https://news.xbox.com/en-us/2022/09/02/jojos-bizarre-adventure-all-star-battle-out-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
