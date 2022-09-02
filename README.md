@@ -12,7 +12,7 @@
 | ----------- | ----------- |
 | <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
 
-|   CONTRIBUTION GRAPH <img src="https://cultofthepartyparrot.com/parrots/deployparrot.gif" width="25" height="25"/>     |
+|   CONTRIBUTION GRAPH <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="25" height="25"/>     |
 | ----------- |
 | <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" /> |
 
