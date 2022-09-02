@@ -13,12 +13,14 @@
 | ----------- |
 | <img src="./img/banner.png" /> |
 
-|   STREAK    |   STATUS    |
+|   STATUS    |   CONTRIBUTIONS    |
 | ----------- | ----------- |
-| <img src="https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> | <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" height="200px" /> |
 
 |   RANDOM JOKE    |
 | ----------- |
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000" width="100%" />
  
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=herndev&theme=merko -->
