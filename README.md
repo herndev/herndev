@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Human uses AI to win art competition—other humans angry](https://www.pcgamer.com/human-uses-ai-to-win-art-competition-other-humans-angry)
- - [Start saving up now for the 800-page Elden Ring art books](https://www.pcgamer.com/start-saving-up-now-for-the-800-page-elden-ring-art-books)
- - [Take a Stand or Strike a Pose – JoJo’s Bizarre Adventure: All-Star Battle R is Out Now](https://news.xbox.com/en-us/2022/09/02/jojos-bizarre-adventure-all-star-battle-out-now/)<!-- GAME:END -->
+ - [Amid Criticism, Wizards Of The Coast Quietly Removes Racist Lore From Dungeons &amp; Dragons](https://kotaku.com/dnd-dungeons-dragons-spelljammer-hadozee-wizards-coast-1849491335)
+ - [Official PlayStation Podcast Episode 438: Precious Platinum](https://blog.playstation.com/2022/09/02/official-playstation-podcast-episode-438-precious-platinum/)
+ - [Gord is a fascinating knot of complex survival systems and Slavic lore](https://www.polygon.com/23333178/gord-preview-survival-adventure-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
