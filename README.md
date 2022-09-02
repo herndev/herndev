@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/02/this-week-on-xbox-new-games-upcoming-releases-and-updates-2/)
- - [Genshin Impact Shakes Up The JRPG Formula With Its NPCs](https://kotaku.com/genshin-impact-sumeru-dunyarzad-3-0-npc-playable-vision-1849491938)
- - [Before You Start: Five Settings To Change In The Last Of Us Part I](https://kotaku.com/the-last-of-us-part-one-ps5-settings-accessibility-1849491523)<!-- GAME:END -->
+ - [Splitgate dev is leaving &#39;Halo with portals&#39; behind to make its next shooter](https://www.pcgamer.com/splitgate-dev-is-leaving-halo-with-portals-behind-to-make-its-next-shooter)
+ - [The first episodes of The Rings of Power have a real &#39;unskippable cutscene&#39; vibe](https://www.pcgamer.com/the-first-episodes-of-the-rings-of-power-have-a-real-unskippable-cutscene-vibe)
+ - [Steam Bans Scammers After Dev Reveals Potential Shady Game Reselling](https://kotaku.com/steam-ban-scammers-curators-brok-cowcat-scam-1849491621)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
