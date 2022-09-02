@@ -45,8 +45,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ohhh look... another one of those posts](http://9gag.com/gag/a114meR)
- - ⏩ [No, seriously. What the actual f***?!](http://9gag.com/gag/aPZOgbQ)
- - 👉 [MCU going strong](http://9gag.com/gag/aKmbG8Z)<!-- MEMES:END -->
+ - ⏩ [A finalist of Miss England finalist has become the first contestant to compete without wearing any makeup in the pageant&#39;s 94 years of history.](http://9gag.com/gag/aegX4rB)
+ - 👉 [Someone give her a medal...](http://9gag.com/gag/a1147zY)<!-- MEMES:END -->
 
 ---
 
