@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [The Apple Car is highly rated by possible buyers before it exists](https://appleinsider.com/articles/22/09/02/the-apple-car-is-highly-rated-by-possible-buyers-before-it-exists?utm_medium=rss)
- - [Samsung hack in July 2022 led to customer data theft](https://appleinsider.com/articles/22/09/02/samsung-hack-in-july-2022-led-to-customer-data-theft?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft will keep Call of Duty on PlayStation for ‘several more years’ beyond existing deal](https://www.theverge.com/2022/9/2/23334619/microsoft-sony-call-of-duty-playstation-letter-commitment-activision-blizzard)
+ - [Customer Information Stolen in Samsung Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/customer-information-stolen-in-samsung-data-breach/#ftag=CAD590a51e)
+ - [iPhone 14 Launch: What We Expect at Apple&#39;s Sept. 7 Event     - CNET](https://www.cnet.com/tech/mobile/iphone-14-launch-what-we-expect-at-apples-sept-7-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
