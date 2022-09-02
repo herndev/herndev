@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Snap&#39;s decision to close Zenly, popular in Europe and Asia with a claimed ~35M MAUs earlier in 2022, to &quot;focus on Snap Map&quot;, which has 300M+ MAUs &lpar;TechCrunch&rpar;](http://www.techmeme.com/220902/p20#a220902p20)
- - [The best Verizon deals: Save up to $1,000 on the Z Fold 4 or Z Flip 4](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [&#39;Top Gun: Maverick&#39; Review: Smash Hit Tom Cruise Sequel on Digital Now     - CNET](https://www.cnet.com/culture/entertainment/top-gun-maverick-review-smash-hit-tom-cruise-sequel-on-digital-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bankruptcy filing: Celsius says it expects ~$70M of &quot;proceeds from the repayment of USD denominated loans&quot;, which could help it operate through the end of 2022 &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220902/p21#a220902p21)
+ - [Apple&#39;s M1 Max MacBook Pro 16-inch is $300 off with 64GB RAM, 2TB SSD](https://appleinsider.com/articles/22/09/02/apples-m1-max-macbook-pro-16-inch-is-300-off-with-64gb-ram-2tb-ssd?utm_medium=rss)
+ - [Google put Parler’s app back in the Play Store](https://www.theverge.com/2022/9/2/23334794/google-reinstates-parler-play-store-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
