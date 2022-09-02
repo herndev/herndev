@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Biden considers EOs to limit US investments in China, collection of US citizens&#39; data by Chinese companies, and selling of US tech to Chinese customers &lpar;Reed Albergotti/Semafor&rpar;](http://www.techmeme.com/220902/p22#a220902p22)
- - [Facebook Parent Meta Aims to Fuel VR Ambitions With Latest Acquisition     - CNET](https://www.cnet.com/tech/gaming/facebook-parent-meta-aims-to-fuel-vr-ambitions-with-latest-acquisition/#ftag=CAD590a51e)
- - [&#39;Rings of Power&#39; Middle-Earth Map a Handy &#39;Lord of the Rings&#39; Travel Guide     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-middle-earth-map-is-a-handy-lord-of-the-rings-travel-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s chip deal with Qualcomm may reflect its unrealized VR ambitions](https://www.theverge.com/2022/9/2/23334656/meta-qualcomm-quest-vr-ar-snapdragon-xr-custom-chips)
+ - [UppaBaby Stroller Recalled After Child&#39;s Fingertip Amputated by Brake Disc     - CNET](https://www.cnet.com/health/uppababy-stroller-recalled-after-childs-fingertip-amputated-by-brake-disc/#ftag=CAD590a51e)
+ - [Deals: Save big on Peacock, Paramount Plus, and HBO Max subscriptions](https://www.androidauthority.com/peacock-paramount-plus-hbo-max-deals-3204648/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
