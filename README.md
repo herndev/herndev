@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India&#39;s Enforcement Directorate searched the offices of Paytm, Razorpay, and Cashfree on Friday as part of an investigation into fraudulent Chinese loan apps &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220903/p6#a220903p6)
- - [Always-on iPhone 14 Pro display will feature most lock screen elements](https://appleinsider.com/articles/22/09/03/always-on-iphone-14-pro-display-will-feature-most-lock-screen-elements?utm_medium=rss)
- - [NFL 2022: How to Watch the Bills vs. Rams on Thursday Night     - CNET](https://www.cnet.com/tech/services-and-software/nfl-2022-how-to-watch-the-bills-vs-rams-on-thursday-night/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [These 9 Banks Have Eliminated or Reduced Overdraft Fees     - CNET](https://www.cnet.com/personal-finance/banking/these-banks-have-eliminated-or-reduced-overdraft-fees/#ftag=CAD590a51e)
+ - [Prime Video: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-33-absolute-best-tv-shows-to-stream-this-weekend/#ftag=CAD590a51e)
+ - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-movies-you-can-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
