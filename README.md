@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Co-op survival game Core Keeper is getting two new biomes and a boss](https://www.pcgamer.com/co-op-survival-game-core-keeper-is-getting-two-new-biomes-and-a-boss)
- - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)
- - [Elvis, Jurassic World Dominion, and every other new movie you can stream from home this weekend](https://www.polygon.com/23326758/new-movies-watch-elvis-hbo-jurassic-world-dominion-netflix-i-came-by)<!-- GAME:END -->
+ - [Warner Bros.  Discovery Stock is a buy, but not for the reason you think](https://game-rant-2022.blogspot.com/2022/09/warner-bros-discovery-stock-is-buy-but.html)
+ - [5 Underrated Japanese Science Fiction Movies](https://game-rant-2022.blogspot.com/2022/09/5-underrated-japanese-science-fiction.html)
+ - [Asus Zenbook 17 Fold OLED hands-on review: not &lpar;yet&rpar; the future](https://game-rant-2022.blogspot.com/2022/09/asus-zenbook-17-fold-oled-hands-on.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
