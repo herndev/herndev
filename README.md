@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How can I stream Switch without a Capture Card? [SOLVED]](https://game-rant-2022.blogspot.com/2022/09/how-can-i-stream-switch-without-capture.html)
- - [I&#39;m strangely excited to play Halo Infinite again - and that&#39;s thanks to a follow-up novel](https://game-rant-2022.blogspot.com/2022/09/im-strangely-excited-to-play-halo.html)
- - [Review - Gerda: A flame in winter](https://game-rant-2022.blogspot.com/2022/09/review-gerda-flame-in-winter.html)<!-- GAME:END -->
+ - [Tolkien’s elf/human relationships may not bad as The Rings of Power suggests](https://www.polygon.com/23331596/lord-rings-power-arondir-bronwyn-elf-human-romance)
+ - [Nokia x Sustainability: X30, G60 and new subscription service unveiled](https://game-rant-2022.blogspot.com/2022/09/nokia-x-sustainability-x30-g60-and-new.html)
+ - [How Grafaiai can be connected to Smeargle](https://game-rant-2022.blogspot.com/2022/09/how-grafaiai-can-be-connected-to.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
