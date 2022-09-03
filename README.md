@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moscow traffic chaos caused by ride-hailing app hack](https://appleinsider.com/articles/22/09/03/moscow-traffic-chaos-caused-by-ride-hailing-app-hack?utm_medium=rss)
- - [Allstate Car Insurance Review for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/allstate-auto-insurance-review/#ftag=CAD590a51e)
- - [NASA&#39;s Artemis I: What to Know About the Massive Moon Mission     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-what-to-know-about-the-massive-moon-mission/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cloudflare says it has blocked Kiwi Farms, citing &quot;an unprecedented emergency and immediate threat to human life&quot; after a recent rise in targeted threats &lpar;Washington Post&rpar;](http://www.techmeme.com/220903/p11#a220903p11)
+ - [Travelers Car Insurance Review for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/travelers-car-insurance-review/#ftag=CAD590a51e)
+ - [Stream Your Favorite Live TV Channels With This Top 100 Guide     - CNET](https://www.cnet.com/tech/services-and-software/stream-favorite-live-tv-channels-top-100-guide/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
