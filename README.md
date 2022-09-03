@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Termite Queen](http://9gag.com/gag/angAx5z)
- - ⏩ [Nice neighbours you got there](http://9gag.com/gag/aWgVoAx)
- - 👉 [Whenever you feel dumb](http://9gag.com/gag/ay9yWyp)<!-- MEMES:END -->
+ - 💣 [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
+ - ⏩ [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
+ - 👉 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)<!-- MEMES:END -->
 
 ---
 
