@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The purest thing I&#39;ve seen all day](http://9gag.com/gag/aBnDLbA)
- - ⏩ [Ninja cat](http://9gag.com/gag/a31oAx3)
- - 👉 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)<!-- MEMES:END -->
+ - 💣 [Probably the best meme I&#39;ve seen this far regarding the Rings of Power.](http://9gag.com/gag/axBpvEn)
+ - ⏩ [And turning down the volume.](http://9gag.com/gag/a1140Y2)
+ - 👉 [Miss England Finalist Makes History By Competing Without Makeup](http://9gag.com/gag/a41MPQm)<!-- MEMES:END -->
 
 ---
 
