@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 10 Best Versions of Tetris, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/the-10-best-versions-of-tetris.html)
  - [How To Get The Latest Attacker Mew For Free](https://game-rant-2022.blogspot.com/2022/09/how-to-get-latest-attacker-mew-for-free.html)
- - [Shack Chat: What&#39;s your favorite Teenage Mutant Ninja Turtles game?](https://game-rant-2022.blogspot.com/2022/09/shack-chat-whats-your-favorite-teenage.html)
- - [The supernatural light novels that inspired the Monogatari series](https://game-rant-2022.blogspot.com/2022/09/the-supernatural-light-novels-that.html)<!-- GAME:END -->
+ - [Shack Chat: What&#39;s your favorite Teenage Mutant Ninja Turtles game?](https://game-rant-2022.blogspot.com/2022/09/shack-chat-whats-your-favorite-teenage.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
