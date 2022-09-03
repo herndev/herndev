@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Kiwi Farms, a forum owned and operated by former 8chan admin Josh Moon, that has become synonymous with doxxing, swatting, and harassment campaigns &lpar;NBC News&rpar;](http://www.techmeme.com/220903/p9#a220903p9)
- - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch/#ftag=CAD590a51e)
- - [Should You Buy an Apple Watch Over Labor Day Weekend? It&#39;s Complicated     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-an-apple-watch-over-labor-day-weekend-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A source details the behavior of iPhone 14 Pro&#39;s always-on display, including Widgets fading in and out to prevent OLED burn-in and customizable visual elements &lpar;MacRumors&rpar;](http://www.techmeme.com/220903/p10#a220903p10)
+ - [X Shore 1 Electric Boat Sets Sail in 2023     - CNET](https://www.cnet.com/roadshow/pictures/x-shore-1-electric-boat-debut/#ftag=CAD590a51e)
+ - [A profile of Kiwi Farms, a forum owned and operated by former 8chan admin Josh Moon, that has become synonymous with doxxing, swatting, and harassment campaigns &lpar;NBC News&rpar;](http://www.techmeme.com/220903/p9#a220903p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
