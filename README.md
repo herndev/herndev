@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
- - ⏩ [We love you Japan, never change.](http://9gag.com/gag/avAb6vd)
- - 👉 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)<!-- MEMES:END -->
+ - 💣 [Defiant family refuse to sell $50m property to developers in Sydney, Austria](http://9gag.com/gag/aDDB85Z)
+ - ⏩ [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)
+ - 👉 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)<!-- MEMES:END -->
 
 ---
 
