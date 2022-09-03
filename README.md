@@ -20,7 +20,6 @@
 | ----------- |
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000" width="100%" />
  
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 
 <details>
   <summary style="font-size: 16px"> 💻 Tech Updates & Memes</summary>
@@ -125,3 +124,5 @@ Linux                    10 hrs 27 mins      ███████████�
 ---
 
 </details>
+ 
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
