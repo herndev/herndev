@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone give her a medal...](http://9gag.com/gag/a1147zY)
- - ⏩ [Great actor](http://9gag.com/gag/aBnD6L2)
- - 👉 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)<!-- MEMES:END -->
+ - 💣 [How to get burned at the stake in 1375 CE.](http://9gag.com/gag/aWgVLyn)
+ - ⏩ [The purest thing I&#39;ve seen all day](http://9gag.com/gag/aBnDLbA)
+ - 👉 [Ninja cat](http://9gag.com/gag/a31oAx3)<!-- MEMES:END -->
 
 ---
 
