@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)
- - ⏩ [Defiant family refuse to sell $50m property to developers in Sydney, Austria](http://9gag.com/gag/aDDB85Z)
- - 👉 [And turning down the volume.](http://9gag.com/gag/a1140Y2)<!-- MEMES:END -->
+ - 💣 [And turning down the volume.](http://9gag.com/gag/a1140Y2)
+ - ⏩ [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
+ - 👉 [Man in Jordan acquired a unique English accent, that he obtained by talking to tourists.](http://9gag.com/gag/amgD6ro)<!-- MEMES:END -->
 
 ---
 
