@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [JBL unveils the Tour Pro 2 wireless earbuds: customizable ANC and a charging case with a 1.45&quot; touchscreen, available for &amp;euro;249 outside the US in January 2023 &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/220903/p8#a220903p8)
  - [Twitter’s edit button is a big test for the platform’s future](https://www.theverge.com/2022/9/3/23335692/twitter-edit-button-platform-bluesky)
- - [The 35 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-448-3203411/)<!-- TECH:END -->
+ - [The 35 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
