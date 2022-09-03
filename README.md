@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ohhh look... another one of those posts](http://9gag.com/gag/a114meR)
- - ⏩ [A finalist of Miss England finalist has become the first contestant to compete without wearing any makeup in the pageant&#39;s 94 years of history.](http://9gag.com/gag/aegX4rB)
- - 👉 [Someone give her a medal...](http://9gag.com/gag/a1147zY)<!-- MEMES:END -->
+ - 💣 [A finalist of Miss England finalist has become the first contestant to compete without wearing any makeup in the pageant&#39;s 94 years of history.](http://9gag.com/gag/aegX4rB)
+ - ⏩ [Great actor](http://9gag.com/gag/aBnD6L2)
+ - 👉 [Picked up today 13 kg of garbage. Total is 1488 kg. Some people hate me for daily updates, some people love. I love you all no matter you love me or hate. Hope we clean nature. Your cleaning Guy.](http://9gag.com/gag/a31oG1r)<!-- MEMES:END -->
 
 ---
 
