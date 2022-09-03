@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Stressed Out? Wearable Gadgets From Fitbit, Apple and Others Want to Help     - CNET](https://www.cnet.com/tech/mobile/stressed-out-wearable-gadgets-from-fitbit-apple-and-others-want-to-help/#ftag=CAD590a51e)
  - [A Washington court rules Meta repeatedly violated the state&#39;s campaign finance transparency law for political ads and must pay penalties yet to be determined &lpar;Jim Brunner/The Seattle Times&rpar;](http://www.techmeme.com/220903/p4#a220903p4)
- - [UBS and robo-adviser Wealthfront agree to terminate their $1.4B merger deal; UBS says it will buy a $69.7M convertible note in Wealthfront at the same valuation &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p3#a220903p3)
- - [Best Home Internet Deals of September 2022     - CNET](https://www.cnet.com/deals/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UBS and robo-adviser Wealthfront agree to terminate their $1.4B merger deal; UBS says it will buy a $69.7M convertible note in Wealthfront at the same valuation &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p3#a220903p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
