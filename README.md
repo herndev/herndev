@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinduoduo launched US shopping site Temu on September 1, the Chinese e-commerce giant&#39;s first major push overseas, following online fast fashion retailer Shein &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220902/p23#a220902p23)
- - [Apple&#39;s iPhone 14 Pro Max Needs More to Stand Out in 2022     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-max-needs-more-to-stand-out-in-2022/#ftag=CAD590a51e)
- - [Best 3D Printer Deals: Grab a deal this Labor Day Weekend     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The IRS says it inadvertently posted confidential information involving about 120,000 individuals on its website before discovering the error and removing it &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/220902/p24#a220902p24)
+ - [Huge Ice Planets Could Be Dripping With Diamond Rain     - CNET](https://www.cnet.com/science/huge-ice-planets-could-be-dripping-with-diamond-rain/#ftag=CAD590a51e)
+ - [Every James Bond Movie, Ranked: The Best of Bond     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked-the-best-of-bond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
