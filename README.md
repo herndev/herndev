@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)
- - ⏩ [Same here](http://9gag.com/gag/aegX1OQ)
- - 👉 [Someone give her a medal...](http://9gag.com/gag/a1147zY)<!-- MEMES:END -->
+ - 💣 [Someone give her a medal...](http://9gag.com/gag/a1147zY)
+ - ⏩ [Great actor](http://9gag.com/gag/aBnD6L2)
+ - 👉 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)<!-- MEMES:END -->
 
 ---
 
