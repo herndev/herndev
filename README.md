@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Filing: the FTC is investigating Amazon&#39;s $3.9B deal to buy One Medical &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p1#a220903p1)
  - [Yandex confirms hackers created a traffic jam in Moscow on September 1 by ordering dozens of taxis from Yandex Taxi to converge on the same location &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220902/p25#a220902p25)
- - [Labor Day weekend deals: $400 off MacBook Pro, $1,000 off LG monitor, free Disney Plus offer](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [The IRS says it inadvertently posted confidential information involving about 120,000 individuals on its website before discovering the error and removing it &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/220902/p24#a220902p24)<!-- TECH:END -->
+ - [Compare Jumbo Mortgage Rates for September 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/compare-jumbo-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
