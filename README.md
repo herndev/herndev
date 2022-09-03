@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guide to Game Day: UNC – The Appalachian](https://game-rant-2022.blogspot.com/2022/09/guide-to-game-day-unc-appalachian.html)
- - [10 best 2D Mario games, ranked by Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-2d-mario-games-ranked-by.html)
- - [Best underrated zombie games on Steam](https://game-rant-2022.blogspot.com/2022/09/best-underrated-zombie-games-on-steam.html)<!-- GAME:END -->
+ - [A brutal masterpiece is reborn for PlayStation 5](https://game-rant-2022.blogspot.com/2022/09/a-brutal-masterpiece-is-reborn-for.html)
+ - [Cheetah Mobile: Is CMCM Stock a Good Investment?](https://game-rant-2022.blogspot.com/2022/09/cheetah-mobile-is-cmcm-stock-good.html)
+ - [10 Hardest Video Games Ever Released, Ranked](https://game-rant-2022.blogspot.com/2022/09/10-hardest-video-games-ever-released.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
