@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In a tight labor market, 1Huddle&#39;s game-driven development focuses on hiring, engaging and retaining talent](https://game-rant-2022.blogspot.com/2022/09/in-tight-labor-market-1huddles-game.html)
- - [The video game series and movies that Netflix is ​​preparing](https://game-rant-2022.blogspot.com/2022/09/the-video-game-series-and-movies-that.html)
- - [DC could be gearing up for a new Justice League movie after Dan Lin&#39;s expected arrival](https://game-rant-2022.blogspot.com/2022/09/dc-could-be-gearing-up-for-new-justice.html)<!-- GAME:END -->
+ - [The Honor 70 wants to be a vlog beast and is finally coming to new markets](https://game-rant-2022.blogspot.com/2022/09/the-honor-70-wants-to-be-vlog-beast-and.html)
+ - [The Outlast Trials trailer develops horror franchise](https://game-rant-2022.blogspot.com/2022/09/the-outlast-trials-trailer-develops.html)
+ - [Shonen Anime That Initially Bombed But Became Cult Classics](https://game-rant-2022.blogspot.com/2022/09/shonen-anime-that-initially-bombed-but.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
