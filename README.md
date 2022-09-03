@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People in Naples, Italy burn their energy bills and block the town hall: `We don&#39;t pay the bills! Now it will be chaos!`](http://9gag.com/gag/axBpyKp)
- - ⏩ [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
- - 👉 [Same here](http://9gag.com/gag/aegX1OQ)<!-- MEMES:END -->
+ - 💣 [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
+ - ⏩ [Same here](http://9gag.com/gag/aegX1OQ)
+ - 👉 [Dayyyyyyymmmmmnnnnnnn!](http://9gag.com/gag/aKmb9P3)<!-- MEMES:END -->
 
 ---
 
