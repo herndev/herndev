@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: the FTC is investigating Amazon&#39;s $3.9B deal to buy One Medical &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p1#a220903p1)
- - [Yandex confirms hackers created a traffic jam in Moscow on September 1 by ordering dozens of taxis from Yandex Taxi to converge on the same location &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220902/p25#a220902p25)
- - [Compare Jumbo Mortgage Rates for September 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/compare-jumbo-mortgage-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [Sources: the FTC has begun a review of Amazon&#39;s $1.7B takeover of iRobot to assess if the deal violates antitrust law and illegally boosts Amazon&#39;s market share &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/220903/p2#a220903p2)
+ - [Filing: the FTC is investigating Amazon&#39;s $3.9B deal to buy One Medical &lpar;Dave Michaels/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p1#a220903p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
