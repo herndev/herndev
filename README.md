@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some online disinformation experts criticize Twitter&#39;s approach to Libs of TikTok, as some US hospitals face threats following posts by the anti-LGBTQ account &lpar;Washington Post&rpar;](http://www.techmeme.com/220903/p7#a220903p7)
- - [The iPhone 14 event looms, roaming AirTags, and crime - Apple&#39;s August 2022 in review](https://appleinsider.com/articles/22/09/03/roaming-airtags-luck-and-crime----august-2022-in-review?utm_medium=rss)
- - [Some Verizon subscribers may get Apple One at iPhone 14 launch](https://appleinsider.com/articles/22/09/03/verizon-to-offer-apple-one-as-a-free-perk-at-iphone-14-launch?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter’s edit button is a big test for the platform’s future](https://www.theverge.com/2022/9/3/23335692/twitter-edit-button-platform-bluesky)
+ - [The 35 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-448-3203411/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
