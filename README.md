@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
+ - 💣 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)
  - ⏩ [Same here](http://9gag.com/gag/aegX1OQ)
- - 👉 [Dayyyyyyymmmmmnnnnnnn!](http://9gag.com/gag/aKmb9P3)<!-- MEMES:END -->
+ - 👉 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)<!-- MEMES:END -->
 
 ---
 
