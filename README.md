@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Virtual Sessions Made Me a Better Therapist](https://www.wired.com/story/virtual-sessions-made-me-a-better-therapist-you-better-patient/)
- - [The 30 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
- - [The Weird and Wonderful Dual-Purpose Devices at IFA 2022](https://www.wired.com/story/weird-gadgets-ifa-2022/)<!-- TECH:END -->
+ - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [Pakistan’s ‘Monster Monsoon’ Shows the Wrath of Climate Change](https://www.wired.com/story/pakistans-monster-monsoon-shows-the-wrath-of-climate-change/)
+ - [Your TV Sounds Awful. These Soundbars Can Fix That](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
