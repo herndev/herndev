@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)
+ - 💣 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)
  - ⏩ [Same here](http://9gag.com/gag/aegX1OQ)
- - 👉 [Welcome to Bezos&#39; personal blog](http://9gag.com/gag/a81rAPe)<!-- MEMES:END -->
+ - 👉 [Someone give her a medal...](http://9gag.com/gag/a1147zY)<!-- MEMES:END -->
 
 ---
 
