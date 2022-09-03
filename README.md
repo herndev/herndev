@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated Omicron Boosters Are Here: What to Know About COVID Vaccines This Fall     - CNET](https://www.cnet.com/health/medical/updated-omicron-boosters-are-here-what-to-know-about-covid-vaccines-this-fall/#ftag=CAD590a51e)
- - [Hackers caused a massive traffic jam in Moscow using a ride-hailing app](https://www.theverge.com/2022/9/3/23335694/hackers-traffic-jam-russia-moscow-ride-hailing-app-yandex-taxi)
- - [&#39;Nope&#39; Won&#39;t Be Streaming For Weeks &lpar;and It&#39;s $3 in Theaters Today Only&rpar;     - CNET](https://www.cnet.com/tech/home-entertainment/nope-wont-be-streaming-for-weeks-and-its-3-in-theaters-today-only/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of Kiwi Farms, a forum owned and operated by former 8chan admin Josh Moon, that has become synonymous with doxxing, swatting, and harassment campaigns &lpar;NBC News&rpar;](http://www.techmeme.com/220903/p9#a220903p9)
+ - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-movies-to-catch/#ftag=CAD590a51e)
+ - [Should You Buy an Apple Watch Over Labor Day Weekend? It&#39;s Complicated     - CNET](https://www.cnet.com/tech/mobile/should-you-buy-an-apple-watch-over-labor-day-weekend-its-complicated/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
