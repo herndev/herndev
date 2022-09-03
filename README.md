@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A brutal masterpiece is reborn for PlayStation 5](https://game-rant-2022.blogspot.com/2022/09/a-brutal-masterpiece-is-reborn-for.html)
- - [Cheetah Mobile: Is CMCM Stock a Good Investment?](https://game-rant-2022.blogspot.com/2022/09/cheetah-mobile-is-cmcm-stock-good.html)
- - [10 Hardest Video Games Ever Released, Ranked](https://game-rant-2022.blogspot.com/2022/09/10-hardest-video-games-ever-released.html)<!-- GAME:END -->
+ - [In a tight labor market, 1Huddle&#39;s game-driven development focuses on hiring, engaging and retaining talent](https://game-rant-2022.blogspot.com/2022/09/in-tight-labor-market-1huddles-game.html)
+ - [The video game series and movies that Netflix is ​​preparing](https://game-rant-2022.blogspot.com/2022/09/the-video-game-series-and-movies-that.html)
+ - [DC could be gearing up for a new Justice League movie after Dan Lin&#39;s expected arrival](https://game-rant-2022.blogspot.com/2022/09/dc-could-be-gearing-up-for-new-justice.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
