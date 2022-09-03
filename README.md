@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)
- - ⏩ [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
- - 👉 [Time to go to work, so I can afford to go to work](http://9gag.com/gag/aE8eAox)<!-- MEMES:END -->
+ - 💣 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
+ - ⏩ [Time to go to work, so I can afford to go to work](http://9gag.com/gag/aE8eAox)
+ - 👉 [France decided to reactivate 32 of its nuclear plants for the incoming winter. Good job baguette man!](http://9gag.com/gag/aGzPBV7)<!-- MEMES:END -->
 
 ---
 
