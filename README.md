@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A Washington court rules Meta repeatedly violated the state&#39;s campaign finance transparency law for political ads and must pay penalties yet to be determined &lpar;Jim Brunner/The Seattle Times&rpar;](http://www.techmeme.com/220903/p4#a220903p4)
  - [UBS and robo-adviser Wealthfront agree to terminate their $1.4B merger deal; UBS says it will buy a $69.7M convertible note in Wealthfront at the same valuation &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/220903/p3#a220903p3)
- - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [Sources: the FTC has begun a review of Amazon&#39;s $1.7B takeover of iRobot to assess if the deal violates antitrust law and illegally boosts Amazon&#39;s market share &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/220903/p2#a220903p2)<!-- TECH:END -->
+ - [Best Home Internet Deals of September 2022     - CNET](https://www.cnet.com/deals/best-internet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
