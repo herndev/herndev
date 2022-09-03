@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These 9 Banks Have Eliminated or Reduced Overdraft Fees     - CNET](https://www.cnet.com/personal-finance/banking/these-banks-have-eliminated-or-reduced-overdraft-fees/#ftag=CAD590a51e)
- - [Prime Video: The 33 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-33-absolute-best-tv-shows-to-stream-this-weekend/#ftag=CAD590a51e)
- - [Prime Video: The 28 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-28-absolute-best-movies-you-can-watch-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some online disinformation experts criticize Twitter&#39;s approach to Libs of TikTok, as some US hospitals face threats following posts by the anti-LGBTQ account &lpar;Washington Post&rpar;](http://www.techmeme.com/220903/p7#a220903p7)
+ - [The iPhone 14 event looms, roaming AirTags, and crime - Apple&#39;s August 2022 in review](https://appleinsider.com/articles/22/09/03/roaming-airtags-luck-and-crime----august-2022-in-review?utm_medium=rss)
+ - [Some Verizon subscribers may get Apple One at iPhone 14 launch](https://appleinsider.com/articles/22/09/03/verizon-to-offer-apple-one-as-a-free-perk-at-iphone-14-launch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
