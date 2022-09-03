@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And turning down the volume.](http://9gag.com/gag/a1140Y2)
+ - 💣 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)
  - ⏩ [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
- - 👉 [Man in Jordan acquired a unique English accent, that he obtained by talking to tourists.](http://9gag.com/gag/amgD6ro)<!-- MEMES:END -->
+ - 👉 [Time to go to work, so I can afford to go to work](http://9gag.com/gag/aE8eAox)<!-- MEMES:END -->
 
 ---
 
