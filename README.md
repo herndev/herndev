@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
- - ⏩ [This is power](http://9gag.com/gag/aDDBZmG)
- - 👉 [Dying with the bois](http://9gag.com/gag/aE8eWLG)<!-- MEMES:END -->
+ - 💣 [The Termite Queen](http://9gag.com/gag/angAx5z)
+ - ⏩ [Nice neighbours you got there](http://9gag.com/gag/aWgVoAx)
+ - 👉 [Whenever you feel dumb](http://9gag.com/gag/ay9yWyp)<!-- MEMES:END -->
 
 ---
 
