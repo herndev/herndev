@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 Game Weapons That Are Too Cool For The Laws Of Physics](https://game-rant-2022.blogspot.com/2022/09/10-game-weapons-that-are-too-cool-for.html)
- - [How Soul Hackers 2&#39;s soul levels compare to Persona&#39;s social ties and confidants](https://game-rant-2022.blogspot.com/2022/09/how-soul-hackers-2s-soul-levels-compare.html)
- - [Ukrainian game studio defends lottery to put custom message on army artillery shell](https://game-rant-2022.blogspot.com/2022/09/ukrainian-game-studio-defends-lottery.html)<!-- GAME:END -->
+ - [Guide to Game Day: UNC – The Appalachian](https://game-rant-2022.blogspot.com/2022/09/guide-to-game-day-unc-appalachian.html)
+ - [10 best 2D Mario games, ranked by Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-2d-mario-games-ranked-by.html)
+ - [Best underrated zombie games on Steam](https://game-rant-2022.blogspot.com/2022/09/best-underrated-zombie-games-on-steam.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
