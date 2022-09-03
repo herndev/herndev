@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Defiant family refuse to sell $50m property to developers in Sydney, Austria](http://9gag.com/gag/aDDB85Z)
- - ⏩ [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)
- - 👉 [Thought this needed more attention](http://9gag.com/gag/aBnDE31)<!-- MEMES:END -->
+ - 💣 [Stupid driver](http://9gag.com/gag/aXr87bd)
+ - ⏩ [Thought this needed more attention](http://9gag.com/gag/aBnDE31)
+ - 👉 [What else they expected equality to be?](http://9gag.com/gag/aze6GgB)<!-- MEMES:END -->
 
 ---
 
