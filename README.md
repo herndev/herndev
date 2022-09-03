@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Co-op survival game Core Keeper is getting two new biomes and a boss](https://www.pcgamer.com/co-op-survival-game-core-keeper-is-getting-two-new-biomes-and-a-boss)
  - [The current MultiVersus meta is all about cheese](https://www.pcgamer.com/multiversus-tier-list)
- - [Elvis, Jurassic World Dominion, and every other new movie you can stream from home this weekend](https://www.polygon.com/23326758/new-movies-watch-elvis-hbo-jurassic-world-dominion-netflix-i-came-by)
- - [Everyone is using their Steam Deck like a better Nintendo Switch](https://www.pcgamer.com/everyone-is-using-their-steam-deck-like-a-better-nintendo-switch)<!-- GAME:END -->
+ - [Elvis, Jurassic World Dominion, and every other new movie you can stream from home this weekend](https://www.polygon.com/23326758/new-movies-watch-elvis-hbo-jurassic-world-dominion-netflix-i-came-by)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
