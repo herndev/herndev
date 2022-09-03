@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get burned at the stake in 1375 CE.](http://9gag.com/gag/aWgVLyn)
- - ⏩ [The purest thing I&#39;ve seen all day](http://9gag.com/gag/aBnDLbA)
- - 👉 [Ninja cat](http://9gag.com/gag/a31oAx3)<!-- MEMES:END -->
+ - 💣 [The purest thing I&#39;ve seen all day](http://9gag.com/gag/aBnDLbA)
+ - ⏩ [Ninja cat](http://9gag.com/gag/a31oAx3)
+ - 👉 [Saving it for later I guess](http://9gag.com/gag/ay9y4Bb)<!-- MEMES:END -->
 
 ---
 
