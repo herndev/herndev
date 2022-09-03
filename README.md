@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably the best meme I&#39;ve seen this far regarding the Rings of Power.](http://9gag.com/gag/axBpvEn)
- - ⏩ [That equipment is more expensive than any car there](http://9gag.com/gag/apgeDAD)
- - 👉 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)<!-- MEMES:END -->
+ - 💣 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)
+ - ⏩ [Defiant family refuse to sell $50m property to developers in Sydney, Austria](http://9gag.com/gag/aDDB85Z)
+ - 👉 [And turning down the volume.](http://9gag.com/gag/a1140Y2)<!-- MEMES:END -->
 
 ---
 
