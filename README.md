@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Probably the best meme I&#39;ve seen this far regarding the Rings of Power.](http://9gag.com/gag/axBpvEn)
- - ⏩ [And turning down the volume.](http://9gag.com/gag/a1140Y2)
- - 👉 [Miss England Finalist Makes History By Competing Without Makeup](http://9gag.com/gag/a41MPQm)<!-- MEMES:END -->
+ - ⏩ [That equipment is more expensive than any car there](http://9gag.com/gag/apgeDAD)
+ - 👉 [Wife material. And the girl is okay too I guess.](http://9gag.com/gag/axBpvA1)<!-- MEMES:END -->
 
 ---
 
