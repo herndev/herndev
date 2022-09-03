@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 10 Best Versions of Tetris, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/the-10-best-versions-of-tetris.html)
- - [How To Get The Latest Attacker Mew For Free](https://game-rant-2022.blogspot.com/2022/09/how-to-get-latest-attacker-mew-for-free.html)
- - [Shack Chat: What&#39;s your favorite Teenage Mutant Ninja Turtles game?](https://game-rant-2022.blogspot.com/2022/09/shack-chat-whats-your-favorite-teenage.html)<!-- GAME:END -->
+ - [Who is the stronger one-piece Yonko?](https://game-rant-2022.blogspot.com/2022/09/who-is-stronger-one-piece-yonko.html)
+ - [Ultimate Ears Wonderboom 3 review](https://game-rant-2022.blogspot.com/2022/09/ultimate-ears-wonderboom-3-review.html)
+ - [How do you use a laptop as a monitor for Xbox One?](https://game-rant-2022.blogspot.com/2022/09/how-do-you-use-laptop-as-monitor-for.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
