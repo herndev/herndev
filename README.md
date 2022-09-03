@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tolkien’s elf/human relationships may not bad as The Rings of Power suggests](https://www.polygon.com/23331596/lord-rings-power-arondir-bronwyn-elf-human-romance)
- - [Nokia x Sustainability: X30, G60 and new subscription service unveiled](https://game-rant-2022.blogspot.com/2022/09/nokia-x-sustainability-x30-g60-and-new.html)
- - [How Grafaiai can be connected to Smeargle](https://game-rant-2022.blogspot.com/2022/09/how-grafaiai-can-be-connected-to.html)<!-- GAME:END -->
+ - [24 great movies new to streaming to watch in September 2022](https://www.polygon.com/what-to-watch/23328658/best-movies-watch-new-on-netflix-hbo-hulu-september-2022)
+ - [The 10 Most JRPG-Ass Songs To Grace The Weather Channel](https://kotaku.com/weather-channel-jrpg-music-songs-soundtrack-1849492585)
+ - [Rumbleverse Is A Rare, Fresh Twist On Battle Royale](https://kotaku.com/rumbleverse-fortnite-battle-royale-free-to-play-epic-1849492757)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
