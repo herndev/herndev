@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s chip deal with Qualcomm may reflect its unrealized VR ambitions](https://www.theverge.com/2022/9/2/23334656/meta-qualcomm-quest-vr-ar-snapdragon-xr-custom-chips)
- - [UppaBaby Stroller Recalled After Child&#39;s Fingertip Amputated by Brake Disc     - CNET](https://www.cnet.com/health/uppababy-stroller-recalled-after-childs-fingertip-amputated-by-brake-disc/#ftag=CAD590a51e)
- - [Deals: Save big on Peacock, Paramount Plus, and HBO Max subscriptions](https://www.androidauthority.com/peacock-paramount-plus-hbo-max-deals-3204648/)<!-- TECH:END -->
+ - [Pinduoduo launched US shopping site Temu on September 1, the Chinese e-commerce giant&#39;s first major push overseas, following online fast fashion retailer Shein &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220902/p23#a220902p23)
+ - [Apple&#39;s iPhone 14 Pro Max Needs More to Stand Out in 2022     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-max-needs-more-to-stand-out-in-2022/#ftag=CAD590a51e)
+ - [Best 3D Printer Deals: Grab a deal this Labor Day Weekend     - CNET](https://www.cnet.com/deals/best-3d-printer-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
