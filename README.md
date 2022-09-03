@@ -44,9 +44,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Picked up today 13 kg of garbage. Total is 1488 kg. Some people hate me for daily updates, some people love. I love you all no matter you love me or hate. Hope we clean nature. Your cleaning Guy.](http://9gag.com/gag/a31oG1r)
- - ⏩ [This is an elf](http://9gag.com/gag/aWgV7z3)
- - 👉 [That&#39;s just how it is.](http://9gag.com/gag/adg3vK2)<!-- MEMES:END -->
+ - 💣 [People in Naples, Italy burn their energy bills and block the town hall: `We don&#39;t pay the bills! Now it will be chaos!`](http://9gag.com/gag/axBpyKp)
+ - ⏩ [But- but, they only take a little bit](http://9gag.com/gag/arnP3od)
+ - 👉 [Same here](http://9gag.com/gag/aegX1OQ)<!-- MEMES:END -->
 
 ---
 
