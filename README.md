@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [Pakistan’s ‘Monster Monsoon’ Shows the Wrath of Climate Change](https://www.wired.com/story/pakistans-monster-monsoon-shows-the-wrath-of-climate-change/)
- - [Your TV Sounds Awful. These Soundbars Can Fix That](https://www.wired.com/gallery/best-soundbars/)<!-- TECH:END -->
+ - [Always-on iPhone 14 Pro display will feature most lock screen elements](https://appleinsider.com/articles/22/09/03/always-on-iphone-14-pro-display-will-feature-most-lock-screen-elements?utm_medium=rss)
+ - [PlayStation Studios Is Getting Into Mobile Games](https://www.wired.com/story/playstation-studios-mobile-games/)
+ - [The Best Wi-Fi Routers](https://www.wired.com/gallery/best-wifi-routers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
