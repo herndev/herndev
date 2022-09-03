@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A source details the behavior of iPhone 14 Pro&#39;s always-on display, including Widgets fading in and out to prevent OLED burn-in and customizable visual elements &lpar;MacRumors&rpar;](http://www.techmeme.com/220903/p10#a220903p10)
- - [X Shore 1 Electric Boat Sets Sail in 2023     - CNET](https://www.cnet.com/roadshow/pictures/x-shore-1-electric-boat-debut/#ftag=CAD590a51e)
- - [A profile of Kiwi Farms, a forum owned and operated by former 8chan admin Josh Moon, that has become synonymous with doxxing, swatting, and harassment campaigns &lpar;NBC News&rpar;](http://www.techmeme.com/220903/p9#a220903p9)<!-- TECH:END -->
+ - [Moscow traffic chaos caused by ride-hailing app hack](https://appleinsider.com/articles/22/09/03/moscow-traffic-chaos-caused-by-ride-hailing-app-hack?utm_medium=rss)
+ - [Allstate Car Insurance Review for September 2022     - CNET](https://www.cnet.com/personal-finance/insurance/auto/allstate-auto-insurance-review/#ftag=CAD590a51e)
+ - [NASA&#39;s Artemis I: What to Know About the Massive Moon Mission     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-what-to-know-about-the-massive-moon-mission/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
