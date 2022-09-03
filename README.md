@@ -38,8 +38,8 @@
 
 <!-- TECH:START -->
  - [The IRS says it inadvertently posted confidential information involving about 120,000 individuals on its website before discovering the error and removing it &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/220902/p24#a220902p24)
- - [Huge Ice Planets Could Be Dripping With Diamond Rain     - CNET](https://www.cnet.com/science/huge-ice-planets-could-be-dripping-with-diamond-rain/#ftag=CAD590a51e)
- - [Every James Bond Movie, Ranked: The Best of Bond     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked-the-best-of-bond/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Historic&#39; Box on Mars Making Oxygen at the Rate of One Tree     - CNET](https://www.cnet.com/science/space/historic-box-on-mars-is-making-oxygen-at-the-rate-of-one-tree/#ftag=CAD590a51e)
+ - [Huge Ice Planets Could Be Dripping With Diamond Rain     - CNET](https://www.cnet.com/science/huge-ice-planets-could-be-dripping-with-diamond-rain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
