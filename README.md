@@ -30,9 +30,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warner Bros.  Discovery Stock is a buy, but not for the reason you think](https://game-rant-2022.blogspot.com/2022/09/warner-bros-discovery-stock-is-buy-but.html)
- - [5 Underrated Japanese Science Fiction Movies](https://game-rant-2022.blogspot.com/2022/09/5-underrated-japanese-science-fiction.html)
- - [Asus Zenbook 17 Fold OLED hands-on review: not &lpar;yet&rpar; the future](https://game-rant-2022.blogspot.com/2022/09/asus-zenbook-17-fold-oled-hands-on.html)<!-- GAME:END -->
+ - [10 Game Weapons That Are Too Cool For The Laws Of Physics](https://game-rant-2022.blogspot.com/2022/09/10-game-weapons-that-are-too-cool-for.html)
+ - [How Soul Hackers 2&#39;s soul levels compare to Persona&#39;s social ties and confidants](https://game-rant-2022.blogspot.com/2022/09/how-soul-hackers-2s-soul-levels-compare.html)
+ - [Ukrainian game studio defends lottery to put custom message on army artillery shell](https://game-rant-2022.blogspot.com/2022/09/ukrainian-game-studio-defends-lottery.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
