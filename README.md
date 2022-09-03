@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Honor 70 wants to be a vlog beast and is finally coming to new markets](https://game-rant-2022.blogspot.com/2022/09/the-honor-70-wants-to-be-vlog-beast-and.html)
- - [The Outlast Trials trailer develops horror franchise](https://game-rant-2022.blogspot.com/2022/09/the-outlast-trials-trailer-develops.html)
- - [Shonen Anime That Initially Bombed But Became Cult Classics](https://game-rant-2022.blogspot.com/2022/09/shonen-anime-that-initially-bombed-but.html)<!-- GAME:END -->
+ - [How To Get The Latest Attacker Mew For Free](https://game-rant-2022.blogspot.com/2022/09/how-to-get-latest-attacker-mew-for-free.html)
+ - [Shack Chat: What&#39;s your favorite Teenage Mutant Ninja Turtles game?](https://game-rant-2022.blogspot.com/2022/09/shack-chat-whats-your-favorite-teenage.html)
+ - [The supernatural light novels that inspired the Monogatari series](https://game-rant-2022.blogspot.com/2022/09/the-supernatural-light-novels-that.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
