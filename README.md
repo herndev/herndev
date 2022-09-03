@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Mortuary Assistant is already being made into a movie](https://www.pcgamer.com/the-mortuary-assistant-is-already-being-made-into-a-movie)
  - [The Rings of Power does something new with orcs by going full Alien](https://www.polygon.com/23329806/rings-power-orcs-lord-rings-episode-release)
- - [Goat Simulator 3: Still a silly game about being a really annoying goat](https://www.polygon.com/23333263/goat-simulator-3-preview-release-date-gamescom)
- - [John Williams, forever a legend, just went ahead and debuted new Indiana Jones 5 music way early](https://www.polygon.com/23335548/indiana-jones-5-music-john-williams-helenas-theme)<!-- GAME:END -->
+ - [Goat Simulator 3: Still a silly game about being a really annoying goat](https://www.polygon.com/23333263/goat-simulator-3-preview-release-date-gamescom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
