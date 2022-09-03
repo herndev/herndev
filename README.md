@@ -37,9 +37,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The IRS says it inadvertently posted confidential information involving about 120,000 individuals on its website before discovering the error and removing it &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/220902/p24#a220902p24)
- - [&#39;Historic&#39; Box on Mars Making Oxygen at the Rate of One Tree     - CNET](https://www.cnet.com/science/space/historic-box-on-mars-is-making-oxygen-at-the-rate-of-one-tree/#ftag=CAD590a51e)
- - [Huge Ice Planets Could Be Dripping With Diamond Rain     - CNET](https://www.cnet.com/science/huge-ice-planets-could-be-dripping-with-diamond-rain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Yandex confirms hackers created a traffic jam in Moscow on September 1 by ordering dozens of taxis from Yandex Taxi to converge on the same location &lpar;Aaron Gordon/VICE&rpar;](http://www.techmeme.com/220902/p25#a220902p25)
+ - [Labor Day weekend deals: $400 off MacBook Pro, $1,000 off LG monitor, free Disney Plus offer](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [The IRS says it inadvertently posted confidential information involving about 120,000 individuals on its website before discovering the error and removing it &lpar;Richard Rubin/Wall Street Journal&rpar;](http://www.techmeme.com/220902/p24#a220902p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
