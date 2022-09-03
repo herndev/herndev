@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Who is the stronger one-piece Yonko?](https://game-rant-2022.blogspot.com/2022/09/who-is-stronger-one-piece-yonko.html)
- - [Ultimate Ears Wonderboom 3 review](https://game-rant-2022.blogspot.com/2022/09/ultimate-ears-wonderboom-3-review.html)
- - [How do you use a laptop as a monitor for Xbox One?](https://game-rant-2022.blogspot.com/2022/09/how-do-you-use-laptop-as-monitor-for.html)<!-- GAME:END -->
+ - [How can I stream Switch without a Capture Card? [SOLVED]](https://game-rant-2022.blogspot.com/2022/09/how-can-i-stream-switch-without-capture.html)
+ - [I&#39;m strangely excited to play Halo Infinite again - and that&#39;s thanks to a follow-up novel](https://game-rant-2022.blogspot.com/2022/09/im-strangely-excited-to-play-halo.html)
+ - [Review - Gerda: A flame in winter](https://game-rant-2022.blogspot.com/2022/09/review-gerda-flame-in-winter.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
