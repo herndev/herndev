@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)
- - ⏩ [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
- - 👉 [The amount of money he spent on that...](http://9gag.com/gag/adg3OmM)<!-- MEMES:END -->
+ - 💣 [I&#39;m glad I have eyes](http://9gag.com/gag/aQXY7Vw)
+ - ⏩ [We love you Japan, never change.](http://9gag.com/gag/avAb6vd)
+ - 👉 [Protecting little kiddos.](http://9gag.com/gag/aze6Gjq)<!-- MEMES:END -->
 
 ---
 
