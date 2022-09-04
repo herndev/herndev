@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best of IFA 2022 Awards: All the very best products](https://www.androidauthority.com/best-of-ifa-2022-awards-3204861/)
- - [Ring showed us how it’s making the humble intercom smarter](https://www.androidauthority.com/ring-intercom-3204937/)
- - [A look at the privacy concerns raised by OpenAI&#39;s GPT-3, Google&#39;s LaMDA, Meta&#39;s OPT-175B, and other large language models trained on troves of personal data &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220904/p2#a220904p2)<!-- TECH:END -->
+ - [An investor group led by Swiss Life and others agree to pay $1.5B for a 35% stake in DataBank, which owns 65+ data centers and 20 interconnection hubs in the US &lpar;David Seeley/Dallas Innovates&rpar;](http://www.techmeme.com/220904/p3#a220904p3)
+ - [iOS 16 Beta: Coolest New Features Coming to Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-beta-coolest-new-features-coming-to-your-iphone/#ftag=CAD590a51e)
+ - [Formula 1 2022: How to Watch the Dutch Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-dutch-grand-prix-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
