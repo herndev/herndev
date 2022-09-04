@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
  - [Best Mattress for Stomach Sleepers 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
- - [In August 2022, Beijing&#39;s municipal government unveiled plans to regulate the &quot;Digital Human Industry&quot;, which covers digital assistants and virtual influencers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220904/p6#a220904p6)<!-- TECH:END -->
+ - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
