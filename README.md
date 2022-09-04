@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Windows 11 Version 22H2: Gaming Changes](https://game-rant-2022.blogspot.com/2022/09/windows-11-version-22h2-gaming-changes.html)
- - [SNK vs.  Capcom Revival might be coming](https://game-rant-2022.blogspot.com/2022/09/snk-vs-capcom-revival-might-be-coming.html)
- - [Destroy all humans!  2 gets a modern makeover |  To live](https://game-rant-2022.blogspot.com/2022/09/destroy-all-humans-2-gets-modern.html)<!-- GAME:END -->
+ - [NC A&amp;T Takeaways from the Duke&#39;s Mayo Classic](https://game-rant-2022.blogspot.com/2022/09/nc-takeaways-from-dukes-mayo-classic.html)
+ - [10 best games that will make Xbox One a worthy console in 2022](https://game-rant-2022.blogspot.com/2022/09/10-best-games-that-will-make-xbox-one.html)
+ - [Total War: Warhammer 3 - How to Play Valkia The Bloody](https://game-rant-2022.blogspot.com/2022/09/total-war-warhammer-3-how-to-play.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
