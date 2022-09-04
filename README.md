@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards of the Coast apologizes for and removes racist elements of Spelljammer](https://www.pcgamer.com/wizards-of-the-coast-apologizes-for-and-removes-racist-elements-of-spelljammer)
- - [The 10 Hardest Video Game Achievements, Ranked](https://game-rant-2022.blogspot.com/2022/09/the-10-hardest-video-game-achievements.html)
- - [Assassin&#39;s Creed&#39;s Next Game Officially Announced After Leak](https://game-rant-2022.blogspot.com/2022/09/assassins-creeds-next-game-officially.html)<!-- GAME:END -->
+ - [Microsoft News Roundup: Surface Pro and X Lines Merge, Surface Duo 2 Out of Stock, AMD Ryzen 7000, Two Foldable PCs, and More](https://game-rant-2022.blogspot.com/2022/09/microsoft-news-roundup-surface-pro-and.html)
+ - [Why a Wolverine Cameo Makes So Much Sense?](https://game-rant-2022.blogspot.com/2022/09/why-wolverine-cameo-makes-so-much-sense.html)
+ - [Wizards of the Coast apologizes for and removes racist elements of Spelljammer](https://www.pcgamer.com/wizards-of-the-coast-apologizes-for-and-removes-racist-elements-of-spelljammer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
