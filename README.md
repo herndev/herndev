@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid mass layoffs, Snap says Web3 is not a priority since it doesn&#39;t directly contribute to the company&#39;s AR efforts, in sharp contrast to moves by rival Meta &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220904/p1#a220904p1)
- - [Amazon says The Rings of Power&#39;s first two episodes drew 25M viewers globally in its first day, revealing viewership for a Prime Video series for the first time &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/220903/p15#a220903p15)
- - [Hear Images From NASA&#39;s James Webb Telescope Turned Into Haunting Music     - CNET](https://www.cnet.com/science/space/listen-to-beautiful-images-from-nasas-james-webb-telescope-turned-into-haunting-music/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the privacy concerns raised by OpenAI&#39;s GPT-3, Google&#39;s LaMDA, Meta&#39;s OPT-175B, and other large language models trained on troves of personal data &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220904/p2#a220904p2)
+ - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [Amid mass layoffs, Snap says Web3 is not a priority since it doesn&#39;t directly contribute to the company&#39;s AR efforts, in sharp contrast to moves by rival Meta &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220904/p1#a220904p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
