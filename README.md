@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These are not conversations but interviews](http://9gag.com/gag/a81reVY)
- - ⏩ [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
+ - 💣 [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
+ - ⏩ [These are not conversations but interviews](http://9gag.com/gag/a81reVY)
  - 👉 [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)<!-- MEMES:END -->
 
 ---
