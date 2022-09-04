@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Some things will never change](http://9gag.com/gag/angAVXn)
- - ⏩ [What if you&#39;re wrong..](http://9gag.com/gag/aRrxRBy)
- - 👉 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
+ - ⏩ [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
+ - 👉 [Introverts at parties](http://9gag.com/gag/aDDBP4w)<!-- MEMES:END -->
 
 ---
 
