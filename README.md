@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m not sure whether he&#39;s working on a muscle, or his will to live..](http://9gag.com/gag/aE8eZvM)
- - ⏩ [ANTI-SCAM Call Center &lpar;@Scammer Payback on YouTube&rpar; Let\u2019s support them!](http://9gag.com/gag/awzqYn1)
- - 👉 [Probably unpopular opinion](http://9gag.com/gag/aBnDO5Q)<!-- MEMES:END -->
+ - 💣 [Some things never change](http://9gag.com/gag/adg3oZB)
+ - ⏩ [*sips at a bud light bottle*](http://9gag.com/gag/adg3oRM)
+ - 👉 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)<!-- MEMES:END -->
 
 ---
 
