@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US officials say sanctioned countries are increasingly manipulating the GPS-based automatic identification systems, or AIS, of ships to evade international law &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/220903/p13#a220903p13)
- - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes and Loki in Valhalla Possibility, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-loki-in-valhalla-possibility-explained/#ftag=CAD590a51e)
- - [Amazon quietly introduces a 72-hour delay for all user reviews posted to Prime Video to determine whether the review is genuine or created by a bot or a troll &lpar;Variety&rpar;](http://www.techmeme.com/220903/p12#a220903p12)<!-- TECH:END -->
+ - [China says automakers now require licenses for &quot;smart cars&quot; collecting mapping data, which could further complicate the local operations of companies like Tesla &lpar;Reuters&rpar;](http://www.techmeme.com/220903/p14#a220903p14)
+ - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;Succession,&#39; But With Dragons     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-succession-but-with-dragons/#ftag=CAD590a51e)
+ - [&#39;House of the Dragon&#39; Episode 3: When Is It Released in Your Time Zone?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-when-is-it-released-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
