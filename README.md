@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
- - ⏩ [She is Too Calm](http://9gag.com/gag/amgDVDy)
- - 👉 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)<!-- MEMES:END -->
+ - 💣 [Nailed that one](http://9gag.com/gag/a21Qbee)
+ - ⏩ [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
+ - 👉 [Wish i knew this answer back in my school time..im an idiot](http://9gag.com/gag/aogB8Dm)<!-- MEMES:END -->
 
 ---
 
