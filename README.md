@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s a chunky new Homeworld 3 gameplay trailer about an ambush](https://www.pcgamer.com/heres-a-chunky-new-homeworld-3-gameplay-trailer-about-an-ambush)
- - [Red Dead Online: A fond farewell to Rockstar&#39;s multiplayer Western](https://game-rant-2022.blogspot.com/2022/09/red-dead-online-fond-farewell-to.html)
- - [Interview with Teenage Mutant Ninja Turtles: The Cowabunga Collection](https://game-rant-2022.blogspot.com/2022/09/interview-with-teenage-mutant-ninja.html)<!-- GAME:END -->
+ - [10 best games if you like MultiVersus](https://game-rant-2022.blogspot.com/2022/09/10-best-games-if-you-like-multiversus.html)
+ - [[SPOILERS] Deaths were their only possible end](https://game-rant-2022.blogspot.com/2022/09/spoilers-deaths-were-their-only.html)
+ - [7 Games To Play If You Like The Last Of Us Part 1](https://game-rant-2022.blogspot.com/2022/09/7-games-to-play-if-you-like-last-of-us.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
