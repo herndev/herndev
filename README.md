@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [A fond farewell to Red Dead Online](https://www.polygon.com/23333281/red-dead-online-2022-updates-content-expansion-pc-ps4-ps5-xbox-one-series-x)
  - [Scope the free demo for this tasty blend of Vampire Survivors and Risk of Rain](https://www.pcgamer.com/scope-the-free-demo-for-this-tasty-blend-of-vampire-survivors-and-risk-of-rain)
- - [Hisponic Rival Pro PS5: A Mediocre Competitor Reviews: A Mediocre Competitor](https://game-rant-2022.blogspot.com/2022/09/hisponic-rival-pro-ps5-mediocre.html)<!-- GAME:END -->
+ - [8 Things You Didn&#39;t Know About Goof Troop](https://game-rant-2022.blogspot.com/2022/09/8-things-you-didnt-know-about-goof-troop.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
