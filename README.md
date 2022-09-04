@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)
- - ⏩ [Vibing~](http://9gag.com/gag/aBnDX9P)
- - 👉 [Leo..](http://9gag.com/gag/a61WpOq)<!-- MEMES:END -->
+ - 💣 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
+ - ⏩ [Leo..](http://9gag.com/gag/a61WpOq)
+ - 👉 [After always beeing a party animal, this is really the simple and best life](http://9gag.com/gag/axBpRG1)<!-- MEMES:END -->
 
 ---
 
