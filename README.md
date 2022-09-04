@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says The Rings of Power&#39;s first two episodes drew 25M viewers globally in its first day, revealing viewership for a Prime Video series for the first time &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/220903/p15#a220903p15)
  - [China says automakers now require licenses for &quot;smart cars&quot; collecting mapping data, which could further complicate the local operations of companies like Tesla &lpar;Reuters&rpar;](http://www.techmeme.com/220903/p14#a220903p14)
- - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;Succession,&#39; But With Dragons     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-succession-but-with-dragons/#ftag=CAD590a51e)
- - [&#39;House of the Dragon&#39; Episode 3: When Is It Released in Your Time Zone?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-when-is-it-released-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Episode 2 Recap: &#39;Succession,&#39; But With Dragons     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-2-recap-succession-but-with-dragons/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
