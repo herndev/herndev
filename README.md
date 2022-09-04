@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Appreciate that](http://9gag.com/gag/aZr9zE6)
- - ⏩ [Taylor Hawkins&#39; son playing My Hero](http://9gag.com/gag/aogB8e0)
- - 👉 [Death Dorito](http://9gag.com/gag/angADWL)<!-- MEMES:END -->
+ - ⏩ [Death Dorito](http://9gag.com/gag/angADWL)
+ - 👉 [She is Too Calm](http://9gag.com/gag/amgDVDy)<!-- MEMES:END -->
 
 ---
 
