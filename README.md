@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shall I continue to do so?](http://9gag.com/gag/aPZOexB)
- - ⏩ [These are not conversations but interviews](http://9gag.com/gag/a81reVY)
- - 👉 [Not a big sports fan anyway](http://9gag.com/gag/aqGvxgP)<!-- MEMES:END -->
+ - 💣 [Vibing~](http://9gag.com/gag/aBnDX9P)
+ - ⏩ [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
+ - 👉 [&lpar;de&rpar;evolution of the Mustang](http://9gag.com/gag/aM4pzE1)<!-- MEMES:END -->
 
 ---
 
