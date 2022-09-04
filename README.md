@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investor group led by Swiss Life and others agree to pay $1.5B for a 35% stake in DataBank, which owns 65+ data centers and 20 interconnection hubs in the US &lpar;David Seeley/Dallas Innovates&rpar;](http://www.techmeme.com/220904/p3#a220904p3)
- - [iOS 16 Beta: Coolest New Features Coming to Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-beta-coolest-new-features-coming-to-your-iphone/#ftag=CAD590a51e)
- - [Formula 1 2022: How to Watch the Dutch Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-dutch-grand-prix-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IFA has convinced me: Foldable laptops make more sense than foldable phones](https://www.androidauthority.com/foldable-laptops-vs-foldable-phones-3204822/)
+ - [Apple&#39;s September Event Invite May Provide Clues About the iPhone 14     - CNET](https://www.cnet.com/tech/mobile/apple-september-event-invite-may-provide-clues-about-the-iphone-14/#ftag=CAD590a51e)
+ - [An investor group led by Swiss Life and others agree to pay $1.5B for a 35% stake in DataBank, which owns 65+ data centers and 20 interconnection hubs in the US &lpar;David Seeley/Dallas Innovates&rpar;](http://www.techmeme.com/220904/p3#a220904p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
