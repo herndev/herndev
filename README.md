@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best kids&#39; show ever!](http://9gag.com/gag/ay9yRyV)
+ - 💣 [Start to finish, pretty cool!](http://9gag.com/gag/ajg2ZVR)
  - ⏩ [Vibing~](http://9gag.com/gag/aBnDX9P)
  - 👉 [Leo..](http://9gag.com/gag/a61WpOq)<!-- MEMES:END -->
 
