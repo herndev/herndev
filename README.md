@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny coz](http://9gag.com/gag/avAbD5O)
- - ⏩ [Introverts at parties](http://9gag.com/gag/aDDBP4w)
- - 👉 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
+ - 💣 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)
+ - ⏩ [Funny coz](http://9gag.com/gag/avAbD5O)
+ - 👉 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
 
 ---
 
