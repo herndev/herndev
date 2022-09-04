@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 best games if you like MultiVersus](https://game-rant-2022.blogspot.com/2022/09/10-best-games-if-you-like-multiversus.html)
- - [[SPOILERS] Deaths were their only possible end](https://game-rant-2022.blogspot.com/2022/09/spoilers-deaths-were-their-only.html)
- - [7 Games To Play If You Like The Last Of Us Part 1](https://game-rant-2022.blogspot.com/2022/09/7-games-to-play-if-you-like-last-of-us.html)<!-- GAME:END -->
+ - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/09/contact-customer-service.html)
+ - [Game Show Trivia - &#39;Are You Smarter Than a Fifth Grade Student?&#39;  Review](https://game-rant-2022.blogspot.com/2022/09/game-show-trivia-are-you-smarter-than.html)
+ - [Beginner tips for islands](https://game-rant-2022.blogspot.com/2022/09/beginner-tips-for-islands.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
