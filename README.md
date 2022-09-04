@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 easy tips to manage notifications on your Android phone](https://game-rant-2022.blogspot.com/2022/09/5-easy-tips-to-manage-notifications-on.html)
- - [10 Best Comic Book Related Content Creators To Follow On TikTok](https://game-rant-2022.blogspot.com/2022/09/10-best-comic-book-related-content.html)
- - [Why are fans dissatisfied with Stone Ocean&#39;s anime adaptation?](https://game-rant-2022.blogspot.com/2022/09/why-are-fans-dissatisfied-with-stone.html)<!-- GAME:END -->
+ - [How to improve your defense game](https://game-rant-2022.blogspot.com/2022/09/how-to-improve-your-defense-game.html)
+ - [The Rings of Power’s elf servants fucked me all the way up](https://www.polygon.com/23331245/rings-power-lord-elf-heaven-boat-explained)
+ - [Solasta: Crown of the Magister Review](https://game-rant-2022.blogspot.com/2022/09/solasta-crown-of-magister-review.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
