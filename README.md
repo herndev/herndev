@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Vibing~](http://9gag.com/gag/aBnDX9P)
- - ⏩ [Man Of Steel in Japanese is a straight up live-action anime](http://9gag.com/gag/a913m3L)
- - 👉 [&lpar;de&rpar;evolution of the Mustang](http://9gag.com/gag/aM4pzE1)<!-- MEMES:END -->
+ - 💣 [Best kids&#39; show ever!](http://9gag.com/gag/ay9yRyV)
+ - ⏩ [Vibing~](http://9gag.com/gag/aBnDX9P)
+ - 👉 [Leo..](http://9gag.com/gag/a61WpOq)<!-- MEMES:END -->
 
 ---
 
