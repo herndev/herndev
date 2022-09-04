@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s Far Out event: iPhone 14 lineup, including Pro models with a revamped notch, new AirPods Pro, a rugged Apple Watch Pro, and more &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220904/p5#a220904p5)
- - [Save $40 on a Pair of Amazon&#39;s Flagship Noise-Canceling Echo Earbuds     - CNET](https://www.cnet.com/deals/amazons-echo-buds-are-down-to-just-50-a-new-all-time-low/#ftag=CAD590a51e)
- - [Listening to B&amp;O’s $8,000 soundbar made me think about Mother Earth](https://www.androidauthority.com/bang-olufsen-beosound-theatre-impressions-3204998/)<!-- TECH:END -->
+ - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)
+ - [Dear Streaming Services, Not Every TV Show Deserves to Be a TV Show     - CNET](https://www.cnet.com/culture/entertainment/dear-streaming-services-not-every-tv-show-deserves-a-whole-series/#ftag=CAD590a51e)
+ - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
