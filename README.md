@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you were a videogame, what kind of game would you be and why?](https://www.pcgamer.com/if-you-were-a-videogame-what-kind-of-game-would-you-be-and-why)
- - [Aborting the AL Central race](https://game-rant-2022.blogspot.com/2022/09/aborting-al-central-race.html)
- - [How many video games are in development?](https://game-rant-2022.blogspot.com/2022/09/how-many-video-games-are-in-development.html)<!-- GAME:END -->
+ - [5 horrific blunders in video game history that seriously affected the industry](https://game-rant-2022.blogspot.com/2022/09/5-horrific-blunders-in-video-game_3.html)
+ - [Nintendo Switch Pro: everything we know so far](https://game-rant-2022.blogspot.com/2022/09/nintendo-switch-pro-everything-we-know.html)
+ - [Soccer Star 22 Super Football Beginner&#39;s Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/soccer-star-22-super-football-beginners.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
