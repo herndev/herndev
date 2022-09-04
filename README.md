@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A new Torchlight game has begun playtesting on Steam, but it may not be what you expect](https://www.pcgamer.com/a-new-torchlight-game-has-begun-playtesting-on-steam-but-it-may-not-be-what-you-expect)
- - [Xbox Game Releases - September 5 to 11](https://game-rant-2022.blogspot.com/2022/09/xbox-game-releases-september-5-to-11.html)
- - [Yuoni Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/yuoni-review-niche-gamer.html)<!-- GAME:END -->
+ - [What happened to DriveClub Developer Evolution Studios?](https://game-rant-2022.blogspot.com/2022/09/what-happened-to-driveclub-developer.html)
+ - [How online casinos continue to grow](https://game-rant-2022.blogspot.com/2022/09/how-online-casinos-continue-to-grow.html)
+ - [10 Best Hand-Drawn Video Games, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-hand-drawn-video-games.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
