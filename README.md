@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)
- - ⏩ [This was probably the last decent series of a Marvel character that sadly got cancelled and did not got enough spotlight despite the amazing work and story potential...](http://9gag.com/gag/aGzP7PX)
- - 👉 [`do it for her`](http://9gag.com/gag/ajg2R4p)<!-- MEMES:END -->
+ - 💣 [`do it for her`](http://9gag.com/gag/ajg2R4p)
+ - ⏩ [Satisfying](http://9gag.com/gag/avAb9Wn)
+ - 👉 [He forgot to drink his espresso after lunch... Thats why he forgot the tire](http://9gag.com/gag/avAbm2n)<!-- MEMES:END -->
 
 ---
 
