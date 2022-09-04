@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battle across a hand-drawn cyber wasteland in this stylish puzzle platformer](https://www.pcgamer.com/battle-across-a-hand-drawn-cyber-wasteland-in-this-stylish-puzzle-platformer)
- - [A Complete History of the Newbie Family](https://game-rant-2022.blogspot.com/2022/09/a-complete-history-of-newbie-family.html)
- - [Microsoft Weekly: Criticism of Windows 11, Edge improvements and app updates](https://game-rant-2022.blogspot.com/2022/09/microsoft-weekly-criticism-of-windows.html)<!-- GAME:END -->
+ - [If you were a videogame, what kind of game would you be and why?](https://www.pcgamer.com/if-you-were-a-videogame-what-kind-of-game-would-you-be-and-why)
+ - [Aborting the AL Central race](https://game-rant-2022.blogspot.com/2022/09/aborting-al-central-race.html)
+ - [How many video games are in development?](https://game-rant-2022.blogspot.com/2022/09/how-many-video-games-are-in-development.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
