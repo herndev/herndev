@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A new Torchlight game has begun playtesting on Steam, but it may not be what you expect](https://www.pcgamer.com/a-new-torchlight-game-has-begun-playtesting-on-steam-but-it-may-not-be-what-you-expect)
  - [Xbox Game Releases - September 5 to 11](https://game-rant-2022.blogspot.com/2022/09/xbox-game-releases-september-5-to-11.html)
- - [Yuoni Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/yuoni-review-niche-gamer.html)
- - [The Complete Master Mode Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-master-mode-guide-and-tips.html)<!-- GAME:END -->
+ - [Yuoni Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/yuoni-review-niche-gamer.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
