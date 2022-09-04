@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s getting better and better](http://9gag.com/gag/aE8eOVM)
- - ⏩ [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
- - 👉 [Satisfying](http://9gag.com/gag/avAb9Wn)<!-- MEMES:END -->
+ - 💣 [Dinosaur \ud83e\udd95](http://9gag.com/gag/awzqYdy)
+ - ⏩ [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)
+ - 👉 [Huh, what ?](http://9gag.com/gag/aze6YDK)<!-- MEMES:END -->
 
 ---
 
