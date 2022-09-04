@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon quietly introduces a 72-hour delay for all user reviews posted to Prime Video to determine whether the review is genuine or created by a bot or a troll &lpar;Variety&rpar;](http://www.techmeme.com/220903/p12#a220903p12)
- - [Alleged Google Pixel 7 Pro appears in unboxing video ahead of launch](https://www.theverge.com/2022/9/3/23336007/google-pixel-7-pro-unboxing-video-launch-leak-rumors)
- - [Loved &#39;No Time to Die&#39;? This James Bond Movie Is the One You Should Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/james-bond-movie-to-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US officials say sanctioned countries are increasingly manipulating the GPS-based automatic identification systems, or AIS, of ships to evade international law &lpar;Anatoly Kurmanaev/New York Times&rpar;](http://www.techmeme.com/220903/p13#a220903p13)
+ - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes and Loki in Valhalla Possibility, Explained     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-and-loki-in-valhalla-possibility-explained/#ftag=CAD590a51e)
+ - [Amazon quietly introduces a 72-hour delay for all user reviews posted to Prime Video to determine whether the review is genuine or created by a bot or a troll &lpar;Variety&rpar;](http://www.techmeme.com/220903/p12#a220903p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
