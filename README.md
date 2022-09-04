@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nailed that one](http://9gag.com/gag/a21Qbee)
- - ⏩ [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
- - 👉 [Wish i knew this answer back in my school time..im an idiot](http://9gag.com/gag/aogB8Dm)<!-- MEMES:END -->
+ - 💣 [This is all we need to know](http://9gag.com/gag/aOQ61Y2)
+ - ⏩ [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)
+ - 👉 [Dinosaur \ud83e\udd95](http://9gag.com/gag/awzqYdy)<!-- MEMES:END -->
 
 ---
 
