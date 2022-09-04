@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Appreciate that](http://9gag.com/gag/aZr9zE6)
- - ⏩ [Death Dorito](http://9gag.com/gag/angADWL)
- - 👉 [She is Too Calm](http://9gag.com/gag/amgDVDy)<!-- MEMES:END -->
+ - 💣 [She is Too Calm](http://9gag.com/gag/amgDVDy)
+ - ⏩ [Some things never change](http://9gag.com/gag/adg3oZB)
+ - 👉 [TRUST ISSUES?](http://9gag.com/gag/aKmbYRb)<!-- MEMES:END -->
 
 ---
 
