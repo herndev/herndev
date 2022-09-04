@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches/)
- - [What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)
- - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
+ - [Our Favorite Gear for Everyday Sun Protection](https://www.wired.com/gallery/everyday-sun-protection/)
+ - [Apple’s reportedly set to reveal the AirPods Pro 2 this week](https://www.theverge.com/2022/9/4/23336671/apple-announce-airpods-pro-2-this-weeks-far-out-event)
+ - [Apple won&#39;t call to ask you to tell them a code you get on your iPhone](https://appleinsider.com/articles/22/09/04/youtuber-avoids-becoming-a-victim-to-an-icloud-phishing-phone-call?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
