@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 horrific blunders in video game history that seriously affected the industry](https://game-rant-2022.blogspot.com/2022/09/5-horrific-blunders-in-video-game_3.html)
- - [Nintendo Switch Pro: everything we know so far](https://game-rant-2022.blogspot.com/2022/09/nintendo-switch-pro-everything-we-know.html)
- - [Soccer Star 22 Super Football Beginner&#39;s Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/soccer-star-22-super-football-beginners.html)<!-- GAME:END -->
+ - [Forgotten PS2 Party Games](https://game-rant-2022.blogspot.com/2022/09/forgotten-ps2-party-games.html)
+ - [Pentiment is an intriguing medieval manuscript adventure](https://game-rant-2022.blogspot.com/2022/09/pentiment-is-intriguing-medieval.html)
+ - [7 video game characters you should avoid at all costs](https://game-rant-2022.blogspot.com/2022/09/7-video-game-characters-you-should.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
