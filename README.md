@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tips for Alliance Season 9 game mode](https://game-rant-2022.blogspot.com/2022/09/tips-for-alliance-season-9-game-mode.html)
- - [Anime arcs that would benefit from a movie adaptation](https://game-rant-2022.blogspot.com/2022/09/anime-arcs-that-would-benefit-from.html)
- - [If you were a video game, what kind of game would you be and why?  |  PC gamer](https://game-rant-2022.blogspot.com/2022/09/if-you-were-video-game-what-kind-of.html)<!-- GAME:END -->
+ - [Windows 11 Version 22H2: Gaming Changes](https://game-rant-2022.blogspot.com/2022/09/windows-11-version-22h2-gaming-changes.html)
+ - [SNK vs.  Capcom Revival might be coming](https://game-rant-2022.blogspot.com/2022/09/snk-vs-capcom-revival-might-be-coming.html)
+ - [Destroy all humans!  2 gets a modern makeover |  To live](https://game-rant-2022.blogspot.com/2022/09/destroy-all-humans-2-gets-modern.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
