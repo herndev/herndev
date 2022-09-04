@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s new in FIFA 23?  |  Every new FIFA 23 gameplay feature](https://game-rant-2022.blogspot.com/2022/09/whats-new-in-fifa-23-every-new-fifa-23.html)
- - [TechNigeria: A Weekly Recap of What Happened in Nigeria&#39;s Tech Space](https://game-rant-2022.blogspot.com/2022/09/technigeria-weekly-recap-of-what.html)
- - [Halo Infinite Leaving split-screen co-op will hurt the game and the fans](https://game-rant-2022.blogspot.com/2022/09/halo-infinite-leaving-split-screen-co.html)<!-- GAME:END -->
+ - [Tips for Alliance Season 9 game mode](https://game-rant-2022.blogspot.com/2022/09/tips-for-alliance-season-9-game-mode.html)
+ - [Anime arcs that would benefit from a movie adaptation](https://game-rant-2022.blogspot.com/2022/09/anime-arcs-that-would-benefit-from.html)
+ - [If you were a video game, what kind of game would you be and why?  |  PC gamer](https://game-rant-2022.blogspot.com/2022/09/if-you-were-video-game-what-kind-of.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
