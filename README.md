@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Splatoon series can do more with its broadcast format](https://game-rant-2022.blogspot.com/2022/09/the-splatoon-series-can-do-more-with.html)
- - [The best CSGO launch options start in 2022](https://game-rant-2022.blogspot.com/2022/09/the-best-csgo-launch-options-start-in.html)
- - [Midnight School Walk Review |  TheXboxHub](https://game-rant-2022.blogspot.com/2022/09/midnight-school-walk-review-thexboxhub.html)<!-- GAME:END -->
+ - [Battle across a hand-drawn cyber wasteland in this stylish puzzle platformer](https://www.pcgamer.com/battle-across-a-hand-drawn-cyber-wasteland-in-this-stylish-puzzle-platformer)
+ - [A Complete History of the Newbie Family](https://game-rant-2022.blogspot.com/2022/09/a-complete-history-of-newbie-family.html)
+ - [Microsoft Weekly: Criticism of Windows 11, Edge improvements and app updates](https://game-rant-2022.blogspot.com/2022/09/microsoft-weekly-criticism-of-windows.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
