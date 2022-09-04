@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A fond farewell to Red Dead Online](https://www.polygon.com/23333281/red-dead-online-2022-updates-content-expansion-pc-ps4-ps5-xbox-one-series-x)
- - [Scope the free demo for this tasty blend of Vampire Survivors and Risk of Rain](https://www.pcgamer.com/scope-the-free-demo-for-this-tasty-blend-of-vampire-survivors-and-risk-of-rain)
- - [8 Things You Didn&#39;t Know About Goof Troop](https://game-rant-2022.blogspot.com/2022/09/8-things-you-didnt-know-about-goof-troop.html)<!-- GAME:END -->
+ - [Here&#39;s a chunky new Homeworld 3 gameplay trailer about an ambush](https://www.pcgamer.com/heres-a-chunky-new-homeworld-3-gameplay-trailer-about-an-ambush)
+ - [Red Dead Online: A fond farewell to Rockstar&#39;s multiplayer Western](https://game-rant-2022.blogspot.com/2022/09/red-dead-online-fond-farewell-to.html)
+ - [Interview with Teenage Mutant Ninja Turtles: The Cowabunga Collection](https://game-rant-2022.blogspot.com/2022/09/interview-with-teenage-mutant-ninja.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
