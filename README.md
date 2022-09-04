@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Our Favorite Gear for Everyday Sun Protection](https://www.wired.com/gallery/everyday-sun-protection/)
- - [Apple’s reportedly set to reveal the AirPods Pro 2 this week](https://www.theverge.com/2022/9/4/23336671/apple-announce-airpods-pro-2-this-weeks-far-out-event)
- - [Apple won&#39;t call to ask you to tell them a code you get on your iPhone](https://appleinsider.com/articles/22/09/04/youtuber-avoids-becoming-a-victim-to-an-icloud-phishing-phone-call?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s putting a three-day pause on reviews for The Rings of Power](https://www.theverge.com/2022/9/4/23336624/amazon-prime-video-three-day-pause-rings-of-power-review-bombing)
+ - [Apple Watch Pro could have a $900 price tag at launch](https://appleinsider.com/articles/22/09/04/apple-watch-pro-could-have-a-900-price-tag-at-launch?utm_medium=rss)
+ - [Apple reportedly working on at least three AR, VR headsets](https://appleinsider.com/articles/22/09/04/apple-reportedly-working-on-at-least-three-ar-vr-headsets?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
