@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [`do it for her`](http://9gag.com/gag/ajg2R4p)
- - ⏩ [Satisfying](http://9gag.com/gag/avAb9Wn)
+ - ⏩ [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
  - 👉 [He forgot to drink his espresso after lunch... Thats why he forgot the tire](http://9gag.com/gag/avAbm2n)<!-- MEMES:END -->
 
 ---
