@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Contact Customer Service](https://game-rant-2022.blogspot.com/2022/09/contact-customer-service.html)
- - [Game Show Trivia - &#39;Are You Smarter Than a Fifth Grade Student?&#39;  Review](https://game-rant-2022.blogspot.com/2022/09/game-show-trivia-are-you-smarter-than.html)
- - [Beginner tips for islands](https://game-rant-2022.blogspot.com/2022/09/beginner-tips-for-islands.html)<!-- GAME:END -->
+ - [Xbox Game Releases - September 5 to 11](https://game-rant-2022.blogspot.com/2022/09/xbox-game-releases-september-5-to-11.html)
+ - [Yuoni Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/yuoni-review-niche-gamer.html)
+ - [The Complete Master Mode Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-master-mode-guide-and-tips.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
