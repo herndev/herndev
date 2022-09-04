@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now that&#39;s how present a strong female character](http://9gag.com/gag/aZr9E8X)
- - ⏩ [Vibing~](http://9gag.com/gag/aBnDX9P)
- - 👉 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)<!-- MEMES:END -->
+ - 💣 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
+ - ⏩ [She is Too Calm](http://9gag.com/gag/amgDVDy)
+ - 👉 [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)<!-- MEMES:END -->
 
 ---
 
