@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Forgotten PS2 Party Games](https://game-rant-2022.blogspot.com/2022/09/forgotten-ps2-party-games.html)
- - [Pentiment is an intriguing medieval manuscript adventure](https://game-rant-2022.blogspot.com/2022/09/pentiment-is-intriguing-medieval.html)
- - [7 video game characters you should avoid at all costs](https://game-rant-2022.blogspot.com/2022/09/7-video-game-characters-you-should.html)<!-- GAME:END -->
+ - [Wizards of the Coast apologizes for and removes racist elements of Spelljammer](https://www.pcgamer.com/wizards-of-the-coast-apologizes-for-and-removes-racist-elements-of-spelljammer)
+ - [The 10 Hardest Video Game Achievements, Ranked](https://game-rant-2022.blogspot.com/2022/09/the-10-hardest-video-game-achievements.html)
+ - [Assassin&#39;s Creed&#39;s Next Game Officially Announced After Leak](https://game-rant-2022.blogspot.com/2022/09/assassins-creeds-next-game-officially.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
