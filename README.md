@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was probably the last decent series of a Marvel character that sadly got cancelled and did not got enough spotlight despite the amazing work and story potential...](http://9gag.com/gag/aGzP7PX)
- - ⏩ [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
- - 👉 [This food made me smile &lpar;enjoy&rpar;](http://9gag.com/gag/axBp4K2)<!-- MEMES:END -->
+ - 💣 [Some things will never change](http://9gag.com/gag/angAVXn)
+ - ⏩ [What if you&#39;re wrong..](http://9gag.com/gag/aRrxRBy)
+ - 👉 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
 
 ---
 
