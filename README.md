@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Skarper’s Clip-On Motor Turns a Regular Bike Into an Ebike](https://www.wired.com/story/skarper-ebike-first-ride-impressions/)
- - [Electric Fish Genomes Reveal How Evolution Repeats Itself](https://www.wired.com/story/electric-fish-genomes-reveal-how-evolution-repeats-itself/)
- - [YouTube Premium Has Its Perks. Here Are Some to Consider](https://www.wired.com/story/youtube-premium-features-perks/)<!-- TECH:END -->
+ - [Our Favorite Smartwatches Do Much More Than Just Tell Time](https://www.wired.com/gallery/best-smartwatches/)
+ - [What to expect from the &#39;iPhone Fold&#39;](https://appleinsider.com/articles/22/01/03/apples-folding-iphone---what-to-expect-from-the-iphone-fold?utm_medium=rss)
+ - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
