@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Sony Probably Won&#39;t Buy Square Enix](https://game-rant-2022.blogspot.com/2022/09/why-sony-probably-wont-buy-square-enix.html)
- - [ARPA-E is behind climate technology&#39;s biggest moonshots](https://game-rant-2022.blogspot.com/2022/09/arpa-e-is-behind-climate-technologys.html)
- - [Football rallies beyond Bloomsburg, 33-30 &lpar;2OT&rpar;](https://game-rant-2022.blogspot.com/2022/09/football-rallies-beyond-bloomsburg-33.html)<!-- GAME:END -->
+ - [Top 10 Tips and Tricks](https://game-rant-2022.blogspot.com/2022/09/top-10-tips-and-tricks.html)
+ - [The Top 10 Android Party Games](https://game-rant-2022.blogspot.com/2022/09/the-top-10-android-party-games.html)
+ - [Terrariums: the best mountains, ranked](https://game-rant-2022.blogspot.com/2022/09/terrariums-best-mountains-ranked.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
