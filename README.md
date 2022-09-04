@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Pro could have a $900 price tag at launch](https://appleinsider.com/articles/22/09/04/apple-watch-pro-could-have-a-900-price-tag-at-launch?utm_medium=rss)
- - [Cloudflare blocks Kiwi Farms due to an ‘immediate threat to human life’](https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life)
- - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)<!-- TECH:END -->
+ - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
+ - [In August 2022, Beijing&#39;s municipal government unveiled plans to regulate the &quot;Digital Human Industry&quot;, which covers digital assistants and virtual influencers &lpar;Meaghan Tobin/Rest of World&rpar;](http://www.techmeme.com/220904/p6#a220904p6)
+ - [Best USB-C Hub in 2022     - CNET](https://www.cnet.com/tech/computing/best-usb-c-hub-docking-station/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
