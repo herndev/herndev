@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NC A&amp;T Takeaways from the Duke&#39;s Mayo Classic](https://game-rant-2022.blogspot.com/2022/09/nc-takeaways-from-dukes-mayo-classic.html)
- - [10 best games that will make Xbox One a worthy console in 2022](https://game-rant-2022.blogspot.com/2022/09/10-best-games-that-will-make-xbox-one.html)
- - [Total War: Warhammer 3 - How to Play Valkia The Bloody](https://game-rant-2022.blogspot.com/2022/09/total-war-warhammer-3-how-to-play.html)<!-- GAME:END -->
+ - [Why Sony Probably Won&#39;t Buy Square Enix](https://game-rant-2022.blogspot.com/2022/09/why-sony-probably-wont-buy-square-enix.html)
+ - [ARPA-E is behind climate technology&#39;s biggest moonshots](https://game-rant-2022.blogspot.com/2022/09/arpa-e-is-behind-climate-technologys.html)
+ - [Football rallies beyond Bloomsburg, 33-30 &lpar;2OT&rpar;](https://game-rant-2022.blogspot.com/2022/09/football-rallies-beyond-bloomsburg-33.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
