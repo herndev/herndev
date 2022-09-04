@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [What&#39;s new in FIFA 23?  |  Every new FIFA 23 gameplay feature](https://game-rant-2022.blogspot.com/2022/09/whats-new-in-fifa-23-every-new-fifa-23.html)
  - [TechNigeria: A Weekly Recap of What Happened in Nigeria&#39;s Tech Space](https://game-rant-2022.blogspot.com/2022/09/technigeria-weekly-recap-of-what.html)
- - [Halo Infinite Leaving split-screen co-op will hurt the game and the fans](https://game-rant-2022.blogspot.com/2022/09/halo-infinite-leaving-split-screen-co.html)
- - [Join a battle royale on an exotic wild island](https://game-rant-2022.blogspot.com/2022/09/join-battle-royale-on-exotic-wild-island.html)<!-- GAME:END -->
+ - [Halo Infinite Leaving split-screen co-op will hurt the game and the fans](https://game-rant-2022.blogspot.com/2022/09/halo-infinite-leaving-split-screen-co.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
