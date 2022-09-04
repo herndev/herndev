@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amid mass layoffs, Snap says Web3 is not a priority since it doesn&#39;t directly contribute to the company&#39;s AR efforts, in sharp contrast to moves by rival Meta &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/220904/p1#a220904p1)
  - [Amazon says The Rings of Power&#39;s first two episodes drew 25M viewers globally in its first day, revealing viewership for a Prime Video series for the first time &lpar;Jennifer Maas/Variety&rpar;](http://www.techmeme.com/220903/p15#a220903p15)
- - [Hear Images From NASA&#39;s James Webb Telescope Turned Into Haunting Music     - CNET](https://www.cnet.com/science/space/listen-to-beautiful-images-from-nasas-james-webb-telescope-turned-into-haunting-music/#ftag=CAD590a51e)
- - [Middle-Earth Map a Handy &#39;Rings of Power&#39; Travel Guide     - CNET](https://www.cnet.com/culture/entertainment/middle-earth-map-a-handy-rings-of-power-travel-guide/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hear Images From NASA&#39;s James Webb Telescope Turned Into Haunting Music     - CNET](https://www.cnet.com/science/space/listen-to-beautiful-images-from-nasas-james-webb-telescope-turned-into-haunting-music/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
