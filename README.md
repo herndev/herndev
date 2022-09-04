@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)
- - ⏩ [Leo..](http://9gag.com/gag/a61WpOq)
- - 👉 [After always beeing a party animal, this is really the simple and best life](http://9gag.com/gag/axBpRG1)<!-- MEMES:END -->
+ - 💣 [Now that&#39;s how present a strong female character](http://9gag.com/gag/aZr9E8X)
+ - ⏩ [Vibing~](http://9gag.com/gag/aBnDX9P)
+ - 👉 [Waiting for a stranger to randomly send me a bitcoin](http://9gag.com/gag/aNPyR3v)<!-- MEMES:END -->
 
 ---
 
