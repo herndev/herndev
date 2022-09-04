@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)
- - [Dear Streaming Services, Not Every TV Show Deserves to Be a TV Show     - CNET](https://www.cnet.com/culture/entertainment/dear-streaming-services-not-every-tv-show-deserves-a-whole-series/#ftag=CAD590a51e)
- - [Best Xbox Series X and Series S Controllers for 2022     - CNET](https://www.cnet.com/tech/gaming/best-xbox-series-x-s-controller/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch Pro could have a $900 price tag at launch](https://appleinsider.com/articles/22/09/04/apple-watch-pro-could-have-a-900-price-tag-at-launch?utm_medium=rss)
+ - [Cloudflare blocks Kiwi Farms due to an ‘immediate threat to human life’](https://www.theverge.com/2022/9/4/23336772/cloudflare-blocks-kiwifarms-immediate-threat-human-life)
+ - [Pop quiz: How well do you know your dead Google apps?](https://www.androidauthority.com/dead-google-app-quiz-3202905/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
