@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She is Too Calm](http://9gag.com/gag/amgDVDy)
- - ⏩ [Some things never change](http://9gag.com/gag/adg3oZB)
- - 👉 [TRUST ISSUES?](http://9gag.com/gag/aKmbYRb)<!-- MEMES:END -->
+ - 💣 [I&#39;m not sure whether he&#39;s working on a muscle, or his will to live..](http://9gag.com/gag/aE8eZvM)
+ - ⏩ [ANTI-SCAM Call Center &lpar;@Scammer Payback on YouTube&rpar; Let\u2019s support them!](http://9gag.com/gag/awzqYn1)
+ - 👉 [Probably unpopular opinion](http://9gag.com/gag/aBnDO5Q)<!-- MEMES:END -->
 
 ---
 
