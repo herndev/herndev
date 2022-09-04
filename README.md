@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some things never change](http://9gag.com/gag/adg3oZB)
- - ⏩ [*sips at a bud light bottle*](http://9gag.com/gag/adg3oRM)
- - 👉 [It&#39;s funny because he&#39;s....](http://9gag.com/gag/aBnD4YN)<!-- MEMES:END -->
+ - 💣 [It\u2019s getting better and better](http://9gag.com/gag/aE8eOVM)
+ - ⏩ [No guys, there is no mafia-run state in the EU. Bulgaria is innocent..](http://9gag.com/gag/aogBnDn)
+ - 👉 [Satisfying](http://9gag.com/gag/avAb9Wn)<!-- MEMES:END -->
 
 ---
 
