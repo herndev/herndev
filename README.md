@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some things will never change](http://9gag.com/gag/angAVXn)
- - ⏩ [This man spits the truth. Peterson taking about Trump. Mad respect!](http://9gag.com/gag/aDDBMDG)
- - 👉 [Introverts at parties](http://9gag.com/gag/aDDBP4w)<!-- MEMES:END -->
+ - 💣 [Funny coz](http://9gag.com/gag/avAbD5O)
+ - ⏩ [Introverts at parties](http://9gag.com/gag/aDDBP4w)
+ - 👉 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)<!-- MEMES:END -->
 
 ---
 
