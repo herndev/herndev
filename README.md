@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is all we need to know](http://9gag.com/gag/aOQ61Y2)
- - ⏩ [When you realize she was flirting with you 5 years ago:](http://9gag.com/gag/angADo0)
- - 👉 [Dinosaur \ud83e\udd95](http://9gag.com/gag/awzqYdy)<!-- MEMES:END -->
+ - 💣 [Appreciate that](http://9gag.com/gag/aZr9zE6)
+ - ⏩ [Taylor Hawkins&#39; son playing My Hero](http://9gag.com/gag/aogB8e0)
+ - 👉 [Death Dorito](http://9gag.com/gag/angADWL)<!-- MEMES:END -->
 
 ---
 
