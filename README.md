@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top 10 Tips and Tricks](https://game-rant-2022.blogspot.com/2022/09/top-10-tips-and-tricks.html)
- - [The Top 10 Android Party Games](https://game-rant-2022.blogspot.com/2022/09/the-top-10-android-party-games.html)
- - [Terrariums: the best mountains, ranked](https://game-rant-2022.blogspot.com/2022/09/terrariums-best-mountains-ranked.html)<!-- GAME:END -->
+ - [5 easy tips to manage notifications on your Android phone](https://game-rant-2022.blogspot.com/2022/09/5-easy-tips-to-manage-notifications-on.html)
+ - [10 Best Comic Book Related Content Creators To Follow On TikTok](https://game-rant-2022.blogspot.com/2022/09/10-best-comic-book-related-content.html)
+ - [Why are fans dissatisfied with Stone Ocean&#39;s anime adaptation?](https://game-rant-2022.blogspot.com/2022/09/why-are-fans-dissatisfied-with-stone.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
