@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s pretty cool](http://9gag.com/gag/aGzP6x5)
- - ⏩ [This photo looks like a shot from SNL Elf parody sketch.](http://9gag.com/gag/avAbX8W)
- - 👉 [Makes you think.](http://9gag.com/gag/aVxG1j2)<!-- MEMES:END -->
+ - 💣 [Brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of &#39;the whale&#39;](http://9gag.com/gag/ajg2Mw1)
+ - ⏩ [Relationships lol](http://9gag.com/gag/a31opOr)
+ - 👉 [Protect her at all costs.](http://9gag.com/gag/a0ZmWnQ)<!-- MEMES:END -->
 
 ---
 
