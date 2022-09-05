@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a chad](http://9gag.com/gag/aAGnNwL)
- - ⏩ [The boys...](http://9gag.com/gag/awzqPL4)
- - 👉 [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)<!-- MEMES:END -->
+ - 💣 [Everyone can use a bit of help sometimes](http://9gag.com/gag/aze6ozq)
+ - ⏩ [J. R. R. Tolkien](http://9gag.com/gag/a114Beb)
+ - 👉 [People lining up for an escalator instead of taking the stairs](http://9gag.com/gag/aPZOz2n)<!-- MEMES:END -->
 
 ---
 
