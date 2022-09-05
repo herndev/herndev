@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [Save $100 on these Apple Watch models ahead of the Apple Event](https://appleinsider.com/articles/22/09/05/save-100-on-these-apple-watch-models-ahead-of-the-apple-event?utm_medium=rss)
- - [&#39;I Came By&#39; on Netflix: That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/i-came-by-on-netflix-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AEW All Out 2022: Results, MJF Return, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/aew-all-out-2022-results-mjf-return-full-recap-and-analysis/#ftag=CAD590a51e)
+ - [How Amtrak&#39;s Viral One-Word Tweet Inspired a Huge Twitter Trend     - CNET](https://www.cnet.com/culture/internet/how-amtraks-viral-one-word-tweet-inspired-the-latest-big-twitter-trend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
