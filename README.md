@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ranking the 7 best Warhammer fantasy video games](https://www.polygon.com/what-to-play/23333078/best-warhammer-fantasy-video-games-total-war-warhammer-3-vermintide-2)
- - [Xbox&#39;s Matt Booty Fantasizes About Replacing Maligned QA Workers With AI](https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926)
- - [Fans are getting excited about a Suikoden announcement, but they might be in for disappointment](https://www.pcgamer.com/fans-are-getting-excited-about-a-suikoden-announcement-but-they-might-be-in-for-disappointment)<!-- GAME:END -->
+ - [Former Sledgehammer Boss Clumsily Walks Back Pro-Crunch Comments](https://kotaku.com/striking-distance-callisto-protocol-schofield-crunch-1849497041)
+ - [What&#39;s Coming on Screens: September 2022](https://game-rant-2022.blogspot.com/2022/09/whats-coming-on-screens-september-2022.html)
+ - [First Look: Virginia Tech Welcomes Boston College to Lane Stadium for Home Opener in 2022](https://game-rant-2022.blogspot.com/2022/09/first-look-virginia-tech-welcomes.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
