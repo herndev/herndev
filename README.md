@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How the North Atlantic Fellas Organization, or NAFO, a group of national security experts and ordinary Twitter users, is using memes to fight Russian propaganda &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220905/p2#a220905p2)
- - [EU wants to enforce 5 years of security and 3 years of OS updates for all phones](https://www.androidauthority.com/eu-smartphone-updates-rules-3205112/)
- - [LG launches LG Art Lab which lets US users buy, sell, and trade NFTs on its smart TVs, partners with Hedera to enable purchases via LG&#39;s crypto wallet, Wallypto &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220905/p1#a220905p1)<!-- TECH:END -->
+ - [Apple TV+ wins five Creative Arts Emmys](https://appleinsider.com/articles/22/09/05/apple-tv-wins-five-creative-arts-emmys?utm_medium=rss)
+ - [Instagram removes PornHub’s account as pressure from campaigners grows](https://www.theverge.com/2022/9/5/23337535/instagram-removes-pornhub-official-account)
+ - [The Iranian government plans to use facial recognition on public transport to identify women who are not complying with its strict new hijab laws &lpar;Weronika Strzy&amp;#380;y&amp;#324;ska/The Gua ...&rpar;](http://www.techmeme.com/220905/p4#a220905p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
