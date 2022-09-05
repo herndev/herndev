@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesse, thats not a woman](http://9gag.com/gag/amgDO3X)
- - ⏩ [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)
- - 👉 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)<!-- MEMES:END -->
+ - 💣 [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)
+ - ⏩ [Let&#39;s support this man by any means necessary, for all the great memories he made for us over the years. He was and he always will be my favorite actor.](http://9gag.com/gag/amgDQ0V)
+ - 👉 [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)<!-- MEMES:END -->
 
 ---
 
