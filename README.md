@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep calm and use your brains.](http://9gag.com/gag/aze6QpN)
- - ⏩ [This food made me smile &lpar;enjoy&rpar;](http://9gag.com/gag/axBp4K2)
- - 👉 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
+ - 💣 [Whamen y u do tis?](http://9gag.com/gag/a0ZmWPq)
+ - ⏩ [This photo looks like a shot from SNL Elf parody sketch.](http://9gag.com/gag/avAbX8W)
+ - 👉 [Puzzle composed of different animal shapes](http://9gag.com/gag/aZr9V6X)<!-- MEMES:END -->
 
 ---
 
