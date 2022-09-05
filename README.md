@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG launches LG Art Lab which lets US users buy, sell, and trade NFTs on its smart TVs, partners with Hedera to enable purchases via LG&#39;s crypto wallet, Wallypto &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220905/p1#a220905p1)
- - [Your Android phone could soon get snore and cough detection abilities &lpar;Updated&rpar;](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)
- - [No Google, no worry: Huawei brings new phones and more to IFA 2022 &lpar;Updated&rpar;](https://www.androidauthority.com/huawei-ifa-2022-3204276/)<!-- TECH:END -->
+ - [How the North Atlantic Fellas Organization, or NAFO, a group of national security experts and ordinary Twitter users, is using memes to fight Russian propaganda &lpar;Mark Scott/Politico&rpar;](http://www.techmeme.com/220905/p2#a220905p2)
+ - [EU wants to enforce 5 years of security and 3 years of OS updates for all phones](https://www.androidauthority.com/eu-smartphone-updates-rules-3205112/)
+ - [LG launches LG Art Lab which lets US users buy, sell, and trade NFTs on its smart TVs, partners with Hedera to enable purchases via LG&#39;s crypto wallet, Wallypto &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220905/p1#a220905p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
