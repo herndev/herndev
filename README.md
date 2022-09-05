@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
- - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)
- - [Apple&#39;s iPhone 14 case colors leak days before event](https://appleinsider.com/articles/22/09/05/apples-iphone-14-case-colors-leak-days-before-event?utm_medium=rss)<!-- TECH:END -->
+ - [Psssstt…you can watch House of the Dragon for free on YouTube right now](https://www.theverge.com/2022/9/5/23337730/watch-house-of-the-dragon-free-youtube-now-hbo-max)
+ - [New Hue bulbs, Eve Thread switch &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/05/new-hue-bulbs-eve-thread-switch-more-on-homekit-insider?utm_medium=rss)
+ - [The Best Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
