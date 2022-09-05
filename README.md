@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No Google, no worry: Huawei brings new phones and more to IFA 2022 &lpar;Updated&rpar;](https://www.androidauthority.com/huawei-ifa-2022-3204276/)
- - [Samsung shows love to older foldables and smartwatches with big updates](https://www.androidauthority.com/samsung-latest-updates-3205099/)
- - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
+ - [LG launches LG Art Lab which lets US users buy, sell, and trade NFTs on its smart TVs, partners with Hedera to enable purchases via LG&#39;s crypto wallet, Wallypto &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220905/p1#a220905p1)
+ - [Your Android phone could soon get snore and cough detection abilities &lpar;Updated&rpar;](https://www.androidauthority.com/android-phone-snore-cough-detection-3169937/)
+ - [No Google, no worry: Huawei brings new phones and more to IFA 2022 &lpar;Updated&rpar;](https://www.androidauthority.com/huawei-ifa-2022-3204276/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
