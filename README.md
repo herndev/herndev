@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [USB4 Version 2.0 with 80Gbps speeds is coming](https://www.pcgamer.com/usb4-version-20-with-80gbps-speeds-is-coming)
- - [D&amp;D&#39;s new Spelljammer books don&#39;t include a lot of new rules, and that&#39;s OK](https://www.pcgamer.com/dandds-new-spelljammer-books-dont-include-a-lot-of-new-rules-and-thats-ok)
- - [10 Mistakes That Still Haunt Bandai Namco](https://game-rant-2022.blogspot.com/2022/09/10-mistakes-that-still-haunt-bandai.html)<!-- GAME:END -->
+ - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)
+ - [Legend turns C64 into a theremin, otherwise known as that weird sci-fi instrument](https://www.pcgamer.com/legend-turns-c64-into-a-theremin-otherwise-known-as-that-weird-sci-fi-instrument)
+ - [USB4 Version 2.0 with 80Gbps speeds is coming](https://www.pcgamer.com/usb4-version-20-with-80gbps-speeds-is-coming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
