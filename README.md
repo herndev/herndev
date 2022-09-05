@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Over 60 of the latest Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)
- - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)
- - [Christian von Koenigsegg on the CC850 and Its Crazy Manual Transmission     - CNET](https://www.cnet.com/roadshow/news/christian-von-koenigsegg-cc850-hypercar-manual-transmission-interview-the-quail/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A utility company locked thousands of customers out of their smart thermostats in Colorado](https://www.theverge.com/2022/9/5/23337864/xcel-locked-out-customers-smart-thermostats-colorado-heatwave)
+ - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)
+ - [Netflix’s Arcane is the first streaming series to win an Emmy award for animation](https://www.theverge.com/2022/9/5/23337974/netflix-arcane-streaming-win-animation-emmy-award-league-of-legends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
