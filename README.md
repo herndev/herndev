@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great offer](http://9gag.com/gag/aVxGrRP)
- - ⏩ [I prefer the male version to be honest, but then again I&#39;m male](http://9gag.com/gag/aE8ejmx)
- - 👉 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)<!-- MEMES:END -->
+ - 💣 [2022](http://9gag.com/gag/a81rOGQ)
+ - ⏩ [Why woman live longer](http://9gag.com/gag/aVxG9d8)
+ - 👉 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)<!-- MEMES:END -->
 
 ---
 
