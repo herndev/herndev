@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best AT&amp;T deals: Save $1,000 on the Galaxy Z series with trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
- - [Everything iOS 16 Can Tell Us About the iPhone 14     - CNET](https://www.cnet.com/tech/mobile/everything-ios-16-can-tell-us-about-the-iphone-14/#ftag=CAD590a51e)
- - [Sources: Amazon plans to partner with small and medium-size pharmacies in Japan to launch an online prescription drug marketplace in the country in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220905/p15#a220905p15)<!-- TECH:END -->
+ - [Purported Apple Watch Pro Renders Suggest Extra Button     - CNET](https://www.cnet.com/tech/mobile/purported-apple-watch-pro-renders-suggest-extra-button/#ftag=CAD590a51e)
+ - [The 40 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
+ - [Apple iPhone 14: Everything we know so far &lpar;Updated: September 5&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
