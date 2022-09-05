@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone can use a bit of help sometimes](http://9gag.com/gag/aze6ozq)
- - ⏩ [J. R. R. Tolkien](http://9gag.com/gag/a114Beb)
+ - 💣 [Brendan Fraser getting a 6 minute standing ovation in Venice](http://9gag.com/gag/aze6vRm)
+ - ⏩ [Everyone can use a bit of help sometimes](http://9gag.com/gag/aze6ozq)
  - 👉 [I Work 14 hours a day and managed to buy my mom a house 4 hours away from me, I pay the mortgage so she can live without working, she&#39;s had a hard life and got us out of a shit country and into a great one. Visited my mom for the first time in a year, this is our slav breakfast.](http://9gag.com/gag/aXr8Q9v)<!-- MEMES:END -->
 
 ---
