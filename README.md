@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whamen y u do tis?](http://9gag.com/gag/a0ZmWPq)
+ - 💣 [I Work 14 hours a day and managed to buy my mom a house 4 hours away from me, I pay the mortgage so she can live without working, she&#39;s had a hard life and got us out of a shit country and into a great one. Visited my mom for the first time in a year, this is our slav breakfast.](http://9gag.com/gag/aXr8Q9v)
  - ⏩ [This photo looks like a shot from SNL Elf parody sketch.](http://9gag.com/gag/avAbX8W)
- - 👉 [Puzzle composed of different animal shapes](http://9gag.com/gag/aZr9V6X)<!-- MEMES:END -->
+ - 👉 [Makes you think.](http://9gag.com/gag/aVxG1j2)<!-- MEMES:END -->
 
 ---
 
