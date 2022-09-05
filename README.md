@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The boys...](http://9gag.com/gag/awzqPL4)
- - ⏩ [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)
- - 👉 [What a chad](http://9gag.com/gag/aAGnNwL)<!-- MEMES:END -->
+ - 💣 [What a chad](http://9gag.com/gag/aAGnNwL)
+ - ⏩ [The boys...](http://9gag.com/gag/awzqPL4)
+ - 👉 [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)<!-- MEMES:END -->
 
 ---
 
