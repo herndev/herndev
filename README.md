@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Annoying type of f**ker](http://9gag.com/gag/aLvqo1M)
+ - 💣 [Shit his pants](http://9gag.com/gag/a9130Km)
  - ⏩ [She seems nice](http://9gag.com/gag/aGzP5RG)
- - 👉 [It&#39;s happening!](http://9gag.com/gag/aKmbZyQ)<!-- MEMES:END -->
+ - 👉 [Let\u2019s make this one happen](http://9gag.com/gag/aogB6eg)<!-- MEMES:END -->
 
 ---
 
