@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Former Sledgehammer Boss Clumsily Walks Back Pro-Crunch Comments](https://kotaku.com/striking-distance-callisto-protocol-schofield-crunch-1849497041)
- - [What&#39;s Coming on Screens: September 2022](https://game-rant-2022.blogspot.com/2022/09/whats-coming-on-screens-september-2022.html)
- - [First Look: Virginia Tech Welcomes Boston College to Lane Stadium for Home Opener in 2022](https://game-rant-2022.blogspot.com/2022/09/first-look-virginia-tech-welcomes.html)<!-- GAME:END -->
+ - [Rick and Morty’s creators to internet: You might be overthinking the canon stuff](https://www.polygon.com/23332777/rick-morty-season-6-premiere-recap-interview-release)
+ - [Arcane becomes the first gaming show to win an Emmy](https://www.pcgamer.com/arcane-becomes-the-first-gaming-show-to-win-an-emmy)
+ - [Former Sledgehammer Boss Clumsily Walks Back Pro-Crunch Comments](https://kotaku.com/striking-distance-callisto-protocol-schofield-crunch-1849497041)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
