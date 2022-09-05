@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Voyager 1 and 2, Humanity’s Interstellar Envoys, Soldier On at 45](https://www.wired.com/story/voyager-1-and-2-humanitys-interstellar-envoys-soldier-on-at-45/)
- - [An Old Casio Keyboard Changed Everything for Julia Jacklin](https://www.wired.com/story/casio-keyboard-julia-jacklin/)
- - [Samsung is bringing new features to its older foldables and smartwatches starting today](https://www.theverge.com/2022/9/5/23337570/samsung-galaxy-foldables-phones-smart-watches-new-feature-update-selfie-android)<!-- TECH:END -->
+ - [Apple Watch Pro CAD illustrates Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
+ - [The Future of Fortnite Is in the Hands of Its Players](https://www.wired.com/story/the-future-of-fortnite/)
+ - [The Nighthawk M5 Router Brings Wi-Fi Wherever You Go](https://www.wired.com/review/netgear-nighthawk-m5-5g-router/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
