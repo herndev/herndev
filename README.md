@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
- - [Jaws is a box office hit again, 47 years after it first hit theaters](https://www.theverge.com/2022/9/5/23338141/national-cinema-day-jaws-box-office)
- - [&#39;Thor: Love and Thunder&#39; Review: Taika Waititi&#39;s Marvel Return Is a Disappointing Encore     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-review-taika-waititi-marvel-return-is-a-disappointing-encore/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best AT&amp;T deals: Save $1,000 on the Galaxy Z series with trade-in](https://www.androidauthority.com/best-att-deals-2-836102/)
+ - [Everything iOS 16 Can Tell Us About the iPhone 14     - CNET](https://www.cnet.com/tech/mobile/everything-ios-16-can-tell-us-about-the-iphone-14/#ftag=CAD590a51e)
+ - [Sources: Amazon plans to partner with small and medium-size pharmacies in Japan to launch an online prescription drug marketplace in the country in 2023 &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/220905/p15#a220905p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
