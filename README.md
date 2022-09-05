@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Viserys’ wounds in House of the Dragon are a Thrones lore deep cut](https://www.polygon.com/23328660/house-dragon-viserys-iron-throne-cut)
- - [Five new Steam games you probably missed &lpar;September 5, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-5-2022)
- - [House of the Dragon episode 3 gives the franchise its first great medium-sized battle](https://www.polygon.com/23331475/house-dragon-episode-3-daemon-crabfeeder-dragon-battle)<!-- GAME:END -->
+ - [D&amp;D&#39;s new Spelljammer books don&#39;t include a lot of new rules, and that&#39;s OK](https://www.pcgamer.com/dandds-new-spelljammer-books-dont-include-a-lot-of-new-rules-and-thats-ok)
+ - [10 Mistakes That Still Haunt Bandai Namco](https://game-rant-2022.blogspot.com/2022/09/10-mistakes-that-still-haunt-bandai.html)
+ - [World Of Warcraft WotLK Pre-Patch Details](https://game-rant-2022.blogspot.com/2022/09/world-of-warcraft-wotlk-pre-patch.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
