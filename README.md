@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 highly anticipated PS5 games coming soon](https://game-rant-2022.blogspot.com/2022/09/10-highly-anticipated-ps5-games-coming.html)
- - [4 Sept.  2022 match: Braves 7, Marlins 1](https://game-rant-2022.blogspot.com/2022/09/4-sept-2022-match-braves-7-marlins-1.html)
- - [10 Video Game Characters Taika Waititi Could Play](https://game-rant-2022.blogspot.com/2022/09/10-video-game-characters-taika-waititi.html)<!-- GAME:END -->
+ - [COLUMN/PERSPECTIVE: Reflections on the sights and sounds of college football |  Local news](https://game-rant-2022.blogspot.com/2022/09/columnperspective-reflections-on-sights.html)
+ - [My Hero Academia 365: Edgeshot&#39;s Sacrifice](https://game-rant-2022.blogspot.com/2022/09/my-hero-academia-365-edgeshots-sacrifice.html)
+ - [10 highly anticipated PS5 games coming soon](https://game-rant-2022.blogspot.com/2022/09/10-highly-anticipated-ps5-games-coming.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
