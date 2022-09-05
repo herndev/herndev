@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Then End of The Great Wall of China](http://9gag.com/gag/axBp4nb)
- - ⏩ [Funny coz](http://9gag.com/gag/avAbD5O)
+ - 💣 [Funny coz](http://9gag.com/gag/avAbD5O)
+ - ⏩ [After saving money, i bought my first car. It aint much but its honnest work](http://9gag.com/gag/aegXWo5)
  - 👉 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
 
 ---
