@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You see, hooman, it&#39;s THAT simple!](http://9gag.com/gag/aggRbMg)
- - ⏩ [I&#39;m the Captain of the Airplane.. That&#39;s where it&#39;s POSTED!](http://9gag.com/gag/a61We8q)
+ - 💣 [Great offer](http://9gag.com/gag/aVxGrRP)
+ - ⏩ [I prefer the male version to be honest, but then again I&#39;m male](http://9gag.com/gag/aE8ejmx)
  - 👉 [EMBT, French-German tank from KNDS has been unveiled](http://9gag.com/gag/aWgVAMK)<!-- MEMES:END -->
 
 ---
