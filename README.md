@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
- - [AEW All Out 2022: Results, MJF Return, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/aew-all-out-2022-results-mjf-return-full-recap-and-analysis/#ftag=CAD590a51e)
- - [How Amtrak&#39;s Viral One-Word Tweet Inspired a Huge Twitter Trend     - CNET](https://www.cnet.com/culture/internet/how-amtraks-viral-one-word-tweet-inspired-the-latest-big-twitter-trend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [No Google, no worry: Huawei brings new phones and more to IFA 2022 &lpar;Updated&rpar;](https://www.androidauthority.com/huawei-ifa-2022-3204276/)
+ - [Samsung shows love to older foldables and smartwatches with big updates](https://www.androidauthority.com/samsung-latest-updates-3205099/)
+ - [Labor Day deals: $174 AirPods Pro, $229 Apple Watch, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
