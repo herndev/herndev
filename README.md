@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Psssstt…you can watch House of the Dragon for free on YouTube right now](https://www.theverge.com/2022/9/5/23337730/watch-house-of-the-dragon-free-youtube-now-hbo-max)
- - [New Hue bulbs, Eve Thread switch &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/05/new-hue-bulbs-eve-thread-switch-more-on-homekit-insider?utm_medium=rss)
- - [The Best Wireless Earbuds for Every Need](https://www.wired.com/gallery/best-wirefree-earbuds/)<!-- TECH:END -->
+ - [Google Pixel 6a just $200 right now without a trade-in, only one small caveat](https://www.androidauthority.com/google-pixel-6a-deal-best-buy-2022-3205231/)
+ - [Apple is exploiting features to expand its own advertising, say advertisers](https://appleinsider.com/articles/22/09/05/apple-is-exploiting-features-to-expand-its-own-advertising-say-advertisers?utm_medium=rss)
+ - [Ireland&#39;s DPC fines Instagram &amp;euro;405M for violating children&#39;s privacy under GDPR, the second highest fine under the law and the third for a Meta-owned company &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220905/p11#a220905p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
