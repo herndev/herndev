@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Purported Apple Watch Pro Renders Suggest Extra Button     - CNET](https://www.cnet.com/tech/mobile/purported-apple-watch-pro-renders-suggest-extra-button/#ftag=CAD590a51e)
- - [The 40 Best Labor Day Deals on Tech, Grills, and Home Goods](https://www.wired.com/story/best-labor-day-sales-2022/)
- - [Apple iPhone 14: Everything we know so far &lpar;Updated: September 5&rpar;](https://www.androidauthority.com/apple-iphone-14-3153710/)<!-- TECH:END -->
+ - [Utility company Xcel locked 22,000 Colorado users in an energy saving program out of their smart thermostats for hours on August 30 citing an &quot;energy emergency&quot; &lpar;Jaclyn Allen/TheDenverChannel.com&rpar;](http://www.techmeme.com/220905/p16#a220905p16)
+ - [Streaming services need to stop showing me the same ad over and over &lpar;and over&rpar;](https://www.theverge.com/2022/9/5/23338364/streaming-service-ads-repetition)
+ - [Leaked Apple Watch Pro case accessory shows two extra buttons](https://appleinsider.com/articles/22/09/05/leaked-apple-watch-pro-case-accessory-shows-two-extra-buttons?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
