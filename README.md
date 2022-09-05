@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Good Vibes Only&#39;: Raleigh and Kirby Emerge in Spotless Week for M&#39;s](https://game-rant-2022.blogspot.com/2022/09/good-vibes-only-raleigh-and-kirby.html)
- - [10 most iconic outfits in gaming](https://game-rant-2022.blogspot.com/2022/09/10-most-iconic-outfits-in-gaming.html)
- - [These modders are reconstructing the Duke Nukem Forever of the Good Timeline](https://www.pcgamer.com/these-modders-are-reconstructing-the-duke-nukem-forever-of-the-good-timeline)<!-- GAME:END -->
+ - [Viserys’ wounds in House of the Dragon are a Thrones lore deep cut](https://www.polygon.com/23328660/house-dragon-viserys-iron-throne-cut)
+ - [Five new Steam games you probably missed &lpar;September 5, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-5-2022)
+ - [House of the Dragon episode 3 gives the franchise its first great medium-sized battle](https://www.polygon.com/23331475/house-dragon-episode-3-daemon-crabfeeder-dragon-battle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
