@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Shadow of the Past     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-shadow-of-the-past/#ftag=CAD590a51e)
- - [US parents are increasingly buying Apple Watches as a stopgap cellphone to reach and track their children as young as 5 while mitigating internet addiction &lpar;New York Times&rpar;](http://www.techmeme.com/220904/p7#a220904p7)
- - [&#39;The Rings of Power&#39; Episode 2 Recap: The Orcs Are Back     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-2-recap-the-orcs-are-back/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG is bringing NFTs to its smart TVs](https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency)
+ - [The Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
