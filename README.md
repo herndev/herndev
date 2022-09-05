@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Brendan Fraser getting a 6 minute standing ovation in Venice](http://9gag.com/gag/aze6vRm)
- - ⏩ [Everyone can use a bit of help sometimes](http://9gag.com/gag/aze6ozq)
- - 👉 [I Work 14 hours a day and managed to buy my mom a house 4 hours away from me, I pay the mortgage so she can live without working, she&#39;s had a hard life and got us out of a shit country and into a great one. Visited my mom for the first time in a year, this is our slav breakfast.](http://9gag.com/gag/aXr8Q9v)<!-- MEMES:END -->
+ - ⏩ [Now this is a great movie. You can&#39;t tell what&#39;s real and what&#39;s not.](http://9gag.com/gag/aGzPryz)
+ - 👉 [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)<!-- MEMES:END -->
 
 ---
 
