@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poolin, one of the world&#39;s biggest bitcoin mining pools, suspends withdrawals from its wallet service, citing liquidity issues &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/220905/p13#a220905p13)
- - [The GoPro Hero11 Black will reportedly have a new sensor and an old design](https://www.theverge.com/2022/9/5/23338023/gopro-hero-11-black-design-sensor)
- - [Apple iPhone 14 vs. iPhone 13: How Will the 2022 iPhone Stack up on Price, Design and Features?     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-vs-iphone-13-how-will-the-2022-iphone-stack-up-on-price-design-and-features/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Binance will stop supporting the world&#39;s second biggest stablecoin USDC on September 29 and convert users&#39; USDC, USDP, and TUSD into its own stablecoin BUSD &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220905/p14#a220905p14)
+ - [Instagram was fined $402 million for mishandling teens’ data in the EU](https://www.theverge.com/2022/9/5/23338081/instagram-eu-fine-ireland-kids-data)
+ - [Coolest Features of iOS 16: Learn What&#39;s Coming to Your iPhone     - CNET](https://www.cnet.com/tech/mobile/coolest-features-of-ios-16-learn-whats-coming-to-your-iphone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
