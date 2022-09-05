@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spark The Electric Jester 3 refines Sonic-style 3D platforming to an art](https://www.pcgamer.com/spark-the-electric-jester-3-refines-sonic-style-3d-platforming-to-an-art)
- - [Phasmophobia custom difficulty coming this month on its updated roadmap](https://www.pcgamer.com/phasmophobia-custom-difficulty-coming-this-month-on-its-updated-roadmap)
- - [Batman: The Animated Series opened my world and changed my life](https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay)<!-- GAME:END -->
+ - [Kotaku’s Mike Fahey, beloved ‘big kid’ of video games journalism, dies at 49](https://www.polygon.com/23338208/mike-fahey-kotaku-obituary)
+ - [Proprivex becomes a game changer in Blockchain technology, such as Avalanche and FTX Token](https://game-rant-2022.blogspot.com/2022/09/proprivex-becomes-game-changer-in.html)
+ - [RPG games with low stakes stories and plotlines](https://game-rant-2022.blogspot.com/2022/09/rpg-games-with-low-stakes-stories-and.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
