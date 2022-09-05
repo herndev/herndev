@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Batman: The Animated Series opened my world and changed my life](https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay)
- - [Xbox Games Studios boss says artificial intelligence QA is his &#39;dream&#39;](https://www.pcgamer.com/xbox-games-studios-boss-says-artificial-intelligence-qa-is-his-dream)
- - [PC gaming&#39;s most beloved and most obscure shared universes](https://www.pcgamer.com/pc-gamings-most-beloved-and-most-obscure-shared-universes)<!-- GAME:END -->
+ - [Spark The Electric Jester 3 refines Sonic-style 3D platforming to an art](https://www.pcgamer.com/spark-the-electric-jester-3-refines-sonic-style-3d-platforming-to-an-art)
+ - [Phasmophobia custom difficulty coming this month on its updated roadmap](https://www.pcgamer.com/phasmophobia-custom-difficulty-coming-this-month-on-its-updated-roadmap)
+ - [Batman: The Animated Series opened my world and changed my life](https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
