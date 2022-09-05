@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 6a just $200 right now without a trade-in, only one small caveat](https://www.androidauthority.com/google-pixel-6a-deal-best-buy-2022-3205231/)
- - [Apple is exploiting features to expand its own advertising, say advertisers](https://appleinsider.com/articles/22/09/05/apple-is-exploiting-features-to-expand-its-own-advertising-say-advertisers?utm_medium=rss)
- - [Ireland&#39;s DPC fines Instagram &amp;euro;405M for violating children&#39;s privacy under GDPR, the second highest fine under the law and the third for a Meta-owned company &lpar;Vincent Manancourt/Politico&rpar;](http://www.techmeme.com/220905/p11#a220905p11)<!-- TECH:END -->
+ - [Over 60 of the latest Nintendo Switch deals](https://www.androidauthority.com/best-nintendo-switch-deals-1146985/)
+ - [The ultimate guide on how to customize your iPhone running iOS 16](https://appleinsider.com/inside/ios-16/tips/the-ultimate-guide-on-how-to-customize-your-iphone-running-ios-16?utm_medium=rss)
+ - [Christian von Koenigsegg on the CC850 and Its Crazy Manual Transmission     - CNET](https://www.cnet.com/roadshow/news/christian-von-koenigsegg-cc850-hypercar-manual-transmission-interview-the-quail/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
