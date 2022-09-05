@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2K&#39;s &#39;quality of life&#39; change for BioShock is that Linux users can&#39;t play it anymore](https://www.pcgamer.com/2ks-quality-of-life-change-for-bioshock-is-that-linux-users-cant-play-it-anymore)
- - [Watch Rick and Morty roleplay as Kratos and son in this God of War ad](https://www.polygon.com/23337745/rick-and-morty-god-of-war-ragnarok-ad)
- - [Rick and Morty’s creators to internet: You might be overthinking the canon stuff](https://www.polygon.com/23332777/rick-morty-season-6-premiere-recap-interview-release)<!-- GAME:END -->
+ - [Dwarf Fortress Steam Edition threatens to make it playable for just about anyone](https://www.pcgamer.com/take-a-good-long-look-at-how-accessible-dwarf-fortress-steam-edition-will-be)
+ - [Oh God, Ew, Randy Pitchford Wants You To Buy His Horrible Used Shirts](https://kotaku.com/gearbox-randy-pitchford-charity-used-shirts-borderlands-1849497278)
+ - [Microsoft will keep Call of Duty on PlayStation for ‘years’ beyond existing deal](https://www.polygon.com/23337826/microsoft-activision-call-of-duty-on-playstation-years-phil-spencer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
