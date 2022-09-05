@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Suffers Another Colossal Game Leak](https://kotaku.com/splatoon-3-nintendo-switch-leak-footage-youtube-reddit-1849496853)
- - [Roccat Burst Pro Air](https://www.pcgamer.com/roccat-burst-pro-air-review)
- - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
+ - [Ranking the 7 best Warhammer fantasy video games](https://www.polygon.com/what-to-play/23333078/best-warhammer-fantasy-video-games-total-war-warhammer-3-vermintide-2)
+ - [Xbox&#39;s Matt Booty Fantasizes About Replacing Maligned QA Workers With AI](https://kotaku.com/xbox-microsoft-matt-booty-qa-crunch-ai-mistreatment-1849496926)
+ - [Fans are getting excited about a Suikoden announcement, but they might be in for disappointment](https://www.pcgamer.com/fans-are-getting-excited-about-a-suikoden-announcement-but-they-might-be-in-for-disappointment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
