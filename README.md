@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress Steam Edition threatens to make it playable for just about anyone](https://www.pcgamer.com/take-a-good-long-look-at-how-accessible-dwarf-fortress-steam-edition-will-be)
- - [Oh God, Ew, Randy Pitchford Wants You To Buy His Horrible Used Shirts](https://kotaku.com/gearbox-randy-pitchford-charity-used-shirts-borderlands-1849497278)
- - [Microsoft will keep Call of Duty on PlayStation for ‘years’ beyond existing deal](https://www.polygon.com/23337826/microsoft-activision-call-of-duty-on-playstation-years-phil-spencer)<!-- GAME:END -->
+ - [Batman: The Animated Series opened my world and changed my life](https://www.polygon.com/23328910/batman-the-animated-series-btas-cartoon-essay)
+ - [PC gaming&#39;s most beloved and most obscure shared universes](https://www.pcgamer.com/pc-gamings-most-beloved-and-most-obscure-shared-universes)
+ - [Hey, You, There&#39;s A Rick And Morty Commercial For God Of War: Ragnarok](https://kotaku.com/god-of-war-ragnarok-rick-and-morty-justin-roiland-1849497403)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
