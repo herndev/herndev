@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [COLUMN/PERSPECTIVE: Reflections on the sights and sounds of college football |  Local news](https://game-rant-2022.blogspot.com/2022/09/columnperspective-reflections-on-sights.html)
- - [My Hero Academia 365: Edgeshot&#39;s Sacrifice](https://game-rant-2022.blogspot.com/2022/09/my-hero-academia-365-edgeshots-sacrifice.html)
- - [10 highly anticipated PS5 games coming soon](https://game-rant-2022.blogspot.com/2022/09/10-highly-anticipated-ps5-games-coming.html)<!-- GAME:END -->
+ - [Nintendo Suffers Another Colossal Game Leak](https://kotaku.com/splatoon-3-nintendo-switch-leak-footage-youtube-reddit-1849496853)
+ - [Roccat Burst Pro Air](https://www.pcgamer.com/roccat-burst-pro-air-review)
+ - [The best gaming PC in 2022](https://www.pcgamer.com/best-gaming-pc-uk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
