@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG is bringing NFTs to its smart TVs](https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency)
- - [The Best Sci-Fi Movies on Netflix You Need To Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-need-to-watch/#ftag=CAD590a51e)
- - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Labor Day weekend deals: $99 AirPods, $119 Apple TV 4K, $400 off MacBook Pro &amp; more](https://appleinsider.com/articles/22/09/02/labor-day-weekend-deals-400-off-macbook-pro-1000-off-lg-monitor-free-disney-plus-offer?utm_medium=rss)
+ - [&#39;The Last of Us Part 1&#39; Is an Expensive Way to Revisit Naughty Dog&#39;s Masterpiece     - CNET](https://www.cnet.com/tech/gaming/the-last-of-us-part-1-is-a-expensive-way-to-revisit-naughty-dog-masterpiece/#ftag=CAD590a51e)
+ - [LG is bringing NFTs to its smart TVs](https://www.theverge.com/2022/9/4/23336997/lg-bringing-nfts-smart-tvs-cryptocurrency)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
