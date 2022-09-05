@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny coz](http://9gag.com/gag/avAbD5O)
- - ⏩ [After saving money, i bought my first car. It aint much but its honnest work](http://9gag.com/gag/aegXWo5)
+ - 💣 [Keep calm and use your brains.](http://9gag.com/gag/aze6QpN)
+ - ⏩ [This food made me smile &lpar;enjoy&rpar;](http://9gag.com/gag/axBp4K2)
  - 👉 [Polish for beginners.](http://9gag.com/gag/aQXYrmr)<!-- MEMES:END -->
 
 ---
