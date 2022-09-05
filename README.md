@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ wins five Creative Arts Emmys](https://appleinsider.com/articles/22/09/05/apple-tv-wins-five-creative-arts-emmys?utm_medium=rss)
- - [Instagram removes PornHub’s account as pressure from campaigners grows](https://www.theverge.com/2022/9/5/23337535/instagram-removes-pornhub-official-account)
- - [The Iranian government plans to use facial recognition on public transport to identify women who are not complying with its strict new hijab laws &lpar;Weronika Strzy&amp;#380;y&amp;#324;ska/The Gua ...&rpar;](http://www.techmeme.com/220905/p4#a220905p4)<!-- TECH:END -->
+ - [Voyager 1 and 2, Humanity’s Interstellar Envoys, Soldier On at 45](https://www.wired.com/story/voyager-1-and-2-humanitys-interstellar-envoys-soldier-on-at-45/)
+ - [An Old Casio Keyboard Changed Everything for Julia Jacklin](https://www.wired.com/story/casio-keyboard-julia-jacklin/)
+ - [Samsung is bringing new features to its older foldables and smartwatches starting today](https://www.theverge.com/2022/9/5/23337570/samsung-galaxy-foldables-phones-smart-watches-new-feature-update-selfie-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
