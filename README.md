@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What happened to DriveClub Developer Evolution Studios?](https://game-rant-2022.blogspot.com/2022/09/what-happened-to-driveclub-developer.html)
- - [How online casinos continue to grow](https://game-rant-2022.blogspot.com/2022/09/how-online-casinos-continue-to-grow.html)
- - [10 Best Hand-Drawn Video Games, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/10-best-hand-drawn-video-games.html)<!-- GAME:END -->
+ - [There&#39;s an official Elden Ring comic... and it&#39;s a comedy](https://www.pcgamer.com/theres-an-official-elden-ring-comic-and-its-a-comedy)
+ - [Odds and Ends: Will Clemson Tigers open 2022 with big number vs.  Georgia Tech?](https://game-rant-2022.blogspot.com/2022/09/odds-and-ends-will-clemson-tigers-open.html)
+ - [Here&#39;s What Gearheads Need To Know About The Ariel Hipercar](https://game-rant-2022.blogspot.com/2022/09/heres-what-gearheads-need-to-know-about.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
