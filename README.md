@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s an official Elden Ring comic... and it&#39;s a comedy](https://www.pcgamer.com/theres-an-official-elden-ring-comic-and-its-a-comedy)
- - [Odds and Ends: Will Clemson Tigers open 2022 with big number vs.  Georgia Tech?](https://game-rant-2022.blogspot.com/2022/09/odds-and-ends-will-clemson-tigers-open.html)
- - [Here&#39;s What Gearheads Need To Know About The Ariel Hipercar](https://game-rant-2022.blogspot.com/2022/09/heres-what-gearheads-need-to-know-about.html)<!-- GAME:END -->
+ - [&#39;Good Vibes Only&#39;: Raleigh and Kirby Emerge in Spotless Week for M&#39;s](https://game-rant-2022.blogspot.com/2022/09/good-vibes-only-raleigh-and-kirby.html)
+ - [10 most iconic outfits in gaming](https://game-rant-2022.blogspot.com/2022/09/10-most-iconic-outfits-in-gaming.html)
+ - [These modders are reconstructing the Duke Nukem Forever of the Good Timeline](https://www.pcgamer.com/these-modders-are-reconstructing-the-duke-nukem-forever-of-the-good-timeline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
