@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Pro CAD illustrates Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
- - [The Future of Fortnite Is in the Hands of Its Players](https://www.wired.com/story/the-future-of-fortnite/)
- - [The Nighthawk M5 Router Brings Wi-Fi Wherever You Go](https://www.wired.com/review/netgear-nighthawk-m5-5g-router/)<!-- TECH:END -->
+ - [Apple Watch Pro renders illustrate Digital Crown protrusion &amp; more](https://appleinsider.com/articles/22/09/05/apple-watch-pro-cad-illustrates-digital-crown-protrusion-more?utm_medium=rss)
+ - [Apple may revive &#39;Plus&#39; name for larger iPhone 14 model](https://appleinsider.com/articles/22/09/05/apple-may-revive-plus-name-for-larger-iphone-14-model?utm_medium=rss)
+ - [Apple&#39;s iPhone 14 case colors leak days before event](https://appleinsider.com/articles/22/09/05/apples-iphone-14-case-colors-leak-days-before-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
