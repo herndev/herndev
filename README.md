@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brendan Fraser getting a 6 minute standing ovation in Venice](http://9gag.com/gag/aze6vRm)
- - ⏩ [Now this is a great movie. You can&#39;t tell what&#39;s real and what&#39;s not.](http://9gag.com/gag/aGzPryz)
- - 👉 [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)<!-- MEMES:END -->
+ - 💣 [Now this is a great movie. You can&#39;t tell what&#39;s real and what&#39;s not.](http://9gag.com/gag/aGzPryz)
+ - ⏩ [Dark elf is already taken, and wood elf lives in the wood. What about Hood elf then?](http://9gag.com/gag/a9134ym)
+ - 👉 [I have her since I was a child, it would destroy me...](http://9gag.com/gag/avAbBqq)<!-- MEMES:END -->
 
 ---
 
