@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 443 answer and hint: Monday, September 5](https://www.pcgamer.com/todays-wordle-443-answer-hint)
- - [The Last of Us Part 1: All Workbench Locations](https://game-rant-2022.blogspot.com/2022/09/the-last-of-us-part-1-all-workbench.html)
- - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)<!-- GAME:END -->
+ - [10 highly anticipated PS5 games coming soon](https://game-rant-2022.blogspot.com/2022/09/10-highly-anticipated-ps5-games-coming.html)
+ - [4 Sept.  2022 match: Braves 7, Marlins 1](https://game-rant-2022.blogspot.com/2022/09/4-sept-2022-match-braves-7-marlins-1.html)
+ - [10 Video Game Characters Taika Waititi Could Play](https://game-rant-2022.blogspot.com/2022/09/10-video-game-characters-taika-waititi.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
