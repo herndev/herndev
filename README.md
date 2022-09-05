@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Protect her at all costs.](http://9gag.com/gag/a0ZmWnQ)
- - ⏩ [Brendan fraser moved to tears as he receives a 6 minute standing ovation during the premiere of &#39;the whale&#39;](http://9gag.com/gag/ajg2Mw1)
- - 👉 [The boys...](http://9gag.com/gag/awzqPL4)<!-- MEMES:END -->
+ - 💣 [The boys...](http://9gag.com/gag/awzqPL4)
+ - ⏩ [Painting the highbeam tail lights](http://9gag.com/gag/aYrzZOx)
+ - 👉 [What a chad](http://9gag.com/gag/aAGnNwL)<!-- MEMES:END -->
 
 ---
 
