@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)
- - [Legend turns C64 into a theremin, otherwise known as that weird sci-fi instrument](https://www.pcgamer.com/legend-turns-c64-into-a-theremin-otherwise-known-as-that-weird-sci-fi-instrument)
- - [USB4 Version 2.0 with 80Gbps speeds is coming](https://www.pcgamer.com/usb4-version-20-with-80gbps-speeds-is-coming)<!-- GAME:END -->
+ - [Today&#39;s Wordle 443 answer and hint: Monday, September 5](https://www.pcgamer.com/todays-wordle-443-answer-hint)
+ - [The Last of Us Part 1: All Workbench Locations](https://game-rant-2022.blogspot.com/2022/09/the-last-of-us-part-1-all-workbench.html)
+ - [Modders behind epic Dino Grimlock PC case are going even bigger for 2022](https://www.pcgamer.com/modders-behind-epic-dino-grimlock-pc-case-are-going-even-bigger-for-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
