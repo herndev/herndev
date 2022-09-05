@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from Apple&#39;s iPhone 14 event on September 7](https://appleinsider.com/articles/22/08/13/what-to-expect-from-apples-september-iphone-14-event?utm_medium=rss)
- - [Best Mattress for Stomach Sleepers 2022     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-stomach-sleepers/#ftag=CAD590a51e)
- - [What to expect from Apple’s iPhone 14 event](https://www.theverge.com/23309954/apple-iphone-14-event-rumors-announcements-airpods-pro-watch-ios-16-watchos-9)<!-- TECH:END -->
+ - [&#39;The Lord of the Rings: The Rings of Power&#39; Premiere Recap: Shadow of the Past     - CNET](https://www.cnet.com/culture/entertainment/the-lord-of-the-rings-the-rings-of-power-premiere-recap-shadow-of-the-past/#ftag=CAD590a51e)
+ - [US parents are increasingly buying Apple Watches as a stopgap cellphone to reach and track their children as young as 5 while mitigating internet addiction &lpar;New York Times&rpar;](http://www.techmeme.com/220904/p7#a220904p7)
+ - [&#39;The Rings of Power&#39; Episode 2 Recap: The Orcs Are Back     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-2-recap-the-orcs-are-back/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
