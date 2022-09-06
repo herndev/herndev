@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This little life sim is about a teen witch who totally doesn&#39;t want to be here](https://www.pcgamer.com/this-little-life-sim-is-about-a-teen-witch-who-totally-doesnt-want-to-be-here)
- - [Cyberpunk 2077 update adds transmog and cat pictures](https://www.pcgamer.com/cyberpunk-2077-update-adds-transmog-and-cat-pictures)
- - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)<!-- GAME:END -->
+ - [The Week In Games: Enter The Splatlands](https://kotaku.com/splatoon-3-steelrising-jack-move-temtem-nba-2k23-1849502030)
+ - [Splitgate developer announces new follow-up to the indie shooter hit](https://www.polygon.com/23339731/splitgate-1047-games-developer-announcement-shooter)
+ - [Overwatch streamer disables his audio and HUD and still hits top rank in 6 days](https://www.pcgamer.com/overwatch-streamer-disables-his-audio-and-hud-and-still-hits-top-rank-in-6-days)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
