@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Tips to Start Your Journey Off Right in Temtem – Out Today!](https://news.xbox.com/en-us/2022/09/06/5-tips-to-start-your-journey-off-right-in-temtem-out-today/)
- - [Wild Rift adds some of League of Legends’ edgiest champions in next patch](https://www.polygon.com/23339552/league-of-legends-wild-rift-champions-gwen-yone-warwick-vex-power-spike-wild-pass)
- - [The best gaming headsets in 2022](https://www.pcgamer.com/best-gaming-headset)<!-- GAME:END -->
+ - [This little life sim is about a teen witch who totally doesn&#39;t want to be here](https://www.pcgamer.com/this-little-life-sim-is-about-a-teen-witch-who-totally-doesnt-want-to-be-here)
+ - [Cyberpunk 2077 update adds transmog and cat pictures](https://www.pcgamer.com/cyberpunk-2077-update-adds-transmog-and-cat-pictures)
+ - [Best PC racing wheel in 2022](https://www.pcgamer.com/best-steering-wheels-for-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
