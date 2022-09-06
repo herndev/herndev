@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Battlefield 2042 Almost Feels Like A Finished Video Game](https://kotaku.com/battlefield-2042-bf2042-season-2-two-02-impressions-dlc-1849496591)
  - [Hate Forum Kiwi Farms Practically Dead As Owner Posts Conspiracy-Laden Rant](https://kotaku.com/kiwi-farms-dead-closed-rip-shut-down-russia-telegram-1849498373)
- - [In RPGs, I prefer reading books to slaying dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)
- - [Famous tabletop game Munchkin is going digital](https://www.pcgamer.com/famous-tabletop-game-munchkin-is-going-digital)<!-- GAME:END -->
+ - [In RPGs, I prefer reading books to slaying dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
