@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US public school districts in seven states are piloting or have introduced Starlink internet access to rural students&#39; homes, as some question the affordability &lpar;NBC News&rpar;](http://www.techmeme.com/220905/p18#a220905p18)
- - [&#39;House of the Dragon&#39; Fixes George R.R. Martin Issue with &#39;GoT&#39; Scene     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-fixes-george-r-r-martin-issue-with-game-of-thrones-scene/#ftag=CAD590a51e)
- - [The EU launched its new San Francisco office to liaise with US tech companies and promote EU standards and technologies, digital policies, and governance models &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/220905/p17#a220905p17)<!-- TECH:END -->
+ - [Venture Intelligence: Indian startups raised 18 $100M+ funding rounds totaling $3.6B in Q2 2022, down from 29 such rounds worth a total of $6.7B in Q1 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/220906/p1#a220906p1)
+ - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)
+ - [Huge Ice Planets Throughout the Galaxy May Be Raining Diamonds     - CNET](https://www.cnet.com/science/huge-ice-planets-may-be-raining-diamonds/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
