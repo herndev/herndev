@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First Android 13 patch for Pixels fixes wireless charging and battery drain problems](https://www.theverge.com/2022/9/6/23339733/google-pixel-android-13-update-wireless-charging-battery-drain-bugs)
- - [Cyberpunk 2077’s new update adds cross-platform saves, mod management, and more](https://www.theverge.com/2022/9/6/23339608/cyberpunk-2077-1-6-edgerunners-update-cross-platform-redmod)
- - [Juul will pay $438.5 million to states over youth vaping investigation](https://www.theverge.com/2022/9/6/23339678/juul-youth-vaping-settlement-states-e-cigarettes)<!-- TECH:END -->
+ - [T-Mobile 5G Home Internet is now available in parts of NYC, Boston, and Philadelphia](https://www.theverge.com/2022/9/6/23339117/t-mobile-5g-home-internet-north-east-new-york-new-jersey)
+ - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
+ - [More midrange Android phones will have AI features next year with the new Snapdragon chips](https://www.theverge.com/2022/9/6/23339715/new-snapdragon-chips-midrange-android-phones-ai-features-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
