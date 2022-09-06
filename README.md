@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Follicle-Hacking Drug Could One Day Treat Baldness](https://www.wired.com/story/new-baldness-treatments/)
- - [It’s Time to Get Real About TikTok’s Risks](https://www.wired.com/story/tiktok-nationa-security-threat-why/)
- - [An Effort to ID Tulsa Race Massacre Victims Raises Privacy Issues](https://www.wired.com/story/an-effort-to-id-tulsa-race-massacre-victims-raises-privacy-issues/)<!-- TECH:END -->
+ - [Bitwarden, an open-source password manager for individuals and enterprises, raised $100M led by PSG, its first substantial outside funding since 2015 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220906/p13#a220906p13)
+ - [Sonnet&#39;s xMac Studio and RackMac Studio rackmounts the Mac Studio](https://appleinsider.com/articles/22/09/06/sonnets-xmac-studio-and-rackmac-studio-rackmounts-the-mac-studio?utm_medium=rss)
+ - [Protect and Charge Your Apple Watch With Our Favorite Accessories](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
