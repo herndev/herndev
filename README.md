@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 444 answer and hint: Tuesday, September 6](https://www.pcgamer.com/todays-wordle-444-answer-hint)
  - [Librarian combines loves for comics, games](https://game-rant-2022.blogspot.com/2022/09/librarian-combines-loves-for-comics.html)
- - [Plot holes introduced by the anime&#39;s filler arcs](https://game-rant-2022.blogspot.com/2022/09/plot-holes-introduced-by-animes-filler.html)
- - [Appsumer: Apple&#39;s privacy measures have boosted its own Apple search ads](https://game-rant-2022.blogspot.com/2022/09/appsumer-apples-privacy-measures-have.html)<!-- GAME:END -->
+ - [Plot holes introduced by the anime&#39;s filler arcs](https://game-rant-2022.blogspot.com/2022/09/plot-holes-introduced-by-animes-filler.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
