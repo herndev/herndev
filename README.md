@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ohio State showed toughness in victory over Notre Dame |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-showed-toughness-in-victory.html)
- - [Anos Voldigoad&#39;s strongest skills, ranked](https://game-rant-2022.blogspot.com/2022/09/anos-voldigoads-strongest-skills-ranked.html)
- - [6 surprising benefits of video games for kids](https://game-rant-2022.blogspot.com/2022/09/6-surprising-benefits-of-video-games.html)<!-- GAME:END -->
+ - [How to solve the Cryptic Quatrains in Destiny 2](https://www.pcgamer.com/destiny-2-cryptic-quatrains-solutions)
+ - [River City Ransom creator dies](https://www.pcgamer.com/river-city-ransom-creator-dies)
+ - [Ohio State showed toughness in victory over Notre Dame |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-showed-toughness-in-victory.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
