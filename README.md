@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore-based Docquity, a collaboration and learning platform for health care professionals, raised a $44M Series C, bringing its total funding to $57.5M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220906/p2#a220906p2)
  - [Venture Intelligence: Indian startups raised 18 $100M+ funding rounds totaling $3.6B in Q2 2022, down from 29 such rounds worth a total of $6.7B in Q1 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/220906/p1#a220906p1)
- - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)
- - [Huge Ice Planets Throughout the Galaxy May Be Raining Diamonds     - CNET](https://www.cnet.com/science/huge-ice-planets-may-be-raining-diamonds/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
