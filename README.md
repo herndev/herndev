@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batman The animated series premiered on this day 30 years ago.](http://9gag.com/gag/aGzPQZ5)
- - ⏩ [The Legend returned on the US Open 2022](http://9gag.com/gag/aAGn52p)
- - 👉 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)<!-- MEMES:END -->
+ - 💣 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)
+ - ⏩ [Batman The animated series premiered on this day 30 years ago.](http://9gag.com/gag/aGzPQZ5)
+ - 👉 [Nice](http://9gag.com/gag/aDDB557)<!-- MEMES:END -->
 
 ---
 
