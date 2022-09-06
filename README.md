@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-now/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-tonight/#ftag=CAD590a51e)
- - [&#39;House of the Dragon&#39; Episode 3 Recap: Daemon Targaryen Has a Big Day     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-recap-daemon-targaryen-has-a-big-day/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US public school districts in seven states are piloting or have introduced Starlink internet access to rural students&#39; homes, as some question the affordability &lpar;NBC News&rpar;](http://www.techmeme.com/220905/p18#a220905p18)
+ - [&#39;House of the Dragon&#39; Fixes George R.R. Martin Issue with &#39;GoT&#39; Scene     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-fixes-george-r-r-martin-issue-with-game-of-thrones-scene/#ftag=CAD590a51e)
+ - [The EU launched its new San Francisco office to liaise with US tech companies and promote EU standards and technologies, digital policies, and governance models &lpar;Vish Gain/Silicon Republic&rpar;](http://www.techmeme.com/220905/p17#a220905p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
