@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to solve the Cryptic Quatrains in Destiny 2](https://www.pcgamer.com/destiny-2-cryptic-quatrains-solutions)
- - [River City Ransom creator dies](https://www.pcgamer.com/river-city-ransom-creator-dies)
- - [Ohio State showed toughness in victory over Notre Dame |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-showed-toughness-in-victory.html)<!-- GAME:END -->
+ - [The RTX 4080 might be subject to as many memory switcheroos as its forebearer](https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer)
+ - [TikTok&#39;s gaming efforts have fallen prey to China&#39;s tech crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)
+ - [Here&#39;s when Disney Dreamlight Valley unlocks in your timezone](https://www.pcgamer.com/disney-dreamlight-valley-release-time-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
