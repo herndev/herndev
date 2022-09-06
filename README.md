@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CVS Health plans to acquire Signify Health, which offers analytics and tech to help 10,000 doctors provide in-home care to 2.5M US patients, for around $8B &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/220906/p6#a220906p6)
- - [Samsung Galaxy Z Flip 3 starts getting One UI 4.1.1 based on Android 12L](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [Samsung Galaxy Z Fold 3 starts receiving the Android 12L update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)<!-- TECH:END -->
+ - [A look at the crypto real estate market, as a growing pool of investors seek safer assets, and its challenges, such as money laundering and gyrating valuations &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/220906/p9#a220906p9)
+ - [Would You Ditch All This Chaos for a Country in the Cloud?](https://www.wired.com/story/would-you-ditch-all-this-chaos-for-a-country-in-the-cloud/)
+ - [Apple&#39;s A15 processor may be &#39;enhanced&#39; for the iPhone 14](https://appleinsider.com/articles/22/09/06/apples-a15-processor-may-be-enhanced-for-the-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
