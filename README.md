@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [OWC buys trade-in company SellYourMac.com](https://appleinsider.com/articles/22/09/06/owc-buys-trade-in-company-sellyourmaccom?utm_medium=rss)
- - [Anker 30W Nano 3 USB-C charger is as colorful as the iPhone](https://appleinsider.com/articles/22/09/06/anker-30w-nano-3-usb-c-charger-is-as-colorful-as-the-iphone?utm_medium=rss)
- - [How YouTube broke up with PewDiePie &lpar;then got back together again&rpar;](https://www.theverge.com/23339163/pewdiepie-like-comment-subscribe-mark-bergen-book-excerpt-youtube-adpocalypse)<!-- TECH:END -->
+ - [Samsung’s Galaxy Tab S8 and S8 Plus are $100 off at Best Buy today](https://www.theverge.com/good-deals/2022/9/6/23339030/samsung-galaxy-tab-s8-logitech-gaming-headset-anker-deal-sale)
+ - [Apple Watch Pro shown off in new renders one day before release](https://appleinsider.com/articles/22/09/06/apple-watch-pro-shown-off-in-new-renders-one-day-before-release?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
