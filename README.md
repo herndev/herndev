@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New AMD X670 memory support details revealed](https://www.pcgamer.com/new-amd-x670-memory-support-details-revealed)
- - [Games Inbox: Who was better in the 90s: Sega or Nintendo?](https://game-rant-2022.blogspot.com/2022/09/games-inbox-who-was-better-in-90s-sega.html)
- - [Husky Homestand Continues As Vikings Move North](https://game-rant-2022.blogspot.com/2022/09/husky-homestand-continues-as-vikings_5.html)<!-- GAME:END -->
+ - [There was a TikTok Android app exploit that let hackers hijack accounts with one click](https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click)
+ - [Cyberpunk 2077 Patch 1.6 Release Date Prediction &amp; Possible DLC Details](https://game-rant-2022.blogspot.com/2022/09/cyberpunk-2077-patch-16-release-date.html)
+ - [Pac-Man World RePac Review - A Platform Relic](https://game-rant-2022.blogspot.com/2022/09/pac-man-world-repac-review-platform.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
