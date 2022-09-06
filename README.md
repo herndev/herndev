@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Coming to Xbox Game Pass: Disney Dreamlight Valley, You Suck at Parking, Metal: Hellsinger, and More](https://news.xbox.com/en-us/2022/09/06/game-pass-september-2022-wave-1-announce/)
- - [The RTX 4080 might be subject to as many memory switcheroos as its forebearer](https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer)
- - [TikTok&#39;s gaming efforts have fallen prey to China&#39;s tech crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)<!-- GAME:END -->
+ - [Welcome to Disney Dreamlight Valley!](https://news.xbox.com/en-us/2022/09/06/welcome-to-disney-dreamlight-valley/)
+ - [Kill Team: Into the Dark is just the beginning of an epic new storyline in the 40K universe](https://www.polygon.com/23331402/warhammer-40k-kill-team-into-the-dark-space-hulk-review)
+ - [The Quest 2&#39;s 120Hz refresh rate to be enabled by default](https://www.pcgamer.com/oculus-quest-2-120hz-on-by-default)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
