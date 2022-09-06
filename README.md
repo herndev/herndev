@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you thought the chip shortage was bad let me tell you about the capacitor plague](https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s)
- - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)
- - [Sony WH-1000XM5](https://www.pcgamer.com/sony-wh1000xm5-headset-review)<!-- GAME:END -->
+ - [SIE’s Social Justice Fund and PlayStation Career Pathways awards scholarships and welcomes new partners](https://blog.playstation.com/2022/09/06/sies-social-justice-fund-and-playstation-career-pathways-awards-scholarships-and-welcomes-new-partners/)
+ - [Dredge is a gorgeous Lovecraftian fishing RPG that deserves your attention](https://www.pcgamer.com/dredge-is-a-gorgeous-lovecraftian-fishing-rpg-that-deserves-your-attention)
+ - [10 years of Counter-Strike: Global Offensive](https://www.pcgamer.com/10-years-of-counter-strike-global-offensive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
