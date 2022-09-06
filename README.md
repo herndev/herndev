@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New charging cradle is Samsung’s answer to the Watch 5 Pro’s design flaw](https://www.androidauthority.com/watch-5-pro-charging-cradle-3205663/)
- - [Pay just $399 for the OnePlus 9, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [Apple Event Live Blog: Final iPhone 14 Questions Answered     - CNET](https://www.cnet.com/tech/mobile/apple-event-iphone-14-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter tells judge that Peiter Zatko never raised concerns about spam until he filed his whistleblower complaint and &quot;started parroting&quot; Musk&#39;s allegations &lpar;Bloomberg&rpar;](http://www.techmeme.com/220906/p28#a220906p28)
+ - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)
+ - [Sources: amid lockdowns, Chinese staff and suppliers contributed more complex work and parts to iPhone 14 than past models, exposing Apple&#39;s reliance on China &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220906/p27#a220906p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
