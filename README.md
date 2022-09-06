@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;House of the Dragon&#39; Episode 3 Recap: Daemon Targaryen Has a Big Day     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-recap-daemon-targaryen-has-a-big-day/#ftag=CAD590a51e)
- - [When Is &#39;House of the Dragon&#39; Episode 4 Released in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-is-house-of-the-dragon-episode-4-released-in-your-time-zone/#ftag=CAD590a51e)
- - [Utility company Xcel locked 22,000 Colorado users in an energy saving program out of their smart thermostats for hours on August 30 citing an &quot;energy emergency&quot; &lpar;Jaclyn Allen/TheDenverChannel.com&rpar;](http://www.techmeme.com/220905/p16#a220905p16)<!-- TECH:END -->
+ - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-now/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-tonight/#ftag=CAD590a51e)
+ - [&#39;House of the Dragon&#39; Episode 3 Recap: Daemon Targaryen Has a Big Day     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-3-recap-daemon-targaryen-has-a-big-day/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
