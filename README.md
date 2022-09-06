@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 444 answer and hint: Tuesday, September 6](https://www.pcgamer.com/todays-wordle-444-answer-hint)
- - [Librarian combines loves for comics, games](https://game-rant-2022.blogspot.com/2022/09/librarian-combines-loves-for-comics.html)
- - [Plot holes introduced by the anime&#39;s filler arcs](https://game-rant-2022.blogspot.com/2022/09/plot-holes-introduced-by-animes-filler.html)<!-- GAME:END -->
+ - [Destroy All Humans 2 All Human Cattle Hidden Beehive Locations](https://game-rant-2022.blogspot.com/2022/09/destroy-all-humans-2-all-human-cattle.html)
+ - [Mobile Music Rhythm Games Market Business Analysis 2022 by CAGR, Share, Revenue and Prominent Key Players to 2028](https://game-rant-2022.blogspot.com/2022/09/mobile-music-rhythm-games-market.html)
+ - [Ohio State shows no cause for concern about victory |  News, Sports, Jobs](https://game-rant-2022.blogspot.com/2022/09/ohio-state-shows-no-cause-for-concern.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
