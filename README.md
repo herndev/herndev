@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the crypto real estate market, as a growing pool of investors seek safer assets, and its challenges, such as money laundering and gyrating valuations &lpar;Joanna S Kao/Financial Times&rpar;](http://www.techmeme.com/220906/p9#a220906p9)
- - [Would You Ditch All This Chaos for a Country in the Cloud?](https://www.wired.com/story/would-you-ditch-all-this-chaos-for-a-country-in-the-cloud/)
- - [Apple&#39;s A15 processor may be &#39;enhanced&#39; for the iPhone 14](https://appleinsider.com/articles/22/09/06/apples-a15-processor-may-be-enhanced-for-the-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [This Follicle-Hacking Drug Could One Day Treat Baldness](https://www.wired.com/story/new-baldness-treatments/)
+ - [It’s Time to Get Real About TikTok’s Risks](https://www.wired.com/story/tiktok-nationa-security-threat-why/)
+ - [An Effort to ID Tulsa Race Massacre Victims Raises Privacy Issues](https://www.wired.com/story/an-effort-to-id-tulsa-race-massacre-victims-raises-privacy-issues/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
