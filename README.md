@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony announced camouflaged PS5 accessories, but I can’t see them](https://www.theverge.com/2022/9/6/23339078/sony-gray-camouflage-ps5-controllers-accessories-dualsense-pulse-3d-console-covers-preorder)
- - [Signal names Google walkout organizer as new company president](https://www.theverge.com/2022/9/6/23339064/signal-president-meredith-whittaker-tech-critic-google)
- - [EU opens California office to smooth discussions with big tech](https://appleinsider.com/articles/22/09/06/eu-opens-california-office-to-smooth-discussions-with-big-tech?utm_medium=rss)<!-- TECH:END -->
+ - [Feds detail plan for $50 billion investment in chip manufacture](https://appleinsider.com/articles/22/09/06/feds-detail-plan-for-50-billion-investment-in-chip-manufacture?utm_medium=rss)
+ - [Google Chrome Mac &amp; Windows installs need to be updated now](https://appleinsider.com/articles/22/09/06/google-chrome-mac-windows-installs-need-to-be-updated-now?utm_medium=rss)
+ - [Anker’s 30W Nano 3 looks like Apple’s tiny iPhone plug, but it can charge laptops](https://www.theverge.com/2022/9/6/23339068/anker-nano-3-511-usb-c-charger-30w-smaller-cheaper)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
