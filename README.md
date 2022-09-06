@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They/Them is Right You Know](http://9gag.com/gag/aM4pM21)
- - ⏩ [2022](http://9gag.com/gag/a81rOGQ)
+ - 💣 [Funeral for 2](http://9gag.com/gag/aegXBpb)
+ - ⏩ [Batman The animated series premiered on this day 30 years ago.](http://9gag.com/gag/aGzPQZ5)
  - 👉 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)<!-- MEMES:END -->
 
 ---
