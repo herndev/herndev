@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funeral for 2](http://9gag.com/gag/aegXBpb)
- - ⏩ [Batman The animated series premiered on this day 30 years ago.](http://9gag.com/gag/aGzPQZ5)
- - 👉 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)<!-- MEMES:END -->
+ - 💣 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)
+ - ⏩ [US of A](http://9gag.com/gag/aqGvE3P)
+ - 👉 [Don&#39;t hate on him because he was the first to announce what pronouns he prefers](http://9gag.com/gag/aLvq7Kv)<!-- MEMES:END -->
 
 ---
 
