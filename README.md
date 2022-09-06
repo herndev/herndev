@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Chrome to address an actively exploited high-severity zero-day vulnerability in Mojo, its sixth patch for zero-day vulnerabilities in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220906/p4#a220906p4)
- - [As Chinese consumers become thrifty amid an economic slowdown, Insider Intelligence forecasts just 9.1% increase in e-commerce sales in 2022, lowest since 2008 &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p3#a220906p3)
- - [Apple Watch Series 8: Everything we know so far &lpar;Updated: Sep 6&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)<!-- TECH:END -->
+ - [Fitbit brings irregular heart rhythm notifications to over 20 new markets](https://www.androidauthority.com/fitbit-irregular-heart-rate-afib-markets-3204204/)
+ - [A look at YouTube&#39;s &quot;coolhunters&quot; who were tasked with finding and promoting talented YouTubers in the company&#39;s early years, before the algorithms took over &lpar;Mark Bergen/The Atlantic&rpar;](http://www.techmeme.com/220906/p5#a220906p5)
+ - [Google updates Chrome to address an actively exploited high-severity zero-day vulnerability in Mojo, its sixth patch for zero-day vulnerabilities in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220906/p4#a220906p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
