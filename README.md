@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to customize your Android 13 Pixel’s color palette](https://www.theverge.com/23333063/android-13-wallpaper-google-how-to-color-palette)
- - [Brazil orders Apple to stop selling iPhones without a charger in the country and fines the company ~$2.38M, citing &quot;deliberate&quot; discrimination against consumers &lpar;Peter Frontini/Reuters&rpar;](http://www.techmeme.com/220906/p17#a220906p17)
- - [Daily deals Sept 6: $115 Apple Magic Keyboard, $50 off Sony ZV-1 camera, $140 off Samsung M8, more!](https://appleinsider.com/articles/22/09/06/daily-deals-sept-6-115-apple-magic-keyboard-50-off-sony-zv-1-camera-140-off-samsung-m8-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon’s next healthcare venture may be in Japan](https://www.theverge.com/2022/9/6/23338942/amazon-pharmacies-japan-medication-delivery)
+ - [Brazil stops iPhone sales until Apple includes an AC charger](https://appleinsider.com/articles/22/09/06/brazil-stops-iphone-sales-until-apple-includes-an-ac-charger?utm_medium=rss)
+ - [Deals: snag the iPad mini 6 for $399 &lpar;$100 off&rpar; before the Apple Event](https://appleinsider.com/articles/22/09/06/deals-snag-the-ipad-mini-6-for-399-100-off-before-the-apple-event?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
