@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Speaking facts](http://9gag.com/gag/aQXYjwr)
- - ⏩ [You know](http://9gag.com/gag/abgjNZb)
+ - 💣 [So that\u2019s what it means](http://9gag.com/gag/aAGn8Vd)
+ - ⏩ [Including Reels, Facebook shorts, Youtube Shorts](http://9gag.com/gag/avAbMmd)
  - 👉 [Lets hear what consumers think of this would you like to be in a fight with your customer service rep?](http://9gag.com/gag/aze6WVK)<!-- MEMES:END -->
 
 ---
