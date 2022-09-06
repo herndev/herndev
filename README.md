@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Laugh, Love, Feels... Brendan Fraser gave us everything!](http://9gag.com/gag/a21Qg31)
- - ⏩ [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)
- - 👉 [Nice](http://9gag.com/gag/aDDB557)<!-- MEMES:END -->
+ - 💣 [They/Them is Right You Know](http://9gag.com/gag/aM4pM21)
+ - ⏩ [2022](http://9gag.com/gag/a81rOGQ)
+ - 👉 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)<!-- MEMES:END -->
 
 ---
 
