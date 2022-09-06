@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: Enter The Splatlands](https://kotaku.com/splatoon-3-steelrising-jack-move-temtem-nba-2k23-1849502030)
- - [Splitgate developer announces new follow-up to the indie shooter hit](https://www.polygon.com/23339731/splitgate-1047-games-developer-announcement-shooter)
- - [Overwatch streamer disables his audio and HUD and still hits top rank in 6 days](https://www.pcgamer.com/overwatch-streamer-disables-his-audio-and-hud-and-still-hits-top-rank-in-6-days)<!-- GAME:END -->
+ - [The Best And Worst Parts Of Every Mass Effect Game](https://kotaku.com/mass-effect-andromeda-best-worst-citadel-dlc-ending-1849502801)
+ - [Report: Ubisoft To Reveal Multiple Assassin&#39;s Creed Games This Weekend, One Set In Japan](https://kotaku.com/assassin-s-creed-mirage-red-hexe-japan-ubisoft-forward-1849502583)
+ - [Multiple new Assassin&#39;s Creed announcements rumored for Saturday&#39;s showcase](https://www.pcgamer.com/assassins-creed-showcase-announcements-rumor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
