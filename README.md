@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitwarden, an open-source password manager for individuals and enterprises, raised $100M led by PSG, its first substantial outside funding since 2015 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220906/p13#a220906p13)
- - [Sonnet&#39;s xMac Studio and RackMac Studio rackmounts the Mac Studio](https://appleinsider.com/articles/22/09/06/sonnets-xmac-studio-and-rackmac-studio-rackmounts-the-mac-studio?utm_medium=rss)
- - [Protect and Charge Your Apple Watch With Our Favorite Accessories](https://www.wired.com/gallery/best-apple-watch-accessories/)<!-- TECH:END -->
+ - [How to customize your Android 13 Pixel’s color palette](https://www.theverge.com/23333063/android-13-wallpaper-google-how-to-color-palette)
+ - [Brazil orders Apple to stop selling iPhones without a charger in the country and fines the company ~$2.38M, citing &quot;deliberate&quot; discrimination against consumers &lpar;Peter Frontini/Reuters&rpar;](http://www.techmeme.com/220906/p17#a220906p17)
+ - [Daily deals Sept 6: $115 Apple Magic Keyboard, $50 off Sony ZV-1 camera, $140 off Samsung M8, more!](https://appleinsider.com/articles/22/09/06/daily-deals-sept-6-115-apple-magic-keyboard-50-off-sony-zv-1-camera-140-off-samsung-m8-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
