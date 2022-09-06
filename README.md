@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There was a TikTok Android app exploit that let hackers hijack accounts with one click](https://www.pcgamer.com/there-was-a-tiktok-android-app-exploit-that-let-hackers-hijack-accounts-with-one-click)
- - [Cyberpunk 2077 Patch 1.6 Release Date Prediction &amp; Possible DLC Details](https://game-rant-2022.blogspot.com/2022/09/cyberpunk-2077-patch-16-release-date.html)
- - [Pac-Man World RePac Review - A Platform Relic](https://game-rant-2022.blogspot.com/2022/09/pac-man-world-repac-review-platform.html)<!-- GAME:END -->
+ - [The 9 coolest games of PAX West 2022](https://game-rant-2022.blogspot.com/2022/09/the-9-coolest-games-of-pax-west-2022.html)
+ - [Wemade Updates Dragon Artifact for MIR4](https://game-rant-2022.blogspot.com/2022/09/wemade-updates-dragon-artifact-for-mir4.html)
+ - [Review: Video Game Fables - Movies, Games and Technology](https://game-rant-2022.blogspot.com/2022/09/review-video-game-fables-movies-games.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
