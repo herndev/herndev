@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best And Worst Parts Of Every Mass Effect Game](https://kotaku.com/mass-effect-andromeda-best-worst-citadel-dlc-ending-1849502801)
- - [Report: Ubisoft To Reveal Multiple Assassin&#39;s Creed Games This Weekend, One Set In Japan](https://kotaku.com/assassin-s-creed-mirage-red-hexe-japan-ubisoft-forward-1849502583)
- - [Multiple new Assassin&#39;s Creed announcements rumored for Saturday&#39;s showcase](https://www.pcgamer.com/assassins-creed-showcase-announcements-rumor)<!-- GAME:END -->
+ - [Finally, Cyberpunk 2077&#39;s broken police will get a &#39;complete overhaul&#39;](https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul)
+ - [NFT expert imagines a hopeful future where poor people serve as &#39;real-life NPCs&#39; in games](https://www.pcgamer.com/nft-expert-imagines-a-hopeful-future-where-poor-people-serve-as-real-life-npcs-in-games)
+ - [PAX West Matt Booty Recap](https://news.xbox.com/en-us/2022/09/06/pax-west-matt-booty-recap/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
