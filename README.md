@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love physics...!!!](http://9gag.com/gag/amgDZpj)
- - ⏩ [US of A](http://9gag.com/gag/aqGvE3P)
- - 👉 [Tuesday](http://9gag.com/gag/aBnDedP)<!-- MEMES:END -->
+ - 💣 [Police forgets capsicum sprays are flammable](http://9gag.com/gag/abgjnEE)
+ - ⏩ [He really do be wantsing it.](http://9gag.com/gag/aPZObvB)
+ - 👉 [US of A](http://9gag.com/gag/aqGvE3P)<!-- MEMES:END -->
 
 ---
 
