@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)
+ - 💣 [Love physics...!!!](http://9gag.com/gag/amgDZpj)
  - ⏩ [US of A](http://9gag.com/gag/aqGvE3P)
- - 👉 [Don&#39;t hate on him because he was the first to announce what pronouns he prefers](http://9gag.com/gag/aLvq7Kv)<!-- MEMES:END -->
+ - 👉 [Tuesday](http://9gag.com/gag/aBnDedP)<!-- MEMES:END -->
 
 ---
 
