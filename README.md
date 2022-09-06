@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC buys trade-in company SellYourMac.com](https://appleinsider.com/articles/22/09/06/owc-buys-trade-in-company-sellyourmaccom?utm_medium=rss)
- - [Samsung’s Galaxy Tab S8 and S8 Plus are $100 off at Best Buy today](https://www.theverge.com/good-deals/2022/9/6/23339030/samsung-galaxy-tab-s8-logitech-gaming-headset-anker-deal-sale)
- - [Apple Watch Pro shown off in new renders one day before release](https://appleinsider.com/articles/22/09/06/apple-watch-pro-shown-off-in-new-renders-one-day-before-release?utm_medium=rss)<!-- TECH:END -->
+ - [New charging cradle is Samsung’s answer to the Watch 5 Pro’s design flaw](https://www.androidauthority.com/watch-5-pro-charging-cradle-3205663/)
+ - [Pay just $399 for the OnePlus 9, and more of the best phone deals](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [Apple Event Live Blog: Final iPhone 14 Questions Answered     - CNET](https://www.cnet.com/tech/mobile/apple-event-iphone-14-live-blog/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
