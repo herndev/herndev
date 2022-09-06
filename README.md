@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tencent Bets $297 Million On Assassin&#39;s Creed Machine](https://kotaku.com/assassins-creed-tencent-acquisition-far-cry-delay-1849500726)
- - [Edgerunners Update Available for Cyberpunk 2077 on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/09/06/edgerunners-update-available-for-cyberpunk-2077-on-xbox-series-xs-and-xbox-one/)
- - [Thor: Love and Thunder deleted scene expands the Thor and Guardians’ story](https://www.polygon.com/23333106/thor-love-thunder-deleted-scene-guardians-hemsworth-pratt)<!-- GAME:END -->
+ - [Uncover the Secrets of the Druid King in The Elder Scrolls Online: Lost Depths](https://news.xbox.com/en-us/2022/09/06/uncover-the-secrets-of-the-druid-king-in-the-elder-scrolls-online-lost-depths/)
+ - [The next Gundam game is a free 6vs6 shooter hitting Steam this month](https://www.pcgamer.com/the-next-gundam-game-is-a-free-arena-shooter-hitting-steam-this-month)
+ - [Tencent Bets $297 Million On Assassin&#39;s Creed Machine](https://kotaku.com/assassins-creed-tencent-acquisition-far-cry-delay-1849500726)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
