@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yo air-driver, take me to space. ,62 miles &lpar;100km&rpar; ain&#39;t that far.](http://9gag.com/gag/aQXYWqe)
- - ⏩ [Should&#39;ve asked for more](http://9gag.com/gag/aPZOb9w)
- - 👉 [They/Them is Right You Know](http://9gag.com/gag/aM4pM21)<!-- MEMES:END -->
+ - 💣 [Speaking facts](http://9gag.com/gag/aQXYjwr)
+ - ⏩ [You know](http://9gag.com/gag/abgjNZb)
+ - 👉 [Lets hear what consumers think of this would you like to be in a fight with your customer service rep?](http://9gag.com/gag/aze6WVK)<!-- MEMES:END -->
 
 ---
 
