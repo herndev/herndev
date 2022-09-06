@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A friendly cat on a morning walk](http://9gag.com/gag/awzq6dB)
- - ⏩ [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
- - 👉 [That\u2019s what i like to see !](http://9gag.com/gag/aBnDpxz)<!-- MEMES:END -->
+ - 💣 [That\u2019s what i like to see !](http://9gag.com/gag/aBnDpxz)
+ - ⏩ [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
+ - 👉 [I can&#39;t argue.](http://9gag.com/gag/aXr8Br6)<!-- MEMES:END -->
 
 ---
 
