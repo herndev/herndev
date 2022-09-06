@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Legend returned on the US Open 2022](http://9gag.com/gag/aAGn52p)
- - ⏩ [Nice](http://9gag.com/gag/aDDB557)
- - 👉 [Laugh, Love, Feels... Brendan Fraser gave us everything!](http://9gag.com/gag/a21Qg31)<!-- MEMES:END -->
+ - 💣 [Laugh, Love, Feels... Brendan Fraser gave us everything!](http://9gag.com/gag/a21Qg31)
+ - ⏩ [`White peopolz got no culture`](http://9gag.com/gag/aVxG6od)
+ - 👉 [Nice](http://9gag.com/gag/aDDB557)<!-- MEMES:END -->
 
 ---
 
