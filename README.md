@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncover the Secrets of the Druid King in The Elder Scrolls Online: Lost Depths](https://news.xbox.com/en-us/2022/09/06/uncover-the-secrets-of-the-druid-king-in-the-elder-scrolls-online-lost-depths/)
- - [The next Gundam game is a free 6vs6 shooter hitting Steam this month](https://www.pcgamer.com/the-next-gundam-game-is-a-free-arena-shooter-hitting-steam-this-month)
- - [Tencent Bets $297 Million On Assassin&#39;s Creed Machine](https://kotaku.com/assassins-creed-tencent-acquisition-far-cry-delay-1849500726)<!-- GAME:END -->
+ - [5 Tips to Start Your Journey Off Right in Temtem – Out Today!](https://news.xbox.com/en-us/2022/09/06/5-tips-to-start-your-journey-off-right-in-temtem-out-today/)
+ - [Wild Rift adds some of League of Legends’ edgiest champions in next patch](https://www.polygon.com/23339552/league-of-legends-wild-rift-champions-gwen-yone-warwick-vex-power-spike-wild-pass)
+ - [The best gaming headsets in 2022](https://www.pcgamer.com/best-gaming-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
