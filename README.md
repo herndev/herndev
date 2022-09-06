@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Disney Dreamlight Valley!](https://news.xbox.com/en-us/2022/09/06/welcome-to-disney-dreamlight-valley/)
- - [Kill Team: Into the Dark is just the beginning of an epic new storyline in the 40K universe](https://www.polygon.com/23331402/warhammer-40k-kill-team-into-the-dark-space-hulk-review)
- - [The Quest 2&#39;s 120Hz refresh rate to be enabled by default](https://www.pcgamer.com/oculus-quest-2-120hz-on-by-default)<!-- GAME:END -->
+ - [If you thought the chip shortage was bad let me tell you about the capacitor plague](https://www.pcgamer.com/the-capacitor-plague-of-the-early-2000s)
+ - [Best NVMe SSD for gaming in 2022](https://www.pcgamer.com/best-nvme-ssd)
+ - [Sony WH-1000XM5](https://www.pcgamer.com/sony-wh1000xm5-headset-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
