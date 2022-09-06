@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shit his pants](http://9gag.com/gag/a9130Km)
- - ⏩ [Bang Buss](http://9gag.com/gag/aGzP5P0)
- - 👉 [It&#39;s happening!](http://9gag.com/gag/aKmbZyQ)<!-- MEMES:END -->
+ - 💣 [Batman The animated series premiered on this day 30 years ago.](http://9gag.com/gag/aGzPQZ5)
+ - ⏩ [The Legend returned on the US Open 2022](http://9gag.com/gag/aAGn52p)
+ - 👉 [Real serial killers and the actors from Mindhunter](http://9gag.com/gag/aVxG5Py)<!-- MEMES:END -->
 
 ---
 
