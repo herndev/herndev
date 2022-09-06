@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based Docquity, a collaboration and learning platform for health care professionals, raised a $44M Series C, bringing its total funding to $57.5M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220906/p2#a220906p2)
- - [Venture Intelligence: Indian startups raised 18 $100M+ funding rounds totaling $3.6B in Q2 2022, down from 29 such rounds worth a total of $6.7B in Q1 2022 &lpar;The Economic Times&rpar;](http://www.techmeme.com/220906/p1#a220906p1)
- - [CM Punk&#39;s Explosive AEW Press Conference Comments Explained     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-explosive-aew-press-conference-comments-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google updates Chrome to address an actively exploited high-severity zero-day vulnerability in Mojo, its sixth patch for zero-day vulnerabilities in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220906/p4#a220906p4)
+ - [As Chinese consumers become thrifty amid an economic slowdown, Insider Intelligence forecasts just 9.1% increase in e-commerce sales in 2022, lowest since 2008 &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p3#a220906p3)
+ - [Apple Watch Series 8: Everything we know so far &lpar;Updated: Sep 6&rpar;](https://www.androidauthority.com/apple-watch-series-8-3162710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
