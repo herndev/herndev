@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming to Xbox Game Pass: Disney Dreamlight Valley, You Suck at Parking, Metal: Hellsinger, and More](https://news.xbox.com/en-us/2022/09/06/game-pass-september-2022-wave-1-announce/)
  - [The RTX 4080 might be subject to as many memory switcheroos as its forebearer](https://www.pcgamer.com/the-rtx-4080-might-be-subject-to-as-many-memory-switcheroos-as-its-forebearer)
- - [TikTok&#39;s gaming efforts have fallen prey to China&#39;s tech crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)
- - [Here&#39;s when Disney Dreamlight Valley unlocks in your timezone](https://www.pcgamer.com/disney-dreamlight-valley-release-time-unlock)<!-- GAME:END -->
+ - [TikTok&#39;s gaming efforts have fallen prey to China&#39;s tech crackdown](https://www.pcgamer.com/tiktoks-gaming-efforts-have-fallen-prey-to-chinas-tech-crackdown)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
