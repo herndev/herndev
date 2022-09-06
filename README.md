@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit brings irregular heart rhythm notifications to over 20 new markets](https://www.androidauthority.com/fitbit-irregular-heart-rate-afib-markets-3204204/)
- - [A look at YouTube&#39;s &quot;coolhunters&quot; who were tasked with finding and promoting talented YouTubers in the company&#39;s early years, before the algorithms took over &lpar;Mark Bergen/The Atlantic&rpar;](http://www.techmeme.com/220906/p5#a220906p5)
- - [Google updates Chrome to address an actively exploited high-severity zero-day vulnerability in Mojo, its sixth patch for zero-day vulnerabilities in 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220906/p4#a220906p4)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 3 starts receiving the Android 12L update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [Leaked Apple Watch Pro case looks big at 49mm](https://www.theverge.com/2022/9/6/23338794/apple-watch-pro-size-comparison-leak)
+ - [Fitbit brings irregular heart rhythm notifications to over 20 new markets](https://www.androidauthority.com/fitbit-irregular-heart-rate-afib-markets-3204204/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
