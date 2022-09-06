@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 Almost Feels Like A Finished Video Game](https://kotaku.com/battlefield-2042-bf2042-season-2-two-02-impressions-dlc-1849496591)
- - [Hate Forum Kiwi Farms Practically Dead As Owner Posts Conspiracy-Laden Rant](https://kotaku.com/kiwi-farms-dead-closed-rip-shut-down-russia-telegram-1849498373)
- - [In RPGs, I prefer reading books to slaying dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)<!-- GAME:END -->
+ - [New AMD X670 memory support details revealed](https://www.pcgamer.com/new-amd-x670-memory-support-details-revealed)
+ - [Games Inbox: Who was better in the 90s: Sega or Nintendo?](https://game-rant-2022.blogspot.com/2022/09/games-inbox-who-was-better-in-90s-sega.html)
+ - [Husky Homestand Continues As Vikings Move North](https://game-rant-2022.blogspot.com/2022/09/husky-homestand-continues-as-vikings_5.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
