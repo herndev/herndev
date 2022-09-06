@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best way to wake up](http://9gag.com/gag/awzqE4R)
- - ⏩ [Police forgets capsicum sprays are flammable](http://9gag.com/gag/abgjnEE)
- - 👉 [Interesting](http://9gag.com/gag/aLvqZMv)<!-- MEMES:END -->
+ - 💣 [Interesting](http://9gag.com/gag/aLvqZMv)
+ - ⏩ [Best way to wake up](http://9gag.com/gag/awzqE4R)
+ - 👉 [That&#39;s more impressive imo](http://9gag.com/gag/aPZOEnn)<!-- MEMES:END -->
 
 ---
 
