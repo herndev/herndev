@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top 10 BioWare Games, According to Metacritic](https://game-rant-2022.blogspot.com/2022/09/top-10-bioware-games-according-to.html)
- - [8 Best New Racing Games to Try in 2022](https://game-rant-2022.blogspot.com/2022/09/8-best-new-racing-games-to-try-in-2022.html)
- - [Internet and children: is legislation the answer?](https://game-rant-2022.blogspot.com/2022/09/internet-and-children-is-legislation.html)<!-- GAME:END -->
+ - [Hate Forum Kiwi Farms Practically Dead As Owner Posts Conspiracy-Laden Rant](https://kotaku.com/kiwi-farms-dead-closed-rip-shut-down-russia-telegram-1849498373)
+ - [In RPGs, I prefer reading books to slaying dragons](https://www.pcgamer.com/in-rpgs-i-prefer-reading-books-to-slaying-dragons)
+ - [Famous tabletop game Munchkin is going digital](https://www.pcgamer.com/famous-tabletop-game-munchkin-is-going-digital)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
