@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best way to wake up](http://9gag.com/gag/awzqE4R)
- - ⏩ [Inauguration of a bridge in the Democratic Republic of Congo. There is no denying that Africa is doing much better since decolonization...](http://9gag.com/gag/aegX8Bb)
- - 👉 [Me, if my wife it&#39;s making more than 100k at year...](http://9gag.com/gag/apgeZ6W)<!-- MEMES:END -->
+ - 💣 [Brazil says f**k u Apple and orders to suspend iPhone sales without charger](http://9gag.com/gag/a1149oR)
+ - ⏩ [The British......................................................](http://9gag.com/gag/aDDBKjB)
+ - 👉 [That&#39;s more impressive imo](http://9gag.com/gag/aPZOEnn)<!-- MEMES:END -->
 
 ---
 
