@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [MultiVersus’ Gizmo goes Rambo on your ass this week](https://www.polygon.com/23339778/multiversus-gizmo-roster-reveal-release-date-class-abilities)
- - [Microsoft Is Making A Simpler, Cheaper Version Of Its Elite Customizable Controller Now](https://kotaku.com/xbox-microsoft-elite-wireless-controller-series-2-cheap-1849505818)
- - [Finally, you can watch Heathers: The Musical in all its slushie-filled glory](https://www.polygon.com/23340907/heathers-the-musical-trailer-official-recording)<!-- GAME:END -->
+ - [Rocket League Heads to Sovereign Heights for Season 8](https://news.xbox.com/en-us/2022/09/07/rocket-league-heads-to-sovereign-heights-for-season-8/)
+ - [The US puts an end to any plans Intel may have to make more chips in China](https://www.pcgamer.com/the-us-puts-an-end-to-any-plans-intel-may-have-to-make-more-chips-in-china)
+ - [Every Monster Confirmed In Pokémon Scarlet And Violet’s Roster &lpar;So Far&rpar; [Updated]](https://kotaku.com/pokemon-scarlet-violet-gen-9-pokedex-confirmed-monster-1848603124)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
