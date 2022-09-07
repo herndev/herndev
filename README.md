@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is expanding its experimental community moderation system](https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon)
- - [Conservative podcasters are ditching the industry’s largest event](https://www.theverge.com/2022/9/7/23340901/ben-shapiro-podcast-movement-twitter-cumulus-alex-cooper-forbes)
- - [Apple’s iPhone 14 event live blog](https://www.theverge.com/2022/9/7/23339616/apple-iphone-14-event-live-blog-updates-news)<!-- TECH:END -->
+ - [Want to write for AppleInsider during the next Apple event? Apply within!](https://appleinsider.com/articles/22/09/07/want-to-write-for-appleinsider-during-the-next-apple-event-apply-within?utm_medium=rss)
+ - [Apple Watch Series 8 debuts with new sensors &amp; focus on health](https://appleinsider.com/articles/22/09/07/apple-watch-series-8-debuts-with-new-sensors-focus-on-health?utm_medium=rss)
+ - [Apple announces the Apple Watch Series 8](https://www.theverge.com/2022/9/7/23313786/apple-watch-series-8-specs-price-features-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
