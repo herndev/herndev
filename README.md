@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big tech antitrust bill in danger after lobbyist spending spree](https://appleinsider.com/articles/22/09/07/big-tech-antitrust-bill-in-danger-after-lobbyist-spending-spree?utm_medium=rss)
- - [Miami-based Muck Rack, a database of journalists, raised a $180M Series A from Susquehanna Growth Equity, after being bootstrapped since being founded in 2009 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220907/p11#a220907p11)
- - [Cloudflare belatedly banning Kiwi Farms demonstrates the &quot;stochastic terrorism loophole&quot;, offering groups cover as long as no one explicitly calls for murder &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220907/p10#a220907p10)<!-- TECH:END -->
+ - [Octopus Energy Is the Answer to a Broken, Inefficient Market](https://www.wired.com/story/octopus-energy-rave/)
+ - [Ring finally brings end-to-end encryption to its flagship video doorbells](https://www.theverge.com/2022/9/7/23340150/ring-end-to-end-encryption-video-doorbell-security-camera-battery)
+ - [It’s time for the Apple Watch to become Apple’s next big thing](https://www.theverge.com/23339891/apple-iphone-14-event-watch-pro-wrist-computer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
