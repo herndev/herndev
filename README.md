@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beware my dudes](http://9gag.com/gag/aGEKKz0)
- - ⏩ [My choice](http://9gag.com/gag/avQ20DX)
- - 👉 [Because I can](http://9gag.com/gag/aeQKj6O)<!-- MEMES:END -->
+ - 💣 [New UK health minister](http://9gag.com/gag/ay2E5mM)
+ - ⏩ [Newly formed natural spring](http://9gag.com/gag/a4op46w)
+ - 👉 [Titanic 2022](http://9gag.com/gag/a7qvLqL)<!-- MEMES:END -->
 
 ---
 
