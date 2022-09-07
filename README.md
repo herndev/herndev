@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google confirms the Pixel 7 and Pixel 7 Pro will run on a new &quot;Tensor G2&quot; SoC &lpar;Kyle Bradshaw/9to5Google&rpar;](http://www.techmeme.com/220906/p30#a220906p30)
- - [T-Mobile 5G Home Internet is now available in parts of NYC, Boston, and Philadelphia](https://www.theverge.com/2022/9/6/23339117/t-mobile-5g-home-internet-north-east-new-york-new-jersey)
- - [Enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)<!-- TECH:END -->
+ - [How Cloudflare got Kiwi Farms wrong](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)
+ - [What are the best Netflix shows of all time? See our top 15](https://www.androidauthority.com/best-netflix-shows-of-all-time-3204050/)
+ - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
