@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice design](http://9gag.com/gag/aLvqYEV)
- - ⏩ [The good old days](http://9gag.com/gag/aze6Nzp)
- - 👉 [A friendly cat on a morning walk](http://9gag.com/gag/awzq6dB)<!-- MEMES:END -->
+ - 💣 [A gift from a friend](http://9gag.com/gag/aKmbbP6)
+ - ⏩ [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
+ - 👉 [The good old days](http://9gag.com/gag/aze6Nzp)<!-- MEMES:END -->
 
 ---
 
