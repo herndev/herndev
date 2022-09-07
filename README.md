@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A gift from a friend](http://9gag.com/gag/aKmbbP6)
- - ⏩ [I bet her name was Karen.](http://9gag.com/gag/a41Me61)
- - 👉 [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)<!-- MEMES:END -->
+ - 💣 [Sweet home](http://9gag.com/gag/aAGnn4o)
+ - ⏩ [Portugal=Shithole](http://9gag.com/gag/a61Wv8R)
+ - 👉 [Meanwhile in Berlin](http://9gag.com/gag/a913QYD)<!-- MEMES:END -->
 
 ---
 
