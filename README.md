@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Maps can now tune its eco-friendly navigation for gas, diesel, and electrified vehicles](https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types)
- - [State Farm will invest $1.2B in ADT for a ~15% stake, and $300M more for product innovation; Google invests $150M toward new products, pledges $150M more &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p34#a220906p34)
- - [&#39;House of the Dragon&#39;: Crabfeeder Actor Breaks Down That &#39;Decaying&#39; Look     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-crabfeeder-actor-breaks-down-that-decaying-look/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [US Senator Amy Klobuchar, the AICO&#39;s primary sponsor, says an &quot;incredible onslaught of money&quot; to fund ads against the bill has been an obstacle to passing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/220907/p3#a220907p3)
+ - [ISPs drop their legal bid to overturn a Maine law requiring opt-in consent before using, disclosing, selling, or providing access to customers&#39; personal info &lpar;Patrick Whittle/Associated Press&rpar;](http://www.techmeme.com/220907/p2#a220907p2)
+ - [Please Stop Calling It the &#39;Doomsday Glacier&#39;     - CNET](https://www.cnet.com/science/climate/please-stop-calling-it-the-doomsday-glacier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
