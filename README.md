@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how economy works](http://9gag.com/gag/aNwmmrK)
- - ⏩ [LIVE action theatre](http://9gag.com/gag/aKE44OW)
- - 👉 [Lucky mothertrucker](http://9gag.com/gag/avQ2p7Z)<!-- MEMES:END -->
+ - 💣 [Nga not scared of da police...](http://9gag.com/gag/amAqN96)
+ - ⏩ [This is how economy works](http://9gag.com/gag/aNwmmrK)
+ - 👉 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
 
 ---
 
