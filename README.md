@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro fits neatly into the existing AirPods pricing tier](https://appleinsider.com/articles/22/09/07/airpods-pro-fits-neatly-into-the-existing-airpods-pricing-tier?utm_medium=rss)
- - [GameStop’s crypto era brings FTX gift cards to its video game stores](https://www.theverge.com/2022/9/7/23341693/gamestop-ftx-partnership-gift-card-crypto)
- - [Apple’s New ‘Ultra’ Watch Goes Toe-to-Toe With Garmin](https://www.wired.com/story/apple-watch-ultra-garmin-sports-watch/)<!-- TECH:END -->
+ - [Compared: Apple Watch Ultra vs. Apple Watch Series 8 &amp; Series 7](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-ultra-vs-apple-watch-series-8-series-7?utm_medium=rss)
+ - [Compared: iPhone 14 &amp; iPhone 14 Plus vs. iPhone 13 &amp; iPhone 13 mini](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-iphone-14-plus-vs-iphone-13-iphone-13-mini?utm_medium=rss)
+ - [Facebook engineers have no idea what happens with user data](https://appleinsider.com/articles/22/09/07/facebook-engineers-have-no-idea-what-happens-with-user-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
