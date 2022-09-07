@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Octopus Energy Is the Answer to a Broken, Inefficient Market](https://www.wired.com/story/octopus-energy-rave/)
- - [Ring finally brings end-to-end encryption to its flagship video doorbells](https://www.theverge.com/2022/9/7/23340150/ring-end-to-end-encryption-video-doorbell-security-camera-battery)
- - [It’s time for the Apple Watch to become Apple’s next big thing](https://www.theverge.com/23339891/apple-iphone-14-event-watch-pro-wrist-computer)<!-- TECH:END -->
+ - [The Apple Store is down, ahead of today&#39;s iPhone 14 event](https://appleinsider.com/articles/22/09/07/the-apple-store-is-down-ahead-of-todays-iphone-14-event?utm_medium=rss)
+ - [Destiny 2’s new Eruption mode is the best thing to happen to its PvP in years](https://www.theverge.com/2022/9/7/23340667/destiny-2-eruption-iron-banner-mode-explained-review)
+ - [New York-based Carbyne, which offers cloud-based tools for emergency services, raised a $56M Series C led by Cox Enterprises and Hanaco at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220907/p18#a220907p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
