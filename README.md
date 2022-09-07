@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rocket League Heads to Sovereign Heights for Season 8](https://news.xbox.com/en-us/2022/09/07/rocket-league-heads-to-sovereign-heights-for-season-8/)
- - [The US puts an end to any plans Intel may have to make more chips in China](https://www.pcgamer.com/the-us-puts-an-end-to-any-plans-intel-may-have-to-make-more-chips-in-china)
- - [Every Monster Confirmed In Pokémon Scarlet And Violet’s Roster &lpar;So Far&rpar; [Updated]](https://kotaku.com/pokemon-scarlet-violet-gen-9-pokedex-confirmed-monster-1848603124)<!-- GAME:END -->
+ - [Mangasplaining is the podcast that turned me into a big bad manga boy](https://www.polygon.com/23340915/mangasplaining-podcast-review)
+ - [CD Projekt is already planning multiple new Witcher games](https://www.pcgamer.com/witcher-sequel-new-trilogy-saga)
+ - [Twitch Is Removing Its ‘Host Mode’ Feature And Everyone’s Upset](https://kotaku.com/twitch-update-host-mode-raids-streaming-feature-removed-1849506776)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
