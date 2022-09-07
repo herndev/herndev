@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Want to write for AppleInsider during the next Apple event? Apply within!](https://appleinsider.com/articles/22/09/07/want-to-write-for-appleinsider-during-the-next-apple-event-apply-within?utm_medium=rss)
- - [Apple Watch Series 8 debuts with new sensors &amp; focus on health](https://appleinsider.com/articles/22/09/07/apple-watch-series-8-debuts-with-new-sensors-focus-on-health?utm_medium=rss)
- - [Apple announces the Apple Watch Series 8](https://www.theverge.com/2022/9/7/23313786/apple-watch-series-8-specs-price-features-release-date)<!-- TECH:END -->
+ - [Apple introduces iPhone 14 &amp; iPhone 14 Plus -- with satellite connectivity](https://appleinsider.com/articles/22/09/07/apple-introduces-iphone-14-iphone-14-plus----and-no-mini-size?utm_medium=rss)
+ - [New AirPods Pro with lossless &amp; more battery life debut](https://appleinsider.com/articles/22/09/07/new-airpods-pro-with-lossless-more-battery-life-debut?utm_medium=rss)
+ - [Apple announces the 6.1-inch iPhone 14 and 6.7-inch iPhone 14 Plus with the iPhone 13&#39;s design and notch, last year&#39;s A15, improved camera sensors, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220907/p36#a220907p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
