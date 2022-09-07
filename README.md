@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hamburg-based Localyze, which offers a B2B SaaS service for employee immigration and relocation support, raised a $35M Series B led by General Catalyst &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220907/p4#a220907p4)
- - [Samsung Galaxy S21 series grabs September 2022 patch](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [Here is the confirmed Pixel 7 launch date and other info](https://www.androidauthority.com/google-pixel-7-launch-3205657/)<!-- TECH:END -->
+ - [As Spotify and YouTube&#39;s rivalry heats up, some worry the podcasting industry&#39;s pivot to video could risk ruining what makes the audio format so satisfying &lpar;Laurie Clarke/The Guardian&rpar;](http://www.techmeme.com/220907/p6#a220907p6)
+ - [A cheaper Chromecast for Google TV model could be around the corner](https://www.androidauthority.com/cheaper-chromecast-for-google-tv-3206003/)
+ - [Sundar Pichai said in a Code Conference interview that Google is &quot;pro-competitive&quot; and cited Microsoft, Apple, and TikTok as competitors in different businesses &lpar;Bloomberg&rpar;](http://www.techmeme.com/220907/p5#a220907p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
