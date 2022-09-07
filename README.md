@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New UK health minister](http://9gag.com/gag/ay2E5mM)
- - ⏩ [Newly formed natural spring](http://9gag.com/gag/a4op46w)
- - 👉 [Titanic 2022](http://9gag.com/gag/a7qvLqL)<!-- MEMES:END -->
+ - 💣 [God bless him](http://9gag.com/gag/aPg6vzw)
+ - ⏩ [Whenthe](http://9gag.com/gag/awZN0oR)
+ - 👉 [I made this game by myself, and the 9GAG community has been so supportive. I want to return the favor by giving away Steam keys to people who comment. Game is Zapling Bygone, and it released last month.](http://9gag.com/gag/avQ2pK5)<!-- MEMES:END -->
 
 ---
 
