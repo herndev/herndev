@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mangasplaining is the podcast that turned me into a big bad manga boy](https://www.polygon.com/23340915/mangasplaining-podcast-review)
- - [CD Projekt is already planning multiple new Witcher games](https://www.pcgamer.com/witcher-sequel-new-trilogy-saga)
- - [Twitch Is Removing Its ‘Host Mode’ Feature And Everyone’s Upset](https://kotaku.com/twitch-update-host-mode-raids-streaming-feature-removed-1849506776)<!-- GAME:END -->
+ - [Games Done Quick scraps Florida event, citing state’s COVID and anti-LGBTQ policies](https://www.polygon.com/23341281/awesome-games-done-quick-online-dates-florida-cancellation)
+ - [PSA: Play Immortality with a controller](https://www.polygon.com/gaming/23341158/immortality-game-controller-horror-jump-scare-sam-barlow)
+ - [Mangasplaining is the podcast that turned me into a big bad manga boy](https://www.polygon.com/23340915/mangasplaining-podcast-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
