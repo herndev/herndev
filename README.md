@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)
- - ⏩ [We require more minerals](http://9gag.com/gag/a913366)
- - 👉 [The man. The myth. The legend](http://9gag.com/gag/a3Zvvje)<!-- MEMES:END -->
+ - 💣 [I could do that](http://9gag.com/gag/aeQKKDp)
+ - ⏩ [This is how economy works](http://9gag.com/gag/aNwmmrK)
+ - 👉 [Bloody.....](http://9gag.com/gag/aWGBBwd)<!-- MEMES:END -->
 
 ---
 
