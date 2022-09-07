@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please Appreciate The Graphics On The Latest Witcher Game](https://kotaku.com/the-witcher-3-new-game-release-announced-mobile-2077-1849503437)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Elden Ring multiplayer mod guide: How to play in seamless co-op](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)<!-- GAME:END -->
+ - [NFT Psycho Advocates Turning Players From &#39;Developing&#39; Nations Into NPCs](https://kotaku.com/nft-crypto-blockchain-slavery-play-to-earn-minecraft-1849503776)
+ - [The city builder where you build on a giant animal&#39;s back has a release date](https://www.pcgamer.com/the-city-builder-where-you-build-on-a-giant-animals-back-has-a-release-date)
+ - [Undertale successor Deltarune won&#39;t get a new chapter in 2022](https://www.pcgamer.com/undertale-successor-deltarune-wont-get-a-new-chapter-in-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
