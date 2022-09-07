@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The first phone maker to add satellite texting to its devices is... Huawei](https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou)
- - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)
- - [Sundar Pichai, live at the Code Conference](https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog)<!-- TECH:END -->
+ - [Japan-based Josys, which helps companies automate IT operations, has raised a $32M Series A led by Global Brain &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220906/p33#a220906p33)
+ - [VTS, which provides online tools to landlords for managing leases and tenant data, raised a $125M+ Series E led by CBRE Group, sources say at a $1.7B valuation &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p32#a220906p32)
+ - [The first phone maker to add satellite texting to its devices is... Huawei](https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
