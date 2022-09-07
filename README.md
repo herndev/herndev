@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s new trailer reveals all-new Pokémon, story details](https://www.polygon.com/23340702/pokemon-scarlet-violet-new-trailer-nintendo-switch-klawf-ceruledge-armarouge)
- - [Rolling Out Today – Party Chat Noise Suppression and Jump In with Friends](https://news.xbox.com/en-us/2022/09/07/rolling-out-today-party-chat-noise-suppression/)
- - [Golfing for your life through purgatory is far more fun than you&#39;d think](https://www.pcgamer.com/golfing-for-your-life-through-purgatory-is-far-more-fun-than-youd-think)<!-- GAME:END -->
+ - [Everything we know about Pokémon Scarlet and Violet](https://www.polygon.com/pokemon/23149987/pokemon-scarlet-violet-nintendo-switch)
+ - [The Last of Us Part I: Photo Mode detailed](https://blog.playstation.com/2022/09/07/the-last-of-us-part-i-photo-mode-detailed/)
+ - [Xbox Elite Series 2 Is Evolving with More Ways to Play Like a Pro](https://news.xbox.com/en-us/2022/09/07/xbox-elite-series-2-evolving-with-more-ways-to-play/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
