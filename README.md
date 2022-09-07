@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The nerve of some people](http://9gag.com/gag/aRE6Q77)
- - ⏩ [When you are in a serious situation but your English makes you laugh](http://9gag.com/gag/aDYRAMw)
- - 👉 [I made this game by myself, and the 9GAG community has been so supportive. I want to return the favor by giving away Steam keys to people who comment. Game is Zapling Bygone, and it released last month.](http://9gag.com/gag/avQ2pK5)<!-- MEMES:END -->
+ - 💣 [Beware my dudes](http://9gag.com/gag/aGEKKz0)
+ - ⏩ [My choice](http://9gag.com/gag/avQ20DX)
+ - 👉 [Because I can](http://9gag.com/gag/aeQKj6O)<!-- MEMES:END -->
 
 ---
 
