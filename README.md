@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🎁 Unwrap new Google hardware](https://www.androidauthority.com/daily-authority-september-7-2022-3205990/)
- - [OnePlus could reveal a Snapdragon 8 Gen 2 phone at the end of the year](https://www.androidauthority.com/oneplus-snapdragon-8-gen-2-3206019/)
- - [Sony’s new PS5 has been totally redesigned inside and uses less power](https://www.theverge.com/2022/9/7/23340577/sony-ps5-new-design-motherboard-less-power-lighter)<!-- TECH:END -->
+ - [Big tech antitrust bill in danger after lobbyist spending spree](https://appleinsider.com/articles/22/09/07/big-tech-antitrust-bill-in-danger-after-lobbyist-spending-spree?utm_medium=rss)
+ - [Miami-based Muck Rack, a database of journalists, raised a $180M Series A from Susquehanna Growth Equity, after being bootstrapped since being founded in 2009 &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220907/p11#a220907p11)
+ - [Cloudflare belatedly banning Kiwi Farms demonstrates the &quot;stochastic terrorism loophole&quot;, offering groups cover as long as no one explicitly calls for murder &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220907/p10#a220907p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
