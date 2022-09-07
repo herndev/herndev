@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I could do that](http://9gag.com/gag/aeQKKDp)
- - ⏩ [This is how economy works](http://9gag.com/gag/aNwmmrK)
- - 👉 [Bloody.....](http://9gag.com/gag/aWGBBwd)<!-- MEMES:END -->
+ - 💣 [This is how economy works](http://9gag.com/gag/aNwmmrK)
+ - ⏩ [LIVE action theatre](http://9gag.com/gag/aKE44OW)
+ - 👉 [Lucky mothertrucker](http://9gag.com/gag/avQ2p7Z)<!-- MEMES:END -->
 
 ---
 
