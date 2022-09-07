@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sweet home](http://9gag.com/gag/aAGnn4o)
- - ⏩ [Portugal=Shithole](http://9gag.com/gag/a61Wv8R)
- - 👉 [Meanwhile in Berlin](http://9gag.com/gag/a913QYD)<!-- MEMES:END -->
+ - 💣 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)
+ - ⏩ [Sweet home](http://9gag.com/gag/aAGnn4o)
+ - 👉 [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)<!-- MEMES:END -->
 
 ---
 
