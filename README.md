@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Report: G Fuel Fired Five Staff Members After They Complained About CEO’s Toxic Language](https://kotaku.com/g-fuel-fired-ceo-toxic-influencer-hr-complaint-1849508695)
  - [Nier: Automata&#39;s legendary hoax is finally playable as a mod](https://www.pcgamer.com/nier-automatas-legendary-hoax-is-finally-playable-as-a-mod)
- - [Guardians of the Galaxy director James Gunn is really glad Hollywood shot down his idea for a Hitman movie](https://www.pcgamer.com/james-gunn-is-really-glad-hollywood-shot-down-his-idea-for-a-hitman-movie)
- - [PlayStation CEO says Xbox’s promise to keep Call of Duty multi-platform is ‘inadequate’](https://www.polygon.com/23341619/call-of-duty-playstation-sony-xbox-microsoft)<!-- GAME:END -->
+ - [Guardians of the Galaxy director James Gunn is really glad Hollywood shot down his idea for a Hitman movie](https://www.pcgamer.com/james-gunn-is-really-glad-hollywood-shot-down-his-idea-for-a-hitman-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
