@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
- - ⏩ [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
- - 👉 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)<!-- MEMES:END -->
+ - 💣 [Soviet Joke by Reagan](http://9gag.com/gag/aLvqyo6)
+ - ⏩ [Including Reels, Facebook shorts, Youtube Shorts](http://9gag.com/gag/avAbMmd)
+ - 👉 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)<!-- MEMES:END -->
 
 ---
 
