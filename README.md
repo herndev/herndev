@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch is eliminating Host Mode, leaving streamers and viewers baffled](https://www.polygon.com/23341398/twitch-remove-host-mode-autohost-suggested-channel-raid)
- - [11 Hours In, Dreamlight Valley Is Way More Than A Disney Animal Crossing Knock-Off](https://kotaku.com/disney-dreamlight-valley-review-animal-crossing-stardew-1849507154)
- - [Odd Taxi’s infectious opening is a hip-hop-infused journey into the mind of a grumpy walrus](https://www.polygon.com/23327683/odd-taxi-anime-opening)<!-- GAME:END -->
+ - [This New Action RPG Is Practically Berserk Cosplay](https://kotaku.com/soulstice-berserk-modus-studios-xbox-series-x-ps5-pc-1849507710)
+ - [The console dads are bickering about Call of Duty](https://www.pcgamer.com/the-console-dads-are-bickering-about-call-of-duty)
+ - [Here’s How To Make Crudites And Ratatouille In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-crudites-ratatouille-recipes-1849507568)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
