@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
  - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)
- - [Today&#39;s Wordle 445 answer and hint: Wednesday, September 7](https://www.pcgamer.com/todays-wordle-445-answer-hint)
- - [This New Soulslike Proves Easy Mode Isn&#39;t Just Possible, It Makes Everything Better](https://kotaku.com/steelrising-spiders-soulslike-dark-souls-elden-ring-1849487023)<!-- GAME:END -->
+ - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
