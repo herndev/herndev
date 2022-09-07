@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [A gift from a friend](http://9gag.com/gag/aKmbbP6)
- - ⏩ [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
- - 👉 [The good old days](http://9gag.com/gag/aze6Nzp)<!-- MEMES:END -->
+ - ⏩ [I bet her name was Karen.](http://9gag.com/gag/a41Me61)
+ - 👉 [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)<!-- MEMES:END -->
 
 ---
 
