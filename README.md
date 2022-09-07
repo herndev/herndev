@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Action RPG Is Practically Berserk Cosplay](https://kotaku.com/soulstice-berserk-modus-studios-xbox-series-x-ps5-pc-1849507710)
- - [The console dads are bickering about Call of Duty](https://www.pcgamer.com/the-console-dads-are-bickering-about-call-of-duty)
- - [Here’s How To Make Crudites And Ratatouille In Disney Dreamlight Valley](https://kotaku.com/disney-dreamlight-valley-crudites-ratatouille-recipes-1849507568)<!-- GAME:END -->
+ - [Nier: Automata&#39;s legendary hoax is finally playable as a mod](https://www.pcgamer.com/nier-automatas-legendary-hoax-is-finally-playable-as-a-mod)
+ - [Guardians of the Galaxy director James Gunn is really glad Hollywood shot down his idea for a Hitman movie](https://www.pcgamer.com/james-gunn-is-really-glad-hollywood-shot-down-his-idea-for-a-hitman-movie)
+ - [PlayStation CEO says Xbox’s promise to keep Call of Duty multi-platform is ‘inadequate’](https://www.polygon.com/23341619/call-of-duty-playstation-sony-xbox-microsoft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
