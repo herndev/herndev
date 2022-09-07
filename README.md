@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple introduces iPhone 14 &amp; iPhone 14 Plus -- with satellite connectivity](https://appleinsider.com/articles/22/09/07/apple-introduces-iphone-14-iphone-14-plus----and-no-mini-size?utm_medium=rss)
- - [New AirPods Pro with lossless &amp; more battery life debut](https://appleinsider.com/articles/22/09/07/new-airpods-pro-with-lossless-more-battery-life-debut?utm_medium=rss)
- - [Apple announces the 6.1-inch iPhone 14 and 6.7-inch iPhone 14 Plus with the iPhone 13&#39;s design and notch, last year&#39;s A15, improved camera sensors, and more &lpar;Benjamin Mayo/9to5Mac&rpar;](http://www.techmeme.com/220907/p36#a220907p36)<!-- TECH:END -->
+ - [Spigen&#39;s MagFit collection will protect your iPhone 14 with style](https://appleinsider.com/articles/22/09/07/spigens-magfit-collection-will-protect-your-iphone-14-with-style?utm_medium=rss)
+ - [Apple announces a new Apple Watch SE](https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date)
+ - [Hands-on with the iPhone 14 Pro and iPhone 14 Pro Max](https://www.theverge.com/23338833/iphone-14-pro-max-hands-on-notch-features-apple-event)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
