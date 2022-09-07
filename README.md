@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fuel the Music in Metal: Hellsinger](https://news.xbox.com/en-us/2022/09/07/fuel-the-music-in-metal-hellsinger/)
- - [League of Legends’ Ruination novel is better than it has any right to be](https://www.polygon.com/reviews/23333430/league-of-legends-ruination-novel-review-viego-kalista-hecarim)
- - [There’s a revised PS5 that’s lighter and more power efficient](https://www.polygon.com/23340800/new-ps5-model-1200-lighter-less-power)<!-- GAME:END -->
+ - [MultiVersus’ Gizmo goes Rambo on your ass this week](https://www.polygon.com/23339778/multiversus-gizmo-roster-reveal-release-date-class-abilities)
+ - [Microsoft Is Making A Simpler, Cheaper Version Of Its Elite Customizable Controller Now](https://kotaku.com/xbox-microsoft-elite-wireless-controller-series-2-cheap-1849505818)
+ - [Finally, you can watch Heathers: The Musical in all its slushie-filled glory](https://www.polygon.com/23340907/heathers-the-musical-trailer-official-recording)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
