@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Store is down, ahead of today&#39;s iPhone 14 event](https://appleinsider.com/articles/22/09/07/the-apple-store-is-down-ahead-of-todays-iphone-14-event?utm_medium=rss)
- - [Destiny 2’s new Eruption mode is the best thing to happen to its PvP in years](https://www.theverge.com/2022/9/7/23340667/destiny-2-eruption-iron-banner-mode-explained-review)
- - [New York-based Carbyne, which offers cloud-based tools for emergency services, raised a $56M Series C led by Cox Enterprises and Hanaco at a $400M valuation &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/220907/p18#a220907p18)<!-- TECH:END -->
+ - [How OPPO’s upgraded OS will change how you use your smartphone](https://www.androidauthority.com/oppo-coloros-13-changes-3204005/)
+ - [Samsung Galaxy Watch 5 Pro review: sometimes bigger is better](https://www.theverge.com/23340822/samsung-galaxy-watch-5-pro-review-smartwatch-wear-os-3)
+ - [Xbox Elite 2 controllers will be customizable in the Xbox Design Lab later this year](https://www.theverge.com/2022/9/7/23340636/microsoft-xbox-elite-2-controllers-design-lab-launch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
