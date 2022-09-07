@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How OPPO’s upgraded OS will change how you use your smartphone](https://www.androidauthority.com/oppo-coloros-13-changes-3204005/)
- - [Samsung Galaxy Watch 5 Pro review: sometimes bigger is better](https://www.theverge.com/23340822/samsung-galaxy-watch-5-pro-review-smartwatch-wear-os-3)
- - [Xbox Elite 2 controllers will be customizable in the Xbox Design Lab later this year](https://www.theverge.com/2022/9/7/23340636/microsoft-xbox-elite-2-controllers-design-lab-launch)<!-- TECH:END -->
+ - [PSA: If you have an original Eero router, it’s time to upgrade](https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade)
+ - [Filing: Vermont says Celsius CEO Alex Mashinsky repeatedly misled investors about the lender&#39;s finances and used its own CEL token to bolster its balance sheet &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220907/p24#a220907p24)
+ - [Israeli startup Mesh Payments, which helps companies track and manage employee expenses, raised a $60M Series C led by Alpha Wave, bringing its funding to $127M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220907/p23#a220907p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
