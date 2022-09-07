@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best UPS battery backup for PC gaming in 2022](https://www.pcgamer.com/the-best-uninterruptible-power-supplies-ups-for-pc)
- - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)
- - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)<!-- GAME:END -->
+ - [7 groundbreaking shows that defined the WB Animation renaissance](https://www.polygon.com/what-to-watch/23329094/best-animated-shows-warner-bros-watch-streaming-batman-superman-animaniacs)
+ - [PS5 gets folders and support for 1440p displays](https://www.polygon.com/23282047/ps5-1440p-support-folders-gamelists)
+ - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
