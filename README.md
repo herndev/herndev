@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PSA: If you have an original Eero router, it’s time to upgrade](https://www.theverge.com/2022/9/7/23340705/eero-wi-fi-router-when-to-upgrade)
- - [Filing: Vermont says Celsius CEO Alex Mashinsky repeatedly misled investors about the lender&#39;s finances and used its own CEL token to bolster its balance sheet &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220907/p24#a220907p24)
- - [Israeli startup Mesh Payments, which helps companies track and manage employee expenses, raised a $60M Series C led by Alpha Wave, bringing its funding to $127M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/220907/p23#a220907p23)<!-- TECH:END -->
+ - [Twitter is expanding its experimental community moderation system](https://www.theverge.com/2022/9/7/23341003/twitter-birdwatch-community-moderation-notes-misinformation-tweets-qanon)
+ - [Conservative podcasters are ditching the industry’s largest event](https://www.theverge.com/2022/9/7/23340901/ben-shapiro-podcast-movement-twitter-cumulus-alex-cooper-forbes)
+ - [Apple’s iPhone 14 event live blog](https://www.theverge.com/2022/9/7/23339616/apple-iphone-14-event-live-blog-updates-news)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
