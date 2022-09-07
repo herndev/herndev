@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Verizon&#39;s One Unlimited for iPhone plan includes Apple One subscription](https://appleinsider.com/articles/22/09/07/verizons-one-unlimited-for-iphone-plan-includes-apple-one-subscription?utm_medium=rss)
  - [Spigen&#39;s MagFit collection will protect your iPhone 14 with style](https://appleinsider.com/articles/22/09/07/spigens-magfit-collection-will-protect-your-iphone-14-with-style?utm_medium=rss)
- - [Apple announces a new Apple Watch SE](https://www.theverge.com/2022/9/7/23328608/apple-watch-se-new-second-gen-price-specs-features-release-date)
- - [Hands-on with the iPhone 14 Pro and iPhone 14 Pro Max](https://www.theverge.com/23338833/iphone-14-pro-max-hands-on-notch-features-apple-event)<!-- TECH:END -->
+ - [How to preorder the iPhone 14](https://www.theverge.com/23320607/iphone-14-plus-pro-max-preorder-buy-price-release-date-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
