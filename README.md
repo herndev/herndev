@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today collected 32kg of garbage. Total is 1570kg.You ask me about help of my neighbors they not, only my wife. Others thought I\u2019m lunatic and made stupid things. Your Cleaning Lady&amp;Guy.](http://9gag.com/gag/a04vvYn)
- - ⏩ [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)
- - 👉 [That&#39;s how I see it](http://9gag.com/gag/aE8eeNG)<!-- MEMES:END -->
+ - 💣 [I was there...](http://9gag.com/gag/aRrxxm5)
+ - ⏩ [That&#39;s how I see it](http://9gag.com/gag/aE8eeNG)
+ - 👉 [Do you watch anime ?](http://9gag.com/gag/aKmbb8Z)<!-- MEMES:END -->
 
 ---
 
