@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soviet Joke by Reagan](http://9gag.com/gag/aLvqyo6)
- - ⏩ [Including Reels, Facebook shorts, Youtube Shorts](http://9gag.com/gag/avAbMmd)
- - 👉 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)<!-- MEMES:END -->
+ - 💣 [Nice design](http://9gag.com/gag/aLvqYEV)
+ - ⏩ [The good old days](http://9gag.com/gag/aze6Nzp)
+ - 👉 [A friendly cat on a morning walk](http://9gag.com/gag/awzq6dB)<!-- MEMES:END -->
 
 ---
 
