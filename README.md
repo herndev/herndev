@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s late 2022 iPhone lineup ranges from $429 to $1,599](https://appleinsider.com/articles/22/09/07/apples-late-2022-iphone-lineup-ranges-from-429-to-1599?utm_medium=rss)
- - [UK Prime Minister Liz Truss confirms she wants to dilute the draft Online Safety Bill, focusing on protecting minors while making sure free speech is allowed &lpar;Financial Times&rpar;](http://www.techmeme.com/220907/p46#a220907p46)
- - [iPhone 14, Apple Watch Ultra, AirPods Pro 2 event - on the AppleInsider Podcast](https://appleinsider.com/articles/22/09/07/iphone-14-apple-watch-ultra-airpods-pro-2-event---on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Pro fits neatly into the existing AirPods pricing tier](https://appleinsider.com/articles/22/09/07/airpods-pro-fits-neatly-into-the-existing-airpods-pricing-tier?utm_medium=rss)
+ - [GameStop’s crypto era brings FTX gift cards to its video game stores](https://www.theverge.com/2022/9/7/23341693/gamestop-ftx-partnership-gift-card-crypto)
+ - [Apple’s New ‘Ultra’ Watch Goes Toe-to-Toe With Garmin](https://www.wired.com/story/apple-watch-ultra-garmin-sports-watch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
