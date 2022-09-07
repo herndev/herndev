@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Senator Amy Klobuchar, the AICO&#39;s primary sponsor, says an &quot;incredible onslaught of money&quot; to fund ads against the bill has been an obstacle to passing it &lpar;Bloomberg&rpar;](http://www.techmeme.com/220907/p3#a220907p3)
- - [ISPs drop their legal bid to overturn a Maine law requiring opt-in consent before using, disclosing, selling, or providing access to customers&#39; personal info &lpar;Patrick Whittle/Associated Press&rpar;](http://www.techmeme.com/220907/p2#a220907p2)
- - [Please Stop Calling It the &#39;Doomsday Glacier&#39;     - CNET](https://www.cnet.com/science/climate/please-stop-calling-it-the-doomsday-glacier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hamburg-based Localyze, which offers a B2B SaaS service for employee immigration and relocation support, raised a $35M Series B led by General Catalyst &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220907/p4#a220907p4)
+ - [Samsung Galaxy S21 series grabs September 2022 patch](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
+ - [Here is the confirmed Pixel 7 launch date and other info](https://www.androidauthority.com/google-pixel-7-launch-3205657/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
