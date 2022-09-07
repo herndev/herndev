@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New PS5 system software update is out globally today](https://blog.playstation.com/2022/09/07/new-ps5-system-software-update-is-out-globally-today/)
  - [Today&#39;s Wordle 445 answer and hint: Wednesday, September 7](https://www.pcgamer.com/todays-wordle-445-answer-hint)
- - [This New Soulslike Proves Easy Mode Isn&#39;t Just Possible, It Makes Everything Better](https://kotaku.com/steelrising-spiders-soulslike-dark-souls-elden-ring-1849487023)
- - [Essential Google Chrome update thwarts security vulnerability](https://www.pcgamer.com/essential-google-chrome-update-thwarts-security-vulnerability)<!-- GAME:END -->
+ - [This New Soulslike Proves Easy Mode Isn&#39;t Just Possible, It Makes Everything Better](https://kotaku.com/steelrising-spiders-soulslike-dark-souls-elden-ring-1849487023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
