@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some experts warn that the EU&#39;s proposed AI Act would create a legal liability for general-purpose AI systems while simultaneously undermining their development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220907/p7#a220907p7)
- - [How to ensure that headphones last as long as possible](https://www.androidauthority.com/prolong-headphones-live-3203439/)
- - [Google announces October 6th event to launch the Pixel Watch, Pixel 7, and new Nest devices](https://www.theverge.com/2022/9/6/23339303/pixel-7-pro-pixel-watch-made-by-google-hardware-event-october-6th)<!-- TECH:END -->
+ - [Daily Authority: 🎁 Unwrap new Google hardware](https://www.androidauthority.com/daily-authority-september-7-2022-3205990/)
+ - [OnePlus could reveal a Snapdragon 8 Gen 2 phone at the end of the year](https://www.androidauthority.com/oneplus-snapdragon-8-gen-2-3206019/)
+ - [Sony’s new PS5 has been totally redesigned inside and uses less power](https://www.theverge.com/2022/9/7/23340577/sony-ps5-new-design-motherboard-less-power-lighter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
