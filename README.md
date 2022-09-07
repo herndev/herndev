@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Cloudflare got Kiwi Farms wrong](https://www.theverge.com/2022/9/6/23339889/cloudflare-kiwi-farms-content-moderation-ddos)
- - [What are the best Netflix shows of all time? See our top 15](https://www.androidauthority.com/best-netflix-shows-of-all-time-3204050/)
- - [The best Sonos speaker and soundbar deals](https://www.theverge.com/good-deals/22979801/sonos-deals-speakers-soundbars-subwoofers-sale)<!-- TECH:END -->
+ - [The first phone maker to add satellite texting to its devices is... Huawei](https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou)
+ - [Apple Podcasts Connect email misfire may hint at event surprise](https://appleinsider.com/articles/22/09/06/apple-podcasts-connect-email-misfire-may-hint-at-event-surprise?utm_medium=rss)
+ - [Sundar Pichai, live at the Code Conference](https://www.theverge.com/2022/9/6/23340153/sundar-pichai-google-code-conference-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
