@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Verizon&#39;s One Unlimited for iPhone plan includes Apple One subscription](https://appleinsider.com/articles/22/09/07/verizons-one-unlimited-for-iphone-plan-includes-apple-one-subscription?utm_medium=rss)
- - [Spigen&#39;s MagFit collection will protect your iPhone 14 with style](https://appleinsider.com/articles/22/09/07/spigens-magfit-collection-will-protect-your-iphone-14-with-style?utm_medium=rss)
- - [How to preorder the iPhone 14](https://www.theverge.com/23320607/iphone-14-plus-pro-max-preorder-buy-price-release-date-apple)<!-- TECH:END -->
+ - [Apple&#39;s late 2022 iPhone lineup ranges from $429 to $1,599](https://appleinsider.com/articles/22/09/07/apples-late-2022-iphone-lineup-ranges-from-429-to-1599?utm_medium=rss)
+ - [UK Prime Minister Liz Truss confirms she wants to dilute the draft Online Safety Bill, focusing on protecting minors while making sure free speech is allowed &lpar;Financial Times&rpar;](http://www.techmeme.com/220907/p46#a220907p46)
+ - [iPhone 14, Apple Watch Ultra, AirPods Pro 2 event - on the AppleInsider Podcast](https://appleinsider.com/articles/22/09/07/iphone-14-apple-watch-ultra-airpods-pro-2-event---on-the-appleinsider-podcast?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
