@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces October 6th event to launch the Pixel Watch, Pixel 7, and new Nest devices](https://www.theverge.com/2022/9/6/23339303/pixel-7-pro-pixel-watch-made-by-google-hardware-event-october-6th)
- - [Google is also launching new smart home hardware on October 6](https://www.androidauthority.com/google-nest-launch-october-6-3206013/)
- - [As Spotify and YouTube&#39;s rivalry heats up, some worry the podcasting industry&#39;s pivot to video could risk ruining what makes the audio format so satisfying &lpar;Laurie Clarke/The Guardian&rpar;](http://www.techmeme.com/220907/p6#a220907p6)<!-- TECH:END -->
+ - [Some experts warn that the EU&#39;s proposed AI Act would create a legal liability for general-purpose AI systems while simultaneously undermining their development &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220907/p7#a220907p7)
+ - [How to ensure that headphones last as long as possible](https://www.androidauthority.com/prolong-headphones-live-3203439/)
+ - [Google announces October 6th event to launch the Pixel Watch, Pixel 7, and new Nest devices](https://www.theverge.com/2022/9/6/23339303/pixel-7-pro-pixel-watch-made-by-google-hardware-event-october-6th)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
