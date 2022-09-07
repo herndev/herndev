@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan-based Josys, which helps companies automate IT operations, has raised a $32M Series A led by Global Brain &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/220906/p33#a220906p33)
- - [VTS, which provides online tools to landlords for managing leases and tenant data, raised a $125M+ Series E led by CBRE Group, sources say at a $1.7B valuation &lpar;Peter Grant/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p32#a220906p32)
- - [The first phone maker to add satellite texting to its devices is... Huawei](https://www.theverge.com/2022/9/6/23339717/huawei-mate-50-pro-satellite-text-china-beidou)<!-- TECH:END -->
+ - [Google Maps can now tune its eco-friendly navigation for gas, diesel, and electrified vehicles](https://www.theverge.com/2022/9/7/23339954/google-maps-eco-friendly-routing-expanding-europe-fuel-types)
+ - [State Farm will invest $1.2B in ADT for a ~15% stake, and $300M more for product innovation; Google invests $150M toward new products, pledges $150M more &lpar;Miriam Gottfried/Wall Street Journal&rpar;](http://www.techmeme.com/220906/p34#a220906p34)
+ - [&#39;House of the Dragon&#39;: Crabfeeder Actor Breaks Down That &#39;Decaying&#39; Look     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-crabfeeder-actor-breaks-down-that-decaying-look/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
