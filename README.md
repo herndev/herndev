@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [7 groundbreaking shows that defined the WB Animation renaissance](https://www.polygon.com/what-to-watch/23329094/best-animated-shows-warner-bros-watch-streaming-batman-superman-animaniacs)
- - [PS5 gets folders and support for 1440p displays](https://www.polygon.com/23282047/ps5-1440p-support-folders-gamelists)
- - [The best full-tower case in 2022](https://www.pcgamer.com/best-full-tower-case)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s new trailer reveals all-new Pokémon, story details](https://www.polygon.com/23340702/pokemon-scarlet-violet-new-trailer-nintendo-switch-klawf-ceruledge-armarouge)
+ - [Rolling Out Today – Party Chat Noise Suppression and Jump In with Friends](https://news.xbox.com/en-us/2022/09/07/rolling-out-today-party-chat-noise-suppression/)
+ - [Golfing for your life through purgatory is far more fun than you&#39;d think](https://www.pcgamer.com/golfing-for-your-life-through-purgatory-is-far-more-fun-than-youd-think)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
