@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like the idea of small scale political and economic experiments.](http://9gag.com/gag/awzqRZ8)
- - ⏩ [Opossums are your friend &lt;3](http://9gag.com/gag/aGzPPe0)
- - 👉 [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)<!-- MEMES:END -->
+ - 💣 [Today collected 32kg of garbage. Total is 1570kg.You ask me about help of my neighbors they not, only my wife. Others thought I\u2019m lunatic and made stupid things. Your Cleaning Lady&amp;Guy.](http://9gag.com/gag/a04vvYn)
+ - ⏩ [When an Indian marries a Scot, you get a mashup for the ages](http://9gag.com/gag/angAAjb)
+ - 👉 [That&#39;s how I see it](http://9gag.com/gag/aE8eeNG)<!-- MEMES:END -->
 
 ---
 
