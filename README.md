@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s what i like to see !](http://9gag.com/gag/aBnDpxz)
- - ⏩ [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
- - 👉 [I can&#39;t argue.](http://9gag.com/gag/aXr8Br6)<!-- MEMES:END -->
+ - 💣 [Have you seen this? &lpar;1:30 minutes&rpar;](http://9gag.com/gag/a0Zm2wz)
+ - ⏩ [Does that mean God Loves China with its own space station?](http://9gag.com/gag/aegXo3Q)
+ - 👉 [Nuestros hermanos](http://9gag.com/gag/a0ZmB2B)<!-- MEMES:END -->
 
 ---
 
