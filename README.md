@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Essential Google Chrome update thwarts security vulnerability](https://www.pcgamer.com/essential-google-chrome-update-thwarts-security-vulnerability)
  - [Grab our favourite gaming keyboard of the year before it&#39;s out of stock](https://www.pcgamer.com/grab-our-favourite-gaming-keyboard-of-the-year-before-its-out-of-stock)
- - [Intel&#39;s Core i5 13400 is shaping up to be a killer budget gaming chip](https://www.pcgamer.com/intels-core-i5-13400-is-shaping-up-to-be-a-killer-budget-gaming-chip)
- - [Final Fantasy 7 Remake mod brings back the polygonal look](https://www.pcgamer.com/final-fantasy-7-remake-mod-brings-back-the-polygonal-look)<!-- GAME:END -->
+ - [Intel&#39;s Core i5 13400 is shaping up to be a killer budget gaming chip](https://www.pcgamer.com/intels-core-i5-13400-is-shaping-up-to-be-a-killer-budget-gaming-chip)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
