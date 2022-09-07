@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, Cyberpunk 2077&#39;s broken police will get a &#39;complete overhaul&#39;](https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul)
- - [NFT expert imagines a hopeful future where poor people serve as &#39;real-life NPCs&#39; in games](https://www.pcgamer.com/nft-expert-imagines-a-hopeful-future-where-poor-people-serve-as-real-life-npcs-in-games)
- - [PAX West Matt Booty Recap](https://news.xbox.com/en-us/2022/09/06/pax-west-matt-booty-recap/)<!-- GAME:END -->
+ - [Elden Ring multiplayer mod guide: How to play in seamless co-op](https://www.pcgamer.com/is-elden-ring-co-op-multiplayer)
+ - [NFT Viking Game Goes Bust Amid Crypto Collapse, Mismanagement Allegations](https://kotaku.com/nft-crypto-blockchain-game-fail-bust-dead-1849496441)
+ - [Finally, Cyberpunk 2077&#39;s broken police will get a &#39;complete overhaul&#39;](https://www.pcgamer.com/finally-cyberpunk-2077s-broken-police-will-get-a-complete-overhaul)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
