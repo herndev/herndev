@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
- - [Steve Jobs’ friends and family just launched an archive to celebrate his life](https://www.theverge.com/2022/9/7/23342222/steve-jobs-archive-website-launch)
- - [Apple&#39;s iPhone 14 Lineup Has a Notable Improvement: Longer Battery Life     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-lineup-has-a-notable-improvement-longer-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is Bluetooth and how does it work?](https://www.androidauthority.com/what-is-bluetooth-and-how-does-it-work-3204579/)
+ - [CommerceHub, which connects retailers and brands with suppliers, agrees to acquire and take private e-commerce software provider ChannelAdvisor in a ~$660M deal &lpar;Colin Kellaher/MarketWatch&rpar;](http://www.techmeme.com/220908/p1#a220908p1)
+ - [Tim Cook says ‘buy your mom an iPhone’ when asked about RCS support in iMessage](https://www.androidauthority.com/tim-cook-rcs-iphone-3206620/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
