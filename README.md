@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
- - [Gravastar Sirius Pro](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
- - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)<!-- GAME:END -->
+ - [How to get the Seelie pet in Genshin Impact](https://www.pcgamer.com/genshin-impact-seelie-pet-lost-riches)
+ - [Awesome Games Done Quick pulls in-person event because organisers don&#39;t think Florida is safe](https://www.pcgamer.com/awesome-games-done-quick-pulls-in-person-event-because-organisers-dont-think-florida-is-safe)
+ - [Crusader Kings 3&#39;s greatest event is one you can&#39;t play](https://www.pcgamer.com/crusader-kings-3s-greatest-event-is-one-you-cant-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
