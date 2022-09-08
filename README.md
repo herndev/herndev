@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [It&#39;s A Bummer The West&#39;s First My Summer Vacation Game Had To Be This One](https://kotaku.com/shin-chan-my-summer-vacation-boku-no-natsuyasumi-1849504058)
  - [Quake Is Now &#39;Playable&#39; On A Tiny Little Apple Watch](https://kotaku.com/quake-port-apple-watch-id-fps-doom-1849509147)
- - [GameStop Accused Of &#39;Wiretapping&#39; Customers Without Their Consent](https://kotaku.com/gamestop-wire-tap-lawsuit-support-california-1849508949)
- - [Bethesda revives servers for 20-year-old FPS in rare instance of a corporation being cool](https://www.pcgamer.com/bethesda-revives-dedicated-servers-for-20-year-old-fps-in-rare-instance-of-a-corporation-being-cool)<!-- GAME:END -->
+ - [GameStop Accused Of &#39;Wiretapping&#39; Customers Without Their Consent](https://kotaku.com/gamestop-wire-tap-lawsuit-support-california-1849508949)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
