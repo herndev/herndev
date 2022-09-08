@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite the recent downturn in the cryptocurrency market, Y Combinator&#39;s Summer 2022 batch has 30 crypto startups, up from 25 in its Winter 2022 batch &lpar;TechCrunch&rpar;](http://www.techmeme.com/220907/p50#a220907p50)
- - [Apple selling AirPods 3 without wireless charging for $10 less -- but don&#39;t buy them](https://appleinsider.com/articles/22/09/07/apple-selling-airpods-3-without-wireless-charging-for-10-less----but-dont-buy-them?utm_medium=rss)
- - [Incipio announces case lineup for iPhone 14 series](https://appleinsider.com/articles/22/09/07/incipio-announces-case-lineup-for-iphone-14-series?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
+ - [Apple launches new Apple Watch SE with focus on family sharing](https://appleinsider.com/articles/22/09/07/apple-launches-new-apple-watch-se-with-focus-on-family-sharing?utm_medium=rss)
+ - [Big tech antitrust bill in danger after lobbyist spending spree](https://appleinsider.com/articles/22/09/07/big-tech-antitrust-bill-in-danger-after-lobbyist-spending-spree?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
