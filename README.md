@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Somebody](http://9gag.com/gag/a04vYoO)
- - ⏩ [IPhone 14 series announced today. Youtubers tomorrow:](http://9gag.com/gag/aMEe1pP)
+ - 💣 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - ⏩ [Somebody](http://9gag.com/gag/a04vYoO)
  - 👉 [1/1](http://9gag.com/gag/aVbjX7v)<!-- MEMES:END -->
 
 ---
