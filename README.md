@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon, Nike, Best Buy, Twitch, and other big brands removed the ability to sign in with Facebook in recent years, some executives say due to privacy concerns &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220908/p36#a220908p36)
- - [Some Withings products are about to get more expensive](https://www.theverge.com/2022/9/8/23342804/withings-price-increase-expensive-health-smart-scales-watch)
- - [Asus’ ROG 6 Android gaming phones are available for preorder in North America](https://www.theverge.com/2022/9/8/23342614/asus-rog-6-gaming-phone-preorder-north-america)<!-- TECH:END -->
+ - [Meta disbands its Responsible Innovation team, set up to address concerns about the downsides of its products, but says it remains committed to the team&#39;s goals &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/220908/p38#a220908p38)
+ - [Zagg announces cases &amp; screen protectors for iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/09/08/zagg-announces-cases-screen-protectors-for-iphone-14-apple-watch-series-8?utm_medium=rss)
+ - [Queen Elizabeth II Has Died. Her Internet Legacy Will Live On](https://www.wired.com/story/how-the-internet-will-remember-the-queen/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
