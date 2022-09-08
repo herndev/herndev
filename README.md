@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marry her](http://9gag.com/gag/adPy6d2)
+ - 💣 [I always admired my grandfather&#39;s watch. That&#39;s why it&#39;s so special to me. My dear old grandad was on his deathbed when he sold me this watch.](http://9gag.com/gag/aMEeroX)
  - ⏩ [These grandkids planned to surprise grandma at the airport dressing as T-Rex but she heard about it and planned her own surprise.](http://9gag.com/gag/a4opdem)
- - 👉 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)<!-- MEMES:END -->
+ - 👉 [Karma hits hard](http://9gag.com/gag/adPyYbM)<!-- MEMES:END -->
 
 ---
 
