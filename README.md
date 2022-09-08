@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German engineering at its best](http://9gag.com/gag/abv30xv)
- - ⏩ [Prepare ya last memes](http://9gag.com/gag/a7qvZ5r)
- - 👉 [Puttttta](http://9gag.com/gag/agorVMW)<!-- MEMES:END -->
+ - 💣 [God save the King](http://9gag.com/gag/a8qdpQ6)
+ - ⏩ [Wikipedia editors right now](http://9gag.com/gag/a2KE52E)
+ - 👉 [Two Japan Coast Guard vessels JCG Muzuki &lpar;PS-11&rpar; &amp; JCG Nobaru &lpar;PS-16&rpar; ramming a Chinese boat piloted by activists who had placed a Chinese flag on Uotsuri Island &lpar;15/8/2012&rpar;](http://9gag.com/gag/a2KE5Qd)<!-- MEMES:END -->
 
 ---
 
