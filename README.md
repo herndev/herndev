@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interview with an Apple employee regarding iPhone 14 release](http://9gag.com/gag/aVbjWv8)
- - ⏩ [The two party system is tearing my country apart.](http://9gag.com/gag/aOxobOy)
- - 👉 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)<!-- MEMES:END -->
+ - 💣 [A fine quote](http://9gag.com/gag/aA0BpNZ)
+ - ⏩ [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
+ - 👉 [What&#39;s going on here?](http://9gag.com/gag/awZNxKB)<!-- MEMES:END -->
 
 ---
 
