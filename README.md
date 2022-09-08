@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing Stray Reactions, a pet-loving photo event supporting the ASPCA®](https://blog.playstation.com/2022/09/08/announcing-stray-reactions-a-pet-loving-photo-event-supporting-the-aspca/)
- - [MultiVersus patch 1.02 adds Gizmo, hitbox updates, and more](https://www.polygon.com/23342649/multiversus-1-02-patch-notes-gizmo-hitbox-projectile-velma-update)
- - [Nvidia&#39;s GTC keynote will kick off with a GeForce Beyond Special Broadcast](https://www.pcgamer.com/geforce-beyond-special-broadcast)<!-- GAME:END -->
+ - [Don’t Miss the /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/08/dont-miss-the-twitchgaming-idxbox-fall-showcase/)
+ - [Overwatch 2 will lock new heroes behind the battle pass and fans aren&#39;t happy](https://www.pcgamer.com/overwatch-2-will-lock-new-heroes-behind-the-battle-pass-and-fans-arent-happy)
+ - [Indian minister says Intel is building a chip factory in the country. Intel disagrees](https://www.pcgamer.com/indian-minister-says-intel-is-building-a-chip-factory-in-the-country-intel-disagrees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
