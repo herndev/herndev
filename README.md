@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: G Fuel Fired Five Staff Members After They Complained About CEO’s Toxic Language](https://kotaku.com/g-fuel-fired-ceo-toxic-influencer-hr-complaint-1849508695)
- - [Nier: Automata&#39;s legendary hoax is finally playable as a mod](https://www.pcgamer.com/nier-automatas-legendary-hoax-is-finally-playable-as-a-mod)
- - [Guardians of the Galaxy director James Gunn is really glad Hollywood shot down his idea for a Hitman movie](https://www.pcgamer.com/james-gunn-is-really-glad-hollywood-shot-down-his-idea-for-a-hitman-movie)<!-- GAME:END -->
+ - [Quake Is Now &#39;Playable&#39; On A Tiny Little Apple Watch](https://kotaku.com/quake-port-apple-watch-id-fps-doom-1849509147)
+ - [GameStop Accused Of &#39;Wiretapping&#39; Customers Without Their Consent](https://kotaku.com/gamestop-wire-tap-lawsuit-support-california-1849508949)
+ - [Bethesda revives servers for 20-year-old FPS in rare instance of a corporation being cool](https://www.pcgamer.com/bethesda-revives-dedicated-servers-for-20-year-old-fps-in-rare-instance-of-a-corporation-being-cool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
