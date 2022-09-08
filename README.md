@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fujifilm’s new X-H2 finally pushes its APS-C camera system to higher resolution](https://www.theverge.com/2022/9/8/23342074/fujifilm-xh2-mirrorless-camera-xf56-gf2035-lens-price-specs-availability)
- - [Elon Musk says he talked with Apple&#39;s about satellite communication](https://appleinsider.com/articles/22/09/08/elon-musk-says-he-talked-with-apples-about-satellite-communication?utm_medium=rss)
- - [Apple Watch Ultra vs Series 8: Which should you buy?](https://www.androidauthority.com/apple-watch-ultra-vs-series-8-3206635/)<!-- TECH:END -->
+ - [You&#39;ll need an iPhone 14 to see all of AT&amp;T&#39;s 5G network](https://appleinsider.com/articles/22/09/08/youll-need-an-iphone-14-to-see-all-of-atts-5g-network?utm_medium=rss)
+ - [Tim Cook revealed the real reason Apple won’t fix green bubbles](https://www.theverge.com/2022/9/8/23343336/apple-tim-cook-imessage-blue-green-bubbles-texting-rcs)
+ - [You can currently get a PlayStation 5 bundle from Sony without standing in line](https://www.theverge.com/2022/9/8/23320934/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
