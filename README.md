@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The outtakes of NASA astronauts trying to walk on the moon](http://9gag.com/gag/aWGB0P4)
- - ⏩ [God bless him](http://9gag.com/gag/aPg6vzw)
- - 👉 [She&#39;d be a perfect Bean](http://9gag.com/gag/avQ20wE)<!-- MEMES:END -->
+ - 💣 [Man Eater](http://9gag.com/gag/agor0j1)
+ - ⏩ [Just the GOATs chilling together](http://9gag.com/gag/aRE6gRA)
+ - 👉 [The outtakes of NASA astronauts trying to walk on the moon](http://9gag.com/gag/aWGB0P4)<!-- MEMES:END -->
 
 ---
 
