@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta disbands its Responsible Innovation team, set up to address concerns about the downsides of its products, but says it remains committed to the team&#39;s goals &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/220908/p38#a220908p38)
- - [Zagg announces cases &amp; screen protectors for iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/09/08/zagg-announces-cases-screen-protectors-for-iphone-14-apple-watch-series-8?utm_medium=rss)
- - [Queen Elizabeth II Has Died. Her Internet Legacy Will Live On](https://www.wired.com/story/how-the-internet-will-remember-the-queen/)<!-- TECH:END -->
+ - [Fujifilm’s new X-H2 finally pushes its APS-C camera system to higher resolution](https://www.theverge.com/2022/9/8/23342074/fujifilm-xh2-mirrorless-camera-xf56-gf2035-lens-price-specs-availability)
+ - [Elon Musk says he talked with Apple&#39;s about satellite communication](https://appleinsider.com/articles/22/09/08/elon-musk-says-he-talked-with-apples-about-satellite-communication?utm_medium=rss)
+ - [Apple Watch Ultra vs Series 8: Which should you buy?](https://www.androidauthority.com/apple-watch-ultra-vs-series-8-3206635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
