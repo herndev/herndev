@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Queen when Meghan Markle comes to say her goodbyes](http://9gag.com/gag/aMEe9oV)
- - ⏩ [Long live the Queen](http://9gag.com/gag/axoEgLp)
- - 👉 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
+ - ⏩ [Queen is Pepsi, long lived the queen](http://9gag.com/gag/aBd98Vz)
+ - 👉 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)<!-- MEMES:END -->
 
 ---
 
