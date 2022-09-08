@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tronsmart Onyx Ace Pro](https://www.pcgamer.com/tronsmart-onyx-ace-pro-wireless-earbuds-review)
- - [A Plague Tale: Requiem ups the stakes of its indie darling predecessor](https://www.polygon.com/23341545/plague-tale-reqiuem-platforms-release-date-ps5-xbox-one-series-x-pc-switch)
- - [Today&#39;s Wordle 446 answer and hint: Thursday, September 8](https://www.pcgamer.com/todays-wordle-446-answer-hint)<!-- GAME:END -->
+ - [Best cheap gaming chair right now](https://www.pcgamer.com/cheap-gaming-chair-should-i-buy)
+ - [Gravastar Sirius Pro](https://www.pcgamer.com/gravastar-sirius-pro-wireless-earbuds-review)
+ - [Asus ROG Cetra True Wireless](https://www.pcgamer.com/asus-rog-cetra-true-wireless-earbuds-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
