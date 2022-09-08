@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia GPUs continue to dominate according to Steam&#39;s latest hardware survey](https://www.pcgamer.com/nvidia-gpus-continue-to-dominate-according-to-steams-latest-hardware-survey)
  - [It&#39;s A Bummer The West&#39;s First My Summer Vacation Game Had To Be This One](https://kotaku.com/shin-chan-my-summer-vacation-boku-no-natsuyasumi-1849504058)
- - [Quake Is Now &#39;Playable&#39; On A Tiny Little Apple Watch](https://kotaku.com/quake-port-apple-watch-id-fps-doom-1849509147)
- - [GameStop Accused Of &#39;Wiretapping&#39; Customers Without Their Consent](https://kotaku.com/gamestop-wire-tap-lawsuit-support-california-1849508949)<!-- GAME:END -->
+ - [Quake Is Now &#39;Playable&#39; On A Tiny Little Apple Watch](https://kotaku.com/quake-port-apple-watch-id-fps-doom-1849509147)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
