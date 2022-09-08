@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sound recommended](http://9gag.com/gag/aA0B13Z)
- - ⏩ [A good samaritan](http://9gag.com/gag/aDYRonN)
- - 👉 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
+ - 💣 [So you&#39;re telling me there&#39;s a chance....YEAHHHHH](http://9gag.com/gag/az27VnK)
+ - ⏩ [Scool](http://9gag.com/gag/aXnZ9wP)
+ - 👉 [Apple when no one asks questions about USB-C](http://9gag.com/gag/awZN7n8)<!-- MEMES:END -->
 
 ---
 
