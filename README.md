@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Innovation!](http://9gag.com/gag/az27L7q)
- - ⏩ [Come back](http://9gag.com/gag/aYVjWmq)
- - 👉 [My choice](http://9gag.com/gag/avQ20DX)<!-- MEMES:END -->
+ - 💣 [Nothing to lose](http://9gag.com/gag/aMEeQeG)
+ - ⏩ [Innovation!](http://9gag.com/gag/az27L7q)
+ - 👉 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
 
 ---
 
