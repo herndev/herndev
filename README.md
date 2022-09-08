@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
- - ⏩ [1/1](http://9gag.com/gag/aVbjX7v)
- - 👉 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)<!-- MEMES:END -->
+ - 💣 [Sound recommended](http://9gag.com/gag/aA0B13Z)
+ - ⏩ [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - 👉 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
 
 ---
 
