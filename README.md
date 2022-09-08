@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rurbanization: Why It’s Time to Make Cities More Rural](https://www.wired.com/story/why-its-time-to-make-cities-more-rural/)
- - [How to Hide the News Widgets in Windows 10 and 11](https://www.wired.com/story/how-to-hide-news-widget-windows-10-11/)
- - [Welcome to Apple’s Dynamic Island](https://www.wired.com/story/gadget-lab-podcast-565/)<!-- TECH:END -->
+ - [SEC Chair Gary Gensler signals support for Congress giving the CFTC oversight on bitcoin and ether, as long as the SEC retains its power &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220908/p24#a220908p24)
+ - [4 Ways to Sell or Trade In Your Old iPhone](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
+ - [The Woman Who Became a Company Has Lessons for a Post-Roe World](https://www.wired.com/story/art-data-property-roe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
