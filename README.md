@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands-on with Apple Watch Ultra: the large, flat 49mm display, which can reach 2,000 nits, is in a class of its own and the device is lighter than expected &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220908/p14#a220908p14)
- - [Hands-on with iPhone 14 Pro and 14 Pro Max: similar design to 13 Pro but without the notch, thanks to the playful Dynamic Island; always-on is a great feature &lpar;The Verge&rpar;](http://www.techmeme.com/220908/p13#a220908p13)
- - [Draft EU legislation, set to be unveiled next week, mandates IoT product makers to meet cybersecurity rules or face heavy fines of &amp;euro;15M or 2.5% of turnover &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/220908/p12#a220908p12)<!-- TECH:END -->
+ - [This Clever Anti-Censorship Tool Lets Russians Read Blocked News](https://www.wired.com/story/russia-internet-censorship-samizdat-online/)
+ - [How Does a Variant-Specific Covid Booster Work?](https://www.wired.com/story/how-does-a-variant-specific-covid-booster-work/)
+ - [Apple might have fixed the notch by putting it on an island](https://www.theverge.com/23341555/apple-iphone-14-pro-max-notch-dynamic-island-fix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
