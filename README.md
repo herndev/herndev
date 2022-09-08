@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Don’t Miss the /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/08/dont-miss-the-twitchgaming-idxbox-fall-showcase/)
- - [Overwatch 2 will lock new heroes behind the battle pass and fans aren&#39;t happy](https://www.pcgamer.com/overwatch-2-will-lock-new-heroes-behind-the-battle-pass-and-fans-arent-happy)
- - [Indian minister says Intel is building a chip factory in the country. Intel disagrees](https://www.pcgamer.com/indian-minister-says-intel-is-building-a-chip-factory-in-the-country-intel-disagrees)<!-- GAME:END -->
+ - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
+ - [Steelrising’s Assist Mode is a Unique Take on the Soulslike Genre](https://news.xbox.com/en-us/2022/09/08/steelrisings-assist-mode-feature/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
