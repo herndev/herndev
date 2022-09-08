@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [WALL-E will be the first Disney film in the Criterion Collection](https://www.polygon.com/23343003/wall-e-pixar-disney-criterion-collection)
- - [Squid Game star Lee Jung-Jae joins Star Wars series The Acolyte](https://www.polygon.com/23343002/squid-game-star-star-wars-the-acolyte-series-disney-plus)
- - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)<!-- GAME:END -->
+ - [Evil Wesley Crusher is coming to the Star Trek MMO](https://www.polygon.com/23342629/star-trek-online-mirror-universe-wesley-crusher-terran-emperor)
+ - [Star Trek: Picard season 3 teaser reunites the Next Generation crew for one more mission](https://www.polygon.com/23342447/star-trek-picard-season-3-trailer-teaser-release-date)
+ - [Battlefield is getting a &#39;narrative campaign&#39; from Halo co-creator&#39;s new studio](https://www.pcgamer.com/battlefield-is-getting-a-narrative-campaign-from-halo-co-creators-new-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
