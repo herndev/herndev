@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)
- - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
- - [Steelrising’s Assist Mode is a Unique Take on the Soulslike Genre](https://news.xbox.com/en-us/2022/09/08/steelrisings-assist-mode-feature/)<!-- GAME:END -->
+ - [WALL-E will be the first Disney film in the Criterion Collection](https://www.polygon.com/23343003/wall-e-pixar-disney-criterion-collection)
+ - [Squid Game star Lee Jung-Jae joins Star Wars series The Acolyte](https://www.polygon.com/23343002/squid-game-star-star-wars-the-acolyte-series-disney-plus)
+ - [Hideo Kojima’s New Podcast Is Messy, But Damn If We’re Not Going To Listen Anyway](https://kotaku.com/hideo-kojima-metal-gear-death-stranding-podcast-1849511970)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
