@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
- - [Apple launches new Apple Watch SE with focus on family sharing](https://appleinsider.com/articles/22/09/07/apple-launches-new-apple-watch-se-with-focus-on-family-sharing?utm_medium=rss)
- - [Big tech antitrust bill in danger after lobbyist spending spree](https://appleinsider.com/articles/22/09/07/big-tech-antitrust-bill-in-danger-after-lobbyist-spending-spree?utm_medium=rss)<!-- TECH:END -->
+ - [Tens of thousands of viewers are watching a fake Apple crypto scam on YouTube right now](https://www.theverge.com/2022/9/7/23342120/apple-fake-youtube-live-stream-crypto-scam)
+ - [Former Disney CEO Bob Iger says the company found that &quot;a substantial portion&quot; of Twitter&#39;s users were &quot;not real&quot;, when Disney considered buying Twitter in 2016 &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/220907/p51#a220907p51)
+ - [Tim Cook, Jony Ive, and Laurene Powell Jobs, live at Code](https://www.theverge.com/apple/2022/9/7/23342078/tim-cook-jony-ive-laurene-powell-jobs-on-steve-jobs-at-code-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
