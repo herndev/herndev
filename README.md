@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing to lose](http://9gag.com/gag/aMEeQeG)
- - ⏩ [Innovation!](http://9gag.com/gag/az27L7q)
- - 👉 [Marry her](http://9gag.com/gag/adPy6d2)<!-- MEMES:END -->
+ - 💣 [Marry her](http://9gag.com/gag/adPy6d2)
+ - ⏩ [These grandkids planned to surprise grandma at the airport dressing as T-Rex but she heard about it and planned her own surprise.](http://9gag.com/gag/a4opdem)
+ - 👉 [Time for some dad jokes](http://9gag.com/gag/aNwmKob)<!-- MEMES:END -->
 
 ---
 
