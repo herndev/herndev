@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I always admired my grandfather&#39;s watch. That&#39;s why it&#39;s so special to me. My dear old grandad was on his deathbed when he sold me this watch.](http://9gag.com/gag/aMEeroX)
- - ⏩ [These grandkids planned to surprise grandma at the airport dressing as T-Rex but she heard about it and planned her own surprise.](http://9gag.com/gag/a4opdem)
- - 👉 [Karma hits hard](http://9gag.com/gag/adPyYbM)<!-- MEMES:END -->
+ - 💣 [Somebody](http://9gag.com/gag/a04vYoO)
+ - ⏩ [IPhone 14 series announced today. Youtubers tomorrow:](http://9gag.com/gag/aMEe1pP)
+ - 👉 [1/1](http://9gag.com/gag/aVbjX7v)<!-- MEMES:END -->
 
 ---
 
