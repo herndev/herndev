@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Humble is bundling several great PC games for just $16](https://www.theverge.com/good-deals/2022/9/8/23342522/humble-bundle-borderlands-bioshock-apple-ipad-disney-plus-asus-laptop-deal-sale)
- - [Arize AI, a service for machine learning operations, or MLOps, raised a $38M Series B led by TCV, bringing its total funding to $62M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220908/p27#a220908p27)
- - [All iPhone 14 &amp; iPhone 14 Pro models come with 6GB of RAM](https://appleinsider.com/articles/22/09/08/all-iphone-14-iphone-14-pro-models-come-with-6gb-of-ram?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
+ - [Microsoft starts testing new Xbox Home UI that will arrive in 2023](https://www.theverge.com/2022/9/8/23328667/microsoft-xbox-home-user-interface-update-changes-dashboard-2023)
+ - [Apple Watch Ultra is compatible with 45mm bands](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-is-compatible-with-45mm-bands?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
