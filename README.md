@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC Chair Gary Gensler signals support for Congress giving the CFTC oversight on bitcoin and ether, as long as the SEC retains its power &lpar;Andrew Ackerman/Wall Street Journal&rpar;](http://www.techmeme.com/220908/p24#a220908p24)
- - [4 Ways to Sell or Trade In Your Old iPhone](https://www.wired.com/story/how-to-trade-in-or-sell-your-iphone/)
- - [The Woman Who Became a Company Has Lessons for a Post-Roe World](https://www.wired.com/story/art-data-property-roe/)<!-- TECH:END -->
+ - [Humble is bundling several great PC games for just $16](https://www.theverge.com/good-deals/2022/9/8/23342522/humble-bundle-borderlands-bioshock-apple-ipad-disney-plus-asus-laptop-deal-sale)
+ - [Arize AI, a service for machine learning operations, or MLOps, raised a $38M Series B led by TCV, bringing its total funding to $62M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220908/p27#a220908p27)
+ - [All iPhone 14 &amp; iPhone 14 Pro models come with 6GB of RAM](https://appleinsider.com/articles/22/09/08/all-iphone-14-iphone-14-pro-models-come-with-6gb-of-ram?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
