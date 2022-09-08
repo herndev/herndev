@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: Apple Watch Ultra vs. Apple Watch Series 8 &amp; Series 7](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-ultra-vs-apple-watch-series-8-series-7?utm_medium=rss)
- - [Compared: iPhone 14 &amp; iPhone 14 Plus vs. iPhone 13 &amp; iPhone 13 mini](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-iphone-14-plus-vs-iphone-13-iphone-13-mini?utm_medium=rss)
- - [Facebook engineers have no idea what happens with user data](https://appleinsider.com/articles/22/09/07/facebook-engineers-have-no-idea-what-happens-with-user-data?utm_medium=rss)<!-- TECH:END -->
+ - [Despite the recent downturn in the cryptocurrency market, Y Combinator&#39;s Summer 2022 batch has 30 crypto startups, up from 25 in its Winter 2022 batch &lpar;TechCrunch&rpar;](http://www.techmeme.com/220907/p50#a220907p50)
+ - [Apple selling AirPods 3 without wireless charging for $10 less -- but don&#39;t buy them](https://appleinsider.com/articles/22/09/07/apple-selling-airpods-3-without-wireless-charging-for-10-less----but-dont-buy-them?utm_medium=rss)
+ - [Incipio announces case lineup for iPhone 14 series](https://appleinsider.com/articles/22/09/07/incipio-announces-case-lineup-for-iphone-14-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
