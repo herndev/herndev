@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are together again](http://9gag.com/gag/aNwmd7r)
- - ⏩ [Good luck, Charles!](http://9gag.com/gag/aeQKYRj)
- - 👉 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)<!-- MEMES:END -->
+ - 💣 [The Queen when Meghan Markle comes to say her goodbyes](http://9gag.com/gag/aMEe9oV)
+ - ⏩ [Long live the Queen](http://9gag.com/gag/axoEgLp)
+ - 👉 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
 
 ---
 
