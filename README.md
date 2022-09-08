@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil Wesley Crusher is coming to the Star Trek MMO](https://www.polygon.com/23342629/star-trek-online-mirror-universe-wesley-crusher-terran-emperor)
- - [Star Trek: Picard season 3 teaser reunites the Next Generation crew for one more mission](https://www.polygon.com/23342447/star-trek-picard-season-3-trailer-teaser-release-date)
- - [Battlefield is getting a &#39;narrative campaign&#39; from Halo co-creator&#39;s new studio](https://www.pcgamer.com/battlefield-is-getting-a-narrative-campaign-from-halo-co-creators-new-studio)<!-- GAME:END -->
+ - [Star Trek: The Wrath of Khan is getting an official prequel — in podcast form](https://www.polygon.com/23342481/star-trek-the-wrath-of-khan-podcast-prequel)
+ - [Billy Mitchell Says His Doctor Won&#39;t See Him Because Of Donkey Kong Cheating Allegations](https://kotaku.com/billy-mitchell-donkey-kong-cheating-doctor-twin-1849511774)
+ - [Evil Wesley Crusher is coming to the Star Trek MMO](https://www.polygon.com/23342629/star-trek-online-mirror-universe-wesley-crusher-terran-emperor)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
