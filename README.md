@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra debuts as a giant &amp; rugged titanium model](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-debuts-as-a-giant-rugged-titanium-model?utm_medium=rss)
- - [Microsoft starts testing new Xbox Home UI that will arrive in 2023](https://www.theverge.com/2022/9/8/23328667/microsoft-xbox-home-user-interface-update-changes-dashboard-2023)
- - [Apple Watch Ultra is compatible with 45mm bands](https://appleinsider.com/articles/22/09/07/apple-watch-ultra-is-compatible-with-45mm-bands?utm_medium=rss)<!-- TECH:END -->
+ - [New accessibility and sharing features are coming to Android devices](https://www.theverge.com/2022/9/8/23342451/android-new-accessibility-sharing-features-tablets-emoji)
+ - [1,000 photos with Hasselblad’s new 100-megapixel camera](https://www.theverge.com/23341617/hasselblad-x2s-100c-medium-format-mirrorless-camera-review-test-specs-features-price)
+ - [YouTube launches an ad-free video player for education](https://www.theverge.com/2022/9/8/23341123/youtube-learning-educational-video-ad-free-courses-quizzes)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
