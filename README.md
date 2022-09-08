@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Newly formed natural spring](http://9gag.com/gag/a4op46w)
+ - 💣 [The outtakes of NASA astronauts trying to walk on the moon](http://9gag.com/gag/aWGB0P4)
  - ⏩ [God bless him](http://9gag.com/gag/aPg6vzw)
  - 👉 [She&#39;d be a perfect Bean](http://9gag.com/gag/avQ20wE)<!-- MEMES:END -->
 
