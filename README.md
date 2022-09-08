@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This Clever Anti-Censorship Tool Lets Russians Read Blocked News](https://www.wired.com/story/russia-internet-censorship-samizdat-online/)
- - [How Does a Variant-Specific Covid Booster Work?](https://www.wired.com/story/how-does-a-variant-specific-covid-booster-work/)
- - [Apple might have fixed the notch by putting it on an island](https://www.theverge.com/23341555/apple-iphone-14-pro-max-notch-dynamic-island-fix)<!-- TECH:END -->
+ - [Rurbanization: Why It’s Time to Make Cities More Rural](https://www.wired.com/story/why-its-time-to-make-cities-more-rural/)
+ - [How to Hide the News Widgets in Windows 10 and 11](https://www.wired.com/story/how-to-hide-news-widget-windows-10-11/)
+ - [Welcome to Apple’s Dynamic Island](https://www.wired.com/story/gadget-lab-podcast-565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
