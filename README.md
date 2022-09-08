@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tens of thousands of viewers are watching a fake Apple crypto scam on YouTube right now](https://www.theverge.com/2022/9/7/23342120/apple-fake-youtube-live-stream-crypto-scam)
- - [Former Disney CEO Bob Iger says the company found that &quot;a substantial portion&quot; of Twitter&#39;s users were &quot;not real&quot;, when Disney considered buying Twitter in 2016 &lpar;Peter Kafka/Vox&rpar;](http://www.techmeme.com/220907/p51#a220907p51)
- - [Tim Cook, Jony Ive, and Laurene Powell Jobs, live at Code](https://www.theverge.com/apple/2022/9/7/23342078/tim-cook-jony-ive-laurene-powell-jobs-on-steve-jobs-at-code-liveblog)<!-- TECH:END -->
+ - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
+ - [Steve Jobs’ friends and family just launched an archive to celebrate his life](https://www.theverge.com/2022/9/7/23342222/steve-jobs-archive-website-launch)
+ - [Apple&#39;s iPhone 14 Lineup Has a Notable Improvement: Longer Battery Life     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-lineup-has-a-notable-improvement-longer-battery-life/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
