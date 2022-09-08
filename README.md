@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prices slashed: save up to $500 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
- - [Laurene Powell Jobs, Jony Ive, and Tim Cook team up to launch the Steve Jobs Archive, which features emails, videos, and historical materials related to Jobs &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220908/p5#a220908p5)
- - [Berlin-based Latana, which offers brand tracking and consumer insights tools, raised a &amp;euro;36M Series B led by Oxx, with participation from Balderton and Kreos &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220908/p4#a220908p4)<!-- TECH:END -->
+ - [Compared: Apple Watch Ultra vs. Apple Watch Series 8 &amp; Series 7](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-ultra-vs-apple-watch-series-8-series-7?utm_medium=rss)
+ - [Apple Watch Series 8 debuts with new sensors &amp; focus on health](https://appleinsider.com/articles/22/09/07/apple-watch-series-8-debuts-with-new-sensors-focus-on-health?utm_medium=rss)
+ - [After India&#39;s TikTok ban, Meta and Google are battling for the lead in the country&#39;s short-video app economy that could generate up to $19B in sales by 2030 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220908/p6#a220908p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
