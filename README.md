@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So you&#39;re telling me there&#39;s a chance....YEAHHHHH](http://9gag.com/gag/az27VnK)
- - ⏩ [Scool](http://9gag.com/gag/aXnZ9wP)
- - 👉 [Apple when no one asks questions about USB-C](http://9gag.com/gag/awZN7n8)<!-- MEMES:END -->
+ - 💣 [Going back to work](http://9gag.com/gag/aDYRmBB)
+ - ⏩ [Apple&#39;s printer is running out of cyan](http://9gag.com/gag/aqe42YQ)
+ - 👉 [The upmost disrespect](http://9gag.com/gag/a1PpMnG)<!-- MEMES:END -->
 
 ---
 
