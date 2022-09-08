@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A Plague Tale: Requiem ups the stakes of its indie darling predecessor](https://www.polygon.com/23341545/plague-tale-reqiuem-platforms-release-date-ps5-xbox-one-series-x-pc-switch)
  - [Today&#39;s Wordle 446 answer and hint: Thursday, September 8](https://www.pcgamer.com/todays-wordle-446-answer-hint)
- - [Nvidia tweets &#39;ProjectBeyond&#39; and it&#39;s surely a teaser for the RTX 40 series](https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series)
- - [Awesome Games Done Quick Abandons Live Event Because Florida Is &#39;Not A Safe Place For Our Community&#39;](https://kotaku.com/agdq-games-done-quick-florida-covid-lgbtq-law-desantis-1849509866)<!-- GAME:END -->
+ - [Nvidia tweets &#39;ProjectBeyond&#39; and it&#39;s surely a teaser for the RTX 40 series](https://www.pcgamer.com/nvidia-tweets-projectbeyond-and-its-surely-a-teaser-for-the-rtx-40-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
