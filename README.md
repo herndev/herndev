@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man Eater](http://9gag.com/gag/agor0j1)
- - ⏩ [Just the GOATs chilling together](http://9gag.com/gag/aRE6gRA)
- - 👉 [The outtakes of NASA astronauts trying to walk on the moon](http://9gag.com/gag/aWGB0P4)<!-- MEMES:END -->
+ - 💣 [Come back](http://9gag.com/gag/aYVjWmq)
+ - ⏩ [I am this old](http://9gag.com/gag/aBd9QqZ)
+ - 👉 [New UK health minister](http://9gag.com/gag/ay2E5mM)<!-- MEMES:END -->
 
 ---
 
