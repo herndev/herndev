@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come back](http://9gag.com/gag/aYVjWmq)
- - ⏩ [I am this old](http://9gag.com/gag/aBd9QqZ)
- - 👉 [New UK health minister](http://9gag.com/gag/ay2E5mM)<!-- MEMES:END -->
+ - 💣 [I am this old](http://9gag.com/gag/aBd9QqZ)
+ - ⏩ [New UK health minister](http://9gag.com/gag/ay2E5mM)
+ - 👉 [Bugs found inside ketchup dispenser at McDonald&#39;s, Cheltenham - UK](http://9gag.com/gag/a3ZvYyQ)<!-- MEMES:END -->
 
 ---
 
