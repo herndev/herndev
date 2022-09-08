@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Paper Mario-inspired indie looks like a GBA classic time forgot](https://www.pcgamer.com/this-paper-mario-inspired-indie-looks-like-a-gba-classic-time-forgot)
- - [Congratulations to Monty Python fans, there is finally an RPG for you](https://www.polygon.com/gaming/23343373/monty-python-holy-grail-rpg)
- - [Overwatch 2 new hero cinematic leaks: Meet Kiriko](https://www.pcgamer.com/overwatch-2-new-hero-cinematic-leaks-meet-kiriko)<!-- GAME:END -->
+ - [Best curved monitors for gaming](https://www.pcgamer.com/best-curved-monitors-for-gaming)
+ - [Best 4K gaming monitors in 2022](https://www.pcgamer.com/best-4k-monitors-for-gaming)
+ - [The best HDMI cable for PC gaming](https://www.pcgamer.com/the-best-hdmi-for-gaming-on-pc-in-2019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
