@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Bluetooth and how does it work?](https://www.androidauthority.com/what-is-bluetooth-and-how-does-it-work-3204579/)
- - [CommerceHub, which connects retailers and brands with suppliers, agrees to acquire and take private e-commerce software provider ChannelAdvisor in a ~$660M deal &lpar;Colin Kellaher/MarketWatch&rpar;](http://www.techmeme.com/220908/p1#a220908p1)
- - [Tim Cook says ‘buy your mom an iPhone’ when asked about RCS support in iMessage](https://www.androidauthority.com/tim-cook-rcs-iphone-3206620/)<!-- TECH:END -->
+ - [Prices slashed: save up to $500 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
+ - [Laurene Powell Jobs, Jony Ive, and Tim Cook team up to launch the Steve Jobs Archive, which features emails, videos, and historical materials related to Jobs &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220908/p5#a220908p5)
+ - [Berlin-based Latana, which offers brand tracking and consumer insights tools, raised a &amp;euro;36M Series B led by Oxx, with participation from Balderton and Kreos &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220908/p4#a220908p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
