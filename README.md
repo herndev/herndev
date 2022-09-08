@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Sound recommended](http://9gag.com/gag/aA0B13Z)
- - ⏩ [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)
+ - ⏩ [A good samaritan](http://9gag.com/gag/aDYRonN)
  - 👉 [Scool](http://9gag.com/gag/aXnZ9wP)<!-- MEMES:END -->
 
 ---
