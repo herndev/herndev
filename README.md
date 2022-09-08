@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New accessibility and sharing features are coming to Android devices](https://www.theverge.com/2022/9/8/23342451/android-new-accessibility-sharing-features-tablets-emoji)
- - [1,000 photos with Hasselblad’s new 100-megapixel camera](https://www.theverge.com/23341617/hasselblad-x2s-100c-medium-format-mirrorless-camera-review-test-specs-features-price)
- - [YouTube launches an ad-free video player for education](https://www.theverge.com/2022/9/8/23341123/youtube-learning-educational-video-ad-free-courses-quizzes)<!-- TECH:END -->
+ - [Amazon, Nike, Best Buy, Twitch, and other big brands removed the ability to sign in with Facebook in recent years, some executives say due to privacy concerns &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220908/p36#a220908p36)
+ - [Some Withings products are about to get more expensive](https://www.theverge.com/2022/9/8/23342804/withings-price-increase-expensive-health-smart-scales-watch)
+ - [Asus’ ROG 6 Android gaming phones are available for preorder in North America](https://www.theverge.com/2022/9/8/23342614/asus-rog-6-gaming-phone-preorder-north-america)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
