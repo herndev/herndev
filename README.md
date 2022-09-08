@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A fine quote](http://9gag.com/gag/aA0BpNZ)
- - ⏩ [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
- - 👉 [What&#39;s going on here?](http://9gag.com/gag/awZNxKB)<!-- MEMES:END -->
+ - 💣 [The difference between theory and practice](http://9gag.com/gag/aDYRomZ)
+ - ⏩ [1/1](http://9gag.com/gag/aVbjX7v)
+ - 👉 [Welcome to the shithole my fellas. It&#39;s almost 6 months of salary.](http://9gag.com/gag/aZDqNQX)<!-- MEMES:END -->
 
 ---
 
