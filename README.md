@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple did raise prices with the iPhone 14 and Watch Series 8 — just not in the US or China](https://www.theverge.com/2022/9/8/23343550/apple-iphone-14-watch-8-price-increase-uk-eu-japan-china)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [The White House unveils its principles to enhance tech platform accountability and competition, including Section 230 reforms and robust data protections &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/220908/p47#a220908p47)<!-- TECH:END -->
+ - [WaterField Designs debuts two new holster cases for iPhone 14](https://appleinsider.com/articles/22/09/09/waterfield-designs-debuts-two-new-holster-cases-for-iphone-14?utm_medium=rss)
+ - [Apple Watch Ultra repairs could be ultra-expensive](https://www.theverge.com/2022/9/8/23343752/apple-watch-ultra-repair-price-battery-replacement)
+ - [New Black Adam trailer hints he could end up as a hero after all](https://www.theverge.com/2022/9/8/23343755/black-adam-new-trailer-dwayne-johnson-hero)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
