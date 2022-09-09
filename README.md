@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Citing national security risks, GOP lawmakers warn Apple against procuring memory chips for iPhones from China&#39;s YMTC; Apple says it&#39;s evaluating usage in China &lpar;Financial Times&rpar;](http://www.techmeme.com/220909/p4#a220909p4)
- - [The US DOJ says Google spends &quot;enormous numbers&quot; to be the default search engine on browsers and phones, in the first substantive hearing in its antitrust case &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220909/p3#a220909p3)
- - [Pixel Tablet with charging dock appears in latest Android 13 beta](https://www.androidauthority.com/google-pixel-tablet-charging-dock-3207048/)<!-- TECH:END -->
+ - [Netflix: The Anime Shows You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-anime-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)
+ - [Prime Video: The Best Fantasy Movies You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-fantasy-movies-you-need-to-watch/#ftag=CAD590a51e)
+ - [Not happy with your network’s call quality? This new Android feature might help](https://www.androidauthority.com/clear-calling-android-feature-3207060/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
