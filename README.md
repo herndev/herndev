@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eighties MF !](http://9gag.com/gag/aoKm5G2)
- - ⏩ [Rare Pepe](http://9gag.com/gag/az271vN)
- - 👉 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)<!-- MEMES:END -->
+ - 💣 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
+ - ⏩ [Romania](http://9gag.com/gag/aDYRgAw)
+ - 👉 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)<!-- MEMES:END -->
 
 ---
 
