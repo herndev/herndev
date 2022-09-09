@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Always loved the queen reacting to cows as everyone should react to cows.](http://9gag.com/gag/a04vNrn)
- - ⏩ [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
- - 👉 [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)<!-- MEMES:END -->
+ - 💣 [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)
+ - ⏩ [Only on Africa](http://9gag.com/gag/a1PpR92)
+ - 👉 [Can you see this?](http://9gag.com/gag/avQ2z0X)<!-- MEMES:END -->
 
 ---
 
