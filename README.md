@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Vergecast: iPhone 14 event and our first impressions](https://www.theverge.com/2022/9/9/23344587/apple-iphone-14-pro-event-podcast-roundtable-vergecast)
- - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)
- - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)<!-- TECH:END -->
+ - [iCloud Shared Photo Library won’t launch with iOS 16](https://www.theverge.com/2022/9/9/23345000/icloud-shared-photo-library-delayed-ios-16)
+ - [Google introduces 24 hour review delay for the Google Play Store](https://www.androidauthority.com/google-play-store-review-delay-3207351/)
+ - [The biggest announcements and trailers from Disney and Marvel’s games showcase](https://www.theverge.com/2022/9/9/23345058/disney-marvel-games-showcase-d23-captain-america-tron-black-panther)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
