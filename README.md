@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Komodo 3000](http://9gag.com/gag/aBd9gnQ)
- - ⏩ [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
- - 👉 [No one lost a kneecap today.](http://9gag.com/gag/aqe4gOY)<!-- MEMES:END -->
+ - 💣 [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
+ - ⏩ [Can you see this?](http://9gag.com/gag/avQ2z0X)
+ - 👉 [Rare Pepe](http://9gag.com/gag/az271vN)<!-- MEMES:END -->
 
 ---
 
