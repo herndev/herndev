@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
+ - 💣 [I&#39;ve never seen more frustrated croc before](http://9gag.com/gag/a8qdEBV)
  - ⏩ [Sieg](http://9gag.com/gag/az27e9m)
- - 👉 [I&#39;ve never seen more frustrated croc before](http://9gag.com/gag/a8qdEBV)<!-- MEMES:END -->
+ - 👉 [What u think?](http://9gag.com/gag/ap9KGW8)<!-- MEMES:END -->
 
 ---
 
