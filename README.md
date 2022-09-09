@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [2022 Emmys: How to Watch or Stream, Start Time, Host and All the Nominees     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-how-to-watch-or-stream-start-time-host-and-all-the-nominees/#ftag=CAD590a51e)
  - [TigerEye, a sales tech company in stealth founded by Tracy Young who previously founded PlanGrid, raised a $30M Series A led by Initialized Capital and Next47 &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/220909/p1#a220909p1)
- - [Intel reveals specifications for its Arc desktop GPUs for demanding, budget, and casual gamers; top of the line GPU will have 32 Xe cores and 16GB of GDDR6 RAM &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220908/p49#a220908p49)
- - [CM Punk&#39;s AEW Championship Vacated After Backstage Fight     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-aew-championship-vacated-after-backstage-fight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel reveals specifications for its Arc desktop GPUs for demanding, budget, and casual gamers; top of the line GPU will have 32 Xe cores and 16GB of GDDR6 RAM &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220908/p49#a220908p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
