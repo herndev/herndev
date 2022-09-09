@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 years after release, massive mod Morrowind Rebirth hits 6.0](https://www.pcgamer.com/11-years-after-release-massive-mod-morrowind-rebirth-hits-60)
- - [Intel and Broadcom demonstrate next generation Wi-Fi 7 products](https://www.pcgamer.com/intel-and-broadcom-demonstrate-next-generation-wi-fi-7-products)
- - [Splatoon 3 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23342901/splatoon-3-beginners-guide-tips-tricks-ink-weapons-daily-reset)<!-- GAME:END -->
+ - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)
+ - [The Rings of Power’s latest mystery is a master of orcs](https://www.polygon.com/23343338/rings-of-power-who-is-adar-in-lord-rings-tolkien)
+ - [11 years after release, massive mod Morrowind Rebirth hits 6.0](https://www.pcgamer.com/11-years-after-release-massive-mod-morrowind-rebirth-hits-60)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
