@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lego Star Wars: The Skywalker Saga is getting another 30 characters](https://www.polygon.com/23345106/lego-star-wars-skywalker-saga-new-characters-dlc-galactic-edition)
- - [Disney Dreamlight Valley Is Expanding Fast, Toy Story Hits Soon](https://kotaku.com/disney-dreamlight-valley-d23-toy-story-update-stardew-1849518664)
- - [Let Us Notis That Ari Is Leaving](https://kotaku.com/kotaku-halo-infinite-puns-ari-notis-turncoat-1849517075)<!-- GAME:END -->
+ - [Minecraft Live Broadcast on October 15](https://news.xbox.com/en-us/2022/09/09/minecraft-live-broadcast-on-october-15/)
+ - [Lowkey, This Nintendo Switch Mickey Mouse Game Was The Coolest Thing At Disney’s Showcase](https://kotaku.com/disney-marvel-d23-illusion-island-mickey-switch-cartoon-1849519731)
+ - [Meta axes internal team responsible for asking &#39;are we the baddies?&#39;](https://www.pcgamer.com/meta-axes-internal-team-responsible-for-asking-are-we-the-baddies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
