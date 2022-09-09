@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;ll not forget u friend](http://9gag.com/gag/a4opR4A)
- - ⏩ [Tire duelers, masters of combat](http://9gag.com/gag/axoEzVW)
- - 👉 [Savage!](http://9gag.com/gag/a7qv3mL)<!-- MEMES:END -->
+ - 💣 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
+ - ⏩ [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
+ - 👉 [Romania](http://9gag.com/gag/aDYRgAw)<!-- MEMES:END -->
 
 ---
 
