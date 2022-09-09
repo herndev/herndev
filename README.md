@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege: Operation Brutal Swarm Brings a New Operator with Robot Bees](https://news.xbox.com/en-us/2022/09/09/rainbow-six-siege-operation-brutal-swarm/)
- - [The first cards for Lorcana, Disney’s answer to Magic: The Gathering, are spectacular](https://www.polygon.com/23342656/mtg-lorcana-disney-tcg-ccg-first-cards-mickey-stitch-elsa-robinhood-maleficent)
- - [The must-read comics of the rest of 2022](https://www.polygon.com/2022/9/9/23341203/new-comics-2022-fall-preview)<!-- GAME:END -->
+ - [Madden NFL 23 Free Play Weekend](https://news.xbox.com/en-us/2022/09/09/madden-nfl-23-free-play-weekend/)
+ - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/09/this-week-on-xbox-new-games-upcoming-releases-and-updates-3/)
+ - [The Thomas Kinkade X-Men painting is bizarre](https://www.polygon.com/23344846/thomas-kinkade-painting-x-men-baseball-mutant-ball)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
