@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bill Hader impersonating Arnold Schwarzenegger](http://9gag.com/gag/agor5vv)
- - ⏩ [He was already out on bail](http://9gag.com/gag/aXnZYx2)
- - 👉 [It\u2019s always good to help others](http://9gag.com/gag/arm1Gzd)<!-- MEMES:END -->
+ - 💣 [The Komodo 3000](http://9gag.com/gag/aBd9gnQ)
+ - ⏩ [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
+ - 👉 [No one lost a kneecap today.](http://9gag.com/gag/aqe4gOY)<!-- MEMES:END -->
 
 ---
 
