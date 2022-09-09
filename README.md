@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God of War Ragnarök Family Portrait Series featuring guest artists announced](https://blog.playstation.com/2022/09/09/god-of-war-ragnarok-family-portrait-series-featuring-guest-artists-announced/)
- - [The Rings of Power’s ‘Adar’ gets closer to the ideal Lord of the Rings show](https://www.polygon.com/23343049/lord-rings-power-episode-3-review)
- - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)<!-- GAME:END -->
+ - [Store Says Man Stole Pokémon Cards, Then Tried To Sell Them Back](https://kotaku.com/pokemon-tcg-magic-the-gathering-cards-thief-stolen-1849516418)
+ - [Barbarian’s layered secrets make it horror-movie catnip](https://www.polygon.com/reviews/23342834/barbarian-review-horror-twists)
+ - [Next Week on Xbox: New Games for September 12 to 16](https://news.xbox.com/en-us/2022/09/09/next-week-on-xbox-new-games-for-september-12-to-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
