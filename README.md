@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23342901/splatoon-3-beginners-guide-tips-tricks-ink-weapons-daily-reset)
- - [Tinykin review](https://www.pcgamer.com/tinykin-review)
- - [Railbound Is A Beautiful Puzzle Game About Dogs And Trains](https://kotaku.com/railbound-pc-mac-ios-impressions-dog-train-puzzle-1849515242)<!-- GAME:END -->
+ - [11 years after release, massive mod Morrowind Rebirth hits 6.0](https://www.pcgamer.com/11-years-after-release-massive-mod-morrowind-rebirth-hits-60)
+ - [Intel and Broadcom demonstrate next generation Wi-Fi 7 products](https://www.pcgamer.com/intel-and-broadcom-demonstrate-next-generation-wi-fi-7-products)
+ - [Splatoon 3 beginner’s guide, tips, and tricks](https://www.polygon.com/guides/23342901/splatoon-3-beginners-guide-tips-tricks-ink-weapons-daily-reset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
