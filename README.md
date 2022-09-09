@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This remains an all-time story about the queen](http://9gag.com/gag/a9qjAeW)
- - ⏩ [They are together again](http://9gag.com/gag/aNwmd7r)
- - 👉 [God save the king](http://9gag.com/gag/a8qdyGQ)<!-- MEMES:END -->
+ - 💣 [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
+ - ⏩ [God save the king](http://9gag.com/gag/a8qdyGQ)
+ - 👉 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
 
 ---
 
