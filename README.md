@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Used car marketplace Cazoo plans to wind down European operations and focus on the UK, cutting 750 jobs; Cazoo expects the move to save &amp;pound;100M by the end of 2023 &lpar;Financial Times&rpar;](http://www.techmeme.com/220909/p2#a220909p2)
- - [Camera details for a second Pixel foldable may have leaked](https://www.androidauthority.com/google-pixel-foldable-felix-cameras-3207045/)
- - [Motorola brings its 200MP camera flagship to global markets](https://www.androidauthority.com/motorola-edge-30-ultra-specs-price-features-availability-3207043/)<!-- TECH:END -->
+ - [Citing national security risks, GOP lawmakers warn Apple against procuring memory chips for iPhones from China&#39;s YMTC; Apple says it&#39;s evaluating usage in China &lpar;Financial Times&rpar;](http://www.techmeme.com/220909/p4#a220909p4)
+ - [The US DOJ says Google spends &quot;enormous numbers&quot; to be the default search engine on browsers and phones, in the first substantive hearing in its antitrust case &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220909/p3#a220909p3)
+ - [Pixel Tablet with charging dock appears in latest Android 13 beta](https://www.androidauthority.com/google-pixel-tablet-charging-dock-3207048/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
