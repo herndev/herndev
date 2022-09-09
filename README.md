@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God save the king](http://9gag.com/gag/a8qdyGQ)
- - ⏩ [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
- - 👉 [`My whole life whether it be long or short shall be devoted to your service` - Elizabeth Alexandra Mary &lpar;1926 - 2022&rpar;](http://9gag.com/gag/aEqdRWe)<!-- MEMES:END -->
+ - 💣 [They are together again](http://9gag.com/gag/aNwmd7r)
+ - ⏩ [Queen is Pepsi, long lived the queen](http://9gag.com/gag/aBd98Vz)
+ - 👉 [Tire duelers, masters of combat](http://9gag.com/gag/axoEzVW)<!-- MEMES:END -->
 
 ---
 
