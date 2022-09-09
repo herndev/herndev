@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out Interview with the Vampire’s newest trailer](https://www.theverge.com/2022/9/9/23344749/interview-with-the-vampire-trailer-anne-rice)
- - [You can still get a PlayStation 5 bundle from Sony and Walmart without standing in line](https://www.theverge.com/2022/9/8/23320934/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)
- - [Google’s HD Chromecast will probably look a lot like the 4K one](https://www.theverge.com/2022/9/9/23344611/google-chromecast-1080p-design-leak)<!-- TECH:END -->
+ - [Alphabet&#39;s Verily raised $1B led by Alphabet; founder and CEO Andy Conrad will become executive chairman and President Stephen Gillett will become CEO &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/220909/p17#a220909p17)
+ - [President Joe Biden speaks after groundbreaking for Intel’s $20 billion semiconductor plant](https://www.theverge.com/2022/9/9/23344834/semiconductor-joe-biden-ohio-intel-gelsinger-chips-science-subsidies)
+ - [UK-based Gravitee.io, a popular open-source API management service, has raised $30M led by Riverside Acceleration, bringing its total funding to $41M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220909/p16#a220909p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
