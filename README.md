@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They are together again](http://9gag.com/gag/aNwmd7r)
- - ⏩ [Queen is Pepsi, long lived the queen](http://9gag.com/gag/aBd98Vz)
- - 👉 [Tire duelers, masters of combat](http://9gag.com/gag/axoEzVW)<!-- MEMES:END -->
+ - 💣 [Queen Elizabeth II giggling as she walks past her husband Prince Philip in his full uniform.](http://9gag.com/gag/a3ZvK6N)
+ - ⏩ [Driving through the night in France](http://9gag.com/gag/aeQKrW5)
+ - 👉 [It\u2019s always good to help others](http://9gag.com/gag/arm1Gzd)<!-- MEMES:END -->
 
 ---
 
