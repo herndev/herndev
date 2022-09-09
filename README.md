@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)
- - [The Black Adam trailer reveals an actual villain for the antihero](https://www.polygon.com/23344160/black-adam-trailer-2-justice-society-amanda-waller-sabbac)
- - [The drumming in the Final Fantasy Pixel Remasters was done by a child genius](https://www.pcgamer.com/the-drumming-in-the-final-fantasy-pixel-remasters-was-done-by-a-child-genius)<!-- GAME:END -->
+ - [God of War Ragnarök Family Portrait Series featuring guest artists announced](https://blog.playstation.com/2022/09/09/god-of-war-ragnarok-family-portrait-series-featuring-guest-artists-announced/)
+ - [The Rings of Power’s ‘Adar’ gets closer to the ideal Lord of the Rings show](https://www.polygon.com/23343049/lord-rings-power-episode-3-review)
+ - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
