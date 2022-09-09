@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX Ventures buys 30% of Anthony Scaramucci&#39;s SkyBridge Capital for an undisclosed amount; SkyBridge will use some of the funds to buy $40M in cryptocurrencies &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220909/p8#a220909p8)
- - [Deep-Dive on Apple Watch Ultra, iPhone 14 Satellite SOS, and eSIM on the AppleInsider Podcast](https://appleinsider.com/articles/22/09/09/deep-dive-on-apple-watch-ultra-iphone-14-satellite-sos-and-esim-on-the-appleinsider-podcast?utm_medium=rss)
- - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro Max already backordered, amidst Apple Store issues](https://appleinsider.com/articles/22/09/09/iphone-14-pro-max-already-backordered-despite-apple-store-issues?utm_medium=rss)
+ - [As a runner, the Apple Watch Ultra makes no sense to me](https://www.androidauthority.com/apple-watch-ultra-running-3206420/)
+ - [Silicon Valley Is Obsessed With Its Evil Twin, TikTok](https://www.wired.com/story/plaintext-silicon-valley-evil-twin-tiktok/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
