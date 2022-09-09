@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet&#39;s Verily raised $1B led by Alphabet; founder and CEO Andy Conrad will become executive chairman and President Stephen Gillett will become CEO &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/220909/p17#a220909p17)
- - [President Joe Biden speaks after groundbreaking for Intel’s $20 billion semiconductor plant](https://www.theverge.com/2022/9/9/23344834/semiconductor-joe-biden-ohio-intel-gelsinger-chips-science-subsidies)
- - [UK-based Gravitee.io, a popular open-source API management service, has raised $30M led by Riverside Acceleration, bringing its total funding to $41M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220909/p16#a220909p16)<!-- TECH:END -->
+ - [Instagram begins testing ‘reposts’](https://www.theverge.com/2022/9/9/23344560/instagram-reposting-share-retweet-feature)
+ - [Apple’s personalized spatial audio trick is really a Sony idea](https://www.theverge.com/2022/9/9/23344694/apple-airpods-personalized-spatial-audio-sony-ear-scanning)
+ - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
