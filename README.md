@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
- - ⏩ [Can you see this?](http://9gag.com/gag/avQ2z0X)
- - 👉 [Rare Pepe](http://9gag.com/gag/az271vN)<!-- MEMES:END -->
+ - 💣 [Eighties MF !](http://9gag.com/gag/aoKm5G2)
+ - ⏩ [Rare Pepe](http://9gag.com/gag/az271vN)
+ - 👉 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)<!-- MEMES:END -->
 
 ---
 
