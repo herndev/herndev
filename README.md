@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India says its central bank will prepare a whitelist of legal loan apps and the IT ministry plans to ensure that only approved apps are hosted on app stores &lpar;TechCrunch&rpar;](http://www.techmeme.com/220909/p6#a220909p6)
- - [The Legendary Frank Drake Shaped the Search for Alien Life](https://www.wired.com/story/the-legendary-frank-drake-shaped-the-search-for-alien-life/)
- - [California’s Heat Wave Is a Big Moment for Batteries](https://www.wired.com/story/californias-heat-wave-is-a-big-moment-for-batteries/)<!-- TECH:END -->
+ - [FTX Ventures buys 30% of Anthony Scaramucci&#39;s SkyBridge Capital for an undisclosed amount; SkyBridge will use some of the funds to buy $40M in cryptocurrencies &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220909/p8#a220909p8)
+ - [Deep-Dive on Apple Watch Ultra, iPhone 14 Satellite SOS, and eSIM on the AppleInsider Podcast](https://appleinsider.com/articles/22/09/09/deep-dive-on-apple-watch-ultra-iphone-14-satellite-sos-and-esim-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
