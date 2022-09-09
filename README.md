@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iphone designer](http://9gag.com/gag/ap9KGRW)
- - ⏩ [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)
- - 👉 [Since we&#39;re all sharing, this is my fav meme of the Queen so far](http://9gag.com/gag/a2KERjw)<!-- MEMES:END -->
+ - 💣 [Always loved the queen reacting to cows as everyone should react to cows.](http://9gag.com/gag/a04vNrn)
+ - ⏩ [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)
+ - 👉 [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)<!-- MEMES:END -->
 
 ---
 
