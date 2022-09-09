@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing its tablet-friendly taskbar again in Windows 11](https://www.theverge.com/2022/9/8/23343358/microsoft-taskbar-windows-11-2-in-1-tablet)
- - [New AirPods Pro available for preorder from Amazon](https://appleinsider.com/articles/22/09/08/new-airpods-pro-available-for-preorder-from-amazon?utm_medium=rss)
- - [DocuSign reports Q2 revenue up 22% YoY to $622.2M, vs. $602.7M est., and a full-year billings forecast of $2.55B to $2.57B, vs. $2.53B est.; stock jumps 18%+ &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220908/p46#a220908p46)<!-- TECH:END -->
+ - [Apple did raise prices with the iPhone 14 and Watch Series 8 — just not in the US or China](https://www.theverge.com/2022/9/8/23343550/apple-iphone-14-watch-8-price-increase-uk-eu-japan-china)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [The White House unveils its principles to enhance tech platform accountability and competition, including Section 230 reforms and robust data protections &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/220908/p47#a220908p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
