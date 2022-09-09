@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
- - ⏩ [God save the king](http://9gag.com/gag/a8qdyGQ)
- - 👉 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
+ - 💣 [God save the king](http://9gag.com/gag/a8qdyGQ)
+ - ⏩ [Dramatic music crescendos! Hans, get the piano!](http://9gag.com/gag/aGEKjqn)
+ - 👉 [`My whole life whether it be long or short shall be devoted to your service` - Elizabeth Alexandra Mary &lpar;1926 - 2022&rpar;](http://9gag.com/gag/aEqdRWe)<!-- MEMES:END -->
 
 ---
 
