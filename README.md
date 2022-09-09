@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Shared Photo Library won’t launch with iOS 16](https://www.theverge.com/2022/9/9/23345000/icloud-shared-photo-library-delayed-ios-16)
- - [Google introduces 24 hour review delay for the Google Play Store](https://www.androidauthority.com/google-play-store-review-delay-3207351/)
- - [The biggest announcements and trailers from Disney and Marvel’s games showcase](https://www.theverge.com/2022/9/9/23345058/disney-marvel-games-showcase-d23-captain-america-tron-black-panther)<!-- TECH:END -->
+ - [Prices slashed: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
+ - [11 Great Gift Ideas for Grandparent&#39;s Day     - CNET](https://www.cnet.com/news/great-gifts-for-grandparents/#ftag=CAD590a51e)
+ - [Cloudflare Blocks Kiwi Farms After &#39;Immediate Threat to Human Life&#39;: What to Know     - CNET](https://www.cnet.com/culture/internet/cloudflare-blocks-kiwi-farms-after-immediate-threat-to-human-life-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
