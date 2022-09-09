@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to uninstall apps from a Chromebook](https://www.theverge.com/23344325/chromebook-chrome-os-android-app-uninstall-how-to)
- - [Some ex-staff say Patreon laid off its entire security team this week, raising concerns among users, but Patreon says the layoffs will not impact its security &lpar;Tonya Riley/CyberScoop&rpar;](http://www.techmeme.com/220909/p12#a220909p12)
- - [Samsung’s new Galaxy Buds 2 Pro are $50 off](https://www.theverge.com/good-deals/2022/9/9/23343420/samsung-galaxy-buds-2-pro-govee-dreamview-g1-pro-gaming-light-samsung-m8-smart-monitor-deal-sale)<!-- TECH:END -->
+ - [In an email, Indian music streaming app Gaana says it is switching to a paid subscription model, sources say after acquisition talks with Bharti Airtel failed &lpar;Reuters&rpar;](http://www.techmeme.com/220909/p14#a220909p14)
+ - [Scientists May Be a Little Too Excited About Weird Ideas](https://www.wired.com/2022/09/geeks-guide-sabine-hossenfelder/)
+ - [Compared: New Apple Watch SE vs. Apple Watch SE 2020](https://appleinsider.com/articles/22/09/09/compared-new-apple-watch-se-vs-apple-watch-se-2020?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
