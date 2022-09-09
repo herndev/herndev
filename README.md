@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Prepare to Journey to Beacon Pines Where a Single Word Can Change Everything](https://news.xbox.com/en-us/2022/09/09/prepare-to-journey-to-beacon-pines-where-a-single-word-can-change-everything/)
- - [Marvel is getting an AR game from the makers of Pokémon Go](https://www.polygon.com/23345116/marvel-world-of-heroes-ar-game-mobile-trailer-pokemon-go)
- - [Sans from Undertale won the Tumblr Sexyman poll, and I haven’t known peace since](https://www.polygon.com/23344824/reigen-arataka-toby-fox-fan-fic-undertale-sans-tumblr-sexyman)<!-- GAME:END -->
+ - [Lego Star Wars: The Skywalker Saga is getting another 30 characters](https://www.polygon.com/23345106/lego-star-wars-skywalker-saga-new-characters-dlc-galactic-edition)
+ - [Disney Dreamlight Valley Is Expanding Fast, Toy Story Hits Soon](https://kotaku.com/disney-dreamlight-valley-d23-toy-story-update-stardew-1849518664)
+ - [Let Us Notis That Ari Is Leaving](https://kotaku.com/kotaku-halo-infinite-puns-ari-notis-turncoat-1849517075)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
