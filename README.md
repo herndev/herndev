@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Intel reveals specifications for its Arc desktop GPUs for demanding, budget, and casual gamers; top of the line GPU will have 32 Xe cores and 16GB of GDDR6 RAM &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220908/p49#a220908p49)
  - [Lowest price ever: $550 off Apple&#39;s M1 Max MacBook Pro 16-inch](https://appleinsider.com/articles/22/09/09/lowest-price-ever-550-off-apples-m1-max-macbook-pro-16-inch?utm_medium=rss)
- - [Cisco Talos: the Lazarus group exploited Log4j to compromise VMware Horizon and target energy providers in the US, Canada, and Japan from February to July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220908/p48#a220908p48)
- - [&#39;Black Adam&#39; Drops New Trailer Featuring &#39;Suicide Squad&#39; Villain     - CNET](https://www.cnet.com/culture/entertainment/black-adam-drops-new-trailer-featuring-suicide-squad-villain/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cisco Talos: the Lazarus group exploited Log4j to compromise VMware Horizon and target energy providers in the US, Canada, and Japan from February to July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220908/p48#a220908p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
