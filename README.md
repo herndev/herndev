@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an email, Indian music streaming app Gaana says it is switching to a paid subscription model, sources say after acquisition talks with Bharti Airtel failed &lpar;Reuters&rpar;](http://www.techmeme.com/220909/p14#a220909p14)
- - [Scientists May Be a Little Too Excited About Weird Ideas](https://www.wired.com/2022/09/geeks-guide-sabine-hossenfelder/)
- - [Compared: New Apple Watch SE vs. Apple Watch SE 2020](https://appleinsider.com/articles/22/09/09/compared-new-apple-watch-se-vs-apple-watch-se-2020?utm_medium=rss)<!-- TECH:END -->
+ - [Roblox is ready to grow up](https://www.theverge.com/2022/9/9/23343459/roblox-age-guidelines-metaverse-ads-developer-conference-announcements)
+ - [Intel reveals the specs of its new Arc graphics cards](https://www.theverge.com/2022/9/9/23344263/intel-arc-graphics-cards-desktop-gaming-gpu-specs)
+ - [&#39;Morning Show&#39; COVID lawsuit thrown out by federal judge](https://appleinsider.com/articles/22/09/09/morning-show-covid-lawsuit-thrown-out-by-federal-judge?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
