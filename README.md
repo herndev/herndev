@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will increase feature gap iPhone 15 models, says Kuo](https://appleinsider.com/articles/22/09/09/apple-will-increase-feature-gap-iphone-15-models-says-kuo?utm_medium=rss)
- - [Streaming television is going through an existential crisis as users cancel services and creators fear having their show or movie deleted on an executive&#39;s whim &lpar;Travis M. Andrews/Washington Post&rpar;](http://www.techmeme.com/220909/p5#a220909p5)
- - [Apple&#39;s iPhone 14 Pro, Samsung Galaxy Z Fold Are Rethinking How Phones Work     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-samsung-galaxy-z-fold-are-rethinking-how-phones-work/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India says its central bank will prepare a whitelist of legal loan apps and the IT ministry plans to ensure that only approved apps are hosted on app stores &lpar;TechCrunch&rpar;](http://www.techmeme.com/220909/p6#a220909p6)
+ - [The Legendary Frank Drake Shaped the Search for Alien Life](https://www.wired.com/story/the-legendary-frank-drake-shaped-the-search-for-alien-life/)
+ - [California’s Heat Wave Is a Big Moment for Batteries](https://www.wired.com/story/californias-heat-wave-is-a-big-moment-for-batteries/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
