@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro Max already backordered, amidst Apple Store issues](https://appleinsider.com/articles/22/09/09/iphone-14-pro-max-already-backordered-despite-apple-store-issues?utm_medium=rss)
- - [As a runner, the Apple Watch Ultra makes no sense to me](https://www.androidauthority.com/apple-watch-ultra-running-3206420/)
- - [Silicon Valley Is Obsessed With Its Evil Twin, TikTok](https://www.wired.com/story/plaintext-silicon-valley-evil-twin-tiktok/)<!-- TECH:END -->
+ - [India&#39;s largest conglomerate wants a piece of iPhone assembly](https://appleinsider.com/articles/22/09/09/indias-largest-conglomerate-wants-a-piece-of-iphone-assembly?utm_medium=rss)
+ - [Preorders for iPhone 14, AirPods Pro 2 have started](https://appleinsider.com/articles/22/09/09/preorders-for-iphone-14-airpods-pro-2-have-started?utm_medium=rss)
+ - [Quentin Tarantino and Miramax settle their copyright infringement lawsuit over Pulp Fiction NFTs and say they may collaborate on more NFTs &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/220909/p10#a220909p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
