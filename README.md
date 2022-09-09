@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
- - ⏩ [Romania](http://9gag.com/gag/aDYRgAw)
- - 👉 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)<!-- MEMES:END -->
+ - 💣 [Iphone designer](http://9gag.com/gag/ap9KGRW)
+ - ⏩ [`We really wanted this show inspired by Slavic mythology to reflect the world we live in.`](http://9gag.com/gag/aeQKDPb)
+ - 👉 [Since we&#39;re all sharing, this is my fav meme of the Queen so far](http://9gag.com/gag/a2KERjw)<!-- MEMES:END -->
 
 ---
 
