@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bill Hader impersonating Arnold Schwarzenegger](http://9gag.com/gag/agor5vv)
- - ⏩ [Prince Charles tomorrow getting up to work for the 1st time at 73 years old:](http://9gag.com/gag/aWGBYzK)
- - 👉 [Savage!](http://9gag.com/gag/a7qv3mL)<!-- MEMES:END -->
+ - ⏩ [He was already out on bail](http://9gag.com/gag/aXnZYx2)
+ - 👉 [It\u2019s always good to help others](http://9gag.com/gag/arm1Gzd)<!-- MEMES:END -->
 
 ---
 
