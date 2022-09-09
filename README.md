@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The Anime Shows You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-anime-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)
- - [Prime Video: The Best Fantasy Movies You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-best-fantasy-movies-you-need-to-watch/#ftag=CAD590a51e)
- - [Not happy with your network’s call quality? This new Android feature might help](https://www.androidauthority.com/clear-calling-android-feature-3207060/)<!-- TECH:END -->
+ - [Streaming television is going through an existential crisis as users cancel services and creators fear having their show or movie deleted on an executive&#39;s whim &lpar;Travis M. Andrews/Washington Post&rpar;](http://www.techmeme.com/220909/p5#a220909p5)
+ - [Apple&#39;s iPhone 14 Pro, Samsung Galaxy Z Fold Are Rethinking How Phones Work     - CNET](https://www.cnet.com/tech/mobile/apple-iphone-14-pro-samsung-galaxy-z-fold-are-rethinking-how-phones-work/#ftag=CAD590a51e)
+ - [UFC 279 Nate Diaz vs. Khamzat Chimaev: Start Times, How to Watch and That Press Conference     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-khamzat-chimaev-start-times-how-to-watch-and-that-press-conference/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
