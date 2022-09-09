@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox is ready to grow up](https://www.theverge.com/2022/9/9/23343459/roblox-age-guidelines-metaverse-ads-developer-conference-announcements)
- - [Intel reveals the specs of its new Arc graphics cards](https://www.theverge.com/2022/9/9/23344263/intel-arc-graphics-cards-desktop-gaming-gpu-specs)
- - [&#39;Morning Show&#39; COVID lawsuit thrown out by federal judge](https://appleinsider.com/articles/22/09/09/morning-show-covid-lawsuit-thrown-out-by-federal-judge?utm_medium=rss)<!-- TECH:END -->
+ - [Check out Interview with the Vampire’s newest trailer](https://www.theverge.com/2022/9/9/23344749/interview-with-the-vampire-trailer-anne-rice)
+ - [You can still get a PlayStation 5 bundle from Sony and Walmart without standing in line](https://www.theverge.com/2022/9/8/23320934/sony-playstation-5-ps5-console-restock-public-queue-availability-inventory-check)
+ - [Google’s HD Chromecast will probably look a lot like the 4K one](https://www.theverge.com/2022/9/9/23344611/google-chromecast-1080p-design-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
