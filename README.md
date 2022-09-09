@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [Today&#39;s Wordle 447 answer and hint: Friday, September 9](https://www.pcgamer.com/todays-wordle-447-answer-hint)
- - [Why Lord of the Rings never went to Númenor before](https://www.polygon.com/23343469/lord-rings-power-numenor-explained)<!-- GAME:END -->
+ - [PlayStation Store: August 2022’s top downloads](https://blog.playstation.com/2022/09/09/playstation-store-august-2022s-top-downloads/)
+ - [The Black Adam trailer reveals an actual villain for the antihero](https://www.polygon.com/23344160/black-adam-trailer-2-justice-society-amanda-waller-sabbac)
+ - [The drumming in the Final Fantasy Pixel Remasters was done by a child genius](https://www.pcgamer.com/the-drumming-in-the-final-fantasy-pixel-remasters-was-done-by-a-child-genius)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
