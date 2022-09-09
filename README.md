@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Queen Elizabeth II giggling as she walks past her husband Prince Philip in his full uniform.](http://9gag.com/gag/a3ZvK6N)
- - ⏩ [Driving through the night in France](http://9gag.com/gag/aeQKrW5)
- - 👉 [It\u2019s always good to help others](http://9gag.com/gag/arm1Gzd)<!-- MEMES:END -->
+ - 💣 [We&#39;ll not forget u friend](http://9gag.com/gag/a4opR4A)
+ - ⏩ [Tire duelers, masters of combat](http://9gag.com/gag/axoEzVW)
+ - 👉 [Savage!](http://9gag.com/gag/a7qv3mL)<!-- MEMES:END -->
 
 ---
 
