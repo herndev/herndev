@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TigerEye, a sales tech company in stealth founded by Tracy Young who previously founded PlanGrid, raised a $30M Series A led by Initialized Capital and Next47 &lpar;Kia Kokalitcheva/Axios&rpar;](http://www.techmeme.com/220909/p1#a220909p1)
  - [Intel reveals specifications for its Arc desktop GPUs for demanding, budget, and casual gamers; top of the line GPU will have 32 Xe cores and 16GB of GDDR6 RAM &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220908/p49#a220908p49)
- - [Lowest price ever: $550 off Apple&#39;s M1 Max MacBook Pro 16-inch](https://appleinsider.com/articles/22/09/09/lowest-price-ever-550-off-apples-m1-max-macbook-pro-16-inch?utm_medium=rss)
- - [Cisco Talos: the Lazarus group exploited Log4j to compromise VMware Horizon and target energy providers in the US, Canada, and Japan from February to July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220908/p48#a220908p48)<!-- TECH:END -->
+ - [CM Punk&#39;s AEW Championship Vacated After Backstage Fight     - CNET](https://www.cnet.com/culture/entertainment/cm-punks-aew-championship-vacated-after-backstage-fight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
