@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tinker Bell Can Lift. :&rpar;](http://9gag.com/gag/a9qjRrj)
- - ⏩ [If only we could sue them for lying to us...](http://9gag.com/gag/a9qjRLZ)
- - 👉 [Romania](http://9gag.com/gag/aDYRgAw)<!-- MEMES:END -->
+ - 💣 [Bill Hader impersonating Arnold Schwarzenegger](http://9gag.com/gag/agor5vv)
+ - ⏩ [Prince Charles tomorrow getting up to work for the 1st time at 73 years old:](http://9gag.com/gag/aWGBYzK)
+ - 👉 [Savage!](http://9gag.com/gag/a7qv3mL)<!-- MEMES:END -->
 
 ---
 
