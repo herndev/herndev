@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tinykin review](https://www.pcgamer.com/tinykin-review)
  - [Railbound Is A Beautiful Puzzle Game About Dogs And Trains](https://kotaku.com/railbound-pc-mac-ios-impressions-dog-train-puzzle-1849515242)
- - [Battlefield Is Going Back To A &#39;Narrative Campaign&#39;](https://kotaku.com/battlefield-narrative-campaign-singleplayer-ea-1849515049)
- - [The first cards for Lorcana, Disney’s answer to Magic: The Gathering, are spectacular](https://www.polygon.com/23342656/mtg-lorcana-disney-tcg-ccg-first-cards-mickey-stitch-elsa-robinhood-maleficent)<!-- GAME:END -->
+ - [Battlefield Is Going Back To A &#39;Narrative Campaign&#39;](https://kotaku.com/battlefield-narrative-campaign-singleplayer-ea-1849515049)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
