@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram begins testing ‘reposts’](https://www.theverge.com/2022/9/9/23344560/instagram-reposting-share-retweet-feature)
- - [Apple’s personalized spatial audio trick is really a Sony idea](https://www.theverge.com/2022/9/9/23344694/apple-airpods-personalized-spatial-audio-sony-ear-scanning)
- - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Vergecast: iPhone 14 event and our first impressions](https://www.theverge.com/2022/9/9/23344587/apple-iphone-14-pro-event-podcast-roundtable-vergecast)
+ - [Compared: New AirPods Pro versus original AirPods Pro](https://appleinsider.com/inside/airpods-pro/vs/compared-new-airpods-pro-versus-original-airpods-pro?utm_medium=rss)
+ - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
