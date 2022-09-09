@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte M32UC](https://www.pcgamer.com/gigabyte-m32uc-gaming-monitor-review)
- - [How Will You Answer the Call? NBA 2K23 Now Available](https://news.xbox.com/en-us/2022/09/09/nba-2k23-now-available/)
- - [Destiny 2 Allied Demand: God roll and how to get](https://www.pcgamer.com/destiny-2-allied-demand-god-roll)<!-- GAME:END -->
+ - [Deep Rock Galactic Is Now Optimized for Xbox Series X|S](https://news.xbox.com/en-us/2022/09/09/deep-rock-galactic-is-now-optimized-for-xbox-series-xs/)
+ - [That Rings of Power character didn’t really die in the Lord of the Rings universe](https://www.polygon.com/23343347/lord-rings-power-elf-death-episode-3)
+ - [How to watch D23’s Marvel and Disney Games Showcase](https://www.polygon.com/23343491/marvel-disney-games-showcase-d23-black-panther-amy-hennig-iron-man-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
