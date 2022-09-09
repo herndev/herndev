@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [God save the King](http://9gag.com/gag/aZDqmA3)
  - ⏩ [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)
- - 👉 [They are together again](http://9gag.com/gag/aNwmd7r)<!-- MEMES:END -->
+ - 👉 [God save the king](http://9gag.com/gag/a8qdyGQ)<!-- MEMES:END -->
 
 ---
 
