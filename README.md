@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My favorite the Queen video](http://9gag.com/gag/adPy5xd)
- - ⏩ [RU BMP sinks after the unit expected it to float over the river.](http://9gag.com/gag/anzegXB)
- - 👉 [He must have had Balls of steel](http://9gag.com/gag/aOxo7ZR)<!-- MEMES:END -->
+ - 💣 [Sieg](http://9gag.com/gag/az27e9m)
+ - ⏩ [Brave rooster battles hawk and saves hen&#39;s life.](http://9gag.com/gag/adPy8RD)
+ - 👉 [Always loved the queen reacting to cows as everyone should react to cows.](http://9gag.com/gag/a04vNrn)<!-- MEMES:END -->
 
 ---
 
