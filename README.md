@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good luck, King Charles. RIP Queen Elizabeth II](http://9gag.com/gag/aKE4Vzb)
- - ⏩ [This remains an all-time story about the queen](http://9gag.com/gag/a9qjAeW)
+ - 💣 [This remains an all-time story about the queen](http://9gag.com/gag/a9qjAeW)
+ - ⏩ [They are together again](http://9gag.com/gag/aNwmd7r)
  - 👉 [God save the king](http://9gag.com/gag/a8qdyGQ)<!-- MEMES:END -->
 
 ---
