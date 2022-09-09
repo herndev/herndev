@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Store Says Man Stole Pokémon Cards, Then Tried To Sell Them Back](https://kotaku.com/pokemon-tcg-magic-the-gathering-cards-thief-stolen-1849516418)
- - [Barbarian’s layered secrets make it horror-movie catnip](https://www.polygon.com/reviews/23342834/barbarian-review-horror-twists)
- - [Next Week on Xbox: New Games for September 12 to 16](https://news.xbox.com/en-us/2022/09/09/next-week-on-xbox-new-games-for-september-12-to-16/)<!-- GAME:END -->
+ - [Assassin’s Creed Games Are Dirt Cheap Right Now](https://kotaku.com/assassin-s-creed-valhalla-sale-discount-remaster-japan-1849516841)
+ - [Cyberpunk 2077 now has an official modding tool](https://www.polygon.com/23344291/cyberpunk-2077-mods-modding-tool)
+ - [Elden Ring composer Tsukasa Saito on creating the game’s score and his favorite track](https://blog.playstation.com/2022/09/09/elden-ring-composer-tsukasa-saito-on-creating-the-games-score-and-his-favorite-track/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
