@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Games Are Dirt Cheap Right Now](https://kotaku.com/assassin-s-creed-valhalla-sale-discount-remaster-japan-1849516841)
- - [Cyberpunk 2077 now has an official modding tool](https://www.polygon.com/23344291/cyberpunk-2077-mods-modding-tool)
- - [Elden Ring composer Tsukasa Saito on creating the game’s score and his favorite track](https://blog.playstation.com/2022/09/09/elden-ring-composer-tsukasa-saito-on-creating-the-games-score-and-his-favorite-track/)<!-- GAME:END -->
+ - [This Splatoon 3 boss is a cruel reference to a nightmarish Super Mario Sunshine level](https://www.polygon.com/gaming/23343058/splatoon-3-boss-super-mario-sunshine-level-nintendo-easter-egg)
+ - [Share of the Week: The Last of Us Part I](https://blog.playstation.com/2022/09/09/share-of-the-week-the-last-of-us-part-i/)
+ - [Gears of War Pledges 1% of Net Revenue for Suicide Prevention](https://news.xbox.com/en-us/2022/09/09/gears-of-war-pledges-net-revenue-suicide-prevention/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
