@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WaterField Designs debuts two new holster cases for iPhone 14](https://appleinsider.com/articles/22/09/09/waterfield-designs-debuts-two-new-holster-cases-for-iphone-14?utm_medium=rss)
- - [Apple Watch Ultra repairs could be ultra-expensive](https://www.theverge.com/2022/9/8/23343752/apple-watch-ultra-repair-price-battery-replacement)
- - [New Black Adam trailer hints he could end up as a hero after all](https://www.theverge.com/2022/9/8/23343755/black-adam-new-trailer-dwayne-johnson-hero)<!-- TECH:END -->
+ - [Lowest price ever: $550 off Apple&#39;s M1 Max MacBook Pro 16-inch](https://appleinsider.com/articles/22/09/09/lowest-price-ever-550-off-apples-m1-max-macbook-pro-16-inch?utm_medium=rss)
+ - [Cisco Talos: the Lazarus group exploited Log4j to compromise VMware Horizon and target energy providers in the US, Canada, and Japan from February to July 2022 &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/220908/p48#a220908p48)
+ - [&#39;Black Adam&#39; Drops New Trailer Featuring &#39;Suicide Squad&#39; Villain     - CNET](https://www.cnet.com/culture/entertainment/black-adam-drops-new-trailer-featuring-suicide-squad-villain/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
