@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden NFL 23 Free Play Weekend](https://news.xbox.com/en-us/2022/09/09/madden-nfl-23-free-play-weekend/)
- - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/09/this-week-on-xbox-new-games-upcoming-releases-and-updates-3/)
- - [The Thomas Kinkade X-Men painting is bizarre](https://www.polygon.com/23344846/thomas-kinkade-painting-x-men-baseball-mutant-ball)<!-- GAME:END -->
+ - [Prepare to Journey to Beacon Pines Where a Single Word Can Change Everything](https://news.xbox.com/en-us/2022/09/09/prepare-to-journey-to-beacon-pines-where-a-single-word-can-change-everything/)
+ - [Marvel is getting an AR game from the makers of Pokémon Go](https://www.polygon.com/23345116/marvel-world-of-heroes-ar-game-mobile-trailer-pokemon-go)
+ - [Sans from Undertale won the Tumblr Sexyman poll, and I haven’t known peace since](https://www.polygon.com/23344824/reigen-arataka-toby-fox-fan-fic-undertale-sans-tumblr-sexyman)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
