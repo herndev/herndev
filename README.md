@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Splatoon 3 boss is a cruel reference to a nightmarish Super Mario Sunshine level](https://www.polygon.com/gaming/23343058/splatoon-3-boss-super-mario-sunshine-level-nintendo-easter-egg)
- - [Share of the Week: The Last of Us Part I](https://blog.playstation.com/2022/09/09/share-of-the-week-the-last-of-us-part-i/)
- - [Gears of War Pledges 1% of Net Revenue for Suicide Prevention](https://news.xbox.com/en-us/2022/09/09/gears-of-war-pledges-net-revenue-suicide-prevention/)<!-- GAME:END -->
+ - [Gigabyte M32UC](https://www.pcgamer.com/gigabyte-m32uc-gaming-monitor-review)
+ - [How Will You Answer the Call? NBA 2K23 Now Available](https://news.xbox.com/en-us/2022/09/09/nba-2k23-now-available/)
+ - [Destiny 2 Allied Demand: God roll and how to get](https://www.pcgamer.com/destiny-2-allied-demand-god-roll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
