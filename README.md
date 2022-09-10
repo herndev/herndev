@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts](http://9gag.com/gag/ajVQ1Vx)
- - ⏩ [Sheesh](http://9gag.com/gag/a5Xpw9r)
- - 👉 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)<!-- MEMES:END -->
+ - 💣 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
+ - ⏩ [Losing Shoes](http://9gag.com/gag/aEqdAVp)
+ - 👉 [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)<!-- MEMES:END -->
 
 ---
 
