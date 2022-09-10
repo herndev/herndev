@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Pinduoduo&#39;s net income has more than tripled in Q2 2022 and its shares have soared 43% over the past month, as it emerges as a big winner amid China&#39;s lockdowns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/220910/p4#a220910p4)
  - [Meta unveils Pseudonymized Facebook Identifiers, which combine timestamps and Facebook Identifiers, to deter unauthorized data scraping &lpar;Matthew S. Burriesci/Meta&rpar;](http://www.techmeme.com/220910/p3#a220910p3)
- - [Best Outdoor Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector-for-2022/#ftag=CAD590a51e)
- - [CEO Dave Baszucki says Roblox sees 2M+ daily active users in Russia, while competitors like EA, Nintendo, and Ubisoft have slowed or ceased sales in the country &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220910/p2#a220910p2)<!-- TECH:END -->
+ - [Best Outdoor Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
