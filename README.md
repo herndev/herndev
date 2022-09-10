@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Converting an abandoned chapel](http://9gag.com/gag/aKE4Ex6)
- - ⏩ [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
- - 👉 [Minnesota Vikings Gjallarhorn](http://9gag.com/gag/a8qd1Y6)<!-- MEMES:END -->
+ - ⏩ [The house would be very clean I swear](http://9gag.com/gag/awZNZ2Q)
+ - 👉 [Let the shit posting begin](http://9gag.com/gag/aA0BGG9)<!-- MEMES:END -->
 
 ---
 
