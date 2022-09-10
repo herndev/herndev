@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tents used by Bedouin in the Sahara](http://9gag.com/gag/ap9KRQB)
- - ⏩ [A cat named `Pusur` decided to follow a group of hikers all the way up a VERY steep 1700m mountain and made them carry him back down.](http://9gag.com/gag/aNwmwQ4)
+ - 💣 [Fun fact: he also played Morla in The Neverending Story](http://9gag.com/gag/anze7dq)
+ - ⏩ [Tents used by Bedouin in the Sahara](http://9gag.com/gag/ap9KRQB)
  - 👉 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)<!-- MEMES:END -->
 
 ---
