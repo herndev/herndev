@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Hocus Pocus 2&#39; Latest Trailer Hits D23     - CNET](https://www.cnet.com/culture/entertainment/hocus-pocus-2-latest-trailer-hits-d23/#ftag=CAD590a51e)
- - [Twitter Reportedly Agreed to Pay $7 Million to Whistleblower in Settlement     - CNET](https://www.cnet.com/news/social-media/twitter-reportedly-agreed-to-pay-7-million-to-whistleblower-in-settlement/#ftag=CAD590a51e)
- - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Times, How to Watch, Weigh-In Chaos     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-times-how-to-watch-weigh-in-chaos/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Pixar Announces &#39;Inside Out 2&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/pixar-announces-inside-out-2-at-d23/#ftag=CAD590a51e)
+ - [Disney&#39;s Live-Action &#39;The Little Mermaid&#39; Teaser Trailer Drops at D23     - CNET](https://www.cnet.com/culture/entertainment/disneys-live-action-the-little-mermaid-teaser-trailer-drops-at-d23/#ftag=CAD590a51e)
+ - [Disney Unveils &#39;Mufasa: The Lion King&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/disney-unveils-mufasa-the-lion-king-at-d23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
