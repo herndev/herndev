@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Meta unveils Pseudonymized Facebook Identifiers, which combine timestamps and Facebook Identifiers, to deter unauthorized data scraping &lpar;Matthew S. Burriesci/Meta&rpar;](http://www.techmeme.com/220910/p3#a220910p3)
- - [CEO Dave Baszucki says Roblox sees 2M+ daily active users in Russia, while competitors like EA, Nintendo, and Ubisoft have slowed or ceased sales in the country &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220910/p2#a220910p2)
- - [In a letter to Twitter, Musk&#39;s legal team cited Twitter&#39;s ~$7M settlement with Peiter Zatko as a violation of the merger agreement and a reason to end the deal &lpar;The Verge&rpar;](http://www.techmeme.com/220910/p1#a220910p1)<!-- TECH:END -->
+ - [Best Outdoor Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector-for-2022/#ftag=CAD590a51e)
+ - [CEO Dave Baszucki says Roblox sees 2M+ daily active users in Russia, while competitors like EA, Nintendo, and Ubisoft have slowed or ceased sales in the country &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220910/p2#a220910p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
