@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [First trailer for Star Wars’ anthology Tales of the Jedi centers on Ahsoka and more prequel faves](https://www.polygon.com/star-wars/23346030/tales-jedi-trailer-star-wars-release-date)
- - [Lucasfilm’s revival of Willow looks fun as hell](https://www.polygon.com/23345999/willow-disney-plus-trailer-release-date-cast-d23-expo)
- - [Meme legend still sticking Paddington into other movies and TV shows](https://www.polygon.com/23311556/paddington-photoshop-into-movies-tv-meme)<!-- GAME:END -->
+ - [Marvel’s Secret Invasion trailer brings a war to Earth that only Samuel L. Jackson can stop](https://www.polygon.com/23341283/secret-invasion-trailer-marvel-disney-plus)
+ - [Marvel’s Halloween special for Disney Plus brings werewolves to the MCU](https://www.polygon.com/23220537/marvel-halloween-special-disney-plus-werewolf-by-night-d23)
+ - [All the Star Wars trailers and news out of this year’s D23](https://www.polygon.com/star-wars/23346003/star-wars-trailers-news-announcements-d23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
