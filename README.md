@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s latest iPad Mini is $100 off right now at Amazon and Best Buy](https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale)
- - [Google Pixel foldable and a ‘Pro’ tablet hinted at in Android 13 code](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)
- - [The best iPhone 14 series alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-14-alternatives-3206124/)<!-- TECH:END -->
+ - [Here’s how the new AirPods Pro compare to the rest of the AirPods lineup](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)
+ - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
+ - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
