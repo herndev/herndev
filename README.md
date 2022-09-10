@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Division Heartland ramps up in 2022 with closed alpha tests](https://www.polygon.com/23346149/the-division-heartland-test-registration-closed-alpha-sign-up)
- - [Ubisoft Forward: Skull and Bones Previews Ship Customization and Smuggling Networks](https://news.xbox.com/en-us/2022/09/10/skull-and-bones-ship-customization-preview/)
- - [RFOX Launches the RFOX Metahack 2022, a Web 3.0 Hackathon](https://game-rant-2022.blogspot.com/2022/09/rfox-launches-rfox-metahack-2022-web-30_10.html)<!-- GAME:END -->
+ - [Ubisoft Forward: Multiple New Assassin’s Creed Games Announced, Taking the Franchise to Baghdad, Feudal Japan, and More](https://news.xbox.com/en-us/2022/09/10/ubisoft-forward-new-assassins-creed-games-announced/)
+ - [Assassin&#39;s Creed Valhalla Is Actually Ending, And The DLC Will Be Free](https://kotaku.com/assassins-creed-valhalla-final-dlc-last-chapter-date-1849521785)
+ - [Assassin&#39;s Creed Mirage: what we know about the new throwback stealth Assassin&#39;s Creed](https://www.pcgamer.com/assassins-creed-mirage-release-date-characters-setting-black-box-missions-and-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
