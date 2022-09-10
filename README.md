@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixar Announces &#39;Inside Out 2&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/pixar-announces-inside-out-2-at-d23/#ftag=CAD590a51e)
- - [Disney&#39;s Live-Action &#39;The Little Mermaid&#39; Teaser Trailer Drops at D23     - CNET](https://www.cnet.com/culture/entertainment/disneys-live-action-the-little-mermaid-teaser-trailer-drops-at-d23/#ftag=CAD590a51e)
- - [Disney Unveils &#39;Mufasa: The Lion King&#39; at D23     - CNET](https://www.cnet.com/culture/entertainment/disney-unveils-mufasa-the-lion-king-at-d23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [One-click checkout service Bolt is no longer buying crypto payments service Wyre; the deal was worth about $1.5B &lpar;Axios&rpar;](http://www.techmeme.com/220909/p22#a220909p22)
+ - [How Wikipedia&#39;s editors worked after Queen Elizabeth II&#39;s death, debating what pictures to use and what to call Charles, creating new articles, and more &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/220909/p21#a220909p21)
+ - [Depression Rates Have Increased. Here&#39;s How to Recognize It     - CNET](https://www.cnet.com/health/mental/what-to-know-about-depression-signs-and-treatment/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
