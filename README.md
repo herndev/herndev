@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The house would be very clean I swear](http://9gag.com/gag/awZNZ2Q)
- - ⏩ [I?m proud too](http://9gag.com/gag/agorQXw)
- - 👉 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)<!-- MEMES:END -->
+ - 💣 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
+ - ⏩ [Every introvert dream](http://9gag.com/gag/ajVQPw0)
+ - 👉 [Balls](http://9gag.com/gag/az27x7Z)<!-- MEMES:END -->
 
 ---
 
