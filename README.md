@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [WALL-E is rolling his way into the Criterion Collection](https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray)
  - [Hackers Target Los Angeles School District With Ransomware](https://www.wired.com/story/la-school-district-ransomware-albania-iran-security-roundup/)
- - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)
- - [Let me watch TV on the Apple Watch Ultra](https://www.theverge.com/23342927/apple-watch-ultra-tv-watch)<!-- TECH:END -->
+ - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
