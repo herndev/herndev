@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
- - ⏩ [Activist are getting more extreme as they damage lorries to stop them from delivering milk in Herefordshire. Earlier protests were also trying to block people in the store from buying milk](http://9gag.com/gag/agormxr)
- - 👉 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
+ - 💣 [Wth the whole ,,tears in the rain,, monolog.](http://9gag.com/gag/axoEWbD)
+ - ⏩ [This is the purge in real life starting in January 2023](http://9gag.com/gag/arm1WpX)
+ - 👉 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)<!-- MEMES:END -->
 
 ---
 
