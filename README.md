@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun fact: he also played Morla in The Neverending Story](http://9gag.com/gag/anze7dq)
- - ⏩ [Tents used by Bedouin in the Sahara](http://9gag.com/gag/ap9KRQB)
+ - 💣 [Milkshake](http://9gag.com/gag/amAqoo4)
+ - ⏩ [Best job.](http://9gag.com/gag/adPyP52)
  - 👉 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)<!-- MEMES:END -->
 
 ---
