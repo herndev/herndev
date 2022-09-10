@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milkshake](http://9gag.com/gag/amAqoo4)
- - ⏩ [Best job.](http://9gag.com/gag/adPyP52)
- - 👉 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)<!-- MEMES:END -->
+ - 💣 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
+ - ⏩ [We\u2019ve been friends on Xbox for 10 years. Today we finally met](http://9gag.com/gag/aVbjvLM)
+ - 👉 [And they call this Man king of incell?](http://9gag.com/gag/avQ2Q0E)<!-- MEMES:END -->
 
 ---
 
