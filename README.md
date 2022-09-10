@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)
+ - 💣 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)
  - ⏩ [Dad gets it](http://9gag.com/gag/awZNmby)
- - 👉 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)<!-- MEMES:END -->
+ - 👉 [The Golden Age \uff3c\u2060&lpar;\u2060\u25ce\u2060o\u2060\u25ce\u2060&rpar;\u2060\uff0f](http://9gag.com/gag/aA0BKR2)<!-- MEMES:END -->
 
 ---
 
