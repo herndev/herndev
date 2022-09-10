@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the big Disney and Pixar trailers and news out of D23 2022](https://www.polygon.com/23345421/disney-pixar-animation-panel-d23-2022-biggest-trailers-announcements)
- - [Disney’s new animated musical is about the Star its heroes are always wishing upon](https://www.polygon.com/23345431/wish-disney-animation-release-date-music)
- - [10 Best Video Game Side Quests](https://game-rant-2022.blogspot.com/2022/09/10-best-video-game-side-quests.html)<!-- GAME:END -->
+ - [Best video game characters that would be great Super Smash Bros fighters](https://game-rant-2022.blogspot.com/2022/09/best-video-game-characters-that-would.html)
+ - [Why is no one talking about Made in Abyss&#39; new season?](https://game-rant-2022.blogspot.com/2022/09/why-is-no-one-talking-about-made-in.html)
+ - [Forgotten PS1 Party Games](https://game-rant-2022.blogspot.com/2022/09/forgotten-ps1-party-games.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
