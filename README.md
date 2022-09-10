@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wth the whole ,,tears in the rain,, monolog.](http://9gag.com/gag/axoEWbD)
- - ⏩ [This is the purge in real life starting in January 2023](http://9gag.com/gag/arm1WpX)
- - 👉 [Don&#39;t let the Roomba-industrial Complex tell us otherwise](http://9gag.com/gag/a3Zv511)<!-- MEMES:END -->
+ - 💣 [It is over it is done..](http://9gag.com/gag/a3Zv585)
+ - ⏩ [Rabbit can swim](http://9gag.com/gag/aoKm33n)
+ - 👉 [Food... now](http://9gag.com/gag/aDYR7VN)<!-- MEMES:END -->
 
 ---
 
