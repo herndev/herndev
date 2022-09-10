@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinduoduo&#39;s net income has more than tripled in Q2 2022 and its shares have soared 43% over the past month, as it emerges as a big winner amid China&#39;s lockdowns &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/220910/p4#a220910p4)
- - [Meta unveils Pseudonymized Facebook Identifiers, which combine timestamps and Facebook Identifiers, to deter unauthorized data scraping &lpar;Matthew S. Burriesci/Meta&rpar;](http://www.techmeme.com/220910/p3#a220910p3)
- - [Best Outdoor Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-outdoor-projector-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [12 Weekend Deals on Headphones, Camp Stoves, and More](https://www.wired.com/story/weekend-deals-september-10-2022/)
+ - [EcoFlow Delta Pro battery review: maximum solar power for an uncertain world](https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price)
+ - [Apple&#39;s iPhone 14 eSIM Change Has Small Carriers Hopeful Switching Will Be Easier     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-esim-change-has-small-carriers-hopeful-switching-will-be-easier/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
