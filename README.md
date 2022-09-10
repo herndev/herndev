@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Weekend Deals on Headphones, Camp Stoves, and More](https://www.wired.com/story/weekend-deals-september-10-2022/)
- - [EcoFlow Delta Pro battery review: maximum solar power for an uncertain world](https://www.theverge.com/23334052/ecoflow-delta-pro-battery-review-rv-off-grid-price)
- - [Apple&#39;s iPhone 14 eSIM Change Has Small Carriers Hopeful Switching Will Be Easier     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-esim-change-has-small-carriers-hopeful-switching-will-be-easier/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [As the Planet Warms, Canada Faces an Influx of Climate Refugees](https://www.wired.com/story/as-the-planet-warms-canada-faces-an-influx-of-climate-refugees/)
+ - [The Sonos Ray Is a Perfect Starter Soundbar](https://www.wired.com/review/sonos-ray/)
+ - [The Weekly Authority: 👀 Pixel 7 launch date confirmed](https://www.androidauthority.com/the-weekly-authority-september-10-2022-211-3206174/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
