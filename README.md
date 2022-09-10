@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Food... now](http://9gag.com/gag/aDYR7VN)
- - ⏩ [It is over it is done..](http://9gag.com/gag/a3Zv585)
- - 👉 [When the locals see the soldiers are Ukrainian \u2026](http://9gag.com/gag/a2KEMv9)<!-- MEMES:END -->
+ - 💣 [It is over it is done..](http://9gag.com/gag/a3Zv585)
+ - ⏩ [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)
+ - 👉 [Rabbit can swim](http://9gag.com/gag/aoKm33n)<!-- MEMES:END -->
 
 ---
 
