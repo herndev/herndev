@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is over it is done..](http://9gag.com/gag/a3Zv585)
- - ⏩ [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)
- - 👉 [Rabbit can swim](http://9gag.com/gag/aoKm33n)<!-- MEMES:END -->
+ - 💣 [Rabbit can swim](http://9gag.com/gag/aoKm33n)
+ - ⏩ [Oopsie daisy](http://9gag.com/gag/aoKm39m)
+ - 👉 [Guys reaction on Rimac Nevera acceleration from 0-350 km/h in less then 30 seconds&lpar;0-100 km/h is 1.9 seconds&rpar;.](http://9gag.com/gag/agorOA6)<!-- MEMES:END -->
 
 ---
 
