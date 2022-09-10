@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple faces Mexican competition probe over App Store fees](https://appleinsider.com/articles/22/09/10/apple-faces-mexican-competition-probe-over-app-store-fees?utm_medium=rss)
- - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
- - [&#39;Secret Invasion&#39; Trailer Lands for New Disney Plus Show With Nick Fury     - CNET](https://www.cnet.com/culture/entertainment/secret-invasion-trailer-lands-for-new-disney-plus-show-with-nick-fury/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ubisoft says it is developing three mobile games for Netflix Games, including a new Assassin&#39;s Creed game &lpar;Hirun Cryer/GamesRadar&rpar;](http://www.techmeme.com/220910/p9#a220910p9)
+ - [In New &#39;Mandalorian&#39; Season 3 Trailer, Baby Yoda Is Cuter Than Cute     - CNET](https://www.cnet.com/culture/entertainment/in-new-mandalorian-season-3-trailer-baby-yoda-is-cuter-than-cute/#ftag=CAD590a51e)
+ - [When &#39;House of the Dragon&#39; Episode 4 Drops in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-does-house-of-the-dragon-episode-4-drop-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
