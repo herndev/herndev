@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Thunderbolts are the MCU’s answer to the Suicide Squad](https://www.polygon.com/23346180/thunderbolts-cast-characters-marvel)
- - [10 Splatfests We Want To See In Splatoon 3](https://game-rant-2022.blogspot.com/2022/09/10-splatfests-we-want-to-see-in.html)
- - [Star Trek: Who was Morn?](https://game-rant-2022.blogspot.com/2022/09/star-trek-who-was-morn.html)<!-- GAME:END -->
+ - [There&#39;s So Much Assassin&#39;s Creed Happening Now That It&#39;s Almost Hard To Keep Up](https://kotaku.com/assassins-creed-red-mirage-ubisoft-hexe-jade-netflix-1849521945)
+ - [After all these years someone made a proper tank simulator again](https://www.pcgamer.com/after-all-these-years-someone-made-a-proper-tank-simulator-again)
+ - [The Thunderbolts are the MCU’s answer to the Suicide Squad](https://www.polygon.com/23346180/thunderbolts-cast-characters-marvel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
