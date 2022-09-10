@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WALL-E is rolling his way into the Criterion Collection](https://www.theverge.com/2022/9/10/23345385/wall-e-criterion-collection-4k-blu-ray)
- - [Hackers Target Los Angeles School District With Ransomware](https://www.wired.com/story/la-school-district-ransomware-albania-iran-security-roundup/)
- - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)<!-- TECH:END -->
+ - [Small US carriers say Apple making eSIM the only option for iPhone 14 models in the US &quot;democratizes connectivity&quot; by letting users switch networks easily &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/220910/p6#a220910p6)
+ - [Brand new iPhone features that Android already has](https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison)
+ - [Apple just invented picture cropping with the iPhone 14 Pro series](https://www.androidauthority.com/apple-invented-picture-cropping-opinion-3206737/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
