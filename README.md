@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As the Planet Warms, Canada Faces an Influx of Climate Refugees](https://www.wired.com/story/as-the-planet-warms-canada-faces-an-influx-of-climate-refugees/)
- - [The Sonos Ray Is a Perfect Starter Soundbar](https://www.wired.com/review/sonos-ray/)
- - [The Weekly Authority: 👀 Pixel 7 launch date confirmed](https://www.androidauthority.com/the-weekly-authority-september-10-2022-211-3206174/)<!-- TECH:END -->
+ - [Hackers Target Los Angeles School District With Ransomware](https://www.wired.com/story/la-school-district-ransomware-albania-iran-security-roundup/)
+ - [Apple Messages Won’t Play Nice With Android Anytime Soon](https://www.wired.com/story/android-iphone-rcs-tim-cook-green-bubbles/)
+ - [Let me watch TV on the Apple Watch Ultra](https://www.theverge.com/23342927/apple-watch-ultra-tv-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
