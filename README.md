@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The first trailer for the new Little Mermaid shows off Halle Bailey’s Ariel](https://www.polygon.com/23345290/little-mermaid-2023-halle-bailey-trailer-disney)
- - [How does the game mode work on the OnePlus 10T?](https://game-rant-2022.blogspot.com/2022/09/how-does-game-mode-work-on-oneplus-10t.html)
- - [One of Elden Ring&#39;s best choral songs wasn&#39;t sung by a proper choir](https://www.pcgamer.com/one-of-elden-rings-best-choral-songs-wasnt-sung-by-a-proper-choir)<!-- GAME:END -->
+ - [All the big Disney and Pixar trailers and news out of D23 2022](https://www.polygon.com/23345421/disney-pixar-animation-panel-d23-2022-biggest-trailers-announcements)
+ - [Disney’s new animated musical is about the Star its heroes are always wishing upon](https://www.polygon.com/23345431/wish-disney-animation-release-date-music)
+ - [10 Best Video Game Side Quests](https://game-rant-2022.blogspot.com/2022/09/10-best-video-game-side-quests.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
