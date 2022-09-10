@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)
- - ⏩ [Majestic and chonky AF](http://9gag.com/gag/ap9K1R9)
+ - 💣 [Majestic and chonky AF](http://9gag.com/gag/ap9K1R9)
+ - ⏩ [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
  - 👉 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
 
 ---
