@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys reaction on Rimac Nevera acceleration from 0-350 km/h in less then 30 seconds&lpar;0-100 km/h is 1.9 seconds&rpar;.](http://9gag.com/gag/agorOA6)
- - ⏩ [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
- - 👉 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)<!-- MEMES:END -->
+ - 💣 [Facts](http://9gag.com/gag/ajVQ1Vx)
+ - ⏩ [Sheesh](http://9gag.com/gag/a5Xpw9r)
+ - 👉 [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)<!-- MEMES:END -->
 
 ---
 
