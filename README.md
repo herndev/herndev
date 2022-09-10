@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 448 answer and hint: Saturday, September 10](https://www.pcgamer.com/todays-wordle-448-answer-hint)
  - [All the big Disney and Pixar trailers and news out of D23 2022](https://www.polygon.com/23345421/disney-pixar-animation-panel-d23-2022-biggest-trailers-announcements)
- - [Disney’s new animated musical is about the Star its heroes are always wishing upon](https://www.polygon.com/23345431/wish-disney-animation-release-date-music)
- - [Pan-African entertainment studio Kugali vowed to kick Disney’s butt — and Disney was into it](https://www.polygon.com/animation-cartoons/22537536/iwaju-disney-kugali-studio-annecy-2021)<!-- GAME:END -->
+ - [Disney’s new animated musical is about the Star its heroes are always wishing upon](https://www.polygon.com/23345431/wish-disney-animation-release-date-music)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
