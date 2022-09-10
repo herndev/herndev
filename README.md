@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [NO lets make `THEM` eat the bugs](http://9gag.com/gag/aVbjo78)
- - ⏩ [Dad gets it](http://9gag.com/gag/awZNmby)
- - 👉 [The Golden Age \uff3c\u2060&lpar;\u2060\u25ce\u2060o\u2060\u25ce\u2060&rpar;\u2060\uff0f](http://9gag.com/gag/aA0BKR2)<!-- MEMES:END -->
+ - 💣 [Guys reaction on Rimac Nevera acceleration from 0-350 km/h in less then 30 seconds&lpar;0-100 km/h is 1.9 seconds&rpar;.](http://9gag.com/gag/agorOA6)
+ - ⏩ [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
+ - 👉 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)<!-- MEMES:END -->
 
 ---
 
