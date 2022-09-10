@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s how the new AirPods Pro compare to the rest of the AirPods lineup](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)
+ - [Compared: iPhone 14 Plus vs. iPhone 14 Pro Max](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-plus-vs-iphone-14-pro-max?utm_medium=rss)
  - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
- - [Exclusive deals: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)<!-- TECH:END -->
+ - [Here’s how the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
