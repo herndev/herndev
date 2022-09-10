@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One-click checkout service Bolt is no longer buying crypto payments service Wyre; the deal was worth about $1.5B &lpar;Axios&rpar;](http://www.techmeme.com/220909/p22#a220909p22)
- - [How Wikipedia&#39;s editors worked after Queen Elizabeth II&#39;s death, debating what pictures to use and what to call Charles, creating new articles, and more &lpar;Jody Serrano/Gizmodo&rpar;](http://www.techmeme.com/220909/p21#a220909p21)
- - [Depression Rates Have Increased. Here&#39;s How to Recognize It     - CNET](https://www.cnet.com/health/mental/what-to-know-about-depression-signs-and-treatment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NYC-based Regal, an outbound call and text messaging tools provider to brands, raised a $38.5M Series A led by Emergence Capital at a $350M post-money valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220909/p24#a220909p24)
+ - [Middle Eastern on-demand trucking platform TruKKer, which matches shippers and freight carriers, raised $100M from Investcorp and others ahead of a planned IPO &lpar;Matthew Martin/Bloomberg&rpar;](http://www.techmeme.com/220909/p23#a220909p23)
+ - [One-click checkout service Bolt is no longer buying crypto payments service Wyre; the deal was worth about $1.5B &lpar;Axios&rpar;](http://www.techmeme.com/220909/p22#a220909p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
