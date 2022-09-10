@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: iPhone 14 Plus vs. iPhone 14 Pro Max](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-plus-vs-iphone-14-pro-max?utm_medium=rss)
- - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
- - [Here’s how the new AirPods Pro compare to the rest of Apple’s AirPods lineup](https://www.theverge.com/23320893/apple-airpods-2-3-pro-max-which-to-buy-price-specs)<!-- TECH:END -->
+ - [The Mandalorian season three teaser trailer collects all of our old friends](https://www.theverge.com/2022/9/10/23346053/the-mandalorian-s3-trailer-star-wars-disney-plus)
+ - [D23 Expo 22 So Far: &#39;Mandalorian&#39; Season 3 Trailer, More Star Wars, Marvel News     - CNET](https://www.cnet.com/culture/entertainment/d23-expo-2022-disney-reveals-so-far-and-marvel-star-wars-updates-to-expect/#ftag=CAD590a51e)
+ - [Latest Andor trailer gives us a glimpse at the Star Wars spinoff ahead of its premiere](https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
