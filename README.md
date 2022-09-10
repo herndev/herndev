@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Small US carriers say Apple making eSIM the only option for iPhone 14 models in the US &quot;democratizes connectivity&quot; by letting users switch networks easily &lpar;Eli Blumenthal/CNET&rpar;](http://www.techmeme.com/220910/p6#a220910p6)
- - [Brand new iPhone features that Android already has](https://www.theverge.com/23319739/apple-iphone-ios-16-android-features-google-apps-comparison)
- - [Apple just invented picture cropping with the iPhone 14 Pro series](https://www.androidauthority.com/apple-invented-picture-cropping-opinion-3206737/)<!-- TECH:END -->
+ - [Apple’s latest iPad Mini is $100 off right now at Amazon and Best Buy](https://www.theverge.com/good-deals/2022/9/10/23344682/apple-ipad-mini-2021-macbook-pro-m2-samsung-frame-tv-amazon-fire-stick-4k-razer-chair-deal-sale)
+ - [Google Pixel foldable and a ‘Pro’ tablet hinted at in Android 13 code](https://www.theverge.com/2022/9/10/23345777/google-pixel-foldable-phone-pro-tablet-android-13-code-rumors)
+ - [The best iPhone 14 series alternatives: 7 phones to consider before you buy](https://www.androidauthority.com/apple-iphone-14-alternatives-3206124/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
