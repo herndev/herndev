@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mandalorian season three teaser trailer collects all of our old friends](https://www.theverge.com/2022/9/10/23346053/the-mandalorian-s3-trailer-star-wars-disney-plus)
- - [D23 Expo 22 So Far: &#39;Mandalorian&#39; Season 3 Trailer, More Star Wars, Marvel News     - CNET](https://www.cnet.com/culture/entertainment/d23-expo-2022-disney-reveals-so-far-and-marvel-star-wars-updates-to-expect/#ftag=CAD590a51e)
- - [Latest Andor trailer gives us a glimpse at the Star Wars spinoff ahead of its premiere](https://www.theverge.com/2022/9/10/23346019/andor-trailer-star-wars-spinoff-rogue-one-disney-plus-premiere)<!-- TECH:END -->
+ - [Apple faces Mexican competition probe over App Store fees](https://appleinsider.com/articles/22/09/10/apple-faces-mexican-competition-probe-over-app-store-fees?utm_medium=rss)
+ - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
+ - [&#39;Secret Invasion&#39; Trailer Lands for New Disney Plus Show With Nick Fury     - CNET](https://www.cnet.com/culture/entertainment/secret-invasion-trailer-lands-for-new-disney-plus-show-with-nick-fury/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
