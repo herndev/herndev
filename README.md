@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meme legend still sticking Paddington into other movies and TV shows](https://www.polygon.com/23311556/paddington-photoshop-into-movies-tv-meme)
  - [How to watch the Marvel and Star Wars presentation at D23 2022](https://www.polygon.com/23344726/d23-2022-marvel-lucasfilm-disney-star-wars-livestream-schedule)
- - [Daniel Radcliffe commits to the bit 10,000% in Weird: The Al Yankovic Story](https://www.polygon.com/reviews/23345217/weird-the-al-yankovic-story-review-daniel-radcliffe)
- - [How to watch Ubisoft Forward and Assassin’s Creed’s 15th birthday celebration](https://www.polygon.com/23344185/ubisoft-forward-date-what-time-assassins-creed-division-heartland)<!-- GAME:END -->
+ - [Daniel Radcliffe commits to the bit 10,000% in Weird: The Al Yankovic Story](https://www.polygon.com/reviews/23345217/weird-the-al-yankovic-story-review-daniel-radcliffe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
