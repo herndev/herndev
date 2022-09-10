@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prices slashed: save up to $550 on 14-inch &amp; 16-inch MacBook Pros](https://appleinsider.com/articles/22/09/05/prices-slashed-save-up-to-500-on-these-14-inch-16-inch-macbook-pros?utm_medium=rss)
- - [11 Great Gift Ideas for Grandparent&#39;s Day     - CNET](https://www.cnet.com/news/great-gifts-for-grandparents/#ftag=CAD590a51e)
- - [Cloudflare Blocks Kiwi Farms After &#39;Immediate Threat to Human Life&#39;: What to Know     - CNET](https://www.cnet.com/culture/internet/cloudflare-blocks-kiwi-farms-after-immediate-threat-to-human-life-what-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Hocus Pocus 2&#39; Latest Trailer Hits D23     - CNET](https://www.cnet.com/culture/entertainment/hocus-pocus-2-latest-trailer-hits-d23/#ftag=CAD590a51e)
+ - [Twitter Reportedly Agreed to Pay $7 Million to Whistleblower in Settlement     - CNET](https://www.cnet.com/news/social-media/twitter-reportedly-agreed-to-pay-7-million-to-whistleblower-in-settlement/#ftag=CAD590a51e)
+ - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Times, How to Watch, Weigh-In Chaos     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-times-how-to-watch-weigh-in-chaos/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
