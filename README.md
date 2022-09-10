@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Majestic and chonky AF](http://9gag.com/gag/ap9K1R9)
- - ⏩ [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
+ - 💣 [This trucker had a pretty good day](http://9gag.com/gag/aA0BQmg)
+ - ⏩ [Activist are getting more extreme as they damage lorries to stop them from delivering milk in Herefordshire. Earlier protests were also trying to block people in the store from buying milk](http://9gag.com/gag/agormxr)
  - 👉 [I miss no hints I just realize them later](http://9gag.com/gag/a4opn61)<!-- MEMES:END -->
 
 ---
