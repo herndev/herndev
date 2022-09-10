@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft says it is developing three mobile games for Netflix Games, including a new Assassin&#39;s Creed game &lpar;Hirun Cryer/GamesRadar&rpar;](http://www.techmeme.com/220910/p9#a220910p9)
+ - [Ubisoft says it is developing three mobile games for Netflix, including a new Assassin&#39;s Creed title &lpar;Hirun Cryer/GamesRadar&rpar;](http://www.techmeme.com/220910/p9#a220910p9)
  - [In New &#39;Mandalorian&#39; Season 3 Trailer, Baby Yoda Is Cuter Than Cute     - CNET](https://www.cnet.com/culture/entertainment/in-new-mandalorian-season-3-trailer-baby-yoda-is-cuter-than-cute/#ftag=CAD590a51e)
  - [When &#39;House of the Dragon&#39; Episode 4 Drops in Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-does-house-of-the-dragon-episode-4-drop-in-your-time-zone/#ftag=CAD590a51e)<!-- TECH:END -->
 
