@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Converting an abandoned chapel](http://9gag.com/gag/aKE4Ex6)
- - ⏩ [My favourite badass moment from the Queen is when she wore an EU flag to open the parliament after brexit to make her point since she wasn\u2019t allowed to give political opinions RIP The Queen.](http://9gag.com/gag/agorA76)
- - 👉 [Sieg](http://9gag.com/gag/az27e9m)<!-- MEMES:END -->
+ - ⏩ [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
+ - 👉 [Minnesota Vikings Gjallarhorn](http://9gag.com/gag/a8qd1Y6)<!-- MEMES:END -->
 
 ---
 
