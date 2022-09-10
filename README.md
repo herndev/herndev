@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A good laugh while the queen is dead memes end.](http://9gag.com/gag/aDYRYqG)
- - ⏩ [We\u2019ve been friends on Xbox for 10 years. Today we finally met](http://9gag.com/gag/aVbjvLM)
- - 👉 [And they call this Man king of incell?](http://9gag.com/gag/avQ2Q0E)<!-- MEMES:END -->
+ - 💣 [The house would be very clean I swear](http://9gag.com/gag/awZNZ2Q)
+ - ⏩ [I?m proud too](http://9gag.com/gag/agorQXw)
+ - 👉 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)<!-- MEMES:END -->
 
 ---
 
