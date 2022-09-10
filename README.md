@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Ukrainian forces appear to have taken the key city of Kupyansk overnight. Last week it was 60km behind the frontline.](http://9gag.com/gag/aZDqnP3)
  - ⏩ [Every introvert dream](http://9gag.com/gag/ajVQPw0)
- - 👉 [Balls](http://9gag.com/gag/az27x7Z)<!-- MEMES:END -->
+ - 👉 [Weebs, weebs everywhere](http://9gag.com/gag/a1Pp7dP)<!-- MEMES:END -->
 
 ---
 
