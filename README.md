@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [At Code, CEOs and politicians voiced concerns about TikTok&#39;s power, rapid growth, and surveillance potential, with some calling for it to be banned altogether &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/220911/p1#a220911p1)
- - [The iPhone 14 won’t have a SIM tray in the US](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
- - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;I Came By&#39; on Netflix: Ending Explained and All Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/i-came-by-on-netflix-the-ending-explained-and-all-lingering-questions-answered/#ftag=CAD590a51e)
+ - [The iPhone 14 won’t have a SIM tray in the US](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
