@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fabelmans packs all Steven Spielberg’s magic into telling his own story](https://www.polygon.com/reviews/23347562/fabelmans-review-steven-spielberg)
- - [Bleach: Thousand-Year Blood War anime gets a trailer, release date](https://www.polygon.com/23216514/bleach-thousand-year-blood-war-trailer-release-date)
- - [Four years later, Warhammer: Vermintide 2 has emerged from Left 4 Dead’s shadow](https://www.polygon.com/reviews/23344562/warhammer-vermintide-2-2022-review-worth-playing-dlc-release-date-chaos-wastes-darktide-roguelite)<!-- GAME:END -->
+ - [Why be Spider-Man when you could be the Teenage Mutant Ninja Turtles?](https://www.pcgamer.com/why-be-spider-man-when-you-could-be-the-teenage-mutant-ninja-turtles)
+ - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/fabelmans-review-steven-spielberg)
+ - [Bleach: Thousand-Year Blood War anime gets a trailer, release date](https://www.polygon.com/23216514/bleach-thousand-year-blood-war-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
