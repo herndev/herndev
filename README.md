@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Explore an alien archipelago, design, and automate a big base in Nova Lands](https://www.pcgamer.com/explore-an-alien-archipelago-design-and-automate-a-big-base-in-nova-lands)
  - [Why be Spider-Man when you could be the Teenage Mutant Ninja Turtles?](https://www.pcgamer.com/why-be-spider-man-when-you-could-be-the-teenage-mutant-ninja-turtles)
- - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/fabelmans-review-steven-spielberg)
- - [Bleach: Thousand-Year Blood War anime gets a trailer, release date](https://www.polygon.com/23216514/bleach-thousand-year-blood-war-trailer-release-date)<!-- GAME:END -->
+ - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/fabelmans-review-steven-spielberg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
