@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Losing Shoes](http://9gag.com/gag/aEqdAVp)
- - ⏩ [Sheesh](http://9gag.com/gag/a5Xpw9r)
- - 👉 [Who did it better?](http://9gag.com/gag/ap9KDn8)<!-- MEMES:END -->
+ - 💣 [Empathy is everything](http://9gag.com/gag/awZNLy8)
+ - ⏩ [When will you learn, old man!](http://9gag.com/gag/a2KEyB9)
+ - 👉 [Ke Huy Quan and Harrison Ford 40 years apart](http://9gag.com/gag/ap9KPwb)<!-- MEMES:END -->
 
 ---
 
