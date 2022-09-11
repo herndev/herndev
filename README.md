@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the increasing efforts of device manufacturers, telecom companies, and satellite operators to connect smartphones to satellites in remote locations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220911/p7#a220911p7)
- - [Daily deals Sept. 11 - $400 off 16-inch MacBook Pro, $17 off Philips Hue Downlight, $250 off Radeon RX 6700 XT, more!](https://appleinsider.com/articles/22/09/11/daily-deals-sept-11---400-off-16-inch-macbook-pro-17-off-philips-hue-downlight-250-off-radeon-rx-6700-xt-more?utm_medium=rss)
- - [Apple taking 85% of Globalstar network for Emergency SOS](https://appleinsider.com/articles/22/09/09/apple-taking-85-of-globalstar-network-for-emergency-sos?utm_medium=rss)<!-- TECH:END -->
+ - [Now you can stream Elden Ring’s soundtrack on Spotify, Apple Music, and YouTube](https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware)
+ - [Disney World Teases Expansion for Villains, Encanto and Coco at Magic Kingdom     - CNET](https://www.cnet.com/culture/entertainment/disney-world-teases-expansion-for-villains-encanto-and-coco-at-magic-kingdom/#ftag=CAD590a51e)
+ - [A look at the increasing efforts of device manufacturers, telecom companies, and satellite operators to connect smartphones to satellites in remote locations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220911/p7#a220911p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
