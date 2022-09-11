@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Disney&#39;s 27-year-old platformer Gargoyles is getting remastered](https://www.pcgamer.com/disneys-27-year-old-platformer-gargoyles-is-getting-remastered)
  - [Ubisoft is giving away a free month of Ubisoft+](https://www.pcgamer.com/ubisoft-is-giving-away-a-free-month-of-ubisoft)
- - [How soon before release should a game be revealed?](https://www.pcgamer.com/how-soon-before-release-should-a-game-be-revealed)
- - [The Percy Jackson series’ first trailer shows us around Camp Half-Blood](https://www.polygon.com/23345989/percy-jackson-disney-plus-series-trailer-cast-release-date-d23)<!-- GAME:END -->
+ - [How soon before release should a game be revealed?](https://www.pcgamer.com/how-soon-before-release-should-a-game-be-revealed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
