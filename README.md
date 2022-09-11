@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [7 Keyboard Tips for Your Phone](https://www.wired.com/story/7-phone-keyboard-tips/)
  - [An overview of trends from YC&#39;s Demo Day for Summer 2022: enterprise made up the bulk at 39% of the 223 startups in the batch, followed by fintech and dev tools &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220911/p3#a220911p3)
- - [The US SEC will set up the &quot;Office of Crypto Assets&quot; to deal with corporate disclosure filings related to the crypto industry &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220911/p2#a220911p2)
- - [At Code, CEOs and politicians voiced concerns about TikTok&#39;s power, rapid growth, and surveillance potential, with some calling for it to be banned altogether &lpar;Alexandra S. Levine/Forbes&rpar;](http://www.techmeme.com/220911/p1#a220911p1)<!-- TECH:END -->
+ - [The US SEC will set up the &quot;Office of Crypto Assets&quot; to deal with corporate disclosure filings related to the crypto industry &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220911/p2#a220911p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
