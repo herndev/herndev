@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ONE people](http://9gag.com/gag/adPy2od)
- - ⏩ [This road in Australia](http://9gag.com/gag/aOxoPLR)
+ - 💣 [And the winner of the 2022 monza gp is.....](http://9gag.com/gag/a4opqDv)
+ - ⏩ [Like looking in the mirror](http://9gag.com/gag/aqe4WGp)
  - 👉 [Plain and simple](http://9gag.com/gag/aA0B2zR)<!-- MEMES:END -->
 
 ---
