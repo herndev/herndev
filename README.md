@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
- - ⏩ [What a drag](http://9gag.com/gag/aqe4xWY)
- - 👉 [6 years old me after learning about other planets and moon&#39;s.](http://9gag.com/gag/avQ2xXM)<!-- MEMES:END -->
+ - 💣 [What a drag](http://9gag.com/gag/aqe4xWY)
+ - ⏩ [When you drag a captured tank with another captured tank...](http://9gag.com/gag/a8qd2VV)
+ - 👉 [Three targets - and three hits](http://9gag.com/gag/aoKmL6A)<!-- MEMES:END -->
 
 ---
 
