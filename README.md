@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Midnight Suns: Everything we know about the tactical Marvel RPG](https://www.pcgamer.com/midnight-suns-release-date-characters-gameplay)
- - [Today&#39;s Wordle 449 answer and hint: Sunday, September 11](https://www.pcgamer.com/todays-wordle-449-answer-hint)
- - [Disney&#39;s 27-year-old platformer Gargoyles is getting remastered](https://www.pcgamer.com/disneys-27-year-old-platformer-gargoyles-is-getting-remastered)<!-- GAME:END -->
+ - [Pincushion little raiders in a tower defense from the director of Hitman GO](https://www.pcgamer.com/pincushion-little-raiders-in-a-tower-defense-from-the-director-of-hitman-go)
+ - [The 7 best Pokémon-likes to play while you wait for Scarlet and Violet](https://www.polygon.com/what-to-play/23344466/best-games-similar-to-pokemon-nintendo-switch-pc)
+ - [Midnight Suns: Everything we know about the tactical Marvel RPG](https://www.pcgamer.com/midnight-suns-release-date-characters-gameplay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
