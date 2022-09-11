@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers discover a new strain of Linux malware called Shikitega that infects servers and IoT devices with stealth and sophistication, making detection tough &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220911/p5#a220911p5)
- - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
- - [Samsung Galaxy S22 Ultra revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/)<!-- TECH:END -->
+ - [Matternet’s delivery drone design has been approved by the FAA](https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa)
+ - [Apple isn&#39;t done with 2022 -- here&#39;s what&#39;s still coming](https://appleinsider.com/articles/22/09/08/apple-isnt-done-with-2022----heres-whats-still-coming?utm_medium=rss)
+ - [Apple&#39;s iPhone subscription may still arrive in 2022](https://appleinsider.com/articles/22/09/11/apples-iphone-subscription-may-still-arrive-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
