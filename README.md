@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A true king](http://9gag.com/gag/agor8MK)
- - ⏩ [I know a few guys in my office like this\u2026specially in purchasing for some reason](http://9gag.com/gag/aRE6vEG)
- - 👉 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)<!-- MEMES:END -->
+ - 💣 [Empathy is everything](http://9gag.com/gag/awZNLy8)
+ - ⏩ [What a drag](http://9gag.com/gag/aqe4xWY)
+ - 👉 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)<!-- MEMES:END -->
 
 ---
 
