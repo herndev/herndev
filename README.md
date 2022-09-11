@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
  - [Now you can stream Elden Ring’s soundtrack on Spotify, Apple Music, and YouTube](https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware)
- - [Disney World Teases Expansion for Villains, Encanto and Coco at Magic Kingdom     - CNET](https://www.cnet.com/culture/entertainment/disney-world-teases-expansion-for-villains-encanto-and-coco-at-magic-kingdom/#ftag=CAD590a51e)
- - [A look at the increasing efforts of device manufacturers, telecom companies, and satellite operators to connect smartphones to satellites in remote locations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220911/p7#a220911p7)<!-- TECH:END -->
+ - [Disney World Teases Expansion for Villains, Encanto and Coco at Magic Kingdom     - CNET](https://www.cnet.com/culture/entertainment/disney-world-teases-expansion-for-villains-encanto-and-coco-at-magic-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
