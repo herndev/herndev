@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [American Healthcare system is a JOKE!](http://9gag.com/gag/a8qdwwO)
- - ⏩ [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)
- - 👉 [Early polls from the Swedish elections show that the far right party Sverigedemokraterna \u201dSweden Democrats\u201d becomes the second biggest party, climbing from 12% to 27% in just two elections.](http://9gag.com/gag/avQ29zb)<!-- MEMES:END -->
+ - 💣 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)
+ - ⏩ [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)
+ - 👉 [Ffs](http://9gag.com/gag/aoKmYZx)<!-- MEMES:END -->
 
 ---
 
