@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;I Came By&#39; on Netflix: Ending Explained and All Lingering Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/i-came-by-on-netflix-the-ending-explained-and-all-lingering-questions-answered/#ftag=CAD590a51e)
  - [The iPhone 14 won’t have a SIM tray in the US](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
- - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
- - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Harrison Ford Shares &#39;Indiana Jones 5&#39; Trailer, Says Film &#39;Will Kick Your Ass&#39;     - CNET](https://www.cnet.com/culture/entertainment/harrison-ford-shares-indiana-jones-5-trailer-says-film-will-kick-your-ass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
