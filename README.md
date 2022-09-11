@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [With the iPhone 14, Apple is drawing a line between experts and normies](https://www.androidauthority.com/apple-iphone-14-opinion-3206436/)
- - [Matternet’s delivery drone design has been approved by the FAA](https://www.theverge.com/2022/9/11/23347199/matternet-delivery-drone-model-m2-design-approved-faa)
- - [Apple isn&#39;t done with 2022 -- here&#39;s what&#39;s still coming](https://appleinsider.com/articles/22/09/08/apple-isnt-done-with-2022----heres-whats-still-coming?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
+ - [Compared: iPhone 13 Pro &amp; iPhone 13 Pro Max vs iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/09/11/compared-iphone-13-pro-iphone-13-pro-max-vs-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)
+ - [Report: ransomware gangs are using intermittent encryption, where files are partly encrypted, to evade detection tools looking for intense file I/O operations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220911/p6#a220911p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
