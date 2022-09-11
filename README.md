@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bleach: Thousand-Year Blood War anime gets a trailer, release date](https://www.polygon.com/23216514/bleach-thousand-year-blood-war-trailer-release-date)
  - [Four years later, Warhammer: Vermintide 2 has emerged from Left 4 Dead’s shadow](https://www.polygon.com/reviews/23344562/warhammer-vermintide-2-2022-review-worth-playing-dlc-release-date-chaos-wastes-darktide-roguelite)
- - [Mod just straight up puts ULTRAKILL into Devil May Cry 5 and it works](https://www.pcgamer.com/mod-just-straight-up-puts-ultrakill-into-devil-may-cry-5-and-it-works)
- - [21 hilarious comedies to breeze through at home](https://www.polygon.com/what-to-watch/23339106/best-comedy-shows-tv-series-watch-streaming)<!-- GAME:END -->
+ - [Mod just straight up puts ULTRAKILL into Devil May Cry 5 and it works](https://www.pcgamer.com/mod-just-straight-up-puts-ultrakill-into-devil-may-cry-5-and-it-works)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
