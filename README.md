@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore an alien archipelago, design, and automate a big base in Nova Lands](https://www.pcgamer.com/explore-an-alien-archipelago-design-and-automate-a-big-base-in-nova-lands)
- - [Why be Spider-Man when you could be the Teenage Mutant Ninja Turtles?](https://www.pcgamer.com/why-be-spider-man-when-you-could-be-the-teenage-mutant-ninja-turtles)
- - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/fabelmans-review-steven-spielberg)<!-- GAME:END -->
+ - [It&#39;s all a bit Event Horizon meets Aliens in the demo for this sci-fi horror roguelike](https://www.pcgamer.com/its-all-a-bit-event-horizon-meets-aliens-in-the-demo-for-this-sci-fi-horror-roguelike)
+ - [Five new Steam games you probably missed &lpar;September 12, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-12-2022)
+ - [Explore an alien archipelago, design, and automate a big base in Nova Lands](https://www.pcgamer.com/explore-an-alien-archipelago-design-and-automate-a-big-base-in-nova-lands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
