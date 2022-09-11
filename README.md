@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ubisoft is giving away a free month of Ubisoft+](https://www.pcgamer.com/ubisoft-is-giving-away-a-free-month-of-ubisoft)
  - [How soon before release should a game be revealed?](https://www.pcgamer.com/how-soon-before-release-should-a-game-be-revealed)
- - [The Percy Jackson series’ first trailer shows us around Camp Half-Blood](https://www.polygon.com/23345989/percy-jackson-disney-plus-series-trailer-cast-release-date-d23)
- - [Tender Loving Care, the FMV erotic thriller that wanted you to think it was intellectual smut](https://www.pcgamer.com/saturday-crapshoot-tender-loving-care)<!-- GAME:END -->
+ - [The Percy Jackson series’ first trailer shows us around Camp Half-Blood](https://www.polygon.com/23345989/percy-jackson-disney-plus-series-trailer-cast-release-date-d23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
