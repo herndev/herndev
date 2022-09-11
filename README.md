@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Grab a Stack of eBooks for $5 or Less at Amazon&#39;s Goodreads Sale     - CNET](https://www.cnet.com/deals/grab-a-stack-of-ebooks-for-5-or-less-at-amazons-goodreads-sale/#ftag=CAD590a51e)
- - [&#39;Secret Invasion&#39; Trailer Brings Back Samuel L. Jackson as Nick Fury     - CNET](https://www.cnet.com/culture/entertainment/secret-invasion-trailer-brings-back-samuel-l-jackson-as-nick-fury/#ftag=CAD590a51e)
- - [Target Car Seat Trade-In Deal Scores You 20% Off Select Baby Gear     - CNET](https://www.cnet.com/deals/target-car-seat-trade-in-deal-scores-you-20-off-select-baby-gear/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple taking 85% of Globalstar network for Emergency SOS](https://appleinsider.com/articles/22/09/09/apple-taking-85-of-globalstar-network-for-emergency-sos?utm_medium=rss)
+ - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
+ - [Grab a Stack of eBooks for $5 or Less at Amazon&#39;s Goodreads Sale     - CNET](https://www.cnet.com/deals/grab-a-stack-of-ebooks-for-5-or-less-at-amazons-goodreads-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
