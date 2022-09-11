@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a drag](http://9gag.com/gag/aqe4xWY)
- - ⏩ [When you drag a captured tank with another captured tank...](http://9gag.com/gag/a8qd2VV)
- - 👉 [Three targets - and three hits](http://9gag.com/gag/aoKmL6A)<!-- MEMES:END -->
+ - 💣 [When you drag a captured tank with another captured tank...](http://9gag.com/gag/a8qd2VV)
+ - ⏩ [Rage quit](http://9gag.com/gag/axoER1W)
+ - 👉 [The best Ad ever](http://9gag.com/gag/anzex8L)<!-- MEMES:END -->
 
 ---
 
