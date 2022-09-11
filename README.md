@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
- - [Compared: iPhone 13 Pro &amp; iPhone 13 Pro Max vs iPhone 14 Pro &amp; iPhone 14 Pro Max](https://appleinsider.com/articles/22/09/11/compared-iphone-13-pro-iphone-13-pro-max-vs-iphone-14-pro-iphone-14-pro-max?utm_medium=rss)
- - [Report: ransomware gangs are using intermittent encryption, where files are partly encrypted, to evade detection tools looking for intense file I/O operations &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220911/p6#a220911p6)<!-- TECH:END -->
+ - [Grab a Stack of eBooks for $5 or Less at Amazon&#39;s Goodreads Sale     - CNET](https://www.cnet.com/deals/grab-a-stack-of-ebooks-for-5-or-less-at-amazons-goodreads-sale/#ftag=CAD590a51e)
+ - [&#39;Secret Invasion&#39; Trailer Brings Back Samuel L. Jackson as Nick Fury     - CNET](https://www.cnet.com/culture/entertainment/secret-invasion-trailer-brings-back-samuel-l-jackson-as-nick-fury/#ftag=CAD590a51e)
+ - [Target Car Seat Trade-In Deal Scores You 20% Off Select Baby Gear     - CNET](https://www.cnet.com/deals/target-car-seat-trade-in-deal-scores-you-20-off-select-baby-gear/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
