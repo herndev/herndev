@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There&#39;s So Much Assassin&#39;s Creed Happening Now That It&#39;s Almost Hard To Keep Up](https://kotaku.com/assassins-creed-red-mirage-ubisoft-hexe-jade-netflix-1849521945)
- - [After all these years someone made a proper tank simulator again](https://www.pcgamer.com/after-all-these-years-someone-made-a-proper-tank-simulator-again)
- - [The Thunderbolts are the MCU’s answer to the Suicide Squad](https://www.polygon.com/23346180/thunderbolts-cast-characters-marvel)<!-- GAME:END -->
+ - [The Percy Jackson series’ first trailer shows us around Camp Half-Blood](https://www.polygon.com/23345989/percy-jackson-disney-plus-series-trailer-cast-release-date-d23)
+ - [Tender Loving Care, the FMV erotic thriller that wanted you to think it was intellectual smut](https://www.pcgamer.com/saturday-crapshoot-tender-loving-care)
+ - [Everything We Saw At Ubisoft&#39;s Big Event Today](https://kotaku.com/ubisoft-forward-2022-assassins-creed-1849522061)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
