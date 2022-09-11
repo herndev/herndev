@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
- - [Now you can stream Elden Ring’s soundtrack on Spotify, Apple Music, and YouTube](https://www.theverge.com/2022/9/11/23347714/elden-ring-stream-music-soundtrack-spotify-apple-music-youtube-fromsoftware)
- - [Disney World Teases Expansion for Villains, Encanto and Coco at Magic Kingdom     - CNET](https://www.cnet.com/culture/entertainment/disney-world-teases-expansion-for-villains-encanto-and-coco-at-magic-kingdom/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Disneyland Expands Avengers Campus With &#39;King Thanos&#39; Multiverse Ride     - CNET](https://www.cnet.com/culture/entertainment/disneyland-expands-avengers-campus-with-king-thanos-multiverse-ride/#ftag=CAD590a51e)
+ - [Best Adjustable Dumbbells for Strength Training at Home     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
