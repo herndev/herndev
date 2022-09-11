@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The iPhone 14 won’t have a SIM tray in the US](https://www.theverge.com/2022/9/7/23341368/apple-iphone-14-dual-esim-no-physical-sim)
  - [Compared: iPhone 14 versus 2022 iPhone SE](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-versus-2022-iphone-se?utm_medium=rss)
- - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)
- - [&#39;Thor: Love and Thunder&#39; Post-Credits Scenes Explained as Marvel Movie Lands on Disney Plus     - CNET](https://www.cnet.com/culture/entertainment/thor-love-and-thunder-post-credits-scenes-explained-as-marvel-movie-lands-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UFC 279 Nate Diaz vs. Tony Ferguson: Start Time, How to Watch or Stream Online     - CNET](https://www.cnet.com/culture/sports/ufc-279-nate-diaz-vs-tony-ferguson-start-time-how-to-watch-or-stream-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
