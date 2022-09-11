@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How soon before release should a game be revealed?](https://www.pcgamer.com/how-soon-before-release-should-a-game-be-revealed)
  - [The Percy Jackson series’ first trailer shows us around Camp Half-Blood](https://www.polygon.com/23345989/percy-jackson-disney-plus-series-trailer-cast-release-date-d23)
- - [Tender Loving Care, the FMV erotic thriller that wanted you to think it was intellectual smut](https://www.pcgamer.com/saturday-crapshoot-tender-loving-care)
- - [Everything We Saw At Ubisoft&#39;s Big Event Today](https://kotaku.com/ubisoft-forward-2022-assassins-creed-1849522061)<!-- GAME:END -->
+ - [Tender Loving Care, the FMV erotic thriller that wanted you to think it was intellectual smut](https://www.pcgamer.com/saturday-crapshoot-tender-loving-care)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
