@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nasa................................](http://9gag.com/gag/ajVQK6x)
- - ⏩ [The best Ad ever](http://9gag.com/gag/anzex8L)
- - 👉 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)<!-- MEMES:END -->
+ - 💣 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)
+ - ⏩ [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)
+ - 👉 [This road in Australia](http://9gag.com/gag/aOxoPLR)<!-- MEMES:END -->
 
 ---
 
