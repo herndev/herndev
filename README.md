@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane driving skills](http://9gag.com/gag/a3Zv878)
- - ⏩ [A true king](http://9gag.com/gag/agor8MK)
- - 👉 [Healthy relationship](http://9gag.com/gag/aA0B4d9)<!-- MEMES:END -->
+ - 💣 [A true king](http://9gag.com/gag/agor8MK)
+ - ⏩ [I know a few guys in my office like this\u2026specially in purchasing for some reason](http://9gag.com/gag/aRE6vEG)
+ - 👉 [The servant must clear my desk for me. I can&#39;t be expected to move things.](http://9gag.com/gag/a04v04L)<!-- MEMES:END -->
 
 ---
 
