@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The scale of a marble quarry can be so huge that an excavator might look like a toy](http://9gag.com/gag/a6qrj3L)
- - ⏩ [After FC Magdeburg went 5 games without scoring](http://9gag.com/gag/agorEx1)
- - 👉 [It doesn&#39;t even touch the sides when I go to the toilet now](http://9gag.com/gag/a9qjDno)<!-- MEMES:END -->
+ - 💣 [American Healthcare system is a JOKE!](http://9gag.com/gag/a8qdwwO)
+ - ⏩ [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)
+ - 👉 [Early polls from the Swedish elections show that the far right party Sverigedemokraterna \u201dSweden Democrats\u201d becomes the second biggest party, climbing from 12% to 27% in just two elections.](http://9gag.com/gag/avQ29zb)<!-- MEMES:END -->
 
 ---
 
