@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Midnight Suns: Everything we know about the tactical Marvel RPG](https://www.pcgamer.com/midnight-suns-release-date-characters-gameplay)
  - [Today&#39;s Wordle 449 answer and hint: Sunday, September 11](https://www.pcgamer.com/todays-wordle-449-answer-hint)
- - [Disney&#39;s 27-year-old platformer Gargoyles is getting remastered](https://www.pcgamer.com/disneys-27-year-old-platformer-gargoyles-is-getting-remastered)
- - [Ubisoft is giving away a free month of Ubisoft+](https://www.pcgamer.com/ubisoft-is-giving-away-a-free-month-of-ubisoft)<!-- GAME:END -->
+ - [Disney&#39;s 27-year-old platformer Gargoyles is getting remastered](https://www.pcgamer.com/disneys-27-year-old-platformer-gargoyles-is-getting-remastered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
