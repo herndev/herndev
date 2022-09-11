@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stormtroopers 9/11](http://9gag.com/gag/anzexPn)
- - ⏩ [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
- - 👉 [This man is spitting facts.](http://9gag.com/gag/aA0B269)<!-- MEMES:END -->
+ - 💣 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
+ - ⏩ [What a drag](http://9gag.com/gag/aqe4xWY)
+ - 👉 [6 years old me after learning about other planets and moon&#39;s.](http://9gag.com/gag/avQ2xXM)<!-- MEMES:END -->
 
 ---
 
