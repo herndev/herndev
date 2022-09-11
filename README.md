@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 Keyboard Tips for Your Phone](https://www.wired.com/story/7-phone-keyboard-tips/)
- - [An overview of trends from YC&#39;s Demo Day for Summer 2022: enterprise made up the bulk at 39% of the 223 startups in the batch, followed by fintech and dev tools &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220911/p3#a220911p3)
- - [The US SEC will set up the &quot;Office of Crypto Assets&quot; to deal with corporate disclosure filings related to the crypto industry &lpar;Manya Saini/Reuters&rpar;](http://www.techmeme.com/220911/p2#a220911p2)<!-- TECH:END -->
+ - [The Webb Space Telescope Snaps Its First Photo of an Exoplanet](https://www.wired.com/story/the-webb-space-telescope-snaps-its-first-photo-of-an-exoplanet/)
+ - [This Tiny, Portable Dishwasher Is Built for the Truly Lazy](https://www.wired.com/review/daan-tech-bob-the-mini-dishwasher/)
+ - [Everything You Need to Know Before You Buy a Laptop](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
