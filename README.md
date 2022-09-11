@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Empathy is everything](http://9gag.com/gag/awZNLy8)
- - ⏩ [What a drag](http://9gag.com/gag/aqe4xWY)
- - 👉 [Ohoooo Canada, eer home and native land](http://9gag.com/gag/avQ2xyO)<!-- MEMES:END -->
+ - 💣 [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
+ - ⏩ [I know a few guys in my office like this\u2026specially in purchasing for some reason](http://9gag.com/gag/aRE6vEG)
+ - 👉 [When will you learn, old man!](http://9gag.com/gag/a2KEyB9)<!-- MEMES:END -->
 
 ---
 
