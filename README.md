@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Empathy is everything](http://9gag.com/gag/awZNLy8)
- - ⏩ [When will you learn, old man!](http://9gag.com/gag/a2KEyB9)
- - 👉 [Ke Huy Quan and Harrison Ford 40 years apart](http://9gag.com/gag/ap9KPwb)<!-- MEMES:END -->
+ - 💣 [Insane driving skills](http://9gag.com/gag/a3Zv878)
+ - ⏩ [A true king](http://9gag.com/gag/agor8MK)
+ - 👉 [Healthy relationship](http://9gag.com/gag/aA0B4d9)<!-- MEMES:END -->
 
 ---
 
