@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good boi on the plane](http://9gag.com/gag/avQ2Rzn)
- - ⏩ [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)
- - 👉 [This road in Australia](http://9gag.com/gag/aOxoPLR)<!-- MEMES:END -->
+ - 💣 [ONE people](http://9gag.com/gag/adPy2od)
+ - ⏩ [This road in Australia](http://9gag.com/gag/aOxoPLR)
+ - 👉 [Plain and simple](http://9gag.com/gag/aA0B2zR)<!-- MEMES:END -->
 
 ---
 
