@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)
- - ⏩ [Multi-billion dollar corporation Walt Disney stole freelancer&#39;s fan art and is selling it in its park](http://9gag.com/gag/aL16XXM)
- - 👉 [Ffs](http://9gag.com/gag/aoKmYZx)<!-- MEMES:END -->
+ - 💣 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
+ - ⏩ [Why 99% of all movies and TV series today are garbage. - spitting facts.](http://9gag.com/gag/az27YeN)
+ - 👉 [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)<!-- MEMES:END -->
 
 ---
 
