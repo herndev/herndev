@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple taking 85% of Globalstar network for Emergency SOS](https://appleinsider.com/articles/22/09/09/apple-taking-85-of-globalstar-network-for-emergency-sos?utm_medium=rss)
- - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
- - [Grab a Stack of eBooks for $5 or Less at Amazon&#39;s Goodreads Sale     - CNET](https://www.cnet.com/deals/grab-a-stack-of-ebooks-for-5-or-less-at-amazons-goodreads-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the increasing efforts of device manufacturers, telecom companies, and satellite operators to connect smartphones to satellites in remote locations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220911/p7#a220911p7)
+ - [Daily deals Sept. 11 - $400 off 16-inch MacBook Pro, $17 off Philips Hue Downlight, $250 off Radeon RX 6700 XT, more!](https://appleinsider.com/articles/22/09/11/daily-deals-sept-11---400-off-16-inch-macbook-pro-17-off-philips-hue-downlight-250-off-radeon-rx-6700-xt-more?utm_medium=rss)
+ - [Apple taking 85% of Globalstar network for Emergency SOS](https://appleinsider.com/articles/22/09/09/apple-taking-85-of-globalstar-network-for-emergency-sos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
