@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Healthy relationship](http://9gag.com/gag/aA0B4d9)
+ - 💣 [This has to be scripted, right? it is, right?](http://9gag.com/gag/aWGBLx4)
  - ⏩ [My fellow gaggers.. this is how you get a girl](http://9gag.com/gag/aWGBnOn)
- - 👉 [Sheesh](http://9gag.com/gag/a5Xpw9r)<!-- MEMES:END -->
+ - 👉 [Losing Shoes](http://9gag.com/gag/aEqdAVp)<!-- MEMES:END -->
 
 ---
 
