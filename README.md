@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insane driving skills](http://9gag.com/gag/a3Zv878)
+ - 💣 [Stormtroopers 9/11](http://9gag.com/gag/anzexPn)
  - ⏩ [That\u2019s on top of the $72,000 billed &lpar;so far&rpar; for my wife\u2019s care](http://9gag.com/gag/aPg6exQ)
- - 👉 [Truck](http://9gag.com/gag/aA0BM5g)<!-- MEMES:END -->
+ - 👉 [This man is spitting facts.](http://9gag.com/gag/aA0B269)<!-- MEMES:END -->
 
 ---
 
