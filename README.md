@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Team of German scientists have developed tattoos that change color according to the body&#39;s levels of glucose and albumin or its pH. This would allow patients with diabetes or kidney disease keep track of their health without having to take constant blood samples.](http://9gag.com/gag/aL16X5g)
- - ⏩ [Oh. That\u2019s ok then.](http://9gag.com/gag/amAqpjX)
- - 👉 [Guy books and AirBnB in Wales. Opens the door to this.](http://9gag.com/gag/aOxo1BD)<!-- MEMES:END -->
+ - 💣 [The scale of a marble quarry can be so huge that an excavator might look like a toy](http://9gag.com/gag/a6qrj3L)
+ - ⏩ [After FC Magdeburg went 5 games without scoring](http://9gag.com/gag/agorEx1)
+ - 👉 [It doesn&#39;t even touch the sides when I go to the toilet now](http://9gag.com/gag/a9qjDno)<!-- MEMES:END -->
 
 ---
 
