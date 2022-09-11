@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Webb Space Telescope Snaps Its First Photo of an Exoplanet](https://www.wired.com/story/the-webb-space-telescope-snaps-its-first-photo-of-an-exoplanet/)
- - [This Tiny, Portable Dishwasher Is Built for the Truly Lazy](https://www.wired.com/review/daan-tech-bob-the-mini-dishwasher/)
- - [Everything You Need to Know Before You Buy a Laptop](https://www.wired.com/story/how-to-buy-the-right-laptop-for-you/)<!-- TECH:END -->
+ - [iPhone 14 will be sold in Russia despite Apple&#39;s departure](https://appleinsider.com/articles/22/09/11/iphone-14-will-be-sold-in-russia-despite-apples-departure?utm_medium=rss)
+ - [Samsung Galaxy S22 Ultra revisited: The good and bad over six months later](https://www.androidauthority.com/samsung-galaxy-s22-ultra-review-revisited-3203729/)
+ - [The Best Video Doorbell Cameras](https://www.wired.com/gallery/best-video-doorbells/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
