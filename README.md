@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [21 hilarious comedies to breeze through at home](https://www.polygon.com/what-to-watch/23339106/best-comedy-shows-tv-series-watch-streaming)
  - [Pincushion little raiders in a tower defense from the director of Hitman GO](https://www.pcgamer.com/pincushion-little-raiders-in-a-tower-defense-from-the-director-of-hitman-go)
- - [The 7 best Pokémon-likes to play while you wait for Scarlet and Violet](https://www.polygon.com/what-to-play/23344466/best-games-similar-to-pokemon-nintendo-switch-pc)
- - [Midnight Suns: Everything we know about the tactical Marvel RPG](https://www.pcgamer.com/midnight-suns-release-date-characters-gameplay)<!-- GAME:END -->
+ - [The best Pokémon-likes to play while you wait for Scarlet and Violet](https://www.polygon.com/what-to-play/23344466/best-games-similar-to-pokemon-nintendo-switch-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
