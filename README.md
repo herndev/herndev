@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
- - [Finnish study claims our brains sync-up while gaming together](https://www.pcgamer.com/finnish-study-claims-our-brains-sync-up-while-gaming-together)
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)<!-- GAME:END -->
+ - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
+ - [How Forspoken fuses fast-paced spellcasting and magic-imbued parkour for its combat thrills](https://blog.playstation.com/2022/09/12/how-forspoken-fuses-fast-paced-spellcasting-and-magic-imbued-parkour-for-its-combat-thrills/)
+ - [Behind the wisecracks, Forspoken is a messy, interesting action-RPG](https://www.polygon.com/23344494/forspoken-preview-release-date-square-enix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
