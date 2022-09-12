@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 450 answer and hint: Monday, September 12](https://www.pcgamer.com/todays-wordle-450-answer-hint)
  - [GIFs in Microsoft Teams not just annoying, actively dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)
- - [Castlevania characters coming to Brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)
- - [Intel&#39;s 13th Gen 13600 and below to be based on the older Alder Lake architecture](https://www.pcgamer.com/intels-13th-gen-13600-and-below-to-be-based-on-the-older-alder-lake-architecture)<!-- GAME:END -->
+ - [Castlevania characters coming to Brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
