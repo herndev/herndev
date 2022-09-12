@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Long live the friendly local tabletop game store](https://www.polygon.com/23343318/friendly-local-game-stores-tabletop-retailers)
- - [The fork in the road facing third-party tabletop RPGs](https://www.polygon.com/23344107/dungeons-and-dragons-third-party-licensing)
- - [Queer tabletop games are having a moment](https://www.polygon.com/23342844/queer-tabletop-games-thirsty-sword-lesbians)<!-- GAME:END -->
+ - [Disney Dreamlight Valley: How to get seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)
+ - [The best PC fans in 2022](https://www.pcgamer.com/best-pc-fans)
+ - [Meta&#39;s Hyped VR Headset Accidentally Leaked By Guy In A Hotel](https://kotaku.com/meta-quest-pro-vr-oculus-quest-2-facebook-zuckerberg-1849524690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
