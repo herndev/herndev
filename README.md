@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve been playing this lo-fi Stardew Valley soundtrack as obsessively as the game](https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game)
- - [How to make ratatouille in Disney Dreamlight Valley](https://www.polygon.com/guides/23349384/disney-dreamlight-valley-ratatouille-recipe-ingredients-realm-remy-quest)
- - [Batman’s alternate personality with terrible fashion sense is back with a vengeance](https://www.polygon.com/2022/9/12/23348920/batman-comics-identity-zur-en-arrh)<!-- GAME:END -->
+ - [State of Play returns tomorrow, September 13](https://blog.playstation.com/2022/09/12/state-of-play-returns-tomorrow-september-13/)
+ - [Future Assassin&#39;s Creed Games Are Ditching Modern Day Stuff, And That&#39;s Disappointing](https://kotaku.com/assassin-s-creed-modern-day-story-meta-infinity-ubisoft-1849526855)
+ - [Secretlab’s Fortnite Battle Bus Chair Is Comfy, If A Little Big](https://kotaku.com/secretlab-s-fortnite-battle-bus-chair-is-comfy-if-a-li-1849527193)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
