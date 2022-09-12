@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital World Acquisition Corp., seeking to take Truth Social public via a SPAC, fails to gain shareholder approval and sets an October 10 deadline for a vote &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220912/p5#a220912p5)
- - [Binance-linked crypto exchange WazirX says India&#39;s Enforcement Directorate has &quot;unfrozen&quot; or restarted its bank account; the ED raided its office on August 5 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220912/p4#a220912p4)
- - [Wall Street firms are gaining ground in the talent war as hiring freezes impact Silicon Valley and computer engineers move from big tech and crypto to finance &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/220912/p3#a220912p3)<!-- TECH:END -->
+ - [Intel says one of its 13th Gen CPUs will hit 6GHz out of the box](https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked)
+ - [How to create a customizable fitness interface in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-a-customizable-fitness-interface-in-ios-16?utm_medium=rss)
+ - [Apple UK closing stores to mark Queen&#39;s funeral](https://appleinsider.com/articles/22/09/12/apple-uk-closing-stores-to-mark-queens-funeral?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
