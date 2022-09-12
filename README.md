@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Insider Intelligence projects US online sales to rise just 9.4% to $1T in 2022, the first single-digit YoY growth, including slower Amazon sales, up 9% to $400B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220912/p1#a220912p1)
- - [Best Android Auto Head Unit Car Stereos for 2022     - CNET](https://www.cnet.com/roadshow/news/best-android-auto-head-unit/#ftag=CAD590a51e)
- - [2022 Emmys Live Blog: Nominations, Predictions and the Biggest Snubs     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-blog-nominations-predictions-and-the-biggest-snubs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deere, which will roll out self-driving tractors this year, expects that by the end of the decade 10% of its revenue will come from software fees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220912/p2#a220912p2)
+ - [Xperia Stream launched: A full-featured cooling system for Xperia 1 IV](https://www.androidauthority.com/sony-xperia-stream-3205480/)
+ - [The new Google Chromecast HD might have a big advantage over its predecessor](https://www.androidauthority.com/google-chromecast-hd-specs-3207563/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
