@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [No buyouts for Chevy dealers who don’t want to sell electric vehicles](https://www.theverge.com/2022/9/12/23344878/chevy-dealer-buyout-electric-ev-scott-bell)
- - [Samsung S95B TV review, Sonos rumors, Netatmo lock, &amp; more on HomeKit Insider](https://appleinsider.com/articles/22/09/12/samsung-s95b-tv-review-sonos-rumors-netatmo-lock-more-on-homekit-insider?utm_medium=rss)
- - [Internal Meta documents detail Instagram&#39;s struggle to compete with TikTok; users spend 17.6M hours per day watching Reels, far below TikTok&#39;s 197.8M hours &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220912/p17#a220912p17)<!-- TECH:END -->
+ - [It’s cuffing season in new trailer for Kid Cudi’s Entergalactic Netflix television event](https://www.theverge.com/2022/9/12/23348948/entergalactic-netflix-trailer-kid-cudi)
+ - [Blue Origin’s uncrewed capsule safely escapes after midflight anomaly](https://www.theverge.com/2022/9/12/23348958/blue-origin-new-shepard-crew-capsule-launch-anomaly-uncrewed)
+ - [Google also has iOS 16 Lock Screen widgets - here&#39;s what they look like](https://appleinsider.com/articles/22/09/12/google-also-has-ios-16-lock-screen-widgets---heres-what-they-look-like?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
