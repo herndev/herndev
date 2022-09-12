@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Thank you to this YouTuber for explaining Immortality to me](https://www.polygon.com/23349595/immortality-half-mermaid-explained)
- - [Scrooge McDuck won’t let me buy a sick gaming PC](https://www.polygon.com/23349387/disney-dreamlight-valley-scrooge-mcduck-gaming-pc-nintendo-switch-xbox-series-x-game-pass-ps5-ps4)
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
+ - [I&#39;ve been playing this lo-fi Stardew Valley soundtrack as obsessively as the game](https://www.pcgamer.com/ive-been-playing-this-lo-fi-stardew-valley-soundtrack-as-obsessively-as-the-game)
+ - [How to make ratatouille in Disney Dreamlight Valley](https://www.polygon.com/guides/23349384/disney-dreamlight-valley-ratatouille-recipe-ingredients-realm-remy-quest)
+ - [Batman’s alternate personality with terrible fashion sense is back with a vengeance](https://www.polygon.com/2022/9/12/23348920/batman-comics-identity-zur-en-arrh)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
