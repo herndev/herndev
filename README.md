@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Modern Women](http://9gag.com/gag/a9qj4o1)
- - ⏩ [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
- - 👉 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)<!-- MEMES:END -->
+ - 💣 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)
+ - ⏩ [I&#39;m black and this was my reaction after watch the new Mermaid trailer.](http://9gag.com/gag/aDYRLQd)
+ - 👉 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)<!-- MEMES:END -->
 
 ---
 
