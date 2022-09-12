@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 16 Launches Today: Every Big Change Hitting Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-launches-today-every-big-change-hitting-your-iphone/#ftag=CAD590a51e)
  - [It had to happen: Someone just added a Dynamic Island on an Android phone](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)
- - [Deere, which will roll out self-driving tractors this year, expects that by the end of the decade 10% of its revenue will come from software fees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220912/p2#a220912p2)
- - [Xperia Stream launched: A full-featured cooling system](https://www.androidauthority.com/sony-xperia-stream-3205480/)<!-- TECH:END -->
+ - [Best Workbench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-workbench/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
