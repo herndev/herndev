@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Evil twin ? but who ?](http://9gag.com/gag/arm1DV0)
- - ⏩ [Not OC but relevant](http://9gag.com/gag/avQ2BzW)
- - 👉 [Security needing security](http://9gag.com/gag/aDYRrMN)<!-- MEMES:END -->
+ - 💣 [Modern Women](http://9gag.com/gag/a9qj4o1)
+ - ⏩ [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
+ - 👉 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)<!-- MEMES:END -->
 
 ---
 
