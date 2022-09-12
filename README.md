@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 is already record-settingly huge in Japan](https://www.polygon.com/23349292/splatoon-3-japan-record-sales)
- - [Marvel&#39;s Captain America X Black Panther Game: 4 New Things We Just Learned](https://kotaku.com/marvel-black-panther-captain-america-hennig-skydance-1849525370)
- - [Halo boss Bonnie Ross steps down as head of 343 Industries](https://www.polygon.com/23349308/halo-infinite-343-industries-founder-bonnie-ross-quits)<!-- GAME:END -->
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
+ - [One Piece Gets Every Volume Merged Into One Long, 21,450 Page...Piece](https://kotaku.com/one-piece-art-eiichiro-oda-ilan-manouach-books-order-1849526104)
+ - [Assassin’s Creed Mirage isn’t actually rated Adults Only, won’t have ‘real gambling’](https://www.polygon.com/23349244/assassins-creed-mirage-rating-adults-only-gambling-microtransactions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
