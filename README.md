@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [iOS 16 &amp; iOS 15.7 updaters hit with App Store terms &amp; conditions bug](https://appleinsider.com/articles/22/09/12/ios-16-ios-156-updaters-hit-with-app-store-terms-conditions-bug?utm_medium=rss)
- - [These features are not in the initial release of iOS 16](https://appleinsider.com/articles/22/08/23/these-features-wont-be-in-the-release-of-ios-16?utm_medium=rss)
- - [Ikea’s Swedish House Mafia record player is actually going on sale next month](https://www.theverge.com/2022/9/11/23347344/ikea-swedish-house-mafia-record-player-going-on-sale-next-month-obegransad)<!-- TECH:END -->
+ - [Gmail’s iOS 16 lock screen widget looks great, but it’s not coming today](https://www.theverge.com/2022/9/12/23349186/apple-iphone-ios-16-lock-screen-google-gmail-search-widget)
+ - [Roku’s Weird Al movie is ridiculous in the best possible ways](https://www.theverge.com/23349435/weird-the-al-yankovic-story-review-roku-tiff-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
