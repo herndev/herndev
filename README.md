@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
- - ⏩ [Brendan Fraser accepts the performance award for `The Whale` at the TIFF Tribute Awards.](http://9gag.com/gag/a1Ppq3D)
- - 👉 [Someone is gonna do this to the entire movie and upload it to the torrent](http://9gag.com/gag/aRE6NQ5)<!-- MEMES:END -->
+ - 💣 [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
+ - ⏩ [Tired of life? Chill a bit...](http://9gag.com/gag/amAqKg2)
+ - 👉 [When mom beats the sh*t out of you and then calls you for dinner](http://9gag.com/gag/avQ243O)<!-- MEMES:END -->
 
 ---
 
