@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Evil twin ? but who ?](http://9gag.com/gag/arm1DV0)
- - ⏩ [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
- - 👉 [No one. Rhaenyra during the whole show.](http://9gag.com/gag/axoEnw2)<!-- MEMES:END -->
+ - ⏩ [Not OC but relevant](http://9gag.com/gag/avQ2BzW)
+ - 👉 [Security needing security](http://9gag.com/gag/aDYRrMN)<!-- MEMES:END -->
 
 ---
 
