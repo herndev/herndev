@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There’s a plan for Google’s failed balloon-based internet, and it involves lasers](https://www.theverge.com/2022/9/12/23349291/alphabet-google-project-loon-aalyria-lasers-communication)
- - [Disney’s CEO teases a ‘hard bundle’ of Disney Plus and Hulu](https://www.theverge.com/2022/9/12/23349569/disney-hulu-hard-bundle-bob-chapek-d23)
- - [Apple plans to add a Clean Energy Charging feature to iOS 16 in 2022, optimizing iPhone charging times for when the power grid is using cleaner energy sources &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220912/p23#a220912p23)<!-- TECH:END -->
+ - [Peloton’s co-founder and former CEO rides into the sunset](https://www.theverge.com/2022/9/12/23349809/peloton-john-foley-co-founder-former-ceo-leaving-company-resign)
+ - [Cledara, which gives companies greater control and insights into their SaaS subscriptions, raised a $20M Series A led by CommerzVentures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220912/p24#a220912p24)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
