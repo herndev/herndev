@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 &amp; iOS 15.7 updaters hit with App Store terms &amp; conditions bug](https://appleinsider.com/articles/22/09/12/ios-16-ios-156-updaters-hit-with-app-store-terms-conditions-bug?utm_medium=rss)
- - [Gmail’s iOS 16 lock screen widget looks great, but it’s not coming today](https://www.theverge.com/2022/9/12/23349186/apple-iphone-ios-16-lock-screen-google-gmail-search-widget)
- - [Roku’s Weird Al movie is ridiculous in the best possible ways](https://www.theverge.com/23349435/weird-the-al-yankovic-story-review-roku-tiff-2022)<!-- TECH:END -->
+ - [There’s a plan for Google’s failed balloon-based internet, and it involves lasers](https://www.theverge.com/2022/9/12/23349291/alphabet-google-project-loon-aalyria-lasers-communication)
+ - [Disney’s CEO teases a ‘hard bundle’ of Disney Plus and Hulu](https://www.theverge.com/2022/9/12/23349569/disney-hulu-hard-bundle-bob-chapek-d23)
+ - [Apple plans to add a Clean Energy Charging feature to iOS 16 in 2022, optimizing iPhone charging times for when the power grid is using cleaner energy sources &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220912/p23#a220912p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
