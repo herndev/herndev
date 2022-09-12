@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Quest Pro’ pictures may show a sample of Meta’s next VR headset](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset)
- - [Sources: Biden admin plans more curbs on US shipments to China of chipmaking tools and chips for AI, affecting Lam Research, Applied Materials, KLA Corp, others &lpar;Reuters&rpar;](http://www.techmeme.com/220911/p8#a220911p8)
- - [Jake Paul vs. Anderson Silva: Press Conference Start Time, How to Watch, Everything to Know     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-anderson-silva-press-conference-start-time-how-to-watch-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [D23: All the Marvel, Star Wars, Disney Trailers, Parks News and More     - CNET](https://www.cnet.com/culture/entertainment/d23-all-the-marvel-star-wars-disney-trailers-and-more/#ftag=CAD590a51e)
+ - [The Best Sci-Fi Movies You Need To Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-you-need-to-watch-on-netflix/#ftag=CAD590a51e)
+ - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
