@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You ungrateful bastard](http://9gag.com/gag/aOxoAb3)
- - ⏩ [Need more time](http://9gag.com/gag/aOxoNxE)
- - 👉 [Why not both?](http://9gag.com/gag/aBd9NjA)<!-- MEMES:END -->
+ - 💣 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
+ - ⏩ [Brendan Fraser accepts the performance award for `The Whale` at the TIFF Tribute Awards.](http://9gag.com/gag/a1Ppq3D)
+ - 👉 [Someone is gonna do this to the entire movie and upload it to the torrent](http://9gag.com/gag/aRE6NQ5)<!-- MEMES:END -->
 
 ---
 
