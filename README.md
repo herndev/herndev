@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 Launches Today: Every Big Change Hitting Your iPhone     - CNET](https://www.cnet.com/tech/mobile/ios-16-launches-today-every-big-change-hitting-your-iphone/#ftag=CAD590a51e)
- - [It had to happen: Someone just added a Dynamic Island on an Android phone](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)
- - [Best Workbench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-workbench/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wall Street firms are gaining ground in the talent war as hiring freezes impact Silicon Valley and computer engineers move from big tech and crypto to finance &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/220912/p3#a220912p3)
+ - [Daily Authority: 🍎 iPhone haves and have-nots](https://www.androidauthority.com/daily-authority-september-12-2022-3207588/)
+ - [Poll: How often do you upgrade your tablet?](https://www.androidauthority.com/tablet-upgrade-poll-3207604/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
