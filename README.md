@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tarzan should be next](http://9gag.com/gag/az27QRB)
+ - 💣 [It is like that](http://9gag.com/gag/aeQKWp5)
  - ⏩ [Arials on acoustic guitar](http://9gag.com/gag/aA0BZbg)
- - 👉 [Early polls from the Swedish elections show that the far right party Sverigedemokraterna \u201dSweden Democrats\u201d becomes the second biggest party, climbing from 12% to 27% in just two elections.](http://9gag.com/gag/avQ29zb)<!-- MEMES:END -->
+ - 👉 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)<!-- MEMES:END -->
 
 ---
 
