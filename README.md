@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Quest Pro’ video shows Meta’s next VR headset a month before its launch event](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset)
- - [House of the Dragon: The Targaryen Family Tree Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-the-targaryen-family-tree-explained/#ftag=CAD590a51e)
- - [2022 Emmys: How to Watch or Stream, Start Time, Host and Red Carpet Details     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-how-to-watch-or-stream-start-time-host-and-red-carpet-details/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Insider Intelligence projects US online sales to rise just 9.4% to $1T in 2022, the first single-digit YoY growth, including slower Amazon sales, up 9% to $400B &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220912/p1#a220912p1)
+ - [Best Android Auto Head Unit Car Stereos for 2022     - CNET](https://www.cnet.com/roadshow/news/best-android-auto-head-unit/#ftag=CAD590a51e)
+ - [2022 Emmys Live Blog: Nominations, Predictions and the Biggest Snubs     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-blog-nominations-predictions-and-the-biggest-snubs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
