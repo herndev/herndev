@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Falling down](http://9gag.com/gag/aZDqVgz)
- - ⏩ [That&#39;s just ignorant](http://9gag.com/gag/a4opxKp)
- - 👉 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)<!-- MEMES:END -->
+ - ⏩ [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)
+ - 👉 [Teacher says something so controversial and yet so brave in front of liberal school district](http://9gag.com/gag/aA0BmgE)<!-- MEMES:END -->
 
 ---
 
