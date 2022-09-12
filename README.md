@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley: How to get seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)
- - [The best PC fans in 2022](https://www.pcgamer.com/best-pc-fans)
- - [Meta&#39;s Hyped VR Headset Accidentally Leaked By Guy In A Hotel](https://kotaku.com/meta-quest-pro-vr-oculus-quest-2-facebook-zuckerberg-1849524690)<!-- GAME:END -->
+ - [New One Piece movie Red will sail its way to theaters in November](https://www.polygon.com/23349175/one-piece-film-red-release-date)
+ - [I didn&#39;t expect to love Corsair&#39;s bendable OLED screen this much](https://www.pcgamer.com/corsair-xeneon-flex-oled-gaming-monitor-hands-on)
+ - [Disney Dreamlight Valley: How to get seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
