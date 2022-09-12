@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forgettii that repeating what CNN reported is a conspiracy](http://9gag.com/gag/aKE4pR3)
- - ⏩ [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)
- - 👉 [This really cool system to take a picture with your favorite players](http://9gag.com/gag/aXnZdyb)<!-- MEMES:END -->
+ - 💣 [I hope it&#39;s not a trap](http://9gag.com/gag/anzedrq)
+ - ⏩ [I am convinced that I would be the perfect stepfather](http://9gag.com/gag/adPydd9)
+ - 👉 [If I fits I sits](http://9gag.com/gag/aOxojMy)<!-- MEMES:END -->
 
 ---
 
