@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton’s co-founder and former CEO rides into the sunset](https://www.theverge.com/2022/9/12/23349809/peloton-john-foley-co-founder-former-ceo-leaving-company-resign)
- - [Cledara, which gives companies greater control and insights into their SaaS subscriptions, raised a $20M Series A led by CommerzVentures &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/220912/p24#a220912p24)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Oracle reports Q1 revenue up 18% YoY to $11.4B; total cloud revenue was up 45% YoY to $3.6B, and health data provider Cerner, acquired in June, generated $1.4B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220912/p27#a220912p27)
+ - [The Nissan Leaf can now officially power homes using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)
+ - [Uber has agreed to pay New Jersey $100M in back taxes after the state said that the company had misclassified its drivers as independent contractors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220912/p26#a220912p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
