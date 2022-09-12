@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope it&#39;s not a trap](http://9gag.com/gag/anzedrq)
- - ⏩ [I am convinced that I would be the perfect stepfather](http://9gag.com/gag/adPydd9)
+ - 💣 [Lucky girl](http://9gag.com/gag/aQE6r2q)
+ - ⏩ [Autobots transform!](http://9gag.com/gag/agordWq)
  - 👉 [If I fits I sits](http://9gag.com/gag/aOxojMy)<!-- MEMES:END -->
 
 ---
