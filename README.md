@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [State of Play returns tomorrow, September 13](https://blog.playstation.com/2022/09/12/state-of-play-returns-tomorrow-september-13/)
- - [Future Assassin&#39;s Creed Games Are Ditching Modern Day Stuff, And That&#39;s Disappointing](https://kotaku.com/assassin-s-creed-modern-day-story-meta-infinity-ubisoft-1849526855)
- - [Secretlab’s Fortnite Battle Bus Chair Is Comfy, If A Little Big](https://kotaku.com/secretlab-s-fortnite-battle-bus-chair-is-comfy-if-a-li-1849527193)<!-- GAME:END -->
+ - [A new PlayStation State of Play is coming on Sept. 13](https://www.polygon.com/23349991/playstation-state-of-play-september-2022-tgs-tokyo-game-show)
+ - [Crafty mod adds glorious PS1 Neversoft Spider-Man to hero&#39;s latest outing](https://www.pcgamer.com/crafty-mod-adds-glorious-ps1-neversoft-spider-man-to-heros-latest-outing)
+ - [Overwatch fans revolt over Blizzard&#39;s plan to lock heroes behind battle pass](https://www.pcgamer.com/overwatch-fans-revolt-over-blizzards-plan-to-lock-heroes-behind-battle-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
