@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Falling down](http://9gag.com/gag/aZDqVgz)
+ - 💣 [World&#39;s 2nd army](http://9gag.com/gag/a2KEj5O)
  - ⏩ [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)
- - 👉 [Teacher says something so controversial and yet so brave in front of liberal school district](http://9gag.com/gag/aA0BmgE)<!-- MEMES:END -->
+ - 👉 [This really cool system to take a picture with your favorite players](http://9gag.com/gag/aXnZdyb)<!-- MEMES:END -->
 
 ---
 
