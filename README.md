@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best PC games right now](https://www.pcgamer.com/best-pc-games)
- - [One Piece Gets Every Volume Merged Into One Long, 21,450 Page...Piece](https://kotaku.com/one-piece-art-eiichiro-oda-ilan-manouach-books-order-1849526104)
- - [Assassin’s Creed Mirage isn’t actually rated Adults Only, won’t have ‘real gambling’](https://www.polygon.com/23349244/assassins-creed-mirage-rating-adults-only-gambling-microtransactions)<!-- GAME:END -->
+ - [Thank you to this YouTuber for explaining Immortality to me](https://www.polygon.com/23349595/immortality-half-mermaid-explained)
+ - [Scrooge McDuck won’t let me buy a sick gaming PC](https://www.polygon.com/23349387/disney-dreamlight-valley-scrooge-mcduck-gaming-pc-nintendo-switch-xbox-series-x-game-pass-ps5-ps4)
+ - [The best PC games right now](https://www.pcgamer.com/best-pc-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
