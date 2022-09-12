@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s cuffing season in new trailer for Kid Cudi’s Entergalactic Netflix television event](https://www.theverge.com/2022/9/12/23348948/entergalactic-netflix-trailer-kid-cudi)
- - [Blue Origin’s uncrewed capsule safely escapes after midflight anomaly](https://www.theverge.com/2022/9/12/23348958/blue-origin-new-shepard-crew-capsule-launch-anomaly-uncrewed)
- - [Google also has iOS 16 Lock Screen widgets - here&#39;s what they look like](https://appleinsider.com/articles/22/09/12/google-also-has-ios-16-lock-screen-widgets---heres-what-they-look-like?utm_medium=rss)<!-- TECH:END -->
+ - [The top 50 features in iOS 16 that will make your iPhone better](https://appleinsider.com/articles/22/09/12/the-top-50-features-in-ios-16-that-will-make-your-iphone-better?utm_medium=rss)
+ - [There’s a new map of climate disasters in America](https://www.theverge.com/2022/9/12/23348911/climate-disaster-us-map-flood-fire-heatwave-drought)
+ - [Apple releases tvOS 16 with Matter support, HDR10+ &amp; other minor updates](https://appleinsider.com/articles/22/09/12/apple-releases-tvos-16-with-matter-support-hdr10-other-minor-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
