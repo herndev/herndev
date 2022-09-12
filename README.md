@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
- - ⏩ [Why 99% of all movies and TV series today are garbage. - spitting facts.](http://9gag.com/gag/az27YeN)
- - 👉 [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)<!-- MEMES:END -->
+ - ⏩ [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)
+ - 👉 [It is like that](http://9gag.com/gag/aeQKWp5)<!-- MEMES:END -->
 
 ---
 
