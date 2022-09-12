@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is like that](http://9gag.com/gag/aeQKWp5)
- - ⏩ [Arials on acoustic guitar](http://9gag.com/gag/aA0BZbg)
- - 👉 [This is how 70cc motorcycle engine is assembled](http://9gag.com/gag/ajVQRBg)<!-- MEMES:END -->
+ - 💣 [Only 2 after death](http://9gag.com/gag/awZN8N4)
+ - ⏩ [Never forgettii that repeating what CNN reported is a conspiracy](http://9gag.com/gag/aKE4pR3)
+ - 👉 [Reminds me of something](http://9gag.com/gag/ap9KV45)<!-- MEMES:END -->
 
 ---
 
