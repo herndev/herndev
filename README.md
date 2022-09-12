@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mass Effect mod adds a mineral stock market so you can trade instead of probing](https://www.pcgamer.com/mass-effect-mod-adds-a-mineral-stock-market-so-you-can-trade-instead-of-probing)
- - [The Battlefield Series Is Now 20 Years Old](https://kotaku.com/battlefield-20-20th-anniversary-birthday-dice-ea-1849523492)
- - [1995 Gargoyles Game Is Getting A Remaster](https://kotaku.com/gargoyles-sega-genesis-remaster-remake-disney-pc-1849523414)<!-- GAME:END -->
+ - [Daemon’s House of the Dragon arc is patterned after a pivotal Targaryen tyrant](https://www.polygon.com/23343681/daemon-house-dragon-maegor-westeros-history-martin-explained)
+ - [House of the Dragon reminds us there are no normal families in King’s Landing](https://www.polygon.com/23344676/house-dragon-episode-4-review-targaryen)
+ - [Mass Effect mod adds a mineral stock market so you can trade instead of probing](https://www.pcgamer.com/mass-effect-mod-adds-a-mineral-stock-market-so-you-can-trade-instead-of-probing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
