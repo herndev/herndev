@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top 50 features in iOS 16 that will make your iPhone better](https://appleinsider.com/articles/22/09/12/the-top-50-features-in-ios-16-that-will-make-your-iphone-better?utm_medium=rss)
- - [There’s a new map of climate disasters in America](https://www.theverge.com/2022/9/12/23348911/climate-disaster-us-map-flood-fire-heatwave-drought)
- - [Apple releases tvOS 16 with Matter support, HDR10+ &amp; other minor updates](https://appleinsider.com/articles/22/09/12/apple-releases-tvos-16-with-matter-support-hdr10-other-minor-updates?utm_medium=rss)<!-- TECH:END -->
+ - [New attack can unlock and start a Tesla Model Y in seconds, say researchers](https://www.theverge.com/2022/9/12/23348765/tesla-model-y-unlock-drive-car-thief-nfc-relay-attack)
+ - [Five years ago, the iPhone X set the table for what&#39;s come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)
+ - [The head of Halo is leaving Xbox after 15 years in charge](https://www.theverge.com/2022/9/12/23349309/halo-infinite-343-industries-bonnie-ross-xbox)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
