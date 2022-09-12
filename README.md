@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1995 Gargoyles Game Is Getting A Remaster](https://kotaku.com/gargoyles-sega-genesis-remaster-remake-disney-pc-1849523414)
- - [It&#39;s all a bit Event Horizon meets Aliens in the demo for this sci-fi horror roguelike](https://www.pcgamer.com/its-all-a-bit-event-horizon-meets-aliens-in-the-demo-for-this-sci-fi-horror-roguelike)
- - [Five new Steam games you probably missed &lpar;September 12, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-12-2022)<!-- GAME:END -->
+ - [Mass Effect mod adds a mineral stock market so you can trade instead of probing](https://www.pcgamer.com/mass-effect-mod-adds-a-mineral-stock-market-so-you-can-trade-instead-of-probing)
+ - [The Battlefield Series Is Now 20 Years Old](https://kotaku.com/battlefield-20-20th-anniversary-birthday-dice-ea-1849523492)
+ - [1995 Gargoyles Game Is Getting A Remaster](https://kotaku.com/gargoyles-sega-genesis-remaster-remake-disney-pc-1849523414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
