@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky girl](http://9gag.com/gag/aQE6r2q)
- - ⏩ [Autobots transform!](http://9gag.com/gag/agordWq)
- - 👉 [If I fits I sits](http://9gag.com/gag/aOxojMy)<!-- MEMES:END -->
+ - 💣 [Falling down](http://9gag.com/gag/aZDqVgz)
+ - ⏩ [That&#39;s just ignorant](http://9gag.com/gag/a4opxKp)
+ - 👉 [Christmas is coming soon...](http://9gag.com/gag/a1PpqeP)<!-- MEMES:END -->
 
 ---
 
