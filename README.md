@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a man getting saved](http://9gag.com/gag/az27Qoq)
- - ⏩ [Stuntpeople demonstrate how camera angles, well time choreography, and selling the hit makes this blow look real.](http://9gag.com/gag/axoEAYK)
- - 👉 [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)<!-- MEMES:END -->
+ - 💣 [Never forgettii that repeating what CNN reported is a conspiracy](http://9gag.com/gag/aKE4pR3)
+ - ⏩ [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)
+ - 👉 [This really cool system to take a picture with your favorite players](http://9gag.com/gag/aXnZdyb)<!-- MEMES:END -->
 
 ---
 
