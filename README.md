@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DirecTV’s NFL Sunday Ticket website and app crash on opening weekend](https://www.theverge.com/2022/9/11/23347586/directv-nfl-sunday-ticket-website-app-crash-on-opening-weekend-football)
- - [Disneyland Expands Avengers Campus With &#39;King Thanos&#39; Multiverse Ride     - CNET](https://www.cnet.com/culture/entertainment/disneyland-expands-avengers-campus-with-king-thanos-multiverse-ride/#ftag=CAD590a51e)
- - [Best Adjustable Dumbbells for Strength Training at Home     - CNET](https://www.cnet.com/health/fitness/best-adjustable-dumbbells/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Quest Pro’ pictures may show a sample of Meta’s next VR headset](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset)
+ - [Sources: Biden admin plans more curbs on US shipments to China of chipmaking tools and chips for AI, affecting Lam Research, Applied Materials, KLA Corp, others &lpar;Reuters&rpar;](http://www.techmeme.com/220911/p8#a220911p8)
+ - [Jake Paul vs. Anderson Silva: Press Conference Start Time, How to Watch, Everything to Know     - CNET](https://www.cnet.com/culture/sports/jake-paul-vs-anderson-silva-press-conference-start-time-how-to-watch-everything-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
