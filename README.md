@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In an interview, Zoom CEO Eric Yuan details the company&#39;s decision to rebrand Zoom Chat as Team Chat, seeking to better compete with Slack, Teams, and others &lpar;Harry McCracken/Fast Company&rpar;](http://www.techmeme.com/220912/p14#a220912p14)
- - [Roku updates its $30 Roku Express streaming player, launches the $130 Roku Wireless Bass subwoofer, and details Roku OS 11.5, including a short-form content hub &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/220912/p13#a220912p13)
- - [Ling Ma’s Bliss Montage Peels Back a Different Kind of Fantasy](https://www.wired.com/story/ling-ma-bliss-montage-review/)<!-- TECH:END -->
+ - [iPhone 14 battery replacements cost $30 more than previous generations](https://www.theverge.com/2022/9/12/23348705/iphone-14-apple-battery-replacement-price)
+ - [Lutron’s new smart light switches go back to basics](https://www.theverge.com/2022/9/12/23348659/lutron-caseta-new-diva-smart-dimmer-switch-price-release-date)
+ - [‘Quest Pro’ video shows Meta’s next VR headset a month before its launch event](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
