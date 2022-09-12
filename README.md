@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New attack can unlock and start a Tesla Model Y in seconds, say researchers](https://www.theverge.com/2022/9/12/23348765/tesla-model-y-unlock-drive-car-thief-nfc-relay-attack)
- - [Five years ago, the iPhone X set the table for what&#39;s come since](https://appleinsider.com/articles/22/09/12/five-years-ago-the-iphone-x-set-the-table-for-whats-come-since?utm_medium=rss)
- - [The head of Halo is leaving Xbox after 15 years in charge](https://www.theverge.com/2022/9/12/23349309/halo-infinite-343-industries-bonnie-ross-xbox)<!-- TECH:END -->
+ - [iOS 16 &amp; iOS 15.7 updaters hit with App Store terms &amp; conditions bug](https://appleinsider.com/articles/22/09/12/ios-16-ios-156-updaters-hit-with-app-store-terms-conditions-bug?utm_medium=rss)
+ - [These features are not in the initial release of iOS 16](https://appleinsider.com/articles/22/08/23/these-features-wont-be-in-the-release-of-ios-16?utm_medium=rss)
+ - [Ikea’s Swedish House Mafia record player is actually going on sale next month](https://www.theverge.com/2022/9/11/23347344/ikea-swedish-house-mafia-record-player-going-on-sale-next-month-obegransad)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
