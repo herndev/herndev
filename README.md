@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the houses in House of the Dragon — and the characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)
- - [How Forspoken fuses fast-paced spellcasting and magic-imbued parkour for its combat thrills](https://blog.playstation.com/2022/09/12/how-forspoken-fuses-fast-paced-spellcasting-and-magic-imbued-parkour-for-its-combat-thrills/)
- - [Behind the wisecracks, Forspoken is a messy, interesting action-RPG](https://www.polygon.com/23344494/forspoken-preview-release-date-square-enix)<!-- GAME:END -->
+ - [A new Nintendo Direct is coming on Sept. 13](https://www.polygon.com/23338976/nintendo-direct-september-2022-date-time)
+ - [A brand new island is coming to Toem](https://blog.playstation.com/2022/09/12/a-brand-new-island-is-coming-to-toem/)
+ - [Metal: Hellsinger puts on one hell of a show](https://www.polygon.com/reviews/23348738/metal-hellsinger-review-rhythm-based-fps-game-pass-windows-pc-xbox-series-x-ps5-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
