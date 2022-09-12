@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [It had to happen: Someone just added a Dynamic Island on an Android phone](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)
  - [Deere, which will roll out self-driving tractors this year, expects that by the end of the decade 10% of its revenue will come from software fees &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220912/p2#a220912p2)
- - [Xperia Stream launched: A full-featured cooling system for Xperia 1 IV](https://www.androidauthority.com/sony-xperia-stream-3205480/)
- - [The new Google Chromecast HD might have a big advantage over its predecessor](https://www.androidauthority.com/google-chromecast-hd-specs-3207563/)<!-- TECH:END -->
+ - [Xperia Stream launched: A full-featured cooling system](https://www.androidauthority.com/sony-xperia-stream-3205480/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
