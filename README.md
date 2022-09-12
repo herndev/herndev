@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 450 answer and hint: Monday, September 12](https://www.pcgamer.com/todays-wordle-450-answer-hint)
- - [GIFs in Microsoft Teams not just annoying, actively dangerous](https://www.pcgamer.com/gifs-in-microsoft-teams-not-just-annoying-actively-dangerous)
- - [Castlevania characters coming to Brawlhalla](https://www.pcgamer.com/castlevania-characters-coming-to-brawlhalla)<!-- GAME:END -->
+ - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)
+ - [Finnish study claims our brains sync-up while gaming together](https://www.pcgamer.com/finnish-study-claims-our-brains-sync-up-while-gaming-together)
+ - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
