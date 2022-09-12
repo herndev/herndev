@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [D23: All the Marvel, Star Wars, Disney Trailers, Parks News and More     - CNET](https://www.cnet.com/culture/entertainment/d23-all-the-marvel-star-wars-disney-trailers-and-more/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies You Need To Watch on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-you-need-to-watch-on-netflix/#ftag=CAD590a51e)
- - [The Best Netflix Documentaries You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-documentaries-you-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Quest Pro’ video shows Meta’s next VR headset a month before its launch event](https://www.theverge.com/2022/9/11/23347979/meta-quest-pro-leak-vr-project-cambria-headset)
+ - [House of the Dragon: The Targaryen Family Tree Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-the-targaryen-family-tree-explained/#ftag=CAD590a51e)
+ - [2022 Emmys: How to Watch or Stream, Start Time, Host and Red Carpet Details     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-how-to-watch-or-stream-start-time-host-and-red-carpet-details/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
