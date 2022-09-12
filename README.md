@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lucky girl](http://9gag.com/gag/aQE6r2q)
- - ⏩ [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)
- - 👉 [Tarzan should be next](http://9gag.com/gag/az27QRB)<!-- MEMES:END -->
+ - 💣 [Just a man getting saved](http://9gag.com/gag/az27Qoq)
+ - ⏩ [Stuntpeople demonstrate how camera angles, well time choreography, and selling the hit makes this blow look real.](http://9gag.com/gag/axoEAYK)
+ - 👉 [Hmmm , monkey](http://9gag.com/gag/ajVQdOG)<!-- MEMES:END -->
 
 ---
 
