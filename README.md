@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wall Street firms are gaining ground in the talent war as hiring freezes impact Silicon Valley and computer engineers move from big tech and crypto to finance &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/220912/p3#a220912p3)
- - [Daily Authority: 🍎 iPhone haves and have-nots](https://www.androidauthority.com/daily-authority-september-12-2022-3207588/)
- - [Poll: How often do you upgrade your tablet?](https://www.androidauthority.com/tablet-upgrade-poll-3207604/)<!-- TECH:END -->
+ - [Digital World Acquisition Corp., seeking to take Truth Social public via a SPAC, fails to gain shareholder approval and sets an October 10 deadline for a vote &lpar;Jack Stebbins/CNBC&rpar;](http://www.techmeme.com/220912/p5#a220912p5)
+ - [Binance-linked crypto exchange WazirX says India&#39;s Enforcement Directorate has &quot;unfrozen&quot; or restarted its bank account; the ED raided its office on August 5 &lpar;Amitoj Singh/CoinDesk&rpar;](http://www.techmeme.com/220912/p4#a220912p4)
+ - [Wall Street firms are gaining ground in the talent war as hiring freezes impact Silicon Valley and computer engineers move from big tech and crypto to finance &lpar;Nicholas Megaw/Financial Times&rpar;](http://www.techmeme.com/220912/p3#a220912p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
