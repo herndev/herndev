@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Perfect knife throwing machine](http://9gag.com/gag/aYVjRQN)
- - ⏩ [Brendan Fraser meeting Hugh Jackman](http://9gag.com/gag/az274gq)
- - 👉 [It is like that](http://9gag.com/gag/aeQKWp5)<!-- MEMES:END -->
+ - ⏩ [Me downloading a torrent after I installed fiber optics, realizing what I&#39;ve been missing all these years](http://9gag.com/gag/a7qvnB2)
+ - 👉 [Early polls from the Swedish elections show that the far right party Sverigedemokraterna \u201dSweden Democrats\u201d becomes the second biggest party, climbing from 12% to 27% in just two elections.](http://9gag.com/gag/avQ29zb)<!-- MEMES:END -->
 
 ---
 
