@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brendan Fraser accepts the performance award for `The Whale` at the TIFF Tribute Awards.](http://9gag.com/gag/a1Ppq3D)
- - ⏩ [Why not both?](http://9gag.com/gag/aBd9NjA)
- - 👉 [This Japanese guy traveled from Japan to England to watch Arsenal at the week the queen died.](http://9gag.com/gag/aeQKPNQ)<!-- MEMES:END -->
+ - 💣 [You ungrateful bastard](http://9gag.com/gag/aOxoAb3)
+ - ⏩ [Need more time](http://9gag.com/gag/aOxoNxE)
+ - 👉 [Why not both?](http://9gag.com/gag/aBd9NjA)<!-- MEMES:END -->
 
 ---
 
