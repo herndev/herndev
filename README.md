@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My LEGO IDEAS project `Sewer Heroes: Fighting the Fatberg` is dedicated to all water &amp; wastewater professionals, turning the spotlight on the urban underground in a way never seen before in LEGO form. The model needs 10,000 supporters for a chance of becoming a real LEGO set.](http://9gag.com/gag/abv3mNX)
+ - 💣 [Evil twin ? but who ?](http://9gag.com/gag/arm1DV0)
  - ⏩ [Don&#39;t think he was a fan of the Queen somehow](http://9gag.com/gag/aWGBP7Z)
- - 👉 [Security needing security](http://9gag.com/gag/aDYRrMN)<!-- MEMES:END -->
+ - 👉 [No one. Rhaenyra during the whole show.](http://9gag.com/gag/axoEnw2)<!-- MEMES:END -->
 
 ---
 
