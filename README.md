@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel says one of its 13th Gen CPUs will hit 6GHz out of the box](https://www.theverge.com/2022/9/12/23348620/intel-13th-gen-cpus-raptor-lake-6ghz-stock-8ghz-overclocked)
- - [How to create a customizable fitness interface in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-a-customizable-fitness-interface-in-ios-16?utm_medium=rss)
- - [Apple UK closing stores to mark Queen&#39;s funeral](https://appleinsider.com/articles/22/09/12/apple-uk-closing-stores-to-mark-queens-funeral?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Sept. 12 - 23% off Apple Watch Series 7, $200 off M2 MacBook Air, 24% off Level Bolt Smart Lock, more!](https://appleinsider.com/articles/22/09/12/daily-deals-sept-12---23-off-apple-watch-series-7-200-off-m2-macbook-air-24-off-level-bolt-smart-lock-more?utm_medium=rss)
+ - [Twitter rejects Elon Musk&#39;s claim that a $7.75M severance payment to Peiter Zatko violated the acquisition deal, ahead of a shareholder vote on September 13 &lpar;Arjun Kharpal/CNBC&rpar;](http://www.techmeme.com/220912/p9#a220912p9)
+ - [Preorders for iPhone 14 Pro lineup strong, iPhone 14 Plus weak](https://appleinsider.com/articles/22/09/12/preorders-for-iphone-14-pro-lineup-strong-iphone-14-plus-weak?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
