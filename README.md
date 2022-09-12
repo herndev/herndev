@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New One Piece movie Red will sail its way to theaters in November](https://www.polygon.com/23349175/one-piece-film-red-release-date)
- - [I didn&#39;t expect to love Corsair&#39;s bendable OLED screen this much](https://www.pcgamer.com/corsair-xeneon-flex-oled-gaming-monitor-hands-on)
- - [Disney Dreamlight Valley: How to get seaweed](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)<!-- GAME:END -->
+ - [Splatoon 3 is already record-settingly huge in Japan](https://www.polygon.com/23349292/splatoon-3-japan-record-sales)
+ - [Marvel&#39;s Captain America X Black Panther Game: 4 New Things We Just Learned](https://kotaku.com/marvel-black-panther-captain-america-hennig-skydance-1849525370)
+ - [Halo boss Bonnie Ross steps down as head of 343 Industries](https://www.polygon.com/23349308/halo-infinite-343-industries-founder-bonnie-ross-quits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
