@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Only 2 after death](http://9gag.com/gag/awZN8N4)
- - ⏩ [Never forgettii that repeating what CNN reported is a conspiracy](http://9gag.com/gag/aKE4pR3)
+ - 💣 [Oh. That\u2019s ok then.](http://9gag.com/gag/amAqpjX)
+ - ⏩ [Sweden goes to the polls for the general elections. Streets of Sweden:](http://9gag.com/gag/aL16Wpz)
  - 👉 [Reminds me of something](http://9gag.com/gag/ap9KV45)<!-- MEMES:END -->
 
 ---
