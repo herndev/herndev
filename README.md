@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A new browser-in-the-browser attack threatens Steam users](https://www.pcgamer.com/a-new-browser-in-the-browser-attack-threatens-steam-users)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)
- - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)
- - [Zotac&#39;s RTX 4090 smiles for the camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)<!-- GAME:END -->
+ - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
