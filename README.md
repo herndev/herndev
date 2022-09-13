@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daily reminder](http://9gag.com/gag/ay2EA88)
- - ⏩ [Bro calls out Prince Andrew sick old man, right or wrong place?](http://9gag.com/gag/az27ybm)
- - 👉 [Her enthusiasm makes this infinitely better](http://9gag.com/gag/aoKm6bm)<!-- MEMES:END -->
+ - 💣 [This bottle was turned into 3D printer filament](http://9gag.com/gag/aA0BAnE)
+ - ⏩ [I bet you will figure it out cause I\u2019m out](http://9gag.com/gag/amAqQvX)
+ - 👉 [I&#39;m black and this was my reaction after watch the new Mermaid trailer.](http://9gag.com/gag/aDYRLQd)<!-- MEMES:END -->
 
 ---
 
