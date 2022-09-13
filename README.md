@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
- - ⏩ [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
- - 👉 [JP](http://9gag.com/gag/agor6pr)<!-- MEMES:END -->
+ - 💣 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
+ - ⏩ [It&#39;s beautiful](http://9gag.com/gag/axoEK6W)
+ - 👉 [The moment he realized....](http://9gag.com/gag/abv3L5r)<!-- MEMES:END -->
 
 ---
 
