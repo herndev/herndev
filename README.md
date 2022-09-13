@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 451 answer and hint: Tuesday, September 13](https://www.pcgamer.com/todays-wordle-451-answer-hint)
- - [A new browser-in-the-browser attack threatens Steam users](https://www.pcgamer.com/a-new-browser-in-the-browser-attack-threatens-steam-users)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)<!-- GAME:END -->
+ - [How to watch today’s Nintendo Direct](https://www.polygon.com/23349605/what-time-nintendo-direct-when-september-2022)
+ - [EA and the developer of Dynasty Warriors are teaming up to take on Monster Hunter](https://www.polygon.com/23350545/ea-koei-tecmo-omega-force-monster-hunter-rival-announcement)
+ - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
