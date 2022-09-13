@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meghan Markle paused her podcast to mourn the queen, but it’s still a huge hit](https://www.theverge.com/2022/9/13/23351126/meghan-markle-podcast-queen-charles-royals-spotify-twitter-hot-pod-summit)
- - [Join The Verge at the 2022 Chicago Humanities Festival!](https://www.theverge.com/23344323/verge-series-chicago-humanities-festival-2022-tickets)
- - [High demand for iPhone 14 Pro line crashed Chinese servers](https://appleinsider.com/articles/22/09/13/high-demand-for-iphone-14-pro-line-crashed-chinese-servers?utm_medium=rss)<!-- TECH:END -->
+ - [Hot Pod Summit is back at On Air LA Annex 2022!](https://www.theverge.com/23348881/hot-pod-summit-on-air-fext-la-annex-2022-kcrw)
+ - [Zesty, which helps companies reduce cloud costs by automatically tuning resources to meet demand, raised a $75M Series B led by B Capital and Sapphire Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p35#a220913p35)
+ - [How to enable the haptic keyboard in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-enable-the-the-haptic-keyboard-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
