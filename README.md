@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian soldier surprise his son](http://9gag.com/gag/arm1wj7)
- - ⏩ [Better trilogy than star wars](http://9gag.com/gag/avQ2wBX)
+ - 💣 [Lol](http://9gag.com/gag/aDYRvVK)
+ - ⏩ [Modern society is built by Man and maintain by Man](http://9gag.com/gag/aA0B5QZ)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
