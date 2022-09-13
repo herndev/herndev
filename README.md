@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When the Big One Hits Portland, Cargo Bikers Will Save You](https://www.wired.com/story/when-the-big-one-hits-portland-cargo-bikers-will-save-you/)
- - [Indian conglomerate Vedanta and Foxconn sign a $20B deal to build a semiconductor unit in the coastal Gujarat state, home to Prime Minister Narendra Modi &lpar;TechCrunch&rpar;](http://www.techmeme.com/220913/p11#a220913p11)
- - [Battery percentage won&#39;t show on all iPhones with iOS 16](https://appleinsider.com/articles/22/09/13/battery-percentage-wont-show-on-all-iphones-with-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Europe’s Drought Might Force Acceptance of Gene-Edited Crops](https://www.wired.com/story/europe-drought-gene-editing/)
+ - [How Whistleblowers Navigate a Security Minefield](https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/)
+ - [Kate Beaton on Creating the Best Graphic Novel of 2022](https://www.wired.com/story/kate-beaton-ducks-q-and-a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
