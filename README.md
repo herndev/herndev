@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 Emmys Live Updates: All the Winner Announcements     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-updates-all-the-winner-announcements/#ftag=CAD590a51e)
- - [Sources: a majority of Twitter&#39;s shareholders have voted in favor of the $44B sale to Musk, whose $54.20 per share deal looks pricey in the current environment &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220912/p32#a220912p32)
- - [Pokemon Go&#39;s &quot;Test Your Mettle&quot; Event Adds Mega Aggron, New Ultra Beasts and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-gos-test-your-mettle-event-adds-mega-aggron-new-ultra-beasts-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Apple&#39;s Cooperative R&amp;D Agreement with the TSA on digital IDs and how it could disadvantage Apple&#39;s rivals in developing mobile identity credentials &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/220913/p1#a220913p1)
+ - [Apple TV+ hit &#39;Ted Lasso&#39; wins Emmy for Outstanding Comedy Series](https://appleinsider.com/articles/22/09/13/apple-tv-hit-ted-lasso-wins-emmy-for-outstanding-comedy-series?utm_medium=rss)
+ - [Majority of Twitter Shareholders Reportedly Vote to OK Musk&#39;s Takeover     - CNET](https://www.cnet.com/news/social-media/majority-of-twitter-shareholders-reportedly-vote-to-ok-musks-takeover/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
