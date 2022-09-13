@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Litmus, which helps manufacturers collect data from IoT devices for applications like AI, raised a $30M Series B led by industrial automation company Belden &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p20#a220913p20)
- - [Daily deals Sept. 13 - $30 off AirPods, $150 off Samsung Odyssey 27-inch Monitor, $50 off Shure Motiv Mic for iOS, more!](https://appleinsider.com/articles/22/09/13/daily-deals-sept-13---30-off-airpods-150-off-samsung-odyssey-27-inch-monitor-50-off-shure-motiv-mic-for-ios-more?utm_medium=rss)
- - [We have a new Verge comment system!](https://www.theverge.com/2022/9/13/23348811/the-verge-new-comments-coral)<!-- TECH:END -->
+ - [Amazon updates its entry-level Kindle with USB-C, 16GB storage as standard, a blue color option, and improved 300ppi display, available for $100 with ads &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/220913/p25#a220913p25)
+ - [Grindr appoints George Arison as CEO, starting October 19, ahead of its planned SPAC merger; Arison was previously CEO at auto e-commerce marketplace Shift &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220913/p24#a220913p24)
+ - [Sonos releases long-awaited Sub Mini for $429](https://appleinsider.com/articles/22/09/13/sonos-releases-long-awaited-sub-mini-for-429?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
