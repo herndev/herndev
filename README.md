@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch today’s Nintendo Direct](https://www.polygon.com/23349605/what-time-nintendo-direct-when-september-2022)
- - [EA and the developer of Dynasty Warriors are teaming up to take on Monster Hunter](https://www.polygon.com/23350545/ea-koei-tecmo-omega-force-monster-hunter-rival-announcement)
- - [Best external SSD for gaming on PC, PS5, and Xbox Series X](https://www.pcgamer.com/best-external-ssd-for-game-storage)<!-- GAME:END -->
+ - [Harrison Ford really seems to care about Indiana Jones, and it’s infectious](https://www.polygon.com/23349040/harrison-ford-indiana-jones-5-d23-ke-huy-quan)
+ - [Ubisoft wants to stop making games that try to be all things to all people](https://www.pcgamer.com/ubisoft-wants-to-stop-making-games-that-try-to-be-all-things-to-all-people)
+ - [Average graphics card prices have halved since the start of 2022](https://www.pcgamer.com/average-graphics-card-prices-have-halved-since-the-start-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
