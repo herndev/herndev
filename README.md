@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brendan Fraser wins TIFF performance award](http://9gag.com/gag/agorbLK)
+ - 💣 [Daily reminder](http://9gag.com/gag/ay2EA88)
  - ⏩ [Bro calls out Prince Andrew sick old man, right or wrong place?](http://9gag.com/gag/az27ybm)
- - 👉 [I bet you will figure it out cause I\u2019m out](http://9gag.com/gag/amAqQvX)<!-- MEMES:END -->
+ - 👉 [Her enthusiasm makes this infinitely better](http://9gag.com/gag/aoKm6bm)<!-- MEMES:END -->
 
 ---
 
