@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aDYRvVK)
- - ⏩ [Modern society is built by Man and maintain by Man](http://9gag.com/gag/aA0B5QZ)
+ - 💣 [Current brazilian government is killing the amazon : / no banana for scale unfortunatelly](http://9gag.com/gag/ap9KZjB)
+ - ⏩ [Bonjour](http://9gag.com/gag/a7qvRbz)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
