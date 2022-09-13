@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Nissan Leaf can now officially power buildings using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)
- - [Robert Iger, CEO of Walt Disney from 2005 to 2020, joins VC firm Thrive Capital, founded by Joshua Kushner, as a venture partner &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220913/p30#a220913p30)
- - [And the Emmy goes to...](https://www.theverge.com/2022/9/13/23350612/emmy-winners-2022)<!-- TECH:END -->
+ - [Meghan Markle paused her podcast to mourn the queen, but it’s still a huge hit](https://www.theverge.com/2022/9/13/23351126/meghan-markle-podcast-queen-charles-royals-spotify-twitter-hot-pod-summit)
+ - [Join The Verge at the 2022 Chicago Humanities Festival!](https://www.theverge.com/23344323/verge-series-chicago-humanities-festival-2022-tickets)
+ - [High demand for iPhone 14 Pro line crashed Chinese servers](https://appleinsider.com/articles/22/09/13/high-demand-for-iphone-14-pro-line-crashed-chinese-servers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
