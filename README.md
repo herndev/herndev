@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darren Aronofsky’s The Whale is an act of hate disguised as tough love](https://www.polygon.com/reviews/23351261/the-whale-review-brendan-fraser)
- - [Nobody Saves the World — Frozen Hearth DLC is out Now](https://news.xbox.com/en-us/2022/09/13/nobody-saves-the-world-frozen-hearth-dlc-is-out-now/)
- - [Netflix’s Cyberpunk: Edgerunners Tells The Story I Wished For In Cyberpunk 2077](https://kotaku.com/cyberpunk-edgerunners-netflix-review-anime-trigger-2077-1849530790)<!-- GAME:END -->
+ - [How to watch Sony’s new State of Play livestream](https://www.polygon.com/23351483/state-of-play-playstation-time-september-2022-sony-ps5-psvr2)
+ - [Disney Dreamlight Valley: The secret trick for crossing blocked bridges](https://www.pcgamer.com/disney-dreamlight-valley-the-secret-trick-for-crossing-blocked-bridges)
+ - [Let’s Remember Some Terrible Square Enix Video Game Names](https://kotaku.com/final-fantasy-square-enix-octopath-traveler-2-forspoken-1849531112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
