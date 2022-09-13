@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukranian foreign legion in Izyum.](http://9gag.com/gag/axoEe4L)
- - ⏩ [Modern Women](http://9gag.com/gag/a9qj4o1)
- - 👉 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)<!-- MEMES:END -->
+ - 💣 [No naps allowed, what&#39;s your solution for migraine ?](http://9gag.com/gag/a04vD9n)
+ - ⏩ [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
+ - 👉 [JP](http://9gag.com/gag/agor6pr)<!-- MEMES:END -->
 
 ---
 
