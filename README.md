@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)
- - [4 Easy Disney Dreamlight Valley Tips To Level Friendship Fast](https://kotaku.com/disney-dreamlight-valley-level-friendship-fast-farm-sim-1849532140)
- - [Everything We Saw During The Nintendo Direct Blowout](https://kotaku.com/nintendo-direct-trailer-zelda-tears-kingdom-switch-1849531647)<!-- GAME:END -->
+ - [George A. Romero’s ‘lost film’ is terrible, but horror fans are right to be excited](https://www.polygon.com/streaming/22529576/the-amusement-park-review-george-a-romero-lost-film)
+ - [A huge nerf to one of Destiny 2&#39;s most powerful exotics got left off today&#39;s patch notes](https://www.pcgamer.com/a-huge-nerf-to-one-of-destiny-2s-most-powerful-exotics-got-left-off-todays-patch-notes)
+ - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
