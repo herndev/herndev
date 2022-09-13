@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Apple&#39;s Cooperative R&amp;D Agreement with the TSA on digital IDs and how it could disadvantage Apple&#39;s rivals in developing mobile identity credentials &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/220913/p1#a220913p1)
- - [iOS 16 Is Available Now: New Lock Screen, Editable Messages and Every Other Change     - CNET](https://www.cnet.com/tech/mobile/apples-ios-16-is-available-now-new-lock-screen-editable-messages-every-other-change/#ftag=CAD590a51e)
- - [Apple TV+ hit &#39;Ted Lasso&#39; wins Emmy for Outstanding Comedy Series](https://appleinsider.com/articles/22/09/13/apple-tv-hit-ted-lasso-wins-emmy-for-outstanding-comedy-series?utm_medium=rss)<!-- TECH:END -->
+ - [Northzone, the European VC firm that backed Spotify and Klarna, has raised a &amp;euro;1B fund, its largest to date, and will allocate ~40% to later-stage investments &lpar;Hasan Chowdhury/Insider&rpar;](http://www.techmeme.com/220913/p2#a220913p2)
+ - [Seahawks Beat Russell Wilson, Broncos in Seriously Weird Monday Night Football Game     - CNET](https://www.cnet.com/culture/seahawks-beat-russell-wilson-broncos-in-seriously-weird-monday-night-football-game/#ftag=CAD590a51e)
+ - [Peloton Co-Founders Leaving Company Amid Executive Shakeup     - CNET](https://www.cnet.com/health/fitness/peloton-co-founders-leaving-company-amid-executive-shakeup/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
