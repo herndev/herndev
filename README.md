@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Octopath Traveler has a sequel, due early next year](https://www.polygon.com/23350895/octopath-traveler-2-trailer-release-date)
- - [Breath of the Wild 2 finally gets an official name and a release date](https://www.polygon.com/22690064/zela-botw-2-tears-of-the-kingdom-title-release-date-nintendo-switch)
- - [Pikmin 4 comes to Nintendo Switch next year](https://www.polygon.com/23350940/pikmin-4-release-date-nintendo-switch-announced)<!-- GAME:END -->
+ - [Five Reasons Why Little Orpheus Is a Journey Like No Other](https://news.xbox.com/en-us/2022/09/13/five-reasons-why-little-orpheus-is-a-journey-like-no-other/)
+ - [Warhammer 40K’s latest legend improves one of Magic’s oldest cards](https://www.polygon.com/23349573/mtg-40k-preview-ghyrson-starn-kelermorph-red-blue)
+ - [The latest RTX 4090 number-porn rumour suggests a GPU with more than 75B transistors](https://www.pcgamer.com/nvidia-rtx-4090-75b-transistors-rumour)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
