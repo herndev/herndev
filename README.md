@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Fire Emblem Is Coming To Switch, And Marth&#39;s Back](https://kotaku.com/fire-emblem-engage-nintendo-switch-trailer-direct-1849529563)
- - [Discord Voice Is Now Available for Everyone on Xbox Consoles](https://news.xbox.com/en-us/2022/09/13/discord-voice-now-available-for-everyone-on-xbox/)
- - [Jeweller spends over 700 hours recreating Warcraft&#39;s most legendary blade in gold and silver](https://www.pcgamer.com/jeweller-spends-over-700-hours-recreating-warcrafts-most-legendary-blade-in-gold-and-silver)<!-- GAME:END -->
+ - [Octopath Traveler has a sequel, due early next year](https://www.polygon.com/23350895/octopath-traveler-2-trailer-release-date)
+ - [Breath of the Wild 2 finally gets an official name and a release date](https://www.polygon.com/22690064/zela-botw-2-tears-of-the-kingdom-title-release-date-nintendo-switch)
+ - [Pikmin 4 comes to Nintendo Switch next year](https://www.polygon.com/23350940/pikmin-4-release-date-nintendo-switch-announced)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
