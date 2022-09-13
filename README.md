@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon updates its entry-level Kindle with USB-C, 16GB storage as standard, a blue color option, and improved 300ppi display, available for $100 with ads &lpar;Andrew Liszewski/Gizmodo&rpar;](http://www.techmeme.com/220913/p25#a220913p25)
- - [Grindr appoints George Arison as CEO, starting October 19, ahead of its planned SPAC merger; Arison was previously CEO at auto e-commerce marketplace Shift &lpar;Michael Tobin/Bloomberg&rpar;](http://www.techmeme.com/220913/p24#a220913p24)
- - [Sonos releases long-awaited Sub Mini for $429](https://appleinsider.com/articles/22/09/13/sonos-releases-long-awaited-sub-mini-for-429?utm_medium=rss)<!-- TECH:END -->
+ - [Live stream of Twitter whistleblower Peiter &quot;Mudge&quot; Zatko&#39;s testimony before the Senate Judiciary Committee &lpar;Senate.gov&rpar;](http://www.techmeme.com/220913/p27#a220913p27)
+ - [Apple Watch Ultra battery is much larger than Series 8&#39;s](https://appleinsider.com/articles/22/09/13/apple-watch-ultra-battery-is-much-larger-than-series-8s?utm_medium=rss)
+ - [Phil Schiller puts App Store users before developers &amp; profits](https://appleinsider.com/articles/22/09/13/phil-schiller-puts-app-store-users-before-developers-profits?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
