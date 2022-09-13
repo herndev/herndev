@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight Rabbit](http://9gag.com/gag/aYVj51w)
- - ⏩ [Ukrainian soldier surprise his son](http://9gag.com/gag/arm1wj7)
+ - 💣 [Ukrainian soldier surprise his son](http://9gag.com/gag/arm1wj7)
+ - ⏩ [Better trilogy than star wars](http://9gag.com/gag/avQ2wBX)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
