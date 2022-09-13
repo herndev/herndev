@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k the IT guy](http://9gag.com/gag/a4opO1Z)
- - ⏩ [What a save!](http://9gag.com/gag/aKE4oBW)
+ - 💣 [What a save!](http://9gag.com/gag/aKE4oBW)
+ - ⏩ [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
