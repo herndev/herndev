@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
- - ⏩ [Dreams](http://9gag.com/gag/aOxoLq6)
- - 👉 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)<!-- MEMES:END -->
+ - 💣 [Harsh reality](http://9gag.com/gag/aBd9pnN)
+ - ⏩ [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
+ - 👉 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
 
 ---
 
