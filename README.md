@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
- - ⏩ [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
+ - 💣 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
+ - ⏩ [Dreams](http://9gag.com/gag/aOxoLq6)
  - 👉 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)<!-- MEMES:END -->
 
 ---
