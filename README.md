@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Europe’s Drought Might Force Acceptance of Gene-Edited Crops](https://www.wired.com/story/europe-drought-gene-editing/)
- - [How Whistleblowers Navigate a Security Minefield](https://www.wired.com/story/whistleblower-safety-mudge-twitter-senate-hearing/)
- - [Kate Beaton on Creating the Best Graphic Novel of 2022](https://www.wired.com/story/kate-beaton-ducks-q-and-a/)<!-- TECH:END -->
+ - [Litmus, which helps manufacturers collect data from IoT devices for applications like AI, raised a $30M Series B led by industrial automation company Belden &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220913/p20#a220913p20)
+ - [Daily deals Sept. 13 - $30 off AirPods, $150 off Samsung Odyssey 27-inch Monitor, $50 off Shure Motiv Mic for iOS, more!](https://appleinsider.com/articles/22/09/13/daily-deals-sept-13---30-off-airpods-150-off-samsung-odyssey-27-inch-monitor-50-off-shure-motiv-mic-for-ios-more?utm_medium=rss)
+ - [We have a new Verge comment system!](https://www.theverge.com/2022/9/13/23348811/the-verge-new-comments-coral)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
