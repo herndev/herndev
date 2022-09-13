@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a save!](http://9gag.com/gag/aKE4oBW)
- - ⏩ [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
- - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
+ - 💣 [F**k the IT guy](http://9gag.com/gag/a4opO1Z)
+ - ⏩ [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
+ - 👉 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)<!-- MEMES:END -->
 
 ---
 
