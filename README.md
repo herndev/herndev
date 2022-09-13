@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harrison Ford really seems to care about Indiana Jones, and it’s infectious](https://www.polygon.com/23349040/harrison-ford-indiana-jones-5-d23-ke-huy-quan)
- - [Ubisoft wants to stop making games that try to be all things to all people](https://www.pcgamer.com/ubisoft-wants-to-stop-making-games-that-try-to-be-all-things-to-all-people)
- - [Average graphics card prices have halved since the start of 2022](https://www.pcgamer.com/average-graphics-card-prices-have-halved-since-the-start-of-2022)<!-- GAME:END -->
+ - [Cyberpunk: Edgerunners blows past Cyberpunk 2077 to be its own visually ecstatic ride](https://www.polygon.com/reviews/23349865/cyberpunk-edgerunners-netflix-review-2077)
+ - [Stealth Games Like This New Sneak &#39;Em Up Are A Rare Breed](https://kotaku.com/gloomwood-new-blood-stealth-immersive-sim-thief-dusk-1849526617)
+ - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
