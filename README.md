@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unreleased Meta VR headset possibly leaked after found discarded in Hotel](https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel)
- - [There&#39;s A Cool Story Behind Rings Of Power&#39;s Intro](https://kotaku.com/lord-rings-power-amazon-tv-credits-explained-cymatics-1849528150)
- - [343 Industries founder leaves company due to family medical issue](https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue)<!-- GAME:END -->
+ - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)
+ - [Zotac&#39;s RTX 4090 smiles for the camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)
+ - [Unreleased Meta VR headset possibly leaked after found discarded in Hotel](https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
