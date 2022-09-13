@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk: Edgerunners blows past Cyberpunk 2077 to be its own visually ecstatic ride](https://www.polygon.com/reviews/23349865/cyberpunk-edgerunners-netflix-review-2077)
- - [Stealth Games Like This New Sneak &#39;Em Up Are A Rare Breed](https://kotaku.com/gloomwood-new-blood-stealth-immersive-sim-thief-dusk-1849526617)
- - [The Woman King has a fierce fire in its belly](https://www.polygon.com/reviews/23349229/the-woman-king-review)<!-- GAME:END -->
+ - [A New Fire Emblem Is Coming To Switch, And Marth&#39;s Back](https://kotaku.com/fire-emblem-engage-nintendo-switch-trailer-direct-1849529563)
+ - [Discord Voice Is Now Available for Everyone on Xbox Consoles](https://news.xbox.com/en-us/2022/09/13/discord-voice-now-available-for-everyone-on-xbox/)
+ - [Jeweller spends over 700 hours recreating Warcraft&#39;s most legendary blade in gold and silver](https://www.pcgamer.com/jeweller-spends-over-700-hours-recreating-warcrafts-most-legendary-blade-in-gold-and-silver)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
