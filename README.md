@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Viral internet documentary series Channel 5 is getting the HBO treatment](https://www.theverge.com/2022/9/13/23351338/andrew-callaghan-channel-5-documentary-january-6-insurrection-hbo-a24-deal)
- - [GoldenEye 007 Is Coming to Nintendo Switch With Online Multiplayer, Xbox With 4K Visuals     - CNET](https://www.cnet.com/tech/gaming/goldeneye-007-is-coming-to-nintendo-switch-with-online-multiplayer/#ftag=CAD590a51e)
- - [These New iPhone 14 Features Have Been on Android for Years     - CNET](https://www.cnet.com/tech/mobile/these-new-iphone-14-features-have-been-on-android-for-years/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The best third-party widgets for your iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/best/the-best-third-party-widgets-for-your-ios-16-lock-screen?utm_medium=rss)
+ - [Facebook and Messenger take a hint from Discord for new Community Chats](https://www.theverge.com/2022/9/13/23351094/facebook-community-chats-launch-messenger-groups)
+ - [The average July in-app purchase price rose 40% YoY on iOS and 9% YoY on Google Play; Adjust data: iOS IAP prices correlate with the rising cost per install &lpar;Adam Blacker/Apptopia Blog&rpar;](http://www.techmeme.com/220913/p37#a220913p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
