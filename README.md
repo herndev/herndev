@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pikmin 4 is coming in 2023](https://www.theverge.com/2022/9/13/23350913/pikmin-4-announced-2023-release-date-nintendo-switch)
- - [The Legend of Zelda: Tears of the Kingdom is the sequel to Breath of the Wild](https://www.theverge.com/2022/9/13/23350972/the-legend-of-zelda-tears-of-the-kingdom-sequel-breath-of-the-wild-2-nintendo-switch)
- - [Compared: iPhone 14 vs iPhone 14 Pro](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-vs-iphone-14-pro?utm_medium=rss)<!-- TECH:END -->
+ - [The Nissan Leaf can now officially power buildings using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)
+ - [Robert Iger, CEO of Walt Disney from 2005 to 2020, joins VC firm Thrive Capital, founded by Joshua Kushner, as a venture partner &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220913/p30#a220913p30)
+ - [And the Emmy goes to...](https://www.theverge.com/2022/9/13/23350612/emmy-winners-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
