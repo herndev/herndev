@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did you know crocodiles can gallop?](http://9gag.com/gag/a9qj43o)
+ - 💣 [The moment he realized....](http://9gag.com/gag/abv3L5r)
  - ⏩ [It&#39;s beautiful](http://9gag.com/gag/axoEK6W)
- - 👉 [The moment he realized....](http://9gag.com/gag/abv3L5r)<!-- MEMES:END -->
+ - 👉 [Brendan Fraser wins TIFF performance award](http://9gag.com/gag/agorbLK)<!-- MEMES:END -->
 
 ---
 
