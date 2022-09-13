@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah sure \u2026](http://9gag.com/gag/ap9Kww5)
- - ⏩ [Happy for this man](http://9gag.com/gag/adPywbD)
+ - 💣 [How a Neurosurgeon drills through your skull and doesn\u2019t damage your brain \ud83e\udde0. CT@cam0wens](http://9gag.com/gag/aBd95LD)
+ - ⏩ [Traditional Georgian dish KHACHAPURI. Cheese pie. The filling can be very diverse.](http://9gag.com/gag/a5Xp3Kg)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
