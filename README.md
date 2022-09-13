@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oracle reports Q1 revenue up 18% YoY to $11.4B; total cloud revenue was up 45% YoY to $3.6B, and health data provider Cerner, acquired in June, generated $1.4B &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220912/p27#a220912p27)
- - [The Nissan Leaf can now officially power homes using bidirectional charging](https://www.theverge.com/2022/9/12/23349971/nissan-leaf-bidirectional-charging-approved-v2h-v2g-fermata-energy)
- - [Uber has agreed to pay New Jersey $100M in back taxes after the state said that the company had misclassified its drivers as independent contractors &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/220912/p26#a220912p26)<!-- TECH:END -->
+ - [Apple will let you roll back the iPhone’s security patches](https://www.theverge.com/2022/9/12/23350044/apple-iphone-ios-rapid-response-security)
+ - [EA and Koei Tecmo are partnering on ‘the next great hunting game’](https://www.theverge.com/2022/9/12/23350034/ea-koei-tecmo-next-great-hunting-game-monster-hunter-originals)
+ - [Senate Judiciary Committee leaders send Parag Agrawal a letter asking over a dozen questions about Twitter&#39;s security practices, request responses by Sept. 26 &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/220912/p29#a220912p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
