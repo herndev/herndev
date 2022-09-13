@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best third-party widgets for your iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/best/the-best-third-party-widgets-for-your-ios-16-lock-screen?utm_medium=rss)
- - [Facebook and Messenger take a hint from Discord for new Community Chats](https://www.theverge.com/2022/9/13/23351094/facebook-community-chats-launch-messenger-groups)
- - [The average July in-app purchase price rose 40% YoY on iOS and 9% YoY on Google Play; Adjust data: iOS IAP prices correlate with the rising cost per install &lpar;Adam Blacker/Apptopia Blog&rpar;](http://www.techmeme.com/220913/p37#a220913p37)<!-- TECH:END -->
+ - [Meta will start testing Discord-like &quot;Community Chats&quot; in Messenger and Facebook Groups, bringing categories, audio and video channels, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220913/p39#a220913p39)
+ - [We’re careening into ‘uncharted territory of destruction,’ WMO climate report says](https://www.theverge.com/2022/9/13/23351138/wmo-climate-change-report-greenhouse-gas-emission-uncharted-territory-destruction)
+ - [PlayStation State of Play: Start Time, How to Watch and What to Expect     - CNET](https://www.cnet.com/tech/gaming/playstation-state-of-play-set-for-sept-13-start-time-how-to-watch-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
