@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 19-year evolution of Steam](https://www.pcgamer.com/steam-versions)
  - [A new PlayStation State of Play is coming on Sept. 13](https://www.polygon.com/23349991/playstation-state-of-play-september-2022-tgs-tokyo-game-show)
- - [Crafty mod adds glorious PS1 Neversoft Spider-Man to hero&#39;s latest outing](https://www.pcgamer.com/crafty-mod-adds-glorious-ps1-neversoft-spider-man-to-heros-latest-outing)
- - [Overwatch fans revolt over Blizzard&#39;s plan to lock heroes behind battle pass](https://www.pcgamer.com/overwatch-fans-revolt-over-blizzards-plan-to-lock-heroes-behind-battle-pass)<!-- GAME:END -->
+ - [This mod adds the gloriously chunky PS1 Spider-Man outfits to new game](https://www.pcgamer.com/crafty-mod-adds-glorious-ps1-neversoft-spider-man-to-heros-latest-outing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
