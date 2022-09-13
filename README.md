@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Sony’s new State of Play livestream](https://www.polygon.com/23351483/state-of-play-playstation-time-september-2022-sony-ps5-psvr2)
- - [Disney Dreamlight Valley: The secret trick for crossing blocked bridges](https://www.pcgamer.com/disney-dreamlight-valley-the-secret-trick-for-crossing-blocked-bridges)
- - [Let’s Remember Some Terrible Square Enix Video Game Names](https://kotaku.com/final-fantasy-square-enix-octopath-traveler-2-forspoken-1849531112)<!-- GAME:END -->
+ - [New Fire Emblem Hero Looks Like A VTuber, And There’s A Reason](https://kotaku.com/fire-emblem-engage-vtuber-ironmouse-twitch-youtube-1849531758)
+ - [I&#39;ve never seen art design like this in a survival horror game](https://www.pcgamer.com/this-italian-horror-game-has-one-of-the-weirdest-art-styles-ive-seen-this-year)
+ - [The Legend of Zelda: Tears of the Kingdom’s best fan theories... so far](https://www.polygon.com/nintendo-switch/22538883/legend-of-zelda-tears-of-the-kingdom-breath-of-the-wild-2-theories-lore)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
