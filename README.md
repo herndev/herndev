@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iOS 16 has an option to remove Rapid Security Responses, security fixes that don&#39;t require a full iOS update and by default are installed automatically &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220913/p3#a220913p3)
  - [Northzone, the European VC firm that backed Spotify and Klarna, has raised a &amp;euro;1B fund, its largest to date, and will allocate ~40% to later-stage investments &lpar;Hasan Chowdhury/Insider&rpar;](http://www.techmeme.com/220913/p2#a220913p2)
- - [Seahawks Beat Russell Wilson, Broncos in Seriously Weird Monday Night Football Game     - CNET](https://www.cnet.com/culture/seahawks-beat-russell-wilson-broncos-in-seriously-weird-monday-night-football-game/#ftag=CAD590a51e)
- - [Peloton Co-Founders Leaving Company Amid Executive Shakeup     - CNET](https://www.cnet.com/health/fitness/peloton-co-founders-leaving-company-amid-executive-shakeup/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Seahawks Beat Russell Wilson, Broncos in Seriously Weird Monday Night Football Game     - CNET](https://www.cnet.com/culture/seahawks-beat-russell-wilson-broncos-in-seriously-weird-monday-night-football-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
