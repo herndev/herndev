@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16 has an option to remove Rapid Security Responses, security fixes that don&#39;t require a full iOS update and by default are installed automatically &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/220913/p3#a220913p3)
- - [Northzone, the European VC firm that backed Spotify and Klarna, has raised a &amp;euro;1B fund, its largest to date, and will allocate ~40% to later-stage investments &lpar;Hasan Chowdhury/Insider&rpar;](http://www.techmeme.com/220913/p2#a220913p2)
- - [Seahawks Beat Russell Wilson, Broncos in Seriously Weird Monday Night Football Game     - CNET](https://www.cnet.com/culture/seahawks-beat-russell-wilson-broncos-in-seriously-weird-monday-night-football-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Fears of Chinese retaliation and regional tensions are hampering US efforts to rally South Korea, Japan, and Taiwan behind the &quot;Chip 4&quot; semiconductor alliance &lpar;Financial Times&rpar;](http://www.techmeme.com/220913/p4#a220913p4)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 13&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [You told us: You’re split over your phones’ camera zoom quality](https://www.androidauthority.com/phone-camera-zoom-quality-poll-results-3207565/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
