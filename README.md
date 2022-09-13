@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [George A. Romero’s ‘lost film’ is terrible, but horror fans are right to be excited](https://www.polygon.com/streaming/22529576/the-amusement-park-review-george-a-romero-lost-film)
- - [A huge nerf to one of Destiny 2&#39;s most powerful exotics got left off today&#39;s patch notes](https://www.pcgamer.com/a-huge-nerf-to-one-of-destiny-2s-most-powerful-exotics-got-left-off-todays-patch-notes)
- - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)<!-- GAME:END -->
+ - [Oh Man, We&#39;re Actually Getting A Samurai Yakuza Game](https://kotaku.com/yakuza-like-dragon-ishin-ishin-sega-ps5-spinoff-1849532697)
+ - [Hogwarts Legacy on PlayStation is getting a really creepy exclusive quest](https://www.polygon.com/23352072/hogwarts-legacy-ps5-exclusive-mission-quest)
+ - [Everything Shown At Today&#39;s Sony State Of Play](https://kotaku.com/sony-playstation-state-of-play-god-of-war-yakuza-psvr2-1849532520)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
