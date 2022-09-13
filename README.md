@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me too, Diesel. Me too...](http://9gag.com/gag/ap9K7xD)
+ - 💣 [This bottle was turned into 3D printer filament](http://9gag.com/gag/aA0BAnE)
  - ⏩ [The legal system if Rigged if you have a D!ck](http://9gag.com/gag/arm1ErV)
- - 👉 [Bout to score\u2026and then](http://9gag.com/gag/anzewbn)<!-- MEMES:END -->
+ - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
 
