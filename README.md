@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 451 answer and hint: Tuesday, September 13](https://www.pcgamer.com/todays-wordle-451-answer-hint)
  - [A new browser-in-the-browser attack threatens Steam users](https://www.pcgamer.com/a-new-browser-in-the-browser-attack-threatens-steam-users)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)
- - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
