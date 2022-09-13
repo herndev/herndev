@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 12&rpar;](https://news.xbox.com/en-us/2022/09/12/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-12/)
  - [Those coffin office chairs aren&#39;t real, but they should be](https://www.pcgamer.com/those-coffin-office-chairs-arent-real-but-they-should-be)
- - [Zotac&#39;s RTX 4090 smiles for the camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)
- - [Unreleased Meta VR headset possibly leaked after found discarded in Hotel](https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel)<!-- GAME:END -->
+ - [Zotac&#39;s RTX 4090 smiles for the camera](https://www.pcgamer.com/zotacs-rtx-4090-smiles-for-the-camera)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
