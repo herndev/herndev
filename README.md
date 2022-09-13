@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta will start testing Discord-like &quot;Community Chats&quot; in Messenger and Facebook Groups, bringing categories, audio and video channels, and more &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220913/p39#a220913p39)
- - [We’re careening into ‘uncharted territory of destruction,’ WMO climate report says](https://www.theverge.com/2022/9/13/23351138/wmo-climate-change-report-greenhouse-gas-emission-uncharted-territory-destruction)
- - [PlayStation State of Play: Start Time, How to Watch and What to Expect     - CNET](https://www.cnet.com/tech/gaming/playstation-state-of-play-set-for-sept-13-start-time-how-to-watch-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA has a new launch date for its Artemis I megarocket](https://www.theverge.com/2022/9/13/23351703/nasa-artemis-i-megarocket-new-launch-date)
+ - [In an email to developers, Apple says that new App Store ad placements will be available for the holiday season &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220913/p42#a220913p42)
+ - [EA announces kernel-level anti-cheat system for PC games](https://www.theverge.com/2022/9/13/23351900/ea-kernel-level-anti-cheat-system-fifa-23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
