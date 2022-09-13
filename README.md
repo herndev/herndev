@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fears of Chinese retaliation and regional tensions are hampering US efforts to rally South Korea, Japan, and Taiwan behind the &quot;Chip 4&quot; semiconductor alliance &lpar;Financial Times&rpar;](http://www.techmeme.com/220913/p4#a220913p4)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 13&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [You told us: You’re split over your phones’ camera zoom quality](https://www.androidauthority.com/phone-camera-zoom-quality-poll-results-3207565/)<!-- TECH:END -->
+ - [Sony’s latest smartphone accessory is pretty cool](https://www.theverge.com/2022/9/13/23350504/sony-xperia-stream-smartphone-cooling-fan-usb-hub-ethernet-hdmi-3-5mm)
+ - [HBO and HBO Max won 37 awards in the 74th Emmy Awards, while Netflix won 26, Hulu eight, Apple TV+ seven, NBC seven, Disney+ six, and Amazon Prime Video six &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/220913/p5#a220913p5)
+ - [Fears of Chinese retaliation and regional tensions are hampering US efforts to rally South Korea, Japan, and Taiwan behind the &quot;Chip 4&quot; semiconductor alliance &lpar;Financial Times&rpar;](http://www.techmeme.com/220913/p4#a220913p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
