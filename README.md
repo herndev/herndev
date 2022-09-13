@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [A look at Apple&#39;s Cooperative R&amp;D Agreement with the TSA on digital IDs and how it could disadvantage Apple&#39;s rivals in developing mobile identity credentials &lpar;Jason Mikula/Fintech Business Weekly&rpar;](http://www.techmeme.com/220913/p1#a220913p1)
- - [Apple TV+ hit &#39;Ted Lasso&#39; wins Emmy for Outstanding Comedy Series](https://appleinsider.com/articles/22/09/13/apple-tv-hit-ted-lasso-wins-emmy-for-outstanding-comedy-series?utm_medium=rss)
- - [Majority of Twitter Shareholders Reportedly Vote to OK Musk&#39;s Takeover     - CNET](https://www.cnet.com/news/social-media/majority-of-twitter-shareholders-reportedly-vote-to-ok-musks-takeover/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iOS 16 Is Available Now: New Lock Screen, Editable Messages and Every Other Change     - CNET](https://www.cnet.com/tech/mobile/apples-ios-16-is-available-now-new-lock-screen-editable-messages-every-other-change/#ftag=CAD590a51e)
+ - [Apple TV+ hit &#39;Ted Lasso&#39; wins Emmy for Outstanding Comedy Series](https://appleinsider.com/articles/22/09/13/apple-tv-hit-ted-lasso-wins-emmy-for-outstanding-comedy-series?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
