@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This bottle was turned into 3D printer filament](http://9gag.com/gag/aA0BAnE)
- - ⏩ [I bet you will figure it out cause I\u2019m out](http://9gag.com/gag/amAqQvX)
- - 👉 [I&#39;m black and this was my reaction after watch the new Mermaid trailer.](http://9gag.com/gag/aDYRLQd)<!-- MEMES:END -->
+ - 💣 [Me too, Diesel. Me too...](http://9gag.com/gag/ap9K7xD)
+ - ⏩ [The legal system if Rigged if you have a D!ck](http://9gag.com/gag/arm1ErV)
+ - 👉 [Bout to score\u2026and then](http://9gag.com/gag/anzewbn)<!-- MEMES:END -->
 
 ---
 
