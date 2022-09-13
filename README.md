@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Live stream of Twitter whistleblower Peiter &quot;Mudge&quot; Zatko&#39;s testimony before the Senate Judiciary Committee &lpar;Senate.gov&rpar;](http://www.techmeme.com/220913/p27#a220913p27)
- - [Apple Watch Ultra battery is much larger than Series 8&#39;s](https://appleinsider.com/articles/22/09/13/apple-watch-ultra-battery-is-much-larger-than-series-8s?utm_medium=rss)
- - [Phil Schiller puts App Store users before developers &amp; profits](https://appleinsider.com/articles/22/09/13/phil-schiller-puts-app-store-users-before-developers-profits?utm_medium=rss)<!-- TECH:END -->
+ - [Pikmin 4 is coming in 2023](https://www.theverge.com/2022/9/13/23350913/pikmin-4-announced-2023-release-date-nintendo-switch)
+ - [The Legend of Zelda: Tears of the Kingdom is the sequel to Breath of the Wild](https://www.theverge.com/2022/9/13/23350972/the-legend-of-zelda-tears-of-the-kingdom-sequel-breath-of-the-wild-2-nintendo-switch)
+ - [Compared: iPhone 14 vs iPhone 14 Pro](https://appleinsider.com/inside/iphone-14/vs/compared-iphone-14-vs-iphone-14-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
