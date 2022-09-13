@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Unreleased Meta VR headset possibly leaked after found discarded in Hotel](https://www.pcgamer.com/unreleased-meta-vr-headset-possibly-leaked-after-found-discarded-in-hotel)
  - [There&#39;s A Cool Story Behind Rings Of Power&#39;s Intro](https://kotaku.com/lord-rings-power-amazon-tv-credits-explained-cymatics-1849528150)
- - [343 Industries founder leaves company due to family medical issue](https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue)
- - [Metal Gear Solid 3 Could Have Had A Boss Battle That Would Take Two Weeks To Finish](https://kotaku.com/hideo-kojima-metal-gear-boss-battle-solid-3-1849527921)<!-- GAME:END -->
+ - [343 Industries founder leaves company due to family medical issue](https://www.pcgamer.com/343-industries-founder-leaves-company-due-to-family-medical-issue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
