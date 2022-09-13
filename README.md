@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Fire Emblem Hero Looks Like A VTuber, And There’s A Reason](https://kotaku.com/fire-emblem-engage-vtuber-ironmouse-twitch-youtube-1849531758)
- - [I&#39;ve never seen art design like this in a survival horror game](https://www.pcgamer.com/this-italian-horror-game-has-one-of-the-weirdest-art-styles-ive-seen-this-year)
- - [The Legend of Zelda: Tears of the Kingdom’s best fan theories... so far](https://www.polygon.com/nintendo-switch/22538883/legend-of-zelda-tears-of-the-kingdom-breath-of-the-wild-2-theories-lore)<!-- GAME:END -->
+ - [A Buncha Square Enix JRPG Classics Are Headed To Switch](https://kotaku.com/nintendo-direct-final-fantasy-crisis-core-square-switch-1849532112)
+ - [4 Easy Disney Dreamlight Valley Tips To Level Friendship Fast](https://kotaku.com/disney-dreamlight-valley-level-friendship-fast-farm-sim-1849532140)
+ - [Everything We Saw During The Nintendo Direct Blowout](https://kotaku.com/nintendo-direct-trailer-zelda-tears-kingdom-switch-1849531647)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
