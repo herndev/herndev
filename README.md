@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Reasons Why Little Orpheus Is a Journey Like No Other](https://news.xbox.com/en-us/2022/09/13/five-reasons-why-little-orpheus-is-a-journey-like-no-other/)
- - [Warhammer 40K’s latest legend improves one of Magic’s oldest cards](https://www.polygon.com/23349573/mtg-40k-preview-ghyrson-starn-kelermorph-red-blue)
- - [The latest RTX 4090 number-porn rumour suggests a GPU with more than 75B transistors](https://www.pcgamer.com/nvidia-rtx-4090-75b-transistors-rumour)<!-- GAME:END -->
+ - [Enter The Pitt Now with Fallout 76’s Expeditions Update](https://news.xbox.com/en-us/2022/09/13/enter-the-pitt-now-with-fallout-76s-expeditions-update/)
+ - [How to end a tabletop campaign with karaoke](https://www.polygon.com/23329746/world-ending-game-everest-pipkin-tabletop-rpg-karaoke)
+ - [Fire Emblem Engage proves a thousand years isn’t enough time to grow out a wacky hair dye job](https://www.polygon.com/23351109/fire-emblem-engage-protagonist-haircut-nintendo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
