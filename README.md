@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA has a new launch date for its Artemis I megarocket](https://www.theverge.com/2022/9/13/23351703/nasa-artemis-i-megarocket-new-launch-date)
- - [In an email to developers, Apple says that new App Store ad placements will be available for the holiday season &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/220913/p42#a220913p42)
- - [EA announces kernel-level anti-cheat system for PC games](https://www.theverge.com/2022/9/13/23351900/ea-kernel-level-anti-cheat-system-fifa-23)<!-- TECH:END -->
+ - [Judge throws out Facebook collusion claims in Google antitrust suit](https://www.theverge.com/2022/9/13/23352005/google-ad-tech-antitrust-suit-moves-forward-jedi-blue-facebook-collusion-claims-dismissed)
+ - [App Store to gain new ad slots in time for holiday season](https://appleinsider.com/articles/22/09/13/app-store-to-gain-new-ad-slots-in-time-for-holiday-season?utm_medium=rss)
+ - [A New York federal judge rules the bulk of the state AGs&#39; Jedi Blue antitrust suit against Google can move forward, rejecting Google&#39;s dismissal request &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/220913/p43#a220913p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
