@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The SEC charges VMware with misleading investors by obscuring financial performance; VMware agrees to pay $8M to settle without denying or admitting charges &lpar;Kanishka Singh/Reuters&rpar;](http://www.techmeme.com/220912/p31#a220912p31)
- - [CEO Kyle Vogt says that Cruise will launch commercial robotaxi services in Austin and Phoenix &quot;in the next 90 days and before the end of 2022&quot; &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/220912/p30#a220912p30)
- - [2022 Emmys Live Updates: All the Winner Announcements     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-updates-all-the-winner-announcements/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [2022 Emmys Live Updates: All the Winner Announcements     - CNET](https://www.cnet.com/culture/entertainment/2022-emmys-live-updates-all-the-winner-announcements/#ftag=CAD590a51e)
+ - [Sources: a majority of Twitter&#39;s shareholders have voted in favor of the $44B sale to Musk, whose $54.20 per share deal looks pricey in the current environment &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220912/p32#a220912p32)
+ - [Pokemon Go&#39;s &quot;Test Your Mettle&quot; Event Adds Mega Aggron, New Ultra Beasts and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-gos-test-your-mettle-event-adds-mega-aggron-new-ultra-beasts-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
