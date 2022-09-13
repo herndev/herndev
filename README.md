@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment he realized....](http://9gag.com/gag/abv3L5r)
- - ⏩ [It&#39;s beautiful](http://9gag.com/gag/axoEK6W)
- - 👉 [Brendan Fraser wins TIFF performance award](http://9gag.com/gag/agorbLK)<!-- MEMES:END -->
+ - 💣 [Brendan Fraser wins TIFF performance award](http://9gag.com/gag/agorbLK)
+ - ⏩ [Bro calls out Prince Andrew sick old man, right or wrong place?](http://9gag.com/gag/az27ybm)
+ - 👉 [I bet you will figure it out cause I\u2019m out](http://9gag.com/gag/amAqQvX)<!-- MEMES:END -->
 
 ---
 
