@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Straight Rabbit](http://9gag.com/gag/aYVj51w)
- - ⏩ [Boo!!! Hahahahahhaa stupidity at it hottest, I mean at it&#39;s finest.](http://9gag.com/gag/arm1E07)
+ - 💣 [Yeah sure \u2026](http://9gag.com/gag/ap9Kww5)
+ - ⏩ [Happy for this man](http://9gag.com/gag/adPywbD)
  - 👉 [What&#39;s your Pikachu?](http://9gag.com/gag/aWGB5mK)<!-- MEMES:END -->
 
 ---
