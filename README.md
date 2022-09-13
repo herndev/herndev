@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k the IT guy](http://9gag.com/gag/a4opO1Z)
- - ⏩ [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
- - 👉 [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)<!-- MEMES:END -->
+ - 💣 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)
+ - ⏩ [Stockholm metro in nutshell](http://9gag.com/gag/a1Pp3y2)
+ - 👉 [Tell me you are stupid with out saying you are stupid](http://9gag.com/gag/a9qjxKZ)<!-- MEMES:END -->
 
 ---
 
