@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s latest smartphone accessory is pretty cool](https://www.theverge.com/2022/9/13/23350504/sony-xperia-stream-smartphone-cooling-fan-usb-hub-ethernet-hdmi-3-5mm)
- - [HBO and HBO Max won 37 awards in the 74th Emmy Awards, while Netflix won 26, Hulu eight, Apple TV+ seven, NBC seven, Disney+ six, and Amazon Prime Video six &lpar;Dade Hayes/Deadline&rpar;](http://www.techmeme.com/220913/p5#a220913p5)
- - [Fears of Chinese retaliation and regional tensions are hampering US efforts to rally South Korea, Japan, and Taiwan behind the &quot;Chip 4&quot; semiconductor alliance &lpar;Financial Times&rpar;](http://www.techmeme.com/220913/p4#a220913p4)<!-- TECH:END -->
+ - [When the Big One Hits Portland, Cargo Bikers Will Save You](https://www.wired.com/story/when-the-big-one-hits-portland-cargo-bikers-will-save-you/)
+ - [Indian conglomerate Vedanta and Foxconn sign a $20B deal to build a semiconductor unit in the coastal Gujarat state, home to Prime Minister Narendra Modi &lpar;TechCrunch&rpar;](http://www.techmeme.com/220913/p11#a220913p11)
+ - [Battery percentage won&#39;t show on all iPhones with iOS 16](https://appleinsider.com/articles/22/09/13/battery-percentage-wont-show-on-all-iphones-with-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
