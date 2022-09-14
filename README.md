@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PitchBook: in H1 2022, VC funding fell 8% YoY to $147.7B, pushing US startups to raise $17.1B in debt, up 7.5% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220914/p3#a220914p3)
- - [Disinformation campaigns use text messages ahead of the 2022 US midterms; in Kansas, voters got texts falsely saying a &quot;yes&quot; vote would protect abortion access &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/220914/p2#a220914p2)
- - [Someone just added Apple’s Dynamic Island on an Android phone &lpar;Updated&rpar;](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)<!-- TECH:END -->
+ - [Logitech’s new webcam has a neat built-in privacy shutter](https://www.theverge.com/2022/9/14/23350590/logitech-brio-500-1080p-webcam-design-privacy-shutter-zone-vibe-100)
+ - [South Korea&#39;s privacy regulator fines Google $50M and Meta $22M for failing to obtain users&#39; consent when collecting behavioral information to show custom ads &lpar;Reuters&rpar;](http://www.techmeme.com/220914/p5#a220914p5)
+ - [Singapore-based Fazz, whose business accounts offer payment, savings, and credit features, raised a $100M Series C, including $75M in equity and $25M in debt &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220914/p4#a220914p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
