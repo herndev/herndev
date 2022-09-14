@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Current brazilian government is killing the amazon : / no banana for scale unfortunatelly](http://9gag.com/gag/ap9KZjB)
- - ⏩ [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
- - 👉 [21th Century Jokes before it was 21th Century](http://9gag.com/gag/aVbjpDO)<!-- MEMES:END -->
+ - 💣 [The Chosen One](http://9gag.com/gag/adPyEN2)
+ - ⏩ [21th Century Jokes before it was 21th Century](http://9gag.com/gag/aVbjpDO)
+ - 👉 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)<!-- MEMES:END -->
 
 ---
 
