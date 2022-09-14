@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [*PLING intensifies](http://9gag.com/gag/amAqDxo)
- - ⏩ [How did you know](http://9gag.com/gag/aMEepDW)
- - 👉 [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)<!-- MEMES:END -->
+ - 💣 [Drama](http://9gag.com/gag/aDYRBGw)
+ - ⏩ [Oh no](http://9gag.com/gag/a3ZvoO5)
+ - 👉 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)<!-- MEMES:END -->
 
 ---
 
