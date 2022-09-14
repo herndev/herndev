@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SWIFT is testing a blockchain project with crypto startup Symbiont to drive &quot;efficiencies in communicating significant corporate events&quot;, like mergers &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/220913/p46#a220913p46)
- - [Plucky Cockatoos Clash With Humans in &#39;Arms Race&#39; to Win the Garbage Bin War     - CNET](https://www.cnet.com/science/biology/plucky-cockatoos-clash-with-humans-in-arms-race-to-win-the-garbage-bin-war/#ftag=CAD590a51e)
- - [Nike&#39;s Sneaker-Cleaning Robot Is Like a Car Wash for Shoes     - CNET](https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft releases 63 security fixes, including patches for two zero-day flaws, one of which is under active exploit, and five critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220913/p49#a220913p49)
+ - [GM&#39;s Cruise says it has developed four in-house chips for self-driving cars to be deployed by 2025, including an ARM-based computing chip called Horta &lpar;Reuters&rpar;](http://www.techmeme.com/220913/p48#a220913p48)
+ - [UK-based Unlikely AI, founded by William Tunstall-Pedoe who helped develop several key technologies used by Amazon&#39;s Alexa, raised a $20M seed &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220913/p47#a220913p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
