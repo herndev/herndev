@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use iPhone’s Safety Check and Emergency SOS features](https://www.theverge.com/23344273/apple-iphone-safety-check-emergency-sos-ios-how-to)
- - [Ethermine, the largest Ethereum mining firm, will shut down its servers for miners after Ethereum&#39;s Merge, switching its mining pool to withdraw-only mode &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/220914/p33#a220914p33)
- - [Intel’s DLSS rival, XeSS, seems to be a succeSS](https://www.theverge.com/2022/9/14/23353172/intel-dlss-xess-super-sampling-upscaling-xe-graphics)<!-- TECH:END -->
+ - [Here come high-powered USB-C chargers that can fully power a 16-inch MacBook Pro](https://www.theverge.com/2022/9/14/23352711/macbook-pro-charger-usb-c-pd-3-10-140w-charger-anker-hyper-ugreen)
+ - [California Files Antitrust Suit Against Amazon Over Merchant Contracts     - CNET](https://www.cnet.com/news/california-files-suit-against-amazon-over-anticompetitive-merchant-contracts/#ftag=CAD590a51e)
+ - [Monkeypox Claims First US Victim: What You Need to Know     - CNET](https://www.cnet.com/health/monkeypox-what-gay-and-bisexual-men-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
