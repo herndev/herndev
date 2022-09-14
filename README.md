@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)
- - ⏩ [Who wants consomme?](http://9gag.com/gag/aA0RRwR)
- - 👉 [This is my coat. There are a lot like it, but this one is mine...](http://9gag.com/gag/a9qbbY0)<!-- MEMES:END -->
+ - 💣 [Who wants consomme?](http://9gag.com/gag/aA0RRwR)
+ - ⏩ [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)
+ - 👉 [How much savings do you have?](http://9gag.com/gag/anzqeOo)<!-- MEMES:END -->
 
 ---
 
