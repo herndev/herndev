@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Gets to Build the Next Software Stack of Civilization?](https://www.wired.com/story/who-gets-to-build-the-next-software-stack-of-civilization/)
- - [A GMO Purple Tomato Is Coming to Stores. Will the US Bite?](https://www.wired.com/story/a-gmo-purple-tomato-is-coming-to-grocery-aisles-will-the-us-bite/)
- - [What Charles the ‘Activist King’ Means for the Climate](https://www.wired.com/story/king-charles-iii-climate-environmental-activist/)<!-- TECH:END -->
+ - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)
+ - [One of Gaming’s Greatest Writers Is Busy Crafting Romance Novels](https://www.wired.com/story/jane-jensen-eli-easton-interview/)
+ - [PlayStation VR2: A First Look at the Next-Gen Headset](https://www.wired.com/story/sony-psvr2-first-look/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
