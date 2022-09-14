@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on with four PlayStation VR2 titles](https://blog.playstation.com/2022/09/14/hands-on-with-four-playstation-vr2-titles/)
- - [PlayStation VR2 is making me fall in love with VR again](https://www.polygon.com/23350507/playstation-vr2-ps5-hands-on-horizon-resident-evil-village)
- - [Yakuza’s Kazuma Kiryu is back in Like a Dragon 8 and a new spinoff](https://www.polygon.com/23352637/yakuza-like-a-dragon-8-kazuma-kiryu-gaiden-the-man-who-erased-his-name-announcement-trailer)<!-- GAME:END -->
+ - [Blockbuster Games promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/14/blockbuster-games-promotion-comes-to-playstation-store-2/)
+ - [Bayonetta 3 wants you to express yourself, darling](https://www.polygon.com/23352178/bayonetta-3-preview-pax-west-nintendo-switch)
+ - [Wil Wheaton is trying to become a god in Star Trek Online](https://www.pcgamer.com/wil-wheaton-is-trying-to-become-a-god-in-star-trek-online)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
