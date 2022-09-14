@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Start your journey in Asterigos: Curse of the Stars October 11th on PS4 and PS5](https://blog.playstation.com/2022/09/14/start-your-journey-in-asterigos-curse-of-the-stars-october-11th-on-ps4-and-ps5/)
- - [The Sims 4 is going free to play](https://www.polygon.com/23352758/sims-4-free-to-play-release-date-future-content-support)
- - [How the first decade of actual play has defined the template](https://www.polygon.com/23334732/how-the-first-decade-of-actual-play-has-defined-the-template)<!-- GAME:END -->
+ - [BMX Comes to Riders Republic Today in Season 4: Freestylin’](https://news.xbox.com/en-us/2022/09/14/bmx-comes-to-riders-republic-today/)
+ - [The Best &lpar;And Weirdest&rpar; Zelda Fan Theories From The Tears Of The Kingdom Trailer](https://kotaku.com/zelda-tears-kingdom-trailer-botw2-nintendo-theory-1849534322)
+ - [The Scarlet Witch is getting a new comic where she runs a magic shop](https://www.polygon.com/23353043/scarlet-witch-2023-marvel-comics-announcement-cover-reveal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
