@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare 2 beta dates and times](https://www.pcgamer.com/modern-warfare-2-beta-access)
- - [Best capture cards for PC gaming](https://www.pcgamer.com/best-capture-card-for-pc-gaming)
- - [G4TV Hit With Major Layoffs Less Than A Year After Coming Back](https://kotaku.com/g4tv-layoffs-twitch-x-play-adam-sessler-g4-1849537114)<!-- GAME:END -->
+ - [Welp, the Cyberpunk 2077 anime made me want to give the game another shot](https://www.pcgamer.com/welp-the-cyberpunk-2077-anime-made-me-want-to-give-the-game-another-shot)
+ - [Overwatch loot box hoarders say goodbye](https://www.pcgamer.com/overwatch-loot-box-hoarders-say-goodbye)
+ - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
