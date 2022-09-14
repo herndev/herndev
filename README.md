@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The MCU has its work cut out for it with Sabra, Marvel’s Israeli Captain America](https://www.polygon.com/23351148/marvel-cinematic-universe-sabra-shira-haas)
- - [Yakuza spin-offs Judgment and Lost Judgment just released on Steam](https://www.pcgamer.com/yakuza-spin-offs-judgment-and-lost-judgment-just-released-on-steam)
- - [Blockbuster Games promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/14/blockbuster-games-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
+ - [Start your journey in Asterigos: Curse of the Stars October 11th on PS4 and PS5](https://blog.playstation.com/2022/09/14/start-your-journey-in-asterigos-curse-of-the-stars-october-11th-on-ps4-and-ps5/)
+ - [The Sims 4 is going free to play](https://www.polygon.com/23352758/sims-4-free-to-play-release-date-future-content-support)
+ - [How the first decade of actual play has defined the template](https://www.polygon.com/23334732/how-the-first-decade-of-actual-play-has-defined-the-template)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
