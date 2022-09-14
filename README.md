@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will switch more iPhone 14 Pro screen orders to Samsung](https://appleinsider.com/articles/22/09/14/apple-will-switch-more-iphone-14-pro-screen-orders-to-samsung?utm_medium=rss)
- - [The Sims 4 base game is going to be free next month](https://www.theverge.com/2022/9/14/23352687/the-sims-4-free-date-expansions-kits-pc-playstation-xbox)
- - [Listen to our podcast about our website redesign](https://www.theverge.com/23352835/verge-website-redesign-embeds-podcast-vergecast)<!-- TECH:END -->
+ - [How to quickly update all of your iPhone apps on iOS 16](https://www.theverge.com/23348908/update-iphone-apps-ios-16-apple)
+ - [Pearl is a slasher prequel that makes the original even better](https://www.theverge.com/23352979/pearl-review-tiff-2022)
+ - [Discord starts rolling out new Forum Channels to help organize conversations](https://www.theverge.com/2022/9/14/23352840/discord-forum-channels-rollout-availability)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
