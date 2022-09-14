@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s a shitty situation](http://9gag.com/gag/a5Xp8zV)
+ - 💣 [The Puffling Patrol](http://9gag.com/gag/aGEKWRz)
  - ⏩ [Hol up what?](http://9gag.com/gag/ay2EOZX)
- - 👉 [She&#39;s got everything I want. Where can I find one like this?](http://9gag.com/gag/anzeLBz)<!-- MEMES:END -->
+ - 👉 [Who doesn&#39;t understand](http://9gag.com/gag/a7qv4Ze)<!-- MEMES:END -->
 
 ---
 
