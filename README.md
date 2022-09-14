@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How did you know](http://9gag.com/gag/aMEepDW)
- - ⏩ [Oh no](http://9gag.com/gag/a3ZvoO5)
- - 👉 [Superb*](http://9gag.com/gag/aMEeRpX)<!-- MEMES:END -->
+ - 💣 [This is my coat. There are a lot like it, but this one is mine...](http://9gag.com/gag/a9qbbY0)
+ - ⏩ [Belfast you lil rebel I like you](http://9gag.com/gag/anzqej0)
+ - 👉 [Kingdom](http://9gag.com/gag/aDYARPx)<!-- MEMES:END -->
 
 ---
 
