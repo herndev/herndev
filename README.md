@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rate my setup](http://9gag.com/gag/aNwm6w4)
- - ⏩ [Sick burn bro](http://9gag.com/gag/aA0Bo7R)
- - 👉 [Finally a solution](http://9gag.com/gag/arm16MX)<!-- MEMES:END -->
+ - 💣 [For real tho. The birds too](http://9gag.com/gag/a9qjQvD)
+ - ⏩ [Redbull might help](http://9gag.com/gag/aA0BW1o)
+ - 👉 [Pathetic.](http://9gag.com/gag/aA0BWX0)<!-- MEMES:END -->
 
 ---
 
