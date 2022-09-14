@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
- - ⏩ [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
- - 👉 [Inflation is getting out of hands](http://9gag.com/gag/amAqenj)<!-- MEMES:END -->
+ - 💣 [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
+ - ⏩ [A deep message](http://9gag.com/gag/aKE4Rn3)
+ - 👉 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)<!-- MEMES:END -->
 
 ---
 
