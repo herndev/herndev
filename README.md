@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it?](http://9gag.com/gag/aWGBKx6)
- - ⏩ [Rate my setup](http://9gag.com/gag/aNwm6w4)
- - 👉 [Sick burn bro](http://9gag.com/gag/aA0Bo7R)<!-- MEMES:END -->
+ - 💣 [Rate my setup](http://9gag.com/gag/aNwm6w4)
+ - ⏩ [Sick burn bro](http://9gag.com/gag/aA0Bo7R)
+ - 👉 [Finally a solution](http://9gag.com/gag/arm16MX)<!-- MEMES:END -->
 
 ---
 
