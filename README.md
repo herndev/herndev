@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For real tho. The birds too](http://9gag.com/gag/a9qjQvD)
- - ⏩ [Redbull might help](http://9gag.com/gag/aA0BW1o)
- - 👉 [Pathetic.](http://9gag.com/gag/aA0BWX0)<!-- MEMES:END -->
+ - 💣 [Finally a solution](http://9gag.com/gag/arm16MX)
+ - ⏩ [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)
+ - 👉 [Single moms](http://9gag.com/gag/a6qrWQA)<!-- MEMES:END -->
 
 ---
 
