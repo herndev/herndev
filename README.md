@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils fourth South Korea Apple Store](https://appleinsider.com/articles/22/09/14/apple-unveils-fourth-south-korea-apple-store?utm_medium=rss)
- - [How to fix app widgets not appearing on iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/tips/how-to-fix-app-widgets-not-appearing-on-ios-16-lock-screen?utm_medium=rss)
- - [Apple iPhone 14 review: improved selfie camera and good battery life, but feels like an iPhone 13S with no ProMotion, and the eSIM transition could be painful &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220914/p19#a220914p19)<!-- TECH:END -->
+ - [Northeastern University VR lab targeted in mail-bomb attack](https://www.theverge.com/2022/9/14/23352779/vr-lab-mail-bomb-attack-northeastern-university-zuckerberg-unabomber)
+ - [iPhone 14 &amp; iPhone 14 Pro review roundup: Pro is the way to go](https://appleinsider.com/articles/22/09/14/iphone-14-iphone-14-pro-review-roundup-pro-is-the-way-to-go?utm_medium=rss)
+ - [A look at enterprise networking infrastructure startup Nile, led by two former Cisco executives, which has quietly raised $125M in the past four years &lpar;CNBC&rpar;](http://www.techmeme.com/220914/p21#a220914p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
