@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arrest Warrant Issued For Terra Founder Do Kwon in South Korea     - CNET](https://www.cnet.com/personal-finance/crypto/arrest-warrant-issued-for-terra-founder-do-kwon-in-south-korea/#ftag=CAD590a51e)
- - [Logitech’s new webcam has a neat built-in privacy shutter](https://www.theverge.com/2022/9/14/23350590/logitech-brio-500-1080p-webcam-design-privacy-shutter-zone-vibe-100)
- - [South Korea&#39;s privacy regulator fines Google $50M and Meta $22M for failing to obtain users&#39; consent when collecting behavioral information to show custom ads &lpar;Reuters&rpar;](http://www.techmeme.com/220914/p5#a220914p5)<!-- TECH:END -->
+ - [Google loses appeal over illegal Android app bundling, EU reduces fine to €4.1 billion](https://www.theverge.com/2022/9/14/23341207/google-eu-android-antitrust-fine-appeal-failed-4-billion)
+ - [An EU court backs the European Commission&#39;s decision to fine Google over Android antitrust breaches but trims the fine from &amp;euro;4.3B to &amp;euro;4.1B; Google can appeal &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/220914/p7#a220914p7)
+ - [A South Korean court issues an arrest warrant for Terraform Labs founder Do Kwon and five others located in Singapore, following the collapse of LUNA and UST &lpar;Hooyeon Kim/Bloomberg&rpar;](http://www.techmeme.com/220914/p6#a220914p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
