@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome To White Castle](https://kotaku.com/bioware-ken-fairclough-concept-art-mass-effect-anthem-1849528623)
- - [Exclusive Magic: The Gathering Warhammer 40,000 card reveal: Keeper of Secrets](https://www.pcgamer.com/exclusive-magic-the-gathering-warhammer-40000-card-reveal-keeper-of-secrets)
- - [Pacific Drive Is A &#39;Road-Like&#39;, Looks Very Cool](https://kotaku.com/pacific-drive-ironwood-ps5-pc-announced-revealed-1849533207)<!-- GAME:END -->
+ - [Google scraps its Pixelbook laptop range](https://www.pcgamer.com/google-scraps-its-pixelbook-laptop-range)
+ - [Netflix&#39;s Cyberpunk: Edgerunners Connects to Cyberpunk 2077 in Strange Ways](https://game-rant-2022.blogspot.com/2022/09/netflixs-cyberpunk-edgerunners-connects.html)
+ - [Teams that should be in King of Fighters XV Season 2](https://game-rant-2022.blogspot.com/2022/09/teams-that-should-be-in-king-of.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
