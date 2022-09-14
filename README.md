@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [September Updates for the Xbox App on PC: HowLongToBeat and More](https://news.xbox.com/en-us/2022/09/14/september-updates-xbox-app-on-pc/)
- - [You&#39;ll soon be able to play The Sims 4 for free](https://www.pcgamer.com/youll-soon-be-able-to-play-the-sims-4-for-free)
- - [How to wield godly power with Valheim cheats and console commands](https://www.pcgamer.com/valheim-cheats-console-commands)<!-- GAME:END -->
+ - [GameStop Rewards Employees For Sticking Around With 50-Cent Raise](https://kotaku.com/gamestop-meme-stock-crypto-nft-scam-splatoon-3-nba-2k23-1849535807)
+ - [The Owl House returns for season 3 this October](https://www.polygon.com/23353315/the-owl-house-season-3-premiere-date-disney-channel)
+ - [Discord is getting new forums for old school posting](https://www.polygon.com/23353248/discord-internet-forums-chat-client-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
