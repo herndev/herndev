@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Late Cretaceous Pack for Jurassic World Evolution 2 Releases September 15](https://news.xbox.com/en-us/2022/09/14/late-cretaceous-pack-for-jurassic-world-evolution-2-releases-september-15/)
- - [26 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Huh, Hideo Kojima announced a VR game](https://www.pcgamer.com/huh-hideo-kojima-announced-a-vr-game)<!-- GAME:END -->
+ - [Yakuza Producer Thinks The Series Is Too ‘Underground’ And Violent For Switch](https://kotaku.com/yakuza-like-a-dragon-switch-port-family-friendly-rgg-1849536732)
+ - [It&#39;s almost impossible not to laugh when you see this guy snipe someone with a flute in Warzone](https://www.pcgamer.com/warzone-flute-clip)
+ - [Late Cretaceous Pack for Jurassic World Evolution 2 Releases September 15](https://news.xbox.com/en-us/2022/09/14/late-cretaceous-pack-for-jurassic-world-evolution-2-releases-september-15/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
