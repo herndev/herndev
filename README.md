@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oh Man, We&#39;re Actually Getting A Samurai Yakuza Game](https://kotaku.com/yakuza-like-dragon-ishin-ishin-sega-ps5-spinoff-1849532697)
- - [Hogwarts Legacy on PlayStation is getting a really creepy exclusive quest](https://www.polygon.com/23352072/hogwarts-legacy-ps5-exclusive-mission-quest)
- - [Everything Shown At Today&#39;s Sony State Of Play](https://kotaku.com/sony-playstation-state-of-play-god-of-war-yakuza-psvr2-1849532520)<!-- GAME:END -->
+ - [Team Ninja&#39;s New Game Is A 19th-Century &#39;Action RPG&#39;](https://kotaku.com/rise-of-the-ronin-team-ninja-ps5-action-rpg-open-world-1849532956)
+ - [WW1 FPS Isonzo is out Now](https://news.xbox.com/en-us/2022/09/13/ww1-fps-isonzo-is-out-now/)
+ - [This weird comedy horror game from March went mostly unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
