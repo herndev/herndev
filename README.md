@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harsh reality](http://9gag.com/gag/aBd9pnN)
+ - 💣 [Current brazilian government is killing the amazon : / no banana for scale unfortunatelly](http://9gag.com/gag/ap9KZjB)
  - ⏩ [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)
- - 👉 [It&#39;s something I guess.](http://9gag.com/gag/awZNWRD)<!-- MEMES:END -->
+ - 👉 [21th Century Jokes before it was 21th Century](http://9gag.com/gag/aVbjpDO)<!-- MEMES:END -->
 
 ---
 
