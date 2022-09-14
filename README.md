@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [As Ethereum moves to proof of stake, about 11% of ETH is locked up and earning but won&#39;t be withdrawable until the &quot;Shanghai&quot; update, expected in about 6 months &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220914/p29#a220914p29)
- - [Microsoft was right all along](https://www.theverge.com/2022/9/14/23353072/detachable-laptop-convertible-tablet-trend-xps-thinkpad)
- - [Today, for three hours only, you can get Samsung’s M8 Smart Monitor for $499](https://www.theverge.com/2022/9/14/23352829/samsung-m8-smart-monitor-sunset-pink-4k-tv-display-deal-sale)<!-- TECH:END -->
+ - [Final day: enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
+ - [Jurassic Barf: Scientists Find Fossilized Vomit From 150 Million Years Ago     - CNET](https://www.cnet.com/science/biology/jurassic-barf-scientists-find-fossilized-vomit-from-150-million-years-ago/#ftag=CAD590a51e)
+ - [WhatsApp made a movie with Giannis Antetokounmpo](https://www.theverge.com/2022/9/14/23353228/whatsapp-movies-film-content-branded-giannis-antetokounmpo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
