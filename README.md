@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 452 answer and hint: Wednesday, September 14](https://www.pcgamer.com/todays-wordle-452-answer-hint)
  - [How Al Michaels Helps Amazon Prime&#39;s NFL Game](https://game-rant-2022.blogspot.com/2022/09/how-al-michaels-helps-amazon-primes-nfl.html)
- - [&quot;We didn&#39;t talk enough&quot; with game developers](https://game-rant-2022.blogspot.com/2022/09/we-didnt-talk-enough-with-game.html)
- - [The best games with 4 seasons](https://game-rant-2022.blogspot.com/2022/09/the-best-games-with-4-seasons.html)<!-- GAME:END -->
+ - [&quot;We didn&#39;t talk enough&quot; with game developers](https://game-rant-2022.blogspot.com/2022/09/we-didnt-talk-enough-with-game.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
