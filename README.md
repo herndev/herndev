@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chairman of FromSoftware&#39;s parent company arrested in Olympic bribery case](https://www.pcgamer.com/chairman-of-fromsoftwares-parent-company-arrested-in-olympic-bribery-case)
  - [Best Slay The Spire: Downfall Boss Lessons](https://game-rant-2022.blogspot.com/2022/09/best-slay-spire-downfall-boss-lessons.html)
- - [Today&#39;s Wordle 452 answer and hint: Wednesday, September 14](https://www.pcgamer.com/todays-wordle-452-answer-hint)
- - [How Al Michaels Helps Amazon Prime&#39;s NFL Game](https://game-rant-2022.blogspot.com/2022/09/how-al-michaels-helps-amazon-primes-nfl.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 452 answer and hint: Wednesday, September 14](https://www.pcgamer.com/todays-wordle-452-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
