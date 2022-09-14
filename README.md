@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Final day: enter to win an iPhone 14 Pro &amp; metal print from Aluminyze](https://appleinsider.com/articles/22/08/31/enter-to-win-an-iphone-14-pro-metal-print-from-aluminyze?utm_medium=rss)
- - [Jurassic Barf: Scientists Find Fossilized Vomit From 150 Million Years Ago     - CNET](https://www.cnet.com/science/biology/jurassic-barf-scientists-find-fossilized-vomit-from-150-million-years-ago/#ftag=CAD590a51e)
- - [WhatsApp made a movie with Giannis Antetokounmpo](https://www.theverge.com/2022/9/14/23353228/whatsapp-movies-film-content-branded-giannis-antetokounmpo)<!-- TECH:END -->
+ - [The Twitter Whistleblower&#39;s Testimony Has Senators Out for Blood](https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/)
+ - [California Governor Gavin Newsom signs AB 587 into law, requiring social networks to share moderation rules, despite concerns it may violate the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220914/p31#a220914p31)
+ - [Lockly Vision Elite review: two become one](https://www.theverge.com/23345083/lockly-vision-elite-review-smart-door-lock-video-doorbell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
