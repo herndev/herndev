@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
- - ⏩ [A deep message](http://9gag.com/gag/aKE4Rn3)
- - 👉 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)<!-- MEMES:END -->
+ - 💣 [Bob Odenkirk after not getting Emmy Award, Better Call Saul was nominated for 46 times with zero wins](http://9gag.com/gag/aqe4P9v)
+ - ⏩ [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
+ - 👉 [Like that\u2019s ever gonna happen](http://9gag.com/gag/az27ngz)<!-- MEMES:END -->
 
 ---
 
