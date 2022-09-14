@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Northeastern University VR lab targeted in mail-bomb attack](https://www.theverge.com/2022/9/14/23352779/vr-lab-mail-bomb-attack-northeastern-university-zuckerberg-unabomber)
- - [iPhone 14 &amp; iPhone 14 Pro review roundup: Pro is the way to go](https://appleinsider.com/articles/22/09/14/iphone-14-iphone-14-pro-review-roundup-pro-is-the-way-to-go?utm_medium=rss)
- - [A look at enterprise networking infrastructure startup Nile, led by two former Cisco executives, which has quietly raised $125M in the past four years &lpar;CNBC&rpar;](http://www.techmeme.com/220914/p21#a220914p21)<!-- TECH:END -->
+ - [Apple will switch more iPhone 14 Pro screen orders to Samsung](https://appleinsider.com/articles/22/09/14/apple-will-switch-more-iphone-14-pro-screen-orders-to-samsung?utm_medium=rss)
+ - [The Sims 4 base game is going to be free next month](https://www.theverge.com/2022/9/14/23352687/the-sims-4-free-date-expansions-kits-pc-playstation-xbox)
+ - [Listen to our podcast about our website redesign](https://www.theverge.com/23352835/verge-website-redesign-embeds-podcast-vergecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
