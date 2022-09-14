@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.1 beta adds Apple’s ugly new battery percentage indicator to the iPhone Mini](https://www.theverge.com/2022/9/14/23353545/apple-ios-16-1-beta-battery-percentage-indicator-iphone-13-12-mini-11-xr)
- - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-lg-deal-sale)
- - [Canva unveils new products Docs, Websites, Whiteboards, and Data Visualization, brings background removing to videos, and adds a remote control to Presentations &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220914/p32#a220914p32)<!-- TECH:END -->
+ - [How to use iPhone’s Safety Check and Emergency SOS features](https://www.theverge.com/23344273/apple-iphone-safety-check-emergency-sos-ios-how-to)
+ - [Ethermine, the largest Ethereum mining firm, will shut down its servers for miners after Ethereum&#39;s Merge, switching its mining pool to withdraw-only mode &lpar;David Pan/Bloomberg&rpar;](http://www.techmeme.com/220914/p33#a220914p33)
+ - [Intel’s DLSS rival, XeSS, seems to be a succeSS](https://www.theverge.com/2022/9/14/23353172/intel-dlss-xess-super-sampling-upscaling-xe-graphics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
