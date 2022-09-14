@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Isn&#39;t this way better](http://9gag.com/gag/aYVjzev)
- - ⏩ [How much savings do you have?](http://9gag.com/gag/anzqeOo)
- - 👉 [Single moms](http://9gag.com/gag/a6qrWQA)<!-- MEMES:END -->
+ - 💣 [How did you know](http://9gag.com/gag/aMEepDW)
+ - ⏩ [Oh no](http://9gag.com/gag/a3ZvoO5)
+ - 👉 [Superb*](http://9gag.com/gag/aMEeRpX)<!-- MEMES:END -->
 
 ---
 
