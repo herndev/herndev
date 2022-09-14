@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here come high-powered USB-C chargers that can fully power a 16-inch MacBook Pro](https://www.theverge.com/2022/9/14/23352711/macbook-pro-charger-usb-c-pd-3-10-140w-charger-anker-hyper-ugreen)
- - [California Files Antitrust Suit Against Amazon Over Merchant Contracts     - CNET](https://www.cnet.com/news/california-files-suit-against-amazon-over-anticompetitive-merchant-contracts/#ftag=CAD590a51e)
- - [Monkeypox Claims First US Victim: What You Need to Know     - CNET](https://www.cnet.com/health/monkeypox-what-gay-and-bisexual-men-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Photographer Austin Mann puts the iPhone 14 Pro through its paces](https://appleinsider.com/articles/22/09/14/photographer-austin-mann-puts-the-iphone-14-pro-through-its-paces?utm_medium=rss)
+ - [Android and iOS take big steps toward launching Matter smart home compatibility](https://www.theverge.com/2022/9/14/23353776/android-and-ios-matter-smart-home-compatibility)
+ - [Google is finally rolling out Play Store reviews tailored to your device](https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
