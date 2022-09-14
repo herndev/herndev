@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Substack Alternatives](https://www.wired.com/story/best-substack-alternatives/)
- - [One of Gaming’s Greatest Writers Is Busy Crafting Romance Novels](https://www.wired.com/story/jane-jensen-eli-easton-interview/)
- - [PlayStation VR2: A First Look at the Next-Gen Headset](https://www.wired.com/story/sony-psvr2-first-look/)<!-- TECH:END -->
+ - [Apple unveils fourth South Korea Apple Store](https://appleinsider.com/articles/22/09/14/apple-unveils-fourth-south-korea-apple-store?utm_medium=rss)
+ - [How to fix app widgets not appearing on iOS 16 Lock Screen](https://appleinsider.com/inside/ios-16/tips/how-to-fix-app-widgets-not-appearing-on-ios-16-lock-screen?utm_medium=rss)
+ - [Apple iPhone 14 review: improved selfie camera and good battery life, but feels like an iPhone 13S with no ProMotion, and the eSIM transition could be painful &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/220914/p19#a220914p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
