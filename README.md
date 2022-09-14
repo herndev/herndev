@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blockbuster Games promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/14/blockbuster-games-promotion-comes-to-playstation-store-2/)
- - [Bayonetta 3 wants you to express yourself, darling](https://www.polygon.com/23352178/bayonetta-3-preview-pax-west-nintendo-switch)
- - [Wil Wheaton is trying to become a god in Star Trek Online](https://www.pcgamer.com/wil-wheaton-is-trying-to-become-a-god-in-star-trek-online)<!-- GAME:END -->
+ - [The MCU has its work cut out for it with Sabra, Marvel’s Israeli Captain America](https://www.polygon.com/23351148/marvel-cinematic-universe-sabra-shira-haas)
+ - [Yakuza spin-offs Judgment and Lost Judgment just released on Steam](https://www.pcgamer.com/yakuza-spin-offs-judgment-and-lost-judgment-just-released-on-steam)
+ - [Blockbuster Games promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/14/blockbuster-games-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
