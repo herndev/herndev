@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BMX Comes to Riders Republic Today in Season 4: Freestylin’](https://news.xbox.com/en-us/2022/09/14/bmx-comes-to-riders-republic-today/)
- - [The Best &lpar;And Weirdest&rpar; Zelda Fan Theories From The Tears Of The Kingdom Trailer](https://kotaku.com/zelda-tears-kingdom-trailer-botw2-nintendo-theory-1849534322)
- - [The Scarlet Witch is getting a new comic where she runs a magic shop](https://www.polygon.com/23353043/scarlet-witch-2023-marvel-comics-announcement-cover-reveal)<!-- GAME:END -->
+ - [September Updates for the Xbox App on PC: HowLongToBeat and More](https://news.xbox.com/en-us/2022/09/14/september-updates-xbox-app-on-pc/)
+ - [You&#39;ll soon be able to play The Sims 4 for free](https://www.pcgamer.com/youll-soon-be-able-to-play-the-sims-4-for-free)
+ - [How to wield godly power with Valheim cheats and console commands](https://www.pcgamer.com/valheim-cheats-console-commands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
