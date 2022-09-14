@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese regulators approve paid games from Tencent and NetEase for the first time since July 2021, as part of granting 73 games licenses &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220914/p9#a220914p9)
- - [Windows Terminal now supports colorful themes to spruce up your dev environment](https://www.theverge.com/2022/9/14/23352608/windows-terminal-themes-customization)
- - [Patreon cuts ~17% of its staff, or 80 positions, and closes offices in Dublin and Berlin; the company raised $155M in April 2021 at a $4B valuation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220914/p8#a220914p8)<!-- TECH:END -->
+ - [Who Gets to Build the Next Software Stack of Civilization?](https://www.wired.com/story/who-gets-to-build-the-next-software-stack-of-civilization/)
+ - [A GMO Purple Tomato Is Coming to Stores. Will the US Bite?](https://www.wired.com/story/a-gmo-purple-tomato-is-coming-to-grocery-aisles-will-the-us-bite/)
+ - [What Charles the ‘Activist King’ Means for the Climate](https://www.wired.com/story/king-charles-iii-climate-environmental-activist/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
