@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Finally a solution](http://9gag.com/gag/arm16MX)
- - ⏩ [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)
- - 👉 [Single moms](http://9gag.com/gag/a6qrWQA)<!-- MEMES:END -->
+ - 💣 [Drama](http://9gag.com/gag/aDYRBGw)
+ - ⏩ [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)
+ - 👉 [Hungary gets cut off 70% of EU funds](http://9gag.com/gag/a04vmYz)<!-- MEMES:END -->
 
 ---
 
