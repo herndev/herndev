@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Arrest Warrant Issued For Terra Founder Do Kwon in South Korea     - CNET](https://www.cnet.com/personal-finance/crypto/arrest-warrant-issued-for-terra-founder-do-kwon-in-south-korea/#ftag=CAD590a51e)
  - [Logitech’s new webcam has a neat built-in privacy shutter](https://www.theverge.com/2022/9/14/23350590/logitech-brio-500-1080p-webcam-design-privacy-shutter-zone-vibe-100)
- - [South Korea&#39;s privacy regulator fines Google $50M and Meta $22M for failing to obtain users&#39; consent when collecting behavioral information to show custom ads &lpar;Reuters&rpar;](http://www.techmeme.com/220914/p5#a220914p5)
- - [Singapore-based Fazz, whose business accounts offer payment, savings, and credit features, raised a $100M Series C, including $75M in equity and $25M in debt &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/220914/p4#a220914p4)<!-- TECH:END -->
+ - [South Korea&#39;s privacy regulator fines Google $50M and Meta $22M for failing to obtain users&#39; consent when collecting behavioral information to show custom ads &lpar;Reuters&rpar;](http://www.techmeme.com/220914/p5#a220914p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
