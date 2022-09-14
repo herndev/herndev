@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury clarifies its guidance on Tornado Cash and provides a way for users to lawfully withdraw their funds by applying for a license &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/220913/p44#a220913p44)
- - [Here are the first not-an-NFT “digital collectibles” for PlayStation Stars](https://www.theverge.com/2022/9/13/23352063/sony-playstation-stars-digital-collectibles-previews)
- - [The biggest announcements from Sony’s September State of Play](https://www.theverge.com/2022/9/13/23351958/sony-playstation-state-of-play-biggest-announcements-news-god-of-war-ragnarok-tekken-8)<!-- TECH:END -->
+ - [SWIFT is testing a blockchain project with crypto startup Symbiont to drive &quot;efficiencies in communicating significant corporate events&quot;, like mergers &lpar;Katherine Doherty/Bloomberg&rpar;](http://www.techmeme.com/220913/p46#a220913p46)
+ - [Plucky Cockatoos Clash With Humans in &#39;Arms Race&#39; to Win the Garbage Bin War     - CNET](https://www.cnet.com/science/biology/plucky-cockatoos-clash-with-humans-in-arms-race-to-win-the-garbage-bin-war/#ftag=CAD590a51e)
+ - [Nike&#39;s Sneaker-Cleaning Robot Is Like a Car Wash for Shoes     - CNET](https://www.cnet.com/culture/fashion/nikes-sneaker-cleaning-robot-is-like-a-car-wash-for-shoes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
