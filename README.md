@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GameStop Rewards Employees For Sticking Around With 50-Cent Raise](https://kotaku.com/gamestop-meme-stock-crypto-nft-scam-splatoon-3-nba-2k23-1849535807)
- - [The Owl House returns for season 3 this October](https://www.polygon.com/23353315/the-owl-house-season-3-premiere-date-disney-channel)
- - [Discord is getting new forums for old school posting](https://www.polygon.com/23353248/discord-internet-forums-chat-client-announcement)<!-- GAME:END -->
+ - [In Case You Missed It: /twitchgaming: ID@Xbox Fall Showcase](https://news.xbox.com/en-us/2022/09/14/in-case-you-missed-it-twitchgaming-idxbox-fall-showcase/)
+ - [Oh No, Valve Built A Steam Deck For Giants](https://kotaku.com/valve-steam-deck-tokyo-game-show-half-life-portal-index-1849535978)
+ - [The Xbox app on PC now shares How Long To Beat data on games](https://www.polygon.com/23353379/xbox-app-how-long-to-beat-howlongtobeat-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
