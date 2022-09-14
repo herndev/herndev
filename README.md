@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google scraps its Pixelbook laptop range](https://www.pcgamer.com/google-scraps-its-pixelbook-laptop-range)
- - [Netflix&#39;s Cyberpunk: Edgerunners Connects to Cyberpunk 2077 in Strange Ways](https://game-rant-2022.blogspot.com/2022/09/netflixs-cyberpunk-edgerunners-connects.html)
- - [Teams that should be in King of Fighters XV Season 2](https://game-rant-2022.blogspot.com/2022/09/teams-that-should-be-in-king-of.html)<!-- GAME:END -->
+ - [&quot;We didn&#39;t talk enough&quot; with game developers](https://game-rant-2022.blogspot.com/2022/09/we-didnt-talk-enough-with-game.html)
+ - [The best games with 4 seasons](https://game-rant-2022.blogspot.com/2022/09/the-best-games-with-4-seasons.html)
+ - [Torch of Saudi Games 2022 arrives in Tabuk in the third round](https://game-rant-2022.blogspot.com/2022/09/torch-of-saudi-games-2022-arrives-in.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
