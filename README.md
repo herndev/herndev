@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google loses appeal over illegal Android app bundling, EU reduces fine to €4.1 billion](https://www.theverge.com/2022/9/14/23341207/google-eu-android-antitrust-fine-appeal-failed-4-billion)
- - [An EU court backs the European Commission&#39;s decision to fine Google over Android antitrust breaches but trims the fine from &amp;euro;4.3B to &amp;euro;4.1B; Google can appeal &lpar;Stephanie Bodoni/Bloomberg&rpar;](http://www.techmeme.com/220914/p7#a220914p7)
- - [A South Korean court issues an arrest warrant for Terraform Labs founder Do Kwon and five others located in Singapore, following the collapse of LUNA and UST &lpar;Hooyeon Kim/Bloomberg&rpar;](http://www.techmeme.com/220914/p6#a220914p6)<!-- TECH:END -->
+ - [Chinese regulators approve paid games from Tencent and NetEase for the first time since July 2021, as part of granting 73 games licenses &lpar;Cissy Zhou/Nikkei Asia&rpar;](http://www.techmeme.com/220914/p9#a220914p9)
+ - [Windows Terminal now supports colorful themes to spruce up your dev environment](https://www.theverge.com/2022/9/14/23352608/windows-terminal-themes-customization)
+ - [Patreon cuts ~17% of its staff, or 80 positions, and closes offices in Dublin and Berlin; the company raised $155M in April 2021 at a $4B valuation &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220914/p8#a220914p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
