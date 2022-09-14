@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Chosen One](http://9gag.com/gag/adPyEN2)
- - ⏩ [21th Century Jokes before it was 21th Century](http://9gag.com/gag/aVbjpDO)
- - 👉 [Cause f**k logic.](http://9gag.com/gag/aVbjpLM)<!-- MEMES:END -->
+ - 💣 [I need to know who made this.](http://9gag.com/gag/a1PpGZv)
+ - ⏩ [Involuntary Yoga](http://9gag.com/gag/aGEKX7X)
+ - 👉 [Inflation is getting out of hands](http://9gag.com/gag/amAqenj)<!-- MEMES:END -->
 
 ---
 
