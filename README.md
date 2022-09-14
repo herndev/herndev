@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wednesday limbo magic](http://9gag.com/gag/az270pZ)
- - ⏩ [Maybe not?](http://9gag.com/gag/a3Zv9Ym)
- - 👉 [Let\u2019s do a drone light show over an uncontacted tribe and become their gods](http://9gag.com/gag/awZN6yW)<!-- MEMES:END -->
+ - 💣 [Is it?](http://9gag.com/gag/aWGBKx6)
+ - ⏩ [Rate my setup](http://9gag.com/gag/aNwm6w4)
+ - 👉 [Sick burn bro](http://9gag.com/gag/aA0Bo7R)<!-- MEMES:END -->
 
 ---
 
