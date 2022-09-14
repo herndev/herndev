@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft releases 63 security fixes, including patches for two zero-day flaws, one of which is under active exploit, and five critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220913/p49#a220913p49)
- - [GM&#39;s Cruise says it has developed four in-house chips for self-driving cars to be deployed by 2025, including an ARM-based computing chip called Horta &lpar;Reuters&rpar;](http://www.techmeme.com/220913/p48#a220913p48)
- - [UK-based Unlikely AI, founded by William Tunstall-Pedoe who helped develop several key technologies used by Amazon&#39;s Alexa, raised a $20M seed &lpar;Giles Turner/Bloomberg&rpar;](http://www.techmeme.com/220913/p47#a220913p47)<!-- TECH:END -->
+ - [Sources: Apple plans to use TSMC&#39;s next 3-nm chipmaking technology for the A17 mobile processor in some of its iPhones and Macs in 2023 &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/220913/p50#a220913p50)
+ - [Apple&#39;s Dr. Sumbul Desai to speak at Web Summit 2022](https://appleinsider.com/articles/22/09/14/apples-dr-sumbul-desai-to-speak-at-web-summit-2022?utm_medium=rss)
+ - [Microsoft releases 63 security fixes, including patches for two zero-day flaws, one of which is under active exploit, and five critical RCE vulnerabilities &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220913/p49#a220913p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
