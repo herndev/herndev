@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Twitter Whistleblower&#39;s Testimony Has Senators Out for Blood](https://www.wired.com/story/peiter-mudge-zatko-twitter-senate-judiciary-testimony/)
- - [California Governor Gavin Newsom signs AB 587 into law, requiring social networks to share moderation rules, despite concerns it may violate the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/220914/p31#a220914p31)
- - [Lockly Vision Elite review: two become one](https://www.theverge.com/23345083/lockly-vision-elite-review-smart-door-lock-video-doorbell)<!-- TECH:END -->
+ - [iOS 16.1 beta adds Apple’s ugly new battery percentage indicator to the iPhone Mini](https://www.theverge.com/2022/9/14/23353545/apple-ios-16-1-beta-battery-percentage-indicator-iphone-13-12-mini-11-xr)
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-hp-lenovo-dell-acer-lg-deal-sale)
+ - [Canva unveils new products Docs, Websites, Whiteboards, and Data Visualization, brings background removing to videos, and adds a remote control to Presentations &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220914/p32#a220914p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
