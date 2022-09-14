@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [PitchBook: in H1 2022, VC funding fell 8% YoY to $147.7B, pushing US startups to raise $17.1B in debt, up 7.5% YoY &lpar;Bloomberg&rpar;](http://www.techmeme.com/220914/p3#a220914p3)
  - [Disinformation campaigns use text messages ahead of the 2022 US midterms; in Kansas, voters got texts falsely saying a &quot;yes&quot; vote would protect abortion access &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/220914/p2#a220914p2)
- - [Charles Schwab, Citadel Securities, Fidelity Digital Assets, and others announce cryptocurrency exchange EDX Markets, leveraging tech from US stock market MEMX &lpar;Parikshit Mishra/CoinDesk&rpar;](http://www.techmeme.com/220914/p1#a220914p1)
- - [The Absolute Best Games on Nintendo Switch     - CNET](https://www.cnet.com/pictures/the-absolute-best-games-on-nintendo-switch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Someone just added Apple’s Dynamic Island on an Android phone &lpar;Updated&rpar;](https://www.androidauthority.com/dynamic-island-android-phone-3207570/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
