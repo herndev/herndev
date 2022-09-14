@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drama](http://9gag.com/gag/aDYRBGw)
- - ⏩ [Oh no](http://9gag.com/gag/a3ZvoO5)
- - 👉 [Green steelmaking uses electric furnaces. Electric furnaces look and sound like this when operating:](http://9gag.com/gag/aVbjGXO)<!-- MEMES:END -->
+ - 💣 [Isn&#39;t this way better](http://9gag.com/gag/aYVjzev)
+ - ⏩ [How much savings do you have?](http://9gag.com/gag/anzqeOo)
+ - 👉 [Single moms](http://9gag.com/gag/a6qrWQA)<!-- MEMES:END -->
 
 ---
 
