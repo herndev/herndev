@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Team Ninja&#39;s New Game Is A 19th-Century &#39;Action RPG&#39;](https://kotaku.com/rise-of-the-ronin-team-ninja-ps5-action-rpg-open-world-1849532956)
- - [WW1 FPS Isonzo is out Now](https://news.xbox.com/en-us/2022/09/13/ww1-fps-isonzo-is-out-now/)
- - [This weird comedy horror game from March went mostly unnoticed](https://www.pcgamer.com/this-weird-comedy-horror-game-from-march-went-mostly-unnoticed)<!-- GAME:END -->
+ - [Welcome To White Castle](https://kotaku.com/bioware-ken-fairclough-concept-art-mass-effect-anthem-1849528623)
+ - [Exclusive Magic: The Gathering Warhammer 40,000 card reveal: Keeper of Secrets](https://www.pcgamer.com/exclusive-magic-the-gathering-warhammer-40000-card-reveal-keeper-of-secrets)
+ - [Pacific Drive Is A &#39;Road-Like&#39;, Looks Very Cool](https://kotaku.com/pacific-drive-ironwood-ps5-pc-announced-revealed-1849533207)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
