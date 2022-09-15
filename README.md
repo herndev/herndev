@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tokyo Game Show Xbox Stream 2022: News and Updates on 22 Games from majority Japanese developers, DEATHLOOP coming to Xbox Next Week, and much more!](https://news.xbox.com/en-us/2022/09/15/tokyo-game-show-xbox-stream-2022-recap/)
- - [Blizzard explains why Overwatch 2 heroes are locked behind the battle pass: they&#39;re &#39;the single most engaging content&#39;](https://www.pcgamer.com/blizzard-overwatch-2-hero-battle-pass-interview)
- - [Overwatch 2 heroes aren&#39;t an early battle pass unlock](https://www.pcgamer.com/overwatch-2-hero-battle-pass-tier-55)<!-- GAME:END -->
+ - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
+ - [Fortnite Chapter 3 Season 4: Release date and what we know about Paradise](https://www.pcgamer.com/fortnite-chapter-3-season-4)
+ - [How to get clay in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-clay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
