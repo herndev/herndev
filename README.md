@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some YouTube viewers say ads on the platform have been expanding greatly in length and quantity recently, with reports of five to 10 unskippable ads per break &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220915/p33#a220915p33)
- - [Amazon is making a Blade Runner TV show](https://www.theverge.com/2022/9/15/23355197/blade-runner-tv-show-series-2099-amazon-prime-video)
- - [Satellite Data Shows How Russia Has Destroyed Ukrainian Grain](https://www.wired.com/story/satellites-ukraine-russia-grain/)<!-- TECH:END -->
+ - [Original iPhone stars in Stephen King&#39;s &#39;Mr. Harrigan&#39;s Phone&#39;](https://appleinsider.com/articles/22/09/15/original-iphone-stars-in-stephen-kings-mr-harrigans-phone?utm_medium=rss)
+ - [Adobe&#39;s Figma deal raises big questions about its M&amp;A whack-a-mole strategy in response to free alternatives; the deal is 50x Figma&#39;s reported 2022 ARR of $400M &lpar;Bryce Elder/Financial Times&rpar;](http://www.techmeme.com/220915/p35#a220915p35)
+ - [NYC-based job-focused social network Polywork raised a $28M Series B led by ex-GitHub CEO Nat Friedman and Caffeinated Capital, and launches out of private beta &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220915/p34#a220915p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
