@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welp, the Cyberpunk 2077 anime made me want to give the game another shot](https://www.pcgamer.com/welp-the-cyberpunk-2077-anime-made-me-want-to-give-the-game-another-shot)
- - [Overwatch loot box hoarders say goodbye](https://www.pcgamer.com/overwatch-loot-box-hoarders-say-goodbye)
- - [The best PC joysticks in 2022](https://www.pcgamer.com/the-best-pc-joysticks)<!-- GAME:END -->
+ - [Wuthering Waves is an Open-World ARPG with an emphasis on the action](https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action)
+ - [Both Judgment Games Are Now Available On PC, You Should Play Them](https://kotaku.com/judgment-lost-sega-steam-pc-available-released-1849537626)
+ - [I&#39;m shocked how quickly I became a murderous opium addict in this saloon management sim](https://www.pcgamer.com/im-shocked-how-quickly-i-became-a-murderous-opium-addict-in-this-saloon-management-sim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
