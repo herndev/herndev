@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My time has come](http://9gag.com/gag/aGEYx57)
+ - 💣 [The portraits worth framing](http://9gag.com/gag/a2KzmwO)
  - ⏩ [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)
- - 👉 [The portraits worth framing](http://9gag.com/gag/a2KzmwO)<!-- MEMES:END -->
+ - 👉 [Y e s](http://9gag.com/gag/aGEYxp0)<!-- MEMES:END -->
 
 ---
 
