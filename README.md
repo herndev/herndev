@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are simple](http://9gag.com/gag/aOxKVLR)
- - ⏩ [Single Life in 30s](http://9gag.com/gag/az2gVzm)
- - 👉 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
+ - 💣 [Things go bad real fast](http://9gag.com/gag/adP0jQZ)
+ - ⏩ [My time has come](http://9gag.com/gag/aGEYx57)
+ - 👉 [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)<!-- MEMES:END -->
 
 ---
 
