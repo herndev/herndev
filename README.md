@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rose &amp; Camellia, A Game About Ladies Slapping Each Other, Is Getting A Switch Port](https://kotaku.com/rose-camellia-jane-austen-switch-port-slap-slapping-1849537962)
- - [Wizards Of The Coast Go After Space RPG Accused Of &#39;Racist And Transphobic Content&#39;](https://kotaku.com/wizards-coast-star-frontiers-racist-trans-bigotry-suit-1849537890)
- - [Modern Warfare 2 guns are unlocked like a tech tree](https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree)<!-- GAME:END -->
+ - [AMD to showcase mid-range B650 motherboards on October 4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)
+ - [Pimax promises gifts among birthday celebrations and 12k VR Headset launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)
+ - [Seagate&#39;s Into the Spider-Verse styled portable HDDs are stunning](https://www.pcgamer.com/seagates-into-the-spider-verse-styled-portable-hdds-are-stunning)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
