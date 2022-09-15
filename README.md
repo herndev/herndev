@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)
- - [Lil Nas X is president of League of Legends now, whatever that means](https://www.pcgamer.com/lil-nas-x-is-president-of-league-of-legends-now-whatever-that-means)
- - [Blade Runner sequel promises ‘the next generation of Blade Runner’](https://www.polygon.com/23355113/blade-runner-2099-tv-series-amazon-prime-video-announcement)<!-- GAME:END -->
+ - [Eiyuden Chronicle: Hundred Heroes Character Profiles – Part One](https://news.xbox.com/en-us/2022/09/15/eiyuden-chronicle-hundred-heroes-character-profiles-part-one/)
+ - [Whew! Ken’s not divorced in Street Fighter 6](https://www.polygon.com/23355112/ken-street-fighter-6-divorced)
+ - [Streamers are playing Modern Warfare 2 live right now](https://www.pcgamer.com/streamers-are-playing-modern-warfare-2-live-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
