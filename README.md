@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google cancels Qaya, which offered storefronts for creators, and six other projects out of the 14 housed at its incubator Area 120, as it shifts its focus to AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220914/p37#a220914p37)
- - [EA’s CEO is following the money to more games with player-created content](https://www.theverge.com/2022/9/14/23353836/ea-creative-games-tools-games-andrew-wilson)
- - [Splatoon 3 Salmon Run Guide: How to Beat Cohozuna     - CNET](https://www.cnet.com/tech/gaming/splatoon-3-salmon-run-guide-how-to-beat-cohozuna/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arm unveils Neoverse V2, its next-gen performance-optimized cores for the cloud, hyperscale, and HPC workloads, which is used in Nvidia&#39;s upcoming Grace CPU &lpar;Patrick Kennedy/ServeTheHome&rpar;](http://www.techmeme.com/220914/p40#a220914p40)
+ - [Verkada, a security-focused IoT devices maker that has faced lax data security and toxic workplace allegations, raised a $205M Series D at a $3.2B valuation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220914/p39#a220914p39)
+ - [Seesaw, a messaging app for parents and teachers with 10M users, says it suffered a credential stuffing attack, after users said they received an explicit image &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/220914/p38#a220914p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
