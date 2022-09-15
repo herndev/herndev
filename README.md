@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)
- - [New Xbox Game Pass titles include Ni No Kuni, Danganronpa](https://www.polygon.com/23354744/xbox-game-pass-september-2022-games-ni-no-kuni-danganronpa-persona-guilty-gear)
- - [Free Play Days – Golf With Your Friends and Diablo III: Eternal Collection](https://news.xbox.com/en-us/2022/09/15/free-play-days-golf-with-your-friends-and-diablo-iii-eternal-collection/)<!-- GAME:END -->
+ - [5 Reasons to Download The Sims 4 Free Starting October 18](https://news.xbox.com/en-us/2022/09/15/5-reasons-download-the-sims-4-free/)
+ - [Pearl director Ti West set out to make a Disney version of a horror movie](https://www.polygon.com/23353620/pearl-ti-west-disney-inspirations)
+ - [Lil Nas X will perform this year’s League of Legends Worlds anthem and help design a new champion skin](https://www.polygon.com/23354828/riot-lil-nas-x-worlds-anthem-star-walkin-ksante-champion-skin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
