@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Electronics pledges to invest $5B+ in R&amp;D on tech to achieve net zero emissions for its devices business by 2030 and across the company by 2050 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/220915/p1#a220915p1)
- - [Apple&#39;s homepage is experiencing partial outages](https://appleinsider.com/articles/22/09/15/apples-homepage-is-experiencing-partial-outages?utm_medium=rss)
- - [iOS 16.0.1 Reportedly Fixes iPhone 14 Issues     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-0-1-reportedly-fixes-iphone-14-issues/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hone, which runs an online learning platform for executive training and is helmed by FanDuel co-founder Tom Griffiths, raised a $30M Series B led by 3L capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p3#a220915p3)
+ - [The upcoming Google Chromecast HD may not be so cheap after all](https://www.androidauthority.com/google-chromecast-hd-price-3209057/)
+ - [Walmart is launching a virtual try-on tool that allows shoppers to see how a clothing item would look on their own bodies without having to visit a store &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220915/p2#a220915p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
