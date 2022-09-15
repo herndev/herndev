@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)
- - [Ethereum will use less energy now that it’s proof-of-stake](https://www.theverge.com/2022/9/15/23329037/ethereum-pos-pow-merge-miners-environment)
- - [Houston-based Majority, a mobile bank serving migrants to the US, raised a $30M Series B and $7.5M in debt, bringing its total funding to $83.5M since June 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220915/p5#a220915p5)<!-- TECH:END -->
+ - [Google redesigns the Memories feature in Photos to spotlight more videos, launches a collage editor, and will let users share Memories with friends and family &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220915/p8#a220915p8)
+ - [Memo: Netflix told ad buyers the company expects its ad-supported tier to reach 4.4M unique viewers globally in 2022, and ~40M by Q3 2023, with 13.3M in the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p7#a220915p7)
+ - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
