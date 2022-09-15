@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Eiyuden Chronicle: Hundred Heroes Character Profiles – Part One](https://news.xbox.com/en-us/2022/09/15/eiyuden-chronicle-hundred-heroes-character-profiles-part-one/)
- - [Whew! Ken’s not divorced in Street Fighter 6](https://www.polygon.com/23355112/ken-street-fighter-6-divorced)
- - [Streamers are playing Modern Warfare 2 live right now](https://www.pcgamer.com/streamers-are-playing-modern-warfare-2-live-right-now)<!-- GAME:END -->
+ - [This flying car mod for Cyberpunk 2077 looks so good it should be a real feature](https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature)
+ - [Disney Dreamlight Valley patch fixes a quest that cursed me](https://www.polygon.com/23355335/disney-dreamlight-valley-patch-curse-dream-shards)
+ - [Release the Avongers shirt from She-Hulk](https://www.polygon.com/23354668/she-hulk-disney-plus-avongers-avingers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
