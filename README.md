@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)
- - ⏩ [Corporate things](http://9gag.com/gag/aME2roR)
- - 👉 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
+ - 💣 [No escape VR](http://9gag.com/gag/a8qLYne)
+ - ⏩ [Scaly and fishy](http://9gag.com/gag/a1PvZ42)
+ - 👉 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)<!-- MEMES:END -->
 
 ---
 
