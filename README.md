@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lil Nas X is performing at the League of Legends World Championship](https://www.theverge.com/2022/9/15/23354537/lil-nas-x-league-of-legends-worlds-2022)
- - [Snapchat for web is now available to everyone](https://www.theverge.com/2022/9/15/23354689/snapchat-for-desktop-web-version-rollout)
- - [Biden issues an EO directing the CFIUS to increase scrutiny of deals that may give China and other adversaries access to critical technologies and personal data &lpar;Charles Hutzler/Wall Street Journal&rpar;](http://www.techmeme.com/220915/p28#a220915p28)<!-- TECH:END -->
+ - [Emergency SOS via satellite expanding to more countries in 2022, sketchy report says](https://appleinsider.com/articles/22/09/15/emergency-sos-via-satellite-expanding-to-more-countries-in-2022-sketchy-report-says?utm_medium=rss)
+ - [Snap makes Snapchat for Web available to all users globally, including support for video calls, releases iOS 16 lock screen widgets, and more &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/220915/p30#a220915p30)
+ - [Last day: save up to $200 on Apple&#39;s new MacBook Air, cheapest prices on record](https://appleinsider.com/articles/22/09/09/exclusive-deals-save-up-to-200-on-apples-new-macbook-air-cheapest-prices-on-record?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
