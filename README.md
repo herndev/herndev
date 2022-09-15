@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Corporate things](http://9gag.com/gag/aME2roR)
- - ⏩ [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
- - 👉 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)<!-- MEMES:END -->
+ - 💣 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)
+ - ⏩ [When you don&#39;t check mirrors before opening the door...](http://9gag.com/gag/a048YdO)
+ - 👉 [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)<!-- MEMES:END -->
 
 ---
 
