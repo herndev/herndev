@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Arrest warrant issued for &#39;Lunatic&#39; crypto baron behind this year&#39;s $40 billion crash](https://www.pcgamer.com/arrest-warrant-issued-for-lunatic-crypto-baron-behind-this-years-dollar40-billion-crash)
- - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)
- - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)<!-- GAME:END -->
+ - [Uncharted: Legacy of Thieves arrives on PC October 19, 2022](https://blog.playstation.com/2022/09/15/uncharted-legacy-of-thieves-arrives-on-pc-october-19-2022/)
+ - [New Xbox Game Pass titles include Ni No Kuni, Danganronpa](https://www.polygon.com/23354744/xbox-game-pass-september-2022-games-ni-no-kuni-danganronpa-persona-guilty-gear)
+ - [Free Play Days – Golf With Your Friends and Diablo III: Eternal Collection](https://news.xbox.com/en-us/2022/09/15/free-play-days-golf-with-your-friends-and-diablo-iii-eternal-collection/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
