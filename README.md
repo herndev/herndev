@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon says its new &quot;Tailored Audiences&quot; tool, available to all US sellers in early 2023, will let brands and merchants send marketing emails to shoppers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220915/p4#a220915p4)
  - [Hone, which runs an online learning platform for executive training and is helmed by FanDuel co-founder Tom Griffiths, raised a $30M Series B led by 3L capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p3#a220915p3)
- - [The upcoming Google Chromecast HD may not be so cheap after all](https://www.androidauthority.com/google-chromecast-hd-price-3209057/)
- - [Walmart is launching a virtual try-on tool that allows shoppers to see how a clothing item would look on their own bodies without having to visit a store &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220915/p2#a220915p2)<!-- TECH:END -->
+ - [The upcoming Google Chromecast HD may not be so cheap after all](https://www.androidauthority.com/google-chromecast-hd-price-3209057/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
