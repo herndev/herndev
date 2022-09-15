@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook discusses China &amp; censorship with Republicans](https://appleinsider.com/articles/22/09/15/tim-cook-discusses-china-censorship-with-republicans?utm_medium=rss)
- - [French director Marion Si&amp;eacute;fert blames Meta&#39;s policies for banning livestreams of her &quot;Instagram play&quot; about teenage sexuality, even though it contains no nudity &lpar;Laura Cappelle/New York Times&rpar;](http://www.techmeme.com/220915/p17#a220915p17)
- - [VR Is Struggling to Grow Out of Its Awkward Phase](https://www.wired.com/story/gadget-lab-podcast-656/)<!-- TECH:END -->
+ - [Apple Watch Series 8 review: watchOS 9, crash detection, and low-power mode are excellent, but needs daily charging and the update is fairly incremental &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220915/p23#a220915p23)
+ - [Bose&#39;s QuietComfort Earbuds II Have the Best ANC We&#39;ve Heard](https://www.wired.com/review/bose-quietcomfort-earbuds-ii-review/)
+ - [What Modern Humans Can Learn From Ancient Software](https://www.wired.com/story/modern-humans-learn-ancient-software-retrocomputing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
