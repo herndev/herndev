@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmm interesting](http://9gag.com/gag/aDYAAD9)
- - ⏩ [The speed of internet](http://9gag.com/gag/aL1RKLx)
- - 👉 [Male privilege](http://9gag.com/gag/aZDbbqp)<!-- MEMES:END -->
+ - 💣 [Its something](http://9gag.com/gag/avQppyO)
+ - ⏩ [After Lorde &lpar;Randy&rpar;. Nicky Minaj &lpar;Jay-z&rpar;](http://9gag.com/gag/armvvw0)
+ - 👉 [Validation seeker Gen got REKT](http://9gag.com/gag/awZ0b0B)<!-- MEMES:END -->
 
 ---
 
