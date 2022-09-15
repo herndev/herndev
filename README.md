@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve been into battles but there&#39;s no way I&#39;m gonna answer that, Steve](http://9gag.com/gag/aKEww8Z)
- - ⏩ [Meteor seen flying over multiple parts of the UK.](http://9gag.com/gag/aA0RYgL)
- - 👉 [Hmmm interesting](http://9gag.com/gag/aDYAAD9)<!-- MEMES:END -->
+ - 💣 [Hmmm interesting](http://9gag.com/gag/aDYAAD9)
+ - ⏩ [The speed of internet](http://9gag.com/gag/aL1RKLx)
+ - 👉 [Male privilege](http://9gag.com/gag/aZDbbqp)<!-- MEMES:END -->
 
 ---
 
