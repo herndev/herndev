@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 1: Last Day Is Oct. 2, Blizzard Says     - CNET](https://www.cnet.com/tech/gaming/overwatch-1-last-day-is-oct-2-blizzard-says/#ftag=CAD590a51e)
- - [Hubble Telescope Captures What Might Be Prettiest Spiral Galaxy Ever     - CNET](https://www.cnet.com/science/space/hubble-telescope-captures-what-might-be-prettiest-spiral-galaxy-ever/#ftag=CAD590a51e)
- - [Astronomy Photographer of the Year Captures Rare, Dazzling Comet Photo     - CNET](https://www.cnet.com/science/space/astronomy-photographer-of-the-year-finalists-dazzle-with-spacey-beauty/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Memo to staff: Adam Mosseri says its surveys of creators show Instagram lags behind TikTok and YouTube on the most important creator satisfaction dimensions &lpar;The Information&rpar;](http://www.techmeme.com/220915/p38#a220915p38)
+ - [Thursday Night Football: How to Watch, Stream Chargers vs. Chiefs Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-chargers-vs-chiefs-tonight-amazon-prime-video-on-without-cable/#ftag=CAD590a51e)
+ - [California Governor Signs Kids Online Safety Act Into Law     - CNET](https://www.cnet.com/news/politics/california-governor-signs-kids-online-safety-act-into-law/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
