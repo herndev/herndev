@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the anime movies coming to theaters in fall 2022](https://www.polygon.com/23339878/fall-anime-preview-theatrical-movies-2022)
- - [Danganronpa V3: Killing Harmony Anniversary Edition Available Now with Game Pass](https://news.xbox.com/en-us/2022/09/15/danganronpa-v3-killing-harmony-anniversary-edition-available-now-with-game-pass/)
- - [Sins of a Solar Empire 2 is reaching for the stars](https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare II Multiplayer &amp; Warzone 2.0 details revealed](https://blog.playstation.com/2022/09/15/call-of-duty-modern-warfare-ii-multiplayer-warzone-2-0-details-revealed/)
+ - [Lil Nas X is president of League of Legends now, whatever that means](https://www.pcgamer.com/lil-nas-x-is-president-of-league-of-legends-now-whatever-that-means)
+ - [Blade Runner sequel promises ‘the next generation of Blade Runner’](https://www.polygon.com/23355113/blade-runner-2099-tv-series-amazon-prime-video-announcement)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
