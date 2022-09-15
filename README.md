@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wuthering Waves is an Open-World ARPG with an emphasis on the action](https://www.pcgamer.com/wuthering-waves-is-an-open-world-arpg-with-an-emphasis-on-the-action)
- - [Both Judgment Games Are Now Available On PC, You Should Play Them](https://kotaku.com/judgment-lost-sega-steam-pc-available-released-1849537626)
- - [I&#39;m shocked how quickly I became a murderous opium addict in this saloon management sim](https://www.pcgamer.com/im-shocked-how-quickly-i-became-a-murderous-opium-addict-in-this-saloon-management-sim)<!-- GAME:END -->
+ - [Rose &amp; Camellia, A Game About Ladies Slapping Each Other, Is Getting A Switch Port](https://kotaku.com/rose-camellia-jane-austen-switch-port-slap-slapping-1849537962)
+ - [10 video games that have the most potential to be great movies, according to Reddit](https://game-rant-2022.blogspot.com/2022/09/10-video-games-that-have-most-potential.html)
+ - [Best Battle Arenas in JRPGs](https://game-rant-2022.blogspot.com/2022/09/best-battle-arenas-in-jrpgs.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
