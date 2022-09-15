@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Shanghai&#39;s status as China&#39;s chip hub: SMIC and SMEE making 14nm and 90nm chips, ~$36.95B market size in 2021 or ~25% of China&#39;s total, and more &lpar;Jiaxing Li/South China Morning Post&rpar;](http://www.techmeme.com/220915/p14#a220915p14)
- - [Walmart now lets you virtually model clothing on your own body](https://www.theverge.com/2022/9/15/23354447/walmart-app-ar-vr-virtual-model-clothing-own-body)
- - [Experts say Peiter Zatko&#39;s Senate testimony on Twitter is unlikely to have a big impact on Elon Musk&#39;s legal battle to terminate his $44B takeover deal &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220915/p13#a220915p13)<!-- TECH:END -->
+ - [Tim Cook discusses China &amp; censorship with Republicans](https://appleinsider.com/articles/22/09/15/tim-cook-discusses-china-censorship-with-republicans?utm_medium=rss)
+ - [French director Marion Si&amp;eacute;fert blames Meta&#39;s policies for banning livestreams of her &quot;Instagram play&quot; about teenage sexuality, even though it contains no nudity &lpar;Laura Cappelle/New York Times&rpar;](http://www.techmeme.com/220915/p17#a220915p17)
+ - [VR Is Struggling to Grow Out of Its Awkward Phase](https://www.wired.com/story/gadget-lab-podcast-656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
