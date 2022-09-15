@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A US Rail Strike Was Averted—but the Crisis Is Far From Over](https://www.wired.com/story/a-us-rail-strike-was-averted-but-the-crisis-is-far-from-over/)
- - [Gavin Newsom signs California social media overhaul for minors](https://www.theverge.com/2022/9/15/23329654/california-governor-gavin-newsom-ab-2273-social-media-children-code-law-signed)
- - [NASA&#39;s Perseverance Rover Digs Up Organic Molecules on Mars](https://www.wired.com/story/nasas-perseverance-rover-digs-up-organic-molecules-on-mars/)<!-- TECH:END -->
+ - [Overwatch 1: Last Day Is Oct. 2, Blizzard Says     - CNET](https://www.cnet.com/tech/gaming/overwatch-1-last-day-is-oct-2-blizzard-says/#ftag=CAD590a51e)
+ - [Hubble Telescope Captures What Might Be Prettiest Spiral Galaxy Ever     - CNET](https://www.cnet.com/science/space/hubble-telescope-captures-what-might-be-prettiest-spiral-galaxy-ever/#ftag=CAD590a51e)
+ - [Astronomy Photographer of the Year Captures Rare, Dazzling Comet Photo     - CNET](https://www.cnet.com/science/space/astronomy-photographer-of-the-year-finalists-dazzle-with-spacey-beauty/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
