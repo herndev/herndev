@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wayward Strand Is A Beautiful Story About Being Young, And Growing Old](https://kotaku.com/wayward-strand-impressions-australia-adventure-1849533769)
  - [Today&#39;s Wordle 453 answer and hint: Thursday, September 15](https://www.pcgamer.com/todays-wordle-453-answer-hint)
- - [AMD to showcase mid-range B650 motherboards on October 4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)
- - [Pimax promises gifts among birthday celebrations and 12k VR Headset launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)<!-- GAME:END -->
+ - [AMD to showcase mid-range B650 motherboards on October 4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
