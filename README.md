@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google redesigns the Memories feature in Photos to spotlight more videos, launches a collage editor, and will let users share Memories with friends and family &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220915/p8#a220915p8)
- - [Memo: Netflix told ad buyers the company expects its ad-supported tier to reach 4.4M unique viewers globally in 2022, and ~40M by Q3 2023, with 13.3M in the US &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p7#a220915p7)
- - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)<!-- TECH:END -->
+ - [Overwatch 2 developers explain the new battle pass](https://www.theverge.com/2022/9/15/23354157/overwatch-2-heroes-battle-pass-progression)
+ - [First iPhone 14 Pro Max teardown reveals internal redesigns](https://appleinsider.com/articles/22/09/15/first-iphone-14-pro-max-teardown-reveals-internal-redesigns?utm_medium=rss)
+ - [A review of Intel&#39;s pre-release AI upscaling tech XeSS, used in its new Arc A770 GPU, shows competitive results against Nvidia&#39;s slightly older DLSS &lpar;Alex Battaglia/Eurogamer.net&rpar;](http://www.techmeme.com/220915/p11#a220915p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
