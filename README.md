@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 review: watchOS 9, crash detection, and low-power mode are excellent, but needs daily charging and the update is fairly incremental &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220915/p23#a220915p23)
- - [Bose&#39;s QuietComfort Earbuds II Have the Best ANC We&#39;ve Heard](https://www.wired.com/review/bose-quietcomfort-earbuds-ii-review/)
- - [What Modern Humans Can Learn From Ancient Software](https://www.wired.com/story/modern-humans-learn-ancient-software-retrocomputing/)<!-- TECH:END -->
+ - [Apple Watch Series 8 &amp; SE review roundup: Few reasons to upgrade](https://appleinsider.com/articles/22/09/15/apple-watch-series-8-se-review-roundup-few-reasons-to-upgrade?utm_medium=rss)
+ - [TikTok Now is the latest BeReal knockoff](https://www.theverge.com/2022/9/15/23354609/tiktok-now-bereal-copy-dual-camera-feature)
+ - [Here’s Krafton’s virtual human Ana in action](https://www.theverge.com/2022/9/15/23354604/krafton-virtual-human-ana-music-video)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
