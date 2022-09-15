@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Reasons to Download The Sims 4 Free Starting October 18](https://news.xbox.com/en-us/2022/09/15/5-reasons-download-the-sims-4-free/)
- - [Pearl director Ti West set out to make a Disney version of a horror movie](https://www.polygon.com/23353620/pearl-ti-west-disney-inspirations)
- - [Lil Nas X will perform this year’s League of Legends Worlds anthem and help design a new champion skin](https://www.polygon.com/23354828/riot-lil-nas-x-worlds-anthem-star-walkin-ksante-champion-skin)<!-- GAME:END -->
+ - [All the anime movies coming to theaters in fall 2022](https://www.polygon.com/23339878/fall-anime-preview-theatrical-movies-2022)
+ - [Danganronpa V3: Killing Harmony Anniversary Edition Available Now with Game Pass](https://news.xbox.com/en-us/2022/09/15/danganronpa-v3-killing-harmony-anniversary-edition-available-now-with-game-pass/)
+ - [Sins of a Solar Empire 2 is reaching for the stars](https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
