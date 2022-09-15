@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holly mother of croissants](http://9gag.com/gag/a9qbLD1)
- - ⏩ [Religious institutions in a nutshell.](http://9gag.com/gag/aeQj3A5)
- - 👉 [Smelly cat. Smelly cat.](http://9gag.com/gag/az2gExN)<!-- MEMES:END -->
+ - 💣 [Left vs Right, change my mind](http://9gag.com/gag/anzqXy5)
+ - ⏩ [The difference between a leader and a war criminal.](http://9gag.com/gag/a5XeNDO)
+ - 👉 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)<!-- MEMES:END -->
 
 ---
 
