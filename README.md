@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Tokyo Game Show Xbox Stream 2022: News and Updates on 22 Games from majority Japanese developers, DEATHLOOP coming to Xbox Next Week, and much more!](https://news.xbox.com/en-us/2022/09/15/tokyo-game-show-xbox-stream-2022-recap/)
- - [Why Blizzard believes Overwatch 2’s battle pass won’t break the game](https://www.polygon.com/23353371/overwatch-2-battle-pass-hero-unlocks-balance-switching)
- - [How Overwatch 2’s battle pass works](https://www.polygon.com/23353301/overwatch-2-battle-pass-details-unlock-heroes-game-balance)<!-- GAME:END -->
+ - [Blizzard explains why Overwatch 2 heroes are locked behind the battle pass: they&#39;re &#39;the single most engaging content&#39;](https://www.pcgamer.com/blizzard-overwatch-2-hero-battle-pass-interview)
+ - [Overwatch 2 heroes aren&#39;t an early battle pass unlock](https://www.pcgamer.com/overwatch-2-hero-battle-pass-tier-55)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
