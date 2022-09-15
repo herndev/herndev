@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This flying car mod for Cyberpunk 2077 looks so good it should be a real feature](https://www.pcgamer.com/this-flying-car-mod-for-cyberpunk-2077-looks-so-good-it-should-be-a-real-feature)
- - [Disney Dreamlight Valley patch fixes a quest that cursed me](https://www.polygon.com/23355335/disney-dreamlight-valley-patch-curse-dream-shards)
- - [Release the Avongers shirt from She-Hulk](https://www.polygon.com/23354668/she-hulk-disney-plus-avongers-avingers)<!-- GAME:END -->
+ - [Overwatch’s Assault maps are going away but could return, reworked, in Overwatch 2](https://www.polygon.com/23355352/overwatch-assault-maps-ow2-redesigns-blizzard)
+ - [We finally know when Call of Duty: Warzone 2.0 launches](https://www.pcgamer.com/we-finally-know-when-warzone-20-launches)
+ - [8 Forgotten Web Games That’ll Bring You Back To The Weirdest Parts Of The Internet](https://kotaku.com/pc-flash-browser-games-y2k-barbiegirls-line-rider-1849541664)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
