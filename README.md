@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Users say a demo of ERNIE-ViLG, a text-to-image AI model from Baidu, labels certain political words as &quot;sensitive&quot; and blocks them from generating any result &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220914/p36#a220914p36)
- - [Tesla is being sued over Autopilot and Elon Musk’s Full Self-Driving predictions](https://www.theverge.com/2022/9/14/23353787/elon-musk-tesla-lawsuit-autopilot-full-self-driving-promises)
- - [The Ethereum Merge is Imminent. Here&#39;s Why It Matters     - CNET](https://www.cnet.com/personal-finance/crypto/the-ethereum-merge-is-imminent-heres-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google cancels Qaya, which offered storefronts for creators, and six other projects out of the 14 housed at its incubator Area 120, as it shifts its focus to AI &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/220914/p37#a220914p37)
+ - [EA’s CEO is following the money to more games with player-created content](https://www.theverge.com/2022/9/14/23353836/ea-creative-games-tools-games-andrew-wilson)
+ - [Splatoon 3 Salmon Run Guide: How to Beat Cohozuna     - CNET](https://www.cnet.com/tech/gaming/splatoon-3-salmon-run-guide-how-to-beat-cohozuna/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
