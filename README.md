@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neon-folk survival horror Saturnalia comes to PS4 and PS5 next month](https://blog.playstation.com/2022/09/15/neon-folk-survival-horror-saturnalia-comes-to-ps4-and-ps5-next-month/)
- - [Reclaim ‘The Sirens’ Prize’ in Sea of Thieves’ Seventh Adventure, Live Until September 29](https://news.xbox.com/en-us/2022/09/15/reclaim-the-sirens-prize-in-sea-of-thieves-seventh-adventure-live-until-september-29/)
- - [The future of tabletop games is digital](https://www.polygon.com/23352511/digital-tabletop-games-coming-soon)<!-- GAME:END -->
+ - [Arrest warrant issued for &#39;Lunatic&#39; crypto baron behind this year&#39;s $40 billion crash](https://www.pcgamer.com/arrest-warrant-issued-for-lunatic-crypto-baron-behind-this-years-dollar40-billion-crash)
+ - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)
+ - [Award-winning point &amp; click adventure Norco comes to PlayStation October 20](https://blog.playstation.com/2022/09/15/award-winning-point-click-adventure-norco-comes-to-playstation-october-20/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
