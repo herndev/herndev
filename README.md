@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo may soon answer your questions with ads](https://www.theverge.com/2022/9/15/23354968/amazon-echo-alexa-ads-questions-smart-speaker)
- - [Street Fighter 6 will let you make your own hot Ryu](https://www.theverge.com/2022/9/15/23354942/street-fighter-6-character-avatar-creator-make-your-own-closed-beta-test)
- - [Sen. Wyden reveals CBP told Congress it is adding data from ~10K travelers&#39; devices per year to a database, accessible to 2,700 officers without a warrant &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/220915/p31#a220915p31)<!-- TECH:END -->
+ - [The Biden administration’s big new plans for floating offshore wind turbines](https://www.theverge.com/2022/9/15/23354923/biden-administration-floating-offshore-wind-turbines)
+ - [Call of Duty: Warzone 2.0 is coming in November](https://www.theverge.com/2022/9/15/23354669/call-of-duty-warzone-2-mobile-release-date)
+ - [Ford won’t say whether the new Mustang runs on Android](https://www.theverge.com/2022/9/15/23355037/ford-mustang-software-unreal-android-ux)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
