@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch’s Assault maps are going away but could return, reworked, in Overwatch 2](https://www.polygon.com/23355352/overwatch-assault-maps-ow2-redesigns-blizzard)
- - [We finally know when Call of Duty: Warzone 2.0 launches](https://www.pcgamer.com/we-finally-know-when-warzone-20-launches)
- - [8 Forgotten Web Games That’ll Bring You Back To The Weirdest Parts Of The Internet](https://kotaku.com/pc-flash-browser-games-y2k-barbiegirls-line-rider-1849541664)<!-- GAME:END -->
+ - [Uncharted 4 releases on PC in October with variable framerate and an updated UI](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui)
+ - [Star Wars’ Rogue Squadron movie removed from Disney’s future plans](https://www.polygon.com/23355555/star-wars-rogue-squadron-movie-canceled-disney)
+ - [Blizzard Gives Overwatch 2 Players Kiriko For Free But Defends Its Battle Pass System](https://kotaku.com/overwatch-2-battle-pass-unlock-kiriko-blizzard-sojourn-1849542245)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
