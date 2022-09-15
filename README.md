@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Left vs Right, change my mind](http://9gag.com/gag/anzqXy5)
- - ⏩ [The difference between a leader and a war criminal.](http://9gag.com/gag/a5XeNDO)
- - 👉 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)<!-- MEMES:END -->
+ - 💣 [Hustler University be like.](http://9gag.com/gag/awZ0bLr)
+ - ⏩ [Corporate things](http://9gag.com/gag/aME2roR)
+ - 👉 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
 
 ---
 
