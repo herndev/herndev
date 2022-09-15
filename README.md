@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hair color is right, right?](http://9gag.com/gag/aWGQZ0Z)
+ - 💣 [1.6M views. I love democracy.](http://9gag.com/gag/a2KzNpZ)
  - ⏩ [Relax &amp; Sleep...](http://9gag.com/gag/a4oK4Np)
- - 👉 [For the first time in my life, I bought a car that I love, with my own money. Best feeling I ever had](http://9gag.com/gag/aeQjjrW)<!-- MEMES:END -->
+ - 👉 [Meteor seen flying over multiple parts of the UK.](http://9gag.com/gag/aA0RYgL)<!-- MEMES:END -->
 
 ---
 
