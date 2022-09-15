@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who wants consomme?](http://9gag.com/gag/aA0RRwR)
- - ⏩ [I want whatever she&#39;s smoking](http://9gag.com/gag/adP00YV)
- - 👉 [How much savings do you have?](http://9gag.com/gag/anzqeOo)<!-- MEMES:END -->
+ - 💣 [I&#39;ve been into battles but there&#39;s no way I&#39;m gonna answer that, Steve](http://9gag.com/gag/aKEww8Z)
+ - ⏩ [After Lorde &lpar;Randy&rpar;. Nicky Minaj &lpar;Jay-z&rpar;](http://9gag.com/gag/armvvw0)
+ - 👉 [Hmmm interesting](http://9gag.com/gag/aDYAAD9)<!-- MEMES:END -->
 
 ---
 
