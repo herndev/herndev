@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Rose &amp; Camellia, A Game About Ladies Slapping Each Other, Is Getting A Switch Port](https://kotaku.com/rose-camellia-jane-austen-switch-port-slap-slapping-1849537962)
- - [10 video games that have the most potential to be great movies, according to Reddit](https://game-rant-2022.blogspot.com/2022/09/10-video-games-that-have-most-potential.html)
- - [Best Battle Arenas in JRPGs](https://game-rant-2022.blogspot.com/2022/09/best-battle-arenas-in-jrpgs.html)<!-- GAME:END -->
+ - [Wizards Of The Coast Go After Space RPG Accused Of &#39;Racist And Transphobic Content&#39;](https://kotaku.com/wizards-coast-star-frontiers-racist-trans-bigotry-suit-1849537890)
+ - [Modern Warfare 2 guns are unlocked like a tech tree](https://www.pcgamer.com/modern-warfare-2-guns-are-unlocked-like-a-tech-tree)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
