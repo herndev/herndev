@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ethereum activates its long-awaited The Merge upgrade and transactions are now being processed under proof of stake &lpar;Mike Truppa/The Block&rpar;](http://www.techmeme.com/220915/p6#a220915p6)
  - [Ethereum will use less energy now that it’s proof-of-stake](https://www.theverge.com/2022/9/15/23329037/ethereum-pos-pow-merge-miners-environment)
- - [Majority, a mobile bank serving migrants to the US, raised a $30M Series B and $7.5M in debt, bringing its total funding to $83.5M in just over a year &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220915/p5#a220915p5)
- - [Amazon says its new &quot;Tailored Audiences&quot; tool, available to all US sellers in early 2023, will let brands and merchants send marketing emails to shoppers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220915/p4#a220915p4)<!-- TECH:END -->
+ - [Houston-based Majority, a mobile bank serving migrants to the US, raised a $30M Series B and $7.5M in debt, bringing its total funding to $83.5M since June 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/220915/p5#a220915p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
