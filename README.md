@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No escape VR](http://9gag.com/gag/a8qLYne)
- - ⏩ [Scaly and fishy](http://9gag.com/gag/a1PvZ42)
+ - 💣 [Corporate things](http://9gag.com/gag/aME2roR)
+ - ⏩ [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
  - 👉 [Ain&#39;t that cute](http://9gag.com/gag/armv4MK)<!-- MEMES:END -->
 
 ---
