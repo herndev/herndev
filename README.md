@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth criminal](http://9gag.com/gag/axodNBp)
- - ⏩ [Robbing the wrong place](http://9gag.com/gag/aA0RVER)
- - 👉 [The best life hack](http://9gag.com/gag/a6qmdVb)<!-- MEMES:END -->
+ - 💣 [Please, someone explain to me, why food for kids it&#39;s not free, neither a basic right in a civilized country...](http://9gag.com/gag/a9qbd2W)
+ - ⏩ [The best life hack](http://9gag.com/gag/a6qmdVb)
+ - 👉 [Don&#39;t go](http://9gag.com/gag/aVbzQdO)<!-- MEMES:END -->
 
 ---
 
