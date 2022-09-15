@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 453 answer and hint: Thursday, September 15](https://www.pcgamer.com/todays-wordle-453-answer-hint)
  - [AMD to showcase mid-range B650 motherboards on October 4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)
- - [Pimax promises gifts among birthday celebrations and 12k VR Headset launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)
- - [Seagate&#39;s Into the Spider-Verse styled portable HDDs are stunning](https://www.pcgamer.com/seagates-into-the-spider-verse-styled-portable-hdds-are-stunning)<!-- GAME:END -->
+ - [Pimax promises gifts among birthday celebrations and 12k VR Headset launch](https://www.pcgamer.com/pimax-promises-gifts-among-birthday-celebrations-and-12k-vr-headset-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
