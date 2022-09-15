@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Biden administration’s big new plans for floating offshore wind turbines](https://www.theverge.com/2022/9/15/23354923/biden-administration-floating-offshore-wind-turbines)
- - [Call of Duty: Warzone 2.0 is coming in November](https://www.theverge.com/2022/9/15/23354669/call-of-duty-warzone-2-mobile-release-date)
- - [Ford won’t say whether the new Mustang runs on Android](https://www.theverge.com/2022/9/15/23355037/ford-mustang-software-unreal-android-ux)<!-- TECH:END -->
+ - [Some YouTube viewers say ads on the platform have been expanding greatly in length and quantity recently, with reports of five to 10 unskippable ads per break &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/220915/p33#a220915p33)
+ - [Amazon is making a Blade Runner TV show](https://www.theverge.com/2022/9/15/23355197/blade-runner-tv-show-series-2099-amazon-prime-video)
+ - [Satellite Data Shows How Russia Has Destroyed Ukrainian Grain](https://www.wired.com/story/satellites-ukraine-russia-grain/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
