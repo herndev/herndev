@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 developers explain the new battle pass](https://www.theverge.com/2022/9/15/23354157/overwatch-2-heroes-battle-pass-progression)
- - [First iPhone 14 Pro Max teardown reveals internal redesigns](https://appleinsider.com/articles/22/09/15/first-iphone-14-pro-max-teardown-reveals-internal-redesigns?utm_medium=rss)
- - [A review of Intel&#39;s pre-release AI upscaling tech XeSS, used in its new Arc A770 GPU, shows competitive results against Nvidia&#39;s slightly older DLSS &lpar;Alex Battaglia/Eurogamer.net&rpar;](http://www.techmeme.com/220915/p11#a220915p11)<!-- TECH:END -->
+ - [A look at Shanghai&#39;s status as China&#39;s chip hub: SMIC and SMEE making 14nm and 90nm chips, ~$36.95B market size in 2021 or ~25% of China&#39;s total, and more &lpar;Jiaxing Li/South China Morning Post&rpar;](http://www.techmeme.com/220915/p14#a220915p14)
+ - [Walmart now lets you virtually model clothing on your own body](https://www.theverge.com/2022/9/15/23354447/walmart-app-ar-vr-virtual-model-clothing-own-body)
+ - [Experts say Peiter Zatko&#39;s Senate testimony on Twitter is unlikely to have a big impact on Elon Musk&#39;s legal battle to terminate his $44B takeover deal &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/220915/p13#a220915p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
