@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This screaming kitten was run over by the car in front of me. Unfortunately it was a hit and run, but the little guy is in recovery!](http://9gag.com/gag/avQpP7M)
- - ⏩ [The portraits worth framing](http://9gag.com/gag/a2KzmwO)
- - 👉 [Its legit!](http://9gag.com/gag/adP0pmZ)<!-- MEMES:END -->
+ - 💣 [Men are simple](http://9gag.com/gag/aOxKVLR)
+ - ⏩ [Single Life in 30s](http://9gag.com/gag/az2gVzm)
+ - 👉 [That guy makes movies with black people in main roles without giving me the feeling I saw a black people movie. I just saw a brilliant movie.](http://9gag.com/gag/aDYAmoN)<!-- MEMES:END -->
 
 ---
 
