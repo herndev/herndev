@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oddly satisfying](http://9gag.com/gag/armveEK)
- - ⏩ [Don&#39;t go](http://9gag.com/gag/aVbzQdO)
- - 👉 [Canadian inventor Troy Hurtubise tests his armored grizzly bear protection suit.](http://9gag.com/gag/aZDbPAQ)<!-- MEMES:END -->
+ - 💣 [Holly mother of croissants](http://9gag.com/gag/a9qbLD1)
+ - ⏩ [Religious institutions in a nutshell.](http://9gag.com/gag/aeQj3A5)
+ - 👉 [Smelly cat. Smelly cat.](http://9gag.com/gag/az2gExN)<!-- MEMES:END -->
 
 ---
 
