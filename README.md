@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wayward Strand Is A Beautiful Story About Being Young, And Growing Old](https://kotaku.com/wayward-strand-impressions-australia-adventure-1849533769)
- - [Today&#39;s Wordle 453 answer and hint: Thursday, September 15](https://www.pcgamer.com/todays-wordle-453-answer-hint)
- - [AMD to showcase mid-range B650 motherboards on October 4](https://www.pcgamer.com/amd-to-showcase-mid-range-b650-motherboards-on-october-4)<!-- GAME:END -->
+ - [Tokyo Game Show Xbox Stream 2022: News and Updates on 22 Games from majority Japanese developers, DEATHLOOP coming to Xbox Next Week, and much more!](https://news.xbox.com/en-us/2022/09/15/tokyo-game-show-xbox-stream-2022-recap/)
+ - [Why Blizzard believes Overwatch 2’s battle pass won’t break the game](https://www.polygon.com/23353371/overwatch-2-battle-pass-hero-unlocks-balance-switching)
+ - [How Overwatch 2’s battle pass works](https://www.polygon.com/23353301/overwatch-2-battle-pass-details-unlock-heroes-game-balance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
