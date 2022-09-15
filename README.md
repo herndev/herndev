@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its something](http://9gag.com/gag/avQppyO)
- - ⏩ [After Lorde &lpar;Randy&rpar;. Nicky Minaj &lpar;Jay-z&rpar;](http://9gag.com/gag/armvvw0)
- - 👉 [Validation seeker Gen got REKT](http://9gag.com/gag/awZ0b0B)<!-- MEMES:END -->
+ - 💣 [Hair color is right, right?](http://9gag.com/gag/aWGQZ0Z)
+ - ⏩ [Relax &amp; Sleep...](http://9gag.com/gag/a4oK4Np)
+ - 👉 [For the first time in my life, I bought a car that I love, with my own money. Best feeling I ever had](http://9gag.com/gag/aeQjjrW)<!-- MEMES:END -->
 
 ---
 
