@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Photographer Austin Mann puts the iPhone 14 Pro through its paces](https://appleinsider.com/articles/22/09/14/photographer-austin-mann-puts-the-iphone-14-pro-through-its-paces?utm_medium=rss)
- - [Android and iOS take big steps toward launching Matter smart home compatibility](https://www.theverge.com/2022/9/14/23353776/android-and-ios-matter-smart-home-compatibility)
- - [Google is finally rolling out Play Store reviews tailored to your device](https://www.theverge.com/2022/9/14/23353784/google-play-store-device-type-specific-reviews)<!-- TECH:END -->
+ - [Users say a demo of ERNIE-ViLG, a text-to-image AI model from Baidu, labels certain political words as &quot;sensitive&quot; and blocks them from generating any result &lpar;Zeyi Yang/MIT Technology Review&rpar;](http://www.techmeme.com/220914/p36#a220914p36)
+ - [Tesla is being sued over Autopilot and Elon Musk’s Full Self-Driving predictions](https://www.theverge.com/2022/9/14/23353787/elon-musk-tesla-lawsuit-autopilot-full-self-driving-promises)
+ - [The Ethereum Merge is Imminent. Here&#39;s Why It Matters     - CNET](https://www.cnet.com/personal-finance/crypto/the-ethereum-merge-is-imminent-heres-why-it-matters/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
