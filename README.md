@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncharted 4 releases on PC in October with variable framerate and an updated UI](https://www.pcgamer.com/uncharted-legacy-of-thieves-collection-releases-on-pc-in-october-with-variable-framerate-and-a-new-ui)
- - [Star Wars’ Rogue Squadron movie removed from Disney’s future plans](https://www.polygon.com/23355555/star-wars-rogue-squadron-movie-canceled-disney)
- - [Blizzard Gives Overwatch 2 Players Kiriko For Free But Defends Its Battle Pass System](https://kotaku.com/overwatch-2-battle-pass-unlock-kiriko-blizzard-sojourn-1849542245)<!-- GAME:END -->
+ - [This stealth game challenges you to do murders, then vacuum up the mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
+ - [Sunday Gold Review](https://www.pcgamer.com/sunday-gold-review)
+ - [The Biggest News From The Call Of Duty Next Showcase](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-beta-infinity-cod-1849542633)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
