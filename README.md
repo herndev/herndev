@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How did I miss this show growing up? It&#39;s hilarious!](http://9gag.com/gag/a9qbPYL)
- - ⏩ [Smelly cat. Smelly cat.](http://9gag.com/gag/az2gExN)
- - 👉 [Based...](http://9gag.com/gag/aL1RBxM)<!-- MEMES:END -->
+ - 💣 [Y e s](http://9gag.com/gag/aGEYxp0)
+ - ⏩ [Based...](http://9gag.com/gag/aL1RBxM)
+ - 👉 [Its legit!](http://9gag.com/gag/adP0pmZ)<!-- MEMES:END -->
 
 ---
 
