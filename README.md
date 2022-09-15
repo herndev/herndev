@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm unveils Neoverse V2, its next-gen performance-optimized cores for the cloud, hyperscale, and HPC workloads, which is used in Nvidia&#39;s upcoming Grace CPU &lpar;Patrick Kennedy/ServeTheHome&rpar;](http://www.techmeme.com/220914/p40#a220914p40)
- - [Verkada, a security-focused IoT devices maker that has faced lax data security and toxic workplace allegations, raised a $205M Series D at a $3.2B valuation &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220914/p39#a220914p39)
- - [Seesaw, a messaging app for parents and teachers with 10M users, says it suffered a credential stuffing attack, after users said they received an explicit image &lpar;Kevin Collier/NBC News&rpar;](http://www.techmeme.com/220914/p38#a220914p38)<!-- TECH:END -->
+ - [Samsung Electronics pledges to invest $5B+ in R&amp;D on tech to achieve net zero emissions for its devices business by 2030 and across the company by 2050 &lpar;Joyce Lee/Reuters&rpar;](http://www.techmeme.com/220915/p1#a220915p1)
+ - [Apple&#39;s homepage is experiencing partial outages](https://appleinsider.com/articles/22/09/15/apples-homepage-is-experiencing-partial-outages?utm_medium=rss)
+ - [iOS 16.0.1 Reportedly Fixes iPhone 14 Issues     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-0-1-reportedly-fixes-iphone-14-issues/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
