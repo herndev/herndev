@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
- - [Fortnite Chapter 3 Season 4: Release date and what we know about Paradise](https://www.pcgamer.com/fortnite-chapter-3-season-4)
- - [How to get clay in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-clay)<!-- GAME:END -->
+ - [Neon-folk survival horror Saturnalia comes to PS4 and PS5 next month](https://blog.playstation.com/2022/09/15/neon-folk-survival-horror-saturnalia-comes-to-ps4-and-ps5-next-month/)
+ - [Reclaim ‘The Sirens’ Prize’ in Sea of Thieves’ Seventh Adventure, Live Until September 29](https://news.xbox.com/en-us/2022/09/15/reclaim-the-sirens-prize-in-sea-of-thieves-seventh-adventure-live-until-september-29/)
+ - [The future of tabletop games is digital](https://www.polygon.com/23352511/digital-tabletop-games-coming-soon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
