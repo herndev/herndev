@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [I&#39;ve been into battles but there&#39;s no way I&#39;m gonna answer that, Steve](http://9gag.com/gag/aKEww8Z)
- - ⏩ [After Lorde &lpar;Randy&rpar;. Nicky Minaj &lpar;Jay-z&rpar;](http://9gag.com/gag/armvvw0)
+ - ⏩ [Meteor seen flying over multiple parts of the UK.](http://9gag.com/gag/aA0RYgL)
  - 👉 [Hmmm interesting](http://9gag.com/gag/aDYAAD9)<!-- MEMES:END -->
 
 ---
