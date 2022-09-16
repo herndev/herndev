@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Parler restructures as Parlement Technologies after a raising $16M Series B, buys the private cloud company Dynascale to provide &quot;uncancelable&quot; cloud services &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220916/p19#a220916p19)
- - [How to set different backgrounds for each Focus Mode in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-set-different-backgrounds-for-each-focus-mode-in-ios-16?utm_medium=rss)
- - [Garden Tails: Match and Grow Is My New Favorite Apple Arcade Game     - CNET](https://www.cnet.com/tech/gaming/garden-tails-match-and-grow-is-my-new-favorite-apple-arcade-game/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber says ‘no evidence’ user accounts were compromised in hack](https://www.theverge.com/2022/9/16/23356880/uber-hack-no-evidence-personal-information-breach)
+ - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)
+ - [What the Biden administration might do to keep crypto mining from derailing climate goals](https://www.theverge.com/2022/9/16/23356730/crypto-mining-energy-emissions-climate-biden-administration-ostp-recommendations)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
