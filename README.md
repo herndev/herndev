@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - ⏩ [Oldie but goldie](http://9gag.com/gag/aWGQEMd)
+ - ⏩ [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
  - 👉 [They should make a Nefflix show and call it `Steve - The Mythical outcast`](http://9gag.com/gag/abvXrp9)<!-- MEMES:END -->
 
 ---
