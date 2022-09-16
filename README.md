@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge)
  - [Netflix’s Do Revenge is the caustic Mean Girls successor we all needed](https://www.polygon.com/reviews/23354904/do-revenge-review-netflix)
- - [Today&#39;s Wordle 454 answer and hint: Friday, September 16](https://www.pcgamer.com/todays-wordle-454-answer-hint)
- - [Classic Jurassic Park Scene Somehow Recreated In PlayStation Game](https://kotaku.com/jurassic-park-scene-dreams-ps4-ps5-trex-movie-recreate-1849543769)<!-- GAME:END -->
+ - [Today&#39;s Wordle 454 answer and hint: Friday, September 16](https://www.pcgamer.com/todays-wordle-454-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
