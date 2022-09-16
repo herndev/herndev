@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon announces the US launch of Veeqo, a shipping software that lets sellers connect their sales channels and access discounts on UPS, USPS, DHL, and FedEx &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220916/p2#a220916p2)
- - [PitchBook: Figma deal is the largest exit for a VC-backed company in ~20 years; source: Index Ventures&#39; ~12% stake makes it Figma&#39;s biggest outside shareholder &lpar;Bloomberg&rpar;](http://www.techmeme.com/220916/p1#a220916p1)
- - [Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea&#39;s trade ministry data shows its DRAM chip exports fell 24.7% YoY in August 2022, the biggest drop since 2019, indicating a deepening slump in demand &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220916/p4#a220916p4)
+ - [Alcatraz AI, which develops AI-powered, facial recognition-based building access control systems, raised a $25M Series A led by Almaz Capital &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220916/p3#a220916p3)
+ - [Amazon announces the US launch of Veeqo, a shipping software that lets sellers connect their sales channels and access discounts on UPS, USPS, DHL, and FedEx &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220916/p2#a220916p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
