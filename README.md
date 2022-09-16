@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After decades of waiting, Suikoden 1 and 2 remasters are finally here](https://www.pcgamer.com/after-decades-of-waiting-suikoden-1-and-2-remasters-are-finally-here)
- - [Play a farting fox-headed rentier in this reverse-Kerbal](https://www.pcgamer.com/play-a-farting-fox-headed-rentier-in-this-reverse-kerbal)
- - [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge)<!-- GAME:END -->
+ - [People in Germany can at last buy Wolfenstein 3D](https://www.pcgamer.com/people-in-germany-can-at-last-buy-wolfenstein-3d)
+ - [Try out Team Ninja’s latest masocore thriller with the Wo Long: Fallen Dynasty PS5 demo, out today](https://blog.playstation.com/2022/09/16/try-out-team-ninjas-latest-masocore-thriller-with-the-wo-long-fallen-dynasty-ps5-demo-out-today/)
+ - [I want to keep playing Disney Dreamlight Valley, despite the major hurdles](https://www.polygon.com/23354903/disney-dreamlight-valley-xbox-impressions-animal-crossing-new-horizons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
