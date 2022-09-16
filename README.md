@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The People’s Joker: A New Take on the Batverse You May Never See](https://www.wired.com/story/the-peoples-joker-vera-drew-rights-issues/)
- - [The Best Fitness Trackers and Watches for Everyone](https://www.wired.com/gallery/best-fitness-tracker/)
- - [Neal Stephenson Named the Metaverse. Now, He’s Building It](https://www.wired.com/story/plaintext-neal-stephenson-named-the-metaverse-now-hes-building-it/)<!-- TECH:END -->
+ - [You can play Half-Life 2 in VR thanks to this free mod](https://www.theverge.com/2022/9/16/23356359/half-life-2-vr-mod-free-steam-quest-valve-index-oculus-rift-download)
+ - [Vectra: Microsoft Teams stores authentication tokens in unencrypted plaintext mode; Microsoft has no plans for a fix, since an exploit requires network access &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220916/p17#a220916p17)
+ - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
