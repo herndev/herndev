@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Next Announces Major Intel for Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0](https://news.xbox.com/en-us/2022/09/16/call-of-duty-next-recap/)
- - [Omega Strikers is a rare competitive game that doesn’t make you feel bad](https://www.polygon.com/23355723/omega-strikers-preview-odyssey-interactive-characters-gameplay)
- - [Call of Duty is still at the center of Microsoft’s fight to acquire Activision](https://www.polygon.com/23356450/call-of-duty-microsoft-xbox-activision-acquisition-sony-playstation)<!-- GAME:END -->
+ - [Tokyo Game Show 2022: 505 Games Digital Showcase Recap](https://news.xbox.com/en-us/2022/09/16/tokyo-game-show-2022-505-games-digital-showcase-recap/)
+ - [Share of the Week: The Last of Us Part I – Portraits](https://blog.playstation.com/2022/09/16/share-of-the-week-the-last-of-us-part-i-portraits/)
+ - [Hollow Knight: Silksong is coming to PlayStation, too](https://www.polygon.com/23356651/hollow-knight-silksong-ps4-ps5-playstation-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
