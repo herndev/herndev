@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They killed my boy biggie](http://9gag.com/gag/a3ZPM43)
- - ⏩ [Disney Crorporation grip is tight and we all know it](http://9gag.com/gag/aQEP9gW)
- - 👉 [I guess juste reverse downhill might be easier?](http://9gag.com/gag/aeQje5p)<!-- MEMES:END -->
+ - 💣 [Kid barely makes it home to escape bully](http://9gag.com/gag/awZ0Qe8)
+ - ⏩ [The moment of realisation](http://9gag.com/gag/a7qLrYb)
+ - 👉 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)<!-- MEMES:END -->
 
 ---
 
