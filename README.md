@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber is investigating a breach of its computer systems, saying a hacker compromised a worker&#39;s Slack account and also gained access to other internal systems &lpar;New York Times&rpar;](http://www.techmeme.com/220915/p42#a220915p42)
- - [Winn.AI, maker of an AI assistant to help sales teams track, capture, and update CRM entries, comes out of stealth with a $17M seed led by Insight and S-Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p41#a220915p41)
- - [FTC Takes Aim At Companies Deceiving and Exploiting Gig Workers     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-aim-at-companies-deceiving-and-exploiting-gig-workers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [COO Vanessa Pappas told senators that TikTok is working on a final deal with CFIUS that satisfies all US national security concerns, but didn&#39;t give a timeline &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220915/p43#a220915p43)
+ - [The Best Fantasy Movies on Prime Video You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video-you-need-to-watch/#ftag=CAD590a51e)
+ - [Uber is investigating a breach of its computer systems, saying a hacker compromised a worker&#39;s Slack account and also gained access to other internal systems &lpar;New York Times&rpar;](http://www.techmeme.com/220915/p42#a220915p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
