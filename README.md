@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CAD590a51e)
  - [COO Vanessa Pappas told senators that TikTok is working on a final deal with CFIUS that satisfies all US national security concerns, but didn&#39;t give a timeline &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220915/p43#a220915p43)
- - [The Best Fantasy Movies on Prime Video You Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-movies-on-prime-video-you-need-to-watch/#ftag=CAD590a51e)
- - [Uber is investigating a breach of its computer systems, saying a hacker compromised a worker&#39;s Slack account and also gained access to other internal systems &lpar;New York Times&rpar;](http://www.techmeme.com/220915/p42#a220915p42)<!-- TECH:END -->
+ - [The Prime Video Sci-Fi Show Everyone Should Watch     - CNET](https://www.cnet.com/culture/entertainment/the-prime-video-sci-fi-show-everyone-should-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
