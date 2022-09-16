@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)
- - ⏩ [Good boy..](http://9gag.com/gag/aeQjY95)
- - 👉 [HolUp](http://9gag.com/gag/ap9Eprn)<!-- MEMES:END -->
+ - 💣 [Real struggles](http://9gag.com/gag/axodgQb)
+ - ⏩ [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
+ - 👉 [It be Like that](http://9gag.com/gag/aREwmK5)<!-- MEMES:END -->
 
 ---
 
