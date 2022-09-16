@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Banning Gas Cars Is Good, but It’ll Take More to Save the Planet](https://www.wired.com/story/banning-gas-cars-is-good-but-itll-take-more-to-save-the-planet/)
- - [How a ‘Living Drug’ Could Treat Autoimmune Disease](https://www.wired.com/story/how-a-living-drug-could-treat-autoimmune-disease/)
- - [Death Cab for Cutie&#39;s Geotagged Single Is a Trip Down Memory Lane](https://www.wired.com/story/death-cab-for-cutie-geotagged-song-rand-mcnally/)<!-- TECH:END -->
+ - [Which iPhone Should You Buy &lpar;or Avoid&rpar; Right Now?](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [Elon Musk made his bid, and now he might actually have to lie in it](https://www.theverge.com/2022/9/16/23355051/elon-musk-whistleblower-lawsuit-twitter-chaos)
+ - [Asus’ Zenbook 14X isn’t the MacBook competitor it could be](https://www.theverge.com/23351133/asus-zenbook-14x-oled-space-edition-review-apple-macbook-pro-m2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
