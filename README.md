@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber says ‘no evidence’ user accounts were compromised in hack](https://www.theverge.com/2022/9/16/23356880/uber-hack-no-evidence-personal-information-breach)
- - [Deals: get an iPhone 14, iPhone 14 Pro for free with wireless carrier promos](https://appleinsider.com/articles/22/09/09/deals-get-an-iphone-14-iphone-14-pro-for-free-with-wireless-carrier-promos?utm_medium=rss)
- - [What the Biden administration might do to keep crypto mining from derailing climate goals](https://www.theverge.com/2022/9/16/23356730/crypto-mining-energy-emissions-climate-biden-administration-ostp-recommendations)<!-- TECH:END -->
+ - [&#39;Breakup mode&#39; - How to make Photos feature people less often](https://appleinsider.com/inside/ios-16/tips/breakup-mode---how-to-make-photos-feature-people-less-often?utm_medium=rss)
+ - [I think flouting the Joker’s copyright is funny, and I’m tired of pretending it isn’t](https://www.theverge.com/2022/9/16/23354819/the-peoples-joker-copyright-dc-tiff)
+ - [Uber says there is no evidence that sensitive user info, like trip histories, was accessed during the breach, and all of its products are currently operational &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/220916/p20#a220916p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
