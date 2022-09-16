@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The good old days](http://9gag.com/gag/ago3Ld1)
- - ⏩ [What is this? How? Why?](http://9gag.com/gag/adP07B9)
- - 👉 [I work Night Shift, this is pretty hard. But I really enjoy every night going back home when Paris is empty and quiet. This is \u00ab\u00a0my moment\u00a0\u00bb every day.](http://9gag.com/gag/aREwK9M)<!-- MEMES:END -->
+ - 💣 [Press x for doubt](http://9gag.com/gag/a8qLy8e)
+ - ⏩ [HERETICS!](http://9gag.com/gag/aNwrzQb)
+ - 👉 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)<!-- MEMES:END -->
 
 ---
 
