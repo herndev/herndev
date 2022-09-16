@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me getting food after a night of drinking](http://9gag.com/gag/ay27Dmr)
- - ⏩ [The good old days](http://9gag.com/gag/ago3Ld1)
+ - 💣 [The good old days](http://9gag.com/gag/ago3Ld1)
+ - ⏩ [The moment of realisation](http://9gag.com/gag/a7qLrYb)
  - 👉 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
 
 ---
