@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excuses are good for hand pain](http://9gag.com/gag/axod1vp)
- - ⏩ [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)
- - 👉 [In China, the skyscraper of the largest telecom operator China Telecom in Changsha is on fire.](http://9gag.com/gag/awZ0Q4y)<!-- MEMES:END -->
+ - 💣 [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)
+ - ⏩ [A truck driver\u2019s bedtime routine.](http://9gag.com/gag/aqe97EY)
+ - 👉 [Never let them know your next move](http://9gag.com/gag/aoKEeOn)<!-- MEMES:END -->
 
 ---
 
