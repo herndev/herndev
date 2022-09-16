@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)
- - ⏩ [My plans for the weekend](http://9gag.com/gag/az2gAzN)
- - 👉 [Lad fist bumps King Charles III.](http://9gag.com/gag/aeQj6Nv)<!-- MEMES:END -->
+ - 💣 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)
+ - ⏩ [Good boy..](http://9gag.com/gag/aeQjY95)
+ - 👉 [HolUp](http://9gag.com/gag/ap9Eprn)<!-- MEMES:END -->
 
 ---
 
