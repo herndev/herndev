@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CAD590a51e)
- - [COO Vanessa Pappas told senators that TikTok is working on a final deal with CFIUS that satisfies all US national security concerns, but didn&#39;t give a timeline &lpar;Meghan Bobrowsky/Wall Street Journal&rpar;](http://www.techmeme.com/220915/p43#a220915p43)
- - [The Prime Video Sci-Fi Show Everyone Should Watch     - CNET](https://www.cnet.com/culture/entertainment/the-prime-video-sci-fi-show-everyone-should-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon announces the US launch of Veeqo, a shipping software that lets sellers connect their sales channels and access discounts on UPS, USPS, DHL, and FedEx &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220916/p2#a220916p2)
+ - [PitchBook: Figma deal is the largest exit for a VC-backed company in ~20 years; source: Index Ventures&#39; ~12% stake makes it Figma&#39;s biggest outside shareholder &lpar;Bloomberg&rpar;](http://www.techmeme.com/220916/p1#a220916p1)
+ - [Tech Companies Ramp Up Efforts to Combat Online Extremism     - CNET](https://www.cnet.com/news/social-media/tech-companies-ramp-up-efforts-to-combat-online-extremism/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
