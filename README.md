@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It be Like that](http://9gag.com/gag/aREwmK5)
- - ⏩ [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)
- - 👉 [HolUp](http://9gag.com/gag/ap9Eprn)<!-- MEMES:END -->
+ - 💣 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
+ - ⏩ [Now that&#39;s a crossover](http://9gag.com/gag/aQEPMBq)
+ - 👉 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
 
 ---
 
