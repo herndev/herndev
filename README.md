@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Sleeping with a phone in bed is more common than you think](https://www.androidauthority.com/sleep-phone-bed-poll-results-3209624/)
- - [The Uber hacker, who reportedly claims to be 18 years old, says they had breached the company for fun and might leak its source code &quot;in a few months&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/220916/p10#a220916p10)
- - [You can now hide your private browsing sessions on Android behind a fingerprint](https://www.androidauthority.com/google-chrome-android-incognito-fingerprint-lock-3209635/)<!-- TECH:END -->
+ - [Banning Gas Cars Is Good, but It’ll Take More to Save the Planet](https://www.wired.com/story/banning-gas-cars-is-good-but-itll-take-more-to-save-the-planet/)
+ - [How a ‘Living Drug’ Could Treat Autoimmune Disease](https://www.wired.com/story/how-a-living-drug-could-treat-autoimmune-disease/)
+ - [Death Cab for Cutie&#39;s Geotagged Single Is a Trip Down Memory Lane](https://www.wired.com/story/death-cab-for-cutie-geotagged-song-rand-mcnally/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
