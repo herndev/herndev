@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Observe the Moon-Gazing Event in Phantasy Star Online 2 New Genesis](https://news.xbox.com/en-us/2022/09/16/observe-the-moon-gazing-event-in-phantasy-star-online-2-new-genesis/)
  - [This Week on Xbox: Tokyo Game Show, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/09/16/this-week-on-xbox-tokyo-game-show-upcoming-releases-and-updates/)
- - [Xbox Boss Commits To Current Series S/X Console Prices, For Now](https://kotaku.com/xbox-series-x-s-ps5-price-activision-phil-spencer-1849547031)
- - [Drifting Home doubles down on Penguin Highway’s fantasy and friction](https://www.polygon.com/23355572/drifting-home-review-penguin-highway-director)<!-- GAME:END -->
+ - [Xbox Boss Commits To Current Console Prices, And Buying More Studios](https://kotaku.com/xbox-series-x-s-ps5-price-activision-phil-spencer-1849547031)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
