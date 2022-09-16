@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never forget.](http://9gag.com/gag/a048jDQ)
- - ⏩ [What a great piece of acting from both of them](http://9gag.com/gag/aeQjG65)
- - 👉 [Sad that no-drama stories are kind of rare](http://9gag.com/gag/a7qLbYb)<!-- MEMES:END -->
+ - 💣 [Mission accomplished](http://9gag.com/gag/abvX0xL)
+ - ⏩ [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)
+ - 👉 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)<!-- MEMES:END -->
 
 ---
 
