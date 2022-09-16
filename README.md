@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hit the Pitch in FIFA 23 Early with EA Play](https://news.xbox.com/en-us/2022/09/16/hit-the-pitch-in-fifa-23-early-with-ea-play/)
- - [The Action Adventure Game Blind Fate: Edo no Yami is Available on Xbox](https://news.xbox.com/en-us/2022/09/16/the-action-adventure-game-blind-fate-edo-no-yami-is-already-available-on-xbox/)
- - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
+ - [The Half-Life 2 VR Mod is out on Steam, so you can finally, literally, pick up that can](https://www.pcgamer.com/the-half-life-2-vr-mod-is-out-on-steam-so-you-can-finally-literally-pick-up-that-can)
+ - [Destiny 2 Xur location and items, Sept. 16-20](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/16/23356885/destiny-2-xur-location-and-items-sept-16-20)
+ - [Monster: The Jeffrey Dahmer Story trailer features Evan Peters’ most despicable role yet](https://www.polygon.com/23356726/jeffrey-dahmer-netflix-monster-trailer-evan-peters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
