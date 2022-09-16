@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
- - ⏩ [You can not make this shit up!](http://9gag.com/gag/ap9EQOn)
+ - 💣 [Parents can abandon their children but the child cannot abandon their parents... that&#39;s so china logic!! Source: SCMP](http://9gag.com/gag/a2KzrVY)
+ - ⏩ [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)
  - 👉 [HERETICS!](http://9gag.com/gag/aNwrzQb)<!-- MEMES:END -->
 
 ---
