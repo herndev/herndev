@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rings of Power conjures a surprising form of villainy in its latest episode](https://www.polygon.com/23353873/lord-rings-power-episode-4-review)
  - [People in Germany can at last buy Wolfenstein 3D](https://www.pcgamer.com/people-in-germany-can-at-last-buy-wolfenstein-3d)
- - [Try out Team Ninja’s latest masocore thriller with the Wo Long: Fallen Dynasty PS5 demo, out today](https://blog.playstation.com/2022/09/16/try-out-team-ninjas-latest-masocore-thriller-with-the-wo-long-fallen-dynasty-ps5-demo-out-today/)
- - [I want to keep playing Disney Dreamlight Valley, despite the major hurdles](https://www.polygon.com/23354903/disney-dreamlight-valley-xbox-impressions-animal-crossing-new-horizons)<!-- GAME:END -->
+ - [Try out Team Ninja’s latest masocore thriller with the Wo Long: Fallen Dynasty PS5 demo, out today](https://blog.playstation.com/2022/09/16/try-out-team-ninjas-latest-masocore-thriller-with-the-wo-long-fallen-dynasty-ps5-demo-out-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
