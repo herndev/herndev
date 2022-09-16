@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo clears up confusion over Zelda: Tears of the Kingdom’s name](https://www.polygon.com/23356998/zelda-tears-of-the-kingdom-nintendo-name-breath-of-the-wild-sequel)
- - [EVGA is reportedly so sick of working with Nvidia that it&#39;s going to stop making graphics cards altogether](https://www.pcgamer.com/evga-ends-nvidia-video-card)
- - [This massive Bloodborne Minecraft build is more majestic than the blood moon](https://www.pcgamer.com/this-massive-bloodborne-minecraft-build-is-more-majestic-than-the-blood-moon)<!-- GAME:END -->
+ - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)
+ - [Upcoming Yakuza spinoff says &#39;subs, not dubs&#39;](https://www.pcgamer.com/upcoming-yakuza-spinoff-says-subs-not-dubs)
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/23349095/new-movies-watch-netflix-do-revenge-three-thousand-years-longing-vengeance-breaking)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
