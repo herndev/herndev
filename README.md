@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kid barely makes it home to escape bully](http://9gag.com/gag/awZ0Qe8)
- - ⏩ [The moment of realisation](http://9gag.com/gag/a7qLrYb)
- - 👉 [Here you go. Fixed the meme.](http://9gag.com/gag/aDYAzzN)<!-- MEMES:END -->
+ - 💣 [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
+ - ⏩ [You can not make this shit up!](http://9gag.com/gag/ap9EQOn)
+ - 👉 [HERETICS!](http://9gag.com/gag/aNwrzQb)<!-- MEMES:END -->
 
 ---
 
