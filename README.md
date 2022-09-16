@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power conjures a surprising form of villainy in its latest episode](https://www.polygon.com/23353873/lord-rings-power-episode-4-review)
- - [People in Germany can at last buy Wolfenstein 3D](https://www.pcgamer.com/people-in-germany-can-at-last-buy-wolfenstein-3d)
- - [Try out Team Ninja’s latest masocore thriller with the Wo Long: Fallen Dynasty PS5 demo, out today](https://blog.playstation.com/2022/09/16/try-out-team-ninjas-latest-masocore-thriller-with-the-wo-long-fallen-dynasty-ps5-demo-out-today/)<!-- GAME:END -->
+ - [Genshin Impact Version 3.1: A Journey Through the Desert](https://blog.playstation.com/2022/09/16/genshin-impact-version-3-1-a-journey-through-the-desert/)
+ - [Next Week on Xbox New Games for September 19 to 23](https://news.xbox.com/en-us/2022/09/16/next-week-on-xbox-new-games-for-september-19-to-23/)
+ - [Genshin Impact patch 3.1 livestream codes](https://www.polygon.com/genshin-impact-guides/23354934/patch-3-1-livestream-primogem-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
