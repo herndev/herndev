@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Classic Jurassic Park Scene Somehow Recreated In PlayStation Game](https://kotaku.com/jurassic-park-scene-dreams-ps4-ps5-trex-movie-recreate-1849543769)
  - [Our Favorite Cosplay From C2E2 2022](https://kotaku.com/c2e2-cosplay-showcase-gallery-photos-video-chicago-1849543406)
- - [The Yakuza Name Is Officially Dead](https://kotaku.com/yakuza-like-a-dragon-sega-brand-name-marketing-1849543173)
- - [Halo: The Master Chief Collection microtransaction plans ditched](https://www.pcgamer.com/halo-the-master-chief-collection-microtransaction-plans-ditched)<!-- GAME:END -->
+ - [The Yakuza Name Is Officially Dead](https://kotaku.com/yakuza-like-a-dragon-sega-brand-name-marketing-1849543173)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
