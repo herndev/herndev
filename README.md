@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Which iPhone Should You Buy &lpar;or Avoid&rpar; Right Now?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Elon Musk made his bid, and now he might actually have to lie in it](https://www.theverge.com/2022/9/16/23355051/elon-musk-whistleblower-lawsuit-twitter-chaos)
- - [Asus’ Zenbook 14X isn’t the MacBook competitor it could be](https://www.theverge.com/23351133/asus-zenbook-14x-oled-space-edition-review-apple-macbook-pro-m2)<!-- TECH:END -->
+ - [The People’s Joker: A New Take on the Batverse You May Never See](https://www.wired.com/story/the-peoples-joker-vera-drew-rights-issues/)
+ - [The Best Fitness Trackers and Watches for Everyone](https://www.wired.com/gallery/best-fitness-tracker/)
+ - [Neal Stephenson Named the Metaverse. Now, He’s Building It](https://www.wired.com/story/plaintext-neal-stephenson-named-the-metaverse-now-hes-building-it/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
