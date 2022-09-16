@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parents can abandon their children but the child cannot abandon their parents... that&#39;s so china logic!! Source: SCMP](http://9gag.com/gag/a2KzrVY)
+ - 💣 [Excuses are good for hand pain](http://9gag.com/gag/axod1vp)
  - ⏩ [Today I finished a 637 km 25 days journey walking from Lisbon to Santiago de Compostela](http://9gag.com/gag/aEqvx7e)
- - 👉 [HERETICS!](http://9gag.com/gag/aNwrzQb)<!-- MEMES:END -->
+ - 👉 [In China, the skyscraper of the largest telecom operator China Telecom in Changsha is on fire.](http://9gag.com/gag/awZ0Q4y)<!-- MEMES:END -->
 
 ---
 
