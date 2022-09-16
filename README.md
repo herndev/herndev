@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: due to an accounting bug, Binance erroneously disbursed ~4.8M of Helium&#39;s HNT tokens, worth ~$19M, to some of its users, many of whom quickly sold them &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/220916/p21#a220916p21)
- - [Tim Cook says ‘buy your mom an iPhone’ if you want to end green bubbles](https://www.theverge.com/2022/9/7/23342243/tim-cook-apple-rcs-imessage-android-iphone-compatibility)
- - [Uber’s hack shows the stubborn power of social engineering](https://www.theverge.com/2022/9/16/23356959/uber-hack-social-engineering-threats)<!-- TECH:END -->
+ - [Best gaming laptop in 2022: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)
+ - [Apple&#39;s loaded MacBook Air &lpar;M2, 24GB RAM, 1TB SSD&rpar; now $100 off, plus $40 off AppleCare](https://appleinsider.com/articles/22/09/16/apples-loaded-macbook-air-m2-24gb-ram-1tb-ssd-now-100-off-plus-40-off-applecare?utm_medium=rss)
+ - [What’s the best student laptop? We asked students](https://www.theverge.com/21369381/best-student-laptops-school-high-college)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
