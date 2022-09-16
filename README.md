@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True.](http://9gag.com/gag/a9qbW50)
+ - 💣 [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)
  - ⏩ [My plans for the weekend](http://9gag.com/gag/az2gAzN)
- - 👉 [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)<!-- MEMES:END -->
+ - 👉 [Lad fist bumps King Charles III.](http://9gag.com/gag/aeQj6Nv)<!-- MEMES:END -->
 
 ---
 
