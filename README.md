@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Version 3.1: A Journey Through the Desert](https://blog.playstation.com/2022/09/16/genshin-impact-version-3-1-a-journey-through-the-desert/)
- - [Next Week on Xbox New Games for September 19 to 23](https://news.xbox.com/en-us/2022/09/16/next-week-on-xbox-new-games-for-september-19-to-23/)
- - [Genshin Impact patch 3.1 livestream codes](https://www.polygon.com/genshin-impact-guides/23354934/patch-3-1-livestream-primogem-codes)<!-- GAME:END -->
+ - [Call of Duty: Next Announces Major Intel for Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0](https://news.xbox.com/en-us/2022/09/16/call-of-duty-next-recap/)
+ - [Omega Strikers is a rare competitive game that doesn’t make you feel bad](https://www.polygon.com/23355723/omega-strikers-preview-odyssey-interactive-characters-gameplay)
+ - [Call of Duty is still at the center of Microsoft’s fight to acquire Activision](https://www.polygon.com/23356450/call-of-duty-microsoft-xbox-activision-acquisition-sony-playstation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
