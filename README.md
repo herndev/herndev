@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WiZ’s smart lights can now be motion sensors](https://www.theverge.com/2022/9/16/23355255/signify-wiz-spacesense-wi-fi-motion-sensing-smart-lights)
- - [Apple copied Xiaomi with these lesser-known iPhone 14 features](https://www.androidauthority.com/apple-iphone-14-features-copied-xiaomi-3209569/)
- - [Netflix: The Anime Shows You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-anime-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Security engineer says Uber hacker had access to its HackerOne bug bounty program; source: the hacker downloaded all vulnerability reports before losing access &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220916/p9#a220916p9)
+ - [Investor memo: ByteDance will spend up to $3B to repurchase shares in the next two to three months, in a deal that values the company at around $300B &lpar;Reuters&rpar;](http://www.techmeme.com/220916/p8#a220916p8)
+ - [Uber apparently hacked by teen, employees thought it was a joke](https://www.theverge.com/2022/9/16/23356213/uber-hack-teen-slack-google-cloud-credentials-powershell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
