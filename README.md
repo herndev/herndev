@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can play Half-Life 2 in VR thanks to this free mod](https://www.theverge.com/2022/9/16/23356359/half-life-2-vr-mod-free-steam-quest-valve-index-oculus-rift-download)
- - [Vectra: Microsoft Teams stores authentication tokens in unencrypted plaintext mode; Microsoft has no plans for a fix, since an exploit requires network access &lpar;Steve Dent/Engadget&rpar;](http://www.techmeme.com/220916/p17#a220916p17)
- - [YouTube is turning on the money hose for Shorts — and taking on TikTok for real](https://www.theverge.com/2022/9/16/23356279/youtube-shorts-monetization-ads-partner-program-tiktok)<!-- TECH:END -->
+ - [Intel Processor will replace Pentium and Celeron in 2023 laptops](https://www.theverge.com/2022/9/16/23356495/intel-processor-pentium-celeron-brand-2023-notebook-laptops)
+ - [Vergecast: reviews of the iPhone 14 Pro, Apple Watch Series 8, and more](https://www.theverge.com/2022/9/16/23356475/apple-iphone-14-pro-max-apple-watch-series-8-review-vergecast-podcast)
+ - [Keep Your Body Hydrated With Body Care For 25% Off at SkinStore     - CNET](https://www.cnet.com/deals/keep-your-body-hydrated-with-body-care-for-25-off-at-skinstore/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
