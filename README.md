@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The men of The Lord of the Rings: The Rings of Power hate elves for all the wrong reasons](https://www.polygon.com/23353644/lord-rings-power-numenor-men-vs-elves)
- - [A 10-Year Wait: The Excitement of the Superbike World Championship Returns with SBK22](https://news.xbox.com/en-us/2022/09/16/a-10-year-wait-the-excitement-of-the-superbike-world-championship-returns-with-sbk22/)
- - [Official PlayStation Podcast Episode 439: Virtual Impressions](https://blog.playstation.com/2022/09/16/official-playstation-podcast-episode-439-virtual-impressions/)<!-- GAME:END -->
+ - [Hit the Pitch in FIFA 23 Early with EA Play](https://news.xbox.com/en-us/2022/09/16/hit-the-pitch-in-fifa-23-early-with-ea-play/)
+ - [The Action Adventure Game Blind Fate: Edo no Yami is Available on Xbox](https://news.xbox.com/en-us/2022/09/16/the-action-adventure-game-blind-fate-edo-no-yami-is-already-available-on-xbox/)
+ - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
