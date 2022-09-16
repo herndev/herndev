@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tokyo Game Show 2022: 505 Games Digital Showcase Recap](https://news.xbox.com/en-us/2022/09/16/tokyo-game-show-2022-505-games-digital-showcase-recap/)
- - [Share of the Week: The Last of Us Part I – Portraits](https://blog.playstation.com/2022/09/16/share-of-the-week-the-last-of-us-part-i-portraits/)
- - [Hollow Knight: Silksong is coming to PlayStation, too](https://www.polygon.com/23356651/hollow-knight-silksong-ps4-ps5-playstation-release-date)<!-- GAME:END -->
+ - [The men of The Lord of the Rings: The Rings of Power hate elves for all the wrong reasons](https://www.polygon.com/23353644/lord-rings-power-numenor-men-vs-elves)
+ - [A 10-Year Wait: The Excitement of the Superbike World Championship Returns with SBK22](https://news.xbox.com/en-us/2022/09/16/a-10-year-wait-the-excitement-of-the-superbike-world-championship-returns-with-sbk22/)
+ - [Official PlayStation Podcast Episode 439: Virtual Impressions](https://blog.playstation.com/2022/09/16/official-playstation-podcast-episode-439-virtual-impressions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
