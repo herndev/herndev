@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The portraits worth framing](http://9gag.com/gag/a2KzmwO)
- - ⏩ [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)
- - 👉 [Y e s](http://9gag.com/gag/aGEYxp0)<!-- MEMES:END -->
+ - 💣 [My plans for the weekend](http://9gag.com/gag/az2gAzN)
+ - ⏩ [Y e s](http://9gag.com/gag/aGEYxp0)
+ - 👉 [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)<!-- MEMES:END -->
 
 ---
 
