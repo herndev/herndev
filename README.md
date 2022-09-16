@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My plans for the weekend](http://9gag.com/gag/az2gAzN)
- - ⏩ [Y e s](http://9gag.com/gag/aGEYxp0)
- - 👉 [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)<!-- MEMES:END -->
+ - 💣 [Never forget.](http://9gag.com/gag/a048jDQ)
+ - ⏩ [What a great piece of acting from both of them](http://9gag.com/gag/aeQjG65)
+ - 👉 [Sad that no-drama stories are kind of rare](http://9gag.com/gag/a7qLbYb)<!-- MEMES:END -->
 
 ---
 
