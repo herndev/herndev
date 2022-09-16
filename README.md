@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At a WH summit, tech companies, including YouTube, Twitch, Microsoft, and Meta, announce new policies and tools to combat the spread of extremism on their sites &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220916/p6#a220916p6)
- - [Large floods in Bengaluru have ignited a debate over the city&#39;s future as India&#39;s tech hub, amid a lack of infrastructure, poor urban planning, and traffic woes &lpar;The Economic Times&rpar;](http://www.techmeme.com/220916/p5#a220916p5)
- - [Every Harry Potter Movie Ranked: From Grindelwald to Azkaban     - CNET](https://www.cnet.com/culture/entertainment/every-harry-potter-movie-ranked-from-grindelwald-to-azkaban/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WiZ’s smart lights can now be motion sensors](https://www.theverge.com/2022/9/16/23355255/signify-wiz-spacesense-wi-fi-motion-sensing-smart-lights)
+ - [Apple copied Xiaomi with these lesser-known iPhone 14 features](https://www.androidauthority.com/apple-iphone-14-features-copied-xiaomi-3209569/)
+ - [Netflix: The Anime Shows You Absolutely Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-anime-shows-you-absolutely-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
