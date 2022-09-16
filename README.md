@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Speaking hours after Ethereum&#39;s Merge update, SEC Chair Gary Gensler says cryptocurrencies that let holders stake coins may be subject to US securities laws &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220915/p40#a220915p40)
- - [More People Should Watch The Very Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-very-best-show-on-netflix/#ftag=CAD590a51e)
- - [Fossilized Barf From 150 Million Years Ago Reveals Ancient Meal     - CNET](https://www.cnet.com/science/biology/fossilized-barf-from-150-million-years-ago-reveals-ancient-meal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Uber is investigating a breach of its computer systems, saying a hacker compromised a worker&#39;s Slack account and also gained access to other internal systems &lpar;New York Times&rpar;](http://www.techmeme.com/220915/p42#a220915p42)
+ - [Winn.AI, maker of an AI assistant to help sales teams track, capture, and update CRM entries, comes out of stealth with a $17M seed led by Insight and S-Capital &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220915/p41#a220915p41)
+ - [FTC Takes Aim At Companies Deceiving and Exploiting Gig Workers     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-aim-at-companies-deceiving-and-exploiting-gig-workers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
