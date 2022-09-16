@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mission accomplished](http://9gag.com/gag/abvX0xL)
- - ⏩ [Turning crisis into opportunity.](http://9gag.com/gag/abvX09E)
- - 👉 [Jim Carrey trolling Matthew McConaughey Lincoln ad.](http://9gag.com/gag/adP0q59)<!-- MEMES:END -->
+ - 💣 [True.](http://9gag.com/gag/a9qbW50)
+ - ⏩ [My plans for the weekend](http://9gag.com/gag/az2gAzN)
+ - 👉 [What men really want &lpar;\u2060\u00a0\u2060\uff65\u0e31\u2060\ufe4f\u2060\uff65\u0e31\u2060&rpar;](http://9gag.com/gag/a8qL4yZ)<!-- MEMES:END -->
 
 ---
 
