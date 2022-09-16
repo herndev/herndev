@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge)
- - [Netflix’s Do Revenge is the caustic Mean Girls successor we all needed](https://www.polygon.com/reviews/23354904/do-revenge-review-netflix)
- - [Today&#39;s Wordle 454 answer and hint: Friday, September 16](https://www.pcgamer.com/todays-wordle-454-answer-hint)<!-- GAME:END -->
+ - [After decades of waiting, Suikoden 1 and 2 remasters are finally here](https://www.pcgamer.com/after-decades-of-waiting-suikoden-1-and-2-remasters-are-finally-here)
+ - [Play a farting fox-headed rentier in this reverse-Kerbal](https://www.pcgamer.com/play-a-farting-fox-headed-rentier-in-this-reverse-kerbal)
+ - [Reasons to be cheerful: &#39;GPU mining is dead less than 24 hours after the merge&#39;](https://www.pcgamer.com/reasons-to-be-cheerful-gpu-mining-is-dead-less-than-24-hours-after-the-merge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
