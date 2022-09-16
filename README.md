@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This stealth game challenges you to do murders, then vacuum up the mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)
- - [Sunday Gold Review](https://www.pcgamer.com/sunday-gold-review)
- - [The Biggest News From The Call Of Duty Next Showcase](https://kotaku.com/call-of-duty-warzone-2-modern-warfare-beta-infinity-cod-1849542633)<!-- GAME:END -->
+ - [iOS 16 Update Has Broken A Bunch Of Rhythm Games](https://kotaku.com/ios16-apple-iphone-rhythm-game-update-arcaea-1849542972)
+ - [Sins of a Solar Empire 2 is reaching for the stars](https://www.pcgamer.com/sins-of-a-solar-empire-2-is-reaching-for-the-stars)
+ - [This stealth game challenges you to do murders, then vacuum up the mess](https://www.pcgamer.com/this-stealth-game-challenges-you-to-do-murders-then-vacuum-up-the-mess)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
