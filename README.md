@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Playing cricket in Austria](http://9gag.com/gag/aoKE150)
- - ⏩ [Now that&#39;s a crossover](http://9gag.com/gag/aQEPMBq)
+ - 💣 [Me getting food after a night of drinking](http://9gag.com/gag/ay27Dmr)
+ - ⏩ [The good old days](http://9gag.com/gag/ago3Ld1)
  - 👉 [Dad accidentally films dance teacher instead of daughter](http://9gag.com/gag/aDYAWVG)<!-- MEMES:END -->
 
 ---
