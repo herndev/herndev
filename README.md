@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best GaN chargers for recharging your iPhone, iPad &amp; Mac](https://appleinsider.com/inside/iphone/best/the-best-gan-chargers-for-recharging-your-iphone-ipad-mac?utm_medium=rss)
- - [iOS update fixes annoying iPhone 14 activation bug](https://www.theverge.com/2022/9/16/23356348/apple-ios-16-update-iphone-14-pro-activation-bug)
- - [Parler pivots to ‘uncancelable’ cloud services](https://www.theverge.com/2022/9/16/23356605/trump-parler-gettr-cloud-services-conservative-social-media-rumble-truth-social)<!-- TECH:END -->
+ - [Parler restructures as Parlement Technologies after a raising $16M Series B, buys the private cloud company Dynascale to provide &quot;uncancelable&quot; cloud services &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/220916/p19#a220916p19)
+ - [How to set different backgrounds for each Focus Mode in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-set-different-backgrounds-for-each-focus-mode-in-ios-16?utm_medium=rss)
+ - [Garden Tails: Match and Grow Is My New Favorite Apple Arcade Game     - CNET](https://www.cnet.com/tech/gaming/garden-tails-match-and-grow-is-my-new-favorite-apple-arcade-game/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
