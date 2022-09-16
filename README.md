@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Netflix’s Do Revenge is the caustic Mean Girls successor we all needed](https://www.polygon.com/reviews/23354904/do-revenge-review-netflix)
  - [Classic Jurassic Park Scene Somehow Recreated In PlayStation Game](https://kotaku.com/jurassic-park-scene-dreams-ps4-ps5-trex-movie-recreate-1849543769)
- - [Our Favorite Cosplay From C2E2 2022](https://kotaku.com/c2e2-cosplay-showcase-gallery-photos-video-chicago-1849543406)
- - [The Yakuza Name Is Officially Dead](https://kotaku.com/yakuza-like-a-dragon-sega-brand-name-marketing-1849543173)<!-- GAME:END -->
+ - [Our Favorite Cosplay From C2E2 2022](https://kotaku.com/c2e2-cosplay-showcase-gallery-photos-video-chicago-1849543406)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
