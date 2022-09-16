@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea&#39;s trade ministry data shows its DRAM chip exports fell 24.7% YoY in August 2022, the biggest drop since 2019, indicating a deepening slump in demand &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/220916/p4#a220916p4)
- - [Alcatraz AI, which develops AI-powered, facial recognition-based building access control systems, raised a $25M Series A led by Almaz Capital &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220916/p3#a220916p3)
- - [Amazon announces the US launch of Veeqo, a shipping software that lets sellers connect their sales channels and access discounts on UPS, USPS, DHL, and FedEx &lpar;Paul Hill/Neowin&rpar;](http://www.techmeme.com/220916/p2#a220916p2)<!-- TECH:END -->
+ - [At a WH summit, tech companies, including YouTube, Twitch, Microsoft, and Meta, announce new policies and tools to combat the spread of extremism on their sites &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220916/p6#a220916p6)
+ - [Large floods in Bengaluru have ignited a debate over the city&#39;s future as India&#39;s tech hub, amid a lack of infrastructure, poor urban planning, and traffic woes &lpar;The Economic Times&rpar;](http://www.techmeme.com/220916/p5#a220916p5)
+ - [Every Harry Potter Movie Ranked: From Grindelwald to Azkaban     - CNET](https://www.cnet.com/culture/entertainment/every-harry-potter-movie-ranked-from-grindelwald-to-azkaban/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
