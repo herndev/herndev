@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Security engineer says Uber hacker had access to its HackerOne bug bounty program; source: the hacker downloaded all vulnerability reports before losing access &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220916/p9#a220916p9)
- - [Investor memo: ByteDance will spend up to $3B to repurchase shares in the next two to three months, in a deal that values the company at around $300B &lpar;Reuters&rpar;](http://www.techmeme.com/220916/p8#a220916p8)
- - [Uber apparently hacked by teen, employees thought it was a joke](https://www.theverge.com/2022/9/16/23356213/uber-hack-teen-slack-google-cloud-credentials-powershell)<!-- TECH:END -->
+ - [You told us: Sleeping with a phone in bed is more common than you think](https://www.androidauthority.com/sleep-phone-bed-poll-results-3209624/)
+ - [The Uber hacker, who reportedly claims to be 18 years old, says they had breached the company for fun and might leak its source code &quot;in a few months&quot; &lpar;Washington Post&rpar;](http://www.techmeme.com/220916/p10#a220916p10)
+ - [You can now hide your private browsing sessions on Android behind a fingerprint](https://www.androidauthority.com/google-chrome-android-incognito-fingerprint-lock-3209635/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
