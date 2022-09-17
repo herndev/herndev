@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [U.S. antitrust officials ask to be heard in Epic vs. Apple appeal](https://appleinsider.com/articles/22/09/16/us-antitrust-officials-ask-to-be-heard-in-epic-vs-apple-appeal?utm_medium=rss)
- - [Filing: Starboard Value has built a 9% stake in Wix, which has been struggling with losses since Q4 2021 and has adopted a three-year cost-cutting program &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220916/p26#a220916p26)
- - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)<!-- TECH:END -->
+ - [Splatoon 3 Amiibo Guide: Every Amiibo Gear Set and How to Unlock Them     - CNET](https://www.cnet.com/tech/gaming/splatoon-3-amiibo-guide-every-amiibo-gear-set-and-how-to-unlock-them/#ftag=CAD590a51e)
+ - [T-Mobile Spends $300 Million to Boost Service in Latest 5G Auction     - CNET](https://www.cnet.com/tech/mobile/t-mobile-spends-300-million-to-boost-service-in-latest-5g-auction/#ftag=CAD590a51e)
+ - [U.S. antitrust officials ask to be heard in Epic vs. Apple appeal](https://appleinsider.com/articles/22/09/16/us-antitrust-officials-ask-to-be-heard-in-epic-vs-apple-appeal?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
