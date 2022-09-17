@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elden Ring is getting its own board game](https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop)
  - [iPhone 14 Pro review: The best power &amp; camera to cost balance](https://appleinsider.com/articles/22/09/17/iphone-14-pro-review-the-best-power-camera-to-cost-balance?utm_medium=rss)
- - [A profile of Figma founder Dylan Field, who will become the wealthiest person from the Thiel Fellowship by far, as PitchBook estimates his stake is worth $2B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220917/p10#a220917p10)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Carriers should stop charging extra for using smartwatch data](https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
