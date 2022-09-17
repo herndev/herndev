@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
- - ⏩ [Lego Land](http://9gag.com/gag/ap9EgPD)
- - 👉 [Offensive](http://9gag.com/gag/a5Xe1Ey)<!-- MEMES:END -->
+ - 💣 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)
+ - ⏩ [Offensive](http://9gag.com/gag/a5Xe1Ey)
+ - 👉 [It&#39;s been 20 years and still not 1 movie has managed to surpass the level of Battle of the Pelennor Fields.](http://9gag.com/gag/aNwrDBw)<!-- MEMES:END -->
 
 ---
 
