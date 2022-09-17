@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Yakuza series will be called Like a Dragon going forward](https://www.pcgamer.com/the-yakuza-series-will-be-called-like-a-dragon-going-forward)
  - [Elden Ring board game in the works, because of course it is](https://www.pcgamer.com/elden-ring-board-game-in-the-works-because-of-course-it-is)
- - [One of 2019&#39;s best shooters is getting a surprise sequel from a new developer](https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer)
- - [Fate: The Winx Saga’s Sky is a horse boy because the actor is too](https://www.polygon.com/23356903/fate-winx-saga-sky-bloom-brian-young-interview)<!-- GAME:END -->
+ - [One of 2019&#39;s best shooters is getting a surprise sequel from a new developer](https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
