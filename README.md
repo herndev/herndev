@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have a collection of 122 ps4 games using the ancient technique.](http://9gag.com/gag/aME2Y4W)
+ - 💣 [Downatello...](http://9gag.com/gag/a6qmOLL)
  - ⏩ [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - 👉 [Downatello...](http://9gag.com/gag/a6qmOLL)<!-- MEMES:END -->
+ - 👉 [I have a collection of 122 ps4 games using the ancient technique.](http://9gag.com/gag/aME2Y4W)<!-- MEMES:END -->
 
 ---
 
