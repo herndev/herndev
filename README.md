@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
- - ⏩ [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)
- - 👉 [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)<!-- MEMES:END -->
+ - ⏩ [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)
+ - 👉 [I wont even be mad](http://9gag.com/gag/a0487pQ)<!-- MEMES:END -->
 
 ---
 
