@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whale Shark sucking fishes from a net... cheater](http://9gag.com/gag/armvVK6)
- - ⏩ [Ok...](http://9gag.com/gag/aBdRgKP)
- - 👉 [Oldie but goldie](http://9gag.com/gag/aWGQEMd)<!-- MEMES:END -->
+ - 💣 [The letter N](http://9gag.com/gag/az2gMjB)
+ - ⏩ [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)
+ - 👉 [The delusion is strong](http://9gag.com/gag/a8qL593)<!-- MEMES:END -->
 
 ---
 
