@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 24 can’t-miss movies to watch on Paramount Plus](https://www.polygon.com/what-to-watch/23306779/paramount-plus-best-movies-list)
  - [Today&#39;s Wordle 455 answer and hint: Saturday, September 17](https://www.pcgamer.com/todays-wordle-455-answer-hint)
- - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)
- - [Upcoming Yakuza spinoff says &#39;subs, not dubs&#39;](https://www.pcgamer.com/upcoming-yakuza-spinoff-says-subs-not-dubs)<!-- GAME:END -->
+ - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
