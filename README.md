@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Landleben in Australia](http://9gag.com/gag/aGEYpmz)
- - ⏩ [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)
- - 👉 [Wahmen](http://9gag.com/gag/az2gMQx)<!-- MEMES:END -->
+ - 💣 [Wahmen](http://9gag.com/gag/az2gMQx)
+ - ⏩ [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)
+ - 👉 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)<!-- MEMES:END -->
 
 ---
 
