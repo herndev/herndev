@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe’s Figma acquisition is a $20 billion bet to control the entire creative market](https://www.theverge.com/2022/9/17/23357404/adobe-figma-acquisition-20-billion-bet-control-creative-market-antitrust)
- - [Unsealed court docs in a privacy user profiling suit against Meta show that apps from Zynga, Yahoo, and others had extensive access to users&#39; friends&#39; data &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220917/p7#a220917p7)
- - [DIY replacement screens and batteries for iPhones and Pixels are 20 percent off at iFixit](https://www.theverge.com/2022/9/17/23356479/ifixit-iphone-pixel-google-buds-pro-nacon-xbox-anker-gan-deal-sale)<!-- TECH:END -->
+ - [Knives Out, Weird Al, and more: eight great movies from TIFF 2022](https://www.theverge.com/2022/9/17/23354933/tiff-2022-movie-reviews-glass-onion-weird-broker)
+ - [Shopify changes its compensation practices to let staff choose a mix of cash, restricted stock units, and stock options; Shopify stock is down 75% in 2022 &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220917/p8#a220917p8)
+ - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
