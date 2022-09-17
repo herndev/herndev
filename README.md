@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How neural engines redefined creativity in chess, leading to some top players engaging in deception, misdirection, and other psychological techniques &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/220917/p9#a220917p9)
+ - [How neural network chess engines redefined the game&#39;s creativity, leading some top players to use deception, misdirection, and other psychological techniques &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/220917/p9#a220917p9)
  - [Hubble Telescope Captures What Might Be the Prettiest Spiral Galaxy Ever     - CNET](https://www.cnet.com/science/space/hubble-telescope-image-captures-what-might-be-the-prettiest-spiral-galaxy-ever/#ftag=CAD590a51e)
  - [iPhone 14 Pro review: The best power &amp; camera to cost balance](https://appleinsider.com/articles/22/09/17/iphone-14-pro-review-the-best-power-camera-to-cost-balance?utm_medium=rss)<!-- TECH:END -->
 
