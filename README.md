@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elden Ring is getting its own board game](https://www.theverge.com/2022/9/17/23358231/elden-ring-board-game-kickstarter-steamforged-games-tabletop)
- - [iPhone 14 Pro review: The best power &amp; camera to cost balance](https://appleinsider.com/articles/22/09/17/iphone-14-pro-review-the-best-power-camera-to-cost-balance?utm_medium=rss)
- - [Carriers should stop charging extra for using smartwatch data](https://www.androidauthority.com/carrier-charging-extra-smartwatch-data-3207849/)<!-- TECH:END -->
+ - [A Vietnamese couple says they wiped some of Intercontinental Hotels Group&#39;s data, accessed using the password Qwerty1234, after a failed ransomware attack &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/220917/p11#a220917p11)
+ - [Best TV Deals of 2022: Save Up to $1,500 on LG, Samsung and Amazon Fire TVs     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-stream-on-netflix-for-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
