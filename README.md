@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Yakuza series will be called Like a Dragon going forward](https://www.pcgamer.com/the-yakuza-series-will-be-called-like-a-dragon-going-forward)
- - [Elden Ring board game in the works, because of course it is](https://www.pcgamer.com/elden-ring-board-game-in-the-works-because-of-course-it-is)
- - [One of 2019&#39;s best shooters is getting a surprise sequel from a new developer](https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer)<!-- GAME:END -->
+ - [What if the 1991 Lone Wolf videogame was actually a choose-your-own-adventure book?](https://www.pcgamer.com/saturday-crapshoot-lw)
+ - [Disgruntled employee spams players of 14-year-old MMO with profanity-laden official notifications](https://www.pcgamer.com/disgruntled-employee-spams-players-of-14-year-old-mmo-with-profanity-laden-official-notifications)
+ - [Valve&#39;s got the real docks for Steam Deck at Tokyo Game Show, have a look](https://www.pcgamer.com/valves-got-the-real-docks-for-steam-deck-at-tokyo-game-show-have-a-look)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
