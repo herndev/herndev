@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [More Bass \u2260 better sound](http://9gag.com/gag/aEqvqQp)
- - ⏩ [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
- - 👉 [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)<!-- MEMES:END -->
+ - 💣 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
+ - ⏩ [Yeah](http://9gag.com/gag/aeQjQPQ)
+ - 👉 [Lego Land](http://9gag.com/gag/ap9EgPD)<!-- MEMES:END -->
 
 ---
 
