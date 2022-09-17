@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
- - ⏩ [Uhhh......](http://9gag.com/gag/aQEPdL7)
- - 👉 [I wont even be mad](http://9gag.com/gag/a0487pQ)<!-- MEMES:END -->
+ - ⏩ [Soon may the kittyman come](http://9gag.com/gag/aBdRmB2)
+ - 👉 [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)<!-- MEMES:END -->
 
 ---
 
