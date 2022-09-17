@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)
- - [EVGA stops making video cards, citing conflicts with Nvidia and ending a partnership started in 1999; Nvidia&#39;s GeForce reportedly makes up 80% of EVGA&#39;s revenue &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/220916/p25#a220916p25)
- - [Apple&#39;s loaded MacBook Air &lpar;M2, 24GB RAM, 1TB SSD&rpar; now $100 off, plus $40 off AppleCare](https://appleinsider.com/articles/22/09/16/apples-loaded-macbook-air-m2-24gb-ram-1tb-ssd-now-100-off-plus-40-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [U.S. antitrust officials ask to be heard in Epic vs. Apple appeal](https://appleinsider.com/articles/22/09/16/us-antitrust-officials-ask-to-be-heard-in-epic-vs-apple-appeal?utm_medium=rss)
+ - [Filing: Starboard Value has built a 9% stake in Wix, which has been struggling with losses since Q4 2021 and has adopted a three-year cost-cutting program &lpar;Svea Herbst-Bayliss/Reuters&rpar;](http://www.techmeme.com/220916/p26#a220916p26)
+ - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
