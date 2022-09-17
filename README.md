@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor James May](http://9gag.com/gag/aKEwx8Q)
- - ⏩ [The delusion is strong](http://9gag.com/gag/a8qL593)
- - 👉 [I have a collection of 122 ps4 games using the ancient technique.](http://9gag.com/gag/aME2Y4W)<!-- MEMES:END -->
+ - 💣 [I have a collection of 122 ps4 games using the ancient technique.](http://9gag.com/gag/aME2Y4W)
+ - ⏩ [Whale Shark sucking fishes from a net... cheater](http://9gag.com/gag/armvVK6)
+ - 👉 [How female comedian deals with hecklers vs How male comedian deals with hecklers](http://9gag.com/gag/a7qLWw2)<!-- MEMES:END -->
 
 ---
 
