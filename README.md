@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 455 answer and hint: Saturday, September 17](https://www.pcgamer.com/todays-wordle-455-answer-hint)
  - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)
- - [Upcoming Yakuza spinoff says &#39;subs, not dubs&#39;](https://www.pcgamer.com/upcoming-yakuza-spinoff-says-subs-not-dubs)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/23349095/new-movies-watch-netflix-do-revenge-three-thousand-years-longing-vengeance-breaking)<!-- GAME:END -->
+ - [Upcoming Yakuza spinoff says &#39;subs, not dubs&#39;](https://www.pcgamer.com/upcoming-yakuza-spinoff-says-subs-not-dubs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
