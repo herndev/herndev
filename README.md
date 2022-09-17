@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [After Ethereum&#39;s Merge, a look at four more upgrades to the network that are under active development, called The Surge, The Verge, The Purge, and The Splurge &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220917/p4#a220917p4)
- - [Adobe&#39;s $20B Figma deal is worth it because Figma&#39;s $400M ARR, independent of margin, was continuing to double and creating pricing pressure on Adobe &lpar;Hunter Walk&rpar;](http://www.techmeme.com/220917/p3#a220917p3)
- - [Meta&#39;s stock has lost 61% of its value in the past 12 months, by far the biggest slide among Big Tech stocks and more than 2x the drop in the Nasdaq Composite &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220917/p2#a220917p2)<!-- TECH:END -->
+ - [Best Spray Car Wax for 2022     - CNET](https://www.cnet.com/roadshow/news/best-spray-car-wax/#ftag=CAD590a51e)
+ - [Adobe&#39;s $20B Figma deal is worth it because Figma&#39;s $400M ARR, independent of margin, was continuing to double and creating pricing pressure on Adobe &lpar;Hunter Walk&rpar;](http://www.techmeme.com/220917/p3#a220917p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
