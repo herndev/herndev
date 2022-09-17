@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta&#39;s stock has lost 61% of its value in the past 12 months, by far the biggest slide among Big Tech stocks and more than 2x the drop in the Nasdaq Composite &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220917/p2#a220917p2)
- - [The 5th Circuit federal court&#39;s ruling to uphold the Texas social media content moderation law is based on a misrepresentation of how Section 230 actually works &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220917/p1#a220917p1)
- - [An interview with AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li on deep learning&#39;s progress since 2012&#39;s groundbreaking ImageNet database research &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/220916/p27#a220916p27)<!-- TECH:END -->
+ - [After Ethereum&#39;s Merge, a look at four more upgrades to the network that are under active development, called The Surge, The Verge, The Purge, and The Splurge &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220917/p4#a220917p4)
+ - [Adobe&#39;s $20B Figma deal is worth it because Figma&#39;s $400M ARR, independent of margin, was continuing to double and creating pricing pressure on Adobe &lpar;Hunter Walk&rpar;](http://www.techmeme.com/220917/p3#a220917p3)
+ - [Meta&#39;s stock has lost 61% of its value in the past 12 months, by far the biggest slide among Big Tech stocks and more than 2x the drop in the Nasdaq Composite &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220917/p2#a220917p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
