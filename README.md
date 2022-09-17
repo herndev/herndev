@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They should make a Nefflix show and call it `Steve - The Mythical outcast`](http://9gag.com/gag/abvXrp9)
- - ⏩ [How female comedian deals with hecklers vs How male comedian deals with hecklers](http://9gag.com/gag/a7qLWw2)
- - 👉 [The delusion is strong](http://9gag.com/gag/a8qL593)<!-- MEMES:END -->
+ - 💣 [Whale Shark sucking fishes from a net... cheater](http://9gag.com/gag/armvVK6)
+ - ⏩ [Ok...](http://9gag.com/gag/aBdRgKP)
+ - 👉 [Oldie but goldie](http://9gag.com/gag/aWGQEMd)<!-- MEMES:END -->
 
 ---
 
