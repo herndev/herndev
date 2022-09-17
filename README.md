@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One of 2019&#39;s best shooters is getting a surprise sequel from a new developer](https://www.pcgamer.com/one-of-2019s-best-shooters-is-getting-a-surprise-sequel-from-a-new-developer)
  - [Fate: The Winx Saga’s Sky is a horse boy because the actor is too](https://www.polygon.com/23356903/fate-winx-saga-sky-bloom-brian-young-interview)
- - [The director of The Woman King on what really matters when making a historical epic](https://www.polygon.com/23355931/the-woman-king-true-story-gina-prince-bythewood-interview)
- - [The 24 can’t-miss movies to watch on Paramount Plus](https://www.polygon.com/what-to-watch/23306779/paramount-plus-best-movies-list)<!-- GAME:END -->
+ - [The director of The Woman King on what really matters when making a historical epic](https://www.polygon.com/23355931/the-woman-king-true-story-gina-prince-bythewood-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
