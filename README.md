@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
- - ⏩ [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)
- - 👉 [I wont even be mad](http://9gag.com/gag/a0487pQ)<!-- MEMES:END -->
+ - 💣 [I wont even be mad](http://9gag.com/gag/a0487pQ)
+ - ⏩ [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)
+ - 👉 [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)<!-- MEMES:END -->
 
 ---
 
