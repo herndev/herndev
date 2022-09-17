@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Ethereum&#39;s Merge, a look at four more upgrades to the network that are under active development, called The Surge, The Verge, The Purge, and The Splurge &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/220917/p4#a220917p4)
- - [Best Spray Car Wax for 2022     - CNET](https://www.cnet.com/roadshow/news/best-spray-car-wax/#ftag=CAD590a51e)
- - [Adobe&#39;s $20B Figma deal is worth it because Figma&#39;s $400M ARR, independent of margin, was continuing to double and creating pricing pressure on Adobe &lpar;Hunter Walk&rpar;](http://www.techmeme.com/220917/p3#a220917p3)<!-- TECH:END -->
+ - [Should You Upgrade to the iPhone 14? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CAD590a51e)
+ - [Some experts say targeted ads on streaming services could be crucial in the 2022 US midterms, as others worry the ads evade federal regulation and oversight &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220917/p5#a220917p5)
+ - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
