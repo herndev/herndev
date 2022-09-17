@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Knives Out, Weird Al, and more: eight great movies from TIFF 2022](https://www.theverge.com/2022/9/17/23354933/tiff-2022-movie-reviews-glass-onion-weird-broker)
- - [Shopify changes its compensation practices to let staff choose a mix of cash, restricted stock units, and stock options; Shopify stock is down 75% in 2022 &lpar;Stefanie Marotta/Bloomberg&rpar;](http://www.techmeme.com/220917/p8#a220917p8)
- - [24 years after original iMac, there&#39;s still big demand for floppies](https://appleinsider.com/articles/22/09/16/24-years-after-original-imac-theres-still-big-demand-for-floppies?utm_medium=rss)<!-- TECH:END -->
+ - [Constantine sequel brings back Keanu Reeves for more occult detective work](https://www.theverge.com/2022/9/17/23357796/constantine-sequel-keanu-reeves-warner-bros-dc-comics)
+ - [Daily Deals Sept. 17: $150 off Mac Studio, up to 58% off Nanoleaf, $200 off a TCL 65-inch Smart TV, more!](https://appleinsider.com/articles/22/09/17/daily-deals-sept-17-150-off-mac-studio-up-to-58-off-nanoleaf-200-off-a-tcl-65-inch-smart-tv-more?utm_medium=rss)
+ - [Pokemon Go September 2022 Community Day: Shiny Roggenrola, Bonuses and More     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-september-2022-community-day-shiny-roggenrola-bonuses-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
