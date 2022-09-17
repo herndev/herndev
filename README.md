@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The letter N](http://9gag.com/gag/az2gMjB)
- - ⏩ [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)
- - 👉 [The delusion is strong](http://9gag.com/gag/a8qL593)<!-- MEMES:END -->
+ - 💣 [The Fireball Whiskey Cheesecake](http://9gag.com/gag/aVbz7QO)
+ - ⏩ [Uhhh......](http://9gag.com/gag/aQEPdL7)
+ - 👉 [I wont even be mad](http://9gag.com/gag/a0487pQ)<!-- MEMES:END -->
 
 ---
 
