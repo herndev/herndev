@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)
- - ⏩ [Offensive](http://9gag.com/gag/a5Xe1Ey)
- - 👉 [It&#39;s been 20 years and still not 1 movie has managed to surpass the level of Battle of the Pelennor Fields.](http://9gag.com/gag/aNwrDBw)<!-- MEMES:END -->
+ - 💣 [When you at the stop light and a kid stops next to you blasting Sabaton in his car instead of mumble rap.](http://9gag.com/gag/aKEwGWj)
+ - ⏩ [Women of Iran-Saghez removed their headscarves in protest against the murder of Mahsa Amini 22 Yr old woman by hijab police and chanting: death to dictator! Removing hijab is a punishable crime in Iran.](http://9gag.com/gag/armvypy)
+ - 👉 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)<!-- MEMES:END -->
 
 ---
 
