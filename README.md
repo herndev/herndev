@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should You Upgrade to the iPhone 14? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CAD590a51e)
- - [Some experts say targeted ads on streaming services could be crucial in the 2022 US midterms, as others worry the ads evade federal regulation and oversight &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220917/p5#a220917p5)
- - [Best Samsung Phone for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The 10 Best Family Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-family-movies-on-netflix/#ftag=CAD590a51e)
+ - [Apple&#39;s iPhone 14 Pro vs. Galaxy S22 Ultra, Pixel 6 Pro, OnePlus 10 Pro: How They Compare     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-pro-vs-galaxy-s22-ultra-pixel-6-pro-oneplus-10-pro-how-they-compare/#ftag=CAD590a51e)
+ - [Should You Upgrade to the iPhone 14? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
