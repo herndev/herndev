@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta&#39;s stock has lost 61% of its value in the past 12 months, by far the biggest slide among Big Tech stocks and more than 2x the drop in the Nasdaq Composite &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/220917/p2#a220917p2)
  - [The 5th Circuit federal court&#39;s ruling to uphold the Texas social media content moderation law is based on a misrepresentation of how Section 230 actually works &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220917/p1#a220917p1)
- - [An interview with AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li on deep learning&#39;s progress since 2012&#39;s groundbreaking ImageNet database research &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/220916/p27#a220916p27)
- - [&#39;Andor&#39; Actors Reveal Their Star Wars Action Figure Dreams     - CNET](https://www.cnet.com/culture/entertainment/andor-actors-reveal-their-star-wars-action-figure-dreams/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with AI pioneers Geoffrey Hinton, Yann LeCun, and Fei-Fei Li on deep learning&#39;s progress since 2012&#39;s groundbreaking ImageNet database research &lpar;Sharon Goldman/VentureBeat&rpar;](http://www.techmeme.com/220916/p27#a220916p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
