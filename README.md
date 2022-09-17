@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
- - ⏩ [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
- - 👉 [Don&#39;t normalize obesity...](http://9gag.com/gag/a3ZP15v)<!-- MEMES:END -->
+ - 💣 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
+ - ⏩ [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
+ - 👉 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
 
 ---
 
