@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fate: The Winx Saga’s Sky is a horse boy because the actor is too](https://www.polygon.com/23356903/fate-winx-saga-sky-bloom-brian-young-interview)
  - [The director of The Woman King on what really matters when making a historical epic](https://www.polygon.com/23355931/the-woman-king-true-story-gina-prince-bythewood-interview)
- - [The 24 can’t-miss movies to watch on Paramount Plus](https://www.polygon.com/what-to-watch/23306779/paramount-plus-best-movies-list)
- - [Today&#39;s Wordle 455 answer and hint: Saturday, September 17](https://www.pcgamer.com/todays-wordle-455-answer-hint)<!-- GAME:END -->
+ - [The 24 can’t-miss movies to watch on Paramount Plus](https://www.polygon.com/what-to-watch/23306779/paramount-plus-best-movies-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
