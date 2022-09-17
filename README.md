@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I wont even be mad](http://9gag.com/gag/a0487pQ)
- - ⏩ [It&#39;s happening! Warner Bros green lit Constantine 2 with Keanu Reeves returning as John Constantine!!](http://9gag.com/gag/amANPYX)
- - 👉 [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)<!-- MEMES:END -->
+ - 💣 [Haven&#39;t been hugged in years.](http://9gag.com/gag/aME2K41)
+ - ⏩ [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)
+ - 👉 [Don&#39;t forget guys, there is no reverse racism.](http://9gag.com/gag/aPgw3OB)<!-- MEMES:END -->
 
 ---
 
