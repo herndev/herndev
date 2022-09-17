@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jacket is too short](http://9gag.com/gag/avQp5AM)
+ - 💣 [Landleben in Australia](http://9gag.com/gag/aGEYpmz)
  - ⏩ [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)
- - 👉 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
+ - 👉 [Wahmen](http://9gag.com/gag/az2gMQx)<!-- MEMES:END -->
 
 ---
 
