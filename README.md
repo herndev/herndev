@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Colorado River Is Dying. Can Its Aquatic Dinosaurs Be Saved?](https://www.wired.com/story/the-colorado-river-is-dying-can-its-aquatic-dinosaurs-be-saved/)
- - [The Haikubox Brings High-Tech Birding to the Masses](https://www.wired.com/review/haikubox-bird-song-recorder/)
- - [The PS Vita’s time is now, again](https://www.theverge.com/2022/9/17/23355403/ps-vita-2022-wishlist-soliloquy)<!-- TECH:END -->
+ - [Shopping for a Router Sucks. Here’s What You Need to Know](https://www.wired.com/story/how-to-buy-a-router/)
+ - [What Atlanta Gave Me](https://www.wired.com/story/atlanta-donald-glover-final-season/)
+ - [Amazon Makes the Cheapest Kindle Even Better](https://www.wired.com/story/amazon-cheapest-kindle-usb-c/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
