@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you at the stop light and a kid stops next to you blasting Sabaton in his car instead of mumble rap.](http://9gag.com/gag/aKEwGWj)
- - ⏩ [Women of Iran-Saghez removed their headscarves in protest against the murder of Mahsa Amini 22 Yr old woman by hijab police and chanting: death to dictator! Removing hijab is a punishable crime in Iran.](http://9gag.com/gag/armvypy)
+ - 💣 [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
+ - ⏩ [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
  - 👉 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)<!-- MEMES:END -->
 
 ---
