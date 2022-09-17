@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The director of The Woman King on what really matters when making a historical epic](https://www.polygon.com/23355931/the-woman-king-true-story-gina-prince-bythewood-interview)
  - [The 24 can’t-miss movies to watch on Paramount Plus](https://www.polygon.com/what-to-watch/23306779/paramount-plus-best-movies-list)
- - [Today&#39;s Wordle 455 answer and hint: Saturday, September 17](https://www.pcgamer.com/todays-wordle-455-answer-hint)
- - [Microsoft considering buying more studios to stay competitive with Tencent and Sony](https://www.pcgamer.com/microsoft-considering-buying-more-studios-to-stay-competitive-with-tencent-and-sony)<!-- GAME:END -->
+ - [Today&#39;s Wordle 455 answer and hint: Saturday, September 17](https://www.pcgamer.com/todays-wordle-455-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
