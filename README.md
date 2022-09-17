@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
- - ⏩ [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
- - 👉 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
+ - 💣 [More Bass \u2260 better sound](http://9gag.com/gag/aEqvqQp)
+ - ⏩ [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
+ - 👉 [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)<!-- MEMES:END -->
 
 ---
 
