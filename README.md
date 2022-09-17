@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopping for a Router Sucks. Here’s What You Need to Know](https://www.wired.com/story/how-to-buy-a-router/)
- - [What Atlanta Gave Me](https://www.wired.com/story/atlanta-donald-glover-final-season/)
- - [Amazon Makes the Cheapest Kindle Even Better](https://www.wired.com/story/amazon-cheapest-kindle-usb-c/)<!-- TECH:END -->
+ - [Adobe’s Figma acquisition is a $20 billion bet to control the entire creative market](https://www.theverge.com/2022/9/17/23357404/adobe-figma-acquisition-20-billion-bet-control-creative-market-antitrust)
+ - [Unsealed court docs in a privacy user profiling suit against Meta show that apps from Zynga, Yahoo, and others had extensive access to users&#39; friends&#39; data &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/220917/p7#a220917p7)
+ - [DIY replacement screens and batteries for iPhones and Pixels are 20 percent off at iFixit](https://www.theverge.com/2022/9/17/23356479/ifixit-iphone-pixel-google-buds-pro-nacon-xbox-anker-gan-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
