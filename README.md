@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wahmen](http://9gag.com/gag/az2gMQx)
- - ⏩ [A little bit noisy neighbor](http://9gag.com/gag/a2Kz701)
- - 👉 [When the date is just not good enough to risk your life](http://9gag.com/gag/a8qLEXV)<!-- MEMES:END -->
+ - 💣 [I like how nobody is offended.](http://9gag.com/gag/anzqgmo)
+ - ⏩ [Here comes the airplane](http://9gag.com/gag/ajVYgKG)
+ - 👉 [Don&#39;t normalize obesity...](http://9gag.com/gag/a3ZP15v)<!-- MEMES:END -->
 
 ---
 
