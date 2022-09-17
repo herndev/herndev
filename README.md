@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
- - ⏩ [Rock beats hammer.](http://9gag.com/gag/aA0RxZp)
- - 👉 [They should make a Nefflix show and call it `Steve - The Mythical outcast`](http://9gag.com/gag/abvXrp9)<!-- MEMES:END -->
+ - 💣 [I have a collection of 122 ps4 games using the ancient technique.](http://9gag.com/gag/aME2Y4W)
+ - ⏩ [Thanks to his mom !](http://9gag.com/gag/a8qL5bQ)
+ - 👉 [Downatello...](http://9gag.com/gag/a6qmOLL)<!-- MEMES:END -->
 
 ---
 
