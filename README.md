@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 10 Best Family Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-family-movies-on-netflix/#ftag=CAD590a51e)
- - [Apple&#39;s iPhone 14 Pro vs. Galaxy S22 Ultra, Pixel 6 Pro, OnePlus 10 Pro: How They Compare     - CNET](https://www.cnet.com/tech/mobile/apples-iphone-14-pro-vs-galaxy-s22-ultra-pixel-6-pro-oneplus-10-pro-how-they-compare/#ftag=CAD590a51e)
- - [Should You Upgrade to the iPhone 14? How It Compares to Older iPhones     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-iphone-14-how-it-compares-to-older-iphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Colorado River Is Dying. Can Its Aquatic Dinosaurs Be Saved?](https://www.wired.com/story/the-colorado-river-is-dying-can-its-aquatic-dinosaurs-be-saved/)
+ - [The Haikubox Brings High-Tech Birding to the Masses](https://www.wired.com/review/haikubox-bird-song-recorder/)
+ - [The PS Vita’s time is now, again](https://www.theverge.com/2022/9/17/23355403/ps-vita-2022-wishlist-soliloquy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
