@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Pro review: The best power &amp; camera to cost balance](https://appleinsider.com/articles/22/09/17/iphone-14-pro-review-the-best-power-camera-to-cost-balance?utm_medium=rss)
  - [A profile of Figma founder Dylan Field, who will become the wealthiest person from the Thiel Fellowship by far, as PitchBook estimates his stake is worth $2B+ &lpar;Bloomberg&rpar;](http://www.techmeme.com/220917/p10#a220917p10)
- - [The Samsung Galaxy Z Fold 4 is great, but its Android 12L I really love](https://www.androidauthority.com/samsung-galaxy-z-fold-4-android-12l-3208362/)
- - [How neural network chess engines redefined the game&#39;s creativity, leading some top players to use deception, misdirection, and other psychological techniques &lpar;Matteo Wong/The Atlantic&rpar;](http://www.techmeme.com/220917/p9#a220917p9)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
