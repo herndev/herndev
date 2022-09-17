@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Haven&#39;t been hugged in years.](http://9gag.com/gag/aME2K41)
- - ⏩ [Fans make better movies than Hollywoke](http://9gag.com/gag/a6qmEw8)
- - 👉 [Don&#39;t forget guys, there is no reverse racism.](http://9gag.com/gag/aPgw3OB)<!-- MEMES:END -->
+ - 💣 [Jacket is too short](http://9gag.com/gag/avQp5AM)
+ - ⏩ [It\u2019s finally Oktoberfest again my dudes !!!](http://9gag.com/gag/aeQjgGv)
+ - 👉 [It is the truth](http://9gag.com/gag/aGEYzjG)<!-- MEMES:END -->
 
 ---
 
