@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pass the Dutchie\u2026](http://9gag.com/gag/aKEw1gj)
- - ⏩ [More Bass \u2260 better sound](http://9gag.com/gag/aEqvqQp)
- - 👉 [Whoa](http://9gag.com/gag/aBdRd6D)<!-- MEMES:END -->
+ - ⏩ [This tunnel lines up perfectly with the sun twice a year](http://9gag.com/gag/aA0RQmZ)
+ - 👉 [I&#39;m gonna click the `Help` button](http://9gag.com/gag/aNwrDo6)<!-- MEMES:END -->
 
 ---
 
