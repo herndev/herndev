@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pass the Dutchie\u2026](http://9gag.com/gag/aKEw1gj)
- - ⏩ [This tunnel lines up perfectly with the sun twice a year](http://9gag.com/gag/aA0RQmZ)
- - 👉 [I&#39;m gonna click the `Help` button](http://9gag.com/gag/aNwrDo6)<!-- MEMES:END -->
+ - 💣 [How to make an emergency backpack](http://9gag.com/gag/a6qmDbe)
+ - ⏩ [What&#39;s the name of this cartoon?](http://9gag.com/gag/a6qmZ4m)
+ - 👉 [What a legend](http://9gag.com/gag/amAN1Nd)<!-- MEMES:END -->
 
 ---
 
