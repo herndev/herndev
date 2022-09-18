@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [5 high school revenge movies that show hell is a teenage girl](https://www.polygon.com/what-to-watch/23355570/dark-comedy-movies-high-school-like-heathers-mean-girls)
  - [The Thunderbolts roster needs more superpowers](https://game-rant-2022.blogspot.com/2022/09/the-thunderbolts-roster-needs-more.html)
- - [If This Massive &#39;Grand Theft Auto VI&#39; Leak Is Fake, It&#39;s A Very Good One](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)
- - [Here&#39;s another alleged GTA 6 leak, this time with video](https://www.pcgamer.com/heres-another-alleged-gta-6-leak-this-time-with-video)<!-- GAME:END -->
+ - [If This Massive &#39;Grand Theft Auto VI&#39; Leak Is Fake, It&#39;s A Very Good One](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
