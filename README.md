@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)
- - [The Dynamic Island might come to all iPhone 15 models](https://www.theverge.com/2022/9/18/23359479/apple-dynamic-island-base-iphone-15-ross-young-rumors)
- - [Over 90 gameplay videos from Rockstar&#39;s GTA VI leak online; the uploader claims they were behind last week&#39;s Uber hack and have GTA V and VI source code &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/220918/p7#a220918p7)<!-- TECH:END -->
+ - [iPhone 14 Pro users report camera shakiness and grinding noise when using third-party apps](https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple)
+ - [Samsung&#39;s Powerful Tab S8 Ultra Is Up to $300 Off Today Only at Best Buy     - CNET](https://www.cnet.com/deals/save-up-to-250-on-a-premium-samsung-tablet-today-only-at-best-buy/#ftag=CAD590a51e)
+ - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
