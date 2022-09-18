@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro users report camera shakiness and grinding noise when using third-party apps](https://www.theverge.com/2022/9/18/23359564/iphone-14-cameras-shaking-grinding-sounds-third-party-photo-apps-apple)
- - [Samsung&#39;s Powerful Tab S8 Ultra Is Up to $300 Off Today Only at Best Buy     - CNET](https://www.cnet.com/deals/save-up-to-250-on-a-premium-samsung-tablet-today-only-at-best-buy/#ftag=CAD590a51e)
- - [Deals: save 84% on Microsoft Office for Mac](https://appleinsider.com/articles/22/09/07/deals-save-84-on-microsoft-office-for-mac?utm_medium=rss)<!-- TECH:END -->
+ - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
+ - [Scientists Discover 380 Million-Year-Old Heart, Stunningly Preserved     - CNET](https://www.cnet.com/science/biology/scientists-find-380-million-year-old-heart-exquisitely-preserved/#ftag=CAD590a51e)
+ - [&#39;Andor&#39; Q&amp;A: Actors Offer Inside Look at &#39;Gritty, Human&#39; Star Wars Show     - CNET](https://www.cnet.com/culture/entertainment/andor-q-a-actors-offer-inside-look-at-gritty-human-star-wars-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
