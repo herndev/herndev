@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right to expression?](http://9gag.com/gag/a5XeB7N)
- - ⏩ [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
- - 👉 [Time travel!](http://9gag.com/gag/avQp1yd)<!-- MEMES:END -->
+ - 💣 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
+ - ⏩ [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)
+ - 👉 [Good times](http://9gag.com/gag/aGEYnEz)<!-- MEMES:END -->
 
 ---
 
