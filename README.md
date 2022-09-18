@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
- - ⏩ [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)
- - 👉 [Good times](http://9gag.com/gag/aGEYnEz)<!-- MEMES:END -->
+ - ⏩ [Dang](http://9gag.com/gag/a7qLeee)
+ - 👉 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)<!-- MEMES:END -->
 
 ---
 
