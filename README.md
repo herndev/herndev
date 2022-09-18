@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Massive Possible &#39;Grand Theft Auto VI&#39; Leak Sure Is Looking Legit [UPDATE]](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)
- - [Skyrocketing Cyberpunk 2077 player counts prove the Netflix boost is real](https://www.pcgamer.com/skyrocketing-cyberpunk-2077-player-counts-prove-the-netflix-boost-is-real)
- - [Pro Gaming CEO Pops Champagne With Misogynist Andrew Tate, Now On Unpaid Leave](https://kotaku.com/andrew-tate-g2-esports-tiktok-youtube-twitch-league-1849550734)<!-- GAME:END -->
+ - [10 PlayStation Games That Are Better When You&#39;re An Adult](https://game-rant-2022.blogspot.com/2022/09/10-playstation-games-that-are-better.html)
+ - [The Addams Family Wednesday Facts](https://game-rant-2022.blogspot.com/2022/09/the-addams-family-wednesday-facts.html)
+ - [The Biggest Personalities &lpar;Non-Superstar&rpar; Wearing a Heat Uniform - Orange County Register](https://game-rant-2022.blogspot.com/2022/09/the-biggest-personalities-non-superstar.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
