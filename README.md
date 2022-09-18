@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Edgerunners proves that anime is the best medium to modify video games](https://game-rant-2022.blogspot.com/2022/09/edgerunners-proves-that-anime-is-best.html)
- - [Why does everyone love multiverse movies?](https://game-rant-2022.blogspot.com/2022/09/why-does-everyone-love-multiverse-movies.html)
- - [Marvel games that did Wolverine right](https://game-rant-2022.blogspot.com/2022/09/marvel-games-that-did-wolverine-right.html)<!-- GAME:END -->
+ - [How likely is it that Indian teams will get a lock on PMGC 2022 after BGMI ban?](https://game-rant-2022.blogspot.com/2022/09/how-likely-is-it-that-indian-teams-will.html)
+ - [Best cutscenes in video games](https://game-rant-2022.blogspot.com/2022/09/best-cutscenes-in-video-games.html)
+ - [Tokyo Game Show 2022: Everything Announced](https://game-rant-2022.blogspot.com/2022/09/tokyo-game-show-2022-everything.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
