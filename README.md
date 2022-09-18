@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jackie Chan was my childhood hero.](http://9gag.com/gag/aPgwPZq)
- - ⏩ [Kids reaction](http://9gag.com/gag/amAN6w9)
- - 👉 [Some men can&#39;t find the cathedral](http://9gag.com/gag/aXn0NR2)<!-- MEMES:END -->
+ - 💣 [Never gonna happen.](http://9gag.com/gag/aQEP7Z8)
+ - ⏩ [Earthquake in ikea](http://9gag.com/gag/axod6PY)
+ - 👉 [Kids reaction](http://9gag.com/gag/amAN6w9)<!-- MEMES:END -->
 
 ---
 
