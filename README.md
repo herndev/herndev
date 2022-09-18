@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Gwen is the star of Fortnite’s new battle pass](https://www.polygon.com/23357208/fortnite-spider-gwen-battle-pass-unlock-skins-trailer)
- - [Fortnite’s new season update lets you walk through walls](https://www.polygon.com/23357045/fortnite-season-4-update-patch-paradise-chrome-changes-cutscene)
- - [PAX West 2022: An Interview With Limited Edition Games](https://game-rant-2022.blogspot.com/2022/09/pax-west-2022-interview-with-limited.html)<!-- GAME:END -->
+ - [Here&#39;s another alleged GTA 6 leak, this time with video](https://www.pcgamer.com/heres-another-alleged-gta-6-leak-this-time-with-video)
+ - [How Netflix, &#39;Squid Game&#39; and Korea&#39;s &#39;K-Wave&#39; Broke an Emmy&#39;s Barrier](https://game-rant-2022.blogspot.com/2022/09/how-netflix-squid-game-and-koreas-k.html)
+ - [Today&#39;s Wordle 456 answer and hint: Sunday, September 18](https://www.pcgamer.com/todays-wordle-456-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
