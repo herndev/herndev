@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Use DuckDuckGo’s Privacy-First Email Service](https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/)
- - [Epigenetic ‘Clocks’ Predict Animals’ True Biological Age](https://www.wired.com/story/epigenetic-clocks-predict-animals-true-biological-age/)
- - [An in-depth look at a 2019 cyberstalking campaign by eBay employees against two critics who are now suing the company, its former CEO, and others for harassment &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/220918/p5#a220918p5)<!-- TECH:END -->
+ - [The Best MagSafe Accessories for Your New iPhone](https://www.wired.com/gallery/best-magsafe-accessories/)
+ - [The Best Sex Toys for Every Body](https://www.wired.com/gallery/best-sex-toys-and-tech/)
+ - [Daily Deals Sept. 18: $40 off Apple Watch Series 8, $700 off 65-inch Samsung QLED 4K TV, $69 Zhiyun Smooth Q3 Gimbal, more!](https://appleinsider.com/articles/22/09/18/daily-deals-sept-18-40-off-apple-watch-series-8-700-off-65-inch-samsung-qled-4k-tv-69-zhiyun-smooth-q3-gimbal-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
