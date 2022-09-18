@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A Lord of The Rings Superfan](http://9gag.com/gag/aoKEVR3)
- - ⏩ [I am this old.](http://9gag.com/gag/a9qbvd0)
- - 👉 [Mistakes were made](http://9gag.com/gag/aL1Rz3V)<!-- MEMES:END -->
+ - 💣 [Fast and easy farming](http://9gag.com/gag/a3ZPAXN)
+ - ⏩ [Wagner soldier vs ruZZian military police. Let them fight.](http://9gag.com/gag/az2gK6j)
+ - 👉 [Just a prank...](http://9gag.com/gag/aOxKZBR)<!-- MEMES:END -->
 
 ---
 
