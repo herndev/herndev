@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess I won&#39;t browse your website then.](http://9gag.com/gag/aoKE34e)
- - ⏩ [Finished my Chemo treatments this month!](http://9gag.com/gag/a8qL6jO)
- - 👉 [That look is priceless](http://9gag.com/gag/a4oKnBd)<!-- MEMES:END -->
+ - 💣 [That look is priceless](http://9gag.com/gag/a4oKnBd)
+ - ⏩ [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
+ - 👉 [To whom it might help](http://9gag.com/gag/a1PvmyY)<!-- MEMES:END -->
 
 ---
 
