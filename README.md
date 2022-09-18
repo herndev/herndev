@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many crypto miners are shutting off rigs and plan to sell their GPUs, as GPU-based mining for most cryptocurrencies becomes unprofitable after Ethereum&#39;s Merge &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220918/p1#a220918p1)
- - [Singapore-based cloud HR management service Atlas Technology raised a Series B of up to $200M from Sixth Street Growth, after raising $20M in 2020 &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220917/p12#a220917p12)
- - [15 STEM Toys Your Smarty-Pants Kids Will Actually Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The DHS has awarded a ~$700K grant to researchers to develop best practices and resources for monitoring and evaluating extremist activities in game communities &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/220918/p3#a220918p3)
+ - [A look at antitrust concerns for Adobe&#39;s $20B Figma acquisition, including whether the deal could eliminate competition and harm consumers by reducing choices &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220918/p2#a220918p2)
+ - [Many crypto miners are shutting off rigs and plan to sell their GPUs, as GPU-based mining for most cryptocurrencies becomes unprofitable after Ethereum&#39;s Merge &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220918/p1#a220918p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
