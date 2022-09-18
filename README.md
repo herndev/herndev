@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s 20 lovely minutes of beautiful Octopath Traveller 2](https://www.pcgamer.com/heres-20-lovely-minutes-of-beautiful-octopath-traveller-2)
  - [Grand Theft Auto 6 leak reveals over 90 gameplay videos](https://www.polygon.com/23359292/grand-theft-auto-6-gta6-leak-90-videos-released-online)
- - [5 high school revenge movies that show hell is a teenage girl](https://www.polygon.com/what-to-watch/23355570/dark-comedy-movies-high-school-like-heathers-mean-girls)
- - [The Thunderbolts roster needs more superpowers](https://game-rant-2022.blogspot.com/2022/09/the-thunderbolts-roster-needs-more.html)<!-- GAME:END -->
+ - [5 high school revenge movies that show hell is a teenage girl](https://www.polygon.com/what-to-watch/23355570/dark-comedy-movies-high-school-like-heathers-mean-girls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
