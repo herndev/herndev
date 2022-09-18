@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Pass the Dutchie\u2026](http://9gag.com/gag/aKEw1gj)
- - ⏩ [Rings Of Power adds Baby Gandalf in an attempt to boost ratings.](http://9gag.com/gag/aEqvMRx)
- - 👉 [What&#39;s the name of this cartoon?](http://9gag.com/gag/a6qmZ4m)<!-- MEMES:END -->
+ - ⏩ [More Bass \u2260 better sound](http://9gag.com/gag/aEqvqQp)
+ - 👉 [Whoa](http://9gag.com/gag/aBdRd6D)<!-- MEMES:END -->
 
 ---
 
