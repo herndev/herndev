@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Vietnamese couple says they wiped some of Intercontinental Hotels Group&#39;s data, accessed using the password Qwerty1234, after a failed ransomware attack &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/220917/p11#a220917p11)
- - [Best TV Deals of 2022: Save Up to $1,500 on LG, Samsung and Amazon Fire TVs     - CNET](https://www.cnet.com/deals/best-tv-deals/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-to-stream-on-netflix-for-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Singapore-based cloud HR management service Atlas Technology raised a Series B of up to $200M from Sixth Street Growth, after raising $20M in 2020 &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220917/p12#a220917p12)
+ - [15 STEM Toys Your Smarty-Pants Kids Will Actually Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
+ - [A Vietnamese couple says they wiped some of Intercontinental Hotels Group&#39;s data, accessed using the password Qwerty1234, after a failed ransomware attack &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/220917/p11#a220917p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
