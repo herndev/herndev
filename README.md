@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [At 20, Kingdom Hearts is a crossover from a bygone era](https://game-rant-2022.blogspot.com/2022/09/at-20-kingdom-hearts-is-crossover-from.html)
- - [Tottenham vs Leicester live stream and how to watch the Premier League match online, lineups](https://game-rant-2022.blogspot.com/2022/09/tottenham-vs-leicester-live-stream-and.html)
- - [CFB Wrap-Up: Takeaways from Week 3&#39;s Biggest Games](https://game-rant-2022.blogspot.com/2022/09/cfb-wrap-up-takeaways-from-week-3s.html)<!-- GAME:END -->
+ - [The case for weapons in the Playground Games fable](https://game-rant-2022.blogspot.com/2022/09/the-case-for-weapons-in-playground.html)
+ - [Crypto speculation is falling out of favor at Game Studios](https://game-rant-2022.blogspot.com/2022/09/crypto-speculation-is-falling-out-of.html)
+ - [Everything we know so far, ranked](https://game-rant-2022.blogspot.com/2022/09/everything-we-know-so-far-ranked.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
