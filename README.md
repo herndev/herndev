@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)
  - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
- - [Scientists Discover 380 Million-Year-Old Heart, Stunningly Preserved     - CNET](https://www.cnet.com/science/biology/scientists-find-380-million-year-old-heart-exquisitely-preserved/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Q&amp;A: Actors Offer Inside Look at &#39;Gritty, Human&#39; Star Wars Show     - CNET](https://www.cnet.com/culture/entertainment/andor-q-a-actors-offer-inside-look-at-gritty-human-star-wars-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Teaching Robots to Laugh at the Right Time Is No Joke     - CNET](https://www.cnet.com/science/teaching-robots-to-laugh-at-the-right-time-is-no-joke/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
