@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 PlayStation Games That Are Better When You&#39;re An Adult](https://game-rant-2022.blogspot.com/2022/09/10-playstation-games-that-are-better.html)
- - [The Addams Family Wednesday Facts](https://game-rant-2022.blogspot.com/2022/09/the-addams-family-wednesday-facts.html)
- - [The Biggest Personalities &lpar;Non-Superstar&rpar; Wearing a Heat Uniform - Orange County Register](https://game-rant-2022.blogspot.com/2022/09/the-biggest-personalities-non-superstar.html)<!-- GAME:END -->
+ - [11 times in games where the bosses outdo you](https://game-rant-2022.blogspot.com/2022/09/11-times-in-games-where-bosses-outdo-you.html)
+ - [New Fire Emblem Announced For Nintendo Switch With Returning Characters](https://game-rant-2022.blogspot.com/2022/09/new-fire-emblem-announced-for-nintendo.html)
+ - [New England Patriots Sportsbook Promo Codes and Betting Bonuses](https://game-rant-2022.blogspot.com/2022/09/new-england-patriots-sportsbook-promo.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
