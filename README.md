@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [50 photos over 50 nights....Credit Rami Astro](http://9gag.com/gag/aVbzo52)
- - ⏩ [Dang](http://9gag.com/gag/a7qLeee)
- - 👉 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)<!-- MEMES:END -->
+ - 💣 [Big earthquakes today in Taiwan](http://9gag.com/gag/a9qbv16)
+ - ⏩ [Hits hard](http://9gag.com/gag/ago3OVr)
+ - 👉 [Some men can&#39;t find the cathedral](http://9gag.com/gag/aXn0NR2)<!-- MEMES:END -->
 
 ---
 
