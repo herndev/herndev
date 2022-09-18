@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lmao](http://9gag.com/gag/aQEPAE7)
- - ⏩ [EU is awake](http://9gag.com/gag/aVbzKoO)
- - 👉 [Earthquake in ikea](http://9gag.com/gag/axod6PY)<!-- MEMES:END -->
+ - 💣 [Earthquake in ikea](http://9gag.com/gag/axod6PY)
+ - ⏩ [Lmao](http://9gag.com/gag/aQEPAE7)
+ - 👉 [This is what over 7 magnitude earthquake looks like in Taiwan&#39;s mountain](http://9gag.com/gag/abvXWbX)<!-- MEMES:END -->
 
 ---
 
