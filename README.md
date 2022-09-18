@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Temtem review](https://www.pcgamer.com/temtem-review)
  - [This cartoony cats vs. dogs RTS asserts that humanity&#39;s companions cannot live in harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)
- - [Have you learned a real-world skill from a game?](https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game)
- - [What if the 1991 Lone Wolf videogame was actually a choose-your-own-adventure book?](https://www.pcgamer.com/saturday-crapshoot-lw)<!-- GAME:END -->
+ - [Have you learned a real-world skill from a game?](https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
