@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
- - ⏩ [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)
+ - 💣 [Pass the Dutchie\u2026](http://9gag.com/gag/aKEw1gj)
+ - ⏩ [Rings Of Power adds Baby Gandalf in an attempt to boost ratings.](http://9gag.com/gag/aEqvMRx)
  - 👉 [What&#39;s the name of this cartoon?](http://9gag.com/gag/a6qmZ4m)<!-- MEMES:END -->
 
 ---
