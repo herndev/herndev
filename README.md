@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dynamic Island expected to replace notch on all iPhone 15 models](https://appleinsider.com/articles/22/09/18/dynamic-island-expected-to-replace-notch-on-all-iphone-15-models?utm_medium=rss)
- - [A look at the mounting challenges for Lingang, a Shanghai suburb meant to be China&#39;s next Silicon Valley, amid an economic slowdown and geopolitical tensions &lpar;Bloomberg&rpar;](http://www.techmeme.com/220918/p6#a220918p6)
- - [US Air Force Anniversary Marks 75 Years at Aviation&#39;s Cutting Edge     - CNET](https://www.cnet.com/science/us-air-force-anniversary-marks-75-years-at-aviations-cutting-edge/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Buccaneers vs. Saints Live Stream: How to Watch NFL Week 2 From Anywhere in the US     - CNET](https://www.cnet.com/tech/services-and-software/buccaneers-vs-saints-live-stream-how-to-watch-nfl-week-2-from-anywhere-in-the-us/#ftag=CAD590a51e)
+ - [HBO Max: The 28 Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-28-best-movies-you-can-stream-in-september/#ftag=CAD590a51e)
+ - [Dynamic Island expected to replace notch on all iPhone 15 models](https://appleinsider.com/articles/22/09/18/dynamic-island-expected-to-replace-notch-on-all-iphone-15-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
