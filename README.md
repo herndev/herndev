@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Despite a talent shortage, startups in the Chinese chip sector are cutting back on hiring plans due to the deteriorating macro environment and a funding crunch &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/220918/p4#a220918p4)
  - [Fortnite’s new season adds Spider-Gwen and goopy chrome](https://www.theverge.com/2022/9/18/23357870/fortnite-chapter-3-season-4-paradise-battle-pass)
- - [The DHS has awarded a ~$700K grant to researchers to develop best practices and resources for monitoring and evaluating extremist activities in game communities &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/220918/p3#a220918p3)
- - [A look at antitrust concerns for Adobe&#39;s $20B Figma acquisition, including whether the deal could eliminate competition and harm consumers by reducing choices &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220918/p2#a220918p2)<!-- TECH:END -->
+ - [The DHS has awarded a ~$700K grant to researchers to develop best practices and resources for monitoring and evaluating extremist activities in game communities &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/220918/p3#a220918p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
