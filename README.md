@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s 20 lovely minutes of beautiful Octopath Traveller 2](https://www.pcgamer.com/heres-20-lovely-minutes-of-beautiful-octopath-traveller-2)
- - [Grand Theft Auto 6 leak reveals over 90 gameplay videos](https://www.polygon.com/23359292/grand-theft-auto-6-gta6-leak-90-videos-released-online)
- - [5 high school revenge movies that show hell is a teenage girl](https://www.polygon.com/what-to-watch/23355570/dark-comedy-movies-high-school-like-heathers-mean-girls)<!-- GAME:END -->
+ - [This Massive Possible &#39;Grand Theft Auto VI&#39; Leak Sure Is Looking Legit [UPDATE]](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)
+ - [Skyrocketing Cyberpunk 2077 player counts prove the Netflix boost is real](https://www.pcgamer.com/skyrocketing-cyberpunk-2077-player-counts-prove-the-netflix-boost-is-real)
+ - [Pro Gaming CEO Pops Champagne With Misogynist Andrew Tate, Now On Unpaid Leave](https://kotaku.com/andrew-tate-g2-esports-tiktok-youtube-twitch-league-1849550734)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
