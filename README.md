@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What if the 1991 Lone Wolf videogame was actually a choose-your-own-adventure book?](https://www.pcgamer.com/saturday-crapshoot-lw)
- - [Disgruntled employee spams players of 14-year-old MMO with profanity-laden official notifications](https://www.pcgamer.com/disgruntled-employee-spams-players-of-14-year-old-mmo-with-profanity-laden-official-notifications)
- - [Valve&#39;s got the real docks for Steam Deck at Tokyo Game Show, have a look](https://www.pcgamer.com/valves-got-the-real-docks-for-steam-deck-at-tokyo-game-show-have-a-look)<!-- GAME:END -->
+ - [This cartoony cats vs. dogs RTS asserts that humanity&#39;s companions cannot live in harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)
+ - [Have you learned a real-world skill from a game?](https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game)
+ - [What if the 1991 Lone Wolf videogame was actually a choose-your-own-adventure book?](https://www.pcgamer.com/saturday-crapshoot-lw)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
