@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Queen’s Funeral Sets Off the Biggest UK Police Operation Ever](https://www.wired.com/story/queen-elizabeth-ii-funeral-details-security/)
- - [Asus’ First Foldable PC Is Here. But It’s Half-Baked](https://www.wired.com/review/asus-zenbook-17-fold-oled/)
- - [How to Create an Augmented Reality Filter for TikTok](https://www.wired.com/story/how-to-use-create-ar-filters-tiktok-effect-house/)<!-- TECH:END -->
+ - [How to Use DuckDuckGo’s Privacy-First Email Service](https://www.wired.com/story/how-to-use-duckduckgo-privacy-first-email/)
+ - [Epigenetic ‘Clocks’ Predict Animals’ True Biological Age](https://www.wired.com/story/epigenetic-clocks-predict-animals-true-biological-age/)
+ - [An in-depth look at a 2019 cyberstalking campaign by eBay employees against two critics who are now suing the company, its former CEO, and others for harassment &lpar;David Streitfeld/New York Times&rpar;](http://www.techmeme.com/220918/p5#a220918p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
