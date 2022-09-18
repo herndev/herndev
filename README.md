@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trains are widely popular in Japan, so much that they made a whole series about train Power Rangers, which is unfortunately still not adapted in the US](http://9gag.com/gag/a6qmqoq)
- - ⏩ [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
- - 👉 [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)<!-- MEMES:END -->
+ - 💣 [Why is this spider staring at me like that?](http://9gag.com/gag/aqe9exP)
+ - ⏩ [That will be an extra \u00a310 for the reply please](http://9gag.com/gag/a4oKP3m)
+ - 👉 [What&#39;s the name of this cartoon?](http://9gag.com/gag/a6qmZ4m)<!-- MEMES:END -->
 
 ---
 
