@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids reaction](http://9gag.com/gag/amAN6w9)
- - ⏩ [Earthquake in ikea](http://9gag.com/gag/axod6PY)
- - 👉 [EU is awake](http://9gag.com/gag/aVbzKoO)<!-- MEMES:END -->
+ - 💣 [Lmao](http://9gag.com/gag/aQEPAE7)
+ - ⏩ [EU is awake](http://9gag.com/gag/aVbzKoO)
+ - 👉 [Earthquake in ikea](http://9gag.com/gag/axod6PY)<!-- MEMES:END -->
 
 ---
 
