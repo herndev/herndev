@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The case for weapons in the Playground Games fable](https://game-rant-2022.blogspot.com/2022/09/the-case-for-weapons-in-playground.html)
- - [Crypto speculation is falling out of favor at Game Studios](https://game-rant-2022.blogspot.com/2022/09/crypto-speculation-is-falling-out-of.html)
- - [Everything we know so far, ranked](https://game-rant-2022.blogspot.com/2022/09/everything-we-know-so-far-ranked.html)<!-- GAME:END -->
+ - [Spider-Gwen is the star of Fortnite’s new battle pass](https://www.polygon.com/23357208/fortnite-spider-gwen-battle-pass-unlock-skins-trailer)
+ - [Fortnite’s new season update lets you walk through walls](https://www.polygon.com/23357045/fortnite-season-4-update-patch-paradise-chrome-changes-cutscene)
+ - [PAX West 2022: An Interview With Limited Edition Games](https://game-rant-2022.blogspot.com/2022/09/pax-west-2022-interview-with-limited.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
