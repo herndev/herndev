@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [40K CRPG Rogue Trader reveals more companions and enemies](https://www.pcgamer.com/40k-crpg-rogue-trader-reveals-more-companions-and-enemies)
- - [Temtem review](https://www.pcgamer.com/temtem-review)
- - [This cartoony cats vs. dogs RTS asserts that humanity&#39;s companions cannot live in harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)<!-- GAME:END -->
+ - [At 20, Kingdom Hearts is a crossover from a bygone era](https://game-rant-2022.blogspot.com/2022/09/at-20-kingdom-hearts-is-crossover-from.html)
+ - [Tottenham vs Leicester live stream and how to watch the Premier League match online, lineups](https://game-rant-2022.blogspot.com/2022/09/tottenham-vs-leicester-live-stream-and.html)
+ - [CFB Wrap-Up: Takeaways from Week 3&#39;s Biggest Games](https://game-rant-2022.blogspot.com/2022/09/cfb-wrap-up-takeaways-from-week-3s.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
