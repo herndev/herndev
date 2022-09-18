@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never gonna happen.](http://9gag.com/gag/aQEP7Z8)
+ - 💣 [Kids reaction](http://9gag.com/gag/amAN6w9)
  - ⏩ [Earthquake in ikea](http://9gag.com/gag/axod6PY)
- - 👉 [Kids reaction](http://9gag.com/gag/amAN6w9)<!-- MEMES:END -->
+ - 👉 [EU is awake](http://9gag.com/gag/aVbzKoO)<!-- MEMES:END -->
 
 ---
 
