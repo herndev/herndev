@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to make an emergency backpack](http://9gag.com/gag/a6qmDbe)
- - ⏩ [What&#39;s the name of this cartoon?](http://9gag.com/gag/a6qmZ4m)
- - 👉 [What a legend](http://9gag.com/gag/amAN1Nd)<!-- MEMES:END -->
+ - 💣 [Good times](http://9gag.com/gag/aGEYnEz)
+ - ⏩ [This tunnel lines up perfectly with the sun twice a year](http://9gag.com/gag/aA0RQmZ)
+ - 👉 [It&#39;s been 20 years and still not 1 movie has managed to surpass the level of Battle of the Pelennor Fields.](http://9gag.com/gag/aNwrDBw)<!-- MEMES:END -->
 
 ---
 
