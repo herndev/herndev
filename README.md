@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Many crypto miners are shutting off rigs and plan to sell their GPUs, as GPU-based mining for most cryptocurrencies becomes unprofitable after Ethereum&#39;s Merge &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220918/p1#a220918p1)
  - [Singapore-based cloud HR management service Atlas Technology raised a Series B of up to $200M from Sixth Street Growth, after raising $20M in 2020 &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/220917/p12#a220917p12)
- - [15 STEM Toys Your Smarty-Pants Kids Will Actually Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
- - [A Vietnamese couple says they wiped some of Intercontinental Hotels Group&#39;s data, accessed using the password Qwerty1234, after a failed ransomware attack &lpar;Joe Tidy/BBC&rpar;](http://www.techmeme.com/220917/p11#a220917p11)<!-- TECH:END -->
+ - [15 STEM Toys Your Smarty-Pants Kids Will Actually Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
