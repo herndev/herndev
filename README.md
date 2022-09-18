@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Earthquake in ikea](http://9gag.com/gag/axod6PY)
+ - 💣 [Want some?](http://9gag.com/gag/aGEYG1Z)
  - ⏩ [Lmao](http://9gag.com/gag/aQEPAE7)
- - 👉 [This is what over 7 magnitude earthquake looks like in Taiwan&#39;s mountain](http://9gag.com/gag/abvXWbX)<!-- MEMES:END -->
+ - 👉 [&#39;12 Angry Men&#39;. No CGI, no 100 million dollar budget. Just good storyline, good acting, great dialogue and one of the best films you&#39;ll ever see.](http://9gag.com/gag/aWGQoqZ)<!-- MEMES:END -->
 
 ---
 
