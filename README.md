@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Grand Theft Auto 6 leak reveals over 90 gameplay videos](https://www.polygon.com/23359292/grand-theft-auto-6-gta6-leak-90-videos-released-online)
  - [5 high school revenge movies that show hell is a teenage girl](https://www.polygon.com/what-to-watch/23355570/dark-comedy-movies-high-school-like-heathers-mean-girls)
- - [The Thunderbolts roster needs more superpowers](https://game-rant-2022.blogspot.com/2022/09/the-thunderbolts-roster-needs-more.html)
- - [If This Massive &#39;Grand Theft Auto VI&#39; Leak Is Fake, It&#39;s A Very Good One](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)<!-- GAME:END -->
+ - [The Thunderbolts roster needs more superpowers](https://game-rant-2022.blogspot.com/2022/09/the-thunderbolts-roster-needs-more.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
