@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That look is priceless](http://9gag.com/gag/a4oKnBd)
- - ⏩ [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)
- - 👉 [To whom it might help](http://9gag.com/gag/a1PvmyY)<!-- MEMES:END -->
+ - 💣 [What a legend](http://9gag.com/gag/amAN1Nd)
+ - ⏩ [Accurate depiction of Viktor Orban, the PM of Hungary - Artist: Shooty &lpar;Slovakia&rpar;](http://9gag.com/gag/aME2BMA)
+ - 👉 [Every job opening nowadays goddamn](http://9gag.com/gag/aZDb1vW)<!-- MEMES:END -->
 
 ---
 
