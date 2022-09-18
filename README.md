@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [40K CRPG Rogue Trader reveals more companions and enemies](https://www.pcgamer.com/40k-crpg-rogue-trader-reveals-more-companions-and-enemies)
  - [Temtem review](https://www.pcgamer.com/temtem-review)
- - [This cartoony cats vs. dogs RTS asserts that humanity&#39;s companions cannot live in harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)
- - [Have you learned a real-world skill from a game?](https://www.pcgamer.com/have-you-learned-a-real-world-skill-from-a-game)<!-- GAME:END -->
+ - [This cartoony cats vs. dogs RTS asserts that humanity&#39;s companions cannot live in harmony](https://www.pcgamer.com/this-cartoony-cats-vs-dogs-rts-asserts-that-humanitys-companions-cannot-live-in-harmony)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
