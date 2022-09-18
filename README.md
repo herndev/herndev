@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro owners complain of shaking camera in third-party apps](https://appleinsider.com/articles/22/09/18/iphone-14-pro-owners-complain-of-shaking-camera-in-third-party-apps?utm_medium=rss)
- - [DirecTV fumbles NFL Sunday Ticket... again](https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming)
- - [Teaching Robots to Laugh at the Right Time Is No Joke     - CNET](https://www.cnet.com/science/teaching-robots-to-laugh-at-the-right-time-is-no-joke/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Episode 4 Recap: Daemon Returns to King&#39;s Landing     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-4-recap-daemon-returns-to-kings-landing/#ftag=CAD590a51e)
+ - [When You Can Watch &#39;House of the Dragon&#39; Episode 5 In Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-you-can-watch-house-of-the-dragon-episode-5-in-your-time-zone/#ftag=CAD590a51e)
+ - [Long iPhone 14 Pro lead times hint at sky-high demand](https://appleinsider.com/articles/22/09/18/long-iphone-14-pro-lead-times-hint-at-sky-high-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
