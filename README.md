@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fortnite’s new season adds Spider-Gwen and goopy chrome](https://www.theverge.com/2022/9/18/23357870/fortnite-chapter-3-season-4-paradise-battle-pass)
  - [The DHS has awarded a ~$700K grant to researchers to develop best practices and resources for monitoring and evaluating extremist activities in game communities &lpar;Matthew Gault/VICE&rpar;](http://www.techmeme.com/220918/p3#a220918p3)
- - [A look at antitrust concerns for Adobe&#39;s $20B Figma acquisition, including whether the deal could eliminate competition and harm consumers by reducing choices &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220918/p2#a220918p2)
- - [Many crypto miners are shutting off rigs and plan to sell their GPUs, as GPU-based mining for most cryptocurrencies becomes unprofitable after Ethereum&#39;s Merge &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220918/p1#a220918p1)<!-- TECH:END -->
+ - [A look at antitrust concerns for Adobe&#39;s $20B Figma acquisition, including whether the deal could eliminate competition and harm consumers by reducing choices &lpar;Biz Carson/Protocol&rpar;](http://www.techmeme.com/220918/p2#a220918p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
