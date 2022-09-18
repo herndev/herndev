@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [If This Massive &#39;Grand Theft Auto VI&#39; Leak Is Fake, It&#39;s A Very Good One](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)
  - [Here&#39;s another alleged GTA 6 leak, this time with video](https://www.pcgamer.com/heres-another-alleged-gta-6-leak-this-time-with-video)
- - [How Netflix, &#39;Squid Game&#39; and Korea&#39;s &#39;K-Wave&#39; Broke an Emmy&#39;s Barrier](https://game-rant-2022.blogspot.com/2022/09/how-netflix-squid-game-and-koreas-k.html)
- - [Today&#39;s Wordle 456 answer and hint: Sunday, September 18](https://www.pcgamer.com/todays-wordle-456-answer-hint)<!-- GAME:END -->
+ - [How Netflix, &#39;Squid Game&#39; and Korea&#39;s &#39;K-Wave&#39; Broke an Emmy&#39;s Barrier](https://game-rant-2022.blogspot.com/2022/09/how-netflix-squid-game-and-koreas-k.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
