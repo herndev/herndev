@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fast and easy farming](http://9gag.com/gag/a3ZPAXN)
- - ⏩ [Wagner soldier vs ruZZian military police. Let them fight.](http://9gag.com/gag/az2gK6j)
- - 👉 [Just a prank...](http://9gag.com/gag/aOxKZBR)<!-- MEMES:END -->
+ - 💣 [Jackie Chan was my childhood hero.](http://9gag.com/gag/aPgwPZq)
+ - ⏩ [Kids reaction](http://9gag.com/gag/amAN6w9)
+ - 👉 [Some men can&#39;t find the cathedral](http://9gag.com/gag/aXn0NR2)<!-- MEMES:END -->
 
 ---
 
