@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait ?](http://9gag.com/gag/az2gRZz)
- - ⏩ [Aba &amp; preach on woke Disney the little mermaid](http://9gag.com/gag/aVbz2Xd)
- - 👉 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)<!-- MEMES:END -->
+ - 💣 [F**king true](http://9gag.com/gag/a9qbXA1)
+ - ⏩ [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
+ - 👉 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)<!-- MEMES:END -->
 
 ---
 
