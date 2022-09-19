@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;House of the Dragon&#39; Episode 4 Recap: Daemon Returns to King&#39;s Landing     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-4-recap-daemon-returns-to-kings-landing/#ftag=CAD590a51e)
- - [When You Can Watch &#39;House of the Dragon&#39; Episode 5 In Your Time Zone     - CNET](https://www.cnet.com/culture/entertainment/when-you-can-watch-house-of-the-dragon-episode-5-in-your-time-zone/#ftag=CAD590a51e)
- - [Long iPhone 14 Pro lead times hint at sky-high demand](https://appleinsider.com/articles/22/09/18/long-iphone-14-pro-lead-times-hint-at-sky-high-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Artists say they risk losing income as people use their names as distinctive style prompts in text-to-image AI art generators for commercial purposes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220918/p9#a220918p9)
+ - [When Does Episode 4 of &#39;The Rings of Power&#39; Hit Prime Video in Your Timezone?     - CNET](https://www.cnet.com/culture/entertainment/when-does-episode-4-of-the-rings-of-power-hit-prime-video-in-your-timezone/#ftag=CAD590a51e)
+ - [I Was Wrong About Fortnite     - CNET](https://www.cnet.com/culture/i-was-wrong-about-fortnite/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
