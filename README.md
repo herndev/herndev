@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the horror movie Pearl pulled off its daring climax](https://www.polygon.com/23357046/pearl-horror-movie-ending-explained-mia-goth-ti-west)
- - [Star Wars: The Clone Wars is getting a Pandemic board game spinoff](https://www.polygon.com/23349098/star-wars-clone-wars-a-pandemic-system-game-announcement-release)
- - [Is This Destiny 2 Exotic Really Worth $100?](https://kotaku.com/destiny-2-lightfall-expansion-quicksilver-storm-rifle-1849548721)<!-- GAME:END -->
+ - [Take Two cracks down on leaked Grand Theft Auto 6 footage as Rockstar confirms &#39;network intrusion&#39;](https://www.pcgamer.com/take-two-cracks-down-on-leaked-grand-theft-auto-6-footage-as-rockstar-confirms-network-intrusion)
+ - [Fortnite&#39;s New Season Appears To Ape Splatoon Now](https://kotaku.com/fortnite-paradise-splatoon-3-nintendo-update-chrome-1849552253)
+ - [Rockstar Games blames hacker for major GTA 6 leak](https://www.polygon.com/23360809/gta-6-leak-hack-rockstar-games-confirmed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
