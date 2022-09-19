@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Oktoberfest training has begun. Only the strong will survive.](http://9gag.com/gag/anzqrKE)
- - ⏩ [Calm down](http://9gag.com/gag/a7qLp5z)
- - 👉 [Its evolving, just backwards](http://9gag.com/gag/aDYAXzx)<!-- MEMES:END -->
+ - ⏩ [THOR downfall](http://9gag.com/gag/aqe9zov)
+ - 👉 [People rioting in iran-kurdistan after death of sarah amini by moral police](http://9gag.com/gag/aWGQD4K)<!-- MEMES:END -->
 
 ---
 
