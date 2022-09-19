@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What is the future of Star Wars movies?](https://www.polygon.com/star-wars/23357289/new-star-wars-movies-rogue-squadron)
- - [Crunchyroll’s new Chainsaw Man trailer sets up season 1](https://www.polygon.com/23360824/chainsaw-man-trailer-season-1-premiere-date-details)
- - [Take Two cracks down on leaked Grand Theft Auto 6 footage as Rockstar confirms &#39;network intrusion&#39;](https://www.pcgamer.com/take-two-cracks-down-on-leaked-grand-theft-auto-6-footage-as-rockstar-confirms-network-intrusion)<!-- GAME:END -->
+ - [Return to Monkey Island confidently clings to its powerful DNA](https://www.polygon.com/reviews/23356469/return-to-monkey-island-review-90s-adventure-point-and-click-nostalgia)
+ - [Enormous Diablo IV Leak Shows Almost 45 Minutes Of Dungeon Crawling Footage](https://kotaku.com/diablo-4-iv-activision-blizzard-leak-footage-gta-6-1849553169)
+ - [Exclusive: It’s Geralt vs. the Big Bad Wolf in Dark Horse’s new Witcher comic](https://www.polygon.com/23360949/the-witcher-comic-book-ballad-two-wolves-fairytale-release-date-art)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
