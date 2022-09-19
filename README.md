@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I try to be fair and pay for the service, but sometimes we need to go back to our roots.](http://9gag.com/gag/aOxKRgM)
- - ⏩ [I&#39;m in danger](http://9gag.com/gag/a7qLp9q)
- - 👉 [Cotton Ball living the best life..](http://9gag.com/gag/aNwrOv4)<!-- MEMES:END -->
+ - 💣 [+1 for wearing a helmet.](http://9gag.com/gag/aQEPy6K)
+ - ⏩ [You know it](http://9gag.com/gag/aEqvOKK)
+ - 👉 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)<!-- MEMES:END -->
 
 ---
 
