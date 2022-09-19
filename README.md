@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Return to Monkey Island confidently clings to its powerful DNA](https://www.polygon.com/reviews/23356469/return-to-monkey-island-review-90s-adventure-point-and-click-nostalgia)
- - [Enormous Diablo IV Leak Shows Almost 45 Minutes Of Dungeon Crawling Footage](https://kotaku.com/diablo-4-iv-activision-blizzard-leak-footage-gta-6-1849553169)
- - [Exclusive: It’s Geralt vs. the Big Bad Wolf in Dark Horse’s new Witcher comic](https://www.polygon.com/23360949/the-witcher-comic-book-ballad-two-wolves-fairytale-release-date-art)<!-- GAME:END -->
+ - [Assassin’s Creed Origins is still the best game in the series](https://www.polygon.com/sub-gems/23357130/assassins-creed-origins-best-assassins-creed-games-xbox-game-pass)
+ - [At long last, the Hunter x Hunter manga returns in November](https://www.polygon.com/23361169/hunter-x-hunter-manga-update-date)
+ - [Cyberpunk 2077 Becomes Steam Top Seller Again After Netflix Anime Show](https://kotaku.com/cyberpunk-2077-players-edgerunners-netflix-anime-1849553540)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
