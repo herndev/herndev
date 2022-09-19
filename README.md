@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Calm down](http://9gag.com/gag/a7qLp5z)
- - ⏩ [Nun not noon](http://9gag.com/gag/anzqDon)
- - 👉 [F**king true](http://9gag.com/gag/a9qbXA1)<!-- MEMES:END -->
+ - 💣 [Oktoberfest training has begun. Only the strong will survive.](http://9gag.com/gag/anzqrKE)
+ - ⏩ [Calm down](http://9gag.com/gag/a7qLp5z)
+ - 👉 [Its evolving, just backwards](http://9gag.com/gag/aDYAXzx)<!-- MEMES:END -->
 
 ---
 
