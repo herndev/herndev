@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Apex Legends’ accidental pay-to-win skins are getting nerfed](https://www.polygon.com/23361216/apex-legends-patch-iron-sight-skins-nerf-heat-sink)
- - [James Cameron says he knows what led to the downfall of 3D TVs](https://www.pcgamer.com/james-cameron-says-he-knows-what-led-to-the-downfall-of-3d-tvs)
- - [AI-Generated Games Are Starting To Appear On Steam &lpar;And It&#39;s Not Going Well&rpar;](https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585)<!-- GAME:END -->
+ - [Chess Champion Ratchets Up Cheating Drama By Resigning In Just One Move](https://kotaku.com/magnus-carlsen-cheating-hans-niemann-anal-beads-twitch-1849554715)
+ - [Fortnite&#39;s best new season 4 skin is a bear piloting another bear](https://www.pcgamer.com/fortnite-chapter-3-season-4-chrome)
+ - [Developers offer Rockstar sympathy as the internet goes wild over GTA 6 leak](https://www.pcgamer.com/developers-offer-rockstar-sympathy-as-the-internet-goes-wild-over-gta-6-leak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
