@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s Nest Wifi Pro pricing leaks early](https://www.theverge.com/2022/9/19/23360590/google-nest-wifi-pro-pricing-specs-availabilty)
  - [FCC filing and B&amp;H product page detail a Google Nest Wi-Fi router, expected at Google&#39;s Oct. 6 event, using the 6E Wi-Fi standard for better network performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220919/p2#a220919p2)
- - [Google Tensor G2 details leak: Do you want the good or bad news first?](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)
- - [ROG Phone 6D and 6D Ultimate announced: Here’s everything you need to know](https://www.androidauthority.com/rog-phone-6d-and-6d-ultimate-3209473/)<!-- TECH:END -->
+ - [Google Tensor G2 details leak: Do you want the good or bad news first?](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
