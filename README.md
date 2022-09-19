@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Assassin’s Creed Origins is still the best game in the series](https://www.polygon.com/sub-gems/23357130/assassins-creed-origins-best-assassins-creed-games-xbox-game-pass)
- - [At long last, the Hunter x Hunter manga returns in November](https://www.polygon.com/23361169/hunter-x-hunter-manga-update-date)
- - [Cyberpunk 2077 Becomes Steam Top Seller Again After Netflix Anime Show](https://kotaku.com/cyberpunk-2077-players-edgerunners-netflix-anime-1849553540)<!-- GAME:END -->
+ - [Geralt takes on the Three Little Pigs in a new Witcher comic series](https://www.pcgamer.com/geralt-takes-on-the-three-little-pigs-in-a-new-witcher-comic-series)
+ - [Andor showrunner avoided Star Wars fan service at all cost](https://www.polygon.com/star-wars/23361363/andor-star-wars-fan-service-showrunner)
+ - [Elden Ring Twitch Streamer&#39;s Drawing Tablet Run Is Getting Ridiculous](https://kotaku.com/elden-ring-challenge-run-twitch-luality-drawing-tablet-1849553617)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
