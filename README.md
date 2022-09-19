@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Adnan Syed, Subject of &#39;Serial&#39; Podcast, Released From Prison     - CNET](https://www.cnet.com/culture/entertainment/adnan-syed-subject-of-serial-podcast-released-from-prison/#ftag=CAD590a51e)
  - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
- - [Twitch streamers say one of their own scammed them for gambling money](https://www.theverge.com/2022/9/19/23361436/sliker-twitch-gambling-scam-pokimane-xqc)
- - [Apple’s fixing the iPhone 14 Pro’s camera shake](https://www.theverge.com/2022/9/19/23361606/apple-iphone-14-pro-max-camera-shake-fix-update)<!-- TECH:END -->
+ - [Beyond Meat COO reportedly attempts to consume human nose](https://www.theverge.com/2022/9/19/23361558/beyond-meat-coo-bites-human-nose)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
