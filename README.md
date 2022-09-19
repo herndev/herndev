@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick and Morty S06E03 &quot;Bethic Twinstinct&quot; Review: Family Toxicity x 2](https://game-rant-2022.blogspot.com/2022/09/rick-and-morty-s06e03-bethic-twinstinct.html)
- - [Why Jordan Peele still hasn&#39;t reached the top](https://game-rant-2022.blogspot.com/2022/09/why-jordan-peele-still-hasnt-reached-top.html)
- - [NBA 2K23 Review - A Solid Step Forward](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-solid-step-forward.html)<!-- GAME:END -->
+ - [Proactive news headlines including Astro Resources, Aeris](https://game-rant-2022.blogspot.com/2022/09/proactive-news-headlines-including.html)
+ - [10 Video Game Villains Who Aren&#39;t As Bad As Fans Thought](https://game-rant-2022.blogspot.com/2022/09/10-video-game-villains-who-arent-as-bad.html)
+ - [Today&#39;s Wordle 457 answer and hint: Monday, September 19](https://www.pcgamer.com/todays-wordle-457-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
