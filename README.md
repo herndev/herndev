@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [South Korean prosecutors ask Interpol to issue a red notice for Do Kwon and the government to revoke his passport; Kwon denies being &quot;on the run&quot; &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/220919/p3#a220919p3)
  - [Google’s Nest Wifi Pro pricing leaks early](https://www.theverge.com/2022/9/19/23360590/google-nest-wifi-pro-pricing-specs-availabilty)
- - [FCC filing and B&amp;H product page detail a Google Nest Wi-Fi router, expected at Google&#39;s Oct. 6 event, using the 6E Wi-Fi standard for better network performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220919/p2#a220919p2)
- - [Google Tensor G2 details leak: Do you want the good or bad news first?](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)<!-- TECH:END -->
+ - [Some iPhone 14 Pro cameras are making a disturbing grinding noise](https://www.androidauthority.com/apple-iphone-14-pro-camera-noise-shaking-3210143/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
