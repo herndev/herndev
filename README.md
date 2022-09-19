@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus’ flagship phone finally works on all major 5G networks in the US](https://www.theverge.com/2022/9/19/23361358/oneplus-10-pro-5g-att-certification)
- - [Twitter’s latest feature is a tool to make your feed more accessible](https://www.theverge.com/2022/9/19/23357145/twitters-alt-text-reminders-expansion-image-descriptions-accessibility)
- - [Uber blames Lapsus$ hacking group for security breach](https://www.theverge.com/2022/9/19/23361511/uber-hack-blame-lapsus-gta-vi-rockstar)<!-- TECH:END -->
+ - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
+ - [Twitch streamers say one of their own scammed them for gambling money](https://www.theverge.com/2022/9/19/23361436/sliker-twitch-gambling-scam-pokimane-xqc)
+ - [Apple’s fixing the iPhone 14 Pro’s camera shake](https://www.theverge.com/2022/9/19/23361606/apple-iphone-14-pro-max-camera-shake-fix-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
