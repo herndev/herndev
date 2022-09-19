@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Geralt takes on the Three Little Pigs in a new Witcher comic series](https://www.pcgamer.com/geralt-takes-on-the-three-little-pigs-in-a-new-witcher-comic-series)
- - [Andor showrunner avoided Star Wars fan service at all cost](https://www.polygon.com/star-wars/23361363/andor-star-wars-fan-service-showrunner)
- - [Elden Ring Twitch Streamer&#39;s Drawing Tablet Run Is Getting Ridiculous](https://kotaku.com/elden-ring-challenge-run-twitch-luality-drawing-tablet-1849553617)<!-- GAME:END -->
+ - [Apex Legends’ accidental pay-to-win skins are getting nerfed](https://www.polygon.com/23361216/apex-legends-patch-iron-sight-skins-nerf-heat-sink)
+ - [James Cameron says he knows what led to the downfall of 3D TVs](https://www.pcgamer.com/james-cameron-says-he-knows-what-led-to-the-downfall-of-3d-tvs)
+ - [AI-Generated Games Are Starting To Appear On Steam &lpar;And It&#39;s Not Going Well&rpar;](https://kotaku.com/steam-pc-ai-generated-art-midjourney-youtube-valve-1849531585)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
