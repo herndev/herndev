@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Express delivery](http://9gag.com/gag/a4oK2Pd)
- - ⏩ [Use vinegar for a fabric softener](http://9gag.com/gag/awZ0OBR)
- - 👉 [Andrew tate&#39;s next victim](http://9gag.com/gag/abvXWLB)<!-- MEMES:END -->
+ - 💣 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
+ - ⏩ [Corruption everywhere](http://9gag.com/gag/axodPZD)
+ - 👉 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)<!-- MEMES:END -->
 
 ---
 
