@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s pointless to have ultra realistic graphics if the gameplay is repetitive and generic](http://9gag.com/gag/aKEweOQ)
- - ⏩ [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)
- - 👉 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)<!-- MEMES:END -->
+ - 💣 [Are you a wizard yet?](http://9gag.com/gag/aoKE8qm)
+ - ⏩ [Them nails + flat earth = problema](http://9gag.com/gag/aQEPZW2)
+ - 👉 [In our defense, we rehabilitate our criminals rather than punish them. And it works, less than 20% go back to prison after their first sentence. Compare that to the US, where you got a 76.6% recidivism rate.](http://9gag.com/gag/a6qmpW8)<!-- MEMES:END -->
 
 ---
 
