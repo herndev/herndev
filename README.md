@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Proactive news headlines including Astro Resources, Aeris](https://game-rant-2022.blogspot.com/2022/09/proactive-news-headlines-including.html)
- - [10 Video Game Villains Who Aren&#39;t As Bad As Fans Thought](https://game-rant-2022.blogspot.com/2022/09/10-video-game-villains-who-arent-as-bad.html)
- - [Today&#39;s Wordle 457 answer and hint: Monday, September 19](https://www.pcgamer.com/todays-wordle-457-answer-hint)<!-- GAME:END -->
+ - [Sins Of A Solar Empire 2: A Stunning Announcement](https://game-rant-2022.blogspot.com/2022/09/sins-of-solar-empire-2-stunning.html)
+ - [Best Settings for Modern Warfare 2 - Call of Duty: Modern Warfare 2 Wiki Guide](https://game-rant-2022.blogspot.com/2022/09/best-settings-for-modern-warfare-2-call.html)
+ - [The sheer power of the Asus ROG Phone 6D Ultimate really shocked me](https://game-rant-2022.blogspot.com/2022/09/the-sheer-power-of-asus-rog-phone-6d.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
