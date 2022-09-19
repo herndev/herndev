@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors ask Interpol to issue a red notice for Do Kwon and the government to revoke his passport; Kwon denies being &quot;on the run&quot; &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/220919/p3#a220919p3)
- - [Google’s Nest Wifi Pro pricing leaks early](https://www.theverge.com/2022/9/19/23360590/google-nest-wifi-pro-pricing-specs-availabilty)
- - [Some iPhone 14 Pro cameras are making a disturbing grinding noise](https://www.androidauthority.com/apple-iphone-14-pro-camera-noise-shaking-3210143/)<!-- TECH:END -->
+ - [Swedish last-mile delivery startups Instabox and Budbee plan to merge and create Instabee, valued at ~$1.66B &lpar;Rafaela Lindeberg/Bloomberg&rpar;](http://www.techmeme.com/220919/p7#a220919p7)
+ - [The UK&#39;s Financial Conduct Authority warns consumers against FTX, saying the exchange is not authorized, following a similar warning about Binance in 2021 &lpar;Joshua Oliver/Financial Times&rpar;](http://www.techmeme.com/220919/p6#a220919p6)
+ - [Former App Association staff describe Apple&#39;s large influence despite not being a member; the developer group confirms Apple provides 50%+ of its $9M funding &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/220919/p5#a220919p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
