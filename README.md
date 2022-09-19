@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Sept. 19: $400 off 14-inch MacBook Pro, $48 1TB G-Drive, $349 LG 31.5-inch 4K Monitor, more!](https://appleinsider.com/articles/22/09/19/daily-deals-sept-19-400-off-14-inch-macbook-pro-48-1tb-g-drive-349-lg-315-inch-4k-monitor-more?utm_medium=rss)
- - [In 2022, This Samsung Is the One TV to Rule Them All](https://www.wired.com/review/samsung-qn900b/)
- - [To Understand Brain Disorders, Consider the Astrocyte](https://www.wired.com/story/to-understand-brain-disorders-consider-the-astrocyte/)<!-- TECH:END -->
+ - [Rockstar confirms it suffered a &quot;network intrusion&quot; by &quot;an unauthorized third party&quot;, leading to the GTA VI leak &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/220919/p16#a220919p16)
+ - [Will the future of music sound a lot like the past?](https://www.theverge.com/23354956/elvis-interpolation-vergecast-future-of-music)
+ - [HomeKit changes in iOS 16, Sonos Sub Mini &amp; new Lutron switches](https://appleinsider.com/articles/22/09/19/homekit-changes-in-ios-16-sonos-sub-mini-new-lutron-switches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
