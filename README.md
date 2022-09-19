@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Build villainous lairs and wreck others&#39; dreams in this puzzly tile-placing game](https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game)
- - [Modder brings first person camera to Marvel&#39;s Spider-Man](https://www.pcgamer.com/modder-brings-first-person-camera-to-marvels-spider-man)
- - [This Massive Possible &#39;Grand Theft Auto VI&#39; Leak Sure Is Looking Legit [UPDATES]](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)<!-- GAME:END -->
+ - [This Is What A Video Game In Development Looks Like](https://kotaku.com/gta-vi-grand-theft-auto-leak-screenshots-how-made-1849551495)
+ - [Rise of the Triad&#39;s &#39;ludicrous&#39; 4K remaster will be out in 2023](https://www.pcgamer.com/rise-of-the-triads-ludicrous-4k-remaster-will-be-out-in-2023)
+ - [Mariners Notes: Foul Stumbles With Suarez, J-Rod Offside](https://game-rant-2022.blogspot.com/2022/09/mariners-notes-foul-stumbles-with.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
