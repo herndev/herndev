@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sins Of A Solar Empire 2: A Stunning Announcement](https://game-rant-2022.blogspot.com/2022/09/sins-of-solar-empire-2-stunning.html)
- - [Best Settings for Modern Warfare 2 - Call of Duty: Modern Warfare 2 Wiki Guide](https://game-rant-2022.blogspot.com/2022/09/best-settings-for-modern-warfare-2-call.html)
- - [The sheer power of the Asus ROG Phone 6D Ultimate really shocked me](https://game-rant-2022.blogspot.com/2022/09/the-sheer-power-of-asus-rog-phone-6d.html)<!-- GAME:END -->
+ - [Now Diablo 4 test footage has leaked online](https://www.pcgamer.com/now-diablo-4-test-footage-has-leaked-online)
+ - [Best Webtoons with LGBTQ+ Representation](https://game-rant-2022.blogspot.com/2022/09/best-webtoons-with-lgbtq-representation.html)
+ - [Sins Of A Solar Empire 2: A Stunning Announcement](https://game-rant-2022.blogspot.com/2022/09/sins-of-solar-empire-2-stunning.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
