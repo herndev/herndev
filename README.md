@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [+1 for wearing a helmet.](http://9gag.com/gag/aQEPy6K)
- - ⏩ [You know it](http://9gag.com/gag/aEqvOKK)
- - 👉 [What you all think of this? don&#39;t need for stent anymore](http://9gag.com/gag/aeQj7Kb)<!-- MEMES:END -->
+ - 💣 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
+ - ⏩ [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)
+ - 👉 [Tommy vs black shoe disguised as white shoe.](http://9gag.com/gag/ap9EAW5)<!-- MEMES:END -->
 
 ---
 
