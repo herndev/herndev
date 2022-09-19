@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)
- - ⏩ [Corruption everywhere](http://9gag.com/gag/axodPZD)
- - 👉 [Diversity hire. What could go wrong?](http://9gag.com/gag/axodRxM)<!-- MEMES:END -->
+ - 💣 [Wait ?](http://9gag.com/gag/az2gRZz)
+ - ⏩ [Aba &amp; preach on woke Disney the little mermaid](http://9gag.com/gag/aVbz2Xd)
+ - 👉 [Ungrateful being](http://9gag.com/gag/aGEY2Rz)<!-- MEMES:END -->
 
 ---
 
