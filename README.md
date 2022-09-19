@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know it](http://9gag.com/gag/aEqvOKK)
- - ⏩ [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
- - 👉 [Oh the burn!](http://9gag.com/gag/aQEP2wd)<!-- MEMES:END -->
+ - 💣 [Oh the burn!](http://9gag.com/gag/aQEP2wd)
+ - ⏩ [You know it](http://9gag.com/gag/aEqvOKK)
+ - 👉 [CGI going downhill. Would definitely go behind lowering cgi in favor of animatronics and good visual effects but no\u2026 we get worse cgi.](http://9gag.com/gag/aVbzVbM)<!-- MEMES:END -->
 
 ---
 
