@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How likely is it that Indian teams will get a lock on PMGC 2022 after BGMI ban?](https://game-rant-2022.blogspot.com/2022/09/how-likely-is-it-that-indian-teams-will.html)
- - [Best cutscenes in video games](https://game-rant-2022.blogspot.com/2022/09/best-cutscenes-in-video-games.html)
- - [Tokyo Game Show 2022: Everything Announced](https://game-rant-2022.blogspot.com/2022/09/tokyo-game-show-2022-everything.html)<!-- GAME:END -->
+ - [Build villainous lairs and wreck others&#39; dreams in this puzzly tile-placing game](https://www.pcgamer.com/build-villainous-lairs-and-wreck-others-dreams-in-this-puzzly-tile-placing-game)
+ - [Modder brings first person camera to Marvel&#39;s Spider-Man](https://www.pcgamer.com/modder-brings-first-person-camera-to-marvels-spider-man)
+ - [This Massive Possible &#39;Grand Theft Auto VI&#39; Leak Sure Is Looking Legit [UPDATES]](https://kotaku.com/gtavi-gta-vi-gta-6-grand-theft-auto-leak-video-dump-1849550414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
