@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Documentaries on Netflix Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-on-netflix-right-now/#ftag=CAD590a51e)
- - [More People Need to Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)
- - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)<!-- TECH:END -->
+ - [More People Should Watch the Most Underrated Sci-Fi Gem on Television     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-most-underrated-sci-fi-gem-on-television/#ftag=CAD590a51e)
+ - [More People Need to Watch the Best TV Show on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-apple-tv-plus/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries on Netflix Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
