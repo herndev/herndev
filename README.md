@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&#39;12 Angry Men&#39;. No CGI, no 100 million dollar budget. Just good storyline, good acting, great dialogue and one of the best films you&#39;ll ever see.](http://9gag.com/gag/aWGQoqZ)
+ - 💣 [Express delivery](http://9gag.com/gag/a4oK2Pd)
  - ⏩ [The Taipei 101 stabilizing ball during the 7.2 earthquake in Taiwan today](http://9gag.com/gag/aDYAbmw)
  - 👉 [Two Moto3 mechanics banned for interfering with rival&#39;s bike during qualifying for Aragon Grand Prix](http://9gag.com/gag/aZDbQ79)<!-- MEMES:END -->
 
