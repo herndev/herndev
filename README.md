@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Should Watch the Most Underrated Sci-Fi Gem on Television     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-the-most-underrated-sci-fi-gem-on-television/#ftag=CAD590a51e)
- - [More People Need to Watch the Best TV Show on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-apple-tv-plus/#ftag=CAD590a51e)
- - [The Absolute Best Documentaries on Netflix Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-on-netflix-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FCC filing and B&amp;H product page detail a Google Nest Wi-Fi router, expected at Google&#39;s Oct. 6 event, using the 6E Wi-Fi standard for better network performance &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220919/p2#a220919p2)
+ - [Google Tensor G2 details leak: Do you want the good or bad news first?](https://www.androidauthority.com/google-tensor-g2-specs-pixel-7-3209059/)
+ - [ROG Phone 6D and 6D Ultimate announced: Here’s everything you need to know](https://www.androidauthority.com/rog-phone-6d-and-6d-ultimate-3209473/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
