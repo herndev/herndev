@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rockstar confirms it suffered a &quot;network intrusion&quot; by &quot;an unauthorized third party&quot;, leading to the GTA VI leak &lpar;Andy Robinson/Video Games Chronicle&rpar;](http://www.techmeme.com/220919/p16#a220919p16)
- - [Will the future of music sound a lot like the past?](https://www.theverge.com/23354956/elvis-interpolation-vergecast-future-of-music)
- - [HomeKit changes in iOS 16, Sonos Sub Mini &amp; new Lutron switches](https://appleinsider.com/articles/22/09/19/homekit-changes-in-ios-16-sonos-sub-mini-new-lutron-switches?utm_medium=rss)<!-- TECH:END -->
+ - [Closed captions on videos are used widely among under 40s, going beyond accessibility and translation to improve understanding and aid multitasking &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/220919/p18#a220919p18)
+ - [The best thing about my new Apple Watch is the super-stretchy band](https://www.theverge.com/23360784/apple-watch-best-band-braided-solo-loop)
+ - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
