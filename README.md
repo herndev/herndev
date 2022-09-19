@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tony Hawk](http://9gag.com/gag/aWGQRyZ)
+ - 💣 [You know it](http://9gag.com/gag/aEqvOKK)
  - ⏩ [CGI going downhill. Would definitely go behind lowering cgi in favor of animatronics and good visual effects but no\u2026 we get worse cgi.](http://9gag.com/gag/aVbzVbM)
- - 👉 [You know it](http://9gag.com/gag/aEqvOKK)<!-- MEMES:END -->
+ - 👉 [Oh Disney](http://9gag.com/gag/adP0o52)<!-- MEMES:END -->
 
 ---
 
