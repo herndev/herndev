@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to turn on the iPhone 14 startup sound](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-on-the-iphone-14-startup-sound?utm_medium=rss)
- - [A teardown of the iPhone 14 reveals an updated metal midframe, allowing access from the front and back, which should make repairs easier &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/220919/p19#a220919p19)
- - [Instacart’s grocery ‘smart cart’ shows how it’s about more than just deliveries](https://www.theverge.com/2022/9/19/23354775/instacart-caper-cart-grocery-shopping-delivery-ai)<!-- TECH:END -->
+ - [Apple supplier shifts production to make more iPhone 14 Pro models](https://appleinsider.com/articles/22/09/19/apple-supplier-shifts-production-to-make-more-iphone-14-pro-models?utm_medium=rss)
+ - [Seattle-based Swiftly, which offers branded apps and retail software to grocery stores, raised a $100M Series C at a $1B+ valuation after raising $100M in March &lpar;Tony Lystra/GeekWire&rpar;](http://www.techmeme.com/220919/p20#a220919p20)
+ - [Return to Monkey Island is like hanging out with an old friend](https://www.theverge.com/23360869/return-to-monkey-island-review-nintendo-switch-pc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
