@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple supplier shifts production to make more iPhone 14 Pro models](https://appleinsider.com/articles/22/09/19/apple-supplier-shifts-production-to-make-more-iphone-14-pro-models?utm_medium=rss)
- - [iPhone 14 review: Apple&#39;s curve ball to iPhone upgraders](https://appleinsider.com/articles/22/09/19/iphone-14-review-apples-curve-ball-to-iphone-upgraders?utm_medium=rss)
- - [Diablo IV test build leaks with 43 minutes of gameplay footage](https://www.theverge.com/2022/9/19/23361252/diablo-iv-footage-leaked-blizzard-gta-vi-leak)<!-- TECH:END -->
+ - [Thiel-backed conservative video platform Rumble is up 37% after going public via SPAC merger at a $2.1B valuation, raising $400M &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/220919/p23#a220919p23)
+ - [At Queen Elizabeth II&#39;s Funeral, a Surprise Spider Steals the Spotlight     - CNET](https://www.cnet.com/culture/at-queen-elizabeth-iis-funeral-a-surprise-spider-steals-the-spotlight/#ftag=CAD590a51e)
+ - [New PS5 Rumored to Slim Down, Come with Detachable Disc Drive     - CNET](https://www.cnet.com/tech/gaming/new-ps5-rumored-to-slim-down-come-with-detachable-disc-drive/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
