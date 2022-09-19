@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;House of the Dragon&#39; Episode 5 Recap: Royal Wedding Season Begins     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-royal-wedding-season-begins/#ftag=CAD590a51e)
- - [Artists say they risk losing income as people use their names as distinctive style prompts in text-to-image AI art generators for commercial purposes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220918/p9#a220918p9)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)
+ - [Einstein&#39;s Mind-Bending Theory of Relativity Passes Yet Another Huge Test     - CNET](https://www.cnet.com/science/space/einsteins-mind-bending-theory-of-relativity-passes-yet-another-huge-test/#ftag=CAD590a51e)
+ - [McDonald&#39;s Halloween Happy Meal Buckets May Be Returning This Spooky Season     - CNET](https://www.cnet.com/culture/mcdonalds-halloween-happy-meal-buckets-may-be-returning-this-spooky-season/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
