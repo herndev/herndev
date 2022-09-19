@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Express delivery](http://9gag.com/gag/a4oK2Pd)
- - ⏩ [The Taipei 101 stabilizing ball during the 7.2 earthquake in Taiwan today](http://9gag.com/gag/aDYAbmw)
- - 👉 [Two Moto3 mechanics banned for interfering with rival&#39;s bike during qualifying for Aragon Grand Prix](http://9gag.com/gag/aZDbQ79)<!-- MEMES:END -->
+ - ⏩ [Use vinegar for a fabric softener](http://9gag.com/gag/awZ0OBR)
+ - 👉 [Andrew tate&#39;s next victim](http://9gag.com/gag/abvXWLB)<!-- MEMES:END -->
 
 ---
 
