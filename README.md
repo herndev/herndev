@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Is What A Video Game In Development Looks Like](https://kotaku.com/gta-vi-grand-theft-auto-leak-screenshots-how-made-1849551495)
- - [Rise of the Triad&#39;s &#39;ludicrous&#39; 4K remaster will be out in 2023](https://www.pcgamer.com/rise-of-the-triads-ludicrous-4k-remaster-will-be-out-in-2023)
- - [Mariners Notes: Foul Stumbles With Suarez, J-Rod Offside](https://game-rant-2022.blogspot.com/2022/09/mariners-notes-foul-stumbles-with.html)<!-- GAME:END -->
+ - [How Viserys’ Iron Throne cuts predicted his fate in House of the Dragon](https://www.polygon.com/23328660/house-dragon-viserys-iron-throne-cut)
+ - [The real European parallels of the world of Dragon Age](https://game-rant-2022.blogspot.com/2022/09/the-real-european-parallels-of-world-of.html)
+ - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
