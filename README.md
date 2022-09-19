@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adnan Syed, Subject of &#39;Serial&#39; Podcast, Released From Prison     - CNET](https://www.cnet.com/culture/entertainment/adnan-syed-subject-of-serial-podcast-released-from-prison/#ftag=CAD590a51e)
- - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
- - [Beyond Meat COO reportedly attempts to consume human nose](https://www.theverge.com/2022/9/19/23361558/beyond-meat-coo-bites-human-nose)<!-- TECH:END -->
+ - [Apple&#39;s guides App Association direction through hefty funding](https://appleinsider.com/articles/22/09/19/apples-guides-app-association-direction-through-hefty-funding?utm_medium=rss)
+ - [Gmail will start spam-proofing political fundraising emails this week](https://www.theverge.com/2022/9/19/23362054/gmail-political-spam-fundraising-email-campaign-google)
+ - [These speaker deals can save you as much as $850](https://www.androidauthority.com/crutchfield-speaker-deals-3210484/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
