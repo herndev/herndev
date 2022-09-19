@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you a wizard yet?](http://9gag.com/gag/aoKE8qm)
- - ⏩ [Them nails + flat earth = problema](http://9gag.com/gag/aQEPZW2)
- - 👉 [In our defense, we rehabilitate our criminals rather than punish them. And it works, less than 20% go back to prison after their first sentence. Compare that to the US, where you got a 76.6% recidivism rate.](http://9gag.com/gag/a6qmpW8)<!-- MEMES:END -->
+ - 💣 [Calm down](http://9gag.com/gag/a7qLp5z)
+ - ⏩ [Nun not noon](http://9gag.com/gag/anzqDon)
+ - 👉 [F**king true](http://9gag.com/gag/a9qbXA1)<!-- MEMES:END -->
 
 ---
 
