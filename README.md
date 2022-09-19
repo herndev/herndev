@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Closed captions on videos are used widely among under 40s, going beyond accessibility and translation to improve understanding and aid multitasking &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/220919/p18#a220919p18)
- - [The best thing about my new Apple Watch is the super-stretchy band](https://www.theverge.com/23360784/apple-watch-best-band-braided-solo-loop)
- - [The Pentagon has ordered a review of US psyops on social media](https://www.theverge.com/2022/9/19/23360688/pentagon-review-military-influence-operations-social-media)<!-- TECH:END -->
+ - [How to turn on the iPhone 14 startup sound](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-on-the-iphone-14-startup-sound?utm_medium=rss)
+ - [A teardown of the iPhone 14 reveals an updated metal midframe, allowing access from the front and back, which should make repairs easier &lpar;Kyle Wiens/iFixit News&rpar;](http://www.techmeme.com/220919/p19#a220919p19)
+ - [Instacart’s grocery ‘smart cart’ shows how it’s about more than just deliveries](https://www.theverge.com/2022/9/19/23354775/instacart-caper-cart-grocery-shopping-delivery-ai)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
