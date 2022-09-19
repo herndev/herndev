@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thiel-backed conservative video platform Rumble is up 37% after going public via SPAC merger at a $2.1B valuation, raising $400M &lpar;Lizette Chapman/Bloomberg&rpar;](http://www.techmeme.com/220919/p23#a220919p23)
- - [At Queen Elizabeth II&#39;s Funeral, a Surprise Spider Steals the Spotlight     - CNET](https://www.cnet.com/culture/at-queen-elizabeth-iis-funeral-a-surprise-spider-steals-the-spotlight/#ftag=CAD590a51e)
- - [New PS5 Rumored to Slim Down, Come with Detachable Disc Drive     - CNET](https://www.cnet.com/tech/gaming/new-ps5-rumored-to-slim-down-come-with-detachable-disc-drive/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus’ flagship phone finally works on all major 5G networks in the US](https://www.theverge.com/2022/9/19/23361358/oneplus-10-pro-5g-att-certification)
+ - [Twitter’s latest feature is a tool to make your feed more accessible](https://www.theverge.com/2022/9/19/23357145/twitters-alt-text-reminders-expansion-image-descriptions-accessibility)
+ - [Uber blames Lapsus$ hacking group for security breach](https://www.theverge.com/2022/9/19/23361511/uber-hack-blame-lapsus-gta-vi-rockstar)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
