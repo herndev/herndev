@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)
- - [Einstein&#39;s Mind-Bending Theory of Relativity Passes Yet Another Huge Test     - CNET](https://www.cnet.com/science/space/einsteins-mind-bending-theory-of-relativity-passes-yet-another-huge-test/#ftag=CAD590a51e)
- - [McDonald&#39;s Halloween Happy Meal Buckets May Be Returning This Spooky Season     - CNET](https://www.cnet.com/culture/mcdonalds-halloween-happy-meal-buckets-may-be-returning-this-spooky-season/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Documentaries on Netflix Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-documentaries-on-netflix-right-now/#ftag=CAD590a51e)
+ - [More People Need to Watch the 2nd Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-2nd-best-show-on-netflix/#ftag=CAD590a51e)
+ - [iPhone 14 Pro owners are reporting that the camera physically shakes when taking photos or video in apps including TikTok, Snapchat, and Instagram &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/220919/p1#a220919p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
