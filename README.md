@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;House of the Dragon&#39; Episode 5 Recap: Royal Wedding Season Begins     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-royal-wedding-season-begins/#ftag=CAD590a51e)
  - [Artists say they risk losing income as people use their names as distinctive style prompts in text-to-image AI art generators for commercial purposes &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220918/p9#a220918p9)
- - [When Does Episode 4 of &#39;The Rings of Power&#39; Hit Prime Video in Your Timezone?     - CNET](https://www.cnet.com/culture/entertainment/when-does-episode-4-of-the-rings-of-power-hit-prime-video-in-your-timezone/#ftag=CAD590a51e)
- - [I Was Wrong About Fortnite     - CNET](https://www.cnet.com/culture/i-was-wrong-about-fortnite/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-shows-to-catch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
