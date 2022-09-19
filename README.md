@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take Two cracks down on leaked Grand Theft Auto 6 footage as Rockstar confirms &#39;network intrusion&#39;](https://www.pcgamer.com/take-two-cracks-down-on-leaked-grand-theft-auto-6-footage-as-rockstar-confirms-network-intrusion)
- - [Fortnite&#39;s New Season Appears To Ape Splatoon Now](https://kotaku.com/fortnite-paradise-splatoon-3-nintendo-update-chrome-1849552253)
- - [Rockstar Games blames hacker for major GTA 6 leak](https://www.polygon.com/23360809/gta-6-leak-hack-rockstar-games-confirmed)<!-- GAME:END -->
+ - [What is the future of Star Wars movies?](https://www.polygon.com/star-wars/23357289/new-star-wars-movies-rogue-squadron)
+ - [Crunchyroll’s new Chainsaw Man trailer sets up season 1](https://www.polygon.com/23360824/chainsaw-man-trailer-season-1-premiere-date-details)
+ - [Take Two cracks down on leaked Grand Theft Auto 6 footage as Rockstar confirms &#39;network intrusion&#39;](https://www.pcgamer.com/take-two-cracks-down-on-leaked-grand-theft-auto-6-footage-as-rockstar-confirms-network-intrusion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
