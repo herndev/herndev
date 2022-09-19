@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want some?](http://9gag.com/gag/aGEYG1Z)
- - ⏩ [Lmao](http://9gag.com/gag/aQEPAE7)
+ - 💣 [Why does a ship float and a stone cannot ??](http://9gag.com/gag/aZDbErV)
+ - ⏩ [Want some?](http://9gag.com/gag/aGEYG1Z)
  - 👉 [&#39;12 Angry Men&#39;. No CGI, no 100 million dollar budget. Just good storyline, good acting, great dialogue and one of the best films you&#39;ll ever see.](http://9gag.com/gag/aWGQoqZ)<!-- MEMES:END -->
 
 ---
