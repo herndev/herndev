@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo goes big with its latest showcase - Massachusetts Daily Collegian](https://game-rant-2022.blogspot.com/2022/09/nintendo-goes-big-with-its-latest.html)
- - [Trial Of The Warrior Guide](https://game-rant-2022.blogspot.com/2022/09/trial-of-warrior-guide.html)
- - [The MMO Week: The Tower of Nightmares, Review, the Springer](https://game-rant-2022.blogspot.com/2022/09/the-mmo-week-tower-of-nightmares-review.html)<!-- GAME:END -->
+ - [Rick and Morty S06E03 &quot;Bethic Twinstinct&quot; Review: Family Toxicity x 2](https://game-rant-2022.blogspot.com/2022/09/rick-and-morty-s06e03-bethic-twinstinct.html)
+ - [Why Jordan Peele still hasn&#39;t reached the top](https://game-rant-2022.blogspot.com/2022/09/why-jordan-peele-still-hasnt-reached-top.html)
+ - [NBA 2K23 Review - A Solid Step Forward](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-solid-step-forward.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
