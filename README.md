@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Viserys’ Iron Throne cuts predicted his fate in House of the Dragon](https://www.polygon.com/23328660/house-dragon-viserys-iron-throne-cut)
- - [The real European parallels of the world of Dragon Age](https://game-rant-2022.blogspot.com/2022/09/the-real-european-parallels-of-world-of.html)
- - [All the House of the Dragon houses and characters you need to know](https://www.polygon.com/23322393/house-dragon-houses-characters-explained)<!-- GAME:END -->
+ - [Nintendo goes big with its latest showcase - Massachusetts Daily Collegian](https://game-rant-2022.blogspot.com/2022/09/nintendo-goes-big-with-its-latest.html)
+ - [Trial Of The Warrior Guide](https://game-rant-2022.blogspot.com/2022/09/trial-of-warrior-guide.html)
+ - [The MMO Week: The Tower of Nightmares, Review, the Springer](https://game-rant-2022.blogspot.com/2022/09/the-mmo-week-tower-of-nightmares-review.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
