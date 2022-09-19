@@ -117,11 +117,11 @@ Linux                    13 hrs 10 mins      ██████████░�
 ### ⚡️ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/herndev/herndev/pull/5) in [herndev/herndev](https://github.com/herndev/herndev)
-2. 💪 Opened PR [#5](https://github.com/herndev/herndev/pull/5) in [herndev/herndev](https://github.com/herndev/herndev)
-3. ❗️ Opened issue [#1998](https://github.com/marcizhu/marcizhu/issues/1998) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
-4. 🎉 Merged PR [#4](https://github.com/herndev/herndev/pull/4) in [herndev/herndev](https://github.com/herndev/herndev)
-5. 💪 Opened PR [#4](https://github.com/herndev/herndev/pull/4) in [herndev/herndev](https://github.com/herndev/herndev)
+1. 🎉 Merged PR [#6](https://github.com/herndev/herndev/pull/6) in [herndev/herndev](https://github.com/herndev/herndev)
+2. 💪 Opened PR [#6](https://github.com/herndev/herndev/pull/6) in [herndev/herndev](https://github.com/herndev/herndev)
+3. 🎉 Merged PR [#5](https://github.com/herndev/herndev/pull/5) in [herndev/herndev](https://github.com/herndev/herndev)
+4. 💪 Opened PR [#5](https://github.com/herndev/herndev/pull/5) in [herndev/herndev](https://github.com/herndev/herndev)
+5. ❗️ Opened issue [#1998](https://github.com/marcizhu/marcizhu/issues/1998) in [marcizhu/marcizhu](https://github.com/marcizhu/marcizhu)
 <!--END_SECTION:activity-->
 
 ---
