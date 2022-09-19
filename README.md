@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chess Champion Ratchets Up Cheating Drama By Resigning In Just One Move](https://kotaku.com/magnus-carlsen-cheating-hans-niemann-anal-beads-twitch-1849554715)
- - [Fortnite&#39;s best new season 4 skin is a bear piloting another bear](https://www.pcgamer.com/fortnite-chapter-3-season-4-chrome)
- - [Developers offer Rockstar sympathy as the internet goes wild over GTA 6 leak](https://www.pcgamer.com/developers-offer-rockstar-sympathy-as-the-internet-goes-wild-over-gta-6-leak)<!-- GAME:END -->
+ - [Resident Evil Village’s next DLC will end the Winters family’s story](https://www.polygon.com/23361801/resident-evil-villages-dlc-shadows-of-rose-winters-family)
+ - [The Best Details Hiding In The GTA VI Leak](https://kotaku.com/gta-6-vi-leaked-gameplay-footage-details-rockstar-1849554979)
+ - [Valve beats its Steam Deck production estimates as Q4 reservation emails go out today](https://www.pcgamer.com/valve-beats-its-steam-deck-production-estimates-as-q4-reservation-emails-go-out-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
