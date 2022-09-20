@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a federal lawsuit against crypto influencer Ian Balina, the US SEC claims the entire Ethereum network falls under the US government&#39;s purview &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220920/p1#a220920p1)
  - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)
- - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)
- - [India-based DotPe, which helps businesses get online, raised a $58M Series B led by Temasek, and says it will introduce digital lending to merchants &lpar;Priyanka Iyer/Moneycontrol&rpar;](http://www.techmeme.com/220919/p31#a220919p31)<!-- TECH:END -->
+ - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
