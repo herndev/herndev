@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [YouTuber Confesses To Secretly Being Gaming Industry Leaker After Getting Caught](https://kotaku.com/youtube-danallengaming-ubisoft-assassins-creed-leak-1849557551)
- - [Serial podcast returns to cover Adnan Syed’s release from prison after 23 years](https://www.polygon.com/23361907/serial-podcast-adnan-syed-release-episode)
- - [AMD to unveil RDNA 3 graphics cards on November 3](https://www.pcgamer.com/amd-to-unveil-rdna-3-graphics-cards-on-november-3)<!-- GAME:END -->
+ - [Deathloop Is Now Available on Xbox](https://news.xbox.com/en-us/2022/09/20/deathloop-is-now-available-on-xbox/)
+ - [Bungie accused of hacking by Destiny 2 cheat maker](https://www.pcgamer.com/bungie-accused-of-hacking-by-destiny-2-cheat-maker)
+ - [Now the FBI is looking into the GTA hack, too](https://www.pcgamer.com/now-the-fbi-is-looking-into-the-gta-hack-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
