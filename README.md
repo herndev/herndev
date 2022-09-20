@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s lead hero designer has left Blizzard](https://www.polygon.com/23363932/overwatch-2-lead-character-designer-leaves-activision-blizzard)
- - [NBA 2K23 review by jeuxvideo.com](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-by-jeuxvideocom.html)
- - [Four things to know about 8-6A teams before the district game](https://game-rant-2022.blogspot.com/2022/09/four-things-to-know-about-8-6a-teams.html)<!-- GAME:END -->
+ - [Twitch to update gambling policy in October](https://www.polygon.com/23364084/twitch-gambling-policy-update-official-statement)
+ - [2K warns customers: Don&#39;t trust recent support emails, don&#39;t click on links](https://www.pcgamer.com/2K-games-support-hack)
+ - [Overwatch 2’s lead hero designer has left Blizzard](https://www.polygon.com/23363932/overwatch-2-lead-character-designer-leaves-activision-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
