@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [India-based Zopper, which offers insurance infrastructure APIs to banks and other financial institutions, retailers, and mobility firms, raised a $75M Series C &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220919/p29#a220919p29)
- - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-week/#ftag=CAD590a51e)
- - [Scientists Might Have Solved Mystery of Saturn&#39;s Famous Rings     - CNET](https://www.cnet.com/science/space/scientists-might-have-solved-mystery-of-saturns-famous-rings/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)
+ - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)
+ - [India-based DotPe, which helps businesses get online, raised a $58M Series B led by Temasek, and says it will introduce digital lending to merchants &lpar;Priyanka Iyer/Moneycontrol&rpar;](http://www.techmeme.com/220919/p31#a220919p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
