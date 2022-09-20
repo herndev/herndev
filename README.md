@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saturnalia, a Survival Horror Adventure, Comes to Xbox](https://news.xbox.com/en-us/2022/09/20/saturnalia-a-survival-horror-adventure-comes-to-xbox/)
- - [Mob Psycho 100’s English Voice Actor Probably Isn&#39;t Coming Back Because Of Crunchyroll](https://kotaku.com/mob-psycho-100-crunchyroll-kyle-mccarley-sag-aftra-1849559684)
- - [Bethesda fixes Skryim&#39;s creepy moving mannequins, modder promptly unfixes them](https://www.pcgamer.com/bethesda-fixes-skryims-creepy-moving-mannequins-modder-promptly-unfixes-them)<!-- GAME:END -->
+ - [Game Pass Nabs One Of Steam&#39;s Biggest Hits](https://kotaku.com/xbox-game-pass-valheim-deathloop-fifa-23-ea-play-1849559980)
+ - [Call of Duty is changing for the better but its loudest fans aren&#39;t happy about it](https://www.pcgamer.com/call-of-duty-is-changing-for-the-better-but-its-loudest-fans-arent-happy-about-it)
+ - [Overwatch 2 loses its lead hero designer](https://www.pcgamer.com/overwatch-2-loses-its-lead-hero-designer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
