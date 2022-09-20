@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Amazon saw the &quot;biggest three hours for US Prime signups ever&quot; in its first exclusive stream of Thursday Night Football &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220920/p3#a220920p3)
- - [Apple to increase prices of apps and IAP on the App Store in all territories that use the euro and some Asian countries like Japan, starting October 5 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220920/p2#a220920p2)
- - [Google Doodle Encourages All Eligible to Register to Vote     - CNET](https://www.cnet.com/culture/internet/google-doodle-encourages-all-eligible-to-register-to-vote/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube’s ‘Dislike’ Button Doesn’t Do What You Think](https://www.wired.com/story/youtube-dislike-button-mozilla-research/)
+ - [YouTube’s ‘dislike’ and ‘not interested’ buttons barely work, study finds](https://www.theverge.com/2022/9/20/23356434/youtube-dislike-not-interested-buttons-bad-recommendations-mozilla-report)
+ - [Internal memo: Amazon saw the &quot;biggest three hours for US Prime signups ever&quot; in its first exclusive stream of Thursday Night Football &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220920/p3#a220920p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
