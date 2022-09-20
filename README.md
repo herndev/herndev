@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently some people are seeing 10 ads now](http://9gag.com/gag/aPgwz3n)
- - ⏩ [Bugs was a sav\u00e0ge.](http://9gag.com/gag/axodeKK)
- - 👉 [Anya !!!!](http://9gag.com/gag/a5Xe9wo)<!-- MEMES:END -->
+ - 💣 [Rest easy](http://9gag.com/gag/aVbz902)
+ - ⏩ [Hahaha](http://9gag.com/gag/aOxKAN6)
+ - 👉 [The erasure of women](http://9gag.com/gag/ago3pQW)<!-- MEMES:END -->
 
 ---
 
