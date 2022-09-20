@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon episode 5 has everything you need to know about the show](https://www.polygon.com/23361934/house-dragon-episode-5-review-recap)
- - [What we learned, and what we didn&#39;t, from the GTA 6 leak](https://www.pcgamer.com/what-we-learned-and-what-we-didnt-from-the-gta-6-leak)
- - [Electronic Arts CEO kinda hopes Call of Duty will become an Xbox exclusive](https://www.pcgamer.com/electronic-arts-ceo-kinda-hopes-call-of-duty-will-become-an-xbox-exclusive)<!-- GAME:END -->
+ - [A follow up to 2016&#39;s trippiest FPS just released on Steam, and it&#39;s a thousand times trippier](https://www.pcgamer.com/hyper-demon-release-steam)
+ - [GameStop Stonk Bros Are So Mad About The Netflix Doc Trailer, They’re Rallying To Unsub](https://kotaku.com/gamestop-stock-netflix-trailer-reddit-wallstreetbets-1849555811)
+ - [NBA 2K23: The Kotaku Review](https://kotaku.com/nba-2k23-2k-review-kotaku-mycareer-impressions-myteam-1849528793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
