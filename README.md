@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We are doomed](http://9gag.com/gag/aEqvEDG)
- - ⏩ [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
- - 👉 [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)<!-- MEMES:END -->
+ - 💣 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)
+ - ⏩ [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
+ - 👉 [Wait for it\u2026](http://9gag.com/gag/aGEYoo7)<!-- MEMES:END -->
 
 ---
 
