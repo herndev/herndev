@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An in-depth look at AI-generated media tools like Imagen, DALL-E 2, and Midjourney; Midjourney users are making concept art for clients and replacing stock art &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/220919/p28#a220919p28)
- - [Microsoft eased up on one DRM hurdle for disc games on Xbox](https://www.theverge.com/2022/9/19/23356855/xbox-series-x-game-disc-drm-online-check-in)
- - [More People Need to Watch the Best TV Show of 2022 So Far     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [India-based Zopper, which offers insurance infrastructure APIs to banks and other financial institutions, retailers, and mobility firms, raised a $75M Series C &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220919/p29#a220919p29)
+ - [The Best Sci-Fi Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-binge-on-prime-video-this-week/#ftag=CAD590a51e)
+ - [Scientists Might Have Solved Mystery of Saturn&#39;s Famous Rings     - CNET](https://www.cnet.com/science/space/scientists-might-have-solved-mystery-of-saturns-famous-rings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
