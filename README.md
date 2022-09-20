@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)
+ - 💣 [You got this](http://9gag.com/gag/ago3KDW)
  - ⏩ [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
- - 👉 [Wait for it\u2026](http://9gag.com/gag/aGEYoo7)<!-- MEMES:END -->
+ - 👉 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)<!-- MEMES:END -->
 
 ---
 
