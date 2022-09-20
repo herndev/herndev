@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
- - ⏩ [Okay wait!](http://9gag.com/gag/aGEY6PX)
- - 👉 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)<!-- MEMES:END -->
+ - ⏩ [At last peace](http://9gag.com/gag/aKEwXg3)
+ - 👉 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
 
 ---
 
