@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dozens of civil rights groups are calling on Amazon and MGM to cancel Ring Nation reality show](https://www.theverge.com/2022/9/20/23362010/ring-nation-mgm-amazon-mark-burnett-barry-poznick-civil-rights-cancel)
- - [Spotify launches an audiobooks service in the US with 300,000 titles, letting users purchase and download individual books to play in its app &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/220920/p17#a220920p17)
- - [The biggest features in watchOS 9 for Apple Watch](https://appleinsider.com/articles/22/09/20/the-biggest-features-in-watchos-9-for-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Wait times for iPhone 14 Pro models up to 6 weeks as demand surges](https://appleinsider.com/articles/22/09/20/wait-times-for-iphone-14-pro-models-up-to-6-weeks-as-demand-surges?utm_medium=rss)
+ - [How iPhone 14 Pro Adaptive True Tone flash creates perfect light for your photos](https://appleinsider.com/articles/22/09/20/how-iphone-14-pro-adaptive-true-tone-flash-creates-perfect-light-for-your-photos?utm_medium=rss)
+ - [Telegram Has a Serious Doxing Problem](https://www.wired.com/story/telegrams-doxing-problem/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
