@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Crypto market maker Wintermute says hackers stole $160M from its DeFi operations but the firm remains solvent; in total, 90 assets were stolen, most worth &lt;$1M &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/220920/p5#a220920p5)
- - [Mexico City-based used car marketplace Kavak, which is Latin America&#39;s biggest startup, raised $810M in debt financing, potentially rising to $1.2B in 2022 &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/220920/p4#a220920p4)
- - [YouTube’s ‘Dislike’ Button Doesn’t Do What You Think](https://www.wired.com/story/youtube-dislike-button-mozilla-research/)<!-- TECH:END -->
+ - [OpenAI’s image generator DALL-E can now edit human faces](https://www.theverge.com/2022/9/20/23362631/openai-dall-e-ai-art-generator-edit-realistic-faces-safety)
+ - [Two unannounced iPads may have been revealed by Logitech](https://appleinsider.com/articles/22/09/20/two-unannounced-ipads-may-have-been-revealed-by-logitech?utm_medium=rss)
+ - [A look at Finland-based Crea Nova, an internet service company that hosted hate and conspiracy-filled websites, and its connections to Russia &lpar;Elina Lappalainen/Helsingin Sanomat&rpar;](http://www.techmeme.com/220920/p10#a220920p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
