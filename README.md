@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)
- - ⏩ [That is called life](http://9gag.com/gag/aKEwN9N)
- - 👉 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)<!-- MEMES:END -->
+ - 💣 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)
+ - ⏩ [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
+ - 👉 [That does look good](http://9gag.com/gag/aXn0Gvb)<!-- MEMES:END -->
 
 ---
 
