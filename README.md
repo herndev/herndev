@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook adds Pages features to let creators endorse each other, make content exclusive to top fans and subscribers, earn &quot;rising creator&quot; labels, and more &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220920/p42#a220920p42)
- - [Overwatch 2 loses lead hero designer just before sequel launches](https://www.theverge.com/2022/9/20/23363892/overwatch-2-lead-hero-designer-resigns-blizzard)
- - [Razer releases cheaper, more compact Leviathan V2 X PC soundbar](https://www.theverge.com/2022/9/20/23363663/razer-leviathan-v2-x-pc-soundbar-compact-rgb)<!-- TECH:END -->
+ - [Twitch will prohibit streaming unlicensed gambling sites with slot, roulette, or dice games starting October 18, amid fallout from a streamer&#39;s gambling scam &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220920/p45#a220920p45)
+ - [Twitch to ban Stake.com streams and other unlicensed gambling content](https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games)
+ - [Lina Khan says she is &quot;extremely disturbed&quot; by, and looking closely at, Mudge&#39;s claims Twitter misled the FTC about its compliance with a 2011 consent decree &lpar;Chris Matthews/MarketWatch&rpar;](http://www.techmeme.com/220920/p44#a220920p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
