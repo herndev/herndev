@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s ‘Dislike’ Button Doesn’t Do What You Think](https://www.wired.com/story/youtube-dislike-button-mozilla-research/)
- - [YouTube’s ‘dislike’ and ‘not interested’ buttons barely work, study finds](https://www.theverge.com/2022/9/20/23356434/youtube-dislike-not-interested-buttons-bad-recommendations-mozilla-report)
- - [Internal memo: Amazon saw the &quot;biggest three hours for US Prime signups ever&quot; in its first exclusive stream of Thursday Night Football &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220920/p3#a220920p3)<!-- TECH:END -->
+ - [Crypto market maker Wintermute says hackers stole $160M from its DeFi operations but the firm remains solvent; in total, 90 assets were stolen, most worth &lt;$1M &lpar;Tim Copeland/The Block&rpar;](http://www.techmeme.com/220920/p5#a220920p5)
+ - [Mexico City-based used car marketplace Kavak, which is Latin America&#39;s biggest startup, raised $810M in debt financing, potentially rising to $1.2B in 2022 &lpar;Michael O&#39;Boyle/Bloomberg&rpar;](http://www.techmeme.com/220920/p4#a220920p4)
+ - [YouTube’s ‘Dislike’ Button Doesn’t Do What You Think](https://www.wired.com/story/youtube-dislike-button-mozilla-research/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
