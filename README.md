@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)
+ - 💣 [In Canada, nothing is safe from the moose.](http://9gag.com/gag/aQEPNG7)
  - ⏩ [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
- - 👉 [That does look good](http://9gag.com/gag/aXn0Gvb)<!-- MEMES:END -->
+ - 👉 [In Mexico we have this nice tradition where theres a big earthquake on or around 19 September.](http://9gag.com/gag/aoKEdWn)<!-- MEMES:END -->
 
 ---
 
