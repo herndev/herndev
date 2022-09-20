@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A follow up to 2016&#39;s trippiest FPS just released on Steam, and it&#39;s a thousand times trippier](https://www.pcgamer.com/hyper-demon-release-steam)
- - [GameStop Stonk Bros Are So Mad About The Netflix Doc Trailer, They’re Rallying To Unsub](https://kotaku.com/gamestop-stock-netflix-trailer-reddit-wallstreetbets-1849555811)
- - [NBA 2K23: The Kotaku Review](https://kotaku.com/nba-2k23-2k-review-kotaku-mycareer-impressions-myteam-1849528793)<!-- GAME:END -->
+ - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)
+ - [Five new Steam games you probably missed &lpar;September 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)
+ - [Menyr Lets You Build A Whole Damn World For Your RPG Campaigns](https://kotaku.com/ttrpg-rpg-d-d-dungeons-dragons-digital-toolkit-build-1849555946)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
