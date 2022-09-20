@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
- - [Emoji statuses and ‘infinite’ reactions are among Telegram’s latest features](https://www.theverge.com/2022/9/19/23360878/telegram-emoji-reactions-status-profile-link-update)
- - [20 Quadrillion Ants Are Roaming Earth Right Now, Scientists Calculate     - CNET](https://www.cnet.com/science/biology/20-quadrillion-ants-are-roaming-earth-right-now-scientists-calculate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An in-depth look at AI-generated media tools like Imagen, DALL-E 2, and Midjourney; Midjourney users are making concept art for clients and replacing stock art &lpar;John Herrman/New York Magazine&rpar;](http://www.techmeme.com/220919/p28#a220919p28)
+ - [Microsoft eased up on one DRM hurdle for disc games on Xbox](https://www.theverge.com/2022/9/19/23356855/xbox-series-x-game-disc-drm-online-check-in)
+ - [More People Need to Watch the Best TV Show of 2022 So Far     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-best-tv-show-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
