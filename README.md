@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI’s image generator DALL-E can now edit human faces](https://www.theverge.com/2022/9/20/23362631/openai-dall-e-ai-art-generator-edit-realistic-faces-safety)
- - [Two unannounced iPads may have been revealed by Logitech](https://appleinsider.com/articles/22/09/20/two-unannounced-ipads-may-have-been-revealed-by-logitech?utm_medium=rss)
- - [A look at Finland-based Crea Nova, an internet service company that hosted hate and conspiracy-filled websites, and its connections to Russia &lpar;Elina Lappalainen/Helsingin Sanomat&rpar;](http://www.techmeme.com/220920/p10#a220920p10)<!-- TECH:END -->
+ - [How to Unsend and Edit Messages in iOS 16](https://www.wired.com/story/how-to-unsend-and-edit-messages-ios-16/)
+ - [The US Is Measuring Extreme Heat Wrong](https://www.wired.com/story/the-us-is-measuring-extreme-heat-wrong/)
+ - [Peloton’s New Rowing Machine Is Here. Get Ready to Pay Up](https://www.wired.com/story/peloton-row/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
