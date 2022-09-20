@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s guides App Association direction through hefty funding](https://appleinsider.com/articles/22/09/19/apples-guides-app-association-direction-through-hefty-funding?utm_medium=rss)
- - [Gmail will start spam-proofing political fundraising emails this week](https://www.theverge.com/2022/9/19/23362054/gmail-political-spam-fundraising-email-campaign-google)
- - [These speaker deals can save you as much as $850](https://www.androidauthority.com/crutchfield-speaker-deals-3210484/)<!-- TECH:END -->
+ - [Adnan Syed freed after judge vacates murder conviction](https://www.theverge.com/2022/9/19/23361833/serial-adnan-syed-murder-conviction-overturned)
+ - [Emoji statuses and ‘infinite’ reactions are among Telegram’s latest features](https://www.theverge.com/2022/9/19/23360878/telegram-emoji-reactions-status-profile-link-update)
+ - [20 Quadrillion Ants Are Roaming Earth Right Now, Scientists Calculate     - CNET](https://www.cnet.com/science/biology/20-quadrillion-ants-are-roaming-earth-right-now-scientists-calculate/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
