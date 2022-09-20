@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You get what you f*ckin deserve, Iran protests](http://9gag.com/gag/a6qmgqL)
- - ⏩ [Anya !!!!](http://9gag.com/gag/a5Xe9wo)
+ - 💣 [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)
+ - ⏩ [Damn onions, they make me cry](http://9gag.com/gag/anzq3OE)
  - 👉 [Super exciting](http://9gag.com/gag/aOxKOrv)<!-- MEMES:END -->
 
 ---
