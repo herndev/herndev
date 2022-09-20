@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Global wearables shipments declined 6.9% YoY to 107.4M units in Q2 2022, weighed down by rising inflation and other factors; Apple&#39;s share declined to 25% &lpar;IDC&rpar;](http://www.techmeme.com/220920/p19#a220920p19)
- - [Baby Yoda is a Tamagotchi now](https://www.theverge.com/2022/9/20/23362952/baby-yoda-grogu-tamagotchi-mandalorian-star-wars)
- - [Nintendo is cutting off Facebook and Twitter logins soon](https://www.theverge.com/2022/9/20/23362845/nintendo-login-twitter-facebook-switch-image-sharing-wii-u-3ds)<!-- TECH:END -->
+ - [The original Portal is getting a free ray-tracing update in November](https://www.theverge.com/2022/9/20/23363123/portal-pc-steam-valve-nvidia-rtx-ray-tracing-november-free-update-remix)
+ - [Google is finally making its to-do list and reminder tools work together](https://www.theverge.com/2022/9/20/23362711/google-tasks-hub-reminders-assistant-calendar-management)
+ - [Andor is a sobering reflection on the human costs of Star Wars’ never-ending conflicts](https://www.theverge.com/2022/9/20/23353104/andor-star-wars-review-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
