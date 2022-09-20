@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That is called life](http://9gag.com/gag/aKEwN9N)
- - ⏩ [Wait for it\u2026](http://9gag.com/gag/aGEYoo7)
- - 👉 [Basketball game](http://9gag.com/gag/aOxKN0R)<!-- MEMES:END -->
+ - 💣 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)
+ - ⏩ [That is called life](http://9gag.com/gag/aKEwN9N)
+ - 👉 [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)<!-- MEMES:END -->
 
 ---
 
