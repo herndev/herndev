@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 458 answer and hint: Tuesday, September 20](https://www.pcgamer.com/todays-wordle-458-answer-hint)
- - [Legendary modder works to bring all Unreal Engine games to VR](https://www.pcgamer.com/legendary-modder-works-to-bring-all-unreal-engine-games-to-vr)
- - [Taiwan earthquake reminds us how vulnerable the world&#39;s chip supply really is](https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is)<!-- GAME:END -->
+ - [What has Disney Lorcana borrowed from Magic, Pokémon, Gwent, and Hearthstone?](https://www.polygon.com/23361587/mtg-lorcana-disney-tcg-ccg-rules-magic-pokemon-hearthstone-gwent)
+ - [The Taliban is banning PUBG for being too violent](https://www.pcgamer.com/the-taliban-is-banning-pubg-for-being-too-violent)
+ - [Nvidia is expected to reveal its next-gen RTX 40-series today: here&#39;s when and how to watch](https://www.pcgamer.com/nvidia-gtc-2022-rtx-40-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
