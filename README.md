@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Deathloop Is Now Available on Xbox](https://news.xbox.com/en-us/2022/09/20/deathloop-is-now-available-on-xbox/)
- - [Bungie accused of hacking by Destiny 2 cheat maker](https://www.pcgamer.com/bungie-accused-of-hacking-by-destiny-2-cheat-maker)
- - [Now the FBI is looking into the GTA hack, too](https://www.pcgamer.com/now-the-fbi-is-looking-into-the-gta-hack-too)<!-- GAME:END -->
+ - [How Call of Duty: Modern Warfare II’s multiplayer offers more creative ways to play](https://blog.playstation.com/2022/09/20/how-call-of-duty-modern-warfare-iis-multiplayer-offers-more-creative-ways-to-play/)
+ - [Hulu’s Hellraiser reboot trailer has one puzzle box you wouldn’t want to solve](https://www.polygon.com/23363287/hellraiser-reboot-trailer-hulu-clive-barker-lady-pinhead)
+ - [The Windows 11 2022 Update is Available Today](https://news.xbox.com/en-us/2022/09/20/windows-11-2022-update-available-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
