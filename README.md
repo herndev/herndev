@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Great Houses Go to War in a Brand New Smite Update](https://news.xbox.com/en-us/2022/09/20/great-houses-go-to-war-in-a-brand-new-smite-update/)
- - [League of Legends’ Spirit Blossom skins return with plenty of style](https://www.polygon.com/23363529/league-of-legends-spirit-blossom-skins-syndra-sett-soraka)
- - [Budget gaming PC build guide](https://www.pcgamer.com/pc-build-guide-budget-gaming-pc)<!-- GAME:END -->
+ - [Saturnalia, a Survival Horror Adventure, Comes to Xbox](https://news.xbox.com/en-us/2022/09/20/saturnalia-a-survival-horror-adventure-comes-to-xbox/)
+ - [Mob Psycho 100’s English Voice Actor Probably Isn&#39;t Coming Back Because Of Crunchyroll](https://kotaku.com/mob-psycho-100-crunchyroll-kyle-mccarley-sag-aftra-1849559684)
+ - [Bethesda fixes Skryim&#39;s creepy moving mannequins, modder promptly unfixes them](https://www.pcgamer.com/bethesda-fixes-skryims-creepy-moving-mannequins-modder-promptly-unfixes-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
