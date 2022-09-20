@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple to increase prices of apps and IAP on the App Store in all territories that use the euro and some Asian countries like Japan, starting October 5 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220920/p2#a220920p2)
  - [In a federal lawsuit against crypto influencer Ian Balina, the US SEC claims the entire Ethereum network falls under the US government&#39;s purview &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220920/p1#a220920p1)
- - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)
- - [Apple says excessive iOS 16 copy and paste prompts are a bug](https://appleinsider.com/articles/22/09/19/apple-says-excessive-ios-16-copy-and-paste-prompts-are-a-bug?utm_medium=rss)<!-- TECH:END -->
+ - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
