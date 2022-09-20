@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Call of Duty: Modern Warfare II’s multiplayer offers more creative ways to play](https://blog.playstation.com/2022/09/20/how-call-of-duty-modern-warfare-iis-multiplayer-offers-more-creative-ways-to-play/)
- - [Hulu’s Hellraiser reboot trailer has one puzzle box you wouldn’t want to solve](https://www.polygon.com/23363287/hellraiser-reboot-trailer-hulu-clive-barker-lady-pinhead)
- - [The Windows 11 2022 Update is Available Today](https://news.xbox.com/en-us/2022/09/20/windows-11-2022-update-available-today/)<!-- GAME:END -->
+ - [Meet the Latest Overwatch Support Hero, Kiriko!](https://news.xbox.com/en-us/2022/09/20/meet-the-latest-overwatch-support-hero-kiriko/)
+ - [A Phenomenal Anime Like Made In Abyss Deserves A Better Video Game Than This](https://kotaku.com/made-in-abyss-video-game-review-anime-rpg-reg-riko-1849558977)
+ - [YouTuber exposed as &#39;The Real Insider&#39; behind major Assassin&#39;s Creed leak and others](https://www.pcgamer.com/youtuber-exposed-as-the-real-insider-behind-major-assassins-creed-leak-and-others)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
