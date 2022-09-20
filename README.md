@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cheers](http://9gag.com/gag/a9qbZEm)
- - ⏩ [Reality of GTA 6](http://9gag.com/gag/abvXKXp)
- - 👉 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)<!-- MEMES:END -->
+ - 💣 [Hahaha](http://9gag.com/gag/aOxKAN6)
+ - ⏩ [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
+ - 👉 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
 
 ---
 
