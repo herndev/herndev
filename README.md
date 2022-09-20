@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 458 answer and hint: Tuesday, September 20](https://www.pcgamer.com/todays-wordle-458-answer-hint)
  - [Legendary modder works to bring all Unreal Engine games to VR](https://www.pcgamer.com/legendary-modder-works-to-bring-all-unreal-engine-games-to-vr)
- - [Taiwan earthquake reminds us how vulnerable the world&#39;s chip supply really is](https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is)
- - [Crypto giveaway scam sites have tripled in a year](https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year)<!-- GAME:END -->
+ - [Taiwan earthquake reminds us how vulnerable the world&#39;s chip supply really is](https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
