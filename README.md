@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)
- - ⏩ [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)
- - 👉 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)<!-- MEMES:END -->
+ - 💣 [We are doomed](http://9gag.com/gag/aEqvEDG)
+ - ⏩ [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)
+ - 👉 [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)<!-- MEMES:END -->
 
 ---
 
