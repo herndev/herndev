@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Unsend and Edit Messages in iOS 16](https://www.wired.com/story/how-to-unsend-and-edit-messages-ios-16/)
- - [The US Is Measuring Extreme Heat Wrong](https://www.wired.com/story/the-us-is-measuring-extreme-heat-wrong/)
- - [Peloton’s New Rowing Machine Is Here. Get Ready to Pay Up](https://www.wired.com/story/peloton-row/)<!-- TECH:END -->
+ - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
+ - [PITAKA&#39;s MagEZ Case 3 line offers a near case-less feel for your iPhone 14](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
+ - [The Duality of Being Black in Gaming Spaces](https://www.wired.com/story/duality-black-gaming-double-consciousness/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
