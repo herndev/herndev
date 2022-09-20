@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game Pass Nabs One Of Steam&#39;s Biggest Hits](https://kotaku.com/xbox-game-pass-valheim-deathloop-fifa-23-ea-play-1849559980)
- - [Call of Duty is changing for the better but its loudest fans aren&#39;t happy about it](https://www.pcgamer.com/call-of-duty-is-changing-for-the-better-but-its-loudest-fans-arent-happy-about-it)
- - [Overwatch 2 loses its lead hero designer](https://www.pcgamer.com/overwatch-2-loses-its-lead-hero-designer)<!-- GAME:END -->
+ - [Overwatch 2’s lead hero designer has left Blizzard](https://www.polygon.com/23363932/overwatch-2-lead-character-designer-leaves-activision-blizzard)
+ - [NBA 2K23 review by jeuxvideo.com](https://game-rant-2022.blogspot.com/2022/09/nba-2k23-review-by-jeuxvideocom.html)
+ - [Four things to know about 8-6A teams before the district game](https://game-rant-2022.blogspot.com/2022/09/four-things-to-know-about-8-6a-teams.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
