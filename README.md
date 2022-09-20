@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal memo: Amazon saw the &quot;biggest three hours for US Prime signups ever&quot; in its first exclusive stream of Thursday Night Football &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/220920/p3#a220920p3)
  - [Apple to increase prices of apps and IAP on the App Store in all territories that use the euro and some Asian countries like Japan, starting October 5 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220920/p2#a220920p2)
- - [In a federal lawsuit against crypto influencer Ian Balina, the US SEC claims the entire Ethereum network falls under the US government&#39;s purview &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/220920/p1#a220920p1)
- - [Apple to hike App Store prices in Europe and other countries in October](https://appleinsider.com/articles/22/09/20/apple-to-hike-app-store-prices-in-europe-and-other-countries-in-october?utm_medium=rss)<!-- TECH:END -->
+ - [Google Doodle Encourages All Eligible to Register to Vote     - CNET](https://www.cnet.com/culture/internet/google-doodle-encourages-all-eligible-to-register-to-vote/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
