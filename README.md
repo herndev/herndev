@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Folding iPhone may repair display scratches &amp; dents by itself](https://appleinsider.com/articles/20/10/01/future-folding-iphones-may-repair-scratches-or-dents-in-the-display-by-themselves?utm_medium=rss)
- - [PITAKA&#39;s MagEZ Case 3 line offers a near case-less feel for your iPhone 14](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
- - [The Duality of Being Black in Gaming Spaces](https://www.wired.com/story/duality-black-gaming-double-consciousness/)<!-- TECH:END -->
+ - [Dozens of civil rights groups are calling on Amazon and MGM to cancel Ring Nation reality show](https://www.theverge.com/2022/9/20/23362010/ring-nation-mgm-amazon-mark-burnett-barry-poznick-civil-rights-cancel)
+ - [Spotify launches an audiobooks service in the US with 300,000 titles, letting users purchase and download individual books to play in its app &lpar;J. Clara Chan/The Hollywood Reporter&rpar;](http://www.techmeme.com/220920/p17#a220920p17)
+ - [The biggest features in watchOS 9 for Apple Watch](https://appleinsider.com/articles/22/09/20/the-biggest-features-in-watchos-9-for-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
