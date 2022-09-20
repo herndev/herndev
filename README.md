@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can I get a hell to the no?](http://9gag.com/gag/aZDbV59)
- - ⏩ [Go school](http://9gag.com/gag/ajVYMLx)
- - 👉 [Math teacher](http://9gag.com/gag/ago3Zz6)<!-- MEMES:END -->
+ - 💣 [Cheers](http://9gag.com/gag/a9qbZEm)
+ - ⏩ [Reality of GTA 6](http://9gag.com/gag/abvXKXp)
+ - 👉 [Nahid Zamani, Iranian Caroonist!!](http://9gag.com/gag/amANb49)<!-- MEMES:END -->
 
 ---
 
