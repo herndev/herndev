@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything coming in Deathloop’s big Goldenloop update](https://www.polygon.com/deathloop-guide-walkthrough/23361730/deathloop-goldenloop-update-new-content-fugue-halps-prototype-masquerade-trinket)
- - [Our favorite queer comics creators recommend the best queer indie comics](https://www.polygon.com/23355149/best-queer-comics-recommendations)
- - [Tune in to our Monopoly Enjoyment Stream](https://www.polygon.com/videos/23362232/monopoly-stream)<!-- GAME:END -->
+ - [YouTuber Confesses To Secretly Being Gaming Industry Leaker After Getting Caught](https://kotaku.com/youtube-danallengaming-ubisoft-assassins-creed-leak-1849557551)
+ - [Serial podcast returns to cover Adnan Syed’s release from prison after 23 years](https://www.polygon.com/23361907/serial-podcast-adnan-syed-release-episode)
+ - [AMD to unveil RDNA 3 graphics cards on November 3](https://www.pcgamer.com/amd-to-unveil-rdna-3-graphics-cards-on-november-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
