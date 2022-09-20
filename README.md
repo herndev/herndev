@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another moron driving](http://9gag.com/gag/aqe9d5L)
- - ⏩ [Dad builds adaptive controller for his disabled daughter](http://9gag.com/gag/aEqvZYe)
- - 👉 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)<!-- MEMES:END -->
+ - 💣 [Too many subscriptions made me poor](http://9gag.com/gag/aZDbv4W)
+ - ⏩ [Javelin throw strength training machine](http://9gag.com/gag/ay27PPr)
+ - 👉 [I&#39;d like you to play the song that goes beep boop beep beep](http://9gag.com/gag/aOxKpDM)<!-- MEMES:END -->
 
 ---
 
