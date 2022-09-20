@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn onions, they make me cry](http://9gag.com/gag/anzq3OE)
+ - 💣 [Super exciting](http://9gag.com/gag/aOxKOrv)
  - ⏩ [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)
- - 👉 [Super exciting](http://9gag.com/gag/aOxKOrv)<!-- MEMES:END -->
+ - 👉 [And 42 cloves of garlic](http://9gag.com/gag/aeQjErv)<!-- MEMES:END -->
 
 ---
 
