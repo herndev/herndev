@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahaha](http://9gag.com/gag/aOxKAN6)
- - ⏩ [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
- - 👉 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
+ - 💣 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
+ - ⏩ [Okay wait!](http://9gag.com/gag/aGEY6PX)
+ - 👉 [The Holy Hand Grenade of Antioch on display at the Queens funeral.](http://9gag.com/gag/anzq8Y0)<!-- MEMES:END -->
 
 ---
 
