@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Apple Mail&#39;s Remind Me and Follow Up features](https://appleinsider.com/inside/ios-16/tips/how-to-use-apple-mails-remind-me-and-follow-up-features?utm_medium=rss)
- - [Hulu’s Hellraiser reboot is full of puzzles and promise in new trailer](https://www.theverge.com/2022/9/20/23363286/hulu-hellraiser-trailer-jamie-clayton)
- - [Here’s how Microsoft is rolling out its first major update to Windows 11](https://www.theverge.com/2022/9/20/23362662/microsoft-windows-11-2022-update-release-download)<!-- TECH:END -->
+ - [A Tesla Megapack battery is on fire at a PG&amp;E facility in California](https://www.theverge.com/2022/9/20/23363345/tesla-megapack-battery-fire-california-monterey-pg-and-e)
+ - [Motorola’s new budget phones look surprisingly nice](https://www.theverge.com/2022/9/20/23363323/motorola-e22-e22i-budget-phone-design-specs-price-screen)
+ - [American Airlines reveals data breach — two months after it was discovered](https://www.theverge.com/2022/9/20/23363257/american-airlines-data-breach-disclosure-phishing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
