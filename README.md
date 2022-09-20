@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood adds USDC as the first stablecoin in its crypto lineup, while Binance and WazirX exchanges say they will delist USDC in favor of other stablecoins &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220920/p37#a220920p37)
- - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)
- - [Google search can help you buy train tickets in select countries](https://www.theverge.com/2022/9/20/23363205/google-train-tickets-travel-flights-carbon-emissions)<!-- TECH:END -->
+ - [Internal meetings: TikTok has employed a two-tiered moderation system that gives &quot;more lenient&quot; treatment to influencers and other VIPs with 5M+ followers &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220920/p40#a220920p40)
+ - [Tesla Megapack battery fire spurs shelter-in-place warning in California](https://www.theverge.com/2022/9/20/23363345/tesla-megapack-battery-fire-california-monterey-pg-and-e)
+ - [The new Quest update will stabilize your shaky VR recordings](https://www.theverge.com/2022/9/20/23363546/meta-quest-vr-v44-update-advanced-camera-settings-stabilization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
