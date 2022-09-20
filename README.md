@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 19&rpar;](https://news.xbox.com/en-us/2022/09/19/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-19/)
  - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)
- - [Five new Steam games you probably missed &lpar;September 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)
- - [Menyr Lets You Build A Whole Damn World For Your RPG Campaigns](https://kotaku.com/ttrpg-rpg-d-d-dungeons-dragons-digital-toolkit-build-1849555946)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;September 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
