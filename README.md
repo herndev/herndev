@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crypto giveaway scam sites have tripled in a year](https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 19&rpar;](https://news.xbox.com/en-us/2022/09/19/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-19/)
- - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)
- - [Five new Steam games you probably missed &lpar;September 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-september-19-2022)<!-- GAME:END -->
+ - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
