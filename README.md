@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Crypto giveaway scam sites have tripled in a year](https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 19&rpar;](https://news.xbox.com/en-us/2022/09/19/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-19/)
- - [Elden Ring Is Being Turned Into A Board Game](https://kotaku.com/elden-ring-board-game-steamforged-kickstarter-1849556079)<!-- GAME:END -->
+ - [Legendary modder works to bring all Unreal Engine games to VR](https://www.pcgamer.com/legendary-modder-works-to-bring-all-unreal-engine-games-to-vr)
+ - [Taiwan earthquake reminds us how vulnerable the world&#39;s chip supply really is](https://www.pcgamer.com/taiwan-earthquake-reminds-us-how-vulnerable-the-worlds-chip-supply-really-is)
+ - [Crypto giveaway scam sites have tripled in a year](https://www.pcgamer.com/crypto-giveaway-scam-sites-have-tripled-in-a-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
