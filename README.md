@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Already kids are forced to wear it](http://9gag.com/gag/aqe9BjP)
- - ⏩ [At last peace](http://9gag.com/gag/aKEwXg3)
- - 👉 [Cheers](http://9gag.com/gag/a9qbZEm)<!-- MEMES:END -->
+ - 💣 [Apparently some people are seeing 10 ads now](http://9gag.com/gag/aPgwz3n)
+ - ⏩ [Bugs was a sav\u00e0ge.](http://9gag.com/gag/axodeKK)
+ - 👉 [Anya !!!!](http://9gag.com/gag/a5Xe9wo)<!-- MEMES:END -->
 
 ---
 
