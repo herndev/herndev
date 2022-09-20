@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [T-Mobile Could Be Launching a Credit Card     - CNET](https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CAD590a51e)
- - [Twitter&#39;s Legal Battle Against Musk Over $44B Deal Heats Up: What You Need to Know     - CNET](https://www.cnet.com/news/social-media/twitters-legal-battle-against-musk-over-44b-deal-heats-up-what-you-need-to-know/#ftag=CAD590a51e)
- - [Apple makes the battery indicator better in new iOS 16.1 beta](https://www.theverge.com/2022/9/20/23363513/apple-ios-16-1-beta-2-battery-indicator)<!-- TECH:END -->
+ - [Robinhood adds USDC as the first stablecoin in its crypto lineup, while Binance and WazirX exchanges say they will delist USDC in favor of other stablecoins &lpar;Michael Bellusci/CoinDesk&rpar;](http://www.techmeme.com/220920/p37#a220920p37)
+ - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)
+ - [Google search can help you buy train tickets in select countries](https://www.theverge.com/2022/9/20/23363205/google-train-tickets-travel-flights-carbon-emissions)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
