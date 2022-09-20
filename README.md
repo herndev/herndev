@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
- - ⏩ [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)
- - 👉 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)<!-- MEMES:END -->
+ - 💣 [That is called life](http://9gag.com/gag/aKEwN9N)
+ - ⏩ [Wait for it\u2026](http://9gag.com/gag/aGEYoo7)
+ - 👉 [Basketball game](http://9gag.com/gag/aOxKN0R)<!-- MEMES:END -->
 
 ---
 
