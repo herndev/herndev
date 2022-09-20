@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What has Disney Lorcana borrowed from Magic, Pokémon, Gwent, and Hearthstone?](https://www.polygon.com/23361587/mtg-lorcana-disney-tcg-ccg-rules-magic-pokemon-hearthstone-gwent)
- - [The Taliban is banning PUBG for being too violent](https://www.pcgamer.com/the-taliban-is-banning-pubg-for-being-too-violent)
- - [Nvidia is expected to reveal its next-gen RTX 40-series today: here&#39;s when and how to watch](https://www.pcgamer.com/nvidia-gtc-2022-rtx-40-series)<!-- GAME:END -->
+ - [Tune in to our Monopoly Enjoyment Stream](https://www.polygon.com/videos/23362232/monopoly-stream)
+ - [Coming to Xbox Game Pass: Deathloop, Slime Rancher 2, Valheim, Grounded’s Full Release, and More](https://news.xbox.com/en-us/2022/09/20/game-pass-september-2022-wave-2-announce/)
+ - [Looks like Sackboy: A Big Adventure is all but confirmed for PC](https://www.pcgamer.com/looks-like-sackboy-a-big-adventure-is-all-but-confirmed-for-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
