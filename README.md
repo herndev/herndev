@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wait times for iPhone 14 Pro models up to 6 weeks as demand surges](https://appleinsider.com/articles/22/09/20/wait-times-for-iphone-14-pro-models-up-to-6-weeks-as-demand-surges?utm_medium=rss)
- - [How iPhone 14 Pro Adaptive True Tone flash creates perfect light for your photos](https://appleinsider.com/articles/22/09/20/how-iphone-14-pro-adaptive-true-tone-flash-creates-perfect-light-for-your-photos?utm_medium=rss)
- - [Telegram Has a Serious Doxing Problem](https://www.wired.com/story/telegrams-doxing-problem/)<!-- TECH:END -->
+ - [Global wearables shipments declined 6.9% YoY to 107.4M units in Q2 2022, weighed down by rising inflation and other factors; Apple&#39;s share declined to 25% &lpar;IDC&rpar;](http://www.techmeme.com/220920/p19#a220920p19)
+ - [Baby Yoda is a Tamagotchi now](https://www.theverge.com/2022/9/20/23362952/baby-yoda-grogu-tamagotchi-mandalorian-star-wars)
+ - [Nintendo is cutting off Facebook and Twitter logins soon](https://www.theverge.com/2022/9/20/23362845/nintendo-login-twitter-facebook-switch-image-sharing-wii-u-3ds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
