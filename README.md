@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The original Portal is getting a free ray-tracing update in November](https://www.theverge.com/2022/9/20/23363123/portal-pc-steam-valve-nvidia-rtx-ray-tracing-november-free-update-remix)
- - [Google is finally making its to-do list and reminder tools work together](https://www.theverge.com/2022/9/20/23362711/google-tasks-hub-reminders-assistant-calendar-management)
- - [Andor is a sobering reflection on the human costs of Star Wars’ never-ending conflicts](https://www.theverge.com/2022/9/20/23353104/andor-star-wars-review-disney-plus)<!-- TECH:END -->
+ - [How to use Apple Mail&#39;s Remind Me and Follow Up features](https://appleinsider.com/inside/ios-16/tips/how-to-use-apple-mails-remind-me-and-follow-up-features?utm_medium=rss)
+ - [Hulu’s Hellraiser reboot is full of puzzles and promise in new trailer](https://www.theverge.com/2022/9/20/23363286/hulu-hellraiser-trailer-jamie-clayton)
+ - [Here’s how Microsoft is rolling out its first major update to Windows 11](https://www.theverge.com/2022/9/20/23362662/microsoft-windows-11-2022-update-release-download)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
