@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No, No, Not Like This](http://9gag.com/gag/aVbz1Q2)
- - ⏩ [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
- - 👉 [Another moron driving](http://9gag.com/gag/aqe9d5L)<!-- MEMES:END -->
+ - 💣 [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
+ - ⏩ [The other side of the story is not fun and games. These ideas are damaging lives.](http://9gag.com/gag/aEqvNve)
+ - 👉 [Little earthquake in Mexico Set 19th2022](http://9gag.com/gag/aqe9d4Y)<!-- MEMES:END -->
 
 ---
 
