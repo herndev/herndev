@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tune in to our Monopoly Enjoyment Stream](https://www.polygon.com/videos/23362232/monopoly-stream)
- - [Coming to Xbox Game Pass: Deathloop, Slime Rancher 2, Valheim, Grounded’s Full Release, and More](https://news.xbox.com/en-us/2022/09/20/game-pass-september-2022-wave-2-announce/)
- - [Looks like Sackboy: A Big Adventure is all but confirmed for PC](https://www.pcgamer.com/looks-like-sackboy-a-big-adventure-is-all-but-confirmed-for-pc)<!-- GAME:END -->
+ - [Everything coming in Deathloop’s big Goldenloop update](https://www.polygon.com/deathloop-guide-walkthrough/23361730/deathloop-goldenloop-update-new-content-fugue-halps-prototype-masquerade-trinket)
+ - [Our favorite queer comics creators recommend the best queer indie comics](https://www.polygon.com/23355149/best-queer-comics-recommendations)
+ - [Tune in to our Monopoly Enjoyment Stream](https://www.polygon.com/videos/23362232/monopoly-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
