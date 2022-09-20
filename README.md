@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You got this](http://9gag.com/gag/ago3KDW)
+ - 💣 [No, No, Not Like This](http://9gag.com/gag/aVbz1Q2)
  - ⏩ [Natasha Leggero roasting.](http://9gag.com/gag/aoKEdYA)
- - 👉 [Say that again and again and again, till the dumb ones in the back understand it.](http://9gag.com/gag/ago3Kbg)<!-- MEMES:END -->
+ - 👉 [Another moron driving](http://9gag.com/gag/aqe9d5L)<!-- MEMES:END -->
 
 ---
 
