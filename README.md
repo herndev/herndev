@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The erasure of women](http://9gag.com/gag/ago3pQW)
+ - 💣 [You get what you f*ckin deserve, Iran protests](http://9gag.com/gag/a6qmgqL)
  - ⏩ [Anya !!!!](http://9gag.com/gag/a5Xe9wo)
  - 👉 [Super exciting](http://9gag.com/gag/aOxKOrv)<!-- MEMES:END -->
 
