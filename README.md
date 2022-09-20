@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brave Hong Kongers openly defy Beijing by singing the banned protest anthem \u201cglory to Hong Kong\u201d yesterday](http://9gag.com/gag/aVbz972)
- - ⏩ [The erasure of women](http://9gag.com/gag/ago3pQW)
- - 👉 [Anya !!!!](http://9gag.com/gag/a5Xe9wo)<!-- MEMES:END -->
+ - 💣 [The erasure of women](http://9gag.com/gag/ago3pQW)
+ - ⏩ [Anya !!!!](http://9gag.com/gag/a5Xe9wo)
+ - 👉 [Super exciting](http://9gag.com/gag/aOxKOrv)<!-- MEMES:END -->
 
 ---
 
