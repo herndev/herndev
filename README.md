@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Tesla Megapack battery is on fire at a PG&amp;E facility in California](https://www.theverge.com/2022/9/20/23363345/tesla-megapack-battery-fire-california-monterey-pg-and-e)
- - [Motorola’s new budget phones look surprisingly nice](https://www.theverge.com/2022/9/20/23363323/motorola-e22-e22i-budget-phone-design-specs-price-screen)
- - [American Airlines reveals data breach — two months after it was discovered](https://www.theverge.com/2022/9/20/23363257/american-airlines-data-breach-disclosure-phishing)<!-- TECH:END -->
+ - [T-Mobile Could Be Launching a Credit Card     - CNET](https://www.cnet.com/personal-finance/credit-cards/t-mobile-could-be-launching-a-credit-card/#ftag=CAD590a51e)
+ - [Twitter&#39;s Legal Battle Against Musk Over $44B Deal Heats Up: What You Need to Know     - CNET](https://www.cnet.com/news/social-media/twitters-legal-battle-against-musk-over-44b-deal-heats-up-what-you-need-to-know/#ftag=CAD590a51e)
+ - [Apple makes the battery indicator better in new iOS 16.1 beta](https://www.theverge.com/2022/9/20/23363513/apple-ios-16-1-beta-2-battery-indicator)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
