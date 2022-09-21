@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just In: Putin declared `Partial Mobilization`. `Partial` probably means that only some body parts of the mobilized civilians return to Russia.](http://9gag.com/gag/a4oK00y)
- - ⏩ [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)
- - 👉 [Controversial but true.](http://9gag.com/gag/amANZVo)<!-- MEMES:END -->
+ - 💣 [Certified woman moment](http://9gag.com/gag/aqe9E0j)
+ - ⏩ [This is Aimee Bock. She lied about feeding 5000 children each day during the pandemic and stole about 240 million dollars with `Feeding Our Future`.](http://9gag.com/gag/aKEwMz3)
+ - 👉 [Let&#39;s confuse the kids](http://9gag.com/gag/aNwrE10)<!-- MEMES:END -->
 
 ---
 
