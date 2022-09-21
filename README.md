@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft announces a Surface event for October 12th](https://www.theverge.com/2022/9/21/23365300/microsoft-surface-event-date-time-october-12th)
- - [Sources: Meta aims to cut costs by 10%+ within a few months and has quietly nudged out a significant number of employees including by reorganizing departments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220921/p34#a220921p34)
- - [Ted Lasso and Team AFC Richmond to Appear in FIFA 23     - CNET](https://www.cnet.com/tech/gaming/ted-lasso-and-team-afc-richmond-to-appear-in-fifa-23/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PITAKA&#39;s MagSafe cases for iPhone 14 are world&#39;s thinnest, lightest](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
+ - [How to automatically change your Slack status when you have a meeting](https://www.theverge.com/23363573/slack-status-google-calendar-automatically-change-meeting)
+ - [OpenAI open sources Whisper, a speech recognition system that was trained on 680K hours of &quot;multilingual and multitask supervised data collected from the web&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220921/p35#a220921p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
