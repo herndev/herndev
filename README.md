@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)
- - [Twitch promises to ban streams of unlicensed gambling sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)
- - [The world&#39;s first trombone rhythm game is instantly a GOTY contender](https://www.pcgamer.com/the-worlds-first-trombone-rhythm-game-is-instantly-a-goty-contender)<!-- GAME:END -->
+ - [Play The Trombone Game, It&#39;s Great](https://kotaku.com/trombone-champ-steam-pc-mac-rhythm-game-impressions-1849561097)
+ - [BTS is coming to Cookie Run: Kingdom to perform for all your sweeties](https://www.polygon.com/23363591/bts-cookie-run-kingdom-concert-k-pop-rm-v-jimin-suga-jin-jung-kook-j-hope-devsisters)
+ - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
