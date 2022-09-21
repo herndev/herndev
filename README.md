@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PITAKA&#39;s MagSafe cases for iPhone 14 are world&#39;s thinnest, lightest](https://appleinsider.com/articles/22/09/20/pitakas-magez-case-3-line-offers-a-near-case-less-feel-for-your-iphone-14?utm_medium=rss)
- - [How to automatically change your Slack status when you have a meeting](https://www.theverge.com/23363573/slack-status-google-calendar-automatically-change-meeting)
- - [OpenAI open sources Whisper, a speech recognition system that was trained on 680K hours of &quot;multilingual and multitask supervised data collected from the web&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220921/p35#a220921p35)<!-- TECH:END -->
+ - [Microsoft is testing a way to mute the Xbox startup sound](https://www.theverge.com/2022/9/21/23365465/xbox-startup-sound-series-x-s-mute-turn-off-insider-preview)
+ - [Florida&#39;s attorney general asks the US Supreme Court whether the First Amendment prohibits states from regulating how social media companies moderate content &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220921/p38#a220921p38)
+ - [How to use Action mode on the iPhone 14 and iPhone 14 Pro](https://www.theverge.com/23365409/action-mode-iphone-14-pro-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
