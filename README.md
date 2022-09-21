@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well tuned body clocks unite](http://9gag.com/gag/aVbz5mK)
- - ⏩ [Fitting shape](http://9gag.com/gag/aNwr5wv)
- - 👉 [Thank God I am Swiss](http://9gag.com/gag/a2KzpzO)<!-- MEMES:END -->
+ - 💣 [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)
+ - ⏩ [Shhh](http://9gag.com/gag/a8qLOx6)
+ - 👉 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)<!-- MEMES:END -->
 
 ---
 
