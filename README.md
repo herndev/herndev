@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Splatoon 3 gear and ability guide for beginners](https://www.polygon.com/guides/23363765/splatoon-3-upgrade-gear-guide-ability-chart-chunks-farm-fast-star-power)
- - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)
- - [There is no song that cannot be improved by Trombone Champ](https://www.polygon.com/23365828/trombone-champ-memes-goty-genius-toot-toot-tooooooooooooot)<!-- GAME:END -->
+ - [$300 For A Cloud-Only Gaming Handheld Sure Is Optimistic, Logitech](https://kotaku.com/game-pass-streaming-steam-deck-switch-g-cloud-logitech-1849565755)
+ - [Streamer apologizes for leaking game reveals, says he did it for clout and &#39;the buzz&#39;](https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz)
+ - [Project Cars 2 is gone from Steam forever](https://www.pcgamer.com/project-cars-2-is-gone-from-steam-forever)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
