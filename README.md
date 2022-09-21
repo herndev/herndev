@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce announces Genie, a new real-time data integration model for the entire Salesforce platform that it claims will lead to better customer experiences &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220920/p50#a220920p50)
- - [Nvidia unveils RTX 6000, its new flagship GPU for the professional visualization market, offering up to 2x-4x the performance of the previous gen RTX A6000 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220920/p49#a220920p49)
- - [Salesforce unveils Net Zero Marketplace that aggregates offset providers and rating agencies for carbon credit purchases, launching in October in the US &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220920/p48#a220920p48)<!-- TECH:END -->
+ - [Tel Aviv-based 4M Analytics, which aims to be the Google Maps of the US&#39; underground utility infrastructure, raised $30M, bringing its Series A total to $45M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220921/p1#a220921p1)
+ - [20,000,000,000,000,000 Ants Inhabit the Earth, Scientists Estimate     - CNET](https://www.cnet.com/science/biology/20-quadrillion-ants-inhabit-the-earth-scientists-estimate/#ftag=CAD590a51e)
+ - [WhatsApp announces an &quot;expanded partnership&quot; with Salesforce to let businesses manage their WhatsApp conversations with customers from the Salesforce platform &lpar;Anumeha Chaturvedi/The Economic Times&rpar;](http://www.techmeme.com/220920/p52#a220920p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
