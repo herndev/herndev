@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The butcher visits the multiverse](http://9gag.com/gag/aNwrqLK)
- - ⏩ [Ahead of it&#39;s time.](http://9gag.com/gag/a9qbGQj)
- - 👉 [Take it or leave it](http://9gag.com/gag/ay27KVM)<!-- MEMES:END -->
+ - 💣 [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)
+ - ⏩ [Logic](http://9gag.com/gag/az2g3Zm)
+ - 👉 [I\u00b4ll just leave it here.](http://9gag.com/gag/ajVYoLq)<!-- MEMES:END -->
 
 ---
 
