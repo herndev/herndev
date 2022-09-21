@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
- - ⏩ [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
+ - 💣 [No more fear in Iran! Proud woman make it possible!](http://9gag.com/gag/aPgwqOg)
+ - ⏩ [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
  - 👉 [Controversial but true.](http://9gag.com/gag/amANZVo)<!-- MEMES:END -->
 
 ---
