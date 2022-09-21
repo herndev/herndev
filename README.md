@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Series 8 Wants to Be Your Lifeline](https://www.wired.com/review/apple-watch-series-8-and-apple-watch-se/)
- - [The Sad Clown Joke That Became a Beloved Meme](https://www.wired.com/story/great-clown-pagliacci-internet-meme/)
- - [It’s Time for Cities to Ditch Delivery Trucks—for Cargo Bikes](https://www.wired.com/story/cargo-bikes-greener-quicker/)<!-- TECH:END -->
+ - [An analysis of Twitch streams from October 2020 to August 2022 shows Twitch&#39;s moderation tools failed to prevent children streaming and adults grooming them &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220921/p13#a220921p13)
+ - [TikTok plans to ban all political fundraising on its platform](https://www.theverge.com/2022/9/21/23364693/tiktok-midterms-elections-donation-ban-fundraise-verification)
+ - [Designers worry Adobe won’t let Figma flourish](https://www.theverge.com/2022/9/21/23363188/adobe-destroy-figma-designers-ux-ui-creative-cloud)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
