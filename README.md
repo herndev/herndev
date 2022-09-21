@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [A New York judge orders Tether to produce documents related to the backing of USDT in a lawsuit claiming Tether conspired to issue USDT to pump bitcoin prices &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220921/p5#a220921p5)
- - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $20M Series A led by Initialized Capital at a $90M post-money valuation &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220921/p4#a220921p4)
- - [A follow-up to the Samsung Wireless Charger Trio could be in the works](https://www.androidauthority.com/samsung-wireless-charger-hub-3211196/)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episodes 1, 2 and 3 Recap: A Star Wars Hero&#39;s Rebel Dawn     - CNET](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-a-star-wars-heros-rebel-dawn/#ftag=CAD590a51e)
+ - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $20M Series A led by Initialized Capital at a $90M post-money valuation &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220921/p4#a220921p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
