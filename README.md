@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)
- - ⏩ [Perkele](http://9gag.com/gag/aREwq47)
- - 👉 [Just ordinary asian mother](http://9gag.com/gag/abvXno9)<!-- MEMES:END -->
+ - 💣 [British SAS engaging taliban during the battle of Qala-i-Jangi - Afghanistan 2001](http://9gag.com/gag/abvXw3p)
+ - ⏩ [Rockstars did a Watchdogs on him](http://9gag.com/gag/aBdRMeO)
+ - 👉 [Lily Collins](http://9gag.com/gag/aGEYv0z)<!-- MEMES:END -->
 
 ---
 
