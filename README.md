@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Believe: An Uncanny Ted Lasso Is Coming To FIFA 23](https://kotaku.com/fifa-23-ted-lasso-cameo-jason-sudeikis-afc-richmond-1849565109)
- - [GTA VI’s Vice City Is Already Being Mapped Using MS Paint, Google Earth, And Math](https://kotaku.com/gta-6-vi-vice-city-leaks-map-mapping-rockstar-1849565027)
- - [The biggest leaks in PC gaming history](https://www.pcgamer.com/biggest-gaming-leaks)<!-- GAME:END -->
+ - [Splatoon 3 gear and ability guide for beginners](https://www.polygon.com/guides/23363765/splatoon-3-upgrade-gear-guide-ability-chart-chunks-farm-fast-star-power)
+ - [The best left-handed mouse for gaming in 2022](https://www.pcgamer.com/the-best-left-handed-mouse-for-gaming-for-2019)
+ - [There is no song that cannot be improved by Trombone Champ](https://www.polygon.com/23365828/trombone-champ-memes-goty-genius-toot-toot-tooooooooooooot)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
