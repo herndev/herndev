@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Twitch streams from October 2020 to August 2022 shows Twitch&#39;s moderation tools failed to prevent children streaming and adults grooming them &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220921/p13#a220921p13)
- - [TikTok plans to ban all political fundraising on its platform](https://www.theverge.com/2022/9/21/23364693/tiktok-midterms-elections-donation-ban-fundraise-verification)
- - [Designers worry Adobe won’t let Figma flourish](https://www.theverge.com/2022/9/21/23363188/adobe-destroy-figma-designers-ux-ui-creative-cloud)<!-- TECH:END -->
+ - [Apple Watch Ultra review: comfortable, good battery life, action button, and durable, but no offline maps, more aspirational than hardcore, and too big for some &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220921/p18#a220921p18)
+ - [Volvo’s EX90 electric SUV will have laser sensors and cameras that can detect drunk driving](https://www.theverge.com/2022/9/21/23363673/volvo-ex90-electric-suv-lidar-sensors-drunk-driving)
+ - [SoftBank CEO Masayoshi Son plans to visit Seoul for the first time in three years &quot;to discuss a strategic alliance for Arm with Samsung&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220921/p17#a220921p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
