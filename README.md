@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Squirrel makes a house by the window and brings her family into it for the winter](http://9gag.com/gag/a9qb0P6)
- - ⏩ [It&#39;s a talent of mine](http://9gag.com/gag/aeQjwZQ)
- - 👉 [If they don\u2019t believe it, why should I?](http://9gag.com/gag/aZDbXg9)<!-- MEMES:END -->
+ - 💣 [Well tuned body clocks unite](http://9gag.com/gag/aVbz5mK)
+ - ⏩ [Fitting shape](http://9gag.com/gag/aNwr5wv)
+ - 👉 [Thank God I am Swiss](http://9gag.com/gag/a2KzpzO)<!-- MEMES:END -->
 
 ---
 
