@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play The Trombone Game, It&#39;s Great](https://kotaku.com/trombone-champ-steam-pc-mac-rhythm-game-impressions-1849561097)
- - [BTS is coming to Cookie Run: Kingdom to perform for all your sweeties](https://www.polygon.com/23363591/bts-cookie-run-kingdom-concert-k-pop-rm-v-jimin-suga-jin-jung-kook-j-hope-devsisters)
- - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)<!-- GAME:END -->
+ - [Star Citizen Has Now Raised Over Half A Billion Dollars](https://kotaku.com/star-citizen-funding-money-raised-half-billion-rsi-1849561335)
+ - [Finally, a keyboard glitter mod that doesn&#39;t hold back](https://www.pcgamer.com/finally-a-keyboard-glitter-mod-that-doesnt-hold-back)
+ - [Watch a trailer for PUBG owner Krafton&#39;s expensive-looking Korean fantasy game](https://www.pcgamer.com/watch-a-trailer-for-pubg-owner-kraftons-expensive-looking-korean-fantasy-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
