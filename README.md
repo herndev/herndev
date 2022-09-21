@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shhh](http://9gag.com/gag/a8qLOx6)
- - ⏩ [Fitting shape](http://9gag.com/gag/aNwr5wv)
- - 👉 [I like my peace if mind.](http://9gag.com/gag/ajVYwG0)<!-- MEMES:END -->
+ - 💣 [It&#39;s a talent of mine](http://9gag.com/gag/aeQjwZQ)
+ - ⏩ [I like my peace if mind.](http://9gag.com/gag/ajVYwG0)
+ - 👉 [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)<!-- MEMES:END -->
 
 ---
 
