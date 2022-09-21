@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The creation of Tunic’s invaluable in-game manual](https://blog.playstation.com/2022/09/21/the-creation-of-tunics-invaluable-in-game-manual/)
- - [No Place for Bravery’s Sekiro-esque combat isn’t punishing — it’s unfair](https://www.polygon.com/reviews/23363733/no-place-for-bravery-review-action-rpg-2d-sekiro-combat-platforms-release-date-pc-switch)
- - [GTA Publisher Take-Two&#39;s Awful Week Gets Worse With Another Disastrous Hack](https://kotaku.com/2k-support-take-two-hack-leak-gta6-nba-2k23-phishing-1849562111)<!-- GAME:END -->
+ - [The Xbox September Update Rolls Out Today](https://news.xbox.com/en-us/2022/09/21/xbox-september-update-rolls-out-today/)
+ - [PGA Tour 2K23’s career mode gets more RPG-like](https://www.polygon.com/23364913/pga-tour-2k23-preview-release-date-mycareer-skills)
+ - [Crunchyroll’s Mob Psycho 100 season 3 recasting strikes a nerve with the anime world](https://www.polygon.com/23364929/crunchyroll-mob-psycho-100-season-3-recasting-union-kyle-mccarley)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
