@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 459 answer and hint: Wednesday, September 21](https://www.pcgamer.com/todays-wordle-459-answer-hint)
  - [The best visual novel of 2017 is getting a sequel](https://www.pcgamer.com/the-best-visual-novel-of-2017-is-getting-a-sequel)
- - [Nvidia&#39;s RTX 4090 4x performance claims aren&#39;t holding up on current games](https://www.pcgamer.com/nvidias-rtx-4090-4x-performance-claims-arent-holding-up-on-current-games)
- - [Nvidia&#39;s RTX 4090 targets 300+ FPS at 1440p with low latency for competitive shooters](https://www.pcgamer.com/nvidias-rtx-4090-targets-300-fps-at-1440p-with-low-latency-for-competitive-shooters)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 4090 4x performance claims aren&#39;t holding up on current games](https://www.pcgamer.com/nvidias-rtx-4090-4x-performance-claims-arent-holding-up-on-current-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
