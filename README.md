@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch will prohibit streaming unlicensed gambling sites with slot, roulette, or dice games starting October 18, amid fallout from a streamer&#39;s gambling scam &lpar;Ash Parrish/The Verge&rpar;](http://www.techmeme.com/220920/p45#a220920p45)
- - [Twitch to ban Stake.com streams and other unlicensed gambling content](https://www.theverge.com/2022/9/20/23364080/twitch-gambling-ban-stake-slots-roulette-dice-games)
- - [Lina Khan says she is &quot;extremely disturbed&quot; by, and looking closely at, Mudge&#39;s claims Twitter misled the FTC about its compliance with a 2011 consent decree &lpar;Chris Matthews/MarketWatch&rpar;](http://www.techmeme.com/220920/p44#a220920p44)<!-- TECH:END -->
+ - [Nvidia unveils RTX Remix, a free AI-assisted modding tool built on Omniverse that enables modders to quickly create RTX mods for classic games &lpar;Jorge Jimenez/PC Gamer&rpar;](http://www.techmeme.com/220920/p46#a220920p46)
+ - [Amazon&#39;s Acquisition of Roomba Maker iRobot Is Under FTC Scrutiny     - CNET](https://www.cnet.com/tech/amazons-roomba-acquisition-under-ftc-scrutiny/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-tv-shows-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
