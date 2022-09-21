@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)
- - [Nvidia has sprung the GPU pricing trap set by the pandemic years](https://www.pcgamer.com/nvidia-rtx-4090-price)
- - [Today&#39;s Wordle 459 answer and hint: Wednesday, September 21](https://www.pcgamer.com/todays-wordle-459-answer-hint)<!-- GAME:END -->
+ - [What’s really happening in the Star Wars timeline when Andor starts](https://www.polygon.com/star-wars/23356922/andor-star-wars-timeline-movies-prequel-rebel-alliance)
+ - [Level up your gaming with O2&#39;s game-changing Switch Up](https://www.pcgamer.com/level-up-your-gaming-with-o2s-game-changing-switch-up)
+ - [Ted Lasso&#39;s going to be in FIFA 23](https://www.pcgamer.com/ted-lassos-going-to-be-in-fifa-23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
