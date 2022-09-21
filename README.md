@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2K, owned by Take Two Interactive and publisher of Bioshock, Xcom, and popular sports games, says its help desk was hacked and sent customers links to malware &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/220921/p41#a220921p41)
- - [Google’s making it even easier to remove your personal info from search](https://www.theverge.com/2022/9/21/23365349/google-results-about-you-tool-personal-info-search)
- - [How to customize your iPhone’s app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change)<!-- TECH:END -->
+ - [Framework’s new Chromebook is upgradable and customizable](https://www.theverge.com/2022/9/21/23363862/framework-laptop-chromebook-edition-laptop-design-specs-price-release)
+ - [Instagram is working on a feature to protect users from receiving unsolicited nude photos in their DMs; Meta says the company won&#39;t be able to view the messages &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/220921/p43#a220921p43)
+ - [Microsoft President Brad Smith says the company can&#39;t &quot;use what others might consider censorship as a tactic&quot; regarding labelling content that seems to be false &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/220921/p42#a220921p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
