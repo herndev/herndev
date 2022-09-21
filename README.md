@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s really happening in the Star Wars timeline when Andor starts](https://www.polygon.com/star-wars/23356922/andor-star-wars-timeline-movies-prequel-rebel-alliance)
- - [Level up your gaming with O2&#39;s game-changing Switch Up](https://www.pcgamer.com/level-up-your-gaming-with-o2s-game-changing-switch-up)
- - [Ted Lasso&#39;s going to be in FIFA 23](https://www.pcgamer.com/ted-lassos-going-to-be-in-fifa-23)<!-- GAME:END -->
+ - [Valorant is inching closer to telling players they&#39;re bad people](https://www.pcgamer.com/valorant-is-inching-closer-to-telling-players-theyre-bad-people)
+ - [The Texas Chain Saw Massacre game is a desperate scramble for survival](https://www.polygon.com/23361235/texas-chain-saw-massacre-gameplay-preview-family-victims)
+ - [Devs show off how bad early game builds look after moans about GTA 6&#39;s visuals](https://www.pcgamer.com/devs-show-off-how-bad-early-game-builds-look-after-moans-about-gta-6s-visuals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
