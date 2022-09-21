@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No more fear in Iran! Proud woman make it possible!](http://9gag.com/gag/aPgwqOg)
- - ⏩ [Basically it is what I understood from the internet](http://9gag.com/gag/a3ZPOx3)
+ - 💣 [Just In: Putin declared `Partial Mobilization`. `Partial` probably means that only some body parts of the mobilized civilians return to Russia.](http://9gag.com/gag/a4oK00y)
+ - ⏩ [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)
  - 👉 [Controversial but true.](http://9gag.com/gag/amANZVo)<!-- MEMES:END -->
 
 ---
