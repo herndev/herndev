@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch to update gambling policy in October](https://www.polygon.com/23364084/twitch-gambling-policy-update-official-statement)
- - [2K warns customers: Don&#39;t trust recent support emails, don&#39;t click on links](https://www.pcgamer.com/2K-games-support-hack)
- - [Overwatch 2’s lead hero designer has left Blizzard](https://www.polygon.com/23363932/overwatch-2-lead-character-designer-leaves-activision-blizzard)<!-- GAME:END -->
+ - [Other Developers Share Footage Of What Their Games Looked Like Early In Development](https://kotaku.com/control-sea-of-thieves-cult-lamb-development-early-clip-1849560888)
+ - [Twitch promises to ban streams of unlicensed gambling sites](https://www.pcgamer.com/twitch-promises-to-ban-streams-of-unlicensed-gambling-sites)
+ - [The world&#39;s first trombone rhythm game is instantly a GOTY contender](https://www.pcgamer.com/the-worlds-first-trombone-rhythm-game-is-instantly-a-goty-contender)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
