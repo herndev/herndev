@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)
- - [A profile of Chainalysis and its work with governments and law enforcement to trace crypto transactions; the NY-based company has 700+ clients in 70+ countries &lpar;Tom Redmond/Bloomberg&rpar;](http://www.techmeme.com/220921/p23#a220921p23)
- - [Win a mystery bag of free stuff from The Verge and The Strategist](https://www.theverge.com/23351542/mystery-bag-sweepstakes-strategist-tech-lifestyle-gadgets)<!-- TECH:END -->
+ - [Daily deals Sept. 21: $110 off Apple Studio Display, AirPods Pro 2 for $239, $70 off eufy smart lock D20, more](https://appleinsider.com/articles/22/09/21/daily-deals-sept-21-110-off-apple-studio-display-airpods-pro-2-for-239-70-off-eufy-smart-lock-d20-more?utm_medium=rss)
+ - [Kia plans to build EVs in the US to comply with new federal tax credit](https://www.theverge.com/2022/9/21/23364927/kia-ev-manufacture-us-tax-credit-hyundai)
+ - [DC-based Pie Insurance, which uses data and analytics to help SMBs get insurance digitally, raised a $315M Series D, bringing its total funding to $615M+ &lpar;Ana Luc&amp;iacute;a Murillo/Washington ...&rpar;](http://www.techmeme.com/220921/p28#a220921p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
