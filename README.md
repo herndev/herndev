@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Logitech’s G Cloud Gaming Handheld arrives in October for $349.99](https://www.theverge.com/2022/9/21/23364619/logitech-g-cloud-gaming-handheld-price-release-date-specs)
- - [Logitech’s new key light could almost pass for a regular desk lamp](https://www.theverge.com/2022/9/21/23362650/logitech-litra-beam-key-light-blue-sona-xlr-microphone-price)
- - [The new Astro A30 headset can pull in audio from three gadgets at once](https://www.theverge.com/2022/9/21/23361038/logitech-astro-a30-wireless-gaming-headset-features-price)<!-- TECH:END -->
+ - [Microsoft announces a Surface event for October 12th](https://www.theverge.com/2022/9/21/23365300/microsoft-surface-event-date-time-october-12th)
+ - [Sources: Meta aims to cut costs by 10%+ within a few months and has quietly nudged out a significant number of employees including by reorganizing departments &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/220921/p34#a220921p34)
+ - [Ted Lasso and Team AFC Richmond to Appear in FIFA 23     - CNET](https://www.cnet.com/tech/gaming/ted-lasso-and-team-afc-richmond-to-appear-in-fifa-23/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
