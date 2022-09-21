@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s where to save on Apple&#39;s brand-new AirPods Pro 2](https://appleinsider.com/articles/22/09/21/heres-where-to-save-on-apples-brand-new-airpods-pro-2?utm_medium=rss)
- - [Meta is testing letting average users inform its speech policies, which started with a pilot from February-April 2022 on &quot;problematic&quot; climate info on Facebook &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/220920/p47#a220920p47)
- - [The Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-tv-shows-to-binge-watch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Salesforce announces Genie, a new real-time data integration model for the entire Salesforce platform that it claims will lead to better customer experiences &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/220920/p50#a220920p50)
+ - [Nvidia unveils RTX 6000, its new flagship GPU for the professional visualization market, offering up to 2x-4x the performance of the previous gen RTX A6000 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/220920/p49#a220920p49)
+ - [Salesforce unveils Net Zero Marketplace that aggregates offset providers and rating agencies for carbon credit purchases, launching in October in the US &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220920/p48#a220920p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
