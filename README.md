@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Framework’s new Chromebook is upgradable and customizable](https://www.theverge.com/2022/9/21/23363862/framework-laptop-chromebook-edition-laptop-design-specs-price-release)
- - [Instagram is working on a feature to protect users from receiving unsolicited nude photos in their DMs; Meta says the company won&#39;t be able to view the messages &lpar;Sheena Vasani/The Verge&rpar;](http://www.techmeme.com/220921/p43#a220921p43)
- - [Microsoft President Brad Smith says the company can&#39;t &quot;use what others might consider censorship as a tactic&quot; regarding labelling content that seems to be false &lpar;Margi Murphy/Bloomberg&rpar;](http://www.techmeme.com/220921/p42#a220921p42)<!-- TECH:END -->
+ - [Larry Page’s flying car startup Kitty Hawk is shutting down](https://www.theverge.com/2022/9/21/23365557/kitty-hawk-larry-page-electric-vtol-shutdown)
+ - [NASA loads Artemis I rocket with fuel in major troubleshooting test](https://www.theverge.com/2022/9/21/23365231/nasa-artemis-1-rocket-liquid-hydrogen-fuel-test)
+ - [A Texas jury says Meta must pay walkie-talkie app maker Voxer a royalty and $174.5M+ in damages for violating two patents with Facebook Live and Instagram Live &lpar;Bloomberg Law&rpar;](http://www.techmeme.com/220921/p44#a220921p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
