@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Flexport CEO Ryan Petersen on building a supply chain software business, managing large customers, scaling the company, the shipping industry, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/220921/p3#a220921p3)
  - [Adobe&#39;s Figma retention package may be the biggest since Facebook bought WhatsApp in 2014, exceeding deal packages from Auth0, LinkedIn, Mobileye, and Slack &lpar;Alex Konrad/Forbes&rpar;](http://www.techmeme.com/220921/p2#a220921p2)
- - [Tel Aviv-based 4M Analytics, which aims to be the Google Maps of the US&#39; underground utility infrastructure, raised $30M, bringing its Series A total to $45M &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220921/p1#a220921p1)
- - [20,000,000,000,000,000 Ants Inhabit the Earth, Scientists Estimate     - CNET](https://www.cnet.com/science/biology/20-quadrillion-ants-inhabit-the-earth-scientists-estimate/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Bachelorette&#39; Finale: An Explosive, Bizarre Ending for Tino and Rachel     - CNET](https://www.cnet.com/culture/entertainment/the-bachelorette-finale-an-explosive-bizarre-ending-for-tino-and-rachel/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
