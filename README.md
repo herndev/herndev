@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTuber wrecks car to test iPhone 14 crash detection](https://appleinsider.com/articles/22/09/21/youtuber-wrecks-car-to-test-iphone-14-crash-detection?utm_medium=rss)
- - [Microsoft Surface rumors heat up ahead of rumored October event](https://www.theverge.com/2022/9/21/23364645/microsoft-surface-pro-9-laptop-5-specs-rumors-price-intel-amd-arm-qualcomm)
- - [Google begins rolling out a &quot;results about you&quot; tool on its Android app to let users see and remove results that contain their personal identifiable information &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220921/p8#a220921p8)<!-- TECH:END -->
+ - [The Apple Watch Series 8 Wants to Be Your Lifeline](https://www.wired.com/review/apple-watch-series-8-and-apple-watch-se/)
+ - [The Sad Clown Joke That Became a Beloved Meme](https://www.wired.com/story/great-clown-pagliacci-internet-meme/)
+ - [It’s Time for Cities to Ditch Delivery Trucks—for Cargo Bikes](https://www.wired.com/story/cargo-bikes-greener-quicker/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
