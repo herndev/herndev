@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft is testing a way to mute the Xbox startup sound](https://www.theverge.com/2022/9/21/23365465/xbox-startup-sound-series-x-s-mute-turn-off-insider-preview)
- - [Florida&#39;s attorney general asks the US Supreme Court whether the First Amendment prohibits states from regulating how social media companies moderate content &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/220921/p38#a220921p38)
- - [How to use Action mode on the iPhone 14 and iPhone 14 Pro](https://www.theverge.com/23365409/action-mode-iphone-14-pro-how-to)<!-- TECH:END -->
+ - [A leaked presentation shows that Google is working on royalty-free media formats for HDR video and 3D audio, in an effort internally known as Project Caviar &lpar;Janko Roettgers/Protocol&rpar;](http://www.techmeme.com/220921/p39#a220921p39)
+ - [Sega Dreamcast’s iconic memory card is making a &lpar;fundraised&rpar; comeback](https://www.theverge.com/2022/9/21/23365268/sega-dreamcast-vmu-virtual-memory-unit-card-2022-fundraiser-indiegogo-console)
+ - [Logitech’s cloud gaming handheld finally has a price and release date](https://www.androidauthority.com/logitech-cloud-gaming-handheld-3211503/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
