@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Citizen Has Now Raised Over Half A Billion Dollars](https://kotaku.com/star-citizen-funding-money-raised-half-billion-rsi-1849561335)
- - [Finally, a keyboard glitter mod that doesn&#39;t hold back](https://www.pcgamer.com/finally-a-keyboard-glitter-mod-that-doesnt-hold-back)
- - [Watch a trailer for PUBG owner Krafton&#39;s expensive-looking Korean fantasy game](https://www.pcgamer.com/watch-a-trailer-for-pubg-owner-kraftons-expensive-looking-korean-fantasy-game)<!-- GAME:END -->
+ - [Nvidia&#39;s RTX 4090 targets 300+ FPS at 1440p with low latency for competitive shooters](https://www.pcgamer.com/nvidias-rtx-4090-targets-300-fps-at-1440p-with-low-latency-for-competitive-shooters)
+ - [A 25-year-old MMO is finally getting sound](https://www.pcgamer.com/a-25-year-old-mmo-is-finally-getting-sound)
+ - [Star Citizen Has Now Raised Over Half A Billion Dollars](https://kotaku.com/star-citizen-funding-money-raised-half-billion-rsi-1849561335)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
