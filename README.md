@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [British SAS engaging taliban during the battle of Qala-i-Jangi - Afghanistan 2001](http://9gag.com/gag/abvXw3p)
- - ⏩ [Rockstars did a Watchdogs on him](http://9gag.com/gag/aBdRMeO)
- - 👉 [Lily Collins](http://9gag.com/gag/aGEYv0z)<!-- MEMES:END -->
+ - 💣 [BatmanVsSuperman Ghetto version](http://9gag.com/gag/az2gBej)
+ - ⏩ [One of you degenerate theme accounts](http://9gag.com/gag/a9qbZdo)
+ - 👉 [Saw 10](http://9gag.com/gag/amANd7d)<!-- MEMES:END -->
 
 ---
 
