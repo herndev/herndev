@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lena why?](http://9gag.com/gag/aXn03Kv)
- - ⏩ [Ever dream has a meaning. My dreams :](http://9gag.com/gag/amANKz6)
- - 👉 [A Simp Lord?](http://9gag.com/gag/a9qbDgj)<!-- MEMES:END -->
+ - 💣 [Sewage explosion](http://9gag.com/gag/aDYA9B9)
+ - ⏩ [How dare He identify as black when His skin is color more in brown](http://9gag.com/gag/a1Pvjg8)
+ - 👉 [Consequence](http://9gag.com/gag/a8qLnmV)<!-- MEMES:END -->
 
 ---
 
