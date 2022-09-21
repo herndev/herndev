@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New York judge orders Tether to produce documents related to the backing of USDT in a lawsuit claiming Tether conspired to issue USDT to pump bitcoin prices &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/220921/p5#a220921p5)
- - [&#39;Andor&#39; Episodes 1, 2 and 3 Recap: A Star Wars Hero&#39;s Rebel Dawn     - CNET](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-a-star-wars-heros-rebel-dawn/#ftag=CAD590a51e)
- - [Pano AI, which uses AI and computer vision to offer active wildfire detection, raised a $20M Series A led by Initialized Capital at a $90M post-money valuation &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/220921/p4#a220921p4)<!-- TECH:END -->
+ - [YouTuber wrecks car to test iPhone 14 crash detection](https://appleinsider.com/articles/22/09/21/youtuber-wrecks-car-to-test-iphone-14-crash-detection?utm_medium=rss)
+ - [Microsoft Surface rumors heat up ahead of rumored October event](https://www.theverge.com/2022/9/21/23364645/microsoft-surface-pro-9-laptop-5-specs-rumors-price-intel-amd-arm-qualcomm)
+ - [Google begins rolling out a &quot;results about you&quot; tool on its Android app to let users see and remove results that contain their personal identifiable information &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220921/p8#a220921p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
