@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra review: comfortable, good battery life, action button, and durable, but no offline maps, more aspirational than hardcore, and too big for some &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/220921/p18#a220921p18)
- - [Volvo’s EX90 electric SUV will have laser sensors and cameras that can detect drunk driving](https://www.theverge.com/2022/9/21/23363673/volvo-ex90-electric-suv-lidar-sensors-drunk-driving)
- - [SoftBank CEO Masayoshi Son plans to visit Seoul for the first time in three years &quot;to discuss a strategic alliance for Arm with Samsung&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/220921/p17#a220921p17)<!-- TECH:END -->
+ - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)
+ - [A profile of Chainalysis and its work with governments and law enforcement to trace crypto transactions; the NY-based company has 700+ clients in 70+ countries &lpar;Tom Redmond/Bloomberg&rpar;](http://www.techmeme.com/220921/p23#a220921p23)
+ - [Win a mystery bag of free stuff from The Verge and The Strategist](https://www.theverge.com/23351542/mystery-bag-sweepstakes-strategist-tech-lifestyle-gadgets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
