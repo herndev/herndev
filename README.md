@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row CEO Sounds Kinda Disappointed About New Reboot&#39;s Sales](https://kotaku.com/saints-row-gta-rockstar-embracer-grand-theft-auto-5-1849564447)
- - [Beacon Pines is a cozy horror game that hides an emotional mystery beneath cute characters](https://www.pcgamer.com/beacon-pines-is-a-cozy-horror-game-that-hides-an-emotional-mystery-beneath-cute-characters)
- - [The ‘cheating’ scandal tearing the chess community apart, explained](https://www.polygon.com/23365326/chess-cheating-scandal-magnus-carlsen-hans-niemann-explained)<!-- GAME:END -->
+ - [Believe: An Uncanny Ted Lasso Is Coming To FIFA 23](https://kotaku.com/fifa-23-ted-lasso-cameo-jason-sudeikis-afc-richmond-1849565109)
+ - [GTA VI’s Vice City Is Already Being Mapped Using MS Paint, Google Earth, And Math](https://kotaku.com/gta-6-vi-vice-city-leaks-map-mapping-rockstar-1849565027)
+ - [The biggest leaks in PC gaming history](https://www.pcgamer.com/biggest-gaming-leaks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
