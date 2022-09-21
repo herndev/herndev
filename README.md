@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima&#39;s made a watch with NASA, and if you pay extra it comes with a wearable face mask](https://www.pcgamer.com/kojimas-made-a-watch-with-nasa-and-if-you-pay-extra-it-comes-with-a-wearable-face-mask)
- - [No normies allowed at the goth boarding school in Netflix’s Addams Family series](https://www.polygon.com/23365357/wednesday-addams-family-netflix-trailer-nevermore)
- - [Destiny 2 Cheat Developer Claims Bungie Hacked Them In New Lawsuit](https://kotaku.com/destiny-2-bungie-hacking-cheat-lawsuit-aimjunkies-1849564026)<!-- GAME:END -->
+ - [Saints Row CEO Sounds Kinda Disappointed About New Reboot&#39;s Sales](https://kotaku.com/saints-row-gta-rockstar-embracer-grand-theft-auto-5-1849564447)
+ - [Beacon Pines is a cozy horror game that hides an emotional mystery beneath cute characters](https://www.pcgamer.com/beacon-pines-is-a-cozy-horror-game-that-hides-an-emotional-mystery-beneath-cute-characters)
+ - [The ‘cheating’ scandal tearing the chess community apart, explained](https://www.polygon.com/23365326/chess-cheating-scandal-magnus-carlsen-hans-niemann-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
