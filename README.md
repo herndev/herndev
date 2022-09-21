@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Halo Infinite, Deathloop, and More with Xbox Cloud Gaming on the Logitech G CLOUD Handheld](https://news.xbox.com/en-us/2022/09/21/play-halo-infinite-deathloop-and-more-with-xbox-cloud-gaming-on-the-logitech-g-cloud-handheld/)
- - [Holy cow, Dark Souls 3 PC servers are offline again](https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again)
- - [The DHS is spending $700,000 on researching counterterrorism in games](https://www.pcgamer.com/the-dhs-is-spending-dollar700000-on-researching-counterterrorism-in-games)<!-- GAME:END -->
+ - [See What’s New in Fortnite Chapter 3 Season 4: Paradise](https://news.xbox.com/en-us/2022/09/21/see-whats-new-in-fortnite-chapter-3-season-4-paradise/)
+ - [Here&#39;s where you can find every Mending Machine in Fortnite](https://www.pcgamer.com/fortnite-mending-machine-locations)
+ - [Andor’s first three episodes solve Star Wars’ villain problem](https://www.polygon.com/23351807/andor-star-wars-villain-syril-karn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
