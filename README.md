@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Nobody wants to work anymore? Nah man nobody wants to PAY anymore.`](http://9gag.com/gag/aDYArww)
- - ⏩ [Consequence](http://9gag.com/gag/a8qLnmV)
- - 👉 [Ever wondered how accurate the lost child age progression photos are? Check for yourself.](http://9gag.com/gag/aME2WvP)<!-- MEMES:END -->
+ - 💣 [London](http://9gag.com/gag/a9qbDy0)
+ - ⏩ [Wonder Woman at the gym](http://9gag.com/gag/armvd00)
+ - 👉 [Is it accurate for you ?](http://9gag.com/gag/aNwrq1r)<!-- MEMES:END -->
 
 ---
 
