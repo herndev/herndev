@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Sept. 21: $110 off Apple Studio Display, AirPods Pro 2 for $239, $70 off eufy smart lock D20, more](https://appleinsider.com/articles/22/09/21/daily-deals-sept-21-110-off-apple-studio-display-airpods-pro-2-for-239-70-off-eufy-smart-lock-d20-more?utm_medium=rss)
- - [Kia plans to build EVs in the US to comply with new federal tax credit](https://www.theverge.com/2022/9/21/23364927/kia-ev-manufacture-us-tax-credit-hyundai)
- - [DC-based Pie Insurance, which uses data and analytics to help SMBs get insurance digitally, raised a $315M Series D, bringing its total funding to $615M+ &lpar;Ana Luc&amp;iacute;a Murillo/Washington ...&rpar;](http://www.techmeme.com/220921/p28#a220921p28)<!-- TECH:END -->
+ - [Logitech’s G Cloud Gaming Handheld arrives in October for $349.99](https://www.theverge.com/2022/9/21/23364619/logitech-g-cloud-gaming-handheld-price-release-date-specs)
+ - [Logitech’s new key light could almost pass for a regular desk lamp](https://www.theverge.com/2022/9/21/23362650/logitech-litra-beam-key-light-blue-sona-xlr-microphone-price)
+ - [The new Astro A30 headset can pull in audio from three gadgets at once](https://www.theverge.com/2022/9/21/23361038/logitech-astro-a30-wireless-gaming-headset-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
