@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [London](http://9gag.com/gag/a9qbDy0)
- - ⏩ [Wonder Woman at the gym](http://9gag.com/gag/armvd00)
- - 👉 [Is it accurate for you ?](http://9gag.com/gag/aNwrq1r)<!-- MEMES:END -->
+ - 💣 [Explain what lagging is, without saying it:](http://9gag.com/gag/aVbzyDM)
+ - ⏩ [Perkele](http://9gag.com/gag/aREwq47)
+ - 👉 [Just ordinary asian mother](http://9gag.com/gag/abvXno9)<!-- MEMES:END -->
 
 ---
 
