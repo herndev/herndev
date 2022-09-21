@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Cheat Developer Claims Bungie Hacked Them In New Lawsuit](https://kotaku.com/destiny-2-bungie-hacking-cheat-lawsuit-aimjunkies-1849564026)
- - [Tackling Your First Ship in Hardspace: Shipbreaker](https://news.xbox.com/en-us/2022/09/21/tackling-your-first-ship-in-hardspace-shipbreaker/)
- - [See What’s New in Fortnite Chapter 3 Season 4: Paradise](https://news.xbox.com/en-us/2022/09/21/see-whats-new-in-fortnite-chapter-3-season-4-paradise/)<!-- GAME:END -->
+ - [Kojima&#39;s made a watch with NASA, and if you pay extra it comes with a wearable face mask](https://www.pcgamer.com/kojimas-made-a-watch-with-nasa-and-if-you-pay-extra-it-comes-with-a-wearable-face-mask)
+ - [No normies allowed at the goth boarding school in Netflix’s Addams Family series](https://www.polygon.com/23365357/wednesday-addams-family-netflix-trailer-nevermore)
+ - [Destiny 2 Cheat Developer Claims Bungie Hacked Them In New Lawsuit](https://kotaku.com/destiny-2-bungie-hacking-cheat-lawsuit-aimjunkies-1849564026)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
