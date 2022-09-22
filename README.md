@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Better Birth Is Possible](https://www.wired.com/story/ruha-benjamin-pregnancy-black-maternal-mortality/)
- - [Salt Lake City-based Zartico, which offers analytics and visualizations to government-affiliated tourism boards, raised a $20M Series A led by Arthur Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220922/p7#a220922p7)
- - [South Korea details more &quot;abnormal&quot; foreign exchange transactions, most related to crypto, bringing the total to $7.2B since June; 72% went to Hong Kong &lpar;Kyungji Cho/Bloomberg&rpar;](http://www.techmeme.com/220922/p6#a220922p6)<!-- TECH:END -->
+ - [Sources: seeking to increase profits, Coinbase hired Wall Street traders and explored using its own cash to trade crypto in 2021, including a $100M transaction &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p11#a220922p11)
+ - [Meta-commissioned report from BSR details censorship and allegations of &quot;unintentional bias&quot; against Palestinians during violence by Israeli forces in May 2021 &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220922/p10#a220922p10)
+ - [Swiss company Proton VPN becomes the latest to leave India over invasive new rules requiring customer data collection, following Surfshark, Nord, and others &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p9#a220922p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
