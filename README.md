@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 460 answer and hint: Thursday, September 22](https://www.pcgamer.com/todays-wordle-460-answer-hint)
- - [Dark fantasy strategy game Gord looks like a Diablo town manager](https://www.pcgamer.com/gord-first-gameplay-video)
- - [How Star Wars has depicted the rise of the Rebel Alliance through the years](https://www.polygon.com/star-wars/23356657/star-wars-rebellion-history)<!-- GAME:END -->
+ - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
+ - [Nvidia GeForce RTX 4080: Release date, price, and specs](https://www.pcgamer.com/nvidia-feforce-rtx-4080-specs-price-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
