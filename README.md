@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How fiber-optic cables helped researchers eavesdrop on whales](https://www.theverge.com/23365279/whales-fiber-optic-cables-eavesdrop-arctic)
- - [Apple releases AirPods Pro 2 first-day firmware update](https://appleinsider.com/articles/22/09/22/apple-releases-airpods-pro-2-first-day-firmware-update?utm_medium=rss)
- - [iOS 16 Mail can be crashed by a specific &#39;from&#39; field](https://appleinsider.com/articles/22/09/22/ios-16-mail-can-be-crashed-by-a-specific-from-field?utm_medium=rss)<!-- TECH:END -->
+ - [The Dynamic Island is already available on Android devices](https://www.theverge.com/2022/9/22/23366972/android-dynamic-island-spot-app-androidos)
+ - [Amazon Fire 7 review: a budget tablet for the basics](https://www.theverge.com/23353694/amazon-fire-7-tablet-fireos-review)
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
