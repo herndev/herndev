@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney, P&amp;G, LVMH, and other large companies have hired chief metaverse officers, seeking to capitalize on Web3, but questions remain about their usefulness &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/220922/p15#a220922p15)
- - [Lawns Are Dumb. But Ripping Them Out May Come With a Catch](https://www.wired.com/story/lawns-are-dumb-but-ripping-them-out-may-come-with-a-catch/)
- - [The ‘Surveillance Solutionism’ of Putting Cameras in NYC Subways](https://www.wired.com/story/the-surveillance-solutionism-of-putting-cameras-in-nyc-subways/)<!-- TECH:END -->
+ - [Nick Clegg says Meta could lift its ban on Donald Trump&#39;s accounts in January 2023, when the current suspension expires, after it consults with experts &lpar;Gina Chon/Semafor Media&rpar;](http://www.techmeme.com/220922/p18#a220922p18)
+ - [Apple AirPods Pro &lpar;second-gen&rpar; review: improved ANC, sound quality, and clarity, but an unchanged design, Lightning connector, and no major software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220922/p17#a220922p17)
+ - [Hacking gang sends ransom demand to LA school district](https://www.theverge.com/2022/9/22/23366602/hacking-gang-la-school-district-ransom-vice-society)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
