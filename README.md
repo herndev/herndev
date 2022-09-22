@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why &#39;90s cult film fans will love Serial Cleaners](https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners)
- - [She-Hulk’s new cameo nods to the greatest Avengers team of all time](https://www.polygon.com/23366667/she-hulk-mr-immortal-great-lakes-avengers-marvel)
- - [She Hulk needs her own Ace Attorney game](https://www.pcgamer.com/she-hulk-needs-her-own-ace-attorney-game)<!-- GAME:END -->
+ - [To evolve, Law &amp; Order had to axe one of its long-running characters](https://www.polygon.com/23361720/law-order-svu-amanda-collins-kelli-giddish-cast)
+ - [Square Enix’s Babylon’s Fall was such a misfire, GameStop is giving it away for free](https://www.polygon.com/23367080/bablyon-fall-square-enix-offline-gamestop-free)
+ - [Logitech G Pro Racing Wheel and Pedals](https://www.pcgamer.com/logitech-g-pro-racing-wheel-pedals-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
