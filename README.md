@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wise words by a wise man](http://9gag.com/gag/ap9EMN9)
- - ⏩ [Moved to Canada 5 months ago, this is my new beginning. Installing 4g/5g antennas and sucking dicks up to 100 meters high and I love it . Life finds a way of working out anons. I promise](http://9gag.com/gag/a6qmRmR)
- - 👉 [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)<!-- MEMES:END -->
+ - 💣 [Overclocking the new 4090](http://9gag.com/gag/ay27wZ8)
+ - ⏩ [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 👉 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
 
 ---
 
