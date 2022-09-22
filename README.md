@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Borders and walls](http://9gag.com/gag/aGEYQvK)
- - ⏩ [My anniversary. 10 years of this shit. I hate you all.](http://9gag.com/gag/a9qbgGo)
- - 👉 [So i have found a friend](http://9gag.com/gag/awZ02gD)<!-- MEMES:END -->
+ - 💣 [Logic](http://9gag.com/gag/az2g3Zm)
+ - ⏩ [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)
+ - 👉 [Good thing i saved it before it disappeared, dont let this die, lets trigger some fanatics and spam the shit out of it shall we?](http://9gag.com/gag/aoKEr1w)<!-- MEMES:END -->
 
 ---
 
