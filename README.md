@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spain fines food delivery app Glovo &amp;euro;79M for allegedly denying 10,600+ riders a labor contract since the country&#39;s &quot;riders law&quot; came into effect in August 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220922/p1#a220922p1)
- - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/22/23365405/automatic-emergency-braking-test-t-bone-intersection-aaa)
- - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)<!-- TECH:END -->
+ - [What apps, notifications &amp; alerts utilize Dynamic Island on iPhone 14 Pro](https://appleinsider.com/articles/22/09/21/what-apps-notifications-alerts-utilize-dynamic-island-on-iphone-14-pro?utm_medium=rss)
+ - [PolicyLink study: California rideshare drivers make a net median of $6.20/hour after costs and could make an additional ~$10.50/hour if classified as employees &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/220922/p2#a220922p2)
+ - [Spain fines food delivery app Glovo &amp;euro;79M for allegedly denying 10,600+ riders a labor contract since the country&#39;s &quot;riders law&quot; came into effect in August 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220922/p1#a220922p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
