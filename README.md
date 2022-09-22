@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nick Clegg says Meta could lift its ban on Donald Trump&#39;s accounts in January 2023, when the current suspension expires, after it consults with experts &lpar;Gina Chon/Semafor Media&rpar;](http://www.techmeme.com/220922/p18#a220922p18)
- - [Apple AirPods Pro &lpar;second-gen&rpar; review: improved ANC, sound quality, and clarity, but an unchanged design, Lightning connector, and no major software update &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/220922/p17#a220922p17)
- - [Hacking gang sends ransom demand to LA school district](https://www.theverge.com/2022/9/22/23366602/hacking-gang-la-school-district-ransom-vice-society)<!-- TECH:END -->
+ - [Pixelmator Pro 3.0 adds quick change mockups, colors and template designs](https://appleinsider.com/articles/22/09/22/pixelmator-pro-30-adds-quick-change-mockups-colors-and-template-designs?utm_medium=rss)
+ - [Luka Dončić has been turned into a MetaHuman](https://www.theverge.com/2022/9/22/23366106/luka-doncic-metahuman-luk-ai-tiktok)
+ - [DJI releases Osmo Mobile 6 for video stabilization on smartphones](https://appleinsider.com/articles/22/09/22/dji-releases-osmo-mobile-6-for-video-stabilization-on-smartphones?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
