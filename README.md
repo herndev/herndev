@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [6 Things You Need to Know About The DioField Chronicle](https://news.xbox.com/en-us/2022/09/22/6-things-you-need-to-know-about-the-diofield-chronicle/)
- - [Lil Nas X’s new League of Legends anthem Star Walkin’ comes with a mecha music video](https://www.polygon.com/23366879/lil-nas-x-star-walkin-song-league-of-legends-worlds-anthem-2022-video)
- - [These Skyrim and Fallout tarot decks are more novelty than magic](https://www.pcgamer.com/these-skyrim-and-fallout-tarot-decks-are-more-novelty-than-magic)<!-- GAME:END -->
+ - [Why &#39;90s cult film fans will love Serial Cleaners](https://www.pcgamer.com/why-90s-cult-film-fans-will-love-serial-cleaners)
+ - [She-Hulk’s new cameo nods to the greatest Avengers team of all time](https://www.polygon.com/23366667/she-hulk-mr-immortal-great-lakes-avengers-marvel)
+ - [She Hulk needs her own Ace Attorney game](https://www.pcgamer.com/she-hulk-needs-her-own-ace-attorney-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
