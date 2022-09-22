@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In 70+ lawsuits against Meta, Snap, TikTok, and Google, parents are making product liability claims, blaming algorithms for kids&#39; mental health issues, and more &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220922/p39#a220922p39)
- - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
- - [Satechi&#39;s new multiport USB-C dock features a 2.5G Ethernet port](https://appleinsider.com/articles/22/09/22/satechis-new-multiport-usb-c-dock-features-a-25g-ethernet-port?utm_medium=rss)<!-- TECH:END -->
+ - [Valve overhauls Steam’s stats page with new real-time charts](https://www.theverge.com/2022/9/22/23367646/valve-steam-stats-page-new-real-time-top-selling-most-played-charts)
+ - [AccessFintech, which helps financial institutions collaborate by sharing data, has raised a $60M Series C led by WestCap, bringing its total funding to $97M &lpar;Finextra&rpar;](http://www.techmeme.com/220922/p40#a220922p40)
+ - [Get ready to say goodbye to Fitbit accounts](https://www.androidauthority.com/fitbit-accounts-ending-3212066/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
