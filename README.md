@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How many of you believe in Aliens and why ? This is not an Alien asking, I promise](http://9gag.com/gag/abvXDK8)
- - ⏩ [Battlefield](http://9gag.com/gag/armvEGX)
- - 👉 [Bluddy Bastard B*tch](http://9gag.com/gag/aREwnWq)<!-- MEMES:END -->
+ - 💣 [Bluddy Bastard B*tch](http://9gag.com/gag/aREwnWq)
+ - ⏩ [Copy and waste](http://9gag.com/gag/avQpNzM)
+ - 👉 [LOOOOOOOOOOOOOOOOOOOOOOOOOOL](http://9gag.com/gag/a1PAvN2)<!-- MEMES:END -->
 
 ---
 
