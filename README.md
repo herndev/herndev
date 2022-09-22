@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)
- - [Microsoft is redesigning Windows 11’s photos app again](https://www.theverge.com/2022/9/21/23365892/microsoft-windows-11-photos-redesigning-photos-app-video-editor-clipchamp)
- - [Sensor Tower: TikTok Now, the BeReal clone debuted on September 18, is in the top 10 social networking apps in 39 countries and the top 100 apps in 24 countries &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/220921/p45#a220921p45)<!-- TECH:END -->
+ - [A Python directory traversal vulnerability disclosed in August 2007, but never patched, likely affects 350K+ open-source projects and can lead to code execution &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220921/p46#a220921p46)
+ - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 6 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-land-on-disney-plus/#ftag=CAD590a51e)
+ - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
