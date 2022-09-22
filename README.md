@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar Locks Social Media Comments In Wake Of GTA VI Leak Spread](https://kotaku.com/gta-vi-6-hacker-leak-uber-lapsus-rockstar-teapot-1849569292)
- - [Your Fall 2022 Anime Guide: What To Watch, Binge, And Obsess Over](https://kotaku.com/anime-fall-2022-guide-what-to-watch-binge-and-stream-1849569424)
- - [Everyone’s grown up in the new Dragon Prince trailer](https://www.polygon.com/23367200/the-dragon-prince-season-4-netflix-trailer)<!-- GAME:END -->
+ - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)
+ - [Destiny 2 Gives Up On New Challenge, Tacitly Admitting There&#39;s A Much Bigger Problem](https://kotaku.com/destiny-2-witch-queen-season-18-plunder-lfg-bungie-1849569718)
+ - [Rockstar Locks Social Media Comments In Wake Of GTA VI Leak Spread](https://kotaku.com/gta-vi-6-hacker-leak-uber-lapsus-rockstar-teapot-1849569292)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
