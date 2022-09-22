@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And why shouldn&#39;t I eat the mushroom?](http://9gag.com/gag/a6qm0ye)
- - ⏩ [How to `jump` your car battery the right way.](http://9gag.com/gag/aME2gRx)
- - 👉 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)<!-- MEMES:END -->
+ - 💣 [How to `jump` your car battery the right way.](http://9gag.com/gag/aME2gRx)
+ - ⏩ [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 👉 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
 
 ---
 
