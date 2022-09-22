@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
- - ⏩ [Adorable smol danger noodle](http://9gag.com/gag/aPgwL6q)
- - 👉 [I really do](http://9gag.com/gag/aqe9M7L)<!-- MEMES:END -->
+ - 💣 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
+ - ⏩ [Steven](http://9gag.com/gag/aWGZZZ6)
+ - 👉 [And it begins](http://9gag.com/gag/aGE9KxG)<!-- MEMES:END -->
 
 ---
 
