@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So i have found a friend](http://9gag.com/gag/awZ02gD)
- - ⏩ [Borders and walls](http://9gag.com/gag/aGEYQvK)
- - 👉 [My anniversary. 10 years of this shit. I hate you all.](http://9gag.com/gag/a9qbgGo)<!-- MEMES:END -->
+ - 💣 [Borders and walls](http://9gag.com/gag/aGEYQvK)
+ - ⏩ [My anniversary. 10 years of this shit. I hate you all.](http://9gag.com/gag/a9qbgGo)
+ - 👉 [So i have found a friend](http://9gag.com/gag/awZ02gD)<!-- MEMES:END -->
 
 ---
 
