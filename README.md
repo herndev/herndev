@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Logic](http://9gag.com/gag/az2g3Zm)
- - ⏩ [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)
- - 👉 [Good thing i saved it before it disappeared, dont let this die, lets trigger some fanatics and spam the shit out of it shall we?](http://9gag.com/gag/aoKEr1w)<!-- MEMES:END -->
+ - 💣 [My local Walmart has the music so loud it&#39;s like walking into a goddamn rave](http://9gag.com/gag/aoKEb7X)
+ - ⏩ [I\u00b4ll just leave it here.](http://9gag.com/gag/ajVYoLq)
+ - 👉 [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)<!-- MEMES:END -->
 
 ---
 
