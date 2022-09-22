@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Near Dark returns to streaming with Criterion Channel’s fantastic October ’80s horror lineup](https://www.polygon.com/2022/9/22/23366699/near-dark-watch-criterion-channel-horror-movies)
- - [Free Play Days – Dead Island Definitive Edition and Hunting Simulator 2](https://news.xbox.com/en-us/2022/09/22/free-play-days-dead-island-definitive-edition-and-hunting-simulator-2/)
- - [Splinter Cell remake will update the game’s story to get with the times](https://www.polygon.com/23366680/splinter-cell-remake-story-update)<!-- GAME:END -->
+ - [6 Things You Need to Know About The DioField Chronicle](https://news.xbox.com/en-us/2022/09/22/6-things-you-need-to-know-about-the-diofield-chronicle/)
+ - [Lil Nas X’s new League of Legends anthem Star Walkin’ comes with a mecha music video](https://www.polygon.com/23366879/lil-nas-x-star-walkin-song-league-of-legends-worlds-anthem-2022-video)
+ - [These Skyrim and Fallout tarot decks are more novelty than magic](https://www.pcgamer.com/these-skyrim-and-fallout-tarot-decks-are-more-novelty-than-magic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
