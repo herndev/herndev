@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New York City-based Knoetic, which provides analytics tools to HR departments, has raised a $36M Series B led by EQT Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220921/p47#a220921p47)
- - [A Python directory traversal vulnerability disclosed in August 2007, but never patched, likely affects 350K+ open-source projects and can lead to code execution &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220921/p46#a220921p46)
- - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 6 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-land-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)
+ - [India&#39;s central bank launches UPI Lite with eight banks to make sub $2.50 transactions faster and simpler on the country&#39;s most popular digital payments network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220921/p49#a220921p49)
+ - [Governor Jared Polis announces Colorado residents can pay state taxes with cryptocurrencies; Polis is selling NFTs for $52.80 to fund his reelection campaign &lpar;Esteban L. Hernandez/Axios&rpar;](http://www.techmeme.com/220921/p48#a220921p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
