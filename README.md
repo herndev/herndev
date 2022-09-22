@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Next Silicon Valley Will Be in the US Heartland](https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/)
- - [Watch president Lil Nas X’s video for Star Walkin’](https://www.theverge.com/2022/9/22/23366829/lil-nas-x-star-walkin-league-of-legends-worlds-2022)
- - [Twitter informs some users that due to a bug it didn&#39;t close all of their active logged-in sessions on Android and iOS after password resets &lpar;TechCrunch&rpar;](http://www.techmeme.com/220922/p28#a220922p28)<!-- TECH:END -->
+ - [Ookla says download and upload speeds for SpaceX&#39;s Starlink have seen a sharp drop from Q1 to Q2 globally, amid network congestion due to soaring popularity &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220922/p33#a220922p33)
+ - [The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps](https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/)
+ - [iOS 16 Mail can be crashed by a specific &#39;from&#39; field](https://appleinsider.com/articles/22/09/22/ios-16-mail-can-be-crashed-by-a-specific-from-field?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
