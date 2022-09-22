@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta go.](http://9gag.com/gag/aME2MKV)
- - ⏩ [Copy and waste](http://9gag.com/gag/avQpNzM)
- - 👉 [Exploitation of the working class, in one graph](http://9gag.com/gag/aPgwE2B)<!-- MEMES:END -->
+ - 💣 [Aim bro](http://9gag.com/gag/ap9EMwM)
+ - ⏩ [Chad Samwise Gamgee](http://9gag.com/gag/aBdK9pz)
+ - 👉 [Iconic](http://9gag.com/gag/aXn067z)<!-- MEMES:END -->
 
 ---
 
