@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ookla says download and upload speeds for SpaceX&#39;s Starlink have seen a sharp drop from Q1 to Q2 globally, amid network congestion due to soaring popularity &lpar;Michael Kan/PCMag&rpar;](http://www.techmeme.com/220922/p33#a220922p33)
- - [The Ungodly Surveillance of Anti-Porn ‘Shameware’ Apps](https://www.wired.com/story/covenant-eyes-anti-porn-accountability-monitoring-apps/)
- - [iOS 16 Mail can be crashed by a specific &#39;from&#39; field](https://appleinsider.com/articles/22/09/22/ios-16-mail-can-be-crashed-by-a-specific-from-field?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram’s recovering from some major problems](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
+ - [Estonia-based 3Commas, an automated crypto trading and portfolio management service, has raised a $37M Series B &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220922/p34#a220922p34)
+ - [Nomad releases Ultra Orange Apple Watch band &amp; iPhone 14 Pro case](https://appleinsider.com/articles/22/09/22/nomad-releases-ultra-orange-apple-watch-band-iphone-14-pro-case?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
