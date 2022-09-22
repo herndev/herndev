@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)
- - [Destiny 2 Gives Up On New Challenge, Tacitly Admitting There&#39;s A Much Bigger Problem](https://kotaku.com/destiny-2-witch-queen-season-18-plunder-lfg-bungie-1849569718)
- - [Rockstar Locks Social Media Comments In Wake Of GTA VI Leak Spread](https://kotaku.com/gta-vi-6-hacker-leak-uber-lapsus-rockstar-teapot-1849569292)<!-- GAME:END -->
+ - [Trombone Champ creator sounds off about baboons, trombone traphouse, and Goku vs Vegeta](https://www.pcgamer.com/trombone-champ-creator-sounds-off-about-baboons-trombone-traphouse-and-goku-vs-vegeta)
+ - [Cyberpunk 2077 is now pulling in more than 1 million players per day](https://www.pcgamer.com/cyberpunk-2077-is-now-pulling-in-more-than-1-million-players-per-day)
+ - [The Internet&#39;s Biggest Overwatch 2 Questions, Answered](https://kotaku.com/overwatch-2-release-date-seasonal-skins-blizzard-pc-1849570005)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
