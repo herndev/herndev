@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best office chair for gaming](https://www.pcgamer.com/best-office-chair-for-gaming)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)
- - [Nvidia GeForce RTX 4080: Release date, price, and specs](https://www.pcgamer.com/nvidia-feforce-rtx-4080-specs-price-release-date)<!-- GAME:END -->
+ - [Metal: Hellsinger review](https://www.pcgamer.com/metal-hellsinger-review)
+ - [PUBG permabans Steam chargeback fraudsters](https://www.pcgamer.com/pubg-permabans-steam-chargeback-fraudsters)
+ - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
