@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to `jump` your car battery the right way.](http://9gag.com/gag/aME2gRx)
- - ⏩ [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
- - 👉 [Witch mases dogs on private property](http://9gag.com/gag/a5XemZN)<!-- MEMES:END -->
+ - 💣 [Police forced to flee chased by angry crowd. Iran.](http://9gag.com/gag/aBdK90P)
+ - ⏩ [Anti-war protest in Moscow](http://9gag.com/gag/abvX7wB)
+ - 👉 [Goals...](http://9gag.com/gag/aEqveqn)<!-- MEMES:END -->
 
 ---
 
