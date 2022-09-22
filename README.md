@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bluddy Bastard B*tch](http://9gag.com/gag/aREwnWq)
- - ⏩ [Copy and waste](http://9gag.com/gag/avQpNzM)
- - 👉 [LOOOOOOOOOOOOOOOOOOOOOOOOOOL](http://9gag.com/gag/a1PAvN2)<!-- MEMES:END -->
+ - 💣 [Russian conscripts already drunk on their way to Ukraine](http://9gag.com/gag/amAXX1X)
+ - ⏩ [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)
+ - 👉 [Men \ud83e\udd42](http://9gag.com/gag/aOxqKd6)<!-- MEMES:END -->
 
 ---
 
