@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A New Linux Tool Aims to Guard Against Supply Chain Attacks](https://www.wired.com/story/chainguard-wolfi-linux-distribution/)
- - [Alphabet&#39;s DeepMind unveils Sparrow, an AI chatbot that learns from human feedback and searches Google for information to support its claims &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220922/p25#a220922p25)
- - [videogamedunkey launches an indie game publishing company](https://www.theverge.com/2022/9/22/23365263/videogamedunkey-publishing-company-bigmode)<!-- TECH:END -->
+ - [The Next Silicon Valley Will Be in the US Heartland](https://www.wired.com/story/the-next-silicon-valley-will-be-in-the-us-heartlands/)
+ - [Watch president Lil Nas X’s video for Star Walkin’](https://www.theverge.com/2022/9/22/23366829/lil-nas-x-star-walkin-league-of-legends-worlds-2022)
+ - [Twitter informs some users that due to a bug it didn&#39;t close all of their active logged-in sessions on Android and iOS after password resets &lpar;TechCrunch&rpar;](http://www.techmeme.com/220922/p28#a220922p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
