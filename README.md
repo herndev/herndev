@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Totally expected nothing and found gold instead &lpar;Title: Cyberpunk: Edgerunners&rpar;](http://9gag.com/gag/axodK6K)
- - ⏩ [It&#39;s precious.](http://9gag.com/gag/aEqv4px)
- - 👉 [Becky. Pls.](http://9gag.com/gag/aGEYNvz)<!-- MEMES:END -->
+ - 💣 [Wise words by a wise man](http://9gag.com/gag/ap9EMN9)
+ - ⏩ [Moved to Canada 5 months ago, this is my new beginning. Installing 4g/5g antennas and sucking dicks up to 100 meters high and I love it . Life finds a way of working out anons. I promise](http://9gag.com/gag/a6qmRmR)
+ - 👉 [Our game, Mandragora. We worked our ass off to get here, and it&#39;s still a long road, but we&#39;re making progress.](http://9gag.com/gag/aZDbKEn)<!-- MEMES:END -->
 
 ---
 
