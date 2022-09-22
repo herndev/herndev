@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixelmator Pro 3.0 adds quick change mockups, colors and template designs](https://appleinsider.com/articles/22/09/22/pixelmator-pro-30-adds-quick-change-mockups-colors-and-template-designs?utm_medium=rss)
- - [Luka Dončić has been turned into a MetaHuman](https://www.theverge.com/2022/9/22/23366106/luka-doncic-metahuman-luk-ai-tiktok)
- - [DJI releases Osmo Mobile 6 for video stabilization on smartphones](https://appleinsider.com/articles/22/09/22/dji-releases-osmo-mobile-6-for-video-stabilization-on-smartphones?utm_medium=rss)<!-- TECH:END -->
+ - [A New Linux Tool Aims to Guard Against Supply Chain Attacks](https://www.wired.com/story/chainguard-wolfi-linux-distribution/)
+ - [Alphabet&#39;s DeepMind unveils Sparrow, an AI chatbot that learns from human feedback and searches Google for information to support its claims &lpar;Melissa Heikkil&amp;auml;/MIT Technology Review&rpar;](http://www.techmeme.com/220922/p25#a220922p25)
+ - [videogamedunkey launches an indie game publishing company](https://www.theverge.com/2022/9/22/23365263/videogamedunkey-publishing-company-bigmode)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
