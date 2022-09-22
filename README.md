@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
- - ⏩ [Steven](http://9gag.com/gag/aWGZZZ6)
- - 👉 [And it begins](http://9gag.com/gag/aGE9KxG)<!-- MEMES:END -->
+ - 💣 [Battlefield](http://9gag.com/gag/armvEGX)
+ - ⏩ [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
+ - 👉 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)<!-- MEMES:END -->
 
 ---
 
