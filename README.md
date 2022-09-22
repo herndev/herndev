@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal: Hellsinger review](https://www.pcgamer.com/metal-hellsinger-review)
- - [PUBG permabans Steam chargeback fraudsters](https://www.pcgamer.com/pubg-permabans-steam-chargeback-fraudsters)
- - [The best cheap gaming keyboards](https://www.pcgamer.com/the-best-cheap-gaming-keyboards-in-2019)<!-- GAME:END -->
+ - [Learning to Get Back on the Board with Session: Skate Sim](https://news.xbox.com/en-us/2022/09/22/learning-to-get-back-on-the-board-with-session-skate-sim/)
+ - [Somehow This Video Game Belly Button Was Too Sexy For Google](https://kotaku.com/google-android-hook-up-game-dating-ios-profanity-1849565008)
+ - [YouTuber Dunkey now has an indie publishing label](https://www.pcgamer.com/youtuber-dunkey-now-has-an-indie-publishing-label)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
