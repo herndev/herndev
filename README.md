@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram’s recovering from some major problems](https://www.theverge.com/2022/9/22/23367113/instagram-down-outage-app-crashing-stories-meta)
- - [Estonia-based 3Commas, an automated crypto trading and portfolio management service, has raised a $37M Series B &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220922/p34#a220922p34)
- - [Nomad releases Ultra Orange Apple Watch band &amp; iPhone 14 Pro case](https://appleinsider.com/articles/22/09/22/nomad-releases-ultra-orange-apple-watch-band-iphone-14-pro-case?utm_medium=rss)<!-- TECH:END -->
+ - [How fiber-optic cables helped researchers eavesdrop on whales](https://www.theverge.com/23365279/whales-fiber-optic-cables-eavesdrop-arctic)
+ - [Apple releases AirPods Pro 2 first-day firmware update](https://appleinsider.com/articles/22/09/22/apple-releases-airpods-pro-2-first-day-firmware-update?utm_medium=rss)
+ - [iOS 16 Mail can be crashed by a specific &#39;from&#39; field](https://appleinsider.com/articles/22/09/22/ios-16-mail-can-be-crashed-by-a-specific-from-field?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
