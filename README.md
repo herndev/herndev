@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police forced to flee chased by angry crowd. Iran.](http://9gag.com/gag/aBdK90P)
- - ⏩ [Anti-war protest in Moscow](http://9gag.com/gag/abvX7wB)
- - 👉 [Goals...](http://9gag.com/gag/aEqveqn)<!-- MEMES:END -->
+ - 💣 [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
+ - ⏩ [Adorable smol danger noodle](http://9gag.com/gag/aPgwL6q)
+ - 👉 [I really do](http://9gag.com/gag/aqe9M7L)<!-- MEMES:END -->
 
 ---
 
