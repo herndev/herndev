@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)
- - [India&#39;s central bank launches UPI Lite with eight banks to make sub $2.50 transactions faster and simpler on the country&#39;s most popular digital payments network &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220921/p49#a220921p49)
- - [Governor Jared Polis announces Colorado residents can pay state taxes with cryptocurrencies; Polis is selling NFTs for $52.80 to fund his reelection campaign &lpar;Esteban L. Hernandez/Axios&rpar;](http://www.techmeme.com/220921/p48#a220921p48)<!-- TECH:END -->
+ - [Spain fines food delivery app Glovo &amp;euro;79M for allegedly denying 10,600+ riders a labor contract since the country&#39;s &quot;riders law&quot; came into effect in August 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220922/p1#a220922p1)
+ - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/22/23365405/automatic-emergency-braking-test-t-bone-intersection-aaa)
+ - [Switzerland-based GRNGrid, a Layer 1 DeFi blockchain that lets users transact on nodes running exclusively on renewable energy, raised $50M from GEM Digital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/220921/p50#a220921p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
