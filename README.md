@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can now add a Dynamic Island to your Android phone with this app](https://www.androidauthority.com/get-dynamic-island-on-android-phone-3211656/)
- - [What apps, notifications &amp; alerts utilize Dynamic Island on iPhone 14 Pro](https://appleinsider.com/articles/22/09/21/what-apps-notifications-alerts-utilize-dynamic-island-on-iphone-14-pro?utm_medium=rss)
- - [PolicyLink study: California rideshare drivers make a net median of $6.20/hour after costs and could make an additional ~$10.50/hour if classified as employees &lpar;Aarian Marshall/Wired&rpar;](http://www.techmeme.com/220922/p2#a220922p2)<!-- TECH:END -->
+ - [Dubai&#39;s crypto regulator grants Binance a license to offer domestic bank accounts, an asset exchange, payments and custody services, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/220922/p4#a220922p4)
+ - [Munich-based DataGuard, which offers data privacy, information security, and compliance tools, raised a &amp;euro;61M Series B led by Morgan Stanley and One Peak &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220922/p3#a220922p3)
+ - [You can now add a Dynamic Island to your Android phone with this app](https://www.androidauthority.com/get-dynamic-island-on-android-phone-3211656/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
