@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How Star Wars has depicted the rise of the Rebel Alliance through the years](https://www.polygon.com/star-wars/23356657/star-wars-rebellion-history)
  - [$300 For A Cloud-Only Gaming Handheld Sure Is Optimistic, Logitech](https://kotaku.com/game-pass-streaming-steam-deck-switch-g-cloud-logitech-1849565755)
- - [Streamer apologizes for leaking game reveals, says he did it for clout and &#39;the buzz&#39;](https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz)
- - [Project Cars 2 is gone from Steam forever](https://www.pcgamer.com/project-cars-2-is-gone-from-steam-forever)<!-- GAME:END -->
+ - [Streamer apologizes for leaking game reveals, says he did it for clout and &#39;the buzz&#39;](https://www.pcgamer.com/streamer-apologizes-for-leaking-game-reveals-says-he-did-it-for-clout-and-the-buzz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
