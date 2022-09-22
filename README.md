@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubai&#39;s crypto regulator grants Binance a license to offer domestic bank accounts, an asset exchange, payments and custody services, and more &lpar;Camomile Shumba/CoinDesk&rpar;](http://www.techmeme.com/220922/p4#a220922p4)
- - [Munich-based DataGuard, which offers data privacy, information security, and compliance tools, raised a &amp;euro;61M Series B led by Morgan Stanley and One Peak &lpar;Megha Paul/Tech.eu&rpar;](http://www.techmeme.com/220922/p3#a220922p3)
- - [You can now add a Dynamic Island to your Android phone with this app](https://www.androidauthority.com/get-dynamic-island-on-android-phone-3211656/)<!-- TECH:END -->
+ - [A Better Birth Is Possible](https://www.wired.com/story/ruha-benjamin-pregnancy-black-maternal-mortality/)
+ - [Salt Lake City-based Zartico, which offers analytics and visualizations to government-affiliated tourism boards, raised a $20M Series A led by Arthur Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220922/p7#a220922p7)
+ - [South Korea details more &quot;abnormal&quot; foreign exchange transactions, most related to crypto, bringing the total to $7.2B since June; 72% went to Hong Kong &lpar;Kyungji Cho/Bloomberg&rpar;](http://www.techmeme.com/220922/p6#a220922p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
