@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Battlefield](http://9gag.com/gag/armvEGX)
- - ⏩ [AAAAAAAAAAAAAAAAAAAAAAAAH](http://9gag.com/gag/a1PvyYv)
- - 👉 [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)<!-- MEMES:END -->
+ - 💣 [How many of you believe in Aliens and why ? This is not an Alien asking, I promise](http://9gag.com/gag/abvXDK8)
+ - ⏩ [Battlefield](http://9gag.com/gag/armvEGX)
+ - 👉 [Bluddy Bastard B*tch](http://9gag.com/gag/aREwnWq)<!-- MEMES:END -->
 
 ---
 
