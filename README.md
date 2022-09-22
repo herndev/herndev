@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-sale)
- - [New Windows 11 Features That Make the 2022 Update Worth It     - CNET](https://www.cnet.com/tech/services-and-software/new-windows-11-features-that-make-the-2022-update-worth-it/#ftag=CAD590a51e)
- - [iOS 16.0.2 Update Released, Fixes Camera Shake and More     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-0-2-update-released-fixes-camera-shake-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In 70+ lawsuits against Meta, Snap, TikTok, and Google, parents are making product liability claims, blaming algorithms for kids&#39; mental health issues, and more &lpar;Joel Rosenblatt/Bloomberg&rpar;](http://www.techmeme.com/220922/p39#a220922p39)
+ - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
+ - [Satechi&#39;s new multiport USB-C dock features a 2.5G Ethernet port](https://appleinsider.com/articles/22/09/22/satechis-new-multiport-usb-c-dock-features-a-25g-ethernet-port?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
