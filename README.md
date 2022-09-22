@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 460 answer and hint: Thursday, September 22](https://www.pcgamer.com/todays-wordle-460-answer-hint)
  - [Dark fantasy strategy game Gord looks like a Diablo town manager](https://www.pcgamer.com/gord-first-gameplay-video)
- - [How Star Wars has depicted the rise of the Rebel Alliance through the years](https://www.polygon.com/star-wars/23356657/star-wars-rebellion-history)
- - [$300 For A Cloud-Only Gaming Handheld Sure Is Optimistic, Logitech](https://kotaku.com/game-pass-streaming-steam-deck-switch-g-cloud-logitech-1849565755)<!-- GAME:END -->
+ - [How Star Wars has depicted the rise of the Rebel Alliance through the years](https://www.polygon.com/star-wars/23356657/star-wars-rebellion-history)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
