@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Dynamic Island is already available on Android devices](https://www.theverge.com/2022/9/22/23366972/android-dynamic-island-spot-app-androidos)
- - [Amazon Fire 7 review: a budget tablet for the basics](https://www.theverge.com/23353694/amazon-fire-7-tablet-fireos-review)
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-bose-microsoft-sale)
+ - [New Windows 11 Features That Make the 2022 Update Worth It     - CNET](https://www.cnet.com/tech/services-and-software/new-windows-11-features-that-make-the-2022-update-worth-it/#ftag=CAD590a51e)
+ - [iOS 16.0.2 Update Released, Fixes Camera Shake and More     - CNET](https://www.cnet.com/tech/services-and-software/ios-16-0-2-update-released-fixes-camera-shake-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
