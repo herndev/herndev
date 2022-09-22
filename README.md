@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Learning to Get Back on the Board with Session: Skate Sim](https://news.xbox.com/en-us/2022/09/22/learning-to-get-back-on-the-board-with-session-skate-sim/)
- - [Somehow This Video Game Belly Button Was Too Sexy For Google](https://kotaku.com/google-android-hook-up-game-dating-ios-profanity-1849565008)
- - [YouTuber Dunkey now has an indie publishing label](https://www.pcgamer.com/youtuber-dunkey-now-has-an-indie-publishing-label)<!-- GAME:END -->
+ - [Near Dark returns to streaming with Criterion Channel’s fantastic October ’80s horror lineup](https://www.polygon.com/2022/9/22/23366699/near-dark-watch-criterion-channel-horror-movies)
+ - [Free Play Days – Dead Island Definitive Edition and Hunting Simulator 2](https://news.xbox.com/en-us/2022/09/22/free-play-days-dead-island-definitive-edition-and-hunting-simulator-2/)
+ - [Splinter Cell remake will update the game’s story to get with the times](https://www.polygon.com/23366680/splinter-cell-remake-story-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
