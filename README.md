@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Battlefield](http://9gag.com/gag/armvEGX)
- - ⏩ [Totally expected nothing and found gold instead &lpar;Title: Cyberpunk: Edgerunners&rpar;](http://9gag.com/gag/axodK6K)
- - 👉 [It&#39;s precious.](http://9gag.com/gag/aEqv4px)<!-- MEMES:END -->
+ - 💣 [Totally expected nothing and found gold instead &lpar;Title: Cyberpunk: Edgerunners&rpar;](http://9gag.com/gag/axodK6K)
+ - ⏩ [It&#39;s precious.](http://9gag.com/gag/aEqv4px)
+ - 👉 [Becky. Pls.](http://9gag.com/gag/aGEYNvz)<!-- MEMES:END -->
 
 ---
 
