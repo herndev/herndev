@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: seeking to increase profits, Coinbase hired Wall Street traders and explored using its own cash to trade crypto in 2021, including a $100M transaction &lpar;Gregory Zuckerman/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p11#a220922p11)
- - [Meta-commissioned report from BSR details censorship and allegations of &quot;unintentional bias&quot; against Palestinians during violence by Israeli forces in May 2021 &lpar;Sam Biddle/The Intercept&rpar;](http://www.techmeme.com/220922/p10#a220922p10)
- - [Swiss company Proton VPN becomes the latest to leave India over invasive new rules requiring customer data collection, following Surfshark, Nord, and others &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/220922/p9#a220922p9)<!-- TECH:END -->
+ - [Disney, P&amp;G, LVMH, and other large companies have hired chief metaverse officers, seeking to capitalize on Web3, but questions remain about their usefulness &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/220922/p15#a220922p15)
+ - [Lawns Are Dumb. But Ripping Them Out May Come With a Catch](https://www.wired.com/story/lawns-are-dumb-but-ripping-them-out-may-come-with-a-catch/)
+ - [The ‘Surveillance Solutionism’ of Putting Cameras in NYC Subways](https://www.wired.com/story/the-surveillance-solutionism-of-putting-cameras-in-nyc-subways/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
