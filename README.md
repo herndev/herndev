@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Congressman Under Investigation For &#39;Sex Trafficking&#39; Caps Off Twitch&#39;s Worst Week Ever](https://kotaku.com/twitch-matt-gaetz-gambling-crypto-scam-sex-predator-1849570942)
- - [Please Amazon, make up with Tencent so we can have a Rings of Power MMO](https://www.pcgamer.com/rings-of-power-mmo-amazon)
- - [Hearthstone’s next mini-set takes the card game to a trial](https://www.polygon.com/23367557/hearthstone-maw-disorder-mini-set-new-sylvanas)<!-- GAME:END -->
+ - [This throwback sci-fi FPS is like the Jedi Knight 4 we never got](https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got)
+ - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)
+ - [Congressman Under Investigation For &#39;Sex Trafficking&#39; Caps Off Twitch&#39;s Worst Week Ever](https://kotaku.com/twitch-matt-gaetz-gambling-crypto-scam-sex-predator-1849570942)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
