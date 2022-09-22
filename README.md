@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New York City-based Knoetic, which provides analytics tools to HR departments, has raised a $36M Series B led by EQT Ventures &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220921/p47#a220921p47)
  - [A Python directory traversal vulnerability disclosed in August 2007, but never patched, likely affects 350K+ open-source projects and can lead to code execution &lpar;Ionut Ilascu/BleepingComputer&rpar;](http://www.techmeme.com/220921/p46#a220921p46)
- - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 6 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-land-on-disney-plus/#ftag=CAD590a51e)
- - [How to fix iOS update battery drain &amp; slow Spotlight searches](https://appleinsider.com/inside/ios-16/tips/how-to-fix-ios-update-battery-drain-slow-spotlight-searches?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 6 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-6-land-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
