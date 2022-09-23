@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aim bro](http://9gag.com/gag/ap9EMwM)
- - ⏩ [Chad Samwise Gamgee](http://9gag.com/gag/aBdK9pz)
- - 👉 [Iconic](http://9gag.com/gag/aXn067z)<!-- MEMES:END -->
+ - 💣 [Exploitation of the working class, in one graph](http://9gag.com/gag/aPgwE2B)
+ - ⏩ [Gotta go.](http://9gag.com/gag/aME2MKV)
+ - 👉 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)<!-- MEMES:END -->
 
 ---
 
