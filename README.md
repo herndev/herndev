@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trombone Champ Is Now A Steam Top Seller, Which Is Fantastic](https://kotaku.com/trombone-champ-steam-pc-top-10-games-holy-wow-1849573950)
- - [London cops arrest teen on hacking suspicions, but haven’t linked it to GTA 6 leak](https://www.polygon.com/23368472/gta-6-leak-arrest-london-uber)
- - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
+ - [River City Girls Zero’s Charming Presentation Masks A Frustrating Vintage Beat ‘Em Up](https://kotaku.com/river-city-zero-wayforward-arc-system-works-review-1849574361)
+ - [Apex Legends Devs Are Sick Of Players Harassing Them](https://kotaku.com/apex-legends-ea-respawn-twitter-reddit-harassment-1849574155)
+ - [Virtual tabletops can make playing RPGs even harder. One More Multiverse wants to fix that](https://www.polygon.com/tabletop-games/23366890/blades-in-the-dark-virtual-tabletop-one-more-multiverse-demo-download-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
