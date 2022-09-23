@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple signs a multiyear NFL deal to have Apple Music replace Pepsi as the main sponsor for the Super Bowl halftime show; sources: the NFL wanted to charge ~$50M &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220923/p2#a220923p2)
- - [&#39;The Rings of Power&#39; Episode 5: Partings     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-5-partings/#ftag=CAD590a51e)
- - [Apple Scores NFL Deal as Super Bowl Halftime Show Sponsor     - CNET](https://www.cnet.com/tech/services-and-software/apple-scores-nfl-deal-as-super-bowl-halftime-show-sponsor/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with AOL founder Steve Case on his prediction that tech companies will flourish in the US heartland, the current investment slowdown, J.D. Vance, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/220923/p3#a220923p3)
+ - [Google Pixel Watch shines in new official video showing off its design](https://www.androidauthority.com/google-pixel-watch-design-3212159/)
+ - [A fix for that crazy iPhone 14 Pro camera shake bug is rolling out now](https://www.androidauthority.com/apple-iphone-14-pro-camera-shake-fix-update-3211655/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
