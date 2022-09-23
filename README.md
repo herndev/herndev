@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
- - ⏩ [$600](http://9gag.com/gag/agoy3Yv)
- - 👉 [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)<!-- MEMES:END -->
+ - 💣 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
+ - ⏩ [It keeps going..and going\u2026..and going?!](http://9gag.com/gag/anzqo2V)
+ - 👉 [You know the rules](http://9gag.com/gag/aqe9qxR)<!-- MEMES:END -->
 
 ---
 
