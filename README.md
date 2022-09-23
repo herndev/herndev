@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
- - [Why does Logitech have a white Xbox Series X? &lpar;Because they put a skin on it.&rpar;](https://www.theverge.com/2022/9/23/23368202/microsoft-xbox-series-x-white-model-logitech-ad)
- - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)
+ - [Netflix&#39;s Biggest Hit Shows and Movies, Ranked &lpar;According to Netflix&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-biggest-hit-shows-and-movies-ranked-according-to-netflix/#ftag=CAD590a51e)
+ - [No, Logitech Didn&#39;t Reveal a New White Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/no-logitech-didnt-reveal-a-new-white-xbox-series-x/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
