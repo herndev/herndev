@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra &amp; AirPods Pro 2 reviews, iPhone 14 Pro in-depth](https://appleinsider.com/articles/22/09/23/apple-watch-ultra-airpods-pro-2-reviews-iphone-14-pro-in-depth?utm_medium=rss)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
- - [France announces minimum €3 book delivery fee to help booksellers compete with Amazon](https://www.theverge.com/2022/9/23/23368219/france-minimum-book-delivery-fee-booksellers-amazon-competition)<!-- TECH:END -->
+ - [These Are the Best Portable Storage Drives](https://www.wired.com/story/best-portable-external-storage-drives/)
+ - [Ex-Twitter staffer Anika Collier Navaroli reveals herself as the whistleblower who testified to the January 6 committee about Twitter&#39;s failure to curb Trump &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/220923/p12#a220923p12)
+ - [How to use the Depth app on Apple Watch Ultra](https://appleinsider.com/inside/apple-watch-ultra/tips/how-to-use-the-depth-app-on-apple-watch-ultra?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
