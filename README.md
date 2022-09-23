@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And popcorn kernels too...](http://9gag.com/gag/abv5bmO)
- - ⏩ [Equal rights, right?](http://9gag.com/gag/ap9qBN8)
- - 👉 [The future of Cars &lpar;3:40&rpar;](http://9gag.com/gag/aPgvW1g)<!-- MEMES:END -->
+ - 💣 [Typical US healthcare system](http://9gag.com/gag/ajVrY08)
+ - ⏩ [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
+ - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 ---
 
