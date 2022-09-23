@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2.0 introduces triple Circle Collapse, aquatic combat, new Gulag fights, and more](https://blog.playstation.com/2022/09/23/warzone-2-0-introduces-triple-circle-collapse-aquatic-combat-new-gulag-fights-and-more/)
- - [Next Week on Xbox: New Games for September 26 to 30](https://news.xbox.com/en-us/2022/09/23/next-week-on-xbox-new-games-for-september-26-to-30/)
- - [Doctor Who’s Peter Capaldi has a new time travel show — but this time he’s a serial killer](https://www.polygon.com/23368398/peter-capaldi-the-devils-hour-trailer)<!-- GAME:END -->
+ - [Share of the Week: The Last of Us Part I – Left Behind](https://blog.playstation.com/2022/09/23/share-of-the-week-the-last-of-us-part-i-left-behind/)
+ - [Apex studio has to remind players not to be dicks to developers](https://www.pcgamer.com/apex-studio-has-to-remind-players-not-to-be-dicks-to-developers)
+ - [Pokémon Scarlet and Violet’s Legendary Pokémon, explained](https://www.polygon.com/pokemon-scarlet-violet-guide/23365141/legendary-pokemon-koraidon-miraidon-type-future-past-ability)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
