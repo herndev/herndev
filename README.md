@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Russia right now](http://9gag.com/gag/aoKEXVw)
- - ⏩ [If by any chance you haven&#39;t seen this movie, you have missed the opportunity of watching a masterpiece. Movie: The Intouchables. I HIGHLY recommend this movie.](http://9gag.com/gag/ajVr09q)
- - 👉 [Hey hooman](http://9gag.com/gag/aOxKgp3)<!-- MEMES:END -->
+ - 💣 [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
+ - ⏩ [When Godzilla did the drop kick it made me cry, such scene really do changed my life](http://9gag.com/gag/aZDb9bp)
+ - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 ---
 
