@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
- - ⏩ [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
- - 👉 [It&#39;s not a disorder right,?](http://9gag.com/gag/axoNN2n)<!-- MEMES:END -->
+ - 💣 [And popcorn kernels too...](http://9gag.com/gag/abv5bmO)
+ - ⏩ [Equal rights, right?](http://9gag.com/gag/ap9qBN8)
+ - 👉 [The future of Cars &lpar;3:40&rpar;](http://9gag.com/gag/aPgvW1g)<!-- MEMES:END -->
 
 ---
 
