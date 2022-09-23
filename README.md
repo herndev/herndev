@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This throwback sci-fi FPS is like the Jedi Knight 4 we never got](https://www.pcgamer.com/this-throwback-sci-fi-fps-is-like-the-jedi-knight-4-we-never-got)
- - [Hunt: Showdown devs appear to be cooking up some kind of horrible, pilotable bug](https://www.pcgamer.com/hunt-showdown-devs-appear-to-be-cooking-up-some-kind-of-horrible-pilotable-bug)
- - [Congressman Under Investigation For &#39;Sex Trafficking&#39; Caps Off Twitch&#39;s Worst Week Ever](https://kotaku.com/twitch-matt-gaetz-gambling-crypto-scam-sex-predator-1849570942)<!-- GAME:END -->
+ - [Modern Warfare 2 Mobile Phone Number Requires Steam Bug Fix](https://game-rant-2022.blogspot.com/2022/09/modern-warfare-2-mobile-phone-number.html)
+ - [Solium Infernum Is A Grand Strategy Game Set In Hell](https://kotaku.com/solium-infernum-league-of-geeks-grand-strategy-pc-steam-1849571511)
+ - [How extremist groups are using video games to recruit young people - and how to avoid them](https://game-rant-2022.blogspot.com/2022/09/how-extremist-groups-are-using-video.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
