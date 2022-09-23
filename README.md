@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is there even a option to cancel it mid ride?](http://9gag.com/gag/avQpbm5)
- - ⏩ [The largest picture of Ali Khamenei was burned in the center of Tehran.](http://9gag.com/gag/axoNjD1)
- - 👉 [Art](http://9gag.com/gag/a8qWbBO)<!-- MEMES:END -->
+ - 💣 [Russia right now](http://9gag.com/gag/aoKEXVw)
+ - ⏩ [If by any chance you haven&#39;t seen this movie, you have missed the opportunity of watching a masterpiece. Movie: The Intouchables. I HIGHLY recommend this movie.](http://9gag.com/gag/ajVr09q)
+ - 👉 [Hey hooman](http://9gag.com/gag/aOxKgp3)<!-- MEMES:END -->
 
 ---
 
