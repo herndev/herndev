@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [River City Girls Zero’s Charming Presentation Masks A Frustrating Vintage Beat ‘Em Up](https://kotaku.com/river-city-zero-wayforward-arc-system-works-review-1849574361)
- - [Apex Legends Devs Are Sick Of Players Harassing Them](https://kotaku.com/apex-legends-ea-respawn-twitter-reddit-harassment-1849574155)
- - [Virtual tabletops can make playing RPGs even harder. One More Multiverse wants to fix that](https://www.polygon.com/tabletop-games/23366890/blades-in-the-dark-virtual-tabletop-one-more-multiverse-demo-download-price)<!-- GAME:END -->
+ - [Athena erupts as one long protest-driven action climax](https://www.polygon.com/reviews/23363495/athena-review-netflix-action-movie-no-church-in-the-wild)
+ - [Official PlayStation Podcast Episode 440: Virtual Horizons](https://blog.playstation.com/2022/09/23/official-playstation-podcast-episode-440-virtual-horizons/)
+ - [Summon the Spirit of Retro Shooters in Prodeus](https://news.xbox.com/en-us/2022/09/23/summon-the-spirit-of-retro-shooters-in-prodeus/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
