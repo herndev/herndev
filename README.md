@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Video: The 29 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/prime-video-the-29-absolute-best-movies-to-watch/#ftag=CAD590a51e)
- - [Netflix&#39;s Biggest Hit Shows and Movies, Ranked &lpar;According to Netflix&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-biggest-hit-shows-and-movies-ranked-according-to-netflix/#ftag=CAD590a51e)
- - [No, Logitech Didn&#39;t Reveal a New White Xbox Series X     - CNET](https://www.cnet.com/tech/gaming/no-logitech-didnt-reveal-a-new-white-xbox-series-x/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA’s Artemis I launch faces a new obstacle: the weather](https://www.theverge.com/2022/9/23/23368924/nasa-artemis-tropical-depression-storm-launch)
+ - [Internal letter shows Twitch SVP of global creators Constance Knight resigned on the same day the company announced revenue sharing changes for top creators &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220923/p19#a220923p19)
+ - [Best Free Checking Accounts for September 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-free-checking-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
