@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to slide kick a runaway boulder in Fortnite](https://www.pcgamer.com/fortnite-slide-kick-boulder)
- - [Stellaris is going where no 4X has gone before: a roguelite VR spin-off](https://www.pcgamer.com/stellaris-is-going-where-no-4x-has-gone-before-a-roguelite-vr-spin-off)
- - [Soulstice review](https://www.pcgamer.com/soulstice-review)<!-- GAME:END -->
+ - [Sly Cooper celebrates 20 years today](https://blog.playstation.com/2022/09/23/sly-cooper-celebrates-20-years-today/)
+ - [Xbox Launches “Project Amplify” to Support Black Youth Interested in Gaming Industry Careers](https://news.xbox.com/en-us/2022/09/23/xbox-launches-project-amplify/)
+ - [There are two clear contenders for the best board game of 2022](https://www.polygon.com/23363672/best-board-games-2022-clear-cards-dead-reckoning-3000-scoundrels)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
