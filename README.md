@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [$600](http://9gag.com/gag/agoy3Yv)
- - ⏩ [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
- - 👉 [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)<!-- MEMES:END -->
+ - 💣 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
+ - ⏩ [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)
+ - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 ---
 
