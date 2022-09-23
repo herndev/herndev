@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roborock’s S7 Plus mop and robot vacuum hybrid is $270 off](https://www.theverge.com/2022/9/23/23366744/roborock-s7-plus-apple-watch-series-7-starz-acer-chromebook-jabra-elite-deal-sale)
- - [How to use the Depth app on Apple Watch Ultra](https://appleinsider.com/inside/apple-watch-ultra/tips/how-to-use-the-depth-app-on-apple-watch-ultra?utm_medium=rss)
- - [Wednesday, The Empress, Rosaline and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M2 MacBook Air &lpar;16GB RAM, 512GB SSD&rpar; in Midnight is $100 off, in stock](https://appleinsider.com/articles/22/09/23/deals-apples-m2-macbook-air-16gb-ram-512gb-ssd-in-midnight-is-100-off-in-stock?utm_medium=rss)
+ - [Falcons vs. Seahawks Livestream: How to Watch NFL Week 3 From Anywhere in the US     - CNET](https://www.cnet.com/tech/services-and-software/falcons-vs-seahawks-livestream-how-to-watch-nfl-week-3-from-anywhere-in-the-us/#ftag=CAD590a51e)
+ - [&#39;The Rings of Power&#39; Episode 5: Partings     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-5-partings/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
