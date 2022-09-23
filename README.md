@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Soulstice review](https://www.pcgamer.com/soulstice-review)
- - [The best microphone for streaming, gaming, and podcasting](https://www.pcgamer.com/best-microphone-gaming-streaming)
- - [The best G-Sync monitors in 2022](https://www.pcgamer.com/best-g-sync-monitors-2019)<!-- GAME:END -->
+ - [How to slide kick a runaway boulder in Fortnite](https://www.pcgamer.com/fortnite-slide-kick-boulder)
+ - [Stellaris is going where no 4X has gone before: a roguelite VR spin-off](https://www.pcgamer.com/stellaris-is-going-where-no-4x-has-gone-before-a-roguelite-vr-spin-off)
+ - [Soulstice review](https://www.pcgamer.com/soulstice-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
