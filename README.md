@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FDA makes it easier for harm reduction groups to purchase lifesaving naloxone](https://www.theverge.com/2022/9/23/23368354/fda-naloxone-guidelines-harm-reduction-opioid-overdose)
- - [How an 8-year-old Danish kid&#39;s YouTube account sparked a nationwide debate on Google&#39;s ubiquity in the country&#39;s schools and its handling of children&#39;s data &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220923/p16#a220923p16)
- - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)<!-- TECH:END -->
+ - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)
+ - [Report: email shows Amazon is walking back pay raises after a bug caused it to overstate bonuses for some corporate staff by using older, higher stock prices &lpar;Colin Lodewick/Fortune&rpar;](http://www.techmeme.com/220923/p17#a220923p17)
+ - [It sure looks like we’re getting new MacBook Pros in October](https://www.theverge.com/2022/9/23/23368699/apple-macbook-pro-m2-max-q4-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
