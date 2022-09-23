@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Scores NFL Deal as Super Bowl Halftime Show Sponsor     - CNET](https://www.cnet.com/tech/services-and-software/apple-scores-nfl-deal-as-super-bowl-halftime-show-sponsor/#ftag=CAD590a51e)
- - [Alibaba Cloud, the world&#39;s third-largest public cloud provider with a 9.5% market share in 2021, commits $1B to boost overseas alliances over the next 3 years &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/220923/p1#a220923p1)
- - [Fitbit to require a Google account to use its newest devices and features starting in 2023; current users can use non-Google accounts until at least early 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220922/p42#a220922p42)<!-- TECH:END -->
+ - [Apple signs a multiyear NFL deal to have Apple Music replace Pepsi as the main sponsor for the Super Bowl halftime show; sources: the NFL wanted to charge ~$50M &lpar;Tripp Mickle/New York Times&rpar;](http://www.techmeme.com/220923/p2#a220923p2)
+ - [&#39;The Rings of Power&#39; Episode 5: Partings     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-5-partings/#ftag=CAD590a51e)
+ - [Apple Scores NFL Deal as Super Bowl Halftime Show Sponsor     - CNET](https://www.cnet.com/tech/services-and-software/apple-scores-nfl-deal-as-super-bowl-halftime-show-sponsor/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
