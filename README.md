@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2 Mobile Phone Number Requires Steam Bug Fix](https://game-rant-2022.blogspot.com/2022/09/modern-warfare-2-mobile-phone-number.html)
- - [Solium Infernum Is A Grand Strategy Game Set In Hell](https://kotaku.com/solium-infernum-league-of-geeks-grand-strategy-pc-steam-1849571511)
- - [How extremist groups are using video games to recruit young people - and how to avoid them](https://game-rant-2022.blogspot.com/2022/09/how-extremist-groups-are-using-video.html)<!-- GAME:END -->
+ - [Sonic Frontiers TGS 2022 Hands On Preview &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/09/sonic-frontiers-tgs-2022-hands-on.html)
+ - [The Complete Reroll Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-reroll-guide-and-tips.html)
+ - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
