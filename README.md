@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NFL Apple Music](https://appleinsider.com/articles/22/09/23/nfl-apple-music?utm_medium=rss)
- - [Australian telecom Optus suffers a cyberattack, potentially giving the hacker access to data on up to 9.8M customers, per the CEO; the police are investigating &lpar;Alice Uribe/Wall Street Journal&rpar;](http://www.techmeme.com/220923/p5#a220923p5)
- - [Garmin introduces its first smart blood pressure monitor](https://www.theverge.com/2022/9/23/23368155/garmin-new-smart-blood-pressure-monitor-withings-fda-cleared)<!-- TECH:END -->
+ - [40 of the Best Movies on Disney+ Right Now](https://www.wired.com/story/best-movies-disney-plus/)
+ - [How to Set Up Your New iPhone](https://www.wired.com/story/how-to-set-up-a-new-iphone/)
+ - [The UK Is Rejoining the Space Race](https://www.wired.com/story/first-british-satellite-launch/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
