@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Frontiers TGS 2022 Hands On Preview &lpar;PS5&rpar;](https://game-rant-2022.blogspot.com/2022/09/sonic-frontiers-tgs-2022-hands-on.html)
- - [The Complete Reroll Guide and Tips](https://game-rant-2022.blogspot.com/2022/09/the-complete-reroll-guide-and-tips.html)
- - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)<!-- GAME:END -->
+ - [Madden Streamers Are Going On &#39;Strike&#39; Over In-Game Gambling Odds](https://kotaku.com/madden-23-ea-sports-strike-pack-ultimate-team-1849571865)
+ - [Steam just updated its stats page with Billboard-style top sellers charts](https://www.pcgamer.com/steam-charts-update)
+ - [Scorn footage has unbearably mounting tension and a firm release date](https://www.pcgamer.com/scorn-footage-has-unbearably-mounting-tension-and-a-firm-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
