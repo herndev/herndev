@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: The Last of Us Part I – Left Behind](https://blog.playstation.com/2022/09/23/share-of-the-week-the-last-of-us-part-i-left-behind/)
- - [Apex studio has to remind players not to be dicks to developers](https://www.pcgamer.com/apex-studio-has-to-remind-players-not-to-be-dicks-to-developers)
- - [Pokémon Scarlet and Violet’s Legendary Pokémon, explained](https://www.polygon.com/pokemon-scarlet-violet-guide/23365141/legendary-pokemon-koraidon-miraidon-type-future-past-ability)<!-- GAME:END -->
+ - [Trombone Champ Is Now A Steam Top Seller, Which Is Fantastic](https://kotaku.com/trombone-champ-steam-pc-top-10-games-holy-wow-1849573950)
+ - [London cops arrest teen on hacking suspicions, but haven’t linked it to GTA 6 leak](https://www.polygon.com/23368472/gta-6-leak-arrest-london-uber)
+ - [The best gaming chairs in 2022](https://www.pcgamer.com/best-gaming-chairs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
