@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta go.](http://9gag.com/gag/aME2MKV)
+ - 💣 [Scene from &#39;Monster: The Jeffrey Dahmer Story&#39; compared to the actual trial in 1992](http://9gag.com/gag/anzYe9z)
  - ⏩ [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)
  - 👉 [You know the rules](http://9gag.com/gag/aqe9qxR)<!-- MEMES:END -->
 
