@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)
- - [Report: email shows Amazon is walking back pay raises after a bug caused it to overstate bonuses for some corporate staff by using older, higher stock prices &lpar;Colin Lodewick/Fortune&rpar;](http://www.techmeme.com/220923/p17#a220923p17)
- - [It sure looks like we’re getting new MacBook Pros in October](https://www.theverge.com/2022/9/23/23368699/apple-macbook-pro-m2-max-q4-2022)<!-- TECH:END -->
+ - [The best gaming headset deals you can get right now](https://www.theverge.com/good-deals/22876408/best-gaming-headset-deals-sales)
+ - [Why does Logitech have a white Xbox Series X? &lpar;Because they put a skin on it.&rpar;](https://www.theverge.com/2022/9/23/23368202/microsoft-xbox-series-x-white-model-logitech-ad)
+ - [How to use Collaboration in iMessage on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-collaboration-in-imessage-on-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
