@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Athena erupts as one long protest-driven action climax](https://www.polygon.com/reviews/23363495/athena-review-netflix-action-movie-no-church-in-the-wild)
- - [Official PlayStation Podcast Episode 440: Virtual Horizons](https://blog.playstation.com/2022/09/23/official-playstation-podcast-episode-440-virtual-horizons/)
- - [Summon the Spirit of Retro Shooters in Prodeus](https://news.xbox.com/en-us/2022/09/23/summon-the-spirit-of-retro-shooters-in-prodeus/)<!-- GAME:END -->
+ - [This Week on Xbox: Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/09/23/this-week-on-xbox-upcoming-releases-and-updates/)
+ - [In This Modern-Day Bushido Blade-Style Fighting Game It’s One Hit And You’re Toast](https://kotaku.com/die-by-the-blade-triple-hill-interactive-bushido-blade-1849574897)
+ - [Slime Rancher 2 sales smash dev&#39;s &#39;pipe dream&#39; in 6 hours](https://www.pcgamer.com/slime-rancher-2-sales-smash-devs-pipe-dream-in-6-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
