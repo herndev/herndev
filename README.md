@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to sync multiple Apple Watches to one iPhone](https://appleinsider.com/inside/apple-watch/tips/how-to-sync-multiple-apple-watches-to-one-iphone?utm_medium=rss)
- - [Digimon Fans Still Exist—and They’re the Keepers of Its Future](https://www.wired.com/story/digimon-fandom-keepers-of-its-future/)
- - [The Elk Live Bridge Lets You Jam Together Online](https://www.wired.com/review/elk-live-bridge/)<!-- TECH:END -->
+ - [Apple Watch Ultra &amp; AirPods Pro 2 reviews, iPhone 14 Pro in-depth](https://appleinsider.com/articles/22/09/23/apple-watch-ultra-airpods-pro-2-reviews-iphone-14-pro-in-depth?utm_medium=rss)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [France announces minimum €3 book delivery fee to help booksellers compete with Amazon](https://www.theverge.com/2022/9/23/23368219/france-minimum-book-delivery-fee-booksellers-amazon-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
