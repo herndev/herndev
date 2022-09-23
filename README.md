@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Are the Best Portable Storage Drives](https://www.wired.com/story/best-portable-external-storage-drives/)
- - [Ex-Twitter staffer Anika Collier Navaroli reveals herself as the whistleblower who testified to the January 6 committee about Twitter&#39;s failure to curb Trump &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/220923/p12#a220923p12)
- - [How to use the Depth app on Apple Watch Ultra](https://appleinsider.com/inside/apple-watch-ultra/tips/how-to-use-the-depth-app-on-apple-watch-ultra?utm_medium=rss)<!-- TECH:END -->
+ - [Roborock’s S7 Plus mop and robot vacuum hybrid is $270 off](https://www.theverge.com/2022/9/23/23366744/roborock-s7-plus-apple-watch-series-7-starz-acer-chromebook-jabra-elite-deal-sale)
+ - [How to use the Depth app on Apple Watch Ultra](https://appleinsider.com/inside/apple-watch-ultra/tips/how-to-use-the-depth-app-on-apple-watch-ultra?utm_medium=rss)
+ - [Wednesday, The Empress, Rosaline and more streaming trailers to watch](https://www.androidauthority.com/new-movie-trailers-1151533/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
