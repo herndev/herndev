@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with AOL founder Steve Case on his prediction that tech companies will flourish in the US heartland, the current investment slowdown, J.D. Vance, and more &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/220923/p3#a220923p3)
- - [Google Pixel Watch shines in new official video showing off its design](https://www.androidauthority.com/google-pixel-watch-design-3212159/)
- - [A fix for that crazy iPhone 14 Pro camera shake bug is rolling out now](https://www.androidauthority.com/apple-iphone-14-pro-camera-shake-fix-update-3211655/)<!-- TECH:END -->
+ - [Best Cordless Impact Wrench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-cordless-impact-wrench/#ftag=CAD590a51e)
+ - [Best Spark Plugs for 2022     - CNET](https://www.cnet.com/roadshow/news/best-spark-plugs/#ftag=CAD590a51e)
+ - [Best Rowing Machines for Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
