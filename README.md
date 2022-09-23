@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
- - ⏩ [When Godzilla did the drop kick it made me cry, such scene really do changed my life](http://9gag.com/gag/aZDb9bp)
- - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
+ - 💣 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
+ - ⏩ [Apparently Wargs used to do an awful lot of meth](http://9gag.com/gag/aGE9V9w)
+ - 👉 [It&#39;s not a disorder right,?](http://9gag.com/gag/axoNN2n)<!-- MEMES:END -->
 
 ---
 
