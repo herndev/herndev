@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Typical US healthcare system](http://9gag.com/gag/ajVrY08)
- - ⏩ [Live action remake of Finding Nemo looks weird](http://9gag.com/gag/aXn0D96)
- - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
+ - 💣 [Just dropping the `clean` version here](http://9gag.com/gag/a8qWjD3)
+ - ⏩ [That\u2019s what friends are for to record](http://9gag.com/gag/aoKz0Qm)
+ - 👉 [Hey hooman](http://9gag.com/gag/aOxKgp3)<!-- MEMES:END -->
 
 ---
 
