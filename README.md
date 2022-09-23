@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)
- - [Slack and Teams’ Lax App Security Raises Alarms](https://www.wired.com/story/slack-microsoft-teams-app-security/)
- - [How to unpair an Apple Watch](https://www.theverge.com/23368317/unpair-apple-watch-iphone-how-to)<!-- TECH:END -->
+ - [FDA makes it easier for harm reduction groups to purchase lifesaving naloxone](https://www.theverge.com/2022/9/23/23368354/fda-naloxone-guidelines-harm-reduction-opioid-overdose)
+ - [How an 8-year-old Danish kid&#39;s YouTube account sparked a nationwide debate on Google&#39;s ubiquity in the country&#39;s schools and its handling of children&#39;s data &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220923/p16#a220923p16)
+ - [San Francisco police can now watch private surveillance cameras in real time](https://www.theverge.com/2022/9/23/23368603/san-francisco-police-private-surveillance-cameras-vote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
