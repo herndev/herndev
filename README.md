@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fitbit to require a Google account to use its newest devices and features starting in 2023; current users can use non-Google accounts until at least early 2025 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220922/p42#a220922p42)
  - [The CFTC has fined the blockchain protocol bZeroX team $250K and filed an action against its successor Ooki Dao for offering illegal off-exchange crypto trading &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/220922/p41#a220922p41)
- - [Google’s new adventure game takes a top-down trip through ancient Mesoamerica](https://www.theverge.com/2022/9/22/23367413/google-arts-culture-educational-game-ancient-mesoamerica-descent-of-the-serpent)
- - [&#39;Andor&#39; Episodes 1, 2 and 3 Recap: Rebel Dawn of a Star Wars Hero     - CNET](https://www.cnet.com/culture/entertainment/andor-episodes-1-2-and-3-recap-rebel-dawn-for-a-star-wars-hero/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s new adventure game takes a top-down trip through ancient Mesoamerica](https://www.theverge.com/2022/9/22/23367413/google-arts-culture-educational-game-ancient-mesoamerica-descent-of-the-serpent)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
