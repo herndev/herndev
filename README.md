@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Spider-Man: Miles Morales Coming To PC Later This Fall](https://kotaku.com/spider-man-miles-morales-port-pc-steam-insomniac-1849575501)
- - [Dragon Ball’s Unsung Hero Finally Takes Center Stage In The Breakers](https://kotaku.com/dragon-ball-the-breakers-farmer-majin-buu-anime-dimps-1849574913)
- - [The Cyberpunk Netflix show is taking over the 2077 mod scene](https://www.pcgamer.com/the-cyberpunk-netflix-show-is-taking-over-the-2077-mod-scene)<!-- GAME:END -->
+ - [Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
+ - [Genshin Impact’s Klee is dancing her way through thousands of TikToks](https://www.polygon.com/23368690/genshin-impact-meme-ar-tiktok)
+ - [Every new movie you can watch at home this weekend](https://www.polygon.com/23361211/new-movies-watch-minions-netflix-athena-jujutsu-kaisen-0-crunchyroll)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
