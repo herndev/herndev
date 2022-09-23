@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sly Cooper celebrates 20 years today](https://blog.playstation.com/2022/09/23/sly-cooper-celebrates-20-years-today/)
- - [Xbox Launches “Project Amplify” to Support Black Youth Interested in Gaming Industry Careers](https://news.xbox.com/en-us/2022/09/23/xbox-launches-project-amplify/)
- - [There are two clear contenders for the best board game of 2022](https://www.polygon.com/23363672/best-board-games-2022-clear-cards-dead-reckoning-3000-scoundrels)<!-- GAME:END -->
+ - [Smile tickles the brain and terrifies without remorse](https://www.polygon.com/reviews/23368190/smile-review-horror-movie)
+ - [The best World of Warcraft Classic addons](https://www.pcgamer.com/best-wow-classic-addons-mods-quest-helper-how-to-install)
+ - [Crafting Kena: Bridge of Spirits’ new outfits for next week’s Anniversary Update](https://blog.playstation.com/2022/09/23/crafting-kena-bridge-of-spirits-new-outfits-for-next-weeks-anniversary-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
