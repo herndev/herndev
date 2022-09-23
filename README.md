@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smile tickles the brain and terrifies without remorse](https://www.polygon.com/reviews/23368190/smile-review-horror-movie)
- - [The best World of Warcraft Classic addons](https://www.pcgamer.com/best-wow-classic-addons-mods-quest-helper-how-to-install)
- - [Crafting Kena: Bridge of Spirits’ new outfits for next week’s Anniversary Update](https://blog.playstation.com/2022/09/23/crafting-kena-bridge-of-spirits-new-outfits-for-next-weeks-anniversary-update/)<!-- GAME:END -->
+ - [Warzone 2.0 introduces triple Circle Collapse, aquatic combat, new Gulag fights, and more](https://blog.playstation.com/2022/09/23/warzone-2-0-introduces-triple-circle-collapse-aquatic-combat-new-gulag-fights-and-more/)
+ - [Next Week on Xbox: New Games for September 26 to 30](https://news.xbox.com/en-us/2022/09/23/next-week-on-xbox-new-games-for-september-26-to-30/)
+ - [Doctor Who’s Peter Capaldi has a new time travel show — but this time he’s a serial killer](https://www.polygon.com/23368398/peter-capaldi-the-devils-hour-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
