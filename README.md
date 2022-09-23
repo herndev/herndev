@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Exploitation of the working class, in one graph](http://9gag.com/gag/aPgwE2B)
- - ⏩ [Gotta go.](http://9gag.com/gag/aME2MKV)
- - 👉 [Putin&#39;s draft got leaked, 305925 people &lpar;link txt file in comments 94MB&rpar;](http://9gag.com/gag/aYVbbNV)<!-- MEMES:END -->
+ - 💣 [Give this man a medal ..](http://9gag.com/gag/aNwrEXr)
+ - ⏩ [$600](http://9gag.com/gag/agoy3Yv)
+ - 👉 [The greatest war for feminism and human rights is happening in Iran. Wish us luck](http://9gag.com/gag/awZ0W9r)<!-- MEMES:END -->
 
 ---
 
