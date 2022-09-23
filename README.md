@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Upcoming Releases and Updates](https://news.xbox.com/en-us/2022/09/23/this-week-on-xbox-upcoming-releases-and-updates/)
- - [In This Modern-Day Bushido Blade-Style Fighting Game It’s One Hit And You’re Toast](https://kotaku.com/die-by-the-blade-triple-hill-interactive-bushido-blade-1849574897)
- - [Slime Rancher 2 sales smash dev&#39;s &#39;pipe dream&#39; in 6 hours](https://www.pcgamer.com/slime-rancher-2-sales-smash-devs-pipe-dream-in-6-hours)<!-- GAME:END -->
+ - [Dragon Ball’s Unsung Hero Finally Takes Center Stage In The Breakers](https://kotaku.com/dragon-ball-the-breakers-farmer-majin-buu-anime-dimps-1849574913)
+ - [The Cyberpunk Netflix show is taking over the 2077 mod scene](https://www.pcgamer.com/the-cyberpunk-netflix-show-is-taking-over-the-2077-mod-scene)
+ - [HyperX Cloud Stinger 2](https://www.pcgamer.com/hyperx-cloud-stinger-2-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
