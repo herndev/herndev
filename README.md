@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Cordless Impact Wrench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-cordless-impact-wrench/#ftag=CAD590a51e)
- - [Best Spark Plugs for 2022     - CNET](https://www.cnet.com/roadshow/news/best-spark-plugs/#ftag=CAD590a51e)
- - [Best Rowing Machines for Your Home Gym     - CNET](https://www.cnet.com/health/fitness/best-rowing-machine/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Music to sponsor Super Bowl halftime show amidst push into sports](https://www.theverge.com/2022/9/23/23368143/apple-music-super-bowl-lvii-halftime-show-february-2023-sports-streaming-services)
+ - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: Sept. 23&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
+ - [Best Cordless Impact Wrench for 2022     - CNET](https://www.cnet.com/roadshow/news/best-cordless-impact-wrench/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
