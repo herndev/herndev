@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s what friends are for to record](http://9gag.com/gag/aoKz0Qm)
- - ⏩ [Just dropping the `clean` version here](http://9gag.com/gag/a8qWjD3)
- - 👉 [Hey hooman](http://9gag.com/gag/aOxKgp3)<!-- MEMES:END -->
+ - 💣 [Comments Genocide](http://9gag.com/gag/aGEYPr7)
+ - ⏩ [I&#39;m 5&#39;4` &lpar;163 cm&rpar; with size 18 &lpar;eu 55&rpar; feet. I&#39;m basically shaped like an L.](http://9gag.com/gag/anzYyq5)
+ - 👉 [No Nut November is approaching](http://9gag.com/gag/ap9q0BB)<!-- MEMES:END -->
 
 ---
 
