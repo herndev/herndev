@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Russian native and likely proprietor of the RSOCKS botnet was arrested in Bulgaria at the request of the US; he requested and was granted extradition to the US &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220924/p2#a220924p2)
- - [Australian telco Optus, which has suffered a massive cyberattack, has repeatedly opposed changes to privacy laws to give customers more rights over their data &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/220924/p1#a220924p1)
- - [Nicolas Cage Loves His Cat. The Internet Was Made for This Moment     - CNET](https://www.cnet.com/culture/entertainment/nicolas-cage-loves-his-cat-merlin-the-internet-was-made-for-this-exact-moment/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at some of the challenges of zero-trust systems that can create friction for users and employees, as businesses increasingly adopt them to fight hackers &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/220924/p4#a220924p4)
+ - [Source: Byju&#39;s has paid ~$234M to Blackstone for ~38% shares in Aakash, settling all its dues owed to the PE firm as part of a ~$1B deal from April 2021 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220924/p3#a220924p3)
+ - [Russian native and likely proprietor of the RSOCKS botnet was arrested in Bulgaria at the request of the US; he requested and was granted extradition to the US &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/220924/p2#a220924p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
