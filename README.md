@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s this](http://9gag.com/gag/aEqw7y9)
- - ⏩ [Welcome the future.](http://9gag.com/gag/a5Xd7vE)
- - 👉 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)<!-- MEMES:END -->
+ - 💣 [Perhaps](http://9gag.com/gag/ay25dDM)
+ - ⏩ [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
+ - 👉 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
 
 ---
 
