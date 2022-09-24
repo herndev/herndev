@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meet Steven](http://9gag.com/gag/aOxqd16)
- - ⏩ [Oops!](http://9gag.com/gag/aoKz94A)
+ - 💣 [Release the names, c**ts!](http://9gag.com/gag/aXnbv02)
+ - ⏩ [Meet Steven](http://9gag.com/gag/aOxqd16)
  - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 ---
