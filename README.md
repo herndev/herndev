@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Ex-Hearthstone director moves to League of Legends as new design director](https://www.pcgamer.com/ex-hearthstone-director-moves-to-league-of-legends-as-new-design-director)
- - [10 Best Multiplayer Games on PlayStation Plus](https://game-rant-2022.blogspot.com/2022/09/10-best-multiplayer-games-on.html)
- - [Trying to recover cards in non-conference meeting with South Florida](https://game-rant-2022.blogspot.com/2022/09/trying-to-recover-cards-in-non.html)<!-- GAME:END -->
+ - [The Witcher season 3 Axii&#39;s its way into our hearts Summer 2023](https://www.pcgamer.com/the-witcher-season-3-axiis-its-way-into-our-hearts-summer-2023)
+ - [Witcher prequel series Blood Origin premiers this December](https://www.pcgamer.com/witcher-prequel-series-blood-origin-premiers-this-december)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
