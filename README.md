@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)
- - ⏩ [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
- - 👉 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
+ - 💣 [That&#39;s it ! Roger played his last match with Nadal in double. When you&#39;re biggest rival is crying with you when you retire, you know you&#39;ve done good](http://9gag.com/gag/aZDPgX0)
+ - ⏩ [Zues](http://9gag.com/gag/aA0Y30g)
+ - 👉 [Interesting behavior](http://9gag.com/gag/ajVrEPw)<!-- MEMES:END -->
 
 ---
 
