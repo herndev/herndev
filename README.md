@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NY AG tries to explain how Apple’s free Yankees stream is worse than cable TV](https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network)
- - [Apple&#39;s Dream for iPhones Could Actually Be a Nightmare     - CNET](https://www.cnet.com/tech/mobile/apple-dream-for-iphones-could-actually-be-a-nightmare/#ftag=CAD590a51e)
- - [Sci-fi author Neal Stephenson&#39;s blockchain technology startup Lamina1 releases a whitepaper on building an open metaverse, dubbed Theee Metaverse &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220923/p20#a220923p20)<!-- TECH:END -->
+ - [Center for Countering Digital Hate: the largest &quot;incel&quot; forum is becoming more violent; Google, YouTube, Cloudflare, Twitter, and Discord facilitate its growth &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220923/p21#a220923p21)
+ - [10 HBO Max Movies Your Whole Family Will Love     - CNET](https://www.cnet.com/culture/entertainment/the-best-family-movies-on-hbo-max/#ftag=CAD590a51e)
+ - [Pixel 7 Series: What We Know About Google&#39;s Upcoming Phones     - CNET](https://www.cnet.com/tech/mobile/pixel-7-series-what-we-know-about-googles-upcoming-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
