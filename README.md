@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [19 great movies leaving Netflix, Hulu, and HBO Max at the end of September 2022](https://www.polygon.com/what-to-watch/2022/9/24/23363145/best-movies-netflix-amazon-hulu-hbo-leaving-september-2022)
- - [Today&#39;s Wordle 462 answer and hint: Saturday, September 24](https://www.pcgamer.com/todays-wordle-462-answer-hint)
- - [Call of Duty is betting big on AI. Will it pay off?](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)<!-- GAME:END -->
+ - [A Splatoon pro breaks down whether you should ink your base](https://www.polygon.com/23368594/splatoon-3-nintendo-switch-strategy-tips-turf-war)
+ - [The Best And Worst Parts Of Every Assassin’s Creed Game](https://kotaku.com/assassin-s-creed-ubisoft-best-worst-list-valhalla-unity-1849575749)
+ - [19 great movies leaving Netflix, Hulu, and HBO Max at the end of September 2022](https://www.polygon.com/what-to-watch/2022/9/24/23363145/best-movies-netflix-amazon-hulu-hbo-leaving-september-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
