@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ex-Hearthstone director moves to League of Legends as new design director](https://www.pcgamer.com/ex-hearthstone-director-moves-to-league-of-legends-as-new-design-director)
  - [10 Best Multiplayer Games on PlayStation Plus](https://game-rant-2022.blogspot.com/2022/09/10-best-multiplayer-games-on.html)
- - [Trying to recover cards in non-conference meeting with South Florida](https://game-rant-2022.blogspot.com/2022/09/trying-to-recover-cards-in-non.html)
- - [Musqueam&#39;s history, heritage and culture showcased in new FIFA 23 video game](https://game-rant-2022.blogspot.com/2022/09/musqueams-history-heritage-and-culture.html)<!-- GAME:END -->
+ - [Trying to recover cards in non-conference meeting with South Florida](https://game-rant-2022.blogspot.com/2022/09/trying-to-recover-cards-in-non.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
