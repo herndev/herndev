@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [James Earl Jones lets AI take over the voice of Darth Vader](https://www.theverge.com/2022/9/24/23370097/darth-vader-james-earl-jones-obi-wan-kenobi-star-wars-ai-disney-lucasfilm)
- - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)
- - [Mozilla rampages over a lack of browser choice](https://appleinsider.com/articles/22/09/24/mozilla-rampages-over-a-lack-of-browser-choice?utm_medium=rss)<!-- TECH:END -->
+ - [Use your smartwatch to get the best sleep ever: Practical tips](https://www.androidauthority.com/how-to-get-better-sleep-with-smartwatch-3209016/)
+ - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
