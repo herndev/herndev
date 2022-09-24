@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [19 great movies leaving Netflix, Hulu, and HBO Max at the end of September 2022](https://www.polygon.com/what-to-watch/2022/9/24/23363145/best-movies-netflix-amazon-hulu-hbo-leaving-september-2022)
  - [Today&#39;s Wordle 462 answer and hint: Saturday, September 24](https://www.pcgamer.com/todays-wordle-462-answer-hint)
- - [Call of Duty is betting big on AI. Will it pay off?](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)
- - [Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)<!-- GAME:END -->
+ - [Call of Duty is betting big on AI. Will it pay off?](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
