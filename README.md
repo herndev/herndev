@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty is betting big on AI. Will it pay off?](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)
  - [Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
- - [Genshin Impact’s Klee is dancing her way through thousands of TikToks](https://www.polygon.com/23368690/genshin-impact-meme-ar-tiktok)
- - [Every new movie you can watch at home this weekend](https://www.polygon.com/23361211/new-movies-watch-minions-netflix-athena-jujutsu-kaisen-0-crunchyroll)<!-- GAME:END -->
+ - [Everyone is sus in this cute, paranoia-inducing Among Us song](https://www.pcgamer.com/everyone-is-sus-in-this-cute-paranoia-inducing-among-us-song)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
