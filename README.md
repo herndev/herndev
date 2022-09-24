@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
- - [Philadelphia’s Diatom Archive Is a Way, Way, Wayback Machine](https://www.wired.com/story/philadelphias-diatom-archive-is-a-way-way-wayback-machine/)
- - [The Latest Kitty Litter Robot Is Smarter, Quieter—and Pricier](https://www.wired.com/review/whisker-litter-robot-4/)<!-- TECH:END -->
+ - [Child Predators Mine Twitch to Prey on Kids](https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/)
+ - [Windows 11’s First Big&lpar;ish&rpar; Update Is Now Available](https://www.wired.com/story/windows-11-2022-update/)
+ - [Our Favorite Outdoor Security Cams for Your Home or Business](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
