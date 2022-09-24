@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant dating sim lets you hold on to your favorite agents](https://game-rant-2022.blogspot.com/2022/09/valorant-dating-sim-lets-you-hold-on-to.html)
- - [What to Watch in the Seahawks&#39; Week 3 Game vs.  Atlanta](https://game-rant-2022.blogspot.com/2022/09/what-to-watch-in-seahawks-week-3-game.html)
- - [How Octopath Traveler 2 Can Improve Its Story Structure](https://game-rant-2022.blogspot.com/2022/09/how-octopath-traveler-2-can-improve-its.html)<!-- GAME:END -->
+ - [Call of Duty is betting big on AI. Will it pay off?](https://www.pcgamer.com/call-of-duty-is-betting-big-on-ai-will-it-pay-off)
+ - [Report: 17-Year-Old Arrested On Suspicion Of Being Hacker Behind GTA VI Leak](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
+ - [Everyone is sus in this cute, paranoia-inducing Among Us song](https://www.pcgamer.com/everyone-is-sus-in-this-cute-paranoia-inducing-among-us-song)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
