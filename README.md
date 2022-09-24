@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sci-fi author Neal Stephenson&#39;s blockchain technology startup Lamina1 releases a whitepaper on building an open metaverse, dubbed Theee Metaverse &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220923/p20#a220923p20)
- - [NASA’s Artemis I launch faces a new obstacle: the weather](https://www.theverge.com/2022/9/23/23368924/nasa-artemis-tropical-depression-storm-launch)
- - [Internal letter shows Twitch SVP of global creators Constance Knight resigned on the same day the company announced revenue sharing changes for top creators &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/220923/p19#a220923p19)<!-- TECH:END -->
+ - [NY AG tries to explain how Apple’s free Yankees stream is worse than cable TV](https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network)
+ - [Apple&#39;s Dream for iPhones Could Actually Be a Nightmare     - CNET](https://www.cnet.com/tech/mobile/apple-dream-for-iphones-could-actually-be-a-nightmare/#ftag=CAD590a51e)
+ - [Sci-fi author Neal Stephenson&#39;s blockchain technology startup Lamina1 releases a whitepaper on building an open metaverse, dubbed Theee Metaverse &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/220923/p20#a220923p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
