@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Treasury updates its guidance to let US tech companies expand their internet services in Iran, after the country took most of its ~83M citizens offline &lpar;Voice of America&rpar;](http://www.techmeme.com/220924/p9#a220924p9)
- - [The biggest news and trailers from Netflix’s Tudum event](https://www.theverge.com/2022/9/24/23368543/netflix-tudum-2022-news-trailers-release-dates)
- - [They Cloned Tyrone’s onto something wild in its first trailer](https://www.theverge.com/2022/9/24/23368789/netflix-they-cloned-tyrone-trailer)<!-- TECH:END -->
+ - [Mozilla rampages over a lack of browser choice](https://appleinsider.com/articles/22/09/24/mozilla-rampages-over-a-lack-of-browser-choice?utm_medium=rss)
+ - [This small Bluetooth dongle is now my essential travel and road trip companion](https://www.androidauthority.com/airfly-pro-3210844/)
+ - [&#39;Andor&#39; Actors Reveal Why Star Wars Needed This &#39;Gritty, Human&#39; Show     - CNET](https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
