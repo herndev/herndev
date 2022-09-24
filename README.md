@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’m convinced the AirPods Max active noise cancellation has gotten worse](https://www.theverge.com/2022/9/24/23368439/airpods-max-anc-active-noise-canceling-weakened-firmware-experience-appke)
- - [Study says LinkedIn&#39;s A/B testing of its People You May Know algorithm, involving 20M users from 2015 to 2019, may have affected some users&#39; livelihoods &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220924/p7#a220924p7)
- - [Netflix drops lawsuit against The Unofficial Bridgerton Musical’s creators](https://www.theverge.com/2022/9/24/23369761/netflix-drops-lawsuit-unofficial-bridgerton-musical-abigail-barlow-emily-bear)<!-- TECH:END -->
+ - [A court in Brazil temporarily bans Valeu, a government-run delivery app created to fight the monopoly of iFood, after complaints about unfair competition &lpar;Rest of World&rpar;](http://www.techmeme.com/220924/p8#a220924p8)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-451-3212403/)
+ - [How does Alexa work? The tech behind Amazon’s virtual assistant, explained](https://www.androidauthority.com/how-does-alexa-work-3209316/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
