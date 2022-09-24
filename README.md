@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She seems nice](http://9gag.com/gag/aVbOjnn)
- - ⏩ [The War is On](http://9gag.com/gag/aPgvj7w)
- - 👉 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)<!-- MEMES:END -->
+ - 💣 [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
+ - ⏩ [She seems nice](http://9gag.com/gag/aVbOjnn)
+ - 👉 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
 
 ---
 
