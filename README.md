@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [See the &#39;Stranger Things&#39; Cast Bloopers Shared at Netflix Fan Event     - CNET](https://www.cnet.com/culture/entertainment/see-the-stranger-things-cast-bloopers-shared-at-netflix-fan-event/#ftag=CAD590a51e)
- - [Netflix’s new Glass Onion: A Knives Out Mystery clip is full of devious puzzles](https://www.theverge.com/2022/9/24/23368513/glass-onion-a-knives-out-mystery-clip-tudum-netflix)
- - [Ryan Reynolds musical &#39;Spirited&#39; hits theaters Nov 11, Apple TV+ Nov 18](https://appleinsider.com/articles/22/09/24/ryan-reynolds-musical-spirited-hits-theaters-nov-11-apple-tv-nov-18?utm_medium=rss)<!-- TECH:END -->
+ - [The US Treasury updates its guidance to let US tech companies expand their internet services in Iran, after the country took most of its ~83M citizens offline &lpar;Voice of America&rpar;](http://www.techmeme.com/220924/p9#a220924p9)
+ - [The biggest news and trailers from Netflix’s Tudum event](https://www.theverge.com/2022/9/24/23368543/netflix-tudum-2022-news-trailers-release-dates)
+ - [They Cloned Tyrone’s onto something wild in its first trailer](https://www.theverge.com/2022/9/24/23368789/netflix-they-cloned-tyrone-trailer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
