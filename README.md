@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Governor Newsom vetoes a crypto regulation bill that required licenses to facilitate transactions; the bill was passed by the California Assembly last month &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220923/p22#a220923p22)
- - [Netflix Shares New &#39;Squid Game&#39; Season 1 Scene as Tudum Fan Event Starts     - CNET](https://www.cnet.com/culture/entertainment/netflix-shares-new-squid-game-season-1-scene-as-tudum-fan-event-starts/#ftag=CAD590a51e)
- - [Center for Countering Digital Hate: the largest &quot;incel&quot; forum is becoming more violent; Google, YouTube, Cloudflare, Twitter, and Discord facilitate its growth &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220923/p21#a220923p21)<!-- TECH:END -->
+ - [Australian telco Optus, which has suffered a massive cyberattack, has repeatedly opposed changes to privacy laws to give customers more rights over their data &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/220924/p1#a220924p1)
+ - [Nicolas Cage Loves His Cat. The Internet Was Made for This Moment     - CNET](https://www.cnet.com/culture/entertainment/nicolas-cage-loves-his-cat-merlin-the-internet-was-made-for-this-exact-moment/#ftag=CAD590a51e)
+ - [Governor Newsom vetoes a crypto regulation bill that required licenses to facilitate transactions; the bill was passed by the California Assembly last month &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220923/p22#a220923p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
