@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA scraps Artemis I launch due to potential hurricane threat](https://www.theverge.com/2022/9/24/23369842/nasa-scraps-artemis-i-launch-hurricane-threat-tropical-storm-ian)
- - [Enola Holmes 2’s new trailer shows a budding detective in action](https://www.theverge.com/2022/9/24/23368397/enola-holmes-2-trailer-netflix-tudum)
- - [A court in Brazil temporarily bans Valeu, a government-run delivery app created to fight the monopoly of iFood, after complaints about unfair competition &lpar;Rest of World&rpar;](http://www.techmeme.com/220924/p8#a220924p8)<!-- TECH:END -->
+ - [See the &#39;Stranger Things&#39; Cast Bloopers Shared at Netflix Fan Event     - CNET](https://www.cnet.com/culture/entertainment/see-the-stranger-things-cast-bloopers-shared-at-netflix-fan-event/#ftag=CAD590a51e)
+ - [Netflix’s new Glass Onion: A Knives Out Mystery clip is full of devious puzzles](https://www.theverge.com/2022/9/24/23368513/glass-onion-a-knives-out-mystery-clip-tudum-netflix)
+ - [Ryan Reynolds musical &#39;Spirited&#39; hits theaters Nov 11, Apple TV+ Nov 18](https://appleinsider.com/articles/22/09/24/ryan-reynolds-musical-spirited-hits-theaters-nov-11-apple-tv-nov-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
