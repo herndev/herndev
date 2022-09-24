@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mozilla rampages over a lack of browser choice](https://appleinsider.com/articles/22/09/24/mozilla-rampages-over-a-lack-of-browser-choice?utm_medium=rss)
- - [This small Bluetooth dongle is now my essential travel and road trip companion](https://www.androidauthority.com/airfly-pro-3210844/)
- - [&#39;Andor&#39; Actors Reveal Why Star Wars Needed This &#39;Gritty, Human&#39; Show     - CNET](https://www.cnet.com/culture/entertainment/andor-actors-reveal-why-star-wars-needed-this-gritty-human-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [James Earl Jones lets AI take over the voice of Darth Vader](https://www.theverge.com/2022/9/24/23370097/darth-vader-james-earl-jones-obi-wan-kenobi-star-wars-ai-disney-lucasfilm)
+ - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)
+ - [Mozilla rampages over a lack of browser choice](https://appleinsider.com/articles/22/09/24/mozilla-rampages-over-a-lack-of-browser-choice?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
