@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s about it](http://9gag.com/gag/a2KNdvY)
- - ⏩ [She seems nice](http://9gag.com/gag/aVbOjnn)
- - 👉 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
+ - 💣 [Brand new AKs for the Russians](http://9gag.com/gag/aDY01W7)
+ - ⏩ [Oshnavieh, is the first city liberated from the regime in Iran. Only a few regime thugs are barricaded in the ministry of intelligence building, the Kurdish people of the town drove the rest of the regime&#39;s military guards out of the city.](http://9gag.com/gag/aGE9jyK)
+ - 👉 [That&#39;s it ! Roger played his last match with Nadal in double. When you&#39;re biggest rival is crying with you when you retire, you know you&#39;ve done good](http://9gag.com/gag/aZDPgX0)<!-- MEMES:END -->
 
 ---
 
