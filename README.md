@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [G2 esports CEO quits for good after Andrew Tate controversy](https://www.pcgamer.com/g2-esports-ceo-quits-for-good-after-andrew-tate-controversy)
- - [And just like that, the Dark Souls 3 PC servers are back online](https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again)
- - [A Splatoon pro breaks down whether you should ink your base](https://www.polygon.com/23368594/splatoon-3-nintendo-switch-strategy-tips-turf-war)<!-- GAME:END -->
+ - [Manifest season 4 gets a trailer before its final bow on Netflix](https://www.polygon.com/23368993/manifest-final-season-4-trailer-netflix)
+ - [The Shadow and Bone season 2 teaser trailer is chock full of exciting new details](https://www.polygon.com/23368305/shadow-and-bone-season-2-trailer-netflix-release-date)
+ - [Netflix’s Enola Holmes 2 trailer gets Millie Bobby Brown back into sleuthing](https://www.polygon.com/23368370/enola-holmes-2-trailer-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
