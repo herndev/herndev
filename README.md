@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [And just like that, the Dark Souls 3 PC servers are back online](https://www.pcgamer.com/holy-cow-dark-souls-3-pc-servers-are-offline-again)
  - [A Splatoon pro breaks down whether you should ink your base](https://www.polygon.com/23368594/splatoon-3-nintendo-switch-strategy-tips-turf-war)
- - [The Best And Worst Parts Of Every Assassin’s Creed Game](https://kotaku.com/assassin-s-creed-ubisoft-best-worst-list-valhalla-unity-1849575749)
- - [19 great movies leaving Netflix, Hulu, and HBO Max at the end of September 2022](https://www.polygon.com/what-to-watch/2022/9/24/23363145/best-movies-netflix-amazon-hulu-hbo-leaving-september-2022)<!-- GAME:END -->
+ - [The Best And Worst Parts Of Every Assassin’s Creed Game](https://kotaku.com/assassin-s-creed-ubisoft-best-worst-list-valhalla-unity-1849575749)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
