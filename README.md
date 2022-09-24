@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A court in Brazil temporarily bans Valeu, a government-run delivery app created to fight the monopoly of iFood, after complaints about unfair competition &lpar;Rest of World&rpar;](http://www.techmeme.com/220924/p8#a220924p8)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-451-3212403/)
- - [How does Alexa work? The tech behind Amazon’s virtual assistant, explained](https://www.androidauthority.com/how-does-alexa-work-3209316/)<!-- TECH:END -->
+ - [NASA scraps Artemis I launch due to potential hurricane threat](https://www.theverge.com/2022/9/24/23369842/nasa-scraps-artemis-i-launch-hurricane-threat-tropical-storm-ian)
+ - [Enola Holmes 2’s new trailer shows a budding detective in action](https://www.theverge.com/2022/9/24/23368397/enola-holmes-2-trailer-netflix-tudum)
+ - [A court in Brazil temporarily bans Valeu, a government-run delivery app created to fight the monopoly of iFood, after complaints about unfair competition &lpar;Rest of World&rpar;](http://www.techmeme.com/220924/p8#a220924p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
