@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)
- - ⏩ [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)
- - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 💣 [What\u2019s this](http://9gag.com/gag/aEqw7y9)
+ - ⏩ [Welcome the future.](http://9gag.com/gag/a5Xd7vE)
+ - 👉 [Go to the circus they said It will be fun they said](http://9gag.com/gag/aA0Y1yo)<!-- MEMES:END -->
 
 ---
 
