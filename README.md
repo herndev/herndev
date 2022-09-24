@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More of The Verge’s favorite coffee and tea gadgets](https://www.theverge.com/23368715/coffee-tea-aeropress-hario-zojirushi-mr-coffee)
- - [LG is price-slashing 2022 OLED TVs at Best Buy](https://www.theverge.com/2022/9/24/23368323/lg-oled-tv-b2-c2-evo-apple-macbook-pro-watch-se-xbox-playstation-deal-sale)
- - [Amazon&#39;s 2022 Echo and Ring Launch Event: How to Get All the Details Live     - CNET](https://www.cnet.com/tech/amazons-2022-echo-and-ring-launch-event-how-to-get-all-the-details-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I’m convinced the AirPods Max active noise cancellation has gotten worse](https://www.theverge.com/2022/9/24/23368439/airpods-max-anc-active-noise-canceling-weakened-firmware-experience-appke)
+ - [Study: LinkedIn ran an experiment on 20M users from 2015 to 2019, randomly varying the strength of its People You May Know algorithm, without telling the users &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220924/p7#a220924p7)
+ - [Netflix drops lawsuit against The Unofficial Bridgerton Musical’s creators](https://www.theverge.com/2022/9/24/23369761/netflix-drops-lawsuit-unofficial-bridgerton-musical-abigail-barlow-emily-bear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
