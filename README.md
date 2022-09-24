@@ -37,7 +37,7 @@
 
 <!-- TECH:START -->
  - [I’m convinced the AirPods Max active noise cancellation has gotten worse](https://www.theverge.com/2022/9/24/23368439/airpods-max-anc-active-noise-canceling-weakened-firmware-experience-appke)
- - [Study: LinkedIn ran an experiment on 20M users from 2015 to 2019, randomly varying the strength of its People You May Know algorithm, without telling the users &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220924/p7#a220924p7)
+ - [Study says LinkedIn&#39;s A/B testing of its People You May Know algorithm, involving 20M users from 2015 to 2019, may have affected some users&#39; livelihoods &lpar;Natasha Singer/New York Times&rpar;](http://www.techmeme.com/220924/p7#a220924p7)
  - [Netflix drops lawsuit against The Unofficial Bridgerton Musical’s creators](https://www.theverge.com/2022/9/24/23369761/netflix-drops-lawsuit-unofficial-bridgerton-musical-abigail-barlow-emily-bear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
