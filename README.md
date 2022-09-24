@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Center for Countering Digital Hate: the largest &quot;incel&quot; forum is becoming more violent; Google, YouTube, Cloudflare, Twitter, and Discord facilitate its growth &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220923/p21#a220923p21)
- - [Skip the Protein Shakes: 8 Muscle-Building Foods to Eat Instead     - CNET](https://www.cnet.com/health/nutrition/skip-the-protein-shakes-8-muscle-building-foods-to-eat-instead/#ftag=CAD590a51e)
- - [10 HBO Max Movies Your Whole Family Will Love     - CNET](https://www.cnet.com/culture/entertainment/the-best-family-movies-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Governor Newsom vetoes a crypto regulation bill that required licenses to facilitate transactions; the bill was passed by the California Assembly last month &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/220923/p22#a220923p22)
+ - [Netflix Shares New &#39;Squid Game&#39; Season 1 Scene as Tudum Fan Event Starts     - CNET](https://www.cnet.com/culture/entertainment/netflix-shares-new-squid-game-season-1-scene-as-tudum-fan-event-starts/#ftag=CAD590a51e)
+ - [Center for Countering Digital Hate: the largest &quot;incel&quot; forum is becoming more violent; Google, YouTube, Cloudflare, Twitter, and Discord facilitate its growth &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/220923/p21#a220923p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
