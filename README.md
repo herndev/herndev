@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Great Deals on Apple Gadgets, TVs, and Bluetooth Speakers](https://www.wired.com/story/weekend-deals-september-24-2022/)
- - [How to Find Your Vaccine History—and Store It Safely](https://www.wired.com/story/how-to-find-vaccine-history-store-it-safely/)
- - [Why Adam Levine&#39;s Cringe DMs Are Perfect for the Meme Machine](https://www.wired.com/story/adam-levine-dms-internet-meme/)<!-- TECH:END -->
+ - [The Best Coffee Subscriptions We’ve Savored](https://www.wired.com/story/best-coffee-subscriptions/)
+ - [Philadelphia’s Diatom Archive Is a Way, Way, Wayback Machine](https://www.wired.com/story/philadelphias-diatom-archive-is-a-way-way-wayback-machine/)
+ - [The Latest Kitty Litter Robot Is Smarter, Quieter—and Pricier](https://www.wired.com/review/whisker-litter-robot-4/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
