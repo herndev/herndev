@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women aren\u2019t real, CONFIRMED.](http://9gag.com/gag/aDY0GNN)
- - ⏩ [No Nut November is approaching](http://9gag.com/gag/ap9q0BB)
- - 👉 [Welcome the future.](http://9gag.com/gag/a5Xd7vE)<!-- MEMES:END -->
+ - 💣 [Meet Steven](http://9gag.com/gag/aOxqd16)
+ - ⏩ [Oops!](http://9gag.com/gag/aoKz94A)
+ - 👉 [He was very healthy and never had any such problems...](http://9gag.com/gag/abv5yxO)<!-- MEMES:END -->
 
 ---
 
