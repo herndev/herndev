@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Child Predators Mine Twitch to Prey on Kids](https://www.wired.com/story/child-predators-twitch-russia-internet-regulator-security-roundup/)
- - [Windows 11’s First Big&lpar;ish&rpar; Update Is Now Available](https://www.wired.com/story/windows-11-2022-update/)
- - [Our Favorite Outdoor Security Cams for Your Home or Business](https://www.wired.com/gallery/best-outdoor-security-cameras/)<!-- TECH:END -->
+ - [More of The Verge’s favorite coffee and tea gadgets](https://www.theverge.com/23368715/coffee-tea-aeropress-hario-zojirushi-mr-coffee)
+ - [LG is price-slashing 2022 OLED TVs at Best Buy](https://www.theverge.com/2022/9/24/23368323/lg-oled-tv-b2-c2-evo-apple-macbook-pro-watch-se-xbox-playstation-deal-sale)
+ - [Amazon&#39;s 2022 Echo and Ring Launch Event: How to Get All the Details Live     - CNET](https://www.cnet.com/tech/amazons-2022-echo-and-ring-launch-event-how-to-get-all-the-details-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
