@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s something](http://9gag.com/gag/aL1K0KM)
+ - 💣 [`And a side of plain rice, please`](http://9gag.com/gag/aWGZ1P4)
  - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
+ - 👉 [Well here we go again](http://9gag.com/gag/aPgvRLG)<!-- MEMES:END -->
 
 ---
 
