@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mother who have nothing, but always gives everything \ud83d\udc95](http://9gag.com/gag/a8qWq8Z)
- - ⏩ [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
- - 👉 [He&#39;s right tho](http://9gag.com/gag/aL1K1nv)<!-- MEMES:END -->
+ - 💣 [One determined puppy](http://9gag.com/gag/a9qdpgD)
+ - ⏩ [Ah yes.. the pain and sorrow momment](http://9gag.com/gag/a8qW1v6)
+ - 👉 [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)<!-- MEMES:END -->
 
 ---
 
