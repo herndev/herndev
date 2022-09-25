@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oldie](http://9gag.com/gag/abv5V7O)
- - ⏩ [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 💣 [Reupload because 9gag doesn&#39;t like the word libt***.](http://9gag.com/gag/adPN1LD)
+ - ⏩ [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
+ - 👉 [In Australia, this football team just won the league championship. Their captain went into the stands to get their waterboy, who has Down&#39;s Syndrome, so they could celebrate together.](http://9gag.com/gag/a3ZYGB8)<!-- MEMES:END -->
 
 ---
 
