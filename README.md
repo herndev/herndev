@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reupload because 9gag doesn&#39;t like the word libt***.](http://9gag.com/gag/adPN1LD)
- - ⏩ [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
- - 👉 [In Australia, this football team just won the league championship. Their captain went into the stands to get their waterboy, who has Down&#39;s Syndrome, so they could celebrate together.](http://9gag.com/gag/a3ZYGB8)<!-- MEMES:END -->
+ - 💣 [Chunese](http://9gag.com/gag/aQEqzvr)
+ - ⏩ [In Australia, this football team just won the league championship. Their captain went into the stands to get their waterboy, who has Down&#39;s Syndrome, so they could celebrate together.](http://9gag.com/gag/a3ZYGB8)
+ - 👉 [What?!](http://9gag.com/gag/adPNgEj)<!-- MEMES:END -->
 
 ---
 
