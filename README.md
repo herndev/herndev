@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strange reality](http://9gag.com/gag/aREQ7X7)
- - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 💣 [Mother who have nothing, but always gives everything \ud83d\udc95](http://9gag.com/gag/a8qWq8Z)
+ - ⏩ [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)
+ - 👉 [He&#39;s right tho](http://9gag.com/gag/aL1K1nv)<!-- MEMES:END -->
 
 ---
 
