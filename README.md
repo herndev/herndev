@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This cheery, Hexen-like FPS declares war on goblins](https://www.pcgamer.com/this-cheery-hexen-like-fps-declares-war-on-goblins)
- - [That time National Lampoon made a parody chess game](https://www.pcgamer.com/saturday-crapshoot-chess-maniac-five-billion-and-one)
- - [Anyway, here&#39;s Megalovania in the silly trombone game](https://www.pcgamer.com/anyway-heres-megalovania-in-the-silly-trombone-game)<!-- GAME:END -->
+ - [Do you check how long games take to finish before you play them?](https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them)
+ - [You&#39;re the emergent AI who destroys, or saves, humanity in this sandbox strategy game](https://www.pcgamer.com/youre-the-emergent-ai-who-destroys-or-saves-humanity-in-this-sandbox-strategy-game)
+ - [This cheery, Hexen-like FPS declares war on goblins](https://www.pcgamer.com/this-cheery-hexen-like-fps-declares-war-on-goblins)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
