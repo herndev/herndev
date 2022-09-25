@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tekken ranked matches ruined me](http://9gag.com/gag/aYVbLA0)
+ - 💣 [I&#39;m starting to think they don&#39;t care about me](http://9gag.com/gag/aDY0G8O)
  - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
+ - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 ---
 
