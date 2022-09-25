@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Windows 11&#39;s Big 2022 Update Is Worth Downloading     - CNET](https://www.cnet.com/tech/services-and-software/why-windows-11s-big-2022-update-is-worth-downloading/#ftag=CAD590a51e)
- - [Rihanna to headline Apple Music&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/22/09/25/rihanna-to-headline-apple-musics-super-bowl-halftime-show?utm_medium=rss)
- - [Best Soundbar Deals: Save $388 on the LG SP8YA, $270 on LG Eclair and More     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Pro, Pro Max continue to be high in demand](https://appleinsider.com/articles/22/09/25/iphone-14-pro-pro-max-continue-to-be-high-in-demand?utm_medium=rss)
+ - [Football claims another Microsoft Surface tablet](https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey)
+ - [Counterpoint: the average selling price of iPhones could rise to $892 in Q3 and $944 in Q4, as buyers choose Pro models; the current record is $873 from Q4 2021 &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220925/p6#a220925p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
