@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [English archer explaining the history, production, and skills of archery.](http://9gag.com/gag/a3ZYwz1)
- - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [This Is So Wholesome](http://9gag.com/gag/aL1KBVV)<!-- MEMES:END -->
+ - 💣 [This cat doesn&#39;t want their owner to work](http://9gag.com/gag/aeQNeRp)
+ - ⏩ [What\u2019s this](http://9gag.com/gag/aEqw7y9)
+ - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 ---
 
