@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chunese](http://9gag.com/gag/aQEqzvr)
- - ⏩ [In Australia, this football team just won the league championship. Their captain went into the stands to get their waterboy, who has Down&#39;s Syndrome, so they could celebrate together.](http://9gag.com/gag/a3ZYGB8)
- - 👉 [What?!](http://9gag.com/gag/adPNgEj)<!-- MEMES:END -->
+ - 💣 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
+ - ⏩ [Fiat Cinquecento \u2013 1992](http://9gag.com/gag/aZDPy4W)
+ - 👉 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
 
 ---
 
