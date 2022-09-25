@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m starting to think they don&#39;t care about me](http://9gag.com/gag/aDY0G8O)
- - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
+ - 💣 [Men never really grow up !](http://9gag.com/gag/aVbO0gn)
+ - ⏩ [No problems](http://9gag.com/gag/adPNXdV)
+ - 👉 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
 
 ---
 
