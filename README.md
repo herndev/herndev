@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men never really grow up !](http://9gag.com/gag/aVbO0gn)
- - ⏩ [No problems](http://9gag.com/gag/adPNXdV)
- - 👉 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
+ - 💣 [Strange reality](http://9gag.com/gag/aREQ7X7)
+ - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
 
 ---
 
