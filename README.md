@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good times](http://9gag.com/gag/axoNzrW)
- - ⏩ [What\u2019s this](http://9gag.com/gag/aEqw7y9)
- - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 💣 [What\u2019s this](http://9gag.com/gag/aEqw7y9)
+ - ⏩ [The old fool has finished playing](http://9gag.com/gag/adPN5Z2)
+ - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 ---
 
