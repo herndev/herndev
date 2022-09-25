@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`And a side of plain rice, please`](http://9gag.com/gag/aWGZ1P4)
- - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [Well here we go again](http://9gag.com/gag/aPgvRLG)<!-- MEMES:END -->
+ - 💣 [Good luck to the Russian conscripts.](http://9gag.com/gag/aGE9y90)
+ - ⏩ [I love Eco punk](http://9gag.com/gag/awZrZ04)
+ - 👉 [When you have max skill and use starter items.](http://9gag.com/gag/awZrZXR)<!-- MEMES:END -->
 
 ---
 
