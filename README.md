@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 action movies with older leads who don’t miss a beat](https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors)
- - [Hit the Skip Intro button to get the highlights of Netflix’s big Tudum event](https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher)
- - [Today&#39;s Wordle 463 answer and hint: Sunday, September 25](https://www.pcgamer.com/todays-wordle-463-answer-hint)<!-- GAME:END -->
+ - [Gotham Knights will take multiple playthroughs to see the whole story](https://www.pcgamer.com/gotham-knights-will-take-multiple-playthroughs-to-see-the-whole-story)
+ - [Vesper gives the apocalypse a pretty face and an ugly heart](https://www.polygon.com/reviews/23365454/vesper-review-2022)
+ - [10 action movies with older leads who don’t miss a beat](https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
