@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [James Earl Jones lets AI take over the voice of Darth Vader](https://www.theverge.com/2022/9/24/23370097/darth-vader-james-earl-jones-obi-wan-kenobi-star-wars-ai-disney-lucasfilm)
- - [Use your smartwatch to get the best sleep ever: Practical tips](https://www.androidauthority.com/how-to-get-better-sleep-with-smartwatch-3209016/)
- - [A look at Kyiv-based Respeecher, which uses performers&#39; archival voice recordings and AI to create new dialogue, including for Darth Vader in Obi-Wan Kenobi &lpar;Anthony Breznican/Vanity Fair&rpar;](http://www.techmeme.com/220924/p10#a220924p10)<!-- TECH:END -->
+ - [Watch These Hilarious &#39;Stranger Things&#39; Behind-the-Scenes Bloopers     - CNET](https://www.cnet.com/culture/entertainment/watch-these-hilarious-stranger-things-behind-the-scenes-bloopers/#ftag=CAD590a51e)
+ - [&#39;They Cloned Tyrone&#39; Teaser Stars Jamie Foxx and John Boyega in a Sci-Fi Mystery     - CNET](https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-stars-jamie-foxx-and-john-boyega-in-a-sci-fi-mystery/#ftag=CAD590a51e)
+ - [&#39;The Witcher&#39; Season 3 Gets a Release Date     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-season-3-gets-a-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
