@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Goth step mom with a fur coat](http://9gag.com/gag/aGE9j10)
- - ⏩ [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - 💣 [Oldie](http://9gag.com/gag/abv5V7O)
+ - ⏩ [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
  - 👉 [It friday](http://9gag.com/gag/aeQNMAv)<!-- MEMES:END -->
 
 ---
