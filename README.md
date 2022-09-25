@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [English archer explaining the history, production, and skills of archery.](http://9gag.com/gag/a3ZYwz1)
+ - 💣 [Tekken ranked matches ruined me](http://9gag.com/gag/aYVbLA0)
  - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
- - 👉 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
+ - 👉 [What\u2019s this](http://9gag.com/gag/aEqw7y9)<!-- MEMES:END -->
 
 ---
 
