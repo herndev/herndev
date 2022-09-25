@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Saints Row &lpar;2022&rpar; Review - Niche Gamer](https://game-rant-2022.blogspot.com/2022/09/saints-row-2022-review-niche-gamer.html)
- - [GTA 6 PC Requirements, Map, Weapons &amp; Much More – Tech Ballad](https://game-rant-2022.blogspot.com/2022/09/gta-6-pc-requirements-map-weapons-much.html)
- - [10 Most Surprisingly Good Disney Sequels, Ranked](https://game-rant-2022.blogspot.com/2022/09/10-most-surprisingly-good-disney.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 463 answer and hint: Sunday, September 25](https://www.pcgamer.com/todays-wordle-463-answer-hint)
+ - [Oxenfree 2 has been delayed](https://www.pcgamer.com/oxenfree-2-has-been-delayed)
+ - [Do you check how long games take to finish before you play them?](https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
