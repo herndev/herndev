@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill](https://www.wired.com/story/a-wheel-made-of-odd-matter-spontaneously-rolls-uphill/)
- - [How to Upload Custom Emoji in Slack](https://www.wired.com/story/how-to-upload-custom-emoji-slack/)
- - [How to Switch iPhones Without Losing a Thing](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
+ - [How to Back Up Your Digital Life](https://www.wired.com/story/how-to-back-up-your-digital-life/)
+ - [Growing Old Online](https://www.wired.com/story/growing-old-online/)
+ - [Daily deals Sept. 25: $60 Apple Magic Mouse, $30 Apple MagSafe Charger, 44% off Nest Mesh Wi-Fi, more](https://appleinsider.com/articles/22/09/25/daily-deals-sept-25-60-apple-magic-mouse-30-apple-magsafe-charger-44-off-nest-mesh-wi-fi-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
