@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Deals: save up to $400 on select MacBook Pros &amp; get 0% financing for 24 months](https://appleinsider.com/articles/22/09/13/deals-save-up-to-400-on-select-macbook-pros-get-0-financing-for-24-months?utm_medium=rss)
  - [A look at The Follower, an art project using open-source facial recognition software to match Instagram photos with EarthCam video footage of people taking them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220925/p2#a220925p2)
- - [A profile of YMTC, China&#39;s top memory chip maker that could end up in the crosshairs of US sanctions; YMTC had 1% share of the global memory chip market in 2020 &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220925/p1#a220925p1)
- - [Daily deals Sept. 24: $129 off Apple Watch Series 7, $180 LG 29-inch UltraWide monitor, $69 Apple Pencil, more](https://appleinsider.com/articles/22/09/24/daily-deals-sept-24-129-off-apple-watch-series-7-180-lg-29-inch-ultrawide-monitor-69-apple-pencil-more?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of YMTC, China&#39;s top memory chip maker that could end up in the crosshairs of US sanctions; YMTC had 1% share of the global memory chip market in 2020 &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220925/p1#a220925p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
