@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA is about to crash a spacecraft into an asteroid](https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos)
- - [The best thing Google can do for the Pixel line is stay consistent](https://www.androidauthority.com/google-pixel-line-consistency-3209260/)
- - [iPhone, in the third year of a three-year design cycle, may be overhauled next year; Apple Pay Later may arrive in 2023; Apple may not hold an October event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220925/p5#a220925p5)<!-- TECH:END -->
+ - [Rihanna to headline Apple Music&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/22/09/25/rihanna-to-headline-apple-musics-super-bowl-halftime-show?utm_medium=rss)
+ - [7 Best Exercise Bikes for 2022     - CNET](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
+ - [Save Up to $1,300 On Samsung&#39;s Ultra-Sleek The Frame 4K TV     - CNET](https://www.cnet.com/deals/1-day-woot-sale-knocks-up-to-1198-off-select-sizes-of-samsungs-the-frame-4k-tvs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
