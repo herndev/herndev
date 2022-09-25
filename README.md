@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Acer Predator Triton 500 SE review: I expected more](https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review)
  - [How to Back Up Your Digital Life](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Growing Old Online](https://www.wired.com/story/growing-old-online/)
- - [Daily deals Sept. 25: $60 Apple Magic Mouse, $30 Apple MagSafe Charger, 44% off Nest Mesh Wi-Fi, more](https://appleinsider.com/articles/22/09/25/daily-deals-sept-25-60-apple-magic-mouse-30-apple-magsafe-charger-44-off-nest-mesh-wi-fi-more?utm_medium=rss)<!-- TECH:END -->
+ - [Growing Old Online](https://www.wired.com/story/growing-old-online/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
