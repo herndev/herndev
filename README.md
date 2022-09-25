@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a cozy little life sim about making potions](https://www.pcgamer.com/heres-a-cozy-little-life-sim-about-making-potions)
  - [Gotham Knights will take multiple playthroughs to see the whole story](https://www.pcgamer.com/gotham-knights-will-take-multiple-playthroughs-to-see-the-whole-story)
- - [Vesper gives the apocalypse a pretty face and an ugly heart](https://www.polygon.com/reviews/23365454/vesper-review-2022)
- - [10 action movies with older leads who don’t miss a beat](https://www.polygon.com/what-to-watch/23356850/good-action-movies-older-actors)<!-- GAME:END -->
+ - [Vesper gives the apocalypse a pretty face and an ugly heart](https://www.polygon.com/reviews/23365454/vesper-review-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
