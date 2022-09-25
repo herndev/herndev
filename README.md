@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola Edge 30 Ultra camera tested: Here’s what 200MP can do on a phone](https://www.androidauthority.com/motorola-edge-30-ultra-camera-review-3208667/)
- - [iOS 16&#39;s Best New iPhone Features: New iMessage Updates, Lock Screen and More     - CNET](https://www.cnet.com/tech/mobile/ios-16s-best-new-iphone-features-new-imessage-updates-lock-screen-and-more/#ftag=CAD590a51e)
- - [Deals: save up to $400 on select MacBook Pros &amp; get 0% financing for 24 months](https://appleinsider.com/articles/22/09/13/deals-save-up-to-400-on-select-macbook-pros-get-0-financing-for-24-months?utm_medium=rss)<!-- TECH:END -->
+ - [A Wheel Made of ‘Odd Matter’ Spontaneously Rolls Uphill](https://www.wired.com/story/a-wheel-made-of-odd-matter-spontaneously-rolls-uphill/)
+ - [How to Upload Custom Emoji in Slack](https://www.wired.com/story/how-to-upload-custom-emoji-slack/)
+ - [How to Switch iPhones Without Losing a Thing](https://www.wired.com/story/how-to-switch-iphones-or-ipad/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
