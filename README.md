@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Rurouni Kenshin anime will be release next year and it will adapt the whole manga.](http://9gag.com/gag/aL1Kg6V)
- - ⏩ [`Hollywood effect`](http://9gag.com/gag/anzYMbb)
- - 👉 [I ONLY HAVE ONE FEAR. IF IT HAPPENED TO ME](http://9gag.com/gag/ajVrD6p)<!-- MEMES:END -->
+ - 💣 [Good times](http://9gag.com/gag/axoNzrW)
+ - ⏩ [What\u2019s this](http://9gag.com/gag/aEqw7y9)
+ - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 ---
 
