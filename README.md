@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save up to $400 on select MacBook Pros &amp; get 0% financing for 24 months](https://appleinsider.com/articles/22/09/13/deals-save-up-to-400-on-select-macbook-pros-get-0-financing-for-24-months?utm_medium=rss)
- - [A look at The Follower, an art project using open-source facial recognition software to match Instagram photos with EarthCam video footage of people taking them &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/220925/p2#a220925p2)
- - [A profile of YMTC, China&#39;s top memory chip maker that could end up in the crosshairs of US sanctions; YMTC had 1% share of the global memory chip market in 2020 &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220925/p1#a220925p1)<!-- TECH:END -->
+ - [Motorola Edge 30 Ultra camera tested: Here’s what 200MP can do on a phone](https://www.androidauthority.com/motorola-edge-30-ultra-camera-review-3208667/)
+ - [iOS 16&#39;s Best New iPhone Features: New iMessage Updates, Lock Screen and More     - CNET](https://www.cnet.com/tech/mobile/ios-16s-best-new-iphone-features-new-imessage-updates-lock-screen-and-more/#ftag=CAD590a51e)
+ - [Deals: save up to $400 on select MacBook Pros &amp; get 0% financing for 24 months](https://appleinsider.com/articles/22/09/13/deals-save-up-to-400-on-select-macbook-pros-get-0-financing-for-24-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
