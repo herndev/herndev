@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone, in the third year of a three-year design cycle, may be overhauled next year; Apple Pay Later may arrive in 2023; Apple may not hold an October event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220925/p5#a220925p5)
- - [Save $195 on a lifetime Microsoft Office for Mac Home &amp; Business 2021 license](https://appleinsider.com/articles/22/09/25/save-195-on-a-lifetime-microsoft-office-for-mac-home-business-2021-license?utm_medium=rss)
- - [DirecTV’s NFL Sunday Ticket is having some issues again](https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football)<!-- TECH:END -->
+ - [NASA is about to crash a spacecraft into an asteroid](https://www.theverge.com/2022/9/25/23367395/nasa-dart-crash-asteroid-dimorphos-didymos)
+ - [The best thing Google can do for the Pixel line is stay consistent](https://www.androidauthority.com/google-pixel-line-consistency-3209260/)
+ - [iPhone, in the third year of a three-year design cycle, may be overhauled next year; Apple Pay Later may arrive in 2023; Apple may not hold an October event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220925/p5#a220925p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
