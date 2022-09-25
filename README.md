@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [YouTubers test durability of Apple Watch Ultra in different ways](https://appleinsider.com/articles/22/09/25/youtubers-test-durability-of-apple-watch-ultra-in-different-ways?utm_medium=rss)
  - [iPhone 14 Pro, Pro Max continue to be high in demand](https://appleinsider.com/articles/22/09/25/iphone-14-pro-pro-max-continue-to-be-high-in-demand?utm_medium=rss)
- - [Football claims another Microsoft Surface tablet](https://www.theverge.com/2022/9/25/23371725/football-nfl-claims-microsoft-surface-tablet-miami-dolphins-buffalo-bills-ken-dorsey)
- - [Counterpoint: the average selling price of iPhones could rise to $892 in Q3 and $944 in Q4, as buyers choose Pro models; the current record is $873 from Q4 2021 &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/220925/p6#a220925p6)<!-- TECH:END -->
+ - [James Earl Jones Signals His Retirement From Playing Darth Vader     - CNET](https://www.cnet.com/culture/entertainment/james-earl-jones-signals-retirement-from-darth-vader/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
