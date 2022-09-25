@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you keep arguing with an idiot, then you are an idiot as well.](http://9gag.com/gag/aEqwxXo)
- - ⏩ [It friday](http://9gag.com/gag/aeQNMAv)
- - 👉 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)<!-- MEMES:END -->
+ - 💣 [English archer explaining the history, production, and skills of archery.](http://9gag.com/gag/a3ZYwz1)
+ - ⏩ [Based gaston](http://9gag.com/gag/aGE9dnz)
+ - 👉 [This Is So Wholesome](http://9gag.com/gag/aL1KBVV)<!-- MEMES:END -->
 
 ---
 
