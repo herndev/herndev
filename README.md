@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch These Hilarious &#39;Stranger Things&#39; Behind-the-Scenes Bloopers     - CNET](https://www.cnet.com/culture/entertainment/watch-these-hilarious-stranger-things-behind-the-scenes-bloopers/#ftag=CAD590a51e)
- - [&#39;They Cloned Tyrone&#39; Teaser Stars Jamie Foxx and John Boyega in a Sci-Fi Mystery     - CNET](https://www.cnet.com/culture/entertainment/they-cloned-tyrone-teaser-stars-jamie-foxx-and-john-boyega-in-a-sci-fi-mystery/#ftag=CAD590a51e)
- - [&#39;The Witcher&#39; Season 3 Gets a Release Date     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-season-3-gets-a-release-date/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Enola Holmes 2&#39; Trailer Has Millie Bobby Brown Solving More Mysteries     - CNET](https://www.cnet.com/culture/entertainment/enola-holmes-2-netflix-trailer-has-millie-bobby-brown-solving-more-mysteries/#ftag=CAD590a51e)
+ - [&#39;Bridgerton&#39; Prequel Reveals Feisty First Look at Young Queen Charlotte     - CNET](https://www.cnet.com/culture/entertainment/bridgerton-prequel-reveals-feisty-first-look-at-young-queen-charlotte/#ftag=CAD590a51e)
+ - [&#39;The Watcher&#39; Trailer: Ryan Murphy&#39;s New Netflix Show Looks Super Creepy     - CNET](https://www.cnet.com/culture/entertainment/the-watcher-trailer-ryan-murphys-new-netflix-show-looks-super-creepy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
