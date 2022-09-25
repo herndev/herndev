@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Acer Predator Triton 500 SE review: I expected more](https://www.theverge.com/23318247/acer-predator-triton-500-se-gaming-laptop-test-benchmark-review)
- - [How to Back Up Your Digital Life](https://www.wired.com/story/how-to-back-up-your-digital-life/)
- - [Growing Old Online](https://www.wired.com/story/growing-old-online/)<!-- TECH:END -->
+ - [Apple Pay Later&#39;s challenges could delay launch to early 2023](https://appleinsider.com/articles/22/09/25/apple-pay-laters-challenges-could-delay-launch-to-early-2023?utm_medium=rss)
+ - [Apple Pay Later is reportedly facing ‘technical and engineering’ issues](https://www.theverge.com/2022/9/25/23371100/apple-pay-later-bnpl-reportedly-facing-technical-engineering-issues-gurman)
+ - [AI will help phone photos surpass the DSLR, says Qualcomm](https://www.androidauthority.com/smartphone-camera-future-interview-3183730/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
