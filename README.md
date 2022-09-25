@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [All the news and trailers out of Netflix’s giant Tudum fan event](https://www.polygon.com/entertainment/23368364/netflix-shows-trailers-news-bridgerton-witcher)
  - [Today&#39;s Wordle 463 answer and hint: Sunday, September 25](https://www.pcgamer.com/todays-wordle-463-answer-hint)
- - [Oxenfree 2 has been delayed](https://www.pcgamer.com/oxenfree-2-has-been-delayed)
- - [Do you check how long games take to finish before you play them?](https://www.pcgamer.com/do-you-check-how-long-games-take-to-finish-before-you-play-them)<!-- GAME:END -->
+ - [Oxenfree 2 has been delayed](https://www.pcgamer.com/oxenfree-2-has-been-delayed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
