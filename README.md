@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of YMTC, China&#39;s top memory chip maker that could end up in the crosshairs of US sanctions; YMTC had 1% share of the global memory chip market in 2020 &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/220925/p1#a220925p1)
  - [Daily deals Sept. 24: $129 off Apple Watch Series 7, $180 LG 29-inch UltraWide monitor, $69 Apple Pencil, more](https://appleinsider.com/articles/22/09/24/daily-deals-sept-24-129-off-apple-watch-series-7-180-lg-29-inch-ultrawide-monitor-69-apple-pencil-more?utm_medium=rss)
- - [Paris-based Zenchef, which offers restaurants tools to enhance customer experience and optimize front-of-house operations, has raised &amp;euro;50M+ from PSG Equity &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/220924/p11#a220924p11)
- - [&#39;Enola Holmes 2&#39; Trailer Has Millie Bobby Brown Solving More Mysteries     - CNET](https://www.cnet.com/culture/entertainment/enola-holmes-2-netflix-trailer-has-millie-bobby-brown-solving-more-mysteries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Paris-based Zenchef, which offers restaurants tools to enhance customer experience and optimize front-of-house operations, has raised &amp;euro;50M+ from PSG Equity &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/220924/p11#a220924p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
