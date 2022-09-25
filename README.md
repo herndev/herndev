@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Getting burned at the stake is just the start in this grimdark, witchy FPS](https://www.pcgamer.com/getting-burned-at-the-stake-is-just-the-start-in-this-grimdark-witchy-fps)
  - [Here&#39;s a cozy little life sim about making potions](https://www.pcgamer.com/heres-a-cozy-little-life-sim-about-making-potions)
- - [Gotham Knights will take multiple playthroughs to see the whole story](https://www.pcgamer.com/gotham-knights-will-take-multiple-playthroughs-to-see-the-whole-story)
- - [Vesper gives the apocalypse a pretty face and an ugly heart](https://www.polygon.com/reviews/23365454/vesper-review-2022)<!-- GAME:END -->
+ - [Gotham Knights will take multiple playthroughs to see the whole story](https://www.pcgamer.com/gotham-knights-will-take-multiple-playthroughs-to-see-the-whole-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
