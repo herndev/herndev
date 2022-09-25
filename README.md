@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple opens fourth South Korean Apple Store in Seoul](https://appleinsider.com/articles/22/09/25/apple-opens-fourth-south-korean-apple-store-in-seoul?utm_medium=rss)
- - [The iPhone 15 ‘Ultra’ could replace the Pro Max](https://www.theverge.com/2022/9/25/23371160/iphone-15-ultra-replace-pro-max-apple-rumors-usb-c)
- - [The Galaxy Book 2 Pro made Samsung’s ecosystem worth my time](https://www.androidauthority.com/samsung-galaxy-book-2-pro-ecosystem-3193090/)<!-- TECH:END -->
+ - [iPhone, in the third year of a three-year design cycle, may be overhauled next year; Apple Pay Later may arrive in 2023; Apple may not hold an October event &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220925/p5#a220925p5)
+ - [Save $195 on a lifetime Microsoft Office for Mac Home &amp; Business 2021 license](https://appleinsider.com/articles/22/09/25/save-195-on-a-lifetime-microsoft-office-for-mac-home-business-2021-license?utm_medium=rss)
+ - [DirecTV’s NFL Sunday Ticket is having some issues again](https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
