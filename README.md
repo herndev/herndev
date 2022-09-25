@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Why Windows 11&#39;s Big 2022 Update Is Worth Downloading     - CNET](https://www.cnet.com/tech/services-and-software/why-windows-11s-big-2022-update-is-worth-downloading/#ftag=CAD590a51e)
  - [Rihanna to headline Apple Music&#39;s Super Bowl Halftime Show](https://appleinsider.com/articles/22/09/25/rihanna-to-headline-apple-musics-super-bowl-halftime-show?utm_medium=rss)
- - [7 Best Exercise Bikes for 2022     - CNET](https://www.cnet.com/health/fitness/best-exercise-bike/#ftag=CAD590a51e)
- - [Save Up to $1,300 On Samsung&#39;s Ultra-Sleek The Frame 4K TV     - CNET](https://www.cnet.com/deals/1-day-woot-sale-knocks-up-to-1198-off-select-sizes-of-samsungs-the-frame-4k-tvs/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Soundbar Deals: Save $388 on the LG SP8YA, $270 on LG Eclair and More     - CNET](https://www.cnet.com/deals/best-soundbar-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
