@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The way..](http://9gag.com/gag/aVbOYwn)
- - ⏩ [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - 👉 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
+ - 💣 [Share yours](http://9gag.com/gag/az2bX2j)
+ - ⏩ [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
+ - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 ---
 
