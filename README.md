@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - ⏩ [Fiat Cinquecento \u2013 1992](http://9gag.com/gag/aZDPy4W)
- - 👉 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)<!-- MEMES:END -->
+ - 💣 [It friday](http://9gag.com/gag/aeQNMAv)
+ - ⏩ [Advise me your best alternative](http://9gag.com/gag/a9qdn6K)
+ - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 ---
 
