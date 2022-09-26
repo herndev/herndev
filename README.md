@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
- - [How to buy a PlayStation 5](https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock)
- - [A subreddit with 1.5M members, r/PoliticalHumor, challenges Texas&#39; content moderation law by mandating that comments include &quot;Greg Abbott is a little piss baby&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220926/p21#a220926p21)<!-- TECH:END -->
+ - [The Simpsons Season 34 Opening Couch Gag Pays Homage to Chrome&#39;s T-Rex Game     - CNET](https://www.cnet.com/culture/entertainment/the-simpsons-season-34-opening-couch-gag-pays-homage-to-chromes-t-rex-game/#ftag=CAD590a51e)
+ - [Netflix announces its first in-house game studio, its second game studio in Helsinki, to be led by ex-Zynga Vice President and General Manager Marko Lastikka &lpar;Cheri Faulkner/NME&rpar;](http://www.techmeme.com/220926/p22#a220926p22)
+ - [Costco Says Hot Dog-Drink Combo Will Cost $1.50 &#39;Forever&#39;     - CNET](https://www.cnet.com/culture/costco-says-hot-dog-drink-combo-will-cost-1-50-forever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
