@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Absolute Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CAD590a51e)
- - [Beat the Sunday Scaries: 6 Ways to Reduce Anxiety and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CAD590a51e)
- - [&#39;House of the Dragon&#39; Episode 5 Recap: &#39;GoT&#39; Weddings Never Go Well     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-got-weddings-never-go-well/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Rings of Power&#39;: All The Tolkien Terminology Explained     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-all-the-tolkien-terminology-explained/#ftag=CAD590a51e)
+ - [Researchers say Slack and Microsoft Teams have fundamental issues vetting third-party apps and should overhaul their app model to be more like traditional OSes &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220925/p7#a220925p7)
+ - [McDonald&#39;s Halloween Buckets Could Be Coming Back This Fall     - CNET](https://www.cnet.com/culture/mcdonalds-halloween-buckets-could-be-coming-back-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
