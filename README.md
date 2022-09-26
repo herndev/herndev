@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon made its first reference to Grover Tully, one of several Fire &amp; Blood characters George R.R. Martin named after Muppets.](https://www.polygon.com/23368587/house-dragons-muppets-grover-tully)
- - [UK&#39;s former Labour leader snapped playing Thatcher-slaying Doom mod](https://www.pcgamer.com/uks-former-labour-leader-snapped-playing-thatcher-slaying-doom-mod)
- - [Epic Games Store adds a key feature at last](https://www.pcgamer.com/epic-games-store-adds-a-key-feature-at-last)<!-- GAME:END -->
+ - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)
+ - [The 25 Most Valuable Pokémon TCG Cards In The New Lost Origin Set](https://kotaku.com/pokemon-tcg-cards-value-lost-origin-sword-nintendo-1849580188)
+ - [How to get berry leather in Grounded](https://www.pcgamer.com/grounded-berry-leather-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
