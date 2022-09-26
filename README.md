@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Mario Maker 2 creator releases ‘Super Mario Bros. 5’ after 7 years of work](https://www.polygon.com/23372865/super-mario-bros-5-maker-2-level-id-details)
- - [SteamWorld Universe and Curious Expedition 2 Merge with Robots of Lux DLC](https://news.xbox.com/en-us/2022/09/26/steamworld-universe-and-curious-expedition-2-merge-with-robots-of-lux-dlc/)
- - [Cyberpunk 2077 Fans Are Dying To Take Revenge On Edgerunners’ Cruelest Villain](https://kotaku.com/cyberpunk-2077-edgerunners-netflix-anime-adam-smasher-1849581448)<!-- GAME:END -->
+ - [The best Star Wars droids, according to us](https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po)
+ - [E3 2023 Is Happening In Los Angeles And Will Be Open To Fans](https://kotaku.com/e3-2023-reedpop-los-angeles-summer-game-fest-in-person-1849581935)
+ - [We Finally Got A Look At The Nier: Automata Anime Coming Next Year](https://kotaku.com/nier-automata-anime-trailer-release-date-yoko-taro-2b-1849581761)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
