@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find 75 apps on Google Play and 10 on Apple&#39;s App Store that engaged in ad fraud, collectively had 13M installs, and have since been removed &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220926/p17#a220926p17)
- - [If Windows 11&#39;s 2022 Update Hasn&#39;t Tempted You Yet, These New Features Will     - CNET](https://www.cnet.com/tech/services-and-software/if-windows-11s-2022-update-hasnt-tempted-you-yet-these-new-feature-will/#ftag=CAD590a51e)
- - [HBO Max: The 21 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: crypto derivatives exchange Deribit raised ~$40M from existing investors at a $400M valuation; source: it raised $100M in 2021 at a $2.1B valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220926/p18#a220926p18)
+ - [How Twitch lost the battle for its soul](https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon)
+ - [Meta’s new switcher puts all of your Facebook profiles and finstas in one place](https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
