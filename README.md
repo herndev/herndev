@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon’s Prime Early Access Sale will take place on October 11th and 12th](https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals)
  - [In a new paper, Meta researchers demonstrated a system that can reconstruct a user&#39;s plausible pose from only the Quest 2&#39;s sensors using reinforcement learning &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220925/p8#a220925p8)
- - [&#39;House of the Dragon&#39; Episode 6 Recap: 10 Years Later...     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-10-years-later/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Episode 6 Recap: 10 Years Later...     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-10-years-later/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
