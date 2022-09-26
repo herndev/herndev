@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s never been easier to be an artist — or harder to become a star](https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore)
- - [The Apple Watch SE is a first-time buyer’s smartwatch](https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch)
- - [French startup Not So Dark, which offers tools for restaurants to run a delivery-only business alongside their usual operations, raised an $80M Series B &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220926/p15#a220926p15)<!-- TECH:END -->
+ - [Australia to overhaul privacy laws after massive data breach](https://www.theverge.com/2022/9/26/23372868/australian-hack-disclosure-privacy-laws-optus-data-breach)
+ - [E3 2023 kicks off in the middle of June](https://www.theverge.com/23372876/e3-2023-dates-june-business-gamer-days-industry)
+ - [Tesla’s Gigafactory in Berlin had a cardboard fire](https://www.theverge.com/2022/9/26/23372783/tesla-gigafactory-fire-berlin-germany-cardboard)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
