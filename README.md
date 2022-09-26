@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - ⏩ [Well here we go again](http://9gag.com/gag/aPgvRLG)
- - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - ⏩ [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
+ - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 ---
 
