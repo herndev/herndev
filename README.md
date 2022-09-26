@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting burned at the stake is just the start in this grimdark, witchy FPS](https://www.pcgamer.com/getting-burned-at-the-stake-is-just-the-start-in-this-grimdark-witchy-fps)
- - [Here&#39;s a cozy little life sim about making potions](https://www.pcgamer.com/heres-a-cozy-little-life-sim-about-making-potions)
- - [Gotham Knights will take multiple playthroughs to see the whole story](https://www.pcgamer.com/gotham-knights-will-take-multiple-playthroughs-to-see-the-whole-story)<!-- GAME:END -->
+ - [The House of the Dragon timeline, so far](https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline)
+ - [The D&amp;D people sent a twenty-sided die to space and it rolled a 20](https://www.pcgamer.com/the-dandd-people-sent-a-twenty-sided-die-to-space-and-it-rolled-a-20)
+ - [Judgment mod restores actor who was deleted by Sega](https://www.pcgamer.com/judgment-mod-restores-actor-who-was-deleted-by-sega)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
