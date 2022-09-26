@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The House of the Dragon timeline, so far](https://www.polygon.com/23367111/house-dragon-time-jumps-years-timeline)
- - [The D&amp;D people sent a twenty-sided die to space and it rolled a 20](https://www.pcgamer.com/the-dandd-people-sent-a-twenty-sided-die-to-space-and-it-rolled-a-20)
- - [Judgment mod restores actor who was deleted by Sega](https://www.pcgamer.com/judgment-mod-restores-actor-who-was-deleted-by-sega)<!-- GAME:END -->
+ - [Get ready to kick a cultist off a cliff in this retro FPS](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)
+ - [Sorting through House of the Dragon’s many new kid characters](https://www.polygon.com/23368925/house-of-the-dragon-kids-who-rhaenyra-alicent-daemon-jace-joffrey-aegon)
+ - [Larys Strong has manipulated his way into House of the Dragon’s game of thrones](https://www.polygon.com/23365909/larys-strong-house-of-the-dragon-character-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
