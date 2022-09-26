@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon confirms a second two-day shopping event for 2022 named Prime Early Access Sale, to be held on October 11-12 in 15 countries including the US and the UK &lpar;The Verge&rpar;](http://www.techmeme.com/220926/p2#a220926p2)
- - [Apple confirms that a Foxconn plant near Chennai is manufacturing iPhone 14 models; locally assembled phones will be sold in India later in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220926/p1#a220926p1)
- - [Google Pixel 7 specs leak: What do you think?](https://www.androidauthority.com/google-pixel-7-specs-3212161/)<!-- TECH:END -->
+ - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
+ - [UK police arrest and charge a 17-year-old with computer misuse and breaches of bail, believed to be related to the recent Uber and Rockstar hacks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220926/p4#a220926p4)
+ - [South Korea says Interpol has issued a Red Notice for Terraform Labs co-founder Do Kwon; prosecutors say Kwon disappeared from Singapore after September 17 &lpar;Sangmi Cha/Bloomberg&rpar;](http://www.techmeme.com/220926/p3#a220926p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
