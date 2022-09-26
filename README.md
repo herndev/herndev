@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)
- - ⏩ [Well here we go again](http://9gag.com/gag/aPgvRLG)
- - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/axoNoyn)
+ - ⏩ [What?!](http://9gag.com/gag/adPNgEj)
+ - 👉 [Now in Russia](http://9gag.com/gag/aoKzW70)<!-- MEMES:END -->
 
 ---
 
