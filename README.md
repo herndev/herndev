@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nier Automata anime has a trailer and release date, will be &#39;changing things&#39;](https://www.pcgamer.com/the-nier-automata-anime-has-a-trailer-and-release-date-will-be-changing-things)
- - [Trombone Champ looks next level with this VR mod](https://www.pcgamer.com/trombone-champ-looks-next-level-with-this-vr-mod)
- - [Get ready to kick a cultist off a cliff in this retro FPS](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)<!-- GAME:END -->
+ - [OneXPlayer&#39;s new AMD 6800U-powered handheld is up for preorder](https://www.pcgamer.com/onexplayers-new-amd-6800u-powered-handheld-is-up-for-preorder)
+ - [LinkedIn improves &#39;going global&#39; moves, boosts green efforts](https://game-rant-2022.blogspot.com/2022/09/linkedin-improves-going-global-moves.html)
+ - [10 best games confirmed to use Unreal Engine 5, ranked](https://game-rant-2022.blogspot.com/2022/09/10-best-games-confirmed-to-use-unreal.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
