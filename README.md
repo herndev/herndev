@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harry Potter and the Glocks of fire](http://9gag.com/gag/a7q5e6z)
- - ⏩ [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 💣 [Well? Which one?](http://9gag.com/gag/a4o41X6)
+ - ⏩ [For K\u00e2hl!](http://9gag.com/gag/aL1KvoP)
+ - 👉 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
 
 ---
 
