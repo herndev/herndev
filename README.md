@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [44 years of fear and dictatorship in iran has come to an end](http://9gag.com/gag/armpn4y)
- - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - 👉 [Police officer intentionally damages car with door while performing a search.](http://9gag.com/gag/ay259Ly)<!-- MEMES:END -->
+ - 💣 [What?!](http://9gag.com/gag/adPNgEj)
+ - ⏩ [The future is now](http://9gag.com/gag/axoNoyn)
+ - 👉 [I have a message for European!](http://9gag.com/gag/anzY7Rz)<!-- MEMES:END -->
 
 ---
 
