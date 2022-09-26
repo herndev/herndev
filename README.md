@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well? Which one?](http://9gag.com/gag/a4o41X6)
- - ⏩ [For K\u00e2hl!](http://9gag.com/gag/aL1KvoP)
- - 👉 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
+ - 💣 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
+ - ⏩ [What are you filming. never seen a hard worker](http://9gag.com/gag/armp3o0)
+ - 👉 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)<!-- MEMES:END -->
 
 ---
 
