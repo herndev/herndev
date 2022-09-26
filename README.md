@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [HBO’s The Last of Us looks like a faithful adaptation, with an exception](https://www.polygon.com/entertainment/23373686/hbo-max-the-last-of-us-melanie-lynskey-casting-show)
- - [Ubisoft Boss Clarifies His Controversial Remarks About Toxicity](https://kotaku.com/ubisoft-ceo-assassin-s-creed-far-cry-toxic-harassment-1849583341)
- - [The quest to save KeyForge, the first procedurally generated collectible card game](https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price)<!-- GAME:END -->
+ - [A Gummy’s Life Celebrates a Year on Xbox](https://news.xbox.com/en-us/2022/09/26/a-gummys-life-celebrates-a-year-on-xbox/)
+ - [Chess Champion Breaks Silence On &#39;Anal Bead&#39; Cheating Controversy](https://kotaku.com/anal-bead-cheating-chess-magnus-carlsen-hans-niemann-1849583617)
+ - [Magnus Carlsen accuses Hans Niemann of cheating, chess saga continues](https://www.polygon.com/23373798/chess-cheating-scandal-magnus-carlsen-accuses-hans-niemann)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
