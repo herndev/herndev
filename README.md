@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Extreme gaming PC build 2022](https://www.pcgamer.com/build-guide-the-extreme-gaming-pc)
- - [Best PC speakers in 2022](https://www.pcgamer.com/best-computer-speakers)
- - [The best gaming mouse in 2022](https://www.pcgamer.com/the-best-gaming-mouse)<!-- GAME:END -->
+ - [Nier: Automata anime trailer diverges from the original game, sets 2023 premiere](https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023)
+ - [Grounded review](https://www.pcgamer.com/grounded-review)
+ - [AMD Ryzen 7 7700X](https://www.pcgamer.com/amd-ryzen-7-7700x-review-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
