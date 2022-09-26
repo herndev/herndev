@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
- - ⏩ [What are you filming. never seen a hard worker](http://9gag.com/gag/armp3o0)
- - 👉 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)<!-- MEMES:END -->
+ - 💣 [Damn you 100+gb games!](http://9gag.com/gag/aOxqDmR)
+ - ⏩ [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)
+ - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
 
 ---
 
