@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nier: Automata anime trailer diverges from the original game, sets 2023 premiere](https://www.polygon.com/23368841/nier-automata-anime-trailer-premiere-date-2023)
- - [Grounded review](https://www.pcgamer.com/grounded-review)
- - [AMD Ryzen 7 7700X](https://www.pcgamer.com/amd-ryzen-7-7700x-review-benchmarks)<!-- GAME:END -->
+ - [House of the Dragon made its first reference to Grover Tully, one of several Fire &amp; Blood characters George R.R. Martin named after Muppets.](https://www.polygon.com/23368587/house-dragons-muppets-grover-tully)
+ - [UK&#39;s former Labour leader snapped playing Thatcher-slaying Doom mod](https://www.pcgamer.com/uks-former-labour-leader-snapped-playing-thatcher-slaying-doom-mod)
+ - [Epic Games Store adds a key feature at last](https://www.pcgamer.com/epic-games-store-adds-a-key-feature-at-last)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
