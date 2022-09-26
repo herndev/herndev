@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s where the trouble began. That smile. That damned smile.](http://9gag.com/gag/aYVbyz0)
- - ⏩ [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 💣 [For those intensive research purposes of course. Faptain flies away!](http://9gag.com/gag/ajVr1Bw)
+ - ⏩ [They forgot to pray to the Omnissiah](http://9gag.com/gag/aoKzPOg)
+ - 👉 [At this point they should just get inside the van](http://9gag.com/gag/aWGZnAA)<!-- MEMES:END -->
 
 ---
 
