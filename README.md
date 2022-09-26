@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those intensive research purposes of course. Faptain flies away!](http://9gag.com/gag/ajVr1Bw)
- - ⏩ [They forgot to pray to the Omnissiah](http://9gag.com/gag/aoKzPOg)
- - 👉 [At this point they should just get inside the van](http://9gag.com/gag/aWGZnAA)<!-- MEMES:END -->
+ - 💣 [Harry Potter and the Glocks of fire](http://9gag.com/gag/a7q5e6z)
+ - ⏩ [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
+ - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
 
 ---
 
