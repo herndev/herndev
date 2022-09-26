@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best science fiction and fantasy books of 2022, so far](https://www.polygon.com/22927515/best-fantasy-books-sci-fi-2022)
- - [The 25 Most Valuable Pokémon TCG Cards In The New Lost Origin Set](https://kotaku.com/pokemon-tcg-cards-value-lost-origin-sword-nintendo-1849580188)
- - [How to get berry leather in Grounded](https://www.pcgamer.com/grounded-berry-leather-guide)<!-- GAME:END -->
+ - [Here&#39;s when Grounded 1.0 releases in your timezone](https://www.pcgamer.com/grounded-release-date-1-0)
+ - [Here’s your first look at season 2 of DC’s slice-of-life Batman family comic](https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2)
+ - [Netflix’s Gudetama series gets a trailer and a release date](https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
