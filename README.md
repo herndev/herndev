@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now](http://9gag.com/gag/axoNoyn)
- - ⏩ [What?!](http://9gag.com/gag/adPNgEj)
- - 👉 [Now in Russia](http://9gag.com/gag/aoKzW70)<!-- MEMES:END -->
+ - 💣 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)
+ - ⏩ [Me: Save the planet! Meanwhile in Qatar:](http://9gag.com/gag/armpGKd)
+ - 👉 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)<!-- MEMES:END -->
 
 ---
 
