@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get ready to kick a cultist off a cliff in this retro FPS](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)
- - [Sorting through House of the Dragon’s many new kid characters](https://www.polygon.com/23368925/house-of-the-dragon-kids-who-rhaenyra-alicent-daemon-jace-joffrey-aegon)
- - [Larys Strong has manipulated his way into House of the Dragon’s game of thrones](https://www.polygon.com/23365909/larys-strong-house-of-the-dragon-character-explained)<!-- GAME:END -->
+ - [The Nier Automata anime has a trailer and release date, will be &#39;changing things&#39;](https://www.pcgamer.com/the-nier-automata-anime-has-a-trailer-and-release-date-will-be-changing-things)
+ - [Trombone Champ looks next level with this VR mod](https://www.pcgamer.com/trombone-champ-looks-next-level-with-this-vr-mod)
+ - [Get ready to kick a cultist off a cliff in this retro FPS](https://www.pcgamer.com/get-ready-to-kick-a-cultist-off-a-cliff-in-this-retro-fps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
