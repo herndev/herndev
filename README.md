@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Warcrow Adventures, from the team behind Infinity, rethinks how dungeon crawlers work](https://www.polygon.com/23368911/warcrow-preview-corvus-belli-kickstarter-release-date-price)
  - [Why do we multitask while gaming?](https://www.polygon.com/videos/23373062/multitasking-games-destiny2-genshin)
- - [Trails from Zero is the perfect entry point for Falcom&#39;s sprawling RPG series](https://www.pcgamer.com/trails-from-zero-is-the-perfect-entry-point-for-falcoms-sprawling-rpg-series)
- - [Netflix’s next big gaming move is opening its own game studio](https://www.polygon.com/23373053/netflix-video-game-studio-development)<!-- GAME:END -->
+ - [Trails from Zero is the perfect entry point for Falcom&#39;s sprawling JRPG series](https://www.pcgamer.com/trails-from-zero-is-the-perfect-entry-point-for-falcoms-sprawling-rpg-series)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
