@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What’s Next for Ethereum After The Merge](https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/)
- - [Why Therapy Is Broken](https://www.wired.com/story/therapy-sucks/)
- - [I Like This Cordless Vacuum More Than Most Stick Vacs](https://www.wired.com/review/lupe-pure-cordless-vacuum/)<!-- TECH:END -->
+ - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)
+ - [Cloudflare announces Zero Trust SIM, a US-only, device-specific eSIM for iOS and Android that uses VPNs and DNS filtering, and Zero Trust for Mobile Operators &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220926/p12#a220926p12)
+ - [AMD’s Ryzen 7900X arrives to take on Intel’s 12900K](https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
