@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s Prime Early Access Sale will take place on October 11th and 12th](https://www.theverge.com/2022/9/26/23361319/amazon-prime-early-access-sale-deals)
- - [In a new paper, Meta researchers demonstrated a system that can reconstruct a user&#39;s plausible pose from only the Quest 2&#39;s sensors using reinforcement learning &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220925/p8#a220925p8)
- - [&#39;House of the Dragon&#39; Episode 6 Recap: 10 Years Later...     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-10-years-later/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple confirms that a Foxconn plant near Chennai is manufacturing iPhone 14 models; locally assembled phones will be sold in India later in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220926/p1#a220926p1)
+ - [Google Pixel 7 specs leak: What do you think?](https://www.androidauthority.com/google-pixel-7-specs-3212161/)
+ - [Apple Watch Ultra survives hammer beating while table underneath it cracks](https://www.androidauthority.com/apple-watch-ultra-hammer-beating-3212732/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
