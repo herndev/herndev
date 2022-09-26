@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)
- - ⏩ [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
- - 👉 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
+ - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
+ - ⏩ [New Italian PM](http://9gag.com/gag/aGE9A4z)
+ - 👉 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
 
 ---
 
