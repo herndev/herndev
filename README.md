@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amazon confirms a second two-day shopping event for 2022 named Prime Early Access Sale, to be held on October 11-12 in 15 countries including the US and the UK &lpar;The Verge&rpar;](http://www.techmeme.com/220926/p2#a220926p2)
  - [Apple confirms that a Foxconn plant near Chennai is manufacturing iPhone 14 models; locally assembled phones will be sold in India later in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220926/p1#a220926p1)
- - [Google Pixel 7 specs leak: What do you think?](https://www.androidauthority.com/google-pixel-7-specs-3212161/)
- - [Apple Watch Ultra survives hammer beating while table underneath it cracks](https://www.androidauthority.com/apple-watch-ultra-hammer-beating-3212732/)<!-- TECH:END -->
+ - [Google Pixel 7 specs leak: What do you think?](https://www.androidauthority.com/google-pixel-7-specs-3212161/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
