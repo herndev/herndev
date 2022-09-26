@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well here we go again](http://9gag.com/gag/aPgvRLG)
- - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
+ - 💣 [Fast as f boy](http://9gag.com/gag/axoN3eD)
+ - ⏩ [Hold up!](http://9gag.com/gag/aDY06bd)
+ - 👉 [I need a movie based on this](http://9gag.com/gag/a8qWmPd)<!-- MEMES:END -->
 
 ---
 
