@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn you 100+gb games!](http://9gag.com/gag/aOxqDmR)
- - ⏩ [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)
- - 👉 [Well? Which one?](http://9gag.com/gag/a4o41X6)<!-- MEMES:END -->
+ - 💣 [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)
+ - ⏩ [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
+ - 👉 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
 
 ---
 
