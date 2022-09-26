@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with AptX Lossless, the new tech promising CD-quality audio over Bluetooth](https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test)
- - [Sources: the US government and TikTok have reached a preliminary deal to resolve national security concerns without ByteDance selling it but some details remain &lpar;New York Times&rpar;](http://www.techmeme.com/220926/p7#a220926p7)
- - [Australian data and back office services provider Link says Canadian legal software maker Dye &amp; Durham&#39;s $2.4B bid to acquire it has expired after two years &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/220926/p6#a220926p6)<!-- TECH:END -->
+ - [Viruses to Fight Superbugs? Scientists Are Working on It](https://www.wired.com/story/phage-viruses-fighting-drug-resistant-bacteria/)
+ - [This Vote Could Change the Course of Internet History](https://www.wired.com/story/2022-itu-secretary-general-election/)
+ - [This Company Says It’s One Step Closer to an Invisibility Cloak](https://www.wired.com/story/vollebak-invisibility-cloak/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
