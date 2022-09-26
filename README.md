@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Star Wars droids, according to us](https://www.polygon.com/star-wars/23363729/star-wars-droids-best-r2d2-c3po)
- - [E3 2023 Is Happening In Los Angeles And Will Be Open To Fans](https://kotaku.com/e3-2023-reedpop-los-angeles-summer-game-fest-in-person-1849581935)
- - [We Finally Got A Look At The Nier: Automata Anime Coming Next Year](https://kotaku.com/nier-automata-anime-trailer-release-date-yoko-taro-2b-1849581761)<!-- GAME:END -->
+ - [Why do we multitask while gaming?](https://www.polygon.com/videos/23373062/multitasking-games-destiny2-genshin)
+ - [Trails from Zero is the perfect entry point for Falcom&#39;s sprawling RPG series](https://www.pcgamer.com/trails-from-zero-is-the-perfect-entry-point-for-falcoms-sprawling-rpg-series)
+ - [Netflix’s next big gaming move is opening its own game studio](https://www.polygon.com/23373053/netflix-video-game-studio-development)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
