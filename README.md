@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I couldn&#39;t figure out why Chrome was scanning my other 3 drives. This BS was on by default! Check if yours is running or rename/move/delete it altogether. The crap is called `SwReporter` and can be found here: %localappdata%\\Google\\Chrome\\User Data\\SwReporter &lpar;via RUN window&rpar;](http://9gag.com/gag/abv51Z8)
- - ⏩ [Female truth management](http://9gag.com/gag/aDY08nN)
- - 👉 [Tom Cruise sitting casually on Burj Khalifa vs Will Smith sitting](http://9gag.com/gag/aZDPLX9)<!-- MEMES:END -->
+ - 💣 [Well here we go again](http://9gag.com/gag/aPgvRLG)
+ - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
+ - 👉 [Based gaston](http://9gag.com/gag/aGE9dnz)<!-- MEMES:END -->
 
 ---
 
