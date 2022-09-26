@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [OneXPlayer&#39;s new AMD 6800U-powered handheld is up for preorder](https://www.pcgamer.com/onexplayers-new-amd-6800u-powered-handheld-is-up-for-preorder)
- - [LinkedIn improves &#39;going global&#39; moves, boosts green efforts](https://game-rant-2022.blogspot.com/2022/09/linkedin-improves-going-global-moves.html)
- - [10 best games confirmed to use Unreal Engine 5, ranked](https://game-rant-2022.blogspot.com/2022/09/10-best-games-confirmed-to-use-unreal.html)<!-- GAME:END -->
+ - [Today&#39;s Wordle 464 answer and hint: Monday, September 26](https://www.pcgamer.com/todays-wordle-464-answer-hint)
+ - [The AV1 codec is coming, and it&#39;s a big deal](https://www.pcgamer.com/the-av1-codec-is-coming-and-its-a-big-deal)
+ - [Google Play for PC Beta brings your android games to the big screen](https://www.pcgamer.com/google-play-for-pc-beta-brings-your-android-games-to-the-big-screen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
