@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)
- - [Cloudflare announces Zero Trust SIM, a US-only, device-specific eSIM for iOS and Android that uses VPNs and DNS filtering, and Zero Trust for Mobile Operators &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220926/p12#a220926p12)
- - [AMD’s Ryzen 7900X arrives to take on Intel’s 12900K](https://www.theverge.com/23372439/amd-ryzen-9-7900x-cpu-processor-review-benchmark-test)<!-- TECH:END -->
+ - [Ancestry will tell users which side of the family their matches come from](https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side)
+ - [Apple begins manufacturing the iPhone 14 in India](https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china)
+ - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
