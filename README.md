@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [In a new paper, Meta researchers demonstrated a system that can reconstruct a user&#39;s plausible pose from only the Quest 2&#39;s sensors using reinforcement learning &lpar;David Heaney/UploadVR&rpar;](http://www.techmeme.com/220925/p8#a220925p8)
  - [&#39;House of the Dragon&#39; Episode 6 Recap: 10 Years Later...     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-10-years-later/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series/#ftag=CAD590a51e)
- - [&#39;The Rings of Power&#39;: All The Tolkien Terminology Explained     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-all-the-tolkien-terminology-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
