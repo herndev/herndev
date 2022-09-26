@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
- - ⏩ [New Italian PM](http://9gag.com/gag/aGE9A4z)
- - 👉 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
+ - 💣 [This can\u2019t be right.](http://9gag.com/gag/anzYgrE)
+ - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
+ - 👉 [Strike](http://9gag.com/gag/a8qW2op)<!-- MEMES:END -->
 
 ---
 
