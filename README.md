@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batman&#39;s favorite band &lpar;credits to Cedarville&rpar;](http://9gag.com/gag/aZDPwLV)
- - ⏩ [I need a movie based on this](http://9gag.com/gag/a8qWmPd)
- - 👉 [Reupload because 9gag doesn&#39;t like the word libt***.](http://9gag.com/gag/adPN1LD)<!-- MEMES:END -->
+ - 💣 [I need a movie based on this](http://9gag.com/gag/a8qWmPd)
+ - ⏩ [Reupload because 9gag doesn&#39;t like the word libt***.](http://9gag.com/gag/adPN1LD)
+ - 👉 [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)<!-- MEMES:END -->
 
 ---
 
