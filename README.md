@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hurricane Ian pushes NASA to roll back Artemis I rocket](https://www.theverge.com/2022/9/26/23372838/hurricane-ian-nasa-roll-back-artemis-i-rocket)
- - [A look at Nvidia&#39;s issues, including crypto mining demand drying up and GPUs flooding secondary markets, and opportunities, including gaming and data centers &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220926/p16#a220926p16)
- - [The Last of Us’ first trailer is bleak and brutal](https://www.theverge.com/23372992/the-last-of-us-trailer-hbo-watch)<!-- TECH:END -->
+ - [Researchers find 75 apps on Google Play and 10 on Apple&#39;s App Store that engaged in ad fraud, collectively had 13M installs, and have since been removed &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/220926/p17#a220926p17)
+ - [If Windows 11&#39;s 2022 Update Hasn&#39;t Tempted You Yet, These New Features Will     - CNET](https://www.cnet.com/tech/services-and-software/if-windows-11s-2022-update-hasnt-tempted-you-yet-these-new-feature-will/#ftag=CAD590a51e)
+ - [HBO Max: The 21 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-21-absolute-best-movies-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
