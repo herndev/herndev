@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s when Grounded 1.0 releases in your timezone](https://www.pcgamer.com/grounded-release-date-1-0)
- - [Here’s your first look at season 2 of DC’s slice-of-life Batman family comic](https://www.polygon.com/23368740/batman-webtoon-dc-comics-wayne-family-adventures-season-2)
- - [Netflix’s Gudetama series gets a trailer and a release date](https://www.polygon.com/23372673/netflix-gudetama-trailer-season-1-release-date)<!-- GAME:END -->
+ - [Super Mario Maker 2 creator releases ‘Super Mario Bros. 5’ after 7 years of work](https://www.polygon.com/23372865/super-mario-bros-5-maker-2-level-id-details)
+ - [SteamWorld Universe and Curious Expedition 2 Merge with Robots of Lux DLC](https://news.xbox.com/en-us/2022/09/26/steamworld-universe-and-curious-expedition-2-merge-with-robots-of-lux-dlc/)
+ - [Cyberpunk 2077 Fans Are Dying To Take Revenge On Edgerunners’ Cruelest Villain](https://kotaku.com/cyberpunk-2077-edgerunners-netflix-anime-adam-smasher-1849581448)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
