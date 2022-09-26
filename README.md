@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
- - [UK police arrest and charge a 17-year-old with computer misuse and breaches of bail, believed to be related to the recent Uber and Rockstar hacks &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/220926/p4#a220926p4)
- - [South Korea says Interpol has issued a Red Notice for Terraform Labs co-founder Do Kwon; prosecutors say Kwon disappeared from Singapore after September 17 &lpar;Sangmi Cha/Bloomberg&rpar;](http://www.techmeme.com/220926/p3#a220926p3)<!-- TECH:END -->
+ - [Hands on with AptX Lossless, the new tech promising CD-quality audio over Bluetooth](https://www.theverge.com/2022/9/26/23372428/aptx-lossless-hands-on-nuratrue-pro-hd-cd-quality-audio-listening-test)
+ - [Sources: the US government and TikTok have reached a preliminary deal to resolve national security concerns without ByteDance selling it but some details remain &lpar;New York Times&rpar;](http://www.techmeme.com/220926/p7#a220926p7)
+ - [Australian data and back office services provider Link says Canadian legal software maker Dye &amp; Durham&#39;s $2.4B bid to acquire it has expired after two years &lpar;David Morris/Bloomberg&rpar;](http://www.techmeme.com/220926/p6#a220926p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
