@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is TikTok Now and how to use it?](https://www.androidauthority.com/tiktok-now-explained-3213123/)
- - [Walmart debuts metaverse experiences Walmart Land and Walmart&#39;s Universe of Play in Roblox, which it calls a testing ground, to try to reach younger shoppers &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220926/p20#a220926p20)
- - [Sony is selling a PlayStation 5 bundle right now](https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)<!-- TECH:END -->
+ - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
+ - [How to buy a PlayStation 5](https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock)
+ - [A subreddit with 1.5M members, r/PoliticalHumor, challenges Texas&#39; content moderation law by mandating that comments include &quot;Greg Abbott is a little piss baby&quot; &lpar;Mike Masnick/Techdirt&rpar;](http://www.techmeme.com/220926/p21#a220926p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
