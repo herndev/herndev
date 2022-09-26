@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wait, are you guys bringing your phones into the shower?](https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails)
- - [NY, CA, and several other states take action against crypto lender Nexo, from sending cease and desists to suing, with interest-bearing accounts a main focus &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220926/p19#a220926p19)
- - [iFixit teardown looks at the guts of the Apple Watch Ultra](https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra)<!-- TECH:END -->
+ - [What is TikTok Now and how to use it?](https://www.androidauthority.com/tiktok-now-explained-3213123/)
+ - [Walmart debuts metaverse experiences Walmart Land and Walmart&#39;s Universe of Play in Roblox, which it calls a testing ground, to try to reach younger shoppers &lpar;Melissa Repko/CNBC&rpar;](http://www.techmeme.com/220926/p20#a220926p20)
+ - [Sony is selling a PlayStation 5 bundle right now](https://www.theverge.com/2022/9/26/23373544/sony-playstation-5-ps5-restock-public-queue-console-availability-inventory-check)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
