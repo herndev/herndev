@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The quest to save KeyForge, the first procedurally generated collectible card game](https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price)
- - [God declares Hawkeye slightly more valuable than ‘a randomly chosen mailbox’](https://www.polygon.com/23372824/hawkeye-vs-mailbox-avengers-60)
- - [Walmart Is Joining The Metaverse, Targets ‘Younger Audiences’](https://kotaku.com/walmart-land-metaverse-roblox-verch-universe-play-1849582900)<!-- GAME:END -->
+ - [HBO’s The Last of Us looks like a faithful adaptation, with an exception](https://www.polygon.com/entertainment/23373686/hbo-max-the-last-of-us-melanie-lynskey-casting-show)
+ - [Ubisoft Boss Clarifies His Controversial Remarks About Toxicity](https://kotaku.com/ubisoft-ceo-assassin-s-creed-far-cry-toxic-harassment-1849583341)
+ - [The quest to save KeyForge, the first procedurally generated collectible card game](https://www.polygon.com/tabletop-games/23367442/keyforge-unique-deck-game-ccg-kickstarter-release-date-price)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
