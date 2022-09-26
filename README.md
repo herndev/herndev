@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia to overhaul privacy laws after massive data breach](https://www.theverge.com/2022/9/26/23372868/australian-hack-disclosure-privacy-laws-optus-data-breach)
- - [E3 2023 kicks off in the middle of June](https://www.theverge.com/23372876/e3-2023-dates-june-business-gamer-days-industry)
- - [Tesla’s Gigafactory in Berlin had a cardboard fire](https://www.theverge.com/2022/9/26/23372783/tesla-gigafactory-fire-berlin-germany-cardboard)<!-- TECH:END -->
+ - [Hurricane Ian pushes NASA to roll back Artemis I rocket](https://www.theverge.com/2022/9/26/23372838/hurricane-ian-nasa-roll-back-artemis-i-rocket)
+ - [A look at Nvidia&#39;s issues, including crypto mining demand drying up and GPUs flooding secondary markets, and opportunities, including gaming and data centers &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/220926/p16#a220926p16)
+ - [The Last of Us’ first trailer is bleak and brutal](https://www.theverge.com/23372992/the-last-of-us-trailer-hbo-watch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
