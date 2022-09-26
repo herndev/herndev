@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTubers test durability of Apple Watch Ultra in different ways](https://appleinsider.com/articles/22/09/25/youtubers-test-durability-of-apple-watch-ultra-in-different-ways?utm_medium=rss)
- - [iPhone 14 Pro, Pro Max continue to be high in demand](https://appleinsider.com/articles/22/09/25/iphone-14-pro-pro-max-continue-to-be-high-in-demand?utm_medium=rss)
- - [James Earl Jones Signals His Retirement From Playing Darth Vader     - CNET](https://www.cnet.com/culture/entertainment/james-earl-jones-signals-retirement-from-darth-vader/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Prime Video Right Now     - CNET](https://www.cnet.com/culture/entertainment/best-horror-movies-prime-video-right-now/#ftag=CAD590a51e)
+ - [Beat the Sunday Scaries: 6 Ways to Reduce Anxiety and Sleep Well Tonight     - CNET](https://www.cnet.com/health/sleep/beat-the-sunday-scaries-6-ways-to-reduce-anxiety-and-sleep-well-tonight/#ftag=CAD590a51e)
+ - [&#39;House of the Dragon&#39; Episode 5 Recap: &#39;GoT&#39; Weddings Never Go Well     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-5-recap-got-weddings-never-go-well/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
