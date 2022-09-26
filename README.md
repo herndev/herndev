@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: crypto derivatives exchange Deribit raised ~$40M from existing investors at a $400M valuation; source: it raised $100M in 2021 at a $2.1B valuation &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220926/p18#a220926p18)
- - [How Twitch lost the battle for its soul](https://www.theverge.com/2022/9/26/23369070/twitch-revenue-split-70-30-streamers-reaction-amazon)
- - [Meta’s new switcher puts all of your Facebook profiles and finstas in one place](https://www.theverge.com/2022/9/26/23373221/meta-instagram-facebook-account-switcher-test)<!-- TECH:END -->
+ - [Wait, are you guys bringing your phones into the shower?](https://www.theverge.com/2022/9/26/23373459/phone-shower-mount-holder-notifications-emails)
+ - [NY, CA, and several other states take action against crypto lender Nexo, from sending cease and desists to suing, with interest-bearing accounts a main focus &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/220926/p19#a220926p19)
+ - [iFixit teardown looks at the guts of the Apple Watch Ultra](https://www.theverge.com/2022/9/26/23373289/ifixit-teardown-apple-watch-ultra)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
