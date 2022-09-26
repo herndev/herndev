@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ancestry will tell users which side of the family their matches come from](https://www.theverge.com/2022/9/26/23367499/ancestry-genetic-matches-parent-side)
- - [Apple begins manufacturing the iPhone 14 in India](https://www.theverge.com/2022/9/26/23372575/apple-iphone-14-india-manufacture-production-china)
- - [iPhone 15 Ultra rumored to have two front cameras and USB-C](https://appleinsider.com/articles/22/09/26/iphone-15-ultra-rumored-to-have-two-front-cameras-and-usb-c?utm_medium=rss)<!-- TECH:END -->
+ - [It’s never been easier to be an artist — or harder to become a star](https://www.theverge.com/2022/9/26/23372774/vergecast-music-streaming-tiktok-spotify-tunecore)
+ - [The Apple Watch SE is a first-time buyer’s smartwatch](https://www.theverge.com/23369207/apple-watch-se-2022-review-smartwatch)
+ - [French startup Not So Dark, which offers tools for restaurants to run a delivery-only business alongside their usual operations, raised an $80M Series B &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220926/p15#a220926p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
