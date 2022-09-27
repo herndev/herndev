@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at South Korea&#39;s Zepeto, owned by Naver and considered one of Asia&#39;s largest metaverse platforms with 15M-20M MAUs, as it plans a global expansion &lpar;Financial Times&rpar;](http://www.techmeme.com/220927/p8#a220927p8)
- - [Please don’t let ads on transparent OLED ‘windows’ ruin train journeys](https://www.theverge.com/2022/9/27/23374420/lg-oled-transparent-train-ads-subway-display)
- - [Apple launches App Store development program focusing on UK women](https://appleinsider.com/articles/22/09/27/apple-launches-app-store-development-program-focusing-on-uk-women?utm_medium=rss)<!-- TECH:END -->
+ - [Twins sentenced over $2.2 million AT&amp;T Apple hardware fraud](https://appleinsider.com/articles/22/09/27/twins-sentenced-over-22-million-att-apple-hardware-fraud?utm_medium=rss)
+ - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)
+ - [The Best Portable Coffee Makers](https://www.wired.com/gallery/best-portable-coffee-makers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
