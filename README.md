@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Homelander just watched Edgerunners](http://9gag.com/gag/amAXAzy)
- - ⏩ [Dad joke in coming](http://9gag.com/gag/aXnb44z)
- - 👉 [Put on your seatbelts, we&#39;re going for a ride!](http://9gag.com/gag/az2bKvj)<!-- MEMES:END -->
+ - 💣 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
+ - ⏩ [Suddenly remember this and laugh like maniac at work](http://9gag.com/gag/a8qWq6d)
+ - 👉 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)<!-- MEMES:END -->
 
 ---
 
