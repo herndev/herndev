@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Nvidia issues hotfix for Windows 11 22H2 stuttering issues](https://www.pcgamer.com/nvidia-issues-hotfix-for-windows-11-22h2-stuttering-issues)
- - [Update for Capcom Fighting Collection with More Features Available Now](https://news.xbox.com/en-us/2022/09/26/update-for-capcom-fighting-collection-with-more-features-available-now/)
- - [This lighthouse survival game will test your base-building skills with tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of September 26&rpar;](https://news.xbox.com/en-us/2022/09/26/this-weeks-deals-with-gold-and-spotlight-sale-week-of-september-26/)
+ - [Update for Capcom Fighting Collection with More Features Available Now](https://news.xbox.com/en-us/2022/09/26/update-for-capcom-fighting-collection-with-more-features-available-now/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
