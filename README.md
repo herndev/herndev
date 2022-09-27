@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are some wallpapers for Pixel phones, taken on Pixel phones](https://www.androidauthority.com/wallpapers-pixel-phones-3194215/)
- - [How Arm conquered the chip market without making a single chip, with CEO Rene Haas](https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder)
- - [Celsius co-founder and CEO Alex Mashinsky resigns from the bankrupt cryptocurrency lender, writing his &quot;role as CEO has become an increasing distraction&quot; &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/220927/p17#a220927p17)<!-- TECH:END -->
+ - [FTX US President Brett Harrison says he plans to step down in the coming months after joining in May 2021 and overseeing huge growth &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220927/p18#a220927p18)
+ - [Russian campaign spent $100,000 on anti-Ukraine propaganda, Meta says](https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
