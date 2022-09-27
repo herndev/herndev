@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nreal Air AR glasses put your iPhone onto a 130-foot display](https://appleinsider.com/articles/22/09/27/nreal-air-ar-glasses-put-your-iphone-onto-a-130-foot-display?utm_medium=rss)
- - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)
- - [The Best Smart Speakers With Voice Assistants](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
+ - [Here are some wallpapers for Pixel phones, taken on Pixel phones](https://www.androidauthority.com/wallpapers-pixel-phones-3194215/)
+ - [How Arm conquered the chip market without making a single chip, with CEO Rene Haas](https://www.theverge.com/23373371/arm-chips-chip-shortage-ceo-rene-haas-tech-intel-apple-decoder)
+ - [Celsius co-founder and CEO Alex Mashinsky resigns from the bankrupt cryptocurrency lender, writing his &quot;role as CEO has become an increasing distraction&quot; &lpar;Vicky Ge Huang/Wall Street Journal&rpar;](http://www.techmeme.com/220927/p17#a220927p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
