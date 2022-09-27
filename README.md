@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sorry Y’all, Dead Island 2 Weapon Breaking Isn’t Going Anywhere](https://kotaku.com/dead-island-2-weapon-break-durability-dambuster-botw-1849588085)
- - [Fortnite just released a ‘Dead Game’ skin](https://www.polygon.com/23375562/fortnite-dead-game-skin-epic-games-meme)
- - [Twitch is betting against streaming superstars](https://www.polygon.com/23374984/twitch-streamers-revenue-youtube-move)<!-- GAME:END -->
+ - [Aero GPX is F-Zero with the rage throttle set to 2,000 kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)
+ - [Warhaven is a &#39;full contact sword action&#39; game you can play for free in October](https://www.pcgamer.com/warhaven-is-a-full-contact-sword-action-game-you-can-play-for-free-in-october)
+ - [This Skyrim mod gives the Dragonborn their greatest challenge: A desk job](https://www.pcgamer.com/this-skyrim-mod-gives-the-dragonborn-their-greatest-challenge-a-desk-job)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
