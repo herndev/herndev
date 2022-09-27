@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I like hearing my voice from inside my head than from the recorder](http://9gag.com/gag/aQEqZ9z)
+ - 💣 [Oh God, I hurt my master](http://9gag.com/gag/agoy29v)
  - ⏩ [Ukrainian Soldiers and their genetically modified tactical Battle Squirrel](http://9gag.com/gag/a5Xd2Pr)
  - 👉 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
 
