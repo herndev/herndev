@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;I&#39;m so angry I cannot breathe&#39; says Girls Who Code founder over suspected book ban attempt](https://www.pcgamer.com/girls-who-code-book-ban)
- - [Today&#39;s Wordle 465 answer and hint: Tuesday, September 27](https://www.pcgamer.com/todays-wordle-465-answer-hint)
- - [You could grab a $1899 VR headset for $499 in Pimax&#39;s birthday sales](https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales)<!-- GAME:END -->
+ - [Uh oh, Bulletstorm studio and Take-Two have an unexpected breakup](https://www.pcgamer.com/uh-oh-bulletstorm-studio-and-take-two-have-an-unexpected-breakup)
+ - [Valkyrie Elysium: your primer to the RPG series ahead of this week’s launch](https://blog.playstation.com/2022/09/27/valkyrie-elysium-your-primer-to-the-rpg-series-ahead-of-this-weeks-launch/)
+ - [NBA 2K23’s game-changing Eras mode was a 20-year labor of love](https://www.polygon.com/23369104/nba-2k23-mynba-eras-visual-concepts-erick-boenisch-mike-wang)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
