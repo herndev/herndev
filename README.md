@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rumbleverse Mid-Season Update is Now Available](https://news.xbox.com/en-us/2022/09/27/the-rumbleverse-mid-season-update-is-now-available/)
- - [Gundam Evolution feels like Overwatch with Gundam costumes, but it works](https://www.pcgamer.com/gundam-evolution-feels-like-overwatch-with-gundam-costumes-but-it-works)
- - [The 13 best co-op management games to sink hours and hours into](https://www.polygon.com/what-to-play/23368703/best-co-op-multiplayer-games-survival-management-sim-base-building-farm-lifestyle)<!-- GAME:END -->
+ - [Overwatch 2 will require brand-new players to unlock most of the roster through play](https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players)
+ - [Intel expects &#39;a lot of world records to fall&#39; when Raptor Lake launches next month](https://www.pcgamer.com/intel-expects-a-lot-of-world-records-to-fall-when-raptor-lake-launches-next-month)
+ - [Metal: Hellsinger adds modding tools for jazz, ska, or any other kind of Hellsinger](https://www.polygon.com/23375116/metal-hellsinger-music-mods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
