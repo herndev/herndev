@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung launches a co-branded credit card with Axis Bank in India, where it has 175M customers, offering 10% cashback to customers buying Samsung products &lpar;Munsif Vengattil/Reuters&rpar;](http://www.techmeme.com/220926/p27#a220926p27)
  - [South Korea&#39;s science minister says a &quot;sense of crisis&quot; has gripped the country&#39;s chip industry, as new legislation aims to boost its global competitiveness &lpar;Financial Times&rpar;](http://www.techmeme.com/220926/p26#a220926p26)
- - [iOS 16 bug breaks support for Cinematic videos in Final Cut Pro](https://appleinsider.com/articles/22/09/27/ios-16-bug-breaks-support-for-cinematic-videos-in-final-cut-pro?utm_medium=rss)
- - [Substack launches Reader for the web with search, keyboard shortcuts, dark mode, recommendations, and an &quot;Add RSS feed&quot; feature for non-Substack publications &lpar;On Substack&rpar;](http://www.techmeme.com/220926/p25#a220926p25)<!-- TECH:END -->
+ - [More People Need to Watch This Surprisingly Beautiful Netflix Documentary     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-surprisingly-beautiful-netflix-documentary/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
