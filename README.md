@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robinhood’s Web3 wallet beta is live](https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon)
- - [NASA DART Companion Sends First Eerie Images of Asteroid Crash Site     - CNET](https://www.cnet.com/science/space/nasa-dart-companion-sends-first-eerie-images-of-asteroid-crash-site/#ftag=CAD590a51e)
- - [Intel, Samsung Debut &#39;Slidable&#39; PC With Extendable Screen     - CNET](https://www.cnet.com/tech/computing/intel-samsung-debut-slidable-pc-with-extendable-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Two years after Apple Silicon, Intel still wants Apple to buy chips](https://appleinsider.com/articles/22/09/27/intel-still-pines-for-apple-as-a-future-chip-client?utm_medium=rss)
+ - [New leak gives us first look at the Samsung Galaxy S23 Plus](https://www.androidauthority.com/samsung-galaxy-s23-plus-3213757/)
+ - [Developers are abandoning Android apps, and users may be at risk](https://appleinsider.com/articles/22/09/27/developers-are-abandoning-android-apps-and-users-may-be-at-risk?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
