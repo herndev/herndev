@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the vote on the new head of the UN&#39;s International Telecommunications Union between a US and Russian candidate, and its implications for the open web &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220927/p1#a220927p1)
- - [The Moment NASA&#39;s DART Probe Hit an Asteroid Captured in Epic Telescope View     - CNET](https://www.cnet.com/science/space/the-moment-nasas-dart-probe-hit-an-asteroid-captured-in-epic-telescope-view/#ftag=CAD590a51e)
- - [The New Roomba Can Vacuum and Mop -- Without Getting Water on Your Carpet     - CNET](https://www.cnet.com/news/the-new-roomba-can-vacuum-and-mop-without-getting-water-on-your-carpet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Thailand&#39;s LINE MAN Wongnai, which provides food delivery and runs an e-commerce platform for businesses, raised a $265M series B led by GIC at a $1B+ valuation &lpar;Anuchit Nguyen/Bloomberg&rpar;](http://www.techmeme.com/220927/p2#a220927p2)
+ - [&#39;House of the Dragon&#39;: Laena Velaryon&#39;s Decision, Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-decision-explained/#ftag=CAD590a51e)
+ - [A look at the vote on the new head of the UN&#39;s International Telecommunications Union between a US and Russian candidate, and its implications for the open web &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220927/p1#a220927p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
