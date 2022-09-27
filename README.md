@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Update for Capcom Fighting Collection with More Features Available Now](https://news.xbox.com/en-us/2022/09/26/update-for-capcom-fighting-collection-with-more-features-available-now/)
  - [This lighthouse survival game will test your base-building skills with tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)
- - [This Deluxe Steam Deck Kickstand Makes A Huge Difference](https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263)
- - [How to unlock Cold Weather Flying in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-cold-weather-flying-unlock)<!-- GAME:END -->
+ - [This Deluxe Steam Deck Kickstand Makes A Huge Difference](https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
