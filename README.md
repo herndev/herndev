@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google shows off all Pixel 7 Pro colors in all their glory in new video](https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/)
- - [Intel plans to launch its Arc A770 graphics card for $329 on October 12, hoping to compete with Nvidia&#39;s budget GeForce RTX 3060 on price and performance &lpar;Jacob Ridley/PC Gamer&rpar;](http://www.techmeme.com/220927/p28#a220927p28)
- - [Go get your Netflix gamertag](https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android)<!-- TECH:END -->
+ - [Tumblr probably won’t drop its porn ban, but it might be about to loosen it](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)
+ - [Hugh Jackman will reprise his Wolverine role for Marvel’s Deadpool 3](https://www.theverge.com/2022/9/27/23375621/hugh-jackman-wolverine-3)
+ - [The SEC says 16 Wall Street firms have agreed to pay $1.1B in combined penalties for failing to monitor employees using unauthorized messaging apps &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/220927/p30#a220927p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
