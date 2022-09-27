@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thailand&#39;s LINE MAN Wongnai, which provides food delivery and runs an e-commerce platform for businesses, raised a $265M series B led by GIC at a $1B+ valuation &lpar;Anuchit Nguyen/Bloomberg&rpar;](http://www.techmeme.com/220927/p2#a220927p2)
- - [&#39;House of the Dragon&#39;: Laena Velaryon&#39;s Decision, Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-decision-explained/#ftag=CAD590a51e)
- - [A look at the vote on the new head of the UN&#39;s International Telecommunications Union between a US and Russian candidate, and its implications for the open web &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/220927/p1#a220927p1)<!-- TECH:END -->
+ - [Text-to-image generation systems like DALL-E and Midjourney use datasets built by scrapping images without explicit permission and it&#39;s not easy to opt out &lpar;Chloe Xiang/VICE&rpar;](http://www.techmeme.com/220927/p3#a220927p3)
+ - [This foldable beats the Galaxy Z Fold 4 with bigger battery, faster charging](https://www.androidauthority.com/vivo-x-fold-plus-3212731/)
+ - [You can now create and share links for WhatsApp video calls](https://www.androidauthority.com/whatsapp-call-links-3213273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
