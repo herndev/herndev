@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
  - [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
- - [New PS5 Modern Warfare 2 Console Bundle Revealed     - CNET](https://www.cnet.com/tech/gaming/new-ps5-modern-warfare-2-console-bundle-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Eight states sue crypto lender Nexo over security sales and misleading marketing](https://www.theverge.com/2022/9/26/23373916/nexo-lawsuit-securities-regulation-new-york-attorney-general)
+ - [Watch This Wild Walking Table Take Its First Steps     - CNET](https://www.cnet.com/culture/watch-this-wild-walking-table-take-its-first-steps/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
