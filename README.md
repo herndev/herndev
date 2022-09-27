@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
- - ⏩ [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
- - 👉 [Whiskers, The Unbeatable.](http://9gag.com/gag/aREQMAM)<!-- MEMES:END -->
+ - 💣 [Poor cat made to walk the plank and brought back to its mother](http://9gag.com/gag/awZrYmR)
+ - ⏩ [This man&#39;s resilience is inspiring](http://9gag.com/gag/ay25vpV)
+ - 👉 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
 
 ---
 
