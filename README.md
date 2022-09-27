@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Regate, which offers an all-in-one platform to manage invoices, expense reports, and payments, raised a $20M series A led by Valar Ventures &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/220927/p4#a220927p4)
- - [Nothing Ear Stick specs show up in regulatory listing](https://www.androidauthority.com/nothing-ear-stick-3211872/)
- - [Google Pixel 7 Pro spec sheet leaks: Is it what you expected?](https://www.androidauthority.com/google-pixel-7-pro-specs-3213292/)<!-- TECH:END -->
+ - [Apple launches App Store development program focusing on UK women](https://appleinsider.com/articles/22/09/27/apple-launches-app-store-development-program-focusing-on-uk-women?utm_medium=rss)
+ - [Study: in January 2022, 62.4% of bitcoin mining electricity came from fossil fuels, contradicting the Bitcoin Mining Council&#39;s estimate that ~59% is sustainable &lpar;Jamie Crawley/CoinDesk&rpar;](http://www.techmeme.com/220927/p7#a220927p7)
+ - [The Secret Microscope That Sparked a Scientific Revolution](https://www.wired.com/story/secret-microscope-sparked-scientific-revolution/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
