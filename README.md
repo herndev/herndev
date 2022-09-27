@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
- - [Steam Sale dates for autumn, winter, and spring revealed by Valve](https://www.polygon.com/23374974/steam-autumn-winter-spring-sale-dates)
- - [New Overwatch 2 accounts have to unlock old heroes, too](https://www.pcgamer.com/new-overwatch-2-accounts-have-to-unlock-old-heroes-too)<!-- GAME:END -->
+ - [The Rumbleverse Mid-Season Update is Now Available](https://news.xbox.com/en-us/2022/09/27/the-rumbleverse-mid-season-update-is-now-available/)
+ - [Gundam Evolution feels like Overwatch with Gundam costumes, but it works](https://www.pcgamer.com/gundam-evolution-feels-like-overwatch-with-gundam-costumes-but-it-works)
+ - [The 13 best co-op management games to sink hours and hours into](https://www.polygon.com/what-to-play/23368703/best-co-op-multiplayer-games-survival-management-sim-base-building-farm-lifestyle)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
