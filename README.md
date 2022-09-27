@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parallel universe](http://9gag.com/gag/a1PADAG)
- - ⏩ [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)
- - 👉 [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)<!-- MEMES:END -->
+ - 💣 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
+ - ⏩ [The deal of the century](http://9gag.com/gag/aoKz8qg)
+ - 👉 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)<!-- MEMES:END -->
 
 ---
 
