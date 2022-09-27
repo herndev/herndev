@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [&#39;I&#39;m so angry I cannot breathe&#39; says Girls Who Code founder over suspected book ban attempt](https://www.pcgamer.com/girls-who-code-book-ban)
  - [Today&#39;s Wordle 465 answer and hint: Tuesday, September 27](https://www.pcgamer.com/todays-wordle-465-answer-hint)
- - [You could grab a $1899 VR headset for $499 in Pimax&#39;s birthday sales](https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales)
- - [Nvidia issues hotfix for Windows 11 22H2 stuttering issues](https://www.pcgamer.com/nvidia-issues-hotfix-for-windows-11-22h2-stuttering-issues)<!-- GAME:END -->
+ - [You could grab a $1899 VR headset for $499 in Pimax&#39;s birthday sales](https://www.pcgamer.com/you-could-grab-a-dollar1899-vr-headset-for-dollar499-in-pimaxs-birthday-sales)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
