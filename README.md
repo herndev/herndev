@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
- - ⏩ [The deal of the century](http://9gag.com/gag/aoKz8qg)
- - 👉 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)<!-- MEMES:END -->
+ - 💣 [I like hearing my voice from inside my head than from the recorder](http://9gag.com/gag/aQEqZ9z)
+ - ⏩ [Ukrainian Soldiers and their genetically modified tactical Battle Squirrel](http://9gag.com/gag/a5Xd2Pr)
+ - 👉 [New Italian PM](http://9gag.com/gag/aGE9A4z)<!-- MEMES:END -->
 
 ---
 
