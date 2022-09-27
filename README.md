@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I love democracy](http://9gag.com/gag/agoy6G1)
- - ⏩ [What a wholesome helper](http://9gag.com/gag/amAXn6j)
- - 👉 [How dare he!](http://9gag.com/gag/aPgvnjn)<!-- MEMES:END -->
+ - 💣 [Name that movie](http://9gag.com/gag/avQ09Gn)
+ - ⏩ [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)
+ - 👉 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)<!-- MEMES:END -->
 
 ---
 
