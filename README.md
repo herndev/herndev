@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
- - ⏩ [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
- - 👉 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
+ - 💣 [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)
+ - ⏩ [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)
+ - 👉 [Meanwhile in London](http://9gag.com/gag/aNwe2ww)<!-- MEMES:END -->
 
 ---
 
