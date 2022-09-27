@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia issues hotfix for Windows 11 22H2 stuttering issues](https://www.pcgamer.com/nvidia-issues-hotfix-for-windows-11-22h2-stuttering-issues)
  - [Update for Capcom Fighting Collection with More Features Available Now](https://news.xbox.com/en-us/2022/09/26/update-for-capcom-fighting-collection-with-more-features-available-now/)
- - [This lighthouse survival game will test your base-building skills with tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)
- - [This Deluxe Steam Deck Kickstand Makes A Huge Difference](https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263)<!-- GAME:END -->
+ - [This lighthouse survival game will test your base-building skills with tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
