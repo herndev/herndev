@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
- - ⏩ [Suddenly remember this and laugh like maniac at work](http://9gag.com/gag/a8qWq6d)
- - 👉 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)<!-- MEMES:END -->
+ - 💣 [Parallel universe](http://9gag.com/gag/a1PADAG)
+ - ⏩ [Bees eating paint. Can anyone explain this?](http://9gag.com/gag/aEqwWRG)
+ - 👉 [What or Who could be inside ?](http://9gag.com/gag/a3ZYZg5)<!-- MEMES:END -->
 
 ---
 
