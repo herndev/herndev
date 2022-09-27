@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Gummy’s Life Celebrates a Year on Xbox](https://news.xbox.com/en-us/2022/09/26/a-gummys-life-celebrates-a-year-on-xbox/)
- - [Chess Champion Breaks Silence On &#39;Anal Bead&#39; Cheating Controversy](https://kotaku.com/anal-bead-cheating-chess-magnus-carlsen-hans-niemann-1849583617)
- - [Magnus Carlsen accuses Hans Niemann of cheating, chess saga continues](https://www.polygon.com/23373798/chess-cheating-scandal-magnus-carlsen-accuses-hans-niemann)<!-- GAME:END -->
+ - [This lighthouse survival game will test your base-building skills with tsunamis](https://www.pcgamer.com/this-lighthouse-survival-game-will-test-your-base-building-skills-with-tsunamis)
+ - [This Deluxe Steam Deck Kickstand Makes A Huge Difference](https://kotaku.com/steam-deck-deckmate-valve-kickstand-portable-1849583263)
+ - [How to unlock Cold Weather Flying in Wrath of the Lich King Classic](https://www.pcgamer.com/wow-wrath-classic-cold-weather-flying-unlock)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
