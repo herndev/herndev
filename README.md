@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)
- - ⏩ [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)
- - 👉 [Meanwhile in London](http://9gag.com/gag/aNwe2ww)<!-- MEMES:END -->
+ - 💣 [I love democracy](http://9gag.com/gag/agoy6G1)
+ - ⏩ [What a wholesome helper](http://9gag.com/gag/amAXn6j)
+ - 👉 [How dare he!](http://9gag.com/gag/aPgvnjn)<!-- MEMES:END -->
 
 ---
 
