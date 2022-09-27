@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Great replacement](http://9gag.com/gag/aNweBXv)
- - ⏩ [100% cotton](http://9gag.com/gag/ajVrB5x)
- - 👉 [Illegal African migrants mostly males and pro-migrant NGOs occupy refuge center of ukranians mostly women, children and elderly in france. Ukranians was forced to leave the facility. Enjoy 9gag is going to delete this.](http://9gag.com/gag/a1PAVPw)<!-- MEMES:END -->
+ - 💣 [For those intensive research purposes of course. Faptain flies away!](http://9gag.com/gag/ajVr1Bw)
+ - ⏩ [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)
+ - 👉 [Bring back the classic memes!](http://9gag.com/gag/aWGZ763)<!-- MEMES:END -->
 
 ---
 
