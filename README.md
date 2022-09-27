@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s top Arc A770 GPU is priced at $329, available October 12th](https://www.theverge.com/2022/9/27/23374988/intel-arc-a770-price-release-date)
  - [There&#39;s more to the new AirPods Pro than meets the ear](https://appleinsider.com/articles/22/09/27/theres-more-to-the-new-airpods-pro-than-meets-the-ear?utm_medium=rss)
- - [Apple issues ninth developer beta of macOS Ventura](https://appleinsider.com/articles/22/09/27/apple-issues-ninth-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [New iPadOS beta adds Stage Manager support to older iPad Pros](https://appleinsider.com/articles/22/09/27/new-ipados-beta-adds-stage-manager-support-to-older-ipad-pros?utm_medium=rss)
+ - [The latest iPadOS 16 developer beta makes Stage Manager compatible with older A12X and A12Z iPads, but does not include external monitor support for the feature &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/220927/p26#a220927p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
