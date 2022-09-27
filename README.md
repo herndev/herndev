@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Try Guys firing drama, explained](https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating)
- - [HBO’s The Last Of Us Trailer: 11 Things That Caught Our Eye](https://kotaku.com/the-last-of-us-hbo-joel-ellie-naughty-dog-playstation-1849587727)
- - [Overwatch 2 Is Sounding More And More Like A Free-To-Play Nightmare](https://kotaku.com/overwatch-2-unlock-heroes-ftp-battle-pass-blizzard-1849587799)<!-- GAME:END -->
+ - [Sorry Y’all, Dead Island 2 Weapon Breaking Isn’t Going Anywhere](https://kotaku.com/dead-island-2-weapon-break-durability-dambuster-botw-1849588085)
+ - [Fortnite just released a ‘Dead Game’ skin](https://www.polygon.com/23375562/fortnite-dead-game-skin-epic-games-meme)
+ - [Twitch is betting against streaming superstars](https://www.polygon.com/23374984/twitch-streamers-revenue-youtube-move)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
