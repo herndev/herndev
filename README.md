@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twins sentenced over $2.2 million AT&amp;T Apple hardware fraud](https://appleinsider.com/articles/22/09/27/twins-sentenced-over-22-million-att-apple-hardware-fraud?utm_medium=rss)
- - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)
- - [The Best Portable Coffee Makers](https://www.wired.com/gallery/best-portable-coffee-makers/)<!-- TECH:END -->
+ - [Cloud storage startup Wasabi, which competes with AWS&#39; S3, raised a $250M Series D, or $125M equity, led by L2 Point, and $125M debt, at a $1.1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220927/p12#a220927p12)
+ - [The Unlikely Cure for Burnout? A Second Job](https://www.wired.com/story/overemployment-work/)
+ - [The Best Period Products](https://www.wired.com/story/best-menstrual-products/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
