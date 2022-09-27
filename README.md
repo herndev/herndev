@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX US President Brett Harrison says he plans to step down in the coming months after joining in May 2021 and overseeing huge growth &lpar;Frank Chaparro/The Block&rpar;](http://www.techmeme.com/220927/p18#a220927p18)
- - [Russian campaign spent $100,000 on anti-Ukraine propaganda, Meta says](https://www.theverge.com/2022/9/27/23374819/meta-russian-influence-ukraine-war-campaign-propaganda)
- - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)<!-- TECH:END -->
+ - [Intel’s top Arc A770 GPU is priced at $329, available October 12th](https://www.theverge.com/2022/9/27/23374988/intel-arc-a770-price-release-date)
+ - [There&#39;s more to the new AirPods Pro than meets the ear](https://appleinsider.com/articles/22/09/27/theres-more-to-the-new-airpods-pro-than-meets-the-ear?utm_medium=rss)
+ - [Apple issues ninth developer beta of macOS Ventura](https://appleinsider.com/articles/22/09/27/apple-issues-ninth-developer-beta-of-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
