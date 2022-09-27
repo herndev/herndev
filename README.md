@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happened to the movement that claimed to be responsible for the carbombing that killed the daughter of this one propaganda dude in Russia?](http://9gag.com/gag/amAX1Aj)
- - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - 👉 [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)<!-- MEMES:END -->
+ - 💣 [The Great replacement](http://9gag.com/gag/aNweBXv)
+ - ⏩ [100% cotton](http://9gag.com/gag/ajVrB5x)
+ - 👉 [Illegal African migrants mostly males and pro-migrant NGOs occupy refuge center of ukranians mostly women, children and elderly in france. Ukranians was forced to leave the facility. Enjoy 9gag is going to delete this.](http://9gag.com/gag/a1PAVPw)<!-- MEMES:END -->
 
 ---
 
