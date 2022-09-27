@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There&#39;s more to the new AirPods Pro than meets the ear](https://appleinsider.com/articles/22/09/27/theres-more-to-the-new-airpods-pro-than-meets-the-ear?utm_medium=rss)
- - [New iPadOS beta adds Stage Manager support to older iPad Pros](https://appleinsider.com/articles/22/09/27/new-ipados-beta-adds-stage-manager-support-to-older-ipad-pros?utm_medium=rss)
- - [The latest iPadOS 16 developer beta makes Stage Manager compatible with older A12X and A12Z iPads, but does not include external monitor support for the feature &lpar;Nathan Ingraham/Engadget&rpar;](http://www.techmeme.com/220927/p26#a220927p26)<!-- TECH:END -->
+ - [Robinhood’s Web3 wallet beta is live](https://www.theverge.com/2022/9/27/23374990/robinhood-web3-wallet-beta-ios-polygon)
+ - [NASA DART Companion Sends First Eerie Images of Asteroid Crash Site     - CNET](https://www.cnet.com/science/space/nasa-dart-companion-sends-first-eerie-images-of-asteroid-crash-site/#ftag=CAD590a51e)
+ - [Intel, Samsung Debut &#39;Slidable&#39; PC With Extendable Screen     - CNET](https://www.cnet.com/tech/computing/intel-samsung-debut-slidable-pc-with-extendable-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
