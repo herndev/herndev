@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surprise parties in the hood](http://9gag.com/gag/aL1Kro5)
- - ⏩ [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
- - 👉 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
+ - 💣 [Satisfying &lpar;?&rpar;](http://9gag.com/gag/aEqwQmx)
+ - ⏩ [Russian Mobilization](http://9gag.com/gag/a4o4Ve6)
+ - 👉 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
 
 ---
 
