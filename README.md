@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying &lpar;?&rpar;](http://9gag.com/gag/aEqwQmx)
- - ⏩ [Russian Mobilization](http://9gag.com/gag/a4o4Ve6)
- - 👉 [They want equality, but no equal treatment? I cannot can..](http://9gag.com/gag/a5XdDVN)<!-- MEMES:END -->
+ - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
+ - ⏩ [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
+ - 👉 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
 
 ---
 
