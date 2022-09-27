@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This New Pokémon-Creating AI Is Producing Hilarious Results](https://kotaku.com/pokemon-nintendo-ai-art-machine-learning-scarlet-violet-1849585148)
- - [Elevate Your Game with the Mineral Camo Special Edition Controller](https://news.xbox.com/en-us/2022/09/27/mineral-camo-special-edition-controller-announce/)
- - [Who sword fights better: House of the Dragon or The Rings of Power?](https://www.polygon.com/23373706/house-dragon-lord-rings-power-the-same-maybe)<!-- GAME:END -->
+ - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
+ - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)
+ - [Star Trek has truly reinvented itself](https://www.polygon.com/23345284/star-trek-tv-show-best-start)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
