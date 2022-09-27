@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 will require brand-new players to unlock most of the roster through play](https://www.polygon.com/23375210/overwatch-2-unlock-heroes-new-players)
- - [Intel expects &#39;a lot of world records to fall&#39; when Raptor Lake launches next month](https://www.pcgamer.com/intel-expects-a-lot-of-world-records-to-fall-when-raptor-lake-launches-next-month)
- - [Metal: Hellsinger adds modding tools for jazz, ska, or any other kind of Hellsinger](https://www.polygon.com/23375116/metal-hellsinger-music-mods)<!-- GAME:END -->
+ - [Madden’s Regular Weekly Content Might Be Delayed By Hurricane Ian](https://kotaku.com/ea-madden-23-ultimate-team-delay-hurricane-ian-florida-1849587596)
+ - [Alleged Grand Theft Auto 6 hacker pleads not guilty](https://www.pcgamer.com/alleged-grand-theft-auto-6-hacker-pleads-not-guilty)
+ - [T-Pain Tells Awful Apex Legends Players To Touch Grass, Stop Harassing Developers](https://kotaku.com/t-pain-apex-legends-respawn-bungie-developers-harass-1849587283)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
