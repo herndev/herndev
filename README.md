@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
- - ⏩ [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)
- - 👉 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)<!-- MEMES:END -->
+ - 💣 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)
+ - ⏩ [Wait! He&#39;s Real?](http://9gag.com/gag/aKEzAQ3)
+ - 👉 [Whiskers, The Unbeatable.](http://9gag.com/gag/aREQMAM)<!-- MEMES:END -->
 
 ---
 
