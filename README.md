@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Madden’s Regular Weekly Content Might Be Delayed By Hurricane Ian](https://kotaku.com/ea-madden-23-ultimate-team-delay-hurricane-ian-florida-1849587596)
- - [Alleged Grand Theft Auto 6 hacker pleads not guilty](https://www.pcgamer.com/alleged-grand-theft-auto-6-hacker-pleads-not-guilty)
- - [T-Pain Tells Awful Apex Legends Players To Touch Grass, Stop Harassing Developers](https://kotaku.com/t-pain-apex-legends-respawn-bungie-developers-harass-1849587283)<!-- GAME:END -->
+ - [The Try Guys firing drama, explained](https://www.polygon.com/23375389/the-try-guys-ned-fulmer-fired-youtube-cheating)
+ - [HBO’s The Last Of Us Trailer: 11 Things That Caught Our Eye](https://kotaku.com/the-last-of-us-hbo-joel-ellie-naughty-dog-playstation-1849587727)
+ - [Overwatch 2 Is Sounding More And More Like A Free-To-Play Nightmare](https://kotaku.com/overwatch-2-unlock-heroes-ftp-battle-pass-blizzard-1849587799)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
