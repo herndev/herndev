@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This can\u2019t be right.](http://9gag.com/gag/anzYgrE)
+ - 💣 [What happened to the movement that claimed to be responsible for the carbombing that killed the daughter of this one propaganda dude in Russia?](http://9gag.com/gag/amAX1Aj)
  - ⏩ [How do skaters no get dizzy?](http://9gag.com/gag/ap9q3V9)
- - 👉 [Strike](http://9gag.com/gag/a8qW2op)<!-- MEMES:END -->
+ - 👉 [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)<!-- MEMES:END -->
 
 ---
 
