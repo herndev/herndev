@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloud storage startup Wasabi, which competes with AWS&#39; S3, raised a $250M Series D, or $125M equity, led by L2 Point, and $125M debt, at a $1.1B+ valuation &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220927/p12#a220927p12)
- - [The Unlikely Cure for Burnout? A Second Job](https://www.wired.com/story/overemployment-work/)
- - [The Best Period Products](https://www.wired.com/story/best-menstrual-products/)<!-- TECH:END -->
+ - [Nreal Air AR glasses put your iPhone onto a 130-foot display](https://appleinsider.com/articles/22/09/27/nreal-air-ar-glasses-put-your-iphone-onto-a-130-foot-display?utm_medium=rss)
+ - [AirPods Pro 2022 review: Already excellent earbuds, improved](https://appleinsider.com/articles/22/09/27/airpods-pro-2022-review-already-excellent-earbuds-improved?utm_medium=rss)
+ - [The Best Smart Speakers With Voice Assistants](https://www.wired.com/story/best-smart-speakers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
