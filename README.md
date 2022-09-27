@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Simpsons Season 34 Opening Couch Gag Pays Homage to Chrome&#39;s T-Rex Game     - CNET](https://www.cnet.com/culture/entertainment/the-simpsons-season-34-opening-couch-gag-pays-homage-to-chromes-t-rex-game/#ftag=CAD590a51e)
- - [Netflix announces its first in-house game studio, its second game studio in Helsinki, to be led by ex-Zynga Vice President and General Manager Marko Lastikka &lpar;Cheri Faulkner/NME&rpar;](http://www.techmeme.com/220926/p22#a220926p22)
- - [Costco Says Hot Dog-Drink Combo Will Cost $1.50 &#39;Forever&#39;     - CNET](https://www.cnet.com/culture/costco-says-hot-dog-drink-combo-will-cost-1-50-forever/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to watch NASA crash a spacecraft into an asteroid on Monday](https://www.theverge.com/2022/9/26/23371372/watch-nasa-dart-collision-asteroid)
+ - [NASA just crashed a spacecraft into an asteroid to see what would happen](https://www.theverge.com/2022/9/26/23372818/nasa-dart-crash-asteroid-redirect)
+ - [New PS5 Modern Warfare 2 Console Bundle Revealed     - CNET](https://www.cnet.com/tech/gaming/new-ps5-modern-warfare-2-console-bundle-revealed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
