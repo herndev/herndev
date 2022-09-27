@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [15 most wanted games still coming in 2022](https://blog.playstation.com/2022/09/27/15-most-wanted-games-still-coming-in-2022/)
- - [The best wireless gaming earbuds](https://www.pcgamer.com/best-wireless-gaming-earbuds)
- - [Star Trek has truly reinvented itself](https://www.polygon.com/23345284/star-trek-tv-show-best-start)<!-- GAME:END -->
+ - [The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You&#39;re Expecting](https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984)
+ - [In The Finals, a new squad shooter from Battlefield alumni, everything is destructible](https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha)
+ - [Introducing Hokko Life, a Cozy, Creativity-Filled Life-Sim, Now Available on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/09/27/introducing-hokko-life-a-cozy-creativity-filled-life-sim-now-available-on-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
