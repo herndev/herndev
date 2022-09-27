@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The First NFT-Based Game Out On The Epic Games Store Looks As Awful As You&#39;re Expecting](https://kotaku.com/epic-games-nft-blockchain-web3-fall-guys-fortnite-1849585984)
- - [In The Finals, a new squad shooter from Battlefield alumni, everything is destructible](https://www.polygon.com/23373768/embark-studios-new-game-the-finals-preview-free-to-play-shooter-alpha)
- - [Introducing Hokko Life, a Cozy, Creativity-Filled Life-Sim, Now Available on Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2022/09/27/introducing-hokko-life-a-cozy-creativity-filled-life-sim-now-available-on-xbox-one-and-xbox-series-xs/)<!-- GAME:END -->
+ - [The best anime of 2022, so far](https://www.polygon.com/22919571/best-anime-2022)
+ - [Steam Sale dates for autumn, winter, and spring revealed by Valve](https://www.polygon.com/23374974/steam-autumn-winter-spring-sale-dates)
+ - [New Overwatch 2 accounts have to unlock old heroes, too](https://www.pcgamer.com/new-overwatch-2-accounts-have-to-unlock-old-heroes-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
