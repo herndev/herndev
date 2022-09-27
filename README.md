@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uh oh, Bulletstorm studio and Take-Two have an unexpected breakup](https://www.pcgamer.com/uh-oh-bulletstorm-studio-and-take-two-have-an-unexpected-breakup)
- - [Valkyrie Elysium: your primer to the RPG series ahead of this week’s launch](https://blog.playstation.com/2022/09/27/valkyrie-elysium-your-primer-to-the-rpg-series-ahead-of-this-weeks-launch/)
- - [NBA 2K23’s game-changing Eras mode was a 20-year labor of love](https://www.polygon.com/23369104/nba-2k23-mynba-eras-visual-concepts-erick-boenisch-mike-wang)<!-- GAME:END -->
+ - [This New Pokémon-Creating AI Is Producing Hilarious Results](https://kotaku.com/pokemon-nintendo-ai-art-machine-learning-scarlet-violet-1849585148)
+ - [Elevate Your Game with the Mineral Camo Special Edition Controller](https://news.xbox.com/en-us/2022/09/27/mineral-camo-special-edition-controller-announce/)
+ - [Who sword fights better: House of the Dragon or The Rings of Power?](https://www.polygon.com/23373706/house-dragon-lord-rings-power-the-same-maybe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
