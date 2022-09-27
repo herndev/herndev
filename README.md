@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Soda like Fanta have less sugar and calories in Europe but taste the exact same as those in the America. Why is that?](http://9gag.com/gag/aA0Y4rR)
- - ⏩ [Just a subtle marshmallow prank](http://9gag.com/gag/a9qdvM6)
- - 👉 [The Handmaiden &lpar;2016&rpar;](http://9gag.com/gag/aREQZrB)<!-- MEMES:END -->
+ - 💣 [Blep.](http://9gag.com/gag/a049wzn)
+ - ⏩ [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)
+ - 👉 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)<!-- MEMES:END -->
 
 ---
 
