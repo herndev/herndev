@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two years after Apple Silicon, Intel still wants Apple to buy chips](https://appleinsider.com/articles/22/09/27/intel-still-pines-for-apple-as-a-future-chip-client?utm_medium=rss)
- - [New leak gives us first look at the Samsung Galaxy S23 Plus](https://www.androidauthority.com/samsung-galaxy-s23-plus-3213757/)
- - [Developers are abandoning Android apps, and users may be at risk](https://appleinsider.com/articles/22/09/27/developers-are-abandoning-android-apps-and-users-may-be-at-risk?utm_medium=rss)<!-- TECH:END -->
+ - [Google shows off all Pixel 7 Pro colors in all their glory in new video](https://www.androidauthority.com/google-pixel-7-pro-colors-3213695/)
+ - [Intel plans to launch its Arc A770 graphics card for $329 on October 12, hoping to compete with Nvidia&#39;s budget GeForce RTX 3060 on price and performance &lpar;Jacob Ridley/PC Gamer&rpar;](http://www.techmeme.com/220927/p28#a220927p28)
+ - [Go get your Netflix gamertag](https://www.theverge.com/2022/9/27/23375319/netflix-games-gamertag-username-handle-ios-android)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
