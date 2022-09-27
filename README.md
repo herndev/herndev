@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr probably won’t drop its porn ban, but it might be about to loosen it](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)
- - [Hugh Jackman will reprise his Wolverine role for Marvel’s Deadpool 3](https://www.theverge.com/2022/9/27/23375621/hugh-jackman-wolverine-3)
- - [The SEC says 16 Wall Street firms have agreed to pay $1.1B in combined penalties for failing to monitor employees using unauthorized messaging apps &lpar;Jennifer Surane/Bloomberg&rpar;](http://www.techmeme.com/220927/p30#a220927p30)<!-- TECH:END -->
+ - [Court filing: Elon Musk&#39;s deposition by Twitter&#39;s lawyers has been rescheduled to October 6 and 7 &lpar;The Guardian&rpar;](http://www.techmeme.com/220927/p31#a220927p31)
+ - [Intel wants to help make Windows play friendly with both Android and iOS](https://www.androidauthority.com/intel-unison-windows-3213822/)
+ - [Tumblr probably won’t drop its porn ban, but it might be about to loosen it](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
