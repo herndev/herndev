@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)
- - [China has let dating apps flourish amid its crackdown on tech; data.ai: the number of dating apps with 1K+ downloads is up from 81 in 2017 to 275 in 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220928/p2#a220928p2)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [Cloudflare says Greylock, Bessemer, and other VC firms have collectively offered to invest up to $1.25B in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
+ - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)
+ - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
