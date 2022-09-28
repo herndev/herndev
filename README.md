@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CNN lays off audio staffers as it shifts podcast strategy](https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix)
- - [Alexa is getting some much-needed smart home upgrades](https://www.theverge.com/2022/9/28/23376764/amazon-alexa-smart-home-upgrades-routines-hunches-scheduling)
- - [Theft of 2000 pieces of Apple gear leads to 4 years in prison](https://appleinsider.com/articles/22/09/28/theft-of-2000-pieces-of-apple-gear-leads-to-4-years-in-prison?utm_medium=rss)<!-- TECH:END -->
+ - [Republican infighting threatens tech antitrust vote](https://www.theverge.com/2022/9/28/23377108/republican-infighting-threatens-tech-antitrust-vote)
+ - [Apple Car team reforming before end of 2022 says Ming-Chi Kuo](https://appleinsider.com/articles/22/09/28/apple-car-team-reforming-before-end-of-2022-says-ming-chi-kuo?utm_medium=rss)
+ - [Google says its multisearch tool, which lets users search using both images and text, will expand to more than 70 languages in the next few months &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220928/p33#a220928p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
