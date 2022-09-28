@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [D&amp;D’s newest push is into classrooms around the world](https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12)
- - [These stunning Lego minifig photos are a fantasy genre all their own](https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy)
- - [I can&#39;t believe I&#39;m saying this but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again)<!-- GAME:END -->
+ - [Looper’s experimental soundtrack slapped then, and slaps even harder now](https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview)
+ - [Trombone Champ is even better with a real trombone controller](https://www.polygon.com/23377025/trombone-champ-rudeism-controller-twitch-video)
+ - [Far Cry 6 May Be Getting A GOTY Edition Despite Getting Almost No Awards](https://kotaku.com/far-cry-6-goty-game-of-the-year-leak-ubisoft-open-world-1849591625)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
