@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
- - ⏩ [Why do I feel guilty?](http://9gag.com/gag/az2b4qb)
- - 👉 [Them cabbages](http://9gag.com/gag/aBdKXb1)<!-- MEMES:END -->
+ - 💣 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
+ - ⏩ [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)
+ - 👉 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)<!-- MEMES:END -->
 
 ---
 
