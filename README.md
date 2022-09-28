@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SWIFT is working with blockchain data provider Chainlink on a cross-chain interoperability protocol to let SWIFT messages instruct on-chain token transfers &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/220928/p40#a220928p40)
- - [Apple to announce fourth-quarter earnings  on October 27](https://appleinsider.com/articles/22/09/28/apple-to-announce-fourth-quarter-earnings-on-october-27?utm_medium=rss)
- - [Meta permanently bans Pornhub&#39;s Instagram account for &quot;repeatedly violating&quot; its policies, after a three-week suspension and ToS breaches accruing over 10 years &lpar;Samantha Cole/VICE&rpar;](http://www.techmeme.com/220928/p39#a220928p39)<!-- TECH:END -->
+ - [Pornhub is testing a chatbot that redirects users searching for CSAM to a service where they can get help; the bot intervened ~174K times during the first month &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220928/p42#a220928p42)
+ - [Google Search results could actually be useful again starting today](https://www.androidauthority.com/google-search-results-3214502/)
+ - [Amazon reveals new Echo Dot, Kindle Scribe tablet &amp; more](https://appleinsider.com/articles/22/09/28/amazon-reveals-new-echo-dot-kindle-scribe-tablet-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
