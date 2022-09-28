@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
- - [Activision QA worker warns OSHA about the devastating impact of crunch](https://www.polygon.com/23377128/activision-qa-workers-voice-summit-osha-doj)
- - [The Jackbox Party Pack 9 adds Fibbage 4 and more on Oct. 20](https://www.polygon.com/23377100/jackbox-party-pack-9-fibbage-release-date)<!-- GAME:END -->
+ - [PlayStation Stars launches in Asia today, with additional markets coming soon](https://blog.playstation.com/2022/09/28/playstation-stars-launches-in-asia-today-with-additional-markets-coming-soon/)
+ - [Let’s Get Ready for Overwatch 2](https://news.xbox.com/en-us/2022/09/28/lets-get-ready-for-overwatch-2/)
+ - [14 Shooters To Play While Waiting On Call Of Duty: Modern Warfare 2](https://kotaku.com/cod-modern-warfare-2-infinity-ward-apex-legends-1849592841)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
