@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VK, which owns Mail.ru and Russia&#39;s largest social network VKontakte, says Apple has removed its apps from the App Store &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220927/p33#a220927p33)
- - [Apple removes Russia’s largest social network from the App Store](https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media)
- - [A look at tappable podcast ads in mobile games, which trigger episode downloads; source: iHeartMedia got ~6M unique listeners/month through such ads since 2018 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220927/p32#a220927p32)<!-- TECH:END -->
+ - [Fast Company’s Apple News access hijacked to send an obscene push notification](https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack)
+ - [Apple pulls top Russian social media app from App Store](https://appleinsider.com/articles/22/09/28/apple-pulls-top-russian-social-media-app-from-app-store?utm_medium=rss)
+ - [VK, which owns Mail.ru and Russia&#39;s largest social network VKontakte, says Apple has removed its apps from the App Store &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220927/p33#a220927p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
