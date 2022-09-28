@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)
- - ⏩ [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
- - 👉 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
+ - 💣 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
+ - ⏩ [Why do I feel guilty?](http://9gag.com/gag/az2b4qb)
+ - 👉 [Them cabbages](http://9gag.com/gag/aBdKXb1)<!-- MEMES:END -->
 
 ---
 
