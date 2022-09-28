@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WHY!?](http://9gag.com/gag/aeQNqwm)
- - ⏩ [Paddle faster!!!!](http://9gag.com/gag/aeQNy3m)
- - 👉 [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)<!-- MEMES:END -->
+ - 💣 [Vietnam veteran being told how much his Rolex watch is worth](http://9gag.com/gag/aQEqbLW)
+ - ⏩ [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is an EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the elite who suffers from the consequences of their actions.](http://9gag.com/gag/amAXQv6)
+ - 👉 [Too late had seks!](http://9gag.com/gag/aXnbmB2)<!-- MEMES:END -->
 
 ---
 
