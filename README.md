@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
- - ⏩ [Only people born between 1/1/90 and 12/31/99 will remember this](http://9gag.com/gag/anzY0No)
- - 👉 [The economist](http://9gag.com/gag/aVbOdYy)<!-- MEMES:END -->
+ - 💣 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
+ - ⏩ [My home town today](http://9gag.com/gag/aREQ9M7)
+ - 👉 [Blessed](http://9gag.com/gag/aVbO9Xy)<!-- MEMES:END -->
 
 ---
 
