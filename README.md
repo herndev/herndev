@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cloudflare says Greylock, Bessemer, and other VC firms have collectively offered to invest up to $1.25B in startups that use its serverless computing platform &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/220928/p3#a220928p3)
- - [YouTuber says Samsung phone batteries are prematurely swelling](https://www.androidauthority.com/youtuber-samsung-phone-batteries-swelling-3213271/)
- - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)<!-- TECH:END -->
+ - [Samsung’s new lock screen prove the industry is a circular human centipede](https://www.androidauthority.com/samsung-copy-ios-16-one-ui-5-lock-screen-customization-3213948/)
+ - [Tumblr introduces &quot;community labels&quot;, letting users tag posts about drug and alcohol addiction, violence, and sexual content; no content rules are changing &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/220928/p5#a220928p5)
+ - [Leaked Galaxy S23 renders suggest Samsung could ditch the camera bump](https://www.theverge.com/2022/9/28/23376318/galaxy-s23-plus-leaked-render-onleaks-three-cameras-6-1-6-6-inch-screen-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
