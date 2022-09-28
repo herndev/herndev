@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There are too many RPGs coming, and Square Enix is to blame](https://www.polygon.com/23374590/square-enix-fall-2022-preview-crisis-core-final-fantasy-7-harvestella-nier)
- - [Brand New Scarlet &amp; Violet Pokémon Revealed, And It&#39;s A Floppy One](https://kotaku.com/pokemon-scarlet-violet-new-revealed-nintendo-wiglett-1849589853)
- - [Where to find scarabs in Genshin Impact 3.1](https://www.pcgamer.com/genshin-impact-scarab-locations)<!-- GAME:END -->
+ - [How to farm seaweed in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)
+ - [How to get clay in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-clay)
+ - [Netflix’s adaptation of My Father’s Dragon looks gorgeous in first trailer](https://www.polygon.com/23376426/netflix-my-fathers-dragon-cartoon-saloon-trailer-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
