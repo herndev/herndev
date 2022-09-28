@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)
- - ⏩ [My home town today](http://9gag.com/gag/aREQ9M7)
- - 👉 [Blessed](http://9gag.com/gag/aVbO9Xy)<!-- MEMES:END -->
+ - 💣 [Weird](http://9gag.com/gag/aQEqjew)
+ - ⏩ [This poor russian mobilik has no idea he was captured. `It&#39;s the first time I see soldiers here`. -`we too, but we are banderovites &lpar;bad guys&rpar;`](http://9gag.com/gag/aqemEyv)
+ - 👉 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
 
 ---
 
