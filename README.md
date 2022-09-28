@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Polestar teases new details about its electric SUV ahead of October 12th launch](https://www.theverge.com/2022/9/28/23375105/polestar-3-electric-suv-launch-date-october-12)
  - [China has let dating apps flourish amid its crackdown on tech; data.ai: the number of dating apps with 1K+ downloads is up from 81 in 2017 to 275 in 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220928/p2#a220928p2)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
- - [This Chatbot Aims to Steer People Away From Child Abuse Material](https://www.wired.com/story/pornhub-search-child-abuse-chatbot/)<!-- TECH:END -->
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
