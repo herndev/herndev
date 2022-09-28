@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men... uh... bad](http://9gag.com/gag/a5XdD5r)
- - ⏩ [Baltic Pipe is opening today](http://9gag.com/gag/ajVrRZg)
- - 👉 [That\u2019s not what\u2026.](http://9gag.com/gag/ay25AeV)<!-- MEMES:END -->
+ - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - ⏩ [Deadpool an Wolvi](http://9gag.com/gag/a3ZYe4N)
+ - 👉 [Ohh](http://9gag.com/gag/aOxqnZ2)<!-- MEMES:END -->
 
 ---
 
