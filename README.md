@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fast Company Hacked to Send Obscene Push Alert on Apple News     - CNET](https://www.cnet.com/tech/services-and-software/fast-company-hacked-to-send-obscene-push-alert-on-apple-news/#ftag=CAD590a51e)
  - [The US SEC and CFTC fine 16 financial firms $1.1B and $710M in penalties, respectively, for failing to monitor employees using unauthorized messaging apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p37#a220927p37)
- - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)
- - [Sources: Apple tells suppliers to pull back from efforts to increase supply of iPhone 14 models by ~6M units in H2 2022, aiming for 90M units, on par with 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p35#a220927p35)<!-- TECH:END -->
+ - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
