@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
- - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)
- - [Aero GPX is F-Zero with the rage throttle set to 2,000 kmph](https://www.pcgamer.com/aero-gpx-is-f-zero-with-the-rage-throttle-set-to-2000-kmph)<!-- GAME:END -->
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
+ - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
