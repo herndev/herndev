@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Sep. 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
- - [Sources: FTX is in the process of raising $1B as Sam Bankman-Fried considers bidding for bankrupt lender Celsius Network&#39;s assets &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220928/p13#a220928p13)
- - [Here’s when your Nothing Phone 1 will get the first taste of Android 13](https://www.androidauthority.com/nothing-phone-1-android-13-3213990/)<!-- TECH:END -->
+ - [Amazon is about to announce a bunch of new products](https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo)
+ - [Instagram test feature lets you post text statuses for your followers](https://www.theverge.com/2022/9/28/23376406/instagram-notes-feature-messages-status)
+ - [Tim Cook takes European tour, visits &#39;Ted Lasso&#39; football ground](https://appleinsider.com/articles/22/09/28/tim-cook-takes-european-tour-visits-ted-lasso-football-ground?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
