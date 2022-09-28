@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
- - ⏩ [Surprise parties in the hood](http://9gag.com/gag/aL1Kro5)
- - 👉 [Always look on the bright side of life](http://9gag.com/gag/a1PA2Kv)<!-- MEMES:END -->
+ - 💣 [All yours babe](http://9gag.com/gag/aA0YqAR)
+ - ⏩ [Lazy Writing, Lazy everything](http://9gag.com/gag/aREQN2B)
+ - 👉 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
 
 ---
 
