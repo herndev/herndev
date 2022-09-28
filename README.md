@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The BF is just jealous... oh wait](http://9gag.com/gag/aGE9v9X)
+ - 💣 [One of more recent Windows updates added Microsoft Edge to startup, and it&#39;s running in background when not open, if you&#39;re not using ME you might want to disable this.](http://9gag.com/gag/aeQNzoj)
  - ⏩ [Easy money](http://9gag.com/gag/a2KNgv9)
- - 👉 [Women..](http://9gag.com/gag/aOxqA1E)<!-- MEMES:END -->
+ - 👉 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is an EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the elite who suffers from the consequences of their actions.](http://9gag.com/gag/amAXQv6)<!-- MEMES:END -->
 
 ---
 
