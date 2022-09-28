@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A neurotech company wants to use eye tracking to prevent injuries](https://www.theverge.com/2022/9/28/23376623/brain-eye-tracking-injury-athletes-vr-neurosync)
- - [Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day](https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions)
- - [&#39;Tap to Pay on iPhone&#39; feature officially available for Square merchants](https://appleinsider.com/articles/22/09/28/tap-to-pay-on-iphone-feature-officially-available-for-square-merchants?utm_medium=rss)<!-- TECH:END -->
+ - [CNN lays off audio staffers as it shifts podcast strategy](https://www.theverge.com/2022/9/28/23376948/cnn-podcasts-lay-offs-spotify-iheart-adl-netflix)
+ - [Alexa is getting some much-needed smart home upgrades](https://www.theverge.com/2022/9/28/23376764/amazon-alexa-smart-home-upgrades-routines-hunches-scheduling)
+ - [Theft of 2000 pieces of Apple gear leads to 4 years in prison](https://appleinsider.com/articles/22/09/28/theft-of-2000-pieces-of-apple-gear-leads-to-4-years-in-prison?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
