@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favourite QD-OLED monitor gets a $200 cheaper FreeSync variant](https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant)
  - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
- - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)
- - [Suspected GTA 6 Leaker Pleads Not Guilty On Hacking Charges [Update]](https://kotaku.com/gta-6-vi-hack-leaker-arrested-teenager-london-laspsus-1849573250)<!-- GAME:END -->
+ - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
