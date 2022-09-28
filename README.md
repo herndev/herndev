@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to farm seaweed in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-seaweed)
- - [How to get clay in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-clay)
- - [Netflix’s adaptation of My Father’s Dragon looks gorgeous in first trailer](https://www.polygon.com/23376426/netflix-my-fathers-dragon-cartoon-saloon-trailer-release-date)<!-- GAME:END -->
+ - [Dark Pictures: Man of Medan gets surprise new chapter in update](https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update)
+ - [This space MMO looks like Halo and Starfield had a beautiful baby](https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby)
+ - [Pokémon Scarlet and Violet adds a weird new Diglett called Wiglett](https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
