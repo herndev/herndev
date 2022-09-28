@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S23 series could launch sooner than expected](https://www.androidauthority.com/samsung-galaxy-s23-series-launch-soon-3213975/)
- - [Apple now looks to be scaling back production of iPhone 14 range](https://appleinsider.com/articles/22/09/28/apple-now-looks-to-be-scaling-back-production-of-iphone-14-range?utm_medium=rss)
- - [Luxury auction house Christie&#39;s launches Christie&#39;s 3.0, an Ethereum-based platform for NFT art in partnership with Chainalysis, Manifold, and Spatial &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/220928/p8#a220928p8)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Sep. 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
+ - [Sources: FTX is in the process of raising $1B as Sam Bankman-Fried considers bidding for bankrupt lender Celsius Network&#39;s assets &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/220928/p13#a220928p13)
+ - [Here’s when your Nothing Phone 1 will get the first taste of Android 13](https://www.androidauthority.com/nothing-phone-1-android-13-3213990/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
