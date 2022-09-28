@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)
- - ⏩ [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
- - 👉 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)<!-- MEMES:END -->
+ - 💣 [The serial killerist of all serial killers](http://9gag.com/gag/aA0YOw2)
+ - ⏩ [100% cotton](http://9gag.com/gag/ajVrB5x)
+ - 👉 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
 
 ---
 
