@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast Company Hacked to Send Obscene Push Alert on Apple News     - CNET](https://www.cnet.com/tech/services-and-software/fast-company-hacked-to-send-obscene-push-alert-on-apple-news/#ftag=CAD590a51e)
- - [The US SEC and CFTC fine 16 financial firms $1.1B and $710M in penalties, respectively, for failing to monitor employees using unauthorized messaging apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p37#a220927p37)
- - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)<!-- TECH:END -->
+ - [Researchers say the Lapsus$ hackers&#39; success reveals how many weaknesses in organizations weren&#39;t immediately useful to state-backed actors or cybercriminals &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220928/p1#a220928p1)
+ - [&#39;Dahmer&#39; on Netflix: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)
+ - [Best Cricut Accessories: Everything You Need to Make Something Great     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-everything-you-need-to-make-something-great/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
