@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Race to Find the Nord Stream Saboteurs](https://www.wired.com/story/nord-stream-pipeline-sabotage-explosion-russia-gas/)
- - [In 2023, Google can notify you if personal info pops up in search](https://www.theverge.com/2022/9/28/23377208/google-results-about-you-notifications-personal-info)
- - [Verizon Plus Play plus NFL Plus](https://www.theverge.com/2022/9/28/23377170/verizon-plus-play-nfl-subscriptions-management)<!-- TECH:END -->
+ - [Backyard Movie Night: What You Need for Cinema Under the Stars     - CNET](https://www.cnet.com/tech/home-entertainment/backyard-movie-night/#ftag=CAD590a51e)
+ - [Twitter Ran Ads on Profiles That Solicited Child Sexual Abuse Content     - CNET](https://www.cnet.com/news/social-media/twitter-ran-ads-on-profiles-that-solicited-child-sexual-abuse-content/#ftag=CAD590a51e)
+ - [Over 70 of the best desktop computer deals](https://www.androidauthority.com/best-desktop-computer-deals-1115949/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
