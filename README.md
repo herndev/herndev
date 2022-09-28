@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All yours babe](http://9gag.com/gag/aA0YqAR)
- - ⏩ [Lazy Writing, Lazy everything](http://9gag.com/gag/aREQN2B)
- - 👉 [This type of incredibly disrespectful and inconsiderate behavior...](http://9gag.com/gag/a9qdDVm)<!-- MEMES:END -->
+ - 💣 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
+ - ⏩ [Leaving your car on unattended in a gas station](http://9gag.com/gag/aKEzLZW)
+ - 👉 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)<!-- MEMES:END -->
 
 ---
 
