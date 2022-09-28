@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Like Next-Gen Monster Hunter, Except EA Is Making It](https://kotaku.com/koei-tecmo-ea-toukiden-monster-hunter-wild-hearts-1849593724)
- - [Power washing your GPU seems like a terrible idea](https://www.pcgamer.com/power-washing-your-gpu-seems-like-a-terrible-idea)
- - [The Era Of $70 Games Truly Begins This Fall](https://kotaku.com/70-dollar-games-60-ubisoft-ea-gotham-knights-ps5-xbox-1849593604)<!-- GAME:END -->
+ - [&#39;Hey everyone,&#39; says Walmart executive to the single person in its new Roblox metaverse nightmare](https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare)
+ - [Apparently There&#39;s A Lore Reason Behind Elden Ring Runebears Being Such A Pain In The Butt](https://kotaku.com/elden-ring-runebear-dragon-hearts-talisman-youtube-1849592633)
+ - [Overwatch 2 gives Competitive mode an overhaul](https://www.polygon.com/23377527/overwatch-2-competitive-mode-changes-update-ranks-scoreboard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
