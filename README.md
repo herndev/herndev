@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is about to announce a bunch of new products](https://www.theverge.com/2022/9/28/23373549/amazon-fall-product-release-launch-event-time-echo)
- - [Instagram test feature lets you post text statuses for your followers](https://www.theverge.com/2022/9/28/23376406/instagram-notes-feature-messages-status)
- - [Tim Cook takes European tour, visits &#39;Ted Lasso&#39; football ground](https://appleinsider.com/articles/22/09/28/tim-cook-takes-european-tour-visits-ted-lasso-football-ground?utm_medium=rss)<!-- TECH:END -->
+ - [All the news from Amazon’s September 2022 product launch event](https://www.theverge.com/2022/9/28/23373604/amazon-fall-event-news-products-announcements)
+ - [The best iPhone 14 Pro &amp; iPhone 14 Pro Max cases](https://appleinsider.com/inside/iphone-14-pro/best/the-best-iphone-14-pro-iphone-14-pro-max-cases?utm_medium=rss)
+ - [Coalesce, which helps model, clean, and govern data in Snowflake&#39;s cloud, raised a $26M Series A led by Emergence Capital, bringing its total funding to ~$32M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220928/p16#a220928p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
