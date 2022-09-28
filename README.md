@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fast Company&#39;s Apple News hacked to send offensive push notifications](https://appleinsider.com/articles/22/09/28/fast-companys-apple-news-hacked-to-send-offensive-push-notifications?utm_medium=rss)
- - [Fast Company took down its website Tuesday after its Apple News account was hacked to send an obscene push notification; Apple News has disabled its channel &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/220927/p34#a220927p34)
- - [Fast Company’s Apple News access hijacked to send an obscene push notification](https://www.theverge.com/2022/9/27/23375939/fast-company-apple-news-notification-hack)<!-- TECH:END -->
+ - [The US SEC and CFTC fine 16 financial firms $1.1B and $710M in penalties, respectively, for failing to monitor employees using unauthorized messaging apps &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p37#a220927p37)
+ - [Netflix&#39;s password sharing crackdown sparked protests on social media in Argentina, but a source says the anger didn&#39;t translate into a mass subscriber exodus &lpar;Rest of World&rpar;](http://www.techmeme.com/220927/p36#a220927p36)
+ - [Sources: Apple tells suppliers to pull back from efforts to increase supply of iPhone 14 models by ~6M units in H2 2022, aiming for 90M units, on par with 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220927/p35#a220927p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
