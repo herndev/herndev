@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe&#39;s Scott Belsky says the company plans to integrate Figma without changing its pricing or UI, add support for other Adobe tools, and more &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/220928/p23#a220928p23)
- - [Web apps on Windows are getting closer to their native counterparts](https://www.theverge.com/2022/9/28/23376521/windows-web-apps-pwas-title-bar-controls-overlay)
- - [OpenAI plans to remove the waitlist for DALL-E today, giving anyone immediate access; Sam Altman says a public release is an essential step for safe development &lpar;Nitasha Tiku/Washington Post&rpar;](http://www.techmeme.com/220928/p22#a220928p22)<!-- TECH:END -->
+ - [A neurotech company wants to use eye tracking to prevent injuries](https://www.theverge.com/2022/9/28/23376623/brain-eye-tracking-injury-athletes-vr-neurosync)
+ - [Elon Musk’s robot is going to have to work hard to impress at Tesla’s AI Day](https://www.theverge.com/2022/9/28/23376456/elon-musk-tesla-bot-ai-day-event-optimus-prototype-predictions)
+ - [&#39;Tap to Pay on iPhone&#39; feature officially available for Square merchants](https://appleinsider.com/articles/22/09/28/tap-to-pay-on-iphone-feature-officially-available-for-square-merchants?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
