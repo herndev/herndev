@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dark Pictures: Man of Medan gets surprise new chapter in update](https://www.polygon.com/23376587/dark-pictures-man-of-medan-ps5-xbox-series-x-free-chapter-little-hope-update)
- - [This space MMO looks like Halo and Starfield had a beautiful baby](https://www.pcgamer.com/this-space-mmo-looks-like-halo-and-starfield-had-a-beautiful-baby)
- - [Pokémon Scarlet and Violet adds a weird new Diglett called Wiglett](https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett)<!-- GAME:END -->
+ - [How to clean your mouse pad without destroying it](https://www.pcgamer.com/how-to-clean-your-mouse-pad)
+ - [EA and Dynasty Warriors devs reveal their take on Monster Hunter](https://www.polygon.com/23376642/wild-hearts-release-date-trailer-announcement-ea-koei-tecmo-omega-force)
+ - [Intel XeSS upscaling looks as good as DLSS in Tomb Raider and is almost as quick](https://www.pcgamer.com/Intel-intel-xess-shadow-of-the-tomb-raider)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
