@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Stars launches in Asia today, with additional markets coming soon](https://blog.playstation.com/2022/09/28/playstation-stars-launches-in-asia-today-with-additional-markets-coming-soon/)
- - [Let’s Get Ready for Overwatch 2](https://news.xbox.com/en-us/2022/09/28/lets-get-ready-for-overwatch-2/)
- - [14 Shooters To Play While Waiting On Call Of Duty: Modern Warfare 2](https://kotaku.com/cod-modern-warfare-2-infinity-ward-apex-legends-1849592841)<!-- GAME:END -->
+ - [It&#39;s Like Next-Gen Monster Hunter, Except EA Is Making It](https://kotaku.com/koei-tecmo-ea-toukiden-monster-hunter-wild-hearts-1849593724)
+ - [Power washing your GPU seems like a terrible idea](https://www.pcgamer.com/power-washing-your-gpu-seems-like-a-terrible-idea)
+ - [The Era Of $70 Games Truly Begins This Fall](https://kotaku.com/70-dollar-games-60-ubisoft-ea-gotham-knights-ps5-xbox-1849593604)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
