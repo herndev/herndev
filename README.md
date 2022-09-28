@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 466 answer and hint: Wednesday, September 28](https://www.pcgamer.com/todays-wordle-466-answer-hint)
  - [Nvidia clears up concerns regarding power supplies and next gen GPUs](https://www.pcgamer.com/nvidia-clears-up-concerns-regarding-power-supplies-and-next-gen-gpus)
- - [Our favourite QD-OLED monitor gets a $200 cheaper FreeSync variant](https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant)
- - [Planet of the Discounts promotion comes to PlayStation Store](https://blog.playstation.com/2022/09/27/planet-of-the-discounts-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
+ - [Our favourite QD-OLED monitor gets a $200 cheaper FreeSync variant](https://www.pcgamer.com/our-favourite-qd-oled-monitor-gets-a-dollar200-cheaper-freesync-variant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
