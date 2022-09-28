@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sources: Ubisoft’s Big 2022 Pirate Blockbuster Delayed Yet Again](https://kotaku.com/skull-bones-assassin-s-creed-delayed-release-date-1849588507)
- - [PlayStation Plus offers Injustice 2, Hot Wheels Unleashed for October](https://www.polygon.com/23372870/playstation-plus-october-2022-games-essentials-ps4-ps5)
- - [Street Fighter 6: Everything we know](https://www.pcgamer.com/street-fighter-6-everything-we-know)<!-- GAME:END -->
+ - [D&amp;D’s newest push is into classrooms around the world](https://www.polygon.com/23374804/dnd-after-school-curriculum-teachers-students-free-content-adventures-k-12)
+ - [These stunning Lego minifig photos are a fantasy genre all their own](https://www.polygon.com/23375217/lego-photos-minifig-book-fantasy)
+ - [I can&#39;t believe I&#39;m saying this but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-but-skull-and-bones-is-delayed-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
