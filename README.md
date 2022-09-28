@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name that movie](http://9gag.com/gag/avQ09Gn)
- - ⏩ [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)
- - 👉 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)<!-- MEMES:END -->
+ - 💣 [We were all too young to realize](http://9gag.com/gag/aVbOVpw)
+ - ⏩ [Surprise parties in the hood](http://9gag.com/gag/aL1Kro5)
+ - 👉 [Always look on the bright side of life](http://9gag.com/gag/a1PA2Kv)<!-- MEMES:END -->
 
 ---
 
