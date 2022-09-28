@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looper’s experimental soundtrack slapped then, and slaps even harder now](https://www.polygon.com/23374795/looper-composer-score-soundtrack-interview)
- - [Trombone Champ is even better with a real trombone controller](https://www.polygon.com/23377025/trombone-champ-rudeism-controller-twitch-video)
- - [Far Cry 6 May Be Getting A GOTY Edition Despite Getting Almost No Awards](https://kotaku.com/far-cry-6-goty-game-of-the-year-leak-ubisoft-open-world-1849591625)<!-- GAME:END -->
+ - [Best power supply for PC gaming](https://www.pcgamer.com/best-power-supply-unit-for-pc-gaming-our-top-psu-for-pc)
+ - [Activision QA worker warns OSHA about the devastating impact of crunch](https://www.polygon.com/23377128/activision-qa-workers-voice-summit-osha-doj)
+ - [The Jackbox Party Pack 9 adds Fibbage 4 and more on Oct. 20](https://www.polygon.com/23377100/jackbox-party-pack-9-fibbage-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
