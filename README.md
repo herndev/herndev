@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Republican infighting threatens tech antitrust vote](https://www.theverge.com/2022/9/28/23377108/republican-infighting-threatens-tech-antitrust-vote)
- - [Apple Car team reforming before end of 2022 says Ming-Chi Kuo](https://appleinsider.com/articles/22/09/28/apple-car-team-reforming-before-end-of-2022-says-ming-chi-kuo?utm_medium=rss)
- - [Google says its multisearch tool, which lets users search using both images and text, will expand to more than 70 languages in the next few months &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/220928/p33#a220928p33)<!-- TECH:END -->
+ - [Google unveils search results with a &quot;Discussions and forums&quot; section, rolling out on mobile in the US, and with machine-translated news coverage, in early 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220928/p35#a220928p35)
+ - [Amazon reveals new Echo Dot, Kindle Scribe tablet &amp; more](https://appleinsider.com/articles/22/09/28/amazon-reveals-new-echo-dot-kindle-scribe-tablet-more?utm_medium=rss)
+ - [An all-electric passenger plane completed its first test flight](https://www.theverge.com/2022/9/28/23377053/all-electric-passenger-plane-prototype-first-flight-washington)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
