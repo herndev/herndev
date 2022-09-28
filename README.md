@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of more recent Windows updates added Microsoft Edge to startup, and it&#39;s running in background when not open, if you&#39;re not using ME you might want to disable this.](http://9gag.com/gag/aeQNzoj)
- - ⏩ [Easy money](http://9gag.com/gag/a2KNgv9)
- - 👉 [A poor Greek shepherd had his living destroyed by Middle Eastern migrants who stole his sheeps. The woman in the end is an EU commissioner who tells us to `dedramatize` EU&#39;s migrant policies. It&#39;s never the elite who suffers from the consequences of their actions.](http://9gag.com/gag/amAXQv6)<!-- MEMES:END -->
+ - 💣 [WHY!?](http://9gag.com/gag/aeQNqwm)
+ - ⏩ [Paddle faster!!!!](http://9gag.com/gag/aeQNy3m)
+ - 👉 [I hope they&#39;re safe](http://9gag.com/gag/amAXpdo)<!-- MEMES:END -->
 
 ---
 
