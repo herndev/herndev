@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
- - ⏩ [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
- - 👉 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)<!-- MEMES:END -->
+ - 💣 [Ohh](http://9gag.com/gag/aOxqnZ2)
+ - ⏩ [Iran&#39;s soccer team has covered the emblem of the Islamic Republic during the national anthem in protest of the government and its lethal treatment of women. This could result in the execution of the players upon returning to Iran.](http://9gag.com/gag/a049z9q)
+ - 👉 [How dare he!](http://9gag.com/gag/aPgvnjn)<!-- MEMES:END -->
 
 ---
 
