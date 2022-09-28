@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to clean your mouse pad without destroying it](https://www.pcgamer.com/how-to-clean-your-mouse-pad)
- - [EA and Dynasty Warriors devs reveal their take on Monster Hunter](https://www.polygon.com/23376642/wild-hearts-release-date-trailer-announcement-ea-koei-tecmo-omega-force)
- - [Intel XeSS upscaling looks as good as DLSS in Tomb Raider and is almost as quick](https://www.pcgamer.com/Intel-intel-xess-shadow-of-the-tomb-raider)<!-- GAME:END -->
+ - [Sources: Ubisoft’s Big 2022 Pirate Blockbuster Delayed Yet Again](https://kotaku.com/skull-bones-assassin-s-creed-delayed-release-date-1849588507)
+ - [PlayStation Plus offers Injustice 2, Hot Wheels Unleashed for October](https://www.polygon.com/23372870/playstation-plus-october-2022-games-essentials-ps4-ps5)
+ - [Street Fighter 6: Everything we know](https://www.pcgamer.com/street-fighter-6-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
