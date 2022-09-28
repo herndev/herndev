@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers say the Lapsus$ hackers&#39; success reveals how many weaknesses in organizations weren&#39;t immediately useful to state-backed actors or cybercriminals &lpar;Lily Hay Newman/Wired&rpar;](http://www.techmeme.com/220928/p1#a220928p1)
- - [&#39;Dahmer&#39; on Netflix: Everything to Know About the Controversial Series     - CNET](https://www.cnet.com/culture/entertainment/dahmer-on-netflix-everything-to-know-about-the-controversial-series/#ftag=CAD590a51e)
- - [Best Cricut Accessories: Everything You Need to Make Something Great     - CNET](https://www.cnet.com/tech/computing/best-cricut-accessories-everything-you-need-to-make-something-great/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [China has let dating apps flourish amid its crackdown on tech; data.ai: the number of dating apps with 1K+ downloads is up from 81 in 2017 to 275 in 2022 &lpar;New York Times&rpar;](http://www.techmeme.com/220928/p2#a220928p2)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Sep 28&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)
+ - [This Chatbot Aims to Steer People Away From Child Abuse Material](https://www.wired.com/story/pornhub-search-child-abuse-chatbot/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
