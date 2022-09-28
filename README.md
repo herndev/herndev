@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The serial killerist of all serial killers](http://9gag.com/gag/aA0YOw2)
- - ⏩ [100% cotton](http://9gag.com/gag/ajVrB5x)
- - 👉 [Autobahn at 18:00](http://9gag.com/gag/avQ0vxn)<!-- MEMES:END -->
+ - 💣 [They didn&#39;t see it](http://9gag.com/gag/aDY0Pw9)
+ - ⏩ [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
+ - 👉 [Kids, that&#39;s how I met your mother!](http://9gag.com/gag/a2KNLOp)<!-- MEMES:END -->
 
 ---
 
