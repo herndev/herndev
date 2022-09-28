@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google unveils search results with a &quot;Discussions and forums&quot; section, rolling out on mobile in the US, and with machine-translated news coverage, in early 2023 &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/220928/p35#a220928p35)
- - [Amazon reveals new Echo Dot, Kindle Scribe tablet &amp; more](https://appleinsider.com/articles/22/09/28/amazon-reveals-new-echo-dot-kindle-scribe-tablet-more?utm_medium=rss)
- - [An all-electric passenger plane completed its first test flight](https://www.theverge.com/2022/9/28/23377053/all-electric-passenger-plane-prototype-first-flight-washington)<!-- TECH:END -->
+ - [The Race to Find the Nord Stream Saboteurs](https://www.wired.com/story/nord-stream-pipeline-sabotage-explosion-russia-gas/)
+ - [In 2023, Google can notify you if personal info pops up in search](https://www.theverge.com/2022/9/28/23377208/google-results-about-you-notifications-personal-info)
+ - [Verizon Plus Play plus NFL Plus](https://www.theverge.com/2022/9/28/23377170/verizon-plus-play-nfl-subscriptions-management)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
