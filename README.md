@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: Elon Musk&#39;s deposition by Twitter&#39;s lawyers has been rescheduled to October 6 and 7 &lpar;The Guardian&rpar;](http://www.techmeme.com/220927/p31#a220927p31)
- - [Intel wants to help make Windows play friendly with both Android and iOS](https://www.androidauthority.com/intel-unison-windows-3213822/)
- - [Tumblr probably won’t drop its porn ban, but it might be about to loosen it](https://www.theverge.com/2022/9/27/23374892/tumblr-automattic-porn-ban-adult-content-policy-potential-change-community-labels-tagging)<!-- TECH:END -->
+ - [VK, which owns Mail.ru and Russia&#39;s largest social network VKontakte, says Apple has removed its apps from the App Store &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220927/p33#a220927p33)
+ - [Apple removes Russia’s largest social network from the App Store](https://www.theverge.com/2022/9/27/23375831/vk-russia-apple-app-store-removed-social-media)
+ - [A look at tappable podcast ads in mobile games, which trigger episode downloads; source: iHeartMedia got ~6M unique listeners/month through such ads since 2018 &lpar;Ashley Carman/Bloomberg&rpar;](http://www.techmeme.com/220927/p32#a220927p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
