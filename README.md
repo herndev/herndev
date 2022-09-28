@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
- - ⏩ [Deadpool an Wolvi](http://9gag.com/gag/a3ZYe4N)
- - 👉 [Ohh](http://9gag.com/gag/aOxqnZ2)<!-- MEMES:END -->
+ - 💣 [The BF is just jealous... oh wait](http://9gag.com/gag/aGE9v9X)
+ - ⏩ [Easy money](http://9gag.com/gag/a2KNgv9)
+ - 👉 [Women..](http://9gag.com/gag/aOxqA1E)<!-- MEMES:END -->
 
 ---
 
