@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Weird](http://9gag.com/gag/aQEqjew)
- - ⏩ [Hmmmm](http://9gag.com/gag/aEqwjGe)
- - 👉 [Today students of medical science university in Shiraz, men chant: woman, life freedom, women chant: man homeland prosperity. The first real movement for equality is rising from the heart of the middle east!](http://9gag.com/gag/aYVb0ym)<!-- MEMES:END -->
+ - 💣 [Are they now they/them?](http://9gag.com/gag/anzYGEo)
+ - ⏩ [This girl is on fire](http://9gag.com/gag/aVbOdpP)
+ - 👉 [Please don&#39;t ask why there is a tiny hole in the middle of my soap bar](http://9gag.com/gag/a049W5X)<!-- MEMES:END -->
 
 ---
 
