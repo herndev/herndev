@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My home town today](http://9gag.com/gag/aREQ9M7)
- - ⏩ [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
- - 👉 [Is this normal or miscommunication](http://9gag.com/gag/aQEqVq2)<!-- MEMES:END -->
+ - 💣 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
+ - ⏩ [Weird](http://9gag.com/gag/aQEqjew)
+ - 👉 [My home town today](http://9gag.com/gag/aREQ9M7)<!-- MEMES:END -->
 
 ---
 
