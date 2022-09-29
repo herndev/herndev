@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sackboy: A Big Adventure is coming to PC on October 27](https://blog.playstation.com/2022/09/29/sackboy-a-big-adventure-is-coming-to-pc-on-october-27/)
- - [Microsoft Flight Simulator Releases World Update XI: Canada](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-releases-world-update-xi-canada/)
- - [Disney Dreamlight Valley lets you be kinda mean to your childhood heroes](https://www.polygon.com/23378484/disney-dreamlight-valley-mean-voice-lines-goofy)<!-- GAME:END -->
+ - [Microsoft Flight Simulator Introduces Local Legend VII, the Cessna 195 Businessliner](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-introduces-local-legend-vii-the-cessna-195-businessliner/)
+ - [PlayStation Could Reward Big Spenders With Better Customer Support](https://kotaku.com/playstation-stars-loyalty-program-customer-support-sony-1849596608)
+ - [God of War’s impressive camera trick inspired the Dead Space remake](https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
