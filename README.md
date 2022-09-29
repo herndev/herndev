@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
- - ⏩ [Best disney princess ever](http://9gag.com/gag/amAXKqX)
- - 👉 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)<!-- MEMES:END -->
+ - 💣 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
+ - ⏩ [RIP](http://9gag.com/gag/aoKzX42)
+ - 👉 [Stapling leaves to trees in China to make the city look `greener`](http://9gag.com/gag/aGE9Xe0)<!-- MEMES:END -->
 
 ---
 
