@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)
- - ⏩ [Weird](http://9gag.com/gag/aQEqjew)
- - 👉 [My home town today](http://9gag.com/gag/aREQ9M7)<!-- MEMES:END -->
+ - 💣 [Cant stop watching](http://9gag.com/gag/aNweNQ3)
+ - ⏩ [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
+ - 👉 [The BF is just jealous... oh wait](http://9gag.com/gag/aGE9v9X)<!-- MEMES:END -->
 
 ---
 
