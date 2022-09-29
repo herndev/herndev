@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)
- - [YouTube plans to show &quot;Personal Stories&quot;, videos of people diagnosed with certain disorders, in US search results for health-related queries starting this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220929/p23#a220929p23)
- - [The Era of Fast, Cheap Genome Sequencing Is Here](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)<!-- TECH:END -->
+ - [VMware and Google&#39;s Mandiant say a sophisticated hacker group has been installing backdoors in VMware&#39;s virtualization software on multiple targets&#39; networks &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/220929/p24#a220929p24)
+ - [How to create image cutouts in iOS 16](https://www.theverge.com/23377395/image-cutout-how-to-people-pets-ios-16-iphone)
+ - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
