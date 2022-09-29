@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Check out these trombone controller mods to make you the real Trombone Champ](https://www.pcgamer.com/check-out-these-trombone-controller-mods-to-make-you-the-real-trombone-champ)
  - [&#39;Hey everyone,&#39; says Walmart executive to the single person in its new Roblox metaverse nightmare](https://www.pcgamer.com/hey-everyone-says-walmart-executive-to-the-single-person-in-its-new-roblox-metaverse-nightmare)
- - [Apparently There&#39;s A Lore Reason Behind Elden Ring Runebears Being Such A Pain In The Butt](https://kotaku.com/elden-ring-runebear-dragon-hearts-talisman-youtube-1849592633)
- - [Overwatch 2 gives Competitive mode an overhaul](https://www.polygon.com/23377527/overwatch-2-competitive-mode-changes-update-ranks-scoreboard)<!-- GAME:END -->
+ - [Apparently There&#39;s A Lore Reason Behind Elden Ring Runebears Being Such A Pain In The Butt](https://kotaku.com/elden-ring-runebear-dragon-hearts-talisman-youtube-1849592633)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
