@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Amnesty International: Meta&#39;s algorithms &quot;proactively amplified and promoted content&quot; on Facebook that incited violent hatred against the Rohingya in Myanmar &lpar;Barbara Ortutay/Associated Press&rpar;](http://www.techmeme.com/220929/p3#a220929p3)
  - [Amazon increases its average starting pay for front-line US staff to $19+/hour, up from $18/hour; warehouse and delivery workers will earn $16/hour to $26/hour &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/220929/p2#a220929p2)
- - [Best Credit Cards for Good Credit Scores for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)
- - [Why You Need to Watch This Slick Sci-Fi Gem on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/why-you-need-to-watch-this-slick-sci-fi-gem-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Credit Cards for Good Credit Scores for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-for-good-credit/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
