@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eero’s best mesh Wi-Fi routers are back down to their lowest prices](https://www.theverge.com/2022/9/29/23378327/eero-pro-6e-6-mesh-wifi-amazon-echo-studio-sub-demons-souls-ps5-apple-ipad-deal-sale)
- - [How to transfer photos from your iPhone to a Windows PC](https://www.androidauthority.com/transfer-photos-iphone-windows-3206775/)
- - [How to Make Better Coffee at Home](https://www.wired.com/story/how-to-make-better-coffee-at-home/)<!-- TECH:END -->
+ - [Bitcoin’s climate damage is similar to beef and crude oil, says new study](https://www.theverge.com/2022/9/29/23378337/bitcoin-climate-change-damages-crypto-mining)
+ - [I’m in a love-hate relationship with the iPhone 14 Pro’s always-on display](https://www.androidauthority.com/apple-iphone-14-pro-always-on-display-3212271/)
+ - [How to record audio on Windows](https://www.theverge.com/23374738/windows-11-10-pc-audio-record-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
