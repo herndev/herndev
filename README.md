@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bitcoin’s climate damage is similar to beef and crude oil, says new study](https://www.theverge.com/2022/9/29/23378337/bitcoin-climate-change-damages-crypto-mining)
- - [I’m in a love-hate relationship with the iPhone 14 Pro’s always-on display](https://www.androidauthority.com/apple-iphone-14-pro-always-on-display-3212271/)
- - [How to record audio on Windows](https://www.theverge.com/23374738/windows-11-10-pc-audio-record-how-to)<!-- TECH:END -->
+ - [Two exciting Pixel 7 features were just confirmed by the Google Play Console](https://www.androidauthority.com/google-pixel-7-face-unlock-3214841/)
+ - [A Matrix Update Will Patch Serious End-to-End Encryption Flaws](https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/)
+ - [Waymo pitted its autonomous vehicles against a virtual superhuman driver to see which was safer](https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
