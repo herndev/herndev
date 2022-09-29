@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sackboy: A Big Adventure is finally coming to PC in late October](https://www.pcgamer.com/sackboy-a-big-adventure-is-coming-to-pc-in-late-october)
- - [Today&#39;s Wordle 467 answer and hint: Thursday, September 29](https://www.pcgamer.com/todays-wordle-467-answer-hint)
- - [Intel quietly announces the Arc A310 graphics card](https://www.pcgamer.com/intel-quietly-announces-the-arc-a310-graphics-card)<!-- GAME:END -->
+ - [Andor is the angriest Star Wars has ever been](https://www.polygon.com/23377563/star-wars-andor-pissed)
+ - [World of Warcraft could be getting official controller support](https://www.pcgamer.com/world-of-warcraft-could-be-getting-official-controller-support)
+ - [The best builds for Cyno in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-cyno-build-banner)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
