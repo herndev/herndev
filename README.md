@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pornhub is testing a chatbot that redirects users searching for CSAM to a service where they can get help; the bot intervened ~174K times during the first month &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/220928/p42#a220928p42)
- - [Google Search results could actually be useful again starting today](https://www.androidauthority.com/google-search-results-3214502/)
- - [Amazon reveals new Echo Dot, Kindle Scribe tablet &amp; more](https://appleinsider.com/articles/22/09/28/amazon-reveals-new-echo-dot-kindle-scribe-tablet-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon says YES to putting the Yankees on cable](https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network)
+ - [Dbrand’s Steam Deck case is so good it almost makes you forget its big flaw](https://www.theverge.com/2022/9/28/23373094/dbrand-project-killswitch-steam-deck-case-magnet-stand)
+ - [&#39;House of the Dragon&#39;: Laena Velaryon&#39;s Shocking Decision Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
