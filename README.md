@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I play a BR game.](http://9gag.com/gag/aeQNyDW)
- - ⏩ [The future is Now old man](http://9gag.com/gag/anzYwDB)
- - 👉 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)<!-- MEMES:END -->
+ - 💣 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
+ - ⏩ [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
+ - 👉 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
 
 ---
 
