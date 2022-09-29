@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [UN1feed says Apple removed The OG App, which let users create and share Instagram feeds without ads and suggested posts, from the App Store; the app ranked #50 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220928/p47#a220928p47)
- - [The Sustainable Future of Food Must Bring Everyone to the Table](https://www.wired.com/story/rewired-2022-food-insecurity-sustainability/)
- - [Amazon encourages some customer service staff to work from home, sources say to cut real estate costs; source: Amazon plans to close multiple US call centers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220928/p46#a220928p46)<!-- TECH:END -->
+ - [OneKey, which claims only its hardware wallet has a certified secure chip and 100% open-source code, raised a ~$20M Series A led by Dragonfly and Ribbit Capital &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/220929/p1#a220929p1)
+ - [Climate Justice Is Possible—Just Look Beyond Technology](https://www.wired.com/story/rewired-2022-technology-climate-justice-community-policy/)
+ - [Automatic emergency braking is not great at preventing crashes at normal speeds](https://www.theverge.com/2022/9/29/23377376/automatic-emergency-braking-average-speed-study-aaa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
