@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Weird](http://9gag.com/gag/aQEqjew)
- - ⏩ [This poor russian mobilik has no idea he was captured. `It&#39;s the first time I see soldiers here`. -`we too, but we are banderovites &lpar;bad guys&rpar;`](http://9gag.com/gag/aqemEyv)
- - 👉 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
+ - ⏩ [Rain = Happy Doggo](http://9gag.com/gag/aKEz5rb)
+ - 👉 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)<!-- MEMES:END -->
 
 ---
 
