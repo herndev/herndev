@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
- - ⏩ [RIP](http://9gag.com/gag/aoKzX42)
- - 👉 [Stapling leaves to trees in China to make the city look `greener`](http://9gag.com/gag/aGE9Xe0)<!-- MEMES:END -->
+ - 💣 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
+ - ⏩ [My time has come](http://9gag.com/gag/aL1Ky8P)
+ - 👉 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
 
 ---
 
