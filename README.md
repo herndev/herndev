@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Even Twitter is becoming TikTok](https://www.theverge.com/2022/9/29/23378969/twitter-immersive-media-player-explore-tab-tiktok)
- - [Mark Zuckerberg tells Meta employees that the company is freezing hiring](https://www.theverge.com/2022/9/29/23378996/meta-hiring-freeze-layoffs-mark-zuckerberg-facebook)
- - [Microsoft Flight Simulator Update Gives Canada a New Look and Greater Detail     - CNET](https://www.cnet.com/tech/gaming/microsoft-flight-simulator-update-gives-canada-a-new-look-and-greater-detail/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Former eBay executives Jim Baugh and David Harville are sentenced to 57 and 24 months in prison for their roles in a 2019 cyberstalking campaign against critics &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/220929/p28#a220929p28)
+ - [Twitter plans to add a TikTok-like full-screen video scrolling UI for English-speaking users on iOS, and a video carousel to the Explore tab on iOS and Android &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220929/p27#a220929p27)
+ - [Apple VP of Procurement Tony Blevins is leaving, sources say after joking in a viral, September 5 TikTok video that he fondles &quot;big-breasted women&quot; for a living &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220929/p26#a220929p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
