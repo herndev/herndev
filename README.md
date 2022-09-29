@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet adds a weird new Diglett called Wiglett](https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett)
- - [Overwatch 2 review-in-progress](https://www.pcgamer.com/overwatch-2-review-in-progress)
- - [Scorn’s Nightmarish Hellscape Comes to Xbox Series X|S a Week Early](https://news.xbox.com/en-us/2022/09/29/scorns-nightmarish-hellscape-comes-to-xbox-series-xs-a-week-early/)<!-- GAME:END -->
+ - [New Games with Gold for October 2022](https://news.xbox.com/en-us/2022/09/29/new-games-with-gold-for-october-2022/)
+ - [Former Nintendo Worker Wants Company President To Apologize After Alleged Firing [Update]](https://kotaku.com/nintendo-switch-labor-complaint-nlrb-lawsuit-union-1849396722)
+ - [The LotR: The Rings of Power intro has some undiscovered easter eggs](https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
