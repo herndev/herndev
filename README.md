@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
- - ⏩ [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
- - 👉 [UAF when they hear new RU Recruits are on their way &lpar;Unbroken UA Morale&rpar;](http://9gag.com/gag/aPgvK5P)<!-- MEMES:END -->
+ - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - ⏩ [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
+ - 👉 [People in hell wants ice water](http://9gag.com/gag/a8qWPn1)<!-- MEMES:END -->
 
 ---
 
