@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Slime Rancher 2: Getting Creative with Your New Home on Rainbow Island](https://news.xbox.com/en-us/2022/09/29/slime-rancher-2-getting-creative-with-your-new-home-on-rainbow-island/)
- - [Timothée Chalamet is a softboy cannibal in the first trailer for Bones and All](https://www.polygon.com/23378890/timothee-chalamet-bones-and-all-trailer-release-date)
- - [29 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
+ - [Work Together to Unlock Special Rewards During Elder Scrolls Online’s Heroes of High Isle Event](https://news.xbox.com/en-us/2022/09/29/unlock-special-rewards-during-elder-scrolls-online-heroes-of-high-isle-event/)
+ - [How to get a refund for Google Stadia](https://www.polygon.com/gaming/23378769/google-stadia-refunds)
+ - [Vampire Survivors was such a big hit it&#39;s getting a whole new engine](https://www.pcgamer.com/vampire-survivors-was-such-a-big-hit-its-getting-a-whole-new-engine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
