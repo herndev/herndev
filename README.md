@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon encourages some customer service reps to work from home that sources say is meant to cut office costs; source: Amazon to close multiple US call centers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220928/p46#a220928p46)
- - [Coolio Dies Aged 59     - CNET](https://www.cnet.com/culture/entertainment/coolio-dies-aged-59/#ftag=CAD590a51e)
- - [Amazon Gives Warehouse Employees Pay Raises Across the Country     - CNET](https://www.cnet.com/tech/amazon-gives-warehouse-employees-pay-raises-across-the-country/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [UN1feed says Apple removed The OG App, which let users create and share Instagram feeds without ads and suggested posts, from the App Store; the app ranked #50 &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/220928/p47#a220928p47)
+ - [The Sustainable Future of Food Must Bring Everyone to the Table](https://www.wired.com/story/rewired-2022-food-insecurity-sustainability/)
+ - [Amazon encourages some customer service staff to work from home, sources say to cut real estate costs; source: Amazon plans to close multiple US call centers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220928/p46#a220928p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
