@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Work Together to Unlock Special Rewards During Elder Scrolls Online’s Heroes of High Isle Event](https://news.xbox.com/en-us/2022/09/29/unlock-special-rewards-during-elder-scrolls-online-heroes-of-high-isle-event/)
- - [How to get a refund for Google Stadia](https://www.polygon.com/gaming/23378769/google-stadia-refunds)
- - [Vampire Survivors was such a big hit it&#39;s getting a whole new engine](https://www.pcgamer.com/vampire-survivors-was-such-a-big-hit-its-getting-a-whole-new-engine)<!-- GAME:END -->
+ - [Get the Party Started in SongPop Party](https://news.xbox.com/en-us/2022/09/29/lets-get-the-party-started-in-songpop-party/)
+ - [Netflix&#39;s Autoplay Means You Likely Missed A Cool Cyberpunk: Edgerunners Secret](https://kotaku.com/cyberpunk-2077-edgerunners-lucy-david-tarot-card-1849598321)
+ - [PUBG creator Brendan Greene says he&#39;s &#39;considering&#39; the blockchain for his next game](https://www.pcgamer.com/pubg-creator-brendan-greene-says-hes-considering-the-blockchain-for-his-next-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
