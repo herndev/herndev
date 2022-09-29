@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two exciting Pixel 7 features were just confirmed by the Google Play Console](https://www.androidauthority.com/google-pixel-7-face-unlock-3214841/)
- - [A Matrix Update Will Patch Serious End-to-End Encryption Flaws](https://www.wired.com/story/matrix-patches-vulnerabilities-that-completely-subvert-e2ee-guarantees/)
- - [Waymo pitted its autonomous vehicles against a virtual superhuman driver to see which was safer](https://www.theverge.com/2022/9/29/23377219/waymo-av-safety-study-response-time-crash-avoidance)<!-- TECH:END -->
+ - [HyperJuice GaN chargers recalled over fire hazard](https://appleinsider.com/articles/22/09/29/hyperjuice-gan-chargers-recalled-over-fire-hazard?utm_medium=rss)
+ - [YouTube plans to show &quot;Personal Stories&quot;, videos of people diagnosed with certain disorders, in US search results for health-related queries starting this week &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/220929/p23#a220929p23)
+ - [The Era of Fast, Cheap Genome Sequencing Is Here](https://www.wired.com/story/the-era-of-fast-cheap-genome-sequencing-is-here/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
