@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
- - ⏩ [Thoughts?](http://9gag.com/gag/aoKzrPA)
- - 👉 [Russian tank out of office forever](http://9gag.com/gag/aZDP9m0)<!-- MEMES:END -->
+ - 💣 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
+ - ⏩ [Keep your head down](http://9gag.com/gag/aKEz0Mg)
+ - 👉 [Cops stopped a driver in Bucharest, tested him for drugs](http://9gag.com/gag/armpPX5)<!-- MEMES:END -->
 
 ---
 
