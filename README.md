@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ox Security, which helps companies improve software supply chain security, raised a $34M seed from Microsoft&#39;s M12 and others, and says it has 30 customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220929/p16#a220929p16)
- - [Daily deals Sept. 29: $150 off M2 MacBook Air, 27-inch 4K LG monitor for $409, 29% off 1TB G-Drive Pro SSD, more](https://appleinsider.com/articles/22/09/29/daily-deals-sept-29-150-off-m2-macbook-air-27-inch-4k-lg-monitor-for-409-29-off-1tb-g-drive-pro-ssd-more?utm_medium=rss)
- - [A smart lock with long-range wireless power is finally a reality](https://www.theverge.com/2022/9/29/23377497/alfred-ml2-smart-lock-wi-charge-wireless-power)<!-- TECH:END -->
+ - [Eero’s best mesh Wi-Fi routers are back down to their lowest prices](https://www.theverge.com/2022/9/29/23378327/eero-pro-6e-6-mesh-wifi-amazon-echo-studio-sub-demons-souls-ps5-apple-ipad-deal-sale)
+ - [How to transfer photos from your iPhone to a Windows PC](https://www.androidauthority.com/transfer-photos-iphone-windows-3206775/)
+ - [How to Make Better Coffee at Home](https://www.wired.com/story/how-to-make-better-coffee-at-home/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
