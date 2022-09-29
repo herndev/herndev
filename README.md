@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today students of medical science university in Shiraz, men chant: woman, life freedom, women chant: man homeland prosperity. The first real movement for equality is rising from the heart of the middle east!](http://9gag.com/gag/aYVb0ym)
- - ⏩ [You wanna be rich or what?](http://9gag.com/gag/ay25wVX)
- - 👉 [Vietnam veteran being told how much his Rolex watch is worth](http://9gag.com/gag/aQEqbLW)<!-- MEMES:END -->
+ - 💣 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
+ - ⏩ [10 years ago homeless gypsies were given brand new apartments in Belgrade. This is how 10y old building looks now.](http://9gag.com/gag/agoyD6x)
+ - 👉 [Russian way of counting the voting of the referendum in Ukraine. You can\u2019t make this shit up.](http://9gag.com/gag/anzYWwq)<!-- MEMES:END -->
 
 ---
 
