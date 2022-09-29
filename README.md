@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch female health tracking: Everything you need to know](https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/)
- - [An investigation shows how self-publishing platform Wattpad&#39;s lack of moderation, age verification, and safety features helps sexual predators exploit teens &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220929/p30#a220929p30)
- - [Google Pixel 7 event: What to expect](https://www.androidauthority.com/google-pixel-7-event-3214761/)<!-- TECH:END -->
+ - [12 Best National Coffee Day Deals on Beans and Espresso Machines](https://www.wired.com/story/national-international-coffee-day-deals-2022/)
+ - [Eufy’s impressive new smart cameras use AI to identify you and your pets](https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs)
+ - [NASA is studying whether SpaceX can visit the Hubble Space Telescope](https://www.theverge.com/2022/9/29/23379304/nasa-is-studying-whether-spacex-can-visit-the-hubble-space-telescope)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
