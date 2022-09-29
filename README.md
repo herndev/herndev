@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Help I have fallen into keyboard TikTok and I can&#39;t get out](https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out)
- - [Valheim is Better with Friends – Time to Get Ready for Crossplay Viking Adventures](https://news.xbox.com/en-us/2022/09/29/valheim-is-better-with-friends-time-to-get-ready-for-crossplay-viking-adventures/)
- - [Intel has fixed &#39;the majority of the software stack issues&#39; for its gaming GPUs says CEO Gelsinger](https://www.pcgamer.com/intel-has-fixed-the-majority-of-the-software-stack-issues-for-its-gaming-gpus-says-ceo-gelsinger)<!-- GAME:END -->
+ - [Slime Rancher 2: Getting Creative with Your New Home on Rainbow Island](https://news.xbox.com/en-us/2022/09/29/slime-rancher-2-getting-creative-with-your-new-home-on-rainbow-island/)
+ - [Timothée Chalamet is a softboy cannibal in the first trailer for Bones and All](https://www.polygon.com/23378890/timothee-chalamet-bones-and-all-trailer-release-date)
+ - [29 great comedies you’ll find on streaming right now](https://www.polygon.com/22632484/best-comedy-movies-netflix-amazon-prime-hulu-hbo-max)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
