@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor is the angriest Star Wars has ever been](https://www.polygon.com/23377563/star-wars-andor-pissed)
- - [World of Warcraft could be getting official controller support](https://www.pcgamer.com/world-of-warcraft-could-be-getting-official-controller-support)
- - [The best builds for Cyno in Genshin Impact](https://www.pcgamer.com/best-genshin-impact-cyno-build-banner)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet adds a weird new Diglett called Wiglett](https://www.polygon.com/23376543/pokemon-scarlet-violet-paldean-diglett-wiglett)
+ - [Overwatch 2 review-in-progress](https://www.pcgamer.com/overwatch-2-review-in-progress)
+ - [Scorn’s Nightmarish Hellscape Comes to Xbox Series X|S a Week Early](https://news.xbox.com/en-us/2022/09/29/scorns-nightmarish-hellscape-comes-to-xbox-series-xs-a-week-early/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
