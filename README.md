@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US&#39; candidate to lead the UN&#39;s International Telecommunication Union, which sets global tech and telecom standards, beat Russia&#39;s by 139 to 25 votes &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/220929/p8#a220929p8)
- - [Jakarta-based Traveloka, Southeast Asia&#39;s largest online travel startup, raised $300M from BlackRock and others; Traveloka was valued at $3B in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220929/p7#a220929p7)
- - [Block&#39;s bitcoin-focused TBD subsidiary partners with Circle to build infrastructure for cross-border, dollar-linked stablecoin transfers and savings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220929/p6#a220929p6)<!-- TECH:END -->
+ - [How to use your iPhone as a remote for Apple TV in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-your-iphone-as-a-remote-for-apple-tv-in-ios-16?utm_medium=rss)
+ - [A look at Botometer, which claims to identify the likelihood that a Twitter account is a bot and has been cited by Elon Musk&#39;s lawyers in the Twitter lawsuit &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/220929/p12#a220929p12)
+ - [Best Shave Club for 2022: Dollar Shave Club, Harry&#39;s and More     - CNET](https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
