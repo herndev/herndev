@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Introduces Local Legend VII, the Cessna 195 Businessliner](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-introduces-local-legend-vii-the-cessna-195-businessliner/)
- - [PlayStation Could Reward Big Spenders With Better Customer Support](https://kotaku.com/playstation-stars-loyalty-program-customer-support-sony-1849596608)
- - [God of War’s impressive camera trick inspired the Dead Space remake](https://www.polygon.com/23378555/dead-space-remake-god-of-war-camera-content-update)<!-- GAME:END -->
+ - [Help I have fallen into keyboard TikTok and I can&#39;t get out](https://www.pcgamer.com/help-i-have-fallen-into-keyboard-tiktok-and-i-cant-get-out)
+ - [Valheim is Better with Friends – Time to Get Ready for Crossplay Viking Adventures](https://news.xbox.com/en-us/2022/09/29/valheim-is-better-with-friends-time-to-get-ready-for-crossplay-viking-adventures/)
+ - [Intel has fixed &#39;the majority of the software stack issues&#39; for its gaming GPUs says CEO Gelsinger](https://www.pcgamer.com/intel-has-fixed-the-majority-of-the-software-stack-issues-for-its-gaming-gpus-says-ceo-gelsinger)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
