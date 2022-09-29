@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New images reveal moment after DART asteroid impact captured by Italian satellite](http://9gag.com/gag/aqemBAP)
- - ⏩ [Weird](http://9gag.com/gag/aQEqjew)
- - 👉 [Curses foiled again](http://9gag.com/gag/ap9qZNW)<!-- MEMES:END -->
+ - 💣 [Weird](http://9gag.com/gag/aQEqjew)
+ - ⏩ [Hmmmm](http://9gag.com/gag/aEqwjGe)
+ - 👉 [Today students of medical science university in Shiraz, men chant: woman, life freedom, women chant: man homeland prosperity. The first real movement for equality is rising from the heart of the middle east!](http://9gag.com/gag/aYVb0ym)<!-- MEMES:END -->
 
 ---
 
