@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant stop watching](http://9gag.com/gag/aNweNQ3)
- - ⏩ [The housekeeper deserves a big up](http://9gag.com/gag/axoNxVY)
- - 👉 [Things coffee can&#39;t fix](http://9gag.com/gag/aDY0BAx)<!-- MEMES:END -->
+ - 💣 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)
+ - ⏩ [Thoughts?](http://9gag.com/gag/aoKzrPA)
+ - 👉 [Russian tank out of office forever](http://9gag.com/gag/aZDP9m0)<!-- MEMES:END -->
 
 ---
 
