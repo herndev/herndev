@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The State of the Smart Kitchen](https://www.wired.com/story/gadget-lab-podcast-568/)
- - [How to Pick the Right Roku for Your TV](https://www.wired.com/gallery/how-to-pick-the-right-roku/)
- - [Two GameStop documentaries miss the forest for the memes](https://www.theverge.com/2022/9/29/23377175/gamestop-eat-the-rich-diamond-hands-roaring-kitty-elon-musk-netflix)<!-- TECH:END -->
+ - [Ox Security, which helps companies improve software supply chain security, raised a $34M seed from Microsoft&#39;s M12 and others, and says it has 30 customers &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/220929/p16#a220929p16)
+ - [Daily deals Sept. 29: $150 off M2 MacBook Air, 27-inch 4K LG monitor for $409, 29% off 1TB G-Drive Pro SSD, more](https://appleinsider.com/articles/22/09/29/daily-deals-sept-29-150-off-m2-macbook-air-27-inch-4k-lg-monitor-for-409-29-off-1tb-g-drive-pro-ssd-more?utm_medium=rss)
+ - [A smart lock with long-range wireless power is finally a reality](https://www.theverge.com/2022/9/29/23377497/alfred-ml2-smart-lock-wi-charge-wireless-power)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
