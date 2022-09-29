@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for October 2022](https://news.xbox.com/en-us/2022/09/29/new-games-with-gold-for-october-2022/)
- - [Former Nintendo Worker Wants Company President To Apologize After Alleged Firing [Update]](https://kotaku.com/nintendo-switch-labor-complaint-nlrb-lawsuit-union-1849396722)
- - [The LotR: The Rings of Power intro has some undiscovered easter eggs](https://www.pcgamer.com/lord-of-the-rings-rings-of-power-easter-eggs)<!-- GAME:END -->
+ - [Sackboy: A Big Adventure is coming to PC on October 27](https://blog.playstation.com/2022/09/29/sackboy-a-big-adventure-is-coming-to-pc-on-october-27/)
+ - [Microsoft Flight Simulator Releases World Update XI: Canada](https://news.xbox.com/en-us/2022/09/29/microsoft-flight-simulator-releases-world-update-xi-canada/)
+ - [Disney Dreamlight Valley lets you be kinda mean to your childhood heroes](https://www.polygon.com/23378484/disney-dreamlight-valley-mean-voice-lines-goofy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
