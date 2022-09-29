@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Critically-Acclaimed CRPG Pathfinder: Wrath of the Righteous Comes to XBox Today](https://news.xbox.com/en-us/2022/09/29/critically-acclaimed-crpg-pathfinder-wrath-of-the-righteous-comes-to-xbox-today/)
- - [All The Games We Might Lose Forever When Google Stadia Dies](https://kotaku.com/google-stadia-exclusive-games-pac-man-gylt-pixeljunk-1849599091)
- - [Intel Arc A750 launches October 12, &#39;reset the market&#39; for $289](https://game-rant-2022.blogspot.com/2022/09/intel-arc-a750-launches-october-12.html)<!-- GAME:END -->
+ - [I played Overwatch 2 on a new account, and the hero grind sucks](https://www.pcgamer.com/i-played-overwatch-2-on-a-new-account-and-the-hero-grind-sucks)
+ - [$70 Version Of Skyrim Quietly Appears On Nintendo Switch](https://kotaku.com/elder-scrolls-skyrim-nintendo-switch-anniversary-1849599263)
+ - [The ancient Myst MMO is getting an brand-new age this weekend](https://www.pcgamer.com/the-ancient-myst-mmo-is-getting-an-brand-new-age-this-weekend)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
