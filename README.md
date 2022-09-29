@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise](https://www.polygon.com/23379128/kingdom-planet-apes-film-announced)
- - [Genshin Impact ‘Garden of Endless Pillars’ domain puzzle walkthrough](https://www.polygon.com/genshin-impact-guides/23379119/garden-of-endless-pillars-domain-puzzle-unlock)
- - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
+ - [Critically-Acclaimed CRPG Pathfinder: Wrath of the Righteous Comes to XBox Today](https://news.xbox.com/en-us/2022/09/29/critically-acclaimed-crpg-pathfinder-wrath-of-the-righteous-comes-to-xbox-today/)
+ - [All The Games We Might Lose Forever When Google Stadia Dies](https://kotaku.com/google-stadia-exclusive-games-pac-man-gylt-pixeljunk-1849599091)
+ - [Intel Arc A750 launches October 12, &#39;reset the market&#39; for $289](https://game-rant-2022.blogspot.com/2022/09/intel-arc-a750-launches-october-12.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
