@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
- - ⏩ [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
- - 👉 [People in hell wants ice water](http://9gag.com/gag/a8qWPn1)<!-- MEMES:END -->
+ - 💣 [Cant stop watching](http://9gag.com/gag/aNweNQ3)
+ - ⏩ [The housekeeper deserves a big up](http://9gag.com/gag/axoNxVY)
+ - 👉 [Things coffee can&#39;t fix](http://9gag.com/gag/aDY0BAx)<!-- MEMES:END -->
 
 ---
 
