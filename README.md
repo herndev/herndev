@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;ll gonna start their own call center soom](http://9gag.com/gag/aqemp7Q)
- - ⏩ [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
- - 👉 [Hmmmm](http://9gag.com/gag/a6qwex9)<!-- MEMES:END -->
+ - 💣 [New images reveal moment after DART asteroid impact captured by Italian satellite](http://9gag.com/gag/aqemBAP)
+ - ⏩ [Weird](http://9gag.com/gag/aQEqjew)
+ - 👉 [Curses foiled again](http://9gag.com/gag/ap9qZNW)<!-- MEMES:END -->
 
 ---
 
