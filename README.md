@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s RTX 3060 competitor is priced at just $289](https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date)
- - [Soon you can buy a Peloton at Dick’s](https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership)
- - [Gov. Newsom signs a law forbidding California-based businesses from providing users&#39; personal info in response to other states&#39; abortion-related search warrants &lpar;CNN&rpar;](http://www.techmeme.com/220929/p29#a220929p29)<!-- TECH:END -->
+ - [Apple Watch female health tracking: Everything you need to know](https://www.androidauthority.com/apple-watch-female-health-tracking-3213080/)
+ - [An investigation shows how self-publishing platform Wattpad&#39;s lack of moderation, age verification, and safety features helps sexual predators exploit teens &lpar;Rashi Shrivastava/Forbes&rpar;](http://www.techmeme.com/220929/p30#a220929p30)
+ - [Google Pixel 7 event: What to expect](https://www.androidauthority.com/google-pixel-7-event-3214761/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
