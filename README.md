@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google announces new features for Maps, including the ability to visually soar over some areas, added landmark views, enriched neighborhood info, and AR search &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220928/p45#a220928p45)
- - [‘We Are the Asteroid’: The Case for Hope Amid Climate Fears](https://www.wired.com/story/rewired-2022-climate-action-hope/)
- - [Terrifying Satellite Storm Footage Shows Hurricane Ian Hitting Florida     - CNET](https://www.cnet.com/science/space/terrifying-satellite-storm-footage-shows-hurricane-ian-hitting-florida/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon encourages some customer service reps to work from home that sources say is meant to cut office costs; source: Amazon to close multiple US call centers &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/220928/p46#a220928p46)
+ - [Coolio Dies Aged 59     - CNET](https://www.cnet.com/culture/entertainment/coolio-dies-aged-59/#ftag=CAD590a51e)
+ - [Amazon Gives Warehouse Employees Pay Raises Across the Country     - CNET](https://www.cnet.com/tech/amazon-gives-warehouse-employees-pay-raises-across-the-country/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
