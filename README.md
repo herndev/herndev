@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The beauty of slowmo](http://9gag.com/gag/aZDPAxz)
- - ⏩ [Fart interrupts city council meeting](http://9gag.com/gag/aME1LL1)
- - 👉 [`Not Representative `](http://9gag.com/gag/avQ03OM)<!-- MEMES:END -->
+ - 💣 [When your girlfriend come to see you play](http://9gag.com/gag/a2KNB0Y)
+ - ⏩ [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
+ - 👉 [UAF when they hear new RU Recruits are on their way &lpar;Unbroken UA Morale&rpar;](http://9gag.com/gag/aPgvK5P)<!-- MEMES:END -->
 
 ---
 
