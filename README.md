@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When i saw the original grudge movie, many years ago, the way she came down the stairs](http://9gag.com/gag/anzYodo)
- - ⏩ [My time has come](http://9gag.com/gag/aL1Ky8P)
- - 👉 [Last video found on a phone. He is celebrating his birthday &lpar;taken just before going to frontline yesterday&rpar;. Pepsied. Passport found on body - in comments.](http://9gag.com/gag/a8qWOMQ)<!-- MEMES:END -->
+ - 💣 [Good news everyone](http://9gag.com/gag/aEqwLVM)
+ - ⏩ [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - 👉 [Old gold](http://9gag.com/gag/ay25OLy)<!-- MEMES:END -->
 
 ---
 
