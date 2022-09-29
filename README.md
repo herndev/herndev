@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BMW and Amazon partner to let BMW use Alexa&#39;s technology to build its own voice assistant, coming to cars launching within the next two years &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/220929/p5#a220929p5)
- - [Meta confirms taking &quot;enforcement actions&quot; against The OG App, which offers an ad-free Instagram feed, as developers UN1feed say Apple removed the App Store app &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/220929/p4#a220929p4)
- - [Daily Authority: 📱 Galaxy S23 Ultra uncovered](https://www.androidauthority.com/daily-authority-september-29-2022-3213940/)<!-- TECH:END -->
+ - [The US&#39; candidate to lead the UN&#39;s International Telecommunication Union, which sets global tech and telecom standards, beat Russia&#39;s by 139 to 25 votes &lpar;Clothilde Goujard/Politico&rpar;](http://www.techmeme.com/220929/p8#a220929p8)
+ - [Jakarta-based Traveloka, Southeast Asia&#39;s largest online travel startup, raised $300M from BlackRock and others; Traveloka was valued at $3B in 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/220929/p7#a220929p7)
+ - [Block&#39;s bitcoin-focused TBD subsidiary partners with Circle to build infrastructure for cross-border, dollar-linked stablecoin transfers and savings &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/220929/p6#a220929p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
