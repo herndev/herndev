@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 years ago homeless gypsies were given brand new apartments in Belgrade. This is how 10y old building looks now.](http://9gag.com/gag/agoyD6x)
- - ⏩ [So who&#39;s is who??](http://9gag.com/gag/az2b0LN)
- - 👉 [Looks like the Ukrainians are doing that on purpose. It&#39;s an actual map.](http://9gag.com/gag/aOxqX3M)<!-- MEMES:END -->
+ - 💣 [Elden ring in a nutshell](http://9gag.com/gag/agoyPWr)
+ - ⏩ [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
+ - 👉 [Old gold](http://9gag.com/gag/ay25OLy)<!-- MEMES:END -->
 
 ---
 
