@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t remember you a-holes sharing those](http://9gag.com/gag/a1PA8vb)
- - ⏩ [Keep your head down](http://9gag.com/gag/aKEz0Mg)
- - 👉 [Cops stopped a driver in Bucharest, tested him for drugs](http://9gag.com/gag/armpPX5)<!-- MEMES:END -->
+ - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
+ - ⏩ [Tom Hardy taking selfies with some little fans](http://9gag.com/gag/aoKzBzx)
+ - 👉 [Imposter, Ok I pull up](http://9gag.com/gag/armpP0B)<!-- MEMES:END -->
 
 ---
 
