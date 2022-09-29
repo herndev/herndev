@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get the Party Started in SongPop Party](https://news.xbox.com/en-us/2022/09/29/lets-get-the-party-started-in-songpop-party/)
- - [Netflix&#39;s Autoplay Means You Likely Missed A Cool Cyberpunk: Edgerunners Secret](https://kotaku.com/cyberpunk-2077-edgerunners-lucy-david-tarot-card-1849598321)
- - [PUBG creator Brendan Greene says he&#39;s &#39;considering&#39; the blockchain for his next game](https://www.pcgamer.com/pubg-creator-brendan-greene-says-hes-considering-the-blockchain-for-his-next-game)<!-- GAME:END -->
+ - [Kingdom of the Planet of the Apes will continue Hollywood’s most underrated franchise](https://www.polygon.com/23379128/kingdom-planet-apes-film-announced)
+ - [Genshin Impact ‘Garden of Endless Pillars’ domain puzzle walkthrough](https://www.polygon.com/genshin-impact-guides/23379119/garden-of-endless-pillars-domain-puzzle-unlock)
+ - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
