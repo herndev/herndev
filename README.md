@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Former eBay executives Jim Baugh and David Harville are sentenced to 57 and 24 months in prison for their roles in a 2019 cyberstalking campaign against critics &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/220929/p28#a220929p28)
- - [Twitter plans to add a TikTok-like full-screen video scrolling UI for English-speaking users on iOS, and a video carousel to the Explore tab on iOS and Android &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/220929/p27#a220929p27)
- - [Apple VP of Procurement Tony Blevins is leaving, sources say after joking in a viral, September 5 TikTok video that he fondles &quot;big-breasted women&quot; for a living &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/220929/p26#a220929p26)<!-- TECH:END -->
+ - [Intel’s RTX 3060 competitor is priced at just $289](https://www.theverge.com/2022/9/29/23378188/intel-arc-a750-price-release-date)
+ - [Soon you can buy a Peloton at Dick’s](https://www.theverge.com/2022/9/29/23378882/peloton-dicks-sporting-goods-partnership)
+ - [Gov. Newsom signs a law forbidding California-based businesses from providing users&#39; personal info in response to other states&#39; abortion-related search warrants &lpar;CNN&rpar;](http://www.techmeme.com/220929/p29#a220929p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
