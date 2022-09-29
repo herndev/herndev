@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says YES to putting the Yankees on cable](https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network)
- - [Dbrand’s Steam Deck case is so good it almost makes you forget its big flaw](https://www.theverge.com/2022/9/28/23373094/dbrand-project-killswitch-steam-deck-case-magnet-stand)
- - [&#39;House of the Dragon&#39;: Laena Velaryon&#39;s Shocking Decision Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-laena-velaryons-shocking-decision-explained-hbo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google announces new features for Maps, including the ability to visually soar over some areas, added landmark views, enriched neighborhood info, and AR search &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/220928/p45#a220928p45)
+ - [‘We Are the Asteroid’: The Case for Hope Amid Climate Fears](https://www.wired.com/story/rewired-2022-climate-action-hope/)
+ - [Terrifying Satellite Storm Footage Shows Hurricane Ian Hitting Florida     - CNET](https://www.cnet.com/science/space/terrifying-satellite-storm-footage-shows-hurricane-ian-hitting-florida/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
