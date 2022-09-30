@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iron horses race towards sunrise. Continuing until the border stops us. Slava Ukraini](http://9gag.com/gag/aOxqgnr)
- - ⏩ [George Carlin 1992 - warlike people](http://9gag.com/gag/aqeZ44P)
- - 👉 [Or bedsheets](http://9gag.com/gag/aYVbzPV)<!-- MEMES:END -->
+ - 💣 [Imagine if it was what you thought it was..](http://9gag.com/gag/ajVrvGQ)
+ - ⏩ [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)
+ - 👉 [How to win at cards](http://9gag.com/gag/armpPQK)<!-- MEMES:END -->
 
 ---
 
