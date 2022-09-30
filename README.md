@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shenmue fans struck by deja vu as anime series cancelled](https://www.pcgamer.com/shenmue-fans-struck-by-deja-vu-as-anime-series-cancelled)
- - [Even Tolkien was never really sure where orcs came from](https://www.polygon.com/23379185/lord-rings-power-orcs-origin-tolkien)
- - [Rapper T-Pain takes aim at gamers who harass devs: &#39;f*cking chill out. It&#39;s a f*cking game my dude.&#39;](https://www.pcgamer.com/rapper-t-pain-takes-aim-at-gamers-who-harass-devs-fcking-chillout-its-a-fcking-game-my-dude)<!-- GAME:END -->
+ - [Guillermo del Toro’s Netflix horror anthology looks like the best of monsters and murder](https://www.polygon.com/23380563/guillermo-del-toro-cabinet-curiosities-netflix-release-date)
+ - [Overwatch 2 will require a phone number to play — even if you’ve played the original](https://www.polygon.com/guides/23380339/overwatch-2-sms-protect-phone-number-required)
+ - [All Tiny Tina&#39;s Wonderlands Shift codes and how to redeem them](https://www.pcgamer.com/tiny-tinas-wonderlands-shift-codes-skeleton-keys)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
