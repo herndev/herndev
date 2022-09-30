@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
- - ⏩ [Wait, hol up.](http://9gag.com/gag/aWG0ZG4)
- - 👉 [[ 2 hours ago ] rats fleeing Lyman, i repeat rats fleeing lyman &lpar; geolocated &rpar;](http://9gag.com/gag/aGEVV1Z)<!-- MEMES:END -->
+ - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - ⏩ [Strange phenomenon happening in Dagestan](http://9gag.com/gag/aL1QK75)
+ - 👉 [Hhahahah what a comedy show from Kremlin](http://9gag.com/gag/aoKZZVm)<!-- MEMES:END -->
 
 ---
 
