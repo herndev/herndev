@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Genshin Impact’s 2-year anniversary concert broadcast](https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu)
- - [Today&#39;s Wordle 468 answer and hint: Friday, September 30](https://www.pcgamer.com/todays-wordle-468-answer-hint)
- - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)<!-- GAME:END -->
+ - [I can&#39;t tell if open world roguelites are good because Ravenbound&#39;s combat isn&#39;t](https://www.pcgamer.com/i-cant-tell-if-open-world-roguelites-are-good-because-ravenbounds-combat-isnt)
+ - [The Rings of Power clears up Adar’s mystery, but confuses The Lord of the Rings](https://www.polygon.com/23378700/lord-rings-power-adar-tolkien-galadriel-episode-6)
+ - [Tom Nook has nothing on Scrooge McDuck, Disney Dreamlight Valley&#39;s nastiest villain](https://www.pcgamer.com/tom-nook-has-nothing-on-scrooge-mcduck-disney-dreamlight-valleys-nastiest-villain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
