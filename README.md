@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2023 Mercedes-Benz EQS SUV Is a Three-Row Electric Luxobarge     - CNET](https://www.cnet.com/roadshow/pictures/2023-mercedes-benz-eqs-suv-eqs450-eqs580/#ftag=CAD590a51e)
- - [The KitchenAid mixer has burly levers that still offer refined control](https://www.theverge.com/2022/9/30/23361232/kitchenaid-mixer-lever-rugged-fine-grain-control)
- - [&#39;The Rings of Power&#39; Episode 6 Recap: Trouble in the Southlands     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-6-trouble-in-the-southlands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 Pro camera gets workout in new &#39;Chase&#39; ad](https://appleinsider.com/articles/22/09/30/iphone-14-pro-camera-gets-workout-in-new-chase-ad?utm_medium=rss)
+ - [Filing: European Commission sets a provisional November 8 deadline to complete the review of Microsoft&#39;s proposed $69B Activision Blizzard acquisition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220930/p12#a220930p12)
+ - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
