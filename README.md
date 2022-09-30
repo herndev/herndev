@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What’s in Overwatch 2’s store and season 1 battle pass](https://www.polygon.com/23380667/overwatch-2-store-souvenirs-battle-pass-skins-unlocks-currency)
- - [Hyper Demon review](https://www.pcgamer.com/hyper-demon-review)
- - [Stadia’s death isn’t the end of cloud gaming](https://www.polygon.com/23380964/stadia-death-of-cloud-gaming-streaming)<!-- GAME:END -->
+ - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)
+ - [Destiny 2 Xur location and items, Sept. 30-Oct. 4](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/30/23381196/destiny-2-xur-location-items-sept-30-oct-4)
+ - [Former eBay exec who harassed and spied on bloggers is going to prison](https://www.pcgamer.com/former-ebay-exec-who-harassed-and-spied-on-bloggers-is-going-to-prison)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
