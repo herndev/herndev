@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stadia’s shutdown shocked developers, too](https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too)
- - [Apple adds iPhone 6 to list of vintage products](https://appleinsider.com/articles/22/09/30/apple-adds-iphone-6-to-list-of-vintage-products?utm_medium=rss)
- - [The new Windows Insider build makes it impossible to uninstall some Steam games](https://www.theverge.com/2022/9/30/23380215/windows-insider-build-uninstall-steam-bug)<!-- TECH:END -->
+ - [Twitch begins testing paid ‘Elevated Chat’ feature](https://www.theverge.com/2022/9/30/23380804/twitch-elevated-chat-feature-paid-creators)
+ - [The Challenge of Cracking Iran’s Internet Blockade](https://www.wired.com/story/subvert-iran-internet-blackout/)
+ - [Stadia’s shutdown shocked developers, too](https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
