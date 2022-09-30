@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If they could, they would](http://9gag.com/gag/aKEzrjO)
- - ⏩ [Unfortunately there\u2019s no alternative way to dispense napkins](http://9gag.com/gag/az2L7pp)
- - 👉 [Wait for it \u2026](http://9gag.com/gag/aQEp6bK)<!-- MEMES:END -->
+ - 💣 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
+ - ⏩ [Choices](http://9gag.com/gag/aVbQzv8)
+ - 👉 [Here we go again](http://9gag.com/gag/a9qMbqo)<!-- MEMES:END -->
 
 ---
 
