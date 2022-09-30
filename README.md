@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Creepshow game is coming from the team behind the Dread X Collections](https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections)
- - [Stadia game developers had no idea Google was killing Stadia](https://www.pcgamer.com/stadia-game-developers-had-no-idea-google-was-killing-stadia)
- - [In this underwater survival city builder, reboot civilization at the bottom of the ocean](https://www.pcgamer.com/in-this-underwater-survival-city-builder-reboot-civilization-at-the-bottom-of-the-ocean)<!-- GAME:END -->
+ - [This streamer is playing Jump King, except every wrong move drops him into a dunk tank](https://www.pcgamer.com/this-streamer-is-playing-jump-king-except-every-wrong-move-drops-him-into-a-dunk-tank)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [A Creepshow game is coming from the team behind the Dread X Collections](https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
