@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get the Old Lock Screen Notification View in iOS 16](https://www.wired.com/story/how-to-change-notification-view-on-iphone-ios-16/)
- - [USB kills off SuperSpeed branding as it tries to simplify its ubiquitous connector](https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed)
- - [Better late than never: Galaxy Z Fold 4 finally gets September update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)<!-- TECH:END -->
+ - [RIP Google Stadia: the latest news on the discontinued cloud gaming service](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech)
+ - [Apple Watch Ultra review: Ambitious aspirations](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-review-ambitious-aspirations?utm_medium=rss)
+ - [Apple Watch Ultra &amp; AirPods Pro 2 impress, iOS 16 bugs, Apple Store experiences](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-airpods-pro-2-impress-ios-16-bugs-apple-store-experiences?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
