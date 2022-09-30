@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
- - ⏩ [0 respect](http://9gag.com/gag/a4o994m)
- - 👉 [The real purpose of having a blender at home](http://9gag.com/gag/ago0vgv)<!-- MEMES:END -->
+ - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - ⏩ [Well, must confess, I did not see it coming...](http://9gag.com/gag/aMEbbRP)
+ - 👉 [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)<!-- MEMES:END -->
 
 ---
 
