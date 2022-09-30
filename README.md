@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Community movie is finally happening, with most of the cast on board](https://www.polygon.com/23380387/community-movie-announcement-donald-glover-peacock)
- - [Share of the Week: Robots and Machines](https://blog.playstation.com/2022/09/30/share-of-the-week-robots-and-machines/)
- - [Ni no Kuni: Wrath of the White Witch Remastered Now Available with Game Pass](https://news.xbox.com/en-us/2022/09/30/ni-no-kuni-wrath-of-the-white-witch-remastered-now-available-with-game-pass/)<!-- GAME:END -->
+ - [Shenmue fans struck by deja vu as anime series cancelled](https://www.pcgamer.com/shenmue-fans-struck-by-deja-vu-as-anime-series-cancelled)
+ - [Even Tolkien was never really sure where orcs came from](https://www.polygon.com/23379185/lord-rings-power-orcs-origin-tolkien)
+ - [Rapper T-Pain takes aim at gamers who harass devs: &#39;f*cking chill out. It&#39;s a f*cking game my dude.&#39;](https://www.pcgamer.com/rapper-t-pain-takes-aim-at-gamers-who-harass-devs-fcking-chillout-its-a-fcking-game-my-dude)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
