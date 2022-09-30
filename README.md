@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon rolls out Amazon Live, its QVC-style livestreams, in India, running ~15 per day from 10am-1am, covering electronics, fashion and beauty, and, home decor &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220930/p7#a220930p7)
- - [Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws](https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/)
- - [Sofia, the Airplane-Borne Telescope, Lands for the Last Time](https://www.wired.com/story/sofia-the-historic-airplane-borne-telescope-lands-for-the-last-time/)<!-- TECH:END -->
+ - [How to Get the Old Lock Screen Notification View in iOS 16](https://www.wired.com/story/how-to-change-notification-view-on-iphone-ios-16/)
+ - [USB kills off SuperSpeed branding as it tries to simplify its ubiquitous connector](https://www.theverge.com/2022/9/30/23378231/usb-rebranding-2022-logos-gbps-wattage-charging-transfer-speeds-simplification-usb4-superspeed)
+ - [Better late than never: Galaxy Z Fold 4 finally gets September update](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
