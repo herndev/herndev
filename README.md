@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 468 answer and hint: Friday, September 30](https://www.pcgamer.com/todays-wordle-468-answer-hint)
  - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)
- - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)
- - [10 Dark But Awesome Games Redditors Loved As Kids](https://game-rant-2022.blogspot.com/2022/09/10-dark-but-awesome-games-redditors.html)<!-- GAME:END -->
+ - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
