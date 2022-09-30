@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A week with the BTS Tamagotchi](https://www.theverge.com/23368585/bts-tamagotchi-handheld-game-hands-on)
- - [Report: Bruce Willis sold his &quot;digital twin&quot; likeness rights to Deepcake, for use in ads and possibly even movies; a Russian ad already used a Willis deepfake &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/220930/p15#a220930p15)
- - [How to watch the Billie Eilish Apple Music Live concert](https://appleinsider.com/inside/apple-music/tips/how-to-watch-the-billie-eilish-apple-music-live-concert?utm_medium=rss)<!-- TECH:END -->
+ - [Stadia’s shutdown shocked developers, too](https://www.theverge.com/2022/9/30/23381106/google-stadia-shutdown-shocked-developers-too)
+ - [Apple adds iPhone 6 to list of vintage products](https://appleinsider.com/articles/22/09/30/apple-adds-iphone-6-to-list-of-vintage-products?utm_medium=rss)
+ - [The new Windows Insider build makes it impossible to uninstall some Steam games](https://www.theverge.com/2022/9/30/23380215/windows-insider-build-uninstall-steam-bug)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
