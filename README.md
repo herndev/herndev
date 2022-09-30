@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)
- - [Destiny 2 Xur location and items, Sept. 30-Oct. 4](https://www.polygon.com/destiny-2-guide-walkthrough/2022/9/30/23381196/destiny-2-xur-location-items-sept-30-oct-4)
- - [Former eBay exec who harassed and spied on bloggers is going to prison](https://www.pcgamer.com/former-ebay-exec-who-harassed-and-spied-on-bloggers-is-going-to-prison)<!-- GAME:END -->
+ - [Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix)
+ - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)
+ - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
