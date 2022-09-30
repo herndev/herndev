@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Does Netflix regret Blonde’s NC-17 rating or the whole movie?](https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis)
- - [All Hallows’: The Land of Lost Dreams is calling…](https://blog.playstation.com/2022/09/30/all-hallows-the-land-of-lost-dreams-is-calling/)
- - [Next Week on Xbox: New Games for October 3 to 7](https://news.xbox.com/en-us/2022/09/30/next-week-on-xbox-new-games-for-october-3-to-7/)<!-- GAME:END -->
+ - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
+ - [Pathfinder: Wrath of the Righteous – Enhanced Edition adds controller support and a surprisingly good photo mode](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-enhanced-edition-adds-controller-support-and-a-surprisingly-good-photo-mode)
+ - [6 Ways To Push Your Steam Deck Beyond Gaming](https://kotaku.com/steam-deck-valve-computers-pc-hacking-1849601356)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
