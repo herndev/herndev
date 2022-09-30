@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Berlin-based Grover, an online subscription platform for renting consumer electronics, raised &amp;euro;270M in debt from M&amp;G; Grover had rented 1M+ devices by July 2022 &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220930/p1#a220930p1)
  - [Micron reports Q4 revenue down 25% YoY to $6.64B, from $8.27B, plans to cut total capital spending by 30% YoY and wafer-fab equipment spending by nearly 50% YoY &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220929/p37#a220929p37)
- - [A roundup of Elon Musk&#39;s newly released text messages show the inner workings of Silicon Valley dealmaking and how Musk lost interest in his Twitter acquisition &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/220929/p36#a220929p36)
- - [See NASA&#39;s Asteroid Crash Through the Lens of Webb and Hubble Telescopes     - CNET](https://www.cnet.com/science/space/see-nasas-asteroid-crash-through-the-eyes-of-webb-and-hubble-telescopes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A roundup of Elon Musk&#39;s newly released text messages show the inner workings of Silicon Valley dealmaking and how Musk lost interest in his Twitter acquisition &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/220929/p36#a220929p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
