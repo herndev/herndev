@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This streamer is playing Jump King, except every wrong move drops him into a dunk tank](https://www.pcgamer.com/this-streamer-is-playing-jump-king-except-every-wrong-move-drops-him-into-a-dunk-tank)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [A Creepshow game is coming from the team behind the Dread X Collections](https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections)<!-- GAME:END -->
+ - [NFL Plus Free Trial 2022: NFL+ Deals, Sale, Promo Codes, Price, Bundles](https://game-rant-2022.blogspot.com/2022/09/nfl-plus-free-trial-2022-nfl-deals-sale.html)
+ - [Underrated PS2 Stealth Games](https://game-rant-2022.blogspot.com/2022/09/underrated-ps2-stealth-games.html)
+ - [Earn exclusive rewards by playing 40K card game Warpforge in alpha](https://www.pcgamer.com/earn-exclusive-rewards-by-playing-40k-card-game-warpforge-in-alpha)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
