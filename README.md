@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine if it was what you thought it was..](http://9gag.com/gag/ajVrvGQ)
- - ⏩ [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)
- - 👉 [How to win at cards](http://9gag.com/gag/armpPQK)<!-- MEMES:END -->
+ - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
+ - ⏩ [This dog&#39;s name is Krym, he&#39;s sitting on the ruins of the house. Today russian terrorists destroyed it and killed his family. Grandmother Alla, mother Natasha, daughter Vasilisa 12, son Ivan 8, and little dog Jack. All of them today became victims of the missile attack on Dnipro](http://9gag.com/gag/aREg6XG)
+ - 👉 [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)<!-- MEMES:END -->
 
 ---
 
