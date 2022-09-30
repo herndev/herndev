@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best National Coffee Day Deals on Beans and Espresso Machines](https://www.wired.com/story/national-international-coffee-day-deals-2022/)
- - [Eufy’s impressive new smart cameras use AI to identify you and your pets](https://www.theverge.com/2022/9/29/23378472/eufy-homebase-3-eufycam-3-price-release-date-specs)
- - [NASA is studying whether SpaceX can visit the Hubble Space Telescope](https://www.theverge.com/2022/9/29/23379304/nasa-is-studying-whether-spacex-can-visit-the-hubble-space-telescope)<!-- TECH:END -->
+ - [Microsoft says the Lazarus group is weaponizing open-source software such as PuTTY, KiTTY, TightVNC, and Sumatra PDF Reader, compromising numerous organizations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220929/p34#a220929p34)
+ - [Colette Pichon Battle’s Plea for Climate Justice From the US Gulf](https://www.wired.com/story/rewired-green-2022-colette-pichon-battle-climate-justice/)
+ - [It&#39;s Time to Reframe the Story of Climate Inequity](https://www.wired.com/story/rewired-2022-regina-hall-solutions-project/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
