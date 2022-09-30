@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can&#39;t tell if open world roguelites are good because Ravenbound&#39;s combat isn&#39;t](https://www.pcgamer.com/i-cant-tell-if-open-world-roguelites-are-good-because-ravenbounds-combat-isnt)
- - [The Rings of Power clears up Adar’s mystery, but confuses The Lord of the Rings](https://www.polygon.com/23378700/lord-rings-power-adar-tolkien-galadriel-episode-6)
- - [Tom Nook has nothing on Scrooge McDuck, Disney Dreamlight Valley&#39;s nastiest villain](https://www.pcgamer.com/tom-nook-has-nothing-on-scrooge-mcduck-disney-dreamlight-valleys-nastiest-villain)<!-- GAME:END -->
+ - [Does Netflix regret Blonde’s NC-17 rating or the whole movie?](https://www.polygon.com/23378794/blonde-nc-17-netflix-sex-violence-marilyn-monroe-analysis)
+ - [All Hallows’: The Land of Lost Dreams is calling…](https://blog.playstation.com/2022/09/30/all-hallows-the-land-of-lost-dreams-is-calling/)
+ - [Next Week on Xbox: New Games for October 3 to 7](https://news.xbox.com/en-us/2022/09/30/next-week-on-xbox-new-games-for-october-3-to-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
