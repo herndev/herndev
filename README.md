@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is messing up Fitbit, so get an old Fitbit while you still can](https://www.androidauthority.com/buy-older-fitbit-3214765/)
- - [A look at debates by Wikipedia editors over citing Fox News, deemed a &quot;marginally reliable&quot; source for politics and science and now cited in 16,000+ articles &lpar;Samuel Breslow/Slate&rpar;](http://www.techmeme.com/220930/p10#a220930p10)
- - [Apple’s new M2-powered MacBook Air is cheaper than ever](https://www.theverge.com/2022/9/30/23378504/macbook-air-fitbit-sense-magsafe-battery-pack-hisense-u7h-tv-deal-sale)<!-- TECH:END -->
+ - [2023 Mercedes-Benz EQS SUV Is a Three-Row Electric Luxobarge     - CNET](https://www.cnet.com/roadshow/pictures/2023-mercedes-benz-eqs-suv-eqs450-eqs580/#ftag=CAD590a51e)
+ - [The KitchenAid mixer has burly levers that still offer refined control](https://www.theverge.com/2022/9/30/23361232/kitchenaid-mixer-lever-rugged-fine-grain-control)
+ - [&#39;The Rings of Power&#39; Episode 6 Recap: Trouble in the Southlands     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-episode-6-trouble-in-the-southlands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
