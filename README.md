@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel to launch Arc A770 Limited Edition with 16GB of GDDR6 for $349 and A750 Limited Edition for $289 on October 12, alongside A770 with 8GB of GDDR6 for $329 &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220929/p35#a220929p35)
- - [All the James Bond Movies Are Coming to Amazon Prime     - CNET](https://www.cnet.com/culture/entertainment/all-the-james-bond-movies-are-coming-to-amazon-prime/#ftag=CAD590a51e)
- - [The Future of Climate Activism Is Intergenerational—and on TikTok](https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/)<!-- TECH:END -->
+ - [Micron reports Q4 revenue down 25% YoY to $6.64B, from $8.27B, plans to cut total capital spending by 30% YoY and wafer-fab equipment spending by nearly 50% YoY &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/220929/p37#a220929p37)
+ - [A roundup of Elon Musk&#39;s newly released text messages show the inner workings of Silicon Valley dealmaking and how Musk lost interest in his Twitter acquisition &lpar;Alex Kantrowitz/Big Technology&rpar;](http://www.techmeme.com/220929/p36#a220929p36)
+ - [See NASA&#39;s Asteroid Crash Through the Lens of Webb and Hubble Telescopes     - CNET](https://www.cnet.com/science/space/see-nasas-asteroid-crash-through-the-eyes-of-webb-and-hubble-telescopes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
