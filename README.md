@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Is shutting Stadia down the right decision for Google?](https://www.androidauthority.com/google-stadia-shut-down-poll-3215087/)
- - [Hyper officially recalls its stackable &lpar;and overheating&rpar; GaN chargers after all](https://www.theverge.com/2022/9/30/23380019/hyper-stackable-gan-chargers-refund-overheating-fire-hazard-65w-100w-130w-usb-c-battery-pack)
- - [An interview with Binance CEO Changpeng Zhao on delisting tether and USDC, stablecoin and CBDC evolution, the &quot;Chinese company&quot; label, the downturn, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220930/p2#a220930p2)<!-- TECH:END -->
+ - [How to view and manage compromised passwords on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-view-and-manage-compromised-passwords-on-ios-16?utm_medium=rss)
+ - [Short-form video app Triller raised $310M from Global Emerging Markets ahead of its IPO, but does not need to draw the full sum; Triller claims 350M+ downloads &lpar;Eileen AJ Connelly/The Wrap&rpar;](http://www.techmeme.com/220930/p4#a220930p4)
+ - [Internal Palantir documents detail a plan to deepen its ties to the UK&#39;s NHS by buying up smaller rivals, helping avoid scrutiny and increase health data &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/220930/p3#a220930p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
