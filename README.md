@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What if Rings of Power’s Sauron really is just the most obvious person?](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
- - [Cyberpunk 2077 car insurance mod wants you to check yourself before you wreck everyone else](https://www.pcgamer.com/cyberpunk-2077-car-insurance-mod-wants-you-to-check-yourself-before-you-wreck-everyone-else)
- - [Official PlayStation Podcast Episode 441: Virtual Walkers](https://blog.playstation.com/2022/09/30/official-playstation-podcast-episode-441-virtual-walkers/)<!-- GAME:END -->
+ - [This Week on Xbox: Grounded is Here, Upcoming Releases and Much More](https://news.xbox.com/en-us/2022/09/30/this-week-on-xbox-grounded-is-here-upcoming-releases-and-much-more/)
+ - [Blizzard is trying to get more LGBTQ+ players in the Overwatch League](https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league)
+ - [Isonzo review](https://www.pcgamer.com/isonzo-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
