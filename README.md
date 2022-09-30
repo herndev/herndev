@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indies highlights coming to PS4 &amp; PS5 in October 2022](https://blog.playstation.com/2022/09/30/indies-highlights-coming-to-ps4-ps5-in-october-2022/)
- - [Pathfinder: Wrath of the Righteous – Enhanced Edition adds controller support and a surprisingly good photo mode](https://www.pcgamer.com/pathfinder-wrath-of-the-righteous-enhanced-edition-adds-controller-support-and-a-surprisingly-good-photo-mode)
- - [6 Ways To Push Your Steam Deck Beyond Gaming](https://kotaku.com/steam-deck-valve-computers-pc-hacking-1849601356)<!-- GAME:END -->
+ - [The Community movie is finally happening, with most of the cast on board](https://www.polygon.com/23380387/community-movie-announcement-donald-glover-peacock)
+ - [Share of the Week: Robots and Machines](https://blog.playstation.com/2022/09/30/share-of-the-week-robots-and-machines/)
+ - [Ni no Kuni: Wrath of the White Witch Remastered Now Available with Game Pass](https://news.xbox.com/en-us/2022/09/30/ni-no-kuni-wrath-of-the-white-witch-remastered-now-available-with-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
