@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
+ - 💣 [If they could, they would](http://9gag.com/gag/aKEzrjO)
  - ⏩ [Unfortunately there\u2019s no alternative way to dispense napkins](http://9gag.com/gag/az2L7pp)
  - 👉 [Wait for it \u2026](http://9gag.com/gag/aQEp6bK)<!-- MEMES:END -->
 
