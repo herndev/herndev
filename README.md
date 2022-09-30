@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Grounded is Here, Upcoming Releases and Much More](https://news.xbox.com/en-us/2022/09/30/this-week-on-xbox-grounded-is-here-upcoming-releases-and-much-more/)
- - [Blizzard is trying to get more LGBTQ+ players in the Overwatch League](https://www.pcgamer.com/blizzard-is-trying-to-get-more-lgbtq-players-in-the-overwatch-league)
- - [Isonzo review](https://www.pcgamer.com/isonzo-review)<!-- GAME:END -->
+ - [What’s in Overwatch 2’s store and season 1 battle pass](https://www.polygon.com/23380667/overwatch-2-store-souvenirs-battle-pass-skins-unlocks-currency)
+ - [Hyper Demon review](https://www.pcgamer.com/hyper-demon-review)
+ - [Stadia’s death isn’t the end of cloud gaming](https://www.polygon.com/23380964/stadia-death-of-cloud-gaming-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
