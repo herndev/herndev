@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I admit my weakness ;&rpar;](http://9gag.com/gag/aVbOndw)
- - ⏩ [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)
+ - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - ⏩ [30.9.2022 there was referendum in St. Petersburg to be part of Finland. 99,35% of citizens voted yes](http://9gag.com/gag/a04PLxO)
  - 👉 [This is the money dog, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/aQEpn28)<!-- MEMES:END -->
 
 ---
