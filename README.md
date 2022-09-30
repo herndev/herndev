@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [RIP Google Stadia: the latest news on the discontinued cloud gaming service](https://www.theverge.com/23380140/google-stadia-ending-shutdown-latest-news-gaming-tech)
- - [Apple Watch Ultra review: Ambitious aspirations](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-review-ambitious-aspirations?utm_medium=rss)
- - [Apple Watch Ultra &amp; AirPods Pro 2 impress, iOS 16 bugs, Apple Store experiences](https://appleinsider.com/articles/22/09/30/apple-watch-ultra-airpods-pro-2-impress-ios-16-bugs-apple-store-experiences?utm_medium=rss)<!-- TECH:END -->
+ - [Spotify keeps making it harder for me to listen to music](https://www.theverge.com/23380261/spotify-app-podcasts-audiobooks-clutter-music-leverage-complaint)
+ - [The first trailer for Guillermo del Toro’s Cabinet of Curiosities looks like just the thing for Halloween](https://www.theverge.com/23380148/cabinet-of-curiosities-guillermo-del-toro-netflix-series-trailer)
+ - [The Best USB Flash Drives for Ultra-Portable Storage](https://www.wired.com/gallery/best-usb-flash-drives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
