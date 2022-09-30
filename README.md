@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terry Crews sketches Sofia Vergara](http://9gag.com/gag/aqemveY)
- - ⏩ [Choices](http://9gag.com/gag/aVbQzv8)
- - 👉 [Here we go again](http://9gag.com/gag/a9qMbqo)<!-- MEMES:END -->
+ - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
+ - ⏩ [In the end she won](http://9gag.com/gag/a6qdmDq)
+ - 👉 [Dragon Ball carpet](http://9gag.com/gag/aGEVY2G)<!-- MEMES:END -->
 
 ---
 
