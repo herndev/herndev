@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - 💣 [Ernest Hemingway](http://9gag.com/gag/aL1Ky0v)
  - ⏩ [A fantastic game for all ages](http://9gag.com/gag/a3ZddR7)
- - 👉 [Still D.R.E.](http://9gag.com/gag/aEqGGWp)<!-- MEMES:END -->
+ - 👉 [Good joke](http://9gag.com/gag/aDYwwN9)<!-- MEMES:END -->
 
 ---
 
