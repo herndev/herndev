@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [That 200MP camera is looking more likely for Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-3214576/)
- - [Twitter just put out its first edited tweet](https://www.androidauthority.com/twitter-edited-tweet-3215064/)
- - [Berlin-based Grover, an online subscription platform for renting consumer electronics, raised &amp;euro;270M in debt from M&amp;G; Grover had rented 1M+ devices by July 2022 &lpar;Omar Faridi/Crowdfund Insider&rpar;](http://www.techmeme.com/220930/p1#a220930p1)<!-- TECH:END -->
+ - [Here’s what the Pixel Watch costs for the Wi-Fi model &lpar;Updated&rpar;](https://www.androidauthority.com/google-pixel-watch-prices-3210479/)
+ - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
+ - [That 200MP camera is looking more likely for Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-3214576/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
