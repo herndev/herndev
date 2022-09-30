@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep your head down](http://9gag.com/gag/aKEz0Mg)
- - ⏩ [Volunteers managed to pick up the dog, it has a very severe concussion, after her condition is stabilized dog will find a new family](http://9gag.com/gag/a8qbWyZ)
- - 👉 [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)<!-- MEMES:END -->
+ - 💣 [Putin is funny](http://9gag.com/gag/a5XdYjr)
+ - ⏩ [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)
+ - 👉 [Look closely!](http://9gag.com/gag/ago0y1r)<!-- MEMES:END -->
 
 ---
 
