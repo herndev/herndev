@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to view and manage compromised passwords on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-view-and-manage-compromised-passwords-on-ios-16?utm_medium=rss)
- - [Short-form video app Triller raised $310M from Global Emerging Markets ahead of its IPO, but does not need to draw the full sum; Triller claims 350M+ downloads &lpar;Eileen AJ Connelly/The Wrap&rpar;](http://www.techmeme.com/220930/p4#a220930p4)
- - [Internal Palantir documents detail a plan to deepen its ties to the UK&#39;s NHS by buying up smaller rivals, helping avoid scrutiny and increase health data &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/220930/p3#a220930p3)<!-- TECH:END -->
+ - [Amazon rolls out Amazon Live, its QVC-style livestreams, in India, running ~15 per day from 10am-1am, covering electronics, fashion and beauty, and, home decor &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/220930/p7#a220930p7)
+ - [Go Update iOS, Chrome, and HP Computers to Fix Serious Flaws](https://www.wired.com/story/ios-chrome-hp-whatsapp-critical-update-september/)
+ - [Sofia, the Airplane-Borne Telescope, Lands for the Last Time](https://www.wired.com/story/sofia-the-historic-airplane-borne-telescope-lands-for-the-last-time/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
