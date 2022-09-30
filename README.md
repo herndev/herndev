@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what the Pixel Watch costs for the Wi-Fi model &lpar;Updated&rpar;](https://www.androidauthority.com/google-pixel-watch-prices-3210479/)
- - [Is Snapchat not working for you? Here’s how you can try to fix it](https://www.androidauthority.com/snapchat-not-working-how-to-fix-977763/)
- - [That 200MP camera is looking more likely for Galaxy S23 Ultra](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200mp-3214576/)<!-- TECH:END -->
+ - [An interview with Binance CEO Changpeng Zhao on delisting tether and USDC, stablecoin and CBDC evolution, the &quot;Chinese company&quot; label, the downturn, and more &lpar;Benjamin Pimentel/Protocol&rpar;](http://www.techmeme.com/220930/p2#a220930p2)
+ - [You either don’t care about a thin phone, or think it’s not a must](https://www.androidauthority.com/phone-thickness-poll-results-3215073/)
+ - [Here’s what the Pixel Watch costs for the Wi-Fi model &lpar;Updated&rpar;](https://www.androidauthority.com/google-pixel-watch-prices-3210479/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
