@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
- - ⏩ [This dog&#39;s name is Krym, he&#39;s sitting on the ruins of the house. Today russian terrorists destroyed it and killed his family. Grandmother Alla, mother Natasha, daughter Vasilisa 12, son Ivan 8, and little dog Jack. All of them today became victims of the missile attack on Dnipro](http://9gag.com/gag/aREg6XG)
- - 👉 [Wholesome exchange between a motorist &amp; a cyclist](http://9gag.com/gag/aqeZ4nQ)<!-- MEMES:END -->
+ - 💣 [Not wimpy after all](http://9gag.com/gag/aKEzoR6)
+ - ⏩ [Unfortunately there\u2019s no alternative way to dispense napkins](http://9gag.com/gag/az2L7pp)
+ - 👉 [Wait for it \u2026](http://9gag.com/gag/aQEp6bK)<!-- MEMES:END -->
 
 ---
 
