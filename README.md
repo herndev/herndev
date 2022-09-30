@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)
  - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)
- - [10 Dark But Awesome Games Redditors Loved As Kids](https://game-rant-2022.blogspot.com/2022/09/10-dark-but-awesome-games-redditors.html)
- - [Get 4X classic Master of Magic free for a limited time](https://www.pcgamer.com/get-4x-classic-master-of-magic-free-for-a-limited-time)<!-- GAME:END -->
+ - [10 Dark But Awesome Games Redditors Loved As Kids](https://game-rant-2022.blogspot.com/2022/09/10-dark-but-awesome-games-redditors.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
