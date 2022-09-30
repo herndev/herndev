@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
- - ⏩ [In the end she won](http://9gag.com/gag/a6qdmDq)
- - 👉 [Dragon Ball carpet](http://9gag.com/gag/aGEVY2G)<!-- MEMES:END -->
+ - 💣 [Well, this is it!](http://9gag.com/gag/a3ZYOb7)
+ - ⏩ [Here we go again](http://9gag.com/gag/a9qMbqo)
+ - 👉 [And people are wondering why mobilization may take up to 1 milion conscripts](http://9gag.com/gag/aMEb2Lx)<!-- MEMES:END -->
 
 ---
 
