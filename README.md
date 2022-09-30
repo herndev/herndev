@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - ⏩ [Well, must confess, I did not see it coming...](http://9gag.com/gag/aMEbbRP)
- - 👉 [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)<!-- MEMES:END -->
+ - 💣 [You&#39;re a cannon flesh harry](http://9gag.com/gag/aNwoeOb)
+ - ⏩ [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)
+ - 👉 [30.9.2022 there was referendum in St. Petersburg to be part of Finland. 99,35% of citizens voted yes](http://9gag.com/gag/a04PLxO)<!-- MEMES:END -->
 
 ---
 
