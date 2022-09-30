@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to watch Genshin Impact’s 2-year anniversary concert broadcast](https://www.polygon.com/23372891/genshin-impact-concert-live-broadcast-how-to-watch-shiro-sagisu)
  - [Today&#39;s Wordle 468 answer and hint: Friday, September 30](https://www.pcgamer.com/todays-wordle-468-answer-hint)
- - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)
- - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)<!-- GAME:END -->
+ - [Let’s talk about The Rings of Power’s big geographical reveal](https://www.polygon.com/23376684/lord-rings-power-lotr-mount-doom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
