@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro camera gets workout in new &#39;Chase&#39; ad](https://appleinsider.com/articles/22/09/30/iphone-14-pro-camera-gets-workout-in-new-chase-ad?utm_medium=rss)
- - [Filing: European Commission sets a provisional November 8 deadline to complete the review of Microsoft&#39;s proposed $69B Activision Blizzard acquisition &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/220930/p12#a220930p12)
- - [Best Coffee Makers for 2022     - CNET](https://www.cnet.com/news/best-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best MacBook Pro Alternatives for 2022     - CNET](https://www.cnet.com/tech/computing/best-macbook-pro-alternatives/#ftag=CAD590a51e)
+ - [I Logged My Sleep for a Week. You Should Too     - CNET](https://www.cnet.com/health/sleep/i-logged-my-sleep-for-a-week-you-should-too/#ftag=CAD590a51e)
+ - [Best Microwaves for 2022     - CNET](https://www.cnet.com/news/best-microwaves-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
