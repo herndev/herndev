@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Future of Climate Activism Is Intergenerational—and on TikTok](https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/)
- - [Microsoft says the Lazarus group is weaponizing open-source software such as PuTTY, KiTTY, TightVNC, and Sumatra PDF Reader, compromising numerous organizations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220929/p34#a220929p34)
- - [How Elon Musk, Jack Dorsey, and Parag Agrawal cratered the Twitter deal, in texts](https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts)<!-- TECH:END -->
+ - [Intel to launch Arc A770 Limited Edition with 16GB of GDDR6 for $349 and A750 Limited Edition for $289 on October 12, alongside A770 with 8GB of GDDR6 for $329 &lpar;Sam Machkovech/Ars Technica&rpar;](http://www.techmeme.com/220929/p35#a220929p35)
+ - [All the James Bond Movies Are Coming to Amazon Prime     - CNET](https://www.cnet.com/culture/entertainment/all-the-james-bond-movies-are-coming-to-amazon-prime/#ftag=CAD590a51e)
+ - [The Future of Climate Activism Is Intergenerational—and on TikTok](https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
