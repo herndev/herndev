@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Putin is funny](http://9gag.com/gag/a5XdYjr)
- - ⏩ [Jordan Peterson becomes emotional after being called `hero to incels` by Olivia Wilde](http://9gag.com/gag/anzXYB5)
- - 👉 [Look closely!](http://9gag.com/gag/ago0y1r)<!-- MEMES:END -->
+ - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
+ - ⏩ [The head of Dagestan, Sergei Melikov, has absolutely lost it with Derbent&#39;s draft officers after they drove around with megaphones telling *every man* in the city to turn up at the conscription centre](http://9gag.com/gag/aMEb1Y6)
+ - 👉 [Dog, named Krym, standing on the ruins of a house after russian missile strike. A family of four, including mother, grandmother and two children dead.](http://9gag.com/gag/aNwoeRb)<!-- MEMES:END -->
 
 ---
 
