@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
+ - 💣 [I admit my weakness ;&rpar;](http://9gag.com/gag/aVbOndw)
  - ⏩ [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)
- - 👉 [Love that carpet](http://9gag.com/gag/az2LVbN)<!-- MEMES:END -->
+ - 👉 [This is the money dog, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/aQEpn28)<!-- MEMES:END -->
 
 ---
 
