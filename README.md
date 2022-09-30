@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hmmmm](http://9gag.com/gag/a6qwex9)
- - ⏩ [Tom Hardy taking selfies with some little fans](http://9gag.com/gag/aoKzBzx)
- - 👉 [Imposter, Ok I pull up](http://9gag.com/gag/armpP0B)<!-- MEMES:END -->
+ - 💣 [Iron horses race towards sunrise. Continuing until the border stops us. Slava Ukraini](http://9gag.com/gag/aOxqgnr)
+ - ⏩ [George Carlin 1992 - warlike people](http://9gag.com/gag/aqeZ44P)
+ - 👉 [Or bedsheets](http://9gag.com/gag/aYVbzPV)<!-- MEMES:END -->
 
 ---
 
