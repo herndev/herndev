@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I played Overwatch 2 on a new account, and the hero grind sucks](https://www.pcgamer.com/i-played-overwatch-2-on-a-new-account-and-the-hero-grind-sucks)
- - [$70 Version Of Skyrim Quietly Appears On Nintendo Switch](https://kotaku.com/elder-scrolls-skyrim-nintendo-switch-anniversary-1849599263)
- - [The ancient Myst MMO is getting an brand-new age this weekend](https://www.pcgamer.com/the-ancient-myst-mmo-is-getting-an-brand-new-age-this-weekend)<!-- GAME:END -->
+ - [A Creepshow game is coming from the team behind the Dread X Collections](https://www.pcgamer.com/a-creepshow-game-is-coming-from-the-team-behind-the-dread-x-collections)
+ - [Stadia game developers had no idea Google was killing Stadia](https://www.pcgamer.com/stadia-game-developers-had-no-idea-google-was-killing-stadia)
+ - [In this underwater survival city builder, reboot civilization at the bottom of the ocean](https://www.pcgamer.com/in-this-underwater-survival-city-builder-reboot-civilization-at-the-bottom-of-the-ocean)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
