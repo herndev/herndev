@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re a cannon flesh harry](http://9gag.com/gag/aNwoeOb)
+ - 💣 [Nooooo Joe not again...](http://9gag.com/gag/aPgvOzw)
  - ⏩ [Russians celebrating annexation.. Seems a lot more people come to celebrate than to protest against the war\u2026](http://9gag.com/gag/ay2p06V)
- - 👉 [30.9.2022 there was referendum in St. Petersburg to be part of Finland. 99,35% of citizens voted yes](http://9gag.com/gag/a04PLxO)<!-- MEMES:END -->
+ - 👉 [Love that carpet](http://9gag.com/gag/az2LVbN)<!-- MEMES:END -->
 
 ---
 
