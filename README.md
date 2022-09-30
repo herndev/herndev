@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NFL Plus Free Trial 2022: NFL+ Deals, Sale, Promo Codes, Price, Bundles](https://game-rant-2022.blogspot.com/2022/09/nfl-plus-free-trial-2022-nfl-deals-sale.html)
- - [Underrated PS2 Stealth Games](https://game-rant-2022.blogspot.com/2022/09/underrated-ps2-stealth-games.html)
- - [Earn exclusive rewards by playing 40K card game Warpforge in alpha](https://www.pcgamer.com/earn-exclusive-rewards-by-playing-40k-card-game-warpforge-in-alpha)<!-- GAME:END -->
+ - [Best cues in the game, ranked](https://game-rant-2022.blogspot.com/2022/09/best-cues-in-game-ranked.html)
+ - [10 Dark But Awesome Games Redditors Loved As Kids](https://game-rant-2022.blogspot.com/2022/09/10-dark-but-awesome-games-redditors.html)
+ - [Get 4X classic Master of Magic free for a limited time](https://www.pcgamer.com/get-4x-classic-master-of-magic-free-for-a-limited-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
