@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Future of Climate Activism Is Intergenerational—and on TikTok](https://www.wired.com/story/rewired-2022-gideon-lichfield-sylvia-earle-sophia-kianni/)
  - [Microsoft says the Lazarus group is weaponizing open-source software such as PuTTY, KiTTY, TightVNC, and Sumatra PDF Reader, compromising numerous organizations &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/220929/p34#a220929p34)
- - [Colette Pichon Battle’s Plea for Climate Justice From the US Gulf](https://www.wired.com/story/rewired-green-2022-colette-pichon-battle-climate-justice/)
- - [It&#39;s Time to Reframe the Story of Climate Inequity](https://www.wired.com/story/rewired-2022-regina-hall-solutions-project/)<!-- TECH:END -->
+ - [How Elon Musk, Jack Dorsey, and Parag Agrawal cratered the Twitter deal, in texts](https://www.theverge.com/2022/9/29/23379435/elon-musk-jack-dorsey-twitter-buyout-texts)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
