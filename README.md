@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best MacBook Pro Alternatives for 2022     - CNET](https://www.cnet.com/tech/computing/best-macbook-pro-alternatives/#ftag=CAD590a51e)
- - [I Logged My Sleep for a Week. You Should Too     - CNET](https://www.cnet.com/health/sleep/i-logged-my-sleep-for-a-week-you-should-too/#ftag=CAD590a51e)
- - [Best Microwaves for 2022     - CNET](https://www.cnet.com/news/best-microwaves-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tim Cook says AR &amp; VR will be revolutionary, but the public will need education](https://appleinsider.com/articles/22/09/30/tim-cook-says-ar-will-be-revolutionary-but-the-public-will-need-education?utm_medium=rss)
+ - [Web novel apps backed by ByteDance and Tencent are running hundreds of Facebook and Instagram ads showing sexual assault, violent erotica, and acts of self-harm &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/220930/p14#a220930p14)
+ - [Killing Stadia makes me trust Google less](https://www.androidauthority.com/google-stadia-shutdown-opinion-3215302/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
