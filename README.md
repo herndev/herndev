@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - ⏩ [Skeletor strikes again](http://9gag.com/gag/avQZnZX)
- - 👉 [Know your place trash. Try #2 to upload, first was deleted](http://9gag.com/gag/aXnEwdP)<!-- MEMES:END -->
+ - 💣 [Skeletor strikes again](http://9gag.com/gag/avQZnZX)
+ - ⏩ [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 👉 [A very friendly dog](http://9gag.com/gag/aA0VPQE)<!-- MEMES:END -->
 
 ---
 
