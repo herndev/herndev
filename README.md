@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - ⏩ [I was brutally .....](http://9gag.com/gag/a1PZKM8)
- - 👉 [It looks like the Finnish PM is ready to make its first move with the Estonian PM](http://9gag.com/gag/arme5XV)<!-- MEMES:END -->
+ - 💣 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
+ - ⏩ [!!! Scout drone footage, shows russians posible planing of using chemical weapons in cherson region.](http://9gag.com/gag/aOxyBvD)
+ - 👉 [When you go to battle and cat is the only one with war face. Pixel edition.](http://9gag.com/gag/avQZO0b)<!-- MEMES:END -->
 
 ---
 
