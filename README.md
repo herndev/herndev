@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God bless America](http://9gag.com/gag/aoKZzm0)
- - ⏩ [This is the money cat, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/abvq019)
- - 👉 [What happens when people in NYC get angry at influencers](http://9gag.com/gag/adP6jxd)<!-- MEMES:END -->
+ - 💣 [Entire US in the recent years:](http://9gag.com/gag/az2b0gB)
+ - ⏩ [Go away](http://9gag.com/gag/aEqG7Ee)
+ - 👉 [Skeletor strikes again](http://9gag.com/gag/avQZnZX)<!-- MEMES:END -->
 
 ---
 
