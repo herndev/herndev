@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple Watch bands for any kind of user in 2022](https://appleinsider.com/inside/apple-watch/best/the-best-apple-watch-bands-for-any-kind-of-user-in-2022?utm_medium=rss)
- - [As car makers cede control of their auto-operating systems to Apple and Google, the limited choice in the duopoly of smartphone OSes may soon extend to cars &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221001/p9#a221001p9)
- - [Sonos Sub Mini review: More bass, less dough](https://appleinsider.com/articles/22/10/01/sonos-sub-mini-review-more-bass-less-dough?utm_medium=rss)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-452-3214815/)
+ - [Sources: TikTok plans to launch live shopping in the US in partnership with TalkShopLive; TikTok&#39;s in-house e-commerce trial in the UK struggled to take off &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/221001/p10#a221001p10)
+ - [TikTok’s reportedly still planning to launch live shopping in the US](https://www.theverge.com/2022/10/1/23381828/tiktok-live-shopping-planning-talkshoplive-us-north-america)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
