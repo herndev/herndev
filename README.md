@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)
  - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)
- - [Smile director Parker Finn unpacks the movie’s many endings](https://www.polygon.com/23374118/smile-ending-meaning-director-interview)
- - [12 upcoming games without names that we&#39;re excited about](https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about)<!-- GAME:END -->
+ - [Smile director Parker Finn unpacks the movie’s many endings](https://www.polygon.com/23374118/smile-ending-meaning-director-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
