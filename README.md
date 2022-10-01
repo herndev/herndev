@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As it adds new regions, Genshin Impact’s politics only get messier](https://www.polygon.com/23380882/genshin-impact-sumeru-update-inazuma-stereotype)
- - [Half-Life 2’s Excellent VR Mod Is Almost Too Good To Be True](https://kotaku.com/half-life-2-vr-mod-alyx-pc-valve-steam-gordon-freeman-1849603782)
- - [A Life Sim Where You Mix Potions For Townsfolk And Healthcare Doesn&#39;t Blow](https://kotaku.com/potion-permit-rpg-life-sim-pc-switch-masshivemedia-1849604141)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [FIFA 23 is a surprising change of pace for the franchise](https://www.polygon.com/reviews/23380806/fifa-23-review-hypermotion-2-fut-chemistry)
+ - [As it adds new regions, Genshin Impact’s politics only get messier](https://www.polygon.com/23380882/genshin-impact-sumeru-update-inazuma-stereotype)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
