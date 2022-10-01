@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - ⏩ [!!! Scout drone footage, shows russians posible planing of using chemical weapons in cherson region.](http://9gag.com/gag/aOxyBvD)
- - 👉 [When you go to battle and cat is the only one with war face. Pixel edition.](http://9gag.com/gag/avQZO0b)<!-- MEMES:END -->
+ - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - ⏩ [This shot is better than all The Rings of Power](http://9gag.com/gag/aDYwzQd)
+ - 👉 [I will take 1930 with 2019 Technology](http://9gag.com/gag/aXnExXd)<!-- MEMES:END -->
 
 ---
 
