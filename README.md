@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mleeem...](http://9gag.com/gag/aWG08W4)
- - ⏩ [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - 👉 [Meanwhile during a live weather forecast news....](http://9gag.com/gag/ap9oLbn)<!-- MEMES:END -->
+ - 💣 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
+ - ⏩ [`IT&#39;S MAAM!! Version 2.0](http://9gag.com/gag/aKEg2zO)
+ - 👉 [I think that Putin deserves a special medal, for being probably the first dictator in history announcing and celebrating annexation of territories, while at the same time his army is in retreat on the very same territories...](http://9gag.com/gag/armeOV7)<!-- MEMES:END -->
 
 ---
 
