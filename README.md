@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla CEO Elon Musk unveils prototype humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
- - [Top Foldable Phones for 2022: Motorola Razr 2020, Galaxy Flip, Galaxy Fold 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)
- - [Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027     - CNET](https://www.cnet.com/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 drops to $35.99](https://appleinsider.com/articles/22/10/01/lowest-price-ever-microsoft-office-for-mac-home-business-2021-drops-to-3599?utm_medium=rss)
+ - [Tech companies working with AI are shielding themselves from accountability by outsourcing data collection and model training to academic and non-profit groups &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221001/p4#a221001p4)
+ - [Meta says Facebook for Android will soon use its own Chromium-based in-app browser engine, citing security and stability as reasons for its WebView alternative &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221001/p3#a221001p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
