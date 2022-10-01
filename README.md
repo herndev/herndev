@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
- - ⏩ [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
- - 👉 [Fading smile](http://9gag.com/gag/a3ZdqeQ)<!-- MEMES:END -->
+ - 💣 [Iran, 1 October 2022](http://9gag.com/gag/aA0VwA9)
+ - ⏩ [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 👉 [Women removing hijab in 16th day of protests in Iran](http://9gag.com/gag/a2KP4ZZ)<!-- MEMES:END -->
 
 ---
 
