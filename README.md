@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still D.R.E.](http://9gag.com/gag/aEqGGWp)
- - ⏩ [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
- - 👉 [\ud83c\uddf3\ud83c\uddf4 \ud83c\uddee\ud83c\uddf9 \ud83c\uddec\ud83c\udded \ud83c\uddec\ud83c\uddf2 \ud83c\uddea\ud83c\uddea \ud83c\uddf7\ud83c\uddf4?](http://9gag.com/gag/aeQ3Ggp)<!-- MEMES:END -->
+ - 💣 [This is a plane landing](http://9gag.com/gag/aBdKDmN)
+ - ⏩ [Like a ninja](http://9gag.com/gag/aDYwmZO)
+ - 👉 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)<!-- MEMES:END -->
 
 ---
 
