@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is a plane landing](http://9gag.com/gag/aBdKDmN)
- - ⏩ [Like a ninja](http://9gag.com/gag/aDYwmZO)
- - 👉 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)<!-- MEMES:END -->
+ - 💣 [Damn, this is bad.](http://9gag.com/gag/aREgPwA)
+ - ⏩ [Me on my way to annoy toxic coworkers](http://9gag.com/gag/aWG0OVq)
+ - 👉 [Delightfully wholesome!](http://9gag.com/gag/aQEp84W)<!-- MEMES:END -->
 
 ---
 
