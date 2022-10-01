@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)
- - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)
- - [Smile director Parker Finn unpacks the movie’s many endings](https://www.polygon.com/23374118/smile-ending-meaning-director-interview)<!-- GAME:END -->
+ - [Explained how to stop rolling out F1 22 Game and Controls Settings](https://game-rant-2022.blogspot.com/2022/09/explained-how-to-stop-rolling-out-f1-22.html)
+ - [HORI Fighting Stick Alpha &lpar;PS5&rpar; review: Get ready for the next fight](https://game-rant-2022.blogspot.com/2022/09/hori-fighting-stick-alpha-ps5-review.html)
+ - [San Jose Sharks could miss Barabanov and Nutivaara for opener](https://game-rant-2022.blogspot.com/2022/09/san-jose-sharks-could-miss-barabanov.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
