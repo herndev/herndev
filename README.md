@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn, this is bad.](http://9gag.com/gag/aREgPwA)
- - ⏩ [Me on my way to annoy toxic coworkers](http://9gag.com/gag/aWG0OVq)
- - 👉 [Delightfully wholesome!](http://9gag.com/gag/aQEp84W)<!-- MEMES:END -->
+ - 💣 [God bless America](http://9gag.com/gag/aoKZzm0)
+ - ⏩ [This is the money cat, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/abvq019)
+ - 👉 [What happens when people in NYC get angry at influencers](http://9gag.com/gag/adP6jxd)<!-- MEMES:END -->
 
 ---
 
