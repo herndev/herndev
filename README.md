@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skeletor strikes again](http://9gag.com/gag/avQZnZX)
+ - 💣 [Sean Bean had enough of these hobbitses](http://9gag.com/gag/aXnEwBz)
  - ⏩ [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - 👉 [A very friendly dog](http://9gag.com/gag/aA0VPQE)<!-- MEMES:END -->
+ - 👉 [Meanwhile during a live weather forecast news....](http://9gag.com/gag/ap9oLbn)<!-- MEMES:END -->
 
 ---
 
