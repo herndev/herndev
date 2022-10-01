@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 29 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
  - [11 great movies new to streaming to watch in October 2022](https://www.polygon.com/what-to-watch/2022/10/1/23375583/best-new-movies-netflix-amazon-hbo-hulu-october-2022)
- - [Today&#39;s Wordle 469 answer and hint: Saturday, October 1](https://www.pcgamer.com/todays-wordle-469-answer-hint)
- - [Bush-Era Torture Apologist Steps Down From Call Of Duty Publisher](https://kotaku.com/call-duty-mwii-frances-townsend-activision-blizzard-1849604584)<!-- GAME:END -->
+ - [Today&#39;s Wordle 469 answer and hint: Saturday, October 1](https://www.pcgamer.com/todays-wordle-469-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
