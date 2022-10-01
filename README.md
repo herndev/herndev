@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla CEO Elon Musk unveils prototype of  humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
+ - [Tesla CEO Elon Musk unveils prototype of humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
  - [Watch Tesla’s 2022 AI Day event](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)
- - [NYC-based Grow Therapy, which offers tools for mental health providers to set up virtual practices, raised a $75M Series B, bringing its total funding to $90M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/220930/p18#a220930p18)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
