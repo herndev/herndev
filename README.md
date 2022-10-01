@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Singapore will not permit crypto ads at the track and in local areas at this weekend&#39;s F1 Singapore GP, underscoring a changing regulatory stance toward crypto &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221001/p5#a221001p5)
  - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 drops to $35.99](https://appleinsider.com/articles/22/10/01/lowest-price-ever-microsoft-office-for-mac-home-business-2021-drops-to-3599?utm_medium=rss)
- - [Tech companies working with AI are shielding themselves from accountability by outsourcing data collection and model training to academic and non-profit groups &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221001/p4#a221001p4)
- - [Meta says Facebook for Android will soon use its own Chromium-based in-app browser engine, citing security and stability as reasons for its WebView alternative &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221001/p3#a221001p3)<!-- TECH:END -->
+ - [Tech companies working with AI are shielding themselves from accountability by outsourcing data collection and model training to academic and non-profit groups &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221001/p4#a221001p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
