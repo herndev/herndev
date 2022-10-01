@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Vitamins for Flu Season 2022     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-flu-season/#ftag=CAD590a51e)
- - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
- - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)<!-- TECH:END -->
+ - [Dish and Sling TV drop Disney, ESPN, and others due to contract dispute](https://www.theverge.com/2022/10/1/23382051/dish-sling-tv-drops-disney-espn-fx-contract-dispute-streaming)
+ - [The iPhone 14 won’t have a physical SIM – here’s what that means for you](https://www.androidauthority.com/iphone-14-wont-have-physical-sim-3215093/)
+ - [Stadia was doomed from the start, because Google knows nothing about gaming, and users hesitated to invest in it, not trusting Google to keep it alive for long &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221001/p12#a221001p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
