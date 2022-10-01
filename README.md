@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 5 Best Water Leak Detectors for Your Home](https://www.wired.com/gallery/best-water-leak-detectors/)
- - [Microsoft Exchange Server Has a Zero-Day Problem](https://www.wired.com/story/microsoft-exchange-zero-day-cia-spies-security-roundup/)
- - [Razer Teases a New Handheld Gaming Console](https://www.wired.com/story/razer-edge-5g-teased/)<!-- TECH:END -->
+ - [Local media: Korea&#39;s Fair Trade Commission raided Apple&#39;s Seoul offices over allegations it is charging App Store IAP fees of 33%, rather than the stated 30% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/221001/p8#a221001p8)
+ - [Forget Dynamic Island, Android should pinch iOS 16’s Focus features](https://www.androidauthority.com/android-focus-ios-3212541/)
+ - [On smartphone cameras, the Seattle Mariners, and disappointment](https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
