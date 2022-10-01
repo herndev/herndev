@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And now I can\u2019t I see it or ignore it](http://9gag.com/gag/ago0Geg)
- - ⏩ [Never underestimate your enemy.](http://9gag.com/gag/ago0q4q)
- - 👉 [The way he ducked lmao](http://9gag.com/gag/a3Zdq5m)<!-- MEMES:END -->
+ - 💣 [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
+ - ⏩ [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
+ - 👉 [Fading smile](http://9gag.com/gag/a3ZdqeQ)<!-- MEMES:END -->
 
 ---
 
