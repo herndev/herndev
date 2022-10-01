@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Founding member of Disco Elysium developer claims core team members &#39;involuntarily&#39; left the company](https://www.pcgamer.com/founding-member-of-disco-elysium-developer-claims-core-team-members-involuntarily-left-the-company)
  - [Tesla unveils bipedal robot that is not a guy in a morph suit](https://www.pcgamer.com/tesla-unveils-bipedal-robot-that-is-not-a-guy-in-a-morph-suit)
- - [Wolverine in Deadpool 3 sounds like an apology for the worst X-Men movie](https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Wolverine in Deadpool 3 sounds like an apology for the worst X-Men movie](https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
