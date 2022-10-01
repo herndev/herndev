@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sean Bean had enough of these hobbitses](http://9gag.com/gag/aXnEwBz)
- - ⏩ [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 💣 [Mleeem...](http://9gag.com/gag/aWG08W4)
+ - ⏩ [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
  - 👉 [Meanwhile during a live weather forecast news....](http://9gag.com/gag/ap9oLbn)<!-- MEMES:END -->
 
 ---
