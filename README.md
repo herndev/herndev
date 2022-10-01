@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 29 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)
- - [11 great movies new to streaming to watch in October 2022](https://www.polygon.com/what-to-watch/2022/10/1/23375583/best-new-movies-netflix-amazon-hbo-hulu-october-2022)
- - [Today&#39;s Wordle 469 answer and hint: Saturday, October 1](https://www.pcgamer.com/todays-wordle-469-answer-hint)<!-- GAME:END -->
+ - [Half-Life 2’s Excellent VR Mod Is Almost Too Good To Be True](https://kotaku.com/half-life-2-vr-mod-alyx-pc-valve-steam-gordon-freeman-1849603782)
+ - [A Life Sim Where You Mix Potions For Townsfolk And Healthcare Doesn&#39;t Blow](https://kotaku.com/potion-permit-rpg-life-sim-pc-switch-masshivemedia-1849604141)
+ - [The 29 best games on Game Pass](https://www.polygon.com/best-games/22372750/best-game-pass-games-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
