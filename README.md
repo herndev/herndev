@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
- - ⏩ [99.99$ &gt; 100$ !!!! BIG OFFERS](http://9gag.com/gag/aZDWm2p)
- - 👉 [Had to put some sound to it](http://9gag.com/gag/aA0VDpo)<!-- MEMES:END -->
+ - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - ⏩ [I was brutally .....](http://9gag.com/gag/a1PZKM8)
+ - 👉 [It looks like the Finnish PM is ready to make its first move with the Estonian PM](http://9gag.com/gag/arme5XV)<!-- MEMES:END -->
 
 ---
 
