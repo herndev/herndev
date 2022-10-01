@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - ⏩ [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)
- - 👉 [Iran, 1 October 2022](http://9gag.com/gag/aA0VwA9)<!-- MEMES:END -->
+ - 💣 [Answer it fellas!](http://9gag.com/gag/aBdQrQx)
+ - ⏩ [The actual crowd response to Okhlobystin speech, total silence. Versus the edited excitement on state TV. No wonder the crowd was so bleak when putin tried to `hoorah`.](http://9gag.com/gag/awZb5oW)
+ - 👉 [Ivan Okhlobystin&#39;s `Goyda` speech for the Russian Invasion of Ukraine had edited crowd cheers. Such a cringe event.](http://9gag.com/gag/aA0Vwno)<!-- MEMES:END -->
 
 ---
 
