@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla CEO Elon Musk unveils prototype of humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
- - [Watch Tesla’s 2022 AI Day event](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)
- - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla now has 160,000 customers running its Full Self Driving beta](https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer)
+ - [Ontario-based Avidbots, which makes autonomous floor cleaning robots for commercial settings, raised a $70M Series C, bringing its total funding to $107M &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/221001/p2#a221001p2)
+ - [India&#39;s market regulator tightens IPO disclosure norms after recent lackluster performance of tech startups; firms must disclose KPIs and past pricing details &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221001/p1#a221001p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
