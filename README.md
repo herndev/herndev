@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - ⏩ [`IT&#39;S MAAM!! Version 2.0](http://9gag.com/gag/aKEg2zO)
- - 👉 [I think that Putin deserves a special medal, for being probably the first dictator in history announcing and celebrating annexation of territories, while at the same time his army is in retreat on the very same territories...](http://9gag.com/gag/armeOV7)<!-- MEMES:END -->
+ - ⏩ [Note to self: don\u2019t ever drink with Medvedev the night before the ceremony.](http://9gag.com/gag/aqeZLPj)
+ - 👉 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)<!-- MEMES:END -->
 
 ---
 
