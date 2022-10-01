@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 1; $400 off 16-inch MacBook Pro, $150 off 65-inch TCL TV, $60 Amazon Fire TV Cube, more](https://appleinsider.com/articles/22/10/01/daily-deals-oct-1-400-off-16-inch-macbook-pro-150-off-65-inch-tcl-tv-60-amazon-fire-tv-cube-more?utm_medium=rss)
- - [With ANC getting so good, we need a new set of rules](https://www.androidauthority.com/anc-good-new-rules-3212156/)
- - [The Drying Up of Europe’s Great Rivers Could Be the New Normal](https://www.wired.com/story/the-drying-up-of-europes-great-rivers-could-be-the-new-normal/)<!-- TECH:END -->
+ - [The 5 Best Water Leak Detectors for Your Home](https://www.wired.com/gallery/best-water-leak-detectors/)
+ - [Microsoft Exchange Server Has a Zero-Day Problem](https://www.wired.com/story/microsoft-exchange-zero-day-cia-spies-security-roundup/)
+ - [Razer Teases a New Handheld Gaming Console](https://www.wired.com/story/razer-edge-5g-teased/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
