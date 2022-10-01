@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - ⏩ [This shot is better than all The Rings of Power](http://9gag.com/gag/aDYwzQd)
- - 👉 [I will take 1930 with 2019 Technology](http://9gag.com/gag/aXnExXd)<!-- MEMES:END -->
+ - 💣 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
+ - ⏩ [Men are brothers](http://9gag.com/gag/awZbQE1)
+ - 👉 [Hassan! Get the garlic saus.](http://9gag.com/gag/anzXM7V)<!-- MEMES:END -->
 
 ---
 
