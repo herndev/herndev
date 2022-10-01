@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 1; $400 off 16-inch MacBook Pro, $150 off 65-inch TCL TV, $60 Amazon Fire TV Cube, more](https://appleinsider.com/articles/22/10/01/daily-deals-oct-1-400-off-16-inch-macbook-pro-150-off-65-inch-tcl-tv-60-amazon-fire-tv-cube-more?utm_medium=rss)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-452-3214815/)
- - [Google Stadia Will Shut Down in 2023, All Purchases to Be Refunded     - CNET](https://www.cnet.com/tech/gaming/google-stadia-to-shut-down-in-2023-all-purchases-to-be-refunded/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)
+ - [Sources: Tencent is resetting its M&amp;A strategy, seeking to own majority or even controlling stakes in overseas targets, mainly in gaming companies in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/221001/p11#a221001p11)
+ - [The latest Pixel Watch leak shows band styles, watch faces, and more](https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
