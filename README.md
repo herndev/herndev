@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Local media: Korea&#39;s Fair Trade Commission raided Apple&#39;s Seoul offices over allegations it is charging App Store IAP fees of 33%, rather than the stated 30% &lpar;William Gallagher/AppleInsider&rpar;](http://www.techmeme.com/221001/p8#a221001p8)
- - [Forget Dynamic Island, Android should pinch iOS 16’s Focus features](https://www.androidauthority.com/android-focus-ios-3212541/)
- - [On smartphone cameras, the Seattle Mariners, and disappointment](https://www.theverge.com/2022/10/1/23379316/apple-iphone-14-pro-samsung-galaxy-s22-ultra-camera-portrait-telephoto-zoom)<!-- TECH:END -->
+ - [The best Apple Watch bands for any kind of user in 2022](https://appleinsider.com/inside/apple-watch/best/the-best-apple-watch-bands-for-any-kind-of-user-in-2022?utm_medium=rss)
+ - [As car makers cede control of their auto-operating systems to Apple and Google, the limited choice in the duopoly of smartphone OSes may soon extend to cars &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221001/p9#a221001p9)
+ - [Sonos Sub Mini review: More bass, less dough](https://appleinsider.com/articles/22/10/01/sonos-sub-mini-review-more-bass-less-dough?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
