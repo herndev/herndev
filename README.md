@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NYC-based Grow Therapy, which offers tools for mental health providers to set up virtual practices, raised a $75M Series B, bringing its total funding to $90M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/220930/p18#a220930p18)
- - [&#39;Andor&#39; Episode 4 Recap: Star Wars&#39; Rebel Heroes Move in the Shadows     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-star-wars-rebel-heroes-move-in-the-shadows/#ftag=CAD590a51e)
- - [Intel&#39;s Mobileye Files for IPO     - CNET](https://www.cnet.com/roadshow/news/intels-mobileye-files-for-ipo/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla CEO Elon Musk unveils prototype of  humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
+ - [Watch Tesla’s 2022 AI Day event](https://www.theverge.com/2022/9/30/23374542/tesla-ai-day-how-to-watch-optimus-robot-dojo-elon-musk)
+ - [NYC-based Grow Therapy, which offers tools for mental health providers to set up virtual practices, raised a $75M Series B, bringing its total funding to $90M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/220930/p18#a220930p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
