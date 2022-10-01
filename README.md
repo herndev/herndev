@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Entire US in the recent years:](http://9gag.com/gag/az2b0gB)
- - ⏩ [Go away](http://9gag.com/gag/aEqG7Ee)
- - 👉 [Skeletor strikes again](http://9gag.com/gag/avQZnZX)<!-- MEMES:END -->
+ - 💣 [.....](http://9gag.com/gag/a4o4eXw)
+ - ⏩ [Modern Educational establishments are just NPC factories.](http://9gag.com/gag/aOxyVw3)
+ - 👉 [This dog saved his friend](http://9gag.com/gag/aqeZ5Vj)<!-- MEMES:END -->
 
 ---
 
