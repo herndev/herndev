@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla now has 160,000 customers running its Full Self Driving beta](https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer)
- - [Ontario-based Avidbots, which makes autonomous floor cleaning robots for commercial settings, raised a $70M Series C, bringing its total funding to $107M &lpar;Meagan Simpson/BetaKit&rpar;](http://www.techmeme.com/221001/p2#a221001p2)
- - [India&#39;s market regulator tightens IPO disclosure norms after recent lackluster performance of tech startups; firms must disclose KPIs and past pricing details &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221001/p1#a221001p1)<!-- TECH:END -->
+ - [Tesla CEO Elon Musk unveils prototype humanoid Optimus robot](https://www.theverge.com/2022/9/30/23374729/tesla-bot-ai-day-robot-elon-musk-prototype-optimus-humanoid)
+ - [Top Foldable Phones for 2022: Motorola Razr 2020, Galaxy Flip, Galaxy Fold 2 and More     - CNET](https://www.cnet.com/tech/mobile/best-foldable-phones/#ftag=CAD590a51e)
+ - [Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027     - CNET](https://www.cnet.com/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
