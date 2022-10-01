@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tesla unveils bipedal robot that is not a guy in a morph suit](https://www.pcgamer.com/tesla-unveils-bipedal-robot-that-is-not-a-guy-in-a-morph-suit)
  - [Wolverine in Deadpool 3 sounds like an apology for the worst X-Men movie](https://www.polygon.com/23380553/deadpool-3-wolverine-x-men-origins-ryan-reynolds-hugh-jackman)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [FIFA 23 is a surprising change of pace for the franchise](https://www.polygon.com/reviews/23380806/fifa-23-review-hypermotion-2-fut-chemistry)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
