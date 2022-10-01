@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)
- - [Sources: Tencent is resetting its M&amp;A strategy, seeking to own majority or even controlling stakes in overseas targets, mainly in gaming companies in Europe &lpar;Reuters&rpar;](http://www.techmeme.com/221001/p11#a221001p11)
- - [The latest Pixel Watch leak shows band styles, watch faces, and more](https://www.theverge.com/2022/10/1/23381970/pixel-watch-leak-google-band-style-colors-watch-faces-fitbit)<!-- TECH:END -->
+ - [6 Best Vitamins for Flu Season 2022     - CNET](https://www.cnet.com/health/nutrition/best-vitamins-for-flu-season/#ftag=CAD590a51e)
+ - [7 Great AirPods Pro Alternatives That Cost a Lot Less     - CNET](https://www.cnet.com/tech/mobile/best-airpods-pro-alternatives/#ftag=CAD590a51e)
+ - [I rode an electric bike to work, and here’s what I learned](https://www.androidauthority.com/what-i-learned-from-riding-an-electric-bike-3202694/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
