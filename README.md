@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily deals Oct. 1; $400 off 16-inch MacBook Pro, $150 off 65-inch TCL TV, $60 Amazon Fire TV Cube, more](https://appleinsider.com/articles/22/10/01/daily-deals-oct-1-400-off-16-inch-macbook-pro-150-off-65-inch-tcl-tv-60-amazon-fire-tv-cube-more?utm_medium=rss)
  - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-452-3214815/)
- - [Sources: TikTok plans to launch live shopping in the US in partnership with TalkShopLive; TikTok&#39;s in-house e-commerce trial in the UK struggled to take off &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/221001/p10#a221001p10)
- - [TikTok’s reportedly still planning to launch live shopping in the US](https://www.theverge.com/2022/10/1/23381828/tiktok-live-shopping-planning-talkshoplive-us-north-america)<!-- TECH:END -->
+ - [Google Stadia Will Shut Down in 2023, All Purchases to Be Refunded     - CNET](https://www.cnet.com/tech/gaming/google-stadia-to-shut-down-in-2023-all-purchases-to-be-refunded/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
