@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Symantec details an ongoing campaign by the Witchetty hacking group, potentially tied to a China-backed threat actor, that hides malware in a Windows logo image &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221001/p13#a221001p13)
- - [Boo! Check out the new and upcoming Halloween/horror streaming shows and movies](https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/)
- - [Best Lego Kits for Car Lovers for 2022     - CNET](https://www.cnet.com/roadshow/news/best-lego-kits-for-car-lovers/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bruce Willis refutes a report that he sold his digital likeness rights to Deepcake, which confirms and says the company created his &quot;digital twin&quot; for 2021 ads &lpar;Ryan Gajewski/The Hollywood Reporter&rpar;](http://www.techmeme.com/221001/p14#a221001p14)
+ - [NASA’s Artemis I launch has officially been delayed until November](https://www.theverge.com/2022/10/1/23382367/artemis-1-launch-nasa-officially-delayed-until-november)
+ - [Best Radar Detectors for 2022     - CNET](https://www.cnet.com/roadshow/news/best-radar-detector/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
