@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explained how to stop rolling out F1 22 Game and Controls Settings](https://game-rant-2022.blogspot.com/2022/09/explained-how-to-stop-rolling-out-f1-22.html)
- - [HORI Fighting Stick Alpha &lpar;PS5&rpar; review: Get ready for the next fight](https://game-rant-2022.blogspot.com/2022/09/hori-fighting-stick-alpha-ps5-review.html)
- - [San Jose Sharks could miss Barabanov and Nutivaara for opener](https://game-rant-2022.blogspot.com/2022/09/san-jose-sharks-could-miss-barabanov.html)<!-- GAME:END -->
+ - [Bush-Era Torture Apologist Steps Down From Call Of Duty Publisher](https://kotaku.com/call-duty-mwii-frances-townsend-activision-blizzard-1849604584)
+ - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)
+ - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
