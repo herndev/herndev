@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hocus Pocus 2, Rob Zombie’s The Munsters, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/9/30/23373312/new-movies-watch-hocus-pocus-2-disney-plus-the-munsters-netflix)
- - [All the cool Hunt: Showdown players are sending kamikaze beetles to kill their enemies](https://www.pcgamer.com/hunt-stalker-beetle-sticky-bomb)
- - [Activision Blizzard Announces New LGBTQ+ Friendly Overwatch 2 Competitive And Shoutcaster Programs](https://kotaku.com/overwatch-2-activision-blizzard-lgbtq-competitive-1849603969)<!-- GAME:END -->
+ - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)
+ - [Smile director Parker Finn unpacks the movie’s many endings](https://www.polygon.com/23374118/smile-ending-meaning-director-interview)
+ - [12 upcoming games without names that we&#39;re excited about](https://www.pcgamer.com/12-upcoming-games-without-names-that-were-excited-about)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
