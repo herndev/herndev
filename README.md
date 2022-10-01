@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
- - ⏩ [30.9.2022 there was referendum in St. Petersburg to be part of Finland. 99,35% of citizens voted yes](http://9gag.com/gag/a04PLxO)
- - 👉 [This is the money dog, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/aQEpn28)<!-- MEMES:END -->
+ - 💣 [Still D.R.E.](http://9gag.com/gag/aEqGGWp)
+ - ⏩ [Feminist\u2026.&lpar;YIKES&rpar;](http://9gag.com/gag/aKEgB0N)
+ - 👉 [\ud83c\uddf3\ud83c\uddf4 \ud83c\uddee\ud83c\uddf9 \ud83c\uddec\ud83c\udded \ud83c\uddec\ud83c\uddf2 \ud83c\uddea\ud83c\uddea \ud83c\uddf7\ud83c\uddf4?](http://9gag.com/gag/aeQ3Ggp)<!-- MEMES:END -->
 
 ---
 
