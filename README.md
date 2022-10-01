@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
- - ⏩ [Iran, 1 October 2022](http://9gag.com/gag/aA0VwA9)
- - 👉 [The struggle is real](http://9gag.com/gag/aL1QD6g)<!-- MEMES:END -->
+ - 💣 [And now I can\u2019t I see it or ignore it](http://9gag.com/gag/ago0Geg)
+ - ⏩ [Never underestimate your enemy.](http://9gag.com/gag/ago0q4q)
+ - 👉 [The way he ducked lmao](http://9gag.com/gag/a3Zdq5m)<!-- MEMES:END -->
 
 ---
 
