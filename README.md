@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan says it will provide Micron a subsidy of up to ~$322M to help the company produce advanced memory chips at a Hiroshima factory &lpar;Mari Yamaguchi/Associated Press&rpar;](http://www.techmeme.com/220930/p17#a220930p17)
- - [SEC filing: Intel&#39;s self-driving car unit Mobileye files for an IPO and reports a H1 2022 revenue of $854M, up 21% from H1 2021 &lpar;Reuters&rpar;](http://www.techmeme.com/220930/p16#a220930p16)
- - [Warner Bros. Discovery is ‘absolutely not for sale,’ says CEO](https://www.theverge.com/2022/9/30/23381053/warner-bros-discovery-comcast-sale-merger-hbo-max)<!-- TECH:END -->
+ - [NYC-based Grow Therapy, which offers tools for mental health providers to set up virtual practices, raised a $75M Series B, bringing its total funding to $90M &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/220930/p18#a220930p18)
+ - [&#39;Andor&#39; Episode 4 Recap: Star Wars&#39; Rebel Heroes Move in the Shadows     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-star-wars-rebel-heroes-move-in-the-shadows/#ftag=CAD590a51e)
+ - [Intel&#39;s Mobileye Files for IPO     - CNET](https://www.cnet.com/roadshow/news/intels-mobileye-files-for-ipo/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
