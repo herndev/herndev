@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gender Reveal Party, enough said](http://9gag.com/gag/a9qMPOj)
- - ⏩ [Note to self: don\u2019t ever drink with Medvedev the night before the ceremony.](http://9gag.com/gag/aqeZLPj)
- - 👉 [Guess which animal is the most educated...](http://9gag.com/gag/ago0qK6)<!-- MEMES:END -->
+ - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - ⏩ [London rises up from the ashes](http://9gag.com/gag/a4o9ZL6)
+ - 👉 [Iran, 1 October 2022](http://9gag.com/gag/aA0VwA9)<!-- MEMES:END -->
 
 ---
 
