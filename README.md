@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Make Discord Look and Feel Like Slack](https://www.wired.com/story/how-to-make-discord-look-feel-like-slack/)
- - [How to Watch NFL Football on a Streaming Service](https://www.wired.com/story/how-to-stream-nfl-football/)
- - [I Uncovered an Army of Fake Men on Hinge](https://www.wired.com/story/i-uncovered-an-army-of-fake-men-on-hinge/)<!-- TECH:END -->
+ - [Daily deals Oct. 1; $400 off 16-inch MacBook Pro, $150 off 65-inch TCL TV, $60 Amazon Fire TV Cube, more](https://appleinsider.com/articles/22/10/01/daily-deals-oct-1-400-off-16-inch-macbook-pro-150-off-65-inch-tcl-tv-60-amazon-fire-tv-cube-more?utm_medium=rss)
+ - [With ANC getting so good, we need a new set of rules](https://www.androidauthority.com/anc-good-new-rules-3212156/)
+ - [The Drying Up of Europe’s Great Rivers Could Be the New Normal](https://www.wired.com/story/the-drying-up-of-europes-great-rivers-could-be-the-new-normal/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
