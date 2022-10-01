@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [.....](http://9gag.com/gag/a4o4eXw)
- - ⏩ [Modern Educational establishments are just NPC factories.](http://9gag.com/gag/aOxyVw3)
- - 👉 [This dog saved his friend](http://9gag.com/gag/aqeZ5Vj)<!-- MEMES:END -->
+ - 💣 [I am the law! .. F**k the system](http://9gag.com/gag/aKEz066)
+ - ⏩ [Skeletor strikes again](http://9gag.com/gag/avQZnZX)
+ - 👉 [Know your place trash. Try #2 to upload, first was deleted](http://9gag.com/gag/aXnEwdP)<!-- MEMES:END -->
 
 ---
 
