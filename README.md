@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Symantec details an ongoing campaign by the Witchetty hacking group, potentially tied to a China-backed threat actor, that hides malware in a Windows logo image &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221001/p13#a221001p13)
  - [Boo! Check out the new and upcoming Halloween/horror streaming shows and movies](https://www.androidauthority.com/new-halloween-streaming-shows-and-movies-3212854/)
- - [Hasbro Reveals New Indiana Jones Toy so You Can Raid the Lost Ark     - CNET](https://www.cnet.com/culture/entertainment/do-not-publish-hasbro-reveals-new-indiana-jones-toy-so-you-can-raid-the-lost-ark/#ftag=CAD590a51e)
- - [Best Cold-Brew Coffee Maker for 2022: Oxo, Takeya, Filtron, Espro and More     - CNET](https://www.cnet.com/news/best-cold-brew-coffee-maker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Lego Kits for Car Lovers for 2022     - CNET](https://www.cnet.com/roadshow/news/best-lego-kits-for-car-lovers/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
