@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the research project tracking people at risk for suicide using data from smartphones and wearables to identify periods of high danger and intervene &lpar;Ellen Barry/New York Times&rpar;](http://www.techmeme.com/221001/p6#a221001p6)
  - [Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027     - CNET](https://www.cnet.com/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/#ftag=CAD590a51e)
- - [Singapore will not permit crypto ads at the track and in local areas at this weekend&#39;s F1 Singapore GP, underscoring a changing regulatory stance toward crypto &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221001/p5#a221001p5)
- - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 drops to $35.99](https://appleinsider.com/articles/22/10/01/lowest-price-ever-microsoft-office-for-mac-home-business-2021-drops-to-3599?utm_medium=rss)<!-- TECH:END -->
+ - [Singapore will not permit crypto ads at the track and in local areas at this weekend&#39;s F1 Singapore GP, underscoring a changing regulatory stance toward crypto &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221001/p5#a221001p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
