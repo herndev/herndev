@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 469 answer and hint: Saturday, October 1](https://www.pcgamer.com/todays-wordle-469-answer-hint)
  - [Bush-Era Torture Apologist Steps Down From Call Of Duty Publisher](https://kotaku.com/call-duty-mwii-frances-townsend-activision-blizzard-1849604584)
- - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)
- - [This cool Metal Gear Solid throwback trades rocket launchers for sponge bullets](https://www.pcgamer.com/this-cool-metal-gear-solid-throwback-trades-rocket-launchers-for-sponge-bullets)<!-- GAME:END -->
+ - [The Rings of Power’s best character showed up, kicked ass, and died](https://www.polygon.com/23379409/rings-of-power-big-orc-arondir-fight-borc-smash)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
