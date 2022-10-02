@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Definitely not a ghost cleaning a mirror](http://9gag.com/gag/aBdQ1PQ)
- - ⏩ [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
- - 👉 [Holup, Jeffrey Dahmer&#39;s Practical Advice...!](http://9gag.com/gag/aMEbKmx)<!-- MEMES:END -->
+ - 💣 [This is the money bird. He flies right past money dog and money cat. Upvote in the next 24 hours and money will come your way.](http://9gag.com/gag/aVbQY2n)
+ - ⏩ [It&#39;s everywhere now. Persian women&#39;s hair came out victorious vs 43 years of Islamic Republic](http://9gag.com/gag/a3ZdEA8)
+ - 👉 [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)<!-- MEMES:END -->
 
 ---
 
