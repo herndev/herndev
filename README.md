@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)
- - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-come-to-disney-plus/#ftag=CAD590a51e)
- - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)<!-- TECH:END -->
+ - [A new Facebook Marketplace rule could make it harder to find legit car listings](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)
+ - [Tesla 3Q Deliveries Rebound -- but Not as Much as Analysts Expected     - CNET](https://www.cnet.com/roadshow/news/tesla-3q-deliveries-rebound-but-not-as-much-as-analysts-expected/#ftag=CAD590a51e)
+ - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
