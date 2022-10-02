@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)
- - [How much time do you spend on MMO character fashion?](https://www.pcgamer.com/how-much-time-do-you-spend-on-mmo-character-fashion)
- - [Red Dead Online&#39;s biggest superfan may lose 6,000 hours of progress on Stadia](https://www.pcgamer.com/red-dead-onlines-biggest-superfan-may-lose-6000-hours-of-progress-on-stadia)<!-- GAME:END -->
+ - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)
+ - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)
+ - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
