@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel’s self-driving company Mobileye files for an IPO](https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo)
- - [Apple names new VPs for Maps, Services, Silicon](https://appleinsider.com/articles/22/10/02/apple-names-new-vps-for-maps-services-silicon?utm_medium=rss)
- - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Fitbit integration will make or break the Pixel Watch](https://www.androidauthority.com/pixel-watch-fitbit-3215092/)
+ - [Apple SIM for iPad cannot be used to activate cellular plans anymore](https://appleinsider.com/articles/22/10/02/apple-sim-for-ipad-cannot-be-used-to-activate-cellular-plans-anymore?utm_medium=rss)
+ - [Instagram food photography is becoming more realistic, driven by generational changes, more diverse food creators, and a frustration with the curation culture &lpar;Bettina Makalintal/Eater&rpar;](http://www.techmeme.com/221002/p5#a221002p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
