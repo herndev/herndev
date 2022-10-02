@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but still good](http://9gag.com/gag/az2Lr6N)
- - ⏩ [What a unique invention](http://9gag.com/gag/aOxyrqv)
- - 👉 [Mission accomplished!](http://9gag.com/gag/aZDWLmW)<!-- MEMES:END -->
+ - 💣 [What\u2019s holding you back?](http://9gag.com/gag/a2KPr6Y)
+ - ⏩ [This is the money bird. He flies right past money dog and money cat. Upvote in the next 24 hours and money will come your way.](http://9gag.com/gag/aVbQY2n)
+ - 👉 [This amazing greenscreen dress](http://9gag.com/gag/a8qb38O)<!-- MEMES:END -->
 
 ---
 
