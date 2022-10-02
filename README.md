@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
- - ⏩ [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
- - 👉 [Have a nice day peeps!](http://9gag.com/gag/aEqG85M)<!-- MEMES:END -->
+ - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - ⏩ [Guy punches a female conductor on a Russian bus only to get a beating and face full of mace by another passenger.](http://9gag.com/gag/aBdQnv2)
+ - 👉 [True words](http://9gag.com/gag/aA0V0Yd)<!-- MEMES:END -->
 
 ---
 
