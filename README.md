@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)
- - [Casio’s Flagship Keyboard Has a Voice of Its Own](https://www.wired.com/review/casio-ct-s1000v/)
- - [A look at the fake online traffic business, as some ad exchanges look the other way and advertisers are embarrassed to admit they purchased fraudulent inventory &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221002/p4#a221002p4)<!-- TECH:END -->
+ - [Google’s new Pixel ecosystem should look to Samsung for inspiration](https://www.androidauthority.com/samsung-ecosystem-blueprint-google-3214063/)
+ - [Apple&#39;s Touch ID is probably never coming back to iPhone](https://appleinsider.com/articles/22/10/02/apples-touch-id-is-probably-never-coming-back-to-iphone?utm_medium=rss)
+ - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
