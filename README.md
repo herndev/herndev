@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lyman](http://9gag.com/gag/aKEgd8Z)
- - ⏩ [Fading smile](http://9gag.com/gag/a3ZdqeQ)
- - 👉 [Cozy](http://9gag.com/gag/aVbQ078)<!-- MEMES:END -->
+ - 💣 [Keeping up the moral. A Ukrainian military man plays the sopilka in the trenches](http://9gag.com/gag/axo27RY)
+ - ⏩ [Science b*tch ! &lpar;Read comments&rpar;](http://9gag.com/gag/a8qbo3Z)
+ - 👉 [O Panzer of the lake, what is your wisdom?](http://9gag.com/gag/awZboYR)<!-- MEMES:END -->
 
 ---
 
