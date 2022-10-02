@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of David Mills, who created the Network Time Protocol in the 1980s, as about two dozen Internet Engineering Task Force contributors work toward NTPv5 &lpar;Nate Hopper/New Yorker&rpar;](http://www.techmeme.com/221001/p15#a221001p15)
- - [&#39;Andor&#39; Episode 4 Recap: Deep Cut Star Wars Easter Eggs, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CAD590a51e)
- - [NASA Says Hurricane Didn&#39;t Hurt Artemis I Hardware, Sets New Launch Window     - CNET](https://www.cnet.com/science/space/nasa-says-hurricane-ian-didnt-hurt-artemis-i-hardware-sets-new-launch-window/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The UN Food Programme and the WHO say a nearly two-year internet and phone shutdown in Ethiopia&#39;s Tigray region is hampering aid delivery and health monitoring &lpar;Zecharias Zelalem/Context&rpar;](http://www.techmeme.com/221002/p1#a221002p1)
+ - [SoftBank, which bought a 10% stake in Twilio competitor Sinch in November 2020, sells its remaining 5% stake; Sinch&#39;s stock has fallen 93% since September 2021 &lpar;Anton Wilen/Bloomberg&rpar;](http://www.techmeme.com/221001/p17#a221001p17)
+ - [Bengaluru-based Juno, which works with US payroll services to offer checking accounts that give users their paychecks in digital tokens, raised an $18M Series A &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221001/p16#a221001p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
