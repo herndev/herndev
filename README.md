@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And now I can\u2019t I see it or ignore it](http://9gag.com/gag/ago0Geg)
+ - 💣 [This is the money dog, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/aQEpn28)
  - ⏩ [Delicious](http://9gag.com/gag/aYVpY5v)
- - 👉 [Nokia n91 was shipped with a physical hard drive. here&#39;s how it looked](http://9gag.com/gag/aEqGgnG)<!-- MEMES:END -->
+ - 👉 [When schoolboys are exhausted](http://9gag.com/gag/aL1Q08W)<!-- MEMES:END -->
 
 ---
 
