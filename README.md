@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This King of the Hill Doom mod brings about Hank on Earth](https://www.pcgamer.com/this-king-of-the-hill-doom-mod-brings-about-hank-on-earth)
  - [Gundam Evolution welcomes Gundam and Overwatch fans with big metal arms](https://www.polygon.com/23373724/gundam-evolution-impressions-overwatch)
- - [You can add Jedi Academy to the list of audacious VR ports](https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports)
- - [Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama](https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures)<!-- GAME:END -->
+ - [You can add Jedi Academy to the list of audacious VR ports](https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
