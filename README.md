@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keeping up the moral. A Ukrainian military man plays the sopilka in the trenches](http://9gag.com/gag/axo27RY)
- - ⏩ [Science b*tch ! &lpar;Read comments&rpar;](http://9gag.com/gag/a8qbo3Z)
- - 👉 [O Panzer of the lake, what is your wisdom?](http://9gag.com/gag/awZboYR)<!-- MEMES:END -->
+ - 💣 [Mark Hamill is a legend. Talked with Zelenskyy and then posted this](http://9gag.com/gag/avQZo8W)
+ - ⏩ [Uno reverse](http://9gag.com/gag/aBdQ051)
+ - 👉 [Roses are red, putin is fuhrer](http://9gag.com/gag/a2KPRW1)<!-- MEMES:END -->
 
 ---
 
