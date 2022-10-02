@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fading smile](http://9gag.com/gag/a3ZdqeQ)
- - ⏩ [Hassan! Get the garlic saus.](http://9gag.com/gag/anzXM7V)
- - 👉 [FIFA Fair play nominee](http://9gag.com/gag/aVbQ3LK)<!-- MEMES:END -->
+ - 💣 [What a unique invention](http://9gag.com/gag/aOxyrqv)
+ - ⏩ [Where did it go, into space?](http://9gag.com/gag/ap9o2AE)
+ - 👉 [NATO &lt;3](http://9gag.com/gag/a4o97wp)<!-- MEMES:END -->
 
 ---
 
