@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Facebook Marketplace rule could make it harder to find legit car listings](https://www.theverge.com/2022/10/2/23383370/new-facebook-marketplace-rule-make-harder-find-legit-car-listings-meta)
- - [Tesla 3Q Deliveries Rebound -- but Not as Much as Analysts Expected     - CNET](https://www.cnet.com/roadshow/news/tesla-3q-deliveries-rebound-but-not-as-much-as-analysts-expected/#ftag=CAD590a51e)
- - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)
+ - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)
+ - [&#39;Andor&#39; Episode 4 Recap: Awesome Star Wars Easter Eggs and References, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
