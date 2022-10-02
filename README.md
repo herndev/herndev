@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula 1 2022: How to Watch the Singapore Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-singapore-grand-prix-today/#ftag=CAD590a51e)
  - [JD.com founder Richard Liu agreed to settle a US lawsuit filed by a former University of Minnesota student who alleged he raped her in 2018 &lpar;Amy Forliti/Associated Press&rpar;](http://www.techmeme.com/221002/p2#a221002p2)
- - [Taco Bell to Bring Back One of Its Most Requested Discontinued Items     - CNET](https://www.cnet.com/culture/taco-bell-will-bring-back-one-of-its-most-requested-discontinued-items/#ftag=CAD590a51e)
- - [The UN Food Programme and the WHO say a nearly two-year internet and phone shutdown in Ethiopia&#39;s Tigray region is hampering aid delivery and health monitoring &lpar;Zecharias Zelalem/Context&rpar;](http://www.techmeme.com/221002/p1#a221002p1)<!-- TECH:END -->
+ - [Taco Bell to Bring Back One of Its Most Requested Discontinued Items     - CNET](https://www.cnet.com/culture/taco-bell-will-bring-back-one-of-its-most-requested-discontinued-items/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
