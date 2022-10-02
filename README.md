@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
- - ⏩ [Men are brothers](http://9gag.com/gag/awZbQE1)
- - 👉 [Hassan! Get the garlic saus.](http://9gag.com/gag/anzXM7V)<!-- MEMES:END -->
+ - 💣 [What\u2019s holding you back?](http://9gag.com/gag/a2KPr6Y)
+ - ⏩ [Got removed, 3.5 k likes. Still love the carpet](http://9gag.com/gag/a7qKMqm)
+ - 👉 [60 confirmed dead after a football match between Arema vs Persebaya in Indonesian league #RIP](http://9gag.com/gag/aYVpgbx)<!-- MEMES:END -->
 
 ---
 
