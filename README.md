@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s new Pixel ecosystem should look to Samsung for inspiration](https://www.androidauthority.com/samsung-ecosystem-blueprint-google-3214063/)
- - [Apple&#39;s Touch ID is probably never coming back to iPhone](https://appleinsider.com/articles/22/10/02/apples-touch-id-is-probably-never-coming-back-to-iphone?utm_medium=rss)
- - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)<!-- TECH:END -->
+ - [Intel’s self-driving company Mobileye files for an IPO](https://www.theverge.com/2022/10/2/23383260/intel-self-driving-company-mobileye-files-for-ipo)
+ - [Apple names new VPs for Maps, Services, Silicon](https://appleinsider.com/articles/22/10/02/apple-names-new-vps-for-maps-services-silicon?utm_medium=rss)
+ - [How to reset AirPods and AirPods Pro](https://appleinsider.com/inside/airpods-pro/tips/how-to-reset-airpods-and-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
