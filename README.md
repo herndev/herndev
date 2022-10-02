@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mark Hamill is a legend. Talked with Zelenskyy and then posted this](http://9gag.com/gag/avQZo8W)
- - ⏩ [Uno reverse](http://9gag.com/gag/aBdQ051)
- - 👉 [Roses are red, putin is fuhrer](http://9gag.com/gag/a2KPRW1)<!-- MEMES:END -->
+ - 💣 [Pro fisherman caught cheating at tournament](http://9gag.com/gag/a4o9G7w)
+ - ⏩ [Man throws chair at 66 year old diner before stealing his phone](http://9gag.com/gag/aREg0Gy)
+ - 👉 [Be cautious](http://9gag.com/gag/aYVpyNN)<!-- MEMES:END -->
 
 ---
 
