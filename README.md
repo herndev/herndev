@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 470 answer and hint: Sunday, October 2](https://www.pcgamer.com/todays-wordle-470-answer-hint)
  - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)
- - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)
- - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)<!-- GAME:END -->
+ - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
