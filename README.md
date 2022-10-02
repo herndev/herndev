@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OWC Envoy Pro mini review: Enough speed in a small package](https://appleinsider.com/articles/22/10/02/owc-envoy-pro-mini-review-enough-speed-in-a-small-package?utm_medium=rss)
- - [Craig Federighi, Alan Dye talk about Dynamic Island&#39;s creation](https://appleinsider.com/articles/22/10/02/craig-federighi-alan-dye-talk-about-dynamic-islands-creation?utm_medium=rss)
- - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)<!-- TECH:END -->
+ - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)
+ - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)
+ - [Sources: Celsius founder Alex Mashinsky withdrew $10M from the crypto lender weeks before freezing customer accounts; one source says $8M was used to pay taxes &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/221002/p7#a221002p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
