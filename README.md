@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)
- - [A look at AI chatbots that seek to improve mental health, like Wysa and Woebot, which have millions of users despite scant research to support their efficacy &lpar;Grace Browne/Wired&rpar;](http://www.techmeme.com/221002/p6#a221002p6)
- - [OWC Envoy Pro mini review: Enough speed in a small package](https://appleinsider.com/articles/22/10/02/owc-envoy-pro-mini-review-enough-speed-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
+ - [OWC Envoy Pro mini review: Enough speed in a small package](https://appleinsider.com/articles/22/10/02/owc-envoy-pro-mini-review-enough-speed-in-a-small-package?utm_medium=rss)
+ - [Craig Federighi, Alan Dye talk about Dynamic Island&#39;s creation](https://appleinsider.com/articles/22/10/02/craig-federighi-alan-dye-talk-about-dynamic-islands-creation?utm_medium=rss)
+ - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
