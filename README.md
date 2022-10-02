@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but still good](http://9gag.com/gag/az2Lr6N)
- - ⏩ [Just a bit of instant karma](http://9gag.com/gag/a04PQBv)
- - 👉 [Delicious](http://9gag.com/gag/aYVpY5v)<!-- MEMES:END -->
+ - 💣 [And now I can\u2019t I see it or ignore it](http://9gag.com/gag/ago0Geg)
+ - ⏩ [Delicious](http://9gag.com/gag/aYVpY5v)
+ - 👉 [Nokia n91 was shipped with a physical hard drive. here&#39;s how it looked](http://9gag.com/gag/aEqGgnG)<!-- MEMES:END -->
 
 ---
 
