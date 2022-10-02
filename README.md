@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a unique invention](http://9gag.com/gag/aOxyrqv)
- - ⏩ [Where did it go, into space?](http://9gag.com/gag/ap9o2AE)
- - 👉 [NATO &lt;3](http://9gag.com/gag/a4o97wp)<!-- MEMES:END -->
+ - 💣 [Old but still good](http://9gag.com/gag/az2Lr6N)
+ - ⏩ [What a unique invention](http://9gag.com/gag/aOxyrqv)
+ - 👉 [Mission accomplished!](http://9gag.com/gag/aZDWLmW)<!-- MEMES:END -->
 
 ---
 
