@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [10 spooky modern horror books to read this fall](https://www.polygon.com/23351266/best-new-horror-books-read)
- - [Today&#39;s Wordle 470 answer and hint: Sunday, October 2](https://www.pcgamer.com/todays-wordle-470-answer-hint)
- - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)<!-- GAME:END -->
+ - [Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama](https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [10 spooky modern horror books to read this fall](https://www.polygon.com/23351266/best-new-horror-books-read)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
