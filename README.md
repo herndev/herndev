@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Online&#39;s biggest superfan may lose 6,000 hours of progress on Stadia](https://www.pcgamer.com/red-dead-onlines-biggest-superfan-may-lose-6000-hours-of-progress-on-stadia)
- - [Founding member of Disco Elysium studio claims core devs &#39;involuntarily&#39; left the company](https://www.pcgamer.com/founding-member-of-disco-elysium-developer-claims-core-team-members-involuntarily-left-the-company)
- - [Tesla unveils bipedal robot that is not a guy in a morph suit](https://www.pcgamer.com/tesla-unveils-bipedal-robot-that-is-not-a-guy-in-a-morph-suit)<!-- GAME:END -->
+ - [The Shivah had an awesomely rabbinical take on Monkey Island&#39;s insult sword-fighting](https://www.pcgamer.com/saturday-crapshoot-the-shivah)
+ - [How much time do you spend on MMO character fashion?](https://www.pcgamer.com/how-much-time-do-you-spend-on-mmo-character-fashion)
+ - [Red Dead Online&#39;s biggest superfan may lose 6,000 hours of progress on Stadia](https://www.pcgamer.com/red-dead-onlines-biggest-superfan-may-lose-6000-hours-of-progress-on-stadia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
