@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama](https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [10 spooky modern horror books to read this fall](https://www.polygon.com/23351266/best-new-horror-books-read)<!-- GAME:END -->
+ - [Gundam Evolution welcomes Gundam and Overwatch fans with big metal arms](https://www.polygon.com/23373724/gundam-evolution-impressions-overwatch)
+ - [You can add Jedi Academy to the list of audacious VR ports](https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports)
+ - [Moonbreaker blends Warhammer love with Brandon Sanderson lore and an audio drama](https://www.polygon.com/23381065/moonbreaker-preview-brandon-sanderson-painting-miniatures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
