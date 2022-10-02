@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the money dog, upvote in the next 24 hours and money will come your way](http://9gag.com/gag/aQEpn28)
- - ⏩ [Delicious](http://9gag.com/gag/aYVpY5v)
- - 👉 [When schoolboys are exhausted](http://9gag.com/gag/aL1Q08W)<!-- MEMES:END -->
+ - 💣 [Lyman](http://9gag.com/gag/aKEgd8Z)
+ - ⏩ [Fading smile](http://9gag.com/gag/a3ZdqeQ)
+ - 👉 [Cozy](http://9gag.com/gag/aVbQ078)<!-- MEMES:END -->
 
 ---
 
