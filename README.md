@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - ⏩ [Why](http://9gag.com/gag/ago0gr1)
- - 👉 [90&#39;s memories..](http://9gag.com/gag/ap9og5M)<!-- MEMES:END -->
+ - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
+ - ⏩ [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
+ - 👉 [Have a nice day peeps!](http://9gag.com/gag/aEqG85M)<!-- MEMES:END -->
 
 ---
 
