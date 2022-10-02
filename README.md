@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard exec who called harassment lawsuit &#39;distorted and untrue&#39; steps down from position](https://www.pcgamer.com/activision-blizzard-exec-who-called-harassment-lawsuit-distorted-and-untrue-steps-down-from-position)
  - [This King of the Hill Doom mod brings about Hank on Earth](https://www.pcgamer.com/this-king-of-the-hill-doom-mod-brings-about-hank-on-earth)
- - [Gundam Evolution welcomes Gundam and Overwatch fans with big metal arms](https://www.polygon.com/23373724/gundam-evolution-impressions-overwatch)
- - [You can add Jedi Academy to the list of audacious VR ports](https://www.pcgamer.com/you-can-add-jedi-academy-to-the-list-of-audacious-vr-ports)<!-- GAME:END -->
+ - [Gundam Evolution welcomes Gundam and Overwatch fans with big metal arms](https://www.polygon.com/23373724/gundam-evolution-impressions-overwatch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
