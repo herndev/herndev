@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a unique invention](http://9gag.com/gag/aOxyrqv)
- - ⏩ [\u00a0\u00a0\u00a0\u00a0](http://9gag.com/gag/aOxy7K6)
- - 👉 [Ooo no](http://9gag.com/gag/aqeZnAZ)<!-- MEMES:END -->
+ - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
+ - ⏩ [Commander-in-chief of the persian army: ` if islamic republic and irgc forced do not stop their brutality against persian protestors, the army will intervene as protector of people and national intrests`](http://9gag.com/gag/awZbBrx)
+ - 👉 [Spooktober](http://9gag.com/gag/aZDWydp)<!-- MEMES:END -->
 
 ---
 
