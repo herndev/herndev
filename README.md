@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Great moments in PC gaming: Casual ghost-hunting with friends in Phasmophobia](https://www.pcgamer.com/great-moments-in-pc-gaming-casually-ghost-hunting-with-friends-in-phasmophobia)
- - [It&#39;s bite-size Vampire Survivors in Slay the Spire&#39;s framework in Rogue: Genesia](https://www.pcgamer.com/its-bite-size-vampire-survivors-in-slay-the-spires-framework-in-rogue-genesia)
- - [Activision Blizzard exec who called harassment lawsuit &#39;distorted and untrue&#39; steps down from position](https://www.pcgamer.com/activision-blizzard-exec-who-called-harassment-lawsuit-distorted-and-untrue-steps-down-from-position)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
+ - [First Darktide character spotlight shows off the cultist-carving zealot preacher](https://www.pcgamer.com/first-darktide-character-spotlight-shows-off-the-cultist-carving-zealot-preacher)
+ - [Great moments in PC gaming: Casual ghost-hunting with friends in Phasmophobia](https://www.pcgamer.com/great-moments-in-pc-gaming-casually-ghost-hunting-with-friends-in-phasmophobia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
