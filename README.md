@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No one&#39;s read it](http://9gag.com/gag/anzX1Db)
- - ⏩ [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)
- - 👉 [I&#39;m something of a hornylogist myself](http://9gag.com/gag/a8qb1j3)<!-- MEMES:END -->
+ - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - ⏩ [Why](http://9gag.com/gag/ago0gr1)
+ - 👉 [90&#39;s memories..](http://9gag.com/gag/ap9og5M)<!-- MEMES:END -->
 
 ---
 
