@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get CompTIA, AWS and Cisco Certified With This $35 Training Bundle     - CNET](https://www.cnet.com/deals/comptia-aws-cisco-2022-certification-bundle/#ftag=CAD590a51e)
- - [B&amp;H slashes MacBook Pro prices further, save up to $700](https://appleinsider.com/articles/22/09/30/bh-slashes-macbook-pro-prices-further-save-up-to-700?utm_medium=rss)
- - [Coinbase paused transactions in US for hours to address bank transfer issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)<!-- TECH:END -->
+ - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)
+ - [A look at AI chatbots that seek to improve mental health, like Wysa and Woebot, which have millions of users despite scant research to support their efficacy &lpar;Grace Browne/Wired&rpar;](http://www.techmeme.com/221002/p6#a221002p6)
+ - [OWC Envoy Pro mini review: Enough speed in a small package](https://appleinsider.com/articles/22/10/02/owc-envoy-pro-mini-review-enough-speed-in-a-small-package?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
