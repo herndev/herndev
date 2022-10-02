@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA Says Hurricane Didn&#39;t Hurt Artemis I Hardware, Sets New Launch Window     - CNET](https://www.cnet.com/science/space/nasa-says-hurricane-ian-didnt-hurt-artemis-i-hardware-sets-new-launch-window/#ftag=CAD590a51e)
- - [What You Get in McDonalds&#39; New Happy-Meal-Inspired Box for Adults     - CNET](https://www.cnet.com/culture/what-you-get-in-mcdonalds-new-happy-meal-inspired-box-for-adults/#ftag=CAD590a51e)
- - [McDonald&#39;s Beloved Halloween Buckets Could Be Back This Fall     - CNET](https://www.cnet.com/culture/mcdonalds-beloved-halloween-buckets-could-be-back-this-fall/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A profile of David Mills, who created the Network Time Protocol in the 1980s, as about two dozen Internet Engineering Task Force contributors work toward NTPv5 &lpar;Nate Hopper/New Yorker&rpar;](http://www.techmeme.com/221001/p15#a221001p15)
+ - [&#39;Andor&#39; Episode 4 Recap: Deep Cut Star Wars Easter Eggs, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-deep-cut-star-wars-easter-eggs-explained/#ftag=CAD590a51e)
+ - [NASA Says Hurricane Didn&#39;t Hurt Artemis I Hardware, Sets New Launch Window     - CNET](https://www.cnet.com/science/space/nasa-says-hurricane-ian-didnt-hurt-artemis-i-hardware-sets-new-launch-window/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
