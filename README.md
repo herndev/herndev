@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Too many of you sleep with your phone, and it’s bad for your health](https://www.androidauthority.com/sleeping-with-phone-bad-for-health-3209960/)
- - [How God of War Made Accessibility a Core Part of Its Game Design](https://www.wired.com/story/god-of-war-santa-monica-accessibility-game-design/)
- - [19 Android Settings You May Not Know About](https://www.wired.com/story/19-android-settings-tips/)<!-- TECH:END -->
+ - [The Best Gear for Your Home Emergency Kit](https://www.wired.com/story/best-home-emergency-gear/)
+ - [Casio’s Flagship Keyboard Has a Voice of Its Own](https://www.wired.com/review/casio-ct-s1000v/)
+ - [A look at the fake online traffic business, as some ad exchanges look the other way and advertisers are embarrassed to admit they purchased fraudulent inventory &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221002/p4#a221002p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
