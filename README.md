@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 spooky modern horror books to read this fall](https://www.polygon.com/23351266/best-new-horror-books-read)
  - [Today&#39;s Wordle 470 answer and hint: Sunday, October 2](https://www.pcgamer.com/todays-wordle-470-answer-hint)
- - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)
- - [Transformers cards are coming to Magic: The Gathering](https://www.pcgamer.com/transformers-cards-are-coming-to-magic-the-gathering)<!-- GAME:END -->
+ - [Here&#39;s a game about soldering and tinkering with old school electronics](https://www.pcgamer.com/heres-a-game-about-soldering-and-tinkering-with-old-school-electronics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
