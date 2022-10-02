@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit integration will make or break the Pixel Watch](https://www.androidauthority.com/pixel-watch-fitbit-3215092/)
- - [Apple SIM for iPad cannot be used to activate cellular plans anymore](https://appleinsider.com/articles/22/10/02/apple-sim-for-ipad-cannot-be-used-to-activate-cellular-plans-anymore?utm_medium=rss)
- - [Instagram food photography is becoming more realistic, driven by generational changes, more diverse food creators, and a frustration with the curation culture &lpar;Bettina Makalintal/Eater&rpar;](http://www.techmeme.com/221002/p5#a221002p5)<!-- TECH:END -->
+ - [Get CompTIA, AWS and Cisco Certified With This $35 Training Bundle     - CNET](https://www.cnet.com/deals/comptia-aws-cisco-2022-certification-bundle/#ftag=CAD590a51e)
+ - [B&amp;H slashes MacBook Pro prices further, save up to $700](https://appleinsider.com/articles/22/09/30/bh-slashes-macbook-pro-prices-further-save-up-to-700?utm_medium=rss)
+ - [Coinbase paused transactions in US for hours to address bank transfer issues](https://www.theverge.com/2022/10/2/23383449/coinbase-pauses-transactions-us-address-bank-transfer-issues)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
