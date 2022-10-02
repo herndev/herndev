@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Commander-in-chief of the persian army: ` if islamic republic and irgc forced do not stop their brutality against persian protestors, the army will intervene as protector of people and national intrests`](http://9gag.com/gag/awZbBrx)
- - ⏩ [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - 👉 [After the fall of Lyman, Zarichne and Torske, Ukraine is already attacking the Russians in Kreminna. The new offensive is moving fast.](http://9gag.com/gag/ajV6mnx)<!-- MEMES:END -->
+ - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - ⏩ [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
+ - 👉 [Congratulations, you propagandad yourself](http://9gag.com/gag/aGEVpzz)<!-- MEMES:END -->
 
 ---
 
