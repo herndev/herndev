@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
- - ⏩ [Commander-in-chief of the persian army: ` if islamic republic and irgc forced do not stop their brutality against persian protestors, the army will intervene as protector of people and national intrests`](http://9gag.com/gag/awZbBrx)
- - 👉 [Spooktober](http://9gag.com/gag/aZDWydp)<!-- MEMES:END -->
+ - 💣 [Commander-in-chief of the persian army: ` if islamic republic and irgc forced do not stop their brutality against persian protestors, the army will intervene as protector of people and national intrests`](http://9gag.com/gag/awZbBrx)
+ - ⏩ [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - 👉 [After the fall of Lyman, Zarichne and Torske, Ukraine is already attacking the Russians in Kreminna. The new offensive is moving fast.](http://9gag.com/gag/ajV6mnx)<!-- MEMES:END -->
 
 ---
 
