@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Deal of the Day: Apple&#39;s 1TB iPad Pro 11-inch drops to $799 &lpar;$500 off&rpar;](https://appleinsider.com/articles/22/10/02/deal-of-the-day-apples-1tb-ipad-pro-11-inch-drops-to-799-500-off?utm_medium=rss)
- - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)
- - [Sources: Celsius founder Alex Mashinsky withdrew $10M from the crypto lender weeks before freezing customer accounts; one source says $8M was used to pay taxes &lpar;Kadhim Shubber/Financial Times&rpar;](http://www.techmeme.com/221002/p7#a221002p7)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Does Episode 5 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-5-come-to-disney-plus/#ftag=CAD590a51e)
+ - [Tesla delivered a record 343,830 vehicles during the third quarter of 2022](https://www.theverge.com/2022/10/2/23383546/tesla-delivered-record-vehicles-during-third-quarter-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
