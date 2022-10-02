@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What\u2019s holding you back?](http://9gag.com/gag/a2KPr6Y)
- - ⏩ [This is the money bird. He flies right past money dog and money cat. Upvote in the next 24 hours and money will come your way.](http://9gag.com/gag/aVbQY2n)
- - 👉 [This amazing greenscreen dress](http://9gag.com/gag/a8qb38O)<!-- MEMES:END -->
+ - 💣 [Old but still good](http://9gag.com/gag/az2Lr6N)
+ - ⏩ [Just a bit of instant karma](http://9gag.com/gag/a04PQBv)
+ - 👉 [Delicious](http://9gag.com/gag/aYVpY5v)<!-- MEMES:END -->
 
 ---
 
