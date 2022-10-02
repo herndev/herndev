@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Zero SR/S EV Sport Bike Feels More Like a Cruiser](https://www.wired.com/review/zero-srs/)
- - [GrowWithJo Is the Only Workout App I’ve Ever Liked](https://www.wired.com/story/grow-with-jo-app-rave/)
- - [Tencent is no longer China&#39;s most valuable company after its shares dropped 64% since Jan. 2021, wiping $623B in market value, more than any other firm globally &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/221002/p3#a221002p3)<!-- TECH:END -->
+ - [Too many of you sleep with your phone, and it’s bad for your health](https://www.androidauthority.com/sleeping-with-phone-bad-for-health-3209960/)
+ - [How God of War Made Accessibility a Core Part of Its Game Design](https://www.wired.com/story/god-of-war-santa-monica-accessibility-game-design/)
+ - [19 Android Settings You May Not Know About](https://www.wired.com/story/19-android-settings-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
