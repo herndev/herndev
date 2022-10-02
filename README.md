@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is the money bird. He flies right past money dog and money cat. Upvote in the next 24 hours and money will come your way.](http://9gag.com/gag/aVbQY2n)
- - ⏩ [It&#39;s everywhere now. Persian women&#39;s hair came out victorious vs 43 years of Islamic Republic](http://9gag.com/gag/a3ZdEA8)
- - 👉 [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)<!-- MEMES:END -->
+ - 💣 [No one&#39;s read it](http://9gag.com/gag/anzX1Db)
+ - ⏩ [Showcase of a smart sprinkler putting out a fire.](http://9gag.com/gag/aNwopO4)
+ - 👉 [I&#39;m something of a hornylogist myself](http://9gag.com/gag/a8qb1j3)<!-- MEMES:END -->
 
 ---
 
