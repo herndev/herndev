@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to KO Someone](http://9gag.com/gag/a9qMPg1)
+ - 💣 [Definitely not a ghost cleaning a mirror](http://9gag.com/gag/aBdQ1PQ)
  - ⏩ [Russian girl who harassed Ukrainians and then urged to wipe butts with police summons is being deported from Germany to Russia.](http://9gag.com/gag/aQEpdKr)
- - 👉 [Congratulations, you propagandad yourself](http://9gag.com/gag/aGEVpzz)<!-- MEMES:END -->
+ - 👉 [Holup, Jeffrey Dahmer&#39;s Practical Advice...!](http://9gag.com/gag/aMEbKmx)<!-- MEMES:END -->
 
 ---
 
