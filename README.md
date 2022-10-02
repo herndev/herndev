@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tencent is no longer China&#39;s most valuable company after its shares dropped 64% since Jan. 2021, wiping $623B in market value, more than any other firm globally &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/221002/p3#a221002p3)
- - [Formula 1 2022: How to Watch the Singapore Grand Prix Today     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-2022-how-to-watch-the-singapore-grand-prix-today/#ftag=CAD590a51e)
- - [JD.com founder Richard Liu agreed to settle a US lawsuit filed by a former University of Minnesota student who alleged he raped her in 2018 &lpar;Amy Forliti/Associated Press&rpar;](http://www.techmeme.com/221002/p2#a221002p2)<!-- TECH:END -->
+ - [The Zero SR/S EV Sport Bike Feels More Like a Cruiser](https://www.wired.com/review/zero-srs/)
+ - [GrowWithJo Is the Only Workout App I’ve Ever Liked](https://www.wired.com/story/grow-with-jo-app-rave/)
+ - [Tencent is no longer China&#39;s most valuable company after its shares dropped 64% since Jan. 2021, wiping $623B in market value, more than any other firm globally &lpar;Jeanny Yu/Bloomberg&rpar;](http://www.techmeme.com/221002/p3#a221002p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
