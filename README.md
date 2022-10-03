@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)
- - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)
- - [&#39;Andor&#39; Episode 4 Recap: Awesome Star Wars Easter Eggs and References, Explained     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-4-recap-awesome-star-wars-easter-eggs-and-references-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Episode 6 Recap: A Tense Time Jump     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CAD590a51e)
+ - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
