@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Vice Society ransomware gang publishes data allegedly from the Los Angeles Unified School District, after the school system did not pay the ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221003/p10#a221003p10)
- - [Best Credit Cards With No Foreign Transaction Fees for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-without-foreign-transaction-fees/#ftag=CAD590a51e)
- - [Refinance Rates for Oct. 3, 2022: Rates Move Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-oct-3-2022-rates-move-higher/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The concert of the future is already happening in the metaverse](https://www.theverge.com/2022/10/3/23384883/concerts-metaverse-travis-scott-charlie-puth-iheartland)
+ - [The SCOTUS agrees to hear two Section 230-related cases, Gonzalez v. Google and Twitter v. Taamneh, both stemming from terrorist content on the services &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/221003/p15#a221003p15)
+ - [If you want to work for Apple, you need these four traits](https://appleinsider.com/articles/22/10/03/if-you-want-to-work-for-apple-you-need-these-four-traits?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
