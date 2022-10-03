@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
+ - 💣 [Broken](http://9gag.com/gag/abvqeqO)
  - ⏩ [Wait what](http://9gag.com/gag/aPgyP1n)
- - 👉 [The future is now](http://9gag.com/gag/aqeZ8qQ)<!-- MEMES:END -->
+ - 👉 [How world leaders walk](http://9gag.com/gag/aYVpD17)<!-- MEMES:END -->
 
 ---
 
