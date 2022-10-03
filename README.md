@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rape kit DNA protected under a new California law](https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california)
- - [Experts’ judgment on the much-hyped Tesla Bot: Elon Musk speedruns robotics 101](https://www.theverge.com/23384703/tesla-optimus-bot-elon-musk-specs-hype-reaction)
- - [The Supreme Court will determine whether you can sue platforms for hosting terrorists](https://www.theverge.com/2022/10/3/23385019/supreme-court-grants-petitions-google-twitter-section-230-terrorism)<!-- TECH:END -->
+ - [Exponential, a DeFi investment discovery and risk assessment service, raised a $14M seed led by Paradigm, with Haun Ventures, FTX&#39;s VC arm, others participating &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221003/p16#a221003p16)
+ - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: Oct. 3&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
+ - [NASA’s aircraft will elevate the hunt for critical minerals in the US](https://www.theverge.com/2022/10/3/23384988/nasa-usgs-map-critical-minerals-southwest-us-clean-energy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
