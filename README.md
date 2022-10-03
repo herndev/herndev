@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
+ - 💣 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
  - ⏩ [Wait what](http://9gag.com/gag/aPgyP1n)
- - 👉 [Phase 2 boss](http://9gag.com/gag/aZDWwo3)<!-- MEMES:END -->
+ - 👉 [The future is now](http://9gag.com/gag/aqeZ8qQ)<!-- MEMES:END -->
 
 ---
 
