@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - ⏩ [Nice...](http://9gag.com/gag/anzXOoB)
- - 👉 [Wait for it\u2026](http://9gag.com/gag/aOxyer6)<!-- MEMES:END -->
+ - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - ⏩ [Madlad being denied food](http://9gag.com/gag/a04PXeq)
+ - 👉 [True](http://9gag.com/gag/amAL1M9)<!-- MEMES:END -->
 
 ---
 
