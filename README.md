@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)
- - [&#39;House of the Dragon&#39; Episode 6 Recap: A Tense Time Jump     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-6-recap-a-tense-time-jump/#ftag=CAD590a51e)
- - [From shutting down services only in Texas to letting users opt out of hateful content, tech companies are gaming out responses to the state&#39;s social media law &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/221002/p8#a221002p8)<!-- TECH:END -->
+ - [New Pegasus attacks on Mexican activists and reporters from 2019-2021 found using 0-click exploits, after the new president called Pegasus a thing of the past &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/221002/p9#a221002p9)
+ - [Your Router Is Collecting Data. Here&#39;s What to Know, and How to Protect Your Privacy     - CNET](https://www.cnet.com/news/your-router-is-collecting-data-heres-what-to-know-and-how-to-protect-your-privacy/#ftag=CAD590a51e)
+ - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
