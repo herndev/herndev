@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The grand tour INTERSTELLAR](http://9gag.com/gag/aGEVpj5)
- - ⏩ [How to speak english](http://9gag.com/gag/az2L2mp)
- - 👉 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
+ - 💣 [Imagine calling the police to get your high fat ass out of a pool](http://9gag.com/gag/armeyG5)
+ - ⏩ [Something familiar here](http://9gag.com/gag/aOxyxw2)
+ - 👉 [Trickle up economics](http://9gag.com/gag/aEqGqXo)<!-- MEMES:END -->
 
 ---
 
