@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NXP Semiconductors&#39; CEO estimates the EU must invest &amp;euro;500B to hit its goal of a 20% global share in chips by 2030, well short of the EU Chips Act&#39;s &amp;euro;43B package &lpar;Tristan Fiedler/Politico&rpar;](http://www.techmeme.com/221002/p10#a221002p10)
- - [NASA, SpaceX Look at Sending Crew Dragon to Boost Hubble Telescope&#39;s Life     - CNET](https://www.cnet.com/science/space/nasa-spacex-look-at-sending-crew-dragon-to-boost-hubble-telescopes-life/#ftag=CAD590a51e)
- - [Watch YouTuber Dream Finally Reveal His Face     - CNET](https://www.cnet.com/culture/internet/watch-youtuber-dream-finally-reveal-his-face/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung’s Expert RAW app comes to more Galaxy flagships. Is yours on this list?](https://www.androidauthority.com/samsungs-expert-raw-galaxy-s20-ultra-note-20-ultra-z-fold-2-3215665/)
+ - [ESPN, Disney, and other networks have returned to Dish and Sling TV](https://www.theverge.com/2022/10/3/23384591/dish-disney-sling-tv-espn-fx-restored-streaming)
+ - [NXP Semiconductors&#39; CEO estimates the EU must invest &amp;euro;500B to hit its goal of a 20% global share in chips by 2030, well short of the EU Chips Act&#39;s &amp;euro;43B package &lpar;Tristan Fiedler/Politico&rpar;](http://www.techmeme.com/221002/p10#a221002p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
