@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Checkout.com founder and CEO Guillaume Pousaz, who owns 60% of the $40B London-based payments company and has begun investing in fintech startups &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/221003/p9#a221003p9)
  - [How to undelete photos on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-undelete-photos-on-iphone?utm_medium=rss)
- - [Kia&#39;s Electric Sportage SUV Has the Modern Family in Mind](https://www.wired.com/review/kia-sportage-hev-and-phev/)
- - [The High Cost of Living Your Life Online](https://www.wired.com/story/privacy-psychology-social-media/)<!-- TECH:END -->
+ - [Apple Watch SE 2022 review: The best entry point for Apple Watch](https://appleinsider.com/articles/22/10/03/apple-watch-se-2022-review-the-best-entry-point-for-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
