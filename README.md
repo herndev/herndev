@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s Expert RAW app comes to more Galaxy flagships. Is yours on this list?](https://www.androidauthority.com/samsungs-expert-raw-galaxy-s20-ultra-note-20-ultra-z-fold-2-3215665/)
- - [ESPN, Disney, and other networks have returned to Dish and Sling TV](https://www.theverge.com/2022/10/3/23384591/dish-disney-sling-tv-espn-fx-restored-streaming)
- - [NXP Semiconductors&#39; CEO estimates the EU must invest &amp;euro;500B to hit its goal of a 20% global share in chips by 2030, well short of the EU Chips Act&#39;s &amp;euro;43B package &lpar;Tristan Fiedler/Politico&rpar;](http://www.techmeme.com/221002/p10#a221002p10)<!-- TECH:END -->
+ - [Pixel 7 series specs leak: Bad news for charging speeds?](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)
+ - [It’ll finally be easy to understand USB-C cables and connectors](https://www.androidauthority.com/usb-rebranding-3215671/)
+ - [Kentik: Iran&#39;s three main mobile operators shut down service for about eight hours in the evening for 10 consecutive days, causing an uptick in landline traffic &lpar;Dan De Luce/NBC News&rpar;](http://www.techmeme.com/221003/p1#a221003p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
