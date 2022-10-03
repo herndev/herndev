@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The pumpkin meta is now dominating Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-pumpkins-farming-exploit)
- - [Overwatch is down as Blizzard preps for Overwatch 2](https://www.polygon.com/23385405/overwatch-down-blizzard-ow2-launch)
- - [Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet](https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day)<!-- GAME:END -->
+ - [Resident Evil 4 Remake: What we know so far](https://www.pcgamer.com/resident-evil-4-remake-release-date-2023-details)
+ - [&#39;Call The Cops!&#39; Fishing Competition Turns Into Frenzy After Cheater Caught Stuffing Fish](https://kotaku.com/walleye-trail-fishing-tournament-ohio-cheating-lead-bal-1849611715)
+ - [Tattoo artist lays a legal RKO on Take-Two over Randy Orton&#39;s ink in WWE 2K games](https://www.pcgamer.com/tattoo-artist-lays-a-legal-rko-on-take-two-over-randy-ortons-ink-in-wwe-2k-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
