@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Well, here&#39;s GoldenEye with Mario characters](https://www.pcgamer.com/well-heres-goldeneye-with-mario-characters)
  - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [Daemon is too complicated to just be House of the Dragon’s ‘villain’](https://www.polygon.com/23380813/house-dragon-daemon-matt-smith-wedding-bad-guy)
- - [House of the Dragon changed Laenor’s fate](https://www.polygon.com/23380542/house-dragon-game-thrones-death-episode-7)<!-- GAME:END -->
+ - [Daemon is too complicated to just be House of the Dragon’s ‘villain’](https://www.polygon.com/23380813/house-dragon-daemon-matt-smith-wedding-bad-guy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
