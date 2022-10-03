@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - ⏩ [Guy punches a female conductor on a Russian bus only to get a beating and face full of mace by another passenger.](http://9gag.com/gag/aBdQnv2)
- - 👉 [True words](http://9gag.com/gag/aA0V0Yd)<!-- MEMES:END -->
+ - 💣 [Men are brothers](http://9gag.com/gag/awZbQE1)
+ - ⏩ [What is this?! Why is this?!](http://9gag.com/gag/ajV6gMQ)
+ - 👉 [Finaly](http://9gag.com/gag/a5XNXnN)<!-- MEMES:END -->
 
 ---
 
