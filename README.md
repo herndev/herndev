@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The concert of the future is already happening in the metaverse](https://www.theverge.com/2022/10/3/23384883/concerts-metaverse-travis-scott-charlie-puth-iheartland)
- - [The SCOTUS agrees to hear two Section 230-related cases, Gonzalez v. Google and Twitter v. Taamneh, both stemming from terrorist content on the services &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/221003/p15#a221003p15)
- - [If you want to work for Apple, you need these four traits](https://appleinsider.com/articles/22/10/03/if-you-want-to-work-for-apple-you-need-these-four-traits?utm_medium=rss)<!-- TECH:END -->
+ - [Inside one of the world’s first human composting facilities](https://www.theverge.com/c/23307867/human-composting-process-return-home)
+ - [Apple Music Today will explore a song&#39;s history every day](https://appleinsider.com/articles/22/10/03/apple-music-today-will-explore-a-songs-history-every-day?utm_medium=rss)
+ - [How to watch the Google Pixel launch event](https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
