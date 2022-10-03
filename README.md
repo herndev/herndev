@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this on quora](http://9gag.com/gag/amALoN6)
- - ⏩ [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)
- - 👉 [The morning after the camping trip in Omsk. They spend days &amp; nights in the open field. No command, no uniform, no barracks, no tents, no sleeping bags.](http://9gag.com/gag/aBdQZL2)<!-- MEMES:END -->
+ - 💣 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - ⏩ [Disney but in a world with cops](http://9gag.com/gag/a8qbAGp)
+ - 👉 [Parenting 101](http://9gag.com/gag/aKEg1R6)<!-- MEMES:END -->
 
 ---
 
