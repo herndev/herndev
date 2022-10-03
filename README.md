@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
- - ⏩ [Never.](http://9gag.com/gag/aKEgGej)
- - 👉 [HIMARS- Ukraine&#39;s New Angel.](http://9gag.com/gag/aoKZWpX)<!-- MEMES:END -->
+ - 💣 [Found this on quora](http://9gag.com/gag/amALoN6)
+ - ⏩ [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)
+ - 👉 [The morning after the camping trip in Omsk. They spend days &amp; nights in the open field. No command, no uniform, no barracks, no tents, no sleeping bags.](http://9gag.com/gag/aBdQZL2)<!-- MEMES:END -->
 
 ---
 
