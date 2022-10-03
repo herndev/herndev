@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine calling the police to get your high fat ass out of a pool](http://9gag.com/gag/armeyG5)
- - ⏩ [Something familiar here](http://9gag.com/gag/aOxyxw2)
- - 👉 [Trickle up economics](http://9gag.com/gag/aEqGqXo)<!-- MEMES:END -->
+ - 💣 [Right?? Right??](http://9gag.com/gag/ap9o9dp)
+ - ⏩ [Cashier standing up to drunk and disorderly bully](http://9gag.com/gag/a7qK1Zb)
+ - 👉 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)<!-- MEMES:END -->
 
 ---
 
