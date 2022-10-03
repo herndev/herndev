@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smile’s take on mental illness was designed to be messy and complicated](https://www.polygon.com/23378979/smile-2022-horror-about-mental-illness)
- - [Rumored Horizon Zero Dawn Remaster Reports Have Bloodborne Fans Fuming](https://kotaku.com/horizon-zero-dawn-remaster-ps5-rumor-sony-bloodborne-1849609475)
- - [PS5 Seemingly Jailbroken Using PS4 Exploit, Can Now Run Kojima’s P.T.](https://kotaku.com/ps5-jailbreak-hack-kernel-exploit-p-t-kojima-ps4-1849609372)<!-- GAME:END -->
+ - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)
+ - [Namor is more than just Black Panther’s villain](https://www.polygon.com/23385017/black-panther-wakanda-forever-namor)
+ - [Steam Deck add-on Killswitch to be redesigned after &#39;million dollar&#39; mistake](https://www.pcgamer.com/steam-deck-add-on-killswitch-to-be-redesigned-after-million-dollar-mistake)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
