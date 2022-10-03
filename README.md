@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [Could Twitch streamers really unionize?](https://www.polygon.com/23385283/twitch-amazon-streamers-union-laws)
- - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)<!-- GAME:END -->
+ - [Transformers officially enter Magic: The Gathering with 15 sick double-sided cards](https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement)
+ - [Overwatch 2 launch time: when does it actually release?](https://www.pcgamer.com/overwatch-2-launch-time)
+ - [Steam Next Fest returns with hundreds of new demos and dev streams](https://www.pcgamer.com/steam-next-fest-returns-with-hundreds-of-new-demos-and-dev-streams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
