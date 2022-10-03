@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [2nd place](http://9gag.com/gag/aWG0GKn)
- - ⏩ [Spiders can see the invisible laser from iPhone LiDAR camera](http://9gag.com/gag/axo2WWn)
- - 👉 [Dont mention blm](http://9gag.com/gag/aDYw63Z)<!-- MEMES:END -->
+ - 💣 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
+ - ⏩ [Nice...](http://9gag.com/gag/anzXOoB)
+ - 👉 [Wait for it\u2026](http://9gag.com/gag/aOxyer6)<!-- MEMES:END -->
 
 ---
 
