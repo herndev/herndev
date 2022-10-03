@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside one of the world’s first human composting facilities](https://www.theverge.com/c/23307867/human-composting-process-return-home)
- - [Apple Music Today will explore a song&#39;s history every day](https://appleinsider.com/articles/22/10/03/apple-music-today-will-explore-a-songs-history-every-day?utm_medium=rss)
- - [How to watch the Google Pixel launch event](https://www.theverge.com/23380213/google-pixel-7-watch-launch-live-stream-start-time)<!-- TECH:END -->
+ - [Rape kit DNA protected under a new California law](https://www.theverge.com/2022/10/3/23384969/rape-kit-survivor-dna-protected-california)
+ - [Experts’ judgment on the much-hyped Tesla Bot: Elon Musk speedruns robotics 101](https://www.theverge.com/23384703/tesla-optimus-bot-elon-musk-specs-hype-reaction)
+ - [The Supreme Court will determine whether you can sue platforms for hosting terrorists](https://www.theverge.com/2022/10/3/23385019/supreme-court-grants-petitions-google-twitter-section-230-terrorism)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
