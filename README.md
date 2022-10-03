@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every movie and show coming to Netflix in October](https://www.polygon.com/23377427/new-netflix-movies-tv-shows-watch-october-2022)
- - [How to fix FIFA 23&#39;s anti cheat error](https://www.pcgamer.com/fifa-23-anti-cheat-fix)
- - [FIFA 23 slammed by PC players as EA&#39;s own anti-cheat makes it unplayable for many](https://www.pcgamer.com/fifa-23-slammed-by-pc-players-as-eas-own-anti-cheat-makes-it-unplayable-for-many)<!-- GAME:END -->
+ - [Players’ Choice: Vote for September 2022’s best new game](https://blog.playstation.com/2022/10/03/players-choice-vote-for-september-2022s-best-new-game/)
+ - [No Man&#39;s Sky 4.0 update adds new &#39;relaxed&#39; mode and &#39;massively increased&#39; inventory](https://www.pcgamer.com/no-mans-sky-40-update-adds-new-relaxed-mode-and-massively-increased-inventory)
+ - [Xbox, Doritos, and Rockstar Energy Drink Give Away Game Pass, Prizes, and DLC](https://news.xbox.com/en-us/2022/10/03/doritos-rockstar-xbox-game-ultimate-partnership/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
