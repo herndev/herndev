@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision exec that called sexism lawsuit ‘meritless’ exits executive role](https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company)
- - [Phasmophobia dev apologises and belatedly bans Discord admin after messy nude pics scandal](https://www.pcgamer.com/phasmophobia-studio-apologises-and-belatedly-bans-discord-admin-after-messy-nude-pics-scandal)
- - [How to wield godly power with Valheim cheats and console commands](https://www.pcgamer.com/valheim-cheats-console-commands)<!-- GAME:END -->
+ - [Smile’s take on mental illness was designed to be messy and complicated](https://www.polygon.com/23378979/smile-2022-horror-about-mental-illness)
+ - [Rumored Horizon Zero Dawn Remaster Reports Have Bloodborne Fans Fuming](https://kotaku.com/horizon-zero-dawn-remaster-ps5-rumor-sony-bloodborne-1849609475)
+ - [PS5 Seemingly Jailbroken Using PS4 Exploit, Can Now Run Kojima’s P.T.](https://kotaku.com/ps5-jailbreak-hack-kernel-exploit-p-t-kojima-ps4-1849609372)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
