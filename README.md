@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)
- - [Namor is more than just Black Panther’s villain](https://www.polygon.com/23385017/black-panther-wakanda-forever-namor)
- - [Steam Deck add-on Killswitch to be redesigned after &#39;million dollar&#39; mistake](https://www.pcgamer.com/steam-deck-add-on-killswitch-to-be-redesigned-after-million-dollar-mistake)<!-- GAME:END -->
+ - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
+ - [Could Twitch streamers really unionize?](https://www.polygon.com/23385283/twitch-amazon-streamers-union-laws)
+ - [Elden Ring’s Malenia embodies FromSoftware’s problems with women](https://www.polygon.com/23375149/elden-ring-malenia-fromsoftware-doll-problem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
