@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this on quora](http://9gag.com/gag/amALoN6)
- - ⏩ [You never know..!!](http://9gag.com/gag/ajV61Q1)
- - 👉 [S.A.S](http://9gag.com/gag/aPgyxqg)<!-- MEMES:END -->
+ - 💣 [2nd place](http://9gag.com/gag/aWG0GKn)
+ - ⏩ [Spiders can see the invisible laser from iPhone LiDAR camera](http://9gag.com/gag/axo2WWn)
+ - 👉 [Dont mention blm](http://9gag.com/gag/aDYw63Z)<!-- MEMES:END -->
 
 ---
 
