@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some YouTube users say the service is asking them to purchase a Premium subscription to watch videos in 4K, a feature that is currently free for all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221003/p20#a221003p20)
- - [Zero Dawn remaster on the horizon](https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5)
- - [Here’s when Overwatch 2 launches in your region](https://www.theverge.com/2022/10/3/23385911/overwatch-2-launches-times-by-region)<!-- TECH:END -->
+ - [US Treasury-led regulators release a report on digital assets calling on Congress to provide more resources to police crypto, regulate stablecoins, and more &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/221003/p21#a221003p21)
+ - [Google’s Pixel Watch just got an early unboxing](https://www.androidauthority.com/google-pixel-watch-2-3215962/)
+ - [The perfect smart home controller exists — but you probably can’t buy it](https://www.theverge.com/2022/10/3/23385183/smart-home-controller-ava-remote-cedia-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
