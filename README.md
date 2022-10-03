@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
- - [First Darktide character spotlight shows off the cultist-carving zealot preacher](https://www.pcgamer.com/first-darktide-character-spotlight-shows-off-the-cultist-carving-zealot-preacher)
- - [Great moments in PC gaming: Casual ghost-hunting with friends in Phasmophobia](https://www.pcgamer.com/great-moments-in-pc-gaming-casually-ghost-hunting-with-friends-in-phasmophobia)<!-- GAME:END -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
+ - [Daemon is too complicated to just be House of the Dragon’s ‘villain’](https://www.polygon.com/23380813/house-dragon-daemon-matt-smith-wedding-bad-guy)
+ - [House of the Dragon changed Laenor’s fate](https://www.polygon.com/23380542/house-dragon-game-thrones-death-episode-7)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
