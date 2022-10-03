@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon Zero Dawn remaster reportedly coming to PS5](https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer)
- - [Disco Elysium Studio Accused Of Ousting Creators, Dev Says It&#39;s &#39;Bad News&#39; For Sequel](https://kotaku.com/disco-elysium-2-zaum-amazon-allegations-narrative-rpg-1849608540)
- - [Three lead Disco Elysium creatives confirm departure from developer ZA/UM](https://www.polygon.com/23384913/disco-elysium-za-um-writer-artist-designer-departures)<!-- GAME:END -->
+ - [Activision exec that called sexism lawsuit ‘meritless’ exits executive role](https://www.polygon.com/22609443/activision-blizzard-fran-townsend-leaves-company)
+ - [Phasmophobia dev apologises and belatedly bans Discord admin after messy nude pics scandal](https://www.pcgamer.com/phasmophobia-studio-apologises-and-belatedly-bans-discord-admin-after-messy-nude-pics-scandal)
+ - [How to wield godly power with Valheim cheats and console commands](https://www.pcgamer.com/valheim-cheats-console-commands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
