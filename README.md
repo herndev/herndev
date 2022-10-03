@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men are brothers](http://9gag.com/gag/awZbQE1)
- - ⏩ [What is this?! Why is this?!](http://9gag.com/gag/ajV6gMQ)
- - 👉 [Finaly](http://9gag.com/gag/a5XNXnN)<!-- MEMES:END -->
+ - 💣 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
+ - ⏩ [Mind blown](http://9gag.com/gag/a8qbqWp)
+ - 👉 [$40](http://9gag.com/gag/a1PZP0D)<!-- MEMES:END -->
 
 ---
 
