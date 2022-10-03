@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)
- - ⏩ [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)
- - 👉 [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)<!-- MEMES:END -->
+ - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
+ - ⏩ [Never.](http://9gag.com/gag/aKEgGej)
+ - 👉 [HIMARS- Ukraine&#39;s New Angel.](http://9gag.com/gag/aoKZWpX)<!-- MEMES:END -->
 
 ---
 
