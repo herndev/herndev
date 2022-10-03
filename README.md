@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maserati’s GranTurismo Folgore will be its first EV](https://www.theverge.com/2022/10/3/23384565/maserati-granturismo-folgore-ev-reveal)
- - [Prosus Ventures terminates its deal to acquire Indian payments company BillDesk for $4.7B in cash, saying &quot;certain conditions precedent&quot; were unfulfilled &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221003/p2#a221003p2)
- - [Daily Authority: 😴 No more pillow talk](https://www.androidauthority.com/daily-authority-october-3-2022-3215666/)<!-- TECH:END -->
+ - [Here are the craziest stories from the new Hacking Google documentary](https://www.androidauthority.com/hacking-google-documentary-3215298/)
+ - [Boeing-backed Wisk Aero reveals a four-seater autonomous air taxi](https://www.theverge.com/2022/10/3/23380518/wisk-aero-air-taxi-electric-autonomous-boeing-faa)
+ - [UK-based blockchain gaming startup Improbable, which raised $500M from SoftBank in 2017, is close to raising &amp;pound;100M at a &amp;pound;3B+ valuation, up from &amp;pound;2.5B in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/221003/p4#a221003p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
