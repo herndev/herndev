@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Transformers officially enter Magic: The Gathering with 15 sick double-sided cards](https://www.polygon.com/23385833/transformers-magic-the-gathering-new-cards-announcement)
- - [Overwatch 2 launch time: when does it actually release?](https://www.pcgamer.com/overwatch-2-launch-time)
- - [Steam Next Fest returns with hundreds of new demos and dev streams](https://www.pcgamer.com/steam-next-fest-returns-with-hundreds-of-new-demos-and-dev-streams)<!-- GAME:END -->
+ - [Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet](https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day)
+ - [Phasmophobia Dev Kicks Alleged Racist, &#39;Sex Pest&#39; Admin From Its Official Discord Server](https://kotaku.com/phasmophobia-discord-harassment-banned-co-op-horror-1849611127)
+ - [The Entire Call Of Duty Community Just Got Punked](https://kotaku.com/call-of-duty-doug-censor-nadia-amine-warzone-1849610970)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
