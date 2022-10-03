@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - ⏩ [2nd place](http://9gag.com/gag/aWG0GKn)
- - 👉 [Wait what](http://9gag.com/gag/aPgyP1n)<!-- MEMES:END -->
+ - 💣 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
+ - ⏩ [Wait what](http://9gag.com/gag/aPgyP1n)
+ - 👉 [Phase 2 boss](http://9gag.com/gag/aZDWwo3)<!-- MEMES:END -->
 
 ---
 
