@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Players’ Choice: Vote for September 2022’s best new game](https://blog.playstation.com/2022/10/03/players-choice-vote-for-september-2022s-best-new-game/)
- - [No Man&#39;s Sky 4.0 update adds new &#39;relaxed&#39; mode and &#39;massively increased&#39; inventory](https://www.pcgamer.com/no-mans-sky-40-update-adds-new-relaxed-mode-and-massively-increased-inventory)
- - [Xbox, Doritos, and Rockstar Energy Drink Give Away Game Pass, Prizes, and DLC](https://news.xbox.com/en-us/2022/10/03/doritos-rockstar-xbox-game-ultimate-partnership/)<!-- GAME:END -->
+ - [House of the Dragon has no bright future in store for its kids](https://www.polygon.com/23379127/house-dragon-kids-are-screwed)
+ - [Dream&#39;s viral face reveal shows why anonymity is an influencer&#39;s best friend](https://www.pcgamer.com/dreams-viral-face-reveal-shows-why-anonymity-is-an-influencers-best-friend)
+ - [Black Panther 2 trailer’s new Iron Man is the one and only Ironheart](https://www.polygon.com/sdcc/23269209/black-panther-2-trailer-ironheart-iron-man)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
