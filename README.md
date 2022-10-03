@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet](https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day)
- - [Phasmophobia Dev Kicks Alleged Racist, &#39;Sex Pest&#39; Admin From Its Official Discord Server](https://kotaku.com/phasmophobia-discord-harassment-banned-co-op-horror-1849611127)
- - [The Entire Call Of Duty Community Just Got Punked](https://kotaku.com/call-of-duty-doug-censor-nadia-amine-warzone-1849610970)<!-- GAME:END -->
+ - [The pumpkin meta is now dominating Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-pumpkins-farming-exploit)
+ - [Overwatch is down as Blizzard preps for Overwatch 2](https://www.polygon.com/23385405/overwatch-down-blizzard-ow2-launch)
+ - [Spider-Man got to talk to a resurrected Gwen Stacy for 5 minutes, and it was sweet](https://www.polygon.com/2022/10/3/23385816/marvel-spider-man-gwen-stacy-death-alive-axe-judgment-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
