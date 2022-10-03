@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Golden, which is building a Web3 data protocol that is expected to fully launch in Q2 2023, raised a $40M Series B led by a16z, bringing total funding to $60M &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/221003/p19#a221003p19)
- - [The Pixel 4 and 4 XL’s last guaranteed software update has arrived](https://www.theverge.com/2022/10/3/23385622/google-pixel-4-xl-security-patch-october-2022-software-update)
- - [iOS 16.1 won&#39;t bring Adaptive Transparency to old AirPods Pro](https://appleinsider.com/articles/22/10/03/ios-161-wont-bring-adaptive-transparency-to-old-airpods-pro?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk&#39;s Half-Baked Robot Is a Clunky First Step](https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/)
+ - [Zero Dawn remaster on the horizon](https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5)
+ - [Reminder: Hulu’s going up in price next week](https://www.theverge.com/2022/10/3/23385032/hulu-price-increase-reminder-disney)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
