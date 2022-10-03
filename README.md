@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Broken](http://9gag.com/gag/abvqeqO)
- - ⏩ [Dont mention blm](http://9gag.com/gag/aDYw63Z)
- - 👉 [Typical swiss interrogation](http://9gag.com/gag/aPgymKG)<!-- MEMES:END -->
+ - 💣 [Parenting 101](http://9gag.com/gag/aKEg1R6)
+ - ⏩ [The Ukrainian flag raised over the administrative building in Havrylivka, Kherson Oblast.](http://9gag.com/gag/aQEpQXd)
+ - 👉 [Please give him a friendly new face](http://9gag.com/gag/aBdQZ8D)<!-- MEMES:END -->
 
 ---
 
