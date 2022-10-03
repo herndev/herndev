@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mobile phone thief tackled to the ground in London.](http://9gag.com/gag/awZbMp8)
- - ⏩ [Mind blown](http://9gag.com/gag/a8qbqWp)
- - 👉 [$40](http://9gag.com/gag/a1PZP0D)<!-- MEMES:END -->
+ - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
+ - ⏩ [Russian soldier mocking Putin](http://9gag.com/gag/abvqvBB)
+ - 👉 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
 
 ---
 
