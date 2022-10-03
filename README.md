@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
- - ⏩ [Flat earthers explaining their logic](http://9gag.com/gag/a6qdZZL)
- - 👉 [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)<!-- MEMES:END -->
+ - 💣 [Pizza problems](http://9gag.com/gag/aA0VwvR)
+ - ⏩ [Very TRASHy](http://9gag.com/gag/a9qMyq1)
+ - 👉 [A father holds a photo of his daughter, who died in Pervomaysk, Kharkiv region, from a Russian rocket attack on September 26.](http://9gag.com/gag/adP6BDD)<!-- MEMES:END -->
 
 ---
 
