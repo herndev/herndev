@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Half-Baked Robot Is a Clunky First Step](https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/)
+ - [Some YouTube users say the service is asking them to purchase a Premium subscription to watch videos in 4K, a feature that is currently free for all users &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221003/p20#a221003p20)
  - [Zero Dawn remaster on the horizon](https://www.theverge.com/2022/10/3/23385060/horizon-zero-dawn-remaster-forbidden-west-dlc-multiplayer-sony-playstation-5)
- - [Reminder: Hulu’s going up in price next week](https://www.theverge.com/2022/10/3/23385032/hulu-price-increase-reminder-disney)<!-- TECH:END -->
+ - [Here’s when Overwatch 2 launches in your region](https://www.theverge.com/2022/10/3/23385911/overwatch-2-launches-times-by-region)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
