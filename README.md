@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Checkout.com founder and CEO Guillaume Pousaz, who owns 60% of the $40B London-based payments company and has begun investing in fintech startups &lpar;Ivan Levingston/Bloomberg&rpar;](http://www.techmeme.com/221003/p9#a221003p9)
- - [How to undelete photos on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-undelete-photos-on-iphone?utm_medium=rss)
- - [Apple Watch SE 2022 review: The best entry point for Apple Watch](https://appleinsider.com/articles/22/10/03/apple-watch-se-2022-review-the-best-entry-point-for-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [The Vice Society ransomware gang publishes data allegedly from the Los Angeles Unified School District, after the school system did not pay the ransom &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221003/p10#a221003p10)
+ - [Best Credit Cards With No Foreign Transaction Fees for October 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-credit-cards-without-foreign-transaction-fees/#ftag=CAD590a51e)
+ - [Refinance Rates for Oct. 3, 2022: Rates Move Higher     - CNET](https://www.cnet.com/personal-finance/mortgages/refinance-rates-for-oct-3-2022-rates-move-higher/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
