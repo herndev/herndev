@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [House of the Dragon episode 7 masks its true violence behind royal rituals](https://www.polygon.com/23383650/house-dragon-episode-7-review-laenor)
  - [Today&#39;s Wordle 471 answer and hint: Monday, October 3](https://www.pcgamer.com/todays-wordle-471-answer-hint)
- - [A canceled Dune game comes to Steam under a new name, 20 years later](https://www.pcgamer.com/a-canceled-dune-game-comes-to-steam-under-a-new-name-20-years-later)
- - [Well, here&#39;s GoldenEye with Mario characters](https://www.pcgamer.com/well-heres-goldeneye-with-mario-characters)<!-- GAME:END -->
+ - [A canceled Dune game comes to Steam under a new name, 20 years later](https://www.pcgamer.com/a-canceled-dune-game-comes-to-steam-under-a-new-name-20-years-later)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
