@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Will Smith&#39;s &#39;Emancipation&#39; gets unexpected Apple TV+ release date](https://appleinsider.com/articles/22/10/03/will-smiths-emancipation-gets-unexpected-apple-tv-release-date?utm_medium=rss)
- - [October 2022 Android security patch here for Pixel phones](https://www.androidauthority.com/october-2022-android-security-patch-3215884/)
- - [Twitter rolls out its edit button, letting users edit five times in 30 minutes, to Blue subscribers in Canada, Australia, and New Zealand, coming soon to the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221003/p17#a221003p17)<!-- TECH:END -->
+ - [Kandji gives boost to Apple mobile device management security](https://appleinsider.com/articles/22/10/03/kandji-gives-boost-to-apple-mobile-device-management-security?utm_medium=rss)
+ - [Pixelated clothing at Paris Fashion Week is metaverse fashion flipped on its head](https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing)
+ - [App Store sales fell, but Apple services revenue will still grow overall](https://appleinsider.com/articles/22/10/03/app-store-sales-fell-but-apple-services-revenue-will-still-grow-overall?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
