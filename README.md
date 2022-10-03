@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Exponential, a DeFi investment discovery and risk assessment service, raised a $14M seed led by Paradigm, with Haun Ventures, FTX&#39;s VC arm, others participating &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221003/p16#a221003p16)
- - [Google Pixel 7: Everything we know and what we want to see &lpar;Updated: Oct. 3&rpar;](https://www.androidauthority.com/google-pixel-7-3112003/)
- - [NASA’s aircraft will elevate the hunt for critical minerals in the US](https://www.theverge.com/2022/10/3/23384988/nasa-usgs-map-critical-minerals-southwest-us-clean-energy)<!-- TECH:END -->
+ - [Will Smith&#39;s &#39;Emancipation&#39; gets unexpected Apple TV+ release date](https://appleinsider.com/articles/22/10/03/will-smiths-emancipation-gets-unexpected-apple-tv-release-date?utm_medium=rss)
+ - [October 2022 Android security patch here for Pixel phones](https://www.androidauthority.com/october-2022-android-security-patch-3215884/)
+ - [Twitter rolls out its edit button, letting users edit five times in 30 minutes, to Blue subscribers in Canada, Australia, and New Zealand, coming soon to the US &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221003/p17#a221003p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
