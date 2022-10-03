@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - ⏩ [Disney but in a world with cops](http://9gag.com/gag/a8qbAGp)
- - 👉 [Parenting 101](http://9gag.com/gag/aKEg1R6)<!-- MEMES:END -->
+ - 💣 [Found this on quora](http://9gag.com/gag/amALoN6)
+ - ⏩ [You never know..!!](http://9gag.com/gag/ajV61Q1)
+ - 👉 [S.A.S](http://9gag.com/gag/aPgyxqg)<!-- MEMES:END -->
 
 ---
 
