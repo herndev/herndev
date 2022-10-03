@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whatever that is](http://9gag.com/gag/abvqrgp)
- - ⏩ [Russian soldier mocking Putin](http://9gag.com/gag/abvqvBB)
+ - 💣 [The grand tour INTERSTELLAR](http://9gag.com/gag/aGEVpj5)
+ - ⏩ [How to speak english](http://9gag.com/gag/az2L2mp)
  - 👉 [Hmmm](http://9gag.com/gag/avQZQbO)<!-- MEMES:END -->
 
 ---
