@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
- - ⏩ [Madlad being denied food](http://9gag.com/gag/a04PXeq)
- - 👉 [True](http://9gag.com/gag/amAL1M9)<!-- MEMES:END -->
+ - 💣 [Broken](http://9gag.com/gag/abvqeqO)
+ - ⏩ [Dont mention blm](http://9gag.com/gag/aDYw63Z)
+ - 👉 [Typical swiss interrogation](http://9gag.com/gag/aPgymKG)<!-- MEMES:END -->
 
 ---
 
