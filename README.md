@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 series ads leak: Here are Google’s standout features](https://www.androidauthority.com/google-pixel-7-series-ads-3215688/)
- - [A flood of Pixel Watch material just leaked everything you want to know](https://www.androidauthority.com/google-pixel-watch-features-3215681/)
- - [Pixel 7 series specs leak: Bad news for charging speeds?](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)<!-- TECH:END -->
+ - [Maserati’s GranTurismo Folgore will be its first EV](https://www.theverge.com/2022/10/3/23384565/maserati-granturismo-folgore-ev-reveal)
+ - [Prosus Ventures terminates its deal to acquire Indian payments company BillDesk for $4.7B in cash, saying &quot;certain conditions precedent&quot; were unfulfilled &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221003/p2#a221003p2)
+ - [Daily Authority: 😴 No more pillow talk](https://www.androidauthority.com/daily-authority-october-3-2022-3215666/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
