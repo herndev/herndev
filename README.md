@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pizza problems](http://9gag.com/gag/aA0VwvR)
- - ⏩ [Very TRASHy](http://9gag.com/gag/a9qMyq1)
- - 👉 [A father holds a photo of his daughter, who died in Pervomaysk, Kharkiv region, from a Russian rocket attack on September 26.](http://9gag.com/gag/adP6BDD)<!-- MEMES:END -->
+ - 💣 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)
+ - ⏩ [Collapsing russian lines Feelsgoodman](http://9gag.com/gag/adP6BAV)
+ - 👉 [With each video like this, we dream more and more that all Ukrainian families will await their heroes home shortly.](http://9gag.com/gag/a04Pemd)<!-- MEMES:END -->
 
 ---
 
