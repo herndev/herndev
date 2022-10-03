@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kandji gives boost to Apple mobile device management security](https://appleinsider.com/articles/22/10/03/kandji-gives-boost-to-apple-mobile-device-management-security?utm_medium=rss)
- - [Pixelated clothing at Paris Fashion Week is metaverse fashion flipped on its head](https://www.theverge.com/2022/10/3/23385403/loewe-paris-fashion-week-minecraft-pixel-hoodie-metaverse-clothing)
- - [App Store sales fell, but Apple services revenue will still grow overall](https://appleinsider.com/articles/22/10/03/app-store-sales-fell-but-apple-services-revenue-will-still-grow-overall?utm_medium=rss)<!-- TECH:END -->
+ - [Golden, which is building a Web3 data protocol that is expected to fully launch in Q2 2023, raised a $40M Series B led by a16z, bringing total funding to $60M &lpar;Catarina Moura/The Block&rpar;](http://www.techmeme.com/221003/p19#a221003p19)
+ - [The Pixel 4 and 4 XL’s last guaranteed software update has arrived](https://www.theverge.com/2022/10/3/23385622/google-pixel-4-xl-security-patch-october-2022-software-update)
+ - [iOS 16.1 won&#39;t bring Adaptive Transparency to old AirPods Pro](https://appleinsider.com/articles/22/10/03/ios-161-wont-bring-adaptive-transparency-to-old-airpods-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
