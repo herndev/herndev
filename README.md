@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Pegasus attacks on Mexican activists and reporters from 2019-2021 found using 0-click exploits, after the new president called Pegasus a thing of the past &lpar;The Citizen Lab&rpar;](http://www.techmeme.com/221002/p9#a221002p9)
- - [Your Router Is Collecting Data. Here&#39;s What to Know, and How to Protect Your Privacy     - CNET](https://www.cnet.com/news/your-router-is-collecting-data-heres-what-to-know-and-how-to-protect-your-privacy/#ftag=CAD590a51e)
- - [iPhone 14 Plus lead times start growing, Pro models still high in demand](https://appleinsider.com/articles/22/10/02/iphone-14-plus-lead-times-start-growing-pro-models-still-high-in-demand?utm_medium=rss)<!-- TECH:END -->
+ - [NASA, SpaceX Look at Sending Crew Dragon to Boost Hubble Telescope&#39;s Life     - CNET](https://www.cnet.com/science/space/nasa-spacex-look-at-sending-crew-dragon-to-boost-hubble-telescopes-life/#ftag=CAD590a51e)
+ - [Watch YouTuber Dream Finally Reveal His Face     - CNET](https://www.cnet.com/culture/internet/watch-youtuber-dream-finally-reveal-his-face/#ftag=CAD590a51e)
+ - [McDonald&#39;s Beloved Halloween Boo Buckets: Return Is Looking More Likely     - CNET](https://www.cnet.com/culture/mcdonalds-beloved-halloween-boo-buckets-return-is-looking-more-likely/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
