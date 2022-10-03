@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the craziest stories from the new Hacking Google documentary](https://www.androidauthority.com/hacking-google-documentary-3215298/)
- - [Boeing-backed Wisk Aero reveals a four-seater autonomous air taxi](https://www.theverge.com/2022/10/3/23380518/wisk-aero-air-taxi-electric-autonomous-boeing-faa)
- - [UK-based blockchain gaming startup Improbable, which raised $500M from SoftBank in 2017, is close to raising &amp;pound;100M at a &amp;pound;3B+ valuation, up from &amp;pound;2.5B in 2018 &lpar;Financial Times&rpar;](http://www.techmeme.com/221003/p4#a221003p4)<!-- TECH:END -->
+ - [How to undelete photos on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-undelete-photos-on-iphone?utm_medium=rss)
+ - [Kia&#39;s Electric Sportage SUV Has the Modern Family in Mind](https://www.wired.com/review/kia-sportage-hev-and-phev/)
+ - [The High Cost of Living Your Life Online](https://www.wired.com/story/privacy-psychology-social-media/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
