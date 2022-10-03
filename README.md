@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A canceled Dune game comes to Steam under a new name, 20 years later](https://www.pcgamer.com/a-canceled-dune-game-comes-to-steam-under-a-new-name-20-years-later)
  - [Well, here&#39;s GoldenEye with Mario characters](https://www.pcgamer.com/well-heres-goldeneye-with-mario-characters)
- - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
- - [Daemon is too complicated to just be House of the Dragon’s ‘villain’](https://www.polygon.com/23380813/house-dragon-daemon-matt-smith-wedding-bad-guy)<!-- GAME:END -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
