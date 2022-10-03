@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right?? Right??](http://9gag.com/gag/ap9o9dp)
- - ⏩ [Cashier standing up to drunk and disorderly bully](http://9gag.com/gag/a7qK1Zb)
+ - 💣 [This staircase waiting to murder you](http://9gag.com/gag/aZDWr8V)
+ - ⏩ [Something familiar here](http://9gag.com/gag/aOxyxw2)
  - 👉 [How to wrap your hands before you beat someone who deserves it.](http://9gag.com/gag/a3Zd4Be)<!-- MEMES:END -->
 
 ---
