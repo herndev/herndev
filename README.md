@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon has no bright future in store for its kids](https://www.polygon.com/23379127/house-dragon-kids-are-screwed)
- - [Dream&#39;s viral face reveal shows why anonymity is an influencer&#39;s best friend](https://www.pcgamer.com/dreams-viral-face-reveal-shows-why-anonymity-is-an-influencers-best-friend)
- - [Black Panther 2 trailer’s new Iron Man is the one and only Ironheart](https://www.polygon.com/sdcc/23269209/black-panther-2-trailer-ironheart-iron-man)<!-- GAME:END -->
+ - [Horizon Zero Dawn remaster reportedly coming to PS5](https://www.polygon.com/23385020/horizon-zero-dawn-ps5-remaster-remake-multiplayer)
+ - [Disco Elysium Studio Accused Of Ousting Creators, Dev Says It&#39;s &#39;Bad News&#39; For Sequel](https://kotaku.com/disco-elysium-2-zaum-amazon-allegations-narrative-rpg-1849608540)
+ - [Three lead Disco Elysium creatives confirm departure from developer ZA/UM](https://www.polygon.com/23384913/disco-elysium-za-um-writer-artist-designer-departures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
