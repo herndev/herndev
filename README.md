@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 series specs leak: Bad news for charging speeds?](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)
- - [It’ll finally be easy to understand USB-C cables and connectors](https://www.androidauthority.com/usb-rebranding-3215671/)
- - [Kentik: Iran&#39;s three main mobile operators shut down service for about eight hours in the evening for 10 consecutive days, causing an uptick in landline traffic &lpar;Dan De Luce/NBC News&rpar;](http://www.techmeme.com/221003/p1#a221003p1)<!-- TECH:END -->
+ - [Pixel 7 series ads leak: Here are Google’s standout features](https://www.androidauthority.com/google-pixel-7-series-ads-3215688/)
+ - [A flood of Pixel Watch material just leaked everything you want to know](https://www.androidauthority.com/google-pixel-watch-features-3215681/)
+ - [Pixel 7 series specs leak: Bad news for charging speeds?](https://www.androidauthority.com/google-pixel-7-series-specs-3215067/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
