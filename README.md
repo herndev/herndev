@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon curbs corporate retail hiring for the rest of 2022](https://www.theverge.com/2022/10/4/23387743/amazon-corporate-hiring-freeze)
- - [The best T-Mobile deals: Try T-Mobile for free for three months](https://www.androidauthority.com/best-t-mobile-deals-836582/)
- - [Meta debuts Instagram ads on the Explore page and tests ads in profile feeds, letting creators earn extra income, and a shorter ad format for Facebook Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221004/p33#a221004p33)<!-- TECH:END -->
+ - [Amazon is discontinuing Glow, its video calling device aimed at kids, amid lackluster sales and a shift in consumer behavior, after debuting it last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/221004/p34#a221004p34)
+ - [Blizzard president blames ‘mass DDOS attack’ for keeping you from playing Overwatch 2](https://www.theverge.com/2022/10/4/23388132/overwatch-2-down-mass-ddos-attack-blizzard-president-mike-ybarra)
+ - [Elon Musk says he’ll buy Twitter, again, for $54.20 a share, again](https://www.theverge.com/2022/10/4/23387320/elon-musk-twitter-offer-buy-again)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
