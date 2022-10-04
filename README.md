@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2: How to add a phone number for Blizzard’s SMS Protect](https://www.polygon.com/23385894/sms-protect-add-phone-number)
- - [Let’s Sing ABBA: When Karaoke Meets Disco](https://news.xbox.com/en-us/2022/10/04/lets-sing-abba-when-karaoke-meets-disco/)
- - [CD Projekt Red announces Cyberpunk 2077 sequel, Project Orion](https://www.polygon.com/23387185/cyberpunk-2077-sequel-project-orion-announcement-cd-projekt-red)<!-- GAME:END -->
+ - [Other Ever Afters makes fairy tales subversive, kinder, and a whole lot queerer](https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview)
+ - [Time For A New Obsession: Official Pokémon Cards With Only Crochet Art](https://kotaku.com/pokemon-tcg-cards-asako-ito-nintendo-silver-tempest-1849614423)
+ - [Hitman 3’s Freelancer mode delayed again, but you’ll have the chance to try it soon](https://www.polygon.com/23387160/hitman-3-freelance-mode-delay-technical-test)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
