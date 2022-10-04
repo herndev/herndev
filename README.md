@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Home automation standard Matter one step closer to use](https://appleinsider.com/articles/22/10/04/home-automation-standard-matter-one-step-closer-to-use?utm_medium=rss)
- - [Matter 1.0 is finally finalized — so what’s next?](https://www.theverge.com/2022/10/4/23386883/matter-smart-home-standard-apple-google-launch)
- - [How to set up medication reminders in iOS 16](https://www.theverge.com/23206983/medication-reminders-ios-16-public-beta-how-to)<!-- TECH:END -->
+ - [Apple seeds fourth iOS 16.1 and tvOS 16.1, fifth iPadOS 16.1 betas to developers](https://appleinsider.com/articles/22/10/04/apple-seeds-fourth-ios-161-and-tvos-161-fifth-ipados-161-betas-to-developers?utm_medium=rss)
+ - [Apple seeds tenth developer beta of macOS Ventura](https://appleinsider.com/articles/22/10/04/apple-seeds-tenth-developer-beta-of-macos-ventura?utm_medium=rss)
+ - [A judge says Twitter can proceed with a limited probe to see if whistleblower Peiter Zatko contacted Elon Musk&#39;s lawyers before he backed out of the deal &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221004/p28#a221004p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
