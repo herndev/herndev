@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy, Assassin’s Creed coming to Magic: The Gathering in 2024](https://www.polygon.com/23386980/mtg-final-fantasy-assassins-creed-universes-beyond-secret-lair-2024)
- - [Company of Heroes 3 has been delayed to early next year](https://www.pcgamer.com/company-of-heroes-3-has-been-delayed-to-early-next-year)
- - [The Deer King director brought every lesson from Princess Mononoke to his epic fantasy](https://www.polygon.com/23385150/the-deer-king-animation-masashi-ando-studio-ghibli-lessons)<!-- GAME:END -->
+ - [Game developers explain what makes God of War &lpar;2018&rpar;’s combat tick](https://blog.playstation.com/2022/10/04/game-developers-explain-what-makes-god-of-war-2018s-combat-tick/)
+ - [Chivalry 2, Scorn, and A Plague Tale: Requiem coming to Xbox Game Pass in October](https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2)
+ - [First look at Super Mario Bros. movie coming in new Nintendo Direct](https://www.polygon.com/23387007/super-mario-bros-movie-trailer-poster-nintendo-direct-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
