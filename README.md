@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why Dream kept his face hidden — and why he revealed it](https://www.polygon.com/23386130/dream-face-reveal-explained-minecraft-youtube)
- - [Overwatch 2 beginner’s guide, tips, and tricks](https://www.polygon.com/overwatch-2-guide/23375905/beginners-ow2-guide-tips-tricks-battle-pass-heroes-objective)
- - [How to unlock Overwatch 2 heroes](https://www.pcgamer.com/overwatch-2-unlock-heroes)<!-- GAME:END -->
+ - [Welcome to Overwatch 2](https://news.xbox.com/en-us/2022/10/04/welcome-to-overwatch-2/)
+ - [Overwatch 2 is now live](https://www.pcgamer.com/overwatch-2-launch-time)
+ - [Two Witcher spin-off games are on the way as well as the new trilogy](https://www.pcgamer.com/two-witcher-spin-off-games-are-on-the-way-as-well-as-the-new-trilogy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
