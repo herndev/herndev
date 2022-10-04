@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
- - ⏩ [Elon&#39;s logic](http://9gag.com/gag/a7qK0nr)
- - 👉 [Excuse me ma&#39;am](http://9gag.com/gag/axo2bNK)<!-- MEMES:END -->
+ - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - ⏩ [Way to go!!](http://9gag.com/gag/a6qd5gN)
+ - 👉 [Czech people raising $1.3 million to buy a T-72 for Ukraine](http://9gag.com/gag/aEqGAXe)<!-- MEMES:END -->
 
 ---
 
