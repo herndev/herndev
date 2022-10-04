@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When will the iPhone be forced to use USB-C?](https://www.theverge.com/2022/10/4/23387425/european-parliament-iphone-usb-type-c-radio-equipment-directive-lightning-rip)
- - [DJI Osmo Mobile 6 review: The best smartphone gimbal gets even better](https://www.androidauthority.com/dji-osmo-mobile-6-review-3214236/)
- - [True crime dramas to watch after &lpar;or instead of&rpar; Netflix’s Jeffrey Dahmer show](https://www.androidauthority.com/shows-like-dahmer-netflix-monster-jeffrey-dahmer-show-3215859/)<!-- TECH:END -->
+ - [Overwatch 2 is less of a sequel and more of a remix](https://www.theverge.com/2022/10/4/23387041/overwatch-2-review-new-battle-pass-heroes-maps)
+ - [The new iOS is more exciting than the new iPhone this year](https://www.theverge.com/2022/10/4/23387358/ios-16-features-lock-screen-iphone-14-pro-max-dynamic-island-always-on-display)
+ - [Arizona&#39;s AG: Google will pay $85M to resolve the state&#39;s consumer privacy lawsuit that claims it surreptitiously collects users&#39; location data for targeted ads &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/221004/p29#a221004p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
