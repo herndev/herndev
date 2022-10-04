@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to request a Stadia refund — before it’s too late](https://www.androidauthority.com/request-stadia-refund-3216029/)
- - [Elon Musk is really buying Twitter for real this time, really, for sure](https://www.androidauthority.com/elon-musk-twitter-sale-3216345/)
- - [Apple&#39;s MagSafe Charger gets firmware update](https://appleinsider.com/articles/22/10/04/apples-magsafe-charger-gets-firmware-update?utm_medium=rss)<!-- TECH:END -->
+ - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)
+ - [Elon Musk&#39;s proposal to proceed with his Twitter bid for $54.20/share hinges on receiving debt financing and the end of all legal actions related to the deal &lpar;Axios&rpar;](http://www.techmeme.com/221004/p30#a221004p30)
+ - [Chromecast with Google TV &lpar;HD&rpar; review: The new king of HD streaming](https://www.androidauthority.com/chromecast-with-google-tv-hd-review-3212021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
