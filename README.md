@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Treasury-led regulators release a report on digital assets calling on Congress to provide more resources to police crypto, regulate stablecoins, and more &lpar;Ephrat Livni/New York Times&rpar;](http://www.techmeme.com/221003/p21#a221003p21)
- - [Google’s Pixel Watch just got an early unboxing](https://www.androidauthority.com/google-pixel-watch-2-3215962/)
- - [The perfect smart home controller exists — but you probably can’t buy it](https://www.theverge.com/2022/10/3/23385183/smart-home-controller-ava-remote-cedia-2022)<!-- TECH:END -->
+ - [Japan Sends Emergency Alert After North Korean Missile Launch     - CNET](https://www.cnet.com/culture/japan-sends-emergency-alert-after-north-korean-missile-launch/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CAD590a51e)
+ - [South Korean company Naver agrees to acquire Poshmark for $17.90 per share, representing an enterprise value of ~$1.2B; Poshmark stock rose 14%+ after hours &lpar;Kathryn Hardison/Wall Street Journal&rpar;](http://www.techmeme.com/221003/p22#a221003p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
