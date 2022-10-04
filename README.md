@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Oct. 4&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
- - [Google discontinues Google Translate in mainland China, one of the last remaining services the company provides in the country, citing &quot;low usage&quot; &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221004/p3#a221004p3)
- - [Galaxy S23 Plus, S23 Ultra battery info leaks: There’s good news here](https://www.androidauthority.com/samsung-galaxy-s23-plus-ultra-battery-3215670/)<!-- TECH:END -->
+ - [Walgreens is setting up a network of automated drug-filling centers, expecting robots to cut pharmacist workloads by 25%+ and save the company $1B+ per year &lpar;Sharon Terlep/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p5#a221004p5)
+ - [Daily Authority: 🔋 S23 Plus’ battery bonus](https://www.androidauthority.com/daily-authority-october-4-2022-3215806/)
+ - [Mastercard announces Crypto Secure, which uses AI to help banks identify and stop transactions from fraud-prone crypto exchanges, powered by CipherTrace&#39;s tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221004/p4#a221004p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
