@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Walgreens is setting up a network of automated drug-filling centers, expecting robots to cut pharmacist workloads by 25%+ and save the company $1B+ per year &lpar;Sharon Terlep/Wall Street Journal&rpar;](http://www.techmeme.com/221004/p5#a221004p5)
- - [Daily Authority: 🔋 S23 Plus’ battery bonus](https://www.androidauthority.com/daily-authority-october-4-2022-3215806/)
- - [Mastercard announces Crypto Secure, which uses AI to help banks identify and stop transactions from fraud-prone crypto exchanges, powered by CipherTrace&#39;s tech &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221004/p4#a221004p4)<!-- TECH:END -->
+ - [Sensor Tower: Apple&#39;s App Store net revenue fell by around 5% in September, the steepest drop since 2015, as gaming revenue declined by 14% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221004/p10#a221004p10)
+ - [Sources: Apple&#39;s iPhone exports from India crossed $1B since April 2022 and could reach $2.5B by March 2023, up from $1.3B in the year ending March 2022 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/221004/p9#a221004p9)
+ - [Despite Elon Musk offering Iranians access to Starlink, experts say quickly building the infrastructure and evading government censorship will prove difficult &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221004/p8#a221004p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
