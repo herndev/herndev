@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Remaking Dead Space, Available for Pre-Order Today](https://news.xbox.com/en-us/2022/10/04/remaking-dead-space-available-for-pre-order-today/)
- - [Dear Polygon: Eep, I need an ominous horror movie that isn’t just about murder!](https://www.polygon.com/what-to-watch/2022/10/4/23378989/scary-horror-movies-to-watch-stream-possession-eyes-without-face-possessor)
- - [Here&#39;s A Canceled Zelda Tactics Game You Probably Don&#39;t Know About](https://kotaku.com/zelda-final-fantasy-tactics-nintendo-metroid-prime-1849614955)<!-- GAME:END -->
+ - [Why Dream kept his face hidden — and why he revealed it](https://www.polygon.com/23386130/dream-face-reveal-explained-minecraft-youtube)
+ - [Overwatch 2 beginner’s guide, tips, and tricks](https://www.polygon.com/overwatch-2-guide/23375905/beginners-ow2-guide-tips-tricks-battle-pass-heroes-objective)
+ - [How to unlock Overwatch 2 heroes](https://www.pcgamer.com/overwatch-2-unlock-heroes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
