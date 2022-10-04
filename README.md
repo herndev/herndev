@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Friendly reminder](http://9gag.com/gag/aXnEr6D)
- - ⏩ [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
- - 👉 [Helth goes brrr](http://9gag.com/gag/a3ZdbZ8)<!-- MEMES:END -->
+ - 💣 [Crossover episode](http://9gag.com/gag/awZb1Yy)
+ - ⏩ [I&#39;m 6&#39;2` &lpar;188 cm&rpar; but because of a genetic quirk my feet are only size 2 &lpar;EU 33&rpar;...my doctor said I may have the smallest feet on a grown man in the world.](http://9gag.com/gag/aYVp1PN)
+ - 👉 [What a plottwist](http://9gag.com/gag/arme2xV)<!-- MEMES:END -->
 
 ---
 
