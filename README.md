@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Horizon Blockchain Games, which develops the Sequence developer platform, Niftyswap marketplace, and Skyweaver trading card game, raised a $40M Series A &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221004/p17#a221004p17)
- - [Bowers &amp; Wilkins Px8 Headphones Are a Sweet Upgrade](https://www.wired.com/review/bowers-and-wilkins-px8-headphones/)
- - [SteelSeries&#39; Arena 7 Speakers Are a Powerhouse for Gamers](https://www.wired.com/review/steelseries-arena-7/)<!-- TECH:END -->
+ - [Xiaomi announces the flagship &amp;euro;599 12T, featuring a 108MP camera, and &amp;euro;759 12T Pro, featuring a 200MP camera, both with 6.67-inch displays, available October 13 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221004/p20#a221004p20)
+ - [EU officially makes USB-C mandatory for smartphones, but here’s what’s next](https://www.androidauthority.com/eu-usb-c-mandatory-2024-3216175/)
+ - [Google&#39;s Nest announces the $180 Nest Doorbell Wired and $200 Nest Wifi Pro with Wi-Fi 6E support, updates the Home app, and confirms support for Matter &lpar;Jason Cipriani/ZDNet&rpar;](http://www.techmeme.com/221004/p19#a221004p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
