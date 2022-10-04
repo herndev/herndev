@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The NLRB says Activision Blizzard withheld raises from QA testers over their union activity; Activision is negotiating with Raven testers who voted to unionize &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221003/p25#a221003p25)
- - [Hey HBO, &#39;House of the Dragon&#39; Is Too Dark to See     - CNET](https://www.cnet.com/culture/entertainment/hey-hbo-house-of-the-dragon-is-too-dark-to-see/#ftag=CAD590a51e)
- - [Historic Mars Orbiter Declared Dead After Eight-Year Mission     - CNET](https://www.cnet.com/science/space/historic-mars-orbiter-declared-dead-after-eight-year-mission/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Arm sheds 40% of the staff that it had hired as part of a SoftBank pledge to the UK government, amid concerns that the company is shifting its focus abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/221004/p1#a221004p1)
+ - [Best Gifts for Cyclists That Will Actually Get Used     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)
+ - [The NLRB says Activision Blizzard withheld raises from QA testers over their union activity; Activision is negotiating with Raven testers who voted to unionize &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221003/p25#a221003p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
