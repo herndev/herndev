@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
- - ⏩ [She really had us in the first half](http://9gag.com/gag/aoKZxK3)
- - 👉 [Bad Luck Boris](http://9gag.com/gag/avQZRpd)<!-- MEMES:END -->
+ - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - ⏩ [Sweden part 1/3](http://9gag.com/gag/abvqB38)
+ - 👉 [Give me your best gifs describing the current state of the world](http://9gag.com/gag/axo2RWM)<!-- MEMES:END -->
 
 ---
 
