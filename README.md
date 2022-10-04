@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Overwatch 2](https://news.xbox.com/en-us/2022/10/04/welcome-to-overwatch-2/)
- - [Overwatch 2 is now live](https://www.pcgamer.com/overwatch-2-launch-time)
- - [Two Witcher spin-off games are on the way as well as the new trilogy](https://www.pcgamer.com/two-witcher-spin-off-games-are-on-the-way-as-well-as-the-new-trilogy)<!-- GAME:END -->
+ - [Magic: The Gathering 30th Anniversary includes 60 random cards for $999](https://www.polygon.com/23387739/mtg-magic-the-gather-30-anniversary-box-price-collectible)
+ - [Colleagues pay tribute to Metro Exodus animator who died fighting for Ukraine](https://www.pcgamer.com/colleagues-pay-tribute-to-metro-exodus-animator-who-died-fighting-for-ukraine)
+ - [Overwatch 2 having rough launch, Blizzard blames ‘mass DDoS attack’ on servers](https://www.polygon.com/23385195/overwatch-2-server-errors-down-offline-login-queue)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
