@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Opendoor’s iBuyer Model Is a Canary in the Economic Coal Mine](https://www.wired.com/story/opendoor-ibuyers-housing-market/)
- - [How to Set Up an Apple Watch for Your Kids](https://www.wired.com/story/how-to-use-family-setup-apple-watch/)
- - [Biden&#39;s AI Bill of Rights Is Toothless Against Big Tech](https://www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/)<!-- TECH:END -->
+ - [Horizon Blockchain Games, which develops the Sequence developer platform, Niftyswap marketplace, and Skyweaver trading card game, raised a $40M Series A &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221004/p17#a221004p17)
+ - [Bowers &amp; Wilkins Px8 Headphones Are a Sweet Upgrade](https://www.wired.com/review/bowers-and-wilkins-px8-headphones/)
+ - [SteelSeries&#39; Arena 7 Speakers Are a Powerhouse for Gamers](https://www.wired.com/review/steelseries-arena-7/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
