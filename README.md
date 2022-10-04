@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia, which had suspended shipments to Russia, says it will close its Russian offices and offer employees an option to continue their jobs in other countries &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/221003/p24#a221003p24)
- - [Marvel Cinematic Universe Phase 4: The Full List of Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
- - [Google Discontinues Translate Service in Mainland China     - CNET](https://www.cnet.com/tech/services-and-software/google-discontinues-translate-service-in-mainland-china/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The NLRB says Activision Blizzard withheld raises from QA testers over their union activity; Activision is negotiating with Raven testers who voted to unionize &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221003/p25#a221003p25)
+ - [Hey HBO, &#39;House of the Dragon&#39; Is Too Dark to See     - CNET](https://www.cnet.com/culture/entertainment/hey-hbo-house-of-the-dragon-is-too-dark-to-see/#ftag=CAD590a51e)
+ - [Historic Mars Orbiter Declared Dead After Eight-Year Mission     - CNET](https://www.cnet.com/science/space/historic-mars-orbiter-declared-dead-after-eight-year-mission/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
