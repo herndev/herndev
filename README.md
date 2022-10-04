@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 472 answer and hint: Tuesday, October 4](https://www.pcgamer.com/todays-wordle-472-answer-hint)
  - [Google Japan&#39;s absurdly long stick keyboard is actually real](https://www.pcgamer.com/google-japans-absurdly-long-stick-keyboard-is-actually-real)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [It&#39;s now way easier to add a dope custom boot screen to your Steam Deck](https://www.pcgamer.com/its-now-way-easier-to-add-a-dope-custom-boot-screen-to-your-steam-deck)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
