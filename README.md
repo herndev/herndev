@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan Sends Emergency Alert After North Korean Missile Launch     - CNET](https://www.cnet.com/culture/japan-sends-emergency-alert-after-north-korean-missile-launch/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-now/#ftag=CAD590a51e)
- - [South Korean company Naver agrees to acquire Poshmark for $17.90 per share, representing an enterprise value of ~$1.2B; Poshmark stock rose 14%+ after hours &lpar;Kathryn Hardison/Wall Street Journal&rpar;](http://www.techmeme.com/221003/p22#a221003p22)<!-- TECH:END -->
+ - [Google Discontinues Translate Service in Mainland China     - CNET](https://www.cnet.com/tech/services-and-software/google-discontinues-translate-service-in-mainland-china/#ftag=CAD590a51e)
+ - [Samsung unveils a roadmap for mass production of advanced chips, with its second-generation 3nm chips coming in 2024, 2nm chips in 2025, and 1.4nm chips in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221003/p23#a221003p23)
+ - [Asteroid Smacked by NASA&#39;s DART Now Has Huge Comet-Like Debris Tail     - CNET](https://www.cnet.com/science/space/asteroid-smacked-by-nasas-dart-now-has-a-huge-comet-like-debris-tail/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
