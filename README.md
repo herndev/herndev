@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nutella](http://9gag.com/gag/aEqGXMn)
- - ⏩ [DO YOU MEMBER?](http://9gag.com/gag/aMEbvq1)
- - 👉 [Salute, cleaning lady!](http://9gag.com/gag/a1PZLYv)<!-- MEMES:END -->
+ - 💣 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - ⏩ [Motivational pic of the day](http://9gag.com/gag/ajV6Zpx)
+ - 👉 [Promotion incoming!!!](http://9gag.com/gag/abvqQ6r)<!-- MEMES:END -->
 
 ---
 
