@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
- - ⏩ [Buster Keaton doing Buster Keaton Things.](http://9gag.com/gag/aGEVG5Z)
- - 👉 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)<!-- MEMES:END -->
+ - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
+ - ⏩ [She really had us in the first half](http://9gag.com/gag/aoKZxK3)
+ - 👉 [Bad Luck Boris](http://9gag.com/gag/avQZRpd)<!-- MEMES:END -->
 
 ---
 
