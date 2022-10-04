@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Disney Plus relaunches on PS5 — now with 4K HDR playback](https://www.theverge.com/2022/10/4/23386929/disney-plus-sony-playstation-5-4k-hdr-app-now-available)
- - [Google has three new products in its Nest lineup](https://appleinsider.com/articles/22/10/04/google-has-three-new-products-in-its-nest-lineup?utm_medium=rss)
- - [I bought a pair of studio monitors for music, here’s what I learned](https://www.androidauthority.com/studio-monitors-vs-speakers-3210769/)<!-- TECH:END -->
+ - [In stock: Apple Mac Studio &lpar;64GB RAM, 1TB SSD&rpar; now $150 off, AppleCare on sale for $139](https://appleinsider.com/articles/22/10/04/in-stock-apple-mac-studio-64gb-ram-1tb-ssd-now-150-off-applecare-on-sale-for-139?utm_medium=rss)
+ - [We asked, you told us: Here’s what you think of the Pixel 7 colors](https://www.androidauthority.com/google-pixel-7-colors-poll-results-3216136/)
+ - [Hottest Holiday Toys of 2022     - CNET](https://www.cnet.com/culture/entertainment/holiday-toys/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
