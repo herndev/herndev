@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Game developers explain what makes God of War &lpar;2018&rpar;’s combat tick](https://blog.playstation.com/2022/10/04/game-developers-explain-what-makes-god-of-war-2018s-combat-tick/)
- - [Chivalry 2, Scorn, and A Plague Tale: Requiem coming to Xbox Game Pass in October](https://www.polygon.com/23386935/xbox-game-pass-october-2022-games-chivalry-2-scorn-the-walking-dead-season-2)
- - [First look at Super Mario Bros. movie coming in new Nintendo Direct](https://www.polygon.com/23387007/super-mario-bros-movie-trailer-poster-nintendo-direct-date)<!-- GAME:END -->
+ - [Overwatch 2: How to add a phone number for Blizzard’s SMS Protect](https://www.polygon.com/23385894/sms-protect-add-phone-number)
+ - [Let’s Sing ABBA: When Karaoke Meets Disco](https://news.xbox.com/en-us/2022/10/04/lets-sing-abba-when-karaoke-meets-disco/)
+ - [CD Projekt Red announces Cyberpunk 2077 sequel, Project Orion](https://www.polygon.com/23387185/cyberpunk-2077-sequel-project-orion-announcement-cd-projekt-red)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
