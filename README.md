@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony remains frustratingly vague on future PC plans](https://www.pcgamer.com/sony-remains-frustratingly-vague-on-future-pc-plans)
- - [Activision Blizzard withheld raises to retaliate against unionising staff, US Labor Relations Board finds](https://www.pcgamer.com/activision-blizzard-withheld-raises-to-retaliate-against-unionising-staff-us-labor-relations-board-finds)
- - [TV Network Ripped Online After Calling Classic Sega Game &#39;Indie&#39;](https://kotaku.com/sega-sky-altered-beast-indie-games-retro-comcast-1849613083)<!-- GAME:END -->
+ - [The Deer King director brought every lesson from Princess Mononoke to his epic fantasy](https://www.polygon.com/23385150/the-deer-king-animation-masashi-ando-studio-ghibli-lessons)
+ - [The Resident Evil Games That Keep Us Up At Night, Ranked From Worst To Best](https://kotaku.com/lets-rank-the-main-resident-evil-games-from-worst-to-b-1847399290)
+ - [Coming Soon to Xbox Game Pass: Chivalry 2, Scorn, A Plague Tale: Requiem, and More](https://news.xbox.com/en-us/2022/10/04/game-pass-october-2022-wave-1-announce/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
