@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Oct. 4&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
  - [Google discontinues Google Translate in mainland China, one of the last remaining services the company provides in the country, citing &quot;low usage&quot; &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221004/p3#a221004p3)
- - [Galaxy S23 Plus, S23 Ultra battery info leaks: There’s good news here](https://www.androidauthority.com/samsung-galaxy-s23-plus-ultra-battery-3215670/)
- - [Google Pixel Watch: Everything we know so far &lpar;Updated: Oct 4&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
+ - [Galaxy S23 Plus, S23 Ultra battery info leaks: There’s good news here](https://www.androidauthority.com/samsung-galaxy-s23-plus-ultra-battery-3215670/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
