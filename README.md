@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Other Ever Afters makes fairy tales subversive, kinder, and a whole lot queerer](https://www.polygon.com/23365082/other-ever-afters-queer-comics-fairy-tales-mel-gillman-interview)
- - [Time For A New Obsession: Official Pokémon Cards With Only Crochet Art](https://kotaku.com/pokemon-tcg-cards-asako-ito-nintendo-silver-tempest-1849614423)
- - [Hitman 3’s Freelancer mode delayed again, but you’ll have the chance to try it soon](https://www.polygon.com/23387160/hitman-3-freelance-mode-delay-technical-test)<!-- GAME:END -->
+ - [Remaking Dead Space, Available for Pre-Order Today](https://news.xbox.com/en-us/2022/10/04/remaking-dead-space-available-for-pre-order-today/)
+ - [Dear Polygon: Eep, I need an ominous horror movie that isn’t just about murder!](https://www.polygon.com/what-to-watch/2022/10/4/23378989/scary-horror-movies-to-watch-stream-possession-eyes-without-face-possessor)
+ - [Here&#39;s A Canceled Zelda Tactics Game You Probably Don&#39;t Know About](https://kotaku.com/zelda-final-fantasy-tactics-nintendo-metroid-prime-1849614955)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
