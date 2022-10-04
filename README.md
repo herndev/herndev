@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
- - ⏩ [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - 👉 [Mobilization of Russian troops on a German postcard from 1914. More than 100 years later nothing really changed.](http://9gag.com/gag/aZDWzKp)<!-- MEMES:END -->
+ - 💣 [My current mental state\u2026](http://9gag.com/gag/axo2372)
+ - ⏩ [Remind me of something](http://9gag.com/gag/avQZddO)
+ - 👉 [You monster, who keeps a baby in a cage!](http://9gag.com/gag/axo2mEp)<!-- MEMES:END -->
 
 ---
 
