@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Discontinues Translate Service in Mainland China     - CNET](https://www.cnet.com/tech/services-and-software/google-discontinues-translate-service-in-mainland-china/#ftag=CAD590a51e)
- - [Samsung unveils a roadmap for mass production of advanced chips, with its second-generation 3nm chips coming in 2024, 2nm chips in 2025, and 1.4nm chips in 2027 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221003/p23#a221003p23)
- - [Asteroid Smacked by NASA&#39;s DART Now Has Huge Comet-Like Debris Tail     - CNET](https://www.cnet.com/science/space/asteroid-smacked-by-nasas-dart-now-has-a-huge-comet-like-debris-tail/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Nvidia, which had suspended shipments to Russia, says it will close its Russian offices and offer employees an option to continue their jobs in other countries &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/221003/p24#a221003p24)
+ - [Marvel Cinematic Universe Phase 4: The Full List of Release Dates     - CNET](https://www.cnet.com/culture/entertainment/marvel-cinematic-universe-phase-4-the-full-list-of-release-dates/#ftag=CAD590a51e)
+ - [Google Discontinues Translate Service in Mainland China     - CNET](https://www.cnet.com/tech/services-and-software/google-discontinues-translate-service-in-mainland-china/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
