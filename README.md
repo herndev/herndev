@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This time she nailed it](http://9gag.com/gag/a4o9nR1)
- - ⏩ [On Saturday October the 2nd the 16 year old Nika Shakarami was shot dead in the streets by the ruthless killers of the Islamic regime in Iran. one day before her 17th birthday!](http://9gag.com/gag/a8qb2GY)
- - 👉 [Love story](http://9gag.com/gag/ajV6Ze8)<!-- MEMES:END -->
+ - 💣 [He always protec](http://9gag.com/gag/ago02on)
+ - ⏩ [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - 👉 [He&#39;s a douchebag, but this is a prime Chad move.](http://9gag.com/gag/amALMYd)<!-- MEMES:END -->
 
 ---
 
