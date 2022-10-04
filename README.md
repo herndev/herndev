@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple seeds fourth iOS 16.1 and tvOS 16.1, fifth iPadOS 16.1 betas to developers](https://appleinsider.com/articles/22/10/04/apple-seeds-fourth-ios-161-and-tvos-161-fifth-ipados-161-betas-to-developers?utm_medium=rss)
- - [Apple seeds tenth developer beta of macOS Ventura](https://appleinsider.com/articles/22/10/04/apple-seeds-tenth-developer-beta-of-macos-ventura?utm_medium=rss)
- - [A judge says Twitter can proceed with a limited probe to see if whistleblower Peiter Zatko contacted Elon Musk&#39;s lawyers before he backed out of the deal &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221004/p28#a221004p28)<!-- TECH:END -->
+ - [When will the iPhone be forced to use USB-C?](https://www.theverge.com/2022/10/4/23387425/european-parliament-iphone-usb-type-c-radio-equipment-directive-lightning-rip)
+ - [DJI Osmo Mobile 6 review: The best smartphone gimbal gets even better](https://www.androidauthority.com/dji-osmo-mobile-6-review-3214236/)
+ - [True crime dramas to watch after &lpar;or instead of&rpar; Netflix’s Jeffrey Dahmer show](https://www.androidauthority.com/shows-like-dahmer-netflix-monster-jeffrey-dahmer-show-3215859/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
