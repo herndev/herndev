@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Google Japan&#39;s absurdly long stick keyboard is actually real](https://www.pcgamer.com/google-japans-absurdly-long-stick-keyboard-is-actually-real)
  - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
- - [It&#39;s now way easier to add a dope custom boot screen to your Steam Deck](https://www.pcgamer.com/its-now-way-easier-to-add-a-dope-custom-boot-screen-to-your-steam-deck)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 3&rpar;](https://news.xbox.com/en-us/2022/10/03/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-3/)<!-- GAME:END -->
+ - [It&#39;s now way easier to add a dope custom boot screen to your Steam Deck](https://www.pcgamer.com/its-now-way-easier-to-add-a-dope-custom-boot-screen-to-your-steam-deck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
