@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DDR5-7600 XMP memory is coming to Intel&#39;s 13th Gen platform](https://www.pcgamer.com/ddr5-7600-xmp-memory-is-coming-to-intels-13th-gen-platform)
- - [Today&#39;s Wordle 472 answer and hint: Tuesday, October 4](https://www.pcgamer.com/todays-wordle-472-answer-hint)
- - [Google Japan&#39;s absurdly long stick keyboard is actually real](https://www.pcgamer.com/google-japans-absurdly-long-stick-keyboard-is-actually-real)<!-- GAME:END -->
+ - [Sony remains frustratingly vague on future PC plans](https://www.pcgamer.com/sony-remains-frustratingly-vague-on-future-pc-plans)
+ - [Activision Blizzard withheld raises to retaliate against unionising staff, US Labor Relations Board finds](https://www.pcgamer.com/activision-blizzard-withheld-raises-to-retaliate-against-unionising-staff-us-labor-relations-board-finds)
+ - [TV Network Ripped Online After Calling Classic Sega Game &#39;Indie&#39;](https://kotaku.com/sega-sky-altered-beast-indie-games-retro-comcast-1849613083)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
