@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 3&rpar;](https://news.xbox.com/en-us/2022/10/03/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-3/)
- - [Five new Steam games you probably missed &lpar;October 4, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-4-2022)
- - [The October PC game releases and events you should know about](https://www.pcgamer.com/october-2022-pc-game-releases)<!-- GAME:END -->
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)
+ - [It&#39;s now way easier to add a dope custom boot screen to your Steam Deck](https://www.pcgamer.com/its-now-way-easier-to-add-a-dope-custom-boot-screen-to-your-steam-deck)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 3&rpar;](https://news.xbox.com/en-us/2022/10/03/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
