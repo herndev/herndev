@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 is less of a sequel and more of a remix](https://www.theverge.com/2022/10/4/23387041/overwatch-2-review-new-battle-pass-heroes-maps)
- - [The new iOS is more exciting than the new iPhone this year](https://www.theverge.com/2022/10/4/23387358/ios-16-features-lock-screen-iphone-14-pro-max-dynamic-island-always-on-display)
- - [Arizona&#39;s AG: Google will pay $85M to resolve the state&#39;s consumer privacy lawsuit that claims it surreptitiously collects users&#39; location data for targeted ads &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/221004/p29#a221004p29)<!-- TECH:END -->
+ - [How to request a Stadia refund — before it’s too late](https://www.androidauthority.com/request-stadia-refund-3216029/)
+ - [Elon Musk is really buying Twitter for real this time, really, for sure](https://www.androidauthority.com/elon-musk-twitter-sale-3216345/)
+ - [Apple&#39;s MagSafe Charger gets firmware update](https://appleinsider.com/articles/22/10/04/apples-magsafe-charger-gets-firmware-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
