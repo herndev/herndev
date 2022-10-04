@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BrandTotal and Unimania agreed to a permanent injunction banning them from using and scraping Facebook and Instagram, and will pay a &quot;significant financial sum&quot; &lpar;TechCrunch&rpar;](http://www.techmeme.com/221004/p2#a221004p2)
- - [Arm sheds 40% of the staff that it had hired as part of a SoftBank pledge to the UK government, amid concerns that the company is shifting its focus abroad &lpar;Financial Times&rpar;](http://www.techmeme.com/221004/p1#a221004p1)
- - [Best Gifts for Cyclists That Will Actually Get Used     - CNET](https://www.cnet.com/health/fitness/best-gifts-for-cyclists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google discontinues Google Translate in mainland China, one of the last remaining services the company provides in the country, citing &quot;low usage&quot; &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221004/p3#a221004p3)
+ - [Galaxy S23 Plus, S23 Ultra battery info leaks: There’s good news here](https://www.androidauthority.com/samsung-galaxy-s23-plus-ultra-battery-3215670/)
+ - [Google Pixel Watch: Everything we know so far &lpar;Updated: Oct 4&rpar;](https://www.androidauthority.com/google-pixel-watch-3042018/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
