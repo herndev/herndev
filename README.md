@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
- - ⏩ [Sweden part 1/3](http://9gag.com/gag/abvqB38)
- - 👉 [Boomer humour](http://9gag.com/gag/awZbd4Q)<!-- MEMES:END -->
+ - 💣 [This time she nailed it](http://9gag.com/gag/a4o9nR1)
+ - ⏩ [On Saturday October the 2nd the 16 year old Nika Shakarami was shot dead in the streets by the ruthless killers of the Islamic regime in Iran. one day before her 17th birthday!](http://9gag.com/gag/a8qb2GY)
+ - 👉 [Love story](http://9gag.com/gag/ajV6Ze8)<!-- MEMES:END -->
 
 ---
 
