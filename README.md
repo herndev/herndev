@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - 💣 [Ever wondered?](http://9gag.com/gag/a04Popv)
  - ⏩ [Ultimate Pet](http://9gag.com/gag/a2KP0nY)
- - 👉 [She is fearless](http://9gag.com/gag/aXnEV62)<!-- MEMES:END -->
+ - 👉 [Excuse me ma&#39;am](http://9gag.com/gag/axo2bNK)<!-- MEMES:END -->
 
 ---
 
