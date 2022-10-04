@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - ⏩ [Way to go!!](http://9gag.com/gag/a6qd5gN)
- - 👉 [Czech people raising $1.3 million to buy a T-72 for Ukraine](http://9gag.com/gag/aEqGAXe)<!-- MEMES:END -->
+ - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - ⏩ [Ultimate Pet](http://9gag.com/gag/a2KP0nY)
+ - 👉 [She is fearless](http://9gag.com/gag/aXnEV62)<!-- MEMES:END -->
 
 ---
 
