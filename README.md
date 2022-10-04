@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever wondered?](http://9gag.com/gag/a04Popv)
- - ⏩ [Ultimate Pet](http://9gag.com/gag/a2KP0nY)
- - 👉 [Excuse me ma&#39;am](http://9gag.com/gag/axo2bNK)<!-- MEMES:END -->
+ - 💣 [She charge-punched the demon back into darkness](http://9gag.com/gag/aBdQmOZ)
+ - ⏩ [Now what?](http://9gag.com/gag/a3ZdyEv)
+ - 👉 [Unrepairable mistake were made\u2026](http://9gag.com/gag/aWG0v2q)<!-- MEMES:END -->
 
 ---
 
