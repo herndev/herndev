@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - ⏩ [She really had us in the first half](http://9gag.com/gag/aoKZxK3)
- - 👉 [9GAG is being overrun by this script bot. A new account pops up every few days and they spam the site with cheap NSFW stuff. Be vigilant! Here is a bot potato for your attention](http://9gag.com/gag/abvqxxv)<!-- MEMES:END -->
+ - 💣 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
+ - ⏩ [Oopsie](http://9gag.com/gag/a7qK93z)
+ - 👉 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)<!-- MEMES:END -->
 
 ---
 
