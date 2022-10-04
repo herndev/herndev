@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Prime Early Access deals on Amazon devices](https://www.theverge.com/23385621/amazon-prime-early-access-sale-devices-alexa-ring-blink-echo-dot-kindle-2022)
- - [Elon Musk&#39;s proposal to proceed with his Twitter bid for $54.20/share hinges on receiving debt financing and the end of all legal actions related to the deal &lpar;Axios&rpar;](http://www.techmeme.com/221004/p30#a221004p30)
- - [Chromecast with Google TV &lpar;HD&rpar; review: The new king of HD streaming](https://www.androidauthority.com/chromecast-with-google-tv-hd-review-3212021/)<!-- TECH:END -->
+ - [Amazon curbs corporate retail hiring for the rest of 2022](https://www.theverge.com/2022/10/4/23387743/amazon-corporate-hiring-freeze)
+ - [The best T-Mobile deals: Try T-Mobile for free for three months](https://www.androidauthority.com/best-t-mobile-deals-836582/)
+ - [Meta debuts Instagram ads on the Explore page and tests ads in profile feeds, letting creators earn extra income, and a shorter ad format for Facebook Reels &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221004/p33#a221004p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
