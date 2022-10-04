@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - ⏩ [Guess the country easy version](http://9gag.com/gag/aNwoO16)
- - 👉 [Every bully needs a bigger bully](http://9gag.com/gag/aWG0DPZ)<!-- MEMES:END -->
+ - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
+ - ⏩ [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 👉 [Mobilization of Russian troops on a German postcard from 1914. More than 100 years later nothing really changed.](http://9gag.com/gag/aZDWzKp)<!-- MEMES:END -->
 
 ---
 
