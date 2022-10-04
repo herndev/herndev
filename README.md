@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Talk to someone. Lend an ear.](http://9gag.com/gag/avQZx8q)
- - ⏩ [Oopsie](http://9gag.com/gag/a7qK93z)
- - 👉 [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)<!-- MEMES:END -->
+ - ⏩ [Buster Keaton doing Buster Keaton Things.](http://9gag.com/gag/aGEVG5Z)
+ - 👉 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)<!-- MEMES:END -->
 
 ---
 
