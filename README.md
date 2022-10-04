@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this on quora](http://9gag.com/gag/amALoN6)
- - ⏩ [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
- - 👉 [Elon&#39;s logic](http://9gag.com/gag/a7qK0nr)<!-- MEMES:END -->
+ - 💣 [Absolutely ridiculous](http://9gag.com/gag/aYVpEKO)
+ - ⏩ [Elon&#39;s logic](http://9gag.com/gag/a7qK0nr)
+ - 👉 [Excuse me ma&#39;am](http://9gag.com/gag/axo2bNK)<!-- MEMES:END -->
 
 ---
 
