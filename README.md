@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [DDR5-7600 XMP memory is coming to Intel&#39;s 13th Gen platform](https://www.pcgamer.com/ddr5-7600-xmp-memory-is-coming-to-intels-13th-gen-platform)
  - [Today&#39;s Wordle 472 answer and hint: Tuesday, October 4](https://www.pcgamer.com/todays-wordle-472-answer-hint)
- - [Google Japan&#39;s absurdly long stick keyboard is actually real](https://www.pcgamer.com/google-japans-absurdly-long-stick-keyboard-is-actually-real)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Google Japan&#39;s absurdly long stick keyboard is actually real](https://www.pcgamer.com/google-japans-absurdly-long-stick-keyboard-is-actually-real)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
