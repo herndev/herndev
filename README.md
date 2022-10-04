@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yesterday the gov. of Iran attacked a university and arrested many students. Today high school girls removed their hijabs and chanted `Death to the dictator` in several high schools across Iran. Oct 3, 2022](http://9gag.com/gag/aBdQPqz)
- - ⏩ [Wayne Rooney is just 36 years old](http://9gag.com/gag/aMEbEb6)
- - 👉 [I wonder what are they gonna do to former Crimea governor General Poklonskaya when the war is over](http://9gag.com/gag/aeQ3V2v)<!-- MEMES:END -->
+ - 💣 [It&#39;s true!](http://9gag.com/gag/aeQ3VEj)
+ - ⏩ [Madlad being denied food](http://9gag.com/gag/a04PXeq)
+ - 👉 [Everyday I&#39;m hustlin&#39; hustlin&#39;](http://9gag.com/gag/axo2ONp)<!-- MEMES:END -->
 
 ---
 
