@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi announces the flagship &amp;euro;599 12T, featuring a 108MP camera, and &amp;euro;759 12T Pro, featuring a 200MP camera, both with 6.67-inch displays, available October 13 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221004/p20#a221004p20)
- - [EU officially makes USB-C mandatory for smartphones, but here’s what’s next](https://www.androidauthority.com/eu-usb-c-mandatory-2024-3216175/)
- - [Google&#39;s Nest announces the $180 Nest Doorbell Wired and $200 Nest Wifi Pro with Wi-Fi 6E support, updates the Home app, and confirms support for Matter &lpar;Jason Cipriani/ZDNet&rpar;](http://www.techmeme.com/221004/p19#a221004p19)<!-- TECH:END -->
+ - [Disney Plus relaunches on PS5 — now with 4K HDR playback](https://www.theverge.com/2022/10/4/23386929/disney-plus-sony-playstation-5-4k-hdr-app-now-available)
+ - [Google has three new products in its Nest lineup](https://appleinsider.com/articles/22/10/04/google-has-three-new-products-in-its-nest-lineup?utm_medium=rss)
+ - [I bought a pair of studio monitors for music, here’s what I learned](https://www.androidauthority.com/studio-monitors-vs-speakers-3210769/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
