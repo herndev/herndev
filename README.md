@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Was she about to solo a whole chocolate cake?](http://9gag.com/gag/aDYwnXG)
+ - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
  - ⏩ [Sweden part 1/3](http://9gag.com/gag/abvqB38)
- - 👉 [Give me your best gifs describing the current state of the world](http://9gag.com/gag/axo2RWM)<!-- MEMES:END -->
+ - 👉 [Boomer humour](http://9gag.com/gag/awZbd4Q)<!-- MEMES:END -->
 
 ---
 
