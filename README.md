@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: Apple&#39;s App Store net revenue fell by around 5% in September, the steepest drop since 2015, as gaming revenue declined by 14% &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221004/p10#a221004p10)
- - [Sources: Apple&#39;s iPhone exports from India crossed $1B since April 2022 and could reach $2.5B by March 2023, up from $1.3B in the year ending March 2022 &lpar;Sankalp Phartiyal/Bloomberg&rpar;](http://www.techmeme.com/221004/p9#a221004p9)
- - [Despite Elon Musk offering Iranians access to Starlink, experts say quickly building the infrastructure and evading government censorship will prove difficult &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221004/p8#a221004p8)<!-- TECH:END -->
+ - [Opendoor’s iBuyer Model Is a Canary in the Economic Coal Mine](https://www.wired.com/story/opendoor-ibuyers-housing-market/)
+ - [How to Set Up an Apple Watch for Your Kids](https://www.wired.com/story/how-to-use-family-setup-apple-watch/)
+ - [Biden&#39;s AI Bill of Rights Is Toothless Against Big Tech](https://www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
