@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies of 2022, so far](https://www.polygon.com/22927513/best-movies-2022)
- - [Bayonetta’s voice actor replaced by Jennifer Hale](https://www.polygon.com/23389037/bayonetta-3-voice-actor-jennifer-hale-hellena-taylor)
- - [The 18 Best Games For The Nintendo Switch](https://kotaku.com/the-18-best-games-for-the-nintendo-switch-1794881447)<!-- GAME:END -->
+ - [Gotham Knights: Four game experiences in one](https://blog.playstation.com/2022/10/05/gotham-knights-four-game-experiences-in-one/)
+ - [Why did CD Projekt just announce 6 new games?](https://www.polygon.com/23389053/cyberpunk-witcher-sequels-cd-projekt-analysis)
+ - [Pokémon Go&#39;s New Event Finally Lets You Evolve Cosmog](https://kotaku.com/pokemon-go-evolving-stars-cosmog-niantic-nintendo-1849618180)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
