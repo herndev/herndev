@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
- - ⏩ [Safety first](http://9gag.com/gag/armerp7)
- - 👉 [WHATS GOING ON, I DONT UNDERSTAND ANYTHING ANYMORE](http://9gag.com/gag/aPgydVG)<!-- MEMES:END -->
+ - 💣 [Give it a rest Jimbo!](http://9gag.com/gag/aVbQKqd)
+ - ⏩ [THANK YOU &lpar;chef kiss&rpar;](http://9gag.com/gag/a04PWYQ)
+ - 👉 [Questions that are better not to ask.](http://9gag.com/gag/avQZ40X)<!-- MEMES:END -->
 
 ---
 
