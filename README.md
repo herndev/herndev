@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - 💣 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
  - ⏩ [BBC. Bringing you truth by risking lives in the heat of battle.](http://9gag.com/gag/aBdQvbz)
- - 👉 [Breaking NEWS!](http://9gag.com/gag/armerOy)<!-- MEMES:END -->
+ - 👉 [He ad one job, 1 ocean , 1 pole](http://9gag.com/gag/ajV6MB8)<!-- MEMES:END -->
 
 ---
 
