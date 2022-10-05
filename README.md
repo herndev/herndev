@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - ⏩ [Qatar...](http://9gag.com/gag/aOxyAVN)
- - 👉 [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)<!-- MEMES:END -->
+ - ⏩ [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)
+ - 👉 [Libraries are fun places](http://9gag.com/gag/a1PZ8E2)<!-- MEMES:END -->
 
 ---
 
