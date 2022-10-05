@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)
- - ⏩ [They are running so fast we can&#39;t keep up with them](http://9gag.com/gag/aDYwNrK)
- - 👉 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)<!-- MEMES:END -->
+ - 💣 [Zombies of America](http://9gag.com/gag/a3Zdx5N)
+ - ⏩ [Theres a cure, its not too late](http://9gag.com/gag/aqeZpVj)
+ - 👉 [She asked for it](http://9gag.com/gag/a7qKPom)<!-- MEMES:END -->
 
 ---
 
