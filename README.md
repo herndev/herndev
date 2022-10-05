@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 473 answer and hint: Wednesday, October 5](https://www.pcgamer.com/todays-wordle-473-answer-hint)
  - [Corsair&#39;s super slim K100 Air is the best looking keyboard of the year](https://www.pcgamer.com/corsairs-super-slim-k100-air-is-the-best-looking-keyboard-of-the-year)
- - [The new Hellraiser’s gory fun only cuts skin deep](https://www.polygon.com/reviews/23387089/hellraiser-review-2022)
- - [Leading Chess Site Asked Top 100 Player Unmasked As Cheater To Confess &lpar;And They Did&rpar;](https://kotaku.com/chess-com-cheating-scandal-niemann-carlsen-confession-1849617569)<!-- GAME:END -->
+ - [The new Hellraiser’s gory fun only cuts skin deep](https://www.polygon.com/reviews/23387089/hellraiser-review-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
