@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On Saturday October the 2nd the 16 year old Nika Shakarami was shot dead in the streets by the ruthless killers of the Islamic regime in Iran. one day before her 17th birthday!](http://9gag.com/gag/a8qb2GY)
- - ⏩ [Common mistake](http://9gag.com/gag/abvqRoL)
- - 👉 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)<!-- MEMES:END -->
+ - 💣 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - ⏩ [The best sound in the world !](http://9gag.com/gag/ay2pvyy)
+ - 👉 [The repost we need right now.](http://9gag.com/gag/a3ZdnQ1)<!-- MEMES:END -->
 
 ---
 
