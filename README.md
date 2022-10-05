@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rocker cat](http://9gag.com/gag/aoKZ45A)
- - ⏩ [Wow! Hardcore Henry 2 looks beautiful.](http://9gag.com/gag/aWG0dW2)
- - 👉 [Office The](http://9gag.com/gag/a5XNxEE)<!-- MEMES:END -->
+ - 💣 [Never hit a lady](http://9gag.com/gag/anzXVdL)
+ - ⏩ [Ukrainian troops crossing the river](http://9gag.com/gag/a04Px7d)
+ - 👉 [Zombies of America](http://9gag.com/gag/a3Zdx5N)<!-- MEMES:END -->
 
 ---
 
