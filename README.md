@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Clothes Grown From Seeds Aren&#39;t Just Gorgeous, They&#39;re Compostable     - CNET](https://www.cnet.com/culture/fashion/clothes-grown-from-seeds-arent-just-gorgeous-theyre-compostable/#ftag=CAD590a51e)
- - [Apple reportedly agrees to TSMC chip price hike](https://appleinsider.com/articles/22/10/04/apple-reportedly-agrees-to-tsmc-chip-price-hike?utm_medium=rss)
- - [Everything we know about Elon Musk’s messy new Twitter offer](https://www.theverge.com/2022/10/4/23387592/elon-musk-twitter-deal-lawsuit-faq)<!-- TECH:END -->
+ - [How Twitter employees are reacting to today’s Elon Musk news](https://www.theverge.com/2022/10/4/23388385/twitter-employee-reaction-elon-musk-offer)
+ - [A CISA report finds multiple government hacking groups had &quot;long-term&quot; access to the network of a defense company using open-source Python toolkit Impacket &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221004/p36#a221004p36)
+ - [Why Elon Musk Wouldn&#39;t Face Twitter in Court](https://www.wired.com/story/why-elon-musk-wouldnt-face-twitter-in-court/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
