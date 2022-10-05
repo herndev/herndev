@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [McDonalds Workers Are Begging People To Stop Ordering Adult Happy Meals](https://kotaku.com/mcdonalds-adult-happy-meal-cactus-plant-flea-market-1849619811)
- - [EA’s new Need for Speed leaks, looks full-on anime](https://www.polygon.com/23389260/need-for-speed-unbound-leak-screenshots-anime)
- - [Chess scandal re-erupts as investigation finds the accused cheated in &#39;more than 100&#39; games](https://www.pcgamer.com/chess-scandal-re-erupts-as-investigation-finds-the-accused-cheated-in-over-100-online-games)<!-- GAME:END -->
+ - [A viral Stranger Things Halloween display has caused chaos in Illinois](https://www.polygon.com/23389330/stranger-things-halloween-display-max-mayfield-controversy-horrorprops-audrey-dave-appel)
+ - [Excited for Bayonetta 3? Play Valkyrie Elysium](https://www.polygon.com/23388011/valkyrie-elysium-bayonetta-3-release-date-square-enix-ragnarok-einherjar)
+ - [Andor’s best new character is the villain’s pushy mom](https://www.polygon.com/23389097/star-wars-andor-villain-mom-syril-youre-grounded)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
