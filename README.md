@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Microsoft’s new Windows HDR Calibration app](https://www.theverge.com/23389674/microsoft-windows-11-hdr-calibration-how-to)
- - [Google unveils Imagen Video, a text-to-video AI generator trained on 14M video-text pairs, 60M image-text pairs, and the LAION-400M image-text dataset &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p32#a221005p32)
- - [The biggest Pixel 6 frustrations that Google should fix with the Pixel 7](https://www.theverge.com/2022/10/5/23389192/google-pixel-6-7-bugs-overheating-weak-signal-improvements)<!-- TECH:END -->
+ - [Apple Watch battery blowout sends man to emergency room](https://appleinsider.com/articles/22/10/05/apple-watch-battery-blowout-sends-man-to-emergency-room?utm_medium=rss)
+ - [A US federal court jury finds ex-Uber Chief Security Officer Joe Sullivan guilty for not disclosing a 2016 breach of customer and driver records to regulators &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221005/p34#a221005p34)
+ - [Roblox and Discord are accused of enabling adult men to sexually and financially exploit a California girl in a lawsuit filed by a social media watchdog group &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p33#a221005p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
