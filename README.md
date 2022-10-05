@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Zombies of America](http://9gag.com/gag/a3Zdx5N)
- - ⏩ [Theres a cure, its not too late](http://9gag.com/gag/aqeZpVj)
- - 👉 [She asked for it](http://9gag.com/gag/a7qKPom)<!-- MEMES:END -->
+ - 💣 [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - ⏩ [Kanye on black culture. &lpar; Sorry for Emoji &rpar;](http://9gag.com/gag/a5XNvMV)
+ - 👉 [Blinker fluid](http://9gag.com/gag/ap9oz49)<!-- MEMES:END -->
 
 ---
 
