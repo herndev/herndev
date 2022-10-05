@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CD Projekt is losing a CEO but gaining a new studio](https://www.pcgamer.com/cd-projekt-is-losing-a-ceo-but-gaining-a-new-studio)
- - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
- - [Finally! USB-C charging ports will be required by law in the EU for most portable tech from 2024](https://www.pcgamer.com/finally-usb-c-charging-ports-will-be-required-by-law-in-the-eu-for-most-portable-tech-from-2024)<!-- GAME:END -->
+ - [The new Hellraiser’s gory fun only cuts skin deep](https://www.polygon.com/reviews/23387089/hellraiser-review-2022)
+ - [Leading Chess Site Asked Top 100 Player Unmasked As Cheater To Confess &lpar;And They Did&rpar;](https://kotaku.com/chess-com-cheating-scandal-niemann-carlsen-confession-1849617569)
+ - [CD Projekt is losing a CEO but gaining a new studio](https://www.pcgamer.com/cd-projekt-is-losing-a-ceo-but-gaining-a-new-studio)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
