@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Series 8 review: Speedy and steady](https://www.androidauthority.com/apple-watch-series-8-review-3213464/)
- - [Chainalysis: MENA was the fastest-growing crypto market between July 2021 and June 2022, with transaction volume up 48% YoY to $566B; North America grew 36% &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221005/p30#a221005p30)
- - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [SanDisk PRO-G40 SSD supports Thunderbolt 3 &amp; USB 3.2 Gen 2](https://appleinsider.com/articles/22/10/05/new-sandisk-pro-g40-ssd-supports-thunderbolt-3-and-usb-32-gen-2?utm_medium=rss)
+ - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)
+ - [Compared: Parallels Desktop 18 vs VMWare Fusion](https://appleinsider.com/inside/macos/vs/compared-parallels-desktop-18-vs-vmware-fusion?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
