@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Safety first](http://9gag.com/gag/armerp7)
- - ⏩ [Back cracking.](http://9gag.com/gag/ap9oV49)
- - 👉 [Be humble](http://9gag.com/gag/aXnEdez)<!-- MEMES:END -->
+ - 💣 [Runner, first, doesnt cross the finnish line so next year he can beat the record again and claim the extra reward money](http://9gag.com/gag/a9qM876)
+ - ⏩ [BBC. Bringing you truth by risking lives in the heat of battle.](http://9gag.com/gag/aBdQvbz)
+ - 👉 [Breaking NEWS!](http://9gag.com/gag/armerOy)<!-- MEMES:END -->
 
 ---
 
