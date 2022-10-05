@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yes, Werewolf by Night is MCU canon — weird, weird canon](https://www.polygon.com/23380348/werewolf-by-night-marvel-mcu-timeline)
- - [Intel Arc A770 Limited Edition](https://www.pcgamer.com/intel-arc-a770-limited-edition-review-performance-benchmarks)
- - [Genshin Impact won&#39;t add more endgame challenges because of &#39;excessive anxiety&#39;](https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety)<!-- GAME:END -->
+ - [The best movies of 2022, so far](https://www.polygon.com/22927513/best-movies-2022)
+ - [Bayonetta’s voice actor replaced by Jennifer Hale](https://www.polygon.com/23389037/bayonetta-3-voice-actor-jennifer-hale-hellena-taylor)
+ - [The 18 Best Games For The Nintendo Switch](https://kotaku.com/the-18-best-games-for-the-nintendo-switch-1794881447)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
