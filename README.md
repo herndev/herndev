@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SanDisk PRO-G40 SSD supports Thunderbolt 3 &amp; USB 3.2 Gen 2](https://appleinsider.com/articles/22/10/05/new-sandisk-pro-g40-ssd-supports-thunderbolt-3-and-usb-32-gen-2?utm_medium=rss)
- - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)
- - [Compared: Parallels Desktop 18 vs VMWare Fusion](https://appleinsider.com/inside/macos/vs/compared-parallels-desktop-18-vs-vmware-fusion?utm_medium=rss)<!-- TECH:END -->
+ - [The biggest Pixel 6 frustrations that Google should fix with the Pixel 7](https://www.theverge.com/2022/10/5/23389192/google-pixel-6-7-bugs-overheating-weak-signal-improvements)
+ - [Overwatch 2’s launch problems include prepaid cellular bans, failed account merges](https://www.theverge.com/2022/10/5/23389337/overwatch-2-phone-number-account-merge-issues)
+ - [Twitter’s letting you combine photos, videos, and GIFs in one tweet](https://www.theverge.com/2022/10/5/23389618/twitter-combine-photos-videos-gifs-one-tweet-multimedia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
