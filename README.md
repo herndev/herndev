@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon sues Washington state&#39;s Department of Labor &amp; Industries, claiming an order forcing the company to reduce a warehouse&#39;s hazards breaks the 14th Amendment &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221005/p1#a221005p1)
- - [&#39;Hellraiser&#39; Review: Watchable But Sexless Reboot of a Horror Classic     - CNET](https://www.cnet.com/culture/entertainment/hellraiser-review-sexless-reboot-offers-at-least-a-drop-of-fresh-blood/#ftag=CAD590a51e)
- - [Amazon Pulls the Plug on Kids Interactive Gadget Glow     - CNET](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-kids-interactive-gadget-glow/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Antidote to Fast Fashion: How About Clothes Grown From Seeds?     - CNET](https://www.cnet.com/culture/fashion/the-antidote-to-fast-fashion-how-about-clothes-grown-from-grass/#ftag=CAD590a51e)
+ - [Gopuff taps Grubhub to deliver groceries, alcohol, and household items across the US, starting in NYC, Los Angeles, Chicago, Boston, Philadelphia, and Austin &lpar;Sabiq Shahidullah/Bloomberg&rpar;](http://www.techmeme.com/221005/p2#a221005p2)
+ - [Amazon sues Washington state&#39;s Department of Labor &amp; Industries, claiming an order forcing the company to reduce a warehouse&#39;s hazards breaks the 14th Amendment &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221005/p1#a221005p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
