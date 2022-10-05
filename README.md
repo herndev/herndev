@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Maximum amazing’: here’s what we think we know about Elon Musk’s plan for Twitter](https://www.theverge.com/2022/10/5/23389159/elon-musk-twitter-future)
- - [Apple&#39;s Tim Cook Posts Tribute to Steve Jobs     - CNET](https://www.cnet.com/tech/apples-tim-cook-posts-tribute-to-steve-jobs/#ftag=CAD590a51e)
- - [DeepMind uses its AlphaTensor AI to quickly solve a matrix multiplication problem by building a custom TensorGame board game, beating a 50-year-old record &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221005/p29#a221005p29)<!-- TECH:END -->
+ - [Apple releases watchOS 9.1 developer beta 4](https://appleinsider.com/articles/22/10/05/apple-releases-watchos-91-developer-beta-4?utm_medium=rss)
+ - [Elon’s biggest Twitter free speech question is in the courts, not on the platform](https://www.theverge.com/2022/10/5/23387621/elon-musk-twitter-acquisition-free-speech-supreme-court-case-section-230)
+ - [Now Instagram’s bringing ads to profiles and the Explore page, too](https://www.theverge.com/2022/10/5/23389067/instagram-ads-profiles-explore-page-facebook-meta-reels)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
