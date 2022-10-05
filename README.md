@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AirPods &amp; Beats may be made in India soon](https://appleinsider.com/articles/22/10/05/apples-airpods-beats-may-be-made-in-india-soon?utm_medium=rss)
- - [Stadia fans are finding ways to use its controller wirelessly with other platforms](https://www.theverge.com/2022/10/5/23388789/google-stadia-fans-controllers-wireless-hack-workaround)
- - [A look at &quot;Crypto Twitter&quot;, which acts as a town hall where traders, investors, scammers, content creators, founders, and others connect, do business, and relax &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/221005/p13#a221005p13)<!-- TECH:END -->
+ - [Elon Musk&#39;s revived $44B Twitter acquisition could rely on $12.5B from banks at a time when offloading risky debt is difficult, potentially leading to losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p18#a221005p18)
+ - [The FCC&#39;s Rules on Space Junk Just Got Stricter](https://www.wired.com/story/the-fccs-rules-on-space-junk-just-got-stricter/)
+ - [A report by Senator Warren&#39;s office: fraud and scams are occurring more often on P2P payments app Zelle, with banks only reimbursing ~47% of defrauded customers &lpar;Ken Sweet/Associated Press&rpar;](http://www.techmeme.com/221005/p17#a221005p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
