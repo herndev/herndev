@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Intel CEO Pat Gelsinger on returning to Intel, resetting the culture, replacing executives, decision making, long-term plans, new chip plants, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221005/p5#a221005p5)
- - [IriusRisk, which offers companies an automated threat modeling platform, raised a $29M Series B led by Paladin Capital, bringing its total funding to ~$40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p4#a221005p4)
- - [Blizzard President Mike Ybarra says Overwatch 2 is &quot;experiencing a mass DDoS attack&quot; on its servers, preventing hundreds of users from joining the game&#39;s launch &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221005/p3#a221005p3)<!-- TECH:END -->
+ - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $55M Series B extension, bringing the total Series B to ~$77M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221005/p9#a221005p9)
+ - [A report from Chess.com alleges widespread cheating in 100+ online games by Hans Moke Niemann, who was accused of cheating by champion Magnus Carlsen &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221005/p8#a221005p8)
+ - [We asked, you told us: You overwhelmingly miss the Google Nexus series](https://www.androidauthority.com/miss-google-nexus-series-poll-results-3216431/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
