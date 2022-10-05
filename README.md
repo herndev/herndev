@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Streets of Rogue 2 announced and now it&#39;s an open-world Stardew with trucks?](https://www.pcgamer.com/streets-of-rogue-2-announced-and-now-its-an-open-world-stardew-with-trucks)
- - [Overwatch 2 Battle Pass: what rewards can you unlock and how much is it?](https://www.pcgamer.com/overwatch-2-battle-pass)
- - [Water-based chips could the future of neural networks](https://www.pcgamer.com/water-chips-ionics-harvard-research)<!-- GAME:END -->
+ - [Yes, Werewolf by Night is MCU canon — weird, weird canon](https://www.polygon.com/23380348/werewolf-by-night-marvel-mcu-timeline)
+ - [Intel Arc A770 Limited Edition](https://www.pcgamer.com/intel-arc-a770-limited-edition-review-performance-benchmarks)
+ - [Genshin Impact won&#39;t add more endgame challenges because of &#39;excessive anxiety&#39;](https://www.pcgamer.com/genshin-impact-wont-add-more-endgame-challenges-because-of-excessive-anxiety)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
