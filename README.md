@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [That\u2019s a way to tell the story](http://9gag.com/gag/aWG02Dx)
- - ⏩ [BBC. Bringing you truth by risking lives in the heat of battle.](http://9gag.com/gag/aBdQvbz)
- - 👉 [He ad one job, 1 ocean , 1 pole](http://9gag.com/gag/ajV6MB8)<!-- MEMES:END -->
+ - ⏩ [Safety first](http://9gag.com/gag/armerp7)
+ - 👉 [WHATS GOING ON, I DONT UNDERSTAND ANYTHING ANYMORE](http://9gag.com/gag/aPgydVG)<!-- MEMES:END -->
 
 ---
 
