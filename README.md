@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dublin-based Tines, which offers no-code automation tools for security teams, raised a $55M Series B extension, bringing the total Series B to ~$77M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221005/p9#a221005p9)
- - [A report from Chess.com alleges widespread cheating in 100+ online games by Hans Moke Niemann, who was accused of cheating by champion Magnus Carlsen &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221005/p8#a221005p8)
- - [We asked, you told us: You overwhelmingly miss the Google Nexus series](https://www.androidauthority.com/miss-google-nexus-series-poll-results-3216431/)<!-- TECH:END -->
+ - [Behold the fat bezel on the new Pixel Watch](https://www.theverge.com/2022/10/5/23388776/pixel-watch-thick-bezel-photo)
+ - [A US judge sentences Capital One hacker Paige Thompson, who accessed data on over 100M people, to five years of probation; DOJ says it is &quot;very disappointed&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/221005/p12#a221005p12)
+ - [Galludet University named an Apple Distinguished School](https://appleinsider.com/articles/22/10/05/galludet-university-named-an-apple-distinguished-school?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
