@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s revived $44B Twitter acquisition could rely on $12.5B from banks at a time when offloading risky debt is difficult, potentially leading to losses &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p18#a221005p18)
- - [The FCC&#39;s Rules on Space Junk Just Got Stricter](https://www.wired.com/story/the-fccs-rules-on-space-junk-just-got-stricter/)
- - [A report by Senator Warren&#39;s office: fraud and scams are occurring more often on P2P payments app Zelle, with banks only reimbursing ~47% of defrauded customers &lpar;Ken Sweet/Associated Press&rpar;](http://www.techmeme.com/221005/p17#a221005p17)<!-- TECH:END -->
+ - [What &#39;charging on hold&#39; means in iOS 16 and what to do](https://appleinsider.com/articles/22/10/05/what-charging-on-hold-means-in-ios-16-and-what-to-do?utm_medium=rss)
+ - [A review of Intel&#39;s $329 Arc A770 and $289 Arc A750: ideal for 1080p gaming, slick design, and good performance, but weird driver bugs and few software controls &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221005/p21#a221005p21)
+ - [The Pixel Watch is the reason your new Fitbit smartwatch is dumber](https://www.androidauthority.com/google-fitbit-smartwatches-3215373/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
