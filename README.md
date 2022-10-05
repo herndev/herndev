@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard President Mike Ybarra says Overwatch 2 is &quot;experiencing a mass DDoS attack&quot; on its servers, preventing hundreds of users from joining the game&#39;s launch &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221005/p3#a221005p3)
- - [OnePlus Buds Pro 2 leaks: What to expect from this Galaxy Buds Pro rival?](https://www.androidauthority.com/oneplus-buds-pro-2-specs-3216417/)
- - [Antidote to Fast Fashion: How About Clothes Grown From Seeds?     - CNET](https://www.cnet.com/culture/fashion/the-antidote-to-fast-fashion-how-about-clothes-grown-from-grass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Intel CEO Pat Gelsinger on returning to Intel, resetting the culture, replacing executives, decision making, long-term plans, new chip plants, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221005/p5#a221005p5)
+ - [IriusRisk, which offers companies an automated threat modeling platform, raised a $29M Series B led by Paladin Capital, bringing its total funding to ~$40M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221005/p4#a221005p4)
+ - [Blizzard President Mike Ybarra says Overwatch 2 is &quot;experiencing a mass DDoS attack&quot; on its servers, preventing hundreds of users from joining the game&#39;s launch &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221005/p3#a221005p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
