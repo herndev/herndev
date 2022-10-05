@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases watchOS 9.1 developer beta 4](https://appleinsider.com/articles/22/10/05/apple-releases-watchos-91-developer-beta-4?utm_medium=rss)
- - [Elon’s biggest Twitter free speech question is in the courts, not on the platform](https://www.theverge.com/2022/10/5/23387621/elon-musk-twitter-acquisition-free-speech-supreme-court-case-section-230)
- - [Now Instagram’s bringing ads to profiles and the Explore page, too](https://www.theverge.com/2022/10/5/23389067/instagram-ads-profiles-explore-page-facebook-meta-reels)<!-- TECH:END -->
+ - [Apple Watch Series 8 review: Speedy and steady](https://www.androidauthority.com/apple-watch-series-8-review-3213464/)
+ - [Chainalysis: MENA was the fastest-growing crypto market between July 2021 and June 2022, with transaction volume up 48% YoY to $566B; North America grew 36% &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221005/p30#a221005p30)
+ - [Google Chrome is the most vulnerable browser in 2022](https://appleinsider.com/articles/22/10/05/google-chrome-is-the-most-vulnerable-browser-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
