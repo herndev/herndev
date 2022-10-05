@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Antidote to Fast Fashion: How About Clothes Grown From Seeds?     - CNET](https://www.cnet.com/culture/fashion/the-antidote-to-fast-fashion-how-about-clothes-grown-from-grass/#ftag=CAD590a51e)
- - [Gopuff taps Grubhub to deliver groceries, alcohol, and household items across the US, starting in NYC, Los Angeles, Chicago, Boston, Philadelphia, and Austin &lpar;Sabiq Shahidullah/Bloomberg&rpar;](http://www.techmeme.com/221005/p2#a221005p2)
- - [Amazon sues Washington state&#39;s Department of Labor &amp; Industries, claiming an order forcing the company to reduce a warehouse&#39;s hazards breaks the 14th Amendment &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221005/p1#a221005p1)<!-- TECH:END -->
+ - [Blizzard President Mike Ybarra says Overwatch 2 is &quot;experiencing a mass DDoS attack&quot; on its servers, preventing hundreds of users from joining the game&#39;s launch &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221005/p3#a221005p3)
+ - [OnePlus Buds Pro 2 leaks: What to expect from this Galaxy Buds Pro rival?](https://www.androidauthority.com/oneplus-buds-pro-2-specs-3216417/)
+ - [Antidote to Fast Fashion: How About Clothes Grown From Seeds?     - CNET](https://www.cnet.com/culture/fashion/the-antidote-to-fast-fashion-how-about-clothes-grown-from-grass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
