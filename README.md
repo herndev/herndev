@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights: Four game experiences in one](https://blog.playstation.com/2022/10/05/gotham-knights-four-game-experiences-in-one/)
- - [Why did CD Projekt just announce 6 new games?](https://www.polygon.com/23389053/cyberpunk-witcher-sequels-cd-projekt-analysis)
- - [Pokémon Go&#39;s New Event Finally Lets You Evolve Cosmog](https://kotaku.com/pokemon-go-evolving-stars-cosmog-niantic-nintendo-1849618180)<!-- GAME:END -->
+ - [Stranger Things’ David Harbour stars as a killer Santa Claus in Violent Night](https://www.polygon.com/23389237/stranger-things-david-harbour-violent-night-trailer)
+ - [PlayStation Stars: Everything you need to know about Sony’s new rewards program](https://www.polygon.com/2022/10/5/23388007/playstation-stars-sony-ps4-ps5-rewards)
+ - [Persona 5 is getting a card game that will steal your tabletop](https://www.polygon.com/tabletop-games/23387470/persona-5-royal-card-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
