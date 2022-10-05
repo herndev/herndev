@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
- - ⏩ [Society](http://9gag.com/gag/awZbeB8)
- - 👉 [Thanks mom](http://9gag.com/gag/aL1QmgM)<!-- MEMES:END -->
+ - 💣 [A bit early...but still funny](http://9gag.com/gag/aL1QdXz)
+ - ⏩ [Common mistake](http://9gag.com/gag/abvqRoL)
+ - 👉 [Plop... toink... boink... pffssst](http://9gag.com/gag/a4o9wq6)<!-- MEMES:END -->
 
 ---
 
