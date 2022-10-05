@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock adds 2 million paid subscribers following months-long drought](https://www.theverge.com/2022/10/5/23388855/peacock-subscriber-growth-q3-nbcuniversal-jeff-shell-streaming)
- - [What to expect from Google&#39;s &quot;Made by Google&quot; event: Pixel 7 and Pixel 7 Pro, Pixel Watch, and potentially Pixel device previews and Nest hardware &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221005/p25#a221005p25)
- - [You should probably wait before buying the Pixel 7](https://www.androidauthority.com/wait-google-pixel-7-buy-3210698/)<!-- TECH:END -->
+ - [Gotham Knights brings the Arkham flavor with a new cast of heroes](https://www.theverge.com/23387797/gotham-knights-batman-arkham-series-wb-montreal-preview)
+ - [SanDisk PRO-G40 SSD supports Thunderbolt 3 &amp; USB 3.2 Gen 2](https://appleinsider.com/articles/22/10/05/new-sandisk-pro-g40-ssd-supports-thunderbolt-3-and-usb-32-gen-2?utm_medium=rss)
+ - [How to master the camera app on iPhone 14 and iPhone 14 Plus](https://appleinsider.com/inside/iphone-14/tips/how-to-master-the-camera-app-on-iphone-14-and-iphone-14-plus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
