@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Twitter employees are reacting to today’s Elon Musk news](https://www.theverge.com/2022/10/4/23388385/twitter-employee-reaction-elon-musk-offer)
- - [A CISA report finds multiple government hacking groups had &quot;long-term&quot; access to the network of a defense company using open-source Python toolkit Impacket &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221004/p36#a221004p36)
- - [Why Elon Musk Wouldn&#39;t Face Twitter in Court](https://www.wired.com/story/why-elon-musk-wouldnt-face-twitter-in-court/)<!-- TECH:END -->
+ - [US officials accuse a man of remotely swiping 713 bitcoins from a wallet seized in a case against his brother, who operated crypto mixer Helix to launder money &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/221004/p37#a221004p37)
+ - [YouTube TV Review: The Best Premium Live TV Streaming Service     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-review-the-best-premium-live-tv-streaming-service/#ftag=CAD590a51e)
+ - [Best Prime Day Tablet Deals: Save $50 on Latest iPad, $351 on Microsoft Surface Pro 8 and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
