@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit early...but still funny](http://9gag.com/gag/aL1QdXz)
+ - 💣 [On Saturday October the 2nd the 16 year old Nika Shakarami was shot dead in the streets by the ruthless killers of the Islamic regime in Iran. one day before her 17th birthday!](http://9gag.com/gag/a8qb2GY)
  - ⏩ [Common mistake](http://9gag.com/gag/abvqRoL)
- - 👉 [Plop... toink... boink... pffssst](http://9gag.com/gag/a4o9wq6)<!-- MEMES:END -->
+ - 👉 [Give me the best roast you can do](http://9gag.com/gag/az2LQAm)<!-- MEMES:END -->
 
 ---
 
