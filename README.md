@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switzerland-based cybersecurity company Infinigate merges with Dubai-based cybersecurity firm Starlink to form a company with a ~$2.2B estimated annual revenue &lpar;Reuters&rpar;](http://www.techmeme.com/221004/p38#a221004p38)
- - [US prosecutors accuse a man of remotely swiping 713 bitcoins from a hardware wallet seized in a case against his brother, who ran crypto mixing service Helix &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/221004/p37#a221004p37)
- - [8 Foods to Help You Build Muscle Naturally     - CNET](https://www.cnet.com/health/nutrition/8-foods-to-help-you-build-muscle-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon sues Washington state&#39;s Department of Labor &amp; Industries, claiming an order forcing the company to reduce a warehouse&#39;s hazards breaks the 14th Amendment &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221005/p1#a221005p1)
+ - [&#39;Hellraiser&#39; Review: Watchable But Sexless Reboot of a Horror Classic     - CNET](https://www.cnet.com/culture/entertainment/hellraiser-review-sexless-reboot-offers-at-least-a-drop-of-fresh-blood/#ftag=CAD590a51e)
+ - [Amazon Pulls the Plug on Kids Interactive Gadget Glow     - CNET](https://www.cnet.com/tech/computing/amazon-pulls-the-plug-on-kids-interactive-gadget-glow/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
