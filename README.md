@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch battery blowout sends man to emergency room](https://appleinsider.com/articles/22/10/05/apple-watch-battery-blowout-sends-man-to-emergency-room?utm_medium=rss)
- - [A US federal court jury finds ex-Uber Chief Security Officer Joe Sullivan guilty for not disclosing a 2016 breach of customer and driver records to regulators &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/221005/p34#a221005p34)
- - [Roblox and Discord are accused of enabling adult men to sexually and financially exploit a California girl in a lawsuit filed by a social media watchdog group &lpar;Bloomberg&rpar;](http://www.techmeme.com/221005/p33#a221005p33)<!-- TECH:END -->
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [Phones from and by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)
+ - [Dutch chip manufacturer STMicroelectronics plans to invest &amp;euro;730M to build a chip materials plant in Italy to create a self-reliant supply chain amid shortages &lpar;Lauly Li/Financial Times&rpar;](http://www.techmeme.com/221005/p35#a221005p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
