@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is discontinuing Glow, its video calling device aimed at kids, amid lackluster sales and a shift in consumer behavior, after debuting it last year &lpar;Bloomberg&rpar;](http://www.techmeme.com/221004/p34#a221004p34)
- - [Blizzard president blames ‘mass DDOS attack’ for keeping you from playing Overwatch 2](https://www.theverge.com/2022/10/4/23388132/overwatch-2-down-mass-ddos-attack-blizzard-president-mike-ybarra)
- - [Elon Musk says he’ll buy Twitter, again, for $54.20 a share, again](https://www.theverge.com/2022/10/4/23387320/elon-musk-twitter-offer-buy-again)<!-- TECH:END -->
+ - [Clothes Grown From Seeds Aren&#39;t Just Gorgeous, They&#39;re Compostable     - CNET](https://www.cnet.com/culture/fashion/clothes-grown-from-seeds-arent-just-gorgeous-theyre-compostable/#ftag=CAD590a51e)
+ - [Apple reportedly agrees to TSMC chip price hike](https://appleinsider.com/articles/22/10/04/apple-reportedly-agrees-to-tsmc-chip-price-hike?utm_medium=rss)
+ - [Everything we know about Elon Musk’s messy new Twitter offer](https://www.theverge.com/2022/10/4/23387592/elon-musk-twitter-deal-lawsuit-faq)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
