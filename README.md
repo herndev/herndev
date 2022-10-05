@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My current mental state\u2026](http://9gag.com/gag/axo2372)
- - ⏩ [Remind me of something](http://9gag.com/gag/avQZddO)
- - 👉 [You monster, who keeps a baby in a cage!](http://9gag.com/gag/axo2mEp)<!-- MEMES:END -->
+ - 💣 [I miss being a kid](http://9gag.com/gag/aREgoBQ)
+ - ⏩ [Everybody lies](http://9gag.com/gag/axo2moL)
+ - 👉 [Every bully needs a bigger bully](http://9gag.com/gag/aWG0DPZ)<!-- MEMES:END -->
 
 ---
 
