@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Stranger Things’ David Harbour stars as a killer Santa Claus in Violent Night](https://www.polygon.com/23389237/stranger-things-david-harbour-violent-night-trailer)
- - [PlayStation Stars: Everything you need to know about Sony’s new rewards program](https://www.polygon.com/2022/10/5/23388007/playstation-stars-sony-ps4-ps5-rewards)
- - [Persona 5 is getting a card game that will steal your tabletop](https://www.polygon.com/tabletop-games/23387470/persona-5-royal-card-game)<!-- GAME:END -->
+ - [McDonalds Workers Are Begging People To Stop Ordering Adult Happy Meals](https://kotaku.com/mcdonalds-adult-happy-meal-cactus-plant-flea-market-1849619811)
+ - [EA’s new Need for Speed leaks, looks full-on anime](https://www.polygon.com/23389260/need-for-speed-unbound-leak-screenshots-anime)
+ - [Chess scandal re-erupts as investigation finds the accused cheated in &#39;more than 100&#39; games](https://www.pcgamer.com/chess-scandal-re-erupts-as-investigation-finds-the-accused-cheated-in-over-100-online-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
