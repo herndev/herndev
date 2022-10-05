@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
- - ⏩ [Zombies of America](http://9gag.com/gag/a3Zdx5N)
- - 👉 [BBC. Bringing you truth by risking lives in the heat of battle.](http://9gag.com/gag/aBdQvbz)<!-- MEMES:END -->
+ - 💣 [Safety first](http://9gag.com/gag/armerp7)
+ - ⏩ [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - 👉 [Be humble](http://9gag.com/gag/aXnEdez)<!-- MEMES:END -->
 
 ---
 
