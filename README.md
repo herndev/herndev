@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - ⏩ [Kanye on black culture. &lpar; Sorry for Emoji &rpar;](http://9gag.com/gag/a5XNvMV)
- - 👉 [Blinker fluid](http://9gag.com/gag/ap9oz49)<!-- MEMES:END -->
+ - ⏩ [Qatar...](http://9gag.com/gag/aOxyAVN)
+ - 👉 [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)<!-- MEMES:END -->
 
 ---
 
