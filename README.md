@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Switzerland-based cybersecurity company Infinigate merges with Dubai-based cybersecurity firm Starlink to form a company with a ~$2.2B estimated annual revenue &lpar;Reuters&rpar;](http://www.techmeme.com/221004/p38#a221004p38)
  - [US officials accuse a man of remotely swiping 713 bitcoins from a wallet seized in a case against his brother, who operated crypto mixer Helix to launder money &lpar;David Voreacos/Bloomberg&rpar;](http://www.techmeme.com/221004/p37#a221004p37)
- - [YouTube TV Review: The Best Premium Live TV Streaming Service     - CNET](https://www.cnet.com/tech/services-and-software/youtube-tv-review-the-best-premium-live-tv-streaming-service/#ftag=CAD590a51e)
- - [Best Prime Day Tablet Deals: Save $50 on Latest iPad, $351 on Microsoft Surface Pro 8 and More     - CNET](https://www.cnet.com/deals/best-tablet-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Foods to Help You Build Muscle Naturally     - CNET](https://www.cnet.com/health/nutrition/8-foods-to-help-you-build-muscle-naturally/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
