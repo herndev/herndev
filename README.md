@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What &#39;charging on hold&#39; means in iOS 16 and what to do](https://appleinsider.com/articles/22/10/05/what-charging-on-hold-means-in-ios-16-and-what-to-do?utm_medium=rss)
- - [A review of Intel&#39;s $329 Arc A770 and $289 Arc A750: ideal for 1080p gaming, slick design, and good performance, but weird driver bugs and few software controls &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221005/p21#a221005p21)
- - [The Pixel Watch is the reason your new Fitbit smartwatch is dumber](https://www.androidauthority.com/google-fitbit-smartwatches-3215373/)<!-- TECH:END -->
+ - [Peacock adds 2 million paid subscribers following months-long drought](https://www.theverge.com/2022/10/5/23388855/peacock-subscriber-growth-q3-nbcuniversal-jeff-shell-streaming)
+ - [What to expect from Google&#39;s &quot;Made by Google&quot; event: Pixel 7 and Pixel 7 Pro, Pixel Watch, and potentially Pixel device previews and Nest hardware &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/221005/p25#a221005p25)
+ - [You should probably wait before buying the Pixel 7](https://www.androidauthority.com/wait-google-pixel-7-buy-3210698/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
