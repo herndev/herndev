@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give it a rest Jimbo!](http://9gag.com/gag/aVbQKqd)
- - ⏩ [THANK YOU &lpar;chef kiss&rpar;](http://9gag.com/gag/a04PWYQ)
- - 👉 [Questions that are better not to ask.](http://9gag.com/gag/avQZ40X)<!-- MEMES:END -->
+ - 💣 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)
+ - ⏩ [They are running so fast we can&#39;t keep up with them](http://9gag.com/gag/aDYwNrK)
+ - 👉 [Or maybe an unconscious pattern of familiarity](http://9gag.com/gag/aNwo803)<!-- MEMES:END -->
 
 ---
 
