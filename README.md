@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gotham Knights brings the Arkham flavor with a new cast of heroes](https://www.theverge.com/23387797/gotham-knights-batman-arkham-series-wb-montreal-preview)
- - [SanDisk PRO-G40 SSD supports Thunderbolt 3 &amp; USB 3.2 Gen 2](https://appleinsider.com/articles/22/10/05/new-sandisk-pro-g40-ssd-supports-thunderbolt-3-and-usb-32-gen-2?utm_medium=rss)
- - [How to master the camera app on iPhone 14 and iPhone 14 Plus](https://appleinsider.com/inside/iphone-14/tips/how-to-master-the-camera-app-on-iphone-14-and-iphone-14-plus?utm_medium=rss)<!-- TECH:END -->
+ - [‘Maximum amazing’: here’s what we think we know about Elon Musk’s plan for Twitter](https://www.theverge.com/2022/10/5/23389159/elon-musk-twitter-future)
+ - [Apple&#39;s Tim Cook Posts Tribute to Steve Jobs     - CNET](https://www.cnet.com/tech/apples-tim-cook-posts-tribute-to-steve-jobs/#ftag=CAD590a51e)
+ - [DeepMind uses its AlphaTensor AI to quickly solve a matrix multiplication problem by building a custom TensorGame board game, beating a 50-year-old record &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221005/p29#a221005p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
