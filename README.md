@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I miss being a kid](http://9gag.com/gag/aREgoBQ)
- - ⏩ [Everybody lies](http://9gag.com/gag/axo2moL)
- - 👉 [Every bully needs a bigger bully](http://9gag.com/gag/aWG0DPZ)<!-- MEMES:END -->
+ - 💣 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - ⏩ [Society](http://9gag.com/gag/awZbeB8)
+ - 👉 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)<!-- MEMES:END -->
 
 ---
 
