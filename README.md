@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Behold the fat bezel on the new Pixel Watch](https://www.theverge.com/2022/10/5/23388776/pixel-watch-thick-bezel-photo)
- - [A US judge sentences Capital One hacker Paige Thompson, who accessed data on over 100M people, to five years of probation; DOJ says it is &quot;very disappointed&quot; &lpar;Associated Press&rpar;](http://www.techmeme.com/221005/p12#a221005p12)
- - [Galludet University named an Apple Distinguished School](https://appleinsider.com/articles/22/10/05/galludet-university-named-an-apple-distinguished-school?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s AirPods &amp; Beats may be made in India soon](https://appleinsider.com/articles/22/10/05/apples-airpods-beats-may-be-made-in-india-soon?utm_medium=rss)
+ - [Stadia fans are finding ways to use its controller wirelessly with other platforms](https://www.theverge.com/2022/10/5/23388789/google-stadia-fans-controllers-wireless-hack-workaround)
+ - [A look at &quot;Crypto Twitter&quot;, which acts as a town hall where traders, investors, scammers, content creators, founders, and others connect, do business, and relax &lpar;Brady Dale/Axios&rpar;](http://www.techmeme.com/221005/p13#a221005p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
