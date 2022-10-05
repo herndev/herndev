@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - 💣 [Tee hee](http://9gag.com/gag/aMEbz1X)
  - ⏩ [Society](http://9gag.com/gag/awZbeB8)
- - 👉 [It shall echo through the ages](http://9gag.com/gag/adP6RvV)<!-- MEMES:END -->
+ - 👉 [Thanks mom](http://9gag.com/gag/aL1QmgM)<!-- MEMES:END -->
 
 ---
 
