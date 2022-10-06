@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Did Google fix its terrible cases for the Pixel 7? Sort of](https://www.theverge.com/23391161/google-pixel-7-case-official-hands-on)
- - [Disposable vapes supplanted Juul as the youth nicotine problem](https://www.theverge.com/2022/10/6/23391299/juul-vaping-teen-puff-bar-fda-cdc-survey)
- - [The Pixel Watch companion app has gone live on the Play Store](https://www.androidauthority.com/pixel-watch-companion-app-3217320/)<!-- TECH:END -->
+ - [Peloton’s CEO doesn’t understand why people aren’t happier he laid off 500 people](https://www.theverge.com/2022/10/6/23391368/peloton-ceo-laid-off-500-people-six-months-memo)
+ - [Google Home expands to all Wear OS 3 smartwatches](https://www.androidauthority.com/google-home-wear-os-3-3217417/)
+ - [13 Best Target Deal Days Sales &lpar;2022&rpar;: Dyson, Apple, and More](https://www.wired.com/story/target-deal-days-oct-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
