@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Should I buy the Pixel 7 Pro or wait for the Samsung Galaxy S23?](https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/)
- - [Pixel 7 Series Debut Showcases Ultimate Refinement, Sophistication and Distinction     - CNET](https://www.cnet.com/tech/mobile/pixel-7-series-debut-showcases-ultimate-refinement-sophistication-and-distinction/#ftag=CAD590a51e)
- - [Source: Tiger Global seeks to raise $6B for its next fund that invests in privately held tech companies, less than half of what it raised for its prior fund &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221006/p29#a221006p29)<!-- TECH:END -->
+ - [Apple 27-inch mini LED display expected in early 2023](https://appleinsider.com/articles/22/10/06/apple-27-inch-mini-led-display-expected-in-early-2023?utm_medium=rss)
+ - [MagSafe Battery Pack review: One year later, still the one to beat](https://appleinsider.com/articles/22/10/06/magsafe-battery-pack-one-year-later-still-the-one-to-beat?utm_medium=rss)
+ - [Phones from and made by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
