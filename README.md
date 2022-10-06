@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard axes Overwatch 2 phone number requirement in update on game’s rocky launch](https://www.polygon.com/23390357/overwatch-2-launch-phone-number-requirement-sms-protect-blizzard)
- - [Witchbrook: Everything we know so far about the witchy life sim](https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know)
- - [Games Workshop is giving away two custom Warhammer gaming PCs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)<!-- GAME:END -->
+ - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [UPDATES]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)
+ - [Overwatch 2&#39;s Phone Requirement: &#39;It&#39;s Like Being Punished For Being Poor&#39; [Update: Gone]](https://kotaku.com/overwatch-2-phone-requirement-fps-blizzard-cricket-mint-1849620021)
+ - [Blizzard axes Overwatch 2 phone number requirement in update on game’s rocky launch](https://www.polygon.com/23390357/overwatch-2-launch-phone-number-requirement-sms-protect-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
