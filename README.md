@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Montana-based onX, which makes navigation apps for hunting, hiking, and off-roading, raised a $87.4M Series B led by Summit Partners &lpar;David Erickson/Missoulian&rpar;](http://www.techmeme.com/221005/p43#a221005p43)
- - [Sources: Twitter has agreed to delay a deposition by Elon Musk scheduled for October 6 in Austin, as both sides hash out a way to close the $44B deal &lpar;Financial Times&rpar;](http://www.techmeme.com/221005/p42#a221005p42)
- - [Blizzard gives most Overwatch 1 players a pass on verifying phone numbers to play Overwatch 2](https://www.theverge.com/2022/10/5/23390421/overwatch-2-queue-servers-disconnect-account-merge-sms-protect)<!-- TECH:END -->
+ - [Best iPhone &lpar;2022&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
+ - [Apple iPhone 14 Plus review: a big deal](https://www.theverge.com/23387809/apple-iphone-14-plus-review-screen-battery-camera-price)
+ - [Montana-based onX, which makes navigation apps for hunting, hiking, off-roading, and other outdoor activities, raised an $87.4M Series B led by Summit Partners &lpar;David Erickson/Missoulian&rpar;](http://www.techmeme.com/221005/p43#a221005p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
