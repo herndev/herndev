@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple 27-inch mini LED display expected in early 2023](https://appleinsider.com/articles/22/10/06/apple-27-inch-mini-led-display-expected-in-early-2023?utm_medium=rss)
- - [MagSafe Battery Pack review: One year later, still the one to beat](https://appleinsider.com/articles/22/10/06/magsafe-battery-pack-one-year-later-still-the-one-to-beat?utm_medium=rss)
- - [Phones from and made by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)<!-- TECH:END -->
+ - [Did Google fix its terrible cases for the Pixel 7? Sort of](https://www.theverge.com/23391161/google-pixel-7-case-official-hands-on)
+ - [Disposable vapes supplanted Juul as the youth nicotine problem](https://www.theverge.com/2022/10/6/23391299/juul-vaping-teen-puff-bar-fda-cdc-survey)
+ - [The Pixel Watch companion app has gone live on the Play Store](https://www.androidauthority.com/pixel-watch-companion-app-3217320/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
