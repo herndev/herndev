@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - ⏩ [Before 2022...](http://9gag.com/gag/az2LzXm)
- - 👉 [I did it](http://9gag.com/gag/a9qMeED)<!-- MEMES:END -->
+ - 💣 [So much snow](http://9gag.com/gag/a7qKNDL)
+ - ⏩ [Sasha Grey](http://9gag.com/gag/a8qbvD6)
+ - 👉 [Nigeria Got Talent](http://9gag.com/gag/aQEpDpe)<!-- MEMES:END -->
 
 ---
 
