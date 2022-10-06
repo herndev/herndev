@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get Apple&#39;s iPhone user manual](https://appleinsider.com/inside/iphone/tips/how-to-get-apples-iphone-user-manual?utm_medium=rss)
- - [Google Pixel 7 smartphone &amp; Pixel Watch debut](https://appleinsider.com/articles/22/10/06/google-pixel-7-smartphone-pixel-watch-debut?utm_medium=rss)
- - [Google’s Pixel 7 and 7 Pro will fix your old blurry photos](https://www.theverge.com/2022/10/6/23390937/google-pixel-7-pro-photo-unblur-fix-blur)<!-- TECH:END -->
+ - [Everything you need to know about the Pixel 7’s cameras](https://www.androidauthority.com/google-pixel-7-camera-features-3214601/)
+ - [ByteDance&#39;s August report to staff says revenue grew 80% to $61.7B in 2021 but operating losses more than tripled to $7.15B as it spent heavily on growth &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/221006/p27#a221006p27)
+ - [Marvel’s experimental Werewolf by Night is like nothing else in the MCU](https://www.theverge.com/23389129/werewolf-by-night-review-marvel-disney-plus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
