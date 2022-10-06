@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The cake is a lie](http://9gag.com/gag/aMEb7j6)
- - ⏩ [The horror...](http://9gag.com/gag/az2Lp9m)
- - 👉 [American tourist smashes 2 busts at the Vatican when told that would not be possible to meet the Pope](http://9gag.com/gag/amALZjy)<!-- MEMES:END -->
+ - 💣 [Wish i have a friend too](http://9gag.com/gag/aoKZovm)
+ - ⏩ [Watch and learn Putin, this is how the international community responds when you hold a legitimate referendum and not that silly prank of yours in Ukraine. We thank you for your overwhelming support and will socially and economically develop the new region to EU standarts.](http://9gag.com/gag/aYVpXMq)
+ - 👉 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)<!-- MEMES:END -->
 
 ---
 
