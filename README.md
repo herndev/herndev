@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How the Team Fortress 2 community brought it back from the brink](https://www.pcgamer.com/how-the-team-fortress-2-community-brought-it-back-from-the-brink)
- - [The Minecraft mob vote isn&#39;t even open yet and it feels like there&#39;s a winner](https://www.pcgamer.com/the-minecraft-mob-vote-isnt-even-open-yet-and-it-feels-like-theres-a-winner)
- - [You can now buy someone, anyone &lpar;me?&rpar; a Steam Deck without any wait](https://www.polygon.com/23391483/valve-steam-deck-reservation-now-gone-lets-goooooo)<!-- GAME:END -->
+ - [Bungie finally announces a nerf for Destiny 2’s most talked about Exotic](https://www.polygon.com/23391520/destiny-2-divinity-nerf-exotic-twab-blog-update-season-19-adept-wrath-of-the-machine)
+ - [Every car coming to Need for Speed Unbound](https://www.polygon.com/guides/2022/10/6/23391406/need-for-speed-unbound-full-car-list)
+ - [Chris Pratt’s Mario voice has a, uh, vaguely Italian thing going on, sure](https://www.polygon.com/22925474/chris-pratt-mario-voice-movie-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
