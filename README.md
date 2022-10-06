@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia proposes changes to its consumer privacy rules post the Optus hack, enabling telcos to share IDs with banks for better monitoring during data breaches &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/221006/p3#a221006p3)
- - [Drone Footage Shows Killer Whales Hunting and Eating Great White Sharks     - CNET](https://www.cnet.com/science/biology/drone-footage-shows-killer-whales-hunting-and-eating-great-white-sharks/#ftag=CAD590a51e)
- - [Sources: to evade US sanctions, Huawei is supporting PXW, a startup based in its hometown Shenzhen that ordered chipmaking equipment for a semiconductor plant &lpar;Bloomberg&rpar;](http://www.techmeme.com/221006/p2#a221006p2)<!-- TECH:END -->
+ - [Two weeks ahead of China&#39;s 20th communist party congress, censors seem to be blocking TLS-based circumvention tools that locals use to bypass the Great Firewall &lpar;TechCrunch&rpar;](http://www.techmeme.com/221006/p4#a221006p4)
+ - [Google’s lifetime Pixel sales are a fraction of what Samsung sells in a year](https://www.androidauthority.com/google-pixel-sales-numbers-3216823/)
+ - [Australia proposes changes to its consumer privacy rules post the Optus hack, enabling telcos to share IDs with banks for better monitoring during data breaches &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/221006/p3#a221006p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
