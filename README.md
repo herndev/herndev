@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Fake LinkedIn executive profiles, which pair AI-generated photos with text from real accounts, are becoming headaches for HR departments and invite-only groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221006/p5#a221006p5)
  - [Samsung Galaxy S20 FE gets October 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Google shares vibrant new wallpapers just in time for the Pixel 7](https://www.androidauthority.com/google-pixel-wallpapers-hispanic-heritage-month-3216836/)
- - [Two weeks ahead of China&#39;s 20th communist party congress, censors seem to be blocking TLS-based circumvention tools that locals use to bypass the Great Firewall &lpar;TechCrunch&rpar;](http://www.techmeme.com/221006/p4#a221006p4)<!-- TECH:END -->
+ - [Google shares over a dozen new wallpapers just in time for the Pixel 7](https://www.androidauthority.com/google-pixel-new-wallpapers-3216836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
