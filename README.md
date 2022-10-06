@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wish i have a friend too](http://9gag.com/gag/aoKZovm)
- - ⏩ [Watch and learn Putin, this is how the international community responds when you hold a legitimate referendum and not that silly prank of yours in Ukraine. We thank you for your overwhelming support and will socially and economically develop the new region to EU standarts.](http://9gag.com/gag/aYVpXMq)
- - 👉 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)<!-- MEMES:END -->
+ - 💣 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
+ - ⏩ [In 18th century Madagascar had a king from Slovakia, so now it belongs to EU](http://9gag.com/gag/aYVpXdw)
+ - 👉 [Oooooohweeeeeeh](http://9gag.com/gag/aMEboEX)<!-- MEMES:END -->
 
 ---
 
