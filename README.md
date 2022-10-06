@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Iranian activists&#39; fight for internet access amid the regime&#39;s crackdowns, including using Tor servers inside Iran to bypass internet blockades &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/221005/p39#a221005p39)
- - [An illustrated guide showing how Stable Diffusion generates images from text using a CLIP-based text encoder, an image information creator, and an image decoder &lpar;Jay Alammar&rpar;](http://www.techmeme.com/221005/p38#a221005p38)
- - [Former Uber security chief found guilty of covering up massive 2016 data breach](https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment)<!-- TECH:END -->
+ - [Blizzard gives most Overwatch 1 players a pass on verifying phone numbers to play Overwatch 2](https://www.theverge.com/2022/10/5/23390421/overwatch-2-queue-servers-disconnect-account-merge-sms-protect)
+ - [Sources: Elon Musk plans to skip his October 6 deposition by Twitter&#39;s lawyers in Austin &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221005/p41#a221005p41)
+ - [Anxious at Night? Use These 5 Tips to Calm Anxiety and Sleep Well     - CNET](https://www.cnet.com/health/sleep/is-anxiety-ruining-your-sleep-5-tips-to-relieve-anxiety-before-bed/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
