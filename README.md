@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The perfect form](http://9gag.com/gag/awZbj6D)
- - ⏩ [Doot](http://9gag.com/gag/aGEV5BX)
- - 👉 [Sorry](http://9gag.com/gag/a1PZjjD)<!-- MEMES:END -->
+ - 💣 [A moment before...](http://9gag.com/gag/abvqo6b)
+ - ⏩ [We must go back!](http://9gag.com/gag/aWG05n4)
+ - 👉 [Happy Spooktober!](http://9gag.com/gag/a7qKxLL)<!-- MEMES:END -->
 
 ---
 
