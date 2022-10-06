@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
- - ⏩ [She earned more than that](http://9gag.com/gag/aZDWXG3)
- - 👉 [Oh no](http://9gag.com/gag/abvqDKr)<!-- MEMES:END -->
+ - 💣 [First day to work after winning the Nobel Prize for medicine](http://9gag.com/gag/a5XNxog)
+ - ⏩ [The perfect form](http://9gag.com/gag/awZbj6D)
+ - 👉 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)<!-- MEMES:END -->
 
 ---
 
