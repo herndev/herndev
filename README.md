@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake LinkedIn executive profiles, which pair AI-generated photos with text from real accounts, are becoming headaches for HR departments and invite-only groups &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221006/p5#a221006p5)
- - [Samsung Galaxy S20 FE gets October 2022 security patch](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Google shares over a dozen new wallpapers just in time for the Pixel 7](https://www.androidauthority.com/google-pixel-new-wallpapers-3216836/)<!-- TECH:END -->
+ - [The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine](https://www.wired.com/story/the-election-swinging-facebook-fueled-get-out-the-vote-machine/)
+ - [Court filing: Celsius ex-CEO Alex Mashinsky, ex-CSO Daniel Leon, and CTO Nuke Goldstein withdrew ~$56M between May and June 2022 before the lender&#39;s bankruptcy &lpar;CoinDesk&rpar;](http://www.techmeme.com/221006/p8#a221006p8)
+ - [Daily Authority: 📱 It’s Pixel 7 event day!](https://www.androidauthority.com/daily-authority-october-6-2022-3216529/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
