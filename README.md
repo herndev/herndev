@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So much snow](http://9gag.com/gag/a7qKNDL)
- - ⏩ [Russian Soldiers raising the white flag and surrendering with their equipment to Ukrainian forces in Kherson area.](http://9gag.com/gag/a5XN97N)
- - 👉 [Cat Language Expert](http://9gag.com/gag/aqeZOLL)<!-- MEMES:END -->
+ - 💣 [Nigeria Got Talent](http://9gag.com/gag/aQEpDpe)
+ - ⏩ [Libraries are fun places](http://9gag.com/gag/a1PZ8E2)
+ - 👉 [Never.](http://9gag.com/gag/aEqGbP9)<!-- MEMES:END -->
 
 ---
 
