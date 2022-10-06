@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to pair AirPods with Android, Windows, Nintendo Switch](https://appleinsider.com/inside/airpods/tips/how-to-pair-airpods-with-android-windows-nintendo-switch?utm_medium=rss)
- - [Why Can’t You Tickle Yourself? Neuroscientists Unravel the Mystery](https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/)
- - [8 Best Electric Toothbrushes &lpar;2022&rpar;: Cheap, Smart, Kids, and More](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
+ - [The best new streaming movies this week on Hulu, Netflix, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Google Pixel 7 and Pixel Watch event: How to watch and what to expect](https://www.androidauthority.com/google-pixel-7-event-3214761/)
+ - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
