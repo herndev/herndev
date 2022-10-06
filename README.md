@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [26 year old Playboy model Anna Nicole Smith and 89 year old billionaire oil tycoon J Howard Marshall on their wedding day in 1994.](http://9gag.com/gag/aWG0yx6)
- - ⏩ [The curse is about to end!](http://9gag.com/gag/anzXweb)
- - 👉 [Doot](http://9gag.com/gag/aGEV5BX)<!-- MEMES:END -->
+ - 💣 [The perfect form](http://9gag.com/gag/awZbj6D)
+ - ⏩ [Doot](http://9gag.com/gag/aGEV5BX)
+ - 👉 [Sorry](http://9gag.com/gag/a1PZjjD)<!-- MEMES:END -->
 
 ---
 
