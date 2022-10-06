@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s new trailer shows new Girafarig evolution, Pokémon picnics](https://www.polygon.com/pokemon/23389200/pokemon-scarlet-violet-trailer-new-october-2022)
- - [Horizon Forbidden West OST: Physical pre-orders and a music video debut](https://blog.playstation.com/2022/10/06/horizon-forbidden-west-ost-physical-pre-orders-and-a-music-video-debut/)
- - [Javier Bardem in Lyle Lyle Crocodile... What the hell...](https://www.polygon.com/23387174/lyle-lyle-crocodile-javier-bardem)<!-- GAME:END -->
+ - [Mob Psycho 100 season 3 keeps pushing its hero beyond the limits of shonen anime](https://www.polygon.com/23389414/mob-psycho-100-season-3-one-manga-anime-shonen)
+ - [PlayStation Store: September 2022’s top downloads](https://blog.playstation.com/2022/10/06/playstation-store-september-2022s-top-downloads/)
+ - [Free Play Days – Fallout 76, Outcast – Second Contact, and Lawn Mowing Simulator](https://news.xbox.com/en-us/2022/10/06/free-play-days-fallout-76-outcast-second-contact-and-lawn-mowing-simulator/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
