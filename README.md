@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Join PC Game Pass at TwitchCon San Diego 2022](https://news.xbox.com/en-us/2022/10/06/join-pc-game-pass-at-twitchcon-san-diego-2022/)
- - [Werewolf by Night slays with ghoulish and cheesy style](https://www.polygon.com/reviews/23389822/marvel-werewolf-by-night-review)
- - [Nintendo Won’t Allow Topless Women On The Switch Anymore](https://kotaku.com/nintendo-switch-topless-uncensored-boobs-tentacles-1849625144)<!-- GAME:END -->
+ - [How to watch NYCC 2022’s panel livestreams](https://www.polygon.com/nycc/23389637/nycc-2022-watch-panels-new-york-comic-con)
+ - [Ubisoft Chief Creative Officer Departing After Only One Year](https://kotaku.com/assassins-creed-far-cry-ubisoft-riders-republic-1849625698)
+ - [Oh God, Are They Eating LeChonk In Pokémon Scarlet And Violet?!](https://kotaku.com/pokemon-scarlet-and-violet-lechonk-nintendo-game-freak-1849625414)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
