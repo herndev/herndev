@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Early Access Sale tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
- - [A judge puts the trial between Elon Musk and Twitter on hold until October 28 so the parties can close their deal, otherwise a November trial date will be set &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/221006/p36#a221006p36)
- - [Blizzard is taking Overwatch 2 offline to make some fixes](https://www.theverge.com/2022/10/6/23391741/blizzard-overwatch-2-servers-offline-fixes-updates)<!-- TECH:END -->
+ - [Pew: 6% of US adults regularly get news on BitChute, Gab, Gettr, Parler, Rumble, Telegram, or Truth Social, but no one site drew over 2% of those seeking news &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221006/p37#a221006p37)
+ - [New Amazon price drops: AirPods dip to $89, Apple AirPods Pro get $80 discount](https://appleinsider.com/articles/22/10/06/new-amazon-price-drops-airpods-dip-to-89-apple-airpods-pro-get-80-discount?utm_medium=rss)
+ - [Super Mario Sounds Exactly Like Chris Pratt—and That&#39;s Fine](https://www.wired.com/story/chris-pratt-mario-voice-is-just-chris-pratt/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
