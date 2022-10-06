@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peloton’s CEO doesn’t understand why people aren’t happier he laid off 500 people](https://www.theverge.com/2022/10/6/23391368/peloton-ceo-laid-off-500-people-six-months-memo)
- - [Google Home expands to all Wear OS 3 smartwatches](https://www.androidauthority.com/google-home-wear-os-3-3217417/)
- - [13 Best Target Deal Days Sales &lpar;2022&rpar;: Dyson, Apple, and More](https://www.wired.com/story/target-deal-days-oct-2022/)<!-- TECH:END -->
+ - [Tony Fadell wants to see iPhone move to USB-C](https://appleinsider.com/articles/22/10/06/tony-fadell-wants-to-see-iphone-move-to-usb-c?utm_medium=rss)
+ - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
+ - [AMD announces ~$5.6B in preliminary Q3 revenue, below its outlook of $6.7B plus or minus $200M, driven by weaker Client segment revenue and supply chain issues &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/221006/p35#a221006p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
