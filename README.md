@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nanoleaf Smarter Essentials bulb and lightstrip](https://www.pcgamer.com/nanoleaf-smarter-essentials-bulb-lightstrip-review)
- - [The new Humble Bundle contains 400 hours of the best RPGs ever made for $20](https://www.pcgamer.com/the-new-humble-bundle-contains-400-hours-of-the-best-rpgs-ever-made-for-dollar20)
- - [Avoid thermal paste overload on your AMD Ryzen AM5 CPU with Noctua&#39;s guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s new trailer shows new Girafarig evolution, Pokémon picnics](https://www.polygon.com/pokemon/23389200/pokemon-scarlet-violet-trailer-new-october-2022)
+ - [Horizon Forbidden West OST: Physical pre-orders and a music video debut](https://blog.playstation.com/2022/10/06/horizon-forbidden-west-ost-physical-pre-orders-and-a-music-video-debut/)
+ - [Javier Bardem in Lyle Lyle Crocodile... What the hell...](https://www.polygon.com/23387174/lyle-lyle-crocodile-javier-bardem)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
