@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Half-Life twin-stick shooter fan game gets blessing from Valve and a Steam release](https://www.pcgamer.com/half-life-twin-stick-shooter-fan-game-gets-blessing-from-valve-and-a-steam-release)
- - [Medieval Dynasty Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/10/06/medieval-dynasty-now-available-on-xbox-series-xs/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [How the Team Fortress 2 community brought it back from the brink](https://www.pcgamer.com/how-the-team-fortress-2-community-brought-it-back-from-the-brink)
+ - [The Minecraft mob vote isn&#39;t even open yet and it feels like there&#39;s a winner](https://www.pcgamer.com/the-minecraft-mob-vote-isnt-even-open-yet-and-it-feels-like-theres-a-winner)
+ - [You can now buy someone, anyone &lpar;me?&rpar; a Steam Deck without any wait](https://www.polygon.com/23391483/valve-steam-deck-reservation-now-gone-lets-goooooo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
