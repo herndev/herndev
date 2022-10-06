@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk Is Totally Wrong About Population Collapse](https://www.wired.com/story/elon-musk-population-crisis/)
- - [These Are the 100 Hottest Startups in Europe in 2022](https://www.wired.com/story/100-hottest-startups-europe-2022/)
- - [The Wild History of the Beloved &#39;Addams Family&#39; Pinball Machine](https://www.wired.com/story/the-addams-family-pinball-machine-popularity/)<!-- TECH:END -->
+ - [How to pair AirPods with Android, Windows, Nintendo Switch](https://appleinsider.com/inside/airpods/tips/how-to-pair-airpods-with-android-windows-nintendo-switch?utm_medium=rss)
+ - [Why Can’t You Tickle Yourself? Neuroscientists Unravel the Mystery](https://www.wired.com/story/neuroscientists-unravel-the-mystery-of-why-you-cant-tickle-yourself/)
+ - [8 Best Electric Toothbrushes &lpar;2022&rpar;: Cheap, Smart, Kids, and More](https://www.wired.com/gallery/best-electric-toothbrushes/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
