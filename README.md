@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ain&#39;t your Mammu](http://9gag.com/gag/aeQ3dxq)
- - ⏩ [Lol](http://9gag.com/gag/a7qKBBw)
- - 👉 [The cake is a lie](http://9gag.com/gag/aMEb7j6)<!-- MEMES:END -->
+ - 💣 [Unboxing knife](http://9gag.com/gag/aMEbN4x)
+ - ⏩ [I feel for the dad.](http://9gag.com/gag/aMEb74x)
+ - 👉 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
 
 ---
 
