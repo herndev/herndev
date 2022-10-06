@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Hulu, Netflix, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Google Pixel 7 and Pixel Watch event: How to watch and what to expect](https://www.androidauthority.com/google-pixel-7-event-3214761/)
- - [The best deals on true wireless earbuds right now](https://www.theverge.com/22307388/wireless-earbuds-deals-airpods-galaxy-buds-powerbeats)<!-- TECH:END -->
+ - [The Xbox Series S is $50 off with an extra controller thrown in for free](https://www.theverge.com/2022/10/6/23390509/xbox-series-s-sony-wf1000xm4-echo-buds-kindle-paperwhite-deal-sale)
+ - [Watch 14 minutes of new details on Pokémon Violet and Scarlet](https://www.theverge.com/23390807/nintendo-pokemon-scarlet-violet-trailer)
+ - [This week&#39;s best Apple deals on Amazon knock up to $400 off Macs, iPads, AirPods, Apple Watch &amp; more](https://appleinsider.com/articles/22/10/03/this-weeks-best-apple-deals-on-amazon-knock-up-to-400-off-macs-ipads-airpods-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
