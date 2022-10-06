@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tony Fadell wants to see iPhone move to USB-C](https://appleinsider.com/articles/22/10/06/tony-fadell-wants-to-see-iphone-move-to-usb-c?utm_medium=rss)
- - [The best deals on Nintendo Switch games right now](https://www.theverge.com/good-deals/22904962/best-nintendo-switch-game-deal-sale)
- - [AMD announces ~$5.6B in preliminary Q3 revenue, below its outlook of $6.7B plus or minus $200M, driven by weaker Client segment revenue and supply chain issues &lpar;Todd Haselton/CNBC&rpar;](http://www.techmeme.com/221006/p35#a221006p35)<!-- TECH:END -->
+ - [The best anti-Prime Early Access Sale tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
+ - [A judge puts the trial between Elon Musk and Twitter on hold until October 28 so the parties can close their deal, otherwise a November trial date will be set &lpar;Richard Lawler/The Verge&rpar;](http://www.techmeme.com/221006/p36#a221006p36)
+ - [Blizzard is taking Overwatch 2 offline to make some fixes](https://www.theverge.com/2022/10/6/23391741/blizzard-overwatch-2-servers-offline-fixes-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
