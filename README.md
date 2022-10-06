@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Unboxing knife](http://9gag.com/gag/aMEbN4x)
- - ⏩ [I feel for the dad.](http://9gag.com/gag/aMEb74x)
- - 👉 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
+ - 💣 [Back cracking.](http://9gag.com/gag/ap9oV49)
+ - ⏩ [NOFATHR](http://9gag.com/gag/aQEpbq2)
+ - 👉 [Excelsior moment](http://9gag.com/gag/anzXZBE)<!-- MEMES:END -->
 
 ---
 
