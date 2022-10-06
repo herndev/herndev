@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
- - ⏩ [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
- - 👉 [Georgian restaurant owner explains to Ksenia Sobchak &lpar;daughter of old Putin&#39;s boss&rpar; why russians customers have to recognize that Russia is an aggresor country. He ends laughing about her.](http://9gag.com/gag/a9qMGzj)<!-- MEMES:END -->
+ - 💣 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
+ - ⏩ [Developer of the year](http://9gag.com/gag/a8qbg06)
+ - 👉 [Despair](http://9gag.com/gag/a8qbxyd)<!-- MEMES:END -->
 
 ---
 
