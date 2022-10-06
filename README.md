@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)
- - [Overwatch 2 going offline as Blizzard rolls out fixes](https://www.polygon.com/23391747/overwatch-2-servers-offline-downtime-blizzard)
- - [Mario Teaches Typing mascot stars in new movie trailer](https://www.pcgamer.com/mario-teaches-typing-mascot-stars-in-new-movie-trailer)<!-- GAME:END -->
+ - [You Don&#39;t Have To Wait For A Steam Deck Anymore](https://kotaku.com/valve-steam-deck-dock-overwatch-2-order-boot-videos-1849627986)
+ - [That McDonald&#39;s Mario Movie Leak With Princess Peach Looks Real Now](https://kotaku.com/super-mario-bros-movie-mcdonalds-princess-peach-leak-1849627982)
+ - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
