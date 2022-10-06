@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone &lpar;2022&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)
- - [Apple iPhone 14 Plus review: a big deal](https://www.theverge.com/23387809/apple-iphone-14-plus-review-screen-battery-camera-price)
- - [Montana-based onX, which makes navigation apps for hunting, hiking, off-roading, and other outdoor activities, raised an $87.4M Series B led by Summit Partners &lpar;David Erickson/Missoulian&rpar;](http://www.techmeme.com/221005/p43#a221005p43)<!-- TECH:END -->
+ - [iPhone 14 Plus review: multiday battery, big bright screen, and light, but hard to use one-handed, no ProMotion, and adopting eSIM will be painful for some &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/221006/p1#a221006p1)
+ - [iPhone 14 Plus Review: For People Who Love Big Screens     - CNET](https://www.cnet.com/tech/mobile/iphone-14-plus-review-for-people-who-love-big-screens/#ftag=CAD590a51e)
+ - [Best iPhone &lpar;2022&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
