@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Witchbrook: Everything we know so far about the witchy life sim](https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know)
  - [Games Workshop is giving away two custom Warhammer gaming PCs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)
- - [Add some close encounters to Fallout 4 with this alien invasion mod](https://www.pcgamer.com/add-some-close-encounters-to-fallout-4-with-this-alien-invasion-mod)
- - [Overwatch 2&#39;s new phone requirement is locking players out: &#39;I can&#39;t just change my phone plan for one game&#39;](https://www.pcgamer.com/overwatch-2s-new-phone-requirement-is-locking-players-out-i-cant-just-change-my-phone-plan-for-one-game)<!-- GAME:END -->
+ - [Add some close encounters to Fallout 4 with this alien invasion mod](https://www.pcgamer.com/add-some-close-encounters-to-fallout-4-with-this-alien-invasion-mod)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
