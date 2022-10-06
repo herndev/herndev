@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Plus review: multiday battery, big bright screen, and light, but hard to use one-handed, no ProMotion, and adopting eSIM will be painful for some &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/221006/p1#a221006p1)
- - [iPhone 14 Plus Review: For People Who Love Big Screens     - CNET](https://www.cnet.com/tech/mobile/iphone-14-plus-review-for-people-who-love-big-screens/#ftag=CAD590a51e)
- - [Best iPhone &lpar;2022&rpar;: Which Model Should You Actually Buy?](https://www.wired.com/gallery/iphone-buying-guide/)<!-- TECH:END -->
+ - [Australia proposes changes to its consumer privacy rules post the Optus hack, enabling telcos to share IDs with banks for better monitoring during data breaches &lpar;Renju Jose/Reuters&rpar;](http://www.techmeme.com/221006/p3#a221006p3)
+ - [Drone Footage Shows Killer Whales Hunting and Eating Great White Sharks     - CNET](https://www.cnet.com/science/biology/drone-footage-shows-killer-whales-hunting-and-eating-great-white-sharks/#ftag=CAD590a51e)
+ - [Sources: to evade US sanctions, Huawei is supporting PXW, a startup based in its hometown Shenzhen that ordered chipmaking equipment for a semiconductor plant &lpar;Bloomberg&rpar;](http://www.techmeme.com/221006/p2#a221006p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
