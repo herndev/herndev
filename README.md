@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A moment before...](http://9gag.com/gag/abvqo6b)
- - ⏩ [We must go back!](http://9gag.com/gag/aWG05n4)
- - 👉 [Happy Spooktober!](http://9gag.com/gag/a7qKxLL)<!-- MEMES:END -->
+ - 💣 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
+ - ⏩ [A simple question, is IRGC a terrorist group, YES or NO?](http://9gag.com/gag/adP6w4Z)
+ - 👉 [Developer of the year](http://9gag.com/gag/a8qbg06)<!-- MEMES:END -->
 
 ---
 
