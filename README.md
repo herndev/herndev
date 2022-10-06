@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So much snow](http://9gag.com/gag/a7qKNDL)
- - ⏩ [Sasha Grey](http://9gag.com/gag/a8qbvD6)
- - 👉 [Nigeria Got Talent](http://9gag.com/gag/aQEpDpe)<!-- MEMES:END -->
+ - 💣 [Bread and Circuses.](http://9gag.com/gag/aMEbDE6)
+ - ⏩ [Lol](http://9gag.com/gag/a7qKBBw)
+ - 👉 [NOFATHR](http://9gag.com/gag/aQEpbq2)<!-- MEMES:END -->
 
 ---
 
