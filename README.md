@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about the Pixel 7’s cameras](https://www.androidauthority.com/google-pixel-7-camera-features-3214601/)
- - [ByteDance&#39;s August report to staff says revenue grew 80% to $61.7B in 2021 but operating losses more than tripled to $7.15B as it spent heavily on growth &lpar;Salvador Rodriguez/Wall Street Journal&rpar;](http://www.techmeme.com/221006/p27#a221006p27)
- - [Marvel’s experimental Werewolf by Night is like nothing else in the MCU](https://www.theverge.com/23389129/werewolf-by-night-review-marvel-disney-plus)<!-- TECH:END -->
+ - [Should I buy the Pixel 7 Pro or wait for the Samsung Galaxy S23?](https://www.androidauthority.com/buy-pixel-7-pro-or-samsung-galaxy-s23-3216719/)
+ - [Pixel 7 Series Debut Showcases Ultimate Refinement, Sophistication and Distinction     - CNET](https://www.cnet.com/tech/mobile/pixel-7-series-debut-showcases-ultimate-refinement-sophistication-and-distinction/#ftag=CAD590a51e)
+ - [Source: Tiger Global seeks to raise $6B for its next fund that invests in privately held tech companies, less than half of what it raised for its prior fund &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221006/p29#a221006p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
