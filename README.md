@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch NYCC 2022’s panel livestreams](https://www.polygon.com/nycc/23389637/nycc-2022-watch-panels-new-york-comic-con)
- - [Ubisoft Chief Creative Officer Departing After Only One Year](https://kotaku.com/assassins-creed-far-cry-ubisoft-riders-republic-1849625698)
- - [Oh God, Are They Eating LeChonk In Pokémon Scarlet And Violet?!](https://kotaku.com/pokemon-scarlet-and-violet-lechonk-nintendo-game-freak-1849625414)<!-- GAME:END -->
+ - [Catan – Console Edition Coming Early 2023](https://news.xbox.com/en-us/2022/10/06/catan-console-edition-coming-early-2023/)
+ - [She-Hulk transforms a loveable Marvel Comics loser into a total manchild](https://www.polygon.com/23390873/leapfrog-she-hulk-marvel)
+ - [Overwatch 2&#39;s &#39;Different Version&#39; Error Is Actually Easy To Solve](https://kotaku.com/overwatch-2-player-different-version-invite-bug-fix-how-1849626123)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
