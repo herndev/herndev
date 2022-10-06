@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [Phones from and by Google: a visual history of the Pixel and its predecessors](https://www.theverge.com/23379105/pixel-nexus-visual-history-google-design-models)
- - [Dutch chip manufacturer STMicroelectronics plans to invest &amp;euro;730M to build a chip materials plant in Italy to create a self-reliant supply chain amid shortages &lpar;Lauly Li/Financial Times&rpar;](http://www.techmeme.com/221005/p35#a221005p35)<!-- TECH:END -->
+ - [Minneapolis-based NetSPI, which offers penetration testing and attack surface management services, raised $410M from KKR, bringing its total funding to $500M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/221005/p37#a221005p37)
+ - [&#39;Andor&#39; Episode 5 Recap: The Rebels&#39; Plan Comes Together, With Some Dangerous Tension     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-5-recap-the-rebels-plan-comes-together-with-some-dangerous-tension/#ftag=CAD590a51e)
+ - [17 Best Gifts for Under $50     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
