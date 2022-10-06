@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nigeria Got Talent](http://9gag.com/gag/aQEpDpe)
- - ⏩ [Libraries are fun places](http://9gag.com/gag/a1PZ8E2)
- - 👉 [Never.](http://9gag.com/gag/aEqGbP9)<!-- MEMES:END -->
+ - 💣 [Back in the day there were trials on what was the best way to take a corner, but eventually drifting won...](http://9gag.com/gag/aoKZxg2)
+ - ⏩ [Good ol\u2019 boi passed away today. Friend of 15 years. Hes not drunk he was just f**king old. And most importanly he lived a good life. Salute BONG](http://9gag.com/gag/aqeZVoQ)
+ - 👉 [According to a video of a different soldier &lpar;same group&rpar; they are in a group of 500,and they&#39;ve been living in these conditions for a week in Belgorod Oblast](http://9gag.com/gag/aqeZO9j)<!-- MEMES:END -->
 
 ---
 
