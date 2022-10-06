@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First day to work after winning the Nobel Prize for medicine](http://9gag.com/gag/a5XNxog)
- - ⏩ [The perfect form](http://9gag.com/gag/awZbj6D)
- - 👉 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)<!-- MEMES:END -->
+ - 💣 [26 year old Playboy model Anna Nicole Smith and 89 year old billionaire oil tycoon J Howard Marshall on their wedding day in 1994.](http://9gag.com/gag/aWG0yx6)
+ - ⏩ [The curse is about to end!](http://9gag.com/gag/anzXweb)
+ - 👉 [Doot](http://9gag.com/gag/aGEV5BX)<!-- MEMES:END -->
 
 ---
 
