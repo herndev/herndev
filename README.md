@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2 phone number requirement axed by Blizzard amid disastrous launch](https://www.polygon.com/23390357/overwatch-2-launch-phone-number-requirement-sms-protect-blizzard)
  - [Witchbrook: Everything we know so far about the witchy life sim](https://www.pcgamer.com/witchbrook-release-date-gameplay-trailer-what-we-know)
- - [Games Workshop is giving away two custom Warhammer gaming PCs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)
- - [Add some close encounters to Fallout 4 with this alien invasion mod](https://www.pcgamer.com/add-some-close-encounters-to-fallout-4-with-this-alien-invasion-mod)<!-- GAME:END -->
+ - [Games Workshop is giving away two custom Warhammer gaming PCs](https://www.pcgamer.com/games-workshop-is-giving-away-two-custom-warhammer-gaming-pcs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
