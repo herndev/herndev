@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Catan – Console Edition Coming Early 2023](https://news.xbox.com/en-us/2022/10/06/catan-console-edition-coming-early-2023/)
- - [She-Hulk transforms a loveable Marvel Comics loser into a total manchild](https://www.polygon.com/23390873/leapfrog-she-hulk-marvel)
- - [Overwatch 2&#39;s &#39;Different Version&#39; Error Is Actually Easy To Solve](https://kotaku.com/overwatch-2-player-different-version-invite-bug-fix-how-1849626123)<!-- GAME:END -->
+ - [Half-Life twin-stick shooter fan game gets blessing from Valve and a Steam release](https://www.pcgamer.com/half-life-twin-stick-shooter-fan-game-gets-blessing-from-valve-and-a-steam-release)
+ - [Medieval Dynasty Now Available on Xbox Series X|S](https://news.xbox.com/en-us/2022/10/06/medieval-dynasty-now-available-on-xbox-series-xs/)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
