@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Alenia Aermacchi M-346 Master Comes to Microsoft Flight Simulator](https://news.xbox.com/en-us/2022/10/06/the-alenia-aermacchi-m-346-master-comes-to-microsoft-flight-simulator/)
- - [Beat Saber’s Lizzo pack actually includes all the best Lizzo songs](https://www.polygon.com/23388013/lizzo-beat-saber-about-damn-time-dlc)
- - [New Pokémon are hidden in the Scarlet and Violet trailer](https://www.polygon.com/pokemon/23390854/pokemon-scarlet-violet-new-unannounced-pokemon-revealed-trailer)<!-- GAME:END -->
+ - [Join PC Game Pass at TwitchCon San Diego 2022](https://news.xbox.com/en-us/2022/10/06/join-pc-game-pass-at-twitchcon-san-diego-2022/)
+ - [Werewolf by Night slays with ghoulish and cheesy style](https://www.polygon.com/reviews/23389822/marvel-werewolf-by-night-review)
+ - [Nintendo Won’t Allow Topless Women On The Switch Anymore](https://kotaku.com/nintendo-switch-topless-uncensored-boobs-tentacles-1849625144)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
