@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 474 answer and hint: Thursday, October 6](https://www.pcgamer.com/todays-wordle-474-answer-hint)
- - [3DMark releases XeSS benchmark update](https://www.pcgamer.com/3dmark-releases-xess-benchmark-update)
- - [You Can&#39;t Play Overwatch 2 Right Now Because It&#39;s Under Attack [UPDATES]](https://kotaku.com/overwatch-2-queue-times-ddos-connection-failed-launch-1849616598)<!-- GAME:END -->
+ - [Avoid thermal paste overload on your AMD Ryzen AM5 CPU with Noctua&#39;s guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)
+ - [Players aren&#39;t thrilled that Magic: The Gathering 30th Anniversary Edition costs $1,000](https://www.pcgamer.com/players-arent-thrilled-that-magic-the-gathering-30th-anniversary-edition-costs-dollar1000)
+ - [Today&#39;s Wordle 474 answer and hint: Thursday, October 6](https://www.pcgamer.com/todays-wordle-474-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
