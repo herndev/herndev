@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If true, this is is going to be the end of Alzheimer&#39;s. Completely changes how we&#39;ve looked at onset of the disease. Red link is the medical article.](http://9gag.com/gag/awZbj8y)
+ - 💣 [The cake is a lie](http://9gag.com/gag/aMEb7j6)
  - ⏩ [The horror...](http://9gag.com/gag/az2Lp9m)
- - 👉 [After the eastern post-Kharkiv UA offensive, the collapse of the RU front in the Kherson region, the question arose whether the UA could handle the opening of a third front in Zaporizhia. Well, the Ukrainians are going for their stolen nuclear power plant !](http://9gag.com/gag/a1PZ3Db)<!-- MEMES:END -->
+ - 👉 [American tourist smashes 2 busts at the Vatican when told that would not be possible to meet the Pope](http://9gag.com/gag/amALZjy)<!-- MEMES:END -->
 
 ---
 
