@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Minneapolis-based NetSPI, which offers penetration testing and attack surface management services, raised $410M from KKR, bringing its total funding to $500M &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/221005/p37#a221005p37)
- - [&#39;Andor&#39; Episode 5 Recap: The Rebels&#39; Plan Comes Together, With Some Dangerous Tension     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-5-recap-the-rebels-plan-comes-together-with-some-dangerous-tension/#ftag=CAD590a51e)
- - [17 Best Gifts for Under $50     - CNET](https://www.cnet.com/tech/computing/best-gifts-for-50-or-less/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at Iranian activists&#39; fight for internet access amid the regime&#39;s crackdowns, including using Tor servers inside Iran to bypass internet blockades &lpar;Mike Butcher/TechCrunch&rpar;](http://www.techmeme.com/221005/p39#a221005p39)
+ - [An illustrated guide showing how Stable Diffusion generates images from text using a CLIP-based text encoder, an image information creator, and an image decoder &lpar;Jay Alammar&rpar;](http://www.techmeme.com/221005/p38#a221005p38)
+ - [Former Uber security chief found guilty of covering up massive 2016 data breach](https://www.theverge.com/2022/10/5/23390063/uber-security-chief-convicted-hack-cover-up-bounty-payment)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
