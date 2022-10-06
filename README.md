@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avoid thermal paste overload on your AMD Ryzen AM5 CPU with Noctua&#39;s guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)
- - [Players aren&#39;t thrilled that Magic: The Gathering 30th Anniversary Edition costs $1,000](https://www.pcgamer.com/players-arent-thrilled-that-magic-the-gathering-30th-anniversary-edition-costs-dollar1000)
- - [Today&#39;s Wordle 474 answer and hint: Thursday, October 6](https://www.pcgamer.com/todays-wordle-474-answer-hint)<!-- GAME:END -->
+ - [Nanoleaf Smarter Essentials bulb and lightstrip](https://www.pcgamer.com/nanoleaf-smarter-essentials-bulb-lightstrip-review)
+ - [The new Humble Bundle contains 400 hours of the best RPGs ever made for $20](https://www.pcgamer.com/the-new-humble-bundle-contains-400-hours-of-the-best-rpgs-ever-made-for-dollar20)
+ - [Avoid thermal paste overload on your AMD Ryzen AM5 CPU with Noctua&#39;s guard](https://www.pcgamer.com/avoid-thermal-paste-overload-on-your-amd-ryzen-am5-cpu-with-noctuas-guard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
