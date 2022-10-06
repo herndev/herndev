@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sasha Grey](http://9gag.com/gag/a8qbvD6)
- - ⏩ [Never.](http://9gag.com/gag/aEqGbP9)
- - 👉 [Cool earring](http://9gag.com/gag/aA0V7rE)<!-- MEMES:END -->
+ - 💣 [Such a creepy pose](http://9gag.com/gag/aBdQjBD)
+ - ⏩ [Before 2022...](http://9gag.com/gag/az2LzXm)
+ - 👉 [I did it](http://9gag.com/gag/a9qMeED)<!-- MEMES:END -->
 
 ---
 
