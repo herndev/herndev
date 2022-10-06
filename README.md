@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bungie finally announces a nerf for Destiny 2’s most talked about Exotic](https://www.polygon.com/23391520/destiny-2-divinity-nerf-exotic-twab-blog-update-season-19-adept-wrath-of-the-machine)
- - [Every car coming to Need for Speed Unbound](https://www.polygon.com/guides/2022/10/6/23391406/need-for-speed-unbound-full-car-list)
- - [Chris Pratt’s Mario voice has a, uh, vaguely Italian thing going on, sure](https://www.polygon.com/22925474/chris-pratt-mario-voice-movie-trailer)<!-- GAME:END -->
+ - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)
+ - [Overwatch 2 going offline as Blizzard rolls out fixes](https://www.polygon.com/23391747/overwatch-2-servers-offline-downtime-blizzard)
+ - [Mario Teaches Typing mascot stars in new movie trailer](https://www.pcgamer.com/mario-teaches-typing-mascot-stars-in-new-movie-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
