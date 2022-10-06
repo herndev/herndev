@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Election-Swinging, Facebook-Fueled, Get-Out-the-Vote Machine](https://www.wired.com/story/the-election-swinging-facebook-fueled-get-out-the-vote-machine/)
- - [Court filing: Celsius ex-CEO Alex Mashinsky, ex-CSO Daniel Leon, and CTO Nuke Goldstein withdrew ~$56M between May and June 2022 before the lender&#39;s bankruptcy &lpar;CoinDesk&rpar;](http://www.techmeme.com/221006/p8#a221006p8)
- - [Daily Authority: 📱 It’s Pixel 7 event day!](https://www.androidauthority.com/daily-authority-october-6-2022-3216529/)<!-- TECH:END -->
+ - [Elon Musk Is Totally Wrong About Population Collapse](https://www.wired.com/story/elon-musk-population-crisis/)
+ - [These Are the 100 Hottest Startups in Europe in 2022](https://www.wired.com/story/100-hottest-startups-europe-2022/)
+ - [The Wild History of the Beloved &#39;Addams Family&#39; Pinball Machine](https://www.wired.com/story/the-addams-family-pinball-machine-popularity/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
