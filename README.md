@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Back cracking.](http://9gag.com/gag/ap9oV49)
- - ⏩ [NOFATHR](http://9gag.com/gag/aQEpbq2)
- - 👉 [Excelsior moment](http://9gag.com/gag/anzXZBE)<!-- MEMES:END -->
+ - 💣 [Belgorod, Russia. No clue as to what it is. You decide.](http://9gag.com/gag/aYVpA7w)
+ - ⏩ [She&#39;s look soo happy](http://9gag.com/gag/a3Zdg2N)
+ - 👉 [The curse is about to end!](http://9gag.com/gag/anzXweb)<!-- MEMES:END -->
 
 ---
 
