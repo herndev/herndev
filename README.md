@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mythical seks.](http://9gag.com/gag/a7qKYde)
- - ⏩ [The good ol...](http://9gag.com/gag/a7qKzvL)
- - 👉 [Stop kitten around](http://9gag.com/gag/ay2pO7W)<!-- MEMES:END -->
+ - 💣 [Gotta be 2 steps ahead](http://9gag.com/gag/awZbDwB)
+ - ⏩ [Biology teacher who was suspended because he refused to follow the mandated gender pronouns set by school district fought back and won. Gender policy suspended instead.](http://9gag.com/gag/aDYwEgd)
+ - 👉 [Weekend Compilation](http://9gag.com/gag/aBdQ7v2)<!-- MEMES:END -->
 
 ---
 
