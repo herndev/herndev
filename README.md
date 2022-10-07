@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kojima confirms internet’s suspicions that Elle Fanning will star in upcoming project](https://www.theverge.com/2022/10/7/23392339/hideo-kojima-who-am-i-teaser-elle-fanning-obviously)
- - [Data shows which Pixel phone consumers prefer buying and it’s no surprise](https://www.androidauthority.com/google-pixel-sales-small-vs-large-3217576/)
- - [&#39;The Midnight Club&#39; on Netflix: Gripping Horror Echoes &#39;Midnight Mass&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-gripping-horror-echoes-midnight-mass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)
+ - [Daily Authority: 📱 Pixel products, Pixel products everywhere](https://www.androidauthority.com/daily-authority-october-7-2022-3217573/)
+ - [Sources: Crypto.com saw a 30%-40% reduction in headcount between June and August, with 2,000+ employees leaving the company, mostly due to layoffs &lpar;Asa Hiken/Ad Age&rpar;](http://www.techmeme.com/221007/p2#a221007p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
