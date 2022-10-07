@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung details GDDR7, already in production, with speeds up to 36Gbps, doubling GDDR6&#39;s 18Gbps, and plans to release new V-NAND chips with a 230-layer design &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221007/p3#a221007p3)
- - [Amazon stops field tests of its delivery robot Scout](https://www.theverge.com/2022/10/7/23392360/amazon-disbands-delivery-robot-scout-development)
- - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)<!-- TECH:END -->
+ - [What is Letterboxd? Meet the social media platform for movie buffs](https://www.androidauthority.com/what-is-letterboxd-3216354/)
+ - [The Hottest Startups in Barcelona](https://www.wired.com/story/hottest-startups-in-barcelona-2022/)
+ - [The Hottest Startups in Stockholm](https://www.wired.com/story/hottest-startups-in-stockholm-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
