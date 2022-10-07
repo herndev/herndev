@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)
- - [How to manage iMessage storage in iOS 16 &amp; iPadOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-manage-imessage-storage-in-ios-16-ipados-16?utm_medium=rss)
- - [Facebook warns 1 million users whose logins were stolen by scam mobile apps](https://www.theverge.com/2022/10/7/23392873/facebook-million-users-scam-mobile-apps-ios-android-app-stores)<!-- TECH:END -->
+ - [What to expect from the Microsoft Surface launch event](https://www.theverge.com/23393039/microsoft-surface-event-pro-9-studio-laptop-rumors-leaks)
+ - [Binance says it will cease trading Helium Network Tokens, or HNT, over the next week and advises users to close out their positions &lpar;Forbes&rpar;](http://www.techmeme.com/221007/p13#a221007p13)
+ - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
