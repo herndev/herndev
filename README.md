@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of Vox Machina season 2 first-look footage is all dragon fury](https://www.polygon.com/nycc/23389483/legend-of-vox-machina-season-2-release-teaser-critical-role)
- - [How to be a Hellraiser, according to the newest Pinhead](https://www.polygon.com/23387046/hellraiser-movie-costume-makeup-jamie-clayton)
- - [Diablo II: Resurrected Ladder Season 2 Now Live](https://news.xbox.com/en-us/2022/10/06/diablo-ii-resurrected-ladder-season-2-now-live/)<!-- GAME:END -->
+ - [Horizon&#39;s Rumored Multiplayer Game To Be Set During The Faro Plague](https://game-rant-2022.blogspot.com/2022/10/horizons-rumored-multiplayer-game-to-be.html)
+ - [2022 PSP Game Jam Homebrew Competition starts tomorrow, prices now at $550!](https://game-rant-2022.blogspot.com/2022/10/2022-psp-game-jam-homebrew-competition.html)
+ - [The Xbox Series S is $50 off with a free extra controller included](https://game-rant-2022.blogspot.com/2022/10/the-xbox-series-s-is-50-off-with-free.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
