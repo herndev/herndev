@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another trophy for the boys!](http://9gag.com/gag/a4odpmy)
- - ⏩ [Well that was something...](http://9gag.com/gag/ago0eGn)
- - 👉 [The war is over for these orcs.](http://9gag.com/gag/avQg2M5)<!-- MEMES:END -->
+ - 💣 [Starving Ukrainian soldier: \u201cThis is how the Armed Forces of Ukraine are fed. We survive as best we can.. it\u2019s hard to live in fields\u2026uncomfortable\u2026situation with food not always good\u2026 but what can we do, this is war\u2026\u201d](http://9gag.com/gag/axo2Xeb)
+ - ⏩ [What](http://9gag.com/gag/az2E72z)
+ - 👉 [Wild times. Wild times.](http://9gag.com/gag/awZK0ND)<!-- MEMES:END -->
 
 ---
 
