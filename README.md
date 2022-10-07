@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Horizon&#39;s Rumored Multiplayer Game To Be Set During The Faro Plague](https://game-rant-2022.blogspot.com/2022/10/horizons-rumored-multiplayer-game-to-be.html)
- - [2022 PSP Game Jam Homebrew Competition starts tomorrow, prices now at $550!](https://game-rant-2022.blogspot.com/2022/10/2022-psp-game-jam-homebrew-competition.html)
- - [The Xbox Series S is $50 off with a free extra controller included](https://game-rant-2022.blogspot.com/2022/10/the-xbox-series-s-is-50-off-with-free.html)<!-- GAME:END -->
+ - [The Rings of Power just teed up the apocalyptic future of The Lord of the Rings](https://www.polygon.com/23387845/lord-rings-power-balrog-moria-gandalf-durin-origin)
+ - [Why nobody can actually say ‘Mordor’ yet in The Rings of Power](https://www.polygon.com/23387155/lord-rings-power-mordor-adar-the-eye)
+ - [Horizon&#39;s Rumored Multiplayer Game To Be Set During The Faro Plague](https://game-rant-2022.blogspot.com/2022/10/horizons-rumored-multiplayer-game-to-be.html)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
