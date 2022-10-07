@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)
  - [Samsung says its Q3 profit dropped 31.7% YoY to $7.7B amid inflation and estimates that revenue for Q3 increased 2.7% to about $53B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/221006/p41#a221006p41)
- - [Streaming Services in October: You May Want to Cancel These     - CNET](https://www.cnet.com/tech/services-and-software/streaming-services-october-you-may-want-cancel-these/#ftag=CAD590a51e)
- - [In an internal memo, Meta&#39;s VP of Metaverse said Horizon Worlds is suffering from too many quality issues and even the team building it isn&#39;t using it very much &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221006/p40#a221006p40)<!-- TECH:END -->
+ - [Streaming Services in October: You May Want to Cancel These     - CNET](https://www.cnet.com/tech/services-and-software/streaming-services-october-you-may-want-cancel-these/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
