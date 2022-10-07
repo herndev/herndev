@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)
- - [Samsung says its Q3 profit dropped 31.7% YoY to $7.7B amid inflation and estimates that revenue for Q3 increased 2.7% to about $53B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/221006/p41#a221006p41)
- - [Streaming Services in October: You May Want to Cancel These     - CNET](https://www.cnet.com/tech/services-and-software/streaming-services-october-you-may-want-cancel-these/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Air Purifier for 2022, Tested and Reviewed     - CNET](https://www.cnet.com/news/best-air-purifier/#ftag=CAD590a51e)
+ - [Samsung says its Q3 profit dropped 31.7% YoY to $7.7B amid inflation and estimates that revenue for Q3 increased 2.7% to about $53B &lpar;Kim Jaewon/Nikkei Asia&rpar;](http://www.techmeme.com/221006/p41#a221006p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
