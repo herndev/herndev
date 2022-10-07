@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pew: 6% of US adults regularly get news on BitChute, Gab, Gettr, Parler, Rumble, Telegram, or Truth Social, but no one site drew over 2% of those seeking news &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221006/p37#a221006p37)
- - [New Amazon price drops: AirPods dip to $89, Apple AirPods Pro get $80 discount](https://appleinsider.com/articles/22/10/06/new-amazon-price-drops-airpods-dip-to-89-apple-airpods-pro-get-80-discount?utm_medium=rss)
- - [Super Mario Sounds Exactly Like Chris Pratt—and That&#39;s Fine](https://www.wired.com/story/chris-pratt-mario-voice-is-just-chris-pratt/)<!-- TECH:END -->
+ - [Tesla’s first Semi trucks will be delivered to Pepsi in December](https://www.theverge.com/2022/10/6/23391923/tesla-semi-truck-delivered-pepsi-production-december)
+ - [Binance Smart Chain suspends transactions due to a bridge exploit, estimating that $100M to $110M in assets were moved off chain, of which $7M has been frozen &lpar;CoinDesk&rpar;](http://www.techmeme.com/221006/p39#a221006p39)
+ - [Samsung Expects Q3 Profit to Tumble Amid Chip Market Downturn     - CNET](https://www.cnet.com/tech/samsung-expects-q3-profit-to-tumble-amid-chip-market-downturn/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
