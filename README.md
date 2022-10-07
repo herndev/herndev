@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: in its case against Meta&#39;s Within acquisition, FTC asks a judge to remove some allegations about anticompetitive effects in the VR fitness apps market &lpar;Leah Nylen/Bloomberg&rpar;](http://www.techmeme.com/221007/p14#a221007p14)
- - [&#39;Hellraiser&#39; Review: New Blood but Few Thrills in Reanimated Horror Classic     - CNET](https://www.cnet.com/culture/entertainment/hellraiser-review-new-pinhead-only-partly-revives-horror-classic/#ftag=CAD590a51e)
- - [Best 5 Vitamins for Energy     - CNET](https://www.cnet.com/health/nutrition/best-5-vitamins-for-energy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s making it easier to report bugs in its Horizon VR app](https://www.theverge.com/2022/10/7/23393285/meta-horizon-worlds-bug-reporting-metaverse)
+ - [NYC-based Elpha Secure, which provides cybersecurity software combined with cyber insurance policies, has raised a $20M Series A led by Canapi Ventures &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/221007/p15#a221007p15)
+ - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
