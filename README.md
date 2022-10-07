@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something](http://9gag.com/gag/az2L0dq)
- - ⏩ [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)
- - 👉 [Pillow master - ultra instinct](http://9gag.com/gag/a04PmqZ)<!-- MEMES:END -->
+ - 💣 [Starving Ukrainian soldier: \u201cThis is how the Armed Forces of Ukraine are fed. We survive as best we can.. it\u2019s hard to live in fields\u2026uncomfortable\u2026situation with food not always good\u2026 but what can we do, this is war\u2026\u201d](http://9gag.com/gag/axo2Xeb)
+ - ⏩ [Yes](http://9gag.com/gag/a4o9MGv)
+ - 👉 [Very Convincing accents, I want to believe the Hammer Sickle Vodka is real.](http://9gag.com/gag/amA0q02)<!-- MEMES:END -->
 
 ---
 
