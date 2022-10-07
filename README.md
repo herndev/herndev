@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)
- - [Daily Authority: 📱 Pixel products, Pixel products everywhere](https://www.androidauthority.com/daily-authority-october-7-2022-3217573/)
- - [Sources: Crypto.com saw a 30%-40% reduction in headcount between June and August, with 2,000+ employees leaving the company, mostly due to layoffs &lpar;Asa Hiken/Ad Age&rpar;](http://www.techmeme.com/221007/p2#a221007p2)<!-- TECH:END -->
+ - [Samsung details GDDR7, already in production, with speeds up to 36Gbps, doubling GDDR6&#39;s 18Gbps, and plans to release new V-NAND chips with a 230-layer design &lpar;Francisco Pires/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221007/p3#a221007p3)
+ - [Amazon stops field tests of its delivery robot Scout](https://www.theverge.com/2022/10/7/23392360/amazon-disbands-delivery-robot-scout-development)
+ - [Robot makers including Boston Dynamics pledge not to weaponize their creations](https://www.theverge.com/2022/10/7/23392342/boston-dynamics-robot-makers-pledge-not-to-weaponize)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
