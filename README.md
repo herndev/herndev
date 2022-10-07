@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Don&#39;t Have To Wait For A Steam Deck Anymore](https://kotaku.com/valve-steam-deck-dock-overwatch-2-order-boot-videos-1849627986)
- - [That McDonald&#39;s Mario Movie Leak With Princess Peach Looks Real Now](https://kotaku.com/super-mario-bros-movie-mcdonalds-princess-peach-leak-1849627982)
- - [The Super Mario Bros. movie gets the games’ pathetic penguins just right](https://www.polygon.com/23391680/super-mario-bros-movie-trailer-penguin-64)<!-- GAME:END -->
+ - [How to be a Hellraiser, according to the newest Pinhead](https://www.polygon.com/23387046/hellraiser-movie-costume-makeup-jamie-clayton)
+ - [Diablo II: Resurrected Ladder Season 2 Now Live](https://news.xbox.com/en-us/2022/10/06/diablo-ii-resurrected-ladder-season-2-now-live/)
+ - [Well, this is not what I expected a game called &#39;Priest Simulator&#39; to look like](https://www.pcgamer.com/well-this-is-not-what-i-expected-a-game-called-priest-simulator-to-look-like)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
