@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The coming pain is intentional. Don\u2019t forget it.](http://9gag.com/gag/aeQ3Ebp)
- - ⏩ [Tourists were robbed by Malaysia Traffic Police in broad daylight. The officer suddenly took the victim&#39;s wallet, took out two $50 notes, put the money in his record book and left &lpar;news in link&rpar;](http://9gag.com/gag/armeYEK)
- - 👉 [Biology teacher who was suspended because he refused to follow the mandated gender pronouns set by school district fought back and won. Gender policy suspended instead.](http://9gag.com/gag/aDYwEgd)<!-- MEMES:END -->
+ - 💣 [The mythical seks.](http://9gag.com/gag/a7qKYde)
+ - ⏩ [The good ol...](http://9gag.com/gag/a7qKzvL)
+ - 👉 [Stop kitten around](http://9gag.com/gag/ay2pO7W)<!-- MEMES:END -->
 
 ---
 
