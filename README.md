@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gotta be 2 steps ahead](http://9gag.com/gag/awZbDwB)
- - ⏩ [Biology teacher who was suspended because he refused to follow the mandated gender pronouns set by school district fought back and won. Gender policy suspended instead.](http://9gag.com/gag/aDYwEgd)
- - 👉 [Weekend Compilation](http://9gag.com/gag/aBdQ7v2)<!-- MEMES:END -->
+ - 💣 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
+ - ⏩ [Links in comments](http://9gag.com/gag/aMEb3EA)
+ - 👉 [Not bad Biden](http://9gag.com/gag/ay2pOwY)<!-- MEMES:END -->
 
 ---
 
