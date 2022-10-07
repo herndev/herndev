@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just in case you&#39;ve missed it, there are currently 3 new animated MK movies](http://9gag.com/gag/a7qKXWe)
- - ⏩ [Today is the 70th birthday of a little SPECIAL princess on high-heels. What wishes would you like to convey?](http://9gag.com/gag/ago0MrW)
- - 👉 [Oops](http://9gag.com/gag/a04PAwL)<!-- MEMES:END -->
+ - 💣 [I have a black friend!](http://9gag.com/gag/aA0V709)
+ - ⏩ [No title good enough](http://9gag.com/gag/a3Zd9j8)
+ - 👉 [`The Russian new T-90 tank is already in the United States, where it arrived from Ukraine. The Americans will be testing the armament installed on it.`](http://9gag.com/gag/aQEpwBe)<!-- MEMES:END -->
 
 ---
 
