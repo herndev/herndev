@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mindy Kaling reimagined Velma, but she wasn’t allowed to use Scooby-Doo](https://www.polygon.com/nycc/23392767/velma-nycc-trailer-scooby-doo-mindy-kaling)
- - [Share of the Week: Customization](https://blog.playstation.com/2022/10/07/share-of-the-week-customization/)
- - [Report: Even Facebook Isn&#39;t Using Its Own Metaverse, Begs Employees To Spend Time In It](https://kotaku.com/meta-facebook-vr-metaverse-horizon-worlds-online-1849629766)<!-- GAME:END -->
+ - [Destiny 2 Xur location and items, Oct. 7-11](https://www.polygon.com/destiny-2-guide-walkthrough/2022/10/7/23393040/destiny-2-xur-location-items-oct-7-11-legendaries)
+ - [Good Omens season 2 is coming, and Neil Gaiman tried to explain it at NYCC](https://www.polygon.com/nycc/23392702/good-omens-season-2-release-date-neil-gaiman-nycc)
+ - [Chainsaw Man’s first episode is a rip-roaring, feel-bad good time](https://www.polygon.com/23391506/chainsaw-man-episode-1-review-nycc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
