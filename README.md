@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dear Disney Dreamlight Valley characters: Stop going to bed so damn early](https://www.polygon.com/23393298/disney-dreamlight-valley-mickey-mouse-sleep-too-early-friendship-level)
- - [This New Fantasy Action Game&#39;s Story Is As Great As Its Gameplay](https://kotaku.com/soulstice-hack-and-slash-review-berserk-devil-may-cry-1849632487)
- - [Former Marvel EIC Joe Quesada leaps over to DC](https://www.polygon.com/nycc/23392718/nycc-2022-marvel-joe-quesada-joins-dc-covers)<!-- GAME:END -->
+ - [This gorgeous grid-based dungeon crawler is based on real folklore](https://www.pcgamer.com/this-gorgeous-grid-based-dungeon-crawler-is-based-on-real-folklore)
+ - [Oops: Valve Shows Switch Emulator In Steam Deck Vid, Then Deletes It](https://kotaku.com/yuzu-nintendo-switch-emulator-steam-deck-dock-valve-1849632836)
+ - [Overwatch 2 bug is forcing some players into accidentally buying skins](https://www.polygon.com/23393091/overwatch-2-bug-skins-ow2-purchase-legendary-skin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
