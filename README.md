@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Legend of Vox Machina will get messy in season 2, full of dragons through season 3](https://www.polygon.com/nycc/23392562/legend-vox-machina-season-2-3-critical-role-nycc-cast)
- - [All the big NYCC 2022 announcements in one place](https://www.polygon.com/nycc/23391565/nycc-2022-trailers-news-new-york-comic-con)
- - [Splatoon 3’s newest Splatfest wades into a hot Pokémon debate](https://www.polygon.com/nintendo/23392610/splatoon-3-pokemon-scarlet-violet-splatfest-november-date-time)<!-- GAME:END -->
+ - [Ed Boon talks 30 years of Mortal Kombat](https://blog.playstation.com/2022/10/07/ed-boon-talks-30-years-of-mortal-kombat/)
+ - [Roller Champions Season 2: Dragon’s Way Is Live](https://news.xbox.com/en-us/2022/10/07/roller-champions-season-2-dragons-way-is-live/)
+ - [My kind of modders are re-building the first Vampire: the Masquerade in Skyrim](https://www.pcgamer.com/my-kind-of-modders-are-re-building-the-first-vampire-the-masquerade-in-skyrim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
