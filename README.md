@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Elon Musk: it is &quot;vaguely therapeutic&quot; to &quot;play the fool on Twitter&quot;, Truth Social is a right-wing echo chamber that can be called Trumpet, more &lpar;Roula Khalaf/Financial Times&rpar;](http://www.techmeme.com/221007/p7#a221007p7)
- - [Daily deals Oct. 7: $200 off M2 MacBook Pro, AirPods for $90, $100 off iPad mini 6, more](https://appleinsider.com/articles/22/10/07/daily-deals-oct-7-200-off-m2-macbook-pro-airpods-for-90-100-off-ipad-mini-6-more?utm_medium=rss)
- - [No Man’s Sky 4.0 trailer shows off streamlined UI and new relaxed mode](https://www.theverge.com/2022/10/7/23391322/no-mans-sky-4-0-waypoint-trailer-nintendo-switch)<!-- TECH:END -->
+ - [Palmer Luckey’s military firm is building loitering explosive drones](https://www.theverge.com/2022/10/7/23392441/palmer-luckey-anduril-military-first-weapons-loitering-munitions-drones)
+ - [Splatoon 3’s next Splatfest asks a difficult question: what’s the best pokémon type?](https://www.theverge.com/2022/10/7/23392540/splatoon-3-pokemon-splatfest)
+ - [17 Best iPhone 14 Cases and Accessories &lpar;2022&rpar;: MagSafe-Tested, Chargers, and More](https://www.wired.com/gallery/best-iphone-14-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
