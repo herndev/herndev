@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
- - ⏩ [Trophies for the Ukrainians](http://9gag.com/gag/anzXm5L)
- - 👉 [Abandoned Russian tank recovered for the UAF &lpar;bit sped up&rpar;](http://9gag.com/gag/aDYwK4B)<!-- MEMES:END -->
+ - 💣 [Twitch streamer kisses an unknown woman](http://9gag.com/gag/az2LWEB)
+ - ⏩ [Bottled men](http://9gag.com/gag/aoKZXZ0)
+ - 👉 [Violation](http://9gag.com/gag/aDYwK57)<!-- MEMES:END -->
 
 ---
 
