@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [FTX partners with Visa to offer debit cards linked directly to a user&#39;s FTX account in 40 countries, with a focus on Latin America, Europe, and Asia &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/221007/p16#a221007p16)
  - [Meta’s making it easier to report bugs in its Horizon VR app](https://www.theverge.com/2022/10/7/23393285/meta-horizon-worlds-bug-reporting-metaverse)
- - [NYC-based Elpha Secure, which provides cybersecurity software combined with cyber insurance policies, has raised a $20M Series A led by Canapi Ventures &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/221007/p15#a221007p15)
- - [Best Wine Club for 2022     - CNET](https://www.cnet.com/culture/best-wine-club/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hearing Aids You Can Get at the Store Will Be Here Soon     - CNET](https://www.cnet.com/health/medical/hearing-aids-you-can-get-at-the-store-will-be-here-soon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
