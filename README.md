@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kojima confirms internet’s suspicions that Elle Fanning will star in upcoming project](https://www.theverge.com/2022/10/7/23392339/hideo-kojima-who-am-i-teaser-elle-fanning-obviously)
  - [Data shows which Pixel phone consumers prefer buying and it’s no surprise](https://www.androidauthority.com/google-pixel-sales-small-vs-large-3217576/)
- - [Apple’s billion dollar antitrust fine in France cut to $366 million](https://www.theverge.com/2022/10/7/23391893/apple-billion-dollar-fine-france-reduced-antitrust-competition)
- - [&#39;Rings of Power&#39; Episode 7 Gives Tolkien Lore Purists a Ton to Talk About     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Midnight Club&#39; on Netflix: Gripping Horror Echoes &#39;Midnight Mass&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-gripping-horror-echoes-midnight-mass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
