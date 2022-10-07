@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Midnight Club might convert a new generation into horror buffs](https://www.polygon.com/reviews/23391276/midnight-club-netflix-review-horror-mike-flanagan)
- - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
- - [Where to find Rebecca&#39;s shotgun in Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-rebecca-shotgun-guts)<!-- GAME:END -->
+ - [The Rings of Power shows the cost of doing good](https://www.polygon.com/23391434/lord-rings-power-episode-7-review)
+ - [Woman confesses to murdering sister for flirting with her boyfriend in Valorant](https://www.pcgamer.com/woman-confesses-to-murdering-sister-for-flirting-with-her-boyfriend-in-valorant)
+ - [Here we go again: I can&#39;t wait until Overwatch 2 players learn there&#39;s an objective](https://www.pcgamer.com/here-we-go-again-i-cant-wait-until-overwatch-2-players-learn-theres-an-objective)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
