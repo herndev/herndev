@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [EU regulators sent game developers ~100 questions on the Microsoft-Activision deal, including whether Microsoft will block rivals&#39; access to Activision&#39;s games &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221007/p1#a221007p1)
- - [Acer’s Swift Edge could be the 16-inch OLED laptop we’ve all been waiting for](https://www.theverge.com/2022/10/7/23390874/acer-swift-edge-oled-laptop-amd-ryzen-6000-price-release-date)
- - [Sources: the US plans to spare SK Hynix and Samsung from the brunt of new restrictions on DRAM and NAND chipmakers in China planned to be released this week &lpar;Reuters&rpar;](http://www.techmeme.com/221006/p42#a221006p42)<!-- TECH:END -->
+ - [SpaceX Falcon Heavy Rocket Set to Launch for the First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-falcon-heavy-rocket-set-to-launch-for-the-first-time-in-three-years/#ftag=CAD590a51e)
+ - [First Evidence of Orcas Hunting and Eating Great White Sharks Seen in Drone Footage     - CNET](https://www.cnet.com/science/biology/first-evidence-of-orcas-hunting-and-eating-great-white-sharks-seen-in-drone-footage/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
