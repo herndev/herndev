@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power shows the cost of doing good](https://www.polygon.com/23391434/lord-rings-power-episode-7-review)
- - [Woman confesses to murdering sister for flirting with her boyfriend in Valorant](https://www.pcgamer.com/woman-confesses-to-murdering-sister-for-flirting-with-her-boyfriend-in-valorant)
- - [Here we go again: I can&#39;t wait until Overwatch 2 players learn there&#39;s an objective](https://www.pcgamer.com/here-we-go-again-i-cant-wait-until-overwatch-2-players-learn-theres-an-objective)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 10 to 14](https://news.xbox.com/en-us/2022/10/07/next-week-on-xbox-new-games-for-october-10-to-14/)
+ - [11 Gruesome Horror Games, Ranked By How Much They Made Us Scream](https://kotaku.com/best-horror-video-games-outlast-resident-evil-fromsoft-1849626506)
+ - [Nintendo reminds us Pilotwings 64 is coming to Switch in the sexiest way possible](https://www.polygon.com/nintendo/23392521/pilotwings-64-nintendo-switch-online-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
