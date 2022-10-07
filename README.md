@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [SteelSeries Arena 7](https://www.pcgamer.com/steelseries-arena-7-speakers-review)
  - [Today&#39;s Wordle 475 answer and hint: Friday, October 7](https://www.pcgamer.com/todays-wordle-475-answer-hint)
- - [The Rings of Power just teed up the apocalyptic future of The Lord of the Rings](https://www.polygon.com/23387845/lord-rings-power-balrog-moria-gandalf-durin-origin)
- - [Why nobody can actually say ‘Mordor’ yet in The Rings of Power](https://www.polygon.com/23387155/lord-rings-power-mordor-adar-the-eye)<!-- GAME:END -->
+ - [The Rings of Power just teed up the apocalyptic future of The Lord of the Rings](https://www.polygon.com/23387845/lord-rings-power-balrog-moria-gandalf-durin-origin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
