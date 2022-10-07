@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Letterboxd? Meet the social media platform for movie buffs](https://www.androidauthority.com/what-is-letterboxd-3216354/)
- - [The Hottest Startups in Barcelona](https://www.wired.com/story/hottest-startups-in-barcelona-2022/)
- - [The Hottest Startups in Stockholm](https://www.wired.com/story/hottest-startups-in-stockholm-2022/)<!-- TECH:END -->
+ - [Hacker steals $570 million of crypto tokens from Binance’s BNB Chain](https://www.theverge.com/2022/10/7/23392424/hacker-steals-570-million-binance-bnb-chain)
+ - [9 Best Smartwatches &lpar;2022&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Meta Says It Has Busted More Than 400 Login-Stealing Apps This Year](https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
