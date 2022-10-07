@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Captain help please, what do you have to say? It will come in handy in apocalypse-type situations.](http://9gag.com/gag/aqeZ39Y)
- - ⏩ [Meeeee](http://9gag.com/gag/aqeZvWM)
- - 👉 [Why Magneto Can Never Be In the MCU](http://9gag.com/gag/ago0Rgr)<!-- MEMES:END -->
+ - 💣 [If Steven He was an owl...](http://9gag.com/gag/amALZEy)
+ - ⏩ [How to tell if a car had an accident before](http://9gag.com/gag/aOxboYE)
+ - 👉 [Chechen Soldiers Now Fighting Alongside Ukrainian Forces - This is interesting. Take a listen.](http://9gag.com/gag/aA0rBKg)<!-- MEMES:END -->
 
 ---
 
