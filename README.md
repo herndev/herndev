@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA’s new PC app is here to replace Origin](https://www.theverge.com/2022/10/7/23392775/ea-new-pc-app-launcher-replace-origin-macos)
- - [Sony Xperia 5 IV review: Pocket photography powerhouse](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)
- - [A Canticle for Leibowitz Is a Big, Beautiful Mess](https://www.wired.com/2022/10/geeks-guide-canticle-for-leibowitz/)<!-- TECH:END -->
+ - [The third generation Apple TV is still barely clinging on to life](https://appleinsider.com/articles/22/10/07/the-third-generation-apple-tv-is-still-barely-clinging-on-to-life?utm_medium=rss)
+ - [US issues sweeping restrictions on chip sales to China](https://www.theverge.com/2022/10/7/23392860/biden-semiconductor-chips-intel-micron-china-ohio-science)
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-microsoft-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
