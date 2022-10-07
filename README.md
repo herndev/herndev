@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palmer Luckey’s military firm is building loitering explosive drones](https://www.theverge.com/2022/10/7/23392441/palmer-luckey-anduril-military-first-weapons-loitering-munitions-drones)
- - [Splatoon 3’s next Splatfest asks a difficult question: what’s the best pokémon type?](https://www.theverge.com/2022/10/7/23392540/splatoon-3-pokemon-splatfest)
- - [17 Best iPhone 14 Cases and Accessories &lpar;2022&rpar;: MagSafe-Tested, Chargers, and More](https://www.wired.com/gallery/best-iphone-14-cases-and-accessories/)<!-- TECH:END -->
+ - [One million Facebook users had passwords stolen by fake apps](https://appleinsider.com/articles/22/10/07/one-million-facebook-users-had-their-passwords-stolen-by-fake-apps?utm_medium=rss)
+ - [Amazon, Target, and Best Buy are throwing in up to $200 in gift cards when you buy the Pixel 7](https://www.theverge.com/2022/10/7/23391171/google-pixel-7-pixel-7-pro-airpods-pro-vizio-tv-fujifilm-mini-instax-11-kindle-oasis-deal-sale)
+ - [Google remembered the phone part of the smartphone](https://www.theverge.com/2022/10/7/23392422/google-phone-calls-pixel-7-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
