@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Destiny 2 Xur location and items, Oct. 7-11](https://www.polygon.com/destiny-2-guide-walkthrough/2022/10/7/23393040/destiny-2-xur-location-items-oct-7-11-legendaries)
- - [Good Omens season 2 is coming, and Neil Gaiman tried to explain it at NYCC](https://www.polygon.com/nycc/23392702/good-omens-season-2-release-date-neil-gaiman-nycc)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 442: Virtual Galaxy](https://blog.playstation.com/2022/10/07/official-playstation-podcast-episode-442-virtual-galaxy/)
+ - [Street Fighter 6 Players Are Embracing Madness With The Unhinged Character Creator](https://kotaku.com/street-fighter-6-beta-character-creator-funny-strange-1849632031)
+ - [Is 5 new Witcher games too many Witcher games?](https://www.pcgamer.com/is-5-new-witcher-games-too-many-witcher-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
