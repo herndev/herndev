@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hacker steals $570 million of crypto tokens from Binance’s BNB Chain](https://www.theverge.com/2022/10/7/23392424/hacker-steals-570-million-binance-bnb-chain)
- - [9 Best Smartwatches &lpar;2022&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Meta Says It Has Busted More Than 400 Login-Stealing Apps This Year](https://www.wired.com/story/meta-facebook-login-stealing-android-ios-apps/)<!-- TECH:END -->
+ - [Interview with Elon Musk: it is &quot;vaguely therapeutic&quot; to &quot;play the fool on Twitter&quot;, Truth Social is a right-wing echo chamber that can be called Trumpet, more &lpar;Roula Khalaf/Financial Times&rpar;](http://www.techmeme.com/221007/p7#a221007p7)
+ - [Daily deals Oct. 7: $200 off M2 MacBook Pro, AirPods for $90, $100 off iPad mini 6, more](https://appleinsider.com/articles/22/10/07/daily-deals-oct-7-200-off-m2-macbook-pro-airpods-for-90-100-off-ipad-mini-6-more?utm_medium=rss)
+ - [No Man’s Sky 4.0 trailer shows off streamlined UI and new relaxed mode](https://www.theverge.com/2022/10/7/23391322/no-mans-sky-4-0-waypoint-trailer-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
