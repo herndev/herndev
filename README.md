@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fireworks in the back of a car](http://9gag.com/gag/a2KPpb1)
- - ⏩ [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)
- - 👉 [First trailer of the `Super Mario bros movie`](http://9gag.com/gag/aGEVmOG)<!-- MEMES:END -->
+ - 💣 [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
+ - ⏩ [Not for everyone, but still funny](http://9gag.com/gag/aKEgQBZ)
+ - 👉 [Wasted](http://9gag.com/gag/aGEVmdX)<!-- MEMES:END -->
 
 ---
 
