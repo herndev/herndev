@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect from the Microsoft Surface launch event](https://www.theverge.com/23393039/microsoft-surface-event-pro-9-studio-laptop-rumors-leaks)
- - [Binance says it will cease trading Helium Network Tokens, or HNT, over the next week and advises users to close out their positions &lpar;Forbes&rpar;](http://www.techmeme.com/221007/p13#a221007p13)
- - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)<!-- TECH:END -->
+ - [The best laptop deals you can get right now](https://www.theverge.com/good-deals/23161948/apple-macbook-lenovo-acer-deal-sale)
+ - [USB-C on iPhone is good - but not as an excuse for a bad law](https://appleinsider.com/articles/22/10/07/usb-c-on-iphone-is-good---but-not-an-excuse-for-a-bad-law?utm_medium=rss)
+ - [A16 Bionic reportedly costs more than twice as much as A15](https://appleinsider.com/articles/22/10/07/a16-bionic-reportedly-costs-more-than-twice-as-much-as-a15?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
