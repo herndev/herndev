@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [U good?](http://9gag.com/gag/aWG03YK)
- - ⏩ [Not bad Biden](http://9gag.com/gag/ay2pOwY)
- - 👉 [Russian soldiers lived in barn with pigs.. and a washing machine.](http://9gag.com/gag/adP6ZLB)<!-- MEMES:END -->
+ - 💣 [Sire](http://9gag.com/gag/aWG0POq)
+ - ⏩ [Just happened to me](http://9gag.com/gag/aMEb3Ox)
+ - 👉 [When someone wakes you up on the bus](http://9gag.com/gag/adP6ZVd)<!-- MEMES:END -->
 
 ---
 
