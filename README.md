@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 442: Virtual Galaxy](https://blog.playstation.com/2022/10/07/official-playstation-podcast-episode-442-virtual-galaxy/)
- - [Street Fighter 6 Players Are Embracing Madness With The Unhinged Character Creator](https://kotaku.com/street-fighter-6-beta-character-creator-funny-strange-1849632031)
- - [Is 5 new Witcher games too many Witcher games?](https://www.pcgamer.com/is-5-new-witcher-games-too-many-witcher-games)<!-- GAME:END -->
+ - [Dear Disney Dreamlight Valley characters: Stop going to bed so damn early](https://www.polygon.com/23393298/disney-dreamlight-valley-mickey-mouse-sleep-too-early-friendship-level)
+ - [This New Fantasy Action Game&#39;s Story Is As Great As Its Gameplay](https://kotaku.com/soulstice-hack-and-slash-review-berserk-devil-may-cry-1849632487)
+ - [Former Marvel EIC Joe Quesada leaps over to DC](https://www.polygon.com/nycc/23392718/nycc-2022-marvel-joe-quesada-joins-dc-covers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
