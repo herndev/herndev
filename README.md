@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sire](http://9gag.com/gag/aWG0POq)
- - ⏩ [Just happened to me](http://9gag.com/gag/aMEb3Ox)
- - 👉 [When someone wakes you up on the bus](http://9gag.com/gag/adP6ZVd)<!-- MEMES:END -->
+ - 💣 [Just in case you&#39;ve missed it, there are currently 3 new animated MK movies](http://9gag.com/gag/a7qKXWe)
+ - ⏩ [Today is the 70th birthday of a little SPECIAL princess on high-heels. What wishes would you like to convey?](http://9gag.com/gag/ago0MrW)
+ - 👉 [Oops](http://9gag.com/gag/a04PAwL)<!-- MEMES:END -->
 
 ---
 
