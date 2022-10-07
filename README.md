@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ed Boon talks 30 years of Mortal Kombat](https://blog.playstation.com/2022/10/07/ed-boon-talks-30-years-of-mortal-kombat/)
- - [Roller Champions Season 2: Dragon’s Way Is Live](https://news.xbox.com/en-us/2022/10/07/roller-champions-season-2-dragons-way-is-live/)
- - [My kind of modders are re-building the first Vampire: the Masquerade in Skyrim](https://www.pcgamer.com/my-kind-of-modders-are-re-building-the-first-vampire-the-masquerade-in-skyrim)<!-- GAME:END -->
+ - [Mindy Kaling reimagined Velma, but she wasn’t allowed to use Scooby-Doo](https://www.polygon.com/nycc/23392767/velma-nycc-trailer-scooby-doo-mindy-kaling)
+ - [Share of the Week: Customization](https://blog.playstation.com/2022/10/07/share-of-the-week-customization/)
+ - [Report: Even Facebook Isn&#39;t Using Its Own Metaverse, Begs Employees To Spend Time In It](https://kotaku.com/meta-facebook-vr-metaverse-horizon-worlds-online-1849629766)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
