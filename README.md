@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twitch streamer kisses an unknown woman](http://9gag.com/gag/az2LWEB)
- - ⏩ [Bottled men](http://9gag.com/gag/aoKZXZ0)
- - 👉 [Violation](http://9gag.com/gag/aDYwK57)<!-- MEMES:END -->
+ - 💣 [Fireworks in the back of a car](http://9gag.com/gag/a2KPpb1)
+ - ⏩ [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)
+ - 👉 [First trailer of the `Super Mario bros movie`](http://9gag.com/gag/aGEVmOG)<!-- MEMES:END -->
 
 ---
 
