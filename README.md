@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If Steven He was an owl...](http://9gag.com/gag/amALZEy)
- - ⏩ [How to tell if a car had an accident before](http://9gag.com/gag/aOxboYE)
- - 👉 [Chechen Soldiers Now Fighting Alongside Ukrainian Forces - This is interesting. Take a listen.](http://9gag.com/gag/aA0rBKg)<!-- MEMES:END -->
+ - 💣 [Another trophy for the boys!](http://9gag.com/gag/a4odpmy)
+ - ⏩ [Well that was something...](http://9gag.com/gag/ago0eGn)
+ - 👉 [The war is over for these orcs.](http://9gag.com/gag/avQg2M5)<!-- MEMES:END -->
 
 ---
 
