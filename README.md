@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 10 to 14](https://news.xbox.com/en-us/2022/10/07/next-week-on-xbox-new-games-for-october-10-to-14/)
- - [11 Gruesome Horror Games, Ranked By How Much They Made Us Scream](https://kotaku.com/best-horror-video-games-outlast-resident-evil-fromsoft-1849626506)
- - [Nintendo reminds us Pilotwings 64 is coming to Switch in the sexiest way possible](https://www.polygon.com/nintendo/23392521/pilotwings-64-nintendo-switch-online-release-date)<!-- GAME:END -->
+ - [Legend of Vox Machina will get messy in season 2, full of dragons through season 3](https://www.polygon.com/nycc/23392562/legend-vox-machina-season-2-3-critical-role-nycc-cast)
+ - [All the big NYCC 2022 announcements in one place](https://www.polygon.com/nycc/23391565/nycc-2022-trailers-news-new-york-comic-con)
+ - [Splatoon 3’s newest Splatfest wades into a hot Pokémon debate](https://www.polygon.com/nintendo/23392610/splatoon-3-pokemon-scarlet-violet-splatfest-november-date-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
