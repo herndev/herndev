@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The third generation Apple TV is still barely clinging on to life](https://appleinsider.com/articles/22/10/07/the-third-generation-apple-tv-is-still-barely-clinging-on-to-life?utm_medium=rss)
- - [US issues sweeping restrictions on chip sales to China](https://www.theverge.com/2022/10/7/23392860/biden-semiconductor-chips-intel-micron-china-ohio-science)
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-microsoft-sale)<!-- TECH:END -->
+ - [Chainsaw Man’s first episode hooked me with its gorgeously gory action](https://www.theverge.com/2022/10/7/23392714/chainsaw-man-episode-1-crunchyroll)
+ - [How to manage iMessage storage in iOS 16 &amp; iPadOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-manage-imessage-storage-in-ios-16-ipados-16?utm_medium=rss)
+ - [Facebook warns 1 million users whose logins were stolen by scam mobile apps](https://www.theverge.com/2022/10/7/23392873/facebook-million-users-scam-mobile-apps-ios-android-app-stores)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
