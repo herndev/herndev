@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla’s first Semi trucks will be delivered to Pepsi in December](https://www.theverge.com/2022/10/6/23391923/tesla-semi-truck-delivered-pepsi-production-december)
- - [Binance Smart Chain suspends transactions due to a bridge exploit, estimating that $100M to $110M in assets were moved off chain, of which $7M has been frozen &lpar;CoinDesk&rpar;](http://www.techmeme.com/221006/p39#a221006p39)
- - [Samsung Expects Q3 Profit to Tumble Amid Chip Market Downturn     - CNET](https://www.cnet.com/tech/samsung-expects-q3-profit-to-tumble-amid-chip-market-downturn/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Meta’s flagship metaverse app is too buggy and employees are barely using it, says exec in charge](https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo)
+ - [&#39;She-Hulk&#39; Release Schedule: When Does Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/she-hulk-release-schedule-when-does-episode-9-hit-disney-plus/#ftag=CAD590a51e)
+ - [First Super Mario Bros. Trailer Is Here: You Can Finally Hear Chris Pratt     - CNET](https://www.cnet.com/culture/entertainment/first-super-mario-bros-trailer-is-here-you-can-finally-hear-chris-pratt/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
