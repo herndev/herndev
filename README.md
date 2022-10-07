@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EU regulators sent game developers ~100 questions on the Microsoft-Activision deal, including whether Microsoft will block rivals&#39; access to Activision&#39;s games &lpar;Foo Yun Chee/Reuters&rpar;](http://www.techmeme.com/221007/p1#a221007p1)
- - [SpaceX Falcon Heavy Rocket Set to Launch for the First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-falcon-heavy-rocket-set-to-launch-for-the-first-time-in-three-years/#ftag=CAD590a51e)
- - [First Evidence of Orcas Hunting and Eating Great White Sharks Seen in Drone Footage     - CNET](https://www.cnet.com/science/biology/first-evidence-of-orcas-hunting-and-eating-great-white-sharks-seen-in-drone-footage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Data shows which Pixel phone consumers prefer buying and it’s no surprise](https://www.androidauthority.com/google-pixel-sales-small-vs-large-3217576/)
+ - [Apple’s billion dollar antitrust fine in France cut to $366 million](https://www.theverge.com/2022/10/7/23391893/apple-billion-dollar-fine-france-reduced-antitrust-competition)
+ - [&#39;Rings of Power&#39; Episode 7 Gives Tolkien Lore Purists a Ton to Talk About     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
