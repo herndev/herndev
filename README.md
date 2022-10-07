@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries Arena 7](https://www.pcgamer.com/steelseries-arena-7-speakers-review)
- - [Today&#39;s Wordle 475 answer and hint: Friday, October 7](https://www.pcgamer.com/todays-wordle-475-answer-hint)
- - [The Rings of Power just teed up the apocalyptic future of The Lord of the Rings](https://www.polygon.com/23387845/lord-rings-power-balrog-moria-gandalf-durin-origin)<!-- GAME:END -->
+ - [The Midnight Club might convert a new generation into horror buffs](https://www.polygon.com/reviews/23391276/midnight-club-netflix-review-horror-mike-flanagan)
+ - [Destiny 2 lost sector rotation for the Season of Plunder](https://www.pcgamer.com/destiny-2-lost-sector-rotation-daily)
+ - [Where to find Rebecca&#39;s shotgun in Cyberpunk 2077](https://www.pcgamer.com/cyberpunk-2077-rebecca-shotgun-guts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
