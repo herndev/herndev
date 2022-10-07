@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I feel for the dad.](http://9gag.com/gag/aMEb74x)
- - ⏩ [In 18th century Madagascar had a king from Slovakia, so now it belongs to EU](http://9gag.com/gag/aYVpXdw)
- - 👉 [Oooooohweeeeeeh](http://9gag.com/gag/aMEboEX)<!-- MEMES:END -->
+ - 💣 [Yea boi....](http://9gag.com/gag/aGEVom0)
+ - ⏩ [Culture Wars](http://9gag.com/gag/aMEboeW)
+ - 👉 [Rewind time](http://9gag.com/gag/ago0zRw)<!-- MEMES:END -->
 
 ---
 
