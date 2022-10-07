@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It\u2019s Griffin Time](http://9gag.com/gag/anzXwAV)
- - ⏩ [Not for everyone, but still funny](http://9gag.com/gag/aKEgQBZ)
- - 👉 [Wasted](http://9gag.com/gag/aGEVmdX)<!-- MEMES:END -->
+ - 💣 [Just an inch a month, no worries, mkay?](http://9gag.com/gag/ago0ppn)
+ - ⏩ [Kids beware](http://9gag.com/gag/a8qbRO6)
+ - 👉 [Lighting a boring bonfire for a school event. Walks out like nothing happened](http://9gag.com/gag/aREgq2q)<!-- MEMES:END -->
 
 ---
 
