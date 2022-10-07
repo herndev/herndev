@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This gorgeous grid-based dungeon crawler is based on real folklore](https://www.pcgamer.com/this-gorgeous-grid-based-dungeon-crawler-is-based-on-real-folklore)
- - [Oops: Valve Shows Switch Emulator In Steam Deck Vid, Then Deletes It](https://kotaku.com/yuzu-nintendo-switch-emulator-steam-deck-dock-valve-1849632836)
- - [Overwatch 2 bug is forcing some players into accidentally buying skins](https://www.polygon.com/23393091/overwatch-2-bug-skins-ow2-purchase-legendary-skin)<!-- GAME:END -->
+ - [EA&#39;s Origin is officially dead](https://www.pcgamer.com/eas-origin-is-officially-dead)
+ - [Blizzard: Overwatch 2 &#39;Launch Experience Has Been Frustrating For Many&#39;](https://kotaku.com/overwatch-2-account-merge-queue-lc-208-disconnected-1849633019)
+ - [A Saucy Romance Game Where You Play As Dracula](https://kotaku.com/romancelvania-platformer-dating-sim-the-deep-end-games-1849632793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
