@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One million Facebook users had passwords stolen by fake apps](https://appleinsider.com/articles/22/10/07/one-million-facebook-users-had-their-passwords-stolen-by-fake-apps?utm_medium=rss)
- - [Amazon, Target, and Best Buy are throwing in up to $200 in gift cards when you buy the Pixel 7](https://www.theverge.com/2022/10/7/23391171/google-pixel-7-pixel-7-pro-airpods-pro-vizio-tv-fujifilm-mini-instax-11-kindle-oasis-deal-sale)
- - [Google remembered the phone part of the smartphone](https://www.theverge.com/2022/10/7/23392422/google-phone-calls-pixel-7-features)<!-- TECH:END -->
+ - [EA’s new PC app is here to replace Origin](https://www.theverge.com/2022/10/7/23392775/ea-new-pc-app-launcher-replace-origin-macos)
+ - [Sony Xperia 5 IV review: Pocket photography powerhouse](https://www.androidauthority.com/sony-xperia-5-iv-review-3213535/)
+ - [A Canticle for Leibowitz Is a Big, Beautiful Mess](https://www.wired.com/2022/10/geeks-guide-canticle-for-leibowitz/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
