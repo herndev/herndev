@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Who is Galadriel’s husband in The Rings of Power? Wrong answers only.](https://www.polygon.com/23391920/lord-rings-power-galadriel-husband-celeborn)
  - [DC’s unprecedented new subscription tier let’s you read new comics after only a month](https://www.polygon.com/23394145/dc-comics-subscription-infinite-ultra-price)
- - [Blade has a teen daughter now, and she’s about to be a Marvel star](https://www.polygon.com/nycc/23394070/blade-marvel-comics-daughter-cinematic-universe-brielle-brooks)
- - [Mortal Kombat at 30: Co-creator Ed Boon looks back on its creation and legacy](https://www.polygon.com/23393378/mortal-kombat-30th-anniversary-ed-boon-interview)<!-- GAME:END -->
+ - [Blade has a teen daughter now, and she’s about to be a Marvel star](https://www.polygon.com/nycc/23394070/blade-marvel-comics-daughter-cinematic-universe-brielle-brooks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
