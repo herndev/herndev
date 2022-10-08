@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How HBO Max, Prime Video, and other streamers are trying to grow in a crowded market, including, sources say, via discounted bundles and deals with rivals &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221007/p17#a221007p17)
- - [Blizzard will be taking Overwatch 2 offline again](https://www.theverge.com/2022/10/7/23393571/blizzard-overwatch-2-offline-downtime-friday-lc-208-error-watchpoint-pack)
- - [Overwatch 2’s new animated short is a new introduction to Kiriko](https://www.theverge.com/2022/10/7/23393316/overwatch-2-cinematic-kiriko-blizzard)<!-- TECH:END -->
+ - [Huobi, a top-10 crypto exchange by trading volume, has agreed to be acquired by Hong Kong-based About Capital; terms of the deal were not disclosed &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/221007/p18#a221007p18)
+ - [&#39;Andor&#39; Episode 5 Recap: Cassian Grapples With New Rebel Allies&#39; Mistrust     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-5-recap-cassian-grapples-with-new-rebel-allies-mistrust/#ftag=CAD590a51e)
+ - [WWE Extreme Rules 2022: Start Times, How to Watch and Full Card     - CNET](https://www.cnet.com/culture/entertainment/wwe-extreme-rules-2022-start-times-how-to-watch-and-full-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
