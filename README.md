@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stop controlling life so much](http://9gag.com/gag/aDY33bZ)
+ - 💣 [Crimea Bridge destroyed, now Lissabon Bridge is the longest bridge in Europe again](http://9gag.com/gag/arm441V)
  - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
  - 👉 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
 
