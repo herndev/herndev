@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)
  - [The future of the X-Men will be glam fabulous in Marvel’s Sins of Sinister crossover](https://www.polygon.com/nycc/23394112/marvel-comics-x-men-crossover-sins-of-sinister-checklist)
- - [Modern Warfare 2 trailer outlines PC features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)
- - [Who is Galadriel’s husband in The Rings of Power? Wrong answers only.](https://www.polygon.com/23391920/lord-rings-power-galadriel-husband-celeborn)<!-- GAME:END -->
+ - [Modern Warfare 2 trailer outlines PC features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
