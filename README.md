@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scam after scam..](http://9gag.com/gag/a1PeYp6)
- - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [Went to uni for Engineering degree. Learned pronouns and multiple kinds of gender](http://9gag.com/gag/a04LL4Z)<!-- MEMES:END -->
+ - 💣 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
+ - ⏩ [Let&#39;s give it a try](http://9gag.com/gag/aL1PBAv)
+ - 👉 [When you know all the combos](http://9gag.com/gag/a1Pee76)<!-- MEMES:END -->
 
 ---
 
