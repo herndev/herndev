@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u041a\u0440\u0438\u043c \u0446\u0435 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \ud83c\uddfa\ud83c\udde6 Happy birthday KHUILO!](http://9gag.com/gag/a9qLLv1)
+ - 💣 [Stop controlling life so much](http://9gag.com/gag/aDY33bZ)
  - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
  - 👉 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
 
