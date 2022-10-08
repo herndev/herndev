@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DappRadar: the largest number of DAUs on Decentraland was 675 and on The Sandbox was ~4,503; Messari: Decentraland and The Sandbox have market caps of ~$1.3B &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221008/p3#a221008p3)
- - [Sources: Chinese online fast fashion retailer Shein has been valued at $65B to $85B in private markets in recent months, down from $100B+ in April 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/221008/p2#a221008p2)
- - [New US federal rules requiring health care organizations to give patients access to their full health records in digital format went into effect on October 6 &lpar;Casey Ross/STAT&rpar;](http://www.techmeme.com/221008/p1#a221008p1)<!-- TECH:END -->
+ - [An overview of Parag Agrawal&#39;s tenure as Twitter&#39;s CEO so far, as he battles declining business performance and plunging morale amid Elon Musk&#39;s takeover bid &lpar;Financial Times&rpar;](http://www.techmeme.com/221008/p5#a221008p5)
+ - [SoftBank&#39;s Vision Fund 2 made just one investment in August 2022 and one in September 2022, according to CB Insights, as Masayoshi Son rethinks his strategy &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/221008/p4#a221008p4)
+ - [DappRadar: the largest number of DAUs on Decentraland was 675 and on The Sandbox was ~4,503; Messari: Decentraland and The Sandbox have market caps of ~$1.3B &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221008/p3#a221008p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
