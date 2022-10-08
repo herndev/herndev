@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie](https://www.pcgamer.com/quantic-QA-tester-report)
- - [Hellraiser director flays open the movie’s wicked ending](https://www.polygon.com/entertainment/23391342/hellraiser-movie-ending-explained-david-bruckner)
- - [Valve edits Steam Deck trailer to remove Nintendo Switch emulator icon](https://www.pcgamer.com/valve-edits-steam-deck-trailer-to-remove-nintendo-switch-emulator-icon)<!-- GAME:END -->
+ - [Werewolf by Night refuses to call its monster by his real name](https://www.polygon.com/23393132/marvel-werewolf-by-night-swamp-man-thing)
+ - [Teen Wolf: The Movie, Wolf Pack expand the gorgeous wolf-people universe](https://www.polygon.com/nycc/23393734/teen-wolf-movie-video-wolf-pack-trailer-nycc)
+ - [Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie](https://www.pcgamer.com/quantic-QA-tester-report)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
