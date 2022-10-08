@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Laptop for College in 2022     - CNET](https://www.cnet.com/tech/computing/best-laptop-for-college/#ftag=CAD590a51e)
- - [Best Home Security Systems for 2022     - CNET](https://www.cnet.com/news/best-home-security-system/#ftag=CAD590a51e)
- - [Best Over-Ear Headphones for 2022: Wired and Wireless Picks     - CNET](https://www.cnet.com/tech/mobile/best-over-ear-headphones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus 10 Pro revisited: The good and bad, six months later](https://www.androidauthority.com/oneplus-10-pro-long-term-review-3216055/)
+ - [A history of consumer VR since 2012, from the first Oculus developer kit and the 2016 hype cycle to Quest 2, and what mainstream success for VR could look like &lpar;Steve Haske/Ars Technica&rpar;](http://www.techmeme.com/221008/p6#a221008p6)
+ - [Why Google Pixels Aren&#39;t as Popular as iPhones and Samsung Galaxy Phones     - CNET](https://www.cnet.com/tech/mobile/why-google-pixels-arent-as-popular-as-iphones-and-samsung-galaxy-phones/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
