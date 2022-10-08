@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R.I.P. Korean master Kim Jung Gi, passed away at 47. He renders extremely complicated scenes near-perfectly from memory, without the aid of references. He is famous for his contributions to Marvel and DC Comics, and is well-acknowledged for his great influence in the art world.](http://9gag.com/gag/az2LwYZ)
- - ⏩ [Mom, can my friend stay for dinner?](http://9gag.com/gag/aL1PRmv)
- - 👉 [It breaks when you eat too much... it only took a month](http://9gag.com/gag/aREPQ6q)<!-- MEMES:END -->
+ - 💣 [Paper plane origami + instructions!](http://9gag.com/gag/aBdQq2A)
+ - ⏩ [What](http://9gag.com/gag/az2E72z)
+ - 👉 [Dudu du du do du do dododododo](http://9gag.com/gag/adPYy6Z)<!-- MEMES:END -->
 
 ---
 
