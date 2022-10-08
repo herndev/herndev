@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Proud dads](http://9gag.com/gag/aGEwRQZ)
- - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [MITHRANDIR IS WITH US!](http://9gag.com/gag/aL1PBw6)<!-- MEMES:END -->
+ - 💣 [Sorry for twitter btw](http://9gag.com/gag/a3Z3Bjr)
+ - ⏩ [A mistake has been made](http://9gag.com/gag/abvqj68)
+ - 👉 [And renaturization*](http://9gag.com/gag/aEq1zRM)<!-- MEMES:END -->
 
 ---
 
