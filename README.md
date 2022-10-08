@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA&#39;s Origin is officially dead](https://www.pcgamer.com/eas-origin-is-officially-dead)
- - [Blizzard: Overwatch 2 &#39;Launch Experience Has Been Frustrating For Many&#39;](https://kotaku.com/overwatch-2-account-merge-queue-lc-208-disconnected-1849633019)
- - [A Saucy Romance Game Where You Play As Dracula](https://kotaku.com/romancelvania-platformer-dating-sim-the-deep-end-games-1849632793)<!-- GAME:END -->
+ - [Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie](https://www.pcgamer.com/quantic-QA-tester-report)
+ - [Hellraiser director flays open the movie’s wicked ending](https://www.polygon.com/entertainment/23391342/hellraiser-movie-ending-explained-david-bruckner)
+ - [Valve edits Steam Deck trailer to remove Nintendo Switch emulator icon](https://www.pcgamer.com/valve-edits-steam-deck-trailer-to-remove-nintendo-switch-emulator-icon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
