@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can get the Google Pixel Buds Pro for their lowest price ever at Wellbots](https://www.theverge.com/2022/10/8/23393053/google-pixel-buds-pro-sony-earbuds-lg-c2-fire-tablet-deal-sale)
- - [Q&amp;A with CrowdStrike CEO George Kurtz as the company surpasses $2B in annual revenue and looks to become a bigger player in data observability and IT operations &lpar;Kyle Alspach/Protocol&rpar;](http://www.techmeme.com/221008/p10#a221008p10)
- - [Google Pixel 7 and 7 Pro vs older Google phones: Should you upgrade?](https://www.androidauthority.com/google-pixel-7-vs-older-pixel-phones-upgrade-3216406/)<!-- TECH:END -->
+ - [Fixing my Sony WH-1000XM3 convinced me of the right to repair](https://www.androidauthority.com/sony-wh-1000xm3-battery-replacement-3212768/)
+ - [iPhone 14 Plus review: Bigger is better](https://appleinsider.com/articles/22/10/08/iphone-14-plus-review-bigger-is-better?utm_medium=rss)
+ - [Persona 4 Golden and Persona 3 Portable hit modern consoles in January](https://www.theverge.com/2022/10/8/23394077/persona-4-golden-persona-3-portable-modern-consoles-january-2023-atlus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
