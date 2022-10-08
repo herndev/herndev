@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Galaxy Buds 2 Pro alternatives: Sony, Apple, Bose, and more](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-alternatives-3211737/)
- - [Fancy Restaurant for Dogs Features $75 Seasonal, Organic Tasting Menu     - CNET](https://www.cnet.com/culture/fancy-restaurant-for-dogs-features-75-seasonal-organic-tasting-menu/#ftag=CAD590a51e)
- - [Mariners vs. Blue Jays Livestream: How to Watch Game 2 of the Wild Card Series Online     - CNET](https://www.cnet.com/tech/services-and-software/mariners-vs-blue-jays-livestream-how-to-watch-game-2-of-the-wild-card-series-online/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Aventon Pace 500 e-bike review: Great balance of price, power, and heft](https://appleinsider.com/articles/22/10/08/aventon-pace-500-e-bike-review-great-balance-of-price-power-and-heft?utm_medium=rss)
+ - [A look at business email compromise scams in the US involving real estate, and the Secret Service team that helped recover $244M in stolen BEC funds since 2019 &lpar;Natalie Wong/Bloomberg&rpar;](http://www.techmeme.com/221008/p11#a221008p11)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
