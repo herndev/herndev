@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Google Pixel Watch alternatives you can buy](https://www.androidauthority.com/best-pixel-watch-alternatives-3216031/)
- - [11 Best Android Phones &lpar;2022&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Fitbit Sense 2 review: it doesn’t make much sense](https://www.theverge.com/23392564/fitbit-sense-2-review-google-fitness-tracker)<!-- TECH:END -->
+ - [Samsung and AMD’s profit slump suggests industry trouble for chipmakers](https://www.theverge.com/2022/10/8/23392703/samsung-amd-semiconductor-chip-shortage-slump-2022)
+ - [Google Fitbit Sense 2 review: good stress tracking and nice UI but no Google Assistant or third-party apps, pricey at $300, and can&#39;t be called a smartwatch &lpar;Victoria Song/The Verge&rpar;](http://www.techmeme.com/221008/p9#a221008p9)
+ - [Rays vs. Guardians Livestream: How to Watch Game 2 of the Wild Card Series Online     - CNET](https://www.cnet.com/tech/services-and-software/rays-vs-guardians-livestream-how-to-watch-game-2-of-the-wild-card-series-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
