@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fixing my Sony WH-1000XM3 convinced me of the right to repair](https://www.androidauthority.com/sony-wh-1000xm3-battery-replacement-3212768/)
- - [iPhone 14 Plus review: Bigger is better](https://appleinsider.com/articles/22/10/08/iphone-14-plus-review-bigger-is-better?utm_medium=rss)
- - [Persona 4 Golden and Persona 3 Portable hit modern consoles in January](https://www.theverge.com/2022/10/8/23394077/persona-4-golden-persona-3-portable-modern-consoles-january-2023-atlus)<!-- TECH:END -->
+ - [The best Galaxy Buds 2 Pro alternatives: Sony, Apple, Bose, and more](https://www.androidauthority.com/samsung-galaxy-buds-2-pro-alternatives-3211737/)
+ - [Fancy Restaurant for Dogs Features $75 Seasonal, Organic Tasting Menu     - CNET](https://www.cnet.com/culture/fancy-restaurant-for-dogs-features-75-seasonal-organic-tasting-menu/#ftag=CAD590a51e)
+ - [Mariners vs. Blue Jays Livestream: How to Watch Game 2 of the Wild Card Series Online     - CNET](https://www.cnet.com/tech/services-and-software/mariners-vs-blue-jays-livestream-how-to-watch-game-2-of-the-wild-card-series-online/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
