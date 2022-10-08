@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh boy, here we go again](http://9gag.com/gag/a8qbgE1)
- - ⏩ [Swedish girl kicks US tourist\u2019s ass.](http://9gag.com/gag/aZDxb1V)
- - 👉 [Smooth criminal](http://9gag.com/gag/aqeN94R)<!-- MEMES:END -->
+ - 💣 [Orban getting the welcome he deserves](http://9gag.com/gag/aMEr2EA)
+ - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 👉 [Spooktober](http://9gag.com/gag/axoZdXY)<!-- MEMES:END -->
 
 ---
 
