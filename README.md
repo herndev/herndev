@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 💣 [Dog interrupts first tier football game to play with match ball](http://9gag.com/gag/aYVp3YV)
  - ⏩ [The war is over for these orcs.](http://9gag.com/gag/avQg2M5)
- - 👉 [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)<!-- MEMES:END -->
+ - 👉 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)<!-- MEMES:END -->
 
 ---
 
