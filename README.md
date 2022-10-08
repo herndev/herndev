@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - ⏩ [The culprit](http://9gag.com/gag/a7qyK0q)
- - 👉 [Enjoy!](http://9gag.com/gag/aDY3wMK)<!-- MEMES:END -->
+ - 💣 [\u041a\u0440\u0438\u043c \u0446\u0435 \u0423\u043a\u0440\u0430\u0457\u043d\u0430 \ud83c\uddfa\ud83c\udde6 Happy birthday KHUILO!](http://9gag.com/gag/a9qLLv1)
+ - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 👉 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
 
 ---
 
