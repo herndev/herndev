@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only way this war can end.](http://9gag.com/gag/aXnE8pV)
- - ⏩ [I want to work for uber](http://9gag.com/gag/az2Eb5B)
- - 👉 [Memes in real life](http://9gag.com/gag/a8qYWgO)<!-- MEMES:END -->
+ - 💣 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - ⏩ [I will without a doubt](http://9gag.com/gag/aPg4vNQ)
+ - 👉 [Damn he speaks flawless korean](http://9gag.com/gag/a1PeZo2)<!-- MEMES:END -->
 
 ---
 
