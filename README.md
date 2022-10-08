@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Crimea Bridge destroyed, now Lissabon Bridge is the longest bridge in Europe again](http://9gag.com/gag/arm441V)
+ - 💣 [Scam after scam..](http://9gag.com/gag/a1PeYp6)
  - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [Say no to cancel culture](http://9gag.com/gag/a04LLvX)<!-- MEMES:END -->
+ - 👉 [Went to uni for Engineering degree. Learned pronouns and multiple kinds of gender](http://9gag.com/gag/a04LL4Z)<!-- MEMES:END -->
 
 ---
 
