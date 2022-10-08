@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
  - ⏩ [The culprit](http://9gag.com/gag/a7qyK0q)
- - 👉 [Wtf Is this?](http://9gag.com/gag/aqeNm8Z)<!-- MEMES:END -->
+ - 👉 [Enjoy!](http://9gag.com/gag/aDY3wMK)<!-- MEMES:END -->
 
 ---
 
