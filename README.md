@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [New US federal rules requiring health care organizations to give patients access to their full health records in digital format went into effect on October 6 &lpar;Casey Ross/STAT&rpar;](http://www.techmeme.com/221008/p1#a221008p1)
  - [&#39;Andor&#39; Release Schedule: When Does Episode 6 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-6-hit-disney-plus/#ftag=CAD590a51e)
- - [&#39;The Midnight Club:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [Best Leather Cleaners and Conditioners for Cars 2022: Lexol, 3D and More     - CNET](https://www.cnet.com/roadshow/news/best-leather-conditioner-for-cars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Midnight Club:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
