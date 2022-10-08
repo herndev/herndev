@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [An overview of Parag Agrawal&#39;s tenure as Twitter&#39;s CEO so far, as he battles declining business performance and plunging morale amid Elon Musk&#39;s takeover bid &lpar;Financial Times&rpar;](http://www.techmeme.com/221008/p5#a221008p5)
- - [SoftBank&#39;s Vision Fund 2 made just one investment in August 2022 and one in September 2022, according to CB Insights, as Masayoshi Son rethinks his strategy &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/221008/p4#a221008p4)
- - [DappRadar: the largest number of DAUs on Decentraland was 675 and on The Sandbox was ~4,503; Messari: Decentraland and The Sandbox have market caps of ~$1.3B &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221008/p3#a221008p3)<!-- TECH:END -->
+ - [Best USB-C Car Charger for Your iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/best-usb-car-charger/#ftag=CAD590a51e)
+ - [SoftBank&#39;s Vision Fund 2 made just one investment in August 2022 and one in September 2022, according to CB Insights, as Masayoshi Son rethinks his strategy &lpar;Wataru Suzuki/Nikkei Asia&rpar;](http://www.techmeme.com/221008/p4#a221008p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
