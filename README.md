@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Would you trust Google to be your VPN?](https://www.androidauthority.com/trust-google-vpn-poll-3216525/)
- - [31 Best Nintendo Switch Games for Every Player &lpar;2022&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
- - [Paranoia Threatens to Upend Professional Chess](https://www.wired.com/story/magnus-carlsen-hans-niemann-cheating-chess-fide/)<!-- TECH:END -->
+ - [The best Google Pixel Watch alternatives you can buy](https://www.androidauthority.com/best-pixel-watch-alternatives-3216031/)
+ - [11 Best Android Phones &lpar;2022&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [Fitbit Sense 2 review: it doesn’t make much sense](https://www.theverge.com/23392564/fitbit-sense-2-review-google-fitness-tracker)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
