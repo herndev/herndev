@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - ⏩ [I will without a doubt](http://9gag.com/gag/aPg4vNQ)
- - 👉 [Damn he speaks flawless korean](http://9gag.com/gag/a1PeZo2)<!-- MEMES:END -->
+ - 💣 [The Dunkley Pramotor, launched in 1923, allowed mothers and nannies to effortlessly take baby on a trip around town.](http://9gag.com/gag/az2Eggb)
+ - ⏩ [Damn he speaks flawless korean](http://9gag.com/gag/a1PeZo2)
+ - 👉 [Kerch bridge security camera footage. Sorry for watermark](http://9gag.com/gag/az2ELdp)<!-- MEMES:END -->
 
 ---
 
