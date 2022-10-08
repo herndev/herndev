@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Orban getting the welcome he deserves](http://9gag.com/gag/aMEr2EA)
- - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [Spooktober](http://9gag.com/gag/axoZdXY)<!-- MEMES:END -->
+ - 💣 [Sounds good to me.](http://9gag.com/gag/aVbQ5Gd)
+ - ⏩ [Smooth criminal](http://9gag.com/gag/aqeN94R)
+ - 👉 [The true \u201cDiversity is our strength\u201d](http://9gag.com/gag/aMEr2VP)<!-- MEMES:END -->
 
 ---
 
