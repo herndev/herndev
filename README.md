@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-453-3217235/)
- - [Pokemon Go Mega Gyarados Raid Guide: Best Counters, Weaknesses and Moveset     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-mega-gyarados-raid-guide-best-counters-weaknesses-and-moveset/#ftag=CAD590a51e)
- - [Samsung and AMD’s profit slump suggests industry trouble for chipmakers](https://www.theverge.com/2022/10/8/23392703/samsung-amd-semiconductor-chip-shortage-slump-2022)<!-- TECH:END -->
+ - [You can get the Google Pixel Buds Pro for their lowest price ever at Wellbots](https://www.theverge.com/2022/10/8/23393053/google-pixel-buds-pro-sony-earbuds-lg-c2-fire-tablet-deal-sale)
+ - [Q&amp;A with CrowdStrike CEO George Kurtz as the company surpasses $2B in annual revenue and looks to become a bigger player in data observability and IT operations &lpar;Kyle Alspach/Protocol&rpar;](http://www.techmeme.com/221008/p10#a221008p10)
+ - [Google Pixel 7 and 7 Pro vs older Google phones: Should you upgrade?](https://www.androidauthority.com/google-pixel-7-vs-older-pixel-phones-upgrade-3216406/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
