@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)
- - [The future of the X-Men will be glam fabulous in Marvel’s Sins of Sinister crossover](https://www.polygon.com/nycc/23394112/marvel-comics-x-men-crossover-sins-of-sinister-checklist)
- - [Modern Warfare 2 trailer outlines PC features](https://www.pcgamer.com/modern-warfare-2-trailer-outlines-pc-features)<!-- GAME:END -->
+ - [Play a weird wordle-like where you guess what prompt an image generator used](https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used)
+ - [Capcom&#39;s interactive spy comedy movie Fox Hunt was probably better left forgotten](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)
+ - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
