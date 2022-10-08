@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
- - ⏩ [Let&#39;s give it a try](http://9gag.com/gag/aL1PBAv)
- - 👉 [When you know all the combos](http://9gag.com/gag/a1Pee76)<!-- MEMES:END -->
+ - 💣 [Sound off...](http://9gag.com/gag/aA0rpRg)
+ - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 👉 [I&#39;ve never thought of it that way. That&#39;s really something.](http://9gag.com/gag/aNwZZM3)<!-- MEMES:END -->
 
 ---
 
