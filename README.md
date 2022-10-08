@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - ⏩ [Elon simps are going to hate me for this one but this dude just needs to shut his mouth, i used to think he was a visonary and a business genius but now i see him for what he actually is... a loudmouth fraud.](http://9gag.com/gag/aOxbm6E)
- - 👉 [:&rpar;](http://9gag.com/gag/aOxbV3N)<!-- MEMES:END -->
+ - 💣 [I have like 6\u2026](http://9gag.com/gag/abvy028)
+ - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
+ - 👉 [Wait for it...](http://9gag.com/gag/a04Lp5d)<!-- MEMES:END -->
 
 ---
 
