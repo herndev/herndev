@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sorry for twitter btw](http://9gag.com/gag/a3Z3Bjr)
- - ⏩ [A mistake has been made](http://9gag.com/gag/abvqj68)
- - 👉 [And renaturization*](http://9gag.com/gag/aEq1zRM)<!-- MEMES:END -->
+ - 💣 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
+ - ⏩ [Elon simps are going to hate me for this one but this dude just needs to shut his mouth, i used to think he was a visonary and a business genius but now i see him for what he actually is... a loudmouth fraud.](http://9gag.com/gag/aOxbm6E)
+ - 👉 [:&rpar;](http://9gag.com/gag/aOxbV3N)<!-- MEMES:END -->
 
 ---
 
