@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to use Face or Photo Unblur with Pixel phones](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
  - [Aventon Pace 500 e-bike review: Great balance of price, power, and heft](https://appleinsider.com/articles/22/10/08/aventon-pace-500-e-bike-review-great-balance-of-price-power-and-heft?utm_medium=rss)
- - [A look at business email compromise scams in the US involving real estate, and the Secret Service team that helped recover $244M in stolen BEC funds since 2019 &lpar;Natalie Wong/Bloomberg&rpar;](http://www.techmeme.com/221008/p11#a221008p11)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at business email compromise scams in the US involving real estate, and the Secret Service team that helped recover $244M in stolen BEC funds since 2019 &lpar;Natalie Wong/Bloomberg&rpar;](http://www.techmeme.com/221008/p11#a221008p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
