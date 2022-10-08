@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New US federal rules requiring health care organizations to give patients access to their full health records in digital format went into effect on October 6 &lpar;Casey Ross/STAT&rpar;](http://www.techmeme.com/221008/p1#a221008p1)
- - [&#39;Andor&#39; Release Schedule: When Does Episode 6 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-does-episode-6-hit-disney-plus/#ftag=CAD590a51e)
- - [&#39;The Midnight Club:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [DappRadar: the largest number of DAUs on Decentraland was 675 and on The Sandbox was ~4,503; Messari: Decentraland and The Sandbox have market caps of ~$1.3B &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221008/p3#a221008p3)
+ - [Sources: Chinese online fast fashion retailer Shein has been valued at $65B to $85B in private markets in recent months, down from $100B+ in April 2022 &lpar;Financial Times&rpar;](http://www.techmeme.com/221008/p2#a221008p2)
+ - [New US federal rules requiring health care organizations to give patients access to their full health records in digital format went into effect on October 6 &lpar;Casey Ross/STAT&rpar;](http://www.techmeme.com/221008/p1#a221008p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
