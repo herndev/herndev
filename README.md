@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mortal Kombat at 30: Co-creator Ed Boon looks back on its creation and legacy](https://www.polygon.com/23393378/mortal-kombat-30th-anniversary-ed-boon-interview)
- - [Marvel’s scrollable, phone-friendly comics gamble is paying off](https://www.polygon.com/23387106/marvel-unlimited-infinity-comics-jeff-the-shark)
- - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)<!-- GAME:END -->
+ - [DC’s unprecedented new subscription tier let’s you read new comics after only a month](https://www.polygon.com/23394145/dc-comics-subscription-infinite-ultra-price)
+ - [Blade has a teen daughter now, and she’s about to be a Marvel star](https://www.polygon.com/nycc/23394070/blade-marvel-comics-daughter-cinematic-universe-brielle-brooks)
+ - [Mortal Kombat at 30: Co-creator Ed Boon looks back on its creation and legacy](https://www.polygon.com/23393378/mortal-kombat-30th-anniversary-ed-boon-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
