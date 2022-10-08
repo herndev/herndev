@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 476 answer and hint: Saturday, October 8](https://www.pcgamer.com/todays-wordle-476-answer-hint)
  - [Werewolf by Night refuses to call its monster by his real name](https://www.polygon.com/23393132/marvel-werewolf-by-night-swamp-man-thing)
- - [Teen Wolf: The Movie, Wolf Pack expand the gorgeous wolf-people universe](https://www.polygon.com/nycc/23393734/teen-wolf-movie-video-wolf-pack-trailer-nycc)
- - [Major game studios believed this company was providing experienced, well-staffed QA teams—employees say that was a lie](https://www.pcgamer.com/quantic-QA-tester-report)<!-- GAME:END -->
+ - [Teen Wolf: The Movie, Wolf Pack expand the gorgeous wolf-people universe](https://www.polygon.com/nycc/23393734/teen-wolf-movie-video-wolf-pack-trailer-nycc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
