@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Face or Photo Unblur with Pixel phones](https://www.androidauthority.com/face-photo-unblur-pixel-3217580/)
- - [Aventon Pace 500 e-bike review: Great balance of price, power, and heft](https://appleinsider.com/articles/22/10/08/aventon-pace-500-e-bike-review-great-balance-of-price-power-and-heft?utm_medium=rss)
- - [A look at business email compromise scams in the US involving real estate, and the Secret Service team that helped recover $244M in stolen BEC funds since 2019 &lpar;Natalie Wong/Bloomberg&rpar;](http://www.techmeme.com/221008/p11#a221008p11)<!-- TECH:END -->
+ - [Blizzard will require Overwatch 2 and Modern Warfare 2 players to use SMS Protect, a 2FA system, to combat toxicity, but won&#39;t accept prepaid and VOIP numbers &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/221008/p12#a221008p12)
+ - [Star Trek: Picard&#39;s latest teaser reveals some unexpected comebacks](https://www.theverge.com/2022/10/8/23394274/star-trek-latest-picard-teaser-surprises-james-moriarty-lore)
+ - [Every James Bond Movie, Ranked: The Best &lpar;and Worst&rpar; of Bond     - CNET](https://www.cnet.com/culture/entertainment/every-james-bond-movie-ranked-the-best-and-worst-of-bond/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
