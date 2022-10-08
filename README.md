@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sound off...](http://9gag.com/gag/aA0rpRg)
+ - 💣 [Proud dads](http://9gag.com/gag/aGEwRQZ)
  - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [I&#39;ve never thought of it that way. That&#39;s really something.](http://9gag.com/gag/aNwZZM3)<!-- MEMES:END -->
+ - 👉 [MITHRANDIR IS WITH US!](http://9gag.com/gag/aL1PBw6)<!-- MEMES:END -->
 
 ---
 
