@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 10 Pro revisited: The good and bad, six months later](https://www.androidauthority.com/oneplus-10-pro-long-term-review-3216055/)
- - [A history of consumer VR since 2012, from the first Oculus developer kit and the 2016 hype cycle to Quest 2, and what mainstream success for VR could look like &lpar;Steve Haske/Ars Technica&rpar;](http://www.techmeme.com/221008/p6#a221008p6)
- - [Why Google Pixels Aren&#39;t as Popular as iPhones and Samsung Galaxy Phones     - CNET](https://www.cnet.com/tech/mobile/why-google-pixels-arent-as-popular-as-iphones-and-samsung-galaxy-phones/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily deals Oct. 8: $150 off Apple Watch Series 7, $500 off 11-inch iPad Pro, Pad &amp; Quill discounts](https://appleinsider.com/articles/22/10/08/daily-deals-oct-8-150-off-apple-watch-series-7-500-off-11-inch-ipad-pro-pad-quill-discounts?utm_medium=rss)
+ - [Gather around, pet owners: I found the purr-fect phone for you](https://www.androidauthority.com/galaxy-z-flip-4-flex-mode-single-take-pets-3212299/)
+ - [Philips Hue Play Gradient Lightstrip for PC Review: Color Syncing for Games, Music, and Movies](https://www.wired.com/review/philips-hue-play-gradient-lightstrip-pc/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
