@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 8: $150 off Apple Watch Series 7, $500 off 11-inch iPad Pro, Pad &amp; Quill discounts](https://appleinsider.com/articles/22/10/08/daily-deals-oct-8-150-off-apple-watch-series-7-500-off-11-inch-ipad-pro-pad-quill-discounts?utm_medium=rss)
- - [Gather around, pet owners: I found the purr-fect phone for you](https://www.androidauthority.com/galaxy-z-flip-4-flex-mode-single-take-pets-3212299/)
- - [Philips Hue Play Gradient Lightstrip for PC Review: Color Syncing for Games, Music, and Movies](https://www.wired.com/review/philips-hue-play-gradient-lightstrip-pc/)<!-- TECH:END -->
+ - [Poll: Would you trust Google to be your VPN?](https://www.androidauthority.com/trust-google-vpn-poll-3216525/)
+ - [31 Best Nintendo Switch Games for Every Player &lpar;2022&rpar;](https://www.wired.com/gallery/best-nintendo-switch-games/)
+ - [Paranoia Threatens to Upend Professional Chess](https://www.wired.com/story/magnus-carlsen-hans-niemann-cheating-chess-fide/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
