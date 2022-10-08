@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Officer abruptly opened car door and fired at teen, who&#39;s actually innocent and just eating a burger in his car outside of McDonald&#39;s](http://9gag.com/gag/aGEwKAn)
- - ⏩ [Competitive salary is competitive.](http://9gag.com/gag/aPg4wWw)
- - 👉 [Birthday of the loser #1](http://9gag.com/gag/adPY07Z)<!-- MEMES:END -->
+ - 💣 [R.I.P. Korean master Kim Jung Gi, passed away at 47. He renders extremely complicated scenes near-perfectly from memory, without the aid of references. He is famous for his contributions to Marvel and DC Comics, and is well-acknowledged for his great influence in the art world.](http://9gag.com/gag/az2LwYZ)
+ - ⏩ [Mom, can my friend stay for dinner?](http://9gag.com/gag/aL1PRmv)
+ - 👉 [It breaks when you eat too much... it only took a month](http://9gag.com/gag/aREPQ6q)<!-- MEMES:END -->
 
 ---
 
