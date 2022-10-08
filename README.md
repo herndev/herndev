@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have like 6\u2026](http://9gag.com/gag/abvy028)
- - ⏩ [There are 16 circles in this image](http://9gag.com/gag/ay2pyEb)
- - 👉 [Wait for it...](http://9gag.com/gag/a04Lp5d)<!-- MEMES:END -->
+ - 💣 [Cleaning guy, this is for you! You inspired me. I collected trash at a beach in El Salvador. Not much, but the tide was coming. I will do it again.](http://9gag.com/gag/aMErGMG)
+ - ⏩ [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
+ - 👉 [Na na na an an an na an an na](http://9gag.com/gag/aVbWPjv)<!-- MEMES:END -->
 
 ---
 
