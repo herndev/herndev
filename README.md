@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)
- - [YouTuber Etika&#39;s JoyConBoyz Hype Lives On Forever](https://kotaku.com/etika-mural-desmond-daniel-amofah-joycon-boyz-nintendo-1849632831)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Mortal Kombat at 30: Co-creator Ed Boon looks back on its creation and legacy](https://www.polygon.com/23393378/mortal-kombat-30th-anniversary-ed-boon-interview)
+ - [Marvel’s scrollable, phone-friendly comics gamble is paying off](https://www.polygon.com/23387106/marvel-unlimited-infinity-comics-jeff-the-shark)
+ - [The best Saturday-morning cartoons to send you strolling down memory lane](https://www.polygon.com/23387608/best-cartoons-watch-netflix-hbo-max-hulu-paramount-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
