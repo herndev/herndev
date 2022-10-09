@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mike Flanagan’s best works are built on the hit-or-miss horror of his early experiments](https://www.polygon.com/23390120/mike-flanagan-best-tv-movie-midnight)
  - [Today&#39;s Wordle 477 answer and hint: Sunday, October 9](https://www.pcgamer.com/todays-wordle-477-answer-hint)
- - [A huge text adventure begun by anonymous creators 40 years ago was only completed this year](https://www.pcgamer.com/a-huge-text-adventure-begun-by-anonymous-creators-40-years-ago-was-only-completed-this-year)
- - [The Walking Dead shares special memories and future previews ahead of final episodes](https://www.polygon.com/nycc/23394681/walking-dead-season-11-part-3-final-trailer-cast-panel-spinoffs)<!-- GAME:END -->
+ - [A huge text adventure begun by anonymous creators 40 years ago was only completed this year](https://www.pcgamer.com/a-huge-text-adventure-begun-by-anonymous-creators-40-years-ago-was-only-completed-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
