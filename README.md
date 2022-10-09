@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - ⏩ [I have like 6\u2026](http://9gag.com/gag/abvy028)
- - 👉 [Putting the needles on an artificial tree](http://9gag.com/gag/aMEr9bA)<!-- MEMES:END -->
+ - 💣 [\u2022\u00b0\u2022](http://9gag.com/gag/agovGKK)
+ - ⏩ [Yes](http://9gag.com/gag/a4o9MGv)
+ - 👉 [You have all the energy and still?](http://9gag.com/gag/aVbWeQy)<!-- MEMES:END -->
 
 ---
 
