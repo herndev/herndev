@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Marvel&#39;s &#39;Moon Girl and Devil Dinosaur&#39; Gets Second Season, Title Sequence Reveal     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-girl-and-devil-dinosaur-gets-second-season-title-sequence-reveal/#ftag=CAD590a51e)
- - [Padres vs. Mets Livestream: How to Watch Game 2 of the Wild Card Series Online     - CNET](https://www.cnet.com/tech/services-and-software/padres-vs-mets-livestream-how-to-watch-game-2-of-the-wild-card-series-online/#ftag=CAD590a51e)
- - [DC Universe Infinite launches Ultra tier so you can read new comics sooner](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)<!-- TECH:END -->
+ - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
+ - [Best Holiday Gifts for In-Laws in 2022     - CNET](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CAD590a51e)
+ - [New York City-based Alkymi, which offers no-code workflow automation tools for business users, raised a $21M Series A led by Intel Capital &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221008/p13#a221008p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
