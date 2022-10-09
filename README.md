@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [A huge text adventure begun by anonymous creators 40 years ago was only completed this year](https://www.pcgamer.com/a-huge-text-adventure-begun-by-anonymous-creators-40-years-ago-was-only-completed-this-year)
  - [The Walking Dead shares special memories and future previews ahead of final episodes](https://www.polygon.com/nycc/23394681/walking-dead-season-11-part-3-final-trailer-cast-panel-spinoffs)
- - [Silent Hill director says multiple studios working on new games](https://www.pcgamer.com/silent-hill-director-says-multiple-studios-working-on-new-games)
- - [The new Wednesday trailer is full of creepy and kooky character cameos](https://www.polygon.com/23393051/wednesday-trailer-uncle-fester-christina-ricci)<!-- GAME:END -->
+ - [Silent Hill director says multiple studios working on new games](https://www.pcgamer.com/silent-hill-director-says-multiple-studios-working-on-new-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
