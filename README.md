@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hysterical Overwatch 2 bug lets Bastion players paint the world with artillery](https://www.pcgamer.com/hysterical-overwatch-2-bug-lets-bastion-players-paint-the-world-with-artillery)
- - [Fallout, Homeworld, and more tabletop RPGs go digital native on Role](https://www.pcgamer.com/fallout-homeworld-and-more-tabletop-rpgs-go-digital-native-on-role)
- - [Role-playing New Tales From the Borderlands’ characters will be like ‘4D chess’](https://www.polygon.com/23389603/new-tales-from-the-borderlands-preview-characters-story)<!-- GAME:END -->
+ - [Streamer Breaks Back In Two Places After TwitchCon Foam Pit Accident](https://kotaku.com/adriana-chechik-twitchcon-twitch-injury-break-back-hurt-1849636414)
+ - [Great moments in PC gaming: Setting off my first big D.Va bomb in Overwatch](https://www.pcgamer.com/great-moments-in-pc-gaming-setting-off-my-first-big-dva-bomb-in-overwatch)
+ - [Hysterical Overwatch 2 bug lets Bastion players paint the world with artillery](https://www.pcgamer.com/hysterical-overwatch-2-bug-lets-bastion-players-paint-the-world-with-artillery)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
