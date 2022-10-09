@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mobilized Russians soldiers ready to depart to the front date 7-10](http://9gag.com/gag/agovYGr)
- - ⏩ [Putin made cleansing in his army high command. Including promoting Ramzan Kadyrov for Colonel General rank. A third highest command in Russian army. Just for the context of their quality and standards...](http://9gag.com/gag/aVbW3qn)
- - 👉 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
+ - 💣 [When Motorsport turns geh](http://9gag.com/gag/aeQ0egO)
+ - ⏩ [The RU-Belarus war treaty says that an attack on RU automatically means that Belarus will be involved in the war. Putin is putting maximum pressure on Lukashenko. There are rumours that if Lukashenko allows it, his own army will overthrow him. Dilemma.](http://9gag.com/gag/aZDxg8n)
+ - 👉 [Sorry....](http://9gag.com/gag/aqeN1GM)<!-- MEMES:END -->
 
 ---
 
