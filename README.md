@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Critics say the California Age-Appropriate Design Code Act, a digital privacy law for minors, could lead to invasive age verification methods like face-scanning &lpar;Emma Camp/Reason&rpar;](http://www.techmeme.com/221009/p1#a221009p1)
- - [WWE Extreme Rules 2022: Results, Bray Wyatt Return, Full Recap and Analysis     - CNET](https://www.cnet.com/culture/entertainment/wwe-extreme-rules-2022-results-bray-wyatt-return-full-recap-and-analysis/#ftag=CAD590a51e)
- - [Formula 1 Japan Livestream: How to Watch the Race Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-japan-livestream-how-to-watch-the-race-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [GIF, once called &quot;the file format of the internet generation&quot;, is declining in use as young users say GIFs are &quot;cringe&quot; and MP4 videos make the format outdated &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221009/p4#a221009p4)
+ - [GiveDirectly and Google.org are using AI mapping and satellite imagery to find low-income hurricane survivors in Puerto Rico and Florida and send cash payments &lpar;Adele Peters/Fast Company&rpar;](http://www.techmeme.com/221009/p3#a221009p3)
+ - [A profile of Akili, which makes a US FDA-cleared game designed to treat ADHD in children; Akili raised $160M+ after going public via a SPAC deal in August 2022 &lpar;Rebecca Heilweil/Vox&rpar;](http://www.techmeme.com/221009/p2#a221009p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
