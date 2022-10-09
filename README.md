@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juggernaut](http://9gag.com/gag/aNwZAVG)
- - ⏩ [Yes God, Yes](http://9gag.com/gag/aBd3xYP)
- - 👉 [This young man named Dariush Alizadeh was shot dead by Iranian regime&#39;s officers in his car for honking as a sign of protest. There are disturbing photos and videos of his death circulating. May he rest in peace.](http://9gag.com/gag/abvyYZr)<!-- MEMES:END -->
+ - 💣 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
+ - ⏩ [Lets do this!](http://9gag.com/gag/ay20X6b)
+ - 👉 [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)<!-- MEMES:END -->
 
 ---
 
