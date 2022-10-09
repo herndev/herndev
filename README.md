@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian 45th artillary brigade destroyed Russian base](http://9gag.com/gag/a2KYrG1)
- - ⏩ [Back on february 2022, Russian main TV channels said RU army would take Kiev in fews days](http://9gag.com/gag/aeQ0bmp)
- - 👉 [Denim](http://9gag.com/gag/aYVWeWV)<!-- MEMES:END -->
+ - 💣 [Press [Crow] to crow](http://9gag.com/gag/a9qLWXW)
+ - ⏩ [Yes, biocomputers](http://9gag.com/gag/arm4bDB)
+ - 👉 [That&#39;s Inspiring](http://9gag.com/gag/amA0Ydj)<!-- MEMES:END -->
 
 ---
 
