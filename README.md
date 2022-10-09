@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meet the World&#39;s Tallest Domestic Cat     - CNET](https://www.cnet.com/culture/meet-the-worlds-tallest-domestic-cat/#ftag=CAD590a51e)
  - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Best Holiday Gifts for In-Laws in 2022     - CNET](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CAD590a51e)
- - [New York City-based Alkymi, which offers no-code workflow automation tools for business users, raised a $21M Series A led by Intel Capital &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221008/p13#a221008p13)<!-- TECH:END -->
+ - [Best Holiday Gifts for In-Laws in 2022     - CNET](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
