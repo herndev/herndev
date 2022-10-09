@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marvel died with Tony](http://9gag.com/gag/aEq1nDe)
- - ⏩ [Cat protecting the chicks from birds.](http://9gag.com/gag/anzKN75)
- - 👉 [Ready, aim, fire](http://9gag.com/gag/aMErGRW)<!-- MEMES:END -->
+ - 💣 [Good boi can\u2019t hold back his excitement.](http://9gag.com/gag/axoZDYY)
+ - ⏩ [No title](http://9gag.com/gag/aNwZWbG)
+ - 👉 [Crab amputates its own claw](http://9gag.com/gag/anzKq80)<!-- MEMES:END -->
 
 ---
 
