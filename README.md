@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SNL Parodies The Try Guys&#39; Video Response to Ned Fulmer Drama     - CNET](https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-video-response-to-ned-fulmer-drama/#ftag=CAD590a51e)
  - [Indonesia&#39;s patchwork data security approach has resulted in several large-scale data leaks; experts say the personal data protection bill is a temporary fix &lpar;Antonia Timmerman/Rest of World&rpar;](http://www.techmeme.com/221009/p5#a221009p5)
- - [GIF, once called &quot;the file format of the internet generation&quot;, is declining in use as young users say GIFs are &quot;cringe&quot; and MP4 videos make the format outdated &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221009/p4#a221009p4)
- - [GiveDirectly and Google.org are using AI mapping and satellite imagery to find low-income hurricane survivors in Puerto Rico and Florida and send cash payments &lpar;Adele Peters/Fast Company&rpar;](http://www.techmeme.com/221009/p3#a221009p3)<!-- TECH:END -->
+ - [GIF, once called &quot;the file format of the internet generation&quot;, is declining in use as young users say GIFs are &quot;cringe&quot; and MP4 videos make the format outdated &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221009/p4#a221009p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
