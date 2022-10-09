@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)
- - [Apple&#39;s AirPods and Mac accessories could gain USB-C by 2024](https://appleinsider.com/articles/22/10/09/apples-airpods-and-mac-accessories-could-gain-usb-c-by-2024?utm_medium=rss)
- - [This BenQ Is a Pricey Gift, but It&#39;s the Best Projector for the Money     - CNET](https://www.cnet.com/tech/home-entertainment/benq-is-a-pricey-gift-but-its-the-best-projector-for-the-money/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 14 lead times moderate, Pro model demand holds strong](https://appleinsider.com/articles/22/10/09/iphone-14-lead-times-moderate-pro-model-demand-holds-strong?utm_medium=rss)
+ - [A look at BookScan, a subscription service for book sales data, exclusive to publishing executives, and its open-access alternative Post45 Data Collective &lpar;Melanie Walsh/Public Books&rpar;](http://www.techmeme.com/221009/p7#a221009p7)
+ - [Google Pixel Watch vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
