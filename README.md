@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Juggernaut](http://9gag.com/gag/aNwZAVG)
- - ⏩ [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)
- - 👉 [Damn right](http://9gag.com/gag/aBd38EP)<!-- MEMES:END -->
+ - ⏩ [Quiet quitting&gt;giving 101%](http://9gag.com/gag/amA02P6)
+ - 👉 [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)<!-- MEMES:END -->
 
 ---
 
