@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Equal rights mean...](http://9gag.com/gag/aXnpA5g)
- - ⏩ [Can&#39;t wait for season 4](http://9gag.com/gag/awZK561)
- - 👉 [Crab amputates its own claw](http://9gag.com/gag/anzKq80)<!-- MEMES:END -->
+ - 💣 [Video today from the Kerch bridge. Remember tonights video of Russia claiming the railroad was operational again, and traffic would continue as normal. To everyone&#39;s surprise, the Russians lied again. The traincarts has most likley melted onto the rail lines.](http://9gag.com/gag/aBd3WOO)
+ - ⏩ [Reminds me of the rolling rock ball in Elder Ring](http://9gag.com/gag/anzKy1o)
+ - 👉 [Nice guys finish?](http://9gag.com/gag/aGEw03X)<!-- MEMES:END -->
 
 ---
 
