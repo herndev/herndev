@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iranian state television was hacked, allowing an anti-regime video clip to be broadcast during the news.](http://9gag.com/gag/a1PeMjP)
- - ⏩ [Ready, aim, fire](http://9gag.com/gag/aMErGRW)
- - 👉 [Cat protecting the chicks from birds.](http://9gag.com/gag/anzKN75)<!-- MEMES:END -->
+ - 💣 [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
+ - ⏩ [I have like 6\u2026](http://9gag.com/gag/abvy028)
+ - 👉 [Putting the needles on an artificial tree](http://9gag.com/gag/aMEr9bA)<!-- MEMES:END -->
 
 ---
 
