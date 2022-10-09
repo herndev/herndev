@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Consistency is key](http://9gag.com/gag/amA0YK2)
- - ⏩ [Video today from the Kerch bridge. Remember tonights video of Russia claiming the railroad was operational again, and traffic would continue as normal. To everyone&#39;s surprise, the Russians lied again. The traincarts has most likley melted onto the rail lines.](http://9gag.com/gag/aBd3WOO)
- - 👉 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
+ - 💣 [Ukrainian 45th artillary brigade destroyed Russian base](http://9gag.com/gag/a2KYrG1)
+ - ⏩ [Back on february 2022, Russian main TV channels said RU army would take Kiev in fews days](http://9gag.com/gag/aeQ0bmp)
+ - 👉 [Denim](http://9gag.com/gag/aYVWeWV)<!-- MEMES:END -->
 
 ---
 
