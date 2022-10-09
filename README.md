@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The new Wednesday trailer is full of creepy and kooky character cameos](https://www.polygon.com/23393051/wednesday-trailer-uncle-fester-christina-ricci)
  - [Play a weird wordle-like where you guess what prompt an image generator used](https://www.pcgamer.com/play-a-weird-wordle-like-where-you-guess-what-prompt-an-image-generator-used)
- - [Capcom&#39;s interactive spy comedy movie Fox Hunt was probably better left forgotten](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)
- - [Smallville’s cast reunion panel highlights what makes the show different from other superhero series](https://www.polygon.com/nycc/23394423/smallville-cast-reunion-tom-welling-michael-rosenbaum-sam-witwer-laura-vandervoort)<!-- GAME:END -->
+ - [Capcom&#39;s interactive spy comedy movie Fox Hunt was probably better left forgotten](https://www.pcgamer.com/tonight-saturday-crapshoot-live-iii-fox-hunt)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
