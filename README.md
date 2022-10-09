@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s record income makes it richer than most countries](https://appleinsider.com/articles/22/10/09/apples-record-income-makes-it-richer-than-most-countries?utm_medium=rss)
- - [Lowest price ever: 1TB iPad Pro 11-inch on sale for $749 &lpar;$550 off&rpar;](https://appleinsider.com/articles/22/10/09/lowest-price-ever-1tb-ipad-pro-11-inch-on-sale-for-749-550-off?utm_medium=rss)
- - [iPhone 14 lead times moderate, Pro model demand holds strong](https://appleinsider.com/articles/22/10/09/iphone-14-lead-times-moderate-pro-model-demand-holds-strong?utm_medium=rss)<!-- TECH:END -->
+ - [Some iPhone 14 users say the crash detection feature has triggered false alarms and called 911 during rollercoaster rides or after a phone drop while driving &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/221009/p10#a221009p10)
+ - [Twitter locks Kanye West out of his account following anti-Semitic post](https://www.theverge.com/2022/10/9/23395490/twitter-lock-kanye-west-out-account-following-anti-semitic-post)
+ - [SanDisk Professional G-Drive review: Fast enterprise-grade external hard drive for your Mac](https://appleinsider.com/articles/22/10/09/sandisk-professional-g-drive-review-fast-enterprise-grade-external-hard-drive-for-your-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
