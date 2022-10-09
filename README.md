@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 477 answer and hint: Sunday, October 9](https://www.pcgamer.com/todays-wordle-477-answer-hint)
  - [A huge text adventure begun by anonymous creators 40 years ago was only completed this year](https://www.pcgamer.com/a-huge-text-adventure-begun-by-anonymous-creators-40-years-ago-was-only-completed-this-year)
- - [The Walking Dead shares special memories and future previews ahead of final episodes](https://www.polygon.com/nycc/23394681/walking-dead-season-11-part-3-final-trailer-cast-panel-spinoffs)
- - [Silent Hill director says multiple studios working on new games](https://www.pcgamer.com/silent-hill-director-says-multiple-studios-working-on-new-games)<!-- GAME:END -->
+ - [The Walking Dead shares special memories and future previews ahead of final episodes](https://www.polygon.com/nycc/23394681/walking-dead-season-11-part-3-final-trailer-cast-panel-spinoffs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
