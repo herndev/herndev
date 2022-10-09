@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Took me a minute](http://9gag.com/gag/axoZVOn)
- - ⏩ [Well that escalated quickly](http://9gag.com/gag/aBd3xxQ)
- - 👉 [No rent no service](http://9gag.com/gag/avQgOzX)<!-- MEMES:END -->
+ - 💣 [Juggernaut](http://9gag.com/gag/aNwZAVG)
+ - ⏩ [Yes God, Yes](http://9gag.com/gag/aBd3xYP)
+ - 👉 [This young man named Dariush Alizadeh was shot dead by Iranian regime&#39;s officers in his car for honking as a sign of protest. There are disturbing photos and videos of his death circulating. May he rest in peace.](http://9gag.com/gag/abvyYZr)<!-- MEMES:END -->
 
 ---
 
