@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The new character design :&lpar;](http://9gag.com/gag/adPYjOM)
- - ⏩ [Crab amputates its own claw](http://9gag.com/gag/anzKq80)
- - 👉 [We live in a society](http://9gag.com/gag/adPYq0Z)<!-- MEMES:END -->
+ - 💣 [Marvel died with Tony](http://9gag.com/gag/aEq1nDe)
+ - ⏩ [Cat protecting the chicks from birds.](http://9gag.com/gag/anzKN75)
+ - 👉 [Ready, aim, fire](http://9gag.com/gag/aMErGRW)<!-- MEMES:END -->
 
 ---
 
