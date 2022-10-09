@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Formula 1 Japan Livestream: How to Watch the Race Live     - CNET](https://www.cnet.com/tech/services-and-software/formula-1-japan-livestream-how-to-watch-the-race-live/#ftag=CAD590a51e)
  - [Meet the World&#39;s Tallest Domestic Cat     - CNET](https://www.cnet.com/culture/meet-the-worlds-tallest-domestic-cat/#ftag=CAD590a51e)
- - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)
- - [Best Holiday Gifts for In-Laws in 2022     - CNET](https://www.cnet.com/health/parenting/gifts-for-in-laws/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best King Size Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-king-mattress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
