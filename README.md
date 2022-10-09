@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cleaning guy, this is for you! You inspired me. I collected trash at a beach in El Salvador. Not much, but the tide was coming. I will do it again.](http://9gag.com/gag/aMErGMG)
- - ⏩ [The security even checked the truck. Something is fishy](http://9gag.com/gag/agovv6g)
- - 👉 [Na na na an an an na an an na](http://9gag.com/gag/aVbWPjv)<!-- MEMES:END -->
+ - 💣 [Iranian state television was hacked, allowing an anti-regime video clip to be broadcast during the news.](http://9gag.com/gag/a1PeMjP)
+ - ⏩ [Ready, aim, fire](http://9gag.com/gag/aMErGRW)
+ - 👉 [Cat protecting the chicks from birds.](http://9gag.com/gag/anzKN75)<!-- MEMES:END -->
 
 ---
 
