@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An analysis of Pornhub&#39;s transparency reports shows the site removed 8,547 pieces of content in 2021, down 98% YoY, after adding an uploader verification tool &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/221009/p9#a221009p9)
- - [Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/)
- - [Best Laptop for 2022: The 15 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s record income makes it richer than most countries](https://appleinsider.com/articles/22/10/09/apples-record-income-makes-it-richer-than-most-countries?utm_medium=rss)
+ - [Lowest price ever: 1TB iPad Pro 11-inch on sale for $749 &lpar;$550 off&rpar;](https://appleinsider.com/articles/22/10/09/lowest-price-ever-1tb-ipad-pro-11-inch-on-sale-for-749-550-off?utm_medium=rss)
+ - [iPhone 14 lead times moderate, Pro model demand holds strong](https://appleinsider.com/articles/22/10/09/iphone-14-lead-times-moderate-pro-model-demand-holds-strong?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
