@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)
- - ⏩ [Tonight residential area was hit again in Zaporizhzhia. In my grandma\u2019s apartment all the windows got crashed. russians are f**king terrorists.](http://9gag.com/gag/a8qYyW3)
- - 👉 [See you in a couple of days](http://9gag.com/gag/a1PeeLw)<!-- MEMES:END -->
+ - 💣 [Equal rights mean...](http://9gag.com/gag/aXnpA5g)
+ - ⏩ [Can&#39;t wait for season 4](http://9gag.com/gag/awZK561)
+ - 👉 [Crab amputates its own claw](http://9gag.com/gag/anzKq80)<!-- MEMES:END -->
 
 ---
 
