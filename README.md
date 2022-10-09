@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get an Asian girl!](http://9gag.com/gag/aDY3oGx)
- - ⏩ [Crab amputates its own claw](http://9gag.com/gag/anzKq80)
- - 👉 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
+ - 💣 [Spooky time](http://9gag.com/gag/aA0rP02)
+ - ⏩ [Yes](http://9gag.com/gag/a4o9MGv)
+ - 👉 [View is enough](http://9gag.com/gag/aqeNLML)<!-- MEMES:END -->
 
 ---
 
