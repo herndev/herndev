@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good boi can\u2019t hold back his excitement.](http://9gag.com/gag/axoZDYY)
- - ⏩ [No title](http://9gag.com/gag/aNwZWbG)
- - 👉 [Crab amputates its own claw](http://9gag.com/gag/anzKq80)<!-- MEMES:END -->
+ - 💣 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)
+ - ⏩ [Future of education](http://9gag.com/gag/agovqAq)
+ - 👉 [9 Story apartment block was hit this morning in Zaporizhya, Ukraine. Stories 1-8 completely destroyed, already 17 dead and many more under the rubble. Russian terrorist state keeps hitting civilians!](http://9gag.com/gag/aGEw0Qw)<!-- MEMES:END -->
 
 ---
 
