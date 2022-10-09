@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Hysterical Overwatch 2 bug lets Bastion players paint the world with artillery](https://www.pcgamer.com/hysterical-overwatch-2-bug-lets-bastion-players-paint-the-world-with-artillery)
  - [Fallout, Homeworld, and more tabletop RPGs go digital native on Role](https://www.pcgamer.com/fallout-homeworld-and-more-tabletop-rpgs-go-digital-native-on-role)
- - [Role-playing New Tales From the Borderlands’ characters will be like ‘4D chess’](https://www.polygon.com/23389603/new-tales-from-the-borderlands-preview-characters-story)
- - [Chainsaw Man voice actor thought he was ‘too emotionally close’ to the bloody story](https://www.polygon.com/nycc/23395169/chainsaw-man-voice-actor-cast-nycc)<!-- GAME:END -->
+ - [Role-playing New Tales From the Borderlands’ characters will be like ‘4D chess’](https://www.polygon.com/23389603/new-tales-from-the-borderlands-preview-characters-story)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
