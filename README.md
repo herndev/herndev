@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t buy a gaming monitor unless you really, truly need one](https://www.androidauthority.com/lg-ultragear-27gn950-3211309/)
- - [Daily deals Oct. 9: $449 AirPods Max, $70 off iPad Air 5, $299 Canon EOS Rebel T100 DSLR, more](https://appleinsider.com/articles/22/10/09/daily-deals-oct-9-449-airpods-max-70-off-ipad-air-5-299-canon-eos-rebel-t100-dslr-more?utm_medium=rss)
- - [Best Soundbars for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [10 Great Next-Gen PS5 Games You Can Play Now: Shooters, RPGs, and More](https://www.wired.com/gallery/best-ps5-games/)
+ - [Tips and Tools to Help Students Study, Take Notes, and Focus](https://www.wired.com/story/tips-apps-help-students-study-notes-homework-help/)
+ - [The PC market needs another reinvention — is Microsoft’s Surface up for it again?](https://www.theverge.com/2022/10/9/23393290/microsoft-surface-launch-arm-windows-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
