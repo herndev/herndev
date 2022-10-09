@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some iPhone 14 users say the crash detection feature has triggered false alarms and called 911 during rollercoaster rides or after a phone drop while driving &lpar;Joanna Stern/Wall Street Journal&rpar;](http://www.techmeme.com/221009/p10#a221009p10)
- - [Twitter locks Kanye West out of his account following anti-Semitic post](https://www.theverge.com/2022/10/9/23395490/twitter-lock-kanye-west-out-account-following-anti-semitic-post)
- - [SanDisk Professional G-Drive review: Fast enterprise-grade external hard drive for your Mac](https://appleinsider.com/articles/22/10/09/sandisk-professional-g-drive-review-fast-enterprise-grade-external-hard-drive-for-your-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s getting rid of its standalone Driving Mode dashboard](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)
+ - [Fourth-gen iPhone SE could get a 6.1-inch screen with notch](https://appleinsider.com/articles/22/10/09/fourth-gen-iphone-se-could-get-a-61-inch-screen-with-notch?utm_medium=rss)
+ - [&#39;The Midnight Club&#39; on Netflix: Mike Flanagan Horror Echoes &#39;Midnight Mass&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-mike-flanagan-horror-echoes-midnight-mass/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
