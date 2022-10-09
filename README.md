@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Photographer Varun Aditya captured this impressive clip without a flash in the Zimanga Private Game reserve in South Africa, staying for three nights in a hide to patiently wait for the pride of lions](http://9gag.com/gag/aVbWDEK)
- - ⏩ [Future of education](http://9gag.com/gag/agovqAq)
- - 👉 [9 Story apartment block was hit this morning in Zaporizhya, Ukraine. Stories 1-8 completely destroyed, already 17 dead and many more under the rubble. Russian terrorist state keeps hitting civilians!](http://9gag.com/gag/aGEw0Qw)<!-- MEMES:END -->
+ - ⏩ [Tonight residential area was hit again in Zaporizhzhia. In my grandma\u2019s apartment all the windows got crashed. russians are f**king terrorists.](http://9gag.com/gag/a8qYyW3)
+ - 👉 [See you in a couple of days](http://9gag.com/gag/a1PeeLw)<!-- MEMES:END -->
 
 ---
 
