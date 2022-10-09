@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mike Flanagan’s best works are built on the hit-or-miss horror of his early experiments](https://www.polygon.com/23390120/mike-flanagan-best-tv-movie-midnight)
- - [Today&#39;s Wordle 477 answer and hint: Sunday, October 9](https://www.pcgamer.com/todays-wordle-477-answer-hint)
- - [A huge text adventure begun by anonymous creators 40 years ago was only completed this year](https://www.pcgamer.com/a-huge-text-adventure-begun-by-anonymous-creators-40-years-ago-was-only-completed-this-year)<!-- GAME:END -->
+ - [Role-playing New Tales From the Borderlands’ characters will be like ‘4D chess’](https://www.polygon.com/23389603/new-tales-from-the-borderlands-preview-characters-story)
+ - [Chainsaw Man voice actor thought he was ‘too emotionally close’ to the bloody story](https://www.polygon.com/nycc/23395169/chainsaw-man-voice-actor-cast-nycc)
+ - [Mike Flanagan’s best works are built on the hit-or-miss horror of his early experiments](https://www.polygon.com/23390120/mike-flanagan-best-tv-movie-midnight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
