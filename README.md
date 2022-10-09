@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re a wizard Harry](http://9gag.com/gag/aBd31qA)
- - ⏩ [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
- - 👉 [Yesterday YT decided demonetized all channels that talks about Russo-Ukrainian War](http://9gag.com/gag/ay208rX)<!-- MEMES:END -->
+ - 💣 [The new character design :&lpar;](http://9gag.com/gag/adPYjOM)
+ - ⏩ [Crab amputates its own claw](http://9gag.com/gag/anzKq80)
+ - 👉 [We live in a society](http://9gag.com/gag/adPYq0Z)<!-- MEMES:END -->
 
 ---
 
