@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/)
  - [Lufthansa AirTags ban based on incredibly bad regulation interpretation](https://appleinsider.com/articles/22/10/09/lufthansa-airtags-ban-based-on-incredibly-bad-regulation-interpretation?utm_medium=rss)
- - [Google and Fitbit are denying us the super-watch we all want](https://www.androidauthority.com/google-pixel-watch-fitbit-opinion-3215472/)
- - [The iPhone 14 keeps calling 911 on  rollercoasters](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)<!-- TECH:END -->
+ - [Rollercoaster repeatedly triggers iPhone 14 Crash Detection](https://appleinsider.com/articles/22/10/09/rollercoaster-repeatedly-triggers-iphone-14s-crash-detection?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
