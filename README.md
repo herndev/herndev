@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SNL Parodies The Try Guys&#39; Video Response to Ned Fulmer Drama     - CNET](https://www.cnet.com/culture/entertainment/snl-parodies-the-try-guys-video-response-to-ned-fulmer-drama/#ftag=CAD590a51e)
- - [Indonesia&#39;s patchwork data security approach has resulted in several large-scale data leaks; experts say the personal data protection bill is a temporary fix &lpar;Antonia Timmerman/Rest of World&rpar;](http://www.techmeme.com/221009/p5#a221009p5)
- - [GIF, once called &quot;the file format of the internet generation&quot;, is declining in use as young users say GIFs are &quot;cringe&quot; and MP4 videos make the format outdated &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221009/p4#a221009p4)<!-- TECH:END -->
+ - [Don’t buy a gaming monitor unless you really, truly need one](https://www.androidauthority.com/lg-ultragear-27gn950-3211309/)
+ - [Daily deals Oct. 9: $449 AirPods Max, $70 off iPad Air 5, $299 Canon EOS Rebel T100 DSLR, more](https://appleinsider.com/articles/22/10/09/daily-deals-oct-9-449-airpods-max-70-off-ipad-air-5-299-canon-eos-rebel-t100-dslr-more?utm_medium=rss)
+ - [Best Soundbars for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-soundbar/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
