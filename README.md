@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2022\u00b0\u2022](http://9gag.com/gag/agovGKK)
- - ⏩ [Yes](http://9gag.com/gag/a4o9MGv)
- - 👉 [You have all the energy and still?](http://9gag.com/gag/aVbWeQy)<!-- MEMES:END -->
+ - 💣 [How to get an Asian girl!](http://9gag.com/gag/aDY3oGx)
+ - ⏩ [Crab amputates its own claw](http://9gag.com/gag/anzKq80)
+ - 👉 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
 
 ---
 
