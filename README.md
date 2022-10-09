@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hey Google, a $350 timepiece deserves more than 3 years of software updates](https://www.androidauthority.com/pixel-7-watch-software-updates-3217589/)
- - [Apple could bring USB-C to AirPods and Mac accessories by 2024](https://www.theverge.com/2022/10/9/23395109/apple-usb-c-airpods-mac-accessories-2024-magic-mouse-keyboard-trackpad-eu-legislation)
- - [Shop Refurbs at Woot and Save on Already-Affordable Chromebooks     - CNET](https://www.cnet.com/deals/shop-refurbs-at-woot-and-save-on-already-affordable-chromebooks/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lufthansa AirTags ban based on incredibly bad regulation interpretation](https://appleinsider.com/articles/22/10/09/lufthansa-airtags-ban-based-on-incredibly-bad-regulation-interpretation?utm_medium=rss)
+ - [Google and Fitbit are denying us the super-watch we all want](https://www.androidauthority.com/google-pixel-watch-fitbit-opinion-3215472/)
+ - [The iPhone 14 keeps calling 911 on  rollercoasters](https://www.theverge.com/2022/10/9/23395222/iphone-14-calling-911-rollercoasters-apple-crash-detection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
