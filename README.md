@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 lead times moderate, Pro model demand holds strong](https://appleinsider.com/articles/22/10/09/iphone-14-lead-times-moderate-pro-model-demand-holds-strong?utm_medium=rss)
- - [A look at BookScan, a subscription service for book sales data, exclusive to publishing executives, and its open-access alternative Post45 Data Collective &lpar;Melanie Walsh/Public Books&rpar;](http://www.techmeme.com/221009/p7#a221009p7)
- - [Google Pixel Watch vs Fitbit Sense 2: Which should you buy?](https://www.androidauthority.com/pixel-watch-vs-fitbit-sense-2-3216416/)<!-- TECH:END -->
+ - [Hey Google, a $350 timepiece deserves more than 3 years of software updates](https://www.androidauthority.com/pixel-7-watch-software-updates-3217589/)
+ - [Apple could bring USB-C to AirPods and Mac accessories by 2024](https://www.theverge.com/2022/10/9/23395109/apple-usb-c-airpods-mac-accessories-2024-magic-mouse-keyboard-trackpad-eu-legislation)
+ - [Shop Refurbs at Woot and Save on Already-Affordable Chromebooks     - CNET](https://www.cnet.com/deals/shop-refurbs-at-woot-and-save-on-already-affordable-chromebooks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
