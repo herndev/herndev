@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC Universe Infinite launches Ultra tier so you can read new comics sooner](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)
- - [Blizzard will require Overwatch 2 and Modern Warfare 2 players to use SMS Protect, a 2FA system, to combat toxicity, but won&#39;t accept prepaid and VOIP numbers &lpar;Andy Chalk/PC Gamer&rpar;](http://www.techmeme.com/221008/p12#a221008p12)
- - [Star Trek: Picard&#39;s latest teaser reveals some unexpected comebacks](https://www.theverge.com/2022/10/8/23394274/star-trek-latest-picard-teaser-surprises-james-moriarty-lore)<!-- TECH:END -->
+ - [Marvel&#39;s &#39;Moon Girl and Devil Dinosaur&#39; Gets Second Season, Title Sequence Reveal     - CNET](https://www.cnet.com/culture/entertainment/marvels-moon-girl-and-devil-dinosaur-gets-second-season-title-sequence-reveal/#ftag=CAD590a51e)
+ - [Padres vs. Mets Livestream: How to Watch Game 2 of the Wild Card Series Online     - CNET](https://www.cnet.com/tech/services-and-software/padres-vs-mets-livestream-how-to-watch-game-2-of-the-wild-card-series-online/#ftag=CAD590a51e)
+ - [DC Universe Infinite launches Ultra tier so you can read new comics sooner](https://www.theverge.com/2022/10/8/23394406/dc-universe-infinite-ultra-tier-read-comics-sooner-subscription)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
