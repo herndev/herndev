@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indonesia&#39;s patchwork data security approach has resulted in several large-scale data leaks; experts say the personal data protection bill is a temporary fix &lpar;Antonia Timmerman/Rest of World&rpar;](http://www.techmeme.com/221009/p5#a221009p5)
  - [GIF, once called &quot;the file format of the internet generation&quot;, is declining in use as young users say GIFs are &quot;cringe&quot; and MP4 videos make the format outdated &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221009/p4#a221009p4)
- - [GiveDirectly and Google.org are using AI mapping and satellite imagery to find low-income hurricane survivors in Puerto Rico and Florida and send cash payments &lpar;Adele Peters/Fast Company&rpar;](http://www.techmeme.com/221009/p3#a221009p3)
- - [A profile of Akili, which makes a US FDA-cleared game designed to treat ADHD in children; Akili raised $160M+ after going public via a SPAC deal in August 2022 &lpar;Rebecca Heilweil/Vox&rpar;](http://www.techmeme.com/221009/p2#a221009p2)<!-- TECH:END -->
+ - [GiveDirectly and Google.org are using AI mapping and satellite imagery to find low-income hurricane survivors in Puerto Rico and Florida and send cash payments &lpar;Adele Peters/Fast Company&rpar;](http://www.techmeme.com/221009/p3#a221009p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
