@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press [Crow] to crow](http://9gag.com/gag/a9qLWXW)
- - ⏩ [Yes, biocomputers](http://9gag.com/gag/arm4bDB)
- - 👉 [That&#39;s Inspiring](http://9gag.com/gag/amA0Ydj)<!-- MEMES:END -->
+ - 💣 [Juggernaut](http://9gag.com/gag/aNwZAVG)
+ - ⏩ [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)
+ - 👉 [Damn right](http://9gag.com/gag/aBd38EP)<!-- MEMES:END -->
 
 ---
 
