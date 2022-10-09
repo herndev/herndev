@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Juggernaut](http://9gag.com/gag/aNwZAVG)
- - ⏩ [Quiet quitting&gt;giving 101%](http://9gag.com/gag/amA02P6)
- - 👉 [This man 1-0 Modern medicine](http://9gag.com/gag/aGEweD0)<!-- MEMES:END -->
+ - 💣 [Mobilized Russians soldiers ready to depart to the front date 7-10](http://9gag.com/gag/agovYGr)
+ - ⏩ [Putin made cleansing in his army high command. Including promoting Ramzan Kadyrov for Colonel General rank. A third highest command in Russian army. Just for the context of their quality and standards...](http://9gag.com/gag/aVbW3qn)
+ - 👉 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)<!-- MEMES:END -->
 
 ---
 
