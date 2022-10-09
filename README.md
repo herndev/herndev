@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An analysis of Pornhub&#39;s transparency reports shows the site removed 8,547 pieces of content in 2021, down 98% YoY, after adding an uploader verification tool &lpar;Ernesto Van der Sar/TorrentFreak&rpar;](http://www.techmeme.com/221009/p9#a221009p9)
  - [Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra: Which should you buy?](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-3216793/)
- - [Lufthansa AirTags ban based on incredibly bad regulation interpretation](https://appleinsider.com/articles/22/10/09/lufthansa-airtags-ban-based-on-incredibly-bad-regulation-interpretation?utm_medium=rss)
- - [Rollercoaster repeatedly triggers iPhone 14 Crash Detection](https://appleinsider.com/articles/22/10/09/rollercoaster-repeatedly-triggers-iphone-14s-crash-detection?utm_medium=rss)<!-- TECH:END -->
+ - [Best Laptop for 2022: The 15 Laptops We Recommend     - CNET](https://www.cnet.com/tech/computing/best-laptop/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
