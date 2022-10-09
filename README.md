@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When Motorsport turns geh](http://9gag.com/gag/aeQ0egO)
- - ⏩ [The RU-Belarus war treaty says that an attack on RU automatically means that Belarus will be involved in the war. Putin is putting maximum pressure on Lukashenko. There are rumours that if Lukashenko allows it, his own army will overthrow him. Dilemma.](http://9gag.com/gag/aZDxg8n)
- - 👉 [Sorry....](http://9gag.com/gag/aqeN1GM)<!-- MEMES:END -->
+ - 💣 [Took me a minute](http://9gag.com/gag/axoZVOn)
+ - ⏩ [Well that escalated quickly](http://9gag.com/gag/aBd3xxQ)
+ - 👉 [No rent no service](http://9gag.com/gag/avQgOzX)<!-- MEMES:END -->
 
 ---
 
