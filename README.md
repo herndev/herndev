@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spooky time](http://9gag.com/gag/aA0rP02)
- - ⏩ [Yes](http://9gag.com/gag/a4o9MGv)
- - 👉 [View is enough](http://9gag.com/gag/aqeNLML)<!-- MEMES:END -->
+ - 💣 [You&#39;re a wizard Harry](http://9gag.com/gag/aBd31qA)
+ - ⏩ [Black Sea fleet is actually trapped](http://9gag.com/gag/a7qybje)
+ - 👉 [Yesterday YT decided demonetized all channels that talks about Russo-Ukrainian War](http://9gag.com/gag/ay208rX)<!-- MEMES:END -->
 
 ---
 
