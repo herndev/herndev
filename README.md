@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How technology is helping the BBC&#39;s archive team digitize, catalog, and publish 23PB+ of content, which includes random clips that go viral on social media &lpar;Simon Usborne/The Guardian&rpar;](http://www.techmeme.com/221010/p1#a221010p1)
- - [Kevin Can F**k Himself Season 2 Finale Recap: A Welcome End     - CNET](https://www.cnet.com/culture/entertainment/kevin-can-fk-himself-season-2-finale-recap-a-welcome-end/#ftag=CAD590a51e)
- - [Jaxson Compact Standing Desk Review: A great desk for home and office](https://appleinsider.com/articles/22/10/09/jaxson-compact-standing-desk-review-a-great-desk-for-home-and-office?utm_medium=rss)<!-- TECH:END -->
+ - [Don’t expect a huge battery increase for base Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/)
+ - [iPhone 14 owners riding roller coasters are triggering false car crash reports](https://www.androidauthority.com/iphone-14-crash-detection-roller-coaster-3218108/)
+ - [A look at the efforts to make technology and streaming companies pay telecom operators for the investment that the operators are making in their networks &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221010/p2#a221010p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
