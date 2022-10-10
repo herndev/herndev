@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
- - ⏩ [More air defence coming after strike on embassy.](http://9gag.com/gag/a8qY1XZ)
- - 👉 [Does sheepies have some springs in legs or wtf?](http://9gag.com/gag/ap90QbW)<!-- MEMES:END -->
+ - 💣 [We finally got footage showing a DPRK officer arresting a citizen for laughing](http://9gag.com/gag/aVbWYZ8)
+ - ⏩ [Which one are you?](http://9gag.com/gag/amA0BP4)
+ - 👉 [I built this with old pallets. Quite proud.](http://9gag.com/gag/aA0rxn9)<!-- MEMES:END -->
 
 ---
 
