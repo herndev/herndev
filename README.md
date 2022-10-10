@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google flaunts the potential of Pixel 7 Pro’s zoom, night, and macro shots](https://www.androidauthority.com/pixel-7-pro-camera-shots-3218354/)
- - [How to turn off Crash Detection on iPhone 14 and Apple Watch](https://appleinsider.com/inside/iphone-14/tips/how-to-turn-off-crash-detection-on-iphone-14-and-apple-watch?utm_medium=rss)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)<!-- TECH:END -->
+ - [Prime Early Access phone deals: Get the Google Pixel 6a for just $349](https://www.androidauthority.com/best-phone-deals-2-1111885/)
+ - [&#39;Ted Lasso&#39; fake dating app Bantr brought to life - sort of](https://appleinsider.com/articles/22/10/10/ted-lasso-fake-dating-app-bantr-brought-to-life---sort-of?utm_medium=rss)
+ - [Endor Labs, which helps businesses select, secure, monitor, and maintain open-source dependencies at scale, emerges from stealth with $25M in seed financing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p20#a221010p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
