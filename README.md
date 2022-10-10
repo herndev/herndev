@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
- - ⏩ [Where&#39;s the logic](http://9gag.com/gag/a4odQDZ)
- - 👉 [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)<!-- MEMES:END -->
+ - 💣 [Gary, the metrosexual Fistfighter](http://9gag.com/gag/a4odQpQ)
+ - ⏩ [Presidential Merch](http://9gag.com/gag/abvyrpL)
+ - 👉 [Nails](http://9gag.com/gag/aVbW02K)<!-- MEMES:END -->
 
 ---
 
