@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard has quietly fixed the Overwatch 2 &#39;auto-purchase&#39; glitch but refunds are yet to come](https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come)
- - [Forget Stadia, it&#39;s time for the Google Stadium](https://www.pcgamer.com/forget-stadia-its-time-for-the-google-stadium)
- - [Doom running through the Notepad app looks surprisingly playable](https://www.pcgamer.com/doom-notepad)<!-- GAME:END -->
+ - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)
+ - [How to change crosshair settings in Overwatch 2](https://www.pcgamer.com/overwatch-2-how-to-change-crosshair)
+ - [GTA Online Halloween event: Judgement Day mode and rewards](https://www.pcgamer.com/gta-online-halloween-event-judgement-day)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
