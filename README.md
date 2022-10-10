@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 478 answer and hint: Monday, October 10](https://www.pcgamer.com/todays-wordle-478-answer-hint)
- - [Loretta is a point-and-click noir that lets you get away with murder](https://www.pcgamer.com/loretta-is-a-point-and-click-noir-that-lets-you-get-away-with-murder)
- - [Record monsters on cassette to transform into them in Cassette Beasts](https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts)<!-- GAME:END -->
+ - [This $265 AMD Radeon RX 6650 XT is the sort of graphics card deal we&#39;re after](https://www.pcgamer.com/score-an-amd-radeon-rx-6650-xt-gpu-for-less-than-the-price-of-an-rtx-3050)
+ - [AMD stock plunges as it admits that PC demand just isn&#39;t as high as it once was](https://www.pcgamer.com/amd-stock-plunges-as-it-admits-that-pc-demand-just-isnt-as-high-as-it-once-was)
+ - [Today&#39;s Wordle 478 answer and hint: Monday, October 10](https://www.pcgamer.com/todays-wordle-478-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
