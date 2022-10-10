@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waiting in line for those inflation releaf checks](http://9gag.com/gag/aoK01Yw)
- - ⏩ [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)
- - 👉 [Nom nom nom](http://9gag.com/gag/aL1PgQV)<!-- MEMES:END -->
+ - 💣 [Ewe shall not pass!](http://9gag.com/gag/aDY31b9)
+ - ⏩ [The chances a cat killing you is low... But never zero](http://9gag.com/gag/aeQ0rVv)
+ - 👉 [24.02.2022 vs 09.10.2022 What&#39;s with the face, Huilo?](http://9gag.com/gag/aBd30EA)<!-- MEMES:END -->
 
 ---
 
