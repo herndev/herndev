@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 478 answer and hint: Monday, October 10](https://www.pcgamer.com/todays-wordle-478-answer-hint)
  - [Loretta is a point-and-click noir that lets you get away with murder](https://www.pcgamer.com/loretta-is-a-point-and-click-noir-that-lets-you-get-away-with-murder)
- - [Record monsters on cassette to transform into them in Cassette Beasts](https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts)
- - [A streamer broke her back in two places after jumping in a foam pit at TwitchCon](https://www.pcgamer.com/a-streamer-broke-her-back-in-two-places-after-jumping-in-a-foam-pit-at-twitchcon)<!-- GAME:END -->
+ - [Record monsters on cassette to transform into them in Cassette Beasts](https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
