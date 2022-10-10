@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google Tensor G2 chip: Everything you need to know](https://www.androidauthority.com/google-tensor-g2-explained-3216087/)
  - [These Pixel 7 features are coming to older Pixels soon](https://www.androidauthority.com/pixel-7-features-older-pixels-phones-3218129/)
- - [A look at the history of online content moderation, which has become a top culture war issue since the 2016 election and is the subject of multiple court cases &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/221010/p3#a221010p3)
- - [Don’t expect a huge battery increase for base Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/)<!-- TECH:END -->
+ - [A look at the history of online content moderation, which has become a top culture war issue since the 2016 election and is the subject of multiple court cases &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/221010/p3#a221010p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
