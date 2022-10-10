@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there an incognito mode for this ?](http://9gag.com/gag/aWGWOv6)
- - ⏩ [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)
- - 👉 [Where&#39;s the logic](http://9gag.com/gag/a4odQDZ)<!-- MEMES:END -->
+ - 💣 [God dammit](http://9gag.com/gag/aBd3YLD)
+ - ⏩ [Members of Ukrainian &#39;Kraken&#39; unit were among the first to enter liberated Kupyansk](http://9gag.com/gag/a4odQ0w)
+ - 👉 [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)<!-- MEMES:END -->
 
 ---
 
