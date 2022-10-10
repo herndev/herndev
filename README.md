@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ewe shall not pass!](http://9gag.com/gag/aDY31b9)
- - ⏩ [The chances a cat killing you is low... But never zero](http://9gag.com/gag/aeQ0rVv)
- - 👉 [24.02.2022 vs 09.10.2022 What&#39;s with the face, Huilo?](http://9gag.com/gag/aBd30EA)<!-- MEMES:END -->
+ - 💣 [Is there an incognito mode for this ?](http://9gag.com/gag/aWGWOv6)
+ - ⏩ [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)
+ - 👉 [Where&#39;s the logic](http://9gag.com/gag/a4odQDZ)<!-- MEMES:END -->
 
 ---
 
