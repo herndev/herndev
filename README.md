@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Streamer Breaks Back In Two Places After TwitchCon Foam Pit Accident](https://kotaku.com/adriana-chechik-twitchcon-twitch-injury-break-back-hurt-1849636414)
- - [Great moments in PC gaming: Setting off my first big D.Va bomb in Overwatch](https://www.pcgamer.com/great-moments-in-pc-gaming-setting-off-my-first-big-dva-bomb-in-overwatch)
- - [Hysterical Overwatch 2 bug lets Bastion players paint the world with artillery](https://www.pcgamer.com/hysterical-overwatch-2-bug-lets-bastion-players-paint-the-world-with-artillery)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 10, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)
+ - [Rebuild society after a climate apocalypse in city builder Floodland](https://www.pcgamer.com/rebuild-society-after-a-climate-apocalypse-in-city-builder-floodland)
+ - [Zombie survival classic Unturned hits new highs for no reason other than that it&#39;s free and fun](https://www.pcgamer.com/zombie-survival-classic-unturned-hits-new-highs-for-no-reason-other-than-that-its-free-and-fun)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
