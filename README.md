@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d like to speak with a manager!!](http://9gag.com/gag/aDY3GN7)
- - ⏩ [Scientists have revived a plant from the Pleistocene epoch. This plant is 32,000 years old.](http://9gag.com/gag/aqeNgnj)
- - 👉 [This is how residents who voted to join russia greet ukranian soldiers as they liberate kupyansk and kivsharivka.](http://9gag.com/gag/aA0rg9Z)<!-- MEMES:END -->
+ - 💣 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
+ - ⏩ [Nails](http://9gag.com/gag/aVbW02K)
+ - 👉 [We all know who&#39;s the goat](http://9gag.com/gag/aGEwg8X)<!-- MEMES:END -->
 
 ---
 
