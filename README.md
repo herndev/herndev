@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA canceled a singleplayer Plants vs. Zombies spin-off to back a Star Wars game, which it also canceled](https://www.pcgamer.com/ea-canceled-a-singleplayer-plants-vs-zombies-spin-off-to-back-a-star-wars-game-which-it-also-canceled)
- - [Master Chief Dancing, &#39;Gettin Ass&#39; With Megan Thee Stallion Is A Thing That Happened This Weekend](https://kotaku.com/megan-thee-stallion-master-chief-halo-dance-twerk-1849636594)
- - [Five new Steam games you probably missed &lpar;October 10, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)<!-- GAME:END -->
+ - [House of the Dragon’s hilarious decapitation punctuated one of the show’s most intense scenes](https://www.polygon.com/23389799/house-dragon-death-decapitation-scene-daemon)
+ - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)
+ - [Sorting through House of the Dragon’s many new kid characters](https://www.polygon.com/23368925/house-dragon-kids-who-rhaenyra-alicent-daemon-jace-joffrey-aegon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
