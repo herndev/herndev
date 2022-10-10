@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)
- - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-netflix/#ftag=CAD590a51e)
- - [The Absolute Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jaxson Compact Standing Desk Review: A great desk for home and office](https://appleinsider.com/articles/22/10/09/jaxson-compact-standing-desk-review-a-great-desk-for-home-and-office?utm_medium=rss)
+ - [Intel confirms their proprietary UEFI code appears to have been leaked by a third party; the Alder Lake BIOS source code was leaked to 4chan and GitHub &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221009/p12#a221009p12)
+ - [Prime Early Access Sale: All the best early deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
