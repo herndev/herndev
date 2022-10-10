@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Game Controllers &lpar;2022&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)
- - [25 Best Cat Toys and Supplies &lpar;2022&rpar;: Scratchers, Window Perches, Modern Furniture, Etc](https://www.wired.com/gallery/best-cat-toys-and-supplies/)
- - [Cities Need More Native Bees—Lots and Lots of Them](https://www.wired.com/story/cities-need-more-native-bees-lots-and-lots-of-adorable-bees/)<!-- TECH:END -->
+ - [How virtual influencers are gaining popularity in China amid a celebrity crackdown; research predicts the industry will go from ~$870M in 2021 to ~$6.7B in 2025 &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/221010/p12#a221010p12)
+ - [How to remap caps lock, control, option &amp; command keys in macOS](https://appleinsider.com/inside/macos/tips/how-to-remap-caps-lock-control-option-command-keys-in-macos?utm_medium=rss)
+ - [The 7 Best Touchscreen Gloves &lpar;2022&rpar;: Heated, Waterproof, Knitted](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
