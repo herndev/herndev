@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [God dammit](http://9gag.com/gag/aBd3YLD)
- - ⏩ [Members of Ukrainian &#39;Kraken&#39; unit were among the first to enter liberated Kupyansk](http://9gag.com/gag/a4odQ0w)
- - 👉 [You literally broke a MILLISECOND before Miriam!](http://9gag.com/gag/aMErYGV)<!-- MEMES:END -->
+ - 💣 [Everyone&#39;s stepmother](http://9gag.com/gag/a7qyDjz)
+ - ⏩ [Where&#39;s the logic](http://9gag.com/gag/a4odQDZ)
+ - 👉 [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)<!-- MEMES:END -->
 
 ---
 
