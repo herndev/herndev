@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Revenge of the carts](http://9gag.com/gag/aL1P9gv)
+ - 💣 [Classic](http://9gag.com/gag/aVbWxzw)
  - ⏩ [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
- - 👉 [Nice tips](http://9gag.com/gag/anzK430)<!-- MEMES:END -->
+ - 👉 [The ideal gadget](http://9gag.com/gag/aZDxrMp)<!-- MEMES:END -->
 
 ---
 
