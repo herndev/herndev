@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here&#39;s When the Finale of &#39;The Rings of Power&#39; Lands in Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-tonight/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Fantasy TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-best-fantasy-tv-shows-on-prime-video/#ftag=CAD590a51e)
+ - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-movies-netflix/#ftag=CAD590a51e)
+ - [The Absolute Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
