@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung building damaged by Russian missile strike in Ukraine](https://appleinsider.com/articles/22/10/10/samsung-building-damaged-by-russian-missile-strike-in-ukraine?utm_medium=rss)
- - [The Pixel 7 Pro’s 5x zoom betrays Google’s portrait photography](https://www.androidauthority.com/pixel-7-pro-long-range-zoom-3215752/)
- - [SteelSeries’ multi-platform Nova Pro Wireless headset is $100 off for the first time](https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale)<!-- TECH:END -->
+ - [Wild Hearts’ monsters will make you feel threatened — even the cute ones](https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview)
+ - [Source: Instagram removed 705 posts without moderator oversight flagged by Amit Malviya, who runs Indian nationalist party BJP&#39;s IT Cell, as part of XCheck &lpar;Jahnavi Sen/The Wire&rpar;](http://www.techmeme.com/221010/p14#a221010p14)
+ - [Apple MacBook Air M2 &lpar;2022&rpar; review: all-new Air](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
