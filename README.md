@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hellraiser’s new puzzle box designer unlocks its many secrets](https://www.polygon.com/23392609/hellraiser-puzzle-box-lament-configuration-designer-interview)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)<!-- GAME:END -->
+ - [Pro Poker Cheating Scandal Takes Weird Twist After Crew Member Caught Stealing Chips](https://kotaku.com/poker-cheating-scandal-robbi-jade-lew-garrett-adelstein-1849637762)
+ - [Streamer breaks back in TwitchCon foam pit](https://www.polygon.com/23396598/twitchcon-foam-pit-broken-back-injuries)
+ - [Intel confirms that Alder Lake BIOS code has been leaked but expects no new security flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
