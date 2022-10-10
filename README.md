@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No rent no service](http://9gag.com/gag/avQgOzX)
- - ⏩ [There is always time for coffee](http://9gag.com/gag/aDY31zG)
- - 👉 [We finally got footage showing a DPRK officer arresting a citizen for laughing](http://9gag.com/gag/aVbWYZ8)<!-- MEMES:END -->
+ - 💣 [Waiting in line for those inflation releaf checks](http://9gag.com/gag/aoK01Yw)
+ - ⏩ [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)
+ - 👉 [Nom nom nom](http://9gag.com/gag/aL1PgQV)<!-- MEMES:END -->
 
 ---
 
