@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I didn&#39;t expect PAX Aus 2022 to go so hard for extreme gaming PC builds](https://www.pcgamer.com/pax-aus-2022-showfloor-pc-builds)
- - [This $265 AMD Radeon RX 6650 XT is the sort of graphics card deal we&#39;re after](https://www.pcgamer.com/score-an-amd-radeon-rx-6650-xt-gpu-for-less-than-the-price-of-an-rtx-3050)
- - [AMD stock plunges as it admits that PC demand just isn&#39;t as high as it once was](https://www.pcgamer.com/amd-stock-plunges-as-it-admits-that-pc-demand-just-isnt-as-high-as-it-once-was)<!-- GAME:END -->
+ - [Blizzard has quietly fixed the Overwatch 2 &#39;auto-purchase&#39; glitch but refunds are yet to come](https://www.pcgamer.com/blizzard-has-quietly-fixed-the-overwatch-2-auto-purchase-glitch-but-refunds-are-yet-to-come)
+ - [Forget Stadia, it&#39;s time for the Google Stadium](https://www.pcgamer.com/forget-stadia-its-time-for-the-google-stadium)
+ - [Doom running through the Notepad app looks surprisingly playable](https://www.pcgamer.com/doom-notepad)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
