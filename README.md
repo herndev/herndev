@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google plans to shutter its Assistant Driving Mode Dashboard, announced in 2019, on November 21; Maps for Android&#39;s car-optimized UI will remain &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221010/p6#a221010p6)
- - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)
- - [Daily Authority: 🔨 Right to repair](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)<!-- TECH:END -->
+ - [These Remote Tech Workers Secretly Juggle Multiple Jobs](https://www.wired.com/story/remote-tech-workers-secret-multiple-jobs/)
+ - [How ‘The Mandalorian’ Inspired One of the Year’s Best Rap Videos](https://www.wired.com/story/denzel-curry-x-wing-star-wars/)
+ - [How to Protect Yourself If Your School Uses Surveillance Tech](https://www.wired.com/story/how-to-protect-yourself-school-surveillance-tech-privacy/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
