@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gary, the metrosexual Fistfighter](http://9gag.com/gag/a4odQpQ)
- - ⏩ [Presidential Merch](http://9gag.com/gag/abvyrpL)
- - 👉 [Nails](http://9gag.com/gag/aVbW02K)<!-- MEMES:END -->
+ - 💣 [I&#39;d like to speak with a manager!!](http://9gag.com/gag/aDY3GN7)
+ - ⏩ [Scientists have revived a plant from the Pleistocene epoch. This plant is 32,000 years old.](http://9gag.com/gag/aqeNgnj)
+ - 👉 [This is how residents who voted to join russia greet ukranian soldiers as they liberate kupyansk and kivsharivka.](http://9gag.com/gag/aA0rg9Z)<!-- MEMES:END -->
 
 ---
 
