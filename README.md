@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best scene ever](http://9gag.com/gag/aVbWwr8)
- - ⏩ [A good guide to judge when you want to eat your banana \ud83c\udf4c](http://9gag.com/gag/aEq119K)
- - 👉 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
+ - 💣 [Let&#39;s admire for a moment the cowardice of a regime.](http://9gag.com/gag/aBd32gO)
+ - ⏩ [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)
+ - 👉 [China&#39;s patience with Russia is running out. China&#39;s Foreign Ministry called for calming the situation on Monday after Russia showered Ukraine&#39;s city centres and energy infrastructure with dozens of missiles](http://9gag.com/gag/aREP7qG)<!-- MEMES:END -->
 
 ---
 
