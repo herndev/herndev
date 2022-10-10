@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Early Access Sale: All the best early deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
- - [Fortinet confirms a critical remote authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager is being exploited; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
- - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)<!-- TECH:END -->
+ - [17 Best Early Amazon Prime Day Deals &lpar;2022&rpar;: Echo Devices, Phones, and TVs](https://www.wired.com/story/best-early-amazon-prime-day-deals-access-sale-2022-2/)
+ - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
+ - [15 Great Deals From Walmart&#39;s Rival Prime Day Sale &lpar;2022&rpar;](https://www.wired.com/story/walmart-deals-prime-day-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
