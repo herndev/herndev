@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one are you?](http://9gag.com/gag/amA0BP4)
- - ⏩ [Gf: you can&#39;t possibly think you gonna post a trash bin and expect them to understand this reference. Me: I know those guys](http://9gag.com/gag/aNwZ034)
- - 👉 [One of the most cruel pranks i ever saw. A Mexican kid pranked his mother, i guess he&#39;s grounded till his late 40&#39;s](http://9gag.com/gag/aMEr4dM)<!-- MEMES:END -->
+ - 💣 [We finally got footage showing a DPRK officer arresting a citizen for laughing](http://9gag.com/gag/aVbWYZ8)
+ - ⏩ [Brace yourself, winter is coming](http://9gag.com/gag/aqeNKnL)
+ - 👉 [Gf: you can&#39;t possibly think you gonna post a trash bin and expect them to understand this reference. Me: I know those guys](http://9gag.com/gag/aNwZ034)<!-- MEMES:END -->
 
 ---
 
