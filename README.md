@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - ⏩ [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
- - 👉 [Classic](http://9gag.com/gag/aVbWxzw)<!-- MEMES:END -->
+ - 💣 [Marty &amp; Doc Brown Reunited at NYCC. Sad to see Legendary MJF in this condition](http://9gag.com/gag/amA0gAo)
+ - ⏩ [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - 👉 [You never mess with big business](http://9gag.com/gag/aqeNjDY)<!-- MEMES:END -->
 
 ---
 
