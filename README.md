@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Darktide class spotlight looks down the sights of the Veteran Sharpshooter](https://www.pcgamer.com/darktide-class-spotlight-looks-down-the-sights-of-the-veteran-sharpshooter)
  - [Persona 3 and 4 finally hit all modern platforms in January](https://www.polygon.com/23396858/persona-3-4-switch-xbox-pc-ps5-release-date)
- - [Square Enix Montreal is now called Studio Onoma](https://www.pcgamer.com/square-enix-montreal-is-now-called-studio-onoma)
- - [Right Now Is A Great Time To Jump Into No Man&#39;s Sky](https://kotaku.com/no-mans-sky-4-0-patch-notes-relaxed-mode-twitch-drops-1849639850)<!-- GAME:END -->
+ - [Square Enix Montreal is now called Studio Onoma](https://www.pcgamer.com/square-enix-montreal-is-now-called-studio-onoma)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
