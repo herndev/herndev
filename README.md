@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)
- - [How to change crosshair settings in Overwatch 2](https://www.pcgamer.com/overwatch-2-how-to-change-crosshair)
- - [GTA Online Halloween event: Judgement Day mode and rewards](https://www.pcgamer.com/gta-online-halloween-event-judgement-day)<!-- GAME:END -->
+ - [Hellraiser’s new puzzle box designer unlocks its many secrets](https://www.polygon.com/23392609/hellraiser-puzzle-box-lament-configuration-designer-interview)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Overwatch 2 Halloween event: Start date, characters, and skins](https://www.pcgamer.com/overwatch-2-halloween-event-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
