@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s getting rid of its standalone Driving Mode dashboard](https://www.theverge.com/2022/10/9/23395917/google-getting-standalone-driving-mode-dashboard-maps-android-auto)
- - [Fourth-gen iPhone SE could get a 6.1-inch screen with notch](https://appleinsider.com/articles/22/10/09/fourth-gen-iphone-se-could-get-a-61-inch-screen-with-notch?utm_medium=rss)
- - [&#39;The Midnight Club&#39; on Netflix: Mike Flanagan Horror Echoes &#39;Midnight Mass&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-on-netflix-mike-flanagan-horror-echoes-midnight-mass/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here&#39;s When the Finale of &#39;The Rings of Power&#39; Lands in Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-lands-in-your-timezone/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-tonight/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-watch-this-week/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
