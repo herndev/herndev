@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five new Steam games you probably missed &lpar;October 10, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)
- - [Rebuild society after a climate apocalypse in city builder Floodland](https://www.pcgamer.com/rebuild-society-after-a-climate-apocalypse-in-city-builder-floodland)
- - [Zombie survival classic Unturned hits new highs for no reason other than that it&#39;s free and fun](https://www.pcgamer.com/zombie-survival-classic-unturned-hits-new-highs-for-no-reason-other-than-that-its-free-and-fun)<!-- GAME:END -->
+ - [EA canceled a singleplayer Plants vs. Zombies spin-off to back a Star Wars game, which it also canceled](https://www.pcgamer.com/ea-canceled-a-singleplayer-plants-vs-zombies-spin-off-to-back-a-star-wars-game-which-it-also-canceled)
+ - [Master Chief Dancing, &#39;Gettin Ass&#39; With Megan Thee Stallion Is A Thing That Happened This Weekend](https://kotaku.com/megan-thee-stallion-master-chief-halo-dance-twerk-1849636594)
+ - [Five new Steam games you probably missed &lpar;October 10, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-10-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
