@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Going All In](http://9gag.com/gag/a3Z3wAe)
- - ⏩ [True face of feminism](http://9gag.com/gag/anzK5pB)
- - 👉 [Missile strikes in the very center of Kiev near the monument of Mykhailo Hrushevsky, Looks like the new supreme commander of the SMO started the working week with a bang. The missiles hit Volodymyrska Street, where the SBU office is located, Zelensky&#39;s office is located nearby.](http://9gag.com/gag/aNwZg0b)<!-- MEMES:END -->
+ - 💣 [Kyiv metro during missile strikes](http://9gag.com/gag/ajV093Q)
+ - ⏩ [Phone booth](http://9gag.com/gag/a9qLpe0)
+ - 👉 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)<!-- MEMES:END -->
 
 ---
 
