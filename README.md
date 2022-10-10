@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Yeah, I&#39;m not American, you know?` lol](http://9gag.com/gag/aREPmw5)
- - ⏩ [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
- - 👉 [Yet another day of ruzzian terror, Kyiv\u2019s downtown this morning.](http://9gag.com/gag/a2KYWoO)<!-- MEMES:END -->
+ - 💣 [Going All In](http://9gag.com/gag/a3Z3wAe)
+ - ⏩ [True face of feminism](http://9gag.com/gag/anzK5pB)
+ - 👉 [Missile strikes in the very center of Kiev near the monument of Mykhailo Hrushevsky, Looks like the new supreme commander of the SMO started the working week with a bang. The missiles hit Volodymyrska Street, where the SBU office is located, Zelensky&#39;s office is located nearby.](http://9gag.com/gag/aNwZg0b)<!-- MEMES:END -->
 
 ---
 
