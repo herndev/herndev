@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortinet confirms the remote exploitation of a critical authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
- - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)
- - [China asked Elon Musk not to sell Starlink within the country](https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship)<!-- TECH:END -->
+ - [Prime Early Access Sale: All the best early deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
+ - [Fortinet confirms a critical remote authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager is being exploited; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
+ - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
