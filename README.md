@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s admire for a moment the cowardice of a regime.](http://9gag.com/gag/aBd32gO)
- - ⏩ [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)
- - 👉 [China&#39;s patience with Russia is running out. China&#39;s Foreign Ministry called for calming the situation on Monday after Russia showered Ukraine&#39;s city centres and energy infrastructure with dozens of missiles](http://9gag.com/gag/aREP7qG)<!-- MEMES:END -->
+ - 💣 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - ⏩ [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
+ - 👉 [Legendary cough](http://9gag.com/gag/aWGWxD6)<!-- MEMES:END -->
 
 ---
 
