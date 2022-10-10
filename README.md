@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pro Poker Cheating Scandal Takes Weird Twist After Crew Member Caught Stealing Chips](https://kotaku.com/poker-cheating-scandal-robbi-jade-lew-garrett-adelstein-1849637762)
- - [Streamer breaks back in TwitchCon foam pit](https://www.polygon.com/23396598/twitchcon-foam-pit-broken-back-injuries)
- - [Intel confirms that Alder Lake BIOS code has been leaked but expects no new security flaws](https://www.pcgamer.com/intel-confirms-that-alder-lake-bios-code-has-been-leaked-but-expects-no-new-security-flaws)<!-- GAME:END -->
+ - [Bleach finally looks as cool as it should in Thousand-Year Blood War](https://www.polygon.com/23392941/bleach-thousand-year-blood-war-hulu-streaming)
+ - [Best UK Amazon Prime Early Access PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
+ - [Voicing Mario in a movie is an impossible task](https://www.polygon.com/23396736/mario-movie-chris-pratt-character-reinvention)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
