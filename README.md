@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All YouTube users will soon have an account handle — but some will get to pick theirs earlier](https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok)
- - [Google Assistant is now in Contacts: Here’s why that’s a big deal](https://www.androidauthority.com/google-assistant-contacts-2-3218287/)
- - [Days after Celsius shared all of its users&#39; names and transaction histories in a bankruptcy filing, a website launches that lists who likely lost the most money &lpar;Zi Wang/Decrypt&rpar;](http://www.techmeme.com/221010/p15#a221010p15)<!-- TECH:END -->
+ - [Sensor Tower: BeReal has passed 53M installs, its MAUs are up 2,254% since January, and ~9% of its active installs on Android opened the app every day in Q3 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221010/p18#a221010p18)
+ - [Daily deals Oct. 9: $449 AirPods Max, $70 off iPad Air 5, $299 Canon EOS Rebel T100 DSLR, more](https://appleinsider.com/articles/22/10/09/daily-deals-oct-9-449-airpods-max-70-off-ipad-air-5-299-canon-eos-rebel-t100-dslr-more?utm_medium=rss)
+ - [Daily deals Oct. 8: $150 off Apple Watch Series 7, $520 off 11-inch iPad Pro, Pad &amp; Quill discounts](https://appleinsider.com/articles/22/10/08/daily-deals-oct-8-150-off-apple-watch-series-7-500-off-11-inch-ipad-pro-pad-quill-discounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
