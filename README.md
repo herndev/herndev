@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Two kayakers off the coast of California getting sucked into a whales mouth.](http://9gag.com/gag/agovVnx)
- - ⏩ [Lets do this!](http://9gag.com/gag/ay20X6b)
- - 👉 [The Russian el Risitas. But better. He came to steal the washing machine, but he stole my heart.](http://9gag.com/gag/a8qY3pZ)<!-- MEMES:END -->
+ - 💣 [No rent no service](http://9gag.com/gag/avQgOzX)
+ - ⏩ [There is always time for coffee](http://9gag.com/gag/aDY31zG)
+ - 👉 [We finally got footage showing a DPRK officer arresting a citizen for laughing](http://9gag.com/gag/aVbWYZ8)<!-- MEMES:END -->
 
 ---
 
