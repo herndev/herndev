@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bleach finally looks as cool as it should in Thousand-Year Blood War](https://www.polygon.com/23392941/bleach-thousand-year-blood-war-hulu-streaming)
- - [Best UK Amazon Prime Early Access PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [Voicing Mario in a movie is an impossible task](https://www.polygon.com/23396736/mario-movie-chris-pratt-character-reinvention)<!-- GAME:END -->
+ - [Overwatch 2 Is Buggier Than Blizzard Is Admitting](https://kotaku.com/overwatch-2-achievements-mei-bastion-ult-t-pose-bug-1849638598)
+ - [Report: Even Facebook Isn&#39;t Using Its Own Metaverse, Begs Employees To Spend Time In It [Update]](https://kotaku.com/meta-facebook-vr-metaverse-horizon-worlds-online-1849629766)
+ - [Windows 95 had dedicated code to nix an OG Sim City bug](https://www.pcgamer.com/windows-95-had-dedicated-code-to-nix-an-og-sim-city-bug)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
