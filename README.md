@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wild Hearts’ monsters will make you feel threatened — even the cute ones](https://www.theverge.com/2022/10/10/23393221/wild-hearts-hunting-ea-games-omega-force-interview)
- - [Source: Instagram removed 705 posts without moderator oversight flagged by Amit Malviya, who runs Indian nationalist party BJP&#39;s IT Cell, as part of XCheck &lpar;Jahnavi Sen/The Wire&rpar;](http://www.techmeme.com/221010/p14#a221010p14)
- - [Apple MacBook Air M2 &lpar;2022&rpar; review: all-new Air](https://www.theverge.com/laptop-review/23207440/apple-macbook-air-m2-2022-review)<!-- TECH:END -->
+ - [All YouTube users will soon have an account handle — but some will get to pick theirs earlier](https://www.theverge.com/2022/10/10/23392552/youtube-unique-handle-rollout-shorts-comment-mentions-tiktok)
+ - [Google Assistant is now in Contacts: Here’s why that’s a big deal](https://www.androidauthority.com/google-assistant-contacts-2-3218287/)
+ - [Days after Celsius shared all of its users&#39; names and transaction histories in a bankruptcy filing, a website launches that lists who likely lost the most money &lpar;Zi Wang/Decrypt&rpar;](http://www.techmeme.com/221010/p15#a221010p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
