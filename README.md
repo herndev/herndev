@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Record monsters on cassette to transform into them in Cassette Beasts](https://www.pcgamer.com/record-monsters-on-cassette-to-transform-into-them-in-cassette-beasts)
  - [A streamer broke her back in two places after jumping in a foam pit at TwitchCon](https://www.pcgamer.com/a-streamer-broke-her-back-in-two-places-after-jumping-in-a-foam-pit-at-twitchcon)
- - [House of the Dragon’s hilarious decapitation punctuated one of the show’s most intense scenes](https://www.polygon.com/23389799/house-dragon-death-decapitation-scene-daemon)
- - [House of the Dragon revealed some of Game of Thrones’ most important lore in its premiere episode](https://www.polygon.com/game-of-thrones/23289499/house-of-the-dragon-aegon-conqueror-prophecy-ice-and-fire-game-of-thrones)<!-- GAME:END -->
+ - [House of the Dragon’s hilarious decapitation punctuated one of the show’s most intense scenes](https://www.polygon.com/23389799/house-dragon-death-decapitation-scene-daemon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
