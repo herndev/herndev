@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [15 Years ago today, The Orange Box was released](http://9gag.com/gag/awZKoMR)
- - ⏩ [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
- - 👉 [Russia supporters love war crimes.](http://9gag.com/gag/a2KY12e)<!-- MEMES:END -->
+ - 💣 [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
+ - ⏩ [More air defence coming after strike on embassy.](http://9gag.com/gag/a8qY1XZ)
+ - 👉 [Does sheepies have some springs in legs or wtf?](http://9gag.com/gag/ap90QbW)<!-- MEMES:END -->
 
 ---
 
