@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sensor Tower: BeReal has passed 53M installs, its MAUs are up 2,254% since January, and ~9% of its active installs on Android opened the app every day in Q3 &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221010/p18#a221010p18)
- - [Daily deals Oct. 9: $449 AirPods Max, $70 off iPad Air 5, $299 Canon EOS Rebel T100 DSLR, more](https://appleinsider.com/articles/22/10/09/daily-deals-oct-9-449-airpods-max-70-off-ipad-air-5-299-canon-eos-rebel-t100-dslr-more?utm_medium=rss)
- - [Daily deals Oct. 8: $150 off Apple Watch Series 7, $520 off 11-inch iPad Pro, Pad &amp; Quill discounts](https://appleinsider.com/articles/22/10/08/daily-deals-oct-8-150-off-apple-watch-series-7-500-off-11-inch-ipad-pro-pad-quill-discounts?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 4 receives a new October 2022 update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)
+ - [Account handles are coming to all YouTube users very soon](https://www.androidauthority.com/youtube-account-handles-3218321/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
