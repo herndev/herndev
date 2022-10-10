@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - 💣 [Revenge of the carts](http://9gag.com/gag/aL1P9gv)
  - ⏩ [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
- - 👉 [Legendary cough](http://9gag.com/gag/aWGWxD6)<!-- MEMES:END -->
+ - 👉 [Nice tips](http://9gag.com/gag/anzK430)<!-- MEMES:END -->
 
 ---
 
