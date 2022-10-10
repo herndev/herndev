@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🔨 Right to repair](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)
- - [We asked, you told us: You’re deeply split over the Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-hot-not-poll-results-3218133/)
- - [At least two TwitchCon attendees say they were severely injured, one with a broken back, after using Lenovo and Intel&#39;s foam pit scattered over bare concrete &lpar;Morgan Sung/NBC News&rpar;](http://www.techmeme.com/221010/p4#a221010p4)<!-- TECH:END -->
+ - [Google plans to shutter its Assistant Driving Mode Dashboard, announced in 2019, on November 21; Maps for Android&#39;s car-optimized UI will remain &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/221010/p6#a221010p6)
+ - [TSMC reports Q3 revenue rose 48% YoY to ~$19.4B, beating ~$19B estimates, as Micron, Kioxia, Samsung, and others report faltering sales and weakening demand &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221010/p5#a221010p5)
+ - [Daily Authority: 🔨 Right to repair](https://www.androidauthority.com/daily-authority-october-10-2022-3218056/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
