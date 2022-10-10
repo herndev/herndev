@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Don’t expect a huge battery increase for base Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/)
- - [iPhone 14 owners riding roller coasters are triggering false car crash reports](https://www.androidauthority.com/iphone-14-crash-detection-roller-coaster-3218108/)
- - [A look at the efforts to make technology and streaming companies pay telecom operators for the investment that the operators are making in their networks &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221010/p2#a221010p2)<!-- TECH:END -->
+ - [These Pixel 7 features are coming to older Pixels soon](https://www.androidauthority.com/pixel-7-features-older-pixels-phones-3218129/)
+ - [A look at the history of online content moderation, which has become a top culture war issue since the 2016 election and is the subject of multiple court cases &lpar;Will Oremus/Washington Post&rpar;](http://www.techmeme.com/221010/p3#a221010p3)
+ - [Don’t expect a huge battery increase for base Galaxy S23](https://www.androidauthority.com/samsung-galaxy-s23-battery-3218118/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
