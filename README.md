@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Marty &amp; Doc Brown Reunited at NYCC. Sad to see Legendary MJF in this condition](http://9gag.com/gag/amA0gAo)
- - ⏩ [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
- - 👉 [You never mess with big business](http://9gag.com/gag/aqeNjDY)<!-- MEMES:END -->
+ - 💣 [15 Years ago today, The Orange Box was released](http://9gag.com/gag/awZKoMR)
+ - ⏩ [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
+ - 👉 [Russia supporters love war crimes.](http://9gag.com/gag/a2KY12e)<!-- MEMES:END -->
 
 ---
 
