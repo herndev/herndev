@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Remote Tech Workers Secretly Juggle Multiple Jobs](https://www.wired.com/story/remote-tech-workers-secret-multiple-jobs/)
- - [How ‘The Mandalorian’ Inspired One of the Year’s Best Rap Videos](https://www.wired.com/story/denzel-curry-x-wing-star-wars/)
- - [How to Protect Yourself If Your School Uses Surveillance Tech](https://www.wired.com/story/how-to-protect-yourself-school-surveillance-tech-privacy/)<!-- TECH:END -->
+ - [8 Best Game Controllers &lpar;2022&rpar;: PC, Switch, PS5, Xbox, Accessibility](https://www.wired.com/gallery/best-game-controllers/)
+ - [25 Best Cat Toys and Supplies &lpar;2022&rpar;: Scratchers, Window Perches, Modern Furniture, Etc](https://www.wired.com/gallery/best-cat-toys-and-supplies/)
+ - [Cities Need More Native Bees—Lots and Lots of Them](https://www.wired.com/story/cities-need-more-native-bees-lots-and-lots-of-adorable-bees/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
