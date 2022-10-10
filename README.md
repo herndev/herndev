@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kyiv metro during missile strikes](http://9gag.com/gag/ajV093Q)
- - ⏩ [Phone booth](http://9gag.com/gag/a9qLpe0)
- - 👉 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)<!-- MEMES:END -->
+ - 💣 [Best scene ever](http://9gag.com/gag/aVbWwr8)
+ - ⏩ [A good guide to judge when you want to eat your banana \ud83c\udf4c](http://9gag.com/gag/aEq119K)
+ - 👉 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
 
 ---
 
