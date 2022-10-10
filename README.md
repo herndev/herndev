@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prime Early Access phone deals: Get the Google Pixel 6a for just $349](https://www.androidauthority.com/best-phone-deals-2-1111885/)
- - [&#39;Ted Lasso&#39; fake dating app Bantr brought to life - sort of](https://appleinsider.com/articles/22/10/10/ted-lasso-fake-dating-app-bantr-brought-to-life---sort-of?utm_medium=rss)
- - [Endor Labs, which helps businesses select, secure, monitor, and maintain open-source dependencies at scale, emerges from stealth with $25M in seed financing &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p20#a221010p20)<!-- TECH:END -->
+ - [Fortinet confirms the remote exploitation of a critical authentication bypass vulnerability in FortiOS, FortiProxy, and FortiSwitchManager; a patch is available &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221010/p22#a221010p22)
+ - [Trendsi, which helps sellers and manufacturers predict demand, raised a $25M Series A led by Lightspeed Venture Partners, bringing its total funding to $30M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221010/p21#a221010p21)
+ - [China asked Elon Musk not to sell Starlink within the country](https://www.theverge.com/2022/10/10/23397301/elon-musk-starlink-china-great-firewall-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
