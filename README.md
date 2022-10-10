@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How technology is helping the BBC&#39;s archive team digitize, catalog, and publish 23PB+ of content, which includes random clips that go viral on social media &lpar;Simon Usborne/The Guardian&rpar;](http://www.techmeme.com/221010/p1#a221010p1)
  - [Jaxson Compact Standing Desk Review: A great desk for home and office](https://appleinsider.com/articles/22/10/09/jaxson-compact-standing-desk-review-a-great-desk-for-home-and-office?utm_medium=rss)
- - [Intel confirms their proprietary UEFI code appears to have been leaked by a third party; the Alder Lake BIOS source code was leaked to 4chan and GitHub &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221009/p12#a221009p12)
- - [Prime Early Access Sale: All the best early deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)<!-- TECH:END -->
+ - [Intel confirms their proprietary UEFI code appears to have been leaked by a third party; the Alder Lake BIOS source code was leaked to 4chan and GitHub &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221009/p12#a221009p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
