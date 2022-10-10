@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How virtual influencers are gaining popularity in China amid a celebrity crackdown; research predicts the industry will go from ~$870M in 2021 to ~$6.7B in 2025 &lpar;Gloria Li/Financial Times&rpar;](http://www.techmeme.com/221010/p12#a221010p12)
- - [How to remap caps lock, control, option &amp; command keys in macOS](https://appleinsider.com/inside/macos/tips/how-to-remap-caps-lock-control-option-command-keys-in-macos?utm_medium=rss)
- - [The 7 Best Touchscreen Gloves &lpar;2022&rpar;: Heated, Waterproof, Knitted](https://www.wired.com/gallery/best-touchscreen-gloves/)<!-- TECH:END -->
+ - [Samsung building damaged by Russian missile strike in Ukraine](https://appleinsider.com/articles/22/10/10/samsung-building-damaged-by-russian-missile-strike-in-ukraine?utm_medium=rss)
+ - [The Pixel 7 Pro’s 5x zoom betrays Google’s portrait photography](https://www.androidauthority.com/pixel-7-pro-long-range-zoom-3215752/)
+ - [SteelSeries’ multi-platform Nova Pro Wireless headset is $100 off for the first time](https://www.theverge.com/2022/10/10/23396540/steelseries-nova-pro-wireless-gaming-headset-apple-watch-series-8-ipad-m1-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
