@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [17 Best Early Amazon Prime Day Deals &lpar;2022&rpar;: Echo Devices, Phones, and TVs](https://www.wired.com/story/best-early-amazon-prime-day-deals-access-sale-2022-2/)
- - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
- - [15 Great Deals From Walmart&#39;s Rival Prime Day Sale &lpar;2022&rpar;](https://www.wired.com/story/walmart-deals-prime-day-2022/)<!-- TECH:END -->
+ - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
+ - [The best Prime Early Access headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [iPadOS 16.1 expected to arrive near the end of October](https://appleinsider.com/articles/22/10/10/ipados-161-expected-to-arrive-near-the-end-of-october?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
