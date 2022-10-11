@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Early Access Sale: save up to $130 on Apple Watch styles](https://appleinsider.com/articles/22/10/11/amazon-prime-early-access-sale-save-up-to-130-on-apple-watch-styles?utm_medium=rss)
- - [Best smartwatch and fitness tracker deals for Amazon’s Prime Early Access Sale](https://www.theverge.com/23398321/amazon-prime-deals-sale-best-fitness-tracker-smartwatch-sale-2022)
- - [Google is going to test its 3D video chat booth with more companies](https://www.theverge.com/2022/10/11/23398308/google-project-starline-3d-video-chat-early-access-program-companies)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [The new AirPods Pro have hit an all-time low](https://www.theverge.com/2022/10/11/23397390/amazon-prime-deal-apple-airpods-pro-airpods-early-access-sale)
+ - [It took six years, but Google finally convinced me to get a Pixel](https://www.androidauthority.com/buy-google-pixel-7-3217734/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
