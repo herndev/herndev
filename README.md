@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Console Players Displeased To Find Aim Assist Disabled During PC Crossplay](https://kotaku.com/overwatch-crossplay-aim-assist-pc-console-advantage-1849644283)
- - [Dear Polygon: I want a great horror movie without jump scares!](https://www.polygon.com/what-to-watch/2022/10/11/23389910/scary-horror-movies-to-watch-exorcist-3-she-dies-tomorrow)
- - [Marvel delays Avengers: Secret Wars, Blade, and Fantastic Four](https://www.polygon.com/23399135/marvel-delays-avengers-secret-wars-blade-fantastic-four-release-date)<!-- GAME:END -->
+ - [Why House of the Dragon fans are so thirsty for the Negroni sbagliato](https://www.polygon.com/23398775/house-of-the-dragon-negroni-sbagliato-with-prosecco-emma-darcy)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Barbarian will soon stream on HBO Max](https://www.polygon.com/23399286/barbarian-hbo-max-streaming-release-date-how-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
