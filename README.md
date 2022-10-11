@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CS: GO pro leaves team after suffering traumatic injuries in Maltese nightclub fight](https://www.pcgamer.com/cs-go-pro-leaves-team-after-suffering-traumatic-injuries-in-maltese-nightclub-fight)
- - [Nvidia RTX 4090 Founders Edition](https://www.pcgamer.com/nvidia-geforce-rtx-4090-founders-edition-review-performance-benchmarks)
- - [Google&#39;s three new gaming Chromebooks show it&#39;s still keen on cloud gaming](https://www.pcgamer.com/google-cloud-gaming-chromebooks)<!-- GAME:END -->
+ - [Goth Ninja RPG wasn’t a game, but I loved playing it](https://www.polygon.com/23374341/goth-ninja-rpg-fashion-advice-subreddit)
+ - [Overwatch 2 Twitch Drops: What To Know About Scoring Kiriko&#39;s Exclusive Goodies [Update]](https://kotaku.com/overwatch-2-blizzard-twitch-drop-kiriko-legendary-skin-1849632424)
+ - [Get Surreal with the Lunar Shift Special Edition Wireless Controller](https://news.xbox.com/en-us/2022/10/11/get-surreal-lunar-shift-special-edition-wireless-controller/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
