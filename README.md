@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google reportedly says face unlock won’t be coming to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-face-unlock-canceled-3218581/)
  - [Chip-related stocks slump in Japan, South Korea, and Taiwan after US curbs on China; the PHLX chip index fell to its lowest level since November 2020 on Monday &lpar;Naoto Hosoda/Bloomberg&rpar;](http://www.techmeme.com/221011/p1#a221011p1)
- - [Echo, Fire Tablet, Fire TV and More Discounted by Up to 59% for Amazon Prime Day     - CNET](https://www.cnet.com/deals/amazon-device-deals-amazon-prime-day-october-event/#ftag=CAD590a51e)
- - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)<!-- TECH:END -->
+ - [Echo, Fire Tablet, Fire TV and More Discounted by Up to 59% for Amazon Prime Day     - CNET](https://www.cnet.com/deals/amazon-device-deals-amazon-prime-day-october-event/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
