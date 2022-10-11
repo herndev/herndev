@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Marvel’s Blade has been put on hold](https://www.theverge.com/2022/10/11/23399110/mcu-blade-on-hold-release-date)
- - [NBCUniversal partners with Meta to bring content to Quest VR headsets in 2023, from The Office, DreamWorks, the Peacock streaming app, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221011/p43#a221011p43)<!-- TECH:END -->
+ - [Mark Zuckerberg takes a shot at Apple’s closed ecosystem](https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem)
+ - [Major European airlines mislead customers with carbon offset credits, report says](https://www.theverge.com/2022/10/11/23398780/european-airlines-mislead-customers-carbon-offset-credits-climate-change)
+ - [TP-Link&#39;s new Wi-Fi 6E mesh router uses 6GHz bands for speed](https://appleinsider.com/articles/22/10/11/tp-links-new-wi-fi-6e-mesh-router-uses-6ghz-bands-for-speed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
