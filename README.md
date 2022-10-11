@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He didn&#39;t realise the mic was on :&#39;&rpar;](http://9gag.com/gag/aBd326Z)
- - ⏩ [Seriously tf was John Lennon doing with this lady](http://9gag.com/gag/az2EPDx)
- - 👉 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)<!-- MEMES:END -->
+ - 💣 [Elevator of Doom](http://9gag.com/gag/ajV05RQ)
+ - ⏩ [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - 👉 [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)<!-- MEMES:END -->
 
 ---
 
