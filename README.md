@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vtubers Apologize For Streaming Porn During A Live Splatoon 3 Match](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)
- - [&#39;We’re going to improve the Saints Row experience&#39;: Saints Row devs are prioritizing fixes over new content](https://www.pcgamer.com/were-going-to-improve-the-saints-row-experience-saints-row-devs-are-prioritizing-fixes-over-new-content)
- - [House of the Dragon will run for 4 10-episode seasons, George R.R. Martin confirms](https://www.polygon.com/23399535/house-dragon-seasons-renewed-hbo-number-geerge-rr-martin)<!-- GAME:END -->
+ - [Blizzard Apologizes For Rocky Overwatch 2 Launch With Free Skin, Charm, More](https://kotaku.com/overwatch-2-reaper-skin-charm-double-xp-torb-bastion-1849645467)
+ - [Google Kills Cloud Gaming Service, Announces Cloud Gaming Laptops](https://kotaku.com/chromebook-google-geforce-now-xbox-cloud-gaming-amazon-1849645405)
+ - [Forget Prime Day, Criterion&#39;s 50% off sale is the real steal today](https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
