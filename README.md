@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)
- - [CNN accused of rug pull as it abandons its NFT project](https://www.theverge.com/2022/10/10/23397766/vault-by-cnn-nft-shutdown-flow-rebate-rugpull)
- - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)<!-- TECH:END -->
+ - [Chip-related stocks slump in Japan, South Korea, and Taiwan after US curbs on China; the PHLX chip index fell to its lowest level since November 2020 on Monday &lpar;Naoto Hosoda/Bloomberg&rpar;](http://www.techmeme.com/221011/p1#a221011p1)
+ - [Echo, Fire Tablet, Fire TV and More Discounted by Up to 59% for Amazon Prime Day     - CNET](https://www.cnet.com/deals/amazon-device-deals-amazon-prime-day-october-event/#ftag=CAD590a51e)
+ - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
