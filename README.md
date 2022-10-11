@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bitter dreams](http://9gag.com/gag/az2Ex7z)
- - ⏩ [Lol](http://9gag.com/gag/a04LeBv)
- - 👉 [\u201cThe perfect cosplay doesn\u2019t exis\u2026\u2026.\u201d](http://9gag.com/gag/aNwZLnv)<!-- MEMES:END -->
+ - 💣 [\u201cThe perfect cosplay doesn\u2019t exis\u2026\u2026.\u201d](http://9gag.com/gag/aNwZLnv)
+ - ⏩ [Bitter dreams](http://9gag.com/gag/az2Ex7z)
+ - 👉 [Lol](http://9gag.com/gag/a04LeBv)<!-- MEMES:END -->
 
 ---
 
