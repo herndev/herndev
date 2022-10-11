@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA Sports PGA Tour looks gorgeous in first gameplay teaser](https://www.polygon.com/23398692/ea-sports-pga-tour-trailer-ps5-xbox-series-x-pc)
- - [The best Amazon Early Access gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
- - [I hope RTX 3060 and RTX 3050-powered gaming laptops stay under $1,000](https://www.pcgamer.com/cheap-gaming-laptop-deals-prime-day-early-access-sale)<!-- GAME:END -->
+ - [The best Amazon Prime Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
+ - [Iron Man VR coming to Quest 2, developer now part of Oculus Studios](https://www.polygon.com/23399006/oculus-studios-camouflaj-twisted-pixel-armature-iron-man-vr)
+ - [M3GAN trailer shows off a dancing robot girl who murders people](https://www.polygon.com/23398872/m3gan-trailer-dancing-doll-malignant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
