@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asteroid-smashing planetary defense test was a success, NASA confirms](https://www.theverge.com/2022/10/11/23399150/nasa-asteroid-dart-dimorphos-didymos-planetary-defense)
- - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
- - [The best Amazon Prime Early Access deals under $25](https://www.theverge.com/23392608/amazon-prime-best-cheap-deals-under-25-early-access-sale-2022)<!-- TECH:END -->
+ - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)
+ - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
+ - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
