@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Catch record-low Google Pixel prices in the Prime Early Access Sale](https://www.androidauthority.com/google-prime-early-access-sale-3218834/)
- - [Apple issues developer beta 11 of macOS Ventura](https://appleinsider.com/articles/22/10/11/apple-issues-developer-beta-11-of-macos-ventura?utm_medium=rss)
- - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)<!-- TECH:END -->
+ - [Meta figured out legs for its avatars](https://www.theverge.com/2022/10/11/23390503/meta-quest-horizon-avatars-legs)
+ - [Meta partners with Microsoft to bring Teams, Office, Windows 365, and Xbox Cloud Gaming to Quest VR headsets &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221011/p39#a221011p39)
+ - [52 Absolute Best Prime Day Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-prime-day-deals-2022-8/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
