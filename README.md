@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 10&rpar;](https://news.xbox.com/en-us/2022/10/10/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-10/)
- - [Overwatch 2 Accidentally Locked A Third Of The Roster For Some Players As Blizzard Tries Putting Out Fires [Update]](https://kotaku.com/overwatch-2-torbjorn-bastion-roster-locked-heroes-bugs-1849640751)
- - [2K Customer Data Was Stolen, Sold Online After Support Desk Scam](https://kotaku.com/2k-hack-scam-malware-support-desk-email-1849640771)<!-- GAME:END -->
+ - [Now you can sync your Nanoleaf lights with your Corsair iCUE kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)
+ - [Gaming monitors should come with VESA arms, not stands](https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 10&rpar;](https://news.xbox.com/en-us/2022/10/10/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-10/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
