@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This RX 6700 XT graphics card is actually less than MSRP right now](https://www.pcgamer.com/this-rx-6700-xt-graphics-card-is-actually-less-than-msrp-right-now)
- - [Black Panther: Wakanda Forever cast on what Chadwick Boseman’s death meant for the film](https://www.polygon.com/23398495/black-panther-wakanda-forever-cast-director-chadwick-boseman)
- - [I suck at using character creators and that’s OK](https://www.polygon.com/23392844/character-creator-failures-elden-ring-splatoon-3)<!-- GAME:END -->
+ - [Overwatch 2 Battle Pass: all the rewards and how much it costs](https://www.pcgamer.com/overwatch-2-battle-pass)
+ - [A Plague Tale: Requiem system requirements are surprisingly high despite no 4K spec](https://www.pcgamer.com/a-plague-tale-requiem-pc-system-requirements)
+ - [Real-time strategy is back from the brink of death](https://www.pcgamer.com/real-time-strategy-is-back-from-the-brink-of-death)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
