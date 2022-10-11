@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
- - [The best Amazon Prime Early Access deals under $25](https://www.theverge.com/23392608/amazon-prime-best-cheap-deals-under-25-early-access-sale-2022)
- - [iPad with new Hybrid OLED tech rumored to arrive in 2024](https://appleinsider.com/articles/22/10/11/ipad-with-new-hybrid-oled-tech-rumored-to-arrive-in-2024?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Early Access Sale: save up to $130 on Apple Watch styles](https://appleinsider.com/articles/22/10/11/amazon-prime-early-access-sale-save-up-to-130-on-apple-watch-styles?utm_medium=rss)
+ - [Best smartwatch and fitness tracker deals for Amazon’s Prime Early Access Sale](https://www.theverge.com/23398321/amazon-prime-deals-sale-best-fitness-tracker-smartwatch-sale-2022)
+ - [Google is going to test its 3D video chat booth with more companies](https://www.theverge.com/2022/10/11/23398308/google-project-starline-3d-video-chat-early-access-program-companies)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
