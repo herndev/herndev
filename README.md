@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Multiple people have witnessed an unknown light near Finnish-Russian border early this morning](http://9gag.com/gag/ajV05oR)
- - ⏩ [Gf: you can&#39;t possibly think you gonna post a trash bin and expect them to understand this reference. Me: I know those guys](http://9gag.com/gag/aNwZ034)
- - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t realise the mic was on :&#39;&rpar;](http://9gag.com/gag/aBd326Z)
+ - ⏩ [Seriously tf was John Lennon doing with this lady](http://9gag.com/gag/az2EPDx)
+ - 👉 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)<!-- MEMES:END -->
 
 ---
 
