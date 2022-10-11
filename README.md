@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying styles](http://9gag.com/gag/aoK0e7A)
- - ⏩ [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
- - 👉 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
+ - 💣 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
+ - ⏩ [Right in the feels](http://9gag.com/gag/aEq1YO9)
+ - 👉 [You have proven yourself, but at what cost?](http://9gag.com/gag/a8qYEqO)<!-- MEMES:END -->
 
 ---
 
