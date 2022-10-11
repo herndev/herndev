@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Amazon Prime Day’s board game sale is the best we’ve seen in years](https://www.polygon.com/deals/23391548/amazon-prime-board-game-sale-disney-villainous-cascadia-scythe-catan)
  - [The best Amazon Prime Day anime deals](https://www.polygon.com/deals/2022/10/11/23393185/amazon-prime-day-early-access-sale-anime-deals-2022-blu-ray-dragon-ball-z-cowboy-bebop)
- - [Today&#39;s Wordle 479 answer and hint: Tuesday, October 11](https://www.pcgamer.com/todays-wordle-479-answer-hint)
- - [Now you can sync your Nanoleaf lights with your Corsair iCUE kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)<!-- GAME:END -->
+ - [Today&#39;s Wordle 479 answer and hint: Tuesday, October 11](https://www.pcgamer.com/todays-wordle-479-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
