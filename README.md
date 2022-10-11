@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Darktide class spotlight looks down the sights of the Veteran Sharpshooter](https://www.pcgamer.com/darktide-class-spotlight-looks-down-the-sights-of-the-veteran-sharpshooter)
- - [Persona 3 and 4 finally hit all modern platforms in January](https://www.polygon.com/23396858/persona-3-4-switch-xbox-pc-ps5-release-date)
- - [Square Enix Montreal is now called Studio Onoma](https://www.pcgamer.com/square-enix-montreal-is-now-called-studio-onoma)<!-- GAME:END -->
+ - [Overwatch 2 Is Buggier Than Blizzard Is Admitting [Update: Entire Characters Pulled ATM]](https://kotaku.com/overwatch-2-achievements-mei-bastion-ult-t-pose-bug-1849638598)
+ - [New Blood&#39;s Fallout homage will have first-person combat](https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat)
+ - [NBA 2K23’s In-Game Durags Cost More Than Real Ones, Somehow](https://kotaku.com/nba-2k23-durag-microtransaction-vc-finders-keepers-1849640528)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
