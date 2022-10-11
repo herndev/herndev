@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Is Buggier Than Blizzard Is Admitting [Update: Entire Characters Pulled ATM]](https://kotaku.com/overwatch-2-achievements-mei-bastion-ult-t-pose-bug-1849638598)
- - [New Blood&#39;s Fallout homage will have first-person combat](https://www.pcgamer.com/new-bloods-fallout-homage-will-have-first-person-combat)
- - [NBA 2K23’s In-Game Durags Cost More Than Real Ones, Somehow](https://kotaku.com/nba-2k23-durag-microtransaction-vc-finders-keepers-1849640528)<!-- GAME:END -->
+ - [2K Customer Data Was Stolen, Sold Online After Support Desk Scam](https://kotaku.com/2k-hack-scam-malware-support-desk-email-1849640771)
+ - [Overwatch 2 Locks A Third Of The Roster For Some Players While Blizzard Tries Putting Out Fires](https://kotaku.com/overwatch-2-torbjorn-bastion-roster-locked-heroes-bugs-1849640751)
+ - [Overwatch 2 temporarily loses Bastion and Torbjörn](https://www.pcgamer.com/overwatch-2-temporarily-loses-bastion-and-torbjorn)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
