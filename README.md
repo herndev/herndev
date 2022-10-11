@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of the most cruel pranks i ever saw. A Mexican kid pranked his mother, i guess he&#39;s grounded till his late 40&#39;s](http://9gag.com/gag/aMEr4dM)
- - ⏩ [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - 👉 [Say it! SAY IT!!](http://9gag.com/gag/avQgA5n)<!-- MEMES:END -->
+ - 💣 [I swear, sometimes it&#39;s just not worth it](http://9gag.com/gag/ay203mV)
+ - ⏩ [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
+ - 👉 [Michael J Fox and Cristopher Lloyd reception at Comic Con](http://9gag.com/gag/aoK05zw)<!-- MEMES:END -->
 
 ---
 
