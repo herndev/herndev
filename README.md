@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best gaming deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)
- - [Google partners with Coinbase to let some customers pay for cloud services in crypto, starting 2023; Coinbase plans to move some data from AWS to Google Cloud &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221011/p18#a221011p18)
- - [Teens are still excited about iPhone &amp; Apple Watch, less so about VR](https://appleinsider.com/articles/22/10/11/teens-are-still-excited-about-iphone-apple-watch-less-so-about-vr?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [The best Amazon Prime Early Access deals under $25](https://www.theverge.com/23392608/amazon-prime-best-cheap-deals-under-25-early-access-sale-2022)
+ - [iPad with new Hybrid OLED tech rumored to arrive in 2024](https://appleinsider.com/articles/22/10/11/ipad-with-new-hybrid-oled-tech-rumored-to-arrive-in-2024?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
