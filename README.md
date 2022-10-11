@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mark Zuckerberg takes a shot at Apple’s closed ecosystem](https://www.theverge.com/2022/10/11/23399168/mark-zuckerberg-meta-metaverse-apple-vr-open-closed-ecosystem)
- - [Major European airlines mislead customers with carbon offset credits, report says](https://www.theverge.com/2022/10/11/23398780/european-airlines-mislead-customers-carbon-offset-credits-climate-change)
- - [TP-Link&#39;s new Wi-Fi 6E mesh router uses 6GHz bands for speed](https://appleinsider.com/articles/22/10/11/tp-links-new-wi-fi-6e-mesh-router-uses-6ghz-bands-for-speed?utm_medium=rss)<!-- TECH:END -->
+ - [Asteroid-smashing planetary defense test was a success, NASA confirms](https://www.theverge.com/2022/10/11/23399150/nasa-asteroid-dart-dimorphos-didymos-planetary-defense)
+ - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [The best Amazon Prime Early Access deals under $25](https://www.theverge.com/23392608/amazon-prime-best-cheap-deals-under-25-early-access-sale-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
