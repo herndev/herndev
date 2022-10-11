@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [The new AirPods Pro have hit an all-time low](https://www.theverge.com/2022/10/11/23397390/amazon-prime-deal-apple-airpods-pro-airpods-early-access-sale)
- - [It took six years, but Google finally convinced me to get a Pixel](https://www.androidauthority.com/buy-google-pixel-7-3217734/)<!-- TECH:END -->
+ - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)
+ - [These Motorola Prime Early Access deals are too good to pass up](https://www.androidauthority.com/motorola-prime-day-2022-3185703/)
+ - [TikTok is planning its own US fulfillment centers, according to job listings](https://www.theverge.com/2022/10/11/23398494/tiktok-shopping-ecommerce-fulfillment-centers-job-listings-amazon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
