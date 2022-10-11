@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - ⏩ [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - 💣 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)
+ - ⏩ [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
  - 👉 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
 
 ---
