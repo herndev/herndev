@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 479 answer and hint: Tuesday, October 11](https://www.pcgamer.com/todays-wordle-479-answer-hint)
  - [Now you can sync your Nanoleaf lights with your Corsair iCUE kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)
- - [Gaming monitors should come with VESA arms, not stands](https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 10&rpar;](https://news.xbox.com/en-us/2022/10/10/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-10/)<!-- GAME:END -->
+ - [Gaming monitors should come with VESA arms, not stands](https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
