@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)
- - [These Motorola Prime Early Access deals are too good to pass up](https://www.androidauthority.com/motorola-prime-day-2022-3185703/)
- - [TikTok is planning its own US fulfillment centers, according to job listings](https://www.theverge.com/2022/10/11/23398494/tiktok-shopping-ecommerce-fulfillment-centers-job-listings-amazon)<!-- TECH:END -->
+ - [Catch record-low Google Pixel prices in the Prime Early Access Sale](https://www.androidauthority.com/google-prime-early-access-sale-3218834/)
+ - [Apple issues developer beta 11 of macOS Ventura](https://appleinsider.com/articles/22/10/11/apple-issues-developer-beta-11-of-macos-ventura?utm_medium=rss)
+ - [The best deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
