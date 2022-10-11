@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day Early Access deals for 4K Blu-ray movie and TV box sets](https://www.polygon.com/23397931/amazon-prime-day-4k-blu-ray-movies-tv-sale-deals-early-access)
- - [Amazon Prime Day’s board game sale is the best we’ve seen in years](https://www.polygon.com/deals/23391548/amazon-prime-board-game-sale-disney-villainous-cascadia-scythe-catan)
- - [The best Amazon Prime Day anime deals](https://www.polygon.com/deals/2022/10/11/23393185/amazon-prime-day-early-access-sale-anime-deals-2022-blu-ray-dragon-ball-z-cowboy-bebop)<!-- GAME:END -->
+ - [Overwatch 2 bug locks many heroes for some players as Bastion and Torbjörn are removed](https://www.polygon.com/23398172/overwatch-2-bastion-torbjorn-server-bug-roster-lock)
+ - [You can now order Domino&#39;s in The Elder Scrolls 4: Oblivion, thanks to a mod](https://www.pcgamer.com/you-can-now-order-dominos-in-the-elder-scrolls-4-oblivion-thanks-to-a-mod)
+ - [The best Amazon Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
