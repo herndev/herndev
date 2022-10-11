@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 bug locks many heroes for some players as Bastion and Torbjörn are removed](https://www.polygon.com/23398172/overwatch-2-bastion-torbjorn-server-bug-roster-lock)
- - [You can now order Domino&#39;s in The Elder Scrolls 4: Oblivion, thanks to a mod](https://www.pcgamer.com/you-can-now-order-dominos-in-the-elder-scrolls-4-oblivion-thanks-to-a-mod)
- - [The best Amazon Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)<!-- GAME:END -->
+ - [How Dragon Ball: The Breakers adapted the fighting franchise into an asymmetrical survival game](https://blog.playstation.com/2022/10/11/how-dragon-ball-the-breakers-adapted-the-fighting-franchise-into-an-asymmetrical-survival-game/)
+ - [Best Amazon Prime Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
+ - [The best Amazon Prime Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
