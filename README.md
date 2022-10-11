@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Amazon Prime Day Early Access deals for 4K Blu-ray movie and TV box sets](https://www.polygon.com/23397931/amazon-prime-day-4k-blu-ray-movies-tv-sale-deals-early-access)
  - [Amazon Prime Day’s board game sale is the best we’ve seen in years](https://www.polygon.com/deals/23391548/amazon-prime-board-game-sale-disney-villainous-cascadia-scythe-catan)
- - [The best Amazon Prime Day anime deals](https://www.polygon.com/deals/2022/10/11/23393185/amazon-prime-day-early-access-sale-anime-deals-2022-blu-ray-dragon-ball-z-cowboy-bebop)
- - [Today&#39;s Wordle 479 answer and hint: Tuesday, October 11](https://www.pcgamer.com/todays-wordle-479-answer-hint)<!-- GAME:END -->
+ - [The best Amazon Prime Day anime deals](https://www.polygon.com/deals/2022/10/11/23393185/amazon-prime-day-early-access-sale-anime-deals-2022-blu-ray-dragon-ball-z-cowboy-bebop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
