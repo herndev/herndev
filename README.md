@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
- - ⏩ [My god my eyes](http://9gag.com/gag/agovo11)
- - 👉 [Soldiers funerals](http://9gag.com/gag/aWGWx7x)<!-- MEMES:END -->
+ - 💣 [Using gas to kill wasps](http://9gag.com/gag/aBd3nQN)
+ - ⏩ [Right in the feels](http://9gag.com/gag/aEq1YO9)
+ - 👉 [Say it! SAY IT!!](http://9gag.com/gag/avQgA5n)<!-- MEMES:END -->
 
 ---
 
