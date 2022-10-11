@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These Sci-Fi Visions for Interstellar Travel Just Might Work](https://www.wired.com/story/travelers-guide-to-the-stars-interstellar-travel/)
- - [Australian union calls for Apple Store strike over pay and benefits](https://appleinsider.com/articles/22/10/11/australian-union-calls-for-apple-store-strike-over-pay-and-benefits?utm_medium=rss)
- - [Tracxn: Indian startups raised $3B in Q3 2022, down 57% from Q2 and 80% YoY, in 334 deals, down from 674 in Q3 2021; Crunchbase: global funding dropped 53% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221011/p13#a221011p13)<!-- TECH:END -->
+ - [The best gaming deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23393295/amazon-prime-deals-best-game-gaming-console-2022)
+ - [Google partners with Coinbase to let some customers pay for cloud services in crypto, starting 2023; Coinbase plans to move some data from AWS to Google Cloud &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221011/p18#a221011p18)
+ - [Teens are still excited about iPhone &amp; Apple Watch, less so about VR](https://appleinsider.com/articles/22/10/11/teens-are-still-excited-about-iphone-apple-watch-less-so-about-vr?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
