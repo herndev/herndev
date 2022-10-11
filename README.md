@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u201cThe perfect cosplay doesn\u2019t exis\u2026\u2026.\u201d](http://9gag.com/gag/aNwZLnv)
- - ⏩ [Bitter dreams](http://9gag.com/gag/az2Ex7z)
- - 👉 [Lol](http://9gag.com/gag/a04LeBv)<!-- MEMES:END -->
+ - 💣 [Devil](http://9gag.com/gag/amA0154)
+ - ⏩ [The sound we can approve.](http://9gag.com/gag/agov1A6)
+ - 👉 [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)<!-- MEMES:END -->
 
 ---
 
