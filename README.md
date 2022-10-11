@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Goth Ninja RPG wasn’t a game, but I loved playing it](https://www.polygon.com/23374341/goth-ninja-rpg-fashion-advice-subreddit)
- - [Overwatch 2 Twitch Drops: What To Know About Scoring Kiriko&#39;s Exclusive Goodies [Update]](https://kotaku.com/overwatch-2-blizzard-twitch-drop-kiriko-legendary-skin-1849632424)
- - [Get Surreal with the Lunar Shift Special Edition Wireless Controller](https://news.xbox.com/en-us/2022/10/11/get-surreal-lunar-shift-special-edition-wireless-controller/)<!-- GAME:END -->
+ - [This RX 6700 XT graphics card is actually less than MSRP right now](https://www.pcgamer.com/this-rx-6700-xt-graphics-card-is-actually-less-than-msrp-right-now)
+ - [Black Panther: Wakanda Forever cast on what Chadwick Boseman’s death meant for the film](https://www.polygon.com/23398495/black-panther-wakanda-forever-cast-director-chadwick-boseman)
+ - [I suck at using character creators and that’s OK](https://www.polygon.com/23392844/character-creator-failures-elden-ring-splatoon-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
