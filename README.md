@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The ideal gadget](http://9gag.com/gag/aZDxrMp)
+ - 💣 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)
  - ⏩ [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
- - 👉 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)<!-- MEMES:END -->
+ - 👉 [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)<!-- MEMES:END -->
 
 ---
 
