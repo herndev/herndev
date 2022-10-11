@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman completely disappeared behind Scarlett Johansson on the red carpet](http://9gag.com/gag/a5XPV6r)
- - ⏩ [Package thieves vs squid game](http://9gag.com/gag/a5XPRjN)
- - 👉 [Pay attention to your surroundings at all times](http://9gag.com/gag/aOxb2V3)<!-- MEMES:END -->
+ - 💣 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
+ - ⏩ [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
+ - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
 
 ---
 
