@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)
- - ⏩ [Wonder where they got the coupons for 100% off all products in LA](http://9gag.com/gag/a1Pe71w)
- - 👉 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
+ - 💣 [Bitter dreams](http://9gag.com/gag/az2Ex7z)
+ - ⏩ [Lol](http://9gag.com/gag/a04LeBv)
+ - 👉 [\u201cThe perfect cosplay doesn\u2019t exis\u2026\u2026.\u201d](http://9gag.com/gag/aNwZLnv)<!-- MEMES:END -->
 
 ---
 
