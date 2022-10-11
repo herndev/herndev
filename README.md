@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Watch &#39;It&#39;s the Great Pumpkin, Charlie Brown&#39; for free in 2022](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-its-the-great-pumpkin-charlie-brown-in-2022?utm_medium=rss)
- - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
- - [The best anti-Prime Early Access Sale deals happening at Best Buy](https://www.theverge.com/23396764/best-buy-sale-deals-october-prime-day-tech-gadgets-2022)<!-- TECH:END -->
+ - [Zuckerberg thinks Apple is making aggressive moves now to control the metaverse](https://appleinsider.com/articles/22/10/11/zuckerberg-thinks-apple-is-making-aggressive-moves-now-to-control-the-metaverse?utm_medium=rss)
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
