@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)
- - [The best Prime Early Access headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [iPadOS 16.1 expected to arrive near the end of October](https://appleinsider.com/articles/22/10/10/ipados-161-expected-to-arrive-near-the-end-of-october?utm_medium=rss)<!-- TECH:END -->
+ - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 drops to $35.99](https://appleinsider.com/articles/22/10/01/lowest-price-ever-microsoft-office-for-mac-home-business-2021-drops-to-3599?utm_medium=rss)
+ - [Airwallex, which provides cross-border banking and other financial services for businesses, raised a $100M Series E2, bringing its total funding to over $900M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221010/p24#a221010p24)
+ - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
