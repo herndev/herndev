@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Delta Airlines will invest up to $200 million in Joby Aviation to create a ‘home-to-airport’ air taxi service](https://www.theverge.com/2022/10/11/23396851/delta-joby-invest-evtol-home-to-airport)
- - [GM created a new energy business to sell batteries and solar panels in bid to dethrone Tesla](https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility)
- - [Garmin watches are up to $250 off during Amazon’s latest sale](https://www.androidauthority.com/garmin-watches-amazon-prime-early-access-sale-3218681/)<!-- TECH:END -->
+ - [These Sci-Fi Visions for Interstellar Travel Just Might Work](https://www.wired.com/story/travelers-guide-to-the-stars-interstellar-travel/)
+ - [Australian union calls for Apple Store strike over pay and benefits](https://appleinsider.com/articles/22/10/11/australian-union-calls-for-apple-store-strike-over-pay-and-benefits?utm_medium=rss)
+ - [Tracxn: Indian startups raised $3B in Q3 2022, down 57% from Q2 and 80% YoY, in 334 deals, down from 674 in Q3 2021; Crunchbase: global funding dropped 53% YoY &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221011/p13#a221011p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
