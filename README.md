@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Dragon Ball: The Breakers adapted the fighting franchise into an asymmetrical survival game](https://blog.playstation.com/2022/10/11/how-dragon-ball-the-breakers-adapted-the-fighting-franchise-into-an-asymmetrical-survival-game/)
- - [Best Amazon Prime Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [The best Amazon Prime Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)<!-- GAME:END -->
+ - [CS: GO pro leaves team after suffering traumatic injuries in Maltese nightclub fight](https://www.pcgamer.com/cs-go-pro-leaves-team-after-suffering-traumatic-injuries-in-maltese-nightclub-fight)
+ - [Nvidia RTX 4090 Founders Edition](https://www.pcgamer.com/nvidia-geforce-rtx-4090-founders-edition-review-performance-benchmarks)
+ - [Google&#39;s three new gaming Chromebooks show it&#39;s still keen on cloud gaming](https://www.pcgamer.com/google-cloud-gaming-chromebooks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
