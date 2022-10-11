@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Amazon Prime Day anime deals](https://www.polygon.com/deals/2022/10/11/23393185/amazon-prime-day-early-access-sale-anime-deals-2022-blu-ray-dragon-ball-z-cowboy-bebop)
  - [Today&#39;s Wordle 479 answer and hint: Tuesday, October 11](https://www.pcgamer.com/todays-wordle-479-answer-hint)
- - [Now you can sync your Nanoleaf lights with your Corsair iCUE kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)
- - [Gaming monitors should come with VESA arms, not stands](https://www.pcgamer.com/gaming-monitors-should-come-with-vesa-arms-not-stands)<!-- GAME:END -->
+ - [Now you can sync your Nanoleaf lights with your Corsair iCUE kit](https://www.pcgamer.com/now-you-can-sync-your-nanoleaf-lights-with-your-corsair-icue-kit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
