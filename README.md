@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)
- - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)
- - [Jony Ive and Apple reunite for Apple TV+ animated short](https://appleinsider.com/articles/22/10/10/jony-ive-and-apple-reunite-for-apple-tv-animated-short?utm_medium=rss)<!-- TECH:END -->
+ - [Meta spokesperson: documentation in an article alleging Instagram removed posts flagged by a BJP member in India without oversight &quot;appears to be fabricated&quot; &lpar;Andy Stone/@andymstone&rpar;](http://www.techmeme.com/221010/p26#a221010p26)
+ - [CNN accused of rug pull as it abandons its NFT project](https://www.theverge.com/2022/10/10/23397766/vault-by-cnn-nft-shutdown-flow-rebate-rugpull)
+ - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
