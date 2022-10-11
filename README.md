@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
- - ⏩ [Right in the feels](http://9gag.com/gag/aEq1YO9)
- - 👉 [You have proven yourself, but at what cost?](http://9gag.com/gag/a8qYEqO)<!-- MEMES:END -->
+ - 💣 [The ideal gadget](http://9gag.com/gag/aZDxrMp)
+ - ⏩ [Jim Carrey being a savage](http://9gag.com/gag/abvyVPp)
+ - 👉 [Let&#39;s get edgy](http://9gag.com/gag/ap90NQD)<!-- MEMES:END -->
 
 ---
 
