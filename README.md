@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta figured out legs for its avatars](https://www.theverge.com/2022/10/11/23390503/meta-quest-horizon-avatars-legs)
- - [Meta partners with Microsoft to bring Teams, Office, Windows 365, and Xbox Cloud Gaming to Quest VR headsets &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221011/p39#a221011p39)
- - [52 Absolute Best Prime Day Deals &lpar;2022&rpar;: Prime Early Access Sale](https://www.wired.com/story/best-prime-day-deals-2022-8/)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [Marvel’s Blade has been put on hold](https://www.theverge.com/2022/10/11/23399110/mcu-blade-on-hold-release-date)
+ - [NBCUniversal partners with Meta to bring content to Quest VR headsets in 2023, from The Office, DreamWorks, the Peacock streaming app, and more &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221011/p43#a221011p43)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
