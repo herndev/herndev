@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bain &amp; Co. and Flipkart report: India&#39;s e-commerce userbase is expected to grow 25%-30% annually for the next five years and pass the US&#39; number in two years &lpar;Pranav Balakrishnan/The Economic Times&rpar;](http://www.techmeme.com/221011/p3#a221011p3)
- - [We asked, you told us: You’re split over trusting a Google VPN service](https://www.androidauthority.com/trust-google-vpn-service-poll-results-3218130/)
- - [Data analysis: users of Twitter&#39;s Birdwatch fact-checking tool have focused on posts about COVID-19, false earthquake predictions, and election misinformation &lpar;Corin Faife/The Verge&rpar;](http://www.techmeme.com/221011/p2#a221011p2)<!-- TECH:END -->
+ - [Amazon&#39;s October Prime Day deals: $269 iPad, $235 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [Amazon Prime Early Access Sale: Great discounts on Bose QuietComfort 45 and more](https://www.androidauthority.com/amazon-prime-early-access-sale-bose-deals-3218619/)
+ - [Bain &amp; Co. and Flipkart report: India&#39;s e-commerce userbase is expected to grow 25%-30% annually for the next five years and pass the US&#39; number in two years &lpar;Pranav Balakrishnan/The Economic Times&rpar;](http://www.techmeme.com/221011/p3#a221011p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
