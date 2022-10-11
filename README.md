@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why House of the Dragon fans are so thirsty for the Negroni sbagliato](https://www.polygon.com/23398775/house-of-the-dragon-negroni-sbagliato-with-prosecco-emma-darcy)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Barbarian will soon stream on HBO Max](https://www.polygon.com/23399286/barbarian-hbo-max-streaming-release-date-how-watch)<!-- GAME:END -->
+ - [Vtubers Apologize For Streaming Porn During A Live Splatoon 3 Match](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)
+ - [&#39;We’re going to improve the Saints Row experience&#39;: Saints Row devs are prioritizing fixes over new content](https://www.pcgamer.com/were-going-to-improve-the-saints-row-experience-saints-row-devs-are-prioritizing-fixes-over-new-content)
+ - [House of the Dragon will run for 4 10-episode seasons, George R.R. Martin confirms](https://www.polygon.com/23399535/house-dragon-seasons-renewed-hbo-number-geerge-rr-martin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
