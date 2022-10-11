@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Billionaire tech investor Yuri Milner renounced his Russian citizenship in August, after leaving Russia in 2014; Milner has been an Israeli citizen since 1999 &lpar;Joseph Pisani/Wall Street Journal&rpar;](http://www.techmeme.com/221011/p6#a221011p6)
- - [Prime Early Access Sale: All the best deals in one place](https://www.androidauthority.com/best-prime-day-deals-1236398/)
- - [In a court hearing over Crypto.com erroneously sending an Australian woman $10.5M, an executive says a worker in Bulgaria entered the wrong data on Excel &lpar;The Guardian&rpar;](http://www.techmeme.com/221011/p5#a221011p5)<!-- TECH:END -->
+ - [Delta Airlines will invest up to $200 million in Joby Aviation to create a ‘home-to-airport’ air taxi service](https://www.theverge.com/2022/10/11/23396851/delta-joby-invest-evtol-home-to-airport)
+ - [GM created a new energy business to sell batteries and solar panels in bid to dethrone Tesla](https://www.theverge.com/2022/10/11/23391433/gm-energy-ev-battery-solar-panel-charger-grid-utility)
+ - [Garmin watches are up to $250 off during Amazon’s latest sale](https://www.androidauthority.com/garmin-watches-amazon-prime-early-access-sale-3218681/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
