@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Locks A Third Of The Roster For Some Players While Blizzard Tries Putting Out Fires [Update: Game Down]](https://kotaku.com/overwatch-2-torbjorn-bastion-roster-locked-heroes-bugs-1849640751)
- - [2K Customer Data Was Stolen, Sold Online After Support Desk Scam](https://kotaku.com/2k-hack-scam-malware-support-desk-email-1849640771)
- - [Overwatch 2 temporarily loses Bastion and Torbjörn](https://www.pcgamer.com/overwatch-2-temporarily-loses-bastion-and-torbjorn)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 10&rpar;](https://news.xbox.com/en-us/2022/10/10/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-10/)
+ - [Overwatch 2 Accidentally Locked A Third Of The Roster For Some Players As Blizzard Tries Putting Out Fires [Update]](https://kotaku.com/overwatch-2-torbjorn-bastion-roster-locked-heroes-bugs-1849640751)
+ - [2K Customer Data Was Stolen, Sold Online After Support Desk Scam](https://kotaku.com/2k-hack-scam-malware-support-desk-email-1849640771)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
