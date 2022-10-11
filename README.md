@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lowest price ever: Microsoft Office for Mac Home &amp; Business 2021 drops to $35.99](https://appleinsider.com/articles/22/10/01/lowest-price-ever-microsoft-office-for-mac-home-business-2021-drops-to-3599?utm_medium=rss)
- - [Airwallex, which provides cross-border banking and other financial services for businesses, raised a $100M Series E2, bringing its total funding to over $900M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221010/p24#a221010p24)
- - [Keychron Q8 Review: A good starter ergonomic &amp; mechanical keyboard](https://appleinsider.com/articles/22/10/10/keychron-q8-review-an-alice-layout-mechanical-keyboard-open-to-customization?utm_medium=rss)<!-- TECH:END -->
+ - [Unsealed court docs: Peiter Zatko said he burned 10 notebooks and deleted 100 computer files at the behest of Twitter managers as part of his severance package &lpar;Jef Feeley/Bloomberg&rpar;](http://www.techmeme.com/221010/p25#a221010p25)
+ - [iOS 16.0.3 &amp; watchOS 9.0.2 updates arrive with bug &amp; security fixes](https://appleinsider.com/articles/22/10/10/apple-continues-hot-fix-releases-with-ios-1603-watchos-902?utm_medium=rss)
+ - [Jony Ive and Apple reunite for Apple TV+ animated short](https://appleinsider.com/articles/22/10/10/jony-ive-and-apple-reunite-for-apple-tv-animated-short?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
