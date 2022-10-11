@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wemen bad...](http://9gag.com/gag/a5XP6dr)
- - ⏩ [The bomb has been planted...and defused](http://9gag.com/gag/aVbW0gv)
- - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 💣 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
+ - ⏩ [Kyiv 10.10.22, Pure terror](http://9gag.com/gag/axoZ91b)
+ - 👉 [Wemen bad...](http://9gag.com/gag/a5XP6dr)<!-- MEMES:END -->
 
 ---
 
