@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We finally got footage showing a DPRK officer arresting a citizen for laughing](http://9gag.com/gag/aVbWYZ8)
- - ⏩ [Brace yourself, winter is coming](http://9gag.com/gag/aqeNKnL)
- - 👉 [Gf: you can&#39;t possibly think you gonna post a trash bin and expect them to understand this reference. Me: I know those guys](http://9gag.com/gag/aNwZ034)<!-- MEMES:END -->
+ - 💣 [Trying styles](http://9gag.com/gag/aoK0e7A)
+ - ⏩ [We&#39;ve come a long way](http://9gag.com/gag/a04LNPO)
+ - 👉 [Bitter dreams](http://9gag.com/gag/az2Ex7z)<!-- MEMES:END -->
 
 ---
 
