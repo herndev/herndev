@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 Battle Pass: all the rewards and how much it costs](https://www.pcgamer.com/overwatch-2-battle-pass)
- - [A Plague Tale: Requiem system requirements are surprisingly high despite no 4K spec](https://www.pcgamer.com/a-plague-tale-requiem-pc-system-requirements)
- - [Real-time strategy is back from the brink of death](https://www.pcgamer.com/real-time-strategy-is-back-from-the-brink-of-death)<!-- GAME:END -->
+ - [EA Sports PGA Tour looks gorgeous in first gameplay teaser](https://www.polygon.com/23398692/ea-sports-pga-tour-trailer-ps5-xbox-series-x-pc)
+ - [The best Amazon Early Access gaming laptop deals](https://www.pcgamer.com/amazon-prime-day-gaming-laptop-deals-2022)
+ - [I hope RTX 3060 and RTX 3050-powered gaming laptops stay under $1,000](https://www.pcgamer.com/cheap-gaming-laptop-deals-prime-day-early-access-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
