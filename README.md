@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The difference](http://9gag.com/gag/amA0W7o)
- - ⏩ [Almost finished! Only have to do the orange fish next](http://9gag.com/gag/ay20QxY)
- - 👉 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)<!-- MEMES:END -->
+ - 💣 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
+ - ⏩ [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
+ - 👉 [Kenyon Martin called out Jeremy Lin for his hair and Lin had a wholesome response](http://9gag.com/gag/aGEwygK)<!-- MEMES:END -->
 
 ---
 
