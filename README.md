@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truck goes brum brum](http://9gag.com/gag/aNwZ9wr)
- - ⏩ [Devil](http://9gag.com/gag/amA0154)
+ - 💣 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - ⏩ [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
  - 👉 [Pvp server](http://9gag.com/gag/a04LXZB)<!-- MEMES:END -->
 
 ---
