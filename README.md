@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)
- - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [Best gaming laptop in 2022: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
+ - [Amazon faces a wave of walkouts and strikes as it heads into the season of sales](https://www.theverge.com/2022/10/12/23400847/amazon-prime-day-walkouts-strikes-labor-unions)
+ - [54 Best Prime Day Kitchen and Home Deals &lpar;2022&rpar;: Vacuums, Mattresses, Cookware](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2022-5/)
+ - [The best deals from Walmart’s competing Prime Day event](https://www.theverge.com/23398472/walmart-sale-best-deals-prime-day-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
