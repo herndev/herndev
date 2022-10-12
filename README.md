@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roku is now a smart home company with lights, cameras, and more](https://www.androidauthority.com/roku-smart-home-3219435/)
- - [Windows 11 getting iCloud Photos support plus Apple Music &amp; TV apps](https://appleinsider.com/articles/22/10/12/windows-11-getting-icloud-photos-support-plus-apple-music-tv-apps?utm_medium=rss)
- - [Everyone walks differently — so this exoskeleton adjusts on the fly](https://www.theverge.com/2022/10/12/23399161/robotic-exoskeleton-walking-assistance-data-model)<!-- TECH:END -->
+ - [The best PC accessory deals from Amazon’s fall Prime Day event](https://www.theverge.com/23393250/amazon-prime-early-access-sale-pc-accessories-computer-2022)
+ - [Microsoft Edge’s Workspaces feature lets you share a group of tabs with a single link](https://www.theverge.com/2022/10/12/23400285/microsoft-edge-workspaces-tab-groups-shopping-sidebar-typosquatting-security)
+ - [New Microsoft 365 app replaces Microsoft’s Office app with new features and design](https://www.theverge.com/2022/10/12/23400453/microsoft-office-app-windows-microsoft-365-rebranding)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
