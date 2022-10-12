@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Bunch Of Great Assassin&#39;s Creed Games Flood PS Plus This Month](https://kotaku.com/assassins-creed-dragon-quest-ps-plus-ps4-ps5-1849649574)
- - [Dwayne Johnson says The Rock’s legendary heel turn inspired Black Adam](https://www.polygon.com/23400861/dwayne-johnson-interview-black-adam-the-rock-heel-turn)
- - [Kids on Bikes’ new edition adds more action to the ’80s adventure RPG](https://www.polygon.com/tabletop-games/23401090/kids-on-bikes-second-edition-kickstarter-tabletop-games)<!-- GAME:END -->
+ - [Science Has Wrought A Lab-Grown Gamer Brain That Plays Pong](https://kotaku.com/scientist-pong-lab-grown-brain-experiment-1849649970)
+ - [The 13 Best &lpar;Not Scary&rpar; Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
+ - [I didn&#39;t create a disaster in this complex spaceship colony sim: It started that way](https://www.pcgamer.com/i-didnt-create-a-disaster-in-this-complex-spaceship-colony-sim-it-started-that-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
