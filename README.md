@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
- - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
- - [Amazon reissues its best $400 discount on Apple MacBook Pros](https://appleinsider.com/articles/22/10/12/amazon-reissues-its-best-400-discount-on-apple-macbook-pros?utm_medium=rss)<!-- TECH:END -->
+ - [The best smart home deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
+ - [The best headphone deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
+ - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
