@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Science Has Wrought A Lab-Grown Gamer Brain That Plays Pong](https://kotaku.com/scientist-pong-lab-grown-brain-experiment-1849649970)
- - [The 13 Best &lpar;Not Scary&rpar; Games To Play This Halloween Season](https://kotaku.com/the-best-not-scary-games-to-play-on-halloween-1844512015)
- - [I didn&#39;t create a disaster in this complex spaceship colony sim: It started that way](https://www.pcgamer.com/i-didnt-create-a-disaster-in-this-complex-spaceship-colony-sim-it-started-that-way)<!-- GAME:END -->
+ - [The best Amazon Prime Day Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
+ - [&#39;Strange things began to happen&#39;—how a Ukrainian indie studio saved its old game from the kiss of death](https://www.pcgamer.com/strange-things-began-to-happenhow-a-ukrainian-indie-studio-saved-its-old-game-from-the-kiss-of-death)
+ - [CD Projekt is helping Stadia players rescue their save files from annihilation](https://www.pcgamer.com/cd-projekt-is-helping-stadia-players-rescue-their-save-files-from-annihilation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
