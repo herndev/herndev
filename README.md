@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Legend](http://9gag.com/gag/a8qYDRO)
- - ⏩ [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
- - 👉 [Best use of a 360 cam](http://9gag.com/gag/az2E5ep)<!-- MEMES:END -->
+ - 💣 [Rob Halford in court singing Better by You, Better Than Me because parents believed the song contained subliminal messages.](http://9gag.com/gag/axoZ6MM)
+ - ⏩ [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
+ - 👉 [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)<!-- MEMES:END -->
 
 ---
 
