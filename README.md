@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
- - [Wordle is Great, But Waffle Is the Spinoff You Should Still Be Playing     - CNET](https://www.cnet.com/culture/internet/wordle-is-great-but-waffle-is-the-spinoff-you-should-still-be-playing/#ftag=CAD590a51e)
- - [Financial Stability Board publishes a proposed crypto regulation framework for public consultation until December 15, plans to finalize suggestions by mid-2023 &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/221011/p52#a221011p52)<!-- TECH:END -->
+ - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [Sources: health coaching app developer Noom, reportedly valued at $3.7B in May 2021, laid off 10% of its staff, or ~500 people, mostly from its coaching team &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221011/p53#a221011p53)
+ - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
