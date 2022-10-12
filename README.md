@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)
- - [Overwatch 2 double XP weekends are coming to make good on launch woes](https://www.pcgamer.com/overwatch-2-double-xp-weekends-are-coming-to-make-good-on-launch-woes)
- - [This underrated Amazon Prime benefit could save you big money during Prime Day Early Access](https://www.pcgamer.com/amazon-prime-day-warehouse-deals)<!-- GAME:END -->
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/11/essential-picks-promotion-comes-to-playstation-store-3/)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/11/essential-picks-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
