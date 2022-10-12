@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 480 answer and hint: Wednesday, October 12](https://www.pcgamer.com/todays-wordle-480-answer-hint)
- - [LG to start producing more W-OLED gaming screens](https://www.pcgamer.com/lg-to-start-producing-more-w-oled-gaming-screens)
- - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)<!-- GAME:END -->
+ - [How to get the End of the Rainbow transmat in Destiny 2](https://www.pcgamer.com/destiny-2-end-of-the-rainbow-transmat)
+ - [How to create and destroy chrome structures in Fortnite](https://www.pcgamer.com/fortnite-destroy-chrome-structures)
+ - [Best UK Amazon Prime Early Access PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
