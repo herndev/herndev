@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)
- - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
- - [The internet is mocking Meta for announcing its &#39;probably most requested feature&#39;: legs](https://www.pcgamer.com/the-internet-is-mocking-meta-for-announcing-its-probably-most-requested-feature-legs)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s electric gym leader is a streamer, too](https://www.polygon.com/pokemon/23400401/pokemon-scarlet-violet-new-trailer-october-2022)
+ - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
+ - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
