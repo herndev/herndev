@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra review: An adventurous expansion](https://www.androidauthority.com/apple-watch-ultra-review-3213896/)
- - [After Roe, abortion collectives along the US-Mexico border are at greater risk](https://www.theverge.com/2022/10/12/23387280/abortion-us-mexico-border-collectives-risk-roe-wade)
- - [Apple in talks to run ads on Apple TV+ shows](https://appleinsider.com/articles/22/10/12/apple-in-talks-to-have-adverts-on-apple-tv-claims-media-industry?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
+ - [Compared: Apple Watch Series 8 vs Google Pixel Watch](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-series-8-vs-google-pixel-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
