@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg thinks Apple is making aggressive moves now to control the metaverse](https://appleinsider.com/articles/22/10/11/zuckerberg-thinks-apple-is-making-aggressive-moves-now-to-control-the-metaverse?utm_medium=rss)
- - [Amazon&#39;s October Prime Day deals: $269 iPad, $223 AirPods Pro 2, $799 MacBook Air &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
+ - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
+ - [Amazon reissues its best $400 discount on Apple MacBook Pros](https://appleinsider.com/articles/22/10/12/amazon-reissues-its-best-400-discount-on-apple-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
