@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When California made this legal](http://9gag.com/gag/aWGWpjq)
- - ⏩ [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 💣 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
+ - ⏩ [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
+ - 👉 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
 
 ---
 
