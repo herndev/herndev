@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s plan to build a wholly local supply chain, as its IT minister says the government is &quot;actively encouraging and supporting&quot; Apple&#39;s investments &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/221012/p5#a221012p5)
  - [Intel reportedly planning major layoffs, likely affecting thousands of jobs](https://www.theverge.com/2022/10/12/23400257/intel-layoffs-job-cuts-planned-thousands-declining-pc-market)
- - [Netflix joins the British ratings agency, or BARB, as a full member, publishing independently audited viewing figures on individual shows for the first time &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/221012/p4#a221012p4)
- - [Daily Authority: 🕹️ Google’s still playing games](https://www.androidauthority.com/daily-authority-october-12-2022-3219200/)<!-- TECH:END -->
+ - [Netflix joins the British ratings agency, or BARB, as a full member, publishing independently audited viewing figures on individual shows for the first time &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/221012/p4#a221012p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
