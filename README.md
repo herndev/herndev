@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Point of no return](http://9gag.com/gag/aMErXbX)
- - ⏩ [Canada announces new military aid package for Ukraine. It includes ammunition, communications equipment, armored vehicles, artillery and 500,000 sets of winter clothing and equipment. While Russians freeze in trenches, Ukrainians can dress half a million more troops.](http://9gag.com/gag/aoK0n93)
- - 👉 [Cause Keanu doesn&#39;t want to sell his soul](http://9gag.com/gag/aBd349N)<!-- MEMES:END -->
+ - 💣 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - ⏩ [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - 👉 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)<!-- MEMES:END -->
 
 ---
 
