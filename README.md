@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best PC accessory deals from Amazon’s fall Prime Day event](https://www.theverge.com/23393250/amazon-prime-early-access-sale-pc-accessories-computer-2022)
- - [Microsoft Edge’s Workspaces feature lets you share a group of tabs with a single link](https://www.theverge.com/2022/10/12/23400285/microsoft-edge-workspaces-tab-groups-shopping-sidebar-typosquatting-security)
- - [New Microsoft 365 app replaces Microsoft’s Office app with new features and design](https://www.theverge.com/2022/10/12/23400453/microsoft-office-app-windows-microsoft-365-rebranding)<!-- TECH:END -->
+ - [Check out the big Chromebook deals during the Amazon Prime Early Access Sale](https://www.androidauthority.com/chromebook-deals-amazon-prime-early-access-sale-3219502/)
+ - [The top 5 headphone deals of the Prime Early Access Sale](https://www.androidauthority.com/headphone-deals-prime-early-access-sale-3219453/)
+ - [Benchmarked: The Google Tensor G2 versus the competition](https://www.androidauthority.com/google-tensor-g2-benchmark-test-3219452/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
