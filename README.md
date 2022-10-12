@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077 Mod Lets You Experience Your Brain On Cyberpsychosis, Just Like The Netflix Anime](https://kotaku.com/cyberpunk-2077-edgerunners-cyberpsychosis-nexus-mod-1849648388)
- - [Dimension 20 is dropping the cuddly act with a new hardcore horror D&amp;D actual play series](https://www.polygon.com/23398592/dimension-20-neverafter-premiere-date-cast-dm-brenna-lee-mulligan-miniatures-dropout-subscription)
- - [30 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Andor is already one of Star Wars’ very best](https://www.polygon.com/23400643/andor-best-star-wars)
+ - [The Rock Gets Fortnite Skin For Movie In The Works For 15 Years](https://kotaku.com/fortnite-skin-black-adam-dc-the-rock-new-comic-book-1849648640)
+ - [House of the Dragon and Game of Thrones aren’t really part of the same timeline anymore](https://www.polygon.com/23399493/house-dragon-game-thrones-endings-timeline)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
