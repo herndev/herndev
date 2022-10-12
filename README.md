@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 3 hits PC, but it&#39;s the Switch version for some reason](https://www.pcgamer.com/no-more-heroes-3-is-now-on-pc-but-its-the-switch-version-for-some-reason)
- - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
- - [New Interview With The Vampire Show Encourages Fanfic, Anne Rice&#39;s Spirit Likely Furious](https://kotaku.com/interview-with-vampire-fanfic-anne-rice-amc-lestat-2022-1849649058)<!-- GAME:END -->
+ - [A Bunch Of Great Assassin&#39;s Creed Games Flood PS Plus This Month](https://kotaku.com/assassins-creed-dragon-quest-ps-plus-ps4-ps5-1849649574)
+ - [Dwayne Johnson says The Rock’s legendary heel turn inspired Black Adam](https://www.polygon.com/23400861/dwayne-johnson-interview-black-adam-the-rock-heel-turn)
+ - [Kids on Bikes’ new edition adds more action to the ’80s adventure RPG](https://www.polygon.com/tabletop-games/23401090/kids-on-bikes-second-edition-kickstarter-tabletop-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
