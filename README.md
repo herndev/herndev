@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is too cute \ud83e\udd70](http://9gag.com/gag/a04L68q)
- - ⏩ [Okay that&#39;s something you don&#39;t see everyday](http://9gag.com/gag/aVbWEAv)
- - 👉 [Surprise](http://9gag.com/gag/a9qLv81)<!-- MEMES:END -->
+ - 💣 [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
+ - ⏩ [The sound we can approve.](http://9gag.com/gag/agov1A6)
+ - 👉 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
 
 ---
 
