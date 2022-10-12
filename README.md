@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alex Jones must pay over $964 million for Sandy Hook lies, court rules](https://www.theverge.com/2022/10/12/23378629/alex-jones-connecticut-defamation-trial-penalty-infowars-sandy-hook)
- - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
- - [Catalyst waterproof cases protect AirPods Pro, iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/10/12/catalyst-waterproof-cases-protect-airpods-pro-iphone-14-apple-watch-series-8?utm_medium=rss)<!-- TECH:END -->
+ - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)
+ - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
+ - [Best gaming laptop in 2022: seven laptops to get your game on](https://www.theverge.com/22295181/best-gaming-laptop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
