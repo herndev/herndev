@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 480 answer and hint: Wednesday, October 12](https://www.pcgamer.com/todays-wordle-480-answer-hint)
  - [LG to start producing more W-OLED gaming screens](https://www.pcgamer.com/lg-to-start-producing-more-w-oled-gaming-screens)
- - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)
- - [Overwatch 2 double XP weekends are coming to make good on launch woes](https://www.pcgamer.com/overwatch-2-double-xp-weekends-are-coming-to-make-good-on-launch-woes)<!-- GAME:END -->
+ - [Report: Yu-Gi-Oh!&#39;s Creator Died Trying To Save People From Drowning](https://kotaku.com/yu-gi-oh-yu-gi-oh-kazuki-takahashi-drowning-rescue-1849645933)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
