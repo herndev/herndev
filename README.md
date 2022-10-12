@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft debuts Surface Laptop 5, available in 13.5-inch and 15-inch with Intel&#39;s 12th Gen CPUs, Wi-Fi 6, and Dolby Vision, available October 25 for $1,000+ &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/221012/p24#a221012p24)
- - [Microsoft plans to integrate DALL-E 2 with the newly announced Microsoft Designer app and Image Creator tool in Bing and Microsoft Edge &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221012/p23#a221012p23)
- - [Microsoft details the Surface Pro 9, combining the Pro X and Pro, with an SQ3 Arm chip or Intel&#39;s 12th Gen CPUs, available October 25, starting at $1,000 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221012/p22#a221012p22)<!-- TECH:END -->
+ - [Roku is now a smart home company with lights, cameras, and more](https://www.androidauthority.com/roku-smart-home-3219435/)
+ - [Windows 11 getting iCloud Photos support plus Apple Music &amp; TV apps](https://appleinsider.com/articles/22/10/12/windows-11-getting-icloud-photos-support-plus-apple-music-tv-apps?utm_medium=rss)
+ - [Everyone walks differently — so this exoskeleton adjusts on the fly](https://www.theverge.com/2022/10/12/23399161/robotic-exoskeleton-walking-assistance-data-model)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
