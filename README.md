@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play Halo Infinite, Forza Horizon 5, and More Games From the Cloud on More Devices Starting Today](https://news.xbox.com/en-us/2022/10/12/play-more-games-from-the-cloud-on-more-devices-today/)
- - [The new shooter from the makers of Bulletstorm is delayed to 2023](https://www.pcgamer.com/the-new-shooter-from-the-makers-of-bulletstorm-is-delayed-to-2023)
- - [PlayStation Plus Game Catalog lineup for October: Grand Theft Auto: Vice City – The Definitive Edition, Dragon Quest XI S: Echoes of an Elusive Age, Assassin’s Creed Odyssey](https://blog.playstation.com/2022/10/12/playstation-plus-game-catalog-lineup-for-october-grand-theft-auto-vice-city-the-definitive-edition-dragon-quest-xi-s-echoes-of-an-elusive-age/)<!-- GAME:END -->
+ - [Cyberpunk 2077 Mod Lets You Experience Your Brain On Cyberpsychosis, Just Like The Netflix Anime](https://kotaku.com/cyberpunk-2077-edgerunners-cyberpsychosis-nexus-mod-1849648388)
+ - [Dimension 20 is dropping the cuddly act with a new hardcore horror D&amp;D actual play series](https://www.polygon.com/23398592/dimension-20-neverafter-premiere-date-cast-dm-brenna-lee-mulligan-miniatures-dropout-subscription)
+ - [30 great horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
