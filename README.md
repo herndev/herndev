@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Its an idea](http://9gag.com/gag/aMErXYR)
- - ⏩ [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)
- - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 💣 [The difference](http://9gag.com/gag/amA0W7o)
+ - ⏩ [Money shot right there!](http://9gag.com/gag/ay20WAr)
+ - 👉 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
 
 ---
 
