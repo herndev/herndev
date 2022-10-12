@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon faces a wave of walkouts and strikes as it heads into the season of sales](https://www.theverge.com/2022/10/12/23400847/amazon-prime-day-walkouts-strikes-labor-unions)
- - [54 Best Prime Day Kitchen and Home Deals &lpar;2022&rpar;: Vacuums, Mattresses, Cookware](https://www.wired.com/story/best-amazon-prime-day-smart-home-kitchen-deals-2022-5/)
- - [The best deals from Walmart’s competing Prime Day event](https://www.theverge.com/23398472/walmart-sale-best-deals-prime-day-tech-gadgets-2022)<!-- TECH:END -->
+ - [The best laptop deals from Amazon’s fall Prime Day event](https://www.theverge.com/23398463/amazon-prime-deals-best-laptop-deals-sale-apple-lenovo-2022)
+ - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
+ - [Sources: US chip equipment suppliers are pausing business activities and pulling out staff based at China&#39;s YMTC, following US curbs on China&#39;s chip sector &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221012/p44#a221012p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
