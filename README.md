@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Apologizes For Rocky Overwatch 2 Launch With Free Skin, Charm, More](https://kotaku.com/overwatch-2-reaper-skin-charm-double-xp-torb-bastion-1849645467)
- - [Google Kills Cloud Gaming Service, Announces Cloud Gaming Laptops](https://kotaku.com/chromebook-google-geforce-now-xbox-cloud-gaming-amazon-1849645405)
- - [Forget Prime Day, Criterion&#39;s 50% off sale is the real steal today](https://www.pcgamer.com/forget-prime-day-criterions-50-off-sale-is-the-real-steal-today)<!-- GAME:END -->
+ - [This underrated Amazon Prime benefit could save you big money during Prime Day Early Access](https://www.pcgamer.com/amazon-prime-day-warehouse-deals)
+ - [The best Amazon Prime Day Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
+ - [Essential Picks promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/11/essential-picks-promotion-comes-to-playstation-store-3/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
