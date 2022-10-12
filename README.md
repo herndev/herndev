@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Prime Early Access Sale: $269 iPad, $223 AirPods Pro 2, $225 off Peloton Bike &amp; more](https://appleinsider.com/articles/22/10/11/amazons-october-prime-day-deals-269-ipad-235-airpods-pro-2-799-macbook-air-more?utm_medium=rss)
- - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
- - [Compared: Apple Watch Series 8 vs Google Pixel Watch](https://appleinsider.com/inside/apple-watch-series-8/vs/compared-apple-watch-series-8-vs-google-pixel-watch?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft debuts Surface Laptop 5, available in 13.5-inch and 15-inch with Intel&#39;s 12th Gen CPUs, Wi-Fi 6, and Dolby Vision, available October 25 for $1,000+ &lpar;Sam Rutherford/Engadget&rpar;](http://www.techmeme.com/221012/p24#a221012p24)
+ - [Microsoft plans to integrate DALL-E 2 with the newly announced Microsoft Designer app and Image Creator tool in Bing and Microsoft Edge &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221012/p23#a221012p23)
+ - [Microsoft details the Surface Pro 9, combining the Pro X and Pro, with an SQ3 Arm chip or Intel&#39;s 12th Gen CPUs, available October 25, starting at $1,000 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221012/p22#a221012p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
