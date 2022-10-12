@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s electric gym leader is a streamer, too](https://www.polygon.com/pokemon/23400401/pokemon-scarlet-violet-new-trailer-october-2022)
- - [Best Amazon Prime Day Early Access graphics card deals](https://www.pcgamer.com/amazon-prime-day-graphics-card-deals)
- - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)<!-- GAME:END -->
+ - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)
+ - [Final Fantasy 7’s battle royale to shut down in January](https://www.polygon.com/23400506/final-fantasy-7-the-first-soldier-ceasing-service-jan-2023)
+ - [Cultic might be the year&#39;s grungiest retro FPS](https://www.pcgamer.com/cultic-might-be-the-years-grungiest-retro-fps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
