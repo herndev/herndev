@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple holds early discussions with media agencies over monetizing its original video content through ads, possibly as early as 2023 &lpar;Digiday&rpar;](http://www.techmeme.com/221012/p34#a221012p34)
- - [Here’s when Android 13 is coming to the Galaxy S22](https://www.androidauthority.com/galaxy-s22-update-3219822/)
- - [Apple Store union must negotiate to get new employee perks](https://appleinsider.com/articles/22/10/12/apple-store-union-must-negotiate-to-get-new-employee-perks?utm_medium=rss)<!-- TECH:END -->
+ - [Alex Jones must pay over $964 million for Sandy Hook lies, court rules](https://www.theverge.com/2022/10/12/23378629/alex-jones-connecticut-defamation-trial-penalty-infowars-sandy-hook)
+ - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
+ - [Catalyst waterproof cases protect AirPods Pro, iPhone 14, Apple Watch Series 8](https://appleinsider.com/articles/22/10/12/catalyst-waterproof-cases-protect-airpods-pro-iphone-14-apple-watch-series-8?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
