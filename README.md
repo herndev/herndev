@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Check out the big Chromebook deals during the Amazon Prime Early Access Sale](https://www.androidauthority.com/chromebook-deals-amazon-prime-early-access-sale-3219502/)
- - [The top 5 headphone deals of the Prime Early Access Sale](https://www.androidauthority.com/headphone-deals-prime-early-access-sale-3219453/)
- - [Benchmarked: The Google Tensor G2 versus the competition](https://www.androidauthority.com/google-tensor-g2-benchmark-test-3219452/)<!-- TECH:END -->
+ - [Amazon&#39;s Prime Early Access iPad deals end tonight, save up to $250 instantly](https://appleinsider.com/articles/22/10/12/amazons-prime-early-access-ipad-deals-end-tonight-save-up-to-250-instantly?utm_medium=rss)
+ - [Business travel company TripActions raised a Series G of $154M in equity at a $9.2B valuation, up from $7.25B in October 2021, and $150M in structured financing &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221012/p32#a221012p32)
+ - [Don’t worry, the Pixel 7 fingerprint scanner is totally fine](https://www.androidauthority.com/google-pixel-7-fingerprint-scanner-test-3218912/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
