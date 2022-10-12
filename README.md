@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [TikTok says it will take prompt action against &quot;exploitative begging&quot;, after an investigation found refugees in Syria pleading for digital gifts on the platform &lpar;BBC&rpar;](http://www.techmeme.com/221012/p1#a221012p1)
  - [The best deals from Amazon’s fall Prime Day event](https://www.theverge.com/23391505/amazon-prime-deals-best-sale-tech-gadgets-headphones-laptops-games-2022)
- - [Sources: health coaching app developer Noom, reportedly valued at $3.7B in May 2021, laid off 10% of its staff, or ~500 people, mostly from its coaching team &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221011/p53#a221011p53)
- - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)<!-- TECH:END -->
+ - [Two Jupiter Moons Shine in Most Detailed Images Ever Taken From Earth     - CNET](https://www.cnet.com/science/space/two-jupiter-moons-shine-in-most-detailed-images-ever-taken-from-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
