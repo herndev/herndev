@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smart home deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398309/amazon-prime-sale-best-smart-home-device-google-alexa-deals-2022)
- - [The best headphone deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23398304/amazon-prime-deals-best-headphone-earbuds-2022)
- - [The best TV deals from Amazon’s Prime Early Access Sale](https://www.theverge.com/23391507/amazon-prime-early-access-sale-best-tv-deals-2022)<!-- TECH:END -->
+ - [The Verge Guide to Amazon’s Prime Early Access Sale](https://www.theverge.com/23397287/amazon-october-prime-day-early-access-sale-deals-guide-2022)
+ - [Wordle is Great, But Waffle Is the Spinoff You Should Still Be Playing     - CNET](https://www.cnet.com/culture/internet/wordle-is-great-but-waffle-is-the-spinoff-you-should-still-be-playing/#ftag=CAD590a51e)
+ - [Financial Stability Board publishes a proposed crypto regulation framework for public consultation until December 15, plans to finalize suggestions by mid-2023 &lpar;Huw Jones/Reuters&rpar;](http://www.techmeme.com/221011/p52#a221011p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
