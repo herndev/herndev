@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)
- - [Final Fantasy 7’s battle royale to shut down in January](https://www.polygon.com/23400506/final-fantasy-7-the-first-soldier-ceasing-service-jan-2023)
- - [Cultic might be the year&#39;s grungiest retro FPS](https://www.pcgamer.com/cultic-might-be-the-years-grungiest-retro-fps)<!-- GAME:END -->
+ - [VTubers Banned From YouTube After Streaming Splatoon 3 Porn [Update]](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)
+ - [Colorful GeForce RTX 4090 NB EX-V](https://www.pcgamer.com/colorful-geforce-rtx-4090-nb-ex-v)
+ - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
