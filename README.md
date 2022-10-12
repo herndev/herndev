@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
- - ⏩ [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)
- - 👉 [The difference](http://9gag.com/gag/amA0W7o)<!-- MEMES:END -->
+ - 💣 [Devil](http://9gag.com/gag/amA0154)
+ - ⏩ [The difference](http://9gag.com/gag/amA0W7o)
+ - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
 
 ---
 
