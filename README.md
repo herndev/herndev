@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
- - ⏩ [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)
- - 👉 [The difference](http://9gag.com/gag/amA0W7o)<!-- MEMES:END -->
+ - 💣 [This is too cute \ud83e\udd70](http://9gag.com/gag/a04L68q)
+ - ⏩ [If it wasnt posted yet, there it is, if its a repost, feel free to downvote](http://9gag.com/gag/ap90PqW)
+ - 👉 [Surprise](http://9gag.com/gag/a9qLv81)<!-- MEMES:END -->
 
 ---
 
