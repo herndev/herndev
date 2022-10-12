@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - ⏩ [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)
+ - 💣 [Right or Left?](http://9gag.com/gag/a8qYA4Q)
+ - ⏩ [Devil](http://9gag.com/gag/amA0154)
  - 👉 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)<!-- MEMES:END -->
 
 ---
