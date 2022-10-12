@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Amazon Prime Day Early Access gaming PC deals](https://www.pcgamer.com/amazon-prime-day-gaming-pc-deals-2022)
- - [&#39;Strange things began to happen&#39;—how a Ukrainian indie studio saved its old game from the kiss of death](https://www.pcgamer.com/strange-things-began-to-happenhow-a-ukrainian-indie-studio-saved-its-old-game-from-the-kiss-of-death)
- - [CD Projekt is helping Stadia players rescue their save files from annihilation](https://www.pcgamer.com/cd-projekt-is-helping-stadia-players-rescue-their-save-files-from-annihilation)<!-- GAME:END -->
+ - [Cartoon Network is not dead, says Warner Bros. — but its future is uncertain](https://www.polygon.com/23401614/cartoon-network-studios-layoffs-shut-down-david-zaslav-warner-bros)
+ - [Crossplay tensions simmer as Overwatch 2 controller players discover aim assist is disabled against PC](https://www.pcgamer.com/crossplay-tensions-simmer-as-overwatch-2-controller-players-discover-aim-assist-is-disabled-against-pc)
+ - [Yu-Gi-Oh! creator died while attempting to rescue drowning swimmers, US military says](https://www.pcgamer.com/yu-gi-oh-creator-died-while-attempting-to-rescue-drowning-swimmers-us-military-says)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
