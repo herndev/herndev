@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rob Halford in court singing Better by You, Better Than Me because parents believed the song contained subliminal messages.](http://9gag.com/gag/axoZ6MM)
- - ⏩ [Jenna Fischer](http://9gag.com/gag/a2KY8Ad)
- - 👉 [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)<!-- MEMES:END -->
+ - 💣 [The difference](http://9gag.com/gag/amA0W7o)
+ - ⏩ [Almost finished! Only have to do the orange fish next](http://9gag.com/gag/ay20QxY)
+ - 👉 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)<!-- MEMES:END -->
 
 ---
 
