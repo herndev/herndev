@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s One UI design is getting stale](https://www.androidauthority.com/samsung-one-ui-stale-3210368/)
- - [India will get 5G on iPhones from December 2022](https://appleinsider.com/articles/22/10/12/india-will-get-5g-on-iphones-from-december-2022?utm_medium=rss)
- - [The UK&#39;s CMA details its concerns with Microsoft&#39;s Activision acquisition, including withholding games from rivals; Microsoft argues Sony is the dominant player &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/221012/p6#a221012p6)<!-- TECH:END -->
+ - [Apple Watch Ultra review: An adventurous expansion](https://www.androidauthority.com/apple-watch-ultra-review-3213896/)
+ - [After Roe, abortion collectives along the US-Mexico border are at greater risk](https://www.theverge.com/2022/10/12/23387280/abortion-us-mexico-border-collectives-risk-roe-wade)
+ - [Apple in talks to run ads on Apple TV+ shows](https://appleinsider.com/articles/22/10/12/apple-in-talks-to-have-adverts-on-apple-tv-claims-media-industry?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
