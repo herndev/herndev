@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
- - ⏩ [Emotional damage.](http://9gag.com/gag/a7qy2pb)
- - 👉 [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)<!-- MEMES:END -->
+ - 💣 [Legend](http://9gag.com/gag/a8qYDRO)
+ - ⏩ [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
+ - 👉 [Best use of a 360 cam](http://9gag.com/gag/az2E5ep)<!-- MEMES:END -->
 
 ---
 
