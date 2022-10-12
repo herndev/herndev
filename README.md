@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the End of the Rainbow transmat in Destiny 2](https://www.pcgamer.com/destiny-2-end-of-the-rainbow-transmat)
- - [How to create and destroy chrome structures in Fortnite](https://www.pcgamer.com/fortnite-destroy-chrome-structures)
- - [Best UK Amazon Prime Early Access PC gaming deals](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)<!-- GAME:END -->
+ - [Here&#39;s where to buy Nvidia RTX 4090 cards today](https://www.pcgamer.com/where-to-buy-rtx-4090)
+ - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
+ - [The internet is mocking Meta for announcing its &#39;probably most requested feature&#39;: legs](https://www.pcgamer.com/the-internet-is-mocking-meta-for-announcing-its-probably-most-requested-feature-legs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
