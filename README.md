@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
- - ⏩ [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)
- - 👉 [When California made this legal](http://9gag.com/gag/aWGWpjq)<!-- MEMES:END -->
+ - 💣 [Its an idea](http://9gag.com/gag/aMErXYR)
+ - ⏩ [Iraq veteran confronts George Bush](http://9gag.com/gag/axoZvWW)
+ - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
 
 ---
 
