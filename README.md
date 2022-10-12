@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [VTubers Banned From YouTube After Streaming Splatoon 3 Porn [Update]](https://kotaku.com/splatoon-3-porn-stream-nintendo-vtuber-switch-1849645153)
- - [Colorful GeForce RTX 4090 NB EX-V](https://www.pcgamer.com/colorful-geforce-rtx-4090-nb-ex-v)
- - [How Splatoon’s Inklings became fashion icons](https://www.polygon.com/23385706/splatoon-3-inkling-outfits-fashion)<!-- GAME:END -->
+ - [Play Halo Infinite, Forza Horizon 5, and More Games From the Cloud on More Devices Starting Today](https://news.xbox.com/en-us/2022/10/12/play-more-games-from-the-cloud-on-more-devices-today/)
+ - [The new shooter from the makers of Bulletstorm is delayed to 2023](https://www.pcgamer.com/the-new-shooter-from-the-makers-of-bulletstorm-is-delayed-to-2023)
+ - [PlayStation Plus Game Catalog lineup for October: Grand Theft Auto: Vice City – The Definitive Edition, Dragon Quest XI S: Echoes of an Elusive Age, Assassin’s Creed Odyssey](https://blog.playstation.com/2022/10/12/playstation-plus-game-catalog-lineup-for-october-grand-theft-auto-vice-city-the-definitive-edition-dragon-quest-xi-s-echoes-of-an-elusive-age/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
