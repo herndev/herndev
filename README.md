@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s Prime Early Access iPad deals end tonight, save up to $250 instantly](https://appleinsider.com/articles/22/10/12/amazons-prime-early-access-ipad-deals-end-tonight-save-up-to-250-instantly?utm_medium=rss)
- - [Business travel company TripActions raised a Series G of $154M in equity at a $9.2B valuation, up from $7.25B in October 2021, and $150M in structured financing &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221012/p32#a221012p32)
- - [Don’t worry, the Pixel 7 fingerprint scanner is totally fine](https://www.androidauthority.com/google-pixel-7-fingerprint-scanner-test-3218912/)<!-- TECH:END -->
+ - [Sources: Apple holds early discussions with media agencies over monetizing its original video content through ads, possibly as early as 2023 &lpar;Digiday&rpar;](http://www.techmeme.com/221012/p34#a221012p34)
+ - [Here’s when Android 13 is coming to the Galaxy S22](https://www.androidauthority.com/galaxy-s22-update-3219822/)
+ - [Apple Store union must negotiate to get new employee perks](https://appleinsider.com/articles/22/10/12/apple-store-union-must-negotiate-to-get-new-employee-perks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
