@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right or Left?](http://9gag.com/gag/a8qYA4Q)
- - ⏩ [Devil](http://9gag.com/gag/amA0154)
- - 👉 [0000000000000 ..Russians found a passport of a Ukrainian,who blew the bridge. ... In Wikipedia , even signature is the same](http://9gag.com/gag/ap90bRp)<!-- MEMES:END -->
+ - 💣 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
+ - ⏩ [Fat activist claims obesity isn&#39;t real because it was made up by middle age white men](http://9gag.com/gag/a6qynzR)
+ - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 ---
 
