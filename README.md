@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s plan to build a wholly local supply chain, as its IT minister says the government is &quot;actively encouraging and supporting&quot; Apple&#39;s investments &lpar;John Reed/Financial Times&rpar;](http://www.techmeme.com/221012/p5#a221012p5)
- - [Intel reportedly planning major layoffs, likely affecting thousands of jobs](https://www.theverge.com/2022/10/12/23400257/intel-layoffs-job-cuts-planned-thousands-declining-pc-market)
- - [Netflix joins the British ratings agency, or BARB, as a full member, publishing independently audited viewing figures on individual shows for the first time &lpar;Jim Waterson/The Guardian&rpar;](http://www.techmeme.com/221012/p4#a221012p4)<!-- TECH:END -->
+ - [Samsung’s One UI design is getting stale](https://www.androidauthority.com/samsung-one-ui-stale-3210368/)
+ - [India will get 5G on iPhones from December 2022](https://appleinsider.com/articles/22/10/12/india-will-get-5g-on-iphones-from-december-2022?utm_medium=rss)
+ - [The UK&#39;s CMA details its concerns with Microsoft&#39;s Activision acquisition, including withholding games from rivals; Microsoft argues Sony is the dominant player &lpar;Christopher Dring/GamesIndustry.biz&rpar;](http://www.techmeme.com/221012/p6#a221012p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
