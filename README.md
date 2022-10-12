@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor is already one of Star Wars’ very best](https://www.polygon.com/23400643/andor-best-star-wars)
- - [The Rock Gets Fortnite Skin For Movie In The Works For 15 Years](https://kotaku.com/fortnite-skin-black-adam-dc-the-rock-new-comic-book-1849648640)
- - [House of the Dragon and Game of Thrones aren’t really part of the same timeline anymore](https://www.polygon.com/23399493/house-dragon-game-thrones-endings-timeline)<!-- GAME:END -->
+ - [No More Heroes 3 hits PC, but it&#39;s the Switch version for some reason](https://www.pcgamer.com/no-more-heroes-3-is-now-on-pc-but-its-the-switch-version-for-some-reason)
+ - [The best Amazon Prime Day Early Access SSD deals](https://www.pcgamer.com/amazon-prime-day-ssd-deals-2022)
+ - [New Interview With The Vampire Show Encourages Fanfic, Anne Rice&#39;s Spirit Likely Furious](https://kotaku.com/interview-with-vampire-fanfic-anne-rice-amc-lestat-2022-1849649058)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
