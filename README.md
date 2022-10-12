@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Devil](http://9gag.com/gag/amA0154)
- - ⏩ [The difference](http://9gag.com/gag/amA0W7o)
- - 👉 [Man arrested for doing exactly what he ordered](http://9gag.com/gag/a5XPQeG)<!-- MEMES:END -->
+ - 💣 [This is too cute \ud83e\udd70](http://9gag.com/gag/a04L68q)
+ - ⏩ [Okay that&#39;s something you don&#39;t see everyday](http://9gag.com/gag/aVbWEAv)
+ - 👉 [Surprise](http://9gag.com/gag/a9qLv81)<!-- MEMES:END -->
 
 ---
 
