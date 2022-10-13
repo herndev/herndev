@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] A founder of a tech startup describes how he made ~$200K last year as a side hustle by ghostwriting tweets for venture capitalists &lpar;@bitech&rpar;](http://www.techmeme.com/221013/p4#a221013p4)
- - [Got a new Pixel Watch? An update is already waiting for you](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [Applied Materials says US export controls on chips and chipmaking tech to China would result in a $250M-$550M loss in net sales in the quarter ending October 30 &lpar;Reuters&rpar;](http://www.techmeme.com/221013/p3#a221013p3)<!-- TECH:END -->
+ - [TSMC cuts its 2022 capital spending target by ~10%, expecting to spend ~$36B on equipment, down from a prior $40B+ estimate, suggesting a deeper tech downturn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221013/p7#a221013p7)
+ - [Research: social media accounts pushing misinformation are targeting users in non-English languages before the US midterms, with scant resistance from platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221013/p6#a221013p6)
+ - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
