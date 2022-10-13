@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The one who started it all](http://9gag.com/gag/a8qY0Kd)
- - ⏩ [Meta-worse](http://9gag.com/gag/ap90dqn)
- - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
+ - 💣 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
+ - ⏩ [Its cancel time](http://9gag.com/gag/aA0rqYo)
+ - 👉 [Cause Keanu doesn&#39;t want to sell his soul](http://9gag.com/gag/aBd349N)<!-- MEMES:END -->
 
 ---
 
