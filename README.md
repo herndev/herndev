@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - ⏩ [You are paid by how much you can entertain](http://9gag.com/gag/aZDxzqn)
- - 👉 [Oh snap](http://9gag.com/gag/amA0Mn2)<!-- MEMES:END -->
+ - 💣 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - ⏩ [The one who started it all](http://9gag.com/gag/a8qY0Kd)
+ - 👉 [The RTX 4090 Reviews Are Out!](http://9gag.com/gag/aXnpVE6)<!-- MEMES:END -->
 
 ---
 
