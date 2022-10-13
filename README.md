@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
- - ⏩ [Life reaching a full circle](http://9gag.com/gag/avQg9ZZ)
- - 👉 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
+ - 💣 [My wife didn&#39;t understand why I took this picture. I told her that I&#39;m the captain](http://9gag.com/gag/aOxbpD6)
+ - ⏩ [Oh snap](http://9gag.com/gag/amA0Mn2)
+ - 👉 [You are paid by how much you can entertain](http://9gag.com/gag/aZDxzqn)<!-- MEMES:END -->
 
 ---
 
