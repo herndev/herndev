@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
- - ⏩ [Its cancel time](http://9gag.com/gag/aA0rqYo)
- - 👉 [Cause Keanu doesn&#39;t want to sell his soul](http://9gag.com/gag/aBd349N)<!-- MEMES:END -->
+ - 💣 [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
+ - ⏩ [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 👉 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)<!-- MEMES:END -->
 
 ---
 
