@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sandmarc releases Titanium Edition band for Apple Watch Ultra](https://appleinsider.com/articles/22/10/13/sandmarc-releases-titanium-edition-band-for-apple-watch-ultra?utm_medium=rss)
- - [Ken Burns Focuses In on America&#39;s Response to the Holocaust     - CNET](https://www.cnet.com/culture/entertainment/ken-burns-focuses-in-on-americas-response-to-the-holocaust/#ftag=CAD590a51e)
- - [NASA Webb Space Telescope Captures Rare Star Duo&#39;s Dusty Memories     - CNET](https://www.cnet.com/science/space/nasa-webb-space-telescope-captures-rare-star-duos-dusty-memories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [I want to skip out on the Disney Plus Skip Intro button](https://www.theverge.com/23402504/disney-plus-skip-intro-button-go-away-ffs)
+ - [Sources: Biden&#39;s crackdown on Chinese tech exports was driven by fears over China using supercomputers and AI to develop weapons and crack encrypted messaging &lpar;New York Times&rpar;](http://www.techmeme.com/221013/p28#a221013p28)
+ - [Decentraland’s billion-dollar ‘metaverse’ reportedly had 38 active users in one day](https://www.theverge.com/2022/10/13/23402418/decentraland-metaverse-empty-38-users-dappradar-wallet-data)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
