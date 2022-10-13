@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google built a spam backdoor for Republicans — and they aren’t using it](https://www.theverge.com/2022/10/13/23403259/google-gmail-republicans-gop-spam-filtering-program-midterms)
- - [Q&amp;A with Zuckerberg about plans to sell the Quest 3 at a break-even or a loss, from $300-$500, to grow the ecosystem, missing a shift to TikTok-like feeds, more &lpar;Stratechery&rpar;](http://www.techmeme.com/221013/p34#a221013p34)
- - [Anker improves MagGo iPhone battery pack with better USB-C location](https://appleinsider.com/articles/22/10/13/anker-improves-maggo-iphone-battery-pack-with-better-usb-c-location?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung SmartThings is now Matter certified](https://www.theverge.com/2022/10/13/23400462/samsung-smartthings-matter-upgrade-hubs)
+ - [A survey of US adults on misinformation: 91% say its spread is a problem, 77% think it increases hate crimes, and 73% say it increases extreme political views &lpar;David Klepper/Associated Press&rpar;](http://www.techmeme.com/221013/p36#a221013p36)
+ - [The best budget laptop of 2022](https://www.theverge.com/22652565/best-cheap-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
