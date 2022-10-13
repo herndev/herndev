@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC cuts its 2022 capital spending target by ~10%, expecting to spend ~$36B on equipment, down from a prior $40B+ estimate, suggesting a deeper tech downturn &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221013/p7#a221013p7)
- - [Research: social media accounts pushing misinformation are targeting users in non-English languages before the US midterms, with scant resistance from platforms &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221013/p6#a221013p6)
- - [Singapore-based Pillow, which helps users in emerging markets save, spend, and invest in cryptocurrency, raised an $18M Series A led by Accel and Quona Capital &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221013/p5#a221013p5)<!-- TECH:END -->
+ - [Here’s an early look at Android’s app archiving feature](https://www.theverge.com/2022/10/13/23402141/google-android-archive-app-feature-leak)
+ - [Sony and Honda plan to start selling their electric cars in the US in 2026](https://www.theverge.com/2022/10/13/23402157/sony-honda-electric-vehicles-evs-timeline-sales-2026)
+ - [Daily Authority: 📱 Key Pixel 7 questions answered](https://www.androidauthority.com/daily-authority-october-13-2022-3220077/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
