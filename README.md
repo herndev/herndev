@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Skate like the wind in OlliOlli World’s final expansion](https://blog.playstation.com/2022/10/13/skate-like-the-wind-in-olliolli-worlds-final-expansion/)
- - [Find Out Who Will Sit Upon the PC Game Pass House of the Dragon Gaming Throne](https://news.xbox.com/en-us/2022/10/13/pc-game-pass-house-of-the-dragon-gaming-throne/)
- - [God of War Ragnarök gets a PS5 bundle in latest hype trailer](https://www.polygon.com/23402380/god-of-war-ragnarok-ps5-bundle-immersion-trailer)<!-- GAME:END -->
+ - [Marvel’s Spider-Man: Miles Morales is coming to PC on November 18](https://blog.playstation.com/2022/10/13/marvels-spider-man-miles-morales-is-coming-to-pc-on-november-18/)
+ - [Free Play Days – Embr, Goat Simulator, and Tour de France 2022](https://news.xbox.com/en-us/2022/10/13/free-play-days-embr-goat-simulator-and-tour-de-france-2022/)
+ - [Here&#39;s what time the Darktide closed beta starts](https://www.pcgamer.com/darktide-beta-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
