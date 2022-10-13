@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happiness is sterrinapiness](http://9gag.com/gag/amA0GRj)
- - ⏩ [When California made this legal](http://9gag.com/gag/aWGWpjq)
- - 👉 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)<!-- MEMES:END -->
+ - 💣 [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
+ - ⏩ [Life reaching a full circle](http://9gag.com/gag/avQg9ZZ)
+ - 👉 [Devil](http://9gag.com/gag/amA0154)<!-- MEMES:END -->
 
 ---
 
