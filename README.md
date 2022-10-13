@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Scientists taught a Petri dish of brain cells to play Pong better than I can](https://www.pcgamer.com/scientists-taught-a-petri-dish-of-brain-cells-to-play-pong-better-than-i-can)
- - [The Best UK Amazon Prime Early Access PC gaming deals that are still live](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [Today&#39;s Wordle 481 answer and hint: Thursday, October 13](https://www.pcgamer.com/todays-wordle-481-answer-hint)<!-- GAME:END -->
+ - [Abomination and She-Hulk’s final scene make Marvel’s least loved film weirdly relevant](https://www.polygon.com/23381028/she-hulks-post-credits-abomination-incredible-hulk)
+ - [Confront The Herald of the Flame in Sea of Thieves’ Eighth Adventure, Live Until October 27](https://news.xbox.com/en-us/2022/10/13/confront-the-herald-of-the-flame-in-sea-of-thieves-eighth-adventure-live-until-october-27/)
+ - [Undecember is a new hardcore hack-and-slash ARPG coming October 12](https://www.pcgamer.com/undecember-is-a-new-hardcore-hack-and-slash-arpg-coming-october-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
