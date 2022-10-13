@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Okay that&#39;s something you don&#39;t see everyday](http://9gag.com/gag/aVbWEAv)
- - ⏩ [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 💣 [An unmissable opportunity!](http://9gag.com/gag/az2EQmK)
+ - ⏩ [The taller the tower the richer the house](http://9gag.com/gag/a8qYzEQ)
+ - 👉 [Love you mom\u2661](http://9gag.com/gag/a8qY2yZ)<!-- MEMES:END -->
 
 ---
 
