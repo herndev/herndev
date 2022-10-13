@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Scientists taught a Petri dish of brain cells to play Pong better than I can](https://www.pcgamer.com/scientists-taught-a-petri-dish-of-brain-cells-to-play-pong-better-than-i-can)
  - [The Best UK Amazon Prime Early Access PC gaming deals that are still live](https://www.pcgamer.com/amazon-prime-day-uk-pc-gaming-deals-2022)
- - [Today&#39;s Wordle 481 answer and hint: Thursday, October 13](https://www.pcgamer.com/todays-wordle-481-answer-hint)
- - [How to have the best Vampire: The Masquerade – Bloodlines experience today](https://www.pcgamer.com/how-to-have-the-best-vampire-the-masqueradebloodlines-experience-today)<!-- GAME:END -->
+ - [Today&#39;s Wordle 481 answer and hint: Thursday, October 13](https://www.pcgamer.com/todays-wordle-481-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
