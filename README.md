@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Finally Has A Modern Phone App](https://kotaku.com/steam-valve-app-ios-android-iphone-chat-new-1849651049)
  - [How to use a PS5 DualSense controller on PC](https://www.pcgamer.com/ps5-dualsense-controller-on-pc)
- - [How to use a Nintendo Switch Pro controller on PC](https://www.pcgamer.com/how-to-use-a-nintendo-switch-pro-controller-on-pc)
- - [New Activision Lawsuit Makes Revenge Porn, Sexual Harassment Allegations](https://kotaku.com/activision-blizzard-lawsuit-sexual-harassment-1849650622)<!-- GAME:END -->
+ - [How to use a Nintendo Switch Pro controller on PC](https://www.pcgamer.com/how-to-use-a-nintendo-switch-pro-controller-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
