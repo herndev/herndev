@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [League of Legends’ newest Champion is K’Sante, a proud hunter from Nazumah](https://www.polygon.com/23403345/league-of-legends-ksante-new-champion-reveal-teaser-trailer-abilities)
- - [Thief Steals Genshin Impact Fan Art Using AI, Demands Credit From Creator](https://kotaku.com/genshin-impact-fanart-ai-generated-stolen-twitch-1849655704)<!-- GAME:END -->
+ - [Elden Ring dataminers uncover crumbs of DLC evidence in latest patch](https://www.pcgamer.com/elden-ring-dataminers-uncover-crumbs-of-dlc-evidence-in-latest-patch)
+ - [Activision Blizzard is facing another sexual harassment lawsuit](https://www.pcgamer.com/activision-blizzard-is-facing-another-sexual-harassment-lawsuit)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
