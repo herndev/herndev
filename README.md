@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Spider-Man: Miles Morales is coming to PC on November 18](https://blog.playstation.com/2022/10/13/marvels-spider-man-miles-morales-is-coming-to-pc-on-november-18/)
- - [Free Play Days – Embr, Goat Simulator, and Tour de France 2022](https://news.xbox.com/en-us/2022/10/13/free-play-days-embr-goat-simulator-and-tour-de-france-2022/)
- - [Here&#39;s what time the Darktide closed beta starts](https://www.pcgamer.com/darktide-beta-time)<!-- GAME:END -->
+ - [Xbox Celebrates the Disability Communities with New Accessibility Updates](https://news.xbox.com/en-us/2022/10/13/xbox-accessibility-showcase-2022/)
+ - [Elden Ring board game reveals Kickstarter launch date, and the hype is off the charts](https://www.polygon.com/23402404/elden-ring-board-game-kickstarter-launch-date-release-date-price)
+ - [Spider-Man: Miles Morales gets detailed system requirements and a November release date](https://www.pcgamer.com/spider-man-miles-morales-pc-release-date-system-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
