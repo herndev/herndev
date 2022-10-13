@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Abomination and She-Hulk’s final scene make Marvel’s least loved film weirdly relevant](https://www.polygon.com/23381028/she-hulks-post-credits-abomination-incredible-hulk)
- - [Confront The Herald of the Flame in Sea of Thieves’ Eighth Adventure, Live Until October 27](https://news.xbox.com/en-us/2022/10/13/confront-the-herald-of-the-flame-in-sea-of-thieves-eighth-adventure-live-until-october-27/)
- - [Undecember is a new hardcore hack-and-slash ARPG coming October 12](https://www.pcgamer.com/undecember-is-a-new-hardcore-hack-and-slash-arpg-coming-october-12)<!-- GAME:END -->
+ - [Skate like the wind in OlliOlli World’s final expansion](https://blog.playstation.com/2022/10/13/skate-like-the-wind-in-olliolli-worlds-final-expansion/)
+ - [Find Out Who Will Sit Upon the PC Game Pass House of the Dragon Gaming Throne](https://news.xbox.com/en-us/2022/10/13/pc-game-pass-house-of-the-dragon-gaming-throne/)
+ - [God of War Ragnarök gets a PS5 bundle in latest hype trailer](https://www.polygon.com/23402380/god-of-war-ragnarok-ps5-bundle-immersion-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
