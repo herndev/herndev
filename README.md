@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based GoHenry, a neobank for 6-18 year olds, raised a &amp;pound;49M+ Series B, and says its 2021 revenue was up 55% YoY to &amp;pound;30.5M and losses up 20x YoY to &amp;pound;30.5M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/221012/p50#a221012p50)
+ - [Trellix: county election workers in two states noted a surge in malicious emails ahead of their primaries, trying to phish users or get them to download malware &lpar;Edward Graham/Nextgov&rpar;](http://www.techmeme.com/221013/p1#a221013p1)
  - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
- - [The best tablet and phone deals from Amazon’s October Prime Day](https://www.theverge.com/23398415/amazon-prime-deals-best-tablet-phone-early-access-sale-2022)<!-- TECH:END -->
+ - [London-based GoHenry, a neobank for 6-18 year olds, raised a &amp;pound;49M+ Series B, and says its 2021 revenue was up 55% YoY to &amp;pound;30.5M and losses up 20x YoY to &amp;pound;30.5M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/221012/p50#a221012p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
