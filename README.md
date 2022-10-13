@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Search for a Pill That Can Help Dogs—and Humans—Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
- - [Mark Zuckerberg&#39;s belief in an &quot;open, interoperable metaverse&quot; stands at odds with his vision being built on corporate partnerships and case-by-case permissions &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221013/p11#a221013p11)
- - [Snag a New Roborock Vacuum and Save Up to $290 With These Deals     - CNET](https://www.cnet.com/deals/snag-a-new-roborock-vacuum-and-save-up-to-290-with-these-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Big Pharma Says Drug Prices Reflect R&amp;D Cost. Researchers Call BS](https://www.wired.com/story/drug-research-pricing/)
+ - [Meta’s VR Headset Harvests Personal Data Right Off Your Face](https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/)
+ - [Celsius Exchange Data Dump Is a Gift to Crypto Sleuths—and Thieves](https://www.wired.com/story/celsius-user-data-dump-crypto-tracing-scammers/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
