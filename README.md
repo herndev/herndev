@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Apple TV+ shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
- - [Best deals from Amazon’s Prime Early Access Sale you can still get](https://www.theverge.com/23402251/amazon-prime-day-2022-best-deals-still-available-headphones-tablets-gaming)
- - [SoundCloud takes a page out of MySpace’s playbook](https://www.theverge.com/2022/10/13/23402306/soundcloud-creator-top-fans-myspace-tiktok)<!-- TECH:END -->
+ - [Sandmarc releases Titanium Edition band for Apple Watch Ultra](https://appleinsider.com/articles/22/10/13/sandmarc-releases-titanium-edition-band-for-apple-watch-ultra?utm_medium=rss)
+ - [Ken Burns Focuses In on America&#39;s Response to the Holocaust     - CNET](https://www.cnet.com/culture/entertainment/ken-burns-focuses-in-on-americas-response-to-the-holocaust/#ftag=CAD590a51e)
+ - [NASA Webb Space Telescope Captures Rare Star Duo&#39;s Dusty Memories     - CNET](https://www.cnet.com/science/space/nasa-webb-space-telescope-captures-rare-star-duos-dusty-memories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
