@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Devil](http://9gag.com/gag/amA0154)
- - ⏩ [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
- - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 💣 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
+ - ⏩ [Cacausus](http://9gag.com/gag/aDY36Vw)
+ - 👉 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)<!-- MEMES:END -->
 
 ---
 
