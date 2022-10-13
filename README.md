@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
- - ⏩ [Oh snap](http://9gag.com/gag/amA0Mn2)
- - 👉 [You are paid by how much you can entertain](http://9gag.com/gag/aZDxzqn)<!-- MEMES:END -->
+ - ⏩ [You are paid by how much you can entertain](http://9gag.com/gag/aZDxzqn)
+ - 👉 [Oh snap](http://9gag.com/gag/amA0Mn2)<!-- MEMES:END -->
 
 ---
 
