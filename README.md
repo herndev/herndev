@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scientists examining the perfectly preserved body of 15 year old \u2018La Doncella\u2019 who died 500 years ago. The frozen bodies of the 22,000 foot summit of Mount Llullaillaco - A volcano near the Chilean border - are among the best preserved mummies ever found.](http://9gag.com/gag/aREPoqq)
- - ⏩ [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
- - 👉 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)<!-- MEMES:END -->
+ - 💣 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)
+ - ⏩ [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)
+ - 👉 [The Rings of Power](http://9gag.com/gag/abvyLEL)<!-- MEMES:END -->
 
 ---
 
