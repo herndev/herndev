@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cartoon Network is not dead, says Warner Bros. — but its future is uncertain](https://www.polygon.com/23401614/cartoon-network-studios-layoffs-shut-down-david-zaslav-warner-bros)
- - [Crossplay tensions simmer as Overwatch 2 controller players discover aim assist is disabled against PC](https://www.pcgamer.com/crossplay-tensions-simmer-as-overwatch-2-controller-players-discover-aim-assist-is-disabled-against-pc)
- - [Yu-Gi-Oh! creator died while attempting to rescue drowning swimmers, US military says](https://www.pcgamer.com/yu-gi-oh-creator-died-while-attempting-to-rescue-drowning-swimmers-us-military-says)<!-- GAME:END -->
+ - [How to use a PS5 DualSense controller on PC](https://www.pcgamer.com/ps5-dualsense-controller-on-pc)
+ - [How to use a Nintendo Switch Pro controller on PC](https://www.pcgamer.com/how-to-use-a-nintendo-switch-pro-controller-on-pc)
+ - [New Activision Lawsuit Makes Revenge Porn, Sexual Harassment Allegations](https://kotaku.com/activision-blizzard-lawsuit-sexual-harassment-1849650622)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
