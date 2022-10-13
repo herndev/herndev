@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I want to skip out on the Disney Plus Skip Intro button](https://www.theverge.com/23402504/disney-plus-skip-intro-button-go-away-ffs)
- - [Sources: Biden&#39;s crackdown on Chinese tech exports was driven by fears over China using supercomputers and AI to develop weapons and crack encrypted messaging &lpar;New York Times&rpar;](http://www.techmeme.com/221013/p28#a221013p28)
- - [Decentraland’s billion-dollar ‘metaverse’ reportedly had 38 active users in one day](https://www.theverge.com/2022/10/13/23402418/decentraland-metaverse-empty-38-users-dappradar-wallet-data)<!-- TECH:END -->
+ - [Netflix says its Basic with Ads tier will cost $6.99 per month and launch on November 3, 2022 in 12 countries, including the US, Australia, Germany, and the UK &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/221013/p30#a221013p30)
+ - [The Verge’s 2022 Fall Gift Guide](https://www.theverge.com/23357267/fall-gift-ideas-2022-tech-gadgets-birthday-anniversary-wedding)
+ - [Netflix’s ad tier will cost $7 a month and launch in November](https://www.theverge.com/2022/10/13/23402725/netflix-basic-with-ads)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
