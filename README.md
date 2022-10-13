@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Deals From Best Buy’s Flash Sale &lpar;2022&rpar;: Headphones, TVs, Apple Devices](https://www.wired.com/story/best-buy-flash-sale-prime-day-rival-sale-2022/)
- - [37 Best Prime Day Deals Under $50 &lpar;2022&rpar;: Cheap Tablets, Streaming Devices, and iPhone Cases](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022-6/)
- - [The Apple Watch Series 8 is still available for $50 off for Prime Day](https://www.theverge.com/2022/10/12/23401663/apple-watch-series-8-amazon-prime-day-early-access-deal-sale)<!-- TECH:END -->
+ - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
+ - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
+ - [Signal will start phasing out SMS and MMS support from its Android app; users have a few months to transition away from SMS and export messages to another app &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221012/p48#a221012p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
