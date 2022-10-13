@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - ⏩ [Same](http://9gag.com/gag/aWGW97d)
- - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
+ - 💣 [Okay that&#39;s something you don&#39;t see everyday](http://9gag.com/gag/aVbWEAv)
+ - ⏩ [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
 
 ---
 
