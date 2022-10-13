@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [One UI 5 features: All the big additions to Samsung’s Android 13 update](https://www.androidauthority.com/one-ui-5-features-3220111/)
- - [Samsung’s One UI 5 is coming soon with some very iOS-like vibes](https://www.theverge.com/2022/10/13/23402910/samsung-one-ui-5-android-13-availability)
- - [The best Chromebook for 2022](https://www.theverge.com/21296102/best-chromebooks)<!-- TECH:END -->
+ - [Google built a spam backdoor for Republicans — and they aren’t using it](https://www.theverge.com/2022/10/13/23403259/google-gmail-republicans-gop-spam-filtering-program-midterms)
+ - [Q&amp;A with Zuckerberg about plans to sell the Quest 3 at a break-even or a loss, from $300-$500, to grow the ecosystem, missing a shift to TikTok-like feeds, more &lpar;Stratechery&rpar;](http://www.techmeme.com/221013/p34#a221013p34)
+ - [Anker improves MagGo iPhone battery pack with better USB-C location](https://appleinsider.com/articles/22/10/13/anker-improves-maggo-iphone-battery-pack-with-better-usb-c-location?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
