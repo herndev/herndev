@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best laptop deals from Amazon’s fall Prime Day event](https://www.theverge.com/23398463/amazon-prime-deals-best-laptop-deals-sale-apple-lenovo-2022)
- - [The best anti-Prime Day tech deals happening at Target](https://www.theverge.com/23386211/target-best-deals-prime-early-access-sale-tech-gadgets-2022)
- - [Sources: US chip equipment suppliers are pausing business activities and pulling out staff based at China&#39;s YMTC, following US curbs on China&#39;s chip sector &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221012/p44#a221012p44)<!-- TECH:END -->
+ - [19 Best Deals From Best Buy’s Flash Sale &lpar;2022&rpar;: Headphones, TVs, Apple Devices](https://www.wired.com/story/best-buy-flash-sale-prime-day-rival-sale-2022/)
+ - [37 Best Prime Day Deals Under $50 &lpar;2022&rpar;: Cheap Tablets, Streaming Devices, and iPhone Cases](https://www.wired.com/story/best-amazon-prime-day-deals-under-50-2022-6/)
+ - [The Apple Watch Series 8 is still available for $50 off for Prime Day](https://www.theverge.com/2022/10/12/23401663/apple-watch-series-8-amazon-prime-day-early-access-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
