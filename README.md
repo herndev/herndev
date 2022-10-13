@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new streaming movies this week on Netflix, Peacock, Apple, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [BMW plans to use AWS tools to manage data from its Neue Klasse platform for connected vehicles; the company says it has roughly 20M connected vehicles in use &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/221013/p22#a221013p22)
- - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
+ - [Big Apple TV+ shows are coming to Blu-ray starting Oct. 31](https://appleinsider.com/articles/22/10/13/for-all-mankind-and-more-apple-tv-shows-are-coming-to-blu-ray?utm_medium=rss)
+ - [Best deals from Amazon’s Prime Early Access Sale you can still get](https://www.theverge.com/23402251/amazon-prime-day-2022-best-deals-still-available-headphones-tablets-gaming)
+ - [SoundCloud takes a page out of MySpace’s playbook](https://www.theverge.com/2022/10/13/23402306/soundcloud-creator-top-fans-myspace-tiktok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
