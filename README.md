@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Pharma Says Drug Prices Reflect R&amp;D Cost. Researchers Call BS](https://www.wired.com/story/drug-research-pricing/)
- - [Meta’s VR Headset Harvests Personal Data Right Off Your Face](https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/)
- - [Celsius Exchange Data Dump Is a Gift to Crypto Sleuths—and Thieves](https://www.wired.com/story/celsius-user-data-dump-crypto-tracing-scammers/)<!-- TECH:END -->
+ - [TSMC getting exemption from strict US tech export laws](https://appleinsider.com/articles/22/10/13/tsmc-getting-exemption-from-strict-us-tech-export-laws?utm_medium=rss)
+ - [Hestan Cue Induction Cooktop and Smart Probe: Long-Term Test](https://www.wired.com/story/hestan-cue-smart-probe-long-term-test/)
+ - [Meta Is Still Betting on a VR Revolution That May Never Come](https://www.wired.com/story/gadget-lab-podcast-570/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
