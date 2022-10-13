@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Last Oricru Reminds You Why You May Want to Call a Friend](https://news.xbox.com/en-us/2022/10/13/the-last-oricru-reminds-you-why-you-may-want-to-call-a-friend/)
- - [Splash Damage&#39;s party shooter Outcasters will be left to die with Stadia](https://www.pcgamer.com/splash-damages-party-shooter-outcasters-will-be-left-to-die-with-stadia)
- - [Xenoblade Chronicles 3 Is A Genius JRPG Vision That Began 25 Years Ago](https://kotaku.com/xenoblade-chronicles-3-review-switch-jrpg-takahashi-1849652958)<!-- GAME:END -->
+ - [NHL 23 Launches Worldwide Tomorrow, Available Now with X-Factor Edition](https://news.xbox.com/en-us/2022/10/13/nhl-23-launches-worldwide-tomorrow-available-now-with-x-factor-edition/)
+ - [This engineering sandbox is already so complex you can build games inside its demo](https://www.pcgamer.com/this-engineering-sandbox-is-already-so-complex-you-can-build-games-inside-its-demo)
+ - [17 great horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
