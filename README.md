@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix says its Basic with Ads tier will cost $6.99 per month and launch on November 3, 2022 in 12 countries, including the US, Australia, Germany, and the UK &lpar;Charles Pulliam-Moore/The Verge&rpar;](http://www.techmeme.com/221013/p30#a221013p30)
- - [The Verge’s 2022 Fall Gift Guide](https://www.theverge.com/23357267/fall-gift-ideas-2022-tech-gadgets-birthday-anniversary-wedding)
- - [Netflix’s ad tier will cost $7 a month and launch in November](https://www.theverge.com/2022/10/13/23402725/netflix-basic-with-ads)<!-- TECH:END -->
+ - [Fossil Gen 6 smartwatches are getting Wear OS 3 and will allow iOS connections](https://www.androidauthority.com/fossil-gen-6-wear-os-3-3220292/)
+ - [Check out these jarring images of urban wildlife](https://www.theverge.com/2022/10/13/23402527/urban-wildlife-photography-competition)
+ - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
