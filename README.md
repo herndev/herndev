@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aBd3vDx)
- - ⏩ [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
- - 👉 [Russia FSB released x-ray of the truck that entered the Crimean bridge on the day of the explosion.](http://9gag.com/gag/aBd3XO2)<!-- MEMES:END -->
+ - 💣 [This must be before the new cartoon came out, ffs](http://9gag.com/gag/aBd3vEQ)
+ - ⏩ [Kyslytsya grabbed a pair of binoculars, trying to find the countries that supported Moscow&#39;s illegal decision](http://9gag.com/gag/aoK0APx)
+ - 👉 [Easier and less dangerous. Virtue signalers are disgusting.](http://9gag.com/gag/aZDx4y9)<!-- MEMES:END -->
 
 ---
 
