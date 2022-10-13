@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Celebrates the Disability Communities with New Accessibility Updates](https://news.xbox.com/en-us/2022/10/13/xbox-accessibility-showcase-2022/)
- - [Elden Ring board game reveals Kickstarter launch date, and the hype is off the charts](https://www.polygon.com/23402404/elden-ring-board-game-kickstarter-launch-date-release-date-price)
- - [Spider-Man: Miles Morales gets detailed system requirements and a November release date](https://www.pcgamer.com/spider-man-miles-morales-pc-release-date-system-requirements)<!-- GAME:END -->
+ - [Blizzard answers our questions on two of Dragonflight&#39;s biggest overhauls](https://www.pcgamer.com/blizzard-answers-our-questions-on-two-of-dragonflights-biggest-overhauls)
+ - [Master Your Unique Battle Style with Sonic Frontiers’ Evolved Combat System](https://news.xbox.com/en-us/2022/10/13/master-your-unique-battle-style-with-sonic-frontiers-evolved-combat-system/)
+ - [She-Hulk’s KEVIN is a bizarre Marvel in-joke brought to life](https://www.polygon.com/23402326/she-hulk-kevin-meme-gif)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
