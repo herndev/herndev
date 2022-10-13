@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These laxatives have the same exact ingredients and contain the same milligrams, yet the women\u2019s laxative is 30\u00a2 more and has half the amount of pills just because it\u2019s pink and \u201cfor women.\u201d](http://9gag.com/gag/adPYdWZ)
- - ⏩ [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
- - 👉 [A timeless classic](http://9gag.com/gag/aBd3veN)<!-- MEMES:END -->
+ - 💣 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
+ - ⏩ [Welcome to the jungle](http://9gag.com/gag/a9qLVzm)
+ - 👉 [Can&#39;t find the original source, salsa in the comments ole!](http://9gag.com/gag/abvymD9)<!-- MEMES:END -->
 
 ---
 
