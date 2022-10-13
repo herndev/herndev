@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This must be before the new cartoon came out, ffs](http://9gag.com/gag/aBd3vEQ)
- - ⏩ [Kyslytsya grabbed a pair of binoculars, trying to find the countries that supported Moscow&#39;s illegal decision](http://9gag.com/gag/aoK0APx)
- - 👉 [Easier and less dangerous. Virtue signalers are disgusting.](http://9gag.com/gag/aZDx4y9)<!-- MEMES:END -->
+ - 💣 [The Rings of Power](http://9gag.com/gag/abvyLEL)
+ - ⏩ [Concrete Floor](http://9gag.com/gag/ap90PP9)
+ - 👉 [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)<!-- MEMES:END -->
 
 ---
 
