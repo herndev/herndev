@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)
- - ⏩ [The one who started it all](http://9gag.com/gag/a8qY0Kd)
- - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
+ - 💣 [Kind rat giving presents](http://9gag.com/gag/aMErNWx)
+ - ⏩ [Easier and less dangerous. Virtue signalers are disgusting.](http://9gag.com/gag/aZDx4y9)
+ - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 ---
 
