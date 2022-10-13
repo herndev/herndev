@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An unmissable opportunity!](http://9gag.com/gag/az2EQmK)
- - ⏩ [The taller the tower the richer the house](http://9gag.com/gag/a8qYzEQ)
- - 👉 [Love you mom\u2661](http://9gag.com/gag/a8qY2yZ)<!-- MEMES:END -->
+ - 💣 [These laxatives have the same exact ingredients and contain the same milligrams, yet the women\u2019s laxative is 30\u00a2 more and has half the amount of pills just because it\u2019s pink and \u201cfor women.\u201d](http://9gag.com/gag/adPYdWZ)
+ - ⏩ [He definitely wants to breakup now](http://9gag.com/gag/abvyxmB)
+ - 👉 [A timeless classic](http://9gag.com/gag/aBd3veN)<!-- MEMES:END -->
 
 ---
 
