@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fossil Gen 6 smartwatches are getting Wear OS 3 and will allow iOS connections](https://www.androidauthority.com/fossil-gen-6-wear-os-3-3220292/)
- - [Check out these jarring images of urban wildlife](https://www.theverge.com/2022/10/13/23402527/urban-wildlife-photography-competition)
- - [How to use Shared with You in iOS 16 and macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-shared-with-you-in-ios-16-and-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [How Netflix plans to fight slowing growth, including via an ad-supported tier; Netflix accounts for ~8% of all TV viewership in the US, the most of any network &lpar;Lucas Shaw/Bloomberg&rpar;](http://www.techmeme.com/221013/p33#a221013p33)
+ - [Amazon’s set to launch its prototype internet satellites early next year](https://www.theverge.com/2022/10/13/23401734/amazon-project-kuiper-prototype-satellites-2023-launch)
+ - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
