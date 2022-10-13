@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Apple deals available for Amazon Prime Day 2022](https://www.theverge.com/23393414/amazon-prime-sale-apple-deals-airpods-ipad-2022)
- - [25 deals from Amazon’s fall Prime Day event that make for great gifts](https://www.theverge.com/23400057/amazon-prime-gift-deals-tech-sale-holiday-airpods-speakers-camera)
- - [Signal will start phasing out SMS and MMS support from its Android app; users have a few months to transition away from SMS and export messages to another app &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221012/p48#a221012p48)<!-- TECH:END -->
+ - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
+ - [The best tablet and phone deals from Amazon’s October Prime Day](https://www.theverge.com/23398415/amazon-prime-deals-best-tablet-phone-early-access-sale-2022)
+ - [Samsung announces expanded Google partnership to let Galaxy phone and tablet users onboard Matter-compatible devices to both SmartThings and Google Home systems &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221012/p49#a221012p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
