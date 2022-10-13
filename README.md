@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Civilization-Specific Achievements Coming with Age of Empires IV: Anniversary Edition](https://news.xbox.com/en-us/2022/10/13/new-civilization-specific-achievements-coming-with-age-of-empires-iv-anniversary-edition/)
- - [How to extend your Steam Deck’s battery life](https://www.polygon.com/guides/23402429/steam-deck-battery-life)
- - [This billion-dollar metaverse claims it has 7000 daily users, not 38](https://www.pcgamer.com/this-billion-dollar-metaverse-claims-it-has-7000-daily-users-not-38)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [League of Legends’ newest Champion is K’Sante, a proud hunter from Nazumah](https://www.polygon.com/23403345/league-of-legends-ksante-new-champion-reveal-teaser-trailer-abilities)
+ - [Thief Steals Genshin Impact Fan Art Using AI, Demands Credit From Creator](https://kotaku.com/genshin-impact-fanart-ai-generated-stolen-twitch-1849655704)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
