@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
- - ⏩ [Cacausus](http://9gag.com/gag/aDY36Vw)
+ - 💣 [Happiness is sterrinapiness](http://9gag.com/gag/amA0GRj)
+ - ⏩ [When California made this legal](http://9gag.com/gag/aWGWpjq)
  - 👉 [The few. The proud.](http://9gag.com/gag/aWGW2Gx)<!-- MEMES:END -->
 
 ---
