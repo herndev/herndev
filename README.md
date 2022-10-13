@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gonna abuse this new meme format](http://9gag.com/gag/a9qLVK6)
- - ⏩ [Welcome to the jungle](http://9gag.com/gag/a9qLVzm)
- - 👉 [Can&#39;t find the original source, salsa in the comments ole!](http://9gag.com/gag/abvymD9)<!-- MEMES:END -->
+ - 💣 [The one who started it all](http://9gag.com/gag/a8qY0Kd)
+ - ⏩ [Meta-worse](http://9gag.com/gag/ap90dqn)
+ - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
 
 ---
 
