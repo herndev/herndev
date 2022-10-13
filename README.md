@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s latest driver delivers a healthy DX12 boost for All RTX GPUs](https://www.pcgamer.com/nvidias-latest-driver-delivers-a-healthy-dx12-boost-for-all-rtx-gpus)
  - [Steam Finally Has A Modern Phone App](https://kotaku.com/steam-valve-app-ios-android-iphone-chat-new-1849651049)
- - [How to use a PS5 DualSense controller on PC](https://www.pcgamer.com/ps5-dualsense-controller-on-pc)
- - [How to use a Nintendo Switch Pro controller on PC](https://www.pcgamer.com/how-to-use-a-nintendo-switch-pro-controller-on-pc)<!-- GAME:END -->
+ - [How to use a PS5 DualSense controller on PC](https://www.pcgamer.com/ps5-dualsense-controller-on-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
