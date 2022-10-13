@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My wife didn&#39;t understand why I took this picture. I told her that I&#39;m the captain](http://9gag.com/gag/aOxbpD6)
+ - 💣 [Technology was a mistake](http://9gag.com/gag/ajV01Ag)
  - ⏩ [Oh snap](http://9gag.com/gag/amA0Mn2)
  - 👉 [You are paid by how much you can entertain](http://9gag.com/gag/aZDxzqn)<!-- MEMES:END -->
 
