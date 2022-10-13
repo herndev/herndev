@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s an early look at Android’s app archiving feature](https://www.theverge.com/2022/10/13/23402141/google-android-archive-app-feature-leak)
- - [Sony and Honda plan to start selling their electric cars in the US in 2026](https://www.theverge.com/2022/10/13/23402157/sony-honda-electric-vehicles-evs-timeline-sales-2026)
- - [Daily Authority: 📱 Key Pixel 7 questions answered](https://www.androidauthority.com/daily-authority-october-13-2022-3220077/)<!-- TECH:END -->
+ - [The Search for a Pill That Can Help Dogs—and Humans—Live Longer](https://www.wired.com/story/the-search-for-a-pill-for-dog-and-human-longevity/)
+ - [Mark Zuckerberg&#39;s belief in an &quot;open, interoperable metaverse&quot; stands at odds with his vision being built on corporate partnerships and case-by-case permissions &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221013/p11#a221013p11)
+ - [Snag a New Roborock Vacuum and Save Up to $290 With These Deals     - CNET](https://www.cnet.com/deals/snag-a-new-roborock-vacuum-and-save-up-to-290-with-these-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
