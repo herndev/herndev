@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)
- - ⏩ [Fat activist claims obesity isn&#39;t real because it was made up by middle age white men](http://9gag.com/gag/a6qynzR)
- - 👉 [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)<!-- MEMES:END -->
+ - 💣 [Devil](http://9gag.com/gag/amA0154)
+ - ⏩ [Windows support center feeding time](http://9gag.com/gag/adPYQXB)
+ - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
 
 ---
 
