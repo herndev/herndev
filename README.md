@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based GoHenry, a neobank for 6-18 year olds, raised a &amp;pound;49M+ Series B, and says its 2021 revenue was up 55% YoY to &amp;pound;30.5M and losses up 20x YoY to &amp;pound;30.5M &lpar;Amy O&#39;Brien/Sifted&rpar;](http://www.techmeme.com/221012/p50#a221012p50)
  - [The best deals of Amazon’s fall Prime Day event](https://www.theverge.com/23400318/amazon-prime-deals-best-sale-tech-tablets-tvs-earbuds-2022)
- - [The best tablet and phone deals from Amazon’s October Prime Day](https://www.theverge.com/23398415/amazon-prime-deals-best-tablet-phone-early-access-sale-2022)
- - [Samsung announces expanded Google partnership to let Galaxy phone and tablet users onboard Matter-compatible devices to both SmartThings and Google Home systems &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221012/p49#a221012p49)<!-- TECH:END -->
+ - [The best tablet and phone deals from Amazon’s October Prime Day](https://www.theverge.com/23398415/amazon-prime-deals-best-tablet-phone-early-access-sale-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
