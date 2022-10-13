@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who left Derek out there](http://9gag.com/gag/aeQ0Vmj)
- - ⏩ [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 👉 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)<!-- MEMES:END -->
+ - 💣 [I found something interesting. This little guy is flying over the black sea for hours. Right now its been 16-17 hours. Big Brothers is watching.](http://9gag.com/gag/avQgmOZ)
+ - ⏩ [The one who started it all](http://9gag.com/gag/a8qY0Kd)
+ - 👉 [MORE! MOOOORE!!!!!! ohh](http://9gag.com/gag/aL1P4qg)<!-- MEMES:END -->
 
 ---
 
