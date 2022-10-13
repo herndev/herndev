@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 481 answer and hint: Thursday, October 13](https://www.pcgamer.com/todays-wordle-481-answer-hint)
  - [How to have the best Vampire: The Masquerade – Bloodlines experience today](https://www.pcgamer.com/how-to-have-the-best-vampire-the-masqueradebloodlines-experience-today)
- - [Nvidia&#39;s latest driver delivers a healthy DX12 boost for All RTX GPUs](https://www.pcgamer.com/nvidias-latest-driver-delivers-a-healthy-dx12-boost-for-all-rtx-gpus)
- - [Steam Finally Has A Modern Phone App](https://kotaku.com/steam-valve-app-ios-android-iphone-chat-new-1849651049)<!-- GAME:END -->
+ - [Nvidia&#39;s latest driver delivers a healthy DX12 boost for All RTX GPUs](https://www.pcgamer.com/nvidias-latest-driver-delivers-a-healthy-dx12-boost-for-all-rtx-gpus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
