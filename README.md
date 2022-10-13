@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [NHL 23 Launches Worldwide Tomorrow, Available Now with X-Factor Edition](https://news.xbox.com/en-us/2022/10/13/nhl-23-launches-worldwide-tomorrow-available-now-with-x-factor-edition/)
- - [This engineering sandbox is already so complex you can build games inside its demo](https://www.pcgamer.com/this-engineering-sandbox-is-already-so-complex-you-can-build-games-inside-its-demo)
- - [17 great horror movies currently haunting Netflix](https://www.polygon.com/22325729/best-horror-movies-netflix)<!-- GAME:END -->
+ - [Celebrate the 20th Anniversary of Naruto with Konohamaru in Shinobi Striker](https://news.xbox.com/en-us/2022/10/13/celebrate-the-20th-anniversary-of-naruto-with-konohamaru-in-shinobi-striker/)
+ - [Modern Warfare 2’s phone number requirement isn’t the same as Overwatch 2’s](https://www.polygon.com/23403192/call-of-duty-modern-warfare-2-phone-number-sms-protection-pc-players)
+ - [Damage-Focused Moira Mains Have Overwatch 2 Fans Squabbling Over Healers, Bad Teamwork](https://kotaku.com/overwatch-2-moira-memes-dps-support-healer-blizzard-1849654793)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
