@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC getting exemption from strict US tech export laws](https://appleinsider.com/articles/22/10/13/tsmc-getting-exemption-from-strict-us-tech-export-laws?utm_medium=rss)
- - [Hestan Cue Induction Cooktop and Smart Probe: Long-Term Test](https://www.wired.com/story/hestan-cue-smart-probe-long-term-test/)
- - [Meta Is Still Betting on a VR Revolution That May Never Come](https://www.wired.com/story/gadget-lab-podcast-570/)<!-- TECH:END -->
+ - [The best new streaming movies this week on Netflix, Peacock, Apple, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [BMW plans to use AWS tools to manage data from its Neue Klasse platform for connected vehicles; the company says it has roughly 20M connected vehicles in use &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/221013/p22#a221013p22)
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
