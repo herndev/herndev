@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Celebrate the 20th Anniversary of Naruto with Konohamaru in Shinobi Striker](https://news.xbox.com/en-us/2022/10/13/celebrate-the-20th-anniversary-of-naruto-with-konohamaru-in-shinobi-striker/)
- - [Modern Warfare 2’s phone number requirement isn’t the same as Overwatch 2’s](https://www.polygon.com/23403192/call-of-duty-modern-warfare-2-phone-number-sms-protection-pc-players)
- - [Damage-Focused Moira Mains Have Overwatch 2 Fans Squabbling Over Healers, Bad Teamwork](https://kotaku.com/overwatch-2-moira-memes-dps-support-healer-blizzard-1849654793)<!-- GAME:END -->
+ - [New Civilization-Specific Achievements Coming with Age of Empires IV: Anniversary Edition](https://news.xbox.com/en-us/2022/10/13/new-civilization-specific-achievements-coming-with-age-of-empires-iv-anniversary-edition/)
+ - [How to extend your Steam Deck’s battery life](https://www.polygon.com/guides/23402429/steam-deck-battery-life)
+ - [This billion-dollar metaverse claims it has 7000 daily users, not 38](https://www.pcgamer.com/this-billion-dollar-metaverse-claims-it-has-7000-daily-users-not-38)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
