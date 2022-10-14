@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Twitter says Elon Musk is under a federal investigation related to his acquisition of the company and asks for access to docs he gave to authorities &lpar;Tom Giles/Bloomberg&rpar;](http://www.techmeme.com/221013/p38#a221013p38)
- - [Apple Reportedly Fined $19M for Not Including Chargers With iPhones     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-fined-19m-for-not-including-chargers-with-iphones/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Documents: SpaceX told the Pentagon it can&#39;t donate more Starlink terminals to Ukraine or keep funding the service there, asking the Pentagon to provide funding &lpar;Alex Marquardt/CNN&rpar;](http://www.techmeme.com/221013/p40#a221013p40)
+ - [The National Science Foundation won’t rebuild the Arecibo Observatory telescope](https://www.theverge.com/2022/10/13/23403529/national-science-foundation-nsf-arecibo-observatory-telescope-education-center)
+ - [How cosmic rays can alter computers&#39; memory, a phenomenon understood since at least the 1970s, and why it is hard to tie specific errors to ionizing radiation &lpar;Chris Baraniuk/BBC&rpar;](http://www.techmeme.com/221013/p39#a221013p39)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
