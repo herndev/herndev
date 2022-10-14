@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybercrime in gaming has increased substantially since the start of the pandemic, with threats lurking in cheat codes, microtransactions, and players&#39; messages &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/221014/p2#a221014p2)
- - [&#39;The Rings of Power&#39; Season 1 Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-season-1-ending-explained/#ftag=CAD590a51e)
- - [You told us: Robust zoom or realistic portraits? Here’s what you prefer.](https://www.androidauthority.com/robust-zoom-realistic-portraits-camera-poll-results-3220483/)<!-- TECH:END -->
+ - [Daily Authority: 🍿 Cheap Netflix &lpar;with ads&rpar;](https://www.androidauthority.com/daily-authority-october-14-2022-3220487/)
+ - [A hacker leaks 5TB of data from the Colombian government, exposing the identities and methods of Australian Federal Police anti-narcotics agents &lpar;Nigel Gladstone/Sydney Morning Herald&rpar;](http://www.techmeme.com/221014/p6#a221014p6)
+ - [Oklahoma Apple Store staff to vote on labor union](https://appleinsider.com/articles/22/10/14/oklahoma-apple-store-staff-to-vote-on-labor-union?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
