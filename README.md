@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Xi would be proud](http://9gag.com/gag/abvyngB)
- - ⏩ [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)
- - 👉 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)<!-- MEMES:END -->
+ - 💣 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - ⏩ [One ticket, please!](http://9gag.com/gag/anzKVN5)
+ - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
 
 ---
 
