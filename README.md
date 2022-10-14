@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Crypto broker NYDIG, which raised $1B at a $7B+ valuation in December 2021, laid off around 110 people, about a third of its workforce, in September &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221013/p42#a221013p42)
  - [Meta says the segment at Connect announcing the addition of legs to Horizon World avatars &quot;featured animations created from motion capture&quot; &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/221013/p41#a221013p41)
- - [Did Mark Zuckerberg’s little dance actually show us real metaverse legs?](https://www.theverge.com/2022/10/13/23403650/horizon-metaverse-legs-demonstration-motion-capture)
- - [&#39;House of the Dragon:&#39; The Episode 8 Prophecy and King Viserys Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-the-episode-8-prophecy-and-king-viserys-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-come-to-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
