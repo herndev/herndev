@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google updates Maps, Search with iOS 16 widgets](https://appleinsider.com/articles/22/10/14/google-updates-maps-search-with-ios-16-widgets?utm_medium=rss)
- - [Sources: Cloud computing company Nutanix is exploring a sale after receiving takeover interest; Nutanix has a market cap of $5B+, down from $9B+ in Sept. 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221014/p13#a221014p13)
- - [Apple AR headset could use iris scanning for user identification](https://appleinsider.com/articles/22/10/14/apple-ar-headset-could-use-iris-scanning-for-user-identification?utm_medium=rss)<!-- TECH:END -->
+ - [I restored my old photos with Pixel 7’s Photo Unblur and the results amazed me](https://www.androidauthority.com/google-pixel-7-photo-unblur-3218201/)
+ - [Protect a MacBook Pro with Satechi&#39;s Eco HardShell](https://appleinsider.com/articles/22/10/14/protect-a-macbook-pro-with-satechis-eco-hardshell?utm_medium=rss)
+ - [For search results on mobile, Google is replacing the &quot;Ad&quot; label with &quot;Sponsored&quot; in bold and moving it above the site URL in a separate line &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221014/p14#a221014p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
