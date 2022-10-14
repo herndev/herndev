@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 482 answer and hint: Friday, October 14](https://www.pcgamer.com/todays-wordle-482-answer-hint)
- - [Leading Sauron candidate outed as Sauron](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
- - [Everything you’re too afraid to ask about the rings of power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)<!-- GAME:END -->
+ - [Scorn Review](https://www.pcgamer.com/scorn-review)
+ - [Xbox’s horror exclusive Scorn can’t transcend its Giger-inspired visuals](https://www.polygon.com/reviews/23402825/scorn-review-xbox-exclusive-game-pass-h-r-giger-horror-puzzle-games)
+ - [John Carpenter would still like to make a Dead Space film](https://www.pcgamer.com/john-carpenter-would-still-like-to-make-a-dead-space-film)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
