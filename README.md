@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - ⏩ [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
- - 👉 [This must be before the new cartoon came out, ffs](http://9gag.com/gag/aBd3vEQ)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/aBd3vDx)
+ - ⏩ [The few. The proud.](http://9gag.com/gag/aWGW2Gx)
+ - 👉 [Ignorance is bliss](http://9gag.com/gag/aL1POPV)<!-- MEMES:END -->
 
 ---
 
