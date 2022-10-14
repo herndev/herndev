@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [No More Heroes 1 and 2 are finally getting fixed on PC](https://www.pcgamer.com/no-more-heroes-1-and-2-are-finally-getting-fixed-on-pc)
  - [Scorn Review](https://www.pcgamer.com/scorn-review)
- - [Xbox’s horror exclusive Scorn can’t transcend its Giger-inspired visuals](https://www.polygon.com/reviews/23402825/scorn-review-xbox-exclusive-game-pass-h-r-giger-horror-puzzle-games)
- - [John Carpenter would still like to make a Dead Space film](https://www.pcgamer.com/john-carpenter-would-still-like-to-make-a-dead-space-film)<!-- GAME:END -->
+ - [Xbox’s horror exclusive Scorn can’t transcend its Giger-inspired visuals](https://www.polygon.com/reviews/23402825/scorn-review-xbox-exclusive-game-pass-h-r-giger-horror-puzzle-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
