@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Rainbows](https://blog.playstation.com/2022/10/14/share-of-the-week-rainbows/)
- - [Gearing Up for Your First Hunting Trip in Wild Hearts](https://news.xbox.com/en-us/2022/10/14/gearing-up-for-your-first-hunting-trip-in-wild-hearts/)
- - [The latest version of DirectStorage can load avocados 3x faster than ever before](https://www.pcgamer.com/the-latest-version-of-directstorage-can-load-avocados-3x-faster-than-ever-before)<!-- GAME:END -->
+ - [Nvidia Cancels Cheapest New PC Graphics Card, Leaving Only The Expensive Huge Ones](https://kotaku.com/nvidia-pc-graphics-card-rtx-4080-4090-price-date-cancel-1849659147)
+ - [Nvidia &#39;unlaunches&#39; the unwanted RTX 4080 12GB](https://www.pcgamer.com/nvidia-rtx-4080-12gb-unlaunched)
+ - [PGA Tour 2K23 is Teed Up with Topgolf, New Courses, and Enhanced Features](https://news.xbox.com/en-us/2022/10/14/pga-tour-2k23-is-teed-up-with-topgolf-new-courses-and-enhanced-features/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
