@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If car looses the brakes in a self driving vehicle, what will it decide to do? If I was the engineer of that thing, I would add an evil lough and say to them all `it&#39;s our world now b\u05d5tches!`](http://9gag.com/gag/aA0rq09)
- - ⏩ [Spooky o.O](http://9gag.com/gag/aVbW1ZP)
- - 👉 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)<!-- MEMES:END -->
+ - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - ⏩ [Trucks play Britney Spears on rear gear](http://9gag.com/gag/aA0rXZg)
+ - 👉 [This must be before the new cartoon came out, ffs](http://9gag.com/gag/aBd3vEQ)<!-- MEMES:END -->
 
 ---
 
