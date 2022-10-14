@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
- - ⏩ [Thats a whole lot of plot right there!](http://9gag.com/gag/aVbWVRv)
+ - 💣 [I&#39;ve just found out today........](http://9gag.com/gag/anzKo5z)
+ - ⏩ [What is weaker?](http://9gag.com/gag/a6qy6PL)
  - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
 
 ---
