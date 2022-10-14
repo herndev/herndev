@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve just found out today........](http://9gag.com/gag/anzKo5z)
- - ⏩ [What is weaker?](http://9gag.com/gag/a6qy6PL)
- - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
+ - 💣 [Meta-worse](http://9gag.com/gag/ap90dqn)
+ - ⏩ [Herstory](http://9gag.com/gag/a5XPyYq)
+ - 👉 [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)<!-- MEMES:END -->
 
 ---
 
