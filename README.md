@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [She-Hulk’s fourth-wall-breaking finale is extreme, and exactly like the comic books](https://www.polygon.com/23402980/she-hulk-fourth-wall-explainer-finale-comics-review)
- - [How to get Candy and unlock the Halloween skins in MultiVersus](https://www.pcgamer.com/multiversus-halloween-skins-candy)
- - [Evidence mounts that the Mario movie is a musical: Toad sings too](https://www.polygon.com/23404135/mario-movie-musical-toad-sings)<!-- GAME:END -->
+ - [Dead Space hands-on details – Upgraded and expanded horror gameplay](https://blog.playstation.com/2022/10/14/dead-space-hands-on-details-upgraded-and-expanded-horror-gameplay/)
+ - [Monopoly Madness Free Demo Available Now](https://news.xbox.com/en-us/2022/10/14/monopoly-madness-free-demo-available-now/)
+ - [Tetsuya Nomura’s designs embraced Y2K fashion and never let go](https://www.polygon.com/23392688/tetsuya-nomura-y2k-fashion-kingdom-hearts-final-fantasy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
