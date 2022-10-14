@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After 20 Years Of Development, Dwarf Fortress Is Getting A Proper Tutorial](https://kotaku.com/dwarf-fortress-tutorial-steam-pc-update-1849656563)
- - [Facebook&#39;s Legs Video Was A Lie](https://kotaku.com/zuckerberg-facebook-meta-legs-feet-video-vr-staged-fake-1849656315)
- - [Elden Ring&#39;s 1.07 patch introduces PvP-only nerfs, buffs a whole bunch of weapons](https://www.pcgamer.com/elden-rings-107-patch-introduces-pvp-only-nerfs-buffs-a-whole-bunch-of-weapons)<!-- GAME:END -->
+ - [Leading Sauron candidate outed as Sauron](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
+ - [Everything you’re too afraid to ask about the rings of power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)
+ - [After 20 Years Of Development, Dwarf Fortress Is Getting A Proper Tutorial](https://kotaku.com/dwarf-fortress-tutorial-steam-pc-update-1849656563)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
