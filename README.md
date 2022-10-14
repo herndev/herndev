@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Baby the Ancient One, King of Deception, Brutalizer of Enemies](http://9gag.com/gag/a3Z3rGN)
- - ⏩ [Art](http://9gag.com/gag/aDY356w)
- - 👉 [I know it\u2019s twitter but she owned this person so sweetly.](http://9gag.com/gag/a8qYN6Z)<!-- MEMES:END -->
+ - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - ⏩ [Thats a whole lot of plot right there!](http://9gag.com/gag/aVbWVRv)
+ - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
 
 ---
 
