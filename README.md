@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
- - ⏩ [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
- - 👉 [AAAAAAAAAH](http://9gag.com/gag/ap90YLD)<!-- MEMES:END -->
+ - 💣 [Baby the Ancient One, King of Deception, Brutalizer of Enemies](http://9gag.com/gag/a3Z3rGN)
+ - ⏩ [Art](http://9gag.com/gag/aDY356w)
+ - 👉 [I know it\u2019s twitter but she owned this person so sweetly.](http://9gag.com/gag/a8qYN6Z)<!-- MEMES:END -->
 
 ---
 
