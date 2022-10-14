@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia Cancels Cheapest New PC Graphics Card, Leaving Only The Expensive Huge Ones](https://kotaku.com/nvidia-pc-graphics-card-rtx-4080-4090-price-date-cancel-1849659147)
- - [Nvidia &#39;unlaunches&#39; the unwanted RTX 4080 12GB](https://www.pcgamer.com/nvidia-rtx-4080-12gb-unlaunched)
- - [PGA Tour 2K23 is Teed Up with Topgolf, New Courses, and Enhanced Features](https://news.xbox.com/en-us/2022/10/14/pga-tour-2k23-is-teed-up-with-topgolf-new-courses-and-enhanced-features/)<!-- GAME:END -->
+ - [Nvidia shelves cheaper RTX 4080, admitting its name was ‘confusing’](https://www.polygon.com/23404603/nvidia-rtx-4080-12-gb-canceled-release-date)
+ - [This sci-fi base-building survival game is perfect for extreme micromanagers](https://www.pcgamer.com/this-sci-fi-base-building-survival-game-is-perfect-for-extreme-micromanagers)
+ - [Destiny 2 Xur location and items, Oct. 14-18](https://www.polygon.com/destiny-2-guide-walkthrough/2022/10/14/23404768/destiny-2-xur-location-items-oct-14-18)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
