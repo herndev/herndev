@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)
- - [Former Fable dev reunited with commemorative plaque he lost 12 years ago thanks to a random eBay auction](https://www.pcgamer.com/former-fable-dev-reunited-with-commemorative-plaque-he-lost-12-years-ago-thanks-to-a-random-ebay-auction)
- - [This $50 peripheral lets you plug and play GameBoy cartridges on your Steam Deck](https://www.pcgamer.com/this-dollar50-peripheral-lets-you-plug-and-play-gameboy-cartridges-on-your-steam-deck)<!-- GAME:END -->
+ - [No Man’s Sky Update Made Player Inventories ‘Unrecognizable’](https://kotaku.com/no-mans-sky-waypoint-update-inventorygate-1849660101)
+ - [Former Fable dev reunited with commemorative plaque he lost 12 years ago thanks to a random eBay auction](https://www.pcgamer.com/former-fable-dev-reunited-with-commemorative-plaque-he-lost-12-years-ago-thanks-to-a-random-ebay-auction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
