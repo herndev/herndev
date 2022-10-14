@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
- - ⏩ [One ticket, please!](http://9gag.com/gag/anzKVN5)
- - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
+ - 💣 [I swear](http://9gag.com/gag/avQgKgb)
+ - ⏩ [Better than me](http://9gag.com/gag/aVbWyQK)
+ - 👉 [What th happened to it??](http://9gag.com/gag/a5XP30N)<!-- MEMES:END -->
 
 ---
 
