@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [The Pixel 7 series might be the first 64-bit only Android phones](https://www.androidauthority.com/google-pixel-7-64-bit-only-3220469/)
- - [Turkey passes a &quot;disinformation&quot; law ahead of its 2023 elections, mandating jail time for sharing online content deemed &quot;false information&quot; by authorities &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p1#a221014p1)
- - [Source: nearly a month after Google launched a pilot to keep political campaign emails from going to Gmail&#39;s spam folder, RNC hasn&#39;t joined or applied to it &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)<!-- TECH:END -->
+ - [Turkey passes a &quot;disinformation&quot; law ahead of its 2023 elections, mandating one to three years in jail for sharing online content deemed as &quot;false information&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p1#a221014p1)
+ - [Source: nearly a month after Google launched a pilot to let political campaign emails avoid Gmail&#39;s spam folder, the RNC hasn&#39;t joined or applied to the program &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
