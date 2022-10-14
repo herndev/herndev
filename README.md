@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aBd3vDx)
- - ⏩ [The few. The proud.](http://9gag.com/gag/aWGW2Gx)
- - 👉 [Ignorance is bliss](http://9gag.com/gag/aL1POPV)<!-- MEMES:END -->
+ - 💣 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
+ - ⏩ [Elasnickgur](http://9gag.com/gag/aOxbAKr)
+ - 👉 [This chick just exposed that blm spent millions on pretty much everything but helping black people. They did buy millions of dollars worth of mansions, stocks, and other bs for the founders though. Donate to blm y&#39;all! Woke people are brainlets.](http://9gag.com/gag/aKEPLxj)<!-- MEMES:END -->
 
 ---
 
