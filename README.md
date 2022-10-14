@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Enter the Nightmarish World of Scorn Today with Game Pass](https://news.xbox.com/en-us/2022/10/14/enter-the-nightmarish-world-of-scorn-today-with-game-pass/)
- - [China’s version of the Satanic Panic has the government regulating LARPs](https://www.polygon.com/23404517/dnd-china-satanic-panic-larp-games-chengdu)
- - [This DIYer built themselves an awesome open-source HDMI capture card for only $10](https://www.pcgamer.com/this-diyer-built-themselves-an-awesome-open-source-hdmi-capture-card-for-only-dollar10)<!-- GAME:END -->
+ - [This Week on Xbox: Minecraft Live Votes for Mobs, Upcoming Releases, and Much More](https://news.xbox.com/en-us/2022/10/14/this-week-on-xbox-minecraft-live-votes-for-mobs-upcoming-releases-and-much-more/)
+ - [Former Fable dev reunited with commemorative plaque he lost 12 years ago thanks to a random eBay auction](https://www.pcgamer.com/former-fable-dev-reunited-with-commemorative-plaque-he-lost-12-years-ago-thanks-to-a-random-ebay-auction)
+ - [This $50 peripheral lets you plug and play GameBoy cartridges on your Steam Deck](https://www.pcgamer.com/this-dollar50-peripheral-lets-you-plug-and-play-gameboy-cartridges-on-your-steam-deck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
