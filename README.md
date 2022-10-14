@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Apple&#39;s mixed reality headset is expected to have the ability to scan the irises of users to let them log in and make payments inside the headset &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/221014/p12#a221014p12)
- - [Daily deals Oct. 14: AirPods for $90, $30 off iPad, 39% off Apple TV 4K, more](https://appleinsider.com/articles/22/10/14/daily-deals-oct-14-airpods-for-90-30-off-ipad-39-off-apple-tv-4k-more?utm_medium=rss)
- - [Apple may want more Sunday Ticket flexibility than NFL will give](https://appleinsider.com/articles/22/10/14/apple-may-want-more-sunday-ticket-flexibility-than-nfl-will-give?utm_medium=rss)<!-- TECH:END -->
+ - [Google updates Maps, Search with iOS 16 widgets](https://appleinsider.com/articles/22/10/14/google-updates-maps-search-with-ios-16-widgets?utm_medium=rss)
+ - [Sources: Cloud computing company Nutanix is exploring a sale after receiving takeover interest; Nutanix has a market cap of $5B+, down from $9B+ in Sept. 2021 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221014/p13#a221014p13)
+ - [Apple AR headset could use iris scanning for user identification](https://appleinsider.com/articles/22/10/14/apple-ar-headset-could-use-iris-scanning-for-user-identification?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
