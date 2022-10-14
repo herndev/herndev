@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
- - ⏩ [I have questions....](http://9gag.com/gag/a8qY9xV)
+ - 💣 [Xi would be proud](http://9gag.com/gag/abvyngB)
+ - ⏩ [Thermal camera shows temperature difference between normal foot and foot with ingrown nail](http://9gag.com/gag/aXnpG2b)
  - 👉 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)<!-- MEMES:END -->
 
 ---
