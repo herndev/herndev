@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia is &quot;unlaunching&quot; the recently announced 12GB RTX 4080 after backlash, says the graphics card sharing the 4080 designation with RTX 4080 16GB is confusing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221014/p16#a221014p16)
- - [How to force quit an app in Windows](https://www.theverge.com/23404480/windows-force-quit-how-to)
- - [Google Pixel Watch Review: Fitbit&#39;s Best-Looking Watch Yet     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-review-fitbit-best-looking-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Display specs leak for Google’s foldable phone, but be skeptical](https://www.androidauthority.com/google-foldable-phone-rumor-3220720/)
+ - [Louisiana kicks off one of the US’s biggest carbon capture projects yet](https://www.theverge.com/2022/10/14/23404296/louisiana-carbon-capture-project-ammonia-fertilizer-cf-industries-exxon-mobil)
+ - [Trick Out Your Tool Box With Up to 72% Off Drills, Saws, Drivers and More     - CNET](https://www.cnet.com/deals/trick-out-your-tool-box-with-up-to-72-off-drills-saws-drivers-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
