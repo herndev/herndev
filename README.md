@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IT teams are hiring more freelancers and slowing recruiting full-time staff; Freelancer.com says software developer job postings rose 54.7% YoY in Q3 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/221014/p9#a221014p9)
- - [11 Best Android Phones &lpar;2022&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
- - [Future Fitness App Review: Virtual Personal Training Sessions](https://www.wired.com/review/future-fitness-app/)<!-- TECH:END -->
+ - [Sources: Apple&#39;s mixed reality headset is expected to have the ability to scan the irises of users to let them log in and make payments inside the headset &lpar;Wayne Ma/The Information&rpar;](http://www.techmeme.com/221014/p12#a221014p12)
+ - [Daily deals Oct. 14: AirPods for $90, $30 off iPad, 39% off Apple TV 4K, more](https://appleinsider.com/articles/22/10/14/daily-deals-oct-14-airpods-for-90-30-off-ipad-39-off-apple-tv-4k-more?utm_medium=rss)
+ - [Apple may want more Sunday Ticket flexibility than NFL will give](https://appleinsider.com/articles/22/10/14/apple-may-want-more-sunday-ticket-flexibility-than-nfl-will-give?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
