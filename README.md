@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Elden Ring dataminers uncover crumbs of DLC evidence in latest patch](https://www.pcgamer.com/elden-ring-dataminers-uncover-crumbs-of-dlc-evidence-in-latest-patch)
- - [Activision Blizzard is facing another sexual harassment lawsuit](https://www.pcgamer.com/activision-blizzard-is-facing-another-sexual-harassment-lawsuit)<!-- GAME:END -->
+ - [Facebook&#39;s Legs Video Was A Lie](https://kotaku.com/zuckerberg-facebook-meta-legs-feet-video-vr-staged-fake-1849656315)
+ - [Elden Ring&#39;s 1.07 patch introduces PvP-only nerfs, buffs a whole bunch of weapons](https://www.pcgamer.com/elden-rings-107-patch-introduces-pvp-only-nerfs-buffs-a-whole-bunch-of-weapons)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
