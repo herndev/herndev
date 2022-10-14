@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia shelves cheaper RTX 4080, admitting its name was ‘confusing’](https://www.polygon.com/23404603/nvidia-rtx-4080-12-gb-canceled-release-date)
- - [This sci-fi base-building survival game is perfect for extreme micromanagers](https://www.pcgamer.com/this-sci-fi-base-building-survival-game-is-perfect-for-extreme-micromanagers)
- - [Destiny 2 Xur location and items, Oct. 14-18](https://www.polygon.com/destiny-2-guide-walkthrough/2022/10/14/23404768/destiny-2-xur-location-items-oct-14-18)<!-- GAME:END -->
+ - [Enter the Nightmarish World of Scorn Today with Game Pass](https://news.xbox.com/en-us/2022/10/14/enter-the-nightmarish-world-of-scorn-today-with-game-pass/)
+ - [China’s version of the Satanic Panic has the government regulating LARPs](https://www.polygon.com/23404517/dnd-china-satanic-panic-larp-games-chengdu)
+ - [This DIYer built themselves an awesome open-source HDMI capture card for only $10](https://www.pcgamer.com/this-diyer-built-themselves-an-awesome-open-source-hdmi-capture-card-for-only-dollar10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
