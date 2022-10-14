@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I swear](http://9gag.com/gag/avQgKgb)
- - ⏩ [Better than me](http://9gag.com/gag/aVbWyQK)
- - 👉 [What th happened to it??](http://9gag.com/gag/a5XP30N)<!-- MEMES:END -->
+ - 💣 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
+ - ⏩ [I have questions....](http://9gag.com/gag/a8qY9xV)
+ - 👉 [Georgia police officers](http://9gag.com/gag/adPYw9D)<!-- MEMES:END -->
 
 ---
 
