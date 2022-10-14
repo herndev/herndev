@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Reboot of the Maxwell’s Demon Thought Experiment—in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/)
- - [Brian Eno on Why He Wrote a Climate Album With Deepfake Birdsongs](https://www.wired.com/story/brian-eno-q-and-a/)
- - [A Lenovo ThinkPad smartphone could be on the way](https://www.androidauthority.com/lenovo-thinkpad-smartphone-3220516/)<!-- TECH:END -->
+ - [IT teams are hiring more freelancers and slowing recruiting full-time staff; Freelancer.com says software developer job postings rose 54.7% YoY in Q3 2022 &lpar;Angus Loten/Wall Street Journal&rpar;](http://www.techmeme.com/221014/p9#a221014p9)
+ - [11 Best Android Phones &lpar;2022&rpar;: Unlocked, Cheap, Foldable](https://www.wired.com/gallery/best-android-phones/)
+ - [Future Fitness App Review: Virtual Personal Training Sessions](https://www.wired.com/review/future-fitness-app/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
