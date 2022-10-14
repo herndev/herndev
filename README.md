@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mophie&#39;s new powerstation plus will charge three devices, simultaneously](https://appleinsider.com/articles/22/10/14/mophies-new-powerstation-plus-will-charge-three-devices-simultaneously?utm_medium=rss)
- - [Save $130 on the Galaxy Tab S8 Ultra today, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
- - [How a fleet of robots could help solve the Great Lakes’ plastic pollution problem](https://www.theverge.com/2022/10/14/23401381/great-lakes-plastic-pollution-cleanup-tech-robots)<!-- TECH:END -->
+ - [Nvidia is &quot;unlaunching&quot; the recently announced 12GB RTX 4080 after backlash, says the graphics card sharing the 4080 designation with RTX 4080 16GB is confusing &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221014/p16#a221014p16)
+ - [How to force quit an app in Windows](https://www.theverge.com/23404480/windows-force-quit-how-to)
+ - [Google Pixel Watch Review: Fitbit&#39;s Best-Looking Watch Yet     - CNET](https://www.cnet.com/tech/mobile/google-pixel-watch-review-fitbit-best-looking-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
