@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Crypto broker NYDIG, which raised $1B at a $7B+ valuation in December 2021, laid off around 110 people, about a third of its workforce, in September &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221013/p42#a221013p42)
- - [Meta says the segment at Connect announcing the addition of legs to Horizon World avatars &quot;featured animations created from motion capture&quot; &lpar;Luke Plunkett/Kotaku&rpar;](http://www.techmeme.com/221013/p41#a221013p41)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-come-to-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: nearly a month after Google launched a pilot to keep political campaign emails from going to Gmail&#39;s spam folder, RNC hasn&#39;t joined or applied to it &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221013/p45#a221013p45)
+ - [Here&#39;s When the Finale of &#39;The Rings of Power&#39; Hits Your Timezone     - CNET](https://www.cnet.com/culture/entertainment/heres-when-the-finale-of-the-rings-of-power-hits-your-timezone/#ftag=CAD590a51e)
+ - [The Department of Veterans Affairs says the launch of its new EHR system, developed by Oracle Cerner under a $10B contract, has been delayed until at least 2023 &lpar;Orion Donovan-Smith/Spokesman.com&rpar;](http://www.techmeme.com/221013/p44#a221013p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
