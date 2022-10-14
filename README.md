@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Space hands-on details – Upgraded and expanded horror gameplay](https://blog.playstation.com/2022/10/14/dead-space-hands-on-details-upgraded-and-expanded-horror-gameplay/)
- - [Monopoly Madness Free Demo Available Now](https://news.xbox.com/en-us/2022/10/14/monopoly-madness-free-demo-available-now/)
- - [Tetsuya Nomura’s designs embraced Y2K fashion and never let go](https://www.polygon.com/23392688/tetsuya-nomura-y2k-fashion-kingdom-hearts-final-fantasy)<!-- GAME:END -->
+ - [Share of the Week: Rainbows](https://blog.playstation.com/2022/10/14/share-of-the-week-rainbows/)
+ - [Gearing Up for Your First Hunting Trip in Wild Hearts](https://news.xbox.com/en-us/2022/10/14/gearing-up-for-your-first-hunting-trip-in-wild-hearts/)
+ - [The latest version of DirectStorage can load avocados 3x faster than ever before](https://www.pcgamer.com/the-latest-version-of-directstorage-can-load-avocados-3x-faster-than-ever-before)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
