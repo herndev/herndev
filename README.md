@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Herstory](http://9gag.com/gag/a5XPyYq)
- - ⏩ [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
- - 👉 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)<!-- MEMES:END -->
+ - 💣 [There&#39;s a truck on the left side of this photo &lpar;not photoshopped&rpar;](http://9gag.com/gag/a8qY9MO)
+ - ⏩ [I have questions....](http://9gag.com/gag/a8qY9xV)
+ - 👉 [Unfortunately all the women i&#39;ve met are the third type](http://9gag.com/gag/avQgK5Z)<!-- MEMES:END -->
 
 ---
 
