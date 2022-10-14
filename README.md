@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man returns donations after 1.5 years](http://9gag.com/gag/a4odrB6)
- - ⏩ [AAAAAAAAAH](http://9gag.com/gag/ap90YLD)
- - 👉 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)<!-- MEMES:END -->
+ - 💣 [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - ⏩ [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
+ - 👉 [AAAAAAAAAH](http://9gag.com/gag/ap90YLD)<!-- MEMES:END -->
 
 ---
 
