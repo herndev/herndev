@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No More Heroes 1 and 2 are finally getting fixed on PC](https://www.pcgamer.com/no-more-heroes-1-and-2-are-finally-getting-fixed-on-pc)
- - [Scorn Review](https://www.pcgamer.com/scorn-review)
- - [Xbox’s horror exclusive Scorn can’t transcend its Giger-inspired visuals](https://www.polygon.com/reviews/23402825/scorn-review-xbox-exclusive-game-pass-h-r-giger-horror-puzzle-games)<!-- GAME:END -->
+ - [She-Hulk’s fourth-wall-breaking finale is extreme, and exactly like the comic books](https://www.polygon.com/23402980/she-hulk-fourth-wall-explainer-finale-comics-review)
+ - [How to get Candy and unlock the Halloween skins in MultiVersus](https://www.pcgamer.com/multiversus-halloween-skins-candy)
+ - [Evidence mounts that the Mario movie is a musical: Toad sings too](https://www.polygon.com/23404135/mario-movie-musical-toad-sings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
