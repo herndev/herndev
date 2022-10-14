@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 482 answer and hint: Friday, October 14](https://www.pcgamer.com/todays-wordle-482-answer-hint)
  - [Leading Sauron candidate outed as Sauron](https://www.polygon.com/23342914/lord-rings-power-sauron-halbrand)
- - [Everything you’re too afraid to ask about the rings of power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)
- - [After 20 Years Of Development, Dwarf Fortress Is Getting A Proper Tutorial](https://kotaku.com/dwarf-fortress-tutorial-steam-pc-update-1849656563)<!-- GAME:END -->
+ - [Everything you’re too afraid to ask about the rings of power in Rings of Power](https://www.polygon.com/23403117/lord-rings-power-elven-rings-powers-galadriel-elrond)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
