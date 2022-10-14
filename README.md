@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone in 2022: Which of Apple&#39;s Phones Is Right for You?     - CNET](https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e)
- - [Abbot Issues New Baby Formula Recall     - CNET](https://www.cnet.com/health/nutrition/abbot-issues-new-baby-formula-recall/#ftag=CAD590a51e)
- - [The Best Movies on Apple TV Plus     - CNET](https://www.cnet.com/culture/entertainment/the-best-movies-to-check-out-on-apple-tv-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A tweet about hair relaxer kits connected models from the boxes with women who grew up seeing them](https://www.theverge.com/2022/10/14/23391086/black-twitter-hair-relaxer-models-memories)
+ - [Former Nikola CEO found guilty of defrauding investors with lies about hydrogen truck](https://www.theverge.com/2022/10/14/23405107/nikola-founder-trevor-milton-guilty-verdict-hydrogen-truck)
+ - [A look at TikTok&#39;s rise, as US viewers spend longer in the video app than Facebook and Instagram combined, and ongoing issues with its Chinese ownership &lpar;Drew Harwell/Washington Post&rpar;](http://www.techmeme.com/221014/p19#a221014p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
