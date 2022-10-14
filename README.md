@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Who Is the Stranger in &#39;Rings of Power&#39;? The Finale Sheds Some Light     - CNET](https://www.cnet.com/culture/entertainment/who-is-the-stranger-in-rings-of-power/#ftag=CAD590a51e)
- - [Sauron is Revealed in &#39;The Rings of Power&#39; Finale and the Actor Didn&#39;t Know it Was Him     - CNET](https://www.cnet.com/culture/entertainment/where-is-sauron-in-the-rings-of-power-here-are-all-the-possibilities/#ftag=CAD590a51e)
- - [Every Episode of &#39;Rings of Power&#39; Season One Compared to Tolkien&#39;s Lore     - CNET](https://www.cnet.com/culture/entertainment/how-does-rings-of-power-differ-from-tolkiens-works-a-full-breakdown-by-episode/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cybercrime in gaming has increased substantially since the start of the pandemic, with threats lurking in cheat codes, microtransactions, and players&#39; messages &lpar;Amanda Holpuch/New York Times&rpar;](http://www.techmeme.com/221014/p2#a221014p2)
+ - [&#39;The Rings of Power&#39; Season 1 Ending Explained     - CNET](https://www.cnet.com/culture/entertainment/the-rings-of-power-season-1-ending-explained/#ftag=CAD590a51e)
+ - [You told us: Robust zoom or realistic portraits? Here’s what you prefer.](https://www.androidauthority.com/robust-zoom-realistic-portraits-camera-poll-results-3220483/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
