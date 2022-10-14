@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I restored my old photos with Pixel 7’s Photo Unblur and the results amazed me](https://www.androidauthority.com/google-pixel-7-photo-unblur-3218201/)
- - [Protect a MacBook Pro with Satechi&#39;s Eco HardShell](https://appleinsider.com/articles/22/10/14/protect-a-macbook-pro-with-satechis-eco-hardshell?utm_medium=rss)
- - [For search results on mobile, Google is replacing the &quot;Ad&quot; label with &quot;Sponsored&quot; in bold and moving it above the site URL in a separate line &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221014/p14#a221014p14)<!-- TECH:END -->
+ - [Mophie&#39;s new powerstation plus will charge three devices, simultaneously](https://appleinsider.com/articles/22/10/14/mophies-new-powerstation-plus-will-charge-three-devices-simultaneously?utm_medium=rss)
+ - [Save $130 on the Galaxy Tab S8 Ultra today, and more of the best tablet deals](https://www.androidauthority.com/best-tablet-deals-1117141/)
+ - [How a fleet of robots could help solve the Great Lakes’ plastic pollution problem](https://www.theverge.com/2022/10/14/23401381/great-lakes-plastic-pollution-cleanup-tech-robots)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
