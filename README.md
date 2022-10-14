@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🍿 Cheap Netflix &lpar;with ads&rpar;](https://www.androidauthority.com/daily-authority-october-14-2022-3220487/)
- - [A hacker leaks 5TB of data from the Colombian government, exposing the identities and methods of Australian Federal Police anti-narcotics agents &lpar;Nigel Gladstone/Sydney Morning Herald&rpar;](http://www.techmeme.com/221014/p6#a221014p6)
- - [Oklahoma Apple Store staff to vote on labor union](https://appleinsider.com/articles/22/10/14/oklahoma-apple-store-staff-to-vote-on-labor-union?utm_medium=rss)<!-- TECH:END -->
+ - [A Reboot of the Maxwell’s Demon Thought Experiment—in Real Life](https://www.wired.com/story/maxwells-demon-thought-experiment-reboot/)
+ - [Brian Eno on Why He Wrote a Climate Album With Deepfake Birdsongs](https://www.wired.com/story/brian-eno-q-and-a/)
+ - [A Lenovo ThinkPad smartphone could be on the way](https://www.androidauthority.com/lenovo-thinkpad-smartphone-3220516/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
