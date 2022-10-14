@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With inflation it&#39;s like 5 and a half](http://9gag.com/gag/aXnpRzb)
- - ⏩ [If car looses the brakes in a self driving vehicle, what will it decide to do? If I was the engineer of that thing, I would add an evil lough and say to them all `it&#39;s our world now b\u05d5tches!`](http://9gag.com/gag/aA0rq09)
- - 👉 [Based](http://9gag.com/gag/aBd3vDx)<!-- MEMES:END -->
+ - 💣 [60% of the time, it works every time](http://9gag.com/gag/amA0nX2)
+ - ⏩ [Careful what you wsh for](http://9gag.com/gag/aA0rmD0)
+ - 👉 [If car looses the brakes in a self driving vehicle, what will it decide to do? If I was the engineer of that thing, I would add an evil lough and say to them all `it&#39;s our world now b\u05d5tches!`](http://9gag.com/gag/aA0rq09)<!-- MEMES:END -->
 
 ---
 
