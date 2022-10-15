@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - ⏩ [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 👉 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)<!-- MEMES:END -->
+ - 💣 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - ⏩ [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - 👉 [Based](http://9gag.com/gag/aOxbgA6)<!-- MEMES:END -->
 
 ---
 
