@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Rings of Power’s Stranger spills on the show’s biggest mystery](https://www.polygon.com/23403120/rings-power-who-is-stranger-wizard-actor-daniel-weyman)
  - [Today&#39;s Wordle 483 answer and hint: Saturday, October 15](https://www.pcgamer.com/todays-wordle-483-answer-hint)
- - [The big Rings of Power season 2 questions, answered](https://www.polygon.com/23403598/lord-rings-power-season-2-questions-theories-answers)
- - [Overwatch 2 players aren’t happy with the game’s cosmetics and store prices](https://www.polygon.com/gaming/23403447/overwatch-2-stores-skins-cosmetics-free-play)<!-- GAME:END -->
+ - [The big Rings of Power season 2 questions, answered](https://www.polygon.com/23403598/lord-rings-power-season-2-questions-theories-answers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
