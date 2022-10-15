@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Miami-based Brave Health, a Medicaid-focused virtual mental health care provider, raised a $40M Series C, bringing its total funding to $60M &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/221015/p1#a221015p1)
  - [Insight Partners to buy a minority stake in Aptean, which develops ERP and supply chain management software, sources say at a ~$3.55B valuation, including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p23#a221014p23)
- - [How to change your Google Pixel Watch band](https://www.androidauthority.com/how-to-change-pixel-watch-band-3220471/)
- - [Apple deals are still going strong after Amazon&#39;s Prime Sale, save up to $310](https://appleinsider.com/articles/22/10/13/apple-deals-are-still-going-strong-after-amazons-prime-sale-save-up-to-310?utm_medium=rss)<!-- TECH:END -->
+ - [How to change your Google Pixel Watch band](https://www.androidauthority.com/how-to-change-pixel-watch-band-3220471/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
