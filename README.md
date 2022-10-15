@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Science dad jokes](http://9gag.com/gag/a5XP4jy)
- - ⏩ [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 👉 [He tripped and hit his head!](http://9gag.com/gag/aXnp1bV)<!-- MEMES:END -->
+ - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - ⏩ [Ilizarov Technique, a method to lengthen a bone by `fracturing` and pulling the bone over the course of several months. Useful for severe fracture and..... cosmetic height increase](http://9gag.com/gag/aA0rqo2)
+ - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 ---
 
