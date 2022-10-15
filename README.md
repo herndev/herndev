@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple AirPods Pro &lpar;2nd generation&rpar; review: It all adds up](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)
- - [Razer’s noise-canceling wireless earbuds are coming to Xbox and PlayStation](https://www.theverge.com/2022/10/15/23392485/razer-hammerhead-hyperspeed-noise-canceling-wireless-earbuds-xbox-playstation)
- - [Razer’s Edge is one sharp-looking cloud gaming Android handheld](https://www.theverge.com/2022/10/15/23392481/razer-edge-android-cloud-gaming-tablet-qualcomm-price-release-date-specs)<!-- TECH:END -->
+ - [Apple reportedly wants to turn the iPad into a smart display and speaker with a new dock](https://www.theverge.com/2022/10/15/23406061/apple-ipad-smart-display-speaker-dock-accessory-rumors)
+ - [Elon Musk claims SpaceX will &quot;just keep funding Ukraine govt for free&quot; even though the Starlink service is still losing money &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221015/p11#a221015p11)
+ - [Razer unveils Edge gaming handheld with Android 12, a 6.8&quot; 144Hz screen, and Qualcomm&#39;s G3x Gen 1 chipset, available for $400 in January 2023 with Wi-Fi &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/221015/p10#a221015p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
