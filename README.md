@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
- - ⏩ [Georgia police officers](http://9gag.com/gag/adPYw9D)
- - 👉 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
+ - 💣 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)
+ - ⏩ [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
+ - 👉 [Im only 30...](http://9gag.com/gag/aXnpyz9)<!-- MEMES:END -->
 
 ---
 
