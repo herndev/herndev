@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Horizon Worlds VR platform is reportedly struggling to keep users](https://www.theverge.com/2022/10/15/23405811/meta-horizon-worlds-losing-users-report)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-454-3220323/)
- - [The Best Smart Ovens of 2022: Amazon, June, Tovala and More     - CNET](https://www.cnet.com/news/best-smart-ovens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple AirPods Pro &lpar;2nd generation&rpar; review: It all adds up](https://www.androidauthority.com/apple-airpods-pro-2nd-generation-review-3217269/)
+ - [Razer’s noise-canceling wireless earbuds are coming to Xbox and PlayStation](https://www.theverge.com/2022/10/15/23392485/razer-hammerhead-hyperspeed-noise-canceling-wireless-earbuds-xbox-playstation)
+ - [Razer’s Edge is one sharp-looking cloud gaming Android handheld](https://www.theverge.com/2022/10/15/23392481/razer-edge-android-cloud-gaming-tablet-qualcomm-price-release-date-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
