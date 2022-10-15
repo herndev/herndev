@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Spotify&#39;s podcast exclusivity strategy, which led to 75% audience drops for some Gimlet shows and caused others, like the Obamas, not to renew deals &lpar;Simon Owens/Simon Owens&#39;s Media Newsletter&rpar;](http://www.techmeme.com/221015/p6#a221015p6)
- - [Best Mattress for Back Pain, According to Our Sleep Experts     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
- - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Z Flip 4 is a great compact phone you can’t fully use with one hand](https://www.androidauthority.com/samsung-galaxy-z-flip-4-open-one-hand-opinion-3214746/)
+ - [Why India&#39;s Capital Is Teeming With Mosquitoes](https://www.wired.com/story/why-delhi-is-teeming-with-mosquitoes/)
+ - [Best Google Pixel Phone &lpar;2022&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
