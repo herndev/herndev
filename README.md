@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can die like that???](http://9gag.com/gag/aDY3Kvw)
+ - 💣 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)
  - ⏩ [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
  - 👉 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
