@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NLRB: Apple&#39;s Penn Square store employees in Oklahoma City have voted to unionize with the CWA, with 56 votes in favor and 32 against &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221014/p22#a221014p22)
- - [Second Apple Retail union will be at Penn Square, Oklahoma City store](https://appleinsider.com/articles/22/10/15/second-apple-retail-union-will-be-at-penn-square-oklahoma-city-store?utm_medium=rss)
- - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)<!-- TECH:END -->
+ - [Insight Partners to buy a minority stake in Aptean, which develops ERP and supply chain management software, sources say at a ~$3.55B valuation, including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p23#a221014p23)
+ - [How to change your Google Pixel Watch band](https://www.androidauthority.com/how-to-change-pixel-watch-band-3220471/)
+ - [Apple deals are still going strong after Amazon&#39;s Prime Sale, save up to $310](https://appleinsider.com/articles/22/10/13/apple-deals-are-still-going-strong-after-amazons-prime-sale-save-up-to-310?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
