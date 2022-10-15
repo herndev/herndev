@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - ⏩ [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - ⏩ [The Forbidden world](http://9gag.com/gag/a4odOBA)
  - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 ---
