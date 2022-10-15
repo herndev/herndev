@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal Meta docs detail its metaverse struggles; Horizon Worlds has ~200K MAUs vs. a goal of 500K by end of 2022; 9% of worlds are ever visited by 50+ people &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221015/p7#a221015p7)
- - [Google’s Pixel 6 is only $20 more than it was during Amazon’s recent Prime Day event](https://www.theverge.com/2022/10/15/23404763/google-pixel-6-phone-amazon-echo-dot-fifth-gen-apple-tv-4k-razer-seiren-mini-microphone-deal-sale)
- - [Has Google fixed the reception problems for the Pixel 7 series?](https://www.androidauthority.com/google-pixel-7-connectivity-reception-issues-3220800/)<!-- TECH:END -->
+ - [The Wire responds, including an alleged recording of an internal Instagram subdomain and DKIM verification, to Meta&#39;s statement questioning its XCheck probe &lpar;The Wire&rpar;](http://www.techmeme.com/221015/p8#a221015p8)
+ - [Change the Way You Cut Your Pizza, Veggies and More With This $8 Accessory     - CNET](https://www.cnet.com/news/this-accessory-will-change-the-way-you-cut-your-pizza-veggies-and-more/#ftag=CAD590a51e)
+ - [Apple&#39;s Latest 10.2-Inch iPad Is Back on Sale at Just $269 &lpar;Save $60&rpar;     - CNET](https://www.cnet.com/deals/apples-10-2-ipad-back-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
