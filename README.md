@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I swear](http://9gag.com/gag/avQgKgb)
- - ⏩ [For all 9GAG](http://9gag.com/gag/a2KYA9w)
- - 👉 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
+ - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - ⏩ [He effed around and found out](http://9gag.com/gag/aWGWXG4)
+ - 👉 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
 
 ---
 
