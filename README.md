@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)
- - [Epic Games Accuses Google of Destroying Evidence As Lawsuit Continues     - CNET](https://www.cnet.com/tech/mobile/epic-games-accuses-google-of-destroying-evidence-as-lawsuit-continues/#ftag=CAD590a51e)
- - [&#39;Rings of Power&#39;: 6 Lingering WTF Questions Following the Finale     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-6-lingering-wtf-questions-following-the-finale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NLRB: Apple&#39;s Penn Square store employees in Oklahoma City have voted to unionize with the CWA, with 56 votes in favor and 32 against &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221014/p22#a221014p22)
+ - [Second Apple Retail union will be at Penn Square, Oklahoma City store](https://appleinsider.com/articles/22/10/15/second-apple-retail-union-will-be-at-penn-square-oklahoma-city-store?utm_medium=rss)
+ - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
