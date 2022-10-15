@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A tweet about hair relaxer kits connected models from the boxes with women who grew up seeing them](https://www.theverge.com/2022/10/14/23391086/black-twitter-hair-relaxer-models-memories)
- - [Buy Cards Against Humanity&#39;s Clam Mayo, and You Could Win a Car     - CNET](https://www.cnet.com/culture/buy-cards-against-humanitys-clam-mayo-and-you-could-win-a-car/#ftag=CAD590a51e)
- - [Former Nikola CEO found guilty of defrauding investors with lies about hydrogen truck](https://www.theverge.com/2022/10/14/23405107/nikola-founder-trevor-milton-guilty-verdict-hydrogen-truck)<!-- TECH:END -->
+ - [NASA&#39;s Artemis I Moon Mission Gets New November Launch Date     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-mission-gets-new-november-launch-date/#ftag=CAD590a51e)
+ - [Manchester-based Connex One, which provides customer engagement tools to contact centers, raised a &amp;pound;93M Series C &lpar;George Simister/UKTN&rpar;](http://www.techmeme.com/221014/p21#a221014p21)
+ - [Pokemon Go Brings Back Hoopa Unbound for a New Type of Raid     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-brings-back-hoopa-unbound-for-a-new-type-of-raid/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
