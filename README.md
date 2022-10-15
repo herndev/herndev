@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)
- - ⏩ [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - 👉 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
+ - 💣 [Someone posted this easy to follow video on how to massage someone&#39;s calf.](http://9gag.com/gag/anzKZ6q)
+ - ⏩ [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
+ - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 ---
 
