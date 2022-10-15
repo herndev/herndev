@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - ⏩ [The Forbidden world](http://9gag.com/gag/a4odOBA)
- - 👉 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
+ - 💣 [Those damn carts... If only there was a solution...](http://9gag.com/gag/aWGWrn2)
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
 
 ---
 
