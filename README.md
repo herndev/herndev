@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Z Flip 4 is a great compact phone you can’t fully use with one hand](https://www.androidauthority.com/samsung-galaxy-z-flip-4-open-one-hand-opinion-3214746/)
- - [Why India&#39;s Capital Is Teeming With Mosquitoes](https://www.wired.com/story/why-delhi-is-teeming-with-mosquitoes/)
- - [Best Google Pixel Phone &lpar;2022&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
+ - [Google’s Next-Gen Video Chat Tech Is Ready for the Real World](https://www.wired.com/story/google-project-starline-iphone-roller-coasters/)
+ - [23 Best STEM Toys for Kids &lpar;2022&rpar;: Make Learning Fun](https://www.wired.com/gallery/best-stem-toys-for-kids/)
+ - [Elon Musk’s SpaceX Bails on Starlink Funding for Ukraine](https://www.wired.com/story/elon-musk-starlink-funding-ukraine/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
