@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at Spotify&#39;s podcast exclusivity strategy, which led to 75% audience drops for some Gimlet shows and caused others, like the Obamas, not to renew deals &lpar;Simon Owens/Simon Owens&#39;s Media Newsletter&rpar;](http://www.techmeme.com/221015/p6#a221015p6)
  - [Best Mattress for Back Pain, According to Our Sleep Experts     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
- - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)
- - [Best Dating Sites for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-dating-sites/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
