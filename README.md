@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reportedly wants to turn the iPad into a smart display and speaker with a new dock](https://www.theverge.com/2022/10/15/23406061/apple-ipad-smart-display-speaker-dock-accessory-rumors)
- - [Elon Musk claims SpaceX will &quot;just keep funding Ukraine govt for free&quot; even though the Starlink service is still losing money &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221015/p11#a221015p11)
- - [Razer unveils Edge gaming handheld with Android 12, a 6.8&quot; 144Hz screen, and Qualcomm&#39;s G3x Gen 1 chipset, available for $400 in January 2023 with Wi-Fi &lpar;Cameron Faulkner/The Verge&rpar;](http://www.techmeme.com/221015/p10#a221015p10)<!-- TECH:END -->
+ - [The Absolute Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video/#ftag=CAD590a51e)
+ - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-this-weekend/#ftag=CAD590a51e)
+ - [You&#39;ll Have to Pry the &#39;Hostile&#39; Thumbs-Up Emoji From My Cold, Dead Hands     - CNET](https://www.cnet.com/culture/internet/youll-have-to-pry-the-hostile-thumbs-up-emoji-from-my-cold-dead-hands/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
