@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fewer than half of the US and European rapid delivery startups launched in the pandemic are still operating; they face huge losses, a funding drought, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221015/p5#a221015p5)
- - [New York City-based IronVest, which uses biometric authentication and AI to verify the identity of users online, raised a $23M seed led by Accomplice &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/221015/p4#a221015p4)
- - [Stairwell, which scans companies&#39; data to detect if they are currently compromised or were in the past, raised a $45M Series B led by Section 32 &lpar;Help Net Security&rpar;](http://www.techmeme.com/221015/p3#a221015p3)<!-- TECH:END -->
+ - [Best Mattress for Back Pain, According to Our Sleep Experts     - CNET](https://www.cnet.com/health/sleep/best-mattress-for-back-pain/#ftag=CAD590a51e)
+ - [Best Rural Internet Providers of 2022: Wired and Wireless     - CNET](https://www.cnet.com/news/best-rural-internet/#ftag=CAD590a51e)
+ - [Best Dating Sites for 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-dating-sites/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
