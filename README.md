@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Would you play an FPS with a controller if aim assist helped you win more?](https://www.pcgamer.com/would-you-play-an-fps-with-a-controller-if-aim-assist-helped-you-win-more)
  - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)
- - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)
- - [Minecraft 1.20—everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-120-update-guide-launch-mobs-blocks)<!-- GAME:END -->
+ - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
