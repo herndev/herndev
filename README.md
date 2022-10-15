@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rings of Power’s Stranger spills on the show’s biggest mystery](https://www.polygon.com/23403120/rings-power-who-is-stranger-wizard-actor-daniel-weyman)
- - [Today&#39;s Wordle 483 answer and hint: Saturday, October 15](https://www.pcgamer.com/todays-wordle-483-answer-hint)
- - [The big Rings of Power season 2 questions, answered](https://www.polygon.com/23403598/lord-rings-power-season-2-questions-theories-answers)<!-- GAME:END -->
+ - [Scorn Is True To Giger’s Work, But Needs More Dicks](https://kotaku.com/scorn-hr-giger-ebb-games-xbox-game-pass-pc-steam-date-1849661537)
+ - [The GameCube was the hottest fashion accessory of its time](https://www.polygon.com/23378170/gamecube-purple-fashion-statement-celebrity-photos)
+ - [The Rings of Power’s Stranger spills on the show’s biggest mystery](https://www.polygon.com/23403120/rings-power-who-is-stranger-wizard-actor-daniel-weyman)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
