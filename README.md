@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Binance&#39;s mining service Binance Pool launches a $500M fund to provide 18-to-24-month loans for private and publicly listed Bitcoin miners &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221015/p12#a221015p12)
  - [The Absolute Best Sci-Fi TV Shows on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/best-sci-fi-tv-shows-prime-video/#ftag=CAD590a51e)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-this-weekend/#ftag=CAD590a51e)
- - [You&#39;ll Have to Pry the &#39;Hostile&#39; Thumbs-Up Emoji From My Cold, Dead Hands     - CNET](https://www.cnet.com/culture/internet/youll-have-to-pry-the-hostile-thumbs-up-emoji-from-my-cold-dead-hands/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-to-stream-on-netflix-this-weekend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
