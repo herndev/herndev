@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - ⏩ [The Forbidden world](http://9gag.com/gag/a4odOBA)
- - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
+ - 💣 [You can die like that???](http://9gag.com/gag/aDY3Kvw)
+ - ⏩ [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
+ - 👉 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
 ---
 
