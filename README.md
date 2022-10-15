@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - ⏩ [He effed around and found out](http://9gag.com/gag/aWGWXG4)
- - 👉 [Polish magician Marcin Po\u0142oniewicz impales TV host Marzena Rogalska live on air](http://9gag.com/gag/az2EvWK)<!-- MEMES:END -->
+ - 💣 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
+ - ⏩ [The Forbidden world](http://9gag.com/gag/a4odOBA)
+ - 👉 [Wait a minute....](http://9gag.com/gag/arm472p)<!-- MEMES:END -->
 
 ---
 
