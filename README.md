@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
- - ⏩ [Ukraine: We reject talks with Russia. When we win this war, we will decide the fate of Russia.](http://9gag.com/gag/armR1MV)
- - 👉 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)<!-- MEMES:END -->
+ - 💣 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)
+ - ⏩ [Why all these emotional swings was](http://9gag.com/gag/amA8Nzv)
+ - 👉 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)<!-- MEMES:END -->
 
 ---
 
