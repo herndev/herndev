@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NASA&#39;s Artemis I Moon Mission Gets New November Launch Date     - CNET](https://www.cnet.com/science/space/nasas-artemis-i-moon-mission-gets-new-november-launch-date/#ftag=CAD590a51e)
- - [Manchester-based Connex One, which provides customer engagement tools to contact centers, raised a &amp;pound;93M Series C &lpar;George Simister/UKTN&rpar;](http://www.techmeme.com/221014/p21#a221014p21)
- - [Pokemon Go Brings Back Hoopa Unbound for a New Type of Raid     - CNET](https://www.cnet.com/tech/gaming/pokemon-go-brings-back-hoopa-unbound-for-a-new-type-of-raid/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Store workers in Oklahoma vote to unionize](https://www.theverge.com/2022/10/14/23399639/apple-store-oklahoma-union-vote)
+ - [Epic Games Accuses Google of Destroying Evidence As Lawsuit Continues     - CNET](https://www.cnet.com/tech/mobile/epic-games-accuses-google-of-destroying-evidence-as-lawsuit-continues/#ftag=CAD590a51e)
+ - [&#39;Rings of Power&#39;: 6 Lingering WTF Questions Following the Finale     - CNET](https://www.cnet.com/culture/entertainment/rings-of-power-6-lingering-wtf-questions-following-the-finale/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
