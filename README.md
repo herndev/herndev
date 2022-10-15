@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - ⏩ [Here we go again](http://9gag.com/gag/anzKwn5)
- - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
+ - 💣 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)
+ - ⏩ [Why all these emotional swings was](http://9gag.com/gag/amA8Nzv)
+ - 👉 [Translation is horrible, but gets the message across](http://9gag.com/gag/aZDNbE0)<!-- MEMES:END -->
 
 ---
 
