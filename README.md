@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This needs a Netflix series](http://9gag.com/gag/amA0QGX)
- - ⏩ [I have questions....](http://9gag.com/gag/a8qY9xV)
- - 👉 [Georgia police officers](http://9gag.com/gag/adPYw9D)<!-- MEMES:END -->
+ - 💣 [I have questions....](http://9gag.com/gag/a8qY9xV)
+ - ⏩ [No one do it better than her being the most hilarious dumbi*ch](http://9gag.com/gag/a6qy082)
+ - 👉 [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)<!-- MEMES:END -->
 
 ---
 
