@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 483 answer and hint: Saturday, October 15](https://www.pcgamer.com/todays-wordle-483-answer-hint)
  - [The big Rings of Power season 2 questions, answered](https://www.polygon.com/23403598/lord-rings-power-season-2-questions-theories-answers)
- - [Overwatch 2 players aren’t happy with the game’s cosmetics and store prices](https://www.polygon.com/gaming/23403447/overwatch-2-stores-skins-cosmetics-free-play)
- - [CD Projekt&#39;s big roadmap doesn&#39;t indicate an impending acquisition, says analyst](https://www.pcgamer.com/cd-projekts-big-roadmap-doesnt-indicate-an-impending-acquisition-says-analyst)<!-- GAME:END -->
+ - [Overwatch 2 players aren’t happy with the game’s cosmetics and store prices](https://www.polygon.com/gaming/23403447/overwatch-2-stores-skins-cosmetics-free-play)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
