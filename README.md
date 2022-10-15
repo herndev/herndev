@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level Lock+ with Home Key hits some Apple Store shelves](https://appleinsider.com/articles/22/10/15/level-lock-with-home-key-hits-some-apple-store-shelves?utm_medium=rss)
- - [Binance&#39;s mining service Binance Pool launches a $500M fund to provide 18-to-24-month loans for private and publicly listed Bitcoin miners &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221015/p12#a221015p12)
- - [Best 4K Projector for 2022     - CNET](https://www.cnet.com/tech/home-entertainment/best-4k-projector/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Steve Jobs&#39; Macintosh SE from NeXT could fetch $300,000 at auction](https://appleinsider.com/articles/22/10/15/steve-jobs-macintosh-se-from-next-could-fetch-300000-at-auction?utm_medium=rss)
+ - [Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221015/p13#a221015p13)
+ - [Elon Musk says Starlink will keep funding Ukraine’s government ‘for free’ despite losing money](https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
