@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Would you play an FPS with a controller if aim assist helped you win more?](https://www.pcgamer.com/would-you-play-an-fps-with-a-controller-if-aim-assist-helped-you-win-more)
- - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)
- - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)<!-- GAME:END -->
+ - [Guess what They&#39;re Alive! ripped off? It&#39;s not a trick question](https://www.pcgamer.com/saturday-crapshoot-theyre-alive)
+ - [Gotham Knights will get a cooperative mode for four players after launch](https://www.pcgamer.com/gotham-knights-will-get-a-cooperative-mode-for-four-players-after-launch)
+ - [Minecraft Legends shows off its 4 player co-op in new gameplay video](https://www.pcgamer.com/minecraft-legends-shows-off-its-4-player-co-op-in-new-gameplay-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
