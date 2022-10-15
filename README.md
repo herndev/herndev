@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The WEEE Forum research says that about 5.3B out of an estimated 16B mobile phones worldwide will be thrown away and become waste in 2022 &lpar;Victoria Gill/BBC&rpar;](http://www.techmeme.com/221015/p2#a221015p2)
- - [Miami-based Brave Health, a Medicaid-focused virtual mental health care provider, raised a $40M Series C, bringing its total funding to $60M &lpar;Emily Olsen/MobiHealthNews&rpar;](http://www.techmeme.com/221015/p1#a221015p1)
- - [Insight Partners to buy a minority stake in Aptean, which develops ERP and supply chain management software, sources say at a ~$3.55B valuation, including debt &lpar;Bloomberg&rpar;](http://www.techmeme.com/221014/p23#a221014p23)<!-- TECH:END -->
+ - [Fewer than half of the US and European rapid delivery startups launched in the pandemic are still operating; they face huge losses, a funding drought, and more &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221015/p5#a221015p5)
+ - [New York City-based IronVest, which uses biometric authentication and AI to verify the identity of users online, raised a $23M seed led by Accomplice &lpar;Tim Keary/VentureBeat&rpar;](http://www.techmeme.com/221015/p4#a221015p4)
+ - [Stairwell, which scans companies&#39; data to detect if they are currently compromised or were in the past, raised a $45M Series B led by Section 32 &lpar;Help Net Security&rpar;](http://www.techmeme.com/221015/p3#a221015p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
