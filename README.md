@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone posted this easy to follow video on how to massage someone&#39;s calf.](http://9gag.com/gag/anzKZ6q)
+ - 💣 [He effed around and found out](http://9gag.com/gag/aWGWXG4)
  - ⏩ [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
+ - 👉 [How the turntables](http://9gag.com/gag/aBd3BXO)<!-- MEMES:END -->
 
 ---
 
