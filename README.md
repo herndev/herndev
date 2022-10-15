@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta&#39;s Original Voice Actress: &#39;I Urge People To Boycott This Game&#39; Over &#39;Insulting&#39; Pay Offer](https://kotaku.com/bayonetta-3-hellena-taylor-voice-nintendo-switch-hale-1849662631)
- - [Every Michael Myers Halloween mask tells a story](https://www.polygon.com/23391064/michael-myers-halloween-mask-history)
- - [Overwatch 2 review](https://www.pcgamer.com/overwatch-2-review)<!-- GAME:END -->
+ - [Mojang announces Minecraft 1.20, with first beta coming &#39;a few days from now&#39;](https://www.pcgamer.com/mojang-announces-minecraft-120-with-first-beta-coming-a-few-days-from-now)
+ - [Minecraft camels: what we know about our upcoming desert pals](https://www.pcgamer.com/minecraft-camel-mob)
+ - [Minecraft 1.20—everything we know about the next major Minecraft update](https://www.pcgamer.com/minecraft-120-update-guide-launch-mobs-blocks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
