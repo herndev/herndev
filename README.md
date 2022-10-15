@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I have questions....](http://9gag.com/gag/a8qY9xV)
- - ⏩ [No one do it better than her being the most hilarious dumbi*ch](http://9gag.com/gag/a6qy082)
- - 👉 [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)<!-- MEMES:END -->
+ - 💣 [Tell us the weirdest fact you know](http://9gag.com/gag/aeQ0w1b)
+ - ⏩ [Im only 30...](http://9gag.com/gag/aXnpyz9)
+ - 👉 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
 
 ---
 
