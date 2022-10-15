@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Bayonetta&#39;s Original Voice Actress: &#39;I Urge People To Boycott This Game&#39; Over &#39;Insulting&#39; Pay Offer](https://kotaku.com/bayonetta-3-hellena-taylor-voice-nintendo-switch-hale-1849662631)
  - [Every Michael Myers Halloween mask tells a story](https://www.polygon.com/23391064/michael-myers-halloween-mask-history)
- - [Overwatch 2 review](https://www.pcgamer.com/overwatch-2-review)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Overwatch 2 review](https://www.pcgamer.com/overwatch-2-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
