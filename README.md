@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a minute....](http://9gag.com/gag/arm472p)
- - ⏩ [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)
- - 👉 [Based](http://9gag.com/gag/aOxbgA6)<!-- MEMES:END -->
+ - 💣 [Another day in a 9gagger&#39;s life](http://9gag.com/gag/amA0eDy)
+ - ⏩ [Ukraine: We reject talks with Russia. When we win this war, we will decide the fate of Russia.](http://9gag.com/gag/armR1MV)
+ - 👉 [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)<!-- MEMES:END -->
 
 ---
 
