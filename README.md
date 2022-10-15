@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wire responds, including an alleged recording of an internal Instagram subdomain and DKIM verification, to Meta&#39;s statement questioning its XCheck probe &lpar;The Wire&rpar;](http://www.techmeme.com/221015/p8#a221015p8)
- - [Change the Way You Cut Your Pizza, Veggies and More With This $8 Accessory     - CNET](https://www.cnet.com/news/this-accessory-will-change-the-way-you-cut-your-pizza-veggies-and-more/#ftag=CAD590a51e)
- - [Apple&#39;s Latest 10.2-Inch iPad Is Back on Sale at Just $269 &lpar;Save $60&rpar;     - CNET](https://www.cnet.com/deals/apples-10-2-ipad-back-on-sale/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-454-3220323/)
+ - [The Best Smart Ovens of 2022: Amazon, June, Tovala and More     - CNET](https://www.cnet.com/news/best-smart-ovens/#ftag=CAD590a51e)
+ - [The Wire responds, including an alleged recording of an internal Instagram subdomain and DKIM verification, to Meta&#39;s statement questioning its XCheck probe &lpar;The Wire&rpar;](http://www.techmeme.com/221015/p8#a221015p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
