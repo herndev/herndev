@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boss Be Pervin&#39;](http://9gag.com/gag/a1Pe928)
- - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
- - 👉 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
+ - 💣 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
+ - ⏩ [Watching those blades spin like that puts me in a daze](http://9gag.com/gag/anzBq0B)
+ - 👉 [No eye contact](http://9gag.com/gag/a7qyjA2)<!-- MEMES:END -->
 
 ---
 
