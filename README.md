@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Forbidden world](http://9gag.com/gag/a4odOBA)
- - ⏩ [Dang](http://9gag.com/gag/a4odMpv)
- - 👉 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)<!-- MEMES:END -->
+ - 💣 [Easy $120 and she said no.](http://9gag.com/gag/aA0r8VR)
+ - ⏩ [Typical day for indian railways](http://9gag.com/gag/axoGN2b)
+ - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
 
 ---
 
