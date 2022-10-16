@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thermite munition over Bakhmut. Really scary.](http://9gag.com/gag/aOxmV4M)
+ - 💣 [Hmm](http://9gag.com/gag/aXnX0o2)
  - ⏩ [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)
- - 👉 [Security measurements in South Africa are doomsday material..](http://9gag.com/gag/aBdrRpQ)<!-- MEMES:END -->
+ - 👉 [When a gagger gets his first neck crack by a chiropractor](http://9gag.com/gag/aeQ0X5O)<!-- MEMES:END -->
 
 ---
 
