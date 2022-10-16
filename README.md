@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Water Stuck Inside Tree](http://9gag.com/gag/aGERKN7)
- - ⏩ [Watching those blades spin like that puts me in a daze](http://9gag.com/gag/anzBq0B)
- - 👉 [No eye contact](http://9gag.com/gag/a7qyjA2)<!-- MEMES:END -->
+ - 💣 [How to get rid of jehova\u2019s without saying a word](http://9gag.com/gag/aoKjEXe)
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
 
 ---
 
