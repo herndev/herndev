@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)
- - ⏩ [Why all these emotional swings was](http://9gag.com/gag/amA8Nzv)
- - 👉 [Translation is horrible, but gets the message across](http://9gag.com/gag/aZDNbE0)<!-- MEMES:END -->
+ - 💣 [How is the engine not instantly killed once the air intake is underwater?](http://9gag.com/gag/aDYmRw7)
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)<!-- MEMES:END -->
 
 ---
 
