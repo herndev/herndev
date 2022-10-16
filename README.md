@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Negroni Sbagliato: Why Emma D&#39;Arcy&#39;s Drink of Choice Now a TikTok Trend     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CAD590a51e)
- - [Instead of other newsletter platforms, Substack should be compared to services giving creators direct relationships with fans, like Shopify, Twitch, and Patreon &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221015/p14#a221015p14)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft admits Windows was not properly downloading and applying updates to the driver blocklist designed to thwart &quot;bring your own vulnerable driver&quot; attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221016/p1#a221016p1)
+ - [BNP Paribas agrees to acquire Kantox, a London-based currency management automation software firm, for &amp;euro;120M after a three year partnership &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/221015/p15#a221015p15)
+ - [Negroni Sbagliato: Why Emma D&#39;Arcy&#39;s Drink of Choice Now a TikTok Trend     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
