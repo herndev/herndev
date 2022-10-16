@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Im only 30...](http://9gag.com/gag/aXnpyz9)
- - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
- - 👉 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
+ - 💣 [Love how he adds scenes to show of things that annoy him in real life.](http://9gag.com/gag/a2KYQ1w)
+ - ⏩ [Seriously 9gag, WTF?](http://9gag.com/gag/aYVwjeV)
+ - 👉 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
 
 ---
 
