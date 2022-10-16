@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft admits Windows was not properly downloading and applying updates to the driver blocklist designed to thwart &quot;bring your own vulnerable driver&quot; attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221016/p1#a221016p1)
- - [BNP Paribas agrees to acquire Kantox, a London-based currency management automation software firm, for &amp;euro;120M after a three year partnership &lpar;Fiona Alston/Tech.eu&rpar;](http://www.techmeme.com/221015/p15#a221015p15)
- - [Negroni Sbagliato: Why Emma D&#39;Arcy&#39;s Drink of Choice Now a TikTok Trend     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amsterdam-based Crisp, an app-only supermarket focused on ultra-fresh food, raised a &amp;euro;75M and announced the acquisition of local food supplier Eetfabriek &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/221016/p3#a221016p3)
+ - [Metalenz, which makes metasurface optics for 3D imaging and sensing, raised a $30M Series B led by Neotribe Ventures, and says it is shipping millions of orders &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221016/p2#a221016p2)
+ - [Microsoft admits Windows was not properly downloading and applying updates to the driver blocklist designed to thwart &quot;bring your own vulnerable driver&quot; attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221016/p1#a221016p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
