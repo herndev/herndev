@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Love how he adds scenes to show of things that annoy him in real life.](http://9gag.com/gag/a2KYQ1w)
- - ⏩ [Seriously 9gag, WTF?](http://9gag.com/gag/aYVwjeV)
- - 👉 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
+ - 💣 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
+ - ⏩ [Our company switched from an award ceremony and dinner for our 20 year anniversary to paper certificates. This was the response](http://9gag.com/gag/aBdrKwZ)
+ - 👉 [You can die like that???](http://9gag.com/gag/aDY3Kvw)<!-- MEMES:END -->
 
 ---
 
