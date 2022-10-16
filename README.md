@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - ⏩ [Our company switched from an award ceremony and dinner for our 20 year anniversary to paper certificates. This was the response](http://9gag.com/gag/aBdrKwZ)
- - 👉 [You can die like that???](http://9gag.com/gag/aDY3Kvw)<!-- MEMES:END -->
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [MOCtober challenge day 14: build something from Lord of the Rings](http://9gag.com/gag/aMErMR6)<!-- MEMES:END -->
 
 ---
 
