@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Hmm](http://9gag.com/gag/aXnX0o2)
- - ⏩ [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)
- - 👉 [When a gagger gets his first neck crack by a chiropractor](http://9gag.com/gag/aeQ0X5O)<!-- MEMES:END -->
+ - ⏩ [Damn](http://9gag.com/gag/aBdrrez)
+ - 👉 [$0.50 talking about the real slim shady](http://9gag.com/gag/awZ70ED)<!-- MEMES:END -->
 
 ---
 
