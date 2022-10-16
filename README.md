@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tested: Has Apple shrugged off its reputation for poor battery life?](https://www.androidauthority.com/apple-iphone-battery-test-3215710/)
- - [Apple Music’s spatial audio is coming to  select Mercedes-Benz models](https://www.theverge.com/2022/10/16/23407129/apple-music-spatial-audio-dolby-select-mercedes-benz-models)
- - [Mercedes-Benz EQE SUV is a more down-to-earth luxury electric vehicle](https://www.theverge.com/2022/10/16/23404802/mercedes-benz-eqe-suv-range-price-specs)<!-- TECH:END -->
+ - [Uplift L-Shaped Standing Desk V2 review: Stylish &amp; sturdy desk that&#39;ll help you stay healthy](https://appleinsider.com/articles/22/10/16/uplift-l-shaped-standing-desk-v2-review-stylish-sturdy-desk-thatll-help-you-stay-healthy?utm_medium=rss)
+ - [That Big &#39;Rings of Power&#39; Finale Twist Doesn&#39;t Work in the Streaming Age     - CNET](https://www.cnet.com/culture/entertainment/that-big-rings-of-power-finale-twist-doesnt-work-in-the-streaming-age/#ftag=CAD590a51e)
+ - [Boost Your Happiness With These 7 Mood-Altering Foods     - CNET](https://www.cnet.com/health/mental/boost-your-happiness-with-these-7-mood-altering-foods/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
