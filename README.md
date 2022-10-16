@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Study: AI hiring tools don&#39;t reduce bias or improve diversity; they can&#39;t be trained to only identify job-related characteristics and strip out gender and race &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/221016/p6#a221016p6)
- - [Alphawave IP acquires Banias Labs, an Israel-based optical digital signal processing chip developer for data centers, for $240M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221016/p5#a221016p5)
- - [Seattle-based Diagrid, which offers a fully managed Dapr on Kubernetes service, raised a $20M Series A led by Norwest Venture Partners &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221016/p4#a221016p4)<!-- TECH:END -->
+ - [UK-based Zen Educate, a marketplace that algorithmically matches schools with the best available teachers, raised a $21M Series A extension to fuel US expansion &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221016/p7#a221016p7)
+ - [What Happens in Our Brains on a Frightful Halloween Night?     - CNET](https://www.cnet.com/science/what-happens-in-our-brains-on-a-frightful-halloween-night/#ftag=CAD590a51e)
+ - [iPhone 14, Plus, Pro and Pro Max: Comparing Price, Size, Battery and More Specs     - CNET](https://www.cnet.com/tech/mobile/iphone-14-plus-pro-and-pro-max-comparing-price-size-battery-and-more-specs/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
