@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s out-of-date driver list left Windows PCs open to malware attacks for years](https://www.theverge.com/2022/10/16/23405739/microsoft-out-of-date-driver-list-windows-pcs-malware-attacks-years-byovd)
- - [Holding platforms accountable for algorithms promoting self-harm is hard because research linking mental health and social media doesn&#39;t establish causation &lpar;Eleanor Cummins/Wired&rpar;](http://www.techmeme.com/221016/p9#a221016p9)
- - [Liverpool vs. Man City Livestream: How to Watch Premier League Soccer From Anywhere     - CNET](https://www.cnet.com/tech/services-and-software/liverpool-vs-man-city-livestream-how-to-watch-premier-league-soccer-from-anywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPad Pro update may not add mini LED to 11-inch model after all](https://appleinsider.com/articles/22/10/16/ipad-pro-update-may-not-add-mini-led-to-11-inch-model-after-all?utm_medium=rss)
+ - [Uplift L-Shaped Standing Desk V2 review: Stylish &amp; sturdy desk that&#39;ll help you stay healthy](https://appleinsider.com/articles/22/10/16/uplift-l-shaped-standing-desk-v2-review-stylish-sturdy-desk-thatll-help-you-stay-healthy?utm_medium=rss)
+ - [New US export controls may affect 43+ senior execs at 16 public semiconductor companies in China, forcing them to choose between US citizenship and their jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221016/p10#a221016p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
