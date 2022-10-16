@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Magic: The Gathering has banned my beloved Meathook Massacre](https://www.pcgamer.com/magic-has-banned-my-beloved-meathook-massacre)
- - [Trombone Champ, but it&#39;s Sephiroth playing One Winged Angel &lpar;badly&rpar;](https://www.pcgamer.com/trombone-champ-but-its-sephiroth-playing-one-winged-angel-badly)
- - [Guess what They&#39;re Alive! ripped off? It&#39;s not a trick question](https://www.pcgamer.com/saturday-crapshoot-theyre-alive)<!-- GAME:END -->
+ - [Old School Runescape player scores 16 billion gold for PvP kill](https://www.pcgamer.com/old-school-runescape-player-scores-16-billion-gold-for-pvp-kill)
+ - [Bayonetta voice actress urges players to boycott next game, citing insulting treatment by developer Platinum](https://www.pcgamer.com/bayonetta-voice-actress-urges-players-to-boycott-next-game-citing-insulting-treatment-by-developer-platinum)
+ - [Magic: The Gathering has banned my beloved Meathook Massacre](https://www.pcgamer.com/magic-has-banned-my-beloved-meathook-massacre)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
