@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Tab A7 Lite review: Lite on the money](https://www.androidauthority.com/samsung-galaxy-tab-a7-lite-review-3207547/)
- - [Apple Music&#39;s Spatial Audio spreads to Mercedes-Benz vehicles](https://appleinsider.com/articles/22/10/16/apple-musics-spatial-audio-spreads-to-mercedes-benz-vehicles?utm_medium=rss)
- - [Deals: fall Prime Day pricing has returned on Apple iPads at Amazon](https://appleinsider.com/articles/22/10/16/deals-fall-prime-day-pricing-has-returned-on-apple-ipads-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro lead times dip below iPhone 13 Pro as moderation continues](https://appleinsider.com/articles/22/10/16/iphone-14-pro-lead-times-dip-below-iphone-13-pro-as-moderation-continues?utm_medium=rss)
+ - [Android’s audio output switcher may soon let you pick cast devices, too](https://www.theverge.com/2022/10/16/23407553/android-audio-output-switcher-pick-cast-devices-google)
+ - [Analysis: 14 self-driving vehicle tech companies that went public in the past two years have seen an 80%+ average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221016/p12#a221016p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
