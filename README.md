@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Negroni Sbagliato: Why Emma D&#39;Arcy&#39;s Drink of Choice Now a TikTok Trend     - CNET](https://www.cnet.com/culture/entertainment/negroni-sbagliato-why-emma-darcys-drink-of-choice-now-a-tiktok-trend/#ftag=CAD590a51e)
  - [Instead of other newsletter platforms, Substack should be compared to services giving creators direct relationships with fans, like Shopify, Twitch, and Patreon &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221015/p14#a221015p14)
- - [New iPad Pros arriving in days, new MacBook Pros in November](https://appleinsider.com/articles/22/10/15/ipad-pro-update-could-be-days-away-macbook-pro-due-november?utm_medium=rss)
- - [Best Fitness Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
