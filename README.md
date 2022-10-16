@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
- - ⏩ [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
- - 👉 [Builder scares his co-worker at work](http://9gag.com/gag/aoK0By2)<!-- MEMES:END -->
+ - 💣 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)
+ - ⏩ [You, the player](http://9gag.com/gag/aVbWGyw)
+ - 👉 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
 
 ---
 
