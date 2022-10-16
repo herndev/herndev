@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome Unit!](http://9gag.com/gag/aEq1mYN)
- - ⏩ [Nap like an egyptian](http://9gag.com/gag/a1PYe7b)
- - 👉 [The Forbidden world](http://9gag.com/gag/a4odOBA)<!-- MEMES:END -->
+ - 💣 [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
+ - ⏩ [\u201cCan we keep him?\u201d](http://9gag.com/gag/aZDNbqz)
+ - 👉 [Im only 30...](http://9gag.com/gag/aXnpyz9)<!-- MEMES:END -->
 
 ---
 
