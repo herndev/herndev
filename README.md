@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Have a nice Day](http://9gag.com/gag/aWGOQRZ)
- - ⏩ [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)
- - 👉 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)<!-- MEMES:END -->
+ - 💣 [Wait a minute....](http://9gag.com/gag/arm472p)
+ - ⏩ [What game turned out to be an absolute masterpiece for you unexpectedly? &lpar;PREY for me, more info in 1st comment&rpar;](http://9gag.com/gag/aMEroxW)
+ - 👉 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)<!-- MEMES:END -->
 
 ---
 
