@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
- - ⏩ [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
- - 👉 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)<!-- MEMES:END -->
+ - 💣 [Thermite munition over Bakhmut. Really scary.](http://9gag.com/gag/aOxmV4M)
+ - ⏩ [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)
+ - 👉 [Security measurements in South Africa are doomsday material..](http://9gag.com/gag/aBdrRpQ)<!-- MEMES:END -->
 
 ---
 
