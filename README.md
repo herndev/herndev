@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 16: $200 off 12.9-inch iPad Pro, 43% off Beats Studio3, $59 off Razer mechanical keyboard, more](https://appleinsider.com/articles/22/10/16/daily-deals-oct-16-200-off-129-inch-ipad-pro-43-off-beats-studio3-59-off-razer-mechanical-keyboard-more?utm_medium=rss)
- - [Lite apps should be available everywhere and to everyone](https://www.androidauthority.com/lite-apps-should-be-available-to-everyone-3210085/)
- - [What Drives Galaxies? The Milky Way’s Black Hole May Be the Key](https://www.wired.com/story/the-milky-ways-black-hole-may-be-the-key-to-what-drives-galaxies/)<!-- TECH:END -->
+ - [International Federation of Robotics: 500K+ industrial robots were installed in 2021, an all-time high, bringing the number of global installations to 3.5M &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221016/p8#a221016p8)
+ - [GoPro Hero 10 Black Review: Vertical Video](https://www.wired.com/review/gopro-hero-11-black/)
+ - [16 Best Gaming Mice and Mousepads &lpar;2022&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
