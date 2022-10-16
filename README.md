@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Trombone Champ, but it&#39;s Sephiroth playing One Winged Angel &lpar;badly&rpar;](https://www.pcgamer.com/trombone-champ-but-its-sephiroth-playing-one-winged-angel-badly)
  - [Guess what They&#39;re Alive! ripped off? It&#39;s not a trick question](https://www.pcgamer.com/saturday-crapshoot-theyre-alive)
- - [Gotham Knights will get a cooperative mode for four players after launch](https://www.pcgamer.com/gotham-knights-will-get-a-cooperative-mode-for-four-players-after-launch)
- - [Minecraft Legends shows off its 4 player co-op in new gameplay video](https://www.pcgamer.com/minecraft-legends-shows-off-its-4-player-co-op-in-new-gameplay-video)<!-- GAME:END -->
+ - [Gotham Knights will get a cooperative mode for four players after launch](https://www.pcgamer.com/gotham-knights-will-get-a-cooperative-mode-for-four-players-after-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
