@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to get rid of jehova\u2019s without saying a word](http://9gag.com/gag/aoKjEXe)
- - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
- - 👉 [I guess the men&#39;s supremacy is worth it.](http://9gag.com/gag/aMErLVX)<!-- MEMES:END -->
+ - 💣 [The Forbidden world](http://9gag.com/gag/a4odOBA)
+ - ⏩ [Dang](http://9gag.com/gag/a4odMpv)
+ - 👉 [Typical day for indian railways](http://9gag.com/gag/axoGN2b)<!-- MEMES:END -->
 
 ---
 
