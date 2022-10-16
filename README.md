@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Which class to choose in Lost Ark](https://www.pcgamer.com/lost-ark-classes)
  - [Old School Runescape player scores 16 billion gold for PvP kill](https://www.pcgamer.com/old-school-runescape-player-scores-16-billion-gold-for-pvp-kill)
- - [Bayonetta voice actress urges players to boycott next game, citing insulting treatment by developer Platinum](https://www.pcgamer.com/bayonetta-voice-actress-urges-players-to-boycott-next-game-citing-insulting-treatment-by-developer-platinum)
- - [Magic: The Gathering has banned my beloved Meathook Massacre](https://www.pcgamer.com/magic-has-banned-my-beloved-meathook-massacre)<!-- GAME:END -->
+ - [Bayonetta voice actress urges players to boycott next game, citing insulting treatment by developer Platinum](https://www.pcgamer.com/bayonetta-voice-actress-urges-players-to-boycott-next-game-citing-insulting-treatment-by-developer-platinum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
