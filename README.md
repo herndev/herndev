@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Easy $120 and she said no.](http://9gag.com/gag/aA0r8VR)
- - ⏩ [Typical day for indian railways](http://9gag.com/gag/axoGN2b)
- - 👉 [He effed around and found out](http://9gag.com/gag/aWGWXG4)<!-- MEMES:END -->
+ - 💣 [Im only 30...](http://9gag.com/gag/aXnpyz9)
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [These people are lunatics.](http://9gag.com/gag/a3Z36pr)<!-- MEMES:END -->
 
 ---
 
