@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom is like....WTH..](http://9gag.com/gag/ap9BoOB)
- - ⏩ [You, the player](http://9gag.com/gag/aVbWGyw)
- - 👉 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)<!-- MEMES:END -->
+ - 💣 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
+ - ⏩ [When it is game time](http://9gag.com/gag/a7qbv1b)
+ - 👉 [Give me your phone wallpapers and receive internet points in return](http://9gag.com/gag/aNwZ7X0)<!-- MEMES:END -->
 
 ---
 
