@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [10 queer horror movies to watch this Halloween](https://www.polygon.com/what-to-watch/23401313/best-queer-horror-scary-movies-lgbtq-watch-stream)
  - [League of Legends’ new champion K’Sante is a tanky top lane terror](https://www.polygon.com/23400786/league-of-legends-champion-ksante-kit-abilities-all-out)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Pinocchio is Guillermo del Toro’s most extraordinary movie since Pan’s Labyrinth](https://www.polygon.com/reviews/23406878/pinocchio-review-guillermo-del-toro-netflix)<!-- GAME:END -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
