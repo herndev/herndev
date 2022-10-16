@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
- - ⏩ [When it is game time](http://9gag.com/gag/a7qbv1b)
- - 👉 [Give me your phone wallpapers and receive internet points in return](http://9gag.com/gag/aNwZ7X0)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
+ - ⏩ [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
+ - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
 
 ---
 
