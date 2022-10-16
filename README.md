@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [But it doesn&#39;t match what he&#39;s wearing](http://9gag.com/gag/aOxmq1v)
- - ⏩ [I stand alone today](http://9gag.com/gag/aeQp0Zq)
- - 👉 [You, the player](http://9gag.com/gag/aVbWGyw)<!-- MEMES:END -->
+ - 💣 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
+ - ⏩ [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)
+ - 👉 [Builder scares his co-worker at work](http://9gag.com/gag/aoK0By2)<!-- MEMES:END -->
 
 ---
 
