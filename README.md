@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Fitness Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
- - [Steve Jobs&#39; Macintosh SE from NeXT could fetch $300,000 at auction](https://appleinsider.com/articles/22/10/15/steve-jobs-macintosh-se-from-next-could-fetch-300000-at-auction?utm_medium=rss)
- - [Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221015/p13#a221015p13)<!-- TECH:END -->
+ - [Instead of other newsletter platforms, Substack should be compared to services giving creators direct relationships with fans, like Shopify, Twitch, and Patreon &lpar;Hamish McKenzie/On Substack&rpar;](http://www.techmeme.com/221015/p14#a221015p14)
+ - [New iPad Pros arriving in days, new MacBook Pros in November](https://appleinsider.com/articles/22/10/15/ipad-pro-update-could-be-days-away-macbook-pro-due-november?utm_medium=rss)
+ - [Best Fitness Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
