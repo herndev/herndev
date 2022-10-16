@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`you have to respect other people&#39;s opinions`. Their opinion :](http://9gag.com/gag/anzKoPV)
- - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
- - 👉 [MOCtober challenge day 14: build something from Lord of the Rings](http://9gag.com/gag/aMErMR6)<!-- MEMES:END -->
+ - 💣 [Wholesome Unit!](http://9gag.com/gag/aEq1mYN)
+ - ⏩ [Nap like an egyptian](http://9gag.com/gag/a1PYe7b)
+ - 👉 [The Forbidden world](http://9gag.com/gag/a4odOBA)<!-- MEMES:END -->
 
 ---
 
