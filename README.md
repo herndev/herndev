@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Father’s Dragon turns a bizarre book into a bigger and deeper movie](https://www.polygon.com/reviews/23404509/my-fathers-dragon-review-netflix)
- - [Solid Snake’s butt-hugging suit was the real star of Metal Gear](https://www.polygon.com/23401621/solid-snake-butt-suit-metal-gear)
- - [Today&#39;s Wordle 484 answer and hint: Sunday, October 16](https://www.pcgamer.com/todays-wordle-484-answer-hint)<!-- GAME:END -->
+ - [League of Legends’ new champion K’Sante is a tanky top lane terror](https://www.polygon.com/23400786/league-of-legends-champion-ksante-kit-abilities-all-out)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Pinocchio is Guillermo del Toro’s most extraordinary movie since Pan’s Labyrinth](https://www.polygon.com/reviews/23406878/pinocchio-review-guillermo-del-toro-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
