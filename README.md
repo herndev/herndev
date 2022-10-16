@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This tropical island farming sim has a remarkable array of NPCs](https://www.pcgamer.com/this-tropical-island-farming-sim-has-a-remarkable-array-of-npcs)
- - [10 queer horror movies to watch this Halloween](https://www.polygon.com/what-to-watch/23401313/best-queer-horror-scary-movies-lgbtq-watch-stream)
- - [League of Legends’ new champion K’Sante is a tanky top lane terror](https://www.polygon.com/23400786/league-of-legends-champion-ksante-kit-abilities-all-out)<!-- GAME:END -->
+ - [G4 TV Is Being Shut Down Only A Year After Its Relaunch](https://kotaku.com/g4-tv-g4tv-attack-of-the-show-shut-down-closed-relaunch-1849664837)
+ - [Open-world RPG Gedonia has a sprawling scope for a $15 game](https://www.pcgamer.com/open-world-rpg-gedonia-has-a-sprawling-scope-for-a-dollar15-game)
+ - [Obsidian CEO says he wants to make another Fallout](https://www.pcgamer.com/obsidian-ceo-says-he-wants-to-make-another-fallout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
