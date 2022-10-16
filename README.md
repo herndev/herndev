@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPad Pro update may not add mini LED to 11-inch model after all](https://appleinsider.com/articles/22/10/16/ipad-pro-update-may-not-add-mini-led-to-11-inch-model-after-all?utm_medium=rss)
- - [Uplift L-Shaped Standing Desk V2 review: Stylish &amp; sturdy desk that&#39;ll help you stay healthy](https://appleinsider.com/articles/22/10/16/uplift-l-shaped-standing-desk-v2-review-stylish-sturdy-desk-thatll-help-you-stay-healthy?utm_medium=rss)
- - [New US export controls may affect 43+ senior execs at 16 public semiconductor companies in China, forcing them to choose between US citizenship and their jobs &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221016/p10#a221016p10)<!-- TECH:END -->
+ - [Tested: Has Apple shrugged off its reputation for poor battery life?](https://www.androidauthority.com/apple-iphone-battery-test-3215710/)
+ - [Apple Music’s spatial audio is coming to  select Mercedes-Benz models](https://www.theverge.com/2022/10/16/23407129/apple-music-spatial-audio-dolby-select-mercedes-benz-models)
+ - [Mercedes-Benz EQE SUV is a more down-to-earth luxury electric vehicle](https://www.theverge.com/2022/10/16/23404802/mercedes-benz-eqe-suv-range-price-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
