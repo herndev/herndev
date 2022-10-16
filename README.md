@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a minute....](http://9gag.com/gag/arm472p)
- - ⏩ [What game turned out to be an absolute masterpiece for you unexpectedly? &lpar;PREY for me, more info in 1st comment&rpar;](http://9gag.com/gag/aMEroxW)
- - 👉 [CLIMATE CHANGE ACTIVIST cemented their hand in middle of the road, causing a traffic jam that prevents emergency services.. leading to death... doesnt get charged with any crime.](http://9gag.com/gag/aPg423V)<!-- MEMES:END -->
+ - 💣 [Boss Be Pervin&#39;](http://9gag.com/gag/a1Pe928)
+ - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
+ - 👉 [Here we go again](http://9gag.com/gag/anzKwn5)<!-- MEMES:END -->
 
 ---
 
