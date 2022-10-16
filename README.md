@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 484 answer and hint: Sunday, October 16](https://www.pcgamer.com/todays-wordle-484-answer-hint)
  - [Which class to choose in Lost Ark](https://www.pcgamer.com/lost-ark-classes)
- - [Old School Runescape player scores 16 billion gold for PvP kill](https://www.pcgamer.com/old-school-runescape-player-scores-16-billion-gold-for-pvp-kill)
- - [Bayonetta voice actress urges players to boycott next game, citing insulting treatment by developer Platinum](https://www.pcgamer.com/bayonetta-voice-actress-urges-players-to-boycott-next-game-citing-insulting-treatment-by-developer-platinum)<!-- GAME:END -->
+ - [Old School Runescape player scores 16 billion gold for PvP kill](https://www.pcgamer.com/old-school-runescape-player-scores-16-billion-gold-for-pvp-kill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
