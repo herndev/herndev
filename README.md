@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Fitness Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/fitness/best-fitness-gifts/#ftag=CAD590a51e)
  - [Steve Jobs&#39; Macintosh SE from NeXT could fetch $300,000 at auction](https://appleinsider.com/articles/22/10/15/steve-jobs-macintosh-se-from-next-could-fetch-300000-at-auction?utm_medium=rss)
- - [Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221015/p13#a221015p13)
- - [Elon Musk says Starlink will keep funding Ukraine’s government ‘for free’ despite losing money](https://www.theverge.com/2022/10/15/23406268/elon-musk-starlink-keep-funding-ukraine-government-free-losing-money)<!-- TECH:END -->
+ - [Hacker behind the Mango Markets exploit keeps $47M and returns $67M to the DeFi platform after a Mango community vote; he claims his actions were legal &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221015/p13#a221015p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
