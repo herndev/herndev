@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amsterdam-based Crisp, an app-only supermarket focused on ultra-fresh food, raised a &amp;euro;75M and announced the acquisition of local food supplier Eetfabriek &lpar;Vishal Singh/Silicon Canals&rpar;](http://www.techmeme.com/221016/p3#a221016p3)
- - [Metalenz, which makes metasurface optics for 3D imaging and sensing, raised a $30M Series B led by Neotribe Ventures, and says it is shipping millions of orders &lpar;Devin Coldewey/TechCrunch&rpar;](http://www.techmeme.com/221016/p2#a221016p2)
- - [Microsoft admits Windows was not properly downloading and applying updates to the driver blocklist designed to thwart &quot;bring your own vulnerable driver&quot; attacks &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221016/p1#a221016p1)<!-- TECH:END -->
+ - [Study: AI hiring tools don&#39;t reduce bias or improve diversity; they can&#39;t be trained to only identify job-related characteristics and strip out gender and race &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/221016/p6#a221016p6)
+ - [Alphawave IP acquires Banias Labs, an Israel-based optical digital signal processing chip developer for data centers, for $240M &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221016/p5#a221016p5)
+ - [Seattle-based Diagrid, which offers a fully managed Dapr on Kubernetes service, raised a $20M Series A led by Norwest Venture Partners &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221016/p4#a221016p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
