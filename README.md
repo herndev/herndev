@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn&#39;t realise so many people were into it.](http://9gag.com/gag/a2KYQQ9)
- - ⏩ [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
- - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
+ - 💣 [This wall in a Psychiatric Hospital](http://9gag.com/gag/aGERwZn)
+ - ⏩ [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
+ - 👉 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)<!-- MEMES:END -->
 
 ---
 
