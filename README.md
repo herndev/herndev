@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How is the engine not instantly killed once the air intake is underwater?](http://9gag.com/gag/aDYmRw7)
- - ⏩ [Wait a minute....](http://9gag.com/gag/arm472p)
- - 👉 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)<!-- MEMES:END -->
+ - 💣 [Have a nice Day](http://9gag.com/gag/aWGOQRZ)
+ - ⏩ [Children&#39;s eyes describe that pure happiness](http://9gag.com/gag/aBd37VA)
+ - 👉 [Another legend has left our world this year. Rip Hagrid](http://9gag.com/gag/awZKEX4)<!-- MEMES:END -->
 
 ---
 
