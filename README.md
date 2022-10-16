@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [International Federation of Robotics: 500K+ industrial robots were installed in 2021, an all-time high, bringing the number of global installations to 3.5M &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221016/p8#a221016p8)
- - [GoPro Hero 10 Black Review: Vertical Video](https://www.wired.com/review/gopro-hero-11-black/)
- - [16 Best Gaming Mice and Mousepads &lpar;2022&rpar;: Wireless, Wired, and Under $50](https://www.wired.com/gallery/best-gaming-mouse/)<!-- TECH:END -->
+ - [We got up close and personal with the Pixel 7 Pro’s new macro mode](https://www.androidauthority.com/we-got-up-close-and-personal-with-the-pixel-7-pros-new-macro-mode-3220467/)
+ - [&#39;Rick and Morty&#39; Hiatus: When Is Season 6, Episode 7 Coming?     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-hiatus-when-is-season-6-episode-7-coming/#ftag=CAD590a51e)
+ - [International Federation of Robotics: 500K+ industrial robots were installed in 2021, an all-time high, bringing the number of global installations to 3.5M &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221016/p8#a221016p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
