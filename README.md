@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro lead times dip below iPhone 13 Pro as moderation continues](https://appleinsider.com/articles/22/10/16/iphone-14-pro-lead-times-dip-below-iphone-13-pro-as-moderation-continues?utm_medium=rss)
- - [Android’s audio output switcher may soon let you pick cast devices, too](https://www.theverge.com/2022/10/16/23407553/android-audio-output-switcher-pick-cast-devices-google)
- - [Analysis: 14 self-driving vehicle tech companies that went public in the past two years have seen an 80%+ average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221016/p12#a221016p12)<!-- TECH:END -->
+ - [Meta says it found an externally-created Meta Workplace account that was used to spoof an internal Instagram system used as &quot;evidence&quot; for The Wire&#39;s reporting &lpar;Meta&rpar;](http://www.techmeme.com/221016/p13#a221016p13)
+ - [Lofree 1% Transparent Keyboard review: Solid mechanical with unique look](https://appleinsider.com/articles/22/10/16/lofree-1-transparent-keyboard-review-solid-mechanical-with-unique-look?utm_medium=rss)
+ - [iPhone 14 Pro lead times dip below iPhone 13 Pro for first time](https://appleinsider.com/articles/22/10/16/iphone-14-pro-lead-times-dip-below-iphone-13-pro-as-moderation-continues?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
