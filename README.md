@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Gas, an iOS app that lets teens &quot;gas up each other&quot;; Data.AI: Gas had 500K+ downloads since August launch, despite being limited to a few US states &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/221017/p13#a221017p13)
- - [Discord Launches a $3 per Month &#39;Nitro Basic&#39; Subscription](https://www.wired.com/story/discord-nitro-basic-activities-apps/)
- - [Riot Games has acquired Wargaming Sydney, part of the company behind World of Tanks](https://www.theverge.com/2022/10/17/23408442/riot-games-wargaming-sydney-acquisition-world-of-tanks)<!-- TECH:END -->
+ - [How to stop iMessage from reverting to SMS](https://appleinsider.com/inside/imessage/tips/how-to-stop-imessage-from-reverting-to-sms?utm_medium=rss)
+ - [How to use Notes in iOS 16, iPadOS 16, macOS Ventura](https://appleinsider.com/inside/ios-16/tips/how-to-use-notes-in-ios-16-ipados-16-macos-ventura?utm_medium=rss)
+ - [Filing: crypto exchange FTX US is under investigation by Texas&#39; securities regulator over allegations it offers unregistered yield-bearing securities products &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221017/p15#a221017p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
