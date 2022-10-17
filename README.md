@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Fit is missing](https://www.theverge.com/2022/10/17/23408982/google-fit-pixel-watch-fossil-wearos-3-smartwatches)
- - [LG&#39;s new 32-inch Smart Monitor has AirPlay 2 for streaming content](https://appleinsider.com/articles/22/10/17/lgs-new-32-inch-smart-monitor-has-airplay-2-for-streaming-content?utm_medium=rss)
- - [Earthquake sensors can detect disastrous floods](https://www.theverge.com/2022/10/17/23408861/earthquake-sensors-floods-early-warning-new-research)<!-- TECH:END -->
+ - [When even Zuckerberg is making fun of iMessage, you know you have a problem](https://www.androidauthority.com/imessage-vs-whatsapp-3221388/)
+ - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
+ - [New low price on the LG Gram 2022, and more of the latest Laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
