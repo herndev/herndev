@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta voice actor urges fans to boycott third game over ‘insulting’ pay rate](https://www.polygon.com/23408579/bayonetta-3-voice-actor-hellena-taylor-insulting-pay)
- - [Discord’s Nitro Basic launches everywhere, along with in-app games](https://www.polygon.com/23404988/discord-app-directory-voice-chat-activities-nitro-basic)
- - [Where to find Padisarah flowers in Genshin Impact](https://www.pcgamer.com/genshin-impact-padisarah-locations)<!-- GAME:END -->
+ - [The Eternal Cylinder Evolved from a Family](https://news.xbox.com/en-us/2022/10/17/the-eternal-cylinder-evolved-from-a-family/)
+ - [Mario + Rabbids Sparks of Hope is one of the greatest Mario spinoffs](https://www.polygon.com/reviews/23408570/mario-rabbids-sparks-of-hope-review-best-mario-games-nintendo-switch-release-date)
+ - [Someone&#39;s reverse-engineered Perfect Dark for N64 and made a PC port possible](https://www.pcgamer.com/someones-reverse-engineered-perfect-dark-for-n64-and-made-a-pc-port-possible)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
