@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rhaenyra and Alicent are House of the Dragon’s most compelling, but underserved relationship](https://www.polygon.com/23405268/house-dragon-alicent-rhaenyra-targaryen-episode)
- - [Silent Hill finally returns in a reveal this week](https://www.polygon.com/23408425/silent-hill-return-reveal-event)
- - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)<!-- GAME:END -->
+ - [How A Plague Tale: Requiem devs are evolving the sequel’s story and gameplay, out October 18](https://blog.playstation.com/2022/10/17/how-a-plague-tale-requiem-devs-are-evolving-the-sequels-story-and-gameplay-out-october-18/)
+ - [TF2&#39;s voice cast is terrorising America&#39;s small towns on a hunt for sandwiches](https://www.pcgamer.com/tf2s-voice-cast-is-terrorising-americas-small-towns-on-a-hunt-for-sandwiches)
+ - [The best builds for Nilou in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilou-build-banner)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
