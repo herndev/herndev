@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
- - [Today&#39;s Wordle 485 answer and hint: Monday, October 17](https://www.pcgamer.com/todays-wordle-485-answer-hint)
- - [Razer&#39;s new Edge game streaming handheld will start at $400 USD](https://www.pcgamer.com/razers-new-edge-game-streaming-handheld-will-start-at-dollar400-usd)<!-- GAME:END -->
+ - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
+ - [Razer&#39;s Kitty Kraken V2 headset is all ears](https://www.pcgamer.com/razers-kitty-kraken-v2-headset-is-all-ears)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
