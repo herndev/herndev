@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What common core nonsense is this?](http://9gag.com/gag/agoN0y6)
- - ⏩ [The worst decision in the sitcom was made when Rachel&amp;Ross becoming a couple](http://9gag.com/gag/aGER03K)
- - 👉 [Your journey ends here sir.](http://9gag.com/gag/az2V7ym)<!-- MEMES:END -->
+ - 💣 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - ⏩ [Hmm](http://9gag.com/gag/aXnX0o2)
+ - 👉 [What common core nonsense is this?](http://9gag.com/gag/agoN0y6)<!-- MEMES:END -->
 
 ---
 
