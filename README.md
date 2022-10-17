@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Mexican attorney general&#39;s office says it is investigating a ~$23M purchase of Pegasus by the prior administration and whether the NSO sold it legally &lpar;Reuters&rpar;](http://www.techmeme.com/221017/p3#a221017p3)
- - [The Hunt for Wikipedia&#39;s Disinformation Moles](https://www.wired.com/story/wikipedia-state-sponsored-disinformation/)
- - [Apple could copy this unique Pixel Tablet feature for iPads](https://www.androidauthority.com/apple-ipads-pixel-tablet-dock-3221031/)<!-- TECH:END -->
+ - [Byju&#39;s raised $250M in new funding as the market downturn delays its IPO; a source says the valuation was $22B, the same as when it raised $800M in March 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221017/p4#a221017p4)
+ - [Daily Authority: 👏 Almost flipping impossible](https://www.androidauthority.com/daily-authority-october-17-2022-3221014/)
+ - [The 4K Chromecast with Google TV is getting Android 12 now](https://www.androidauthority.com/4k-chromecast-with-google-tv-android-12-3221039/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
