@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple could copy this unique Pixel Tablet feature for iPads](https://www.androidauthority.com/apple-ipads-pixel-tablet-dock-3221031/)
- - [Razer Edge pricing, specs revealed: Does it have the edge over rival handhelds?](https://www.androidauthority.com/razer-edge-pricing-specs-3218608/)
- - [How Ukraine uses memes, jokes, and funny videos in its social media war with Russia, which helped the defense ministry&#39;s Twitter account grow to 1.5M followers &lpar;Paul Adams/BBC&rpar;](http://www.techmeme.com/221017/p2#a221017p2)<!-- TECH:END -->
+ - [The Mexican attorney general&#39;s office says it is investigating a ~$23M purchase of Pegasus by the prior administration and whether the NSO sold it legally &lpar;Reuters&rpar;](http://www.techmeme.com/221017/p3#a221017p3)
+ - [The Hunt for Wikipedia&#39;s Disinformation Moles](https://www.wired.com/story/wikipedia-state-sponsored-disinformation/)
+ - [Apple could copy this unique Pixel Tablet feature for iPads](https://www.androidauthority.com/apple-ipads-pixel-tablet-dock-3221031/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
