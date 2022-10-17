@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch star Amouranth says husband forces her to stream, controls her finances](https://www.polygon.com/23409728/amouranth-twitch-streamer-husband-abuse-domestic-violence)
- - [Facebook&#39;s Metaverse Is Apparently Filled With Mostly Empty &#39;Sad&#39; Worlds](https://kotaku.com/meta-facebook-horizon-worlds-vr-mark-zuckerberg-1849669048)
- - [Former Hearthstone boss says Marvel Snap is going to be the &#39;biggest card game of all time&#39;](https://www.pcgamer.com/former-hearthstone-boss-says-marvel-snap-is-going-to-be-the-biggest-card-game-of-all-time)<!-- GAME:END -->
+ - [Jennifer Hale Speaks Out On Replacing Bayonetta’s Original Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-kamiya-recast-1849669425)
+ - [Splinter Cell remake director leaves Ubisoft](https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft)
+ - [Overwatch 2&#39;s weekly coin rewards are insultingly low](https://www.pcgamer.com/overwatch-2s-weekly-coin-rewards-are-insultingly-low)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
