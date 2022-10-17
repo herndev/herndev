@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital Youth Index study: young LGBTQ+ people in the UK are more than twice as likely to face hate speech online compared to those identifying as heterosexual &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/221017/p5#a221017p5)
- - [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform)
- - [Android 12 arrives on the two-year-old Chromecast with Google TV](https://www.theverge.com/2022/10/17/23408428/chromecast-with-google-tv-4k-android-12-update-camera-microphone-privacy-settings-frame-rate)<!-- TECH:END -->
+ - [A Crypto Alchemist Made Me an Accidental Billionaire](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
+ - [How to Get Your Google Stadia Refund—and What’s Included &lpar;2022&rpar;](https://www.wired.com/story/how-to-get-your-google-stadia-refund/)
+ - [How to Keep Photos and Videos from Taking Up Space on Your Phone](https://www.wired.com/story/how-to-keep-photos-videos-taking-up-space/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
