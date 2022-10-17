@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Many big US property managers use RealPage&#39;s YieldStar software to set rent prices, raising questions about potential collusion in violation of federal law &lpar;ProPublica&rpar;](http://www.techmeme.com/221017/p1#a221017p1)
- - [Sources: Apple freezes plans to use memory chips from China&#39;s YMTC in its products, including iPhones, following the latest US export restrictions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221016/p15#a221016p15)
- - [By Oct. 14, 51% of the blocks produced for Ethereum&#39;s blockchain adhered to the US Treasury&#39;s OFAC compliance recommendations that ban Tornado Cash transactions &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/221016/p14#a221016p14)<!-- TECH:END -->
+ - [Razer Edge pricing, specs revealed: Does it have the edge over rival handhelds?](https://www.androidauthority.com/razer-edge-pricing-specs-3218608/)
+ - [How Ukraine uses memes, jokes, and funny videos in its social media war with Russia, which helped the defense ministry&#39;s Twitter account grow to 1.5M followers &lpar;Paul Adams/BBC&rpar;](http://www.techmeme.com/221017/p2#a221017p2)
+ - [Many big US property managers use RealPage&#39;s YieldStar software to set rent prices, raising questions about potential collusion in violation of federal law &lpar;ProPublica&rpar;](http://www.techmeme.com/221017/p1#a221017p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
