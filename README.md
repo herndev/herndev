@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
- - ⏩ [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
- - 👉 [Sooo in France there is a new parc named adter famous Simone Veil.. Some people consider that the entrance design has been quite badly chosen..](http://9gag.com/gag/adPpKeD)<!-- MEMES:END -->
+ - 💣 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - ⏩ [Work hard so you don&#39;t have to write your family name! Paolo , 25 years @ Microsoft](http://9gag.com/gag/awZ7Xoy)
+ - 👉 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)<!-- MEMES:END -->
 
 ---
 
