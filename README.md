@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Women](http://9gag.com/gag/aBdrW3D)
- - ⏩ [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 👉 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)<!-- MEMES:END -->
+ - 💣 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
+ - ⏩ [Women](http://9gag.com/gag/aBdrW3D)
+ - 👉 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
 
 ---
 
