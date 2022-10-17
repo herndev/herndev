@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rhaenyra and Alicent are House of the Dragon’s most compelling, but underserved relationship](https://www.polygon.com/23405268/house-dragon-alicent-rhaenyra-targaryen-episode)
  - [Silent Hill finally returns in a reveal this week](https://www.polygon.com/23408425/silent-hill-return-reveal-event)
- - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
  - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
