@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [G4 TV Is Being Shut Down Only A Year After Its Relaunch](https://kotaku.com/g4-tv-g4tv-attack-of-the-show-shut-down-closed-relaunch-1849664837)
- - [Open-world RPG Gedonia has a sprawling scope for a $15 game](https://www.pcgamer.com/open-world-rpg-gedonia-has-a-sprawling-scope-for-a-dollar15-game)
- - [Obsidian CEO says he wants to make another Fallout](https://www.pcgamer.com/obsidian-ceo-says-he-wants-to-make-another-fallout)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;October 17, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-october-17-2022)
+ - [Dark Souls 2 Fans are petitioning for the return of long-forgotten promo weapons](https://www.pcgamer.com/dark-souls-2-fans-are-petitioning-for-the-return-of-long-forgotten-promo-weapons)
+ - [Streamer Who Broke Her Back At TwichCon Shares Injury Details, Recovery Video](https://kotaku.com/adriana-chechik-twitchcon-broken-back-streamer-injury-1849664934)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
