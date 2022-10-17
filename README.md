@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Women](http://9gag.com/gag/aBdrW3D)
- - ⏩ [How how how.......](http://9gag.com/gag/a9qPWjK)
- - 👉 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)<!-- MEMES:END -->
+ - ⏩ [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - 👉 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)<!-- MEMES:END -->
 
 ---
 
