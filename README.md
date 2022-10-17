@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta says it found an externally-created Meta Workplace account that was used to spoof an internal Instagram system used as &quot;evidence&quot; for The Wire&#39;s reporting &lpar;Meta&rpar;](http://www.techmeme.com/221016/p13#a221016p13)
- - [Lofree 1% Transparent Keyboard review: Solid mechanical with unique look](https://appleinsider.com/articles/22/10/16/lofree-1-transparent-keyboard-review-solid-mechanical-with-unique-look?utm_medium=rss)
- - [iPhone 14 Pro lead times dip below iPhone 13 Pro for first time](https://appleinsider.com/articles/22/10/16/iphone-14-pro-lead-times-dip-below-iphone-13-pro-as-moderation-continues?utm_medium=rss)<!-- TECH:END -->
+ - [Comcast is shutting down its gamer-centric G4 channel, again](https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast)
+ - [More People Should Watch This Gripping Horror-Mystery on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-gripping-horror-mystery-on-netflix/#ftag=CAD590a51e)
+ - [Meta says it found an externally-created Meta Workplace account that was used to spoof an internal Instagram system used as &quot;evidence&quot; for The Wire&#39;s reporting &lpar;Meta&rpar;](http://www.techmeme.com/221016/p13#a221016p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
