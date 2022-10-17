@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Comcast is shutting down its gamer-centric G4 channel, again](https://www.theverge.com/2022/10/16/23407909/g4-tv-shutdown-again-comcast)
- - [More People Should Watch This Gripping Horror-Mystery on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-gripping-horror-mystery-on-netflix/#ftag=CAD590a51e)
- - [Meta says it found an externally-created Meta Workplace account that was used to spoof an internal Instagram system used as &quot;evidence&quot; for The Wire&#39;s reporting &lpar;Meta&rpar;](http://www.techmeme.com/221016/p13#a221016p13)<!-- TECH:END -->
+ - [More People Should Watch This Wholesome Japanese Docuseries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-wholesome-japanese-docuseries-on-netflix/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-stream-now/#ftag=CAD590a51e)
+ - [&#39;Andor&#39; Episode 6 Explained: Star Wars Heist Ends With a Delightfully Devilish Twist     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-devlish-twist/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
