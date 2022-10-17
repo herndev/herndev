@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
  - [Today&#39;s Wordle 485 answer and hint: Monday, October 17](https://www.pcgamer.com/todays-wordle-485-answer-hint)
- - [Razer&#39;s new Edge game streaming handheld will start at $400 USD](https://www.pcgamer.com/razers-new-edge-game-streaming-handheld-will-start-at-dollar400-usd)
- - [Corsair Apologizes After Rep Calls YouTuber&#39;s Review Comments &#39;Bullsh*t&#39;](https://kotaku.com/corsair-gamers-nexus-review-bullshit-rep-claims-apology-1849665247)<!-- GAME:END -->
+ - [Razer&#39;s new Edge game streaming handheld will start at $400 USD](https://www.pcgamer.com/razers-new-edge-game-streaming-handheld-will-start-at-dollar400-usd)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
