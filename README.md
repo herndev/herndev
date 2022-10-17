@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More People Should Watch This Wholesome Japanese Docuseries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-wholesome-japanese-docuseries-on-netflix/#ftag=CAD590a51e)
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-stream-now/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Episode 6 Explained: Star Wars Heist Ends With a Delightfully Devilish Twist     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-6-explained-star-wars-heist-ends-with-a-delightfully-devlish-twist/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Thumbs-Up Emoji Is Somehow Now a Hostile Move     - CNET](https://www.cnet.com/culture/internet/the-thumbs-up-emoji-is-somehow-now-a-hostile-move/#ftag=CAD590a51e)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-drop-on-disney-plus/#ftag=CAD590a51e)
+ - [More People Should Watch This Wholesome Japanese Docuseries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-wholesome-japanese-docuseries-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
