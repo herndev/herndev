@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Danganronpa&#39;s creator has no plans for a sequel right now, but never say never](https://www.pcgamer.com/danganronpas-creator-has-no-plans-for-a-sequel-right-now-but-never-say-never)
  - [How A Plague Tale: Requiem devs are evolving the sequel’s story and gameplay, out October 18](https://blog.playstation.com/2022/10/17/how-a-plague-tale-requiem-devs-are-evolving-the-sequels-story-and-gameplay-out-october-18/)
- - [TF2&#39;s voice cast is terrorising America&#39;s small towns on a hunt for sandwiches](https://www.pcgamer.com/tf2s-voice-cast-is-terrorising-americas-small-towns-on-a-hunt-for-sandwiches)
- - [The best builds for Nilou in Genshin Impact](https://www.pcgamer.com/genshin-impact-nilou-build-banner)<!-- GAME:END -->
+ - [How A Plague Tale: Requiem devs are evolving the sequel’s story and gameplay, out October 18](https://blog.playstation.com/2022/10/17/how-a-plague-tale-requiem-devs-are-evolving-the-sequels-story-and-gameplay-out-october-18/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
