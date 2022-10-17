@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [As Iranian youths protest, cafes filled with board games and D&amp;D provide community](https://www.polygon.com/23403153/iran-board-game-cafe-protests-2022-mahsa-amini)
- - [GameStop Employees Say They Have To Sell All Sorts Of Random Weird Junk Now](https://kotaku.com/gamestop-gme-stock-gameinformer-employees-toys-1849667400)
- - [Trolli Is Bringing the Feedler to the Halo World Championship](https://news.xbox.com/en-us/2022/10/17/trolli-bringing-feedler-to-halo-world-championship/)<!-- GAME:END -->
+ - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)
+ - [Resident Evil 4 Is One Of The Best Scary Games Ever, And I Can’t Stop Buying It](https://kotaku.com/i-cant-stop-buying-resident-evil-4-1831898574)
+ - [Former Rooster Teeth Director Says She Was Underpaid And Called Slurs](https://kotaku.com/rooster-teeth-achievement-hunters-crunch-kdin-bragg-1849667921)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
