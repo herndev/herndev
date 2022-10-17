@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/aBdrrez)
- - ⏩ [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
- - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
+ - 💣 [Lady claims she can build a force field around herself](http://9gag.com/gag/aPgGMZR)
+ - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
+ - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
 ---
 
