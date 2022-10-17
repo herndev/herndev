@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Eternal Cylinder Evolved from a Family](https://news.xbox.com/en-us/2022/10/17/the-eternal-cylinder-evolved-from-a-family/)
- - [Mario + Rabbids Sparks of Hope is one of the greatest Mario spinoffs](https://www.polygon.com/reviews/23408570/mario-rabbids-sparks-of-hope-review-best-mario-games-nintendo-switch-release-date)
- - [Someone&#39;s reverse-engineered Perfect Dark for N64 and made a PC port possible](https://www.pcgamer.com/someones-reverse-engineered-perfect-dark-for-n64-and-made-a-pc-port-possible)<!-- GAME:END -->
+ - [As Iranian youths protest, cafes filled with board games and D&amp;D provide community](https://www.polygon.com/23403153/iran-board-game-cafe-protests-2022-mahsa-amini)
+ - [GameStop Employees Say They Have To Sell All Sorts Of Random Weird Junk Now](https://kotaku.com/gamestop-gme-stock-gameinformer-employees-toys-1849667400)
+ - [Trolli Is Bringing the Feedler to the Halo World Championship](https://news.xbox.com/en-us/2022/10/17/trolli-bringing-feedler-to-halo-world-championship/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
