@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [YouTubers infiltrate scam call center and prank employees with their information &lpar;YT: Jim Browning&rpar;](http://9gag.com/gag/a9qP7rZ)
- - ⏩ [Damn](http://9gag.com/gag/aBdrrez)
- - 👉 [The real vampire](http://9gag.com/gag/aBdrYPO)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/adPppe9)
+ - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
+ - 👉 [Rip](http://9gag.com/gag/a7qb7Nb)<!-- MEMES:END -->
 
 ---
 
