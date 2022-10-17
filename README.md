@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
- - ⏩ [Damn](http://9gag.com/gag/aBdrrez)
- - 👉 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
+ - 💣 [Ukrainian soldiers came under fire. The sniper&#39;s bullet hit the driver. His bulletproof vest saved him from serious injury.](http://9gag.com/gag/az2V8ZB)
+ - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
+ - 👉 [The worst decision in the sitcom was made when Rachel&amp;Ross becoming a couple](http://9gag.com/gag/aGER03K)<!-- MEMES:END -->
 
 ---
 
