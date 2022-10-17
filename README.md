@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I don&#39;t know if I would be able to come back from this](http://9gag.com/gag/aZDNN73)
- - ⏩ [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)
- - 👉 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
+ - 💣 [YouTubers infiltrate scam call center and prank employees with their information &lpar;YT: Jim Browning&rpar;](http://9gag.com/gag/a9qP7rZ)
+ - ⏩ [Damn](http://9gag.com/gag/aBdrrez)
+ - 👉 [The real vampire](http://9gag.com/gag/aBdrYPO)<!-- MEMES:END -->
 
 ---
 
