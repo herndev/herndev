@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Danganronpa&#39;s creator has no plans for a sequel right now, but never say never](https://www.pcgamer.com/danganronpas-creator-has-no-plans-for-a-sequel-right-now-but-never-say-never)
- - [How A Plague Tale: Requiem devs are evolving the sequel’s story and gameplay, out October 18](https://blog.playstation.com/2022/10/17/how-a-plague-tale-requiem-devs-are-evolving-the-sequels-story-and-gameplay-out-october-18/)
- - [How A Plague Tale: Requiem devs are evolving the sequel’s story and gameplay, out October 18](https://blog.playstation.com/2022/10/17/how-a-plague-tale-requiem-devs-are-evolving-the-sequels-story-and-gameplay-out-october-18/)<!-- GAME:END -->
+ - [Bayonetta voice actor urges fans to boycott third game over ‘insulting’ pay rate](https://www.polygon.com/23408579/bayonetta-3-voice-actor-hellena-taylor-insulting-pay)
+ - [Discord’s Nitro Basic launches everywhere, along with in-app games](https://www.polygon.com/23404988/discord-app-directory-voice-chat-activities-nitro-basic)
+ - [Where to find Padisarah flowers in Genshin Impact](https://www.pcgamer.com/genshin-impact-padisarah-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
