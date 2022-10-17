@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Self Defense](http://9gag.com/gag/a6qLyA8)
- - ⏩ [Scare prank gone wrong](http://9gag.com/gag/aWGOOr4)
- - 👉 [The bois on the way to Kherson](http://9gag.com/gag/aDYmmj7)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/aBdrrez)
+ - ⏩ [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
+ - 👉 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
 
 ---
 
