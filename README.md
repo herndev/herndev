@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)
- - ⏩ [Hmm](http://9gag.com/gag/aXnX0o2)
- - 👉 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)<!-- MEMES:END -->
+ - 💣 [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
+ - ⏩ [Damn](http://9gag.com/gag/aBdrrez)
+ - 👉 [Hmm](http://9gag.com/gag/aXnX0o2)<!-- MEMES:END -->
 
 ---
 
