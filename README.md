@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Iodine Pills Can—and Can’t—Help Against Radiation](https://www.wired.com/story/iodine-pills-nuclear-radiation/)
- - [Roborock Q+ Review: Reliable Robot Vacuum](https://www.wired.com/review/roborock-q5-review/)
- - [How to rescue your hacked account: Facebook, Instagram, Snapchat, and more](https://www.theverge.com/23393036/hacked-account-facebook-instagram-snapchat-spotify-tiktok-twitter-reset-recovery)<!-- TECH:END -->
+ - [Lofree 1% Transparent Keyboard review: Solid mechanical with unique look](https://appleinsider.com/articles/22/10/16/lofree-1-transparent-keyboard-review-solid-mechanical-with-unique-look?utm_medium=rss)
+ - [Compared: M2 MacBook Air versus Microsoft Surface Laptop 5](https://appleinsider.com/inside/m2-macbook-air/vs/compared-m2-macbook-air-versus-microsoft-surface-laptop-5?utm_medium=rss)
+ - [The Best Veterinary Telemedicine Services for Your Pet &lpar;2022&rpar;](https://www.wired.com/story/best-veterinary-telemedicine-services/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
