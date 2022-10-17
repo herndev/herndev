@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worth a try I would say, I\u2018m rich now](http://9gag.com/gag/ajVnDXx)
- - ⏩ [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 👉 [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)<!-- MEMES:END -->
+ - 💣 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
+ - ⏩ [Dayum, how can you survive this](http://9gag.com/gag/ajVn6MQ)
+ - 👉 [Sooo in France there is a new parc named adter famous Simone Veil.. Some people consider that the entrance design has been quite badly chosen..](http://9gag.com/gag/adPpKeD)<!-- MEMES:END -->
 
 ---
 
