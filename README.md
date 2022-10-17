@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 17: $400 off 14-inch MacBook Pro, $250 65-inch 4K TV, Anker Soundcore Earbuds for $17, more](https://appleinsider.com/articles/22/10/17/daily-deals-oct-17-400-off-14-inch-macbook-pro-up-to-900-off-tvs-anker-soundcore-earbuds-for-17-more?utm_medium=rss)
- - [Netflix announces Profile Transfers — for when it forces you to finally pay up](https://www.theverge.com/2022/10/17/23409232/netflix-profile-transfer-account-sharing)
- - [Amazon&#39;s $109 Apple TV 4K deal is back &amp; you don&#39;t have to be a Prime member to save](https://appleinsider.com/articles/22/10/17/amazons-109-apple-tv-4k-deal-is-back-you-dont-have-to-be-a-prime-member-to-save?utm_medium=rss)<!-- TECH:END -->
+ - [Now Mark Zuckerberg’s making fun of Apple for iMessage, too](https://www.theverge.com/2022/10/17/23409018/mark-zuckerberg-meta-whatsapp-imessage-privacy-security-ads)
+ - [Zuckerberg really wants iPhone users to shift to WhatsApp](https://appleinsider.com/articles/22/10/17/zuckerberg-really-wants-iphone-users-to-shift-to-whatsapp?utm_medium=rss)
+ - [YouTube ends its 4K video for only premium subscribers experiment](https://www.androidauthority.com/youtube-premium-4k-test-3221342/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
