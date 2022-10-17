@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When even Zuckerberg is making fun of iMessage, you know you have a problem](https://www.androidauthority.com/imessage-vs-whatsapp-3221388/)
- - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
- - [New low price on the LG Gram 2022, and more of the latest Laptop deals](https://www.androidauthority.com/best-laptop-deals-1109232/)<!-- TECH:END -->
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Americans&#39; Satisfaction With Internet Service Providers Falls, Study Shows     - CNET](https://www.cnet.com/news/americans-satisfaction-with-internet-service-providers-falls-study-shows/#ftag=CAD590a51e)
+ - [BTS Hiatus Until 2025 Unleashes Deluge of Fan Sadness on Twitter     - CNET](https://www.cnet.com/culture/entertainment/bts-hiatus-until-2025-unleashes-deluge-of-fan-sadness-on-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
