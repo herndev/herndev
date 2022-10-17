@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Byju&#39;s raised $250M in new funding as the market downturn delays its IPO; a source says the valuation was $22B, the same as when it raised $800M in March 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221017/p4#a221017p4)
- - [Daily Authority: 👏 Almost flipping impossible](https://www.androidauthority.com/daily-authority-october-17-2022-3221014/)
- - [The 4K Chromecast with Google TV is getting Android 12 now](https://www.androidauthority.com/4k-chromecast-with-google-tv-android-12-3221039/)<!-- TECH:END -->
+ - [Digital Youth Index study: young LGBTQ+ people in the UK are more than twice as likely to face hate speech online compared to those identifying as heterosexual &lpar;Alex Hern/The Guardian&rpar;](http://www.techmeme.com/221017/p5#a221017p5)
+ - [Kanye West is buying ‘free speech platform’ Parler](https://www.theverge.com/2022/10/17/23408443/kanye-west-ye-parler-free-speech-social-media-platform)
+ - [Android 12 arrives on the two-year-old Chromecast with Google TV](https://www.theverge.com/2022/10/17/23408428/chromecast-with-google-tv-4k-android-12-update-camera-microphone-privacy-settings-frame-rate)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
