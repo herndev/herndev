@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Thumbs-Up Emoji Is Somehow Now a Hostile Move     - CNET](https://www.cnet.com/culture/internet/the-thumbs-up-emoji-is-somehow-now-a-hostile-move/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-drop-on-disney-plus/#ftag=CAD590a51e)
- - [More People Should Watch This Wholesome Japanese Docuseries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-wholesome-japanese-docuseries-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Apple freezes plans to use memory chips from China&#39;s YMTC in its products, including iPhones, following the latest US export restrictions &lpar;Nikkei Asia&rpar;](http://www.techmeme.com/221016/p15#a221016p15)
+ - [By Oct. 14, 51% of the blocks produced for Ethereum&#39;s blockchain adhered to the US Treasury&#39;s OFAC compliance recommendations that ban Tornado Cash transactions &lpar;Margaux Nijkerk/CoinDesk&rpar;](http://www.techmeme.com/221016/p14#a221016p14)
+ - [&#39;House of the Dragon&#39; Episode 9 Recap: All Hail the Queen, and Her Feet     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-recap-all-hail-the-queen-and-her-feet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
