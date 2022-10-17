@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Roblox says it had 57.8M DAUs in September, down from 59.9M in August but up 23% YoY, with 4B hours engaged, up 16% YoY; Roblox stock is up 15%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221017/p12#a221017p12)
- - [Your Comcast Xfinity internet might be getting a speed boost](https://www.theverge.com/2022/10/17/23404861/comcast-xfinity-internet-speed-boost-performance-connect)
- - [Persona 5 and Nier are further proof the Switch is a perfect RPG machine](https://www.theverge.com/2022/10/17/23403042/persona-5-royal-nier-automata-nintendo-switch-review)<!-- TECH:END -->
+ - [A look at Gas, an iOS app that lets teens &quot;gas up each other&quot;; Data.AI: Gas had 500K+ downloads since August launch, despite being limited to a few US states &lpar;Ann-Marie Alc&amp;aacute;ntara/Wall Street Journal&rpar;](http://www.techmeme.com/221017/p13#a221017p13)
+ - [Discord Launches a $3 per Month &#39;Nitro Basic&#39; Subscription](https://www.wired.com/story/discord-nitro-basic-activities-apps/)
+ - [Riot Games has acquired Wargaming Sydney, part of the company behind World of Tanks](https://www.theverge.com/2022/10/17/23408442/riot-games-wargaming-sydney-acquisition-world-of-tanks)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
