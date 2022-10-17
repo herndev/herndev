@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian soldiers came under fire. The sniper&#39;s bullet hit the driver. His bulletproof vest saved him from serious injury.](http://9gag.com/gag/az2V8ZB)
+ - 💣 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
  - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
- - 👉 [The worst decision in the sitcom was made when Rachel&amp;Ross becoming a couple](http://9gag.com/gag/aGER03K)<!-- MEMES:END -->
+ - 👉 [How how how.......](http://9gag.com/gag/a9qPWjK)<!-- MEMES:END -->
 
 ---
 
