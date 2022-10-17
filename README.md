@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [&lpar;Left&rpar; a 250 pound woman &lpar;113 KG&rpar; vs a 120 pound woman &lpar;54 KG&rpar;](http://9gag.com/gag/a8qj4xV)
- - ⏩ [Hmm](http://9gag.com/gag/aXnX0o2)
- - 👉 [What common core nonsense is this?](http://9gag.com/gag/agoN0y6)<!-- MEMES:END -->
+ - 💣 [Women](http://9gag.com/gag/aBdrW3D)
+ - ⏩ [How how how.......](http://9gag.com/gag/a9qPWjK)
+ - 👉 [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)<!-- MEMES:END -->
 
 ---
 
