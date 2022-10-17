@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage](http://9gag.com/gag/adPppe9)
- - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
- - 👉 [Rip](http://9gag.com/gag/a7qb7Nb)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/aBdrrez)
+ - ⏩ [Know that if you can&#39;t find crab on the shelf, this is why](http://9gag.com/gag/ay2npDM)
+ - 👉 [You look so young for a 45 y/o](http://9gag.com/gag/a7qyjdx)<!-- MEMES:END -->
 
 ---
 
