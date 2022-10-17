@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Crypto Alchemist Made Me an Accidental Billionaire](https://www.wired.com/story/valentin-broeksmit-incognito-cryptocurrency/)
- - [How to Get Your Google Stadia Refund—and What’s Included &lpar;2022&rpar;](https://www.wired.com/story/how-to-get-your-google-stadia-refund/)
- - [How to Keep Photos and Videos from Taking Up Space on Your Phone](https://www.wired.com/story/how-to-keep-photos-videos-taking-up-space/)<!-- TECH:END -->
+ - [How Iodine Pills Can—and Can’t—Help Against Radiation](https://www.wired.com/story/iodine-pills-nuclear-radiation/)
+ - [Roborock Q+ Review: Reliable Robot Vacuum](https://www.wired.com/review/roborock-q5-review/)
+ - [How to rescue your hacked account: Facebook, Instagram, Snapchat, and more](https://www.theverge.com/23393036/hacked-account-facebook-instagram-snapchat-spotify-tiktok-twitter-reset-recovery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
