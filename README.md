@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RTX 4090 is such a chonker that this company designed a special power adapter for it](https://www.pcgamer.com/the-rtx-4090-is-such-a-chonker-that-this-company-designed-a-special-power-adapter-for-it)
  - [Seven Reasons Why You Should Go on an Adventure Today in Valheim’s Viking World](https://news.xbox.com/en-us/2022/10/17/seven-reasons-why-you-should-go-on-an-adventure-today-in-valheims-viking-world/)
- - [Resident Evil 4 Is One Of The Best Scary Games Ever, And I Can’t Stop Buying It](https://kotaku.com/i-cant-stop-buying-resident-evil-4-1831898574)
- - [Former Rooster Teeth Director Says She Was Underpaid And Called Slurs](https://kotaku.com/rooster-teeth-achievement-hunters-crunch-kdin-bragg-1849667921)<!-- GAME:END -->
+ - [Resident Evil 4 Is One Of The Best Scary Games Ever, And I Can’t Stop Buying It](https://kotaku.com/i-cant-stop-buying-resident-evil-4-1831898574)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
