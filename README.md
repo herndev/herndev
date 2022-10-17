@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady claims she can build a force field around herself](http://9gag.com/gag/aPgGMZR)
- - ⏩ [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)
- - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 💣 [Self Defense](http://9gag.com/gag/a6qLyA8)
+ - ⏩ [Scare prank gone wrong](http://9gag.com/gag/aWGOOr4)
+ - 👉 [The bois on the way to Kherson](http://9gag.com/gag/aDYmmj7)<!-- MEMES:END -->
 
 ---
 
