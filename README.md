@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)
- - ⏩ [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
- - 👉 [How how how.......](http://9gag.com/gag/a9qPWjK)<!-- MEMES:END -->
+ - 💣 [The real vampire](http://9gag.com/gag/aBdrYPO)
+ - ⏩ [What the heck is that reasoning?](http://9gag.com/gag/a2Kqdww)
+ - 👉 [Precisely men\u2019s thoughts \u2026.](http://9gag.com/gag/aqe2reM)<!-- MEMES:END -->
 
 ---
 
