@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Looking Back on 30 Years of Mortal Kombat Music and Sound Effects](https://news.xbox.com/en-us/2022/10/17/looking-back-30-years-of-mortal-kombat/)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [Elden Ring&#39;s soundtrack is being turned into jazz for a live concert](https://www.pcgamer.com/elden-rings-soundtrack-is-being-turned-into-jazz-for-a-live-concert)<!-- GAME:END -->
+ - [Twitch star Amouranth says husband forces her to stream, controls her finances](https://www.polygon.com/23409728/amouranth-twitch-streamer-husband-abuse-domestic-violence)
+ - [Facebook&#39;s Metaverse Is Apparently Filled With Mostly Empty &#39;Sad&#39; Worlds](https://kotaku.com/meta-facebook-horizon-worlds-vr-mark-zuckerberg-1849669048)
+ - [Former Hearthstone boss says Marvel Snap is going to be the &#39;biggest card game of all time&#39;](https://www.pcgamer.com/former-hearthstone-boss-says-marvel-snap-is-going-to-be-the-biggest-card-game-of-all-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
