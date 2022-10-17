@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lofree 1% Transparent Keyboard review: Solid mechanical with unique look](https://appleinsider.com/articles/22/10/16/lofree-1-transparent-keyboard-review-solid-mechanical-with-unique-look?utm_medium=rss)
- - [Compared: M2 MacBook Air versus Microsoft Surface Laptop 5](https://appleinsider.com/inside/m2-macbook-air/vs/compared-m2-macbook-air-versus-microsoft-surface-laptop-5?utm_medium=rss)
- - [The Best Veterinary Telemedicine Services for Your Pet &lpar;2022&rpar;](https://www.wired.com/story/best-veterinary-telemedicine-services/)<!-- TECH:END -->
+ - [Roblox says it had 57.8M DAUs in September, down from 59.9M in August but up 23% YoY, with 4B hours engaged, up 16% YoY; Roblox stock is up 15%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221017/p12#a221017p12)
+ - [Your Comcast Xfinity internet might be getting a speed boost](https://www.theverge.com/2022/10/17/23404861/comcast-xfinity-internet-speed-boost-performance-connect)
+ - [Persona 5 and Nier are further proof the Switch is a perfect RPG machine](https://www.theverge.com/2022/10/17/23403042/persona-5-royal-nier-automata-nintendo-switch-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
