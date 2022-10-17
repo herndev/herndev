@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/aBdrrez)
+ - 💣 [A rope bed in a homeless shelter in Britain. Early twentieth century.](http://9gag.com/gag/a9qPL2K)
  - ⏩ [What happens when you let computers optimize floorplans](http://9gag.com/gag/a04YY2B)
- - 👉 [`It is just a movie` The Movie :](http://9gag.com/gag/armRez0)<!-- MEMES:END -->
+ - 👉 [How how how.......](http://9gag.com/gag/a9qPWjK)<!-- MEMES:END -->
 
 ---
 
