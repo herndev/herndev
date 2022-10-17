@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Silent Hill finally returns in a reveal this week](https://www.polygon.com/23408425/silent-hill-return-reveal-event)
  - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
- - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)
- - [Razer&#39;s Kitty Kraken V2 headset is all ears](https://www.pcgamer.com/razers-kitty-kraken-v2-headset-is-all-ears)<!-- GAME:END -->
+ - [Level up your look with the Horizon Forbidden West collection on ASOS](https://blog.playstation.com/2022/10/17/level-up-your-look-with-the-horizon-forbidden-west-collection-on-asos/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
