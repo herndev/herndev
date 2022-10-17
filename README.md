@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Corsair Apologizes After Rep Calls YouTuber&#39;s Review Comments &#39;Bullsh*t&#39;](https://kotaku.com/corsair-gamers-nexus-review-bullshit-rep-claims-apology-1849665247)
  - [House of the Dragon’s twins have names nearly as identical as their appearances](https://www.polygon.com/23403463/house-dragon-twins-names-actors-cast-arryk-erryk-yes-really)
- - [House of the Dragon’s fiery coronation didn’t end with a murder for good reason](https://www.polygon.com/23405130/house-dragon-why-rhaenys-doesnt-kill-aegon-dragon-murder)
- - [House of the Dragon’s foot fetish scene is gut-wrenching cringe](https://www.polygon.com/23404846/house-dragon-alicent-larys-feet-oh-no)<!-- GAME:END -->
+ - [House of the Dragon’s fiery coronation didn’t end with a murder for good reason](https://www.polygon.com/23405130/house-dragon-why-rhaenys-doesnt-kill-aegon-dragon-murder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
