@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Americans&#39; Satisfaction With Internet Service Providers Falls, Study Shows     - CNET](https://www.cnet.com/news/americans-satisfaction-with-internet-service-providers-falls-study-shows/#ftag=CAD590a51e)
- - [BTS Hiatus Until 2025 Unleashes Deluge of Fan Sadness on Twitter     - CNET](https://www.cnet.com/culture/entertainment/bts-hiatus-until-2025-unleashes-deluge-of-fan-sadness-on-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal doc: Amazon has a high attrition rate across all levels, costing $8B annually, and workers choose to leave twice as often as layoffs and firings occur &lpar;Avery Menegus/Engadget&rpar;](http://www.techmeme.com/221017/p22#a221017p22)
+ - [Sources: the FTC is investigating whether Visa and Mastercard&#39;s security tokens restrict debit-card routing competition on online payments &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/221017/p21#a221017p21)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
