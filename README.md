@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/aBdrrez)
- - ⏩ [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
- - 👉 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)<!-- MEMES:END -->
+ - 💣 [Perspective really needs to tone down on its f**kery](http://9gag.com/gag/a9qPn0K)
+ - ⏩ [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)
+ - 👉 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)<!-- MEMES:END -->
 
 ---
 
