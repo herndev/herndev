@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
- - ⏩ [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)
- - 👉 [The real vampire](http://9gag.com/gag/aBdrYPO)<!-- MEMES:END -->
+ - 💣 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
+ - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
 ---
 
