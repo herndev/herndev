@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)
- - [Motorola&#39;s New Rollable Phone Concept Changes Size With the Press of a Button     - CNET](https://www.cnet.com/tech/mobile/motorolas-new-rollable-phone-concept-changes-size-with-the-press-of-a-button/#ftag=CAD590a51e)
- - [Motorola’s teasing a rollable concept phone](https://www.theverge.com/2022/10/18/23409591/motorola-rollable-phone-concept-flexible-device-lenovo)<!-- TECH:END -->
+ - [Motorola reveals rollable phone concept that extends from the top](https://www.androidauthority.com/motorola-rollable-phone-concept-3221017/)
+ - [Fossil smartwatches start getting Wear OS 3 update with some major omissions](https://www.androidauthority.com/fossil-smartwatches-wear-os-3-3221606/)
+ - [Research: crowdsourced fact-checking can improve social media moderation by channeling partisan motivations to be productive if opposing sides police each other &lpar;David Rand/Financial Times&rpar;](http://www.techmeme.com/221018/p2#a221018p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
