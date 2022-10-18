@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Break](http://9gag.com/gag/adPpXGQ)
- - ⏩ [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - 👉 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
+ - 💣 [How how how.......](http://9gag.com/gag/a9qPWjK)
+ - ⏩ [How to remove super glued hand on road the proper way](http://9gag.com/gag/adPpX2D)
+ - 👉 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
 
 ---
 
