@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)
+ - 💣 [Make it double](http://9gag.com/gag/amA8AB9)
  - ⏩ [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)
- - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 👉 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)<!-- MEMES:END -->
 
 ---
 
