@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [DisplayPort 2.0 products already support DisplayPort 2.1](https://www.pcgamer.com/displayport-20-products-already-support-displayport-21)
  - [Cosplay Universe Is A Great Documentary About The Craft](https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827)
- - [EA Shutting Down Servers For Loads Of Very Good, Very Old Games](https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665)
- - [Sasha Grey will portray a radio DJ in the Cyberpunk 2077 expansion](https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion)<!-- GAME:END -->
+ - [EA Shutting Down Servers For Loads Of Very Good, Very Old Games](https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
