@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are upset about this Pixel 7 flaw](https://www.androidauthority.com/pixel-7-payments-failing-3221661/)
- - [Fortnite’s Halloween update will turn you into a werewolf](https://www.theverge.com/2022/10/18/23409543/fortnite-halloween-fortnitemares-update-werewolf-epic-games)
- - [New research, which details pro-Kremlin edits made to the English Wikipedia page for the Russo-Ukrainian war, could be used to create models to detect disinfo &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221018/p4#a221018p4)<!-- TECH:END -->
+ - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
+ - [FedEx is shutting down its robot delivery program](https://www.theverge.com/2022/10/18/23410419/fedex-shuts-down-last-mile-delivery-robot-roxo-deka)
+ - [Nothing hikes price of Ear 1 earbuds by 50 percent](https://www.theverge.com/2022/10/18/23410423/nothing-ear-1-price-increase-inflation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
