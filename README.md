@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Belkin iPhone mount for Mac for Continuity Camera is available](https://appleinsider.com/articles/22/10/18/belkin-iphone-mount-for-mac-for-continuity-camera-is-available?utm_medium=rss)
- - [Chrome is the next Android app to get tablet-focused updates](https://www.theverge.com/2022/10/18/23410418/chrome-android-tablet-app-update-tabs-desktop-website-interface-improvements)
- - [Samsung Galaxy Watch 5 series gets October security update](https://www.androidauthority.com/samsung-galaxy-watch-5-updates-3209062/)<!-- TECH:END -->
+ - [Windows 11’s new tabbed File Explorer and taskbar improvements are available today](https://www.theverge.com/2022/10/18/23411108/microsoft-windows-11-file-explorer-tabs-taskbar-changes-suggested-actions)
+ - [What to watch if you love AMC’s Interview with the Vampire series](https://www.androidauthority.com/shows-like-interview-with-the-vampire-amc-3221165/)
+ - [Source: Parler has around 50,000 DAUs and its parent company had been trying over the last few weeks to sell the social network at a &quot;wildly inflated&quot; price &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221018/p24#a221018p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
