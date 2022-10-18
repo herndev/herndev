@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [DualSense Edge wireless controller for PS5 launches globally on January 26](https://blog.playstation.com/2022/10/18/dualsense-edge-wireless-controller-for-ps5-launches-globally-on-january-26/)
- - [Coming Soon to Xbox Game Pass: Persona 5 Royal, Gunfire Reborn, Phantom Abyss, and More](https://news.xbox.com/en-us/2022/10/18/game-pass-october-2022-wave-2-announce/)
- - [Personalize Your Elite Series 2 Controller with Xbox Design Lab](https://news.xbox.com/en-us/2022/10/18/personalize-elite-series-2-controller-xbox-design-lab/)<!-- GAME:END -->
+ - [New World is getting &#39;Fresh Start Worlds&#39; in November](https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november)
+ - [New Mortal Kombat game is an RPG for phones](https://www.polygon.com/23410635/mortal-kombat-onslaught-release-date-mobile-android-ios)
+ - [Samsung 990 Pro 2TB](https://www.pcgamer.com/samsung-990-pro-2tb-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
