@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A bit of history](http://9gag.com/gag/amA87Q2)
+ - 💣 [Oh no linus](http://9gag.com/gag/a2Kqqx9)
  - ⏩ [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
  - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
