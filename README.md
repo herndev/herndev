@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Introducing the God of War Ragnarök Behind the Scenes series](https://blog.playstation.com/2022/10/18/introducing-the-god-of-war-ragnarok-behind-the-scenes-series/)
- - [Behind Smile’s ‘overwhelming, mind-breaking’ monster](https://www.polygon.com/23409413/smile-monster-practical-effect-movie-ending-interview)
- - [Roblox says it had over 1.7 billion users last month](https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month)<!-- GAME:END -->
+ - [Unleash Your Wild Side in Fortnitemares 2022](https://news.xbox.com/en-us/2022/10/18/unleash-your-wild-side-in-fortnitemares-2022/)
+ - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [YouTuber Markiplier’s Fans Are Thirsting To Make An OnlyFans Happen](https://kotaku.com/markiplier-youtube-onlyfans-podcast-tasteful-porn-calen-1849672142)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
