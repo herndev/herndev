@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Broke up with your partner? Netflix profile transfers are for you.](https://www.androidauthority.com/netflix-profile-transfers-3221631/)
- - [Samsung Galaxy S23 spec sheet leaks: Like what you see?](https://www.androidauthority.com/samsung-galaxy-s23-full-specs-3221623/)
- - [A recent Kakao outage has raised monopoly concerns in South Korea; the company had previously claimed it had ~47.5M active users in the country of 51M+ people &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/221018/p3#a221018p3)<!-- TECH:END -->
+ - [People are upset about this Pixel 7 flaw](https://www.androidauthority.com/pixel-7-payments-failing-3221661/)
+ - [Fortnite’s Halloween update will turn you into a werewolf](https://www.theverge.com/2022/10/18/23409543/fortnite-halloween-fortnitemares-update-werewolf-epic-games)
+ - [New research, which details pro-Kremlin edits made to the English Wikipedia page for the Russo-Ukrainian war, could be used to create models to detect disinfo &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221018/p4#a221018p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
