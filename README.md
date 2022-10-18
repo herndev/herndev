@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Dead Redemption’s PS Plus Delisting Is Another Bad Omen For Digital Libraries](https://kotaku.com/red-dead-redemption-s-ps-plus-delisting-is-another-bad-1849674441)
- - [The next Apex Legends character is the game&#39;s first trans hero](https://www.pcgamer.com/the-next-apex-legends-character-is-the-games-first-trans-hero)
- - [The next Sims game is bringing back my beloved Create-A-Style tool](https://www.pcgamer.com/the-next-sims-game-is-bringing-back-my-beloved-create-a-style-tool)<!-- GAME:END -->
+ - [NBA Star Klay Thompson Calls NBA 2K&#39;s Marketing Guy A &#39;Clown&#39;](https://kotaku.com/klay-thompson-ronnie-2k-nba-2k23-singh-clown-espn-1849674785)
+ - [Gotham Knights system requirements are surprisingly demanding](https://www.pcgamer.com/gotham-knights-system-requirements)
+ - [Blizzard on Overwatch 2 hero Kiriko’s origins as a ‘trickster’ ninja and ties to its future](https://www.polygon.com/23411126/overwatch-2-kiriko-hero-design-origins-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
