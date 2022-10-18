@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Unleash Your Wild Side in Fortnitemares 2022](https://news.xbox.com/en-us/2022/10/18/unleash-your-wild-side-in-fortnitemares-2022/)
- - [25 of the best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [YouTuber Markiplier’s Fans Are Thirsting To Make An OnlyFans Happen](https://kotaku.com/markiplier-youtube-onlyfans-podcast-tasteful-porn-calen-1849672142)<!-- GAME:END -->
+ - [The Creed 3 trailer is almost too shredded for words](https://www.polygon.com/23410985/creed-3-trailer-michael-b-jordan-jonathan-majors-wow-hot)
+ - [How Infinity Ward created Oni, a new Operator in Modern Warfare II](https://blog.playstation.com/2022/10/18/how-infinity-ward-created-oni-a-new-operator-in-modern-warfare-ii/)
+ - [How Infinity Ward created Oni, a new Operator in Modern Warfare II](https://blog.playstation.com/2022/10/18/how-infinity-ward-created-oni-a-new-operator-in-modern-warfare-ii/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
