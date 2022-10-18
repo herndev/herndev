@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Best football play of the year](http://9gag.com/gag/agoNg01)
- - ⏩ [You are not the father](http://9gag.com/gag/aEqzpnM)
- - 👉 [Rip bro](http://9gag.com/gag/axoGMAb)<!-- MEMES:END -->
+ - 💣 [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)
+ - ⏩ [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)
+ - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
 
 ---
 
