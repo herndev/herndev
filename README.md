@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Interviews with journalists at The Wire, sources at Meta, and knowledgeable outside observers describe the messy fight between Meta and The Wire &lpar;Platformer&rpar;](http://www.techmeme.com/221018/p1#a221018p1)
- - [Motorola’s teasing a rollable concept phone](https://www.theverge.com/2022/10/18/23409591/motorola-rollable-phone-concept-flexible-device-lenovo)
- - [May 2022 survey of non-professional creators in nine regions: 48% monetize content, including 53% in the US; 77% of those who monetize started in the past year &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221017/p25#a221017p25)<!-- TECH:END -->
+ - [Motorola&#39;s New Rollable Phone Concept Changes Size With the Press of a Button     - CNET](https://www.cnet.com/tech/mobile/motorolas-new-rollable-phone-concept-changes-size-with-the-press-of-a-button/#ftag=CAD590a51e)
+ - [Motorola’s teasing a rollable concept phone](https://www.theverge.com/2022/10/18/23409591/motorola-rollable-phone-concept-flexible-device-lenovo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
