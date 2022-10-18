@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung talks One UI 5 rollout, seamless updates hopes for One UI 6, and more](https://www.androidauthority.com/samsung-one-ui-5-interview-3220263/)
- - [Valve’s new dock won’t replace your Switch, but it makes the Steam Deck more useful](https://www.theverge.com/2022/10/18/23409757/valve-steam-deck-dock-docking-station-tv-gaming-nintendo-switch)
- - [Apple announces new iPad Pro with M2 chip and Wi-Fi 6E](https://www.theverge.com/2022/10/18/23398242/apple-ipad-pro-m2-2022-features-specs-price)<!-- TECH:END -->
+ - [Apple unveils the $249 Magic Keyboard Folio for the 10th-gen iPad, with detachable keyboard, a 14-key function row, and an adjustable stand, shipping October 26 &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/221018/p21#a221018p21)
+ - [Apple Siri Remote now USB-C, as death knell tolls for Lightning](https://appleinsider.com/articles/22/10/18/apple-siri-remote-now-usb-c-as-death-knell-tolls-for-lightning?utm_medium=rss)
+ - [HBO Max’s A Christmas Story sequel is actually happening and has a new teaser](https://www.theverge.com/2022/10/18/23410783/a-christmas-story-christmas-sequel-hbo-max-teaser)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
