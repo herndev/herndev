@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh no linus](http://9gag.com/gag/a2Kqqx9)
- - ⏩ [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
- - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 💣 [Gravity, acceleration, friction, thermodynamics, vector force, momentum all in one](http://9gag.com/gag/aGERgEn)
+ - ⏩ [Smooth bro smooth LMFAO](http://9gag.com/gag/aL1B9oz)
+ - 👉 [Another brat beating up a bear.](http://9gag.com/gag/avQL7AM)<!-- MEMES:END -->
 
 ---
 
