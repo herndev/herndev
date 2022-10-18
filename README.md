@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A recent Kakao outage has raised monopoly concerns in South Korea; the company had previously claimed it had ~47.5M active users in the country of 51M+ people &lpar;Bryan Pietsch/Washington Post&rpar;](http://www.techmeme.com/221018/p3#a221018p3)
  - [Motorola reveals rollable phone concept that extends from the top](https://www.androidauthority.com/motorola-rollable-phone-concept-3221017/)
- - [Fossil smartwatches start getting Wear OS 3 update with some major omissions](https://www.androidauthority.com/fossil-smartwatches-wear-os-3-3221606/)
- - [Research: crowdsourced fact-checking can improve social media moderation by channeling partisan motivations to be productive if opposing sides police each other &lpar;David Rand/Financial Times&rpar;](http://www.techmeme.com/221018/p2#a221018p2)<!-- TECH:END -->
+ - [Fossil smartwatches start getting Wear OS 3 update with some major omissions](https://www.androidauthority.com/fossil-smartwatches-wear-os-3-3221606/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
