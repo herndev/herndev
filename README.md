@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)
- - ⏩ [Steve Carell\u2019s Golden Globes Acceptance Speech](http://9gag.com/gag/ajVnqjG)
- - 👉 [That Voice .](http://9gag.com/gag/aDYmWVd)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/aBdrrez)
+ - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
+ - 👉 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)<!-- MEMES:END -->
 
 ---
 
