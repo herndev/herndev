@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chainsaw Man’s Denji rips, chops, and kicks his way to glory on this week’s episode](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)
- - [The Next Generation Of The Sims Is Coming—Eventually](https://kotaku.com/sims-5-new-game-summit-announcement-1849673095)
- - [Preparing for Loss After Losing Our Innocence: A Chat with A Plague Tale: Requiem’s Game Director Kévin Choteau](https://news.xbox.com/en-us/2022/10/18/chat-with-plague-tale-requiem-game-director/)<!-- GAME:END -->
+ - [The Rest Of The Crysis Remastered Trilogy Is Hitting Steam Soon](https://kotaku.com/crysis-remastered-crytek-trilogy-steam-november-17-1849673528)
+ - [Rogue Company Welcomes The Walking Dead in a New Crossover Event](https://news.xbox.com/en-us/2022/10/18/rogue-company-welcomes-the-walking-dead-in-a-new-crossover-event/)
+ - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
