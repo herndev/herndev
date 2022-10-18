@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Plus allegedly suffering from production cuts after only two weeks on the market](https://appleinsider.com/articles/22/10/18/iphone-14-plus-allegedly-suffering-from-production-cuts-after-only-two-weeks-on-the-market?utm_medium=rss)
- - [Compared: M2 iPad Pro vs M1 iPad Pro](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-m1-ipad-pro?utm_medium=rss)
- - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)<!-- TECH:END -->
+ - [Netflix has 55 more games in development](https://www.theverge.com/2022/10/18/23411560/netflix-games-development-gaming-efforts-mobile)
+ - [Netflix is all-in on binge-watching](https://www.theverge.com/2022/10/18/23411580/netflix-binge-watching-strategy-squid-game-dahmer)
+ - [Six vaping companies are getting sued by the federal government](https://www.theverge.com/2022/10/18/23411550/fda-vape-ecigarette-injunction-manufacturers-doj)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
