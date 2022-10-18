@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Damn](http://9gag.com/gag/aBdrrez)
- - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 👉 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)<!-- MEMES:END -->
+ - ⏩ [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
+ - 👉 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)<!-- MEMES:END -->
 
 ---
 
