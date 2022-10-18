@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s new DualSense Edge controller arrives on January 26th for $199.99](https://www.theverge.com/2022/10/18/23410597/sony-dualsense-edge-wireless-controller-release-date-price)
- - [Google adds new kids-focused features to Google TV, including parent-controlled watchlists and AI-powered suggestions &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221018/p13#a221018p13)
- - [Xbox Elite 2 controllers now customizable in the Xbox Design Lab starting at $149.99](https://www.theverge.com/2022/10/18/23410416/microsoft-xbox-elite-2-controller-design-lab-color-customization)<!-- TECH:END -->
+ - [The new entry-level Kindle is the one to buy](https://www.theverge.com/23409106/amazon-kindle-2022-e-reader-review-test-price-specs-features)
+ - [Nest Doorbell wired review: Hello again](https://www.theverge.com/23404602/google-nest-doorbell-wired-review-hello)
+ - [Firefox version 106 adds PDF editing &amp; lowers CPU usage on Mac](https://appleinsider.com/articles/22/10/18/firefox-version-106-adds-pdf-editing-and-lower-cpu-usage-on-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
