@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - ⏩ [How how how.......](http://9gag.com/gag/a9qPWjK)
- - 👉 [This British man found a vulnerability in Dutch government systems and reported it. He got this letter and shirt in return:](http://9gag.com/gag/amA87N9)<!-- MEMES:END -->
+ - 💣 [Ah yes. Shawarma... French Cuisine.](http://9gag.com/gag/aeQp68q)
+ - ⏩ [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)
+ - 👉 [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)<!-- MEMES:END -->
 
 ---
 
