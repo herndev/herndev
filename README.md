@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aOxm7b6)
- - ⏩ [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)
- - 👉 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)<!-- MEMES:END -->
+ - 💣 [Best football play of the year](http://9gag.com/gag/agoNg01)
+ - ⏩ [You are not the father](http://9gag.com/gag/aEqzpnM)
+ - 👉 [Rip bro](http://9gag.com/gag/axoGMAb)<!-- MEMES:END -->
 
 ---
 
