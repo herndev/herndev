@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Sci-Fi Changed Who Gets to Go to Space](https://www.wired.com/story/sci-fi-changed-nasa-star-trek/)
- - [How the World Will Know If Russia Is Preparing to Launch a Nuclear Attack](https://www.wired.com/story/russia-ukraine-nuclear-attack-surveillance/)
- - [The Unnatural Future of Physics](https://www.wired.com/story/unnatural-future-physics/)<!-- TECH:END -->
+ - [DuckDuckGo&#39;s private browser for Mac enters public beta](https://appleinsider.com/articles/22/10/18/duckduckgos-private-browser-for-mac-enters-public-beta?utm_medium=rss)
+ - [How to Transfer Your iPhone Photos to a Windows PC](https://www.wired.com/story/transfer-iphone-photos-to-pc/)
+ - [17 Best iPhone 12 Cases and Accessories &lpar;2022&rpar;: Chargers, Screen Protectors, and More](https://www.wired.com/gallery/best-iphone-12-cases-and-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
