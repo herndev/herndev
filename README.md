@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix has 55 more games in development](https://www.theverge.com/2022/10/18/23411560/netflix-games-development-gaming-efforts-mobile)
- - [Netflix is all-in on binge-watching](https://www.theverge.com/2022/10/18/23411580/netflix-binge-watching-strategy-squid-game-dahmer)
- - [Six vaping companies are getting sued by the federal government](https://www.theverge.com/2022/10/18/23411550/fda-vape-ecigarette-injunction-manufacturers-doj)<!-- TECH:END -->
+ - [Netflix VP of Gaming Mike Verdu says the company is &quot;seriously exploring a cloud gaming offering&quot; and plans to open a new gaming studio in Southern California &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221018/p31#a221018p31)
+ - [Netflix is ‘seriously exploring’ a cloud gaming service](https://www.theverge.com/2022/10/18/23411684/netflix-cloud-gaming-studio-pc-tv)
+ - [Bird is pulling its scooters out of ‘several dozen’ cities, but it won’t say which ones](https://www.theverge.com/2022/10/18/23411569/bird-scooter-exit-cities-norway-germany-sweden)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
