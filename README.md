@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal doc: Amazon has a high attrition rate across all levels, costing $8B annually, and workers choose to leave twice as often as layoffs and firings occur &lpar;Avery Menegus/Engadget&rpar;](http://www.techmeme.com/221017/p22#a221017p22)
- - [Sources: the FTC is investigating whether Visa and Mastercard&#39;s security tokens restrict debit-card routing competition on online payments &lpar;AnnaMaria Andriotis/Wall Street Journal&rpar;](http://www.techmeme.com/221017/p21#a221017p21)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)<!-- TECH:END -->
+ - [Zuckerberg really wants iPhone users to shift to WhatsApp](https://appleinsider.com/articles/22/10/17/zuckerberg-really-wants-iphone-users-to-shift-to-whatsapp?utm_medium=rss)
+ - [Apple rumored to launch M2 iPad Pro on Tuesday](https://appleinsider.com/articles/22/10/17/apple-rumored-to-launch-m2-ipad-pro-on-tuesday?utm_medium=rss)
+ - [Live Brain Cells Playing Pong in a Dish Could Illuminate Mind&#39;s Mechanics     - CNET](https://www.cnet.com/science/brain-cells-playing-pong-in-a-dish-could-teach-about-minds-mechanics/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
