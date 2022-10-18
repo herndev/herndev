@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How how how.......](http://9gag.com/gag/a9qPWjK)
- - ⏩ [How to remove super glued hand on road the proper way](http://9gag.com/gag/adPpX2D)
- - 👉 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
+ - 💣 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)
+ - ⏩ [I am a generous god](http://9gag.com/gag/ap9BL2M)
+ - 👉 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)<!-- MEMES:END -->
 
 ---
 
