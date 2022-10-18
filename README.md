@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Microsoft announced layoffs across multiple divisions on October 17; source: less than 1,000 jobs were cut across various levels, teams, and parts of the world &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/221017/p24#a221017p24)
  - [YouTube ends the test that made 4K a premium feature](https://www.theverge.com/2022/10/17/23410072/youtube-4k-premium-feature-test-ends)
- - [Cadillac outrolls Rolls-Royce with the $300,000 Celestiq electric sedan](https://www.theverge.com/2022/10/17/23409687/cadillac-celestiq-electric-ev-price-specs-range)
- - [BTS Hiatus Until 2025 Unleashes Deluge of Sadness and Memes on Twitter     - CNET](https://www.cnet.com/culture/entertainment/bts-hiatus-until-2025-unleashes-deluge-of-sadness-and-memes-on-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-come-to-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
