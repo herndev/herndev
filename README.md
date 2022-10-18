@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rest Of The Crysis Remastered Trilogy Is Hitting Steam Soon](https://kotaku.com/crysis-remastered-crytek-trilogy-steam-november-17-1849673528)
- - [Rogue Company Welcomes The Walking Dead in a New Crossover Event](https://news.xbox.com/en-us/2022/10/18/rogue-company-welcomes-the-walking-dead-in-a-new-crossover-event/)
- - [FFXIV Endwalker Manderville relic weapon guide, quest, and steps](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23410988/endwalker-relic-weapon-manderville-steps-upgrade-requirements)<!-- GAME:END -->
+ - [Maui Crashes into Smite Alongside a Spooky New Reaping Event](https://news.xbox.com/en-us/2022/10/18/maui-crashes-into-smite-alongside-a-spooky-new-reaping-event/)
+ - [The Sims 4 Modding Is About To Become Easier](https://kotaku.com/the-sims-4-modding-is-about-to-become-easier-1849673731)
+ - [Twitch streamer Amouranth &#39;seeking legal and emotional counsel&#39; following on-stream domestic abuse allegations](https://www.pcgamer.com/twitch-streamer-amouranth-seeking-legal-and-emotional-counsel-following-on-stream-domestic-abuse-allegations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
