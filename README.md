@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Naughty Dog breaks down Uncharted 4’s climbing evolution as Uncharted: Legacy of Thieves Collection launches on PC this week](https://blog.playstation.com/2022/10/18/naughty-dog-breaks-down-uncharted-4s-climbing-evolution-as-uncharted-legacy-of-thieves-collection-launches-on-pc-this-week/)
- - [Just 8 RTX 4090s could crack most of your passwords in 48 minutes](https://www.pcgamer.com/just-8-rtx-4090s-could-crack-most-of-your-passwords-in-48-minutes)
- - [Where to find Jack O Lanterns in GTA Online](https://www.pcgamer.com/gta-online-jack-o-lantern-locations-rewards)<!-- GAME:END -->
+ - [DualSense Edge wireless controller for PS5 launches globally on January 26](https://blog.playstation.com/2022/10/18/dualsense-edge-wireless-controller-for-ps5-launches-globally-on-january-26/)
+ - [Coming Soon to Xbox Game Pass: Persona 5 Royal, Gunfire Reborn, Phantom Abyss, and More](https://news.xbox.com/en-us/2022/10/18/game-pass-october-2022-wave-2-announce/)
+ - [Personalize Your Elite Series 2 Controller with Xbox Design Lab](https://news.xbox.com/en-us/2022/10/18/personalize-elite-series-2-controller-xbox-design-lab/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
