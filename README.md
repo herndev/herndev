@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zuckerberg really wants iPhone users to shift to WhatsApp](https://appleinsider.com/articles/22/10/17/zuckerberg-really-wants-iphone-users-to-shift-to-whatsapp?utm_medium=rss)
- - [Apple rumored to launch M2 iPad Pro on Tuesday](https://appleinsider.com/articles/22/10/17/apple-rumored-to-launch-m2-ipad-pro-on-tuesday?utm_medium=rss)
- - [Live Brain Cells Playing Pong in a Dish Could Illuminate Mind&#39;s Mechanics     - CNET](https://www.cnet.com/science/brain-cells-playing-pong-in-a-dish-could-teach-about-minds-mechanics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube ends the test that made 4K a premium feature](https://www.theverge.com/2022/10/17/23410072/youtube-4k-premium-feature-test-ends)
+ - [Cadillac outrolls Rolls-Royce with the $300,000 Celestiq electric sedan](https://www.theverge.com/2022/10/17/23409687/cadillac-celestiq-electric-ev-price-specs-range)
+ - [BTS Hiatus Until 2025 Unleashes Deluge of Sadness and Memes on Twitter     - CNET](https://www.cnet.com/culture/entertainment/bts-hiatus-until-2025-unleashes-deluge-of-sadness-and-memes-on-twitter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
