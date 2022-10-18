@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Internet culture at its best..](http://9gag.com/gag/adPpKjd)
- - ⏩ [Let&#39;s go for the second panel of representation](http://9gag.com/gag/abvbVR9)
- - 👉 [You are not the father](http://9gag.com/gag/aEqzpnM)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aOxm7b6)
+ - ⏩ [Hair after using a razor vs an electric shaver](http://9gag.com/gag/aA0pPzZ)
+ - 👉 [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)<!-- MEMES:END -->
 
 ---
 
