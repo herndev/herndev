@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [May 2022 survey of non-professional creators in nine regions: 48% monetize content, including 53% in the US; 77% of those who monetize started in the past year &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221017/p25#a221017p25)
  - [Microsoft announced layoffs across multiple divisions on October 17; source: less than 1,000 jobs were cut across various levels, teams, and parts of the world &lpar;Ina Fried/Axios&rpar;](http://www.techmeme.com/221017/p24#a221017p24)
- - [YouTube ends the test that made 4K a premium feature](https://www.theverge.com/2022/10/17/23410072/youtube-4k-premium-feature-test-ends)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-come-to-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [YouTube ends the test that made 4K a premium feature](https://www.theverge.com/2022/10/17/23410072/youtube-4k-premium-feature-test-ends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
