@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice shampoo](http://9gag.com/gag/a04YKeq)
- - ⏩ [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
- - 👉 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)<!-- MEMES:END -->
+ - 💣 [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
+ - ⏩ [Sentenced to 4 and a half years looks like this](http://9gag.com/gag/ay2nBq8)
+ - 👉 [The real vampire](http://9gag.com/gag/aBdrYPO)<!-- MEMES:END -->
 
 ---
 
