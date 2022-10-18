@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New World is getting &#39;Fresh Start Worlds&#39; in November](https://www.pcgamer.com/new-world-is-getting-fresh-start-worlds-in-november)
- - [New Mortal Kombat game is an RPG for phones](https://www.polygon.com/23410635/mortal-kombat-onslaught-release-date-mobile-android-ios)
- - [Samsung 990 Pro 2TB](https://www.pcgamer.com/samsung-990-pro-2tb-review-benchmarks-performance)<!-- GAME:END -->
+ - [Introducing the God of War Ragnarök Behind the Scenes series](https://blog.playstation.com/2022/10/18/introducing-the-god-of-war-ragnarok-behind-the-scenes-series/)
+ - [Behind Smile’s ‘overwhelming, mind-breaking’ monster](https://www.polygon.com/23409413/smile-monster-practical-effect-movie-ending-interview)
+ - [Roblox says it had over 1.7 billion users last month](https://www.pcgamer.com/roblox-says-it-had-over-17-billion-users-last-month)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
