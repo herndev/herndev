@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DuckDuckGo&#39;s private browser for Mac enters public beta](https://appleinsider.com/articles/22/10/18/duckduckgos-private-browser-for-mac-enters-public-beta?utm_medium=rss)
- - [How to Transfer Your iPhone Photos to a Windows PC](https://www.wired.com/story/transfer-iphone-photos-to-pc/)
- - [17 Best iPhone 12 Cases and Accessories &lpar;2022&rpar;: Chargers, Screen Protectors, and More](https://www.wired.com/gallery/best-iphone-12-cases-and-accessories/)<!-- TECH:END -->
+ - [Sony’s new DualSense Edge controller arrives on January 26th for $199.99](https://www.theverge.com/2022/10/18/23410597/sony-dualsense-edge-wireless-controller-release-date-price)
+ - [Google adds new kids-focused features to Google TV, including parent-controlled watchlists and AI-powered suggestions &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221018/p13#a221018p13)
+ - [Xbox Elite 2 controllers now customizable in the Xbox Design Lab starting at $149.99](https://www.theverge.com/2022/10/18/23410416/microsoft-xbox-elite-2-controller-design-lab-color-customization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
