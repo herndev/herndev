@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11’s new tabbed File Explorer and taskbar improvements are available today](https://www.theverge.com/2022/10/18/23411108/microsoft-windows-11-file-explorer-tabs-taskbar-changes-suggested-actions)
- - [What to watch if you love AMC’s Interview with the Vampire series](https://www.androidauthority.com/shows-like-interview-with-the-vampire-amc-3221165/)
- - [Source: Parler has around 50,000 DAUs and its parent company had been trying over the last few weeks to sell the social network at a &quot;wildly inflated&quot; price &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221018/p24#a221018p24)<!-- TECH:END -->
+ - [Apple iPad Pro &lpar;2022&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-ipad-pro-2022-apple-tv-4k/)
+ - [Belkin’s mount to turn your iPhone into a camera is now available](https://www.theverge.com/2022/10/18/23411241/belkin-magsafe-mount-continuity-camera-laptops-available)
+ - [New low price on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
