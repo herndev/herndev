@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why r u](http://9gag.com/gag/anzB9VL)
- - ⏩ [Process of making a train wheel](http://9gag.com/gag/a9qPKjK)
- - 👉 [Woman VS Gorilla](http://9gag.com/gag/axoGMDK)<!-- MEMES:END -->
+ - 💣 [I enjoy](http://9gag.com/gag/avQL51M)
+ - ⏩ [Break](http://9gag.com/gag/adPpXGQ)
+ - 👉 [This British man found a vulnerability in Dutch government systems and reported it. He got this letter and shirt in return:](http://9gag.com/gag/amA87N9)<!-- MEMES:END -->
 
 ---
 
