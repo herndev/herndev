@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Maui Crashes into Smite Alongside a Spooky New Reaping Event](https://news.xbox.com/en-us/2022/10/18/maui-crashes-into-smite-alongside-a-spooky-new-reaping-event/)
- - [The Sims 4 Modding Is About To Become Easier](https://kotaku.com/the-sims-4-modding-is-about-to-become-easier-1849673731)
- - [Twitch streamer Amouranth &#39;seeking legal and emotional counsel&#39; following on-stream domestic abuse allegations](https://www.pcgamer.com/twitch-streamer-amouranth-seeking-legal-and-emotional-counsel-following-on-stream-domestic-abuse-allegations)<!-- GAME:END -->
+ - [How to play Call of Duty: Modern Warfare 2’s campaign early](https://www.polygon.com/gaming/23411475/call-duty-modern-warfare-2-2022-campaign-early-access-release-date-pre-order)
+ - [Amouranth says she’s safe, is ‘seeking legal and emotional counsel’](https://www.polygon.com/23411227/amouranth-husband-abuse-safe-legal-counsel)
+ - [Getting Into The Pokémon Trading Card Game Is Way Easier Than You Think](https://kotaku.com/pokemon-tcg-card-game-guide-lost-origin-silver-tempest-1849672817)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
