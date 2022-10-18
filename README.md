@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite’s Halloween event, Fortnitemares, will turn you into a monster](https://www.polygon.com/23409668/fortnite-halloween-update-2022-fortnitemares-werewolves)
- - [Herman Miller and Logitech G just dropped a $1,000 gaming chair](https://www.pcgamer.com/herman-miller-and-logitech-g-just-dropped-a-dollar1000-gaming-chair)
- - [Today&#39;s Wordle 486 answer and hint: Tuesday, October 18](https://www.pcgamer.com/todays-wordle-486-answer-hint)<!-- GAME:END -->
+ - [Naughty Dog breaks down Uncharted 4’s climbing evolution as Uncharted: Legacy of Thieves Collection launches on PC this week](https://blog.playstation.com/2022/10/18/naughty-dog-breaks-down-uncharted-4s-climbing-evolution-as-uncharted-legacy-of-thieves-collection-launches-on-pc-this-week/)
+ - [Just 8 RTX 4090s could crack most of your passwords in 48 minutes](https://www.pcgamer.com/just-8-rtx-4090s-could-crack-most-of-your-passwords-in-48-minutes)
+ - [Where to find Jack O Lanterns in GTA Online](https://www.pcgamer.com/gta-online-jack-o-lantern-locations-rewards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
