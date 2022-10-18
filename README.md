@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new entry-level Kindle is the one to buy](https://www.theverge.com/23409106/amazon-kindle-2022-e-reader-review-test-price-specs-features)
- - [Nest Doorbell wired review: Hello again](https://www.theverge.com/23404602/google-nest-doorbell-wired-review-hello)
- - [Firefox version 106 adds PDF editing &amp; lowers CPU usage on Mac](https://appleinsider.com/articles/22/10/18/firefox-version-106-adds-pdf-editing-and-lower-cpu-usage-on-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung talks One UI 5 rollout, seamless updates hopes for One UI 6, and more](https://www.androidauthority.com/samsung-one-ui-5-interview-3220263/)
+ - [Valve’s new dock won’t replace your Switch, but it makes the Steam Deck more useful](https://www.theverge.com/2022/10/18/23409757/valve-steam-deck-dock-docking-station-tv-gaming-nintendo-switch)
+ - [Apple announces new iPad Pro with M2 chip and Wi-Fi 6E](https://www.theverge.com/2022/10/18/23398242/apple-ipad-pro-m2-2022-features-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
