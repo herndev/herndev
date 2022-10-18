@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Creed 3 trailer is almost too shredded for words](https://www.polygon.com/23410985/creed-3-trailer-michael-b-jordan-jonathan-majors-wow-hot)
- - [How Infinity Ward created Oni, a new Operator in Modern Warfare II](https://blog.playstation.com/2022/10/18/how-infinity-ward-created-oni-a-new-operator-in-modern-warfare-ii/)
- - [How Infinity Ward created Oni, a new Operator in Modern Warfare II](https://blog.playstation.com/2022/10/18/how-infinity-ward-created-oni-a-new-operator-in-modern-warfare-ii/)<!-- GAME:END -->
+ - [Chainsaw Man’s Denji rips, chops, and kicks his way to glory on this week’s episode](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)
+ - [The Next Generation Of The Sims Is Coming—Eventually](https://kotaku.com/sims-5-new-game-summit-announcement-1849673095)
+ - [Preparing for Loss After Losing Our Innocence: A Chat with A Plague Tale: Requiem’s Game Director Kévin Choteau](https://news.xbox.com/en-us/2022/10/18/chat-with-plague-tale-requiem-game-director/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
