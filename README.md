@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
- - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 👉 [Break](http://9gag.com/gag/adPpXGQ)<!-- MEMES:END -->
+ - 💣 [Break](http://9gag.com/gag/adPpXGQ)
+ - ⏩ [Feminism at its finest moment](http://9gag.com/gag/a8qj8EQ)
+ - 👉 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
 
 ---
 
