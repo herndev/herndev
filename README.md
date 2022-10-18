@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix VP of Gaming Mike Verdu says the company is &quot;seriously exploring a cloud gaming offering&quot; and plans to open a new gaming studio in Southern California &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221018/p31#a221018p31)
- - [Netflix is ‘seriously exploring’ a cloud gaming service](https://www.theverge.com/2022/10/18/23411684/netflix-cloud-gaming-studio-pc-tv)
- - [Bird is pulling its scooters out of ‘several dozen’ cities, but it won’t say which ones](https://www.theverge.com/2022/10/18/23411569/bird-scooter-exit-cities-norway-germany-sweden)<!-- TECH:END -->
+ - [New iPad requires USB-C Apple Pencil adapter for pairing &amp; charging](https://appleinsider.com/articles/22/10/18/new-ipad-requires-usb-c-apple-pencil-adapter-for-pairing-charging?utm_medium=rss)
+ - [&#39;House of the Dragon&#39; Episode 9: Alicent and the Prophecy Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-alicent-and-the-prophecy-explained/#ftag=CAD590a51e)
+ - [Record-Breaking Gamma-Ray Burst May Mark Birth of a Black Hole     - CNET](https://www.cnet.com/science/space/record-breaking-gamma-ray-burst-may-mark-birth-of-a-black-hole/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
