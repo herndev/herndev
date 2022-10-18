@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jennifer Hale Speaks Out On Replacing Bayonetta’s Original Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-kamiya-recast-1849669425)
- - [Splinter Cell remake director leaves Ubisoft](https://www.pcgamer.com/splinter-cell-remake-director-leaves-ubisoft)
- - [Overwatch 2&#39;s weekly coin rewards are insultingly low](https://www.pcgamer.com/overwatch-2s-weekly-coin-rewards-are-insultingly-low)<!-- GAME:END -->
+ - [Cosplay Universe Is A Great Documentary About The Craft](https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827)
+ - [EA Shutting Down Servers For Loads Of Very Good, Very Old Games](https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665)
+ - [Sasha Grey will portray a radio DJ in the Cyberpunk 2077 expansion](https://www.pcgamer.com/sasha-grey-will-portray-a-radio-dj-in-the-cyberpunk-2077-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
