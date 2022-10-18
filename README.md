@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad Pro &lpar;2022&rpar;: Specs, Price, Release Date](https://www.wired.com/story/apple-ipad-pro-2022-apple-tv-4k/)
- - [Belkin’s mount to turn your iPhone into a camera is now available](https://www.theverge.com/2022/10/18/23411241/belkin-magsafe-mount-continuity-camera-laptops-available)
- - [New low price on the WD 1TB My Passport SSD, and more external hard drive deals](https://www.androidauthority.com/best-cheap-external-hard-drive-deals-1118021/)<!-- TECH:END -->
+ - [iPhone 14 Plus allegedly suffering from production cuts after only two weeks on the market](https://appleinsider.com/articles/22/10/18/iphone-14-plus-allegedly-suffering-from-production-cuts-after-only-two-weeks-on-the-market?utm_medium=rss)
+ - [Compared: M2 iPad Pro vs M1 iPad Pro](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-m1-ipad-pro?utm_medium=rss)
+ - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
