@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple unveils the $249 Magic Keyboard Folio for the 10th-gen iPad, with detachable keyboard, a 14-key function row, and an adjustable stand, shipping October 26 &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/221018/p21#a221018p21)
- - [Apple Siri Remote now USB-C, as death knell tolls for Lightning](https://appleinsider.com/articles/22/10/18/apple-siri-remote-now-usb-c-as-death-knell-tolls-for-lightning?utm_medium=rss)
- - [HBO Max’s A Christmas Story sequel is actually happening and has a new teaser](https://www.theverge.com/2022/10/18/23410783/a-christmas-story-christmas-sequel-hbo-max-teaser)<!-- TECH:END -->
+ - [Belkin iPhone mount for Mac for Continuity Camera is available](https://appleinsider.com/articles/22/10/18/belkin-iphone-mount-for-mac-for-continuity-camera-is-available?utm_medium=rss)
+ - [Chrome is the next Android app to get tablet-focused updates](https://www.theverge.com/2022/10/18/23410418/chrome-android-tablet-app-update-tabs-desktop-website-interface-improvements)
+ - [Samsung Galaxy Watch 5 series gets October security update](https://www.androidauthority.com/samsung-galaxy-watch-5-updates-3209062/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
