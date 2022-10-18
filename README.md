@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
- - [FedEx is shutting down its robot delivery program](https://www.theverge.com/2022/10/18/23410419/fedex-shuts-down-last-mile-delivery-robot-roxo-deka)
- - [Nothing hikes price of Ear 1 earbuds by 50 percent](https://www.theverge.com/2022/10/18/23410423/nothing-ear-1-price-increase-inflation)<!-- TECH:END -->
+ - [How Sci-Fi Changed Who Gets to Go to Space](https://www.wired.com/story/sci-fi-changed-nasa-star-trek/)
+ - [How the World Will Know If Russia Is Preparing to Launch a Nuclear Attack](https://www.wired.com/story/russia-ukraine-nuclear-attack-surveillance/)
+ - [The Unnatural Future of Physics](https://www.wired.com/story/unnatural-future-physics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
