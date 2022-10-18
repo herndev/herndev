@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Learn how to run VR flight sims and win a Pimax 8k headset](https://www.pcgamer.com/learn-how-to-run-vr-flight-sims-and-win-a-pimax-8k-headset)
  - [DisplayPort 2.0 products already support DisplayPort 2.1](https://www.pcgamer.com/displayport-20-products-already-support-displayport-21)
- - [Cosplay Universe Is A Great Documentary About The Craft](https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827)
- - [EA Shutting Down Servers For Loads Of Very Good, Very Old Games](https://kotaku.com/ea-shut-down-close-servers-mirrors-edge-command-conquer-1849669665)<!-- GAME:END -->
+ - [Cosplay Universe Is A Great Documentary About The Craft](https://kotaku.com/cosplay-universe-documentary-stan-lee-yaya-han-nigri-1849669827)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
