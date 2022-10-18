@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to play Call of Duty: Modern Warfare 2’s campaign early](https://www.polygon.com/gaming/23411475/call-duty-modern-warfare-2-2022-campaign-early-access-release-date-pre-order)
- - [Amouranth says she’s safe, is ‘seeking legal and emotional counsel’](https://www.polygon.com/23411227/amouranth-husband-abuse-safe-legal-counsel)
- - [Getting Into The Pokémon Trading Card Game Is Way Easier Than You Think](https://kotaku.com/pokemon-tcg-card-game-guide-lost-origin-silver-tempest-1849672817)<!-- GAME:END -->
+ - [Red Dead Redemption’s PS Plus Delisting Is Another Bad Omen For Digital Libraries](https://kotaku.com/red-dead-redemption-s-ps-plus-delisting-is-another-bad-1849674441)
+ - [The next Apex Legends character is the game&#39;s first trans hero](https://www.pcgamer.com/the-next-apex-legends-character-is-the-games-first-trans-hero)
+ - [The next Sims game is bringing back my beloved Create-A-Style tool](https://www.pcgamer.com/the-next-sims-game-is-bringing-back-my-beloved-create-a-style-tool)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
