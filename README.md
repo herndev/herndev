@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
- - ⏩ [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)
- - 👉 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)<!-- MEMES:END -->
+ - 💣 [The last round for one tap purpose](http://9gag.com/gag/a6qL17R)
+ - ⏩ [Rip bro](http://9gag.com/gag/axoGMAb)
+ - 👉 [Best football play of the year](http://9gag.com/gag/agoNg01)<!-- MEMES:END -->
 
 ---
 
