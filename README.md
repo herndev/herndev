@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
- - ⏩ [In Russia be like...](http://9gag.com/gag/a04YK0Z)
- - 👉 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
+ - 💣 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
+ - ⏩ [Absolute destruction](http://9gag.com/gag/a5XKQ5r)
+ - 👉 [An All Time Classic](http://9gag.com/gag/aBdryeP)<!-- MEMES:END -->
 
 ---
 
