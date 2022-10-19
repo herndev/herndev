@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IBM reports Q3 revenue up 6.5% YoY to $14.11B vs. $13.51B est., with software revenue up 7.5% YoY to $5.81B vs. $5.54B est., and lifts FY 2022 revenue forecast &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221019/p20#a221019p20)
- - [What to try if Siri isn&#39;t working after iOS 16.0.3 update](https://appleinsider.com/inside/ios-16/tips/what-to-try-if-siri-isnt-working-after-ios-1603-update?utm_medium=rss)
- - [Tesla is smoothing its vehicle delivery process to avoid bottlenecks](https://www.theverge.com/2022/10/19/23411222/tesla-q3-earnings-2022-elon-musk-vehicle-delivery)<!-- TECH:END -->
+ - [Meta AI unveils an open-source translator for languages that are primarily spoken rather than written, which can currently translate between Hokkien and English &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/221019/p22#a221019p22)
+ - [Can Netflix reclaim the ‘Netflix for games’ crown from Xbox Game Pass?](https://www.theverge.com/2022/10/19/23413518/netflix-cloud-gaming-streaming-games-xbox-game-pass-google-stadia)
+ - [Discord on Xbox won’t need a phone soon](https://www.theverge.com/2022/10/19/23413318/discord-xbox-voice-no-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
