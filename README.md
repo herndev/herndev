@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch today’s Silent Hill Transmission showcase](https://www.polygon.com/23412400/silent-hill-transmission-showcase-how-to-watch)
- - [Today&#39;s Wordle 487 answer and hint: Wednesday, October 19](https://www.pcgamer.com/todays-wordle-487-answer-hint)
- - [We made PC games into themed Xbox Elite controllers using Xbox Design Labs](https://www.pcgamer.com/we-made-pc-games-into-themed-xbox-elite-controllers-using-xbox-design-labs)<!-- GAME:END -->
+ - [File Explorer tabs finally come to Windows 11](https://www.pcgamer.com/microsoft-windows-11-file-explorer-tabs-update)
+ - [What you need to know about Dracthyr in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-dracthyr-evoker-customization)
+ - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
