@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/aOxm7b6)
- - ⏩ [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
- - 👉 [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)<!-- MEMES:END -->
+ - 💣 [Men...](http://9gag.com/gag/aNwKp24)
+ - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
+ - 👉 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
 
 ---
 
