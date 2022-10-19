@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley&#39;s Big Scar Update: All The Changes You Should Know About](https://kotaku.com/disney-dreamlight-valley-scar-root-beer-update-villain-1849678333)
- - [Minecraft Batman DLC Available Now in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/10/19/minecraft-batman-dlc-available-now-in-the-minecraft-marketplace/)
- - [Marvel&#39;s Midnight Suns hints at Deadpool joining the team](https://www.pcgamer.com/marvels-midnight-suns-hints-at-deadpool-joining-the-team)<!-- GAME:END -->
+ - [Konami Leaks New Silent Hill 2 Project, Based On Classic Horror Game](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)
+ - [Gotham Knights On Consoles Is Stuck At 30FPS, While PC Requires Some Serious Hardware](https://kotaku.com/gotham-knights-batman-pc-frame-rate-performance-ps5-1849678532)
+ - [6 mistakes that Call of Duty: Warzone 2.0 better not repeat](https://www.pcgamer.com/6-mistakes-that-call-of-duty-warzone-20-better-not-repeat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
