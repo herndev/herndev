@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)
- - [The Top Four Cat Breeds a Veterinarian Would Never Choose     - CNET](https://www.cnet.com/culture/the-top-four-cat-breeds-a-veterinarian-would-never-choose/#ftag=CAD590a51e)
- - [Verizon Alerts Prepaid Customers to Recent Security Breach     - CNET](https://www.cnet.com/tech/mobile/verizon-alerts-prepaid-customers-to-recent-security-breach/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Next Apple TV to be priced even lower, says Kuo](https://appleinsider.com/articles/22/10/19/next-apple-tv-to-be-priced-even-lower-says-kuo?utm_medium=rss)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-hit-disney-plus/#ftag=CAD590a51e)
+ - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
