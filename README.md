@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make it double](http://9gag.com/gag/amA8AB9)
- - ⏩ [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)
+ - 💣 [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
+ - ⏩ [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)
  - 👉 [Lone woman defends store against horde of laughing shoplifters from all ages in CA](http://9gag.com/gag/az2VMNq)<!-- MEMES:END -->
 
 ---
