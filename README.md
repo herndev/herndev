@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The answer is no, we will not accept a centralized digital currency.](http://9gag.com/gag/armRy87)
- - ⏩ [I enjoy](http://9gag.com/gag/avQL51M)
- - 👉 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/aOxm7b6)
+ - ⏩ [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
+ - 👉 [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)<!-- MEMES:END -->
 
 ---
 
