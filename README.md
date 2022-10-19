@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyberpunk 2077: This ‘Trickshot Grenade’ Build Will Totally Change The Combat](https://kotaku.com/cyberpunk-2077-build-grenades-cybernetics-kerenzikov-ne-1849679214)
- - [Konami Leaks New Silent Hill 2 PS5 Remake, Based On Classic Horror Game [Update: Trailer]](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)
- - [Silent Hill 2 remake revealed, first gameplay details and design changes announced](https://blog.playstation.com/2022/10/19/silent-hill-2-remake-revealed-first-gameplay-details-and-design-changes-announced/)<!-- GAME:END -->
+ - [Fallout Mod Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)
+ - [The next Silent Hill movie will be based on Silent Hill 2](https://www.pcgamer.com/the-next-silent-hill-movie-will-be-based-on-silent-hill-2)
+ - [Silent Hill Ascension is a horror story shaped by the hivemind](https://www.pcgamer.com/silent-hill-ascension-is-a-horror-story-shaped-by-the-hivemind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
