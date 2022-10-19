@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ultimate Game To Hit Your &#39;90s Music Nostalgia](https://kotaku.com/riley-rochelle-musical-music-pc-steam-sheinman-games-1849676247)
- - [The Xbox October Update Rolls Out Today](https://news.xbox.com/en-us/2022/10/19/xbox-october-update-rolls-out-today/)
- - [Accept the Challenge of a Souls-Like with a Humorous Twist in The Last Hero of Nostalgaia](https://news.xbox.com/en-us/2022/10/19/accept-the-challenge-of-a-souls-like-with-a-humorous-twist-in-the-last-hero-of-nostalgaia/)<!-- GAME:END -->
+ - [The legacy of Glup Shitto lives on in Andor’s Keef Girgo](https://www.polygon.com/star-wars/23412848/andor-keef-girgo-star-wars)
+ - [McDonalds is offering an epic Overwatch 2 skin in Australia](https://www.pcgamer.com/mcdonalds-is-offering-an-epic-overwatch-2-skin-in-australia)
+ - [The last &#39;70s tank simulator in the world is huge, loud, and runs off a Raspberry Pi](https://www.pcgamer.com/the-last-analogue-tank-simulator-on-earth-is-huge-loud-and-runs-off-a-raspberry-pi)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
