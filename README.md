@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Next Apple TV to be priced even lower, says Kuo](https://appleinsider.com/articles/22/10/19/next-apple-tv-to-be-priced-even-lower-says-kuo?utm_medium=rss)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 7 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-7-hit-disney-plus/#ftag=CAD590a51e)
- - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)<!-- TECH:END -->
+ - [A profile of venture capitalist and former PayPal COO David Sacks, who is using his wealth and online clout to lead a reactionary movement against liberalism &lpar;Jacob Silverman/New Republic&rpar;](http://www.techmeme.com/221018/p35#a221018p35)
+ - [Kakao&#39;s co-CEO Namkoong Whon resigns and apologizes for the recent outage; Hong Eun-taek, who led the company alongside Namkoong, will remain as sole CEO &lpar;Jihye Lee/CNBC&rpar;](http://www.techmeme.com/221018/p34#a221018p34)
+ - [Best 4K TV Deals: Up to $650 Off From Samsung, LG, Sony and Amazon Fire TVs     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
