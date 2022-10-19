@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rob Schneider was kind of a d*ck](http://9gag.com/gag/aL1BnnW)
- - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 👉 [L\u00e9onie \ud83c\udde6\ud83c\uddf9 Stefie \ud83c\udde9\ud83c\uddea Victorine \ud83c\uddeb\ud83c\uddf7 Maria \ud83c\udde9\ud83c\uddea D\u00e9sir \ud83c\uddee\ud83c\uddf9 Pamela \ud83c\uddee\ud83c\uddf9 Wilma \ud83c\uddf8\ud83c\uddea Lola \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awZ7MM8)<!-- MEMES:END -->
+ - 💣 [The answer is no, we will not accept a centralized digital currency.](http://9gag.com/gag/armRy87)
+ - ⏩ [I enjoy](http://9gag.com/gag/avQL51M)
+ - 👉 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
 
 ---
 
