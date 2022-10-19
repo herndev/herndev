@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta AI unveils an open-source translator for languages that are primarily spoken rather than written, which can currently translate between Hokkien and English &lpar;Andrew Tarantola/Engadget&rpar;](http://www.techmeme.com/221019/p22#a221019p22)
- - [Can Netflix reclaim the ‘Netflix for games’ crown from Xbox Game Pass?](https://www.theverge.com/2022/10/19/23413518/netflix-cloud-gaming-streaming-games-xbox-game-pass-google-stadia)
- - [Discord on Xbox won’t need a phone soon](https://www.theverge.com/2022/10/19/23413318/discord-xbox-voice-no-phone)<!-- TECH:END -->
+ - [SpaceX unveils its Starlink Aviation service, promising speeds up to 350Mbps in airplanes, with a $150K one-time hardware cost and $12.5K to $25K monthly fees &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/221019/p24#a221019p24)
+ - [A study of 1,063 US adults&#39; YouTube browsing experience shows the site is more likely to suggest conservative-leaning videos regardless of the viewer&#39;s ideology &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221019/p23#a221019p23)
+ - [250 million devices run Android Go — but the new version is more demanding](https://www.theverge.com/2022/10/19/23413420/google-android-go-material-you-customization-250-million-users-2gb-ram)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
