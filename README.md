@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
- - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)
- - [Bluesky previews its Authenticated Transport Protocol, formerly ADX, for large distributed social applications and says a Bluesky social app is &quot;coming soon&quot; &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/221018/p33#a221018p33)<!-- TECH:END -->
+ - [Apple no longer selling 2015 Apple TV HD](https://appleinsider.com/articles/22/10/19/apple-no-longer-selling-2015-apple-tv-hd?utm_medium=rss)
+ - [The Top Four Cat Breeds a Veterinarian Would Never Choose     - CNET](https://www.cnet.com/culture/the-top-four-cat-breeds-a-veterinarian-would-never-choose/#ftag=CAD590a51e)
+ - [Verizon Alerts Prepaid Customers to Recent Security Breach     - CNET](https://www.cnet.com/tech/mobile/verizon-alerts-prepaid-customers-to-recent-security-breach/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
