@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [File Explorer tabs finally come to Windows 11](https://www.pcgamer.com/microsoft-windows-11-file-explorer-tabs-update)
- - [What you need to know about Dracthyr in World of Warcraft](https://www.pcgamer.com/world-of-warcraft-wow-dracthyr-evoker-customization)
- - [What&#39;s the Nightfall weapon this week in Destiny 2?](https://www.pcgamer.com/destiny-2-nightfall-weapon-this-week)<!-- GAME:END -->
+ - [All eyes are on Lucien in the next Critical Role novel](https://www.polygon.com/23411521/critical-role-novel-nine-eyes-of-lucien-author-interview-madeleine-roux-matt-mercer)
+ - [Get an early preview of the cars racing into Gran Turismo 7 later today](https://blog.playstation.com/2022/10/19/get-an-early-preview-of-the-cars-racing-into-gran-turismo-7-later-today/)
+ - [Get an early preview of the cars racing into Gran Turismo 7 later today](https://blog.playstation.com/2022/10/19/get-an-early-preview-of-the-cars-racing-into-gran-turismo-7-later-today/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
