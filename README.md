@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Documents: Japan may let crypto exchanges list tokens without a lengthy screening process, unless the tokens are new; the rule could take effect by December &lpar;Bloomberg&rpar;](http://www.techmeme.com/221019/p6#a221019p6)
- - [Lyft now lets you reserve parking spaces](https://www.theverge.com/2022/10/19/23412375/lyft-reserve-parking-spaces-spothero)
- - [Daily Authority: Welcoming new iPads, one with a big change!](https://www.androidauthority.com/daily-authority-october-19-2022-3222083/)<!-- TECH:END -->
+ - [Reddit&#39;s chief product officer says 3M+ users created Reddit Vault wallets, including 2.5M to buy NFT avatars that can be used as profile pictures on the site &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221019/p8#a221019p8)
+ - [The Gig Law Causing Chaos in California Strip Clubs](https://www.wired.com/story/gig-economy-strip-clubs/)
+ - [TikTok&#39;s &#39;Board Parties&#39; May Have Reached Their Apex](https://www.wired.com/story/tiktok-instagram-food-boards/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
