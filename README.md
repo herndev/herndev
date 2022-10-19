@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lightroom is &lpar;finally&rpar; all I need for photo editing](https://www.theverge.com/23412754/adobe-lightroom-ai-heal-tool-new-features-pixelmator)
- - [Wind and solar smashed records in the EU this year](https://www.theverge.com/2022/10/19/23412663/european-union-wind-solar-electricity-renewable-energy-russia-gas-ukraine-war)
- - [How to use the Apple Watch’s Compass Waypoints and Backtrack features](https://www.theverge.com/23412660/apple-watch-compass-waypoints-backtrack-how-to)<!-- TECH:END -->
+ - [Uber wants to annoy riders with its own version of taxi TV](https://www.theverge.com/2022/10/19/23412891/uber-in-car-tablets-taxi-tv-advertising)
+ - [You can now mute your Xbox’s startup sound and control volume through the console](https://www.theverge.com/2022/10/19/23412893/xbox-series-update-startup-sound-mute-volume-control-edit-clips)
+ - [Netatmo Smart Video Doorbell won&#39;t get HomeKit Secure Video after all](https://appleinsider.com/articles/22/10/19/netatmo-smart-video-doorbell-wont-get-homekit-secure-video-after-all?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
