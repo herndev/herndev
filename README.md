@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men...](http://9gag.com/gag/aNwKp24)
- - ⏩ [A house, a job, and a loving wife](http://9gag.com/gag/aA0pwXE)
- - 👉 [Women](http://9gag.com/gag/aBdrW3D)<!-- MEMES:END -->
+ - 💣 [Mmmhmm.](http://9gag.com/gag/a8qj1NO)
+ - ⏩ [Bro\u2026what are you doing](http://9gag.com/gag/aWGO11A)
+ - 👉 [Want some help finishing your poop?](http://9gag.com/gag/awZ7QwQ)<!-- MEMES:END -->
 
 ---
 
