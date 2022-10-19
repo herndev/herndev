@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Testers Win Case, Can Now Vote On Forming A Union](https://kotaku.com/blizzard-albany-qa-testers-diablo-iv-union-activision-1849674924)
- - [NBA Star Klay Thompson Calls NBA 2K&#39;s Marketing Guy A &#39;Clown&#39;](https://kotaku.com/klay-thompson-ronnie-2k-nba-2k23-singh-clown-espn-1849674785)
- - [Gotham Knights system requirements are surprisingly demanding](https://www.pcgamer.com/gotham-knights-system-requirements)<!-- GAME:END -->
+ - [The Case of the Golden Idol review](https://www.pcgamer.com/the-case-of-the-golden-idol-review)
+ - [The Bayonetta voice actor dispute just got more complicated](https://www.pcgamer.com/the-bayonetta-voice-actor-dispute-just-got-more-complicated)
+ - [Blizzard Testers Win Case, Can Now Vote On Forming A Union](https://kotaku.com/blizzard-albany-qa-testers-diablo-iv-union-activision-1849674924)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
