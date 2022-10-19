@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The legacy of Glup Shitto lives on in Andor’s Keef Girgo](https://www.polygon.com/star-wars/23412848/andor-keef-girgo-star-wars)
- - [McDonalds is offering an epic Overwatch 2 skin in Australia](https://www.pcgamer.com/mcdonalds-is-offering-an-epic-overwatch-2-skin-in-australia)
- - [The last &#39;70s tank simulator in the world is huge, loud, and runs off a Raspberry Pi](https://www.pcgamer.com/the-last-analogue-tank-simulator-on-earth-is-huge-loud-and-runs-off-a-raspberry-pi)<!-- GAME:END -->
+ - [10 surprising movies that directly inspired Chainsaw Man](https://www.polygon.com/23324559/movies-like-chainsaw-man-influences-watch-streaming)
+ - [Netflix’s School for Good and Evil loves fairy tales — and rips them apart](https://www.polygon.com/reviews/23412765/school-for-good-evil-review-paul-feig-netflix)
+ - [F1 22 Celebrates the United States Grand Prix with Free Content](https://news.xbox.com/en-us/2022/10/19/f1-22-celebrates-the-united-states-grand-prix-with-free-content/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
