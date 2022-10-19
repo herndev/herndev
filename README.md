@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [First aid](http://9gag.com/gag/aA0pQMg)
- - ⏩ [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
- - 👉 [Gravity, acceleration, friction, thermodynamics, vector force, momentum all in one](http://9gag.com/gag/aGERgEn)<!-- MEMES:END -->
+ - 💣 [The doctor said - you are going to the morgue!](http://9gag.com/gag/aOxmemM)
+ - ⏩ [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)
+ - 👉 [An All Time Classic](http://9gag.com/gag/aBdryeP)<!-- MEMES:END -->
 
 ---
 
