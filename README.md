@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s when Pixel 7 owners will get free Google VPN](https://www.androidauthority.com/pixel-7-google-vpn-3222131/)
- - [Logitech updates Crayon stylus with the USB-C port missing from the Apple Pencil](https://www.theverge.com/2022/10/19/23412357/logitech-crayon-stylus-usb-c-charging-port-apple-ipad)
- - [WeChat, used by millions of Chinese Americans, is one of the main venues for Chinese-language misinformation in the US and may influence the 2022 US midterms &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221019/p4#a221019p4)<!-- TECH:END -->
+ - [Documents: Japan may let crypto exchanges list tokens without a lengthy screening process, unless the tokens are new; the rule could take effect by December &lpar;Bloomberg&rpar;](http://www.techmeme.com/221019/p6#a221019p6)
+ - [Lyft now lets you reserve parking spaces](https://www.theverge.com/2022/10/19/23412375/lyft-reserve-parking-spaces-spothero)
+ - [Daily Authority: Welcoming new iPads, one with a big change!](https://www.androidauthority.com/daily-authority-october-19-2022-3222083/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
