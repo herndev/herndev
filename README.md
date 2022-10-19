@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)
- - ⏩ [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
- - 👉 [A rebuttal of those street survey video](http://9gag.com/gag/aDYmgDZ)<!-- MEMES:END -->
+ - 💣 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
+ - ⏩ [In Russia be like...](http://9gag.com/gag/a04YK0Z)
+ - 👉 [Ashley Rison the backseat bandit](http://9gag.com/gag/a7qbMp2)<!-- MEMES:END -->
 
 ---
 
