@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All eyes are on Lucien in the next Critical Role novel](https://www.polygon.com/23411521/critical-role-novel-nine-eyes-of-lucien-author-interview-madeleine-roux-matt-mercer)
- - [Get an early preview of the cars racing into Gran Turismo 7 later today](https://blog.playstation.com/2022/10/19/get-an-early-preview-of-the-cars-racing-into-gran-turismo-7-later-today/)
- - [Get an early preview of the cars racing into Gran Turismo 7 later today](https://blog.playstation.com/2022/10/19/get-an-early-preview-of-the-cars-racing-into-gran-turismo-7-later-today/)<!-- GAME:END -->
+ - [Netflix Announces Game Streaming Plans Three Weeks After Google’s Attempt Blows Up](https://kotaku.com/netflix-google-stadia-cloud-streaming-xbox-ps5-geforce-1849676394)
+ - [Riot fixes &#39;pay-to-lose&#39; Valorant gun skin that pros forgot to tell devs about](https://www.pcgamer.com/riot-fixes-pay-to-lose-valorant-gun-skin-that-pros-forgot-to-tell-devs-about)
+ - [All eyes are on Lucien in the next Critical Role novel](https://www.polygon.com/23411521/critical-role-novel-nine-eyes-of-lucien-author-interview-madeleine-roux-matt-mercer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
