@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPad requires USB-C Apple Pencil adapter for pairing &amp; charging](https://appleinsider.com/articles/22/10/18/new-ipad-requires-usb-c-apple-pencil-adapter-for-pairing-charging?utm_medium=rss)
- - [&#39;House of the Dragon&#39; Episode 9: Alicent and the Prophecy Explained     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-episode-9-alicent-and-the-prophecy-explained/#ftag=CAD590a51e)
- - [Record-Breaking Gamma-Ray Burst May Mark Birth of a Black Hole     - CNET](https://www.cnet.com/science/space/record-breaking-gamma-ray-burst-may-mark-birth-of-a-black-hole/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Australia Apple Store workers go on strike](https://appleinsider.com/articles/22/10/18/australia-apple-store-workers-go-on-strike?utm_medium=rss)
+ - [Apple stole #TakeNote from Utah Jazz basketball team](https://appleinsider.com/articles/22/10/18/apple-stole-takenote-from-utah-jazz-basketball-team?utm_medium=rss)
+ - [Bluesky previews its Authenticated Transport Protocol, formerly ADX, for large distributed social applications and says a Bluesky social app is &quot;coming soon&quot; &lpar;Sander Lutz/Decrypt&rpar;](http://www.techmeme.com/221018/p33#a221018p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
