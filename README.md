@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber launches a global ad unit targeting gross ad bookings of $1B per year by 2024, including by displaying ads within its apps and on top of cars &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221019/p12#a221019p12)
- - [Apple&#39;s new iPad lineup is a mess, with the M2 iPad Pro missing some of the advances in the low-end 10th-gen iPad and the 9th-gen iPad still available for sale &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/221019/p11#a221019p11)
- - [Daily deals Oct. 19: Caldigit TS4 dock in stock, refurbished iPad Pros starting at $600, 29% off Apple Watch Sport band, more](https://appleinsider.com/articles/22/10/19/daily-deals-oct-19-caldigit-ts4-dock-in-stock-refurbished-ipad-pros-starting-at-600-29-off-apple-watch-sport-band-more?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon plans to stream a Black Friday NFL game starting in 2023](https://www.theverge.com/2022/10/19/23412466/amazon-black-friday-nfl-game-stream-football-2023)
+ - [Apple’s October 2022 update brought new iPads and a refreshed Apple TV 4K](https://www.theverge.com/2022/10/19/23412496/apple-ipad-pro-tv-event-news-announcements-rumors-insight-october-2022)
+ - [Adobe’s latest AI prototype gives even the worst dancers some impressive moves](https://www.theverge.com/2022/10/19/23412526/adobe-dancing-ai-prototype-project-motion-mix-max-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
