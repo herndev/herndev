@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [The Case of the Golden Idol review](https://www.pcgamer.com/the-case-of-the-golden-idol-review)
  - [The Bayonetta voice actor dispute just got more complicated](https://www.pcgamer.com/the-bayonetta-voice-actor-dispute-just-got-more-complicated)
- - [Blizzard Testers Win Case, Can Now Vote On Forming A Union](https://kotaku.com/blizzard-albany-qa-testers-diablo-iv-union-activision-1849674924)<!-- GAME:END -->
+ - [Blizzard Testers Win Case, Can Now Vote On Forming A Union [Update: Activision Responds]](https://kotaku.com/blizzard-albany-qa-testers-diablo-iv-union-activision-1849674924)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
