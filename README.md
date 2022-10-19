@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Uncharted: Legacy of Thieves Collection’s PC launch speaks to Naughty Dog’s present and future](https://blog.playstation.com/2022/10/19/how-uncharted-legacy-of-thieves-collections-pc-launch-speaks-to-naughty-dogs-present-and-future/)
- - [How to unlock Scar in Disney Dreamlight Valley](https://www.pcgamer.com/disney-dreamlight-valley-how-to-unlock-scar)
- - [Smile could soon be headed to streaming](https://www.polygon.com/23409699/smile-watch-streaming-paramount-plus-date)<!-- GAME:END -->
+ - [The Ultimate Game To Hit Your &#39;90s Music Nostalgia](https://kotaku.com/riley-rochelle-musical-music-pc-steam-sheinman-games-1849676247)
+ - [The Xbox October Update Rolls Out Today](https://news.xbox.com/en-us/2022/10/19/xbox-october-update-rolls-out-today/)
+ - [Accept the Challenge of a Souls-Like with a Humorous Twist in The Last Hero of Nostalgaia](https://news.xbox.com/en-us/2022/10/19/accept-the-challenge-of-a-souls-like-with-a-humorous-twist-in-the-last-hero-of-nostalgaia/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
