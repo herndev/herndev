@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor’s Wullf Yularen has Star Wars history beyond his low-key cameo](https://www.polygon.com/star-wars/23412956/andor-wullf-yularen-star-wars-cameo)
- - [Remember RIPD? It suddenly has a prequel, and the first 8 minutes are online now](https://www.polygon.com/23412864/ripd-2-rise-of-the-damned-trailer)
- - [Here&#39;s our first look at Need for Speed Unbound gameplay](https://www.pcgamer.com/heres-our-first-look-at-need-for-speed-unbound-gameplay)<!-- GAME:END -->
+ - [Cyberpunk 2077: This ‘Trickshot Grenade’ Build Will Totally Change The Combat](https://kotaku.com/cyberpunk-2077-build-grenades-cybernetics-kerenzikov-ne-1849679214)
+ - [Konami Leaks New Silent Hill 2 PS5 Remake, Based On Classic Horror Game [Update: Trailer]](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)
+ - [Silent Hill 2 remake revealed, first gameplay details and design changes announced](https://blog.playstation.com/2022/10/19/silent-hill-2-remake-revealed-first-gameplay-details-and-design-changes-announced/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
