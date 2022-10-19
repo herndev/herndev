@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Open Compute Project unveils Caliptra, a Root of Trust specification to provide verifiable cryptographic assurances of an ASIC&#39;s or SoC&#39;s security configuration &lpar;Mike Wheatley/SiliconANGLE&rpar;](http://www.techmeme.com/221019/p1#a221019p1)
  - [A profile of venture capitalist and former PayPal COO David Sacks, who is using his wealth and online clout to lead a reactionary movement against liberalism &lpar;Jacob Silverman/New Republic&rpar;](http://www.techmeme.com/221018/p35#a221018p35)
- - [Kakao&#39;s co-CEO Namkoong Whon resigns and apologizes for the recent outage; Hong Eun-taek, who led the company alongside Namkoong, will remain as sole CEO &lpar;Jihye Lee/CNBC&rpar;](http://www.techmeme.com/221018/p34#a221018p34)
- - [Best 4K TV Deals: Up to $650 Off From Samsung, LG, Sony and Amazon Fire TVs     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Kakao&#39;s co-CEO Namkoong Whon resigns and apologizes for the recent outage; Hong Eun-taek, who led the company alongside Namkoong, will remain as sole CEO &lpar;Jihye Lee/CNBC&rpar;](http://www.techmeme.com/221018/p34#a221018p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
