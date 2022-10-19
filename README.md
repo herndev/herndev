@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to check battery health on iOS &amp; iPadOS](https://appleinsider.com/inside/ios-16/tips/how-to-check-battery-health-on-ios-ipados?utm_medium=rss)
- - [War Is an Ecological Disaster—but Ukraine Can Build Back Greener](https://www.wired.com/story/war-is-an-ecological-disaster-but-ukraine-can-build-back-greener/)
- - [The Best Digital Resources for When Your Pet Runs Away](https://www.wired.com/story/the-best-tools-tips-lost-pet-runs-away/)<!-- TECH:END -->
+ - [Uber launches a global ad unit targeting gross ad bookings of $1B per year by 2024, including by displaying ads within its apps and on top of cars &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221019/p12#a221019p12)
+ - [Apple&#39;s new iPad lineup is a mess, with the M2 iPad Pro missing some of the advances in the low-end 10th-gen iPad and the 9th-gen iPad still available for sale &lpar;Jason Snell/Six Colors&rpar;](http://www.techmeme.com/221019/p11#a221019p11)
+ - [Daily deals Oct. 19: Caldigit TS4 dock in stock, refurbished iPad Pros starting at $600, 29% off Apple Watch Sport band, more](https://appleinsider.com/articles/22/10/19/daily-deals-oct-19-caldigit-ts4-dock-in-stock-refurbished-ipad-pros-starting-at-600-29-off-apple-watch-sport-band-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
