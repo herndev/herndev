@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Infinite loop with plane Mirror](http://9gag.com/gag/aDYmxAx)
- - ⏩ [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
- - 👉 [L\u00e9onie \ud83c\udde6\ud83c\uddf9 Stefie \ud83c\udde9\ud83c\uddea Victorine \ud83c\uddeb\ud83c\uddf7 Maria \ud83c\udde9\ud83c\uddea D\u00e9sir \ud83c\uddee\ud83c\uddf9 Pamela \ud83c\uddee\ud83c\uddf9 Wilma \ud83c\uddf8\ud83c\uddea Lola \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awZ7MM8)<!-- MEMES:END -->
+ - 💣 [THE SINGLE DAY IN WW2 WHEN MOST PEOPLE DIED](http://9gag.com/gag/aZDNnjQ)
+ - ⏩ [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
+ - 👉 [This never gets old.](http://9gag.com/gag/amA8gGX)<!-- MEMES:END -->
 
 ---
 
