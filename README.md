@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)
- - ⏩ [Absolute destruction](http://9gag.com/gag/a5XKQ5r)
- - 👉 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)<!-- MEMES:END -->
+ - 💣 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)
+ - ⏩ [L\u00e9onie \ud83c\udde6\ud83c\uddf9 Stefie \ud83c\udde9\ud83c\uddea Victorine \ud83c\uddeb\ud83c\uddf7 Maria \ud83c\udde9\ud83c\uddea D\u00e9sir \ud83c\uddee\ud83c\uddf9 Pamela \ud83c\uddee\ud83c\uddf9 Wilma \ud83c\uddf8\ud83c\uddea Lola \ud83c\uddeb\ud83c\uddf7](http://9gag.com/gag/awZ7MM8)
+ - 👉 [Absolute destruction](http://9gag.com/gag/a5XKQ5r)<!-- MEMES:END -->
 
 ---
 
