@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Konami Leaks New Silent Hill 2 Project, Based On Classic Horror Game](https://kotaku.com/silent-hill-2-part-1-remake-konami-livestream-bloober-1849678607)
- - [Gotham Knights On Consoles Is Stuck At 30FPS, While PC Requires Some Serious Hardware](https://kotaku.com/gotham-knights-batman-pc-frame-rate-performance-ps5-1849678532)
- - [6 mistakes that Call of Duty: Warzone 2.0 better not repeat](https://www.pcgamer.com/6-mistakes-that-call-of-duty-warzone-20-better-not-repeat)<!-- GAME:END -->
+ - [Andor’s Wullf Yularen has Star Wars history beyond his low-key cameo](https://www.polygon.com/star-wars/23412956/andor-wullf-yularen-star-wars-cameo)
+ - [Remember RIPD? It suddenly has a prequel, and the first 8 minutes are online now](https://www.polygon.com/23412864/ripd-2-rise-of-the-damned-trailer)
+ - [Here&#39;s our first look at Need for Speed Unbound gameplay](https://www.pcgamer.com/heres-our-first-look-at-need-for-speed-unbound-gameplay)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
