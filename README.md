@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
- - [I went all in on eSIM and I have regrets](https://www.theverge.com/23412033/esim-phone-plan-device-switch-ios-android)
- - [Apple’s M1 MacBook Air is still on sale for its lowest price](https://www.theverge.com/2022/10/19/23411524/apple-macbook-air-m1-samsung-galaxy-buds-pro-amazon-fire-deal-sale)<!-- TECH:END -->
+ - [Lightroom is &lpar;finally&rpar; all I need for photo editing](https://www.theverge.com/23412754/adobe-lightroom-ai-heal-tool-new-features-pixelmator)
+ - [Wind and solar smashed records in the EU this year](https://www.theverge.com/2022/10/19/23412663/european-union-wind-solar-electricity-renewable-energy-russia-gas-ukraine-war)
+ - [How to use the Apple Watch’s Compass Waypoints and Backtrack features](https://www.theverge.com/23412660/apple-watch-compass-waypoints-backtrack-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
