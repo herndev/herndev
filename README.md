@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Portland Van Abductions](https://www.theverge.com/c/23374765/portland-van-abductions-protests-2020-homeland)
- - [How to customize the Home app in iOS 16](https://appleinsider.com/inside/homekit/tips/how-to-customize-the-home-app-in-ios-16?utm_medium=rss)
- - [Lenovo ThinkPad X1 Yoga Gen 7 review: we’ve seen this all before](https://www.theverge.com/23411572/lenovo-thinkpad-x1-yoga-gen-7-review-price-specs)<!-- TECH:END -->
+ - [Everything you need to know about Meta’s moderation controversy in India](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)
+ - [I went all in on eSIM and I have regrets](https://www.theverge.com/23412033/esim-phone-plan-device-switch-ios-android)
+ - [Apple’s M1 MacBook Air is still on sale for its lowest price](https://www.theverge.com/2022/10/19/23411524/apple-macbook-air-m1-samsung-galaxy-buds-pro-amazon-fire-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
