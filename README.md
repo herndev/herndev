@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The last round for one tap purpose](http://9gag.com/gag/a6qL17R)
+ - 💣 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)
  - ⏩ [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
  - 👉 [HEYYEYAAEYAAAEYAEYAA](http://9gag.com/gag/aZDNr4X)<!-- MEMES:END -->
 
