@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel previews the next-gen Thunderbolt, based on USB4 v2, with up to 80Gbps both ways, or 120Gbps one way and 40Gbps the other for &quot;video-intensive usages&quot; &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221019/p17#a221019p17)
- - [Pinterest is bringing popular music to Idea Pins, its TikTok-like feature](https://www.theverge.com/2022/10/19/23413078/pinterest-idea-pins-tiktok-warner-music-bmg-licensing-deal)
- - [Best Apple Watch Bands, According to the CNET Staff Who Wear Them     - CNET](https://www.cnet.com/tech/mobile/best-apple-watch-bands-according-to-the-cnet-staff-who-wear-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Life simulator &#39;The Sims 4&#39; is now free on Mac](https://appleinsider.com/articles/22/10/19/life-simulator-the-sims-4-is-now-free-on-mac?utm_medium=rss)
+ - [Marvel Snap is 5D chess in six minutes or less](https://www.theverge.com/2022/10/19/23413064/marvel-snap-second-dinner-hearthstone-ios-android)
+ - [7 Best Midweek Deals on Cameras, Lenses, and Bags &lpar;2022&rpar;](https://www.wired.com/story/midweek-deals-october-19-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
