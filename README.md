@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Life simulator &#39;The Sims 4&#39; is now free on Mac](https://appleinsider.com/articles/22/10/19/life-simulator-the-sims-4-is-now-free-on-mac?utm_medium=rss)
- - [Marvel Snap is 5D chess in six minutes or less](https://www.theverge.com/2022/10/19/23413064/marvel-snap-second-dinner-hearthstone-ios-android)
- - [7 Best Midweek Deals on Cameras, Lenses, and Bags &lpar;2022&rpar;](https://www.wired.com/story/midweek-deals-october-19-2022/)<!-- TECH:END -->
+ - [IBM reports Q3 revenue up 6.5% YoY to $14.11B vs. $13.51B est., with software revenue up 7.5% YoY to $5.81B vs. $5.54B est., and lifts FY 2022 revenue forecast &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221019/p20#a221019p20)
+ - [What to try if Siri isn&#39;t working after iOS 16.0.3 update](https://appleinsider.com/inside/ios-16/tips/what-to-try-if-siri-isnt-working-after-ios-1603-update?utm_medium=rss)
+ - [Tesla is smoothing its vehicle delivery process to avoid bottlenecks](https://www.theverge.com/2022/10/19/23411222/tesla-q3-earnings-2022-elon-musk-vehicle-delivery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
