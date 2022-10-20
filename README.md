@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola could double down on foldable phones next year](https://www.androidauthority.com/motorola-razr-2023-3222644/)
- - [Should You Upgrade to the Pixel 7, 7 Pro? We Compare Them to Every Earlier Pixel Phone     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-pixel-7-7-pro-we-compare-them-to-every-earlier-pixel-phone/#ftag=CAD590a51e)
- - [CoinGecko: the Aptos token fell 40.5% on its first day of trading; Aptos&#39; Layer 1 blockchain was panned for opaque tokenomics and a low transaction throughput &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/221020/p4#a221020p4)<!-- TECH:END -->
+ - [Warner Bros.’ Lord of the Rings NFT ‘experience’ is just The Fellowship in 4K](https://www.theverge.com/2022/10/20/23413237/lord-of-the-rings-movie-nft-wb-movieverse-metaverse)
+ - [Google launches News Showcase in France, partners with 65+ publishers representing 130+ outlets, and will offer &quot;a limited amount&quot; of paywalled content for free &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221020/p5#a221020p5)
+ - [Cherry’s latest mechanical keyboard switch is inspired by the community](https://www.theverge.com/2022/10/20/23414131/cherry-mx-ergo-clear-mechanical-keyboard-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
