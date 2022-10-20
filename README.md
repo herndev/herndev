@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Alan Wake Remastered On Switch Looks Rough](https://kotaku.com/alan-wake-remastered-switch-release-framerate-bugs-1849683677)
- - [One of the surprise indie hits of the year leaves early access with a major update](https://www.pcgamer.com/one-of-the-surprise-indie-hits-of-the-year-leaves-early-access-with-a-major-update)
- - [Rockstar&#39;s throwing a life preserver to that guy with 6,000 hours of Red Dead Online on Stadia](https://www.pcgamer.com/rockstars-throwing-a-life-preserver-to-that-guy-with-6000-hours-of-red-dead-online-on-stadia)<!-- GAME:END -->
+ - [Hans Niemann sues Magnus Carlsen, Chess.com for $100 million](https://www.polygon.com/23415147/hans-niemann-sues-magnus-carlsen-100-million-chess-com)
+ - [Activision&#39;s Newest Exec Has Decided To Post Through It](https://kotaku.com/call-duty-mwii-activision-union-busting-lulu-meservey-1849684203)
+ - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
