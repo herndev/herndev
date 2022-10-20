@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [From Concept Art to Cosplay: Creating Kratos and Atreus’ new looks for God of War Ragnarök](https://blog.playstation.com/2022/10/20/from-concept-art-to-cosplay-creating-kratos-and-atreus-new-looks-for-god-of-war-ragnarok/)
- - [Final Fantasy 16 trailer provides tasty worldbuilding and some badass summons](https://www.pcgamer.com/final-fantasy-16-trailer-provides-tasty-worldbuilding-and-some-badass-summons)
- - [Apex Legends’ Eclipse launch trailer is a warning call to Seer players](https://www.polygon.com/23414541/apex-legends-seer-nerfed-eclipse-trailer-catalyst-abilities)<!-- GAME:END -->
+ - [Get in the Spooky Spirit with Game Pass](https://news.xbox.com/en-us/2022/10/20/get-in-the-spooky-spirit-with-game-pass/)
+ - [Diablo 4 endgame beta asked testers not to leak it, so they leaked it immediately](https://www.pcgamer.com/diablo-4-endgame-beta-asked-testers-not-to-leak-it-so-they-leaked-it-immediately)
+ - [Twitch Streamer Amouranth Says She&#39;s Taking A Break After Disclosing Abuse](https://kotaku.com/amouranth-twitch-on-break-streaming-kaitlyn-siragusa-1849682238)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
