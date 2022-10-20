@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeFi proponents criticize Sam Bankman-Fried for a regulatory proposal suggesting websites facilitating trading on decentralized exchanges should be regulated &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/221020/p9#a221020p9)
- - [Google’s updated Family Link app can tell parents when their kids leave school](https://www.theverge.com/2022/10/18/23409786/google-family-link-update-parental-controls-location-alerts)
- - [Intel Raptor Lake Core i9-13900K and i5-13600K review: improved V/F curve and more efficiency cores compared to Alder Lake and highly competitive with AMD Zen 4 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/221020/p8#a221020p8)<!-- TECH:END -->
+ - [Early Access price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)
+ - [Google says over 250M monthly active devices now run Android Go, which is designed for phones with limited storage and memory &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221020/p13#a221020p13)
+ - [Final Fantasy XVI’s new trailer has huge monsters and even bigger crystals](https://www.theverge.com/2022/10/20/23414395/final-fantasy-xvi-new-trailer-ambition-square-enix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
