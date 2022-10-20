@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interview with Signal president Meredith Whittaker on competition, government pressure to break encryption, what it&#39;s like to hire a new CEO, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221020/p1#a221020p1)
+ - [An interview with Signal president Meredith Whittaker on competition, government pressure to break encryption, what it&#39;s like to hire a new CEO, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221020/p1#a221020p1)
  - [iFixit&#39;s Google Pixel Watch teardown: the backplate can be replaced as can the display, but with more difficulty; the buttons and crown appear irreplaceable &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221019/p30#a221019p30)
  - [Artist Uses Ukrainian Soil as Pigment in Haunting Photos of Life Amid War     - CNET](https://www.cnet.com/culture/internet/photographer-uses-ukraines-soil-as-pigment-in-haunting-images-of-life-amid-war/#ftag=CAD590a51e)<!-- TECH:END -->
 
