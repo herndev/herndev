@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Signal president Meredith Whittaker on competition, government pressure to break encryption, what it&#39;s like to hire a new CEO, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221020/p1#a221020p1)
- - [iFixit&#39;s Google Pixel Watch teardown: the backplate can be replaced as can the display, but with more difficulty; the buttons and crown appear irreplaceable &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221019/p30#a221019p30)
- - [Artist Uses Ukrainian Soil as Pigment in Haunting Photos of Life Amid War     - CNET](https://www.cnet.com/culture/internet/photographer-uses-ukraines-soil-as-pigment-in-haunting-images-of-life-amid-war/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Inside the UST Restitution Group, an association of ~4,400 crypto investors trying to track down Do Kwon&#39;s whereabouts, who share their findings on Discord &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/221020/p3#a221020p3)
+ - [Valuation of public cloud companies in the US, Europe, and Israel fell from $2.8T to $1.2T in the past year; private market funding fell 42% YoY in Q3 2022 &lpar;Accel&rpar;](http://www.techmeme.com/221020/p2#a221020p2)
+ - [An interview with Signal president Meredith Whittaker on competition, government pressure to break encryption, what it&#39;s like to hire a new CEO, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221020/p1#a221020p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
