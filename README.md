@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta adds Reels to Facebook Groups, says most Facebook users are members of at least 15 active groups and there are more than 100M &quot;group joins&quot; every day &lpar;Meta&rpar;](http://www.techmeme.com/221020/p20#a221020p20)
- - [Climeworks closes a chapter in early carbon removal tech](https://www.theverge.com/2022/10/20/23414385/climeworks-carbon-removal-direct-air-capture-plant-capricorn-hinwil-switzerland)
- - [Texas Sues Google for Collecting and Using Texans&#39; Biometric Data Without Explicit Consent     - CNET](https://www.cnet.com/tech/services-and-software/texas-sues-google-for-collecting-and-using-texans-biometric-data-without-explicit-consent/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Pixel 7 review: A bargain that’s impossible to beat](https://www.androidauthority.com/google-pixel-7-review-specs-price-features-3220129/)
+ - [How to turn on Do Not Disturb mode in macOS](https://appleinsider.com/inside/macos/tips/how-to-turn-on-do-not-disturb-mode-in-macos?utm_medium=rss)
+ - [&#39;The Crown&#39; Season 5 Trailer: Watch Charles and Diana Go to War     - CNET](https://www.cnet.com/culture/entertainment/the-crown-season-5-netflix-trailer-watch-charles-and-diana-go-to-war/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
