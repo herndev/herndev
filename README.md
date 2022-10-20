@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)
- - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
- - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 💣 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - ⏩ [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - 👉 [This is why I love comedians who work with the crowd](http://9gag.com/gag/armRymX)<!-- MEMES:END -->
 
 ---
 
