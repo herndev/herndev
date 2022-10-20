@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
- - ⏩ [Best football play of the year](http://9gag.com/gag/agoNg01)
- - 👉 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
+ - 💣 [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
+ - ⏩ [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
+ - 👉 [We all are shaking right now...](http://9gag.com/gag/ajVnP7G)<!-- MEMES:END -->
 
 ---
 
