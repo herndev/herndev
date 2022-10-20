@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hans Niemann sues Magnus Carlsen, Chess.com for $100 million](https://www.polygon.com/23415147/hans-niemann-sues-magnus-carlsen-100-million-chess-com)
- - [Activision&#39;s Newest Exec Has Decided To Post Through It](https://kotaku.com/call-duty-mwii-activision-union-busting-lulu-meservey-1849684203)
- - [Here are all the free games you can grab right now](https://www.pcgamer.com/here-are-all-the-free-games-you-can-grab-right-now)<!-- GAME:END -->
+ - [Hans Niemann Suing For $100 Million Over Chess Cheating Allegations](https://kotaku.com/hans-niemann-magnus-carlsen-cheating-scandal-lawsuit-1849684477)
+ - [Everything We Saw At The Big Resident Evil Showcase](https://kotaku.com/resident-evil-showcase-october-re4-remake-village-dlc-1849684286)
+ - [The Rock ‘fought for a long time’ to get Black Adam’s post-credits scene in the movie](https://www.polygon.com/23412694/black-adam-post-credits-scene-superman-henry-cavill)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
