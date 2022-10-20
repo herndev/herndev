@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [BenQ X3000i gaming projector](https://www.pcgamer.com/benq-x3000i-gaming-projector-review)
  - [9 things you should know before starting Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23404977/sparks-characters-beginners-tips-side-quests)
- - [Gotham Knights: basic Batfamily action](https://www.polygon.com/reviews/23413637/gotham-knights-review-batman-platforms-release-date-characters-30-fps)
- - [New Tales From the Borderlands is too impatient](https://www.polygon.com/reviews/23413588/new-tales-from-the-borderlands-review-release-date-episodes-platforms-gearbox)<!-- GAME:END -->
+ - [Gotham Knights: basic Batfamily action](https://www.polygon.com/reviews/23413637/gotham-knights-review-batman-platforms-release-date-characters-30-fps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
