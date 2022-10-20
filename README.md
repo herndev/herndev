@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Warner Bros.’ Lord of the Rings NFT ‘experience’ is just The Fellowship in 4K](https://www.theverge.com/2022/10/20/23413237/lord-of-the-rings-movie-nft-wb-movieverse-metaverse)
- - [Google launches News Showcase in France, partners with 65+ publishers representing 130+ outlets, and will offer &quot;a limited amount&quot; of paywalled content for free &lpar;Mariella Moon/Engadget&rpar;](http://www.techmeme.com/221020/p5#a221020p5)
- - [Cherry’s latest mechanical keyboard switch is inspired by the community](https://www.theverge.com/2022/10/20/23414131/cherry-mx-ergo-clear-mechanical-keyboard-switch)<!-- TECH:END -->
+ - [When a Houseplant Obsession Becomes a Nightmare](https://www.wired.com/story/nightmare-houseplant-obsession-nepenthes/)
+ - [A Clever Way to Map the Moon’s Surface—Using Shadows](https://www.wired.com/story/mapping-moon-shadows/)
+ - [John Carpenter Is Finally Happy—and Making Music](https://www.wired.com/story/john-carpenter-q-and-a-halloween-ends/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
