@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Klay Thompson Apologizes To NBA 2K23&#39;s Marketing Guy For His &#39;Super Lame&#39;, &#39;Loser Behaviour&#39;](https://kotaku.com/klay-thompson-ronnie-2k-apology-rating-espn-nba-2k23-1849679690)
- - [We finally know when Bastion will return to Overwatch 2](https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2)
- - [Fallout London Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)<!-- GAME:END -->
+ - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)
+ - [And Now For A Very Different Kind Of Cosplay Gallery](https://kotaku.com/nycc-comic-con-cosplay-photos-photographer-gallery-1849675314)
+ - [Klay Thompson Apologizes To NBA 2K23&#39;s Marketing Guy For His &#39;Super Lame&#39;, &#39;Loser Behaviour&#39;](https://kotaku.com/klay-thompson-ronnie-2k-apology-rating-espn-nba-2k23-1849679690)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
