@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fallout Mod Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)
- - [The next Silent Hill movie will be based on Silent Hill 2](https://www.pcgamer.com/the-next-silent-hill-movie-will-be-based-on-silent-hill-2)
- - [Silent Hill Ascension is a horror story shaped by the hivemind](https://www.pcgamer.com/silent-hill-ascension-is-a-horror-story-shaped-by-the-hivemind)<!-- GAME:END -->
+ - [Klay Thompson Apologizes To NBA 2K23&#39;s Marketing Guy For His &#39;Super Lame&#39;, &#39;Loser Behaviour&#39;](https://kotaku.com/klay-thompson-ronnie-2k-apology-rating-espn-nba-2k23-1849679690)
+ - [We finally know when Bastion will return to Overwatch 2](https://www.pcgamer.com/we-finally-know-when-bastion-will-return-to-overwatch-2)
+ - [Fallout London Cuts Zombie Queen Elizabeth, Prince Charles](https://kotaku.com/fallout-london-mod-queen-charles-king-queen-cut-remove-1849679533)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
