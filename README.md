@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CoinGecko: the Aptos token fell 40.5% on its first day of trading; Aptos&#39; Layer 1 blockchain was panned for opaque tokenomics and a low transaction throughput &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/221020/p4#a221020p4)
- - [iPhone SE 4 renders leak: iPhone XR reborn?](https://www.androidauthority.com/apple-iphone-se-4-3222603/)
- - [Android 13 Go Edition launched: Android Go gets some overdue features](https://www.androidauthority.com/android-13-go-edition-3222604/)<!-- TECH:END -->
+ - [Motorola could double down on foldable phones next year](https://www.androidauthority.com/motorola-razr-2023-3222644/)
+ - [Should You Upgrade to the Pixel 7, 7 Pro? We Compare Them to Every Earlier Pixel Phone     - CNET](https://www.cnet.com/tech/mobile/should-you-upgrade-to-the-pixel-7-7-pro-we-compare-them-to-every-earlier-pixel-phone/#ftag=CAD590a51e)
+ - [CoinGecko: the Aptos token fell 40.5% on its first day of trading; Aptos&#39; Layer 1 blockchain was panned for opaque tokenomics and a low transaction throughput &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/221020/p4#a221020p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
