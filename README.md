@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)
- - ⏩ [An awkward moment](http://9gag.com/gag/aXnXMq9)
- - 👉 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)<!-- MEMES:END -->
+ - 💣 [Best football play of the year](http://9gag.com/gag/agoNg01)
+ - ⏩ [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)
+ - 👉 [This never gets old.](http://9gag.com/gag/amA8gGX)<!-- MEMES:END -->
 
 ---
 
