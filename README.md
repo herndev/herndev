@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s attempt to throw shade at Tim Cook didn’t go as well as planned](https://www.androidauthority.com/google-tim-cook-3222917/)
- - [Snapchat Plus subscribers can now set their stories to run for an entire week](https://www.theverge.com/2022/10/20/23414867/snapchat-plus-new-features-subscription-announced)
- - [LinkedIn bot battle wipes 50% of Apple employee accounts](https://appleinsider.com/articles/22/10/20/linkedin-bot-battle-wipes-50-of-apple-employee-accounts?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon is quietly shutting down Fabric.com, one of the largest online fabric stores](https://www.theverge.com/2022/10/20/23414295/amazon-fabric-online-store-shut-down-crafting-supplier)
+ - [Wireless ISP Starry lays off half its workers in a bid to save cash](https://www.theverge.com/2022/10/20/23414925/starry-layoffs-500-workers-50-percent-wireless-isp)
+ - [Docs: a China-based ByteDance audit team planned to collect TikTok location data of US citizens who had never had an employment relationship with the company &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221020/p22#a221020p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
