@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel Watch review: Laying the foundation](https://www.androidauthority.com/google-pixel-watch-review-3220973/)
- - [Banyan, whose network of item-level purchase data helps customers automate expense management, has raised a $43M Series A, $28M in equity and $15M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221020/p6#a221020p6)
- - [Fallout: London modders drop zombie Queen Elizabeth II character for obvious reasons](https://www.theverge.com/2022/10/20/23414167/fallout-london-mod-zombie-ghoul-queen-elizabeth-prince-charles)<!-- TECH:END -->
+ - [First day iPads still available, USB-C Apple Pencil &amp; adapter delayed for weeks](https://appleinsider.com/articles/22/10/20/first-day-ipads-still-available-usb-c-apple-pencil-adapter-delayed-for-weeks?utm_medium=rss)
+ - [A book excerpt details how the FBI failed to undertake fundamental reforms to combat cybercrime, including confronting escalating cyberthreats like ransomware &lpar;ProPublica&rpar;](http://www.techmeme.com/221020/p7#a221020p7)
+ - [Apple rumored to be testing macOS for M2 iPad Pro](https://appleinsider.com/articles/22/10/20/apple-rumored-to-be-testing-macos-for-m2-ipad-pro?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
