@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Every spark in Mario Rabbids Sparks of Hope &lpar;and where to find them&rpar;](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23410636/full-spark-list-beacon-beach-pristine-peaks-palette-prime)
- - [How to solve the Winter Palace puzzle in Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23409381/winter-palace-statues-constellation-puzzle)
- - [ASRock X670E Pro RS](https://www.pcgamer.com/asrock-x670e-pro-rs-motherboard-review-benchmarks-performance)<!-- GAME:END -->
+ - [9 things you should know before starting Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23404977/sparks-characters-beginners-tips-side-quests)
+ - [Gotham Knights: basic Batfamily action](https://www.polygon.com/reviews/23413637/gotham-knights-review-batman-platforms-release-date-characters-30-fps)
+ - [New Tales From the Borderlands is too impatient](https://www.polygon.com/reviews/23413588/new-tales-from-the-borderlands-review-release-date-episodes-platforms-gearbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
