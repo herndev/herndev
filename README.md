@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First day iPads still available, USB-C Apple Pencil &amp; adapter delayed for weeks](https://appleinsider.com/articles/22/10/20/first-day-ipads-still-available-usb-c-apple-pencil-adapter-delayed-for-weeks?utm_medium=rss)
- - [A book excerpt details how the FBI failed to undertake fundamental reforms to combat cybercrime, including confronting escalating cyberthreats like ransomware &lpar;ProPublica&rpar;](http://www.techmeme.com/221020/p7#a221020p7)
- - [Apple rumored to be testing macOS for M2 iPad Pro](https://appleinsider.com/articles/22/10/20/apple-rumored-to-be-testing-macos-for-m2-ipad-pro?utm_medium=rss)<!-- TECH:END -->
+ - [DeFi proponents criticize Sam Bankman-Fried for a regulatory proposal suggesting websites facilitating trading on decentralized exchanges should be regulated &lpar;Adam James/The Block&rpar;](http://www.techmeme.com/221020/p9#a221020p9)
+ - [Google’s updated Family Link app can tell parents when their kids leave school](https://www.theverge.com/2022/10/18/23409786/google-family-link-update-parental-controls-location-alerts)
+ - [Intel Raptor Lake Core i9-13900K and i5-13600K review: improved V/F curve and more efficiency cores compared to Alder Lake and highly competitive with AMD Zen 4 &lpar;Gavin Bonshor/AnandTech&rpar;](http://www.techmeme.com/221020/p8#a221020p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
