@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
- - ⏩ [Triple kill](http://9gag.com/gag/aVbX2O2)
- - 👉 [This is why I love comedians who work with the crowd](http://9gag.com/gag/armRymX)<!-- MEMES:END -->
+ - 💣 [This is gold](http://9gag.com/gag/a2Kqvnp)
+ - ⏩ [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)
+ - 👉 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
 
 ---
 
