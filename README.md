@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Aqemia, which aims to scale drug discovery by combining quantum physics algorithms and AI, has raised a &amp;euro;30M Series A &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/221019/p28#a221019p28)
- - [Alef Debuts Model A Flying Car and Hopes to Sell It Starting in 2025     - CNET](https://www.cnet.com/roadshow/news/alef-debuts-model-a-flying-car-and-hopes-to-sell-it-starting-in-2025/#ftag=CAD590a51e)
- - [&#39;Black Adam&#39; Review: The Rock Cuts Loose in Loud, Fun Supervillain Spectacle     - CNET](https://www.cnet.com/culture/entertainment/black-adam-review-the-rock-cuts-loose-in-loud-supervillain-spectacle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iFixit&#39;s Google Pixel Watch teardown: the backplate can be replaced as can the display, but with more difficulty; the buttons and crown appear irreplaceable &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221019/p30#a221019p30)
+ - [Los Angeles-based Eyenuk, maker of AI-powered eye screening tech for detecting diabetic retinopathy, raised a $26M Series A, bringing its total funding to $43M+ &lpar;Katie Adams/MedCity News&rpar;](http://www.techmeme.com/221019/p29#a221019p29)
+ - [Adobe&#39;s Blink AI Tool Makes Video Editing Look Like Word Processing     - CNET](https://www.cnet.com/tech/computing/adobes-blink-ai-tool-makes-video-editing-look-like-word-processing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
