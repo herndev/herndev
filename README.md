@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kermit D Frog](http://9gag.com/gag/aL1BLXx)
- - ⏩ [T&#39;is the holiest of weekdays: Wednesday...](http://9gag.com/gag/aA0p6d2)
+ - 💣 [Lettuce won!](http://9gag.com/gag/aOxmPLv)
+ - ⏩ [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)
  - 👉 [Holy sheet! The dog thought for a moment eating this man alive](http://9gag.com/gag/a5XK6AE)<!-- MEMES:END -->
 
 ---
