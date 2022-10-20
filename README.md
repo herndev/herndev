@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [An awkward moment](http://9gag.com/gag/aXnXMq9)
- - ⏩ [Useful Survival tips](http://9gag.com/gag/aA0p6ME)
- - 👉 [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)<!-- MEMES:END -->
+ - ⏩ [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
+ - 👉 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)<!-- MEMES:END -->
 
 ---
 
