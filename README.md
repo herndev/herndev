@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tesla is now taking votes for its next Supercharger locations](https://www.theverge.com/2022/10/20/23415159/tesla-supercharger-ev-fast-charging-stations-owners-vote-worldwide)
- - [Google Is Making It Easier to Turn Off Targeted Ads     - CNET](https://www.cnet.com/tech/services-and-software/google-is-making-it-easier-to-turn-off-targeted-ads/#ftag=CAD590a51e)
- - [Docs: Elon Musk plans to cut ~75% of staff if he buys Twitter; the company plans to pare down its payroll by $800M by the end of 2023, affecting ~25% of staff &lpar;Washington Post&rpar;](http://www.techmeme.com/221020/p27#a221020p27)<!-- TECH:END -->
+ - [Microsoft publishes a Windows Subsystem for Android roadmap including Android 13, file transfer support, picture-in-picture, and local network access &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/221020/p28#a221020p28)
+ - [Arlo is now protecting residents when they leave their residence](https://www.theverge.com/2022/10/20/23414379/arlo-safe-family-safety-app-service-crash-detection-location-alerts)
+ - [The Glow is gone — Amazon shuts down support for its kid-focused video calling device](https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
