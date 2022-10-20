@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drawing a realistic nose](http://9gag.com/gag/amA8WAV)
- - ⏩ [PUBIC ENEMY](http://9gag.com/gag/aeQpQnW)
- - 👉 [How the heck!](http://9gag.com/gag/aEqzq99)<!-- MEMES:END -->
+ - 💣 [An awkward moment](http://9gag.com/gag/aXnXMq9)
+ - ⏩ [Woman crying hysterically on bus in Russia over her soldier son, killed in battle in Ukraine. She curses the Ukrainian people, calling them all types of profanities. Apparently, blaming the man who started the war a never crosses her mind.](http://9gag.com/gag/a9qPvmZ)
+ - 👉 [When you inherit your grandfather\u2019s truck you get it as clean as a whistle](http://9gag.com/gag/aGERERz)<!-- MEMES:END -->
 
 ---
 
