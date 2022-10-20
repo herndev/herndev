@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap Is Probably The Best Digital Card Game Out There Right Now](https://kotaku.com/marvel-snap-review-hearthstone-ios-android-spider-man-1849679570)
- - [Visit All Hallows’: The Land of Lost Dreams today](https://blog.playstation.com/2022/10/20/visit-all-hallows-the-land-of-lost-dreams-today/)
- - [All graffiti locations in Gotham Knights](https://www.pcgamer.com/gotham-knights-graffiti-locations)<!-- GAME:END -->
+ - [Gotham Knights Sounds Like A Big Disappointment](https://kotaku.com/gotham-knights-reviews-batman-arkham-ps5-framerate-1849681602)
+ - [Free Play Days – F1 22, Rogue Lords, and Journey to the Savage Planet](https://news.xbox.com/en-us/2022/10/20/free-play-days-f1-22-rogue-lords-and-journey-to-the-savage-planet/)
+ - [Persona 5 Royal review: A great game gets an even better second draft](https://www.polygon.com/reviews/2020/3/30/21192389/persona-5-royal-review-playstation-4-edits-comparison-updates-story-characters)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
