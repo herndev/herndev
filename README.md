@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ghostbusters: Spirits Unleashed review](https://www.pcgamer.com/ghostbusters-spirits-unleashed-review)
  - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)
- - [And Now For A Very Different Kind Of Cosplay Gallery](https://kotaku.com/nycc-comic-con-cosplay-photos-photographer-gallery-1849675314)
- - [Klay Thompson Apologizes To NBA 2K23&#39;s Marketing Guy For His &#39;Super Lame&#39;, &#39;Loser Behaviour&#39;](https://kotaku.com/klay-thompson-ronnie-2k-apology-rating-espn-nba-2k23-1849679690)<!-- GAME:END -->
+ - [And Now For A Very Different Kind Of Cosplay Gallery](https://kotaku.com/nycc-comic-con-cosplay-photos-photographer-gallery-1849675314)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
