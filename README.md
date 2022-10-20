@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [When a Houseplant Obsession Becomes a Nightmare](https://www.wired.com/story/nightmare-houseplant-obsession-nepenthes/)
- - [A Clever Way to Map the Moon’s Surface—Using Shadows](https://www.wired.com/story/mapping-moon-shadows/)
- - [John Carpenter Is Finally Happy—and Making Music](https://www.wired.com/story/john-carpenter-q-and-a-halloween-ends/)<!-- TECH:END -->
+ - [Google Pixel Watch review: Laying the foundation](https://www.androidauthority.com/google-pixel-watch-review-3220973/)
+ - [Banyan, whose network of item-level purchase data helps customers automate expense management, has raised a $43M Series A, $28M in equity and $15M in debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221020/p6#a221020p6)
+ - [Fallout: London modders drop zombie Queen Elizabeth II character for obvious reasons](https://www.theverge.com/2022/10/20/23414167/fallout-london-mod-zombie-ghoul-queen-elizabeth-prince-charles)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
