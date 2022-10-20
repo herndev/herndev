@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [An exclusive excerpt from Critical Role: The Mighty Nein - The Nine Eyes of Lucien](https://www.polygon.com/23411700/critical-role-book-excerpt-nine-eyes-of-lucien-audio-ebook)
- - [11 things you must know about Star Ocean: The Divine Force](https://blog.playstation.com/2022/10/20/11-things-you-must-know-about-star-ocean-the-divine-force/)
- - [Modders figured out how to keep playing the Street Fighter 6 beta, so Capcom removed the game](https://www.pcgamer.com/modders-figured-out-how-to-keep-playing-the-street-fighter-6-beta-so-capcom-removed-the-game)<!-- GAME:END -->
+ - [Marvel Snap Is Probably The Best Digital Card Game Out There Right Now](https://kotaku.com/marvel-snap-review-hearthstone-ios-android-spider-man-1849679570)
+ - [Visit All Hallows’: The Land of Lost Dreams today](https://blog.playstation.com/2022/10/20/visit-all-hallows-the-land-of-lost-dreams-today/)
+ - [All graffiti locations in Gotham Knights](https://www.pcgamer.com/gotham-knights-graffiti-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
