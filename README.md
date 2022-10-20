@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk again claims one day Tesla will get bigger than Apple is today](https://appleinsider.com/articles/22/10/20/elon-musk-again-claims-one-day-tesla-will-get-bigger-than-apple-is-today?utm_medium=rss)
- - [M3gan’s serving Small Wonder with a side of murder in its first trailer](https://www.theverge.com/2022/10/11/23398853/m3gan-trailer-universal)
- - [A look at &quot;gradient accounts&quot; on Twitter that have color gradients as profile pictures, post viral &quot;relatable&quot; content, and are often accused of stealing tweets &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221019/p25#a221019p25)<!-- TECH:END -->
+ - [YouTube names Leo Olebe, who held executive roles in Google Play&#39;s games partnership division and at Facebook, as head of its gaming unit &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221019/p27#a221019p27)
+ - [SpaceX Unveils Starlink Internet Services for Private Jets     - CNET](https://www.cnet.com/tech/services-and-software/spacex-unveils-starlink-internet-services-for-private-jets/#ftag=CAD590a51e)
+ - [Report: customers are using doorbell cameras like Amazon&#39;s Ring to monitor, control, and punish delivery drivers, such as sharing footage online to shame them &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/221019/p26#a221019p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
