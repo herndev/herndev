@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Pixel 7 review: A bargain that’s impossible to beat](https://www.androidauthority.com/google-pixel-7-review-specs-price-features-3220129/)
- - [How to turn on Do Not Disturb mode in macOS](https://appleinsider.com/inside/macos/tips/how-to-turn-on-do-not-disturb-mode-in-macos?utm_medium=rss)
- - [&#39;The Crown&#39; Season 5 Trailer: Watch Charles and Diana Go to War     - CNET](https://www.cnet.com/culture/entertainment/the-crown-season-5-netflix-trailer-watch-charles-and-diana-go-to-war/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google’s attempt to throw shade at Tim Cook didn’t go as well as planned](https://www.androidauthority.com/google-tim-cook-3222917/)
+ - [Snapchat Plus subscribers can now set their stories to run for an entire week](https://www.theverge.com/2022/10/20/23414867/snapchat-plus-new-features-subscription-announced)
+ - [LinkedIn bot battle wipes 50% of Apple employee accounts](https://appleinsider.com/articles/22/10/20/linkedin-bot-battle-wipes-50-of-apple-employee-accounts?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
