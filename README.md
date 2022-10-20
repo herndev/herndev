@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon is quietly shutting down Fabric.com, one of the largest online fabric stores](https://www.theverge.com/2022/10/20/23414295/amazon-fabric-online-store-shut-down-crafting-supplier)
- - [Wireless ISP Starry lays off half its workers in a bid to save cash](https://www.theverge.com/2022/10/20/23414925/starry-layoffs-500-workers-50-percent-wireless-isp)
- - [Docs: a China-based ByteDance audit team planned to collect TikTok location data of US citizens who had never had an employment relationship with the company &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221020/p22#a221020p22)<!-- TECH:END -->
+ - [In an email to customers, YouTube says it is raising the price of YouTube Premium family plan from $17.99 per month to $22.99 per month &lpar;Ben Schoon/9to5Google&rpar;](http://www.techmeme.com/221020/p25#a221020p25)
+ - [GMC Sierra EV Denali revealed: plug-in-powered pickup goes premium](https://www.theverge.com/2022/10/20/23412119/gmc-sierra-ev-denali-electric-truck-specs-price-range)
+ - [Specs arrive for the unofficial Essential Phone sequel, but is it worth $1,000?](https://www.androidauthority.com/saga-phone-specs-3222957/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
