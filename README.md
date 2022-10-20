@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to find ‘rich soil’ in Disney Dreamlight Valley](https://www.polygon.com/guides/23414799/disney-dreamlight-valley-rich-soil-where-to-find)
- - [Halloween Update for World of Warships: Legends Brings a Batch of Themed Content](https://news.xbox.com/en-us/2022/10/20/halloween-update-for-world-of-warships-legends-brings-a-batch-of-themed-content/)
- - [Bungie eyes reboot of Mac shooter Marathon, report says](https://www.polygon.com/23414982/bungie-marathon-reboot-report-rumor)<!-- GAME:END -->
+ - [Take the Next Step this Season in Football Manager 2023, Available November 8](https://news.xbox.com/en-us/2022/10/20/take-the-next-step-this-season-in-football-manager-2023-available-november-8/)
+ - [Fallout 3 is free on the Epic Games Store](https://www.pcgamer.com/fallout-3-is-free-on-the-epic-games-store)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
