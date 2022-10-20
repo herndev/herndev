@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights Sounds Like A Big Disappointment](https://kotaku.com/gotham-knights-reviews-batman-arkham-ps5-framerate-1849681602)
- - [Free Play Days – F1 22, Rogue Lords, and Journey to the Savage Planet](https://news.xbox.com/en-us/2022/10/20/free-play-days-f1-22-rogue-lords-and-journey-to-the-savage-planet/)
- - [Persona 5 Royal review: A great game gets an even better second draft](https://www.polygon.com/reviews/2020/3/30/21192389/persona-5-royal-review-playstation-4-edits-comparison-updates-story-characters)<!-- GAME:END -->
+ - [From Concept Art to Cosplay: Creating Kratos and Atreus’ new looks for God of War Ragnarök](https://blog.playstation.com/2022/10/20/from-concept-art-to-cosplay-creating-kratos-and-atreus-new-looks-for-god-of-war-ragnarok/)
+ - [Final Fantasy 16 trailer provides tasty worldbuilding and some badass summons](https://www.pcgamer.com/final-fantasy-16-trailer-provides-tasty-worldbuilding-and-some-badass-summons)
+ - [Apex Legends’ Eclipse launch trailer is a warning call to Seer players](https://www.polygon.com/23414541/apex-legends-seer-nerfed-eclipse-trailer-catalyst-abilities)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
