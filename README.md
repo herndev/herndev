@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 488 answer and hint: Thursday, October 20](https://www.pcgamer.com/todays-wordle-488-answer-hint)
- - [Ghostbusters: Spirits Unleashed review](https://www.pcgamer.com/ghostbusters-spirits-unleashed-review)
- - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)<!-- GAME:END -->
+ - [Every spark in Mario Rabbids Sparks of Hope &lpar;and where to find them&rpar;](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23410636/full-spark-list-beacon-beach-pristine-peaks-palette-prime)
+ - [How to solve the Winter Palace puzzle in Mario + Rabbids Sparks of Hope](https://www.polygon.com/mario-rabbids-sparks-hope-guide/23409381/winter-palace-statues-constellation-puzzle)
+ - [ASRock X670E Pro RS](https://www.pcgamer.com/asrock-x670e-pro-rs-motherboard-review-benchmarks-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
