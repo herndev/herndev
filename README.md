@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An awkward moment](http://9gag.com/gag/aXnXMq9)
- - ⏩ [Bully chases victim back to the crib...](http://9gag.com/gag/aKEB116)
- - 👉 [Useful Survival tips](http://9gag.com/gag/aA0p6ME)<!-- MEMES:END -->
+ - 💣 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
+ - ⏩ [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
+ - 👉 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
 
 ---
 
