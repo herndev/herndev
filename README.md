@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the UST Restitution Group, an association of ~4,400 crypto investors trying to track down Do Kwon&#39;s whereabouts, who share their findings on Discord &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/221020/p3#a221020p3)
- - [Valuation of public cloud companies in the US, Europe, and Israel fell from $2.8T to $1.2T in the past year; private market funding fell 42% YoY in Q3 2022 &lpar;Accel&rpar;](http://www.techmeme.com/221020/p2#a221020p2)
- - [An interview with Signal president Meredith Whittaker on competition, government pressure to break encryption, what it&#39;s like to hire a new CEO, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221020/p1#a221020p1)<!-- TECH:END -->
+ - [CoinGecko: the Aptos token fell 40.5% on its first day of trading; Aptos&#39; Layer 1 blockchain was panned for opaque tokenomics and a low transaction throughput &lpar;Tim Hakki/Decrypt&rpar;](http://www.techmeme.com/221020/p4#a221020p4)
+ - [iPhone SE 4 renders leak: iPhone XR reborn?](https://www.androidauthority.com/apple-iphone-se-4-3222603/)
+ - [Android 13 Go Edition launched: Android Go gets some overdue features](https://www.androidauthority.com/android-13-go-edition-3222604/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
