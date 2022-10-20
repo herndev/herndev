@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Access price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)
- - [Google says over 250M monthly active devices now run Android Go, which is designed for phones with limited storage and memory &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221020/p13#a221020p13)
- - [Final Fantasy XVI’s new trailer has huge monsters and even bigger crystals](https://www.theverge.com/2022/10/20/23414395/final-fantasy-xvi-new-trailer-ambition-square-enix)<!-- TECH:END -->
+ - [Help, Foxconn has gone from AI 8K+5G to ‘3+3=∞’](https://www.theverge.com/2022/10/20/23413366/foxconn-ai-8k-5g-3-3)
+ - [Sources: senior Stripe execs have asked managers to restart giving lower ratings on performance reviews to 10% to 15% of staff, seeking to prune its workforce &lpar;Forbes&rpar;](http://www.techmeme.com/221020/p16#a221020p16)
+ - [You won’t need an Apple Watch to try Fitness Plus starting October 24th](https://www.theverge.com/2022/10/20/23414383/apple-watch-fitness-plus-ios-16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
