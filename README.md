@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 488 answer and hint: Thursday, October 20](https://www.pcgamer.com/todays-wordle-488-answer-hint)
  - [Ghostbusters: Spirits Unleashed review](https://www.pcgamer.com/ghostbusters-spirits-unleashed-review)
- - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)
- - [And Now For A Very Different Kind Of Cosplay Gallery](https://kotaku.com/nycc-comic-con-cosplay-photos-photographer-gallery-1849675314)<!-- GAME:END -->
+ - [The Silent Hill 2 remake has a Steam page, and some steep system requirements](https://www.pcgamer.com/silent-hill-2-system-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
