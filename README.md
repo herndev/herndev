@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube names Leo Olebe, who held executive roles in Google Play&#39;s games partnership division and at Facebook, as head of its gaming unit &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221019/p27#a221019p27)
- - [SpaceX Unveils Starlink Internet Services for Private Jets     - CNET](https://www.cnet.com/tech/services-and-software/spacex-unveils-starlink-internet-services-for-private-jets/#ftag=CAD590a51e)
- - [Report: customers are using doorbell cameras like Amazon&#39;s Ring to monitor, control, and punish delivery drivers, such as sharing footage online to shame them &lpar;Edward Ongweso Jr/VICE&rpar;](http://www.techmeme.com/221019/p26#a221019p26)<!-- TECH:END -->
+ - [Paris-based Aqemia, which aims to scale drug discovery by combining quantum physics algorithms and AI, has raised a &amp;euro;30M Series A &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/221019/p28#a221019p28)
+ - [Alef Debuts Model A Flying Car and Hopes to Sell It Starting in 2025     - CNET](https://www.cnet.com/roadshow/news/alef-debuts-model-a-flying-car-and-hopes-to-sell-it-starting-in-2025/#ftag=CAD590a51e)
+ - [&#39;Black Adam&#39; Review: The Rock Cuts Loose in Loud, Fun Supervillain Spectacle     - CNET](https://www.cnet.com/culture/entertainment/black-adam-review-the-rock-cuts-loose-in-loud-supervillain-spectacle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
