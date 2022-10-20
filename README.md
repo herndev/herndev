@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
- - ⏩ [Spitting Wisdom right there](http://9gag.com/gag/armRnq6)
+ - 💣 [An awkward moment](http://9gag.com/gag/aXnXMq9)
+ - ⏩ [Not as fast as the cat](http://9gag.com/gag/aVbXomv)
  - 👉 [A Chinese shows you what happens when the housing market is corroded by speculative investors](http://9gag.com/gag/aPgGAvQ)<!-- MEMES:END -->
 
 ---
