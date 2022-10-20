@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX unveils its Starlink Aviation service, promising speeds up to 350Mbps in airplanes, with a $150K one-time hardware cost and $12.5K to $25K monthly fees &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/221019/p24#a221019p24)
- - [A study of 1,063 US adults&#39; YouTube browsing experience shows the site is more likely to suggest conservative-leaning videos regardless of the viewer&#39;s ideology &lpar;Katyanna Quach/The Register&rpar;](http://www.techmeme.com/221019/p23#a221019p23)
- - [250 million devices run Android Go — but the new version is more demanding](https://www.theverge.com/2022/10/19/23413420/google-android-go-material-you-customization-250-million-users-2gb-ram)<!-- TECH:END -->
+ - [Elon Musk again claims one day Tesla will get bigger than Apple is today](https://appleinsider.com/articles/22/10/20/elon-musk-again-claims-one-day-tesla-will-get-bigger-than-apple-is-today?utm_medium=rss)
+ - [M3gan’s serving Small Wonder with a side of murder in its first trailer](https://www.theverge.com/2022/10/11/23398853/m3gan-trailer-universal)
+ - [A look at &quot;gradient accounts&quot; on Twitter that have color gradients as profile pictures, post viral &quot;relatable&quot; content, and are often accused of stealing tweets &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221019/p25#a221019p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
