@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PUBG: Battlegrounds  – Halloween Collaboration with Dead by Daylight](https://news.xbox.com/en-us/2022/10/21/pubg-battlegrounds-halloween-collaboration-with-dead-by-daylight/)
- - [Why are my friends so surprised that Overwatch is fun?](https://www.pcgamer.com/why-are-my-friends-so-surprised-that-overwatch-is-fun)
- - [SK Hynix Platinum P41 2TB](https://www.pcgamer.com/sk-hynix-platinum-p41-2tb-ssd-review-performance)<!-- GAME:END -->
+ - [Share of the Week  – Ghostwire: Tokyo](https://blog.playstation.com/2022/10/21/share-of-the-week-ghostwire-tokyo/)
+ - [It’s Showtime! Persona 5 Royal Available Now for Xbox One, Xbox Series X|S, Windows, and with Game Pass](https://news.xbox.com/en-us/2022/10/21/persona-5-royal-available-now-for-xbox/)
+ - [9 things you should know before starting Persona 5 Royal](https://www.polygon.com/persona-5-royal-guide-walkthrough/23412829/beginners-guide-tips-confidants-stats)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
