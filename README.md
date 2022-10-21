@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post title...](http://9gag.com/gag/az2VYjx)
- - ⏩ [An awkward moment](http://9gag.com/gag/aXnXMq9)
- - 👉 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)<!-- MEMES:END -->
+ - 💣 [What is this?](http://9gag.com/gag/abvb1Ev)
+ - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
+ - 👉 [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)<!-- MEMES:END -->
 
 ---
 
