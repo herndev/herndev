@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hans Niemann Suing For $100 Million Over Chess Cheating Allegations](https://kotaku.com/hans-niemann-magnus-carlsen-cheating-scandal-lawsuit-1849684477)
- - [Everything We Saw At The Big Resident Evil Showcase](https://kotaku.com/resident-evil-showcase-october-re4-remake-village-dlc-1849684286)
- - [The Rock ‘fought for a long time’ to get Black Adam’s post-credits scene in the movie](https://www.polygon.com/23412694/black-adam-post-credits-scene-superman-henry-cavill)<!-- GAME:END -->
+ - [All The Changes We Spotted In The New Resident Evil 4 Remake Trailers](https://kotaku.com/resident-evil-4-remake-leon-ps5-xbox-gamestop-preorder-1849684821)
+ - [Resident Evil Village’s third-person mode is still trying to hide Ethan’s face](https://www.polygon.com/23415471/resident-evil-village-winters-expansion-dlc-third-person-demo)
+ - [Sims, SimCity Legend Will Wright Is Making A &#39;Metaverse&#39; NFT Game On The Blockchain](https://kotaku.com/will-wright-simcity-the-sims-nft-blockchain-metaverse-1849684767)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
