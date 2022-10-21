@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bayonetta 3 developer reiterates support for replacement voice actor after controversy](https://www.theverge.com/2022/10/21/23415993/bayonetta-3-voice-actor-jennifer-hale-statement-hellena-taylor)
- - [Daily Authority: 📱 Our Pixel 7 review is here](https://www.androidauthority.com/daily-authority-october-21-2022-3222595/)
- - [Apple TV 4K dips to $99 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/10/21/apple-tv-4k-dips-to-99-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [You told us: Here’s how many polled Pixel 7 owners have reception issues](https://www.androidauthority.com/google-pixel-7-reception-connectivity-issues-poll-results-3223171/)
+ - [AdGuard: EasyList, a community-run filter list used by popular ad blockers, is being throttled by the YuZu browser; many ad blockers cannot download updates &lpar;Lewis Maddison/TechRadar&rpar;](http://www.techmeme.com/221021/p1#a221021p1)
+ - [Bayonetta 3 developer reiterates support for replacement voice actor after controversy](https://www.theverge.com/2022/10/21/23415993/bayonetta-3-voice-actor-jennifer-hale-statement-hellena-taylor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
