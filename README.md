@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [12 Best Electric Bikes &lpar;2022&rpar;: Affordable, Cargo, Folding, Commuter, and More](https://www.wired.com/gallery/best-electric-bikes/)
- - [What on earth is going on with Elon Musk and Ukraine?](https://www.theverge.com/2022/10/21/23415242/elon-musk-starlink-ukraine-dod-twitter-david-sacks-russia)
- - [The joys — and perils — of off-roading in an electric vehicle](https://www.theverge.com/23411615/electric-ev-off-roading-nature-trail-rivian-zero-potential)<!-- TECH:END -->
+ - [Beware the Distraction of the Twitter Mob Campaign](https://www.wired.com/story/hellena-taylor-bayonnetta-social-media/)
+ - [The ‘M3GAN’ Dance Meme: Vicious Dolls Could Dominate 2023](https://www.wired.com/story/m3gan-meme-twitter-tiktok-beyonce-megan-thee-stallion/)
+ - [What the Soup-Throwing Climate Activists Got Right](https://www.wired.com/story/what-the-soup-throwing-climate-activists-got-right/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
