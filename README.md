@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Andor’s absolute banger of a club track is a gift to all of us](https://www.polygon.com/star-wars/23416750/andor-song-edm-niamos-music-nicholas-brittell)
- - [14 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)
- - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/10/21/this-week-on-xbox-new-games-upcoming-releases-and-updates-4/)
+ - [Vampire Survivors, one of 2022’s best games, gets two brand new modes](https://www.polygon.com/23416862/vampire-survivors-release-endless-inverse-modes-twitch-integration)
+ - [Where to find &lpar;almost&rpar; every Vaultlander in New Tales from the Borderlands](https://www.polygon.com/guides/23413017/vaultlander-locations-collectibles-episode-chapter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
