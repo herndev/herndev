@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 💣 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - ⏩ [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
+ - 👉 [Name this Band](http://9gag.com/gag/ajVnWLG)<!-- MEMES:END -->
 
 ---
 
