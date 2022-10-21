@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - ⏩ [What does it mean](http://9gag.com/gag/armR8e0)
- - 👉 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
+ - 💣 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
 
 ---
 
