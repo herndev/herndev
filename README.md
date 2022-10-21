@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is gold](http://9gag.com/gag/a2Kqvnp)
- - ⏩ [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)
- - 👉 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
+ - 💣 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)
+ - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
+ - 👉 [What is this?](http://9gag.com/gag/abvb1Ev)<!-- MEMES:END -->
 
 ---
 
