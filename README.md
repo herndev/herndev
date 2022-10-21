@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That can\u2019t be legal](http://9gag.com/gag/aXnX2Qz)
+ - 💣 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
  - ⏩ [What does it mean](http://9gag.com/gag/armR8e0)
- - 👉 [South African truck driver is shot at by roadside bandits](http://9gag.com/gag/a3ZLx1r)<!-- MEMES:END -->
+ - 👉 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
 
 ---
 
