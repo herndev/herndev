@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 489 answer and hint: Friday, October 21](https://www.pcgamer.com/todays-wordle-489-answer-hint)
  - [Bayonetta&#39;s Developers Issue Statement In Support Of Current Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-voice-actor-1849685358)
- - [Super Smash Bros. Director Shares Footage Of Early Prototype That Inspired The Series](https://kotaku.com/sakurai-smash-bros-dragon-king-prototype-early-iwata-1849685137)
- - [Silent Hill 2 remake &#39;rebuilding the combat&#39;, won&#39;t have fixed camera](https://www.pcgamer.com/silent-hill-2-remake-rebuilding-the-combat-wont-have-fixed-camera)<!-- GAME:END -->
+ - [Super Smash Bros. Director Shares Footage Of Early Prototype That Inspired The Series](https://kotaku.com/sakurai-smash-bros-dragon-king-prototype-early-iwata-1849685137)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
