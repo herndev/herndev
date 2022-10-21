@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 💣 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
  - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 👉 [What does it mean](http://9gag.com/gag/armR8e0)<!-- MEMES:END -->
+ - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
 
 ---
 
