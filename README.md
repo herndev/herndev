@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)
- - ⏩ [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
- - 👉 [This is gold](http://9gag.com/gag/a2Kqvnp)<!-- MEMES:END -->
+ - 💣 [Battle of the flags](http://9gag.com/gag/aOxme4E)
+ - ⏩ [A car with four passengers narrowly avoids death during the 1980 Tampa Bay bridge collapse. The driver used a $10 bill to pay a 50 cent toll, the extra time for the toll operator to return $9.50 in change saved the life of all four occupants.](http://9gag.com/gag/a3ZL8d8)
+ - 👉 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)<!-- MEMES:END -->
 
 ---
 
