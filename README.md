@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Go read this special Nature issue on racism in science](https://www.theverge.com/2022/10/21/23416127/go-read-this-special-nature-issue-racism-science-stem)
- - [New Android 13 QPR1 beta feature allows battery share to turn on automatically](https://www.androidauthority.com/battery-share-pixel-7-3223462/)
- - [Source: Israeli cybersecurity company Cybereason, which is valued at $2.5B, is looking for a buyer after abandoning plans to go public earlier in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/221021/p8#a221021p8)<!-- TECH:END -->
+ - [Sources: Google is in talks to invest $200M+ into Toronto-based Cohere, which has raised $170M+ to let companies add NLP to chatbots and other tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p10#a221021p10)
+ - [See NASA Test a Wild Way to Crash Land on Mars on Purpose     - CNET](https://www.cnet.com/science/space/see-nasa-test-a-wild-way-to-crash-land-on-mars-on-purpose/#ftag=CAD590a51e)
+ - [Top Anime Series and Movies You Should Stream Right Now     - CNET](https://www.cnet.com/tech/services-and-software/top-anime-series-and-movies-you-should-stream-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
