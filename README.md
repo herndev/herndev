@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this?](http://9gag.com/gag/abvb1Ev)
- - ⏩ [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - 👉 [He got denied at marriageproposal. She got raped and pushed down a 24meter hole, left to die. Accidently found alive. Now sentenced to life in prison, and deportation for life afterwards.](http://9gag.com/gag/aOxmj42)<!-- MEMES:END -->
+ - 💣 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 👉 [What does it mean](http://9gag.com/gag/armR8e0)<!-- MEMES:END -->
 
 ---
 
