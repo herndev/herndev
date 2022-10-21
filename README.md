@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Battle of the flags](http://9gag.com/gag/aOxme4E)
- - ⏩ [A car with four passengers narrowly avoids death during the 1980 Tampa Bay bridge collapse. The driver used a $10 bill to pay a 50 cent toll, the extra time for the toll operator to return $9.50 in change saved the life of all four occupants.](http://9gag.com/gag/a3ZL8d8)
- - 👉 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)<!-- MEMES:END -->
+ - 💣 [Post title...](http://9gag.com/gag/az2VYjx)
+ - ⏩ [An awkward moment](http://9gag.com/gag/aXnXMq9)
+ - 👉 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)<!-- MEMES:END -->
 
 ---
 
