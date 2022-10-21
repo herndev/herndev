@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Slap dat ass](http://9gag.com/gag/a5XK5my)
- - ⏩ [What does it mean](http://9gag.com/gag/armR8e0)
- - 👉 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)<!-- MEMES:END -->
+ - 💣 [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - ⏩ [Let me just glue my hand to the floor to protest against pollution and then throw the plastic into the drain.](http://9gag.com/gag/az2VZoq)
+ - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
 
 ---
 
