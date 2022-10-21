@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - ⏩ [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
- - 👉 [Name this Band](http://9gag.com/gag/ajVnWLG)<!-- MEMES:END -->
+ - 💣 [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
+ - ⏩ [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
+ - 👉 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)<!-- MEMES:END -->
 
 ---
 
