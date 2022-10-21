@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 489 answer and hint: Friday, October 21](https://www.pcgamer.com/todays-wordle-489-answer-hint)
- - [Bayonetta&#39;s Developers Issue Statement In Support Of Current Voice Actor](https://kotaku.com/bayonetta-3-jennifer-hale-hellena-taylor-voice-actor-1849685358)
- - [Super Smash Bros. Director Shares Footage Of Early Prototype That Inspired The Series](https://kotaku.com/sakurai-smash-bros-dragon-king-prototype-early-iwata-1849685137)<!-- GAME:END -->
+ - [Everything you need to know about Gotham Knights’ multiplayer](https://www.polygon.com/guides/23415289/gotham-knights-multiplayer-co-op-cross-play)
+ - [What each Gotham Knights character is best at](https://www.polygon.com/guides/23415238/gotham-knights-characters-batgirl-nightwing-red-hood-robin)
+ - [How to unlock fast travel in Gotham Knights](https://www.polygon.com/guides/23415002/gotham-knights-fast-travel-how-to-unlock-lucius-fox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
