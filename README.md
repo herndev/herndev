@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Good To Be Bad in First Disney Dreamlight Valley Update: Scar’s Kingdom](https://news.xbox.com/en-us/2022/10/21/first-disney-dreamlight-valley-update-scars-kingdom/)
- - [Genshin Impact Middle School Mural Has Parents Calling It &#39;Satanic&#39;](https://kotaku.com/genshin-impact-xiao-demonic-mural-satanic-1849687277)
- - [PGA Tour 2K23 is Elden Ring for golf, somehow](https://www.polygon.com/reviews/23414808/pga-tour-2k23-review-mycareer-ps5-pc-xbox-series-x)<!-- GAME:END -->
+ - [Hit the Ice with EA Play and a 10-Hour Trial of NHL 23](https://news.xbox.com/en-us/2022/10/21/hit-the-ice-with-ea-play-and-a-10-hour-trial-of-nhl-23/)
+ - [When Pokémon came to the US, it literally rained Pikachus](https://www.polygon.com/23405127/pokemon-pikachu-us-gotta-catch-em-all-monster-kids)
+ - [9 New Things We Learned Today About Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-legendary-botw-1849687435)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
