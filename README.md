@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)
- - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
- - 👉 [What is this?](http://9gag.com/gag/abvb1Ev)<!-- MEMES:END -->
+ - 💣 [Would you? if given the chance...](http://9gag.com/gag/aWGOodd)
+ - ⏩ [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
+ - 👉 [This is gold](http://9gag.com/gag/a2Kqvnp)<!-- MEMES:END -->
 
 ---
 
