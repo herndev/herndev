@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Face ID isn&#39;t working for some after iOS 15.7.1 beta install](https://appleinsider.com/articles/22/10/20/face-id-isnt-working-for-some-after-ios-1571-beta-install?utm_medium=rss)
- - [Sources: the US is exploring the possibility of new export controls that would limit China&#39;s access to quantum computing technology and AI software &lpar;Bloomberg&rpar;](http://www.techmeme.com/221020/p29#a221020p29)
- - [Lightroom AI Finds People, Faces, Eyes for Faster Photo Editing     - CNET](https://www.cnet.com/tech/computing/lightroom-ai-finds-people-faces-eyes-for-faster-photo-editing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Instacart is pulling its plans to go public in 2022; the company confidentially filed for an IPO earlier this year &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221020/p31#a221020p31)
+ - [TikTok fires back at Forbes, denies report of a plan to track specific US citizens using its app](https://www.theverge.com/2022/10/20/23415598/tiktok-forbes-denial-app-location-tracking-china-us-privacy-security)
+ - [Instacart Is Said to Pull Plans to Go Public This Year &lpar;New York Times&rpar;](http://www.techmeme.com/221020/p30#a221020p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
