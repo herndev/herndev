@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)
- - [Persona 5 Royal Jose stamp farming guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23401081/jose-stamp-farming-mementos-locations)
- - [Persona 5 Royal passive stat raising guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23400853/passive-stat-raising-knowledge-guts-charm-kindness-proficiency-books-trivia)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for October 24 to 28](https://news.xbox.com/en-us/2022/10/21/next-week-on-xbox-new-games-for-october-24-to-28/)
+ - [Two classic Mario games are headed to Nintendo Switch Online](https://www.polygon.com/nintendo/23416155/mario-party-64-nintendo-switch-online)
+ - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
