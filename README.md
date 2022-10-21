@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Google is in talks to invest $200M+ into Toronto-based Cohere, which has raised $170M+ to let companies add NLP to chatbots and other tools &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p10#a221021p10)
- - [See NASA Test a Wild Way to Crash Land on Mars on Purpose     - CNET](https://www.cnet.com/science/space/see-nasa-test-a-wild-way-to-crash-land-on-mars-on-purpose/#ftag=CAD590a51e)
- - [Top Anime Series and Movies You Should Stream Right Now     - CNET](https://www.cnet.com/tech/services-and-software/top-anime-series-and-movies-you-should-stream-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA Chooses Team for UFO Study     - CNET](https://www.cnet.com/science/space/nasa-chooses-team-for-ufo-study/#ftag=CAD590a51e)
+ - [House of the Dragon’s season finale has leaked online, and HBO isn’t happy](https://www.theverge.com/2022/10/21/23417077/house-of-the-dragon-season-finale-episode-leaked-pirated-hbo)
+ - [Snap, which just reported its slowest quarterly revenue growth ever, will close its San Francisco office, saying it &quot;was lightly used&quot; due to flexible work &lpar;Bloomberg&rpar;](http://www.techmeme.com/221021/p11#a221021p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
