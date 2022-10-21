@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s replacement for Jony Ive is leaving the company](https://appleinsider.com/articles/22/10/21/apples-replacement-for-jony-ive-is-leaving-the-company?utm_medium=rss)
- - [A tiny robot wand for your blinds](https://www.theverge.com/2022/10/21/23416099/switchbot-blind-tilt-smart-blinds-price-release-date)
- - [Don&#39;t Ignore Your Money Anxiety. Lean Into It     - CNET](https://www.cnet.com/personal-finance/dont-ignore-your-money-anxiety-lean-into-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [‘Poster Girl’ Explores the Surveillance State’s Allure](https://www.wired.com/2022/10/geeks-guide-poster-girl/)
+ - [With good iPhone earnings expected, analysts turn to holiday quarter](https://appleinsider.com/articles/22/10/21/with-good-iphone-earnings-expected-analysts-turn-to-holiday-quarter?utm_medium=rss)
+ - [Jony Ive&#39;s replacement Evans Hankey is leaving Apple](https://appleinsider.com/articles/22/10/21/apples-replacement-for-jony-ive-is-leaving-the-company?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
