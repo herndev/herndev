@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV 4K dips to $99 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/10/21/apple-tv-4k-dips-to-99-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)
- - [First EU, now India fines Google for abusing Android dominance](https://www.androidauthority.com/google-fine-india-android-3223167/)
- - [Elon Musk&#39;s Deals May Face National Security Reviews     - CNET](https://www.cnet.com/tech/elon-musks-deals-may-face-national-security-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bayonetta 3 developer reiterates support for replacement voice actor after controversy](https://www.theverge.com/2022/10/21/23415993/bayonetta-3-voice-actor-jennifer-hale-statement-hellena-taylor)
+ - [Daily Authority: 📱 Our Pixel 7 review is here](https://www.androidauthority.com/daily-authority-october-21-2022-3222595/)
+ - [Apple TV 4K dips to $99 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/10/21/apple-tv-4k-dips-to-99-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
