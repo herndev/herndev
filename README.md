@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, Upcoming Releases, and Updates](https://news.xbox.com/en-us/2022/10/21/this-week-on-xbox-new-games-upcoming-releases-and-updates-4/)
- - [Vampire Survivors, one of 2022’s best games, gets two brand new modes](https://www.polygon.com/23416862/vampire-survivors-release-endless-inverse-modes-twitch-integration)
- - [Where to find &lpar;almost&rpar; every Vaultlander in New Tales from the Borderlands](https://www.polygon.com/guides/23413017/vaultlander-locations-collectibles-episode-chapter)<!-- GAME:END -->
+ - [Everything You Need to Know About Call of Duty: Modern Warfare II Campaign Early Access](https://news.xbox.com/en-us/2022/10/21/everything-you-need-to-know-about-call-of-duty-modern-warfare-ii-campaign-early-access/)
+ - [Learn More about the Brand New Fibbage Video Questions in The Jackbox Party Pack 9](https://news.xbox.com/en-us/2022/10/21/learn-more-about-the-brand-new-fibbage-video-questions-in-the-jackbox-party-pack-9/)
+ - [Now Is The Perfect Time To Dive Into The Dragon Quest Series](https://kotaku.com/dragon-quest-xi-s-playstation-plus-october-catalog-1849688721)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
