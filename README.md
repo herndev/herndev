@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Pixel Buds Pro and select Nest products are $50 off today at Wellbots](https://www.theverge.com/2022/10/21/23414935/google-pixel-buds-pro-nest-apple-tv-playstation-xbox-deal-sale)
- - [Pre-order the silver OnePlus Buds Pro at 33% off, and more headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
- - [The best workout earbuds you can buy right now](https://www.theverge.com/23413809/best-workout-fitness-running-earbuds)<!-- TECH:END -->
+ - [Gary Butcher said to be returning to Apple after AirBNB stint](https://appleinsider.com/articles/22/10/21/gary-butcher-said-to-be-returning-to-apple-after-airbnb-stint?utm_medium=rss)
+ - [Level Lock+ review: Must-have HomeKit smart lock with Apple Home Key support](https://appleinsider.com/articles/22/10/21/level-lock-review-must-have-homekit-smart-lock-with-apple-home-key-support?utm_medium=rss)
+ - [I hope someone makes memes out of these funny animal photos](https://www.theverge.com/2022/10/21/23416479/funny-animal-photo-contest-meme)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
