@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All The Changes We Spotted In The New Resident Evil 4 Remake Trailers](https://kotaku.com/resident-evil-4-remake-leon-ps5-xbox-gamestop-preorder-1849684821)
- - [Resident Evil Village’s third-person mode is still trying to hide Ethan’s face](https://www.polygon.com/23415471/resident-evil-village-winters-expansion-dlc-third-person-demo)
- - [Sims, SimCity Legend Will Wright Is Making A &#39;Metaverse&#39; NFT Game On The Blockchain](https://kotaku.com/will-wright-simcity-the-sims-nft-blockchain-metaverse-1849684767)<!-- GAME:END -->
+ - [Silent Hill 2 remake &#39;rebuilding the combat&#39;, won&#39;t have fixed camera](https://www.pcgamer.com/silent-hill-2-remake-rebuilding-the-combat-wont-have-fixed-camera)
+ - [The best FPS games you can play right now](https://www.pcgamer.com/best-fps-games)
+ - [All The Changes We Spotted In The New Resident Evil 4 Remake Trailers](https://kotaku.com/resident-evil-4-remake-leon-ps5-xbox-gamestop-preorder-1849684821)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
