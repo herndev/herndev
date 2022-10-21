@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Resident Evil Village&#39; for Mac arrives on October 28](https://appleinsider.com/articles/22/10/21/resident-evil-village-for-mac-arrives-on-october-28?utm_medium=rss)
- - [LG’s new Smart Monitor is a work-from-home TV](https://www.theverge.com/2022/10/21/23416255/lg-32-inch-smart-monitor-32sq780s-launch-webos-airplay-ergo-stand)
- - [iLive Truly Wireless Noise Canceling Earbuds Review: Don&#39;t.](https://appleinsider.com/articles/22/10/21/ilive-truly-wireless-noise-canceling-earbuds-review-dont?utm_medium=rss)<!-- TECH:END -->
+ - [Go read this special Nature issue on racism in science](https://www.theverge.com/2022/10/21/23416127/go-read-this-special-nature-issue-racism-science-stem)
+ - [New Android 13 QPR1 beta feature allows battery share to turn on automatically](https://www.androidauthority.com/battery-share-pixel-7-3223462/)
+ - [Source: Israeli cybersecurity company Cybereason, which is valued at $2.5B, is looking for a buyer after abandoning plans to go public earlier in 2022 &lpar;The Information&rpar;](http://www.techmeme.com/221021/p8#a221021p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
