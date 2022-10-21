@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for October 24 to 28](https://news.xbox.com/en-us/2022/10/21/next-week-on-xbox-new-games-for-october-24-to-28/)
- - [Two classic Mario games are headed to Nintendo Switch Online](https://www.polygon.com/nintendo/23416155/mario-party-64-nintendo-switch-online)
- - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)<!-- GAME:END -->
+ - [PUBG: Battlegrounds  – Halloween Collaboration with Dead by Daylight](https://news.xbox.com/en-us/2022/10/21/pubg-battlegrounds-halloween-collaboration-with-dead-by-daylight/)
+ - [Why are my friends so surprised that Overwatch is fun?](https://www.pcgamer.com/why-are-my-friends-so-surprised-that-overwatch-is-fun)
+ - [SK Hynix Platinum P41 2TB](https://www.pcgamer.com/sk-hynix-platinum-p41-2tb-ssd-review-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
