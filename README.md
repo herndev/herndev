@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to know about Gotham Knights’ multiplayer](https://www.polygon.com/guides/23415289/gotham-knights-multiplayer-co-op-cross-play)
- - [What each Gotham Knights character is best at](https://www.polygon.com/guides/23415238/gotham-knights-characters-batgirl-nightwing-red-hood-robin)
- - [How to unlock fast travel in Gotham Knights](https://www.polygon.com/guides/23415002/gotham-knights-fast-travel-how-to-unlock-lucius-fox)<!-- GAME:END -->
+ - [Black Adam isn’t nearly as subversive as it’s meant to be](https://www.polygon.com/reviews/23414843/black-adam-review-dwayne-johnson-hawkman-doctor-fate)
+ - [God of War Ragnarök Animated Family Portraits highlight 5 key relationships](https://blog.playstation.com/2022/10/21/god-of-war-ragnarok-animated-family-portraits-highlight-5-key-relationships/)
+ - [Platinum steps in to try to calm Bayonetta voice acting debate](https://www.polygon.com/23416027/bayonetta-3-platinum-statement-voice-actor-pay-boycott-controversy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
