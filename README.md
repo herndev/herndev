@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s how many polled Pixel 7 owners have reception issues](https://www.androidauthority.com/google-pixel-7-reception-connectivity-issues-poll-results-3223171/)
- - [AdGuard: EasyList, a community-run filter list used by popular ad blockers, is being throttled by the YuZu browser; many ad blockers cannot download updates &lpar;Lewis Maddison/TechRadar&rpar;](http://www.techmeme.com/221021/p1#a221021p1)
- - [Bayonetta 3 developer reiterates support for replacement voice actor after controversy](https://www.theverge.com/2022/10/21/23415993/bayonetta-3-voice-actor-jennifer-hale-statement-hellena-taylor)<!-- TECH:END -->
+ - [Samsung HW-Q990B Review: The Best Dolby Atmos Soundbar](https://www.wired.com/review/samsung-hw-q990b/)
+ - [Your Microsoft Exchange Server Is a Security Liability](https://www.wired.com/story/microsoft-exchange-server-vulnerabilities/)
+ - [Ukraine Enters a Dark New Era of Drone Warfare](https://www.wired.com/story/russia-ukraine-drones-shahed-136-iran/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
