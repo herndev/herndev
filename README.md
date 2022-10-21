@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Valentino Rossin\u2019t](http://9gag.com/gag/anzB8Qo)
- - ⏩ [North Koreans putting on a grieving performance during Kim Jong-il\u2019s funeral to avoid punishment](http://9gag.com/gag/aQEnAZK)
- - 👉 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)<!-- MEMES:END -->
+ - 💣 [He had me at first half not gonna lie](http://9gag.com/gag/aREVNZ5)
+ - ⏩ [If you choose anything but `him`/`her`, the application goes to trash. So in a way, it&#39;s good thing that we had to add this choice. Easier to filter out the retards.](http://9gag.com/gag/a8qjnv6)
+ - 👉 [When Gravity Strikes](http://9gag.com/gag/aVbX1XO)<!-- MEMES:END -->
 
 ---
 
