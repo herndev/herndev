@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instacart is pulling its plans to go public in 2022; the company confidentially filed for an IPO earlier this year &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221020/p31#a221020p31)
- - [TikTok fires back at Forbes, denies report of a plan to track specific US citizens using its app](https://www.theverge.com/2022/10/20/23415598/tiktok-forbes-denial-app-location-tracking-china-us-privacy-security)
- - [Instacart Is Said to Pull Plans to Go Public This Year &lpar;New York Times&rpar;](http://www.techmeme.com/221020/p30#a221020p30)<!-- TECH:END -->
+ - [Sources: the Biden administration is considering subjecting some of Elon Musk&#39;s ventures, including the Twitter deal and Starlink, to national security reviews &lpar;Bloomberg&rpar;](http://www.techmeme.com/221020/p34#a221020p34)
+ - [Memo: Twitter told staff that there haven&#39;t been plans for companywide layoffs since it signed a deal with Elon Musk, and that it can&#39;t confirm Musk&#39;s plans &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221020/p33#a221020p33)
+ - [Sources: BeReal closed a $60M Series B earlier this year valuing it at ~$600M; the app has ~20M DAUs, up from 7.9M in July 2022 &lpar;TechCrunch&rpar;](http://www.techmeme.com/221020/p32#a221020p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
