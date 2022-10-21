@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk&#39;s Deals May Face National Security Reviews     - CNET](https://www.cnet.com/tech/elon-musks-deals-may-face-national-security-reviews/#ftag=CAD590a51e)
- - [Where to Stream Midnights: Taylor Swift&#39;s New Album Is Out Now     - CNET](https://www.cnet.com/culture/entertainment/countdown-to-midnights-where-to-stream-taylor-swifts-new-album/#ftag=CAD590a51e)
- - [Amazon quietly shuts Fabric.com, an online retailer of fabrics, trims, notions, and other supplies since the late 1990s before being acquired by Amazon in 2008 &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221020/p35#a221020p35)<!-- TECH:END -->
+ - [Apple TV 4K dips to $99 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/10/21/apple-tv-4k-dips-to-99-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)
+ - [First EU, now India fines Google for abusing Android dominance](https://www.androidauthority.com/google-fine-india-android-3223167/)
+ - [Elon Musk&#39;s Deals May Face National Security Reviews     - CNET](https://www.cnet.com/tech/elon-musks-deals-may-face-national-security-reviews/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
