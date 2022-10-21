@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Overwatch 2&#39;s Lack Of Support Players Is Racking Up Wait Times, Fans Say](https://kotaku.com/overwatch-queue-times-kiriko-support-blizzard-twitter-1849689046)
  - [Everything You Need to Know About Call of Duty: Modern Warfare II Campaign Early Access](https://news.xbox.com/en-us/2022/10/21/everything-you-need-to-know-about-call-of-duty-modern-warfare-ii-campaign-early-access/)
- - [Learn More about the Brand New Fibbage Video Questions in The Jackbox Party Pack 9](https://news.xbox.com/en-us/2022/10/21/learn-more-about-the-brand-new-fibbage-video-questions-in-the-jackbox-party-pack-9/)
  - [Now Is The Perfect Time To Dive Into The Dragon Quest Series](https://kotaku.com/dragon-quest-xi-s-playstation-plus-october-catalog-1849688721)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
