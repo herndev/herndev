@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft publishes a Windows Subsystem for Android roadmap including Android 13, file transfer support, picture-in-picture, and local network access &lpar;Mayank Parmar/Windows Latest&rpar;](http://www.techmeme.com/221020/p28#a221020p28)
- - [Arlo is now protecting residents when they leave their residence](https://www.theverge.com/2022/10/20/23414379/arlo-safe-family-safety-app-service-crash-detection-location-alerts)
- - [The Glow is gone — Amazon shuts down support for its kid-focused video calling device](https://www.theverge.com/2022/10/20/23415167/amazon-glow-support-discontinued-refund)<!-- TECH:END -->
+ - [Face ID isn&#39;t working for some after iOS 15.7.1 beta install](https://appleinsider.com/articles/22/10/20/face-id-isnt-working-for-some-after-ios-1571-beta-install?utm_medium=rss)
+ - [Sources: the US is exploring the possibility of new export controls that would limit China&#39;s access to quantum computing technology and AI software &lpar;Bloomberg&rpar;](http://www.techmeme.com/221020/p29#a221020p29)
+ - [Lightroom AI Finds People, Faces, Eyes for Faster Photo Editing     - CNET](https://www.cnet.com/tech/computing/lightroom-ai-finds-people-faces-eyes-for-faster-photo-editing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
