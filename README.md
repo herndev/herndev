@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Scarlet and Violet’s Paldea region is big, beautiful, and built for exploring](https://www.theverge.com/23415407/pokemon-scarlet-violet-hands-on-preview-nintendo-switch)
- - [Google Pixel 7 and Pixel 7 Pro review: better and better](https://www.theverge.com/23399315/google-pixel-7-pro-review-screen-camera-battery-price)
- - [Check out these 8 shows like Andor if you’re loving the Rogue One prequel](https://www.androidauthority.com/shows-like-andor-star-wars-disney-plus-3221987/)<!-- TECH:END -->
+ - [Apple&#39;s replacement for Jony Ive is leaving the company](https://appleinsider.com/articles/22/10/21/apples-replacement-for-jony-ive-is-leaving-the-company?utm_medium=rss)
+ - [A tiny robot wand for your blinds](https://www.theverge.com/2022/10/21/23416099/switchbot-blind-tilt-smart-blinds-price-release-date)
+ - [Don&#39;t Ignore Your Money Anxiety. Lean Into It     - CNET](https://www.cnet.com/personal-finance/dont-ignore-your-money-anxiety-lean-into-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
