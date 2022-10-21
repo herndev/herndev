@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hit the Ice with EA Play and a 10-Hour Trial of NHL 23](https://news.xbox.com/en-us/2022/10/21/hit-the-ice-with-ea-play-and-a-10-hour-trial-of-nhl-23/)
- - [When Pokémon came to the US, it literally rained Pikachus](https://www.polygon.com/23405127/pokemon-pikachu-us-gotta-catch-em-all-monster-kids)
- - [9 New Things We Learned Today About Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-legendary-botw-1849687435)<!-- GAME:END -->
+ - [Andor’s absolute banger of a club track is a gift to all of us](https://www.polygon.com/star-wars/23416750/andor-song-edm-niamos-music-nicholas-brittell)
+ - [14 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)
+ - [Steam sale dates: When is the next Steam sale?](https://www.pcgamer.com/steam-sale-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
