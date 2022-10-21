@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Battle of the flags](http://9gag.com/gag/aOxme4E)
- - ⏩ [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
- - 👉 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
+ - 💣 [What is this?](http://9gag.com/gag/abvb1Ev)
+ - ⏩ [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
+ - 👉 [He got denied at marriageproposal. She got raped and pushed down a 24meter hole, left to die. Accidently found alive. Now sentenced to life in prison, and deportation for life afterwards.](http://9gag.com/gag/aOxmj42)<!-- MEMES:END -->
 
 ---
 
