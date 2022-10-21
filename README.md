@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Beware the Distraction of the Twitter Mob Campaign](https://www.wired.com/story/hellena-taylor-bayonnetta-social-media/)
- - [The ‘M3GAN’ Dance Meme: Vicious Dolls Could Dominate 2023](https://www.wired.com/story/m3gan-meme-twitter-tiktok-beyonce-megan-thee-stallion/)
- - [What the Soup-Throwing Climate Activists Got Right](https://www.wired.com/story/what-the-soup-throwing-climate-activists-got-right/)<!-- TECH:END -->
+ - [Pokémon Scarlet and Violet’s Paldea region is big, beautiful, and built for exploring](https://www.theverge.com/23415407/pokemon-scarlet-violet-hands-on-preview-nintendo-switch)
+ - [Google Pixel 7 and Pixel 7 Pro review: better and better](https://www.theverge.com/23399315/google-pixel-7-pro-review-screen-camera-battery-price)
+ - [Check out these 8 shows like Andor if you’re loving the Rogue One prequel](https://www.androidauthority.com/shows-like-andor-star-wars-disney-plus-3221987/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
