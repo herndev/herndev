@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Adam isn’t nearly as subversive as it’s meant to be](https://www.polygon.com/reviews/23414843/black-adam-review-dwayne-johnson-hawkman-doctor-fate)
- - [God of War Ragnarök Animated Family Portraits highlight 5 key relationships](https://blog.playstation.com/2022/10/21/god-of-war-ragnarok-animated-family-portraits-highlight-5-key-relationships/)
- - [Platinum steps in to try to calm Bayonetta voice acting debate](https://www.polygon.com/23416027/bayonetta-3-platinum-statement-voice-actor-pay-boycott-controversy)<!-- GAME:END -->
+ - [Persona 5 Royal darts answers and minigame guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23414536/darts-answers-replies-akechi-tips-baton-pass-rank)
+ - [Persona 5 Royal Jose stamp farming guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23401081/jose-stamp-farming-mementos-locations)
+ - [Persona 5 Royal passive stat raising guide](https://www.polygon.com/persona-5-royal-guide-walkthrough/23400853/passive-stat-raising-knowledge-guts-charm-kindness-proficiency-books-trivia)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
