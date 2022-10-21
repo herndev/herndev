@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s had it for 10 seconds](http://9gag.com/gag/awZ712Q)
- - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
+ - 💣 [Battle of the flags](http://9gag.com/gag/aOxme4E)
+ - ⏩ [Map of America drawn from memory by an elementary school girl from belgium](http://9gag.com/gag/aKEBAbW)
  - 👉 [Westworld one of the best sci-fi series out there, too bad it got only one season](http://9gag.com/gag/a5XK2GV)<!-- MEMES:END -->
 
 ---
