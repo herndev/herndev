@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week  – Ghostwire: Tokyo](https://blog.playstation.com/2022/10/21/share-of-the-week-ghostwire-tokyo/)
- - [It’s Showtime! Persona 5 Royal Available Now for Xbox One, Xbox Series X|S, Windows, and with Game Pass](https://news.xbox.com/en-us/2022/10/21/persona-5-royal-available-now-for-xbox/)
- - [9 things you should know before starting Persona 5 Royal](https://www.polygon.com/persona-5-royal-guide-walkthrough/23412829/beginners-guide-tips-confidants-stats)<!-- GAME:END -->
+ - [It’s Good To Be Bad in First Disney Dreamlight Valley Update: Scar’s Kingdom](https://news.xbox.com/en-us/2022/10/21/first-disney-dreamlight-valley-update-scars-kingdom/)
+ - [Genshin Impact Middle School Mural Has Parents Calling It &#39;Satanic&#39;](https://kotaku.com/genshin-impact-xiao-demonic-mural-satanic-1849687277)
+ - [PGA Tour 2K23 is Elden Ring for golf, somehow](https://www.polygon.com/reviews/23414808/pga-tour-2k23-review-mycareer-ps5-pc-xbox-series-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
