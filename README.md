@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gary Butcher said to be returning to Apple after AirBNB stint](https://appleinsider.com/articles/22/10/21/gary-butcher-said-to-be-returning-to-apple-after-airbnb-stint?utm_medium=rss)
- - [Level Lock+ review: Must-have HomeKit smart lock with Apple Home Key support](https://appleinsider.com/articles/22/10/21/level-lock-review-must-have-homekit-smart-lock-with-apple-home-key-support?utm_medium=rss)
- - [I hope someone makes memes out of these funny animal photos](https://www.theverge.com/2022/10/21/23416479/funny-animal-photo-contest-meme)<!-- TECH:END -->
+ - [&#39;Resident Evil Village&#39; for Mac arrives on October 28](https://appleinsider.com/articles/22/10/21/resident-evil-village-for-mac-arrives-on-october-28?utm_medium=rss)
+ - [LG’s new Smart Monitor is a work-from-home TV](https://www.theverge.com/2022/10/21/23416255/lg-32-inch-smart-monitor-32sq780s-launch-webos-airplay-ergo-stand)
+ - [iLive Truly Wireless Noise Canceling Earbuds Review: Don&#39;t.](https://appleinsider.com/articles/22/10/21/ilive-truly-wireless-noise-canceling-earbuds-review-dont?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
