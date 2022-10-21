@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s Lack Of Support Players Is Racking Up Wait Times, Fans Say](https://kotaku.com/overwatch-queue-times-kiriko-support-blizzard-twitter-1849689046)
- - [Everything You Need to Know About Call of Duty: Modern Warfare II Campaign Early Access](https://news.xbox.com/en-us/2022/10/21/everything-you-need-to-know-about-call-of-duty-modern-warfare-ii-campaign-early-access/)
- - [Now Is The Perfect Time To Dive Into The Dragon Quest Series](https://kotaku.com/dragon-quest-xi-s-playstation-plus-october-catalog-1849688721)<!-- GAME:END -->
+ - [Warm up for the World Series with this free baseball game full of animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)
+ - [Dragon Ball: The Breakers review](https://www.pcgamer.com/dragon-ball-the-breakers-review)
+ - [The Exorcist by way of the Commodore 64 just dropped on Steam](https://www.pcgamer.com/the-exorcist-by-way-of-the-commodore-64-just-dropped-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
