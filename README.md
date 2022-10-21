@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Poster Girl’ Explores the Surveillance State’s Allure](https://www.wired.com/2022/10/geeks-guide-poster-girl/)
- - [With good iPhone earnings expected, analysts turn to holiday quarter](https://appleinsider.com/articles/22/10/21/with-good-iphone-earnings-expected-analysts-turn-to-holiday-quarter?utm_medium=rss)
- - [Jony Ive&#39;s replacement Evans Hankey is leaving Apple](https://appleinsider.com/articles/22/10/21/apples-replacement-for-jony-ive-is-leaving-the-company?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s Pixel Buds Pro and select Nest products are $50 off today at Wellbots](https://www.theverge.com/2022/10/21/23414935/google-pixel-buds-pro-nest-apple-tv-playstation-xbox-deal-sale)
+ - [Pre-order the silver OnePlus Buds Pro at 33% off, and more headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)
+ - [The best workout earbuds you can buy right now](https://www.theverge.com/23413809/best-workout-fitness-running-earbuds)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
