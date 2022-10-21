@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is this?](http://9gag.com/gag/abvb1Ev)
- - ⏩ [I always thought it was fake, that&#39;s crazy!](http://9gag.com/gag/aKEBAN3)
- - 👉 [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)<!-- MEMES:END -->
+ - 💣 [Wandering around in Japan and meeting cute girls be like...](http://9gag.com/gag/a6qLnMA)
+ - ⏩ [Thousands of people attend a \u2018Birds Aren\u2019t Real\u2019 Protest in NYC](http://9gag.com/gag/aA0pQ3o)
+ - 👉 [Let me just glue my hand to the floor to protest against pollution and then throw the plastic into the drain.](http://9gag.com/gag/az2VZoq)<!-- MEMES:END -->
 
 ---
 
