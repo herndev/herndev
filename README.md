@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch helps discover 12-year-old&#39;s rare cancer](https://appleinsider.com/articles/22/10/21/apple-watch-helps-discover-12-year-old-girls-rare-cancer?utm_medium=rss)
- - [Belkin’s MagSafe Continuity Camera mount is an easy webcam upgrade](https://www.theverge.com/23416613/iphone-belkin-mount-magsafe-mac-notebooks-continuity-camera-review-apple)
- - [Elon Musk’s Twitter deal could tank the leveraged buyout market](https://www.theverge.com/2022/10/21/23417121/elon-musk-banks-barclays-bank-of-america-morgan-stanley-lbo)<!-- TECH:END -->
+ - [How to connect Bluetooth headphones to a Pixel Watch and jam while you run](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
+ - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)
+ - [14 Unique Teacher Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/parenting/holiday-teacher-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
