@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)
- - [How to connect Bluetooth headphones to a Pixel Watch and jam while you run](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
- - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)<!-- TECH:END -->
+ - [A profile of Stability AI founder and CEO Emad Mostaque, a British former hedge fund manager who has quickly become a polarizing figure within the AI community &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/221021/p14#a221021p14)
+ - [&#39;Love Is Blind&#39;: Go Inside the Pods That Make Talking to a Wall Romantic     - CNET](https://www.cnet.com/culture/entertainment/love-is-blind-go-inside-the-pods-that-make-talking-to-a-wall-romantic/#ftag=CAD590a51e)
+ - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
