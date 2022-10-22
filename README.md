@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Derry Girls’ hilarious new season has a lingering mystery: a Scorsese movie rental](https://www.polygon.com/23415278/derry-girls-season-3-netflix-sister-michael-scorsese-movie)
  - [&#39;80s adventure Onryō Senki took horror games in a slower, spookier, direction](https://www.pcgamer.com/80s-adventure-game-onry-senki-took-horror-gaming-in-a-slower-spookier-direction)
- - [New tech lets blind, visually impaired people play Trackmania](https://www.pcgamer.com/new-tech-lets-blind-visually-impaired-people-play-trackmania)
- - [Terrifier 2 is a horror phenomenon thanks to Art the Clown](https://www.polygon.com/23416688/terrifier-2-art-the-clown-viral-breakout)<!-- GAME:END -->
+ - [New tech lets blind, visually impaired people play Trackmania](https://www.pcgamer.com/new-tech-lets-blind-visually-impaired-people-play-trackmania)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
