@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uno Reverse](http://9gag.com/gag/a6qLj88)
- - ⏩ [Silverback in Omaha\u2019s zoo sees little girl banging her chest so he charges her](http://9gag.com/gag/aqe2VjQ)
- - 👉 [What does it mean](http://9gag.com/gag/armR8e0)<!-- MEMES:END -->
+ - 💣 [Triple kill](http://9gag.com/gag/aVbX2O2)
+ - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
+ - 👉 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 ---
 
