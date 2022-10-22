@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - ⏩ [Old Gem](http://9gag.com/gag/axoGrp2)
- - 👉 [And people wonder why Slavs and Balts had nad attitude towards russia\u2026](http://9gag.com/gag/aoKjwB3)<!-- MEMES:END -->
+ - 💣 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
+ - ⏩ [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 ---
 
