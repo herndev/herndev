@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [One Piece Game&#39;s New Trailer Is Gonna Have Me Crying Over A Boat &lpar;Again&rpar;](https://kotaku.com/one-piece-odyssey-alabasta-trailer-jrpg-going-merry-1849689558)
  - [The best sci-fi movies on Netflix right now](https://www.polygon.com/what-to-watch/23411315/best-sci-fi-netflix-movies-watch-stream)
- - [Today&#39;s Wordle 490 answer and hint: Saturday, October 22](https://www.pcgamer.com/todays-wordle-490-answer-hint)
- - [Witness mankind&#39;s reach exceed its grasp as Counter-Strike hits over 4,000 fps](https://www.pcgamer.com/witness-mankinds-reach-exceed-its-grasp-as-counter-strike-hits-over-4000-fps)<!-- GAME:END -->
+ - [Today&#39;s Wordle 490 answer and hint: Saturday, October 22](https://www.pcgamer.com/todays-wordle-490-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
