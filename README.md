@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok’s Security Threat Comes Into Focus](https://www.wired.com/story/tiktok-bytedance-americans-data-security-roundup/)
- - [6 Best Mesh Wi-Fi Routers &lpar;2022&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
- - [Android Users Can Finally &#39;Like&#39; Messages From iPhones](https://www.wired.com/story/android-users-can-like-iphone-messages-now/)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 5 review: Fantastically familiar](https://www.androidauthority.com/samsung-galaxy-watch-5-review-3212798/)
+ - [7 Best Bike Locks &lpar;2022&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
+ - [LG Gram 17 review: big-screen energy](https://www.theverge.com/23413159/lg-gram-17-2022-review-price-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
