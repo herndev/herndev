@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 490 answer and hint: Saturday, October 22](https://www.pcgamer.com/todays-wordle-490-answer-hint)
  - [Witness mankind&#39;s reach exceed its grasp as Counter-Strike hits over 4,000 fps](https://www.pcgamer.com/witness-mankinds-reach-exceed-its-grasp-as-counter-strike-hits-over-4000-fps)
- - [Warm up for the World Series with this free baseball game full of animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)<!-- GAME:END -->
+ - [Warm up for the World Series with this free baseball game full of animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)
+ - [Dragon Ball: The Breakers review](https://www.pcgamer.com/dragon-ball-the-breakers-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
