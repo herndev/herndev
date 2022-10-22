@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Max active noise cancellation pared down by newest firmware](https://appleinsider.com/articles/22/10/22/airpods-max-active-noise-cancellation-pared-down-by-newest-firmware?utm_medium=rss)
- - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)
- - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)<!-- TECH:END -->
+ - [MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
+ - [In &#39;Synchronic,&#39; Time Travel Is Anything but Nostalgic](https://www.wired.com/2020/10/geeks-guide-synchronic/)
+ - [Early Black Friday sale at Amazon drives iPad Pro &amp; iPad Air prices down to record low levels](https://appleinsider.com/articles/22/10/22/early-black-friday-sale-at-amazon-drives-ipad-pro-ipad-air-prices-down-to-record-low-levels?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
