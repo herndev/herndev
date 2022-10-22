@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brainnns! Here are our picks for the best zombie movies to stream right now](https://www.androidauthority.com/the-best-zombie-movies-3222776/)
- - [LG Gram 17 review: weighs just under three pounds, even with a huge 17&quot;, 2560 x 1600 display but graphics are weak, the chassis is flimsy, and pricey at $1700+ &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/221022/p6#a221022p6)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-455-3223417/)<!-- TECH:END -->
+ - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)
+ - [Early access for Kerbal Space Program 2 lifts off on February 24th](https://www.theverge.com/2022/10/22/23417796/kerbal-space-program-2-early-access-release-date-intercept-games)
+ - [Apple will show more App Store ads from Oct. 25](https://appleinsider.com/articles/22/10/22/apple-will-show-more-app-store-ads-from-oct-25?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
