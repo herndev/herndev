@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not Again!](http://9gag.com/gag/avQLVgZ)
- - ⏩ [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
- - 👉 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
+ - 💣 [Come to the stage..will be fun..!!](http://9gag.com/gag/aBdrz0x)
+ - ⏩ [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 👉 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)<!-- MEMES:END -->
 
 ---
 
