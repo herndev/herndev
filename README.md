@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He had me at first half not gonna lie](http://9gag.com/gag/aREVNZ5)
- - ⏩ [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - 👉 [If you choose anything but `him`/`her`, the application goes to trash. So in a way, it&#39;s good thing that we had to add this choice. Easier to filter out the retards.](http://9gag.com/gag/a8qjnv6)<!-- MEMES:END -->
+ - 💣 [Uno Reverse](http://9gag.com/gag/a6qLj88)
+ - ⏩ [Silverback in Omaha\u2019s zoo sees little girl banging her chest so he charges her](http://9gag.com/gag/aqe2VjQ)
+ - 👉 [What does it mean](http://9gag.com/gag/armR8e0)<!-- MEMES:END -->
 
 ---
 
