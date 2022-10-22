@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He had me at first half not gonna lie](http://9gag.com/gag/aREVNZ5)
+ - 💣 [When Gravity Strikes](http://9gag.com/gag/aVbX1XO)
  - ⏩ [If you choose anything but `him`/`her`, the application goes to trash. So in a way, it&#39;s good thing that we had to add this choice. Easier to filter out the retards.](http://9gag.com/gag/a8qjnv6)
- - 👉 [When Gravity Strikes](http://9gag.com/gag/aVbX1XO)<!-- MEMES:END -->
+ - 👉 [What](http://9gag.com/gag/aoKjA1g)<!-- MEMES:END -->
 
 ---
 
