@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
- - ⏩ [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)
- - 👉 [How dare you](http://9gag.com/gag/aA0pA6R)<!-- MEMES:END -->
+ - 💣 [Matt Walsh](http://9gag.com/gag/a3ZLr88)
+ - ⏩ [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 ---
 
