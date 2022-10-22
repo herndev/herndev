@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Phillies vs. Padres Livestream: How to Watch Game 4 of the NLCS Today     - CNET](https://www.cnet.com/tech/services-and-software/phillies-vs-padres-livestream-how-to-watch-game-4-of-the-nlcs-today/#ftag=CAD590a51e)
- - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-see-on-the-weekend/#ftag=CAD590a51e)
- - [McAfee researchers found 16 clicker apps with adware in Google Play with 20M+ downloads in total; Google removed the apps after McAfee reported them &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221022/p9#a221022p9)<!-- TECH:END -->
+ - [&#39;The Peripheral&#39; on Prime Video: Sci-Fi Thriller Is an Addictive Puzzle Box     - CNET](https://www.cnet.com/culture/entertainment/the-peripheral-on-prime-video-sci-fi-thriller-is-an-addictive-puzzle-box/#ftag=CAD590a51e)
+ - [&#39;Rick and Morty:&#39; When Can We Watch Season 6, Episode 7?     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-when-can-we-watch-season-6-episode-7/#ftag=CAD590a51e)
+ - [More People Need to Watch This Gripping Horror-Mystery on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-gripping-horror-mystery-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
