@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A smart washing machine gave me a taste of a fully connected home](https://www.androidauthority.com/smart-washing-machine-3210850/)
- - [Goats and Sheep Are Brawling in the Rockies. Blame Glacial Melt](https://www.wired.com/story/goats-and-sheep-are-brawling-in-the-rockies-blame-glacial-melt/)
- - [How to Make Slack Look and Feel Like Discord](https://www.wired.com/story/how-to-make-slack-look-feel-like-discord/)<!-- TECH:END -->
+ - [TikTok’s Security Threat Comes Into Focus](https://www.wired.com/story/tiktok-bytedance-americans-data-security-roundup/)
+ - [6 Best Mesh Wi-Fi Routers &lpar;2022&rpar;: For Large Homes and Small Budgets](https://www.wired.com/story/best-mesh-wifi-routers/)
+ - [Android Users Can Finally &#39;Like&#39; Messages From iPhones](https://www.wired.com/story/android-users-can-like-iphone-messages-now/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
