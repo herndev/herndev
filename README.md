@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Not Again!](http://9gag.com/gag/avQLVgZ)
- - ⏩ [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
- - 👉 [What was it all for?](http://9gag.com/gag/abvbLdb)<!-- MEMES:END -->
+ - ⏩ [Perfectly describe American politics](http://9gag.com/gag/agoNpRv)
+ - 👉 [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)<!-- MEMES:END -->
 
 ---
 
