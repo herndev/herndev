@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Triple kill](http://9gag.com/gag/aVbX2O2)
- - ⏩ [In all modesty of course](http://9gag.com/gag/aeQpmnW)
- - 👉 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
+ - 💣 [Yeah... it&#39;s them...](http://9gag.com/gag/a9qP21o)
+ - ⏩ [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 👉 [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)<!-- MEMES:END -->
 
 ---
 
