@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
- - ⏩ [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
- - 👉 [Face massage machine](http://9gag.com/gag/aoKj7qe)<!-- MEMES:END -->
+ - 💣 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - ⏩ [Old Gem](http://9gag.com/gag/axoGrp2)
+ - 👉 [And people wonder why Slavs and Balts had nad attitude towards russia\u2026](http://9gag.com/gag/aoKjwB3)<!-- MEMES:END -->
 
 ---
 
