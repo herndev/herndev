@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Witness mankind&#39;s reach exceed its grasp as Counter-Strike hits over 4,000 fps](https://www.pcgamer.com/witness-mankinds-reach-exceed-its-grasp-as-counter-strike-hits-over-4000-fps)
  - [Warm up for the World Series with this free baseball game full of animals](https://www.pcgamer.com/warm-up-for-the-world-series-with-this-free-baseball-game-full-of-animals)
- - [Dragon Ball: The Breakers review](https://www.pcgamer.com/dragon-ball-the-breakers-review)
- - [The Exorcist by way of the Commodore 64 just dropped on Steam](https://www.pcgamer.com/the-exorcist-by-way-of-the-commodore-64-just-dropped-on-steam)<!-- GAME:END -->
+ - [Dragon Ball: The Breakers review](https://www.pcgamer.com/dragon-ball-the-breakers-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
