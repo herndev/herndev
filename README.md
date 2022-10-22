@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MCU 2023 Calendar: What movies and Disney Plus TV shows are on the way?](https://www.androidauthority.com/mcu-2023-calendar-3222377/)
- - [In &#39;Synchronic,&#39; Time Travel Is Anything but Nostalgic](https://www.wired.com/2020/10/geeks-guide-synchronic/)
- - [Early Black Friday sale at Amazon drives iPad Pro &amp; iPad Air prices down to record low levels](https://appleinsider.com/articles/22/10/22/early-black-friday-sale-at-amazon-drives-ipad-pro-ipad-air-prices-down-to-record-low-levels?utm_medium=rss)<!-- TECH:END -->
+ - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
+ - [WhatsApp is getting Facebook’s Bitmoji-style avatars](https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars)
+ - [Apple&#39;s $100M Small Developer Assistance Fund starts paying out](https://appleinsider.com/articles/22/10/22/apples-100m-small-developer-assistance-fund-starts-paying-out?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
