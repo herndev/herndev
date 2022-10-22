@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uno Reverse](http://9gag.com/gag/a6qLj88)
- - ⏩ [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
- - 👉 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)<!-- MEMES:END -->
+ - 💣 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
+ - ⏩ [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)
+ - 👉 [How dare you](http://9gag.com/gag/aA0pA6R)<!-- MEMES:END -->
 
 ---
 
