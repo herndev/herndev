@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - ⏩ [That can\u2019t be legal](http://9gag.com/gag/aXnX2Qz)
- - 👉 [Silverback in Omaha\u2019s zoo sees little girl banging her chest so he charges her](http://9gag.com/gag/aqe2VjQ)<!-- MEMES:END -->
+ - 💣 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
+ - ⏩ [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
+ - 👉 [Come to the stage..will be fun..!!](http://9gag.com/gag/aBdrz0x)<!-- MEMES:END -->
 
 ---
 
