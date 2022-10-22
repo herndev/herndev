@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - ⏩ [Not Again!](http://9gag.com/gag/avQLVgZ)
- - 👉 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)<!-- MEMES:END -->
+ - 💣 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)
+ - ⏩ [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
+ - 👉 [Not Again!](http://9gag.com/gag/avQLVgZ)<!-- MEMES:END -->
 
 ---
 
