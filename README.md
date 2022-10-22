@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
- - ⏩ [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - 💣 [Major red flag](http://9gag.com/gag/aBdr50N)
+ - ⏩ [Former Chinese president Hu Jintao unexpectedly led out of party congress](http://9gag.com/gag/avQLqXE)
  - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 ---
