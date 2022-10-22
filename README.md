@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)
- - [Early access for Kerbal Space Program 2 lifts off on February 24th](https://www.theverge.com/2022/10/22/23417796/kerbal-space-program-2-early-access-release-date-intercept-games)
- - [Apple will show more App Store ads from Oct. 25](https://appleinsider.com/articles/22/10/22/apple-will-show-more-app-store-ads-from-oct-25?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Max active noise cancellation pared down by newest firmware](https://appleinsider.com/articles/22/10/22/airpods-max-active-noise-cancellation-pared-down-by-newest-firmware?utm_medium=rss)
+ - [Leak suggests Ecobee’s entering the video doorbell space](https://www.theverge.com/2022/10/22/23417877/ecobee-video-doorbell-leak-smart-home)
+ - [Apple will expand ads to the App Store&#39;s main Today tab and &quot;You Might Also Like&quot; section of individual app listings, starting October 25 globally except China &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221022/p7#a221022p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
