@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)
- - ⏩ [Perfectly describe American politics](http://9gag.com/gag/agoNpRv)
- - 👉 [Triple kill](http://9gag.com/gag/aVbX2O2)<!-- MEMES:END -->
+ - 💣 [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - ⏩ [Not Again!](http://9gag.com/gag/avQLVgZ)
+ - 👉 [Panel of biologists answering controversial question](http://9gag.com/gag/aL1BXmV)<!-- MEMES:END -->
 
 ---
 
