@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The banned `Dead Loop` of Olga Korbut, 1972.](http://9gag.com/gag/ajVnWpp)
- - ⏩ [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - 💣 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
+ - ⏩ [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
  - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 ---
