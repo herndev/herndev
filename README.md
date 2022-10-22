@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Matt Walsh](http://9gag.com/gag/a3ZLr88)
- - ⏩ [It costs $0 to be nice to another even if you are a celebrity.](http://9gag.com/gag/a8qjXee)
- - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 💣 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)
+ - ⏩ [Bob Dylan died that day](http://9gag.com/gag/a6qLx89)
+ - 👉 [Face massage machine](http://9gag.com/gag/aoKj7qe)<!-- MEMES:END -->
 
 ---
 
