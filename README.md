@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Self-Cleaning Water Bottle for 2022     - CNET](https://www.cnet.com/health/best-self-cleaning-water-bottle/#ftag=CAD590a51e)
- - [WhatsApp is getting Facebook’s Bitmoji-style avatars](https://www.theverge.com/2022/10/22/23418100/whatsapp-getting-facebook-bitmoji-style-avatars)
- - [Apple&#39;s $100M Small Developer Assistance Fund starts paying out](https://appleinsider.com/articles/22/10/22/apples-100m-small-developer-assistance-fund-starts-paying-out?utm_medium=rss)<!-- TECH:END -->
+ - [Phillies vs. Padres Livestream: How to Watch Game 4 of the NLCS Today     - CNET](https://www.cnet.com/tech/services-and-software/phillies-vs-padres-livestream-how-to-watch-game-4-of-the-nlcs-today/#ftag=CAD590a51e)
+ - [Netflix: The 44 Absolute Best Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-44-absolute-best-films-to-see-on-the-weekend/#ftag=CAD590a51e)
+ - [McAfee researchers found 16 clicker apps with adware in Google Play with 20M+ downloads in total; Google removed the apps after McAfee reported them &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221022/p9#a221022p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
