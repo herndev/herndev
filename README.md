@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Watch 5 review: Fantastically familiar](https://www.androidauthority.com/samsung-galaxy-watch-5-review-3212798/)
- - [7 Best Bike Locks &lpar;2022&rpar;: U-Locks, Chain Locks, and Tips](https://www.wired.com/gallery/best-bike-locks/)
- - [LG Gram 17 review: big-screen energy](https://www.theverge.com/23413159/lg-gram-17-2022-review-price-specs-features)<!-- TECH:END -->
+ - [Brazil&#39;s elections chief gets unilateral power to order the removal of online posts ahead of October 30 election, in an aggressive move to combat misinformation &lpar;Jack Nicas/New York Times&rpar;](http://www.techmeme.com/221022/p5#a221022p5)
+ - [How to find out what song is playing near you on the Google Pixel](https://www.androidauthority.com/google-pixel-whats-this-song-3222529/)
+ - [Republicans sue Google over ‘discriminatory’ spam filtering practices](https://www.theverge.com/2022/10/22/23417664/google-lawsuit-republicans-rnc-discriminatory-spam-filtering-policies-politics)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
