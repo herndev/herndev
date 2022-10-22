@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)
- - [A look at the companies using AI to build tech that lets users talk to digital versions of deceased loved ones by video chat, text, phone, or voice assistants &lpar;Charlotte Jee/MIT Technology Review&rpar;](http://www.techmeme.com/221022/p2#a221022p2)
- - [Swift Navigation, which makes high-accuracy GNSS hardware for advanced driver-assistance systems, raised a $100M Series D, bringing its total funding to $200M+ &lpar;FinSMEs&rpar;](http://www.techmeme.com/221022/p1#a221022p1)<!-- TECH:END -->
+ - [How Therapists Are Using Tabletop Games to Help People](https://www.wired.com/story/therapists-dungeons-dragons-tabletop-games-helping-people/)
+ - [11 Best Deals: Laptops, Phones, and Pet Gear](https://www.wired.com/story/weekend-deals-october-22-2022/)
+ - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
