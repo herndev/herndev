@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Therapists Are Using Tabletop Games to Help People](https://www.wired.com/story/therapists-dungeons-dragons-tabletop-games-helping-people/)
- - [11 Best Deals: Laptops, Phones, and Pet Gear](https://www.wired.com/story/weekend-deals-october-22-2022/)
- - [Best Samsung Galaxy S22, S22 Plus and S22 Ultra Cases for 2022     - CNET](https://www.cnet.com/tech/mobile/best-samsung-galaxy-s22-s22-plus-and-s22-ultra-cases-for-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A smart washing machine gave me a taste of a fully connected home](https://www.androidauthority.com/smart-washing-machine-3210850/)
+ - [Goats and Sheep Are Brawling in the Rockies. Blame Glacial Melt](https://www.wired.com/story/goats-and-sheep-are-brawling-in-the-rockies-blame-glacial-melt/)
+ - [How to Make Slack Look and Feel Like Discord](https://www.wired.com/story/how-to-make-slack-look-feel-like-discord/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
