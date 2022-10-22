@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Swift Navigation, which makes high-accuracy GNSS hardware for advanced driver-assistance systems, raised a $100M Series D, bringing its total funding to $200M+ &lpar;FinSMEs&rpar;](http://www.techmeme.com/221022/p1#a221022p1)
- - [The RNC sues Google for allegedly putting its campaign emails in Gmail spam; the RNC has been criticizing Google&#39;s pilot to keep campaign emails out of spam &lpar;Axios&rpar;](http://www.techmeme.com/221021/p16#a221021p16)
- - [Reliance, the parent firm of India&#39;s largest mobile operator Jio, launches JioBook, a ~$190 4G-enabled laptop running a custom Android-based OS called JioOS &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221021/p15#a221021p15)<!-- TECH:END -->
+ - [The Secret Ingredient in &#39;The Great British Baking Show&#39;     - CNET](https://www.cnet.com/culture/entertainment/the-secret-ingredient-in-the-great-british-baking-show/#ftag=CAD590a51e)
+ - [The RNC sues Google for allegedly putting its campaign emails in Gmail spam; the RNC has been criticizing Google&#39;s pilot to keep campaign emails out of spam &lpar;Axios&rpar;](http://www.techmeme.com/221021/p16#a221021p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
