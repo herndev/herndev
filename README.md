@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Stability AI founder and CEO Emad Mostaque, a British former hedge fund manager who has quickly become a polarizing figure within the AI community &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/221021/p14#a221021p14)
- - [&#39;Love Is Blind&#39;: Go Inside the Pods That Make Talking to a Wall Romantic     - CNET](https://www.cnet.com/culture/entertainment/love-is-blind-go-inside-the-pods-that-make-talking-to-a-wall-romantic/#ftag=CAD590a51e)
- - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)<!-- TECH:END -->
+ - [The RNC sues Google for allegedly putting its campaign emails in Gmail spam; the RNC has been criticizing Google&#39;s pilot to keep campaign emails out of spam &lpar;Axios&rpar;](http://www.techmeme.com/221021/p16#a221021p16)
+ - [Reliance, the parent firm of India&#39;s largest mobile operator Jio, launches JioBook, a ~$190 4G-enabled laptop running a custom Android-based OS called JioOS &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221021/p15#a221021p15)
+ - [A profile of Stability AI founder and CEO Emad Mostaque, a British former hedge fund manager who has quickly become a polarizing figure within the AI community &lpar;Kevin Roose/New York Times&rpar;](http://www.techmeme.com/221021/p14#a221021p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
