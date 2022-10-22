@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-455-3223417/)
- - [How to use Game Center on iPhone &amp; Mac](https://appleinsider.com/inside/apple-arcade/tips/how-to-use-game-center-on-iphone-mac?utm_medium=rss)
- - [Daily deals Oct. 22: $300 off Panasonic Lumix DC-GH5, $200 off Radeon RX 6950 XT, $218 50-inch TCL 4K TV, more](https://appleinsider.com/articles/22/10/22/daily-deals-oct-22-300-off-panasonic-lumix-dc-gh5-200-off-radeon-rx-6950-xt-218-50-inch-tcl-4k-tv-more?utm_medium=rss)<!-- TECH:END -->
+ - [Brainnns! Here are our picks for the best zombie movies to stream right now](https://www.androidauthority.com/the-best-zombie-movies-3222776/)
+ - [LG Gram 17 review: weighs just under three pounds, even with a huge 17&quot;, 2560 x 1600 display but graphics are weak, the chassis is flimsy, and pricey at $1700+ &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/221022/p6#a221022p6)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-455-3223417/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
