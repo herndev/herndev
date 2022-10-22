@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitch CEO Emmett Shear says the US could use legislation to create &quot;a third option&quot; between contractors and employees to classify creators and gig workers &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221021/p13#a221021p13)
  - [How to connect Bluetooth headphones to a Pixel Watch and jam while you run](https://www.androidauthority.com/how-to-connect-bluetooth-headphones-pixel-watch-3223515/)
- - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)
- - [14 Unique Teacher Gifts for the Holidays 2022     - CNET](https://www.cnet.com/health/parenting/holiday-teacher-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US government often waives its own stock trading rules, letting federal officials invest in Amazon, Apple, Meta, and others affected by their agencies&#39; work &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221021/p12#a221021p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
