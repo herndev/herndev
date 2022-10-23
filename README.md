@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking a piss](http://9gag.com/gag/aMEQoZ6)
- - ⏩ [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
- - 👉 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)<!-- MEMES:END -->
+ - 💣 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
+ - ⏩ [Woke Google drive](http://9gag.com/gag/aXnX5OP)
+ - 👉 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)<!-- MEMES:END -->
 
 ---
 
