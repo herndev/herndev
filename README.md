@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - ⏩ [Legend on the track!](http://9gag.com/gag/aKEBrw6)
- - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 💣 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
+ - ⏩ [NYC street photography](http://9gag.com/gag/aEqz3Z9)
+ - 👉 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)<!-- MEMES:END -->
 
 ---
 
