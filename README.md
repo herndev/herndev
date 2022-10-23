@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 491 answer and hint: Sunday, October 23](https://www.pcgamer.com/todays-wordle-491-answer-hint)
- - [Silent Hill 2&#39;s original translator wasn&#39;t told about the remake](https://www.pcgamer.com/silent-hill-2s-original-translator-wasnt-told-about-the-remake)
- - [The action-platformer where you&#39;re a 40K ork is better than I expected](https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected)<!-- GAME:END -->
+ - [Genshin Impact patch 3.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23416503/patch-3-2-livestream-primogem-codes)
+ - [Why This Gundam Anime Is Perfect For Newcomers And OGs Alike](https://kotaku.com/mobile-suit-gundam-the-witch-from-mercury-anime-2022-1849689569)
+ - [Today&#39;s Wordle 491 answer and hint: Sunday, October 23](https://www.pcgamer.com/todays-wordle-491-answer-hint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
