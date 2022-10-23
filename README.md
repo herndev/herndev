@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It better be called \u201c Beetlejuice Beetlejuice\u201d, and third one inevitably \u201cBeetlejuice Beetlejuice Beetlejuice \u201c](http://9gag.com/gag/aREVbL5)
- - ⏩ [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)
- - 👉 [Lioness charges at safari car full of people.](http://9gag.com/gag/aNwKjQA)<!-- MEMES:END -->
+ - 💣 [Jerry Seinfeld refuses to hug Kesha](http://9gag.com/gag/armRdzy)
+ - ⏩ [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 👉 [The church is bad, but public school is worse. Predators go where the kids are.](http://9gag.com/gag/a9qPG8j)<!-- MEMES:END -->
 
 ---
 
