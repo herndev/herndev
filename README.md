@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - ⏩ [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
- - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
+ - 💣 [For the fallen brothers](http://9gag.com/gag/aYVw55N)
+ - ⏩ [Legend on the track!](http://9gag.com/gag/aKEBrw6)
+ - 👉 [Bro got Ultra Instinct but ping 900+....!!!!](http://9gag.com/gag/awZ7jPy)<!-- MEMES:END -->
 
 ---
 
