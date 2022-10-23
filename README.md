@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - ⏩ [For the fallen brothers](http://9gag.com/gag/aYVw55N)
- - 👉 [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)<!-- MEMES:END -->
+ - ⏩ [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)
+ - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 ---
 
