@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Here are the best sci-fi horror movies to stream for Halloween](https://www.androidauthority.com/best-sci-fi-horror-movies-to-stream-3223353/)
  - [Indian news outlet The Wire retracts its story on Meta](https://www.theverge.com/2022/10/23/23419366/the-wire-meta-indian-news-outlet-retracts-story)
- - [An interview with eBay CEO Jamie Iannone on eBay&#39;s strategy to focus on the second-hand luxury market, as its market value has fallen from $53B in 2021 to $21B &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221023/p9#a221023p9)
- - [Chiefs vs. 49ers Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/chiefs-vs-49ers-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [An interview with eBay CEO Jamie Iannone on eBay&#39;s strategy to focus on the second-hand luxury market, as its market value has fallen from $53B in 2021 to $21B &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221023/p9#a221023p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
