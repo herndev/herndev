@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam sets new record with 30 million users online at once](https://www.pcgamer.com/steam-sets-new-record-with-30-million-users-online-at-once)
- - [PSA: Doom could be running inside your kids&#39; Halloween candy](https://www.pcgamer.com/psa-doom-could-be-running-inside-your-kids-halloween-candy)
- - [Trombone Champ, but it&#39;s the Liz Truss resignation speech](https://www.pcgamer.com/trombone-champ-but-its-the-liz-truss-resignation-speech)<!-- GAME:END -->
+ - [30 Million People Were Logged Into Steam Today](https://kotaku.com/steam-valve-concurrent-user-record-playtime-playing-1849691890)
+ - [The best horror games in 2022](https://www.pcgamer.com/best-horror-games)
+ - [Steam sets new record with 30 million users online at once](https://www.pcgamer.com/steam-sets-new-record-with-30-million-users-online-at-once)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
