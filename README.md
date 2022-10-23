@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any DS9 fans on here?](http://9gag.com/gag/aXnXm5d)
- - ⏩ [Justice](http://9gag.com/gag/avQLjwb)
- - 👉 [I am 23 right now](http://9gag.com/gag/a04Y3EL)<!-- MEMES:END -->
+ - 💣 [Perfect Decoration](http://9gag.com/gag/avQL4Nq)
+ - ⏩ [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
+ - 👉 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
 
 ---
 
