@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chicago-based Tempus, which uses AI for drug discovery, clinical trials, and diagnostics, raised $275M in equity and debt, bringing its total funding to $1.3B+ &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221022/p11#a221022p11)
  - [Podcast app Pocket Casts, which WordPress parent company Automattic acquired in July 2021, releases its mobile clients on GitHub under an open-source license &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221022/p10#a221022p10)
- - [Price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)
- - [&#39;The Peripheral&#39; on Prime Video: Sci-Fi Thriller Is an Addictive Puzzle Box     - CNET](https://www.cnet.com/culture/entertainment/the-peripheral-on-prime-video-sci-fi-thriller-is-an-addictive-puzzle-box/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
