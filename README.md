@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Major red flag](http://9gag.com/gag/aBdr50N)
- - ⏩ [Former Chinese president Hu Jintao unexpectedly led out of party congress](http://9gag.com/gag/avQLqXE)
- - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
+ - 💣 [Any DS9 fans on here?](http://9gag.com/gag/aXnXm5d)
+ - ⏩ [Justice](http://9gag.com/gag/avQLjwb)
+ - 👉 [I am 23 right now](http://9gag.com/gag/a04Y3EL)<!-- MEMES:END -->
 
 ---
 
