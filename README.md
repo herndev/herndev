@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Face massage machine](http://9gag.com/gag/aoKj7qe)
- - ⏩ [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 👉 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
+ - 💣 [Justice](http://9gag.com/gag/avQLjwb)
+ - ⏩ [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)
+ - 👉 [How dare you](http://9gag.com/gag/aA0pA6R)<!-- MEMES:END -->
 
 ---
 
