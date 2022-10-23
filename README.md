@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
- - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
+ - 💣 [Bit sus tbh](http://9gag.com/gag/a4oLeQ6)
+ - ⏩ [Pictures that define history](http://9gag.com/gag/ajVnwEw)
  - 👉 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
 
 ---
