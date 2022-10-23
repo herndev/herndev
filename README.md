@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save $500 on loaded 16-inch MacBook Pro M1 Max, plus $80 off AppleCare](https://appleinsider.com/articles/22/10/23/deals-save-500-on-loaded-16-inch-macbook-pro-m1-max-plus-80-off-applecare?utm_medium=rss)
- - [Canalys: smartphone shipments in India fell 6% YoY to 44.6M units in Q3 2022; Xiaomi shipped 9.2M units, down 18% YoY, for a 21% share, followed by Samsung &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/221023/p2#a221023p2)
- - [Interpol unveils a metaverse for law enforcement worldwide, allowing users to tour the virtual version of its HQ, take training courses in VR, and more &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/221023/p1#a221023p1)<!-- TECH:END -->
+ - [In his memoir, Bono details making a deal with Steve Jobs for the U2 iPod in October 2004 and convincing Tim Cook to give away an iTunes album in September 2014 &lpar;Bono/The Guardian&rpar;](http://www.techmeme.com/221023/p4#a221023p4)
+ - [The Wire retracts its recent stories on Meta and says it is using &quot;independent external experts&quot; to conduct an investigation into its Meta coverage &lpar;The Wire&rpar;](http://www.techmeme.com/221023/p3#a221023p3)
+ - [Deals: save $500 on loaded 16-inch MacBook Pro M1 Max, plus $80 off AppleCare](https://appleinsider.com/articles/22/10/23/deals-save-500-on-loaded-16-inch-macbook-pro-m1-max-plus-80-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
