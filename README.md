@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For the fallen brothers](http://9gag.com/gag/aYVw55N)
- - ⏩ [Legend on the track!](http://9gag.com/gag/aKEBrw6)
- - 👉 [Bro got Ultra Instinct but ping 900+....!!!!](http://9gag.com/gag/awZ7jPy)<!-- MEMES:END -->
+ - 💣 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - ⏩ [Former Chinese leader Hu Jintao unexpectedly led out of room as Communist Party Congress comes to a close](http://9gag.com/gag/aKEBZog)
+ - 👉 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)<!-- MEMES:END -->
 
 ---
 
