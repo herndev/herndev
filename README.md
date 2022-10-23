@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Still lake in Latvia](http://9gag.com/gag/aREVnNM)
- - ⏩ [Jimmy the GOAT](http://9gag.com/gag/a8qjX8Z)
- - 👉 [*Coke enters the chat*](http://9gag.com/gag/aA0pjd0)<!-- MEMES:END -->
+ - 💣 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - ⏩ [For the fallen brothers](http://9gag.com/gag/aYVw55N)
+ - 👉 [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)<!-- MEMES:END -->
 
 ---
 
