@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [6 iconic horror moments that showed up later than you think](https://www.polygon.com/23409732/horror-movie-sequel-franchise-defining-icons)
  - [Triangle of Sadness’ fascinating hero/villain Abigail has a crucial secret backstory](https://www.polygon.com/23416739/triangle-of-sadness-abigail-secret-backstory-dolly-de-leon-interview)
- - [Genshin Impact patch 3.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23416503/patch-3-2-livestream-primogem-codes)
- - [Why This Gundam Anime Is Perfect For Newcomers And OGs Alike](https://kotaku.com/mobile-suit-gundam-the-witch-from-mercury-anime-2022-1849689569)<!-- GAME:END -->
+ - [Genshin Impact patch 3.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23416503/patch-3-2-livestream-primogem-codes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
