@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Iran&#39;s atomic energy agency says its email system was breached; a hacking group says it leaked 50GB of emails, construction plans related to Bushehr power plant &lpar;Associated Press&rpar;](http://www.techmeme.com/221023/p8#a221023p8)
  - [How to keep back ups small for iCloud in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-keep-back-ups-small-for-icloud-in-ios-16?utm_medium=rss)
- - [Facebook warns it could block news in Canada over proposed legislation](https://www.theverge.com/2022/10/23/23418928/facebook-warns-block-news-canada-legislation-meta)
- - [Packers vs. Commanders Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/packers-vs-commanders-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook warns it could block news in Canada over proposed legislation](https://www.theverge.com/2022/10/23/23418928/facebook-warns-block-news-canada-legislation-meta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
