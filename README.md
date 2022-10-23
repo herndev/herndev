@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Peripheral&#39; on Prime Video: Sci-Fi Thriller Is an Addictive Puzzle Box     - CNET](https://www.cnet.com/culture/entertainment/the-peripheral-on-prime-video-sci-fi-thriller-is-an-addictive-puzzle-box/#ftag=CAD590a51e)
- - [&#39;Rick and Morty:&#39; When Can We Watch Season 6, Episode 7?     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-when-can-we-watch-season-6-episode-7/#ftag=CAD590a51e)
- - [More People Need to Watch This Gripping Horror-Mystery on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-gripping-horror-mystery-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Podcast app Pocket Casts, which WordPress parent company Automattic acquired in July 2021, releases its mobile clients on GitHub under an open-source license &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221022/p10#a221022p10)
+ - [Price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)
+ - [&#39;The Peripheral&#39; on Prime Video: Sci-Fi Thriller Is an Addictive Puzzle Box     - CNET](https://www.cnet.com/culture/entertainment/the-peripheral-on-prime-video-sci-fi-thriller-is-an-addictive-puzzle-box/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
