@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect Decoration](http://9gag.com/gag/avQL4Nq)
- - ⏩ [When the spaghetti rope breaks.](http://9gag.com/gag/aOxmNwy)
- - 👉 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)<!-- MEMES:END -->
+ - 💣 [For those of you who cherry pick to defend Cuba, Venezuela, etc. All dictatorships are bad, either right or left ones.](http://9gag.com/gag/a7qbB2z)
+ - ⏩ [Silverback in Omaha\u2019s zoo sees little girl banging her chest so he charges her](http://9gag.com/gag/aqe2VjQ)
+ - 👉 [The church is bad, but public school is worse. Predators go where the kids are.](http://9gag.com/gag/a9qPG8j)<!-- MEMES:END -->
 
 ---
 
