@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s why I&#39;m having trust issues](http://9gag.com/gag/armREvV)
- - ⏩ [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - 👉 [Taking a piss](http://9gag.com/gag/aMEQoZ6)<!-- MEMES:END -->
+ - 💣 [Do it properly and don&#39;t forget to oven](http://9gag.com/gag/aZDNXZ3)
+ - ⏩ [Take notes boys...](http://9gag.com/gag/a8qjxbZ)
+ - 👉 [*Coke enters the chat*](http://9gag.com/gag/aA0pjd0)<!-- MEMES:END -->
 
 ---
 
