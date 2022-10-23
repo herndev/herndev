@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The action-platformer where you&#39;re a 40K ork is better than I expected](https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected)
  - [Resident Evil Re:Verse is about to have an early access beta ahead of its Oct 28 launch](https://www.pcgamer.com/resident-evil-reverse-is-about-to-have-an-early-access-beta-ahead-of-its-oct-28-launch)
- - [Use disposable android bodies to take down megacorps in this cyberpunk FPS](https://www.pcgamer.com/use-disposable-android-bodies-to-take-down-megacorps-in-this-cyberpunk-fps)
- - [If you were a companion in an RPG, what class would you be?](https://www.pcgamer.com/if-you-were-a-companion-in-an-rpg-what-class-would-you-be)<!-- GAME:END -->
+ - [Use disposable android bodies to take down megacorps in this cyberpunk FPS](https://www.pcgamer.com/use-disposable-android-bodies-to-take-down-megacorps-in-this-cyberpunk-fps)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
