@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Triangle of Sadness’ fascinating hero/villain Abigail has a crucial secret backstory](https://www.polygon.com/23416739/triangle-of-sadness-abigail-secret-backstory-dolly-de-leon-interview)
  - [Genshin Impact patch 3.2 livestream codes](https://www.polygon.com/genshin-impact-guides/23416503/patch-3-2-livestream-primogem-codes)
- - [Why This Gundam Anime Is Perfect For Newcomers And OGs Alike](https://kotaku.com/mobile-suit-gundam-the-witch-from-mercury-anime-2022-1849689569)
- - [Today&#39;s Wordle 491 answer and hint: Sunday, October 23](https://www.pcgamer.com/todays-wordle-491-answer-hint)<!-- GAME:END -->
+ - [Why This Gundam Anime Is Perfect For Newcomers And OGs Alike](https://kotaku.com/mobile-suit-gundam-the-witch-from-mercury-anime-2022-1849689569)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
