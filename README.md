@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice](http://9gag.com/gag/avQLjwb)
- - ⏩ [The posture required for speed-shooting from a holster](http://9gag.com/gag/a3ZLmAQ)
- - 👉 [How dare you](http://9gag.com/gag/aA0pA6R)<!-- MEMES:END -->
+ - 💣 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
+ - ⏩ [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
+ - 👉 [Justice](http://9gag.com/gag/avQLjwb)<!-- MEMES:END -->
 
 ---
 
