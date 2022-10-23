@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of e-commerce company Meesho, which accounts for ~7% of India&#39;s online sales; Apptopia: Meesho was the world&#39;s most downloaded shopping app in H1 2022 &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221023/p5#a221023p5)
- - [In his memoir, Bono details making a deal with Steve Jobs for the U2 iPod in October 2004 and convincing Tim Cook to give away an iTunes album in September 2014 &lpar;Bono/The Guardian&rpar;](http://www.techmeme.com/221023/p4#a221023p4)
- - [The Wire retracts its recent stories on Meta and says it is using &quot;independent external experts&quot; to conduct an investigation into its Meta coverage &lpar;The Wire&rpar;](http://www.techmeme.com/221023/p3#a221023p3)<!-- TECH:END -->
+ - [Switching over to an IP camera was the best home security decision I made](https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/)
+ - [The New Math of Wrinkling Patterns](https://www.wired.com/story/the-new-math-of-wrinkling-patterns/)
+ - [4 Best Budget Gaming Laptops &lpar;2022&rpar;: 16-Inch Screens, RTX 3060, and More](https://www.wired.com/gallery/best-budget-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
