@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 491 answer and hint: Sunday, October 23](https://www.pcgamer.com/todays-wordle-491-answer-hint)
  - [Silent Hill 2&#39;s original translator wasn&#39;t told about the remake](https://www.pcgamer.com/silent-hill-2s-original-translator-wasnt-told-about-the-remake)
- - [The action-platformer where you&#39;re a 40K ork is better than I expected](https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected)
- - [Resident Evil Re:Verse is about to have an early access beta ahead of its Oct 28 launch](https://www.pcgamer.com/resident-evil-reverse-is-about-to-have-an-early-access-beta-ahead-of-its-oct-28-launch)<!-- GAME:END -->
+ - [The action-platformer where you&#39;re a 40K ork is better than I expected](https://www.pcgamer.com/the-action-platformer-where-youre-a-40k-ork-is-better-than-i-expected)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
