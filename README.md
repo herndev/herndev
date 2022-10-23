@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Trombone Champ, but it&#39;s the Liz Truss resignation speech](https://www.pcgamer.com/trombone-champ-but-its-the-liz-truss-resignation-speech)
  - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [6 iconic horror moments that showed up later than you think](https://www.polygon.com/23409732/horror-movie-sequel-franchise-defining-icons)
- - [Triangle of Sadness’ fascinating hero/villain Abigail has a crucial secret backstory](https://www.polygon.com/23416739/triangle-of-sadness-abigail-secret-backstory-dolly-de-leon-interview)<!-- GAME:END -->
+ - [6 iconic horror moments that showed up later than you think](https://www.polygon.com/23409732/horror-movie-sequel-franchise-defining-icons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
