@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UAE&#39;s minister of tolerance and coexistence when sees a woman having fun during her graduation](http://9gag.com/gag/aVbX8Qy)
- - ⏩ [Former Chinese leader Hu Jintao unexpectedly led out of room as Communist Party Congress comes to a close](http://9gag.com/gag/aKEBZog)
- - 👉 [Paul is a piece of work...](http://9gag.com/gag/aYVw6Px)<!-- MEMES:END -->
+ - 💣 [Taking a piss](http://9gag.com/gag/aMEQoZ6)
+ - ⏩ [Yale student meltdown at professor because he said he supported freedom of speech](http://9gag.com/gag/aKEBXBO)
+ - 👉 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)<!-- MEMES:END -->
 
 ---
 
