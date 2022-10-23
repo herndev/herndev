@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Switching over to an IP camera was the best home security decision I made](https://www.androidauthority.com/cloud-security-camera-vs-ip-camera-3222182/)
- - [The New Math of Wrinkling Patterns](https://www.wired.com/story/the-new-math-of-wrinkling-patterns/)
- - [4 Best Budget Gaming Laptops &lpar;2022&rpar;: 16-Inch Screens, RTX 3060, and More](https://www.wired.com/gallery/best-budget-gaming-laptops/)<!-- TECH:END -->
+ - [The Pixel 7’s colors make me wish Google brought back Moto Maker](https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/)
+ - [Daily deals Oct. 23: $200 off M1 12.9-inch iPad Pro, $120 2021 Apple TV 4K, $1,000 off 55-inch Sony Bravia 4K OLED TV, more](https://appleinsider.com/articles/22/10/23/daily-deals-oct-23-200-off-m1-129-inch-ipad-pro-120-2021-apple-tv-4k-1000-off-55-inch-sony-bravia-4k-oled-tv-more?utm_medium=rss)
+ - [Apple launched the iPod 21 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
