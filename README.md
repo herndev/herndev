@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel 7’s colors make me wish Google brought back Moto Maker](https://www.androidauthority.com/pixel-7-colors-moto-maker-3223175/)
- - [Daily deals Oct. 23: $200 off M1 12.9-inch iPad Pro, $120 2021 Apple TV 4K, $1,000 off 55-inch Sony Bravia 4K OLED TV, more](https://appleinsider.com/articles/22/10/23/daily-deals-oct-23-200-off-m1-129-inch-ipad-pro-120-2021-apple-tv-4k-1000-off-55-inch-sony-bravia-4k-oled-tv-more?utm_medium=rss)
- - [Apple launched the iPod 21 years ago, and changed the world](https://appleinsider.com/articles/22/10/23/apple-launched-the-ipod-21-years-ago-and-changed-the-world?utm_medium=rss)<!-- TECH:END -->
+ - [The new Mac Pro chip could double or quadruple the power of the M2 Max](https://www.theverge.com/2022/10/23/23418832/new-mac-pro-chip-m2-max-double-quadruple-power-apple-rumors)
+ - [M2 Extreme Mac Pro due in 2023, MacBook Pro still in 2022](https://appleinsider.com/articles/22/10/23/mac-pro-with-m2-extreme-due-in-2023-2022-macbook-pros-still-expected?utm_medium=rss)
+ - [One year later, have developers warmed to Google’s Material You overhaul?](https://www.androidauthority.com/google-material-you-one-year-later-3217508/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
