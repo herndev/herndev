@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
- - ⏩ [Woke Google drive](http://9gag.com/gag/aXnX5OP)
- - 👉 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)<!-- MEMES:END -->
+ - 💣 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - ⏩ [Legend on the track!](http://9gag.com/gag/aKEBrw6)
+ - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 ---
 
