@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it properly and don&#39;t forget to oven](http://9gag.com/gag/aZDNXZ3)
- - ⏩ [Take notes boys...](http://9gag.com/gag/a8qjxbZ)
+ - 💣 [Still lake in Latvia](http://9gag.com/gag/aREVnNM)
+ - ⏩ [Jimmy the GOAT](http://9gag.com/gag/a8qjX8Z)
  - 👉 [*Coke enters the chat*](http://9gag.com/gag/aA0pjd0)<!-- MEMES:END -->
 
 ---
