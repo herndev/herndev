@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am 23 right now](http://9gag.com/gag/a04Y3EL)
- - ⏩ [Aww a cute robot couple with an apple.](http://9gag.com/gag/aPgGdLG)
- - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 💣 [Face massage machine](http://9gag.com/gag/aoKj7qe)
+ - ⏩ [I am 23 right now](http://9gag.com/gag/a04Y3EL)
+ - 👉 [Get born into this world, commit triple infanticide and identity theft, success.](http://9gag.com/gag/axoGr7b)<!-- MEMES:END -->
 
 ---
 
