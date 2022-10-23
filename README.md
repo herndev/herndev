@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He never did that.](http://9gag.com/gag/a9qPwMW)
- - ⏩ [Two British girls sitting filming themselves when a guy asks if he can borrow a lighter. He returns it only to steal her phone.](http://9gag.com/gag/axoGxrp)
- - 👉 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)<!-- MEMES:END -->
+ - 💣 [England didn\u2019t want to pick itself, I guess.](http://9gag.com/gag/aGER4Dz)
+ - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
+ - 👉 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
 
 ---
 
