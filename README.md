@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iranian activists smuggle Starlink receivers into the country for a backup internet, citing &quot;no Starlink donation&quot; from SpaceX nor US government participation &lpar;Karl Vick/TIME&rpar;](http://www.techmeme.com/221023/p6#a221023p6)
- - [The new Mac Pro chip could double or quadruple the power of the M2 Max](https://www.theverge.com/2022/10/23/23418832/new-mac-pro-chip-m2-max-double-quadruple-power-apple-rumors)
- - [M2 Extreme Mac Pro due in 2023, MacBook Pro still in 2022](https://appleinsider.com/articles/22/10/23/mac-pro-with-m2-extreme-due-in-2023-2022-macbook-pros-still-expected?utm_medium=rss)<!-- TECH:END -->
+ - [What is Android digital car key and how does it work?](https://www.androidauthority.com/android-digital-car-key-3222078/)
+ - [Lions vs. Cowboys Livestream: How to Watch NFL Week 7 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/lions-vs-cowboys-livestream-how-to-watch-nfl-week-7-online-today/#ftag=CAD590a51e)
+ - [Falcons vs. Bengals Livestream: How to Watch NFL Week 7 From Anywhere Online Today     - CNET](https://www.cnet.com/tech/services-and-software/falcons-vs-bengals-livestream-how-to-watch-nfl-week-7-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
