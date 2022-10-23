@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chicago-based Tempus, which uses AI for drug discovery, clinical trials, and diagnostics, raised $275M in equity and debt, bringing its total funding to $1.3B+ &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221022/p11#a221022p11)
- - [Podcast app Pocket Casts, which WordPress parent company Automattic acquired in July 2021, releases its mobile clients on GitHub under an open-source license &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221022/p10#a221022p10)
- - [Price drop: Microsoft Office for Mac Home &amp; Business 2021 dips to $35, lowest price ever](https://appleinsider.com/articles/22/10/20/early-access-price-drop-microsoft-office-for-mac-home-business-2021-dips-to-35-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: save $500 on loaded 16-inch MacBook Pro M1 Max, plus $80 off AppleCare](https://appleinsider.com/articles/22/10/23/deals-save-500-on-loaded-16-inch-macbook-pro-m1-max-plus-80-off-applecare?utm_medium=rss)
+ - [Canalys: smartphone shipments in India fell 6% YoY to 44.6M units in Q3 2022; Xiaomi shipped 9.2M units, down 18% YoY, for a 21% share, followed by Samsung &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/221023/p2#a221023p2)
+ - [Interpol unveils a metaverse for law enforcement worldwide, allowing users to tour the virtual version of its HQ, take training courses in VR, and more &lpar;Jessica Lyons Hardcastle/The Register&rpar;](http://www.techmeme.com/221023/p1#a221023p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
