@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube’s new design makes it easier to fast-forward or rewind to the right part](https://www.theverge.com/2022/10/24/23420519/youtube-ui-redesign-desktop-mobile-seek-zoom-buttons)
- - [10.9-inch iPad review roundup: Strange compromises, oddly placed in Apple&#39;s lineup](https://appleinsider.com/articles/22/10/24/109-inch-ipad-review-roundup-strange-compromises-oddly-placed-in-apples-lineup?utm_medium=rss)
- - [Falling bond prices are affecting Apple&#39;s cash reserves](https://appleinsider.com/articles/22/10/24/falling-bond-prices-are-affecting-apples-cash-reserves?utm_medium=rss)<!-- TECH:END -->
+ - [Poll: Is your Android smartphone rooted?](https://www.androidauthority.com/android-smartphone-root-poll-3223786/)
+ - [iPadOS 16’s Stage Manager is not the future of multitasking you were hoping for](https://www.theverge.com/23420280/ipados-16-stage-manager-review)
+ - [PayPal is getting more secure passkey logins](https://www.theverge.com/2022/10/24/23420251/paypal-passkey-security-apple-platforms)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
