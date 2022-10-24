@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy has a flashlight instead of an eye.](http://9gag.com/gag/a7qb4Ae)
- - ⏩ [Yeah! Science!](http://9gag.com/gag/aDYow17)
- - 👉 [Had me in the first half.](http://9gag.com/gag/aoKjB7A)<!-- MEMES:END -->
+ - 💣 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - ⏩ [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
 
 ---
 
