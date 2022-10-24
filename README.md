@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook slowly waves checkered flag at US Grand Prix](https://appleinsider.com/articles/22/10/23/tim-cook-slowly-waves-checkered-flag-at-us-grand-prix?utm_medium=rss)
- - [The Absolute Best Sci-Fi TV Shows on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-tv-shows-on-hbo-max-to-watch/#ftag=CAD590a51e)
- - [The Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-to-catch-on-hbo-max-this-evening/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Whereas Creator Economy companies have mostly built infrastructure for the top 1% of creators, new AI tools will fuel businesses that democratize creativity &lpar;Michael Mignano/Lightspeed Venture ...&rpar;](http://www.techmeme.com/221023/p10#a221023p10)
+ - [How to keep backups small for iCloud in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-keep-back-ups-small-for-icloud-in-ios-16?utm_medium=rss)
+ - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
