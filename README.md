@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Researchers find thousands of repos on GitHub offering fake proof-of-concept exploits for various vulnerabilities, with many of them containing malware instead &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221023/p12#a221023p12)
  - [FTX to provide $6M in compensation to account holders impacted by a phishing incident via a 3rd-party site but says this kind of relief will not become the norm &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/221023/p11#a221023p11)
- - [Whereas Creator Economy companies have mostly built infrastructure for the top 1% of creators, new AI tools will fuel businesses that democratize creativity &lpar;Michael Mignano/Lightspeed Venture ...&rpar;](http://www.techmeme.com/221023/p10#a221023p10)
- - [How to keep backups small for iCloud in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-keep-back-ups-small-for-icloud-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Finale Recap: This Means War     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-recap-this-means-war/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
