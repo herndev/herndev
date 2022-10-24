@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3: The Kotaku Review](https://kotaku.com/victoria-3-review-paradox-pc-kotaku-impressions-verdict-1849669988)
- - [Modern Warfare 2’s Amsterdam Looks Incredible…At First Glance](https://kotaku.com/call-duty-mw2-amsterdam-graphics-activision-ps5-1849693716)
- - [How Bayonetta the witch cast a spell on LGBTQ+ fans](https://www.polygon.com/23417059/bayonetta-3-lgbtq-gay-queer-icon-fandom)<!-- GAME:END -->
+ - [You can watch 5 of the best horror movies ever made for free right now](https://www.polygon.com/what-to-watch/23416506/best-horror-movies-watch-free)
+ - [The Disney Villains Game Is Having A Horny Racism Controversy](https://kotaku.com/disney-twisted-wonderland-frollo-hunchback-ios-android-1849694445)
+ - [The Best New Marvel Game Makes Uncle Ben&#39;s Death A Good Thing](https://kotaku.com/marvel-snap-spider-man-uncle-ben-card-hearthstone-brode-1849694149)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
