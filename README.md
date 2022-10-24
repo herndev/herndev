@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US banks backing Elon Musk&#39;s Twitter deal plan to hold all $13B of debt on their balance sheets rather than selling it, amid a difficult debt market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p3#a221024p3)
- - [The Pixel 6a is an absolute steal for just $299](https://www.androidauthority.com/google-pixel-6a-deal-amazon-3223228/)
- - [Sources: Chinese memory chip maker YMTC asks core US staff to leave the company, after its CEO stepped down ahead of the latest US export controls announcement &lpar;Financial Times&rpar;](http://www.techmeme.com/221024/p2#a221024p2)<!-- TECH:END -->
+ - [How to use the Clock app in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-the-clock-app-in-macos-ventura?utm_medium=rss)
+ - [Hot on the Trail of a Mass-School-Shooting Hoaxer](https://www.wired.com/story/school-swatting-textnow-ethiopia/)
+ - [‘Doctor Who’ Needs to Get Over Itself](https://www.wired.com/story/doctor-who-jodie-whittaker-end/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
