@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Owl House has TV’s best parents](https://www.polygon.com/23416676/the-owl-house-camila-eda-luz-parents)
- - [A single chip has managed to transfer the entire internet&#39;s traffic in a single second](https://www.pcgamer.com/a-single-chip-has-managed-to-transfer-the-entire-internets-traffic-in-a-single-second)
- - [This TikTok account is testing weird thermal paste patterns so you don&#39;t have to](https://www.pcgamer.com/this-tiktok-account-is-testing-weird-thermal-paste-patterns-so-you-dont-have-to)<!-- GAME:END -->
+ - [Aemond Targaryen is House of the Dragon’s most tragic character and its best villain](https://www.polygon.com/23419041/house-dragon-aemond-targaryen-death-dragon-sapphire-eye-villain-meaning)
+ - [First person shooters don’t need to be violent to be fun](https://www.polygon.com/dear-polygon/23416413/no-violence-games-first-person-shooters-powerwash-simulator-neon-white-slime-rancher-2)
+ - [The Owl House has TV’s best parents](https://www.polygon.com/23416676/the-owl-house-camila-eda-luz-parents)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
