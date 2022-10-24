@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Researchers find thousands of repos on GitHub offering fake proof-of-concept exploits for various vulnerabilities, with many of them containing malware instead &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221023/p12#a221023p12)
- - [&#39;House of the Dragon:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
- - [These Sneakers for Horses go for $1,200. Per Shoe     - CNET](https://www.cnet.com/culture/these-sneakers-for-horses-go-for-1200-per-shoe/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at the long-term impact on TSMC&#39;s business as the US seeks to reduce its dependency on Taiwanese chips and cut China off from key semiconductor supplies &lpar;Financial Times&rpar;](http://www.techmeme.com/221024/p1#a221024p1)
+ - [&#39;House of the Dragon&#39; Finale: What Page Did Alicent Send Rhaenyra?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-what-page-did-alicent-send-rhaenyra/#ftag=CAD590a51e)
+ - [Researchers find thousands of repos on GitHub offering fake proof-of-concept exploits for various vulnerabilities, with many of them containing malware instead &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221023/p12#a221023p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
