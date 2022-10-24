@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The latest version of Amazon’s orb-like Echo smart speaker is just $49.99 right now](https://www.theverge.com/2022/10/24/23420466/amazon-echo-apple-pencil-google-pixel-6a-bose-qc45-deal-sale)
- - [Nintendo Switch Sports Will Compensate Players for Recent Downtime     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-sports-will-come-back-online-this-week-after-bug-fix/#ftag=CAD590a51e)
- - [The EU is finally moving forward with its USB-C standard](https://www.androidauthority.com/eu-usb-c-standard-3223898/)<!-- TECH:END -->
+ - [New Wear OS teardown teases watch face backups and more Google Wallet features](https://www.androidauthority.com/wear-os-teardown-3223921/)
+ - [The Top New Features in MacOS Ventura &lpar;2022&rpar;: Compatiblity, How to Install MacOS 13](https://www.wired.com/story/apple-ventura-macos-13/)
+ - [macOS Ventura with Stage Manager, Continuity Camera &amp; more now available](https://appleinsider.com/articles/22/10/24/macos-ventura-with-stage-manager-continuity-camera-more-now-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
