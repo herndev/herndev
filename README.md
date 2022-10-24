@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
- - ⏩ [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
- - 👉 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)<!-- MEMES:END -->
+ - 💣 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
+ - 👉 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
 
 ---
 
