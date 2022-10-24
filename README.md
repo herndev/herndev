@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can watch 5 of the best horror movies ever made for free right now](https://www.polygon.com/what-to-watch/23416506/best-horror-movies-watch-free)
- - [The Disney Villains Game Is Having A Horny Racism Controversy](https://kotaku.com/disney-twisted-wonderland-frollo-hunchback-ios-android-1849694445)
- - [The Best New Marvel Game Makes Uncle Ben&#39;s Death A Good Thing](https://kotaku.com/marvel-snap-spider-man-uncle-ben-card-hearthstone-brode-1849694149)<!-- GAME:END -->
+ - [Trophy Dark is the role-playing game that offers doom instead of glory](https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg)
+ - [Henry Cavill says Black Adam was just the beginning of his Superman comeback](https://www.polygon.com/23420907/henry-cavill-superman-movies-black-adam-post-credits-scene)
+ - [The Dragon Prince’s new season 4 clip is a  big ol’ lore dump about the mysteries of Aaravos](https://www.polygon.com/23421199/dragon-prince-trailer-clip-mystery-aaravos)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
