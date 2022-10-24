@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at delivery startup Gopuff&#39;s rise, reaching 165 warehouses covering 600 US cities by 2020 and a $15B valuation by 2021, and fall, as pandemic trends fade &lpar;Bloomberg&rpar;](http://www.techmeme.com/221024/p25#a221024p25)
- - [FTC sanctions Uber-owned alcohol delivery company Drizly and its CEO for data privacy abuses; Drizly will have to implement new data controls and training &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221024/p24#a221024p24)
- - [Save over 50% on the Sony WH-XB910N, and more headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
+ - [Apple&#39;s new App Store guidelines say that social networking apps that let users buy &quot;boosts&quot; for social media posts must use IAPs for these transactions &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221024/p26#a221024p26)
+ - [Disney Plus’ ad-supported plan may not let you watch movies with far-away friends](https://www.theverge.com/2022/10/24/23420861/disney-plus-with-ads-removing-features-shareplay-groupwatch)
+ - [Soon Chrome will force you to upgrade from Windows 7](https://www.androidauthority.com/chome-support-ending-windows-7-3224063/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
