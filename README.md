@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These days I&#39;m missing contents like this](http://9gag.com/gag/aPgGO1Q)
- - ⏩ [Say cheese](http://9gag.com/gag/aVbPjQK)
- - 👉 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)<!-- MEMES:END -->
+ - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
+ - ⏩ [How women use Tinder](http://9gag.com/gag/a9qPgBK)
+ - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
 
 ---
 
