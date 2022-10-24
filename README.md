@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You definitely haven’t switched to eSIMs yet](https://www.androidauthority.com/switch-to-esims-poll-results-3223715/)
- - [A look at the long-term impact on TSMC&#39;s business as the US seeks to reduce its dependency on Taiwanese chips and cut China off from key semiconductor supplies &lpar;Financial Times&rpar;](http://www.techmeme.com/221024/p1#a221024p1)
- - [&#39;House of the Dragon&#39; Finale: What Page Did Alicent Send Rhaenyra?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-what-page-did-alicent-send-rhaenyra/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Camera Assistant lets you customize your stock camera app](https://www.androidauthority.com/samsung-camera-assistant-3223723/)
+ - [Exclusive: Ikea’s new Dirigera hub and Home smart app deliver big improvements](https://www.theverge.com/23420136/ikeas-dirigera-smart-home-review-price-specs)
+ - [We asked, you told us: You definitely haven’t switched to eSIMs yet](https://www.androidauthority.com/switch-to-esims-poll-results-3223715/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
