@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
- - ⏩ [This video gonna be deleted by 9gag soon.](http://9gag.com/gag/aL1B5Wx)
- - 👉 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)<!-- MEMES:END -->
+ - 💣 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
+ - ⏩ [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
+ - 👉 [Whew\u2026 that was close.](http://9gag.com/gag/a7qbxP2)<!-- MEMES:END -->
 
 ---
 
