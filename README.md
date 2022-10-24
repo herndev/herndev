@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you meet a person who&#39;s energy matches with yours](http://9gag.com/gag/a8qMb5Q)
+ - 💣 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
  - ⏩ [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 👉 [Terrible](http://9gag.com/gag/awZ76qy)<!-- MEMES:END -->
+ - 👉 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
 
 ---
 
