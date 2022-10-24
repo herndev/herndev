@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s macOS Ventura is heavy with security enhancements &amp; fixes](https://appleinsider.com/articles/22/10/24/apples-macos-ventura-is-heavy-with-security-enhancements-fixes?utm_medium=rss)
- - [How to get the new iOS 16.1 and macOS updates if you were on the beta](https://appleinsider.com/inside/ios-16/tips/how-to-remove-get-the-new-ios-161-and-macos-updates-if-you-were-on-the-beta?utm_medium=rss)
- - [Workers at Austin-based Alphabet subcontractor YouTube Music Content Operations file with NLRB for union recognition after the 58-strong group voted to do so &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221024/p23#a221024p23)<!-- TECH:END -->
+ - [A look at delivery startup Gopuff&#39;s rise, reaching 165 warehouses covering 600 US cities by 2020 and a $15B valuation by 2021, and fall, as pandemic trends fade &lpar;Bloomberg&rpar;](http://www.techmeme.com/221024/p25#a221024p25)
+ - [FTC sanctions Uber-owned alcohol delivery company Drizly and its CEO for data privacy abuses; Drizly will have to implement new data controls and training &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221024/p24#a221024p24)
+ - [Save over 50% on the Sony WH-XB910N, and more headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
