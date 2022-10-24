@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
- - ⏩ [Magic trick](http://9gag.com/gag/aDYmKZ9)
- - 👉 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
+ - 💣 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
+ - ⏩ [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)
+ - 👉 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
 
 ---
 
