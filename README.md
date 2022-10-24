@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s finally here: Galaxy S22 series is getting stable Android 13 now](https://www.androidauthority.com/samsung-galaxy-s22-series-stable-android-13-3223731/)
- - [Lost co-creator Damon Lindelof is latest filmmaker said to be developing new Star Wars film](https://www.theverge.com/2022/10/24/23420191/star-wars-film-development-lost-damon-lindelof-sharmeen-obaid-chinoy)
- - [Samsung Camera Assistant lets you customize your stock camera app](https://www.androidauthority.com/samsung-camera-assistant-3223723/)<!-- TECH:END -->
+ - [Sources: US banks backing Elon Musk&#39;s Twitter deal plan to hold all $13B of debt on their balance sheets rather than selling it, amid a difficult debt market &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p3#a221024p3)
+ - [The Pixel 6a is an absolute steal for just $299](https://www.androidauthority.com/google-pixel-6a-deal-amazon-3223228/)
+ - [Sources: Chinese memory chip maker YMTC asks core US staff to leave the company, after its CEO stepped down ahead of the latest US export controls announcement &lpar;Financial Times&rpar;](http://www.techmeme.com/221024/p2#a221024p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
