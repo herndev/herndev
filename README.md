@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [U2’s Bono sheds new light on infamous iTunes giveaway in upcoming memoir](https://www.theverge.com/2022/10/24/23420279/u2-bono-apple-itunes-songs-of-innocence-ipod-commercial)
- - [As President Xi Jinping consolidates his grip on China&#39;s ruling party, Alibaba, JD.com, Naspers, and other tech stocks drop by 10%+ &lpar;Henry Ren/Bloomberg&rpar;](http://www.techmeme.com/221024/p7#a221024p7)
+ - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)
+ - [iPad &lpar;10th gen&rpar; review: great performance and battery, lots of apps, and USB-C, but accessories are confusing and expensive, high price, and average display &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/221024/p11#a221024p11)
  - [An unapologetically plastic iPad isn&#39;t going to happen](https://appleinsider.com/articles/22/10/24/an-unapologetically-plastic-ipad-isnt-going-to-happen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
