@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Researchers find thousands of repos on GitHub offering fake proof-of-concept exploits for various vulnerabilities, with many of them containing malware instead &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221023/p12#a221023p12)
- - [FTX to provide $6M in compensation to account holders impacted by a phishing incident via a 3rd-party site but says this kind of relief will not become the norm &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/221023/p11#a221023p11)
- - [&#39;House of the Dragon&#39; Finale Recap: This Means War     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-recap-this-means-war/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;House of the Dragon:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [These Sneakers for Horses go for $1,200. Per Shoe     - CNET](https://www.cnet.com/culture/these-sneakers-for-horses-go-for-1200-per-shoe/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
