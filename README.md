@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Aemond Targaryen is House of the Dragon’s most tragic character and its best villain](https://www.polygon.com/23419041/house-dragon-aemond-targaryen-death-dragon-sapphire-eye-villain-meaning)
- - [First person shooters don’t need to be violent to be fun](https://www.polygon.com/dear-polygon/23416413/no-violence-games-first-person-shooters-powerwash-simulator-neon-white-slime-rancher-2)
- - [The Owl House has TV’s best parents](https://www.polygon.com/23416676/the-owl-house-camila-eda-luz-parents)<!-- GAME:END -->
+ - [River City Girls 2: New Marian gameplay and character design details revealed](https://blog.playstation.com/2022/10/24/river-city-girls-2-new-marian-gameplay-and-character-design-details-revealed/)
+ - [Resident Evil Village’s DLC feels like Capcom has already moved on](https://www.polygon.com/reviews/23417051/resident-evil-village-winters-expansion-shadows-of-rose-review-third-person-release-date)
+ - [God Of War Ragnarök Spoilers Are Beginning To Leak By Accident](https://kotaku.com/god-war-ragnarok-ps4-ps5-spoilers-atreus-kratos-thor-1849693193)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
