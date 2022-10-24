@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Updated App Store guidelines say that apps may sell NFTs via IAP and display NFTs, provided that NFT ownership does not unlock in-app features &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/221024/p21#a221024p21)
- - [Microsoft’s Windows-flavored Android 12L arrives on the Surface Duo](https://www.theverge.com/2022/10/24/23420966/microsoft-windows-flavored-android-12l-arrives-on-surface-duo)
- - [Riot delays two League of Legends spinoffs](https://www.theverge.com/2022/10/24/23421210/riot-forge-convergence-song-of-nunu-delay-league-of-legends)<!-- TECH:END -->
+ - [Apple&#39;s macOS Ventura is heavy with security enhancements &amp; fixes](https://appleinsider.com/articles/22/10/24/apples-macos-ventura-is-heavy-with-security-enhancements-fixes?utm_medium=rss)
+ - [How to get the new iOS 16.1 and macOS updates if you were on the beta](https://appleinsider.com/inside/ios-16/tips/how-to-remove-get-the-new-ios-161-and-macos-updates-if-you-were-on-the-beta?utm_medium=rss)
+ - [Workers at Austin-based Alphabet subcontractor YouTube Music Content Operations file with NLRB for union recognition after the 58-strong group voted to do so &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221024/p23#a221024p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
