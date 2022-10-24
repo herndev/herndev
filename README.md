@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Is your Android smartphone rooted?](https://www.androidauthority.com/android-smartphone-root-poll-3223786/)
- - [iPadOS 16’s Stage Manager is not the future of multitasking you were hoping for](https://www.theverge.com/23420280/ipados-16-stage-manager-review)
- - [PayPal is getting more secure passkey logins](https://www.theverge.com/2022/10/24/23420251/paypal-passkey-security-apple-platforms)<!-- TECH:END -->
+ - [The latest version of Amazon’s orb-like Echo smart speaker is just $49.99 right now](https://www.theverge.com/2022/10/24/23420466/amazon-echo-apple-pencil-google-pixel-6a-bose-qc45-deal-sale)
+ - [Nintendo Switch Sports Will Compensate Players for Recent Downtime     - CNET](https://www.cnet.com/tech/gaming/nintendo-switch-sports-will-come-back-online-this-week-after-bug-fix/#ftag=CAD590a51e)
+ - [The EU is finally moving forward with its USB-C standard](https://www.androidauthority.com/eu-usb-c-standard-3223898/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
