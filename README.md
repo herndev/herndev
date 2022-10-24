@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Activision Blizzard exec accused by union group of ‘anti-union propaganda’ in Slack](https://www.polygon.com/23421565/activision-blizzard-new-unfair-labor-complaint-nlrb)
- - [Halloween Stores Are Now Dominated By Fortnite](https://kotaku.com/spirit-halloween-store-fortnite-video-game-costumes-1849696009)
- - [From his hospital bed, this young Valorant player demolished the opposing team](https://www.pcgamer.com/from-his-hospital-bed-this-young-valorant-player-demolished-the-opposing-team)<!-- GAME:END -->
+ - [&#39;Sexual assault&#39; custom game mode reveals a glaring Overwatch moderation problem](https://www.pcgamer.com/sexual-assault-custom-game-mode-reveals-a-glaring-overwatch-moderation-problem)
+ - [House of the Dragon scorched earth with a single shot of Rhaenyra](https://www.polygon.com/23421693/house-dragon-finale-recap-episode-10-rhaenyra-daemon)
+ - [This gaming chair will literally keep you on the edge of your seat](https://www.pcgamer.com/this-gaming-chair-will-literally-keep-you-on-the-edge-of-your-seat)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
