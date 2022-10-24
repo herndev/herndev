@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I could spend all day looking at House of the Dragon’s glowing map table](https://www.polygon.com/23419109/house-dragon-painted-table-map)
- - [House of the Dragon’s big finale moment was exactly what we’ve been waiting for](https://www.polygon.com/23419108/house-dragon-aemond-lucerys-vhagar-battle)
- - [Having trouble finding an RTX 4090? It may be about to get harder](https://www.pcgamer.com/having-trouble-finding-an-rtx-4090-it-may-be-about-to-get-harder)<!-- GAME:END -->
+ - [All the dragons in House of the Dragon](https://www.polygon.com/23381183/house-dragon-all-dragons-riders-vhagar)
+ - [Secret messages found in Silent Hill Townfall&#39;s promotional material](https://www.pcgamer.com/secret-messages-found-in-silent-hill-townfalls-promotional-material)
+ - [I could spend all day looking at House of the Dragon’s glowing map table](https://www.polygon.com/23419109/house-dragon-painted-table-map)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
