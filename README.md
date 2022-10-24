@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ charges two Chinese intelligence officers with trying to subvert a criminal probe, sources say into Huawei, by offering bribes to a US double agent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p18#a221024p18)
- - [Vergecast: Short passwords, baby cybersecurity, and choosing a VPN](https://www.theverge.com/2022/10/24/23420989/best-password-vpn-cybersecurity-vergecast-podcast)
- - [Slow microSD download speeds on your Steam Deck? There’s a fix for that](https://www.theverge.com/23415294/valve-steam-deck-microsd-card-slow-download-speed-fix-how-to)<!-- TECH:END -->
+ - [Updated App Store guidelines say that apps may sell NFTs via IAP and display NFTs, provided that NFT ownership does not unlock in-app features &lpar;Filipe Esp&amp;oacute;sito/9to5Mac&rpar;](http://www.techmeme.com/221024/p21#a221024p21)
+ - [Microsoft’s Windows-flavored Android 12L arrives on the Surface Duo](https://www.theverge.com/2022/10/24/23420966/microsoft-windows-flavored-android-12l-arrives-on-surface-duo)
+ - [Riot delays two League of Legends spinoffs](https://www.theverge.com/2022/10/24/23421210/riot-forge-convergence-song-of-nunu-delay-league-of-legends)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
