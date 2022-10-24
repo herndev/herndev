@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Wear OS teardown teases watch face backups and more Google Wallet features](https://www.androidauthority.com/wear-os-teardown-3223921/)
- - [The Top New Features in MacOS Ventura &lpar;2022&rpar;: Compatiblity, How to Install MacOS 13](https://www.wired.com/story/apple-ventura-macos-13/)
- - [macOS Ventura with Stage Manager, Continuity Camera &amp; more now available](https://appleinsider.com/articles/22/10/24/macos-ventura-with-stage-manager-continuity-camera-more-now-available?utm_medium=rss)<!-- TECH:END -->
+ - [The US DOJ charges two Chinese intelligence officers with trying to subvert a criminal probe, sources say into Huawei, by offering bribes to a US double agent &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221024/p18#a221024p18)
+ - [Vergecast: Short passwords, baby cybersecurity, and choosing a VPN](https://www.theverge.com/2022/10/24/23420989/best-password-vpn-cybersecurity-vergecast-podcast)
+ - [Slow microSD download speeds on your Steam Deck? There’s a fix for that](https://www.theverge.com/23415294/valve-steam-deck-microsd-card-slow-download-speed-fix-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
