@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)
- - [iPad &lpar;10th gen&rpar; review: great performance and battery, lots of apps, and USB-C, but accessories are confusing and expensive, high price, and average display &lpar;Dan Seifert/The Verge&rpar;](http://www.techmeme.com/221024/p11#a221024p11)
- - [An unapologetically plastic iPad isn&#39;t going to happen](https://appleinsider.com/articles/22/10/24/an-unapologetically-plastic-ipad-isnt-going-to-happen?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube’s new design makes it easier to fast-forward or rewind to the right part](https://www.theverge.com/2022/10/24/23420519/youtube-ui-redesign-desktop-mobile-seek-zoom-buttons)
+ - [10.9-inch iPad review roundup: Strange compromises, oddly placed in Apple&#39;s lineup](https://appleinsider.com/articles/22/10/24/109-inch-ipad-review-roundup-strange-compromises-oddly-placed-in-apples-lineup?utm_medium=rss)
+ - [Falling bond prices are affecting Apple&#39;s cash reserves](https://appleinsider.com/articles/22/10/24/falling-bond-prices-are-affecting-apples-cash-reserves?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
