@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
- - ⏩ [Justice](http://9gag.com/gag/avQLjwb)
- - 👉 [How women use Tinder](http://9gag.com/gag/a9qPgBK)<!-- MEMES:END -->
+ - 💣 [Justice](http://9gag.com/gag/avQLjwb)
+ - ⏩ [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
+ - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
 
 ---
 
