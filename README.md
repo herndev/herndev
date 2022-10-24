@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
- - ⏩ [Cool guy Uber driver](http://9gag.com/gag/anzBL4q)
- - 👉 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
+ - 💣 [These days I&#39;m missing contents like this](http://9gag.com/gag/aPgGO1Q)
+ - ⏩ [Say cheese](http://9gag.com/gag/aVbPjQK)
+ - 👉 [Not a muslim country anymore](http://9gag.com/gag/a1PMpYw)<!-- MEMES:END -->
 
 ---
 
