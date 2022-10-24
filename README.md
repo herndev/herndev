@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Making a kid buy back the letters he wrote his father...](http://9gag.com/gag/aDYoAYO)
+ - 💣 [When you meet a person who&#39;s energy matches with yours](http://9gag.com/gag/a8qMb5Q)
  - ⏩ [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
+ - 👉 [Terrible](http://9gag.com/gag/awZ76qy)<!-- MEMES:END -->
 
 ---
 
