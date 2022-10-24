@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s new App Store guidelines say that social networking apps that let users buy &quot;boosts&quot; for social media posts must use IAPs for these transactions &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221024/p26#a221024p26)
- - [Disney Plus’ ad-supported plan may not let you watch movies with far-away friends](https://www.theverge.com/2022/10/24/23420861/disney-plus-with-ads-removing-features-shareplay-groupwatch)
- - [Soon Chrome will force you to upgrade from Windows 7](https://www.androidauthority.com/chome-support-ending-windows-7-3224063/)<!-- TECH:END -->
+ - [FTC Takes Action Against Drizly for 2020 Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-action-against-drizly-for-2020-data-breach/#ftag=CAD590a51e)
+ - [Best Buy Upgrade Plus financing lets you pay for that new MacBook over three years](https://www.theverge.com/2022/10/24/23421659/best-buy-macbook-subscription-program-apple)
+ - [Israeli cybersecurity startup Snyk is laying off 198 people, ~14% of its staff, after letting go 30 people in July; Snyk was valued at $8.5B in September 2021 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221024/p29#a221024p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
