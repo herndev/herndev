@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Justice](http://9gag.com/gag/avQLjwb)
+ - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
  - ⏩ [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)
- - 👉 [Pictures that define history](http://9gag.com/gag/ajVnwEw)<!-- MEMES:END -->
+ - 👉 [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)<!-- MEMES:END -->
 
 ---
 
