@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [River City Girls 2: New Marian gameplay and character design details revealed](https://blog.playstation.com/2022/10/24/river-city-girls-2-new-marian-gameplay-and-character-design-details-revealed/)
- - [Resident Evil Village’s DLC feels like Capcom has already moved on](https://www.polygon.com/reviews/23417051/resident-evil-village-winters-expansion-shadows-of-rose-review-third-person-release-date)
- - [God Of War Ragnarök Spoilers Are Beginning To Leak By Accident](https://kotaku.com/god-war-ragnarok-ps4-ps5-spoilers-atreus-kratos-thor-1849693193)<!-- GAME:END -->
+ - [Victoria 3: The Kotaku Review](https://kotaku.com/victoria-3-review-paradox-pc-kotaku-impressions-verdict-1849669988)
+ - [Modern Warfare 2’s Amsterdam Looks Incredible…At First Glance](https://kotaku.com/call-duty-mw2-amsterdam-graphics-activision-ps5-1849693716)
+ - [How Bayonetta the witch cast a spell on LGBTQ+ fans](https://www.polygon.com/23417059/bayonetta-3-lgbtq-gay-queer-icon-fandom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
