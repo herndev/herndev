@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The MCU’s newest superhero just got her hands on one of Marvel universe’s worst WMDs](https://www.polygon.com/2022/10/24/23416774/iron-man-ironheart-marvel-comics-ten-rings-mandarin)
- - [Where to find every Vaultlander in New Tales from the Borderlands](https://www.polygon.com/guides/23413017/vaultlander-locations-collectibles-episode-chapter)
- - [What is Marvel Snap and why is it suddenly so popular?](https://www.polygon.com/gaming/23421167/marvel-snap-how-to-play-rules)<!-- GAME:END -->
+ - [Halloween Stores Are Now Dominated By Fortnite](https://kotaku.com/spirit-halloween-store-fortnite-video-game-costumes-1849696009)
+ - [Marvel Snap’s best decks for beginners](https://www.polygon.com/guides/23420688/marvel-snap-best-decks-new-cards-beginners-pool-1)
+ - [The MCU’s newest superhero just got her hands on one of Marvel universe’s worst WMDs](https://www.polygon.com/2022/10/24/23416774/iron-man-ironheart-marvel-comics-ten-rings-mandarin)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
