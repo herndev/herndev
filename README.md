@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Camera Assistant lets you customize your stock camera app](https://www.androidauthority.com/samsung-camera-assistant-3223723/)
- - [Exclusive: Ikea’s new Dirigera hub and Home smart app deliver big improvements](https://www.theverge.com/23420136/ikeas-dirigera-smart-home-review-price-specs)
- - [We asked, you told us: You definitely haven’t switched to eSIMs yet](https://www.androidauthority.com/switch-to-esims-poll-results-3223715/)<!-- TECH:END -->
+ - [It’s finally here: Galaxy S22 series is getting stable Android 13 now](https://www.androidauthority.com/samsung-galaxy-s22-series-stable-android-13-3223731/)
+ - [Lost co-creator Damon Lindelof is latest filmmaker said to be developing new Star Wars film](https://www.theverge.com/2022/10/24/23420191/star-wars-film-development-lost-damon-lindelof-sharmeen-obaid-chinoy)
+ - [Samsung Camera Assistant lets you customize your stock camera app](https://www.androidauthority.com/samsung-camera-assistant-3223723/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
