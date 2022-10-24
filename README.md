@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bit sus tbh](http://9gag.com/gag/a4oLeQ6)
- - ⏩ [Pictures that define history](http://9gag.com/gag/ajVnwEw)
+ - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
+ - ⏩ [Cool guy Uber driver](http://9gag.com/gag/anzBL4q)
  - 👉 [Wow she&#39;s indipendnt..](http://9gag.com/gag/ajVnbqq)<!-- MEMES:END -->
 
 ---
