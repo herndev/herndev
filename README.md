@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
- - ⏩ [How women use Tinder](http://9gag.com/gag/a9qPgBK)
- - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
+ - 💣 [Pictures that define history](http://9gag.com/gag/ajVnwEw)
+ - ⏩ [Justice](http://9gag.com/gag/avQLjwb)
+ - 👉 [How women use Tinder](http://9gag.com/gag/a9qPgBK)<!-- MEMES:END -->
 
 ---
 
