@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: You definitely haven’t switched to eSIMs yet](https://www.androidauthority.com/switch-to-esims-poll-results-3223715/)
  - [A look at the long-term impact on TSMC&#39;s business as the US seeks to reduce its dependency on Taiwanese chips and cut China off from key semiconductor supplies &lpar;Financial Times&rpar;](http://www.techmeme.com/221024/p1#a221024p1)
- - [&#39;House of the Dragon&#39; Finale: What Page Did Alicent Send Rhaenyra?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-what-page-did-alicent-send-rhaenyra/#ftag=CAD590a51e)
- - [Researchers find thousands of repos on GitHub offering fake proof-of-concept exploits for various vulnerabilities, with many of them containing malware instead &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221023/p12#a221023p12)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Finale: What Page Did Alicent Send Rhaenyra?     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-finale-what-page-did-alicent-send-rhaenyra/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
