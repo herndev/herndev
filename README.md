@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trophy Dark is the role-playing game that offers doom instead of glory](https://www.polygon.com/reviews/23416587/trophy-dark-review-rpg)
- - [Henry Cavill says Black Adam was just the beginning of his Superman comeback](https://www.polygon.com/23420907/henry-cavill-superman-movies-black-adam-post-credits-scene)
- - [The Dragon Prince’s new season 4 clip is a  big ol’ lore dump about the mysteries of Aaravos](https://www.polygon.com/23421199/dragon-prince-trailer-clip-mystery-aaravos)<!-- GAME:END -->
+ - [The MCU’s newest superhero just got her hands on one of Marvel universe’s worst WMDs](https://www.polygon.com/2022/10/24/23416774/iron-man-ironheart-marvel-comics-ten-rings-mandarin)
+ - [Where to find every Vaultlander in New Tales from the Borderlands](https://www.polygon.com/guides/23413017/vaultlander-locations-collectibles-episode-chapter)
+ - [What is Marvel Snap and why is it suddenly so popular?](https://www.polygon.com/gaming/23421167/marvel-snap-how-to-play-rules)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
