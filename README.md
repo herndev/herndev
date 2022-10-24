@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagi\u2026.. nvm\u2026.. it\u2019s a prank right? It has GOT to be a prank\u2026..](http://9gag.com/gag/aZDN9op)
- - ⏩ [Victim mentality vs Victor mentality - right on the spot](http://9gag.com/gag/aDYmy5d)
- - 👉 [Killer costume meme](http://9gag.com/gag/aWG6ZW3)<!-- MEMES:END -->
+ - 💣 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)
+ - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
+ - 👉 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
 
 ---
 
