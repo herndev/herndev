@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Activision Blizzard exec accused by union group of ‘anti-union propaganda’ in Slack](https://www.polygon.com/23421565/activision-blizzard-new-unfair-labor-complaint-nlrb)
  - [Halloween Stores Are Now Dominated By Fortnite](https://kotaku.com/spirit-halloween-store-fortnite-video-game-costumes-1849696009)
- - [Marvel Snap’s best decks for beginners](https://www.polygon.com/guides/23420688/marvel-snap-best-decks-new-cards-beginners-pool-1)
- - [The MCU’s newest superhero just got her hands on one of Marvel universe’s worst WMDs](https://www.polygon.com/2022/10/24/23416774/iron-man-ironheart-marvel-comics-ten-rings-mandarin)<!-- GAME:END -->
+ - [From his hospital bed, this young Valorant player demolished the opposing team](https://www.pcgamer.com/from-his-hospital-bed-this-young-valorant-player-demolished-the-opposing-team)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
