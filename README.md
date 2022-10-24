@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Clock app in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-the-clock-app-in-macos-ventura?utm_medium=rss)
- - [Hot on the Trail of a Mass-School-Shooting Hoaxer](https://www.wired.com/story/school-swatting-textnow-ethiopia/)
- - [‘Doctor Who’ Needs to Get Over Itself](https://www.wired.com/story/doctor-who-jodie-whittaker-end/)<!-- TECH:END -->
+ - [U2’s Bono sheds new light on infamous iTunes giveaway in upcoming memoir](https://www.theverge.com/2022/10/24/23420279/u2-bono-apple-itunes-songs-of-innocence-ipod-commercial)
+ - [As President Xi Jinping consolidates his grip on China&#39;s ruling party, Alibaba, JD.com, Naspers, and other tech stocks drop by 10%+ &lpar;Henry Ren/Bloomberg&rpar;](http://www.techmeme.com/221024/p7#a221024p7)
+ - [An unapologetically plastic iPad isn&#39;t going to happen](https://appleinsider.com/articles/22/10/24/an-unapologetically-plastic-ipad-isnt-going-to-happen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
