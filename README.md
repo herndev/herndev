@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: 493 answer and hint for Tuesday, October 25](https://www.pcgamer.com/wordle-today-493-answer-hint)
  - [Explore endless roads in this beautiful driving game that runs in your browser](https://www.pcgamer.com/explore-endless-roads-in-this-beautiful-driving-game-that-runs-in-your-browser)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 24&rpar;](https://news.xbox.com/en-us/2022/10/24/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-24/)
- - [Our Favorite Cosplay From Dragon Con 2022](https://kotaku.com/cosplay-photo-video-gallery-dragon-con-2022-atlanta-1849697288)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 24&rpar;](https://news.xbox.com/en-us/2022/10/24/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-24/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
