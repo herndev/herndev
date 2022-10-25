@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now 200MP cameras are coming to budget phones](https://www.androidauthority.com/200mp-camera-mid-range-phone-redmi-3223744/)
- - [Sources: Microsoft is stocking up on Chinese games to emulate Sony&#39;s success with Genshin Impact; filings: Microsoft paid $4.8M for Snail Games&#39; ARK and ARK 2 &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221025/p2#a221025p2)
- - [Crafty College Students Design Helmets to Thwart Exam Cheating     - CNET](https://www.cnet.com/culture/crafty-college-students-design-helmets-to-thwart-exam-cheating/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp is down in a major outage](https://www.theverge.com/2022/10/25/23422343/whatsapp-down-outage)
+ - [Funtouch OS 13 is here: What to know about Vivo’s new Android 13 skin](https://www.androidauthority.com/vivo-funtouch-os-13-3224209/)
+ - [Is WhatsApp not working? Here are 10 easy fixes you can try](https://www.androidauthority.com/whatsapp-not-working-1008477/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
