@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 8 great ‘psychotic women’ movies](https://www.polygon.com/what-to-watch/23409525/best-horror-movies-women-psychological-thrillers)
- - [The best Chainsaw Man fights](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)
- - [Bayonetta 3 Reviews Say It’s Stylish And Fun But Flubs The Ending](https://kotaku.com/bayonetta-3-platinum-games-nintendo-sega-reviews-ending-1849700728)<!-- GAME:END -->
+ - [Gotham Knights’ Cops Are The Only Enemies That Don’t Give XP](https://kotaku.com/batman-gotham-knights-game-cops-ps5-xbox-court-of-owls-1849701213)
+ - [I’d pet Pokémon’s newest dog Greavard, even if it cost me my life](https://www.polygon.com/pokemon/23422976/pokemon-scarlet-violet-greavard-emo)
+ - [After 18 years, the precursor to Garry&#39;s Mod appears on Steam](https://www.pcgamer.com/after-18-years-the-precursor-to-garrys-mod-appears-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
