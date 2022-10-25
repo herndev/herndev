@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In a new Marvel card game, you kill Uncle Ben to get Spider-Man](https://www.pcgamer.com/in-a-new-marvel-card-game-you-kill-uncle-ben-to-get-spider-man)
- - [Overwatch 2 Halloween Twitch Drops: How To Grab A Winston Werewolf Skin &lpar;And More&rpar;](https://kotaku.com/overwatch-2-halloween-twitch-drops-winston-reinhardt-br-1849698847)
- - [New seasons of Doctor Who to stream on Disney Plus in 2023](https://www.polygon.com/23422605/doctor-who-disney-plus-bbc-david-tennant)<!-- GAME:END -->
+ - [Signalis is a near pitch-perfect ode to Resident Evil and Silent Hill](https://www.polygon.com/reviews/23402312/survival-horror-game-signalis-review-game-pass-platforms-release-date)
+ - [In Night Eaters, Turning Red’s generational tension meets giant, bloody orifice demons](https://www.polygon.com/23416832/night-eaters-she-eats-the-night-marjorie-liu-sana-takeda-free-sample)
+ - [Shutterstock to offer AI art tool to users and pay artists who helped train it](https://www.pcgamer.com/shutterstock-to-offer-ai-art-tool-to-users-and-pay-artists-who-helped-train-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
