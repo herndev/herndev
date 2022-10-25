@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Daddy ryan](http://9gag.com/gag/a1PMd42)
- - ⏩ [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
- - 👉 [She needs money fast](http://9gag.com/gag/aYVeKRO)<!-- MEMES:END -->
+ - 💣 [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - ⏩ [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - 👉 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
 
 ---
 
