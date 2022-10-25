@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wordle today: 493 answer and hint for Tuesday, October 25](https://www.pcgamer.com/wordle-today-493-answer-hint)
- - [Explore endless roads in this beautiful driving game that runs in your browser](https://www.pcgamer.com/explore-endless-roads-in-this-beautiful-driving-game-that-runs-in-your-browser)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 24&rpar;](https://news.xbox.com/en-us/2022/10/24/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-24/)<!-- GAME:END -->
+ - [Modern Warfare 2 safe codes for Alone and El Sin Nombre](https://www.pcgamer.com/call-of-duty-modern-warfare-2-mw2-safe-codes)
+ - [Dark Souls 2: Scholar of the First Sin is back online, but original Dark Souls is offline forever](https://www.pcgamer.com/dark-souls-2-scholar-of-the-first-sin-is-back-online-but-original-dark-souls-is-offline-forever)
+ - [Terra Invicta beginner&#39;s guide: Five things to know before getting started](https://www.pcgamer.com/terra-invicta-beginners-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
