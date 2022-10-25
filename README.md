@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Daddy ryan](http://9gag.com/gag/a1PMd42)
- - ⏩ [Finally true equality](http://9gag.com/gag/avQPrgO)
- - 👉 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
+ - ⏩ [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
+ - 👉 [She needs money fast](http://9gag.com/gag/aYVeKRO)<!-- MEMES:END -->
 
 ---
 
