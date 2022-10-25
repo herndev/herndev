@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
- - ⏩ [Why tho?](http://9gag.com/gag/aREAVOy)
- - 👉 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)<!-- MEMES:END -->
+ - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - ⏩ [What Anime Has Both:](http://9gag.com/gag/aVbXnRP)
+ - 👉 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
 
 ---
 
