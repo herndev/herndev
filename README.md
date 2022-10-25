@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iranian women without hijab and not giving to shits about the morality police that is trying to advise them, Tehran-Iran, October 25](http://9gag.com/gag/agoVG2v)
- - ⏩ [I&#39;d wet my pants](http://9gag.com/gag/a3ZBjPm)
- - 👉 [Pest control kitty](http://9gag.com/gag/aVbPDD2)<!-- MEMES:END -->
+ - 💣 [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
+ - ⏩ [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - 👉 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
 
 ---
 
