@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Age of Empires IV is coming to Xbox Game Pass in 2023](https://www.theverge.com/2022/10/25/23422822/age-of-empires-iv-xbox-game-pass-series-x-s-console-november-2022)
- - [Gloomwood is my new favorite knocking-guys-out simulator](https://www.theverge.com/23422582/gloomwood-new-blood-interactive-stealth-game-early-access-hands-on)
- - [Apple issues first developer beta for iOS 16.2, iPadOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/10/25/apple-issues-first-developer-beta-for-ios-162-ipados-162-watchos-92?utm_medium=rss)<!-- TECH:END -->
+ - [Samsung’s new ‘Maintenance Mode’ protects privacy as your device is repaired](https://www.androidauthority.com/samsung-maintenance-mode-3224458/)
+ - [New ad placements in App Store Today and product pages are live](https://appleinsider.com/articles/22/10/25/new-ad-placements-in-app-store-today-and-product-pages-are-live?utm_medium=rss)
+ - [Age of Empires is coming to a mobile device near you](https://www.theverge.com/2022/10/25/23423207/age-of-empires-mobile-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
