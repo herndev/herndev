@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The UK&#39;s FCA plans to investigate Apple, Amazon, Google, and Meta&#39;s moves into retail financial services over competition and consumer harm concerns &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221025/p4#a221025p4)
- - [The Daily Authority: EU approves USB-C](https://www.androidauthority.com/da-october-25-2022-3223887/)
- - [You told us: You’re not sure if you’re using any 32-bit Android apps](https://www.androidauthority.com/use-32-bit-only-android-apps-poll-results-3224238/)<!-- TECH:END -->
+ - [The Hunt for the Dark Web’s Biggest Kingpin, Part 1: The Shadow](https://www.wired.com/story/alphabay-series-part-1-the-shadow/)
+ - [EcoFlow’s redesigned River 2 batteries double as kettle bells](https://www.theverge.com/2022/10/25/23422380/ecoflow-river-2-max-pro-specs-price-date)
+ - [Wikimedia begins rolling out updated editing features for new contributors, such as mentorship and suggestions for cross-linking articles and other first steps &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221025/p6#a221025p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
