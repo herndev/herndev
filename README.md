@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp is down in a major outage](https://www.theverge.com/2022/10/25/23422343/whatsapp-down-outage)
- - [Funtouch OS 13 is here: What to know about Vivo’s new Android 13 skin](https://www.androidauthority.com/vivo-funtouch-os-13-3224209/)
- - [Is WhatsApp not working? Here are 10 easy fixes you can try](https://www.androidauthority.com/whatsapp-not-working-1008477/)<!-- TECH:END -->
+ - [The UK&#39;s FCA plans to investigate Apple, Amazon, Google, and Meta&#39;s moves into retail financial services over competition and consumer harm concerns &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221025/p4#a221025p4)
+ - [The Daily Authority: EU approves USB-C](https://www.androidauthority.com/da-october-25-2022-3223887/)
+ - [You told us: You’re not sure if you’re using any 32-bit Android apps](https://www.androidauthority.com/use-32-bit-only-android-apps-poll-results-3224238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
