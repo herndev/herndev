@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Terrible](http://9gag.com/gag/awZ76qy)
- - ⏩ [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - 👉 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
+ - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - ⏩ [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
+ - 👉 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
 
 ---
 
