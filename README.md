@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BitMEX CEO Alexander H&amp;ouml;ptner steps down as CEO of the crypto exchange with immediate effect, replaced by CFO Stephan Lutz; H&amp;ouml;ptner joined BitMEX in 2021 &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221025/p12#a221025p12)
- - [Getty Images CEO says firms racing to sell AI art could be stepping into illegal territory](https://www.theverge.com/2022/10/25/23422412/getty-images-ai-art-banned-dangerous-bria-partnership)
- - [UK considering antitrust regulations on Apple Card &amp; other big tech financial programs](https://appleinsider.com/articles/22/10/25/uk-considering-antitrust-regulations-on-apple-card-other-big-tech-financial-programs?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon begins letting select US customers make payments using Venmo, and plans to roll out the option to all US shoppers before Black Friday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221025/p16#a221025p16)
+ - [Microsoft Surface Pro 9 review: 120Hz display, 5G, and 1080p camera, but pricey without accessories, slow apps, and just two USB ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/221025/p15#a221025p15)
+ - [Wyze’s new outdoor camera adds 2K resolution and faster person detection](https://www.theverge.com/2022/10/24/23420428/wyze-cam-v3-pro-camera-price-release-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
