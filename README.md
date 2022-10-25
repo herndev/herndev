@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [&#39;Sexual assault&#39; custom game mode reveals a glaring Overwatch moderation problem](https://www.pcgamer.com/sexual-assault-custom-game-mode-reveals-a-glaring-overwatch-moderation-problem)
- - [House of the Dragon scorched earth with a single shot of Rhaenyra](https://www.polygon.com/23421693/house-dragon-finale-recap-episode-10-rhaenyra-daemon)
- - [This gaming chair will literally keep you on the edge of your seat](https://www.pcgamer.com/this-gaming-chair-will-literally-keep-you-on-the-edge-of-your-seat)<!-- GAME:END -->
+ - [The Tenants, A Landlord Video Game, Is Pure Fantasy](https://kotaku.com/the-tenants-indie-pc-steam-game-new-release-the-sims-1849697036)
+ - [10 Final Fantasy 14 tips to conquer tank anxiety](https://www.pcgamer.com/final-fantasy-14-tanking-guide-tips)
+ - [V Rising, the other vampire survival hit of 2022, is going free to play for Halloween](https://www.pcgamer.com/v-rising-the-other-vampire-survival-hit-of-2022-is-going-free-to-play-for-halloween)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
