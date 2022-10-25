@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To be this chilled when losing control of a car traveling at 120mph](http://9gag.com/gag/aDYo06d)
- - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
- - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
+ - 💣 [A developed country is not a place where the poor have cars, It\u2019s where the rich use public transpo](http://9gag.com/gag/aKEqPDW)
+ - ⏩ [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - 👉 [Had me in the first half.](http://9gag.com/gag/aoKjB7A)<!-- MEMES:END -->
 
 ---
 
