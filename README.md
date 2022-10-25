@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - ⏩ [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
- - 👉 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
+ - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
+ - ⏩ [Why tho?](http://9gag.com/gag/aREAVOy)
+ - 👉 [She sounds like a car alarm](http://9gag.com/gag/a8qMdwe)<!-- MEMES:END -->
 
 ---
 
