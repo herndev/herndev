@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;House of the Dragon&#39; Wants You to Trust &#39;Game of Thrones&#39; Again](https://www.wired.com/story/house-of-the-dragon-season-1-finale/)
- - [Bumble open sources Private Detector, an AI tool the company launched in 2019 to detect unsolicited lewd images; Bumble claims the tool has a 98%+ accuracy rate &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221024/p31#a221024p31)
- - [Cats Might Be Better Listeners Than We All Thought     - CNET](https://www.cnet.com/science/cats-might-be-better-listeners-than-we-all-thought/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Early Black Friday Samsung TV deals: save up to $3,000 on The Frame, Neo 4K, 8K, OLED TVs](https://appleinsider.com/articles/22/10/24/early-black-friday-samsung-tv-deals-save-up-to-3000-on-the-frame-neo-4k-8k-oled-tvs?utm_medium=rss)
+ - [NEAR Protocol&#39;s stablecoin USN, launched in April 2022, is shutting down to &quot;safeguard USN holders&quot; after it exhibited risky characteristics similar to TerraUSD &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/221024/p32#a221024p32)
+ - [Urban Armor Gear releases rugged cases for 10th-gen iPad](https://appleinsider.com/articles/22/10/24/urban-armor-gear-releases-rugged-cases-for-10th-gen-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
