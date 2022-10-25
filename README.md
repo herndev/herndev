@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
- - ⏩ [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
- - 👉 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
+ - 💣 [To be this chilled when losing control of a car traveling at 120mph](http://9gag.com/gag/aDYo06d)
+ - ⏩ [Terrible](http://9gag.com/gag/awZ76qy)
+ - 👉 [Da F....??](http://9gag.com/gag/agoNWZx)<!-- MEMES:END -->
 
 ---
 
