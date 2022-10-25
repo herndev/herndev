@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
+ - 💣 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
  - ⏩ [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - 👉 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
+ - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 ---
 
