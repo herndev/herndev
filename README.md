@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s new ‘Maintenance Mode’ protects privacy as your device is repaired](https://www.androidauthority.com/samsung-maintenance-mode-3224458/)
- - [New ad placements in App Store Today and product pages are live](https://appleinsider.com/articles/22/10/25/new-ad-placements-in-app-store-today-and-product-pages-are-live?utm_medium=rss)
- - [Age of Empires is coming to a mobile device near you](https://www.theverge.com/2022/10/25/23423207/age-of-empires-mobile-microsoft)<!-- TECH:END -->
+ - [iPadOS 16.2 beta adds external display support for Stage Manager and includes Freeform](https://www.theverge.com/2022/10/25/23423192/ipados-16-2-beta-external-display-stage-manager)
+ - [Internal research: Twitter has been losing &quot;heavy tweeters&quot;, who tweet more than three times a week, since the pandemic began, despite overall growth in DAUs &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/221025/p27#a221025p27)
+ - [Compared: M2 iPad Pro vs. Microsoft Surface Pro 9](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-microsoft-surface-pro-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
