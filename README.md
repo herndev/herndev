@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
- - ⏩ [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 💣 [I miss movies like this](http://9gag.com/gag/a9q77w1)
+ - ⏩ [Witches throughout time](http://9gag.com/gag/az2j8mx)
+ - 👉 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
 
 ---
 
