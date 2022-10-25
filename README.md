@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2&#39;s new Halloween PvE mission is so good that it&#39;s starting to feel like a sequel](https://www.pcgamer.com/overwatch-2s-new-halloween-pve-mission-is-so-good-that-its-starting-to-feel-like-a-sequel)
- - [Age of Empires is coming for your Xbox](https://www.polygon.com/23423466/age-of-empires-definitive-edition-xbox-console-release-date)
- - [Everything we know about the Fallout TV series](https://www.pcgamer.com/fallout-tv-show-cast-release-everything-we-know)<!-- GAME:END -->
+ - [Two Guys Tried To Solve The Mystery Of Kanye Quest 3030](https://kotaku.com/kanye-west-yeezy-ye-3000-video-game-aunty-donna-yeezus-1849697630)
+ - [&#39;Joe Biden&#39;, who may or may not be the US president, is absolutely dominating Guilty Gear fighting tournaments](https://www.pcgamer.com/joe-biden-who-may-or-may-not-be-the-us-president-is-absolutely-dominating-guilty-gear-fighting-tournaments)
+ - [Nvidia PC Graphics Card Cables May Be Burning, So There&#39;s An Investigation](https://kotaku.com/nvidia-4000-series-graphics-card-burning-melting-1849702050)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
