@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon begins letting select US customers make payments using Venmo, and plans to roll out the option to all US shoppers before Black Friday &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221025/p16#a221025p16)
- - [Microsoft Surface Pro 9 review: 120Hz display, 5G, and 1080p camera, but pricey without accessories, slow apps, and just two USB ports &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/221025/p15#a221025p15)
- - [Wyze’s new outdoor camera adds 2K resolution and faster person detection](https://www.theverge.com/2022/10/24/23420428/wyze-cam-v3-pro-camera-price-release-date)<!-- TECH:END -->
+ - [The new Motorola Razr has arrived in Europe, but there’s no release date yet](https://www.theverge.com/2022/10/25/23422477/motorola-razr-2022-europe-release-date-price-uk-foldable)
+ - [New Final Cut Pro update delivers faster video exports on Apple Silicon Macs](https://appleinsider.com/articles/22/10/25/new-final-cut-pro-update-delivers-faster-video-exports-on-apple-silicon-macs?utm_medium=rss)
+ - [Hinge Will Try to Thwart Scammers With Video Verification](https://www.wired.com/story/hinge-selfie-verification-scammers-bots/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
