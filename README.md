@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Indian IT giants crack down on moonlighting employees over fears they will share corporate secrets with rivals; estimates: 5%-9% of Indian IT staff moonlight &lpar;Financial Times&rpar;](http://www.techmeme.com/221025/p1#a221025p1)
  - [Experts raise conflict of interest concerns over Eric Schmidt&#39;s private AI investments while he served as chairman of the National Security Commission on AI &lpar;Eamon Javers/CNBC&rpar;](http://www.techmeme.com/221024/p34#a221024p34)
- - [Barcelona-based Seqera Labs, which provides data orchestration and workflow software for life sciences, has raised a &amp;euro;22M Series A led by Lee Fixel&#39;s Addition &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221024/p33#a221024p33)
- - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Barcelona-based Seqera Labs, which provides data orchestration and workflow software for life sciences, has raised a &amp;euro;22M Series A led by Lee Fixel&#39;s Addition &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221024/p33#a221024p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
