@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Signalis is a near pitch-perfect ode to Resident Evil and Silent Hill](https://www.polygon.com/reviews/23402312/survival-horror-game-signalis-review-game-pass-platforms-release-date)
- - [In Night Eaters, Turning Red’s generational tension meets giant, bloody orifice demons](https://www.polygon.com/23416832/night-eaters-she-eats-the-night-marjorie-liu-sana-takeda-free-sample)
- - [Shutterstock to offer AI art tool to users and pay artists who helped train it](https://www.pcgamer.com/shutterstock-to-offer-ai-art-tool-to-users-and-pay-artists-who-helped-train-it)<!-- GAME:END -->
+ - [Here’s a first look at Amazon’s Fallout TV series](https://www.polygon.com/23423117/fallout-tv-series-amazon-prime-first-image)
+ - [Age of Empires 25th Anniversary Broadcast Recap](https://news.xbox.com/en-us/2022/10/25/age-of-empires-25th-anniversary-broadcast-recap/)
+ - [We’re streaming New State Mobile this week](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
