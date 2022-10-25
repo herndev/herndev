@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our Favorite Cosplay From Dragon Con 2022](https://kotaku.com/cosplay-photo-video-gallery-dragon-con-2022-atlanta-1849697288)
- - [The 7 best, worst, and cringiest moments of Modern Warfare 2&#39;s campaign](https://www.pcgamer.com/the-7-best-worst-and-cringiest-moments-of-modern-warfare-2s-campaign)
- - [The Tenants, A Landlord Video Game, Is Pure Fantasy](https://kotaku.com/the-tenants-indie-pc-steam-game-new-release-the-sims-1849697036)<!-- GAME:END -->
+ - [Explore endless roads in this beautiful driving game that runs in your browser](https://www.pcgamer.com/explore-endless-roads-in-this-beautiful-driving-game-that-runs-in-your-browser)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 24&rpar;](https://news.xbox.com/en-us/2022/10/24/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-24/)
+ - [Our Favorite Cosplay From Dragon Con 2022](https://kotaku.com/cosplay-photo-video-gallery-dragon-con-2022-atlanta-1849697288)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
