@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A developed country is not a place where the poor have cars, It\u2019s where the rich use public transpo](http://9gag.com/gag/aKEqPDW)
- - ⏩ [No OC, still good...](http://9gag.com/gag/a5X7N8g)
- - 👉 [Had me in the first half.](http://9gag.com/gag/aoKjB7A)<!-- MEMES:END -->
+ - 💣 [Terrible](http://9gag.com/gag/awZ76qy)
+ - ⏩ [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - 👉 [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)<!-- MEMES:END -->
 
 ---
 
