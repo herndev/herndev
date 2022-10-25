@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - ⏩ [What Anime Has Both:](http://9gag.com/gag/aVbXnRP)
- - 👉 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
+ - 💣 [My noodle can&#39;t f**king keep up](http://9gag.com/gag/aA0pWwL)
+ - ⏩ [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - 👉 [Make it make sense](http://9gag.com/gag/adPj6bQ)<!-- MEMES:END -->
 
 ---
 
