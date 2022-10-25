@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts raise conflict of interest concerns over Eric Schmidt&#39;s private AI investments while he served as chairman of the National Security Commission on AI &lpar;Eamon Javers/CNBC&rpar;](http://www.techmeme.com/221024/p34#a221024p34)
  - [Barcelona-based Seqera Labs, which provides data orchestration and workflow software for life sciences, has raised a &amp;euro;22M Series A led by Lee Fixel&#39;s Addition &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221024/p33#a221024p33)
- - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu/#ftag=CAD590a51e)
- - [Early Black Friday Samsung TV deals: save up to $3,000 on The Frame, Neo 4K, 8K, OLED TVs](https://appleinsider.com/articles/22/10/24/early-black-friday-samsung-tv-deals-save-up-to-3000-on-the-frame-neo-4k-8k-oled-tvs?utm_medium=rss)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Hulu     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-hulu/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
