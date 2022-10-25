@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s revenue continues to grow as its profits are still shrinking](https://www.theverge.com/2022/10/25/23423560/google-q3-2022-growing-revenue-shrinking-profits-earnings)
- - [Microsoft reports Q1 Windows OEM revenue down 15% YoY, devices revenue up 2% YoY, Xbox hardware revenue up 13%, and Xbox content and services revenue down 3% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p32#a221025p32)
- - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)<!-- TECH:END -->
+ - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)
+ - [Microsoft&#39;s cloud revenue grew 24% YoY to $25.7B, including $20.3B from Intelligent Cloud, up 20% YoY, driven by Azure and other cloud services, up 35% YoY &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221025/p34#a221025p34)
+ - [James Gunn is DC Studios’ new co-CEO](https://www.theverge.com/2022/10/25/23423484/james-gunn-peter-safran-dc-studios-ceo-dceu)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
