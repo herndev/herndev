@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPadOS 16.2 beta adds external display support for Stage Manager and includes Freeform](https://www.theverge.com/2022/10/25/23423192/ipados-16-2-beta-external-display-stage-manager)
- - [Internal research: Twitter has been losing &quot;heavy tweeters&quot;, who tweet more than three times a week, since the pandemic began, despite overall growth in DAUs &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/221025/p27#a221025p27)
- - [Compared: M2 iPad Pro vs. Microsoft Surface Pro 9](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-microsoft-surface-pro-9?utm_medium=rss)<!-- TECH:END -->
+ - [Google’s revenue continues to grow as its profits are still shrinking](https://www.theverge.com/2022/10/25/23423560/google-q3-2022-growing-revenue-shrinking-profits-earnings)
+ - [Microsoft reports Q1 Windows OEM revenue down 15% YoY, devices revenue up 2% YoY, Xbox hardware revenue up 13%, and Xbox content and services revenue down 3% &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p32#a221025p32)
+ - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
