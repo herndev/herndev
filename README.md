@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy f**king shit...](http://9gag.com/gag/anzBL2B)
- - ⏩ [Y&#39;all too young for this](http://9gag.com/gag/aYVw8X2)
- - 👉 [No OC, still good...](http://9gag.com/gag/a5X7N8g)<!-- MEMES:END -->
+ - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
+ - ⏩ [I know it&#39;s US of A.... But why?](http://9gag.com/gag/a04YAyB)
+ - 👉 [Well thats unlucky](http://9gag.com/gag/aMEGeQG)<!-- MEMES:END -->
 
 ---
 
