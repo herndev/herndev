@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Welcome to Warhammer 40K’s anti-fascist future](https://www.polygon.com/23414657/warhammer-40k-anti-fascism-space-marines-capitalism-leagues-of-votann-hate)
- - [Elden Ring patches its patch after Endure spell proves too enduring](https://www.pcgamer.com/elden-ring-patches-its-patch-after-endure-spell-proves-too-enduring)
- - [Transform Your Device into a Mobile Gaming Machine with the Latest Designed for Xbox Accessories](https://news.xbox.com/en-us/2022/10/25/new-designed-for-xbox-accessories/)<!-- GAME:END -->
+ - [In a new Marvel card game, you kill Uncle Ben to get Spider-Man](https://www.pcgamer.com/in-a-new-marvel-card-game-you-kill-uncle-ben-to-get-spider-man)
+ - [Overwatch 2 Halloween Twitch Drops: How To Grab A Winston Werewolf Skin &lpar;And More&rpar;](https://kotaku.com/overwatch-2-halloween-twitch-drops-winston-reinhardt-br-1849698847)
+ - [New seasons of Doctor Who to stream on Disney Plus in 2023](https://www.polygon.com/23422605/doctor-who-disney-plus-bbc-david-tennant)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
