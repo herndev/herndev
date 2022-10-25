@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thank you Texas.](http://9gag.com/gag/avQPnPZ)
- - ⏩ [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - 👉 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
+ - 💣 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - ⏩ [My noodle can&#39;t f**king keep up](http://9gag.com/gag/aA0pWwL)
+ - 👉 [Make it make sense](http://9gag.com/gag/adPj6bQ)<!-- MEMES:END -->
 
 ---
 
