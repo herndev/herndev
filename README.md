@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here’s a first look at Amazon’s Fallout TV series](https://www.polygon.com/23423117/fallout-tv-series-amazon-prime-first-image)
- - [Age of Empires 25th Anniversary Broadcast Recap](https://news.xbox.com/en-us/2022/10/25/age-of-empires-25th-anniversary-broadcast-recap/)
- - [We’re streaming New State Mobile this week](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
+ - [The 8 great ‘psychotic women’ movies](https://www.polygon.com/what-to-watch/23409525/best-horror-movies-women-psychological-thrillers)
+ - [The best Chainsaw Man fights](https://www.polygon.com/23398611/best-chainsaw-man-fights-anime)
+ - [Bayonetta 3 Reviews Say It’s Stylish And Fun But Flubs The Ending](https://kotaku.com/bayonetta-3-platinum-games-nintendo-sega-reviews-ending-1849700728)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
