@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Has Something ‘Special’ For Fallout Fans: A Single Screenshot Of The Show](https://kotaku.com/fallout-tv-show-amazon-teaser-first-look-screenshot-1849701440)
- - [Steam&#39;s recommended prices go way up in many countries: +18% in Europe, +485% in Argentina](https://www.pcgamer.com/steams-recommended-prices-go-way-up-in-many-countries-18-in-europe-485-in-argentina)
- - [You can watch House of the Dragon without HBO in December](https://www.polygon.com/23423336/watch-house-of-the-dragon-without-hbo-december-release-date-physical-edition-purchase)<!-- GAME:END -->
+ - [Overwatch 2&#39;s new Halloween PvE mission is so good that it&#39;s starting to feel like a sequel](https://www.pcgamer.com/overwatch-2s-new-halloween-pve-mission-is-so-good-that-its-starting-to-feel-like-a-sequel)
+ - [Age of Empires is coming for your Xbox](https://www.polygon.com/23423466/age-of-empires-definitive-edition-xbox-console-release-date)
+ - [Everything we know about the Fallout TV series](https://www.pcgamer.com/fallout-tv-show-cast-release-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
