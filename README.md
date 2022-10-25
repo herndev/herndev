@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Tenants, A Landlord Video Game, Is Pure Fantasy](https://kotaku.com/the-tenants-indie-pc-steam-game-new-release-the-sims-1849697036)
- - [10 Final Fantasy 14 tips to conquer tank anxiety](https://www.pcgamer.com/final-fantasy-14-tanking-guide-tips)
- - [V Rising, the other vampire survival hit of 2022, is going free to play for Halloween](https://www.pcgamer.com/v-rising-the-other-vampire-survival-hit-of-2022-is-going-free-to-play-for-halloween)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Dragon Con 2022](https://kotaku.com/cosplay-photo-video-gallery-dragon-con-2022-atlanta-1849697288)
+ - [The 7 best, worst, and cringiest moments of Modern Warfare 2&#39;s campaign](https://www.pcgamer.com/the-7-best-worst-and-cringiest-moments-of-modern-warfare-2s-campaign)
+ - [The Tenants, A Landlord Video Game, Is Pure Fantasy](https://kotaku.com/the-tenants-indie-pc-steam-game-new-release-the-sims-1849697036)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
