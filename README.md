@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: ByteDance launched audits into TikTok&#39;s global CSO Roland Cloutier before he quit, hamstringing his efforts to build a robust security team &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221025/p22#a221025p22)
- - [iMessage is back up and running](https://www.theverge.com/2022/10/25/23422960/apple-imessage-facetime-outage-down-resolved-back-up)
- - [Age of Empires IV is coming to Xbox Game Pass in 2023](https://www.theverge.com/2022/10/25/23422822/age-of-empires-iv-xbox-game-pass-series-x-s-console-november-2022)<!-- TECH:END -->
+ - [Age of Empires IV is coming to Xbox Game Pass in 2023](https://www.theverge.com/2022/10/25/23422822/age-of-empires-iv-xbox-game-pass-series-x-s-console-november-2022)
+ - [Gloomwood is my new favorite knocking-guys-out simulator](https://www.theverge.com/23422582/gloomwood-new-blood-interactive-stealth-game-early-access-hands-on)
+ - [Apple issues first developer beta for iOS 16.2, iPadOS 16.2, watchOS 9.2](https://appleinsider.com/articles/22/10/25/apple-issues-first-developer-beta-for-ios-162-ipados-162-watchos-92?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
