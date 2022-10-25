@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
- - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)
- - [Google Pixel Watch buyer’s guide: Everything you need to know](https://www.androidauthority.com/google-pixel-watch-buyers-guide-3221637/)<!-- TECH:END -->
+ - [Sony’s DualSense Edge PS5 controller is available for preorder](https://www.theverge.com/2022/10/25/23422782/playstation-dualsense-edge-ps5-controller-sony-preorder)
+ - [Apple iPhone glass maker Corning says smartphone sales are plummeting](https://appleinsider.com/articles/22/10/25/apple-iphone-glass-maker-corning-says-smartphone-sales-are-plummeting?utm_medium=rss)
+ - [How to factory reset your smartwatch](https://www.theverge.com/23190338/smartwatch-factory-reset-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
