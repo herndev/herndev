@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gotham Knights’ Cops Are The Only Enemies That Don’t Give XP](https://kotaku.com/batman-gotham-knights-game-cops-ps5-xbox-court-of-owls-1849701213)
- - [I’d pet Pokémon’s newest dog Greavard, even if it cost me my life](https://www.polygon.com/pokemon/23422976/pokemon-scarlet-violet-greavard-emo)
- - [After 18 years, the precursor to Garry&#39;s Mod appears on Steam](https://www.pcgamer.com/after-18-years-the-precursor-to-garrys-mod-appears-on-steam)<!-- GAME:END -->
+ - [Amazon Has Something ‘Special’ For Fallout Fans: A Single Screenshot Of The Show](https://kotaku.com/fallout-tv-show-amazon-teaser-first-look-screenshot-1849701440)
+ - [Steam&#39;s recommended prices go way up in many countries: +18% in Europe, +485% in Argentina](https://www.pcgamer.com/steams-recommended-prices-go-way-up-in-many-countries-18-in-europe-485-in-argentina)
+ - [You can watch House of the Dragon without HBO in December](https://www.polygon.com/23423336/watch-house-of-the-dragon-without-hbo-december-release-date-physical-edition-purchase)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
