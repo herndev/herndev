@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I miss movies like this](http://9gag.com/gag/a9q77w1)
- - ⏩ [Witches throughout time](http://9gag.com/gag/az2j8mx)
- - 👉 [Finally true equality](http://9gag.com/gag/avQPrgO)<!-- MEMES:END -->
+ - 💣 [Daddy ryan](http://9gag.com/gag/a1PMd42)
+ - ⏩ [Finally true equality](http://9gag.com/gag/avQPrgO)
+ - 👉 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
 
 ---
 
