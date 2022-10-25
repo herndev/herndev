@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Motorola Razr has arrived in Europe, but there’s no release date yet](https://www.theverge.com/2022/10/25/23422477/motorola-razr-2022-europe-release-date-price-uk-foldable)
- - [New Final Cut Pro update delivers faster video exports on Apple Silicon Macs](https://appleinsider.com/articles/22/10/25/new-final-cut-pro-update-delivers-faster-video-exports-on-apple-silicon-macs?utm_medium=rss)
- - [Hinge Will Try to Thwart Scammers With Video Verification](https://www.wired.com/story/hinge-selfie-verification-scammers-bots/)<!-- TECH:END -->
+ - [How much money you save with Apple One bundles in Fall 2022](https://appleinsider.com/inside/apple-one/tips/how-much-money-you-save-with-apple-one-bundles-in-fall-2022?utm_medium=rss)
+ - [You can&#39;t pair the first Apple Pencil with a USB-C iPad Pro](https://appleinsider.com/articles/22/10/24/you-cant-pair-the-first-apple-pencil-with-a-usb-c-ipad-pro?utm_medium=rss)
+ - [Google Pixel Watch buyer’s guide: Everything you need to know](https://www.androidauthority.com/google-pixel-watch-buyers-guide-3221637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
