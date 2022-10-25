@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTC Takes Action Against Drizly for 2020 Data Breach     - CNET](https://www.cnet.com/tech/services-and-software/ftc-takes-action-against-drizly-for-2020-data-breach/#ftag=CAD590a51e)
- - [Best Buy Upgrade Plus financing lets you pay for that new MacBook over three years](https://www.theverge.com/2022/10/24/23421659/best-buy-macbook-subscription-program-apple)
- - [Israeli cybersecurity startup Snyk is laying off 198 people, ~14% of its staff, after letting go 30 people in July; Snyk was valued at $8.5B in September 2021 &lpar;Meir Orbach/CTech&rpar;](http://www.techmeme.com/221024/p29#a221024p29)<!-- TECH:END -->
+ - [&#39;House of the Dragon&#39; Wants You to Trust &#39;Game of Thrones&#39; Again](https://www.wired.com/story/house-of-the-dragon-season-1-finale/)
+ - [Bumble open sources Private Detector, an AI tool the company launched in 2019 to detect unsolicited lewd images; Bumble claims the tool has a 98%+ accuracy rate &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221024/p31#a221024p31)
+ - [Cats Might Be Better Listeners Than We All Thought     - CNET](https://www.cnet.com/science/cats-might-be-better-listeners-than-we-all-thought/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
