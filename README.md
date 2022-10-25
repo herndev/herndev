@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s DualSense Edge PS5 controller is available for preorder](https://www.theverge.com/2022/10/25/23422782/playstation-dualsense-edge-ps5-controller-sony-preorder)
- - [Apple iPhone glass maker Corning says smartphone sales are plummeting](https://appleinsider.com/articles/22/10/25/apple-iphone-glass-maker-corning-says-smartphone-sales-are-plummeting?utm_medium=rss)
- - [How to factory reset your smartwatch](https://www.theverge.com/23190338/smartwatch-factory-reset-how-to)<!-- TECH:END -->
+ - [Sources: ByteDance launched audits into TikTok&#39;s global CSO Roland Cloutier before he quit, hamstringing his efforts to build a robust security team &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221025/p22#a221025p22)
+ - [iMessage is back up and running](https://www.theverge.com/2022/10/25/23422960/apple-imessage-facetime-outage-down-resolved-back-up)
+ - [Age of Empires IV is coming to Xbox Game Pass in 2023](https://www.theverge.com/2022/10/25/23422822/age-of-empires-iv-xbox-game-pass-series-x-s-console-november-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
