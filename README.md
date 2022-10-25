@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify hits 195 million paid subscribers](https://www.theverge.com/2022/10/25/23423510/spotify-total-subscribers-rogan-markle)
- - [Microsoft&#39;s cloud revenue grew 24% YoY to $25.7B, including $20.3B from Intelligent Cloud, up 20% YoY, driven by Azure and other cloud services, up 35% YoY &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221025/p34#a221025p34)
- - [James Gunn is DC Studios’ new co-CEO](https://www.theverge.com/2022/10/25/23423484/james-gunn-peter-safran-dc-studios-ceo-dceu)<!-- TECH:END -->
+ - [&#39;Game of Thrones&#39; Deepfake Turns Milly Alcock into Daenerys Targaryen     - CNET](https://www.cnet.com/culture/entertainment/game-of-thrones-deepfake-turns-milly-alcock-into-daenerys-targaryen/#ftag=CAD590a51e)
+ - [iOS 16.2 adds a way to report inadvertent Emergency SOS activations](https://www.theverge.com/2022/10/25/23423641/ios-16-2-emergency-sos-car-crash-detection-report)
+ - [Satya Nadella says more than 20M people have streamed games using Xbox Cloud Gaming, double the 10M figure that Microsoft shared in April 2022 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p38#a221025p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
