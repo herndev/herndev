@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook calls on Apple&#39;s suppliers to decarbonize by 2030](https://appleinsider.com/articles/22/10/25/tim-cook-calls-on-apples-suppliers-to-decarbonize-by-2030?utm_medium=rss)
- - [8 Easy Yoga Poses to Do at Bedtime for Better Sleep     - CNET](https://www.cnet.com/health/sleep/8-easy-yoga-poses-to-do-at-bedtime-for-better-sleep/#ftag=CAD590a51e)
- - [How Trauma Makes Neurobiological Changes to Your Brain and Body     - CNET](https://www.cnet.com/health/mental/how-trauma-makes-neurobiological-changes-to-your-brain-and-body/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BitMEX CEO Alexander H&amp;ouml;ptner steps down as CEO of the crypto exchange with immediate effect, replaced by CFO Stephan Lutz; H&amp;ouml;ptner joined BitMEX in 2021 &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221025/p12#a221025p12)
+ - [Getty Images CEO says firms racing to sell AI art could be stepping into illegal territory](https://www.theverge.com/2022/10/25/23422412/getty-images-ai-art-banned-dangerous-bria-partnership)
+ - [UK considering antitrust regulations on Apple Card &amp; other big tech financial programs](https://appleinsider.com/articles/22/10/25/uk-considering-antitrust-regulations-on-apple-card-other-big-tech-financial-programs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
