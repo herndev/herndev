@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $79.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
- - [How to turn off 5G on your Android phone](https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/)
- - [Apple&#39;s new iCloud website design is beautiful](https://appleinsider.com/articles/22/10/26/apples-new-icloud-website-design-is-beautiful?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s legendary Clarus the dogcow returns in macOS Ventura](https://appleinsider.com/articles/22/06/14/apples-legendary-clarus-the-dogcow-returns-in-macos-ventura?utm_medium=rss)
+ - [Sources: the US DOJ launched a criminal probe into Tesla last year, still underway, following over a dozen crashes, some fatal, where Autopilot was enabled &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p21#a221026p21)
+ - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
