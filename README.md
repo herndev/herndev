@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Servant’s fourth and final season is coming to Apple TV Plus in January](https://www.theverge.com/2022/10/26/23424663/servant-season-4-trailer-date)
- - [For $1,570, you, too, can get a Naruto smartwatch from Montblanc](https://www.theverge.com/2022/10/26/23424474/montblanc-summit-3-naruto-smartwatch-wearos)
- - [Malwarebytes crippled by macOS Ventura update](https://appleinsider.com/articles/22/10/26/malwarebytes-crippled-by-macos-ventura-update?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)
+ - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)
+ - [Apple&#39;s lack of care with gambling app ads is a symptom of a bigger problem](https://appleinsider.com/articles/22/10/26/apples-lack-of-care-with-gambling-app-ads-is-a-symptom-of-a-bigger-problem?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
