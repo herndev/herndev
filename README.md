@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Checkmate!](http://9gag.com/gag/az2j1yj)
- - ⏩ [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)
- - 👉 [Some respect at least](http://9gag.com/gag/aMEGZE1)<!-- MEMES:END -->
+ - 💣 [When the engineer used 190% of his brain.](http://9gag.com/gag/aKEq7pO)
+ - ⏩ [Some respect at least](http://9gag.com/gag/aMEGZE1)
+ - 👉 [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)<!-- MEMES:END -->
 
 ---
 
