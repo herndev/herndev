@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 26: $310 off 14-inch MacBook Pro, $550 off 40TB Synology Diskstation, Logitech MX Keys Mini for $80, more](https://appleinsider.com/articles/22/10/26/daily-deals-oct-26-310-off-14-inch-macbook-pro-550-off-40tb-synology-diskstation-logitech-mx-keys-mini-for-80-more?utm_medium=rss)
- - [The ‘Brightest of All Time’ Gamma-Ray Burst Sparks a Supernova Hunt](https://www.wired.com/story/brightest-of-all-time-gamma-ray-burst-supernova-hunt/)
- - [Seagate misses Q1 estimates with $2.04B revenue and plans to cut around 3,000 jobs to reduce costs amid slowing demand; stock drops 9%+ and is down ~50% YTD &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/221026/p14#a221026p14)<!-- TECH:END -->
+ - [Gambling App Store ads are showing up next to addiction recovery apps](https://appleinsider.com/articles/22/10/26/gambling-app-store-ads-are-showing-up-next-to-addiction-recovery-apps?utm_medium=rss)
+ - [A Pro-China Disinfo Campaign Is Targeting US Elections—Badly](https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/)
+ - [Rode has launched a new gaming-focused audio product line](https://www.theverge.com/2022/10/26/23424305/rode-x-gaming-streaming-new-audio-products-microphones)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
