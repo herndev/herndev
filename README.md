@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
- - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 👉 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
+ - 💣 [Checkmate!](http://9gag.com/gag/az2j1yj)
+ - ⏩ [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)
+ - 👉 [Some respect at least](http://9gag.com/gag/aMEGZE1)<!-- MEMES:END -->
 
 ---
 
