@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wordle today: Here&#39;s the 494 answer and hint for Wednesday, October 26](https://www.pcgamer.com/wordle-today-494-answer-hint)
  - [This ceramic 3D printer on Kickstarter can print big things with waste products](https://www.pcgamer.com/this-ceramic-3d-printer-on-kickstarter-can-print-big-things-with-waste-products)
- - [The RTX 3060 is getting the 8GB release treatment](https://www.pcgamer.com/the-rtx-3060-is-getting-the-8gb-release-treatment)
- - [The Simpsons Is Going Anime For A Death Note Tribute, And It Looks...Good?](https://kotaku.com/the-simpsons-death-note-anime-treehouse-horror-dr-movie-1849702547)<!-- GAME:END -->
+ - [The RTX 3060 is getting the 8GB release treatment](https://www.pcgamer.com/the-rtx-3060-is-getting-the-8gb-release-treatment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
