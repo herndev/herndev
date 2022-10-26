@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How the soup base for hotpot is made](http://9gag.com/gag/aA01g19)
- - ⏩ [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
- - 👉 [Perfection](http://9gag.com/gag/aPgDYjG)<!-- MEMES:END -->
+ - 💣 [I always wanted to rescue a stray dog](http://9gag.com/gag/aREAAv2)
+ - ⏩ [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 ---
 
