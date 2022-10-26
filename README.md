@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gaming Store Robbed At Gunpoint Months After $14,000 Burglary](https://kotaku.com/pink-gorilla-games-store-seattle-robbery-gun-pokemon-1849705349)
- - [Play The Quarry This Halloween and Grab Limited-Time Character Outfits](https://news.xbox.com/en-us/2022/10/26/the-quarry-halloween-limited-time-character-outfits/)
- - [RimWorld’s new BioTech DLC turned me into a child labor-exploiting monster](https://www.polygon.com/23423381/rimworld-biotech-expansion-children-impressions)<!-- GAME:END -->
+ - [Marvel’s Midnight Suns: Super-heroic turn-based combat and card tactics explained](https://blog.playstation.com/2022/10/26/marvels-midnight-suns-super-heroic-turn-based-combat-and-card-tactics-explained/)
+ - [The Making of Gotham Knights, Available Now for Xbox Series X|S](https://news.xbox.com/en-us/2022/10/26/the-making-of-gotham-knights-available-now-for-xbox-series-xs/)
+ - [The Spooky Lowdown On This Year&#39;s Fortnitemares Event](https://kotaku.com/fortnite-fortnitemares-2022-evil-dead-ash-williams-1849705361)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
