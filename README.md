@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - ⏩ [No OC, still good...](http://9gag.com/gag/a5X7N8g)
- - 👉 [First hindutva PM](http://9gag.com/gag/aQE8erw)<!-- MEMES:END -->
+ - 💣 [The horror of this scene is beyond words to describe.](http://9gag.com/gag/axojZxD)
+ - ⏩ [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)
+ - 👉 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)<!-- MEMES:END -->
 
 ---
 
