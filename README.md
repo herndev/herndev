@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare II Makes You Aim Your Gun At Civilians To &#39;De-Escalate&#39;](https://kotaku.com/call-of-duty-modern-warfare-2-de-escalate-civilians-aim-1849706698)
- - [Andy Serkis finally gets to play a good Star Wars villain thanks to Andor](https://www.polygon.com/23425037/andor-andy-serkis-kino-loy-star-wars-snoke)
- - [Chloë Grace Moretz is becoming a PC gamer, asks for build help on Twitter](https://www.pcgamer.com/chloe-grace-moretz-is-becoming-a-pc-gamer-asks-for-build-help-on-twitter)<!-- GAME:END -->
+ - [Generation Zero Content Update: Machines at War and Bases to Conquer](https://news.xbox.com/en-us/2022/10/26/generation-zero-content-update-machines-at-war-and-bases-to-conquer/)
+ - [Overwatch 2 Players Are Getting Hit With Server Errors Following Latest Update](https://kotaku.com/url-overwatch-2-lc-208-server-error-update-halloween-f-1849707155)
+ - [Call of Duty&#39;s murderous villain is the internet&#39;s newest thirst trap](https://www.pcgamer.com/call-of-dutys-murderous-villain-is-the-internets-newest-thirst-trap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
