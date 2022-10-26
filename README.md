@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
- - ⏩ [Asking the Real Questions](http://9gag.com/gag/aYVeLeq)
+ - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
+ - ⏩ [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
  - 👉 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)<!-- MEMES:END -->
 
 ---
