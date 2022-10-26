@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford is ending production of the Fiesta in Europe](https://www.theverge.com/2022/10/26/23424591/ford-fiesta-discontinuted-europe)
- - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)
- - [Hands on with Apple&#39;s Freeform collaborative brainstorming app](https://appleinsider.com/articles/22/10/26/hands-on-with-apples-freeform-collaborative-brainstorming-app?utm_medium=rss)<!-- TECH:END -->
+ - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $79.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
+ - [How to turn off 5G on your Android phone](https://www.androidauthority.com/how-to-turn-off-5g-android-3225031/)
+ - [Apple&#39;s new iCloud website design is beautiful](https://appleinsider.com/articles/22/10/26/apples-new-icloud-website-design-is-beautiful?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
