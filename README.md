@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Wire blames retracted Meta story on ‘deception’ by staff member](https://www.theverge.com/2022/10/26/23425377/the-wire-subject-deception-member-team-meta-india)
- - [Andy Rubin incorporated home security monitoring software startup Simple Things in July 2020 and appears to have hired staff from his defunct startup Essential &lpar;Jon Victor/The Information&rpar;](http://www.techmeme.com/221026/p29#a221026p29)
- - [Meta plans to launch the next generation of its consumer Quest headset in 2023 &lpar;Nick Statt/Protocol&rpar;](http://www.techmeme.com/221026/p28#a221026p28)<!-- TECH:END -->
+ - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)
+ - [Apple halts gambling ads in App Store](https://appleinsider.com/articles/22/10/26/apple-halts-gambling-ads-in-app-store?utm_medium=rss)
+ - [Everything you need to know about The Wire’s retracted reporting on Meta](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
