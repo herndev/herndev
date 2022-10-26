@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Make it make sense](http://9gag.com/gag/adPj6bQ)
- - ⏩ [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - 👉 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
+ - 💣 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
+ - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 👉 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)<!-- MEMES:END -->
 
 ---
 
