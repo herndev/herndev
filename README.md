@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OM-5 is the first leftover Olympus camera to be branded OM System, and I get sad looking at it](https://www.theverge.com/2022/10/26/23423252/omsystem-om5-mirrorless-camera-rip-olympus-announcement-price-specs)
- - [Apple concedes to EU law, iPhones will get USB-C ports](https://www.androidauthority.com/apple-iphones-usb-c-port-3224654/)
- - [An investigation details US telecom giants abusing the FCC&#39;s ~$17B Emergency Broadband Benefit program by introducing price hikes, speed cuts, and fraud risks &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/221026/p2#a221026p2)<!-- TECH:END -->
+ - [Colorado-based Fermyon, which offers a managed cloud service for building WebAssembly-based microservices, raised a $20M Series A led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221026/p4#a221026p4)
+ - [Apple says iMessage on Android ‘seemed like a throwaway’](https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/)
+ - [Australia&#39;s biggest health insurer Medibank says an October 2022 hack compromised personal and &quot;significant amounts&quot; of health claims data of its ~4M customers &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p3#a221026p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
