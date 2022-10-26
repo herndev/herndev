@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This ceramic 3D printer on Kickstarter can print big things with waste products](https://www.pcgamer.com/this-ceramic-3d-printer-on-kickstarter-can-print-big-things-with-waste-products)
  - [The RTX 3060 is getting the 8GB release treatment](https://www.pcgamer.com/the-rtx-3060-is-getting-the-8gb-release-treatment)
- - [The Simpsons Is Going Anime For A Death Note Tribute, And It Looks...Good?](https://kotaku.com/the-simpsons-death-note-anime-treehouse-horror-dr-movie-1849702547)
- - [Turn on this helpful Overwatch 2 setting right now](https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now)<!-- GAME:END -->
+ - [The Simpsons Is Going Anime For A Death Note Tribute, And It Looks...Good?](https://kotaku.com/the-simpsons-death-note-anime-treehouse-horror-dr-movie-1849702547)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
