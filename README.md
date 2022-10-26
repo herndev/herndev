@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Game of Thrones&#39; Deepfake Turns Milly Alcock into Daenerys Targaryen     - CNET](https://www.cnet.com/culture/entertainment/game-of-thrones-deepfake-turns-milly-alcock-into-daenerys-targaryen/#ftag=CAD590a51e)
- - [iOS 16.2 adds a way to report inadvertent Emergency SOS activations](https://www.theverge.com/2022/10/25/23423641/ios-16-2-emergency-sos-car-crash-detection-report)
- - [Satya Nadella says more than 20M people have streamed games using Xbox Cloud Gaming, double the 10M figure that Microsoft shared in April 2022 &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221025/p38#a221025p38)<!-- TECH:END -->
+ - [Nomad’s bringing back the early 2000s with a transparent charging brick](https://www.theverge.com/2022/10/25/23423691/nomad-transparent-30w-charger)
+ - [&#39;Andor&#39; Episode 7 Explained: Empire Heaps on Brutality in Star Wars Heist&#39;s Aftermath     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-7-explained-empire-heaps-on-brutality-in-star-wars-heist-aftermath/#ftag=CAD590a51e)
+ - [The Very Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
