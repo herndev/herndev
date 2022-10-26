@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
- - ⏩ [So many questions...](http://9gag.com/gag/aQE8Rqq)
- - 👉 [This country had 250 days in a row without common types of crime](http://9gag.com/gag/anzN5Nn)<!-- MEMES:END -->
+ - 💣 [MVP](http://9gag.com/gag/aVbPwvw)
+ - ⏩ [Witches throughout time](http://9gag.com/gag/az2j8mx)
+ - 👉 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)<!-- MEMES:END -->
 
 ---
 
