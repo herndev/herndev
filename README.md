@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
- - ⏩ [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - 💣 [It actually worked. . .](http://9gag.com/gag/a4oYQnZ)
+ - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
  - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 ---
