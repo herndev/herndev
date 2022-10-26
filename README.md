@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The RTX 3060 is getting the 8GB release treatment](https://www.pcgamer.com/the-rtx-3060-is-getting-the-8gb-release-treatment)
  - [The Simpsons Is Going Anime For A Death Note Tribute, And It Looks...Good?](https://kotaku.com/the-simpsons-death-note-anime-treehouse-horror-dr-movie-1849702547)
- - [Turn on this helpful Overwatch 2 setting right now](https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now)
- - [Marvel Snap Ignored A Card Game Staple And It Worked](https://kotaku.com/marvel-snap-mulligan-quicksilver-hearthstone-best-deck-1849702407)<!-- GAME:END -->
+ - [Turn on this helpful Overwatch 2 setting right now](https://www.pcgamer.com/turn-on-this-helpful-overwatch-2-setting-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
