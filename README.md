@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Fireside Chat with Unity’s Marc Whitten](https://news.xbox.com/en-us/2022/10/26/a-fireside-chat-with-unitys-marc-whitten/)
- - [InXile celebrates 20 years by remembering that time it made a baby game and got swept up in a moral panic](https://www.pcgamer.com/inxile-celebrates-20-years-by-remembering-that-time-it-made-a-baby-game-and-got-swept-up-in-a-moral-panic)
- - [Dead by Daylight leaks reveal Cheryl’s magical girl outfit is on the way](https://www.polygon.com/23424874/dead-by-daylight-leaks-silent-hill-heather-cheryl-princess-heart-cosmetic)<!-- GAME:END -->
+ - [Seth Rogen’s animated horny-food movie Sausage Party is getting a TV series](https://www.polygon.com/23425144/sausage-party-tv-show-amazon-cast)
+ - [Dragon Age: Dreadwolf is now fully playable from start to finish](https://www.pcgamer.com/dragon-age-dreadwolf-is-now-fully-playable-from-start-to-finish)
+ - [A Fireside Chat with Unity’s Marc Whitten](https://news.xbox.com/en-us/2022/10/26/a-fireside-chat-with-unitys-marc-whitten/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
