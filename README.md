@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the engineer used 190% of his brain.](http://9gag.com/gag/aKEq7pO)
- - ⏩ [MVP](http://9gag.com/gag/aVbPwvw)
- - 👉 [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)<!-- MEMES:END -->
+ - 💣 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)
+ - ⏩ [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
+ - 👉 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
 
 ---
 
