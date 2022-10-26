@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a normal post](http://9gag.com/gag/aeQGe4O)
- - ⏩ [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
- - 👉 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)<!-- MEMES:END -->
+ - 💣 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
+ - ⏩ [So many questions...](http://9gag.com/gag/aQE8Rqq)
+ - 👉 [This country had 250 days in a row without common types of crime](http://9gag.com/gag/anzN5Nn)<!-- MEMES:END -->
 
 ---
 
