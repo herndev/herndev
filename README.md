@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nomad’s bringing back the early 2000s with a transparent charging brick](https://www.theverge.com/2022/10/25/23423691/nomad-transparent-30w-charger)
- - [&#39;Andor&#39; Episode 7 Explained: Empire Heaps on Brutality in Star Wars Heist&#39;s Aftermath     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-7-explained-empire-heaps-on-brutality-in-star-wars-heist-aftermath/#ftag=CAD590a51e)
- - [The Very Best Documentaries on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-documentaries-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Intel&#39;s Mobileye priced its 41M shares at $21 per share, above its target range of $18-$20 per share, raising $861M in its IPO at a $16.7B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/221025/p42#a221025p42)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 8 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-8-come-to-disney-plus/#ftag=CAD590a51e)
+ - [The Absolute Best Fantasy Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
