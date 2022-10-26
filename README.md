@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh, maggie?...seems like you forgot something for the landing](http://9gag.com/gag/aqe5LgL)
- - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 👉 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)<!-- MEMES:END -->
+ - 💣 [The horror of this scene is beyond words to describe.](http://9gag.com/gag/axojZxD)
+ - ⏩ [First hindutva PM](http://9gag.com/gag/aQE8erw)
+ - 👉 [Can anyone tell me why cant i take a decent picture with this item?](http://9gag.com/gag/a4oY4MQ)<!-- MEMES:END -->
 
 ---
 
