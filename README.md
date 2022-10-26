@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Ford is ending production of the Fiesta in Europe](https://www.theverge.com/2022/10/26/23424591/ford-fiesta-discontinuted-europe)
  - [Tim Cook saw big money in App Store ads, shot down early resistance](https://appleinsider.com/articles/22/10/26/tim-cook-saw-big-money-in-app-store-ads-shot-down-early-resistance?utm_medium=rss)
- - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)
- - [Apple&#39;s lack of care with gambling app ads is a symptom of a bigger problem](https://appleinsider.com/articles/22/10/26/apples-lack-of-care-with-gambling-app-ads-is-a-symptom-of-a-bigger-problem?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with Apple&#39;s Freeform collaborative brainstorming app](https://appleinsider.com/articles/22/10/26/hands-on-with-apples-freeform-collaborative-brainstorming-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
