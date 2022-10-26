@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta lashes out about Apple&#39;s new charge for social media boosts](https://appleinsider.com/articles/22/10/26/meta-lashes-out-about-apples-new-charge-for-social-media-boosts?utm_medium=rss)
- - [America’s Adderall Shortage Could Kill People](https://www.wired.com/story/adderall-shortage-problems/)
- - [The World Needs More Gigantic Sci-Fi Sea Dams](https://www.wired.com/story/tidal-power-sea-dams/)<!-- TECH:END -->
+ - [Ultimate iPad buyer&#39;s guide Christmas 2022 - which iPad to buy at any price point](https://appleinsider.com/articles/22/10/26/ultimate-ipad-buyers-guide-christmas-2022---which-ipad-to-buy-at-any-price-point?utm_medium=rss)
+ - [Defender Guard Pro Review: A Great Budget Security Camera](https://www.wired.com/review/defender-guard-pro/)
+ - [After Hurricane Ian&#39;s Floods, the Flesh-Eating Bacteria](https://www.wired.com/story/hurricane-ian-flood-flesh-eating-bacteria-vibrio/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
