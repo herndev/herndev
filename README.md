@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)
- - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 💣 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
+ - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 👉 [Difference between air force landing vs navy landing](http://9gag.com/gag/abv00QB)<!-- MEMES:END -->
 
 ---
 
