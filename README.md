@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Seth Rogen’s animated horny-food movie Sausage Party is getting a TV series](https://www.polygon.com/23425144/sausage-party-tv-show-amazon-cast)
- - [Dragon Age: Dreadwolf is now fully playable from start to finish](https://www.pcgamer.com/dragon-age-dreadwolf-is-now-fully-playable-from-start-to-finish)
- - [A Fireside Chat with Unity’s Marc Whitten](https://news.xbox.com/en-us/2022/10/26/a-fireside-chat-with-unitys-marc-whitten/)<!-- GAME:END -->
+ - [Modern Warfare II Makes You Aim Your Gun At Civilians To &#39;De-Escalate&#39;](https://kotaku.com/call-of-duty-modern-warfare-2-de-escalate-civilians-aim-1849706698)
+ - [Andy Serkis finally gets to play a good Star Wars villain thanks to Andor](https://www.polygon.com/23425037/andor-andy-serkis-kino-loy-star-wars-snoke)
+ - [Chloë Grace Moretz is becoming a PC gamer, asks for build help on Twitter](https://www.pcgamer.com/chloe-grace-moretz-is-becoming-a-pc-gamer-asks-for-build-help-on-twitter)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
