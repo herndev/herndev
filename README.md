@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Witches throughout time](http://9gag.com/gag/az2j8mx)
- - ⏩ [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
- - 👉 [He didn&#39;t even know. Wholesome AF Gimli.](http://9gag.com/gag/ap9v0M9)<!-- MEMES:END -->
+ - 💣 [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - ⏩ [Make it make sense](http://9gag.com/gag/adPj6bQ)
+ - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 ---
 
