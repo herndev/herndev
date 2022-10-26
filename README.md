@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google and Samsung Have Very Different Visions for the Tablet     - CNET](https://www.cnet.com/tech/computing/apple-google-and-samsung-have-very-different-visions-for-the-tablet/#ftag=CAD590a51e)
- - [The Pixel 7 series helped Google achieve its ‘highest selling week ever’](https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/)
- - [Hinge plans to add video verification feature as ‘romance scams’ soar](https://www.theverge.com/2022/10/26/23424169/hinge-video-verification-feature-romance-scams-catfishing)<!-- TECH:END -->
+ - [Match Group plans to add profile verification to Hinge in November, asking users to provide a video selfie, aiming to crack down on scammers &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/221026/p8#a221026p8)
+ - [After Apple rolls out its new App Store ad units, prominent developers complain about gambling ads appearing in their app listings with no way to stop them &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221026/p7#a221026p7)
+ - [Here’s when your Samsung phone or tablet might get Android 13](https://www.theverge.com/2022/10/26/23424170/android-13-update-samsung-release-schedule)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
