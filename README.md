@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [House of the Dragon’s first season shows how good it hurts when you see everything coming](https://www.polygon.com/23423671/house-dragon-season-1-review)
- - [Team Ninja’s new Soulslike Wo Long will be out early next year](https://www.polygon.com/23424218/wo-long-fallen-dynasty-team-ninja-soulslike-release-date)
- - [Deep Rock Galactic&#39;s third season turns your miners into grenade-lobbing doctors](https://www.pcgamer.com/deep-rock-galactics-third-season-turns-your-miners-into-grenade-lobbing-doctors)<!-- GAME:END -->
+ - [Gotham Knights didn’t just kill Batman — it also killed Gotham](https://www.polygon.com/23423315/gotham-knights-is-batman-dead-gotham-city-districts-open-world)
+ - [November Savings promotion comes to PlayStation Store](https://blog.playstation.com/2022/10/26/november-savings-promotion-comes-to-playstation-store-2/)
+ - [LEGO Star Wars: The Skywalker Saga Galactic Edition Adds 30 Playable Characters](https://news.xbox.com/en-us/2022/10/26/lego-star-wars-skywalker-saga-galactic-edition-announce/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
