@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel&#39;s Mobileye priced its 41M shares at $21 per share, above its target range of $18-$20 per share, raising $861M in its IPO at a $16.7B valuation &lpar;Echo Wang/Reuters&rpar;](http://www.techmeme.com/221025/p42#a221025p42)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 8 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-8-come-to-disney-plus/#ftag=CAD590a51e)
- - [The Absolute Best Fantasy Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-fantasy-movies-on-prime-video/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Israel-based Vesttoo, an AI-powered risk transfer marketplace connecting insurers and investors, has raised an $80M Series C at a $1B post-money valuation &lpar;Ofir Dor/Globes Online&rpar;](http://www.techmeme.com/221025/p44#a221025p44)
+ - [LinkedIn is rolling out new profile verification features and will also begin alerting users if messages they have received from other users seem suspicious &lpar;Clare Duffy/CNN&rpar;](http://www.techmeme.com/221025/p43#a221025p43)
+ - [New App Store ad slots heavily promote gambling apps](https://appleinsider.com/articles/22/10/26/new-app-store-ad-slots-heavily-promote-gambling-apps?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
