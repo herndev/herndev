@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I played this spellbindingly complex 4X classic, and all I got was a lot of dead halflings](https://www.pcgamer.com/i-played-this-spellbindingly-complex-4x-classic-and-all-i-got-was-a-lot-of-dead-halflings)
- - [11 Gotham Knights Tips To Kick Criminal Ass And Clean The Streets In Style](https://kotaku.com/gotham-knights-tips-change-characters-knighthood-glide-1849701791)
- - [Remember Epic&#39;s action-Moba that got steamrollered by Fortnite&#39;s success? It&#39;s back](https://www.pcgamer.com/remember-epics-action-moba-that-got-steamrollered-by-fortnites-success-its-back)<!-- GAME:END -->
+ - [Hands-on with The Callisto Protocol reveals combat strategy, upgrades, ruthless enemies, and more](https://blog.playstation.com/2022/10/26/hands-on-with-the-callisto-protocol-reveals-combat-strategy-upgrades-ruthless-enemies-and-more/)
+ - [inXile 20th Anniversary Documentary](https://news.xbox.com/en-us/2022/10/26/inxile-20th-anniversary-documentary/)
+ - [The 12 Best Horror Games On PS Plus](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
