@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Android phones offered early US quake warning, beating iPhones to the punch](https://www.androidauthority.com/android-phones-earthquake-detection-warning-usa-3224704/)
  - [Colorado-based Fermyon, which offers a managed cloud service for building WebAssembly-based microservices, raised a $20M Series A led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221026/p4#a221026p4)
- - [Apple says iMessage on Android ‘seemed like a throwaway’](https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/)
- - [Australia&#39;s biggest health insurer Medibank says an October 2022 hack compromised personal and &quot;significant amounts&quot; of health claims data of its ~4M customers &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p3#a221026p3)<!-- TECH:END -->
+ - [Apple says iMessage on Android ‘seemed like a throwaway’](https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
