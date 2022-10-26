@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s legendary Clarus the dogcow returns in macOS Ventura](https://appleinsider.com/articles/22/06/14/apples-legendary-clarus-the-dogcow-returns-in-macos-ventura?utm_medium=rss)
- - [Sources: the US DOJ launched a criminal probe into Tesla last year, still underway, following over a dozen crashes, some fatal, where Autopilot was enabled &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p21#a221026p21)
- - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Tesla’s self-driving claims are reportedly under criminal investigation](https://www.theverge.com/2022/10/26/23425335/tesla-autopilot-justice-department-criminal-investigation)
+ - [Sources: autonomous vehicle startup Argo AI, which raised billions in VC funding, is shutting down; top backers Ford and VW will absorb its parts and some staff &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/221026/p26#a221026p26)
+ - [Xbox’s Phil Spencer says the metaverse is a ‘poorly built video game’](https://www.theverge.com/2022/10/26/23425128/xbox-phil-spencer-metaverse-poorly-built-video-game-microsoft)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
