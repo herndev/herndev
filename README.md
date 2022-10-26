@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s Halloween Event Is A Major Downgrade](https://kotaku.com/overwatch-halloween-battle-pass-kiriko-skin-blizzard-1849704761)
- - [Return to Ghostly Gameplay in Overwatch 2’s Halloween Terror](https://news.xbox.com/en-us/2022/10/26/return-to-ghostly-gameplay-in-overwatch-2s-halloween-terror/)
- - [The Original Witcher Is Getting A Fancy New Unreal 5 Remake](https://kotaku.com/witcher-1-remake-unreal-5-cdpr-rpg-fools-theory-1849704716)<!-- GAME:END -->
+ - [Gaming Store Robbed At Gunpoint Months After $14,000 Burglary](https://kotaku.com/pink-gorilla-games-store-seattle-robbery-gun-pokemon-1849705349)
+ - [Play The Quarry This Halloween and Grab Limited-Time Character Outfits](https://news.xbox.com/en-us/2022/10/26/the-quarry-halloween-limited-time-character-outfits/)
+ - [RimWorld’s new BioTech DLC turned me into a child labor-exploiting monster](https://www.polygon.com/23423381/rimworld-biotech-expansion-children-impressions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
