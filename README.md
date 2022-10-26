@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
- - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - 👉 [I always wanted to rescue a stray dog](http://9gag.com/gag/aREAAv2)<!-- MEMES:END -->
+ - 💣 [Robbers shot rider at 150km/h to steal a ducati multisstrada 1200... luckily he escapes](http://9gag.com/gag/aoK99Kg)
+ - ⏩ [No OC, still good...](http://9gag.com/gag/a5X7N8g)
+ - 👉 [First hindutva PM](http://9gag.com/gag/aQE8erw)<!-- MEMES:END -->
 
 ---
 
