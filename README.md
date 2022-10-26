@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Resonai, whose Vera service creates digital twins of commercial buildings using AI and AR, raised a $20M Series A extension, bringing the round&#39;s total to $30M &lpar;Sri Krishna/VentureBeat&rpar;](http://www.techmeme.com/221026/p1#a221026p1)
  - [Apple confirms the iPhone is getting USB-C, but isn’t happy about the reason why](https://www.theverge.com/2022/10/26/23423977/iphone-usb-c-eu-law-joswiak-confirms-compliance-lightning)
- - [Greg Joswiak confirms iPhone&#39;s future move to USB-C](https://appleinsider.com/articles/22/10/26/greg-joswiak-confirms-iphones-future-move-to-usb-c?utm_medium=rss)
- - [Square&#39;s parent company Block sells access to customers&#39; email addresses used to receive receipts, which experts say falls short of best privacy practices &lpar;Ben Brody/Protocol&rpar;](http://www.techmeme.com/221025/p45#a221025p45)<!-- TECH:END -->
+ - [Guy Known for Playing Dead on TikTok Lands Role Playing Dead on &#39;CSI: Vegas&#39;     - CNET](https://www.cnet.com/culture/entertainment/guy-known-for-playing-dead-on-tiktok-lands-role-playing-dead-on-csi-vegas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
