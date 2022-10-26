@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gambling App Store ads are showing up next to addiction recovery apps](https://appleinsider.com/articles/22/10/26/gambling-app-store-ads-are-showing-up-next-to-addiction-recovery-apps?utm_medium=rss)
- - [A Pro-China Disinfo Campaign Is Targeting US Elections—Badly](https://www.wired.com/story/us-midterm-election-disinformation-dragonbridge/)
- - [Rode has launched a new gaming-focused audio product line](https://www.theverge.com/2022/10/26/23424305/rode-x-gaming-streaming-new-audio-products-microphones)<!-- TECH:END -->
+ - [Covid-19 sweeping through Foxconn&#39;s main iPhone factory](https://appleinsider.com/articles/22/10/26/foxconns-main-iphone-factory-hit-by-covid-19-outbreak?utm_medium=rss)
+ - [Apple expands learning program for US educators](https://appleinsider.com/articles/22/10/26/apple-expands-learning-program-for-us-educators?utm_medium=rss)
+ - [Hotline Miami’s ultra-violence has influenced games for a decade](https://www.theverge.com/2022/10/26/23422597/hotline-miami-10-year-anniversary)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
