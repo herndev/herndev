@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)
- - ⏩ [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)
- - 👉 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
+ - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
 
 ---
 
