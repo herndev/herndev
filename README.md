@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It actually worked. . .](http://9gag.com/gag/a4oYQnZ)
- - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 💣 [So many questions...](http://9gag.com/gag/aQE8Rqq)
+ - ⏩ [UK chancellor\u2019s magically colour-changing documents](http://9gag.com/gag/a04pj0X)
+ - 👉 [Make it make sense](http://9gag.com/gag/adPj6bQ)<!-- MEMES:END -->
 
 ---
 
