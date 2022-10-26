@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Match Group plans to add profile verification to Hinge in November, asking users to provide a video selfie, aiming to crack down on scammers &lpar;Lauren Goode/Wired&rpar;](http://www.techmeme.com/221026/p8#a221026p8)
- - [After Apple rolls out its new App Store ad units, prominent developers complain about gambling ads appearing in their app listings with no way to stop them &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221026/p7#a221026p7)
- - [Here’s when your Samsung phone or tablet might get Android 13](https://www.theverge.com/2022/10/26/23424170/android-13-update-samsung-release-schedule)<!-- TECH:END -->
+ - [Meta lashes out about Apple&#39;s new charge for social media boosts](https://appleinsider.com/articles/22/10/26/meta-lashes-out-about-apples-new-charge-for-social-media-boosts?utm_medium=rss)
+ - [America’s Adderall Shortage Could Kill People](https://www.wired.com/story/adderall-shortage-problems/)
+ - [The World Needs More Gigantic Sci-Fi Sea Dams](https://www.wired.com/story/tidal-power-sea-dams/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
