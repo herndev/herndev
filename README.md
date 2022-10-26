@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on with The Callisto Protocol reveals combat strategy, upgrades, ruthless enemies, and more](https://blog.playstation.com/2022/10/26/hands-on-with-the-callisto-protocol-reveals-combat-strategy-upgrades-ruthless-enemies-and-more/)
- - [inXile 20th Anniversary Documentary](https://news.xbox.com/en-us/2022/10/26/inxile-20th-anniversary-documentary/)
- - [The 12 Best Horror Games On PS Plus](https://kotaku.com/ps-plus-horror-ps4-ps5-zombie-silent-hill-resident-evil-1849704393)<!-- GAME:END -->
+ - [Overwatch 2’s Halloween Event Is A Major Downgrade](https://kotaku.com/overwatch-halloween-battle-pass-kiriko-skin-blizzard-1849704761)
+ - [Return to Ghostly Gameplay in Overwatch 2’s Halloween Terror](https://news.xbox.com/en-us/2022/10/26/return-to-ghostly-gameplay-in-overwatch-2s-halloween-terror/)
+ - [The Original Witcher Is Getting A Fancy New Unreal 5 Remake](https://kotaku.com/witcher-1-remake-unreal-5-cdpr-rpg-fools-theory-1849704716)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
