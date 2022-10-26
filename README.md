@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [So many questions...](http://9gag.com/gag/aQE8Rqq)
+ - 💣 [What sort of dark magic is this?](http://9gag.com/gag/avQP8vb)
  - ⏩ [UK chancellor\u2019s magically colour-changing documents](http://9gag.com/gag/a04pj0X)
- - 👉 [Make it make sense](http://9gag.com/gag/adPj6bQ)<!-- MEMES:END -->
+ - 👉 [So many questions...](http://9gag.com/gag/aQE8Rqq)<!-- MEMES:END -->
 
 ---
 
