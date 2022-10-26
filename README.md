@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android phones offered early US quake warning, beating iPhones to the punch](https://www.androidauthority.com/android-phones-earthquake-detection-warning-usa-3224704/)
- - [Colorado-based Fermyon, which offers a managed cloud service for building WebAssembly-based microservices, raised a $20M Series A led by Insight Partners &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221026/p4#a221026p4)
- - [Apple says iMessage on Android ‘seemed like a throwaway’](https://www.androidauthority.com/apple-imessage-android-throwaway-3224263/)<!-- TECH:END -->
+ - [Apple, Google and Samsung Have Very Different Visions for the Tablet     - CNET](https://www.cnet.com/tech/computing/apple-google-and-samsung-have-very-different-visions-for-the-tablet/#ftag=CAD590a51e)
+ - [The Pixel 7 series helped Google achieve its ‘highest selling week ever’](https://www.androidauthority.com/google-pixel-7-highest-selling-week-sales-3224721/)
+ - [Hinge plans to add video verification feature as ‘romance scams’ soar](https://www.theverge.com/2022/10/26/23424169/hinge-video-verification-feature-romance-scams-catfishing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
