@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The horror of this scene is beyond words to describe.](http://9gag.com/gag/axojZxD)
- - ⏩ [First hindutva PM](http://9gag.com/gag/aQE8erw)
- - 👉 [Can anyone tell me why cant i take a decent picture with this item?](http://9gag.com/gag/a4oY4MQ)<!-- MEMES:END -->
+ - 💣 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
+ - ⏩ [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - 👉 [I always wanted to rescue a stray dog](http://9gag.com/gag/aREAAv2)<!-- MEMES:END -->
 
 ---
 
