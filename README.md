@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ultimate iPad buyer&#39;s guide Christmas 2022 - which iPad to buy at any price point](https://appleinsider.com/articles/22/10/26/ultimate-ipad-buyers-guide-christmas-2022---which-ipad-to-buy-at-any-price-point?utm_medium=rss)
- - [Defender Guard Pro Review: A Great Budget Security Camera](https://www.wired.com/review/defender-guard-pro/)
- - [After Hurricane Ian&#39;s Floods, the Flesh-Eating Bacteria](https://www.wired.com/story/hurricane-ian-flood-flesh-eating-bacteria-vibrio/)<!-- TECH:END -->
+ - [Daily deals Oct. 26: $310 off 14-inch MacBook Pro, $550 off 40TB Synology Diskstation, Logitech MX Keys Mini for $80, more](https://appleinsider.com/articles/22/10/26/daily-deals-oct-26-310-off-14-inch-macbook-pro-550-off-40tb-synology-diskstation-logitech-mx-keys-mini-for-80-more?utm_medium=rss)
+ - [The ‘Brightest of All Time’ Gamma-Ray Burst Sparks a Supernova Hunt](https://www.wired.com/story/brightest-of-all-time-gamma-ray-burst-supernova-hunt/)
+ - [Seagate misses Q1 estimates with $2.04B revenue and plans to cut around 3,000 jobs to reduce costs amid slowing demand; stock drops 9%+ and is down ~50% YTD &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/221026/p14#a221026p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
