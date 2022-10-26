@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Almost didn&#39;t get it](http://9gag.com/gag/agoV0VK)
- - ⏩ [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)
- - 👉 [Nice &#39;P&#39;ersonality](http://9gag.com/gag/aeQGM4v)<!-- MEMES:END -->
+ - 💣 [How the soup base for hotpot is made](http://9gag.com/gag/aA01g19)
+ - ⏩ [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)
+ - 👉 [Perfection](http://9gag.com/gag/aPgDYjG)<!-- MEMES:END -->
 
 ---
 
