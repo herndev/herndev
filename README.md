@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I always wanted to rescue a stray dog](http://9gag.com/gag/aREAAv2)
- - ⏩ [Make it make sense](http://9gag.com/gag/adPj6bQ)
- - 👉 [The lion, the witch..](http://9gag.com/gag/amA9Y9d)<!-- MEMES:END -->
+ - 💣 [Just a normal post](http://9gag.com/gag/aeQGe4O)
+ - ⏩ [The lion, the witch..](http://9gag.com/gag/amA9Y9d)
+ - 👉 [Likely alternative to Earth](http://9gag.com/gag/a04pQ8X)<!-- MEMES:END -->
 
 ---
 
