@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel’s Midnight Suns: Super-heroic turn-based combat and card tactics explained](https://blog.playstation.com/2022/10/26/marvels-midnight-suns-super-heroic-turn-based-combat-and-card-tactics-explained/)
- - [The Making of Gotham Knights, Available Now for Xbox Series X|S](https://news.xbox.com/en-us/2022/10/26/the-making-of-gotham-knights-available-now-for-xbox-series-xs/)
- - [The Spooky Lowdown On This Year&#39;s Fortnitemares Event](https://kotaku.com/fortnite-fortnitemares-2022-evil-dead-ash-williams-1849705361)<!-- GAME:END -->
+ - [A Fireside Chat with Unity’s Marc Whitten](https://news.xbox.com/en-us/2022/10/26/a-fireside-chat-with-unitys-marc-whitten/)
+ - [InXile celebrates 20 years by remembering that time it made a baby game and got swept up in a moral panic](https://www.pcgamer.com/inxile-celebrates-20-years-by-remembering-that-time-it-made-a-baby-game-and-got-swept-up-in-a-moral-panic)
+ - [Dead by Daylight leaks reveal Cheryl’s magical girl outfit is on the way](https://www.polygon.com/23424874/dead-by-daylight-leaks-silent-hill-heather-cheryl-princess-heart-cosmetic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
