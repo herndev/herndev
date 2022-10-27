@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4 vs. Galaxy Z Fold 3 vs. Galaxy Z Fold 2: What&#39;s Changed Over The Years     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-vs-galaxy-z-fold-3-vs-galaxy-z-fold-2-whats-changed-over-the-years/#ftag=CAD590a51e)
- - [Thursday Night Football: How to Watch, Stream Ravens vs. Buccaneers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-ravens-vs-buccaneers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [6 Best Peloton Alternatives for 2022     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft’s great OneNote merge begins with a single app in the Windows store](https://www.theverge.com/2022/10/27/23426155/microsoft-onenote-windows-store-single-app)
+ - [Asus’ foldable laptop goes on sale for $3,499.99](https://www.theverge.com/2022/10/27/23426154/asus-zenbook-17-fold-oled-foldable-laptop-price-release-date-specs-features)
+ - [Indian B2B marketplace Udaan raised $120M in convertible notes and debt, taking its funding to $350M+ in the past year, and plans an IPO in 12-18 months &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221027/p11#a221027p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
