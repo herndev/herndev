@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Meta receives a ~$24.7M fine, the maximum possible, after a Washington judge found it had intentionally violated campaign finance disclosure laws 822 times &lpar;David Gutman/The Seattle Times&rpar;](http://www.techmeme.com/221027/p4#a221027p4)
  - [The Galaxy S22 series made more cash for Samsung than the S21 a year ago](https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/)
- - [ICO, the UK&#39;s privacy watchdog, warns organizations of the risks of using &quot;emotional analysis&quot; tech, and plans to publish its biometric guidance in spring 2023 &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221027/p3#a221027p3)
- - [Japanese chipmaker Kioxia Holdings and US&#39; Western Digital open a new ~$6.79B flash memory fab in Mie Prefecture, amid a market downturn for memory chips &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/221027/p2#a221027p2)<!-- TECH:END -->
+ - [ICO, the UK&#39;s privacy watchdog, warns organizations of the risks of using &quot;emotional analysis&quot; tech, and plans to publish its biometric guidance in spring 2023 &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221027/p3#a221027p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
