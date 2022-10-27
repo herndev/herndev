@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peruvian Dog](http://9gag.com/gag/armKW8y)
- - ⏩ [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)
- - 👉 [*insert title here*](http://9gag.com/gag/aA01Qeg)<!-- MEMES:END -->
+ - 💣 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
+ - ⏩ [Who reads it anyway](http://9gag.com/gag/aREALQ2)
+ - 👉 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
 
 ---
 
