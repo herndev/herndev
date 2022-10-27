@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meta will launch next generation Quest VR headset next year](https://www.pcgamer.com/meta-will-launch-next-generation-quest-vr-headset-next-year)
- - [Today&#39;s Wordle 495 answer and hint: Thursday, October 27](https://www.pcgamer.com/wordle-today-495-answer-hint)
- - [Pioneering Sega Developer Rieko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)<!-- GAME:END -->
+ - [Create your own challenging Blue Fire levels with Void Maker DLC, out November 1](https://blog.playstation.com/2022/10/27/create-your-own-challenging-blue-fire-levels-with-void-maker-dlc-out-november-1/)
+ - [This developer is paving the way for AI generated worlds in virtual reality](https://www.pcgamer.com/ai-generated-stable-diffusion-vr-dev-interview-scottie-fox)
+ - [How to gain shields with jelly beans in Fortnite](https://www.pcgamer.com/fortnite-jelly-beans-gain-shields-quest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
