@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-hit-disney-plus/#ftag=CAD590a51e)
- - [Winter Weather Could Knock Out Your Home Internet. Here&#39;s What You Can Do     - CNET](https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CAD590a51e)
- - [Elevate Your Mental Health With These 6 Easy Thought Exercises     - CNET](https://www.cnet.com/health/mental/elevate-your-mental-health-with-these-6-easy-thought-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Atlanta-based ConnexPay, which integrates incoming user payments with supplier payments in one platform, raised $110M from FTV Capital for European expansion &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221026/p35#a221026p35)
+ - [Samsung Electronics formally names de facto leader Jay Y. Lee executive chairman; his ascension had been delayed by graft investigations and two stints in jail &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/221026/p34#a221026p34)
+ - [Samsung Q3: operating profit down 31%+ YoY to $7.65B, revenue up ~4% YoY to $54.1B, semiconductor sales down 14% YoY; first quarterly profit decline in ~3 years &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221026/p33#a221026p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
