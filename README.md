@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple pauses App Store gambling ads after developer outcry](https://www.theverge.com/2022/10/26/23425637/apple-pauses-gambling-ads-developer-outcry)
- - [Rihanna Shares &#39;Black Panther: Wakanda Forever&#39; Song Clip     - CNET](https://www.cnet.com/culture/entertainment/rihanna-shares-black-panther-wakanda-forever-song-clip/#ftag=CAD590a51e)
- - [Best Sonos Deals: Get $20 off 2 Roam Speakers, $30 off a Roam and Move Set, $50 off 2 Five Speakers     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-hit-disney-plus/#ftag=CAD590a51e)
+ - [Winter Weather Could Knock Out Your Home Internet. Here&#39;s What You Can Do     - CNET](https://www.cnet.com/news/how-likely-is-bad-weather-to-knock-out-your-home-internet/#ftag=CAD590a51e)
+ - [Elevate Your Mental Health With These 6 Easy Thought Exercises     - CNET](https://www.cnet.com/health/mental/elevate-your-mental-health-with-these-6-easy-thought-exercises/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
