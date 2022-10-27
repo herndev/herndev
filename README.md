@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 27: up to $1,000 off Samsung OLED TVs, $200 off M1 12.9-inch iPad Pro, Hover-1 Blast scooter for $90, more](https://appleinsider.com/articles/22/10/27/daily-deals-oct-27-800-off-samsung-oled-tvs-200-off-m1-129-inch-ipad-pro-hover-1-blast-scooter-for-90-more?utm_medium=rss)
- - [How to use Macro Focus on the Google Pixel 7 Pro](https://www.androidauthority.com/pixel-7-macro-focus-3221847/)
- - [Student Debt Relief and the Racial Wealth Gap: We Need to Do More     - CNET](https://www.cnet.com/personal-finance/student-debt-relief-and-the-racial-wealth-gap-we-need-to-do-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft: Xbox game streaming console is ‘years away’](https://www.theverge.com/2022/10/27/23426512/microsoft-xbox-game-streaming-console-years-away)
+ - [iPads made flight decks digital — now United is using them to confirm airplane maintenance](https://www.theverge.com/2022/10/27/23424311/united-airlines-apple-ipad-mrd-maintenance-signoff-faa-approval)
+ - [Apple has &quot;paused ads related to gambling and a few other categories on App Store product pages&quot; after criticism from developers and others &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221027/p26#a221027p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
