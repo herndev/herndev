@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - ⏩ [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 👉 [Parking Mastery](http://9gag.com/gag/aPgDAOq)<!-- MEMES:END -->
+ - 💣 [Sculptor turned Ukrainian soldier](http://9gag.com/gag/axojWZL)
+ - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
+ - 👉 [Peruvian Dog](http://9gag.com/gag/armKW8y)<!-- MEMES:END -->
 
 ---
 
