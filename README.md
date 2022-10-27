@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand](https://www.theverge.com/2022/10/27/23427035/apple-q4-2022-earnings-iphone-14-sales-mac-services)
- - [Amazon’s sales are up, but it’s expecting a tight holiday season](https://www.theverge.com/2022/10/27/23416918/amazon-q3-2022-earnings-sales-up-holiday-season-andy-jassy)
- - [Telegram testing pay-to-view posts, skirts Apple payment system](https://appleinsider.com/articles/22/10/27/telegram-testing-pay-to-view-posts-skirts-apple-payment-system?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter is testing letting users display NFTs directly through tweets in partnership with Dapper Labs, Magic Eden, Rarible, and Jump.trade &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/221027/p41#a221027p41)
+ - [Mac revenue set a record for Apple but will decline in the next quarter](https://appleinsider.com/articles/22/10/27/mac-revenue-set-a-record-for-apple-but-will-decline-in-the-next-quarter?utm_medium=rss)
+ - [Apple CEO Tim Cook says iPhone 14 Pro demand exceeds supply](https://appleinsider.com/articles/22/10/27/apple-ceo-tim-cook-says-iphone-14-pro-demand-exceeds-supply?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
