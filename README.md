@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Japanese chipmaker Kioxia Holdings and US&#39; Western Digital open a new ~$6.79B flash memory fab in Mie Prefecture, amid a market downturn for memory chips &lpar;Ryosuke Eguchi/Nikkei Asia&rpar;](http://www.techmeme.com/221027/p2#a221027p2)
  - [Apple patched a bug in iOS 16.1 and macOS Ventura that could allow apps with Bluetooth access to record user conversations with Siri without needing mic access &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/221027/p1#a221027p1)
- - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)
- - [Canalys: China&#39;s Q3 smartphone shipments fell 11% YoY to 70M; Vivo, Oppo, and Honor fell 23%, 27%, and 16% respectively, Apple rose 36% on iPhone 14 Pro demand &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p36#a221026p36)<!-- TECH:END -->
+ - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
