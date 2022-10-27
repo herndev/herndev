@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Adam changed DC hierarchy by putting the wrong person in charge](https://www.polygon.com/23425433/black-adam-amanda-waller-dcu-hierarchy)
- - [20 Tips I Wish I Knew Before Playing Marvel Snap, 2022&#39;s Best New Card Game](https://kotaku.com/marvel-snap-best-deck-pool-explained-level-tier-rewards-1849702430)
- - [The Unsettling Power of Dishonored’s Dunwall](https://kotaku.com/dishonored-game-dunwall-arkane-outsider-rats-immersive-1849707173)<!-- GAME:END -->
+ - [8 Forspoken parkour abilities to make Frey a spell-slinging acrobat](https://blog.playstation.com/2022/10/27/8-forspoken-parkour-abilities-to-make-frey-a-spell-slinging-acrobat/)
+ - [We’re streaming New State Mobile today](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)
+ - [Game Pass’ coolest game next month looks like Limbo meets War of the Worlds](https://www.polygon.com/23426410/somerville-release-date-xbox-game-pass-pc-jumpship)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
