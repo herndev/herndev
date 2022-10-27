@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is testing letting users display NFTs directly through tweets in partnership with Dapper Labs, Magic Eden, Rarible, and Jump.trade &lpar;Andrew Hayward/Decrypt&rpar;](http://www.techmeme.com/221027/p41#a221027p41)
- - [Mac revenue set a record for Apple but will decline in the next quarter](https://appleinsider.com/articles/22/10/27/mac-revenue-set-a-record-for-apple-but-will-decline-in-the-next-quarter?utm_medium=rss)
- - [Apple CEO Tim Cook says iPhone 14 Pro demand exceeds supply](https://appleinsider.com/articles/22/10/27/apple-ceo-tim-cook-says-iphone-14-pro-demand-exceeds-supply?utm_medium=rss)<!-- TECH:END -->
+ - [Classera, a San Francisco-based ed tech startup focused on the Middle East and Africa, raised a $40M Series A led by Sanabil, which is run by Saudi Arabia&#39;s PIF &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221027/p42#a221027p42)
+ - [Intel layoffs are coming in Q4 as it cuts billions in spending](https://www.theverge.com/2022/10/27/23427403/intel-q3-2022-layoffs-billions-cost-reductions)
+ - [A guide to Google’s Digital Wellbeing](https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
