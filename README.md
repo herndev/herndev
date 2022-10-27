@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Bodycam Horror Game Looks Freaking Terrifying](https://kotaku.com/bodycam-horror-spooky-paranormal-tales-pt-steam-1849711720)
- - [Bungie responds to player complaints over weapon crafting grind](https://www.pcgamer.com/bungie-responds-to-player-complaints-over-weapon-crafting-grind)
- - [Weapon crafting is coming to one of Destiny 2’s best raids](https://www.polygon.com/23427080/destiny-2-weapon-crafting-rework-deep-stone-crypt-lightfall-season)<!-- GAME:END -->
+ - [Snag 6 months of GeForce Now Priority access for only $30](https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30)
+ - [Junji Ito Maniac’s intro is a trippy and creepy first look at the Netflix anime](https://www.polygon.com/23427182/junji-ito-maniac-netflix-release-date-japanese-tales-macabre)
+ - [Steam Game Bails On Loot Boxes To Win Back Players](https://kotaku.com/moonbreaker-loot-box-microtransaction-pc-steam-ttrpg-1849712019)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
