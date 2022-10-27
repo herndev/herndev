@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Henry Cavill seems to be treating Total War: Warhammer 3 like a part-time job](https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job)
- - [Netflix is grabbing one of the streaming era’s best comedies](https://www.polygon.com/23427105/netflix-girls5eva-season-3-streaming-renewed)
- - [How to stream ‘Lift Me Up,’ Rihanna’s first Black Panther 2 song](https://www.polygon.com/23426525/lift-me-up-rihannas-black-panther-2-song-stream-release-time)<!-- GAME:END -->
+ - [Marvel&#39;s Midnight Suns is getting Deadpool, Venom, and more as DLC](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)
+ - [Oops: Gotham Knights Briefly Ditched Its Anti-Piracy Protection](https://kotaku.com/gotham-knights-denuvo-hack-piracy-pc-framerate-patch-1849712660)
+ - [Henry Cavill seems to be treating Total War: Warhammer 3 like a part-time job](https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
