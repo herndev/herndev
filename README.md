@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Headphone Deals: Save on Sony, Bose, AirPods and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
- - [Apple flexes its control over the App Store](https://www.theverge.com/2022/10/27/23426993/apple-app-store-rules-guidelines-ads-changes-flexes-control)
- - [Toyota Tundra&#39;s TRD Lift Kit Preserves Driver-Aid Tech Compatibility     - CNET](https://www.cnet.com/roadshow/news/toyota-tundras-trd-lift-kit-preserves-driver-aid-tech-compatibility/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon.com Announces Third Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/221027/p34#a221027p34)
+ - [Apple claims faster response to security bugs, launches dedicated site](https://appleinsider.com/articles/22/10/27/apple-claims-faster-response-to-security-bugs-launches-dedicated-site?utm_medium=rss)
+ - [Valve’s new beta lets you use the Steam Deck UI on your desktop](https://www.theverge.com/2022/10/27/23426994/valve-steam-deck-big-picture-mode-ui-test-beta)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
