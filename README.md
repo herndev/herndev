@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
- - 👉 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)<!-- MEMES:END -->
+ - 💣 [Meat... Balls... Meatballs!](http://9gag.com/gag/aqe5eVQ)
+ - ⏩ [Guys. Guys! Guys!!! What day is it?](http://9gag.com/gag/a8qMo3Q)
+ - 👉 [This country had 250 days in a row without common types of crime](http://9gag.com/gag/anzN5Nn)<!-- MEMES:END -->
 
 ---
 
