@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meta will launch next generation Quest VR headset next year](https://www.pcgamer.com/meta-will-launch-next-generation-quest-vr-headset-next-year)
  - [Today&#39;s Wordle 495 answer and hint: Thursday, October 27](https://www.pcgamer.com/wordle-today-495-answer-hint)
- - [Pioneering Sega Developer Rieko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)
- - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
+ - [Pioneering Sega Developer Rieko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
