@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meat... Balls... Meatballs!](http://9gag.com/gag/aqe5eVQ)
- - ⏩ [Some respect at least](http://9gag.com/gag/aMEGZE1)
- - 👉 [Same logic but double standards](http://9gag.com/gag/aZDMyyW)<!-- MEMES:END -->
+ - 💣 [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 👉 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)<!-- MEMES:END -->
 
 ---
 
