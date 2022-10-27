@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - ⏩ [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 👉 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)<!-- MEMES:END -->
+ - 💣 [Meat... Balls... Meatballs!](http://9gag.com/gag/aqe5eVQ)
+ - ⏩ [Some respect at least](http://9gag.com/gag/aMEGZE1)
+ - 👉 [Same logic but double standards](http://9gag.com/gag/aZDMyyW)<!-- MEMES:END -->
 
 ---
 
