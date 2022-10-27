@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft’s great OneNote merge begins with a single app in the Windows store](https://www.theverge.com/2022/10/27/23426155/microsoft-onenote-windows-store-single-app)
- - [Asus’ foldable laptop goes on sale for $3,499.99](https://www.theverge.com/2022/10/27/23426154/asus-zenbook-17-fold-oled-foldable-laptop-price-release-date-specs-features)
- - [Indian B2B marketplace Udaan raised $120M in convertible notes and debt, taking its funding to $350M+ in the past year, and plans an IPO in 12-18 months &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221027/p11#a221027p11)<!-- TECH:END -->
+ - [South Korean prosecutors indict four current and former Samsung employees over allegedly stealing and leaking semiconductor tech to overseas companies &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/221027/p14#a221027p14)
+ - [The USDA announces $759M in grants and loans for 49 recipients in 24 states for rural high-speed internet access, as part of the $65B infrastructure law &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/221027/p13#a221027p13)
+ - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~20% in 2022 to $200B, down from 38% in 2021, as digital adoption growth normalizes &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/221027/p12#a221027p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
