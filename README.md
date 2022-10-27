@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atlanta-based ConnexPay, which integrates incoming user payments with supplier payments in one platform, raised $110M from FTV Capital for European expansion &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221026/p35#a221026p35)
- - [Samsung Electronics formally names de facto leader Jay Y. Lee executive chairman; his ascension had been delayed by graft investigations and two stints in jail &lpar;Sohee Kim/Bloomberg&rpar;](http://www.techmeme.com/221026/p34#a221026p34)
- - [Samsung Q3: operating profit down 31%+ YoY to $7.65B, revenue up ~4% YoY to $54.1B, semiconductor sales down 14% YoY; first quarterly profit decline in ~3 years &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221026/p33#a221026p33)<!-- TECH:END -->
+ - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)
+ - [Canalys: China&#39;s Q3 smartphone shipments fell 11% YoY to 70M; Vivo, Oppo, and Honor fell 23%, 27%, and 16% respectively, Apple rose 36% on iPhone 14 Pro demand &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p36#a221026p36)
+ - [Atlanta-based ConnexPay, which integrates incoming user payments with supplier payments in one platform, raised $110M from FTV Capital for European expansion &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221026/p35#a221026p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
