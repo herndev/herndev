@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
- - ⏩ [Who reads it anyway](http://9gag.com/gag/aREALQ2)
- - 👉 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
+ - 💣 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
+ - ⏩ [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
+ - 👉 [Parking Mastery](http://9gag.com/gag/aPgDAOq)<!-- MEMES:END -->
 
 ---
 
