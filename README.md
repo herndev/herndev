@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
- - ⏩ [Dew it :d](http://9gag.com/gag/a2Km7oD)
- - 👉 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)<!-- MEMES:END -->
+ - 💣 [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - ⏩ [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)
+ - 👉 [PC BIOS Settings](http://9gag.com/gag/aZDMMRV)<!-- MEMES:END -->
 
 ---
 
