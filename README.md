@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sculptor turned Ukrainian soldier](http://9gag.com/gag/axojWZL)
- - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
- - 👉 [Peruvian Dog](http://9gag.com/gag/armKW8y)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)
+ - 👉 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)<!-- MEMES:END -->
 
 ---
 
