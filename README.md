@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.2 asks for feedback on accidental Emergency SOS activation](https://appleinsider.com/articles/22/10/27/ios-162-asks-for-feedback-on-accidental-emergency-sos-activation?utm_medium=rss)
- - [Sources: ahead of Elon Musk&#39;s takeover, advertisers on Twitter are concerned about looser content moderation and potential conflicts of interest for auto ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221027/p19#a221027p19)
- - [Where to watch Doctor Who: Yes, it’s a bit wibbly wobbly](https://www.androidauthority.com/where-to-watch-doctor-who-3224342/)<!-- TECH:END -->
+ - [Daily deals Oct. 27: up to $1,000 off Samsung OLED TVs, $200 off M1 12.9-inch iPad Pro, Hover-1 Blast scooter for $90, more](https://appleinsider.com/articles/22/10/27/daily-deals-oct-27-800-off-samsung-oled-tvs-200-off-m1-129-inch-ipad-pro-hover-1-blast-scooter-for-90-more?utm_medium=rss)
+ - [How to use Macro Focus on the Google Pixel 7 Pro](https://www.androidauthority.com/pixel-7-macro-focus-3221847/)
+ - [Student Debt Relief and the Racial Wealth Gap: We Need to Do More     - CNET](https://www.cnet.com/personal-finance/student-debt-relief-and-the-racial-wealth-gap-we-need-to-do-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
