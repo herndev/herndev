@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple patched a bug in iOS 16.1 and macOS Ventura that could allow apps with Bluetooth access to record user conversations with Siri without needing mic access &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/221027/p1#a221027p1)
  - [Finexio, which offers B2B accounts payable and procure-to-pay software, raised a $35M Series B led by JP Morgan at a $100M pre-money valuation &lpar;PYMNTS.com&rpar;](http://www.techmeme.com/221026/p37#a221026p37)
- - [Canalys: China&#39;s Q3 smartphone shipments fell 11% YoY to 70M; Vivo, Oppo, and Honor fell 23%, 27%, and 16% respectively, Apple rose 36% on iPhone 14 Pro demand &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p36#a221026p36)
- - [Atlanta-based ConnexPay, which integrates incoming user payments with supplier payments in one platform, raised $110M from FTV Capital for European expansion &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221026/p35#a221026p35)<!-- TECH:END -->
+ - [Canalys: China&#39;s Q3 smartphone shipments fell 11% YoY to 70M; Vivo, Oppo, and Honor fell 23%, 27%, and 16% respectively, Apple rose 36% on iPhone 14 Pro demand &lpar;Reuters&rpar;](http://www.techmeme.com/221026/p36#a221026p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
