@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Right meow](http://9gag.com/gag/avQPovn)
- - ⏩ [Who reads it anyway](http://9gag.com/gag/aREALQ2)
- - 👉 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
+ - 💣 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
+ - ⏩ [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
+ - 👉 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)<!-- MEMES:END -->
 
 ---
 
