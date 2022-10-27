@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors indict four current and former Samsung employees over allegedly stealing and leaking semiconductor tech to overseas companies &lpar;Yonhap News Agency&rpar;](http://www.techmeme.com/221027/p14#a221027p14)
- - [The USDA announces $759M in grants and loans for 49 recipients in 24 states for rural high-speed internet access, as part of the $65B infrastructure law &lpar;Josh Boak/Associated Press&rpar;](http://www.techmeme.com/221027/p13#a221027p13)
- - [Google, Temasek, and Bain report: Southeast Asia online spending will rise ~20% in 2022 to $200B, down from 38% in 2021, as digital adoption growth normalizes &lpar;Olivia Poh/Bloomberg&rpar;](http://www.techmeme.com/221027/p12#a221027p12)<!-- TECH:END -->
+ - [Battery-Swapping Tech Gives Electric Motorcycles an Edge](https://www.wired.com/story/battery-swapping-tech-gives-electric-motorcycles-an-edge/)
+ - [Humans Have a Plastic Addiction](https://www.wired.com/story/gadget-lab-podcast-572/)
+ - [The World Is Drowning in Plastic. Here’s How It All Started](https://www.wired.com/story/the-world-is-drowning-in-plastic-heres-how-it-all-started/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
