@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there, 3000 years ago\u2026](http://9gag.com/gag/axojMvK)
- - ⏩ [Like many insane folks out there, this cat refuses to believe that mitochondria is the powerhouse of the cells.](http://9gag.com/gag/aEq70nO)
- - 👉 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
+ - 💣 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
+ - ⏩ [Dew it :d](http://9gag.com/gag/a2Km7oD)
+ - 👉 [Parking Mastery](http://9gag.com/gag/aPgDAOq)<!-- MEMES:END -->
 
 ---
 
