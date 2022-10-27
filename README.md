@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Games That Scared The Hell Out Of Us As Kids](https://kotaku.com/scary-horror-games-kids-silent-hill-majoras-mask-1849706896)
- - [PlayStation London Studios ditches VR for its next project](https://www.polygon.com/23426892/playstation-london-studios-online-co-op-london)
- - [Sports movie Fantasy Football is a big ad for Madden, but its heart’s in the right place](https://www.polygon.com/23426875/fantasy-football-movie-trailer-nickelodeon-madden-lebron-james)<!-- GAME:END -->
+ - [My OCD Doesn’t Want Me To Play Horror Games, But I Do It Anyway](https://kotaku.com/ocd-horror-video-games-mental-health-outlast-bloodborne-1849711413)
+ - [GameStop Workers Reveal The Junk They Can’t Sell That’s Piling Up](https://kotaku.com/gamestop-preorder-squishmallow-sonic-babylons-fall-toys-1849711126)
+ - [Couch co-op isn’t dead — here are our favorite split-screen games](https://www.polygon.com/dear-polygon/23424637/split-screen-multiplayer-games-local-couch-coop)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
