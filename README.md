@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Battery-Swapping Tech Gives Electric Motorcycles an Edge](https://www.wired.com/story/battery-swapping-tech-gives-electric-motorcycles-an-edge/)
- - [Humans Have a Plastic Addiction](https://www.wired.com/story/gadget-lab-podcast-572/)
- - [The World Is Drowning in Plastic. Here’s How It All Started](https://www.wired.com/story/the-world-is-drowning-in-plastic-heres-how-it-all-started/)<!-- TECH:END -->
+ - [iOS 16.2 asks for feedback on accidental Emergency SOS activation](https://appleinsider.com/articles/22/10/27/ios-162-asks-for-feedback-on-accidental-emergency-sos-activation?utm_medium=rss)
+ - [Sources: ahead of Elon Musk&#39;s takeover, advertisers on Twitter are concerned about looser content moderation and potential conflicts of interest for auto ads &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221027/p19#a221027p19)
+ - [Where to watch Doctor Who: Yes, it’s a bit wibbly wobbly](https://www.androidauthority.com/where-to-watch-doctor-who-3224342/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
