@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta receives a ~$24.7M fine, the maximum possible, after a Washington judge found it had intentionally violated campaign finance disclosure laws 822 times &lpar;David Gutman/The Seattle Times&rpar;](http://www.techmeme.com/221027/p4#a221027p4)
- - [The Galaxy S22 series made more cash for Samsung than the S21 a year ago](https://www.androidauthority.com/samsung-galaxy-s22-q3-2022-3225304/)
- - [ICO, the UK&#39;s privacy watchdog, warns organizations of the risks of using &quot;emotional analysis&quot; tech, and plans to publish its biometric guidance in spring 2023 &lpar;Mack DeGeurin/Gizmodo&rpar;](http://www.techmeme.com/221027/p3#a221027p3)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4 vs. Galaxy Z Fold 3 vs. Galaxy Z Fold 2: What&#39;s Changed Over The Years     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-z-fold-4-vs-galaxy-z-fold-3-vs-galaxy-z-fold-2-whats-changed-over-the-years/#ftag=CAD590a51e)
+ - [Thursday Night Football: How to Watch, Stream Ravens vs. Buccaneers Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-ravens-vs-buccaneers-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
+ - [6 Best Peloton Alternatives for 2022     - CNET](https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
