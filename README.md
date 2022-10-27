@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [8 Forspoken parkour abilities to make Frey a spell-slinging acrobat](https://blog.playstation.com/2022/10/27/8-forspoken-parkour-abilities-to-make-frey-a-spell-slinging-acrobat/)
- - [We’re streaming New State Mobile today](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)
- - [Game Pass’ coolest game next month looks like Limbo meets War of the Worlds](https://www.polygon.com/23426410/somerville-release-date-xbox-game-pass-pc-jumpship)<!-- GAME:END -->
+ - [CPU cooling company &#39;definitely doesn&#39;t recommend&#39; adding salt to your thermal paste](https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste)
+ - [Win a Custom HyperX Cloud Alpha S Gaming Headset courtesy of Have a Nice Death](https://www.pcgamer.com/win-a-custom-hyperx-cloud-alpha-s-gaming-headset-courtesy-of-have-a-nice-death)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
