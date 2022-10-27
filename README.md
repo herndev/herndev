@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Ahsoka Tano went from sidekick to one of Star Wars’ most important characters](https://www.polygon.com/star-wars/23425270/tales-jedi-star-wars-ahsoka-timeline-series)
- - [The Callisto Protocol proves too violent for Japanese censors](https://www.polygon.com/23426201/the-callisto-protocol-japan-release-cero-violence)
- - [Create your own challenging Blue Fire levels with Void Maker DLC, out November 1](https://blog.playstation.com/2022/10/27/create-your-own-challenging-blue-fire-levels-with-void-maker-dlc-out-november-1/)<!-- GAME:END -->
+ - [Black Adam changed DC hierarchy by putting the wrong person in charge](https://www.polygon.com/23425433/black-adam-amanda-waller-dcu-hierarchy)
+ - [20 Tips I Wish I Knew Before Playing Marvel Snap, 2022&#39;s Best New Card Game](https://kotaku.com/marvel-snap-best-deck-pool-explained-level-tier-rewards-1849702430)
+ - [The Unsettling Power of Dishonored’s Dunwall](https://kotaku.com/dishonored-game-dunwall-arkane-outsider-rats-immersive-1849707173)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
