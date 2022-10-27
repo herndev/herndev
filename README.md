@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you gonna fail, at least have something to show off](http://9gag.com/gag/a1PMW4b)
+ - 💣 [How to give a proper massage](http://9gag.com/gag/aeQGezQ)
  - ⏩ [Dew it :d](http://9gag.com/gag/a2Km7oD)
  - 👉 [Alex Stein @ Penn State](http://9gag.com/gag/a1PMbrD)<!-- MEMES:END -->
 
