@@ -30,7 +30,7 @@
 
 <!-- GAME:START -->
  - [Today&#39;s Wordle 495 answer and hint: Thursday, October 27](https://www.pcgamer.com/wordle-today-495-answer-hint)
- - [Pioneering Sega Developer Reiko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)
+ - [Pioneering Sega Developer Rieko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)
  - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
