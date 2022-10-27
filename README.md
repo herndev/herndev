@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Pioneering Sega Developer Reiko Kodama Has Died](https://kotaku.com/sega-rpg-reiko-kodama-died-skies-arcadia-phantasy-star-1849708311)
- - [In this survival game you&#39;re the doomed scientists left behind when everything goes wrong](https://www.pcgamer.com/in-this-survival-game-youre-the-doomed-scientists-left-behind-when-everything-goes-wrong)
- - [Microsoft&#39;s award-winning Adaptive Controller was nearly cut from funding](https://www.pcgamer.com/microsofts-award-winning-adaptive-controller-was-nearly-cut-from-funding)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)
+ - [In this survival game you&#39;re the doomed scientists left behind when everything goes wrong](https://www.pcgamer.com/in-this-survival-game-youre-the-doomed-scientists-left-behind-when-everything-goes-wrong)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
