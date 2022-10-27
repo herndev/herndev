@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Modern Warfare II launches October 28 – here’s all the Intel PlayStation players need to know](https://blog.playstation.com/2022/10/27/call-of-duty-modern-warfare-ii-launches-october-28-heres-all-the-intel-playstation-players-need-to-know/)
- - [Where to find jack-o-lanterns in Fortnite](https://www.pcgamer.com/fortnite-jack-o-lantern-locations)
- - [Magic: The Gathering steps back in time for the new Brothers War set](https://www.pcgamer.com/embargo-945am-pst-1027-magic-steps-back-in-time-for-the-new-brothers-war-set)<!-- GAME:END -->
+ - [The Games That Scared The Hell Out Of Us As Kids](https://kotaku.com/scary-horror-games-kids-silent-hill-majoras-mask-1849706896)
+ - [PlayStation London Studios ditches VR for its next project](https://www.polygon.com/23426892/playstation-london-studios-online-co-op-london)
+ - [Sports movie Fantasy Football is a big ad for Madden, but its heart’s in the right place](https://www.polygon.com/23426875/fantasy-football-movie-trailer-nickelodeon-madden-lebron-james)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
