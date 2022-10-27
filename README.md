@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft&#39;s award-winning Adaptive Controller was nearly cut from funding](https://www.pcgamer.com/microsofts-award-winning-adaptive-controller-was-nearly-cut-from-funding)
  - [5 exciting city builders coming out before the end of 2022](https://www.pcgamer.com/5-exciting-city-builders-coming-out-before-the-end-of-2022)
- - [Zoo Tycoon Is Getting A Bright, Cheery Board Game Adaptation](https://kotaku.com/zoo-tycoon-board-game-pc-strategy-kickstarter-1849707696)
- - [Microsoft Says Xbox Price Increases Are Coming](https://kotaku.com/xbox-price-increase-hike-game-pass-series-x-microsoft-1849707483)<!-- GAME:END -->
+ - [Zoo Tycoon Is Getting A Bright, Cheery Board Game Adaptation](https://kotaku.com/zoo-tycoon-board-game-pc-strategy-kickstarter-1849707696)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
