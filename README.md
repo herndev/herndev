@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to clear the DNS cache on a Mac](https://appleinsider.com/inside/macos/tips/how-to-clear-your-dns-cache-on-a-mac?utm_medium=rss)
- - [Apple halts gambling ads in App Store](https://appleinsider.com/articles/22/10/26/apple-halts-gambling-ads-in-app-store?utm_medium=rss)
- - [Everything you need to know about The Wire’s retracted reporting on Meta](https://www.theverge.com/2022/10/17/23407790/facebook-india-meta-the-wire-instagram-controversy)<!-- TECH:END -->
+ - [Apple pauses App Store gambling ads after developer outcry](https://www.theverge.com/2022/10/26/23425637/apple-pauses-gambling-ads-developer-outcry)
+ - [Rihanna Shares &#39;Black Panther: Wakanda Forever&#39; Song Clip     - CNET](https://www.cnet.com/culture/entertainment/rihanna-shares-black-panther-wakanda-forever-song-clip/#ftag=CAD590a51e)
+ - [Best Sonos Deals: Get $20 off 2 Roam Speakers, $30 off a Roam and Move Set, $50 off 2 Five Speakers     - CNET](https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
