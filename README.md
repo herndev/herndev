@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft: Xbox game streaming console is ‘years away’](https://www.theverge.com/2022/10/27/23426512/microsoft-xbox-game-streaming-console-years-away)
- - [iPads made flight decks digital — now United is using them to confirm airplane maintenance](https://www.theverge.com/2022/10/27/23424311/united-airlines-apple-ipad-mrd-maintenance-signoff-faa-approval)
- - [Apple has &quot;paused ads related to gambling and a few other categories on App Store product pages&quot; after criticism from developers and others &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221027/p26#a221027p26)<!-- TECH:END -->
+ - [Spotify updates its iOS app to remove audiobook purchasing options, saying in a message to users that &quot;it&#39;s not ideal&quot;, to comply with Apple&#39;s App Store rules &lpar;The Verge&rpar;](http://www.techmeme.com/221027/p29#a221027p29)
+ - [Ford thinks driver assist is a safer bet than driverless cars, but it’s fooling itself](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk)
+ - [Samsung is no longer ignoring the emojis that came out in 2021](https://www.androidauthority.com/new-samsung-emojis-3225555/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
