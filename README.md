@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best new TV shows to stream this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
- - [Spotify removes audiobook purchases from app after Apple rejection](https://appleinsider.com/articles/22/10/27/spotify-removes-audiobook-purchases-from-app-after-apple-rejection?utm_medium=rss)
- - [The Tesla Cyberquad for kids has been recalled for not meeting safety standards](https://www.theverge.com/2022/10/27/23426752/tesla-cyberquad-toy-atv-recall-radio-flyer)<!-- TECH:END -->
+ - [Here’s why your Uber driver is going to be taking fewer left turns in the future](https://www.theverge.com/2022/10/27/23426721/uber-safety-left-turn-audio-video-recording-fake-names)
+ - [Apple releases iOS 15.7.1 for users who can&#39;t, or won&#39;t update to iOS 16](https://appleinsider.com/articles/22/10/27/apple-releases-ios-1571-for-users-who-cant-or-wont-update-to-ios-16?utm_medium=rss)
+ - [More People Need to Tune In to This Gripping Horror Anthology Series     - CNET](https://www.cnet.com/culture/more-people-need-to-tune-in-to-this-gripping-horror-anthology-series/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
