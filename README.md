@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [CPU cooling company &#39;definitely doesn&#39;t recommend&#39; adding salt to your thermal paste](https://www.pcgamer.com/cpu-cooling-company-definitely-doesnt-recommend-adding-salt-to-your-thermal-paste)
- - [Win a Custom HyperX Cloud Alpha S Gaming Headset courtesy of Have a Nice Death](https://www.pcgamer.com/win-a-custom-hyperx-cloud-alpha-s-gaming-headset-courtesy-of-have-a-nice-death)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Call of Duty: Modern Warfare II launches October 28 – here’s all the Intel PlayStation players need to know](https://blog.playstation.com/2022/10/27/call-of-duty-modern-warfare-ii-launches-october-28-heres-all-the-intel-playstation-players-need-to-know/)
+ - [Where to find jack-o-lanterns in Fortnite](https://www.pcgamer.com/fortnite-jack-o-lantern-locations)
+ - [Magic: The Gathering steps back in time for the new Brothers War set](https://www.pcgamer.com/embargo-945am-pst-1027-magic-steps-back-in-time-for-the-new-brothers-war-set)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
