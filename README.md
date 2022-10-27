@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Zoo Tycoon Is Getting A Bright, Cheery Board Game Adaptation](https://kotaku.com/zoo-tycoon-board-game-pc-strategy-kickstarter-1849707696)
  - [Microsoft Says Xbox Price Increases Are Coming](https://kotaku.com/xbox-price-increase-hike-game-pass-series-x-microsoft-1849707483)
- - [Xbox boss Phil Spencer says the metaverse is like &#39;a poorly built videogame&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame)
- - [Modern Warfare 2 launch times: the global release schedule](https://www.pcgamer.com/modern-warfare-2-launch-times-release-date)<!-- GAME:END -->
+ - [Xbox boss Phil Spencer says the metaverse is like &#39;a poorly built videogame&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
