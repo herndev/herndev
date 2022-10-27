@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [5 exciting city builders coming out before the end of 2022](https://www.pcgamer.com/5-exciting-city-builders-coming-out-before-the-end-of-2022)
  - [Zoo Tycoon Is Getting A Bright, Cheery Board Game Adaptation](https://kotaku.com/zoo-tycoon-board-game-pc-strategy-kickstarter-1849707696)
- - [Microsoft Says Xbox Price Increases Are Coming](https://kotaku.com/xbox-price-increase-hike-game-pass-series-x-microsoft-1849707483)
- - [Xbox boss Phil Spencer says the metaverse is like &#39;a poorly built videogame&#39;](https://www.pcgamer.com/xbox-boss-phil-spencer-says-the-metaverse-is-like-a-poorly-built-videogame)<!-- GAME:END -->
+ - [Microsoft Says Xbox Price Increases Are Coming](https://kotaku.com/xbox-price-increase-hike-game-pass-series-x-microsoft-1849707483)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
