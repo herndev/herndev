@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify updates its iOS app to remove audiobook purchasing options, saying in a message to users that &quot;it&#39;s not ideal&quot;, to comply with Apple&#39;s App Store rules &lpar;The Verge&rpar;](http://www.techmeme.com/221027/p29#a221027p29)
- - [Ford thinks driver assist is a safer bet than driverless cars, but it’s fooling itself](https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk)
- - [Samsung is no longer ignoring the emojis that came out in 2021](https://www.androidauthority.com/new-samsung-emojis-3225555/)<!-- TECH:END -->
+ - [The best new TV shows to stream this week on Netflix, HBO Max, and more](https://www.androidauthority.com/best-new-tv-shows-to-stream-this-week-3084538/)
+ - [Spotify removes audiobook purchases from app after Apple rejection](https://appleinsider.com/articles/22/10/27/spotify-removes-audiobook-purchases-from-app-after-apple-rejection?utm_medium=rss)
+ - [The Tesla Cyberquad for kids has been recalled for not meeting safety standards](https://www.theverge.com/2022/10/27/23426752/tesla-cyberquad-toy-atv-recall-radio-flyer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
