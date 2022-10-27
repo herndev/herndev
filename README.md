@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s why your Uber driver is going to be taking fewer left turns in the future](https://www.theverge.com/2022/10/27/23426721/uber-safety-left-turn-audio-video-recording-fake-names)
- - [Apple releases iOS 15.7.1 for users who can&#39;t, or won&#39;t update to iOS 16](https://appleinsider.com/articles/22/10/27/apple-releases-ios-1571-for-users-who-cant-or-wont-update-to-ios-16?utm_medium=rss)
- - [More People Need to Tune In to This Gripping Horror Anthology Series     - CNET](https://www.cnet.com/culture/more-people-need-to-tune-in-to-this-gripping-horror-anthology-series/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Headphone Deals: Save on Sony, Bose, AirPods and More     - CNET](https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e)
+ - [Apple flexes its control over the App Store](https://www.theverge.com/2022/10/27/23426993/apple-app-store-rules-guidelines-ads-changes-flexes-control)
+ - [Toyota Tundra&#39;s TRD Lift Kit Preserves Driver-Aid Tech Compatibility     - CNET](https://www.cnet.com/roadshow/news/toyota-tundras-trd-lift-kit-preserves-driver-aid-tech-compatibility/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
