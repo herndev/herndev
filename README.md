@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Snag 6 months of GeForce Now Priority access for only $30](https://www.pcgamer.com/snag-6-months-of-geforce-now-priority-access-for-only-dollar30)
- - [Junji Ito Maniac’s intro is a trippy and creepy first look at the Netflix anime](https://www.polygon.com/23427182/junji-ito-maniac-netflix-release-date-japanese-tales-macabre)
- - [Steam Game Bails On Loot Boxes To Win Back Players](https://kotaku.com/moonbreaker-loot-box-microtransaction-pc-steam-ttrpg-1849712019)<!-- GAME:END -->
+ - [Henry Cavill seems to be treating Total War: Warhammer 3 like a part-time job](https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job)
+ - [Netflix is grabbing one of the streaming era’s best comedies](https://www.polygon.com/23427105/netflix-girls5eva-season-3-streaming-renewed)
+ - [How to stream ‘Lift Me Up,’ Rihanna’s first Black Panther 2 song](https://www.polygon.com/23426525/lift-me-up-rihannas-black-panther-2-song-stream-release-time)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
