@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon.com Announces Third Quarter Results &lpar;Amazon&rpar;](http://www.techmeme.com/221027/p34#a221027p34)
- - [Apple claims faster response to security bugs, launches dedicated site](https://appleinsider.com/articles/22/10/27/apple-claims-faster-response-to-security-bugs-launches-dedicated-site?utm_medium=rss)
- - [Valve’s new beta lets you use the Steam Deck UI on your desktop](https://www.theverge.com/2022/10/27/23426994/valve-steam-deck-big-picture-mode-ui-test-beta)<!-- TECH:END -->
+ - [Apple reports another record quarter but shows signs of lukewarm iPhone 14 demand](https://www.theverge.com/2022/10/27/23427035/apple-q4-2022-earnings-iphone-14-sales-mac-services)
+ - [Amazon’s sales are up, but it’s expecting a tight holiday season](https://www.theverge.com/2022/10/27/23416918/amazon-q3-2022-earnings-sales-up-holiday-season-andy-jassy)
+ - [Telegram testing pay-to-view posts, skirts Apple payment system](https://appleinsider.com/articles/22/10/27/telegram-testing-pay-to-view-posts-skirts-apple-payment-system?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
