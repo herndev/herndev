@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
- - ⏩ [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
- - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 💣 [It has begun](http://9gag.com/gag/az2jGgN)
+ - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 👉 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)<!-- MEMES:END -->
 
 ---
 
