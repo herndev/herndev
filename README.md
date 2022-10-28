@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke generation](http://9gag.com/gag/agoV1o6)
- - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
- - 👉 [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Duck tape](http://9gag.com/gag/aGExEvZ)
+ - 👉 [This one sparks joy](http://9gag.com/gag/axojMZY)<!-- MEMES:END -->
 
 ---
 
