@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Midnight Suns is getting Deadpool, Venom, and more as DLC](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)
- - [Oops: Gotham Knights Briefly Ditched Its Anti-Piracy Protection](https://kotaku.com/gotham-knights-denuvo-hack-piracy-pc-framerate-patch-1849712660)
- - [Henry Cavill seems to be treating Total War: Warhammer 3 like a part-time job](https://www.pcgamer.com/henry-cavill-seems-to-be-treating-total-war-warhammer-3-like-a-part-time-job)<!-- GAME:END -->
+ - [Resident Evil Village&#39;s DLC is a satisfactory but sparse addition](https://www.pcgamer.com/resident-evil-villages-dlc-is-a-satisfactory-but-sparse-addition)
+ - [Father &amp; &#39;Adult Son&#39; Found Guilty Over Pokémon Go &#39;Brawl&#39;](https://kotaku.com/pokemon-go-brawl-assault-st-louis-guilty-punch-niantic-1849712876)
+ - [Marvel&#39;s Midnight Suns is getting Deadpool, Venom, and more as DLC](https://www.pcgamer.com/marvels-midnight-suns-is-getting-deadpool-venom-and-more-as-dlc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
