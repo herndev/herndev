@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
- - ⏩ [Duck tape](http://9gag.com/gag/aGExEvZ)
- - 👉 [The economy...](http://9gag.com/gag/aZDMLv0)<!-- MEMES:END -->
+ - 💣 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)
+ - ⏩ [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)
+ - 👉 [Nice](http://9gag.com/gag/aBdYV21)<!-- MEMES:END -->
 
 ---
 
