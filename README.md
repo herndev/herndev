@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Key &amp; Peele reunion Wendell &amp; Wild is a crafting miracle with a big story problem](https://www.polygon.com/23426753/wendell-and-wild-review-henry-selick-keegan-michael-key-jordan-peele)
- - [Next Week on Xbox: New Games for October 31 to November 4](https://news.xbox.com/en-us/2022/10/28/next-week-on-xbox-new-games-for-october-31-to-november-4/)
- - [Modern Warfare 2 players on Xbox and PC can’t disable cross-play](https://www.polygon.com/call-of-duty/23428068/modern-warfare-2-disable-cross-play-xbox-pc-playstation)<!-- GAME:END -->
+ - [New Games with Gold for November 2022](https://news.xbox.com/en-us/2022/10/28/new-games-with-gold-for-november-2022/)
+ - [Mount &amp; Blade 2: Bannerlord review](https://www.pcgamer.com/mount-and-blade-2-bannerlord-review)
+ - [Halo Infinite gets features it should&#39;ve launched with in a few weeks](https://www.pcgamer.com/halo-infinite-gets-features-it-shouldve-launched-with-in-a-few-weeks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
