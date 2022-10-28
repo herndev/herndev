@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google says it’s ‘very comfortable’ with Tensor not winning benchmarks](https://www.androidauthority.com/google-tensor-pixel-benchmarks-3225413/)
- - [Apple is the only phone maker that posted positive growth this quarter](https://www.androidauthority.com/worldwide-smartphone-shipmets-q3-2022-3225841/)
- - [It’s official. Elon Musk now owns Twitter](https://www.androidauthority.com/elon-musk-twitter-deal-complete-3225823/)<!-- TECH:END -->
+ - [Nothing Ear &lpar;Stick&rpar; Review: Fine Sound, Funny Fit](https://www.wired.com/review/review-nothing-ear-stick/)
+ - [Nothing Ear Stick review: fewer features, more polish](https://www.theverge.com/23426576/nothing-ear-stick-true-wireless-headphones-earbuds-review)
+ - [Android trojan Drinik targets users of 18 Indian banks, masquerading as the country&#39;s official tax management app to steal personal data and banking credentials &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221028/p3#a221028p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
