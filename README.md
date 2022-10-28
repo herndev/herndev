@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 💣 [Noice](http://9gag.com/gag/avQPA85)
  - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
- - 👉 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
+ - 👉 [Dead crowd](http://9gag.com/gag/a8qM2L3)<!-- MEMES:END -->
 
 ---
 
