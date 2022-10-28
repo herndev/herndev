@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s a pedophile](http://9gag.com/gag/a7q7ORm)
- - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
- - 👉 [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
+ - 👉 [Is it true that some people are not able to hear their thoughts and see images in their heads? I can literally rotate figures in my thoughts.](http://9gag.com/gag/axoj1qn)<!-- MEMES:END -->
 
 ---
 
