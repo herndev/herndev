@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Indies highlights coming to PS4 &amp; PS5 in November 2022](https://blog.playstation.com/2022/10/28/indies-highlights-coming-to-ps4-ps5-in-november-2022/)
- - [Free Play Days – Dead by Daylight, Ghostrunner, Thymesia, and Dolmen](https://news.xbox.com/en-us/2022/10/28/free-play-days-dead-by-daylight-ghostrunner-thymesia-and-dolmen/)
- - [The magical school movies to watch after School for Good and Evil](https://www.polygon.com/what-to-watch/23426481/best-movies-like-school-good-evil-fantasy)<!-- GAME:END -->
+ - [Share of the Week  – A Plague Tale: Requiem](https://blog.playstation.com/2022/10/28/share-of-the-week-a-plague-tale-requiem/)
+ - [Getting Started on Overwatch 2: Tips from the Pros](https://news.xbox.com/en-us/2022/10/28/getting-started-on-overwatch-2-tips-from-the-pros/)
+ - [The D&amp;D movie’s first bit of merch is kinda weird, but we’re here for it](https://www.polygon.com/23428329/dnd-honor-among-thieves-weird-toys-dicelings-merch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
