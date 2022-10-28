@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It has begun](http://9gag.com/gag/az2jGgN)
+ - 💣 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)
  - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
- - 👉 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)<!-- MEMES:END -->
+ - 👉 [Everyone on Twitter right now testing free speech](http://9gag.com/gag/aREAz4G)<!-- MEMES:END -->
 
 ---
 
