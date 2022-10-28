@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Noice](http://9gag.com/gag/avQPA85)
- - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
- - 👉 [Dead crowd](http://9gag.com/gag/a8qM2L3)<!-- MEMES:END -->
+ - 💣 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - ⏩ [*surprised Pikachu face*](http://9gag.com/gag/anzNEK0)
+ - 👉 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)<!-- MEMES:END -->
 
 ---
 
