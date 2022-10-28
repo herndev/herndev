@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s employees await their fate under Elon Musk](https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close)
- - [Apple reports a record $11.5B in Mac revenue for Q4, up 25% YoY, and sets &quot;a quarterly record for upgraders&quot;, but expects a YoY decline in Q1 2023 &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/221027/p44#a221027p44)
- - [Walmart stores are adding a Netflix section with gift cards and gear](https://www.theverge.com/2022/10/27/23427486/netflix-walmart-stores-hub-section-gift-cards-gear)<!-- TECH:END -->
+ - [Elon Musk bought Twitter. Here’s how it happened.](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-land-on-disney-plus/#ftag=CAD590a51e)
+ - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
