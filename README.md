@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
- - ⏩ [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - 👉 [Parking Mastery](http://9gag.com/gag/aPgDAOq)<!-- MEMES:END -->
+ - 💣 [What&#39;s a pedophile](http://9gag.com/gag/a7q7ORm)
+ - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
+ - 👉 [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)<!-- MEMES:END -->
 
 ---
 
