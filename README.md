@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
- - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
- - 👉 [High IQ move](http://9gag.com/gag/az2j1Xx)<!-- MEMES:END -->
+ - 💣 [A good way to get sued.](http://9gag.com/gag/aMEGnLX)
+ - ⏩ [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 👉 [Stop &#39;mansplaining&#39; me how to shoot](http://9gag.com/gag/armKZYp)<!-- MEMES:END -->
 
 ---
 
