@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A good way to get sued.](http://9gag.com/gag/aMEGnLX)
- - ⏩ [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 👉 [Stop &#39;mansplaining&#39; me how to shoot](http://9gag.com/gag/armKZYp)<!-- MEMES:END -->
+ - 💣 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
+ - ⏩ [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
