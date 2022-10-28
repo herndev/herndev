@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [USB-C iPhone, macOS Ventura, iCloud redesign, and advertising controversy](https://appleinsider.com/articles/22/10/28/usb-c-iphone-macos-ventura-icloud-redesign-and-advertising-controversy?utm_medium=rss)
- - [Ugreen&#39;s new 13-in-1 docking station handles up to three external displays](https://appleinsider.com/articles/22/10/28/ugreens-new-13-in-1-docking-station-works-with-m-series-macs?utm_medium=rss)
- - [Welcome to hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)<!-- TECH:END -->
+ - [Ugreen&#39;s new 13-in-1 docking station handles up to three external displays on M1](https://appleinsider.com/articles/22/10/28/ugreens-new-13-in-1-docking-station-works-with-m-series-macs?utm_medium=rss)
+ - [How to deactivate your Twitter account](https://www.theverge.com/22227076/twitter-delete-app-how-to-deactivate)
+ - [Best Google Pixel Phone &lpar;2022&rpar;: Which Model to Buy, Cases and Accessories, Feature Drops](https://www.wired.com/story/best-google-pixel-phone/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
