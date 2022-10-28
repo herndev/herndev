@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)
- - ⏩ [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)
- - 👉 [Nice](http://9gag.com/gag/aBdYV21)<!-- MEMES:END -->
+ - 💣 [Nice](http://9gag.com/gag/aBdYV21)
+ - ⏩ [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
+ - 👉 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)<!-- MEMES:END -->
 
 ---
 
