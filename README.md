@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Arm sets up legal showdown with Qualcomm, Nuvia &lpar;Update: New counterclaim&rpar;](https://www.androidauthority.com/arm-sues-qualcomm-and-nuvia-3203367/)
- - [How to set up Google Home Household Routines](https://www.theverge.com/23428772/google-home-household-routines-how-to-set-up)
- - [Apple stock closes up 7.56%, its best day since April 2020; it was the second-best performing stock in the Dow Jones Industrial Average behind Intel on Friday &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221028/p23#a221028p23)<!-- TECH:END -->
+ - [Apple’s first unionized workers say the company is withholding new benefits](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)
+ - [General Motors says it is suspending advertising on Twitter as it evaluates the &quot;direction of the platform under their new ownership&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/221028/p24#a221028p24)
+ - [27 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;: TVs, Phones, Laptops](https://www.wired.com/story/best-buy-deals-black-friday-2022-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
