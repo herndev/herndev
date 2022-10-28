@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week  – A Plague Tale: Requiem](https://blog.playstation.com/2022/10/28/share-of-the-week-a-plague-tale-requiem/)
- - [Getting Started on Overwatch 2: Tips from the Pros](https://news.xbox.com/en-us/2022/10/28/getting-started-on-overwatch-2-tips-from-the-pros/)
- - [The D&amp;D movie’s first bit of merch is kinda weird, but we’re here for it](https://www.polygon.com/23428329/dnd-honor-among-thieves-weird-toys-dicelings-merch)<!-- GAME:END -->
+ - [Gunfire Reborn Launches on Game Pass](https://news.xbox.com/en-us/2022/10/28/gunfire-reborn-launches-on-game-pass/)
+ - [Warhaven is an action-packed medieval fantasy game you can play in beta testing now](https://www.pcgamer.com/warhaven-is-an-action-packed-medieval-fantasy-game-you-can-play-in-beta-testing-now)
+ - [The best last minute gaming costumes for Halloween](https://www.pcgamer.com/the-best-last-minute-gaming-costumes-for-halloween)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
