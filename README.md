@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice](http://9gag.com/gag/aBdYV21)
- - ⏩ [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
- - 👉 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)<!-- MEMES:END -->
+ - 💣 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)
+ - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
+ - 👉 [Please do not the cat](http://9gag.com/gag/aL12zpP)<!-- MEMES:END -->
 
 ---
 
