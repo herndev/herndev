@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - ⏩ [These strange lights showed up in the sky over Jeju, South Korea. They have been here for an hour!](http://9gag.com/gag/aWG6E5A)
- - 👉 [Is it true that some people are not able to hear their thoughts and see images in their heads? I can literally rotate figures in my thoughts.](http://9gag.com/gag/axoj1qn)<!-- MEMES:END -->
+ - 💣 [Woke generation](http://9gag.com/gag/agoV1o6)
+ - ⏩ [*insert title here*](http://9gag.com/gag/aA01Qeg)
+ - 👉 [Don&#39;t laugh or you going to hell](http://9gag.com/gag/abv0OOb)<!-- MEMES:END -->
 
 ---
 
