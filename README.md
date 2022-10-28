@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It’s Crime Time! Frog Detective: The Entire Mystery is Available Now with PC Game Pass](https://news.xbox.com/en-us/2022/10/28/its-crime-time-frog-detective-the-entire-mystery-is-available-now-with-pc-game-pass/)
- - [Destiny 2 Xur location and items, Oct. 28-Nov. 1](https://www.polygon.com/destiny-2-guide-walkthrough/23428641/destiny-2-where-is-xur-location-items-oct-28-nov-1)
- - [Call of Duty’s Burger King Skin Is Getting Sold For Half The Cost Of The Game](https://kotaku.com/call-of-duty-mw2-burger-town-operator-skin-code-ebay-1849716026)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)
+ - [The best skills in Bayonetta 3](https://www.polygon.com/guides/23428582/bayonetta-3-best-skills-viola-demon-weapons-nintendo-switch)
+ - [We streamed New State Mobile on Twitch](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
