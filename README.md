@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
- - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
- - [The Scariest Things That Happened In Gaming In 2022](https://kotaku.com/scariest-things-gaming-blizzard-smash-twitch-street-fig-1849715652)<!-- GAME:END -->
+ - [Ikea threatens to sue the maker of an &#39;infinite furniture store survival game&#39;](https://www.pcgamer.com/ikea-threatens-to-sue-the-maker-of-an-infinite-furniture-store-survival-game)
+ - [Don’t Worry Darling, Barbarian, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/10/28/23420287/new-movies-watch-barbarian-hbo-max-pearl-dont-worry-darling-netflix-wendell-wild-vod-streaming)
+ - [WandaVision spinoff starring White Vision to explain what’s up with White Vision](https://www.polygon.com/23429175/wandavision-marvel-vision-quest-spinoff-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
