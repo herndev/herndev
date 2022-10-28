@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
- - ⏩ [*surprised Pikachu face*](http://9gag.com/gag/anzNEK0)
- - 👉 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 👉 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)<!-- MEMES:END -->
 
 ---
 
