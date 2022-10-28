@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Peruvian Dog](http://9gag.com/gag/armKW8y)
- - ⏩ [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
- - 👉 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
+ - 💣 [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
+ - ⏩ [Duck tape](http://9gag.com/gag/aGExEvZ)
+ - 👉 [The economy...](http://9gag.com/gag/aZDMLv0)<!-- MEMES:END -->
 
 ---
 
