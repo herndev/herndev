@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Despite climate pledges by US tech giants, Greenpeace finds key supplies for Amazon, Microsoft, Google, HP, and others remain deeply reliant on fossil fuels &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p6#a221028p6)
- - [Redmi says its new phone can be charged in nine minutes at 210W](https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features)
- - [Q&amp;A with Stack Overflow CEO Prashanth Chandrasekar on running the company, growing a SaaS business, content moderation, community satisfaction, Web3, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221028/p5#a221028p5)<!-- TECH:END -->
+ - [Kuo: iPhone 15 Pro to update side buttons to solid-state versions](https://appleinsider.com/articles/22/10/28/kuo-iphone-15-pro-to-update-side-buttons-to-solid-state-versions?utm_medium=rss)
+ - [Poll: What do you think of benchmark tests for smartphones?](https://www.androidauthority.com/benchmark-tests-smartphones-poll-3225946/)
+ - [AI art sparks backlash from Japan&#39;s anime community, which some see as rooted in fans&#39; deep loyalty to artists and lenient copyright and data-scraping laws &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/221028/p8#a221028p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
