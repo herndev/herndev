@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s first unionized workers say the company is withholding new benefits](https://www.theverge.com/2022/10/28/23427577/apple-union-maryland-letter-benefits-contract)
- - [General Motors says it is suspending advertising on Twitter as it evaluates the &quot;direction of the platform under their new ownership&quot; &lpar;CNBC&rpar;](http://www.techmeme.com/221028/p24#a221028p24)
- - [27 Great Deals From Best Buy&#39;s Early Black Friday Sale &lpar;2022&rpar;: TVs, Phones, Laptops](https://www.wired.com/story/best-buy-deals-black-friday-2022-1/)<!-- TECH:END -->
+ - [If Musk Starts Firing Twitter&#39;s Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)
+ - [Black Friday 2022: Our pick of the best offers in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [Google just made the Pixel 7 the first 64-bit-only Android phone](https://www.androidauthority.com/pixel-7-64-bit-3226237/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
