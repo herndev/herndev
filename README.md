@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $74.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
- - [Google wants Meet to run on more devices and work better with Zoom](https://www.theverge.com/2022/10/28/23428527/google-meet-zoom-rooms-poly-studio-x-logitech-rally)
- - [Twitter Users Flock to Other Platforms as the Elon Musk Era Begins](https://www.wired.com/story/twitter-users-flock-to-other-platforms-as-the-elon-musk-era-begins/)<!-- TECH:END -->
+ - [Arm sets up legal showdown with Qualcomm, Nuvia &lpar;Update: New counterclaim&rpar;](https://www.androidauthority.com/arm-sues-qualcomm-and-nuvia-3203367/)
+ - [How to set up Google Home Household Routines](https://www.theverge.com/23428772/google-home-household-routines-how-to-set-up)
+ - [Apple stock closes up 7.56%, its best day since April 2020; it was the second-best performing stock in the Dow Jones Industrial Average behind Intel on Friday &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221028/p23#a221028p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
