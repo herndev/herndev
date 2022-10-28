@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [120000 lumens at work](http://9gag.com/gag/aZDM8VQ)
+ - 💣 [What makes it rotate to the right, and not to the left?](http://9gag.com/gag/a8qM1NZ)
  - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
- - 👉 [Please do not the cat](http://9gag.com/gag/aL12zpP)<!-- MEMES:END -->
+ - 👉 [High IQ move](http://9gag.com/gag/az2j1Xx)<!-- MEMES:END -->
 
 ---
 
