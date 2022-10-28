@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk bought Twitter. Here’s how it happened.](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-land-on-disney-plus/#ftag=CAD590a51e)
- - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)<!-- TECH:END -->
+ - [Changpeng Zhao says the National Bank of Kazakhstan plans to integrate its CBDC on the BNB Chain; Kazakhstan gave Binance a license to operate on October 6 &lpar;Savannah Fortis/Cointelegraph&rpar;](http://www.techmeme.com/221027/p48#a221027p48)
+ - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)
+ - [Elon Musk reigns as Twitter CEO, fires top execs first day](https://appleinsider.com/articles/22/10/28/elon-musk-reigns-as-twitter-ceo-fires-top-execs-first-day?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
