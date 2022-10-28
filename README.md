@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple stocks rising fast as other Big Tech firms fall hard](https://appleinsider.com/articles/22/10/28/apple-stocks-rising-fast-as-other-big-tech-firms-fall-hard?utm_medium=rss)
- - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
- - [Apple&#39;s strong fourth quarter leaves analysts optimistic in a sea of tech disappointment](https://appleinsider.com/articles/22/10/28/apples-strong-fourth-quarter-leaves-analysts-optimistic-in-a-sea-of-tech-disappointment?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s new Fitness+ ad says &#39;all you need is iPhone&#39; and iOS 16.1](https://appleinsider.com/articles/22/10/28/apples-new-fitness-ad-says-all-you-need-is-iphone-and-ios-161?utm_medium=rss)
+ - [Two Batches of Blood Pressure Medicine Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/two-batches-of-blood-pressure-medicine-recalled-over-impurity/#ftag=CAD590a51e)
+ - [Pokemon Scarlet and Violet Preview: Monster Catching Enters an Exciting Open-World     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-preview-monster-catching-enters-an-exciting-open-world/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
