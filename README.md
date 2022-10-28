@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Six Players, Coach Banned From Official NBA 2K League Over Gambling Scandal](https://kotaku.com/nba-2k-league-betting-gambling-2k23-esports-mavs-jazz-1849713448)
- - [Resident Evil Village&#39;s DLC is a satisfactory but sparse addition](https://www.pcgamer.com/resident-evil-villages-dlc-is-a-satisfactory-but-sparse-addition)
- - [Father &amp; &#39;Adult Son&#39; Found Guilty Over Pokémon Go &#39;Brawl&#39;](https://kotaku.com/pokemon-go-brawl-assault-st-louis-guilty-punch-niantic-1849712876)<!-- GAME:END -->
+ - [Where to find all of Bayonetta 3’s Umbran Tears](https://www.polygon.com/guides/23426846/bayonetta-3-umbran-tear-locations-where-to-find)
+ - [Adidas Is Turning Homer&#39;s &#39;Walking Into The Bushes&#39; Meme Into A Sneaker](https://kotaku.com/adidas-the-simpsons-homer-walking-walk-bushes-meme-1849712734)
+ - [Overclocker pushes Raspberry Pi CM4 to 2.5GHz](https://www.pcgamer.com/overclocker-pushes-raspberry-pi-cm4-to-25ghz)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
