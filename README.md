@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)
- - [The best skills in Bayonetta 3](https://www.polygon.com/guides/23428582/bayonetta-3-best-skills-viola-demon-weapons-nintendo-switch)
- - [We streamed New State Mobile on Twitch](https://www.polygon.com/2022/10/25/23421071/new-state-mobile-stream)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
+ - [The Scariest Things That Happened In Gaming In 2022](https://kotaku.com/scariest-things-gaming-blizzard-smash-twitch-street-fig-1849715652)
+ - [Nvidia confirms its latest driver is causing problems in Modern Warfare 2](https://www.pcgamer.com/nvidia-confirms-its-latest-driver-is-causing-problems-in-modern-warfare-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
