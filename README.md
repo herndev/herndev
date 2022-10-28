@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gigabyte X670 Aorus Elite AX](https://www.pcgamer.com/gigabyte-x670-aorus-elite-ax)
- - [Wordle today: #496 answer and hint for Friday, October 28](https://www.pcgamer.com/wordle-today-496-answer-hint)
- - [Where to find all of Bayonetta 3’s Umbran Tears](https://www.polygon.com/guides/23426846/bayonetta-3-umbran-tear-locations-where-to-find)<!-- GAME:END -->
+ - [Modern Warfare 2 Prestige and Ranks explained](https://www.pcgamer.com/modern-warfare-2-prestige-rank-)
+ - [Resident Evil&#39;s original live-action cast reunites to shoot an absurd, hammy short film](https://www.pcgamer.com/resident-evils-original-live-action-cast-reunites-to-shoot-an-absurd-hammy-short-film)
+ - [Where is hardcore mode in Call of Duty: Modern Warfare 2?](https://www.pcgamer.com/call-of-duty-mw2-hardcore-mode-tier-1)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
