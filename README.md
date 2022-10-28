@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Classera, a San Francisco-based ed tech startup focused on the Middle East and Africa, raised a $40M Series A led by Sanabil, which is run by Saudi Arabia&#39;s PIF &lpar;Yousef Saba/Reuters&rpar;](http://www.techmeme.com/221027/p42#a221027p42)
- - [Intel layoffs are coming in Q4 as it cuts billions in spending](https://www.theverge.com/2022/10/27/23427403/intel-q3-2022-layoffs-billions-cost-reductions)
- - [A guide to Google’s Digital Wellbeing](https://www.androidauthority.com/a-guide-to-googles-digital-wellbeing-3225195/)<!-- TECH:END -->
+ - [Twitter’s employees await their fate under Elon Musk](https://www.theverge.com/2022/10/27/23427453/twitter-employees-wait-for-elon-musk-takeover-to-close)
+ - [Apple reports a record $11.5B in Mac revenue for Q4, up 25% YoY, and sets &quot;a quarterly record for upgraders&quot;, but expects a YoY decline in Q1 2023 &lpar;Andrew Orr/AppleInsider&rpar;](http://www.techmeme.com/221027/p44#a221027p44)
+ - [Walmart stores are adding a Netflix section with gift cards and gear](https://www.theverge.com/2022/10/27/23427486/netflix-walmart-stores-hub-section-gift-cards-gear)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
