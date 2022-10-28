@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Gigabyte X670 Aorus Elite AX](https://www.pcgamer.com/gigabyte-x670-aorus-elite-ax)
  - [Wordle today: #496 answer and hint for Friday, October 28](https://www.pcgamer.com/wordle-today-496-answer-hint)
- - [Where to find all of Bayonetta 3’s Umbran Tears](https://www.polygon.com/guides/23426846/bayonetta-3-umbran-tear-locations-where-to-find)
- - [Adidas Is Turning Homer&#39;s &#39;Walking Into The Bushes&#39; Meme Into A Sneaker](https://kotaku.com/adidas-the-simpsons-homer-walking-walk-bushes-meme-1849712734)<!-- GAME:END -->
+ - [Where to find all of Bayonetta 3’s Umbran Tears](https://www.polygon.com/guides/23426846/bayonetta-3-umbran-tear-locations-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
