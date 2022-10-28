@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple is the only phone maker that posted positive growth this quarter](https://www.androidauthority.com/worldwide-smartphone-shipmets-q3-2022-3225841/)
  - [It’s official. Elon Musk now owns Twitter](https://www.androidauthority.com/elon-musk-twitter-deal-complete-3225823/)
- - [Sonos speakers &amp; subs are up to $409 off during early Black Friday sale](https://appleinsider.com/articles/22/10/28/sonos-speakers-subs-are-up-to-409-off-during-early-black-friday-sale?utm_medium=rss)
- - [Source: Elon Musk plans to become Twitter CEO after completing his $44B acquisition and reverse lifetime bans, but may eventually cede the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p2#a221028p2)<!-- TECH:END -->
+ - [Sonos speakers &amp; subs are up to $409 off during early Black Friday sale](https://appleinsider.com/articles/22/10/28/sonos-speakers-subs-are-up-to-409-off-during-early-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
