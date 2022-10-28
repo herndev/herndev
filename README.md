@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for November 2022](https://news.xbox.com/en-us/2022/10/28/new-games-with-gold-for-november-2022/)
- - [Mount &amp; Blade 2: Bannerlord review](https://www.pcgamer.com/mount-and-blade-2-bannerlord-review)
- - [Halo Infinite gets features it should&#39;ve launched with in a few weeks](https://www.pcgamer.com/halo-infinite-gets-features-it-shouldve-launched-with-in-a-few-weeks)<!-- GAME:END -->
+ - [Indies highlights coming to PS4 &amp; PS5 in November 2022](https://blog.playstation.com/2022/10/28/indies-highlights-coming-to-ps4-ps5-in-november-2022/)
+ - [Free Play Days – Dead by Daylight, Ghostrunner, Thymesia, and Dolmen](https://news.xbox.com/en-us/2022/10/28/free-play-days-dead-by-daylight-ghostrunner-thymesia-and-dolmen/)
+ - [The magical school movies to watch after School for Good and Evil](https://www.polygon.com/what-to-watch/23426481/best-movies-like-school-good-evil-fantasy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
