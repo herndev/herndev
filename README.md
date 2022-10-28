@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Elon Musk plans to become Twitter CEO after completing his $44B acquisition and reverse lifetime bans, but may eventually cede the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p2#a221028p2)
- - [YouTube’s finally adding more separation between shorts and regular videos](https://www.theverge.com/2022/10/28/23427585/youtube-shorts-videos-live-tabs-channels)
- - [Rihanna’s Black Panther single ‘Lift Me Up’ is finally here](https://www.theverge.com/2022/10/28/23427207/rihanna-lift-me-up-black-panther-wakanda-forever-streaming)<!-- TECH:END -->
+ - [It’s official. Elon Musk now owns Twitter](https://www.androidauthority.com/elon-musk-twitter-deal-complete-3225823/)
+ - [Sonos speakers &amp; subs are up to $409 off during early Black Friday sale](https://appleinsider.com/articles/22/10/28/sonos-speakers-subs-are-up-to-409-off-during-early-black-friday-sale?utm_medium=rss)
+ - [Source: Elon Musk plans to become Twitter CEO after completing his $44B acquisition and reverse lifetime bans, but may eventually cede the role &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p2#a221028p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
