@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine investing your life savings in a company and they deliver this...](http://9gag.com/gag/aZDMQRn)
- - ⏩ [Hmmm](http://9gag.com/gag/amA9mNX)
- - 👉 [Everyone on Twitter right now testing free speech](http://9gag.com/gag/aREAz4G)<!-- MEMES:END -->
+ - 💣 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)
+ - ⏩ [Who reads it anyway](http://9gag.com/gag/aREALQ2)
+ - 👉 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
 
 ---
 
