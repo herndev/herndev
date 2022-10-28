@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Traffic jams are tied to lower birth weights, study finds](https://www.theverge.com/2022/10/28/23426970/birth-weight-infant-traffic-congestion-lower-health)
- - [The EU commissioner for the internal market warns that Twitter will have to comply with EU&#39;s new digital regulations, saying &quot;the bird will fly by our rules&quot; &lpar;Ryan Browne/CNBC&rpar;](http://www.techmeme.com/221028/p20#a221028p20)
- - [Telegram CEO says it will disable paid posts in its iOS app after being told Apple was not happy with creators monetizing &quot;without paying a 30% tax to Apple&quot; &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/221028/p19#a221028p19)<!-- TECH:END -->
+ - [How to grab an image on one device and drop it onto another](https://appleinsider.com/articles/22/10/28/how-to-grab-an-image-on-one-device-and-drop-it-onto-another?utm_medium=rss)
+ - [People are pretending to be laid-off Twitter employees carrying boxes outside of HQ](https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk)
+ - [Elon Musk says Twitter will have a ‘content moderation council’](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
