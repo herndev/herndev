@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple says it has awarded researchers ~$20M total, including 20 rewards of $100K+ each for high-impact issues, since opening its bug bounty program in Dec. 2019 &lpar;Michael Potuck/9to5Mac&rpar;](http://www.techmeme.com/221027/p49#a221027p49)
  - [Changpeng Zhao says the National Bank of Kazakhstan plans to integrate its CBDC on the BNB Chain; Kazakhstan gave Binance a license to operate on October 6 &lpar;Savannah Fortis/Cointelegraph&rpar;](http://www.techmeme.com/221027/p48#a221027p48)
- - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)
- - [Elon Musk reigns as Twitter CEO, fires top execs first day](https://appleinsider.com/articles/22/10/28/elon-musk-reigns-as-twitter-ceo-fires-top-execs-first-day?utm_medium=rss)<!-- TECH:END -->
+ - [Elon Musk vs. Twitter: all the news about one of the biggest, messiest tech deals ever](https://www.theverge.com/23026874/elon-musk-twitter-buyout-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
