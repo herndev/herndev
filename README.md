@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter confirms it shut down its Ticketed Spaces test indefinitely before Elon Musk&#39;s takeover of the company &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221028/p15#a221028p15)
- - [PSA: streamers might want to disable music in Bayonetta 3 before playing](https://www.theverge.com/2022/10/28/23428179/bayonetta-3-streamer-mode-nintendo-switch-platinum-games)
- - [Volvo C40 Recharge review: Volvo’s little electric rocket ship](https://www.theverge.com/2022/10/28/23424776/volvo-c40-recharge-review-specs-range-price)<!-- TECH:END -->
+ - [Apple stocks rising fast as other Big Tech firms fall hard](https://appleinsider.com/articles/22/10/28/apple-stocks-rising-fast-as-other-big-tech-firms-fall-hard?utm_medium=rss)
+ - [Here are the best Amazon Echo deals right now](https://www.theverge.com/21546591/best-amazon-echo-deals)
+ - [Apple&#39;s strong fourth quarter leaves analysts optimistic in a sea of tech disappointment](https://appleinsider.com/articles/22/10/28/apples-strong-fourth-quarter-leaves-analysts-optimistic-in-a-sea-of-tech-disappointment?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
