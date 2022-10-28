@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: iPhone 15 Pro to update side buttons to solid-state versions](https://appleinsider.com/articles/22/10/28/kuo-iphone-15-pro-to-update-side-buttons-to-solid-state-versions?utm_medium=rss)
- - [Poll: What do you think of benchmark tests for smartphones?](https://www.androidauthority.com/benchmark-tests-smartphones-poll-3225946/)
- - [AI art sparks backlash from Japan&#39;s anime community, which some see as rooted in fans&#39; deep loyalty to artists and lenient copyright and data-scraping laws &lpar;Andrew Deck/Rest of World&rpar;](http://www.techmeme.com/221028/p8#a221028p8)<!-- TECH:END -->
+ - [Ford Abandons the Self-Driving Road to Nowhere](https://www.wired.com/story/ford-abandons-the-self-driving-road-to-nowhere/)
+ - [Apple iPad Pro &lpar;6th Gen, 2022&rpar; Review: Another Minor Update](https://www.wired.com/review/apple-ipad-pro-6th-gen-2022/)
+ - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
