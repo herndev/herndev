@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yeah..... Nah](http://9gag.com/gag/aVbP7xK)
- - ⏩ [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
- - 👉 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
+ - 💣 [Meirl](http://9gag.com/gag/a3ZByNe)
+ - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 👉 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)<!-- MEMES:END -->
 
 ---
 
