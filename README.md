@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - ⏩ [Duck tape](http://9gag.com/gag/aGExEvZ)
- - 👉 [This one sparks joy](http://9gag.com/gag/axojMZY)<!-- MEMES:END -->
+ - 💣 [Peruvian Dog](http://9gag.com/gag/armKW8y)
+ - ⏩ [Found some tiny strange bugs dancing around a leaf while hiking.](http://9gag.com/gag/aNwnwQv)
+ - 👉 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)<!-- MEMES:END -->
 
 ---
 
