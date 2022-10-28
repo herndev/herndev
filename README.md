@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gunfire Reborn Launches on Game Pass](https://news.xbox.com/en-us/2022/10/28/gunfire-reborn-launches-on-game-pass/)
- - [Warhaven is an action-packed medieval fantasy game you can play in beta testing now](https://www.pcgamer.com/warhaven-is-an-action-packed-medieval-fantasy-game-you-can-play-in-beta-testing-now)
- - [The best last minute gaming costumes for Halloween](https://www.pcgamer.com/the-best-last-minute-gaming-costumes-for-halloween)<!-- GAME:END -->
+ - [It’s Crime Time! Frog Detective: The Entire Mystery is Available Now with PC Game Pass](https://news.xbox.com/en-us/2022/10/28/its-crime-time-frog-detective-the-entire-mystery-is-available-now-with-pc-game-pass/)
+ - [Destiny 2 Xur location and items, Oct. 28-Nov. 1](https://www.polygon.com/destiny-2-guide-walkthrough/23428641/destiny-2-where-is-xur-location-items-oct-28-nov-1)
+ - [Call of Duty’s Burger King Skin Is Getting Sold For Half The Cost Of The Game](https://kotaku.com/call-of-duty-mw2-burger-town-operator-skin-code-ebay-1849716026)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
