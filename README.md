@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 👉 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)<!-- MEMES:END -->
+ - 💣 [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
+ - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
