@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ford Abandons the Self-Driving Road to Nowhere](https://www.wired.com/story/ford-abandons-the-self-driving-road-to-nowhere/)
- - [Apple iPad Pro &lpar;6th Gen, 2022&rpar; Review: Another Minor Update](https://www.wired.com/review/apple-ipad-pro-6th-gen-2022/)
- - [How to Use Discord: A Beginner’s Guide](https://www.wired.com/story/how-to-use-discord/)<!-- TECH:END -->
+ - [USB-C iPhone, macOS Ventura, iCloud redesign, and advertising controversy](https://appleinsider.com/articles/22/10/28/usb-c-iphone-macos-ventura-icloud-redesign-and-advertising-controversy?utm_medium=rss)
+ - [Ugreen&#39;s new 13-in-1 docking station handles up to three external displays](https://appleinsider.com/articles/22/10/28/ugreens-new-13-in-1-docking-station-works-with-m-series-macs?utm_medium=rss)
+ - [Welcome to hell, Elon](https://www.theverge.com/2022/10/28/23428132/elon-musk-twitter-acquisition-problems-speech-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
