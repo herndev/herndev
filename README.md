@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
- - [The Scariest Things That Happened In Gaming In 2022](https://kotaku.com/scariest-things-gaming-blizzard-smash-twitch-street-fig-1849715652)
- - [Nvidia confirms its latest driver is causing problems in Modern Warfare 2](https://www.pcgamer.com/nvidia-confirms-its-latest-driver-is-causing-problems-in-modern-warfare-2)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
+ - [The Scariest Things That Happened In Gaming In 2022](https://kotaku.com/scariest-things-gaming-blizzard-smash-twitch-street-fig-1849715652)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
