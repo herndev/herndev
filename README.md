@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2 Prestige and Ranks explained](https://www.pcgamer.com/modern-warfare-2-prestige-rank-)
- - [Resident Evil&#39;s original live-action cast reunites to shoot an absurd, hammy short film](https://www.pcgamer.com/resident-evils-original-live-action-cast-reunites-to-shoot-an-absurd-hammy-short-film)
- - [Where is hardcore mode in Call of Duty: Modern Warfare 2?](https://www.pcgamer.com/call-of-duty-mw2-hardcore-mode-tier-1)<!-- GAME:END -->
+ - [Netflix’s Key &amp; Peele reunion Wendell &amp; Wild is a crafting miracle with a big story problem](https://www.polygon.com/23426753/wendell-and-wild-review-henry-selick-keegan-michael-key-jordan-peele)
+ - [Next Week on Xbox: New Games for October 31 to November 4](https://news.xbox.com/en-us/2022/10/28/next-week-on-xbox-new-games-for-october-31-to-november-4/)
+ - [Modern Warfare 2 players on Xbox and PC can’t disable cross-play](https://www.polygon.com/call-of-duty/23428068/modern-warfare-2-disable-cross-play-xbox-pc-playstation)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
