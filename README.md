@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to grab an image on one device and drop it onto another](https://appleinsider.com/articles/22/10/28/how-to-grab-an-image-on-one-device-and-drop-it-onto-another?utm_medium=rss)
- - [People are pretending to be laid-off Twitter employees carrying boxes outside of HQ](https://www.theverge.com/2022/10/28/23428775/twitter-fake-employee-layoff-rahul-ligma-elon-musk)
- - [Elon Musk says Twitter will have a ‘content moderation council’](https://www.theverge.com/2022/10/28/23428792/elon-musk-twitter-content-moderation-council-trump)<!-- TECH:END -->
+ - [Deals: get 2 lifetime licenses to Microsoft Office for Mac Home &amp; Business 2021 for just $74.99](https://appleinsider.com/articles/22/10/26/deals-get-2-lifetime-licenses-to-microsoft-office-for-mac-home-business-2021-for-just-7999?utm_medium=rss)
+ - [Google wants Meet to run on more devices and work better with Zoom](https://www.theverge.com/2022/10/28/23428527/google-meet-zoom-rooms-poly-studio-x-logitech-rally)
+ - [Twitter Users Flock to Other Platforms as the Elon Musk Era Begins](https://www.wired.com/story/twitter-users-flock-to-other-platforms-as-the-elon-musk-era-begins/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
