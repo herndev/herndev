@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
- - ⏩ [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - 👉 [This is a tree in Australia, so.... Can you see it?](http://9gag.com/gag/aXn9nb6)<!-- MEMES:END -->
+ - 💣 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - ⏩ [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
