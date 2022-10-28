@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nothing Ear &lpar;Stick&rpar; Review: Fine Sound, Funny Fit](https://www.wired.com/review/review-nothing-ear-stick/)
- - [Nothing Ear Stick review: fewer features, more polish](https://www.theverge.com/23426576/nothing-ear-stick-true-wireless-headphones-earbuds-review)
- - [Android trojan Drinik targets users of 18 Indian banks, masquerading as the country&#39;s official tax management app to steal personal data and banking credentials &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221028/p3#a221028p3)<!-- TECH:END -->
+ - [Despite climate pledges by US tech giants, Greenpeace finds key supplies for Amazon, Microsoft, Google, HP, and others remain deeply reliant on fossil fuels &lpar;Bloomberg&rpar;](http://www.techmeme.com/221028/p6#a221028p6)
+ - [Redmi says its new phone can be charged in nine minutes at 210W](https://www.theverge.com/2022/10/28/23428023/redmi-note-12-discovery-edition-210w-fast-charging-200mp-camera-release-date-price-features)
+ - [Q&amp;A with Stack Overflow CEO Prashanth Chandrasekar on running the company, growing a SaaS business, content moderation, community satisfaction, Web3, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221028/p5#a221028p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
