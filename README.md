@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-456-3225665/)
- - [Will Elon Musk keep funding Twitter’s most interesting side project?](https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future)
- - [GM pauses ads on Twitter after Elon Musk’s acquisition](https://www.theverge.com/2022/10/29/23429776/gm-pauses-ads-twitter-elon-musk-takeover-tesla-content-moderation)<!-- TECH:END -->
+ - [Google’s versatile Nest Audio and Nest Hub Max are up to 50 percent off today](https://www.theverge.com/good-deals/2022/10/29/23428281/google-nest-audio-hub-max-beats-fit-pro-sandisk-extreme-pro-ssd-elgato-streamdeck-xl-deal-sale)
+ - [Camera shootout: Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-camera-test-shootout-3224287/)
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-456-3225665/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
