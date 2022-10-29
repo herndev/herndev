@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)
- - [What the Creator of ‘Watchmen’ Gets Right About Superhero Fans](https://www.wired.com/story/alan-moore-superheroes/)
- - [15 Best Deals: Coffee Makers, Projectors, and Weighted Blankets](https://www.wired.com/story/weekend-deals-october-29-2022/)<!-- TECH:END -->
+ - [Five years later, is eSIM finally ready to take on the world?](https://www.androidauthority.com/esim-five-years-later-3221150/)
+ - [Hisense U8H Review: A Great TV For Everyone](https://www.wired.com/review/hisense-u8h/)
+ - [This Ancient Grain-Sowing Method Could Be Farming’s Future](https://www.wired.com/story/ancient-grain-crops-future-of-farming/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
