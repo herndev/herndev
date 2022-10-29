@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Man of Steel still proves Henry Cavill is the best Superman](https://www.polygon.com/23428458/henry-cavill-superman-man-of-steel)
- - [Gotham Knights Is Kinda Mid](https://kotaku.com/gotham-knights-batman-arkham-review-red-hood-robin-1849717406)
- - [Open your eyes, man, and watch these movies before they leave streaming next month](https://www.polygon.com/what-to-watch/2022/10/29/23420774/best-movies-netflix-amazon-hulu-hbo-leaving-october-2022)<!-- GAME:END -->
+ - [Where to find Bayonetta 3’s Broken Moon Pearls](https://www.polygon.com/23429836/bayonetta-3-broken-moon-pearl-location-guide-where-to-find)
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
+ - [Players cannot get enough of Modern Warfare 2’s exploding car map, but some pros absolutely hate it](https://www.pcgamer.com/players-cannot-get-enough-of-modern-warfare-2s-exploding-car-map-but-some-pros-absolutely-hate-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
