@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meirl](http://9gag.com/gag/a3ZByNe)
- - ⏩ [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)
- - 👉 [Find yourself a girl like this one](http://9gag.com/gag/agoVOqw)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 👉 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)<!-- MEMES:END -->
 
 ---
 
