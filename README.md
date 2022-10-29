@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Interesting remark](http://9gag.com/gag/aeQGmXm)
- - ⏩ [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 👉 [Pakistan in the bag.](http://9gag.com/gag/a3ZB4g3)<!-- MEMES:END -->
+ - 💣 [Man pulls out a katana to save another man getting jumped](http://9gag.com/gag/a7q7nAz)
+ - ⏩ [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
+ - 👉 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)<!-- MEMES:END -->
 
 ---
 
