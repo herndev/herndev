@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)
- - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
+ - 💣 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - ⏩ [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
+ - 👉 [Dead crowd](http://9gag.com/gag/a8qM2L3)<!-- MEMES:END -->
 
 ---
 
