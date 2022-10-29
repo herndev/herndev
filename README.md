@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deal drops Microsoft Office for Mac Home &amp; Business 2021 to $39.99](https://appleinsider.com/articles/22/10/29/early-black-friday-deal-drops-microsoft-office-for-mac-home-business-2021-to-3999?utm_medium=rss)
- - [Will You Get Your Money&#39;s Worth With Hair Growth Vitamins?     - CNET](https://www.cnet.com/health/nutrition/are-hair-growth-vitamins-worth-the-money/#ftag=CAD590a51e)
- - [NASA&#39;s Webb Telescope Captures Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-captures-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Byju&#39;s plans to layoff about 12,000 people, or nearly 25% of its workforce, over the next year; Byju&#39;s denies the number of job cuts is more than 2,500 &lpar;Pradip K. Saha/The Morning Context&rpar;](http://www.techmeme.com/221029/p1#a221029p1)
+ - [Sources: spotted at Twitter&#39;s HQ today on Musk&#39;s first full day as owner were former head of product Kayvon Beykpour, David Sacks, and Musk&#39;s personal attorney &lpar;New York Times&rpar;](http://www.techmeme.com/221028/p29#a221028p29)
+ - [Early Black Friday deal drops Microsoft Office for Mac Home &amp; Business 2021 to $39.99](https://appleinsider.com/articles/22/10/29/early-black-friday-deal-drops-microsoft-office-for-mac-home-business-2021-to-3999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
