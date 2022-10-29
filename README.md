@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)
- - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 👉 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
+ - 💣 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
+ - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 👉 [Privacy](http://9gag.com/gag/a8qM2oV)<!-- MEMES:END -->
 
 ---
 
