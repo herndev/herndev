@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Potential Steam feature would be a godsend for users with data caps or slow internet](https://www.pcgamer.com/potential-steam-feature-would-be-a-godsend-for-users-with-data-caps-or-slow-internet)
- - [Where to find Bayonetta 3’s Broken Moon Pearls](https://www.polygon.com/23429836/bayonetta-3-broken-moon-pearl-location-guide-where-to-find)
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)<!-- GAME:END -->
+ - [Netflix Replaces Henry Cavill In Witcher With Liam Hemsworth](https://kotaku.com/netflix-witcher-s4-henry-cavill-liam-hemsworth-superman-1849719667)
+ - [The Witcher season 4 coming to Netflix, but without Henry Cavill](https://www.polygon.com/23430157/the-witcher-season-4-henry-cavill-liam-hemsworth-geralt-netflix)
+ - [Potential Steam feature would be a godsend for users with data caps or slow internet](https://www.pcgamer.com/potential-steam-feature-would-be-a-godsend-for-users-with-data-caps-or-slow-internet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
