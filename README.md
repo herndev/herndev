@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 👉 [Privacy](http://9gag.com/gag/a8qM2oV)<!-- MEMES:END -->
+ - ⏩ [Dead crowd](http://9gag.com/gag/a8qM2L3)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
