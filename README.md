@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
- - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 💣 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - ⏩ [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
 
 ---
 
