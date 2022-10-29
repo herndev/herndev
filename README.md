@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
- - ⏩ [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
+ - 💣 [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - ⏩ [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
+ - 👉 [Try not to breath for a while](http://9gag.com/gag/aEq7Azp)<!-- MEMES:END -->
 
 ---
 
