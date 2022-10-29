@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [100+... damn..](http://9gag.com/gag/aoK9nZX)
- - ⏩ [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)
- - 👉 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)<!-- MEMES:END -->
+ - 💣 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)
+ - ⏩ [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
 
 ---
 
