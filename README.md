@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Musk made himself the global face of content moderation amid growing governmental pressures, even as his wealth via Tesla depends on China and others &lpar;Alex Stamos/@alexstamos&rpar;](http://www.techmeme.com/221029/p10#a221029p10)
- - [TK VPN     - CNET](https://www.cnet.com/tech/services-and-software/tk-tktkt/#ftag=CAD590a51e)
- - [The sequel to PC Building Simulator feels like it’s still under construction](https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review)<!-- TECH:END -->
+ - [A look at an online reputation laundering market for victims of Nigeria&#39;s unlicensed, predatory loan apps, which publicly shame borrowers who can&#39;t pay &lpar;Olatunji Olaigbe/Rest of World&rpar;](http://www.techmeme.com/221029/p11#a221029p11)
+ - [Liam Hemsworth will play Geralt of Rivia in The Witcher’s fourth season](https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix)
+ - [&#39;Star Wars: Tales of the Jedi&#39; Represents a Branch of George Lucas&#39; Original Vision     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-represents-a-branch-of-george-lucas-original-vision/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
