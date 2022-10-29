@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ikea threatens to sue the maker of an &#39;infinite furniture store survival game&#39;](https://www.pcgamer.com/ikea-threatens-to-sue-the-maker-of-an-infinite-furniture-store-survival-game)
- - [Don’t Worry Darling, Barbarian, and every other movie you can stream from home this weekend](https://www.polygon.com/2022/10/28/23420287/new-movies-watch-barbarian-hbo-max-pearl-dont-worry-darling-netflix-wendell-wild-vod-streaming)
- - [WandaVision spinoff starring White Vision to explain what’s up with White Vision](https://www.polygon.com/23429175/wandavision-marvel-vision-quest-spinoff-disney-plus)<!-- GAME:END -->
+ - [Popular Steam Deck dock maker pulls upcoming design, claiming a competitor stole it](https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it)
+ - [Where to find Bayonetta 3’s Broken Witch Hearts](https://www.polygon.com/23429117/bayonetta-3-broken-witch-hearts-locations-guides-walkthrough-nintendo-switch)
+ - [Ikea threatens to sue the maker of an &#39;infinite furniture store survival game&#39;](https://www.pcgamer.com/ikea-threatens-to-sue-the-maker-of-an-infinite-furniture-store-survival-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
