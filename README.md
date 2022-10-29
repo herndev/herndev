@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - ⏩ [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
- - 👉 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)<!-- MEMES:END -->
+ - 💣 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)
+ - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - 👉 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
 
 ---
 
