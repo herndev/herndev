@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal Iranian carrier documents detail SIAM, an Iranian government web program for surveilling the country&#39;s cellphone users and disrupting communications &lpar;The Intercept&rpar;](http://www.techmeme.com/221029/p6#a221029p6)
  - [Xiaomi 13: Everything we know about Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-13-3222232/)
- - [Google acquired Alter, an AI avatar startup that helps creators and brands express their virtual identity; source: the deal closed two months ago for ~$100M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221029/p5#a221029p5)
- - [A look at the US government&#39;s handwringing over TikTok and national security concerns, as China&#39;s government seeks to protect its powerful app and algorithms &lpar;Washington Post&rpar;](http://www.techmeme.com/221029/p4#a221029p4)<!-- TECH:END -->
+ - [A Halloween Candy Sugar Rush Can Wreck Your Sleep. Here&#39;s What to Do     - CNET](https://www.cnet.com/health/sleep/halloween-candy-sugar-rush-can-wreck-your-sleep-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
