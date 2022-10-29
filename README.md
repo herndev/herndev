@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Adobe apps will no longer support Pantone-owned colors for free due to a licensing change; users would need an Adobe plug-in costing $15/month to access colors &lpar;John Walker/Kotaku&rpar;](http://www.techmeme.com/221028/p27#a221028p27)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-come-to-disney-plus/#ftag=CAD590a51e)
- - [How to find the best deals during Black Friday and Cyber Monday 2022](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
+ - [Will You Get Your Money&#39;s Worth With Hair Growth Vitamins?     - CNET](https://www.cnet.com/health/nutrition/are-hair-growth-vitamins-worth-the-money/#ftag=CAD590a51e)
+ - [NASA&#39;s Webb Telescope Captures Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-captures-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)
+ - [&#39;Great British Baking Show&#39;: This Guy Rescues Even the Most Disastrous Bakes     - CNET](https://www.cnet.com/culture/entertainment/great-british-baking-show-this-man-can-rescue-even-the-most-disastrous-bakes/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
