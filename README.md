@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix&#39;s Witcher has recast Geralt, with Henry Cavill leaving after season 3](https://www.pcgamer.com/witcher-season-4-henry-cavill-recast)
- - [Discord banned over 55 million accounts, 68 thousand servers in 6 months](https://www.pcgamer.com/discord-banned-over-55-million-accounts-68-thousand-servers-in-6-months)
- - [Netflix Replaces Henry Cavill In Witcher With Liam Hemsworth](https://kotaku.com/netflix-witcher-s4-henry-cavill-liam-hemsworth-superman-1849719667)<!-- GAME:END -->
+ - [Xbox boss says regulator concerns around Activision acquisition are fair](https://www.pcgamer.com/xbox-boss-says-regulator-concerns-around-activision-acquisition-are-fair)
+ - [What&#39;s your favorite PC you&#39;ve ever owned?](https://www.pcgamer.com/whats-your-favorite-pc-youve-ever-owned)
+ - [Netflix&#39;s Witcher has recast Geralt, with Henry Cavill leaving after season 3](https://www.pcgamer.com/witcher-season-4-henry-cavill-recast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
