@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
- - ⏩ [Interesting remark](http://9gag.com/gag/aeQGmXm)
- - 👉 [I want to party with Steven](http://9gag.com/gag/armKBbp)<!-- MEMES:END -->
+ - 💣 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
+ - ⏩ [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 👉 [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)<!-- MEMES:END -->
 
 ---
 
