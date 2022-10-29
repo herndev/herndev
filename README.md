@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Open your eyes, man, and watch these movies before they leave streaming next month](https://www.polygon.com/what-to-watch/2022/10/29/23420774/best-movies-netflix-amazon-hulu-hbo-leaving-october-2022)
  - [Today&#39;s Wordle answer and hint for Saturday, October 29](https://www.pcgamer.com/wordle-today-497-answer-october-29)
- - [Popular Steam Deck dock maker pulls upcoming design, claiming a competitor stole it](https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it)
- - [Where to find Bayonetta 3’s Broken Witch Hearts](https://www.polygon.com/23429117/bayonetta-3-broken-witch-hearts-locations-guides-walkthrough-nintendo-switch)<!-- GAME:END -->
+ - [Popular Steam Deck dock maker pulls upcoming design, claiming a competitor stole it](https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
