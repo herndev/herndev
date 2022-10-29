@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Man of Steel still proves Henry Cavill is the best Superman](https://www.polygon.com/23428458/henry-cavill-superman-man-of-steel)
  - [Gotham Knights Is Kinda Mid](https://kotaku.com/gotham-knights-batman-arkham-review-red-hood-robin-1849717406)
- - [Open your eyes, man, and watch these movies before they leave streaming next month](https://www.polygon.com/what-to-watch/2022/10/29/23420774/best-movies-netflix-amazon-hulu-hbo-leaving-october-2022)
- - [Today&#39;s Wordle answer and hint for Saturday, October 29](https://www.pcgamer.com/wordle-today-497-answer-october-29)<!-- GAME:END -->
+ - [Open your eyes, man, and watch these movies before they leave streaming next month](https://www.polygon.com/what-to-watch/2022/10/29/23420774/best-movies-netflix-amazon-hulu-hbo-leaving-october-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
