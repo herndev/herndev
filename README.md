@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tel Aviv-based Valence Security, which helps secure SaaS supply chains, raised a $25M Series A led by Microsoft&#39;s M12, with Akamai and others participating &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221029/p2#a221029p2)
- - [Sources: Byju&#39;s plans to layoff about 12,000 people, or nearly 25% of its workforce, over the next year; Byju&#39;s denies the number of job cuts is more than 2,500 &lpar;Pradip K. Saha/The Morning Context&rpar;](http://www.techmeme.com/221029/p1#a221029p1)
- - [Sources: spotted at Twitter&#39;s HQ today on Musk&#39;s first full day as owner were former head of product Kayvon Beykpour, David Sacks, and Musk&#39;s personal attorney &lpar;New York Times&rpar;](http://www.techmeme.com/221028/p29#a221028p29)<!-- TECH:END -->
+ - [A look at the US government&#39;s handwringing over TikTok and national security concerns, as China&#39;s government seeks to protect its powerful app and algorithms &lpar;Washington Post&rpar;](http://www.techmeme.com/221029/p4#a221029p4)
+ - [Analysis: 17 VC-backed Chinese companies that went public on Nasdaq and NYSE in the past 2 years have seen a ~91% average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221029/p3#a221029p3)
+ - [Tel Aviv-based Valence Security, which helps secure SaaS supply chains, raised a $25M Series A led by Microsoft&#39;s M12, with Akamai and others participating &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221029/p2#a221029p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
