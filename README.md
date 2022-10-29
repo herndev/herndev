@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If Musk Starts Firing Twitter&#39;s Security Team, Run](https://www.wired.com/story/elon-musk-twitter-security-privacy-risks/)
- - [Black Friday 2022: Our pick of the best offers in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [Google just made the Pixel 7 the first 64-bit-only Android phone](https://www.androidauthority.com/pixel-7-64-bit-3226237/)<!-- TECH:END -->
+ - [Court filing: Mark Zuckerberg, Meta CTO Andrew Bosworth, Within CEO Chris Milk, and others to testify in the FTC case against Meta&#39;s acquisition of Within &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/221028/p26#a221028p26)
+ - [Apple Towson union members accuse Apple of withholding health and education benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)
+ - [&#39;Star Wars: Tales of the Jedi&#39; Endings and Ahsoka&#39;s and Dooku&#39;s Big Moments, Explained     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-endings-big-ahsoka-and-dooku-moments-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
