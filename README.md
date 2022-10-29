@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China Operates Secret ‘Police Stations’ in Other Countries](https://www.wired.com/story/china-police-stations-security-roundup/)
- - [Apple Says iPhones Will Finally Get USB-C Ports](https://www.wired.com/story/apple-says-iphones-will-finally-get-usb-c-ports/)
- - [Twitter Writes Twitter’s Requiem](https://www.wired.com/story/requiem-for-twitter/)<!-- TECH:END -->
+ - [A book excerpt details Netflix&#39;s shift from DVDs and tensions with HBO, which took a hard line on streaming rights, leading Netflix to make its own content &lpar;Bloomberg&rpar;](http://www.techmeme.com/221029/p8#a221029p8)
+ - [Startups Have a Sellout Problem. There&#39;s a Better Way](https://www.wired.com/story/startups-exit-community-ipo-business/)
+ - [Apple Towson union accuses Apple of withholding new benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
