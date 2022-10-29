@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Saturday, October 29](https://www.pcgamer.com/wordle-today-497-answer-october-29)
  - [Popular Steam Deck dock maker pulls upcoming design, claiming a competitor stole it](https://www.pcgamer.com/popular-steam-deck-dock-maker-pulls-upcoming-design-claiming-a-competitor-stole-it)
- - [Where to find Bayonetta 3’s Broken Witch Hearts](https://www.polygon.com/23429117/bayonetta-3-broken-witch-hearts-locations-guides-walkthrough-nintendo-switch)
- - [Ikea threatens to sue the maker of an &#39;infinite furniture store survival game&#39;](https://www.pcgamer.com/ikea-threatens-to-sue-the-maker-of-an-infinite-furniture-store-survival-game)<!-- GAME:END -->
+ - [Where to find Bayonetta 3’s Broken Witch Hearts](https://www.polygon.com/23429117/bayonetta-3-broken-witch-hearts-locations-guides-walkthrough-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
