@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A book excerpt details Netflix&#39;s shift from DVDs and tensions with HBO, which took a hard line on streaming rights, leading Netflix to make its own content &lpar;Bloomberg&rpar;](http://www.techmeme.com/221029/p8#a221029p8)
- - [Startups Have a Sellout Problem. There&#39;s a Better Way](https://www.wired.com/story/startups-exit-community-ipo-business/)
- - [Apple Towson union accuses Apple of withholding new benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)<!-- TECH:END -->
+ - [Compared: M2 iPad Pro vs M1 iPad Pro](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-m1-ipad-pro?utm_medium=rss)
+ - [Apple earned $90.15B in fourth quarter of 2022](https://appleinsider.com/articles/22/10/27/apple-earned-9015b-in-fourth-quarter-of-2022?utm_medium=rss)
+ - [The Apple iPhone 14 Plus is bigger, but is it better?](https://www.androidauthority.com/apple-iphone-14-plus-review-3224809/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
