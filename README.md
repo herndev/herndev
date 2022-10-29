@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who the hell changes lane like this?](http://9gag.com/gag/aKEqvy1)
- - ⏩ [Meirl](http://9gag.com/gag/a3ZByNe)
- - 👉 [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
