@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top early ?](http://9gag.com/gag/aNwnBz6)
- - ⏩ [Why do people with small willies become managers?](http://9gag.com/gag/armKx6X)
- - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
+ - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
+ - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 👉 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)<!-- MEMES:END -->
 
 ---
 
