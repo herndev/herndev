@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taurid Meteor Shower Could Bring a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-bring-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)
- - [NASA Snaps Portrait of Sun &#39;Smiling&#39; Like a Big Fiery Goof     - CNET](https://www.cnet.com/science/space/nasa-snaps-portrait-of-sun-smiling-like-a-big-fiery-goof/#ftag=CAD590a51e)
- - [Tree Rings Unlock Evidence of Mysterious Cosmic Radiation &#39;Storms&#39;     - CNET](https://www.cnet.com/science/space/tree-rings-unlock-evidence-of-mysterious-cosmic-radiation-storms/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hands on with the Banana Phone: reference memes of days gone by with this novelty handset](https://appleinsider.com/articles/22/10/29/hands-on-with-the-banana-phone-reference-memes-of-days-gone-by-with-this-novelty-handset?utm_medium=rss)
+ - [Dogecoin surged by nearly 75% on Saturday after Elon Musk took control of Twitter, its biggest daily gain since April 2021, as it rallied 150% since October 25 &lpar;Yashu Gola/Cointelegraph&rpar;](http://www.techmeme.com/221029/p13#a221029p13)
+ - [Elon Musk reportedly ordered company-wide layoffs at Twitter](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
