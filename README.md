@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filing: Mark Zuckerberg, Meta CTO Andrew Bosworth, Within CEO Chris Milk, and others to testify in the FTC case against Meta&#39;s acquisition of Within &lpar;Ismail Shakil/Reuters&rpar;](http://www.techmeme.com/221028/p26#a221028p26)
- - [Apple Towson union members accuse Apple of withholding health and education benefits](https://appleinsider.com/articles/22/10/28/apple-towson-union-members-accuse-apple-of-withholding-health-and-education-benefits?utm_medium=rss)
- - [&#39;Star Wars: Tales of the Jedi&#39; Endings and Ahsoka&#39;s and Dooku&#39;s Big Moments, Explained     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-endings-big-ahsoka-and-dooku-moments-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Adobe apps will no longer support Pantone-owned colors for free due to a licensing change; users would need an Adobe plug-in costing $15/month to access colors &lpar;John Walker/Kotaku&rpar;](http://www.techmeme.com/221028/p27#a221028p27)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 9 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-9-come-to-disney-plus/#ftag=CAD590a51e)
+ - [How to find the best deals during Black Friday and Cyber Monday 2022](https://www.theverge.com/21587765/black-friday-cyber-monday-best-deals-how-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
