@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with the Banana Phone: reference memes of days gone by with this novelty handset](https://appleinsider.com/articles/22/10/29/hands-on-with-the-banana-phone-reference-memes-of-days-gone-by-with-this-novelty-handset?utm_medium=rss)
- - [Dogecoin surged by nearly 75% on Saturday after Elon Musk took control of Twitter, its biggest daily gain since April 2021, as it rallied 150% since October 25 &lpar;Yashu Gola/Cointelegraph&rpar;](http://www.techmeme.com/221029/p13#a221029p13)
+ - [Tim Cook sheds doubt on new M2 MacBook Pros in 2022](https://appleinsider.com/articles/22/10/29/tim-cook-sheds-doubt-on-a-fall-m2-macbook-pro-update?utm_medium=rss)
+ - [How to grab an image on an iPhone and drop it onto an iPad](https://appleinsider.com/articles/22/10/28/how-to-grab-an-image-on-one-device-and-drop-it-onto-another?utm_medium=rss)
  - [Elon Musk reportedly ordered company-wide layoffs at Twitter](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
