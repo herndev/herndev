@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Compared: M2 iPad Pro vs M1 iPad Pro](https://appleinsider.com/inside/ipad-pro/vs/compared-m2-ipad-pro-vs-m1-ipad-pro?utm_medium=rss)
- - [Apple earned $90.15B in fourth quarter of 2022](https://appleinsider.com/articles/22/10/27/apple-earned-9015b-in-fourth-quarter-of-2022?utm_medium=rss)
- - [The Apple iPhone 14 Plus is bigger, but is it better?](https://www.androidauthority.com/apple-iphone-14-plus-review-3224809/)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-456-3225665/)
+ - [Will Elon Musk keep funding Twitter’s most interesting side project?](https://www.theverge.com/2022/10/29/23428241/elon-musk-twitter-bluesky-decentralized-social-networking-future)
+ - [GM pauses ads on Twitter after Elon Musk’s acquisition](https://www.theverge.com/2022/10/29/23429776/gm-pauses-ads-twitter-elon-musk-takeover-tesla-content-moderation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
