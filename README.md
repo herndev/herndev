@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this captain to narrate my life.](http://9gag.com/gag/aOxV20M)
- - ⏩ [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - 👉 [What kinda talent show is this...](http://9gag.com/gag/a9q7X16)<!-- MEMES:END -->
+ - 💣 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - ⏩ [Top early ?](http://9gag.com/gag/aNwnBz6)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
