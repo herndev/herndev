@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at an online reputation laundering market for victims of Nigeria&#39;s unlicensed, predatory loan apps, which publicly shame borrowers who can&#39;t pay &lpar;Olatunji Olaigbe/Rest of World&rpar;](http://www.techmeme.com/221029/p11#a221029p11)
- - [Liam Hemsworth will play Geralt of Rivia in The Witcher’s fourth season](https://www.theverge.com/2022/10/29/23430147/liam-hemsworth-replacing-henry-cavill-season-4-the-witcher-netflix)
- - [&#39;Star Wars: Tales of the Jedi&#39; Represents a Branch of George Lucas&#39; Original Vision     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-represents-a-branch-of-george-lucas-original-vision/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Taurid Meteor Shower Could Bring a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-bring-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)
+ - [NASA Snaps Portrait of Sun &#39;Smiling&#39; Like a Big Fiery Goof     - CNET](https://www.cnet.com/science/space/nasa-snaps-portrait-of-sun-smiling-like-a-big-fiery-goof/#ftag=CAD590a51e)
+ - [Tree Rings Unlock Evidence of Mysterious Cosmic Radiation &#39;Storms&#39;     - CNET](https://www.cnet.com/science/space/tree-rings-unlock-evidence-of-mysterious-cosmic-radiation-storms/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
