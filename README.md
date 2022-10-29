@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Xiaomi 13: Everything we know about Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-13-3222232/)
  - [Google acquired Alter, an AI avatar startup that helps creators and brands express their virtual identity; source: the deal closed two months ago for ~$100M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221029/p5#a221029p5)
- - [A look at the US government&#39;s handwringing over TikTok and national security concerns, as China&#39;s government seeks to protect its powerful app and algorithms &lpar;Washington Post&rpar;](http://www.techmeme.com/221029/p4#a221029p4)
- - [Analysis: 17 VC-backed Chinese companies that went public on Nasdaq and NYSE in the past 2 years have seen a ~91% average decline in their post-IPO stock price &lpar;Joanna Glasner/Crunchbase News&rpar;](http://www.techmeme.com/221029/p3#a221029p3)<!-- TECH:END -->
+ - [A look at the US government&#39;s handwringing over TikTok and national security concerns, as China&#39;s government seeks to protect its powerful app and algorithms &lpar;Washington Post&rpar;](http://www.techmeme.com/221029/p4#a221029p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
