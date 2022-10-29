@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s versatile Nest Audio and Nest Hub Max are up to 50 percent off today](https://www.theverge.com/good-deals/2022/10/29/23428281/google-nest-audio-hub-max-beats-fit-pro-sandisk-extreme-pro-ssd-elgato-streamdeck-xl-deal-sale)
- - [Camera shootout: Google Pixel 7 Pro vs Samsung Galaxy S22 Ultra](https://www.androidauthority.com/google-pixel-7-pro-vs-samsung-galaxy-s22-ultra-camera-test-shootout-3224287/)
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-456-3225665/)<!-- TECH:END -->
+ - [[Thread] Musk made himself the global face of content moderation amid growing governmental pressures, even as his wealth via Tesla depends on China and others &lpar;Alex Stamos/@alexstamos&rpar;](http://www.techmeme.com/221029/p10#a221029p10)
+ - [The sequel to PC Building Simulator feels like it’s still under construction](https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review)
+ - [iPhone 15 Pro models could ditch mechanical volume and power buttons](https://www.theverge.com/2022/10/29/23429915/iphone-15-ditch-mechanical-volume-power-buttons-solid-state-haptic-feedback-apple-rumors)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
