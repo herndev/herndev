@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Early Black Friday deal drops Microsoft Office for Mac Home &amp; Business 2021 to $39.99](https://appleinsider.com/articles/22/10/29/early-black-friday-deal-drops-microsoft-office-for-mac-home-business-2021-to-3999?utm_medium=rss)
  - [Will You Get Your Money&#39;s Worth With Hair Growth Vitamins?     - CNET](https://www.cnet.com/health/nutrition/are-hair-growth-vitamins-worth-the-money/#ftag=CAD590a51e)
- - [NASA&#39;s Webb Telescope Captures Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-captures-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)
- - [&#39;Great British Baking Show&#39;: This Guy Rescues Even the Most Disastrous Bakes     - CNET](https://www.cnet.com/culture/entertainment/great-british-baking-show-this-man-can-rescue-even-the-most-disastrous-bakes/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [NASA&#39;s Webb Telescope Captures Super Eerie &#39;Pillars of Creation&#39; View     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-captures-super-eerie-pillars-of-creation-view/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
