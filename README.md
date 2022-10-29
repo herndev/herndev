@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top early ?](http://9gag.com/gag/aNwnBz6)
- - ⏩ [That vet visit&#39;s gonna be expensive](http://9gag.com/gag/awZxyK1)
- - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 💣 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
+ - ⏩ [Interesting remark](http://9gag.com/gag/aeQGmXm)
+ - 👉 [I want to party with Steven](http://9gag.com/gag/armKBbp)<!-- MEMES:END -->
 
 ---
 
