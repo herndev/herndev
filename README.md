@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Five years later, is eSIM finally ready to take on the world?](https://www.androidauthority.com/esim-five-years-later-3221150/)
- - [Hisense U8H Review: A Great TV For Everyone](https://www.wired.com/review/hisense-u8h/)
- - [This Ancient Grain-Sowing Method Could Be Farming’s Future](https://www.wired.com/story/ancient-grain-crops-future-of-farming/)<!-- TECH:END -->
+ - [China Operates Secret ‘Police Stations’ in Other Countries](https://www.wired.com/story/china-police-stations-security-roundup/)
+ - [Apple Says iPhones Will Finally Get USB-C Ports](https://www.wired.com/story/apple-says-iphones-will-finally-get-usb-c-ports/)
+ - [Twitter Writes Twitter’s Requiem](https://www.wired.com/story/requiem-for-twitter/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
