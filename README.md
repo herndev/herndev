@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix Replaces Henry Cavill In Witcher With Liam Hemsworth](https://kotaku.com/netflix-witcher-s4-henry-cavill-liam-hemsworth-superman-1849719667)
- - [The Witcher season 4 coming to Netflix, but without Henry Cavill](https://www.polygon.com/23430157/the-witcher-season-4-henry-cavill-liam-hemsworth-geralt-netflix)
- - [Potential Steam feature would be a godsend for users with data caps or slow internet](https://www.pcgamer.com/potential-steam-feature-would-be-a-godsend-for-users-with-data-caps-or-slow-internet)<!-- GAME:END -->
+ - [Netflix&#39;s Witcher has recast Geralt, with Henry Cavill leaving after season 3](https://www.pcgamer.com/witcher-season-4-henry-cavill-recast)
+ - [Discord banned over 55 million accounts, 68 thousand servers in 6 months](https://www.pcgamer.com/discord-banned-over-55-million-accounts-68-thousand-servers-in-6-months)
+ - [Netflix Replaces Henry Cavill In Witcher With Liam Hemsworth](https://kotaku.com/netflix-witcher-s4-henry-cavill-liam-hemsworth-superman-1849719667)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
