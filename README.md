@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [[Thread] Musk made himself the global face of content moderation amid growing governmental pressures, even as his wealth via Tesla depends on China and others &lpar;Alex Stamos/@alexstamos&rpar;](http://www.techmeme.com/221029/p10#a221029p10)
- - [The sequel to PC Building Simulator feels like it’s still under construction](https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review)
- - [iPhone 15 Pro models could ditch mechanical volume and power buttons](https://www.theverge.com/2022/10/29/23429915/iphone-15-ditch-mechanical-volume-power-buttons-solid-state-haptic-feedback-apple-rumors)<!-- TECH:END -->
+ - [TK VPN     - CNET](https://www.cnet.com/tech/services-and-software/tk-tktkt/#ftag=CAD590a51e)
+ - [The sequel to PC Building Simulator feels like it’s still under construction](https://www.theverge.com/2022/10/29/23422708/pc-building-simulator-2-game-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
