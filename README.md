@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Top early ?](http://9gag.com/gag/aNwnBz6)
- - ⏩ [I bet he doesn&#39;t know how to use the 3 shell either.](http://9gag.com/gag/ajVAx6w)
- - 👉 [Try not to breath for a while](http://9gag.com/gag/aEq7Azp)<!-- MEMES:END -->
+ - 💣 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)
+ - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 👉 [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)<!-- MEMES:END -->
 
 ---
 
