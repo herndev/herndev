@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal Iranian carrier documents detail SIAM, an Iranian government web program for surveilling the country&#39;s cellphone users and disrupting communications &lpar;The Intercept&rpar;](http://www.techmeme.com/221029/p6#a221029p6)
- - [Xiaomi 13: Everything we know about Xiaomi’s next flagship](https://www.androidauthority.com/xiaomi-13-3222232/)
- - [A Halloween Candy Sugar Rush Can Wreck Your Sleep. Here&#39;s What to Do     - CNET](https://www.cnet.com/health/sleep/halloween-candy-sugar-rush-can-wreck-your-sleep-heres-what-to-do/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to Renew Your US Passport Online](https://www.wired.com/story/how-to-renew-passport-online/)
+ - [What the Creator of ‘Watchmen’ Gets Right About Superhero Fans](https://www.wired.com/story/alan-moore-superheroes/)
+ - [15 Best Deals: Coffee Makers, Projectors, and Weighted Blankets](https://www.wired.com/story/weekend-deals-october-29-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
