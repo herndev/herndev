@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
  - [The next Dota 2 hero is a ghostly gunslinger named Muerta](https://www.pcgamer.com/the-next-dota-2-hero-is-a-ghostly-gunslinger-named-muerta)
- - [Build big, stupid custom spaceships with friends in Cosmoteer](https://www.pcgamer.com/build-big-stupid-custom-spaceships-with-friends-in-cosmoteer)
- - [The hit Indian horror movie Tumbbad is shocking in the best ways](https://www.polygon.com/23429017/watch-tumbbad-best-indian-horror-movie-streaming-review)<!-- GAME:END -->
+ - [Build big, stupid custom spaceships with friends in Cosmoteer](https://www.pcgamer.com/build-big-stupid-custom-spaceships-with-friends-in-cosmoteer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
