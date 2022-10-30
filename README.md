@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
- - ⏩ [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - 👉 [Wtf...](http://9gag.com/gag/aMEG716)<!-- MEMES:END -->
+ - 💣 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - ⏩ [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
+ - 👉 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 ---
 
