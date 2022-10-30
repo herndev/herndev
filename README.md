@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mate , you\u2019re killing me](http://9gag.com/gag/aA01OVd)
- - ⏩ [Chad Smutley](http://9gag.com/gag/a1PMVDP)
- - 👉 [This Is life for some people.](http://9gag.com/gag/a9q7N01)<!-- MEMES:END -->
+ - 💣 [Thats some advice](http://9gag.com/gag/amA9K1j)
+ - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
 
 ---
 
