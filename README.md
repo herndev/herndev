@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes)
  - [Edge Full Kit review: An iPhone mount for your MacBook Pro](https://appleinsider.com/articles/22/10/30/edge-full-kit-review-an-iphone-mount-for-your-macbook-pro?utm_medium=rss)
- - [How the detention of Huawei&#39;s then CFO Meng Wanzhou to stand trial in the US provoked a standoff between global powers and splintered US-China relations &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p11#a221030p11)
- - [Taurid Meteor Shower Could Unleash a Swarm of Fireballs This Halloween     - CNET](https://www.cnet.com/science/space/taurid-meteor-shower-could-unleash-a-swarm-of-fireballs-this-halloween/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Great British Baking Show&#39;: This Guy Can Redeem Even the Wobbliest Custard     - CNET](https://www.cnet.com/culture/entertainment/great-british-baking-show-this-guy-can-redeem-even-the-wobbliest-custard/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
