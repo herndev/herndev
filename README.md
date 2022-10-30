@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Staring at a small screen all day? You’ll probably enjoy this laptop](https://www.androidauthority.com/asus-zenbook-17-fold-review-3224771/)
  - [Twitter&#39;s head of safety and integrity says it has not changed content policies but had been subject to &quot;an organized effort to make people think we have&quot; &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221030/p10#a221030p10)
- - [Apple&#39;s iOS 16.2 release expected in December, iOS 16.3 possibly in February](https://appleinsider.com/articles/22/10/30/apples-ios-162-release-expected-in-december-ios-163-possibly-in-february?utm_medium=rss)
- - [Panthers vs. Falcons Livestream: How to Watch NFL Week 8 From Anywhere Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-falcons-livestream-how-to-watch-nfl-week-8-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s iOS 16.2 release expected in December, iOS 16.3 possibly in February](https://appleinsider.com/articles/22/10/30/apples-ios-162-release-expected-in-december-ios-163-possibly-in-february?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
