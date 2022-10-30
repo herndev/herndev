@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Telegram pulls paywalled posts from iOS app due to App Store rules](https://www.theverge.com/2022/10/30/23430234/telegram-pulls-paywalled-posts-ios-apple-app-store-rules-bots)
- - [Teens use TikTok to self-diagnose mental illnesses, while mental health providers worry about inaccurate information and accounts encouraging harmful behavior &lpar;Christina Caron/New York Times&rpar;](http://www.techmeme.com/221030/p9#a221030p9)
- - [Sorry Apple, I still much prefer Sony’s compact flagship](https://www.androidauthority.com/prefer-sony-compact-flagship-3223778/)<!-- TECH:END -->
+ - [Twitter&#39;s head of safety and integrity says it has not changed content policies but had been subject to &quot;an organized effort to make people think we have&quot; &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221030/p10#a221030p10)
+ - [Apple&#39;s iOS 16.2 release expected in December, iOS 16.3 possibly in February](https://appleinsider.com/articles/22/10/30/apples-ios-162-release-expected-in-december-ios-163-possibly-in-february?utm_medium=rss)
+ - [Panthers vs. Falcons Livestream: How to Watch NFL Week 8 From Anywhere Online Today     - CNET](https://www.cnet.com/tech/services-and-software/panthers-vs-falcons-livestream-how-to-watch-nfl-week-8-from-anywhere-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
