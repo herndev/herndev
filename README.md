@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Sunday, October 30](https://www.pcgamer.com/wordle-today-498-answer-october-30)
  - [Go spearfishing and run a sushi restaurant in this weird little game](https://www.pcgamer.com/go-spearfishing-and-run-a-sushi-restaurant-in-this-weird-little-game)
- - [Xbox boss says regulator concerns around Activision acquisition are fair](https://www.pcgamer.com/xbox-boss-says-regulator-concerns-around-activision-acquisition-are-fair)
- - [What&#39;s your favorite PC you&#39;ve ever owned?](https://www.pcgamer.com/whats-your-favorite-pc-youve-ever-owned)<!-- GAME:END -->
+ - [Xbox boss says regulator concerns around Activision acquisition are fair](https://www.pcgamer.com/xbox-boss-says-regulator-concerns-around-activision-acquisition-are-fair)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
