@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just a test!](http://9gag.com/gag/aOxVNDr)
- - ⏩ [She couldn&#39;t resist](http://9gag.com/gag/aXn9Qg2)
- - 👉 [Netshits at it again](http://9gag.com/gag/a8qMQzV)<!-- MEMES:END -->
+ - 💣 [Mate , you\u2019re killing me](http://9gag.com/gag/aA01OVd)
+ - ⏩ [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - 👉 [This Is life for some people.](http://9gag.com/gag/a9q7N01)<!-- MEMES:END -->
 
 ---
 
