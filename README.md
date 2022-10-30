@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Halloween Countdown: 31 days of horror to watch](https://www.polygon.com/what-to-watch/23378450/best-halloween-horror-movies-tv-watch-stream)
- - [The next Dota 2 hero is a ghostly gunslinger named Muerta](https://www.pcgamer.com/the-next-dota-2-hero-is-a-ghostly-gunslinger-named-muerta)
- - [Build big, stupid custom spaceships with friends in Cosmoteer](https://www.pcgamer.com/build-big-stupid-custom-spaceships-with-friends-in-cosmoteer)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
+ - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)
+ - [Miraculous: Rise of the Sphinx Vaulted into Action this Week](https://news.xbox.com/en-us/2022/10/28/miraculous-rise-of-the-sphinx-vaulted-into-action-this-week/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
