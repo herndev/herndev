@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s 14- and 16-inch MacBook Pros might not arrive until next March](https://www.theverge.com/2022/10/30/23430949/apple-new-macbook-pro-14-16-arrive-next-march-rumors-m2)
- - [6 Shampoo Brands Recalled Over Cancer Risk. Is Yours One of Them?     - CNET](https://www.cnet.com/health/personal-care/6-shampoo-brands-recalled-over-cancer-risk-is-yours-one-of-them/#ftag=CAD590a51e)
- - [Elon Musk shared a lurid, baseless conspiracy theory on Twitter about the attack on Nancy Pelosi&#39;s husband Paul Pelosi, in response to a Hillary Clinton tweet &lpar;Rachel Sharp/The Independent&rpar;](http://www.techmeme.com/221030/p8#a221030p8)<!-- TECH:END -->
+ - [Telegram pulls paywalled posts from iOS app due to App Store rules](https://www.theverge.com/2022/10/30/23430234/telegram-pulls-paywalled-posts-ios-apple-app-store-rules-bots)
+ - [Teens use TikTok to self-diagnose mental illnesses, while mental health providers worry about inaccurate information and accounts encouraging harmful behavior &lpar;Christina Caron/New York Times&rpar;](http://www.techmeme.com/221030/p9#a221030p9)
+ - [Sorry Apple, I still much prefer Sony’s compact flagship](https://www.androidauthority.com/prefer-sony-compact-flagship-3223778/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
