@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Oct. 30: $240 Apple Watch SE Gen 2, $100 off Bose Frames Tempo, $200 off M1 12.9-inch iPad Pro, more](https://appleinsider.com/articles/22/10/30/daily-deals-oct-30-240-apple-watch-se-gen-2-100-off-bose-frames-tempo-200-off-m1-129-inch-ipad-pro-more?utm_medium=rss)
- - [Should you buy the Samsung Galaxy S22 or wait for the Galaxy S23?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s23-upgrade-3225071/)
- - [This Brain Molecule Decides Which Memories Are Happy—or Terrible](https://www.wired.com/story/this-brain-molecule-decides-which-memories-are-happy-or-terrible/)<!-- TECH:END -->
+ - [Asus Zenfone 9 Review: Small but Mighty](https://www.wired.com/review/asus-zenfone-9/)
+ - [25 Best Tools for a Home Toolkit &lpar;2022&rpar;: Stud Finder, Cordless Drill, and More](https://www.wired.com/gallery/how-to-build-a-home-tool-kit/)
+ - [How to Fix the Most Annoying Bluetooth Headphone Problems](https://www.wired.com/story/bluetooth-headphone-troubleshooting-tips/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
