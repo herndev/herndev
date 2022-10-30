@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - ⏩ [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
- - 👉 [Thats some advice](http://9gag.com/gag/amA9K1j)<!-- MEMES:END -->
+ - 💣 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
+ - ⏩ [Twitter under Elon Musk](http://9gag.com/gag/a4oYxXA)
+ - 👉 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)<!-- MEMES:END -->
 
 ---
 
