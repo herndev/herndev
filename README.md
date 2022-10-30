@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Canary Technologies, which offers hotels guest management and other tools, raised a $30M Series B led by Insight Partners, bringing its total funding to $45M &lpar;Kathryn Walson/PhocusWire&rpar;](http://www.techmeme.com/221030/p1#a221030p1)
- - [Source: Elon Musk fired top Twitter executives, including CEO Parag Agrawal, &quot;for cause&quot;, in an apparent attempt to avoid severance and unvested stock payouts &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/221029/p15#a221029p15)
- - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amid a downturn, tech companies may shift their focus from &quot;gee-whiz&quot; projects, like self-driving cars and metaverses, to truly useful products that make money &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221030/p4#a221030p4)
+ - [Report: Amazon laid off ~150 people, or 50% of its workforce, at Amp, an app that lets DJs host live &quot;radio shows&quot;, take calls, and play Amazon Music tracks &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/221030/p3#a221030p3)
+ - [Chicago-based HealthJoy, which helps employees navigate through health benefits and virtual care, raised a $60M Series D, bringing its total funding to $108M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221030/p2#a221030p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
