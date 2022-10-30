@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
- - ⏩ [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
- - 👉 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
+ - 💣 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - ⏩ [Thats some advice](http://9gag.com/gag/amA9K1j)
+ - 👉 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)<!-- MEMES:END -->
 
 ---
 
