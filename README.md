@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)
- - ⏩ [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - 👉 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)<!-- MEMES:END -->
+ - 💣 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
+ - ⏩ [Meirl](http://9gag.com/gag/a3ZByNe)
+ - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 ---
 
