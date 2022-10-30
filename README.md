@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - 👉 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
+ - 💣 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
+ - ⏩ [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
+ - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 ---
 
