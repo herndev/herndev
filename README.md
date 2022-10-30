@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad Smutley](http://9gag.com/gag/a1PMVDP)
- - ⏩ [Meirl](http://9gag.com/gag/a3ZByNe)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [The Chadness himself](http://9gag.com/gag/adPj2jj)
+ - ⏩ [It was quite difficult, it took me time and dedication, now I can see my d\u00a1ck](http://9gag.com/gag/aGExrYn)
+ - 👉 [Just a dude being a dude](http://9gag.com/gag/aWG6dOd)<!-- MEMES:END -->
 
 ---
 
