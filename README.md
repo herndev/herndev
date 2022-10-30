@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amid a downturn, tech companies may shift their focus from &quot;gee-whiz&quot; projects, like self-driving cars and metaverses, to truly useful products that make money &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/221030/p4#a221030p4)
- - [Report: Amazon laid off ~150 people, or 50% of its workforce, at Amp, an app that lets DJs host live &quot;radio shows&quot;, take calls, and play Amazon Music tracks &lpar;Kurt Schlosser/GeekWire&rpar;](http://www.techmeme.com/221030/p3#a221030p3)
- - [Jake Paul Defeats Anderson Silva via Decision, After a Crushing Knockdown     - CNET](https://www.cnet.com/culture/sports/jake-paul-defeats-anderson-silva-via-decision-after-a-sharp-knockdown/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Election That Saved the Internet From Russia and China](https://www.wired.com/story/itu-2022-vote-russia-china-open-internet/)
+ - [9 Apps and Sites to Help Build Your Résumé](https://www.wired.com/story/9-apps-sites-to-build-host-resume/)
+ - [Analysis reveals how Google&#39;s ad business funnels revenue to prolific purveyors of health, election, and climate disinfo in Europe, Latin America, and Africa &lpar;ProPublica&rpar;](http://www.techmeme.com/221030/p5#a221030p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
