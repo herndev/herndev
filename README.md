@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
- - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - 👉 [Found in an meme folder](http://9gag.com/gag/aNwnGBr)<!-- MEMES:END -->
+ - 💣 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
+ - ⏩ [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
+ - 👉 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 ---
 
