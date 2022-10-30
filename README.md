@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
- - ⏩ [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
- - 👉 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
+ - 💣 [How to recognize a pro Photographer](http://9gag.com/gag/az2jQYZ)
+ - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
+ - 👉 [Found in an meme folder](http://9gag.com/gag/aNwnGBr)<!-- MEMES:END -->
 
 ---
 
