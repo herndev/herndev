@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
  - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos and a Hellish &#39;Star Wars&#39; Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-and-a-hellish-star-wars-prison/#ftag=CAD590a51e)
- - [New Orleans-based Resilia, which sells software to help nonprofits manage their operations, raised a $35M Series B, bringing its total funding to ~$50M &lpar;Jared Council/Forbes&rpar;](http://www.techmeme.com/221029/p14#a221029p14)
- - [Black Adam: Post-Credits Scene, Legendary DC Superhero Cameo Explained     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-legendary-dc-superhero-cameo-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [New Orleans-based Resilia, which sells software that helps nonprofits manage their operations, raised a $35M Series B, bringing its total funding to nearly $50M &lpar;Jared Council/Forbes&rpar;](http://www.techmeme.com/221029/p14#a221029p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
