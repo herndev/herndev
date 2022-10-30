@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who was the first person to figure this out and how?!](http://9gag.com/gag/aGEx786)
- - ⏩ [Twitter under Elon Musk](http://9gag.com/gag/a4oYxXA)
- - 👉 [Eyes on Target](http://9gag.com/gag/aoK9Ld0)<!-- MEMES:END -->
+ - 💣 [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 👉 [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)<!-- MEMES:END -->
 
 ---
 
