@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Election That Saved the Internet From Russia and China](https://www.wired.com/story/itu-2022-vote-russia-china-open-internet/)
- - [9 Apps and Sites to Help Build Your Résumé](https://www.wired.com/story/9-apps-sites-to-build-host-resume/)
- - [Analysis reveals how Google&#39;s ad business funnels revenue to prolific purveyors of health, election, and climate disinfo in Europe, Latin America, and Africa &lpar;ProPublica&rpar;](http://www.techmeme.com/221030/p5#a221030p5)<!-- TECH:END -->
+ - [Daily deals Oct. 30: $240 Apple Watch SE Gen 2, $100 off Bose Frames Tempo, $200 off M1 12.9-inch iPad Pro, more](https://appleinsider.com/articles/22/10/30/daily-deals-oct-30-240-apple-watch-se-gen-2-100-off-bose-frames-tempo-200-off-m1-129-inch-ipad-pro-more?utm_medium=rss)
+ - [Should you buy the Samsung Galaxy S22 or wait for the Galaxy S23?](https://www.androidauthority.com/samsung-galaxy-s22-vs-galaxy-s23-upgrade-3225071/)
+ - [This Brain Molecule Decides Which Memories Are Happy—or Terrible](https://www.wired.com/story/this-brain-molecule-decides-which-memories-are-happy-or-terrible/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
