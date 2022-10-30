@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Musk ordered Twitter homepage to be changed to show the Explore page to logged out users, not a sign-up form, which was quietly implemented on Friday &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p12#a221030p12)
- - [Twitter battles hateful trolling campaign following Elon Musk&#39;s takeover](https://www.theverge.com/2022/10/30/23431337/twitter-hateful-tweets-elon-musk-takeover-free-speech)
- - [Elon Musk wastes no time changing Twitter](https://www.theverge.com/2022/10/30/23430008/elon-musk-twitter-homepage-subscriptions-changes)<!-- TECH:END -->
+ - [From X10 to Matter: The smart home evolves again](https://appleinsider.com/articles/22/10/30/from-x10-to-matter-the-smart-home-evolves-again?utm_medium=rss)
+ - [Sources: Twitter is strongly considering making verified users subscribe to Twitter Blue at $4.99 a month or lose their badges &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221030/p13#a221030p13)
+ - [&#39;Star Wars: Tales of the Jedi&#39; Represents Branch of George Lucas&#39; Original Vision, Actors Say     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-represents-branch-of-george-lucas-original-vision-actors-say/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
