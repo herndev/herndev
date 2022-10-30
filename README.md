@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to recognize a pro Photographer](http://9gag.com/gag/az2jQYZ)
- - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
- - 👉 [Found in an meme folder](http://9gag.com/gag/aNwnGBr)<!-- MEMES:END -->
+ - 💣 [Twitter under Elon Musk](http://9gag.com/gag/a4oYxXA)
+ - ⏩ [Christmas Cat Loves Christmas](http://9gag.com/gag/amA9Ryv)
+ - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 ---
 
