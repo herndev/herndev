@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Build big, stupid custom spaceships with friends in Cosmoteer](https://www.pcgamer.com/build-big-stupid-custom-spaceships-with-friends-in-cosmoteer)
  - [The hit Indian horror movie Tumbbad is shocking in the best ways](https://www.polygon.com/23429017/watch-tumbbad-best-indian-horror-movie-streaming-review)
- - [Today&#39;s Wordle answer and hint for Sunday, October 30](https://www.pcgamer.com/wordle-today-498-answer-october-30)
- - [Go spearfishing and run a sushi restaurant in this weird little game](https://www.pcgamer.com/go-spearfishing-and-run-a-sushi-restaurant-in-this-weird-little-game)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Sunday, October 30](https://www.pcgamer.com/wordle-today-498-answer-october-30)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
