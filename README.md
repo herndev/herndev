@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats some advice](http://9gag.com/gag/amA9K1j)
- - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
- - 👉 [Netshits at it again](http://9gag.com/gag/a8qMQzV)<!-- MEMES:END -->
+ - 💣 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)
+ - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
+ - 👉 [Found in an meme folder](http://9gag.com/gag/aNwnGBr)<!-- MEMES:END -->
 
 ---
 
