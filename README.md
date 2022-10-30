@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats some advice](http://9gag.com/gag/amA9K1j)
- - ⏩ [Vijaya Gadde moments before getting fired.](http://9gag.com/gag/avQPRxn)
- - 👉 [Meirl](http://9gag.com/gag/a3ZByNe)<!-- MEMES:END -->
+ - 💣 [Just a test!](http://9gag.com/gag/aOxVNDr)
+ - ⏩ [She couldn&#39;t resist](http://9gag.com/gag/aXn9Qg2)
+ - 👉 [Netshits at it again](http://9gag.com/gag/a8qMQzV)<!-- MEMES:END -->
 
 ---
 
