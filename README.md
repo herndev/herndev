@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canary Technologies, which offers hotels guest management and other tools, raised a $30M Series B led by Insight Partners, bringing its total funding to $45M &lpar;Kathryn Walson/PhocusWire&rpar;](http://www.techmeme.com/221030/p1#a221030p1)
  - [Source: Elon Musk fired top Twitter executives, including CEO Parag Agrawal, &quot;for cause&quot;, in an apparent attempt to avoid severance and unvested stock payouts &lpar;Martin Peers/The Information&rpar;](http://www.techmeme.com/221029/p15#a221029p15)
- - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos and a Hellish &#39;Star Wars&#39; Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-and-a-hellish-star-wars-prison/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
