@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just sayin&#39;](http://9gag.com/gag/aWG6b2K)
- - ⏩ [Do not redeem!!!!](http://9gag.com/gag/ay2dvbX)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [Denifitely my worst date](http://9gag.com/gag/aEq7QMx)
+ - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
+ - 👉 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 ---
 
