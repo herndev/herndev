@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Twitter under Elon Musk](http://9gag.com/gag/a4oYxXA)
- - ⏩ [Christmas Cat Loves Christmas](http://9gag.com/gag/amA9Ryv)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [Thats some advice](http://9gag.com/gag/amA9K1j)
+ - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
+ - 👉 [Netshits at it again](http://9gag.com/gag/a8qMQzV)<!-- MEMES:END -->
 
 ---
 
