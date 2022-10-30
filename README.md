@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook sheds doubt on new M2 MacBook Pros in 2022](https://appleinsider.com/articles/22/10/29/tim-cook-sheds-doubt-on-a-fall-m2-macbook-pro-update?utm_medium=rss)
- - [How to grab an image on an iPhone and drop it onto an iPad](https://appleinsider.com/articles/22/10/28/how-to-grab-an-image-on-one-device-and-drop-it-onto-another?utm_medium=rss)
- - [Elon Musk reportedly ordered company-wide layoffs at Twitter](https://www.theverge.com/2022/10/29/23430332/elon-musk-twitter-reportedly-ordered-company-wide-layoffs)<!-- TECH:END -->
+ - [New Orleans-based Resilia, which sells software to help nonprofits manage their operations, raised a $35M Series B, bringing its total funding to ~$50M &lpar;Jared Council/Forbes&rpar;](http://www.techmeme.com/221029/p14#a221029p14)
+ - [&#39;Star Wars: Tales of the Jedi&#39; Endings, Ahsoka&#39;s and Dooku&#39;s Major Moments, Explained     - CNET](https://www.cnet.com/culture/entertainment/star-wars-tales-of-the-jedi-endings-ahsoka-and-dooku-major-moments-explained/#ftag=CAD590a51e)
+ - [Tim Cook sheds doubt on new M2 MacBook Pros in 2022](https://appleinsider.com/articles/22/10/29/tim-cook-sheds-doubt-on-a-fall-m2-macbook-pro-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
