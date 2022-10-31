@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Push to Scale Plant-Based Plastics](https://www.wired.com/story/plant-based-plastics-fabricnano/)
- - [The Spooky Science of How Undead Spores Reanimate](https://www.wired.com/story/the-spooky-science-of-how-undead-spores-reanimate/)
- - [Mathieu Flamini Has a Plan to Decarbonize the Chemical Industry](https://www.wired.com/story/mathieu-flamini-decarbonize-chemical-industry/)<!-- TECH:END -->
+ - [Doreen Bogdan-Martin&#39;s election to the UN&#39;s ITU, beating the Russian candidate, signals support for a US-backed open internet, but significant issues remain &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/221031/p9#a221031p9)
+ - [In My Loneliest Hours, &#39;Persona 5&#39; Reminded Me of Friendship](https://www.wired.com/story/persona-5-royal-friendship-chronic-illness/)
+ - [Sorry, Prey. Black Widows Have Surprisingly Good Memory](https://www.wired.com/story/sorry-prey-black-widows-have-surprisingly-good-memory/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
