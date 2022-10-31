@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S22 series now getting Android 13 in the US](https://www.androidauthority.com/samsung-galaxy-s22-android-13-us-3226468/)
- - [Xiaomi 13: Everything we know about Xiaomi’s next flagship &lpar;Updated: Oct. 31&rpar;](https://www.androidauthority.com/xiaomi-13-3222232/)
- - [Leak suggests Xiaomi 13 Pro will get the $15 million camera upgrade](https://www.androidauthority.com/xiaomi-13-pro-specs-3226459/)<!-- TECH:END -->
+ - [Inside Foxconn&#39;s Zhengzhou iPhone plant as the company grapples with a weekslong COVID-19 outbreak during a critical period, leading to harsh lockdown measures &lpar;Selina Cheng/Wall Street Journal&rpar;](http://www.techmeme.com/221031/p3#a221031p3)
+ - [Daily Authority: 🦴 Bone jingles](https://www.androidauthority.com/daily-authority-october-31-2022-3226447/)
+ - [Samsung Galaxy S22 series now getting Android 13 in the US](https://www.androidauthority.com/samsung-galaxy-s22-android-13-us-3226468/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
