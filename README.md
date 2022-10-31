@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
- - ⏩ [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
- - 👉 [Soon](http://9gag.com/gag/ap9vM79)<!-- MEMES:END -->
+ - 💣 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
+ - ⏩ [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
+ - 👉 [That&#39;s when they scam you](http://9gag.com/gag/a7q763x)<!-- MEMES:END -->
 
 ---
 
