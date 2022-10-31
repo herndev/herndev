@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram users are geting &#39;account suspended&#39; errors](https://appleinsider.com/articles/22/10/31/instagram-users-are-geting-account-suspended-errors?utm_medium=rss)
- - [In defense of the voice message](https://www.theverge.com/2022/10/31/23432534/voice-message-note-imessage-whatsapp-defense-etiquette)
- - [Amazon plans to delist large seller Appario, in which it has a stake, from its Indian marketplace in the next year, following scrutiny on some large sellers &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221031/p14#a221031p14)<!-- TECH:END -->
+ - [The best thing about the new AirPods Pro is the extra small eartips](https://www.theverge.com/2022/10/31/23432871/apple-airpods-pro-second-generation-extra-small-eartips)
+ - [Instagram outage tells millions their accounts are suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)
+ - [SpaceX’s Falcon Heavy is scheduled to launch again after three years](https://www.theverge.com/2022/10/31/23432631/spacex-falcon-heavy-rocket-launch-space-force-national-security-mission)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
