@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [EA is teaming up with Marvel for ‘at least’ three new games](https://www.theverge.com/2022/10/31/23432986/ea-disney-marvel-iron-man-three-new-games-collaboration)
- - [Know the holiday shipping and return policies for Amazon, Target, Walmart, and others](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
- - [Twitter&#39;s Boss Is Elon Musk Now. Big Changes Could Be Coming     - CNET](https://www.cnet.com/news/social-media/elon-musk-is-the-boss-of-twitter-now-big-changes-could-be-coming/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Watch optimized charging available in watchOS 9](https://appleinsider.com/articles/22/10/31/apple-watch-optimized-charging-available-in-watchos-9?utm_medium=rss)
+ - [Chrome’s new sidebar lets you blast through search results](https://www.theverge.com/2022/10/31/23433029/chrome-search-sidebar-results-shopping-track-prices)
+ - [Apple undecided about iPhone SE 4&#39;s display size and technology](https://appleinsider.com/articles/22/10/31/apple-undecided-about-iphone-se-4s-display-size-and-technology?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
