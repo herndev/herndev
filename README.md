@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
- - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [That&#39;s when they scam you](http://9gag.com/gag/a7q763x)
+ - ⏩ [High quality](http://9gag.com/gag/aMEGgzW)
+ - 👉 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)<!-- MEMES:END -->
 
 ---
 
