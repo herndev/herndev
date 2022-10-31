@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Doreen Bogdan-Martin&#39;s election to the UN&#39;s ITU, beating the Russian candidate, signals support for a US-backed open internet, but significant issues remain &lpar;Justin Ling/Wired&rpar;](http://www.techmeme.com/221031/p9#a221031p9)
- - [In My Loneliest Hours, &#39;Persona 5&#39; Reminded Me of Friendship](https://www.wired.com/story/persona-5-royal-friendship-chronic-illness/)
- - [Sorry, Prey. Black Widows Have Surprisingly Good Memory](https://www.wired.com/story/sorry-prey-black-widows-have-surprisingly-good-memory/)<!-- TECH:END -->
+ - [An investigation details ongoing plans by the US DHS to police online misinformation on COVID-19, Afghanistan, and more; Meta built a portal to aid reporting &lpar;The Intercept&rpar;](http://www.techmeme.com/221031/p11#a221031p11)
+ - [HoloKit X AR Headset for iPhone: Price, Features, Release Date](https://www.wired.com/story/holokit-x-headset-iphone-ar/)
+ - [AWOL LTV-3500 Short Throw Projector Review: Bright but Expensive](https://www.wired.com/review/awol-ltv-3500-projector/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
