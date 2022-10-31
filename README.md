@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - ⏩ [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
+ - ⏩ [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
+ - 👉 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)<!-- MEMES:END -->
 
 ---
 
