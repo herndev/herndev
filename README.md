@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US-based self-driving trucking company TuSimple faces US federal probes into whether it improperly financed and transferred tech to a Chinese startup &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p17#a221030p17)
  - [Twitter faces ~$1B per year in interest expenses after Elon Musk&#39;s deal added ~$13B in debt, up from ~$50M in 2021 when operations generated ~$633M in cash flow &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221030/p16#a221030p16)
- - [Sources: Twitter plans to change Twitter Blue into a $19.99 subscription that verifies users; staff are told they will be fired if they don&#39;t build it by Nov. 7 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)
- - [&#39;Andor&#39; Release Schedule: When is Episode 9 Dropping on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-dropping-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Twitter plans to change Twitter Blue into a $19.99/month subscription that verifies users; staff were told to launch by November 7 or they&#39;ll be fired &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
