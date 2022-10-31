@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside Foxconn&#39;s Zhengzhou iPhone plant as the company grapples with a weekslong COVID-19 outbreak during a critical period, leading to harsh lockdown measures &lpar;Selina Cheng/Wall Street Journal&rpar;](http://www.techmeme.com/221031/p3#a221031p3)
- - [Daily Authority: 🦴 Bone jingles](https://www.androidauthority.com/daily-authority-october-31-2022-3226447/)
- - [Samsung Galaxy S22 series now getting Android 13 in the US](https://www.androidauthority.com/samsung-galaxy-s22-android-13-us-3226468/)<!-- TECH:END -->
+ - [We asked, you told us: Here’s what you think of phone benchmark tests](https://www.androidauthority.com/phone-benchmark-tests-poll-results-3226470/)
+ - [SIA data: global semiconductor sales declined 3% YoY in September, the first drop since early 2020; South Korean chip manufacturing dropped by 3.5% YoY &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/221031/p5#a221031p5)
+ - [Source: Elon Musk plans to lay off 25% of Twitter&#39;s workforce in the coming days, focusing on sales, product, engineering, legal, and trust and safety &lpar;Washington Post&rpar;](http://www.techmeme.com/221031/p4#a221031p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
