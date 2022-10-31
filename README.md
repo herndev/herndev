@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s it](http://9gag.com/gag/az2j3oB)
- - ⏩ [Thanks Netflix](http://9gag.com/gag/az2j3jx)
- - 👉 [In Switzerland a woman raised a pair of lions. The authorities confiscated them for a zoo. 7 years later the woman came to visit the zoo](http://9gag.com/gag/aKEqQBO)<!-- MEMES:END -->
+ - 💣 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
+ - ⏩ [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
+ - 👉 [Soon](http://9gag.com/gag/ap9vM79)<!-- MEMES:END -->
 
 ---
 
