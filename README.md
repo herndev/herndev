@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak suggests Xiaomi 13 Pro will get the $15 million camera upgrade](https://www.androidauthority.com/xiaomi-13-pro-specs-3226459/)
- - [Now unlocked Galaxy S22 users in the US are getting stable Android 13](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
- - [Q&amp;A with the CEO of Clearwater Compliance, a health care-focused cybersecurity firm, on HIPAA, ransomware attacks, medical IoT device vulnerabilities, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221031/p2#a221031p2)<!-- TECH:END -->
+ - [Samsung Galaxy S22 series now getting Android 13 in the US](https://www.androidauthority.com/samsung-galaxy-s22-android-13-us-3226468/)
+ - [Xiaomi 13: Everything we know about Xiaomi’s next flagship &lpar;Updated: Oct. 31&rpar;](https://www.androidauthority.com/xiaomi-13-3222232/)
+ - [Leak suggests Xiaomi 13 Pro will get the $15 million camera upgrade](https://www.androidauthority.com/xiaomi-13-pro-specs-3226459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
