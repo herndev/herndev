@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog Defends Man From Other Dogs](http://9gag.com/gag/ap9vzD5)
- - ⏩ [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
- - 👉 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)<!-- MEMES:END -->
+ - 💣 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
+ - ⏩ [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)
+ - 👉 [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)<!-- MEMES:END -->
 
 ---
 
