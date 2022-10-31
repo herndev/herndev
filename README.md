@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s when they scam you](http://9gag.com/gag/a7q763x)
- - ⏩ [High quality](http://9gag.com/gag/aMEGgzW)
- - 👉 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)<!-- MEMES:END -->
+ - 💣 [High quality](http://9gag.com/gag/aMEGgzW)
+ - ⏩ [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
+ - 👉 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)<!-- MEMES:END -->
 
 ---
 
