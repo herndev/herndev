@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Devil In Me: Supermassive looks back on Season One of The Dark Pictures Anthology](https://blog.playstation.com/2022/10/31/the-devil-in-me-supermassive-looks-back-on-season-one-of-the-dark-pictures-anthology/)
  - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
- - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)
- - [Miraculous: Rise of the Sphinx Vaulted into Action this Week](https://news.xbox.com/en-us/2022/10/28/miraculous-rise-of-the-sphinx-vaulted-into-action-this-week/)<!-- GAME:END -->
+ - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
