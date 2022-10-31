@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Overwatch 2 is putting Mei... *on ice*](https://www.theverge.com/2022/10/31/23433722/overwatch-2-mei-disabled-ice-wall-bug)
- - [Some Twitter users are receiving fake account verification emails](https://appleinsider.com/articles/22/10/31/some-twitter-users-are-receiving-fake-account-verification-emails?utm_medium=rss)
- - [Twitter verification is the line between order and chaos](https://www.theverge.com/2022/10/31/23432816/elon-musk-twitter-verification-subscription-charge-trust-problems)<!-- TECH:END -->
+ - [SEC filing: Jack Dorsey has agreed to rollover his remaining 2.4% in Twitter, worth over $1B, into X Holdings, an amount Elon Musk won&#39;t have to pay &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/221031/p22#a221031p22)
+ - [Instagram fixes outage that told millions their accounts were suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)
+ - [Elon Musk is the CEO of Twitter](https://www.theverge.com/2022/10/31/23433772/elon-musk-twitter-ceo-confirmed)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
