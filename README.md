@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
- - ⏩ [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
- - 👉 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)<!-- MEMES:END -->
+ - 💣 [Welcome to Chinesium](http://9gag.com/gag/aOxVwdy)
+ - ⏩ [Behind the scenes](http://9gag.com/gag/aYVe5mq)
+ - 👉 [NYC\u2026](http://9gag.com/gag/aGExXV5)<!-- MEMES:END -->
 
 ---
 
