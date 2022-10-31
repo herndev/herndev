@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He was pretty clear on his conditions even in formal interviews. This has nothing to do with Superman movie. We can expect Witcher S3 to be a complete disaster.](http://9gag.com/gag/aKEqyL3)
- - ⏩ [That&#39;s it](http://9gag.com/gag/az2j3oB)
- - 👉 [Thanks Netflix](http://9gag.com/gag/az2j3jx)<!-- MEMES:END -->
+ - 💣 [Yea is easy to surf when you have all the weight in your balls and none in your brain](http://9gag.com/gag/a2KmGOO)
+ - ⏩ [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
+ - 👉 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)<!-- MEMES:END -->
 
 ---
 
