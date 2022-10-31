@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Elon Musk has instructed Twitter engineers to work on a Vine reboot that could be ready by the end of 2022 &lpar;Axios&rpar;](http://www.techmeme.com/221031/p19#a221031p19)
- - [Slack is rolling out typing indicators for threads](https://www.theverge.com/2022/10/31/23432945/slack-threads-typing-indicators)
- - [What were the most popular streaming shows in October 2022?](https://www.androidauthority.com/popular-streaming-shows-this-month-3229187/)<!-- TECH:END -->
+ - [Tritium and DC-America are building a coast-to-coast EV fast charging network](https://www.theverge.com/2022/10/31/23433342/tritium-dc-america-nationwide-ev-fast-charging-network)
+ - [Matter may not be a HomeKit hero -- at least at first](https://appleinsider.com/articles/22/10/31/matter-may-not-be-a-homekit-hero----at-least-at-first?utm_medium=rss)
+ - [Apple TV+ thriller &#39;Severance&#39; adds eight to cast as season 2 begins filming](https://appleinsider.com/articles/22/10/31/apple-tv-thriller-severance-adds-eight-to-cast-as-season-2-begins-filming?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
