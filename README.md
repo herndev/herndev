@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s what you think of phone benchmark tests](https://www.androidauthority.com/phone-benchmark-tests-poll-results-3226470/)
- - [SIA data: global semiconductor sales declined 3% YoY in September, the first drop since early 2020; South Korean chip manufacturing dropped by 3.5% YoY &lpar;Sam Kim/Bloomberg&rpar;](http://www.techmeme.com/221031/p5#a221031p5)
- - [Source: Elon Musk plans to lay off 25% of Twitter&#39;s workforce in the coming days, focusing on sales, product, engineering, legal, and trust and safety &lpar;Washington Post&rpar;](http://www.techmeme.com/221031/p4#a221031p4)<!-- TECH:END -->
+ - [The Push to Scale Plant-Based Plastics](https://www.wired.com/story/plant-based-plastics-fabricnano/)
+ - [The Spooky Science of How Undead Spores Reanimate](https://www.wired.com/story/the-spooky-science-of-how-undead-spores-reanimate/)
+ - [Mathieu Flamini Has a Plan to Decarbonize the Chemical Industry](https://www.wired.com/story/mathieu-flamini-decarbonize-chemical-industry/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
