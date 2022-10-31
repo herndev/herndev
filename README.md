@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - ⏩ [Thats some advice](http://9gag.com/gag/amA9K1j)
- - 👉 [The dogs looks after the cracks makes me laugh all the time](http://9gag.com/gag/aPgD2eQ)<!-- MEMES:END -->
+ - 💣 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
+ - ⏩ [Twitter excutives kicked out, I see why.](http://9gag.com/gag/aqe5DbY)
+ - 👉 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
 
 ---
 
