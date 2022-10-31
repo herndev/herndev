@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Welcome to Chinesium](http://9gag.com/gag/aOxVwdy)
- - ⏩ [Behind the scenes](http://9gag.com/gag/aYVe5mq)
- - 👉 [NYC\u2026](http://9gag.com/gag/aGExXV5)<!-- MEMES:END -->
+ - 💣 [Can You find THREE GHOSTS among the pandas?](http://9gag.com/gag/aBdYeAx)
+ - ⏩ [Catalan femenine football team wins 23-0 with a trans man on their team](http://9gag.com/gag/aQE8bjK)
+ - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 ---
 
