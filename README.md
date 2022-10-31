@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A24 and Bryan Fuller are bringing a Friday the 13th ‘expanded prequel’ series to Peacock](https://www.theverge.com/2022/10/31/23433548/friday-the-13th-a24-bryan-fuller-crystal-lake-peacock-prequel)
- - [Netflix is acquiring cozy game developer Spry Fox](https://www.theverge.com/2022/10/31/23433526/netflix-spry-fox-cozy-gaming-studio-acquisition)
- - [Google defends its Pixel Watch 24-hour battery life claim with detailed stats](https://www.androidauthority.com/google-pixel-watch-battery-2-3229334/)<!-- TECH:END -->
+ - [Overwatch 2 is putting Mei... *on ice*](https://www.theverge.com/2022/10/31/23433722/overwatch-2-mei-disabled-ice-wall-bug)
+ - [Some Twitter users are receiving fake account verification emails](https://appleinsider.com/articles/22/10/31/some-twitter-users-are-receiving-fake-account-verification-emails?utm_medium=rss)
+ - [Twitter verification is the line between order and chaos](https://www.theverge.com/2022/10/31/23432816/elon-musk-twitter-verification-subscription-charge-trust-problems)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
