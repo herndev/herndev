@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US-based self-driving trucking company TuSimple faces US federal probes into whether it improperly financed and transferred tech to a Chinese startup &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p17#a221030p17)
- - [Twitter faces ~$1B per year in interest expenses after Elon Musk&#39;s deal added ~$13B in debt, up from ~$50M in 2021 when operations generated ~$633M in cash flow &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221030/p16#a221030p16)
- - [Sources: Twitter plans to change Twitter Blue into a $19.99/month subscription that verifies users; staff were told to launch by November 7 or they&#39;ll be fired &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)<!-- TECH:END -->
+ - [Twitter could soon charge $20 a month for that coveted blue tick verification](https://www.androidauthority.com/twitter-blue-tick-verification-paid-3226423/)
+ - [CoinGecko: normalized exchange volume for Crypto.com has dropped 91% over the past year, 90% for Huobi, 77% for FTX, 75% for Coinbase, and 57% for Binance &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/221031/p1#a221031p1)
+ - [Sources: US-based self-driving trucking company TuSimple faces US federal probes into whether it improperly financed and transferred tech to a Chinese startup &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p17#a221030p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
