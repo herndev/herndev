@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - ⏩ [Shooting an expensive shot](http://9gag.com/gag/ay2dwNp)
- - 👉 [That&#39;s when they scam you](http://9gag.com/gag/a7q763x)<!-- MEMES:END -->
+ - 💣 [NONONO I bought 5 phones and I have kept each box.](http://9gag.com/gag/a3ZBmd5)
+ - ⏩ [Louis Rossmann on Right to Repair- $1500 vs $12 to fix your MacBook](http://9gag.com/gag/aNwn5Pr)
+ - 👉 [In Switzerland a woman raised a pair of lions. The authorities confiscated them for a zoo. 7 years later the woman came to visit the zoo](http://9gag.com/gag/aKEqQBO)<!-- MEMES:END -->
 
 ---
 
