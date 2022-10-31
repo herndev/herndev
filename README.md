@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos, a Hellish &#39;Star Wars&#39; Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-a-hellish-star-wars-prison/#ftag=CAD590a51e)
- - [Interview with Gerard de Graaf, director of a new EU office in San Francisco, on the DMA taking force on November 1 and its likely impact on tech companies &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/221030/p14#a221030p14)
- - [Everyone Should Watch This Heartbreaking Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/everyone-should-watch-this-heartbreaking-documentary-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter faces interest expenses of ~$1B/year after taking on ~$13B in debt from Musk&#39;s deal, up from ~$50M in 2021 when operations generated cash flow of ~$633M &lpar;Lauren Hirsch/New York Times&rpar;](http://www.techmeme.com/221030/p16#a221030p16)
+ - [Sources: Twitter plans to change Twitter Blue into a $19.99 subscription that verifies users; staff are told they will be fired if they don&#39;t build it by Nov. 7 &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221030/p15#a221030p15)
+ - [&#39;Andor&#39; Release Schedule: When is Episode 9 Dropping on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-dropping-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
