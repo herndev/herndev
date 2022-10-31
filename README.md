@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victor Newbury Music Center review: an attractive, well-designed record player with bonus features](https://appleinsider.com/articles/22/10/30/victor-newbury-music-center-review-an-attractive-well-designed-record-player-with-bonus-features?utm_medium=rss)
- - [Apple &#39;destroys dreams&#39; says Telegram, as it shuts down monetization plans](https://appleinsider.com/articles/22/10/28/telegram-cancels-monetization-plans-after-apple-destroys-dreams?utm_medium=rss)
- - [Twitter May Tie Verified Status to Paid Twitter Blue Subscription     - CNET](https://www.cnet.com/news/social-media/twitter-may-tie-verified-status-to-paid-twitter-blue-subscription/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episode 8 Explained: &#39;Rogue One&#39; Cameos, a Hellish &#39;Star Wars&#39; Prison     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-8-explained-rogue-one-cameos-a-hellish-star-wars-prison/#ftag=CAD590a51e)
+ - [Interview with Gerard de Graaf, director of a new EU office in San Francisco, on the DMA taking force on November 1 and its likely impact on tech companies &lpar;Khari Johnson/Wired&rpar;](http://www.techmeme.com/221030/p14#a221030p14)
+ - [Everyone Should Watch This Heartbreaking Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/everyone-should-watch-this-heartbreaking-documentary-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
