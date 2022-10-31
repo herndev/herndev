@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details ongoing plans by the US DHS to police online misinformation on COVID-19, Afghanistan, and more; Meta built a portal to aid reporting &lpar;The Intercept&rpar;](http://www.techmeme.com/221031/p11#a221031p11)
- - [HoloKit X AR Headset for iPhone: Price, Features, Release Date](https://www.wired.com/story/holokit-x-headset-iphone-ar/)
- - [AWOL LTV-3500 Short Throw Projector Review: Bright but Expensive](https://www.wired.com/review/awol-ltv-3500-projector/)<!-- TECH:END -->
+ - [Deals: Apple&#39;s 14-inch MacBook Pro with 2TB storage is now $300 off, plus $70 off AppleCare](https://appleinsider.com/articles/22/10/28/deals-apples-14-inch-macbook-pro-with-2tb-storage-is-now-300-off-plus-70-off-applecare?utm_medium=rss)
+ - [Poll: Do you send voice notes on your smartphone?](https://www.androidauthority.com/voice-notes-smartphones-poll-3226511/)
+ - [The new Fitbit Sense 2 is already 74 percent off at Amazon](https://www.theverge.com/2022/10/31/23432478/fitbit-sense-2-fitness-tracker-smartwatch-blink-mini-samsung-t7-shield-ssd-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
