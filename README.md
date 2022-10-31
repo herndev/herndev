@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - ⏩ [This Is life for some people.](http://9gag.com/gag/a9q7N01)
- - 👉 [Man saves girl from pitbull attack using a chokehold.](http://9gag.com/gag/aVbPrQv)<!-- MEMES:END -->
+ - 💣 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
+ - ⏩ [Calculated road rage](http://9gag.com/gag/a8qMx7p)
+ - 👉 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)<!-- MEMES:END -->
 
 ---
 
