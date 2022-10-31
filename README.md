@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tritium and DC-America are building a coast-to-coast EV fast charging network](https://www.theverge.com/2022/10/31/23433342/tritium-dc-america-nationwide-ev-fast-charging-network)
- - [Matter may not be a HomeKit hero -- at least at first](https://appleinsider.com/articles/22/10/31/matter-may-not-be-a-homekit-hero----at-least-at-first?utm_medium=rss)
- - [Apple TV+ thriller &#39;Severance&#39; adds eight to cast as season 2 begins filming](https://appleinsider.com/articles/22/10/31/apple-tv-thriller-severance-adds-eight-to-cast-as-season-2-begins-filming?utm_medium=rss)<!-- TECH:END -->
+ - [A24 and Bryan Fuller are bringing a Friday the 13th ‘expanded prequel’ series to Peacock](https://www.theverge.com/2022/10/31/23433548/friday-the-13th-a24-bryan-fuller-crystal-lake-peacock-prequel)
+ - [Netflix is acquiring cozy game developer Spry Fox](https://www.theverge.com/2022/10/31/23433526/netflix-spry-fox-cozy-gaming-studio-acquisition)
+ - [Google defends its Pixel Watch 24-hour battery life claim with detailed stats](https://www.androidauthority.com/google-pixel-watch-battery-2-3229334/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
