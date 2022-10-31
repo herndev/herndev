@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Season and Halloween Outfits for Black Desert](https://news.xbox.com/en-us/2022/10/31/new-season-and-halloween-outfits-for-black-desert/)
  - [The Devil In Me: Supermassive looks back on Season One of The Dark Pictures Anthology](https://blog.playstation.com/2022/10/31/the-devil-in-me-supermassive-looks-back-on-season-one-of-the-dark-pictures-anthology/)
- - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)
- - [This Week on Xbox: New Games, Spooky Updates, and More](https://news.xbox.com/en-us/2022/10/28/this-week-on-xbox-new-games-spooky-updates-and-more/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
