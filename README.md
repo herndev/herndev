@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best thing about the new AirPods Pro is the extra small eartips](https://www.theverge.com/2022/10/31/23432871/apple-airpods-pro-second-generation-extra-small-eartips)
- - [Instagram outage tells millions their accounts are suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)
- - [SpaceX’s Falcon Heavy is scheduled to launch again after three years](https://www.theverge.com/2022/10/31/23432631/spacex-falcon-heavy-rocket-launch-space-force-national-security-mission)<!-- TECH:END -->
+ - [EA is teaming up with Marvel for ‘at least’ three new games](https://www.theverge.com/2022/10/31/23432986/ea-disney-marvel-iron-man-three-new-games-collaboration)
+ - [Know the holiday shipping and return policies for Amazon, Target, Walmart, and others](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [Twitter&#39;s Boss Is Elon Musk Now. Big Changes Could Be Coming     - CNET](https://www.cnet.com/news/social-media/elon-musk-is-the-boss-of-twitter-now-big-changes-could-be-coming/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
