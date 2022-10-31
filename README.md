@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Twitter could soon charge $20 a month for that coveted blue tick verification](https://www.androidauthority.com/twitter-blue-tick-verification-paid-3226423/)
  - [CoinGecko: normalized exchange volume for Crypto.com has dropped 91% over the past year, 90% for Huobi, 77% for FTX, 75% for Coinbase, and 57% for Binance &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/221031/p1#a221031p1)
- - [Sources: US-based self-driving trucking company TuSimple faces US federal probes into whether it improperly financed and transferred tech to a Chinese startup &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221030/p17#a221030p17)<!-- TECH:END -->
+ - [Twitter Reportedly Plans to Charge $20 a Month for Verified Accounts     - CNET](https://www.cnet.com/news/social-media/twitter-reportedly-plans-to-charge-20-a-month-for-verified-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
