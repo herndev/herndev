@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)
- - ⏩ [This fish can hibernate and dry out, but when they come into contact with water, they `come to life` again\u2026](http://9gag.com/gag/aEq7EQM)
- - 👉 [Who you gonna call? Home robbers equipped with military grade cellphone signal jammer](http://9gag.com/gag/aKEqyyN)<!-- MEMES:END -->
+ - 💣 [He was pretty clear on his conditions even in formal interviews. This has nothing to do with Superman movie. We can expect Witcher S3 to be a complete disaster.](http://9gag.com/gag/aKEqyL3)
+ - ⏩ [That&#39;s it](http://9gag.com/gag/az2j3oB)
+ - 👉 [Thanks Netflix](http://9gag.com/gag/az2j3jx)<!-- MEMES:END -->
 
 ---
 
