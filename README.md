@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
- - ⏩ [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)
+ - 💣 [Dog Defends Man From Other Dogs](http://9gag.com/gag/ap9vzD5)
+ - ⏩ [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
  - 👉 [`Free Speech` And 8 hours later, this account has been removed.](http://9gag.com/gag/aPgDVKn)<!-- MEMES:END -->
 
 ---
