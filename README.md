@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yea is easy to surf when you have all the weight in your balls and none in your brain](http://9gag.com/gag/a2KmGOO)
- - ⏩ [This is why I never going to be sleepy on a bus again.](http://9gag.com/gag/aZDMdq9)
- - 👉 [Elon Musk on the biggest issue facing Twitter right now](http://9gag.com/gag/aPgDb6B)<!-- MEMES:END -->
+ - 💣 [That&#39;s it](http://9gag.com/gag/az2j3oB)
+ - ⏩ [Thanks Netflix](http://9gag.com/gag/az2j3jx)
+ - 👉 [In Switzerland a woman raised a pair of lions. The authorities confiscated them for a zoo. 7 years later the woman came to visit the zoo](http://9gag.com/gag/aKEqQBO)<!-- MEMES:END -->
 
 ---
 
