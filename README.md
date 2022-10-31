@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
- - ⏩ [Soon](http://9gag.com/gag/ap9vM79)
- - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
+ - 💣 [He was pretty clear on his conditions even in formal interviews. This has nothing to do with Superman movie. We can expect Witcher S3 to be a complete disaster.](http://9gag.com/gag/aKEqyL3)
+ - ⏩ [That&#39;s it](http://9gag.com/gag/az2j3oB)
+ - 👉 [Thanks Netflix](http://9gag.com/gag/az2j3jx)<!-- MEMES:END -->
 
 ---
 
