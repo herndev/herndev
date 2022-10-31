@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a tough life,man.](http://9gag.com/gag/adPjAnM)
- - ⏩ [Calculated road rage](http://9gag.com/gag/a8qMx7p)
- - 👉 [Did you know there is fruit inside the edge of cactus plants? \ud83c\udf35](http://9gag.com/gag/a6q7Gee)<!-- MEMES:END -->
+ - 💣 [I&#39;m going to hell and I&#39;m not going alone.](http://9gag.com/gag/a1PMq9w)
+ - ⏩ [Soon](http://9gag.com/gag/ap9vM79)
+ - 👉 [He had a \u201cGUT\u201d feeling](http://9gag.com/gag/amA9K2V)<!-- MEMES:END -->
 
 ---
 
