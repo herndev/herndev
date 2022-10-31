@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter could soon charge $20 a month for that coveted blue tick verification](https://www.androidauthority.com/twitter-blue-tick-verification-paid-3226423/)
- - [CoinGecko: normalized exchange volume for Crypto.com has dropped 91% over the past year, 90% for Huobi, 77% for FTX, 75% for Coinbase, and 57% for Binance &lpar;Stacy Elliott/Decrypt&rpar;](http://www.techmeme.com/221031/p1#a221031p1)
- - [Twitter Reportedly Plans to Charge $20 a Month for Verified Accounts     - CNET](https://www.cnet.com/news/social-media/twitter-reportedly-plans-to-charge-20-a-month-for-verified-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leak suggests Xiaomi 13 Pro will get the $15 million camera upgrade](https://www.androidauthority.com/xiaomi-13-pro-specs-3226459/)
+ - [Now unlocked Galaxy S22 users in the US are getting stable Android 13](https://www.androidauthority.com/samsung-galaxy-s22-update-3118255/)
+ - [Q&amp;A with the CEO of Clearwater Compliance, a health care-focused cybersecurity firm, on HIPAA, ransomware attacks, medical IoT device vulnerabilities, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221031/p2#a221031p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
