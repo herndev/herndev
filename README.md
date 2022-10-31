@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Uncover the Sins of Black Adam in DC Universe Online](https://news.xbox.com/en-us/2022/10/31/uncover-the-sins-of-black-adam-in-dc-universe-online/)
  - [New Season and Halloween Outfits for Black Desert](https://news.xbox.com/en-us/2022/10/31/new-season-and-halloween-outfits-for-black-desert/)
- - [The Devil In Me: Supermassive looks back on Season One of The Dark Pictures Anthology](https://blog.playstation.com/2022/10/31/the-devil-in-me-supermassive-looks-back-on-season-one-of-the-dark-pictures-anthology/)
- - [Official PlayStation Podcast Episode 443: Grisly Details](https://blog.playstation.com/2022/10/28/official-playstation-podcast-episode-443-grisly-details/)<!-- GAME:END -->
+ - [The Devil In Me: Supermassive looks back on Season One of The Dark Pictures Anthology](https://blog.playstation.com/2022/10/31/the-devil-in-me-supermassive-looks-back-on-season-one-of-the-dark-pictures-anthology/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
