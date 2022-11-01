@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - ⏩ [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)
- - 👉 [Kowloon walled city - the most densely populated area ever to exist on earth.](http://9gag.com/gag/a5XreKr)<!-- MEMES:END -->
+ - 💣 [Brief video of Heidi Klum&#39;s Halloween worm costume.](http://9gag.com/gag/aQExPnW)
+ - ⏩ [Tinder as an unattractive man in Norway.](http://9gag.com/gag/a8q4LpZ)
+ - 👉 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)<!-- MEMES:END -->
 
 ---
 
