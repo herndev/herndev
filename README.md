@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
- - [More People Need to Play These Haunting Nintendo Switch Murder Mysteries     - CNET](https://www.cnet.com/tech/gaming/more-people-need-to-play-these-haunting-nintendo-switch-murder-mysteries/#ftag=CAD590a51e)
- - [Twitter braces for layoffs](https://www.theverge.com/2022/10/31/23434002/twitter-layoffs-internal-messaging-uncertainty-elon-musk)<!-- TECH:END -->
+ - [Sources: Twitter has frozen some employee access to content moderation and policy enforcement tools, raising concerns about misinformation ahead of US midterms &lpar;Bloomberg&rpar;](http://www.techmeme.com/221031/p28#a221031p28)
+ - [Coinbase requests to file an amicus brief to support Ripple&#39;s case against the US SEC, which sued Ripple for allegedly selling XRP as an unregistered security &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221031/p27#a221031p27)
+ - [Best Free Checking Accounts for November 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-free-checking-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
