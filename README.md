@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DC Has a Chance to Save Superman. Here&#39;s What It Needs to Do](https://www.wired.com/story/best-superman-henry-cavill-james-gunn/)
- - [Would You Sell Your Vacation Days for Cash?](https://www.wired.com/story/would-you-sell-your-vacation-days-for-cash/)
- - [This Platform Makes Sure Companies Stick to Their Climate Pledges](https://www.wired.com/story/plan-a-platform-climate-pledges/)<!-- TECH:END -->
+ - [How to get the After Dark Classic screensaver for macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-the-after-dark-classic-screensaver-for-macos-ventura?utm_medium=rss)
+ - [After a slow start, Donald Trump&#39;s Truth Social has passed Gab, Parler, and other right-wing social media in unique visitors, largely due to Trump posting &lpar;New York Times&rpar;](http://www.techmeme.com/221101/p8#a221101p8)
+ - [How to Detect a Man-Made Biothreat](https://www.wired.com/story/how-to-detect-a-man-made-biothreat/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
