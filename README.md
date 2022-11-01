@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to recover deleted playlists on Spotify](https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/)
- - [Deals: $354 off M1 Max MacBook Pro 14-inch 32GB RAM, plus $70 off AppleCare](https://appleinsider.com/articles/22/11/01/deals-354-off-m1-max-macbook-pro-14-inch-32gb-ram-plus-70-off-applecare?utm_medium=rss)
- - [Google is offering a pair of Nest Audio speakers for just $89 today](https://www.theverge.com/2022/11/1/23433837/google-nest-speaker-anker-sony-wf-1000xm4-earbuds-logitech-gaming-mouse-deal-sale)<!-- TECH:END -->
+ - [How to use Continuity Camera in iOS 16 and macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-continuity-camera-in-ios-16-and-macos-ventura?utm_medium=rss)
+ - [Mercedes-Benz EQE electric sedan will start at $76,050](https://www.theverge.com/2022/11/1/23435165/mercedes-benz-eqe-price-ev-sedan-specs-trim)
+ - [King Ranch will be the site of the largest carbon capture project yet](https://www.theverge.com/2022/11/1/23434500/oil-giant-occidental-carbon-removal-dac-king-ranch-texas)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
