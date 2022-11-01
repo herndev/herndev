@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - 💣 [Men and women are different](http://9gag.com/gag/az2A7dj)
  - ⏩ [VCR](http://9gag.com/gag/a2KmQdY)
- - 👉 [Men and women are different](http://9gag.com/gag/az2A7dj)<!-- MEMES:END -->
+ - 👉 [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)<!-- MEMES:END -->
 
 ---
 
