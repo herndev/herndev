@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SEC filing: Jack Dorsey has agreed to rollover his remaining 2.4% in Twitter, worth over $1B, into X Holdings, an amount Elon Musk won&#39;t have to pay &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/221031/p22#a221031p22)
- - [Instagram fixes outage that told millions their accounts were suspended](https://www.theverge.com/2022/10/31/23432703/instagram-down-outage-suspended-account-banned)
- - [Elon Musk is the CEO of Twitter](https://www.theverge.com/2022/10/31/23433772/elon-musk-twitter-ceo-confirmed)<!-- TECH:END -->
+ - [Anchorage Digital plans to custody a &quot;significant portion&quot; of Apollo Global&#39;s crypto portfolio and offer crypto custody services to Apollo&#39;s clients &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/221031/p25#a221031p25)
+ - [Apple&#39;s Chief Information Officer, VP of online retail are leaving the company](https://appleinsider.com/articles/22/10/31/apples-chief-information-officer-vp-of-online-retail-are-leaving-the-company?utm_medium=rss)
+ - [GameStop officially launches its NFT marketplace on ImmutableX blockchain, allowing users to access Web3 games currently being built on ImmutableX &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221031/p24#a221031p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
