@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bro\ud83d\udc80](http://9gag.com/gag/amA9wm2)
- - ⏩ [Wife still asking why the router is so expensive](http://9gag.com/gag/a4oYvv6)
- - 👉 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)<!-- MEMES:END -->
+ - 💣 [Eternal Halloween](http://9gag.com/gag/aXnw0RD)
+ - ⏩ [NONONO I bought 5 phones and I have kept each box.](http://9gag.com/gag/a3ZBmd5)
+ - 👉 [The death stare at the end](http://9gag.com/gag/a7q7Qzx)<!-- MEMES:END -->
 
 ---
 
