@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter has frozen some employee access to content moderation and policy enforcement tools, raising concerns about misinformation ahead of US midterms &lpar;Bloomberg&rpar;](http://www.techmeme.com/221031/p28#a221031p28)
- - [Coinbase requests to file an amicus brief to support Ripple&#39;s case against the US SEC, which sued Ripple for allegedly selling XRP as an unregistered security &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221031/p27#a221031p27)
- - [Best Free Checking Accounts for November 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-free-checking-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google says it has paused enforcement of its in-app billing policy on Google Play in India, following a recent ruling of the Competition Commission of India &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/221031/p31#a221031p31)
+ - [Elon Musk absolutely did not fire top Twitter executives, including Parag Agrawal, for &quot;cause&quot;, as you can easily tell by reading their employment agreements &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221031/p30#a221031p30)
+ - [A look at video site Rumble, which has been on an upward trajectory since 2020, when right-wing star Dan Bongino moved from YouTube and took an equity stake &lpar;Kaitlyn Tiffany/The Atlantic&rpar;](http://www.techmeme.com/221031/p29#a221031p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
