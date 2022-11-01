@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 31&rpar;](https://news.xbox.com/en-us/2022/10/31/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-31/)
- - [Uncover the Sins of Black Adam in DC Universe Online](https://news.xbox.com/en-us/2022/10/31/uncover-the-sins-of-black-adam-in-dc-universe-online/)
- - [New Season and Halloween Outfits for Black Desert](https://news.xbox.com/en-us/2022/10/31/new-season-and-halloween-outfits-for-black-desert/)<!-- GAME:END -->
+ - [Mei And Lebron James Have Been Disabled Until Further Notice](https://kotaku.com/lebron-james-la-lakers-mei-overwatch-blizzard-1849726179)
+ - [Sega&#39;s Lost &#39;Erotic Thriller&#39; Has Been Found](https://kotaku.com/sega-segasoft-pc-mac-saturn-playstation-ps1-fmv-1849725923)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
