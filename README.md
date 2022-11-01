@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🪫 Pixel weaknesses revealed](https://www.androidauthority.com/daily-authority-november-1-2022-3229610/)
- - [Sources: Morgan Stanley and six banks plan to hold $12.7B in debt from Elon Musk&#39;s Twitter buyout until early 2023, pending a clearer business plan from Musk &lpar;Financial Times&rpar;](http://www.techmeme.com/221101/p4#a221101p4)
- - [The Hunt for the Kingpin Behind AlphaBay, Part 2: Pimp_alex_91](https://www.wired.com/story/alphabay-series-part-2-pimp-alex-91/)<!-- TECH:END -->
+ - [DC Has a Chance to Save Superman. Here&#39;s What It Needs to Do](https://www.wired.com/story/best-superman-henry-cavill-james-gunn/)
+ - [Would You Sell Your Vacation Days for Cash?](https://www.wired.com/story/would-you-sell-your-vacation-days-for-cash/)
+ - [This Platform Makes Sure Companies Stick to Their Climate Pledges](https://www.wired.com/story/plan-a-platform-climate-pledges/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
