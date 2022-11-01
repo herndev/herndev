@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How considerate.....](http://9gag.com/gag/a4oYvmw)
- - ⏩ [Italia](http://9gag.com/gag/a7q7xxe)
- - 👉 [WTF](http://9gag.com/gag/agoGrRx)<!-- MEMES:END -->
+ - 💣 [Italia](http://9gag.com/gag/a7q7xxe)
+ - ⏩ [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
+ - 👉 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)<!-- MEMES:END -->
 
 ---
 
