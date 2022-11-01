@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
- - [The Last Of Us TV Show’s Release Date Accidentally Leaks Online](https://kotaku.com/last-of-us-release-date-leaked-hbo-max-joel-ellie-1849729340)
- - [Cozy Grove studio Spry Fox now belongs to Netflix](https://www.pcgamer.com/cozy-grove-studio-spry-fox-now-belongs-to-netflix)<!-- GAME:END -->
+ - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
