@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft makes it easier to use pictures from your Android phone in Word or PowerPoint](https://www.theverge.com/2022/11/1/23435298/microsoft-office-web-apps-word-powerpoint-android-qr-code)
- - [The best Verizon deals: Save up to $1,000 on flagship phones](https://www.androidauthority.com/best-verizon-deals-835801/)
- - [AMD’s profits have cratered as the PC and crypto miner markets slow down](https://www.theverge.com/2022/11/1/23435504/amd-q3-2022-earnings-profits-revenue-pc-sales)<!-- TECH:END -->
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [Google is discontinuing support for the standalone Street View app and pulling it from app stores](https://www.theverge.com/2022/11/1/23435733/google-maps-street-view-standalone-app-discontinue-support)
+ - [Rolex Deepsea Challenge 2022: the Deepest Diver You Can Buy](https://www.wired.com/story/rolex-oyster-perpetual-deepsea-challenge-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
