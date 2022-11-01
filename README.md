@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let the Spice Flow! Dune: Spice Wars Available Soon with PC Game Pass](https://news.xbox.com/en-us/2022/11/01/dune-spice-wars-available-soon-pc-game-pass/)
- - [Five Things You Should Know before Playing Lonesome Village](https://news.xbox.com/en-us/2022/11/01/five-things-you-should-know-before-playing-lonesome-village/)
- - [A New Threat Emerges in Star Trek Online: Ascension](https://news.xbox.com/en-us/2022/11/01/a-new-threat-emerges-in-star-trek-online-ascension/)<!-- GAME:END -->
+ - [Can Netflix really do The Witcher without Henry Cavill?](https://www.polygon.com/23434676/henry-cavill-witcher-season-4-cast-liam-hemsworth)
+ - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
+ - [The best builds for Nahida in Genshin Impact](https://www.pcgamer.com/genshin-impact-nahida-build-banner)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
