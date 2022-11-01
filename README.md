@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Continuity Camera in iOS 16 and macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-continuity-camera-in-ios-16-and-macos-ventura?utm_medium=rss)
- - [Mercedes-Benz EQE electric sedan will start at $76,050](https://www.theverge.com/2022/11/1/23435165/mercedes-benz-eqe-price-ev-sedan-specs-trim)
- - [King Ranch will be the site of the largest carbon capture project yet](https://www.theverge.com/2022/11/1/23434500/oil-giant-occidental-carbon-removal-dac-king-ranch-texas)<!-- TECH:END -->
+ - [Instagram won’t make an iPad app, but its web interface is getting better](https://www.theverge.com/2022/11/1/23435020/instagram-web-interface-desktop-ipad-improvements)
+ - [T-Mobile is reportedly adding an activation fee for online orders](https://www.theverge.com/2022/11/1/23435128/t-mobile-device-connection-charge-activation-fee)
+ - [Twilio will sunset Zipwhip&#39;s business texting service on December 1, 2023, after acquiring the Seattle startup last year for $850M in cash and stock &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221101/p23#a221101p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
