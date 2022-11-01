@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How considerate.....](http://9gag.com/gag/a4oYvmw)
- - ⏩ [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)
- - 👉 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)<!-- MEMES:END -->
+ - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - ⏩ [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
+ - 👉 [How considerate.....](http://9gag.com/gag/a4oYvmw)<!-- MEMES:END -->
 
 ---
 
