@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram won’t make an iPad app, but its web interface is getting better](https://www.theverge.com/2022/11/1/23435020/instagram-web-interface-desktop-ipad-improvements)
- - [T-Mobile is reportedly adding an activation fee for online orders](https://www.theverge.com/2022/11/1/23435128/t-mobile-device-connection-charge-activation-fee)
- - [Twilio will sunset Zipwhip&#39;s business texting service on December 1, 2023, after acquiring the Seattle startup last year for $850M in cash and stock &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221101/p23#a221101p23)<!-- TECH:END -->
+ - [Amazon&#39;s stock closed down 5.52% on November 1, down for the fifth straight day, its lowest close and below a $1T market cap for the first time since April 2020 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221101/p28#a221101p28)
+ - [Meta researchers develop a LLM to predict the structures of 617M+ metagenomic proteins; the model is less accurate than DeepMind&#39;s AlphaFold, but ~60x faster &lpar;Ewen Callaway/Nature&rpar;](http://www.techmeme.com/221101/p27#a221101p27)
+ - [AMD reports Q3 revenue up 29% YoY to $5.57B, vs. $5.62B est., net income down 93% YoY to $66M, client segment revenue down 40% YoY due to weak PC market &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221101/p26#a221101p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
