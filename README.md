@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Eric Schmidt&#39;s push to profit from an AI cold war between the US and China; CB Insights: he has taken part in investing $2B+ in AI-focused companies &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/221101/p1#a221101p1)
- - [Google says it has paused enforcement of its in-app billing policy on Google Play in India, following a recent ruling of the Competition Commission of India &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/221031/p31#a221031p31)
- - [Elon Musk absolutely did not fire top Twitter executives, including Parag Agrawal, for &quot;cause&quot;, as you can easily tell by reading their employment agreements &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221031/p30#a221031p30)<!-- TECH:END -->
+ - [This could have been the first Android phone](https://www.androidauthority.com/first-android-phone-google-g1-3229553/)
+ - [This upcoming mid-ranger wins our award for ugliest camera housing](https://www.androidauthority.com/oppo-a58-camera-housing-3229550/)
+ - [A look at Eric Schmidt&#39;s push to profit from an AI cold war between the US and China; CB Insights: Schmidt took part in investing $2B+ in AI-focused companies &lpar;Kate Kaye/Protocol&rpar;](http://www.techmeme.com/221101/p1#a221101p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
