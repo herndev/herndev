@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Eternal Halloween](http://9gag.com/gag/aXnw0RD)
- - ⏩ [NONONO I bought 5 phones and I have kept each box.](http://9gag.com/gag/a3ZBmd5)
- - 👉 [The death stare at the end](http://9gag.com/gag/a7q7Qzx)<!-- MEMES:END -->
+ - 💣 [How considerate.....](http://9gag.com/gag/a4oYvmw)
+ - ⏩ [Italia](http://9gag.com/gag/a7q7xxe)
+ - 👉 [WTF](http://9gag.com/gag/agoGrRx)<!-- MEMES:END -->
 
 ---
 
