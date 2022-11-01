@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tilda Swinton is her own mother in the first trailer for A24’s The Eternal Daughter](https://www.theverge.com/23434610/tilda-swinton-the-eternal-daughter-trailer-a24-hogg)
- - [YouTube is letting you add your favorite streaming services to your account](https://www.androidauthority.com/youtube-prime-channels-3229728/)
- - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)<!-- TECH:END -->
+ - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)
+ - [Xbox Game Pass’ November lineup includes two of the best games of the year](https://www.theverge.com/2022/11/1/23434694/xbox-game-pass-november-2022-return-to-monkey-island-vampire-survivors)
+ - [Amazon Music joins Apple in boasting a catalog of 100 million songs](https://appleinsider.com/articles/22/11/01/amazon-music-joins-apple-in-boasting-a-catalog-of-100-million-songs?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
