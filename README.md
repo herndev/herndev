@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men and women are different](http://9gag.com/gag/az2A7dj)
- - ⏩ [VCR](http://9gag.com/gag/a2KmQdY)
- - 👉 [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)<!-- MEMES:END -->
+ - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - ⏩ [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)
+ - 👉 [Kowloon walled city - the most densely populated area ever to exist on earth.](http://9gag.com/gag/a5XreKr)<!-- MEMES:END -->
 
 ---
 
