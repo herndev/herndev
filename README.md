@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max appears to confirm January 15th premiere for The Last of Us TV adaptation](https://www.theverge.com/2022/11/1/23434415/hbo-max-the-last-of-us-details-premiere-date-tv-2023)
- - [Mortgage Refinance Rates on Nov. 1, 2022: Rates Ease     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-1-2022-rates-ease/#ftag=CAD590a51e)
- - [Home Equity Loan Rates for November 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple TV+ shares first trailer for &#39;Interrupting Chicken&#39; childrens&#39; show](https://appleinsider.com/articles/22/11/01/apple-tv-shares-first-trailer-for-interrupting-chicken-childrens-show?utm_medium=rss)
+ - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)
+ - [Google rolls out Search shopping features to help users find deals, including copying coupon codes directly from results and side-by-side comparisons on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221101/p13#a221101p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
