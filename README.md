@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anchorage Digital plans to custody a &quot;significant portion&quot; of Apollo Global&#39;s crypto portfolio and offer crypto custody services to Apollo&#39;s clients &lpar;Andrew Throuvalas/Decrypt&rpar;](http://www.techmeme.com/221031/p25#a221031p25)
- - [Apple&#39;s Chief Information Officer, VP of online retail are leaving the company](https://appleinsider.com/articles/22/10/31/apples-chief-information-officer-vp-of-online-retail-are-leaving-the-company?utm_medium=rss)
- - [GameStop officially launches its NFT marketplace on ImmutableX blockchain, allowing users to access Web3 games currently being built on ImmutableX &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221031/p24#a221031p24)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
+ - [More People Need to Play These Haunting Nintendo Switch Murder Mysteries     - CNET](https://www.cnet.com/tech/gaming/more-people-need-to-play-these-haunting-nintendo-switch-murder-mysteries/#ftag=CAD590a51e)
+ - [Twitter braces for layoffs](https://www.theverge.com/2022/10/31/23434002/twitter-layoffs-internal-messaging-uncertainty-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
