@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Italia](http://9gag.com/gag/a7q7xxe)
- - ⏩ [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
- - 👉 [A rare medical condition, a man discovers he has four kidneys in his body.](http://9gag.com/gag/aBd19RD)<!-- MEMES:END -->
+ - 💣 [How considerate.....](http://9gag.com/gag/a4oYvmw)
+ - ⏩ [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)
+ - 👉 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)<!-- MEMES:END -->
 
 ---
 
