@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s stock closed down 5.52% on November 1, down for the fifth straight day, its lowest close and below a $1T market cap for the first time since April 2020 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221101/p28#a221101p28)
- - [Meta researchers develop a LLM to predict the structures of 617M+ metagenomic proteins; the model is less accurate than DeepMind&#39;s AlphaFold, but ~60x faster &lpar;Ewen Callaway/Nature&rpar;](http://www.techmeme.com/221101/p27#a221101p27)
- - [AMD reports Q3 revenue up 29% YoY to $5.57B, vs. $5.62B est., net income down 93% YoY to $66M, client segment revenue down 40% YoY due to weak PC market &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221101/p26#a221101p26)<!-- TECH:END -->
+ - [Microsoft makes it easier to use pictures from your Android phone in Word or PowerPoint](https://www.theverge.com/2022/11/1/23435298/microsoft-office-web-apps-word-powerpoint-android-qr-code)
+ - [The best Verizon deals: Save up to $1,000 on flagship phones](https://www.androidauthority.com/best-verizon-deals-835801/)
+ - [AMD’s profits have cratered as the PC and crypto miner markets slow down](https://www.theverge.com/2022/11/1/23435504/amd-q3-2022-earnings-profits-revenue-pc-sales)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
