@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Can Netflix really do The Witcher without Henry Cavill?](https://www.polygon.com/23434676/henry-cavill-witcher-season-4-cast-liam-hemsworth)
- - [The best thrillers you can stream right now](https://www.polygon.com/22884482/best-thriller-movies-netflix-hulu-hbo-max-amazon-prime)
- - [The best builds for Nahida in Genshin Impact](https://www.pcgamer.com/genshin-impact-nahida-build-banner)<!-- GAME:END -->
+ - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)
+ - [Let the Spice Flow! Dune: Spice Wars Available Soon with PC Game Pass](https://news.xbox.com/en-us/2022/11/01/dune-spice-wars-available-soon-pc-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
