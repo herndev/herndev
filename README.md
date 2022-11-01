@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What you should know before buying refurbished gadgets](https://www.theverge.com/21258681/refurbished-tech-products-gadgets-how-to-buy-used-repair-e-waste)
- - [Xbox Game Pass’ November lineup includes two of the best games of the year](https://www.theverge.com/2022/11/1/23434694/xbox-game-pass-november-2022-return-to-monkey-island-vampire-survivors)
- - [Amazon Music joins Apple in boasting a catalog of 100 million songs](https://appleinsider.com/articles/22/11/01/amazon-music-joins-apple-in-boasting-a-catalog-of-100-million-songs?utm_medium=rss)<!-- TECH:END -->
+ - [How to recover deleted playlists on Spotify](https://www.androidauthority.com/recover-deleted-playlists-spotify-3225746/)
+ - [Deals: $354 off M1 Max MacBook Pro 14-inch 32GB RAM, plus $70 off AppleCare](https://appleinsider.com/articles/22/11/01/deals-354-off-m1-max-macbook-pro-14-inch-32gb-ram-plus-70-off-applecare?utm_medium=rss)
+ - [Google is offering a pair of Nest Audio speakers for just $89 today](https://www.theverge.com/2022/11/1/23433837/google-nest-speaker-anker-sony-wf-1000xm4-earbuds-logitech-gaming-mouse-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
