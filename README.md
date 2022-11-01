@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A New Threat Emerges in Star Trek Online: Ascension](https://news.xbox.com/en-us/2022/11/01/a-new-threat-emerges-in-star-trek-online-ascension/)
- - [God of War Ragnarök TV spot shows how all parents can relate](https://blog.playstation.com/2022/11/01/god-of-war-ragnarok-tv-spot-shows-how-all-parents-can-relate/)
- - [Coming Soon to Xbox Game Pass: Pentiment, Football Manager 2023, Somerville, and More](https://news.xbox.com/en-us/2022/11/01/game-pass-november-2022-wave-1-announce/)<!-- GAME:END -->
+ - [Let the Spice Flow! Dune: Spice Wars Available Soon with PC Game Pass](https://news.xbox.com/en-us/2022/11/01/dune-spice-wars-available-soon-pc-game-pass/)
+ - [Five Things You Should Know before Playing Lonesome Village](https://news.xbox.com/en-us/2022/11/01/five-things-you-should-know-before-playing-lonesome-village/)
+ - [A New Threat Emerges in Star Trek Online: Ascension](https://news.xbox.com/en-us/2022/11/01/a-new-threat-emerges-in-star-trek-online-ascension/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
