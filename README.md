@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Coming Soon to Xbox Game Pass: Pentiment, Football Manager 2023, Somerville, and More](https://news.xbox.com/en-us/2022/11/01/game-pass-november-2022-wave-1-announce/)
  - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of October 31&rpar;](https://news.xbox.com/en-us/2022/10/31/this-weeks-deals-with-gold-and-spotlight-sale-week-of-october-31/)
- - [Uncover the Sins of Black Adam in DC Universe Online](https://news.xbox.com/en-us/2022/10/31/uncover-the-sins-of-black-adam-in-dc-universe-online/)
- - [New Season and Halloween Outfits for Black Desert](https://news.xbox.com/en-us/2022/10/31/new-season-and-halloween-outfits-for-black-desert/)<!-- GAME:END -->
+ - [Uncover the Sins of Black Adam in DC Universe Online](https://news.xbox.com/en-us/2022/10/31/uncover-the-sins-of-black-adam-in-dc-universe-online/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
