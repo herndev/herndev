@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ shares first trailer for &#39;Interrupting Chicken&#39; childrens&#39; show](https://appleinsider.com/articles/22/11/01/apple-tv-shares-first-trailer-for-interrupting-chicken-childrens-show?utm_medium=rss)
- - [Twitter is now an Elon Musk company](https://www.theverge.com/2022/10/27/23184519/elon-musk-twitter-acquisition-deal-complete-agreement)
- - [Google rolls out Search shopping features to help users find deals, including copying coupon codes directly from results and side-by-side comparisons on mobile &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221101/p13#a221101p13)<!-- TECH:END -->
+ - [Spotify adds audiobook debacle to Britain&#39;s Apple App Store investigation](https://appleinsider.com/articles/22/11/01/spotify-adds-audiobook-debacle-to-britains-apple-app-store-investigation?utm_medium=rss)
+ - [Sources: Galaxy Digital, the digital assets financial services company run by Michael Novogratz, plans to cut 20%+ of its workforce; its stock is down ~80% YoY &lpar;CoinDesk&rpar;](http://www.techmeme.com/221101/p15#a221101p15)
+ - [Elon Musk buys Twitter: Everything you need to know](https://www.androidauthority.com/elon-musk-buys-twitter-3226401/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
