@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify adds audiobook debacle to Britain&#39;s Apple App Store investigation](https://appleinsider.com/articles/22/11/01/spotify-adds-audiobook-debacle-to-britains-apple-app-store-investigation?utm_medium=rss)
- - [Sources: Galaxy Digital, the digital assets financial services company run by Michael Novogratz, plans to cut 20%+ of its workforce; its stock is down ~80% YoY &lpar;CoinDesk&rpar;](http://www.techmeme.com/221101/p15#a221101p15)
- - [Elon Musk buys Twitter: Everything you need to know](https://www.androidauthority.com/elon-musk-buys-twitter-3226401/)<!-- TECH:END -->
+ - [Tilda Swinton is her own mother in the first trailer for A24’s The Eternal Daughter](https://www.theverge.com/23434610/tilda-swinton-the-eternal-daughter-trailer-a24-hogg)
+ - [YouTube is letting you add your favorite streaming services to your account](https://www.androidauthority.com/youtube-prime-channels-3229728/)
+ - [10 best spy apps for Android to keep an eye on what matters](https://www.androidauthority.com/best-spy-apps-android-999763/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
