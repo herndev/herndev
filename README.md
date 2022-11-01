@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
- - ⏩ [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)
- - 👉 [Their commitment is frightening](http://9gag.com/gag/aPgWv5G)<!-- MEMES:END -->
+ - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - ⏩ [VCR](http://9gag.com/gag/a2KmQdY)
+ - 👉 [Men and women are different](http://9gag.com/gag/az2A7dj)<!-- MEMES:END -->
 
 ---
 
