@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: Most of you would download iMessage for Android](https://www.androidauthority.com/download-imessage-android-poll-results-3229589/)
  - [Pixel 7 Pro “barely” survives durability test](https://www.androidauthority.com/pixel-7-pro-durability-3229577/)
- - [This could have been the first Android phone](https://www.androidauthority.com/first-android-phone-google-g1-3229553/)
- - [This upcoming mid-ranger wins our award for ugliest camera housing](https://www.androidauthority.com/oppo-a58-camera-housing-3229550/)<!-- TECH:END -->
+ - [This could have been the first Android phone](https://www.androidauthority.com/first-android-phone-google-g1-3229553/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
