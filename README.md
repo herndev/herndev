@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to get the After Dark Classic screensaver for macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-get-the-after-dark-classic-screensaver-for-macos-ventura?utm_medium=rss)
- - [After a slow start, Donald Trump&#39;s Truth Social has passed Gab, Parler, and other right-wing social media in unique visitors, largely due to Trump posting &lpar;New York Times&rpar;](http://www.techmeme.com/221101/p8#a221101p8)
- - [How to Detect a Man-Made Biothreat](https://www.wired.com/story/how-to-detect-a-man-made-biothreat/)<!-- TECH:END -->
+ - [HBO Max appears to confirm January 15th premiere for The Last of Us TV adaptation](https://www.theverge.com/2022/11/1/23434415/hbo-max-the-last-of-us-details-premiere-date-tv-2023)
+ - [Mortgage Refinance Rates on Nov. 1, 2022: Rates Ease     - CNET](https://www.cnet.com/personal-finance/mortgages/mortgage-refinance-rates-on-nov-1-2022-rates-ease/#ftag=CAD590a51e)
+ - [Home Equity Loan Rates for November 2022     - CNET](https://www.cnet.com/personal-finance/mortgages/home-equity-loan-rates/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
