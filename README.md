@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men and women are different](http://9gag.com/gag/az2A7dj)
- - ⏩ [Calling all 9gaggers..assemble &amp; cancel Netflix!](http://9gag.com/gag/aZDMO5z)
+ - 💣 [Just married or Just fk off ?](http://9gag.com/gag/a04j8gq)
+ - ⏩ [It&#39;s the first time I actually see the Kensington being useful.. nice!](http://9gag.com/gag/a8qMgRp)
  - 👉 [Their commitment is frightening](http://9gag.com/gag/aPgWv5G)<!-- MEMES:END -->
 
 ---
