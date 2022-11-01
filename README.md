@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
- - ⏩ [Awesome double cameo](http://9gag.com/gag/aeQGXmm)
- - 👉 [How considerate.....](http://9gag.com/gag/a4oYvmw)<!-- MEMES:END -->
+ - 💣 [Men and women are different](http://9gag.com/gag/az2A7dj)
+ - ⏩ [Calling all 9gaggers..assemble &amp; cancel Netflix!](http://9gag.com/gag/aZDMO5z)
+ - 👉 [Their commitment is frightening](http://9gag.com/gag/aPgWv5G)<!-- MEMES:END -->
 
 ---
 
