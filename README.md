@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
- - [Russia&#39;s RT, banned by major platforms in March 2022, has found an audience on Thiel-backed Rumble, often pushing Russian propaganda about the Ukraine invasion &lpar;Danny Hakim/New York Times&rpar;](http://www.techmeme.com/221101/p34#a221101p34)
- - [Heidi Klum&#39;s Worm Is the Greatest Halloween Costume of All Time     - CNET](https://www.cnet.com/culture/internet/heidi-klums-worm-is-the-greatest-halloween-costume-of-all-time/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitch says Guest Star, which allows streamers to pull other creators and fans into their streams for a talk show-like experience, is now available to everyone &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221101/p37#a221101p37)
+ - [Sources: the US is exploring whether it has legal authority to review Elon Musk&#39;s Twitter deal, which gives large foreign investors access to confidential data &lpar;Washington Post&rpar;](http://www.techmeme.com/221101/p36#a221101p36)
+ - [The UK&#39;s Ofcom begins scrapping a requirement that BT and KCOM provide dedicated landlines at affordable prices, sounding the death knell for the fax machine &lpar;Financial Times&rpar;](http://www.techmeme.com/221101/p35#a221101p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
