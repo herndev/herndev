@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - ⏩ [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)
- - 👉 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
+ - 💣 [Whats the tune captains](http://9gag.com/gag/ay280Mp)
+ - ⏩ [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)
+ - 👉 [Jonathan, That Moonwalk Guy](http://9gag.com/gag/armNpYy)<!-- MEMES:END -->
 
 ---
 
