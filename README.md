@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why Elon Musk is so desperate for Twitter to make money](https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance)
- - [Panasonic breaks ground on $4 billion EV battery plant in Kansas](https://www.theverge.com/2022/11/2/23437072/panasonic-kansas-ev-battery-factory-tesla-2170)
- - [Some Apple customers report Face ID issues with iOS 16](https://appleinsider.com/articles/22/11/02/some-apple-customers-report-face-id-issues-with-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Fitbit Versa 4 review: Back to basics](https://www.androidauthority.com/fitbit-versa-4-review-3223693/)
+ - [How to charge your first generation Apple Pencil](https://appleinsider.com/inside/apple-pencil/tips/different-ways-to-charge-your-apple-pencil-first-generation?utm_medium=rss)
+ - [Google expands Google Play Games beta for PC to the US, Canada, Mexico, Brazil, Indonesia, the Philippines, Malaysia, and Singapore, offering 85 Android games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221102/p31#a221102p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
