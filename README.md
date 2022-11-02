@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Wednesday, November 2](https://www.pcgamer.com/wordle-today-501-answer-november-2)
- - [Vietnam&#39;s &#39;King of VGA&#39; is selling mountains of graphics cards on the street](https://www.pcgamer.com/vietnams-king-of-vga-is-selling-mountains-of-graphics-cards-on-the-street)
- - [Top 10 Most-Played Steam Deck Games, October 2022 Edition](https://kotaku.com/steam-deck-october-2022-valve-vampire-survivors-hades-1849730190)<!-- GAME:END -->
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
+ - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
