@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Colorado-based ColdQuanta, which uses cold atom tech to build and integrate quantum computers, sensors, clocks, and networks, raised a $110M Series B &lpar;Daniel Levi/Tech Startups&rpar;](http://www.techmeme.com/221102/p1#a221102p1)
- - [FinCEN: US financial institutions processed ~$1.2B in likely ransomware payments in 2021, up ~3x YoY; ~75% of ransomware incidents in H2 2021 were Russia-linked &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/221101/p40#a221101p40)
- - [iCloud Mail experiencing intermittent outages for some](https://appleinsider.com/articles/22/11/02/icloud-mail-experiencing-intermittent-outages-for-some?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter verification will now cost $8/month for anyone and everyone who can pay](https://www.androidauthority.com/twitter-blue-tick-verification-paid-3226423/)
+ - [Sources: Twitter managers told employees they would be paid for their newly vested shares in the first half of November, starting as early as November 4, 2022 &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/221102/p2#a221102p2)
+ - [Colorado-based ColdQuanta, which uses cold atom tech to build and integrate quantum computers, sensors, clocks, and networks, raised a $110M Series B &lpar;Daniel Levi/Tech Startups&rpar;](http://www.techmeme.com/221102/p1#a221102p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
