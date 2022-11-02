@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)
- - ⏩ [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 👉 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
+ - 💣 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
+ - ⏩ [Black on black](http://9gag.com/gag/adPXp9N)
+ - 👉 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
 
 ---
 
