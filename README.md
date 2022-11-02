@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harvestella will offer a non-binary pronoun option](https://www.pcgamer.com/harvestella-will-offer-a-non-binary-pronoun-option)
- - [Frontier acquires the studio behind Warhammer 40K: Daemonhunters with an eye to &#39;more ambitious future titles&#39;](https://www.pcgamer.com/frontier-acquires-the-studio-behind-warhammer-40k-daemonhunters-with-an-eye-to-more-ambitious-future-titles)
- - [Black Friday SSD deals 2022: the fastest PC storage at the lowest prices](https://www.pcgamer.com/black-friday-ssd-deals)<!-- GAME:END -->
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
+ - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
+ - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
