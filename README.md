@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best free PC games in 2022](https://www.pcgamer.com/best-free-pc-games)
- - [Today&#39;s Wordle answer and hint for Wednesday, November 2](https://www.pcgamer.com/wordle-today-501-answer-november-2)
- - [Vietnam&#39;s &#39;King of VGA&#39; is selling mountains of graphics cards on the street](https://www.pcgamer.com/vietnams-king-of-vga-is-selling-mountains-of-graphics-cards-on-the-street)<!-- GAME:END -->
+ - [Harvestella will offer a non-binary pronoun option](https://www.pcgamer.com/harvestella-will-offer-a-non-binary-pronoun-option)
+ - [Frontier acquires the studio behind Warhammer 40K: Daemonhunters with an eye to &#39;more ambitious future titles&#39;](https://www.pcgamer.com/frontier-acquires-the-studio-behind-warhammer-40k-daemonhunters-with-an-eye-to-more-ambitious-future-titles)
+ - [Black Friday SSD deals 2022: the fastest PC storage at the lowest prices](https://www.pcgamer.com/black-friday-ssd-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
