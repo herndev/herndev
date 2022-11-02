@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
- - ⏩ [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - 👉 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
+ - 💣 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
+ - ⏩ [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - 👉 [This was a long time coming](http://9gag.com/gag/aL12yeW)<!-- MEMES:END -->
 
 ---
 
