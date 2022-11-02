@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA plans to release a &#39;major&#39; game before April, but won&#39;t say what it is](https://www.pcgamer.com/ea-plans-to-release-a-major-game-before-april-but-wont-say-what-it-is)
- - [Dwarf Fortress, Which Has Been In Development For 20 Years, Finally Hits Steam Next Month](https://kotaku.com/dwarf-fortress-steam-edition-pc-survival-release-date-1849730367)
- - [Embracer shuts down Square Enix Montréal two months after buying it](https://www.pcgamer.com/embracer-shuts-down-square-enix-montreal-two-months-after-buying-it)<!-- GAME:END -->
+ - [Top 10 Most-Played Steam Deck Games, October 2022 Edition](https://kotaku.com/steam-deck-october-2022-valve-vampire-survivors-hades-1849730190)
+ - [Signalis Is A Grimy Exercise In Survival Horror, And I Love It](https://kotaku.com/signalis-survival-horror-impressions-review-pc-ps4-xbox-1849730503)
+ - [Warhammer 40,000: Darktide—gameplay, trailers and everything we know](https://www.pcgamer.com/warhammer-40k-darktide-release-date-gameplay-everything-we-know)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
