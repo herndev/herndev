@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)
- - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)
- - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)<!-- GAME:END -->
+ - [One Piece Film: Red finds a fantastic way to upend the One Piece universe](https://www.polygon.com/23435444/one-piece-film-red-review-ado-uta-musical)
+ - [Microsoft tells shareholders not to worry their pretty little heads about its work with the US military](https://www.pcgamer.com/microsoft-tells-shareholders-not-to-worry-their-pretty-little-heads-about-its-work-with-the-us-military)
+ - [Slay the Spire boardgame looks amazing, expensive, and has raised $1.4 million already](https://www.pcgamer.com/slay-the-spire-boardgame-looks-amazing-expensive-and-has-raised-dollar14-million-already)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
