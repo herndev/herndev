@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [11 new PS VR2 games announced: The Dark Pictures: Switchback VR, Cities VR – Enhanced Edition, Crossfire: Sierra Squad and more](https://blog.playstation.com/2022/11/02/11-new-ps-vr2-games-announced-the-dark-pictures-switchback-vr-cities-vr-enhanced-edition-crossfire-sierra-squad-and-more/)
- - [PlayStation VR2 launches in February at $549.99](https://blog.playstation.com/2022/11/02/playstation-vr2-launches-in-february-at-549-99/)
- - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)<!-- GAME:END -->
+ - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)
+ - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)
+ - [Ryan Reynolds and Will Ferrell star in Spirited, a very meta take on A Christmas Carol](https://www.polygon.com/23436796/spirited-trailer-release-date-ryan-reynolds-will-ferrell-apple-tv-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
