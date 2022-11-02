@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats the tune captains](http://9gag.com/gag/ay280Mp)
- - ⏩ [Average gagger getting some adjustments](http://9gag.com/gag/awZVrM8)
- - 👉 [Jonathan, That Moonwalk Guy](http://9gag.com/gag/armNpYy)<!-- MEMES:END -->
+ - 💣 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
+ - ⏩ [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 👉 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
 
 ---
 
