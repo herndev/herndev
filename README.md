@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation VR2 launches on February 22nd for $549.99](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games)
- - [Apple TV 4K &lpar;2022&rpar; review: affordable, snappy performance, and USB-C remote, but no AirTag-like remote tracking, lackluster live TV, and somewhat stale design &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/221102/p17#a221102p17)
- - [Save Up to 41% On These Clever Kitchen Gadgets Right Now At Amazon     - CNET](https://www.cnet.com/deals/save-up-to-41-on-these-clever-kitchen-gadgets-right-now-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [My mom’s phone completely died, but these 3 steps helped me recover everything](https://www.androidauthority.com/mom-phone-backup-recover-3229279/)
+ - [Get early access to the Samsung Black Friday Sale](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)
+ - [Fujifilm’s new X-T5 pivots back to photography](https://www.theverge.com/2022/11/2/23435734/fujifilm-xt5-mirrorless-camera-price-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
