@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - ⏩ [The Shinnin!](http://9gag.com/gag/abvZq8p)
- - 👉 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
+ - 💣 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
+ - ⏩ [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - 👉 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
 
 ---
 
