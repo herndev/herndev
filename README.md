@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [My mom’s phone completely died, but these 3 steps helped me recover everything](https://www.androidauthority.com/mom-phone-backup-recover-3229279/)
- - [Get early access to the Samsung Black Friday Sale](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)
- - [Fujifilm’s new X-T5 pivots back to photography](https://www.theverge.com/2022/11/2/23435734/fujifilm-xt5-mirrorless-camera-price-specs-features)<!-- TECH:END -->
+ - [Tharsis Labs, which develops the Evmos cross-blockchain tool to connect Ethereum and Cosmos, raised $27M via a token sale led by Polychain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221102/p25#a221102p25)
+ - [Google’s new prototype AI tool does the writing for you](https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda)
+ - [Apple TV 4K review roundup: lower cost and future-proofed](https://appleinsider.com/articles/22/11/02/apple-tv-4k-review-roundup-lower-cost-and-future-proofed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
