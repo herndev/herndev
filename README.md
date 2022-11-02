@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
- - ⏩ [Men and women are different](http://9gag.com/gag/az2A7dj)
- - 👉 [Wow](http://9gag.com/gag/a8q4pQQ)<!-- MEMES:END -->
+ - 💣 [The Shinnin!](http://9gag.com/gag/abvZq8p)
+ - ⏩ [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
+ - 👉 [Hold&#39;up](http://9gag.com/gag/abvZyqB)<!-- MEMES:END -->
 
 ---
 
