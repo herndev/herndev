@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Amazon device day deals](https://www.theverge.com/2022/11/2/23432652/amazon-device-day-echo-show-kindle-fire-tv-blink-camera-deal-sale)
- - [Black Friday fitness tracker deals: New low price on the Fitbit Luxe](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
- - [A financial document details some ties between Sam Bankman-Fried&#39;s FTX and Alameda Research; Alameda&#39;s biggest asset is $3.66B of unlocked FTT, an FTX token &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/221102/p33#a221102p33)<!-- TECH:END -->
+ - [Qualcomm is predicting a ‘double-digit’ drop in phone sales](https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline)
+ - [Apple Towson union files labor complaint against Apple over withholding benefits](https://appleinsider.com/articles/22/11/02/apple-towson-union-files-labor-complaint-against-apple-over-withholding-benefits?utm_medium=rss)
+ - [How to get a PlayStation 5 this holiday season](https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
