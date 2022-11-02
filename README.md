@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - ⏩ [Hold&#39;up](http://9gag.com/gag/abvZyqB)
- - 👉 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)<!-- MEMES:END -->
+ - 💣 [Men and women are different](http://9gag.com/gag/az2A7dj)
+ - ⏩ [Parents who do this are sick](http://9gag.com/gag/aKE34Ng)
+ - 👉 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 ---
 
