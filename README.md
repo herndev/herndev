@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An engineer reimplemented Google AI&#39;s text-to-image diffusion model DreamBooth for Stable Diffusion, letting anyone cheaply and easily recreate artists&#39; styles &lpar;Andy Baio/Waxy.org&rpar;](http://www.techmeme.com/221102/p6#a221102p6)
- - [Daily Authority: 🐦 Twitter puts a price on vanity](https://www.androidauthority.com/daily-authority-november-2-2022-3230053/)
- - [Samsung wants an S Pen slot on its future foldables](https://www.androidauthority.com/samsung-s-pen-slot-future-foldables-3230068/)<!-- TECH:END -->
+ - [Google Assistant Gets Parental Controls, New Voices, and a Kids’ Dictionary](https://www.wired.com/story/google-assistant-parental-controls-kid-friendly-features/)
+ - [Netflix begins rolling out its Basic with Ads tier; sources say licensing negotiations with Disney, Comcast, Sony, Warner Bros., and Lions Gate are ongoing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221102/p10#a221102p10)
+ - [Xiaomi concept clips a full-size Leica lens onto a smartphone](https://www.theverge.com/2022/11/2/23436401/xiaomi-12s-ultra-leica-m-series-camera-lens-concept)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
