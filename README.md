@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
- - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
- - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
+ - [EA plans to release a &#39;major&#39; game before April, but won&#39;t say what it is](https://www.pcgamer.com/ea-plans-to-release-a-major-game-before-april-but-wont-say-what-it-is)
+ - [Dwarf Fortress, Which Has Been In Development For 20 Years, Finally Hits Steam Next Month](https://kotaku.com/dwarf-fortress-steam-edition-pc-survival-release-date-1849730367)
+ - [Embracer shuts down Square Enix Montréal two months after buying it](https://www.pcgamer.com/embracer-shuts-down-square-enix-montreal-two-months-after-buying-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
