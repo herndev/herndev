@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal email: Twitter appears to be rushing out a &quot;high&quot;-risk &quot;Paywalled Video&quot; feature, letting users charge to view their videos, with Twitter taking a cut &lpar;Washington Post&rpar;](http://www.techmeme.com/221102/p3#a221102p3)
- - [SpaceX Giant Falcon Heavy Rocket Launches for First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-giant-falcon-heavy-rocket-launches-for-first-time-in-three-years/#ftag=CAD590a51e)
- - [Google Welcomes Day of the Dead With Sugar Skulls Doodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-day-of-the-dead-with-sugar-skulls-doodle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at life for ether miners after the Merge, including repurposing obsolete equipment to mine other cryptocurrencies, host cloud services, and heat homes &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/221102/p5#a221102p5)
+ - [This Xiaomi concept lets you use a full-blown camera lens on a phone](https://www.androidauthority.com/xiaomi-12s-ultra-concept-camera-lens-3226429/)
+ - [Arizona-based Qwick, an on-demand staffing service that matches gig workers with hospitality jobs, raised a $40M Series B, bringing its total funding to $69.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221102/p4#a221102p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
