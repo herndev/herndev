@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)
- - [Burberry: Freedom to Go Beyond](https://news.xbox.com/en-us/2022/11/01/burberry-freedom-to-go-beyond/)
- - [Play the FIFA World Cup 2022 from November 9 in FIFA 23](https://blog.playstation.com/2022/11/01/play-the-fifa-world-cup-2022-from-november-9-in-fifa-23/)<!-- GAME:END -->
+ - [11 new PS VR2 games announced: The Dark Pictures: Switchback VR, Cities VR – Enhanced Edition, Crossfire: Sierra Squad and more](https://blog.playstation.com/2022/11/02/11-new-ps-vr2-games-announced-the-dark-pictures-switchback-vr-cities-vr-enhanced-edition-crossfire-sierra-squad-and-more/)
+ - [PlayStation VR2 launches in February at $549.99](https://blog.playstation.com/2022/11/02/playstation-vr2-launches-in-february-at-549-99/)
+ - [Bringing our Post-Communist Childhood into Last Days of Lazarus, out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/01/bringing-our-post-communist-childhood-into-last-days-of-lazarus-out-now-on-xbox-series-xs/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
