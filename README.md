@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter verification will now cost $8/month for anyone and everyone who can pay](https://www.androidauthority.com/twitter-blue-tick-verification-paid-3226423/)
- - [Sources: Twitter managers told employees they would be paid for their newly vested shares in the first half of November, starting as early as November 4, 2022 &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/221102/p2#a221102p2)
- - [Colorado-based ColdQuanta, which uses cold atom tech to build and integrate quantum computers, sensors, clocks, and networks, raised a $110M Series B &lpar;Daniel Levi/Tech Startups&rpar;](http://www.techmeme.com/221102/p1#a221102p1)<!-- TECH:END -->
+ - [Internal email: Twitter appears to be rushing out a &quot;high&quot;-risk &quot;Paywalled Video&quot; feature, letting users charge to view their videos, with Twitter taking a cut &lpar;Washington Post&rpar;](http://www.techmeme.com/221102/p3#a221102p3)
+ - [SpaceX Giant Falcon Heavy Rocket Launches for First Time in Three Years     - CNET](https://www.cnet.com/science/space/spacex-giant-falcon-heavy-rocket-launches-for-first-time-in-three-years/#ftag=CAD590a51e)
+ - [Google Welcomes Day of the Dead With Sugar Skulls Doodle     - CNET](https://www.cnet.com/culture/internet/google-welcomes-day-of-the-dead-with-sugar-skulls-doodle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
