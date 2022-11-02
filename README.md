@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - ⏩ [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 👉 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
+ - 💣 [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
+ - ⏩ [Men and women are different](http://9gag.com/gag/az2A7dj)
+ - 👉 [Wow](http://9gag.com/gag/a8q4pQQ)<!-- MEMES:END -->
 
 ---
 
