@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tharsis Labs, which develops the Evmos cross-blockchain tool to connect Ethereum and Cosmos, raised $27M via a token sale led by Polychain Capital &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221102/p25#a221102p25)
- - [Google’s new prototype AI tool does the writing for you](https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda)
- - [Apple TV 4K review roundup: lower cost and future-proofed](https://appleinsider.com/articles/22/11/02/apple-tv-4k-review-roundup-lower-cost-and-future-proofed?utm_medium=rss)<!-- TECH:END -->
+ - [Glasgow Apple Store staff become first in UK to unionize](https://appleinsider.com/articles/22/11/02/glasgow-apple-store-staff-become-first-in-uk-to-unionize?utm_medium=rss)
+ - [Poll: Will you pay for a blue check mark on Twitter?](https://www.androidauthority.com/twitter-blue-poll-3230263/)
+ - [An ex-Apple employee, Dhirendra Prasad, pleaded guilty to mail and wire fraud charges after defrauding Apple of $17M+, including via kickbacks, starting in 2011 &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221102/p26#a221102p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
