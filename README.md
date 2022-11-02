@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Weird cars are becoming the new normal](https://www.theverge.com/2022/11/2/23434740/weird-cars-gimmicks-ev-hyundai-kia-genesis)
- - [Source: Meta plans to end human curation of its UK Facebook News tab, contracted to a team of ~15 journalists at Upday, and switch to an AI system in early 2023 &lpar;William Turvill/Press Gazette&rpar;](http://www.techmeme.com/221102/p12#a221102p12)
- - [Toronto-based TouchBistro, which offers payments tools for restaurants globally, raised CA$150M led by Francisco Partners, bringing its funding to ~CA$433M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221102/p11#a221102p11)<!-- TECH:END -->
+ - [2022 iPad Pro review: M2 computing heft -- but not much else](https://appleinsider.com/articles/22/11/02/2022-ipad-pro-review-m2-computing-heft----but-not-much-else?utm_medium=rss)
+ - [Arlo introduces Home Security System and Pro 5S Security Camera](https://appleinsider.com/articles/22/11/02/arlo-introduces-home-security-system-and-pro-5s-security-camera?utm_medium=rss)
+ - [The Unintended Consequences of Apple’s Fertility Tech](https://www.wired.com/story/apple-watch-fertility-features-not-birth-control/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
