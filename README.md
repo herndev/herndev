@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brief video of Heidi Klum&#39;s Halloween worm costume.](http://9gag.com/gag/aQExPnW)
- - ⏩ [Tinder as an unattractive man in Norway.](http://9gag.com/gag/a8q4LpZ)
- - 👉 [Egyptian Government building a highway in the middle of residential area, as close at 20 in or 50 cm from some of the homes.](http://9gag.com/gag/aqe5PyM)<!-- MEMES:END -->
+ - 💣 [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)
+ - ⏩ [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
+ - 👉 [A random french guy tweeted `I&#39;m not even sure that americans know this country lmfao` talking about Listenbourg and all big famous accounts followed, dozens of random guys created weather, ambassads, government and various officials accounts to persuade it exists](http://9gag.com/gag/a9qYdNo)<!-- MEMES:END -->
 
 ---
 
