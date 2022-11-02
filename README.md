@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Shinnin!](http://9gag.com/gag/abvZq8p)
- - ⏩ [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
- - 👉 [Hold&#39;up](http://9gag.com/gag/abvZyqB)<!-- MEMES:END -->
+ - 💣 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - ⏩ [WTF](http://9gag.com/gag/agoGrRx)
+ - 👉 [The Shinnin!](http://9gag.com/gag/abvZq8p)<!-- MEMES:END -->
 
 ---
 
