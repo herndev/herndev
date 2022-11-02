@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at life for ether miners after the Merge, including repurposing obsolete equipment to mine other cryptocurrencies, host cloud services, and heat homes &lpar;Martha Muir/Financial Times&rpar;](http://www.techmeme.com/221102/p5#a221102p5)
- - [This Xiaomi concept lets you use a full-blown camera lens on a phone](https://www.androidauthority.com/xiaomi-12s-ultra-concept-camera-lens-3226429/)
- - [Arizona-based Qwick, an on-demand staffing service that matches gig workers with hospitality jobs, raised a $40M Series B, bringing its total funding to $69.1M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221102/p4#a221102p4)<!-- TECH:END -->
+ - [Daily Authority: 🐦 Twitter puts a price on vanity](https://www.androidauthority.com/daily-authority-november-2-2022-3230053/)
+ - [Samsung wants an S Pen slot on its future foldables](https://www.androidauthority.com/samsung-s-pen-slot-future-foldables-3230068/)
+ - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plot, a Torturous Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plot-a-torturous-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
