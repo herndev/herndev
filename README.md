@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Whats the tune captains](http://9gag.com/gag/ay280Mp)
- - ⏩ [Jonathan, That Moonwalk Guy](http://9gag.com/gag/armNpYy)
- - 👉 [Black student stabbing an Asian student in racist attack. He is facing attempted assault and criminal possession of a weapon charges.](http://9gag.com/gag/awZV7nR)<!-- MEMES:END -->
+ - 💣 [Ah Burn!](http://9gag.com/gag/a5XrKgL)
+ - ⏩ [He just isn&#39;t into toxic people ;&rpar;](http://9gag.com/gag/armKjNK)
+ - 👉 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
 
 ---
 
