@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Qualcomm is predicting a ‘double-digit’ drop in phone sales](https://www.theverge.com/2022/11/2/23437443/qualcomm-phone-sales-earnings-decline)
- - [Apple Towson union files labor complaint against Apple over withholding benefits](https://appleinsider.com/articles/22/11/02/apple-towson-union-files-labor-complaint-against-apple-over-withholding-benefits?utm_medium=rss)
- - [How to get a PlayStation 5 this holiday season](https://www.theverge.com/22777072/sony-ps5-playstation-5-console-where-how-to-buy-tips-restock)<!-- TECH:END -->
+ - [Twitter Had a Plan to Fix Social Media. Will Elon Musk Follow It?](https://www.wired.com/story/twitter-had-a-plan-to-fix-social-media-bluesky-will-elon-musk-follow-it/)
+ - [SEC filing: Coinbase Chief Product Officer Surojit Chatterjee leaves, as the company plans to restructure its product team into four divisions &lpar;The Block&rpar;](http://www.techmeme.com/221102/p39#a221102p39)
+ - [New implant will allow users to control iPhone, iPad with brain](https://appleinsider.com/articles/22/11/02/new-implant-will-allow-users-to-control-iphone-ipad-with-brain?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
