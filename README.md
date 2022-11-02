@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Had a Plan to Fix Social Media. Will Elon Musk Follow It?](https://www.wired.com/story/twitter-had-a-plan-to-fix-social-media-bluesky-will-elon-musk-follow-it/)
- - [SEC filing: Coinbase Chief Product Officer Surojit Chatterjee leaves, as the company plans to restructure its product team into four divisions &lpar;The Block&rpar;](http://www.techmeme.com/221102/p39#a221102p39)
- - [New implant will allow users to control iPhone, iPad with brain](https://appleinsider.com/articles/22/11/02/new-implant-will-allow-users-to-control-iphone-ipad-with-brain?utm_medium=rss)<!-- TECH:END -->
+ - [Meta is letting select Instagram US creators test a toolkit for minting NFTs and selling them on and off the platform, and says it won&#39;t charge fees until 2024 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/221102/p42#a221102p42)
+ - [Qualcomm will provide 5G modems for 2023 iPhone line](https://appleinsider.com/articles/22/11/02/qualcomm-will-provide-5g-modems-for-2023-iphone-line?utm_medium=rss)
+ - [Qualcomm expects to provide modem chips for the &quot;vast majority&quot; of iPhones in 2023, retaining its current foothold after previously planning to supply ~20% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221102/p41#a221102p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
