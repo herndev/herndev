@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 iPad Pro review: M2 computing heft -- but not much else](https://appleinsider.com/articles/22/11/02/2022-ipad-pro-review-m2-computing-heft----but-not-much-else?utm_medium=rss)
- - [Arlo introduces Home Security System and Pro 5S Security Camera](https://appleinsider.com/articles/22/11/02/arlo-introduces-home-security-system-and-pro-5s-security-camera?utm_medium=rss)
- - [The Unintended Consequences of Apple’s Fertility Tech](https://www.wired.com/story/apple-watch-fertility-features-not-birth-control/)<!-- TECH:END -->
+ - [PlayStation VR2 launches on February 22nd for $549.99](https://www.theverge.com/2022/11/2/23436550/sony-playstation-vr2-release-date-price-features-games)
+ - [Apple TV 4K &lpar;2022&rpar; review: affordable, snappy performance, and USB-C remote, but no AirTag-like remote tracking, lackluster live TV, and somewhat stale design &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/221102/p17#a221102p17)
+ - [Save Up to 41% On These Clever Kitchen Gadgets Right Now At Amazon     - CNET](https://www.cnet.com/deals/save-up-to-41-on-these-clever-kitchen-gadgets-right-now-at-amazon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
