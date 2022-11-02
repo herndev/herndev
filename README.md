@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was in 2009. I thought I can finally get a girlfriend.](http://9gag.com/gag/aYVLNwN)
- - ⏩ [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
- - 👉 [A random french guy tweeted `I&#39;m not even sure that americans know this country lmfao` talking about Listenbourg and all big famous accounts followed, dozens of random guys created weather, ambassads, government and various officials accounts to persuade it exists](http://9gag.com/gag/a9qYdNo)<!-- MEMES:END -->
+ - 💣 [Whats the tune captains](http://9gag.com/gag/ay280Mp)
+ - ⏩ [Jonathan, That Moonwalk Guy](http://9gag.com/gag/armNpYy)
+ - 👉 [Black student stabbing an Asian student in racist attack. He is facing attempted assault and criminal possession of a weapon charges.](http://9gag.com/gag/awZV7nR)<!-- MEMES:END -->
 
 ---
 
