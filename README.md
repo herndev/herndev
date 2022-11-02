@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fitbit Versa 4 review: Back to basics](https://www.androidauthority.com/fitbit-versa-4-review-3223693/)
- - [How to charge your first generation Apple Pencil](https://appleinsider.com/inside/apple-pencil/tips/different-ways-to-charge-your-apple-pencil-first-generation?utm_medium=rss)
- - [Google expands Google Play Games beta for PC to the US, Canada, Mexico, Brazil, Indonesia, the Philippines, Malaysia, and Singapore, offering 85 Android games &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221102/p31#a221102p31)<!-- TECH:END -->
+ - [The best Amazon device day deals](https://www.theverge.com/2022/11/2/23432652/amazon-device-day-echo-show-kindle-fire-tv-blink-camera-deal-sale)
+ - [Black Friday fitness tracker deals: New low price on the Fitbit Luxe](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)
+ - [A financial document details some ties between Sam Bankman-Fried&#39;s FTX and Alameda Research; Alameda&#39;s biggest asset is $3.66B of unlocked FTT, an FTX token &lpar;Ian Allison/CoinDesk&rpar;](http://www.techmeme.com/221102/p33#a221102p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
