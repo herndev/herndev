@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s putting its Lens image search right on its home page](https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page)
- - [Rewind, whose Mac app creates a searchable recording to help users find what they&#39;ve seen, said, or heard, raised a $10M seed led by a16z at a $75M valuation &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221101/p33#a221101p33)
- - [Anker 767 PowerHouse deal: Score $400 off this next level power station](https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When is Episode 9 Hitting Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-is-episode-9-hitting-disney-plus/#ftag=CAD590a51e)
+ - [Russia&#39;s RT, banned by major platforms in March 2022, has found an audience on Thiel-backed Rumble, often pushing Russian propaganda about the Ukraine invasion &lpar;Danny Hakim/New York Times&rpar;](http://www.techmeme.com/221101/p34#a221101p34)
+ - [Heidi Klum&#39;s Worm Is the Greatest Halloween Costume of All Time     - CNET](https://www.cnet.com/culture/internet/heidi-klums-worm-is-the-greatest-halloween-costume-of-all-time/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
