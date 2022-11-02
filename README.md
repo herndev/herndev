@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Mail experiencing intermittent outages for some](https://appleinsider.com/articles/22/11/02/icloud-mail-experiencing-intermittent-outages-for-some?utm_medium=rss)
- - [A comedian, who is a verified user, puts Twitter&#39;s moderation practices to the test by starting the #TrumpIsDead hashtag, which began trending on Tuesday &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/221101/p39#a221101p39)
- - [Musk&#39;s history of amplifying misinformation shows that his Twitter won&#39;t be interested in protecting the LGBTQ community and others often targeted for abuse &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221101/p38#a221101p38)<!-- TECH:END -->
+ - [Colorado-based ColdQuanta, which uses cold atom tech to build and integrate quantum computers, sensors, clocks, and networks, raised a $110M Series B &lpar;Daniel Levi/Tech Startups&rpar;](http://www.techmeme.com/221102/p1#a221102p1)
+ - [FinCEN: US financial institutions processed ~$1.2B in likely ransomware payments in 2021, up ~3x YoY; ~75% of ransomware incidents in H2 2021 were Russia-linked &lpar;Chelsey Cox/CNBC&rpar;](http://www.techmeme.com/221101/p40#a221101p40)
+ - [iCloud Mail experiencing intermittent outages for some](https://appleinsider.com/articles/22/11/02/icloud-mail-experiencing-intermittent-outages-for-some?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
