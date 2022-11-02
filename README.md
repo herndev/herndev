@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Android 13 is coming to a Galaxy S10 phone, but not the one you want](https://www.androidauthority.com/android-13-galaxy-s10-lite-3230317/)
- - [Google Play Android games now available on PC in beta](https://www.theverge.com/2022/11/2/23436453/google-play-games-android-pc-open-beta)
- - [Secretlab Skins let you customize your gaming chair](https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022)<!-- TECH:END -->
+ - [Why Elon Musk is so desperate for Twitter to make money](https://www.theverge.com/2022/11/2/23437120/elon-musk-twitter-product-subscription-verification-revenue-debt-finance)
+ - [Panasonic breaks ground on $4 billion EV battery plant in Kansas](https://www.theverge.com/2022/11/2/23437072/panasonic-kansas-ev-battery-factory-tesla-2170)
+ - [Some Apple customers report Face ID issues with iOS 16](https://appleinsider.com/articles/22/11/02/some-apple-customers-report-face-id-issues-with-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
