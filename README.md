@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Google is discontinuing support for the standalone Street View app and pulling it from app stores](https://www.theverge.com/2022/11/1/23435733/google-maps-street-view-standalone-app-discontinue-support)
- - [Rolex Deepsea Challenge 2022: the Deepest Diver You Can Buy](https://www.wired.com/story/rolex-oyster-perpetual-deepsea-challenge-2022/)<!-- TECH:END -->
+ - [Google’s putting its Lens image search right on its home page](https://www.theverge.com/2022/11/1/23435872/google-lens-image-search-home-page)
+ - [Rewind, whose Mac app creates a searchable recording to help users find what they&#39;ve seen, said, or heard, raised a $10M seed led by a16z at a $75M valuation &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221101/p33#a221101p33)
+ - [Anker 767 PowerHouse deal: Score $400 off this next level power station](https://www.androidauthority.com/anker-767-powerhouse-power-station-deal-3229963/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
