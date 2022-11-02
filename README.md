@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
- - ⏩ [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - 👉 [This was a long time coming](http://9gag.com/gag/aL12yeW)<!-- MEMES:END -->
+ - 💣 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
+ - ⏩ [True love](http://9gag.com/gag/a7qdyYx)
+ - 👉 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 ---
 
