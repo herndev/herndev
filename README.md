@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
- - ⏩ [Black on black](http://9gag.com/gag/adPXp9N)
- - 👉 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
+ - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - ⏩ [Hold&#39;up](http://9gag.com/gag/abvZyqB)
+ - 👉 [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)<!-- MEMES:END -->
 
 ---
 
