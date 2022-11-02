@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitch says Guest Star, which allows streamers to pull other creators and fans into their streams for a talk show-like experience, is now available to everyone &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221101/p37#a221101p37)
- - [Sources: the US is exploring whether it has legal authority to review Elon Musk&#39;s Twitter deal, which gives large foreign investors access to confidential data &lpar;Washington Post&rpar;](http://www.techmeme.com/221101/p36#a221101p36)
- - [The UK&#39;s Ofcom begins scrapping a requirement that BT and KCOM provide dedicated landlines at affordable prices, sounding the death knell for the fax machine &lpar;Financial Times&rpar;](http://www.techmeme.com/221101/p35#a221101p35)<!-- TECH:END -->
+ - [iCloud Mail experiencing intermittent outages for some](https://appleinsider.com/articles/22/11/02/icloud-mail-experiencing-intermittent-outages-for-some?utm_medium=rss)
+ - [A comedian, who is a verified user, puts Twitter&#39;s moderation practices to the test by starting the #TrumpIsDead hashtag, which began trending on Tuesday &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/221101/p39#a221101p39)
+ - [Musk&#39;s history of amplifying misinformation shows that his Twitter won&#39;t be interested in protecting the LGBTQ community and others often targeted for abuse &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221101/p38#a221101p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
