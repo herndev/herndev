@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)
  - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)
- - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)
- - [Ryan Reynolds and Will Ferrell star in Spirited, a very meta take on A Christmas Carol](https://www.polygon.com/23436796/spirited-trailer-release-date-ryan-reynolds-will-ferrell-apple-tv-plus)<!-- GAME:END -->
+ - [Lore and Legend behind The Lost City of Radlantis and Gail Force](https://news.xbox.com/en-us/2022/11/02/lore-and-legend-behind-the-lost-city-of-radlantis-and-gail-force/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
