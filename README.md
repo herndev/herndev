@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)
- - ⏩ [`Oh how cute. Can I pet him?`](http://9gag.com/gag/a8q44rV)
- - 👉 [2, 3, 4, 0](http://9gag.com/gag/az2ArjK)<!-- MEMES:END -->
+ - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - ⏩ [The Shinnin!](http://9gag.com/gag/abvZq8p)
+ - 👉 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
 
 ---
 
