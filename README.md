@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - ⏩ [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
- - 👉 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
+ - 💣 [Black on black](http://9gag.com/gag/adPXp9N)
+ - ⏩ [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
+ - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
 
 ---
 
