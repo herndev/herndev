@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black on black](http://9gag.com/gag/adPXp9N)
- - ⏩ [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)
- - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
+ - 💣 [I need to stop this, you guys broke me](http://9gag.com/gag/aBd11WO)
+ - ⏩ [`Oh how cute. Can I pet him?`](http://9gag.com/gag/a8q44rV)
+ - 👉 [2, 3, 4, 0](http://9gag.com/gag/az2ArjK)<!-- MEMES:END -->
 
 ---
 
