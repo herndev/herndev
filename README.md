@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Glasgow Apple Store staff become first in UK to unionize](https://appleinsider.com/articles/22/11/02/glasgow-apple-store-staff-become-first-in-uk-to-unionize?utm_medium=rss)
- - [Poll: Will you pay for a blue check mark on Twitter?](https://www.androidauthority.com/twitter-blue-poll-3230263/)
- - [An ex-Apple employee, Dhirendra Prasad, pleaded guilty to mail and wire fraud charges after defrauding Apple of $17M+, including via kickbacks, starting in 2011 &lpar;Steven Musil/CNET&rpar;](http://www.techmeme.com/221102/p26#a221102p26)<!-- TECH:END -->
+ - [Android 13 is coming to a Galaxy S10 phone, but not the one you want](https://www.androidauthority.com/android-13-galaxy-s10-lite-3230317/)
+ - [Google Play Android games now available on PC in beta](https://www.theverge.com/2022/11/2/23436453/google-play-games-android-pc-open-beta)
+ - [Secretlab Skins let you customize your gaming chair](https://www.theverge.com/2022/11/2/23424498/secretlab-skins-gaming-chair-titan-evo-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
