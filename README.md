@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - ⏩ [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - 👉 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
+ - ⏩ [Ultimate uno reverse card lol](http://9gag.com/gag/aMEGpgV)
+ - 👉 [VCR](http://9gag.com/gag/a2KmQdY)<!-- MEMES:END -->
 
 ---
 
