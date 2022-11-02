@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Assistant Gets Parental Controls, New Voices, and a Kids’ Dictionary](https://www.wired.com/story/google-assistant-parental-controls-kid-friendly-features/)
- - [Netflix begins rolling out its Basic with Ads tier; sources say licensing negotiations with Disney, Comcast, Sony, Warner Bros., and Lions Gate are ongoing &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221102/p10#a221102p10)
- - [Xiaomi concept clips a full-size Leica lens onto a smartphone](https://www.theverge.com/2022/11/2/23436401/xiaomi-12s-ultra-leica-m-series-camera-lens-concept)<!-- TECH:END -->
+ - [Weird cars are becoming the new normal](https://www.theverge.com/2022/11/2/23434740/weird-cars-gimmicks-ev-hyundai-kia-genesis)
+ - [Source: Meta plans to end human curation of its UK Facebook News tab, contracted to a team of ~15 journalists at Upday, and switch to an AI system in early 2023 &lpar;William Turvill/Press Gazette&rpar;](http://www.techmeme.com/221102/p12#a221102p12)
+ - [Toronto-based TouchBistro, which offers payments tools for restaurants globally, raised CA$150M led by Francisco Partners, bringing its funding to ~CA$433M &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221102/p11#a221102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
