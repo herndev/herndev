@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Wait a minute...](http://9gag.com/gag/a5X7L3E)
- - ⏩ [Ah Burn!](http://9gag.com/gag/a5XrKgL)
- - 👉 [Dinner with a view](http://9gag.com/gag/avQnLGZ)<!-- MEMES:END -->
+ - ⏩ [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - 👉 [Holup, Leo DiCaprio...!](http://9gag.com/gag/axojxvD)<!-- MEMES:END -->
 
 ---
 
