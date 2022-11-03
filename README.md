@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal to add Tap to Pay on iPhone, Apple Pay, and Wallet support](https://appleinsider.com/articles/22/11/03/paypal-to-add-tap-to-pay-on-iphone-apple-pay-and-wallet-support?utm_medium=rss)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Latest OnePlus 8 update has October patch, fixes bugs in screen and camera](https://www.androidauthority.com/oneplus-8-pro-update-1108368/)<!-- TECH:END -->
+ - [PayPal and Venmo will soon support Apple’s Tap to Pay contactless payments tech](https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps)
+ - [How to use Audio Message Transcription on Google Pixel phones](https://www.androidauthority.com/audio-message-transcription-pixel-3225866/)
+ - [Apple freezes hiring outside of research and development](https://appleinsider.com/articles/22/11/03/apple-freezes-hiring-outside-of-research-and-development?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
