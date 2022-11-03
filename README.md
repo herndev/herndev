@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say the vast majority of independent Uyghur-run websites have ceased to exist, as Beijing&#39;s crackdown in the Muslim-majority Xinjiang region unfolded &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221102/p50#a221102p50)
- - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)
- - [Twitter-Elon Musk Timeline: Layoffs May Hit Half of Workforce     - CNET](https://www.cnet.com/news/social-media/twitter-elon-musk-timeline-layoffs-may-hit-half-of-workforce/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Facebook expands its Professional Mode, giving all creators globally a chance to earn money with various tools, including Reels Play bonuses and subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p51#a221102p51)
+ - [Experts say the vast majority of independent Uyghur-run websites have ceased to exist after Beijing&#39;s crackdown in the Muslim-majority Xinjiang region &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221102/p50#a221102p50)
+ - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
