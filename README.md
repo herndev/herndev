@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - ⏩ [Wow](http://9gag.com/gag/a8q4pQQ)
- - 👉 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)<!-- MEMES:END -->
+ - 💣 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
+ - ⏩ [Buffalo gives you wings](http://9gag.com/gag/aA0PxN2)
+ - 👉 [We just want realistic characters](http://9gag.com/gag/aPgWBnq)<!-- MEMES:END -->
 
 ---
 
