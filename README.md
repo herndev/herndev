@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
- - [I can’t believe I waited this long to get a smartwatch](https://www.theverge.com/2022/11/3/23437270/apple-samsung-google-pixel-watch-ultra-pro-buy-a-smartwatch-not-a-phone)
- - [Eve’s sensors and smart plugs will be among the first Matter-compatible devices](https://www.theverge.com/2022/11/3/23436162/matter-support-eve-smart-plug-and-motion-sensor)<!-- TECH:END -->
+ - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)
+ - [Peloton CEO promises the company is ‘done’ with layoffs](https://www.theverge.com/2022/11/3/23438486/peloton-q1-2023-earnings-barry-mccarthy)
+ - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
