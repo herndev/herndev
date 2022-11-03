@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony’s 2022 flagships are now getting Android 13](https://www.androidauthority.com/sony-xperia-1-iv-xperia-5-iv-android-13-3230651/)
- - [Gmail now shows package delivery information for order confirmation emails as a label under sender name which is continuously updated as the order progresses &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p2#a221103p2)
- - [Whenever US politicians talk about regulating websites or changing Section 230, they are almost always talking about imperiling the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221103/p1#a221103p1)<!-- TECH:END -->
+ - [WhatsApp gets better for big groups with new Communities and 32-person video chats](https://www.theverge.com/2022/11/3/23437786/whatsapp-groups-communities-32-person-video-chats-1024-person)
+ - [Google’s new Pixel referral program can make you a sweet $1,000](https://www.androidauthority.com/google-pixel-referral-program-3230661/)
+ - [A look at the fintech startups serving small and large US-based cannabis retailers in an industry dominated by cash, as Visa, Mastercard, and others steer clear &lpar;Helen Li/Wired&rpar;](http://www.techmeme.com/221103/p3#a221103p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
