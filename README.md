@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is title.](http://9gag.com/gag/aGED1wG)
- - ⏩ [The Shinnin!](http://9gag.com/gag/abvZq8p)
- - 👉 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)<!-- MEMES:END -->
+ - 💣 [Has classical music gone too far](http://9gag.com/gag/abvZz8r)
+ - ⏩ [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
+ - 👉 [Check those if you&#39;re bored.](http://9gag.com/gag/aEqn1Go)<!-- MEMES:END -->
 
 ---
 
