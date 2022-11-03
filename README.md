@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is title.](http://9gag.com/gag/aGED1wG)
- - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
- - 👉 [The Shinnin!](http://9gag.com/gag/abvZq8p)<!-- MEMES:END -->
+ - 💣 [We need more scenes like this](http://9gag.com/gag/axoD1xM)
+ - ⏩ [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
+ - 👉 [Couple recovering from COVID put bowl of candy out for kids\u2026](http://9gag.com/gag/aPgW4yg)<!-- MEMES:END -->
 
 ---
 
