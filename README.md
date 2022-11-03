@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
- - ⏩ [Buffalo gives you wings](http://9gag.com/gag/aA0PxN2)
- - 👉 [We just want realistic characters](http://9gag.com/gag/aPgWBnq)<!-- MEMES:END -->
+ - 💣 [This is title.](http://9gag.com/gag/aGED1wG)
+ - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
+ - 👉 [The Shinnin!](http://9gag.com/gag/abvZq8p)<!-- MEMES:END -->
 
 ---
 
