@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korea-based Wemade, which develops the Wemix blockchain gaming platform, raised ~$46M from Microsoft, Shinhan Asset Management, and Kiwoom Securities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221102/p46#a221102p46)
- - [Sources: Twitter aims to charge for verification as soon as November 7, with a grace period for current verified users, and give all users edit button access &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p45#a221102p45)
- - [Sources: Elon Musk plans to cut ~3,700 jobs at Twitter, half of the company&#39;s workforce, starting November 4, and reverse its existing work-from-anywhere policy &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p44#a221102p44)<!-- TECH:END -->
+ - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)
+ - [Meta updates Stars on Facebook including testing automatic onboarding for creators, bringing Stars to images and text, and Stars Party to Facebook Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p48#a221102p48)
+ - [How to avoid rashes and skin irritation when wearing your Apple Watch](https://www.androidauthority.com/how-to-avoid-apple-watch-rash-3230433/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
