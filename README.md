@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In his garage](http://9gag.com/gag/adPXLKj)
- - ⏩ [Fela Pure](http://9gag.com/gag/anz1MP5)
- - 👉 [See comments](http://9gag.com/gag/avQnOKE)<!-- MEMES:END -->
+ - 💣 [Check those if you&#39;re bored.](http://9gag.com/gag/aEqn1Go)
+ - ⏩ [We need more scenes like this](http://9gag.com/gag/axoD1xM)
+ - 👉 [Ouch my back !](http://9gag.com/gag/aGEDxjG)<!-- MEMES:END -->
 
 ---
 
