@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Level locks had a secret Thread radio this whole time](https://www.theverge.com/2022/11/3/23438752/level-locks-thread-matter-firmware-update-google-samsung)
- - [Level Lock Plus review: Home Key now, Thread soon](https://www.theverge.com/23434755/level-lock-plus-review-apple-home-key-smart-lock)
- - [God of War Ragnarök is what God of War is supposed to be](https://www.theverge.com/23437043/god-of-war-ragnarok-review-sony-ps5)<!-- TECH:END -->
+ - [Police and other sources say Block&#39;s Cash App has become one of the primary payment tools for sex traffickers, including due to lax user ID rules &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/221103/p25#a221103p25)
+ - [OpenAI opens up AI text-to-image generation to businesses with launch of DALL-E API](https://www.theverge.com/2022/11/3/23438604/text-to-image-ai-openai-dall-e-api-public-beta-price)
+ - [Manchester City launches a new wearable performance tracker](https://www.theverge.com/2022/11/3/23437283/manchester-city-wearable-tracker-soccer-cityplay)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
