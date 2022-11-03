@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Man steals three Macs in armed robbery of Clarendon Apple Store](https://appleinsider.com/articles/22/11/03/man-steals-three-macs-in-armed-robbery-of-clarendon-apple-store?utm_medium=rss)
- - [Fintech in Latin America and Africa Is Breaking the Mold](https://www.wired.com/story/fintech-latin-america-banking-opportunities/)
- - [Twitter Is Changing Fast. Here&#39;s What Could Happen Next](https://www.wired.com/story/gadget-lab-podcast-573/)<!-- TECH:END -->
+ - [The best smartwatches for keeping track of your health](https://www.androidauthority.com/best-smartwatch-health-monitoring-3224222/)
+ - [Philips Hue Bridge is now Matter certified](https://www.theverge.com/2022/11/3/23438437/philips-hue-bridge-matter-certified-smart-home-update)
+ - [I wish the Pixel Watch app was as powerful as the Galaxy Watch app](https://www.androidauthority.com/pixel-watch-app-vs-galaxy-watch-app-3229843/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
