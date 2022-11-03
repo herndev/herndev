@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
- - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
- - 👉 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)<!-- MEMES:END -->
+ - 💣 [See comments](http://9gag.com/gag/avQnOKE)
+ - ⏩ [Did he just\u2026.](http://9gag.com/gag/aME9YeW)
+ - 👉 [Noooooo](http://9gag.com/gag/a9qYRZK)<!-- MEMES:END -->
 
 ---
 
