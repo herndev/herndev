@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Police and other sources say Block&#39;s Cash App has become one of the primary payment tools for sex traffickers, including due to lax user ID rules &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/221103/p25#a221103p25)
- - [OpenAI opens up AI text-to-image generation to businesses with launch of DALL-E API](https://www.theverge.com/2022/11/3/23438604/text-to-image-ai-openai-dall-e-api-public-beta-price)
- - [Manchester City launches a new wearable performance tracker](https://www.theverge.com/2022/11/3/23437283/manchester-city-wearable-tracker-soccer-cityplay)<!-- TECH:END -->
+ - [Apple can&#39;t make enough of the iPhone 14 Pro to meet demand](https://appleinsider.com/articles/22/11/03/apple-cant-make-enough-of-the-iphone-14-pro-to-meet-demand?utm_medium=rss)
+ - [iOS 16.2 surfaces relevant Apple News stories in the Weather app](https://appleinsider.com/articles/22/11/03/ios-162-surfaces-relevant-apple-news-stories-in-the-weather-app?utm_medium=rss)
+ - [AirPods Max noise isolation reduction may be related to ongoing court battle](https://appleinsider.com/articles/22/11/03/airpods-max-noise-isolation-reduction-may-be-related-to-ongoing-court-battle?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
