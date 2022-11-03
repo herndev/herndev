@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [New discovery behind a huge painting - Church of Saint George \u2018Maggiore\u2019 in Naples, Italy](http://9gag.com/gag/agoGY0x)
- - ⏩ [Ancient Romans entering a new country be like:](http://9gag.com/gag/a8q4ymO)
+ - ⏩ [Yeah, Neg....](http://9gag.com/gag/agoGYWW)
  - 👉 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)<!-- MEMES:END -->
 
 ---
