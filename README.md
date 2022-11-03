@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - ⏩ [We need more scenes like this](http://9gag.com/gag/axoD1xM)
- - 👉 [Ouch my back !](http://9gag.com/gag/aGEDxjG)<!-- MEMES:END -->
+ - 💣 [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - ⏩ [Its not bait...](http://9gag.com/gag/ajVDD9w)
+ - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
 
 ---
 
