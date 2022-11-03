@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Marvel’s Black Panther: Wakanda Forever Empower Heroes in Gaming and STEM](https://news.xbox.com/en-us/2022/11/03/xbox-and-black-panther-wakanda-forever-empower-heroes-in-gaming-and-stem/)
- - [Shuhei Yoshida recommends 10 games from the PlayStation Plus Premium Classics Catalog](https://blog.playstation.com/2022/11/02/shuhei-yoshida-recommends-10-games-from-the-playstation-plus-premium-classics-catalog/)
- - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)<!-- GAME:END -->
+ - [Fight for the Future in ‘Return of the Damned’, Sea of Thieves’ Ninth Adventure, Live Until November 17](https://news.xbox.com/en-us/2022/11/03/fight-for-the-future-in-return-of-the-damned-sea-of-thieves-ninth-adventure-live-until-november-17/)
+ - [PlayStation Studios Extra Life Game Day Livestream Event, Saturday November 5](https://blog.playstation.com/2022/11/03/playstation-studios-extra-life-game-day-livestream-event-saturday-november-5/)
+ - [Xbox and Marvel’s Black Panther: Wakanda Forever Empower Heroes in Gaming and STEM](https://news.xbox.com/en-us/2022/11/03/xbox-and-black-panther-wakanda-forever-empower-heroes-in-gaming-and-stem/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
