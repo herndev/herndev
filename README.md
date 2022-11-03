@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp gets better for big groups with new Communities and 32-person video chats](https://www.theverge.com/2022/11/3/23437786/whatsapp-groups-communities-32-person-video-chats-1024-person)
- - [Google’s new Pixel referral program can make you a sweet $1,000](https://www.androidauthority.com/google-pixel-referral-program-3230661/)
- - [A look at the fintech startups serving small and large US-based cannabis retailers in an industry dominated by cash, as Visa, Mastercard, and others steer clear &lpar;Helen Li/Wired&rpar;](http://www.techmeme.com/221103/p3#a221103p3)<!-- TECH:END -->
+ - [Aqara’s Matter transition begins in December with free hub update](https://www.theverge.com/2022/11/3/23436897/aqara-matter-dates-update-hub-m3-thread)
+ - [WhatsApp Is Rolling Out Large-Group &#39;Communities,&#39; 32-Person Video Chats     - CNET](https://www.cnet.com/tech/mobile/whatsapp-is-rolling-out-large-group-communities-32-person-video-chats/#ftag=CAD590a51e)
+ - [WhatsApp gets better for big groups with new Communities and 32-person video chats](https://www.theverge.com/2022/11/3/23437786/whatsapp-groups-communities-32-person-video-chats-1024-person)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
