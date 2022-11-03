@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True love](http://9gag.com/gag/a7qdyYx)
- - ⏩ [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
- - 👉 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
+ - 💣 [In his garage](http://9gag.com/gag/adPXLKj)
+ - ⏩ [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 👉 [See comments](http://9gag.com/gag/avQnOKE)<!-- MEMES:END -->
 
 ---
 
