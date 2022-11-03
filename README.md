@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fela Pure](http://9gag.com/gag/anz1MP5)
- - ⏩ [Its not bait...](http://9gag.com/gag/ajVDD9w)
- - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
+ - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
+ - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
 
 ---
 
