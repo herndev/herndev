@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta is letting select Instagram US creators test a toolkit for minting NFTs and selling them on and off the platform, and says it won&#39;t charge fees until 2024 &lpar;Kate Irwin/Decrypt&rpar;](http://www.techmeme.com/221102/p42#a221102p42)
- - [Qualcomm will provide 5G modems for 2023 iPhone line](https://appleinsider.com/articles/22/11/02/qualcomm-will-provide-5g-modems-for-2023-iphone-line?utm_medium=rss)
- - [Qualcomm expects to provide modem chips for the &quot;vast majority&quot; of iPhones in 2023, retaining its current foothold after previously planning to supply ~20% &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221102/p41#a221102p41)<!-- TECH:END -->
+ - [Black Friday 2022: The best deals in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [Sources: the US DOJ is preparing to open an in-depth probe into Adobe&#39;s $20B takeover of Figma and has been contacting customers, competitors, and investors &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/221102/p43#a221102p43)
+ - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plot, a Torturous Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plot-a-torturous-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
