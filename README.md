@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is music today](http://9gag.com/gag/aL19PXg)
- - ⏩ [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)
- - 👉 [Black on black](http://9gag.com/gag/adPXp9N)<!-- MEMES:END -->
+ - 💣 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
+ - ⏩ [Into the nut](http://9gag.com/gag/armNpVy)
+ - 👉 [So much going on..](http://9gag.com/gag/a6qQbYN)<!-- MEMES:END -->
 
 ---
 
