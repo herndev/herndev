@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Check those if you&#39;re bored.](http://9gag.com/gag/aEqn1Go)
+ - 💣 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
  - ⏩ [We need more scenes like this](http://9gag.com/gag/axoD1xM)
  - 👉 [Ouch my back !](http://9gag.com/gag/aGEDxjG)<!-- MEMES:END -->
 
