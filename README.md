@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple can&#39;t make enough of the iPhone 14 Pro to meet demand](https://appleinsider.com/articles/22/11/03/apple-cant-make-enough-of-the-iphone-14-pro-to-meet-demand?utm_medium=rss)
- - [iOS 16.2 surfaces relevant Apple News stories in the Weather app](https://appleinsider.com/articles/22/11/03/ios-162-surfaces-relevant-apple-news-stories-in-the-weather-app?utm_medium=rss)
- - [AirPods Max noise isolation reduction may be related to ongoing court battle](https://appleinsider.com/articles/22/11/03/airpods-max-noise-isolation-reduction-may-be-related-to-ongoing-court-battle?utm_medium=rss)<!-- TECH:END -->
+ - [Google details an AI model trained on 400+ languages with the largest &quot;coverage seen in a speech model&quot; and plans to expand to the 1,000 most spoken languages &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221103/p30#a221103p30)
+ - [With Netflix’s ads tier, you never know what you’re going to get](https://www.theverge.com/2022/11/3/23438971/netflix-basic-with-ads-what-you-cant-watch-padlock)
+ - [The Blue Check Rapture Will Render Verification Meaningless](https://www.wired.com/story/twitter-elon-musk-verification/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
