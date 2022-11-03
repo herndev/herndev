@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google details an AI model trained on 400+ languages with the largest &quot;coverage seen in a speech model&quot; and plans to expand to the 1,000 most spoken languages &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221103/p30#a221103p30)
- - [With Netflix’s ads tier, you never know what you’re going to get](https://www.theverge.com/2022/11/3/23438971/netflix-basic-with-ads-what-you-cant-watch-padlock)
- - [The Blue Check Rapture Will Render Verification Meaningless](https://www.wired.com/story/twitter-elon-musk-verification/)<!-- TECH:END -->
+ - [AirPods Max noise isolation reduction may be related to ongoing court battle](https://appleinsider.com/articles/22/11/03/airpods-max-noise-isolation-reduction-may-be-related-to-ongoing-court-battle?utm_medium=rss)
+ - [The next attempt to launch the Artemis I mission will be at night](https://www.theverge.com/2022/11/3/23439179/artemis-1-night-launch-nasa-sls)
+ - [Blood oxygen monitors face scrutiny from FDA panel](https://www.theverge.com/2022/11/3/23438808/blood-oxygen-monitor-fda-bias-regulation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
