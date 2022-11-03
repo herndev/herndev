@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Chant: Will You Awaken from this Spiritual Nightmare](https://news.xbox.com/en-us/2022/11/03/the-chant-will-you-awaken-from-this-spiritual-nightmare/)
  - [Compete Against Other Drivers in a New Timeless League Mode of WRC Generations](https://news.xbox.com/en-us/2022/11/03/compete-against-other-drivers-in-a-new-timeless-league-mode-of-wrc-generations/)
- - [How Forspoken’s combat works, and why it looks so magical](https://blog.playstation.com/2022/11/03/how-forspokens-combat-works-and-why-it-looks-so-magical/)
- - [Free Play Days – Control, Serial Cleaner, and NHRA Championship Drag Racing: Speed for All](https://news.xbox.com/en-us/2022/11/03/free-play-days-control-serial-cleaner-and-nhra-championship-drag-racing-speed-for-all/)<!-- GAME:END -->
+ - [How Forspoken’s combat works, and why it looks so magical](https://blog.playstation.com/2022/11/03/how-forspokens-combat-works-and-why-it-looks-so-magical/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
