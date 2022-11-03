@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Patreon’s long-awaited video hosting feature is finally rolling out to creators](https://www.theverge.com/2022/11/3/23434877/patreon-video-hosting-product-launch-vimeo-youtube)
- - [Meta AI researchers unveil Encodec, a neural network trained to compress audio at a ~10x rate compared with the MP3 format at 64Kbps, without a loss in quality &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221103/p9#a221103p9)
- - [Preqin: Chinese VC deals fell 44% YoY in October to $62.1B, of which $7.9B went to semiconductor companies, up from $6.3B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221103/p8#a221103p8)<!-- TECH:END -->
+ - [Mercedes-Benz won’t follow Tesla into the robotaxi game](https://www.theverge.com/2022/11/3/23428419/mercedes-benz-cto-interview-ev-robotaxi-level-3)
+ - [Patreon launches a native ad-free video hosting tool for creators, expanding on support for third-party players, available to a select group in beta &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221103/p10#a221103p10)
+ - [Huawei’s new foldable Pocket S combines a familiar design with a lower price](https://www.theverge.com/2022/11/3/23438350/huaweis-pocket-s-clamshell-foldable-price-release-date-specs-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
