@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [FIFA 23&#39;s World Cup Trailer Gleefully Helps Sportswash A Deeply Controversial Tournament](https://kotaku.com/fifa-23-world-cup-qatar-ea-sports-2022-sportswashing-1849730689)
  - [Shuhei Yoshida recommends 10 games from the PlayStation Plus Premium Classics Catalog](https://blog.playstation.com/2022/11/02/shuhei-yoshida-recommends-10-games-from-the-playstation-plus-premium-classics-catalog/)
- - [Forget combat, we asked the devs behind this upcoming RPG how they&#39;re including jobs like &#39;doctor&#39; and &#39;orator&#39;](https://www.pcgamer.com/where-winds-meet-jobs-interview)<!-- GAME:END -->
+ - [Announcing Xbox FanFest Trivia 2022](https://news.xbox.com/en-us/2022/11/02/announcing-xbox-fan-fest-trivia-2022/)
+ - [Bringing characters to life in Sonic Frontiers](https://blog.playstation.com/2022/11/02/bringing-characters-to-life-in-sonic-frontiers/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
