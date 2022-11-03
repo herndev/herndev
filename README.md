@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
- - ⏩ [Play stupid games win stupid prizes](http://9gag.com/gag/aVbeeb2)
- - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
+ - 💣 [Save water](http://9gag.com/gag/ap9L238)
+ - ⏩ [Fela Pure](http://9gag.com/gag/anz1MP5)
+ - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
 
 ---
 
