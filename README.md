@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Has classical music gone too far](http://9gag.com/gag/abvZz8r)
- - ⏩ [Footage of lone crowd controlling officer asking for cooperation at Deathly Halloween of Itaewon 2022.](http://9gag.com/gag/aA0PVG0)
- - 👉 [Check those if you&#39;re bored.](http://9gag.com/gag/aEqn1Go)<!-- MEMES:END -->
+ - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
+ - 👉 [When you forgot put any point on intelligance in character creator](http://9gag.com/gag/a2K54b1)<!-- MEMES:END -->
 
 ---
 
