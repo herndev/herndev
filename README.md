@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)
- - [Peloton CEO promises the company is ‘done’ with layoffs](https://www.theverge.com/2022/11/3/23438486/peloton-q1-2023-earnings-barry-mccarthy)
- - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)<!-- TECH:END -->
+ - [Level locks had a secret Thread radio this whole time](https://www.theverge.com/2022/11/3/23438752/level-locks-thread-matter-firmware-update-google-samsung)
+ - [Level Lock Plus review: Home Key now, Thread soon](https://www.theverge.com/23434755/level-lock-plus-review-apple-home-key-smart-lock)
+ - [God of War Ragnarök is what God of War is supposed to be](https://www.theverge.com/23437043/god-of-war-ragnarok-review-sony-ps5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
