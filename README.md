@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara’s Matter transition begins in December with free hub update](https://www.theverge.com/2022/11/3/23436897/aqara-matter-dates-update-hub-m3-thread)
- - [WhatsApp Is Rolling Out Large-Group &#39;Communities,&#39; 32-Person Video Chats     - CNET](https://www.cnet.com/tech/mobile/whatsapp-is-rolling-out-large-group-communities-32-person-video-chats/#ftag=CAD590a51e)
- - [WhatsApp gets better for big groups with new Communities and 32-person video chats](https://www.theverge.com/2022/11/3/23437786/whatsapp-groups-communities-32-person-video-chats-1024-person)<!-- TECH:END -->
+ - [Daily Authority: 🎮 PSVR 2 price shock](https://www.androidauthority.com/daily-authority-november-3-2022-3230056/)
+ - [TikTok plans to update its privacy policy on December 2 to confirm that its staff outside of Europe, including in China, can access the data of European users &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221103/p5#a221103p5)
+ - [WhatsApp announces Communities, a group messaging feature for larger, more structured groups of up to 1,024 people, rolling out worldwide in the coming months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p4#a221103p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
