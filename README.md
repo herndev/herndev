@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mercedes-Benz won’t follow Tesla into the robotaxi game](https://www.theverge.com/2022/11/3/23428419/mercedes-benz-cto-interview-ev-robotaxi-level-3)
- - [Patreon launches a native ad-free video hosting tool for creators, expanding on support for third-party players, available to a select group in beta &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221103/p10#a221103p10)
- - [Huawei’s new foldable Pocket S combines a familiar design with a lower price](https://www.theverge.com/2022/11/3/23438350/huaweis-pocket-s-clamshell-foldable-price-release-date-specs-features)<!-- TECH:END -->
+ - [Man steals three Macs in armed robbery of Clarendon Apple Store](https://appleinsider.com/articles/22/11/03/man-steals-three-macs-in-armed-robbery-of-clarendon-apple-store?utm_medium=rss)
+ - [Fintech in Latin America and Africa Is Breaking the Mold](https://www.wired.com/story/fintech-latin-america-banking-opportunities/)
+ - [Twitter Is Changing Fast. Here&#39;s What Could Happen Next](https://www.wired.com/story/gadget-lab-podcast-573/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
