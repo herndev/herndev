@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Black on black](http://9gag.com/gag/adPXp9N)
- - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
- - 👉 [Oliver Kahn once played in a penalty shootout against a group of 9 year olds. For every penalty scored by the kids, money was given to a charity. Kahn saved every penalty.](http://9gag.com/gag/aXnwqpv)<!-- MEMES:END -->
+ - 💣 [That\u2019s just brilliant!](http://9gag.com/gag/a6qQKy8)
+ - ⏩ [Noooooo](http://9gag.com/gag/a9qYRZK)
+ - 👉 [Is this a trick or treat??](http://9gag.com/gag/amAzBRV)<!-- MEMES:END -->
 
 ---
 
