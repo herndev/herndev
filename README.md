@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Free Play Days – Control, Serial Cleaner, and NHRA Championship Drag Racing: Speed for All](https://news.xbox.com/en-us/2022/11/03/free-play-days-control-serial-cleaner-and-nhra-championship-drag-racing-speed-for-all/)
  - [Fight for the Future in ‘Return of the Damned’, Sea of Thieves’ Ninth Adventure, Live Until November 17](https://news.xbox.com/en-us/2022/11/03/fight-for-the-future-in-return-of-the-damned-sea-of-thieves-ninth-adventure-live-until-november-17/)
- - [PlayStation Studios Extra Life Game Day Livestream Event, Saturday November 5](https://blog.playstation.com/2022/11/03/playstation-studios-extra-life-game-day-livestream-event-saturday-november-5/)
- - [Xbox and Marvel’s Black Panther: Wakanda Forever Empower Heroes in Gaming and STEM](https://news.xbox.com/en-us/2022/11/03/xbox-and-black-panther-wakanda-forever-empower-heroes-in-gaming-and-stem/)<!-- GAME:END -->
+ - [PlayStation Studios Extra Life Game Day Livestream Event, Saturday November 5](https://blog.playstation.com/2022/11/03/playstation-studios-extra-life-game-day-livestream-event-saturday-november-5/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
