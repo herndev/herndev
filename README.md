@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
- - ⏩ [We need more scenes like this](http://9gag.com/gag/axoD1xM)
- - 👉 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
+ - 💣 [True love](http://9gag.com/gag/a7qdyYx)
+ - ⏩ [BEWARE! No lock is safe with that special key!](http://9gag.com/gag/aoKp21e)
+ - 👉 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
 
 ---
 
