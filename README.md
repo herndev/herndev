@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New discovery behind a huge painting - Church of Saint George \u2018Maggiore\u2019 in Naples, Italy](http://9gag.com/gag/agoGY0x)
- - ⏩ [Yeah, Neg....](http://9gag.com/gag/agoGYWW)
- - 👉 [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)<!-- MEMES:END -->
+ - 💣 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
+ - ⏩ [True love](http://9gag.com/gag/a7qdyYx)
+ - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
 
 ---
 
