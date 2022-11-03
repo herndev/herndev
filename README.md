@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)
- - ⏩ [Into the nut](http://9gag.com/gag/armNpVy)
- - 👉 [So much going on..](http://9gag.com/gag/a6qQbYN)<!-- MEMES:END -->
+ - 💣 [This is title.](http://9gag.com/gag/aGED1wG)
+ - ⏩ [The Shinnin!](http://9gag.com/gag/abvZq8p)
+ - 👉 [Kung fu master solving problem with class](http://9gag.com/gag/awZV7vx)<!-- MEMES:END -->
 
 ---
 
