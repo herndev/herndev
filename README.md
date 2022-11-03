@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🎮 PSVR 2 price shock](https://www.androidauthority.com/daily-authority-november-3-2022-3230056/)
- - [TikTok plans to update its privacy policy on December 2 to confirm that its staff outside of Europe, including in China, can access the data of European users &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221103/p5#a221103p5)
- - [WhatsApp announces Communities, a group messaging feature for larger, more structured groups of up to 1,024 people, rolling out worldwide in the coming months &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221103/p4#a221103p4)<!-- TECH:END -->
+ - [Patreon’s long-awaited video hosting feature is finally rolling out to creators](https://www.theverge.com/2022/11/3/23434877/patreon-video-hosting-product-launch-vimeo-youtube)
+ - [Meta AI researchers unveil Encodec, a neural network trained to compress audio at a ~10x rate compared with the MP3 format at 64Kbps, without a loss in quality &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221103/p9#a221103p9)
+ - [Preqin: Chinese VC deals fell 44% YoY in October to $62.1B, of which $7.9B went to semiconductor companies, up from $6.3B in 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221103/p8#a221103p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
