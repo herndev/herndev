@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best smartwatches for keeping track of your health](https://www.androidauthority.com/best-smartwatch-health-monitoring-3224222/)
- - [Philips Hue Bridge is now Matter certified](https://www.theverge.com/2022/11/3/23438437/philips-hue-bridge-matter-certified-smart-home-update)
- - [I wish the Pixel Watch app was as powerful as the Galaxy Watch app](https://www.androidauthority.com/pixel-watch-app-vs-galaxy-watch-app-3229843/)<!-- TECH:END -->
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
+ - [I can’t believe I waited this long to get a smartwatch](https://www.theverge.com/2022/11/3/23437270/apple-samsung-google-pixel-watch-ultra-pro-buy-a-smartwatch-not-a-phone)
+ - [Eve’s sensors and smart plugs will be among the first Matter-compatible devices](https://www.theverge.com/2022/11/3/23436162/matter-support-eve-smart-plug-and-motion-sensor)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
