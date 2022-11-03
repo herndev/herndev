@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Experts say the vast majority of independent Uyghur-run websites have ceased to exist, as Beijing&#39;s crackdown in the Muslim-majority Xinjiang region unfolded &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221102/p50#a221102p50)
  - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)
- - [Meta updates Stars on Facebook including testing automatic onboarding for creators, bringing Stars to images and text, and Stars Party to Facebook Reels &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p48#a221102p48)
- - [How to avoid rashes and skin irritation when wearing your Apple Watch](https://www.androidauthority.com/how-to-avoid-apple-watch-rash-3230433/)<!-- TECH:END -->
+ - [Twitter-Elon Musk Timeline: Layoffs May Hit Half of Workforce     - CNET](https://www.cnet.com/news/social-media/twitter-elon-musk-timeline-layoffs-may-hit-half-of-workforce/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
