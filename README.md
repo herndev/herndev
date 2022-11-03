@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Facebook expands its Professional Mode, giving all creators globally a chance to earn money with various tools, including Reels Play bonuses and subscriptions &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221102/p51#a221102p51)
- - [Experts say the vast majority of independent Uyghur-run websites have ceased to exist after Beijing&#39;s crackdown in the Muslim-majority Xinjiang region &lpar;Masha Borak/Wired&rpar;](http://www.techmeme.com/221102/p50#a221102p50)
- - [Google debuts Code as Policies which uses AI models to generate code for robots to perform a variety of tasks, under an open-source license on GitHub &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221102/p49#a221102p49)<!-- TECH:END -->
+ - [Whenever US politicians talk about regulating websites or changing Section 230, they are almost always talking about imperiling the First Amendment &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221103/p1#a221103p1)
+ - [Living With a Blanket Hog? Here&#39;s Why You Should Sleep With 2 Comforters     - CNET](https://www.cnet.com/health/sleep/heres-why-you-should-sleep-with-two-comforters/#ftag=CAD590a51e)
+ - [Cricket&#39;s New App Lets Unlocked iPhone Users Trial AT&amp;T&#39;s Network For Two Weeks     - CNET](https://www.cnet.com/tech/mobile/crickets-new-app-lets-unlocked-iphone-users-trial-at-ts-network-for-two-weeks/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
