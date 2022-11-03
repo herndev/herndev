@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Persevere or Perish in Shattered Hope, the Second Expansion for Surviving the Aftermath](https://news.xbox.com/en-us/2022/11/03/persevere-or-perish-in-shattered-hope-the-second-expansion-for-surviving-the-aftermath/)
  - [The Chant: Will You Awaken from this Spiritual Nightmare](https://news.xbox.com/en-us/2022/11/03/the-chant-will-you-awaken-from-this-spiritual-nightmare/)
- - [Compete Against Other Drivers in a New Timeless League Mode of WRC Generations](https://news.xbox.com/en-us/2022/11/03/compete-against-other-drivers-in-a-new-timeless-league-mode-of-wrc-generations/)
- - [How Forspoken’s combat works, and why it looks so magical](https://blog.playstation.com/2022/11/03/how-forspokens-combat-works-and-why-it-looks-so-magical/)<!-- GAME:END -->
+ - [Compete Against Other Drivers in a New Timeless League Mode of WRC Generations](https://news.xbox.com/en-us/2022/11/03/compete-against-other-drivers-in-a-new-timeless-league-mode-of-wrc-generations/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
