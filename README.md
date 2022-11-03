@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase Q3: net revenue down 28% QoQ to $576M, net loss down 50% to $545M, subscription and services revenue up 43%, and monthly transacting users down to 8.5M &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221103/p34#a221103p34)
- - [DoorDash reports Q3 revenue up 33% YoY to $1.7B, orders up 27% YoY to 439M, and net loss up 193% YoY to $296M; the stock jumps 15%+ on strong Q4 guidance &lpar;Preetika Rana/Wall Street Journal&rpar;](http://www.techmeme.com/221103/p33#a221103p33)
- - [Nanoleaf announces new Matter lights, won&#39;t update existing Essentials line](https://appleinsider.com/articles/22/11/03/nanoleaf-announces-new-matter-lights-wont-update-existing-essentials-line?utm_medium=rss)<!-- TECH:END -->
+ - [PayPal to add Tap to Pay on iPhone, Apple Pay, and Wallet support](https://appleinsider.com/articles/22/11/03/paypal-to-add-tap-to-pay-on-iphone-apple-pay-and-wallet-support?utm_medium=rss)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Latest OnePlus 8 update has October patch, fixes bugs in screen and camera](https://www.androidauthority.com/oneplus-8-pro-update-1108368/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
