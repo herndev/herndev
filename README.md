@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2022: The best deals in the early sales](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [Sources: the US DOJ is preparing to open an in-depth probe into Adobe&#39;s $20B takeover of Figma and has been contacting customers, competitors, and investors &lpar;Josh Sisco/Politico&rpar;](http://www.techmeme.com/221102/p43#a221102p43)
- - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plot, a Torturous Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plot-a-torturous-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korea-based Wemade, which develops the Wemix blockchain gaming platform, raised ~$46M from Microsoft, Shinhan Asset Management, and Kiwoom Securities &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221102/p46#a221102p46)
+ - [Sources: Twitter aims to charge for verification as soon as November 7, with a grace period for current verified users, and give all users edit button access &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p45#a221102p45)
+ - [Sources: Elon Musk plans to cut ~3,700 jobs at Twitter, half of the company&#39;s workforce, starting November 4, and reverse its existing work-from-anywhere policy &lpar;Bloomberg&rpar;](http://www.techmeme.com/221102/p44#a221102p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
