@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We need more scenes like this](http://9gag.com/gag/axoD1xM)
- - ⏩ [What in the actual f**ky f**k is this](http://9gag.com/gag/aDYGGjZ)
- - 👉 [Couple recovering from COVID put bowl of candy out for kids\u2026](http://9gag.com/gag/aPgW4yg)<!-- MEMES:END -->
+ - 💣 [People born with Anonychia do not have fingernails and cannot grow them](http://9gag.com/gag/aQExnnW)
+ - ⏩ [We need more scenes like this](http://9gag.com/gag/axoD1xM)
+ - 👉 [Politician sexually assaulted by a woman](http://9gag.com/gag/a2K5PdY)<!-- MEMES:END -->
 
 ---
 
