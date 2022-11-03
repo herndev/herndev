@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
- - ⏩ [True love](http://9gag.com/gag/a7qdyYx)
- - 👉 [Ah Burn!](http://9gag.com/gag/a5XrKgL)<!-- MEMES:END -->
+ - 💣 [Dinner with a view](http://9gag.com/gag/avQnLGZ)
+ - ⏩ [Wow](http://9gag.com/gag/a8q4pQQ)
+ - 👉 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)<!-- MEMES:END -->
 
 ---
 
