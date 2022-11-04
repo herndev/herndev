@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
- - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 👉 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 💣 [Name the band](http://9gag.com/gag/aME9Ke1)
+ - ⏩ [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
+ - 👉 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
 
 ---
 
