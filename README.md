@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal and Venmo will soon support Apple’s Tap to Pay contactless payments tech](https://www.theverge.com/2022/11/3/23439637/paypal-venmo-apple-tap-to-pay-contactless-payments-ios-apps)
- - [How to use Audio Message Transcription on Google Pixel phones](https://www.androidauthority.com/audio-message-transcription-pixel-3225866/)
- - [Apple freezes hiring outside of research and development](https://appleinsider.com/articles/22/11/03/apple-freezes-hiring-outside-of-research-and-development?utm_medium=rss)<!-- TECH:END -->
+ - [General Mills and Audi paused Twitter ads, and sources say Pfizer and Mondelez have as well, as concern over content moderation grows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221103/p40#a221103p40)
+ - [Sources: Twitter&#39;s newsletter platform Revue, acquired in early 2021, is scheduled to close by the end of the year, and its Notes product has been paused &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221103/p39#a221103p39)
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
