@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That s true with England](http://9gag.com/gag/agoGmzW)
- - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 👉 [Italian grandmother when food came out just right.](http://9gag.com/gag/aGEDyyX)<!-- MEMES:END -->
+ - 💣 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 👉 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
 
 ---
 
