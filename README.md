@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - ⏩ [Fela Pure](http://9gag.com/gag/anz1MP5)
- - 👉 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
+ - ⏩ [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - 👉 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
 
 ---
 
