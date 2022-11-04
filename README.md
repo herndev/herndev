@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Attempted robbery](http://9gag.com/gag/aKE3jX1)
- - ⏩ [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
- - 👉 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 💣 [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - ⏩ [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - 👉 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
 
 ---
 
