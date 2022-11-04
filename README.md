@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
- - [Sources: Elon Musk directed Twitter&#39;s teams to find $1B+ in annual infrastructure cost savings, including reduced spending on cloud services and server space &lpar;Reuters&rpar;](http://www.techmeme.com/221103/p43#a221103p43)
- - [The best free VPNs for your iPhone: Keep your Apple device private!](https://www.androidauthority.com/best-free-vpn-iphone-3230990/)<!-- TECH:END -->
+ - [PayPal plans to add support for iPhone&#39;s Tap to Pay feature in its PayPal and Venmo iOS apps &quot;soon&quot;, add Apple Pay to its checkout options, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221103/p44#a221103p44)
+ - [7 Fitness Goals to Set at Any Time of Year     - CNET](https://www.cnet.com/health/fitness/7-fitness-goals-to-set-for-the-new-year/#ftag=CAD590a51e)
+ - [Underground Antarctic Observatory Unlocks New Era of Ghost Particle Astronomy     - CNET](https://www.cnet.com/science/space/underground-antarctic-observatory-unlocks-new-era-of-ghost-particle-astronomy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
