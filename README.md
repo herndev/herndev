@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
  - [AMD unveils the RX 7900 XTX for $999 and the lower powered RX 7900 XT for $899, its first GPUs built on the RDNA 3 chiplet architecture, coming December 13 &lpar;The Verge&rpar;](http://www.techmeme.com/221103/p47#a221103p47)
- - [Momento, which offers a &quot;serverless cache&quot; optimized for cloud computing that it claims developers can add with ~5 lines of code, exits stealth with a $15M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221103/p46#a221103p46)<!-- TECH:END -->
+ - [Google Cooks Up Animated Doodle for West Africa&#39;s Jollof Rice     - CNET](https://www.cnet.com/culture/internet/google-cooks-up-animated-doodle-for-west-africas-jollof-rice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
