@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lookout: almost 50% of Android phones used by US state and local government staff run outdated versions of the OS, exposing them to hundreds of vulnerabilities &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221104/p5#a221104p5)
- - [Sources: China&#39;s central bank struggles to get Tencent, Meituan, and others to share user data with state credit scoring companies before the December deadline &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/221104/p4#a221104p4)
- - [We finally have a leaked launch window for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-series-february-2023-launch-3231203/)<!-- TECH:END -->
+ - [We asked, you told us: Most of you don’t send voice notes on your phone](https://www.androidauthority.com/send-voice-notes-smartphone-poll-results-3231215/)
+ - [Russia Is Ramping Up Nuclear War Propaganda](https://www.wired.com/story/russia-propaganda-ukraine-dirty-bomb/)
+ - [The Real Story of How the Weird Al Movie Scored Fake Cameos](https://www.wired.com/story/weird-al-yankovic-movie-cameos/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
