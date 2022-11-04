@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - ⏩ [Hand.exe failed to load](http://9gag.com/gag/aME9KZW)
- - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
+ - 💣 [Ukrainian warriors at Yehorivka, Donetsk Oblast, surrounded but not surrendered.](http://9gag.com/gag/aREeB5B)
+ - ⏩ [Hear me out](http://9gag.com/gag/amAzoA4)
+ - 👉 [Daddy is not Mommy](http://9gag.com/gag/a8q41K6)<!-- MEMES:END -->
 
 ---
 
