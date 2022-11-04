@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal plans to add support for iPhone&#39;s Tap to Pay feature in its PayPal and Venmo iOS apps &quot;soon&quot;, add Apple Pay to its checkout options, and more &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221103/p44#a221103p44)
- - [7 Fitness Goals to Set at Any Time of Year     - CNET](https://www.cnet.com/health/fitness/7-fitness-goals-to-set-for-the-new-year/#ftag=CAD590a51e)
- - [Underground Antarctic Observatory Unlocks New Era of Ghost Particle Astronomy     - CNET](https://www.cnet.com/science/space/underground-antarctic-observatory-unlocks-new-era-of-ghost-particle-astronomy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Momento, which offers a &quot;serverless cache&quot; optimized for cloud computing that it claims developers can add with ~5 lines of code, exits stealth with a $15M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221103/p46#a221103p46)
+ - [What&#39;s next for the Matter smart home](https://appleinsider.com/articles/22/11/04/whats-next-for-the-matter-smart-home?utm_medium=rss)
+ - [Atlassian reports Q1 revenue of $807.4M, up 31% YoY, and forecasts lower than expected Q2 revenue; stock is down 20%+, after having fallen 54% already this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221103/p45#a221103p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
