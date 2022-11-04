@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Momento, which offers a &quot;serverless cache&quot; optimized for cloud computing that it claims developers can add with ~5 lines of code, exits stealth with a $15M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221103/p46#a221103p46)
- - [What&#39;s next for the Matter smart home](https://appleinsider.com/articles/22/11/04/whats-next-for-the-matter-smart-home?utm_medium=rss)
- - [Atlassian reports Q1 revenue of $807.4M, up 31% YoY, and forecasts lower than expected Q2 revenue; stock is down 20%+, after having fallen 54% already this year &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221103/p45#a221103p45)<!-- TECH:END -->
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
+ - [AMD unveils the RX 7900 XTX for $999 and the lower powered RX 7900 XT for $899, its first GPUs built on the RDNA 3 chiplet architecture, coming December 13 &lpar;The Verge&rpar;](http://www.techmeme.com/221103/p47#a221103p47)
+ - [Momento, which offers a &quot;serverless cache&quot; optimized for cloud computing that it claims developers can add with ~5 lines of code, exits stealth with a $15M seed &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221103/p46#a221103p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
