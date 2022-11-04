@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We finally have a leaked launch window for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-series-february-2023-launch-3231203/)
- - [Oppo Find X6 Pro specs leak: Joining the one-inch camera club](https://www.androidauthority.com/oppo-find-x6-pro-specs-3231195/)
- - [A look at the promise and peril of generative AI, as Microsoft plans to develop GitHub Copilot for other job categories, like security and video game design &lpar;Dina Bass/Bloomberg&rpar;](http://www.techmeme.com/221104/p3#a221104p3)<!-- TECH:END -->
+ - [Lookout: almost 50% of Android phones used by US state and local government staff run outdated versions of the OS, exposing them to hundreds of vulnerabilities &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221104/p5#a221104p5)
+ - [Sources: China&#39;s central bank struggles to get Tencent, Meituan, and others to share user data with state credit scoring companies before the December deadline &lpar;Sun Yu/Financial Times&rpar;](http://www.techmeme.com/221104/p4#a221104p4)
+ - [We finally have a leaked launch window for the Galaxy S23 series](https://www.androidauthority.com/samsung-galaxy-s23-series-february-2023-launch-3231203/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
