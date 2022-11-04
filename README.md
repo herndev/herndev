@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Tiangong Space Station Makes China a Major Space Power](https://www.wired.com/story/china-is-now-a-major-space-power-tiangong-space-station/)
- - [Now’s the time to buy last year’s iPad](https://www.theverge.com/2022/11/4/23439082/ipad-apple-tablets-10th-gen-buy-last-years-instead-new)
- - [How Marvel Snap was designed to fit into your life](https://www.theverge.com/23437497/marvel-snap-developer-design-interview-mobile-steam)<!-- TECH:END -->
+ - [Worms, the Internet, and the End of Reality](https://www.wired.com/story/end-of-reality/)
+ - [The Google Home app on the Pixel Watch is a good start, but I want more](https://www.androidauthority.com/google-home-pixel-watch-3230218/)
+ - [Elon Musk’s Need for Speed Puts Twitter in Peril](https://www.wired.com/story/plaintext-elon-musks-need-for-speed-puts-twitter-in-peril/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
