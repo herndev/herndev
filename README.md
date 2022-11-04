@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In his garage](http://9gag.com/gag/adPXLKj)
- - ⏩ [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
- - 👉 [Train shenanigans\u2026](http://9gag.com/gag/a8q4EDQ)<!-- MEMES:END -->
+ - 💣 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - ⏩ [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
+ - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
 
 ---
 
