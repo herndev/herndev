@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter has been sued in San Francisco federal court for conducting mass layoffs without providing the required notice of at least 60 days under the WARN Act &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/221104/p1#a221104p1)
- - [Netflix’s cheaper plan with ads may not work on your device](https://www.androidauthority.com/netflixs-basic-with-ads-plan-supported-devices-3231151/)
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)<!-- TECH:END -->
+ - [Combined capital spending by Alphabet, Amazon, Apple, Meta, and Microsoft grew 32% in 2021, same as in 2020, to $140B, and 20% in the first nine months of 2022 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221104/p2#a221104p2)
+ - [Samsung apparently knows Apple’s first foldable won’t be an iPhone](https://www.androidauthority.com/samsung-vs-apple-foldable-3231174/)
+ - [Twitter workers file a class-action lawsuit against the company in San Francisco for mounting mass layoffs without at least 60 days&#39; notice, per the WARN Act &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/221104/p1#a221104p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
