@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 2022 iPad Pro gets $50 price drop on Amazon in latest early Black Friday deal](https://appleinsider.com/articles/22/11/04/apples-2022-ipad-pro-gets-50-price-drop-on-amazon-in-latest-early-black-friday-deal?utm_medium=rss)
- - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
- - [Bird steals a reporter&#39;s AirPod live on air](https://appleinsider.com/articles/22/11/04/bird-steals-a-reporters-airpod-live-on-air?utm_medium=rss)<!-- TECH:END -->
+ - [33 tips to stay safe online and lower the risk of being hacked](https://www.androidauthority.com/stay-safe-online-lower-risk-hacked-3230779/)
+ - [Elon Musk says Twitter has had a &quot;massive&quot; revenue drop due to activist groups pressuring advertisers, despite doing &quot;everything&quot; to &quot;appease the activists&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221104/p13#a221104p13)
+ - [Insta360 X3 action cam now available as a bundle through Apple](https://appleinsider.com/articles/22/11/04/insta360-x3-action-cam-now-available-as-a-bundle-through-apple?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
