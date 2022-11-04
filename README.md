@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [33 tips to stay safe online and lower the risk of being hacked](https://www.androidauthority.com/stay-safe-online-lower-risk-hacked-3230779/)
- - [Elon Musk says Twitter has had a &quot;massive&quot; revenue drop due to activist groups pressuring advertisers, despite doing &quot;everything&quot; to &quot;appease the activists&quot; &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221104/p13#a221104p13)
- - [Insta360 X3 action cam now available as a bundle through Apple](https://appleinsider.com/articles/22/11/04/insta360-x3-action-cam-now-available-as-a-bundle-through-apple?utm_medium=rss)<!-- TECH:END -->
+ - [New Mexico Is a Great Place for Sci-Fi](https://www.wired.com/2022/11/geeks-guide-snodgrass-lucifers-war/)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [The best early Black Friday deals you can already get](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
