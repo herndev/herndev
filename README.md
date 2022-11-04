@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
- - [AMD unveils the RX 7900 XTX for $999 and the lower powered RX 7900 XT for $899, its first GPUs built on the RDNA 3 chiplet architecture, coming December 13 &lpar;The Verge&rpar;](http://www.techmeme.com/221103/p47#a221103p47)
- - [Google Cooks Up Animated Doodle for West Africa&#39;s Jollof Rice     - CNET](https://www.cnet.com/culture/internet/google-cooks-up-animated-doodle-for-west-africas-jollof-rice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter has been sued in San Francisco federal court for conducting mass layoffs without providing the required notice of at least 60 days under the WARN Act &lpar;Josh Eidelson/Bloomberg&rpar;](http://www.techmeme.com/221104/p1#a221104p1)
+ - [Netflix’s cheaper plan with ads may not work on your device](https://www.androidauthority.com/netflixs-basic-with-ads-plan-supported-devices-3231151/)
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
