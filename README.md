@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Share of the Week: Haunted](https://blog.playstation.com/2022/11/04/share-of-the-week-haunted/)
  - [Final Fantasy XVI interview: worldbuilding, differing viewpoints and favorite characters](https://blog.playstation.com/2022/11/04/final-fantasy-xvi-interview-worldbuilding-differing-viewpoints-and-favorite-characters/)
- - [Celebrating 20 years of Ratchet &amp; Clank](https://blog.playstation.com/2022/11/04/celebrating-20-years-of-ratchet-clank/)
- - [How the PS5 brings Lakeshore to life in Need for Speed Unbound](https://blog.playstation.com/2022/11/04/how-the-ps5-brings-lakeshore-to-life-in-need-for-speed-unbound/)<!-- GAME:END -->
+ - [Celebrating 20 years of Ratchet &amp; Clank](https://blog.playstation.com/2022/11/04/celebrating-20-years-of-ratchet-clank/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
