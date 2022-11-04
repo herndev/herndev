@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We finally have an idea of what kind of stuff David Zaslav wants Warner Bros. Discovery to make.](https://www.theverge.com/2022/11/4/23440706/warner-bros-discovery-zaslav-hbo-max-cancellations)
- - [How to set up and use the Action Button on the Apple Watch Ultra](https://www.androidauthority.com/how-to-set-up-action-button-apple-watch-3231493/)
- - [Apple kills long-time event archive on YouTube](https://appleinsider.com/articles/22/11/04/apple-kills-long-time-event-archive-on-youtube?utm_medium=rss)<!-- TECH:END -->
+ - [Apple settles lawsuit against former employee accused of leaking trade secrets](https://appleinsider.com/articles/22/11/04/apple-settles-lawsuit-against-former-employee-accused-of-leaking-trade-secrets?utm_medium=rss)
+ - [The execs behind the MoviePass debacle are now facing criminal charges](https://www.theverge.com/2022/11/4/23441119/moviepass-fraud-criminal-charges-mitch-lowe-hmny)
+ - [The DOJ charges two former MoviePass execs in a securities fraud case, claiming they sought to artificially inflate the stock price of MoviePass&#39; parent company &lpar;Jason Guerrasio/Insider&rpar;](http://www.techmeme.com/221104/p20#a221104p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
