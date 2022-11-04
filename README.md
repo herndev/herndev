@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shows to watch it you can’t get enough of The White Lotus on HBO](https://www.androidauthority.com/shows-the-white-lotus-hbo-max-3230881/)
- - [Best High-End Bluetooth Headphones and Earbuds     - CNET](https://www.cnet.com/tech/mobile/best-high-end-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e)
- - [TikTok Is Suffering An Outage     - CNET](https://www.cnet.com/news/social-media/tiktok-is-suffering-an-outage/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Watch iFixit’s teardown of the ‘largely unfixable’ Meta Quest Pro](https://www.theverge.com/2022/11/4/23440860/ifixit-meta-quest-pro-teardown-vr-headset-unfixable-repairable)
+ - [How to check the UV index on Wear OS devices](https://www.androidauthority.com/how-to-check-uv-index-wear-os-3226326/)
+ - [Sources: Twitter&#39;s layoffs hit teams such as product trust and safety, policy, ethical AI, and fighting election misinformation ahead of next week&#39;s US midterms &lpar;The Verge&rpar;](http://www.techmeme.com/221104/p16#a221104p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
