@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - ⏩ [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
- - 👉 [Better run](http://9gag.com/gag/a8q4o7Z)<!-- MEMES:END -->
+ - 💣 [In his garage](http://9gag.com/gag/adPXLKj)
+ - ⏩ [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - 👉 [Train shenanigans\u2026](http://9gag.com/gag/a8q4EDQ)<!-- MEMES:END -->
 
 ---
 
