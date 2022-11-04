@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Celebrating 20 years of Ratchet &amp; Clank](https://blog.playstation.com/2022/11/04/celebrating-20-years-of-ratchet-clank/)
  - [How the PS5 brings Lakeshore to life in Need for Speed Unbound](https://blog.playstation.com/2022/11/04/how-the-ps5-brings-lakeshore-to-life-in-need-for-speed-unbound/)
- - [Next Week on Xbox: New Games for November 7 to 11](https://news.xbox.com/en-us/2022/11/04/next-week-on-xbox-new-games-for-november-7-to-11/)
- - [Persevere or Perish in Shattered Hope, the Second Expansion for Surviving the Aftermath](https://news.xbox.com/en-us/2022/11/03/persevere-or-perish-in-shattered-hope-the-second-expansion-for-surviving-the-aftermath/)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 7 to 11](https://news.xbox.com/en-us/2022/11/04/next-week-on-xbox-new-games-for-november-7-to-11/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
