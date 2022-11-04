@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Next Week on Xbox: New Games for November 7 to 11](https://news.xbox.com/en-us/2022/11/04/next-week-on-xbox-new-games-for-november-7-to-11/)
  - [Persevere or Perish in Shattered Hope, the Second Expansion for Surviving the Aftermath](https://news.xbox.com/en-us/2022/11/03/persevere-or-perish-in-shattered-hope-the-second-expansion-for-surviving-the-aftermath/)
- - [The Chant: Will You Awaken from this Spiritual Nightmare](https://news.xbox.com/en-us/2022/11/03/the-chant-will-you-awaken-from-this-spiritual-nightmare/)
- - [Compete Against Other Drivers in a New Timeless League Mode of WRC Generations](https://news.xbox.com/en-us/2022/11/03/compete-against-other-drivers-in-a-new-timeless-league-mode-of-wrc-generations/)<!-- GAME:END -->
+ - [The Chant: Will You Awaken from this Spiritual Nightmare](https://news.xbox.com/en-us/2022/11/03/the-chant-will-you-awaken-from-this-spiritual-nightmare/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
