@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
- - ⏩ [Dangerously naive](http://9gag.com/gag/aVbexbO)
- - 👉 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
+ - 💣 [Name the band](http://9gag.com/gag/aME9Ke1)
+ - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 👉 [Lol kanye](http://9gag.com/gag/aQExo7r)<!-- MEMES:END -->
 
 ---
 
