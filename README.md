@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That\u2019s just brilliant!](http://9gag.com/gag/a6qQKy8)
- - ⏩ [Noooooo](http://9gag.com/gag/a9qYRZK)
- - 👉 [Is this a trick or treat??](http://9gag.com/gag/amAzBRV)<!-- MEMES:END -->
+ - 💣 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
+ - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
+ - 👉 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
 
 ---
 
