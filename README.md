@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name the band](http://9gag.com/gag/aME9Ke1)
- - ⏩ [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
- - 👉 [This is title.](http://9gag.com/gag/aGED1wG)<!-- MEMES:END -->
+ - 💣 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - ⏩ [Wow](http://9gag.com/gag/a8q4pQQ)
+ - 👉 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)<!-- MEMES:END -->
 
 ---
 
