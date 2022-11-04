@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is crazy](http://9gag.com/gag/a1PXrrD)
- - ⏩ [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
- - 👉 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
+ - 💣 [Lol kanye](http://9gag.com/gag/aQExo7r)
+ - ⏩ [Wow](http://9gag.com/gag/a8q4pQQ)
+ - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
 
 ---
 
