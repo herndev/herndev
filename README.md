@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Mexico Is a Great Place for Sci-Fi](https://www.wired.com/2022/11/geeks-guide-snodgrass-lucifers-war/)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [The best early Black Friday deals you can already get](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)<!-- TECH:END -->
+ - [Twitter lays off staff including whole ethics team, temporarily closes offices](https://appleinsider.com/articles/22/11/04/twitter-lays-off-staff-including-whole-ethics-team-temporarily-closes-offices?utm_medium=rss)
+ - [How to use Continuity Camera on macOS](https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use)
+ - [&#39;Father of the iPod&#39; Tony Fadell joins Arm&#39;s board](https://appleinsider.com/articles/22/11/04/father-of-the-ipod-tony-fadell-joins-arms-board?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
