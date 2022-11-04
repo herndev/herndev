@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [General Mills and Audi paused Twitter ads, and sources say Pfizer and Mondelez have as well, as concern over content moderation grows &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221103/p40#a221103p40)
- - [Sources: Twitter&#39;s newsletter platform Revue, acquired in early 2021, is scheduled to close by the end of the year, and its Notes product has been paused &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221103/p39#a221103p39)
- - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)<!-- TECH:END -->
+ - [Here are all the devices getting Matter support](https://appleinsider.com/articles/22/11/03/here-are-all-the-devices-getting-matter-support?utm_medium=rss)
+ - [Sources: Elon Musk directed Twitter&#39;s teams to find $1B+ in annual infrastructure cost savings, including reduced spending on cloud services and server space &lpar;Reuters&rpar;](http://www.techmeme.com/221103/p43#a221103p43)
+ - [The best free VPNs for your iPhone: Keep your Apple device private!](https://www.androidauthority.com/best-free-vpn-iphone-3230990/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
