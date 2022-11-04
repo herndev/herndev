@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
- - ⏩ [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
- - 👉 [Wow](http://9gag.com/gag/a8q4pQQ)<!-- MEMES:END -->
+ - 💣 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - ⏩ [Hand.exe failed to load](http://9gag.com/gag/aME9KZW)
+ - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
 
 ---
 
