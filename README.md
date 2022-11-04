@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
- - ⏩ [Being brave is not the absence of ....wtf](http://9gag.com/gag/abvZMop)
- - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
+ - 💣 [What would you do?](http://9gag.com/gag/amAzBej)
+ - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
+ - 👉 [This is crazy](http://9gag.com/gag/a1PXrrD)<!-- MEMES:END -->
 
 ---
 
