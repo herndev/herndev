@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter lays off staff including whole ethics team, temporarily closes offices](https://appleinsider.com/articles/22/11/04/twitter-lays-off-staff-including-whole-ethics-team-temporarily-closes-offices?utm_medium=rss)
- - [How to use Continuity Camera on macOS](https://www.theverge.com/23440538/apple-macos-continuity-camera-how-to-use)
- - [&#39;Father of the iPod&#39; Tony Fadell joins Arm&#39;s board](https://appleinsider.com/articles/22/11/04/father-of-the-ipod-tony-fadell-joins-arms-board?utm_medium=rss)<!-- TECH:END -->
+ - [The head of Instagram Adam Mosseri talks about balancing the urgency to make Reels work for Meta and not making &quot;any mistakes by pushing too hard or too fast&quot; &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221104/p15#a221104p15)
+ - [TikTok not working? Here’s how to fix it](https://www.androidauthority.com/fix-tiktok-not-working-3157023/)
+ - [TikTok is down, telling users there’s ‘no internet connection’](https://www.theverge.com/2022/11/4/23440882/tiktok-down-outage-no-internet-connection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
