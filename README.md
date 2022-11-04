@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol kanye](http://9gag.com/gag/aQExo7r)
- - ⏩ [Wow](http://9gag.com/gag/a8q4pQQ)
- - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
+ - 💣 [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - ⏩ [Dangerously naive](http://9gag.com/gag/aVbexbO)
+ - 👉 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
 
 ---
 
