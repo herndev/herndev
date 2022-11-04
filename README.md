@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
- - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
- - 👉 [In his garage](http://9gag.com/gag/adPXLKj)<!-- MEMES:END -->
+ - 💣 [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - ⏩ [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - 👉 [Better run](http://9gag.com/gag/a8q4o7Z)<!-- MEMES:END -->
 
 ---
 
