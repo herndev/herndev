@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week on Xbox: New Releases, Upcoming Games, and More](https://news.xbox.com/en-us/2022/11/04/this-week-on-xbox-new-releases-upcoming-games-and-more/)
  - [Share of the Week: Haunted](https://blog.playstation.com/2022/11/04/share-of-the-week-haunted/)
- - [Final Fantasy XVI interview: worldbuilding, differing viewpoints and favorite characters](https://blog.playstation.com/2022/11/04/final-fantasy-xvi-interview-worldbuilding-differing-viewpoints-and-favorite-characters/)
- - [Celebrating 20 years of Ratchet &amp; Clank](https://blog.playstation.com/2022/11/04/celebrating-20-years-of-ratchet-clank/)<!-- GAME:END -->
+ - [Final Fantasy XVI interview: worldbuilding, differing viewpoints and favorite characters](https://blog.playstation.com/2022/11/04/final-fantasy-xvi-interview-worldbuilding-differing-viewpoints-and-favorite-characters/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
