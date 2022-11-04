@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What would you do?](http://9gag.com/gag/amAzBej)
- - ⏩ [This is title.](http://9gag.com/gag/aGED1wG)
- - 👉 [This is crazy](http://9gag.com/gag/a1PXrrD)<!-- MEMES:END -->
+ - 💣 [Attempted robbery](http://9gag.com/gag/aKE3jX1)
+ - ⏩ [It&#39;s Okay](http://9gag.com/gag/aoKp2Nx)
+ - 👉 [Name the band](http://9gag.com/gag/aME9Ke1)<!-- MEMES:END -->
 
 ---
 
