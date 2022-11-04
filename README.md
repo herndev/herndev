@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worms, the Internet, and the End of Reality](https://www.wired.com/story/end-of-reality/)
- - [The Google Home app on the Pixel Watch is a good start, but I want more](https://www.androidauthority.com/google-home-pixel-watch-3230218/)
- - [Elon Musk’s Need for Speed Puts Twitter in Peril](https://www.wired.com/story/plaintext-elon-musks-need-for-speed-puts-twitter-in-peril/)<!-- TECH:END -->
+ - [Apple&#39;s 2022 iPad Pro gets $50 price drop on Amazon in latest early Black Friday deal](https://appleinsider.com/articles/22/11/04/apples-2022-ipad-pro-gets-50-price-drop-on-amazon-in-latest-early-black-friday-deal?utm_medium=rss)
+ - [What Is Apple One? A Breakdown of Plans, Pricing, and Included Services](https://www.wired.com/story/what-is-apple-one/)
+ - [Bird steals a reporter&#39;s AirPod live on air](https://appleinsider.com/articles/22/11/04/bird-steals-a-reporters-airpod-live-on-air?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
