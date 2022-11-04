@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Most of you don’t send voice notes on your phone](https://www.androidauthority.com/send-voice-notes-smartphone-poll-results-3231215/)
- - [Russia Is Ramping Up Nuclear War Propaganda](https://www.wired.com/story/russia-propaganda-ukraine-dirty-bomb/)
- - [The Real Story of How the Weird Al Movie Scored Fake Cameos](https://www.wired.com/story/weird-al-yankovic-movie-cameos/)<!-- TECH:END -->
+ - [The Tiangong Space Station Makes China a Major Space Power](https://www.wired.com/story/china-is-now-a-major-space-power-tiangong-space-station/)
+ - [Now’s the time to buy last year’s iPad](https://www.theverge.com/2022/11/4/23439082/ipad-apple-tablets-10th-gen-buy-last-years-instead-new)
+ - [How Marvel Snap was designed to fit into your life](https://www.theverge.com/23437497/marvel-snap-developer-design-interview-mobile-steam)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
