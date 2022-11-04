@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian warriors at Yehorivka, Donetsk Oblast, surrounded but not surrendered.](http://9gag.com/gag/aREeB5B)
- - ⏩ [Hear me out](http://9gag.com/gag/amAzoA4)
- - 👉 [Daddy is not Mommy](http://9gag.com/gag/a8q41K6)<!-- MEMES:END -->
+ - 💣 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - ⏩ [Shoo!](http://9gag.com/gag/a5XrQVg)
+ - 👉 [Monday](http://9gag.com/gag/a1PX7Xw)<!-- MEMES:END -->
 
 ---
 
