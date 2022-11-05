@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Do it.](http://9gag.com/gag/aWGMgKn)
- - ⏩ [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - 👉 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
+ - ⏩ [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
+ - 👉 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 ---
 
