@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You still really don’t need that Google Pixel 7 30W fast charger](https://www.androidauthority.com/google-pixel-7-charging-30w-3226058/)
- - [OpenSecrets: crypto industry donated $73M in the 2022 elections, up from $13M in 2020; FTX has become the third-largest source of 2022 campaign contributions &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p10#a221105p10)
- - [Save Hundreds With Black Friday Deals at StackSocial     - CNET](https://www.cnet.com/deals/save-hundreds-with-black-friday-deals-at-stacksocial/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk’s $7.99 ‘Twitter Blue with verification’ is launching on iOS](https://www.theverge.com/2022/11/5/23442149/twitter-blue-checkmark-ios-update-elon-musk)
+ - [Twitter rolls out its new Twitter Blue subscription, which offers a blue checkmark for $8/month, on iOS in the US, Canada, Australia, New Zealand, and the UK &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/221105/p11#a221105p11)
+ - [EZQuest multiport hub review: More USB-C ports please](https://appleinsider.com/articles/22/11/05/ezquest-multiport-hub-review-more-usb-c-ports-please?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
