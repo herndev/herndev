@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - ⏩ [Volume up](http://9gag.com/gag/a3Zj4q7)
- - 👉 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
+ - ⏩ [And its gone](http://9gag.com/gag/axoDbA1)
+ - 👉 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
 
 ---
 
