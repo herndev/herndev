@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it.](http://9gag.com/gag/aWGMgKn)
- - ⏩ [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)
- - 👉 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
+ - 💣 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)
+ - ⏩ [Teambuilding](http://9gag.com/gag/aGEDZVz)
+ - 👉 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
 
 ---
 
