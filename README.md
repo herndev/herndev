@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi Smart Band 7 Pro review: The Mi Band grows up](https://www.androidauthority.com/xiaomi-smart-band-7-pro-review-3229724/)
- - [As chess explodes on Twitch, a look at Chess.com&#39;s Global Championship, its first in-person event since 2018, and &quot;fair play&quot; measures amid a cheating scandal &lpar;Jordan Pearson/VICE&rpar;](http://www.techmeme.com/221105/p6#a221105p6)
- - [World Series 2022 Livestream: How to Watch Phillies vs. Astros Game 6 Today     - CNET](https://www.cnet.com/tech/services-and-software/world-series-2022-livestream-how-to-watch-phillies-vs-astros-game-6-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [19 Best Gifts for PC Gamers &lpar;2022&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
+ - [MSR Freelite Backpacking Tent Review: Ultralight and Comfortable](https://www.wired.com/review/msr-freelite-2-person-backpacking-tent/)
+ - [All the Free Resources You Can Find at Your Library](https://www.wired.com/story/free-movies-music-ebooks-local-library/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
