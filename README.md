@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Loop, which uses AI to digitize shipping invoices and other logistics documents, raised $30M across a seed and a Series A from Founder&#39;s Fund, Flexport, others &lpar;Jack Daleo/FreightWaves&rpar;](http://www.techmeme.com/221104/p22#a221104p22)
- - [Filing: Apple settles lawsuit against an ex-employee accused of stealing trade secrets and sharing them with the media; he will pay an undisclosed sum to Apple &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221104/p21#a221104p21)
- - [Starlink is getting daytime data caps](https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 10 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-10-come-to-disney-plus/#ftag=CAD590a51e)
+ - [Some current Twitter employees created Google Docs listing who they could confirm was still employed, after an internal directory was made inaccessible &lpar;Platformer&rpar;](http://www.techmeme.com/221104/p23#a221104p23)
+ - [Apple has finally approved a MagSafe car mount charger, and it only costs $99.95](https://www.theverge.com/2022/11/4/23441336/belkin-boost-charge-pro-wireless-car-charger-with-magsafe-iphone-accessory)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
