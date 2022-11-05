@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes MacBook Pro prices by up to $500 in Early Black Friday sale](https://appleinsider.com/articles/22/11/05/amazon-slashes-macbook-pro-prices-by-up-to-500-in-early-black-friday-sale?utm_medium=rss)
- - [Insurance giant Zurich&#39;s $100M+ settlement to cover losses suffered by Mondelez International from NotPetya may reshape the entire cyber insurance marketplace &lpar;Suzanne Smalley/CyberScoop&rpar;](http://www.techmeme.com/221105/p1#a221105p1)
- - [Current and former Twitter staffers shed light on Musk&#39;s &quot;War Room&quot;, which includes Jason Calacanis and David Sacks, tasked with transforming Twitter&#39;s business &lpar;Financial Times&rpar;](http://www.techmeme.com/221104/p24#a221104p24)<!-- TECH:END -->
+ - [Cairo-based Money Fellows, which digitizes money circles or rotating savings and credit associations, raised a $31M Series B, bringing its total funding to $37M &lpar;Tage Kene-Okafor/TechCrunch&rpar;](http://www.techmeme.com/221105/p4#a221105p4)
+ - [Elon Musk&#39;s focus on Twitter Blue is part of a trend in which consumer tech platforms pivot from advertising in favor of recurring revenue through subscriptions &lpar;Brian Morrissey/The Rebooting&rpar;](http://www.techmeme.com/221105/p3#a221105p3)
+ - [Source: Indian B2B marketplace Udaan plans to lay off 325 to 350 employees, or about 10% of its workforce, a week after raising $120M in convertible debt &lpar;Deepsekhar Choudhury/Moneycontrol&rpar;](http://www.techmeme.com/221105/p2#a221105p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
