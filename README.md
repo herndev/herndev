@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
  - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)
- - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)
- - [Apple iPad &lpar;10th generation&rpar; review: Mixed emotions](https://www.androidauthority.com/apple-ipad-10th-generation-review-3229679/)<!-- TECH:END -->
+ - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
