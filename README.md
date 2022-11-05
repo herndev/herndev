@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 👉 [Coz he had an intercourse with his wife](http://9gag.com/gag/aBd1dMP)<!-- MEMES:END -->
+ - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - ⏩ [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
+ - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
 
 ---
 
