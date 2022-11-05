@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple settles lawsuit against former employee accused of leaking trade secrets](https://appleinsider.com/articles/22/11/04/apple-settles-lawsuit-against-former-employee-accused-of-leaking-trade-secrets?utm_medium=rss)
- - [The execs behind the MoviePass debacle are now facing criminal charges](https://www.theverge.com/2022/11/4/23441119/moviepass-fraud-criminal-charges-mitch-lowe-hmny)
- - [The DOJ charges two former MoviePass execs in a securities fraud case, claiming they sought to artificially inflate the stock price of MoviePass&#39; parent company &lpar;Jason Guerrasio/Insider&rpar;](http://www.techmeme.com/221104/p20#a221104p20)<!-- TECH:END -->
+ - [Loop, which uses AI to digitize shipping invoices and other logistics documents, raised $30M across a seed and a Series A from Founder&#39;s Fund, Flexport, others &lpar;Jack Daleo/FreightWaves&rpar;](http://www.techmeme.com/221104/p22#a221104p22)
+ - [Filing: Apple settles lawsuit against an ex-employee accused of stealing trade secrets and sharing them with the media; he will pay an undisclosed sum to Apple &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221104/p21#a221104p21)
+ - [Starlink is getting daytime data caps](https://www.theverge.com/2022/11/4/23441356/starlink-data-caps-throttling-residential-internet-priority-basic-access)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
