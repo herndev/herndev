@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
- - ⏩ [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 👉 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
+ - 💣 [A woman who got arrested for being a Fake Sign Language interpreter](http://9gag.com/gag/avQn5bZ)
+ - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - 👉 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
 
 ---
 
