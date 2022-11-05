@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Name the band](http://9gag.com/gag/aME9Ke1)
- - ⏩ [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
- - 👉 [Coz he had an intercourse with his wife](http://9gag.com/gag/aBd1dMP)<!-- MEMES:END -->
+ - 💣 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
 
 ---
 
