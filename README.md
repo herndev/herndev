@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman who got arrested for being a Fake Sign Language interpreter](http://9gag.com/gag/avQn5bZ)
- - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - 👉 [Fela Pure](http://9gag.com/gag/anz1MP5)<!-- MEMES:END -->
+ - 💣 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - ⏩ [How you guys make popcorn?](http://9gag.com/gag/ap9LgQn)
+ - 👉 [Well, f**k him, I&#39;d rather sit at home](http://9gag.com/gag/aPgWY1g)<!-- MEMES:END -->
 
 ---
 
