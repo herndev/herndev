@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - 💣 [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
  - ⏩ [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 👉 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)<!-- MEMES:END -->
+ - 👉 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)<!-- MEMES:END -->
 
 ---
 
