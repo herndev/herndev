@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - 💣 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
  - ⏩ [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 👉 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)<!-- MEMES:END -->
+ - 👉 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)<!-- MEMES:END -->
 
 ---
 
