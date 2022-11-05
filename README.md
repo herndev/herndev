@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-457-3231449/)
- - [Best Wireless Earbuds for 2022: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
- - [Take $100 Off This 50-Inch LG 4K TV, Get a $25 Gift Card During 1-Day Deal at Target     - CNET](https://www.cnet.com/deals/take-100-off-this-50-inch-lg-4k-tv-get-a-25-gift-card-during-1-day-deal-at-target/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jack Dorsey apologizes for Twitter&#39;s fast growth following Musk layoffs](https://appleinsider.com/articles/22/11/05/jack-dorsey-apologizes-for-twitters-fast-growth-following-musk-layoffs?utm_medium=rss)
+ - [Sources: 1,300 Starlink units in Ukraine went offline over funding issues, as SpaceX negotiates with US DoD despite Musk&#39;s claims to keep funding the units &lpar;CNN&rpar;](http://www.techmeme.com/221105/p9#a221105p9)
+ - [Apple’s reportedly building an advertising network around its Major League Soccer deal](https://www.theverge.com/2022/11/5/23441872/apple-advertisements-mls-major-league-soccer-games-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
