@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today i learned ...](http://9gag.com/gag/aOxv783)
- - ⏩ [Oops](http://9gag.com/gag/avQnQmZ)
- - 👉 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
+ - 💣 [And its gone](http://9gag.com/gag/axoDbA1)
+ - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 👉 [Sherrif Threatens Violent Gang Leader](http://9gag.com/gag/aoKpVpA)<!-- MEMES:END -->
 
 ---
 
