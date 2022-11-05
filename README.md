@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - ⏩ [The Most Incredible Stupid Human Trick Ever](http://9gag.com/gag/aREeEjA)
- - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
+ - 💣 [Today i learned ...](http://9gag.com/gag/aOxv783)
+ - ⏩ [Oops](http://9gag.com/gag/avQnQmZ)
+ - 👉 [Volume up](http://9gag.com/gag/a3Zj4q7)<!-- MEMES:END -->
 
 ---
 
