@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
- - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
- - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
+ - 💣 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
+ - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
 
 ---
 
