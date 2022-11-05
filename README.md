@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman who got arrested for being a Fake Sign Language interpreter](http://9gag.com/gag/avQn5bZ)
- - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 👉 [What would you do?](http://9gag.com/gag/amAzBej)<!-- MEMES:END -->
+ - 💣 [Do it.](http://9gag.com/gag/aWGMgKn)
+ - ⏩ [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - 👉 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
 
 ---
 
