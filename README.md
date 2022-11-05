@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter for iOS updated with $8 checkmark in-app purchase](https://appleinsider.com/articles/22/11/05/twitter-for-ios-updated-with-8-checkmark-in-app-purchase?utm_medium=rss)
  - [Elon Musk’s $7.99 ‘Twitter Blue with verification’ is launching on iOS](https://www.theverge.com/2022/11/5/23442149/twitter-blue-checkmark-ios-update-elon-musk)
- - [Twitter rolls out its new Twitter Blue subscription, which offers a blue checkmark for $8/month, on iOS in the US, Canada, Australia, New Zealand, and the UK &lpar;Chance Miller/9to5Mac&rpar;](http://www.techmeme.com/221105/p11#a221105p11)
- - [EZQuest multiport hub review: More USB-C ports please](https://appleinsider.com/articles/22/11/05/ezquest-multiport-hub-review-more-usb-c-ports-please?utm_medium=rss)<!-- TECH:END -->
+ - [Yeelight launches new Matter Cube light, will update others with Matter support](https://appleinsider.com/articles/22/11/05/yeelight-launches-new-matter-cube-light-will-update-others-with-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
