@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why do nobody help her \u2026?!?!?](http://9gag.com/gag/a1PXWwG)
- - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
+ - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - ⏩ [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
+ - 👉 [Coz he had an intercourse with his wife](http://9gag.com/gag/aBd1dMP)<!-- MEMES:END -->
 
 ---
 
