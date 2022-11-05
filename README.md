@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 💣 [No title](http://9gag.com/gag/aqeLnZ7)
+ - ⏩ [Name the band](http://9gag.com/gag/aME9Ke1)
  - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
 
 ---
