@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Release Schedule: When Will Episode 10 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-10-come-to-disney-plus/#ftag=CAD590a51e)
- - [Some current Twitter employees created Google Docs listing who they could confirm was still employed, after an internal directory was made inaccessible &lpar;Platformer&rpar;](http://www.techmeme.com/221104/p23#a221104p23)
- - [Apple has finally approved a MagSafe car mount charger, and it only costs $99.95](https://www.theverge.com/2022/11/4/23441336/belkin-boost-charge-pro-wireless-car-charger-with-magsafe-iphone-accessory)<!-- TECH:END -->
+ - [Strava: Everything you need to know about the world’s biggest social fitness app](https://www.androidauthority.com/strava-3226181/)
+ - [Fitbit Daily Readiness Score: What is it and why should you use it?](https://www.androidauthority.com/fitbit-daily-readiness-score-3230647/)
+ - [Overwatch 2’s newest hero is the scary but sexy Ramattra](https://www.theverge.com/2022/11/4/23441167/overwatch-2-new-hero-ramattra-tank)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
