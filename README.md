@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And its gone](http://9gag.com/gag/axoDbA1)
- - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
- - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
+ - ⏩ [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
+ - 👉 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
 
 ---
 
