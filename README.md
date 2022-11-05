@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)
- - ⏩ [11,475.76](http://9gag.com/gag/ajVD7Q1)
- - 👉 [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)<!-- MEMES:END -->
+ - 💣 [A woman who got arrested for being a Fake Sign Language interpreter](http://9gag.com/gag/avQn5bZ)
+ - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 👉 [What would you do?](http://9gag.com/gag/amAzBej)<!-- MEMES:END -->
 
 ---
 
