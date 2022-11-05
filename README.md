@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [19 Best Gifts for PC Gamers &lpar;2022&rpar;: Headsets, Desks, Monitors](https://www.wired.com/gallery/gift-ideas-for-pc-gamers/)
- - [MSR Freelite Backpacking Tent Review: Ultralight and Comfortable](https://www.wired.com/review/msr-freelite-2-person-backpacking-tent/)
- - [All the Free Resources You Can Find at Your Library](https://www.wired.com/story/free-movies-music-ebooks-local-library/)<!-- TECH:END -->
+ - [The Amazon Kindle 2022 is worthy of a place in your pocket &lpar;or your carry on&rpar;](https://www.androidauthority.com/amazon-kindle-2022-review-3224628/)
+ - [TikTok Admits Staff in China Can Access Europeans’ Data](https://www.wired.com/story/tiktok-eu-privacy-policy-security-roundup/)
+ - [23 Best Nintendo Switch Accessories &lpar;2022&rpar;: Docks, Cases, Headsets, and More](https://www.wired.com/gallery/best-nintendo-switch-accessories/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
