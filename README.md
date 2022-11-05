@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/aqeLnZ7)
- - ⏩ [Name the band](http://9gag.com/gag/aME9Ke1)
- - 👉 [SportsMANship](http://9gag.com/gag/ap9L3qW)<!-- MEMES:END -->
+ - 💣 [New father sees the placenta sliding out](http://9gag.com/gag/aA0Pbd9)
+ - ⏩ [Do it.](http://9gag.com/gag/aWGMgKn)
+ - 👉 [That time when 1.5 million balloons were released in Cleveland to break the world record and ended up causing to 2 deaths, millions in lawsuits, and weeks of pollution clean up](http://9gag.com/gag/armNMbV)<!-- MEMES:END -->
 
 ---
 
