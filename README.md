@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iPad &lpar;10th generation&rpar; review: Mixed emotions](https://www.androidauthority.com/apple-ipad-10th-generation-review-3229679/)
- - [A Twitter product lead says the new Blue subscription isn&#39;t live yet, but some users may see updates &quot;because we are testing and pushing changes in real-time&quot; &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221105/p13#a221105p13)
- - [The best docking stations for MacBook Pro and Air](https://www.androidauthority.com/docking-station-macbook-pro-air-3231693/)<!-- TECH:END -->
+ - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)
+ - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)
+ - [Apple iPad &lpar;10th generation&rpar; review: Mixed emotions](https://www.androidauthority.com/apple-ipad-10th-generation-review-3229679/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
