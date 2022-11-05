@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with telecom reporter Karl Bode about Gigi Sohn&#39;s nomination to the FCC as Comcast and Fox Corp. team up to lobby swing votes in the Senate against her &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221105/p8#a221105p8)
- - [The Pixel Watch is pretty cool, but I would never buy it](https://www.androidauthority.com/google-pixel-watch-opinion-3222468/)
- - [Sony’s all-around excellent WF-1000XM4 earbuds are on sale for $100 off](https://www.theverge.com/2022/11/5/23441039/sony-wf-1000xm4-earbuds-apple-ipad-pro-m1-m2-segway-scooter-xbox-playstation-gift-card-deal-sale)<!-- TECH:END -->
+ - [5 Android apps you shouldn’t miss this week – Android Apps Weekly](https://www.androidauthority.com/android-apps-weekly-457-3231449/)
+ - [Best Wireless Earbuds for 2022: Top Picks for Every Listener     - CNET](https://www.cnet.com/tech/mobile/best-wireless-earbuds/#ftag=CAD590a51e)
+ - [Take $100 Off This 50-Inch LG 4K TV, Get a $25 Gift Card During 1-Day Deal at Target     - CNET](https://www.cnet.com/deals/take-100-off-this-50-inch-lg-4k-tv-get-a-25-gift-card-during-1-day-deal-at-target/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
