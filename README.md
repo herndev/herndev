@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - ⏩ [And its gone](http://9gag.com/gag/axoDbA1)
- - 👉 [Do it.](http://9gag.com/gag/aWGMgKn)<!-- MEMES:END -->
+ - 💣 [And its gone](http://9gag.com/gag/axoDbA1)
+ - ⏩ [This is crazy](http://9gag.com/gag/a1PXrrD)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
