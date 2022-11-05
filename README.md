@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Volume up](http://9gag.com/gag/a3Zj4q7)
- - ⏩ [What could go wrong playing with a loaded gun in your moms house](http://9gag.com/gag/axoDRzn)
- - 👉 [Iran: defying the mullahs no turban is safe.](http://9gag.com/gag/aeQ6QrB)<!-- MEMES:END -->
+ - 💣 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
+ - ⏩ [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - 👉 [What could go wrong playing with a loaded gun in your moms house](http://9gag.com/gag/axoDRzn)<!-- MEMES:END -->
 
 ---
 
