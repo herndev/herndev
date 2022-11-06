@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
- - ⏩ [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - 👉 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)<!-- MEMES:END -->
+ - 💣 [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
+ - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - 👉 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
 
 ---
 
