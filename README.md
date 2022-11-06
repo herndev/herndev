@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
  - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
+ - 👉 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
 
 ---
 
