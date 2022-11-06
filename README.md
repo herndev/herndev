@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
+ - 💣 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
+ - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 👉 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
 
 ---
 
