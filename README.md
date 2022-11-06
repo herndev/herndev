@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - ⏩ [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
- - 👉 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
+ - 💣 [Congratulations, you have scrolled long enough and now you have acquired CAT !](http://9gag.com/gag/a8q4VwQ)
+ - ⏩ [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
+ - 👉 [When your demon comes to sleep with you](http://9gag.com/gag/aGEDObn)<!-- MEMES:END -->
 
 ---
 
