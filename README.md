@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do it.](http://9gag.com/gag/aWGMgKn)
- - ⏩ [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - 👉 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
+ - 💣 [Nostalgia alert.](http://9gag.com/gag/aREeoO2)
+ - ⏩ [Missed those times](http://9gag.com/gag/adPXxoV)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
