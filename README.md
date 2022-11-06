@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - ⏩ [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
- - 👉 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
+ - 💣 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
+ - ⏩ [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
+ - 👉 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)<!-- MEMES:END -->
 
 ---
 
