@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
- - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)<!-- MEMES:END -->
+ - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - ⏩ [Trying to rob a car but they didn&#39;t know a surprise was waiting for them](http://9gag.com/gag/aA0POMR)
+ - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
 
 ---
 
