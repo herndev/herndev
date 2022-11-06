@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter is asking dozens of laid-off staff to return, after realizing some are needed for building prioritized features and some were sacked by mistake &lpar;Bloomberg&rpar;](http://www.techmeme.com/221106/p13#a221106p13)
- - [Twitter’s delaying the launch of Blue with verification until after the elections](https://www.theverge.com/2022/11/6/23443520/twitter-delaying-launch-blue-with-verification-after-midterm-elections-elon-musk)
- - [Seahawks vs. Cardinals Livestream: How to Watch NFL Week 9 Online Today     - CNET](https://www.cnet.com/tech/services-and-software/seahawks-vs-cardinals-livestream-how-to-watch-nfl-week-9-online-today/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LGear 3-in-1 charging dock review: A cat tree for your devices](https://appleinsider.com/articles/22/11/06/lgear-3-in-1-charging-dock-review-a-cat-tree-for-your-devices?utm_medium=rss)
+ - [Sources: Meta plans to lay off thousands of employees this week, with an announcement expected as soon as Wednesday, the first broad layoffs in its history &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221106/p14#a221106p14)
+ - [Sources: Twitter is asking dozens of laid-off staff to return, after realizing some are needed for building prioritized features and some were sacked by mistake &lpar;Bloomberg&rpar;](http://www.techmeme.com/221106/p13#a221106p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
