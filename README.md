@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nostalgia alert.](http://9gag.com/gag/aREeoO2)
- - ⏩ [Missed those times](http://9gag.com/gag/adPXxoV)
- - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 💣 [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)
+ - ⏩ [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
+ - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
 
 ---
 
