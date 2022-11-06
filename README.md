@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - ⏩ [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - 👉 [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)<!-- MEMES:END -->
+ - 💣 [Missed those times](http://9gag.com/gag/adPXxoV)
+ - ⏩ [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
