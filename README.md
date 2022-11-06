@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
- - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
+ - 💣 [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - ⏩ [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 👉 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)<!-- MEMES:END -->
 
 ---
 
