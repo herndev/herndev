@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to Get Slack’s Paid Features for Free](https://www.wired.com/story/how-to-get-slack-paid-features-for-free/)
- - [5 Best Dog Beds &lpar;2022&rpar;: Indoor, Outdoor, Elevated](https://www.wired.com/gallery/best-dog-beds/)
- - [HP Victus 15 review: an $800 laptop that can game](https://www.theverge.com/23438982/hp-victus-15-gaming-laptop-review-specs-price)<!-- TECH:END -->
+ - [Pixel 7 Pro vs iPhone 14 Pro cinematic video comparison: A clear winner](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-cinematic-video-3224690/)
+ - [Apple works on waking Siri without the &#39;Hey&#39;](https://appleinsider.com/articles/22/11/06/apple-works-on-waking-siri-without-the-hey?utm_medium=rss)
+ - [Amazon, BurgerFi, Chili&#39;s, and other companies are ending or rethinking delivery and restaurant robot trials, unable to balance their costs against usefulness &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/221106/p7#a221106p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
