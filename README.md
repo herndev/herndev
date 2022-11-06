@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
- - ⏩ [How my girlfriend watches me interact with my best friend](http://9gag.com/gag/amAzo96)
- - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
+ - 💣 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - ⏩ [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - 👉 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
 
 ---
 
