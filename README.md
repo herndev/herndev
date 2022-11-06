@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I’ve tried Sony and Bose, but I keep coming back to these Marshall headphones](https://www.androidauthority.com/marshall-monitor-ii-anc-3229633/)
- - [Our Favorite Fancy Cat Furniture &lpar;2022&rpar;: Scratching Posts, Litter Boxes, and More](https://www.wired.com/story/fancy-cat-furniture/)
- - [How to Make Sure Your Cloud Files Are Always Synced](https://www.wired.com/story/how-to-sync-cloud-files/)<!-- TECH:END -->
+ - [How to Get Slack’s Paid Features for Free](https://www.wired.com/story/how-to-get-slack-paid-features-for-free/)
+ - [5 Best Dog Beds &lpar;2022&rpar;: Indoor, Outdoor, Elevated](https://www.wired.com/gallery/best-dog-beds/)
+ - [HP Victus 15 review: an $800 laptop that can game](https://www.theverge.com/23438982/hp-victus-15-gaming-laptop-review-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
