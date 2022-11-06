@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey apologizes for growing Twitter &quot;too quickly&quot;, amid mass layoffs; Twitter&#39;s headcount grew from ~2,000 to 7,500+ between June 2013 and December 2021 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221106/p2#a221106p2)
- - [Google Cloud says it is running a Solana validator and is indexing Solana data for BigQuery, will add Solana support to Blockchain Node Engine in 2023, and more &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/221106/p1#a221106p1)
- - [Riot teamed Lil Nas X up with a holographic mech for 2022’s Worlds opening ceremony](https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x)<!-- TECH:END -->
+ - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)
+ - [Hands-on with Matter devices at an official launch event; Matter has a long way to go before it delivers on a promise of an interoperable and simple smart home &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221106/p4#a221106p4)
+ - [Smartex, whose machine vision-based software spots defects in textile manufacturing, raised a $24.7M Series A led by Lightspeed, Tony Fadell&#39;s Build Collective &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/221106/p3#a221106p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
