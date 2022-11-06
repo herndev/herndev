@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Jack Dorsey takes responsibility for Elon Musk’s mass layoffs at Twitter](https://www.theverge.com/2022/11/5/23442086/jack-dorsey-responsibility-twitter-mass-layoffs-elon-musk-apology-former-ceo)
- - [Elon Musk says Twitter will soon add the ability to attach long-form text to tweets, followed by creator monetization for all forms of content &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221105/p14#a221105p14)
- - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)<!-- TECH:END -->
+ - [The US DOJ seizes internet domains for Z-Library, a repository that went viral on TikTok for offering 11M+ books, including pirated textbooks, and 84M articles &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221105/p15#a221105p15)
+ - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)
+ - [BMW i7 2022 Review: High Life, High-Tech](https://www.wired.com/review/review-bmw-i7-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
