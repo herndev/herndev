@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [7 foldable phone problems that haven’t been fixed yet](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)
- - [An investigation details India&#39;s &quot;hack-for-hire&quot; industry that helps global corporate intelligence clients target businesses, journalists, and politicians &lpar;The Bureau of Investigative Journalism&rpar;](http://www.techmeme.com/221106/p10#a221106p10)
- - [Apple’s copyright claims ripped down a fan’s archival WWDC YouTube channel](https://www.theverge.com/2022/11/6/23443215/apple-copyright-claims-ripped-down-fan-archival-wwdc-youtube-channel)<!-- TECH:END -->
+ - [[Thread] Sources and chats in anonymous workplace app Blind: Twitter is asking some laid off employees to come back, including for &quot;some Android and iOS help&quot; &lpar;Casey Newton/@caseynewton&rpar;](http://www.techmeme.com/221106/p12#a221106p12)
+ - [Internal post and sources: Twitter is delaying rolling out verification checkmarks to Blue subscribers until November 9, the day after the US midterm elections &lpar;New York Times&rpar;](http://www.techmeme.com/221106/p11#a221106p11)
+ - [7 foldable phone problems that haven’t been fixed yet](https://www.androidauthority.com/foldable-phone-problems-not-fixed-3224899/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
