@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Riot teamed Lil Nas X up with a holographic mech for 2022’s Worlds opening ceremony](https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x)
  - [French startup Fintecture, which helps companies digitize their B2B payments, has raised a &amp;euro;26M Series A from Target Global, Eurazeo, RTP Global, and others &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221105/p17#a221105p17)
- - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)
- - [The most efficient bitcoin mining machines are selling for ~$24 per 100 terahashes, down from $106 in 2021, as unprofitable miners are forced to sell equipment &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p16#a221105p16)<!-- TECH:END -->
+ - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
