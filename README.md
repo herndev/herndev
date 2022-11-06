@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Missed those times](http://9gag.com/gag/adPXxoV)
- - ⏩ [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
- - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - ⏩ [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
+ - 👉 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
 
 ---
 
