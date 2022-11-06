@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [French startup Fintecture, which helps companies digitize their B2B payments, has raised a &amp;euro;26M Series A from Target Global, Eurazeo, RTP Global, and others &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221105/p17#a221105p17)
- - [The most efficient bitcoin mining machines are selling for ~$24 per 100 terahashes, down from $106 in 2021, as unprofitable miners are forced to sell equipment &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p16#a221105p16)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 10 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-10-land-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)
+ - [The most efficient bitcoin mining machines are selling for ~$24 per 100 terahashes, down from $106 in 2021, as unprofitable miners are forced to sell equipment &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p16#a221105p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
