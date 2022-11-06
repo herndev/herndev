@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google is making all the right moves with the Pixel Tablet](https://www.androidauthority.com/google-pixel-tablet-smart-home-strategy-3222694/)
- - [How to Stop iPhone Notes from Syncing to iCloud in iOS 16](https://appleinsider.com/articles/22/11/06/how-to-stop-iphone-notes-from-syncing-to-icloud-in-ios-16?utm_medium=rss)
- - [Source: Apple is working on simplifying the &quot;Hey Siri&quot; trigger phrase to just &quot;Siri&quot; and plans to integrate Siri deeper into third-party apps and services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221106/p8#a221106p8)<!-- TECH:END -->
+ - [&#39;Glass Onion: A Knives Out Mystery:&#39; Release Date, How to Watch     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-a-knives-out-mystery-release-date-how-to-watch/#ftag=CAD590a51e)
+ - [Review of misinformation labels: Twitter and Facebook have done little to refute inaccurate election claims by 26+ US midterms candidates since April 2022 &lpar;Washington Post&rpar;](http://www.techmeme.com/221106/p9#a221106p9)
+ - [Pokemon Scarlet and Violet: Every New Pokemon Revealed So Far     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-every-new-pokemon-revealed-so-far/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
