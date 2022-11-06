@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twelve South HiRise 3 review: Great design but not MFi-approved](https://appleinsider.com/articles/22/11/05/twelve-south-hirise-3-review-great-design-but-not-mfi-approved?utm_medium=rss)
+ - [Best Gel Mattress for 2022     - CNET](https://www.cnet.com/health/sleep/best-gel-mattress/#ftag=CAD590a51e)
  - [Hands-on with Matter devices at an official launch event; Matter has a long way to go before it delivers on a promise of an interoperable and simple smart home &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/221106/p4#a221106p4)
  - [Smartex, whose machine vision-based software spots defects in textile manufacturing, raised a $24.7M Series A led by Lightspeed, Tony Fadell&#39;s Build Collective &lpar;Haje Jan Kamps/TechCrunch&rpar;](http://www.techmeme.com/221106/p3#a221106p3)<!-- TECH:END -->
 
