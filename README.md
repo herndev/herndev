@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pixel 7 Pro vs iPhone 14 Pro cinematic video comparison: A clear winner](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-cinematic-video-3224690/)
- - [Apple works on waking Siri without the &#39;Hey&#39;](https://appleinsider.com/articles/22/11/06/apple-works-on-waking-siri-without-the-hey?utm_medium=rss)
- - [Amazon, BurgerFi, Chili&#39;s, and other companies are ending or rethinking delivery and restaurant robot trials, unable to balance their costs against usefulness &lpar;Katie Deighton/Wall Street Journal&rpar;](http://www.techmeme.com/221106/p7#a221106p7)<!-- TECH:END -->
+ - [Source: Apple is working on simplifying the &quot;Hey Siri&quot; trigger phrase to just &quot;Siri&quot; and plans to integrate Siri deeper into third-party apps and services &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221106/p8#a221106p8)
+ - [Apple reportedly wants to swap the ‘Hey Siri’ trigger phrase for just ‘Siri’](https://www.theverge.com/2022/11/6/23443110/apple-swap-hey-siri-wake-word-rumors-voice-assistant)
+ - [Pixel 7 Pro vs iPhone 14 Pro cinematic video comparison: A clear winner](https://www.androidauthority.com/pixel-7-pro-vs-iphone-14-pro-cinematic-video-3224690/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
