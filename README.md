@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ seizes internet domains for Z-Library, a repository that went viral on TikTok for offering 11M+ books, including pirated textbooks, and 84M articles &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221105/p15#a221105p15)
- - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)
- - [BMW i7 2022 Review: High Life, High-Tech](https://www.wired.com/review/review-bmw-i7-2022/)<!-- TECH:END -->
+ - [The most efficient bitcoin mining machines are selling for ~$24 per 100 terahashes, down from $106 in 2021, as unprofitable miners are forced to sell equipment &lpar;Paul Vigna/Wall Street Journal&rpar;](http://www.techmeme.com/221105/p16#a221105p16)
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 10 Land on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-10-land-on-disney-plus/#ftag=CAD590a51e)
+ - [Being an Early Bird Is Good for Your Health. Here&#39;s How to Switch     - CNET](https://www.cnet.com/health/sleep/how-switching-from-night-owl-to-early-bird-can-help-protect-your-health/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
