@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why Acer? Why!?](http://9gag.com/gag/a9qYqE1)
- - ⏩ [SportsMANship](http://9gag.com/gag/ap9L3qW)
- - 👉 [What could go wrong playing with a loaded gun in your moms house](http://9gag.com/gag/axoDRzn)<!-- MEMES:END -->
+ - 💣 [Missed those times](http://9gag.com/gag/adPXxoV)
+ - ⏩ [Nostalgia alert.](http://9gag.com/gag/aREeoO2)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
