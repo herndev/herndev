@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - ⏩ [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 👉 [Balancing Act](http://9gag.com/gag/a5XrjOo)<!-- MEMES:END -->
+ - 💣 [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - ⏩ [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
+ - 👉 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
 
 ---
 
