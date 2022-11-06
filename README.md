@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
- - ⏩ [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
- - 👉 [Least he finished](http://9gag.com/gag/aKE3p2O)<!-- MEMES:END -->
+ - 💣 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
+ - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
 
 ---
 
