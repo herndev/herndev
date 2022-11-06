@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)
- - ⏩ [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)
- - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
+ - 💣 [SportsMANship](http://9gag.com/gag/ap9L3qW)
+ - ⏩ [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 👉 [What bars in Russia look like now](http://9gag.com/gag/aeQ6Opj)<!-- MEMES:END -->
 
 ---
 
