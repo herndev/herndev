@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - ⏩ [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - 👉 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)<!-- MEMES:END -->
+ - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - 👉 [Heh](http://9gag.com/gag/aeQ6m9v)<!-- MEMES:END -->
 
 ---
 
