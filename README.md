@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Riot teamed Lil Nas X up with a holographic mech for 2022’s Worlds opening ceremony](https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x)
- - [French startup Fintecture, which helps companies digitize their B2B payments, has raised a &amp;euro;26M Series A from Target Global, Eurazeo, RTP Global, and others &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221105/p17#a221105p17)
- - [Twitter Appears to Roll Out Pay-for-Verification Plan in iOS Update     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-roll-out-pay-for-verification-plan-in-ios-update/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Jack Dorsey apologizes for growing Twitter &quot;too quickly&quot;, amid mass layoffs; Twitter&#39;s headcount grew from ~2,000 to 7,500+ between June 2013 and December 2021 &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221106/p2#a221106p2)
+ - [Google Cloud says it is running a Solana validator and is indexing Solana data for BigQuery, will add Solana support to Blockchain Node Engine in 2023, and more &lpar;Stephen Graves/Decrypt&rpar;](http://www.techmeme.com/221106/p1#a221106p1)
+ - [Riot teamed Lil Nas X up with a holographic mech for 2022’s Worlds opening ceremony](https://www.theverge.com/2022/11/6/23440640/worlds-2022-opening-ceremony-league-of-legends-lil-nas-x)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
