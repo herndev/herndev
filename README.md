@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - ⏩ [Trying to rob a car but they didn&#39;t know a surprise was waiting for them](http://9gag.com/gag/aA0POMR)
+ - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
  - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
 
 ---
