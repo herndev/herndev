@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
- - ⏩ [Florence Pugh](http://9gag.com/gag/adPXRpD)
+ - 💣 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
+ - ⏩ [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
  - 👉 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
 
 ---
