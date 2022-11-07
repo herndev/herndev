@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alibaba, Biren, and other Chinese companies halt advanced chip production and tweak designs, responding to US sanctions that cap processing power &lpar;Financial Times&rpar;](http://www.techmeme.com/221107/p4#a221107p4)
- - [Sources: Apple expects to produce at least 3M fewer iPhone 14 handsets than anticipated in 2022, aiming to make 87M or fewer, primarily due to softer demand &lpar;Bloomberg&rpar;](http://www.techmeme.com/221107/p3#a221107p3)
- - [Devialet brings its sci-fi design aesthetics to a $790 portable speaker](https://www.theverge.com/2022/11/7/23436994/devialet-mania-design-bluetooth-speaker-features-battery-spotify-airplay)<!-- TECH:END -->
+ - [Amazon says it has ‘hundreds’ of Rivian electric vans making deliveries in the US](https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev)
+ - [Bluetti&#39;s AC500 raises $11M in crowdfunding, will hit Amazon on November 25](https://appleinsider.com/articles/22/11/07/bluettis-ac500-raises-11m-in-crowdfunding-will-hit-amazon-on-november-25?utm_medium=rss)
+ - [A profile of Alex Spiro, a celebrity lawyer and central figure in Elon Musk&#39;s bid to overhaul Twitter, who has done much of the legal heavy lifting so far &lpar;Washington Post&rpar;](http://www.techmeme.com/221107/p8#a221107p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
