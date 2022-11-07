@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with YouTube Shorts Director of Product Management Todd Sherman on UI challenges as YouTube rolls out the TikTok competitor to its TV apps &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221107/p21#a221107p21)
- - [IRS Seizes Another Silk Road Hacker&#39;s $3.36 Bitcoin Stash](https://www.wired.com/story/silk-road-bitcoin-seizure-james-zhong/)
- - [How to enable Taptic Chimes on your Apple Watch in watchOS 9](https://appleinsider.com/articles/22/11/07/how-to-enable-taptic-chimes-on-your-apple-watch-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
+ - [Now Wordle has an editor in charge of picking the next answer](https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett)
+ - [Foxconn reportedly downplayed severity of recent COVID outbreak](https://appleinsider.com/articles/22/11/07/foxconn-reportedly-downplayed-severity-of-recent-covid-outbreak?utm_medium=rss)
+ - [iOS 16.1.1 update expected soon with Emergency SOS via Satellite, bug fixes](https://appleinsider.com/articles/22/11/07/ios-1611-update-expected-soon-with-emergency-sos-via-satellite-bug-fixes?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
