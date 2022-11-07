@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Ethereum&#39;s Shanghai update, expected in 2023, and its WARM Coinbase change, which could reduce fees by up to 26x for some major ecosystem participants &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/221107/p15#a221107p15)
- - [Teflon Nonstick Pans Are Bad. Consider These Alternatives](https://www.wired.com/story/ceramic-carbon-steel-nonstick/)
- - [Best Game Subscription Services &lpar;2022&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)<!-- TECH:END -->
+ - [Fortnite’s new trophy was made by Swarovski](https://www.theverge.com/2022/11/7/23441056/fortnite-fncs-trophy-swarovski-epic-games)
+ - [Airbnb will soon let you search by total price to avoid hidden cleaning fees](https://www.theverge.com/2022/11/7/23444561/airbnb-total-price-update-cleaning-fee-filter)
+ - [Buying two games at Target will get you a third one for free](https://www.theverge.com/2022/11/7/23444518/target-games-sale-wireless-earbuds-gaming-laptop-lenovo-ipad-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
