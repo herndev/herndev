@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He just needs a Paper and a scissor :](http://9gag.com/gag/ap9LnMn)
- - ⏩ [I know talent when I see one](http://9gag.com/gag/a1PXnq8)
- - 👉 [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)<!-- MEMES:END -->
+ - 💣 [Who keeps civilization livable](http://9gag.com/gag/aREeGx5)
+ - ⏩ [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)
+ - 👉 [Go Woke goBroke](http://9gag.com/gag/a04jORz)<!-- MEMES:END -->
 
 ---
 
