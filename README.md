@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Your PlayStation Stars update for November 2022](https://blog.playstation.com/2022/11/07/your-playstation-stars-update-for-november-2022/)
  - [This Week on Xbox: New Releases, Upcoming Games, and More](https://news.xbox.com/en-us/2022/11/04/this-week-on-xbox-new-releases-upcoming-games-and-more/)
- - [Share of the Week: Haunted](https://blog.playstation.com/2022/11/04/share-of-the-week-haunted/)
- - [Final Fantasy XVI interview: worldbuilding, differing viewpoints and favorite characters](https://blog.playstation.com/2022/11/04/final-fantasy-xvi-interview-worldbuilding-differing-viewpoints-and-favorite-characters/)<!-- GAME:END -->
+ - [Share of the Week: Haunted](https://blog.playstation.com/2022/11/04/share-of-the-week-haunted/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
