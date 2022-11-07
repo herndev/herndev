@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
- - ⏩ [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
- - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 💣 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)
+ - ⏩ [Florence Pugh](http://9gag.com/gag/adPXRpD)
+ - 👉 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
 
 ---
 
