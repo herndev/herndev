@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some creators are urging parents not to post videos of their children on social media, arguing that kids can&#39;t consent and removing all the content is hard &lpar;Morgan Sung/NBC News&rpar;](http://www.techmeme.com/221107/p1#a221107p1)
  - [Tuesday Will Bring a &#39;Blood Moon&#39; Total Lunar Eclipse: How to See It     - CNET](https://www.cnet.com/science/space/tuesday-to-bring-a-blood-moon-total-lunar-eclipse-how-to-see-it/#ftag=CAD590a51e)
- - [Q&amp;A with Mastodon&#39;s German-born founder and lead dev Eugen Rochko, on how a federated approach to social media mitigates hateful speech, why he built it, more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/221106/p18#a221106p18)
- - [How to use Siren on your Apple Watch Ultra](https://www.androidauthority.com/how-to-apple-watch-ultra-siren-3231669/)<!-- TECH:END -->
+ - [Q&amp;A with Mastodon&#39;s German-born founder and lead dev Eugen Rochko, on how a federated approach to social media mitigates hateful speech, why he built it, more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/221106/p18#a221106p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
