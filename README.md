@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
- - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
+ - 💣 [He just needs a Paper and a scissor :](http://9gag.com/gag/ap9LnMn)
+ - ⏩ [I know talent when I see one](http://9gag.com/gag/a1PXnq8)
+ - 👉 [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)<!-- MEMES:END -->
 
 ---
 
