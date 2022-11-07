@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon says it has ‘hundreds’ of Rivian electric vans making deliveries in the US](https://www.theverge.com/2022/11/7/23443995/amazon-rivian-electric-delivery-van-fleet-ev)
- - [Bluetti&#39;s AC500 raises $11M in crowdfunding, will hit Amazon on November 25](https://appleinsider.com/articles/22/11/07/bluettis-ac500-raises-11m-in-crowdfunding-will-hit-amazon-on-november-25?utm_medium=rss)
- - [A profile of Alex Spiro, a celebrity lawyer and central figure in Elon Musk&#39;s bid to overhaul Twitter, who has done much of the legal heavy lifting so far &lpar;Washington Post&rpar;](http://www.techmeme.com/221107/p8#a221107p8)<!-- TECH:END -->
+ - [Unity, which makes the eponymous game engine, merges with adtech company ironSource in a $4.4B all-stock deal; Unity stock is down ~75% YTD and ironSource ~50% &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221107/p11#a221107p11)
+ - [Now Samsung is bringing stable Android 13 to the Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-stable-android-13-one-ui-5-3231896/)
+ - [Elon Musk Is Overloaded](https://www.wired.com/story/twitter-elon-musk-is-overloaded/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
