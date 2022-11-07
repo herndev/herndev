@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - ⏩ [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - 👉 [Least he finished](http://9gag.com/gag/aKE3p2O)<!-- MEMES:END -->
+ - 💣 [Not a good idea to use lighter to open the knot](http://9gag.com/gag/aeQ67dv)
+ - ⏩ [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
+ - 👉 [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)<!-- MEMES:END -->
 
 ---
 
