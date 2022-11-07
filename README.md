@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
- - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - 👉 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
+ - 💣 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
+ - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
 
 ---
 
