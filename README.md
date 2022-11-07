@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
- - ⏩ [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 👉 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
+ - 💣 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
+ - ⏩ [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - 👉 [Take notes.](http://9gag.com/gag/a1PXx88)<!-- MEMES:END -->
 
 ---
 
