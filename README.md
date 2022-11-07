@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Now Wordle has an editor in charge of picking the next answer](https://www.theverge.com/2022/11/7/23445167/wordle-the-new-york-times-editor-tracy-bennett)
- - [Foxconn reportedly downplayed severity of recent COVID outbreak](https://appleinsider.com/articles/22/11/07/foxconn-reportedly-downplayed-severity-of-recent-covid-outbreak?utm_medium=rss)
- - [iOS 16.1.1 update expected soon with Emergency SOS via Satellite, bug fixes](https://appleinsider.com/articles/22/11/07/ios-1611-update-expected-soon-with-emergency-sos-via-satellite-bug-fixes?utm_medium=rss)<!-- TECH:END -->
+ - [Google reveals Black Friday deals, including Pixel 6a for $300](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
+ - [Nanoleaf is now for squares](https://www.theverge.com/2022/11/7/23445329/nanoleaf-lines-squared-release-date-price)
+ - [The Secret Ballot Is US Democracy’s Last Line of Defense](https://www.wired.com/story/secret-ballot-voter-intimidation-2022-us-midterms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
