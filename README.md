@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The CW app: The best free streaming service you have never heard of](https://www.androidauthority.com/what-is-the-cw-app-3229286/)
- - [Samsung tries adding Apple-style Back Tap to Galaxy S and Flip devices](https://appleinsider.com/articles/22/11/07/samsung-tries-adding-apple-style-back-tap-to-galaxy-s-and-flip-devices?utm_medium=rss)
- - [BlockFi debuts a digital assets interest product for US accredited investors, after shutting down a yield-paying crypto product the SEC said was illegal &lpar;Tomio Geron/Protocol&rpar;](http://www.techmeme.com/221107/p20#a221107p20)<!-- TECH:END -->
+ - [An interview with YouTube Shorts Director of Product Management Todd Sherman on UI challenges as YouTube rolls out the TikTok competitor to its TV apps &lpar;David Pierce/The Verge&rpar;](http://www.techmeme.com/221107/p21#a221107p21)
+ - [IRS Seizes Another Silk Road Hacker&#39;s $3.36 Bitcoin Stash](https://www.wired.com/story/silk-road-bitcoin-seizure-james-zhong/)
+ - [How to enable Taptic Chimes on your Apple Watch in watchOS 9](https://appleinsider.com/articles/22/11/07/how-to-enable-taptic-chimes-on-your-apple-watch-in-watchos-9?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
