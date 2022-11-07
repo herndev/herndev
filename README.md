@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Least he finished](http://9gag.com/gag/aKE3p2O)
- - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 👉 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
+ - 💣 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - ⏩ [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
 
 ---
 
