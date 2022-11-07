@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He definitely kept his job after this](http://9gag.com/gag/aeQ67pv)
- - ⏩ [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
- - 👉 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)<!-- MEMES:END -->
+ - 💣 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - ⏩ [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 👉 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
 
 ---
 
