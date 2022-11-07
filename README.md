@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
+ - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
+ - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
+ - 👉 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)<!-- MEMES:END -->
 
 ---
 
