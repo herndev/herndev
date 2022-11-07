@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
- - 👉 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
+ - 💣 [He definitely kept his job after this](http://9gag.com/gag/aeQ67pv)
+ - ⏩ [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
+ - 👉 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)<!-- MEMES:END -->
 
 ---
 
