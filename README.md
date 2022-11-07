@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title here](http://9gag.com/gag/az2ABbj)
- - ⏩ [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)
- - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
+ - 💣 [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 👉 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
 
 ---
 
