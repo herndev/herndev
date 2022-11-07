@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
- - ⏩ [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
- - 👉 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
+ - 💣 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
+ - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 👉 [Least he finished](http://9gag.com/gag/aKE3p2O)<!-- MEMES:END -->
 
 ---
 
