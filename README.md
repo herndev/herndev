@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some creators are urging parents not to post videos of their children on social media, arguing that kids can&#39;t consent and removing all the content is hard &lpar;Morgan Sung/NBC News&rpar;](http://www.techmeme.com/221107/p1#a221107p1)
- - [Tuesday Will Bring a &#39;Blood Moon&#39; Total Lunar Eclipse: How to See It     - CNET](https://www.cnet.com/science/space/tuesday-to-bring-a-blood-moon-total-lunar-eclipse-how-to-see-it/#ftag=CAD590a51e)
- - [Q&amp;A with Mastodon&#39;s German-born founder and lead dev Eugen Rochko, on how a federated approach to social media mitigates hateful speech, why he built it, more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/221106/p18#a221106p18)<!-- TECH:END -->
+ - [Here’s what Qualcomm’s first proper Apple Silicon rival could look like](https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/)
+ - [Disney Plus announces price hikes, ad-supported plan coming next month](https://www.androidauthority.com/disney-plus-price-hike-december-2022-3231748/)
+ - [Some creators are urging parents not to post videos of their children on social media, arguing that kids can&#39;t consent and removing all the content is hard &lpar;Morgan Sung/NBC News&rpar;](http://www.techmeme.com/221107/p1#a221107p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
