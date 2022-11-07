@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - ⏩ [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 👉 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)<!-- MEMES:END -->
+ - 💣 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 👉 [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)<!-- MEMES:END -->
 
 ---
 
