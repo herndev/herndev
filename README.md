@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 Pro renders leak: Check out that camera bump](https://www.androidauthority.com/xiaomi-13-pro-renders-leak-check-out-that-camera-bump-3231767/)
- - [Amazon just announced the cheapest annual Prime Video plan ever in this country](https://www.androidauthority.com/amazon-prime-video-mobile-edition-plan-3231760/)
- - [Here’s what Qualcomm’s first proper Apple Silicon rival could look like](https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/)<!-- TECH:END -->
+ - [Daily Authority: 📖 A library in your pocket](https://www.androidauthority.com/daily-authority-november-7-2022-3231749/)
+ - [Binance CEO Changpeng Zhao plans to sell the remaining FTT tokens taken on from exiting FTX&#39;s Alameda in 2021; Binance received ~$2.1B from the previous sale &lpar;CoinDesk&rpar;](http://www.techmeme.com/221107/p2#a221107p2)
+ - [UFC 281 Israel Adesanya vs. Alex Pereira: How to Watch, Start Times     - CNET](https://www.cnet.com/culture/sports/ufc-281-israel-adesanya-vs-alex-pereira-how-to-watch-start-times/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
