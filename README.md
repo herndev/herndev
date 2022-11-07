@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
- - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [Can anyone tell her what is so funny?](http://9gag.com/gag/aXnwWY2)<!-- MEMES:END -->
+ - 💣 [Blinker fluid installer?](http://9gag.com/gag/aYVLDg0)
+ - ⏩ [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)
+ - 👉 [Title here](http://9gag.com/gag/az2ABbj)<!-- MEMES:END -->
 
 ---
 
