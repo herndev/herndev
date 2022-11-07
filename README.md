@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Star Wars spinoff The Acolyte adds Lee Jung-jae, Carrie-Anne Moss, and more to cast](https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus)
- - [Apple profiles NightWare PTSD nightmare-fighting Apple Watch app](https://appleinsider.com/articles/22/11/07/apple-profiles-nightware-ptsd-nightmare-fighting-apple-watch-app?utm_medium=rss)
- - [The Verge Holiday Gift Guide 2022](https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech)<!-- TECH:END -->
+ - [Palantir Q3: revenue of $478M, up 22% YoY, vs. $470M est., US commercial customer count increased 124% YoY and US commercial revenue up 53% YoY; stock down 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221107/p19#a221107p19)
+ - [Now everyone can post their Stories on Signal](https://www.theverge.com/2022/11/7/23444791/signal-stories-ios-android-now-available)
+ - [HP’s Pavilion Plus 14 is a powerful, confusing OLED machine](https://www.theverge.com/23440913/hp-pavilion-plus-14-intel-oled-laptop-review-price-specs-features-design)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
