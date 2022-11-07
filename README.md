@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
- - ⏩ [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - 👉 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)<!-- MEMES:END -->
+ - 💣 [RIP Ethan Klein](http://9gag.com/gag/aOxvAOv)
+ - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
+ - 👉 [Ok I give up guys...](http://9gag.com/gag/aVbeZNw)<!-- MEMES:END -->
 
 ---
 
