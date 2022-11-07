@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things the Pixel Watch does better and worse than the Apple Watch Series 8](https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/)
- - [Elon Musk Has Put Twitter’s Free Speech in Danger](https://www.wired.com/story/twitter-free-speech-musk-takeover/)
- - [Matter launches and supported devices get made official](https://appleinsider.com/articles/22/11/07/matter-launches-and-supported-devices-get-made-official?utm_medium=rss)<!-- TECH:END -->
+ - [Star Wars spinoff The Acolyte adds Lee Jung-jae, Carrie-Anne Moss, and more to cast](https://www.theverge.com/2022/11/7/23444811/star-wars-the-acolyte-cast-lee-jung-jae-carrie-anne-moss-disney-plus)
+ - [Apple profiles NightWare PTSD nightmare-fighting Apple Watch app](https://appleinsider.com/articles/22/11/07/apple-profiles-nightware-ptsd-nightmare-fighting-apple-watch-app?utm_medium=rss)
+ - [The Verge Holiday Gift Guide 2022](https://www.theverge.com/23435489/holiday-gift-guide-best-ideas-cool-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
