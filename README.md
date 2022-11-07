@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Press button to make rapper Lil-Ghost to appear](http://9gag.com/gag/agoGxN6)
- - ⏩ [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - 👉 [Take notes.](http://9gag.com/gag/a1PXx88)<!-- MEMES:END -->
+ - 💣 [Title here](http://9gag.com/gag/az2ABbj)
+ - ⏩ [Strange at least, considering the carvings in megaliths all over the world of this non human looking guy holding a bag and a pine cone looking thing](http://9gag.com/gag/aPgWobn)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
