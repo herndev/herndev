@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon slashes MacBook Pro prices by up to $500 in Early Black Friday sale](https://appleinsider.com/articles/22/11/05/amazon-slashes-macbook-pro-prices-by-up-to-500-in-early-black-friday-sale?utm_medium=rss)
- - [iPhone 14 Pro lead times elevated but stable, iPhone 14 demand &#39;modest&#39;](https://appleinsider.com/articles/22/11/07/iphone-14-pro-lead-times-elevated-but-stable-iphone-14-demand-modest?utm_medium=rss)
- - [Elon Musk’s response to fake verified Elon Twitter accounts: a new permanent ban policy for impersonation](https://www.theverge.com/2022/11/6/23443871/elon-musk-twitter-permaban-impersonation-parody)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episode 9 Explained: A Star Wars Escape Plan, a Terrible Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-explained-a-star-wars-escape-plan-a-terrible-sound-and-a-stalker/#ftag=CAD590a51e)
+ - [The Daily Habit That&#39;s Just As Important for Your Health As Exercise     - CNET](https://www.cnet.com/health/fitness/the-daily-habit-thats-just-as-important-for-your-health-as-exercise/#ftag=CAD590a51e)
+ - [White House plans to push for antitrust legislation during the post-midterms lame duck session, perhaps the last chance for AICOA, Open App Markets Act, others &lpar;Emily Birnbaum/Bloomberg&rpar;](http://www.techmeme.com/221106/p17#a221106p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
