@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Palantir Q3: revenue of $478M, up 22% YoY, vs. $470M est., US commercial customer count increased 124% YoY and US commercial revenue up 53% YoY; stock down 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221107/p19#a221107p19)
- - [Now everyone can post their Stories on Signal](https://www.theverge.com/2022/11/7/23444791/signal-stories-ios-android-now-available)
- - [HP’s Pavilion Plus 14 is a powerful, confusing OLED machine](https://www.theverge.com/23440913/hp-pavilion-plus-14-intel-oled-laptop-review-price-specs-features-design)<!-- TECH:END -->
+ - [To see climate risks your home faces, check out two new tools](https://www.theverge.com/2022/11/7/23444848/climate-risk-property-search-online-tools-fire-heat-flood-map)
+ - [Poweradd Pro Portable Charger review: Attractive portable charging](https://appleinsider.com/articles/22/11/07/poweradd-pro-portable-charger-review-a-modern-portable-charger-for-your-apple-devices?utm_medium=rss)
+ - [The best Android emulators for PC and Mac of 2022](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
