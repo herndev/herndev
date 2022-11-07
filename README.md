@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fortnite’s new trophy was made by Swarovski](https://www.theverge.com/2022/11/7/23441056/fortnite-fncs-trophy-swarovski-epic-games)
- - [Airbnb will soon let you search by total price to avoid hidden cleaning fees](https://www.theverge.com/2022/11/7/23444561/airbnb-total-price-update-cleaning-fee-filter)
- - [Buying two games at Target will get you a third one for free](https://www.theverge.com/2022/11/7/23444518/target-games-sale-wireless-earbuds-gaming-laptop-lenovo-ipad-deal)<!-- TECH:END -->
+ - [5 things the Pixel Watch does better and worse than the Apple Watch Series 8](https://www.androidauthority.com/google-pixel-watch-vs-apple-watch-3229547/)
+ - [Elon Musk Has Put Twitter’s Free Speech in Danger](https://www.wired.com/story/twitter-free-speech-musk-takeover/)
+ - [Matter launches and supported devices get made official](https://appleinsider.com/articles/22/11/07/matter-launches-and-supported-devices-get-made-official?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
