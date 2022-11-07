@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who keeps civilization livable](http://9gag.com/gag/aREeGx5)
- - ⏩ [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)
- - 👉 [Go Woke goBroke](http://9gag.com/gag/a04jORz)<!-- MEMES:END -->
+ - 💣 [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - ⏩ [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)
+ - 👉 [Least he finished](http://9gag.com/gag/aKE3p2O)<!-- MEMES:END -->
 
 ---
 
