@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Two Lots of Blood Pressure Medicine Recalled: Is Yours Affected?     - CNET](https://www.cnet.com/health/medical/two-lots-of-blood-pressure-medicine-recalled-is-yours-affected/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 10 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-10-drop-on-disney-plus/#ftag=CAD590a51e)
- - [Best USB-C Car Charger for Your iPhone or Android Phone     - CNET](https://www.cnet.com/tech/mobile/best-usb-car-charger/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Q&amp;A with Mastodon&#39;s German-born founder and lead dev Eugen Rochko, on how a federated approach to social media mitigates hateful speech, why he built it, more &lpar;Billy Perrigo/TIME&rpar;](http://www.techmeme.com/221106/p18#a221106p18)
+ - [How to use Siren on your Apple Watch Ultra](https://www.androidauthority.com/how-to-apple-watch-ultra-siren-3231669/)
+ - [Two Lots of Blood Pressure Medicine Recalled: Is Yours Affected?     - CNET](https://www.cnet.com/health/medical/two-lots-of-blood-pressure-medicine-recalled-is-yours-affected/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
