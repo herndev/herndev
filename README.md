@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not a good idea to use lighter to open the knot](http://9gag.com/gag/aeQ67dv)
- - ⏩ [The time a YouTuber made Elon&#39;s brain reboot](http://9gag.com/gag/aEqnOG9)
- - 👉 [Madlad spends 4 days researching to destroy girls presentation who mocked him](http://9gag.com/gag/a3ZjxNm)<!-- MEMES:END -->
+ - 💣 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
+ - ⏩ [This is very scary](http://9gag.com/gag/aQEx2dw)
+ - 👉 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)<!-- MEMES:END -->
 
 ---
 
