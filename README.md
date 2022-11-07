@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is bcoz he&#39;s a gamer](http://9gag.com/gag/a6qQpM9)
- - ⏩ [Balancing Act](http://9gag.com/gag/a5XrjOo)
- - 👉 [Thieves\u2019 Code: Secret messages to mark houses](http://9gag.com/gag/aYVL1rV)<!-- MEMES:END -->
+ - 💣 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)
+ - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 👉 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)<!-- MEMES:END -->
 
 ---
 
