@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look on the mum&#39;s face is priceless](http://9gag.com/gag/aqeLxZL)
- - ⏩ [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - 👉 [Least he finished](http://9gag.com/gag/aKE3p2O)<!-- MEMES:END -->
+ - 💣 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
+ - ⏩ [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
+ - 👉 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)<!-- MEMES:END -->
 
 ---
 
