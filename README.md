@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Unity, which makes the eponymous game engine, merges with adtech company ironSource in a $4.4B all-stock deal; Unity stock is down ~75% YTD and ironSource ~50% &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221107/p11#a221107p11)
- - [Now Samsung is bringing stable Android 13 to the Galaxy S21 series](https://www.androidauthority.com/samsung-galaxy-s21-stable-android-13-one-ui-5-3231896/)
- - [Elon Musk Is Overloaded](https://www.wired.com/story/twitter-elon-musk-is-overloaded/)<!-- TECH:END -->
+ - [A look at Ethereum&#39;s Shanghai update, expected in 2023, and its WARM Coinbase change, which could reduce fees by up to 26x for some major ecosystem participants &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/221107/p15#a221107p15)
+ - [Teflon Nonstick Pans Are Bad. Consider These Alternatives](https://www.wired.com/story/ceramic-carbon-steel-nonstick/)
+ - [Best Game Subscription Services &lpar;2022&rpar;: Xbox Game Pass, PlayStation Plus, Nintendo Online](https://www.wired.com/story/best-game-subscriptions/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
