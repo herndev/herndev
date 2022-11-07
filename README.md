@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
- - ⏩ [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
- - 👉 [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)<!-- MEMES:END -->
+ - 💣 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
+ - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
+ - 👉 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
 
 ---
 
