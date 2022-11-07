@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s what Qualcomm’s first proper Apple Silicon rival could look like](https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/)
- - [Disney Plus announces price hikes, ad-supported plan coming next month](https://www.androidauthority.com/disney-plus-price-hike-december-2022-3231748/)
- - [Some creators are urging parents not to post videos of their children on social media, arguing that kids can&#39;t consent and removing all the content is hard &lpar;Morgan Sung/NBC News&rpar;](http://www.techmeme.com/221107/p1#a221107p1)<!-- TECH:END -->
+ - [Xiaomi 13 Pro renders leak: Check out that camera bump](https://www.androidauthority.com/xiaomi-13-pro-renders-leak-check-out-that-camera-bump-3231767/)
+ - [Amazon just announced the cheapest annual Prime Video plan ever in this country](https://www.androidauthority.com/amazon-prime-video-mobile-edition-plan-3231760/)
+ - [Here’s what Qualcomm’s first proper Apple Silicon rival could look like](https://www.androidauthority.com/qualcomm-nuvia-apple-silicon-rival-hamoa-3230654/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
