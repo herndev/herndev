@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The raffle ticket prices at an elementary school fair.](http://9gag.com/gag/aoKpLPx)
- - ⏩ [What&#39;s going on here ?](http://9gag.com/gag/avQnvq5)
- - 👉 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
+ - 💣 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
+ - ⏩ [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)
+ - 👉 [It&#39;s my turn now](http://9gag.com/gag/a2K5Dmp)<!-- MEMES:END -->
 
 ---
 
