@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Delve into a New Story in Neverwinter: Northdark Reaches](https://news.xbox.com/en-us/2022/11/08/delve-into-a-new-story-in-neverwinter-northdark-reaches/)
  - [Available Now: Get Frosty in Halo Infinite’s Winter Update](https://news.xbox.com/en-us/2022/11/08/available-now-get-frosty-in-halo-infinites-winter-update/)
- - [Deliver Us Mars is a Beautiful Sci-Fi Game about Saving Our Planet](https://news.xbox.com/en-us/2022/11/08/deliver-us-mars-is-a-beautiful-sci-fi-game-about-saving-our-planet/)
- - [Complex puzzles, intricate room flows: how Escape Academy’s Escape from Anti-Escape Island DLC was built](https://blog.playstation.com/2022/11/08/complex-puzzles-intricate-room-flows-how-escape-academys-escape-from-anti-escape-island-dlc-was-built/)<!-- GAME:END -->
+ - [Deliver Us Mars is a Beautiful Sci-Fi Game about Saving Our Planet](https://news.xbox.com/en-us/2022/11/08/deliver-us-mars-is-a-beautiful-sci-fi-game-about-saving-our-planet/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
