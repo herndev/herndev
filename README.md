@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [First apparent leaks of Pixel 8 series show codenames, some expected specs](https://www.androidauthority.com/google-pixel-8-3232704/)
- - [Apple AirPods lawsuit over charging case tech settled on eve of retrial](https://appleinsider.com/articles/22/11/08/apple-airpods-lawsuit-over-charging-case-tech-settled-on-eve-of-retrial?utm_medium=rss)
- - [Apple Pacific Centre retail store opens on November 18](https://appleinsider.com/articles/22/11/08/apple-pacific-centre-retail-store-opens-on-november-18?utm_medium=rss)<!-- TECH:END -->
+ - [Peacock is adding live TV from every local NBC station](https://www.theverge.com/2022/11/8/23447937/peacock-live-local-nbc-tv-announced-premium-plus-subscribers)
+ - [Disney hit 235.7M global streaming subscribers in its Q4, above Netflix&#39;s 223.1M in its Q3; Disney+ had 164.2M subscribers, Hulu had 47.2M, and ESPN+ had 24.3M &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221108/p29#a221108p29)
+ - [&#39;House of the Dragon&#39; Swapped Twins in Finale, Report Says     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-swapped-twins-in-finale-report/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
