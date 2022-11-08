@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Get rekt](http://9gag.com/gag/aVbe9Dn)
- - ⏩ [A drunk driver hits multiple vehicles in an apartment block, slams into garage door. Later, in front of reporters, he claims to have only drank `a glass of wine`](http://9gag.com/gag/agoGKPv)
- - 👉 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)<!-- MEMES:END -->
+ - 💣 [Title here](http://9gag.com/gag/az2ABbj)
+ - ⏩ [Least he finished](http://9gag.com/gag/aKE3p2O)
+ - 👉 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
 
 ---
 
