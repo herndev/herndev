@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How am I supposed to mark myself as parody if I can’t change my screen name, Elon?](https://www.theverge.com/2022/11/7/23446171/screen-name-twitter-musk-parody-whoops)
- - [Early Twitter investor Chris Sacca says Elon Musk is &quot;alone right now and winging this&quot; and needs people around him who can &quot;speak some truth to power&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221107/p27#a221107p27)
- - [&#39;Andor&#39; Episode 9 Recap: A Star Wars Escape Plan, an Agonizing Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-recap-a-star-wars-escape-plan-an-agonizing-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)
+ - [Elon Musk has discussed putting all of Twitter behind a paywall](https://www.theverge.com/2022/11/7/23446262/elon-musk-twitter-paywall-possible)
+ - [AMC is working with Zoom to turn some theaters into giant meeting rooms](https://www.theverge.com/2022/11/7/23446136/amc-zoom-rooms-theaters-meetings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
