@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is now more profitable than Chinese tech giants as its bargain with Beijing lets the company evade the tech crackdown while gaining from US chip sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/221108/p4#a221108p4)
- - [Google is working with Renault to build a “vehicle of tomorrow”](https://www.androidauthority.com/google-renault-android-auto-sdv-car-3232436/)
- - [Mediatek Dimensity 9200 announced: The 64-bit only era is here](https://www.androidauthority.com/mediatek-dimensity-9200-3230762/)<!-- TECH:END -->
+ - [The best 4G LTE smartwatches you can buy](https://www.androidauthority.com/best-4g-lte-smartwatch-3231154/)
+ - [Indonesia-based PT Global Digital Niaga, which owns e-commerce group Blibli, raised ~$509M in Jakarta&#39;s second-largest IPO in 2022, after GoTo&#39;s $1.1B April IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/221108/p8#a221108p8)
+ - [It’s officially the end of the road for the Pixel 4 series](https://www.androidauthority.com/google-pixel-4-pixel-4-xl-end-of-life-3232459/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
