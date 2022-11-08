@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Temperatures are rising at super speed in the US](https://www.theverge.com/2022/11/8/23447081/us-climate-change-national-climate-assessment-draft)
- - [LG Display Reveals Stretchable Screen     - CNET](https://www.cnet.com/tech/home-entertainment/lg-display-reveals-stretchable-screen/#ftag=CAD590a51e)
- - [&#39;Ask Apple&#39; for developers restarts on Nov. 14](https://appleinsider.com/articles/22/11/08/ask-apple-for-developers-restarts-on-nov-14?utm_medium=rss)<!-- TECH:END -->
+ - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-microsoft-sale)
+ - [Samsung Galaxy Z Fold 3 starts receiving its November 2022 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [Native Union&#39;s new foldable Mac &amp; iPad stand can fit just about anywhere](https://appleinsider.com/articles/22/11/08/native-unions-new-foldable-mac-ipad-stand-can-fit-just-about-anywhere?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
