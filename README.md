@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)
- - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 👉 [If you don\u2019t know the difference between an alligator and a crocodile here it is: the crocodile is next to the alligator](http://9gag.com/gag/aQExVAW)<!-- MEMES:END -->
+ - 💣 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
+ - ⏩ [Audience becomes the choir in Rome.](http://9gag.com/gag/a4ojBQ6)
+ - 👉 [Impressions](http://9gag.com/gag/aVbe5D8)<!-- MEMES:END -->
 
 ---
 
