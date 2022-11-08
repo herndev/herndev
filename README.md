@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)
- - [Elon Musk has discussed putting all of Twitter behind a paywall](https://www.theverge.com/2022/11/7/23446262/elon-musk-twitter-paywall-possible)
- - [AMC is working with Zoom to turn some theaters into giant meeting rooms](https://www.theverge.com/2022/11/7/23446136/amc-zoom-rooms-theaters-meetings)<!-- TECH:END -->
+ - [How to use Apple Watch Low Power Mode](https://www.androidauthority.com/how-to-apple-watch-low-power-mode-3231566/)
+ - [Use Strava’s Global Heatmap to see where people run, bike, and swim near you](https://www.androidauthority.com/strava-global-heatmap-3231112/)
+ - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
