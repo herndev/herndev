@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 7&rpar;](https://news.xbox.com/en-us/2022/11/07/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-7/)
- - [An Array of Content Marks the Black Friday Update for World of Warships: Legends](https://news.xbox.com/en-us/2022/11/07/an-array-of-content-marks-black-friday-update-for-world-of-warships-legends/)
- - [River City Girls 2: Introducing Provie](https://news.xbox.com/en-us/2022/11/07/river-city-girls-2-introducing-provie/)<!-- GAME:END -->
+ - [Complex puzzles, intricate room flows: how Escape Academy’s Escape from Anti-Escape Island DLC was built](https://blog.playstation.com/2022/11/08/complex-puzzles-intricate-room-flows-how-escape-academys-escape-from-anti-escape-island-dlc-was-built/)
+ - [10 gameplay tips for God of War Ragnarök: Power Levels, Skill Labors, Armor Set Bonuses, and more](https://blog.playstation.com/2022/11/08/10-gameplay-tips-for-god-of-war-ragnarok-power-levels-skill-labors-armor-set-bonuses-and-more/)
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 7&rpar;](https://news.xbox.com/en-us/2022/11/07/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-7/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
