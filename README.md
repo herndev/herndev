@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [25 Best Gifts for Teens &lpar;2022&rpar;: Hydro Flasks, Record Players, and Apple Gear](https://www.wired.com/gallery/best-gift-ideas-for-teens/)
- - [The Roccat Sova Solved My Gaming Problems](https://www.wired.com/story/roccat-silva-rave/)
- - [Apple is the most profitable company in China](https://appleinsider.com/articles/22/11/08/apple-is-the-most-profitable-company-in-china?utm_medium=rss)<!-- TECH:END -->
+ - [Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls](https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/)
+ - [Nintendo will ‘strengthen digitalization’ in new partnership with Super Mario Run developer](https://www.theverge.com/2022/11/8/23447033/nintendo-ios-android-mobile-games-switch-sales-dena-joint-venture)
+ - [This AI-powered image editor can help online vendors create unique product shots](https://www.theverge.com/2022/11/8/23447102/photoroom-app-magic-studio-ai-image-tool-generation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
