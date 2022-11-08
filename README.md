@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a message to staff, FTX CEO Sam Bankman-Fried says withdrawals on FTX.com are &quot;effectively paused&quot; after FTX saw $6B in net withdrawals in 72 hours &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/221108/p22#a221108p22)
- - [Beats special-edition Powerbeats Pro adds Melody Ehsani designs](https://appleinsider.com/articles/22/11/08/beats-special-edition-powerbeats-pro-adds-melody-ehsani-designs?utm_medium=rss)
- - [In world-first trial, lab-grown blood was just injected into two people](https://www.theverge.com/2022/11/8/23447076/lab-grown-blood-stem-cell-trial-sickle-cell)<!-- TECH:END -->
+ - [Temperatures are rising at super speed in the US](https://www.theverge.com/2022/11/8/23447081/us-climate-change-national-climate-assessment-draft)
+ - [LG Display Reveals Stretchable Screen     - CNET](https://www.cnet.com/tech/home-entertainment/lg-display-reveals-stretchable-screen/#ftag=CAD590a51e)
+ - [&#39;Ask Apple&#39; for developers restarts on Nov. 14](https://appleinsider.com/articles/22/11/08/ask-apple-for-developers-restarts-on-nov-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
