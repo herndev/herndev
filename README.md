@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - ⏩ [Sauce: Vanilla Sky](http://9gag.com/gag/aNwW7Y3)
- - 👉 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
+ - 💣 [A senior lady and grocery store employee have a stand off everytime she visits the store](http://9gag.com/gag/aeQ6L3Q)
+ - ⏩ [Excuse me what the f**k?](http://9gag.com/gag/amAz3e6)
+ - 👉 [How to parent](http://9gag.com/gag/aNwW6nv)<!-- MEMES:END -->
 
 ---
 
