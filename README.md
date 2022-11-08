@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activision Blizzard reports Q3 net bookings down 3% YoY to $1.83B vs. $1.7B est., and MAUs down 6% YoY to 368M; Modern Warfare II made $1B+ in its first 10 days &lpar;Dean Takahashi/VentureBeat&rpar;](http://www.techmeme.com/221107/p26#a221107p26)
- - [End-to-end encrypted messaging app Signal launches its Stories feature out of beta on Android and iOS; users&#39; Stories will automatically expire after 24 hours &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221107/p25#a221107p25)
- - [T-Mobile may be looking to spend big on fiber home internet](https://www.theverge.com/2022/11/7/23445777/t-mobile-home-internet-fiber-5g-partnership-search)<!-- TECH:END -->
+ - [How am I supposed to mark myself as parody if I can’t change my screen name, Elon?](https://www.theverge.com/2022/11/7/23446171/screen-name-twitter-musk-parody-whoops)
+ - [Early Twitter investor Chris Sacca says Elon Musk is &quot;alone right now and winging this&quot; and needs people around him who can &quot;speak some truth to power&quot; &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221107/p27#a221107p27)
+ - [&#39;Andor&#39; Episode 9 Recap: A Star Wars Escape Plan, an Agonizing Sound and a Stalker     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-9-recap-a-star-wars-escape-plan-an-agonizing-sound-and-a-stalker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
