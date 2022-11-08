@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best 4G LTE smartwatches you can buy](https://www.androidauthority.com/best-4g-lte-smartwatch-3231154/)
- - [Indonesia-based PT Global Digital Niaga, which owns e-commerce group Blibli, raised ~$509M in Jakarta&#39;s second-largest IPO in 2022, after GoTo&#39;s $1.1B April IPO &lpar;Bloomberg&rpar;](http://www.techmeme.com/221108/p8#a221108p8)
- - [It’s officially the end of the road for the Pixel 4 series](https://www.androidauthority.com/google-pixel-4-pixel-4-xl-end-of-life-3232459/)<!-- TECH:END -->
+ - [Poll: How do you feel about the Nintendo Switch in 2022?](https://www.androidauthority.com/nintendo-switch-opinion-poll-2022-3231804/)
+ - [Inside Meta’s Oversight Board: 2 Years of Pushing Limits](https://www.wired.com/story/inside-metas-oversight-board-two-years-of-pushing-limits/)
+ - [The Hunt for the Kingpin Behind AlphaBay, Part 3: Alpha Male](https://www.wired.com/story/alphabay-series-part-3-alpha-male/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
