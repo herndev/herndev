@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
- - ⏩ [Audience becomes the choir in Rome.](http://9gag.com/gag/a4ojBQ6)
- - 👉 [Impressions](http://9gag.com/gag/aVbe5D8)<!-- MEMES:END -->
+ - 💣 [Run Forrest Run!](http://9gag.com/gag/a8q4Qjd)
+ - ⏩ [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - 👉 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)<!-- MEMES:END -->
 
 ---
 
