@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Peacock is adding live TV from every local NBC station](https://www.theverge.com/2022/11/8/23447937/peacock-live-local-nbc-tv-announced-premium-plus-subscribers)
- - [Disney hit 235.7M global streaming subscribers in its Q4, above Netflix&#39;s 223.1M in its Q3; Disney+ had 164.2M subscribers, Hulu had 47.2M, and ESPN+ had 24.3M &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221108/p29#a221108p29)
- - [&#39;House of the Dragon&#39; Swapped Twins in Finale, Report Says     - CNET](https://www.cnet.com/culture/entertainment/house-of-the-dragon-swapped-twins-in-finale-report/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter plans to label select accounts &quot;Official&quot; when the new Blue launches; not all previously verified accounts will get the label, which won&#39;t be for sale &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221108/p32#a221108p32)
+ - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
+ - [40 percent of US Disney Plus subscribers picked the bundle with ESPN Plus and Hulu](https://www.theverge.com/2022/11/8/23447983/disney-plus-bundle-subscribers-espn-hulu-earnings-us)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
