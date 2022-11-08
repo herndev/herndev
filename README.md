@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
- - ⏩ [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
- - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
+ - 💣 [European Police brutality](http://9gag.com/gag/aQEx5pe)
+ - ⏩ [Test driving a Maserati](http://9gag.com/gag/ap9Lnrp)
+ - 👉 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
 
 ---
 
