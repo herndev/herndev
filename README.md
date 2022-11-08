@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
- - ⏩ [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
- - 👉 [European Police brutality](http://9gag.com/gag/aQEx5pe)<!-- MEMES:END -->
+ - 💣 [Get rekt](http://9gag.com/gag/aVbe9Dn)
+ - ⏩ [A drunk driver hits multiple vehicles in an apartment block, slams into garage door. Later, in front of reporters, he claims to have only drank `a glass of wine`](http://9gag.com/gag/agoGKPv)
+ - 👉 [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)<!-- MEMES:END -->
 
 ---
 
