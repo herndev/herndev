@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: How do you feel about the Nintendo Switch in 2022?](https://www.androidauthority.com/nintendo-switch-opinion-poll-2022-3231804/)
- - [Inside Meta’s Oversight Board: 2 Years of Pushing Limits](https://www.wired.com/story/inside-metas-oversight-board-two-years-of-pushing-limits/)
- - [The Hunt for the Kingpin Behind AlphaBay, Part 3: Alpha Male](https://www.wired.com/story/alphabay-series-part-3-alpha-male/)<!-- TECH:END -->
+ - [Garmin’s latest hybrid smartwatch is built like a tank with stellar battery life](https://www.androidauthority.com/garmin-instinct-crossover-3232385/)
+ - [After Twitter Staff Cuts, Survivors Face ‘Radio Silence’](https://www.wired.com/story/musk-layoffs-twitter-management/)
+ - [Anthony Fauci’s Sign-Off Message](https://www.wired.com/story/anthony-faucis-sign-off-message/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
