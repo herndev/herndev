@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: You are still using tons of micro-USB devices](https://www.androidauthority.com/using-devices-micro-usb-port-poll-results-3232355/)
- - [PhotoRoom, which is bringing generative AI to its photo editing app for e-commerce vendors and SMBs, raised a $19M Series A; the app has 7M MAUs, 40M+ downloads &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/221108/p1#a221108p1)
- - [60+ firms including Intel, Samsung, and TSMC form the Semiconductor Climate Consortium to cut greenhouse gas emissions &quot;throughout the electronics value chain&quot; &lpar;Samuel K. Moore/IEEE Spectrum&rpar;](http://www.techmeme.com/221107/p31#a221107p31)<!-- TECH:END -->
+ - [Google and Renault are working on a ‘software-defined vehicle’](https://www.theverge.com/2022/11/8/23445325/google-renault-sdv-ai-digital-twin-android)
+ - [How to generate a secure password with LastPass](https://www.androidauthority.com/generate-secure-password-lastpass-3231706/)
+ - [Telegram adds video transcription, separate topics in large groups chats, NFT-like &quot;Collectible Usernames&quot; secured by the TON blockchain network, and more &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/221108/p2#a221108p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
