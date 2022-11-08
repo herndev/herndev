@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Inside the ‘Election Integrity App’ Built to Purge US Voter Rolls](https://www.wired.com/story/true-the-vote-iv3-app-voter-fraud/)
- - [Nintendo will ‘strengthen digitalization’ in new partnership with Super Mario Run developer](https://www.theverge.com/2022/11/8/23447033/nintendo-ios-android-mobile-games-switch-sales-dena-joint-venture)
- - [This AI-powered image editor can help online vendors create unique product shots](https://www.theverge.com/2022/11/8/23447102/photoroom-app-magic-studio-ai-image-tool-generation)<!-- TECH:END -->
+ - [LG’s new stretchable Hi-Res display is the first of its kind](https://www.androidauthority.com/lg-stretchable-display-3231968/)
+ - [Zoom is coming for Microsoft’s territory with email and calendar services](https://www.theverge.com/2022/11/8/23447050/zoom-zmail-zcal-office-suite-launches)
+ - [Black Panther: Wakanda Forever is a breathtaking and cathartic step forward for the franchise.](https://www.theverge.com/23435603/black-panther-wakanda-forever-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
