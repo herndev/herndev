@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google and Renault expand their four-year partnership to develop a &quot;software-defined vehicle&quot; based on Google&#39;s Android Automotive OS &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/221108/p14#a221108p14)
- - [Scientists Are Uncovering Ominous Waters Under Antarctic Ice](https://www.wired.com/story/scientists-are-uncovering-ominous-waters-under-antarctic-ice/)
- - [China’s Digital Yuan Works Just Like Cash—With Added Surveillance](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)<!-- TECH:END -->
+ - [Black Friday 2022: Tips for Finding the Best Deals From Home](https://www.wired.com/story/black-friday-2022-tips-and-tricks/)
+ - [On-chain data: FTX appears to have stopped processing withdrawal requests, starting at 6:37am ET &lpar;Yogita Khatri/The Block&rpar;](http://www.techmeme.com/221108/p18#a221108p18)
+ - [Inside Meta&#39;s Oversight Board after two years: $150M funding through 2025, ~2M appeals, 28 rulings, and 119 recommendations, as it begins to win over critics &lpar;Steven Levy/Wired&rpar;](http://www.techmeme.com/221108/p17#a221108p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
