@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
- - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
- - 👉 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
+ - 💣 [A home-wrecker!](http://9gag.com/gag/a3ZjNq3)
+ - ⏩ [Title here](http://9gag.com/gag/az2ABbj)
+ - 👉 [I&#39;m sure that guy had a stroke too](http://9gag.com/gag/aOxvEqv)<!-- MEMES:END -->
 
 ---
 
