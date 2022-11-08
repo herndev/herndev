@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best noise-canceling headphone deals](https://www.theverge.com/good-deals/22865895/noise-canceling-headphone-deals-apple-microsoft-sale)
- - [Samsung Galaxy Z Fold 3 starts receiving its November 2022 security update](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [Native Union&#39;s new foldable Mac &amp; iPad stand can fit just about anywhere](https://appleinsider.com/articles/22/11/08/native-unions-new-foldable-mac-ipad-stand-can-fit-just-about-anywhere?utm_medium=rss)<!-- TECH:END -->
+ - [First apparent leaks of Pixel 8 series show codenames, some expected specs](https://www.androidauthority.com/google-pixel-8-3232704/)
+ - [Apple AirPods lawsuit over charging case tech settled on eve of retrial](https://appleinsider.com/articles/22/11/08/apple-airpods-lawsuit-over-charging-case-tech-settled-on-eve-of-retrial?utm_medium=rss)
+ - [Apple Pacific Centre retail store opens on November 18](https://appleinsider.com/articles/22/11/08/apple-pacific-centre-retail-store-opens-on-november-18?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
