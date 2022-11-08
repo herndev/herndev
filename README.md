@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Run Forrest Run!](http://9gag.com/gag/a8q4Qjd)
- - ⏩ [The Offer](http://9gag.com/gag/aGEDqOZ)
- - 👉 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)<!-- MEMES:END -->
+ - 💣 [Florence Pugh](http://9gag.com/gag/adPXRpD)
+ - ⏩ [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
+ - 👉 [The look on the kids face](http://9gag.com/gag/aME9DX1)<!-- MEMES:END -->
 
 ---
 
