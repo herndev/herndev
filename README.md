@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [European Police brutality](http://9gag.com/gag/aQEx5pe)
- - ⏩ [She is the one who knocks](http://9gag.com/gag/aDYGqqB)
- - 👉 [Who keeps civilization livable](http://9gag.com/gag/aREeGx5)<!-- MEMES:END -->
+ - 💣 [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
+ - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 👉 [They&#39;ve done it again.](http://9gag.com/gag/a8q4KOV)<!-- MEMES:END -->
 
 ---
 
