@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title here](http://9gag.com/gag/az2ABbj)
- - ⏩ [Get rekt](http://9gag.com/gag/aVbe9Dn)
- - 👉 [Not hating anyone but i think it is funny when they say it](http://9gag.com/gag/aeQ6n6O)<!-- MEMES:END -->
+ - 💣 [I was there 2400 B.C](http://9gag.com/gag/aEqnme9)
+ - ⏩ [Tattoo artist saves a client who fainted after getting his first tattoo](http://9gag.com/gag/a6qQ0jq)
+ - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
 
 ---
 
