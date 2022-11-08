@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Deliver Us Mars is a Beautiful Sci-Fi Game about Saving Our Planet](https://news.xbox.com/en-us/2022/11/08/deliver-us-mars-is-a-beautiful-sci-fi-game-about-saving-our-planet/)
  - [Complex puzzles, intricate room flows: how Escape Academy’s Escape from Anti-Escape Island DLC was built](https://blog.playstation.com/2022/11/08/complex-puzzles-intricate-room-flows-how-escape-academys-escape-from-anti-escape-island-dlc-was-built/)
- - [10 gameplay tips for God of War Ragnarök: Power Levels, Skill Labors, Armor Set Bonuses, and more](https://blog.playstation.com/2022/11/08/10-gameplay-tips-for-god-of-war-ragnarok-power-levels-skill-labors-armor-set-bonuses-and-more/)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 7&rpar;](https://news.xbox.com/en-us/2022/11/07/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-7/)<!-- GAME:END -->
+ - [10 gameplay tips for God of War Ragnarök: Power Levels, Skill Labors, Armor Set Bonuses, and more](https://blog.playstation.com/2022/11/08/10-gameplay-tips-for-god-of-war-ragnarok-power-levels-skill-labors-armor-set-bonuses-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
