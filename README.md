@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I was there 2400 B.C](http://9gag.com/gag/aEqnme9)
- - ⏩ [Tattoo artist saves a client who fainted after getting his first tattoo](http://9gag.com/gag/a6qQ0jq)
- - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
+ - 💣 [Message to all Americans and Brits](http://9gag.com/gag/awZVPj4)
+ - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 👉 [Do you remember?](http://9gag.com/gag/ajVDp5w)<!-- MEMES:END -->
 
 ---
 
