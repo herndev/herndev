@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 7&rpar;](https://news.xbox.com/en-us/2022/11/07/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-7/)
  - [An Array of Content Marks the Black Friday Update for World of Warships: Legends](https://news.xbox.com/en-us/2022/11/07/an-array-of-content-marks-black-friday-update-for-world-of-warships-legends/)
- - [River City Girls 2: Introducing Provie](https://news.xbox.com/en-us/2022/11/07/river-city-girls-2-introducing-provie/)
- - [Your PlayStation Stars update for November 2022](https://blog.playstation.com/2022/11/07/your-playstation-stars-update-for-november-2022/)<!-- GAME:END -->
+ - [River City Girls 2: Introducing Provie](https://news.xbox.com/en-us/2022/11/07/river-city-girls-2-introducing-provie/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
