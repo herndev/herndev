@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Disney moms behind the scenes](http://9gag.com/gag/aPgW1pw)
- - ⏩ [I&#39;m sure that guy had a stroke too](http://9gag.com/gag/aOxvEqv)
- - 👉 [Best Marriage Ever](http://9gag.com/gag/aYVLmPN)<!-- MEMES:END -->
+ - 💣 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)
+ - ⏩ [Harold, the Haver of Sex](http://9gag.com/gag/aPgWrYw)
+ - 👉 [If you don\u2019t know the difference between an alligator and a crocodile here it is: the crocodile is next to the alligator](http://9gag.com/gag/aQExVAW)<!-- MEMES:END -->
 
 ---
 
