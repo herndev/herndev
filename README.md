@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Garmin’s latest hybrid smartwatch is built like a tank with stellar battery life](https://www.androidauthority.com/garmin-instinct-crossover-3232385/)
- - [After Twitter Staff Cuts, Survivors Face ‘Radio Silence’](https://www.wired.com/story/musk-layoffs-twitter-management/)
- - [Anthony Fauci’s Sign-Off Message](https://www.wired.com/story/anthony-faucis-sign-off-message/)<!-- TECH:END -->
+ - [Google and Renault expand their four-year partnership to develop a &quot;software-defined vehicle&quot; based on Google&#39;s Android Automotive OS &lpar;Andrew J. Hawkins/The Verge&rpar;](http://www.techmeme.com/221108/p14#a221108p14)
+ - [Scientists Are Uncovering Ominous Waters Under Antarctic Ice](https://www.wired.com/story/scientists-are-uncovering-ominous-waters-under-antarctic-ice/)
+ - [China’s Digital Yuan Works Just Like Cash—With Added Surveillance](https://www.wired.com/story/chinas-digital-yuan-ecny-works-just-like-cash-surveillance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
