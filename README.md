@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Message to all Americans and Brits](http://9gag.com/gag/awZVPj4)
- - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 👉 [Do you remember?](http://9gag.com/gag/ajVDp5w)<!-- MEMES:END -->
+ - 💣 [ABOMINATION](http://9gag.com/gag/az2AWVj)
+ - ⏩ [Instant karma](http://9gag.com/gag/aA0PjEE)
+ - 👉 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
 
 ---
 
