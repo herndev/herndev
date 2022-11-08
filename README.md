@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mediatek Dimensity 9200 announced: The 64-bit only era is here](https://www.androidauthority.com/mediatek-dimensity-9200-3230762/)
- - [Q&amp;A with outgoing Y Combinator President Geoff Ralston on his decision to leave the accelerator, its investing capital sources, the market slowdown, and more &lpar;Connie Loizos/TechCrunch&rpar;](http://www.techmeme.com/221108/p3#a221108p3)
- - [Google and Renault are working on a ‘software-defined vehicle’](https://www.theverge.com/2022/11/8/23445325/google-renault-sdv-ai-digital-twin-android)<!-- TECH:END -->
+ - [Apple is now more profitable than Chinese tech giants as its bargain with Beijing lets the company evade the tech crackdown while gaining from US chip sanctions &lpar;Financial Times&rpar;](http://www.techmeme.com/221108/p4#a221108p4)
+ - [Google is working with Renault to build a “vehicle of tomorrow”](https://www.androidauthority.com/google-renault-android-auto-sdv-car-3232436/)
+ - [Mediatek Dimensity 9200 announced: The 64-bit only era is here](https://www.androidauthority.com/mediatek-dimensity-9200-3230762/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
