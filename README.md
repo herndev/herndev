@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [European Police brutality](http://9gag.com/gag/aQEx5pe)
- - ⏩ [Test driving a Maserati](http://9gag.com/gag/ap9Lnrp)
- - 👉 [The Offer](http://9gag.com/gag/aGEDqOZ)<!-- MEMES:END -->
+ - 💣 [Let there be light.](http://9gag.com/gag/az2AyAx)
+ - ⏩ [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
+ - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
 
 ---
 
