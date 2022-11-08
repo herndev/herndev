@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
- - ⏩ [This is very scary](http://9gag.com/gag/aQEx2dw)
- - 👉 [Dog: why am I still here ? Just to suffer.](http://9gag.com/gag/a04jMwd)<!-- MEMES:END -->
+ - 💣 [European Police brutality](http://9gag.com/gag/aQEx5pe)
+ - ⏩ [She is the one who knocks](http://9gag.com/gag/aDYGqqB)
+ - 👉 [Who keeps civilization livable](http://9gag.com/gag/aREeGx5)<!-- MEMES:END -->
 
 ---
 
