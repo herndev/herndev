@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Apple Watch Low Power Mode](https://www.androidauthority.com/how-to-apple-watch-low-power-mode-3231566/)
- - [Use Strava’s Global Heatmap to see where people run, bike, and swim near you](https://www.androidauthority.com/strava-global-heatmap-3231112/)
- - [Sources: Musk has pitched charging most or all users a subscription fee to use Twitter; internal estimates show the new Blue could actually lose Twitter money &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221107/p28#a221107p28)<!-- TECH:END -->
+ - [Indian edtech startup Unacademy cuts 350 jobs, or 10% of its workforce, in its second round of layoffs this year after cutting 1,000 roles in April 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221107/p30#a221107p30)
+ - [Nvidia is offering Chinese customers the A800 GPU, which it says meets US export control rules, as an alternative to its A100 chip that the US banned for export &lpar;Jane Lanhee Lee/Reuters&rpar;](http://www.techmeme.com/221107/p29#a221107p29)
+ - [How to use Apple Watch Low Power Mode](https://www.androidauthority.com/how-to-apple-watch-low-power-mode-3231566/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
