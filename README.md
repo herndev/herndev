@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you can\u2019t understand comedy don\u2019t ruin everyone\u2019s fun time](http://9gag.com/gag/aYVLvY2)
- - ⏩ [The Offer](http://9gag.com/gag/aGEDqOZ)
- - 👉 [Gonna eat like a bit*ch](http://9gag.com/gag/aVbe6GO)<!-- MEMES:END -->
+ - 💣 [Wow..lots of sex compared average married couples](http://9gag.com/gag/aA0PNL0)
+ - ⏩ [F**k pedophiles](http://9gag.com/gag/aeQ6WVO)
+ - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
 
 ---
 
