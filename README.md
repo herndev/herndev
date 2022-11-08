@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title here](http://9gag.com/gag/az2ABbj)
- - ⏩ [Least he finished](http://9gag.com/gag/aKE3p2O)
- - 👉 [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)<!-- MEMES:END -->
+ - 💣 [If you can\u2019t understand comedy don\u2019t ruin everyone\u2019s fun time](http://9gag.com/gag/aYVLvY2)
+ - ⏩ [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - 👉 [Gonna eat like a bit*ch](http://9gag.com/gag/aVbe6GO)<!-- MEMES:END -->
 
 ---
 
