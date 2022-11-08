@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Florence Pugh](http://9gag.com/gag/adPXRpD)
- - ⏩ [Is she into you? C: Can&#39;t tell](http://9gag.com/gag/a3ZjNbQ)
- - 👉 [The look on the kids face](http://9gag.com/gag/aME9DX1)<!-- MEMES:END -->
+ - 💣 [I\u2019ve been here since 2010 and never posted once or even commented on any post, just upvotes until now because I just wanna share my relationship of 10 years with my 1st bestfriend. I never had my heart broken so much till he passed. Can\u2019t eat, Can\u2019t sleep and days of crying\u2026](http://9gag.com/gag/a3ZjOw3)
+ - ⏩ [Impressions](http://9gag.com/gag/aVbe5D8)
+ - 👉 [Who keeps civilization livable](http://9gag.com/gag/aREeGx5)<!-- MEMES:END -->
 
 ---
 
