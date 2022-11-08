@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let there be light.](http://9gag.com/gag/az2AyAx)
- - ⏩ [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
- - 👉 [Get rekt](http://9gag.com/gag/aVbe9Dn)<!-- MEMES:END -->
+ - 💣 [Title here](http://9gag.com/gag/az2ABbj)
+ - ⏩ [Get rekt](http://9gag.com/gag/aVbe9Dn)
+ - 👉 [Not hating anyone but i think it is funny when they say it](http://9gag.com/gag/aeQ6n6O)<!-- MEMES:END -->
 
 ---
 
