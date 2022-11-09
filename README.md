@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 💣 [You are not a clown/clownself you&#39;re the entire f**king circus/circus-self](http://9gag.com/gag/ay28yL8)
  - ⏩ [Sure](http://9gag.com/gag/a2K5eB9)
- - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
+ - 👉 [This was easy](http://9gag.com/gag/aREenQy)<!-- MEMES:END -->
 
 ---
 
