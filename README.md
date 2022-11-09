@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blockchain intelligence startup TRM Labs raised a $70M Series B extension led by Thoma Bravo, bringing the round to $130M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221109/p22#a221109p22)
- - [IBM announces its Osprey quantum processor with 433 qubits, up from 127 qubits in the 2021 Eagle processor, and plans to hit 4,000 qubits by 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221109/p21#a221109p21)
- - [Intel announces a new Xeon CPU family and updated data center GPUs, both part of the Max Series lineup, set to arrive in early 2023 &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/221109/p20#a221109p20)<!-- TECH:END -->
+ - [3 things the Pixel Watch does better and worse than the Galaxy Watch 5](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/)
+ - [Daily deals Nov. 9: 20% off at eBay, original AirPods Pro for $160, 25% off TwelveSouth BookBook collection, more](https://appleinsider.com/articles/22/11/09/daily-deals-nov-9-210-off-apple-watch-series-8-original-airpods-pro-for-160-25-off-twelvesouth-bookbook-collection-more?utm_medium=rss)
+ - [The Ubertooth One lets you take a bite out of Bluetooth](https://www.theverge.com/23449206/ubertooth-one-bluetooth-ble-vulnerability-hacking-gadget)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
