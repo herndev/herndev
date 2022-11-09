@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medibank, Australia&#39;s top health insurer, confirms a ransomware group has begun posting some stolen data of its 9.7M customers on a REvil-linked dark web forum &lpar;Sydney Morning Herald&rpar;](http://www.techmeme.com/221108/p36#a221108p36)
- - [Elon Musk offloads another $3.9 billion in Tesla shares](https://www.theverge.com/2022/11/8/23448473/elon-musk-tesla-shares-sell-twitter)
- - [Please Get Me a Live Human: Automated Phone Menus Are the Absolute Worst     - CNET](https://www.cnet.com/culture/please-get-me-a-live-human-automated-phone-menus-are-the-absolute-worst/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Agriconomie, an e-commerce store for European farmers to order agricultural supplies such as fertilizers and animal feed, has raised a $60.4M Series B &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221108/p38#a221108p38)
+ - [Strava Membership: How much does it cost, and is it worth it?](https://www.androidauthority.com/strava-membership-3231073/)
+ - [Microsoft releases 68 security fixes, including patches for six actively exploited Windows zero-day flaws and 11 vulnerabilities classified as Critical &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221108/p37#a221108p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
