@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A senior lady and grocery store employee have a stand off everytime she visits the store](http://9gag.com/gag/aeQ6L3Q)
- - ⏩ [Excuse me what the f**k?](http://9gag.com/gag/amAz3e6)
- - 👉 [How to parent](http://9gag.com/gag/aNwW6nv)<!-- MEMES:END -->
+ - 💣 [Excuse me what the f**k?](http://9gag.com/gag/amAz3e6)
+ - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 👉 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
 
 ---
 
