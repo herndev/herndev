@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [Eight Things You Should Know Before Playing Return to Monkey Island](https://news.xbox.com/en-us/2022/11/09/eight-things-you-should-know-before-playing-return-to-monkey-island/)
  - [Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0 Season 01 Arrives November 16](https://news.xbox.com/en-us/2022/11/09/call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-2-0-season-01-arrives-november-16/)
- - [PlayStation Plus Game Catalog lineup for November: Skyrim, Rainbow Six Siege, Kingdom Hearts III and more](https://blog.playstation.com/2022/11/09/playstation-plus-game-catalog-lineup-for-november-skyrim-rainbow-six-siege-kingdom-hearts-iii-and-more/)<!-- GAME:END -->
+ - [Everything to know about Call of Duty: Modern Warfare II and Warzone 2.0 Season 1, out November 16](https://blog.playstation.com/2022/11/09/everything-to-know-about-call-of-duty-modern-warfare-ii-and-warzone-2-0-season-1-out-november-16/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
