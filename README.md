@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iCloud Photos now compatible with Windows 11 Photos](https://appleinsider.com/articles/22/11/09/apple-icloud-photos-now-compatible-with-windows-11-photos?utm_medium=rss)
- - [New Plugable USB-C dock supports four external displays on M1 Macs](https://appleinsider.com/articles/22/11/09/new-plugable-usb-c-dock-supports-four-external-displays-on-m1-macs?utm_medium=rss)
- - [NASA Hubble Sees Spectacular Supernova From 11 Billion Years Ago     - CNET](https://www.cnet.com/science/space/nasa-hubble-sees-spectacular-supernova-from-11-billion-years-ago/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Hot Pod Summit LA: from Crooked to Coco](https://www.theverge.com/2022/11/9/23449989/hot-pod-summit-coco-conan-crooked-pod-save-spotify)
+ - [In a statement, Binance says it will walk away from its initial offer to acquire FTX after a review of FTX&#39;s structure and books &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p35#a221109p35)
+ - [Everyone knows you paid to be verified on Twitter](https://www.theverge.com/2022/11/9/23449821/twitter-blue-verification-check-mark-subscribers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
