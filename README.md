@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Custom Accessibility Mode&#39; found in iOS 16.2 beta](https://appleinsider.com/articles/22/11/09/custom-accessibility-mode-found-in-ios-162-beta?utm_medium=rss)
- - [Goertek stock hammered after AirPods Pro production stop](https://appleinsider.com/articles/22/11/09/goertek-stock-hammered-after-airpods-pro-production-stop?utm_medium=rss)
- - [Mark Zuckerberg says Meta plans to lay off 13% of its staff, or 11,000+ employees, and will cut discretionary spending and extend its hiring freeze through Q1 &lpar;Meta&rpar;](http://www.techmeme.com/221109/p11#a221109p11)<!-- TECH:END -->
+ - [Zoom is coming to Tesla for in-car conference calls](https://www.theverge.com/2022/11/9/23449001/zoom-tesla-announcement-conference-calling)
+ - [Hyderabad-based Keka, which helps automate payroll, recruiting, and more, raised a $57M Series A from WestBridge Capital &lpar;Kul Bhushan/Entrackr&rpar;](http://www.techmeme.com/221109/p14#a221109p14)
+ - [Collective Mental Time Travel Can Influence the Future](https://www.wired.com/story/psychology-mental-time-travel-politics/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
