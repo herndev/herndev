@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VPN by Google One is now available on Windows and Mac](https://www.androidauthority.com/vpn-by-google-one-desktop-windows-mac-3233024/)
- - [Google is starting to process Stadia refunds](https://www.theverge.com/2022/11/9/23449333/google-stadia-store-software-refunds)
- - [Google is bringing its VPN to Mac and Windows PCs](https://www.theverge.com/2022/11/9/23448934/google-vpn-windows-mac-pc-desktop-support)<!-- TECH:END -->
+ - [Twitter’s double-check verification disappears, Elon Musk says he ‘killed it’](https://www.theverge.com/2022/11/9/23449422/elon-musk-twitter-blue-official-verified-gray-checks-disappear)
+ - [The versatile Google Nest Mini smart speaker is on sale for just $18](https://www.theverge.com/2022/11/9/23447142/google-nest-mini-asus-tuf-laptop-fitbit-versa-charge-deal-sale)
+ - [‘Hey, GitHub!’ will let programmers code with just their voice](https://www.theverge.com/2022/11/9/23449175/hey-github-voice-copilot-code-programming-system)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
