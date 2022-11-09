@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [UK 5G in the centre of London\u2026](http://9gag.com/gag/amAzeb6)
- - ⏩ [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 👉 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)<!-- MEMES:END -->
+ - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - ⏩ [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
+ - 👉 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
 
 ---
 
