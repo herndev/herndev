@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - ⏩ [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
+ - 💣 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
+ - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
  - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
