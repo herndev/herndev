@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paris-based Mytraffic, which offers location analytics tech to measure vehicle and footfall traffic, raised a &amp;euro;30M Series B, bringing its total funding to &amp;euro;45M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221109/p1#a221109p1)
- - [Apple to begin mass production on MR headset in early 2023](https://appleinsider.com/articles/22/11/09/apple-to-begin-mass-production-on-mr-headset-in-early-2023?utm_medium=rss)
- - [Nintendo announces a new joint venture, called Nintendo Systems, with DeNA, which co-developed several Nintendo titles for mobile, including Fire Emblem Heroes &lpar;James Batchelor/GamesIndustry.biz&rpar;](http://www.techmeme.com/221108/p41#a221108p41)<!-- TECH:END -->
+ - [A profile of Andreessen Horowitz&#39;s Sriram Krishnan, a former Twitter executive who is helping Elon Musk run Twitter and is reportedly part of his &quot;inner circle&quot; &lpar;Zoya Mateen/BBC&rpar;](http://www.techmeme.com/221109/p2#a221109p2)
+ - [New Samsung Galaxy Z Flip 4 special edition gets exclusive UI and accessories](https://www.androidauthority.com/samsung-galaxy-z-flip-4-maison-margiela-edition-3232904/)
+ - [Paris-based Mytraffic, which offers location analytics tech to measure vehicle and footfall traffic, raised a &amp;euro;30M Series B, bringing its total funding to &amp;euro;45M &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221109/p1#a221109p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
