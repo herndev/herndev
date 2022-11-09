@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are not a clown/clownself you&#39;re the entire f**king circus/circus-self](http://9gag.com/gag/ay28yL8)
- - ⏩ [`whY aRE yOu lOoKiNG aT woMEN wITh yUOr eYeS`](http://9gag.com/gag/a7qdjZz)
- - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
+ - 💣 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - ⏩ [Let there be light.](http://9gag.com/gag/az2AyAx)
+ - 👉 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 ---
 
