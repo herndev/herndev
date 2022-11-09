@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
- - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 👉 [Do you remember?](http://9gag.com/gag/ajVDp5w)<!-- MEMES:END -->
+ - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - ⏩ [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
+ - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
 
