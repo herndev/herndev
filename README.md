@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Agriconomie, an e-commerce store for European farmers to order agricultural supplies such as fertilizers and animal feed, has raised a $60.4M Series B &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221108/p38#a221108p38)
- - [Strava Membership: How much does it cost, and is it worth it?](https://www.androidauthority.com/strava-membership-3231073/)
- - [Microsoft releases 68 security fixes, including patches for six actively exploited Windows zero-day flaws and 11 vulnerabilities classified as Critical &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221108/p37#a221108p37)<!-- TECH:END -->
+ - [Glow, which aims to automate the insurance process for SMEs, has raised a $22.5M Series A led by Cota Capital &lpar;JD Alois/Crowdfund Insider&rpar;](http://www.techmeme.com/221108/p40#a221108p40)
+ - [Ethereum co-founder Anthony Di Iorio launches Andiami to promote decentralization of blockchain infrastructure through plug-and-play servers known as Cubes &lpar;Jeff John Roberts/Fortune&rpar;](http://www.techmeme.com/221108/p39#a221108p39)
+ - [Agriconomie, an e-commerce store for European farmers to order agricultural supplies such as fertilizers and animal feed, has raised a $60.4M Series B &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221108/p38#a221108p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
