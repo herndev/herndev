@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excuse me what the f**k?](http://9gag.com/gag/amAz3e6)
- - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 👉 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
+ - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
 
