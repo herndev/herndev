@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - ⏩ [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)
- - 👉 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
+ - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
 
