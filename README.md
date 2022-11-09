@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - ⏩ [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - 👉 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
+ - 💣 [Amazing trick](http://9gag.com/gag/aZDBPyQ)
+ - ⏩ [This cat getting the massage of his lifetime](http://9gag.com/gag/az2rgwZ)
+ - 👉 [Iranian women refuse to wear Hijab anymore](http://9gag.com/gag/a8qpL3e)<!-- MEMES:END -->
 
 ---
 
