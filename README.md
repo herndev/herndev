@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never realized it](http://9gag.com/gag/ap9rEG5)
- - ⏩ [When you `forgot` to add salad in your order..](http://9gag.com/gag/anzyeN0)
- - 👉 [Hilarious Prank](http://9gag.com/gag/aeQ6oPj)<!-- MEMES:END -->
+ - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 👉 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
 
 ---
 
