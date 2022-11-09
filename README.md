@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Red Bull Racing’s first e-scooter packs plenty of F1 racing pedigree](https://www.androidauthority.com/red-bull-e-scooter-3232975/)
  - [Daily Authority: 🗣️ Dear Google, all Android users need this feature.](https://www.androidauthority.com/daily-authority-november-9-2022-3232957/)
- - [Poll: How many Google accounts do you have?](https://www.androidauthority.com/how-many-google-accounts-poll-3231780/)
- - [As China encourages digital yuan adoption among its citizens, experts say the digital currency opens up new forms of government surveillance and social control &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221109/p4#a221109p4)<!-- TECH:END -->
+ - [Poll: How many Google accounts do you have?](https://www.androidauthority.com/how-many-google-accounts-poll-3231780/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
