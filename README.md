@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [As Chinese authorities encourage digital yuan adoption among citizens, experts say the digital currency opens up new forms of surveillance and social control &lpar;Jennifer Conrad/Wired&rpar;](http://www.techmeme.com/221109/p4#a221109p4)
  - [Twitter will soon have two checkmarks: Here’s what the second one signifies](https://www.androidauthority.com/twitter-official-accounts-3232963/)
- - [Sources: TikTok slashed its global revenue targets from $12B-$14.5B to ~$10B; employees complain that the company overspent in salaries, social events, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/221109/p3#a221109p3)<!-- TECH:END -->
+ - [Sources: TikTok cut its 2022 revenue target from $12B-$14.5B to ~$10B in September, as some staff complain of overspending on salaries, social events, and more &lpar;Financial Times&rpar;](http://www.techmeme.com/221109/p3#a221109p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
