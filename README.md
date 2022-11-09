@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Offer](http://9gag.com/gag/aGEDqOZ)
- - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
  - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
