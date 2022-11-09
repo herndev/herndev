@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure](http://9gag.com/gag/a2K5eB9)
- - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
- - 👉 [European Police brutality](http://9gag.com/gag/aQEx5pe)<!-- MEMES:END -->
+ - 💣 [For those wandering how they got rid of that climate activist that glued himself to a talkshow desk? Spoiler alert: security tips the table](http://9gag.com/gag/a3Zjg8r)
+ - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - 👉 [Do you remember?](http://9gag.com/gag/ajVDp5w)<!-- MEMES:END -->
 
 ---
 
