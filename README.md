@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are not a clown/clownself you&#39;re the entire f**king circus/circus-self](http://9gag.com/gag/ay28yL8)
- - ⏩ [Sure](http://9gag.com/gag/a2K5eB9)
- - 👉 [This was easy](http://9gag.com/gag/aREenQy)<!-- MEMES:END -->
+ - 💣 [Never realized it](http://9gag.com/gag/ap9rEG5)
+ - ⏩ [When you `forgot` to add salad in your order..](http://9gag.com/gag/anzyeN0)
+ - 👉 [Hilarious Prank](http://9gag.com/gag/aeQ6oPj)<!-- MEMES:END -->
 
 ---
 
