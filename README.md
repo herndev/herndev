@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s double-check verification disappears, Elon Musk says he ‘killed it’](https://www.theverge.com/2022/11/9/23449422/elon-musk-twitter-blue-official-verified-gray-checks-disappear)
- - [The versatile Google Nest Mini smart speaker is on sale for just $18](https://www.theverge.com/2022/11/9/23447142/google-nest-mini-asus-tuf-laptop-fitbit-versa-charge-deal-sale)
- - [‘Hey, GitHub!’ will let programmers code with just their voice](https://www.theverge.com/2022/11/9/23449175/hey-github-voice-copilot-code-programming-system)<!-- TECH:END -->
+ - [Microsoft’s iCloud Photos integration for Windows 11 is now rolling out](https://www.theverge.com/2022/11/9/23449726/microsoft-windows-11-icloud-photos-integration)
+ - [Apple releases iOS 16.1.1, iPadOS 16.1.1, macOS Ventura 13.0.1 with bug fixes](https://appleinsider.com/articles/22/11/09/apple-releases-ios-1611-ipados-1611-macos-ventura-1301-with-bug-fixes?utm_medium=rss)
+ - [Report: Twitter files paperwork with the US Treasury to process payments; source: Twitter is working on a product that accepts cryptocurrencies, including DOGE &lpar;Becky Peterson/The Information&rpar;](http://www.techmeme.com/221109/p31#a221109p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
