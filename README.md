@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s... that&#39;s how the average carrot looks like](http://9gag.com/gag/aQExGLW)
- - ⏩ [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)
- - 👉 [\u201cCandle saver\u201d device that automatically stops a candle from burning itself down](http://9gag.com/gag/a8q4RAQ)<!-- MEMES:END -->
+ - 💣 [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
 
 ---
 
