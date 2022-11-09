@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call of Duty: Modern Warfare II and Call of Duty: Warzone 2.0 Season 01 Arrives November 16](https://news.xbox.com/en-us/2022/11/09/call-of-duty-modern-warfare-ii-and-call-of-duty-warzone-2-0-season-01-arrives-november-16/)
  - [PlayStation Plus Game Catalog lineup for November: Skyrim, Rainbow Six Siege, Kingdom Hearts III and more](https://blog.playstation.com/2022/11/09/playstation-plus-game-catalog-lineup-for-november-skyrim-rainbow-six-siege-kingdom-hearts-iii-and-more/)
- - [Delve into a New Story in Neverwinter: Northdark Reaches](https://news.xbox.com/en-us/2022/11/08/delve-into-a-new-story-in-neverwinter-northdark-reaches/)
- - [Available Now: Get Frosty in Halo Infinite’s Winter Update](https://news.xbox.com/en-us/2022/11/08/available-now-get-frosty-in-halo-infinites-winter-update/)<!-- GAME:END -->
+ - [Delve into a New Story in Neverwinter: Northdark Reaches](https://news.xbox.com/en-us/2022/11/08/delve-into-a-new-story-in-neverwinter-northdark-reaches/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
