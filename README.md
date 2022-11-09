@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
- - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 💣 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - ⏩ [Sure](http://9gag.com/gag/a2K5eB9)
+ - 👉 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
 
 ---
 
