@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zoom is coming to Tesla for in-car conference calls](https://www.theverge.com/2022/11/9/23449001/zoom-tesla-announcement-conference-calling)
- - [Hyderabad-based Keka, which helps automate payroll, recruiting, and more, raised a $57M Series A from WestBridge Capital &lpar;Kul Bhushan/Entrackr&rpar;](http://www.techmeme.com/221109/p14#a221109p14)
- - [Collective Mental Time Travel Can Influence the Future](https://www.wired.com/story/psychology-mental-time-travel-politics/)<!-- TECH:END -->
+ - [The Quiet Invasion of &#39;Big Information&#39;](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
+ - [Q&amp;A with the lawyers &quot;challenging the legality of GitHub Copilot&quot; through a proposed class action suit, which could have a huge impact on generative AI models &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221109/p18#a221109p18)
+ - [Roblox reports Q3 revenue up 2% YoY to $517.7M, bookings up 10% YoY to $701.7M, and DAUs up 24% YoY to 58.8M; stock drops 15%+ on a larger-than-expected loss &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221109/p17#a221109p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
