@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pixel Watch calorie bug is a reminder of why ‘accuracy’ isn’t everything](https://www.theverge.com/2022/11/9/23449515/google-pixel-watch-fitbit-calorie-burn-wearable)
- - [FTX-linked Alameda Research withdrew ~$37M worth of wrapped bitcoin from crypto exchange FTX.US on Wednesday &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/221109/p37#a221109p37)
- - [Coinbase&#39;s stock closed down 9.54%, Robinhood Markets closed down 13.76%, and MicroStrategy closed down 19.58%, amid a meltdown in crypto markets &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/221109/p36#a221109p36)<!-- TECH:END -->
+ - [More People Should Watch One of the Best TV Shows of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-best-tv-shows-of-2022/#ftag=CAD590a51e)
+ - [Amazon becomes the world&#39;s first public company to lose $1T in market value, shrinking to ~$879B from $1.88T in July 2021; Microsoft lost $889B since Nov. 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221109/p38#a221109p38)
+ - [Crypto Exchange Binance Walks Away From Rival FTX Trading Acquisition, Report Says     - CNET](https://www.cnet.com/personal-finance/crypto/crypto-exchange-binance-walks-away-from-rival-ftx-trading-acquisition-report-says/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
