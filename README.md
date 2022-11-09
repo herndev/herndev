@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with CEO Dylan Field on scaling Figma, selling the company to Adobe, retaining autonomy, WebGL, making VR Figma for the metaverse, AGI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221109/p10#a221109p10)
- - [TSMC plans second Arizona plant following US grants](https://appleinsider.com/articles/22/11/09/tsmc-plans-second-arizona-plant-following-us-grants?utm_medium=rss)
- - [Sources: TSMC plans to announce a second chipmaking factory north of Phoenix, Arizona, in the coming months, investing roughly $12B and aiming to make 3nm chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p9#a221109p9)<!-- TECH:END -->
+ - [&#39;Custom Accessibility Mode&#39; found in iOS 16.2 beta](https://appleinsider.com/articles/22/11/09/custom-accessibility-mode-found-in-ios-162-beta?utm_medium=rss)
+ - [Goertek stock hammered after AirPods Pro production stop](https://appleinsider.com/articles/22/11/09/goertek-stock-hammered-after-airpods-pro-production-stop?utm_medium=rss)
+ - [Mark Zuckerberg says Meta plans to lay off 13% of its staff, or 11,000+ employees, and will cut discretionary spending and extend its hiring freeze through Q1 &lpar;Meta&rpar;](http://www.techmeme.com/221109/p11#a221109p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
