@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
- - ⏩ [Sure](http://9gag.com/gag/a2K5eB9)
- - 👉 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)<!-- MEMES:END -->
+ - 💣 [Sure](http://9gag.com/gag/a2K5eB9)
+ - ⏩ [National Geographic guys thought the bear was hibernating, They were mistaken.](http://9gag.com/gag/aME95rX)
+ - 👉 [European Police brutality](http://9gag.com/gag/aQEx5pe)<!-- MEMES:END -->
 
 ---
 
