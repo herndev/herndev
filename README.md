@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Quiet Invasion of &#39;Big Information&#39;](https://www.wired.com/story/big-information-relx-privacy-surveillance-data/)
- - [Q&amp;A with the lawyers &quot;challenging the legality of GitHub Copilot&quot; through a proposed class action suit, which could have a huge impact on generative AI models &lpar;James Vincent/The Verge&rpar;](http://www.techmeme.com/221109/p18#a221109p18)
- - [Roblox reports Q3 revenue up 2% YoY to $517.7M, bookings up 10% YoY to $701.7M, and DAUs up 24% YoY to 58.8M; stock drops 15%+ on a larger-than-expected loss &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221109/p17#a221109p17)<!-- TECH:END -->
+ - [Blockchain intelligence startup TRM Labs raised a $70M Series B extension led by Thoma Bravo, bringing the round to $130M &lpar;Brandy Betz/CoinDesk&rpar;](http://www.techmeme.com/221109/p22#a221109p22)
+ - [IBM announces its Osprey quantum processor with 433 qubits, up from 127 qubits in the 2021 Eagle processor, and plans to hit 4,000 qubits by 2025 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221109/p21#a221109p21)
+ - [Intel announces a new Xeon CPU family and updated data center GPUs, both part of the Max Series lineup, set to arrive in early 2023 &lpar;Dylan Martin/The Register&rpar;](http://www.techmeme.com/221109/p20#a221109p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
