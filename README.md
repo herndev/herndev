@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hot Pod Summit LA: from Crooked to Coco](https://www.theverge.com/2022/11/9/23449989/hot-pod-summit-coco-conan-crooked-pod-save-spotify)
- - [In a statement, Binance says it will walk away from its initial offer to acquire FTX after a review of FTX&#39;s structure and books &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p35#a221109p35)
- - [Everyone knows you paid to be verified on Twitter](https://www.theverge.com/2022/11/9/23449821/twitter-blue-verification-check-mark-subscribers)<!-- TECH:END -->
+ - [The Pixel Watch calorie bug is a reminder of why ‘accuracy’ isn’t everything](https://www.theverge.com/2022/11/9/23449515/google-pixel-watch-fitbit-calorie-burn-wearable)
+ - [FTX-linked Alameda Research withdrew ~$37M worth of wrapped bitcoin from crypto exchange FTX.US on Wednesday &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/221109/p37#a221109p37)
+ - [Coinbase&#39;s stock closed down 9.54%, Robinhood Markets closed down 13.76%, and MicroStrategy closed down 19.58%, amid a meltdown in crypto markets &lpar;Bailey Lipschultz/Bloomberg&rpar;](http://www.techmeme.com/221109/p36#a221109p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
