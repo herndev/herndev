@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 things the Pixel Watch does better and worse than the Galaxy Watch 5](https://www.androidauthority.com/google-pixel-watch-vs-samsung-galaxy-watch-5-3231716/)
- - [Daily deals Nov. 9: 20% off at eBay, original AirPods Pro for $160, 25% off TwelveSouth BookBook collection, more](https://appleinsider.com/articles/22/11/09/daily-deals-nov-9-210-off-apple-watch-series-8-original-airpods-pro-for-160-25-off-twelvesouth-bookbook-collection-more?utm_medium=rss)
- - [The Ubertooth One lets you take a bite out of Bluetooth](https://www.theverge.com/23449206/ubertooth-one-bluetooth-ble-vulnerability-hacking-gadget)<!-- TECH:END -->
+ - [VPN by Google One is now available on Windows and Mac](https://www.androidauthority.com/vpn-by-google-one-desktop-windows-mac-3233024/)
+ - [Google is starting to process Stadia refunds](https://www.theverge.com/2022/11/9/23449333/google-stadia-store-software-refunds)
+ - [Google is bringing its VPN to Mac and Windows PCs](https://www.theverge.com/2022/11/9/23448934/google-vpn-windows-mac-pc-desktop-support)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
