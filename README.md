@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PlayStation Plus Game Catalog lineup for November: Skyrim, Rainbow Six Siege, Kingdom Hearts III and more](https://blog.playstation.com/2022/11/09/playstation-plus-game-catalog-lineup-for-november-skyrim-rainbow-six-siege-kingdom-hearts-iii-and-more/)
  - [Delve into a New Story in Neverwinter: Northdark Reaches](https://news.xbox.com/en-us/2022/11/08/delve-into-a-new-story-in-neverwinter-northdark-reaches/)
- - [Available Now: Get Frosty in Halo Infinite’s Winter Update](https://news.xbox.com/en-us/2022/11/08/available-now-get-frosty-in-halo-infinites-winter-update/)
- - [Deliver Us Mars is a Beautiful Sci-Fi Game about Saving Our Planet](https://news.xbox.com/en-us/2022/11/08/deliver-us-mars-is-a-beautiful-sci-fi-game-about-saving-our-planet/)<!-- GAME:END -->
+ - [Available Now: Get Frosty in Halo Infinite’s Winter Update](https://news.xbox.com/en-us/2022/11/08/available-now-get-frosty-in-halo-infinites-winter-update/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
