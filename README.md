@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - ⏩ [Let there be light.](http://9gag.com/gag/az2AyAx)
- - 👉 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
+ - 💣 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - ⏩ [Sure](http://9gag.com/gag/a2K5eB9)
+ - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
 
 ---
 
