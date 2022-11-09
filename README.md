@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to Use Apple Pay or Google Pay Instead of Plastic Cards](https://www.wired.com/story/money-privacy-security-settings-apple-google-pay/)
  - [Best early Black Friday deals on Apple for the week of November 7](https://appleinsider.com/articles/22/11/07/best-early-black-friday-deals-on-apple-for-the-week-of-november-7?utm_medium=rss)
- - [Laika, provider of automated security compliance software for organizations, raised a $50M Series C led by Fin Capital, bringing its total funding to $98M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221108/p35#a221108p35)
- - [Coin Metrics: on Tuesday, bitcoin fell 12.6% to $18,203 and briefly hit $17,300.80, its lowest level since November 2020; ether dropped 18.2% to $1,311.50 &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/221108/p34#a221108p34)<!-- TECH:END -->
+ - [NYC-based Laika, which offers companies an automated security compliance service, raised a $50M Series C led by Fin Capital, bringing its total funding to $98M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221108/p35#a221108p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
