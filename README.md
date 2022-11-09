@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
- - 👉 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
+ - 💣 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
+ - ⏩ [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - 👉 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)<!-- MEMES:END -->
 
 ---
 
