@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter plans to label select accounts &quot;Official&quot; when the new Blue launches; not all previously verified accounts will get the label, which won&#39;t be for sale &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221108/p32#a221108p32)
- - [Know the price-matching policies for Best Buy, Target, Walmart, and others](https://www.theverge.com/21570383/price-matching-policy-apple-google-microsoft)
- - [40 percent of US Disney Plus subscribers picked the bundle with ESPN Plus and Hulu](https://www.theverge.com/2022/11/8/23447983/disney-plus-bundle-subscribers-espn-hulu-earnings-us)<!-- TECH:END -->
+ - [Best early Black Friday deals on Apple for the week of November 7](https://appleinsider.com/articles/22/11/07/best-early-black-friday-deals-on-apple-for-the-week-of-november-7?utm_medium=rss)
+ - [Laika, provider of automated security compliance software for organizations, raised a $50M Series C led by Fin Capital, bringing its total funding to $98M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221108/p35#a221108p35)
+ - [Coin Metrics: on Tuesday, bitcoin fell 12.6% to $18,203 and briefly hit $17,300.80, its lowest level since November 2020; ether dropped 18.2% to $1,311.50 &lpar;Tanaya Macheel/CNBC&rpar;](http://www.techmeme.com/221108/p34#a221108p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
