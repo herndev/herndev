@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Red Bull Racing’s first e-scooter packs plenty of F1 racing pedigree](https://www.androidauthority.com/red-bull-e-scooter-3232975/)
- - [Daily Authority: 🗣️ Dear Google, all Android users need this feature.](https://www.androidauthority.com/daily-authority-november-9-2022-3232957/)
- - [Poll: How many Google accounts do you have?](https://www.androidauthority.com/how-many-google-accounts-poll-3231780/)<!-- TECH:END -->
+ - [An interview with CEO Dylan Field on scaling Figma, selling the company to Adobe, retaining autonomy, WebGL, making VR Figma for the metaverse, AGI, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221109/p10#a221109p10)
+ - [TSMC plans second Arizona plant following US grants](https://appleinsider.com/articles/22/11/09/tsmc-plans-second-arizona-plant-following-us-grants?utm_medium=rss)
+ - [Sources: TSMC plans to announce a second chipmaking factory north of Phoenix, Arizona, in the coming months, investing roughly $12B and aiming to make 3nm chips &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221109/p9#a221109p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
