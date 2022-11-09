@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - ⏩ [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)
- - 👉 [Sure](http://9gag.com/gag/a2K5eB9)<!-- MEMES:END -->
+ - 💣 [The Offer](http://9gag.com/gag/aGEDqOZ)
+ - ⏩ [Do you remember?](http://9gag.com/gag/ajVDp5w)
+ - 👉 [You guys like this kinda posts don&#39;t you?](http://9gag.com/gag/aREeWXq)<!-- MEMES:END -->
 
 ---
 
