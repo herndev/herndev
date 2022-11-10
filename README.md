@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure](http://9gag.com/gag/a2K5eB9)
- - ⏩ [Do you remember?](http://9gag.com/gag/ajVDp5w)
- - 👉 [ABOMINATION](http://9gag.com/gag/az2AWVj)<!-- MEMES:END -->
+ - 💣 [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - ⏩ [Who will win?](http://9gag.com/gag/aREKgYB)
+ - 👉 [Here you are. you sick bastards.](http://9gag.com/gag/avQnMpX)<!-- MEMES:END -->
 
 ---
 
