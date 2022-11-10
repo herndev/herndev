@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LGear Lightning 2-in-1 charger: Good for iPhones, not for AirPods](https://appleinsider.com/articles/22/11/10/lgear-lightning-2-in-1-charger-good-for-iphones-not-for-airpods?utm_medium=rss)
- - [Apple plans to expand AirDrop time limit to customers worldwide](https://appleinsider.com/articles/22/11/10/apple-plans-to-expand-airdrop-time-limit-to-customers-worldwide?utm_medium=rss)
- - [Razer’s latest Naga mouse has a new scroll wheel and a magnetic side panel](https://www.theverge.com/2022/11/10/23449939/razer-naga-gaming-mouse-wireless-mmo)<!-- TECH:END -->
+ - [AMD announces its 4th-gen Epyc Genoa chips, based on the Zen 4 architecture, with up to 96 cores and support for DDR5, PCIe 5.0, and Compute Express Link &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/221110/p27#a221110p27)
+ - [Apple updates firmware for AirPods, original AirPods Pro, AirPods Max](https://appleinsider.com/articles/22/11/10/apple-updates-firmware-for-airpods-original-airpods-pro-airpods-max?utm_medium=rss)
+ - [Samsung Black Friday Sale: Last chance to get early access!](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
