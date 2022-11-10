@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)
- - [Apple&#39;s AirTags for Your Checked Bags Are a Travel Essential     - CNET](https://www.cnet.com/tech/mobile/apples-airtags-for-your-checked-bags-are-a-travel-essential/#ftag=CAD590a51e)
- - [Elon Musk Outlines How Payments Could Work on Twitter     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-file-paperwork-to-bring-payment-processing-to-platform/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple limits AirDrop in China on iOS to a 10-minute window for non-contacts after its use in protests; Apple will change the default globally in the coming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221109/p41#a221109p41)
+ - [Auto sales ‘overshoot’ will make it impossible to prevent the worst effects of climate change](https://www.theverge.com/2022/11/9/23450027/auto-sales-climate-vw-gm-toyota-hyundai-greenpeace)
+ - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
