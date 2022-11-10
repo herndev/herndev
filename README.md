@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is going whale](http://9gag.com/gag/aVbDW48)
- - ⏩ [Bruh](http://9gag.com/gag/aPgMDoQ)
- - 👉 [Quality over quantity](http://9gag.com/gag/az2rjKx)<!-- MEMES:END -->
+ - 💣 [Nobody expects the Spanish inquisition.](http://9gag.com/gag/az2r7Em)
+ - ⏩ [Pepsi](http://9gag.com/gag/aqerL9Q)
+ - 👉 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)<!-- MEMES:END -->
 
 ---
 
