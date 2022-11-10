@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
- - ⏩ [18 foot Burmese python eats a 5 foot alligator in the Florida everglades](http://9gag.com/gag/aqermGv)
- - 👉 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
+ - 💣 [Sure](http://9gag.com/gag/a2K5eB9)
+ - ⏩ [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
+ - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
 
 ---
 
