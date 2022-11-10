@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ping, which helps remote workers and freelancers collect international payments in both fiat and crypto, has raised a $15M seed from investors including YC &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221109/p43#a221109p43)
- - [Sequoia tells investors it is marking down its FTX investment, totaling $213.5M across two funds, to zero dollars, saying it &quot;ran a rigorous diligence process&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221109/p42#a221109p42)
- - [Apple limits AirDrop in China on iOS to a 10-minute window for non-contacts after its use in protests; Apple will change the default globally in the coming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221109/p41#a221109p41)<!-- TECH:END -->
+ - [GitHub is experimenting &quot;Hey, GitHub!&quot;, a new voice-based interaction system for its Copilot software that will allow programmers to code with just their voice &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221110/p1#a221110p1)
+ - [AutoLeadStar, which provides AI-powered marketing automation technology to car dealerships and manufacturers, raised $40M led by Riverwood Capital &lpar;Globes Online&rpar;](http://www.techmeme.com/221109/p45#a221109p45)
+ - [Substack adds the ability to hyperlink mentions of other Substack writers or publications in posts, plus cross-post to amplify other writers or posts via email &lpar;On Substack&rpar;](http://www.techmeme.com/221109/p44#a221109p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
