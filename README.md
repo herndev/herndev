@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple limits AirDrop in China, to cut use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
- - [EcoFlow Delta 2 power station review: Power and ports aplenty](https://appleinsider.com/articles/22/11/10/ecoflow-delta-2-power-station-review-power-and-ports-aplenty?utm_medium=rss)
- - [Colorado drivers can now add a license or state ID to Apple Wallet](https://appleinsider.com/articles/22/11/09/colorado-drivers-can-now-add-a-license-or-state-id-to-apple-wallet?utm_medium=rss)<!-- TECH:END -->
+ - [Ordergroove, which offers e-commerce subscription tools for brands and retailers, raised $100M+ led by Primus Capital, bringing its total funding to ~$150M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221110/p11#a221110p11)
+ - [What You Should Know About Switching to Mastodon](https://www.wired.com/story/gadget-lab-podcast-574/)
+ - [Binance shares addresses for its wallets and details its holdings: 475K BTC, 4.8M ETH, 17.6B USDT, 21.7B BUSD, 601M USDC, 58M BNB, and a $1B SAFU fund &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221110/p10#a221110p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
