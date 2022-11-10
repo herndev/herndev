@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
- - ⏩ [Policeman disguised as cameraman rescues woman taken hostage, S\u00e3o Paulo, Brazil, October 11 ,1990](http://9gag.com/gag/aWG86BZ)
- - 👉 [Nov 10: The village of Bruskinske has been liberated, Kherson region.](http://9gag.com/gag/aDYjojN)<!-- MEMES:END -->
+ - 💣 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)
+ - ⏩ [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
+ - 👉 [Nov 10: 12km away from Kherson city](http://9gag.com/gag/amAr9Po)<!-- MEMES:END -->
 
 ---
 
