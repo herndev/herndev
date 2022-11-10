@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 9 series now receiving stable Android 13 with Oxygen OS 13](https://www.androidauthority.com/oneplus-9-update-1212009/)
- - [Federal contractors must disclose climate impact under new Biden rule](https://www.theverge.com/2022/11/10/23451229/biden-proposed-rule-federal-contractors-climate-disclosures)
- - [Elon Musk is putting Twitter at risk of billions in fines, warns company lawyer](https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning)<!-- TECH:END -->
+ - [Action mode shown off in latest iPhone 14 Pro promo](https://appleinsider.com/articles/22/11/10/action-mode-shown-off-in-latest-iphone-14-pro-promo?utm_medium=rss)
+ - [Canon’s new ‘Pro’ webcam software costs as much as just buying a capture card](https://www.theverge.com/2022/11/10/23451210/canon-camera-eos-webcam-utility-pro-new-update-paywall-subscription)
+ - [Crypto holders left holding the bag as FTX exchange collapses](https://appleinsider.com/articles/22/11/10/crypto-holders-left-holding-the-bag-as-ftx-exchange-collapses?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
