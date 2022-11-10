@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazing trick](http://9gag.com/gag/aZDBPyQ)
- - ⏩ [This cat getting the massage of his lifetime](http://9gag.com/gag/az2rgwZ)
- - 👉 [Iranian women refuse to wear Hijab anymore](http://9gag.com/gag/a8qpL3e)<!-- MEMES:END -->
+ - 💣 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - ⏩ [18 foot Burmese python eats a 5 foot alligator in the Florida everglades](http://9gag.com/gag/aqermGv)
+ - 👉 [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)<!-- MEMES:END -->
 
 ---
 
