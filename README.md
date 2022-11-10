@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Action mode shown off in latest iPhone 14 Pro promo](https://appleinsider.com/articles/22/11/10/action-mode-shown-off-in-latest-iphone-14-pro-promo?utm_medium=rss)
- - [Canon’s new ‘Pro’ webcam software costs as much as just buying a capture card](https://www.theverge.com/2022/11/10/23451210/canon-camera-eos-webcam-utility-pro-new-update-paywall-subscription)
- - [Crypto holders left holding the bag as FTX exchange collapses](https://appleinsider.com/articles/22/11/10/crypto-holders-left-holding-the-bag-as-ftx-exchange-collapses?utm_medium=rss)<!-- TECH:END -->
+ - [Anita Sarkeesian Hates Talking About Gamergate—But She Has To](https://www.wired.com/story/anita-sarkeesian-gamergate-that-time-when/)
+ - [FTX US warns users to close their positions as it might halt trading in the coming days, hours after SBF said in a Twitter thread that FTX US was &quot;100% liquid&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221110/p23#a221110p23)
+ - [High-profile resignations put Twitter at risk of giant FTC fines](https://appleinsider.com/articles/22/11/10/high-profile-resignations-put-twitter-at-risk-of-giant-ftc-fines?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
