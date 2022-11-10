@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AMD announces its 4th-gen Epyc Genoa chips, based on the Zen 4 architecture, with up to 96 cores and support for DDR5, PCIe 5.0, and Compute Express Link &lpar;Tobias Mann/The Register&rpar;](http://www.techmeme.com/221110/p27#a221110p27)
- - [Apple updates firmware for AirPods, original AirPods Pro, AirPods Max](https://appleinsider.com/articles/22/11/10/apple-updates-firmware-for-airpods-original-airpods-pro-airpods-max?utm_medium=rss)
- - [Samsung Black Friday Sale: Last chance to get early access!](https://www.androidauthority.com/samsung-black-friday-sale-early-access-3229836/)<!-- TECH:END -->
+ - [The best Black Friday deals you can already get at Best Buy](https://www.theverge.com/23422750/black-friday-2022-cyber-monday-best-buy-tech-deals)
+ - [Sources: Twitter&#39;s head of Trust &amp; Safety Yoel Roth and head of sales Robin Wheeler resigned today &lpar;Kurt Wagner/@kurtwagner8&rpar;](http://www.techmeme.com/221110/p29#a221110p29)
+ - [Google’s new Chrome OS Beta Tester Hub is now open to the public](https://www.androidauthority.com/chrome-os-beta-tester-hub-3233700/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
