@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn she salty ;&rpar;](http://9gag.com/gag/a9qWLXL)
- - ⏩ [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 💣 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
+ - ⏩ [Title](http://9gag.com/gag/a2KdYx1)
  - 👉 [Some third world country ig](http://9gag.com/gag/aDYj3bB)<!-- MEMES:END -->
 
 ---
