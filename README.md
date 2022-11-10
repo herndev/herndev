@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Anita Sarkeesian Hates Talking About Gamergate—But She Has To](https://www.wired.com/story/anita-sarkeesian-gamergate-that-time-when/)
- - [FTX US warns users to close their positions as it might halt trading in the coming days, hours after SBF said in a Twitter thread that FTX US was &quot;100% liquid&quot; &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221110/p23#a221110p23)
- - [High-profile resignations put Twitter at risk of giant FTC fines](https://appleinsider.com/articles/22/11/10/high-profile-resignations-put-twitter-at-risk-of-giant-ftc-fines?utm_medium=rss)<!-- TECH:END -->
+ - [LGear Lightning 2-in-1 charger: Good for iPhones, not for AirPods](https://appleinsider.com/articles/22/11/10/lgear-lightning-2-in-1-charger-good-for-iphones-not-for-airpods?utm_medium=rss)
+ - [Apple plans to expand AirDrop time limit to customers worldwide](https://appleinsider.com/articles/22/11/10/apple-plans-to-expand-airdrop-time-limit-to-customers-worldwide?utm_medium=rss)
+ - [Razer’s latest Naga mouse has a new scroll wheel and a magnetic side panel](https://www.theverge.com/2022/11/10/23449939/razer-naga-gaming-mouse-wireless-mmo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
