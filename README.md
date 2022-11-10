@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who will win?](http://9gag.com/gag/aREKgYB)
- - ⏩ [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
- - 👉 [I agree](http://9gag.com/gag/avQrnpO)<!-- MEMES:END -->
+ - 💣 [This is going whale](http://9gag.com/gag/aVbDW48)
+ - ⏩ [Bruh](http://9gag.com/gag/aPgMDoQ)
+ - 👉 [Quality over quantity](http://9gag.com/gag/az2rjKx)<!-- MEMES:END -->
 
 ---
 
