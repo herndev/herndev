@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can already get at Best Buy](https://www.theverge.com/23422750/black-friday-2022-cyber-monday-best-buy-tech-deals)
- - [Sources: Twitter&#39;s head of Trust &amp; Safety Yoel Roth and head of sales Robin Wheeler resigned today &lpar;Kurt Wagner/@kurtwagner8&rpar;](http://www.techmeme.com/221110/p29#a221110p29)
- - [Google’s new Chrome OS Beta Tester Hub is now open to the public](https://www.androidauthority.com/chrome-os-beta-tester-hub-3233700/)<!-- TECH:END -->
+ - [Amazon’s next-generation Prime Air delivery drone can fly further and through ‘light’ rain](https://www.theverge.com/2022/11/10/23451851/amazon-mk30-drone-prime-air-delivery)
+ - [Amazon’s new warehouse robot can handle individual products](https://www.theverge.com/2022/11/10/23451821/amazon-sparrow-robot-individual-items-boxes-warehouse)
+ - [Leica’s Phone 2 is the red dot version of Sharp’s Aquos R7](https://www.theverge.com/2022/11/10/23451860/leica-leitz-phone-2-sharp-aquos-r7-1-inch-sensor-camera)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
