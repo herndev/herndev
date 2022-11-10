@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
- - ⏩ [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
+ - 💣 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - ⏩ [Female Students](http://9gag.com/gag/aWG8QVA)
  - 👉 [This is going whale](http://9gag.com/gag/aVbDW48)<!-- MEMES:END -->
 
 ---
