@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fake Twitter accounts of athletes and other celebrities, some now suspended, are spreading fake announcements and chaos as paid Blue checkmarks become available &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221109/p40#a221109p40)
- - [Apple hires Facebook exec to lead its information systems department](https://appleinsider.com/articles/22/11/10/apple-hires-facebook-exec-to-lead-its-information-systems-department?utm_medium=rss)
- - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-reality-tv-shows-on-netflix-watch-november/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)
+ - [Apple&#39;s AirTags for Your Checked Bags Are a Travel Essential     - CNET](https://www.cnet.com/tech/mobile/apples-airtags-for-your-checked-bags-are-a-travel-essential/#ftag=CAD590a51e)
+ - [Elon Musk Outlines How Payments Could Work on Twitter     - CNET](https://www.cnet.com/news/social-media/twitter-appears-to-file-paperwork-to-bring-payment-processing-to-platform/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
