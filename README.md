@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nobody expects the Spanish inquisition.](http://9gag.com/gag/az2r7Em)
- - ⏩ [Pepsi](http://9gag.com/gag/aqerL9Q)
- - 👉 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)<!-- MEMES:END -->
+ - 💣 [The moment Matthew McConaughey got his Oscar.](http://9gag.com/gag/aYVLzRv)
+ - ⏩ [I don&#39;t remember this episode](http://9gag.com/gag/awZ5xq4)
+ - 👉 [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)<!-- MEMES:END -->
 
 ---
 
