@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 DIY foldables](https://www.androidauthority.com/daily-authority-november-10-2022-3233050/)
- - [In his first email to Twitter staff, Elon Musk warns of &quot;difficult times ahead&quot; and ends remote work policies, saying employees should be in 40+ hours per week &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221110/p5#a221110p5)
- - [We asked, you told us: Here’s how you feel about paying for Twitter verification](https://www.androidauthority.com/twitter-verification-poll-results-3233447/)<!-- TECH:END -->
+ - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
+ - [OpenSea plans to continue to enforce NFT royalties on its platform, after X2Y2, Magic Eden, and LooksRare altered their NFT royalty structures &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221110/p7#a221110p7)
+ - [Foxconn reports Q3 revenue up 24% YoY to ~$54.8B, net income up 5% YoY to ~$1.2B but below estimates, and warns consumer electronics revenue will fall in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221110/p6#a221110p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
