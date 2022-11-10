@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bear Attack](http://9gag.com/gag/agoq0Dq)
- - ⏩ [ABOMINATION](http://9gag.com/gag/az2AWVj)
- - 👉 [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)<!-- MEMES:END -->
+ - 💣 [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - ⏩ [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
+ - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
 
 ---
 
