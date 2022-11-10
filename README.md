@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This show is a gem &lpar;Malcolm in the middle&rpar;](http://9gag.com/gag/amArXoj)
- - ⏩ [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
- - 👉 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
+ - 💣 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
+ - ⏩ [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)
+ - 👉 [Who will win?](http://9gag.com/gag/aREKgYB)<!-- MEMES:END -->
 
 ---
 
