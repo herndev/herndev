@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - ⏩ [Female Students](http://9gag.com/gag/aWG8QVA)
- - 👉 [This is going whale](http://9gag.com/gag/aVbDW48)<!-- MEMES:END -->
+ - 💣 [Damn she salty ;&rpar;](http://9gag.com/gag/a9qWLXL)
+ - ⏩ [Timing is everything](http://9gag.com/gag/a6qMmP8)
+ - 👉 [Some third world country ig](http://9gag.com/gag/aDYj3bB)<!-- MEMES:END -->
 
 ---
 
