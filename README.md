@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
- - ⏩ [This is how taps work](http://9gag.com/gag/a4oZL8m)
+ - 💣 [Who will win?](http://9gag.com/gag/aREKgYB)
+ - ⏩ [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
  - 👉 [I agree](http://9gag.com/gag/avQrnpO)<!-- MEMES:END -->
 
 ---
