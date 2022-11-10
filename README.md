@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Philips Hue’s new smart string lights arrive just in time for the holiday season](https://www.theverge.com/2022/11/10/23449652/philips-hue-festavia-string-lights-price-release-date)
- - [A look at Birdwatch, soon to be renamed Community Notes, as Twitter scales back professional debunkings: 194 people submitted notes posted in the past month &lpar;Washington Post&rpar;](http://www.techmeme.com/221110/p3#a221110p3)
- - [&#39;God of War Ragnarok&#39;: What Story Points To Remember Before Playing     - CNET](https://www.cnet.com/tech/gaming/god-of-war-ragnarok-what-story-points-to-remember-before-playing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: 📱 DIY foldables](https://www.androidauthority.com/daily-authority-november-10-2022-3233050/)
+ - [In his first email to Twitter staff, Elon Musk warns of &quot;difficult times ahead&quot; and ends remote work policies, saying employees should be in 40+ hours per week &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221110/p5#a221110p5)
+ - [We asked, you told us: Here’s how you feel about paying for Twitter verification](https://www.androidauthority.com/twitter-verification-poll-results-3233447/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
