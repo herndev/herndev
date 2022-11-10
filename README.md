@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Law enforcement agents specializing in cryptocurrency investigations are leaving government agencies and joining firms like Binance, Coinbase, and Chainalysis &lpar;Gian M. Volpicelli/Wired&rpar;](http://www.techmeme.com/221110/p2#a221110p2)
  - [GitHub is experimenting &quot;Hey, GitHub!&quot;, a new voice-based interaction system for its Copilot software that will allow programmers to code with just their voice &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221110/p1#a221110p1)
- - [AutoLeadStar, which provides AI-powered marketing automation technology to car dealerships and manufacturers, raised $40M led by Riverwood Capital &lpar;Globes Online&rpar;](http://www.techmeme.com/221109/p45#a221109p45)
- - [Substack adds the ability to hyperlink mentions of other Substack writers or publications in posts, plus cross-post to amplify other writers or posts via email &lpar;On Substack&rpar;](http://www.techmeme.com/221109/p44#a221109p44)<!-- TECH:END -->
+ - [AutoLeadStar, which provides AI-powered marketing automation technology to car dealerships and manufacturers, raised $40M led by Riverwood Capital &lpar;Globes Online&rpar;](http://www.techmeme.com/221109/p45#a221109p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
