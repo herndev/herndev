@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon launches a cost-cutting review focused on unprofitable businesses, including devices unit, which had a $5B annual operating loss in recent years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221110/p20#a221110p20)
- - [SMIC reports Q3 revenue up 34.7% YoY to $1.91B, with net profit up 54.1% YoY to $574.4M, and expects Q4 revenue to decline by 13% to 15% due to US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221110/p19#a221110p19)
- - [Daily deals Nov. 10: $800 M1 12.9-inch iPad Pro, $100 off M2 MacBook Air,more](https://appleinsider.com/articles/22/11/10/daily-deals-nov-10-800-m1-129-inch-ipad-pro-100-off-m2-macbook-airmore?utm_medium=rss)<!-- TECH:END -->
+ - [OnePlus 9 series now receiving stable Android 13 with Oxygen OS 13](https://www.androidauthority.com/oneplus-9-update-1212009/)
+ - [Federal contractors must disclose climate impact under new Biden rule](https://www.theverge.com/2022/11/10/23451229/biden-proposed-rule-federal-contractors-climate-disclosures)
+ - [Elon Musk is putting Twitter at risk of billions in fines, warns company lawyer](https://www.theverge.com/2022/11/10/23451198/twitter-ftc-elon-musk-lawyer-changes-fine-warning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
