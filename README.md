@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple limits AirDrop in China on iOS to a 10-minute window for non-contacts after its use in protests; Apple will change the default globally in the coming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221109/p41#a221109p41)
- - [Auto sales ‘overshoot’ will make it impossible to prevent the worst effects of climate change](https://www.theverge.com/2022/11/9/23450027/auto-sales-climate-vw-gm-toyota-hyundai-greenpeace)
- - [&#39;Andor&#39; Episode 10 Explained: Cassian and Company Strike Back, With a Major Sacrifice     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-cassian-and-company-strike-back-with-a-major-sacrifice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ping, which helps remote workers and freelancers collect international payments in both fiat and crypto, has raised a $15M seed from investors including YC &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221109/p43#a221109p43)
+ - [Sequoia tells investors it is marking down its FTX investment, totaling $213.5M across two funds, to zero dollars, saying it &quot;ran a rigorous diligence process&quot; &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221109/p42#a221109p42)
+ - [Apple limits AirDrop in China on iOS to a 10-minute window for non-contacts after its use in protests; Apple will change the default globally in the coming year &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221109/p41#a221109p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
