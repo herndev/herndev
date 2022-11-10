@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)
- - ⏩ [Show us One picture that sums up the country you live in.](http://9gag.com/gag/aYVKeKw)
- - 👉 [Nov 10: 12km away from Kherson city](http://9gag.com/gag/amAr9Po)<!-- MEMES:END -->
+ - 💣 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
+ - ⏩ [This is how taps work](http://9gag.com/gag/a4oZL8m)
+ - 👉 [I agree](http://9gag.com/gag/avQrnpO)<!-- MEMES:END -->
 
 ---
 
