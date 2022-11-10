@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Timing is everything](http://9gag.com/gag/a6qMmP8)
- - ⏩ [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
- - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
+ - 💣 [Banksy has recently travelled to Ukraine and painted 2 pieces that we know of till now.](http://9gag.com/gag/agoqNqr)
+ - ⏩ [This cat getting the massage of his lifetime](http://9gag.com/gag/az2rgwZ)
+ - 👉 [Shark Tank](http://9gag.com/gag/aeQY045)<!-- MEMES:END -->
 
 ---
 
