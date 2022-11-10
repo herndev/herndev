@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14’s Emergency SOS via satellite feature is coming later this month](https://www.theverge.com/2022/11/10/23451069/apple-iphone-14-satellite-sos-globalstar-ios-16-update-release-date)
- - [Survey reveals interesting details about American phone charging habits](https://www.androidauthority.com/phone-charging-habits-3233205/)
- - [Anti-Bullying Apps Are Popular. But Do They Work?](https://www.wired.com/story/anti-bullying-apps-schools-children/)<!-- TECH:END -->
+ - [Apple&#39;s Emergency SOS is coming in November, after $450M investment](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)
+ - [Crypto holders left holding the bag as FTX exchange collapses](https://appleinsider.com/articles/22/11/10/crypto-holders-left-holding-the-bag-as-ftx-exchange-collapses?utm_medium=rss)
+ - [‘I fucked up,’ says FTX founder in public apology](https://www.theverge.com/2022/11/10/23451171/ftx-alameda-research-sam-bankman-fried-apology)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
