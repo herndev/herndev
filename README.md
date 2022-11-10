@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Free Play Days – Overcooked! All You Can Eat, Just Die Already, and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2022/11/10/free-play-days-overcooked-all-you-can-eat-just-die-already-and-dragon-ball-xenoverse-2/)
  - [PlayStation Store: October 2022’s top downloads](https://blog.playstation.com/2022/11/10/playstation-store-october-2022s-top-downloads/)
- - [A Recommended Reading List of Late Medieval History From Pentiment Game Director Josh Sawyer](https://news.xbox.com/en-us/2022/11/10/recommended-reading-of-medieval-history-from-josh-sawyer/)
- - [Eight Things You Should Know Before Playing Return to Monkey Island](https://news.xbox.com/en-us/2022/11/09/eight-things-you-should-know-before-playing-return-to-monkey-island/)<!-- GAME:END -->
+ - [A Recommended Reading List of Late Medieval History From Pentiment Game Director Josh Sawyer](https://news.xbox.com/en-us/2022/11/10/recommended-reading-of-medieval-history-from-josh-sawyer/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
