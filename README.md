@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple limits AirDrop in China, will reduce its use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
- - [OpenSea plans to continue to enforce NFT royalties on its platform, after X2Y2, Magic Eden, and LooksRare altered their NFT royalty structures &lpar;Cameron Thompson/CoinDesk&rpar;](http://www.techmeme.com/221110/p7#a221110p7)
- - [Foxconn reports Q3 revenue up 24% YoY to ~$54.8B, net income up 5% YoY to ~$1.2B but below estimates, and warns consumer electronics revenue will fall in Q4 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221110/p6#a221110p6)<!-- TECH:END -->
+ - [Apple limits AirDrop in China, to cut use for protests](https://appleinsider.com/articles/22/11/10/apple-limits-airdrop-in-china-will-reduce-its-use-for-protests?utm_medium=rss)
+ - [EcoFlow Delta 2 power station review: Power and ports aplenty](https://appleinsider.com/articles/22/11/10/ecoflow-delta-2-power-station-review-power-and-ports-aplenty?utm_medium=rss)
+ - [Colorado drivers can now add a license or state ID to Apple Wallet](https://appleinsider.com/articles/22/11/09/colorado-drivers-can-now-add-a-license-or-state-id-to-apple-wallet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
