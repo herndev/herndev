@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Philips Hue’s new smart string lights arrive just in time for the holiday season](https://www.theverge.com/2022/11/10/23449652/philips-hue-festavia-string-lights-price-release-date)
  - [A look at Birdwatch, soon to be renamed Community Notes, as Twitter scales back professional debunkings: 194 people submitted notes posted in the past month &lpar;Washington Post&rpar;](http://www.techmeme.com/221110/p3#a221110p3)
- - [Someone made a foldable iPhone using iPhone X internals and Motorola Razr parts](https://www.androidauthority.com/foldable-iphone-diy-project-3233411/)<!-- TECH:END -->
+ - [&#39;God of War Ragnarok&#39;: What Story Points To Remember Before Playing     - CNET](https://www.cnet.com/tech/gaming/god-of-war-ragnarok-what-story-points-to-remember-before-playing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
