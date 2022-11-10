@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ordergroove, which offers e-commerce subscription tools for brands and retailers, raised $100M+ led by Primus Capital, bringing its total funding to ~$150M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221110/p11#a221110p11)
- - [What You Should Know About Switching to Mastodon](https://www.wired.com/story/gadget-lab-podcast-574/)
- - [Binance shares addresses for its wallets and details its holdings: 475K BTC, 4.8M ETH, 17.6B USDT, 21.7B BUSD, 601M USDC, 58M BNB, and a $1B SAFU fund &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221110/p10#a221110p10)<!-- TECH:END -->
+ - [iPhone 14’s Emergency SOS via satellite feature is coming later this month](https://www.theverge.com/2022/11/10/23451069/apple-iphone-14-satellite-sos-globalstar-ios-16-update-release-date)
+ - [Survey reveals interesting details about American phone charging habits](https://www.androidauthority.com/phone-charging-habits-3233205/)
+ - [Anti-Bullying Apps Are Popular. But Do They Work?](https://www.wired.com/story/anti-bullying-apps-schools-children/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
