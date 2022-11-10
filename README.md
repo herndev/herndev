@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
- - ⏩ [Title](http://9gag.com/gag/a2KdYx1)
- - 👉 [Some third world country ig](http://9gag.com/gag/aDYj3bB)<!-- MEMES:END -->
+ - 💣 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)
+ - ⏩ [Yes it does.](http://9gag.com/gag/anzyBbn)
+ - 👉 [He doesn&#39;t wait sometimes.](http://9gag.com/gag/az2rV3p)<!-- MEMES:END -->
 
 ---
 
