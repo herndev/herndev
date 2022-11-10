@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
- - ⏩ [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)
- - 👉 [Who will win?](http://9gag.com/gag/aREKgYB)<!-- MEMES:END -->
+ - 💣 [Bear Attack](http://9gag.com/gag/agoq0Dq)
+ - ⏩ [ABOMINATION](http://9gag.com/gag/az2AWVj)
+ - 👉 [We all know sumpin up wiff dis white kid.](http://9gag.com/gag/axoDxMp)<!-- MEMES:END -->
 
 ---
 
