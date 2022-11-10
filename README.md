@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mario flipped off Twitter for nearly two hours with the blessing of Musk’s ‘verification’](https://www.theverge.com/2022/11/9/23450289/twitter-impersonators-official-mario-musk-jesus-valve)
- - [More People Should Watch One of the Best TV Shows of 2022     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-one-of-the-best-tv-shows-of-2022/#ftag=CAD590a51e)
- - [Amazon becomes the world&#39;s first public company to lose $1T in market value, shrinking to ~$879B from $1.88T in July 2021; Microsoft lost $889B since Nov. 2021 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221109/p38#a221109p38)<!-- TECH:END -->
+ - [Fake Twitter accounts of athletes and other celebrities, some now suspended, are spreading fake announcements and chaos as paid Blue checkmarks become available &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221109/p40#a221109p40)
+ - [Apple hires Facebook exec to lead its information systems department](https://appleinsider.com/articles/22/11/10/apple-hires-facebook-exec-to-lead-its-information-systems-department?utm_medium=rss)
+ - [The Best Reality TV Shows on Netflix     - CNET](https://www.cnet.com/culture/entertainment/best-reality-tv-shows-on-netflix-watch-november/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
