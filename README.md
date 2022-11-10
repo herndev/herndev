@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Emergency SOS is coming in November, after $450M investment](https://appleinsider.com/articles/22/11/10/apple-spent-450-million-on-us-infrastructure-to-make-emergency-sos?utm_medium=rss)
- - [Crypto holders left holding the bag as FTX exchange collapses](https://appleinsider.com/articles/22/11/10/crypto-holders-left-holding-the-bag-as-ftx-exchange-collapses?utm_medium=rss)
- - [‘I fucked up,’ says FTX founder in public apology](https://www.theverge.com/2022/11/10/23451171/ftx-alameda-research-sam-bankman-fried-apology)<!-- TECH:END -->
+ - [Sources: Amazon launches a cost-cutting review focused on unprofitable businesses, including devices unit, which had a $5B annual operating loss in recent years &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221110/p20#a221110p20)
+ - [SMIC reports Q3 revenue up 34.7% YoY to $1.91B, with net profit up 54.1% YoY to $574.4M, and expects Q4 revenue to decline by 13% to 15% due to US sanctions &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221110/p19#a221110p19)
+ - [Daily deals Nov. 10: $800 M1 12.9-inch iPad Pro, $100 off M2 MacBook Air,more](https://appleinsider.com/articles/22/11/10/daily-deals-nov-10-800-m1-129-inch-ipad-pro-100-off-m2-macbook-airmore?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
