@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
- - ⏩ [I guess It was `male privilege` that made her delete herself...](http://9gag.com/gag/aA0PnPZ)
- - 👉 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
+ - 💣 [Hahahahahahah](http://9gag.com/gag/aqeL3rP)
+ - ⏩ [A little bit of awkward](http://9gag.com/gag/ap9LZ65)
+ - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
 
 ---
 
