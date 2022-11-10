@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sure](http://9gag.com/gag/a2K5eB9)
- - ⏩ [This is what being lost in woods for two days does to child&#39;s personality](http://9gag.com/gag/aoKp7g0)
- - 👉 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)<!-- MEMES:END -->
+ - 💣 [Nice trick you got on your sleeves](http://9gag.com/gag/anzyqyb)
+ - ⏩ [I guess It was `male privilege` that made her delete herself...](http://9gag.com/gag/aA0PnPZ)
+ - 👉 [Homie found out her history in a few seconds](http://9gag.com/gag/aOxdqVE)<!-- MEMES:END -->
 
 ---
 
