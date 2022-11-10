@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)
- - ⏩ [Yes it does.](http://9gag.com/gag/anzyBbn)
- - 👉 [He doesn&#39;t wait sometimes.](http://9gag.com/gag/az2rV3p)<!-- MEMES:END -->
+ - 💣 [Despite being\u2026](http://9gag.com/gag/a2K5QD1)
+ - ⏩ [Policeman disguised as cameraman rescues woman taken hostage, S\u00e3o Paulo, Brazil, October 11 ,1990](http://9gag.com/gag/aWG86BZ)
+ - 👉 [Nov 10: The village of Bruskinske has been liberated, Kherson region.](http://9gag.com/gag/aDYjojN)<!-- MEMES:END -->
 
 ---
 
