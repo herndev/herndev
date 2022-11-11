@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - ⏩ [Who will win?](http://9gag.com/gag/aREKgYB)
- - 👉 [Well, that does it!](http://9gag.com/gag/avQr0zW)<!-- MEMES:END -->
+ - ⏩ [Bro is more Donald Trump than Donald Trump himself](http://9gag.com/gag/aeQYbRB)
+ - 👉 [Russians successfully evacuated from Kherson](http://9gag.com/gag/agoqYgn)<!-- MEMES:END -->
 
 ---
 
