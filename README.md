@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn to quadruple iPhone factory workforce in India](https://appleinsider.com/articles/22/11/11/foxconn-to-quadruple-iphone-factory-workforce-in-india?utm_medium=rss)
- - [Elon Musk learns the hard way that being a Twitter troll is way more fun than being a mod](https://www.theverge.com/2022/11/11/23451931/elon-musk-twitter-bankrupt-verification-ftc)
- - [How Amazon&#39;s shopping experience, saturated with sponsored products, impacts sellers and consumers, as its ad revenue surpassed revenue from Prime in 2022 &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/221111/p7#a221111p7)<!-- TECH:END -->
+ - [Columbia&#39;s Ski-Jacket Tech Is Going to the Moon](https://www.wired.com/story/columbia-jacket-tech-moon-lander/)
+ - [16 Best Wireless Earbuds &lpar;2022&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
+ - [How to disable fertility tracking features in iOS](https://www.theverge.com/23451333/ios-cycle-tracking-periods-how-to-iphone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
