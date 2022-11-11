@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Next Week on Xbox: New Games for November 14 to 18](https://news.xbox.com/en-us/2022/11/11/next-week-on-xbox-new-games-for-november-14-to-18/)
  - [Vampire Survivors Available Today with Xbox Game Pass for Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/11/10/vampire-survivors-available-today-with-xbox-game-pass/)
- - [10 activities Frey can dive into in Forspoken](https://blog.playstation.com/2022/11/10/10-activities-frey-can-dive-into-in-forspoken/)
- - [Free Play Days – Overcooked! All You Can Eat, Just Die Already, and Dragon Ball Xenoverse 2](https://news.xbox.com/en-us/2022/11/10/free-play-days-overcooked-all-you-can-eat-just-die-already-and-dragon-ball-xenoverse-2/)<!-- GAME:END -->
+ - [10 activities Frey can dive into in Forspoken](https://blog.playstation.com/2022/11/10/10-activities-frey-can-dive-into-in-forspoken/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
