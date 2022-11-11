@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter launches, then kills, then relaunches ‘official’ gray verification tags](https://www.androidauthority.com/twitter-official-accounts-3232963/)
- - [Galaxy Watch 4 update is bricking the wearable for some &lpar;Updated: New firmware&rpar;](https://www.androidauthority.com/galaxy-watch-4-bricking-3232056/)
- - [Japan plans to invest up to $500M in a new semiconductor company led by Japanese firms including Sony and NEC that aims to start manufacturing by the late 2020s &lpar;Reuters&rpar;](http://www.techmeme.com/221110/p38#a221110p38)<!-- TECH:END -->
+ - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)
+ - [Netflix announces that its first-ever live, global streaming event will be a comedy special from Chris Rock in early 2023 &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/221111/p1#a221111p1)
+ - [Google Doodle Honors Veterans Day with 3D Sculpture of the American Flag     - CNET](https://www.cnet.com/culture/internet/google-doodle-honors-veterans-day-with-3d-sculpture-of-the-american-flag/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
