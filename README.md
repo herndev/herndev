@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [______](http://9gag.com/gag/a9qWPrD)
- - ⏩ [Satisfying](http://9gag.com/gag/aL1MDpV)
- - 👉 [Let\u2019s go hit the gym!](http://9gag.com/gag/aoK21R3)<!-- MEMES:END -->
+ - 💣 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - ⏩ [Who will win?](http://9gag.com/gag/aREKgYB)
+ - 👉 [Well, that does it!](http://9gag.com/gag/avQr0zW)<!-- MEMES:END -->
 
 ---
 
