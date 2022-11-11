@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Spotify Wrapped 2022: What is it and when will it be released?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
  - [Apple details how it created the iPhone 14’s Emergency SOS via satellite system](https://www.androidauthority.com/apple-emergency-sos-via-satellite-behind-the-scenes-3233868/)
- - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)
- - [Leica’s latest phone is all about its massive camera, but good luck finding one](https://www.androidauthority.com/leica-leitz-phone-2-3233856/)<!-- TECH:END -->
+ - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
