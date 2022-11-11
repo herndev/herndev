@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Origins of Carnage Hall in Dying Light 2 Stay Human: Bloody Ties](https://news.xbox.com/en-us/2022/11/11/origins-of-carnage-hall-in-dying-light-2-stay-human-bloody-ties/)
  - [Will You Escape Castle Rock for Good This Time? We Were Here Forever is Releasing on Xbox](https://news.xbox.com/en-us/2022/11/11/will-you-escape-castle-rock-for-good-this-time-we-were-here-forever-is-releasing-on-xbox/)
- - [Share of the Week: Gotham Knights](https://blog.playstation.com/2022/11/11/share-of-the-week-gotham-knights/)
- - [Microsoft Flight Simulator Celebrates Momentous Milestone and the Release of the 40th Anniversary Edition](https://news.xbox.com/en-us/2022/11/11/microsoft-flight-simulator-celebrates-milestone-release-of-40th-anniversary-edition/)<!-- GAME:END -->
+ - [Share of the Week: Gotham Knights](https://blog.playstation.com/2022/11/11/share-of-the-week-gotham-knights/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
