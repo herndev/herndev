@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Columbia&#39;s Ski-Jacket Tech Is Going to the Moon](https://www.wired.com/story/columbia-jacket-tech-moon-lander/)
- - [16 Best Wireless Earbuds &lpar;2022&rpar;: Truly Wireless, Cheap, Luxe, and More](https://www.wired.com/gallery/best-wirefree-earbuds/)
- - [How to disable fertility tracking features in iOS](https://www.theverge.com/23451333/ios-cycle-tracking-periods-how-to-iphone)<!-- TECH:END -->
+ - [Poll: Have you had any major issues with your Pixel 7 phone?](https://www.androidauthority.com/google-pixel-7-major-issues-poll-3231787/)
+ - [The Problem With Spinning Spacecraft](https://www.wired.com/story/the-problem-with-spinning-spacecraft/)
+ - [Big Tech’s Layoffs Will Fuel the Industry&#39;s Future](https://www.wired.com/story/plaintext-big-techs-layoffs-will-fuel-the-industrys-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
