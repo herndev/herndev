@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepsi](http://9gag.com/gag/aqerL9Q)
- - ⏩ [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
- - 👉 [Kherson is ours! It was the only one capital of a region that russians could capture. But don&#39;t forget what price Ukrainians paid for it. Thousands of heroes would live if we had enough heavy weapons.](http://9gag.com/gag/aYVKgB0)<!-- MEMES:END -->
+ - 💣 [Ukraine - Russian war september 2022 to september 2023.](http://9gag.com/gag/aMEwZnx)
+ - ⏩ [______](http://9gag.com/gag/a9qWPrD)
+ - 👉 [This what happens when you can buy verified mark in twitter](http://9gag.com/gag/anzyM8o)<!-- MEMES:END -->
 
 ---
 
