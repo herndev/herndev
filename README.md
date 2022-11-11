@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepsi](http://9gag.com/gag/aqerL9Q)
- - ⏩ [Its like buying an apartment thats still an ugly construction site you need to anticipate the potentials](http://9gag.com/gag/aWG8M0A)
- - 👉 [Well, that does it!](http://9gag.com/gag/avQr0zW)<!-- MEMES:END -->
+ - 💣 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)
+ - ⏩ [Caught doing graffiti in train](http://9gag.com/gag/aEqRRRM)
+ - 👉 [Undercover police in the USA vs in my country](http://9gag.com/gag/aQEMM8q)<!-- MEMES:END -->
 
 ---
 
