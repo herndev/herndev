@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
- - ⏩ [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - 👉 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)<!-- MEMES:END -->
+ - 💣 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)
+ - ⏩ [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
+ - 👉 [She almost loses her head...](http://9gag.com/gag/aOxdKYv)<!-- MEMES:END -->
 
 ---
 
