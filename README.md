@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clerk doesn&#39;t know much, but yet can add 1+1](http://9gag.com/gag/a04d5oz)
- - ⏩ [Sad truth](http://9gag.com/gag/aeQYMNb)
- - 👉 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)<!-- MEMES:END -->
+ - 💣 [______](http://9gag.com/gag/a9qWPrD)
+ - ⏩ [He asked a blind classmate to prom with chocolates layed out in braille](http://9gag.com/gag/aDYjzyZ)
+ - 👉 [WOMAN](http://9gag.com/gag/aEqRx2K)<!-- MEMES:END -->
 
 ---
 
