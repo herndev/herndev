@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The new Android Auto UI is rolling out as a public beta now, finally](https://www.androidauthority.com/new-android-auto-3234052/)
- - [Waymo’s driverless taxis keep making incremental progress, while others flounder](https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress)
- - [Warrior Nun is schlocky nuns, guns, and demon fun](https://www.theverge.com/23453144/warrior-nun-netflix-season-2-review)<!-- TECH:END -->
+ - [How to replace your Wi-Fi router without disconnecting all your devices](https://www.theverge.com/23453354/keep-smart-home-devices-online-replace-wifi-router-how-to)
+ - [Europol says it has arrested Russian national in Canada linked to LockBit ransomware attacks on critical infrastructure organizations and high-profile companies &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221111/p15#a221111p15)
+ - [Man arrested in Canada for alleged participation in LockBit ransomware campaign](https://www.theverge.com/2022/11/11/23453432/lockbit-ransomware-suspect-arrest-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
