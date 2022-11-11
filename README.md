@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment Matthew McConaughey got his Oscar.](http://9gag.com/gag/aYVLzRv)
- - ⏩ [I don&#39;t remember this episode](http://9gag.com/gag/awZ5xq4)
- - 👉 [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)<!-- MEMES:END -->
+ - 💣 [Nobody expects the Spanish inquisition.](http://9gag.com/gag/az2r7Em)
+ - ⏩ [Apple charges $250 to repair AirPod Pros &lpar;Gen 1&rpar;](http://9gag.com/gag/agoqGqK)
+ - 👉 [Two police officers stabbed near the Gare du Nord in Brussels: one dead and one injured, the assailant allegedly shouted `A... a...`. The assailant was neutralized.](http://9gag.com/gag/aZDBBqQ)<!-- MEMES:END -->
 
 ---
 
