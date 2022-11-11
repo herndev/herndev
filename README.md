@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You&#39;d Never Know AI Drew This Beautiful Comic Series     - CNET](https://www.cnet.com/culture/youd-never-know-ai-drew-this-beautiful-comic-series/#ftag=CAD590a51e)
- - [President Joe Biden at COP27: 5 Things You Need to Know     - CNET](https://www.cnet.com/news/politics/president-joe-biden-at-cop27-5-things-you-need-to-know/#ftag=CAD590a51e)
- - [Save up to $1,300 with these holiday 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
+ - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
+ - [NASA&#39;s Hubble Captures Breathtaking Image of Intergalactic Bridge     - CNET](https://www.cnet.com/science/space/nasas-hubble-captures-breathtaking-image-of-intergalactic-bridge/#ftag=CAD590a51e)
+ - [How to download an archive of your Twitter data](https://www.theverge.com/23453703/twitter-archive-download-how-to-tweets)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
