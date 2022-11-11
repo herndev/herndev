@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Microsoft Flight Simulator Celebrates Momentous Milestone and the Release of the 40th Anniversary Edition](https://news.xbox.com/en-us/2022/11/11/microsoft-flight-simulator-celebrates-milestone-release-of-40th-anniversary-edition/)
  - [Next Week on Xbox: New Games for November 14 to 18](https://news.xbox.com/en-us/2022/11/11/next-week-on-xbox-new-games-for-november-14-to-18/)
- - [Vampire Survivors Available Today with Xbox Game Pass for Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/11/10/vampire-survivors-available-today-with-xbox-game-pass/)
- - [10 activities Frey can dive into in Forspoken](https://blog.playstation.com/2022/11/10/10-activities-frey-can-dive-into-in-forspoken/)<!-- GAME:END -->
+ - [Vampire Survivors Available Today with Xbox Game Pass for Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/11/10/vampire-survivors-available-today-with-xbox-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
