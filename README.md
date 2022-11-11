@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Title](http://9gag.com/gag/a2KdYx1)
- - ⏩ [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
- - 👉 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)<!-- MEMES:END -->
+ - 💣 [New twitter tiers just dropped](http://9gag.com/gag/agoqvgK)
+ - ⏩ [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - 👉 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)<!-- MEMES:END -->
 
 ---
 
