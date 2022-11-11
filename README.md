@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is going whale](http://9gag.com/gag/aVbDW48)
- - ⏩ [Always watch subs, guys](http://9gag.com/gag/aYVK472)
- - 👉 [Happy Indepence Day to all my fellow Poles around the world!](http://9gag.com/gag/aA0wDZd)<!-- MEMES:END -->
+ - 💣 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
+ - ⏩ [All of a sudden](http://9gag.com/gag/aQEMe17)
+ - 👉 [Imagine going to prison for up to 5 years for this picture. If she carried a protest sign, she might be sentenced to execution. Yet it&#39;s not about clothing but freedom of an Islamic theocracy, an end to a terrorist regime that terrorizes from Afghanistan to Ukraine and Venezuela](http://9gag.com/gag/a04d5Mn)<!-- MEMES:END -->
 
 ---
 
