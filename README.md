@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spotify Wrapped 2022: What is it and when will it be released?](https://www.androidauthority.com/how-to-see-spotify-wrapped-3069969/)
- - [Apple details how it created the iPhone 14’s Emergency SOS via satellite system](https://www.androidauthority.com/apple-emergency-sos-via-satellite-behind-the-scenes-3233868/)
- - [Honor&#39;s Upcoming Foldable May Have Only One Skinny Screen     - CNET](https://www.cnet.com/tech/mobile/honors-upcoming-foldable-phone-may-have-just-one-skinny-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Atari 50 is an incredible playable tour through video game history](https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam)
+ - [Moscow-based Kaspersky plans to shut down its Kaspersky Secure Connection VPN in Russia, starting with the free version on November 15, 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221111/p4#a221111p4)
+ - [Daily Authority: Social media is dying](https://www.androidauthority.com/daily-authority-november-11-2022-3233882/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
