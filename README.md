@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - ⏩ [Bro is more Donald Trump than Donald Trump himself](http://9gag.com/gag/aeQYbRB)
- - 👉 [Russians successfully evacuated from Kherson](http://9gag.com/gag/agoqYgn)<!-- MEMES:END -->
+ - 💣 [This is going whale](http://9gag.com/gag/aVbDW48)
+ - ⏩ [Always watch subs, guys](http://9gag.com/gag/aYVK472)
+ - 👉 [Happy Indepence Day to all my fellow Poles around the world!](http://9gag.com/gag/aA0wDZd)<!-- MEMES:END -->
 
 ---
 
