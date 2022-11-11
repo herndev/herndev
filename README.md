@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [______](http://9gag.com/gag/a9qWPrD)
- - ⏩ [He asked a blind classmate to prom with chocolates layed out in braille](http://9gag.com/gag/aDYjzyZ)
- - 👉 [WOMAN](http://9gag.com/gag/aEqRx2K)<!-- MEMES:END -->
+ - 💣 [USA under 16 basketball team vs El Salvador under 16 basketball team](http://9gag.com/gag/aA0wwgZ)
+ - ⏩ [What&#39;s your best excuse?](http://9gag.com/gag/aOxdrdD)
+ - 👉 [A cross-over I didn&#39;t knew I wanted](http://9gag.com/gag/aL1MjVg)<!-- MEMES:END -->
 
 ---
 
