@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review: &#39;Black Panther: Wakanda Forever&#39; Is Not Your Typical Marvel Movie](https://www.wired.com/story/black-panther-wakanda-forever-review/)
- - [FTX files for Chapter 11 bankruptcy as CEO Sam Bankman-Fried resigns](https://www.theverge.com/2022/11/11/23453164/ftx-bankruptcy-filing-sam-bankman-fried-resigns)
- - [Meta Quest Pro review: improved controllers but irredeemably bad software and feels like it was launched without plan or purpose, highlighting VR&#39;s drawbacks &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221111/p13#a221111p13)<!-- TECH:END -->
+ - [The new Android Auto UI is rolling out as a public beta now, finally](https://www.androidauthority.com/new-android-auto-3234052/)
+ - [Waymo’s driverless taxis keep making incremental progress, while others flounder](https://www.theverge.com/2022/11/11/23453262/waymo-av-driverless-taxi-phoenix-california-dmv-progress)
+ - [Warrior Nun is schlocky nuns, guns, and demon fun](https://www.theverge.com/23453144/warrior-nun-netflix-season-2-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
