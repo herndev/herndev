@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s next-generation Prime Air delivery drone can fly further and through ‘light’ rain](https://www.theverge.com/2022/11/10/23451851/amazon-mk30-drone-prime-air-delivery)
- - [Amazon’s new warehouse robot can handle individual products](https://www.theverge.com/2022/11/10/23451821/amazon-sparrow-robot-individual-items-boxes-warehouse)
- - [Leica’s Phone 2 is the red dot version of Sharp’s Aquos R7](https://www.theverge.com/2022/11/10/23451860/leica-leitz-phone-2-sharp-aquos-r7-1-inch-sensor-camera)<!-- TECH:END -->
+ - [The $50 TinyTV 2 will let you channel surf on a one-inch screen](https://www.theverge.com/2022/11/10/23452213/tiny-circuits-tiny-tv-2-mini-television-raspberry-pi-2040)
+ - [How to hard reset an Amazon Fire tablet](https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/)
+ - [All of the best iPhone deals in the US](https://www.androidauthority.com/best-iphone-deals-1117011/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
