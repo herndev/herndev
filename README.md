@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The $50 TinyTV 2 will let you channel surf on a one-inch screen](https://www.theverge.com/2022/11/10/23452213/tiny-circuits-tiny-tv-2-mini-television-raspberry-pi-2040)
- - [How to hard reset an Amazon Fire tablet](https://www.androidauthority.com/hard-reset-amazon-fire-tablet-3233397/)
- - [All of the best iPhone deals in the US](https://www.androidauthority.com/best-iphone-deals-1117011/)<!-- TECH:END -->
+ - [Inside Elon Musk’s first meeting with Twitter employees](https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a)
+ - [The government’s done a deep-dive on how consumers have been hurt by crypto](https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams)
+ - [Current and former FTX and Alameda staffers say the Bahamian operation SBF ran with housemates is full of conflicts of interest, nepotism, and lack of oversight &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221110/p32#a221110p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
