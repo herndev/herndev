@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
- - ⏩ [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)
- - 👉 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
+ - 💣 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - ⏩ [What&#39;s going on?](http://9gag.com/gag/adPqqRB)
+ - 👉 [People who know](http://9gag.com/gag/awZ5584)<!-- MEMES:END -->
 
 ---
 
