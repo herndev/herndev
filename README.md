@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Japan plans to invest up to $500M in a new semiconductor company led by Japanese firms including Sony and NEC that aims to start manufacturing by the late 2020s &lpar;Reuters&rpar;](http://www.techmeme.com/221110/p38#a221110p38)
- - [How to add and switch profiles on an Amazon Fire tablet](https://www.androidauthority.com/profiles-amazon-fire-tablet-3233456/)
- - [Amazon unveils new Prime Air delivery drone MK30, claiming it is 25% quieter and can handle high temperatures and light rain, due to come into service in 2024 &lpar;Umar Shakir/The Verge&rpar;](http://www.techmeme.com/221110/p37#a221110p37)<!-- TECH:END -->
+ - [Twitter launches, then kills, then relaunches ‘official’ gray verification tags](https://www.androidauthority.com/twitter-official-accounts-3232963/)
+ - [Galaxy Watch 4 update is bricking the wearable for some &lpar;Updated: New firmware&rpar;](https://www.androidauthority.com/galaxy-watch-4-bricking-3232056/)
+ - [Japan plans to invest up to $500M in a new semiconductor company led by Japanese firms including Sony and NEC that aims to start manufacturing by the late 2020s &lpar;Reuters&rpar;](http://www.techmeme.com/221110/p38#a221110p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
