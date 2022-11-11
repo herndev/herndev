@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
- - ⏩ [All of a sudden](http://9gag.com/gag/aQEMe17)
- - 👉 [Imagine going to prison for up to 5 years for this picture. If she carried a protest sign, she might be sentenced to execution. Yet it&#39;s not about clothing but freedom of an Islamic theocracy, an end to a terrorist regime that terrorizes from Afghanistan to Ukraine and Venezuela](http://9gag.com/gag/a04d5Mn)<!-- MEMES:END -->
+ - 💣 [______](http://9gag.com/gag/a9qWPrD)
+ - ⏩ [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
+ - 👉 [9 months ago I had a hair transplant and did a AMA. \u2018Hairs\u2019 a before, during and after update](http://9gag.com/gag/a6qMQz9)<!-- MEMES:END -->
 
 ---
 
