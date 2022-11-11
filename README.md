@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Another major ad agency recommends pausing Twitter ad campaigns](https://www.theverge.com/2022/11/11/23453575/omnicom-media-group-twitter-advertising-pause)
- - [Alibaba doesn&#39;t disclose its Singles&#39; Day sales for the first time, instead saying gross merchandise value was in line with 2021, when it had $76.1B in sales &lpar;Jane Zhang/Bloomberg&rpar;](http://www.techmeme.com/221111/p17#a221111p17)
- - [What are Noise notifications on Apple Watch, and why did you just get one?](https://www.androidauthority.com/noise-notifications-3234106/)<!-- TECH:END -->
+ - [At the Overwatch League grand finals, a candy bar was the real winner](https://www.theverge.com/2022/11/11/23453321/overwatch-league-grand-finals-2022-dallas-fuel)
+ - [The best early Black Friday deals you can already get](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)
+ - [Memo: Omnicom, one of the world&#39;s biggest ad firms, recommends its clients like Apple, PepsiCo, and others &quot;pause activity on Twitter&quot;, citing brand safety risk &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221111/p18#a221111p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
