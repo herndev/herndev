@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Have you had any major issues with your Pixel 7 phone?](https://www.androidauthority.com/google-pixel-7-major-issues-poll-3231787/)
- - [The Problem With Spinning Spacecraft](https://www.wired.com/story/the-problem-with-spinning-spacecraft/)
- - [Big Tech’s Layoffs Will Fuel the Industry&#39;s Future](https://www.wired.com/story/plaintext-big-techs-layoffs-will-fuel-the-industrys-future/)<!-- TECH:END -->
+ - [The Verge’s 2022 gaming holiday gift guide](https://www.theverge.com/23413008/gaming-gift-guide-2022-games-accessories-nintendo-playstation-xbox-ideas-tech)
+ - [Thomson Reuters plans to acquire tax automation software company SurePrep for $500M in cash, with the deal expected to close in Q1 2023 &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221111/p12#a221111p12)
+ - [Paperlike 2.1 review: Apple Pencil &amp; iPad use feels more like writing on paper](https://appleinsider.com/articles/22/11/11/paperlike-21-review-apple-pencil-ipad-use-feels-more-like-writing-on-paper?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
