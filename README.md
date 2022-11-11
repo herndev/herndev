@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [9 months ago I had a hair transplant and did a AMA. \u2018Hairs\u2019 a before, during and after update](http://9gag.com/gag/a6qMQz9)
- - ⏩ [Close enough](http://9gag.com/gag/aYVKKgN)
- - 👉 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)<!-- MEMES:END -->
+ - 💣 [His soul left his body for a second](http://9gag.com/gag/aVbDQMy)
+ - ⏩ [Dude creates fake Nintendo account. Buys blue tick and posted this](http://9gag.com/gag/axogDwL)
+ - 👉 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
 
 ---
 
