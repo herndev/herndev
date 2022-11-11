@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [At the Overwatch League grand finals, a candy bar was the real winner](https://www.theverge.com/2022/11/11/23453321/overwatch-league-grand-finals-2022-dallas-fuel)
- - [The best early Black Friday deals you can already get](https://www.theverge.com/23438688/black-friday-2022-best-early-deals-tech-tv-apple-smart-home)
- - [Memo: Omnicom, one of the world&#39;s biggest ad firms, recommends its clients like Apple, PepsiCo, and others &quot;pause activity on Twitter&quot;, citing brand safety risk &lpar;Mia Sato/The Verge&rpar;](http://www.techmeme.com/221111/p18#a221111p18)<!-- TECH:END -->
+ - [You&#39;d Never Know AI Drew This Beautiful Comic Series     - CNET](https://www.cnet.com/culture/youd-never-know-ai-drew-this-beautiful-comic-series/#ftag=CAD590a51e)
+ - [President Joe Biden at COP27: 5 Things You Need to Know     - CNET](https://www.cnet.com/news/politics/president-joe-biden-at-cop27-5-things-you-need-to-know/#ftag=CAD590a51e)
+ - [Save up to $1,300 with these holiday 4K TV deals](https://www.androidauthority.com/best-4k-tv-deals-1126026/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
