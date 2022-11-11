@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [______](http://9gag.com/gag/a9qWPrD)
- - ⏩ [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - 👉 [9 months ago I had a hair transplant and did a AMA. \u2018Hairs\u2019 a before, during and after update](http://9gag.com/gag/a6qMQz9)<!-- MEMES:END -->
+ - 💣 [Clerk doesn&#39;t know much, but yet can add 1+1](http://9gag.com/gag/a04d5oz)
+ - ⏩ [Sad truth](http://9gag.com/gag/aeQYMNb)
+ - 👉 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)<!-- MEMES:END -->
 
 ---
 
