@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)
- - ⏩ [What&#39;s going on?](http://9gag.com/gag/adPqqRB)
- - 👉 [People who know](http://9gag.com/gag/awZ5584)<!-- MEMES:END -->
+ - 💣 [Title](http://9gag.com/gag/a2KdYx1)
+ - ⏩ [USA is pretty dumb](http://9gag.com/gag/aZDBq76)
+ - 👉 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)<!-- MEMES:END -->
 
 ---
 
