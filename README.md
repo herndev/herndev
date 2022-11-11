@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When it&#39;s the third date and she comes with her mother...](http://9gag.com/gag/aMEwryM)
- - ⏩ [Caught doing graffiti in train](http://9gag.com/gag/aEqRRRM)
- - 👉 [Undercover police in the USA vs in my country](http://9gag.com/gag/aQEMM8q)<!-- MEMES:END -->
+ - 💣 [When you haven&#39;t done your homework.](http://9gag.com/gag/a2Kd56Z)
+ - ⏩ [This is going whale](http://9gag.com/gag/aVbDW48)
+ - 👉 [Lol, who here has experienced this, raise your hands ;&rpar;&rpar;&rpar;](http://9gag.com/gag/aeQYY0W)<!-- MEMES:END -->
 
 ---
 
