@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huge...](http://9gag.com/gag/aGE00On)
- - ⏩ [Imagine being triggered over a video game ad...](http://9gag.com/gag/aOxdYm2)
- - 👉 [Fallen but not defeated](http://9gag.com/gag/adPqLej)<!-- MEMES:END -->
+ - 💣 [Ukrainians got a helicopter from Russia](http://9gag.com/gag/aPgMR6K)
+ - ⏩ [Had to get emergency heart surgery. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8](http://9gag.com/gag/axogDgY)
+ - 👉 [Every 11th november, Latvia lights up as Russian army was driven from Riga &lpar;1919&rpar;. Same day as Ukraine also got back Kherson.](http://9gag.com/gag/aQEMRK2)<!-- MEMES:END -->
 
 ---
 
