@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk details his plan to turn Twitter into a bank](https://www.theverge.com/2022/11/10/23452488/elon-musk-twitter-bank-q-and-a)
  - [Inside Elon Musk’s first meeting with Twitter employees](https://www.theverge.com/2022/11/10/23452196/elon-musk-twitter-employee-meeting-q-and-a)
- - [The government’s done a deep-dive on how consumers have been hurt by crypto](https://www.theverge.com/2022/11/10/23452247/cfpb-complaint-bulletin-crypto-assets-scams)
- - [Current and former FTX and Alameda staffers say the Bahamian operation SBF ran with housemates is full of conflicts of interest, nepotism, and lack of oversight &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221110/p32#a221110p32)<!-- TECH:END -->
+ - [BlockFi pauses withdrawals and asks users not to deposit to its wallet or interest accounts, saying it can&#39;t operate normally amid &quot;lack of clarity&quot; around FTX &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221110/p33#a221110p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
