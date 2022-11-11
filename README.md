@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atari 50 is an incredible playable tour through video game history](https://www.theverge.com/23451349/atari-50-review-xbox-playstation-switch-steam)
- - [Moscow-based Kaspersky plans to shut down its Kaspersky Secure Connection VPN in Russia, starting with the free version on November 15, 2022 &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221111/p4#a221111p4)
- - [Daily Authority: Social media is dying](https://www.androidauthority.com/daily-authority-november-11-2022-3233882/)<!-- TECH:END -->
+ - [Foxconn to quadruple iPhone factory workforce in India](https://appleinsider.com/articles/22/11/11/foxconn-to-quadruple-iphone-factory-workforce-in-india?utm_medium=rss)
+ - [Elon Musk learns the hard way that being a Twitter troll is way more fun than being a mod](https://www.theverge.com/2022/11/11/23451931/elon-musk-twitter-bankrupt-verification-ftc)
+ - [How Amazon&#39;s shopping experience, saturated with sponsored products, impacts sellers and consumers, as its ad revenue surpassed revenue from Prime in 2022 &lpar;Jason Del Rey/Vox&rpar;](http://www.techmeme.com/221111/p7#a221111p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
