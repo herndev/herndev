@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukraine - Russian war september 2022 to september 2023.](http://9gag.com/gag/aMEwZnx)
- - ⏩ [______](http://9gag.com/gag/a9qWPrD)
- - 👉 [This what happens when you can buy verified mark in twitter](http://9gag.com/gag/anzyM8o)<!-- MEMES:END -->
+ - 💣 [Huge...](http://9gag.com/gag/aGE00On)
+ - ⏩ [Imagine being triggered over a video game ad...](http://9gag.com/gag/aOxdYm2)
+ - 👉 [Fallen but not defeated](http://9gag.com/gag/adPqLej)<!-- MEMES:END -->
 
 ---
 
