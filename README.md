@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to replace your Wi-Fi router without disconnecting all your devices](https://www.theverge.com/23453354/keep-smart-home-devices-online-replace-wifi-router-how-to)
- - [Europol says it has arrested Russian national in Canada linked to LockBit ransomware attacks on critical infrastructure organizations and high-profile companies &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221111/p15#a221111p15)
- - [Man arrested in Canada for alleged participation in LockBit ransomware campaign](https://www.theverge.com/2022/11/11/23453432/lockbit-ransomware-suspect-arrest-investigation)<!-- TECH:END -->
+ - [Shareholders challenging Apple on unions &amp; alleged slave labor](https://appleinsider.com/articles/22/11/11/shareholders-challenging-apple-on-unions-alleged-slave-labor?utm_medium=rss)
+ - [The Pixel 7 Pro is saving me from hearing a daily poop-related insult 🤷](https://www.androidauthority.com/call-screen-pixel-7-pro-3234070/)
+ - [TikTok has quietly launched its livestreaming e-commerce feature TikTok Shop in the US this week; source: TikTok has invited select US businesses to participate &lpar;Louise Matsakis/Semafor&rpar;](http://www.techmeme.com/221111/p16#a221111p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
