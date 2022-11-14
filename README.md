@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I am this old](http://9gag.com/gag/a04dEVQ)
- - ⏩ [Shit happens](http://9gag.com/gag/aYVKqz0)
- - 👉 [`F**k was that...? F**k am I... ?` ZzZZZzzzZZzzZZZzz...](http://9gag.com/gag/ap9rAjD)<!-- MEMES:END -->
+ - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - ⏩ [I am this old](http://9gag.com/gag/a04dEVQ)
+ - 👉 [Disney doesn&#39;t want to go broke after all](http://9gag.com/gag/aGE023K)<!-- MEMES:END -->
 
 ---
 
