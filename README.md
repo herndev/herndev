@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
- - ⏩ [Reality Check](http://9gag.com/gag/aGE0Ggw)
- - 👉 [Thagomizer](http://9gag.com/gag/a9qWmrZ)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [Definitely aladeen](http://9gag.com/gag/aqerxRR)
+ - 👉 [Reality Check](http://9gag.com/gag/aGE0Ggw)<!-- MEMES:END -->
 
 ---
 
