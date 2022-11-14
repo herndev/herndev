@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s robotaxis are basically mobile weather stations now](https://www.theverge.com/2022/11/14/23453478/waymo-av-autonomous-bad-weather-fog-sf-station)
- - [Sources: Amazon plans to lay off ~10,000 people in corporate and tech jobs, or ~3% of its corporate staff, as soon as this week, the largest cuts in its history &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/221114/p13#a221114p13)
- - [Splatoon 3’s chill December update adds more of everything](https://www.theverge.com/2022/11/14/23457879/splatoon-3-chill-season-2022-update-nintendo-switch)<!-- TECH:END -->
+ - [Sequoia&#39;s 14,000-word SBF profile by journalist Adam Fischer was mishandled and, since being deleted, has served no purpose other than to embarrass the firm &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/221114/p14#a221114p14)
+ - [Andor’s first two episodes will air on TV over Thanksgiving](https://www.theverge.com/2022/11/14/23458078/disney-star-wars-andor-first-two-episodes-broadcast-tv-abc-fx-freeform-hulu)
+ - [OnePlus Pad is likely just around the corner](https://www.androidauthority.com/oneplus-pad-3234522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
