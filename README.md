@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Demining in Kherson region](http://9gag.com/gag/armOGP6)
- - ⏩ [Looks like Twitter may actually become fun for once. A complete shithouse, but it&#39;ll be fun.](http://9gag.com/gag/aBdwg9z)
- - 👉 [______](http://9gag.com/gag/a9qWPrD)<!-- MEMES:END -->
+ - 💣 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
+ - ⏩ [Tools of the trade](http://9gag.com/gag/aBdwVbQ)
+ - 👉 [Qatar at the World Cup opening ceremony will be like](http://9gag.com/gag/armOZNd)<!-- MEMES:END -->
 
 ---
 
