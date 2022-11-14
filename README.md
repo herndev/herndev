@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - ⏩ [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 👉 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)<!-- MEMES:END -->
+ - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
+ - ⏩ [What is wrong with you?](http://9gag.com/gag/armOqx5)
+ - 👉 [Talk about bad ideas...](http://9gag.com/gag/aQEMZE8)<!-- MEMES:END -->
 
 ---
 
