@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-now/#ftag=CAD590a51e)
- - [More People Need to Watch the Absolute Best True Crime Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-absolute-best-true-crime-documentary-on-netflix/#ftag=CAD590a51e)
- - [The Hunt for the FTX Thieves Has Begun](https://www.wired.com/story/ftx-hack-theft-crypto-tracing/)<!-- TECH:END -->
+ - [Profile of Dan O&#39;Dowd, who made a fortune with an embedded systems software company and is now obsessed with exposing alleged shortcomings of Tesla&#39;s FSD beta &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/221113/p13#a221113p13)
+ - [&#39;Andor&#39; Episode 10 Explained: Andy Serkis, Stellan Skarsgård Inspire Star Wars Rebellion     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-andy-serkis-stellan-skarsgard-inspire-star-wars-rebellion/#ftag=CAD590a51e)
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
