@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Definitely aladeen](http://9gag.com/gag/aqerxRR)
- - 👉 [Reality Check](http://9gag.com/gag/aGE0Ggw)<!-- MEMES:END -->
+ - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
+ - 👉 [Ana de Armas](http://9gag.com/gag/aGE0EEG)<!-- MEMES:END -->
 
 ---
 
