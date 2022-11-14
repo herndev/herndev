@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Official PlayStation Podcast Episode 444: Ragnarök Arrives](https://blog.playstation.com/2022/11/11/official-playstation-podcast-episode-444-ragnarok-arrives/)
  - [This Week on Xbox: Fresh Updates, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/11/11/this-week-on-xbox-fresh-updates-games-coming-soon-and-more/)
- - [Origins of Carnage Hall in Dying Light 2 Stay Human: Bloody Ties](https://news.xbox.com/en-us/2022/11/11/origins-of-carnage-hall-in-dying-light-2-stay-human-bloody-ties/)
- - [Will You Escape Castle Rock for Good This Time? We Were Here Forever is Releasing on Xbox](https://news.xbox.com/en-us/2022/11/11/will-you-escape-castle-rock-for-good-this-time-we-were-here-forever-is-releasing-on-xbox/)<!-- GAME:END -->
+ - [Origins of Carnage Hall in Dying Light 2 Stay Human: Bloody Ties](https://news.xbox.com/en-us/2022/11/11/origins-of-carnage-hall-in-dying-light-2-stay-human-bloody-ties/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
