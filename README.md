@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - ⏩ [The good old WD-40 never disappoints](http://9gag.com/gag/a8qpDZ3)
- - 👉 [Most of you people will agree](http://9gag.com/gag/aOxdDZN)<!-- MEMES:END -->
+ - ⏩ [Those guy](http://9gag.com/gag/aWG8nM4)
+ - 👉 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)<!-- MEMES:END -->
 
 ---
 
