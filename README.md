@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Pandemic Bike Boom Survives—in Cities That Stepped Up](https://www.wired.com/story/the-pandemic-bike-boom-survives-in-cities-that-stepped-up/)
- - [Syng Cell Alpha Wireless Speakers Review: Spatial Sorcery, Bass Bother](https://www.wired.com/review/review-syng-cell-alpha-wireless-speakers/)
- - [The Best Ebikes for Elderly Riders: Trek, Rad Power, Gazelle](https://www.wired.com/story/ebikes-for-elders/)<!-- TECH:END -->
+ - [Your Phone Can Determine If a Bridge Is Busted](https://www.wired.com/story/your-phone-can-determine-if-a-bridge-is-busted/)
+ - [Apple TV+ nominated for nine Royal Television Society awards](https://appleinsider.com/articles/22/11/14/apple-tv-nominated-for-nine-royal-television-society-awards?utm_medium=rss)
+ - [Epic Games vs Apple trial, verdict, and aftermath - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
