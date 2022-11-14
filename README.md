@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - ⏩ [Those guy](http://9gag.com/gag/aWG8nM4)
- - 👉 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)<!-- MEMES:END -->
+ - 💣 [I feel attacked](http://9gag.com/gag/adPqQqD)
+ - ⏩ [When you kill 99 pedestrian and got 5 star](http://9gag.com/gag/axogOj2)
+ - 👉 [Thagomizer](http://9gag.com/gag/a9qWmrZ)<!-- MEMES:END -->
 
 ---
 
