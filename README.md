@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
- - 👉 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
+ - 💣 [I am this old](http://9gag.com/gag/a04dEVQ)
+ - ⏩ [Shit happens](http://9gag.com/gag/aYVKqz0)
+ - 👉 [`F**k was that...? F**k am I... ?` ZzZZZzzzZZzzZZZzz...](http://9gag.com/gag/ap9rAjD)<!-- MEMES:END -->
 
 ---
 
