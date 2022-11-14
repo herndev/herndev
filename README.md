@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Your Phone Can Determine If a Bridge Is Busted](https://www.wired.com/story/your-phone-can-determine-if-a-bridge-is-busted/)
- - [Apple TV+ nominated for nine Royal Television Society awards](https://appleinsider.com/articles/22/11/14/apple-tv-nominated-for-nine-royal-television-society-awards?utm_medium=rss)
- - [Epic Games vs Apple trial, verdict, and aftermath - all you need to know](https://appleinsider.com/articles/20/08/23/apple-versus-epic-games-fortnite-app-store-saga----the-story-so-far?utm_medium=rss)<!-- TECH:END -->
+ - [Complaining about Apple retail conditions is like &#39;writing to Santa&#39;](https://appleinsider.com/articles/22/11/14/complaining-about-apple-retail-conditions-is-like-writing-to-santa?utm_medium=rss)
+ - [Best 1-Month CD Rates for November 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-1-month-cd-rates/#ftag=CAD590a51e)
+ - [Release Your Inner Gourmand With Up to 50% Off Fly by Jing Spices and More     - CNET](https://www.cnet.com/deals/release-your-inner-gourmand-with-up-to-50-off-fly-by-jing-spices-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
