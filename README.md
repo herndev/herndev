@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
  - ⏩ [Size matters](http://9gag.com/gag/aWG8oV6)
- - 👉 [WomeEeeN](http://9gag.com/gag/aQEMm0w)<!-- MEMES:END -->
+ - 👉 [Just a happy birthday to my friend Nick](http://9gag.com/gag/aREKoVj)<!-- MEMES:END -->
 
 ---
 
