@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
- - ⏩ [We are on our own.](http://9gag.com/gag/a5XZ2PN)
- - 👉 [When russia denies something... Link to spotted hospital in comments](http://9gag.com/gag/axogY2Y)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [Iran...](http://9gag.com/gag/aoK2YpA)
+ - 👉 [Hello sir, wat doin?](http://9gag.com/gag/amArpEo)<!-- MEMES:END -->
 
 ---
 
