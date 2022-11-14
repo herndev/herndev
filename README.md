@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Xbox Shares Community Safety Approach in Transparency Report](https://news.xbox.com/en-us/2022/11/14/xbox-shares-community-safety-approach-in-transparency-report/)
  - [This Holiday Season Just Got Better: Announcing the Xbox Series S – Gilded Hunter Bundle Coming November 29](https://news.xbox.com/en-us/2022/11/14/announcing-xbox-series-s-gilded-hunter-bundle/)
- - [Official PlayStation Podcast Episode 444: Ragnarök Arrives](https://blog.playstation.com/2022/11/11/official-playstation-podcast-episode-444-ragnarok-arrives/)
- - [This Week on Xbox: Fresh Updates, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/11/11/this-week-on-xbox-fresh-updates-games-coming-soon-and-more/)<!-- GAME:END -->
+ - [Official PlayStation Podcast Episode 444: Ragnarök Arrives](https://blog.playstation.com/2022/11/11/official-playstation-podcast-episode-444-ragnarok-arrives/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
