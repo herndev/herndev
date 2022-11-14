@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [How to set up Mastodon, an alternative social network](https://appleinsider.com/inside/macos/tips/how-to-set-up-mastodon-an-alternative-social-network?utm_medium=rss)
- - [4 TV Shows to Watch on Peacock After &#39;Yellowstone&#39;     - CNET](https://www.cnet.com/culture/entertainment/4-tv-series-to-watch-on-peacock-after-yellowstone/#ftag=CAD590a51e)
- - [Elon Musk just ended Twitter SMS 2FA, so don’t get locked out of your account](https://www.androidauthority.com/twitter-sms-2fa-3234698/)<!-- TECH:END -->
+ - [The tech industry’s moment of reckoning: layoffs and hiring freezes](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)
+ - [Apple trying to tempt businesses into buying new MacBook Pros](https://appleinsider.com/articles/22/11/14/apple-trying-to-tempt-businesses-into-buying-new-macbook-pros?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
