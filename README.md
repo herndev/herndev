@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Hunt for the FTX Thieves Has Begun](https://www.wired.com/story/ftx-hack-theft-crypto-tracing/)
- - [These devices and apps offer and support Center Stage](https://appleinsider.com/inside/ipad/tips/these-devices-and-apps-offer-and-support-center-stage?utm_medium=rss)
- - [The Space Force’s X-37B spaceplane returns to Earth after over two years in space](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)<!-- TECH:END -->
+ - [Netflix: The 50 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-50-absolute-best-tv-series-to-binge-watch-now/#ftag=CAD590a51e)
+ - [More People Need to Watch the Absolute Best True Crime Documentary on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-the-absolute-best-true-crime-documentary-on-netflix/#ftag=CAD590a51e)
+ - [The Hunt for the FTX Thieves Has Begun](https://www.wired.com/story/ftx-hack-theft-crypto-tracing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
