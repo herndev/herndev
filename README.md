@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Iran...](http://9gag.com/gag/aoK2YpA)
- - 👉 [Hello sir, wat doin?](http://9gag.com/gag/amArpEo)<!-- MEMES:END -->
+ - 💣 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
+ - ⏩ [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - 👉 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)<!-- MEMES:END -->
 
 ---
 
