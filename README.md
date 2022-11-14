@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
- - ⏩ [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)
- - 👉 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [As a Brazilian I can relate](http://9gag.com/gag/a3Z7yA1)
+ - 👉 [Reposting the origin of a meme](http://9gag.com/gag/armOZKd)<!-- MEMES:END -->
 
 ---
 
