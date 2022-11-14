@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance plans to implement a new Proof-of-Reserves protocol developed by Ethereum co-founder Vitalik Buterin after sharing a snapshot of its wallets last week &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/221114/p16#a221114p16)
- - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)
- - [&#39;Twitter for iPhone&#39; label getting killed will spoil everybody&#39;s fun](https://appleinsider.com/articles/22/11/14/twitter-kills-off-twitter-for-iphone-message-and-spoils-everyones-fun?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone Safari crashing during searches for select three-letter terms](https://appleinsider.com/articles/22/11/14/iphone-browser-safari-crashing-when-users-search-for-select-three-letter-terms?utm_medium=rss)
+ - [Maven, a digital health startup focused on women and families, raised a $90M Series E led by General Catalyst, bringing its total funding to $300M &lpar;Eric Rosenbaum/CNBC&rpar;](http://www.techmeme.com/221114/p18#a221114p18)
+ - [Apple&#39;s $4B ad business at odds with internal culture and values](https://appleinsider.com/articles/22/11/14/apples-4b-ad-business-at-odds-with-internal-culture-and-values?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
