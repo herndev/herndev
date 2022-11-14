@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Holiday Season Just Got Better: Announcing the Xbox Series S – Gilded Hunter Bundle Coming November 29](https://news.xbox.com/en-us/2022/11/14/announcing-xbox-series-s-gilded-hunter-bundle/)
  - [Official PlayStation Podcast Episode 444: Ragnarök Arrives](https://blog.playstation.com/2022/11/11/official-playstation-podcast-episode-444-ragnarok-arrives/)
- - [This Week on Xbox: Fresh Updates, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/11/11/this-week-on-xbox-fresh-updates-games-coming-soon-and-more/)
- - [Origins of Carnage Hall in Dying Light 2 Stay Human: Bloody Ties](https://news.xbox.com/en-us/2022/11/11/origins-of-carnage-hall-in-dying-light-2-stay-human-bloody-ties/)<!-- GAME:END -->
+ - [This Week on Xbox: Fresh Updates, Games Coming Soon, and More](https://news.xbox.com/en-us/2022/11/11/this-week-on-xbox-fresh-updates-games-coming-soon-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
