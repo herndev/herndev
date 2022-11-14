@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Seeking to diversify its revenue streams, Klarna launches a price comparison tool in the US, UK, and Nordics; Klarna acquired PriceRunner for ~$125M in 2022 &lpar;Aisha S Gani/Bloomberg&rpar;](http://www.techmeme.com/221114/p5#a221114p5)
- - [DeviantArt announces DreamUp, a text-to-image generator based on Stable Diffusion, drawing intense criticism from its artist community &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221114/p4#a221114p4)
- - [Sources and docs: Elon Musk&#39;s SpaceX orders a large Twitter ad package, promoting Starlink in a &quot;takeover&quot; in Spain and Australia that can cost $250K+ per day &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/221114/p3#a221114p3)<!-- TECH:END -->
+ - [The Man Behind Mastodon Eugen Rochko Built It for This Moment](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/)
+ - [The $6 Billion Shot at Making New Antibiotics](https://www.wired.com/story/the-6-billion-dollar-shot-at-making-new-antibiotics-before-the-old-ones-fail/)
+ - [TikTok’s Format Breeds Sassy Customer Service](https://www.wired.com/story/tiktok-customer-service/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
