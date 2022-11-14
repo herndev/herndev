@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
- - ⏩ [What is wrong with you?](http://9gag.com/gag/armOqx5)
- - 👉 [Day 264 of my 3 day war. NATO is weak cos it lost to Afghan goat herders but NATO is also amazing &amp; is only reason we haven&#39;t beaten Ukraine but after Kherson NATO will send troops &amp; we will destroy NATO cos it is weak. And also strong. I remain a master strategist.](http://9gag.com/gag/aeQY2Yp)<!-- MEMES:END -->
+ - 💣 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
+ - ⏩ [Shit happens](http://9gag.com/gag/aYVKqz0)
+ - 👉 [True, looked better in the cartoons.](http://9gag.com/gag/a3Z7WEN)<!-- MEMES:END -->
 
 ---
 
