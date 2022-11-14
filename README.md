@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Size matters](http://9gag.com/gag/aWG8oV6)
- - 👉 [Just a happy birthday to my friend Nick](http://9gag.com/gag/aREKoVj)<!-- MEMES:END -->
+ - 💣 [HyperShock vs Gigabyte. Wait till end, worth the shock.](http://9gag.com/gag/a7qZ2Nw)
+ - ⏩ [Not gonna lie ...](http://9gag.com/gag/aA0wMER)
+ - 👉 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)<!-- MEMES:END -->
 
 ---
 
