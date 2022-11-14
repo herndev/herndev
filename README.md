@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Complaining about Apple retail conditions is like &#39;writing to Santa&#39;](https://appleinsider.com/articles/22/11/14/complaining-about-apple-retail-conditions-is-like-writing-to-santa?utm_medium=rss)
- - [Best 1-Month CD Rates for November 2022     - CNET](https://www.cnet.com/personal-finance/banking/best-1-month-cd-rates/#ftag=CAD590a51e)
- - [Release Your Inner Gourmand With Up to 50% Off Fly by Jing Spices and More     - CNET](https://www.cnet.com/deals/release-your-inner-gourmand-with-up-to-50-off-fly-by-jing-spices-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Waymo’s robotaxis are basically mobile weather stations now](https://www.theverge.com/2022/11/14/23453478/waymo-av-autonomous-bad-weather-fog-sf-station)
+ - [Sources: Amazon plans to lay off ~10,000 people in corporate and tech jobs, or ~3% of its corporate staff, as soon as this week, the largest cuts in its history &lpar;Karen Weise/New York Times&rpar;](http://www.techmeme.com/221114/p13#a221114p13)
+ - [Splatoon 3’s chill December update adds more of everything](https://www.theverge.com/2022/11/14/23457879/splatoon-3-chill-season-2022-update-nintendo-switch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
