@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leak shows Galaxy S23 Ultra vs Pixel 7 Pro camera samples](https://www.androidauthority.com/samsung-galaxy-s23-ultra-200-mp-camera-sample-3234396/)
- - [Poll: Which dead smartphone brand would you resurrect?](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-3231953/)
- - [Call of Duty Warzone Legacy: How to See Your Highlights and Career Statistics     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-highlights-and-career-statistics/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [We asked, you told us: Here’s how many Google accounts you have.](https://www.androidauthority.com/google-accounts-poll-results-3234405/)
+ - [Camera sample leak: Galaxy S23 Ultra goes up against S22 Ultra, Pixel 7 Pro](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s22-ultra-vs-pixel-7-pro-camera-3234396/)
+ - [Poll: Which dead smartphone brand would you resurrect?](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-3231953/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
