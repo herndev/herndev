@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
- - ⏩ [Shit happens](http://9gag.com/gag/aYVKqz0)
- - 👉 [True, looked better in the cartoons.](http://9gag.com/gag/a3Z7WEN)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
+ - 👉 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)<!-- MEMES:END -->
 
 ---
 
