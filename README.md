@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [As a Brazilian I can relate](http://9gag.com/gag/a3Z7yA1)
- - 👉 [Reposting the origin of a meme](http://9gag.com/gag/armOZKd)<!-- MEMES:END -->
+ - 💣 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
+ - ⏩ [So good](http://9gag.com/gag/aDYjZVd)
+ - 👉 [There is no way to escape from this](http://9gag.com/gag/aL1MGAV)<!-- MEMES:END -->
 
 ---
 
