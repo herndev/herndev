@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
  - ⏩ [What is wrong with you?](http://9gag.com/gag/armOqx5)
- - 👉 [Talk about bad ideas...](http://9gag.com/gag/aQEMZE8)<!-- MEMES:END -->
+ - 👉 [Day 264 of my 3 day war. NATO is weak cos it lost to Afghan goat herders but NATO is also amazing &amp; is only reason we haven&#39;t beaten Ukraine but after Kherson NATO will send troops &amp; we will destroy NATO cos it is weak. And also strong. I remain a master strategist.](http://9gag.com/gag/aeQY2Yp)<!-- MEMES:END -->
 
 ---
 
