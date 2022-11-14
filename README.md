@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
- - 👉 [Ana de Armas](http://9gag.com/gag/aGE0EEG)<!-- MEMES:END -->
+ - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - ⏩ [Size matters](http://9gag.com/gag/aWG8oV6)
+ - 👉 [WomeEeeN](http://9gag.com/gag/aQEMm0w)<!-- MEMES:END -->
 
 ---
 
