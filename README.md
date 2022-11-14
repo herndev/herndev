@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
- - ⏩ [Tools of the trade](http://9gag.com/gag/aBdwVbQ)
- - 👉 [Qatar at the World Cup opening ceremony will be like](http://9gag.com/gag/armOZNd)<!-- MEMES:END -->
+ - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - ⏩ [What&#39;s inside your bank card](http://9gag.com/gag/adPqnBB)
+ - 👉 [Tools of the trade](http://9gag.com/gag/aBdwVbQ)<!-- MEMES:END -->
 
 ---
 
