@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pixar reaching new audiences](http://9gag.com/gag/aDYjnBK)
- - ⏩ [So good](http://9gag.com/gag/aDYjZVd)
- - 👉 [There is no way to escape from this](http://9gag.com/gag/aL1MGAV)<!-- MEMES:END -->
+ - 💣 [Ana de Armas](http://9gag.com/gag/aGE0EEG)
+ - ⏩ [The good old WD-40 never disappoints](http://9gag.com/gag/a8qpDZ3)
+ - 👉 [Most of you people will agree](http://9gag.com/gag/aOxdDZN)<!-- MEMES:END -->
 
 ---
 
