@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Asus tries to correct its poor track record with Android 13 rollout schedule](https://www.androidauthority.com/asus-android-13-3234662/)
- - [Best 4K TV Deals: Up to $700 Off From Samsung, LG, Sony and TCL TVs     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
- - [Splatoon 3&#39;s Next Season Begins Dec. 1, Adds X Rank, Big Run and More     - CNET](https://www.cnet.com/tech/gaming/splatoon-3s-next-season-begins-dec-1-adds-x-rank-big-run-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How to set up Mastodon, an alternative social network](https://appleinsider.com/inside/macos/tips/how-to-set-up-mastodon-an-alternative-social-network?utm_medium=rss)
+ - [4 TV Shows to Watch on Peacock After &#39;Yellowstone&#39;     - CNET](https://www.cnet.com/culture/entertainment/4-tv-series-to-watch-on-peacock-after-yellowstone/#ftag=CAD590a51e)
+ - [Elon Musk just ended Twitter SMS 2FA, so don’t get locked out of your account](https://www.androidauthority.com/twitter-sms-2fa-3234698/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
