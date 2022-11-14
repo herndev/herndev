@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone Safari crashing during searches for select three-letter terms](https://appleinsider.com/articles/22/11/14/iphone-browser-safari-crashing-when-users-search-for-select-three-letter-terms?utm_medium=rss)
- - [Maven, a digital health startup focused on women and families, raised a $90M Series E led by General Catalyst, bringing its total funding to $300M &lpar;Eric Rosenbaum/CNBC&rpar;](http://www.techmeme.com/221114/p18#a221114p18)
- - [Apple&#39;s $4B ad business at odds with internal culture and values](https://appleinsider.com/articles/22/11/14/apples-4b-ad-business-at-odds-with-internal-culture-and-values?utm_medium=rss)<!-- TECH:END -->
+ - [Asus tries to correct its poor track record with Android 13 rollout schedule](https://www.androidauthority.com/asus-android-13-3234662/)
+ - [Best 4K TV Deals: Up to $700 Off From Samsung, LG, Sony and TCL TVs     - CNET](https://www.cnet.com/deals/best-4k-tv-deals/#ftag=CAD590a51e)
+ - [Splatoon 3&#39;s Next Season Begins Dec. 1, Adds X Rank, Big Run and More     - CNET](https://www.cnet.com/tech/gaming/splatoon-3s-next-season-begins-dec-1-adds-x-rank-big-run-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
