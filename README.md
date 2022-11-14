@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - ⏩ [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
- - 👉 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)<!-- MEMES:END -->
+ - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
+ - ⏩ [We are on our own.](http://9gag.com/gag/a5XZ2PN)
+ - 👉 [When russia denies something... Link to spotted hospital in comments](http://9gag.com/gag/axogY2Y)<!-- MEMES:END -->
 
 ---
 
