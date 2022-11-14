@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - ⏩ [I am this old](http://9gag.com/gag/a04dEVQ)
- - 👉 [Disney doesn&#39;t want to go broke after all](http://9gag.com/gag/aGE023K)<!-- MEMES:END -->
+ - ⏩ [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
+ - 👉 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)<!-- MEMES:END -->
 
 ---
 
