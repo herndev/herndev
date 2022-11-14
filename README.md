@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sequoia&#39;s 14,000-word SBF profile by journalist Adam Fischer was mishandled and, since being deleted, has served no purpose other than to embarrass the firm &lpar;Brad Stone/Bloomberg&rpar;](http://www.techmeme.com/221114/p14#a221114p14)
- - [Andor’s first two episodes will air on TV over Thanksgiving](https://www.theverge.com/2022/11/14/23458078/disney-star-wars-andor-first-two-episodes-broadcast-tv-abc-fx-freeform-hulu)
- - [OnePlus Pad is likely just around the corner](https://www.androidauthority.com/oneplus-pad-3234522/)<!-- TECH:END -->
+ - [Google agrees to a record $391.5M privacy settlement with a coalition of 40 state AGs over charges it misled users into thinking they disabled location tracking &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/221114/p15#a221114p15)
+ - [The desk-friendly 42-inch LG C2 OLED is cheaper than ever](https://www.theverge.com/2022/11/14/23457786/lg-c2-oled-google-mesh-garmin-smartwatch-jbl-deal-sale)
+ - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
