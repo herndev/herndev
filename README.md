@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I feel attacked](http://9gag.com/gag/adPqQqD)
- - ⏩ [When you kill 99 pedestrian and got 5 star](http://9gag.com/gag/axogOj2)
+ - 💣 [\u200e \u200e \u200e \u200e \u200e \u200e](http://9gag.com/gag/adPqgOD)
+ - ⏩ [Reality Check](http://9gag.com/gag/aGE0Ggw)
  - 👉 [Thagomizer](http://9gag.com/gag/a9qWmrZ)<!-- MEMES:END -->
 
 ---
