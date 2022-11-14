@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google agrees to a record $391.5M privacy settlement with a coalition of 40 state AGs over charges it misled users into thinking they disabled location tracking &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/221114/p15#a221114p15)
- - [The desk-friendly 42-inch LG C2 OLED is cheaper than ever](https://www.theverge.com/2022/11/14/23457786/lg-c2-oled-google-mesh-garmin-smartwatch-jbl-deal-sale)
- - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)<!-- TECH:END -->
+ - [Binance plans to implement a new Proof-of-Reserves protocol developed by Ethereum co-founder Vitalik Buterin after sharing a snapshot of its wallets last week &lpar;Andrew Asmakov/Decrypt&rpar;](http://www.techmeme.com/221114/p16#a221114p16)
+ - [Apple TV+ &#39;Fraggle Rock: Back to the Rock&#39; holiday special teaser released](https://appleinsider.com/articles/22/11/14/apple-tv-fraggle-rock-back-to-the-rock-holiday-special-teaser-released?utm_medium=rss)
+ - [&#39;Twitter for iPhone&#39; label getting killed will spoil everybody&#39;s fun](https://appleinsider.com/articles/22/11/14/twitter-kills-off-twitter-for-iphone-message-and-spoils-everyones-fun?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
