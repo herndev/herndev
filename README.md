@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HyperShock vs Gigabyte. Wait till end, worth the shock.](http://9gag.com/gag/a7qZ2Nw)
- - ⏩ [Not gonna lie ...](http://9gag.com/gag/aA0wMER)
+ - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - ⏩ [Clean underpants please](http://9gag.com/gag/aKE2W4j)
  - 👉 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)<!-- MEMES:END -->
 
 ---
