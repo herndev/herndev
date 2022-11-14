@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Here’s how many Google accounts you have.](https://www.androidauthority.com/google-accounts-poll-results-3234405/)
- - [Camera sample leak: Galaxy S23 Ultra goes up against S22 Ultra, Pixel 7 Pro](https://www.androidauthority.com/samsung-galaxy-s23-ultra-vs-galaxy-s22-ultra-vs-pixel-7-pro-camera-3234396/)
- - [Poll: Which dead smartphone brand would you resurrect?](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-3231953/)<!-- TECH:END -->
+ - [Source: Michael Lewis shadowed Sam Bankman-Fried for the past six months and CAA is pitching Lewis&#39; yet-to-be-written book on FTX&#39;s collapse to Hollywood buyers &lpar;Richard Rushfield/The Ankler&rpar;](http://www.techmeme.com/221114/p2#a221114p2)
+ - [Binance announces a recovery fund to help &quot;otherwise strong&quot; projects facing a liquidity crisis; Justin Sun says Tron, Huobi, and Poloniex will support Binance &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221114/p1#a221114p1)
+ - [Daily Authority: 😨 Yes, no-mobile-phone-phobia is a thing](https://www.androidauthority.com/daily-authority-november-14-2022-3234394/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
