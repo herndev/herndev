@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Call of Duty Warzone Legacy: How to See Your Highlights and Career Statistics     - CNET](https://www.cnet.com/tech/gaming/call-of-duty-warzone-legacy-how-to-see-your-highlights-and-career-statistics/#ftag=CAD590a51e)
  - [Profile of Dan O&#39;Dowd, who made a fortune with an embedded systems software company and is now obsessed with exposing alleged shortcomings of Tesla&#39;s FSD beta &lpar;Gerrit De Vynck/Washington Post&rpar;](http://www.techmeme.com/221113/p13#a221113p13)
- - [&#39;Andor&#39; Release Schedule: When Will Episode 11 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-11-hit-disney-plus/#ftag=CAD590a51e)
- - [&#39;Andor&#39; Episode 10 Explained: Andy Serkis, Stellan Skarsgård Inspire Star Wars Rebellion     - CNET](https://www.cnet.com/culture/entertainment/andor-episode-10-explained-andy-serkis-stellan-skarsgard-inspire-star-wars-rebellion/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Andor&#39; Release Schedule: When Will Episode 11 Drop on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/andor-release-schedule-when-will-episode-11-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
