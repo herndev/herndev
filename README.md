@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Man Behind Mastodon Eugen Rochko Built It for This Moment](https://www.wired.com/story/the-man-behind-mastodon-eugen-rochko-built-it-for-this-moment/)
- - [The $6 Billion Shot at Making New Antibiotics](https://www.wired.com/story/the-6-billion-dollar-shot-at-making-new-antibiotics-before-the-old-ones-fail/)
- - [TikTok’s Format Breeds Sassy Customer Service](https://www.wired.com/story/tiktok-customer-service/)<!-- TECH:END -->
+ - [The Pandemic Bike Boom Survives—in Cities That Stepped Up](https://www.wired.com/story/the-pandemic-bike-boom-survives-in-cities-that-stepped-up/)
+ - [Syng Cell Alpha Wireless Speakers Review: Spatial Sorcery, Bass Bother](https://www.wired.com/review/review-syng-cell-alpha-wireless-speakers/)
+ - [The Best Ebikes for Elderly Riders: Trek, Rad Power, Gazelle](https://www.wired.com/story/ebikes-for-elders/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
