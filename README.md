@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
- - [NASA&#39;s Hubble Captures Breathtaking Image of Intergalactic Bridge     - CNET](https://www.cnet.com/science/space/nasas-hubble-captures-breathtaking-image-of-intergalactic-bridge/#ftag=CAD590a51e)
- - [How to download an archive of your Twitter data](https://www.theverge.com/23453703/twitter-archive-download-how-to-tweets)<!-- TECH:END -->
+ - [The Hunt for the FTX Thieves Has Begun](https://www.wired.com/story/ftx-hack-theft-crypto-tracing/)
+ - [These devices and apps offer and support Center Stage](https://appleinsider.com/inside/ipad/tips/these-devices-and-apps-offer-and-support-center-stage?utm_medium=rss)
+ - [The Space Force’s X-37B spaceplane returns to Earth after over two years in space](https://www.theverge.com/2022/11/13/23456718/space-force-x-37b-spaceplane-returns-two-years-falconsat-8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
