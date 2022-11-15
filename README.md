@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You can finally message yourself on WhatsApp!](https://www.androidauthority.com/whatsapp-message-yourself-3234811/)
- - [Sea Ltd., Southeast Asia&#39;s largest internet firm by revenue and market value, has laid off 7,000+ employees, or ~10% of its staff, over the past six months &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/221115/p2#a221115p2)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [YouTube introduces Shorts shopping features, letting users buy products while scrolling through videos, diversifying its revenue streams during a weak ad market &lpar;Financial Times&rpar;](http://www.techmeme.com/221115/p3#a221115p3)
+ - [Samsung Galaxy Note 20 series starts getting stable Android 13 update in the US](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)
+ - [Xiaomi Mi Band 7 vs Smart Band 7 Pro: Which should you buy?](https://www.androidauthority.com/xiaomi-mi-band-7-vs-smart-band-7-pro-3233881/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
