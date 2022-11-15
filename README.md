@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [Netflix is rolling out a feature to let account owners identify and remotely log out of devices they do not recognize or no longer want signed in &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221115/p26#a221115p26)
- - [How DeviantArt is navigating the AI art minefield](https://www.theverge.com/2022/11/15/23449036/deviantart-ai-art-dreamup-training-data-controversy)<!-- TECH:END -->
+ - [Elgato&#39;s Stream Deck+ has buttons, a big touch bar, and knobs](https://appleinsider.com/articles/22/11/15/elgatos-stream-deck-has-buttons-a-big-touch-bar-and-knobs?utm_medium=rss)
+ - [Apple’s latest iOS beta gives you more control over the iPhone’s always-on display](https://www.theverge.com/2022/11/15/23460724/iphone-14-pro-always-on-display-toggles-beta)
+ - [How to use Passkeys instead of passwords on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-passkeys-instead-of-passwords-on-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
