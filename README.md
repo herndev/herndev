@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Logic.](http://9gag.com/gag/ap9r8v5)
- - 👉 [The floor is lava game in real life](http://9gag.com/gag/awZ5vYr)<!-- MEMES:END -->
+ - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - ⏩ [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - 👉 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)<!-- MEMES:END -->
 
 ---
 
