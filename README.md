@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Launches Virtual Care Clinic for Common Ailments     - CNET](https://www.cnet.com/health/medical/amazon-launches-virtual-care-clinic-for-common-ailments/#ftag=CAD590a51e)
- - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
- - [Twitter says 2FA still works, but it’s looking into a ‘few cases’ where it didn’t](https://www.theverge.com/2022/11/15/23460940/twitter-2fa-two-factor-authentication-microservices)<!-- TECH:END -->
+ - [The Absolute Best Sci-Fi Movies on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-hbo-max-to-watch-tonight/#ftag=CAD590a51e)
+ - [FBI Director Warns Against TikTok as National Security Threat, Report Says     - CNET](https://www.cnet.com/tech/services-and-software/fbi-director-warns-against-tiktok-as-national-security-threat-report-says/#ftag=CAD590a51e)
+ - [&#39;Your Call Is Important to Us&#39; Has Never Been Less True     - CNET](https://www.cnet.com/culture/your-call-is-important-to-us-has-never-been-less-true/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
