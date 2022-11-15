@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Warren Buffett&#39;s Berkshire Hathaway discloses the purchase of ~60.1M American depositary shares of TSMC, worth $4.1B+, in Q3 2022 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221114/p26#a221114p26)
- - [Filing: Bird overstated revenue for years by counting unpaid customer rides; the scooter company, valued at ~$2.3B in its SPAC merger, has a ~$104M market cap &lpar;Jaclyn Trop/TechCrunch&rpar;](http://www.techmeme.com/221114/p25#a221114p25)
- - [Document: GroupM warns marketers that Twitter is a &quot;high risk&quot; media buy due to recent resignations, Blue check abuse, and possible consent decree noncompliance &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/221114/p24#a221114p24)<!-- TECH:END -->
+ - [Los Angeles and Taipei-based GoFreight, which provides software to freight forwarders for building a storefront and managing operations, raised a $23M Series A &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221114/p30#a221114p30)
+ - [&#39;The English:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-english-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)
+ - [Microsoft&#39;s Xbox publishes its first transparency report on content moderation and reveals it took action against more than 4.3M inauthentic accounts in H1 2022 &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221114/p29#a221114p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
