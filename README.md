@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)
- - 👉 [Logic.](http://9gag.com/gag/ap9r8v5)<!-- MEMES:END -->
+ - 💣 [Karen](http://9gag.com/gag/adPqRj9)
+ - ⏩ [Chapelle explains it](http://9gag.com/gag/awZ5v7B)
+ - 👉 [Ancient 9gag](http://9gag.com/gag/aqerDqL)<!-- MEMES:END -->
 
 ---
 
