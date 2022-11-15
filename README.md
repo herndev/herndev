@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
- - ⏩ [This.](http://9gag.com/gag/a3Z7Nv1)
- - 👉 [This snow graffiti.](http://9gag.com/gag/aMEwqbV)<!-- MEMES:END -->
+ - 💣 [This kid is born to be a Ninja.](http://9gag.com/gag/az2rZVz)
+ - ⏩ [Yes](http://9gag.com/gag/aMEwvLW)
+ - 👉 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)<!-- MEMES:END -->
 
 ---
 
