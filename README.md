@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The scary truth about AI copyright is nobody knows what will happen next](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
- - [You can save $50 on the Xbox Series S](https://www.theverge.com/2022/11/15/23457929/xbox-lg-gram-15-laptop-amazon-fire-tv-cube-airpods-max-headphones-peloton-deal-sale)
- - [Phil Spencer really wants you to know that native Call of Duty will stay on PlayStation](https://www.theverge.com/23459189/phil-spencer-microsoft-activision-call-of-duty-xbox-playstation-candy-crush-apple-fortnite-vr)<!-- TECH:END -->
+ - [Razer is upgrading the 2022 Blade 14’s two USB-C ports to USB 4](https://www.theverge.com/2022/11/15/23458088/razer-2022-blade-14-gaming-laptop-amd-usb-c-4-thunderbolt-software-update)
+ - [Asus’ Steven Harrington Vivobook is a cool-looking laptop with uncool battery life](https://www.theverge.com/23453402/asus-vivobook-13-review-slate-steven-harrington-edition)
+ - [Hulu Plus Live TV guide: Prices, channel lineup, and deals](https://www.androidauthority.com/hulu-live-tv-guide-3234567/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
