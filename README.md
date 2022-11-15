@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
- - ⏩ [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
+ - 💣 [Snaaaaaake](http://9gag.com/gag/awZ5G0y)
+ - ⏩ [Cool dad.](http://9gag.com/gag/az2rDgN)
+ - 👉 [United Stated of Kherson, in melon we trust!](http://9gag.com/gag/a8qpX3d)<!-- MEMES:END -->
 
 ---
 
