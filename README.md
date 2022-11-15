@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best cases for the 10th-generation iPad](https://appleinsider.com/inside/10.9-inch-ipad/best/the-best-cases-for-the-10th-generation-ipad?utm_medium=rss)
- - [Emergency SOS via satellite available on Tuesday in US &amp; Canada](https://appleinsider.com/articles/22/11/15/emergency-sos-via-satellite-available-on-tuesday-in-us-canada?utm_medium=rss)
- - [Meta confirms WhatsApp India head Abhijit Bose and India&#39;s public policy head Rajiv Aggarwal have stepped down; sources say the exits are not layoff related &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/221115/p12#a221115p12)<!-- TECH:END -->
+ - [Descript’s revamped video editing Storyboard feature launches for all users](https://www.theverge.com/2022/11/15/23459858/descript-video-editing-storyboard-feature-transcript-scenes)
+ - [Clippy is the star of Microsoft’s latest ugly sweater](https://www.theverge.com/23459852/microsoft-clippy-ugly-sweater-windows-charity-price)
+ - [Wyze is getting into the mesh router business](https://www.theverge.com/2022/11/15/23459847/wyze-mesh-router-pro-wifi-6-6e-price-release-date-features-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
