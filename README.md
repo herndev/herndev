@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Seal of disapproval](http://9gag.com/gag/aQEMB6q)
- - ⏩ [Feudal Drip](http://9gag.com/gag/aYVKZrV)
- - 👉 [Putin when being told Poland has been hit by ruzkie missiles](http://9gag.com/gag/aEqRj2e)<!-- MEMES:END -->
+ - 💣 [Feudal Drip](http://9gag.com/gag/aYVKZrV)
+ - ⏩ [Where oil?](http://9gag.com/gag/az2rvgm)
+ - 👉 [Germans when they find out they didn&#39;t start WWIII](http://9gag.com/gag/az2rvyx)<!-- MEMES:END -->
 
 ---
 
