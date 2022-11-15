@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
- - 👉 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [Logic.](http://9gag.com/gag/ap9r8v5)
+ - 👉 [The floor is lava game in real life](http://9gag.com/gag/awZ5vYr)<!-- MEMES:END -->
 
 ---
 
