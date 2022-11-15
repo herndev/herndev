@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [20,000 Trees and a Rollercoaster – Take Farming Further!](https://news.xbox.com/en-us/2022/11/15/20000-trees-and-a-rollercoaster-take-farming-further/)
  - [Pentiment Available Now](https://news.xbox.com/en-us/2022/11/15/pentiment-available-now/)
- - [Rainbow Six Siege: how Azami almost broke the game](https://blog.playstation.com/2022/11/15/rainbow-six-siege-how-azami-almost-broke-the-game/)
- - [Coming to Xbox Game Pass: Gungrave G.O.R.E, Warhammer 40,000: Darktide, Dune: Spice Wars, and More](https://news.xbox.com/en-us/2022/11/15/game-pass-november-2022-wave-2-announce/)<!-- GAME:END -->
+ - [Rainbow Six Siege: how Azami almost broke the game](https://blog.playstation.com/2022/11/15/rainbow-six-siege-how-azami-almost-broke-the-game/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
