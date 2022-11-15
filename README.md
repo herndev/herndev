@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
- - ⏩ [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - 👉 [Saman Yasin, rapper from Iran is sentenced to death by hanging for \u201ehounding and war against god\u201c, as the verdict reads.](http://9gag.com/gag/avQrE8M)<!-- MEMES:END -->
+ - 💣 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
+ - ⏩ [Good Ole days](http://9gag.com/gag/a9qWNyo)
+ - 👉 [Feudal Drip](http://9gag.com/gag/aYVKZrV)<!-- MEMES:END -->
 
 ---
 
