@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait.. what??](http://9gag.com/gag/aREKv87)
- - ⏩ [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - 👉 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)<!-- MEMES:END -->
+ - 💣 [Karen](http://9gag.com/gag/adPqRj9)
+ - ⏩ [Unarmed security guard vs man with AR15](http://9gag.com/gag/aVbD47d)
+ - 👉 [You done goofed](http://9gag.com/gag/aA0wLRg)<!-- MEMES:END -->
 
 ---
 
