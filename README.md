@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wait.. what??](http://9gag.com/gag/aREKv87)
- - ⏩ [Behold... The new Marlboro Man!](http://9gag.com/gag/a2KdjEw)
- - 👉 [Ideal for smart watches](http://9gag.com/gag/aOxdNRD)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [OMG, Europe is freezing without Russian gas. Look, the gas storages are almost empty.](http://9gag.com/gag/aDYjNzB)
+ - 👉 [From cleansing oil spills to spilling oil](http://9gag.com/gag/aEqRNmO)<!-- MEMES:END -->
 
 ---
 
