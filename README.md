@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - ⏩ [Yes](http://9gag.com/gag/aMEwvLW)
- - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
+ - 💣 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
+ - ⏩ [I think she lost something.](http://9gag.com/gag/adPqdyN)
+ - 👉 [Tickets Please!!](http://9gag.com/gag/aDYjPX7)<!-- MEMES:END -->
 
 ---
 
