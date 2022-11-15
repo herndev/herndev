@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Document: GroupM warns marketers that Twitter is a &quot;high risk&quot; media buy due to recent resignations, Blue check abuse, and possible consent decree noncompliance &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/221114/p24#a221114p24)
- - [Buying ads on Twitter is ‘high-risk’ according to the world’s biggest ad agency](https://www.theverge.com/2022/11/14/23459254/twitter-high-risk-ads-groupm-advertisers-content-moderation)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: Warren Buffett&#39;s Berkshire Hathaway discloses the purchase of ~60.1M American depositary shares of TSMC, worth $4.1B+, in Q3 2022 &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221114/p26#a221114p26)
+ - [Filing: Bird overstated revenue for years by counting unpaid customer rides; the scooter company, valued at ~$2.3B in its SPAC merger, has a ~$104M market cap &lpar;Jaclyn Trop/TechCrunch&rpar;](http://www.techmeme.com/221114/p25#a221114p25)
+ - [Document: GroupM warns marketers that Twitter is a &quot;high risk&quot; media buy due to recent resignations, Blue check abuse, and possible consent decree noncompliance &lpar;Seb Joseph/Digiday&rpar;](http://www.techmeme.com/221114/p24#a221114p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
