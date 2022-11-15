@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elgato&#39;s Stream Deck+ has buttons, a big touch bar, and knobs](https://appleinsider.com/articles/22/11/15/elgatos-stream-deck-has-buttons-a-big-touch-bar-and-knobs?utm_medium=rss)
- - [Apple’s latest iOS beta gives you more control over the iPhone’s always-on display](https://www.theverge.com/2022/11/15/23460724/iphone-14-pro-always-on-display-toggles-beta)
- - [How to use Passkeys instead of passwords on iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-use-passkeys-instead-of-passwords-on-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/articles/22/11/15/hands-on-with-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)
+ - [Walter Hamada is joining Paramount Pictures following his Warner Bros. Discovery exit](https://www.theverge.com/2022/11/15/23460747/walter-hamada-dc-films-paramount-pictures-the-conjuring-aquaman-warner-bros-discovery)
+ - [How to use Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/inside/iphone-14/tips/how-to-use-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
