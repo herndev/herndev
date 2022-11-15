@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those are definitely \u201creal\u201dfootball fans. That they all look like Indians is just a coincidence. Nice try Qatar.](http://9gag.com/gag/aNwdvn0)
- - ⏩ [I think she lost something.](http://9gag.com/gag/adPqdyN)
- - 👉 [Tickets Please!!](http://9gag.com/gag/aDYjPX7)<!-- MEMES:END -->
+ - 💣 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
+ - ⏩ [It&#39;s just a prank](http://9gag.com/gag/aVbDddn)
+ - 👉 [Drawback](http://9gag.com/gag/az2rBzm)<!-- MEMES:END -->
 
 ---
 
