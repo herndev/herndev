@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Snaaaaaake](http://9gag.com/gag/awZ5G0y)
- - ⏩ [Cool dad.](http://9gag.com/gag/az2rDgN)
- - 👉 [United Stated of Kherson, in melon we trust!](http://9gag.com/gag/a8qpX3d)<!-- MEMES:END -->
+ - 💣 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - ⏩ [Behold... The new Marlboro Man!](http://9gag.com/gag/a2KdjEw)
+ - 👉 [Ideal for smart watches](http://9gag.com/gag/aOxdNRD)<!-- MEMES:END -->
 
 ---
 
