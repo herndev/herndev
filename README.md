@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Descript’s revamped video editing Storyboard feature launches for all users](https://www.theverge.com/2022/11/15/23459858/descript-video-editing-storyboard-feature-transcript-scenes)
- - [Clippy is the star of Microsoft’s latest ugly sweater](https://www.theverge.com/23459852/microsoft-clippy-ugly-sweater-windows-charity-price)
- - [Wyze is getting into the mesh router business](https://www.theverge.com/2022/11/15/23459847/wyze-mesh-router-pro-wifi-6-6e-price-release-date-features-specs)<!-- TECH:END -->
+ - [The scary truth about AI copyright is nobody knows what will happen next](https://www.theverge.com/23444685/generative-ai-copyright-infringement-legal-fair-use-training-data)
+ - [You can save $50 on the Xbox Series S](https://www.theverge.com/2022/11/15/23457929/xbox-lg-gram-15-laptop-amazon-fire-tv-cube-airpods-max-headphones-peloton-deal-sale)
+ - [Phil Spencer really wants you to know that native Call of Duty will stay on PlayStation](https://www.theverge.com/23459189/phil-spencer-microsoft-activision-call-of-duty-xbox-playstation-candy-crush-apple-fortnite-vr)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
