@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A woman enters a clinic](http://9gag.com/gag/ap9rDmM)
- - ⏩ [This snow graffiti.](http://9gag.com/gag/aMEwqbV)
- - 👉 [Rate this handiwork](http://9gag.com/gag/aDYjOq7)<!-- MEMES:END -->
+ - 💣 [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - ⏩ [This.](http://9gag.com/gag/a3Z7Nv1)
+ - 👉 [This snow graffiti.](http://9gag.com/gag/aMEwqbV)<!-- MEMES:END -->
 
 ---
 
