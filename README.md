@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sam Bankman-Fried oversaw FTX’s meltdown, and the fallout is reaching DC](https://www.theverge.com/2022/11/15/23459268/sam-bankman-fried-ftx-bankruptcy-crypto-lobbying-washington)
- - [Lego’s new Eiffel Tower set is taller than an average seven-year-old child](https://www.theverge.com/2022/11/15/23460111/lego-eiffel-tower-tallest-set-announcement-price-availability)
- - [macOS had the least malware infections in 2022](https://appleinsider.com/articles/22/11/15/report-shows-macos-had-the-least-malware-infections-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [2022 will hit a new record for climate pollution](https://www.theverge.com/2022/11/15/23460162/climate-change-report-2022-global-carbon-dioxide-emissions-rise)
+ - [Lucid gives first look at its luxury Gravity SUV as it begins to deliver cheaper Air Touring EV](https://www.theverge.com/2022/11/15/23459958/lucid-gravity-suv-first-look-air-touring-pure-delivery)
+ - [Netflix will now let you kick your ex out of your account](https://www.theverge.com/2022/11/15/23459154/netflix-manage-access-devices-account-settings)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
