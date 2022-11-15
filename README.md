@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to set up Mastodon, an alternative social network](https://appleinsider.com/inside/macos/tips/how-to-set-up-mastodon-an-alternative-social-network?utm_medium=rss)
- - [The tech industry’s moment of reckoning: layoffs and hiring freezes](https://www.theverge.com/2022/11/14/23458204/meta-twitter-amazon-apple-layoffs-hiring-freezes-latest-tech-industry)
- - [Apple trying to tempt businesses into buying new MacBook Pros](https://appleinsider.com/articles/22/11/14/apple-trying-to-tempt-businesses-into-buying-new-macbook-pros?utm_medium=rss)<!-- TECH:END -->
+ - [Nike is still trying to make NFTs happen with .Swoosh](https://www.theverge.com/2022/11/14/23458863/nike-nfts-happen-dot-swoosh-sneakers-crypto)
+ - [Elon Musk just ended Twitter SMS 2FA &lpar;Update: Appears to be back up for some&rpar;](https://www.androidauthority.com/twitter-sms-2fa-3234698/)
+ - [Black Friday 2022: The best deals on our favorite devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
