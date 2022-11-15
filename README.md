@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 14&rpar;](https://news.xbox.com/en-us/2022/11/14/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-14/)
  - [Tune into the God of War Ragnarök Soundtrack Listening Party stream November 17](https://blog.playstation.com/2022/11/14/tune-into-the-god-of-war-ragnarok-soundtrack-listening-party-stream-november-17/)
- - [Xbox Shares Community Safety Approach in Transparency Report](https://news.xbox.com/en-us/2022/11/14/xbox-shares-community-safety-approach-in-transparency-report/)
- - [This Holiday Season Just Got Better: Announcing the Xbox Series S – Gilded Hunter Bundle Coming November 29](https://news.xbox.com/en-us/2022/11/14/announcing-xbox-series-s-gilded-hunter-bundle/)<!-- GAME:END -->
+ - [Xbox Shares Community Safety Approach in Transparency Report](https://news.xbox.com/en-us/2022/11/14/xbox-shares-community-safety-approach-in-transparency-report/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
