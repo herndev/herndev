@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara’s new smart feeder can give your pet control of its bowl](https://www.theverge.com/2022/11/15/23459866/aqara-smart-pet-feeder-c1-price-release-date-features)
- - [The Garmin Bounce is an LTE smartwatch to help parents track their kids](https://www.theverge.com/2022/11/15/23457805/garmin-bounce-lte-smartwatch-child-tracker-wearable)
- - [The best cases for the 10th-generation iPad](https://appleinsider.com/inside/10.9-inch-ipad/best/the-best-cases-for-the-10th-generation-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [The best cases for the 10th-generation iPad](https://appleinsider.com/inside/10.9-inch-ipad/best/the-best-cases-for-the-10th-generation-ipad?utm_medium=rss)
+ - [Emergency SOS via satellite available on Tuesday in US &amp; Canada](https://appleinsider.com/articles/22/11/15/emergency-sos-via-satellite-available-on-tuesday-in-us-canada?utm_medium=rss)
+ - [Meta confirms WhatsApp India head Abhijit Bose and India&#39;s public policy head Rajiv Aggarwal have stepped down; sources say the exits are not layoff related &lpar;Vikas SN/Moneycontrol&rpar;](http://www.techmeme.com/221115/p12#a221115p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
