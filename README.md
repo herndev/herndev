@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen](http://9gag.com/gag/adPqRj9)
- - ⏩ [Chapelle explains it](http://9gag.com/gag/awZ5v7B)
- - 👉 [Ancient 9gag](http://9gag.com/gag/aqerDqL)<!-- MEMES:END -->
+ - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
+ - 👉 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)<!-- MEMES:END -->
 
 ---
 
