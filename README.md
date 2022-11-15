@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s best mid-ranger is getting a Galaxy S23-like makeover next year](https://www.androidauthority.com/samsung-galaxy-a54-5g-3234872/)
- - [A profile of FTX co-founder and CTO Gary Wang, who sources say doesn&#39;t talk much, is hard to contact, and was one of the few with &quot;root access&quot; to the code base &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221115/p4#a221115p4)
- - [A new Motorola smartwatch just showed up out of nowhere](https://www.androidauthority.com/moto-watch-70-3234818/)<!-- TECH:END -->
+ - [Cerebras announces its Andromeda supercomputer, combining 16 wafer-sized WSE-2 chips to create 13.5M AI-optimized cores, available to customers and researchers &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221115/p8#a221115p8)
+ - [Memo: Elon Musk tells Twitter staff they can continue to receive stock and options despite the company being private, using a plan &quot;much like that of SpaceX&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221115/p7#a221115p7)
+ - [In a hearing with UK lawmakers, a Binance executive says the exchange will submit evidence on discussions about the FTX deal, selling the FTT token, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221115/p6#a221115p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
