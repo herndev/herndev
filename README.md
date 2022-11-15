@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
- - ⏩ [Good Ole days](http://9gag.com/gag/a9qWNyo)
- - 👉 [Feudal Drip](http://9gag.com/gag/aYVKZrV)<!-- MEMES:END -->
+ - 💣 [Wait.. what??](http://9gag.com/gag/aREKv87)
+ - ⏩ [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - 👉 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)<!-- MEMES:END -->
 
 ---
 
