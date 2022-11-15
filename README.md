@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nike is still trying to make NFTs happen with .Swoosh](https://www.theverge.com/2022/11/14/23458863/nike-nfts-happen-dot-swoosh-sneakers-crypto)
- - [Elon Musk just ended Twitter SMS 2FA &lpar;Update: Appears to be back up for some&rpar;](https://www.androidauthority.com/twitter-sms-2fa-3234698/)
- - [Black Friday 2022: The best deals on our favorite devices](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Twitter’s SMS Two-Factor Authentication Is Melting Down](https://www.wired.com/story/twitter-two-factor-sms-problems/)
+ - [Elon Musk says he fired engineer who corrected him on Twitter](https://www.theverge.com/2022/11/14/23458247/elon-musk-fires-engineer-correcting-twitter)
+ - [Elon Musk fired at least one company engineer, who had publicly criticized Musk on the platform over Twitter&#39;s RPCs and Twitter being slow on Android &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221114/p22#a221114p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
