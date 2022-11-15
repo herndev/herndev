@@ -30,8 +30,8 @@
 
 <!-- GAME:START -->
  - [Pentiment Available Now](https://news.xbox.com/en-us/2022/11/15/pentiment-available-now/)
- - [Coming to Xbox Game Pass: Gungrave G.O.R.E, Warhammer 40,000: Darktide, Dune: Spice Wars, and More](https://news.xbox.com/en-us/2022/11/15/game-pass-november-2022-wave-2-announce/)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 14&rpar;](https://news.xbox.com/en-us/2022/11/14/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-14/)<!-- GAME:END -->
+ - [Rainbow Six Siege: how Azami almost broke the game](https://blog.playstation.com/2022/11/15/rainbow-six-siege-how-azami-almost-broke-the-game/)
+ - [Coming to Xbox Game Pass: Gungrave G.O.R.E, Warhammer 40,000: Darktide, Dune: Spice Wars, and More](https://news.xbox.com/en-us/2022/11/15/game-pass-november-2022-wave-2-announce/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
