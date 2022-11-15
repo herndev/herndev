@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
- - ⏩ [Add a smile to your day \ud83d\ude01](http://9gag.com/gag/aGE07B0)
- - 👉 [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)<!-- MEMES:END -->
+ - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
+ - ⏩ [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)
+ - 👉 [Logic.](http://9gag.com/gag/ap9r8v5)<!-- MEMES:END -->
 
 ---
 
