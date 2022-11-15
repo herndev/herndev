@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never skip the school](http://9gag.com/gag/awZ5dxB)
- - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
- - 👉 [How do I get my neighbour&#39;s to stop parking on or blocking my driveway? I have called the local city and complained but yet these f**king losers don&#39;t stop...they didn&#39;t park this time because I was sitting in my suv...](http://9gag.com/gag/aKE2YBO)<!-- MEMES:END -->
+ - 💣 [Karen](http://9gag.com/gag/adPqRj9)
+ - ⏩ [I think she lost something.](http://9gag.com/gag/adPqdyN)
+ - 👉 [Red is a dick](http://9gag.com/gag/avQrmDX)<!-- MEMES:END -->
 
 ---
 
