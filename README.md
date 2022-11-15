@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - ⏩ [OMG, Europe is freezing without Russian gas. Look, the gas storages are almost empty.](http://9gag.com/gag/aDYjNzB)
- - 👉 [From cleansing oil spills to spilling oil](http://9gag.com/gag/aEqRNmO)<!-- MEMES:END -->
+ - 💣 [Let&#39;s see if there is still hope for humantid- i mean humanity..](http://9gag.com/gag/amArxpj)
+ - ⏩ [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - 👉 [Saman Yasin, rapper from Iran is sentenced to death by hanging for \u201ehounding and war against god\u201c, as the verdict reads.](http://9gag.com/gag/avQrE8M)<!-- MEMES:END -->
 
 ---
 
