@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s SMS Two-Factor Authentication Is Melting Down](https://www.wired.com/story/twitter-two-factor-sms-problems/)
- - [Elon Musk says he fired engineer who corrected him on Twitter](https://www.theverge.com/2022/11/14/23458247/elon-musk-fires-engineer-correcting-twitter)
- - [Elon Musk fired at least one company engineer, who had publicly criticized Musk on the platform over Twitter&#39;s RPCs and Twitter being slow on Android &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221114/p22#a221114p22)<!-- TECH:END -->
+ - [Buying ads on Twitter is ‘high-risk’ according to the world’s biggest ad agency](https://www.theverge.com/2022/11/14/23459254/twitter-high-risk-ads-groupm-advertisers-content-moderation)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [A look at a doc from Twitter&#39;s trust and safety team on Nov. 1 that detailed how the new Blue subscription could be abused, largely ignored in a rush to launch &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/221114/p23#a221114p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
