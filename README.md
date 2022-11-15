@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid is born to be a Ninja.](http://9gag.com/gag/az2rZVz)
- - ⏩ [Yes](http://9gag.com/gag/aMEwvLW)
- - 👉 [Just a random collection of perfectly timed shots. Show what you got.](http://9gag.com/gag/aA0wKqR)<!-- MEMES:END -->
+ - 💣 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
+ - ⏩ [Add a smile to your day \ud83d\ude01](http://9gag.com/gag/aGE07B0)
+ - 👉 [Don&#39;t lie, you&#39;ve always wanted to do this](http://9gag.com/gag/aoK2n80)<!-- MEMES:END -->
 
 ---
 
