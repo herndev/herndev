@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)
- - ⏩ [It&#39;s just a prank](http://9gag.com/gag/aVbDddn)
- - 👉 [Drawback](http://9gag.com/gag/az2rBzm)<!-- MEMES:END -->
+ - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
+ - ⏩ [China opens investigation after Tesla car runs off at high speed while trying to park, killing 2 people and injuring several others](http://9gag.com/gag/az2rG9z)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
 
 ---
 
