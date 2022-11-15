@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen](http://9gag.com/gag/adPqRj9)
- - ⏩ [Unarmed security guard vs man with AR15](http://9gag.com/gag/aVbD47d)
- - 👉 [You done goofed](http://9gag.com/gag/aA0wLRg)<!-- MEMES:END -->
+ - 💣 [Seal of disapproval](http://9gag.com/gag/aQEMB6q)
+ - ⏩ [Feudal Drip](http://9gag.com/gag/aYVKZrV)
+ - 👉 [Putin when being told Poland has been hit by ruzkie missiles](http://9gag.com/gag/aEqRj2e)<!-- MEMES:END -->
 
 ---
 
