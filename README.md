@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Pentiment Available Now](https://news.xbox.com/en-us/2022/11/15/pentiment-available-now/)
  - [Coming to Xbox Game Pass: Gungrave G.O.R.E, Warhammer 40,000: Darktide, Dune: Spice Wars, and More](https://news.xbox.com/en-us/2022/11/15/game-pass-november-2022-wave-2-announce/)
- - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 14&rpar;](https://news.xbox.com/en-us/2022/11/14/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-14/)
- - [Tune into the God of War Ragnarök Soundtrack Listening Party stream November 17](https://blog.playstation.com/2022/11/14/tune-into-the-god-of-war-ragnarok-soundtrack-listening-party-stream-november-17/)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale &lpar;Week of November 14&rpar;](https://news.xbox.com/en-us/2022/11/14/this-weeks-deals-with-gold-and-spotlight-sale-week-of-november-14/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
