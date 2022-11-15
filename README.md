@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/articles/22/11/15/hands-on-with-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)
- - [Walter Hamada is joining Paramount Pictures following his Warner Bros. Discovery exit](https://www.theverge.com/2022/11/15/23460747/walter-hamada-dc-films-paramount-pictures-the-conjuring-aquaman-warner-bros-discovery)
- - [How to use Emergency SOS via Satellite on iPhone 14](https://appleinsider.com/inside/iphone-14/tips/how-to-use-emergency-sos-via-satellite-on-iphone-14?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon Launches Virtual Care Clinic for Common Ailments     - CNET](https://www.cnet.com/health/medical/amazon-launches-virtual-care-clinic-for-common-ailments/#ftag=CAD590a51e)
+ - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
+ - [Twitter says 2FA still works, but it’s looking into a ‘few cases’ where it didn’t](https://www.theverge.com/2022/11/15/23460940/twitter-2fa-two-factor-authentication-microservices)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
