@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Karen](http://9gag.com/gag/adPqRj9)
- - ⏩ [I think she lost something.](http://9gag.com/gag/adPqdyN)
- - 👉 [Red is a dick](http://9gag.com/gag/avQrmDX)<!-- MEMES:END -->
+ - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
+ - ⏩ [Yes](http://9gag.com/gag/aMEwvLW)
+ - 👉 [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)<!-- MEMES:END -->
 
 ---
 
