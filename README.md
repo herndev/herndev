@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 will hit a new record for climate pollution](https://www.theverge.com/2022/11/15/23460162/climate-change-report-2022-global-carbon-dioxide-emissions-rise)
- - [Lucid gives first look at its luxury Gravity SUV as it begins to deliver cheaper Air Touring EV](https://www.theverge.com/2022/11/15/23459958/lucid-gravity-suv-first-look-air-touring-pure-delivery)
- - [Netflix will now let you kick your ex out of your account](https://www.theverge.com/2022/11/15/23459154/netflix-manage-access-devices-account-settings)<!-- TECH:END -->
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Netflix is rolling out a feature to let account owners identify and remotely log out of devices they do not recognize or no longer want signed in &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221115/p26#a221115p26)
+ - [How DeviantArt is navigating the AI art minefield](https://www.theverge.com/2022/11/15/23449036/deviantart-ai-art-dreamup-training-data-controversy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
