@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A new Motorola smartwatch just showed up out of nowhere](https://www.androidauthority.com/moto-watch-70-3234818/)
- - [YouTube introduces Shorts shopping features, letting users buy products while scrolling through videos, diversifying its revenue streams during a weak ad market &lpar;Financial Times&rpar;](http://www.techmeme.com/221115/p3#a221115p3)
- - [Samsung Galaxy Note 20 series starts getting stable Android 13 update in the US](https://www.androidauthority.com/samsung-galaxy-note-20-update-1145703/)<!-- TECH:END -->
+ - [Samsung’s best mid-ranger is getting a Galaxy S23-like makeover next year](https://www.androidauthority.com/samsung-galaxy-a54-5g-3234872/)
+ - [A profile of FTX co-founder and CTO Gary Wang, who sources say doesn&#39;t talk much, is hard to contact, and was one of the few with &quot;root access&quot; to the code base &lpar;Kari McMahon/The Block&rpar;](http://www.techmeme.com/221115/p4#a221115p4)
+ - [A new Motorola smartwatch just showed up out of nowhere](https://www.androidauthority.com/moto-watch-70-3234818/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
