@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cerebras announces its Andromeda supercomputer, combining 16 wafer-sized WSE-2 chips to create 13.5M AI-optimized cores, available to customers and researchers &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221115/p8#a221115p8)
- - [Memo: Elon Musk tells Twitter staff they can continue to receive stock and options despite the company being private, using a plan &quot;much like that of SpaceX&quot; &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221115/p7#a221115p7)
- - [In a hearing with UK lawmakers, a Binance executive says the exchange will submit evidence on discussions about the FTX deal, selling the FTT token, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221115/p6#a221115p6)<!-- TECH:END -->
+ - [Aqara’s new smart feeder can give your pet control of its bowl](https://www.theverge.com/2022/11/15/23459866/aqara-smart-pet-feeder-c1-price-release-date-features)
+ - [The Garmin Bounce is an LTE smartwatch to help parents track their kids](https://www.theverge.com/2022/11/15/23457805/garmin-bounce-lte-smartwatch-child-tracker-wearable)
+ - [The best cases for the 10th-generation iPad](https://appleinsider.com/inside/10.9-inch-ipad/best/the-best-cases-for-the-10th-generation-ipad?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
