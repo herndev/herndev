@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer is upgrading the 2022 Blade 14’s two USB-C ports to USB 4](https://www.theverge.com/2022/11/15/23458088/razer-2022-blade-14-gaming-laptop-amd-usb-c-4-thunderbolt-software-update)
- - [Asus’ Steven Harrington Vivobook is a cool-looking laptop with uncool battery life](https://www.theverge.com/23453402/asus-vivobook-13-review-slate-steven-harrington-edition)
- - [Hulu Plus Live TV guide: Prices, channel lineup, and deals](https://www.androidauthority.com/hulu-live-tv-guide-3234567/)<!-- TECH:END -->
+ - [Sam Bankman-Fried oversaw FTX’s meltdown, and the fallout is reaching DC](https://www.theverge.com/2022/11/15/23459268/sam-bankman-fried-ftx-bankruptcy-crypto-lobbying-washington)
+ - [Lego’s new Eiffel Tower set is taller than an average seven-year-old child](https://www.theverge.com/2022/11/15/23460111/lego-eiffel-tower-tallest-set-announcement-price-availability)
+ - [macOS had the least malware infections in 2022](https://appleinsider.com/articles/22/11/15/report-shows-macos-had-the-least-malware-infections-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
