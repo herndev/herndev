@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to ask a Japanese girl out](http://9gag.com/gag/aoK2V20)
- - ⏩ [Clean underpants please](http://9gag.com/gag/aKE2W4j)
- - 👉 [Remember the movie Jumper?](http://9gag.com/gag/aBdwE6Q)<!-- MEMES:END -->
+ - 💣 [Never skip the school](http://9gag.com/gag/awZ5dxB)
+ - ⏩ [C. Can&#39;t tell](http://9gag.com/gag/aoK2VW3)
+ - 👉 [How do I get my neighbour&#39;s to stop parking on or blocking my driveway? I have called the local city and complained but yet these f**king losers don&#39;t stop...they didn&#39;t park this time because I was sitting in my suv...](http://9gag.com/gag/aKE2YBO)<!-- MEMES:END -->
 
 ---
 
