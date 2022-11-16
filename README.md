@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Simplilearn, which offers upskilling courses for AI, ML, and more, raised $45M in a round led by GSV; Blackstone had acquired a majority stake for $250M in 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/221116/p4#a221116p4)
- - [Samsung Galaxy S21 series is getting its second update of the month](https://www.androidauthority.com/samsung-galaxy-s21-update-1201187/)
- - [NASA’s Artemis 1 mission is finally headed towards the Moon](https://www.theverge.com/2022/11/16/23461490/nasa-artemis-1-success-launch-sls)<!-- TECH:END -->
+ - [Daily Authority: 🐉 The chip to power 2023 Android flagships is here!](https://www.androidauthority.com/daily-authority-november-16-2022-3235363/)
+ - [Some public libraries in the US and Canada are using open-source software MUSICat to offer their own music streaming services and boost their local music scenes &lpar;Claire Woodcock/VICE&rpar;](http://www.techmeme.com/221116/p5#a221116p5)
+ - [Simplilearn, which offers upskilling courses, bootcamps, and certifications, raised $45M led by GSV Ventures; Blackstone acquired a $250M majority stake in 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/221116/p4#a221116p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
