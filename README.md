@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call of Duty: Warzone 2.0 Tactical Guide – New Features, DMZ, and More](https://news.xbox.com/en-us/2022/11/16/call-of-duty-warzone-2-0-tactical-guide-new-features-dmz-and-more/)
- - [Dead Cells’ second indie crossover brings Shovel Knight, Terraria, Katana Zero and more to the game today](https://blog.playstation.com/2022/11/16/dead-cells-second-indie-crossover-brings-shovel-knight-terraria-katana-zero-and-more-to-the-game-today/)
- - [It’s Time to Start Skilling with Smite x RuneScape, Along with a Futuristic New Battle Pass](https://news.xbox.com/en-us/2022/11/16/its-time-to-start-skilling-with-smite-x-runescape-along-with-a-futuristic-new-battle-pass/)<!-- GAME:END -->
+ - [The Crew 2 Heads Into the Storm With Season 7 Episode 1’s Cross-Country Race](https://news.xbox.com/en-us/2022/11/16/the-crew-2-heads-into-the-storm-with-season-7-episode-1s-cross-country-race/)
+ - [Enjoy Big Victories in Battlefield 2042 – Coming Soon to EA Play](https://news.xbox.com/en-us/2022/11/16/enjoy-big-victories-in-battlefield-2042-coming-soon-to-ea-play/)
+ - [Call of Duty: Warzone 2.0 Tactical Guide – New Features, DMZ, and More](https://news.xbox.com/en-us/2022/11/16/call-of-duty-warzone-2-0-tactical-guide-new-features-dmz-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
