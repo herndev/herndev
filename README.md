@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sepak takraw](http://9gag.com/gag/aDYj5eN)
- - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 👉 [The only thing i want from The Witcher 3\u2018s next gen update.](http://9gag.com/gag/aQEM5Ww)<!-- MEMES:END -->
+ - 💣 [Boycott Qatar 2022](http://9gag.com/gag/aBdwBwO)
+ - ⏩ [Karen](http://9gag.com/gag/adPqRj9)
+ - 👉 [When you don&#39;t get paid, but then it&#39;s going to cost you dearly.](http://9gag.com/gag/a4oZ0jQ)<!-- MEMES:END -->
 
 ---
 
