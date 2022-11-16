@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Feudal Drip](http://9gag.com/gag/aYVKZrV)
- - ⏩ [Where oil?](http://9gag.com/gag/az2rvgm)
- - 👉 [Germans when they find out they didn&#39;t start WWIII](http://9gag.com/gag/az2rvyx)<!-- MEMES:END -->
+ - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
+ - ⏩ [Karen](http://9gag.com/gag/adPqRj9)
+ - 👉 [Totally normal behaviour](http://9gag.com/gag/ay2LZRM)<!-- MEMES:END -->
 
 ---
 
