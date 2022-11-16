@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says the new Twitter Blue will relaunch on November 29, &quot;to make sure that it is rock solid&quot; &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221115/p36#a221115p36)
- - [How India&#39;s gig workers, tired of algorithms dictating their lives, are using Telegram to exchange cheap hacks on how to game the platforms to their advantage &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/221115/p35#a221115p35)
- - [Qualcomm unveils the Snapdragon 8 Gen 2, promising 35% faster CPU performance, improved power efficiency, Wi-Fi 7 support, and up to 4.35x faster AI performance &lpar;Allison Johnson/The Verge&rpar;](http://www.techmeme.com/221115/p34#a221115p34)<!-- TECH:END -->
+ - [Tokyo-based digital payments company Opn says it plans to acquire US payment processing provider MerchantE, sources say for approximately $400M &lpar;Kiyoshi Takenaka/Reuters&rpar;](http://www.techmeme.com/221115/p37#a221115p37)
+ - [&#39;Rick and Morty&#39; Showrunner Explains Season 6&#39;s Wine Cabinet Confusion     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-showrunner-explains-season-6s-wine-cabinet-confusion/#ftag=CAD590a51e)
+ - [Apple is reportedly looking to buy chips from US and European fabs](https://www.theverge.com/2022/11/15/23461187/apple-chips-arizona-us-europe-tsmc)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
