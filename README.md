@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - ⏩ [Video of Robert Wadlow, the tallest human in recorded history. At the time of his death he was 8 ft 11 in &lpar;2.72 m&rpar; tall. He died aged 22.](http://9gag.com/gag/a3Z7WX1)
- - 👉 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)<!-- MEMES:END -->
+ - 💣 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - ⏩ [Gods stupid design](http://9gag.com/gag/aqerw2Z)
+ - 👉 [Sometimes you gotta love facebook](http://9gag.com/gag/ajVqvdp)<!-- MEMES:END -->
 
 ---
 
