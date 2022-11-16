@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Whatnot? Everything you need to know](https://www.androidauthority.com/what-is-whatnot-3235330/)
- - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
- - [Meta AI and Papers with Code unveil Galactica, an open source LLM for generating literature reviews, wiki articles, lecture notes, and more on scientific topics &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/221116/p1#a221116p1)<!-- TECH:END -->
+ - [The OnePlus 8 series is gaining Android 13 this week](https://www.androidauthority.com/oneplus-8-android-13-update-3235371/)
+ - [Musk pushes Twitter’s paid verification rollout to November 29](https://www.androidauthority.com/twitter-paid-verification-delayed-3235376/)
+ - [A look at Alphabet X&#39;s Mineral, which has developed ML-powered unmanned rovers for inspecting crops that can help agricultural companies improve crop yields &lpar;Max Chafkin/Bloomberg&rpar;](http://www.techmeme.com/221116/p3#a221116p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
