@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will buy US-made chips from TSMC, confirms Tim Cook](https://appleinsider.com/articles/22/11/15/apple-will-buy-tsmc-arizona-plant-chips-confirms-tim-cook?utm_medium=rss)
- - [An independent audit shows the Luna Foundation Guard spent $2.8B in crypto and Terraform Labs spent $613M trying to defend the UST stablecoin in May 2022 &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221116/p12#a221116p12)
- - [Will Smith&#39;s Oscars slap didn&#39;t make Apple delay &#39;Emancipation,&#39; says director](https://appleinsider.com/articles/22/11/16/will-smiths-oscars-slap-didnt-make-apple-delay-emancipation-says-director?utm_medium=rss)<!-- TECH:END -->
+ - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)
+ - [Where to buy Nvidia’s RTX 4080 GPU](https://www.theverge.com/2022/11/16/23460957/nvidia-rtx-4080-graphics-card-gpu-where-to-buy)
+ - [Nocs NS1100 Air Review: Great Wireless Sound, Sharp Design](https://www.wired.com/review/nocs-ns1100-air/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
