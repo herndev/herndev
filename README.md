@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Boycott Qatar 2022](http://9gag.com/gag/aBdwBwO)
- - ⏩ [Karen](http://9gag.com/gag/adPqRj9)
- - 👉 [When you don&#39;t get paid, but then it&#39;s going to cost you dearly.](http://9gag.com/gag/a4oZ0jQ)<!-- MEMES:END -->
+ - 💣 [Moments of despair we&#39;ve all been through](http://9gag.com/gag/aA0wzw2)
+ - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - 👉 [Tetten](http://9gag.com/gag/anzyoOz)<!-- MEMES:END -->
 
 ---
 
