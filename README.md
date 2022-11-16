@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)
- - [Where to buy Nvidia’s RTX 4080 GPU](https://www.theverge.com/2022/11/16/23460957/nvidia-rtx-4080-graphics-card-gpu-where-to-buy)
- - [Nocs NS1100 Air Review: Great Wireless Sound, Sharp Design](https://www.wired.com/review/nocs-ns1100-air/)<!-- TECH:END -->
+ - [Backbone’s excellent phone controller is now shipping for Android](https://www.theverge.com/2022/11/16/23462127/backbone-one-phone-controller-android-usb-c-features)
+ - [Microsoft Teams now has Solitaire and Minesweeper in a games for work push](https://www.theverge.com/2022/11/16/23462041/microsoft-teams-games-for-work-solitaire-minesweeper)
+ - [Notion is using AI to automatically write your blog posts, job descriptions, and poetry](https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
