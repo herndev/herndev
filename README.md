@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk demands Twitter employees commit to ‘extremely hardcore’ culture or leave](https://www.theverge.com/2022/11/16/23462026/elon-musk-twitter-email-hardcore-or-severance)
- - [Tencent reports Q3 revenue down 2% YoY to ~$19.8B, below ~$20B estimates, and plans to distribute most of its ~$20B Meituan stake to shareholders as a dividend &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221116/p7#a221116p7)
- - [Diesel’s latest smartwatch meshes chunky styling with Gen 6 technology](https://www.androidauthority.com/diesel-griffed-gen-6-3235400/)<!-- TECH:END -->
+ - [You told us: Most of you haven’t had any major issues with the Pixel 7 series](https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/)
+ - [A look at SBF&#39;s desperate efforts to raise $7B+ from Sequoia, Apollo, TPG, the Saudis, and others; FTX&#39;s internal accounting software hid FTX-Alameda transfers &lpar;Reuters&rpar;](http://www.techmeme.com/221116/p10#a221116p10)
+ - [A wallet linked to the suspected FTX hacker swapped ~$49M of stablecoins for ether, taking its haul to 228,523 ETH and becoming the 35th largest ETH holder &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/221116/p9#a221116p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
