@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [5th DAN . Black belt exam](http://9gag.com/gag/aKE2O8j)
- - ⏩ [When you hire the one who really knows how to do the job..](http://9gag.com/gag/a1PdjOb)
+ - 💣 [Sepak takraw](http://9gag.com/gag/aDYj5eN)
+ - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
  - 👉 [The only thing i want from The Witcher 3\u2018s next gen update.](http://9gag.com/gag/aQEM5Ww)<!-- MEMES:END -->
 
 ---
