@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Backbone’s excellent phone controller is now shipping for Android](https://www.theverge.com/2022/11/16/23462127/backbone-one-phone-controller-android-usb-c-features)
- - [Microsoft Teams now has Solitaire and Minesweeper in a games for work push](https://www.theverge.com/2022/11/16/23462041/microsoft-teams-games-for-work-solitaire-minesweeper)
- - [Notion is using AI to automatically write your blog posts, job descriptions, and poetry](https://www.theverge.com/2022/11/16/23460904/notion-ai-notes-writing-machine-learning)<!-- TECH:END -->
+ - [Xbox Game Pass Ultimate members get 3-month Apple TV+ &amp; Apple Music trials](https://appleinsider.com/articles/22/11/16/xbox-game-pass-ultimate-members-get-3-month-apple-tv-apple-music-trials?utm_medium=rss)
+ - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-16-2022-3234675/)
+ - [Razer is upgrading the 2022 Blade 14’s two USB-C ports to USB 4](https://www.theverge.com/2022/11/15/23458088/razer-2022-blade-14-gaming-laptop-amd-usb-c-4-thunderbolt-software-update)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
