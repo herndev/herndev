@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - ⏩ [Hey Jim, can you get the... Jim?](http://9gag.com/gag/aVbDyeM)
- - 👉 [Freudian slip](http://9gag.com/gag/aBdwBAZ)<!-- MEMES:END -->
+ - 💣 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
+ - ⏩ [Well played](http://9gag.com/gag/anzyPL5)
+ - 👉 [Oops](http://9gag.com/gag/aMEwojX)<!-- MEMES:END -->
 
 ---
 
