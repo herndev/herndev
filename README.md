@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Activist investor TCI, which has a $6B+ stake in Alphabet, calls on the company to aggressively reduce headcount and cut costs in long-term bets such as Waymo &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/221115/p40#a221115p40)
- - [Apple TV+ picked up then turned down rights to Trump book](https://appleinsider.com/articles/22/11/16/apple-tv-picked-up-then-turned-down-rights-to-trump-book?utm_medium=rss)
- - [Get This Intriguing AirPods 3 Alternative for $28     - CNET](https://www.cnet.com/deals/get-this-intriguing-airpods-3-alternative-for-28/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Bigger Battles Over Voting Lie Ahead, Elections Officials Warn     - CNET](https://www.cnet.com/news/politics/secretaries-of-state-say-biggest-battle-for-democracy-still-lies-ahead/#ftag=CAD590a51e)
+ - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)
+ - [Genesis X Convertible EV Concept Previews Future Design Language     - CNET](https://www.cnet.com/roadshow/news/genesis-x-convertible-ev-concept-previews-future-design-language/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
