@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DoorDash expands its SafeDash in-app security toolkit, adding an automated SafeChat tool, improved safety reporting, real-time alerts, and porch light reminders &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/221116/p20#a221116p20)
- - [Amazon confirms cuts to hardware and services teams](https://www.theverge.com/2022/11/16/23462439/amazon-layoffs-cuts-hardware-services-teams)
- - [The best smart locks you can buy right now](https://www.theverge.com/23393163/best-smart-door-lock)<!-- TECH:END -->
+ - [A Lab-Grown Meat Startup Gets the FDA’s Stamp of Approval](https://www.wired.com/story/lab-grown-meat-approval/)
+ - [Motorola Edge 40 Pro FCC filing reveals 125W fast charging and more](https://www.androidauthority.com/motorola-edge-10-pro-3235564/)
+ - [Apple unveils new design for iCloud.com with customizable tiles](https://appleinsider.com/articles/22/11/16/apple-unveils-new-design-for-icloudcom-with-customizable-tiles?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
