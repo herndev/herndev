@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - ⏩ [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - 👉 [10 years of cgi development later..](http://9gag.com/gag/a7qZGGw)<!-- MEMES:END -->
+ - 💣 [Just getting grocery at hotme](http://9gag.com/gag/a7qZmMz)
+ - ⏩ [There&#39;s good boys, and then there&#39;s this boy!](http://9gag.com/gag/anzy390)
+ - 👉 [Hey! how are ya!](http://9gag.com/gag/aNwdXRA)<!-- MEMES:END -->
 
 ---
 
