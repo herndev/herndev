@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Lab-Grown Meat Startup Gets the FDA’s Stamp of Approval](https://www.wired.com/story/lab-grown-meat-approval/)
- - [Motorola Edge 40 Pro FCC filing reveals 125W fast charging and more](https://www.androidauthority.com/motorola-edge-10-pro-3235564/)
- - [Apple unveils new design for iCloud.com with customizable tiles](https://appleinsider.com/articles/22/11/16/apple-unveils-new-design-for-icloudcom-with-customizable-tiles?utm_medium=rss)<!-- TECH:END -->
+ - [Linktree is letting creators add paywalls for premium content](https://www.theverge.com/2022/11/16/23462480/linktree-payment-lock-creators-paywall-premium-content)
+ - [The best cases for the M2 iPad Pro](https://appleinsider.com/inside/ipad-pro/best/the-best-cases-for-the-m2-ipad-pro?utm_medium=rss)
+ - [Third iOS 16.2, tvOS 16.2, macOS 13.1, iPadOS 16.2 public betas with Freeform available](https://appleinsider.com/articles/22/11/16/third-ios-162-tvos-162-macos-131-ipados-162-public-betas-with-freeform-available?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
