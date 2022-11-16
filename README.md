@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Activist investor TCI, which has a $6B+ stake in Alphabet, calls on the company to aggressively reduce headcount and cut costs in long-term bets such as Waymo &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/221115/p40#a221115p40)
  - [Apple TV+ picked up then turned down rights to Trump book](https://appleinsider.com/articles/22/11/16/apple-tv-picked-up-then-turned-down-rights-to-trump-book?utm_medium=rss)
- - [Cloudbrink, which offers networking tools to help secure hybrid workforces, emerges from stealth with $25M led by Highland Capital Partners and The Fabric &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/221115/p39#a221115p39)<!-- TECH:END -->
+ - [Get This Intriguing AirPods 3 Alternative for $28     - CNET](https://www.cnet.com/deals/get-this-intriguing-airpods-3-alternative-for-28/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
