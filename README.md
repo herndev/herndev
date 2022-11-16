@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes](http://9gag.com/gag/aMEwvLW)
- - ⏩ [Karen](http://9gag.com/gag/adPqRj9)
- - 👉 [Totally normal behaviour](http://9gag.com/gag/ay2LZRM)<!-- MEMES:END -->
+ - 💣 [Damn](http://9gag.com/gag/aGE0NX0)
+ - ⏩ [And everyone knows the reason why.](http://9gag.com/gag/a3Z7zR7)
+ - 👉 [Welcome to Qatar](http://9gag.com/gag/aNwdG5K)<!-- MEMES:END -->
 
 ---
 
