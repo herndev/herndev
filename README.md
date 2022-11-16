@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check Out What’s New in Rumbleverse Season 2 – Now Available for Xbox](https://news.xbox.com/en-us/2022/11/16/check-out-whats-new-in-rumbleverse-season-2-now-available-for-xbox/)
- - [Invoke the Might of the Pyre in the Latest Paladins Update](https://news.xbox.com/en-us/2022/11/16/invoke-the-might-of-the-pyre-in-the-latest-paladins-update/)
- - [Build Connections with Games for Work, a New Microsoft Teams App](https://news.xbox.com/en-us/2022/11/16/build-connections-with-games-for-work-a-new-microsoft-teams-app/)<!-- GAME:END -->
+ - [The Xbox November Update Rolls Out Today](https://news.xbox.com/en-us/2022/11/16/xbox-november-2022-update-rolls-out-today/)
+ - [Xbox Cloud Gaming is Coming to Even More Samsung TVs and Adding Rumble Support](https://news.xbox.com/en-us/2022/11/16/xbox-cloud-gaming-coming-to-more-samsung-tvs/)
+ - [Check Out What’s New in Rumbleverse Season 2 – Now Available for Xbox](https://news.xbox.com/en-us/2022/11/16/check-out-whats-new-in-rumbleverse-season-2-now-available-for-xbox/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
