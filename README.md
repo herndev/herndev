@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - ⏩ [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
- - 👉 [Thief stealing police phone while the same police is trying to save him from being lynched](http://9gag.com/gag/a5XZANG)<!-- MEMES:END -->
+ - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - ⏩ [Time to find a new job](http://9gag.com/gag/adPq41Z)
+ - 👉 [10 years of cgi development later..](http://9gag.com/gag/a7qZGGw)<!-- MEMES:END -->
 
 ---
 
