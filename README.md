@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Karen](http://9gag.com/gag/adPqRj9)
- - ⏩ [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)
- - 👉 [Just wow like wtf](http://9gag.com/gag/aDYjNr7)<!-- MEMES:END -->
+ - ⏩ [We&#39;re lucky that they are so f**king stupid?](http://9gag.com/gag/aOxd5D2)
+ - 👉 [Qatar is a shithole with money.](http://9gag.com/gag/amArZ0j)<!-- MEMES:END -->
 
 ---
 
