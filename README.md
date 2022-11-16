@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moments of despair we&#39;ve all been through](http://9gag.com/gag/aA0wzw2)
- - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 👉 [Tetten](http://9gag.com/gag/anzyoOz)<!-- MEMES:END -->
+ - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - ⏩ [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
+ - 👉 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)<!-- MEMES:END -->
 
 ---
 
