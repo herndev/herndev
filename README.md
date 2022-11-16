@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cities: Skylines Goes International with Content Inspired by Places All Around the World](https://news.xbox.com/en-us/2022/11/15/cities-skylines-goes-international/)
- - [Check Out the Latest Updates From Minecraft’s the Mangrove Restoration Project](https://news.xbox.com/en-us/2022/11/15/check-out-the-latest-updates-from-minecrafts-the-mangrove-restoration-project/)
- - [20,000 Trees and a Rollercoaster – Take Farming Further!](https://news.xbox.com/en-us/2022/11/15/20000-trees-and-a-rollercoaster-take-farming-further/)<!-- GAME:END -->
+ - [Build Connections with Games for Work, a New Microsoft Teams App](https://news.xbox.com/en-us/2022/11/16/build-connections-with-games-for-work-a-new-microsoft-teams-app/)
+ - [3-Month Free Trials of Apple TV+ and Apple Music Come to Xbox Game Pass Ultimate Perks This Holiday](https://news.xbox.com/en-us/2022/11/16/apple-tv-and-apple-music-xbox-game-pass-ultimate-perks/)
+ - [Cities: Skylines Goes International with Content Inspired by Places All Around the World](https://news.xbox.com/en-us/2022/11/15/cities-skylines-goes-international/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
