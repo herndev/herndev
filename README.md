@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Linktree is letting creators add paywalls for premium content](https://www.theverge.com/2022/11/16/23462480/linktree-payment-lock-creators-paywall-premium-content)
- - [The best cases for the M2 iPad Pro](https://appleinsider.com/inside/ipad-pro/best/the-best-cases-for-the-m2-ipad-pro?utm_medium=rss)
- - [Third iOS 16.2, tvOS 16.2, macOS 13.1, iPadOS 16.2 public betas with Freeform available](https://appleinsider.com/articles/22/11/16/third-ios-162-tvos-162-macos-131-ipados-162-public-betas-with-freeform-available?utm_medium=rss)<!-- TECH:END -->
+ - [TSM FTX drops FTX](https://www.theverge.com/2022/11/16/23462708/tsm-ftx-suspends-drops-sponsorship-deal)
+ - [Samsung expands cloud gaming to its older smart TVs](https://www.androidauthority.com/samsung-cloud-gaming-2021-tvs-3235659/)
+ - [Xbox’s improved Discord experience is rolling out to everyone](https://www.theverge.com/2022/11/16/23460701/xbox-november-update-discord-voice-channels-deals-capture)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
