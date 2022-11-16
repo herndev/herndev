@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bigger Battles Over Voting Lie Ahead, Elections Officials Warn     - CNET](https://www.cnet.com/news/politics/secretaries-of-state-say-biggest-battle-for-democracy-still-lies-ahead/#ftag=CAD590a51e)
- - [Pacific island nation Tuvalu says it plans to build a replica of itself in the metaverse to preserve history and culture, as rising seas threaten its existence &lpar;Lucy Craymer/Reuters&rpar;](http://www.techmeme.com/221115/p41#a221115p41)
- - [Genesis X Convertible EV Concept Previews Future Design Language     - CNET](https://www.cnet.com/roadshow/news/genesis-x-convertible-ev-concept-previews-future-design-language/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is Whatnot? Everything you need to know](https://www.androidauthority.com/what-is-whatnot-3235330/)
+ - [Adorama knocks up to 68% off electronics during Black Friday Now Sale](https://appleinsider.com/articles/22/11/15/adorama-knocks-up-to-68-off-electronics-during-black-friday-now-sale?utm_medium=rss)
+ - [Meta AI and Papers with Code unveil Galactica, an open source LLM for generating literature reviews, wiki articles, lecture notes, and more on scientific topics &lpar;Matthias Bastian/The Decoder&rpar;](http://www.techmeme.com/221116/p1#a221116p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
