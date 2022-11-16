@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🐉 The chip to power 2023 Android flagships is here!](https://www.androidauthority.com/daily-authority-november-16-2022-3235363/)
- - [Some public libraries in the US and Canada are using open-source software MUSICat to offer their own music streaming services and boost their local music scenes &lpar;Claire Woodcock/VICE&rpar;](http://www.techmeme.com/221116/p5#a221116p5)
- - [Simplilearn, which offers upskilling courses, bootcamps, and certifications, raised $45M led by GSV Ventures; Blackstone acquired a $250M majority stake in 2021 &lpar;Nikhil Patwardhan/Moneycontrol&rpar;](http://www.techmeme.com/221116/p4#a221116p4)<!-- TECH:END -->
+ - [Elon Musk demands Twitter employees commit to ‘extremely hardcore’ culture or leave](https://www.theverge.com/2022/11/16/23462026/elon-musk-twitter-email-hardcore-or-severance)
+ - [Tencent reports Q3 revenue down 2% YoY to ~$19.8B, below ~$20B estimates, and plans to distribute most of its ~$20B Meituan stake to shareholders as a dividend &lpar;Josh Ye/Reuters&rpar;](http://www.techmeme.com/221116/p7#a221116p7)
+ - [Diesel’s latest smartwatch meshes chunky styling with Gen 6 technology](https://www.androidauthority.com/diesel-griffed-gen-6-3235400/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
