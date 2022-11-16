@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just getting grocery at hotme](http://9gag.com/gag/a7qZmMz)
- - ⏩ [There&#39;s good boys, and then there&#39;s this boy!](http://9gag.com/gag/anzy390)
- - 👉 [Hey! how are ya!](http://9gag.com/gag/aNwdXRA)<!-- MEMES:END -->
+ - 💣 [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
+ - ⏩ [In my childhood my father often asked me to walk on his back in the weekend. Now I can fully understand him, if my kids now walk on my back. It\u2018s relaxing and reduce my back pain. Miss you dad.. hope you are happy in heaven.](http://9gag.com/gag/aKE2yy1)
+ - 👉 [Create, destroy, profit](http://9gag.com/gag/agoqb6r)<!-- MEMES:END -->
 
 ---
 
