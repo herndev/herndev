@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn](http://9gag.com/gag/aGE0NX0)
- - ⏩ [And everyone knows the reason why.](http://9gag.com/gag/a3Z7zR7)
- - 👉 [Welcome to Qatar](http://9gag.com/gag/aNwdG5K)<!-- MEMES:END -->
+ - 💣 [Just getting grocery at hotme](http://9gag.com/gag/a7qZmMz)
+ - ⏩ [Imagine xD](http://9gag.com/gag/aA0wL8o)
+ - 👉 [Get ready for ww3 biatches](http://9gag.com/gag/armODq0)<!-- MEMES:END -->
 
 ---
 
