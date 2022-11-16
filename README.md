@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Play stupid games.....](http://9gag.com/gag/abv6LGr)
- - ⏩ [Carls relatives were miserable bastards. Ellie was truly the light of his life.](http://9gag.com/gag/az2rzNx)
- - 👉 [As an artist I am impressed by things like these..](http://9gag.com/gag/aMEw7xM)<!-- MEMES:END -->
+ - 💣 [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)
+ - ⏩ [These 54 hands found in a bag](http://9gag.com/gag/awZ5dz8)
+ - 👉 [5th DAN . Black belt exam](http://9gag.com/gag/aKE2O8j)<!-- MEMES:END -->
 
 ---
 
