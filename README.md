@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [St. Louis Apple Store second to seek IAM union membership](https://appleinsider.com/articles/22/11/16/st-louis-apple-store-second-to-seek-iam-union-membership?utm_medium=rss)
- - [The FBI and CISA say an Iranian-backed threat group hacked a US Federal Civilian Executive Branch and deployed XMRig cryptomining malware via the Log4Shell flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221116/p25#a221116p25)
- - [Major crypto brokerage Genesis suspends withdrawals in wake of FTX collapse](https://www.theverge.com/2022/11/16/23462180/crypto-genesis-brokerage-suspends-withdrawals-ftx-collapse)<!-- TECH:END -->
+ - [iOS 16.2 beta gets &#39;Rapid Security Response&#39; update](https://appleinsider.com/articles/22/11/16/ios-162-beta-gets-rapid-security-response-update?utm_medium=rss)
+ - [Nvidia reports Q3 revenue down 17% YoY to $5.93B vs. $5.77B est., including Data Center up 31% YoY to $3.83B, and Gaming down 51% YoY to $1.57B &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221116/p27#a221116p27)
+ - [GPUs are headed in the wrong direction](https://www.theverge.com/2022/11/16/23462949/nvidia-amd-rtx-4080-rdna-3-7900-xt-price-size)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
