@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just getting grocery at hotme](http://9gag.com/gag/a7qZmMz)
- - ⏩ [Imagine xD](http://9gag.com/gag/aA0wL8o)
- - 👉 [Get ready for ww3 biatches](http://9gag.com/gag/armODq0)<!-- MEMES:END -->
+ - 💣 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - ⏩ [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
+ - 👉 [Thief stealing police phone while the same police is trying to save him from being lynched](http://9gag.com/gag/a5XZANG)<!-- MEMES:END -->
 
 ---
 
