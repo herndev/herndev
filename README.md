@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
+ - 💣 [Hold on](http://9gag.com/gag/aYVKv80)
  - ⏩ [Third players has entered the game?](http://9gag.com/gag/aWG8ypn)
- - 👉 [When the boss come while we enjoying the party in office](http://9gag.com/gag/a8qpNM6)<!-- MEMES:END -->
+ - 👉 [Sweet home Alabama](http://9gag.com/gag/aBdwzvP)<!-- MEMES:END -->
 
 ---
 
