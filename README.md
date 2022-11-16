@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSM FTX drops FTX](https://www.theverge.com/2022/11/16/23462708/tsm-ftx-suspends-drops-sponsorship-deal)
- - [Samsung expands cloud gaming to its older smart TVs](https://www.androidauthority.com/samsung-cloud-gaming-2021-tvs-3235659/)
- - [Xbox’s improved Discord experience is rolling out to everyone](https://www.theverge.com/2022/11/16/23460701/xbox-november-update-discord-voice-channels-deals-capture)<!-- TECH:END -->
+ - [St. Louis Apple Store second to seek IAM union membership](https://appleinsider.com/articles/22/11/16/st-louis-apple-store-second-to-seek-iam-union-membership?utm_medium=rss)
+ - [The FBI and CISA say an Iranian-backed threat group hacked a US Federal Civilian Executive Branch and deployed XMRig cryptomining malware via the Log4Shell flaw &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221116/p25#a221116p25)
+ - [Major crypto brokerage Genesis suspends withdrawals in wake of FTX collapse](https://www.theverge.com/2022/11/16/23462180/crypto-genesis-brokerage-suspends-withdrawals-ftx-collapse)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
