@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everyone on the world right now](http://9gag.com/gag/aL1MONM)
- - ⏩ [In my childhood my father often asked me to walk on his back in the weekend. Now I can fully understand him, if my kids now walk on my back. It\u2018s relaxing and reduce my back pain. Miss you dad.. hope you are happy in heaven.](http://9gag.com/gag/aKE2yy1)
- - 👉 [Create, destroy, profit](http://9gag.com/gag/agoqb6r)<!-- MEMES:END -->
+ - 💣 [Play stupid games.....](http://9gag.com/gag/abv6LGr)
+ - ⏩ [Carls relatives were miserable bastards. Ellie was truly the light of his life.](http://9gag.com/gag/az2rzNx)
+ - 👉 [As an artist I am impressed by things like these..](http://9gag.com/gag/aMEw7xM)<!-- MEMES:END -->
 
 ---
 
