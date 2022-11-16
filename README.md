@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xbox Game Pass Ultimate members get 3-month Apple TV+ &amp; Apple Music trials](https://appleinsider.com/articles/22/11/16/xbox-game-pass-ultimate-members-get-3-month-apple-tv-apple-music-trials?utm_medium=rss)
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Nov. 16&rpar;](https://www.androidauthority.com/wallpaper-wednesday-nov-16-2022-3234675/)
- - [Razer is upgrading the 2022 Blade 14’s two USB-C ports to USB 4](https://www.theverge.com/2022/11/15/23458088/razer-2022-blade-14-gaming-laptop-amd-usb-c-4-thunderbolt-software-update)<!-- TECH:END -->
+ - [Major crypto brokerage Genesis suspends withdrawals in wake of FTX collapse](https://www.theverge.com/2022/11/16/23462180/crypto-genesis-brokerage-suspends-withdrawals-ftx-collapse)
+ - [Apple’s second-gen AirPods Pro are $20 off at multiple retailers](https://www.theverge.com/2022/11/16/23462227/apple-airpods-pro-second-generation-nintendo-switch-oled-virtual-reality-headset-deal-sale)
+ - [Akeyless, which helps companies manage passwords, certificates, and API keys, raised $65M Series B, comprising $45.5M in equity and $19.5B in debt, led by NGP &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221116/p18#a221116p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
