@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Most of you haven’t had any major issues with the Pixel 7 series](https://www.androidauthority.com/pixel-7-series-issues-poll-results-3235428/)
- - [A look at SBF&#39;s desperate efforts to raise $7B+ from Sequoia, Apollo, TPG, the Saudis, and others; FTX&#39;s internal accounting software hid FTX-Alameda transfers &lpar;Reuters&rpar;](http://www.techmeme.com/221116/p10#a221116p10)
- - [A wallet linked to the suspected FTX hacker swapped ~$49M of stablecoins for ether, taking its haul to 228,523 ETH and becoming the 35th largest ETH holder &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/221116/p9#a221116p9)<!-- TECH:END -->
+ - [Apple will buy US-made chips from TSMC, confirms Tim Cook](https://appleinsider.com/articles/22/11/15/apple-will-buy-tsmc-arizona-plant-chips-confirms-tim-cook?utm_medium=rss)
+ - [An independent audit shows the Luna Foundation Guard spent $2.8B in crypto and Terraform Labs spent $613M trying to defend the UST stablecoin in May 2022 &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221116/p12#a221116p12)
+ - [Will Smith&#39;s Oscars slap didn&#39;t make Apple delay &#39;Emancipation,&#39; says director](https://appleinsider.com/articles/22/11/16/will-smiths-oscars-slap-didnt-make-apple-delay-emancipation-says-director?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
