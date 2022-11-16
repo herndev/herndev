@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Parenting can be tough at times.](http://9gag.com/gag/a8qpOeO)
- - ⏩ [POS Vegetable Vendor pulled a fast one](http://9gag.com/gag/axogmmK)
- - 👉 [Effective simulation?](http://9gag.com/gag/az2rwOp)<!-- MEMES:END -->
+ - 💣 [Karen](http://9gag.com/gag/adPqRj9)
+ - ⏩ [Perfect captcha doesnt exi-](http://9gag.com/gag/aBdw4RA)
+ - 👉 [Just wow like wtf](http://9gag.com/gag/aDYjNr7)<!-- MEMES:END -->
 
 ---
 
