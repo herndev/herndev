@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gameheads Empowers Youth of Color to Pursue Careers in Gaming](https://news.xbox.com/en-us/2022/11/17/gameheads-empowers-youth-of-color-to-pursue-careers-in-gaming/)
- - [Netflix’s 1899 has a mystery that goes deeper than the plot](https://www.polygon.com/23463136/netflix-1899-review-music-soundtrack-dark-creators)
- - [Someone made a World of Warcraft GeoGuessr and now the last 18 years of my life have meaning](https://www.polygon.com/23464583/world-of-warcraft-geoguessr-location-game)<!-- GAME:END -->
+ - [Hunt a Monstrous Threat and Earn Bonus Rewards During Elder Scrolls Online’s Dark Heart of Skyrim Celebration](https://news.xbox.com/en-us/2022/11/17/elder-scrolls-onlines-dark-heart-of-skyrim-celebration/)
+ - [Netflix&#39;s Sonic The Hedgehog Show Has Some Real Spiderverse Vibes](https://kotaku.com/sonic-prime-netflix-trailer-knuckles-tails-amy-rouge-1849797488)
+ - [The best movies you can stream on Prime Video this month](https://www.polygon.com/streaming/22298985/best-movies-on-amazon-prime-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
