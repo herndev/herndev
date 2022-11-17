@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
- - ⏩ [Mind your damn business ma\u2019am!](http://9gag.com/gag/adPq3yM)
- - 👉 [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)<!-- MEMES:END -->
+ - 💣 [Chad](http://9gag.com/gag/awZ569x)
+ - ⏩ [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)
+ - 👉 [This lady refused to fasten her seatbelt during landing on a flight from Bali to Singapore and delayed the whole plane](http://9gag.com/gag/axogpq1)<!-- MEMES:END -->
 
 ---
 
