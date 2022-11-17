@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday: Unwrap Thrills with $50 off Xbox Series S, 900+ Games on Sale, and More!](https://news.xbox.com/en-us/2022/11/17/black-friday-unwrap-thrills-games-on-sale/)
- - [How to make cash in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-cash-money)
- - [The best places to drop in Warzone 2 Al Mazrah](https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations)<!-- GAME:END -->
+ - [Five Reasons You Need to Buy Goat Simulator 3 – Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/17/five-reasons-you-need-to-buy-goat-simulator-3-out-now-on-xbox-series-xs/)
+ - [The Walking Dead shambles to tabletop with new RPG and AMC-led actual play series](https://www.polygon.com/tabletop-games/23460313/the-walking-dead-universe-roleplaying-game-actual-play-announcement-crowdfunding-launch-date)
+ - [Bardo finds a two-time Best Picture winner going maximum masturbatory](https://www.polygon.com/23462465/bardo-review-netflix-birdman-director-alejandro-g-inarritu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
