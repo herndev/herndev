@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Australian Securities Exchange paused its years-long blockchain project to replace its settlement and clearing system, saying it plans to write-off $175M &lpar;Michael McSweeney/The Block&rpar;](http://www.techmeme.com/221116/p33#a221116p33)
- - [St. Louis Apple Store second to seek IAM union membership](https://appleinsider.com/articles/22/11/16/st-louis-apple-store-second-to-seek-iam-union-membership?utm_medium=rss)
- - [iOS 16.2 beta gets &#39;Rapid Security Response&#39; update](https://appleinsider.com/articles/22/11/16/ios-162-beta-gets-rapid-security-response-update?utm_medium=rss)<!-- TECH:END -->
+ - [NetEase and Blizzard plan to end their 14-year partnership after January 2023, leaving Chinese players&#39; access to games like Diablo and Overwatch in question &lpar;Bloomberg&rpar;](http://www.techmeme.com/221116/p35#a221116p35)
+ - [What is a Peloton Digital Membership?](https://www.androidauthority.com/peloton-app-membership-3234312/)
+ - [Microsoft rolls out Discord voice chat integration to all Xbox users after a test with Xbox Insiders; PS will reportedly gain deeper Discord integration in 2023 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221116/p34#a221116p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
