@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Air Purifiers, Dehumidifiers, and Air Quality Testers for Breathing Easier &lpar;2022&rpar;](https://www.wired.com/story/when-to-use-air-purifier-dehumidiers-humidifiers/)
- - [Apple&#39;s entire iPhone 14 Pro lineup has historically long wait times](https://appleinsider.com/articles/22/11/17/apples-entire-iphone-14-pro-lineup-has-historically-long-wait-times?utm_medium=rss)
- - [Apple&#39;s Black Friday promo is here, but there are far better deals](https://appleinsider.com/articles/22/11/17/apples-black-friday-promo-is-here-but-there-are-far-better-deals?utm_medium=rss)<!-- TECH:END -->
+ - [Hands on with Moft&#39;s folding iPhone stands and MagSafe battery](https://appleinsider.com/articles/22/11/17/hands-on-with-mofts-folding-iphone-stands-and-magsafe-battery?utm_medium=rss)
+ - [Tyson Recalls Almost 100,000 Pounds of Ground Beef Due to &#39;Contamination&#39;     - CNET](https://www.cnet.com/health/nutrition/tyson-recalls-almost-100000-pounds-of-ground-beef-due-to-contamination/#ftag=CAD590a51e)
+ - [FTX&#39;s New CEO Says Crypto Exchange Suffered &#39;Complete Failure of Corporate Controls&#39;     - CNET](https://www.cnet.com/personal-finance/crypto/ftxs-new-ceo-says-crypto-exchange-suffered-complete-failure-of-corporate-controls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
