@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Survey of 1,200 cybersecurity professionals: more than a third saw a ransomware attack on a weekend or holiday; ransomware made up 49% of all security incidents &lpar;Meridith Levinson/Cybersecurity Software&rpar;](http://www.techmeme.com/221117/p1#a221117p1)
- - [Blizzard will suspend World of Warcraft in China because of licensing dispute](https://www.theverge.com/2022/11/17/23463818/blizzard-netease-china-hearthstone-diablo-world-of-warcraft-unavailable)
- - [Internal documents: Amazon is offering voluntary buyouts to some employees as it looks for ways to cut its headcount beyond the massive layoffs already underway &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/221116/p38#a221116p38)<!-- TECH:END -->
+ - [OnePlus, Xiaomi, Motorola, and others confirm Snapdragon 8 Gen 2 phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-phones-3235875/)
+ - [Jakarta-based Privy, which offers digital signature and identity verification services, raised a $48M Series C led by KKR, bringing its total funding to $71.6M &lpar;Mars W. Mosqueda Jr/DealStreetAsia&rpar;](http://www.techmeme.com/221117/p2#a221117p2)
+ - [&#39;The Wonder:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-wonder-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
