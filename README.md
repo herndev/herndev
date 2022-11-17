@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thousands of apps violate US child privacy law](https://appleinsider.com/articles/22/11/17/thousands-of-apps-violate-us-child-privacy-law?utm_medium=rss)
- - [New Twitter accounts won’t be able to buy Blue verification for 90 days](https://www.theverge.com/2022/11/17/23464541/twitter-blue-verified-90-day-waiting-period)
- - [Amazon launches early Black Friday deals on iPads, AirPods &amp; Beats, prices as low as $89](https://appleinsider.com/articles/22/11/17/amazon-launches-early-black-friday-deals-on-ipads-airpods-beats-prices-as-low-as-89?utm_medium=rss)<!-- TECH:END -->
+ - [TikTok says it is testing a research API, announced in July, with members of its Content and Safety Advisory Councils, and working on a content moderation API &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221117/p29#a221117p29)
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
+ - [An update to the About Twitter Blue page shows accounts less than 90 days old won&#39;t be able to sign up when the service relaunch, presumably on November 29 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221117/p28#a221117p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
