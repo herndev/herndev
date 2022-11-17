@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman assaults man for not letting her get the pump first, claims racism](http://9gag.com/gag/a5XZOyo)
- - ⏩ [Chad](http://9gag.com/gag/awZ569x)
- - 👉 [A look inside a very nice Ukrainian Dugout, It even has electricity](http://9gag.com/gag/armO6gB)<!-- MEMES:END -->
+ - 💣 [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
+ - ⏩ [If you gaze into the abyss, the abyss gazes also into you](http://9gag.com/gag/awZ5RVB)
+ - 👉 [Peak performance =/= health](http://9gag.com/gag/a04dAZQ)<!-- MEMES:END -->
 
 ---
 
