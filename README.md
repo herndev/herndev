@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Norco Available Now with Game Pass on Xbox One, Xbox Series X|S and PC](https://news.xbox.com/en-us/2022/11/17/norco-available-now-with-game-pass-on-xbox-one-xbox-series-xs-and-pc/)
- - [Warzone 2.0 Lets You Join Up With Your Enemies, And It Rules](https://kotaku.com/warzone-2-wz-battle-royale-squad-assimilation-unhinged-1849797918)
- - [How Jar Jar Binks ties into Andor](https://www.polygon.com/23464750/andor-star-wars-references-jar-jar-binks)<!-- GAME:END -->
+ - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)
+ - [Starsand is Out Now on Xbox One and Series X|S](https://news.xbox.com/en-us/2022/11/17/starsand-is-out-now-on-xbox-one-and-series-xs/)
+ - [Marvel Snap Will Soon Let You Grind For Specific Cards, Not Just Random Ones](https://kotaku.com/marvel-snap-update-collector-tokens-caches-brode-pool-4-1849798254)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
