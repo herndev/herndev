@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excuse my possible stupidity. But wouldn&#39;t jumping in the water work for most big explosions?](http://9gag.com/gag/anzyWgn)
- - ⏩ [When you are so wild to drive through a Christmas parade killing 6 people and injuring 61, so arrogant to dismiss your defence team and be own lawyer, so cold that rolling your eyes when the victims talk about their experiences. He just received 6 lifetimes + 1.230 years in jail.](http://9gag.com/gag/a2KdeNd)
- - 👉 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)<!-- MEMES:END -->
+ - 💣 [Amen](http://9gag.com/gag/agoqwKv)
+ - ⏩ [YOU DID IT 9GAG! My game has been out 24hrs and over 10k gladiators have entered the arena. Not even joking when I say the huge response I got here is directly why the game blew up. THANK YOU! &lpar;more info in comments&rpar;](http://9gag.com/gag/a2Kd9RZ)
+ - 👉 [Time to find a new job](http://9gag.com/gag/adPq41Z)<!-- MEMES:END -->
 
 ---
 
