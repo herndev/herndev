@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Black Friday promo is here, but there are far better deals](https://appleinsider.com/articles/22/11/17/apples-black-friday-promo-is-here-but-there-are-far-better-deals?utm_medium=rss)
- - [1Password embraces a passwordless future](https://www.theverge.com/2022/11/17/23464817/1password-passkey-support-security-apple-google)
- - [JWST just spotted two unusually bright galaxies from the very early universe](https://www.theverge.com/2022/11/17/23464796/jwst-galaxies-early-universe-nasa-james-webb)<!-- TECH:END -->
+ - [The 15 best deals of the Crutchfield Black Friday sale](https://www.androidauthority.com/crutchfield-black-friday-sale-3236229/)
+ - [Roku lays off 200 US employees](https://www.theverge.com/2022/11/17/23464849/roku-streaming-layoffs-200-employees-costs-advertising)
+ - [Mei day: Overwatch 2 frees controversial hero](https://www.theverge.com/2022/11/17/23464865/overwatch-2-mei-battle-pass-sms-protect)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
