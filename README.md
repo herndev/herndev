@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
- - ⏩ [If you gaze into the abyss, the abyss gazes also into you](http://9gag.com/gag/awZ5RVB)
- - 👉 [Peak performance =/= health](http://9gag.com/gag/a04dAZQ)<!-- MEMES:END -->
+ - 💣 [Amazed but how?](http://9gag.com/gag/aGE0vm0)
+ - ⏩ [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)
+ - 👉 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)<!-- MEMES:END -->
 
 ---
 
