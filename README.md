@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
+ - 💣 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
  - ⏩ [Well played](http://9gag.com/gag/anzyPL5)
- - 👉 [Oops](http://9gag.com/gag/aMEwojX)<!-- MEMES:END -->
+ - 👉 [One for the homies](http://9gag.com/gag/aGE0mGG)<!-- MEMES:END -->
 
 ---
 
