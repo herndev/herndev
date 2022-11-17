@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chad](http://9gag.com/gag/awZ569x)
- - ⏩ [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)
- - 👉 [This lady refused to fasten her seatbelt during landing on a flight from Bali to Singapore and delayed the whole plane](http://9gag.com/gag/axogpq1)<!-- MEMES:END -->
+ - 💣 [Amen](http://9gag.com/gag/agoqwKv)
+ - ⏩ [Wannabe thug nearly killing himself](http://9gag.com/gag/aA0wn82)
+ - 👉 [Innovative gun](http://9gag.com/gag/aeQbKb5)<!-- MEMES:END -->
 
 ---
 
