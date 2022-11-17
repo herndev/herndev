@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)
- - ⏩ [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
- - 👉 [Accurate](http://9gag.com/gag/aKE2QYZ)<!-- MEMES:END -->
+ - 💣 [Level up](http://9gag.com/gag/a5XZ4ZL)
+ - ⏩ [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
+ - 👉 [What a lovely da... Nope.](http://9gag.com/gag/aBdwANP)<!-- MEMES:END -->
 
 ---
 
