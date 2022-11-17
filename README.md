@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Level up](http://9gag.com/gag/a5XZ4ZL)
- - ⏩ [Truck tries to run motorcycle over and then speeds over 100 mph. And then...](http://9gag.com/gag/a9qWgVL)
- - 👉 [What a lovely da... Nope.](http://9gag.com/gag/aBdwANP)<!-- MEMES:END -->
+ - 💣 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
+ - ⏩ [Oh no](http://9gag.com/gag/aeQYLjO)
+ - 👉 [Level up](http://9gag.com/gag/a5XZ4ZL)<!-- MEMES:END -->
 
 ---
 
