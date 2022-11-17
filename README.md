@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What school kids have to pass EVERYDAY just to get home. Making America Great Again](http://9gag.com/gag/avQrwnZ)
- - ⏩ [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - 👉 [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)<!-- MEMES:END -->
+ - 💣 [Insecurities](http://9gag.com/gag/az2rWmZ)
+ - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
+ - 👉 [One for the homies](http://9gag.com/gag/aGE0mGG)<!-- MEMES:END -->
 
 ---
 
