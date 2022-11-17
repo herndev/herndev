@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Putting Amazon’s Alexa in space is harder than you think](https://www.theverge.com/2022/11/17/23325038/nasa-alexa-space-amazon-orion-callisto-hands-on-artemis-i)
- - [Fired SpaceX employees file charges with National Labor Relations Board](https://www.theverge.com/2022/11/17/23464180/spacex-employees-fired-elon-musk-charges-national-labor-relations-board)
- - [Bel-Air’s second season hits Peacock this February](https://www.theverge.com/2022/11/17/23464490/bel-air-season-2-peacock)<!-- TECH:END -->
+ - [Thousands of apps violate US child privacy law](https://appleinsider.com/articles/22/11/17/thousands-of-apps-violate-us-child-privacy-law?utm_medium=rss)
+ - [New Twitter accounts won’t be able to buy Blue verification for 90 days](https://www.theverge.com/2022/11/17/23464541/twitter-blue-verified-90-day-waiting-period)
+ - [Amazon launches early Black Friday deals on iPads, AirPods &amp; Beats, prices as low as $89](https://appleinsider.com/articles/22/11/17/amazon-launches-early-black-friday-deals-on-ipads-airpods-beats-prices-as-low-as-89?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
