@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus, Xiaomi, Motorola, and others confirm Snapdragon 8 Gen 2 phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-phones-3235875/)
- - [Jakarta-based Privy, which offers digital signature and identity verification services, raised a $48M Series C led by KKR, bringing its total funding to $71.6M &lpar;Mars W. Mosqueda Jr/DealStreetAsia&rpar;](http://www.techmeme.com/221117/p2#a221117p2)
- - [&#39;The Wonder:&#39; That Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-wonder-that-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Daily Authority: 🖥️ A new hope for Arm PCs](https://www.androidauthority.com/daily-authority-17-november-2022-3235867/)
+ - [Candy Crush shows little sign of disappearing after 10 years, with estimated earnings similar to the Star Trek or Superman franchises, sans the cultural impact &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221117/p3#a221117p3)
+ - [OnePlus, Xiaomi, Motorola, and others confirm Snapdragon 8 Gen 2 phones](https://www.androidauthority.com/qualcomm-snapdragon-8-gen-2-phones-3235875/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
