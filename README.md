@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone not hit by Southeast Asia&#39;s collapsing smartphone market](https://appleinsider.com/articles/22/11/17/iphone-not-hit-by-southeast-asias-collapsing-smartphone-market?utm_medium=rss)
- - [Shark FlexStyle Drying &amp; Styling System Review: A Cheaper Dyson Alternative](https://www.wired.com/review/shark-flexstyle-drying-and-styling-system/)
- - [What Happens If Twitter Gets Hacked?](https://www.wired.com/story/gadget-lab-podcast-575/)<!-- TECH:END -->
+ - [Why the Emoji Skin Tone You Choose Matters](https://www.wired.com/story/why-the-emoji-skin-tone-you-choose-matters/)
+ - [Google Maps will help you explore neighborhoods with your phone’s camera](https://www.theverge.com/2022/11/17/23463195/google-maps-explore-phone-camera-search-live-view)
+ - [Google search now displays 360-degree views of sneakers from brands like Vans and Puma](https://www.theverge.com/2022/11/17/23463133/google-search-ar-sneakers-beauty-inclusive-features)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
