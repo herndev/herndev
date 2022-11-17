@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn needs 100,000 more workers at its Zhengzhou iPhone plant](https://appleinsider.com/articles/22/11/17/foxconn-needs-100000-more-workers-at-its-zhengzhou-iphone-plant?utm_medium=rss)
- - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)
- - [A survey of US teens on social media: 80% feel closer to friends and 71% like showing creativity; 59% are neutral on its overall impact; girls report more drama &lpar;Pew Research Center&rpar;](http://www.techmeme.com/221117/p10#a221117p10)<!-- TECH:END -->
+ - [iPhone not hit by Southeast Asia&#39;s collapsing smartphone market](https://appleinsider.com/articles/22/11/17/iphone-not-hit-by-southeast-asias-collapsing-smartphone-market?utm_medium=rss)
+ - [Shark FlexStyle Drying &amp; Styling System Review: A Cheaper Dyson Alternative](https://www.wired.com/review/shark-flexstyle-drying-and-styling-system/)
+ - [What Happens If Twitter Gets Hacked?](https://www.wired.com/story/gadget-lab-podcast-575/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
