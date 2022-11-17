@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The 15 best deals of the Crutchfield Black Friday sale](https://www.androidauthority.com/crutchfield-black-friday-sale-3236229/)
- - [Roku lays off 200 US employees](https://www.theverge.com/2022/11/17/23464849/roku-streaming-layoffs-200-employees-costs-advertising)
- - [Mei day: Overwatch 2 frees controversial hero](https://www.theverge.com/2022/11/17/23464865/overwatch-2-mei-battle-pass-sms-protect)<!-- TECH:END -->
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Amazon’s CEO says more layoffs will happen in 2023](https://www.theverge.com/2022/11/17/23465169/amazon-layoffs-continuing-2023-ceo-andy-jassy)
+ - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
