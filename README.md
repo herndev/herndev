@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
- - ⏩ [LMFAO](http://9gag.com/gag/aQEM0oz)
- - 👉 [It kills me every time I watch it](http://9gag.com/gag/anzyL7V)<!-- MEMES:END -->
+ - 💣 [Time to find a new job](http://9gag.com/gag/adPq41Z)
+ - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - 👉 [Play stupid games.....](http://9gag.com/gag/abv6LGr)<!-- MEMES:END -->
 
 ---
 
