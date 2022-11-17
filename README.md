@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell agrees to pay $1B to settle a shareholder lawsuit over a $23.9B stock conversion in 2018; investors alleged the transaction was billions below market value &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/221116/p29#a221116p29)
- - [The Prius gets a glow-up, but it’s still just a hybrid](https://www.theverge.com/2022/11/16/23462123/2023-toyota-prius-glow-up-redesign-still-hybrid-not-ev)
- - [Cisco reports Q1 revenue up 6% YoY to $13.6B, vs. $13.3B est., including Secure, Agile Networks up 12% YoY to $6.68B, and increases its FY 2023 revenue guidance &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221116/p28#a221116p28)<!-- TECH:END -->
+ - [Apple plans to launch its Major League Soccer Season Pass on February 1 for $15/month or $99/season and $13/month or $79/season for Apple TV+ subscribers &lpar;Peter White/Deadline&rpar;](http://www.techmeme.com/221116/p31#a221116p31)
+ - [The UK blocks the sale of Newport Wafer Fab to Nexperia, owned by China&#39;s Wingtech, on national security grounds and orders Nexperia to divest 86% of Newport &lpar;Financial Times&rpar;](http://www.techmeme.com/221116/p30#a221116p30)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
