@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
- - ⏩ [Oh no](http://9gag.com/gag/aeQYLjO)
- - 👉 [Level up](http://9gag.com/gag/a5XZ4ZL)<!-- MEMES:END -->
+ - 💣 [Excuse my possible stupidity. But wouldn&#39;t jumping in the water work for most big explosions?](http://9gag.com/gag/anzyWgn)
+ - ⏩ [When you are so wild to drive through a Christmas parade killing 6 people and injuring 61, so arrogant to dismiss your defence team and be own lawyer, so cold that rolling your eyes when the victims talk about their experiences. He just received 6 lifetimes + 1.230 years in jail.](http://9gag.com/gag/a2KdeNd)
+ - 👉 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)<!-- MEMES:END -->
 
 ---
 
