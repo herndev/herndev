@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amen](http://9gag.com/gag/agoqwKv)
- - ⏩ [YOU DID IT 9GAG! My game has been out 24hrs and over 10k gladiators have entered the arena. Not even joking when I say the huge response I got here is directly why the game blew up. THANK YOU! &lpar;more info in comments&rpar;](http://9gag.com/gag/a2Kd9RZ)
- - 👉 [Time to find a new job](http://9gag.com/gag/adPq41Z)<!-- MEMES:END -->
+ - 💣 [Persona 5 for me](http://9gag.com/gag/amArO76)
+ - ⏩ [Life&#39;s better](http://9gag.com/gag/ajVqp3R)
+ - 👉 [BFF!](http://9gag.com/gag/agoqWdg)<!-- MEMES:END -->
 
 ---
 
