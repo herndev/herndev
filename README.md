@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Colombia lifts ban on 5G iPhones and iPads after appeal](https://appleinsider.com/articles/22/11/17/colombia-lifts-ban-on-5g-iphones-and-ipads-after-appeal?utm_medium=rss)
- - [Filings: TuSimple co-founder Mo Chen consolidates power, acquiring 59% of the voting stock, as the US investigates the self-driving trucking company &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/221117/p8#a221117p8)
- - [[Thread] A detailed timeline of FTX&#39;s meltdown, starting in September: SBF&#39;s jab at CZ, CoinDesk&#39;s article, CZ sells FTT, &quot;FTX is fine&quot;, Alameda woes, and more &lpar;Adam Cochran/@adamscochran&rpar;](http://www.techmeme.com/221117/p7#a221117p7)<!-- TECH:END -->
+ - [Foxconn needs 100,000 more workers at its Zhengzhou iPhone plant](https://appleinsider.com/articles/22/11/17/foxconn-needs-100000-more-workers-at-its-zhengzhou-iphone-plant?utm_medium=rss)
+ - [Make your iPad Pro more productive with PITAKA PitaFlow and MagEZ Case Pro&#39;s wireless charging](https://appleinsider.com/articles/22/11/15/make-your-ipad-pro-more-productive-with-pitaka-pitaflow-and-magez-case-pros-wireless-charging?utm_medium=rss)
+ - [A survey of US teens on social media: 80% feel closer to friends and 71% like showing creativity; 59% are neutral on its overall impact; girls report more drama &lpar;Pew Research Center&rpar;](http://www.techmeme.com/221117/p10#a221117p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
