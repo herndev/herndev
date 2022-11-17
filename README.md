@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Persona 5 for me](http://9gag.com/gag/amArO76)
- - ⏩ [Life&#39;s better](http://9gag.com/gag/ajVqp3R)
- - 👉 [BFF!](http://9gag.com/gag/agoqWdg)<!-- MEMES:END -->
+ - 💣 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
+ - ⏩ [BFF!](http://9gag.com/gag/agoqWdg)
+ - 👉 [Tactical zoom](http://9gag.com/gag/aXnA5b9)<!-- MEMES:END -->
 
 ---
 
