@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Insecurities](http://9gag.com/gag/az2rWmZ)
- - ⏩ [Carl Tanzler said that at first it felt like the real deal](http://9gag.com/gag/az2rBmj)
- - 👉 [One for the homies](http://9gag.com/gag/aGE0mGG)<!-- MEMES:END -->
+ - 💣 [One for the homies](http://9gag.com/gag/aGE0mGG)
+ - ⏩ [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
+ - 👉 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)<!-- MEMES:END -->
 
 ---
 
