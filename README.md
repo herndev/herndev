@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepe Title](http://9gag.com/gag/a9qWxnD)
- - ⏩ [First Customers Of The Day](http://9gag.com/gag/amArjbd)
- - 👉 [Dancing queen](http://9gag.com/gag/aWG8V03)<!-- MEMES:END -->
+ - 💣 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - ⏩ [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/amArj1X)
+ - 👉 [Mind your damn business ma\u2019am!](http://9gag.com/gag/adPq3yM)<!-- MEMES:END -->
 
 ---
 
