@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Crew 2 Heads Into the Storm With Season 7 Episode 1’s Cross-Country Race](https://news.xbox.com/en-us/2022/11/16/the-crew-2-heads-into-the-storm-with-season-7-episode-1s-cross-country-race/)
- - [Enjoy Big Victories in Battlefield 2042 – Coming Soon to EA Play](https://news.xbox.com/en-us/2022/11/16/enjoy-big-victories-in-battlefield-2042-coming-soon-to-ea-play/)
- - [Call of Duty: Warzone 2.0 Tactical Guide – New Features, DMZ, and More](https://news.xbox.com/en-us/2022/11/16/call-of-duty-warzone-2-0-tactical-guide-new-features-dmz-and-more/)<!-- GAME:END -->
+ - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)
+ - [Ikumi Nakamura Is Also An Urban Explorer, Releasing A Lovely Coffee Table Book](https://kotaku.com/ikumi-nakamura-e3-2019-book-urban-explorer-photo-1849794040)
+ - [Huge HD mod for Batman Arkham City enhances more than 1,000 textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
