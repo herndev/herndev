@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)
- - [Starsand is Out Now on Xbox One and Series X|S](https://news.xbox.com/en-us/2022/11/17/starsand-is-out-now-on-xbox-one-and-series-xs/)
- - [Marvel Snap Will Soon Let You Grind For Specific Cards, Not Just Random Ones](https://kotaku.com/marvel-snap-update-collector-tokens-caches-brode-pool-4-1849798254)<!-- GAME:END -->
+ - [Overwatch 2’s battle pass and progression are changing so players ‘feel more rewarded’](https://www.polygon.com/23385333/overwatch-2-season-2-battle-pass-rewards-skins-twitch-drops)
+ - [Splinter Cell goes free until the end of the month as devs reveal &#39;early concept art&#39; from the remake](https://www.pcgamer.com/splinter-cell-goes-free-until-the-end-of-the-month-as-devs-reveal-early-concept-art-from-the-remake)
+ - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
