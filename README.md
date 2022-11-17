@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chinese state media changes its mind, suggests videogames are good actually](https://www.pcgamer.com/chinese-state-media-changes-its-mind-suggests-videogames-are-good-actually)
- - [Saints Row developer is being shifted to Gearbox following tepid launch](https://www.pcgamer.com/saints-row-developer-is-being-shifted-to-gearbox-following-tepid-launch)
- - [Scarlet and Violet are a step back for Pokémon’s open-world era](https://www.polygon.com/reviews/23462736/pokemon-scarlet-and-violet-review-release-date-nintendo-switch)<!-- GAME:END -->
+ - [Nvidia hit with class action suit over melting RTX 4090 GPU adapters](https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters)
+ - [US congresswoman Alexandria Ocasio-Cortez roasts crypto bros for scrub-tier League of Legends play](https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play)
+ - [The four pillars of society in Floodland](https://www.pcgamer.com/the-four-pillars-of-society-in-floodland)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
