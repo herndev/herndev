@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - ⏩ [Not entirely untrue. You know who you are and what you&#39;ve seen](http://9gag.com/gag/aGE0Wyz)
- - 👉 [I was there Gandalf. I was there 3000 days ago](http://9gag.com/gag/aPgMKAK)<!-- MEMES:END -->
+ - 💣 [Woman assaults man for not letting her get the pump first, claims racism](http://9gag.com/gag/a5XZOyo)
+ - ⏩ [Chad](http://9gag.com/gag/awZ569x)
+ - 👉 [A look inside a very nice Ukrainian Dugout, It even has electricity](http://9gag.com/gag/armO6gB)<!-- MEMES:END -->
 
 ---
 
