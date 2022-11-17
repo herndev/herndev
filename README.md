@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One for the homies](http://9gag.com/gag/aGE0mGG)
+ - 💣 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)
  - ⏩ [Tense exchanges caught live on the tape between Canada&#39;s Trudeau and China&#39;s Xi. ` Everything we discussed has leaked to the newspaper,that&#39;s not appropriate. That&#39;s not how we do things. Xi Jinping to Canadian Prime Minister Trudeau.](http://9gag.com/gag/aBdweqx)
- - 👉 [Some people just want to see the world burn](http://9gag.com/gag/a9qWxOj)<!-- MEMES:END -->
+ - 👉 [Accurate](http://9gag.com/gag/aKE2QYZ)<!-- MEMES:END -->
 
 ---
 
