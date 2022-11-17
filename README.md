@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lyft Aspired to Kill Car Ownership. Now It Aims to Profit From It](https://www.wired.com/story/lyft-aspired-to-kill-car-ownership-now-it-aims-to-profit-from-it/)
- - [Google Black Friday deals are here: Pixel 6a for $300, Pixel 7 for $500](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
- - [Financial cybercrime group the Disneyland Team is spoofing bank domains using Punycode, a standard that lets browsers render domains with non-Latin alphabets &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221117/p4#a221117p4)<!-- TECH:END -->
+ - [Colombia lifts ban on 5G iPhones and iPads after appeal](https://appleinsider.com/articles/22/11/17/colombia-lifts-ban-on-5g-iphones-and-ipads-after-appeal?utm_medium=rss)
+ - [Filings: TuSimple co-founder Mo Chen consolidates power, acquiring 59% of the voting stock, as the US investigates the self-driving trucking company &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/221117/p8#a221117p8)
+ - [[Thread] A detailed timeline of FTX&#39;s meltdown, starting in September: SBF&#39;s jab at CZ, CoinDesk&#39;s article, CZ sells FTT, &quot;FTX is fine&quot;, Alameda woes, and more &lpar;Adam Cochran/@adamscochran&rpar;](http://www.techmeme.com/221117/p7#a221117p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
