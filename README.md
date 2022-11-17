@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - ⏩ [Cannabis growing naturally in the Himalayas](http://9gag.com/gag/amArj1X)
- - 👉 [Mind your damn business ma\u2019am!](http://9gag.com/gag/adPq3yM)<!-- MEMES:END -->
+ - 💣 [Tin foil hats for everyone](http://9gag.com/gag/aWG8yDx)
+ - ⏩ [Mind your damn business ma\u2019am!](http://9gag.com/gag/adPq3yM)
+ - 👉 [Why are cats like this?! wtf](http://9gag.com/gag/az2r6PB)<!-- MEMES:END -->
 
 ---
 
