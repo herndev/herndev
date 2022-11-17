@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hands on with Moft&#39;s folding iPhone stands and MagSafe battery](https://appleinsider.com/articles/22/11/17/hands-on-with-mofts-folding-iphone-stands-and-magsafe-battery?utm_medium=rss)
- - [Tyson Recalls Almost 100,000 Pounds of Ground Beef Due to &#39;Contamination&#39;     - CNET](https://www.cnet.com/health/nutrition/tyson-recalls-almost-100000-pounds-of-ground-beef-due-to-contamination/#ftag=CAD590a51e)
- - [FTX&#39;s New CEO Says Crypto Exchange Suffered &#39;Complete Failure of Corporate Controls&#39;     - CNET](https://www.cnet.com/personal-finance/crypto/ftxs-new-ceo-says-crypto-exchange-suffered-complete-failure-of-corporate-controls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Spot AI, which offers a cloud-based analytics system to &quot;read&quot; security footage and offer insights, raised $40M, bringing its total funding to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221117/p21#a221117p21)
+ - [WhatsApp’s Yellow Pages-style business directory launches in five countries](https://www.theverge.com/2022/11/17/23464351/whatsapp-business-directory-brazil-mexico-indonesia-uk)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
