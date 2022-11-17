@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Why the Emoji Skin Tone You Choose Matters](https://www.wired.com/story/why-the-emoji-skin-tone-you-choose-matters/)
- - [Google Maps will help you explore neighborhoods with your phone’s camera](https://www.theverge.com/2022/11/17/23463195/google-maps-explore-phone-camera-search-live-view)
- - [Google search now displays 360-degree views of sneakers from brands like Vans and Puma](https://www.theverge.com/2022/11/17/23463133/google-search-ar-sneakers-beauty-inclusive-features)<!-- TECH:END -->
+ - [Air Purifiers, Dehumidifiers, and Air Quality Testers for Breathing Easier &lpar;2022&rpar;](https://www.wired.com/story/when-to-use-air-purifier-dehumidiers-humidifiers/)
+ - [Apple&#39;s entire iPhone 14 Pro lineup has historically long wait times](https://appleinsider.com/articles/22/11/17/apples-entire-iphone-14-pro-lineup-has-historically-long-wait-times?utm_medium=rss)
+ - [Apple&#39;s Black Friday promo is here, but there are far better deals](https://appleinsider.com/articles/22/11/17/apples-black-friday-promo-is-here-but-there-are-far-better-deals?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
