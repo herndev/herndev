@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Global Xbox Survey Finds Families Plan to Connect Through Gaming This Holiday](https://news.xbox.com/en-us/2022/11/17/new-global-survey-families-connect-through-gaming-this-holiday/)
  - [Today&#39;s Wordle answer and hint for Thursday, November 17](https://www.pcgamer.com/wordle-516-answer-november-17)
- - [Most of Blizzard&#39;s games won&#39;t be available in China as of next year](https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year)
- - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)<!-- GAME:END -->
+ - [Most of Blizzard&#39;s games won&#39;t be available in China as of next year](https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
