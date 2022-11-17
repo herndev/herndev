@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Spot AI, which offers a cloud-based analytics system to &quot;read&quot; security footage and offer insights, raised $40M, bringing its total funding to $63M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221117/p21#a221117p21)
- - [WhatsApp’s Yellow Pages-style business directory launches in five countries](https://www.theverge.com/2022/11/17/23464351/whatsapp-business-directory-brazil-mexico-indonesia-uk)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [Putting Amazon’s Alexa in space is harder than you think](https://www.theverge.com/2022/11/17/23325038/nasa-alexa-space-amazon-orion-callisto-hands-on-artemis-i)
+ - [Fired SpaceX employees file charges with National Labor Relations Board](https://www.theverge.com/2022/11/17/23464180/spacex-employees-fired-elon-musk-charges-national-labor-relations-board)
+ - [Bel-Air’s second season hits Peacock this February](https://www.theverge.com/2022/11/17/23464490/bel-air-season-2-peacock)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
