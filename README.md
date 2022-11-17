@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – NBA 2K23, Naruto to Boruto: Shinobi Striker, and Deep Rock Galactic](https://news.xbox.com/en-us/2022/11/17/free-play-days-nba-2k23-naruto-to-boruto-shinobi-striker-and-deep-rock-galactic/)
- - [Call of Duty: Warzone 2: What&#39;s Worth Knowing About Loadouts And Perks](https://kotaku.com/warzone-2-0-mw2-call-of-duty-loadout-best-perks-package-1849795523)
- - [The Xbox Series S Is Now Even Cheaper Than The Nintendo Switch](https://kotaku.com/xbox-series-s-game-pass-black-friday-deal-halo-1849795459)<!-- GAME:END -->
+ - [Genshin Impact Has Made Farming So Tedious, I&#39;m Regretting Everything](https://kotaku.com/genshin-impact-sumeru-farming-grinding-ascension-1849796058)
+ - [Sonic faces a whole multiverse of Eggmans and Eggbabies in newest Sonic Prime trailer](https://www.polygon.com/2022/11/17/23464423/sonic-prime-trailer-netflix-release-date)
+ - [Moore Threads Chinese GPU benchmarked, beaten handily by RTX 3060](https://www.pcgamer.com/moore-threads-chinese-gpu-benchmarked-beaten-handily-by-rtx-3060)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
