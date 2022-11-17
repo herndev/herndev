@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Most of Blizzard&#39;s games won&#39;t be available in China as of next year](https://www.pcgamer.com/most-of-blizzards-games-wont-be-available-in-china-as-of-next-year)
  - [Elgato&#39;s new Stream Deck + looks to go beyond streaming macros](https://www.pcgamer.com/elgatos-new-stream-deck-looks-to-go-beyond-streaming-macros)
- - [Ikumi Nakamura Is Also An Urban Explorer, Releasing A Lovely Coffee Table Book](https://kotaku.com/ikumi-nakamura-e3-2019-book-urban-explorer-photo-1849794040)
- - [Huge HD mod for Batman Arkham City enhances more than 1,000 textures](https://www.pcgamer.com/huge-hd-mod-for-batman-arkham-city-enhances-more-than-1000-textures)<!-- GAME:END -->
+ - [Ikumi Nakamura Is Also An Urban Explorer, Releasing A Lovely Coffee Table Book](https://kotaku.com/ikumi-nakamura-e3-2019-book-urban-explorer-photo-1849794040)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
