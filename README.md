@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pokémon Violet and Scarlet are the vast open worlds the series has been building to](https://www.theverge.com/23462858/pokemon-violet-scarlet-review-nintendo-switch)
- - [Daily Authority: 🖥️ A new hope for Arm PCs](https://www.androidauthority.com/daily-authority-17-november-2022-3235867/)
- - [Candy Crush shows little sign of disappearing after 10 years, with estimated earnings similar to the Star Trek or Superman franchises, sans the cultural impact &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/221117/p3#a221117p3)<!-- TECH:END -->
+ - [Lyft Aspired to Kill Car Ownership. Now It Aims to Profit From It](https://www.wired.com/story/lyft-aspired-to-kill-car-ownership-now-it-aims-to-profit-from-it/)
+ - [Google Black Friday deals are here: Pixel 6a for $300, Pixel 7 for $500](https://www.androidauthority.com/google-pixel-black-friday-3232195/)
+ - [Financial cybercrime group the Disneyland Team is spoofing bank domains using Punycode, a standard that lets browsers render domains with non-Latin alphabets &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221117/p4#a221117p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
