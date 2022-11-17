@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Speed Through Ancient Temples in Turbo Golf Racing Season 2: Aztec Run](https://news.xbox.com/en-us/2022/11/17/speed-through-ancient-temples-in-turbo-golf-racing-season-2-aztec-run/)
- - [Pixar’s Elemental teaser raises 1 million questions about a world filled with fire and water people](https://www.polygon.com/23464517/elemental-trailer-pixar)
- - [World of Warcraft, Overwatch, and more pulled in China over Blizzard NetEase clash](https://www.polygon.com/23464489/world-of-warcraft-overwatch-china-activision-blizzard-netease-deal-jerk)<!-- GAME:END -->
+ - [Gameheads Empowers Youth of Color to Pursue Careers in Gaming](https://news.xbox.com/en-us/2022/11/17/gameheads-empowers-youth-of-color-to-pursue-careers-in-gaming/)
+ - [Netflix’s 1899 has a mystery that goes deeper than the plot](https://www.polygon.com/23463136/netflix-1899-review-music-soundtrack-dark-creators)
+ - [Someone made a World of Warcraft GeoGuessr and now the last 18 years of my life have meaning](https://www.polygon.com/23464583/world-of-warcraft-geoguessr-location-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
