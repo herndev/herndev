@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Genshin Impact Has Made Farming So Tedious, I&#39;m Regretting Everything](https://kotaku.com/genshin-impact-sumeru-farming-grinding-ascension-1849796058)
- - [Sonic faces a whole multiverse of Eggmans and Eggbabies in newest Sonic Prime trailer](https://www.polygon.com/2022/11/17/23464423/sonic-prime-trailer-netflix-release-date)
- - [Moore Threads Chinese GPU benchmarked, beaten handily by RTX 3060](https://www.pcgamer.com/moore-threads-chinese-gpu-benchmarked-beaten-handily-by-rtx-3060)<!-- GAME:END -->
+ - [Speed Through Ancient Temples in Turbo Golf Racing Season 2: Aztec Run](https://news.xbox.com/en-us/2022/11/17/speed-through-ancient-temples-in-turbo-golf-racing-season-2-aztec-run/)
+ - [Pixar’s Elemental teaser raises 1 million questions about a world filled with fire and water people](https://www.polygon.com/23464517/elemental-trailer-pixar)
+ - [World of Warcraft, Overwatch, and more pulled in China over Blizzard NetEase clash](https://www.polygon.com/23464489/world-of-warcraft-overwatch-china-activision-blizzard-netease-deal-jerk)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
