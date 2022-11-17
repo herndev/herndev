@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amen](http://9gag.com/gag/agoqwKv)
- - ⏩ [Wannabe thug nearly killing himself](http://9gag.com/gag/aA0wn82)
- - 👉 [Innovative gun](http://9gag.com/gag/aeQbKb5)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/aOxdXG2)
+ - ⏩ [Josh?](http://9gag.com/gag/aNwAmow)
+ - 👉 [A Chimp was born a couple days ago at the Sedgwick County Zoo. He had trouble getting oxygen so had to be kept at the vet. This video shows mom reuniting with him after almost 2 days apart.](http://9gag.com/gag/armb1ZB)<!-- MEMES:END -->
 
 ---
 
