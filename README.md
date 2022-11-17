@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)
- - ⏩ [BFF!](http://9gag.com/gag/agoqWdg)
+ - 💣 [Meet the man behind one third of wikipedia edits Steven Pruitt where he has also created more than 33,000 articles on wiki, Pruitt has been editing since 2004 for free.](http://9gag.com/gag/aDYjERx)
+ - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
  - 👉 [Tactical zoom](http://9gag.com/gag/aXnA5b9)<!-- MEMES:END -->
 
 ---
