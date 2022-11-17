@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Qualcomm debuts Snapdragon AR2 Gen 1 designed for slim AR glasses, using 4nm process, claims 2.5x better AI performance than XR2 with 50% less power consumption &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/221116/p36#a221116p36)
  - [NetEase and Blizzard plan to end their 14-year partnership after January 2023, leaving Chinese players&#39; access to games like Diablo and Overwatch in question &lpar;Bloomberg&rpar;](http://www.techmeme.com/221116/p35#a221116p35)
- - [What is a Peloton Digital Membership?](https://www.androidauthority.com/peloton-app-membership-3234312/)
- - [Microsoft rolls out Discord voice chat integration to all Xbox users after a test with Xbox Insiders; PS will reportedly gain deeper Discord integration in 2023 &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221116/p34#a221116p34)<!-- TECH:END -->
+ - [What is a Peloton Digital Membership?](https://www.androidauthority.com/peloton-app-membership-3234312/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
