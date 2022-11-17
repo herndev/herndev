@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amazed but how?](http://9gag.com/gag/aGE0vm0)
- - ⏩ [So I just learned that germany doesn&#39;t really allow google to do street view](http://9gag.com/gag/aNwdGx6)
- - 👉 [German man returns $4.7 million check to company receives a few packs of candy in return](http://9gag.com/gag/amArwn6)<!-- MEMES:END -->
+ - 💣 [Pepe Title](http://9gag.com/gag/a9qWxnD)
+ - ⏩ [First Customers Of The Day](http://9gag.com/gag/amArjbd)
+ - 👉 [Dancing queen](http://9gag.com/gag/aWG8V03)<!-- MEMES:END -->
 
 ---
 
