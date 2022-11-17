@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to find a new job](http://9gag.com/gag/adPq41Z)
- - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 👉 [Play stupid games.....](http://9gag.com/gag/abv6LGr)<!-- MEMES:END -->
+ - 💣 [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - ⏩ [Not entirely untrue. You know who you are and what you&#39;ve seen](http://9gag.com/gag/aGE0Wyz)
+ - 👉 [I was there Gandalf. I was there 3000 days ago](http://9gag.com/gag/aPgMKAK)<!-- MEMES:END -->
 
 ---
 
