@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok says it is testing a research API, announced in July, with members of its Content and Safety Advisory Councils, and working on a content moderation API &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221117/p29#a221117p29)
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
- - [An update to the About Twitter Blue page shows accounts less than 90 days old won&#39;t be able to sign up when the service relaunch, presumably on November 29 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/221117/p28#a221117p28)<!-- TECH:END -->
+ - [Apple&#39;s Black Friday promo is here, but there are far better deals](https://appleinsider.com/articles/22/11/17/apples-black-friday-promo-is-here-but-there-are-far-better-deals?utm_medium=rss)
+ - [1Password embraces a passwordless future](https://www.theverge.com/2022/11/17/23464817/1password-passkey-support-security-apple-google)
+ - [JWST just spotted two unusually bright galaxies from the very early universe](https://www.theverge.com/2022/11/17/23464796/jwst-galaxies-early-universe-nasa-james-webb)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
