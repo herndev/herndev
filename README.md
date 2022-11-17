@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Five Reasons You Need to Buy Goat Simulator 3 – Out Now on Xbox Series X|S](https://news.xbox.com/en-us/2022/11/17/five-reasons-you-need-to-buy-goat-simulator-3-out-now-on-xbox-series-xs/)
- - [The Walking Dead shambles to tabletop with new RPG and AMC-led actual play series](https://www.polygon.com/tabletop-games/23460313/the-walking-dead-universe-roleplaying-game-actual-play-announcement-crowdfunding-launch-date)
- - [Bardo finds a two-time Best Picture winner going maximum masturbatory](https://www.polygon.com/23462465/bardo-review-netflix-birdman-director-alejandro-g-inarritu)<!-- GAME:END -->
+ - [Free Play Days – NBA 2K23, Naruto to Boruto: Shinobi Striker, and Deep Rock Galactic](https://news.xbox.com/en-us/2022/11/17/free-play-days-nba-2k23-naruto-to-boruto-shinobi-striker-and-deep-rock-galactic/)
+ - [Call of Duty: Warzone 2: What&#39;s Worth Knowing About Loadouts And Perks](https://kotaku.com/warzone-2-0-mw2-call-of-duty-loadout-best-perks-package-1849795523)
+ - [The Xbox Series S Is Now Even Cheaper Than The Nintendo Switch](https://kotaku.com/xbox-series-s-game-pass-black-friday-deal-halo-1849795459)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
