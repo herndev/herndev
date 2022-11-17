@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia hit with class action suit over melting RTX 4090 GPU adapters](https://www.pcgamer.com/nvidia-hit-with-class-action-suit-over-melting-rtx-4090-gpu-adapters)
- - [US congresswoman Alexandria Ocasio-Cortez roasts crypto bros for scrub-tier League of Legends play](https://www.pcgamer.com/us-congresswoman-alexandria-ocasio-cortez-roasts-crypto-bros-for-scrub-tier-league-of-legends-play)
- - [The four pillars of society in Floodland](https://www.pcgamer.com/the-four-pillars-of-society-in-floodland)<!-- GAME:END -->
+ - [Black Friday: Unwrap Thrills with $50 off Xbox Series S, 900+ Games on Sale, and More!](https://news.xbox.com/en-us/2022/11/17/black-friday-unwrap-thrills-games-on-sale/)
+ - [How to make cash in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-cash-money)
+ - [The best places to drop in Warzone 2 Al Mazrah](https://www.pcgamer.com/call-of-duty-warzone-2-best-starting-locations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
