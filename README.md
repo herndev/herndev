@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [Amazon’s CEO says more layoffs will happen in 2023](https://www.theverge.com/2022/11/17/23465169/amazon-layoffs-continuing-2023-ceo-andy-jassy)
- - [Early Black Friday deal: 2 Microsoft Office for Mac Home &amp; Business 2021 licenses $59.99, lowest price ever](https://appleinsider.com/articles/22/11/03/early-black-friday-deal-2-microsoft-office-for-mac-home-business-2021-licenses-5999-lowest-price-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline)
+ - [Source: Ella Irwin, Twitter&#39;s VP of product focused on health and services since June 2022, will be the new head of trust and safety, replacing Yoel Roth &lpar;The Information&rpar;](http://www.techmeme.com/221117/p34#a221117p34)
+ - [Amazon CEO Andy Jassy says the layoffs will continue into 2023, after the company cut roles across its Devices and Books businesses on Wednesday &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/221117/p33#a221117p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
