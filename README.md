@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Car crash in Riyadh](http://9gag.com/gag/aPgB6GG)
- - ⏩ [Based](http://9gag.com/gag/aOxdXG2)
- - 👉 [The real shit show begins...](http://9gag.com/gag/aKEV4xO)<!-- MEMES:END -->
+ - 💣 [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
+ - ⏩ [Stay gold, ponyboy](http://9gag.com/gag/ajVXQz1)
+ - 👉 [8 billionth person](http://9gag.com/gag/ay2DEKX)<!-- MEMES:END -->
 
 ---
 
