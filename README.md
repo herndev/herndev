@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s battle pass and progression are changing so players ‘feel more rewarded’](https://www.polygon.com/23385333/overwatch-2-season-2-battle-pass-rewards-skins-twitch-drops)
- - [Splinter Cell goes free until the end of the month as devs reveal &#39;early concept art&#39; from the remake](https://www.pcgamer.com/splinter-cell-goes-free-until-the-end-of-the-month-as-devs-reveal-early-concept-art-from-the-remake)
- - [Even if Andor’s Luthen had a lightsaber, that wouldn’t make him a Jedi](https://www.polygon.com/star-wars/23464807/andor-luthen-lightsaber-jedi-theory)<!-- GAME:END -->
+ - [If you extract with a gun in Warzone 2 DMZ, you unlock it forever in Modern Warfare 2](https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2)
+ - [Former Square Enix employees arrested over Dragon Quest-related insider trading](https://www.pcgamer.com/former-square-enix-employees-arrested-over-dragon-quest-related-insider-trading)
+ - [Modern Warfare 2 and Overwatch 2 drop prepaid phone restrictions](https://www.pcgamer.com/modern-warfare-2-and-overwatch-2-drop-prepaid-phone-restrictions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
