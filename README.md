@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [All a matter of negotiating](http://9gag.com/gag/aZDmWx9)
- - ⏩ [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)
- - 👉 [Everything remind me of her](http://9gag.com/gag/agoL07g)<!-- MEMES:END -->
+ - 💣 [Build quality.](http://9gag.com/gag/a04dr2X)
+ - ⏩ [Banksy\u2019s call to action](http://9gag.com/gag/ajVX0AR)
+ - 👉 [Outstanding move](http://9gag.com/gag/aPgByPq)<!-- MEMES:END -->
 
 ---
 
