@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
- - ⏩ [6-D chess player and master entrepreneur.](http://9gag.com/gag/aL1DKDM)
- - 👉 [Bruh](http://9gag.com/gag/a7qr5n2)<!-- MEMES:END -->
+ - 💣 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - ⏩ [Now that escalated quickly](http://9gag.com/gag/ap9pq99)
+ - 👉 [Just several thousand years until they get to farming](http://9gag.com/gag/anzbYEV)<!-- MEMES:END -->
 
 ---
 
