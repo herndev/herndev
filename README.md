@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Working On Overwatch 2’s Progression To Make It ‘More Rewarding’](https://kotaku.com/overwatch-2-battle-pass-xp-grind-rank-season-2-skins-1849802854)
- - [7 things you should know before starting Marvel’s Spider-Man: Miles Morales](https://www.polygon.com/spider-man-miles-morales-guide-ps4-ps5/21536823/beginners-tips-venom-attacks-campaign-stealth-camo-training)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [1899 fails where Dark succeeded](https://www.polygon.com/23466793/1899-netflix-show-dark)
+ - [You can play Warhammer 40K: Darktide on PC right now](https://www.polygon.com/23466857/warhammer-40k-darktide-pre-order-beta-early-access-release-time)
+ - [Can you play Warhammer 40K: Darktide solo with bots? Not yet, but private matches are coming](https://www.pcgamer.com/warhammer-darktide-play-with-bots-solo-private-matches)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
