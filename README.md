@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US tech companies laying off employees serves as a wake-up call for Ireland, a longtime European hub for Big Tech, which has added 24,000 IT jobs since Q1 2021 &lpar;Jude Webber/Financial Times&rpar;](http://www.techmeme.com/221118/p3#a221118p3)
- - [How to watch &#39;A Charlie Brown Thanksgiving&#39; free on Apple TV+](https://appleinsider.com/articles/20/11/23/how-to-watch-a-charlie-brown-thanksgiving-free-on-apple-tv-and-pbs?utm_medium=rss)
- - [Daily Authority: 😮 FTX CEO tells all](https://www.androidauthority.com/daily-authority-november-18-2022-3236364/)<!-- TECH:END -->
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
+ - [Banish the Dark With the Wiz Luminaire Portable Light](https://www.wired.com/story/wiz-luminaire-mobile-portable-light-rave/)
+ - [How to Use a Super-Intense Laser to Kick an Electron out of a Molecule](https://www.wired.com/story/how-to-use-a-laser-to-kick-an-electron-out-of-a-molecule/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
