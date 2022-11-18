@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [No, You Don’t Need To Buy Modern Warfare II To Play Warzone 2.0](https://kotaku.com/warzone-2-modern-warfare-2-purchase-glitch-fix-1849801968)
- - [Here Are The Best Black Friday Gaming Deals](https://kotaku.com/black-friday-2022-deals-nintendo-switch-mario-kart-ps5-1849801962)
- - [Call of Duty: Warzone 2 DMZ mode explained](https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-explained)<!-- GAME:END -->
+ - [The best armor in God of War Ragnarök](https://www.polygon.com/23462482/best-armor-sets-nidavellir-raven-tears)
+ - [Pokémon Scarlet &amp; Violet guides](https://www.polygon.com/pokemon-scarlet-violet-guide/23424781/pokemon-violet-scarlet-guides-tips-evolutions-gyms-where-to-find)
+ - [Enchanted was a Disney game-changer, but the sequel loses the magic](https://www.polygon.com/reviews/23466419/disenchanted-review-disney-plus-amy-adams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
