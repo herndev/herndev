@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Intel Arc graphics driver boosts performance by up to 8%](https://www.pcgamer.com/new-intel-arc-graphics-driver-boosts-performance-by-up-to-8)
- - [Gearbox has bought up Risk of Rain and the fans are already doomposting](https://www.pcgamer.com/gearbox-has-bought-up-risk-of-rain-and-the-fans-are-already-doomposting)
- - [Blizzard isn&#39;t &#39;completely satisfied&#39; with Overwatch 2&#39;s rewards, will make them suck slightly less next season](https://www.pcgamer.com/blizzard-isnt-completely-satisfied-with-overwatch-2s-rewards-will-make-them-suck-slightly-less-next-season)<!-- GAME:END -->
+ - [Warzone 2 is locking players out and asking them to buy Modern Warfare 2](https://www.pcgamer.com/call-of-duty-Warzone-2-is-locking-players-out-and-asking-them-to-buy-Modern-Warfare-2)
+ - [Sonic creator Yuji Naka arrested for insider trading](https://www.polygon.com/23465970/sonic-yuji-naka-insider-trading-arrest-square-enix-dragon-quest-tact)
+ - [Blizzard says &#39;come back in, the water&#39;s lovely&#39; to lapsed WoW players](https://www.pcgamer.com/blizzard-says-come-back-in-the-waters-lovely-to-lapsed-wow-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
