@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Taking the Bus](http://9gag.com/gag/aWGmZ5n)
- - ⏩ [Bro isn\u2019t asking anymore, he\u2019s demanding](http://9gag.com/gag/aZDmPAp)
- - 👉 [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)<!-- MEMES:END -->
+ - 💣 [All a matter of negotiating](http://9gag.com/gag/aZDmWx9)
+ - ⏩ [Le Paris,peak of civilisation](http://9gag.com/gag/a04bPzO)
+ - 👉 [Everything remind me of her](http://9gag.com/gag/agoL07g)<!-- MEMES:END -->
 
 ---
 
