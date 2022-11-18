@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aOxdXG2)
- - ⏩ [Stay gold, ponyboy](http://9gag.com/gag/ajVXQz1)
- - 👉 [1993 Pamela Anderson](http://9gag.com/gag/aqeb40R)<!-- MEMES:END -->
+ - 💣 [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)
+ - ⏩ [When cartoons were more creative! &lpar;and crazy&rpar;](http://9gag.com/gag/aEqYvoO)
+ - 👉 [So you are ruthless](http://9gag.com/gag/aA0dRR9)<!-- MEMES:END -->
 
 ---
 
