@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
- - ⏩ [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)
- - 👉 [Found ya!](http://9gag.com/gag/a6qMYG2)<!-- MEMES:END -->
+ - 💣 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
+ - ⏩ [Imagine waking up to a monster sniffing your \u00e1ss](http://9gag.com/gag/aA0dRAo)
+ - 👉 [I once called my teacher `mom` subconsciously. Then she became my step-mom.](http://9gag.com/gag/aGE1Y2n)<!-- MEMES:END -->
 
 ---
 
