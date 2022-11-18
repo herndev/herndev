@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 21 to 25](https://news.xbox.com/en-us/2022/11/18/next-week-on-xbox-new-games-for-november-21-to-25/)
- - [Pokémon Scarlet and Violet really lean into the whole people-eat-Pokémon thing](https://www.polygon.com/pokemon/23464260/pokemon-scarlet-and-violet-paldea-eat-delicious-pokemon)
- - [Here&#39;s how perk packages work in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-perks-packages-custom)<!-- GAME:END -->
+ - [Picking a starter Pokémon in Scarlet and Violet messed with my emotions](https://www.polygon.com/pokemon/23465134/pokemon-scarlet-and-violet-best-starter)
+ - [In Netflix’s Slumberland, Jason Momoa goes full Fun Fantasy Dad](https://www.polygon.com/reviews/23464972/netflix-slumberland-jason-momoa-movie-winsor-mccay)
+ - [PlayStation Black Friday sale offers big savings on PS Plus](https://www.polygon.com/23466118/playstation-plus-store-black-friday-discounts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
