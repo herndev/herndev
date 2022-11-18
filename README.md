@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Friday’s tech news live: All eyes on Twitter &lpar;again&rpar;](https://www.theverge.com/2022/11/18/23465940/november-18th-2022-tech-news-liveblog)
- - [The FBI says the Hive ransomware gang has extorted ~$100M from 1,300+ organizations, including government facilities and public health entities, since June 2021 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221118/p1#a221118p1)
- - [You told us: You’d resurrect this dead smartphone brand](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-results-3236355/)<!-- TECH:END -->
+ - [Watch an iFixit employee shoot a battery with a nail gun to teach us all about safety](https://www.theverge.com/2022/11/18/23465972/ifixit-battery-nail-gun-swelling-thermal-runaway-safety-lesson)
+ - [The best podcasts to listen to on Spotify — tech, comedy, true crime, and more](https://www.androidauthority.com/best-podcasts-on-spotify-3229857/)
+ - [How to make a live wallpaper on Android or iPhone](https://www.androidauthority.com/make-live-wallpaper-3236356/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
