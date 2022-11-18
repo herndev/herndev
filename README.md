@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - ⏩ [Now that escalated quickly](http://9gag.com/gag/ap9pq99)
- - 👉 [Just several thousand years until they get to farming](http://9gag.com/gag/anzbYEV)<!-- MEMES:END -->
+ - 💣 [This is quite funy.](http://9gag.com/gag/az28bmB)
+ - ⏩ [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)
+ - 👉 [Henry is Cavill](http://9gag.com/gag/ap9popn)<!-- MEMES:END -->
 
 ---
 
