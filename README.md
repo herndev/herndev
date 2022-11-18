@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aOxdXG2)
- - ⏩ [So mean but so true](http://9gag.com/gag/a5XZmKN)
- - 👉 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)<!-- MEMES:END -->
+ - 💣 [Blue... NO!](http://9gag.com/gag/aqeb2oY)
+ - ⏩ [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - 👉 [Let&#39;s collect the best of sponsor shaming for 2022 World Cup](http://9gag.com/gag/aREmVgG)<!-- MEMES:END -->
 
 ---
 
