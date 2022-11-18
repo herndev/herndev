@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Friday, November 18](https://www.pcgamer.com/wordle-517-answer-november-18)
  - [10 things to know before starting Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23464426/beginners-guide-tips-levels-gyms-open-world-order)
- - [Which Pokémon Scarlet/Violet starter is the best?](https://www.polygon.com/pokemon-scarlet-violet-guide/23451483/which-starter-to-pick-best-sprigatito-quaxly-fuecoco-evolutions)
- - [Report: Legendary Sonic Designer Yuji Naka Arrested In Japan](https://kotaku.com/yuji-naka-sonic-hedgehog-dragon-quest-arrested-crime-1849799553)<!-- GAME:END -->
+ - [Which Pokémon Scarlet/Violet starter is the best?](https://www.polygon.com/pokemon-scarlet-violet-guide/23451483/which-starter-to-pick-best-sprigatito-quaxly-fuecoco-evolutions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
