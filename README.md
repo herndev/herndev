@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Twitter’s living wake kicked off with Elon’s 5PM deadline](https://www.theverge.com/2022/11/17/23465659/rip-twitter-trending-elon-musk-ultimatum)
  - [Qualcomm announces the Qualcomm S3 Gen 2 and Qualcomm S5 Gen 2 for wireless audio gear with support for spatial audio, improved ANC, lossless music, and more &lpar;Pranob Mehrotra/XDA Developers&rpar;](http://www.techmeme.com/221117/p39#a221117p39)
- - [1Password unveils &quot;passkey&quot; support for secure user logins to apps, and says it will work across platforms, including iOS and Android, coming in early 2023 &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/221117/p38#a221117p38)
- - [Sydney-based Advanced Navigation, a developer of AI robotics and navigation technology, raised a $68M Series B led by KKR, bringing its total funding to $85M+ &lpar;David Simmons/Business News Australia&rpar;](http://www.techmeme.com/221117/p37#a221117p37)<!-- TECH:END -->
+ - [1Password unveils &quot;passkey&quot; support for secure user logins to apps, and says it will work across platforms, including iOS and Android, coming in early 2023 &lpar;Jared Newman/Fast Company&rpar;](http://www.techmeme.com/221117/p38#a221117p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
