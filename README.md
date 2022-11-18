@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best armor in God of War Ragnarök](https://www.polygon.com/23462482/best-armor-sets-nidavellir-raven-tears)
- - [Pokémon Scarlet &amp; Violet guides](https://www.polygon.com/pokemon-scarlet-violet-guide/23424781/pokemon-violet-scarlet-guides-tips-evolutions-gyms-where-to-find)
- - [Enchanted was a Disney game-changer, but the sequel loses the magic](https://www.polygon.com/reviews/23466419/disenchanted-review-disney-plus-amy-adams)<!-- GAME:END -->
+ - [Blizzard Working On Overwatch 2’s Progression To Make It ‘More Rewarding’](https://kotaku.com/overwatch-2-battle-pass-xp-grind-rank-season-2-skins-1849802854)
+ - [7 things you should know before starting Marvel’s Spider-Man: Miles Morales](https://www.polygon.com/spider-man-miles-morales-guide-ps4-ps5/21536823/beginners-tips-venom-attacks-campaign-stealth-camo-training)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
