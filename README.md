@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)
- - [Banish the Dark With the Wiz Luminaire Portable Light](https://www.wired.com/story/wiz-luminaire-mobile-portable-light-rave/)
- - [How to Use a Super-Intense Laser to Kick an Electron out of a Molecule](https://www.wired.com/story/how-to-use-a-laser-to-kick-an-electron-out-of-a-molecule/)<!-- TECH:END -->
+ - [VMware Fusion 13 adds Windows 11 virtualization for Apple Silicon Macs](https://appleinsider.com/articles/22/11/18/vmware-fusion-13-adds-windows-11-virtualization-for-apple-silicon-macs?utm_medium=rss)
+ - [Sources: the US is seeking info on confidential deals that Elon Musk made with foreign investors over concerns they may be able to access Twitter users&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/221118/p5#a221118p5)
+ - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
