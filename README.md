@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is quite funy.](http://9gag.com/gag/az28bmB)
- - ⏩ [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)
- - 👉 [YoU wHiTe PeOpLe NeEd To StOp](http://9gag.com/gag/a04bPNX)<!-- MEMES:END -->
+ - 💣 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
+ - ⏩ [All a matter of negotiating](http://9gag.com/gag/aZDmWx9)
+ - 👉 [Single Mom](http://9gag.com/gag/aPgBygR)<!-- MEMES:END -->
 
 ---
 
