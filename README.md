@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
- - ⏩ [Best deal ever!](http://9gag.com/gag/aBdWROA)
- - 👉 [Imagine waking up to a monster sniffing your \u00e1ss](http://9gag.com/gag/aA0dRAo)<!-- MEMES:END -->
+ - 💣 [Choose one hot nurse](http://9gag.com/gag/aoK2XPm)
+ - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
+ - 👉 [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)<!-- MEMES:END -->
 
 ---
 
