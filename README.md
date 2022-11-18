@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch an iFixit employee shoot a battery with a nail gun to teach us all about safety](https://www.theverge.com/2022/11/18/23465972/ifixit-battery-nail-gun-swelling-thermal-runaway-safety-lesson)
- - [The best podcasts to listen to on Spotify — tech, comedy, true crime, and more](https://www.androidauthority.com/best-podcasts-on-spotify-3229857/)
- - [How to make a live wallpaper on Android or iPhone](https://www.androidauthority.com/make-live-wallpaper-3236356/)<!-- TECH:END -->
+ - [US tech companies laying off employees serves as a wake-up call for Ireland, a longtime European hub for Big Tech, which has added 24,000 IT jobs since Q1 2021 &lpar;Jude Webber/Financial Times&rpar;](http://www.techmeme.com/221118/p3#a221118p3)
+ - [How to watch &#39;A Charlie Brown Thanksgiving&#39; free on Apple TV+](https://appleinsider.com/articles/20/11/23/how-to-watch-a-charlie-brown-thanksgiving-free-on-apple-tv-and-pbs?utm_medium=rss)
+ - [Daily Authority: 😮 FTX CEO tells all](https://www.androidauthority.com/daily-authority-november-18-2022-3236364/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
