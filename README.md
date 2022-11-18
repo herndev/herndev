@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Legendary Sonic Designer Yuji Naka Arrested In Japan](https://kotaku.com/yuji-naka-sonic-hedgehog-dragon-quest-arrested-crime-1849799553)
- - [How a bunch of art school grads made putrid, brilliant horror adventure Sanitarium](https://www.pcgamer.com/how-a-bunch-of-art-school-grads-made-putrid-brilliant-horror-adventure-sanitarium)
- - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)<!-- GAME:END -->
+ - [10 things to know before starting Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23464426/beginners-guide-tips-levels-gyms-open-world-order)
+ - [Which Pokémon Scarlet/Violet starter is the best?](https://www.polygon.com/pokemon-scarlet-violet-guide/23451483/which-starter-to-pick-best-sprigatito-quaxly-fuecoco-evolutions)
+ - [Report: Legendary Sonic Designer Yuji Naka Arrested In Japan](https://kotaku.com/yuji-naka-sonic-hedgehog-dragon-quest-arrested-crime-1849799553)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
