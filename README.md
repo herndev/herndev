@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How a bunch of art school grads made putrid, brilliant horror adventure Sanitarium](https://www.pcgamer.com/how-a-bunch-of-art-school-grads-made-putrid-brilliant-horror-adventure-sanitarium)
  - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)
- - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)
  - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
