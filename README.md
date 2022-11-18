@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - ⏩ [Banksy\u2019s call to action](http://9gag.com/gag/ajVX0AR)
- - 👉 [When statistics doesn&#39;t lie](http://9gag.com/gag/aDYW3QO)<!-- MEMES:END -->
+ - ⏩ [Quickly American Simps are sleeping!](http://9gag.com/gag/amAY0Ny)
+ - 👉 [I assume the number on the back refers to the drivers iq.](http://9gag.com/gag/a2KrY3p)<!-- MEMES:END -->
 
 ---
 
