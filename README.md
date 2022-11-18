@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AirPods Pro might help you hear better, but they’re not hearing aids](https://www.theverge.com/2022/11/18/23464277/apple-airpods-pro-otc-hearing-aids-wearables-headphones)
- - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
- - [Friday’s tech news live: All eyes on Twitter &lpar;again&rpar;](https://www.theverge.com/2022/11/18/23465940/november-18th-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [A Fire Upon the Deep Is Mind-Blowing Space Opera](https://www.wired.com/2022/11/geeks-guide-fire-upon-the-deep/)
+ - [The OnePlus 11 could have a surprisingly premium body](https://www.androidauthority.com/oneplus-11-ceramic-body-3236506/)
+ - [Meta AI and Papers with Code pull Galactica, a large language model to generate scientific text, days after its launch, amid criticism about incorrect results &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221118/p7#a221118p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
