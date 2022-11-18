@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)
- - ⏩ [When cartoons were more creative! &lpar;and crazy&rpar;](http://9gag.com/gag/aEqYvoO)
- - 👉 [So you are ruthless](http://9gag.com/gag/aA0dRR9)<!-- MEMES:END -->
+ - 💣 [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
+ - ⏩ [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)
+ - 👉 [Found ya!](http://9gag.com/gag/a6qMYG2)<!-- MEMES:END -->
 
 ---
 
