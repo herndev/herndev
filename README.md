@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [You told us: You’d resurrect this dead smartphone brand](https://www.androidauthority.com/resurrect-dead-smartphone-brand-poll-results-3236355/)
  - [Outward folding Xiaomi prototype leaks: A look at what could’ve been](https://www.androidauthority.com/xiaomi-outward-folding-foldable-phone-prototype-3236342/)
- - [Now Samsung’s older mid-rangers are starting to receive stable Android 13](https://www.androidauthority.com/samsung-galaxy-a52-stable-android-13-update-one-ui-5-3236337/)
- - [Twitter-Musk News Timeline: #RIPTwitter Trends After Employees Resign     - CNET](https://www.cnet.com/news/social-media/twitter-musk-news-timeline-riptwitter-trends-after-employees-resign/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Now Samsung’s older mid-rangers are starting to receive stable Android 13](https://www.androidauthority.com/samsung-galaxy-a52-stable-android-13-update-one-ui-5-3236337/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
