@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Amen](http://9gag.com/gag/agoqwKv)
- - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 👉 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)<!-- MEMES:END -->
+ - 💣 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
+ - ⏩ [6-D chess player and master entrepreneur.](http://9gag.com/gag/aL1DKDM)
+ - 👉 [Bruh](http://9gag.com/gag/a7qr5n2)<!-- MEMES:END -->
 
 ---
 
