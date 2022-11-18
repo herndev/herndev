@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [Valorant&#39;s newest agent temporarily disabled because his ultimate is too sumptuous to handle](https://www.pcgamer.com/valorants-newest-agent-temporarily-disabled-because-his-ultimate-is-too-sumptuous-to-handle)
- - [Warzone 2 is locking players out and asking them to buy Modern Warfare 2](https://www.pcgamer.com/call-of-duty-Warzone-2-is-locking-players-out-and-asking-them-to-buy-Modern-Warfare-2)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 21 to 25](https://news.xbox.com/en-us/2022/11/18/next-week-on-xbox-new-games-for-november-21-to-25/)
+ - [Pokémon Scarlet and Violet really lean into the whole people-eat-Pokémon thing](https://www.polygon.com/pokemon/23464260/pokemon-scarlet-and-violet-paldea-eat-delicious-pokemon)
+ - [Here&#39;s how perk packages work in Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-perks-packages-custom)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
