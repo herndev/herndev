@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [1899 fails where Dark succeeded](https://www.polygon.com/23466793/1899-netflix-show-dark)
- - [You can play Warhammer 40K: Darktide on PC right now](https://www.polygon.com/23466857/warhammer-40k-darktide-pre-order-beta-early-access-release-time)
- - [Can you play Warhammer 40K: Darktide solo with bots? Not yet, but private matches are coming](https://www.pcgamer.com/warhammer-darktide-play-with-bots-solo-private-matches)<!-- GAME:END -->
+ - [Newly Revealed 1,000th Pokémon Looks Like An Apple Jacks Mascot Turned Crypto Bro](https://kotaku.com/pokemon-scarlet-violet-dex-gimmighoul-gholdengo-evo-1849803437)
+ - [This Modern Warfare 2 &#39;pacifist&#39; player hit max level with zero kills. How&#39;d he do it? By only playing the objective](https://www.pcgamer.com/this-modern-warfare-2-pacifist-player-hit-max-level-with-zero-kills-howd-he-do-it-by-only-playing-the-objective)
+ - [Teenage Mad Lad Immediately Leaves After Crushing Street Fighter V Tourney](https://kotaku.com/street-fighter-5-ufa-tournament-endingwalker-champion-1849803378)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
