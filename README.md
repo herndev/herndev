@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Musk announces &quot;new&quot; policy that &quot;negative/hate tweets&quot; will be &quot;deboosted &amp; demonetized&quot;, reinstates Kathie Griffin, Jordan Peterson, and Babylon Bee &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221118/p11#a221118p11)
- - [Leonid Meteor Shower Might Deliver Rare Shooting Star Outburst Tonight     - CNET](https://www.cnet.com/science/space/leonid-meteor-shower-might-deliver-rare-shooting-star-outburst-tonight/#ftag=CAD590a51e)
- - [Thrilling NASA Video Details Bonkers Plan to Snatch Rocks From Mars     - CNET](https://www.cnet.com/science/space/thrilling-nasa-video-details-bonkers-plan-to-snatch-rocks-from-mars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;Ted Lasso&#39; season three wraps filming, cast shares goodbyes](https://appleinsider.com/articles/22/11/18/ted-lasso-season-three-wraps-filming-cast-shares-goodbyes?utm_medium=rss)
+ - [Robot delivery startup Nuro is laying off 20 percent of its workers](https://www.theverge.com/2022/11/18/23466684/nuro-layoff-av-autonomous-delivery-robot-self-driving)
+ - [Sources: some internal estimates show that at least 1,200 full-time Twitter employees resigned on Thursday; Twitter had about 3,700 staff after mass layoffs &lpar;New York Times&rpar;](http://www.techmeme.com/221118/p12#a221118p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
