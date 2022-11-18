@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warzone 2 is locking players out and asking them to buy Modern Warfare 2](https://www.pcgamer.com/call-of-duty-Warzone-2-is-locking-players-out-and-asking-them-to-buy-Modern-Warfare-2)
- - [Sonic creator Yuji Naka arrested for insider trading](https://www.polygon.com/23465970/sonic-yuji-naka-insider-trading-arrest-square-enix-dragon-quest-tact)
- - [Blizzard says &#39;come back in, the water&#39;s lovely&#39; to lapsed WoW players](https://www.pcgamer.com/blizzard-says-come-back-in-the-waters-lovely-to-lapsed-wow-players)<!-- GAME:END -->
+ - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
+ - [Valorant&#39;s newest agent temporarily disabled because his ultimate is too sumptuous to handle](https://www.pcgamer.com/valorants-newest-agent-temporarily-disabled-because-his-ultimate-is-too-sumptuous-to-handle)
+ - [Warzone 2 is locking players out and asking them to buy Modern Warfare 2](https://www.pcgamer.com/call-of-duty-Warzone-2-is-locking-players-out-and-asking-them-to-buy-Modern-Warfare-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
