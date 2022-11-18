@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
- - [Carvana says it will lay off about 1,500 people, or ~8% of its workforce, adding to the ~2,500 workers it laid off in May 2022 &lpar;Kathryn Hardison/Wall Street Journal&rpar;](http://www.techmeme.com/221118/p15#a221118p15)
- - [What matters about Matter, the new smart home standard](https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer)<!-- TECH:END -->
+ - [Taylor Swift versus Ticketmaster: the latest on the tour that may break up a giant](https://www.theverge.com/2022/11/18/23466858/taylor-swift-ticketmaster-news-doj-investigation-eras-tour)
+ - [Nutrition labels for broadband internet are finally nearly here](https://www.theverge.com/2022/11/18/23466868/broadband-nutrition-label-fcc-internet)
+ - [Netflix’s 1899 is mysteries all the way down](https://www.theverge.com/23466567/netflix-1899-review-dark-tv-series)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
