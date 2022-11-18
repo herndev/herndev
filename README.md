@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Friday, November 18](https://www.pcgamer.com/wordle-517-answer-november-18)
- - [10 things to know before starting Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23464426/beginners-guide-tips-levels-gyms-open-world-order)
- - [Which Pokémon Scarlet/Violet starter is the best?](https://www.polygon.com/pokemon-scarlet-violet-guide/23451483/which-starter-to-pick-best-sprigatito-quaxly-fuecoco-evolutions)<!-- GAME:END -->
+ - [New Intel Arc graphics driver boosts performance by up to 8%](https://www.pcgamer.com/new-intel-arc-graphics-driver-boosts-performance-by-up-to-8)
+ - [Gearbox has bought up Risk of Rain and the fans are already doomposting](https://www.pcgamer.com/gearbox-has-bought-up-risk-of-rain-and-the-fans-are-already-doomposting)
+ - [Blizzard isn&#39;t &#39;completely satisfied&#39; with Overwatch 2&#39;s rewards, will make them suck slightly less next season](https://www.pcgamer.com/blizzard-isnt-completely-satisfied-with-overwatch-2s-rewards-will-make-them-suck-slightly-less-next-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
