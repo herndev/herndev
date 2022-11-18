@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Based](http://9gag.com/gag/aOxdXG2)
- - ⏩ [Josh?](http://9gag.com/gag/aNwAmow)
- - 👉 [A Chimp was born a couple days ago at the Sedgwick County Zoo. He had trouble getting oxygen so had to be kept at the vet. This video shows mom reuniting with him after almost 2 days apart.](http://9gag.com/gag/armb1ZB)<!-- MEMES:END -->
+ - ⏩ [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
+ - 👉 [Dads are true heroes](http://9gag.com/gag/ay2DEP8)<!-- MEMES:END -->
 
 ---
 
