@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Picking a starter Pokémon in Scarlet and Violet messed with my emotions](https://www.polygon.com/pokemon/23465134/pokemon-scarlet-and-violet-best-starter)
- - [In Netflix’s Slumberland, Jason Momoa goes full Fun Fantasy Dad](https://www.polygon.com/reviews/23464972/netflix-slumberland-jason-momoa-movie-winsor-mccay)
- - [PlayStation Black Friday sale offers big savings on PS Plus](https://www.polygon.com/23466118/playstation-plus-store-black-friday-discounts)<!-- GAME:END -->
+ - [We built a PC live on Twitch](https://www.polygon.com/2022/11/18/23466196/gamestop-f1-pc-build-stream-polygon-twitch)
+ - [Pokémon Scarlet and Violet’s open world needs better cities](https://www.polygon.com/pokemon/23464693/pokemon-scarlet-violet-cities-open-world)
+ - [Minecraft Legends Developer Diary: Strategic Building, Competing for Resources, and More](https://news.xbox.com/en-us/2022/11/18/minecraft-legends-developer-diary-strategic-building-competing-for-resources-and-more/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
