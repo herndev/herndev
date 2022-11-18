@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds of employees say no to being part of Elon Musk’s ‘extremely hardcore’ Twitter](https://www.theverge.com/2022/11/17/23465274/hundreds-of-twitter-employees-resign-from-elon-musk-hardcore-deadline)
- - [Source: Ella Irwin, Twitter&#39;s VP of product focused on health and services since June 2022, will be the new head of trust and safety, replacing Yoel Roth &lpar;The Information&rpar;](http://www.techmeme.com/221117/p34#a221117p34)
- - [Amazon CEO Andy Jassy says the layoffs will continue into 2023, after the company cut roles across its Devices and Books businesses on Wednesday &lpar;Annie Palmer/CNBC&rpar;](http://www.techmeme.com/221117/p33#a221117p33)<!-- TECH:END -->
+ - [Twitter staff nearly decimated by Musk&#39;s &#39;extremely hardcore&#39; demand](https://appleinsider.com/articles/22/11/18/twitter-staff-nearly-decimated-by-musks-extremely-hardcore-demand?utm_medium=rss)
+ - [Taylor Swift and Ticketmaster: Takeaways From the Insane Ticket Rush     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-ticketmaster-chaos-what-we-learned-from-the-insane-ticket-rush/#ftag=CAD590a51e)
+ - [Hundreds of Twitter employees post farewell messages and salute emojis in Slack and tweets, announcing their resignations after Elon Musk&#39;s &quot;hardcore&quot; ultimatum &lpar;The Verge&rpar;](http://www.techmeme.com/221117/p35#a221117p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
