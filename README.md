@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/aOxdXG2)
- - ⏩ [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
- - 👉 [Dads are true heroes](http://9gag.com/gag/ay2DEP8)<!-- MEMES:END -->
+ - 💣 [Car crash in Riyadh](http://9gag.com/gag/aPgB6GG)
+ - ⏩ [Based](http://9gag.com/gag/aOxdXG2)
+ - 👉 [The real shit show begins...](http://9gag.com/gag/aKEV4xO)<!-- MEMES:END -->
 
 ---
 
