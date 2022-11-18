@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taylor Swift versus Ticketmaster: the latest on the tour that may break up a giant](https://www.theverge.com/2022/11/18/23466858/taylor-swift-ticketmaster-news-doj-investigation-eras-tour)
- - [Nutrition labels for broadband internet are finally nearly here](https://www.theverge.com/2022/11/18/23466868/broadband-nutrition-label-fcc-internet)
- - [Netflix’s 1899 is mysteries all the way down](https://www.theverge.com/23466567/netflix-1899-review-dark-tv-series)<!-- TECH:END -->
+ - [Hyundai’s Ioniq 6 electric streamliner makes its US debut, revealing 340-mile range](https://www.theverge.com/2022/11/18/23466094/hyundai-ioniq-6-us-debut-laas-range-features-ev)
+ - [NASA Will Not Change the James Webb Telescope’s Name](https://www.wired.com/story/nasa-will-not-change-the-james-webb-telescopes-name/)
+ - [Apple&#39;s plan to use TSMC plants in the US and possibly Europe, a PR victory, buries the truth: capacity will be tiny and the chips will use an older 5nm process &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/221118/p16#a221118p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
