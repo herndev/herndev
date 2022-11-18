@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Fire Upon the Deep Is Mind-Blowing Space Opera](https://www.wired.com/2022/11/geeks-guide-fire-upon-the-deep/)
- - [The OnePlus 11 could have a surprisingly premium body](https://www.androidauthority.com/oneplus-11-ceramic-body-3236506/)
- - [Meta AI and Papers with Code pull Galactica, a large language model to generate scientific text, days after its launch, amid criticism about incorrect results &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221118/p7#a221118p7)<!-- TECH:END -->
+ - [Here are the best Apple Watch deals right now](https://www.theverge.com/21289209/best-apple-watch-deals)
+ - [The best wireless earbuds to buy right now](https://www.theverge.com/21309820/best-wireless-earbuds)
+ - [Tim Cook calls education the great equalizer](https://appleinsider.com/articles/22/11/18/tim-cook-calls-education-the-great-equalizer?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
