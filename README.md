@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Ted Lasso&#39; season three wraps filming, cast shares goodbyes](https://appleinsider.com/articles/22/11/18/ted-lasso-season-three-wraps-filming-cast-shares-goodbyes?utm_medium=rss)
- - [Robot delivery startup Nuro is laying off 20 percent of its workers](https://www.theverge.com/2022/11/18/23466684/nuro-layoff-av-autonomous-delivery-robot-self-driving)
- - [Sources: some internal estimates show that at least 1,200 full-time Twitter employees resigned on Thursday; Twitter had about 3,700 staff after mass layoffs &lpar;New York Times&rpar;](http://www.techmeme.com/221118/p12#a221118p12)<!-- TECH:END -->
+ - [The best deals on 4K TVs](https://www.theverge.com/22371561/best-4k-tv-deals-sale-lg-samsung-sony-tcl)
+ - [Carvana says it will lay off about 1,500 people, or ~8% of its workforce, adding to the ~2,500 workers it laid off in May 2022 &lpar;Kathryn Hardison/Wall Street Journal&rpar;](http://www.techmeme.com/221118/p15#a221118p15)
+ - [What matters about Matter, the new smart home standard](https://www.theverge.com/22832127/matter-smart-home-products-thread-wifi-explainer)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
