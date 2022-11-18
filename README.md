@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valorant: How Riot launched a successful esports in a global pandemic](https://www.pcgamer.com/valorant-how-riot-launched-a-successful-esports-in-a-global-pandemic)
- - [Sike: Overwatch 2 Requires Your Phone Number Yet Again](https://kotaku.com/overwatch-2-sms-protect-phone-number-requirement-patch-1849801537)
- - [Overwatch 2 introduces crossplay aim assist, says lack of it was bad for both console and PC players](https://www.pcgamer.com/overwatch-2-introduces-crossplay-aim-assist-says-lack-of-it-was-bad-for-both-console-and-pc-players)<!-- GAME:END -->
+ - [No, You Don’t Need To Buy Modern Warfare II To Play Warzone 2.0](https://kotaku.com/warzone-2-modern-warfare-2-purchase-glitch-fix-1849801968)
+ - [Here Are The Best Black Friday Gaming Deals](https://kotaku.com/black-friday-2022-deals-nintendo-switch-mario-kart-ps5-1849801962)
+ - [Call of Duty: Warzone 2 DMZ mode explained](https://www.pcgamer.com/call-of-duty-warzone-2-DMZ-explained)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
