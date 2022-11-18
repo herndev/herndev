@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [This is quite funy.](http://9gag.com/gag/az28bmB)
  - ⏩ [Thats gonna be one looong world cup](http://9gag.com/gag/aDYW0r9)
- - 👉 [Henry is Cavill](http://9gag.com/gag/ap9popn)<!-- MEMES:END -->
+ - 👉 [YoU wHiTe PeOpLe NeEd To StOp](http://9gag.com/gag/a04bPNX)<!-- MEMES:END -->
 
 ---
 
