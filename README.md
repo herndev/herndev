@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose one hot nurse](http://9gag.com/gag/aoK2XPm)
+ - 💣 [Amen](http://9gag.com/gag/agoqwKv)
  - ⏩ [I heard she&#39;s fun at parties...](http://9gag.com/gag/aBdwAXD)
- - 👉 [Papparazzi trying to get a picture of Elon Musk leaving court](http://9gag.com/gag/abvp3Yb)<!-- MEMES:END -->
+ - 👉 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)<!-- MEMES:END -->
 
 ---
 
