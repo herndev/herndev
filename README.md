@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [VMware Fusion 13 adds Windows 11 virtualization for Apple Silicon Macs](https://appleinsider.com/articles/22/11/18/vmware-fusion-13-adds-windows-11-virtualization-for-apple-silicon-macs?utm_medium=rss)
- - [Sources: the US is seeking info on confidential deals that Elon Musk made with foreign investors over concerns they may be able to access Twitter users&#39; data &lpar;Bloomberg&rpar;](http://www.techmeme.com/221118/p5#a221118p5)
- - [How to use the Finder&#39;s Connect to Server window](https://appleinsider.com/inside/macos/tips/how-to-use-the-finders-connect-to-server-window?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2022 holiday gift guide for dads](https://www.theverge.com/23417312/holiday-gift-ideas-dad-2022-unique-tech-presents-gadgets)
+ - [The Verge guide to the 2022 World Cup](https://www.theverge.com/2022/11/18/23449187/fifa-world-cup-2022-guide)
+ - [Daily deals Nov. 18: HomePod mini for $80, 57% off Beats Studio 3 headphones, 10.2-inch iPad for $270, more](https://appleinsider.com/articles/22/11/18/daily-deals-nov-18-homepod-mini-for-80-57-off-beats-studio-3-headphones-102-inch-ipad-for-270-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
