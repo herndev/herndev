@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - ⏩ [Quickly American Simps are sleeping!](http://9gag.com/gag/amAY0Ny)
- - 👉 [I assume the number on the back refers to the drivers iq.](http://9gag.com/gag/a2KrY3p)<!-- MEMES:END -->
+ - 💣 [I&#39;ve been thinking about making this for a long time. Finally went through my gallery and made it. Not much to choose from song wise. Any music ideas that would fit better?](http://9gag.com/gag/avQGpKZ)
+ - ⏩ [Ok](http://9gag.com/gag/a7qryYw)
+ - 👉 [A Ukrainian soldier full of emotion after liberation of his hometown of Kherson.](http://9gag.com/gag/aEqYzwn)<!-- MEMES:END -->
 
 ---
 
