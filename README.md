@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t poke the pufferfish](http://9gag.com/gag/aBdW96A)
- - ⏩ [Stay gold, ponyboy](http://9gag.com/gag/ajVXQz1)
- - 👉 [8 billionth person](http://9gag.com/gag/ay2DEKX)<!-- MEMES:END -->
+ - 💣 [Egglicious](http://9gag.com/gag/aDYjpL9)
+ - ⏩ [He did not](http://9gag.com/gag/aXnqZ3b)
+ - 👉 [Yesterday a cat with a broken leg came to the emergency room of the hospital in Bitlis, Turkey. The hospital staff, who noticed the situation, treated the cat.](http://9gag.com/gag/aVbqj8P)<!-- MEMES:END -->
 
 ---
 
