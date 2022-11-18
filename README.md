@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 holiday gift guide for dads](https://www.theverge.com/23417312/holiday-gift-ideas-dad-2022-unique-tech-presents-gadgets)
- - [The Verge guide to the 2022 World Cup](https://www.theverge.com/2022/11/18/23449187/fifa-world-cup-2022-guide)
- - [Daily deals Nov. 18: HomePod mini for $80, 57% off Beats Studio 3 headphones, 10.2-inch iPad for $270, more](https://appleinsider.com/articles/22/11/18/daily-deals-nov-18-homepod-mini-for-80-57-off-beats-studio-3-headphones-102-inch-ipad-for-270-more?utm_medium=rss)<!-- TECH:END -->
+ - [AirPods Pro might help you hear better, but they’re not hearing aids](https://www.theverge.com/2022/11/18/23464277/apple-airpods-pro-otc-hearing-aids-wearables-headphones)
+ - [Today&#39;s best early Black Friday deals on Apple, software &amp; more](https://appleinsider.com/articles/22/11/15/todays-best-early-black-friday-deals-on-apple-software-more?utm_medium=rss)
+ - [Friday’s tech news live: All eyes on Twitter &lpar;again&rpar;](https://www.theverge.com/2022/11/18/23465940/november-18th-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
