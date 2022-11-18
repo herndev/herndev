@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ve been thinking about making this for a long time. Finally went through my gallery and made it. Not much to choose from song wise. Any music ideas that would fit better?](http://9gag.com/gag/avQGpKZ)
- - ⏩ [Ok](http://9gag.com/gag/a7qryYw)
- - 👉 [A Ukrainian soldier full of emotion after liberation of his hometown of Kherson.](http://9gag.com/gag/aEqYzwn)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/aOxdXG2)
+ - ⏩ [So mean but so true](http://9gag.com/gag/a5XZmKN)
+ - 👉 [Some people just don&#39;t get it](http://9gag.com/gag/a9qW9nj)<!-- MEMES:END -->
 
 ---
 
