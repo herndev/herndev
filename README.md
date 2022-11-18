@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [We built a PC live on Twitch](https://www.polygon.com/2022/11/18/23466196/gamestop-f1-pc-build-stream-polygon-twitch)
- - [Pokémon Scarlet and Violet’s open world needs better cities](https://www.polygon.com/pokemon/23464693/pokemon-scarlet-violet-cities-open-world)
- - [Minecraft Legends Developer Diary: Strategic Building, Competing for Resources, and More](https://news.xbox.com/en-us/2022/11/18/minecraft-legends-developer-diary-strategic-building-competing-for-resources-and-more/)<!-- GAME:END -->
+ - [Valorant: How Riot launched a successful esports in a global pandemic](https://www.pcgamer.com/valorant-how-riot-launched-a-successful-esports-in-a-global-pandemic)
+ - [Sike: Overwatch 2 Requires Your Phone Number Yet Again](https://kotaku.com/overwatch-2-sms-protect-phone-number-requirement-patch-1849801537)
+ - [Overwatch 2 introduces crossplay aim assist, says lack of it was bad for both console and PC players](https://www.pcgamer.com/overwatch-2-introduces-crossplay-aim-assist-says-lack-of-it-was-bad-for-both-console-and-pc-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
