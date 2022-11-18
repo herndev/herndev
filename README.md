@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [If you extract with a gun in Warzone 2 DMZ, you unlock it forever in Modern Warfare 2](https://www.pcgamer.com/if-you-extract-with-a-gun-in-warzone-2-dmz-you-unlock-it-forever-in-modern-warfare-2)
- - [Former Square Enix employees arrested over Dragon Quest-related insider trading](https://www.pcgamer.com/former-square-enix-employees-arrested-over-dragon-quest-related-insider-trading)
- - [Modern Warfare 2 and Overwatch 2 drop prepaid phone restrictions](https://www.pcgamer.com/modern-warfare-2-and-overwatch-2-drop-prepaid-phone-restrictions)<!-- GAME:END -->
+ - [Call of Duty: Warzone 2 review-in-progress](https://www.pcgamer.com/call-of-duty-warzone-2-review)
+ - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)
+ - [PlayStation’s Black Friday Deals 2022](https://blog.playstation.com/2022/11/17/playstations-black-friday-deals-2022/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
