@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the Math teacher is on meth](http://9gag.com/gag/a9qrjvo)
- - ⏩ [Imagine waking up to a monster sniffing your \u00e1ss](http://9gag.com/gag/aA0dRAo)
- - 👉 [I once called my teacher `mom` subconsciously. Then she became my step-mom.](http://9gag.com/gag/aGE1Y2n)<!-- MEMES:END -->
+ - 💣 [A flock of Sheep in Inner Mongolia have been walking in a circle for over 10 days straight and no one knows why.](http://9gag.com/gag/a7qrLdA)
+ - ⏩ [Best deal ever!](http://9gag.com/gag/aBdWROA)
+ - 👉 [Imagine waking up to a monster sniffing your \u00e1ss](http://9gag.com/gag/aA0dRAo)<!-- MEMES:END -->
 
 ---
 
