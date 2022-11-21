@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)
- - ⏩ [Ninja man!](http://9gag.com/gag/a7qrqxm)
- - 👉 [These three together..... Seems fitting....](http://9gag.com/gag/a5XbQ7O)<!-- MEMES:END -->
+ - 💣 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)
+ - ⏩ [Gentleman](http://9gag.com/gag/a8qyqzV)
+ - 👉 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)<!-- MEMES:END -->
 
 ---
 
