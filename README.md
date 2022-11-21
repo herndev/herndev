@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf.](http://9gag.com/gag/az285Vm)
- - ⏩ [What a deception...](http://9gag.com/gag/ajVX92p)
- - 👉 [Overpowered lightsaber technique](http://9gag.com/gag/aA0dQw2)<!-- MEMES:END -->
+ - 💣 [When I opened the code of the dismissed programmer&rpar;&rpar;](http://9gag.com/gag/avQGy5Z)
+ - ⏩ [Toxic femininity in 3...2...1...](http://9gag.com/gag/anzb54V)
+ - 👉 [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)<!-- MEMES:END -->
 
 ---
 
