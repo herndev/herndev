@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DCG&#39;s Grayscale refuses to share proof of reserves, citing &quot;security concerns&quot;, as Grayscale Bitcoin Trust reaches new lows and DCG&#39;s Genesis halts withdrawals &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/221121/p6#a221121p6)
- - [How to use invisible files in macOS](https://appleinsider.com/articles/22/11/20/how-to-use-invisible-files-in-macos?utm_medium=rss)
- - [iPhone 15 rumored to have have more rounded corners](https://appleinsider.com/articles/22/11/21/iphone-15-rumored-to-have-have-more-rounded-corners?utm_medium=rss)<!-- TECH:END -->
+ - [Time’s up: the leap second is being scrapped](https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos)
+ - [Your Google Searches Are Quietly Evolving. Here’s What’s Next](https://www.wired.com/story/google-search-shopping-ads-malware-trends/)
+ - [The 7 Best Luxury Gifts &lpar;2022&rpar;: Devialet, Prada, Rimowa, Urwerk](https://www.wired.com/gallery/best-luxury-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
