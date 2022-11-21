@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Rick and Morty&#39; Season 6: When Does the Next Episode Come Out?     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-season-6-when-does-the-next-episode-come-out/#ftag=CAD590a51e)
- - [Kanye West Returns to Twitter After Elon Musk Brings Trump Back     - CNET](https://www.cnet.com/culture/kanye-west-returns-to-twitter-after-elon-musk-brings-trump-back/#ftag=CAD590a51e)
- - [When Is the &#39;Andor&#39; Season Finale Released on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/when-is-the-andor-season-finale-released-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Online sports-betting companies are cutting big deals with US colleges to promote gambling to students, like Caesars Sportsbook&#39;s $8.4M deal with Michigan State &lpar;New York Times&rpar;](http://www.techmeme.com/221120/p12#a221120p12)
+ - [Pokemon Scarlet and Violet: How To Find False Dragon Titan Pokemon     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-how-to-find-false-dragon-titan-pokemon/#ftag=CAD590a51e)
+ - [Who Dies in The White Lotus Season 2? All the Clues Through Episode 3     - CNET](https://www.cnet.com/culture/entertainment/who-dies-in-the-white-lotus-season-2-all-the-clues-through-episode-3/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
