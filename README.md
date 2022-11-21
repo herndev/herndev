@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at things journalism could lose if Twitter dies: real-time feedback on stories, news outlets being publicly called out, DMs as a reporting tool, and more &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/221121/p4#a221121p4)
- - [These vibrating LG Display panels turn car dashboards and headrests into speakers](https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces)
- - [Crypto prices sink, with bitcoin dropping ~4% and ether ~7%, dragged down by the ongoing FTX saga, potential contagion, and the FTX hacker offloading ether &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/221121/p3#a221121p3)<!-- TECH:END -->
+ - [DCG&#39;s Grayscale refuses to share proof of reserves, citing &quot;security concerns&quot;, as Grayscale Bitcoin Trust reaches new lows and DCG&#39;s Genesis halts withdrawals &lpar;Stephanie Murray/The Block&rpar;](http://www.techmeme.com/221121/p6#a221121p6)
+ - [How to use invisible files in macOS](https://appleinsider.com/articles/22/11/20/how-to-use-invisible-files-in-macos?utm_medium=rss)
+ - [iPhone 15 rumored to have have more rounded corners](https://appleinsider.com/articles/22/11/21/iphone-15-rumored-to-have-have-more-rounded-corners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
