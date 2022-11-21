@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best D&amp;D gift ideas for fans, players, and Dungeon Masters](https://www.polygon.com/deals/23464569/best-dnd-gifts-dungeons-dragons-dice-miniatures-campaigns-novels-cookbook)
  - [SpongeBob and Skyrim are coming to Fall Guys](https://www.polygon.com/23466560/fall-guys-season-3-sunken-secrets-spongebob-squarepants-skyrim)
- - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)
- - [Postal 3 has been taken off sale after 11 years, and Postal&#39;s original devs are thrilled](https://www.pcgamer.com/postal-3-has-been-taken-off-sale-after-11-years-and-postals-original-devs-are-thrilled)<!-- GAME:END -->
+ - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
