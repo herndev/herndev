@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best D&amp;D gift ideas for fans, players, and Dungeon Masters](https://www.polygon.com/deals/23464569/best-dnd-gifts-dungeons-dragons-dice-miniatures-campaigns-novels-cookbook)
- - [SpongeBob and Skyrim are coming to Fall Guys](https://www.polygon.com/23466560/fall-guys-season-3-sunken-secrets-spongebob-squarepants-skyrim)
- - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)<!-- GAME:END -->
+ - [How to get the nuke in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to)
+ - [Nintendo DMCAs third-party Steam image site, users upload even more artwork in response](https://www.pcgamer.com/nintendo-dmcas-third-party-steam-image-site-users-upload-even-more-artwork-in-response)
+ - [Our best advice around Black Friday is to remember you don&#39;t HAVE to buy anything](https://www.pcgamer.com/our-best-advice-around-black-friday-is-to-remember-you-dont-have-to-buy-anything)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
