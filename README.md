@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You will pay for that human](http://9gag.com/gag/a2KrwAD)
- - ⏩ [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - 👉 [I am the speed!](http://9gag.com/gag/agoL1Bn)<!-- MEMES:END -->
+ - 💣 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - ⏩ [I am the speed!](http://9gag.com/gag/agoL1Bn)
+ - 👉 [The path to Harihar fort, India](http://9gag.com/gag/aYVxE02)<!-- MEMES:END -->
 
 ---
 
