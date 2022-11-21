@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai wants to help you put solar and batteries in your home](https://www.theverge.com/2022/11/21/23470888/hyundai-home-solar-energy-battery-products)
- - [Black Friday sales on Sonos soundbars are live at Best Buy](https://www.theverge.com/2022/11/21/23464338/black-friday-sonos-soundbar-speaker-best-buy-deal-sale)
- - [In a tweet reply, Elon Musk says Alex Jones will not be unbanned as he has &quot;no mercy for anyone who would use the deaths of children for gain, politics or fame&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/221121/p10#a221121p10)<!-- TECH:END -->
+ - [The best Samsung Galaxy Tab deals of the Black Friday sales](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
+ - [Mass tech layoffs leave hundreds of H-1B visa holders scrambling for new jobs to stay in the US; Amazon, Meta, and others sponsored 45K+ in the last three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/221121/p11#a221121p11)
+ - [Facebook is making teens’ accounts more private by default](https://www.theverge.com/2022/11/21/23470862/facebook-teen-accounts-privacy-default-age)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
