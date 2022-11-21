@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [It&#39;s Mass Effect&#39;s 15th birthday so the original pitch document is doing the rounds again](https://www.pcgamer.com/its-mass-effects-15th-birthday-so-the-original-pitch-document-is-doing-the-rounds-again)
- - [It&#39;s 2022 And Broforce Is Coming Back, Baby](https://kotaku.com/broforce-forever-indie-80s-platformer-metal-slug-pc-1849806934)
- - [Julius Caesar comes to Civilization 6 for free](https://www.pcgamer.com/julius-caesar-comes-to-civilization-6-for-free)<!-- GAME:END -->
+ - [Devs are admitting their &#39;sins&#39; on Twitter, and there sure are a lot who hid Loss in games](https://www.pcgamer.com/devs-are-admitting-their-sins-on-twitter-and-there-sure-are-a-lot-who-hid-loss-in-games)
+ - [Five new Steam games you probably missed &lpar;November 21, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-21-2022)
+ - [It&#39;s Mass Effect&#39;s 15th birthday so the original pitch document is doing the rounds again](https://www.pcgamer.com/its-mass-effects-15th-birthday-so-the-original-pitch-document-is-doing-the-rounds-again)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
