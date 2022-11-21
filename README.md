@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Monday, November 21](https://www.pcgamer.com/wordle-520-answer-november-21)
- - [Five reasons Nreal&#39;s Air Glasses are the ultimate Steam Deck companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)
- - [MSI&#39;s going all in this Black Friday—up to 35% off their gaming laptops and more](https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more)<!-- GAME:END -->
+ - [SpongeBob and Skyrim are coming to Fall Guys](https://www.polygon.com/23466560/fall-guys-season-3-sunken-secrets-spongebob-squarepants-skyrim)
+ - [Overwatch 2 won&#39;t remove Tracer despite damage bug because she kinda sucks without it](https://www.pcgamer.com/overwatch-2-wont-remove-tracer-despite-damage-bug-because-she-kinda-sucks-without-it)
+ - [Postal 3 has been taken off sale after 11 years, and Postal&#39;s original devs are thrilled](https://www.pcgamer.com/postal-3-has-been-taken-off-sale-after-11-years-and-postals-original-devs-are-thrilled)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
