@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She\u2019s definitely not happy](http://9gag.com/gag/aPgBm6G)
- - ⏩ [What a deception...](http://9gag.com/gag/ajVX92p)
- - 👉 [Overpowered lightsaber technique](http://9gag.com/gag/aA0dQw2)<!-- MEMES:END -->
+ - 💣 [The Chip](http://9gag.com/gag/aPgBYMK)
+ - ⏩ [No Eye Contact](http://9gag.com/gag/a4obnXA)
+ - 👉 [Julia Prochorov, the girl supporting Russia from Germany, provoking Ukrainians by loud Russian music and encouraging Russians in Europe to waste energies to support the war, has been deported from Germany as she was there illegally - source in the comments](http://9gag.com/gag/amAY129)<!-- MEMES:END -->
 
 ---
 
