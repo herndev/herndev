@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)
- - ⏩ [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - 👉 [Gentleman](http://9gag.com/gag/a8qyqzV)<!-- MEMES:END -->
+ - 💣 [Now the legendary Rubik&#39;s Cube is easy to understand](http://9gag.com/gag/aqebnYv)
+ - ⏩ [Ninja man!](http://9gag.com/gag/a7qrqxm)
+ - 👉 [These three together..... Seems fitting....](http://9gag.com/gag/a5XbQ7O)<!-- MEMES:END -->
 
 ---
 
