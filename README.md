@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
- - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
- - [Sonic Frontiers buries its great ideas under soul-crushing design flaws](https://www.theverge.com/23471283/sonic-frontiers-review-sega-platforming)<!-- TECH:END -->
+ - [Ubisoft is back to releasing games on Steam, including Assassin’s Creed Valhalla](https://www.theverge.com/2022/11/21/23471589/ubisoft-return-steam-2022-assassins-creed-valhalla)
+ - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)
+ - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
