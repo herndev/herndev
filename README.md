@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get the nuke in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-nuke-how-to)
- - [Nintendo DMCAs third-party Steam image site, users upload even more artwork in response](https://www.pcgamer.com/nintendo-dmcas-third-party-steam-image-site-users-upload-even-more-artwork-in-response)
- - [Our best advice around Black Friday is to remember you don&#39;t HAVE to buy anything](https://www.pcgamer.com/our-best-advice-around-black-friday-is-to-remember-you-dont-have-to-buy-anything)<!-- GAME:END -->
+ - [Twitch Star Gets ‘Cracker Pass&#39; From Wheat Thins After Getting Banned For Saying It](https://kotaku.com/hasan-hasanabi-piker-wheat-thins-cracker-twitch-ban-pas-1849807890)
+ - [Mario Kart 8 Deluxe’s Latest DLC Is Loaded With Classic Courses](https://kotaku.com/mario-kart-8-switch-dlc-maple-treeway-3ds-rainbow-road-1849807829)
+ - [After 35 years painting minis, Chris Clayton wins it all at the UK Golden Demon 2022](https://www.polygon.com/tabletop-games/23460418/golden-demon-slayer-sword-winner-uk-2022-interview-chris-clayton-build-photographs-details-basing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
