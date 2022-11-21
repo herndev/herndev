@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Evil West’s Doom-like combat can’t save its middling wild west tale](https://www.polygon.com/reviews/23470857/evil-west-review-release-date-pc-ps5-xbox-series-x-doom-2016)
- - [Cyberpunk 2077 dips into white collar crime with this working stock market and news mod](https://www.pcgamer.com/cyberpunk-2077-dips-into-white-collar-crime-with-this-working-stock-market-and-news-mod)
- - [Warzone 2.0 Players Think They’re Being Killed By Invisible Foes](https://kotaku.com/call-duty-warzone-2-0-invisibility-glitch-bug-exploit-1849808757)<!-- GAME:END -->
+ - [New Vampire Horror Evil West: A Modern PS2 Action Game, In All The Best Ways](https://kotaku.com/evil-west-vampires-western-horror-shooter-review-1849809221)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)
+ - [Evil West review](https://www.pcgamer.com/evil-west-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
