@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - ⏩ [Jump rope competition](http://9gag.com/gag/axoVBb2)
- - 👉 [You know the women who harassed UA refugee in Germany. What goes around comes around](http://9gag.com/gag/aBdWnMz)<!-- MEMES:END -->
+ - 💣 [ShakaBOOM!](http://9gag.com/gag/aZDmy56)
+ - ⏩ [Creeping up](http://9gag.com/gag/a3Zq1Qr)
+ - 👉 [Yes](http://9gag.com/gag/a1Pbrzb)<!-- MEMES:END -->
 
 ---
 
