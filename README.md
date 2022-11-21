@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Chip](http://9gag.com/gag/aPgBYMK)
- - ⏩ [Bros bangin](http://9gag.com/gag/amAYoAV)
- - 👉 [Said Zakayev aka `\u041c\u0430\u043b\u043e\u0439` from Grozniy, Russia, confirmed KIA. He took part in Russian invasion of Ukraine starting from 2014. Photo is him with Ukrainian activist from Yasynuvata, Iryna Dovgan&#39;. She was kidnapped and then moved to Donetsk where was publicly mocked and tortured.](http://9gag.com/gag/awZngKD)<!-- MEMES:END -->
+ - 💣 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
+ - ⏩ [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
+ - 👉 [Wtf.](http://9gag.com/gag/az285Vm)<!-- MEMES:END -->
 
 ---
 
