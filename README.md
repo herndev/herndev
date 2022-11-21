@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SUV crashes through Apple Store, kills one, injures many more [u]](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
- - [Razer Black Friday deals: Our top picks for saving a bundle on gaming gear](https://www.androidauthority.com/razer-black-friday-2021-3061754/)
- - [Black Friday Sonos deals: save 20% on popular soundbars &amp; speakers](https://appleinsider.com/articles/22/11/20/black-friday-sonos-deals-save-20-on-popular-soundbars-speakers?utm_medium=rss)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
+ - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)
+ - [Sonic Frontiers buries its great ideas under soul-crushing design flaws](https://www.theverge.com/23471283/sonic-frontiers-review-sega-platforming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
