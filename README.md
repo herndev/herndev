@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Chip](http://9gag.com/gag/aPgBYMK)
- - ⏩ [No Eye Contact](http://9gag.com/gag/a4obnXA)
- - 👉 [Julia Prochorov, the girl supporting Russia from Germany, provoking Ukrainians by loud Russian music and encouraging Russians in Europe to waste energies to support the war, has been deported from Germany as she was there illegally - source in the comments](http://9gag.com/gag/amAY129)<!-- MEMES:END -->
+ - 💣 [Toxic femininity in 3...2...1...](http://9gag.com/gag/anzb54V)
+ - ⏩ [Kanye West is back on Twitter! And here is his first tweet...](http://9gag.com/gag/a3ZqGxr)
+ - 👉 [Paul never forgive him.](http://9gag.com/gag/a5Xb6RN)<!-- MEMES:END -->
 
 ---
 
