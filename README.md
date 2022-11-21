@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toxic femininity in 3...2...1...](http://9gag.com/gag/anzb54V)
- - ⏩ [Kanye West is back on Twitter! And here is his first tweet...](http://9gag.com/gag/a3ZqGxr)
- - 👉 [Paul never forgive him.](http://9gag.com/gag/a5Xb6RN)<!-- MEMES:END -->
+ - 💣 [You will pay for that human](http://9gag.com/gag/a2KrwAD)
+ - ⏩ [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
+ - 👉 [I am the speed!](http://9gag.com/gag/agoL1Bn)<!-- MEMES:END -->
 
 ---
 
