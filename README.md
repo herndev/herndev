@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)
- - [Samsung Galaxy S20 FE finally gets stable One UI 5 update](https://www.androidauthority.com/samsung-galaxy-s20-fe-update-1186657/)
- - [Daily Authority: 🎮 Skip this Android handheld](https://www.androidauthority.com/daily-authority-november-21-2022-3235869/)<!-- TECH:END -->
+ - [An interview with Brian Armstrong on crypto and economic freedom, Coinbase&#39;s &quot;no politics in the workplace&quot; policy, the crypto downturn, regulation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221121/p1#a221121p1)
+ - [The best open ear headphones to spend your money on](https://www.androidauthority.com/best-open-ear-headphones-3229259/)
+ - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
