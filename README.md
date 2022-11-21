@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Did an NFL linebacker really give up football for Pokémon cards?](https://www.polygon.com/pokemon/23471530/blake-martinez-pokemon-card-sold-auction-retirement-nfl)
- - [Try These Powerful Pokémon Scarlet And Violet Recipes To Boost Your Stats](https://kotaku.com/pokemon-scarlet-violet-sandwich-guide-recipes-picnic-1849809469)
- - [Magic: The Gathering&#39;s Jumpstart 2022 set includes a theme to embiggen the smallest man](https://www.pcgamer.com/magic-the-gatherings-jumpstart-2022-set-includes-a-theme-to-embiggen-the-smallest-man)<!-- GAME:END -->
+ - [Rick And Morty Creator&#39;s New Game Is Best Played Stoned](https://kotaku.com/high-on-life-rick-and-morty-game-hands-on-preview-1849810005)
+ - [Marvel’s Blade has found its new director, and it’s a good pick](https://www.polygon.com/23471979/blade-marvel-mcu-movie-director-yann-demange-mahershala-ali)
+ - [Ubisoft Back On Steam Just In Time For Assassin’s Creed Valhalla&#39;s Final Update](https://kotaku.com/ubisoft-connect-steam-assassin-s-creed-valhalla-1849809946)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
