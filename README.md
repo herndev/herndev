@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [iCloud for Windows users see corrupted iPhone videos with mystery images](https://appleinsider.com/articles/22/11/21/icloud-for-windows-users-see-corrupted-iphone-videos-with-mystery-images?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals you can already get at Amazon](https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
+ - [Elon Musk says Twitter is done with layoffs and now hiring](https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs)
+ - [Sources: Genesis is struggling to raise funding for its lending unit and warns potential investors that it may need to file for bankruptcy if its efforts fail &lpar;Bloomberg&rpar;](http://www.techmeme.com/221121/p16#a221121p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
