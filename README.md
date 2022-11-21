@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [ShakaBOOM!](http://9gag.com/gag/aZDmy56)
- - ⏩ [Dog catch](http://9gag.com/gag/awZnzOy)
- - 👉 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)<!-- MEMES:END -->
+ - 💣 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - ⏩ [What ?](http://9gag.com/gag/aoK1g82)
+ - 👉 [He was a little disappointed](http://9gag.com/gag/aA0d0r0)<!-- MEMES:END -->
 
 ---
 
