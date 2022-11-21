@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Blue... NO!](http://9gag.com/gag/aqeb2oY)
- - ⏩ [You know what name I have in mind.](http://9gag.com/gag/aOxd6A3)
- - 👉 [Let&#39;s collect the best of sponsor shaming for 2022 World Cup](http://9gag.com/gag/aREmVgG)<!-- MEMES:END -->
+ - 💣 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)
+ - ⏩ [Inside qatar football camps](http://9gag.com/gag/ay2DMN8)
+ - 👉 [Found again this evil idea while cleaning the archive](http://9gag.com/gag/amAYgoj)<!-- MEMES:END -->
 
 ---
 
