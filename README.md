@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [ShakaBOOM!](http://9gag.com/gag/aZDmy56)
- - ⏩ [Creeping up](http://9gag.com/gag/a3Zq1Qr)
- - 👉 [Yes](http://9gag.com/gag/a1Pbrzb)<!-- MEMES:END -->
+ - ⏩ [Dog catch](http://9gag.com/gag/awZnzOy)
+ - 👉 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)<!-- MEMES:END -->
 
 ---
 
