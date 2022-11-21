@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Time’s up: the leap second is being scrapped](https://www.theverge.com/2022/11/21/23470759/leap-second-scrapped-2035-time-computer-chaos)
- - [Your Google Searches Are Quietly Evolving. Here’s What’s Next](https://www.wired.com/story/google-search-shopping-ads-malware-trends/)
- - [The 7 Best Luxury Gifts &lpar;2022&rpar;: Devialet, Prada, Rimowa, Urwerk](https://www.wired.com/gallery/best-luxury-gifts/)<!-- TECH:END -->
+ - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
+ - [Countdown to Black Friday deals Nov. 21: $199 AirPods Pro Gen 2, 23% off MagSafe Charger, $250 off Bose Soundbar 700, more](https://appleinsider.com/articles/22/11/21/countdown-to-black-friday-deals-nov-21-199-airpods-pro-gen-2-23-off-magsafe-charger-250-off-bose-soundbar-700-more?utm_medium=rss)
+ - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
