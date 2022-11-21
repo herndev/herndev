@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Newly Revealed 1,000th Pokémon Looks Like An Apple Jacks Mascot Turned Crypto Bro](https://kotaku.com/pokemon-scarlet-violet-dex-gimmighoul-gholdengo-evo-1849803437)
- - [This Modern Warfare 2 &#39;pacifist&#39; player hit max level with zero kills. How&#39;d he do it? By only playing the objective](https://www.pcgamer.com/this-modern-warfare-2-pacifist-player-hit-max-level-with-zero-kills-howd-he-do-it-by-only-playing-the-objective)
- - [Teenage Mad Lad Immediately Leaves After Crushing Street Fighter V Tourney](https://kotaku.com/street-fighter-5-ufa-tournament-endingwalker-champion-1849803378)<!-- GAME:END -->
+ - [Jason David Frank, The Green Ranger, Has Died](https://kotaku.com/power-rangers-green-ranger-jason-david-frank-died-rip-1849806833)
+ - [There are altogether too many eyeballs in this Darkest Dungeon 2 update](https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update)
+ - [Do some sci-fi dungeoneering in the open beta of Endless Dungeon](https://www.pcgamer.com/do-some-sci-fi-dungeoneering-in-the-open-beta-of-endless-dungeon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
