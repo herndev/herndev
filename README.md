@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let me entertain you](http://9gag.com/gag/agoLX01)
- - ⏩ [Teach us your wisdom, master](http://9gag.com/gag/amAYY34)
- - 👉 [Fentanyl lethal dose size. This stuff is scary.](http://9gag.com/gag/aDYW1ex)<!-- MEMES:END -->
+ - 💣 [So you\u2019re a software engineer?](http://9gag.com/gag/agoLLyw)
+ - ⏩ [Toxic femininity in 3...2...1...](http://9gag.com/gag/anzb54V)
+ - 👉 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)<!-- MEMES:END -->
 
 ---
 
