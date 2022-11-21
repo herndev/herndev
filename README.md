@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was all part of his plan](http://9gag.com/gag/aOxzQz3)
- - ⏩ [Gentleman](http://9gag.com/gag/a8qyqzV)
- - 👉 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)<!-- MEMES:END -->
+ - 💣 [Richard Hammond explains what he experienced during his coma after his 310mph jet car crash.](http://9gag.com/gag/aoK1KNA)
+ - ⏩ [Netflix be like, we need a black Naruto live action movie](http://9gag.com/gag/aQE9zvw)
+ - 👉 [Dilemma](http://9gag.com/gag/a9qrym1)<!-- MEMES:END -->
 
 ---
 
