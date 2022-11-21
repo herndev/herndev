@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
- - ⏩ [Happened many times before and always ends in lawsuits](http://9gag.com/gag/aREmBDM)
- - 👉 [Wtf.](http://9gag.com/gag/az285Vm)<!-- MEMES:END -->
+ - 💣 [Wtf.](http://9gag.com/gag/az285Vm)
+ - ⏩ [What a deception...](http://9gag.com/gag/ajVX92p)
+ - 👉 [Overpowered lightsaber technique](http://9gag.com/gag/aA0dQw2)<!-- MEMES:END -->
 
 ---
 
