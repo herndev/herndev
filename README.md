@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chief Engineer testing seat quality on vehicle plane](http://9gag.com/gag/a9qrqo0)
- - ⏩ [My biography](http://9gag.com/gag/aPgBg9g)
- - 👉 [Richard Hammond explains what he experienced during his coma after his 310mph jet car crash.](http://9gag.com/gag/aoK1KNA)<!-- MEMES:END -->
+ - 💣 [Ninja man!](http://9gag.com/gag/a7qrqxm)
+ - ⏩ [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)
+ - 👉 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)<!-- MEMES:END -->
 
 ---
 
