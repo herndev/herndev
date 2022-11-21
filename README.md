@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ubisoft is back to releasing games on Steam, including Assassin’s Creed Valhalla](https://www.theverge.com/2022/11/21/23471589/ubisoft-return-steam-2022-assassins-creed-valhalla)
- - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)
- - [SUV crashes through Apple Store, kills one, injures many more](https://appleinsider.com/articles/22/11/21/suv-crashes-through-apple-store-at-least-five-injured?utm_medium=rss)<!-- TECH:END -->
+ - [LG’s 27-inch OLED gaming monitor does 240Hz and costs $1,000](https://www.theverge.com/2022/11/21/23471064/lg-oled-gaming-monitor-27-inch-qhd-1440p-price-features)
+ - [Autonomous Vehicles Join the List of US National Security Threats](https://www.wired.com/story/autonomous-vehicles-china-us-national-security/)
+ - [What should you watch after the Walking Dead series finale?](https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
