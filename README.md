@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Samsung Galaxy Tab deals of the Black Friday sales](https://www.androidauthority.com/best-cheap-samsung-galaxy-tab-deals-1119065/)
- - [Mass tech layoffs leave hundreds of H-1B visa holders scrambling for new jobs to stay in the US; Amazon, Meta, and others sponsored 45K+ in the last three years &lpar;Bloomberg&rpar;](http://www.techmeme.com/221121/p11#a221121p11)
- - [Facebook is making teens’ accounts more private by default](https://www.theverge.com/2022/11/21/23470862/facebook-teen-accounts-privacy-default-age)<!-- TECH:END -->
+ - [Twitter reinstates the accounts of Ye, Project Veritas, and others, despite Musk&#39;s pledge to delay such decisions until forming a content moderation council &lpar;Ryan Lovelace/Washington Times&rpar;](http://www.techmeme.com/221121/p12#a221121p12)
+ - [JP Morgan lowers AAPL target to $151 as iPhone 14 Pro lead times increase](https://appleinsider.com/articles/22/11/21/jp-morgan-lowers-aapl-target-to-151-as-iphone-14-pro-lead-times-increase?utm_medium=rss)
+ - [Corellium&#39;s iOS security tool used by rogue&#39;s gallery of iPhone hacking](https://appleinsider.com/articles/22/11/21/corelliums-ios-security-tool-used-by-rogues-gallery-of-iphone-hacking?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
