@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Twitch Star Gets ‘Cracker Pass&#39; From Wheat Thins After Getting Banned For Saying It](https://kotaku.com/hasan-hasanabi-piker-wheat-thins-cracker-twitch-ban-pas-1849807890)
- - [Mario Kart 8 Deluxe’s Latest DLC Is Loaded With Classic Courses](https://kotaku.com/mario-kart-8-switch-dlc-maple-treeway-3ds-rainbow-road-1849807829)
- - [After 35 years painting minis, Chris Clayton wins it all at the UK Golden Demon 2022](https://www.polygon.com/tabletop-games/23460418/golden-demon-slayer-sword-winner-uk-2022-interview-chris-clayton-build-photographs-details-basing)<!-- GAME:END -->
+ - [This Pokémon Scarlet And Violet Glitch Seems Made For Speedrun Exploitation](https://kotaku.com/pokemon-scarlet-violet-glitch-speedrun-joycon-exploit-1849808299)
+ - [Team Ninja boss seemingly confirms Ninja Gaiden and Dead or Alive reboots in slide presentation](https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation)
+ - [Can Disney’s shock CEO switch get Marvel, Star Wars, and Pixar back on track?](https://www.polygon.com/23470682/disney-bob-iger-ceo-chapek-pixar-marvel-star-wars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
