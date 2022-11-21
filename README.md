@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
- - ⏩ [Math teacher](http://9gag.com/gag/a3Zq5zQ)
- - 👉 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
+ - 💣 [Who did it better](http://9gag.com/gag/aeQb1bp)
+ - ⏩ [Never again](http://9gag.com/gag/a6qbXAq)
+ - 👉 [Why? Because we f* can](http://9gag.com/gag/ajVXOZx)<!-- MEMES:END -->
 
 ---
 
