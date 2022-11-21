@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hyundai’s Ioniq 6 electric streamliner makes its US debut, revealing 340-mile range](https://www.theverge.com/2022/11/18/23466094/hyundai-ioniq-6-us-debut-laas-range-features-ev)
- - [NASA Will Not Change the James Webb Telescope’s Name](https://www.wired.com/story/nasa-will-not-change-the-james-webb-telescopes-name/)
- - [Apple&#39;s plan to use TSMC plants in the US and possibly Europe, a PR victory, buries the truth: capacity will be tiny and the chips will use an older 5nm process &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/221118/p16#a221118p16)<!-- TECH:END -->
+ - [Kite, a startup that used AI to help devs code, shuts down, saying state-of-the-art ML models don&#39;t understand the structure of code and too few devs would pay &lpar;Adam Smith/Code Faster with Kite&rpar;](http://www.techmeme.com/221120/p11#a221120p11)
+ - [How to use invisible files in macOS](https://appleinsider.com/articles/22/11/20/how-to-use-invisible-files-in-macos?utm_medium=rss)
+ - [These very rare Sonos deals just dropped for Black Friday](https://www.androidauthority.com/sonos-black-friday-sale-3238088/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
