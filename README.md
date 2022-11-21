@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s 27-inch OLED gaming monitor does 240Hz and costs $1,000](https://www.theverge.com/2022/11/21/23471064/lg-oled-gaming-monitor-27-inch-qhd-1440p-price-features)
- - [Autonomous Vehicles Join the List of US National Security Threats](https://www.wired.com/story/autonomous-vehicles-china-us-national-security/)
- - [What should you watch after the Walking Dead series finale?](https://www.androidauthority.com/shows-like-the-walking-dead-series-finale-amc-3236273/)<!-- TECH:END -->
+ - [Where to buy refurbished products](https://www.theverge.com/21530290/refurbished-tech-products-gadgets-where-to-buy-amazon-ebay)
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [iCloud for Windows users see corrupted iPhone videos with mystery images](https://appleinsider.com/articles/22/11/21/icloud-for-windows-users-see-corrupted-iphone-videos-with-mystery-images?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
