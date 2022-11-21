@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Superliminal Comes to Xbox Series X November 21st, Free for Existing Owners](https://news.xbox.com/en-us/2022/11/21/superliminal-comes-to-xbox-series-x-november-21st-free-for-existing-owners/)
- - [Wild Hearts Karakuri: Mastering an Ancient Technology](https://news.xbox.com/en-us/2022/11/21/wild-hearts-karakuri-mastering-an-ancient-technology/)
- - [A word of caution on the new D&amp;D campaign, Dragonlance: Shadow of the Dragon Queen](https://www.polygon.com/23466257/dnd-dragonlance-campaign-board-game-preview-guide)<!-- GAME:END -->
+ - [Evil West’s Doom-like combat can’t save its middling wild west tale](https://www.polygon.com/reviews/23470857/evil-west-review-release-date-pc-ps5-xbox-series-x-doom-2016)
+ - [Cyberpunk 2077 dips into white collar crime with this working stock market and news mod](https://www.pcgamer.com/cyberpunk-2077-dips-into-white-collar-crime-with-this-working-stock-market-and-news-mod)
+ - [Warzone 2.0 Players Think They’re Being Killed By Invisible Foes](https://kotaku.com/call-duty-warzone-2-0-invisibility-glitch-bug-exploit-1849808757)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
