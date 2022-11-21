@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
- - ⏩ [What ?](http://9gag.com/gag/aoK1g82)
- - 👉 [He was a little disappointed](http://9gag.com/gag/aA0d0r0)<!-- MEMES:END -->
+ - 💣 [Let me entertain you](http://9gag.com/gag/agoLX01)
+ - ⏩ [Teach us your wisdom, master](http://9gag.com/gag/amAYY34)
+ - 👉 [Fentanyl lethal dose size. This stuff is scary.](http://9gag.com/gag/aDYW1ex)<!-- MEMES:END -->
 
 ---
 
