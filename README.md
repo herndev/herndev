@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
- - [Countdown to Black Friday deals Nov. 21: $199 AirPods Pro Gen 2, 23% off MagSafe Charger, $250 off Bose Soundbar 700, more](https://appleinsider.com/articles/22/11/21/countdown-to-black-friday-deals-nov-21-199-airpods-pro-gen-2-23-off-magsafe-charger-250-off-bose-soundbar-700-more?utm_medium=rss)
- - [An offshore workforce is training Amazon’s warehouse-monitoring algorithms](https://www.theverge.com/2022/11/21/23466219/amazon-warehouse-surveillance-camera-offshore-workers-india-costa-rica)<!-- TECH:END -->
+ - [Hyundai wants to help you put solar and batteries in your home](https://www.theverge.com/2022/11/21/23470888/hyundai-home-solar-energy-battery-products)
+ - [Black Friday sales on Sonos soundbars are live at Best Buy](https://www.theverge.com/2022/11/21/23464338/black-friday-sonos-soundbar-speaker-best-buy-deal-sale)
+ - [In a tweet reply, Elon Musk says Alex Jones will not be unbanned as he has &quot;no mercy for anyone who would use the deaths of children for gain, politics or fame&quot; &lpar;Matt Novak/Gizmodo&rpar;](http://www.techmeme.com/221121/p10#a221121p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
