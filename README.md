@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kite, a startup that used AI to help devs code, shuts down, saying state-of-the-art ML models don&#39;t understand the structure of code and too few devs would pay &lpar;Adam Smith/Code Faster with Kite&rpar;](http://www.techmeme.com/221120/p11#a221120p11)
- - [How to use invisible files in macOS](https://appleinsider.com/articles/22/11/20/how-to-use-invisible-files-in-macos?utm_medium=rss)
- - [These very rare Sonos deals just dropped for Black Friday](https://www.androidauthority.com/sonos-black-friday-sale-3238088/)<!-- TECH:END -->
+ - [&#39;Rick and Morty&#39; Season 6: When Does the Next Episode Come Out?     - CNET](https://www.cnet.com/culture/entertainment/rick-and-morty-season-6-when-does-the-next-episode-come-out/#ftag=CAD590a51e)
+ - [Kanye West Returns to Twitter After Elon Musk Brings Trump Back     - CNET](https://www.cnet.com/culture/kanye-west-returns-to-twitter-after-elon-musk-brings-trump-back/#ftag=CAD590a51e)
+ - [When Is the &#39;Andor&#39; Season Finale Released on Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/when-is-the-andor-season-finale-released-on-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
