@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)
- - ⏩ [I am the speed!](http://9gag.com/gag/agoL1Bn)
- - 👉 [The path to Harihar fort, India](http://9gag.com/gag/aYVxE02)<!-- MEMES:END -->
+ - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
+ - ⏩ [Math teacher](http://9gag.com/gag/a3Zq5zQ)
+ - 👉 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
 
 ---
 
