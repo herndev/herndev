@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ninja man!](http://9gag.com/gag/a7qrqxm)
- - ⏩ [Babe, I swear it\u2019s for your skin, just let me. C\u2019mon, please!](http://9gag.com/gag/aDYWg2B)
- - 👉 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)<!-- MEMES:END -->
+ - 💣 [Carbon credits is plain extortion. i cant wait ro taste their choclate.](http://9gag.com/gag/a3ZqZe5)
+ - ⏩ [Pumpkin Spice Latte out. Chicken wings in.](http://9gag.com/gag/awZnAZB)
+ - 👉 [Gentleman](http://9gag.com/gag/a8qyqzV)<!-- MEMES:END -->
 
 ---
 
