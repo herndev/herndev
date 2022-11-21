@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)
- - [Bob Iger Is Back as Disney CEO After 2 Years     - CNET](https://www.cnet.com/culture/entertainment/bob-iger-is-back-as-disney-ceo-after-2-years/#ftag=CAD590a51e)
- - [The Walt Disney Company&#39;s board announces that Bob Chapek will step down as CEO, and Bob Iger will return to take his place, effective immediately &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221120/p13#a221120p13)<!-- TECH:END -->
+ - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
+ - [Mark Cuban&#39;s Cost Plus Drugs Offers Prescription Medications at Huge Discounts     - CNET](https://www.cnet.com/science/biology/mark-cubans-cost-plus-drugs-offers-prescription-medications-at-huge-discounts/#ftag=CAD590a51e)
+ - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
