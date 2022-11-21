@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with Brian Armstrong on crypto and economic freedom, Coinbase&#39;s &quot;no politics in the workplace&quot; policy, the crypto downturn, regulation, and more &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221121/p1#a221121p1)
- - [The best open ear headphones to spend your money on](https://www.androidauthority.com/best-open-ear-headphones-3229259/)
- - [Monday’s top tech news: Don’t call it a comeback](https://www.theverge.com/2022/11/21/23470653/november-21-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [A look at things journalism could lose if Twitter dies: real-time feedback on stories, news outlets being publicly called out, DMs as a reporting tool, and more &lpar;Laura Hazard Owen/Nieman Lab&rpar;](http://www.techmeme.com/221121/p4#a221121p4)
+ - [These vibrating LG Display panels turn car dashboards and headrests into speakers](https://www.theverge.com/2022/11/21/23470667/lg-display-vibrating-car-speaker-audio-ces)
+ - [Crypto prices sink, with bitcoin dropping ~4% and ether ~7%, dragged down by the ongoing FTX saga, potential contagion, and the FTX hacker offloading ether &lpar;Sunil Jagtiani/Bloomberg&rpar;](http://www.techmeme.com/221121/p3#a221121p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
