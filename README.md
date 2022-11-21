@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Monday, November 21](https://www.pcgamer.com/wordle-520-answer-november-21)
  - [Five reasons Nreal&#39;s Air Glasses are the ultimate Steam Deck companion](https://www.pcgamer.com/five-reasons-nreals-air-glasses-are-the-ultimate-steam-deck-companion)
- - [MSI&#39;s going all in this Black Friday—up to 35% off their gaming laptops and more](https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more)
- - [Devs are admitting their &#39;sins&#39; on Twitter, and there sure are a lot who hid Loss in games](https://www.pcgamer.com/devs-are-admitting-their-sins-on-twitter-and-there-sure-are-a-lot-who-hid-loss-in-games)<!-- GAME:END -->
+ - [MSI&#39;s going all in this Black Friday—up to 35% off their gaming laptops and more](https://www.pcgamer.com/msis-going-all-in-this-black-fridayup-to-35-off-their-gaming-laptops-and-more)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
