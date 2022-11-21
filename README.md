@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Jason David Frank, The Green Ranger, Has Died](https://kotaku.com/power-rangers-green-ranger-jason-david-frank-died-rip-1849806833)
- - [There are altogether too many eyeballs in this Darkest Dungeon 2 update](https://www.pcgamer.com/there-are-altogether-too-many-eyeballs-in-this-darkest-dungeon-2-update)
- - [Do some sci-fi dungeoneering in the open beta of Endless Dungeon](https://www.pcgamer.com/do-some-sci-fi-dungeoneering-in-the-open-beta-of-endless-dungeon)<!-- GAME:END -->
+ - [It&#39;s Mass Effect&#39;s 15th birthday so the original pitch document is doing the rounds again](https://www.pcgamer.com/its-mass-effects-15th-birthday-so-the-original-pitch-document-is-doing-the-rounds-again)
+ - [It&#39;s 2022 And Broforce Is Coming Back, Baby](https://kotaku.com/broforce-forever-indie-80s-platformer-metal-slug-pc-1849806934)
+ - [Julius Caesar comes to Civilization 6 for free](https://www.pcgamer.com/julius-caesar-comes-to-civilization-6-for-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
