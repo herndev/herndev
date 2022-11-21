@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Bob Iger steps back in as Disney CEO, replacing Bob Chapek](https://www.theverge.com/2022/11/20/23470368/disney-ceo-bob-iger-in-bob-chapek-out)
- - [The Walt Disney Company&#39;s board announces that Bob Chapek will step down as CEO, and Bob Iger will return to take his place, effective immediately &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221120/p13#a221120p13)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [Bob Iger Is Back as Disney CEO After 2 Years     - CNET](https://www.cnet.com/culture/entertainment/bob-iger-is-back-as-disney-ceo-after-2-years/#ftag=CAD590a51e)
+ - [The Walt Disney Company&#39;s board announces that Bob Chapek will step down as CEO, and Bob Iger will return to take his place, effective immediately &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221120/p13#a221120p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
