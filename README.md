@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Pokémon Scarlet And Violet Glitch Seems Made For Speedrun Exploitation](https://kotaku.com/pokemon-scarlet-violet-glitch-speedrun-joycon-exploit-1849808299)
- - [Team Ninja boss seemingly confirms Ninja Gaiden and Dead or Alive reboots in slide presentation](https://www.pcgamer.com/team-ninja-boss-seemingly-confirms-ninja-gaiden-and-dead-or-alive-reboots-in-slide-presentation)
- - [Can Disney’s shock CEO switch get Marvel, Star Wars, and Pixar back on track?](https://www.polygon.com/23470682/disney-bob-iger-ceo-chapek-pixar-marvel-star-wars)<!-- GAME:END -->
+ - [Superliminal Comes to Xbox Series X November 21st, Free for Existing Owners](https://news.xbox.com/en-us/2022/11/21/superliminal-comes-to-xbox-series-x-november-21st-free-for-existing-owners/)
+ - [Wild Hearts Karakuri: Mastering an Ancient Technology](https://news.xbox.com/en-us/2022/11/21/wild-hearts-karakuri-mastering-an-ancient-technology/)
+ - [A word of caution on the new D&amp;D campaign, Dragonlance: Shadow of the Dragon Queen](https://www.polygon.com/23466257/dnd-dragonlance-campaign-board-game-preview-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
