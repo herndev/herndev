@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rick And Morty Creator&#39;s New Game Is Best Played Stoned](https://kotaku.com/high-on-life-rick-and-morty-game-hands-on-preview-1849810005)
- - [Marvel’s Blade has found its new director, and it’s a good pick](https://www.polygon.com/23471979/blade-marvel-mcu-movie-director-yann-demange-mahershala-ali)
- - [Ubisoft Back On Steam Just In Time For Assassin’s Creed Valhalla&#39;s Final Update](https://kotaku.com/ubisoft-connect-steam-assassin-s-creed-valhalla-1849809946)<!-- GAME:END -->
+ - [Harrison Ford is getting de-aged for Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)
+ - [The world&#39;s most stunning gaming laptop is $800 off for Black Friday](https://www.pcgamer.com/the-worlds-most-stunning-gaming-laptop-is-dollar800-off-for-black-friday)
+ - [My Favorite Bayonetta 3 Weapons Were Its Most Absurd Ones &lpar;Naturally&rpar;](https://kotaku.com/bayonetta-3-platinumgames-dead-end-express-switch-1849809951)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
