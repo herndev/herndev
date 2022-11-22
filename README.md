@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042 – Season 03: Escalation is Available Now for Xbox](https://news.xbox.com/en-us/2022/11/22/battlefield-2042-season-03-escalation-is-available-now-for-xbox/)
- - [All God of War Ragnarök Nornir Chests and puzzle solutions](https://www.polygon.com/god-of-war-ragnarok-guide/23433016/nornir-chest-locations-puzzle-solutions-svartalfheim-alfheim-health-rage)
- - [Nintendo&#39;s Latest DMCA Takedowns Are Over &lpar;Checks Notes&rpar; Fan-Created Steam Icons](https://kotaku.com/nintendo-steamgriddb-dmca-takedown-steam-icons-fan-art-1849813480)<!-- GAME:END -->
+ - [Title: Gungrave G.O.R.E Available Today with Xbox Game Pass](https://news.xbox.com/en-us/2022/11/22/title-gungrave-g-o-r-e-available-today-with-xbox-game-pass/)
+ - [God Of War Ragnarök Director ‘Would Love’ To Take A Swing At Castlevania](https://kotaku.com/god-of-war-ragnarok-director-dlc-castlevania-konami-1849813880)
+ - [The Week In Games: When The West Was Evil](https://kotaku.com/november-2022-game-releases-evil-west-ship-of-fools-1849813104)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
