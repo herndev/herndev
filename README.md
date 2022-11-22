@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fight for Your Faction in Sea of Thieves Season Eight](https://news.xbox.com/en-us/2022/11/22/fight-for-your-faction-in-sea-of-thieves-season-eight/)
- - [The 5 best party board games](https://www.polygon.com/23471659/best-party-games-board-games-large-groups)
- - [Fortnite crossover gives a taste of open world Rocket League—something Psyonix once considered](https://www.pcgamer.com/fortnite-crossover-gives-us-a-taste-of-open-world-rocket-leaguesomething-psyonix-once-considered)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s bugs are the funniest part of the game](https://www.polygon.com/pokemon/23471853/pokemon-scarlet-and-violet-glitches-funny-meme)
+ - [Marvel&#39;s Avengers Spokesperson Removed After Offensive Tweets Unearthed](https://kotaku.com/crystal-dynamics-marvels-avengers-tweets-twitter-1849811672)
+ - [Here&#39;s how to watch the 40th annual Golden Joystick Awards](https://www.pcgamer.com/heres-how-to-watch-the-40th-annual-golden-joystick-awards)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
