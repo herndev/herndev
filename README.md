@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
- - ⏩ [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)
- - 👉 [Mexicans in Qatar right now](http://9gag.com/gag/aDYWb9x)<!-- MEMES:END -->
+ - 💣 [It&#39;s Pretty Good Advice](http://9gag.com/gag/amAYx8V)
+ - ⏩ [90s](http://9gag.com/gag/aQE9vOz)
+ - 👉 [#OneLove!](http://9gag.com/gag/az285zp)<!-- MEMES:END -->
 
 ---
 
