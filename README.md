@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A Fool’s Deep Dive – Ship of Fools is Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/11/22/a-fools-deep-dive-ship-of-fools-is-now-available-for-xbox-series-xs/)
- - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)
- - [Top Gun: Maverick is finally coming to streaming soon](https://www.polygon.com/23473153/top-gun-maverick-streaming-paramount-plus-release-date-watch)<!-- GAME:END -->
+ - [Experience Autumn in Phantasy Star Online 2: New Genesis](https://news.xbox.com/en-us/2022/11/22/experience-autumn-in-phantasy-star-online-2-new-genesis/)
+ - [Bayonetta Creator Shares His Two Cents On Fan Outrage Over Bayonetta 3’s Ending](https://kotaku.com/bayonetta-3-hideki-kamiya-ending-fans-hate-sequel-viola-1849813267)
+ - [Dreams: Kicking off the 4th Annual Impy Awards](https://blog.playstation.com/2022/11/22/dreams-kicking-off-the-4th-annual-impy-awards%ef%bf%bc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
