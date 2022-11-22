@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Explore the Weird West](https://news.xbox.com/en-us/2022/11/22/explore-the-weird-west/)
- - [Former Tripwire CEO tells Tucker Carlson that cancel culture &#39;destroyed&#39; him](https://www.pcgamer.com/former-tripwire-ceo-tells-tucker-carlson-that-cancel-culture-destroyed-him)
- - [My tiny hands are all over the best 60% gaming keyboard in the Black Friday sales](https://www.pcgamer.com/my-tiny-hands-are-all-over-the-best-60-gaming-keyboard-in-the-black-friday-sales)<!-- GAME:END -->
+ - [Dive into Sunken Secrets in the Latest Season of Fall Guys](https://news.xbox.com/en-us/2022/11/22/dive-into-sunken-secrets-in-the-latest-season-of-fall-guys/)
+ - [EA Sports College Football won’t be out before 2024, says report](https://www.polygon.com/23473151/ea-sports-college-football-delayed-release-date-2024-ncaa)
+ - [Retro Andor Trailer Is Peak Star Wars Hype](https://kotaku.com/star-wars-andor-disney-plus-season-episode-12-retro-1849812283)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
