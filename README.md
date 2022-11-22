@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everytime im going through something I watch this. This guy is just pure strength.](http://9gag.com/gag/amAY6Y6)
- - ⏩ [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
- - 👉 [What is going on?](http://9gag.com/gag/aXnqN1b)<!-- MEMES:END -->
+ - 💣 [This fella](http://9gag.com/gag/avQG10Z)
+ - ⏩ [Suddenly silence around the world.](http://9gag.com/gag/aXnqVwD)
+ - 👉 [Food painting , Ratatouille](http://9gag.com/gag/az28P6m)<!-- MEMES:END -->
 
 ---
 
