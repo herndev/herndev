@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple changed how reading books works in iOS 16, and I may never be happy again](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
- - [Report: Amazon&#39;s hardware group may lose $10B in 2022, as many Echo devices are sold at cost and plans to monetize Alexa have failed &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221121/p19#a221121p19)
- - [iOS developers say Apple’s App Store analytics aren’t anonymous](https://www.theverge.com/2022/11/21/23471827/apple-app-store-data-collection-analytics-personal-info-privacy)<!-- TECH:END -->
+ - [Domino’s is building an all-electric pizza delivery fleet with Chevy Bolts](https://www.theverge.com/2022/11/21/23472002/dominos-chevy-bolt-ev-pizza-delivery-fleet-rollout)
+ - [Elon Musk holds relaunch of Blue Verified until &quot;there is high confidence of stopping impersonations&quot; and floats using different colors for orgs and individuals &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p21#a221121p21)
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
