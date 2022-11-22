@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When I opened the code of the dismissed programmer&rpar;&rpar;](http://9gag.com/gag/avQGy5Z)
- - ⏩ [Florida presents](http://9gag.com/gag/agoL8gg)
- - 👉 [\u2026.. How?](http://9gag.com/gag/aA0d42L)<!-- MEMES:END -->
+ - 💣 [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
+ - ⏩ [Miauuuw](http://9gag.com/gag/aGE1Mo0)
+ - 👉 [Title](http://9gag.com/gag/a4ob55w)<!-- MEMES:END -->
 
 ---
 
