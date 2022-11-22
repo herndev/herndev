@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look the tech being used at the 2022 FIFA World Cup, including player-tracking tech for offside decisions, algorithms to forecast crowd patterns, and more &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/221121/p22#a221121p22)
- - [Apple&#39;s iPad 9th Generation falls to $269 at Amazon for Black Friday](https://appleinsider.com/articles/22/11/22/apples-ipad-9th-generation-falls-to-269-at-amazon-for-black-friday?utm_medium=rss)
- - [Black Friday deal: Apple&#39;s Mac Studio falls to $1,799, 3 years of AppleCare $169](https://appleinsider.com/articles/22/11/22/black-friday-deal-apples-mac-studio-falls-to-2022s-best-1799-3-years-of-applecare-169?utm_medium=rss)<!-- TECH:END -->
+ - [Tumblr will add support for ActivityPub, the open and decentralized social networking protocol powering Mastodon, Instagram-like Pixelfed, PeerTube, and others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221121/p23#a221121p23)
+ - [A look at the tech being used at the 2022 FIFA World Cup, including player-tracking tech for offside decisions, algorithms to forecast crowd patterns, and more &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/221121/p22#a221121p22)
+ - [Apple&#39;s iPad 9th Generation falls to $269 at Amazon for Black Friday](https://appleinsider.com/articles/22/11/22/apples-ipad-9th-generation-falls-to-269-at-amazon-for-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
