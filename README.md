@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
- - [Dive into The Art of Horizon Forbidden West with Dark Horse Books](https://blog.playstation.com/2022/11/22/dive-into-the-art-of-horizon-forbidden-west-with-dark-horse-books/)
- - [Brace yourself, Steam&#39;s Black Friday discounts will kick off with today&#39;s autumn sale](https://www.pcgamer.com/brace-yourself-steams-black-friday-discounts-will-kick-off-with-todays-autumn-sale)<!-- GAME:END -->
+ - [Fight for Your Faction in Sea of Thieves Season Eight](https://news.xbox.com/en-us/2022/11/22/fight-for-your-faction-in-sea-of-thieves-season-eight/)
+ - [The 5 best party board games](https://www.polygon.com/23471659/best-party-games-board-games-large-groups)
+ - [Fortnite crossover gives a taste of open world Rocket League—something Psyonix once considered](https://www.pcgamer.com/fortnite-crossover-gives-us-a-taste-of-open-world-rocket-leaguesomething-psyonix-once-considered)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
