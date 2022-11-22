@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)
- - [An investigation reveals how online US sports betting grew so big, so fast and what the consequences are likely to be for public health, taxpayers, and others &lpar;David Enrich/New York Times&rpar;](http://www.techmeme.com/221122/p12#a221122p12)
- - [UK officially launches investigation over Apple &amp; Google&#39;s mobile browser dominance](https://appleinsider.com/articles/22/11/22/uk-officially-launches-investigation-over-apple-googles-mobile-browser-dominance?utm_medium=rss)<!-- TECH:END -->
+ - [DJI introduces new O3 Air FPV camera, starting at $229](https://www.theverge.com/2022/11/22/23472970/dji-o3-air-fpv-camera-drone-flight-goggles-announcement-price)
+ - [Trek FX+ 2 Review: The Complete Ebike Commuter Package](https://www.wired.com/review/trek-fx-2/)
+ - [Dell XPS 13 &lpar;2022&rpar; Review: Downgraded Performance, Keyboard, Infinity Edge](https://www.wired.com/review/review-dell-xps-13-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
