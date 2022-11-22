@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victims of hacked Facebook accounts say Meta&#39;s customer support is largely unhelpful; Meta has no new initiatives for helping people recover their accounts &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/221122/p2#a221122p2)
- - [We asked, you told us: Your phone definitely supports dual SIMs](https://www.androidauthority.com/dual-sim-support-smartphone-poll-results-3238621/)
- - [Xiaomi 13: Everything we know about Xiaomi’s next flagship &lpar;Updated: Nov. 22&rpar;](https://www.androidauthority.com/xiaomi-13-3222232/)<!-- TECH:END -->
+ - [Poll: Which phone brand do you most want in your country?](https://www.androidauthority.com/phone-brand-most-want-your-country-poll-3238632/)
+ - [Filings: FTX, Alameda, and other affiliates have $1.2B in cash reserves, below the $3.1B owed to the top 50 creditors; Alameda&#39;s reserves are largest at ~$393M &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/221122/p4#a221122p4)
+ - [Daily Authority: 🔓 Samsung’s terrible password trend](https://www.androidauthority.com/daily-authority-november-22-2022-3238309/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
