@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google sees these scams as the ones to look out for this holiday season](https://www.androidauthority.com/google-scam-messages-3239127/)
- - [The Race To Save Sam Bankman-Fried’s Other Crypto Exchange](https://www.wired.com/story/ftx-serum-crypto-exchange/)
- - [Asahi Linux for Apple Silicon has come a long way in a few months](https://appleinsider.com/articles/22/11/22/asahi-linux-for-apple-silicon-has-come-a-long-way-in-a-few-months?utm_medium=rss)<!-- TECH:END -->
+ - [California’s last operating nuclear plant just got a $1.1 billion lifeline](https://www.theverge.com/2022/11/22/23473116/diablo-canyon-nuclear-power-plant-california-energy-department-biden-funding)
+ - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
+ - [NASA’s Orion spacecraft makes close flyby of the Moon and heads on to orbit](https://www.theverge.com/2022/11/22/23473444/artemis-1-orion-flyby-moon)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
