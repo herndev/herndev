@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
- - ⏩ [Donde esta Mama?](http://9gag.com/gag/axoVvqW)
- - 👉 [Why? Because we f* can](http://9gag.com/gag/ajVXOZx)<!-- MEMES:END -->
+ - 💣 [Everytime im going through something I watch this. This guy is just pure strength.](http://9gag.com/gag/amAY6Y6)
+ - ⏩ [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
+ - 👉 [What is going on?](http://9gag.com/gag/aXnqN1b)<!-- MEMES:END -->
 
 ---
 
