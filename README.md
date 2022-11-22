@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026.. How?](http://9gag.com/gag/aA0d42L)
- - ⏩ [Take this, FIFA.](http://9gag.com/gag/ay2D168)
- - 👉 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)<!-- MEMES:END -->
+ - 💣 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
+ - ⏩ [Mexicans in Qatar right now](http://9gag.com/gag/aDYWb9x)
+ - 👉 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
 
 ---
 
