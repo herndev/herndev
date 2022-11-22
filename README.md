@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Domino’s is building an all-electric pizza delivery fleet with Chevy Bolts](https://www.theverge.com/2022/11/21/23472002/dominos-chevy-bolt-ev-pizza-delivery-fleet-rollout)
- - [Elon Musk holds relaunch of Blue Verified until &quot;there is high confidence of stopping impersonations&quot; and floats using different colors for orgs and individuals &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221121/p21#a221121p21)
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Twitter is making DMs encrypted and adding video, voice chat, per Elon Musk](https://www.theverge.com/2022/11/21/23472174/twitter-dms-encrypted-elon-musk-voice-video-calling)
+ - [What Is Hive Social? Everything to Know About the Twitter Alternative     - CNET](https://www.cnet.com/culture/internet/what-is-hive-social-everything-to-know-about-the-twitter-alternative/#ftag=CAD590a51e)
+ - [Wild NASA Video Details Daring Plan to Snatch Rocks From Mars     - CNET](https://www.cnet.com/science/space/wild-nasa-video-details-daring-plan-to-snatch-rocks-from-mars/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
