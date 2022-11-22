@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who did it better](http://9gag.com/gag/aeQb1bp)
- - ⏩ [Never again](http://9gag.com/gag/a6qbXAq)
- - 👉 [Why? Because we f* can](http://9gag.com/gag/ajVXOZx)<!-- MEMES:END -->
+ - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
+ - ⏩ [Bad habits](http://9gag.com/gag/aDYWnwO)
+ - 👉 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)<!-- MEMES:END -->
 
 ---
 
