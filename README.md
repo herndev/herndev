@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
- - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
- - 👉 [All it took them was 2 solid years of dedication. Started with no smile to smiling at their success.](http://9gag.com/gag/ap9pPgB)<!-- MEMES:END -->
+ - 💣 [No need](http://9gag.com/gag/aWGmv1n)
+ - ⏩ [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
+ - 👉 [That\u2019s bloody funny](http://9gag.com/gag/aKEVvb6)<!-- MEMES:END -->
 
 ---
 
