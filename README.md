@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The only constant at Elon Musk’s Twitter is chaos](https://www.theverge.com/2022/11/22/23472498/elon-musk-layoffs-chaos-trump-moderation-code-reviews)
- - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
- - [Apple&#39;s iCloud Private Relay being abused in $65M ad fraud](https://appleinsider.com/articles/22/11/22/apples-icloud-private-relay-being-abused-in-65m-ad-fraud?utm_medium=rss)<!-- TECH:END -->
+ - [Daily deals Nov. 22: $200 off Mac Studio, 19% off AirTag 4-Pack, $250 off 65-inch 4K Amazon Fire TV, more](https://appleinsider.com/articles/22/11/22/daily-deals-nov-22-200-off-mac-studio-19-off-airtag-4-pack-250-off-65-inch-4k-amazon-fire-tv-more?utm_medium=rss)
+ - [Hyperkin is remaking the Xbox 360 controller for modern consoles and PC](https://www.theverge.com/2022/11/22/23473019/hyperkin-xbox-360-controller-xenon-remake-features)
+ - [There’s a huge amount of new &lpar;and expensive&rpar; tech behind Avatar: The Way of Water](https://www.theverge.com/23473033/avatar-way-of-water-trailer-technology-james-cameron)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
