@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to acces bios before windows starts](http://9gag.com/gag/a3Zq0GQ)
- - ⏩ [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
- - 👉 [Tale as old as mankind...](http://9gag.com/gag/axoV66n)<!-- MEMES:END -->
+ - 💣 [Well, crap.](http://9gag.com/gag/a5Xbw6G)
+ - ⏩ [Did you remember group A?](http://9gag.com/gag/a8qy1np)
+ - 👉 [The f**k..](http://9gag.com/gag/az28Peb)<!-- MEMES:END -->
 
 ---
 
