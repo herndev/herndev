@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s bugs are the funniest part of the game](https://www.polygon.com/pokemon/23471853/pokemon-scarlet-and-violet-glitches-funny-meme)
- - [Marvel&#39;s Avengers Spokesperson Removed After Offensive Tweets Unearthed](https://kotaku.com/crystal-dynamics-marvels-avengers-tweets-twitter-1849811672)
- - [Here&#39;s how to watch the 40th annual Golden Joystick Awards](https://www.pcgamer.com/heres-how-to-watch-the-40th-annual-golden-joystick-awards)<!-- GAME:END -->
+ - [Explore the Weird West](https://news.xbox.com/en-us/2022/11/22/explore-the-weird-west/)
+ - [Former Tripwire CEO tells Tucker Carlson that cancel culture &#39;destroyed&#39; him](https://www.pcgamer.com/former-tripwire-ceo-tells-tucker-carlson-that-cancel-culture-destroyed-him)
+ - [My tiny hands are all over the best 60% gaming keyboard in the Black Friday sales](https://www.pcgamer.com/my-tiny-hands-are-all-over-the-best-60-gaming-keyboard-in-the-black-friday-sales)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
