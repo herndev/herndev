@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ctr+c ctrl+v](http://9gag.com/gag/anzbvQE)
- - ⏩ [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
- - 👉 [Unboxing NganU](http://9gag.com/gag/a1Pb5Z6)<!-- MEMES:END -->
+ - 💣 [When I opened the code of the dismissed programmer&rpar;&rpar;](http://9gag.com/gag/avQGy5Z)
+ - ⏩ [Florida presents](http://9gag.com/gag/agoL8gg)
+ - 👉 [\u2026.. How?](http://9gag.com/gag/aA0d42L)<!-- MEMES:END -->
 
 ---
 
