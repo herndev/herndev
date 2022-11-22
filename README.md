@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
- - ⏩ [Got a new job. Wish me luck](http://9gag.com/gag/a2Kr2gZ)
- - 👉 [He would make the BEST snow white!!](http://9gag.com/gag/aA0dXER)<!-- MEMES:END -->
+ - 💣 [Wtf did i just read](http://9gag.com/gag/aBdWXVQ)
+ - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
+ - 👉 [Pedestrian, check out the car at the zebra crossing!](http://9gag.com/gag/a1Pb02Y)<!-- MEMES:END -->
 
 ---
 
