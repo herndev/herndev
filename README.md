@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter is making DMs encrypted and adding video, voice chat, per Elon Musk](https://www.theverge.com/2022/11/21/23472174/twitter-dms-encrypted-elon-musk-voice-video-calling)
- - [What Is Hive Social? Everything to Know About the Twitter Alternative     - CNET](https://www.cnet.com/culture/internet/what-is-hive-social-everything-to-know-about-the-twitter-alternative/#ftag=CAD590a51e)
- - [Wild NASA Video Details Daring Plan to Snatch Rocks From Mars     - CNET](https://www.cnet.com/science/space/wild-nasa-video-details-daring-plan-to-snatch-rocks-from-mars/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look the tech being used at the 2022 FIFA World Cup, including player-tracking tech for offside decisions, algorithms to forecast crowd patterns, and more &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/221121/p22#a221121p22)
+ - [Apple&#39;s iPad 9th Generation falls to $269 at Amazon for Black Friday](https://appleinsider.com/articles/22/11/22/apples-ipad-9th-generation-falls-to-269-at-amazon-for-black-friday?utm_medium=rss)
+ - [Black Friday deal: Apple&#39;s Mac Studio falls to $1,799, 3 years of AppleCare $169](https://appleinsider.com/articles/22/11/22/black-friday-deal-apples-mac-studio-falls-to-2022s-best-1799-3-years-of-applecare-169?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
