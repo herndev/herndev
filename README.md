@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - ⏩ [Mexicans in Qatar right now](http://9gag.com/gag/aDYWb9x)
- - 👉 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
+ - 💣 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
+ - ⏩ [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)
+ - 👉 [Mexicans in Qatar right now](http://9gag.com/gag/aDYWb9x)<!-- MEMES:END -->
 
 ---
 
