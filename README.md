@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP to lay off 4,000 to 6,000 employees, or up to 12% of its workforce, over the next three years as part of a plan to achieve $1.4B in annualized cost savings &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/221122/p27#a221122p27)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
- - [Qualcomm quietly announces the Snapdragon 782G](https://www.androidauthority.com/qualcomm-snapdragon-782g-3239324/)<!-- TECH:END -->
+ - [Paramount Plus Black Friday deal: save 50% on your first year of service](https://appleinsider.com/articles/22/11/22/paramount-plus-black-friday-deal-save-50-on-your-first-year-of-service?utm_medium=rss)
+ - [Don’t miss these excellent Fitbit Black Friday offers](https://www.androidauthority.com/fitbit-black-friday-3239422/)
+ - [The US Has a Bomb-Sniffing Dog Shortage](https://www.wired.com/story/us-bomb-dog-shortage/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
