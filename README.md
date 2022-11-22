@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
- - ⏩ [Bad habits](http://9gag.com/gag/aDYWnwO)
- - 👉 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)<!-- MEMES:END -->
+ - 💣 [When the judge reads your sentence](http://9gag.com/gag/aDYWYVw)
+ - ⏩ [Last spiral-shaped gear moves so fast it looks like a glitch](http://9gag.com/gag/a5XbBzO)
+ - 👉 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
 
 ---
 
