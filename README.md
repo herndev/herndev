@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well, crap.](http://9gag.com/gag/a5Xbw6G)
- - ⏩ [Did you remember group A?](http://9gag.com/gag/a8qy1np)
- - 👉 [The f**k..](http://9gag.com/gag/az28Peb)<!-- MEMES:END -->
+ - 💣 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)
+ - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
+ - 👉 [All it took them was 2 solid years of dedication. Started with no smile to smiling at their success.](http://9gag.com/gag/ap9pPgB)<!-- MEMES:END -->
 
 ---
 
