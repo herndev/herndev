@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuaishou reports Q3 revenue up 12.9% YoY to ~$3.2B, beating estimates, and a ~$378M net loss, holding its own against ByteDance and China&#39;s slowing economy &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/221122/p10#a221122p10)
- - [JD.com plans to cut salaries of 2,000+ senior managers by 10%-20% in 2023, aiming to improve benefits for other staff, amid China&#39;s &quot;common prosperity&quot; drive &lpar;Reuters&rpar;](http://www.techmeme.com/221122/p9#a221122p9)
- - [Research: between 100 and 150 crypto hedge funds, or 25%-40% of all specialized funds, have exposure to FTX or FTT, totaling around $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/221122/p8#a221122p8)<!-- TECH:END -->
+ - [How to use Homebrew on Mac to install third-party tools &amp; apps](https://appleinsider.com/inside/macos/tips/how-to-use-homebrew-on-mac-to-install-third-party-tools-apps?utm_medium=rss)
+ - [An investigation reveals how online US sports betting grew so big, so fast and what the consequences are likely to be for public health, taxpayers, and others &lpar;David Enrich/New York Times&rpar;](http://www.techmeme.com/221122/p12#a221122p12)
+ - [UK officially launches investigation over Apple &amp; Google&#39;s mobile browser dominance](https://appleinsider.com/articles/22/11/22/uk-officially-launches-investigation-over-apple-googles-mobile-browser-dominance?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
