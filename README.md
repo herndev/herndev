@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Experience Autumn in Phantasy Star Online 2: New Genesis](https://news.xbox.com/en-us/2022/11/22/experience-autumn-in-phantasy-star-online-2-new-genesis/)
- - [Bayonetta Creator Shares His Two Cents On Fan Outrage Over Bayonetta 3’s Ending](https://kotaku.com/bayonetta-3-hideki-kamiya-ending-fans-hate-sequel-viola-1849813267)
- - [Dreams: Kicking off the 4th Annual Impy Awards](https://blog.playstation.com/2022/11/22/dreams-kicking-off-the-4th-annual-impy-awards%ef%bf%bc/)<!-- GAME:END -->
+ - [Battlefield 2042 – Season 03: Escalation is Available Now for Xbox](https://news.xbox.com/en-us/2022/11/22/battlefield-2042-season-03-escalation-is-available-now-for-xbox/)
+ - [All God of War Ragnarök Nornir Chests and puzzle solutions](https://www.polygon.com/god-of-war-ragnarok-guide/23433016/nornir-chest-locations-puzzle-solutions-svartalfheim-alfheim-health-rage)
+ - [Nintendo&#39;s Latest DMCA Takedowns Are Over &lpar;Checks Notes&rpar; Fan-Created Steam Icons](https://kotaku.com/nintendo-steamgriddb-dmca-takedown-steam-icons-fan-art-1849813480)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
