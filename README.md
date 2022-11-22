@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
- - ⏩ [Title](http://9gag.com/gag/aQE9AGW)
- - 👉 [We\u2019ve been doing it wrong all this time.](http://9gag.com/gag/aVbqZvO)<!-- MEMES:END -->
+ - 💣 [\u2026.. How?](http://9gag.com/gag/aA0d42L)
+ - ⏩ [Take this, FIFA.](http://9gag.com/gag/ay2D168)
+ - 👉 [England Fan vs. Iran Fan](http://9gag.com/gag/aeQbxBW)<!-- MEMES:END -->
 
 ---
 
