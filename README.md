@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Harrison Ford is getting de-aged for Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)
- - [The world&#39;s most stunning gaming laptop is $800 off for Black Friday](https://www.pcgamer.com/the-worlds-most-stunning-gaming-laptop-is-dollar800-off-for-black-friday)
- - [My Favorite Bayonetta 3 Weapons Were Its Most Absurd Ones &lpar;Naturally&rpar;](https://kotaku.com/bayonetta-3-platinumgames-dead-end-express-switch-1849809951)<!-- GAME:END -->
+ - [Some clown tried to sneak a knife onto a plane inside a gaming laptop](https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop)
+ - [New Modern Warfare II Movement Trick Is Turning People Into Speedy Lil Goblins](https://kotaku.com/modern-warfare-2-movement-exploit-warzone-2-1849810446)
+ - [Harrison Ford is getting de-aged for Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
