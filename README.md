@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [My Favorite WW2 Board Game Just Keeps Getting Better](https://kotaku.com/v-sabotage-v-commandos-board-game-tactics-minis-ww2-1849765895)
- - [The Art Of Victoria 3](https://kotaku.com/victoria-3-art-concept-illustrations-paradox-ui-3d-1849807189)
- - [Warzone 2&#39;s scariest weapon is a flying bomb, and that&#39;s OK](https://www.pcgamer.com/call-of-duty-warzone-2-bomb-drone-deadliest-weapon)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus Xbox Black Friday Sale](https://news.xbox.com/en-us/2022/11/21/this-weeks-deals-with-gold-and-spotlight-sale-plus-xbox-black-friday-sale/)
+ - [Devolver Digital releases Athletic Club apparel with serious indie drip](https://www.pcgamer.com/devolver-digital-releases-athletic-club-apparel-with-serious-indie-drip)
+ - [My Favorite WW2 Board Game Just Keeps Getting Better](https://kotaku.com/v-sabotage-v-commandos-board-game-tactics-minis-ww2-1849765895)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
