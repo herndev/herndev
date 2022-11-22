@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals you can already get at Amazon](https://www.theverge.com/23466456/amazon-black-friday-2022-deals-cyber-monday-tech-games-tv)
- - [Elon Musk says Twitter is done with layoffs and now hiring](https://www.theverge.com/2022/11/21/23472025/elon-musk-twitter-hiring-again-ending-layoffs)
- - [Sources: Genesis is struggling to raise funding for its lending unit and warns potential investors that it may need to file for bankruptcy if its efforts fail &lpar;Bloomberg&rpar;](http://www.techmeme.com/221121/p16#a221121p16)<!-- TECH:END -->
+ - [Apple changed how reading books works in iOS 16, and I may never be happy again](https://www.theverge.com/2022/11/21/23471306/apple-books-ios-16-page-flip-animation-sucks)
+ - [Report: Amazon&#39;s hardware group may lose $10B in 2022, as many Echo devices are sold at cost and plans to monetize Alexa have failed &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/221121/p19#a221121p19)
+ - [iOS developers say Apple’s App Store analytics aren’t anonymous](https://www.theverge.com/2022/11/21/23471827/apple-app-store-data-collection-analytics-personal-info-privacy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
