@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tumblr will add support for ActivityPub, the open and decentralized social networking protocol powering Mastodon, Instagram-like Pixelfed, PeerTube, and others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221121/p23#a221121p23)
- - [A look at the tech being used at the 2022 FIFA World Cup, including player-tracking tech for offside decisions, algorithms to forecast crowd patterns, and more &lpar;Pranshu Verma/Washington Post&rpar;](http://www.techmeme.com/221121/p22#a221121p22)
- - [Apple&#39;s iPad 9th Generation falls to $269 at Amazon for Black Friday](https://appleinsider.com/articles/22/11/22/apples-ipad-9th-generation-falls-to-269-at-amazon-for-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Overview of Xi Jinping&#39;s efforts to bolster China&#39;s hacking teams, already skilled in espionage, by focusing on cultivating talent and funding security research &lpar;Dakota Cary/CyberScoop&rpar;](http://www.techmeme.com/221122/p1#a221122p1)
+ - [Samsung could finish its One UI 5 rollout very soon](https://www.androidauthority.com/samsung-one-ui-5-android-13-rollout-2023-3238605/)
+ - [Tumblr will add support for ActivityPub, the open and decentralized social networking protocol powering Mastodon, Instagram-like Pixelfed, PeerTube, and others &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221121/p23#a221121p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
