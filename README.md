@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
- - [The Best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)
- - [Facebook&#39;s Q3 Widely Viewed Content Report: in a first, none of the top 20 posts broke platform rules; sources detail Meta&#39;s latest fight against spammy content &lpar;Jeff Horwitz/Wall Street Journal&rpar;](http://www.techmeme.com/221122/p24#a221122p24)<!-- TECH:END -->
+ - [HP to lay off 4,000 to 6,000 employees, or up to 12% of its workforce, over the next three years as part of a plan to achieve $1.4B in annualized cost savings &lpar;Denny Jacob/Wall Street Journal&rpar;](http://www.techmeme.com/221122/p27#a221122p27)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
+ - [Qualcomm quietly announces the Snapdragon 782G](https://www.androidauthority.com/qualcomm-snapdragon-782g-3239324/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
