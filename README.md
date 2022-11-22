@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Nov. 22: $200 off Mac Studio, 19% off AirTag 4-Pack, $250 off 65-inch 4K Amazon Fire TV, more](https://appleinsider.com/articles/22/11/22/daily-deals-nov-22-200-off-mac-studio-19-off-airtag-4-pack-250-off-65-inch-4k-amazon-fire-tv-more?utm_medium=rss)
- - [Hyperkin is remaking the Xbox 360 controller for modern consoles and PC](https://www.theverge.com/2022/11/22/23473019/hyperkin-xbox-360-controller-xenon-remake-features)
- - [There’s a huge amount of new &lpar;and expensive&rpar; tech behind Avatar: The Way of Water](https://www.theverge.com/23473033/avatar-way-of-water-trailer-technology-james-cameron)<!-- TECH:END -->
+ - [iPhone 14 Pro has the best speed in more than just processing](https://appleinsider.com/articles/22/11/22/iphone-14-pro-has-the-best-speed-in-more-than-just-processing?utm_medium=rss)
+ - [Where did User Login Items go in macOS Ventura?](https://appleinsider.com/inside/macos-ventura/tips/where-did-user-login-items-go-in-macos-ventura?utm_medium=rss)
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Nov 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
