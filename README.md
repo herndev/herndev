@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dive into Sunken Secrets in the Latest Season of Fall Guys](https://news.xbox.com/en-us/2022/11/22/dive-into-sunken-secrets-in-the-latest-season-of-fall-guys/)
- - [EA Sports College Football won’t be out before 2024, says report](https://www.polygon.com/23473151/ea-sports-college-football-delayed-release-date-2024-ncaa)
- - [Retro Andor Trailer Is Peak Star Wars Hype](https://kotaku.com/star-wars-andor-disney-plus-season-episode-12-retro-1849812283)<!-- GAME:END -->
+ - [A Fool’s Deep Dive – Ship of Fools is Now Available for Xbox Series X|S](https://news.xbox.com/en-us/2022/11/22/a-fools-deep-dive-ship-of-fools-is-now-available-for-xbox-series-xs/)
+ - [The Best Games Of 2022 &lpar;So Far&rpar;](https://kotaku.com/best-video-games-2022-ps4-ps5-xbox-series-x-pc-switch-1848663025)
+ - [Top Gun: Maverick is finally coming to streaming soon](https://www.polygon.com/23473153/top-gun-maverick-streaming-paramount-plus-release-date-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
