@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the judge reads your sentence](http://9gag.com/gag/aDYWYVw)
- - ⏩ [Last spiral-shaped gear moves so fast it looks like a glitch](http://9gag.com/gag/a5XbBzO)
- - 👉 [Insurance](http://9gag.com/gag/aL1Devv)<!-- MEMES:END -->
+ - 💣 [Opening of an Egyptian mummy coffin which was sealed 2500 years ago..](http://9gag.com/gag/anzb7xb)
+ - ⏩ [Donde esta Mama?](http://9gag.com/gag/axoVvqW)
+ - 👉 [Why? Because we f* can](http://9gag.com/gag/ajVXOZx)<!-- MEMES:END -->
 
 ---
 
