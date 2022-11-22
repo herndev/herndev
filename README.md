@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s Pretty Good Advice](http://9gag.com/gag/amAYx8V)
- - ⏩ [90s](http://9gag.com/gag/aQE9vOz)
- - 👉 [#OneLove!](http://9gag.com/gag/az285zp)<!-- MEMES:END -->
+ - 💣 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
+ - ⏩ [Suing friends on Court TV](http://9gag.com/gag/a4ob2nm)
+ - 👉 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
 
 ---
 
