@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No need](http://9gag.com/gag/aWGmv1n)
+ - 💣 [Ctr+c ctrl+v](http://9gag.com/gag/anzbvQE)
  - ⏩ [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
- - 👉 [That\u2019s bloody funny](http://9gag.com/gag/aKEVvb6)<!-- MEMES:END -->
+ - 👉 [Unboxing NganU](http://9gag.com/gag/a1Pb5Z6)<!-- MEMES:END -->
 
 ---
 
