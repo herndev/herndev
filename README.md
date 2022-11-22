@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a deception...](http://9gag.com/gag/ajVX92p)
- - ⏩ [Suddenly silence around the world.](http://9gag.com/gag/aXnqVwD)
- - 👉 [Maintain eye contact.](http://9gag.com/gag/amAY6r6)<!-- MEMES:END -->
+ - 💣 [Trying to acces bios before windows starts](http://9gag.com/gag/a3Zq0GQ)
+ - ⏩ [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
+ - 👉 [Tale as old as mankind...](http://9gag.com/gag/axoV66n)<!-- MEMES:END -->
 
 ---
 
