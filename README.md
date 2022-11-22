@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This fella](http://9gag.com/gag/avQG10Z)
- - ⏩ [K: You call throwing dynamite around a dating strategy? J: Hey, as long as it works](http://9gag.com/gag/aXnqrKV)
- - 👉 [Today, the story ended! Danke Seb](http://9gag.com/gag/abvpg6b)<!-- MEMES:END -->
+ - 💣 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
+ - ⏩ [Title](http://9gag.com/gag/aQE9AGW)
+ - 👉 [We\u2019ve been doing it wrong all this time.](http://9gag.com/gag/aVbqZvO)<!-- MEMES:END -->
 
 ---
 
