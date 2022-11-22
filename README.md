@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The boycott is going fantastically.](http://9gag.com/gag/aL1Dzqz)
- - ⏩ [Miauuuw](http://9gag.com/gag/aGE1Mo0)
- - 👉 [Title](http://9gag.com/gag/a4ob55w)<!-- MEMES:END -->
+ - 💣 [This fella](http://9gag.com/gag/avQG10Z)
+ - ⏩ [Title](http://9gag.com/gag/aQE9AGW)
+ - 👉 [Best deal of the century for the US, worst for the RU. The US report says that so far they have spent 5% of their annual military budget on the UA war, and in a year they will destroy 50% of the RU&#39;s conventional capability and all NATO troops are alive !](http://9gag.com/gag/az28O9m)<!-- MEMES:END -->
 
 ---
 
