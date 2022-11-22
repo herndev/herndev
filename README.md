@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DJI introduces new O3 Air FPV camera, starting at $229](https://www.theverge.com/2022/11/22/23472970/dji-o3-air-fpv-camera-drone-flight-goggles-announcement-price)
- - [Trek FX+ 2 Review: The Complete Ebike Commuter Package](https://www.wired.com/review/trek-fx-2/)
- - [Dell XPS 13 &lpar;2022&rpar; Review: Downgraded Performance, Keyboard, Infinity Edge](https://www.wired.com/review/review-dell-xps-13-2022/)<!-- TECH:END -->
+ - [The only constant at Elon Musk’s Twitter is chaos](https://www.theverge.com/2022/11/22/23472498/elon-musk-layoffs-chaos-trump-moderation-code-reviews)
+ - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
+ - [Apple&#39;s iCloud Private Relay being abused in $65M ad fraud](https://appleinsider.com/articles/22/11/22/apples-icloud-private-relay-being-abused-in-65m-ad-fraud?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
