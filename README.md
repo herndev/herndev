@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Which phone brand do you most want in your country?](https://www.androidauthority.com/phone-brand-most-want-your-country-poll-3238632/)
- - [Filings: FTX, Alameda, and other affiliates have $1.2B in cash reserves, below the $3.1B owed to the top 50 creditors; Alameda&#39;s reserves are largest at ~$393M &lpar;Eliza Gkritsi/CoinDesk&rpar;](http://www.techmeme.com/221122/p4#a221122p4)
- - [Daily Authority: 🔓 Samsung’s terrible password trend](https://www.androidauthority.com/daily-authority-november-22-2022-3238309/)<!-- TECH:END -->
+ - [Kuaishou reports Q3 revenue up 12.9% YoY to ~$3.2B, beating estimates, and a ~$378M net loss, holding its own against ByteDance and China&#39;s slowing economy &lpar;Zheping Huang/Bloomberg&rpar;](http://www.techmeme.com/221122/p10#a221122p10)
+ - [JD.com plans to cut salaries of 2,000+ senior managers by 10%-20% in 2023, aiming to improve benefits for other staff, amid China&#39;s &quot;common prosperity&quot; drive &lpar;Reuters&rpar;](http://www.techmeme.com/221122/p9#a221122p9)
+ - [Research: between 100 and 150 crypto hedge funds, or 25%-40% of all specialized funds, have exposure to FTX or FTT, totaling around $2B &lpar;Financial Times&rpar;](http://www.techmeme.com/221122/p8#a221122p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
