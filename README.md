@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This fella](http://9gag.com/gag/avQG10Z)
+ - 💣 [What a deception...](http://9gag.com/gag/ajVX92p)
  - ⏩ [Suddenly silence around the world.](http://9gag.com/gag/aXnqVwD)
- - 👉 [Food painting , Ratatouille](http://9gag.com/gag/az28P6m)<!-- MEMES:END -->
+ - 👉 [Maintain eye contact.](http://9gag.com/gag/amAY6r6)<!-- MEMES:END -->
 
 ---
 
