@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [California’s last operating nuclear plant just got a $1.1 billion lifeline](https://www.theverge.com/2022/11/22/23473116/diablo-canyon-nuclear-power-plant-california-energy-department-biden-funding)
+ - [Save up to 50% in the OnePlus Black Friday sale](https://www.androidauthority.com/oneplus-black-friday-sale-3239196/)
  - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
- - [NASA’s Orion spacecraft makes close flyby of the Moon and heads on to orbit](https://www.theverge.com/2022/11/22/23473444/artemis-1-orion-flyby-moon)<!-- TECH:END -->
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
