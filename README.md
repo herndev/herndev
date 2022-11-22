@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Modern Warfare 2 players are turning into lethal orangutans with new &#39;G Walking&#39; glitch](https://www.pcgamer.com/modern-warfare-2-players-are-turning-into-lethal-orangutans-with-new-g-walking-glitch)
- - [Today&#39;s Wordle answer and hint for Tuesday, November 22](https://www.pcgamer.com/wordle-521-answer-november-22)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus Xbox Black Friday Sale](https://news.xbox.com/en-us/2022/11/21/this-weeks-deals-with-gold-and-spotlight-sale-plus-xbox-black-friday-sale/)<!-- GAME:END -->
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)
+ - [Dive into The Art of Horizon Forbidden West with Dark Horse Books](https://blog.playstation.com/2022/11/22/dive-into-the-art-of-horizon-forbidden-west-with-dark-horse-books/)
+ - [Brace yourself, Steam&#39;s Black Friday discounts will kick off with today&#39;s autumn sale](https://www.pcgamer.com/brace-yourself-steams-black-friday-discounts-will-kick-off-with-todays-autumn-sale)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
