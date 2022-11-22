@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wtf did i just read](http://9gag.com/gag/aBdWXVQ)
- - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
- - 👉 [Pedestrian, check out the car at the zebra crossing!](http://9gag.com/gag/a1Pb02Y)<!-- MEMES:END -->
+ - 💣 [New fear unlocked](http://9gag.com/gag/awZnLQ4)
+ - ⏩ [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
+ - 👉 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
 
 ---
 
