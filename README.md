@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save up to 50% in the OnePlus Black Friday sale](https://www.androidauthority.com/oneplus-black-friday-sale-3239196/)
- - [Tuesday’s top tech news: Twitter rebuilds](https://www.theverge.com/2022/11/22/23472912/november-22-2022-tech-news-liveblog)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)<!-- TECH:END -->
+ - [Sabrent&#39;s new Rocket Nano SSD is smaller than a credit card](https://appleinsider.com/articles/22/11/22/sabrents-new-rocket-nano-ssd-is-smaller-than-a-credit-card?utm_medium=rss)
+ - [Kia’s rebrand has left many people wondering who ‘KN’ is](https://www.theverge.com/2022/11/22/23473452/kia-rebrand-kn-car-google-searches)
+ - [Marvel Snap introduces new cards and a way to get the cards you want](https://www.theverge.com/2022/11/22/23473633/marvel-snap-new-cards-collectors-tokens)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
