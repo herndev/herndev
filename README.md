@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Some clown tried to sneak a knife onto a plane inside a gaming laptop](https://www.pcgamer.com/some-clown-tried-to-sneak-a-knife-onto-a-plane-inside-a-gaming-laptop)
- - [New Modern Warfare II Movement Trick Is Turning People Into Speedy Lil Goblins](https://kotaku.com/modern-warfare-2-movement-exploit-warzone-2-1849810446)
- - [Harrison Ford is getting de-aged for Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)<!-- GAME:END -->
+ - [The Art Of Victoria 3](https://kotaku.com/victoria-3-art-concept-illustrations-paradox-ui-3d-1849807189)
+ - [Warzone 2&#39;s scariest weapon is a flying bomb, and that&#39;s OK](https://www.pcgamer.com/call-of-duty-warzone-2-bomb-drone-deadliest-weapon)
+ - [How to get God of War Ragnarök’s hidden armor set](https://www.polygon.com/23472046/steinbjorn-armor-set-chest-wrist-waist-locations-trolls)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
