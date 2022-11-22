@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guys with beard vs. Guys without](http://9gag.com/gag/a8qyqW1)
- - ⏩ [Suing friends on Court TV](http://9gag.com/gag/a4ob2nm)
- - 👉 [Poland vs Mexico](http://9gag.com/gag/a5Xb27y)<!-- MEMES:END -->
+ - 💣 [10 yo kid avoids being kidnapped by pretending to be cashiers daughter. She was comnig back from school when started to be followed](http://9gag.com/gag/anzbnqq)
+ - ⏩ [Got a new job. Wish me luck](http://9gag.com/gag/a2Kr2gZ)
+ - 👉 [He would make the BEST snow white!!](http://9gag.com/gag/aA0dXER)<!-- MEMES:END -->
 
 ---
 
