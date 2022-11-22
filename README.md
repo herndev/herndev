@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Modern Warfare 2 players are turning into lethal orangutans with new &#39;G Walking&#39; glitch](https://www.pcgamer.com/modern-warfare-2-players-are-turning-into-lethal-orangutans-with-new-g-walking-glitch)
  - [Today&#39;s Wordle answer and hint for Tuesday, November 22](https://www.pcgamer.com/wordle-521-answer-november-22)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus Xbox Black Friday Sale](https://news.xbox.com/en-us/2022/11/21/this-weeks-deals-with-gold-and-spotlight-sale-plus-xbox-black-friday-sale/)
- - [Devolver Digital releases Athletic Club apparel with serious indie drip](https://www.pcgamer.com/devolver-digital-releases-athletic-club-apparel-with-serious-indie-drip)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus Xbox Black Friday Sale](https://news.xbox.com/en-us/2022/11/21/this-weeks-deals-with-gold-and-spotlight-sale-plus-xbox-black-friday-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
