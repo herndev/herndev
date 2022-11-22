@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13: Everything we know about Xiaomi’s next flagship &lpar;Updated: Nov. 22&rpar;](https://www.androidauthority.com/xiaomi-13-3222232/)
- - [Overview of Xi Jinping&#39;s efforts to bolster China&#39;s hacking teams, already skilled in espionage, by focusing on cultivating talent and funding security research &lpar;Dakota Cary/CyberScoop&rpar;](http://www.techmeme.com/221122/p1#a221122p1)
- - [Samsung could finish its One UI 5 rollout very soon](https://www.androidauthority.com/samsung-one-ui-5-android-13-rollout-2023-3238605/)<!-- TECH:END -->
+ - [Victims of hacked Facebook accounts say Meta&#39;s customer support is largely unhelpful; Meta has no new initiatives for helping people recover their accounts &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/221122/p2#a221122p2)
+ - [We asked, you told us: Your phone definitely supports dual SIMs](https://www.androidauthority.com/dual-sim-support-smartphone-poll-results-3238621/)
+ - [Xiaomi 13: Everything we know about Xiaomi’s next flagship &lpar;Updated: Nov. 22&rpar;](https://www.androidauthority.com/xiaomi-13-3222232/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
