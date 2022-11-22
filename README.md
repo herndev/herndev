@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro has the best speed in more than just processing](https://appleinsider.com/articles/22/11/22/iphone-14-pro-has-the-best-speed-in-more-than-just-processing?utm_medium=rss)
- - [Where did User Login Items go in macOS Ventura?](https://appleinsider.com/inside/macos-ventura/tips/where-did-user-login-items-go-in-macos-ventura?utm_medium=rss)
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Nov 22&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
+ - [Google sees these scams as the ones to look out for this holiday season](https://www.androidauthority.com/google-scam-messages-3239127/)
+ - [The Race To Save Sam Bankman-Fried’s Other Crypto Exchange](https://www.wired.com/story/ftx-serum-crypto-exchange/)
+ - [Asahi Linux for Apple Silicon has come a long way in a few months](https://appleinsider.com/articles/22/11/22/asahi-linux-for-apple-silicon-has-come-a-long-way-in-a-few-months?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
