@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for November 28 to December 2](https://news.xbox.com/en-us/2022/11/23/next-week-on-xbox-new-games-for-november-28-to-december-2/)
- - [Destiny 2 is daunting to play alone, but content creators are here to help](https://www.polygon.com/23458936/destiny-2-solo-twitch-streamers-youtube-guide)
- - [Gran Turismo 7 Update 1.26 features Michelin Raceway Road Atlanta race circuit](https://blog.playstation.com/2022/11/23/gran-turismo-7-update-1-26-features-michelin-raceway-road-atlanta-race-circuit/)<!-- GAME:END -->
+ - [Disney Dreamlight Valley’s big Toy Story update arrives in December](https://www.polygon.com/23475102/disney-dreamlight-valley-toy-story-update-woody-buzz)
+ - [The peoples&#39; choice for the GJA PC game of the year may surprise you](https://www.pcgamer.com/the-peoples-choice-for-the-gja-pc-game-of-the-year-may-surprise-you)
+ - [The PC Gamer 2022 Holiday Gift Guide](https://www.pcgamer.com/the-pc-gamer-2022-holiday-gift-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
