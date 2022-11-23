@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)
- - [The hardest Tetris game ever is coming to Switch and PS4](https://www.polygon.com/23474921/tetris-the-grand-master-switch-ps4-release-date)
- - [Disney Dreamlight Valley is getting a Toy Story update in December](https://www.pcgamer.com/disney-dreamlight-valley-is-getting-a-toy-story-update-in-december)<!-- GAME:END -->
+ - [Gabe Newell says all his PC bits come from different manufacturers, and that&#39;s why PC is best](https://www.pcgamer.com/gabe-newell-says-all-his-pc-bits-come-from-different-manufacturers-and-thats-why-pc-is-best)
+ - [Modern Warfare 2&#39;s armour piercing rounds no longer pierce armour](https://www.pcgamer.com/modern-warfare-2s-armour-piercing-rounds-no-longer-pierce-armour)
+ - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
