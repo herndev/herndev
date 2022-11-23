@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley’s big Toy Story update arrives in December](https://www.polygon.com/23475102/disney-dreamlight-valley-toy-story-update-woody-buzz)
- - [The peoples&#39; choice for the GJA PC game of the year may surprise you](https://www.pcgamer.com/the-peoples-choice-for-the-gja-pc-game-of-the-year-may-surprise-you)
- - [The PC Gamer 2022 Holiday Gift Guide](https://www.pcgamer.com/the-pc-gamer-2022-holiday-gift-guide)<!-- GAME:END -->
+ - [I would die for B2EMO and Brasso](https://www.polygon.com/star-wars/23473555/andor-droid-b2emo-brasso-friendship-best-buds)
+ - [The Devil in Me is a low point for Supermassive&#39;s normally great horror anthology](https://www.pcgamer.com/the-devil-in-me-is-a-low-point-for-supermassives-normally-great-horror-anthology)
+ - [Pokémon Go ‘Astral Eclipse’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2022/11/23/23475240/astral-eclipse-event-collection-challenge-lunala-solgaleo-research)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
