@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Explains Why Elder Scrolls VI Will Be Exclusive And Call Of Duty Won&#39;t](https://kotaku.com/call-of-duty-xbox-exclusive-elder-scrolls-6-microsoft-1849818356)
- - [The Callisto Protocol will sell you extra death animations as DLC](https://www.pcgamer.com/the-callisto-protocol-will-sell-you-extra-death-animations-as-dlc)
- - [Everything you need to know about Pokémon breeding in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23475405/eggs-breeding-items-fast-hatch-moves-groups-ivs-ability)<!-- GAME:END -->
+ - [Pokémon Scarlet And Violet Are The Fastest-Selling Games In The History Of Nintendo](https://kotaku.com/pokemon-scarlet-violet-bugs-best-seller-nintendo-switch-1849818749)
+ - [Pokémon Scarlet and Violet sell 10M copies in spite of performance complaints](https://www.polygon.com/pokemon/23475973/pokemon-scarlet-violet-sells-10-million-copies-nintedo-switch)
+ - [We must put aside our petty differences and vote for &#39;goblin mode&#39; over &#39;metaverse&#39; as the Oxford Word of the Year](https://www.pcgamer.com/we-must-put-aside-our-petty-differences-and-vote-for-goblin-mode-over-metaverse-as-the-oxford-word-of-the-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
