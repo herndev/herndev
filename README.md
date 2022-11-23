@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet Wo-Chien shrine and stake &lpar;purple&rpar; locations](https://www.polygon.com/pokemon-scarlet-violet-guide/23473575/wo-chien-shrine-purple-stake-locations-legendary-grasswither)
- - [Overwatch Slang Is Its Own Special Brand Of Twisted](https://kotaku.com/overwatch-2-slang-shorthand-voice-comms-blizzard-moira-1849814479)
- - [Need for Speed Unbound system requirements and unlock times revealed](https://www.pcgamer.com/need-for-speed-unbound-pc-system-requirements)<!-- GAME:END -->
+ - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)
+ - [Darktide&#39;s 1.0.7 patch makes progress on crashes, lets you fix your ugly face](https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face)
+ - [Marvel&#39;s Avengers designer removed as spokesperson over offensive tweets](https://www.pcgamer.com/marvels-avengers-designer-removed-as-spokesperson-over-offensive-tweets)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
