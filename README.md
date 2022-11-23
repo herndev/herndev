@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Expectation exceeded](http://9gag.com/gag/anzbdwo)
- - ⏩ [Power of anime](http://9gag.com/gag/a4obrzw)
- - 👉 [For whoever need this..](http://9gag.com/gag/a8qyXne)<!-- MEMES:END -->
+ - 💣 [Hello?](http://9gag.com/gag/axoVAVM)
+ - ⏩ [For whoever need this..](http://9gag.com/gag/a8qyXne)
+ - 👉 [King of \ud83d\udda4](http://9gag.com/gag/aNwA804)<!-- MEMES:END -->
 
 ---
 
