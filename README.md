@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
- - [The 10 best deals of the Jabra Black Friday sale](https://www.androidauthority.com/jabra-black-friday-sale-3240777/)
- - [Elon Musk proposes letting nearly everyone Twitter banned back on the site](https://www.theverge.com/2022/11/23/23475472/elon-musk-twitter-unbanning-suspended-accounts-law-spam-amnesty)<!-- TECH:END -->
+ - [St. Louis Galleria Mall Apple Store has stopped unionization efforts](https://appleinsider.com/articles/22/11/23/st-louis-galleria-mall-apple-store-has-stopped-unionization-efforts?utm_medium=rss)
+ - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
+ - [An alleged crypto scam involving a bank called Polybius is headed to court](https://www.theverge.com/2022/11/23/23474163/hashflare-crypto-mining-alleged-scam-arrests)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
