@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
- - [Taktile, which allows fintech companies to test and deploy decision-making models, has raised a $20M Series A co-led by Index Ventures and Tiger Global &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221122/p37#a221122p37)
- - [NY Governor Kathy Hochul signs a bill imposing a two-year moratorium on new crypto-mining permits at fossil fuel plants, becoming the first US state to do so &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p36#a221122p36)<!-- TECH:END -->
+ - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
+ - [Black Friday iPad Pro deals: save up to $150 on M2 models, plus $29 off AppleCare](https://appleinsider.com/articles/22/11/23/black-friday-ipad-pro-deals-save-up-to-150-on-m2-models-plus-29-off-applecare?utm_medium=rss)
+ - [Sources: hundreds of Foxconn workers at Apple&#39;s iPhone plant in Zhengzhou clashed with security guards as protests erupted over unpaid wages and COVID-19 fear &lpar;Bloomberg&rpar;](http://www.techmeme.com/221123/p1#a221123p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
