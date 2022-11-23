@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This credit card-sized Continuity Camera mount is clever and affordable](https://www.theverge.com/23472968/elephant-card-continuity-camara-mount-review-price)
- - [Daily deals Nov. 23: $150 off M2 MacBook Air, Apple Watch Ultra for $739, 25% off Nomad goods for Black Friday, more](https://appleinsider.com/articles/22/11/23/daily-deals-nov-23-150-off-m2-macbook-air-apple-watch-ultra-for-739-25-off-nomad-goods-for-black-friday-more?utm_medium=rss)
- - [In its Q3 Adversarial Threat Report, Meta attributes a pro-US campaign to US military-run phony Facebook accounts, Pages, Groups, and Instagram accounts &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/221123/p13#a221123p13)<!-- TECH:END -->
+ - [Black Friday 2022: Get Discovery Plus for just $0.99 per month for 3 months](https://appleinsider.com/articles/22/11/23/black-friday-2022-get-discovery-plus-for-just-099-per-month-for-3-months?utm_medium=rss)
+ - [Aqara&#39;s new Cube T1 Pro adds support for HomeKit](https://appleinsider.com/articles/22/11/23/aqaras-new-cube-t1-pro-adds-support-for-homekit?utm_medium=rss)
+ - [How to watch Paramount+ on a Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-paramount-on-a-mac?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
