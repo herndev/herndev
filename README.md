@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - ⏩ [I am the speed!](http://9gag.com/gag/agoL1Bn)
- - 👉 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)<!-- MEMES:END -->
+ - 💣 [I\u2019m not a racist\u2026 but this is true.](http://9gag.com/gag/agoL4Mr)
+ - ⏩ [My time has come, goodby comrades](http://9gag.com/gag/aA0dv6Z)
+ - 👉 [Here is the 500$ bill](http://9gag.com/gag/aL1DWVv)<!-- MEMES:END -->
 
 ---
 
