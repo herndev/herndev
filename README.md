@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I would die for B2EMO and Brasso](https://www.polygon.com/star-wars/23473555/andor-droid-b2emo-brasso-friendship-best-buds)
- - [The Devil in Me is a low point for Supermassive&#39;s normally great horror anthology](https://www.pcgamer.com/the-devil-in-me-is-a-low-point-for-supermassives-normally-great-horror-anthology)
- - [Pokémon Go ‘Astral Eclipse’ event, Collection Challenge guide](https://www.polygon.com/pokemon-go-guide/2022/11/23/23475240/astral-eclipse-event-collection-challenge-lunala-solgaleo-research)<!-- GAME:END -->
+ - [In Defense Of 2007&#39;s The Witcher, The Overlooked Game That&#39;s Getting Remade For A Reason](https://kotaku.com/first-witcher-game-remake-unreal-engine-5-1849816995)
+ - [Pokémon Scarlet and Violet trade link codes make for easy trading](https://www.polygon.com/pokemon-scarlet-violet-guide/23475301/how-to-trade-link-codes-version-exclusives)
+ - [Andor broke down its hero by building up his home](https://www.polygon.com/reviews/23473565/andor-season-1-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
