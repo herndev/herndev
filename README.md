@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
- - ⏩ [I still think LARPing is lame but I gotta say those headshots were crisp](http://9gag.com/gag/a4obV2A)
- - 👉 [Hello?](http://9gag.com/gag/axoVAVM)<!-- MEMES:END -->
+ - 💣 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
+ - ⏩ [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
+ - 👉 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)<!-- MEMES:END -->
 
 ---
 
