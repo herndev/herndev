@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
- - ⏩ [New Core memory](http://9gag.com/gag/aGE1bE0)
- - 👉 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)<!-- MEMES:END -->
+ - 💣 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - ⏩ [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)
+ - 👉 [The Rush Hour films were funny AF](http://9gag.com/gag/aREmDO7)<!-- MEMES:END -->
 
 ---
 
