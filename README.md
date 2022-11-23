@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gabe Newell says all his PC bits come from different manufacturers, and that&#39;s why PC is best](https://www.pcgamer.com/gabe-newell-says-all-his-pc-bits-come-from-different-manufacturers-and-thats-why-pc-is-best)
- - [Modern Warfare 2&#39;s armour piercing rounds no longer pierce armour](https://www.pcgamer.com/modern-warfare-2s-armour-piercing-rounds-no-longer-pierce-armour)
- - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for November 28 to December 2](https://news.xbox.com/en-us/2022/11/23/next-week-on-xbox-new-games-for-november-28-to-december-2/)
+ - [Destiny 2 is daunting to play alone, but content creators are here to help](https://www.polygon.com/23458936/destiny-2-solo-twitch-streamers-youtube-guide)
+ - [Gran Turismo 7 Update 1.26 features Michelin Raceway Road Atlanta race circuit](https://blog.playstation.com/2022/11/23/gran-turismo-7-update-1-26-features-michelin-raceway-road-atlanta-race-circuit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
