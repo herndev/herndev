@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the 5G network challenges faced by telecom operators, including intense competition, tapering consumer demand, and sufficiency of 4G speeds &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221123/p4#a221123p4)
- - [Report: discrete and integrated GPU shipments fell 25.1% YoY to 75.5M in Q3, desktop GPUs fell 15.43% YoY, and notebook 30% YoY, the biggest drop since 2009 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221123/p3#a221123p3)
- - [Barcelona-based Ukio, which runs a short-term apartment rental service, raised a &amp;euro;27M Series A led by Felix Capital, with &amp;euro;17M in equity and &amp;euro;10M in debt &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221123/p2#a221123p2)<!-- TECH:END -->
+ - [Daily Authority: 🤑 Before spending, here’s how to save big](https://www.androidauthority.com/daily-authority-november-23-2022-3239511/)
+ - [Honor Magic Vs foldable launched: A cheap Galaxy Z Fold 4 rival with stylus](https://www.androidauthority.com/honor-magic-vs-foldable-3239537/)
+ - [Diego Luna Is as Excited for &#39;Andor&#39; Season 2 as You Are](https://www.wired.com/story/diego-luna-andor-season-2-q-and-a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
