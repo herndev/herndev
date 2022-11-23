@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🤑 Before spending, here’s how to save big](https://www.androidauthority.com/daily-authority-november-23-2022-3239511/)
- - [Honor Magic Vs foldable launched: A cheap Galaxy Z Fold 4 rival with stylus](https://www.androidauthority.com/honor-magic-vs-foldable-3239537/)
- - [Diego Luna Is as Excited for &#39;Andor&#39; Season 2 as You Are](https://www.wired.com/story/diego-luna-andor-season-2-q-and-a/)<!-- TECH:END -->
+ - [You told us: You prefer stock Pixel 7 Pro images to a photographer’s edits](https://www.androidauthority.com/pixel-7-pro-photographer-edit-poll-results-3239543/)
+ - [Honor’s new Magic VS foldable will be released outside China](https://www.theverge.com/2022/11/23/23474820/honors-magic-vs-price-release-date-features-foldable-smartphone)
+ - [An interview with AMD CEO Lisa Su on AMD&#39;s success at catching up to Intel, huge bets on custom chips, the PC slump, export restrictions to China, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/221123/p5#a221123p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
