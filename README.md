@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
- - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
+ - [Honor Magic Vs hands-on impressions: The on-paper foldable king](https://www.androidauthority.com/honor-magic-vs-hands-on-impressions-3240662/)
+ - [Moment Black Friday deals: save up to 60% on iPhone cases, cameras &amp; more](https://appleinsider.com/articles/22/11/23/moment-black-friday-deals-save-up-to-60-on-iphone-cases-cameras-more?utm_medium=rss)
+ - [The best phone to buy right now](https://www.theverge.com/22163811/best-phone)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
