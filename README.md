@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Rain drop` statue was removed after authorities learned that 9gag laughed at it](http://9gag.com/gag/aREmyvj)
- - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
- - 👉 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)<!-- MEMES:END -->
+ - 💣 [Cannnot believe we won vs Germany!!!](http://9gag.com/gag/aDYWPLK)
+ - ⏩ [Mahlzeit](http://9gag.com/gag/aKEV8P6)
+ - 👉 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
 
 ---
 
