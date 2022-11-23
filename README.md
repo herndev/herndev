@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aYVxdZN)
- - ⏩ [New Core memory](http://9gag.com/gag/aGE1bE0)
- - 👉 [Can&#39;t touch this](http://9gag.com/gag/aKEVLog)<!-- MEMES:END -->
+ - 💣 [`Rain drop` statue was removed after authorities learned that 9gag laughed at it](http://9gag.com/gag/aREmyvj)
+ - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
+ - 👉 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)<!-- MEMES:END -->
 
 ---
 
