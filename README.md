@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - ⏩ [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - 👉 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
+ - 💣 [Frodo swaggins](http://9gag.com/gag/aPgBXVq)
+ - ⏩ [Even Hercules wants the list to be exposed](http://9gag.com/gag/agoL2gq)
+ - 👉 [The \ud83d\udc10](http://9gag.com/gag/a2KrbAd)<!-- MEMES:END -->
 
 ---
 
