@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
- - [The best robot vacuum you can buy right now](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
- - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Google Messages is finally starting to give us power to react however we want](https://www.androidauthority.com/google-messages-reactions-emoji-3240769/)
+ - [Medical records company Epic partners with Apple on a Mac tool](https://appleinsider.com/articles/22/11/23/medical-records-company-epic-partners-with-apple-on-a-mac-tool?utm_medium=rss)
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
