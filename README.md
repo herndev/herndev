@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
- - ⏩ [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)
- - 👉 [The Rush Hour films were funny AF](http://9gag.com/gag/aREmDO7)<!-- MEMES:END -->
+ - 💣 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - ⏩ [I still think LARPing is lame but I gotta say those headshots were crisp](http://9gag.com/gag/a4obV2A)
+ - 👉 [Hello?](http://9gag.com/gag/axoVAVM)<!-- MEMES:END -->
 
 ---
 
