@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Interviews and messages show how SBF used PACs, nonprofits, and consulting firms to woo politicians, regulators, and others to support his crypto goals &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p30#a221122p30)
- - [Here’s Proof Hate Speech Is More Viral on Elon Musk’s Twitter](https://www.wired.com/story/heres-proof-hate-speech-is-more-viral-on-elon-musks-twitter/)
- - [The best Black Friday Google deals you can get](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)<!-- TECH:END -->
+ - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://www.theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise)
+ - [MyFitnessPal: Everything you need to know](https://www.androidauthority.com/myfitnesspal-3235873/)
+ - [Embracer is ripping a beloved mobile game away from people who paid for it](https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
