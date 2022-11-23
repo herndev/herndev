@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Hundreds riot at Foxconn iPhone plant over terrible conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)
- - [Elon Musk’s Twitter Risks Big Fines From US Regulators](https://www.wired.com/story/elon-musks-twitter-risks-big-fines-from-ftc-us-regulators/)
- - [8 Best Cheap Laptops &lpar;2022&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
+ - [This credit card-sized Continuity Camera mount is clever and affordable](https://www.theverge.com/23472968/elephant-card-continuity-camara-mount-review-price)
+ - [Daily deals Nov. 23: $150 off M2 MacBook Air, Apple Watch Ultra for $739, 25% off Nomad goods for Black Friday, more](https://appleinsider.com/articles/22/11/23/daily-deals-nov-23-150-off-m2-macbook-air-apple-watch-ultra-for-739-25-off-nomad-goods-for-black-friday-more?utm_medium=rss)
+ - [In its Q3 Adversarial Threat Report, Meta attributes a pro-US campaign to US military-run phony Facebook accounts, Pages, Groups, and Instagram accounts &lpar;AJ Vicens/CyberScoop&rpar;](http://www.techmeme.com/221123/p13#a221123p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
