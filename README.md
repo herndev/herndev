@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk tries to blame ‘activists’ for his Twitter moderation council lie](https://www.theverge.com/2022/11/22/23474381/elon-musk-twitter-moderation-council-activist-promise)
- - [MyFitnessPal: Everything you need to know](https://www.androidauthority.com/myfitnesspal-3235873/)
- - [Embracer is ripping a beloved mobile game away from people who paid for it](https://www.theverge.com/2022/11/22/23474317/deus-ex-go-embracer-onoma-square-enix-shutting-down)<!-- TECH:END -->
+ - [SBF says FTX had ~$60B in collateral in spring 2022, but a credit squeeze, market selloff, and &quot;run on the bank&quot; reduced it to $9B ahead of the bankruptcy &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221122/p32#a221122p32)
+ - [Apple in talks to acquire rights to &#39;The Big Short&#39; author&#39;s upcoming book on FTX crash](https://appleinsider.com/articles/22/11/23/apple-in-talks-to-acquire-rights-to-the-big-short-authors-upcoming-book-on-ftx-crash?utm_medium=rss)
+ - [When Does &#39;Andor&#39; Finale Hit Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/when-does-andor-finale-hit-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
