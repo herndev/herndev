@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Baidu EVP Dou Shen downplays the impact of US semiconductor restrictions, after the company stockpiled parts, and says its AI business would benefit long term &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221123/p8#a221123p8)
- - [Digital World Acquisition Corp. says investors voted to extend the deadline to merge with Truth Social to September 2023, pending an investigation by regulators &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/221123/p7#a221123p7)
- - [Xiaomi reports Q3 revenue down 9.7% YoY to ~$9.85B, slightly above estimates, and a ~$210M net loss, following a ~$420M writedown on investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/221123/p6#a221123p6)<!-- TECH:END -->
+ - [Violent protests break out at Foxconn’s ‘iPhone city’](https://www.theverge.com/2022/11/23/23474868/foxconn-iphone-factory-protest-riot-covid-lockdown)
+ - [The UK&#39;s National Audit Office says a 2% digital services tax on the gross revenue of Amazon, Apple, and other US giants reaped almost &amp;pound;360M in its first year &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/221123/p10#a221123p10)
+ - [Hundreds riot at Foxconn iPhone plant over conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
