@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
- - ⏩ [Cannnot believe we won vs Germany!!!](http://9gag.com/gag/aDYWPLK)
- - 👉 [See comment](http://9gag.com/gag/a1Pbq18)<!-- MEMES:END -->
+ - 💣 [Expectation exceeded](http://9gag.com/gag/anzbdwo)
+ - ⏩ [Power of anime](http://9gag.com/gag/a4obrzw)
+ - 👉 [For whoever need this..](http://9gag.com/gag/a8qyXne)<!-- MEMES:END -->
 
 ---
 
