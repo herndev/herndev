@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages is finally starting to give us power to react however we want](https://www.androidauthority.com/google-messages-reactions-emoji-3240769/)
- - [Medical records company Epic partners with Apple on a Mac tool](https://appleinsider.com/articles/22/11/23/medical-records-company-epic-partners-with-apple-on-a-mac-tool?utm_medium=rss)
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
+ - [The 10 best deals of the Jabra Black Friday sale](https://www.androidauthority.com/jabra-black-friday-sale-3240777/)
+ - [Elon Musk proposes letting nearly everyone Twitter banned back on the site](https://www.theverge.com/2022/11/23/23475472/elon-musk-twitter-unbanning-suspended-accounts-law-spam-amnesty)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
