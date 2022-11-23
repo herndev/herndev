@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m not a racist\u2026 but this is true.](http://9gag.com/gag/agoL4Mr)
- - ⏩ [My time has come, goodby comrades](http://9gag.com/gag/aA0dv6Z)
- - 👉 [Here is the 500$ bill](http://9gag.com/gag/aL1DWVv)<!-- MEMES:END -->
+ - 💣 [Perfect weather for a ride](http://9gag.com/gag/a8qy2W1)
+ - ⏩ [Hol up!! Something ain&#39;t right](http://9gag.com/gag/anzbOL5)
+ - 👉 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)<!-- MEMES:END -->
 
 ---
 
