@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New fear unlocked](http://9gag.com/gag/awZnLQ4)
- - ⏩ [Iranian football players refuse to sing at national anthem in Qatar](http://9gag.com/gag/a1Pb7qY)
- - 👉 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
+ - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - ⏩ [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - 👉 [Mahlzeit](http://9gag.com/gag/aKEV8P6)<!-- MEMES:END -->
 
 ---
 
