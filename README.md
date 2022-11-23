@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Facebook Says It Has Created A &#39;Human-Level&#39; Board Game AI](https://kotaku.com/facebook-meta-ai-artificial-intelligence-board-game-win-1849815368)
  - [Skyrim&#39;s tiny head mod is a crime against the laws of god and man alike](https://www.pcgamer.com/skyrims-tiny-head-mod-is-a-crime-against-the-laws-of-god-and-man-alike)
- - [The best deals in the 2022 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2022-best-deals)
- - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/the-fabelmans-review-steven-spielberg-paul-dano-michelle-williams)<!-- GAME:END -->
+ - [The best deals in the 2022 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2022-best-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
