@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/the-fabelmans-review-steven-spielberg-paul-dano-michelle-williams)
  - [Total War: Warhammer 3&#39;s latest big update focuses on Immortal Empires](https://www.pcgamer.com/total-war-warhammer-3s-latest-big-update-focuses-on-immortal-empires)
- - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)
- - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)<!-- GAME:END -->
+ - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
