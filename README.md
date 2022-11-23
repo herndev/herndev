@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Wednesday, November 23](https://www.pcgamer.com/wordle-522-answer-november-23)
- - [Andor has a post-credits scene you should definitely stick around for](https://www.polygon.com/star-wars/23473303/andor-post-credits-scene-death-star)
- - [Our favorite gaming chair now comes in Star Wars](https://www.pcgamer.com/our-favorite-gaming-chair-now-comes-in-star-wars)<!-- GAME:END -->
+ - [Disney Dreamlight Valley is getting a Toy Story update in December](https://www.pcgamer.com/disney-dreamlight-valley-is-getting-a-toy-story-update-in-december)
+ - [Men of War 2&#39;s latest trailer showcases men, war](https://www.pcgamer.com/men-of-war-2s-latest-trailer-showcases-men-war)
+ - [Today&#39;s Wordle answer and hint for Wednesday, November 23](https://www.pcgamer.com/wordle-522-answer-november-23)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
