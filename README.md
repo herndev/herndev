@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [St. Louis Galleria Mall Apple Store has stopped unionization efforts](https://appleinsider.com/articles/22/11/23/st-louis-galleria-mall-apple-store-has-stopped-unionization-efforts?utm_medium=rss)
- - [The best smartphone you can buy for under $500](https://www.theverge.com/21420196/best-budget-smartphone-cheap)
- - [An alleged crypto scam involving a bank called Polybius is headed to court](https://www.theverge.com/2022/11/23/23474163/hashflare-crypto-mining-alleged-scam-arrests)<!-- TECH:END -->
+ - [The best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers)
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)
+ - [The best laptop you can buy in 2022](https://www.theverge.com/21250695/best-laptops)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
