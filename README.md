@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
- - ⏩ [In 1970, the Navy and Oregon Highway Division used 10,000lbs of dynamite to explode the carcass of a rotting beached whale - thinking that seagulls would eat the smaller pieces. The plan backfired, showering a 1/4 mile blast radius with huge chunks of rotting whale carcass.](http://9gag.com/gag/aXnqKw9)
- - 👉 [Heretics! Heretics all of them!](http://9gag.com/gag/a1PbEoG)<!-- MEMES:END -->
+ - 💣 [Even Hercules wants the list to be exposed](http://9gag.com/gag/agoL2gq)
+ - ⏩ [Frodo swaggins](http://9gag.com/gag/aPgBXVq)
+ - 👉 [Can\u2019t unsee it](http://9gag.com/gag/aQE9Zr8)<!-- MEMES:END -->
 
 ---
 
