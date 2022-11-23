@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Removes Armor-Piercing Effects From…Armor-Piercing Ammunition](https://kotaku.com/call-of-duty-patch-weapon-modification-armor-ammo-1849817845)
- - [Stellan Skarsgård’s Luthen is instantly one of the best Star Wars characters ever](https://www.polygon.com/star-wars/23475574/andor-luthen-stellan-skarsgard-finale-star-wars-character)
- - [God of War Ragnarök Svartalfheim 100% completion guide](https://www.polygon.com/god-of-war-ragnarok-guide/23433003/svartalfheim-100-percent-guide-odins-ravens-nornir-chests-artifacts)<!-- GAME:END -->
+ - [With 16 New Cards, Marvel Snap&#39;s Next Update Is Its Biggest Yet](https://kotaku.com/marvel-snap-deck-pool-5-6-season-thanos-what-cards-new-1849818132)
+ - [This Black Friday deal combo has our favorite gaming mouse plus a headset for under $70](https://www.pcgamer.com/this-black-friday-deal-combo-has-our-favorite-gaming-mouse-plus-a-headset-for-under-dollar70)
+ - [God of War Ragnarok Midgard 100% completion guide](https://www.polygon.com/god-of-war-ragnarok-guide/23448917/midgard-100-percent-guide-odins-ravens-nornir-chests-artifacts-lake-nine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
