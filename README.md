@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You prefer stock Pixel 7 Pro images to a photographer’s edits](https://www.androidauthority.com/pixel-7-pro-photographer-edit-poll-results-3239543/)
- - [Honor’s new Magic VS foldable will be released outside China](https://www.theverge.com/2022/11/23/23474820/honors-magic-vs-price-release-date-features-foldable-smartphone)
- - [An interview with AMD CEO Lisa Su on AMD&#39;s success at catching up to Intel, huge bets on custom chips, the PC slump, export restrictions to China, and more &lpar;Katie Tarasov/CNBC&rpar;](http://www.techmeme.com/221123/p5#a221123p5)<!-- TECH:END -->
+ - [Baidu EVP Dou Shen downplays the impact of US semiconductor restrictions, after the company stockpiled parts, and says its AI business would benefit long term &lpar;Shen Lu/Wall Street Journal&rpar;](http://www.techmeme.com/221123/p8#a221123p8)
+ - [Digital World Acquisition Corp. says investors voted to extend the deadline to merge with Truth Social to September 2023, pending an investigation by regulators &lpar;Julian Mark/Washington Post&rpar;](http://www.techmeme.com/221123/p7#a221123p7)
+ - [Xiaomi reports Q3 revenue down 9.7% YoY to ~$9.85B, slightly above estimates, and a ~$210M net loss, following a ~$420M writedown on investments &lpar;Bloomberg&rpar;](http://www.techmeme.com/221123/p6#a221123p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
