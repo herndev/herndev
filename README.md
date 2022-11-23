@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even Hercules wants the list to be exposed](http://9gag.com/gag/agoL2gq)
- - ⏩ [Frodo swaggins](http://9gag.com/gag/aPgBXVq)
- - 👉 [Can\u2019t unsee it](http://9gag.com/gag/aQE9Zr8)<!-- MEMES:END -->
+ - 💣 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - ⏩ [Mahlzeit](http://9gag.com/gag/aKEV8P6)
+ - 👉 [I am the speed!](http://9gag.com/gag/agoL1Bn)<!-- MEMES:END -->
 
 ---
 
