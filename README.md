@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)
- - [Darktide&#39;s 1.0.7 patch makes progress on crashes, lets you fix your ugly face](https://www.pcgamer.com/darktides-107-patch-makes-progress-on-crashes-lets-you-fix-your-ugly-face)
- - [Marvel&#39;s Avengers designer removed as spokesperson over offensive tweets](https://www.pcgamer.com/marvels-avengers-designer-removed-as-spokesperson-over-offensive-tweets)<!-- GAME:END -->
+ - [Total War: Warhammer 3&#39;s latest big update focuses on Immortal Empires](https://www.pcgamer.com/total-war-warhammer-3s-latest-big-update-focuses-on-immortal-empires)
+ - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)
+ - [One Of The Best Deus Ex Games Is Disappearing](https://kotaku.com/deus-ex-go-shut-down-closed-closure-square-enix-mobile-1849814893)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
