@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Perfect weather for a ride](http://9gag.com/gag/a8qy2W1)
- - ⏩ [Hol up!! Something ain&#39;t right](http://9gag.com/gag/anzbOL5)
- - 👉 [Fellas gotta stick together.](http://9gag.com/gag/aoK1VEn)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/awZnew4)
+ - ⏩ [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)
+ - 👉 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
 
 ---
 
