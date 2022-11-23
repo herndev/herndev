@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3: Wild Hunt Next-Gen Update Hits Xbox Series X|S on December 14](https://news.xbox.com/en-us/2022/11/23/the-witcher-3-wild-hunt-next-gen-update-hits-xbox-series-xs-on-december-14/)
- - [Valheim Mistlands Queen: How to find the powerful new boss monster](https://www.pcgamer.com/valheim-mistlands-queen-boss-location-sealbreaker)
- - [You&#39;ll have to pry my 1440p monitor out of my cold dead hands](https://www.pcgamer.com/youll-pry-my-1440p-monitor-out-of-my-cold-dead-hands)<!-- GAME:END -->
+ - [Call Of Duty Removes Armor-Piercing Effects From…Armor-Piercing Ammunition](https://kotaku.com/call-of-duty-patch-weapon-modification-armor-ammo-1849817845)
+ - [Stellan Skarsgård’s Luthen is instantly one of the best Star Wars characters ever](https://www.polygon.com/star-wars/23475574/andor-luthen-stellan-skarsgard-finale-star-wars-character)
+ - [God of War Ragnarök Svartalfheim 100% completion guide](https://www.polygon.com/god-of-war-ragnarok-guide/23433003/svartalfheim-100-percent-guide-odins-ravens-nornir-chests-artifacts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
