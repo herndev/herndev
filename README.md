@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/awZnew4)
- - ⏩ [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)
- - 👉 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)<!-- MEMES:END -->
+ - 💣 [New Core memory](http://9gag.com/gag/aGE1bE0)
+ - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
+ - 👉 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)<!-- MEMES:END -->
 
 ---
 
