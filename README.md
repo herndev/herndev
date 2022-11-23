@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley is getting a Toy Story update in December](https://www.pcgamer.com/disney-dreamlight-valley-is-getting-a-toy-story-update-in-december)
- - [Men of War 2&#39;s latest trailer showcases men, war](https://www.pcgamer.com/men-of-war-2s-latest-trailer-showcases-men-war)
- - [Today&#39;s Wordle answer and hint for Wednesday, November 23](https://www.pcgamer.com/wordle-522-answer-november-23)<!-- GAME:END -->
+ - [Disco Elysium&#39;s elevator pitch: &#39;the greatest fantasy setting ever conceived&#39;](https://www.pcgamer.com/disco-elysiums-elevator-pitch-the-greatest-fantasy-setting-ever-conceived)
+ - [The hardest Tetris game ever is coming to Switch and PS4](https://www.polygon.com/23474921/tetris-the-grand-master-switch-ps4-release-date)
+ - [Disney Dreamlight Valley is getting a Toy Story update in December](https://www.pcgamer.com/disney-dreamlight-valley-is-getting-a-toy-story-update-in-december)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
