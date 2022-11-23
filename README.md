@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s early Black Friday Apple deals are live: $79 AirPods, $22 AirTag, $400 off MacBook Pro](https://appleinsider.com/articles/22/11/21/amazons-early-black-friday-apple-deals-are-live-79-airpods-22-airtag-400-off-macbook-pro?utm_medium=rss)
- - [Black Friday iPad Pro deals: save up to $150 on M2 models, plus $29 off AppleCare](https://appleinsider.com/articles/22/11/23/black-friday-ipad-pro-deals-save-up-to-150-on-m2-models-plus-29-off-applecare?utm_medium=rss)
- - [Sources: hundreds of Foxconn workers at Apple&#39;s iPhone plant in Zhengzhou clashed with security guards as protests erupted over unpaid wages and COVID-19 fear &lpar;Bloomberg&rpar;](http://www.techmeme.com/221123/p1#a221123p1)<!-- TECH:END -->
+ - [Barcelona-based Ukio, which runs a short-term apartment rental service, raised a &amp;euro;27M Series A led by Felix Capital, with &amp;euro;17M in equity and &amp;euro;10M in debt &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221123/p2#a221123p2)
+ - [Honor reveals Magic OS 7.0 update: Here’s when it will come to your phone](https://www.androidauthority.com/honor-magic-os-7-update-3238113/)
+ - [Google Doodle Spotlights Silent Film Actress Myrtle Gonzalez     - CNET](https://www.cnet.com/culture/internet/google-doodle-spotlights-silent-film-actress-myrtle-gonzalez/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
