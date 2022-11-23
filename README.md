@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cannnot believe we won vs Germany!!!](http://9gag.com/gag/aDYWPLK)
- - ⏩ [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - 👉 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
+ - 💣 [Bye have a great time! &lpar;skip to the end&rpar;](http://9gag.com/gag/a6qbBQN)
+ - ⏩ [Cannnot believe we won vs Germany!!!](http://9gag.com/gag/aDYWPLK)
+ - 👉 [See comment](http://9gag.com/gag/a1Pbq18)<!-- MEMES:END -->
 
 ---
 
