@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday 2022: Get Discovery Plus for just $0.99 per month for 3 months](https://appleinsider.com/articles/22/11/23/black-friday-2022-get-discovery-plus-for-just-099-per-month-for-3-months?utm_medium=rss)
- - [Aqara&#39;s new Cube T1 Pro adds support for HomeKit](https://appleinsider.com/articles/22/11/23/aqaras-new-cube-t1-pro-adds-support-for-homekit?utm_medium=rss)
- - [How to watch Paramount+ on a Mac](https://appleinsider.com/inside/mac/tips/how-to-watch-paramount-on-a-mac?utm_medium=rss)<!-- TECH:END -->
+ - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
+ - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
+ - [Apple TV 4K dips to $80 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/11/23/apple-tv-4k-dips-to-80-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
