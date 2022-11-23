@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Defense Of 2007&#39;s The Witcher, The Overlooked Game That&#39;s Getting Remade For A Reason](https://kotaku.com/first-witcher-game-remake-unreal-engine-5-1849816995)
- - [Pokémon Scarlet and Violet trade link codes make for easy trading](https://www.polygon.com/pokemon-scarlet-violet-guide/23475301/how-to-trade-link-codes-version-exclusives)
- - [Andor broke down its hero by building up his home](https://www.polygon.com/reviews/23473565/andor-season-1-review)<!-- GAME:END -->
+ - [The Witcher 3: Wild Hunt Next-Gen Update Hits Xbox Series X|S on December 14](https://news.xbox.com/en-us/2022/11/23/the-witcher-3-wild-hunt-next-gen-update-hits-xbox-series-xs-on-december-14/)
+ - [Valheim Mistlands Queen: How to find the powerful new boss monster](https://www.pcgamer.com/valheim-mistlands-queen-boss-location-sealbreaker)
+ - [You&#39;ll have to pry my 1440p monitor out of my cold dead hands](https://www.pcgamer.com/youll-pry-my-1440p-monitor-out-of-my-cold-dead-hands)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
