@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus Black Friday deal: save 50% on your first year of service](https://appleinsider.com/articles/22/11/22/paramount-plus-black-friday-deal-save-50-on-your-first-year-of-service?utm_medium=rss)
- - [Don’t miss these excellent Fitbit Black Friday offers](https://www.androidauthority.com/fitbit-black-friday-3239422/)
- - [The US Has a Bomb-Sniffing Dog Shortage](https://www.wired.com/story/us-bomb-dog-shortage/)<!-- TECH:END -->
+ - [Interviews and messages show how SBF used PACs, nonprofits, and consulting firms to woo politicians, regulators, and others to support his crypto goals &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p30#a221122p30)
+ - [Here’s Proof Hate Speech Is More Viral on Elon Musk’s Twitter](https://www.wired.com/story/heres-proof-hate-speech-is-more-viral-on-elon-musks-twitter/)
+ - [The best Black Friday Google deals you can get](https://www.theverge.com/23473576/black-friday-2022-google-deals-cyber-monday-pixel-watch-buds-nest-chromecast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
