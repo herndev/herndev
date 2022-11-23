@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/the-fabelmans-review-steven-spielberg-paul-dano-michelle-williams)
- - [Total War: Warhammer 3&#39;s latest big update focuses on Immortal Empires](https://www.pcgamer.com/total-war-warhammer-3s-latest-big-update-focuses-on-immortal-empires)
- - [There&#39;s now an official remake of the Xbox 360 Controller](https://www.pcgamer.com/theres-gonna-be-an-official-remake-of-the-xbox-360-controller)<!-- GAME:END -->
+ - [Skyrim&#39;s tiny head mod is a crime against the laws of god and man alike](https://www.pcgamer.com/skyrims-tiny-head-mod-is-a-crime-against-the-laws-of-god-and-man-alike)
+ - [The best deals in the 2022 Steam Autumn Sale](https://www.pcgamer.com/steam-autumn-sale-2022-best-deals)
+ - [Steven Spielberg turned his origin story into one of his best movies: The Fabelmans](https://www.polygon.com/reviews/23347562/the-fabelmans-review-steven-spielberg-paul-dano-michelle-williams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
