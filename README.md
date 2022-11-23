@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows Subsystem for Linux is now generally available for Windows 10 and 11 via the Microsoft Store, as Microsoft makes the Store version of WSL the default &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221122/p35#a221122p35)
- - [Florida-based care.ai, which uses AI-powered sensors to monitor and collect behavioral data on care facility patients, raised $27M from Crescent Cove Advisors &lpar;Jessica Hagen/MobiHealthNews&rpar;](http://www.techmeme.com/221122/p34#a221122p34)
- - [Shares of Paytm closed at an all-time low on Tuesday, a week after the post-IPO lockup period for early investors expired, amid competition risk from Reliance &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221122/p33#a221122p33)<!-- TECH:END -->
+ - [Black Friday deal: Microsoft Office for Mac Home &amp; Business 2021 lifetime license just $29.99](https://appleinsider.com/articles/22/11/21/black-friday-deal-microsoft-office-for-mac-home-business-2021-lifetime-license-just-2999?utm_medium=rss)
+ - [Taktile, which allows fintech companies to test and deploy decision-making models, has raised a $20M Series A co-led by Index Ventures and Tiger Global &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221122/p37#a221122p37)
+ - [NY Governor Kathy Hochul signs a bill imposing a two-year moratorium on new crypto-mining permits at fossil fuel plants, becoming the first US state to do so &lpar;New York Times&rpar;](http://www.techmeme.com/221122/p36#a221122p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
