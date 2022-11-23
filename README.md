@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Violent protests break out at Foxconn’s ‘iPhone city’](https://www.theverge.com/2022/11/23/23474868/foxconn-iphone-factory-protest-riot-covid-lockdown)
- - [The UK&#39;s National Audit Office says a 2% digital services tax on the gross revenue of Amazon, Apple, and other US giants reaped almost &amp;pound;360M in its first year &lpar;Mark Sweney/The Guardian&rpar;](http://www.techmeme.com/221123/p10#a221123p10)
- - [Hundreds riot at Foxconn iPhone plant over conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)<!-- TECH:END -->
+ - [Hundreds riot at Foxconn iPhone plant over terrible conditions](https://appleinsider.com/articles/22/11/23/hundreds-riot-at-foxconn-iphone-plant-over-conditions?utm_medium=rss)
+ - [Elon Musk’s Twitter Risks Big Fines From US Regulators](https://www.wired.com/story/elon-musks-twitter-risks-big-fines-from-ftc-us-regulators/)
+ - [8 Best Cheap Laptops &lpar;2022&rpar;: Our Picks for $700 or Less](https://www.wired.com/gallery/best-cheap-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
