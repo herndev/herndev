@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)
- - [The best Black Friday deals on Apple devices](https://www.theverge.com/23466789/apple-black-friday-2022-deals-cyber-monday-macbook-ipad-airtags-watch)
- - [Apple TV 4K dips to $80 at Amazon, a new record low price ahead of Black Friday](https://appleinsider.com/articles/22/11/23/apple-tv-4k-dips-to-80-at-amazon-a-new-record-low-price-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will not buy Disney, no matter how often it hears that it will](https://appleinsider.com/articles/22/11/23/apple-will-not-buy-disney-no-matter-how-often-it-hears-that-it-will?utm_medium=rss)
+ - [The best robot vacuum you can buy right now](https://www.theverge.com/22997597/best-robot-vacuum-cleaner)
+ - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
