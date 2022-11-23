@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m not a racist\u2026 but this is true.](http://9gag.com/gag/agoL4Mr)
- - ⏩ [She asked for it tho](http://9gag.com/gag/a5Xbj3y)
- - 👉 [Frodo swaggins](http://9gag.com/gag/aPgBXVq)<!-- MEMES:END -->
+ - 💣 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - ⏩ [I am the speed!](http://9gag.com/gag/agoL1Bn)
+ - 👉 [Me and every other OP](http://9gag.com/gag/aeQbmXQ)<!-- MEMES:END -->
 
 ---
 
