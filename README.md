@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Core memory](http://9gag.com/gag/aGE1bE0)
- - ⏩ [This fella](http://9gag.com/gag/avQG10Z)
+ - 💣 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
+ - ⏩ [New Core memory](http://9gag.com/gag/aGE1bE0)
  - 👉 [Crusader in Qatar for foodball game...](http://9gag.com/gag/ajVXyng)<!-- MEMES:END -->
 
 ---
