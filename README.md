@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report: Feds &#39;Likely&#39; To Fight Microsoft&#39;s Purchase Of Activision Blizzard](https://kotaku.com/ftc-activision-blizzard-microsoft-feds-antitrust-suit-1849818957)
- - [This Sports Anime Is Captain Tsubasa Meets Squid Game](https://kotaku.com/blue-lock-soccer-anime-2022-qatar-world-cup-1849818828)
- - [Riot disables League of Legends hero who can turn into a one-shot death tower &lpar;but isn&#39;t supposed to&rpar;](https://www.pcgamer.com/riot-disables-league-of-legends-hero-who-can-turn-into-a-one-shot-death-tower-but-isnt-supposed-to)<!-- GAME:END -->
+ - [Expensive Cars Have DLC Now, And It&#39;s Taking The Piss](https://kotaku.com/mercedes-bmw-car-dlc-subscription-unlock-video-games-1849818834)
+ - [What do Darktide&#39;s weapon symbols mean?](https://www.pcgamer.com/darktide-weapon-symbols-stats-icons)
+ - [Warzone 2 DMZ is more like an MMO than an extraction shooter](https://www.pcgamer.com/call-of-duty-warzone-2-dmz-is-the-mmo-i-didnt-know-i-wanted)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
