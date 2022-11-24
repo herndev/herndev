@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
- - [Amazon replenished its best $1,599 MacBook Pro 14-inch Black Friday deal, save up to $500](https://appleinsider.com/articles/22/11/24/amazon-replenished-its-best-1599-macbook-pro-14-inch-black-friday-deal-save-up-to-500?utm_medium=rss)
- - [The best Black Friday phone deals: Over $400 off the Samsung Galaxy S22 Plus](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
+ - [People are definitely eating pokémon in Scarlet and Violet](https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food)
+ - [The best Black Friday deals on smart home tech](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
+ - [Sony throws Battlefield under the bus as it fights Microsoft’s Activision purchase](https://www.theverge.com/2022/11/24/23476746/sony-battlefield-roast-microsoft-activision-blizzard-acquisition-competition-markets-authority)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
