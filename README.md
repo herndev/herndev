@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why you should never stroke a strange dog, especially a Rottweiler!](http://9gag.com/gag/avQGXbZ)
- - ⏩ [What was the conversation?](http://9gag.com/gag/armb2nK)
- - 👉 [Got em .](http://9gag.com/gag/aEqYNme)<!-- MEMES:END -->
+ - 💣 [The principle we all wish we had](http://9gag.com/gag/abvpowB)
+ - ⏩ [Chinese is easy!](http://9gag.com/gag/axoVeO2)
+ - 👉 [German humor](http://9gag.com/gag/amAYQG4)<!-- MEMES:END -->
 
 ---
 
