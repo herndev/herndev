@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
- - [Level-up your gaming in the Corsair Black Friday sale](https://www.androidauthority.com/corsair-black-friday-sale-3240838/)
- - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
+ - [HBO Max is working on a fix for playback errors on Apple TV 4K](https://www.theverge.com/2022/11/23/23475857/hbo-max-cant-play-error-apple-tv-4k-temporary-fix)
+ - [NFL Sunday Ticket streaming deal won&#39;t be finalized until 2023](https://appleinsider.com/articles/22/11/24/nfl-sunday-ticket-streaming-deal-wont-be-finalized-until-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
