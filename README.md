@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I know I&#39;m too old but I have to try It Thank you in advance](http://9gag.com/gag/aZDmzRQ)
- - ⏩ [Play Stupid Games](http://9gag.com/gag/avQGqjE)
- - 👉 [Day 272 of my 3 day war. In the last month 20,000 Russian soldiers have been killed. That&#39;s twice what USSR lost in Afghanistan in 10 years. I remain a master strategist.](http://9gag.com/gag/awZn28D)<!-- MEMES:END -->
+ - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
+ - ⏩ [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - 👉 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)<!-- MEMES:END -->
 
 ---
 
