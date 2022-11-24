@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail Netflix&#39;s internal debate over embracing theatrical releases for big-budget movies, something Ted Sarandos and Reed Hastings call a distraction &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/221124/p15#a221124p15)
- - [Here&#39;s How One Retailer Is Prepping for the Black Friday Cyber Onslaught     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-one-retailer-is-prepping-for-the-black-friday-cyber-onslaught/#ftag=CAD590a51e)
- - [Best Black Friday and Cyber Monday Broadband Deals     - CNET](https://www.cnet.com/news/best-black-friday-and-cyber-monday-broadband-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
+ - [Amazon replenished its best $1,599 MacBook Pro 14-inch Black Friday deal, save up to $500](https://appleinsider.com/articles/22/11/24/amazon-replenished-its-best-1599-macbook-pro-14-inch-black-friday-deal-save-up-to-500?utm_medium=rss)
+ - [The best Black Friday phone deals: Over $400 off the Samsung Galaxy S22 Plus](https://www.androidauthority.com/best-phone-deals-2-1111885/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
