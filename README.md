@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hawked is a new extraction shooter looking for playtesters this weekend](https://www.pcgamer.com/hawked-is-a-new-extraction-shooter-looking-for-playtesters-this-weekend)
- - [Microsoft’s acquisition of Activision ‘likely’ to face FTC lawsuit, report says](https://www.polygon.com/23476842/microsoft-activision-blizzard-ftc-lawsuit-likely)
- - [10 Incredible Games You Should Be Wishlisting Right This Minute](https://kotaku.com/steam-pc-indie-indiegeddon-platformer-puzzle-shooter-1849820599)<!-- GAME:END -->
+ - [Warhammer 40,000: Darktide puts in some crafting upgrades and nice new cosmetics](https://www.pcgamer.com/warhammer-40000-darktide-puts-in-some-crafting-upgrades-and-nice-new-cosmetics)
+ - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
+ - [Bones and All revives an age-old love story in a thrillingly bloody new way](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
