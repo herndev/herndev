@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals under $25](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
- - [Google Messages has started letting some users react with any emoji](https://www.theverge.com/2022/11/23/23475819/google-messages-any-emoji-reaction-test)
+ - [San Francisco police consider letting robots use ‘deadly force’](https://www.theverge.com/2022/11/23/23475817/san-francisco-police-department-robots-deadly-force)
+ - [Level-up your gaming in the Corsair Black Friday sale](https://www.androidauthority.com/corsair-black-friday-sale-3240838/)
  - [Wednesday’s top tech news: Hurray for foldable competition](https://www.theverge.com/2022/11/23/23474840/november-23-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
