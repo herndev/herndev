@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - ⏩ [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - 👉 [2 girls and 1 braincell](http://9gag.com/gag/aNwAR3b)<!-- MEMES:END -->
+ - 💣 [Now I need one](http://9gag.com/gag/aqebQqZ)
+ - ⏩ [The commentator in South Korea games gonna struggle](http://9gag.com/gag/aL1DO2A)
+ - 👉 [Got em .](http://9gag.com/gag/aEqYNme)<!-- MEMES:END -->
 
 ---
 
