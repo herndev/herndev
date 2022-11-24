@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - ⏩ [Facts.](http://9gag.com/gag/armbDdd)
- - 👉 [It&#39;s not much but it&#39;s honest work](http://9gag.com/gag/awZnD04)<!-- MEMES:END -->
+ - 💣 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
+ - ⏩ [Mahlzeit](http://9gag.com/gag/aKEV8P6)
+ - 👉 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)<!-- MEMES:END -->
 
 ---
 
