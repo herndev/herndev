@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favorite weapons for each class in Darktide](https://www.pcgamer.com/darktide-best-weapons)
  - [Discord Nitro is &#39;buy one get one month free&#39; for Black Friday](https://www.pcgamer.com/discord-nitro-is-buy-one-get-one-month-free-for-black-friday)
- - [Expensive Cars Have DLC Now, And It&#39;s Taking The Piss](https://kotaku.com/mercedes-bmw-car-dlc-subscription-unlock-video-games-1849818834)
- - [What do Darktide&#39;s weapon symbols mean?](https://www.pcgamer.com/darktide-weapon-symbols-stats-icons)<!-- GAME:END -->
+ - [Expensive Cars Have DLC Now, And It&#39;s Taking The Piss](https://kotaku.com/mercedes-bmw-car-dlc-subscription-unlock-video-games-1849818834)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
