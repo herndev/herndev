@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: US senators raise concerns as hundreds of China-made DJI recreational drones have violated restricted airspace over Washington, DC in recent months &lpar;Politico&rpar;](http://www.techmeme.com/221123/p23#a221123p23)
  - [The best Black Friday deals on gaming laptops](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)
- - [The 14 Black Friday Deals Everyone Has in Their Cart     - CNET](https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CAD590a51e)
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [The 14 Black Friday Deals Everyone Has in Their Cart     - CNET](https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
