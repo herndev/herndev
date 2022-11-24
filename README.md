@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Thursday, November 24](https://www.pcgamer.com/wordle-523-answer-november-24)
  - [Early access game The Last Leviathan is about to be delisted](https://www.pcgamer.com/early-access-game-the-last-leviathan-is-about-to-be-delisted)
- - [Our favorite weapons for each class in Darktide](https://www.pcgamer.com/darktide-best-weapons)
- - [Discord Nitro is &#39;buy one get one month free&#39; for Black Friday](https://www.pcgamer.com/discord-nitro-is-buy-one-get-one-month-free-for-black-friday)<!-- GAME:END -->
+ - [Our favorite weapons for each class in Darktide](https://www.pcgamer.com/darktide-best-weapons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
