@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung’s update push continues as Galaxy Z Flip 3 gets stable One UI 5](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
- - [Samsung Galaxy Z Fold 3 is now getting stable Android 13](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
- - [Apple Watch Ultra deals debut at Amazon ahead of Black Friday](https://appleinsider.com/articles/22/11/19/apple-watch-ultra-deals-debut-at-amazon-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
+ - [Apple Black Friday deals: save up to $900 on MacBook Pro laptops](https://appleinsider.com/articles/22/11/24/apple-black-friday-deals-save-up-to-900-on-macbook-pro-laptops?utm_medium=rss)
+ - [Sources: Yandex seeks Putin&#39;s assent for restructuring, including selling its Russian business and spinning off key global projects in edtech and other sectors &lpar;Max Seddon/Financial Times&rpar;](http://www.techmeme.com/221124/p4#a221124p4)
+ - [Amazon will phase out Academy, an Indian edtech service launched in 2021 to help students prepare for admission to engineering colleges, starting August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221124/p3#a221124p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
