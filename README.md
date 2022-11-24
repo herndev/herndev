@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sony Dumps On EA From A Great Height In Latest Court Docs](https://kotaku.com/sony-ps5-microsoft-series-x-activision-call-of-duty-1849820571)
- - [Rode X shakes up gaming with a new pro audio-tier product lineup](https://www.pcgamer.com/rode-x-shakes-up-gaming-with-a-new-pro-audio-tier-product-lineup)
- - [World of Warcraft: Dragonflight is aiming to feel more comfortable](https://www.polygon.com/23471176/world-of-warcraft-dragonflight-dragon-riding-valdrakken)<!-- GAME:END -->
+ - [Hawked is a new extraction shooter looking for playtesters this weekend](https://www.pcgamer.com/hawked-is-a-new-extraction-shooter-looking-for-playtesters-this-weekend)
+ - [Microsoft’s acquisition of Activision ‘likely’ to face FTC lawsuit, report says](https://www.polygon.com/23476842/microsoft-activision-blizzard-ftc-lawsuit-likely)
+ - [10 Incredible Games You Should Be Wishlisting Right This Minute](https://kotaku.com/steam-pc-indie-indiegeddon-platformer-puzzle-shooter-1849820599)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
