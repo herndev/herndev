@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to craft a crossbow in Valheim Mistlands](https://www.pcgamer.com/valheim-mistlands-crossbow-arbalest)
- - [Black Friday PC gaming deals UK 2022: the best deals on PCs, components and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk)
- - [Now Zuckerberg&#39;s building AIs to destroy us meatbags in grand strategy games](https://www.pcgamer.com/now-zuckerbergs-building-ais-to-destroy-us-meatbags-in-grand-strategy-games)<!-- GAME:END -->
+ - [Three incredible Black Friday deals from iBUYPOWER](https://www.pcgamer.com/three-incredible-black-friday-deals-from-ibuypower)
+ - [The Pokémon Company Slashes Number Of TCG Cards In Online Packs, Claims It&#39;s &#39;Optimal&#39;](https://kotaku.com/pokemon-tcg-silver-tempest-lost-origin-code-cards-1849820076)
+ - [How to craft a crossbow in Valheim Mistlands](https://www.pcgamer.com/valheim-mistlands-crossbow-arbalest)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
