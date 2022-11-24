@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dubious rumor claims Apple scrapped a $49 Apple Pencil for iPhone](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
- - [A look at Huawei&#39;s future in Europe, as sources say the company is scaling back in the UK, France, and Belgium to focus on China, following US sanctions &lpar;Politico&rpar;](http://www.techmeme.com/221124/p9#a221124p9)
- - [Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America](https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score)<!-- TECH:END -->
+ - [Pokémon Scarlet and Violet are Nintendo’s fastest selling games of all time](https://www.theverge.com/2022/11/24/23476617/pokemon-scarlet-violet-fastest-selling-nintendo-games)
+ - [Sources: Elon Musk disbands Twitter&#39;s Brussels team, sparking compliance concern among EU officials after policy executives departed the small but vital office &lpar;Financial Times&rpar;](http://www.techmeme.com/221124/p12#a221124p12)
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
