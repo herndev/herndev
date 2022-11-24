@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got em .](http://9gag.com/gag/aEqYNme)
- - ⏩ [This guy is level 100000000000000000](http://9gag.com/gag/aXnq10b)
- - 👉 [His goals are beyond our understanding.](http://9gag.com/gag/aOxz5ZD)<!-- MEMES:END -->
+ - 💣 [I know I&#39;m too old but I have to try It Thank you in advance](http://9gag.com/gag/aZDmzRQ)
+ - ⏩ [Play Stupid Games](http://9gag.com/gag/avQGqjE)
+ - 👉 [Day 272 of my 3 day war. In the last month 20,000 Russian soldiers have been killed. That&#39;s twice what USSR lost in Afghanistan in 10 years. I remain a master strategist.](http://9gag.com/gag/awZn28D)<!-- MEMES:END -->
 
 ---
 
