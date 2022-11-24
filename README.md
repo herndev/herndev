@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Black Friday deals on Mac &amp; iPhone accessories, storage](https://appleinsider.com/articles/22/11/24/best-black-friday-deals-on-mac-iphone-accessories-storage?utm_medium=rss)
- - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)
- - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)<!-- TECH:END -->
+ - [Sonos deals: Black Friday prices and extra perks from Crutchfield](https://www.androidauthority.com/sonos-crutchfield-deals-3241110/)
+ - [Elon Musk just decided to bring the worst people on the internet back to Twitter](https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter)
+ - [Twitter will offer a &quot;general amnesty&quot; next week to suspended accounts that &quot;have not broken the law or engaged in egregious spam&quot; after 72% vote yes in a poll &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/221124/p21#a221124p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
