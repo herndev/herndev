@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Prosus valued its 9.67% stake in Byju&#39;s at $578M at the end of Q3 2022, implying Byju&#39;s total value to be $5.9B; Byju&#39;s was valued at $22B in October 2022 &lpar;Moneycontrol&rpar;](http://www.techmeme.com/221123/p26#a221123p26)
- - [Stability AI releases Stable Diffusion 2.0, which can now generate images with default resolution of 512x512 and 768x768, and can upscale images to 2048x2048 &lpar;Bill Cusick/Stability.Ai&rpar;](http://www.techmeme.com/221123/p25#a221123p25)
- - [All three founders of online trading service Pipe are stepping down as the company looks for a &quot;veteran&quot; CEO; Pipe raised $250M at a $2B valuation in May 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221123/p24#a221123p24)<!-- TECH:END -->
+ - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
+ - [Frederick P. Brooks Jr., a Turing Award recipient who co-led IBM&#39;s System/360 project and wrote a book cited as gospel by computer scientists, dies at 91 &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/221123/p27#a221123p27)
+ - [The 8 Best Teas for Anxiety and Easing Stress     - CNET](https://www.cnet.com/health/mental/best-teas-for-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
