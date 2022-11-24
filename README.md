@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon’s already greenlit an FTX miniseries](https://www.theverge.com/2022/11/23/23475998/amazon-ftx-show-sam-bankman-fried)
- - [HBO Max is working on a fix for playback errors on Apple TV 4K](https://www.theverge.com/2022/11/23/23475857/hbo-max-cant-play-error-apple-tv-4k-temporary-fix)
- - [NFL Sunday Ticket streaming deal won&#39;t be finalized until 2023](https://appleinsider.com/articles/22/11/24/nfl-sunday-ticket-streaming-deal-wont-be-finalized-until-2023?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals on gaming laptops](https://www.theverge.com/23472236/black-friday-2022-gaming-laptop-deals-cyber-monday-acer-asus-alienware-dell)
+ - [The 14 Black Friday Deals Everyone Has in Their Cart     - CNET](https://www.cnet.com/deals/the-14-black-friday-deals-everyone-has-in-their-cart/#ftag=CAD590a51e)
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
