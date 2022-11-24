@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources detail Netflix&#39;s internal debate over embracing theatrical releases for big-budget movies, something Ted Sarandos and Reed Hastings call a distraction &lpar;Nicole Sperling/New York Times&rpar;](http://www.techmeme.com/221124/p15#a221124p15)
  - [Here&#39;s How One Retailer Is Prepping for the Black Friday Cyber Onslaught     - CNET](https://www.cnet.com/tech/services-and-software/heres-how-one-retailer-is-prepping-for-the-black-friday-cyber-onslaught/#ftag=CAD590a51e)
- - [Best Black Friday and Cyber Monday Broadband Deals     - CNET](https://www.cnet.com/news/best-black-friday-and-cyber-monday-broadband-deals/#ftag=CAD590a51e)
- - [Pixel 7 vs. iPhone 14 vs. Galaxy S22: Big 3 Flagship Phones of 2022, Spec by Spec     - CNET](https://www.cnet.com/tech/mobile/pixel-7-vs-iphone-14-vs-galaxy-s22-big-three-flagships-of-2022-spec-by-spec/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best Black Friday and Cyber Monday Broadband Deals     - CNET](https://www.cnet.com/news/best-black-friday-and-cyber-monday-broadband-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
