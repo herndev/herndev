@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - ⏩ [Dank?](http://9gag.com/gag/a4obB36)
- - 👉 [I needed this in my life](http://9gag.com/gag/abvpLg9)<!-- MEMES:END -->
+ - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - ⏩ [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
+ - 👉 [2 girls and 1 braincell](http://9gag.com/gag/aNwAR3b)<!-- MEMES:END -->
 
 ---
 
