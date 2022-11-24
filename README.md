@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The principle we all wish we had](http://9gag.com/gag/abvpowB)
- - ⏩ [Chinese is easy!](http://9gag.com/gag/axoVeO2)
- - 👉 [German humor](http://9gag.com/gag/amAYQG4)<!-- MEMES:END -->
+ - 💣 [Got em .](http://9gag.com/gag/aEqYNme)
+ - ⏩ [This guy is level 100000000000000000](http://9gag.com/gag/aXnq10b)
+ - 👉 [His goals are beyond our understanding.](http://9gag.com/gag/aOxz5ZD)<!-- MEMES:END -->
 
 ---
 
