@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
  - [Happy Thanksgiving from AppleInsider](https://appleinsider.com/articles/22/11/24/happy-thanksgiving-from-appleinsider?utm_medium=rss)
- - [Skip Meat Once a Week and Watch Your Grocery Bills Drop     - CNET](https://www.cnet.com/news/skip-meat-once-a-week-and-watch-your-grocery-bills-drop/#ftag=CAD590a51e)
- - [Sonos deals: Black Friday prices and extra perks from Crutchfield](https://www.androidauthority.com/sonos-crutchfield-deals-3241110/)<!-- TECH:END -->
+ - [263+ Best Black Friday Deals Available to Buy Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
