@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Apple Black Friday deals: $550 off iPad Pro, $99 64GB Apple TV, $499 iPad Air, $500 off MacBook Pro, $199 AirPods Pro 2](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
- - [Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
- - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [The best Black Friday 2022 phone deals](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
