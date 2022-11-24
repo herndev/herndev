@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idiot crashes rented Lamborghini after going 320km/h &lpar;200mph&rpar; on the highway](http://9gag.com/gag/aVbqVrO)
- - ⏩ [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
- - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
+ - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - ⏩ [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
+ - 👉 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)<!-- MEMES:END -->
 
 ---
 
