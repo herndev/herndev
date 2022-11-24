@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top 15 UK Black Friday deals available right now](https://www.androidauthority.com/best-uk-black-friday-deals-3240604/)
- - [Foxconn offers ~$1,400 payouts to newly recruited Chinese workers who opt to leave its iPhone factory, aiming to quell unrest after violent clashes with police &lpar;Financial Times&rpar;](http://www.techmeme.com/221124/p8#a221124p8)
- - [Sam Bankman-Fried plans to speak at The New York Times&#39; annual DealBook Summit on November 30; Andrew Ross Sorkin says &quot;nothing is off limits&quot; &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/221124/p7#a221124p7)<!-- TECH:END -->
+ - [Dubious rumor claims Apple scrapped a $49 Apple Pencil for iPhone](https://appleinsider.com/articles/22/11/24/dubious-rumor-claims-apple-scrapped-a-49-apple-pencil-for-iphone?utm_medium=rss)
+ - [A look at Huawei&#39;s future in Europe, as sources say the company is scaling back in the UK, France, and Belgium to focus on China, following US sanctions &lpar;Politico&rpar;](http://www.techmeme.com/221124/p9#a221124p9)
+ - [Tesla’s ‘Full Self-Driving’ Beta is now available to everyone in North America](https://www.theverge.com/2022/11/24/23476570/teslas-full-self-driving-beta-release-north-america-safety-score)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
