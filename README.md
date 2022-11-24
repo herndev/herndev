@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save 93% on a Lifetime Learning Bundle with Rosetta Stone, now on sale for $127](https://appleinsider.com/articles/22/11/24/save-93-on-a-lifetime-learning-bundle-with-rosetta-stone-now-on-sale-for-127?utm_medium=rss)
- - [Black Friday deal: get 3 months of Xbox Live Gold for $9.99](https://appleinsider.com/articles/22/11/24/black-friday-deal-get-3-months-of-xbox-live-gold-for-999?utm_medium=rss)
- - [Bob Iger returns to a more competitive and challenging streaming landscape and should steer Disney+ to profitability without cannibalizing Disney&#39;s other units &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/221124/p1#a221124p1)<!-- TECH:END -->
+ - [Samsung’s update push continues as Galaxy Z Flip 3 gets stable One UI 5](https://www.androidauthority.com/samsung-galaxy-z-flip-3-updates-2747512/)
+ - [Samsung Galaxy Z Fold 3 is now getting stable Android 13](https://www.androidauthority.com/samsung-galaxy-z-fold-3-updates-3032543/)
+ - [Apple Watch Ultra deals debut at Amazon ahead of Black Friday](https://appleinsider.com/articles/22/11/19/apple-watch-ultra-deals-debut-at-amazon-ahead-of-black-friday?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
