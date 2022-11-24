@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Discord Nitro is &#39;buy one get one month free&#39; for Black Friday](https://www.pcgamer.com/discord-nitro-is-buy-one-get-one-month-free-for-black-friday)
  - [Expensive Cars Have DLC Now, And It&#39;s Taking The Piss](https://kotaku.com/mercedes-bmw-car-dlc-subscription-unlock-video-games-1849818834)
- - [What do Darktide&#39;s weapon symbols mean?](https://www.pcgamer.com/darktide-weapon-symbols-stats-icons)
- - [Warzone 2 DMZ is more like an MMO than an extraction shooter](https://www.pcgamer.com/call-of-duty-warzone-2-dmz-is-the-mmo-i-didnt-know-i-wanted)<!-- GAME:END -->
+ - [What do Darktide&#39;s weapon symbols mean?](https://www.pcgamer.com/darktide-weapon-symbols-stats-icons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
