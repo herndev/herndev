@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The day Conor McGregor almost go to the Gulag](http://9gag.com/gag/aEqYo9N)
- - ⏩ [Mahlzeit](http://9gag.com/gag/aKEV8P6)
- - 👉 [This should be a go straight to jail card](http://9gag.com/gag/aDYWOGZ)<!-- MEMES:END -->
+ - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - ⏩ [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
+ - 👉 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)<!-- MEMES:END -->
 
 ---
 
