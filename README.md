@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Black Friday deals: save up to $900 on MacBook Pro laptops](https://appleinsider.com/articles/22/11/24/apple-black-friday-deals-save-up-to-900-on-macbook-pro-laptops?utm_medium=rss)
- - [Sources: Yandex seeks Putin&#39;s assent for restructuring, including selling its Russian business and spinning off key global projects in edtech and other sectors &lpar;Max Seddon/Financial Times&rpar;](http://www.techmeme.com/221124/p4#a221124p4)
- - [Amazon will phase out Academy, an Indian edtech service launched in 2021 to help students prepare for admission to engineering colleges, starting August 2023 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221124/p3#a221124p3)<!-- TECH:END -->
+ - [Daily Authority: 📱 Hands-on with this Galaxy Z Fold 4 rival](https://www.androidauthority.com/daily-authority-november-24-2022-3240917/)
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
+ - [The US Fed raising interest rates faster than expected is driving the crypto crash, tech layoffs, and more, as companies value &quot;money now&quot; over long-term bets &lpar;Matthew Yglesias/Slow Boring&rpar;](http://www.techmeme.com/221124/p5#a221124p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
