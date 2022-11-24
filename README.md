@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Darktide puts in some crafting upgrades and nice new cosmetics](https://www.pcgamer.com/warhammer-40000-darktide-puts-in-some-crafting-upgrades-and-nice-new-cosmetics)
- - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
- - [Bones and All revives an age-old love story in a thrillingly bloody new way](https://www.polygon.com/reviews/23475989/bones-and-all-review-luca-guadagnino-timothee-chalamet)<!-- GAME:END -->
+ - [There’s fascinating drama underneath Nanny’s obligatory Blumhouse scares](https://www.polygon.com/reviews/23475217/nanny-review-amazon-prime-video-horror)
+ - [A massively ambitious 20-year-old Morrowind mod adds two major new regions](https://www.pcgamer.com/a-massively-ambitious-20-year-old-morrowind-mod-adds-two-major-new-regions)
+ - [Warhammer 40,000: Darktide puts in some crafting upgrades and nice new cosmetics](https://www.pcgamer.com/warhammer-40000-darktide-puts-in-some-crafting-upgrades-and-nice-new-cosmetics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
