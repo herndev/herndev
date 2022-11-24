@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - 💣 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
  - ⏩ [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 👉 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)<!-- MEMES:END -->
+ - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
 
 ---
 
