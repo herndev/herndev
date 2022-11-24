@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [People are definitely eating pokémon in Scarlet and Violet](https://www.theverge.com/23466811/pokemon-scarlet-violet-eating-klawf-toedscool-food)
- - [The best Black Friday deals on smart home tech](https://www.theverge.com/23475433/black-friday-2022-smart-home-tech-deals-cyber-monday)
- - [Sony throws Battlefield under the bus as it fights Microsoft’s Activision purchase](https://www.theverge.com/2022/11/24/23476746/sony-battlefield-roast-microsoft-activision-blizzard-acquisition-competition-markets-authority)<!-- TECH:END -->
+ - [Best Amazon Apple Black Friday deals: $550 off iPad Pro, $99 64GB Apple TV, $499 iPad Air, $500 off MacBook Pro, $199 AirPods Pro 2](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
+ - [Best Black Friday deals on 4K monitors, for as low as $199](https://appleinsider.com/articles/22/11/24/the-best-black-friday-deals-on-4k-monitors-for-as-low-as-199?utm_medium=rss)
+ - [Best Black Friday Thunderbolt dock deals, save up to $100!](https://appleinsider.com/articles/22/11/24/best-black-friday-thunderbolt-dock-deals-save-up-to-100?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
