@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Skyrim high-poly garlic mod has way more optimized vertices than the last high-poly Skyrim garlic mod](https://www.pcgamer.com/new-skyrim-high-poly-garlic-mod-has-way-more-optimized-vertices-than-the-last-high-poly-skyrim-garlic-mod)
- - [Black Friday gaming monitor deals 2022: big-screen, high-refresh, and even 4K discount funkiness](https://www.pcgamer.com/black-friday-gaming-monitor-deals)
- - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)<!-- GAME:END -->
+ - [How to craft a crossbow in Valheim Mistlands](https://www.pcgamer.com/valheim-mistlands-crossbow-arbalest)
+ - [Black Friday PC gaming deals UK 2022: the best deals on PCs, components and peripherals](https://www.pcgamer.com/black-friday-pc-gaming-deals-uk)
+ - [Now Zuckerberg&#39;s building AIs to destroy us meatbags in grand strategy games](https://www.pcgamer.com/now-zuckerbergs-building-ais-to-destroy-us-meatbags-in-grand-strategy-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
