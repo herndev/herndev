@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It appears 9gag is afraid of the 13%](http://9gag.com/gag/abvpoYB)
- - ⏩ [This is why you should never stroke a strange dog, especially a Rottweiler!](http://9gag.com/gag/avQGXbZ)
- - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
+ - 💣 [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)
+ - ⏩ [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
+ - 👉 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
 
 ---
 
