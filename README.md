@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sonos deals: Black Friday prices and extra perks from Crutchfield](https://www.androidauthority.com/sonos-crutchfield-deals-3241110/)
- - [Elon Musk just decided to bring the worst people on the internet back to Twitter](https://www.theverge.com/2022/11/24/23476655/elon-musk-general-amnesty-mass-unban-twitter)
- - [Twitter will offer a &quot;general amnesty&quot; next week to suspended accounts that &quot;have not broken the law or engaged in egregious spam&quot; after 72% vote yes in a poll &lpar;Taylor Lorenz/Washington Post&rpar;](http://www.techmeme.com/221124/p21#a221124p21)<!-- TECH:END -->
+ - [Happy Thanksgiving from AppleInsider](https://appleinsider.com/articles/22/11/24/happy-thanksgiving-from-appleinsider?utm_medium=rss)
+ - [Skip Meat Once a Week and Watch Your Grocery Bills Drop     - CNET](https://www.cnet.com/news/skip-meat-once-a-week-and-watch-your-grocery-bills-drop/#ftag=CAD590a51e)
+ - [Sonos deals: Black Friday prices and extra perks from Crutchfield](https://www.androidauthority.com/sonos-crutchfield-deals-3241110/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
