@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - ⏩ [Belgian minister of foreign affairs dare to stand up to fifa boss Infantino while wearing a &#39;one love&#39; band in the stadion of Qatar. She has also a islamic background](http://9gag.com/gag/axoVQw1)
- - 👉 [What movie is this](http://9gag.com/gag/aPgBzzB)<!-- MEMES:END -->
+ - 💣 [Before and after](http://9gag.com/gag/aBdWv1Z)
+ - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
+ - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
 
 ---
 
