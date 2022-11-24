@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Has technology left this world and went too far away to another galaxy?](http://9gag.com/gag/aKEVpBZ)
- - ⏩ [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - 👉 [Gentleman](http://9gag.com/gag/aYVxA4v)<!-- MEMES:END -->
+ - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - ⏩ [Why would you even apply ?](http://9gag.com/gag/adP7MAM)
+ - 👉 [She got a senior citizen discount later](http://9gag.com/gag/ay2DrDY)<!-- MEMES:END -->
 
 ---
 
