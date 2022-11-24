@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Japan won against Germany, every Japanese right now](http://9gag.com/gag/a8qynNZ)
- - ⏩ [Hello?](http://9gag.com/gag/axoVAVM)
- - 👉 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)<!-- MEMES:END -->
+ - 💣 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
+ - ⏩ [Belgian minister of foreign affairs dare to stand up to fifa boss Infantino while wearing a &#39;one love&#39; band in the stadion of Qatar. She has also a islamic background](http://9gag.com/gag/axoVQw1)
+ - 👉 [What movie is this](http://9gag.com/gag/aPgBzzB)<!-- MEMES:END -->
 
 ---
 
