@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Before and after](http://9gag.com/gag/aBdWv1Z)
- - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
- - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
+ - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - ⏩ [Dank?](http://9gag.com/gag/a4obB36)
+ - 👉 [I needed this in my life](http://9gag.com/gag/abvpLg9)<!-- MEMES:END -->
 
 ---
 
