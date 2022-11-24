@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Black Friday deals on Mac &amp; iPhone accessories, storage](https://appleinsider.com/articles/22/11/24/best-black-friday-deals-on-mac-iphone-accessories-storage?utm_medium=rss)
  - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)
- - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)
- - [28 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
