@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet And Violet Are The Fastest-Selling Games In The History Of Nintendo](https://kotaku.com/pokemon-scarlet-violet-bugs-best-seller-nintendo-switch-1849818749)
- - [Pokémon Scarlet and Violet sell 10M copies in spite of performance complaints](https://www.polygon.com/pokemon/23475973/pokemon-scarlet-violet-sells-10-million-copies-nintedo-switch)
- - [We must put aside our petty differences and vote for &#39;goblin mode&#39; over &#39;metaverse&#39; as the Oxford Word of the Year](https://www.pcgamer.com/we-must-put-aside-our-petty-differences-and-vote-for-goblin-mode-over-metaverse-as-the-oxford-word-of-the-year)<!-- GAME:END -->
+ - [Report: Feds &#39;Likely&#39; To Fight Microsoft&#39;s Purchase Of Activision Blizzard](https://kotaku.com/ftc-activision-blizzard-microsoft-feds-antitrust-suit-1849818957)
+ - [This Sports Anime Is Captain Tsubasa Meets Squid Game](https://kotaku.com/blue-lock-soccer-anime-2022-qatar-world-cup-1849818828)
+ - [Riot disables League of Legends hero who can turn into a one-shot death tower &lpar;but isn&#39;t supposed to&rpar;](https://www.pcgamer.com/riot-disables-league-of-legends-hero-who-can-turn-into-a-one-shot-death-tower-but-isnt-supposed-to)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
