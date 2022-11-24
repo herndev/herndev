@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now I need one](http://9gag.com/gag/aqebQqZ)
- - ⏩ [The commentator in South Korea games gonna struggle](http://9gag.com/gag/aL1DO2A)
- - 👉 [Got em .](http://9gag.com/gag/aEqYNme)<!-- MEMES:END -->
+ - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - ⏩ [Facts.](http://9gag.com/gag/armbDdd)
+ - 👉 [It&#39;s not much but it&#39;s honest work](http://9gag.com/gag/awZnD04)<!-- MEMES:END -->
 
 ---
 
