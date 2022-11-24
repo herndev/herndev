@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hello?](http://9gag.com/gag/axoVAVM)
- - ⏩ [For whoever need this..](http://9gag.com/gag/a8qyXne)
- - 👉 [King of \ud83d\udda4](http://9gag.com/gag/aNwA804)<!-- MEMES:END -->
+ - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - ⏩ [The EP deputies called on the EU to include PMC `Wagner` in the list of terrorist organizations. In response, Wagner owner handed over to the European Parliament an \u201cinformation case\u201d - a sledgehammer with an engraved Wagner PMC logo and traces of \u201cblood\u201d on the handle.](http://9gag.com/gag/aYVxZx2)
+ - 👉 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)<!-- MEMES:END -->
 
 ---
 
