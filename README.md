@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Three incredible Black Friday deals from iBUYPOWER](https://www.pcgamer.com/three-incredible-black-friday-deals-from-ibuypower)
- - [The Pokémon Company Slashes Number Of TCG Cards In Online Packs, Claims It&#39;s &#39;Optimal&#39;](https://kotaku.com/pokemon-tcg-silver-tempest-lost-origin-code-cards-1849820076)
- - [How to craft a crossbow in Valheim Mistlands](https://www.pcgamer.com/valheim-mistlands-crossbow-arbalest)<!-- GAME:END -->
+ - [The 15 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
+ - [EA is real sorry it called that guy &#39;milkshake brain&#39;](https://www.pcgamer.com/ea-is-real-sorry-it-called-that-guy-milkshake-brain)
+ - [Glass Onion loses Knives Out’s sharp edge](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
