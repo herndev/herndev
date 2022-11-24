@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Thursday, November 24](https://www.pcgamer.com/wordle-523-answer-november-24)
- - [Early access game The Last Leviathan is about to be delisted](https://www.pcgamer.com/early-access-game-the-last-leviathan-is-about-to-be-delisted)
- - [Our favorite weapons for each class in Darktide](https://www.pcgamer.com/darktide-best-weapons)<!-- GAME:END -->
+ - [Black Friday graphics card deals 2022: pixel pushers in stock and discounted](https://www.pcgamer.com/black-friday-graphics-card-deals)
+ - [Black Friday gaming keyboard and mouse deals 2022: more clickety clacks for less](https://www.pcgamer.com/black-friday-keyboard-mouse-deals)
+ - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
