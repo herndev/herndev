@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
- - ⏩ [Solve for X.](http://9gag.com/gag/axoVn8K)
- - 👉 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)<!-- MEMES:END -->
+ - 💣 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
 
 ---
 
