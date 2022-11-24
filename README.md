@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
- - [Frederick P. Brooks Jr., a Turing Award recipient who co-led IBM&#39;s System/360 project and wrote a book cited as gospel by computer scientists, dies at 91 &lpar;Steve Lohr/New York Times&rpar;](http://www.techmeme.com/221123/p27#a221123p27)
- - [The 8 Best Teas for Anxiety and Easing Stress     - CNET](https://www.cnet.com/health/mental/best-teas-for-anxiety-and-stress/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save 93% on a Lifetime Learning Bundle with Rosetta Stone, now on sale for $127](https://appleinsider.com/articles/22/11/24/save-93-on-a-lifetime-learning-bundle-with-rosetta-stone-now-on-sale-for-127?utm_medium=rss)
+ - [Black Friday deal: get 3 months of Xbox Live Gold for $9.99](https://appleinsider.com/articles/22/11/24/black-friday-deal-get-3-months-of-xbox-live-gold-for-999?utm_medium=rss)
+ - [Bob Iger returns to a more competitive and challenging streaming landscape and should steer Disney+ to profitability without cannibalizing Disney&#39;s other units &lpar;Sarah Krouse/Wall Street Journal&rpar;](http://www.techmeme.com/221124/p1#a221124p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
