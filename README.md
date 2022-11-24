@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 15 Best Games For Sony&#39;s PlayStation 5](https://kotaku.com/the-best-games-for-the-playstation-5-1845726626)
- - [EA is real sorry it called that guy &#39;milkshake brain&#39;](https://www.pcgamer.com/ea-is-real-sorry-it-called-that-guy-milkshake-brain)
- - [Glass Onion loses Knives Out’s sharp edge](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix)<!-- GAME:END -->
+ - [Sony Dumps On EA From A Great Height In Latest Court Docs](https://kotaku.com/sony-ps5-microsoft-series-x-activision-call-of-duty-1849820571)
+ - [Rode X shakes up gaming with a new pro audio-tier product lineup](https://www.pcgamer.com/rode-x-shakes-up-gaming-with-a-new-pro-audio-tier-product-lineup)
+ - [World of Warcraft: Dragonflight is aiming to feel more comfortable](https://www.polygon.com/23471176/world-of-warcraft-dragonflight-dragon-riding-valdrakken)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
