@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 Hands-on with this Galaxy Z Fold 4 rival](https://www.androidauthority.com/daily-authority-november-24-2022-3240917/)
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
- - [The US Fed raising interest rates faster than expected is driving the crypto crash, tech layoffs, and more, as companies value &quot;money now&quot; over long-term bets &lpar;Matthew Yglesias/Slow Boring&rpar;](http://www.techmeme.com/221124/p5#a221124p5)<!-- TECH:END -->
+ - [The top 15 UK Black Friday deals available right now](https://www.androidauthority.com/best-uk-black-friday-deals-3240604/)
+ - [Foxconn offers ~$1,400 payouts to newly recruited Chinese workers who opt to leave its iPhone factory, aiming to quell unrest after violent clashes with police &lpar;Financial Times&rpar;](http://www.techmeme.com/221124/p8#a221124p8)
+ - [Sam Bankman-Fried plans to speak at The New York Times&#39; annual DealBook Summit on November 30; Andrew Ross Sorkin says &quot;nothing is off limits&quot; &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/221124/p7#a221124p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
