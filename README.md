@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
+ - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
+ - ⏩ [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - 👉 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)<!-- MEMES:END -->
 
 ---
 
