@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ever wonder what creates traffic? This guy.](http://9gag.com/gag/a04b1Mv)
- - ⏩ [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)
- - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
+ - 💣 [This is why you should never stroke a strange dog, especially a Rottweiler!](http://9gag.com/gag/avQGXbZ)
+ - ⏩ [What was the conversation?](http://9gag.com/gag/armb2nK)
+ - 👉 [Got em .](http://9gag.com/gag/aEqYNme)<!-- MEMES:END -->
 
 ---
 
