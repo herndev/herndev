@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
  - [Report says US government will &#39;likely&#39; challenge Microsoft buying Activision Blizzard](https://www.pcgamer.com/report-says-us-government-will-likely-challenge-microsoft-buying-activision-blizzard)
- - [Call of Duty: Warzone 2 review](https://www.pcgamer.com/call-of-duty-warzone-2-review)
- - [There’s fascinating drama underneath Nanny’s obligatory Blumhouse scares](https://www.polygon.com/reviews/23475217/nanny-review-amazon-prime-video-horror)<!-- GAME:END -->
+ - [Call of Duty: Warzone 2 review](https://www.pcgamer.com/call-of-duty-warzone-2-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
