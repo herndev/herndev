@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s Guide to Black Friday 2022](https://www.theverge.com/23437426/black-friday-guide-cyber-monday-tech-gadgets-2022)
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [The best Black Friday 2022 phone deals](https://www.theverge.com/23475851/black-friday-2022-phone-deals-cyber-monday-apple-iphone-samsung-google-motorola)<!-- TECH:END -->
+ - [Google&#39;s Project Zero reported five security flaws in devices with Mali GPUs in the summer, but Samsung, Xiaomi, Google, and others are yet to release patches &lpar;Kris Holt/Engadget&rpar;](http://www.techmeme.com/221124/p20#a221124p20)
+ - [The top 15 Canada Black Friday deals available right now](https://www.androidauthority.com/canada-black-friday-deals-2022-3241059/)
+ - [28 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
