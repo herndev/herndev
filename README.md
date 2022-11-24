@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oil randomly poping out of ground in Masjed Soleiman, Iran](http://9gag.com/gag/aNwAB9K)
- - ⏩ [Aah the satisfaction](http://9gag.com/gag/aZDmv80)
- - 👉 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)<!-- MEMES:END -->
+ - 💣 [It appears 9gag is afraid of the 13%](http://9gag.com/gag/abvpoYB)
+ - ⏩ [This is why you should never stroke a strange dog, especially a Rottweiler!](http://9gag.com/gag/avQGXbZ)
+ - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
 
 ---
 
