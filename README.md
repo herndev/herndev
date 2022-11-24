@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - ⏩ [The EP deputies called on the EU to include PMC `Wagner` in the list of terrorist organizations. In response, Wagner owner handed over to the European Parliament an \u201cinformation case\u201d - a sledgehammer with an engraved Wagner PMC logo and traces of \u201cblood\u201d on the handle.](http://9gag.com/gag/aYVxZx2)
- - 👉 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)<!-- MEMES:END -->
+ - 💣 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
+ - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
+ - 👉 [Before and after](http://9gag.com/gag/aBdWv1Z)<!-- MEMES:END -->
 
 ---
 
