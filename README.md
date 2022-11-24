@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You spin me right &#39;round, baby, right &#39;round](http://9gag.com/gag/aREmvKy)
- - ⏩ [Nicholas Mevoli After His Last &#39;Free Dive&#39;. He Was Attempting To Dive 236ft Deep. He Completed The Dive, Surfaced, Gave The Ok Sign, Tried To Speak, And Then Passed Out. He Never Regained Consciousness And Died That Same Day From Pulmonary Edema](http://9gag.com/gag/awZnLYD)
- - 👉 [Before and after](http://9gag.com/gag/aBdWv1Z)<!-- MEMES:END -->
+ - 💣 [Japan won against Germany, every Japanese right now](http://9gag.com/gag/a8qynNZ)
+ - ⏩ [Hello?](http://9gag.com/gag/axoVAVM)
+ - 👉 [What? A fidget stick?](http://9gag.com/gag/aqebBWY)<!-- MEMES:END -->
 
 ---
 
