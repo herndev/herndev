@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - ⏩ [Why would you even apply ?](http://9gag.com/gag/adP7MAM)
- - 👉 [She got a senior citizen discount later](http://9gag.com/gag/ay2DrDY)<!-- MEMES:END -->
+ - 💣 [Idiot crashes rented Lamborghini after going 320km/h &lpar;200mph&rpar; on the highway](http://9gag.com/gag/aVbqVrO)
+ - ⏩ [Me and every other OP](http://9gag.com/gag/aeQbmXQ)
+ - 👉 [This is why I don&#39;t use banks safety deposit boxes they can&#39;t freeze](http://9gag.com/gag/amAYVXj)<!-- MEMES:END -->
 
 ---
 
