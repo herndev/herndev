@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Rockstar wants GTA Online players to steal $2 trillion &lpar;yes, trillion&rpar; in a week](https://www.pcgamer.com/rockstar-wants-gta-online-players-to-steal-dollar2-trillion-yes-trillion-in-a-week)
  - [Black Friday gaming chair deals 2022: cheap seats for gamers and streamers](https://www.pcgamer.com/black-friday-gaming-chair-deals)
- - [Vampire Survivors Adds A Death Bridge](https://kotaku.com/vampire-survivors-poncle-pc-steam-xbox-game-pass-action-1849822202)
- - [Leonor Will Never Die rethinks Being John Malkovich in an era of movie obsession](https://www.polygon.com/reviews/23475458/leonor-will-never-die-review)<!-- GAME:END -->
+ - [Vampire Survivors Adds A Death Bridge](https://kotaku.com/vampire-survivors-poncle-pc-steam-xbox-game-pass-action-1849822202)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
