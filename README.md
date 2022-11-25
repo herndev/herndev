@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - ⏩ [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)
- - 👉 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
+ - 💣 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - ⏩ [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
+ - 👉 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
 
 ---
 
