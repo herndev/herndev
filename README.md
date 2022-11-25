@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)
- - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)
- - [Genshin Impact Version 3.3: Time for a game of cards](https://blog.playstation.com/2022/11/25/genshin-impact-version-3-3-time-for-a-game-of-cards/)<!-- GAME:END -->
+ - [Black Friday board game deals: Hasbro’s best new titles go on sale, plus some old classics](https://www.polygon.com/23471851/black-friday-board-game-deals-hasbro)
+ - [Pokémon Scarlet And Violet’s ‘Free Exploration’ Isn’t All It’s Cracked Up To Be](https://kotaku.com/pokemon-scarlet-violet-paldea-exploration-gym-battles-1849819034)
+ - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
