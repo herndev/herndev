@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [IMF calls for more crypto regulation in Africa, says 25% of countries in sub-Saharan Africa have regulated crypto and two-thirds have imposed some restrictions &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/221124/p23#a221124p23)
- - [Amazon drops Apple Pencil 2 to $89 in epic Black Friday deal](https://appleinsider.com/articles/22/11/25/amazon-drops-apple-pencil-2-to-89-in-epic-black-friday-deal?utm_medium=rss)
- - [Best Black Friday iPad deals: prices as low as $269, live updates](https://appleinsider.com/articles/22/11/25/best-black-friday-ipad-deals-prices-as-low-as-269-live-updates?utm_medium=rss)<!-- TECH:END -->
+ - [The Galaxy S23 series could offer satellite support with a key upgrade](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-3239529/)
+ - [B&amp;H&#39;s Black Friday Deal Zone knocks $400 off Apple&#39;s loaded MacBook Pro 13-inch with M1](https://appleinsider.com/articles/22/11/25/bhs-black-friday-deal-zone-knocks-400-off-apples-loaded-macbook-pro-13-inch-with-m1?utm_medium=rss)
+ - [73 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
