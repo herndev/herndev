@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The OnePlus 10 Pro is a fantastic deal at $550 for Black Friday](https://www.androidauthority.com/oneplus-10-pro-black-friday-amazon-3241258/)
- - [Elon Musk says Twitter will begin manually authenticating Blue, Grey, and Gold accounts as soon as next week](https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [35 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
+ - [Splinter Cell is getting a… radio adaptation?](https://www.theverge.com/2022/11/25/23477567/splinter-cell-firewall-radio-adaptation-bbc-radio-4-will-poulter)
+ - [78 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
