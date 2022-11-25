@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
- - ⏩ [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - 👉 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
+ - 💣 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - ⏩ [Simping only gets you broke,guys.](http://9gag.com/gag/a6qbP7R)
+ - 👉 [Work hard play hard](http://9gag.com/gag/aOxzwr2)<!-- MEMES:END -->
 
 ---
 
