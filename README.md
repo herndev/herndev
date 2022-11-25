@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
  - [Today&#39;s Wordle answer and hint for Friday, November 25](https://www.pcgamer.com/wordle-524-answer-november-25)
- - [Fanatical&#39;s Black Friday Sale includes a free game, some historic low prices](https://www.pcgamer.com/fanaticals-black-friday-sale-includes-a-free-game-some-historic-low-prices)
- - [Don&#39;t miss these hidden gems in the Steam Autumn Sale](https://www.pcgamer.com/dont-miss-these-hidden-gems-in-the-steam-autumn-sale)<!-- GAME:END -->
+ - [Fanatical&#39;s Black Friday Sale includes a free game, some historic low prices](https://www.pcgamer.com/fanaticals-black-friday-sale-includes-a-free-game-some-historic-low-prices)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
