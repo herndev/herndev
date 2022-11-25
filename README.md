@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [Get up to 50% off with these JBL Black Friday deals](https://www.androidauthority.com/jbl-black-friday-3241452/)
- - [The best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers)<!-- TECH:END -->
+ - [Get up to a 51% discount on Amazfit smartwatches with these Black Friday deals](https://www.androidauthority.com/amazfit-black-friday-3241471/)
+ - [34 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022/)
+ - [The God of War Ragnarök PS5 bundle is back in stock at Walmart](https://www.theverge.com/good-deals/2021/11/9/22772583/playstation-5-ps5-console-restock-walmart-time-buy-disc-god-of-war-ragnarok)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
