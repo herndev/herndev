@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [A No Man&#39;s Sky standalone app lets you create bases and import them into the game](https://www.pcgamer.com/a-no-mans-sky-standalone-app-lets-you-design-bases-and-import-them-into-the-game)
- - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
- - [Rockstar wants GTA Online players to steal $2 trillion &lpar;yes, trillion&rpar; in a week](https://www.pcgamer.com/rockstar-wants-gta-online-players-to-steal-dollar2-trillion-yes-trillion-in-a-week)<!-- GAME:END -->
+ - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)
+ - [The best Newegg deals this Black Friday](https://www.pcgamer.com/the-best-newegg-deals-this-black-friday)
+ - [This Week on Xbox: Black Friday Deals, New Games, and Game Pass Additions](https://news.xbox.com/en-us/2022/11/25/this-week-on-xbox-black-friday-deals-new-games-and-game-pass-additions/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
