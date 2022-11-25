@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Multitasking](http://9gag.com/gag/az28D1B)
+ - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
  - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 👉 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)<!-- MEMES:END -->
+ - 👉 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)<!-- MEMES:END -->
 
 ---
 
