@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday board game deals: Hasbro’s best new titles go on sale, plus some old classics](https://www.polygon.com/23471851/black-friday-board-game-deals-hasbro)
- - [Pokémon Scarlet And Violet’s ‘Free Exploration’ Isn’t All It’s Cracked Up To Be](https://kotaku.com/pokemon-scarlet-violet-paldea-exploration-gym-battles-1849819034)
- - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)<!-- GAME:END -->
+ - [The excellent spacefighter sim Star Wars: Squadrons is free on the Epic store](https://www.pcgamer.com/the-excellent-spacefighter-sim-star-wars-squadrons-is-free-on-the-epic-store)
+ - [12 Extraordinary Games You&#39;ll Want On Your Wishlist Straight Away](https://kotaku.com/steam-pc-demo-indie-trailer-wishlist-fps-indiegeddon-1849822010)
+ - [Black Friday gaming laptop deals 2022: discounts on laptops at every power-level](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
