@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best app to back up iPhone files to Mac or PC](https://appleinsider.com/articles/22/11/25/the-best-app-to-back-up-iphone-files-to-mac-or-pc?utm_medium=rss)
+ - [37 best Apple deals on Amazon: save big on iPad, Mac, AirPods, Apple Watch](https://appleinsider.com/articles/22/11/25/37-best-apple-deals-on-amazon-save-big-on-ipad-mac-airpods-apple-watch?utm_medium=rss)
  - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Is Amazon Pushing Prices Higher? Legal Wars Are Waging to Prove It     - CNET](https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What is Cash App and how does it work?](https://www.androidauthority.com/what-is-cash-app-3238259/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
