@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Lachmann Sub loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-lachmann-sub-loadout)
- - [Sims 4 update purges &#39;wholly unacceptable content&#39; from its gallery](https://www.pcgamer.com/sims-4-update-purges-wholly-unacceptable-content-from-its-gallery)
- - [Here&#39;s how to start crafting in Warhammer 40K Darktide](https://www.pcgamer.com/warhammer-40000-darktide-crafting-diamantine-plasteel)<!-- GAME:END -->
+ - [How To Catch And Evolve Eevee In Pokémon Scarlet and Violet This Weekend](https://kotaku.com/pokemon-scarlet-violet-nintendo-switch-evolve-eevee-1849821727)
+ - [Strange World’s directors explain the Disney movie’s unexpected ending and allegorical twist](https://www.polygon.com/23475439/strange-world-ending-spoilers)
+ - [Genshin Impact Version 3.3: Time for a game of cards](https://blog.playstation.com/2022/11/25/genshin-impact-version-3-3-time-for-a-game-of-cards/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
