@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - ⏩ [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
+ - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
+ - ⏩ [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - 👉 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)<!-- MEMES:END -->
 
 ---
 
