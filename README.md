@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Battlefield 2042&#39;s Season 3 Makes A Good Game Slightly Better](https://kotaku.com/battlefield-2042-season-3-escalation-impressions-review-1849821158)
- - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
- - [Report says US government will &#39;likely&#39; challenge Microsoft buying Activision Blizzard](https://www.pcgamer.com/report-says-us-government-will-likely-challenge-microsoft-buying-activision-blizzard)<!-- GAME:END -->
+ - [American Truck Simulator heads to Oklahoma, where the wind comes sweepin&#39; down the plain](https://www.pcgamer.com/american-truck-simulator-heads-to-oklahoma-where-the-wind-comes-sweepin-down-the-plain)
+ - [Build and automate a space colony for profit or freedom in Dawn Apart](https://www.pcgamer.com/build-and-automate-a-space-colony-for-profit-or-freedom-in-dawn-apart)
+ - [Black Friday gaming laptop deals 2022: discounts on laptops at every power-level](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
