@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [37 best Apple deals on Amazon: save big on iPad, Mac, AirPods, Apple Watch](https://appleinsider.com/articles/22/11/25/37-best-apple-deals-on-amazon-save-big-on-ipad-mac-airpods-apple-watch?utm_medium=rss)
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [What is Cash App and how does it work?](https://www.androidauthority.com/what-is-cash-app-3238259/)<!-- TECH:END -->
+ - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
+ - [13 Best Black Friday Sex Toy Deals: Vibrators and Stimulators](https://www.wired.com/story/best-black-friday-sex-toy-deals-2022/)
+ - [Twitter relaunching Verified, with manual authentication checks](https://appleinsider.com/articles/22/11/25/twitter-relaunching-verified-with-manual-authentication-checks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
