@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ghosts are no match for 21st Century ingenuity](http://9gag.com/gag/aME8gmA)
- - ⏩ [Hot Dog](http://9gag.com/gag/aOxzMMD)
- - 👉 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
+ - 💣 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
+ - ⏩ [One line animals - For your signature](http://9gag.com/gag/ay2DOpV)
+ - 👉 [Aha](http://9gag.com/gag/aVbqnW2)<!-- MEMES:END -->
 
 ---
 
