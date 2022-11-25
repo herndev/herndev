@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)
- - [Today&#39;s Wordle answer and hint for Friday, November 25](https://www.pcgamer.com/wordle-524-answer-november-25)
- - [Fanatical&#39;s Black Friday Sale includes a free game, some historic low prices](https://www.pcgamer.com/fanaticals-black-friday-sale-includes-a-free-game-some-historic-low-prices)<!-- GAME:END -->
+ - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)
+ - [The BBC&#39;s new Splinter Cell radio drama features a soap opera star and &#39;a lot of comedy&#39;](https://www.pcgamer.com/the-bbcs-new-splinter-cell-radio-drama-features-a-soap-opera-star-and-a-lot-of-comedy)
+ - [Black Friday gaming PC deals 2022: Stellar RTX 30-series gaming rigs for less](https://www.pcgamer.com/black-friday-gaming-pc-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
