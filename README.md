@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [16 Best Black Friday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-black-friday-mattress-deals-2022/)
- - [28 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
- - [Save up to $450 in the latest Samsung tablet and laptop Black Friday deals](https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/)<!-- TECH:END -->
+ - [30 Black Friday Deals on Amazon Devices &lpar;2022&rpar;: Kindle, Echo, Fire TV Stick](https://www.wired.com/story/best-black-friday-amazon-device-deals-2022/)
+ - [53 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022/)
+ - [Best Black Friday iPad deals: prices as low as $269, live updates](https://appleinsider.com/articles/22/11/25/best-black-friday-ipad-deals-prices-as-low-as-269-live-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
