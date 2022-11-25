@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - ⏩ [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
- - 👉 [Let&#39;s get a nice little explosion](http://9gag.com/gag/aGE14WX)<!-- MEMES:END -->
+ - 💣 [Multitasking](http://9gag.com/gag/az28D1B)
+ - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 👉 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)<!-- MEMES:END -->
 
 ---
 
