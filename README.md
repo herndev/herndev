@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
- - ⏩ [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - 👉 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)<!-- MEMES:END -->
+ - 💣 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - ⏩ [Women](http://9gag.com/gag/a2Kr39e)
+ - 👉 [We meet again](http://9gag.com/gag/aPgB53Q)<!-- MEMES:END -->
 
 ---
 
