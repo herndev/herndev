@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Put some tittle here](http://9gag.com/gag/ay2Dbpp)
- - ⏩ [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - 👉 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)<!-- MEMES:END -->
+ - 💣 [Got em .](http://9gag.com/gag/aEqYNme)
+ - ⏩ [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
+ - 👉 [Look at her tail](http://9gag.com/gag/a5Xb04G)<!-- MEMES:END -->
 
 ---
 
