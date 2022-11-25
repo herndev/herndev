@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
- - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - 👉 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)<!-- MEMES:END -->
+ - 💣 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - ⏩ [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - 👉 [Just a little taste...](http://9gag.com/gag/a2Kr6RZ)<!-- MEMES:END -->
 
 ---
 
