@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
- - ⏩ [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 👉 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)<!-- MEMES:END -->
+ - 💣 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
+ - ⏩ [And pepper..](http://9gag.com/gag/a3ZqO27)
+ - 👉 [JK Rowling is finally starting to be vindicated by the very people who sought her blood, it&#39;s a good day.](http://9gag.com/gag/aEqY4Qo)<!-- MEMES:END -->
 
 ---
 
