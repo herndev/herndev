@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
- - [Splinter Cell is getting a… radio adaptation?](https://www.theverge.com/2022/11/25/23477567/splinter-cell-firewall-radio-adaptation-bbc-radio-4-will-poulter)
- - [78 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022-1/)<!-- TECH:END -->
+ - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
+ - [58 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-1/)
+ - [If I were shopping for deals today, I’d buy this Roborock vacuum in an instant](https://www.androidauthority.com/roborock-black-friday-deal-3241273/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
