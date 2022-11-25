@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
- - ⏩ [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
- - 👉 [Movie name &#39;The Package &#39;](http://9gag.com/gag/aA0dN2R)<!-- MEMES:END -->
+ - 💣 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - ⏩ [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
+ - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
 
 ---
 
