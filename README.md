@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)
- - [How crypto helped users buy horrific child abuse images on Dark Scandals, whose founder was sentenced to 10 years by a Dutch court, often aided by exchanges &lpar;Reuters&rpar;](http://www.techmeme.com/221125/p7#a221125p7)
- - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
+ - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
+ - [Get up to 50% off with these JBL Black Friday deals](https://www.androidauthority.com/jbl-black-friday-3241452/)
+ - [The best Black Friday deals on smartwatches and fitness trackers](https://www.theverge.com/23475045/black-friday-2022-smartwatch-deals-cyber-monday-fitness-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
