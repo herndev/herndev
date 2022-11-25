@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Found this legend meme in my old files](http://9gag.com/gag/aA0d5Eo)
- - ⏩ [Its evolving](http://9gag.com/gag/aBdWepO)
- - 👉 [As a fat person &lpar;no way that fat&rpar; After i saw this this was my motivation to go to the gym and lose weight](http://9gag.com/gag/aWGmXX4)<!-- MEMES:END -->
+ - 💣 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 👉 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)<!-- MEMES:END -->
 
 ---
 
