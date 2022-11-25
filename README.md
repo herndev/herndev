@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Don&#39;t miss these hidden gems in the Steam Autumn Sale](https://www.pcgamer.com/dont-miss-these-hidden-gems-in-the-steam-autumn-sale)
  - [American Truck Simulator heads to Oklahoma, where the wind comes sweepin&#39; down the plain](https://www.pcgamer.com/american-truck-simulator-heads-to-oklahoma-where-the-wind-comes-sweepin-down-the-plain)
- - [Build and automate a space colony for profit or freedom in Dawn Apart](https://www.pcgamer.com/build-and-automate-a-space-colony-for-profit-or-freedom-in-dawn-apart)
- - [Black Friday gaming laptop deals 2022: discounts on laptops at every power-level](https://www.pcgamer.com/black-friday-gaming-laptop-deals)<!-- GAME:END -->
+ - [Build and automate a space colony for profit or freedom in Dawn Apart](https://www.pcgamer.com/build-and-automate-a-space-colony-for-profit-or-freedom-in-dawn-apart)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
