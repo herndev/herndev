@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All Genshin Impact codes from the version 3.3 livestream](https://www.pcgamer.com/genshin-impact-codes-3-3-livestream)
- - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)
- - [The BBC&#39;s new Splinter Cell radio drama features a soap opera star and &#39;a lot of comedy&#39;](https://www.pcgamer.com/the-bbcs-new-splinter-cell-radio-drama-features-a-soap-opera-star-and-a-lot-of-comedy)<!-- GAME:END -->
+ - [The best Lachmann Sub loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-lachmann-sub-loadout)
+ - [Sims 4 update purges &#39;wholly unacceptable content&#39; from its gallery](https://www.pcgamer.com/sims-4-update-purges-wholly-unacceptable-content-from-its-gallery)
+ - [Here&#39;s how to start crafting in Warhammer 40K Darktide](https://www.pcgamer.com/warhammer-40000-darktide-crafting-diamantine-plasteel)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
