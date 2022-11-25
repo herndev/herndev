@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)
- - ⏩ [And pepper..](http://9gag.com/gag/a3ZqO27)
- - 👉 [JK Rowling is finally starting to be vindicated by the very people who sought her blood, it&#39;s a good day.](http://9gag.com/gag/aEqY4Qo)<!-- MEMES:END -->
+ - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
+ - ⏩ [Andrew Bing - joking with his Co workers before he killed 6 and turned the gun on himself last night. He snapped.](http://9gag.com/gag/aEqYQ5x)
+ - 👉 [Movie name &#39;The Package &#39;](http://9gag.com/gag/aA0dN2R)<!-- MEMES:END -->
 
 ---
 
