@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iPhone Black Friday deals to snap up right now](https://appleinsider.com/articles/22/11/25/best-iphone-black-friday-deals-to-snap-up-right-now?utm_medium=rss)
- - [Germany-based Temedica, which offers a health data insight service to pharma companies, raised a &amp;euro;25M Series B extension, bringing its total Series B to &amp;euro;42M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221124/p22#a221124p22)
- - [6 Tips to Spend Smarter and Avoid Debt This Black Friday and Cyber Monday     - CNET](https://www.cnet.com/personal-finance/6-tips-to-spend-smarter-and-avoid-debt-this-black-friday-and-cyber-monday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
+ - [Best Black Friday deals on Mac &amp; iPhone accessories, storage](https://appleinsider.com/articles/22/11/24/best-black-friday-deals-on-mac-iphone-accessories-storage?utm_medium=rss)
+ - [Best iPhone Black Friday deals to snap up right now](https://appleinsider.com/articles/22/11/25/best-iphone-black-friday-deals-to-snap-up-right-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
