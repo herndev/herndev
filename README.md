@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [13 Best Black Friday Sex Toy Deals: Vibrators and Stimulators](https://www.wired.com/story/best-black-friday-sex-toy-deals-2022/)
- - [Twitter relaunching Verified, with manual authentication checks](https://appleinsider.com/articles/22/11/25/twitter-relaunching-verified-with-manual-authentication-checks?utm_medium=rss)<!-- TECH:END -->
+ - [19 Best Black Friday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-black-friday-mattress-deals-2022-1/)
+ - [The best Black Friday gaming deals](https://www.theverge.com/23475747/best-black-friday-gaming-deals-games-xbox-ps5-headsets-mice-keyboards-controllers)
+ - [20 Best Black Friday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, and More](https://www.wired.com/story/best-black-friday-coffee-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
