@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - ⏩ [One line animals - For your signature](http://9gag.com/gag/ay2DOpV)
- - 👉 [Aha](http://9gag.com/gag/aVbqnW2)<!-- MEMES:END -->
+ - 💣 [How to sweeten the deal](http://9gag.com/gag/a3ZqVjv)
+ - ⏩ [Donkeys mourn the loss of their friend](http://9gag.com/gag/aXnq5mg)
+ - 👉 [There are worse ways to pass the time](http://9gag.com/gag/a1PbGn2)<!-- MEMES:END -->
 
 ---
 
