@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
- - [Happy Thanksgiving from AppleInsider](https://appleinsider.com/articles/22/11/24/happy-thanksgiving-from-appleinsider?utm_medium=rss)
- - [263+ Best Black Friday Deals Available to Buy Right Now     - CNET](https://www.cnet.com/deals/best-black-friday-deals-thanksgiving-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [16 Best Black Friday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-black-friday-mattress-deals-2022/)
+ - [28 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
+ - [Save up to $450 in the latest Samsung tablet and laptop Black Friday deals](https://www.androidauthority.com/samsung-tablet-laptop-black-friday-deals-3241158/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
