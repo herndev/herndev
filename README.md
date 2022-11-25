@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Friday Deals Week: save up to $2,000 on Apple, TVs, software &amp; more](https://appleinsider.com/articles/22/11/22/black-friday-deals-week-save-up-to-2000-on-apple-tvs-software-more?utm_medium=rss)
- - [Best Black Friday deals on Mac &amp; iPhone accessories, storage](https://appleinsider.com/articles/22/11/24/best-black-friday-deals-on-mac-iphone-accessories-storage?utm_medium=rss)
- - [Best iPhone Black Friday deals to snap up right now](https://appleinsider.com/articles/22/11/25/best-iphone-black-friday-deals-to-snap-up-right-now?utm_medium=rss)<!-- TECH:END -->
+ - [IMF calls for more crypto regulation in Africa, says 25% of countries in sub-Saharan Africa have regulated crypto and two-thirds have imposed some restrictions &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/221124/p23#a221124p23)
+ - [Amazon drops Apple Pencil 2 to $89 in epic Black Friday deal](https://appleinsider.com/articles/22/11/25/amazon-drops-apple-pencil-2-to-89-in-epic-black-friday-deal?utm_medium=rss)
+ - [Best Black Friday iPad deals: prices as low as $269, live updates](https://appleinsider.com/articles/22/11/25/best-black-friday-ipad-deals-prices-as-low-as-269-live-updates?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
