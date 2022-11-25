@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got em .](http://9gag.com/gag/aEqYNme)
+ - 💣 [Solve for X.](http://9gag.com/gag/axoVn8K)
  - ⏩ [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)
- - 👉 [Look at her tail](http://9gag.com/gag/a5Xb04G)<!-- MEMES:END -->
+ - 👉 [Let&#39;s get a nice little explosion](http://9gag.com/gag/aGE14WX)<!-- MEMES:END -->
 
 ---
 
