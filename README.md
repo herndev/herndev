@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [68 Best Target Black Friday Deals &lpar;2022&rpar;: Apple, Nintendo, and Dyson](https://www.wired.com/story/best-target-black-friday-deals-2022/)
- - [35 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
- - [Best Black Friday TV deals: up to $2,000 off LG, Samsung, Sony 4K &amp; OLED models](https://appleinsider.com/articles/22/11/25/best-black-friday-tv-deals-up-to-2000-off-lg-samsung-sony-4k-oled-models?utm_medium=rss)<!-- TECH:END -->
+ - [21 Best Walmart Black Friday Deals &lpar;2022&rpar;: TVs, Earbuds, Meta Quest 2, and More](https://www.wired.com/story/best-walmart-black-friday-deals-2022/)
+ - [Save up to $200 on these Beats Black Friday deals](https://www.androidauthority.com/beats-black-friday-deals-2022-3241248/)
+ - [We asked, you told us: This is the phone brand you want most in your country](https://www.androidauthority.com/phone-brand-want-most-your-country-poll-results-3241244/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
