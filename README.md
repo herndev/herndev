@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - ⏩ [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - 💣 [Put some tittle here](http://9gag.com/gag/ay2Dbpp)
+ - ⏩ [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
  - 👉 [Ronaldo: Pikachu face](http://9gag.com/gag/aOxzWyD)<!-- MEMES:END -->
 
 ---
