@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rockstar wants GTA Online players to steal $2 trillion &lpar;yes, trillion&rpar; in a week](https://www.pcgamer.com/rockstar-wants-gta-online-players-to-steal-dollar2-trillion-yes-trillion-in-a-week)
- - [Black Friday gaming chair deals 2022: cheap seats for gamers and streamers](https://www.pcgamer.com/black-friday-gaming-chair-deals)
- - [Vampire Survivors Adds A Death Bridge](https://kotaku.com/vampire-survivors-poncle-pc-steam-xbox-game-pass-action-1849822202)<!-- GAME:END -->
+ - [A No Man&#39;s Sky standalone app lets you create bases and import them into the game](https://www.pcgamer.com/a-no-mans-sky-standalone-app-lets-you-design-bases-and-import-them-into-the-game)
+ - [Every Marvel Cinematic Universe TV show, ranked](https://www.polygon.com/tv/22561233/mcu-tv-shows-ranked-marvel-cinematic-universe)
+ - [Rockstar wants GTA Online players to steal $2 trillion &lpar;yes, trillion&rpar; in a week](https://www.pcgamer.com/rockstar-wants-gta-online-players-to-steal-dollar2-trillion-yes-trillion-in-a-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
