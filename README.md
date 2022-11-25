@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s 14-inch MacBook Pro with 32GB RAM is at the lowest price we&#39;ve seen this Black Friday](https://appleinsider.com/articles/22/11/25/apples-14-inch-macbook-pro-with-32gb-ram-is-at-the-lowest-price-weve-seen-this-black-friday?utm_medium=rss)
- - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
- - [Fit Pro x Kim Kardashian Beats for $180 &amp; other big Beats discounts](https://appleinsider.com/articles/22/11/25/up-to-57-off-beats-headphones-in-black-friday-sale?utm_medium=rss)<!-- TECH:END -->
+ - [The best Black Friday deals on Amazon devices](https://www.theverge.com/23466621/black-friday-2022-amazon-deals-cyber-monday-kindle-paperwhite-echo-dot-deal-sale)
+ - [How crypto helped users buy horrific child abuse images on Dark Scandals, whose founder was sentenced to 10 years by a Dutch court, often aided by exchanges &lpar;Reuters&rpar;](http://www.techmeme.com/221125/p7#a221125p7)
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
