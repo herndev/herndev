@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Black Friday gaming headset deals 2022: discounts that are music to our ears](https://www.pcgamer.com/black-friday-gaming-headset-deals)
- - [Share of the Week: Gathering](https://blog.playstation.com/2022/11/25/share-of-the-week-gathering/)
- - [Share of the Week: Gathering](https://blog.playstation.com/2022/11/25/share-of-the-week-gathering/)<!-- GAME:END -->
+ - [Black Friday gaming chair deals 2022: cheap seats for gamers and streamers](https://www.pcgamer.com/black-friday-gaming-chair-deals)
+ - [Vampire Survivors Adds A Death Bridge](https://kotaku.com/vampire-survivors-poncle-pc-steam-xbox-game-pass-action-1849822202)
+ - [Leonor Will Never Die rethinks Being John Malkovich in an era of movie obsession](https://www.polygon.com/reviews/23475458/leonor-will-never-die-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
