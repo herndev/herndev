@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
- - ⏩ [Women](http://9gag.com/gag/a2Kr39e)
- - 👉 [We meet again](http://9gag.com/gag/aPgB53Q)<!-- MEMES:END -->
+ - 💣 [Body blender slide](http://9gag.com/gag/abvpn88)
+ - ⏩ [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
+ - 👉 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
 
 ---
 
