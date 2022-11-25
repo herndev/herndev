@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rally driver\u2019s disposable helmet screens.](http://9gag.com/gag/aNwA2x3)
- - ⏩ [Simping only gets you broke,guys.](http://9gag.com/gag/a6qbP7R)
- - 👉 [Work hard play hard](http://9gag.com/gag/aOxzwr2)<!-- MEMES:END -->
+ - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
+ - ⏩ [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
+ - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
 
 ---
 
