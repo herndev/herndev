@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Try it now. it&#39;s a neat trick](http://9gag.com/gag/aEqYyDo)
- - ⏩ [In Mexico, a tourist climbed and danced on a sacred Mayan pyramid and then got attacked by a mob of locals.](http://9gag.com/gag/az28zPm)
- - 👉 [Nature is awesome gruwesome](http://9gag.com/gag/aVbqrbP)<!-- MEMES:END -->
+ - 💣 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)
+ - ⏩ [A black japanese. I can die in peace.](http://9gag.com/gag/a4obXq6)
+ - 👉 [Solve for X.](http://9gag.com/gag/axoVn8K)<!-- MEMES:END -->
 
 ---
 
