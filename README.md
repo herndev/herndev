@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Fanatical&#39;s Black Friday Sale includes a free game, some historic low prices](https://www.pcgamer.com/fanaticals-black-friday-sale-includes-a-free-game-some-historic-low-prices)
  - [Don&#39;t miss these hidden gems in the Steam Autumn Sale](https://www.pcgamer.com/dont-miss-these-hidden-gems-in-the-steam-autumn-sale)
- - [American Truck Simulator heads to Oklahoma, where the wind comes sweepin&#39; down the plain](https://www.pcgamer.com/american-truck-simulator-heads-to-oklahoma-where-the-wind-comes-sweepin-down-the-plain)
- - [Build and automate a space colony for profit or freedom in Dawn Apart](https://www.pcgamer.com/build-and-automate-a-space-colony-for-profit-or-freedom-in-dawn-apart)<!-- GAME:END -->
+ - [American Truck Simulator heads to Oklahoma, where the wind comes sweepin&#39; down the plain](https://www.pcgamer.com/american-truck-simulator-heads-to-oklahoma-where-the-wind-comes-sweepin-down-the-plain)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
