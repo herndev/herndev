@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In \u2018Mission: Impossible - Fallout &lpar;2018&rpar;\u2019 Henry Cavill grows a beard mid-scene](http://9gag.com/gag/armb047)
- - ⏩ [How fired are you on a scale of 1 to 10](http://9gag.com/gag/anzb6xz)
- - 👉 [Why I support death penalty for cases like this](http://9gag.com/gag/aREm8Nq)<!-- MEMES:END -->
+ - 💣 [Ghosts are no match for 21st Century ingenuity](http://9gag.com/gag/aME8gmA)
+ - ⏩ [Hot Dog](http://9gag.com/gag/aOxzMMD)
+ - 👉 [Equal right done right](http://9gag.com/gag/awZnEgQ)<!-- MEMES:END -->
 
 ---
 
