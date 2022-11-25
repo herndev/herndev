@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon selling Apple&#39;s M1 MacBook Air for $799](https://appleinsider.com/articles/22/11/21/amazon-selling-apples-m1-macbook-air-for-799?utm_medium=rss)
- - [58 Best Black Friday Deals Under $50 &lpar;2022&rpar;: Electric Toothbrushes, Games, and More](https://www.wired.com/story/best-black-friday-deals-under-50-2022-1/)
- - [If I were shopping for deals today, I’d buy this Roborock vacuum in an instant](https://www.androidauthority.com/roborock-black-friday-deal-3241273/)<!-- TECH:END -->
+ - [The best app to back up iPhone files to Mac or PC](https://appleinsider.com/articles/22/11/25/the-best-app-to-back-up-iphone-files-to-mac-or-pc?utm_medium=rss)
+ - [Black Friday and Cyber Monday 2022: deals, news, and more](https://www.theverge.com/23433839/black-friday-2022-news-sales-deals-cyber-monday-tech)
+ - [Is Amazon Pushing Prices Higher? Legal Wars Are Waging to Prove It     - CNET](https://www.cnet.com/tech/services-and-software/is-amazon-overcharging-you-legal-wars-are-waging-to-prove-it/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
