@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Watch Ultra deals debut at Amazon for Black Friday](https://appleinsider.com/articles/22/11/19/apple-watch-ultra-deals-debut-at-amazon-ahead-of-black-friday?utm_medium=rss)
- - [64 Great Best Buy Black Friday Deals &lpar;2022&rpar;: iPads, Apple Watches, and More](https://www.wired.com/story/best-best-buy-black-friday-deals-2022/)
- - [75+ best Apple Black Friday deals on AirPods, iPad, Mac, Apple Watch &amp; more](https://appleinsider.com/articles/22/11/25/75-best-apple-black-friday-deals-on-airpods-ipad-mac-apple-watch-more?utm_medium=rss)<!-- TECH:END -->
+ - [The OnePlus 10 Pro is a fantastic deal at $550 for Black Friday](https://www.androidauthority.com/oneplus-10-pro-black-friday-amazon-3241258/)
+ - [Elon Musk says Twitter will begin manually authenticating Blue, Grey, and Gold accounts as soon as next week](https://www.theverge.com/2022/11/25/23477550/twitter-manual-verification-blue-checkmark-gold-grey)
+ - [Black Friday 2022: New low prices on phones, tablets, and more](https://www.androidauthority.com/black-friday-deals-3049753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
