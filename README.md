@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Galaxy S23 series could offer satellite support with a key upgrade](https://www.androidauthority.com/samsung-galaxy-s23-satellite-connectivity-3239529/)
- - [B&amp;H&#39;s Black Friday Deal Zone knocks $400 off Apple&#39;s loaded MacBook Pro 13-inch with M1](https://appleinsider.com/articles/22/11/25/bhs-black-friday-deal-zone-knocks-400-off-apples-loaded-macbook-pro-13-inch-with-m1?utm_medium=rss)
- - [73 Absolute Best Black Friday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-black-friday-deals-2022/)<!-- TECH:END -->
+ - [68 Best Target Black Friday Deals &lpar;2022&rpar;: Apple, Nintendo, and Dyson](https://www.wired.com/story/best-target-black-friday-deals-2022/)
+ - [35 best Apple Black Friday deals on Amazon: save up to $550 on AirPods, iPads, MacBooks, Apple Watch](https://appleinsider.com/articles/22/11/24/28-best-apple-black-friday-deals-on-amazon?utm_medium=rss)
+ - [Best Black Friday TV deals: up to $2,000 off LG, Samsung, Sony 4K &amp; OLED models](https://appleinsider.com/articles/22/11/25/best-black-friday-tv-deals-up-to-2000-off-lg-samsung-sony-4k-oled-models?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
