@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
  - [Daily Authority: 🚴 The ultimate e-bike test](https://www.androidauthority.com/daily-authority-november-28-2022-3241807/)
- - [40 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Nov 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
+ - [40 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
