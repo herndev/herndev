@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple battling ESPN for rights to stream Dutch soccer league](https://appleinsider.com/articles/22/11/28/apple-battling-espn-for-rights-to-stream-dutch-soccer-league?utm_medium=rss)
- - [Struggling for workers, Foxconn is giving ex-workers incentives to rejoin](https://appleinsider.com/articles/22/11/28/struggling-for-workers-foxconn-is-giving-ex-workers-incentives-to-rejoin?utm_medium=rss)
- - [Update your Google Chrome Mac install now](https://appleinsider.com/articles/22/11/28/update-your-google-chrome-mac-install-now?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s M2 MacBook Pro gets $200 Cyber Monday price cut, now $1,099](https://appleinsider.com/articles/22/11/28/apples-m2-macbook-pro-gets-200-cyber-monday-price-cut-now-1099?utm_medium=rss)
+ - [Crypto finance firm BlockFi files for bankruptcy following the fall of FTX](https://www.theverge.com/2022/11/28/23460543/blockfi-ftx-chapter-11-bankruptcy-crypto)
+ - [The best Cyber Monday deals you can get at Walmart](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
