@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Pro gets $200 Cyber Monday price cut, now $1,099](https://appleinsider.com/articles/22/11/28/apples-m2-macbook-pro-gets-200-cyber-monday-price-cut-now-1099?utm_medium=rss)
- - [Crypto finance firm BlockFi files for bankruptcy following the fall of FTX](https://www.theverge.com/2022/11/28/23460543/blockfi-ftx-chapter-11-bankruptcy-crypto)
- - [The best Cyber Monday deals you can get at Walmart](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)<!-- TECH:END -->
+ - [191 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;: Away Luggage, AirPods Pro, and More](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)
+ - [The best Cyber Monday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
+ - [AppleTogether asks about Apple&#39;s union busting for possible class action suit](https://appleinsider.com/articles/22/11/28/appletogether-ask-apple-store-staff-about-union-busting-for-possible-class-action-suit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
