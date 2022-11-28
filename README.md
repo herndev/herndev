@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
- - ⏩ [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)
- - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
+ - 💣 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - ⏩ [Horny for journalist](http://9gag.com/gag/aA0DY0g)
+ - 👉 [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)<!-- MEMES:END -->
 
 ---
 
