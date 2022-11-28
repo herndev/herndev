@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
- - ⏩ [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
- - 👉 [Happy Family](http://9gag.com/gag/aKEDDD6)<!-- MEMES:END -->
+ - 💣 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - ⏩ [Rescue at sea.](http://9gag.com/gag/a8q88nZ)
+ - 👉 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)<!-- MEMES:END -->
 
 ---
 
