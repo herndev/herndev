@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Black Friday 2022 deals you can get](https://www.theverge.com/23477682/black-friday-2022-best-deals-tech-sales-gaming-headphones-tvs)
- - [Sony’s noise-canceling WF-1000XM4 earbuds are on sale for $100 off](https://www.theverge.com/2022/11/25/23478281/sony-wf-1000xm4-black-friday-noise-canceling-earbuds-deal-cyber-monday-sale)
- - [27 Best Video Game Black Friday Deals &lpar;2022&rpar;: Switch, Playstation, Xbox, and More](https://www.wired.com/story/best-black-friday-video-game-deals-2022-1/)<!-- TECH:END -->
+ - [The best early Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
+ - [The best early Cyber Monday deals under $25 you can get now](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
+ - [How to use QuickTime Player in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-quicktime-player-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
