@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
- - [Cyber Monday Deals: 161 Best Deals at Walmart, Amazon, Best Buy and More     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-walmart-amazon-best-buy-more/#ftag=CAD590a51e)
- - [&#39;The White Lotus&#39;: Hidden Clues in Those Opening Credits Explained     - CNET](https://www.cnet.com/culture/entertainment/the-white-lotus-hidden-clues-in-those-opening-credits-explained/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Ireland&#39;s Data Protection Commission fines Meta &amp;euro;265M for failing to safeguard data on 500M+ users from data scrapers, the third fine by the DPC on Meta &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221128/p10#a221128p10)
+ - [32 Best Cyber Monday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-cyber-monday-coffee-deals-2022-1/)
+ - [How to enroll in and leave Apple&#39;s beta program on iOS &amp; iPadOS](https://appleinsider.com/inside/iphone/tips/how-to-enroll-in-and-leave-apples-beta-program-on-ios-ipados?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
