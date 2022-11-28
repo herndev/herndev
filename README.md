@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight leveling guide: How to get to 70 in style](https://www.pcgamer.com/world-of-warcraft-dragonflight-leveling-guide-tips)
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [Today&#39;s Wordle answer and hint for Monday, November 28](https://www.pcgamer.com/wordle-527-answer-november-28)<!-- GAME:END -->
+ - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
+ - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
+ - [Cyber Monday gaming PC deals 2022: rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
