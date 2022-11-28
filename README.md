@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a free game about skateboard witches fighting corporate evil](https://www.pcgamer.com/finally-a-free-game-about-skateboard-witches-fighting-corporate-evil)
- - [Levitation, the all-new story mod for Half-Life: Alyx, is out today](https://www.pcgamer.com/levitation-the-all-new-story-mod-for-half-life-alyx-is-out-today)
- - [The best Newegg deals this Black Friday](https://www.pcgamer.com/the-best-newegg-deals-this-black-friday)<!-- GAME:END -->
+ - [Amouranth Streamed &#39;More Overwatch Than Hot Tub&#39; Last Month, Says &#39;Life Is Better&#39;](https://kotaku.com/amouranth-hot-tub-overwatch-stream-return-twitch-dance-1849824919)
+ - [TikTok roleplayers have made a viral game out of trading with capitalism cats](https://www.pcgamer.com/tiktok-roleplayers-have-made-a-viral-game-out-of-trading-with-capitalism-cats)
+ - [The internet archive has Palm Pilot apps now](https://www.pcgamer.com/the-internet-archive-has-palm-pilot-apps-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
