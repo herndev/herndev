@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wednesday doesn’t need a love triangle, she needs a werewolf girlfriend](https://www.polygon.com/23482366/wednesday-netflix-jenna-ortega-xavier-tyler-wenclair-season-2)
- - [The 15 Best Games For The PlayStation 4 In 2022](https://kotaku.com/the-12-best-games-for-the-playstation-4-1500350643)
- - [The hideous Starro is coming to Gotham Knights](https://www.polygon.com/23482617/gotham-knights-update-heroic-assault-starro)<!-- GAME:END -->
+ - [Fuecoco Is The Best Pokémon Scarlet And Violet Starter, Unless...](https://kotaku.com/pokemon-scarlet-violet-best-starter-fuecoco-evolution-1849827880)
+ - [Dracthyr make World of Warcraft feel like a different game](https://www.pcgamer.com/dracthyr-make-world-of-warcraft-feel-like-a-different-game)
+ - [Genshin Impact gets in on the biggest trend of this &lpar;or any&rpar; year: card games](https://www.polygon.com/gaming/23482247/genshin-impact-ccg-gwent)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
