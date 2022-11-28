@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday SSD deals 2022: there&#39;s never been a better, or cheaper time to bag an SSD](https://www.pcgamer.com/cyber-monday-ssd-deals)
- - [A PC version of Gran Turismo is under consideration](https://www.polygon.com/23481649/gran-turismo-7-pc-version-polyphony-digital-kazunori-yamauchi)
- - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
+ - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2022/11/28/end-of-year-deals-promotion-comes-to-playstation-store-2/)
+ - [The best Zealot build in Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40000-darktide-zealot-build)
+ - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
