@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Gym balls...](http://9gag.com/gag/abvz09E)
- - ⏩ [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)
- - 👉 [Don&#39;t mess with water pressure](http://9gag.com/gag/axo0DQ2)<!-- MEMES:END -->
+ - ⏩ [How to deal with people who glue themselves down](http://9gag.com/gag/amA2re6)
+ - 👉 [But...](http://9gag.com/gag/aQEe9qr)<!-- MEMES:END -->
 
 ---
 
