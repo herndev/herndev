@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Savage](http://9gag.com/gag/aL189jg)
- - ⏩ [My wife was possessed](http://9gag.com/gag/axo0gwK)
- - 👉 [I guess parents don\u2019t want to take their kids to see a cartoon about homosexuals of color. Who could have known?](http://9gag.com/gag/aeQe685)<!-- MEMES:END -->
+ - 💣 [Happy Family](http://9gag.com/gag/aKEDDD6)
+ - ⏩ [They had one job](http://9gag.com/gag/a5XnP3O)
+ - 👉 [If Elon bought the government](http://9gag.com/gag/aOxBbXr)<!-- MEMES:END -->
 
 ---
 
