@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [191 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;: Away Luggage, AirPods Pro, and More](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)
- - [The best Cyber Monday streaming deals on Hulu, HBO Max, Paramount Plus, and more](https://www.theverge.com/23466644/black-friday-2022-streaming-deals-cyber-monday-hulu-hbo-max-paramount-peacock)
- - [AppleTogether asks about Apple&#39;s union busting for possible class action suit](https://appleinsider.com/articles/22/11/28/appletogether-ask-apple-store-staff-about-union-busting-for-possible-class-action-suit?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
+ - [The best Cyber Monday deals under $100](https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming)
+ - [The best Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
