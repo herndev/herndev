@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [31 Cyber Monday Deals on Our Fave Amazon Devices: Kindles, Fire TV Sticks, Eero, and More](https://www.wired.com/story/best-cyber-monday-amazon-device-deals-2022/)
- - [71 Great Best Buy Cyber Monday Deals &lpar;2022&rpar;: iPads, Apple Watches, Cameras](https://www.wired.com/story/best-best-buy-cyber-monday-deals-2022/)
- - [300+ Cyber Monday Deals from Amazon, Target, Best Buy     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-black-friday/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [It’s official: The Xiaomi 13 series is coming this week](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)
+ - [Cyber Monday: Clean your house with Roborock&#39;s robot vacuum deals](https://appleinsider.com/articles/22/11/28/cyber-monday-clean-your-house-with-roborocks-robot-vacuum-deals?utm_medium=rss)
+ - [Cyber Monday Deal Zone: M1 MacBook Air with 16GB RAM, 1TB SSD $1,199](https://appleinsider.com/articles/22/11/28/cyber-monday-deal-zone-m1-macbook-air-with-16gb-ram-1tb-ssd-1199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
