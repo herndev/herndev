@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amouranth Streamed &#39;More Overwatch Than Hot Tub&#39; Last Month, Says &#39;Life Is Better&#39;](https://kotaku.com/amouranth-hot-tub-overwatch-stream-return-twitch-dance-1849824919)
- - [TikTok roleplayers have made a viral game out of trading with capitalism cats](https://www.pcgamer.com/tiktok-roleplayers-have-made-a-viral-game-out-of-trading-with-capitalism-cats)
- - [The internet archive has Palm Pilot apps now](https://www.pcgamer.com/the-internet-archive-has-palm-pilot-apps-now)<!-- GAME:END -->
+ - [Grand &lpar;Fantasy&rpar; Designs](https://kotaku.com/rise-of-kingdoms-concept-art-patrick-hailla-1849825069)
+ - [Five new Steam games you probably missed &lpar;November 28, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-november-28-2022)
+ - [Amouranth Streamed &#39;More Overwatch Than Hot Tub&#39; Last Month, Says &#39;Life Is Better&#39;](https://kotaku.com/amouranth-hot-tub-overwatch-stream-return-twitch-dance-1849824919)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
