@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying](http://9gag.com/gag/aPg994G)
- - ⏩ [#1!](http://9gag.com/gag/aXnvx0P)
- - 👉 [Ukrainian troops seized the positions of Kadyrovites, the level of sexual crimes has yet to be assessed](http://9gag.com/gag/aQEe3DW)<!-- MEMES:END -->
+ - 💣 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)
+ - ⏩ [You can only see it once](http://9gag.com/gag/aYV4LzV)
+ - 👉 [Pretty damn well for holding the shot](http://9gag.com/gag/aL188wv)<!-- MEMES:END -->
 
 ---
 
