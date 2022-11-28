@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gym balls...](http://9gag.com/gag/abvz09E)
- - ⏩ [A hero of legendary proportions!](http://9gag.com/gag/aXnvjWz)
- - 👉 [Huge whale ended up on a South African beach](http://9gag.com/gag/aMEAGL1)<!-- MEMES:END -->
+ - 💣 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - ⏩ [Ok idc](http://9gag.com/gag/aVbMqYK)
+ - 👉 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)<!-- MEMES:END -->
 
 ---
 
