@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US crypto exchange Kraken agrees to pay $360K+ to the Treasury Department to settle accusations of sanctions violations involving transactions by users in Iran &lpar;New York Times&rpar;](http://www.techmeme.com/221128/p18#a221128p18)
- - [iPhone 15 rumored to get advanced image sensor from Sony](https://appleinsider.com/articles/22/11/28/iphone-15-rumored-to-get-advanced-image-sensor-from-sony?utm_medium=rss)
- - [Apple cutting ad spend on Twitter sends Musk to war](https://appleinsider.com/articles/22/11/28/apple-cutting-ad-spend-on-twitter-sends-musk-to-war?utm_medium=rss)<!-- TECH:END -->
+ - [23 Best Cyber Monday Backpack Deals &lpar;2022&rpar;: Laptop Bags, Camera Bags, and Slings](https://www.wired.com/story/best-cyber-monday-backpack-deals-2022/)
+ - [The best Cyber Monday deals you can get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)
+ - [Google says that it has, for the first time, licensed its AI research model for breast cancer screening to a medical company, iCAD, looking to deploy it in 2024 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/221128/p19#a221128p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
