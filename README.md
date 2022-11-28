@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fuecoco Is The Best Pokémon Scarlet And Violet Starter, Unless...](https://kotaku.com/pokemon-scarlet-violet-best-starter-fuecoco-evolution-1849827880)
- - [Dracthyr make World of Warcraft feel like a different game](https://www.pcgamer.com/dracthyr-make-world-of-warcraft-feel-like-a-different-game)
- - [Genshin Impact gets in on the biggest trend of this &lpar;or any&rpar; year: card games](https://www.polygon.com/gaming/23482247/genshin-impact-ccg-gwent)<!-- GAME:END -->
+ - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)
+ - [Warzone 1 is now back online, but it&#39;s missing key features and maps](https://www.pcgamer.com/warzone-1-is-now-back-online-but-its-missing-key-features-and-maps)
+ - [Pokémon Scarlet and Violet EV training guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
