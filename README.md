@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [6 Best Cyber Monday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-cyber-monday-sonos-deals-2022/)
- - [Beats Headphones Are at an All-Time Low Price for Cyber Monday     - CNET](https://www.cnet.com/deals/beats-headphones-are-at-an-all-time-low-price-for-cyber-monday/#ftag=CAD590a51e)
- - [The Best Cyber Monday TV Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [14 Best Cyber Monday Google Device Deals &lpar;2022&rpar;: Pixel 7, Pixel Watch, Nest Cam](https://www.wired.com/story/best-cyber-monday-google-device-deals-2022/)
+ - [China seems to be flooding Twitter with porn tweets mentioning places where people are protesting, overwhelming Twitter&#39;s radically reduced anti-propaganda team &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/221127/p5#a221127p5)
+ - [6 Best Cyber Monday Sonos Deals &lpar;2022&rpar;: Soundbars, Speakers, Subwoofers](https://www.wired.com/story/best-cyber-monday-sonos-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
