@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starship Troopers is getting a new shooter with the right studio behind it](https://www.polygon.com/23481844/starship-troopers-fps-extermination-release-date-offworld-industries)
- - [Chosen Identity is low-key the best Dracthyr ability in World of Warcraft: Dragonflight](https://www.pcgamer.com/chosen-identity-is-low-key-the-best-dracthyr-ability-in-world-of-warcraft-dragonflight)
- - [You Can Get An Xbox Series S For Under $200 Today](https://kotaku.com/xbox-series-s-amazon-sale-cyber-monday-black-friday-1849825440)<!-- GAME:END -->
+ - [Starship Troopers: Extermination is a 12-player co-op FPS from the makers of Squad](https://www.pcgamer.com/starship-troopers-extermination-is-a-12-player-co-op-fps-from-the-makers-of-squad)
+ - [D&amp;D’s Amazon Cyber Monday sale includes the biggest discounts of the year](https://www.polygon.com/deals/23482120/dnd-cyber-monday-sale-discounts-critical-role-dragonlance-curse-of-strahd-starter-set)
+ - [How To Find The Perfect Ditto For Breeding In Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-find-ditto-perfect-iv-how-where-1849825686)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
