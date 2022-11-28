@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starship Troopers: Extermination is a 12-player co-op FPS from the makers of Squad](https://www.pcgamer.com/starship-troopers-extermination-is-a-12-player-co-op-fps-from-the-makers-of-squad)
- - [D&amp;D’s Amazon Cyber Monday sale includes the biggest discounts of the year](https://www.polygon.com/deals/23482120/dnd-cyber-monday-sale-discounts-critical-role-dragonlance-curse-of-strahd-starter-set)
- - [How To Find The Perfect Ditto For Breeding In Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-find-ditto-perfect-iv-how-where-1849825686)<!-- GAME:END -->
+ - [Call Of Duty Money Glitch Is Making DMZ Players Unfairly Rich](https://kotaku.com/call-of-duty-dmz-money-xp-glitch-farm-exploit-1849826627)
+ - [Don&#39;t Make This Mistake And Prevent Your Pokémon From Evolving In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-evolution-pawmo-rellor-bramblin-1849826494)
+ - [The MCU’s Phase 4 was a necessary experiment for a franchise that has to grow](https://www.polygon.com/23475687/marvel-cinematic-universe-phase-4-analysis)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
