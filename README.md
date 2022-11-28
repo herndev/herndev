@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming monitor deals 2022: big screen, ultrawide, or 4K it&#39;s all here](https://www.pcgamer.com/cyber-monday-gaming-monitor-deals)
- - [Cyber Monday graphics card deals 2022: the best prices on pesky pixel pushers](https://www.pcgamer.com/cyber-monday-graphics-card-deals)
- - [Cyber Monday gaming PC deals 2022: rig discounts as far as the eye can see](https://www.pcgamer.com/cyber-monday-gaming-pc-deals)<!-- GAME:END -->
+ - [Cyber Monday SSD deals 2022: there&#39;s never been a better, or cheaper time to bag an SSD](https://www.pcgamer.com/cyber-monday-ssd-deals)
+ - [A PC version of Gran Turismo is under consideration](https://www.polygon.com/23481649/gran-turismo-7-pc-version-polyphony-digital-kazunori-yamauchi)
+ - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
