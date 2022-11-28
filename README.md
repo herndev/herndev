@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Zealand says Twitter failed to detect or remove clips from the 2019 Christchurch terror attack until the government alerted the company &lpar;Eva Corlett/The Guardian&rpar;](http://www.techmeme.com/221128/p2#a221128p2)
- - [177 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)
- - [22 Best Cyber Monday Microsoft Deals &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-cyber-monday-microsoft-xbox-surface-laptop-deals-2022/)<!-- TECH:END -->
+ - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
+ - [Cyber Monday Deals: 161 Best Deals at Walmart, Amazon, Best Buy and More     - CNET](https://www.cnet.com/deals/cyber-monday-deals-2022-walmart-amazon-best-buy-more/#ftag=CAD590a51e)
+ - [&#39;The White Lotus&#39;: Hidden Clues in Those Opening Credits Explained     - CNET](https://www.cnet.com/culture/entertainment/the-white-lotus-hidden-clues-in-those-opening-credits-explained/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
