@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [96 Best Amazon Deals For Cyber Monday &lpar;2022&rpar;: iPads, Kindles, and More](https://www.wired.com/story/best-amazon-cyber-monday-deals-2022/)
- - [Poll: What’s your delivery tracking habit?](https://www.androidauthority.com/delivery-tracking-habit-poll-3241814/)
- - [It’s official: The Xiaomi 13 series is coming this week](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)<!-- TECH:END -->
+ - [Daily Authority: 🚴 The ultimate e-bike test](https://www.androidauthority.com/daily-authority-november-28-2022-3241807/)
+ - [40 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Nov 28&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
