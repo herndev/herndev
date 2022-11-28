@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s actually a pretty legit question](http://9gag.com/gag/aPg9MDV)
- - ⏩ [Bro code](http://9gag.com/gag/a9qAWOL)
- - 👉 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - ⏩ [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)
+ - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
 
 ---
 
