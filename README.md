@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Musk says Apple threatened to withhold Twitter from App Store &quot;but won&#39;t tell us why&quot;, as he calls out Apple over lower Twitter ad spend and alleged censorship &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221128/p16#a221128p16)
- - [The best Cyber Monday 2022 deals on headphones and earbuds](https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony)
- - [31 Best Cyber Monday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-cyber-monday-coffee-deals-2022-1/)<!-- TECH:END -->
+ - [US crypto exchange Kraken agrees to pay $360K+ to the Treasury Department to settle accusations of sanctions violations involving transactions by users in Iran &lpar;New York Times&rpar;](http://www.techmeme.com/221128/p18#a221128p18)
+ - [iPhone 15 rumored to get advanced image sensor from Sony](https://appleinsider.com/articles/22/11/28/iphone-15-rumored-to-get-advanced-image-sensor-from-sony?utm_medium=rss)
+ - [Apple cutting ad spend on Twitter sends Musk to war](https://appleinsider.com/articles/22/11/28/apple-cutting-ad-spend-on-twitter-sends-musk-to-war?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
