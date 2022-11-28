@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An unexpected friendship](http://9gag.com/gag/aNwz153)
- - ⏩ [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
- - 👉 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)<!-- MEMES:END -->
+ - 💣 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
+ - ⏩ [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - 👉 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)<!-- MEMES:END -->
 
 ---
 
