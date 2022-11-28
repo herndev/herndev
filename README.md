@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s ad agency recommends a stop to Twitter campaigns](https://appleinsider.com/articles/22/11/11/apples-ad-agency-recommends-a-stop-to-twitter-campaigns?utm_medium=rss)
- - [The best Cyber Monday deals under $100](https://www.theverge.com/23480442/cyber-monday-2022-tech-deals-under-100-streaming-speakers-gaming)
- - [The best Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)<!-- TECH:END -->
+ - [Musk says Apple threatened to withhold Twitter from App Store &quot;but won&#39;t tell us why&quot;, as he calls out Apple over lower Twitter ad spend and alleged censorship &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221128/p16#a221128p16)
+ - [The best Cyber Monday 2022 deals on headphones and earbuds](https://www.theverge.com/23475130/black-friday-2022-headphones-earbuds-deals-cyber-monday-airpods-bose-sony)
+ - [31 Best Cyber Monday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-cyber-monday-coffee-deals-2022-1/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
