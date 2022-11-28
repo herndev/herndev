@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [23 Best Cyber Monday Backpack Deals &lpar;2022&rpar;: Laptop Bags, Camera Bags, and Slings](https://www.wired.com/story/best-cyber-monday-backpack-deals-2022/)
- - [The best Cyber Monday deals you can get on 4K TVs](https://www.theverge.com/23475111/black-friday-2022-tv-deals-cyber-monday-tcl-lg-samsung-sony)
- - [Google says that it has, for the first time, licensed its AI research model for breast cancer screening to a medical company, iCAD, looking to deploy it in 2024 &lpar;Justine Calma/The Verge&rpar;](http://www.techmeme.com/221128/p19#a221128p19)<!-- TECH:END -->
+ - [Google paid millions to radio hosts to endorse the Pixel 4 — even though they hadn’t used it](https://www.theverge.com/2022/11/28/23482636/google-iheartmedia-pixel-4-ads-ftc-radio-hosts)
+ - [76 Best Cyber Monday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-cyber-monday-laptop-deals-2022/)
+ - [Apple to open new store at American Dream Mall in New Jersey](https://appleinsider.com/articles/22/11/28/apple-to-open-new-store-at-american-dream-mall-in-new-jersey?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
