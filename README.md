@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Donkeys mourn the loss of their friend](http://9gag.com/gag/aXnq5mg)
- - ⏩ [There are worse ways to pass the time](http://9gag.com/gag/a1PbGn2)
- - 👉 [How to sweeten the deal](http://9gag.com/gag/a3ZqVjv)<!-- MEMES:END -->
+ - 💣 [Gym balls...](http://9gag.com/gag/abvz09E)
+ - ⏩ [Moroccans riot in Brussel after football match win against Belgium](http://9gag.com/gag/aYV4KyN)
+ - 👉 [Don&#39;t mess with water pressure](http://9gag.com/gag/axo0DQ2)<!-- MEMES:END -->
 
 ---
 
