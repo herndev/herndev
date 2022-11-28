@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell happened to her](http://9gag.com/gag/aVbMXdd)
- - ⏩ [Let\u2019s do it. Everyone repost to spread this](http://9gag.com/gag/aVbMMNM)
- - 👉 [Bonnie Aarons, the actress who plays Valak for The Nun](http://9gag.com/gag/aGEeerw)<!-- MEMES:END -->
+ - 💣 [Belgian reporter is been assaulted live on Belgian TV.](http://9gag.com/gag/aVbMDRM)
+ - ⏩ [Funny things is none of the target audience showed up to support these](http://9gag.com/gag/a1PKopP)
+ - 👉 [Let\u2019s do it. Everyone repost to spread this](http://9gag.com/gag/aVbMMNM)<!-- MEMES:END -->
 
 ---
 
