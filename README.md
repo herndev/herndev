@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
- - ⏩ [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - 👉 [Dude, nobody is gonna get it, there aren&#39;t enough pixels.](http://9gag.com/gag/aBd8wQQ)<!-- MEMES:END -->
+ - 💣 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
+ - ⏩ [The largest quarantine camp in China&#39;s Guangzhou city is being built. It has 90,000 isolation pods.](http://9gag.com/gag/aGEeZpG)
+ - 👉 [China](http://9gag.com/gag/a4oGQzw)<!-- MEMES:END -->
 
 ---
 
