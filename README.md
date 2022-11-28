@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Best MSI gaming laptop deals](https://www.pcgamer.com/the-best-msi-laptop-for-gaming-2020)
  - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2022/11/28/end-of-year-deals-promotion-comes-to-playstation-store-2/)
- - [The best Zealot build in Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40000-darktide-zealot-build)
- - [Cyber Monday gaming keyboard and mouse deals 2022: majestic mechanicals and righteous rodents](https://www.pcgamer.com/cyber-monday-keyboard-mouse-deals)<!-- GAME:END -->
+ - [End of Year Deals promotion comes to PlayStation Store](https://blog.playstation.com/2022/11/28/end-of-year-deals-promotion-comes-to-playstation-store-2/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
