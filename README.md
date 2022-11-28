@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
- - ⏩ [Horny for journalist](http://9gag.com/gag/aA0DY0g)
- - 👉 [Imagine if we gave Nasa that money](http://9gag.com/gag/aBd83B1)<!-- MEMES:END -->
+ - 💣 [What the hell happened to her](http://9gag.com/gag/aVbMXdd)
+ - ⏩ [Let\u2019s do it. Everyone repost to spread this](http://9gag.com/gag/aVbMMNM)
+ - 👉 [Bonnie Aarons, the actress who plays Valak for The Nun](http://9gag.com/gag/aGEeerw)<!-- MEMES:END -->
 
 ---
 
