@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
- - ⏩ [Rescue at sea.](http://9gag.com/gag/a8q88nZ)
- - 👉 [She died on 19th of February 2022](http://9gag.com/gag/awZQKRy)<!-- MEMES:END -->
+ - 💣 [An unexpected friendship](http://9gag.com/gag/aNwz153)
+ - ⏩ [Wholesome toad person](http://9gag.com/gag/ap9Q2pB)
+ - 👉 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)<!-- MEMES:END -->
 
 ---
 
