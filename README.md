@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
- - ⏩ [The largest quarantine camp in China&#39;s Guangzhou city is being built. It has 90,000 isolation pods.](http://9gag.com/gag/aGEeZpG)
- - 👉 [China](http://9gag.com/gag/a4oGQzw)<!-- MEMES:END -->
+ - 💣 [Gym balls...](http://9gag.com/gag/abvz09E)
+ - ⏩ [A hero of legendary proportions!](http://9gag.com/gag/aXnvjWz)
+ - 👉 [Huge whale ended up on a South African beach](http://9gag.com/gag/aMEAGL1)<!-- MEMES:END -->
 
 ---
 
