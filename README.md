@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Satisfying](http://9gag.com/gag/aPg994G)
- - ⏩ [Today, if this French driver criticizes environmental activists, please view it as a &#39;caution&#39; step. Knowing the truth, I am not happy.](http://9gag.com/gag/avQ7Oen)
- - 👉 [Ukrainian troops seized the positions of Kadyrovites, the level of sexual crimes has yet to be assessed](http://9gag.com/gag/aQEe3DW)<!-- MEMES:END -->
+ - 💣 [Some of your friends, are not really your friends](http://9gag.com/gag/aZDg35p)
+ - ⏩ [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - 👉 [Happy Family](http://9gag.com/gag/aKEDDD6)<!-- MEMES:END -->
 
 ---
 
