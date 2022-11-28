@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Men... I guess?](http://9gag.com/gag/a4oG7yd)
- - ⏩ [I can&#39;t be the only one, right? Right?](http://9gag.com/gag/aA0DgAg)
- - 👉 [Noice](http://9gag.com/gag/abvzMoX)<!-- MEMES:END -->
+ - 💣 [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - ⏩ [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
+ - 👉 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)<!-- MEMES:END -->
 
 ---
 
