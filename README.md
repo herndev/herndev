@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best early Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
- - [The best early Cyber Monday deals under $25 you can get now](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
- - [How to use QuickTime Player in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-quicktime-player-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [Beats Headphones Are at an All-Time Low Price for Cyber Monday     - CNET](https://www.cnet.com/deals/beats-headphones-are-at-an-all-time-low-price-for-cyber-monday/#ftag=CAD590a51e)
+ - [The Best Cyber Monday TV Deals Available Now     - CNET](https://www.cnet.com/deals/black-friday-cyber-monday-tv-deals-roku-samsung-lg-sony-vizio/#ftag=CAD590a51e)
+ - [Target Cyber Monday Deals: The Best 25 Discounts Live Now     - CNET](https://www.cnet.com/deals/target-cyber-monday-deals-the-best-25-discounts-live-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
