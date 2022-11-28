@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
- - ⏩ [I guess parents don\u2019t want to take their kids to see a cartoon about homosexuals of color. Who could have known?](http://9gag.com/gag/aeQe685)
- - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
+ - 💣 [That&#39;s how you make it.](http://9gag.com/gag/a8q8pje)
+ - ⏩ [Haha gun powder goes brrrr](http://9gag.com/gag/a3ZM7nr)
+ - 👉 [Where is it, Bruce?!](http://9gag.com/gag/arm5OKp)<!-- MEMES:END -->
 
 ---
 
