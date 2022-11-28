@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ireland&#39;s Data Protection Commission fines Meta &amp;euro;265M for failing to safeguard data on 500M+ users from data scrapers, the third fine by the DPC on Meta &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221128/p10#a221128p10)
- - [32 Best Cyber Monday Coffee Maker Deals &lpar;2022&rpar;: Drip Coffee, Espresso Machines, Grinders, Subscriptions](https://www.wired.com/story/best-cyber-monday-coffee-deals-2022-1/)
- - [How to enroll in and leave Apple&#39;s beta program on iOS &amp; iPadOS](https://appleinsider.com/inside/iphone/tips/how-to-enroll-in-and-leave-apples-beta-program-on-ios-ipados?utm_medium=rss)<!-- TECH:END -->
+ - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
+ - [UK police report: financial losses from crypto fraud were up 32% YoY to &amp;pound;226M between October 2021 and September 2022 and cases rose 16% to 10,030 &lpar;Financial Times&rpar;](http://www.techmeme.com/221128/p11#a221128p11)
+ - [iPhone 14 Pro availability improves despite assembler riots](https://appleinsider.com/articles/22/11/28/iphone-14-pro-availability-improves-despite-assembler-riots?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
