@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How Pokémon Scarlet and Violet’s multiplayer works &lpar;and doesn’t&rpar;](https://www.polygon.com/pokemon-scarlet-violet-guide/23466451/union-circle-multiplayer-exclusives-spawns-raids-trade-battle)
- - [Warzone 1 is now back online, but it&#39;s missing key features and maps](https://www.pcgamer.com/warzone-1-is-now-back-online-but-its-missing-key-features-and-maps)
- - [Pokémon Scarlet and Violet EV training guide](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)<!-- GAME:END -->
+ - [Yakuza&#39;s Cabaret Minigame Is Making A Triumphant Return](https://kotaku.com/like-a-dragon-gaiden-yakuza-sega-cabaret-hostess-model-1849828403)
+ - [The Witcher remake will be an open world &#39;reimagining&#39; of the original](https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining)
+ - [Here&#39;s where to find every Dragon Glyph in WoW: Dragonflight](https://www.pcgamer.com/wow-dragon-glyph-locations-dragonriding)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
