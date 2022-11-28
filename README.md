@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook visits Apple Derby Street crash victims](https://appleinsider.com/articles/22/11/28/apple-ceo-tim-cook-visits-apple-derby-street-crash-victims?utm_medium=rss)
- - [UK police report: financial losses from crypto fraud were up 32% YoY to &amp;pound;226M between October 2021 and September 2022 and cases rose 16% to 10,030 &lpar;Financial Times&rpar;](http://www.techmeme.com/221128/p11#a221128p11)
- - [iPhone 14 Pro availability improves despite assembler riots](https://appleinsider.com/articles/22/11/28/iphone-14-pro-availability-improves-despite-assembler-riots?utm_medium=rss)<!-- TECH:END -->
+ - [Apple battling ESPN for rights to stream Dutch soccer league](https://appleinsider.com/articles/22/11/28/apple-battling-espn-for-rights-to-stream-dutch-soccer-league?utm_medium=rss)
+ - [Struggling for workers, Foxconn is giving ex-workers incentives to rejoin](https://appleinsider.com/articles/22/11/28/struggling-for-workers-foxconn-is-giving-ex-workers-incentives-to-rejoin?utm_medium=rss)
+ - [Update your Google Chrome Mac install now](https://appleinsider.com/articles/22/11/28/update-your-google-chrome-mac-install-now?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
