@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [22 Best Cyber Monday Microsoft Deals &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-cyber-monday-microsoft-xbox-surface-laptop-deals-2022/)
- - [WIRED’s Complete Guide to the Best Cyber Monday Deals &lpar;2022&rpar;: Ranked by Category](https://www.wired.com/story/wired-recommended-cyber-monday-deals-by-device/)
- - [Inflight 5G calls and data could become a reality in Europe with new decision](https://www.theverge.com/2022/11/28/23481637/european-union-inflight-5g-commission-spectrum)<!-- TECH:END -->
+ - [New Zealand says Twitter failed to detect or remove clips from the 2019 Christchurch terror attack until the government alerted the company &lpar;Eva Corlett/The Guardian&rpar;](http://www.techmeme.com/221128/p2#a221128p2)
+ - [177 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;](https://www.wired.com/story/best-cyber-monday-deals-2022-2/)
+ - [22 Best Cyber Monday Microsoft Deals &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-cyber-monday-microsoft-xbox-surface-laptop-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
