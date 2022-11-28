@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Competitive Farming Simulator is like an agriculture Grand Prix](https://www.pcgamer.com/competitive-farming-simulator-is-like-an-agriculture-grand-prix)
  - [Star Wars board games and miniatures get Cyber Monday deals on Amazon](https://www.polygon.com/deals/2022/11/28/23475281/star-wars-cyber-monday-deals-board-games-miniatures-x-wing-armada-legion-rebellion)
- - [Cyber Monday board game deals: Amazon cuts hundreds of titles up to 75%](https://www.polygon.com/deals/2022/11/28/23473347/amazon-cyber-monday-board-game-sale-gloomhaven-catan-descent-arkham-horror-pandemic)
- - [Grand &lpar;Fantasy&rpar; Designs](https://kotaku.com/rise-of-kingdoms-concept-art-patrick-hailla-1849825069)<!-- GAME:END -->
+ - [Cyber Monday board game deals: Amazon cuts hundreds of titles up to 75%](https://www.polygon.com/deals/2022/11/28/23473347/amazon-cyber-monday-board-game-sale-gloomhaven-catan-descent-arkham-horror-pandemic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
