@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [120+ best Apple Cyber Monday deals for Mac, iPhone, iPad fans](https://appleinsider.com/articles/22/11/28/120-best-apple-cyber-monday-deals-for-mac-iphone-ipad-fans?utm_medium=rss)
- - [Daily Authority: 🚴 The ultimate e-bike test](https://www.androidauthority.com/daily-authority-november-28-2022-3241807/)
- - [40 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)<!-- TECH:END -->
+ - [22 Best Cyber Monday Microsoft Deals &lpar;2022&rpar;: Xbox Series S, Surface Laptops](https://www.wired.com/story/best-cyber-monday-microsoft-xbox-surface-laptop-deals-2022/)
+ - [WIRED’s Complete Guide to the Best Cyber Monday Deals &lpar;2022&rpar;: Ranked by Category](https://www.wired.com/story/wired-recommended-cyber-monday-deals-by-device/)
+ - [Inflight 5G calls and data could become a reality in Europe with new decision](https://www.theverge.com/2022/11/28/23481637/european-union-inflight-5g-commission-spectrum)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
