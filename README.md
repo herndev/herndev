@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s how you make it.](http://9gag.com/gag/a8q8pje)
- - ⏩ [Haha gun powder goes brrrr](http://9gag.com/gag/a3ZM7nr)
- - 👉 [Where is it, Bruce?!](http://9gag.com/gag/arm5OKp)<!-- MEMES:END -->
+ - 💣 [Savage](http://9gag.com/gag/aL189jg)
+ - ⏩ [My wife was possessed](http://9gag.com/gag/axo0gwK)
+ - 👉 [I guess parents don\u2019t want to take their kids to see a cartoon about homosexuals of color. Who could have known?](http://9gag.com/gag/aeQe685)<!-- MEMES:END -->
 
 ---
 
