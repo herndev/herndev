@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google paid millions to radio hosts to endorse the Pixel 4 — even though they hadn’t used it](https://www.theverge.com/2022/11/28/23482636/google-iheartmedia-pixel-4-ads-ftc-radio-hosts)
- - [76 Best Cyber Monday Laptop and Home Office Deals &lpar;2022&rpar;: Office Chairs, Standing Desks, Portable Monitors](https://www.wired.com/story/best-cyber-monday-laptop-deals-2022/)
- - [Apple to open new store at American Dream Mall in New Jersey](https://appleinsider.com/articles/22/11/28/apple-to-open-new-store-at-american-dream-mall-in-new-jersey?utm_medium=rss)<!-- TECH:END -->
+ - [35 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)
+ - [The best Cyber Monday deals you can get at Walmart](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)
+ - [The best Cyber Monday deals you can get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
