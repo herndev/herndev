@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gym balls...](http://9gag.com/gag/abvz09E)
- - ⏩ [How to deal with people who glue themselves down](http://9gag.com/gag/amA2re6)
- - 👉 [But...](http://9gag.com/gag/aQEe9qr)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/aBd8rd1)
+ - ⏩ [I guess parents don\u2019t want to take their kids to see a cartoon about homosexuals of color. Who could have known?](http://9gag.com/gag/aeQe685)
+ - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
 
 ---
 
