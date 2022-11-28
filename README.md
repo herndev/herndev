@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty Money Glitch Is Making DMZ Players Unfairly Rich](https://kotaku.com/call-of-duty-dmz-money-xp-glitch-farm-exploit-1849826627)
- - [Don&#39;t Make This Mistake And Prevent Your Pokémon From Evolving In Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-evolution-pawmo-rellor-bramblin-1849826494)
- - [The MCU’s Phase 4 was a necessary experiment for a franchise that has to grow](https://www.polygon.com/23475687/marvel-cinematic-universe-phase-4-analysis)<!-- GAME:END -->
+ - [Overwatch 2&#39;s New Tank Hero Is Every Reinhardt Player&#39;s Worst Nightmare](https://kotaku.com/overwatch-2-ramattra-new-tank-abilities-gameplay-meta-1849826961)
+ - [Welp, Pokémon Scarlet And Violet Players Found A Way To Kiss Their Monsters](https://kotaku.com/pokemon-scarlet-violet-sprigatito-evolution-meowscarada-1849826752)
+ - [Call Of Duty Money Glitch Is Making DMZ Players Unfairly Rich](https://kotaku.com/call-of-duty-dmz-money-xp-glitch-farm-exploit-1849826627)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
