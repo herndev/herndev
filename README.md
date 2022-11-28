@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - ⏩ [Ok idc](http://9gag.com/gag/aVbMqYK)
- - 👉 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)<!-- MEMES:END -->
+ - 💣 [Men... I guess?](http://9gag.com/gag/a4oG7yd)
+ - ⏩ [I can&#39;t be the only one, right? Right?](http://9gag.com/gag/aA0DgAg)
+ - 👉 [Noice](http://9gag.com/gag/abvzMoX)<!-- MEMES:END -->
 
 ---
 
