@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Happy Family](http://9gag.com/gag/aKEDDD6)
- - ⏩ [They had one job](http://9gag.com/gag/a5XnP3O)
- - 👉 [If Elon bought the government](http://9gag.com/gag/aOxBbXr)<!-- MEMES:END -->
+ - 💣 [It&#39;s actually a pretty legit question](http://9gag.com/gag/aPg9MDV)
+ - ⏩ [Bro code](http://9gag.com/gag/a9qAWOL)
+ - 👉 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)<!-- MEMES:END -->
 
 ---
 
