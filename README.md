@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
  - [Today&#39;s Wordle answer and hint for Tuesday, November 29](https://www.pcgamer.com/wordle-528-answer-november-29)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)
- - [This external cooler is as big as a PC](https://www.pcgamer.com/this-external-cooler-is-as-big-as-a-pc)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
