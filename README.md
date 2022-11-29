@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Belgian reporter is been assaulted live on Belgian TV.](http://9gag.com/gag/aVbMDRM)
- - ⏩ [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)
- - 👉 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)<!-- MEMES:END -->
+ - 💣 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
+ - ⏩ [Funny creative title](http://9gag.com/gag/aDYz4rG)
+ - 👉 [So this guy have a real death wish](http://9gag.com/gag/aoKOPn2)<!-- MEMES:END -->
 
 ---
 
