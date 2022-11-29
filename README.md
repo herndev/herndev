@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [9 Awesome Cyber Monday Deals on Bluetooth Speakers Ending Soon     - CNET](https://www.cnet.com/tech/home-entertainment/9-awesome-cyber-monday-deals-on-bluetooth-speakers/#ftag=CAD590a51e)
  - [7 shows like The Blacklist that you can stream right now](https://www.androidauthority.com/shows-like-the-blacklist-3238232/)
- - [AWS announces a new Graviton3E chip for high-performance computing tasks like weather forecasting and gene sequencing, competing with Intel, Nvidia, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221129/p3#a221129p3)
- - [189 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;: Away Luggage, AirPods Pro, and More](https://www.wired.com/story/best-cyber-monday-deals-2022-3/)<!-- TECH:END -->
+ - [AWS announces a new Graviton3E chip for high-performance computing tasks like weather forecasting and gene sequencing, competing with Intel, Nvidia, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221129/p3#a221129p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
