@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The spectacular 3-screen Ridge Racer arcade sim left to rot, and the fans who saved a &#39;90s treasure](https://www.pcgamer.com/the-spectacular-3-screen-ridge-racer-arcade-sim-left-to-rot-and-the-fans-who-saved-a-90s-treasure)
- - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)
- - [How EV training works in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)<!-- GAME:END -->
+ - [Victoria 3 Players Think Communism Is Too OP](https://kotaku.com/victoria-3-communism-op-paradox-simulation-capitalism-1849832954)
+ - [Overwatch Season 2 is coming for all you Sojourn mains](https://www.pcgamer.com/overwatch-season-2-is-coming-for-all-you-sojourn-mains)
+ - [GPU shipments last quarter were the lowest they&#39;ve been in over 10 years](https://www.pcgamer.com/gpu-shipments-last-quarter-were-the-lowest-theyve-been-in-over-10-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
