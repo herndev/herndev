@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to cut off your ex from your Netflix account](https://appleinsider.com/inside/mac/tips/how-to-cut-off-your-ex-from-your-netflix-account?utm_medium=rss)
- - [Polestar CEO doesn’t want the company’s first e-bike to be a ‘marketing stunt’](https://www.theverge.com/2022/11/29/23466392/polestar-ebike-allebike-ceo-thomas-ingenlath-ev)
- - [Volvo EX90: The Biggest Problem for the New EV Flagship is Polestar](https://www.wired.com/story/volvos-new-ev-flagship-is-basically-a-family-friendly-polestar/)<!-- TECH:END -->
+ - [Apple&#39;s iPhone 14 Pro shipments may drop by 20M in Q4 says Kuo](https://appleinsider.com/articles/22/11/29/apples-iphone-14-pro-shipments-may-drop-by-20m-in-q4-says-kuo?utm_medium=rss)
+ - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
+ - [iPhone 15 Ultra: What it may look like, and what to expect in 2023](https://appleinsider.com/articles/22/11/29/iphone-15-ultra-what-it-looks-like-and-what-to-expect-in-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
