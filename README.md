@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
- - ⏩ [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
- - 👉 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
+ - ⏩ [Come on boy](http://9gag.com/gag/abvzv0v)
+ - 👉 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)<!-- MEMES:END -->
 
 ---
 
