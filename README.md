@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet Duplication Glitch Creates Endless Items](https://kotaku.com/pokemon-scarlet-violet-item-dupe-trick-tera-shard-1849831496)
- - [Report: Elden Ring Devs Say FromSoftware Engages In &#39;Some Level Of Crunch&#39;](https://kotaku.com/elden-ring-dark-souls-fromsoftware-games-crunch-bandai-1849831349)
- - [AMD Radeon RX 7800 and RX 7700 graphics likely to rely on high clocks for performance](https://www.pcgamer.com/amd-radeon-rx-7800-and-rx-7700-graphics-likely-to-rely-on-high-clocks-for-performance)<!-- GAME:END -->
+ - [Overwatch 2 season 2 trailer reveals new Battle for Olympus mode, holiday skins](https://www.polygon.com/23484436/overwatch-2-season-2-skins-winter-wonderland-lunar-new-year-dates-modes)
+ - [Elon Musk Sleeps Next To A Deus Ex: Human Revolution Gun For No Reason](https://kotaku.com/elon-musk-deus-ex-replica-gun-photo-twitter-diet-coke-1849831722)
+ - [This Scarlet And Violet Pokémon Might Commit Murder And Fans Are Obsessed](https://kotaku.com/pokemon-scarlet-violet-tinkaton-corviknight-pokedex-1849831680)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
