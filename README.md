@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - 👉 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
+ - 💣 [Why hadn\u2019t I ever heard a miniature Italian speak before?!](http://9gag.com/gag/a1PKmo6)
+ - ⏩ [Non German post](http://9gag.com/gag/aXnvLpD)
+ - 👉 [MASTER OOGWAY.](http://9gag.com/gag/adP916B)<!-- MEMES:END -->
 
 ---
 
