@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok idc](http://9gag.com/gag/aVbMqYK)
- - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 👉 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)<!-- MEMES:END -->
+ - 💣 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
+ - ⏩ [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)
+ - 👉 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
 
 ---
 
