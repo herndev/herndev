@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
- - ⏩ [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
- - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
+ - 💣 [Moves you learn when you grow up with a brother](http://9gag.com/gag/aKED6Ob)
+ - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 👉 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)<!-- MEMES:END -->
 
 ---
 
