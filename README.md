@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - ⏩ [Young Brazilian Player Rodrygo trying to get some of Ronaldos Talent](http://9gag.com/gag/a1PKmpD)
- - 👉 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
+ - 💣 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
+ - ⏩ [Any advice?](http://9gag.com/gag/a045RxZ)
+ - 👉 [Come on boy](http://9gag.com/gag/abvzv0v)<!-- MEMES:END -->
 
 ---
 
