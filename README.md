@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Twitter only has one staff left on a team dedicated to removing CSAM after layoffs, despite Musk saying removing child exploitation is top priority &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221128/p22#a221128p22)
- - [How to use QuickTime Player in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-quicktime-player-in-macos-ventura?utm_medium=rss)
- - [Whill Model F Travel Chair review: What Apple would make, if it wanted to](https://appleinsider.com/articles/22/11/28/whill-model-f-travel-chair-review-what-apple-would-make-if-it-wanted-to?utm_medium=rss)<!-- TECH:END -->
+ - [Memo: Evan Spiegel told Snap employees that he expects them to be in the company&#39;s offices 80% of the time, or four or more days a week, starting February 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221128/p25#a221128p25)
+ - [25 Best Cyber Monday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-cyber-monday-mattress-deals-2022/)
+ - [Cyber Monday: Your Last Change to Save $48 on Peacock Premium     - CNET](https://www.cnet.com/tech/services-and-software/cyber-monday-your-last-change-to-save-48-on-peacock-premium/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
