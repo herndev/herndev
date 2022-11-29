@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [How does Warhammer 40K: Darktide compare to Vermintide 2?](https://www.pcgamer.com/how-does-warhammer-40k-darktide-compare-to-vermintide-2)
  - [Cyberpunk: Edgerunners helped push CD Projekt to &#39;the best third quarter in our entire history&#39;](https://www.pcgamer.com/cyberpunk-edgerunners-helped-push-cd-projekt-to-the-best-third-quarter-in-our-entire-history)
- - [Kickstarter Cancelled In The Most Brutal Way Possible](https://kotaku.com/kickstarter-survival-horror-pc-mystery-flesh-pit-1849829127)<!-- GAME:END -->
+ - [Kickstarter Cancelled In The Most Brutally Honest Way Possible](https://kotaku.com/kickstarter-survival-horror-pc-mystery-flesh-pit-1849829127)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
