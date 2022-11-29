@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best Cyber Monday deals under $25 you can still get](https://www.theverge.com/23474206/black-friday-2022-tech-deals-under-25-cyber-monday-smart-home-streaming-gaming)
- - [69 Best Cyber Monday Phone Deals &lpar;2022&rpar;: Phones, Cases, Tablets, Smartwatches, and More](https://www.wired.com/story/best-cyber-monday-phone-deals-tablet-watch-2022-1/)
- - [FTX&#39;s collapse was exacerbated by centralization; FTX being a decentralized exchange, based on smart contracts, could have prevented SBF draining customer funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221128/p26#a221128p26)<!-- TECH:END -->
+ - [Everything you need to know about Garmin Connect](https://www.androidauthority.com/garmin-connect-3240953/)
+ - [The best Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
+ - [71 Great Best Buy Cyber Monday Deals &lpar;2022&rpar;: iPads, Apple Watches, Cameras](https://www.wired.com/story/best-best-buy-cyber-monday-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
