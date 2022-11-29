@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the FBI&#39;s January 6 investigation geofence warrant: Google identified 5K+ devices; dozens appear to have been in airplane mode or had data deleted &lpar;Mark Harris/Wired&rpar;](http://www.techmeme.com/221129/p15#a221129p15)
- - [Analysis: Palantir, which invested $450M since 2021 in early-stage companies via SPACs, has lost ~$333M, or 75% of its portfolio, offset against some revenue &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/221129/p14#a221129p14)
- - [Scientists Reexamine Why Zebra Stripes Mysteriously Repel Flies](https://www.wired.com/story/scientists-reexamine-why-zebra-stripes-mysteriously-repel-flies/)<!-- TECH:END -->
+ - [The best comic book reader apps for iPad in 2022](https://appleinsider.com/inside/ipad/best/the-best-comic-book-reader-apps-for-ipad-in-2022?utm_medium=rss)
+ - [Sources: Jack Ma has been living in central Tokyo for nearly six months, keeping public activities to a minimum, after China&#39;s crackdown on tech and businessmen &lpar;Financial Times&rpar;](http://www.techmeme.com/221129/p16#a221129p16)
+ - [Musicians aren&#39;t losing out from streaming music, UK regulator says](https://appleinsider.com/articles/22/11/29/musicians-arent-losing-out-from-streaming-music-uk-regulator-says?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
