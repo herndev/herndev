@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)
  - [This external cooler is as big as a PC](https://www.pcgamer.com/this-external-cooler-is-as-big-as-a-pc)
- - [How does Warhammer 40K: Darktide compare to Vermintide 2?](https://www.pcgamer.com/how-does-warhammer-40k-darktide-compare-to-vermintide-2)
- - [Cyberpunk: Edgerunners helped push CD Projekt to &#39;the best third quarter in our entire history&#39;](https://www.pcgamer.com/cyberpunk-edgerunners-helped-push-cd-projekt-to-the-best-third-quarter-in-our-entire-history)<!-- GAME:END -->
+ - [How does Warhammer 40K: Darktide compare to Vermintide 2?](https://www.pcgamer.com/how-does-warhammer-40k-darktide-compare-to-vermintide-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
