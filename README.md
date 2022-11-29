@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [34 Best Cyber Monday Headphone Deals &lpar;2022&rpar;: Earbuds, Headphones, Speakers, Record Players](https://www.wired.com/story/best-cyber-monday-headphone-deals-speakers-2022/)
- - [Singapore-based Igloo, an AI-based insurtech platform for underserved groups in SE Asia, raised a $27M Series B extension, bringing the round&#39;s total to $46M &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221129/p2#a221129p2)
- - [Samsung might let you self-repair smartwatches and earbuds in the future](https://www.androidauthority.com/samsung-self-repair-app-3242190/)<!-- TECH:END -->
+ - [7 shows like The Blacklist that you can stream right now](https://www.androidauthority.com/shows-like-the-blacklist-3238232/)
+ - [AWS announces a new Graviton3E chip for high-performance computing tasks like weather forecasting and gene sequencing, competing with Intel, Nvidia, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221129/p3#a221129p3)
+ - [189 Absolute Best Cyber Monday Deals Right Now &lpar;2022&rpar;: Away Luggage, AirPods Pro, and More](https://www.wired.com/story/best-cyber-monday-deals-2022-3/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
