@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
- - ⏩ [Any advice?](http://9gag.com/gag/a045RxZ)
- - 👉 [Come on boy](http://9gag.com/gag/abvzv0v)<!-- MEMES:END -->
+ - 💣 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - ⏩ [Come on boy](http://9gag.com/gag/abvzv0v)
+ - 👉 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)<!-- MEMES:END -->
 
 ---
 
