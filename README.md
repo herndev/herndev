@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on boy](http://9gag.com/gag/abvzv0v)
- - ⏩ [Any advice?](http://9gag.com/gag/a045RxZ)
- - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
+ - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - 👉 [Any advice?](http://9gag.com/gag/a045RxZ)<!-- MEMES:END -->
 
 ---
 
