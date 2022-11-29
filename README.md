@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Yakuza&#39;s Cabaret Minigame Is Making A Triumphant Return](https://kotaku.com/like-a-dragon-gaiden-yakuza-sega-cabaret-hostess-model-1849828403)
- - [The Witcher remake will be an open world &#39;reimagining&#39; of the original](https://www.pcgamer.com/the-witcher-remake-will-be-an-open-world-reimagining)
- - [Here&#39;s where to find every Dragon Glyph in WoW: Dragonflight](https://www.pcgamer.com/wow-dragon-glyph-locations-dragonriding)<!-- GAME:END -->
+ - [Bohemia Interactive wants people to please stop using Arma 3 to create fake war footage](https://www.pcgamer.com/bohemia-interactive-wants-people-to-please-stop-using-arma-3-to-create-fake-war-footage)
+ - [Keep your coffee hot at your desk all day with the best insulated mug I&#39;ve ever used](https://www.pcgamer.com/keep-your-coffee-hot-at-your-desk-all-day-with-the-best-insulated-mug-ive-ever-used)
+ - [World of Warcraft: Dragonflight&#39;s servers buckle as players race to catch a ride to the new zone](https://www.pcgamer.com/world-of-warcraft-dragonflight-queue-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
