@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
- - ⏩ [Come on boy](http://9gag.com/gag/abvzv0v)
- - 👉 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)<!-- MEMES:END -->
+ - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
+ - ⏩ [Young Brazilian Player Rodrygo trying to get some of Ronaldos Talent](http://9gag.com/gag/a1PKmpD)
+ - 👉 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
 
 ---
 
