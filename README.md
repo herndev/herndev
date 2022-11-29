@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any advice?](http://9gag.com/gag/a045RxZ)
- - ⏩ [Meanwhile in CCP](http://9gag.com/gag/aDYzdR9)
- - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 💣 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
+ - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 👉 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)<!-- MEMES:END -->
 
 ---
 
