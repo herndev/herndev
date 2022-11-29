@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I used Apple Fitness Plus for 7 Days: Here’s my honest review](https://www.androidauthority.com/apple-fitness-plus-review-3233190/)
- - [YouTube Music gets in on year-in-review season with 2022 Recap](https://www.theverge.com/23483703/youtube-music-recap-2022-year-in-review-spotify-wrapped)
- - [Adobe: US consumers spent $11.3B on Cyber Monday, up 5.8% YoY, above Thanksgiving&#39;s $5.29B and Black Friday&#39;s $9.12B, driven in part by deeper discounts &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221129/p20#a221129p20)<!-- TECH:END -->
+ - [How to cut off your ex from your Netflix account](https://appleinsider.com/inside/mac/tips/how-to-cut-off-your-ex-from-your-netflix-account?utm_medium=rss)
+ - [Polestar CEO doesn’t want the company’s first e-bike to be a ‘marketing stunt’](https://www.theverge.com/2022/11/29/23466392/polestar-ebike-allebike-ceo-thomas-ingenlath-ev)
+ - [Volvo EX90: The Biggest Problem for the New EV Flagship is Polestar](https://www.wired.com/story/volvos-new-ev-flagship-is-basically-a-family-friendly-polestar/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
