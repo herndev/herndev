@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 season 2 trailer reveals new Battle for Olympus mode, holiday skins](https://www.polygon.com/23484436/overwatch-2-season-2-skins-winter-wonderland-lunar-new-year-dates-modes)
- - [Elon Musk Sleeps Next To A Deus Ex: Human Revolution Gun For No Reason](https://kotaku.com/elon-musk-deus-ex-replica-gun-photo-twitter-diet-coke-1849831722)
- - [This Scarlet And Violet Pokémon Might Commit Murder And Fans Are Obsessed](https://kotaku.com/pokemon-scarlet-violet-tinkaton-corviknight-pokedex-1849831680)<!-- GAME:END -->
+ - [Game Developers Find Their “Superpower” with Xbox Game Studios Game Camp](https://news.xbox.com/en-us/2022/11/29/xbox-game-studios-game-camp-feature-lemonjuice/)
+ - [How EV training works in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23482432/ev-training-pokemon-sandwiches-locations-power-items-lower-berries)
+ - [Remake Of The First Witcher Game Promises An Open-World Overhaul](https://kotaku.com/witcher-remake-open-world-rpg-cd-projekt-red-cyberpunk-1849832000)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
