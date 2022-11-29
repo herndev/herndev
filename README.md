@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
- - ⏩ [Funny creative title](http://9gag.com/gag/aDYz4rG)
- - 👉 [So this guy have a real death wish](http://9gag.com/gag/aoKOPn2)<!-- MEMES:END -->
+ - 💣 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - ⏩ [Something I found deep diving in my phone](http://9gag.com/gag/abvz0o8)
+ - 👉 [Gym balls...](http://9gag.com/gag/abvz09E)<!-- MEMES:END -->
 
 ---
 
