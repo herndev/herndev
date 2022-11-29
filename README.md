@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
- - ⏩ [It was taken by surprise](http://9gag.com/gag/a3ZMwP7)
- - 👉 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)<!-- MEMES:END -->
+ - 💣 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)
+ - ⏩ [Save and never use ... paper airplane](http://9gag.com/gag/aKED7y6)
+ - 👉 [Deleted at least one time](http://9gag.com/gag/axo0oZW)<!-- MEMES:END -->
 
 ---
 
