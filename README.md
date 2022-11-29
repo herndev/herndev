@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Stereotypes](http://9gag.com/gag/ajVNVVw)
- - ⏩ [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)
- - 👉 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
+ - 💣 [Come on boy](http://9gag.com/gag/abvzv0v)
+ - ⏩ [Any advice?](http://9gag.com/gag/a045RxZ)
+ - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 ---
 
