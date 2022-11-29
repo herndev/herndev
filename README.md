@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is why streaming Netflix, Disney Plus, and HBO Max keeps getting more expensive](https://www.theverge.com/23460947/netflix-hulu-disney-plus-apple-tv-streaming-price-hikes-truth-behind)
- - [Republicans Ron DeSantis, Ken Buck, Mike Lee, Marsha Blackburn, others mention legislative action to curb Apple&#39;s app market power after Musk tweets about Apple &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/221129/p25#a221129p25)
- - [Man robbed of $95,000 worth of iPhones outside Fifth Avenue Apple Store](https://appleinsider.com/articles/22/11/29/man-robbed-of-95000-worth-of-iphones-outside-fifth-avenue-apple-store?utm_medium=rss)<!-- TECH:END -->
+ - [Eufy cameras upload content to the cloud without owners knowledge](https://appleinsider.com/articles/22/11/29/eufy-cameras-upload-content-to-the-cloud-without-owners-knowledge?utm_medium=rss)
+ - [It feels like incredible customer service might be bad for the environment](https://www.theverge.com/2022/11/29/23483947/nintendo-controller-self-repair-good-customer-service-ewaste)
+ - [LG and MSI are taking on Samsung’s Odyssey G9 with giant curved OLED gaming monitors](https://www.theverge.com/2022/11/29/23484661/lg-ultragear-45-oled-msi-project-491c-samsung-odyssey-g9-competition)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
