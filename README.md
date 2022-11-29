@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Moves you learn when you grow up with a brother](http://9gag.com/gag/aKED6Ob)
- - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 👉 [Why is there no more commercial like this??](http://9gag.com/gag/awZQn4R)<!-- MEMES:END -->
+ - 💣 [Any advice?](http://9gag.com/gag/a045RxZ)
+ - ⏩ [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
+ - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 ---
 
