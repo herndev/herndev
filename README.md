@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Companies are rushing to hire former Twitter misinformation experts, who were laid off or quit, seeking to avoid liability for false and toxic information &lpar;Tiffany Hsu/New York Times&rpar;](http://www.techmeme.com/221129/p8#a221129p8)
- - [Donald Trump&#39;s lawyer says a lawsuit against Twitter over banning his account is ongoing and Trump does not plan to withdraw the appeal, complicating his return &lpar;Malathi Nayak/Bloomberg&rpar;](http://www.techmeme.com/221129/p7#a221129p7)
- - [You told us: Most of you have imported a phone or bought one when overseas](https://www.androidauthority.com/import-phone-buy-overseas-poll-results-3242232/)<!-- TECH:END -->
+ - [Twitter stopped enforcing its longstanding COVID-19 &quot;harmful misinformation&quot; policy on November 23; more than 11,000 accounts were suspended under the rules &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/221129/p10#a221129p10)
+ - [The best apps to round out your Pixel Watch experience](https://www.androidauthority.com/best-pixel-watch-apps-3236742/)
+ - [The Planet Desperately Needs That UN Plastics Treaty](https://www.wired.com/story/the-planet-desperately-needs-that-un-plastics-treaty/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
