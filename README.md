@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why hadn\u2019t I ever heard a miniature Italian speak before?!](http://9gag.com/gag/a1PKmo6)
- - ⏩ [Non German post](http://9gag.com/gag/aXnvLpD)
- - 👉 [MASTER OOGWAY.](http://9gag.com/gag/adP916B)<!-- MEMES:END -->
+ - 💣 [Gimme your best Walmart dweller](http://9gag.com/gag/aVbM382)
+ - ⏩ [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
+ - 👉 [G&lpar;old&rpar;](http://9gag.com/gag/awZQgEQ)<!-- MEMES:END -->
 
 ---
 
