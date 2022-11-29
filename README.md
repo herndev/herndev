@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Tuesday, November 29](https://www.pcgamer.com/wordle-528-answer-november-29)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)
- - [This external cooler is as big as a PC](https://www.pcgamer.com/this-external-cooler-is-as-big-as-a-pc)
- - [How does Warhammer 40K: Darktide compare to Vermintide 2?](https://www.pcgamer.com/how-does-warhammer-40k-darktide-compare-to-vermintide-2)<!-- GAME:END -->
+ - [This external cooler is as big as a PC](https://www.pcgamer.com/this-external-cooler-is-as-big-as-a-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
