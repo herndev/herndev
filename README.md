@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A hero of legendary proportions!](http://9gag.com/gag/aXnvjWz)
- - ⏩ [Ah sh\u00a1t, here we go again.](http://9gag.com/gag/aDYzDLw)
- - 👉 [Wamen](http://9gag.com/gag/adP9g1V)<!-- MEMES:END -->
+ - 💣 [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
+ - ⏩ [It was taken by surprise](http://9gag.com/gag/a3ZMwP7)
+ - 👉 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)<!-- MEMES:END -->
 
 ---
 
