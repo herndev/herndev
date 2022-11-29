@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [35 Best Walmart Cyber Monday Deals &lpar;2022&rpar;: TVs, Vacuums, Earbuds, Sonos](https://www.wired.com/story/best-walmart-cyber-monday-deals-2022/)
- - [The best Cyber Monday deals you can get at Walmart](https://www.theverge.com/23477686/walmart-black-friday-2022-best-tech-deals-cyber-monday-earbuds-gaming)
- - [The best Cyber Monday deals you can get at Target](https://www.theverge.com/23477770/target-black-friday-2022-deals-cyber-monday-tech-games-streaming)<!-- TECH:END -->
+ - [Sources: Twitter only has one staff left on a team dedicated to removing CSAM after layoffs, despite Musk saying removing child exploitation is top priority &lpar;Morgan Meaker/Wired&rpar;](http://www.techmeme.com/221128/p22#a221128p22)
+ - [How to use QuickTime Player in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-quicktime-player-in-macos-ventura?utm_medium=rss)
+ - [Whill Model F Travel Chair review: What Apple would make, if it wanted to](https://appleinsider.com/articles/22/11/28/whill-model-f-travel-chair-review-what-apple-would-make-if-it-wanted-to?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
