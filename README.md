@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eufy cameras upload content to the cloud without owners knowledge](https://appleinsider.com/articles/22/11/29/eufy-cameras-upload-content-to-the-cloud-without-owners-knowledge?utm_medium=rss)
- - [It feels like incredible customer service might be bad for the environment](https://www.theverge.com/2022/11/29/23483947/nintendo-controller-self-repair-good-customer-service-ewaste)
- - [LG and MSI are taking on Samsung’s Odyssey G9 with giant curved OLED gaming monitors](https://www.theverge.com/2022/11/29/23484661/lg-ultragear-45-oled-msi-project-491c-samsung-odyssey-g9-competition)<!-- TECH:END -->
+ - [Pinterest says it is ending the creator rewards program that it launched in 2021, which offered cash bonuses when creators completed certain goals &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221129/p32#a221129p32)
+ - [CrowdStrike reports Q3 revenue up 53% YoY to $581M, vs. $574M est., subscription customers up 44% YoY to 21,146; stock drops 17% on weaker-than-expected growth &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221129/p31#a221129p31)
+ - [Man discovers why walking in NYC with $95,000 in iPhones is a bad idea](https://www.androidauthority.com/iphone-robbery-nyc-3242476/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
