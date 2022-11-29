@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything you need to know about Garmin Connect](https://www.androidauthority.com/garmin-connect-3240953/)
- - [The best Cyber Monday deals under $50 you can still get](https://www.theverge.com/23477736/black-friday-2022-tech-best-deals-under-50-cyber-monday)
- - [71 Great Best Buy Cyber Monday Deals &lpar;2022&rpar;: iPads, Apple Watches, Cameras](https://www.wired.com/story/best-best-buy-cyber-monday-deals-2022/)<!-- TECH:END -->
+ - [22 Best Cyber Monday Soundbar and TV Deals &lpar;2022&rpar;: Samsung, Vizio, LG, and More](https://www.wired.com/story/best-cyber-monday-tv-soundbar-deals-2022-1/)
+ - [Cyber Monday deal: Mac Studio &lpar;M1 Max chip, 64GB RAM, 1TB SSD&rpar; discounted to $2,349](https://appleinsider.com/articles/22/11/27/cyber-monday-deal-mac-studio-m1-max-chip-64gb-ram-1tb-ssd-discounted-to-2349?utm_medium=rss)
+ - [Google sued for false Pixel 4 ads wherein influencers lied about using the phone](https://www.androidauthority.com/google-pixel-4-ads-lawsuit-3242183/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
