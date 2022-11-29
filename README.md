@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Leaked Super Mario Bros. Movie Posters Show Off New Donk City](https://kotaku.com/super-mario-bros-movie-poster-leak-nintendo-direct-1849830996)
- - [Killmonger Is One Of Marvel Snap&#39;s Best Cards](https://kotaku.com/marvel-snap-killmonger-card-battler-zoo-deck-pool-2-1849813798)
- - [OK it’s time to watch some Christmas movies](https://www.polygon.com/what-to-watch/23481987/best-christmas-movies-netflix-amazon-hbo-max-hulu)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet Duplication Glitch Creates Endless Items](https://kotaku.com/pokemon-scarlet-violet-item-dupe-trick-tera-shard-1849831496)
+ - [Report: Elden Ring Devs Say FromSoftware Engages In &#39;Some Level Of Crunch&#39;](https://kotaku.com/elden-ring-dark-souls-fromsoftware-games-crunch-bandai-1849831349)
+ - [AMD Radeon RX 7800 and RX 7700 graphics likely to rely on high clocks for performance](https://www.pcgamer.com/amd-radeon-rx-7800-and-rx-7700-graphics-likely-to-rely-on-high-clocks-for-performance)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
