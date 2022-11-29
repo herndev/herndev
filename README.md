@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Victoria 3 Players Think Communism Is Too OP](https://kotaku.com/victoria-3-communism-op-paradox-simulation-capitalism-1849832954)
- - [Overwatch Season 2 is coming for all you Sojourn mains](https://www.pcgamer.com/overwatch-season-2-is-coming-for-all-you-sojourn-mains)
- - [GPU shipments last quarter were the lowest they&#39;ve been in over 10 years](https://www.pcgamer.com/gpu-shipments-last-quarter-were-the-lowest-theyve-been-in-over-10-years)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight&#39;s first max level players rode its OP crafting system over the finish line](https://www.pcgamer.com/world-of-warcraft-dragonflights-first-max-level-players-rode-its-op-crafting-system-over-the-finish-line)
+ - [Does the redesigned Donkey Kong smoke weed?](https://www.polygon.com/23484974/mario-movie-donkey-kong-smoke-weed)
+ - [Relax and unwind with this stress-free city builder sandbox](https://www.pcgamer.com/relax-and-unwind-with-this-stress-free-city-builder-sandbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
