@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
- - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 👉 [Big &amp; Little](http://9gag.com/gag/amA2BgX)<!-- MEMES:END -->
+ - 💣 [Nsfw ..Kinda dark.](http://9gag.com/gag/avQ7ArO)
+ - ⏩ [Don&#39;t trust the pigs](http://9gag.com/gag/aNwzYbK)
+ - 👉 [It was taken by surprise](http://9gag.com/gag/a3ZMwP7)<!-- MEMES:END -->
 
 ---
 
