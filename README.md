@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Cyber Monday gaming laptop deals 2022: notebooks are the hot ticket item this year](https://www.pcgamer.com/cyber-monday-gaming-laptop-deals)
- - [Today&#39;s Wordle answer and hint for Tuesday, November 29](https://www.pcgamer.com/wordle-528-answer-november-29)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/11/28/this-weeks-deals-with-gold-and-spotlight-sale-253/)<!-- GAME:END -->
+ - [The best Kastov 762 loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-kastov-762-loadouts)
+ - [Cyber Monday gaming chair deals 2022: savings on Secretlab, Herman Miller and more](https://www.pcgamer.com/cyber-monday-gaming-chair-deals)
+ - [Samsung&#39;s new GDDR6W graphics memory doubles performance and capacity](https://www.pcgamer.com/samsungs-new-gddr6w-graphics-memory-doubles-performance-and-capacity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
