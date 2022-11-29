@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Memo: Evan Spiegel told Snap employees that he expects them to be in the company&#39;s offices 80% of the time, or four or more days a week, starting February 2023 &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221128/p25#a221128p25)
- - [25 Best Cyber Monday Mattress Deals &lpar;2022&rpar;: Bedsheets, Pillows, Blankets](https://www.wired.com/story/best-cyber-monday-mattress-deals-2022/)
- - [Cyber Monday: Your Last Change to Save $48 on Peacock Premium     - CNET](https://www.cnet.com/tech/services-and-software/cyber-monday-your-last-change-to-save-48-on-peacock-premium/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [FTX&#39;s collapse was exacerbated by centralization; FTX being a decentralized exchange, based on smart contracts, could have prevented SBF draining customer funds &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221128/p26#a221128p26)
+ - [Last Chance Cyber Monday Bed Accessory Deals: Save on Sheets, Pillows and Even Dog Beds     - CNET](https://www.cnet.com/deals/last-chance-cyber-monday-bed-accessory-deals-save-on-sheets-pillows-and-even-dog-beds/#ftag=CAD590a51e)
+ - [8 Last Chance Cyber Monday Deals at Their Lowest Prices Ever     - CNET](https://www.cnet.com/deals/8-last-chance-cyber-monday-deals-at-their-lowest-prices-ever/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
