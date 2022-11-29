@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Report suggests Microsoft soon to offer concessions in Activision deal](https://www.pcgamer.com/report-suggests-microsoft-soon-to-offer-concessions-in-activision-deal)
- - [How to complete the Rapid Fire Plans quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-rapid-fire-plans)
- - [The best Kastov 762 loadouts for Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-kastov-762-loadouts)<!-- GAME:END -->
+ - [Awaken your wanderlust with open world adventure Sable, out today on PS5](https://blog.playstation.com/2022/11/29/awaken-your-wanderlust-with-open-world-adventure-sable-out-today-on-ps5/)
+ - [Elite Dangerous’ aliens are pissed and they’re not gonna take it anymore](https://www.polygon.com/23482930/elite-dangerous-update-14-thargoids-war-galnet-rogue-signal-source)
+ - [How choosing ‘Girl’ in early RPGs inspired today’s game designers](https://www.polygon.com/23473203/pokemon-crystal-kris-gender-representation-trans-non-binary-characters-video-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
