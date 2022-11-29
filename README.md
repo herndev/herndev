@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court approves Apple&#39;s $50M settlement to end Butterfly Keyboard lawsuit](https://appleinsider.com/articles/22/11/29/court-approves-apples-50m-settlement-to-end-butterfly-keyboard-lawsuit?utm_medium=rss)
- - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [That ‘90s Show’s first trailer is a reminder of time’s relentless march forward](https://www.theverge.com/2022/11/29/23484202/that-90s-show-trailer-netflix)<!-- TECH:END -->
+ - [This is why streaming Netflix, Disney Plus, and HBO Max keeps getting more expensive](https://www.theverge.com/23460947/netflix-hulu-disney-plus-apple-tv-streaming-price-hikes-truth-behind)
+ - [Republicans Ron DeSantis, Ken Buck, Mike Lee, Marsha Blackburn, others mention legislative action to curb Apple&#39;s app market power after Musk tweets about Apple &lpar;Sara Dorn/Forbes&rpar;](http://www.techmeme.com/221129/p25#a221129p25)
+ - [Man robbed of $95,000 worth of iPhones outside Fifth Avenue Apple Store](https://appleinsider.com/articles/22/11/29/man-robbed-of-95000-worth-of-iphones-outside-fifth-avenue-apple-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
