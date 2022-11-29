@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Awaken your wanderlust with open world adventure Sable, out today on PS5](https://blog.playstation.com/2022/11/29/awaken-your-wanderlust-with-open-world-adventure-sable-out-today-on-ps5/)
- - [Elite Dangerous’ aliens are pissed and they’re not gonna take it anymore](https://www.polygon.com/23482930/elite-dangerous-update-14-thargoids-war-galnet-rogue-signal-source)
- - [How choosing ‘Girl’ in early RPGs inspired today’s game designers](https://www.polygon.com/23473203/pokemon-crystal-kris-gender-representation-trans-non-binary-characters-video-games)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet are rife with dupe glitches](https://www.polygon.com/pokemon/23483896/pokemon-scarlet-violet-item-pokemon-dupe-glitch-bug)
+ - [PlayStation Tournaments on PS5 officially launches today](https://blog.playstation.com/2022/11/29/playstation-tournaments-on-ps5-officially-launches-today/)
+ - [New Games with Gold for December 2022](https://news.xbox.com/en-us/2022/11/29/new-games-with-gold-for-december-2022/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
