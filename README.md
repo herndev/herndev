@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter stopped enforcing its longstanding COVID-19 &quot;harmful misinformation&quot; policy on November 23; more than 11,000 accounts were suspended under the rules &lpar;Donie O&#39;Sullivan/CNN&rpar;](http://www.techmeme.com/221129/p10#a221129p10)
- - [The best apps to round out your Pixel Watch experience](https://www.androidauthority.com/best-pixel-watch-apps-3236742/)
- - [The Planet Desperately Needs That UN Plastics Treaty](https://www.wired.com/story/the-planet-desperately-needs-that-un-plastics-treaty/)<!-- TECH:END -->
+ - [A look at the FBI&#39;s January 6 investigation geofence warrant: Google identified 5K+ devices; dozens appear to have been in airplane mode or had data deleted &lpar;Mark Harris/Wired&rpar;](http://www.techmeme.com/221129/p15#a221129p15)
+ - [Analysis: Palantir, which invested $450M since 2021 in early-stage companies via SPACs, has lost ~$333M, or 75% of its portfolio, offset against some revenue &lpar;Chris Bryant/Bloomberg&rpar;](http://www.techmeme.com/221129/p14#a221129p14)
+ - [Scientists Reexamine Why Zebra Stripes Mysteriously Repel Flies](https://www.wired.com/story/scientists-reexamine-why-zebra-stripes-mysteriously-repel-flies/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
