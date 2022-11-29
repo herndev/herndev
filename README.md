@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet are rife with dupe glitches](https://www.polygon.com/pokemon/23483896/pokemon-scarlet-violet-item-pokemon-dupe-glitch-bug)
- - [PlayStation Tournaments on PS5 officially launches today](https://blog.playstation.com/2022/11/29/playstation-tournaments-on-ps5-officially-launches-today/)
- - [New Games with Gold for December 2022](https://news.xbox.com/en-us/2022/11/29/new-games-with-gold-for-december-2022/)<!-- GAME:END -->
+ - [Leaked Super Mario Bros. Movie Posters Show Off New Donk City](https://kotaku.com/super-mario-bros-movie-poster-leak-nintendo-direct-1849830996)
+ - [Killmonger Is One Of Marvel Snap&#39;s Best Cards](https://kotaku.com/marvel-snap-killmonger-card-battler-zoo-deck-pool-2-1849813798)
+ - [OK it’s time to watch some Christmas movies](https://www.polygon.com/what-to-watch/23481987/best-christmas-movies-netflix-amazon-hbo-max-hulu)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
