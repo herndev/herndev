@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raunchy Realtor](http://9gag.com/gag/az2qjEB)
+ - 💣 [The only guy who can survive a zombie apocalypse.](http://9gag.com/gag/az2q9Ap)
  - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 👉 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)<!-- MEMES:END -->
+ - 👉 [Big &amp; Little](http://9gag.com/gag/amA2BgX)<!-- MEMES:END -->
 
 ---
 
