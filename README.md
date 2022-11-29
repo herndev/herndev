@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court approves Apple&#39;s $50M settlement to end Butterfly Keyboard lawsuit](https://appleinsider.com/articles/22/11/29/court-approves-apples-50m-settlement-to-end-butterfly-keyboard-lawsuit?utm_medium=rss)
  - [Tuesday’s top tech news: Elon squares off against Apple](https://www.theverge.com/2022/11/29/23483707/november-29-2022-tech-news-liveblog)
- - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Cyber Week deals: $799 MacBook Air, up to $900 off MacBook Pro, $1,799 Mac Studio, more](https://appleinsider.com/articles/22/11/29/cyber-week-deals-799-macbook-air-up-to-900-off-macbook-pro-1799-mac-studio-more?utm_medium=rss)<!-- TECH:END -->
+ - [That ‘90s Show’s first trailer is a reminder of time’s relentless march forward](https://www.theverge.com/2022/11/29/23484202/that-90s-show-trailer-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
