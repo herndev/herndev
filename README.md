@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [R.i.P](http://9gag.com/gag/aREjZPy)
- - ⏩ [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
- - 👉 [Rotten Apple](http://9gag.com/gag/a4oG5yw)<!-- MEMES:END -->
+ - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - ⏩ [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
+ - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 ---
 
