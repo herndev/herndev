@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)
- - [GTA creator says no, sorry, it didn&#39;t start as a dinosaur game](https://www.pcgamer.com/gta-creator-says-no-sorry-it-didnt-start-as-a-dinosaur-game)
- - [Smash World Tour organizers blame Nintendo for championship’s sudden shutdown](https://www.polygon.com/23485876/smash-world-tour-championships-nintendo-canceled-shutdown-smash-bros-melee-ultimate)<!-- GAME:END -->
+ - [Hands-on with Divine Knockout, the third-person platform fighter smashing onto PlayStation Plus December 6](https://blog.playstation.com/2022/11/30/hands-on-with-divine-knockout-the-third-person-platform-fighter-smashing-onto-playstation-plus-december-6/)
+ - [This New Open-World Dress-Up Game Looks Absolutely Stunning](https://kotaku.com/love-nikki-infinity-nintendo-breath-of-the-wild-pc-ps5-1849836269)
+ - [Two Point Campus is going into space](https://www.pcgamer.com/two-point-campus-is-going-into-space)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
