@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming smartwatch lets you store your earbuds inside it](https://www.androidauthority.com/huawei-watch-buds-3242645/)
- - [Some prominent antifascist organizers and journalists have had Twitter accounts suspended in the past week, after far-right trolls appealed to Musk to ban them &lpar;The Intercept&rpar;](http://www.techmeme.com/221130/p2#a221130p2)
- - [Neuralink &#39;Show and Tell&#39; Brain Chip Update: How To Watch Live     - CNET](https://www.cnet.com/science/neuralink-show-and-tell-brain-chip-update-how-to-watch-live/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [OnePlus now matches Samsung’s Android update pledge, but with a catch](https://www.androidauthority.com/oneplus-update-plan-3241938/)
+ - [OnePlus 10 Pro gets November 2022 patch, plenty of fixes](https://www.androidauthority.com/oneplus-10-update-3148114/)
+ - [&#39;Willow&#39; Review: Disney Plus Reboot Has Fun Updating &#39;80s Fantasy     - CNET](https://www.cnet.com/culture/entertainment/willow-review-disney-plus-reboot-has-fun-updating-80s-fantasy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
