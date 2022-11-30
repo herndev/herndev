@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - ⏩ [Tips on how to succeed in life](http://9gag.com/gag/aoKOL32)
- - 👉 [Ukrainian artillery games](http://9gag.com/gag/aXnvWyD)<!-- MEMES:END -->
+ - 💣 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 👉 [Why?](http://9gag.com/gag/aREjo8j)<!-- MEMES:END -->
 
 ---
 
