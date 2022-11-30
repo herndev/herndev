@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam Deck available in several Asian markets from December 17](https://www.pcgamer.com/steam-deck-available-in-several-asian-markets-from-december-17)
- - [Report highlights underpay and &#39;some level of crunching&#39; at FromSoftware](https://www.pcgamer.com/report-highlights-underpay-and-some-level-of-crunching-at-fromsoftware)
- - [Intel Arc graphics drivers are up 19% in some games one month on but it&#39;s not all good](https://www.pcgamer.com/intel-arc-graphics-drivers-are-up-to-19-in-games-one-month-on-but-its-not-all-good)<!-- GAME:END -->
+ - [Even after 30 hours of suffering through Overwatch League, many are yet to receive their viewership rewards](https://www.pcgamer.com/even-after-30-hours-of-suffering-through-overwatch-league-many-are-yet-to-receive-their-viewership-rewards)
+ - [Darktide review-in-progress: Praise the combat, progression less so](https://www.pcgamer.com/warhammer-40000-darktide-impressions)
+ - [Steam Deck available in several Asian markets from December 17](https://www.pcgamer.com/steam-deck-available-in-several-asian-markets-from-december-17)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
