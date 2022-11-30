@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Midnight Suns characters](https://www.pcgamer.com/best-midnight-suns-characters)
- - [The Complete, Surprising Eight Year History Of LEGO&#39;s Poop Piece](https://kotaku.com/lego-city-toilet-set-poop-piece-6275030-cupcake-top-1849837540)
- - [How to get powerful Paradox Pokémon in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486156/paradox-pokemon-great-tusk-iron-treads-area-zero-where-to-find)<!-- GAME:END -->
+ - [Take a first look at Magic: The Gathering’s reskinned Secret Lair Transformers cards](https://www.polygon.com/23486638/magic-the-gathering-transformers-secret-lair-reveal)
+ - [Warhammer 40,000: Darktide&#39;s launch day patch is a big &#39;un](https://www.pcgamer.com/warhammer-40000-darktide-day-one-patch)
+ - [Anime Fans Still Love Attack On Titan Creator Despite The Series&#39; Ending](https://kotaku.com/attack-on-titan-hajime-iseyama-anime-nyc-manga-ending-1849837900)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
