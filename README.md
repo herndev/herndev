@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The year of 1 trillion streams](https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google)
- - [Google Moves to Block Invasive Spanish Spyware Framework](https://www.wired.com/story/heliconia-spyware-google-tag/)
- - [Nvidia’s new RTX 6000 may bust engineering department budgets at over $7,000](https://www.theverge.com/2022/11/30/23485980/nvidia-rtx-6000-ada-workstation-gpu-pricing-leak)<!-- TECH:END -->
+ - [Salesforce reports Q3 revenue up 14% YoY to $7.84B, vs. $7.82B est., and operating cash flow down 23% YoY to $313M; stock falls 6%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221130/p34#a221130p34)
+ - [Snowflake reports Q3 revenue up 67% YoY to $557M, vs. $539M est., and anticipates Q4 product revenue between $535M and $540M, vs. $553M est.; stock drops 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221130/p33#a221130p33)
+ - [Wednesday’s top tech news: it’s-a-me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
