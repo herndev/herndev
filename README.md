@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This DIY 4090 glass table build sees beauty meet the beast](https://www.pcgamer.com/this-diy-4090-glass-table-build-sees-beauty-meet-the-beast)
  - [Give the gift of disappointment or DIY with Powkiddy consoles](https://www.pcgamer.com/give-the-gift-of-disappointment-or-diy-with-powkiddy-consoles)
- - [Darktide easter eggs for diehard Warhammer fans](https://www.pcgamer.com/darktide-easter-eggs)
- - [Nintendo Shuts Down Smash World Tour, Organizers &#39;Losing Hundreds Of Thousands Of Dollars&#39;](https://kotaku.com/nintendo-smash-world-tour-fgc-shut-down-panda-esports-1849833867)<!-- GAME:END -->
+ - [Darktide easter eggs for diehard Warhammer fans](https://www.pcgamer.com/darktide-easter-eggs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
