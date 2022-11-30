@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
- - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 💣 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - ⏩ [Please promise](http://9gag.com/gag/avQ716M)
+ - 👉 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
 
 ---
 
