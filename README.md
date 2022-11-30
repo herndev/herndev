@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me at Olive garden](http://9gag.com/gag/aGEeB8Z)
- - ⏩ [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
- - 👉 [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)<!-- MEMES:END -->
+ - 💣 [Come on boy](http://9gag.com/gag/abvzv0v)
+ - ⏩ [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - 👉 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
 
 ---
 
