@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Best winter-themed anime to get in the mood for the season](https://www.polygon.com/what-to-watch/23475773/best-anime-to-watch-this-winter-komi-cant-communicate-mushi-shi-a-place-further-than-the-universe)
- - [$100 Marvel Snap Bundle Reminds Me That, Yeah, This Is A Mobile Game](https://kotaku.com/marvel-snap-update-100-new-bundle-tokens-apocalypse-1849837025)
- - [Pokémon Scarlet and Violet players are on the hunt for the awful Dudunsparce](https://www.polygon.com/pokemon/23484011/pokemon-scarlet-and-violet-rare-dudunsparce-three-segment)<!-- GAME:END -->
+ - [The best Midnight Suns characters](https://www.pcgamer.com/best-midnight-suns-characters)
+ - [The Complete, Surprising Eight Year History Of LEGO&#39;s Poop Piece](https://kotaku.com/lego-city-toilet-set-poop-piece-6275030-cupcake-top-1849837540)
+ - [How to get powerful Paradox Pokémon in Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486156/paradox-pokemon-great-tusk-iron-treads-area-zero-where-to-find)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
