@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Castle Panic is a gateway to co-op board games, now it’s even better](https://www.polygon.com/23484664/castle-panic-second-edition-preview-interview-release-date-price)
- - [Hold onto your butts, the Cocaine Bear trailer has arrived](https://www.polygon.com/23486375/cocaine-bear-movie-trailer)
- - [Willow is a triumph in Disney Plus’ lineup of obligatory revivals](https://www.polygon.com/23484237/willow-disney-plus-premiere-review)<!-- GAME:END -->
+ - [Best winter-themed anime to get in the mood for the season](https://www.polygon.com/what-to-watch/23475773/best-anime-to-watch-this-winter-komi-cant-communicate-mushi-shi-a-place-further-than-the-universe)
+ - [$100 Marvel Snap Bundle Reminds Me That, Yeah, This Is A Mobile Game](https://kotaku.com/marvel-snap-update-100-new-bundle-tokens-apocalypse-1849837025)
+ - [Pokémon Scarlet and Violet players are on the hunt for the awful Dudunsparce](https://www.polygon.com/pokemon/23484011/pokemon-scarlet-and-violet-rare-dudunsparce-three-segment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
