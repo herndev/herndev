@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Intel Arc graphics drivers are up 19% in some games one month on but it&#39;s not all good](https://www.pcgamer.com/intel-arc-graphics-drivers-are-up-to-19-in-games-one-month-on-but-its-not-all-good)
- - [The weirdest mobile game series is coming to PC under key Zelda designer](https://www.pcgamer.com/the-weirdest-mobile-game-series-is-coming-to-pc-under-key-zelda-designer)
- - [Microsoft releases bug fix for stuttering game performance in Windows 11 22H2](https://www.pcgamer.com/microsoft-releases-bug-fix-for-stuttering-game-performance-in-windows-11-22h2)<!-- GAME:END -->
+ - [Steam Deck available in several Asian markets from December 17](https://www.pcgamer.com/steam-deck-available-in-several-asian-markets-from-december-17)
+ - [Report highlights underpay and &#39;some level of crunching&#39; at FromSoftware](https://www.pcgamer.com/report-highlights-underpay-and-some-level-of-crunching-at-fromsoftware)
+ - [Intel Arc graphics drivers are up 19% in some games one month on but it&#39;s not all good](https://www.pcgamer.com/intel-arc-graphics-drivers-are-up-to-19-in-games-one-month-on-but-its-not-all-good)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
