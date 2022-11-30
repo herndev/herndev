@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Wednesday, November 30](https://www.pcgamer.com/wordle-529-answer-november-30)
- - [This DIY 4090 glass table build sees beauty meet the beast](https://www.pcgamer.com/this-diy-4090-glass-table-build-sees-beauty-meet-the-beast)
- - [Give the gift of disappointment or DIY with Powkiddy consoles](https://www.pcgamer.com/give-the-gift-of-disappointment-or-diy-with-powkiddy-consoles)<!-- GAME:END -->
+ - [Intel Arc graphics drivers are up 19% in some games one month on but it&#39;s not all good](https://www.pcgamer.com/intel-arc-graphics-drivers-are-up-to-19-in-games-one-month-on-but-its-not-all-good)
+ - [The weirdest mobile game series is coming to PC under key Zelda designer](https://www.pcgamer.com/the-weirdest-mobile-game-series-is-coming-to-pc-under-key-zelda-designer)
+ - [Microsoft releases bug fix for stuttering game performance in Windows 11 22H2](https://www.pcgamer.com/microsoft-releases-bug-fix-for-stuttering-game-performance-in-windows-11-22h2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
