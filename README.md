@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
- - ⏩ [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
+ - 💣 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)
+ - ⏩ [Small things makes a big difference](http://9gag.com/gag/aGEeB07)
+ - 👉 [Got em](http://9gag.com/gag/a8q8mNO)<!-- MEMES:END -->
 
 ---
 
