@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
- - ⏩ [A birthday to remember](http://9gag.com/gag/aDYznYO)
- - 👉 [My food&#39;s food](http://9gag.com/gag/az2qPAm)<!-- MEMES:END -->
+ - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - ⏩ [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
+ - 👉 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)<!-- MEMES:END -->
 
 ---
 
