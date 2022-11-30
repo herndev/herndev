@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV Plus’ Shrinking series starring Jason Segel and Harrison Ford drops in January](https://www.theverge.com/2022/11/30/23486067/apple-tv-plus-shrinking-harrison-ford-jason-segel-premiere-date)
- - [Wondershare FamiSafe is the full parental control suite](https://www.androidauthority.com/wondershare-famisafe-3242456/)
- - [NYC-based Teampay, a low-code service to help enterprises automate software purchasing, raised a $47M Series B, comprising $35.25M equity and $11.75M debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221130/p26#a221130p26)<!-- TECH:END -->
+ - [Apple TV+ &#39;Shrinking&#39; starring Harrison Ford &amp; Jason Segal streams January 27](https://appleinsider.com/articles/22/11/30/apple-tv-shrinking-starring-harrison-ford-jason-segal-streams-january-27?utm_medium=rss)
+ - [Ends tonight: Babbel lifetime language learning subscription $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/22/11/30/ends-tonight-babbel-lifetime-language-learning-subscription-199-300-off?utm_medium=rss)
+ - [Apple&#39;s Twitter ad spend may not have actually dropped](https://appleinsider.com/articles/22/11/30/apples-twitter-ad-spend-may-not-have-actually-dropped?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
