@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Gimme your best Walmart dweller](http://9gag.com/gag/aVbM382)
- - ⏩ [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
- - 👉 [G&lpar;old&rpar;](http://9gag.com/gag/awZQgEQ)<!-- MEMES:END -->
+ - 💣 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
+ - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
+ - 👉 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)<!-- MEMES:END -->
 
 ---
 
