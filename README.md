@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Come on boy](http://9gag.com/gag/abvzv0v)
- - ⏩ [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - 👉 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
+ - 💣 [R.i.P](http://9gag.com/gag/aREjZPy)
+ - ⏩ [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
+ - 👉 [Rotten Apple](http://9gag.com/gag/a4oG5yw)<!-- MEMES:END -->
 
 ---
 
