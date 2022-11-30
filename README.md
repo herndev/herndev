@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Salesforce reports Q3 revenue up 14% YoY to $7.84B, vs. $7.82B est., and operating cash flow down 23% YoY to $313M; stock falls 6%+ after hours &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221130/p34#a221130p34)
- - [Snowflake reports Q3 revenue up 67% YoY to $557M, vs. $539M est., and anticipates Q4 product revenue between $535M and $540M, vs. $553M est.; stock drops 12%+ &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221130/p33#a221130p33)
- - [Wednesday’s top tech news: it’s-a-me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [YouTube has finally stopped crashing on Apple devices, for some](https://www.androidauthority.com/apple-youtube-crash-3243050/)
+ - [San Francisco&#39;s Killer Police Robots Threaten the City&#39;s Most Vulnerable](https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/)
+ - [Warner Bros. Discovery and Amazon are teaming up to produce new animated DC projects](https://www.theverge.com/2022/11/30/23486386/warner-bros-television-studios-amazon-dc-animation-harry-potter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
