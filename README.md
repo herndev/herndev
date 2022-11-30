@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [France24 reporter being assaulted in Jerusalem by Israelis for speaking Arabic.](http://9gag.com/gag/anzjM4z)
- - ⏩ [Small things makes a big difference](http://9gag.com/gag/aGEeB07)
- - 👉 [Got em](http://9gag.com/gag/a8q8mNO)<!-- MEMES:END -->
+ - 💣 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)
+ - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
 
 ---
 
