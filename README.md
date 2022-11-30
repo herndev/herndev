@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
- - ⏩ [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
- - 👉 [Don&#39;t bring a gun to a knife fight.](http://9gag.com/gag/amA26Ed)<!-- MEMES:END -->
+ - 💣 [Me at Olive garden](http://9gag.com/gag/aGEeB8Z)
+ - ⏩ [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
+ - 👉 [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)<!-- MEMES:END -->
 
 ---
 
