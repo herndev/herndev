@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Claris FileMaker Pro &amp; FileMaker Server updated with macOS Ventura compatibility](https://appleinsider.com/articles/22/11/30/claris-filemaker-pro-filemaker-server-updated-with-macos-ventura-compatibility?utm_medium=rss)
- - [SpaceX almost doubles its current Starlink prices in Ukraine](https://www.theverge.com/2022/11/30/23486264/spacex-increases-starlink-prices-ukraine-russia-invasion)
- - [Marvel Snap’s new way to earn cards is live](https://www.theverge.com/2022/11/30/23486276/marvel-snap-collector-tokens-card-shop)<!-- TECH:END -->
+ - [How to buy an iPhone 14 Pro or Pro Max for the holidays](https://www.theverge.com/23485947/how-to-buy-iphone-14-pro-max-holidays-christmas)
+ - [The 12.9-inch M1 and M2 iPad Pros are down to their best prices yet](https://www.theverge.com/2022/11/30/23484012/apple-ipad-pro-m2-2022-amazon-echo-dot-microsoft-surface-pro-8-google-pixel-watch-deal-sale)
+ - [Apple’s latest iOS 16 update includes optimizations for car crash detection](https://www.theverge.com/2022/11/30/23486420/apple-ios-16-1-2-update-optimizations-car-crash-detection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
