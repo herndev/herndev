@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please promise](http://9gag.com/gag/avQ716M)
- - ⏩ [The insane safety standards of Volvos.](http://9gag.com/gag/aVbMYby)
- - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 💣 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
+ - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - 👉 [This title was deleted](http://9gag.com/gag/aA0DyLE)<!-- MEMES:END -->
 
 ---
 
