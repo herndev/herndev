@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Take a first look at Magic: The Gathering’s reskinned Secret Lair Transformers cards](https://www.polygon.com/23486638/magic-the-gathering-transformers-secret-lair-reveal)
- - [Warhammer 40,000: Darktide&#39;s launch day patch is a big &#39;un](https://www.pcgamer.com/warhammer-40000-darktide-day-one-patch)
- - [Anime Fans Still Love Attack On Titan Creator Despite The Series&#39; Ending](https://kotaku.com/attack-on-titan-hajime-iseyama-anime-nyc-manga-ending-1849837900)<!-- GAME:END -->
+ - [Amazon’s Fallout TV series starts a new plot in the same universe as the games](https://www.polygon.com/23486343/fallout-tv-series-amazon-prime-todd-howard-story)
+ - [The Internet Loves Donkey Kong’s Ass In The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-donkey-kong-booty-ass-seth-rogen-1849838557)
+ - [24 Halo Infinite Forge Maps Inspired By The Classic Games](https://kotaku.com/halo-infinite-forge-classic-maps-blood-gulch-1849838429)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
