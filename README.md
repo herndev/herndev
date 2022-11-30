@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - ⏩ [Please promise](http://9gag.com/gag/avQ716M)
- - 👉 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)<!-- MEMES:END -->
+ - 💣 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - ⏩ [Tips on how to succeed in life](http://9gag.com/gag/aoKOL32)
+ - 👉 [Ukrainian artillery games](http://9gag.com/gag/aXnvWyD)<!-- MEMES:END -->
 
 ---
 
