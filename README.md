@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hands-on with Divine Knockout, the third-person platform fighter smashing onto PlayStation Plus December 6](https://blog.playstation.com/2022/11/30/hands-on-with-divine-knockout-the-third-person-platform-fighter-smashing-onto-playstation-plus-december-6/)
- - [This New Open-World Dress-Up Game Looks Absolutely Stunning](https://kotaku.com/love-nikki-infinity-nintendo-breath-of-the-wild-pc-ps5-1849836269)
- - [Two Point Campus is going into space](https://www.pcgamer.com/two-point-campus-is-going-into-space)<!-- GAME:END -->
+ - [Save Soccer!](https://news.xbox.com/en-us/2022/11/30/save-soccer/)
+ - [Warhammer 40K: Darktide is off to a hell of a start](https://www.polygon.com/reviews/23484765/warhammer-40k-darktide-review-release-date-left-4-dead-classes-pc-xbox-series-x)
+ - [Front Mission 1st: Remake Isn’t The Reimaged Mech Shootout I Hoped For](https://kotaku.com/front-mission-1st-remake-review-nintendo-switch-rpg-1849836644)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
