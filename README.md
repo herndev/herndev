@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This upcoming smartwatch lets you store your earbuds inside it](https://www.androidauthority.com/huawei-watch-buds-3242645/)
  - [Some prominent antifascist organizers and journalists have had Twitter accounts suspended in the past week, after far-right trolls appealed to Musk to ban them &lpar;The Intercept&rpar;](http://www.techmeme.com/221130/p2#a221130p2)
- - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)
- - [Free Google One VPN is finally here for Pixel 7 series owners](https://www.androidauthority.com/free-google-one-vpn-pixel-7-3242192/)<!-- TECH:END -->
+ - [Neuralink &#39;Show and Tell&#39; Brain Chip Update: How To Watch Live     - CNET](https://www.cnet.com/science/neuralink-show-and-tell-brain-chip-update-how-to-watch-live/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
