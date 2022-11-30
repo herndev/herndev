@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
- - ⏩ [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
+ - 💣 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - ⏩ [Loving family has room for one more](http://9gag.com/gag/avQ7xZb)
+ - 👉 [The EU will take and use $330 billion of Russian money deposited in EU banks for rebuilding Ukraine](http://9gag.com/gag/aGEeA9X)<!-- MEMES:END -->
 
 ---
 
