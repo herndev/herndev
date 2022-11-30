@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based V7, which offers an API for data annotation and labeling needed for AI training models, raised a $33M Series A led by Radical Ventures and Temasek &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221129/p43#a221129p43)
  - [Coinbase says Coinbase Wallet will no longer support Bitcoin Cash, Ethereum Classic, Ripple XRP, and Stellar due to &quot;low usage&quot;, starting January 2023 &lpar;Mat Di Salvo/Decrypt&rpar;](http://www.techmeme.com/221129/p42#a221129p42)
- - [South Dakota Gov. Kristi Noem signs EO banning TikTok for state agencies, employees, and contractors using state devices over &quot;security threat&quot; posed by China &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221129/p41#a221129p41)
- - [Brazil&#39;s Chamber of Deputies has approved a longstanding crypto bill defining digital assets and their service providers; bill now requires president&#39;s approval &lpar;Kristin Majcher/The Block&rpar;](http://www.techmeme.com/221129/p40#a221129p40)<!-- TECH:END -->
+ - [South Dakota Gov. Kristi Noem signs EO banning TikTok for state agencies, employees, and contractors using state devices over &quot;security threat&quot; posed by China &lpar;Alex Barinka/Bloomberg&rpar;](http://www.techmeme.com/221129/p41#a221129p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
