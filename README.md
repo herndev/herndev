@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Kindle Scribe review: absolutely adequate](https://www.theverge.com/23484927/amazon-kindle-scribe-e-reader-notetaking-pen-review)
- - [SpaceX accused of age discrimination by former employee](https://www.theverge.com/2022/11/30/23484694/spacex-age-discrimination-complaint-former-employee)
- - [Senator attacks Apple&#39;s &#39;unconscionable&#39; Chinese policy, demands answers](https://appleinsider.com/articles/22/11/30/senator-attacks-apples-unconscionable-chinese-policy-demands-answers?utm_medium=rss)<!-- TECH:END -->
+ - [The Apple Watch Action Button’s sole purpose is to do your bidding](https://www.theverge.com/23475900/apple-watch-ultra-action-button-of-the-month)
+ - [Apple TV+ &#39;Shrinking&#39; starring Harrison Ford &amp; Jason Segal streams January 27](https://appleinsider.com/articles/22/11/30/apple-tv-shrinking-starring-harrison-ford-jason-segal-streams-january-27?utm_medium=rss)
+ - [A look at Black American crypto investors, many of whom bought in near the top, as the market declines from its 2021 peak and some lose significant sums &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/221130/p21#a221130p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
