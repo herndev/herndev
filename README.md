@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Pinterest says it is ending the creator rewards program that it launched in 2021, which offered cash bonuses when creators completed certain goals &lpar;Kaya Yurieff/The Information&rpar;](http://www.techmeme.com/221129/p32#a221129p32)
- - [CrowdStrike reports Q3 revenue up 53% YoY to $581M, vs. $574M est., subscription customers up 44% YoY to 21,146; stock drops 17% on weaker-than-expected growth &lpar;Ashley Capoot/CNBC&rpar;](http://www.techmeme.com/221129/p31#a221129p31)
- - [Man discovers why walking in NYC with $95,000 in iPhones is a bad idea](https://www.androidauthority.com/iphone-robbery-nyc-3242476/)<!-- TECH:END -->
+ - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)
+ - [Amazon unveils AWS SimSpace Weaver, a spatial computing service for developers to run real-time city-sized simulations across multiple instances &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/221129/p34#a221129p34)
+ - [Good luck getting a new iPhone 14 Pro before the holidays](https://www.theverge.com/2022/11/29/23484470/apple-iphone-14-pro-production-delay-foxconn-kuo)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
