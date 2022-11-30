@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wednesday’s top tech news: It’s-a me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)
- - [All the Disney Plus Star Wars series ranked from worst to best](https://www.androidauthority.com/disney-plus-star-wars-shows-ranked-3238504/)
- - [Daily Authority: 📱 The big Google Pixel 7a leak](https://www.androidauthority.com/daily-authority-november-30-2022-3242619/)<!-- TECH:END -->
+ - [Emboldened by FTX&#39;s collapse, the disgraced founders of Terra, Celsius, and Three Arrows Capital have reemerged, offering their thoughts on SBF, FTX, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221130/p8#a221130p8)
+ - [Analysis of Apple&#39;s supply chain data shows 44% to 47% of suppliers were China-based between 2014 and 2019, dropping to 41% in 2020 and 36% in 2021 &lpar;Josh Horwitz/Reuters&rpar;](http://www.techmeme.com/221130/p7#a221130p7)
+ - [Interviews detail FTX and SBF&#39;s lavish spending, aided by minimal internal controls, including $300M+ on Bahamas real estate and chartering Amazon deliveries &lpar;Financial Times&rpar;](http://www.techmeme.com/221130/p6#a221130p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
