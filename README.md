@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guess which one is the chinese stream](http://9gag.com/gag/aZDgrnV)
- - ⏩ [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
- - 👉 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)<!-- MEMES:END -->
+ - 💣 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)
+ - ⏩ [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
+ - 👉 [Don&#39;t bring a gun to a knife fight.](http://9gag.com/gag/amA26Ed)<!-- MEMES:END -->
 
 ---
 
