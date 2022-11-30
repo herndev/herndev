@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - ⏩ [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)
- - 👉 [Why hadn\u2019t I ever heard a miniature Italian speak before?!](http://9gag.com/gag/a1PKmo6)<!-- MEMES:END -->
+ - 💣 [Three guys sail from Nigeria to Spain &lpar;11 days &rpar; sitting on the rudder](http://9gag.com/gag/a7qDqVe)
+ - ⏩ [A birthday to remember](http://9gag.com/gag/aDYznYO)
+ - 👉 [My food&#39;s food](http://9gag.com/gag/az2qPAm)<!-- MEMES:END -->
 
 ---
 
