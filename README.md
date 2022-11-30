@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - 💣 [Big &amp; Little](http://9gag.com/gag/amA2BgX)
  - ⏩ [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - 👉 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)<!-- MEMES:END -->
+ - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
 
 ---
 
