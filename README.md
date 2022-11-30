@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Shuts Down Smash World Tour, Organizers &#39;Losing Hundreds Of Thousands Of Dollars&#39;](https://kotaku.com/nintendo-smash-world-tour-fgc-shut-down-panda-esports-1849833867)
- - [Leak: Mass Effect, Biomutant, More Coming To PlayStation Plus](https://kotaku.com/playstation-plus-mass-effect-legendary-biomutant-leaks-1847556405)
- - [A new &#39;rogue-looter shooter&#39; about the machine betrayal of humanity is going into open beta soon](https://www.pcgamer.com/a-new-rogue-looter-shooter-about-the-machine-betrayal-of-humanity-is-going-into-open-beta-soon)<!-- GAME:END -->
+ - [Give the gift of disappointment or DIY with Powkiddy consoles](https://www.pcgamer.com/give-the-gift-of-disappointment-or-diy-with-powkiddy-consoles)
+ - [Darktide easter eggs for diehard Warhammer fans](https://www.pcgamer.com/darktide-easter-eggs)
+ - [Nintendo Shuts Down Smash World Tour, Organizers &#39;Losing Hundreds Of Thousands Of Dollars&#39;](https://kotaku.com/nintendo-smash-world-tour-fgc-shut-down-panda-esports-1849833867)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
