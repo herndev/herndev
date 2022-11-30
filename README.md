@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft: Dragonflight&#39;s first max level players rode its OP crafting system over the finish line](https://www.pcgamer.com/world-of-warcraft-dragonflights-first-max-level-players-rode-its-op-crafting-system-over-the-finish-line)
- - [Does the redesigned Donkey Kong smoke weed?](https://www.polygon.com/23484974/mario-movie-donkey-kong-smoke-weed)
- - [Relax and unwind with this stress-free city builder sandbox](https://www.pcgamer.com/relax-and-unwind-with-this-stress-free-city-builder-sandbox)<!-- GAME:END -->
+ - [Leak: Mass Effect, Biomutant, More Coming To PlayStation Plus](https://kotaku.com/playstation-plus-mass-effect-legendary-biomutant-leaks-1847556405)
+ - [A new &#39;rogue-looter shooter&#39; about the machine betrayal of humanity is going into open beta soon](https://www.pcgamer.com/a-new-rogue-looter-shooter-about-the-machine-betrayal-of-humanity-is-going-into-open-beta-soon)
+ - [New weird Far Cry expansion alert: This one is about interdimensional aliens](https://www.pcgamer.com/new-weird-far-cry-expansion-alert-this-one-is-about-interdimensional-aliens)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
