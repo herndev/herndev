@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to buy an iPhone 14 Pro or Pro Max for the holidays](https://www.theverge.com/23485947/how-to-buy-iphone-14-pro-max-holidays-christmas)
- - [The 12.9-inch M1 and M2 iPad Pros are down to their best prices yet](https://www.theverge.com/2022/11/30/23484012/apple-ipad-pro-m2-2022-amazon-echo-dot-microsoft-surface-pro-8-google-pixel-watch-deal-sale)
- - [Apple’s latest iOS 16 update includes optimizations for car crash detection](https://www.theverge.com/2022/11/30/23486420/apple-ios-16-1-2-update-optimizations-car-crash-detection)<!-- TECH:END -->
+ - [The year of 1 trillion streams](https://www.theverge.com/2022/11/29/23484646/music-streaming-trillion-spotify-apple-youtube-google)
+ - [Google Moves to Block Invasive Spanish Spyware Framework](https://www.wired.com/story/heliconia-spyware-google-tag/)
+ - [Nvidia’s new RTX 6000 may bust engineering department budgets at over $7,000](https://www.theverge.com/2022/11/30/23485980/nvidia-rtx-6000-ada-workstation-gpu-pricing-leak)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
