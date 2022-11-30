@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
- - ⏩ [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)
- - 👉 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)<!-- MEMES:END -->
+ - 💣 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
+ - ⏩ [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
+ - 👉 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)<!-- MEMES:END -->
 
 ---
 
