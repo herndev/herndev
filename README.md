@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Save Soccer!](https://news.xbox.com/en-us/2022/11/30/save-soccer/)
- - [Warhammer 40K: Darktide is off to a hell of a start](https://www.polygon.com/reviews/23484765/warhammer-40k-darktide-review-release-date-left-4-dead-classes-pc-xbox-series-x)
- - [Front Mission 1st: Remake Isn’t The Reimaged Mech Shootout I Hoped For](https://kotaku.com/front-mission-1st-remake-review-nintendo-switch-rpg-1849836644)<!-- GAME:END -->
+ - [Castle Panic is a gateway to co-op board games, now it’s even better](https://www.polygon.com/23484664/castle-panic-second-edition-preview-interview-release-date-price)
+ - [Hold onto your butts, the Cocaine Bear trailer has arrived](https://www.polygon.com/23486375/cocaine-bear-movie-trailer)
+ - [Willow is a triumph in Disney Plus’ lineup of obligatory revivals](https://www.polygon.com/23484237/willow-disney-plus-premiere-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
