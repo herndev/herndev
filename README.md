@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strange World’s disastrous debut and the Treasure Planet curse](https://www.polygon.com/23484642/strange-world-disney-box-office-failure-treasure-planet-atlantis)
- - [Marvel&#39;s Midnight Suns review](https://www.pcgamer.com/marvels-midnight-suns-review)
- - [Marvel’s Midnight Suns isn’t just XCOM with superheroes &lpar;and that’s a great thing&rpar;](https://www.polygon.com/reviews/23484477/marvels-midnight-suns-review-release-date-characters-pc-ps5-xbox-series-x)<!-- GAME:END -->
+ - [Your PlayStation Stars update for December 2022](https://blog.playstation.com/2022/11/30/your-playstation-stars-update-for-december-2022/)
+ - [GTA creator says no, sorry, it didn&#39;t start as a dinosaur game](https://www.pcgamer.com/gta-creator-says-no-sorry-it-didnt-start-as-a-dinosaur-game)
+ - [Smash World Tour organizers blame Nintendo for championship’s sudden shutdown](https://www.polygon.com/23485876/smash-world-tour-championships-nintendo-canceled-shutdown-smash-bros-melee-ultimate)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
