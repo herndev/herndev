@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shanghai subway, police checking everyone&#39;s cell phone for `illegal apps`](http://9gag.com/gag/a3ZMZmN)
- - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - 👉 [This title was deleted](http://9gag.com/gag/aA0DyLE)<!-- MEMES:END -->
+ - 💣 [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
+ - ⏩ [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
+ - 👉 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
 
 ---
 
