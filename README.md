@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Shrinking&#39; starring Harrison Ford &amp; Jason Segal streams January 27](https://appleinsider.com/articles/22/11/30/apple-tv-shrinking-starring-harrison-ford-jason-segal-streams-january-27?utm_medium=rss)
- - [Ends tonight: Babbel lifetime language learning subscription $199 &lpar;$300 off&rpar;](https://appleinsider.com/articles/22/11/30/ends-tonight-babbel-lifetime-language-learning-subscription-199-300-off?utm_medium=rss)
- - [Apple&#39;s Twitter ad spend may not have actually dropped](https://appleinsider.com/articles/22/11/30/apples-twitter-ad-spend-may-not-have-actually-dropped?utm_medium=rss)<!-- TECH:END -->
+ - [Claris FileMaker Pro &amp; FileMaker Server updated with macOS Ventura compatibility](https://appleinsider.com/articles/22/11/30/claris-filemaker-pro-filemaker-server-updated-with-macos-ventura-compatibility?utm_medium=rss)
+ - [SpaceX almost doubles its current Starlink prices in Ukraine](https://www.theverge.com/2022/11/30/23486264/spacex-increases-starlink-prices-ukraine-russia-invasion)
+ - [Marvel Snap’s new way to earn cards is live](https://www.theverge.com/2022/11/30/23486276/marvel-snap-collector-tokens-card-shop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
