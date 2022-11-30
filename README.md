@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Apple Watch Action Button’s sole purpose is to do your bidding](https://www.theverge.com/23475900/apple-watch-ultra-action-button-of-the-month)
- - [Apple TV+ &#39;Shrinking&#39; starring Harrison Ford &amp; Jason Segal streams January 27](https://appleinsider.com/articles/22/11/30/apple-tv-shrinking-starring-harrison-ford-jason-segal-streams-january-27?utm_medium=rss)
- - [A look at Black American crypto investors, many of whom bought in near the top, as the market declines from its 2021 peak and some lose significant sums &lpar;Annie Lowrey/The Atlantic&rpar;](http://www.techmeme.com/221130/p21#a221130p21)<!-- TECH:END -->
+ - [Feeling the inflation crunch? This carrier locks you into a rate for 5 years.](https://www.androidauthority.com/visible-rate-lock-3242831/)
+ - [Amazon&#39;s Black Friday $1,599 MacBook Pro 14-inch deal is back](https://appleinsider.com/articles/22/11/30/amazons-black-friday-1599-macbook-pro-14-inch-deal-is-back?utm_medium=rss)
+ - [Honda is the latest automaker to bring hands-free highway driving tech to the US](https://www.theverge.com/2022/11/30/23485989/honda-sensing-360-adas-hands-free-driver-assist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
