@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus now matches Samsung’s Android update pledge, but with a catch](https://www.androidauthority.com/oneplus-update-plan-3241938/)
- - [OnePlus 10 Pro gets November 2022 patch, plenty of fixes](https://www.androidauthority.com/oneplus-10-update-3148114/)
- - [&#39;Willow&#39; Review: Disney Plus Reboot Has Fun Updating &#39;80s Fantasy     - CNET](https://www.cnet.com/culture/entertainment/willow-review-disney-plus-reboot-has-fun-updating-80s-fantasy/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Wednesday’s top tech news: It’s-a me, another Mario trailer](https://www.theverge.com/2022/11/30/23485711/november-30-2022-tech-news-liveblog)
+ - [All the Disney Plus Star Wars series ranked from worst to best](https://www.androidauthority.com/disney-plus-star-wars-shows-ranked-3238504/)
+ - [Daily Authority: 📱 The big Google Pixel 7a leak](https://www.androidauthority.com/daily-authority-november-30-2022-3242619/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
