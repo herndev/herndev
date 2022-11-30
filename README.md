@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Internal messages show Twitter&#39;s EMEA ad revenue dropped 15% YoY, weekly bookings are down 49%; source: Blue is delayed as Twitter seeks to skirt App Store fees &lpar;Platformer&rpar;](http://www.techmeme.com/221129/p38#a221129p38)
  - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)
- - [Amazon unveils AWS SimSpace Weaver, a spatial computing service for developers to run real-time city-sized simulations across multiple instances &lpar;Brian Heater/TechCrunch&rpar;](http://www.techmeme.com/221129/p34#a221129p34)
- - [Good luck getting a new iPhone 14 Pro before the holidays](https://www.theverge.com/2022/11/29/23484470/apple-iphone-14-pro-production-delay-foxconn-kuo)<!-- TECH:END -->
+ - [SBF says it was intended for Alameda to roll over at least $20M of its Twitter stake into Musk&#39;s privately held Twitter, but doesn&#39;t know if that happened &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/221129/p37#a221129p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
