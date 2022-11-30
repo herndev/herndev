@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Bose CEO Lila Snyder on the brand and its history, running a private company, building software, Bluetooth, competing with Apple and Google, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221130/p1#a221130p1)
- - [The Absolute Best Horror Movies on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-movies-on-amazon-prime-video/#ftag=CAD590a51e)
- - [Mauna Loa Volcano Eruption: Satellites Capture Striking Views From Space     - CNET](https://www.cnet.com/science/space/mauna-loa-volcano-eruption-satellites-capture-striking-views-from-space/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some prominent antifascist organizers and journalists have had Twitter accounts suspended in the past week, after far-right trolls appealed to Musk to ban them &lpar;The Intercept&rpar;](http://www.techmeme.com/221130/p2#a221130p2)
+ - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)
+ - [Free Google One VPN is finally here for Pixel 7 series owners](https://www.androidauthority.com/free-google-one-vpn-pixel-7-3242192/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
