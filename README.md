@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Wednesday, November 30](https://www.pcgamer.com/wordle-529-answer-november-30)
  - [This DIY 4090 glass table build sees beauty meet the beast](https://www.pcgamer.com/this-diy-4090-glass-table-build-sees-beauty-meet-the-beast)
- - [Give the gift of disappointment or DIY with Powkiddy consoles](https://www.pcgamer.com/give-the-gift-of-disappointment-or-diy-with-powkiddy-consoles)
- - [Darktide easter eggs for diehard Warhammer fans](https://www.pcgamer.com/darktide-easter-eggs)<!-- GAME:END -->
+ - [Give the gift of disappointment or DIY with Powkiddy consoles](https://www.pcgamer.com/give-the-gift-of-disappointment-or-diy-with-powkiddy-consoles)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
