@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cleaning up a beach by extracting small plastics from sand](http://9gag.com/gag/abvzegb)
- - ⏩ [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
- - 👉 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
+ - 💣 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
+ - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 👉 [You can still play minesweeper without computer](http://9gag.com/gag/aGEegGw)<!-- MEMES:END -->
 
 ---
 
