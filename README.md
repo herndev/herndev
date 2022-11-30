@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Feeling the inflation crunch? This carrier locks you into a rate for 5 years.](https://www.androidauthority.com/visible-rate-lock-3242831/)
- - [Amazon&#39;s Black Friday $1,599 MacBook Pro 14-inch deal is back](https://appleinsider.com/articles/22/11/30/amazons-black-friday-1599-macbook-pro-14-inch-deal-is-back?utm_medium=rss)
- - [Honda is the latest automaker to bring hands-free highway driving tech to the US](https://www.theverge.com/2022/11/30/23485989/honda-sensing-360-adas-hands-free-driver-assist)<!-- TECH:END -->
+ - [Apple TV Plus’ Shrinking series starring Jason Segel and Harrison Ford drops in January](https://www.theverge.com/2022/11/30/23486067/apple-tv-plus-shrinking-harrison-ford-jason-segel-premiere-date)
+ - [Wondershare FamiSafe is the full parental control suite](https://www.androidauthority.com/wondershare-famisafe-3242456/)
+ - [NYC-based Teampay, a low-code service to help enterprises automate software purchasing, raised a $47M Series B, comprising $35.25M equity and $11.75M debt &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221130/p26#a221130p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
