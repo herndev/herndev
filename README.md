@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - ⏩ [That&#39;s smile. That damned smile.](http://9gag.com/gag/aEqBxKx)
- - 👉 [Bully took kids phone and get justified from kids older brother.](http://9gag.com/gag/aqe1gwv)<!-- MEMES:END -->
+ - 💣 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - ⏩ [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)
+ - 👉 [Why hadn\u2019t I ever heard a miniature Italian speak before?!](http://9gag.com/gag/a1PKmo6)<!-- MEMES:END -->
 
 ---
 
