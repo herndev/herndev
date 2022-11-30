@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [USA and Iranian Football Players Embracing Each Other After Game](http://9gag.com/gag/aOxB4VM)
- - ⏩ [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
+ - 💣 [Please promise](http://9gag.com/gag/avQ716M)
+ - ⏩ [The insane safety standards of Volvos.](http://9gag.com/gag/aVbMYby)
+ - 👉 [`I will f**k the first who moves`](http://9gag.com/gag/a7qDWQ2)<!-- MEMES:END -->
 
 ---
 
