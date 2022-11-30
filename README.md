@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal messages show Twitter&#39;s EMEA ad revenue dropped 15% YoY, weekly bookings are down 49%; source: Blue is delayed as Twitter seeks to skirt App Store fees &lpar;Platformer&rpar;](http://www.techmeme.com/221129/p38#a221129p38)
- - [Lowest price ever: Apple MacBook Pro 16-inch $1,989, plus $80 off AppleCare](https://appleinsider.com/articles/22/11/30/lowest-price-ever-apple-macbook-pro-16-inch-1989-plus-80-off-applecare?utm_medium=rss)
- - [SBF says it was intended for Alameda to roll over at least $20M of its Twitter stake into Musk&#39;s privately held Twitter, but doesn&#39;t know if that happened &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/221129/p37#a221129p37)<!-- TECH:END -->
+ - [Brazil&#39;s Chamber of Deputies has approved a longstanding crypto bill defining digital assets and their service providers; bill now requires president&#39;s approval &lpar;Kristin Majcher/The Block&rpar;](http://www.techmeme.com/221129/p40#a221129p40)
+ - [Filing: Disney now owns 100% of streaming tech company BAMTech after paying $900M for MLB&#39;s 15% stake in November 2022; Disney acquired a majority stake in 2017 &lpar;Alex Weprin/The Hollywood Reporter&rpar;](http://www.techmeme.com/221129/p39#a221129p39)
+ - [Elon Musk is delaying Twitter’s paid verification to avoid Apple’s 30 percent cut](https://www.theverge.com/2022/11/29/23485300/elon-musk-twitter-blue-avoid-in-app-fee-ios)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
