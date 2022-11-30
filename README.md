@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Emboldened by FTX&#39;s collapse, the disgraced founders of Terra, Celsius, and Three Arrows Capital have reemerged, offering their thoughts on SBF, FTX, and more &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221130/p8#a221130p8)
- - [Analysis of Apple&#39;s supply chain data shows 44% to 47% of suppliers were China-based between 2014 and 2019, dropping to 41% in 2020 and 36% in 2021 &lpar;Josh Horwitz/Reuters&rpar;](http://www.techmeme.com/221130/p7#a221130p7)
- - [Interviews detail FTX and SBF&#39;s lavish spending, aided by minimal internal controls, including $300M+ on Bahamas real estate and chartering Amazon deliveries &lpar;Financial Times&rpar;](http://www.techmeme.com/221130/p6#a221130p6)<!-- TECH:END -->
+ - [Apple Store crash victims sue Apple over &#39;100% preventable&#39; crash](https://appleinsider.com/articles/22/11/30/apple-store-crash-victims-sue-apple-over-100-preventable-crash?utm_medium=rss)
+ - [A look at China&#39;s growing interest in the open-source Risc-V chip architecture after US sanctions, including enlisting Alibaba and Tencent to help design chips &lpar;Financial Times&rpar;](http://www.techmeme.com/221130/p11#a221130p11)
+ - [Gamers Are Fleeing Twitter for Hive. Can It Handle the Swarm?](https://www.wired.com/story/gamers-leave-twitter-for-hive-security/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
