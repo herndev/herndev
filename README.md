@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Even after 30 hours of suffering through Overwatch League, many are yet to receive their viewership rewards](https://www.pcgamer.com/even-after-30-hours-of-suffering-through-overwatch-league-many-are-yet-to-receive-their-viewership-rewards)
- - [Darktide review-in-progress: Praise the combat, progression less so](https://www.pcgamer.com/warhammer-40000-darktide-impressions)
- - [Steam Deck available in several Asian markets from December 17](https://www.pcgamer.com/steam-deck-available-in-several-asian-markets-from-december-17)<!-- GAME:END -->
+ - [Strange World’s disastrous debut and the Treasure Planet curse](https://www.polygon.com/23484642/strange-world-disney-box-office-failure-treasure-planet-atlantis)
+ - [Marvel&#39;s Midnight Suns review](https://www.pcgamer.com/marvels-midnight-suns-review)
+ - [Marvel’s Midnight Suns isn’t just XCOM with superheroes &lpar;and that’s a great thing&rpar;](https://www.polygon.com/reviews/23484477/marvels-midnight-suns-review-release-date-characters-pc-ps5-xbox-series-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
