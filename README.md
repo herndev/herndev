@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Battlefield 2042, Batora: Lost Haven, and Rainbow Six Siege](https://news.xbox.com/en-us/2022/12/01/free-play-days-battlefield-2042-batora-lost-haven-and-rainbow-six-siege/)
- - [How to earn resources in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-credits-essences-intel-caches-gloss)
- - [Xbox Game Pass Gets Lego Star Wars: The Skywalker Saga Just In Time For The Holidays](https://kotaku.com/lego-star-wars-skywalker-saga-xbox-game-pass-1849840682)<!-- GAME:END -->
+ - [Pokémon Scarlet and Violet’s 6-star raids have some of the toughest fights in the game](https://www.polygon.com/pokemon-scarlet-violet-guide/23486355/unlock-6-star-raids-tera-type-rewards-herba-mystica)
+ - [Pokémon Scarlet and Violet’s tech problems may soon get a solution from Nintendo](https://www.polygon.com/pokemon/23487920/pokemon-scarlet-and-violet-tech-problems-performance-issues-patch-notes)
+ - [The Biggest Game Delays Of 2022](https://kotaku.com/game-releases-delays-2023-botw2-starfield-suicide-squad-1849840981)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
