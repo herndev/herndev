@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says he met with Tim Cook at Apple&#39;s HQ on Wednesday, and that Cook was clear that Apple &quot;never considered&quot; removing Twitter from the App Store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221130/p40#a221130p40)
- - [LastPass says attackers accessed customers&#39; data after breaching its cloud storage using information stolen during a security incident in August 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221130/p39#a221130p39)
+ - [OpenAI releases a demo of ChatGPT, a chatbot version of GPT-3 that answers follow-up questions, admits its mistakes, challenges incorrect premises, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221130/p43#a221130p43)
+ - [Mozilla&#39;s Firefox and Microsoft&#39;s Edge plan to stop trusting new certificates from TrustCor, after a report revealed TrustCor&#39;s ties to a US defense contractor &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/221130/p42#a221130p42)
  - [Skiers triggering false Crash Detection alerts on iPhone 14, Apple Watch](https://appleinsider.com/articles/22/12/01/skiers-triggering-false-crash-detection-alerts-on-iphone-14-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
