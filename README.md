@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pelicans try to eat everything](http://9gag.com/gag/anzjGLz)
- - ⏩ [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
- - 👉 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
+ - 💣 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
+ - ⏩ [Greatest of All Time](http://9gag.com/gag/anzjGpz)
+ - 👉 [Kings](http://9gag.com/gag/ap9QVV5)<!-- MEMES:END -->
 
 ---
 
