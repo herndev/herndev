@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Google’s moddable Doodle honors ‘the father of the video game cartridge’](https://www.polygon.com/23487868/google-doodle-jerry-lawson-cartridge-video-games-mods-tribute)
- - [Coming to Xbox Game Pass: LEGO Star Wars: The Skywalker Saga, High on Life, Hello Neighbor 2, and More](https://news.xbox.com/en-us/2022/12/01/game-pass-december-2022-wave-1-announce/)
- - [Nintendo Finally Acknowledges The Buggy Mess Of Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-bugs-performance-nintendo-switch-1849840208)<!-- GAME:END -->
+ - [Free Play Days – Battlefield 2042, Batora: Lost Haven, and Rainbow Six Siege](https://news.xbox.com/en-us/2022/12/01/free-play-days-battlefield-2042-batora-lost-haven-and-rainbow-six-siege/)
+ - [How to earn resources in Marvel&#39;s Midnight Suns](https://www.pcgamer.com/marvels-midnight-suns-credits-essences-intel-caches-gloss)
+ - [Xbox Game Pass Gets Lego Star Wars: The Skywalker Saga Just In Time For The Holidays](https://kotaku.com/lego-star-wars-skywalker-saga-xbox-game-pass-1849840682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
