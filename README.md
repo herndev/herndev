@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Thursday, December 1](https://www.pcgamer.com/wordle-530-answer-december-1)
- - [Taiwan&#39;s semiconductor industry set to suffer after US/China trade disputes](https://www.pcgamer.com/taiwans-semiconductor-industry-set-to-suffer-after-uschina-trade-disputes)
- - [Today&#39;s Google Doodle is a game that lets you make your own games](https://www.pcgamer.com/todays-google-doodle-is-a-game-that-lets-you-make-your-own-games)<!-- GAME:END -->
+ - [Street Fighter 6 is back for another beta, but don&#39;t expect to buy your way in this time](https://www.pcgamer.com/street-fighter-6-is-back-for-another-beta-but-dont-expect-to-buy-your-way-in-this-time)
+ - [The PC&#39;s most hardcore city-builder just got even harder](https://www.pcgamer.com/the-pcs-most-hardcore-city-builder-just-got-even-harder)
+ - [Valve is giving away a Steam Deck every minute of the Game Awards but sign-ups are causing trouble](https://www.pcgamer.com/steam-deck-giveaway-register)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
