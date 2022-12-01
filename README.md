@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Discord renames Premium Memberships to Server Subscriptions and makes them available for all US creators; Discord will take a 10% cut of subscriptions &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/221201/p25#a221201p25)
- - [How to block a phone number on Android](https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung)
- - [iFixit calls the 10.9-inch iPad an iPad Air, but worse](https://appleinsider.com/articles/22/12/01/ifixit-calls-the-109-inch-ipad-an-ipad-air-but-worse?utm_medium=rss)<!-- TECH:END -->
+ - [Coinbase says Apple forced it to remove NFT transfers from its iOS wallet](https://www.theverge.com/2022/12/1/23488448/coinbase-ios-wallet-app-apple-nft-fees-in-app-purchase-store)
+ - [Epic’s free app that turns real-life items into 3D models is available now on iOS](https://www.theverge.com/2022/12/1/23488421/epic-games-realityscan-ios-app-scan-objects-3d-models)
+ - [Sources: Apple is ramping up work on a mixed-reality headset to be introduced as early as next year and has renamed the headset&#39;s OS from realityOS to xrOS &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221201/p26#a221201p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
