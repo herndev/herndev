@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
- - ⏩ [Greatest of All Time](http://9gag.com/gag/anzjGpz)
- - 👉 [Kings](http://9gag.com/gag/ap9QVV5)<!-- MEMES:END -->
+ - 💣 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - ⏩ [It\u2019s happening. Repost.](http://9gag.com/gag/aL18rBW)
+ - 👉 [A wild Hitmonchan appeared](http://9gag.com/gag/aeQeWLq)<!-- MEMES:END -->
 
 ---
 
