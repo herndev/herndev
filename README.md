@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This upcoming smartwatch lets you store your earbuds inside &lpar;Updated: Delayed&rpar;](https://www.androidauthority.com/huawei-watch-buds-3242645/)
- - [iPhone 15 Ultra: What it may look like, and what to expect in 2023](https://appleinsider.com/articles/22/11/29/iphone-15-ultra-what-it-looks-like-and-what-to-expect-in-2023?utm_medium=rss)
- - [ICA Miami and other museums continue to collect and display NFTs even as the market sinks, arguing digital art has a long history and valuations are unimportant &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/221201/p1#a221201p1)<!-- TECH:END -->
+ - [Daily Authority: 🧠 Neuralink’s latest show and tell](https://www.androidauthority.com/daily-authority-december-1-2022-3242673/)
+ - [Sources: TSMC will make advanced 4nm chips when its ~$12B Arizona plant opens in 2024, an upgrade to prior 5nm claims, at the urging of Apple, AMD, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p3#a221201p3)
+ - [Sources: Amazon begins layoffs with its Alexa, Kindle, and Halo hardware teams as part of the planned ~10K cuts, while investors anticipate broader downsizing &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221201/p2#a221201p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
