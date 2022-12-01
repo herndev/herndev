@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Twitter users in China have been circumventing the nation&#39;s Great Firewall and fighting spam to get footage of protests out to the rest of the world &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221130/p45#a221130p45)
- - [How to charge your Google Pixel Watch](https://www.androidauthority.com/how-to-charge-your-google-pixel-watch-3239339/)
- - [Twitter says it&#39;s expanding recommended tweets to all users, including those who may not have seen them in the past &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/221130/p44#a221130p44)<!-- TECH:END -->
+ - [Paramount Plus deal has been extended, save 50% on the annual plan](https://appleinsider.com/articles/22/12/01/paramount-plus-deal-has-been-extended-save-50-on-the-annual-plan?utm_medium=rss)
+ - [Valve will give away a free Steam Deck every minute during The Game Awards](https://www.theverge.com/2022/11/30/23487431/steam-deck-giveaway-free-game-awards-2022)
+ - [How Twitter users in China have been circumventing the nation&#39;s Great Firewall and fighting spam to get footage of protests out to the rest of the world &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221130/p45#a221130p45)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
