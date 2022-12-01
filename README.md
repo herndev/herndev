@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s trying to prove it’s serious about Wear OS 3 with holiday updates](https://www.theverge.com/2022/12/1/23487832/google-keep-wear-os-3-pixel-watch)
- - [Android is introducing an accessible reading mode and digital car key sharing](https://www.theverge.com/2022/12/1/23487812/android-update-accessibility-reading-mode-key-sharing)
- - [Summer Game Fest 2023 kicks off just a few days before E3](https://www.theverge.com/2022/12/1/23487165/summer-game-fest-2023-kickoff-show-geoff-keighley-e3)<!-- TECH:END -->
+ - [New Amnesia game offers ‘semi-open world’ gameplay and a gun](https://www.theverge.com/2022/12/1/23486454/new-amnesia-game-the-bunker-xbox-playstation-pc)
+ - [RDNA 2 quietly arrives in budget laptops](https://www.theverge.com/2022/12/1/23488036/amd-ryzen-7000-rdna2-lenovo-ideapad-1-pricing-release)
+ - [Thursday’s top tech news: December is here, and there are security lapses under the tree](https://www.theverge.com/2022/12/1/23487684/december-1-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
