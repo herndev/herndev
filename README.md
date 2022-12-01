@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Scarlet and Violet’s 6-star raids have some of the toughest fights in the game](https://www.polygon.com/pokemon-scarlet-violet-guide/23486355/unlock-6-star-raids-tera-type-rewards-herba-mystica)
- - [Pokémon Scarlet and Violet’s tech problems may soon get a solution from Nintendo](https://www.polygon.com/pokemon/23487920/pokemon-scarlet-and-violet-tech-problems-performance-issues-patch-notes)
- - [The Biggest Game Delays Of 2022](https://kotaku.com/game-releases-delays-2023-botw2-starfield-suicide-squad-1849840981)<!-- GAME:END -->
+ - [Amnesia: The Bunker gives the player a gun — but at what cost?](https://www.polygon.com/23486512/amnesia-the-bunker-announcement-trailer-protagonist-setting-weapon)
+ - [Indies highlights coming to PS4 &amp; PS5 in December 2022](https://blog.playstation.com/2022/12/01/indies-highlights-coming-to-ps4-ps5-in-december-2022/)
+ - [Think You’ve Played The Game of Life? Think Again](https://news.xbox.com/en-us/2022/12/01/think-youve-played-the-game-of-life-think-again/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
