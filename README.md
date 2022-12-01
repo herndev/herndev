@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Stores worldwide turn &lpar;RED&rpar; for World AIDS Day](https://appleinsider.com/articles/22/12/01/apple-stores-worldwide-turn-red-for-world-aids-day?utm_medium=rss)
  - [Daily Authority: 🧠 Neuralink’s latest show and tell](https://www.androidauthority.com/daily-authority-december-1-2022-3242673/)
- - [Sources: TSMC will make advanced 4nm chips when its ~$12B Arizona plant opens in 2024, an upgrade to prior 5nm claims, at the urging of Apple, AMD, and others &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p3#a221201p3)
- - [Sources: Amazon begins layoffs with its Alexa, Kindle, and Halo hardware teams as part of the planned ~10K cuts, while investors anticipate broader downsizing &lpar;Dave Lee/Financial Times&rpar;](http://www.techmeme.com/221201/p2#a221201p2)<!-- TECH:END -->
+ - [The Best Heating Pads, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
