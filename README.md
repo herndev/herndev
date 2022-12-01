@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
- - ⏩ [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)
- - 👉 [R.i.P](http://9gag.com/gag/aREjZPy)<!-- MEMES:END -->
+ - 💣 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - ⏩ [When you skip some thermodynamics class](http://9gag.com/gag/amA2nDX)
+ - 👉 [Will Smith&#39;s family looking like a rogues&#39; gallery of Batman villains](http://9gag.com/gag/az2qQnx)<!-- MEMES:END -->
 
 ---
 
