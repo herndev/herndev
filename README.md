@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This oppressively dark Soviet FPS now features a simply adorable little model train set](https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set)
- - [Path Of Exile&#39;s December expansion brings a bite-sized roguelike and a brutal new difficulty mode](https://www.pcgamer.com/path-of-exiles-december-expansion-brings-a-bite-sized-roguelike-and-a-brutal-new-difficulty-mode)
- - [Oh Hey, That New Anime Need For Speed Game Is Very Good](https://kotaku.com/need-for-speed-unbound-review-anime-forza-gran-turismo-1849842594)<!-- GAME:END -->
+ - [Let’s yell about the so-called 100 greatest movies of all time](https://www.polygon.com/23488438/sight-and-sound-top-100-movies-of-all-time-list-is-wrong)
+ - [Show us your Warhammer 40K: Darktide characters](https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters)
+ - [It’s hard for Gossip Girl’s throuples to thrive in a Riverdale world](https://www.polygon.com/23488497/gossip-girl-season-2-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
