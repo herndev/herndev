@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 fitness and wellness gift guide](https://www.theverge.com/23458554/fitness-health-holiday-gift-guide-2022-trackers-smartwatches-fitbit-earbuds-tech)
- - [Tether&#39;s reports show increasing loans denominated and payable in its own stablecoin, reaching $6.1B as of September 30, a potential risk in a crisis &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/221201/p16#a221201p16)
- - [Safely clean your AirPods with Belkin&#39;s new cleaning kit](https://appleinsider.com/articles/22/12/01/safely-clean-your-airpods-with-belkins-new-cleaning-kit?utm_medium=rss)<!-- TECH:END -->
+ - [The $70 Echo Show 8 comes with a free Echo Show 5 at Amazon](https://www.theverge.com/2022/12/1/23486728/amazon-echo-show-bundle-disney-plus-jabra-earbuds-anker-charging-deal-sale)
+ - [Popular $29.99 Microsoft Office for Mac Home &amp; Business 2021 deal returns](https://appleinsider.com/articles/22/12/01/popular-2999-microsoft-office-for-mac-home-business-2021-deal-returns?utm_medium=rss)
+ - [The Big Problem With Spotify Wrapped](https://www.wired.com/story/spotify-wrapped-user-data/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
