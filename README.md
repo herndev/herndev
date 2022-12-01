@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A23 5G Review: Annoyingly Laggy](https://www.wired.com/review/samsung-galaxy-a23-5g/)
- - [Now 1Password remembers sites that use third-party accounts like Google or Facebook to log in](https://www.theverge.com/2022/12/1/23486783/1password-sign-in-passwordless-feature-google-apple-facebook)
- - [Japanese fashion house Wacko Maria reveals new Beats Flex collaboration](https://appleinsider.com/articles/22/12/01/japanese-fashion-house-wacko-maria-reveals-new-beats-flex-collaboration?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2022 fitness and wellness gift guide](https://www.theverge.com/23458554/fitness-health-holiday-gift-guide-2022-trackers-smartwatches-fitbit-earbuds-tech)
+ - [Tether&#39;s reports show increasing loans denominated and payable in its own stablecoin, reaching $6.1B as of September 30, a potential risk in a crisis &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/221201/p16#a221201p16)
+ - [Safely clean your AirPods with Belkin&#39;s new cleaning kit](https://appleinsider.com/articles/22/12/01/safely-clean-your-airpods-with-belkins-new-cleaning-kit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
