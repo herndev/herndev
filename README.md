@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Street Fighter 6 is back for another beta, but don&#39;t expect to buy your way in this time](https://www.pcgamer.com/street-fighter-6-is-back-for-another-beta-but-dont-expect-to-buy-your-way-in-this-time)
- - [The PC&#39;s most hardcore city-builder just got even harder](https://www.pcgamer.com/the-pcs-most-hardcore-city-builder-just-got-even-harder)
- - [Valve is giving away a Steam Deck every minute of the Game Awards but sign-ups are causing trouble](https://www.pcgamer.com/steam-deck-giveaway-register)<!-- GAME:END -->
+ - [Tallneck Tidings: A Horizon holiday gift guide 2022](https://blog.playstation.com/2022/12/01/tallneck-tidings-a-horizon-holiday-gift-guide-2022/)
+ - [Thermaltake Argent E700](https://www.pcgamer.com/thermaltake-argent-e700-gaming-chair-review)
+ - [Sonic Frontiers is adding 4 playable characters, new modes and more in 2023](https://www.pcgamer.com/sonic-frontiers-is-adding-4-playable-characters-new-modes-and-more-in-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
