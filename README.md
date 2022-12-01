@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aggressive puppy gets put in his place](http://9gag.com/gag/ajVNOy1)
- - ⏩ [Kings](http://9gag.com/gag/ap9QVV5)
- - 👉 [Greatest of All Time](http://9gag.com/gag/anzjGpz)<!-- MEMES:END -->
+ - 💣 [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
+ - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 👉 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 ---
 
