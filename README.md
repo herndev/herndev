@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - ⏩ [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)
- - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
+ - 💣 [Mad max THE OFFICE addition](http://9gag.com/gag/a9qAOAm)
+ - ⏩ [Peg was hot.](http://9gag.com/gag/axo0RvL)
+ - 👉 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
 
 ---
 
