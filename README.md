@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Stores worldwide turn &lpar;RED&rpar; for World AIDS Day](https://appleinsider.com/articles/22/12/01/apple-stores-worldwide-turn-red-for-world-aids-day?utm_medium=rss)
- - [Daily Authority: 🧠 Neuralink’s latest show and tell](https://www.androidauthority.com/daily-authority-december-1-2022-3242673/)
- - [The Best Heating Pads, According to the CNET Staff Who Use Them     - CNET](https://www.cnet.com/health/the-best-heating-pads-according-the-cnet-staff-that-use-them/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Medibank&#39;s hackers post what appears to be the remaining data of 9.7M customers on the dark web, claiming &quot;case closed&quot;, as Medibank continues its investigation &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/221201/p4#a221201p4)
+ - [Thursday’s top tech news: December is here, and there are security lapses under the tree](https://www.theverge.com/2022/12/1/23487684/december-1-2022-tech-news-liveblog)
+ - [Why Spotify Wrapped Is a Day of Mourning for Parents Everywhere     - CNET](https://www.cnet.com/culture/entertainment/why-spotify-wrapped-is-a-day-of-mourning-for-parents-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
