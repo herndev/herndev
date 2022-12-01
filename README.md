@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Let’s yell about the so-called 100 greatest movies of all time](https://www.polygon.com/23488438/sight-and-sound-top-100-movies-of-all-time-list-is-wrong)
- - [Show us your Warhammer 40K: Darktide characters](https://www.pcgamer.com/show-us-your-warhammer-40k-darktide-characters)
- - [It’s hard for Gossip Girl’s throuples to thrive in a Riverdale world](https://www.polygon.com/23488497/gossip-girl-season-2-review)<!-- GAME:END -->
+ - [The Mandalorian season 3 comes out in March](https://www.polygon.com/22193147/when-the-mandalorian-season-3-comes-out)
+ - [Marvel Snap’s Latest Update Nerfs Some Popular Cards](https://kotaku.com/marvel-snap-patch-nerf-onslaught-destroyer-angela-sera-1849843647)
+ - [Harrison Ford gets de-aged in Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
