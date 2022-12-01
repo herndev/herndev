@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - ⏩ [It\u2019s happening. Repost.](http://9gag.com/gag/aL18rBW)
- - 👉 [A wild Hitmonchan appeared](http://9gag.com/gag/aeQeWLq)<!-- MEMES:END -->
+ - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - ⏩ [I don&#39;t think she gets it](http://9gag.com/gag/aXnveR2)
+ - 👉 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)<!-- MEMES:END -->
 
 ---
 
