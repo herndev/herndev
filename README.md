@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mad max THE OFFICE addition](http://9gag.com/gag/a9qAOAm)
- - ⏩ [Peg was hot.](http://9gag.com/gag/axo0RvL)
- - 👉 [The details in this game are insane](http://9gag.com/gag/aOxBDzE)<!-- MEMES:END -->
+ - 💣 [Please promise](http://9gag.com/gag/avQ716M)
+ - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 👉 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)<!-- MEMES:END -->
 
 ---
 
