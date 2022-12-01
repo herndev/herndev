@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Lord of the Rings show is recasting its most interesting actor](https://www.polygon.com/23488259/lord-of-the-rings-rings-of-power-amazon-series-casting-adar-season-2)
- - [Warzone 2.0&#39;s Revive Pistol Lets You Torture Players For Endless XP](https://kotaku.com/warzone-2-call-of-duty-mw2-xp-glitch-farm-1849842027)
- - [Sony&#39;s new full-body mobile motion capture kit is the next terrifying evolution for VTubers](https://www.pcgamer.com/sonys-new-full-body-mobile-motion-capture-kit-is-the-next-terrifying-evolution-for-vtubers)<!-- GAME:END -->
+ - [This oppressively dark Soviet FPS now features a simply adorable little model train set](https://www.pcgamer.com/this-oppressively-dark-soviet-fps-now-features-a-simply-adorable-little-model-train-set)
+ - [Path Of Exile&#39;s December expansion brings a bite-sized roguelike and a brutal new difficulty mode](https://www.pcgamer.com/path-of-exiles-december-expansion-brings-a-bite-sized-roguelike-and-a-brutal-new-difficulty-mode)
+ - [Oh Hey, That New Anime Need For Speed Game Is Very Good](https://kotaku.com/need-for-speed-unbound-review-anime-forza-gran-turismo-1849842594)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
