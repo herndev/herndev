@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ICA Miami and other museums continue to collect and display NFTs even as the market sinks, arguing digital art has a long history and valuations are unimportant &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/221201/p1#a221201p1)
- - [A Galaxy Z Flip 4-style foldable may be days away and it just leaked on video](https://www.androidauthority.com/oppo-find-n2-flip-3243213/)
- - [All the Actually Important Stuff Neuralink Just Announced](https://www.wired.com/story/all-the-actually-important-stuff-neuralink-just-announced/)<!-- TECH:END -->
+ - [This upcoming smartwatch lets you store your earbuds inside &lpar;Updated: Delayed&rpar;](https://www.androidauthority.com/huawei-watch-buds-3242645/)
+ - [iPhone 15 Ultra: What it may look like, and what to expect in 2023](https://appleinsider.com/articles/22/11/29/iphone-15-ultra-what-it-looks-like-and-what-to-expect-in-2023?utm_medium=rss)
+ - [ICA Miami and other museums continue to collect and display NFTs even as the market sinks, arguing digital art has a long history and valuations are unimportant &lpar;Farah Nayeri/New York Times&rpar;](http://www.techmeme.com/221201/p1#a221201p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
