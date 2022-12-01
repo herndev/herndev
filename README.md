@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This title was deleted](http://9gag.com/gag/aA0DyLE)
- - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 👉 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
+ - 💣 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)
+ - ⏩ [Deploying straight to production without testing !](http://9gag.com/gag/anzjGOV)
+ - 👉 [Good boy gets kicked out of jiu jitsu tournament for protecting owner during match](http://9gag.com/gag/agoYKQ1)<!-- MEMES:END -->
 
 ---
 
