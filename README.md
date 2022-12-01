@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Iran’s Protests Reveal What’s Lost If Twitter Crumbles](https://www.wired.com/story/protests-in-iran-twitter/)
- - [Pop-Up Farming Pods to Help Colonizers Grow Crops on Mars](https://www.wired.com/story/off-world-farming-mars-interstellar-lab/)
- - [Amazon’s Creep Into Health Care Has Some Experts Spooked](https://www.wired.com/story/amazons-creep-into-health-care-has-some-experts-spooked/)<!-- TECH:END -->
+ - [A look at online and smartphone gambling in the UK, legalized in 2005, as bettors lost &amp;pound;14B+ in four of the past five years and concerns about addiction rise &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p14#a221201p14)
+ - [Apple may see $8 billion holiday revenue drop over iPhone delays](https://appleinsider.com/articles/22/12/01/apple-may-see-8-billion-holiday-revenue-drop-over-iphone-delays?utm_medium=rss)
+ - [A new LastPass hack was caused by August&#39;s stolen data](https://appleinsider.com/articles/22/12/01/a-new-lastpass-hack-was-caused-by-augusts-stolen-data?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
