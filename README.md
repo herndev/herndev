@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amnesia: The Bunker gives the player a gun — but at what cost?](https://www.polygon.com/23486512/amnesia-the-bunker-announcement-trailer-protagonist-setting-weapon)
- - [Indies highlights coming to PS4 &amp; PS5 in December 2022](https://blog.playstation.com/2022/12/01/indies-highlights-coming-to-ps4-ps5-in-december-2022/)
- - [Think You’ve Played The Game of Life? Think Again](https://news.xbox.com/en-us/2022/12/01/think-youve-played-the-game-of-life-think-again/)<!-- GAME:END -->
+ - [Amazon’s Lord of the Rings show is recasting its most interesting actor](https://www.polygon.com/23488259/lord-of-the-rings-rings-of-power-amazon-series-casting-adar-season-2)
+ - [Warzone 2.0&#39;s Revive Pistol Lets You Torture Players For Endless XP](https://kotaku.com/warzone-2-call-of-duty-mw2-xp-glitch-farm-1849842027)
+ - [Sony&#39;s new full-body mobile motion capture kit is the next terrifying evolution for VTubers](https://www.pcgamer.com/sonys-new-full-body-mobile-motion-capture-kit-is-the-next-terrifying-evolution-for-vtubers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
