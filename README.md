@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Need For Speed Unbound&#39;s wild visual effects are actually the best part](https://www.pcgamer.com/need-for-speed-unbounds-wild-visual-effects-are-actually-the-best-part)
- - [&#39;Unhinged&#39; World of Warcraft: Dragonflight rogue PVP build instantly sends you to the spirit realm](https://www.pcgamer.com/unhinged-world-of-warcraft-dragonflight-rogue-pvp-build-instantly-sends-you-to-the-spirit-realm)
- - [Super Mario Bros. Movie Quietly Drops Two More Trailers](https://kotaku.com/super-mario-bros-movie-two-new-trailers-unseen-footage-1849838872)<!-- GAME:END -->
+ - [Warhammer 40K: Darktide PC performance tips: Turn off ray tracing and pray](https://www.pcgamer.com/darktide-best-settings-pc-performance-tips)
+ - [Asus ROG Strix GeForce RTX 4090 OC](https://www.pcgamer.com/asus-rog-strix-geforce-rtx-4090-oc)
+ - [Need For Speed Unbound&#39;s wild visual effects are actually the best part](https://www.pcgamer.com/need-for-speed-unbounds-wild-visual-effects-are-actually-the-best-part)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
