@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That awful feeling when you know you&#39;re f**ked!](http://9gag.com/gag/ajVNWEp)
- - ⏩ [Coincidence?](http://9gag.com/gag/anzjE9q)
- - 👉 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
+ - 💣 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
+ - ⏩ [Don&#39;t mind this post it&#39;s just a test](http://9gag.com/gag/a4oG6rp)
+ - 👉 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
 
 ---
 
