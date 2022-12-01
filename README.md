@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
- - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 👉 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
+ - 💣 [That awful feeling when you know you&#39;re f**ked!](http://9gag.com/gag/ajVNWEp)
+ - ⏩ [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 👉 [When you are the life and soul of the party...](http://9gag.com/gag/aBd8dDN)<!-- MEMES:END -->
 
 ---
 
