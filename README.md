@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Mandalorian season 3 comes out in March](https://www.polygon.com/22193147/when-the-mandalorian-season-3-comes-out)
- - [Marvel Snap’s Latest Update Nerfs Some Popular Cards](https://kotaku.com/marvel-snap-patch-nerf-onslaught-destroyer-angela-sera-1849843647)
- - [Harrison Ford gets de-aged in Indiana Jones 5, but he swears it won’t suck](https://www.polygon.com/23471995/harrison-ford-indiana-jones-5-de-aging)<!-- GAME:END -->
+ - [New World is finally cracking down on &#39;shell companies&#39; to stop players from monopolizing the fun](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)
+ - [Why is this $10 Warzone skin one of the best selling things on Steam?](https://www.pcgamer.com/why-is-this-dollar10-warzone-skin-one-of-the-best-selling-things-on-steam)
+ - [The best World of Warcraft: Dragonflight easter eggs](https://www.pcgamer.com/world-of-warcraft-easter-eggs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
