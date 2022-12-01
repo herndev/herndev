@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Medibank&#39;s hackers post what appears to be the remaining data of 9.7M customers on the dark web, claiming &quot;case closed&quot;, as Medibank continues its investigation &lpar;Josh Taylor/The Guardian&rpar;](http://www.techmeme.com/221201/p4#a221201p4)
- - [Thursday’s top tech news: December is here, and there are security lapses under the tree](https://www.theverge.com/2022/12/1/23487684/december-1-2022-tech-news-liveblog)
- - [Why Spotify Wrapped Is a Day of Mourning for Parents Everywhere     - CNET](https://www.cnet.com/culture/entertainment/why-spotify-wrapped-is-a-day-of-mourning-for-parents-everywhere/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon CEO Andy Jassy says the company does not plan to stop selling &quot;Hebrews to Negroes: Wake Up Black America&quot;, an antisemitic film promoted by Kyrie Irving &lpar;Associated Press&rpar;](http://www.techmeme.com/221201/p8#a221201p8)
+ - [In his NYT interview, SBF gave few straight answers while admitting to gross errors, denying claims of fraud, and claiming he &quot;didn&#39;t knowingly commingle funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p7#a221201p7)
+ - [The UK government plans to test SpaceX&#39;s Starlink in remote locations, including Snowdonia National Park, choosing the service over British rival OneWeb &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221201/p6#a221201p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
