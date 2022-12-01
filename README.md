@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to change your video doorbell ringtone](https://www.theverge.com/23488326/video-doorbell-ringtone-change-how-to)
- - [Parler&#39;s owner says it &quot;has mutually agreed with Ye to terminate the intent of sale of Parler&quot;, after announcing the deal in October &lpar;Darrell Etherington/TechCrunch&rpar;](http://www.techmeme.com/221201/p28#a221201p28)
- - [Today’s Google Doodle celebrates one of gaming’s hidden figures](https://www.theverge.com/2022/12/1/23488375/gerald-jerry-lawson-google-doodle-gaming-pioneer-inventor-cartridge)<!-- TECH:END -->
+ - [The Guardians of the Galaxy visit some strange new places in Vol. 3’s official trailer](https://www.theverge.com/2022/12/1/23488818/guardians-of-the-galaxy-vol-3-official-trailer-marvel)
+ - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera)
+ - [Amazon’s poached Mike Flanagan from Netflix with an exclusive TV production deal](https://www.theverge.com/2022/12/1/23488816/amazons-mike-flanagan-trevor-macy-intrepid-pictures-netflix)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
