@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please promise](http://9gag.com/gag/avQ716M)
- - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 👉 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)<!-- MEMES:END -->
+ - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - ⏩ [Justice for a supremacist. Also notice how MSM mention the race of victim but zero word about the perp?](http://9gag.com/gag/aoKOYrx)
+ - 👉 [F*ck around, find out](http://9gag.com/gag/aL18WMV)<!-- MEMES:END -->
 
 ---
 
