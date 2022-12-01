@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How game developers trick you in an open world](http://9gag.com/gag/a6qVqGN)
- - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - 👉 [Why?](http://9gag.com/gag/aREjo8j)<!-- MEMES:END -->
+ - 💣 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
+ - ⏩ [Please promise](http://9gag.com/gag/avQ716M)
+ - 👉 [Coincidence?](http://9gag.com/gag/anzjE9q)<!-- MEMES:END -->
 
 ---
 
