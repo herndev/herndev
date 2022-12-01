@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tallneck Tidings: A Horizon holiday gift guide 2022](https://blog.playstation.com/2022/12/01/tallneck-tidings-a-horizon-holiday-gift-guide-2022/)
- - [Thermaltake Argent E700](https://www.pcgamer.com/thermaltake-argent-e700-gaming-chair-review)
- - [Sonic Frontiers is adding 4 playable characters, new modes and more in 2023](https://www.pcgamer.com/sonic-frontiers-is-adding-4-playable-characters-new-modes-and-more-in-2023)<!-- GAME:END -->
+ - [Top tips to get ready for Marvel’s Midnight Suns, out December 2](https://blog.playstation.com/2022/12/01/top-tips-to-get-ready-for-marvels-midnight-suns-out-december-2/)
+ - [Jump into LEGO Star Wars: The Skywalker Saga on Game Pass Starting December 6](https://news.xbox.com/en-us/2022/12/01/jump-into-lego-star-wars-the-skywalker-saga-on-game-pass-starting-december-6/)
+ - [Portal writer says Valve has &#39;a starting point that we like a ton&#39; for Portal 3](https://www.pcgamer.com/portal-writer-says-valve-has-a-starting-point-that-we-like-a-ton-for-portal-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
