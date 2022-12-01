@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon CEO Andy Jassy says the company does not plan to stop selling &quot;Hebrews to Negroes: Wake Up Black America&quot;, an antisemitic film promoted by Kyrie Irving &lpar;Associated Press&rpar;](http://www.techmeme.com/221201/p8#a221201p8)
- - [In his NYT interview, SBF gave few straight answers while admitting to gross errors, denying claims of fraud, and claiming he &quot;didn&#39;t knowingly commingle funds&quot; &lpar;Bloomberg&rpar;](http://www.techmeme.com/221201/p7#a221201p7)
- - [The UK government plans to test SpaceX&#39;s Starlink in remote locations, including Snowdonia National Park, choosing the service over British rival OneWeb &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/221201/p6#a221201p6)<!-- TECH:END -->
+ - [Iran’s Protests Reveal What’s Lost If Twitter Crumbles](https://www.wired.com/story/protests-in-iran-twitter/)
+ - [Pop-Up Farming Pods to Help Colonizers Grow Crops on Mars](https://www.wired.com/story/off-world-farming-mars-interstellar-lab/)
+ - [Amazon’s Creep Into Health Care Has Some Experts Spooked](https://www.wired.com/story/amazons-creep-into-health-care-has-some-experts-spooked/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
