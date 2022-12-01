@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Watch this live Nintendo concert featuring holograms of K.K. Slider and Splatoon 3’s idols](https://www.theverge.com/2022/12/1/23488120/nintendo-live-2022-concert-holograms-k-k-slider-animal-crossing-splatoon-3)
- - [Transformers: Rise of the Beasts’ first trailer is full of Maximal action](https://www.theverge.com/2022/12/1/23488230/transformers-rise-of-the-beasts-teaser-trailer)
- - [Apple reached 25% smartphone market share in China in October, retaining its top OEM spot for a second month; one in four devices sold in China was an iPhone &lpar;Varun Mishra/Counterpoint Research&rpar;](http://www.techmeme.com/221201/p23#a221201p23)<!-- TECH:END -->
+ - [Discord renames Premium Memberships to Server Subscriptions and makes them available for all US creators; Discord will take a 10% cut of subscriptions &lpar;James Hale/Tubefilter&rpar;](http://www.techmeme.com/221201/p25#a221201p25)
+ - [How to block a phone number on Android](https://www.theverge.com/23484193/android-block-phone-number-pixel-samsung)
+ - [iFixit calls the 10.9-inch iPad an iPad Air, but worse](https://appleinsider.com/articles/22/12/01/ifixit-calls-the-109-inch-ipad-an-ipad-air-but-worse?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
