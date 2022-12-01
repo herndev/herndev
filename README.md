@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
- - ⏩ [Justice for a supremacist. Also notice how MSM mention the race of victim but zero word about the perp?](http://9gag.com/gag/aoKOYrx)
- - 👉 [F*ck around, find out](http://9gag.com/gag/aL18WMV)<!-- MEMES:END -->
+ - 💣 [This title was deleted](http://9gag.com/gag/aA0DyLE)
+ - ⏩ [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - 👉 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
 
 ---
 
