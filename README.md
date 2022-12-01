@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
- - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 👉 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
+ - 💣 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
+ - ⏩ [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - 👉 [This title was deleted](http://9gag.com/gag/aA0DyLE)<!-- MEMES:END -->
 
 ---
 
