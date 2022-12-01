@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)
- - ⏩ [It\u2019s happening. Repost.](http://9gag.com/gag/aL18rBW)
- - 👉 [Finnish EU parlament candidate tries speak french. She told that she can speak it fluently...](http://9gag.com/gag/axo0492)<!-- MEMES:END -->
+ - 💣 [In time](http://9gag.com/gag/aYV4mPw)
+ - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
+ - 👉 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)<!-- MEMES:END -->
 
 ---
 
