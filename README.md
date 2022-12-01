@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OpenAI releases a demo of ChatGPT, a chatbot version of GPT-3 that answers follow-up questions, admits its mistakes, challenges incorrect premises, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221130/p43#a221130p43)
- - [Mozilla&#39;s Firefox and Microsoft&#39;s Edge plan to stop trusting new certificates from TrustCor, after a report revealed TrustCor&#39;s ties to a US defense contractor &lpar;Joseph Menn/Washington Post&rpar;](http://www.techmeme.com/221130/p42#a221130p42)
- - [Skiers triggering false Crash Detection alerts on iPhone 14, Apple Watch](https://appleinsider.com/articles/22/12/01/skiers-triggering-false-crash-detection-alerts-on-iphone-14-apple-watch?utm_medium=rss)<!-- TECH:END -->
+ - [How Twitter users in China have been circumventing the nation&#39;s Great Firewall and fighting spam to get footage of protests out to the rest of the world &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221130/p45#a221130p45)
+ - [How to charge your Google Pixel Watch](https://www.androidauthority.com/how-to-charge-your-google-pixel-watch-3239339/)
+ - [Twitter says it&#39;s expanding recommended tweets to all users, including those who may not have seen them in the past &lpar;Karissa Bell/Engadget&rpar;](http://www.techmeme.com/221130/p44#a221130p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
