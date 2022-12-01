@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon’s Fallout TV series starts a new plot in the same universe as the games](https://www.polygon.com/23486343/fallout-tv-series-amazon-prime-todd-howard-story)
- - [The Internet Loves Donkey Kong’s Ass In The Super Mario Bros. Movie](https://kotaku.com/super-mario-bros-movie-donkey-kong-booty-ass-seth-rogen-1849838557)
- - [24 Halo Infinite Forge Maps Inspired By The Classic Games](https://kotaku.com/halo-infinite-forge-classic-maps-blood-gulch-1849838429)<!-- GAME:END -->
+ - [Need For Speed Unbound&#39;s wild visual effects are actually the best part](https://www.pcgamer.com/need-for-speed-unbounds-wild-visual-effects-are-actually-the-best-part)
+ - [&#39;Unhinged&#39; World of Warcraft: Dragonflight rogue PVP build instantly sends you to the spirit realm](https://www.pcgamer.com/unhinged-world-of-warcraft-dragonflight-rogue-pvp-build-instantly-sends-you-to-the-spirit-realm)
+ - [Super Mario Bros. Movie Quietly Drops Two More Trailers](https://kotaku.com/super-mario-bros-movie-two-new-trailers-unseen-footage-1849838872)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
