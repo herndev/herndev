@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [She belongs to the streets...](http://9gag.com/gag/aPg9PGB)
- - ⏩ [Don&#39;t mind this post it&#39;s just a test](http://9gag.com/gag/a4oG6rp)
- - 👉 [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)<!-- MEMES:END -->
+ - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - ⏩ [China\u2019s broadcast next to the original feed.](http://9gag.com/gag/anzj7jL)
+ - 👉 [Please promise](http://9gag.com/gag/avQ716M)<!-- MEMES:END -->
 
 ---
 
