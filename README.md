@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - ⏩ [I don&#39;t think she gets it](http://9gag.com/gag/aXnveR2)
- - 👉 [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)<!-- MEMES:END -->
+ - 💣 [German Band Overwhelmed When They Learn They Are Somewhat Famous In New York](http://9gag.com/gag/aYV4Agw)
+ - ⏩ [Meanwhile I go brrrrr](http://9gag.com/gag/adP9boD)
+ - 👉 [R.i.P](http://9gag.com/gag/aREjZPy)<!-- MEMES:END -->
 
 ---
 
