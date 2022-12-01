@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paramount Plus deal has been extended, save 50% on the annual plan](https://appleinsider.com/articles/22/12/01/paramount-plus-deal-has-been-extended-save-50-on-the-annual-plan?utm_medium=rss)
- - [Valve will give away a free Steam Deck every minute during The Game Awards](https://www.theverge.com/2022/11/30/23487431/steam-deck-giveaway-free-game-awards-2022)
- - [How Twitter users in China have been circumventing the nation&#39;s Great Firewall and fighting spam to get footage of protests out to the rest of the world &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221130/p45#a221130p45)<!-- TECH:END -->
+ - [Elon Musk claims Neuralink is about ‘six months’ away from first human trial](https://www.theverge.com/2022/11/30/23487307/neuralink-elon-musk-show-and-tell-2022)
+ - [Musk says Neuralink expects human trials to begin in about six months pending FDA approval, and unveils work on implants to treat paralysis and improve vision &lpar;Ashlee Vance/Bloomberg&rpar;](http://www.techmeme.com/221130/p46#a221130p46)
+ - [Paramount Plus deal has been extended, save 50% on the annual plan](https://appleinsider.com/articles/22/12/01/paramount-plus-deal-has-been-extended-save-50-on-the-annual-plan?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
