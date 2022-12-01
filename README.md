@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Thursday, December 1](https://www.pcgamer.com/wordle-530-answer-december-1)
  - [Taiwan&#39;s semiconductor industry set to suffer after US/China trade disputes](https://www.pcgamer.com/taiwans-semiconductor-industry-set-to-suffer-after-uschina-trade-disputes)
- - [Today&#39;s Google Doodle is a game that lets you make your own games](https://www.pcgamer.com/todays-google-doodle-is-a-game-that-lets-you-make-your-own-games)
- - [Warhammer 40K: Darktide PC performance tips: Turn off ray tracing and pray](https://www.pcgamer.com/darktide-best-settings-pc-performance-tips)<!-- GAME:END -->
+ - [Today&#39;s Google Doodle is a game that lets you make your own games](https://www.pcgamer.com/todays-google-doodle-is-a-game-that-lets-you-make-your-own-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
