@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [IT&#39;S WEDNESDAY](http://9gag.com/gag/aBd8PbD)
- - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 👉 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
+ - 💣 [Pelicans try to eat everything](http://9gag.com/gag/anzjGLz)
+ - ⏩ [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 👉 [Tallent is dying hastily.](http://9gag.com/gag/abvzQM8)<!-- MEMES:END -->
 
 ---
 
