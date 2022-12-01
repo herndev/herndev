@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)
- - ⏩ [When you skip some thermodynamics class](http://9gag.com/gag/amA2nDX)
- - 👉 [Will Smith&#39;s family looking like a rogues&#39; gallery of Batman villains](http://9gag.com/gag/az2qQnx)<!-- MEMES:END -->
+ - 💣 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
+ - ⏩ [Long haired chad deserves a medal for that footwork](http://9gag.com/gag/a7qDG5e)
+ - 👉 [Again and again](http://9gag.com/gag/aOxBNvE)<!-- MEMES:END -->
 
 ---
 
