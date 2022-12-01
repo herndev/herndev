@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Top tips to get ready for Marvel’s Midnight Suns, out December 2](https://blog.playstation.com/2022/12/01/top-tips-to-get-ready-for-marvels-midnight-suns-out-december-2/)
- - [Jump into LEGO Star Wars: The Skywalker Saga on Game Pass Starting December 6](https://news.xbox.com/en-us/2022/12/01/jump-into-lego-star-wars-the-skywalker-saga-on-game-pass-starting-december-6/)
- - [Portal writer says Valve has &#39;a starting point that we like a ton&#39; for Portal 3](https://www.pcgamer.com/portal-writer-says-valve-has-a-starting-point-that-we-like-a-ton-for-portal-3)<!-- GAME:END -->
+ - [Google’s moddable Doodle honors ‘the father of the video game cartridge’](https://www.polygon.com/23487868/google-doodle-jerry-lawson-cartridge-video-games-mods-tribute)
+ - [Coming to Xbox Game Pass: LEGO Star Wars: The Skywalker Saga, High on Life, Hello Neighbor 2, and More](https://news.xbox.com/en-us/2022/12/01/game-pass-december-2022-wave-1-announce/)
+ - [Nintendo Finally Acknowledges The Buggy Mess Of Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-bugs-performance-nintendo-switch-1849840208)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
