@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube has finally stopped crashing on Apple devices, for some](https://www.androidauthority.com/apple-youtube-crash-3243050/)
- - [San Francisco&#39;s Killer Police Robots Threaten the City&#39;s Most Vulnerable](https://www.wired.com/story/san-franciscos-killer-police-robots-threaten-the-citys-most-vulnerable/)
- - [Warner Bros. Discovery and Amazon are teaming up to produce new animated DC projects](https://www.theverge.com/2022/11/30/23486386/warner-bros-television-studios-amazon-dc-animation-harry-potter)<!-- TECH:END -->
+ - [Elon Musk says he met with Tim Cook at Apple&#39;s HQ on Wednesday, and that Cook was clear that Apple &quot;never considered&quot; removing Twitter from the App Store &lpar;Juli Clover/MacRumors&rpar;](http://www.techmeme.com/221130/p40#a221130p40)
+ - [LastPass says attackers accessed customers&#39; data after breaching its cloud storage using information stolen during a security incident in August 2022 &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221130/p39#a221130p39)
+ - [Skiers triggering false Crash Detection alerts on iPhone 14, Apple Watch](https://appleinsider.com/articles/22/12/01/skiers-triggering-false-crash-detection-alerts-on-iphone-14-apple-watch?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
