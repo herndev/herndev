@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This needs to have a movie or Netflix series.](http://9gag.com/gag/aYV4Oxx)
- - ⏩ [Please promise](http://9gag.com/gag/avQ716M)
- - 👉 [Coincidence?](http://9gag.com/gag/anzjE9q)<!-- MEMES:END -->
+ - 💣 [`She said no Joey`](http://9gag.com/gag/aVbMbNw)
+ - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 👉 [Kaya Scodelario](http://9gag.com/gag/a5Xn6xq)<!-- MEMES:END -->
 
 ---
 
