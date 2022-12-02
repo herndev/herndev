@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The witch, the lion and the audacity of this\u2026..](http://9gag.com/gag/a8q8Xq3)
- - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - 👉 [What the underground level of a car showroom looks like](http://9gag.com/gag/aWGqg73)<!-- MEMES:END -->
+ - 💣 [Coincidence?](http://9gag.com/gag/anzjE9q)
+ - ⏩ [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
+ - 👉 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)<!-- MEMES:END -->
 
 ---
 
