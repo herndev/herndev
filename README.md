@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coincidence?](http://9gag.com/gag/anzjE9q)
- - ⏩ [Switch them up in a movie and see who gets it\u2026](http://9gag.com/gag/aA0DZjZ)
- - 👉 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)<!-- MEMES:END -->
+ - 💣 [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
+ - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
+ - 👉 [A mall in Iran these days](http://9gag.com/gag/aWGq9yq)<!-- MEMES:END -->
 
 ---
 
