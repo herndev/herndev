@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS launches Application Composer, a low-code tool for visually designing and building serverless applications with a drag-and-drop interface &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221202/p12#a221202p12)
- - [Zendure SuperBase V is the ultimate power station](https://appleinsider.com/articles/22/12/01/zendure-superbase-v-is-the-ultimate-power-station?utm_medium=rss)
- - [Ye&#39;s Twitter account is suspended after he tweeted a picture of a swastika merged with a Star of David; Elon Musk replied, saying he violated Twitter rules &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221202/p11#a221202p11)<!-- TECH:END -->
+ - [Google Messages app starts offering end-to-end encryption for group chats](https://www.androidauthority.com/google-messages-end-to-end-encryption-group-chats-3243787/)
+ - [Google says Apple’s texting is stuck in the 1990s](https://www.androidauthority.com/google-apple-rcs-messaging-3243791/)
+ - [Control Freak Is a Surprisingly Personal Video Game Memoir](https://www.wired.com/2022/12/geeks-guide-cliff-bleszinski/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
