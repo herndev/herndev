@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Play The Game Awards Nominees Today with Game Pass](https://news.xbox.com/en-us/2022/12/02/play-the-game-awards-nominees-today-with-game-pass/)
- - [Genshin Impact goes to war against leakers, sues Discord to find leaker&#39;s real identity](https://www.pcgamer.com/genshin-impact-goes-to-war-against-leakers-sues-discord-to-find-leakers-real-identity)
- - [Fortnite’s Chapter 3 ending event: when and how to watch](https://www.polygon.com/fortnite/23490273/fortnite-chapter-3-season-4-ending-event-how-to-watch)<!-- GAME:END -->
+ - [Valve’s Giving Away A Steam Deck Every Minute During The Game Awards](https://kotaku.com/free-steam-deck-giveaway-game-awards-2022-valve-1849849124)
+ - [These incredible LAN party photos remind us how much work it used to be to play games together](https://www.pcgamer.com/these-incredible-lan-party-photos-remind-us-how-much-work-it-used-to-be-to-play-games-together)
+ - [Victoria 3 designer on why communism is OP: &#39;We just implemented the mechanics the way we understood them&#39;](https://www.pcgamer.com/victoria-3-communism-op)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
