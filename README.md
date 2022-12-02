@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Novogratz&#39;s Galaxy Digital agrees to buy high-security custodian GK8 from bankrupt crypto lender Celsius; Celsius acquired GK8 for $115M in late 2021 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/221202/p18#a221202p18)
- - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
- - [Google Maps is available again on Wear OS 2 smartwatches &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-maps-wear-os-2-3241978/)<!-- TECH:END -->
+ - [5G on airplanes could mean the end of Airplane Mode](https://www.androidauthority.com/5g-on-airplanes-3244130/)
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Mike Novogratz&#39;s Galaxy Digital agrees to buy high-security custodian GK8 from bankrupt crypto lender Celsius; Celsius acquired GK8 for $115M in late 2021 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/221202/p18#a221202p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
