@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Neon White Is Finally Coming To PlayStation](https://kotaku.com/neon-white-ps4-ps5-release-date-when-coming-december-1849845058)
- - [Darktide is the most detailed vision of Warhammer 40,000 we&#39;ve ever seen](https://www.pcgamer.com/darktide-is-the-most-detailed-vision-of-warhammer-40000-weve-ever-seen)
- - [Dungeons &amp; Dragons Ditches &#39;Race&#39;, Wants To Use &#39;Species&#39; Instead](https://kotaku.com/dungeons-dragons-d-d-race-species-racism-change-1849844249)<!-- GAME:END -->
+ - [The Callisto Protocol’s best early-game weapon is easy to miss](https://www.polygon.com/guides/23488501/callisto-protocol-skunk-gun-schematic-location-shotgun-best-gun)
+ - [What you should upgrade first in The Callisto Protocol](https://www.polygon.com/guides/23488152/callisto-protocol-best-upgrades-perks-skills-grp-baton-health-ammo-weapon)
+ - [The Callisto Protocol is way more fun on easy mode](https://www.polygon.com/guides/23488078/callisto-protocol-difficulty-settings-easy-mode-minimum-security)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
