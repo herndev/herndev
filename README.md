@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - 💣 [No title](http://9gag.com/gag/aVbMRW8)
  - ⏩ [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - 👉 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
+ - 👉 [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)<!-- MEMES:END -->
 
 ---
 
