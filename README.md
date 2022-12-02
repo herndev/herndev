@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I am using Sunbird with iMessage for Android. It works.](https://www.androidauthority.com/sunbird-imessage-android-3244025/)
- - [Google Messages is getting end-to-end encrypted RCS group chats](https://www.theverge.com/2022/12/2/23490072/rcs-end-to-end-encryption-group-chats-messages-android-google-imessage)
- - [Google says it is testing end-to-end encryption for RCS-based group chats on its Messages app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221202/p16#a221202p16)<!-- TECH:END -->
+ - [Use GarageBand to remix Zedd&#39;s &#39;Clarity&#39; on it&#39;s ten-year anniversary](https://appleinsider.com/articles/22/12/02/use-garageband-to-remix-zedds-clarity-on-its-ten-year-anniversary?utm_medium=rss)
+ - [Motorola’s Edge 30 Fusion is coming to the US in pink, and I don’t hate it](https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023)
+ - [Amazon&#39;s senior VP of global media and entertainment Jeff Blackburn will leave in early 2023; Blackburn left Amazon in February 2021 and rejoined in May 2021 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221202/p17#a221202p17)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
