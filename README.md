@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [DeepMind unveils DeepNash, an AI agent that matches human experts in the board game Stratego by combining game theory and model-free deep reinforcement learning &lpar;Anil Ananthaswamy/Nature&rpar;](http://www.techmeme.com/221202/p1#a221202p1)
- - [Stripe debuts a customizable fiat-to-crypto payments widget for Web3 devs to directly embed into their apps; Stripe to handle KYC checks, fraud, and compliance &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221201/p31#a221201p31)
- - [Tesla delivers first electric Semi trucks — three years late](https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk)<!-- TECH:END -->
+ - [The Mandalorian Season 3: Release date, story, and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)
+ - [Ye&#39;s Twitter account is suspended after he tweeted a picture of a swastika merged with a Star of David; Elon Musk replied, saying he violated Twitter rules &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221202/p2#a221202p2)
+ - [Google’s Pixel Recorder app just got even better with speaker labels](https://www.androidauthority.com/google-pixel-recorder-speaker-labels-3243747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
