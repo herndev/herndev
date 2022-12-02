@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No title](http://9gag.com/gag/aVbMRW8)
- - ⏩ [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
- - 👉 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)<!-- MEMES:END -->
+ - 💣 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
+ - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
+ - 👉 [Darker ginger](http://9gag.com/gag/aYV467m)<!-- MEMES:END -->
 
 ---
 
