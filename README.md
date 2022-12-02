@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $150 on Apple&#39;s Midnight MacBook Air M2 with 16GB RAM &amp; 10-core GPU, in stock now](https://appleinsider.com/articles/22/12/02/save-150-on-apples-midnight-macbook-air-m2-with-16gb-ram-10-core-gpu-in-stock-now?utm_medium=rss)
- - [SpaceX gets FCC approval to deploy up to 7,500 next-generation Starlink internet satellites in low Earth orbit; SpaceX had applied for nearly 30K satellites &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/221201/p30#a221201p30)
- - [New iPhone 14 Emergency SOS via Satellite feature saves man in Alaska](https://appleinsider.com/articles/22/12/02/new-iphone-14-emergency-sos-via-satellite-saves-man-in-alaska?utm_medium=rss)<!-- TECH:END -->
+ - [Stripe debuts a customizable fiat-to-crypto payments widget for Web3 devs to directly embed into their apps; Stripe to handle KYC checks, fraud, and compliance &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221201/p31#a221201p31)
+ - [Tesla delivers first electric Semi trucks — three years late](https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk)
+ - [NASA&#39;s Webb Telescope Delivers Extraordinary Look at Titan, Saturn&#39;s Largest Moon     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-delivers-extraordinary-look-at-titan-saturns-largest-moon/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
