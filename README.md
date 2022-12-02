@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nintendo Says It ‘Cares’ About Smash Bros. Fans As Tournament Dispute Continues](https://kotaku.com/nintendo-switch-smash-bros-tournament-cancelled-panda-1849847260)
- - [Transport Fever 2: Console Edition is Bringing the Full Transport Tycoon Cxperience to Xbox](https://news.xbox.com/en-us/2022/12/02/transport-fever-2-console-edition-preview/)
- - [The Best And Worst Battle Passes Of 2022 From Overwatch 2 To Fortnite](https://kotaku.com/the-best-and-worst-battle-passes-of-2022-1849846941)<!-- GAME:END -->
+ - [ID@Xbox Winter Game Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/12/02/idxbox-winter-game-demo-event-heading-your-way/)
+ - [Blizzard Albany becomes second unionized studio at Activision Blizzard](https://www.polygon.com/23490063/activision-blizzard-albany-qa-union-vote-win)
+ - [Destiny 2 Xur location and items, Dec. 2-6](https://www.polygon.com/destiny-2-guide-walkthrough/23490157/destiny-2-xur-location-items-dec-2-6)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
