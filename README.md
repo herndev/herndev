@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny because its true](http://9gag.com/gag/aMEAWgG)
- - ⏩ [Potatoes gonna potate](http://9gag.com/gag/arm5rxB)
- - 👉 [Their last world cup. Gonna miss these legends](http://9gag.com/gag/avQ742X)<!-- MEMES:END -->
+ - 💣 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - ⏩ [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - 👉 [No title](http://9gag.com/gag/aVbMRW8)<!-- MEMES:END -->
 
 ---
 
