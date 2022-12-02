@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [DeepMind unveils DeepNash, an AI agent that matches human experts in the board game Stratego by combining game theory and model-free deep reinforcement learning &lpar;Anil Ananthaswamy/Nature&rpar;](http://www.techmeme.com/221202/p1#a221202p1)
  - [Stripe debuts a customizable fiat-to-crypto payments widget for Web3 devs to directly embed into their apps; Stripe to handle KYC checks, fraud, and compliance &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221201/p31#a221201p31)
- - [Tesla delivers first electric Semi trucks — three years late](https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk)
- - [NASA&#39;s Webb Telescope Delivers Extraordinary Look at Titan, Saturn&#39;s Largest Moon     - CNET](https://www.cnet.com/science/space/nasas-webb-telescope-delivers-extraordinary-look-at-titan-saturns-largest-moon/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Tesla delivers first electric Semi trucks — three years late](https://www.theverge.com/2022/12/1/23488040/tesla-semi-delivery-event-electric-truck-elon-musk)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
