@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Wrong cable &lpar;power&rpar; connected to microphone during beauty contest.](http://9gag.com/gag/anzjdWV)
- - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - 👉 [Darker ginger](http://9gag.com/gag/aYV467m)<!-- MEMES:END -->
+ - 💣 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
+ - ⏩ [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
+ - 👉 [Arigato, Japan \ud83d\udc4c\ud83c\udffc](http://9gag.com/gag/aPg9zMq)<!-- MEMES:END -->
 
 ---
 
