@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncharted Gets Roller Coaster Based On Movie Based On Game](https://kotaku.com/uncharted-movie-roller-coaster-dark-ride-spain-sony-1849844332)
- - [Army Planned To Spend Millions On Twitch And Call Of Duty To Recruit Gen Z](https://kotaku.com/u-s-army-call-duty-twitch-ign-g4-swagg-stonemountain64-1849844389)
- - [New World is finally cracking down on &#39;shell companies&#39; to stop players from monopolizing the fun](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons Ditches &#39;Race&#39;, Wants To Use &#39;Species&#39; Instead](https://kotaku.com/dungeons-dragons-d-d-race-species-racism-change-1849844249)
+ - [The December PC game releases and events you should know about](https://www.pcgamer.com/pc-game-release-dates-december-2022)
+ - [Uncharted Gets Roller Coaster Based On Movie Based On Game](https://kotaku.com/uncharted-movie-roller-coaster-dark-ride-spain-sony-1849844332)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
