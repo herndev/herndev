@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - ⏩ [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
- - 👉 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)<!-- MEMES:END -->
+ - 💣 [Depending on the stallion, horse semen is one of the most expensive liquids on the planet. A gallon of gold-medal-winning Big Star&#39;s semen is worth $4.7 million. Once it&#39;s collected, horse semen is sold in small tubes called straws which can sell for thousands of dollars each.](http://9gag.com/gag/a6qVnYm)
+ - ⏩ [Need For Speed: Most Wanted had the best pursuit system of the whole video games industry and is still unmatched today. PIT maneuvers,triangle formation, road blocks and tire spikes. And the infamous RHINO SLAP. The music is also completely dynamic and changes on the situation.](http://9gag.com/gag/anzj0vz)
+ - 👉 [Had me going at first](http://9gag.com/gag/aeQeqQj)<!-- MEMES:END -->
 
 ---
 
