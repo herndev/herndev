@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gundam Evolution Launches Today on Xbox](https://news.xbox.com/en-us/2022/12/02/gundam-evolution-launch-post/)
- - [Netflix’s Binge-Model Release of JoJo’s Bizarre Adventure: Stone Ocean Ruined The Anime’s Hype](https://kotaku.com/jojos-bizarre-adventure-stone-ocean-netflix-binge-watch-1849846467)
- - [Why, yes, Black Panther can get to 689,730 power in Marvel Snap](https://www.polygon.com/23489800/marvel-snap-black-panther-deck-combo)<!-- GAME:END -->
+ - [5 Things You May Have Missed in The Callisto Protocol Launch Trailer](https://news.xbox.com/en-us/2022/12/02/the-callisto-protocol-launch-post/)
+ - [Pokémon Scarlet And Violet Contains One Of The Greatest Facts Of All Time](https://kotaku.com/pokemon-scarlet-and-violet-nintendo-switch-birthday-1849845841)
+ - [Where to find God of War Ragnarök earliest Artifacts](https://www.polygon.com/god-of-war-ragnarok-guide/23433018/artifact-locations-kvasirs-poems-guide-svartalfheim-aflheim)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
