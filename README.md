@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Neon White Is Finally Coming To PlayStation](https://kotaku.com/neon-white-ps4-ps5-release-date-when-coming-december-1849845058)
  - [Darktide is the most detailed vision of Warhammer 40,000 we&#39;ve ever seen](https://www.pcgamer.com/darktide-is-the-most-detailed-vision-of-warhammer-40000-weve-ever-seen)
- - [Dungeons &amp; Dragons Ditches &#39;Race&#39;, Wants To Use &#39;Species&#39; Instead](https://kotaku.com/dungeons-dragons-d-d-race-species-racism-change-1849844249)
- - [The December PC game releases and events you should know about](https://www.pcgamer.com/pc-game-release-dates-december-2022)<!-- GAME:END -->
+ - [Dungeons &amp; Dragons Ditches &#39;Race&#39;, Wants To Use &#39;Species&#39; Instead](https://kotaku.com/dungeons-dragons-d-d-race-species-racism-change-1849844249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
