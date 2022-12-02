@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Messages app starts offering end-to-end encryption for group chats](https://www.androidauthority.com/google-messages-end-to-end-encryption-group-chats-3243787/)
- - [Google says Apple’s texting is stuck in the 1990s](https://www.androidauthority.com/google-apple-rcs-messaging-3243791/)
- - [Control Freak Is a Surprisingly Personal Video Game Memoir](https://www.wired.com/2022/12/geeks-guide-cliff-bleszinski/)<!-- TECH:END -->
+ - [Internal doc: Alameda and FTX&#39;s largest venture bet was Bitcoin mining company Genesis Digital, investing a total of $1.15B between August 2021 and April 2022 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221202/p15#a221202p15)
+ - [Clip Studio Paint cancels AI image generator amidst backlash from users](https://www.theverge.com/2022/12/2/23490068/clip-studio-paint-ai-image-generator-cancels-celsys-digital-illustration)
+ - [Devialet Mania Review: Bottom-Heavy, But Powerful](https://www.wired.com/review/review-devialet-mania/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
