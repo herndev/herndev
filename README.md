@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [In time](http://9gag.com/gag/aYV4mPw)
- - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - 👉 [Christmas is cumming](http://9gag.com/gag/aoKO4dX)<!-- MEMES:END -->
+ - 💣 [Funny because its true](http://9gag.com/gag/aMEAWgG)
+ - ⏩ [Potatoes gonna potate](http://9gag.com/gag/arm5rxB)
+ - 👉 [Their last world cup. Gonna miss these legends](http://9gag.com/gag/avQ742X)<!-- MEMES:END -->
 
 ---
 
