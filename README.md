@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola’s Portable Record Player Brings the Party Anywhere](https://www.wired.com/story/victrola-re-spin-rave/)
- - [A Proactive Way to Detect Cancer at Its Earliest Stages](https://www.wired.com/story/making-cancer-reveal-itself/)
- - [12 Best Sexy Gifts for Lovers &lpar;2022&rpar;: Heat Up the Holidays](https://www.wired.com/gallery/best-sex-gifts/)<!-- TECH:END -->
+ - [8 shows and movies like Wednesday to watch after finishing the Netflix series](https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/)
+ - [Ditch Your USB-A Dongle and Embrace the USB-C Life](https://www.wired.com/story/usb-c-dongle-rave/)
+ - [Palmer Luckey&#39;s Anduril, which builds autonomous systems for the US military, raised nearly $1.5B at a $7B pre-money valuation, up from $4.2B in June 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221202/p5#a221202p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
