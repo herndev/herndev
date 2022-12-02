@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [...](http://9gag.com/gag/abvzL1B)
- - ⏩ [Lord Commander](http://9gag.com/gag/abvzoBB)
- - 👉 [On the blackout](http://9gag.com/gag/aeQeE1q)<!-- MEMES:END -->
+ - 💣 [On the blackout](http://9gag.com/gag/aeQeE1q)
+ - ⏩ [In time](http://9gag.com/gag/aYV4mPw)
+ - 👉 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)<!-- MEMES:END -->
 
 ---
 
