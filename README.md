@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
- - ⏩ [...](http://9gag.com/gag/abvzL1B)
- - 👉 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)<!-- MEMES:END -->
+ - 💣 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)
+ - ⏩ [Mother of the Year](http://9gag.com/gag/aDYzLe9)
+ - 👉 [She got silenced...](http://9gag.com/gag/aXnvzrd)<!-- MEMES:END -->
 
 ---
 
