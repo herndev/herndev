@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Verge’s 2022 holiday gift guide for working from home](https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets)
- - [OtterBox is out with new power banks for iPhone and Apple Watch](https://appleinsider.com/articles/22/12/02/otterbox-is-out-with-new-power-banks-for-iphone-and-apple-watch?utm_medium=rss)
- - [Deathloop for PS5 is just $10 at Best Buy](https://www.theverge.com/2022/12/2/23487926/deathloop-ps5-elden-ring-apple-magic-keyboard-deal-sale)<!-- TECH:END -->
+ - [AWS launches Application Composer, a low-code tool for visually designing and building serverless applications with a drag-and-drop interface &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/221202/p12#a221202p12)
+ - [Zendure SuperBase V is the ultimate power station](https://appleinsider.com/articles/22/12/01/zendure-superbase-v-is-the-ultimate-power-station?utm_medium=rss)
+ - [Ye&#39;s Twitter account is suspended after he tweeted a picture of a swastika merged with a Star of David; Elon Musk replied, saying he violated Twitter rules &lpar;Newley Purnell/Wall Street Journal&rpar;](http://www.techmeme.com/221202/p11#a221202p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
