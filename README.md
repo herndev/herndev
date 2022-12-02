@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Friday, December 2](https://www.pcgamer.com/wordle-531-answer-december-2)
  - [The Callisto Protocol’s best early-game weapon is easy to miss](https://www.polygon.com/guides/23488501/callisto-protocol-skunk-gun-schematic-location-shotgun-best-gun)
- - [What you should upgrade first in The Callisto Protocol](https://www.polygon.com/guides/23488152/callisto-protocol-best-upgrades-perks-skills-grp-baton-health-ammo-weapon)
- - [The Callisto Protocol is way more fun on easy mode](https://www.polygon.com/guides/23488078/callisto-protocol-difficulty-settings-easy-mode-minimum-security)<!-- GAME:END -->
+ - [What you should upgrade first in The Callisto Protocol](https://www.polygon.com/guides/23488152/callisto-protocol-best-upgrades-perks-skills-grp-baton-health-ammo-weapon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
