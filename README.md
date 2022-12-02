@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Darktide is the most detailed vision of Warhammer 40,000 we&#39;ve ever seen](https://www.pcgamer.com/darktide-is-the-most-detailed-vision-of-warhammer-40000-weve-ever-seen)
  - [Dungeons &amp; Dragons Ditches &#39;Race&#39;, Wants To Use &#39;Species&#39; Instead](https://kotaku.com/dungeons-dragons-d-d-race-species-racism-change-1849844249)
- - [The December PC game releases and events you should know about](https://www.pcgamer.com/pc-game-release-dates-december-2022)
- - [Uncharted Gets Roller Coaster Based On Movie Based On Game](https://kotaku.com/uncharted-movie-roller-coaster-dark-ride-spain-sony-1849844332)<!-- GAME:END -->
+ - [The December PC game releases and events you should know about](https://www.pcgamer.com/pc-game-release-dates-december-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
