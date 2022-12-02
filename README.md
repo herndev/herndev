@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
- - ⏩ [Your daily dose of history](http://9gag.com/gag/aBd85V2)
- - 👉 [BABE......](http://9gag.com/gag/adP9wod)<!-- MEMES:END -->
+ - 💣 [Raycism](http://9gag.com/gag/aKED566)
+ - ⏩ [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
+ - 👉 [At least for now..](http://9gag.com/gag/adP9AZj)<!-- MEMES:END -->
 
 ---
 
