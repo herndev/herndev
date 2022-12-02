@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 Things You May Have Missed in The Callisto Protocol Launch Trailer](https://news.xbox.com/en-us/2022/12/02/the-callisto-protocol-launch-post/)
- - [Pokémon Scarlet And Violet Contains One Of The Greatest Facts Of All Time](https://kotaku.com/pokemon-scarlet-and-violet-nintendo-switch-birthday-1849845841)
- - [Where to find God of War Ragnarök earliest Artifacts](https://www.polygon.com/god-of-war-ragnarok-guide/23433018/artifact-locations-kvasirs-poems-guide-svartalfheim-aflheim)<!-- GAME:END -->
+ - [Nintendo Says It ‘Cares’ About Smash Bros. Fans As Tournament Dispute Continues](https://kotaku.com/nintendo-switch-smash-bros-tournament-cancelled-panda-1849847260)
+ - [Transport Fever 2: Console Edition is Bringing the Full Transport Tycoon Cxperience to Xbox](https://news.xbox.com/en-us/2022/12/02/transport-fever-2-console-edition-preview/)
+ - [The Best And Worst Battle Passes Of 2022 From Overwatch 2 To Fortnite](https://kotaku.com/the-best-and-worst-battle-passes-of-2022-1849846941)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
