@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle answer and hint for Friday, December 2](https://www.pcgamer.com/wordle-531-answer-december-2)
- - [The Callisto Protocol’s best early-game weapon is easy to miss](https://www.polygon.com/guides/23488501/callisto-protocol-skunk-gun-schematic-location-shotgun-best-gun)
- - [What you should upgrade first in The Callisto Protocol](https://www.polygon.com/guides/23488152/callisto-protocol-best-upgrades-perks-skills-grp-baton-health-ammo-weapon)<!-- GAME:END -->
+ - [I&#39;ve already seen far too much of The Callisto Protocol&#39;s grisly death animations](https://www.pcgamer.com/ive-already-seen-far-too-much-of-the-callisto-protocols-grisly-death-animations)
+ - [Spider-Man: Miles Morales will stop honking an air horn during its most emotional scenes](https://www.pcgamer.com/spider-man-miles-morales-will-stop-honking-an-air-horn-during-its-most-emotional-scenes)
+ - [Destiny 2 and Assassin&#39;s Creed are doing a daft-looking crossover](https://www.pcgamer.com/destiny-2-and-assassins-creed-are-doing-a-daft-looking-crossover)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
