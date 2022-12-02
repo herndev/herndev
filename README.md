@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Guardians of the Galaxy visit some strange new places in Vol. 3’s official trailer](https://www.theverge.com/2022/12/1/23488818/guardians-of-the-galaxy-vol-3-official-trailer-marvel)
- - [The best video doorbell camera to buy right now](https://www.theverge.com/22954554/best-video-doorbell-camera)
- - [Amazon’s poached Mike Flanagan from Netflix with an exclusive TV production deal](https://www.theverge.com/2022/12/1/23488816/amazons-mike-flanagan-trevor-macy-intrepid-pictures-netflix)<!-- TECH:END -->
+ - [Netflix is expanding its early feedback program to more subscribers](https://www.theverge.com/2022/12/1/23488906/netflix-preview-club-early-screening-expansion)
+ - [Disney&#39;s New AI Can Make Your Favorite Actor Look Older or Younger     - CNET](https://www.cnet.com/culture/entertainment/disney-ai-can-make-your-favorite-actor-look-older-or-younger/#ftag=CAD590a51e)
+ - [US House committee report details how fintech companies, like Blueacorn, allegedly disbursed billions in fraudulent PPP loans, while collecting billions in fees &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/221201/p29#a221201p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
