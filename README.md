@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [David Harbour’s kick-ass Santa movie Violent Night ain’t replacing Die Hard anytime soon](https://www.polygon.com/reviews/23488667/violent-night-review-david-harbour-killer-santa)
- - [Asus ROG Swift PG42UQ](https://www.pcgamer.com/asus-rog-swift-pg42uq-gaming-monitor-review)
- - [I&#39;ve already seen far too much of The Callisto Protocol&#39;s grisly death animations](https://www.pcgamer.com/ive-already-seen-far-too-much-of-the-callisto-protocols-grisly-death-animations)<!-- GAME:END -->
+ - [Red Bull Capture Point 2022 winners announced, featuring Horizon Forbidden West and Gran Turismo 7](https://blog.playstation.com/2022/12/02/red-bull-capture-point-2022-winners-announced-featuring-horizon-forbidden-west-and-gran-turismo-7/)
+ - [Company of Heroes 3 will launch with mods ready for you to download](https://www.pcgamer.com/company-of-heroes-3-will-launch-with-mods-ready-for-you-to-download)
+ - [Hitman 3&#39;s winter roadmap sees the return of some familiar faces and invites you to murder them](https://www.pcgamer.com/hitman-3s-winter-roadmap-sees-the-return-of-some-familiar-faces-and-invites-you-to-murder-them)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
