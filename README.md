@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - ⏩ [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
- - 👉 [The reaction is priceless](http://9gag.com/gag/aeQeWPW)<!-- MEMES:END -->
+ - 💣 [...](http://9gag.com/gag/abvzL1B)
+ - ⏩ [Lord Commander](http://9gag.com/gag/abvzoBB)
+ - 👉 [On the blackout](http://9gag.com/gag/aeQeE1q)<!-- MEMES:END -->
 
 ---
 
