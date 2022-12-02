@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 2: $500 off Pro Display XDR, 21% off Peloton Bike, 10.2-inch iPad for $299, more](https://appleinsider.com/articles/22/12/02/daily-deals-dec-2-500-off-pro-display-xdr-21-off-peloton-bike-102-inch-ipad-for-299-more?utm_medium=rss)
- - [The trial of three Wirecard executives has begun, seeking to understand how the &amp;euro;24B startup imploded in June 2020, one of the largest frauds in German history &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/221202/p7#a221202p7)
- - [iPhone 15 Ultra rumors, what&#39;s left for Apple in 2022, Mastodon and social networks](https://appleinsider.com/articles/22/12/02/iphone-15-ultra-rumors-whats-left-for-apple-in-2022-mastodon-and-social-networks?utm_medium=rss)<!-- TECH:END -->
+ - [The Verge’s 2022 holiday gift guide for working from home](https://www.theverge.com/23381124/work-from-home-wfh-remote-office-holiday-gift-guide-2022-supplies-tech-gadgets)
+ - [OtterBox is out with new power banks for iPhone and Apple Watch](https://appleinsider.com/articles/22/12/02/otterbox-is-out-with-new-power-banks-for-iphone-and-apple-watch?utm_medium=rss)
+ - [Deathloop for PS5 is just $10 at Best Buy](https://www.theverge.com/2022/12/2/23487926/deathloop-ps5-elden-ring-apple-magic-keyboard-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
