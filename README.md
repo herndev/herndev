@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New World is finally cracking down on &#39;shell companies&#39; to stop players from monopolizing the fun](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)
- - [Why is this $10 Warzone skin one of the best selling things on Steam?](https://www.pcgamer.com/why-is-this-dollar10-warzone-skin-one-of-the-best-selling-things-on-steam)
- - [The best World of Warcraft: Dragonflight easter eggs](https://www.pcgamer.com/world-of-warcraft-easter-eggs)<!-- GAME:END -->
+ - [Uncharted Gets Roller Coaster Based On Movie Based On Game](https://kotaku.com/uncharted-movie-roller-coaster-dark-ride-spain-sony-1849844332)
+ - [Army Planned To Spend Millions On Twitch And Call Of Duty To Recruit Gen Z](https://kotaku.com/u-s-army-call-duty-twitch-ign-g4-swagg-stonemountain64-1849844389)
+ - [New World is finally cracking down on &#39;shell companies&#39; to stop players from monopolizing the fun](https://www.pcgamer.com/new-world-is-finally-cracking-down-on-shell-companies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
