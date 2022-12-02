@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Poll: Do you think we need a third smartphone platform?](https://www.androidauthority.com/third-smartphone-platform-poll-3243772/)
  - [MIUI 14 changelog leaks: What to expect from Xiaomi’s new skin](https://www.androidauthority.com/xiaomi-miui-14-3243760/)
- - [The Mandalorian Season 3: Release date, story, and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)
- - [Ye&#39;s Twitter account is suspended after he tweeted a picture of a swastika merged with a Star of David; Elon Musk replied, saying he violated Twitter rules &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221202/p2#a221202p2)<!-- TECH:END -->
+ - [The Mandalorian Season 3: Release date, story, and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
