@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;ve already seen far too much of The Callisto Protocol&#39;s grisly death animations](https://www.pcgamer.com/ive-already-seen-far-too-much-of-the-callisto-protocols-grisly-death-animations)
- - [Spider-Man: Miles Morales will stop honking an air horn during its most emotional scenes](https://www.pcgamer.com/spider-man-miles-morales-will-stop-honking-an-air-horn-during-its-most-emotional-scenes)
- - [Destiny 2 and Assassin&#39;s Creed are doing a daft-looking crossover](https://www.pcgamer.com/destiny-2-and-assassins-creed-are-doing-a-daft-looking-crossover)<!-- GAME:END -->
+ - [David Harbour’s kick-ass Santa movie Violent Night ain’t replacing Die Hard anytime soon](https://www.polygon.com/reviews/23488667/violent-night-review-david-harbour-killer-santa)
+ - [Asus ROG Swift PG42UQ](https://www.pcgamer.com/asus-rog-swift-pg42uq-gaming-monitor-review)
+ - [I&#39;ve already seen far too much of The Callisto Protocol&#39;s grisly death animations](https://www.pcgamer.com/ive-already-seen-far-too-much-of-the-callisto-protocols-grisly-death-animations)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
