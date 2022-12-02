@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Red Bull Capture Point 2022 winners announced, featuring Horizon Forbidden West and Gran Turismo 7](https://blog.playstation.com/2022/12/02/red-bull-capture-point-2022-winners-announced-featuring-horizon-forbidden-west-and-gran-turismo-7/)
- - [Company of Heroes 3 will launch with mods ready for you to download](https://www.pcgamer.com/company-of-heroes-3-will-launch-with-mods-ready-for-you-to-download)
- - [Hitman 3&#39;s winter roadmap sees the return of some familiar faces and invites you to murder them](https://www.pcgamer.com/hitman-3s-winter-roadmap-sees-the-return-of-some-familiar-faces-and-invites-you-to-murder-them)<!-- GAME:END -->
+ - [Gran Turismo 25th Anniversary and World Finals celebration continues with GT7](https://blog.playstation.com/2022/12/02/gran-turismo-25th-anniversary-and-world-finals-celebration-continues-with-gt7/)
+ - [Next Week on Xbox: New Games for December 5 to 9](https://news.xbox.com/en-us/2022/12/02/next-week-on-xbox-new-games-for-december-5-to-9/)
+ - [How to build a level 3 sandwich in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486287/level-3-sandwich-ingredients-recipes-herba-mystica-sparkling-power)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
