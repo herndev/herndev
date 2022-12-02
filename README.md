@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cant eat anything other than ice cream...](http://9gag.com/gag/ap9Q75D)
- - ⏩ [Mother of the Year](http://9gag.com/gag/aDYzLe9)
- - 👉 [She got silenced...](http://9gag.com/gag/aXnvzrd)<!-- MEMES:END -->
+ - 💣 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
+ - ⏩ [Your daily dose of history](http://9gag.com/gag/aBd85V2)
+ - 👉 [BABE......](http://9gag.com/gag/adP9wod)<!-- MEMES:END -->
 
 ---
 
