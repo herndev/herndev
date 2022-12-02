@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Callisto Protocol, The Kotaku Review](https://kotaku.com/callisto-protocol-review-dead-space-pc-ps5-goty-1849848054)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Chainsaw Man Voice Actor Says Makima Is More Than Just A ‘Dommy Mommy’](https://kotaku.com/chainsaw-man-anime-makima-voice-actor-suzie-yeung-1849825034)<!-- GAME:END -->
+ - [Play The Game Awards Nominees Today with Game Pass](https://news.xbox.com/en-us/2022/12/02/play-the-game-awards-nominees-today-with-game-pass/)
+ - [Genshin Impact goes to war against leakers, sues Discord to find leaker&#39;s real identity](https://www.pcgamer.com/genshin-impact-goes-to-war-against-leakers-sues-discord-to-find-leakers-real-identity)
+ - [Fortnite’s Chapter 3 ending event: when and how to watch](https://www.polygon.com/fortnite/23490273/fortnite-chapter-3-season-4-ending-event-how-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
