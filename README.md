@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
- - ⏩ [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
+ - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - ⏩ [...](http://9gag.com/gag/abvzL1B)
  - 👉 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)<!-- MEMES:END -->
 
 ---
