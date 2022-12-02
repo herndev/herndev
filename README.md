@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 shows and movies like Wednesday to watch after finishing the Netflix series](https://www.androidauthority.com/shows-and-movies-like-wednesday-3242646/)
- - [Ditch Your USB-A Dongle and Embrace the USB-C Life](https://www.wired.com/story/usb-c-dongle-rave/)
- - [Palmer Luckey&#39;s Anduril, which builds autonomous systems for the US military, raised nearly $1.5B at a $7B pre-money valuation, up from $4.2B in June 2021 &lpar;Richard Waters/Financial Times&rpar;](http://www.techmeme.com/221202/p5#a221202p5)<!-- TECH:END -->
+ - [Daily deals Dec. 2: $500 off Pro Display XDR, 21% off Peloton Bike, 10.2-inch iPad for $299, more](https://appleinsider.com/articles/22/12/02/daily-deals-dec-2-500-off-pro-display-xdr-21-off-peloton-bike-102-inch-ipad-for-299-more?utm_medium=rss)
+ - [The trial of three Wirecard executives has begun, seeking to understand how the &amp;euro;24B startup imploded in June 2020, one of the largest frauds in German history &lpar;Olaf Storbeck/Financial Times&rpar;](http://www.techmeme.com/221202/p7#a221202p7)
+ - [iPhone 15 Ultra rumors, what&#39;s left for Apple in 2022, Mastodon and social networks](https://appleinsider.com/articles/22/12/02/iphone-15-ultra-rumors-whats-left-for-apple-in-2022-mastodon-and-social-networks?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
