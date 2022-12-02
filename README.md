@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok and Bumble plan to use StopNCII.org&#39;s database of hashes of nude images and videos to block revenge porn; Meta has been using it since last year &lpar;Olivia Solon/Bloomberg&rpar;](http://www.techmeme.com/221202/p3#a221202p3)
- - [Daily Authority: 📺 YouTube’s 2022 top ten](https://www.androidauthority.com/daily-authority-december-2-2022-3243786/)
- - [Man used iPhone 14 satellite alerts to get rescued in Alaska](https://www.androidauthority.com/smartphone-satellite-emergency-iphone-alaska-man-3243237/)<!-- TECH:END -->
+ - [Victrola’s Portable Record Player Brings the Party Anywhere](https://www.wired.com/story/victrola-re-spin-rave/)
+ - [A Proactive Way to Detect Cancer at Its Earliest Stages](https://www.wired.com/story/making-cancer-reveal-itself/)
+ - [12 Best Sexy Gifts for Lovers &lpar;2022&rpar;: Heat Up the Holidays](https://www.wired.com/gallery/best-sex-gifts/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
