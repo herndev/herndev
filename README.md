@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Kanye West suspended from Twitter after posting a swastika](https://www.theverge.com/2022/12/2/23489557/kayne-west-twitter-suspended-swastika-elon-musk)
  - [Poll: Do you think we need a third smartphone platform?](https://www.androidauthority.com/third-smartphone-platform-poll-3243772/)
- - [MIUI 14 changelog leaks: What to expect from Xiaomi’s new skin](https://www.androidauthority.com/xiaomi-miui-14-3243760/)
- - [The Mandalorian Season 3: Release date, story, and everything else we know](https://www.androidauthority.com/the-mandalorian-season-3-3029747/)<!-- TECH:END -->
+ - [MIUI 14 changelog leaks: What to expect from Xiaomi’s new skin](https://www.androidauthority.com/xiaomi-miui-14-3243760/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
