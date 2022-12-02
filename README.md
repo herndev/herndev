@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ID@Xbox Winter Game Demo Event Heading Your Way](https://news.xbox.com/en-us/2022/12/02/idxbox-winter-game-demo-event-heading-your-way/)
- - [Blizzard Albany becomes second unionized studio at Activision Blizzard](https://www.polygon.com/23490063/activision-blizzard-albany-qa-union-vote-win)
- - [Destiny 2 Xur location and items, Dec. 2-6](https://www.polygon.com/destiny-2-guide-walkthrough/23490157/destiny-2-xur-location-items-dec-2-6)<!-- GAME:END -->
+ - [What The Callisto Protocol doesn’t teach you about its vague melee combat](https://www.polygon.com/guides/23490279/callisto-protocol-melee-combat-dodge-auto)
+ - [&#39;We don&#39;t want to be predatory&#39;—Darktide devs explain why they switched to an in-game currency to sell cosmetics](https://www.pcgamer.com/we-dont-want-to-be-predatorydarktide-devs-explain-why-they-switched-to-an-in-game-currency-to-sell-cosmetics)
+ - [Netflix Removed A Fan-Favorite JoJo’s Bizarre Adventure Scene To Avoid Disney’s Lawyers](https://kotaku.com/jojos-bizarre-adventure-netflix-mickey-mouse-disney-1849848197)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
