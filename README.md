@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Funny because its true](http://9gag.com/gag/aMEAWgG)
- - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 👉 [Alex Jones desperately tries to get Kanye West to clarify that he doesn&#39;t actually love Hitler ... but nope.](http://9gag.com/gag/aA0DNmo)<!-- MEMES:END -->
+ - 💣 [The witch, the lion and the audacity of this\u2026..](http://9gag.com/gag/a8q8Xq3)
+ - ⏩ [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
+ - 👉 [What the underground level of a car showroom looks like](http://9gag.com/gag/aWGqg73)<!-- MEMES:END -->
 
 ---
 
