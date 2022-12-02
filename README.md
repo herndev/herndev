@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One of my favorite videos of all time](http://9gag.com/gag/aWGqvj6)
- - ⏩ [Christmas is cumming](http://9gag.com/gag/aoKO4dX)
- - 👉 [A mall in Iran these days](http://9gag.com/gag/aWGq9yq)<!-- MEMES:END -->
+ - 💣 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
+ - ⏩ [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)
+ - 👉 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)<!-- MEMES:END -->
 
 ---
 
