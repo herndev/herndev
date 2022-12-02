@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Use GarageBand to remix Zedd&#39;s &#39;Clarity&#39; on it&#39;s ten-year anniversary](https://appleinsider.com/articles/22/12/02/use-garageband-to-remix-zedds-clarity-on-its-ten-year-anniversary?utm_medium=rss)
- - [Motorola’s Edge 30 Fusion is coming to the US in pink, and I don’t hate it](https://www.theverge.com/2022/12/2/23490142/motorola-edge-30-fusion-viva-magenta-pantone-color-of-the-year-2023)
- - [Amazon&#39;s senior VP of global media and entertainment Jeff Blackburn will leave in early 2023; Blackburn left Amazon in February 2021 and rejoined in May 2021 &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221202/p17#a221202p17)<!-- TECH:END -->
+ - [Mike Novogratz&#39;s Galaxy Digital agrees to buy high-security custodian GK8 from bankrupt crypto lender Celsius; Celsius acquired GK8 for $115M in late 2021 &lpar;Adam Morgan McCarthy/The Block&rpar;](http://www.techmeme.com/221202/p18#a221202p18)
+ - [The best deals on MacBooks right now](https://www.theverge.com/22399419/apple-macbook-air-pro-mac-mini-imac-deals)
+ - [Google Maps is available again on Wear OS 2 smartwatches &lpar;Update: Statement&rpar;](https://www.androidauthority.com/google-maps-wear-os-2-3241978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
