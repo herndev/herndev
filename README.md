@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What The Callisto Protocol doesn’t teach you about its vague melee combat](https://www.polygon.com/guides/23490279/callisto-protocol-melee-combat-dodge-auto)
- - [&#39;We don&#39;t want to be predatory&#39;—Darktide devs explain why they switched to an in-game currency to sell cosmetics](https://www.pcgamer.com/we-dont-want-to-be-predatorydarktide-devs-explain-why-they-switched-to-an-in-game-currency-to-sell-cosmetics)
- - [Netflix Removed A Fan-Favorite JoJo’s Bizarre Adventure Scene To Avoid Disney’s Lawyers](https://kotaku.com/jojos-bizarre-adventure-netflix-mickey-mouse-disney-1849848197)<!-- GAME:END -->
+ - [The Callisto Protocol, The Kotaku Review](https://kotaku.com/callisto-protocol-review-dead-space-pc-ps5-goty-1849848054)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Chainsaw Man Voice Actor Says Makima Is More Than Just A ‘Dommy Mommy’](https://kotaku.com/chainsaw-man-anime-makima-voice-actor-suzie-yeung-1849825034)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
