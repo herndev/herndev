@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He&#39;s already home making dinner.](http://9gag.com/gag/aBd8PeP)
- - ⏩ [Rick chases and catches particularly dangerous characters, and puts them in his prison, from which no one can escape, almost no one.](http://9gag.com/gag/a4oG5M6)
+ - 💣 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)
+ - ⏩ [The reaction is priceless](http://9gag.com/gag/aeQeWPW)
  - 👉 [If you hate people... just stay at home](http://9gag.com/gag/axo0PNL)<!-- MEMES:END -->
 
 ---
