@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gran Turismo 25th Anniversary and World Finals celebration continues with GT7](https://blog.playstation.com/2022/12/02/gran-turismo-25th-anniversary-and-world-finals-celebration-continues-with-gt7/)
- - [Next Week on Xbox: New Games for December 5 to 9](https://news.xbox.com/en-us/2022/12/02/next-week-on-xbox-new-games-for-december-5-to-9/)
- - [How to build a level 3 sandwich in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23486287/level-3-sandwich-ingredients-recipes-herba-mystica-sparkling-power)<!-- GAME:END -->
+ - [Gundam Evolution Launches Today on Xbox](https://news.xbox.com/en-us/2022/12/02/gundam-evolution-launch-post/)
+ - [Netflix’s Binge-Model Release of JoJo’s Bizarre Adventure: Stone Ocean Ruined The Anime’s Hype](https://kotaku.com/jojos-bizarre-adventure-stone-ocean-netflix-binge-watch-1849846467)
+ - [Why, yes, Black Panther can get to 689,730 power in Marvel Snap](https://www.polygon.com/23489800/marvel-snap-black-panther-deck-combo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
