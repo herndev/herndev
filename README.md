@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)
- - ⏩ [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 👉 [Arigato, Japan \ud83d\udc4c\ud83c\udffc](http://9gag.com/gag/aPg9zMq)<!-- MEMES:END -->
+ - 💣 [Hijacker hanging on for life. South Africa.](http://9gag.com/gag/a3ZMb9r)
+ - ⏩ [There\u2019s a lot of red flags here but I\u2019m ignoring all of them](http://9gag.com/gag/anzj0EL)
+ - 👉 [Is your pc natty?](http://9gag.com/gag/aOxBnNv)<!-- MEMES:END -->
 
 ---
 
