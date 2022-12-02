@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On the blackout](http://9gag.com/gag/aeQeE1q)
- - ⏩ [In time](http://9gag.com/gag/aYV4mPw)
- - 👉 [Father, ender of bloodlines](http://9gag.com/gag/aREj9W7)<!-- MEMES:END -->
+ - 💣 [No title](http://9gag.com/gag/aVbMRW8)
+ - ⏩ [Is your pc natty?](http://9gag.com/gag/aOxBnNv)
+ - 👉 [Product testing and efficacy is of cardinal importance to any concept.](http://9gag.com/gag/a8q8K36)<!-- MEMES:END -->
 
 ---
 
