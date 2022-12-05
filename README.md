@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Accurate](http://9gag.com/gag/a1PoeW2)
- - ⏩ [The Opera Cat](http://9gag.com/gag/a3ZK3vN)
- - 👉 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)<!-- MEMES:END -->
+ - 💣 [Encounter](http://9gag.com/gag/aVb3X9w)
+ - ⏩ [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
+ - 👉 [Last words](http://9gag.com/gag/a6qoLK9)<!-- MEMES:END -->
 
 ---
 
