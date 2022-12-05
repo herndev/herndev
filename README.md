@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Encounter](http://9gag.com/gag/aVb3X9w)
- - ⏩ [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
- - 👉 [Last words](http://9gag.com/gag/a6qoLK9)<!-- MEMES:END -->
+ - 💣 [English fan shouting \u2018Free Palestine\u2019 when being interviewed by Israeli Press](http://9gag.com/gag/avQOZeO)
+ - ⏩ [Title is Title, don&#39;t ask.](http://9gag.com/gag/a2Koqme)
+ - 👉 [They won&#39;t even know](http://9gag.com/gag/axo0pGL)<!-- MEMES:END -->
 
 ---
 
