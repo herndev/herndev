@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - ⏩ [New generation needs to know](http://9gag.com/gag/a2KoNnd)
- - 👉 [Who said they weren&#39;t useful?](http://9gag.com/gag/aeQM36B)<!-- MEMES:END -->
+ - 💣 [When you work at BLACK MESA nothing surprises you anymore](http://9gag.com/gag/aeQM3rp)
+ - ⏩ [Anyone else?](http://9gag.com/gag/a2KoEYd)
+ - 👉 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)<!-- MEMES:END -->
 
 ---
 
