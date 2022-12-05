@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
- - ⏩ [She is right, whether we like it or not.](http://9gag.com/gag/a04KY9d)
- - 👉 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)<!-- MEMES:END -->
+ - 💣 [What is the difference?](http://9gag.com/gag/agoYRpq)
+ - ⏩ [Almost... Almost...](http://9gag.com/gag/aGEjxOX)
+ - 👉 [Since Tu-22 is no longer in production then we should have total loss](http://9gag.com/gag/aqe7LNP)<!-- MEMES:END -->
 
 ---
 
