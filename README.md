@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - ⏩ [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)
- - 👉 [No](http://9gag.com/gag/az2XbBb)<!-- MEMES:END -->
+ - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
+ - ⏩ [New generation needs to know](http://9gag.com/gag/a2KoNnd)
+ - 👉 [Who said they weren&#39;t useful?](http://9gag.com/gag/aeQM36B)<!-- MEMES:END -->
 
 ---
 
