@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve’s Giving Away A Steam Deck Every Minute During The Game Awards](https://kotaku.com/free-steam-deck-giveaway-game-awards-2022-valve-1849849124)
- - [These incredible LAN party photos remind us how much work it used to be to play games together](https://www.pcgamer.com/these-incredible-lan-party-photos-remind-us-how-much-work-it-used-to-be-to-play-games-together)
- - [Victoria 3 designer on why communism is OP: &#39;We just implemented the mechanics the way we understood them&#39;](https://www.pcgamer.com/victoria-3-communism-op)<!-- GAME:END -->
+ - [Halo Infinite multiplayer creative director departs 343 Industries](https://www.pcgamer.com/halo-infinite-multiplayer-creative-director-departs-343-industries)
+ - [One of the NFL&#39;s best teams is full of Grand Theft Auto Online roleplayers](https://www.pcgamer.com/one-of-the-nfls-best-teams-is-full-of-grand-theft-auto-online-roleplayers)
+ - [The Last Of Us TV Show Gets Longer, Chattier Trailer](https://kotaku.com/the-last-of-us-tv-show-series-hbo-new-trailer-full-1849852483)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
