@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [English fan shouting \u2018Free Palestine\u2019 when being interviewed by Israeli Press](http://9gag.com/gag/avQOZeO)
- - ⏩ [Title is Title, don&#39;t ask.](http://9gag.com/gag/a2Koqme)
- - 👉 [They won&#39;t even know](http://9gag.com/gag/axo0pGL)<!-- MEMES:END -->
+ - 💣 [An Argentine reporter, after her wallet was stolen by a fan in Qatar, stated: `The police asked me how I want to punish the offender and choose between imprisoning him for 5 years or deporting him from the country immediately.`](http://9gag.com/gag/a4o7pXv)
+ - ⏩ [To ram open a steel reinforced door](http://9gag.com/gag/aRE3P6G)
+ - 👉 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
 
 ---
 
