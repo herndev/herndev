@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)
  - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [Shein will spend $15 million on ‘improving standards’ at factories after a report found labor violations](https://www.theverge.com/2022/12/5/23494891/shein-factories-improvement-labor-violations-investigation-ecommerce-fast-fashion)
- - [Why won’t The Callisto Protocol just let me fight zombies?](https://www.theverge.com/2022/12/5/23494186/callisto-protocol-graphics-gameplay-survival-horror)<!-- TECH:END -->
+ - [Pixel 7 phones are getting a VPN and call enhancements today](https://www.theverge.com/2022/12/5/23488942/google-pixel-7-pro-clear-calling-google-one-vpn-december-feature-drop)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
