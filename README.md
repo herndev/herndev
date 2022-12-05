@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Take an unofficial look at this official OnePlus 11 render](https://www.androidauthority.com/oneplus-11-design-3244394/)
- - [Survey of 8,000 young people in nine European countries finds 34% have pirated content, 27% reported trolling someone, 22% reported inciting violence, and more &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/221205/p5#a221205p5)
- - [Unlike Bernie Madoff, SBF has not confessed to any criminal conduct, arguing FTX&#39;s collapse was purely sloppiness, meaning a US prosecution could take some time &lpar;Ankush Khardori/New York Magazine&rpar;](http://www.techmeme.com/221205/p4#a221205p4)<!-- TECH:END -->
+ - [The Era of One-Shot, Multimillion-Dollar Genetic Cures Is Here](https://www.wired.com/story/the-era-of-one-shot-multi-million-dollar-genetic-cures-is-here/)
+ - [26 Gifts Ideas for Audiophiles and Music Lovers &lpar;2022&rpar;: Record Players, Speakers, Headphones](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
+ - [I Found the Perfect Replacement for Twitter. It’s LinkedIn](https://www.wired.com/story/twitter-alternatives-linkedin/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
