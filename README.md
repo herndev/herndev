@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Netflix Fantasy to Watch in December 2022     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-to-watch-in-december-2022/#ftag=CAD590a51e)
- - [The Biggest &#39;1899&#39; Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-biggest-1899-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
- - [Cyber Week Apple deals at B&amp;H end tonight, save up to $600 on MacBook Pro, Air, Mac mini](https://appleinsider.com/articles/22/12/02/cyber-week-apple-deals-at-bh-end-soon-save-up-to-600-on-macbook-pro-air-mac-mini?utm_medium=rss)<!-- TECH:END -->
+ - [A look at PostScript, Adobe&#39;s programming language for desktop publishing that debuted in 1984, as its source code is publicly released for the first time &lpar;David C. Brock/CHM&rpar;](http://www.techmeme.com/221205/p1#a221205p1)
+ - [Poll: Did you miss the Galaxy Note line this year?](https://www.androidauthority.com/miss-samsung-galaxy-note-this-year-poll-3243802/)
+ - [The Best Netflix Fantasy to Watch in December 2022     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-to-watch-in-december-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
