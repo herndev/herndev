@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade’s crush on Captain Marvel in Midnight Suns is just adorable](https://www.polygon.com/23495052/marvels-midnight-suns-romance-options-blade-captain-marvel-book-club-cutscenes)
- - [The German Empire Marches to Italy in a Free Expansion Today](https://news.xbox.com/en-us/2022/12/05/the-german-empire-marches-to-italy-in-a-free-expansion-today/)
- - [Genshin Impact Fans Who Waited Two Years For Its Most Annoying Character Are Stronger Than Me](https://kotaku.com/genshin-impact-hoyoverse-scaramouche-wanderer-playable-1849855040)<!-- GAME:END -->
+ - [Starfield will cost $70 as Microsoft raises its base price for new games in 2023](https://www.pcgamer.com/starfield-will-cost-dollar70-as-microsoft-raises-its-base-price-for-new-games-in-2023)
+ - [The first Disney Dreamlight Valley code is for a mysterious golden potato](https://www.pcgamer.com/disney-dreamlight-valley-codes-redeem)
+ - [300 QA Devs Unionize At Microsoft-Owned ZeniMax Studios](https://kotaku.com/microsoft-zenimax-bethesda-elder-scrolls-fallout-union-1849855756)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
