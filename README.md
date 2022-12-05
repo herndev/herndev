@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Raycism](http://9gag.com/gag/aKED566)
- - ⏩ [You can attend lectures at Harvard for free](http://9gag.com/gag/anzjZzn)
- - 👉 [At least for now..](http://9gag.com/gag/adP9AZj)<!-- MEMES:END -->
+ - 💣 [Footage of duke picking up the danish notes and handing it to graham arnold who then changes formations](http://9gag.com/gag/agoYzV6)
+ - ⏩ [One of the best and scariest movie scene ever](http://9gag.com/gag/a3ZM6Er)
+ - 👉 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)<!-- MEMES:END -->
 
 ---
 
