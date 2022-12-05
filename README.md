@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)
- - ⏩ [\u2026.](http://9gag.com/gag/amA2D59)
- - 👉 [Has he tried cutting interest rates?](http://9gag.com/gag/a8qoLO1)<!-- MEMES:END -->
+ - 💣 [I want this. Does that mean I&#39;m old?](http://9gag.com/gag/a6qomXm)
+ - ⏩ [Yes](http://9gag.com/gag/amA7qmj)
+ - 👉 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
 
 ---
 
