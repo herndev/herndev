@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Conquer a New Threat in Sniper Elite 5 –  Plus, a Free New DLC for All Players](https://news.xbox.com/en-us/2022/12/05/conquer-a-new-threat-in-sniper-elite-5-plus-a-free-new-dlc-for-all-players/)
- - [Blizzard bends on Overwatch 2 battle pass, makes next hero easier to unlock for free](https://www.pcgamer.com/blizzard-bends-on-overwatch-2-battle-pass-makes-next-hero-easier-to-unlock-for-free)
- - [Microsoft raising Xbox first-party game prices to $70](https://www.polygon.com/23494738/xbox-raising-game-prices-starfield-forza-motorsport-redfall-game-pass)<!-- GAME:END -->
+ - [The German Empire Marches to Italy in a Free Expansion Today](https://news.xbox.com/en-us/2022/12/05/the-german-empire-marches-to-italy-in-a-free-expansion-today/)
+ - [Genshin Impact Fans Who Waited Two Years For Its Most Annoying Character Are Stronger Than Me](https://kotaku.com/genshin-impact-hoyoverse-scaramouche-wanderer-playable-1849855040)
+ - [Gwent development is ending in 2024, but CD Projekt wants the community to take over](https://www.pcgamer.com/gwent-development-is-ending-in-2024-but-cd-projekt-wants-the-community-to-take-over)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
