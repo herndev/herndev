@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple reveals the top podcasts of 2022](https://appleinsider.com/articles/22/12/05/apple-reveals-the-top-podcasts-of-2022-in-various-categories?utm_medium=rss)
- - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)
- - [Microsoft says it has offered Sony a 10-year deal on new Call of Duty games](https://www.theverge.com/2022/12/5/23494886/microsoft-sony-10-year-call-of-duty-deal)<!-- TECH:END -->
+ - [How to find your Spotify Wrapped](https://www.theverge.com/23494919/spotify-wrapped-2022-how-to)
+ - [Google&#39;s latest Pixel drop brings VPN by Google and Clear Calling to Pixel 7 and 7 Pro, automatic speaker labels in the Recorder app to Pixel 6 or newer, more &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/221205/p21#a221205p21)
+ - [Google Photos tests new search function to let you find people by their face](https://www.androidauthority.com/google-photos-search-2-3244664/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
