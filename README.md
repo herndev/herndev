@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars Jedi: Survivor Leak Makes Early 2023 Look Like Mayhem](https://kotaku.com/star-wars-jedi-fallen-order-survivor-release-date-steam-1849853989)
- - [How to print The Rise of the Video Game Union zine](https://www.polygon.com/guides/23485970/video-game-union-zine-printing-instructions)
- - [The Witcher 3&#39;s &#39;next-gen&#39; update polishes an RPG that&#39;s aged like a fine Toussaint red](https://www.pcgamer.com/the-witcher-3s-next-gen-update-polishes-an-rpg-thats-aged-like-a-fine-toussaint-red)<!-- GAME:END -->
+ - [Conquer a New Threat in Sniper Elite 5 –  Plus, a Free New DLC for All Players](https://news.xbox.com/en-us/2022/12/05/conquer-a-new-threat-in-sniper-elite-5-plus-a-free-new-dlc-for-all-players/)
+ - [Blizzard bends on Overwatch 2 battle pass, makes next hero easier to unlock for free](https://www.pcgamer.com/blizzard-bends-on-overwatch-2-battle-pass-makes-next-hero-easier-to-unlock-for-free)
+ - [Microsoft raising Xbox first-party game prices to $70](https://www.polygon.com/23494738/xbox-raising-game-prices-starfield-forza-motorsport-redfall-game-pass)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
