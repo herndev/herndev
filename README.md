@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Authority level: legendary](http://9gag.com/gag/aMEA3zx)
- - ⏩ [German Shepherd and her smol friend](http://9gag.com/gag/ap920Np)
- - 👉 [Fine art, just amazing, how to create a piece of art](http://9gag.com/gag/amA700y)<!-- MEMES:END -->
+ - 💣 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
+ - ⏩ [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
+ - 👉 [No tip?](http://9gag.com/gag/aPgjw6P)<!-- MEMES:END -->
 
 ---
 
