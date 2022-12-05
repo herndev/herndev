@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Genshin Impact Wanderer build](https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche)
- - [The best TV shows of 2022](https://www.polygon.com/22927514/best-shows-2022-tv)
- - [Creators of Journey return to PlayStation with Sky: Children of the Light, out December 6](https://blog.playstation.com/2022/12/05/creators-of-journey-return-to-playstation-with-sky-children-of-the-light-out-december-6/)<!-- GAME:END -->
+ - [Everything you need to enjoy a gaming Christmas away from home](https://www.pcgamer.com/everything-you-need-to-enjoy-a-gaming-christmas-away-from-home)
+ - [Assassin’s Creed Valhalla’s Final Content Update, The Last Chapter, Out Now](https://news.xbox.com/en-us/2022/12/05/assassins-creed-valhalla-last-chapter-update/)
+ - [Callisto Protocol Devs Rush Out Patches For Busted PC And Xbox Versions, Promise More Updates](https://kotaku.com/callisto-protocol-ray-tracing-pc-ps5-series-x-patch-1849853589)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
