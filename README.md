@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: You think Android and iOS could do with competition](https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/)
- - [Nothing Phone &lpar;1&rpar; could come to the US -- but not soon](https://appleinsider.com/articles/22/12/05/nothing-phone-1-could-come-to-the-us----but-not-soon?utm_medium=rss)
- - [How to use background sounds in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-background-sounds-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
+ - [What was the best phone of 2022? Vote for your Reader’s Choice winner!](https://www.androidauthority.com/best-smartphone-2022-readers-choice-voting-3243941/)
+ - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
+ - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
