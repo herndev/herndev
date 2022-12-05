@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to cancel your PlayStation Plus subscription](https://www.androidauthority.com/how-to-cancel-playstation-plus-3244136/)
- - [Flash deals: 16-inch MacBook Pro falls to $1,989, 1TB model $2,289](https://appleinsider.com/articles/22/12/02/flash-deals-16-inch-macbook-pro-falls-to-1989-1tb-model-2289?utm_medium=rss)
- - [China is using phone trackers and other tools to track protestors, the first time mass surveillance has been directed at middle-class people in affluent cities &lpar;New York Times&rpar;](http://www.techmeme.com/221202/p19#a221202p19)<!-- TECH:END -->
+ - [&#39;The Midnight Club&#39;: The Full Ending Explained and Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-the-full-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)
+ - [15 STEM Toys Your Smarty-Pants Kids Will Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
+ - [The best New York subway apps for iPhone and iPad in 2022](https://appleinsider.com/articles/22/12/05/the-best-new-york-subway-apps-for-iphone-and-ipad-in-2022?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
