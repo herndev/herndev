@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`Oh no, you&#39;re fine!`](http://9gag.com/gag/aWG1OOq)
- - ⏩ [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
- - 👉 [She is right, whether we like it or not.](http://9gag.com/gag/a04KY9d)<!-- MEMES:END -->
+ - 💣 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)
+ - ⏩ [She is right, whether we like it or not.](http://9gag.com/gag/a04KY9d)
+ - 👉 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)<!-- MEMES:END -->
 
 ---
 
