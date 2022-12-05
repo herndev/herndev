@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The horror of Trump lives ‘very strongly’ in His Dark Materials’ S3](https://www.polygon.com/23489962/his-dark-materials-season-3-interview-trump)
- - [Firaxis pulled out all the stops to let a dying fan play Midnight Suns](https://www.pcgamer.com/firaxis-pulled-out-all-the-stops-to-let-a-dying-fan-play-midnight-suns)
- - [I just got Rickrolled by an electron-blasted silicon wafer](https://www.pcgamer.com/i-just-got-rickrolled-by-an-electron-blasted-silicon-wafer)<!-- GAME:END -->
+ - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-ceremony-date-time-vote-nominees-when-is)
+ - [How to win dragon races in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-dragon-racing-guide)
+ - [The horror of Trump lives ‘very strongly’ in His Dark Materials’ S3](https://www.polygon.com/23489962/his-dark-materials-season-3-interview-trump)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
