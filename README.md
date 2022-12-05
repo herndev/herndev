@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Era of One-Shot, Multimillion-Dollar Genetic Cures Is Here](https://www.wired.com/story/the-era-of-one-shot-multi-million-dollar-genetic-cures-is-here/)
- - [26 Gifts Ideas for Audiophiles and Music Lovers &lpar;2022&rpar;: Record Players, Speakers, Headphones](https://www.wired.com/gallery/gifts-for-music-lovers-audiophiles/)
- - [I Found the Perfect Replacement for Twitter. It’s LinkedIn](https://www.wired.com/story/twitter-alternatives-linkedin/)<!-- TECH:END -->
+ - [Please Stop Freaking Out About This Giant Yellow Spider](https://www.wired.com/story/please-stop-freaking-out-about-this-giant-yellow-spider/)
+ - [DJI Osmo Action 3 Review: Cheaper and Nearly as Good as a GoPro](https://www.wired.com/review/dji-osmo-action-3/)
+ - [2022 Game-of-the-Year Nominees Favored Indies With Animals](https://www.wired.com/story/game-of-the-year-2022-nominees-best-indie/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
