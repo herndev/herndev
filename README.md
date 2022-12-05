@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The Best Netflix Fantasy to Watch in December 2022     - CNET](https://www.cnet.com/culture/entertainment/the-best-netflix-fantasy-shows-to-watch-in-december-2022/#ftag=CAD590a51e)
  - [The Biggest &#39;1899&#39; Questions We Need Answered in Season 2     - CNET](https://www.cnet.com/culture/entertainment/the-biggest-1899-questions-we-need-answered-in-season-2/#ftag=CAD590a51e)
- - [Cyber Week Apple deals at B&amp;H end tonight, save up to $600 on MacBook Pro, Air, Mac mini](https://appleinsider.com/articles/22/12/02/cyber-week-apple-deals-at-bh-end-soon-save-up-to-600-on-macbook-pro-air-mac-mini?utm_medium=rss)
- - [Pokemon Scarlet and Violet: The Fastest Ways to Farm Exp. Points     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-the-fastest-ways-to-farm-exp-points/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Cyber Week Apple deals at B&amp;H end tonight, save up to $600 on MacBook Pro, Air, Mac mini](https://appleinsider.com/articles/22/12/02/cyber-week-apple-deals-at-bh-end-soon-save-up-to-600-on-macbook-pro-air-mac-mini?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
