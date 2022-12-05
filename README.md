@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Monday, December 5](https://www.pcgamer.com/wordle-534-answer-december-5)
  - [DLC-sized Skyrim mod adds fully voiced &#39;Bioware-style&#39; companions, over 9,000 lines of dialogue](https://www.pcgamer.com/dlc-sized-skyrim-mod-adds-fully-voiced-bioware-style-companions-over-9000-lines-of-dialogue)
- - [Five new Steam games you probably missed &lpar;December 5, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-5-2022)
- - [Very Good Air Horn Bug Has Sadly Been Patched Out Of Spider-Man: Miles Morales](https://kotaku.com/spider-man-air-horn-bug-funny-update-ps5-ps4-miles-1849852551)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 5, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-5-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
