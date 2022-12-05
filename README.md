@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Horrible video quality, but it makes it funnier to me.](http://9gag.com/gag/a4o7d1Z)
- - ⏩ [Anyone else?](http://9gag.com/gag/a2KoEYd)
- - 👉 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)<!-- MEMES:END -->
+ - ⏩ [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 👉 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
 
 ---
 
