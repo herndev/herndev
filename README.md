@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Horrible video quality, but it makes it funnier to me.](http://9gag.com/gag/a4o7d1Z)
- - ⏩ [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 👉 [Authority level difference](http://9gag.com/gag/abvM5gL)<!-- MEMES:END -->
+ - 💣 [Accurate](http://9gag.com/gag/a1PoeW2)
+ - ⏩ [The Opera Cat](http://9gag.com/gag/a3ZK3vN)
+ - 👉 [The moment you can&#39;t stop laughing](http://9gag.com/gag/aqe7NqR)<!-- MEMES:END -->
 
 ---
 
