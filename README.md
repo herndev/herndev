@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;The Midnight Club&#39;: The Full Ending Explained and Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-midnight-club-the-full-ending-explained-and-your-questions-answered/#ftag=CAD590a51e)
- - [15 STEM Toys Your Smarty-Pants Kids Will Love     - CNET](https://www.cnet.com/culture/entertainment/stem-toys/#ftag=CAD590a51e)
- - [The best New York subway apps for iPhone and iPad in 2022](https://appleinsider.com/articles/22/12/05/the-best-new-york-subway-apps-for-iphone-and-ipad-in-2022?utm_medium=rss)<!-- TECH:END -->
+ - [Cyber Week Apple deals at B&amp;H end tonight, save up to $600 on MacBook Pro, Air, Mac mini](https://appleinsider.com/articles/22/12/02/cyber-week-apple-deals-at-bh-end-soon-save-up-to-600-on-macbook-pro-air-mac-mini?utm_medium=rss)
+ - [Pokemon Scarlet and Violet: The Fastest Ways to Farm Exp. Points     - CNET](https://www.cnet.com/tech/gaming/pokemon-scarlet-and-violet-the-fastest-ways-to-farm-exp-points/#ftag=CAD590a51e)
+ - [The Best Netflix Sci-Fi Movies to Watch in December 2022     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
