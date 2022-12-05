@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Starfield will cost $70 as Microsoft raises its base price for new games in 2023](https://www.pcgamer.com/starfield-will-cost-dollar70-as-microsoft-raises-its-base-price-for-new-games-in-2023)
- - [The first Disney Dreamlight Valley code is for a mysterious golden potato](https://www.pcgamer.com/disney-dreamlight-valley-codes-redeem)
- - [300 QA Devs Unionize At Microsoft-Owned ZeniMax Studios](https://kotaku.com/microsoft-zenimax-bethesda-elder-scrolls-fallout-union-1849855756)<!-- GAME:END -->
+ - [Riot’s League of Legends fighting game has a very deep tag system](https://www.polygon.com/23494770/riot-games-project-l-fighting-game-tag-system)
+ - [GameStop Gets Into Holiday Spirit With More Layoffs](https://kotaku.com/gamestop-layoffs-meme-stock-crypto-blockchain-1849856122)
+ - [After Backlash, Overwatch 2&#39;s New Tank Will Be Easier To Unlock For Free](https://kotaku.com/overwatch-2-new-hero-unlock-ramattra-season-2-battle-pa-1849856021)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
