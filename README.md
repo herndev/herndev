@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - ⏩ [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - 👉 [One of the best and scariest movie scene ever](http://9gag.com/gag/a3ZM6Er)<!-- MEMES:END -->
+ - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
+ - ⏩ [No tip?](http://9gag.com/gag/aPgjw6P)
+ - 👉 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
 
 ---
 
