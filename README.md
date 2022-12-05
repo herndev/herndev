@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No tip?](http://9gag.com/gag/aPgjw6P)
- - ⏩ [Yes](http://9gag.com/gag/amA7qmj)
- - 👉 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
+ - 💣 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - ⏩ [Manager prevents employee from bumping head on counter](http://9gag.com/gag/aeQeLQB)
+ - 👉 [No](http://9gag.com/gag/az2XbBb)<!-- MEMES:END -->
 
 ---
 
