@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [December Pixel feature drop incoming: Here’s what’s new across Google’s devices](https://www.androidauthority.com/google-pixel-feature-drop-december-2022-3244376/)
- - [Apple Podcasts’ top shows of the year show true crime reigns supreme](https://www.theverge.com/2022/12/5/23494646/apple-podcasts-top-shows-2022-charts-released-true-crime)<!-- TECH:END -->
+ - [Apple considering shift of some iPad production into India](https://appleinsider.com/articles/22/12/05/apple-considering-shift-of-some-ipad-production-into-india?utm_medium=rss)
+ - [Now you won’t have to get a Real ID for two more years](https://www.theverge.com/2022/12/5/23494552/real-id-deadline-delay-2025)
+ - [Microsoft to raise Xbox first-party game prices from $60 to $70 in 2023](https://www.theverge.com/2022/12/5/23494765/microsoft-xbox-game-price-increase-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
