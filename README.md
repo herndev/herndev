@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to find your Spotify Wrapped](https://www.theverge.com/23494919/spotify-wrapped-2022-how-to)
- - [Google&#39;s latest Pixel drop brings VPN by Google and Clear Calling to Pixel 7 and 7 Pro, automatic speaker labels in the Recorder app to Pixel 6 or newer, more &lpar;Paul Thurrott/Thurrott&rpar;](http://www.techmeme.com/221205/p21#a221205p21)
- - [Google Photos tests new search function to let you find people by their face](https://www.androidauthority.com/google-photos-search-2-3244664/)<!-- TECH:END -->
+ - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
+ - [Shein will spend $15 million on ‘improving standards’ at factories after a report found labor violations](https://www.theverge.com/2022/12/5/23494891/shein-factories-improvement-labor-violations-investigation-ecommerce-fast-fashion)
+ - [Why won’t The Callisto Protocol just let me fight zombies?](https://www.theverge.com/2022/12/5/23494186/callisto-protocol-graphics-gameplay-survival-horror)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
