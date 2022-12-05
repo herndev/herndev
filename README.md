@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
- - ⏩ [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
- - 👉 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
+ - 💣 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)
+ - ⏩ [\u2026.](http://9gag.com/gag/amA2D59)
+ - 👉 [Has he tried cutting interest rates?](http://9gag.com/gag/a8qoLO1)<!-- MEMES:END -->
 
 ---
 
