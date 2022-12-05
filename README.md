@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Everything you need to enjoy a gaming Christmas away from home](https://www.pcgamer.com/everything-you-need-to-enjoy-a-gaming-christmas-away-from-home)
- - [Assassin’s Creed Valhalla’s Final Content Update, The Last Chapter, Out Now](https://news.xbox.com/en-us/2022/12/05/assassins-creed-valhalla-last-chapter-update/)
- - [Callisto Protocol Devs Rush Out Patches For Busted PC And Xbox Versions, Promise More Updates](https://kotaku.com/callisto-protocol-ray-tracing-pc-ps5-series-x-patch-1849853589)<!-- GAME:END -->
+ - [You could call this Dungeons &amp; Dragons movie trailer ‘Monsters &amp; Jokes’](https://www.polygon.com/23494315/dungeons-and-dragons-trailer-ccxp-dnd)
+ - [Xgimi Horizon Pro](https://www.pcgamer.com/xgimi-horizon-pro)
+ - [Where to get Bloody Tokens in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-bloody-tokens)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
