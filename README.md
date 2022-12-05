@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [Sam Bankman-Fried says he will testify before Congress on FTX collapse](https://www.theverge.com/2022/12/5/23494439/ftx-sam-bankman-fried-sbf-collapse-cryptocurrency-exchange-hearing-congress)
- - [The dark, uncertain world of creator funds](https://www.theverge.com/23494240/tiktok-snapchat-creator-funds-podcast-vergecast)<!-- TECH:END -->
+ - [December Pixel feature drop incoming: Here’s what’s new across Google’s devices](https://www.androidauthority.com/google-pixel-feature-drop-december-2022-3244376/)
+ - [Apple Podcasts’ top shows of the year show true crime reigns supreme](https://www.theverge.com/2022/12/5/23494646/apple-podcasts-top-shows-2022-charts-released-true-crime)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
