@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - ⏩ [No tip?](http://9gag.com/gag/aPgjw6P)
- - 👉 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
+ - 💣 [Authority level: legendary](http://9gag.com/gag/aMEA3zx)
+ - ⏩ [German Shepherd and her smol friend](http://9gag.com/gag/ap920Np)
+ - 👉 [Fine art, just amazing, how to create a piece of art](http://9gag.com/gag/amA700y)<!-- MEMES:END -->
 
 ---
 
