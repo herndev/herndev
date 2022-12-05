@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Secret Service report: China-linked APT41 hackers stole $20M+ in US COVID-19 relief benefits, the first example of pandemic fraud by state-affiliated hackers &lpar;NBC News&rpar;](http://www.techmeme.com/221205/p11#a221205p11)
- - [The first trailer for The Boys spinoff Gen V looks as gory as the original show](https://www.theverge.com/23494022/gen-v-the-boys-amazon-prime-trailer)
- - [Seeking to emulate BlackRock&#39;s Aladdin platform, State Street, Pimco, Amundi, and others are creating and commercializing their own digital investment platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/221205/p10#a221205p10)<!-- TECH:END -->
+ - [You told us: You think Android and iOS could do with competition](https://www.androidauthority.com/android-ios-third-platform-poll-results-3244361/)
+ - [Nothing Phone &lpar;1&rpar; could come to the US -- but not soon](https://appleinsider.com/articles/22/12/05/nothing-phone-1-could-come-to-the-us----but-not-soon?utm_medium=rss)
+ - [How to use background sounds in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-to-use-background-sounds-in-macos-ventura?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
