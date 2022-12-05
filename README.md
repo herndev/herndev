@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
- - ⏩ [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
- - 👉 [\u2026.](http://9gag.com/gag/amA2D59)<!-- MEMES:END -->
+ - 💣 [Horrible video quality, but it makes it funnier to me.](http://9gag.com/gag/a4o7d1Z)
+ - ⏩ [Anyone else?](http://9gag.com/gag/a2KoEYd)
+ - 👉 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)<!-- MEMES:END -->
 
 ---
 
