@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
- - ⏩ [Welp seems like Mongolia has had enough of its corruption. Today on December 5th people had enough of the corrupt government and crashed into the government palace.](http://9gag.com/gag/aQE34y2)
- - 👉 [Yeeted to next life](http://9gag.com/gag/aEqx13G)<!-- MEMES:END -->
+ - 💣 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
+ - ⏩ [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - 👉 [\u2026.](http://9gag.com/gag/amA2D59)<!-- MEMES:END -->
 
 ---
 
