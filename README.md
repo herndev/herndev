@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Please Stop Freaking Out About This Giant Yellow Spider](https://www.wired.com/story/please-stop-freaking-out-about-this-giant-yellow-spider/)
- - [DJI Osmo Action 3 Review: Cheaper and Nearly as Good as a GoPro](https://www.wired.com/review/dji-osmo-action-3/)
- - [2022 Game-of-the-Year Nominees Favored Indies With Animals](https://www.wired.com/story/game-of-the-year-2022-nominees-best-indie/)<!-- TECH:END -->
+ - [Secret Service report: China-linked APT41 hackers stole $20M+ in US COVID-19 relief benefits, the first example of pandemic fraud by state-affiliated hackers &lpar;NBC News&rpar;](http://www.techmeme.com/221205/p11#a221205p11)
+ - [The first trailer for The Boys spinoff Gen V looks as gory as the original show](https://www.theverge.com/23494022/gen-v-the-boys-amazon-prime-trailer)
+ - [Seeking to emulate BlackRock&#39;s Aladdin platform, State Street, Pimco, Amundi, and others are creating and commercializing their own digital investment platforms &lpar;Financial Times&rpar;](http://www.techmeme.com/221205/p10#a221205p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
