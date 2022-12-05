@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Footage of duke picking up the danish notes and handing it to graham arnold who then changes formations](http://9gag.com/gag/agoYzV6)
- - ⏩ [One of the best and scariest movie scene ever](http://9gag.com/gag/a3ZM6Er)
- - 👉 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)<!-- MEMES:END -->
+ - 💣 [No tip?](http://9gag.com/gag/aPgjw6P)
+ - ⏩ [Yes](http://9gag.com/gag/amA7qmj)
+ - 👉 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)<!-- MEMES:END -->
 
 ---
 
