@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I want this. Does that mean I&#39;m old?](http://9gag.com/gag/a6qomXm)
- - ⏩ [Yes](http://9gag.com/gag/amA7qmj)
- - 👉 [Never forget the Christmas Truce of 1914.](http://9gag.com/gag/a4o74LZ)<!-- MEMES:END -->
+ - 💣 [Fun facts about South Korea](http://9gag.com/gag/ajVEYOq)
+ - ⏩ [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
+ - 👉 [One of the best and scariest movie scene ever](http://9gag.com/gag/a3ZM6Er)<!-- MEMES:END -->
 
 ---
 
