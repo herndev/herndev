@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Steve Aoki &lpar;DJ&rpar; threw a cake 80 ft and hit boy in wheel chair...](http://9gag.com/gag/aREjnAQ)
- - ⏩ [Super mom saves kid from a raccoon\u2026 and gives it a good toss](http://9gag.com/gag/aeQeX7j)
- - 👉 [No tip?](http://9gag.com/gag/aPgjw6P)<!-- MEMES:END -->
+ - 💣 [27 year old virgins first kiss](http://9gag.com/gag/adP9EDN)
+ - ⏩ [Welp seems like Mongolia has had enough of its corruption. Today on December 5th people had enough of the corrupt government and crashed into the government palace.](http://9gag.com/gag/aQE34y2)
+ - 👉 [Yeeted to next life](http://9gag.com/gag/aEqx13G)<!-- MEMES:END -->
 
 ---
 
