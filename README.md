@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-ceremony-date-time-vote-nominees-when-is)
- - [How to win dragon races in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-dragon-racing-guide)
- - [The horror of Trump lives ‘very strongly’ in His Dark Materials’ S3](https://www.polygon.com/23489962/his-dark-materials-season-3-interview-trump)<!-- GAME:END -->
+ - [The best Genshin Impact Wanderer build](https://www.pcgamer.com/genshin-impact-wanderer-build-scaramouche)
+ - [The best TV shows of 2022](https://www.polygon.com/22927514/best-shows-2022-tv)
+ - [Creators of Journey return to PlayStation with Sky: Children of the Light, out December 6](https://blog.playstation.com/2022/12/05/creators-of-journey-return-to-playstation-with-sky-children-of-the-light-out-december-6/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
