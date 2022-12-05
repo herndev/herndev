@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple considering shift of some iPad production into India](https://appleinsider.com/articles/22/12/05/apple-considering-shift-of-some-ipad-production-into-india?utm_medium=rss)
- - [Now you won’t have to get a Real ID for two more years](https://www.theverge.com/2022/12/5/23494552/real-id-deadline-delay-2025)
- - [Microsoft to raise Xbox first-party game prices from $60 to $70 in 2023](https://www.theverge.com/2022/12/5/23494765/microsoft-xbox-game-price-increase-2023)<!-- TECH:END -->
+ - [Apple reveals the top podcasts of 2022](https://appleinsider.com/articles/22/12/05/apple-reveals-the-top-podcasts-of-2022-in-various-categories?utm_medium=rss)
+ - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)
+ - [Microsoft says it has offered Sony a 10-year deal on new Call of Duty games](https://www.theverge.com/2022/12/5/23494886/microsoft-sony-10-year-call-of-duty-deal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
