@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you work at BLACK MESA nothing surprises you anymore](http://9gag.com/gag/aeQM3rp)
- - ⏩ [Anyone else?](http://9gag.com/gag/a2KoEYd)
- - 👉 [How your baggage is handled](http://9gag.com/gag/aA0D8dE)<!-- MEMES:END -->
+ - 💣 [Jesus f**king christ!](http://9gag.com/gag/az2qpWp)
+ - ⏩ [Natural beaty is for p*ssies!](http://9gag.com/gag/aA0Dj9d)
+ - 👉 [Anyone else?](http://9gag.com/gag/a2KoEYd)<!-- MEMES:END -->
 
 ---
 
