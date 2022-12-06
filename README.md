@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Latest Intel Arc beta driver boosts GPU performance in 13 games](https://www.pcgamer.com/latest-intel-arc-beta-driver-boosts-gpu-performance-in-13-games)
- - [The Best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories-right-now)
- - [The best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories)<!-- GAME:END -->
+ - [Phishing scammers impersonate Whatsapp by buying a top ad spot on Google](https://www.pcgamer.com/whatsapp-web-china-scam-phishing)
+ - [Valheim&#39;s massive Mistlands update now live for all players](https://www.pcgamer.com/valheims-massive-mistlands-update-now-live-for-all-players)
+ - [How to complete The Raven and the Cuckoo and close the last chapter of Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-the-raven-and-the-cuckoo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
