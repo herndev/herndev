@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily deals Dec. 6: $500 off M1 13-inch MacBook Pro, $269 2021 10.2-inch iPad, Up to 32% off Cricut Explore Air 2, more](https://appleinsider.com/articles/22/12/06/daily-deals-dec-6-500-off-m1-13-inch-macbook-pro-269-2021-102-inch-ipad-up-to-32-off-cricut-explore-air-2-more?utm_medium=rss)
- - [HBO &amp; Discovery may have settled on &#39;Max&#39; for combined streaming name](https://appleinsider.com/articles/22/12/06/hbo-discovery-may-have-settled-on-max-for-combined-streaming-name?utm_medium=rss)
- - [A Good Fountain Pen—Like the Lamy 2000—Lets You Enjoy the Finer Things in Life](https://www.wired.com/story/lamy-2000-fountain-pen-rave/)<!-- TECH:END -->
+ - [Rad Trike is a new three-wheeled car replacement from Rad Power](https://www.androidauthority.com/rad-power-rad-trike-3244526/)
+ - [New Pixelmator Pro update adds limited video editing tools](https://appleinsider.com/articles/22/12/06/new-pixelmator-pro-update-adds-limited-video-editing-tools?utm_medium=rss)
+ - [Tony Fadell Is Trying to Build the iPod of Crypto](https://www.wired.com/story/tony-fadell-is-trying-to-build-the-ipod-of-crypto-ledger-stax/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
