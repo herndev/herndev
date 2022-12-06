@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)
- - ⏩ [Now im pith off](http://9gag.com/gag/aqe77bR)
- - 👉 [Airport Kursk. 6 December.](http://9gag.com/gag/aXnxxy9)<!-- MEMES:END -->
+ - 💣 [Now im pith off](http://9gag.com/gag/aqe77bR)
+ - ⏩ [We live in a world!](http://9gag.com/gag/a04KpDd)
+ - 👉 [This brings joy...](http://9gag.com/gag/axo10rK)<!-- MEMES:END -->
 
 ---
 
