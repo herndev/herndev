@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - ⏩ [Sigma male commented](http://9gag.com/gag/az2XryK)
- - 👉 [New year resolutions &lpar;sorry for low quality&rpar;](http://9gag.com/gag/aKEjDB3)<!-- MEMES:END -->
+ - 💣 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
+ - ⏩ [My absolut favorit winter Meme](http://9gag.com/gag/aWG1M1d)
+ - 👉 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)<!-- MEMES:END -->
 
 ---
 
