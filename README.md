@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Crisis Core: Final Fantasy 7 Reunion is a vital reimagining in the revered saga](https://www.polygon.com/reviews/23494351/crisis-core-final-fantasy-7-reunion-review-release-date-square-enix-ff7)
  - [Today&#39;s Wordle answer and hint for Tuesday, December 6](https://www.pcgamer.com/wordle-535-answer-december-6)
- - [ASRock Z790 LiveMixer](https://www.pcgamer.com/asrock-z790-livemixer-motherboard-review-performance-benchmarks)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/05/this-weeks-deals-with-gold-and-spotlight-sale-254/)<!-- GAME:END -->
+ - [ASRock Z790 LiveMixer](https://www.pcgamer.com/asrock-z790-livemixer-motherboard-review-performance-benchmarks)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
