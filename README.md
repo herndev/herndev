@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based Chattermill, which analyzes customer feedback data across channels to give companies actionable insights, raised a $26M Series B led by Beringea &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221206/p3#a221206p3)
- - [Some laid-off tech workers on H-1B visas from Meta, Shopify, Twitter, and other tech companies say they didn&#39;t get adequate immigration support from companies &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/221206/p2#a221206p2)
- - [Poll: How do you share files between your PC and phone?](https://www.androidauthority.com/share-files-pc-phone-poll-3244355/)<!-- TECH:END -->
+ - [Google Search brings continuous scrolling to desktop](https://www.theverge.com/2022/12/6/23495973/google-search-desktop-continuous-scrolling)
+ - [Daily Authority: 📱 Pick your phone of the year](https://www.androidauthority.com/daily-authority-december-6-2022-3244507/)
+ - [Apple’s DIY repair service launches in Europe](https://www.theverge.com/2022/12/6/23495979/apple-iphone-diy-repair-self-service-program-europe-spare-parts-12-13-macbook)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
