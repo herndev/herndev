@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s RX 7900 XT/X reference cards reportedly not shipping to China because the packaging says &#39;Made in Taiwan&#39;](https://www.pcgamer.com/amds-rx-7900-xtx-reference-cards-reportedly-not-shipping-to-china-because-the-packaging-says-made-in-taiwan)
- - [Pokémon Scarlet And Violet’s Passive EXP Hack Feels Too Cruel To Use](https://kotaku.com/pokemon-scarlet-violet-passive-exp-hack-tips-how-to-1849858758)
- - [Samsung&#39;s new GDDR7 graphics memory delivers 50% more bandwidth thanks to PAM](https://www.pcgamer.com/samsungs-new-gddr7-graphics-memory-delivers-50-more-bandwidth-thanks-to-pam)<!-- GAME:END -->
+ - [PlayStation Plus’ December games are Mass Effect and a new multiplayer brawler](https://www.polygon.com/23484042/playstation-plus-december-2022-games-essentials-ps4-ps5-mass-effect-biomutant)
+ - [Hunt for Sorcerer Skulls in Conan Exiles: Age of Sorcery — Chapter 2](https://news.xbox.com/en-us/2022/12/06/hunt-for-sorcerer-skulls-in-conan-exiles-age-of-sorcery-chapter-2/)
+ - [Charlie Chaplin videogames are coming, with an unfortunate twist](https://www.pcgamer.com/charlie-chaplin-videogames-are-coming-with-an-unfortunate-twist)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
