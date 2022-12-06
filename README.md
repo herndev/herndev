@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Are you a fan of The Chosen? Here are 7 other shows to watch next](https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/)
- - [Apple expands the pricing options for subscription app developers by 700 price points, from $0.29 to $10K, the top 100 of which are available only upon request &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221206/p39#a221206p39)
- - [Tuesday’s top tech news: Apple’s DIY repair service comes to Europe](https://www.theverge.com/2022/12/6/23495999/december-6-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Samsung Galaxy Z Fold 4’s December 2022 security patch comes to the US](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
+ - [Apple still can’t figure out what kind of car it wants to make](https://www.theverge.com/2022/12/6/23496789/apple-car-cost-self-driving-project-titan)
+ - [New Apple Car rumor suggests 2026 debut at less than $100,000](https://appleinsider.com/articles/22/12/06/new-apple-car-rumor-suggests-2026-debut-at-less-than-100000?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
