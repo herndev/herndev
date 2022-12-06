@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)
- - [Sources: Microsoft recently considered building a &quot;super app&quot; combining shopping, messaging, search, news, and other services, drawing inspiration from WeChat &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/221206/p34#a221206p34)
- - [The FTC is investigating crypto firms for possible misconduct following FTX collapse](https://www.theverge.com/2022/12/6/23496423/ftx-crypto-sam-bankman-fried-ftc-tom-brady-steph-curry-investigation)<!-- TECH:END -->
+ - [Deals: Apple&#39;s M1 MacBook Pro drops to $999, save up to $500](https://appleinsider.com/articles/22/12/06/deals-apples-m1-macbook-pro-drops-to-999-save-up-to-500?utm_medium=rss)
+ - [Apple adding hundreds of App Store price points, as low as $0.29](https://appleinsider.com/articles/22/12/06/apple-adding-hundreds-of-app-store-price-points-as-low-as-029?utm_medium=rss)
+ - [You can save $30 on Disney Plus by signing up today before the price hike](https://www.theverge.com/2022/12/6/23496287/disney-plus-price-hike-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
