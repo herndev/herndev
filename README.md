@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy Z Fold 4’s December 2022 security patch comes to the US](https://www.androidauthority.com/samsung-galaxy-z-fold-4-updates-3215169/)
- - [Apple still can’t figure out what kind of car it wants to make](https://www.theverge.com/2022/12/6/23496789/apple-car-cost-self-driving-project-titan)
- - [New Apple Car rumor suggests 2026 debut at less than $100,000](https://appleinsider.com/articles/22/12/06/new-apple-car-rumor-suggests-2026-debut-at-less-than-100000?utm_medium=rss)<!-- TECH:END -->
+ - [Apple CEO Tim Cook confirms the company will use chips made in Arizona](https://appleinsider.com/articles/22/12/06/apple-ceo-tim-cook-confirms-the-company-will-use-chips-made-in-arizona?utm_medium=rss)
+ - [Ford is demanding its dealers get serious about EVs — two-thirds say they’re in](https://www.theverge.com/2022/12/6/23496960/ford-ev-dealer-investment-certification-charging)
+ - [Apple Music Sing Adds &#39;Karaoke Mode&#39; to Streaming Songs](https://www.wired.com/story/apple-music-sing/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
