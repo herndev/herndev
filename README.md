@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft&#39;s President discusses the FTC opposing the Activision Blizzard acquisition and says the company offered Sony a 10-year Call of Duty licensing deal &lpar;Brad Smith/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p12#a221206p12)
- - [Google brings continuous scrolling to desktop in English in the US, loading six pages of results, following a similar change on mobile in October 2021 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221206/p11#a221206p11)
- - [Waze gets built-in car app for the first time](https://www.theverge.com/2022/12/6/23495989/waze-built-in-car-app-renault-partnership)<!-- TECH:END -->
+ - [Singapore-based Osome, a &quot;super app&quot; for corporate services, raised a $25M Series B, after a $16M Series A in June 2021, and says it serves 11K+ companies &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221206/p17#a221206p17)
+ - [Park Rangers Are Using Silent Ebikes to Catch Poachers](https://www.wired.com/story/anti-poaching-ebikes/)
+ - [Stormzy Has Built a Last-of-Its-Kind Social Media Empire](https://www.wired.com/story/stormzy-merky-twitter-tiktok-music/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
