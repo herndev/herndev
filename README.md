@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a goal!](http://9gag.com/gag/a4o7jYv)
- - ⏩ [Goodbye mate](http://9gag.com/gag/amA79oy)
- - 👉 [How Sierpinski&#39;s Triangle - a famous fractal - originates from a simple rule](http://9gag.com/gag/aYVgwRx)<!-- MEMES:END -->
+ - 💣 [What is the difference?](http://9gag.com/gag/agoYRpq)
+ - ⏩ [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - 👉 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 ---
 
