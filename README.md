@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Choose difficulty](http://9gag.com/gag/aNw1Z83)
- - ⏩ [Some good news!](http://9gag.com/gag/aQE39oz)
- - 👉 [Nobody reads this](http://9gag.com/gag/aoKN152)<!-- MEMES:END -->
+ - 💣 [Found this on way to work. True NCR legend](http://9gag.com/gag/amA7Xp4)
+ - ⏩ [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - 👉 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 ---
 
