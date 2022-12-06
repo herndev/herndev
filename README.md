@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This MacBook Pro 13-inch with 16GB RAM, 512GB SSD is $899 today only](https://appleinsider.com/articles/22/12/05/this-macbook-pro-13-inch-with-16gb-ram-512gb-ssd-is-899-today-only?utm_medium=rss)
- - [Monday’s top tech news: OpenAI’s chatbot doesn’t have all the answers... yet](https://www.theverge.com/2022/12/5/23494291/tech-news-december-5-2022-liveblog)
- - [Pixel 7 phones are getting a VPN and call enhancements today](https://www.theverge.com/2022/12/5/23488942/google-pixel-7-pro-clear-calling-google-one-vpn-december-feature-drop)<!-- TECH:END -->
+ - [Neuralink Under Investigation for Potential Violation of Animal Welfare Act, Report Says     - CNET](https://www.cnet.com/science/neuralink-under-investigation-for-potential-violation-of-animal-welfare-act-report-says/#ftag=CAD590a51e)
+ - [Meta Threatens to Pull News From Facebook if Congress Passes Media Bill     - CNET](https://www.cnet.com/news/social-media/meta-threatens-to-pull-news-from-facebook-if-congress-passes-media-bill/#ftag=CAD590a51e)
+ - [Runway, one of the two startups behind Stable Diffusion, raised a $50M Series C led by Felicis Ventures; sources: Runway&#39;s valuation is $500M, and ARR is ~$1M &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/221205/p24#a221205p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
