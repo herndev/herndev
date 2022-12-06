@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple engaged in illegal anti-union tactics, finds labor board](https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board?utm_medium=rss)
- - [Save $200 on Apple&#39;s M2 MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/22/12/06/save-200-on-apples-m2-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
- - [Eufy not patching cameras, instead just warning users about cloud use](https://appleinsider.com/articles/22/12/06/eufy-not-patching-cameras-instead-just-warning-users-about-cloud-use?utm_medium=rss)<!-- TECH:END -->
+ - [Find My misfire leads to SWAT raid on grandmother](https://appleinsider.com/articles/22/12/06/find-my-misfire-leads-to-swat-raid-on-grandmother?utm_medium=rss)
+ - [Kirstie Alley, Star of &#39;Cheers&#39;, Dies Aged 71     - CNET](https://www.cnet.com/culture/entertainment/kirstie-alley-star-of-cheers-dies-aged-71/#ftag=CAD590a51e)
+ - [Apple engaged in illegal anti-union tactics, finds labor board](https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
