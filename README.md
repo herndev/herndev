@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Uncover the Secret Origin of Cheesy Gubbins in Two Point Campus: Space Academy](https://news.xbox.com/en-us/2022/12/06/two-point-campus-space-academy-dlc/)
- - [Support for Gwent: The Witcher Card Game is coming to an end](https://www.polygon.com/23496337/gwent-shutting-down-support-sunset-witcher-card-game-project-gwentfinity)
- - [The 11 biggest changes in Dwarf Fortress’ Steam release](https://www.polygon.com/guides/23494480/dwarf-fortress-biggest-changes-stream-graphics-menu-keyboard-shortcuts-mouse)<!-- GAME:END -->
+ - [AMD&#39;s RX 7900 XT/X reference cards reportedly not shipping to China because the packaging says &#39;Made in Taiwan&#39;](https://www.pcgamer.com/amds-rx-7900-xtx-reference-cards-reportedly-not-shipping-to-china-because-the-packaging-says-made-in-taiwan)
+ - [Pokémon Scarlet And Violet’s Passive EXP Hack Feels Too Cruel To Use](https://kotaku.com/pokemon-scarlet-violet-passive-exp-hack-tips-how-to-1849858758)
+ - [Samsung&#39;s new GDDR7 graphics memory delivers 50% more bandwidth thanks to PAM](https://www.pcgamer.com/samsungs-new-gddr7-graphics-memory-delivers-50-more-bandwidth-thanks-to-pam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
