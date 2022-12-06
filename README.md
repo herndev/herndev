@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot’s League of Legends fighting game has a very deep tag system](https://www.polygon.com/23494770/riot-games-project-l-fighting-game-tag-system)
- - [GameStop Gets Into Holiday Spirit With More Layoffs](https://kotaku.com/gamestop-layoffs-meme-stock-crypto-blockchain-1849856122)
- - [After Backlash, Overwatch 2&#39;s New Tank Will Be Easier To Unlock For Free](https://kotaku.com/overwatch-2-new-hero-unlock-ramattra-season-2-battle-pa-1849856021)<!-- GAME:END -->
+ - [EA Made A LotR Game With A Tiger Woods Engine](https://kotaku.com/lord-of-the-rings-tiger-rotk-woods-engine-tech-ps2-ea-1849856422)
+ - [Incredible Mod Recreates SimCity 2000 Cities In Minecraft, Down To The Trees](https://kotaku.com/minecraft-simcity-2000-maxis-mods-pc-import-cities-1849852846)
+ - [Fortnite &lpar;?&rpar; Is Now One Of The Best-Looking Games On Earth &lpar;?!&rpar;](https://kotaku.com/fortnite-graphics-visuals-epic-unreal-engine-5-lumen-1849856295)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
