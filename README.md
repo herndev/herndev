@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Polestar 2 gets an over-the-air performance boost ‘without the hassle of a subscription’](https://www.theverge.com/2022/12/6/23495253/polestar-2-performance-ota-upgrade-software-subscription)
- - [My weather app is now a dating sim](https://www.theverge.com/2022/12/6/23494827/carrot-weather-5-9-update-romance-relationship-layouts)
- - [How to Replace the Sky](https://www.theverge.com/c/23339391/comic-photoshop-sky-replacement-digital-art)<!-- TECH:END -->
+ - [Google’s Nest Hub smart display is $70 off with a free WiZ smart bulb](https://www.theverge.com/2022/12/6/23494520/google-nest-hub-ipad-samsung-monitor-logitech-gaming-headset-deal-sale)
+ - [Robinhood launches a waitlist for Robinhood Retirement, which it calls the &quot;first and only&quot; IRA with a 1% match on every eligible dollar contributed &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221206/p31#a221206p31)
+ - [HBO Max returns to Amazon’s Prime Video Channels](https://www.theverge.com/2022/12/6/23496115/hbo-max-amazon-prime-video-channels-returns)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
