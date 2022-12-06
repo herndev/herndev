@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What is the difference?](http://9gag.com/gag/agoYRpq)
- - ⏩ [Almost... Almost...](http://9gag.com/gag/aGEjxOX)
- - 👉 [Since Tu-22 is no longer in production then we should have total loss](http://9gag.com/gag/aqe7LNP)<!-- MEMES:END -->
+ - 💣 [An Argentine reporter, after her wallet was stolen by a fan in Qatar, stated: `The police asked me how I want to punish the offender and choose between imprisoning him for 5 years or deporting him from the country immediately.`](http://9gag.com/gag/a4o7pXv)
+ - ⏩ [\u2026.](http://9gag.com/gag/amA2D59)
+ - 👉 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)<!-- MEMES:END -->
 
 ---
 
