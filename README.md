@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Search brings continuous scrolling to desktop](https://www.theverge.com/2022/12/6/23495973/google-search-desktop-continuous-scrolling)
- - [Daily Authority: 📱 Pick your phone of the year](https://www.androidauthority.com/daily-authority-december-6-2022-3244507/)
- - [Apple’s DIY repair service launches in Europe](https://www.theverge.com/2022/12/6/23495979/apple-iphone-diy-repair-self-service-program-europe-spare-parts-12-13-macbook)<!-- TECH:END -->
+ - [Microsoft&#39;s President discusses the FTC opposing the Activision Blizzard acquisition and says the company offered Sony a 10-year Call of Duty licensing deal &lpar;Brad Smith/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p12#a221206p12)
+ - [Google brings continuous scrolling to desktop in English in the US, loading six pages of results, following a similar change on mobile in October 2021 &lpar;Jon Porter/The Verge&rpar;](http://www.techmeme.com/221206/p11#a221206p11)
+ - [Waze gets built-in car app for the first time](https://www.theverge.com/2022/12/6/23495989/waze-built-in-car-app-renault-partnership)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
