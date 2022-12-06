@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
- - ⏩ [Authority level difference](http://9gag.com/gag/abvM5gL)
- - 👉 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)<!-- MEMES:END -->
+ - 💣 [This brilliant illusion may completely dissappear once you know it was just some white paint.](http://9gag.com/gag/aBdx18Q)
+ - ⏩ [I laughed more than I should have](http://9gag.com/gag/a8qo8G1)
+ - 👉 [New year resolutions &lpar;sorry for low quality&rpar;](http://9gag.com/gag/aKEjDB3)<!-- MEMES:END -->
 
 ---
 
