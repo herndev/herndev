@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories)
- - [Crisis Core: Final Fantasy 7 Reunion review](https://www.pcgamer.com/crisis-core-final-fantasy-7-reunion-review)
- - [Crisis Core: Final Fantasy 7 Reunion is a vital reimagining in the revered saga](https://www.polygon.com/reviews/23494351/crisis-core-final-fantasy-7-reunion-review-release-date-square-enix-ff7)<!-- GAME:END -->
+ - [Latest Intel Arc beta driver boosts GPU performance in 13 games](https://www.pcgamer.com/latest-intel-arc-beta-driver-boosts-gpu-performance-in-13-games)
+ - [The Best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories-right-now)
+ - [The best Steam Deck accessories in 2022](https://www.pcgamer.com/best-steam-deck-accessories)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
