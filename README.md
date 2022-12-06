@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These eye tracking glasses might make you a better gamer](https://www.pcgamer.com/these-eye-tracking-glasses-might-make-you-a-better-gamer)
  - [Four Features That I Must Insist Every Game Includes](https://kotaku.com/video-game-new-features-design-ideas-npc-call-beremy-1849856036)
- - [Fortnite has become a graphical powerhouse overnight](https://www.pcgamer.com/fortnite-has-become-a-graphical-powerhouse-overnight)
- - [Rebellion is giving away Aliens vs Predator Classic 2000 on Steam](https://www.pcgamer.com/rebellion-is-giving-away-aliens-vs-predator-classic-2000-on-steam)<!-- GAME:END -->
+ - [Fortnite has become a graphical powerhouse overnight](https://www.pcgamer.com/fortnite-has-become-a-graphical-powerhouse-overnight)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
