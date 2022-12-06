@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google’s Nest Hub smart display is $70 off with a free WiZ smart bulb](https://www.theverge.com/2022/12/6/23494520/google-nest-hub-ipad-samsung-monitor-logitech-gaming-headset-deal-sale)
- - [Robinhood launches a waitlist for Robinhood Retirement, which it calls the &quot;first and only&quot; IRA with a 1% match on every eligible dollar contributed &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221206/p31#a221206p31)
- - [HBO Max returns to Amazon’s Prime Video Channels](https://www.theverge.com/2022/12/6/23496115/hbo-max-amazon-prime-video-channels-returns)<!-- TECH:END -->
+ - [How and why to use parental controls in macOS Ventura](https://appleinsider.com/inside/macos-ventura/tips/how-and-why-to-use-parental-controls-in-macos-ventura?utm_medium=rss)
+ - [Sources: Microsoft recently considered building a &quot;super app&quot; combining shopping, messaging, search, news, and other services, drawing inspiration from WeChat &lpar;Aaron Holmes/The Information&rpar;](http://www.techmeme.com/221206/p34#a221206p34)
+ - [The FTC is investigating crypto firms for possible misconduct following FTX collapse](https://www.theverge.com/2022/12/6/23496423/ftx-crypto-sam-bankman-fried-ftc-tom-brady-steph-curry-investigation)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
