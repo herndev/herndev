@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/05/this-weeks-deals-with-gold-and-spotlight-sale-254/)
- - [Sonic Frontiers is on its way to winning a Game Award as fans push for a &#39;Sonic Sweep&#39;](https://www.pcgamer.com/game-awards-2022-players-voice-sonic-frontiers)
- - [Nvidia and Apple set to be first customers for TSMC&#39;s United States made 3nm chips](https://www.pcgamer.com/nvidia-and-apple-set-to-be-first-customers-for-tsmcs-united-states-made-3nm-chips)<!-- GAME:END -->
+ - [Today&#39;s Wordle answer and hint for Tuesday, December 6](https://www.pcgamer.com/wordle-535-answer-december-6)
+ - [ASRock Z790 LiveMixer](https://www.pcgamer.com/asrock-z790-livemixer-motherboard-review-performance-benchmarks)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/05/this-weeks-deals-with-gold-and-spotlight-sale-254/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
