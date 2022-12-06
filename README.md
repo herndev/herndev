@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [London-based Chattermill, which analyzes customer feedback data across channels to give companies actionable insights, raised a $26M Series B led by Beringea &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221206/p3#a221206p3)
  - [Some laid-off tech workers on H-1B visas from Meta, Shopify, Twitter, and other tech companies say they didn&#39;t get adequate immigration support from companies &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/221206/p2#a221206p2)
- - [Poll: How do you share files between your PC and phone?](https://www.androidauthority.com/share-files-pc-phone-poll-3244355/)
- - [E-commerce marketing company Rokt says it raised a secondary funding round at a $2.4B valuation, up from $1.95B in December 2021, as it prepares for an IPO &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/221206/p1#a221206p1)<!-- TECH:END -->
+ - [Poll: How do you share files between your PC and phone?](https://www.androidauthority.com/share-files-pc-phone-poll-3244355/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
