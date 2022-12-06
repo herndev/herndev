@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kynseed review](https://www.pcgamer.com/kynseed-review)
- - [8 things you should know before starting Dwarf Fortress](https://www.polygon.com/guides/23487923/dwarf-fortress-beginner-tips-tricks-jobs-warnings-zones)
- - [Phishing scammers impersonate WhatsApp by buying a top ad spot on Google](https://www.pcgamer.com/whatsapp-web-china-scam-phishing)<!-- GAME:END -->
+ - [The best comics of 2022](https://www.polygon.com/2022/12/6/23488554/best-comics-2022-graphic-novels)
+ - [Third-Person Platform Fighter, Divine Knockout, Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/12/06/divine-knockout-out-now/)
+ - [How to farm tons of EXP in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23494889/farm-exp-chansey-academy-ace-tournament-candy-raid)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
