@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An Argentine reporter, after her wallet was stolen by a fan in Qatar, stated: `The police asked me how I want to punish the offender and choose between imprisoning him for 5 years or deporting him from the country immediately.`](http://9gag.com/gag/a4o7pXv)
- - ⏩ [\u2026.](http://9gag.com/gag/amA2D59)
- - 👉 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)<!-- MEMES:END -->
+ - 💣 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)
+ - ⏩ [It&#39;s like unwrapping a christmas presents](http://9gag.com/gag/amA7Xxv)
+ - 👉 [What is the difference?](http://9gag.com/gag/agoYRpq)<!-- MEMES:END -->
 
 ---
 
