@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Back 4 Blood’s Third Expansion, River of Blood, Available Today](https://news.xbox.com/en-us/2022/12/06/back-4-bloods-third-expansion-river-of-blood-available-today/)
- - [This Mini Sega Arcade Cabinet Packed With Retro Games Would Make A Great Gift](https://kotaku.com/arcade-games-sega-retro-holiday-gift-classic-zaxxon-1849824745)
- - [Artist Turns Down $3,000 Fortnite Job Offer, Calls It &#39;Hilarious&#39;](https://kotaku.com/fortnite-epic-games-art-battle-royale-illustration-1849860511)<!-- GAME:END -->
+ - [GTA Online players stole $4 trillion in one week, so they&#39;re all getting a free car](https://www.pcgamer.com/gta-online-players-stole-dollar4-trillion-in-one-week-so-theyre-all-getting-a-free-car)
+ - [Latest Simpsons Episode Has Bart Running An Illegal Roblox Scam](https://kotaku.com/simpsons-boblox-roblox-episode-game-done-changed-review-1849860640)
+ - [World of Warcraft: Dragonflight review-in-progress](https://www.pcgamer.com/world-of-warcraft-dragonflight-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
