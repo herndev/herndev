@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
+ - 💣 [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)
  - ⏩ [Now im pith off](http://9gag.com/gag/aqe77bR)
- - 👉 [Congrats Morocco!](http://9gag.com/gag/a3ZKKnv)<!-- MEMES:END -->
+ - 👉 [Airport Kursk. 6 December.](http://9gag.com/gag/aXnxxy9)<!-- MEMES:END -->
 
 ---
 
