@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Neuralink Under Investigation for Potential Violation of Animal Welfare Act, Report Says     - CNET](https://www.cnet.com/science/neuralink-under-investigation-for-potential-violation-of-animal-welfare-act-report-says/#ftag=CAD590a51e)
- - [Meta Threatens to Pull News From Facebook if Congress Passes Media Bill     - CNET](https://www.cnet.com/news/social-media/meta-threatens-to-pull-news-from-facebook-if-congress-passes-media-bill/#ftag=CAD590a51e)
- - [Runway, one of the two startups behind Stable Diffusion, raised a $50M Series C led by Felicis Ventures; sources: Runway&#39;s valuation is $500M, and ARR is ~$1M &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/221205/p24#a221205p24)<!-- TECH:END -->
+ - [Apple engaged in illegal anti-union tactics, finds labor board](https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board?utm_medium=rss)
+ - [Save $200 on Apple&#39;s M2 MacBook Air with 16GB RAM, 1TB SSD](https://appleinsider.com/articles/22/12/06/save-200-on-apples-m2-macbook-air-with-16gb-ram-1tb-ssd?utm_medium=rss)
+ - [Eufy not patching cameras, instead just warning users about cloud use](https://appleinsider.com/articles/22/12/06/eufy-not-patching-cameras-instead-just-warning-users-about-cloud-use?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
