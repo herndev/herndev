@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Disney Dreamlight Valley Goes from the Toy Box to the Stars in Latest Content Update, Missions in Uncharted Space](https://news.xbox.com/en-us/2022/12/06/disney-dreamlight-valley-missions-in-uncharted-space-content-update/)
- - [Portal’s ray-tracing upgrade makes it weirdly scary](https://www.polygon.com/reviews/23494911/portal-rtx-review-ray-tracing-nvidia-valve)
- - [Avatar Legends DLC Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/12/06/avatar-legends-dlc-now-available-in-the-minecraft-marketplace/)<!-- GAME:END -->
+ - [Overwatch 2’s season 2 battle pass goes live: here’s what’s in it](https://www.polygon.com/23496487/overwatch-2-season-2-battle-pass-tiers-content-skins-coins)
+ - [Inside the Destiny 2 &amp; Assassin’s Creed collaboration](https://blog.playstation.com/2022/12/06/inside-the-destiny-2-assassins-creed-collaboration/)
+ - [The God of War Series’ Best Leading Ladies, Ranked](https://kotaku.com/god-of-war-ragnarok-female-characters-freya-laufey-1849860231)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
