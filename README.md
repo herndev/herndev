@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Rad Trike is a new three-wheeled car replacement from Rad Power](https://www.androidauthority.com/rad-power-rad-trike-3244526/)
- - [New Pixelmator Pro update adds limited video editing tools](https://appleinsider.com/articles/22/12/06/new-pixelmator-pro-update-adds-limited-video-editing-tools?utm_medium=rss)
- - [Tony Fadell Is Trying to Build the iPod of Crypto](https://www.wired.com/story/tony-fadell-is-trying-to-build-the-ipod-of-crypto-ledger-stax/)<!-- TECH:END -->
+ - [Polestar 2 gets an over-the-air performance boost ‘without the hassle of a subscription’](https://www.theverge.com/2022/12/6/23495253/polestar-2-performance-ota-upgrade-software-subscription)
+ - [My weather app is now a dating sim](https://www.theverge.com/2022/12/6/23494827/carrot-weather-5-9-update-romance-relationship-layouts)
+ - [How to Replace the Sky](https://www.theverge.com/c/23339391/comic-photoshop-sky-replacement-digital-art)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
