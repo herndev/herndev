@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This brilliant illusion may completely dissappear once you know it was just some white paint.](http://9gag.com/gag/aBdx18Q)
- - ⏩ [I laughed more than I should have](http://9gag.com/gag/a8qo8G1)
+ - 💣 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - ⏩ [Sigma male commented](http://9gag.com/gag/az2XryK)
  - 👉 [New year resolutions &lpar;sorry for low quality&rpar;](http://9gag.com/gag/aKEjDB3)<!-- MEMES:END -->
 
 ---
