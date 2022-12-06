@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Uber reaches a $10M settlement with the City of Chicago for listing restaurants in Uber Eats and Postmates without consent and charging excess commissions &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221205/p26#a221205p26)
- - [SCOTUS refused to hear an appeal by Virginia-based Centripetal Networks to reinstate a $2.75B award to be paid by Cisco in a cybersecurity patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221205/p25#a221205p25)
- - [Mars &#39;Forest Bubble&#39;: 50 Acre Dome Proposed as Red Planet Nature Reserve     - CNET](https://www.cnet.com/science/space/mars-forest-bubble-50-acre-dome-proposed-as-red-planet-nature-reserve/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [E-commerce marketing company Rokt says it raised a secondary funding round at a $2.4B valuation, up from $1.95B in December 2021, as it prepares for an IPO &lpar;Mehnaz Yasmin/Reuters&rpar;](http://www.techmeme.com/221206/p1#a221206p1)
+ - [December 2022 Android security patch is here for Pixels](https://www.androidauthority.com/google-pixel-december-2022-security-patch-3244865/)
+ - [Uber reaches a $10M settlement with the City of Chicago for listing restaurants in Uber Eats and Postmates without consent and charging excess commissions &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221205/p26#a221205p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
