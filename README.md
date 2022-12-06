@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)
- - ⏩ [Not this old stupid idea again](http://9gag.com/gag/aVb3QwK)
- - 👉 [Sometimes you gotta celebrate the small victories](http://9gag.com/gag/aMEjQ4P)<!-- MEMES:END -->
+ - 💣 [Bro discovered a new move](http://9gag.com/gag/ap920x5)
+ - ⏩ [We live in a world!](http://9gag.com/gag/a04KpDd)
+ - 👉 [Focus.. must focus](http://9gag.com/gag/ap92B6D)<!-- MEMES:END -->
 
 ---
 
