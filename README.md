@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: Apple&#39;s M1 MacBook Pro drops to $999, save up to $500](https://appleinsider.com/articles/22/12/06/deals-apples-m1-macbook-pro-drops-to-999-save-up-to-500?utm_medium=rss)
- - [Apple adding hundreds of App Store price points, as low as $0.29](https://appleinsider.com/articles/22/12/06/apple-adding-hundreds-of-app-store-price-points-as-low-as-029?utm_medium=rss)
- - [You can save $30 on Disney Plus by signing up today before the price hike](https://www.theverge.com/2022/12/6/23496287/disney-plus-price-hike-streaming)<!-- TECH:END -->
+ - [Are you a fan of The Chosen? Here are 7 other shows to watch next](https://www.androidauthority.com/shows-like-the-chosen-streaming-3244633/)
+ - [Apple expands the pricing options for subscription app developers by 700 price points, from $0.29 to $10K, the top 100 of which are available only upon request &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/221206/p39#a221206p39)
+ - [Tuesday’s top tech news: Apple’s DIY repair service comes to Europe](https://www.theverge.com/2022/12/6/23495999/december-6-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
