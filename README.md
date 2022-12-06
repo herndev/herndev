@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [SCOTUS refused to hear an appeal by Virginia-based Centripetal Networks to reinstate a $2.75B award to be paid by Cisco in a cybersecurity patent dispute &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221205/p25#a221205p25)
  - [Find My misfire leads to SWAT raid on grandmother](https://appleinsider.com/articles/22/12/06/find-my-misfire-leads-to-swat-raid-on-grandmother?utm_medium=rss)
- - [Kirstie Alley, Star of &#39;Cheers&#39;, Dies Aged 71     - CNET](https://www.cnet.com/culture/entertainment/kirstie-alley-star-of-cheers-dies-aged-71/#ftag=CAD590a51e)
- - [Apple engaged in illegal anti-union tactics, finds labor board](https://appleinsider.com/articles/22/12/06/apple-engaged-in-illegal-anti-union-tactics-finds-labor-board?utm_medium=rss)<!-- TECH:END -->
+ - [Kirstie Alley, Star of &#39;Cheers&#39;, Dies Aged 71     - CNET](https://www.cnet.com/culture/entertainment/kirstie-alley-star-of-cheers-dies-aged-71/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
