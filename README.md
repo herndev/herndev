@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, AMD, and Nvidia have all indicated plans to buy chips from TSMC&#39;s planned Arizona fabs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221206/p43#a221206p43)
- - [The history of Netflix: the DVD rental company that changed the world](https://www.androidauthority.com/netflix-history-3245864/)
- - [Hedge fund Fir Tree Capital sues Grayscale Investments for info on potential mismanagement, as GBTC, down ~74% YTD, trades at a ~43% discount to its BTC&#39;s value &lpar;Bloomberg&rpar;](http://www.techmeme.com/221206/p42#a221206p42)<!-- TECH:END -->
+ - [Apple picks up ten Critics Choice Awards nominations](https://appleinsider.com/articles/22/12/06/apple-picks-up-ten-critics-choice-award-nominations?utm_medium=rss)
+ - [Chrome ‘@’ shortcuts search tabs, bookmarks, and history right from the address bar](https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history)
+ - [How to charge your Beats Studio Buds](https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
