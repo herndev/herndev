@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple CEO Tim Cook confirms the company will use chips made in Arizona](https://appleinsider.com/articles/22/12/06/apple-ceo-tim-cook-confirms-the-company-will-use-chips-made-in-arizona?utm_medium=rss)
- - [Ford is demanding its dealers get serious about EVs — two-thirds say they’re in](https://www.theverge.com/2022/12/6/23496960/ford-ev-dealer-investment-certification-charging)
- - [Apple Music Sing Adds &#39;Karaoke Mode&#39; to Streaming Songs](https://www.wired.com/story/apple-music-sing/)<!-- TECH:END -->
+ - [Apple, AMD, and Nvidia have all indicated plans to buy chips from TSMC&#39;s planned Arizona fabs &lpar;Kif Leswing/CNBC&rpar;](http://www.techmeme.com/221206/p43#a221206p43)
+ - [The history of Netflix: the DVD rental company that changed the world](https://www.androidauthority.com/netflix-history-3245864/)
+ - [Hedge fund Fir Tree Capital sues Grayscale Investments for info on potential mismanagement, as GBTC, down ~74% YTD, trades at a ~43% discount to its BTC&#39;s value &lpar;Bloomberg&rpar;](http://www.techmeme.com/221206/p42#a221206p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
