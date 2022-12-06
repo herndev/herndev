@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phishing scammers impersonate Whatsapp by buying a top ad spot on Google](https://www.pcgamer.com/whatsapp-web-china-scam-phishing)
- - [Valheim&#39;s massive Mistlands update now live for all players](https://www.pcgamer.com/valheims-massive-mistlands-update-now-live-for-all-players)
- - [How to complete The Raven and the Cuckoo and close the last chapter of Assassin&#39;s Creed Valhalla](https://www.pcgamer.com/ac-valhalla-the-raven-and-the-cuckoo)<!-- GAME:END -->
+ - [Kynseed review](https://www.pcgamer.com/kynseed-review)
+ - [8 things you should know before starting Dwarf Fortress](https://www.polygon.com/guides/23487923/dwarf-fortress-beginner-tips-tricks-jobs-warnings-zones)
+ - [Phishing scammers impersonate WhatsApp by buying a top ad spot on Google](https://www.pcgamer.com/whatsapp-web-china-scam-phishing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
