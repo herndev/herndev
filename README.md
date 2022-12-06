@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s season 2 battle pass goes live: here’s what’s in it](https://www.polygon.com/23496487/overwatch-2-season-2-battle-pass-tiers-content-skins-coins)
- - [Inside the Destiny 2 &amp; Assassin’s Creed collaboration](https://blog.playstation.com/2022/12/06/inside-the-destiny-2-assassins-creed-collaboration/)
- - [The God of War Series’ Best Leading Ladies, Ranked](https://kotaku.com/god-of-war-ragnarok-female-characters-freya-laufey-1849860231)<!-- GAME:END -->
+ - [Back 4 Blood’s Third Expansion, River of Blood, Available Today](https://news.xbox.com/en-us/2022/12/06/back-4-bloods-third-expansion-river-of-blood-available-today/)
+ - [This Mini Sega Arcade Cabinet Packed With Retro Games Would Make A Great Gift](https://kotaku.com/arcade-games-sega-retro-holiday-gift-classic-zaxxon-1849824745)
+ - [Artist Turns Down $3,000 Fortnite Job Offer, Calls It &#39;Hilarious&#39;](https://kotaku.com/fortnite-epic-games-art-battle-royale-illustration-1849860511)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
