@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [These eye tracking glasses might make you a better gamer](https://www.pcgamer.com/these-eye-tracking-glasses-might-make-you-a-better-gamer)
- - [Four Features That I Must Insist Every Game Includes](https://kotaku.com/video-game-new-features-design-ideas-npc-call-beremy-1849856036)
- - [Fortnite has become a graphical powerhouse overnight](https://www.pcgamer.com/fortnite-has-become-a-graphical-powerhouse-overnight)<!-- GAME:END -->
+ - [Sonic Frontiers is on its way to winning a Game Award as fans push for a &#39;Sonic Sweep&#39;](https://www.pcgamer.com/game-awards-2022-players-voice-sonic-frontiers)
+ - [Nvidia and Apple set to be first customers for TSMC&#39;s United States made 3nm chips](https://www.pcgamer.com/nvidia-and-apple-set-to-be-first-customers-for-tsmcs-united-states-made-3nm-chips)
+ - [These eye tracking glasses might make you a better gamer](https://www.pcgamer.com/these-eye-tracking-glasses-might-make-you-a-better-gamer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
