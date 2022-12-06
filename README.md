@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
- - ⏩ [My absolut favorit winter Meme](http://9gag.com/gag/aWG1M1d)
- - 👉 [Not the Autobahn!](http://9gag.com/gag/aeQM0vp)<!-- MEMES:END -->
+ - 💣 [Saudi arabia](http://9gag.com/gag/aBdxwBz)
+ - ⏩ [PRO+ someone tells about himself](http://9gag.com/gag/armg5B5)
+ - 👉 [Now im pith off](http://9gag.com/gag/aqe77bR)<!-- MEMES:END -->
 
 ---
 
