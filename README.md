@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation Plus’ December games are Mass Effect and a new multiplayer brawler](https://www.polygon.com/23484042/playstation-plus-december-2022-games-essentials-ps4-ps5-mass-effect-biomutant)
- - [Hunt for Sorcerer Skulls in Conan Exiles: Age of Sorcery — Chapter 2](https://news.xbox.com/en-us/2022/12/06/hunt-for-sorcerer-skulls-in-conan-exiles-age-of-sorcery-chapter-2/)
- - [Charlie Chaplin videogames are coming, with an unfortunate twist](https://www.pcgamer.com/charlie-chaplin-videogames-are-coming-with-an-unfortunate-twist)<!-- GAME:END -->
+ - [Disney Dreamlight Valley Goes from the Toy Box to the Stars in Latest Content Update, Missions in Uncharted Space](https://news.xbox.com/en-us/2022/12/06/disney-dreamlight-valley-missions-in-uncharted-space-content-update/)
+ - [Portal’s ray-tracing upgrade makes it weirdly scary](https://www.polygon.com/reviews/23494911/portal-rtx-review-ray-tracing-nvidia-valve)
+ - [Avatar Legends DLC Now Available in the Minecraft Marketplace](https://news.xbox.com/en-us/2022/12/06/avatar-legends-dlc-now-available-in-the-minecraft-marketplace/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
