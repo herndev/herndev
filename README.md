@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best comics of 2022](https://www.polygon.com/2022/12/6/23488554/best-comics-2022-graphic-novels)
- - [Third-Person Platform Fighter, Divine Knockout, Available Now on Xbox Series X|S and Xbox One](https://news.xbox.com/en-us/2022/12/06/divine-knockout-out-now/)
- - [How to farm tons of EXP in Pokémon Scarlet and Violet](https://www.polygon.com/pokemon-scarlet-violet-guide/23494889/farm-exp-chansey-academy-ace-tournament-candy-raid)<!-- GAME:END -->
+ - [Uncover the Secret Origin of Cheesy Gubbins in Two Point Campus: Space Academy](https://news.xbox.com/en-us/2022/12/06/two-point-campus-space-academy-dlc/)
+ - [Support for Gwent: The Witcher Card Game is coming to an end](https://www.polygon.com/23496337/gwent-shutting-down-support-sunset-witcher-card-game-project-gwentfinity)
+ - [The 11 biggest changes in Dwarf Fortress’ Steam release](https://www.polygon.com/guides/23494480/dwarf-fortress-biggest-changes-stream-graphics-menu-keyboard-shortcuts-mouse)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
