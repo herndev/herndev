@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [GTA Online players stole $4 trillion in one week, so they&#39;re all getting a free car](https://www.pcgamer.com/gta-online-players-stole-dollar4-trillion-in-one-week-so-theyre-all-getting-a-free-car)
- - [Latest Simpsons Episode Has Bart Running An Illegal Roblox Scam](https://kotaku.com/simpsons-boblox-roblox-episode-game-done-changed-review-1849860640)
- - [World of Warcraft: Dragonflight review-in-progress](https://www.pcgamer.com/world-of-warcraft-dragonflight-review)<!-- GAME:END -->
+ - [Gwent Being Left In The Cold As CD Projekt Red Plans To End Support](https://kotaku.com/witcher-3-cd-projeckt-red-gwent-cdpr-1849861433)
+ - [The Witcher’s take on Pokémon Go is coming to a stop](https://www.polygon.com/23497135/the-witcher-monster-slayer-shutdown-mobile-game-pokemon-go)
+ - [Where to find the Elemental Rods in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495553/elemental-earth-fire-air-water-rod-agatha-word-of-power-atum)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
