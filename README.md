@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This brings joy...](http://9gag.com/gag/axo10rK)
- - ⏩ [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - 👉 [I own a coffee in Morocco and those are the last seconds before the end of the game.](http://9gag.com/gag/aL1jgpv)<!-- MEMES:END -->
+ - 💣 [Winner gets the lady :&rpar;](http://9gag.com/gag/avQOL7E)
+ - ⏩ [That was really close](http://9gag.com/gag/a04KK6Q)
+ - 👉 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)<!-- MEMES:END -->
 
 ---
 
