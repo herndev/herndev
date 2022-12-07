@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
- - ⏩ [Most video games these days](http://9gag.com/gag/a5XoRmo)
- - 👉 [Confess one lie...](http://9gag.com/gag/a4o73Zp)<!-- MEMES:END -->
+ - 💣 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - ⏩ [Ma man came fully equipped](http://9gag.com/gag/aRE37oB)
+ - 👉 [It\u2019s Tiny but it\u2019s Home](http://9gag.com/gag/a1PoWbw)<!-- MEMES:END -->
 
 ---
 
