@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use cheat.sh in macOS Terminal](https://appleinsider.com/articles/22/12/07/how-to-use-cheatsh-in-macos-terminal?utm_medium=rss)
- - [Stockholm-based autonomous and electric truck company Einride raised a $200M Series C from Northzone and others and $300M in debt from Barclays &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p14#a221207p14)
- - [Protect a charging iPhone &amp; iPad with a Baseus 40W Power Strip](https://appleinsider.com/articles/22/12/07/protect-a-charging-iphone-ipad-with-a-baseus-40w-power-strip?utm_medium=rss)<!-- TECH:END -->
+ - [SpaceX announces Starshield, expanding Starlink for military and government applications, initially focusing on imagery, communications, and &quot;hosted payloads&quot; &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/221207/p18#a221207p18)
+ - [Disney Dreamlight Valley comes to Apple Silicon Mac](https://appleinsider.com/articles/22/12/07/disney-dreamlight-valley-comes-to-apple-silicon-mac?utm_medium=rss)
+ - [Poll: How long does it take to fully charge your phone?](https://www.androidauthority.com/how-long-charge-phone-poll-3248397/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
