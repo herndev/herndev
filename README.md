@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - ⏩ [We live in a world!](http://9gag.com/gag/a04KpDd)
- - 👉 [Those emojis beside her name says it all.](http://9gag.com/gag/aL1jgxv)<!-- MEMES:END -->
+ - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
+ - ⏩ [Some languages are... different](http://9gag.com/gag/a04KQ8v)
+ - 👉 [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)<!-- MEMES:END -->
 
 ---
 
