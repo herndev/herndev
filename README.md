@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google discovered North Korea exploiting an Internet Explorer zero-day vulnerability in October](https://www.theverge.com/2022/12/7/23498226/google-north-korea-exploited-internet-explorer-vulnerability-security)
- - [Thoma Bravo raised $32.4B for three tech-focused funds: $24.3B for its main buyout fund, up 36% on its predecessor, $6.2B for mid-market, and $1.8B for low-end &lpar;Preeti Singh/Bloomberg&rpar;](http://www.techmeme.com/221207/p27#a221207p27)
- - [Apple will ship 9 million fewer iPhones in Q4 than expected](https://appleinsider.com/articles/22/12/07/apple-will-ship-9-million-fewer-iphones-in-q4-than-expected?utm_medium=rss)<!-- TECH:END -->
+ - [French environment group files complaint over iPhone repair practices](https://appleinsider.com/articles/22/12/07/french-environment-group-files-complaint-over-iphone-repair-practices?utm_medium=rss)
+ - [20-inch foldable MacBook rumored to launch as soon as 2026](https://appleinsider.com/articles/22/12/07/20-inch-foldable-macbook-rumored-to-launch-as-soon-as-2026?utm_medium=rss)
+ - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM dips to $2,445, plus $70 off AppleCare](https://appleinsider.com/articles/22/12/07/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-dips-to-2445-plus-70-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
