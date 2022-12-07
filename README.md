@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wednesday’s Top Tech News: Chips born in the USA](https://www.theverge.com/2022/12/7/23497958/december-7-2022-tech-news-liveblog)
- - [Despite Joe Biden and Tim Cook celebrating TSMC&#39;s long-planned Arizona fabs, the tech will be outdated and capacity small, a far cry from US chip independence &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/221207/p21#a221207p21)
- - [Sources: India tells Nick Clegg and other Meta executives that takedown requests must be completed within one hour and says Google does a better job than Meta &lpar;Deepsekhar Choudhury/Moneycontrol&rpar;](http://www.techmeme.com/221207/p20#a221207p20)<!-- TECH:END -->
+ - [The deep inequalities of Facebook’s secretive cross-check moderation program](https://www.theverge.com/2022/12/7/23498030/facebook-moderation-scandal-xcheck-cross-check)
+ - [A look at the digital asset diehards at Art Basel in Miami, who tried to ignore the fallout from FTX&#39;s collapse even as FTX merch remained, hidden in storerooms &lpar;Bloomberg&rpar;](http://www.techmeme.com/221207/p24#a221207p24)
+ - [How to turn on Live Captions for FaceTime calls](https://appleinsider.com/inside/facetime/tips/how-to-turn-on-live-captions-for-facetime-calls?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
