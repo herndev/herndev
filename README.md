@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
- - ⏩ [That was really close](http://9gag.com/gag/a04KK6Q)
- - 👉 [Surgeon](http://9gag.com/gag/aGEjeN0)<!-- MEMES:END -->
+ - 💣 [Congrats Morocco!](http://9gag.com/gag/a3ZKKnv)
+ - ⏩ [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
+ - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 ---
 
