@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [World Cup Player Gets Gaming Setup Shipped To Qatar So He Can Play Fortnite](https://kotaku.com/world-cup-2022-qatar-jordan-pickford-england-fortnite-1849862372)
  - [Vomiting goats, kitten fights, ghost beheadings, and other reasons Steam reviewers are giving Dwarf Fortress 10/10 &lpar;or higher&rpar;](https://www.pcgamer.com/vomiting-goats-kitten-fights-ghost-beheadings-and-other-reasons-steam-reviewers-are-giving-dwarf-fortress-1010-or-higher)
- - [Tons of game developers praise Dwarf Fortress in celebration of its Steam launch](https://www.pcgamer.com/tons-of-game-developers-are-praising-dwarf-fortress-today-in-celebration-of-its-steam-launch)
- - [Witcher 3 Next-Gen Update Will Include Some Fan-Made Mods, Break Loads Of Others](https://kotaku.com/witcher-3-mods-pc-next-gen-update-patch-mod-compat-1849861301)<!-- GAME:END -->
+ - [Tons of game developers praise Dwarf Fortress in celebration of its Steam launch](https://www.pcgamer.com/tons-of-game-developers-are-praising-dwarf-fortress-today-in-celebration-of-its-steam-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
