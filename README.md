@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
- - ⏩ [Based skeletons](http://9gag.com/gag/a4o73gQ)
- - 👉 [Thank god](http://9gag.com/gag/aqe7nxL)<!-- MEMES:END -->
+ - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
+ - ⏩ [Uncertainty](http://9gag.com/gag/a04KNmn)
+ - 👉 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)<!-- MEMES:END -->
 
 ---
 
