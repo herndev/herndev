@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Atomico: European startups are on track to raise $85B in 2022, down from $100B+ in 2021; the European tech industry lost ~$400B in value, dropping to $2.7T &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/221207/p2#a221207p2)
- - [Oppo’s first flip phone could beat the Galaxy Z Flip 4 in several ways](https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/)
- - [Researchers find industrial robot exposure among Chinese workers led to a 7.5% decline in employment, 9% drop in hourly wages, and 14% increase in hours worked &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/221207/p1#a221207p1)<!-- TECH:END -->
+ - [WhatsApp is adding official support for Meta’s Bitmoji-style avatars](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)
+ - [You can now sign up for Telegram without a SIM](https://www.androidauthority.com/telegram-register-without-sim-card-3246256/)
+ - [Signature Bank plans to reduce its crypto-tied deposits by $8B-$10B to under 15%; as of September 2022, ~23.5% of the bank&#39;s $103B deposits came from crypto &lpar;Helene Braun/CoinDesk&rpar;](http://www.techmeme.com/221207/p4#a221207p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
