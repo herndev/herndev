@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This is the dock that lets Skydio drones truly fly themselves](https://www.theverge.com/2022/12/7/23498249/skydio-2-x2-dock-self-flying-drone-box)
- - [Apple Expands End-to-End Encryption to iCloud Backups](https://www.wired.com/story/apple-end-to-end-encryption-icloud-backups/)
- - [Dwarf Fortress is no longer PC’s most inscrutable game](https://www.theverge.com/23498267/dwarf-fortress-steam-itch-release-interview)<!-- TECH:END -->
+ - [Amazon Echo Auto &lpar;2nd gen&rpar; review: smaller but not smarter](https://www.theverge.com/23497203/amazon-echo-auto-2nd-gen-alexa-review-price)
+ - [Apple seeds Release Candidate developer beta of macOS Ventura 13.1](https://appleinsider.com/articles/22/12/07/apple-seeds-release-candidate-developer-beta-of-macos-ventura-131?utm_medium=rss)
+ - [Apple&#39;s plan to scan iPhone photos for child abuse material is dead](https://appleinsider.com/articles/22/12/07/apples-plan-to-scan-iphone-photos-for-child-abuse-material-is-dead?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
