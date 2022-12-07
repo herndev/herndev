@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rainbow Six Siege: Operation Solar Raid Introduces a Tech-Detecting Operator, a New Map, and Crossplay](https://news.xbox.com/en-us/2022/12/07/rainbow-six-siege-operation-solar-raid-introduces-a-tech-detecting-operator-a-new-map-and-crossplay/)
- - [How Overwatch 2 ranks work in competitive](https://www.pcgamer.com/how-overwatch-2s-competitive-ranks-work)
- - [Microsoft has been working on tabbed browsing for almost 30 years](https://www.pcgamer.com/microsoft-has-been-working-on-tabbed-browsing-for-almost-30-years)<!-- GAME:END -->
+ - [Overwatch 2: Season 2 is Now Live](https://news.xbox.com/en-us/2022/12/07/overwatch-2-season-2-is-now-live/)
+ - [Stardew Valley developer makes animated music video for Alvvays](https://www.polygon.com/23496675/stardew-valley-concernedape-eric-barone-alvvays-many-mirrors-music-video)
+ - [Destiny 2 game director responds to complaints about player burnout](https://www.pcgamer.com/destiny-2-game-director-responds-to-complaints-about-player-burnout)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
