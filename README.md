@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft signs a 10-year deal to bring Call of Duty to Nintendo platforms for the first time, pending FTC approval of its Activision Blizzard acquisition &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221206/p52#a221206p52)
- - [Pinterest adds Elliott Management&#39;s Marc Steinberg to its board as part of an agreement with the activist investor; Elliott has a stake of over 9% in Pinterest &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p51#a221206p51)
- - [US Congress omits the Journalism Competition and Preservation Act from the defense spending bill, amid intense pushback from industry and advocacy groups &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/221206/p50#a221206p50)<!-- TECH:END -->
+ - [Oppo’s first flip phone could beat the Galaxy Z Flip 4 in several ways](https://www.androidauthority.com/oppo-find-n2-flip-specs-leak-3246244/)
+ - [Researchers find industrial robot exposure among Chinese workers led to a 7.5% decline in employment, 9% drop in hourly wages, and 14% increase in hours worked &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/221207/p1#a221207p1)
+ - [Microsoft signs a 10-year deal to bring Call of Duty to Nintendo platforms for the first time, pending FTC approval of its Activision Blizzard acquisition &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221206/p52#a221206p52)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
