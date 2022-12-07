@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Far Cry 6 Expansion, Lost Between Worlds is Now Available](https://news.xbox.com/en-us/2022/12/07/new-far-cry-6-expansion-lost-between-worlds-is-now-available/)
- - [Feel the Heat of the Stia Region in Phantasy Star Online 2 New Genesis Today](https://news.xbox.com/en-us/2022/12/07/feel-the-heat-of-the-stia-region-in-phantasy-star-online-2-new-genesis-today/)
- - [Women get horny, but Hulu’s Chippendales show forgets to ask why](https://www.polygon.com/23496679/welcome-chippendales-review-cast-women)<!-- GAME:END -->
+ - [Rainbow Six Siege: Operation Solar Raid Introduces a Tech-Detecting Operator, a New Map, and Crossplay](https://news.xbox.com/en-us/2022/12/07/rainbow-six-siege-operation-solar-raid-introduces-a-tech-detecting-operator-a-new-map-and-crossplay/)
+ - [How Overwatch 2 ranks work in competitive](https://www.pcgamer.com/how-overwatch-2s-competitive-ranks-work)
+ - [Microsoft has been working on tabbed browsing for almost 30 years](https://www.pcgamer.com/microsoft-has-been-working-on-tabbed-browsing-for-almost-30-years)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
