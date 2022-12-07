@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)
- - ⏩ [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
- - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
+ - 💣 [The Fuk is this shet](http://9gag.com/gag/a3ZKw0v)
+ - ⏩ [F*CK the She Hulk series](http://9gag.com/gag/aL1jpDW)
+ - 👉 [That makes my day!](http://9gag.com/gag/a04K76n)<!-- MEMES:END -->
 
 ---
 
