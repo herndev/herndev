@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4 is the Diablo I&#39;ve been waiting for](https://www.pcgamer.com/diablo-4-preview)
- - [Diablo 4 hands-on: A more expansive, customizable loot-filled adventure](https://blog.playstation.com/2022/12/07/diablo-4-hands-on-a-more-expansive-customizable-loot-filled-adventure/)
- - [Diablo 4 is taking itself very seriously](https://www.polygon.com/23498149/diablo-4-preview-beta-impressions-classes-tone-dark)<!-- GAME:END -->
+ - [Xbox Supports Mental Health Through the Power of Play](https://news.xbox.com/en-us/2022/12/07/xbox-supports-mental-health-through-power-of-play/)
+ - [The Game Awards’ Fashion Highlights The Industry’s Identity Crisis](https://kotaku.com/game-awards-2022-fashion-geoff-keighley-hideo-kojima-1849864018)
+ - [The 9 Most Busted Games Of 2022](https://kotaku.com/video-game-bugs-2022-pokemon-scarlet-violet-warzone-2-1849863995)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
