@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Winner gets the lady :&rpar;](http://9gag.com/gag/avQOL7E)
- - ⏩ [That was really close](http://9gag.com/gag/a04KK6Q)
- - 👉 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)<!-- MEMES:END -->
+ - 💣 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - ⏩ [Most video games these days](http://9gag.com/gag/a5XoRmo)
+ - 👉 [Confess one lie...](http://9gag.com/gag/a4o73Zp)<!-- MEMES:END -->
 
 ---
 
