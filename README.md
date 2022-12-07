@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - ⏩ [Ma man came fully equipped](http://9gag.com/gag/aRE37oB)
- - 👉 [It\u2019s Tiny but it\u2019s Home](http://9gag.com/gag/a1PoWbw)<!-- MEMES:END -->
+ - 💣 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
+ - ⏩ [Based skeletons](http://9gag.com/gag/a4o73gQ)
+ - 👉 [Thank god](http://9gag.com/gag/aqe7nxL)<!-- MEMES:END -->
 
 ---
 
