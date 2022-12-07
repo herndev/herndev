@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
- - ⏩ [Isengard &amp; safety](http://9gag.com/gag/armgn17)
- - 👉 [You have such a cool jacket, undress bro...](http://9gag.com/gag/amA7gWj)<!-- MEMES:END -->
+ - 💣 [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
+ - ⏩ [Some languages are... different](http://9gag.com/gag/a04KQ8v)
+ - 👉 [Social media in a different perspective.](http://9gag.com/gag/a7qMdeA)<!-- MEMES:END -->
 
 ---
 
