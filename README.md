@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon Echo Auto &lpar;2nd gen&rpar; review: smaller but not smarter](https://www.theverge.com/23497203/amazon-echo-auto-2nd-gen-alexa-review-price)
- - [Apple seeds Release Candidate developer beta of macOS Ventura 13.1](https://appleinsider.com/articles/22/12/07/apple-seeds-release-candidate-developer-beta-of-macos-ventura-131?utm_medium=rss)
- - [Apple&#39;s plan to scan iPhone photos for child abuse material is dead](https://appleinsider.com/articles/22/12/07/apples-plan-to-scan-iphone-photos-for-child-abuse-material-is-dead?utm_medium=rss)<!-- TECH:END -->
+ - [OtterBox Fre Series Case Review: Waterproof Your iPhone](https://appleinsider.com/articles/22/12/06/otterbox-fre-series-case-review-waterproof-your-iphone?utm_medium=rss)
+ - [Your home security system may now be a little smarter](https://www.theverge.com/2022/12/7/23496201/alarm-dot-com-smart-arming-home-security-system)
+ - [Get a free Pixel 7 Pro with trade-in, and more Google Pixel holiday deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
