@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Fuk is this shet](http://9gag.com/gag/a3ZKw0v)
- - ⏩ [F*CK the She Hulk series](http://9gag.com/gag/aL1jpDW)
- - 👉 [That makes my day!](http://9gag.com/gag/a04K76n)<!-- MEMES:END -->
+ - 💣 [Uncertainty](http://9gag.com/gag/a04KNmn)
+ - ⏩ [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 ---
 
