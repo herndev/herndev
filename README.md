@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gwent Being Left In The Cold As CD Projekt Red Plans To End Support](https://kotaku.com/witcher-3-cd-projeckt-red-gwent-cdpr-1849861433)
- - [The Witcher’s take on Pokémon Go is coming to a stop](https://www.polygon.com/23497135/the-witcher-monster-slayer-shutdown-mobile-game-pokemon-go)
- - [Where to find the Elemental Rods in Marvel’s Midnight Suns](https://www.polygon.com/guides/23495553/elemental-earth-fire-air-water-rod-agatha-word-of-power-atum)<!-- GAME:END -->
+ - [Tons of game developers praise Dwarf Fortress in celebration of its Steam launch](https://www.pcgamer.com/tons-of-game-developers-are-praising-dwarf-fortress-today-in-celebration-of-its-steam-launch)
+ - [Witcher 3 Next-Gen Update Will Include Some Fan-Made Mods, Break Loads Of Others](https://kotaku.com/witcher-3-mods-pc-next-gen-update-patch-mod-compat-1849861301)
+ - [Blizzard disables Standard Hearthstone packs because they were dishing out new Signature cards like candy](https://www.pcgamer.com/blizzard-disables-standard-hearthstone-packs-because-they-were-dishing-out-new-signature-cards-like-candy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
