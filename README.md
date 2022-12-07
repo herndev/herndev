@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Music Sing turns iPhone &amp; Apple TV into karaoke machine](https://appleinsider.com/articles/22/12/06/apple-music-sing-turns-iphone-apple-tv-into-karaoke-machine?utm_medium=rss)
- - [Microsoft reaches 10-year deal with Nintendo for Call of Duty](https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement)
- - [Wordle, Elections Dominated Google Searches in 2022     - CNET](https://www.cnet.com/culture/internet/wordle-elections-dominated-google-searches-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Robotaxis are now available to hail on the Uber app in Las Vegas](https://www.theverge.com/2022/12/7/23496383/uber-motional-av-robotaxi-las-vegas-ridehail)
+ - [Twitter ads for Amazon, Snap, Uber, and other major brands appeared on the pages of at least two white nationalists, whose accounts were restored by Elon Musk &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221207/p10#a221207p10)
+ - [Twitter advertisers aren’t happy with ads appearing on pages of white nationalists](https://www.theverge.com/2022/12/7/23497928/twitter-advertisers-brand-safety-unbanned-accounts-white-nationalists)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
