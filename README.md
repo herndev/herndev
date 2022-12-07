@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SpaceX announces Starshield, expanding Starlink for military and government applications, initially focusing on imagery, communications, and &quot;hosted payloads&quot; &lpar;Michael Sheetz/CNBC&rpar;](http://www.techmeme.com/221207/p18#a221207p18)
- - [Disney Dreamlight Valley comes to Apple Silicon Mac](https://appleinsider.com/articles/22/12/07/disney-dreamlight-valley-comes-to-apple-silicon-mac?utm_medium=rss)
- - [Poll: How long does it take to fully charge your phone?](https://www.androidauthority.com/how-long-charge-phone-poll-3248397/)<!-- TECH:END -->
+ - [Wednesday’s Top Tech News: Chips born in the USA](https://www.theverge.com/2022/12/7/23497958/december-7-2022-tech-news-liveblog)
+ - [Despite Joe Biden and Tim Cook celebrating TSMC&#39;s long-planned Arizona fabs, the tech will be outdated and capacity small, a far cry from US chip independence &lpar;Tim Culpan/Bloomberg&rpar;](http://www.techmeme.com/221207/p21#a221207p21)
+ - [Sources: India tells Nick Clegg and other Meta executives that takedown requests must be completed within one hour and says Google does a better job than Meta &lpar;Deepsekhar Choudhury/Moneycontrol&rpar;](http://www.techmeme.com/221207/p20#a221207p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
