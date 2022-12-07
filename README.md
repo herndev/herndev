@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Far Cry 6 Expansion, Lost Between Worlds is Now Available](https://news.xbox.com/en-us/2022/12/07/new-far-cry-6-expansion-lost-between-worlds-is-now-available/)
  - [Feel the Heat of the Stia Region in Phantasy Star Online 2 New Genesis Today](https://news.xbox.com/en-us/2022/12/07/feel-the-heat-of-the-stia-region-in-phantasy-star-online-2-new-genesis-today/)
- - [Welcome to Chippendales is seductive for the wrong reasons](https://www.polygon.com/23496679/welcome-chippendales-review-cast-women)
- - [This JRPG platformer&#39;s amateurish art hides one of 2022&#39;s best and wildest sleeper hits](https://www.pcgamer.com/this-platformer-jrpgs-amateurish-art-hides-one-of-2022s-best-and-wildest-sleeper-hits)<!-- GAME:END -->
+ - [Women get horny, but Hulu’s Chippendales show forgets to ask why](https://www.polygon.com/23496679/welcome-chippendales-review-cast-women)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
