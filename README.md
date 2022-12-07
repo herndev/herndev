@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
- - ⏩ [Some languages are... different](http://9gag.com/gag/a04KQ8v)
- - 👉 [Social media in a different perspective.](http://9gag.com/gag/a7qMdeA)<!-- MEMES:END -->
+ - 💣 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
+ - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)
+ - 👉 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)<!-- MEMES:END -->
 
 ---
 
