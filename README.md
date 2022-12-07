@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The deep inequalities of Facebook’s secretive cross-check moderation program](https://www.theverge.com/2022/12/7/23498030/facebook-moderation-scandal-xcheck-cross-check)
- - [A look at the digital asset diehards at Art Basel in Miami, who tried to ignore the fallout from FTX&#39;s collapse even as FTX merch remained, hidden in storerooms &lpar;Bloomberg&rpar;](http://www.techmeme.com/221207/p24#a221207p24)
- - [How to turn on Live Captions for FaceTime calls](https://appleinsider.com/inside/facetime/tips/how-to-turn-on-live-captions-for-facetime-calls?utm_medium=rss)<!-- TECH:END -->
+ - [Google discovered North Korea exploiting an Internet Explorer zero-day vulnerability in October](https://www.theverge.com/2022/12/7/23498226/google-north-korea-exploited-internet-explorer-vulnerability-security)
+ - [Thoma Bravo raised $32.4B for three tech-focused funds: $24.3B for its main buyout fund, up 36% on its predecessor, $6.2B for mid-market, and $1.8B for low-end &lpar;Preeti Singh/Bloomberg&rpar;](http://www.techmeme.com/221207/p27#a221207p27)
+ - [Apple will ship 9 million fewer iPhones in Q4 than expected](https://appleinsider.com/articles/22/12/07/apple-will-ship-9-million-fewer-iphones-in-q4-than-expected?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
