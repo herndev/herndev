@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dead Island 2: A Day in the Life of a Slayer](https://news.xbox.com/en-us/2022/12/07/dead-island-2-a-day-in-the-life-of-a-slayer/)
- - [Path of Titans Updates with a New World, First Pterosaurs, First Plesiosaurs! Gameplay Trailer Narrated by Robert Irwin](https://news.xbox.com/en-us/2022/12/07/path-of-titans-updates-with-a-new-world-first-pterosaurs-first-plesiosaurs-gameplay-trailer-narrated-by-robert-irwin/)
- - [Dwarf Fortress hit its 2-month sales estimate in under 24 hours](https://www.pcgamer.com/dwarf-fortress-hit-its-2-month-sales-estimate-in-under-24-hours)<!-- GAME:END -->
+ - [Feel the Heat of the Stia Region in Phantasy Star Online 2 New Genesis Today](https://news.xbox.com/en-us/2022/12/07/feel-the-heat-of-the-stia-region-in-phantasy-star-online-2-new-genesis-today/)
+ - [Welcome to Chippendales is seductive for the wrong reasons](https://www.polygon.com/23496679/welcome-chippendales-review-cast-women)
+ - [This JRPG platformer&#39;s amateurish art hides one of 2022&#39;s best and wildest sleeper hits](https://www.pcgamer.com/this-platformer-jrpgs-amateurish-art-hides-one-of-2022s-best-and-wildest-sleeper-hits)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
