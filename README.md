@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple picks up ten Critics Choice Awards nominations](https://appleinsider.com/articles/22/12/06/apple-picks-up-ten-critics-choice-award-nominations?utm_medium=rss)
- - [Chrome ‘@’ shortcuts search tabs, bookmarks, and history right from the address bar](https://www.theverge.com/2022/12/6/23496839/google-chrome-site-search-shortcuts-tabs-bookmarks-history)
- - [How to charge your Beats Studio Buds](https://www.androidauthority.com/how-to-charge-beats-studio-buds-3246099/)<!-- TECH:END -->
+ - [Tuesday’s top tech news: Apple’s DIY repair service comes to Europe](https://www.theverge.com/2022/12/6/23495999/december-6-2022-tech-news-liveblog)
+ - [Loft Dynamics, which makes a VR training simulator for helicopter pilots, has raised $20M in a round led by Craft Ventures, Sky Dayton, and Up Partners &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221206/p45#a221206p45)
+ - [The Most Badass Off-Road EV Comes From Scotland     - CNET](https://www.cnet.com/roadshow/news/the-most-badass-off-road-ev-comes-from-scotland/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
