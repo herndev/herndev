@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US Congress omits the Journalism Competition and Preservation Act from the defense spending bill, amid intense pushback from industry and advocacy groups &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/221206/p50#a221206p50)
- - [An Australian court fined Uber A$21M for threatening cancellation fees it never charged and overstating fare estimates on some rides; ACCC sought a A$26M fine &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/221206/p49#a221206p49)
- - [NovaPlus A8 Duo review: Inexpensive Apple Pencil-like stylus for iPad](https://appleinsider.com/articles/22/12/07/novaplus-a8-duo-review-inexpensive-apple-pencil-like-stylus-for-ipad?utm_medium=rss)<!-- TECH:END -->
+ - [Microsoft signs a 10-year deal to bring Call of Duty to Nintendo platforms for the first time, pending FTC approval of its Activision Blizzard acquisition &lpar;Shannon Liao/Washington Post&rpar;](http://www.techmeme.com/221206/p52#a221206p52)
+ - [Pinterest adds Elliott Management&#39;s Marc Steinberg to its board as part of an agreement with the activist investor; Elliott has a stake of over 9% in Pinterest &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/221206/p51#a221206p51)
+ - [US Congress omits the Journalism Competition and Preservation Act from the defense spending bill, amid intense pushback from industry and advocacy groups &lpar;Cristiano Lima/Washington Post&rpar;](http://www.techmeme.com/221206/p50#a221206p50)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
