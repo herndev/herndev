@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - ⏩ [Social media in a different perspective.](http://9gag.com/gag/a7qMdeA)
- - 👉 [Didn&#39;t expect that](http://9gag.com/gag/aoKNOpw)<!-- MEMES:END -->
+ - 💣 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
+ - ⏩ [Isengard &amp; safety](http://9gag.com/gag/armgn17)
+ - 👉 [You have such a cool jacket, undress bro...](http://9gag.com/gag/amA7gWj)<!-- MEMES:END -->
 
 ---
 
