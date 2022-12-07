@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Instagram debuts transparency tools to let users with professional accounts, like businesses and creators, know if their content is ineligible to be recommended &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221207/p35#a221207p35)
- - [You can&#39;t combine two Apple IDs -- but here&#39;s what you can do](https://appleinsider.com/inside/icloud/tips/you-cant-combine-two-apple-ids----but-heres-what-you-can-do?utm_medium=rss)
- - [Want more shows like His Dark Materials? What to watch after the final season](https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/)<!-- TECH:END -->
+ - [Indiana sues TikTok for misleading users on child safety and data security](https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security)
+ - [The Pentagon awards Amazon, Google, Microsoft, and Oracle a cloud-computing contract of up to $9B each through 2028 under the Joint Warfighting Cloud Capability &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221207/p38#a221207p38)
+ - [Dish’s $25-a-month Boost Infinite plan is now out in beta](https://www.theverge.com/2022/12/7/23498877/dish-boost-infinite-cell-plan-5g-25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
