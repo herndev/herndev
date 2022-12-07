@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Apple Music Sing turns iPhone &amp; Apple TV into karaoke machine](https://appleinsider.com/articles/22/12/06/apple-music-sing-turns-iphone-apple-tv-into-karaoke-machine?utm_medium=rss)
  - [Microsoft reaches 10-year deal with Nintendo for Call of Duty](https://www.theverge.com/2022/12/7/23497908/microsoft-call-of-duty-nintendo-valve-steam-deal-agreement)
- - [WhatsApp is adding official support for Meta’s Bitmoji-style avatars](https://www.theverge.com/2022/12/7/23496589/whatsapp-meta-avatar-profile-pictures-characters-stickers)
- - [You can now sign up for Telegram without a SIM](https://www.androidauthority.com/telegram-register-without-sim-card-3246256/)<!-- TECH:END -->
+ - [Wordle, Elections Dominated Google Searches in 2022     - CNET](https://www.cnet.com/culture/internet/wordle-elections-dominated-google-searches-in-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
