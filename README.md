@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
- - ⏩ [Completely normal phenomenon](http://9gag.com/gag/a2Ko48E)
- - 👉 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)<!-- MEMES:END -->
+ - 💣 [They&#39;ll blame it on racism, I&#39;d bet my left nut.](http://9gag.com/gag/axo1M8p)
+ - ⏩ [\u201cThere is always time for Lubricant\u201c](http://9gag.com/gag/a8qo1Ae)
+ - 👉 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)<!-- MEMES:END -->
 
 ---
 
