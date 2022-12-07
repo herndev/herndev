@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Microsoft Flight Simulator Celebrates 10 Million Pilots](https://news.xbox.com/en-us/2022/12/07/microsoft-flight-simulator-celebrates-10-million-pilots/)
- - [Report: Sonic Creator Arrested Again, This Time Over Final Fantasy](https://kotaku.com/yuki-naka-sonic-final-fantasy-arrest-insider-trading-1849862968)
- - [All Destiny 2 Override Frequency locations](https://www.pcgamer.com/destiny-2-override-frequency-locations)<!-- GAME:END -->
+ - [Diablo 4 is the Diablo I&#39;ve been waiting for](https://www.pcgamer.com/diablo-4-preview)
+ - [Diablo 4 hands-on: A more expansive, customizable loot-filled adventure](https://blog.playstation.com/2022/12/07/diablo-4-hands-on-a-more-expansive-customizable-loot-filled-adventure/)
+ - [Diablo 4 is taking itself very seriously](https://www.polygon.com/23498149/diablo-4-preview-beta-impressions-classes-tone-dark)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
