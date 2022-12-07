@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indiana&#39;s AG sues TikTok for deceiving users about China&#39;s access to data and for exposing kids to mature content, in the first US state lawsuits against TikTok &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/221207/p33#a221207p33)
- - [Amazon slashes 2022 Apple Watch SE 2 to $209.99 via hidden discount](https://appleinsider.com/articles/22/12/07/amazon-slashes-2022-apple-watch-se-2-to-20999-via-hidden-discount?utm_medium=rss)
- - [Apple Pay customers get holiday perks by shopping online](https://appleinsider.com/articles/22/12/07/apple-pay-customers-get-holiday-perks-by-shopping-online?utm_medium=rss)<!-- TECH:END -->
+ - [Instagram debuts transparency tools to let users with professional accounts, like businesses and creators, know if their content is ineligible to be recommended &lpar;Aisha Malik/TechCrunch&rpar;](http://www.techmeme.com/221207/p35#a221207p35)
+ - [You can&#39;t combine two Apple IDs -- but here&#39;s what you can do](https://appleinsider.com/inside/icloud/tips/you-cant-combine-two-apple-ids----but-heres-what-you-can-do?utm_medium=rss)
+ - [Want more shows like His Dark Materials? What to watch after the final season](https://www.androidauthority.com/shows-like-his-dark-materials-season-3-hbo-3248439/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
