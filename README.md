@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox Fre Series Case Review: Waterproof Your iPhone](https://appleinsider.com/articles/22/12/06/otterbox-fre-series-case-review-waterproof-your-iphone?utm_medium=rss)
- - [Your home security system may now be a little smarter](https://www.theverge.com/2022/12/7/23496201/alarm-dot-com-smart-arming-home-security-system)
- - [Get a free Pixel 7 Pro with trade-in, and more Google Pixel holiday deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Indiana&#39;s AG sues TikTok for deceiving users about China&#39;s access to data and for exposing kids to mature content, in the first US state lawsuits against TikTok &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/221207/p33#a221207p33)
+ - [Amazon slashes 2022 Apple Watch SE 2 to $209.99 via hidden discount](https://appleinsider.com/articles/22/12/07/amazon-slashes-2022-apple-watch-se-2-to-20999-via-hidden-discount?utm_medium=rss)
+ - [Apple Pay customers get holiday perks by shopping online](https://appleinsider.com/articles/22/12/07/apple-pay-customers-get-holiday-perks-by-shopping-online?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
