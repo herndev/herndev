@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Robotaxis are now available to hail on the Uber app in Las Vegas](https://www.theverge.com/2022/12/7/23496383/uber-motional-av-robotaxi-las-vegas-ridehail)
- - [Twitter ads for Amazon, Snap, Uber, and other major brands appeared on the pages of at least two white nationalists, whose accounts were restored by Elon Musk &lpar;Faiz Siddiqui/Washington Post&rpar;](http://www.techmeme.com/221207/p10#a221207p10)
- - [Twitter advertisers aren’t happy with ads appearing on pages of white nationalists](https://www.theverge.com/2022/12/7/23497928/twitter-advertisers-brand-safety-unbanned-accounts-white-nationalists)<!-- TECH:END -->
+ - [How to use cheat.sh in macOS Terminal](https://appleinsider.com/articles/22/12/07/how-to-use-cheatsh-in-macos-terminal?utm_medium=rss)
+ - [Stockholm-based autonomous and electric truck company Einride raised a $200M Series C from Northzone and others and $300M in debt from Barclays &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p14#a221207p14)
+ - [Protect a charging iPhone &amp; iPad with a Baseus 40W Power Strip](https://appleinsider.com/articles/22/12/07/protect-a-charging-iphone-ipad-with-a-baseus-40w-power-strip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
