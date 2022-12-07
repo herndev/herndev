@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Congrats Morocco!](http://9gag.com/gag/a3ZKKnv)
- - ⏩ [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)
- - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
+ - 💣 [Japan](http://9gag.com/gag/aKEjjeZ)
+ - ⏩ [Surgeon](http://9gag.com/gag/aGEjeN0)
+ - 👉 [Horseshoe crabs having their blood harvested at a medical lab. Their blood is very important for vaccine development as it helps to prevent bacterial contamination. Most horseshoe crabs survive this process and are released back into the wild.](http://9gag.com/gag/aoKN99x)<!-- MEMES:END -->
 
 ---
 
