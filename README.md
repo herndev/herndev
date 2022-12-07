@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [French environment group files complaint over iPhone repair practices](https://appleinsider.com/articles/22/12/07/french-environment-group-files-complaint-over-iphone-repair-practices?utm_medium=rss)
- - [20-inch foldable MacBook rumored to launch as soon as 2026](https://appleinsider.com/articles/22/12/07/20-inch-foldable-macbook-rumored-to-launch-as-soon-as-2026?utm_medium=rss)
- - [Apple&#39;s M1 Max MacBook Pro 14-inch with 32GB RAM dips to $2,445, plus $70 off AppleCare](https://appleinsider.com/articles/22/12/07/apples-m1-max-macbook-pro-14-inch-with-32gb-ram-dips-to-2445-plus-70-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [This is the dock that lets Skydio drones truly fly themselves](https://www.theverge.com/2022/12/7/23498249/skydio-2-x2-dock-self-flying-drone-box)
+ - [Apple Expands End-to-End Encryption to iCloud Backups](https://www.wired.com/story/apple-end-to-end-encryption-icloud-backups/)
+ - [Dwarf Fortress is no longer PC’s most inscrutable game](https://www.theverge.com/23498267/dwarf-fortress-steam-itch-release-interview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
