@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kung-fu brawler Sifu is being turned into a live-action movie](https://www.pcgamer.com/kung-fu-brawler-sifu-is-being-turned-into-a-live-action-movie)
- - [Bitfenix Nova PC case](https://www.pcgamer.com/bitfenix-nova-pc-case-review)
- - [Aerocool Tomahawk PC case](https://www.pcgamer.com/aerocool-tomahawk-pc-case-review)<!-- GAME:END -->
+ - [Microsoft makes 10-year COD commitment to Steam and Nintendo in a deal that&#39;s really about Sony](https://www.pcgamer.com/microsoft-makes-10-year-cod-commitment-to-steam-and-nintendo-in-a-deal-thats-really-about-sony)
+ - [Intel Arc graphics beta driver delivers up to 80% more performance in DX9 games](https://www.pcgamer.com/intel-arc-graphics-beta-driver-delivers-up-to-80-more-performance-in-dx9-games)
+ - [Kung-fu brawler Sifu is being turned into a live-action movie](https://www.pcgamer.com/kung-fu-brawler-sifu-is-being-turned-into-a-live-action-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
