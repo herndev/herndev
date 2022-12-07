@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Now im pith off](http://9gag.com/gag/aqe77bR)
- - ⏩ [We live in a world!](http://9gag.com/gag/a04KpDd)
- - 👉 [This brings joy...](http://9gag.com/gag/axo10rK)<!-- MEMES:END -->
+ - 💣 [Surgeon](http://9gag.com/gag/aGEjeN0)
+ - ⏩ [My absolut favorit winter Meme](http://9gag.com/gag/aWG1M1d)
+ - 👉 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)<!-- MEMES:END -->
 
 ---
 
