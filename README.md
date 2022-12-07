@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Surgeon](http://9gag.com/gag/aGEjeN0)
- - ⏩ [My absolut favorit winter Meme](http://9gag.com/gag/aWG1M1d)
- - 👉 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)<!-- MEMES:END -->
+ - 💣 [Where the zookeeper?](http://9gag.com/gag/adPKKpV)
+ - ⏩ [That was really close](http://9gag.com/gag/a04KK6Q)
+ - 👉 [Surgeon](http://9gag.com/gag/aGEjeN0)<!-- MEMES:END -->
 
 ---
 
