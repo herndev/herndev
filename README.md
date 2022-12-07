@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - ⏩ [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 💣 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)
+ - ⏩ [This round of Rock, paper and scissors](http://9gag.com/gag/ap92GVn)
  - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 ---
