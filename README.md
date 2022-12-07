@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Supports Mental Health Through the Power of Play](https://news.xbox.com/en-us/2022/12/07/xbox-supports-mental-health-through-power-of-play/)
- - [The Game Awards’ Fashion Highlights The Industry’s Identity Crisis](https://kotaku.com/game-awards-2022-fashion-geoff-keighley-hideo-kojima-1849864018)
- - [The 9 Most Busted Games Of 2022](https://kotaku.com/video-game-bugs-2022-pokemon-scarlet-violet-warzone-2-1849863995)<!-- GAME:END -->
+ - [Dead Island 2: A Day in the Life of a Slayer](https://news.xbox.com/en-us/2022/12/07/dead-island-2-a-day-in-the-life-of-a-slayer/)
+ - [Path of Titans Updates with a New World, First Pterosaurs, First Plesiosaurs! Gameplay Trailer Narrated by Robert Irwin](https://news.xbox.com/en-us/2022/12/07/path-of-titans-updates-with-a-new-world-first-pterosaurs-first-plesiosaurs-gameplay-trailer-narrated-by-robert-irwin/)
+ - [Dwarf Fortress hit its 2-month sales estimate in under 24 hours](https://www.pcgamer.com/dwarf-fortress-hit-its-2-month-sales-estimate-in-under-24-hours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
