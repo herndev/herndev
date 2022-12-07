@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Nigeria&#39;s central bank slashes the daily ATM withdrawal limit from ~$337/day to ~$45/day in a bid to boost digital payments and eNaira digital currency adoption &lpar;Bloomberg&rpar;](http://www.techmeme.com/221206/p48#a221206p48)
  - [Holiday Gift Guide for Mac: affordable gift ideas under $100](https://appleinsider.com/articles/22/12/06/holiday-gift-guide-for-mac-affordable-gift-ideas-under-100?utm_medium=rss)
- - [A survey finds that while 50% of businesses have adopted AI in 2022, 2.5x higher than in 2017, AI adoption has plateaued between 50%-60% for the past few years &lpar;McKinsey &amp; Company&rpar;](http://www.techmeme.com/221206/p47#a221206p47)
- - [Tim Cook and President Biden came to Arizona to announce plans for American-made chips](https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia)<!-- TECH:END -->
+ - [A survey finds that while 50% of businesses have adopted AI in 2022, 2.5x higher than in 2017, AI adoption has plateaued between 50%-60% for the past few years &lpar;McKinsey &amp; Company&rpar;](http://www.techmeme.com/221206/p47#a221206p47)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
