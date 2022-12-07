@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Kung-fu brawler Sifu is being turned into a live-action movie](https://www.pcgamer.com/kung-fu-brawler-sifu-is-being-turned-into-a-live-action-movie)
  - [Bitfenix Nova PC case](https://www.pcgamer.com/bitfenix-nova-pc-case-review)
- - [Aerocool Tomahawk PC case](https://www.pcgamer.com/aerocool-tomahawk-pc-case-review)
- - [Kolink Nimbus PC case](https://www.pcgamer.com/kolink-nimbus-pc-case-review)<!-- GAME:END -->
+ - [Aerocool Tomahawk PC case](https://www.pcgamer.com/aerocool-tomahawk-pc-case-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
