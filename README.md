@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: Apple’s DIY repair service comes to Europe](https://www.theverge.com/2022/12/6/23495999/december-6-2022-tech-news-liveblog)
- - [Loft Dynamics, which makes a VR training simulator for helicopter pilots, has raised $20M in a round led by Craft Ventures, Sky Dayton, and Up Partners &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221206/p45#a221206p45)
- - [The Most Badass Off-Road EV Comes From Scotland     - CNET](https://www.cnet.com/roadshow/news/the-most-badass-off-road-ev-comes-from-scotland/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Holiday Gift Guide for Mac: affordable gift ideas under $100](https://appleinsider.com/articles/22/12/06/holiday-gift-guide-for-mac-affordable-gift-ideas-under-100?utm_medium=rss)
+ - [A survey finds that while 50% of businesses have adopted AI in 2022, 2.5x higher than in 2017, AI adoption has plateaued between 50%-60% for the past few years &lpar;McKinsey &amp; Company&rpar;](http://www.techmeme.com/221206/p47#a221206p47)
+ - [Tim Cook and President Biden came to Arizona to announce plans for American-made chips](https://www.theverge.com/2022/12/6/23497417/apple-tsmc-phoenix-fab-plans-biden-amd-nvidia)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
