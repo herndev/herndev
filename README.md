@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Noctua&#39;s making $10 screwdrivers, and yep, they&#39;re brown](https://www.pcgamer.com/noctuas-making-dollar10-screwdrivers-and-yep-theyre-brown)
  - [Microsoft Announces Bizarre Pledge To Bring Call of Duty To Nintendo Consoles](https://kotaku.com/microsoft-activision-call-of-duty-nintendo-switch-steam-1849862479)
- - [World Cup Player Gets Gaming Setup Shipped To Qatar So He Can Play Fortnite](https://kotaku.com/world-cup-2022-qatar-jordan-pickford-england-fortnite-1849862372)
- - [Vomiting goats, kitten fights, ghost beheadings, and other reasons Steam reviewers are giving Dwarf Fortress 10/10 &lpar;or higher&rpar;](https://www.pcgamer.com/vomiting-goats-kitten-fights-ghost-beheadings-and-other-reasons-steam-reviewers-are-giving-dwarf-fortress-1010-or-higher)<!-- GAME:END -->
+ - [World Cup Player Gets Gaming Setup Shipped To Qatar So He Can Play Fortnite](https://kotaku.com/world-cup-2022-qatar-jordan-pickford-england-fortnite-1849862372)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
