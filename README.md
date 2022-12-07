@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
- - ⏩ [Uncertainty](http://9gag.com/gag/a04KNmn)
- - 👉 [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)<!-- MEMES:END -->
+ - ⏩ [Carlton from The Fresh Prince of Bel-Air and his family...](http://9gag.com/gag/anzM9An)
+ - 👉 [We live in a world!](http://9gag.com/gag/a04KpDd)<!-- MEMES:END -->
 
 ---
 
