@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 🔍 Google’s year in search](https://www.androidauthority.com/daily-authority-december-8-2022-3248854/)
  - [Realme announces it’s launching the Realme 10 Pro series globally](https://www.androidauthority.com/realme-10-pro-global-3248638/)
- - [Filings: Masayoshi Son&#39;s SoftBank stake grew from 32.2% in end-September to 34.2%, up from 26.7% in March 2019, granting additional rights over mergers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221208/p5#a221208p5)
- - [Singapore-based UnaBiz, a Massive IoT service provider that owns Sigfox, raised a $25M Series B extension led by SPARX, after a $25M Series B in October 2021 &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221208/p4#a221208p4)<!-- TECH:END -->
+ - [Filings: Masayoshi Son&#39;s SoftBank stake grew from 32.2% in end-September to 34.2%, up from 26.7% in March 2019, granting additional rights over mergers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221208/p5#a221208p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
