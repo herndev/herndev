@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Source: Twitter plans to change the pricing of Twitter Blue to $7/month if users pay for it through the web and $11 if they pay for it through Apple&#39;s App Store &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/221207/p44#a221207p44)
- - [Google plans to merge Waze&#39;s 500+ employees with the group overseeing Maps, starting on Dec. 9; Waze to remain a stand-alone service and its CEO to exit role &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/221207/p43#a221207p43)
- - [Drata, which uses automation to help companies adhere to compliance frameworks, raised a $200M Series C led by Iconiq Growth and GGV Capital at a $2B valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p42#a221207p42)<!-- TECH:END -->
+ - [Austin-based Setpoint, whose software helps companies close loan transactions faster, raised a $43M Series A led by a16z and aims to be the &quot;Stripe for credit&quot; &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221207/p46#a221207p46)
+ - [Pwn2Own Toronto 2022: participants earned a total of $400K for new exploits targeting Samsung Galaxy S22, printers, routers, and NAS devices on the first day &lpar;Eduard Kovacs/SecurityWeek&rpar;](http://www.techmeme.com/221207/p45#a221207p45)
+ - [&#39;Wonder Woman 3&#39; as You Know It Is Reportedly Not Going Ahead     - CNET](https://www.cnet.com/culture/entertainment/wonder-woman-3-as-you-know-it-is-reportedly-not-going-ahead/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
