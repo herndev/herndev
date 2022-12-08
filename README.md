@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dad’s Monster House Brings a Unique Horror Puzzle Adventure to Xbox](https://news.xbox.com/en-us/2022/12/08/dads-monster-house-brings-a-unique-horror-puzzle-adventure-to-xbox/)
- - [This gorgeous Breath of the Wild-like is being made by an Overwatch 2 dev in his spare time](https://www.pcgamer.com/this-gorgeous-breath-of-the-wild-like-is-being-made-by-an-overwatch-2-dev-in-his-spare-time)
- - [Xbox Game Pass players get all Valorant and League characters unlocked next week](https://www.polygon.com/23500359/league-of-legends-valorant-wild-rift-game-pass-champions-unlocked-agents)<!-- GAME:END -->
+ - [League Of Legends, Valorant Unlock All Characters On Game Pass](https://kotaku.com/league-of-legends-valorant-xbox-game-pass-unlock-free-1849871979)
+ - [Diablo 4 devs reportedly struggling to hit June release date](https://www.pcgamer.com/diablo-4-devs-reportedly-struggling-to-hit-june-release-date)
+ - [Riot Games suing NetEase over Valorant ‘copy’](https://www.polygon.com/23500704/riot-games-netease-lawsuit-valorant-hyper-front)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
