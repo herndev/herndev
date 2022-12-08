@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Dear Netflix, ...](http://9gag.com/gag/aDYx7AG)
- - 👉 [Another stupid cyclist](http://9gag.com/gag/a1Po7AR)<!-- MEMES:END -->
+ - 💣 [It&#39;s called perfection, and it takes time.](http://9gag.com/gag/a9qpqYZ)
+ - ⏩ [Must have been a lovely evening..](http://9gag.com/gag/adPKv8Z)
+ - 👉 [Confussion of da highest orda!!](http://9gag.com/gag/awZXgjr)<!-- MEMES:END -->
 
 ---
 
