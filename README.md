@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metal: Hellsinger Turns up the Heat in Latest Content Update](https://news.xbox.com/en-us/2022/12/08/metal-hellsinger-turns-up-the-heat-in-latest-content-update/)
- - [Play Now: Jurassic World Evolution 2: Dominion Malta Expansion](https://news.xbox.com/en-us/2022/12/08/play-now-jurassic-world-evolution-2-dominion-malta-expansion/)
- - [World of Warcraft: Dragonflight’s best plotline is a messy family drama](https://www.polygon.com/23494970/world-of-warcraft-wow-dragonflight-wrathion-sabellian-lore-succession)<!-- GAME:END -->
+ - [The Backyard is Home to Over 15 Million Players](https://news.xbox.com/en-us/2022/12/08/the-backyard-is-home-to-over-15-million-players/)
+ - [The 14 best Stardew Valley mods to shake up your playthrough](https://www.polygon.com/gaming/23489878/stardew-valley-mods-extended)
+ - [Red Dead Redemption 2 mod gives Arthur a moonshine operation like Red Dead Online&#39;s](https://www.pcgamer.com/red-dead-redemption-2-mod-gives-arthur-a-moonshine-operation-like-red-dead-onlines)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
