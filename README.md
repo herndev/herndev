@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Thursday, December 8](https://www.pcgamer.com/wordle-537-answer-december-8)
  - [Things to read and watch after playing Darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)
- - [These Christmas house displays put gamer RGB lights to shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)
- - [Dwarf Fortress beginner&#39;s guide](https://www.pcgamer.com/dwarf-fortress-beginners-guide)<!-- GAME:END -->
+ - [These Christmas house displays put gamer RGB lights to shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
