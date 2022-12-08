@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of incoming GOP House majority whip Tom Emmer, a rare crypto advocate who has developed close ties to the industry in a skeptical Congress &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/221208/p22#a221208p22)
- - [FDA approves iPhone connectible Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/08/fda-approves-iphone-connectible-dexcom-g7-glucose-monitor?utm_medium=rss)
- - [Here are the best Netflix Christmas movies to stream this holiday season](https://www.androidauthority.com/best-netflix-christmas-movies-3248352/)<!-- TECH:END -->
+ - [Cameo launches Cameo Kids, with personalized videos from popular animated characters like Thomas the Tank Engine, Blippi, and CoComelon&#39;s Nina, for $25 to $30 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221208/p23#a221208p23)
+ - [Google is bringing together its Waze and Maps teams as it pushes to reduce overlap](https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity)
+ - [Audeze’s $300 gaming headset promises comfort and multipoint Bluetooth](https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
