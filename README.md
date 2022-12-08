@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Affinity Bands expands Apple Watch collection with Peanuts, Betty Book, USPS](https://appleinsider.com/articles/22/12/08/affinity-bands-expands-apple-watch-collection-with-peanuts-betty-book-usps?utm_medium=rss)
- - [The hornet formerly known as ‘murder’ hasn’t been spotted in Washington state this year](https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state)
- - [Thursday’s top tech news: Another Theranos exec sentenced to over a decade in prison](https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Mike Flanagan is creating a TV series for The Dark Tower](https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon)
+ - [Some Twitch streamers are migrating to other services, burned out by earnings coupled to hours streamed, parasocial pressure from subscribers, and more &lpar;Fadeke Adegbuyi/Every&rpar;](http://www.techmeme.com/221208/p27#a221208p27)
+ - [These Discover Samsung flash deals are worth catching](https://www.androidauthority.com/discover-samsung-deals-3249016/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
