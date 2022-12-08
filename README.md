@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [There is now a specific date for when Apple will need to stop using Lightning](https://www.androidauthority.com/apple-usb-c-date-3249143/)
- - [Hong Kong will require virtual asset service providers to pass strict anti-money laundering guidelines and investor protection laws from June 1, 2023 &lpar;Prashant Jha/Cointelegraph&rpar;](http://www.techmeme.com/221208/p29#a221208p29)
- - [Google’s giving Pixel 7 Pro owners more control over macro mode](https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle)<!-- TECH:END -->
+ - [Windows 11 is finally getting a built-in screen recording tool](https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool)
+ - [Airtable, a developer of cloud-based collaboration software last valued at $11B in 2021, lays off 254 staffers or around 20% of its workforce &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221208/p31#a221208p31)
+ - [Google merges its Waze and Maps teams into one in latest cost-cutting measure](https://www.androidauthority.com/google-waze-maps-3249134/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
