@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Maryland Apple Store starting union negotiations in early 2023](https://appleinsider.com/articles/22/12/08/maryland-apple-store-starting-union-negotiations-in-early-2023?utm_medium=rss)
- - [The latest Motorola Moto G Play is a 4G-only phone for $170](https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability)
- - [Discover Samsung deals: save up to $1,200 on Odyssey Ark, M8 monitor, Bespoke appliances](https://appleinsider.com/articles/22/12/08/discover-samsung-deals-save-up-to-1200-on-odyssey-ark-m8-monitor-bespoke-appliances?utm_medium=rss)<!-- TECH:END -->
+ - [There is now a specific date for when Apple will need to stop using Lightning](https://www.androidauthority.com/apple-usb-c-date-3249143/)
+ - [Hong Kong will require virtual asset service providers to pass strict anti-money laundering guidelines and investor protection laws from June 1, 2023 &lpar;Prashant Jha/Cointelegraph&rpar;](http://www.techmeme.com/221208/p29#a221208p29)
+ - [Google’s giving Pixel 7 Pro owners more control over macro mode](https://www.theverge.com/2022/12/8/23500396/google-pixel-7-pro-camera-macro-toggle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
