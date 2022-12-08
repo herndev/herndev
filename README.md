@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)
- - ⏩ [Everyone is an asshole except the cop](http://9gag.com/gag/aMEjd16)
- - 👉 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
+ - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - ⏩ [Dear Netflix, ...](http://9gag.com/gag/aDYx7AG)
+ - 👉 [Another stupid cyclist](http://9gag.com/gag/a1Po7AR)<!-- MEMES:END -->
 
 ---
 
