@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - 👉 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)<!-- MEMES:END -->
+ - 💣 [Being clever cleaning ice off a car window](http://9gag.com/gag/aEqxBKn)
+ - ⏩ [Need sauce](http://9gag.com/gag/aMEjYNW)
+ - 👉 [Here we go again! Tuesdays=Titties](http://9gag.com/gag/ajVEEL0)<!-- MEMES:END -->
 
 ---
 
