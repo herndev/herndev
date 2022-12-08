@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)
- - ⏩ [\u201cThere is always time for Lubricant\u201c](http://9gag.com/gag/a8qo1Ae)
- - 👉 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)<!-- MEMES:END -->
+ - 💣 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
+ - ⏩ [Not sure wtf is going on here but it&#39;s pretty insane.](http://9gag.com/gag/aXnxnRd)
+ - 👉 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)<!-- MEMES:END -->
 
 ---
 
