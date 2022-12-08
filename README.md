@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Need sauce](http://9gag.com/gag/aMEjYNW)
- - ⏩ [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - 👉 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
+ - 💣 [Milkshake](http://9gag.com/gag/awZXmZ1)
+ - ⏩ [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - 👉 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
 
 ---
 
