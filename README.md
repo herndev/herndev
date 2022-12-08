@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They&#39;ll blame it on racism, I&#39;d bet my left nut.](http://9gag.com/gag/axo1M8p)
+ - 💣 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)
  - ⏩ [\u201cThere is always time for Lubricant\u201c](http://9gag.com/gag/a8qo1Ae)
- - 👉 [Just like you failed me &lpar;made by pet_foolery&rpar;](http://9gag.com/gag/a6qoEdm)<!-- MEMES:END -->
+ - 👉 [Squint your eyes, search your feelings, and you may see it](http://9gag.com/gag/aZD3yvQ)<!-- MEMES:END -->
 
 ---
 
