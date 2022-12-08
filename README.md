@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Must have been a lovely evening..](http://9gag.com/gag/adPKv8Z)
- - ⏩ [Need sauce](http://9gag.com/gag/aMEjYNW)
- - 👉 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)<!-- MEMES:END -->
+ - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - ⏩ [Tom Cruise performs another crazy stunt](http://9gag.com/gag/aXnxLdg)
+ - 👉 [Quite accurate.](http://9gag.com/gag/aBdx622)<!-- MEMES:END -->
 
 ---
 
