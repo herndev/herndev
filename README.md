@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fall Guys x Gears of War Crossover Debuts Tonight on The Game Awards](https://news.xbox.com/en-us/2022/12/08/fall-guys-x-gears-of-war-cross-over-debuts-tonight-on-the-game-awards/)
- - [Hasbro strongly refutes claims it is ‘destroying’ Magic: The Gathering](https://www.polygon.com/23500171/hasbro-magic-overprinting-fireside-chat-cynthia-williams)
- - [Every craftable weapon in Destiny 2’s Season of the Seraph](https://www.polygon.com/destiny-2-witch-queen-guide/23499211/season-seraph-craftable-weapons-perks-deepsight-ikelos-deep-stone-crypt)<!-- GAME:END -->
+ - [In Elite Dangerous, humanity’s war against the Thargoids is going real, real bad](https://www.polygon.com/23500398/elite-dangerous-thargoid-war-progress-reset)
+ - [Chained Echoes is a JRPG throwback that isn&#39;t scared to throw out old ideas](https://www.pcgamer.com/chained-echoes-is-a-jrpg-throwback-that-isnt-scared-to-throw-out-old-ideas)
+ - [IGN Lays Off Some Staffers Right Before The Game Awards](https://kotaku.com/ign-layoffs-the-game-awards-tga-2022-editorial-1849871249)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
