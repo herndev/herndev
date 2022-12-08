@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Indiana sues TikTok for misleading users on child safety and data security](https://www.theverge.com/2022/12/7/23499017/tiktok-china-bytedance-lawsuit-mature-content-national-security)
- - [The Pentagon awards Amazon, Google, Microsoft, and Oracle a cloud-computing contract of up to $9B each through 2028 under the Joint Warfighting Cloud Capability &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221207/p38#a221207p38)
- - [Dish’s $25-a-month Boost Infinite plan is now out in beta](https://www.theverge.com/2022/12/7/23498877/dish-boost-infinite-cell-plan-5g-25)<!-- TECH:END -->
+ - [Amazon&#39;s $269 deal on Apple&#39;s iPad 9th Generation is back](https://appleinsider.com/articles/22/12/08/amazons-269-deal-on-apples-ipad-9th-generation-is-back?utm_medium=rss)
+ - [Plaid lays off approximately 260 employees, or 20% of its workforce, citing macroeconomic conditions; the company was valued at ~$13.4B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221207/p39#a221207p39)
+ - [Now Telegram users don’t need a phone number — they can buy a fake one with crypto](https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
