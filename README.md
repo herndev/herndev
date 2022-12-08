@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s iMessage is getting a security feature straight out of a spy movie](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)
- - [Sources: in January 2018, Alameda took loans worth $116M from Skype co-founder Jaan Tallinn and philanthropist Luke Ding, both backers of &quot;effective altruism&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/221208/p1#a221208p1)
- - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)<!-- TECH:END -->
+ - [Xiaomi 13 series finally gets a new launch date after previous delay](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)
+ - [Google announces a beta release of Simple ML, a no-code ML add-on for Google Sheets, that enables users to apply machine learning to their data &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221208/p2#a221208p2)
+ - [Apple’s iMessage is getting a security feature straight out of a spy movie](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
