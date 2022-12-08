@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi 13 series finally gets a new launch date after previous delay](https://www.androidauthority.com/xiaomi-13-series-launch-3241809/)
- - [Google announces a beta release of Simple ML, a no-code ML add-on for Google Sheets, that enables users to apply machine learning to their data &lpar;Maria Deutscher/SiliconANGLE&rpar;](http://www.techmeme.com/221208/p2#a221208p2)
- - [Apple’s iMessage is getting a security feature straight out of a spy movie](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)<!-- TECH:END -->
+ - [Realme announces it’s launching the Realme 10 Pro series globally](https://www.androidauthority.com/realme-10-pro-global-3248638/)
+ - [Filings: Masayoshi Son&#39;s SoftBank stake grew from 32.2% in end-September to 34.2%, up from 26.7% in March 2019, granting additional rights over mergers and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221208/p5#a221208p5)
+ - [Singapore-based UnaBiz, a Massive IoT service provider that owns Sigfox, raised a $25M Series B extension led by SPARX, after a $25M Series B in October 2021 &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221208/p4#a221208p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
