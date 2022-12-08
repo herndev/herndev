@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Tom Cruise performs another crazy stunt](http://9gag.com/gag/aXnxLdg)
- - 👉 [Quite accurate.](http://9gag.com/gag/aBdx622)<!-- MEMES:END -->
+ - 💣 [Ukrainian mom comes home from the war.](http://9gag.com/gag/a3ZK5W7)
+ - ⏩ [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
+ - 👉 [This Trump meme applies](http://9gag.com/gag/axo137n)<!-- MEMES:END -->
 
 ---
 
