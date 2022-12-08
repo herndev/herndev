@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Human Body Is A Wonderful Thing](https://kotaku.com/art-concept-illustration-evgeniy-evstratiy-1849866455)
- - [Retro Game Consoles Reportedly Stolen In Literal Highway Robbery](https://kotaku.com/video-game-handheld-robbery-theft-crime-evercade-uk-1849866956)
- - [Retro shooter Ultrakill now has official sex toy support](https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support)<!-- GAME:END -->
+ - [These Christmas house displays put gamer RGB lights to shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)
+ - [Dwarf Fortress beginner&#39;s guide](https://www.pcgamer.com/dwarf-fortress-beginners-guide)
+ - [The Human Body Is A Wonderful Thing](https://kotaku.com/art-concept-illustration-evgeniy-evstratiy-1849866455)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
