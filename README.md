@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Diablo 4’s skill tree is no longer that ancient, sick-ass hell tree](https://www.polygon.com/23498485/diablo-4-skill-tree-changes-alpha-beta)
- - [Overwatch 2: Season 2 is Now Live](https://news.xbox.com/en-us/2022/12/07/overwatch-2-season-2-is-now-live/)
- - [Pokémon Scarlet And Violet Punishes Fans For Being Filthy Casuals](https://kotaku.com/pokemon-scarlet-violet-elite-four-rika-fail-league-1849866198)<!-- GAME:END -->
+ - [George R.R. Martin says he only has another 500 pages to write on Winds of Winter](https://www.polygon.com/game-of-thrones/23499159/george-rr-martin-winds-of-winter-finish-release-date-pages)
+ - [If you like Marvel&#39;s Midnight Suns, you&#39;ll like these Marvel comics](https://www.pcgamer.com/if-you-like-marvels-midnight-suns-youll-like-these-marvel-comics)
+ - [2022 Was The Year Big Video Games Stopped Coming Out](https://kotaku.com/2022-year-review-blockbuster-game-awards-cod-fortnite-1849856453)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
