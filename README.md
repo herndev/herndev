@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Things to read and watch after playing Darktide](https://www.pcgamer.com/things-to-read-and-watch-after-playing-darktide)
  - [These Christmas house displays put gamer RGB lights to shame](https://www.pcgamer.com/these-christmas-house-displays-put-gamer-rgb-lights-to-shame)
- - [Dwarf Fortress beginner&#39;s guide](https://www.pcgamer.com/dwarf-fortress-beginners-guide)
- - [The Human Body Is A Wonderful Thing](https://kotaku.com/art-concept-illustration-evgeniy-evstratiy-1849866455)<!-- GAME:END -->
+ - [Dwarf Fortress beginner&#39;s guide](https://www.pcgamer.com/dwarf-fortress-beginners-guide)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
