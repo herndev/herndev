@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk’s Twitter Files Are a Feast for Conspiracy Theorists](https://www.wired.com/story/twitter-files-qanon-conspiracy-theories/)
- - [12 Best Office Chairs &lpar;2022&rpar;: Budget, Luxe, Cushions, Casters, and Mats](https://www.wired.com/gallery/best-office-chairs/)
- - [&#39;Diablo IV&#39; Is a Return to Hell](https://www.wired.com/story/diablo-iv-early-impressions/)<!-- TECH:END -->
+ - [Twitter Blue will cost more on an iPhone, than through a browser](https://appleinsider.com/articles/22/12/08/twitter-blue-will-cost-more-on-an-iphone-than-through-a-browser?utm_medium=rss)
+ - [How These AI-Powered Chatbots Keep Getting Better](https://www.wired.com/story/gadget-lab-podcast-577/)
+ - [Popular HR and Payroll Company Sequoia Discloses a Data Breach](https://www.wired.com/story/sequoia-hr-data-breach/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
