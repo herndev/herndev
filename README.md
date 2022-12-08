@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We asked, you told us: Most of you missed the Galaxy Note line this year](https://www.androidauthority.com/galaxy-note-poll-3248959/)
- - [Amazon rolls out Inspire, a TikTok-like feed in its app that lets customers &quot;like&quot; and buy products, to select customers in the US &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/221208/p25#a221208p25)
- - [&#39;Black Bird&#39; team reunit for new &#39;Firebug&#39; drama on Apple TV+](https://appleinsider.com/articles/22/12/08/black-bird-team-reunit-for-new-firebug-drama-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Affinity Bands expands Apple Watch collection with Peanuts, Betty Book, USPS](https://appleinsider.com/articles/22/12/08/affinity-bands-expands-apple-watch-collection-with-peanuts-betty-book-usps?utm_medium=rss)
+ - [The hornet formerly known as ‘murder’ hasn’t been spotted in Washington state this year](https://www.theverge.com/2022/12/8/23499897/murder-hornet-sightings-2022-washington-state)
+ - [Thursday’s top tech news: Another Theranos exec sentenced to over a decade in prison](https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
