@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Chivalry 2, Chorus, and Hell Let Loose](https://news.xbox.com/en-us/2022/12/08/free-play-days-chivalry-2-chorus-and-hell-let-loose/)
- - [Shadow and Bone season 2 premieres this March](https://www.polygon.com/23499950/shadow-and-bone-netflix-season-two-release-date-first-look-images)
- - [Warzone 2 cheater gets delicious comeuppance live during $100K tournament](https://www.pcgamer.com/warzone-2-cheater-gets-delicious-comeuppance-live-during-dollar100k-tournament)<!-- GAME:END -->
+ - [Warhammer 40,000: Rogue Trader is giving me strong OG Fallout vibes](https://www.polygon.com/23499890/warhammer-40k-rogue-trader-alpha-preview-review-fallout-isometric)
+ - [Witcher 3 Next-Gen Update given Nvidia DLSS 3 frame-gen upgrade](https://www.pcgamer.com/witcher-3-next-gen-update-given-nvidia-dlss-3-frame-gen-upgrade)
+ - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-2022-ceremony-date-time-vote-nominees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
