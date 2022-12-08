@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [George R.R. Martin says he only has another 500 pages to write on Winds of Winter](https://www.polygon.com/game-of-thrones/23499159/george-rr-martin-winds-of-winter-finish-release-date-pages)
- - [If you like Marvel&#39;s Midnight Suns, you&#39;ll like these Marvel comics](https://www.pcgamer.com/if-you-like-marvels-midnight-suns-youll-like-these-marvel-comics)
- - [2022 Was The Year Big Video Games Stopped Coming Out](https://kotaku.com/2022-year-review-blockbuster-game-awards-cod-fortnite-1849856453)<!-- GAME:END -->
+ - [Retro Game Consoles Reportedly Stolen In Literal Highway Robbery](https://kotaku.com/video-game-handheld-robbery-theft-crime-evercade-uk-1849866956)
+ - [Retro shooter Ultrakill now has official sex toy support](https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support)
+ - [George R.R. Martin says he only has another 500 pages to write on Winds of Winter](https://www.polygon.com/game-of-thrones/23499159/george-rr-martin-winds-of-winter-finish-release-date-pages)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
