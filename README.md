@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drata, which uses automation to help companies adhere to compliance frameworks, raised a $200M Series C led by Iconiq Growth and GGV Capital at a $2B valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p42#a221207p42)
- - [Deals: save $150 on Dyson&#39;s V12 Detect Slim vacuum, now $499.99](https://appleinsider.com/articles/22/12/08/deals-save-150-on-dysons-v12-detect-slim-vacuum-now-49999?utm_medium=rss)
- - [These Were the 10 Most Difficult Wordle Words of 2022     - CNET](https://www.cnet.com/culture/internet/these-were-the-10-most-difficult-wordle-words-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Source: Twitter plans to change the pricing of Twitter Blue to $7/month if users pay for it through the web and $11 if they pay for it through Apple&#39;s App Store &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/221207/p44#a221207p44)
+ - [Google plans to merge Waze&#39;s 500+ employees with the group overseeing Maps, starting on Dec. 9; Waze to remain a stand-alone service and its CEO to exit role &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/221207/p43#a221207p43)
+ - [Drata, which uses automation to help companies adhere to compliance frameworks, raised a $200M Series C led by Iconiq Growth and GGV Capital at a $2B valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p42#a221207p42)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
