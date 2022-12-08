@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cameo launches Cameo Kids, with personalized videos from popular animated characters like Thomas the Tank Engine, Blippi, and CoComelon&#39;s Nina, for $25 to $30 &lpar;Lauren Forristal/TechCrunch&rpar;](http://www.techmeme.com/221208/p23#a221208p23)
- - [Google is bringing together its Waze and Maps teams as it pushes to reduce overlap](https://www.theverge.com/2022/12/8/23499734/google-maps-waze-development-teams-combined-productivity)
- - [Audeze’s $300 gaming headset promises comfort and multipoint Bluetooth](https://www.theverge.com/2022/12/8/23499802/audeze-maxwell-wireless-gaming-headset-features-price)<!-- TECH:END -->
+ - [We asked, you told us: Most of you missed the Galaxy Note line this year](https://www.androidauthority.com/galaxy-note-poll-3248959/)
+ - [Amazon rolls out Inspire, a TikTok-like feed in its app that lets customers &quot;like&quot; and buy products, to select customers in the US &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/221208/p25#a221208p25)
+ - [&#39;Black Bird&#39; team reunit for new &#39;Firebug&#39; drama on Apple TV+](https://appleinsider.com/articles/22/12/08/black-bird-team-reunit-for-new-firebug-drama-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
