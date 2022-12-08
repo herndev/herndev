@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $269 deal on Apple&#39;s iPad 9th Generation is back](https://appleinsider.com/articles/22/12/08/amazons-269-deal-on-apples-ipad-9th-generation-is-back?utm_medium=rss)
- - [Plaid lays off approximately 260 employees, or 20% of its workforce, citing macroeconomic conditions; the company was valued at ~$13.4B in April 2021 &lpar;Mary Ann Azevedo/TechCrunch&rpar;](http://www.techmeme.com/221207/p39#a221207p39)
- - [Now Telegram users don’t need a phone number — they can buy a fake one with crypto](https://www.theverge.com/2022/12/7/23498236/telegram-fragment-phone-number-crypto-verification-monetization)<!-- TECH:END -->
+ - [Drata, which uses automation to help companies adhere to compliance frameworks, raised a $200M Series C led by Iconiq Growth and GGV Capital at a $2B valuation &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/221207/p42#a221207p42)
+ - [Deals: save $150 on Dyson&#39;s V12 Detect Slim vacuum, now $499.99](https://appleinsider.com/articles/22/12/08/deals-save-150-on-dysons-v12-detect-slim-vacuum-now-49999?utm_medium=rss)
+ - [These Were the 10 Most Difficult Wordle Words of 2022     - CNET](https://www.cnet.com/culture/internet/these-were-the-10-most-difficult-wordle-words-of-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
