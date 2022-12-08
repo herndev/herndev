@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s called perfection, and it takes time.](http://9gag.com/gag/a9qpqYZ)
- - ⏩ [Must have been a lovely evening..](http://9gag.com/gag/adPKv8Z)
- - 👉 [Confussion of da highest orda!!](http://9gag.com/gag/awZXgjr)<!-- MEMES:END -->
+ - 💣 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)
+ - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 👉 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
 
 ---
 
