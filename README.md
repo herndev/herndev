@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue will cost more on an iPhone, than through a browser](https://appleinsider.com/articles/22/12/08/twitter-blue-will-cost-more-on-an-iphone-than-through-a-browser?utm_medium=rss)
- - [How These AI-Powered Chatbots Keep Getting Better](https://www.wired.com/story/gadget-lab-podcast-577/)
- - [Popular HR and Payroll Company Sequoia Discloses a Data Breach](https://www.wired.com/story/sequoia-hr-data-breach/)<!-- TECH:END -->
+ - [Motorola announces the new Moto G Play &lpar;2023&rpar;](https://www.androidauthority.com/moto-g-play-2023-3248482/)
+ - [7 Best Cookbooks &lpar;Winter 2022&rpar;: I Am From Here, Budmo, The Perfect Loaf](https://www.wired.com/gallery/best-cookbooks-fall-winter-2022/)
+ - [Amazon Kindle Scribe Review: Read and Write on this Pricey Ebook Reader](https://www.wired.com/review/amazon-kindle-scribe/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
