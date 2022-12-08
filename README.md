@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Warhammer 40,000: Rogue Trader is giving me strong OG Fallout vibes](https://www.polygon.com/23499890/warhammer-40k-rogue-trader-alpha-preview-review-fallout-isometric)
- - [Witcher 3 Next-Gen Update given Nvidia DLSS 3 frame-gen upgrade](https://www.pcgamer.com/witcher-3-next-gen-update-given-nvidia-dlss-3-frame-gen-upgrade)
- - [How to watch The Game Awards 2022](https://www.polygon.com/game-awards-tga/23490527/the-game-awards-2022-ceremony-date-time-vote-nominees)<!-- GAME:END -->
+ - [Metal: Hellsinger Turns up the Heat in Latest Content Update](https://news.xbox.com/en-us/2022/12/08/metal-hellsinger-turns-up-the-heat-in-latest-content-update/)
+ - [Play Now: Jurassic World Evolution 2: Dominion Malta Expansion](https://news.xbox.com/en-us/2022/12/08/play-now-jurassic-world-evolution-2-dominion-malta-expansion/)
+ - [World of Warcraft: Dragonflight’s best plotline is a messy family drama](https://www.polygon.com/23494970/world-of-warcraft-wow-dragonflight-wrathion-sabellian-lore-succession)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
