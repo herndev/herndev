@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Human Body Is A Wonderful Thing](https://kotaku.com/art-concept-illustration-evgeniy-evstratiy-1849866455)
  - [Retro Game Consoles Reportedly Stolen In Literal Highway Robbery](https://kotaku.com/video-game-handheld-robbery-theft-crime-evercade-uk-1849866956)
- - [Retro shooter Ultrakill now has official sex toy support](https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support)
- - [George R.R. Martin says he only has another 500 pages to write on Winds of Winter](https://www.polygon.com/game-of-thrones/23499159/george-rr-martin-winds-of-winter-finish-release-date-pages)<!-- GAME:END -->
+ - [Retro shooter Ultrakill now has official sex toy support](https://www.pcgamer.com/retro-shooter-ultrakill-now-has-official-sex-toy-support)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
