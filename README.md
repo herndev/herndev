@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milkshake](http://9gag.com/gag/awZXmZ1)
- - ⏩ [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - 💣 [Need sauce](http://9gag.com/gag/aMEjYNW)
+ - ⏩ [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
  - 👉 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)<!-- MEMES:END -->
 
 ---
