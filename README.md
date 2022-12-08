@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ukrainian mom comes home from the war.](http://9gag.com/gag/a3ZK5W7)
- - ⏩ [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)
- - 👉 [This Trump meme applies](http://9gag.com/gag/axo137n)<!-- MEMES:END -->
+ - 💣 [Superhero skills...](http://9gag.com/gag/a9qp6j6)
+ - ⏩ [A hell of a plot twist here.](http://9gag.com/gag/amA7WO9)
+ - 👉 [RUNN!!](http://9gag.com/gag/agoX1vK)<!-- MEMES:END -->
 
 ---
 
