@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Deadpool making the multiverse a better place](http://9gag.com/gag/a4o7oev)
- - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - 👉 [Need sauce](http://9gag.com/gag/aMEjYNW)<!-- MEMES:END -->
+ - 💣 [Must have been a lovely evening..](http://9gag.com/gag/adPKv8Z)
+ - ⏩ [Need sauce](http://9gag.com/gag/aMEjYNW)
+ - 👉 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)<!-- MEMES:END -->
 
 ---
 
