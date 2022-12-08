@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hearthstone’s new hero class celebrates Warcraft’s best boss](https://www.polygon.com/gaming/23495569/world-of-warcraft-hearthstone-new-expansion-lich-king-hero-class)
- - [The Biggest Gaming Disappointments Of 2022](https://kotaku.com/2022-gaming-elon-musk-twitter-microsoft-overwatch-2-1849865844)
- - [Gabe Newell says Steam doesn&#39;t need a Call of Duty guarantee from Microsoft &#39;because we trust their intentions&#39;](https://www.pcgamer.com/gabe-newell-says-steam-doesnt-need-a-call-of-duty-guarantee-from-microsoft-because-we-trust-their-intentions)<!-- GAME:END -->
+ - [Free Play Days – Chivalry 2, Chorus, and Hell Let Loose](https://news.xbox.com/en-us/2022/12/08/free-play-days-chivalry-2-chorus-and-hell-let-loose/)
+ - [Shadow and Bone season 2 premieres this March](https://www.polygon.com/23499950/shadow-and-bone-netflix-season-two-release-date-first-look-images)
+ - [Warzone 2 cheater gets delicious comeuppance live during $100K tournament](https://www.pcgamer.com/warzone-2-cheater-gets-delicious-comeuppance-live-during-dollar100k-tournament)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
