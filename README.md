@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Superhero skills...](http://9gag.com/gag/a9qp6j6)
+ - 💣 [Post videos why women live longer](http://9gag.com/gag/amA711j)
  - ⏩ [A hell of a plot twist here.](http://9gag.com/gag/amA7WO9)
- - 👉 [RUNN!!](http://9gag.com/gag/agoX1vK)<!-- MEMES:END -->
+ - 👉 [Such true words](http://9gag.com/gag/anzMRyz)<!-- MEMES:END -->
 
 ---
 
