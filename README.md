@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola announces the new Moto G Play &lpar;2023&rpar;](https://www.androidauthority.com/moto-g-play-2023-3248482/)
- - [7 Best Cookbooks &lpar;Winter 2022&rpar;: I Am From Here, Budmo, The Perfect Loaf](https://www.wired.com/gallery/best-cookbooks-fall-winter-2022/)
- - [Amazon Kindle Scribe Review: Read and Write on this Pricey Ebook Reader](https://www.wired.com/review/amazon-kindle-scribe/)<!-- TECH:END -->
+ - [A profile of incoming GOP House majority whip Tom Emmer, a rare crypto advocate who has developed close ties to the industry in a skeptical Congress &lpar;Tony Romm/Washington Post&rpar;](http://www.techmeme.com/221208/p22#a221208p22)
+ - [FDA approves iPhone connectible Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/08/fda-approves-iphone-connectible-dexcom-g7-glucose-monitor?utm_medium=rss)
+ - [Here are the best Netflix Christmas movies to stream this holiday season](https://www.androidauthority.com/best-netflix-christmas-movies-3248352/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
