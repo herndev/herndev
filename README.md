@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Windows 11 is finally getting a built-in screen recording tool](https://www.theverge.com/2022/12/8/23500753/microsoft-windows-11-screen-recorder-snipping-tool)
- - [Airtable, a developer of cloud-based collaboration software last valued at $11B in 2021, lays off 254 staffers or around 20% of its workforce &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/221208/p31#a221208p31)
- - [Google merges its Waze and Maps teams into one in latest cost-cutting measure](https://www.androidauthority.com/google-waze-maps-3249134/)<!-- TECH:END -->
+ - [Oppo sets date for the launch of its new foldables](https://www.androidauthority.com/oppo-find-n2-launch-3249198/)
+ - [The FTC is suing Microsoft to block its Activision Blizzard purchase](https://www.theverge.com/2022/12/8/23498224/ftc-microsoft-activision-blizzard-legal-challenge-sues-block)
+ - [The Game Awards: Start Times, How to Watch, Nominees, Everything You Need to Know     - CNET](https://www.cnet.com/tech/gaming/the-game-awards-start-times-how-to-watch-nominees-everything-you-need-to-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
