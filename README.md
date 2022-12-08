@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)
- - [WaterField releases a ballistic nylon carrying case for the iPhone](https://appleinsider.com/articles/22/12/08/waterfield-releases-a-ballistic-nylon-carrying-case-for-the-iphone?utm_medium=rss)
- - [The US Senate Banking Committee calls on Sam Bankman-Fried to testify on December 14, a day after a House hearing where members also want him to testify &lpar;Kollen Post/The Block&rpar;](http://www.techmeme.com/221207/p49#a221207p49)<!-- TECH:END -->
+ - [Apple’s iMessage is getting a security feature straight out of a spy movie](https://www.androidauthority.com/imessage-contact-key-verification-3248853/)
+ - [Sources: in January 2018, Alameda took loans worth $116M from Skype co-founder Jaan Tallinn and philanthropist Luke Ding, both backers of &quot;effective altruism&quot; &lpar;Semafor&rpar;](http://www.techmeme.com/221208/p1#a221208p1)
+ - [Americans Are Moving Into Danger Zones](https://www.wired.com/story/americans-are-moving-into-danger-zones/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
