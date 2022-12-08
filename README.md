@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Post videos why women live longer](http://9gag.com/gag/amA711j)
- - ⏩ [A hell of a plot twist here.](http://9gag.com/gag/amA7WO9)
- - 👉 [Such true words](http://9gag.com/gag/anzMRyz)<!-- MEMES:END -->
+ - 💣 [My Breast won&#39;t stop growing](http://9gag.com/gag/a5Xo6bo)
+ - ⏩ [The man knows what he wants](http://9gag.com/gag/a6qoOON)
+ - 👉 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)<!-- MEMES:END -->
 
 ---
 
