@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The man knows what he wants](http://9gag.com/gag/a6qoOON)
- - ⏩ [Show me your favorite game glitches](http://9gag.com/gag/amA7Avv)
- - 👉 [Self-fulfilling prophecy](http://9gag.com/gag/aeQMQvB)<!-- MEMES:END -->
+ - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 👉 [Toby Maguire Killed it, killed a fellow soldier with a stick I mean.](http://9gag.com/gag/aGEjj9w)<!-- MEMES:END -->
 
 ---
 
