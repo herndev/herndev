@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mike Flanagan is creating a TV series for The Dark Tower](https://www.theverge.com/2022/12/8/23500305/the-dark-tower-tv-series-mike-flanagan-stephen-king-amazon)
- - [Some Twitch streamers are migrating to other services, burned out by earnings coupled to hours streamed, parasocial pressure from subscribers, and more &lpar;Fadeke Adegbuyi/Every&rpar;](http://www.techmeme.com/221208/p27#a221208p27)
- - [These Discover Samsung flash deals are worth catching](https://www.androidauthority.com/discover-samsung-deals-3249016/)<!-- TECH:END -->
+ - [Maryland Apple Store starting union negotiations in early 2023](https://appleinsider.com/articles/22/12/08/maryland-apple-store-starting-union-negotiations-in-early-2023?utm_medium=rss)
+ - [The latest Motorola Moto G Play is a 4G-only phone for $170](https://www.theverge.com/2022/12/8/23499559/motorola-moto-g-play-2023-specs-price-screen-battery-camera-availability)
+ - [Discover Samsung deals: save up to $1,200 on Odyssey Ark, M8 monitor, Bespoke appliances](https://appleinsider.com/articles/22/12/08/discover-samsung-deals-save-up-to-1200-on-odyssey-ark-m8-monitor-bespoke-appliances?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
