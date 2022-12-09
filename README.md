@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Destiny 2 Xur location and items, Dec. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/12/9/23501911/xur-location-and-items-dec-9-13)
- - [Take Control of the Wheel in Need for Speed Unbound with EA Play](https://news.xbox.com/en-us/2022/12/09/take-control-of-the-wheel-in-need-for-speed-unbound-with-ea-play/)
- - [Ixion review](https://www.pcgamer.com/ixion-review)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Guillermo del Toro’s Pinocchio is a radical reimagining, and an extraordinary experience](https://www.polygon.com/reviews/23406878/pinocchio-review-guillermo-del-toro-netflix)
+ - [Everything we know about Hades 2](https://www.polygon.com/23501759/hades-2-trailer-release-date-characters-melinoe)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
