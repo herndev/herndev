@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
- - ⏩ [Chapo riding the bench right now hoping to get traded.](http://9gag.com/gag/aL1j4qA)
- - 👉 [Elden Ring game of the year](http://9gag.com/gag/a9qp8W1)<!-- MEMES:END -->
+ - 💣 [How this cat fixes the toy](http://9gag.com/gag/abvMW6E)
+ - ⏩ [Drinks A Beer In One Second!](http://9gag.com/gag/a8qoDL6)
+ - 👉 [Hmmmm](http://9gag.com/gag/ap92P1B)<!-- MEMES:END -->
 
 ---
 
