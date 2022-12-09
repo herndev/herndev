@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - 👉 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
+ - 💣 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
+ - ⏩ [Chapo riding the bench right now hoping to get traded.](http://9gag.com/gag/aL1j4qA)
+ - 👉 [Elden Ring game of the year](http://9gag.com/gag/a9qp8W1)<!-- MEMES:END -->
 
 ---
 
