@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How this cat fixes the toy](http://9gag.com/gag/abvMW6E)
- - ⏩ [Drinks A Beer In One Second!](http://9gag.com/gag/a8qoDL6)
- - 👉 [Hmmmm](http://9gag.com/gag/ap92P1B)<!-- MEMES:END -->
+ - 💣 [What the hell happened here](http://9gag.com/gag/agoX1rv)
+ - ⏩ [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
+ - 👉 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
 
 ---
 
