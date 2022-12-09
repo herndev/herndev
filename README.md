@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chrome browser update means it won&#39;t hog your PC&#39;s memory so much](https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much)
- - [Today&#39;s Wordle answer and hint for Friday, December 9](https://www.pcgamer.com/wordle-538-answer-december-9)
- - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)<!-- GAME:END -->
+ - [Markiplier finally released his OnlyFans and broke the whole damn site](https://www.pcgamer.com/markiplier-finally-released-his-onlyfans-and-broke-the-whole-damn-site)
+ - [Steam Deck giveaway hopefuls hijack Game Awards chat by spamming Linux commands](https://www.pcgamer.com/steam-deck-giveaway-hopefuls-hijack-game-awards-chat-by-spamming-linux-commands)
+ - [Final Fantasy XVI releases June 22, 2023](https://blog.playstation.com/2022/12/09/final-fantasy-xvi-releases-june-22-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
