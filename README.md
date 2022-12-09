@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Milkshake](http://9gag.com/gag/awZXmZ1)
- - 👉 [What the hell happened here](http://9gag.com/gag/agoX1rv)<!-- MEMES:END -->
+ - 💣 [What the hell happened here](http://9gag.com/gag/agoX1rv)
+ - ⏩ [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)
+ - 👉 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
 
 ---
 
