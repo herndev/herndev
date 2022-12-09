@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [League Of Legends, Valorant Unlock All Characters On Game Pass](https://kotaku.com/league-of-legends-valorant-xbox-game-pass-unlock-free-1849871979)
- - [Diablo 4 devs reportedly struggling to hit June release date](https://www.pcgamer.com/diablo-4-devs-reportedly-struggling-to-hit-june-release-date)
- - [Riot Games suing NetEase over Valorant ‘copy’](https://www.polygon.com/23500704/riot-games-netease-lawsuit-valorant-hyper-front)<!-- GAME:END -->
+ - [Vampire Survivors gets surprise launch on mobile](https://www.polygon.com/23500919/vampire-survivors-mobile-ios-android-surprise-release)
+ - [The Game Awards 2022: all the news, announcements, and trailers](https://www.polygon.com/23500093/game-awards-2022-announcements-news-stream)
+ - [Vampire Survivors Gets Surprise Mobile Release](https://kotaku.com/vampire-survivors-ios-android-play-store-app-free-drop-1849872386)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
