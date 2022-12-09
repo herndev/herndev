@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - ⏩ [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)
- - 👉 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
+ - 💣 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - ⏩ [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)
+ - 👉 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
 
 ---
 
