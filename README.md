@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - ⏩ [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)
- - 👉 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
+ - 💣 [Methanol fires are invisible in daylight\u2026](http://9gag.com/gag/aoKNKAX)
+ - ⏩ [Kardashians ruin these GENZ](http://9gag.com/gag/aXnxNyb)
+ - 👉 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
 
 ---
 
