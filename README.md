@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
- - ⏩ [C l o w n world](http://9gag.com/gag/aoKNxXw)
- - 👉 [Last minutes of extra-time in Croatia - Brazil](http://9gag.com/gag/aeQMmqj)<!-- MEMES:END -->
+ - 💣 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - ⏩ [Marzieh Ebrahimi, an Iranian survivor of an unprovoked acid attack in 2014 for wearing a `bad hijab`](http://9gag.com/gag/avQO1Rq)
+ - 👉 [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)<!-- MEMES:END -->
 
 ---
 
