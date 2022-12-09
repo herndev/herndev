@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
- - ⏩ [Guy Puts Shark Back In Ocean](http://9gag.com/gag/anzMvRE)
- - 👉 [Pokemans](http://9gag.com/gag/a5XoGVV)<!-- MEMES:END -->
+ - 💣 [Milkshake](http://9gag.com/gag/awZXmZ1)
+ - ⏩ [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
+ - 👉 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)<!-- MEMES:END -->
 
 ---
 
