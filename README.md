@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Evercade EXP Review: Vertical Scrolling, Sub-Par Build](https://www.wired.com/review/review-evercade-exp/)
- - [Deals: save $200 on Apple&#39;s M1 Ultra Mac Studio with 64GB RAM, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/09/deals-save-200-on-apples-m1-ultra-mac-studio-with-64gb-ram-plus-30-off-applecare?utm_medium=rss)
- - [Eight artists will journey around the Moon on a future SpaceX flight](https://www.theverge.com/2022/12/9/23501880/crew-selection-dear-moon-spacex-maezawa)<!-- TECH:END -->
+ - [Sources: LLC&#39;s tied to crypto news site The Block&#39;s CEO secretly received $43M in Alameda loans, used in part to acquire and run the site; CEO has now resigned &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/221209/p18#a221209p18)
+ - [Best Live TV Streaming Service for Cord Cutting in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
+ - [Now you can go password-free in Chrome with passkeys](https://www.theverge.com/2022/12/9/23501809/chrome-passkey-password-free-stable-m108)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
