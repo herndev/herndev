@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google Chrome now supports passkeys to eventually replace passwords](https://appleinsider.com/articles/22/12/09/google-chrome-now-supports-passkeys-to-eventually-replace-passwords?utm_medium=rss)
- - [JetBlue no longer plans to offset emissions from domestic flights](https://www.theverge.com/2022/12/9/23501665/jetblue-carbon-offsets-sustainable-aviation-fuel)
- - [Just $139 for the the Galaxy Watch 4, and many holiday fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
+ - [Evercade EXP Review: Vertical Scrolling, Sub-Par Build](https://www.wired.com/review/review-evercade-exp/)
+ - [Deals: save $200 on Apple&#39;s M1 Ultra Mac Studio with 64GB RAM, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/09/deals-save-200-on-apples-m1-ultra-mac-studio-with-64gb-ram-plus-30-off-applecare?utm_medium=rss)
+ - [Eight artists will journey around the Moon on a future SpaceX flight](https://www.theverge.com/2022/12/9/23501880/crew-selection-dear-moon-spacex-maezawa)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
