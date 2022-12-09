@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to build a particle accelerator\u2026](http://9gag.com/gag/adPKe7M)
- - ⏩ [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - 👉 [Real chad](http://9gag.com/gag/aQE3ZYe)<!-- MEMES:END -->
+ - 💣 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - ⏩ [Ellen Ripley in the movie Alien &lpar;1979&rpar; was originally written to be man. Director Ridley Scott changed his mind when he watched The Hunger Games &lpar;2012&rpar; and realized that women can be action movie lead too.](http://9gag.com/gag/aGEjGm0)
+ - 👉 [Maybe next time.](http://9gag.com/gag/awZXdWQ)<!-- MEMES:END -->
 
 ---
 
