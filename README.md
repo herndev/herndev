@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Dec. 9: $255 off M2 MacBook Air, Refurbished iPads starting at $115, 33% off Samsung 32-inch M7 4K monitor, more](https://appleinsider.com/articles/22/12/09/daily-deals-dec-9-255-off-m2-macbook-air-refurbished-ipads-starting-at-115-33-off-samsung-32-inch-m7-4k-monitor-more?utm_medium=rss)
- - [The hype around esports is fading, as teams and organizations shrink due to a weak sponsorship and ad market, falling VC investment, and the crypto meltdown &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221209/p12#a221209p12)
- - [Sam Bankman-Fried agrees to testify before House Committee on FTX collapse next week](https://www.theverge.com/2022/12/9/23500793/ftx-sbf-sam-bankman-fried-collapse-alameda-research-house-committee-hearing)<!-- TECH:END -->
+ - [8 Best Smartwatches &lpar;2022&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
+ - [Garmin Venu Sq 2 review: an excellent Fitbit alternative](https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker)
+ - [Jump into Portal on PC and Steam Deck for just $1](https://www.theverge.com/2022/12/9/23501523/portal-valve-pc-rtx-magic-keyboard-ipad-pro-air-paramount-plus-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
