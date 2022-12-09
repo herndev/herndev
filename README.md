@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After Bari Weiss shared screenshots of internal systems, Twitter&#39;s trust and safety head Ella Irwin says &quot;reporters were not accessing user DMs&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221209/p6#a221209p6)
- - [Bari Weiss releases &quot;Twitter Files Part Two&quot;, sharing images of accounts that Twitter allegedly put on &quot;blacklists&quot; and screenshots of internal Slack messages &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/221209/p5#a221209p5)
- - [Samsung Galaxy Watch 4 series is now getting a minor performance update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)<!-- TECH:END -->
+ - [A look at Estonia&#39;s efforts to aid cybersecurity workers in Ukraine and coordinate with European and US allies to defend against Russia&#39;s cyberattacks &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/221209/p8#a221209p8)
+ - [As US prosecutors reportedly investigate FTX and Alameda&#39;s role in orchestrating LUNA and UST&#39;s collapse, a look at the timeline of events and evidence &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221209/p7#a221209p7)
+ - [We asked, you told us: Here’s how you transfer files between phone and PC](https://www.androidauthority.com/share-files-pc-phone-poll-results-3249328/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
