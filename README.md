@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Best Smartwatches &lpar;2022&rpar;: Apple Watch, Wear OS 3, Hybrid Watches](https://www.wired.com/gallery/best-smartwatches/)
- - [Garmin Venu Sq 2 review: an excellent Fitbit alternative](https://www.theverge.com/23500640/garmin-venu-sq-2-review-smartwatch-fitness-tracker)
- - [Jump into Portal on PC and Steam Deck for just $1](https://www.theverge.com/2022/12/9/23501523/portal-valve-pc-rtx-magic-keyboard-ipad-pro-air-paramount-plus-deal-sale)<!-- TECH:END -->
+ - [The Google Pixel 7 Pro is your Reader’s Choice for best phone of 2022](https://www.androidauthority.com/best-smartphone-2022-readers-choice-3248988/)
+ - [ChatGPT, Galactica, and the Progress Trap](https://www.wired.com/story/large-language-models-critique/)
+ - [In an email to advertisers, Twitter says it will launch controls to prevent ads from showing up next to tweets containing certain keywords as soon as next week &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/221209/p15#a221209p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
