@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Google Pixel 7 Pro is your Reader’s Choice for best phone of 2022](https://www.androidauthority.com/best-smartphone-2022-readers-choice-3248988/)
- - [ChatGPT, Galactica, and the Progress Trap](https://www.wired.com/story/large-language-models-critique/)
- - [In an email to advertisers, Twitter says it will launch controls to prevent ads from showing up next to tweets containing certain keywords as soon as next week &lpar;Sheila Dang/Reuters&rpar;](http://www.techmeme.com/221209/p15#a221209p15)<!-- TECH:END -->
+ - [ChatGPT’s Fluent BS Is Compelling Because Everything Is Fluent BS](https://www.wired.com/story/chatgpt-fluent-bs/)
+ - [How to use Advanced Data Protection &amp; Apple&#39;s other new security features](https://appleinsider.com/inside/ios-16/tips/how-to-use-advanced-data-protection-apples-other-new-security-features?utm_medium=rss)
+ - [Auditing firm Mazars says Crypto.com users&#39; crypto assets are fully backed one-to-one, after vouching for a similar proof-of-reserves report from Binance &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/221209/p16#a221209p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
