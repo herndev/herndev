@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle answer and hint for Friday, December 9](https://www.pcgamer.com/wordle-538-answer-december-9)
  - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)
- - [Guy crashes Elden Ring GOTY acceptance at The Game Awards, gets arrested](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)
- - [All the trailers and announcements from The Game Awards 2022](https://www.pcgamer.com/game-awards-announcements-trailers-2022)<!-- GAME:END -->
+ - [Guy crashes Elden Ring GOTY acceptance at The Game Awards, gets arrested](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
