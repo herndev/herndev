@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [NordVPN: stolen data of 5 million people globally, including 600,000 Indians, have been sold on the Genesis, Russian, and 2easy bot markets for ~$6 on average &lpar;Anuran Sadhu/Reuters&rpar;](http://www.techmeme.com/221208/p34#a221208p34)
  - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
- - [Amazon’s next game is an anime MMO called Blue Protocol](https://www.theverge.com/2022/12/8/23498519/amazon-blue-protocol-bandai-namco-trailer-release-date-ps5-xbox)<!-- TECH:END -->
+ - [Naoki Yoshida presents a new Final Fantasy XVI trailer at The Game Awards](https://www.theverge.com/2022/12/8/23500292/final-fantasy-16-trailer-the-game-awards)
+ - [Cyberpunk 2077: Phantom Liberty will feature Idris Elba as part of the game’s cast](https://www.theverge.com/2022/12/8/23501090/cyberpunk-2077-phantom-liberty-idris-elba-solomon-reed-cast)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
