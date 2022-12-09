@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - ⏩ [Marzieh Ebrahimi, an Iranian survivor of an unprovoked acid attack in 2014 for wearing a `bad hijab`](http://9gag.com/gag/avQO1Rq)
- - 👉 [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)<!-- MEMES:END -->
+ - 💣 [How to build a particle accelerator\u2026](http://9gag.com/gag/adPKe7M)
+ - ⏩ [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
+ - 👉 [Real chad](http://9gag.com/gag/aQE3ZYe)<!-- MEMES:END -->
 
 ---
 
