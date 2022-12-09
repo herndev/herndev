@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ChatGPT’s Fluent BS Is Compelling Because Everything Is Fluent BS](https://www.wired.com/story/chatgpt-fluent-bs/)
- - [How to use Advanced Data Protection &amp; Apple&#39;s other new security features](https://appleinsider.com/inside/ios-16/tips/how-to-use-advanced-data-protection-apples-other-new-security-features?utm_medium=rss)
- - [Auditing firm Mazars says Crypto.com users&#39; crypto assets are fully backed one-to-one, after vouching for a similar proof-of-reserves report from Binance &lpar;Nick Baker/CoinDesk&rpar;](http://www.techmeme.com/221209/p16#a221209p16)<!-- TECH:END -->
+ - [Google Chrome now supports passkeys to eventually replace passwords](https://appleinsider.com/articles/22/12/09/google-chrome-now-supports-passkeys-to-eventually-replace-passwords?utm_medium=rss)
+ - [JetBlue no longer plans to offset emissions from domestic flights](https://www.theverge.com/2022/12/9/23501665/jetblue-carbon-offsets-sustainable-aviation-fuel)
+ - [Just $139 for the the Galaxy Watch 4, and many holiday fitness tracker deals](https://www.androidauthority.com/best-cheap-fitness-tracker-deals-1113532/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
