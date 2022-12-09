@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [‘Solar Twins’ Reveal the Consistency of the Universe](https://www.wired.com/story/solar-twins-reveal-the-consistency-of-the-universe/)
- - [The Holiday Travel Blob Has Begun](https://www.wired.com/story/flights-hotels-christmas-the-holiday-travel-blob-has-begun/)
- - [How the UN’s ‘Sex Agency’ Uses Tech to Save Mothers’ Lives](https://www.wired.com/story/how-the-uns-sex-agency-uses-tech-to-save-mothers-lives/)<!-- TECH:END -->
+ - [How to watch Carpool Karaoke: The Series on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-carpool-karaoke-the-series-on-apple-tv?utm_medium=rss)
+ - [Fossil Gen 6 Wellness Review: Avoid This Wear OS 3 Smartwatch](https://www.wired.com/review/fossil-gen-6-wellness/)
+ - [The pint-sized DJI Mini 3 comes with a suitably mini price](https://www.theverge.com/2022/12/9/23501450/dji-mini-3-drone-announcement-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
