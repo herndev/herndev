@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for December 12 to 16](https://news.xbox.com/en-us/2022/12/09/next-week-on-xbox-new-games-for-december-12-to-16/)
- - [That Viral Killer Train Game Is An Admirable, Original Mess](https://kotaku.com/choo-choo-charles-evil-train-game-pc-review-steam-1849866413)
- - [Dragon Age: Absolution is a missable spinoff that crams its cast into a too tight clock](https://www.pcgamer.com/dragon-age-absolution-is-a-missable-spinoff-with-too-much-cast-on-a-too-tight-clock)<!-- GAME:END -->
+ - [Share of the Week: Space](https://blog.playstation.com/2022/12/09/share-of-the-week-space/)
+ - [Diablo IV Is a Classic Action-RPG Wearing a Deeply Cinematic New Skin](https://news.xbox.com/en-us/2022/12/09/diablo-iv-4-hands-on-preview/)
+ - [Genshin Impact fans celebrate their hot and buff nerd, Alhaitham](https://www.polygon.com/23501636/alhaitham-genshin-impact-hoyoverse-yaoyao-fan-reaction)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
