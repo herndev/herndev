@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Share of the Week: Space](https://blog.playstation.com/2022/12/09/share-of-the-week-space/)
- - [Diablo IV Is a Classic Action-RPG Wearing a Deeply Cinematic New Skin](https://news.xbox.com/en-us/2022/12/09/diablo-iv-4-hands-on-preview/)
- - [Genshin Impact fans celebrate their hot and buff nerd, Alhaitham](https://www.polygon.com/23501636/alhaitham-genshin-impact-hoyoverse-yaoyao-fan-reaction)<!-- GAME:END -->
+ - [The Destiny 2: Lightfall trailer held one of The Game Awards’ flashiest moments](https://www.polygon.com/23501683/destiny-2-lightfall-strand-grappling-hook-thundercrash-trailer-game-awards)
+ - [Get to Know the World of Atomic Heart](https://news.xbox.com/en-us/2022/12/09/get-to-know-the-world-of-atomic-heart/)
+ - [It’s An Anime Post-Apocalyptic MMO, And It Looks Gorgeous](https://kotaku.com/blue-protocol-bandai-namco-amazon-mmo-anime-1849874979)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
