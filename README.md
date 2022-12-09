@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Destiny 2: Lightfall trailer held one of The Game Awards’ flashiest moments](https://www.polygon.com/23501683/destiny-2-lightfall-strand-grappling-hook-thundercrash-trailer-game-awards)
- - [Get to Know the World of Atomic Heart](https://news.xbox.com/en-us/2022/12/09/get-to-know-the-world-of-atomic-heart/)
- - [It’s An Anime Post-Apocalyptic MMO, And It Looks Gorgeous](https://kotaku.com/blue-protocol-bandai-namco-amazon-mmo-anime-1849874979)<!-- GAME:END -->
+ - [Destiny 2 Xur location and items, Dec. 9-13](https://www.polygon.com/destiny-2-guide-walkthrough/2022/12/9/23501911/xur-location-and-items-dec-9-13)
+ - [Take Control of the Wheel in Need for Speed Unbound with EA Play](https://news.xbox.com/en-us/2022/12/09/take-control-of-the-wheel-in-need-for-speed-unbound-with-ea-play/)
+ - [Ixion review](https://www.pcgamer.com/ixion-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
