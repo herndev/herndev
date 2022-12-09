@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
- - [A guy playing an alto flute in The Game Awards orchestra won the night](https://www.theverge.com/2022/12/8/23501261/game-awards-flute-guy-pedro-eustache)
- - [The biggest announcements and trailers from the Game Awards 2022](https://www.theverge.com/2022/12/8/23498405/game-awards-2022-best-trailers-announcements)<!-- TECH:END -->
+ - [New Google Camera update revives a key Pixel feature for older phones](https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/)
+ - [An interview with Tim Sweeney about his crusade to break Apple&#39;s power over the App Store, and how it is increasingly a problem for speech and not just business &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221209/p2#a221209p2)
+ - [Elon Musk says Twitter is working on an update that will tell users if they&#39;ve been &quot;shadowbanned&quot;, the reason why, and how to appeal &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/221209/p1#a221209p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
