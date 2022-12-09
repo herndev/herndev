@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bayonetta gets a fairy-tale origin story in Bayonetta Origins: Cereza and the Lost Demon](https://www.polygon.com/game-awards-tga/2022/12/8/23501086/bayonetta-origins-cereza-and-the-lost-demon-announcement-trailer-platinumgames-nintendo-switch)
- - [Star Wars Jedi: Survivor’s first gameplay trailer is all kinds of bonkers](https://www.polygon.com/game-awards-tga/23498306/star-wars-jedi-survivor-gameplay-trailer-respawn)
- - [Star Wars Jedi: Survivor Gameplay Shows Cal Is Back And More Badass Than Ever](https://kotaku.com/star-wars-jedi-survivor-gameplay-release-date-1849517594)<!-- GAME:END -->
+ - [Discover a brutal new world in Behemoth for PS VR2￼](https://blog.playstation.com/2022/12/08/discover-a-brutal-new-world-in-behemoth-for-ps-vr2%ef%bf%bc/)
+ - [Horizon Forbidden West Gets Massive Los Angeles DLC In April](https://kotaku.com/horizon-forbidden-west-dlc-expansion-ps5-sunwing-1849865342)
+ - [Blue Protocol Coming to Xbox Series X|S in 2023](https://news.xbox.com/en-us/2022/12/08/blue-protocol-coming-to-xbox-series-xs-in-2023/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
