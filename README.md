@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Vampire Survivors gets surprise launch on mobile](https://www.polygon.com/23500919/vampire-survivors-mobile-ios-android-surprise-release)
- - [The Game Awards 2022: all the news, announcements, and trailers](https://www.polygon.com/23500093/game-awards-2022-announcements-news-stream)
- - [Vampire Survivors Gets Surprise Mobile Release](https://kotaku.com/vampire-survivors-ios-android-play-store-app-free-drop-1849872386)<!-- GAME:END -->
+ - [Bayonetta gets a fairy-tale origin story in Bayonetta Origins: Cereza and the Lost Demon](https://www.polygon.com/game-awards-tga/2022/12/8/23501086/bayonetta-origins-cereza-and-the-lost-demon-announcement-trailer-platinumgames-nintendo-switch)
+ - [Star Wars Jedi: Survivor’s first gameplay trailer is all kinds of bonkers](https://www.polygon.com/game-awards-tga/23498306/star-wars-jedi-survivor-gameplay-trailer-respawn)
+ - [Star Wars Jedi: Survivor Gameplay Shows Cal Is Back And More Badass Than Ever](https://kotaku.com/star-wars-jedi-survivor-gameplay-release-date-1849517594)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
