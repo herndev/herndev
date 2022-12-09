@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are the shipping deadlines to get your holiday gifts there on time](https://www.theverge.com/23502151/ups-usps-fedex-amazon-walmart-best-buy-target-shipping-deadlines)
- - [Ireland&#39;s privacy watchdog says it is engaging with Twitter about giving data access to outsiders, amid concerns that Twitter could be in violation of GDPR &lpar;Natasha Lomas/TechCrunch&rpar;](http://www.techmeme.com/221209/p20#a221209p20)
- - [$100 off the Galaxy Buds Pro, and more holiday headphone deals](https://www.androidauthority.com/best-headphone-deals-1111467/)<!-- TECH:END -->
+ - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
+ - [Apple TV+ dramas earn two spots on AFI&#39;s best shows of the year list](https://appleinsider.com/articles/22/12/09/apple-tv-dramas-earn-two-spots-on-afis-best-shows-of-the-year-list?utm_medium=rss)
+ - [Guillermo del Toro’s Pinocchio is a gnarly and spiritual fairy tale about what makes life beautiful](https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
