@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Google Camera update revives a key Pixel feature for older phones](https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/)
- - [An interview with Tim Sweeney about his crusade to break Apple&#39;s power over the App Store, and how it is increasingly a problem for speech and not just business &lpar;Alex Heath/The Verge&rpar;](http://www.techmeme.com/221209/p2#a221209p2)
- - [Elon Musk says Twitter is working on an update that will tell users if they&#39;ve been &quot;shadowbanned&quot;, the reason why, and how to appeal &lpar;Nick Turner/Bloomberg&rpar;](http://www.techmeme.com/221209/p1#a221209p1)<!-- TECH:END -->
+ - [MarginEdge, which provides software for restaurant management and bill payment, raised a $45M Series C led by Ten Coves, bringing its total funding to $71M+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221209/p4#a221209p4)
+ - [No emoji better suited 2022&#39;s ups and downs than the saluting face, used by laid-off Twitter employees and many others to express irony, reassurance, and more &lpar;Miles Klee/Rolling Stone&rpar;](http://www.techmeme.com/221209/p3#a221209p3)
+ - [New Google Camera update revives a key Pixel feature for older phones](https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
