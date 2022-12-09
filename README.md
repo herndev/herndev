@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MarginEdge, which provides software for restaurant management and bill payment, raised a $45M Series C led by Ten Coves, bringing its total funding to $71M+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221209/p4#a221209p4)
- - [No emoji better suited 2022&#39;s ups and downs than the saluting face, used by laid-off Twitter employees and many others to express irony, reassurance, and more &lpar;Miles Klee/Rolling Stone&rpar;](http://www.techmeme.com/221209/p3#a221209p3)
- - [New Google Camera update revives a key Pixel feature for older phones](https://www.androidauthority.com/google-camera-update-pixels-frequent-faces-3244877/)<!-- TECH:END -->
+ - [Bari Weiss releases &quot;Twitter Files Part Two&quot;, sharing images of accounts that Twitter allegedly put on &quot;blacklists&quot; and screenshots of internal Slack messages &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/221209/p5#a221209p5)
+ - [Samsung Galaxy Watch 4 series is now getting a minor performance update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
+ - [MarginEdge, which provides software for restaurant management and bill payment, raised a $45M Series C led by Ten Coves, bringing its total funding to $71M+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221209/p4#a221209p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
