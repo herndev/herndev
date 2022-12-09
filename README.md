@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What the hell happened here](http://9gag.com/gag/agoX1rv)
- - ⏩ [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
- - 👉 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
+ - 💣 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
+ - ⏩ [Guy Puts Shark Back In Ocean](http://9gag.com/gag/anzMvRE)
+ - 👉 [Pokemans](http://9gag.com/gag/a5XoGVV)<!-- MEMES:END -->
 
 ---
 
