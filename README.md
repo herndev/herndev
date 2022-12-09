@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Pokémon Go ‘Something Extraordinary’ Keldeo Special Research guide](https://www.polygon.com/pokemon-go-guide/23501836/keldeo-something-extraordinary-special-research-steps-tasks)
- - [The Best Fits At The Game Awards 2022](https://kotaku.com/game-awards-2022-best-fashion-fits-drip-geoff-keighley-1849875118)
- - [A single piece of Elden Ring DLC could streamroll most of 2023&#39;s big games](https://www.pcgamer.com/a-single-piece-of-elden-ring-dlc-could-streamroll-most-of-2023s-big-games)<!-- GAME:END -->
+ - [The Kid Who Crashed The Game Awards Has A History Of Trolling](https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331)
+ - [Wild Hearts’ take on monster hunting takes a unique approach to its beasts](https://www.polygon.com/game-awards-tga/23502288/wild-hearts-omega-force-koei-tecmo-trailer-kemono)
+ - [Mike Flanagan might be the only person who can do a Dark Tower series right](https://www.polygon.com/23502040/mike-flanagan-dark-tower-stephen-king-amazon-series-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
