@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
- - ⏩ [Actually overheard children talking like this for real](http://9gag.com/gag/aVb3KQK)
- - 👉 [So whats the lesson here?](http://9gag.com/gag/aDYxnBB)<!-- MEMES:END -->
+ - 💣 [Winona Ryder](http://9gag.com/gag/aEqxAvO)
+ - ⏩ [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
+ - 👉 [What the hell happened here](http://9gag.com/gag/agoX1rv)<!-- MEMES:END -->
 
 ---
 
