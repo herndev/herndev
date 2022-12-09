@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [After Bari Weiss shared screenshots of internal systems, Twitter&#39;s trust and safety head Ella Irwin says &quot;reporters were not accessing user DMs&quot; &lpar;Kurt Wagner/Bloomberg&rpar;](http://www.techmeme.com/221209/p6#a221209p6)
  - [Bari Weiss releases &quot;Twitter Files Part Two&quot;, sharing images of accounts that Twitter allegedly put on &quot;blacklists&quot; and screenshots of internal Slack messages &lpar;Julia Shapero/The Hill&rpar;](http://www.techmeme.com/221209/p5#a221209p5)
- - [Samsung Galaxy Watch 4 series is now getting a minor performance update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)
- - [MarginEdge, which provides software for restaurant management and bill payment, raised a $45M Series C led by Ten Coves, bringing its total funding to $71M+ &lpar;Christine Hall/TechCrunch&rpar;](http://www.techmeme.com/221209/p4#a221209p4)<!-- TECH:END -->
+ - [Samsung Galaxy Watch 4 series is now getting a minor performance update](https://www.androidauthority.com/samsung-galaxy-watch-4-updates-2746069/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
