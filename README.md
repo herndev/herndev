@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Everything Everywhere All At Once’s Daniel Kwan has the perfect response to toxic fandom](https://www.theverge.com/2022/12/8/23500829/everything-everywhere-all-at-once-fandom-best-movie-daniel-kwon)
- - [Kindle Scribe review: Largest-ever Kindle is not good enough](https://appleinsider.com/articles/22/12/08/kindle-scribe-review-largest-ever-kindle-is-not-good-enough?utm_medium=rss)
- - [Thursday’s top tech news: Another Theranos exec sentenced to over a decade in prison](https://www.theverge.com/2022/12/8/23499707/december-8-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
+ - [Star Wars Jedi: Survivor gets a March release date and a new trailer](https://www.theverge.com/2022/12/8/23495559/star-wars-jedi-survivor-release-date-trailer-the-game-awards)
+ - [Grab an M2 MacBook Air for only $944 with B&amp;H&#39;s PayBoo Card](https://appleinsider.com/articles/22/12/08/grab-an-m2-macbook-air-for-only-944-with-bhs-payboo-card?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
