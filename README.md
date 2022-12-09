@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [The Game Awards 2022: all the announcements and trailers](https://www.theverge.com/2022/12/8/23500703/the-game-awards-2022-announcements-trailers)
- - [Naoki Yoshida presents a new Final Fantasy XVI trailer at The Game Awards](https://www.theverge.com/2022/12/8/23500292/final-fantasy-16-trailer-the-game-awards)
- - [Cyberpunk 2077: Phantom Liberty will feature Idris Elba as part of the game’s cast](https://www.theverge.com/2022/12/8/23501090/cyberpunk-2077-phantom-liberty-idris-elba-solomon-reed-cast)<!-- TECH:END -->
+ - [A guy playing an alto flute in The Game Awards orchestra won the night](https://www.theverge.com/2022/12/8/23501261/game-awards-flute-guy-pedro-eustache)
+ - [The biggest announcements and trailers from the Game Awards 2022](https://www.theverge.com/2022/12/8/23498405/game-awards-2022-best-trailers-announcements)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
