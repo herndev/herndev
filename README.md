@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: LLC&#39;s tied to crypto news site The Block&#39;s CEO secretly received $43M in Alameda loans, used in part to acquire and run the site; CEO has now resigned &lpar;Sara Fischer/Axios&rpar;](http://www.techmeme.com/221209/p18#a221209p18)
- - [Best Live TV Streaming Service for Cord Cutting in 2022     - CNET](https://www.cnet.com/tech/services-and-software/best-live-tv-streaming-service-for-cord-cutters/#ftag=CAD590a51e)
- - [Now you can go password-free in Chrome with passkeys](https://www.theverge.com/2022/12/9/23501809/chrome-passkey-password-free-stable-m108)<!-- TECH:END -->
+ - [Who’s snitching on the big crypto group chat?](https://www.theverge.com/2022/12/9/23502193/ftx-alameda-binance-kraken-tether-exchange-texts)
+ - [Activists respond to Apple choosing encryption over invasive image scanning plans](https://www.theverge.com/2022/12/9/23500838/apple-csam-plans-dropped-eff-ncmec-cdt-reactions)
+ - [The best instant photo printer you can buy right now](https://www.theverge.com/23283824/best-instant-photo-printer-polaroid-fujifilm-canon-hp)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
