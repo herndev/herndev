@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to watch Carpool Karaoke: The Series on Apple TV+](https://appleinsider.com/inside/apple-tv-plus/tips/how-to-watch-carpool-karaoke-the-series-on-apple-tv?utm_medium=rss)
- - [Fossil Gen 6 Wellness Review: Avoid This Wear OS 3 Smartwatch](https://www.wired.com/review/fossil-gen-6-wellness/)
- - [The pint-sized DJI Mini 3 comes with a suitably mini price](https://www.theverge.com/2022/12/9/23501450/dji-mini-3-drone-announcement-price-date)<!-- TECH:END -->
+ - [Daily Deals Dec. 9: $255 off M2 MacBook Air, Refurbished iPads starting at $115, 33% off Samsung 32-inch M7 4K monitor, more](https://appleinsider.com/articles/22/12/09/daily-deals-dec-9-255-off-m2-macbook-air-refurbished-ipads-starting-at-115-33-off-samsung-32-inch-m7-4k-monitor-more?utm_medium=rss)
+ - [The hype around esports is fading, as teams and organizations shrink due to a weak sponsorship and ad market, falling VC investment, and the crypto meltdown &lpar;Cecilia D&#39;Anastasio/Bloomberg&rpar;](http://www.techmeme.com/221209/p12#a221209p12)
+ - [Sam Bankman-Fried agrees to testify before House Committee on FTX collapse next week](https://www.theverge.com/2022/12/9/23500793/ftx-sbf-sam-bankman-fried-collapse-alameda-research-house-committee-hearing)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
