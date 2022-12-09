@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Discover a brutal new world in Behemoth for PS VR2￼](https://blog.playstation.com/2022/12/08/discover-a-brutal-new-world-in-behemoth-for-ps-vr2%ef%bf%bc/)
- - [Horizon Forbidden West Gets Massive Los Angeles DLC In April](https://kotaku.com/horizon-forbidden-west-dlc-expansion-ps5-sunwing-1849865342)
- - [Blue Protocol Coming to Xbox Series X|S in 2023](https://news.xbox.com/en-us/2022/12/08/blue-protocol-coming-to-xbox-series-xs-in-2023/)<!-- GAME:END -->
+ - [The Game Awards 2022: Big Winners, World Exclusive Reveals, and More From the Premiere Video Game Awards Show](https://news.xbox.com/en-us/2022/12/08/the-game-awards-2022-recap/)
+ - [The biggest announcements from The Game Awards 2022](https://www.polygon.com/game-awards-tga/23498669/the-game-awards-biggest-announcements-2022)
+ - [The Game Awards 2022 results: All the winners](https://www.pcgamer.com/the-game-awards-2022-results-all-the-winners)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
