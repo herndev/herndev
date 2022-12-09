@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Supreme gaming keyboard maker Mountain is now a be quiet! affiliate](https://www.pcgamer.com/supreme-gaming-keyboard-maker-mountain-is-now-affiliated-with-be-quiet)
- - [Tekken 8 is bringing back a fan favourite after 27 years](https://www.pcgamer.com/tekken-8-is-bringing-back-a-fan-favourite-after-27-years)
- - [Nvidia RTX 4070 rumoured to have same core counts as the old RTX 3070](https://www.pcgamer.com/nvidia-rtx-4070-rumoured-to-have-same-core-counts-as-the-old-rtx-3070)<!-- GAME:END -->
+ - [Unearth Past Secrets in ‘The Rogue’s Legacy’, Sea of Thieves’ Tenth Adventure, Live Until December 22!](https://news.xbox.com/en-us/2022/12/09/sea-of-thieves-adventure-rogues-legacy/)
+ - [Genshin Impact emerges victorious in the bitter Game Awards war against Sonic Frontiers](https://www.pcgamer.com/genshin-impact-emerges-victorious-in-the-bitter-game-awards-war-against-sonic-frontiers)
+ - [How to collect and refine Eitr in Valheim](https://www.pcgamer.com/valheim-eitr-refinery-sap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
