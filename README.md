@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Markiplier finally released his OnlyFans and broke the whole damn site](https://www.pcgamer.com/markiplier-finally-released-his-onlyfans-and-broke-the-whole-damn-site)
- - [Steam Deck giveaway hopefuls hijack Game Awards chat by spamming Linux commands](https://www.pcgamer.com/steam-deck-giveaway-hopefuls-hijack-game-awards-chat-by-spamming-linux-commands)
- - [Final Fantasy XVI releases June 22, 2023](https://blog.playstation.com/2022/12/09/final-fantasy-xvi-releases-june-22-2023/)<!-- GAME:END -->
+ - [Supreme gaming keyboard maker Mountain is now a be quiet! affiliate](https://www.pcgamer.com/supreme-gaming-keyboard-maker-mountain-is-now-affiliated-with-be-quiet)
+ - [Tekken 8 is bringing back a fan favourite after 27 years](https://www.pcgamer.com/tekken-8-is-bringing-back-a-fan-favourite-after-27-years)
+ - [Nvidia RTX 4070 rumoured to have same core counts as the old RTX 3070](https://www.pcgamer.com/nvidia-rtx-4070-rumoured-to-have-same-core-counts-as-the-old-rtx-3070)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
