@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chainsaw Man&#39;s English-Language Cast Weighs In: Subs Vs. Dubs](https://kotaku.com/chainsaw-man-anime-subs-dubs-denji-makima-crunchyroll-1849825038)
  - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)
- - [This artist imagined Idris Elba in Cyberpunk 2077… two years ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)
- - [Hades II Is A Sequel From A Studio That Doesn&#39;t Make Sequels](https://kotaku.com/hades-2-supergiant-the-game-awards-sequel-reveal-1849876146)<!-- GAME:END -->
+ - [This artist imagined Idris Elba in Cyberpunk 2077… two years ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
