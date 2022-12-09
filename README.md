@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Guillermo del Toro’s Pinocchio is a radical reimagining, and an extraordinary experience](https://www.polygon.com/reviews/23406878/pinocchio-review-guillermo-del-toro-netflix)
- - [Everything we know about Hades 2](https://www.polygon.com/23501759/hades-2-trailer-release-date-characters-melinoe)<!-- GAME:END -->
+ - [Everyone’s Hot As Hell In Hades II, As They Should Be](https://kotaku.com/hades-2-release-date-early-access-chronos-melinoe-1849876057)
+ - [This artist imagined Idris Elba in Cyberpunk 2077… two years ago](https://www.pcgamer.com/this-artist-imagined-idris-elba-in-cyberpunk-2077-two-years-ago)
+ - [Hades II Is A Sequel From A Studio That Doesn&#39;t Make Sequels](https://kotaku.com/hades-2-supergiant-the-game-awards-sequel-reveal-1849876146)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
