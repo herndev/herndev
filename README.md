@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
- - ⏩ [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
- - 👉 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
+ - 💣 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - ⏩ [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)
+ - 👉 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
 
 ---
 
