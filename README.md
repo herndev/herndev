@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
- - ⏩ [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
- - 👉 [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)<!-- MEMES:END -->
+ - 💣 [Throwback to December 2013 when my home town decided to install a Christmas tree](http://9gag.com/gag/aDYxYV9)
+ - ⏩ [It&#39;s good when you know nothing](http://9gag.com/gag/armgmGd)
+ - 👉 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
 
 ---
 
