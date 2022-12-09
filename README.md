@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Chrome browser update means it won&#39;t hog your PC&#39;s memory so much](https://www.pcgamer.com/chrome-browser-update-means-it-wont-hog-your-pcs-memory-so-much)
  - [Today&#39;s Wordle answer and hint for Friday, December 9](https://www.pcgamer.com/wordle-538-answer-december-9)
- - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)
- - [Guy crashes Elden Ring GOTY acceptance at The Game Awards, gets arrested](https://www.pcgamer.com/game-awards-elden-ring-guy-stage-ambush-2022)<!-- GAME:END -->
+ - [Milf Hunter Won A Steam Deck And You Didn&#39;t](https://kotaku.com/steam-deck-game-awards-milf-hunter-trending-valve-tga-1849873280)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
