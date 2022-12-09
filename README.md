@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Throwback to December 2013 when my home town decided to install a Christmas tree](http://9gag.com/gag/aDYxYV9)
- - ⏩ [It&#39;s good when you know nothing](http://9gag.com/gag/armgmGd)
- - 👉 [Medieval castle evolution](http://9gag.com/gag/ap92Nyb)<!-- MEMES:END -->
+ - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - ⏩ [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - 👉 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
 
 ---
 
