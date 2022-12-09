@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Estonia&#39;s efforts to aid cybersecurity workers in Ukraine and coordinate with European and US allies to defend against Russia&#39;s cyberattacks &lpar;Maggie Miller/Politico&rpar;](http://www.techmeme.com/221209/p8#a221209p8)
- - [As US prosecutors reportedly investigate FTX and Alameda&#39;s role in orchestrating LUNA and UST&#39;s collapse, a look at the timeline of events and evidence &lpar;Emily Nicolle/Bloomberg&rpar;](http://www.techmeme.com/221209/p7#a221209p7)
- - [We asked, you told us: Here’s how you transfer files between phone and PC](https://www.androidauthority.com/share-files-pc-phone-poll-results-3249328/)<!-- TECH:END -->
+ - [More M2 Max benchmarks leak, show better performance](https://appleinsider.com/articles/22/12/09/more-m2-max-benchmarks-leak-show-better-performance?utm_medium=rss)
+ - [Daily Authority: 🙏 Pixel Fold renders](https://www.androidauthority.com/daily-authority-december-9-2022-3249340/)
+ - [Singapore-based Amber Group, one of Asia&#39;s largest crypto exchanges, cuts 40% of its staff, scraps retail operations, and terminates its Chelsea FC sponsorship &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221209/p9#a221209p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
