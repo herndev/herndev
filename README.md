@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Milkshake](http://9gag.com/gag/awZXmZ1)
- - ⏩ [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)
- - 👉 [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)<!-- MEMES:END -->
+ - 💣 [When u can&#39;t find the correct tempeture](http://9gag.com/gag/ay2XN5r)
+ - ⏩ [Imagine putting yourself in this situation as a hobby](http://9gag.com/gag/aZD3wNz)
+ - 👉 [Imagine escaping Ukrainian War, just t get stabbed to death by a Jordanian muslim migrant](http://9gag.com/gag/a6qoXd9)<!-- MEMES:END -->
 
 ---
 
