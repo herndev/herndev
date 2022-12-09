@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [More M2 Max benchmarks leak, show better performance](https://appleinsider.com/articles/22/12/09/more-m2-max-benchmarks-leak-show-better-performance?utm_medium=rss)
- - [Daily Authority: 🙏 Pixel Fold renders](https://www.androidauthority.com/daily-authority-december-9-2022-3249340/)
- - [Singapore-based Amber Group, one of Asia&#39;s largest crypto exchanges, cuts 40% of its staff, scraps retail operations, and terminates its Chelsea FC sponsorship &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221209/p9#a221209p9)<!-- TECH:END -->
+ - [‘Solar Twins’ Reveal the Consistency of the Universe](https://www.wired.com/story/solar-twins-reveal-the-consistency-of-the-universe/)
+ - [The Holiday Travel Blob Has Begun](https://www.wired.com/story/flights-hotels-christmas-the-holiday-travel-blob-has-begun/)
+ - [How the UN’s ‘Sex Agency’ Uses Tech to Save Mothers’ Lives](https://www.wired.com/story/how-the-uns-sex-agency-uses-tech-to-save-mothers-lives/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
