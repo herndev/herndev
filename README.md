@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Methanol fires are invisible in daylight\u2026](http://9gag.com/gag/aoKNKAX)
- - ⏩ [Kardashians ruin these GENZ](http://9gag.com/gag/aXnxNyb)
- - 👉 [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)<!-- MEMES:END -->
+ - 💣 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)
+ - ⏩ [C l o w n world](http://9gag.com/gag/aoKNxXw)
+ - 👉 [Last minutes of extra-time in Croatia - Brazil](http://9gag.com/gag/aeQMmqj)<!-- MEMES:END -->
 
 ---
 
