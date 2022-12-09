@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Winona Ryder](http://9gag.com/gag/aEqxAvO)
- - ⏩ [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
- - 👉 [What the hell happened here](http://9gag.com/gag/agoX1rv)<!-- MEMES:END -->
+ - 💣 [Big &amp; Little](http://9gag.com/gag/a5XoB1G)
+ - ⏩ [The anguished cries of a family member of Mohsen Shekari, the 23-year-old protester in Iran who was executed by hanging this morning.](http://9gag.com/gag/az2XPZp)
+ - 👉 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
 
 ---
 
