@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woooshaaa....](http://9gag.com/gag/aVb3ZL2)
- - ⏩ [`She paved the way for all of us`](http://9gag.com/gag/aMEjzrP)
- - 👉 [Trying to get a `what&#39;s up dog` from his foreign girlfriend](http://9gag.com/gag/az2XKZb)<!-- MEMES:END -->
+ - 💣 [Guy broke AF but makes his birthday cake anyway.](http://9gag.com/gag/aVb3x4P)
+ - ⏩ [The definition of &#39;based&#39;](http://9gag.com/gag/aWG1vo2)
+ - 👉 [Milkshake](http://9gag.com/gag/awZXmZ1)<!-- MEMES:END -->
 
 ---
 
