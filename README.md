@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Too Many Cooks’ creator hid an entire horror movie in Adult Swim’s yule log](https://www.polygon.com/23501856/adult-swim-yule-log-casper-kelly-watch-the-fireplace)
- - [The Last of Us will run on Steam Deck, creator confirms](https://www.pcgamer.com/the-last-of-us-will-run-on-steam-deck-creator-confirms)
- - [Today&#39;s Wordle 541 answer and hint for Monday, December 12](https://www.pcgamer.com/wordle-541-answer-december-12)<!-- GAME:END -->
+ - [The Witcher 3: How to get all Feline armor and weapons](https://www.pcgamer.com/the-witcher-3-feline-armor-cat-school-gear)
+ - [WoW&#39;s most stubborn peacenik hits max level without hurting anyone once again](https://www.pcgamer.com/wows-most-stubborn-peacenik-hits-max-level-without-hurting-anyone-once-again)
+ - [Sabrent may have just dropped the Steam Deck NVMe SSD of my dreams](https://www.pcgamer.com/sabrent-may-have-just-dropped-the-steam-deck-nvme-ssd-of-my-dreams)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
