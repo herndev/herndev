@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple releases AirTag firmware update 2.0.36](https://appleinsider.com/articles/22/12/12/apple-releases-airtag-firmware-update-2036?utm_medium=rss)
- - [FTX CEO&#39;s testimony to the US House: FTX.com and Alameda assets were commingled, insiders were paid $1B+, FTX US was not run independently of FTX.com, and more &lpar;U.S. House Committee on Financial Services&rpar;](http://www.techmeme.com/221212/p17#a221212p17)
- - [Apple TV owners report issues with exiting YouTube app](https://appleinsider.com/articles/22/12/12/apple-tv-owners-report-issues-with-exiting-youtube-app?utm_medium=rss)<!-- TECH:END -->
+ - [What happened to Apple&#39;s App Clips?](https://appleinsider.com/articles/22/12/11/what-happened-to-apples-app-clips?utm_medium=rss)
+ - [Similarweb: desktop visits to Twitter&#39;s ad manager fell ~74% YoY in Oct. and 85% in Nov., the largest drop since Musk&#39;s takeover; the trend continues in Dec. &lpar;Laura Forman/Wall Street Journal&rpar;](http://www.techmeme.com/221212/p19#a221212p19)
+ - [Flash deal: Apple&#39;s M1 Mac mini on sale for $629 today only](https://appleinsider.com/articles/22/12/12/flash-deal-apples-m1-mac-mini-on-sale-for-629-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
