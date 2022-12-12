@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Astronomers Spot Ghostly Light Glowing Throughout the Solar System     - CNET](https://www.cnet.com/science/space/astronomers-spot-ghostly-light-glowing-throughout-the-solar-system/#ftag=CAD590a51e)
- - [Lost Remains of Last Tasmanian Tiger Finally Found, Hiding in Plain Sight     - CNET](https://www.cnet.com/science/biology/lost-remains-of-last-tasmanian-tiger-finally-found-hiding-in-plain-sight/#ftag=CAD590a51e)
- - [Best Wordle Starter Words and Tips: What I Learned Playing for a Year Straight     - CNET](https://www.cnet.com/culture/best-wordle-starter-words-and-tips-what-i-learned-playing-for-a-year-straight/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [More People Need to Watch One of 2022&#39;s Best TV Shows     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-one-of-2022s-best-tv-shows/#ftag=CAD590a51e)
+ - [A Fusion Energy Breakthrough? Major Announcement Expected from US Scientists     - CNET](https://www.cnet.com/science/climate/a-fusion-energy-breakthrough-major-announcement-expected-from-us-scientists/#ftag=CAD590a51e)
+ - [The Classic Christmas Movie More People Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-classic-christmas-movie-more-people-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
