@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple looking at giant iPhone expansion in India at both retail &amp; manufacturing](https://appleinsider.com/articles/22/12/12/apple-looking-at-giant-iphone-expansion-in-india-at-both-retail-manufacturing?utm_medium=rss)
- - [There’s a New Explanation for ‘Genetic’ Trait Pairs: Your Parents](https://www.wired.com/story/theres-a-new-explanation-for-genetic-trait-pairs-your-parents/)
- - [30 Best Cheap Gear Under $30 &lpar;2022&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
+ - [Xiaomi announces the ~$575 Xiaomi 13 and ~$720 Xiaomi 13 Pro, adding a Snapdragon 8 Gen 2 chipset, available in China, and the Watch S2, Buds 4, and more &lpar;Jules Wang/Android Police&rpar;](http://www.techmeme.com/221212/p12#a221212p12)
+ - [These Algorithms Are Hunting for an EV Battery Mother Lode](https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/)
+ - [7 Best Posture Correctors &lpar;2022&rpar;: Braces, Apparel, Laptop Stands](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
