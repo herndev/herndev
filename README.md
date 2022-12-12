@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Too Many Cooks’ creator hid an entire horror movie in Adult Swim’s yule log](https://www.polygon.com/23501856/adult-swim-yule-log-casper-kelly-watch-the-fireplace)
  - [The Last of Us will run on Steam Deck, creator confirms](https://www.pcgamer.com/the-last-of-us-will-run-on-steam-deck-creator-confirms)
- - [Today&#39;s Wordle 541 answer and hint for Monday, December 12](https://www.pcgamer.com/wordle-541-answer-december-12)
- - [Disney just revived a character it lost the rights to in 1928](https://www.polygon.com/23487855/disney-animation-oswald-the-lucky-rabbit-new-short)<!-- GAME:END -->
+ - [Today&#39;s Wordle 541 answer and hint for Monday, December 12](https://www.pcgamer.com/wordle-541-answer-december-12)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
