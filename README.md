@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - ⏩ [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - 👉 [Glued to the street and cut out by police. Here: the exact moment you realize you&#39;re an idiot](http://9gag.com/gag/a2Kox39)<!-- MEMES:END -->
+ - 💣 [How to tell people who don\u2019t belong in a comic book store](http://9gag.com/gag/a04KWVq)
+ - ⏩ [The `snow` in the Wizard of Oz movie was 100% pure asbestos](http://9gag.com/gag/aDYx5AG)
+ - 👉 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
 
 ---
 
