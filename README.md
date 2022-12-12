@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xiaomi announces the ~$575 Xiaomi 13 and ~$720 Xiaomi 13 Pro, adding a Snapdragon 8 Gen 2 chipset, available in China, and the Watch S2, Buds 4, and more &lpar;Jules Wang/Android Police&rpar;](http://www.techmeme.com/221212/p12#a221212p12)
- - [These Algorithms Are Hunting for an EV Battery Mother Lode](https://www.wired.com/story/these-mining-algorithms-are-hunting-for-an-ev-battery-mother-lode/)
- - [7 Best Posture Correctors &lpar;2022&rpar;: Braces, Apparel, Laptop Stands](https://www.wired.com/gallery/posture-correctors/)<!-- TECH:END -->
+ - [Cliffset&#39;s Portable Silverware Set Has a Built-In Dishwasher](https://www.wired.com/story/cliffset-the-perfect-on-the-go-silverware-set/)
+ - [AMD Radeon RX 7900 XT / XTX review: 4K performance for less](https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price)
+ - [Keep your car or truck safe with the 70mai Omni Dash Cam](https://appleinsider.com/articles/22/12/10/keep-your-car-or-truck-safe-with-the-70mai-omni-dash-cam?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
