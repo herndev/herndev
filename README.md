@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A ‘scientific breakthrough’ in nuclear fusion? How to watch the announcement tomorrow](https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden)
- - [MrBeast is joining Fortnite with his own skins and a $1 million challenge](https://www.theverge.com/2022/12/12/23502483/mrbeast-fortnite-skin-1-million-survival-challenge-icon)
- - [Eve rolling out Matter firmware update for some HomeKit products](https://appleinsider.com/articles/22/12/12/eve-rolling-out-matter-firmware-update-for-some-homekit-products?utm_medium=rss)<!-- TECH:END -->
+ - [Livestreaming has gotten big, but is it business?](https://www.theverge.com/23505359/livestreaming-popular-big-business-vergecast)
+ - [How Did This Get Made? renews deal with SiriusXM](https://www.theverge.com/2022/12/12/23505694/how-did-this-get-made-renewed-stitcher-siriusxm-office-ladies)
+ - [Bring back the Surface Book](https://www.theverge.com/23490503/microsoft-surface-book-laptop-detachable-convertible)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
