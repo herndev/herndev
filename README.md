@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you know your partner’s phone PIN code?](https://www.androidauthority.com/partner-loved-one-phone-pin-code-poll-3249974/)
- - [Daily Authority: 🏆 Meet the best smartphone of 2022](https://www.androidauthority.com/daily-authority-december-12-2022-3249941/)
- - [Samsung Galaxy S23 Ultra China listing reveals speed boost, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)<!-- TECH:END -->
+ - [South Korean prosecutors believe Do Kwon, who founded the collapsed TerraUSD and LUNA, is hiding in Serbia, traveling via Dubai from Singapore in October &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/221212/p4#a221212p4)
+ - [You told us: Your phone charging times vary wildly](https://www.androidauthority.com/how-long-phone-charging-time-poll-results-3250009/)
+ - [Mazar&#39;s Binance recent &quot;proof of reserve&quot; report only covers a small set of financial data, raising fresh questions about Binance&#39;s ability to meet obligations &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/221212/p3#a221212p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
