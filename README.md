@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every now and then I get my hopes up that they will appreciate what I did but nothing happens](http://9gag.com/gag/aA0x9qd)
- - ⏩ [Great packaging](http://9gag.com/gag/aGEj4j5)
- - 👉 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
+ - 💣 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)
+ - ⏩ [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 👉 [Gentleman](http://9gag.com/gag/agoX6EW)<!-- MEMES:END -->
 
 ---
 
