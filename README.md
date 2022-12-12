@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
- - ⏩ [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
- - 👉 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)<!-- MEMES:END -->
+ - 💣 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)
+ - ⏩ [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
 
 ---
 
