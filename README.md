@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Witcher: Blood Origin isn’t witcher-y enough to stand out](https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel)
- - [What happened to Apple&#39;s App Clips?](https://appleinsider.com/articles/22/12/11/what-happened-to-apples-app-clips?utm_medium=rss)
- - [Twitter&#39;s Community Notes, the crowd-powered feature to fact check tweets previously known as Birdwatch, starts rolling out to all users globally &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/221211/p9#a221211p9)<!-- TECH:END -->
+ - [The Sci-Fi Video Game Everyone Should Play at Least Once     - CNET](https://www.cnet.com/tech/gaming/the-sci-fi-video-game-everyone-should-play-at-least-once/#ftag=CAD590a51e)
+ - [With AI image generation tools like Stable Diffusion and DreamBooth, it&#39;s easy to make damaging deepfakes using just a few images of a person from social media &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221211/p10#a221211p10)
+ - [Done With &#39;1899&#39;? Time to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/done-with-1899-time-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
