@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Kid Who Crashed The Game Awards Has A History Of Trolling](https://kotaku.com/game-awards-2022-bill-clinton-infowars-blizzcon-troll-1849877331)
- - [Wild Hearts’ take on monster hunting takes a unique approach to its beasts](https://www.polygon.com/game-awards-tga/23502288/wild-hearts-omega-force-koei-tecmo-trailer-kemono)
- - [Mike Flanagan might be the only person who can do a Dark Tower series right](https://www.polygon.com/23502040/mike-flanagan-dark-tower-stephen-king-amazon-series-movies)<!-- GAME:END -->
+ - [This Marathon mod 15 years in the making is practically an entirely new game](https://www.pcgamer.com/marathon-mod-apotheosis-x)
+ - [The Witcher: Blood Origin isn’t a great sign for a post-Henry Cavill future](https://www.polygon.com/23501805/witcher-blood-origin-review-henry-cavill-universe)
+ - [Surf a magical archipelago in Wavetale, a former Stadia exclusive coming to Steam](https://www.pcgamer.com/surf-a-magical-archipelago-in-wavetale-a-former-stadia-exclusive-coming-to-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
