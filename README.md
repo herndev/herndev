@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3: How to get all Feline armor and weapons](https://www.pcgamer.com/the-witcher-3-feline-armor-cat-school-gear)
- - [WoW&#39;s most stubborn peacenik hits max level without hurting anyone once again](https://www.pcgamer.com/wows-most-stubborn-peacenik-hits-max-level-without-hurting-anyone-once-again)
- - [Sabrent may have just dropped the Steam Deck NVMe SSD of my dreams](https://www.pcgamer.com/sabrent-may-have-just-dropped-the-steam-deck-nvme-ssd-of-my-dreams)<!-- GAME:END -->
+ - [Phil Spencer Says Sony Wants To Grow At Xbox’s Expense](https://kotaku.com/microsoft-sony-xbox-ps5-starfield-activision-call-duty-1849882079)
+ - [Every new hairstyle in the Elden Ring Colosseum update](https://www.pcgamer.com/elden-ring-new-hairstyles)
+ - [Where to find the collectibles in Destiny 2’s Spire of the Watcher](https://www.polygon.com/destiny-2-witch-queen-guide/23502508/where-to-find-the-collectibles-in-spire-of-the-watcher-devil-in-the-details-devilish-recordings)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
