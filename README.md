@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What wearables does the Android Authority team use every day? &lpar;2022 Edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2022-3241252/)
- - [How to watch the FTX collapse hearings in Congress this week](https://www.theverge.com/2022/12/12/23505300/ftx-hearings-congress-live-stream-how-to-start-time-sam-bankman-fried)
- - [Matter finally arrives on devices you can actually use](https://www.theverge.com/2022/12/12/23505097/matter-eve-firmware-update-available-now)<!-- TECH:END -->
+ - [Deals: save 20% on select Dyson vacuums &amp; fans at eBay](https://appleinsider.com/articles/22/12/12/deals-save-20-on-select-dyson-vacuums-fans-at-ebay?utm_medium=rss)
+ - [Dough’s next gaming monitor is a 27-inch OLED](https://www.theverge.com/23504925/dough-spectrum-oled-es07e2d-gaming-monitor-lg-27-240hz-price-release-date)
+ - [Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more](https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
