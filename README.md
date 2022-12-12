@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/aA0xvj2)
- - ⏩ [How So?](http://9gag.com/gag/aPgj2wg)
- - 👉 [It&#39;s raining again](http://9gag.com/gag/aGEj5Zn)<!-- MEMES:END -->
+ - 💣 [Lockpicking lawyer himself](http://9gag.com/gag/aBdx5gO)
+ - ⏩ [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
+ - 👉 [Orcas](http://9gag.com/gag/aVb35Xv)<!-- MEMES:END -->
 
 ---
 
