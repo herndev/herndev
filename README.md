@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When stock trading doesn\u2019t pay the bills anymore](http://9gag.com/gag/aGEjvgZ)
- - ⏩ [POV you are escaping titans](http://9gag.com/gag/aDYx58O)
- - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 💣 [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
+ - ⏩ [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 👉 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
 
 ---
 
