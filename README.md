@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: Thoma Bravo is in advanced talks to acquire Coupa Software, which helps companies manage their spending, after outbidding Vista Equity Partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/221211/p11#a221211p11)
  - [More People Need to Watch One of 2022&#39;s Best TV Shows     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-one-of-2022s-best-tv-shows/#ftag=CAD590a51e)
- - [A Fusion Energy Breakthrough? Major Announcement Expected from US Scientists     - CNET](https://www.cnet.com/science/climate/a-fusion-energy-breakthrough-major-announcement-expected-from-us-scientists/#ftag=CAD590a51e)
- - [The Classic Christmas Movie More People Need to Watch     - CNET](https://www.cnet.com/culture/entertainment/the-classic-christmas-movie-more-people-need-to-watch/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A Fusion Energy Breakthrough? Major Announcement Expected from US Scientists     - CNET](https://www.cnet.com/science/climate/a-fusion-energy-breakthrough-major-announcement-expected-from-us-scientists/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
