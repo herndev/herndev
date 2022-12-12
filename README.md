@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deals: save 20% on select Dyson vacuums &amp; fans at eBay](https://appleinsider.com/articles/22/12/12/deals-save-20-on-select-dyson-vacuums-fans-at-ebay?utm_medium=rss)
- - [Dough’s next gaming monitor is a 27-inch OLED](https://www.theverge.com/23504925/dough-spectrum-oled-es07e2d-gaming-monitor-lg-27-240hz-price-release-date)
- - [Daily deals Dec. 12: $150 off M2 MacBook Air, Up to 31% off Blue microphones, up to $300 off storage, more](https://appleinsider.com/articles/22/12/12/daily-deals-dec-12-150-off-m2-macbook-air-up-to-31-off-blue-microphones-up-to-300-off-storage-more?utm_medium=rss)<!-- TECH:END -->
+ - [A ‘scientific breakthrough’ in nuclear fusion? How to watch the announcement tomorrow](https://www.theverge.com/2022/12/12/23505416/nuclear-fusion-scientific-breakthrough-how-to-watch-announcement-biden)
+ - [MrBeast is joining Fortnite with his own skins and a $1 million challenge](https://www.theverge.com/2022/12/12/23502483/mrbeast-fortnite-skin-1-million-survival-challenge-icon)
+ - [Eve rolling out Matter firmware update for some HomeKit products](https://appleinsider.com/articles/22/12/12/eve-rolling-out-matter-firmware-update-for-some-homekit-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
