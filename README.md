@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Improved Experiences for the Xbox App on PC](https://news.xbox.com/en-us/2022/12/12/xbox-app-on-pc-updates-recap/)
- - [When Jujutsu Kaisen season 2 comes out, based on everything we know](https://www.polygon.com/23499709/jujutsu-kaisen-season-2-everything-we-know)
- - [Mario Strikers: Battle League DLC shows us a cheeky little Birdo](https://www.polygon.com/23505979/mario-strikers-battle-league-soccer-dlc-birdo-bowser-jr)<!-- GAME:END -->
+ - [The Grammy Awards videogame category is kind of a mess](https://www.pcgamer.com/the-grammy-awards-videogame-category-is-kind-of-a-mess)
+ - [D&amp;D CEO Thinks Hobby Is &#39;Under Monetized&#39; Compared To Video Games](https://kotaku.com/dungeons-and-dragons-dnd-fifth-edition-one-dnd-1849884812)
+ - [PC Requirements Reach New High As Popular PS5 Game Hits Steam](https://kotaku.com/pc-steam-returnal-ram-requirements-ps5-upgrade-1849884682)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
