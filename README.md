@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Meet the Deathstalker of Wild Hearts](https://news.xbox.com/en-us/2022/12/12/meet-the-deathstalker-of-wild-hearts/)
- - [Tower Princess: How to Become a Proper Knight](https://news.xbox.com/en-us/2022/12/12/tower-princess-how-to-become-a-proper-knight/)
- - [Mike White has a plan &lpar;sorta&rpar; for The White Lotus season 3](https://www.polygon.com/23505926/white-lotus-season-3-release-date-cast-news)<!-- GAME:END -->
+ - [The Unlock is Here: Riot Games and Benefits Come to Game Pass](https://news.xbox.com/en-us/2022/12/12/riot-games-and-benefits-come-to-game-pass/)
+ - [Christopher Nolan recreated an atomic test ‘without computer graphics’ for new movie](https://www.polygon.com/23505762/christopher-nolan-oppenheimer-new-movie-atomic-test-cgi)
+ - [Hold onto your hats, Returnal PC system requirements recommends 32GB RAM](https://www.pcgamer.com/returnal-pc-system-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
