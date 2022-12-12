@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 hits even harder in a post-Cyberpunk 2077 world](https://www.polygon.com/reviews/23505326/the-witcher-3-next-gen-upgrade-review-ps5-xbox-series-x-pc)
- - [GOG is giving away a free game to start its big Winter Sale](https://www.pcgamer.com/gog-winter-sale-2022)
- - [AMD Radeon RX 7900 XT](https://www.pcgamer.com/amd-rx-7900-xt-review-performance-specs)<!-- GAME:END -->
+ - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
+ - [How to complete the Calming the Land world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-calming-the-land)
+ - [Take a Deep Breath: Free 3-Month Trial of Calm Premium for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/12/12/free-3-month-trial-of-calm-premium-for-xbox-game-pass-ultimate-members/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
