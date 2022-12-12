@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best deals under $25 that make great gifts](https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale)
- - [Some Uber employee records, corporate reports, and IT information is leaked online; Uber says it thinks the data is related to a breach of a third-party vendor &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221212/p20#a221212p20)
- - [Eldercare is Expensive and Emotionally Taxing for Families     - CNET](https://www.cnet.com/personal-finance/elder-care-is-expensive-and-emotionally-taxing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Boston-based cybersecurity startup Snyk raised $196.5M at a $7.4B valuation, down 12% from its round in September 2021, bringing its total raised to $1.075B &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221212/p22#a221212p22)
+ - [Twitter Blue is back, letting you buy a blue checkmark again](https://www.theverge.com/2022/12/12/23506335/twitter-blue-verified-checkmarks-return-impersonation)
+ - [Here’s where you can buy a PS5](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
