@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All romances you can pursue in the The Witcher 3](https://www.pcgamer.com/the-witcher-3-romances)
- - [How to complete the Calming the Land world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-calming-the-land)
- - [Take a Deep Breath: Free 3-Month Trial of Calm Premium for Xbox Game Pass Ultimate Members](https://news.xbox.com/en-us/2022/12/12/free-3-month-trial-of-calm-premium-for-xbox-game-pass-ultimate-members/)<!-- GAME:END -->
+ - [Polygon ranks the Star Wars](https://www.polygon.com/star-wars/23352914/best-star-wars-movies-tv-shows-ranked)
+ - [Trying to play Destiny 2 without the API this weekend was a trip to the Dark Ages](https://www.pcgamer.com/trying-to-play-destiny-2-without-the-api-this-weekend-was-a-trip-to-the-dark-ages)
+ - [Puss in Boots on Hot Ones is the greatest crossover we never knew we needed](https://www.polygon.com/23505648/puss-in-boots-hot-ones)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
