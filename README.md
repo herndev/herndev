@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - ⏩ [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
- - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 💣 [Every now and then I get my hopes up that they will appreciate what I did but nothing happens](http://9gag.com/gag/aA0x9qd)
+ - ⏩ [Great packaging](http://9gag.com/gag/aGEj4j5)
+ - 👉 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
 
 ---
 
