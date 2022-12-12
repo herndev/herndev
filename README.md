@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best entertainment of 2022](https://www.theverge.com/22949266/best-games-movies-tv-2022)
- - [Apple TV+ dramas earn two spots on AFI&#39;s best shows of the year list](https://appleinsider.com/articles/22/12/09/apple-tv-dramas-earn-two-spots-on-afis-best-shows-of-the-year-list?utm_medium=rss)
- - [Guillermo del Toro’s Pinocchio is a gnarly and spiritual fairy tale about what makes life beautiful](https://www.theverge.com/23501898/guillermo-del-toro-pinocchio-netflix-review)<!-- TECH:END -->
+ - [The Witcher: Blood Origin isn’t witcher-y enough to stand out](https://www.theverge.com/23500170/the-witcher-blood-origin-review-netflix-prequel)
+ - [What happened to Apple&#39;s App Clips?](https://appleinsider.com/articles/22/12/11/what-happened-to-apples-app-clips?utm_medium=rss)
+ - [Twitter&#39;s Community Notes, the crowd-powered feature to fact check tweets previously known as Birdwatch, starts rolling out to all users globally &lpar;Igor Bonifacic/Engadget&rpar;](http://www.techmeme.com/221211/p9#a221211p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
