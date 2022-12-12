@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon ranks the Star Wars](https://www.polygon.com/star-wars/23352914/best-star-wars-movies-tv-shows-ranked)
- - [Trying to play Destiny 2 without the API this weekend was a trip to the Dark Ages](https://www.pcgamer.com/trying-to-play-destiny-2-without-the-api-this-weekend-was-a-trip-to-the-dark-ages)
- - [Puss in Boots on Hot Ones is the greatest crossover we never knew we needed](https://www.polygon.com/23505648/puss-in-boots-hot-ones)<!-- GAME:END -->
+ - [Meet the Deathstalker of Wild Hearts](https://news.xbox.com/en-us/2022/12/12/meet-the-deathstalker-of-wild-hearts/)
+ - [Tower Princess: How to Become a Proper Knight](https://news.xbox.com/en-us/2022/12/12/tower-princess-how-to-become-a-proper-knight/)
+ - [Mike White has a plan &lpar;sorta&rpar; for The White Lotus season 3](https://www.polygon.com/23505926/white-lotus-season-3-release-date-cast-news)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
