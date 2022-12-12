@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The `snow` in the Wizard of Oz movie was 100% pure asbestos](http://9gag.com/gag/aDYx5AG)
- - ⏩ [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - 👉 [Lol](http://9gag.com/gag/aA0xvj2)<!-- MEMES:END -->
+ - 💣 [When stock trading doesn\u2019t pay the bills anymore](http://9gag.com/gag/aGEjvgZ)
+ - ⏩ [POV you are escaping titans](http://9gag.com/gag/aDYx58O)
+ - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 ---
 
