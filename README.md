@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Sci-Fi Video Game Everyone Should Play at Least Once     - CNET](https://www.cnet.com/tech/gaming/the-sci-fi-video-game-everyone-should-play-at-least-once/#ftag=CAD590a51e)
- - [With AI image generation tools like Stable Diffusion and DreamBooth, it&#39;s easy to make damaging deepfakes using just a few images of a person from social media &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/221211/p10#a221211p10)
- - [Done With &#39;1899&#39;? Time to Watch the Best Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/done-with-1899-time-to-watch-the-best-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Astronomers Spot Ghostly Light Glowing Throughout the Solar System     - CNET](https://www.cnet.com/science/space/astronomers-spot-ghostly-light-glowing-throughout-the-solar-system/#ftag=CAD590a51e)
+ - [Lost Remains of Last Tasmanian Tiger Finally Found, Hiding in Plain Sight     - CNET](https://www.cnet.com/science/biology/lost-remains-of-last-tasmanian-tiger-finally-found-hiding-in-plain-sight/#ftag=CAD590a51e)
+ - [Best Wordle Starter Words and Tips: What I Learned Playing for a Year Straight     - CNET](https://www.cnet.com/culture/best-wordle-starter-words-and-tips-what-i-learned-playing-for-a-year-straight/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
