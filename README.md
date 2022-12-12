@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 541 answer and hint for Monday, December 12](https://www.pcgamer.com/wordle-541-answer-december-12)
  - [Disney just revived a character it lost the rights to in 1928](https://www.polygon.com/23487855/disney-animation-oswald-the-lucky-rabbit-new-short)
- - [Unsurprisingly, there are already nude mods for Midnight Suns](https://www.pcgamer.com/unsurprisingly-there-are-already-nude-mods-for-midnight-suns)
- - [Dyson&#39;s air-purification headphones will cost nearly $1k a pair](https://www.pcgamer.com/dysons-air-purification-headphones-will-cost-nearly-dollar1k-a-pair)<!-- GAME:END -->
+ - [Unsurprisingly, there are already nude mods for Midnight Suns](https://www.pcgamer.com/unsurprisingly-there-are-already-nude-mods-for-midnight-suns)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
