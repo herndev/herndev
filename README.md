@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean prosecutors believe Do Kwon, who founded the collapsed TerraUSD and LUNA, is hiding in Serbia, traveling via Dubai from Singapore in October &lpar;Song Jung-a/Financial Times&rpar;](http://www.techmeme.com/221212/p4#a221212p4)
- - [You told us: Your phone charging times vary wildly](https://www.androidauthority.com/how-long-phone-charging-time-poll-results-3250009/)
- - [Mazar&#39;s Binance recent &quot;proof of reserve&quot; report only covers a small set of financial data, raising fresh questions about Binance&#39;s ability to meet obligations &lpar;Jonathan Weil/Wall Street Journal&rpar;](http://www.techmeme.com/221212/p3#a221212p3)<!-- TECH:END -->
+ - [A look at what went wrong at decentralized lending protocol Maple Finance, as $54M in loans, or 66% of its lending pools, turn bad and what could happen next &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/221212/p5#a221212p5)
+ - [Xbox boss: Sony wants to ‘grow by making Xbox smaller’](https://www.theverge.com/2022/12/12/23505078/xbox-phil-spencer-sony-growth-comments-activision-blizzard)
+ - [WhatsApp’s ‘View Once’ feature might expand to include text messages](https://www.theverge.com/2022/12/12/23505082/whatsapp-view-once-text-messages-in-development-feature-unreleased)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
