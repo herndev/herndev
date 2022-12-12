@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
- - ⏩ [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
- - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 💣 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - ⏩ [Gonna try this](http://9gag.com/gag/a4o7mVw)
+ - 👉 [Occurred on November 4, 2022 / Manchester, Ohio, USA We had a contracted demolition company set off explosives on a controlled demolition. The contract was only to control blast 4 towers but as the 4th tower started to fall it switched directions and took out the scrub tower](http://9gag.com/gag/aEqxyvx)<!-- MEMES:END -->
 
 ---
 
