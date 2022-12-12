@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - ⏩ [Father of the year](http://9gag.com/gag/aGEj71X)
- - 👉 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)<!-- MEMES:END -->
+ - 💣 [Lol](http://9gag.com/gag/aA0xvj2)
+ - ⏩ [Hollywood Tried To DESTROY Dave Chappelle](http://9gag.com/gag/a2Ko9nO)
+ - 👉 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
 
 ---
 
