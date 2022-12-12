@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
- - ⏩ [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - 👉 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)<!-- MEMES:END -->
+ - 💣 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
+ - ⏩ [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
+ - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 ---
 
