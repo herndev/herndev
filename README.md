@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Thoma Bravo is in advanced talks to acquire Coupa Software, which helps companies manage their spending, after outbidding Vista Equity Partners &lpar;Bloomberg&rpar;](http://www.techmeme.com/221211/p11#a221211p11)
- - [More People Need to Watch One of 2022&#39;s Best TV Shows     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-one-of-2022s-best-tv-shows/#ftag=CAD590a51e)
- - [A Fusion Energy Breakthrough? Major Announcement Expected from US Scientists     - CNET](https://www.cnet.com/science/climate/a-fusion-energy-breakthrough-major-announcement-expected-from-us-scientists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Galaxy S23 Ultra China listing reveals speed boost, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)
+ - [MIUI 14 goes official: Features, release schedule, and more](https://www.androidauthority.com/miui-14-features-release-schedule-eligible-phones-3249956/)
+ - [&#39;The White Lotus&#39; Finale Recap: We Were All Played     - CNET](https://www.cnet.com/culture/entertainment/the-white-lotus-finale-recap-we-were-all-played/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
