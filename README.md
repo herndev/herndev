@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 Ultra China listing reveals speed boost, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)
- - [MIUI 14 goes official: Features, release schedule, and more](https://www.androidauthority.com/miui-14-features-release-schedule-eligible-phones-3249956/)
- - [&#39;The White Lotus&#39; Finale Recap: We Were All Played     - CNET](https://www.cnet.com/culture/entertainment/the-white-lotus-finale-recap-we-were-all-played/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Poll: Do you know your partner’s phone PIN code?](https://www.androidauthority.com/partner-loved-one-phone-pin-code-poll-3249974/)
+ - [Daily Authority: 🏆 Meet the best smartphone of 2022](https://www.androidauthority.com/daily-authority-december-12-2022-3249941/)
+ - [Samsung Galaxy S23 Ultra China listing reveals speed boost, more](https://www.androidauthority.com/samsung-galaxy-s23-ultra-tenaa-3249962/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
