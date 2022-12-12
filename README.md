@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at what went wrong at decentralized lending protocol Maple Finance, as $54M in loans, or 66% of its lending pools, turn bad and what could happen next &lpar;Krisztian Sandor/CoinDesk&rpar;](http://www.techmeme.com/221212/p5#a221212p5)
- - [Xbox boss: Sony wants to ‘grow by making Xbox smaller’](https://www.theverge.com/2022/12/12/23505078/xbox-phil-spencer-sony-growth-comments-activision-blizzard)
- - [WhatsApp’s ‘View Once’ feature might expand to include text messages](https://www.theverge.com/2022/12/12/23505082/whatsapp-view-once-text-messages-in-development-feature-unreleased)<!-- TECH:END -->
+ - [Apple looking at giant iPhone expansion in India at both retail &amp; manufacturing](https://appleinsider.com/articles/22/12/12/apple-looking-at-giant-iphone-expansion-in-india-at-both-retail-manufacturing?utm_medium=rss)
+ - [There’s a New Explanation for ‘Genetic’ Trait Pairs: Your Parents](https://www.wired.com/story/theres-a-new-explanation-for-genetic-trait-pairs-your-parents/)
+ - [30 Best Cheap Gear Under $30 &lpar;2022&rpar;: Phone Cases, Camera Bags, and More](https://www.wired.com/gallery/our-favorite-gear-under-30-dollars/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
