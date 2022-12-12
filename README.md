@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Livestreaming has gotten big, but is it business?](https://www.theverge.com/23505359/livestreaming-popular-big-business-vergecast)
- - [How Did This Get Made? renews deal with SiriusXM](https://www.theverge.com/2022/12/12/23505694/how-did-this-get-made-renewed-stitcher-siriusxm-office-ladies)
- - [Bring back the Surface Book](https://www.theverge.com/23490503/microsoft-surface-book-laptop-detachable-convertible)<!-- TECH:END -->
+ - [Monday’s top tech news: &lpar;Twitter&rpar; Blue Monday](https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog)
+ - [Apple TV+ &#39;Severance&#39; &amp; &#39;Black Bird&#39; pile up Golden Globe nominations](https://appleinsider.com/articles/22/12/12/apple-tv-severance-black-bird-pile-up-golden-globe-nominations?utm_medium=rss)
+ - [MessageGears, a customer engagement service rivaling MoEngage and others, raised $62M led by Long Ridge Equity Partners, bringing its total funding to $80M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221212/p16#a221212p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
