@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Pi Pico project can generate guest Wi-Fi networks complete with QR logins](https://www.pcgamer.com/this-pi-pico-project-can-generate-guest-wi-fi-networks-complete-with-qr-logins)
- - [Black Mesa: Blue Shift releases its fourth chapter](https://www.pcgamer.com/black-mesa-blue-shift-releases-its-fourth-chapter)
- - [Tekken 7 has sold over 10 million copies](https://www.pcgamer.com/tekken-7-has-sold-over-10-million-copies)<!-- GAME:END -->
+ - [Disney just revived a character it lost the rights to in 1928](https://www.polygon.com/23487855/disney-animation-oswald-the-lucky-rabbit-new-short)
+ - [Unsurprisingly, there are already nude mods for Midnight Suns](https://www.pcgamer.com/unsurprisingly-there-are-already-nude-mods-for-midnight-suns)
+ - [Dyson&#39;s air-purification headphones will cost nearly $1k a pair](https://www.pcgamer.com/dysons-air-purification-headphones-will-cost-nearly-dollar1k-a-pair)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
