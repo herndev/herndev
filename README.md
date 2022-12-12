@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What happened to Apple&#39;s App Clips?](https://appleinsider.com/articles/22/12/11/what-happened-to-apples-app-clips?utm_medium=rss)
- - [Similarweb: desktop visits to Twitter&#39;s ad manager fell ~74% YoY in Oct. and 85% in Nov., the largest drop since Musk&#39;s takeover; the trend continues in Dec. &lpar;Laura Forman/Wall Street Journal&rpar;](http://www.techmeme.com/221212/p19#a221212p19)
- - [Flash deal: Apple&#39;s M1 Mac mini on sale for $629 today only](https://appleinsider.com/articles/22/12/12/flash-deal-apples-m1-mac-mini-on-sale-for-629-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [The best deals under $25 that make great gifts](https://www.theverge.com/23500290/best-deals-under-25-gift-ideas-deal-sale)
+ - [Some Uber employee records, corporate reports, and IT information is leaked online; Uber says it thinks the data is related to a breach of a third-party vendor &lpar;Lawrence Abrams/BleepingComputer&rpar;](http://www.techmeme.com/221212/p20#a221212p20)
+ - [Eldercare is Expensive and Emotionally Taxing for Families     - CNET](https://www.cnet.com/personal-finance/elder-care-is-expensive-and-emotionally-taxing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
