@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phil Spencer Says Sony Wants To Grow At Xbox’s Expense](https://kotaku.com/microsoft-sony-xbox-ps5-starfield-activision-call-duty-1849882079)
- - [Every new hairstyle in the Elden Ring Colosseum update](https://www.pcgamer.com/elden-ring-new-hairstyles)
- - [Where to find the collectibles in Destiny 2’s Spire of the Watcher](https://www.polygon.com/destiny-2-witch-queen-guide/23502508/where-to-find-the-collectibles-in-spire-of-the-watcher-devil-in-the-details-devilish-recordings)<!-- GAME:END -->
+ - [The Witcher 3 hits even harder in a post-Cyberpunk 2077 world](https://www.polygon.com/reviews/23505326/the-witcher-3-next-gen-upgrade-review-ps5-xbox-series-x-pc)
+ - [GOG is giving away a free game to start its big Winter Sale](https://www.pcgamer.com/gog-winter-sale-2022)
+ - [AMD Radeon RX 7900 XT](https://www.pcgamer.com/amd-rx-7900-xt-review-performance-specs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
