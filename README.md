@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The Last of Us will run on Steam Deck, creator confirms](https://www.pcgamer.com/the-last-of-us-will-run-on-steam-deck-creator-confirms)
  - [Today&#39;s Wordle 541 answer and hint for Monday, December 12](https://www.pcgamer.com/wordle-541-answer-december-12)
- - [Disney just revived a character it lost the rights to in 1928](https://www.polygon.com/23487855/disney-animation-oswald-the-lucky-rabbit-new-short)
- - [Unsurprisingly, there are already nude mods for Midnight Suns](https://www.pcgamer.com/unsurprisingly-there-are-already-nude-mods-for-midnight-suns)<!-- GAME:END -->
+ - [Disney just revived a character it lost the rights to in 1928](https://www.polygon.com/23487855/disney-animation-oswald-the-lucky-rabbit-new-short)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
