@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clima `activist` retard glues himself on the street &lpar;might lose hand&rpar;](http://9gag.com/gag/az2X35Z)
- - ⏩ [Me watching England vs. France](http://9gag.com/gag/a9qpNLL)
+ - 💣 [OSHA Certified construction site](http://9gag.com/gag/ajVE4Xp)
+ - ⏩ [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
  - 👉 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
 
 ---
