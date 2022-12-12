@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Monday’s top tech news: &lpar;Twitter&rpar; Blue Monday](https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog)
- - [Apple TV+ &#39;Severance&#39; &amp; &#39;Black Bird&#39; pile up Golden Globe nominations](https://appleinsider.com/articles/22/12/12/apple-tv-severance-black-bird-pile-up-golden-globe-nominations?utm_medium=rss)
- - [MessageGears, a customer engagement service rivaling MoEngage and others, raised $62M led by Long Ridge Equity Partners, bringing its total funding to $80M+ &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221212/p16#a221212p16)<!-- TECH:END -->
+ - [Apple releases AirTag firmware update 2.0.36](https://appleinsider.com/articles/22/12/12/apple-releases-airtag-firmware-update-2036?utm_medium=rss)
+ - [FTX CEO&#39;s testimony to the US House: FTX.com and Alameda assets were commingled, insiders were paid $1B+, FTX US was not run independently of FTX.com, and more &lpar;U.S. House Committee on Financial Services&rpar;](http://www.techmeme.com/221212/p17#a221212p17)
+ - [Apple TV owners report issues with exiting YouTube app](https://appleinsider.com/articles/22/12/12/apple-tv-owners-report-issues-with-exiting-youtube-app?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
