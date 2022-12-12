@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tekken 7 has sold over 10 million copies](https://www.pcgamer.com/tekken-7-has-sold-over-10-million-copies)
- - [One of the best-reviewed games on Steam is about watching plastic ducks](https://www.pcgamer.com/one-of-the-best-reviewed-games-on-steam-is-about-watching-plastic-ducks)
- - [Lunch Break](https://kotaku.com/salmon-illustration-concept-art-spaceships-sci-fi-1849880729)<!-- GAME:END -->
+ - [This Pi Pico project can generate guest Wi-Fi networks complete with QR logins](https://www.pcgamer.com/this-pi-pico-project-can-generate-guest-wi-fi-networks-complete-with-qr-logins)
+ - [Black Mesa: Blue Shift releases its fourth chapter](https://www.pcgamer.com/black-mesa-blue-shift-releases-its-fourth-chapter)
+ - [Tekken 7 has sold over 10 million copies](https://www.pcgamer.com/tekken-7-has-sold-over-10-million-copies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
