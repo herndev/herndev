@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Unlock is Here: Riot Games and Benefits Come to Game Pass](https://news.xbox.com/en-us/2022/12/12/riot-games-and-benefits-come-to-game-pass/)
- - [Christopher Nolan recreated an atomic test ‘without computer graphics’ for new movie](https://www.polygon.com/23505762/christopher-nolan-oppenheimer-new-movie-atomic-test-cgi)
- - [Hold onto your hats, Returnal PC system requirements recommends 32GB RAM](https://www.pcgamer.com/returnal-pc-system-requirements)<!-- GAME:END -->
+ - [Improved Experiences for the Xbox App on PC](https://news.xbox.com/en-us/2022/12/12/xbox-app-on-pc-updates-recap/)
+ - [When Jujutsu Kaisen season 2 comes out, based on everything we know](https://www.polygon.com/23499709/jujutsu-kaisen-season-2-everything-we-know)
+ - [Mario Strikers: Battle League DLC shows us a cheeky little Birdo](https://www.polygon.com/23505979/mario-strikers-battle-league-soccer-dlc-birdo-bowser-jr)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
