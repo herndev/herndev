@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
- - ⏩ [White guy tells jokes and that&#39;s illegal, right?](http://9gag.com/gag/aBdxNwO)
- - 👉 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)<!-- MEMES:END -->
+ - 💣 [The `snow` in the Wizard of Oz movie was 100% pure asbestos](http://9gag.com/gag/aDYx5AG)
+ - ⏩ [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
+ - 👉 [Lol](http://9gag.com/gag/aA0xvj2)<!-- MEMES:END -->
 
 ---
 
