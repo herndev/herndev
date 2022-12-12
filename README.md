@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
- - ⏩ [A group of thieves in Essex, England stole a set of luxury cars worth in total approximately \u00a3700,000 &lpar;$858,421&rpar;.](http://9gag.com/gag/aWG13BK)
- - 👉 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
+ - 💣 [This kid just got yeeted out of McDonalds](http://9gag.com/gag/a1Poq2R)
+ - ⏩ [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
+ - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 ---
 
