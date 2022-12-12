@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cliffset&#39;s Portable Silverware Set Has a Built-In Dishwasher](https://www.wired.com/story/cliffset-the-perfect-on-the-go-silverware-set/)
- - [AMD Radeon RX 7900 XT / XTX review: 4K performance for less](https://www.theverge.com/23499697/amd-radeon-rx-7900-xt-xtx-review-benchmarks-price)
- - [Keep your car or truck safe with the 70mai Omni Dash Cam](https://appleinsider.com/articles/22/12/10/keep-your-car-or-truck-safe-with-the-70mai-omni-dash-cam?utm_medium=rss)<!-- TECH:END -->
+ - [What wearables does the Android Authority team use every day? &lpar;2022 Edition&rpar;](https://www.androidauthority.com/android-authority-wearables-2022-3241252/)
+ - [How to watch the FTX collapse hearings in Congress this week](https://www.theverge.com/2022/12/12/23505300/ftx-hearings-congress-live-stream-how-to-start-time-sam-bankman-fried)
+ - [Matter finally arrives on devices you can actually use](https://www.theverge.com/2022/12/12/23505097/matter-eve-firmware-update-available-now)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
