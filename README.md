@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [OSHA Certified construction site](http://9gag.com/gag/ajVE4Xp)
- - ⏩ [It&#39;s a trap!](http://9gag.com/gag/az2XvVB)
- - 👉 [POV you are escaping titans](http://9gag.com/gag/aDYx58O)<!-- MEMES:END -->
+ - 💣 [A must watch movies before you die...](http://9gag.com/gag/az2XyXj)
+ - ⏩ [A group of thieves in Essex, England stole a set of luxury cars worth in total approximately \u00a3700,000 &lpar;$858,421&rpar;.](http://9gag.com/gag/aWG13BK)
+ - 👉 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)<!-- MEMES:END -->
 
 ---
 
