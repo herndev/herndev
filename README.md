@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wreak havoc with this completely free D&amp;D inspired AI story generator](https://www.pcgamer.com/wreak-havoc-with-this-completely-free-dandd-inspired-ai-story-generator)
  - [Today&#39;s Wordle 542 answer and hint for Tuesday, December 13](https://www.pcgamer.com/wordle-542-answer-december-13)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/12/this-weeks-deals-with-gold-and-spotlight-sale-255/)
- - [China petitions WTO as more countries promise semiconductor sanctions](https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/12/this-weeks-deals-with-gold-and-spotlight-sale-255/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
