@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Opportunity](http://9gag.com/gag/a5XoO3O)
- - ⏩ [10 Years... What a waste of time. I love it! F*** you and I&#39;ll see you tomorrow. Oh and I collect Collectors..](http://9gag.com/gag/ajVEooG)
- - 👉 [Something got out...](http://9gag.com/gag/adPKmdM)<!-- MEMES:END -->
+ - ⏩ [Every single room.](http://9gag.com/gag/a5Xo8xy)
+ - 👉 [The Adventures of the Bunker Boy](http://9gag.com/gag/anzMpB5)<!-- MEMES:END -->
 
 ---
 
