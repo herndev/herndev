@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Authenticator watchOS app to be discontinued in January](https://appleinsider.com/articles/22/12/13/microsoft-authenticator-watchos-app-to-be-discontinued-in-january?utm_medium=rss)
- - [First look at the new Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/13/first-look-at-the-new-dexcom-g7-glucose-monitor?utm_medium=rss)
- - [What is Twitter Blue? Everything you need to know](https://www.androidauthority.com/what-is-twitter-blue-3249106/)<!-- TECH:END -->
+ - [13 Best Tablets &lpar;2022&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
+ - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2022&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
+ - [8 Best Robot Vacuums for Every Home and Budget &lpar;2022&rpar;](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
