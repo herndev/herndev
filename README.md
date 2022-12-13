@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh... I like you](http://9gag.com/gag/aPgj2mQ)
- - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
- - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
+ - 💣 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
+ - ⏩ [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - 👉 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
 
 ---
 
