@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Opportunity](http://9gag.com/gag/a5XoO3O)
- - ⏩ [Every single room.](http://9gag.com/gag/a5Xo8xy)
- - 👉 [The Adventures of the Bunker Boy](http://9gag.com/gag/anzMpB5)<!-- MEMES:END -->
+ - 💣 [The Ancient Languages](http://9gag.com/gag/a04KGYz)
+ - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 👉 [Weirdly Specific PC issue](http://9gag.com/gag/aYVg3vO)<!-- MEMES:END -->
 
 ---
 
