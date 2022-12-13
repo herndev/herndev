@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The shift pattern from a 1962 Freightliner semi truck](http://9gag.com/gag/aL1j5mg)
- - ⏩ [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
+ - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
+ - ⏩ [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)
+ - 👉 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
 
 ---
 
