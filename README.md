@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Elon Musk says Twitter Blue subscribers will see half the number of ads, and that it plans to offer a higher tier with no ads in 2023 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/221212/p28#a221212p28)
  - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Westworld is leaving HBO Max](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)
- - [Email: Twitter dissolves its Trust and Safety Council, saying it isn&#39;t &quot;the best structure&quot; for &quot;external insights into our product and policy development work&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221212/p27#a221212p27)<!-- TECH:END -->
+ - [Westworld is leaving HBO Max](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
