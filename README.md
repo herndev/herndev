@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Want excellent in-game accuracy? Check out these ASUS PC gaming peripherals.](https://www.pcgamer.com/want-excellent-in-game-accuracy-check-out-these-asus-pc-gaming-peripherals)
- - [Modders are on an RTX rampage having added ray tracing to Half-Life 2, Max Payne and even SWAT 4](https://www.pcgamer.com/modders-are-on-an-rtx-rampage-having-added-ray-tracing-to-half-life-2-max-payne-and-even-swat-4)
- - [WoW&#39;s new trading post feature will let you pick up older and paid cosmetics for free](https://www.pcgamer.com/wows-new-trading-post-feature-will-let-you-pick-up-older-and-paid-cosmetics-for-free)<!-- GAME:END -->
+ - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
+ - [How to unlock the wrinkly testicle Nilfgaard armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor)
+ - [2022 was the year I fell in and out of love with ray tracing](https://www.pcgamer.com/2022-was-the-year-i-fell-in-and-out-of-love-with-ray-tracing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
