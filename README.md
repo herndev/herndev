@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
- - ⏩ [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 👉 [That could have been you](http://9gag.com/gag/a8qoxp1)<!-- MEMES:END -->
+ - 💣 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
+ - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 👉 [Yours free](http://9gag.com/gag/a7qMYXq)<!-- MEMES:END -->
 
 ---
 
