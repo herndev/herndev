@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Week In Games: High On Witchcraft](https://kotaku.com/december-2022-game-releases-out-this-week-high-on-life-1849889457)
- - [Destiny 2: Spire of the Watcher loot table and rolls guide](https://www.polygon.com/destiny-2-witch-queen-guide/23502540/destiny-2-spire-of-the-watcher-loot-table-and-rolls-guide-hierarchy-of-needs-long-arm-wilderflight)
- - [Founder of collapsed crypto exchange FTX arrested in the Bahamas](https://www.pcgamer.com/founder-of-collapsed-crypto-exchange-ftx-arrested-in-the-bahamas)<!-- GAME:END -->
+ - [The state of Path of Exile](https://www.pcgamer.com/the-state-of-path-of-exile-2022)
+ - [Game Removes Loot Boxes, Players Revolt Instead Of Celebrate](https://kotaku.com/brawl-stars-loot-boxes-free-mobile-battle-pass-1849890262)
+ - [Nintendo just released its version of Spotify Wrapped](https://www.polygon.com/23507970/nintendo-year-in-review-spotify-wrapped-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
