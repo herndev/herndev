@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Veteran build in Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40000-darktide-veteran-build)
- - [The Witcher 3: How to get the good ending in Family Matters](https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices)
- - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)<!-- GAME:END -->
+ - [Here&#39;s why first-gen OLED gaming monitors aren&#39;t truly PC optimized](https://www.pcgamer.com/heres-why-first-gen-oled-gaming-monitors-arent-truly-pc-optimized)
+ - [This New Scarlet And Violet Pokémon Is Unexpectedly OP](https://kotaku.com/pokemon-scarlet-violet-maushold-population-bomb-1849887860)
+ - [200,000 AMD Radeon RX 7900 GPUs reportedly available at launch](https://www.pcgamer.com/200000-amd-radeon-rx-7900-gpus-reportedly-available-at-launch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
