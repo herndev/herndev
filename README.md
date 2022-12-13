@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Launch day live: Join me as I try to find stock of AMD&#39;s RX 7900 XTX](https://www.pcgamer.com/news/live/where-to-buy-amd-rx-7900-xtx)
- - [Intel promises &#39;a lot more Arc in 2023 and more variations&#39; of its mainstream graphics cards](https://www.pcgamer.com/intel-promises-a-lot-more-arc-in-2023-and-more-variations-of-its-mainstream-graphics-cards)
- - [Fortnite is giving you 3 hours to win a million dollars this weekend](https://www.pcgamer.com/fortnite-is-giving-you-3-hours-to-win-a-million-dollars-this-weekend)<!-- GAME:END -->
+ - [Studio Ghibli master Hayao Miyazaki’s new film will open next summer](https://www.polygon.com/23507040/how-do-you-live-studio-ghibli-hayao-miyazaki-release-date)
+ - [How to complete the Fuel for the Forge quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-fuel-for-the-forge-magma-cores)
+ - [Here&#39;s when The Witcher 3 next-gen update releases in your region](https://www.pcgamer.com/the-witcher-3-next-gen-update-release-times)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
