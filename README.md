@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Checkout.com, which offers payment processing tools, drops its internal valuation to ~$11B, after securing a $40B investor valuation in January 2022 &lpar;Ivan Levingston/Financial Times&rpar;](http://www.techmeme.com/221213/p4#a221213p4)
- - [Samsung Good Lock is finally available in more countries](https://www.androidauthority.com/samsung-good-lock-countries-3249297/)
- - [China files a trade dispute at the WTO against the US over its chip export controls, arguing the curbs threaten the stability of global industrial supply chains &lpar;Reuters&rpar;](http://www.techmeme.com/221213/p3#a221213p3)<!-- TECH:END -->
+ - [A brief history of the video game industry, the rise of Nintendo, the dominance of Sony, and what Microsoft&#39;s Activision deal means for competition &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/221213/p6#a221213p6)
+ - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)
+ - [Sources: China is working on a $143B+ five-year support package for its chip industry, mainly including subsidies and tax credits, starting as soon as Q1 2023 &lpar;Julie Zhu/Reuters&rpar;](http://www.techmeme.com/221213/p5#a221213p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
