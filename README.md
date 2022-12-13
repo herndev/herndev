@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Forensic analysis: hackers planted files on at least three Indian activists and likely colluded with police, yet 11 of 16 activists in related case still jailed &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221213/p23#a221213p23)
- - [Urbanista Phoenix Review: Clever Charging, Decent Sound](https://www.wired.com/review/review-urbanista-phoenix/)
- - [Nuclear fusion power research passes milestone with ‘fusion ignition’](https://www.theverge.com/2022/12/13/23506086/nuclear-fusion-power-research-milestone-net-energy-gain)<!-- TECH:END -->
+ - [The EU publishes a draft approval of its preliminary US data sharing deal, struck in March to ease business sharing, after the US promised surveillance changes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221213/p27#a221213p27)
+ - [DoNotPay announces an AI-powered chatbot that can renegotiate bills and cancel subscriptions by chatting to customer service, rolling out in the coming weeks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221213/p26#a221213p26)
+ - [Instagram rolls out Notes, a friend-focused status updates feature that appear atop the inbox, and begins testing BeReal-like Candid Stories in South Africa &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/221213/p25#a221213p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
