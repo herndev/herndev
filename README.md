@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
- - ⏩ [A rare type of parasitic twin that occurs in 2-3 cases per 5 million newborns.](http://9gag.com/gag/aoKNvW3)
- - 👉 [That could have been you](http://9gag.com/gag/a8qoxp1)<!-- MEMES:END -->
+ - 💣 [On another episode of Idiots In Bikes](http://9gag.com/gag/aWG13w3)
+ - ⏩ [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
+ - 👉 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
 
 ---
 
