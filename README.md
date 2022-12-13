@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [On another episode of Idiots In Bikes](http://9gag.com/gag/aWG13w3)
- - ⏩ [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
- - 👉 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
+ - 💣 [Oh... I like you](http://9gag.com/gag/aPgj2mQ)
+ - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 👉 [Equality](http://9gag.com/gag/amA7ObX)<!-- MEMES:END -->
 
 ---
 
