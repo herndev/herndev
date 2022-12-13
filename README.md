@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
- - ⏩ [Savor the flavor](http://9gag.com/gag/aZD3ON0)
- - 👉 [Congratulations Katie Duke](http://9gag.com/gag/aWG1KZq)<!-- MEMES:END -->
+ - 💣 [Opportunity](http://9gag.com/gag/a5XoO3O)
+ - ⏩ [10 Years... What a waste of time. I love it! F*** you and I&#39;ll see you tomorrow. Oh and I collect Collectors..](http://9gag.com/gag/ajVEooG)
+ - 👉 [Something got out...](http://9gag.com/gag/adPKmdM)<!-- MEMES:END -->
 
 ---
 
