@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft Authenticator watchOS app to be discontinued in January](https://appleinsider.com/articles/22/12/13/microsoft-authenticator-watchos-app-to-be-discontinued-in-january?utm_medium=rss)
- - [Sources: on December 11, Twitter briefly blocked traffic from ~30 mobile carriers, mainly in the Asia-Pacific region, in an attempt to rid Twitter of spam &lpar;Platformer&rpar;](http://www.techmeme.com/221212/p26#a221212p26)
- - [Oracle reports Q2 revenue up 18% YoY to $12.28B, vs. $12.05B est., cloud services revenue up 14% YoY to $8.6B, and health data provider Cerner revenue of $1.5B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221212/p25#a221212p25)<!-- TECH:END -->
+ - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
+ - [Westworld is leaving HBO Max](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)
+ - [Email: Twitter dissolves its Trust and Safety Council, saying it isn&#39;t &quot;the best structure&quot; for &quot;external insights into our product and policy development work&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221212/p27#a221212p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
