@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iOS 16.2 arrives with improved always-on display and iCloud end-to-end encryption](https://www.theverge.com/2022/12/13/23505098/ios-16-2-download-always-on-display-iphone-apple-music-sing-icloud-encryption)
- - [Apple releases iOS 16.2 with Freeform and Apple Music Sing](https://appleinsider.com/articles/22/12/13/apple-releases-ios-162-with-freeform-and-apple-music-sing?utm_medium=rss)
- - [Netflix’s Kaleidoscope looks like the perfect crime in new trailer](https://www.theverge.com/2022/12/13/23507195/netflix-kaleidoscope-trailer-giancarlo-esposito)<!-- TECH:END -->
+ - [Kentucky Route Zero joins Netflix’s mobile games lineup](https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes)
+ - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)
+ - [Save $150 on Apple&#39;s M1 Mac mini with 512GB SSD at Amazon](https://appleinsider.com/articles/22/12/13/save-150-on-apples-m1-mac-mini-with-512gb-ssd-at-amazon?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
