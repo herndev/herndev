@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 542 answer and hint for Tuesday, December 13](https://www.pcgamer.com/wordle-542-answer-december-13)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/12/this-weeks-deals-with-gold-and-spotlight-sale-255/)
- - [China petitions WTO as more countries promise semiconductor sanctions](https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions)
- - [Dwarf Fortress now needs about 100 icons for spilled intestines, torn arteries and bruised tendons](https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons)<!-- GAME:END -->
+ - [China petitions WTO as more countries promise semiconductor sanctions](https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
