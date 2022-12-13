@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PlayStation’s 2022 Wrap-Up recaps playtime, trophies, and meows](https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows)
- - [Apple preparing for third-party app stores by 2024](https://appleinsider.com/articles/22/12/13/apple-preparing-for-third-party-app-stores-by-2024?utm_medium=rss)
- - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)<!-- TECH:END -->
+ - [The star feature of next-gen Asus laptops is from another dimension](https://www.androidauthority.com/asus-3d-oled-3250740/)
+ - [Tuesday’s top tech news: The law comes for Bankman-Fried](https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog)
+ - [Apple revives referral program to give $75 to new Apple Card owners](https://appleinsider.com/articles/22/12/13/apple-revives-referral-program-to-give-75-to-new-apple-card-owners?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
