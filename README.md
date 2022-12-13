@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kentucky Route Zero joins Netflix’s mobile games lineup](https://www.theverge.com/2022/12/13/23502564/kentucky-route-zero-netflix-ios-android-mobile-games-twelve-minutes)
- - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)
- - [Save $150 on Apple&#39;s M1 Mac mini with 512GB SSD at Amazon](https://appleinsider.com/articles/22/12/13/save-150-on-apples-m1-mac-mini-with-512gb-ssd-at-amazon?utm_medium=rss)<!-- TECH:END -->
+ - [PlayStation’s 2022 Wrap-Up recaps playtime, trophies, and meows](https://www.theverge.com/2022/12/13/23507377/playstation-2022-wrap-up-recap-playtime-trophies-meows)
+ - [Apple preparing for third-party app stores by 2024](https://appleinsider.com/articles/22/12/13/apple-preparing-for-third-party-app-stores-by-2024?utm_medium=rss)
+ - [Apple hasn&#39;t left Monterey, Big Sur, iPadOS 15, iOS 15 behind yet](https://appleinsider.com/articles/22/12/13/apple-hasnt-left-monterey-big-sur-ipados-15-ios-15-behind-yet?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
