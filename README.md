@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Polygon’s merch store relaunches to celebrate our first 10 years](https://www.polygon.com/deals/23506284/polygon-merch-store-relaunch-merchandise-shirts)
- - [Blade Runner TTRPG nails Ridley Scott’s vision, adds pitch-perfect investigative mechanics](https://www.polygon.com/reviews/23507498/blade-runner-the-role-playing-game-review)
- - [Paris Hilton and Jimmy Fallon are being sued for promoting NFTs](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-are-being-sued-for-promoting-nfts)<!-- GAME:END -->
+ - [PSA: Don&#39;t play Destiny 2&#39;s new Dawning event without equipping this item first](https://www.pcgamer.com/psa-dont-play-destiny-2s-new-dawning-event-without-equipping-this-item-first)
+ - [The Most Mesmerizing Video Game Box Art Of 2022](https://kotaku.com/best-game-box-art-2022-final-fantasy-cult-of-the-lamb-1849871501)
+ - [Overwatch 2’s Winter Wonderland event goes live with new skins, classic modes](https://www.polygon.com/23507809/overwatch-2-winter-wonderland-2022-dates-skins-challenges)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
