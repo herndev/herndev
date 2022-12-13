@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PSA: Don&#39;t play Destiny 2&#39;s new Dawning event without equipping this item first](https://www.pcgamer.com/psa-dont-play-destiny-2s-new-dawning-event-without-equipping-this-item-first)
- - [The Most Mesmerizing Video Game Box Art Of 2022](https://kotaku.com/best-game-box-art-2022-final-fantasy-cult-of-the-lamb-1849871501)
- - [Overwatch 2’s Winter Wonderland event goes live with new skins, classic modes](https://www.polygon.com/23507809/overwatch-2-winter-wonderland-2022-dates-skins-challenges)<!-- GAME:END -->
+ - [The Week In Games: High On Witchcraft](https://kotaku.com/december-2022-game-releases-out-this-week-high-on-life-1849889457)
+ - [Destiny 2: Spire of the Watcher loot table and rolls guide](https://www.polygon.com/destiny-2-witch-queen-guide/23502540/destiny-2-spire-of-the-watcher-loot-table-and-rolls-guide-hierarchy-of-needs-long-arm-wilderflight)
+ - [Founder of collapsed crypto exchange FTX arrested in the Bahamas](https://www.pcgamer.com/founder-of-collapsed-crypto-exchange-ftx-arrested-in-the-bahamas)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
