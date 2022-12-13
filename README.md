@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Dwarf Fortress now needs about 100 icons for spilled intestines, torn arteries and bruised tendons](https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons)
- - [PC Modders Get Classics Like Half-Life, Max Payne Looking Brand New](https://kotaku.com/nvidia-rtx-remix-mods-modder-max-payne-swat-portal-pc-1849884871)
- - [After spending 20 years simulating reality, the Dwarf Fortress devs have to get used to a new one: being millionaires](https://www.pcgamer.com/after-spending-20-years-simulating-reality-the-dwarf-fortress-devs-have-to-get-used-to-a-new-one-being-millionaires)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2022/12/12/this-weeks-deals-with-gold-and-spotlight-sale-255/)
+ - [China petitions WTO as more countries promise semiconductor sanctions](https://www.pcgamer.com/china-petitions-wto-as-more-countries-promise-semiconductor-sanctions)
+ - [Dwarf Fortress now needs about 100 icons for spilled intestines, torn arteries and bruised tendons](https://www.pcgamer.com/dwarf-fortress-now-needs-about-100-icons-for-spilled-intestines-torn-arteries-and-bruised-tendons)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
