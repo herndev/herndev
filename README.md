@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lifetime Rosetta Stone language learning bundle dips to $119](https://appleinsider.com/articles/22/12/13/lifetime-rosetta-stone-language-learning-bundle-dips-to-119?utm_medium=rss)
- - [T-Mobile’s latest 5G coverage hails from the era of Sprint, 3G, and 4G](https://www.theverge.com/2022/12/13/23506626/t-mobile-5g-1900mhz-pcs-carrier-aggregation-sprint-3g-lte)
- - [Sources: Twitter has stopped paying rent on offices and considers not paying severance packages to cut costs, as its top lawyer Alex Spiro leaves the company &lpar;New York Times&rpar;](http://www.techmeme.com/221213/p37#a221213p37)<!-- TECH:END -->
+ - [YouTube will start warning comment spammers when they violate the rules](https://www.theverge.com/2022/12/13/23508062/youtube-comment-spam-warning-violation-detection-bots)
+ - [Netflix is making a live-action My Hero Academia film](https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime)
+ - [Citing Sam Bankman-Fried as a flight risk, a Bahamas magistrate judge denies him bail and says he should be remanded to Bahamian custody until February 8, 2023 &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/221213/p38#a221213p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
