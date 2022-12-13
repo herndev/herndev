@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - ⏩ [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
- - 👉 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
+ - 💣 [Serves you right](http://9gag.com/gag/axo150p)
+ - ⏩ [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 👉 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
 
 ---
 
