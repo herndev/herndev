@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
- - [How to unlock the wrinkly testicle Nilfgaard armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-nilfgaard-netflix-armor)
- - [2022 was the year I fell in and out of love with ray tracing](https://www.pcgamer.com/2022-was-the-year-i-fell-in-and-out-of-love-with-ray-tracing)<!-- GAME:END -->
+ - [The best Veteran build in Warhammer 40K: Darktide](https://www.pcgamer.com/warhammer-40000-darktide-veteran-build)
+ - [The Witcher 3: How to get the good ending in Family Matters](https://www.pcgamer.com/the-witcher-3-family-matters-best-ending-choices)
+ - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
