@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FTX lawyers says Bahamas officials worked to help SBF regain access to FTX Trading&#39;s systems, asking him to mint a coin and transfer funds to island officials &lpar;Bloomberg&rpar;](http://www.techmeme.com/221213/p11#a221213p11)
- - [Best Amazon Deals: Fire Tablets, Hey Dude Shoes, Renewed iPhones and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)
- - [A look at some of the challenges with watermarking AI-generated text, as OpenAI works on developing a watermarking tool for ChatGPT and other systems &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221213/p10#a221213p10)<!-- TECH:END -->
+ - [Microsoft Authenticator watchOS app to be discontinued in January](https://appleinsider.com/articles/22/12/13/microsoft-authenticator-watchos-app-to-be-discontinued-in-january?utm_medium=rss)
+ - [First look at the new Dexcom G7 glucose monitor](https://appleinsider.com/articles/22/12/13/first-look-at-the-new-dexcom-g7-glucose-monitor?utm_medium=rss)
+ - [What is Twitter Blue? Everything you need to know](https://www.androidauthority.com/what-is-twitter-blue-3249106/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
