@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Boston-based cybersecurity startup Snyk raised $196.5M at a $7.4B valuation, down 12% from its round in September 2021, bringing its total raised to $1.075B &lpar;Ron Miller/TechCrunch&rpar;](http://www.techmeme.com/221212/p22#a221212p22)
- - [Twitter Blue is back, letting you buy a blue checkmark again](https://www.theverge.com/2022/12/12/23506335/twitter-blue-verified-checkmarks-return-impersonation)
- - [Here’s where you can buy a PS5](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)<!-- TECH:END -->
+ - [Review of the AMD Radeon RX 7900 XTX and XT: the XTX beats the Nvidia RTX 4080 for $200 less, except in power efficiency and ray tracing, and the XT comes close &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/221212/p24#a221212p24)
+ - [Monday’s top tech news: &lpar;Twitter&rpar; Blue Monday](https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog)
+ - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
