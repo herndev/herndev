@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The EU publishes a draft approval of its preliminary US data sharing deal, struck in March to ease business sharing, after the US promised surveillance changes &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221213/p27#a221213p27)
- - [DoNotPay announces an AI-powered chatbot that can renegotiate bills and cancel subscriptions by chatting to customer service, rolling out in the coming weeks &lpar;Emma Roth/The Verge&rpar;](http://www.techmeme.com/221213/p26#a221213p26)
- - [Instagram rolls out Notes, a friend-focused status updates feature that appear atop the inbox, and begins testing BeReal-like Candid Stories in South Africa &lpar;Cordilia James/Wall Street Journal&rpar;](http://www.techmeme.com/221213/p25#a221213p25)<!-- TECH:END -->
+ - [iOS 16.2 arrives with improved always-on display and iCloud end-to-end encryption](https://www.theverge.com/2022/12/13/23505098/ios-16-2-download-always-on-display-iphone-apple-music-sing-icloud-encryption)
+ - [Apple releases iOS 16.2 with Freeform and Apple Music Sing](https://appleinsider.com/articles/22/12/13/apple-releases-ios-162-with-freeform-and-apple-music-sing?utm_medium=rss)
+ - [Netflix’s Kaleidoscope looks like the perfect crime in new trailer](https://www.theverge.com/2022/12/13/23507195/netflix-kaleidoscope-trailer-giancarlo-esposito)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
