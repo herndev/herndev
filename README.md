@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
- - ⏩ [You Are Beautiful, Melissa](http://9gag.com/gag/aXnx6Xd)
- - 👉 [Savor the flavor](http://9gag.com/gag/aZD3ON0)<!-- MEMES:END -->
+ - 💣 [Savor the flavor](http://9gag.com/gag/aZD3ON0)
+ - ⏩ [Turbojet to Ramjet Transition. This engine is created by Hermeus Corp. in order to achieve a speed of Mach 5+.](http://9gag.com/gag/aNw1NLK)
+ - 👉 [When stupid people get money](http://9gag.com/gag/a04KBNX)<!-- MEMES:END -->
 
 ---
 
