@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is what we think of baby k^%ers](http://9gag.com/gag/aZD3XP3)
- - ⏩ [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - 👉 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
+ - 💣 [Bill Burr pulls someone over](http://9gag.com/gag/a9qpw4o)
+ - ⏩ [Savor the flavor](http://9gag.com/gag/aZD3ON0)
+ - 👉 [Congratulations Katie Duke](http://9gag.com/gag/aWG1KZq)<!-- MEMES:END -->
 
 ---
 
