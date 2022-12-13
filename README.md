@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Grammy Awards videogame category is kind of a mess](https://www.pcgamer.com/the-grammy-awards-videogame-category-is-kind-of-a-mess)
- - [D&amp;D CEO Thinks Hobby Is &#39;Under Monetized&#39; Compared To Video Games](https://kotaku.com/dungeons-and-dragons-dnd-fifth-edition-one-dnd-1849884812)
- - [PC Requirements Reach New High As Popular PS5 Game Hits Steam](https://kotaku.com/pc-steam-returnal-ram-requirements-ps5-upgrade-1849884682)<!-- GAME:END -->
+ - [Crypto Kingpin Sam Bankman-Fried Arrested In The Bahamas](https://kotaku.com/ftx-sam-bankman-fried-arrested-charged-bahamas-crypto-1849885433)
+ - [In 2022, battle royale finally got some real competition](https://www.pcgamer.com/in-2022-battle-royale-finally-got-some-real-competition)
+ - [The writer of Minecraft&#39;s ending poem wants to &#39;liberate it from the corporate economy&#39;](https://www.pcgamer.com/the-writer-of-minecrafts-ending-poem-wants-to-liberate-it-from-the-corporate-economy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
