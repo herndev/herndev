@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That could have been you](http://9gag.com/gag/a8qoxp1)
- - ⏩ [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - 👉 [Opportunity](http://9gag.com/gag/a5XoO3O)<!-- MEMES:END -->
+ - 💣 [Finally i can die in peace.](http://9gag.com/gag/awZXRbW)
+ - ⏩ [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
 
 ---
 
