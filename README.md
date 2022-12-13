@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Guillermo del Toro says AI art used in film would be ‘an insult to life itself’](https://www.polygon.com/23507256/guillermo-del-toro-ai-art-midjourney)
- - [Pokémon Go Spotlight Hour: Can Spheal be shiny?](https://www.polygon.com/pokemon-go-guide/23200443/can-spheal-be-shiny-spotlight-hour-december)
- - [How World of Warcraft&#39;s new dragon race brought a 10-year-old loot system to its knees](https://www.pcgamer.com/how-world-of-warcrafts-new-dragon-race-brought-a-10-year-old-loot-system-to-its-knees)<!-- GAME:END -->
+ - [Polygon’s merch store relaunches to celebrate our first 10 years](https://www.polygon.com/deals/23506284/polygon-merch-store-relaunch-merchandise-shirts)
+ - [Blade Runner TTRPG nails Ridley Scott’s vision, adds pitch-perfect investigative mechanics](https://www.polygon.com/reviews/23507498/blade-runner-the-role-playing-game-review)
+ - [Paris Hilton and Jimmy Fallon are being sued for promoting NFTs](https://www.pcgamer.com/paris-hilton-and-jimmy-fallon-are-being-sued-for-promoting-nfts)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
