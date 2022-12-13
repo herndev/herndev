@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Happy settings are beyond FromSoftware&#39;s &#39;capability or experiences,&#39; says Miyazaki](https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki)
- - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spiderverse-characters-cast)
- - [One day, we’ll all play Red Dead just by thinking about it](https://www.polygon.com/c/23485904/next-10-art-gallery/red-dead-virtual-reality-artwork)<!-- GAME:END -->
+ - [Guillermo del Toro says AI art used in film would be ‘an insult to life itself’](https://www.polygon.com/23507256/guillermo-del-toro-ai-art-midjourney)
+ - [Pokémon Go Spotlight Hour: Can Spheal be shiny?](https://www.polygon.com/pokemon-go-guide/23200443/can-spheal-be-shiny-spotlight-hour-december)
+ - [How World of Warcraft&#39;s new dragon race brought a 10-year-old loot system to its knees](https://www.pcgamer.com/how-world-of-warcrafts-new-dragon-race-brought-a-10-year-old-loot-system-to-its-knees)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
