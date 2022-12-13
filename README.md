@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sensor Tower: Lensa tops the US App Store charts with 3.6M installs in December; app saw 12.6M global installs in Dec. so far, up 600% from last 11 days of Nov. &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/221213/p2#a221213p2)
  - [The US SEC says it is preparing charges against SBF to be filed in court on December 13, separate from the ones leading to his recent arrest in The Bahamas &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/221213/p1#a221213p1)
- - [Coinbase transparency report: law enforcement requests rose ~66% YoY to 12,320 from October 2021 to September 2022; ~57% of them were from outside the US &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221212/p30#a221212p30)
- - [New Zealand-based Partly, which maintains a database used by marketplaces like eBay of 50M+ car parts from 20K+ suppliers and OEMs, raised a $21M Series A &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221212/p29#a221212p29)<!-- TECH:END -->
+ - [Coinbase transparency report: law enforcement requests rose ~66% YoY to 12,320 from October 2021 to September 2022; ~57% of them were from outside the US &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221212/p30#a221212p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
