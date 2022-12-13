@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Buy extends Upgrade+ program to iMac and Mac Studio](https://appleinsider.com/articles/22/12/13/best-buy-extends-upgrade-program-to-imac-and-mac-studio?utm_medium=rss)
- - [The Best Meta Quest 2 Games You Can Play Right Now &lpar;2022&rpar;](https://www.wired.com/gallery/best-oculus-meta-quest-2-games/)
- - [The Southern District of New York charges SBF with wire fraud, wire fraud conspiracy, securities fraud, securities fraud conspiracy, money laundering, and more &lpar;CNBC&rpar;](http://www.techmeme.com/221213/p21#a221213p21)<!-- TECH:END -->
+ - [Forensic analysis: hackers planted files on at least three Indian activists and likely colluded with police, yet 11 of 16 activists in related case still jailed &lpar;Andy Greenberg/Wired&rpar;](http://www.techmeme.com/221213/p23#a221213p23)
+ - [Urbanista Phoenix Review: Clever Charging, Decent Sound](https://www.wired.com/review/review-urbanista-phoenix/)
+ - [Nuclear fusion power research passes milestone with ‘fusion ignition’](https://www.theverge.com/2022/12/13/23506086/nuclear-fusion-power-research-milestone-net-energy-gain)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
