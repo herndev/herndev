@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Backup man!](http://9gag.com/gag/a8qorWd)
- - ⏩ [Opportunity](http://9gag.com/gag/a5XoO3O)
- - 👉 [Look at what they did to my girl](http://9gag.com/gag/aQE30Bz)<!-- MEMES:END -->
+ - 💣 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - ⏩ [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
+ - 👉 [That could have been you](http://9gag.com/gag/a8qoxp1)<!-- MEMES:END -->
 
 ---
 
