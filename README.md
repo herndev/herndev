@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The star feature of next-gen Asus laptops is from another dimension](https://www.androidauthority.com/asus-3d-oled-3250740/)
- - [Tuesday’s top tech news: The law comes for Bankman-Fried](https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog)
- - [Apple revives referral program to give $75 to new Apple Card owners](https://appleinsider.com/articles/22/12/13/apple-revives-referral-program-to-give-75-to-new-apple-card-owners?utm_medium=rss)<!-- TECH:END -->
+ - [Lifetime Rosetta Stone language learning bundle dips to $119](https://appleinsider.com/articles/22/12/13/lifetime-rosetta-stone-language-learning-bundle-dips-to-119?utm_medium=rss)
+ - [T-Mobile’s latest 5G coverage hails from the era of Sprint, 3G, and 4G](https://www.theverge.com/2022/12/13/23506626/t-mobile-5g-1900mhz-pcs-carrier-aggregation-sprint-3g-lte)
+ - [Sources: Twitter has stopped paying rent on offices and considers not paying severance packages to cut costs, as its top lawyer Alex Spiro leaves the company &lpar;New York Times&rpar;](http://www.techmeme.com/221213/p37#a221213p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
