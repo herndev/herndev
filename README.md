@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Man of Culture..](http://9gag.com/gag/anzMmAo)
- - ⏩ [Better advice](http://9gag.com/gag/aVb3nNd)
- - 👉 [Not bad for a girl](http://9gag.com/gag/aQE3GGq)<!-- MEMES:END -->
+ - 💣 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - ⏩ [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - 👉 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)<!-- MEMES:END -->
 
 ---
 
