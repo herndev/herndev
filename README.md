@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serves you right](http://9gag.com/gag/axo150p)
- - ⏩ [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)
- - 👉 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)<!-- MEMES:END -->
+ - 💣 [That could have been you](http://9gag.com/gag/a8qoxp1)
+ - ⏩ [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - 👉 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 ---
 
