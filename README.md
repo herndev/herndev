@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [13 Best Tablets &lpar;2022&rpar;: For Work, Play, Kids, Seniors, and More](https://www.wired.com/gallery/the-best-tablets/)
- - [The Best Online Gift Cards and Digital Gift Ideas &lpar;2022&rpar;](https://www.wired.com/story/gift-cards-and-digital-gift-ideas/)
- - [8 Best Robot Vacuums for Every Home and Budget &lpar;2022&rpar;](https://www.wired.com/gallery/best-robot-vacuums/)<!-- TECH:END -->
+ - [Google One VPN: What is it, how much it costs, and more](https://www.androidauthority.com/google-one-vpn-3242938/)
+ - [You can now wave at an Echo Show to get it to shut up](https://www.theverge.com/2022/12/13/23506131/amazon-echo-show-gesture-controls-smart-display)
+ - [Memo: online fast fashion retailer Shein is exploring becoming a marketplace for third-party merchants and plans to diversify its supply chain away from China &lpar;Keith Zhai/Wall Street Journal&rpar;](http://www.techmeme.com/221213/p18#a221213p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
