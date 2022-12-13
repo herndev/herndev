@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
- - ⏩ [Opportunity](http://9gag.com/gag/a5XoO3O)
- - 👉 [Yours free](http://9gag.com/gag/a7qMYXq)<!-- MEMES:END -->
+ - 💣 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
+ - ⏩ [Savor the flavor](http://9gag.com/gag/aZD3ON0)
+ - 👉 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
 
 ---
 
