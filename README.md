@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A brief history of the video game industry, the rise of Nintendo, the dominance of Sony, and what Microsoft&#39;s Activision deal means for competition &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/221213/p6#a221213p6)
- - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)
- - [Sources: China is working on a $143B+ five-year support package for its chip industry, mainly including subsidies and tax credits, starting as soon as Q1 2023 &lpar;Julie Zhu/Reuters&rpar;](http://www.techmeme.com/221213/p5#a221213p5)<!-- TECH:END -->
+ - [Best Car Lifts for Home Garages in 2022     - CNET](https://www.cnet.com/roadshow/news/best-car-lift-for-home-garage/#ftag=CAD590a51e)
+ - [Best Fire Pit for 2022     - CNET](https://www.cnet.com/news/best-fire-pit/#ftag=CAD590a51e)
+ - [Best Electric Toothbrush for 2022     - CNET](https://www.cnet.com/health/personal-care/best-electric-toothbrush/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
