@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Here&#39;s why first-gen OLED gaming monitors aren&#39;t truly PC optimized](https://www.pcgamer.com/heres-why-first-gen-oled-gaming-monitors-arent-truly-pc-optimized)
- - [This New Scarlet And Violet Pokémon Is Unexpectedly OP](https://kotaku.com/pokemon-scarlet-violet-maushold-population-bomb-1849887860)
- - [200,000 AMD Radeon RX 7900 GPUs reportedly available at launch](https://www.pcgamer.com/200000-amd-radeon-rx-7900-gpus-reportedly-available-at-launch)<!-- GAME:END -->
+ - [Happy settings are beyond FromSoftware&#39;s &#39;capability or experiences,&#39; says Miyazaki](https://www.pcgamer.com/happy-settings-are-beyond-fromsoftwares-capability-or-experiences-says-miyazaki)
+ - [Every new Spider-Person in Spider-Man: Across the Spider-Verse, explained](https://www.polygon.com/23505869/spider-man-across-spiderverse-characters-cast)
+ - [One day, we’ll all play Red Dead just by thinking about it](https://www.polygon.com/c/23485904/next-10-art-gallery/red-dead-virtual-reality-artwork)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
