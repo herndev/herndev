@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Security stops Lamb of God&#39;s Randy Blythe from sneaking backstage](http://9gag.com/gag/abvM8rb)
- - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 💣 [The stadium `974` being dismantled as the World cup is ending](http://9gag.com/gag/a9qpgVW)
+ - ⏩ [Opportunity](http://9gag.com/gag/a5XoO3O)
  - 👉 [Yours free](http://9gag.com/gag/a7qMYXq)<!-- MEMES:END -->
 
 ---
