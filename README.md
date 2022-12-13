@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Review of the AMD Radeon RX 7900 XTX and XT: the XTX beats the Nvidia RTX 4080 for $200 less, except in power efficiency and ray tracing, and the XT comes close &lpar;Andrew Cunningham/Ars Technica&rpar;](http://www.techmeme.com/221212/p24#a221212p24)
- - [Monday’s top tech news: &lpar;Twitter&rpar; Blue Monday](https://www.theverge.com/2022/12/12/23505063/december-12-2022-tech-news-liveblog)
- - [FTX co-founder Sam Bankman-Fried arrested in the Bahamas](https://www.theverge.com/2022/12/12/23506483/sam-bankman-fried-arrest-us-extradition-ftx-crypto)<!-- TECH:END -->
+ - [Microsoft Authenticator watchOS app to be discontinued in January](https://appleinsider.com/articles/22/12/13/microsoft-authenticator-watchos-app-to-be-discontinued-in-january?utm_medium=rss)
+ - [Sources: on December 11, Twitter briefly blocked traffic from ~30 mobile carriers, mainly in the Asia-Pacific region, in an attempt to rid Twitter of spam &lpar;Platformer&rpar;](http://www.techmeme.com/221212/p26#a221212p26)
+ - [Oracle reports Q2 revenue up 18% YoY to $12.28B, vs. $12.05B est., cloud services revenue up 14% YoY to $8.6B, and health data provider Cerner revenue of $1.5B &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221212/p25#a221212p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
