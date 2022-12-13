@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk says Twitter Blue subscribers will see half the number of ads, and that it plans to offer a higher tier with no ads in 2023 &lpar;Urvi Dugar/Reuters&rpar;](http://www.techmeme.com/221212/p28#a221212p28)
- - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)
- - [Westworld is leaving HBO Max](https://www.theverge.com/2022/12/12/23506646/hbo-max-westworld-streaming-warner-bros-discovery)<!-- TECH:END -->
+ - [The US SEC says it is preparing charges against SBF to be filed in court on December 13, separate from the ones leading to his recent arrest in The Bahamas &lpar;Brian Quarmby/Cointelegraph&rpar;](http://www.techmeme.com/221213/p1#a221213p1)
+ - [Coinbase transparency report: law enforcement requests rose ~66% YoY to 12,320 from October 2021 to September 2022; ~57% of them were from outside the US &lpar;Nelson Wang/CoinDesk&rpar;](http://www.techmeme.com/221212/p30#a221212p30)
+ - [New Zealand-based Partly, which maintains a database used by marketplaces like eBay of 50M+ car parts from 20K+ suppliers and OEMs, raised a $21M Series A &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221212/p29#a221212p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
