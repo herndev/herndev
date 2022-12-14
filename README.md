@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Serves you right](http://9gag.com/gag/axo150p)
- - ⏩ [If you insist..](http://9gag.com/gag/aL1jy2A)
- - 👉 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
+ - 💣 [His face though](http://9gag.com/gag/aEq2dPn)
+ - ⏩ [Damn Nolan](http://9gag.com/gag/aDYxEyx)
+ - 👉 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 ---
 
