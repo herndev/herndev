@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Monster Energy Supercross – The Official Videogame 6 – Available for Pre-Order](https://news.xbox.com/en-us/2022/12/14/monster-energy-supercross-the-official-videogame-6-available-for-pre-order/)
- - [Traveling through time to see future Pokémon, with Mr. Boop creator Alec Robbins](https://www.polygon.com/23465915/pokemon-in-the-future-art)
- - [John Walker&#39;s Top Ten Games Of 2022](https://kotaku.com/best-of-2022-horizon-forbidden-west-marvel-snap-pokemon-1849891927)<!-- GAME:END -->
+ - [Get to the World of Tanks Holiday Event](https://news.xbox.com/en-us/2022/12/14/get-to-the-world-of-tanks-holiday-event/)
+ - [PlayStation Plus Game Catalog lineup for December: Far Cry 5, Judgment, Mortal Shell and more](https://blog.playstation.com/2022/12/14/playstation-plus-game-catalog-lineup-for-december-far-cry-5-judgment-mortal-shell-and-more/)
+ - [We’re watching The Santa Clauses for Hot Bernard](https://www.polygon.com/23460432/santa-clauses-bernard-elf-david-krumholtz-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
