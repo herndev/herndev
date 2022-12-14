@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A database of the FBI&#39;s threat information sharing program InfraGard containing contact details of its 80K+ members has been up for sale since December 10, 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221213/p46#a221213p46)
- - [Quanergy Systems, a maker of lidar sensors and related software, files for bankruptcy, after going public via a $175M SPAC merger deal in February 2022 &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/221213/p45#a221213p45)
- - [HBO Max: The Absolute Best Sci-Fi TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-tv-shows-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The US Supreme Court asks the Biden administration to weigh in on lyrics website Genius&#39; attempt to revive a lawsuit over Google&#39;s alleged theft of its work &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221213/p48#a221213p48)
+ - [Sources: the US commerce department plans to put Chinese memory chip maker YMTC on its &quot;entity list&quot; as early as this week, limiting its ability to get US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p47#a221213p47)
+ - [A database of the FBI&#39;s threat information sharing program InfraGard containing contact details of its 80K+ members has been up for sale since December 10, 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221213/p46#a221213p46)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
