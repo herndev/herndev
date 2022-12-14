@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
- - ⏩ [An easy way to become Rich](http://9gag.com/gag/aA03YYp)
- - 👉 [Remember this song? You f*ckn N..](http://9gag.com/gag/axozNBW)<!-- MEMES:END -->
+ - 💣 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)
+ - ⏩ [Damn Nolan](http://9gag.com/gag/aDYxEyx)
+ - 👉 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
 
 ---
 
