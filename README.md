@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Artists Protest After ArtStation Features AI-Generated Images](https://kotaku.com/artstation-ai-art-generated-images-epic-games-protest-1849891085)
  - [Our Favorite Cosplay From Anime NYC 2022](https://kotaku.com/anime-nyc-2022-cosplay-gallery-photos-video-cyberpunk-1849890850)
- - [If You&#39;re Playing Marvel&#39;s Midnight Suns, Please Disable The 2K Launcher](https://kotaku.com/marvel-midnight-suns-avengers-pc-launcher-disable-slow-1849890630)
- - [Final Fantasy Remake Has A Painting With A Getty Watermark](https://kotaku.com/ff7-remake-crisis-core-painting-watermark-getty-mistake-1849890673)<!-- GAME:END -->
+ - [If You&#39;re Playing Marvel&#39;s Midnight Suns, Please Disable The 2K Launcher](https://kotaku.com/marvel-midnight-suns-avengers-pc-launcher-disable-slow-1849890630)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
