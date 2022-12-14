@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 1980s Dungeons &amp; Dragons cartoon is coming back as a comic book](https://www.polygon.com/23509684/dungeons-dragons-cartoon-comic-book-limited-series)
- - [Dark Web: X-Men #1 is an instant superhero classic](https://www.polygon.com/23507785/dark-web-x-men-1-review-marvel-easter-eggs)
- - [If You&#39;re Not Cheering In Pokémon Scarlet And Violet’s Raids, You&#39;re Doing It Wrong](https://kotaku.com/pokemon-scarlet-violet-tera-raid-cheer-guide-strategies-1849894259)<!-- GAME:END -->
+ - [You can now pet Geralt&#39;s horse in The Witcher 3, and it&#39;s about time](https://www.pcgamer.com/you-can-now-pet-geralts-horse-in-the-witcher-3-and-its-about-time)
+ - [Harry Potter Game Shows Off Some Straight-Up Wizard Murder](https://kotaku.com/hogwarts-legacy-j-k-rowling-terf-delay-avada-kedavra-1849894872)
+ - [Tesla Drivers Can Now Play Steam Games Inside Their Cars](https://kotaku.com/tesla-holiday-update-steam-video-game-elon-musk-twitter-1849894736)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
