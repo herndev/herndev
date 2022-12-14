@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Store website hit with two brief outages](https://appleinsider.com/articles/22/12/14/apple-store-website-outage-affecting-some-users?utm_medium=rss)
- - [Apple TV+ is finishing up tennis legend Boris Becker documentary](https://appleinsider.com/articles/22/12/14/apple-tv-is-finishing-up-tennis-legend-boris-becker-documentary?utm_medium=rss)
- - [Find the Cheapest Food Delivery With These Apps     - CNET](https://www.cnet.com/tech/mobile/find-the-cheapest-food-delivery-with-these-apps/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [PayPal launches an integration with MetaMask that allows users to purchase and transfer ETH, rolling out to all US customers in the coming weeks &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221214/p29#a221214p29)
+ - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)
+ - [Twitter’s newsletter tool is shutting down on January 12th](https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
