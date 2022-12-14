@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Epic is delisting almost every Unreal game, but making Unreal Tournament 3 free](https://www.pcgamer.com/epic-is-delisting-almost-every-unreal-game-but-making-unreal-tournament-3-free)
- - [Epic Is Cutting The Servers For 17 Older Online Games](https://kotaku.com/epic-turning-off-service-unreal-gold-rock-band-steam-1849894078)
- - [If you watch one anime this year about gun-toting yakuza maid cafes, make it Akiba Maid War](https://www.polygon.com/23507272/akiba-maid-war-review-hidive)<!-- GAME:END -->
+ - [The 1980s Dungeons &amp; Dragons cartoon is coming back as a comic book](https://www.polygon.com/23509684/dungeons-dragons-cartoon-comic-book-limited-series)
+ - [Dark Web: X-Men #1 is an instant superhero classic](https://www.polygon.com/23507785/dark-web-x-men-1-review-marvel-easter-eggs)
+ - [If You&#39;re Not Cheering In Pokémon Scarlet And Violet’s Raids, You&#39;re Doing It Wrong](https://kotaku.com/pokemon-scarlet-violet-tera-raid-cheer-guide-strategies-1849894259)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
