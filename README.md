@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [PSA: Firaxis put a whole dang Midnight Suns cartoon on YouTube](https://www.pcgamer.com/psa-firaxis-put-a-whole-dang-midnight-suns-cartoon-on-youtube)
  - [Artists Protest After ArtStation Features AI-Generated Images](https://kotaku.com/artstation-ai-art-generated-images-epic-games-protest-1849891085)
- - [Our Favorite Cosplay From Anime NYC 2022](https://kotaku.com/anime-nyc-2022-cosplay-gallery-photos-video-cyberpunk-1849890850)
- - [If You&#39;re Playing Marvel&#39;s Midnight Suns, Please Disable The 2K Launcher](https://kotaku.com/marvel-midnight-suns-avengers-pc-launcher-disable-slow-1849890630)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Anime NYC 2022](https://kotaku.com/anime-nyc-2022-cosplay-gallery-photos-video-cyberpunk-1849890850)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
