@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Oppo claims its Bluetooth audio chip delivers wired quality](https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/)
- - [Sources: Alibaba won&#39;t be able to buy Arm&#39;s Neoverse V chips after Arm concludes that the US and UK won&#39;t approve export of the high performance tech to China &lpar;Financial Times&rpar;](http://www.techmeme.com/221214/p5#a221214p5)
- - [The latest Android 13 beta brings Pixel 7 Pro display feature to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/)<!-- TECH:END -->
+ - [Samsung reportedly ditches Samsung, will rely on Samsung for future Samsung chips](https://www.androidauthority.com/samsung-chipset-development-team-smartphone-business-3250952/)
+ - [Some Chinese students are using remote access software to cheat on TOEFL, GRE, and other US college entry exams, fueled by the introduction of at-home testing &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/221214/p6#a221214p6)
+ - [Oppo claims its Bluetooth audio chip delivers wired quality](https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
