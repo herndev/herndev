@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
- - ⏩ [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)
- - 👉 [He doesn&#39;t mind strangers](http://9gag.com/gag/aA03V19)<!-- MEMES:END -->
+ - 💣 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - ⏩ [Good, good. This needs to be enforced even in situations like these.](http://9gag.com/gag/armGeE7)
+ - 👉 [Sweet day for Georgian nation. The command of the 58th russian Army, which invaded Georgia in 2008, has been totally destroyed.](http://9gag.com/gag/abvYyYp)<!-- MEMES:END -->
 
 ---
 
