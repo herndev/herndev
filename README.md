@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Oppo claims its Bluetooth audio chip delivers wired quality](https://www.androidauthority.com/oppo-custom-bluetooth-audio-3250637/)
  - [Sources: Alibaba won&#39;t be able to buy Arm&#39;s Neoverse V chips after Arm concludes that the US and UK won&#39;t approve export of the high performance tech to China &lpar;Financial Times&rpar;](http://www.techmeme.com/221214/p5#a221214p5)
- - [The latest Android 13 beta brings Pixel 7 Pro display feature to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/)
- - [The SEC says a secret change to FTX code allowed Alameda to borrow FTX funds irrespective of the collateral value, giving a &quot;virtually unlimited line of credit&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p4#a221214p4)<!-- TECH:END -->
+ - [The latest Android 13 beta brings Pixel 7 Pro display feature to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
