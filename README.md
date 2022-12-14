@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Mario Kart 7 Gets Patched 10 Years After Last Update](https://kotaku.com/mario-kart-nintendo-7-3ds-patch-speedrun-exploit-1849891364)
  - [PSA: Firaxis put a whole dang Midnight Suns cartoon on YouTube](https://www.pcgamer.com/psa-firaxis-put-a-whole-dang-midnight-suns-cartoon-on-youtube)
- - [Artists Protest After ArtStation Features AI-Generated Images](https://kotaku.com/artstation-ai-art-generated-images-epic-games-protest-1849891085)
- - [Our Favorite Cosplay From Anime NYC 2022](https://kotaku.com/anime-nyc-2022-cosplay-gallery-photos-video-cyberpunk-1849890850)<!-- GAME:END -->
+ - [Artists Protest After ArtStation Features AI-Generated Images](https://kotaku.com/artstation-ai-art-generated-images-epic-games-protest-1849891085)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
