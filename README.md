@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - ⏩ [Pinocchio is not a good boy](http://9gag.com/gag/az29EqZ)
- - 👉 [This is Gold](http://9gag.com/gag/aGEZwMw)<!-- MEMES:END -->
+ - 💣 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)
+ - ⏩ [It&#39;s enough to make a grown man cry](http://9gag.com/gag/a1PQerG)
+ - 👉 [Memes from Gallery](http://9gag.com/gag/aeQr01q)<!-- MEMES:END -->
 
 ---
 
