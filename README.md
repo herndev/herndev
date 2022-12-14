@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 543 answer and hint for Wednesday, December 14](https://www.pcgamer.com/wordle-543-answer-december-14)
- - [Mario Kart 7 Gets Patched 10 Years After Last Update](https://kotaku.com/mario-kart-nintendo-7-3ds-patch-speedrun-exploit-1849891364)
- - [PSA: Firaxis put a whole dang Midnight Suns cartoon on YouTube](https://www.pcgamer.com/psa-firaxis-put-a-whole-dang-midnight-suns-cartoon-on-youtube)<!-- GAME:END -->
+ - [Fortnite Winterfest 2022: Presents, free skins, and snowballs](https://www.pcgamer.com/fortnite-winterfest-2022-presents)
+ - [World of Warcraft: Dragonflight Season 1 kicks off with a new raid, arena and lots of proto-drakes that need killing](https://www.pcgamer.com/world-of-warcraft-dragonflight-season-1-kicks-off-with-a-new-raid-arena-and-lots-of-proto-drakes-that-need-killing)
+ - [Wonder Woman 3 director speaks out on cancellation, still working on Rogue Squadron](https://www.polygon.com/23508767/wonder-woman-3-patty-jenkins-cancellation-rogue-squadron-dc-studios)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
