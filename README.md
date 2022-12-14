@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)
- - ⏩ [Mine too!](http://9gag.com/gag/a5XMeLE)
- - 👉 [Is she into you? C. Can&#39;t tell](http://9gag.com/gag/amABLKj)<!-- MEMES:END -->
+ - 💣 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - ⏩ [Pinocchio is not a good boy](http://9gag.com/gag/az29EqZ)
+ - 👉 [This is Gold](http://9gag.com/gag/aGEZwMw)<!-- MEMES:END -->
 
 ---
 
