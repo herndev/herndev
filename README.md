@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US Supreme Court asks the Biden administration to weigh in on lyrics website Genius&#39; attempt to revive a lawsuit over Google&#39;s alleged theft of its work &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221213/p48#a221213p48)
- - [Sources: the US commerce department plans to put Chinese memory chip maker YMTC on its &quot;entity list&quot; as early as this week, limiting its ability to get US tech &lpar;Financial Times&rpar;](http://www.techmeme.com/221213/p47#a221213p47)
- - [A database of the FBI&#39;s threat information sharing program InfraGard containing contact details of its 80K+ members has been up for sale since December 10, 2022 &lpar;Brian Krebs/Krebs on Security&rpar;](http://www.techmeme.com/221213/p46#a221213p46)<!-- TECH:END -->
+ - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)
+ - [Q&amp;A with Automattic CEO Matt Mullenweg on closing the Tumblr deal, profitability, content moderation, Apple&#39;s rules, Twitter, lessons for Elon Musk, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221214/p1#a221214p1)
+ - [The US Supreme Court asks the Biden administration to weigh in on lyrics website Genius&#39; attempt to revive a lawsuit over Google&#39;s alleged theft of its work &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221213/p48#a221213p48)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
