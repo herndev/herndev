@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - ⏩ [Drifting on icy road](http://9gag.com/gag/aL1gRoP)
- - 👉 [Parmigiano Reggiano is a special cheese from Italy that requires a special instrument to cut it](http://9gag.com/gag/aPgYwzn)<!-- MEMES:END -->
+ - 💣 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - ⏩ [An easy way to become Rich](http://9gag.com/gag/aA03YYp)
+ - 👉 [The betrayal](http://9gag.com/gag/amABXzy)<!-- MEMES:END -->
 
 ---
 
