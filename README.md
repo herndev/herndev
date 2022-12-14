@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The state of Path of Exile](https://www.pcgamer.com/the-state-of-path-of-exile-2022)
- - [Game Removes Loot Boxes, Players Revolt Instead Of Celebrate](https://kotaku.com/brawl-stars-loot-boxes-free-mobile-battle-pass-1849890262)
- - [Nintendo just released its version of Spotify Wrapped](https://www.polygon.com/23507970/nintendo-year-in-review-spotify-wrapped-2022)<!-- GAME:END -->
+ - [Mega Man Battle Network Legacy Collection releases April 14, 2023](https://blog.playstation.com/2022/12/13/mega-man-battle-network-legacy-collection-releases-april-14-2023/)
+ - [LG&#39;s new OLED 240Hz monitors give 1440p gaming the respect it deserves](https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves)
+ - [This game copied Among Us so hard it became popular in almost exactly the same way](https://www.pcgamer.com/this-game-copied-among-us-so-hard-it-became-popular-in-almost-exactly-the-same-way)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
