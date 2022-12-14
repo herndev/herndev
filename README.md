@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
- - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
- - 👉 [Now waste your time](http://9gag.com/gag/abvM7Wr)<!-- MEMES:END -->
+ - 💣 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
+ - ⏩ [Drifting on icy road](http://9gag.com/gag/aL1gRoP)
+ - 👉 [Parmigiano Reggiano is a special cheese from Italy that requires a special instrument to cut it](http://9gag.com/gag/aPgYwzn)<!-- MEMES:END -->
 
 ---
 
