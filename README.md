@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you insist..](http://9gag.com/gag/aL1jy2A)
- - ⏩ [Who&#39;s down there??](http://9gag.com/gag/avQObKE)
- - 👉 [Damn](http://9gag.com/gag/aMEjRmX)<!-- MEMES:END -->
+ - 💣 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
+ - ⏩ [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
+ - 👉 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)<!-- MEMES:END -->
 
 ---
 
