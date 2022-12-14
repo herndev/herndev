@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Mega Man Battle Network Legacy Collection releases April 14, 2023](https://blog.playstation.com/2022/12/13/mega-man-battle-network-legacy-collection-releases-april-14-2023/)
- - [LG&#39;s new OLED 240Hz monitors give 1440p gaming the respect it deserves](https://www.pcgamer.com/lgs-new-oled-240hz-gaming-monitors-give-1440p-gaming-the-respect-it-deserves)
- - [This game copied Among Us so hard it became popular in almost exactly the same way](https://www.pcgamer.com/this-game-copied-among-us-so-hard-it-became-popular-in-almost-exactly-the-same-way)<!-- GAME:END -->
+ - [Our Favorite Cosplay From Anime NYC 2022](https://kotaku.com/anime-nyc-2022-cosplay-gallery-photos-video-cyberpunk-1849890850)
+ - [If You&#39;re Playing Marvel&#39;s Midnight Suns, Please Disable The 2K Launcher](https://kotaku.com/marvel-midnight-suns-avengers-pc-launcher-disable-slow-1849890630)
+ - [Final Fantasy Remake Has A Painting With A Getty Watermark](https://kotaku.com/ff7-remake-crisis-core-painting-watermark-getty-mistake-1849890673)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
