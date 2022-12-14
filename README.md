@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lemon flavored sherbet.](http://9gag.com/gag/a9qpg76)
- - ⏩ [Savor the flavor](http://9gag.com/gag/aZD3ON0)
- - 👉 [You&#39;re a mean one, mr grinch](http://9gag.com/gag/aA0xWdZ)<!-- MEMES:END -->
+ - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
+ - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
+ - 👉 [2 types of 9gaggers](http://9gag.com/gag/aVb3ne2)<!-- MEMES:END -->
 
 ---
 
