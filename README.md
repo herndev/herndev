@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)
- - ⏩ [It&#39;s enough to make a grown man cry](http://9gag.com/gag/a1PQerG)
- - 👉 [Memes from Gallery](http://9gag.com/gag/aeQr01q)<!-- MEMES:END -->
+ - ⏩ [It&#39;s time to give up sugar.](http://9gag.com/gag/aA03RG2)
+ - 👉 [Did not see that coming](http://9gag.com/gag/amAB0mX)<!-- MEMES:END -->
 
 ---
 
