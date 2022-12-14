@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)
+ - 💣 [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
  - ⏩ [An easy way to become Rich](http://9gag.com/gag/aA03YYp)
- - 👉 [The betrayal](http://9gag.com/gag/amABXzy)<!-- MEMES:END -->
+ - 👉 [Remember this song? You f*ckn N..](http://9gag.com/gag/axozNBW)<!-- MEMES:END -->
 
 ---
 
