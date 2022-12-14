@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prince Rupert\u2019s drops vs Hydraulic Press](http://9gag.com/gag/aeQMv3q)
- - ⏩ [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
- - 👉 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)<!-- MEMES:END -->
+ - 💣 [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
+ - ⏩ [After noticing that Ken slept with a photo of his late wife every night, one of the carers at Thistleton Lodge presented him with this incredible gift...](http://9gag.com/gag/a4oQ9zv)
+ - 👉 [He doesn&#39;t mind strangers](http://9gag.com/gag/aA03V19)<!-- MEMES:END -->
 
 ---
 
