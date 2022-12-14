@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Paytm will buy back up to 10.5M shares worth ~$103M at a 50%+ premium to the December 13 closing price, seeking to convince investors of a path to profitability &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/221214/p3#a221214p3)
- - [The son of a murdered Ethiopian professor files a lawsuit against Meta in Kenya, alleging Meta&#39;s algorithms promote hateful and violent content for engagement &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/221214/p2#a221214p2)
- - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)<!-- TECH:END -->
+ - [Sources: Alibaba won&#39;t be able to buy Arm&#39;s Neoverse V chips after Arm concludes that the US and UK won&#39;t approve export of the high performance tech to China &lpar;Financial Times&rpar;](http://www.techmeme.com/221214/p5#a221214p5)
+ - [The latest Android 13 beta brings Pixel 7 Pro display feature to Pixel 6 Pro](https://www.androidauthority.com/google-pixel-6-pro-display-resolution-toggle-3250947/)
+ - [The SEC says a secret change to FTX code allowed Alameda to borrow FTX funds irrespective of the collateral value, giving a &quot;virtually unlimited line of credit&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p4#a221214p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
