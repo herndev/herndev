@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)
- - ⏩ [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - 👉 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
+ - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
+ - ⏩ [It&#39;s time to give up sugar.](http://9gag.com/gag/aA03RG2)
+ - 👉 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)<!-- MEMES:END -->
 
 ---
 
