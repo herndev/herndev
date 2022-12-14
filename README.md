@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Deal: M1 Mac mini now $599 with free expedited shipping](https://appleinsider.com/articles/22/12/14/deal-m1-mac-mini-now-599-with-free-expedited-shipping?utm_medium=rss)
- - [The golden age of the streaming wars has ended](https://www.theverge.com/2022/12/14/23507793/streaming-wars-hbo-max-netflix-ads-residuals-warrior-nun)
- - [Cambridge, UK-based semiconductor company Pragmatic raised a $35M Series C extension, bringing the round&#39;s total to $125M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221214/p30#a221214p30)<!-- TECH:END -->
+ - [FuboTV is down during a World Cup semifinal game](https://www.theverge.com/2022/12/14/23509674/fubo-tv-down-france-morocco-world-cup-semifinal)
+ - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)
+ - [2023&#39;s Best TV and Streaming Shows You Can&#39;t Miss on Netflix, HBO, Disney Plus and More     - CNET](https://www.cnet.com/pictures/2023-best-new-tv-shows-to-watch-stream-obsess-about-hbo-netflix-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
