@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
- - ⏩ [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
- - 👉 [Mine too!](http://9gag.com/gag/a5XMeLE)<!-- MEMES:END -->
+ - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
+ - 👉 [Now waste your time](http://9gag.com/gag/abvM7Wr)<!-- MEMES:END -->
 
 ---
 
