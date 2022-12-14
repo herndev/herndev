@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Martial Artists: Talking to the Creative Force Behind the Upcoming Wo Long: Fallen Dynasty](https://news.xbox.com/en-us/2022/12/14/martial-artists-talking-to-the-creative-force-behind-the-upcoming-wo-long-fallen-dynasty/)
- - [Genshin Impact’s New Quest Has A Hard Choice That May Mess You Up](https://kotaku.com/genshin-impact-hoyoverse-scaramouche-name-1849893432)
- - [The Witcher 3’s ‘Next-Gen’ Upgrade Is Causing Problems For Some PC Players](https://kotaku.com/witcher-3-next-gen-update-pc-gaming-ps5-xbox-series-1849893251)<!-- GAME:END -->
+ - [Epic is delisting almost every Unreal game, but making Unreal Tournament 3 free](https://www.pcgamer.com/epic-is-delisting-almost-every-unreal-game-but-making-unreal-tournament-3-free)
+ - [Epic Is Cutting The Servers For 17 Older Online Games](https://kotaku.com/epic-turning-off-service-unreal-gold-rock-band-steam-1849894078)
+ - [If you watch one anime this year about gun-toting yakuza maid cafes, make it Akiba Maid War](https://www.polygon.com/23507272/akiba-maid-war-review-hidive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
