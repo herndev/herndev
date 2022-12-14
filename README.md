@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - ⏩ [Painful GK](http://9gag.com/gag/aKEj0r6)
- - 👉 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)<!-- MEMES:END -->
+ - 💣 [Serves you right](http://9gag.com/gag/axo150p)
+ - ⏩ [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - 👉 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
 
 ---
 
