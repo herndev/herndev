@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Grim Origins of an Ominous Methane Surge](https://www.wired.com/story/the-grim-origins-of-an-ominous-methane-surge/)
- - [Holiday Gift Guide: best iPhone &amp; iPad accessory gifts from $20 to $100](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-iphone-ipad-accessory-gifts-from-20-to-100?utm_medium=rss)
- - [The first US Super Nintendo World opens its doors on February 17th](https://www.theverge.com/2022/12/14/23509025/super-nintendo-world-universal-studios-hollywood-opening-date-information)<!-- TECH:END -->
+ - [The best Sonos speakers to buy right now](https://www.theverge.com/23507492/sonos-best-speaker-one-roam-move-five-arc-beam-ray-sub)
+ - [How to use macOS startup keyboard commands to boot or recover](https://appleinsider.com/articles/22/12/14/how-to-use-macos-startup-keyboard-commands-to-boot-or-recover?utm_medium=rss)
+ - [Apple could lose all App Store revenue in EU and only take 1% hit](https://appleinsider.com/articles/22/12/14/apple-could-lose-all-app-store-revenue-in-eu-and-only-take-1-hit?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
