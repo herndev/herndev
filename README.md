@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [With what money?](http://9gag.com/gag/ap9mEv8)
- - ⏩ [Easy win. sorry for potato, not the wheelchair guy but the quality](http://9gag.com/gag/aeQMXLq)
- - 👉 [BREAKING: Fusion reactor in the US reached a q factor of 1.3+ meaning they got an energy gain from the reaction. This is a first in fusion history!](http://9gag.com/gag/aqeK4NL)<!-- MEMES:END -->
+ - 💣 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)
+ - ⏩ [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
+ - 👉 [Mine too!](http://9gag.com/gag/a5XMeLE)<!-- MEMES:END -->
 
 ---
 
