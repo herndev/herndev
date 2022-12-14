@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You can now pet Geralt&#39;s horse in The Witcher 3, and it&#39;s about time](https://www.pcgamer.com/you-can-now-pet-geralts-horse-in-the-witcher-3-and-its-about-time)
- - [Harry Potter Game Shows Off Some Straight-Up Wizard Murder](https://kotaku.com/hogwarts-legacy-j-k-rowling-terf-delay-avada-kedavra-1849894872)
- - [Tesla Drivers Can Now Play Steam Games Inside Their Cars](https://kotaku.com/tesla-holiday-update-steam-video-game-elon-musk-twitter-1849894736)<!-- GAME:END -->
+ - [Why do relaxing farming life sims stress me out so much?](https://www.pcgamer.com/why-do-relaxing-farming-life-sims-stress-me-out-so-much)
+ - [Baldur’s Gate 3 adds Critical Role’s Matt Mercer in ‘critical role’](https://www.polygon.com/23509876/baldurs-gate-3-critical-role-matt-mercer-voice-cast)
+ - [Future Dwarf Fortress &#39;creative mode&#39; will let you sculpt whole worlds, dream up homemade gods](https://www.pcgamer.com/future-dwarf-fortress-creative-mode-will-let-you-sculpt-whole-worlds-create-homemade-gods)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
