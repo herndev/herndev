@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Adam Driver fights dinosaurs in 65! Give 65 Best Picture right now!](https://www.polygon.com/23508940/65-trailer-adam-driver-dinosaurs-movie)
- - [Super Nintendo World finally comes to the US in February 2023](https://www.polygon.com/23507259/super-nintendo-world-universal-studios-opening-date)
- - [Destiny 2 Dawning 2022 guide: Collect ingredients and gifts, bake recipes](https://www.polygon.com/destiny-2-guide-walkthrough/23507936/dawning-20220-holiday-cookie-recipe-challenge-guide-list-ingredients-rewards-stay-frosty)<!-- GAME:END -->
+ - [Monster Energy Supercross – The Official Videogame 6 – Available for Pre-Order](https://news.xbox.com/en-us/2022/12/14/monster-energy-supercross-the-official-videogame-6-available-for-pre-order/)
+ - [Traveling through time to see future Pokémon, with Mr. Boop creator Alec Robbins](https://www.polygon.com/23465915/pokemon-in-the-future-art)
+ - [John Walker&#39;s Top Ten Games Of 2022](https://kotaku.com/best-of-2022-horizon-forbidden-west-marvel-snap-pokemon-1849891927)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
