@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Get to the World of Tanks Holiday Event](https://news.xbox.com/en-us/2022/12/14/get-to-the-world-of-tanks-holiday-event/)
- - [PlayStation Plus Game Catalog lineup for December: Far Cry 5, Judgment, Mortal Shell and more](https://blog.playstation.com/2022/12/14/playstation-plus-game-catalog-lineup-for-december-far-cry-5-judgment-mortal-shell-and-more/)
- - [We’re watching The Santa Clauses for Hot Bernard](https://www.polygon.com/23460432/santa-clauses-bernard-elf-david-krumholtz-disney-plus)<!-- GAME:END -->
+ - [Why you should play The Witcher 3 on the hardest difficulty](https://www.polygon.com/23507927/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-difficulty-death-march)
+ - [Destiny 2 Dawning ingredients: How to bake cookies and farm essence](https://www.pcgamer.com/destiny-2-dawning-ingredients-recipes)
+ - [Warhammer 40,000: Rogue Trader is shaping up to be a stellar CRPG](https://www.pcgamer.com/warhammer-40000-rogue-trader-is-shaping-up-to-be-a-stellar-crpg)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
