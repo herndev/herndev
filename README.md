@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter Blue Explained: What Is It? How Much Does It Cost?](https://www.wired.com/story/what-is-twitter-blue/)
- - [Nerdio, which helps deploy and manage virtual desktops on Azure Virtual Desktop, raised a $117M Series B led by Updata Partners, bringing its funding to $125M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221214/p19#a221214p19)
- - [A look at Vietnamese supplier Gilimex&#39;s lawsuit against Amazon, seeking damages over investing heavily in manufacturing facilities before Amazon cut its orders &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/221214/p18#a221214p18)<!-- TECH:END -->
+ - [Tether plans to stop using loans denominated in its tether stablecoin throughout 2023, following a report on the potentially risky practice &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221214/p23#a221214p23)
+ - [The SEC charges eight influencers with securities fraud, alleging they used Twitter and Discord to manipulate stocks from January 2020 as part of a $100M scheme &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/221214/p22#a221214p22)
+ - [Apple TV+ docuseries &#39;Super League: The War for Football&#39; debuts on Jan. 13](https://appleinsider.com/articles/22/12/14/apple-tv-docuseries-super-league-the-war-for-football-debus-on-jan-13?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
