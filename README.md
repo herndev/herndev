@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His face though](http://9gag.com/gag/aEq2dPn)
- - ⏩ [Damn Nolan](http://9gag.com/gag/aDYxEyx)
- - 👉 [Does anybody know where the salon is? Asking for a friend](http://9gag.com/gag/aeQMLwW)<!-- MEMES:END -->
+ - 💣 [If you insist..](http://9gag.com/gag/aL1jy2A)
+ - ⏩ [Who&#39;s down there??](http://9gag.com/gag/avQObKE)
+ - 👉 [Damn](http://9gag.com/gag/aMEjRmX)<!-- MEMES:END -->
 
 ---
 
