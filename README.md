@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)
- - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
- - [Twitter permanently bans @ElonJet, a bot sharing public data about Elon Musk&#39;s jet, its creator, and ~30 of his accounts; Musk had said he would not ban the bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/221214/p32#a221214p32)<!-- TECH:END -->
+ - [Holiday Gift Guide: Best luxury gifts for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-luxury-gifts-for-iphone-ipad-users?utm_medium=rss)
+ - [Google’s making code formatting a breeze in Docs](https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas)
+ - [Twitter bans @ElonJet’s creator and links to other Elon Jet trackers](https://www.theverge.com/2022/12/14/23509817/twitter-elonjets-ban-creator-jack-sweeney-links-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
