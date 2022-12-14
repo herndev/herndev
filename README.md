@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why you should play The Witcher 3 on the hardest difficulty](https://www.polygon.com/23507927/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-difficulty-death-march)
- - [Destiny 2 Dawning ingredients: How to bake cookies and farm essence](https://www.pcgamer.com/destiny-2-dawning-ingredients-recipes)
- - [Warhammer 40,000: Rogue Trader is shaping up to be a stellar CRPG](https://www.pcgamer.com/warhammer-40000-rogue-trader-is-shaping-up-to-be-a-stellar-crpg)<!-- GAME:END -->
+ - [Martial Artists: Talking to the Creative Force Behind the Upcoming Wo Long: Fallen Dynasty](https://news.xbox.com/en-us/2022/12/14/martial-artists-talking-to-the-creative-force-behind-the-upcoming-wo-long-fallen-dynasty/)
+ - [Genshin Impact’s New Quest Has A Hard Choice That May Mess You Up](https://kotaku.com/genshin-impact-hoyoverse-scaramouche-name-1849893432)
+ - [The Witcher 3’s ‘Next-Gen’ Upgrade Is Causing Problems For Some PC Players](https://kotaku.com/witcher-3-next-gen-update-pc-gaming-ps5-xbox-series-1849893251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
