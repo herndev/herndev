@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
- - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
- - 👉 [2 types of 9gaggers](http://9gag.com/gag/aVb3ne2)<!-- MEMES:END -->
+ - 💣 [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
+ - ⏩ [We found it but what did it cost](http://9gag.com/gag/aMEjM9W)
+ - 👉 [Unexpected cameo \ud83d\udc40](http://9gag.com/gag/a6qOryN)<!-- MEMES:END -->
 
 ---
 
