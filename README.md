@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)
- - [Q&amp;A with Automattic CEO Matt Mullenweg on closing the Tumblr deal, profitability, content moderation, Apple&#39;s rules, Twitter, lessons for Elon Musk, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221214/p1#a221214p1)
- - [The US Supreme Court asks the Biden administration to weigh in on lyrics website Genius&#39; attempt to revive a lawsuit over Google&#39;s alleged theft of its work &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221213/p48#a221213p48)<!-- TECH:END -->
+ - [Paytm will buy back up to 10.5M shares worth ~$103M at a 50%+ premium to the December 13 closing price, seeking to convince investors of a path to profitability &lpar;Chloe Cornish/Financial Times&rpar;](http://www.techmeme.com/221214/p3#a221214p3)
+ - [The son of a murdered Ethiopian professor files a lawsuit against Meta in Kenya, alleging Meta&#39;s algorithms promote hateful and violent content for engagement &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/221214/p2#a221214p2)
+ - [Motorola expands its list of phones getting Android 13](https://www.androidauthority.com/motorola-expands-list-of-phones-android-13-3250443/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
