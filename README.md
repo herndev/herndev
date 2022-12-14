@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [YouTube will start warning comment spammers when they violate the rules](https://www.theverge.com/2022/12/13/23508062/youtube-comment-spam-warning-violation-detection-bots)
- - [Netflix is making a live-action My Hero Academia film](https://www.theverge.com/2022/12/13/23507281/netflix-my-hero-academia-film-live-action-anime)
- - [Citing Sam Bankman-Fried as a flight risk, a Bahamas magistrate judge denies him bail and says he should be remanded to Bahamian custody until February 8, 2023 &lpar;Rohan Goswami/CNBC&rpar;](http://www.techmeme.com/221213/p38#a221213p38)<!-- TECH:END -->
+ - [Responding to the &quot;Twitter Files&quot;, Jack Dorsey defends against attacks on Twitter staff, advocates for an open social media protocol, commits $1M/year to Signal &lpar;Jack Dorsey/Revue&rpar;](http://www.techmeme.com/221213/p42#a221213p42)
+ - [Microsoft says some drivers certified by its Windows Hardware Developer Program were used to sign malware, but that no network breach has been detected &lpar;Dan Goodin/Ars Technica&rpar;](http://www.techmeme.com/221213/p41#a221213p41)
+ - [More People Should Watch This Mindblowing Show on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-mindblowing-show-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
