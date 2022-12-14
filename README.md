@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yours free](http://9gag.com/gag/a7qMYXq)
- - ⏩ [It&#39;s time to give up sugar.](http://9gag.com/gag/aA03RG2)
- - 👉 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)<!-- MEMES:END -->
+ - 💣 [How do we address this recurring problem?](http://9gag.com/gag/adPL02Q)
+ - ⏩ [Title](http://9gag.com/gag/abvY5dL)
+ - 👉 [Look at me I&#39;m the referee now](http://9gag.com/gag/aqeKmAM)<!-- MEMES:END -->
 
 ---
 
