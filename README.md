@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tether plans to stop using loans denominated in its tether stablecoin throughout 2023, following a report on the potentially risky practice &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221214/p23#a221214p23)
- - [The SEC charges eight influencers with securities fraud, alleging they used Twitter and Discord to manipulate stocks from January 2020 as part of a $100M scheme &lpar;Kat Tenbarge/NBC News&rpar;](http://www.techmeme.com/221214/p22#a221214p22)
- - [Apple TV+ docuseries &#39;Super League: The War for Football&#39; debuts on Jan. 13](https://appleinsider.com/articles/22/12/14/apple-tv-docuseries-super-league-the-war-for-football-debus-on-jan-13?utm_medium=rss)<!-- TECH:END -->
+ - [The Grim Origins of an Ominous Methane Surge](https://www.wired.com/story/the-grim-origins-of-an-ominous-methane-surge/)
+ - [Holiday Gift Guide: best iPhone &amp; iPad accessory gifts from $20 to $100](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-iphone-ipad-accessory-gifts-from-20-to-100?utm_medium=rss)
+ - [The first US Super Nintendo World opens its doors on February 17th](https://www.theverge.com/2022/12/14/23509025/super-nintendo-world-universal-studios-hollywood-opening-date-information)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
