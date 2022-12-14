@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to craft a feather cape in Valheim](https://www.pcgamer.com/valheim-feather-cape)
  - [Fortnite Winterfest 2022: Presents, free skins, and snowballs](https://www.pcgamer.com/fortnite-winterfest-2022-presents)
- - [World of Warcraft: Dragonflight Season 1 kicks off with a new raid, arena and lots of proto-drakes that need killing](https://www.pcgamer.com/world-of-warcraft-dragonflight-season-1-kicks-off-with-a-new-raid-arena-and-lots-of-proto-drakes-that-need-killing)
- - [Wonder Woman 3 director speaks out on cancellation, still working on Rogue Squadron](https://www.polygon.com/23508767/wonder-woman-3-patty-jenkins-cancellation-rogue-squadron-dc-studios)<!-- GAME:END -->
+ - [World of Warcraft: Dragonflight Season 1 kicks off with a new raid, arena and lots of proto-drakes that need killing](https://www.pcgamer.com/world-of-warcraft-dragonflight-season-1-kicks-off-with-a-new-raid-arena-and-lots-of-proto-drakes-that-need-killing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
