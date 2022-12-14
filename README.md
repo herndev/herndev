@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TikTok starts testing a horizontal full-screen mode](https://www.theverge.com/2022/12/14/23508782/tiktok-full-screen-mode-test)
- - [Antihelium Offers Hope in the Search for Dark Matter](https://www.wired.com/story/antihelium-offers-hope-in-the-search-for-dark-matter/)
- - [How Should You Cut Through the Noise of This Year’s Headlines?](https://www.wired.com/story/how-should-you-cut-through-the-noise-of-this-years-biggest-headlines/)<!-- TECH:END -->
+ - [An investigation details the global supply chain that continues to offer Russia access to Western components and electronics, including from Intel and AMD &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p17#a221214p17)
+ - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
+ - [17 Best Tech Books to Gift &lpar;2022&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
