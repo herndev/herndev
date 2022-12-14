@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An investigation details the global supply chain that continues to offer Russia access to Western components and electronics, including from Intel and AMD &lpar;Reuters&rpar;](http://www.techmeme.com/221214/p17#a221214p17)
- - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
- - [17 Best Tech Books to Gift &lpar;2022&rpar;: Biographies, Startup Histories, Exposés](https://www.wired.com/gallery/best-tech-books-to-gift/)<!-- TECH:END -->
+ - [Twitter Blue Explained: What Is It? How Much Does It Cost?](https://www.wired.com/story/what-is-twitter-blue/)
+ - [Nerdio, which helps deploy and manage virtual desktops on Azure Virtual Desktop, raised a $117M Series B led by Updata Partners, bringing its funding to $125M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221214/p19#a221214p19)
+ - [A look at Vietnamese supplier Gilimex&#39;s lawsuit against Amazon, seeking damages over investing heavily in manufacturing facilities before Amazon cut its orders &lpar;Spencer Soper/Bloomberg&rpar;](http://www.techmeme.com/221214/p18#a221214p18)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
