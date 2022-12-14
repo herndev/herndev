@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [PayPal launches an integration with MetaMask that allows users to purchase and transfer ETH, rolling out to all US customers in the coming weeks &lpar;Marco Quiroz-Gutierrez/Fortune&rpar;](http://www.techmeme.com/221214/p29#a221214p29)
- - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)
- - [Twitter’s newsletter tool is shutting down on January 12th](https://www.theverge.com/2022/12/14/23509254/twitter-revue-shutdown-newsletter-data-deletion)<!-- TECH:END -->
+ - [Deal: M1 Mac mini now $599 with free expedited shipping](https://appleinsider.com/articles/22/12/14/deal-m1-mac-mini-now-599-with-free-expedited-shipping?utm_medium=rss)
+ - [The golden age of the streaming wars has ended](https://www.theverge.com/2022/12/14/23507793/streaming-wars-hbo-max-netflix-ads-residuals-warrior-nun)
+ - [Cambridge, UK-based semiconductor company Pragmatic raised a $35M Series C extension, bringing the round&#39;s total to $125M &lpar;Dan Taylor/Tech.eu&rpar;](http://www.techmeme.com/221214/p30#a221214p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
