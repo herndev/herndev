@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [FuboTV is down during a World Cup semifinal game](https://www.theverge.com/2022/12/14/23509674/fubo-tv-down-france-morocco-world-cup-semifinal)
- - [How the Federal Reserve Affects Mortgage Rates     - CNET](https://www.cnet.com/personal-finance/mortgages/how-the-federal-reserve-affects-mortgage-rates/#ftag=CAD590a51e)
- - [2023&#39;s Best TV and Streaming Shows You Can&#39;t Miss on Netflix, HBO, Disney Plus and More     - CNET](https://www.cnet.com/pictures/2023-best-new-tv-shows-to-watch-stream-obsess-about-hbo-netflix-disney-plus/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple gear that isn&#39;t iPhone tops Christmas lists for many in 2022](https://appleinsider.com/articles/22/12/14/apple-gear-that-isnt-iphone-tops-christmas-lists-for-many-in-2022?utm_medium=rss)
+ - [Best cellular 5G plans for iPhone in 2022](https://appleinsider.com/inside/iphone/best/best-cellular-5g-plans-for-iphone-in-2022?utm_medium=rss)
+ - [Twitter permanently bans @ElonJet, a bot sharing public data about Elon Musk&#39;s jet, its creator, and ~30 of his accounts; Musk had said he would not ban the bot &lpar;Bloomberg&rpar;](http://www.techmeme.com/221214/p32#a221214p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
