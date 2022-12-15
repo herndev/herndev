@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This year, I fell back in love with Chrome OS](https://www.androidauthority.com/love-chrome-os-3251538/)
- - [Google Nest and Android devices are now Matter compatible — yes, right now](https://www.theverge.com/2022/12/15/23509924/google-nest-android-matter-smart-home-support-arrives)
- - [Dell’s repairable Concept Luna laptop has a long road ahead of it](https://www.theverge.com/2022/12/15/23509871/dell-concept-luna-laptop-repairability-disassembly)<!-- TECH:END -->
+ - [Best Kindle &lpar;2022&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
+ - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
+ - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
