@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Flash deals: $739 Apple Watch Ultra, up to $550 off MacBook Pro, $59 Magic accessories, $219 AirPods Pro 2](https://appleinsider.com/articles/22/12/15/flash-deals-739-apple-watch-ultra-up-to-550-off-macbook-pro-59-magic-accessories-219-airpods-pro-2?utm_medium=rss)
- - [A look at the Safetipin app, which lets users map safe and unsafe areas in 65 cities across 16 countries and is helping New Delhi carry out improvement work &lpar;Steffie Banatvala/Financial Times&rpar;](http://www.techmeme.com/221215/p2#a221215p2)
- - [Google explains how it works its AI magic to label speakers in Pixel Recorder](https://www.androidauthority.com/google-pixel-recorder-speaker-labels-tech-3251520/)<!-- TECH:END -->
+ - [Daily Authority: 🛰️ Satellite SOS shines again](https://www.androidauthority.com/daily-authority-december-15-2022-3251489/)
+ - [Microsoft will roll out its &quot;EU data boundary&quot;, allowing EU cloud customers to process and store data in the region, starting with customer data, from January 1 &lpar;Reuters&rpar;](http://www.techmeme.com/221215/p4#a221215p4)
+ - [The US Senate unanimously passed the &quot;No TikTok on Government Devices Act&quot; over security concerns related to the app, after 13 states imposed similar bans &lpar;Al Weaver/The Hill&rpar;](http://www.techmeme.com/221215/p3#a221215p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
