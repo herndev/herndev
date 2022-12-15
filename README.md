@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Kindle &lpar;2022&rpar;: Which Amazon Ebook Reader Should You Buy?](https://www.wired.com/gallery/best-kindle/)
- - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
- - [How to order free rapid covid tests from the US government — again](https://www.theverge.com/23510740/covid-free-tests-government-how-to)<!-- TECH:END -->
+ - [Apple Maps redesign expands to Belgium and four other countries](https://appleinsider.com/articles/22/12/15/apple-maps-redesign-expands-to-belgium-and-four-other-countries?utm_medium=rss)
+ - [Nothing starts opening up its Android 13 beta for the Phone 1](https://www.theverge.com/2022/12/15/23510928/nothing-phone-1-android-13-os-1-5-open-beta-weather-app)
+ - [Daily Deals Dec. 14: $150 off Mac mini, 52% off Samsung Galaxy Smartwatch 4, 42% off AirTag Keychain Holders &amp; more](https://appleinsider.com/articles/22/12/15/daily-deals-dec-14-150-off-mac-mini-52-off-samsung-galaxy-smartwatch-4-42-off-airtag-keychain-holders-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
