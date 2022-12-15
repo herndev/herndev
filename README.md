@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Google enables Matter on Google, Nest, and Android products you already own](https://www.androidauthority.com/google-nest-matter-3251197/)
- - [Despite SBF claiming he stepped away from running Alameda, shifting blame to CEO Caroline Ellison, the US government argues that SBF was still calling the shots &lpar;Justin Baer/Wall Street Journal&rpar;](http://www.techmeme.com/221215/p12#a221215p12)
- - [Microsoft quietly updates its TOS to prohibit crypto mining on Azure and other services without &quot;prior written approval&quot;, citing &quot;disruption or even impairment&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/221215/p11#a221215p11)<!-- TECH:END -->
+ - [3 Ways to Tame ChatGPT](https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/)
+ - [How to Use Tech to Create an Ethical Will](https://www.wired.com/story/how-to-create-ethical-will/)
+ - [A New EU Rule Can Expose Greenwashers](https://www.wired.com/story/transparency-sustainability-climate-esg/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
