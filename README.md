@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
- - ⏩ [Lol I love twitter now](http://9gag.com/gag/anz9K6q)
- - 👉 [Vote Now](http://9gag.com/gag/aeQrGnB)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/aKEx316)
+ - ⏩ [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
+ - 👉 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
 
 ---
 
