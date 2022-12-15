@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to use SSH for secure connections in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-ssh-for-secure-connections-in-macos?utm_medium=rss)
- - [Belkin has a Continuity Camera MagSafe Mount for monitors now](https://appleinsider.com/articles/22/12/15/belkin-has-a-continuity-camera-magsafe-mount-for-monitors-now?utm_medium=rss)
- - [Apple now testing Rapid Security Response updates in macOS Ventura 13.2 beta](https://appleinsider.com/articles/22/12/15/apple-now-testing-rapid-security-response-updates-in-macos-ventura-132-beta?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s North Carolina campus is still coming, but when is the question](https://appleinsider.com/articles/22/12/15/apples-north-carolina-campus-is-still-coming-but-when-is-the-question?utm_medium=rss)
+ - [Google is beta testing digital state ID cards in its Android Wallet app](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
+ - [World of Warcraft veteran Chris Metzen returns to Blizzard](https://www.theverge.com/2022/12/15/23511391/world-of-warcraft-chris-metzen-blizzard-overwatch)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
