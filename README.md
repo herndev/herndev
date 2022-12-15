@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Seasons greetings 2022 PlayStation.Blog and friends](https://blog.playstation.com/2022/12/15/seasons-greetings-2022-playstation-blog-and-friends/)
- - [Where is horror going? We asked Barbarian director Zach Cregger](https://www.polygon.com/23509279/future-horror-movies-barbarian-zach-cregger)
- - [Overwatch 2 Holiday Mode Brings Back Enemy Freezing For Sickos Who Miss It](https://kotaku.com/overwatch-2-winter-wonderland-freezethaw-mode-1849898054)<!-- GAME:END -->
+ - [Vampire Survivors’ First DLC Casts a Moonspell Today](https://news.xbox.com/en-us/2022/12/15/vampire-survivors-first-dlc-casts-a-moonspell-today/)
+ - [BioShock concept artist Robb Waters designs futuristic VR bodysuits](https://www.polygon.com/c/23485904/next-10-art-gallery/bioshock-robb-waters-artwork-virtual-reality-suits)
+ - [The next Tomb Raider game is being published by Amazon](https://www.polygon.com/23510939/tomb-raider-crystal-dynamics-amazon-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
