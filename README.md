@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Hamburg-based Fashion Cloud, whose B2B data and content exchange portal is used by ~20K fashion retailers, raised &amp;euro;25M led by Verdane &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221214/p39#a221214p39)
- - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)<!-- TECH:END -->
+ - [What is the Oura Ring? Here’s everything you need to know](https://www.androidauthority.com/oura-ring-3250439/)
+ - [Russian Spacecraft Docked to International Space Station Suffers Significant Leak     - CNET](https://www.cnet.com/science/space/russian-spacecraft-docked-to-international-space-station-suffers-significant-leak/#ftag=CAD590a51e)
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
