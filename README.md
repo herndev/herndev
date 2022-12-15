@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Magic ball](http://9gag.com/gag/aqeKNxY)
- - ⏩ [It&#39;s enough to make a grown man cry](http://9gag.com/gag/a1PQerG)
- - 👉 [Thanks me later :&rpar;](http://9gag.com/gag/aBd013A)<!-- MEMES:END -->
+ - 💣 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
+ - ⏩ [Lol I love twitter now](http://9gag.com/gag/anz9K6q)
+ - 👉 [Vote Now](http://9gag.com/gag/aeQrGnB)<!-- MEMES:END -->
 
 ---
 
