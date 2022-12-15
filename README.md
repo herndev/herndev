@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thanks me later :&rpar;](http://9gag.com/gag/aBd013A)
- - ⏩ [What did it cost him](http://9gag.com/gag/a04QjAq)
- - 👉 [Hustler University be like](http://9gag.com/gag/a04QdvL)<!-- MEMES:END -->
+ - 💣 [Delusion](http://9gag.com/gag/aGEZD87)
+ - ⏩ [Thanks me later :&rpar;](http://9gag.com/gag/aBd013A)
+ - 👉 [Passenger trains in US vs Europe](http://9gag.com/gag/aeQr6Eb)<!-- MEMES:END -->
 
 ---
 
