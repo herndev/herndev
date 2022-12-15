@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
- - ⏩ [Magic ball](http://9gag.com/gag/aqeKNxY)
- - 👉 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
+ - 💣 [Thanks me later :&rpar;](http://9gag.com/gag/aBd013A)
+ - ⏩ [What did it cost him](http://9gag.com/gag/a04QjAq)
+ - 👉 [Hustler University be like](http://9gag.com/gag/a04QdvL)<!-- MEMES:END -->
 
 ---
 
