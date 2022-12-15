@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Chances of a car crush in that street - 100%](http://9gag.com/gag/a3ZQB03)
- - ⏩ [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - 👉 [12 random trips to the Island of a person who didn&#39;t kill himself](http://9gag.com/gag/aWGY633)<!-- MEMES:END -->
+ - 💣 [Magic ball](http://9gag.com/gag/aqeKNxY)
+ - ⏩ [It&#39;s enough to make a grown man cry](http://9gag.com/gag/a1PQerG)
+ - 👉 [Thanks me later :&rpar;](http://9gag.com/gag/aBd013A)<!-- MEMES:END -->
 
 ---
 
