@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I Played The 2022 Bratz Game, And It&#39;s As Bad As You Think](https://kotaku.com/bratz-dress-up-video-game-y2k-fashion-nostalgia-ps5-pc-1849900398)
- - [Fire Emblem Engage’s Somniel looks like an even more fun version of Garreg Mach](https://www.polygon.com/pokemon/23511145/fire-emblem-engages-sonmiel-garreg-mach)
- - [Avatar 2 doesn’t have a post-credits scene, an extended cut, or guaranteed sequels](https://www.polygon.com/23502389/avatar-2-way-water-post-credits-scene)<!-- GAME:END -->
+ - [Blizzard Legend Chris Metzen Returns To Company](https://kotaku.com/blizzard-chris-metzen-returns-wow-starcraft-diablo-1849901021)
+ - [Rick and Morty Creator Used Controversial AI Art, Voice Acting In New Shooter](https://kotaku.com/high-on-life-justin-roiland-ai-art-rick-morty-1849900835)
+ - [The best hobby tools for getting started with miniatures](https://www.pcgamer.com/the-best-hobby-tools-for-getting-started-with-miniatures)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
