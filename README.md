@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Which format is the best way to watch Avatar: The Way of Water?](https://www.polygon.com/23507277/avatar-2-way-water-formats-imax-3d-hfr-frame-rate)
- - [G-Fuel announces a poo-themed drink inspired by 2001&#39;s edgiest videogame character](https://www.pcgamer.com/g-fuel-announces-a-poo-themed-drink-inspired-by-2001s-edgiest-videogame-character)
- - [What we know about DMZ Building 21 in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-dmz-building-21-location-key)<!-- GAME:END -->
+ - [China clamps down on deepfakes with new regulations](https://www.pcgamer.com/china-clamps-down-on-deepfakes-with-new-regulations)
+ - [The Worst Games Of 2022 According To Metacritic](https://kotaku.com/metacritic-worst-games-ps5-xbox-series-x-s-switch-2022-1849894126)
+ - [Dell wants to change how we repair and recycle laptops in the future](https://www.pcgamer.com/dell-wants-to-change-how-we-repair-and-recycle-laptops)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
