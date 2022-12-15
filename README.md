@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One more reason to fear under/dark water](http://9gag.com/gag/awZA7pD)
- - ⏩ [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
- - 👉 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
+ - 💣 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
+ - ⏩ [Sneaky mancave](http://9gag.com/gag/awZAxn8)
+ - 👉 [Damnnnn she calling everyone out....](http://9gag.com/gag/aNwYKy4)<!-- MEMES:END -->
 
 ---
 
