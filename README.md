@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Holiday Gift Guide: Best luxury gifts for iPhone &amp; iPad users](https://appleinsider.com/articles/22/12/14/holiday-gift-guide-best-luxury-gifts-for-iphone-ipad-users?utm_medium=rss)
- - [Google’s making code formatting a breeze in Docs](https://www.theverge.com/2022/12/14/23509936/google-docs-code-blocks-smart-canvas)
- - [Twitter bans @ElonJet’s creator and links to other Elon Jet trackers](https://www.theverge.com/2022/12/14/23509817/twitter-elonjets-ban-creator-jack-sweeney-links-trackers)<!-- TECH:END -->
+ - [A tech industry group including Google and Meta sues to block California&#39;s Age-Appropriate Design Code Act, saying it would result in content &quot;over-moderation&quot; &lpar;Cat Zakrzewski/Washington Post&rpar;](http://www.techmeme.com/221214/p34#a221214p34)
+ - [FuboTV was down during a World Cup semifinal due to a ‘cyber-related incident’](https://www.theverge.com/2022/12/14/23509674/fubo-tv-down-france-morocco-world-cup-semifinal)
+ - [Twitter reinstates @ElonJet, but still says ‘live’ location info is banned](https://www.theverge.com/2022/12/14/23509817/twitter-elonjets-ban-creator-jack-sweeney-links-trackers)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
