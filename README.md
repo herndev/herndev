@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best moments to pee during Avatar: The Way of Water, ranked](https://www.polygon.com/23507357/avatar-way-water-when-to-pee-bathroom-times-scenes)
- - [Play Call of Duty: Modern Warfare II for Free This Weekend — Xbox Live Gold Not Required](https://news.xbox.com/en-us/2022/12/15/play-call-of-duty-modern-warfare-ii-for-free-this-weekend-xbox-live-gold-not-required/)
- - [Rare Puts Conker’s Face On Something That’s Not A New Game, Again](https://kotaku.com/conker-g-fuel-mighty-poo-bad-fur-day-rare-game-n64-song-1849899002)<!-- GAME:END -->
+ - [Kojima Productions is making a Death Stranding movie](https://www.pcgamer.com/death-stranding-movie-announced)
+ - [The best tabletop RPGs we played in 2022](https://www.polygon.com/23505692/best-tabletop-rpgs-ttrpg-2022)
+ - [Darktide&#39;s new patch brings big bludgeons, necessary nerfs, and beefs up the crafting system](https://www.pcgamer.com/darktides-new-patch-brings-big-bludgeons-necessary-nerfs-and-beefs-up-the-crafting-system)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
