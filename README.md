@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)
- - ⏩ [Sneaky mancave](http://9gag.com/gag/awZAxn8)
- - 👉 [Damnnnn she calling everyone out....](http://9gag.com/gag/aNwYKy4)<!-- MEMES:END -->
+ - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - ⏩ [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
+ - 👉 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)<!-- MEMES:END -->
 
 ---
 
