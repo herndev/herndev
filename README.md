@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Twitter employee receives over three years in prison for spying for Saudi Arabia](https://www.theverge.com/2022/12/15/23510619/twitter-employee-saudi-arabia-spying-sentenced-three-half-years-prison)
- - [Foxconn begins easing most restrictions at its Zhengzhou plant, including those on workers&#39; daily movements, as China rolls back its COVID-19 rules &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221215/p7#a221215p7)
- - [Memo: Grab begins cost cutting, including pausing most hiring, freezing salaries for senior managers, and cutting travel and expense budgets, to stem losses &lpar;Anshuman Daga/Reuters&rpar;](http://www.techmeme.com/221215/p6#a221215p6)<!-- TECH:END -->
+ - [Google enables Matter on Google, Nest, and Android products you already own](https://www.androidauthority.com/google-nest-matter-3251197/)
+ - [Despite SBF claiming he stepped away from running Alameda, shifting blame to CEO Caroline Ellison, the US government argues that SBF was still calling the shots &lpar;Justin Baer/Wall Street Journal&rpar;](http://www.techmeme.com/221215/p12#a221215p12)
+ - [Microsoft quietly updates its TOS to prohibit crypto mining on Azure and other services without &quot;prior written approval&quot;, citing &quot;disruption or even impairment&quot; &lpar;Simon Sharwood/The Register&rpar;](http://www.techmeme.com/221215/p11#a221215p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
