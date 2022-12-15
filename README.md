@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Maps redesign expands to Belgium and four other countries](https://appleinsider.com/articles/22/12/15/apple-maps-redesign-expands-to-belgium-and-four-other-countries?utm_medium=rss)
- - [Nothing starts opening up its Android 13 beta for the Phone 1](https://www.theverge.com/2022/12/15/23510928/nothing-phone-1-android-13-os-1-5-open-beta-weather-app)
- - [Daily Deals Dec. 14: $150 off Mac mini, 52% off Samsung Galaxy Smartwatch 4, 42% off AirTag Keychain Holders &amp; more](https://appleinsider.com/articles/22/12/15/daily-deals-dec-14-150-off-mac-mini-52-off-samsung-galaxy-smartwatch-4-42-off-airtag-keychain-holders-more?utm_medium=rss)<!-- TECH:END -->
+ - [Filing: the DOJ&#39;s US Trustee unit names nine creditors to FTX&#39;s bankruptcy committee, which could oversee payouts, including units from Genesis and Wintermute &lpar;Bloomberg&rpar;](http://www.techmeme.com/221215/p31#a221215p31)
+ - [Amazon plans to publish Crystal Dynamics&#39; next Tomb Raider game, which is early in development, the first major, single-player game published by Amazon Games &lpar;Kellen Browning/New York Times&rpar;](http://www.techmeme.com/221215/p30#a221215p30)
+ - [Future MacBook keyboard could have customizable aluminum keys](https://appleinsider.com/articles/22/12/15/future-macbook-keyboard-could-have-customizable-aluminum-keys?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
