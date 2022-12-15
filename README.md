@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [These super-thin flexible solar cells turn fabrics into solar panels](https://www.pcgamer.com/these-super-thin-flexible-solar-cells-turn-fabrics-into-solar-panels)
  - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)
- - [All the Starfield factions and groups we know about so far](https://www.pcgamer.com/starfield-factions)
- - [You Can Finally Pet Your Horse In The Witcher 3](https://kotaku.com/witcher-3-roach-pet-horse-next-gen-update-cdpr-pals-1849895785)<!-- GAME:END -->
+ - [All the Starfield factions and groups we know about so far](https://www.pcgamer.com/starfield-factions)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
