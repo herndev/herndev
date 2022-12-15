@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 🛰️ Satellite SOS shines again](https://www.androidauthority.com/daily-authority-december-15-2022-3251489/)
- - [Microsoft will roll out its &quot;EU data boundary&quot;, allowing EU cloud customers to process and store data in the region, starting with customer data, from January 1 &lpar;Reuters&rpar;](http://www.techmeme.com/221215/p4#a221215p4)
- - [The US Senate unanimously passed the &quot;No TikTok on Government Devices Act&quot; over security concerns related to the app, after 13 states imposed similar bans &lpar;Al Weaver/The Hill&rpar;](http://www.techmeme.com/221215/p3#a221215p3)<!-- TECH:END -->
+ - [Oppo Find N2, Find N2 Flip launched: Oppo’s Galaxy Z Fold 4, Z Flip 4 rivals](https://www.androidauthority.com/oppo-find-n2-series-3248928/)
+ - [Oppo&#39;s New Folding Phone is The Lightest One I&#39;ve Ever Carried     - CNET](https://www.cnet.com/tech/mobile/oppos-new-folding-phone-is-the-lightest-one-ive-ever-carried/#ftag=CAD590a51e)
+ - [The mobile games market is set to fall in 2022 for the first time in over a decade; Newzoo forecasts revenues to drop by 6.4% to $92.2B, vs. 7.3% growth in 2021 &lpar;Financial Times&rpar;](http://www.techmeme.com/221215/p5#a221215p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
