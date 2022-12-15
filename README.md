@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
- - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
- - 👉 [Did not see that coming](http://9gag.com/gag/amAB0mX)<!-- MEMES:END -->
+ - 💣 [One more reason to fear under/dark water](http://9gag.com/gag/awZA7pD)
+ - ⏩ [He didn&#39;t even play the game.](http://9gag.com/gag/armG1d5)
+ - 👉 [Painful GK](http://9gag.com/gag/aKEj0r6)<!-- MEMES:END -->
 
 ---
 
