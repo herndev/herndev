@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
- - [A plasma physicist explains what’s next after this week’s nuclear fusion breakthrough](https://www.theverge.com/2022/12/15/23510819/nuclear-fusion-ignition-breakthrough-physicist-tammy-ma)
- - [Death Stranding is getting a film adaptation](https://www.theverge.com/2022/12/15/23511256/death-stranding-movie-hideo-kojima)<!-- TECH:END -->
+ - [How to use SSH for secure connections in macOS](https://appleinsider.com/inside/macos/tips/how-to-use-ssh-for-secure-connections-in-macos?utm_medium=rss)
+ - [Belkin has a Continuity Camera MagSafe Mount for monitors now](https://appleinsider.com/articles/22/12/15/belkin-has-a-continuity-camera-magsafe-mount-for-monitors-now?utm_medium=rss)
+ - [Apple now testing Rapid Security Response updates in macOS Ventura 13.2 beta](https://appleinsider.com/articles/22/12/15/apple-now-testing-rapid-security-response-updates-in-macos-ventura-132-beta?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
