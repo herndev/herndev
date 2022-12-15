@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who?](http://9gag.com/gag/aKEx316)
- - ⏩ [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
- - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
+ - 💣 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
+ - ⏩ [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 ---
 
