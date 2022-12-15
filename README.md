@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rich, but still Weasly](http://9gag.com/gag/awZAbL1)
- - ⏩ [DC can now officially go to hell](http://9gag.com/gag/aDY1oGO)
- - 👉 [Still better than how my mom used to wake me up](http://9gag.com/gag/aGEZxVZ)<!-- MEMES:END -->
+ - 💣 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
+ - ⏩ [Boiled feet](http://9gag.com/gag/awZAx1B)
+ - 👉 [\u201cDude that is definitely from Korea\u201d starter pack](http://9gag.com/gag/aoKe9nn)<!-- MEMES:END -->
 
 ---
 
