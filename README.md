@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The US DOJ says it has started seizing 48 websites and charged 6 people for allegedly running &quot;booter&quot; DDoS-for-hire services used to launch millions of attacks &lpar;William Turton/Bloomberg&rpar;](http://www.techmeme.com/221214/p35#a221214p35)
- - [Elizabeth Warren Targets Crypto Money Laundering With New Bill     - CNET](https://www.cnet.com/personal-finance/crypto/elizabeth-warren-targets-crypto-money-laundering-with-new-bill/#ftag=CAD590a51e)
- - [Resident Evil Village’s VR mode will launch alongside Sony’s PSVR2 as a free update](https://www.theverge.com/2022/12/14/23510113/resident-evil-village-vr-mode-playstation-vr2-psvr2-free-update)<!-- TECH:END -->
+ - [Ex-Twitter employee Ahmad Abouammo is sentenced to 3.5 years in prison, after being found guilty in August 2022 of spying for Saudi Arabia by sharing user data &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/221214/p37#a221214p37)
+ - [The Verge’s 2022 holiday gift guide for dads](https://www.theverge.com/23417312/holiday-gift-ideas-dad-2022-unique-tech-presents-gadgets)
+ - [Court filing: FTX Digital Markets co-CEO Ryan Salame told Bahamas&#39; securities commission on November 9 that FTX customer funds were used to cover Alameda losses &lpar;Financial Times&rpar;](http://www.techmeme.com/221214/p36#a221214p36)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
