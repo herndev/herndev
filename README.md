@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who?](http://9gag.com/gag/aKEx316)
- - ⏩ [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
- - 👉 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
+ - 💣 [To board a plane with a gun on her](http://9gag.com/gag/aKEx3Dj)
+ - ⏩ [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
 
 ---
 
