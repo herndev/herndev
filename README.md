@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 544 answer and hint for Thursday, December 15](https://www.pcgamer.com/wordle-544-answer-december-15)
- - [These super-thin flexible solar cells turn fabrics into solar panels](https://www.pcgamer.com/these-super-thin-flexible-solar-cells-turn-fabrics-into-solar-panels)
- - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)<!-- GAME:END -->
+ - [Henry Cavill out as Superman, character will be rebooted in new movie](https://www.polygon.com/23510632/henry-cavill-superman-man-of-steel-2-canceled-james-gunn-reboot)
+ - [After quitting The Witcher, Henry Cavill isn&#39;t going to be Superman after all](https://www.pcgamer.com/after-quitting-the-witcher-henry-cavill-isnt-going-to-be-superman-after-all)
+ - [Noctua brings us sad beige keycaps for sad beige gamers](https://www.pcgamer.com/noctua-brings-us-sad-beige-keycaps-for-sad-beige-gamers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
