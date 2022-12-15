@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [3 Ways to Tame ChatGPT](https://www.wired.com/story/chatgpt-generative-ai-regulation-policy/)
- - [How to Use Tech to Create an Ethical Will](https://www.wired.com/story/how-to-create-ethical-will/)
- - [A New EU Rule Can Expose Greenwashers](https://www.wired.com/story/transparency-sustainability-climate-esg/)<!-- TECH:END -->
+ - [Meta’s Tricky Quest to Protect Your Account](https://www.wired.com/story/meta-account-recovery-security/)
+ - [Sony CRE-C10 Self-Fitting Hearing Aids Review: Affordable and Excellent](https://www.wired.com/review/sony-c10-self-fitting-hearing-aids/)
+ - [You&#39;re Gonna Need a Crypto Wallet](https://www.wired.com/story/gadget-lab-podcast-578/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
