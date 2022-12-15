@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [And here I thought our couples therapy was working](http://9gag.com/gag/avQ80mO)
- - ⏩ [Boiled feet](http://9gag.com/gag/awZAx1B)
- - 👉 [\u201cDude that is definitely from Korea\u201d starter pack](http://9gag.com/gag/aoKe9nn)<!-- MEMES:END -->
+ - 💣 [12-yeard-old Jeremiah Johnson from Texas recently won the U12 MVP at the Youth National Championships in Miami](http://9gag.com/gag/aA031Op)
+ - ⏩ [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
+ - 👉 [They did it, they actually did it!](http://9gag.com/gag/a2KZqbw)<!-- MEMES:END -->
 
 ---
 
