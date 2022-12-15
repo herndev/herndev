@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Frugal madlad](http://9gag.com/gag/aXnY0Kv)
- - ⏩ [It&#39;s time to give up sugar.](http://9gag.com/gag/aA03RG2)
- - 👉 [Did not see that coming](http://9gag.com/gag/amAB0mX)<!-- MEMES:END -->
+ - 💣 [This is Gold](http://9gag.com/gag/aGEZwMw)
+ - ⏩ [Probably the best `Wear a seat belt` ad ever](http://9gag.com/gag/aZDLW40)
+ - 👉 [Good luck dealing with them, Europe](http://9gag.com/gag/ap9mopb)<!-- MEMES:END -->
 
 ---
 
