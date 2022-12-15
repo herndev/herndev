@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Why do relaxing farming life sims stress me out so much?](https://www.pcgamer.com/why-do-relaxing-farming-life-sims-stress-me-out-so-much)
- - [Baldur’s Gate 3 adds Critical Role’s Matt Mercer in ‘critical role’](https://www.polygon.com/23509876/baldurs-gate-3-critical-role-matt-mercer-voice-cast)
- - [Future Dwarf Fortress &#39;creative mode&#39; will let you sculpt whole worlds, dream up homemade gods](https://www.pcgamer.com/future-dwarf-fortress-creative-mode-will-let-you-sculpt-whole-worlds-create-homemade-gods)<!-- GAME:END -->
+ - [Finally, an RPG let me make the weird D&amp;D party of my dreams](https://www.pcgamer.com/finally-an-rpg-let-me-make-the-weird-dandd-party-of-my-dreams)
+ - [Resident Evil Village VR Mode launches February 22 for PS VR2 as free DLC](https://blog.playstation.com/2022/12/14/resident-evil-village-vr-mode-launches-february-22-for-ps-vr2-as-free-dlc/)
+ - [Resident Evil Village VR Mode launches February 22 for PS VR2 as free DLC](https://blog.playstation.com/2022/12/14/resident-evil-village-vr-mode-launches-february-22-for-ps-vr2-as-free-dlc/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
