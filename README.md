@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 544 answer and hint for Thursday, December 15](https://www.pcgamer.com/wordle-544-answer-december-15)
  - [These super-thin flexible solar cells turn fabrics into solar panels](https://www.pcgamer.com/these-super-thin-flexible-solar-cells-turn-fabrics-into-solar-panels)
- - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)
- - [All the Starfield factions and groups we know about so far](https://www.pcgamer.com/starfield-factions)<!-- GAME:END -->
+ - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
