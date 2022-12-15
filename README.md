@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s North Carolina campus is still coming, but when is the question](https://appleinsider.com/articles/22/12/15/apples-north-carolina-campus-is-still-coming-but-when-is-the-question?utm_medium=rss)
- - [Google is beta testing digital state ID cards in its Android Wallet app](https://www.theverge.com/2022/12/15/23510774/google-digital-state-id-cards-android-13-wallet-app-maryland)
- - [World of Warcraft veteran Chris Metzen returns to Blizzard](https://www.theverge.com/2022/12/15/23511391/world-of-warcraft-chris-metzen-blizzard-overwatch)<!-- TECH:END -->
+ - [New leak reveals a Lenovo ThinkPad smartphone](https://www.androidauthority.com/lenovo-motorola-thinkphone-3251799/)
+ - [Adobe reports Q4 revenue up 10% YoY to $4.53B, Digital Media revenue up 10% YoY to $3.3B, and Digital Experience revenue up 14% YoY to $1.15B; stock is up 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221215/p39#a221215p39)
+ - [Apple&#39;s North Carolina campus is still coming, but when is the question](https://appleinsider.com/articles/22/12/15/apples-north-carolina-campus-is-still-coming-but-when-is-the-question?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
