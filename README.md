@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To board a plane with a gun on her](http://9gag.com/gag/aKEx3Dj)
- - ⏩ [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
+ - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
+ - ⏩ [Magic ball](http://9gag.com/gag/aqeKNxY)
+ - 👉 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)<!-- MEMES:END -->
 
 ---
 
