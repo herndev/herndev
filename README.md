@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
  - [Henry Cavill out as Superman, character will be rebooted in new movie](https://www.polygon.com/23510632/henry-cavill-superman-man-of-steel-2-canceled-james-gunn-reboot)
- - [After quitting The Witcher, Henry Cavill isn&#39;t going to be Superman after all](https://www.pcgamer.com/after-quitting-the-witcher-henry-cavill-isnt-going-to-be-superman-after-all)
- - [Noctua brings us sad beige keycaps for sad beige gamers](https://www.pcgamer.com/noctua-brings-us-sad-beige-keycaps-for-sad-beige-gamers)<!-- GAME:END -->
+ - [After quitting The Witcher, Henry Cavill isn&#39;t going to be Superman after all](https://www.pcgamer.com/after-quitting-the-witcher-henry-cavill-isnt-going-to-be-superman-after-all)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
