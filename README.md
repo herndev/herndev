@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bridge Strength Challenge.](http://9gag.com/gag/axozdy1)
- - ⏩ [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
- - 👉 [Yes earthquake, even though she continues to consistently broadcast the news. Respect!](http://9gag.com/gag/agoXMnW)<!-- MEMES:END -->
+ - 💣 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
+ - ⏩ [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
+ - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
 
 ---
 
