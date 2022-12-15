@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New leak reveals a Lenovo ThinkPad smartphone](https://www.androidauthority.com/lenovo-motorola-thinkphone-3251799/)
- - [Adobe reports Q4 revenue up 10% YoY to $4.53B, Digital Media revenue up 10% YoY to $3.3B, and Digital Experience revenue up 14% YoY to $1.15B; stock is up 5%+ &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221215/p39#a221215p39)
- - [Apple&#39;s North Carolina campus is still coming, but when is the question](https://appleinsider.com/articles/22/12/15/apples-north-carolina-campus-is-still-coming-but-when-is-the-question?utm_medium=rss)<!-- TECH:END -->
+ - [Tech industry groups that include Meta and Google ask SCOTUS to overturn the Texas social media content moderation law, arguing it violates the First Amendment &lpar;Greg Stohr/Bloomberg&rpar;](http://www.techmeme.com/221215/p40#a221215p40)
+ - [Save $50 on the Apple Watch Ultra for holiday gift-giving](https://appleinsider.com/articles/22/12/15/save-50-on-the-apple-watch-ultra-for-holiday-gift-giving?utm_medium=rss)
+ - [Google’s stranglehold on the mapping space could be challenged by new initiative from Meta, Microsoft, Amazon, and others](https://www.theverge.com/2022/12/15/23511455/oogle-maps-meta-microsoft-amazon-tomtom)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
