@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
- - ⏩ [Painful GK](http://9gag.com/gag/aKEj0r6)
+ - ⏩ [His face though](http://9gag.com/gag/aEq2dPn)
  - 👉 [Did not see that coming](http://9gag.com/gag/amAB0mX)<!-- MEMES:END -->
 
 ---
