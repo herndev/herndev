@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta’s Tricky Quest to Protect Your Account](https://www.wired.com/story/meta-account-recovery-security/)
- - [Sony CRE-C10 Self-Fitting Hearing Aids Review: Affordable and Excellent](https://www.wired.com/review/sony-c10-self-fitting-hearing-aids/)
- - [You&#39;re Gonna Need a Crypto Wallet](https://www.wired.com/story/gadget-lab-podcast-578/)<!-- TECH:END -->
+ - [This year, I fell back in love with Chrome OS](https://www.androidauthority.com/love-chrome-os-3251538/)
+ - [Google Nest and Android devices are now Matter compatible — yes, right now](https://www.theverge.com/2022/12/15/23509924/google-nest-android-matter-smart-home-support-arrives)
+ - [Dell’s repairable Concept Luna laptop has a long road ahead of it](https://www.theverge.com/2022/12/15/23509871/dell-concept-luna-laptop-repairability-disassembly)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
