@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Passenger trains in US vs Europe](http://9gag.com/gag/aeQr6Eb)
- - ⏩ [What did it cost him](http://9gag.com/gag/a04QjAq)
- - 👉 [DC with their new reboot](http://9gag.com/gag/aGEZ0Gw)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/aKEx316)
+ - ⏩ [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
+ - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
 
 ---
 
