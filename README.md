@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft adds full Teams integration to HoloLens 2 headsets, letting users view calendars and more, the first major update since co-founder Alex Kipman left &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/221215/p35#a221215p35)
- - [&#39;Mythic Quest&#39; spinoff series coming to Apple TV+](https://appleinsider.com/articles/22/12/15/mythic-quest-spinoff-series-coming-to-apple-tv?utm_medium=rss)
- - [You’ll be able to do push-ups and pet a cute pup in Fire Emblem Engage’s main hub](https://www.theverge.com/2022/12/15/23511024/nintendo-fire-emblem-engage-somniel-main-hub-pet-dog)<!-- TECH:END -->
+ - [Thursday’s top tech news: leaving, on an @ElonJet plane](https://www.theverge.com/2022/12/15/23510638/december-15-2022-tech-news-liveblog)
+ - [A plasma physicist explains what’s next after this week’s nuclear fusion breakthrough](https://www.theverge.com/2022/12/15/23510819/nuclear-fusion-ignition-breakthrough-physicist-tammy-ma)
+ - [Death Stranding is getting a film adaptation](https://www.theverge.com/2022/12/15/23511256/death-stranding-movie-hideo-kojima)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
