@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Kojima Productions is making a Death Stranding movie](https://www.pcgamer.com/death-stranding-movie-announced)
- - [The best tabletop RPGs we played in 2022](https://www.polygon.com/23505692/best-tabletop-rpgs-ttrpg-2022)
- - [Darktide&#39;s new patch brings big bludgeons, necessary nerfs, and beefs up the crafting system](https://www.pcgamer.com/darktides-new-patch-brings-big-bludgeons-necessary-nerfs-and-beefs-up-the-crafting-system)<!-- GAME:END -->
+ - [How the Players Shaped Clover Bite Studio’s Grime DLC: Colors of Rot](https://news.xbox.com/en-us/2022/12/15/how-the-players-shaped-clover-bite-studios-grime-dlc-colors-of-rot/)
+ - [Former Warcraft creative director Chris Metzen is returning to Blizzard](https://www.pcgamer.com/former-warcraft-creative-director-chris-metzen-is-returning-to-blizzard)
+ - [Warcraft veteran Chris Metzen returns to Blizzard to help with WoW](https://www.polygon.com/23511393/world-of-warcraft-chris-metzen-creative-advisor-blizzard)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
