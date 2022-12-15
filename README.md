@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ex-Twitter employee Ahmad Abouammo is sentenced to 3.5 years in prison, after being found guilty in August 2022 of spying for Saudi Arabia by sharing user data &lpar;Paresh Dave/Reuters&rpar;](http://www.techmeme.com/221214/p37#a221214p37)
- - [The Verge’s 2022 holiday gift guide for dads](https://www.theverge.com/23417312/holiday-gift-ideas-dad-2022-unique-tech-presents-gadgets)
- - [Court filing: FTX Digital Markets co-CEO Ryan Salame told Bahamas&#39; securities commission on November 9 that FTX customer funds were used to cover Alameda losses &lpar;Financial Times&rpar;](http://www.techmeme.com/221214/p36#a221214p36)<!-- TECH:END -->
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Hamburg-based Fashion Cloud, whose B2B data and content exchange portal is used by ~20K fashion retailers, raised &amp;euro;25M led by Verdane &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221214/p39#a221214p39)
+ - [Crypto collapse: it’s looking like a long, cold, contagious winter](https://www.theverge.com/2022/11/10/23450169/crypto-winter-ftx-binance-celsius-bitcoin)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
