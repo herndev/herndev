@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, an RPG let me make the weird D&amp;D party of my dreams](https://www.pcgamer.com/finally-an-rpg-let-me-make-the-weird-dandd-party-of-my-dreams)
- - [Resident Evil Village VR Mode launches February 22 for PS VR2 as free DLC](https://blog.playstation.com/2022/12/14/resident-evil-village-vr-mode-launches-february-22-for-ps-vr2-as-free-dlc/)
- - [Resident Evil Village VR Mode launches February 22 for PS VR2 as free DLC](https://blog.playstation.com/2022/12/14/resident-evil-village-vr-mode-launches-february-22-for-ps-vr2-as-free-dlc/)<!-- GAME:END -->
+ - [ArtStation Responds To AI Controversy, Makes Things Worse](https://kotaku.com/artstation-ai-art-generated-image-protest-controversy-1849895978)
+ - [All the Starfield factions and groups we know about so far](https://www.pcgamer.com/starfield-factions)
+ - [You Can Finally Pet Your Horse In The Witcher 3](https://kotaku.com/witcher-3-roach-pet-horse-next-gen-update-cdpr-pals-1849895785)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
