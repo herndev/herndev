@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
- - ⏩ [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
- - 👉 [Aight what do you think?](http://9gag.com/gag/a9qKd4Z)<!-- MEMES:END -->
+ - 💣 [Rich, but still Weasly](http://9gag.com/gag/awZAbL1)
+ - ⏩ [DC can now officially go to hell](http://9gag.com/gag/aDY1oGO)
+ - 👉 [Still better than how my mom used to wake me up](http://9gag.com/gag/aGEZxVZ)<!-- MEMES:END -->
 
 ---
 
