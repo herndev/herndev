@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to get Henry Cavill&#39;s Witcher armor in The Witcher 3](https://www.pcgamer.com/the-witcher-3-forgotten-wolf-armor-netflix)
- - [Henry Cavill out as Superman, character will be rebooted in new movie](https://www.polygon.com/23510632/henry-cavill-superman-man-of-steel-2-canceled-james-gunn-reboot)
- - [After quitting The Witcher, Henry Cavill isn&#39;t going to be Superman after all](https://www.pcgamer.com/after-quitting-the-witcher-henry-cavill-isnt-going-to-be-superman-after-all)<!-- GAME:END -->
+ - [Which format is the best way to watch Avatar: The Way of Water?](https://www.polygon.com/23507277/avatar-2-way-water-formats-imax-3d-hfr-frame-rate)
+ - [G-Fuel announces a poo-themed drink inspired by 2001&#39;s edgiest videogame character](https://www.pcgamer.com/g-fuel-announces-a-poo-themed-drink-inspired-by-2001s-edgiest-videogame-character)
+ - [What we know about DMZ Building 21 in Call of Duty: Warzone 2](https://www.pcgamer.com/call-of-duty-warzone-2-dmz-building-21-location-key)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
