@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Pepsi?](http://9gag.com/gag/aL1gDXg)
- - ⏩ [And your next line is `sauce`](http://9gag.com/gag/aeQrbbB)
+ - 💣 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)
+ - ⏩ [Get a room guys](http://9gag.com/gag/a7q3rEx)
  - 👉 [Obscene acceleration](http://9gag.com/gag/awZAnMB)<!-- MEMES:END -->
 
 ---
