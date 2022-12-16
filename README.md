@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)
- - ⏩ [Finally an affordable size](http://9gag.com/gag/aRE1A97)
- - 👉 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)<!-- MEMES:END -->
+ - 💣 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - ⏩ [P\u00f6ps don&#39;t play](http://9gag.com/gag/abvYYAX)
+ - 👉 [Hoaxes in the movies](http://9gag.com/gag/avQ88eZ)<!-- MEMES:END -->
 
 ---
 
