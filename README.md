@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)
- - [The Spawn of ChatGPT Will Try to Sell You Things](https://www.wired.com/story/the-spawn-of-chatgpt-will-try-to-sell-you-things/)
- - [Fortnite just kicked off its latest anime collab with My Hero Academia](https://www.theverge.com/2022/12/16/23511424/fortnite-my-hero-academia-crossover)<!-- TECH:END -->
+ - [GoPro Hero 11 Mini Review: Smaller, Lighter, But Harder to Use](https://www.wired.com/review/gopro-hero-11-mini/)
+ - [Sources: TikTok&#39;s efforts to cut ties with Beijing-based ByteDance have stumbled over hiring and retaining talent, as some key staff remain based in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/221216/p6#a221216p6)
+ - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
