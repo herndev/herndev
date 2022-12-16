@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
- - ⏩ [South Sudan president wets himself during opening a new road project](http://9gag.com/gag/aoKeOo3)
- - 👉 [Back when things were reused](http://9gag.com/gag/aVbY3PO)<!-- MEMES:END -->
+ - 💣 [Doxxing is not allowed. But it is when i do it.](http://9gag.com/gag/ajV8Nmq)
+ - ⏩ [My pronounce is lig/ma](http://9gag.com/gag/aeQrYNB)
+ - 👉 [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)<!-- MEMES:END -->
 
 ---
 
