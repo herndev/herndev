@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – Dragon Ball The Breakers, WWE 2K22, and Assassin’s Creed: Valhalla](https://news.xbox.com/en-us/2022/12/16/free-play-days-dragon-ball-the-breakers-wwe-2k22-and-assassins-creed-valhalla/)
- - [The next decade of Critical Role is about paying it forward](https://www.polygon.com/23508164/the-future-of-critical-role)
- - [Jilted Witcher And Superman Actor Henry Cavill Is Doing A Warhammer 40K Series](https://kotaku.com/henry-cavill-warhammer-40k-witcher-superman-amazon-1849903568)<!-- GAME:END -->
+ - [Share of the Week: God of War Ragnarök – Photo Mode](https://blog.playstation.com/2022/12/16/share-of-the-week-god-of-war-ragnarok-photo-mode/)
+ - [Spread Cheer Throughout Tamriel During The Elder Scrolls Online’s New Life Festival](https://news.xbox.com/en-us/2022/12/16/spread-cheer-throughout-tamriel-and-get-rewards-during-the-elder-scrolls-onlines-new-life-festival/)
+ - [Volition&#39;s Saints Row 4 upgrade was meant to be a make-good, but it broke the game instead](https://www.pcgamer.com/volitions-saints-row-4-upgrade-was-meant-to-be-a-make-good-but-it-broke-the-game-instead)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
