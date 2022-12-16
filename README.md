@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old but gold.](http://9gag.com/gag/armGg9B)
- - ⏩ [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)
- - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - ⏩ [Technique vs size in an arm wrestling match](http://9gag.com/gag/aBd0xEQ)
+ - 👉 [Old but gold.](http://9gag.com/gag/armGg9B)<!-- MEMES:END -->
 
 ---
 
