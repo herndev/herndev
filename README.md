@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
- - [The Verge’s 2022 holiday gift guide for creators](https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop)
- - [How to upgrade to the new Apple Home architecture](https://www.theverge.com/23512574/apple-home-architecture-new-upgrade-how-to)<!-- TECH:END -->
+ - [A Q&amp;A with OpenAI CEO Sam Altman about the lessons he learned from DALL-E 2&#39;s success, what DALL-E means for society, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221216/p12#a221216p12)
+ - [Anker’s Eufy deleted these 10 privacy promises instead of answering our questions](https://www.theverge.com/2022/12/16/23512952/anker-eufy-delete-promises-camera-privacy-encryption-authentication)
+ - [Sony is making a multiplayer Horizon game](https://www.theverge.com/2022/12/16/23512960/sony-playstation-horizon-multiplayer-game-jobs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
