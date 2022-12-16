@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)
- - ⏩ [Henry Cavill will officially star in and exec produce a live-action \u2018Warhammer 40K\u2019 series Amazon is in final talks to acquire the series](http://9gag.com/gag/aRE1j0A)
- - 👉 [In Berlin the Worlds biggest free standing fish tank broken...](http://9gag.com/gag/a4oQG2Q)<!-- MEMES:END -->
+ - 💣 [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)
+ - ⏩ [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - 👉 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)<!-- MEMES:END -->
 
 ---
 
