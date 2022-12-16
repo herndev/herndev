@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best tech gifts to give this Christmas](https://www.androidauthority.com/best-christmas-tech-gifts-3250586/)
- - [15-inch MacBook Air rumors, iOS 16.3 features, iPhone side loading](https://appleinsider.com/articles/22/12/16/15-inch-macbook-air-rumors-ios-163-features-iphone-side-loading?utm_medium=rss)
- - [HTC will announce a lightweight Meta Quest competitor at CES](https://www.theverge.com/2022/12/16/23510908/htc-vive-ar-vr-headset-preview-ces-flow-focus)<!-- TECH:END -->
+ - [Snag a refurbished Sonos Beam soundbar for $80 off](https://www.theverge.com/2022/12/16/23512490/sonos-beam-soundbar-bose-speaker-iphone-14-plus-macbook-deal-sale)
+ - [Daily Deals Dec. 16: $199 AirPods Pro 2, 50% off TCL 55&quot; 4K Smart TV, 47% off Samsung Trio Wireless Charging Pad &amp; more](https://appleinsider.com/articles/22/12/16/daily-deals-dec-16-199-airpods-pro-2-50-off-tcl-55-4k-smart-tv-47-off-samsung-trio-wireless-charging-pad-more?utm_medium=rss)
+ - [Apple cancels &#39;Shantaram&#39; after a single season](https://appleinsider.com/articles/22/12/16/apple-cancels-shantaram-after-a-single-season?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
