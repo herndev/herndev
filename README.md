@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to connect your Fitbit and Noom accounts](https://www.androidauthority.com/connect-fitbit-noom-3182065/)
- - [Steam’s annual winter sale kicks off next week](https://www.theverge.com/2022/12/16/23512383/steam-winter-sale-2022)
- - [Elon Musk briefly showed up to a Twitter Space hosted by a BuzzFeed News reporter discussing the latest bans, but left after reporters asked him questions &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/221216/p3#a221216p3)<!-- TECH:END -->
+ - [Daily Authority: 💻 Time to reevaluate Chrome OS](https://www.androidauthority.com/daily-authority-december-16-2022-3255050/)
+ - [Motorola ThinkPhone leak shows off a Lenovo ThinkPad-like phone](https://www.theverge.com/2022/12/16/23512394/motorola-thinkphone-leak-lenovo-thinkpad-design-rumor)
+ - [New Pokémon series will feature Scarlet and Violet starters](https://www.theverge.com/2022/12/16/23511362/new-pokemon-animated-series-scarlet-violet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
