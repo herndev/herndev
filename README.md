@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - ⏩ [Amen to that](http://9gag.com/gag/a4oQbO6)
- - 👉 [This ain&#39;t 1872](http://9gag.com/gag/az298WZ)<!-- MEMES:END -->
+ - 💣 [To challenge your father](http://9gag.com/gag/aeQr0yp)
+ - ⏩ [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
+ - 👉 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
 
 ---
 
