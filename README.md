@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Lap it up: Henry Cavill&#39;s dog is in The Witcher 3 now](https://www.pcgamer.com/lap-it-up-henry-cavills-dog-is-in-the-witcher-3-now)
- - [Today&#39;s Wordle 545 answer and hint for Friday, December 16](https://www.pcgamer.com/wordle-545-answer-december-16)
- - [Henry Cavill reportedly in talks to star in and produce a Warhammer 40K series for Amazon](https://www.pcgamer.com/henry-cavill-reportedly-in-talks-to-star-in-and-produce-a-warhammer-40k-series-for-amazon)<!-- GAME:END -->
+ - [Valve hints at revised Steam Deck with better battery life and screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)
+ - [Henry Cavill moves on to a Warhammer 40K series with Amazon](https://www.polygon.com/23512390/henry-cavill-warhammer-40k-amazon-witcher-superman)
+ - [New World is running a free weekend to highlight its new edition and discount](https://www.pcgamer.com/new-world-is-running-a-free-weekend-to-highlight-its-new-edition-and-discount)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
