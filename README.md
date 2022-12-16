@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To challenge your father](http://9gag.com/gag/aeQr0yp)
+ - 💣 [Prove me wrong](http://9gag.com/gag/a2KZrxE)
  - ⏩ [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
- - 👉 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
+ - 👉 [Rubber band magic](http://9gag.com/gag/ajV8qDG)<!-- MEMES:END -->
 
 ---
 
