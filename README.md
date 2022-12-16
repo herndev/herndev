@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tim Cook visits Apple Watch Ultra band maker &amp; Paralympians on the way out of Japan](https://appleinsider.com/articles/22/12/16/tim-cook-visits-apple-watch-ultra-band-maker-paralympians-on-the-way-out-of-japan?utm_medium=rss)
- - [The Polestar 3 will keep an eye on you](https://www.theverge.com/2022/12/16/23513128/polestar-smart-eye-driver-monitoring-camera-ces-2023)
- - [Apple accused of creating illegal pseudo-union at Ohio store](https://appleinsider.com/articles/22/12/16/apple-accused-of-creating-illegal-pseudo-union-at-ohio-store?utm_medium=rss)<!-- TECH:END -->
+ - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
+ - [Apple accused of creating illegal pseudo-union at Ohio store](https://appleinsider.com/articles/22/12/16/apple-accused-of-creating-illegal-pseudo-union-at-ohio-store?utm_medium=rss)
+ - [Sabrent dual NVMe SSD docking station review: Lots of storage, sufficient speed](https://appleinsider.com/articles/22/12/16/sabrent-dual-nvme-ssd-docking-station-review-lots-of-storage-sufficient-speed?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
