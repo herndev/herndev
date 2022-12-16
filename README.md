@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
- - [Horizon Forbidden West’s makers are at work on ‘separate Online Project’](https://www.polygon.com/23513252/horizon-forbidden-west-multiplayer-online-mmo-ps5)
- - [New England Mountains Reserve Out Now for theHunter: Call of the Wild](https://news.xbox.com/en-us/2022/12/16/new-england-mountains-reserve-out-now-for-thehunter-call-of-the-wild/)<!-- GAME:END -->
+ - [Potion Craft is Now Available on Xbox!](https://news.xbox.com/en-us/2022/12/16/potion-craft-is-now-available-on-xbox/)
+ - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)
+ - [US senator asks Gabe Newell what Valve is doing to fight Nazis on Steam](https://www.pcgamer.com/us-senator-asks-gabe-newell-what-valve-is-doing-to-fight-nazis-on-steam)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
