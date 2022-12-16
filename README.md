@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [God of Rock Rhythm-Fighting Game Reveals Release Date and Unparalleled Gameplay](https://news.xbox.com/en-us/2022/12/16/god-of-rock-rhythm-fighting-game-reveals-release-date-and-unparalleled-gameplay/)
- - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
- - [Take a deep dive into underwater city builder Aquatico](https://www.pcgamer.com/take-a-deep-dive-into-underwater-city-builder-aquatico)<!-- GAME:END -->
+ - [Ubisoft Winter Sale Has Big Savings On Games Like Mario + Rabbids Sparks Of Hope](https://kotaku.com/ubisoft-winter-sale-best-deals-switch-pc-xbox-far-cry-1849905089)
+ - [Epic is giving away a free game every day in its annual Holiday Sale](https://www.pcgamer.com/epic-is-giving-away-a-free-game-every-day-in-its-annual-holiday-sale)
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
