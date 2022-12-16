@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Getting an Xbox Series X|S for the Holidays? Here’s What to Do First](https://news.xbox.com/en-us/2022/12/16/getting-an-xbox-for-holidays-what-to-do-first/)
- - [Square Enix was the surprise Steam Deck champion of the year](https://www.pcgamer.com/square-enix-was-the-surprise-steam-deck-champion-of-the-year)
- - [The Witcher 3’s Geralt is still the best dad in video games](https://www.polygon.com/23511405/witcher-3-next-gen-upgrade-ps5-xbox-series-x-pc-wild-hunt)<!-- GAME:END -->
+ - [God of Rock Rhythm-Fighting Game Reveals Release Date and Unparalleled Gameplay](https://news.xbox.com/en-us/2022/12/16/god-of-rock-rhythm-fighting-game-reveals-release-date-and-unparalleled-gameplay/)
+ - [What we know about Avatar 3, 4, and 5](https://www.polygon.com/23511762/avatar-3-4-5-release-cast-plot-about)
+ - [Take a deep dive into underwater city builder Aquatico](https://www.pcgamer.com/take-a-deep-dive-into-underwater-city-builder-aquatico)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
