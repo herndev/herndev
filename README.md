@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here’s How Robert Jordan Built The Wheel of Time](https://www.wired.com/2022/12/geeks-guide-robert-jordan/)
- - [Amazon drops 11-inch iPad Pro M2 to $719, arrives by Christmas](https://appleinsider.com/articles/22/12/16/amazon-drops-11-inch-ipad-pro-m2-to-719-arrives-by-christmas?utm_medium=rss)
- - [Samsung is ready to spare no expense with the Galaxy S23 to topple Apple](https://www.androidauthority.com/samsung-galaxy-s23-apple-3255189/)<!-- TECH:END -->
+ - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
+ - [The Verge’s 2022 holiday gift guide for creators](https://www.theverge.com/23385623/holiday-gift-ideas-2022-content-creator-artist-creative-tech-gear-camera-laptop)
+ - [How to upgrade to the new Apple Home architecture](https://www.theverge.com/23512574/apple-home-architecture-new-upgrade-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
