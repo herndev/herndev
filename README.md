@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waymo’s driverless robotaxis are now doing airport trips in Phoenix](https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless)
- - [Storytelling Will Save the Earth](https://www.wired.com/story/environment-climate-change-storytelling/)
- - [2023 Toyota Prius Starts at $28,545, Tops Out at $36,960     - CNET](https://www.cnet.com/roadshow/news/2023-toyota-prius-pricing/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Here’s How Robert Jordan Built The Wheel of Time](https://www.wired.com/2022/12/geeks-guide-robert-jordan/)
+ - [Amazon drops 11-inch iPad Pro M2 to $719, arrives by Christmas](https://appleinsider.com/articles/22/12/16/amazon-drops-11-inch-ipad-pro-m2-to-719-arrives-by-christmas?utm_medium=rss)
+ - [Samsung is ready to spare no expense with the Galaxy S23 to topple Apple](https://www.androidauthority.com/samsung-galaxy-s23-apple-3255189/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
