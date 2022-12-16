@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US lawmakers press top game companies about how they assess and mitigate risks of extremist behavior, after an ADL study finds extremism rising in online gaming &lpar;Stephen Totilo/Axios&rpar;](http://www.techmeme.com/221215/p46#a221215p46)
- - [What Could Come in the Steam Deck 2     - CNET](https://www.cnet.com/tech/computing/what-could-come-in-the-steam-deck-2/#ftag=CAD590a51e)
- - [Twitter suspends the account of its rival Mastodon, and many links to some Mastodon servers no longer work on Twitter, which flags them as &quot;potentially harmful&quot; &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221215/p45#a221215p45)<!-- TECH:END -->
+ - [Singapore-based crypto trading platform Amber Group raised a $300M Series C led by Fenbushi Capital US, at less than its February valuation of $3B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221216/p1#a221216p1)
+ - [OnePlus gives the 10T a sort of superhero makeover with new Marvel Edition box](https://www.androidauthority.com/oneplus-10t-marvel-edition-3255034/)
+ - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
