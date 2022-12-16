@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The art of defence](http://9gag.com/gag/a8q3pep)
- - ⏩ [Completely smashed](http://9gag.com/gag/aDY1WxB)
- - 👉 [Wearing all the pupers out](http://9gag.com/gag/aYVYxZw)<!-- MEMES:END -->
+ - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - ⏩ [Amen to that](http://9gag.com/gag/a4oQbO6)
+ - 👉 [This ain&#39;t 1872](http://9gag.com/gag/az298WZ)<!-- MEMES:END -->
 
 ---
 
