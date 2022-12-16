@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Q&amp;A with OpenAI CEO Sam Altman about the lessons he learned from DALL-E 2&#39;s success, what DALL-E means for society, and more &lpar;Will Douglas Heaven/MIT Technology Review&rpar;](http://www.techmeme.com/221216/p12#a221216p12)
- - [Anker’s Eufy deleted these 10 privacy promises instead of answering our questions](https://www.theverge.com/2022/12/16/23512952/anker-eufy-delete-promises-camera-privacy-encryption-authentication)
- - [Sony is making a multiplayer Horizon game](https://www.theverge.com/2022/12/16/23512960/sony-playstation-horizon-multiplayer-game-jobs)<!-- TECH:END -->
+ - [Tim Cook visits Apple Watch Ultra band maker &amp; Paralympians on the way out of Japan](https://appleinsider.com/articles/22/12/16/tim-cook-visits-apple-watch-ultra-band-maker-paralympians-on-the-way-out-of-japan?utm_medium=rss)
+ - [The Polestar 3 will keep an eye on you](https://www.theverge.com/2022/12/16/23513128/polestar-smart-eye-driver-monitoring-camera-ces-2023)
+ - [Apple accused of creating illegal pseudo-union at Ohio store](https://appleinsider.com/articles/22/12/16/apple-accused-of-creating-illegal-pseudo-union-at-ohio-store?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
