@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HidrateSpark TAP Smart Water Bottle review: Best budget smart water bottle](https://appleinsider.com/articles/22/12/16/hidratespark-tap-smart-water-bottle-review-best-budget-smart-water-bottle?utm_medium=rss)
- - [Apple accused of creating illegal pseudo-union at Ohio store](https://appleinsider.com/articles/22/12/16/apple-accused-of-creating-illegal-pseudo-union-at-ohio-store?utm_medium=rss)
- - [Sabrent dual NVMe SSD docking station review: Lots of storage, sufficient speed](https://appleinsider.com/articles/22/12/16/sabrent-dual-nvme-ssd-docking-station-review-lots-of-storage-sufficient-speed?utm_medium=rss)<!-- TECH:END -->
+ - [Apple, Google, and Mozilla are collaborating on the development of Speedometer 3, a browser benchmark that measures responsiveness &lpar;9to5Mac&rpar;](http://www.techmeme.com/221216/p18#a221216p18)
+ - [Galaxy Z Fold 2 getting Android 13 and December’s security update](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
+ - [Fusion Explained: Why the Big New Milestone Doesn&#39;t Mean Green Power Yet     - CNET](https://www.cnet.com/science/fusion-explained-why-the-big-new-milestone-doesnt-mean-green-power-yet/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
