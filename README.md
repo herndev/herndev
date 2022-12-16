@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s why you should read books.](http://9gag.com/gag/aDY1orK)
- - ⏩ [Technique vs size in an arm wrestling match](http://9gag.com/gag/aBd0xEQ)
- - 👉 [Censorship... sure bud](http://9gag.com/gag/aA03xWd)<!-- MEMES:END -->
+ - 💣 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)
+ - ⏩ [Old but gold.](http://9gag.com/gag/armGg9B)
+ - 👉 [Internet dad damn ninjas cutting onions](http://9gag.com/gag/a2KZZ7d)<!-- MEMES:END -->
 
 ---
 
