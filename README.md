@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
- - ⏩ [Post your favorites in the comments](http://9gag.com/gag/a6qOM6q)
- - 👉 [Completely smashed](http://9gag.com/gag/aDY1WxB)<!-- MEMES:END -->
+ - 💣 [The art of defence](http://9gag.com/gag/a8q3pep)
+ - ⏩ [Completely smashed](http://9gag.com/gag/aDY1WxB)
+ - 👉 [Wearing all the pupers out](http://9gag.com/gag/aYVYxZw)<!-- MEMES:END -->
 
 ---
 
