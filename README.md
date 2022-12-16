@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - 💣 [That&#39;s why you should read books.](http://9gag.com/gag/aDY1orK)
  - ⏩ [Technique vs size in an arm wrestling match](http://9gag.com/gag/aBd0xEQ)
- - 👉 [Old but gold.](http://9gag.com/gag/armGg9B)<!-- MEMES:END -->
+ - 👉 [Censorship... sure bud](http://9gag.com/gag/aA03xWd)<!-- MEMES:END -->
 
 ---
 
