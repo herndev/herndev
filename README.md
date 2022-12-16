@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [President of South Sudan pissed himself on TV. All his thugs busy looking tough as nails, as their commander soaked in urine.](http://9gag.com/gag/avQ8n8q)
- - ⏩ [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)
- - 👉 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)<!-- MEMES:END -->
+ - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
+ - ⏩ [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
+ - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 ---
 
