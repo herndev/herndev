@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
- - [[Thread] Twitter suspends accounts of journalists who cover Elon Musk, including WaPo&#39;s Drew Harwell, NYT&#39;s Ryan Mac, CNN&#39;s Donie O&#39;Sullivan, and Aaron Rupar &lpar;Ben Collins/@oneunderscore__&rpar;](http://www.techmeme.com/221215/p42#a221215p42)
- - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)<!-- TECH:END -->
+ - [Salt Lake City-based MasterControl, which makes software to manage the development of life science products, raised a $150M Series A led by Sixth Street &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221215/p44#a221215p44)
+ - [Twitter Suddenly Suspends Half-Dozen Journalists&#39; Accounts     - CNET](https://www.cnet.com/news/social-media/twitter-suddenly-suspends-half-dozen-journalists-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
