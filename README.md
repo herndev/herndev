@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [GoPro Hero 11 Mini Review: Smaller, Lighter, But Harder to Use](https://www.wired.com/review/gopro-hero-11-mini/)
- - [Sources: TikTok&#39;s efforts to cut ties with Beijing-based ByteDance have stumbled over hiring and retaining talent, as some key staff remain based in China &lpar;Raffaele Huang/Wall Street Journal&rpar;](http://www.techmeme.com/221216/p6#a221216p6)
- - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)<!-- TECH:END -->
+ - [The best tech gifts to give this Christmas](https://www.androidauthority.com/best-christmas-tech-gifts-3250586/)
+ - [15-inch MacBook Air rumors, iOS 16.3 features, iPhone side loading](https://appleinsider.com/articles/22/12/16/15-inch-macbook-air-rumors-ios-163-features-iphone-side-loading?utm_medium=rss)
+ - [HTC will announce a lightweight Meta Quest competitor at CES](https://www.theverge.com/2022/12/16/23510908/htc-vive-ar-vr-headset-preview-ces-flow-focus)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
