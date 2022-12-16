@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Chinese players are being prepared for the end of World of Warcraft](https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft)
- - [We&#39;re giving away bundles of some of our favourite games from GOG](https://www.pcgamer.com/were-giving-away-bundles-of-some-of-our-favourite-games-from-gog)
- - [Valve hints at revised Steam Deck with better battery life and screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)<!-- GAME:END -->
+ - [Help Shape History with Ara: History Untold’s Technical Alpha 2](https://news.xbox.com/en-us/2022/12/16/help-shape-history-with-ara-history-untolds-technical-alpha-2/)
+ - [Greta Gerwig’s Barbie movie trailer puts Margot Robbie in the middle of A Space Odyssey](https://www.polygon.com/23512560/barbie-movie-trailer-2023-margot-robbie-ryan-gosling)
+ - [New characters take over Pokémon anime as Ash and Pikachu retire](https://www.polygon.com/23512518/new-pokemon-anime-ash-pikachu-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
