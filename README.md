@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Prove me wrong](http://9gag.com/gag/a2KZrxE)
- - ⏩ [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
- - 👉 [Rubber band magic](http://9gag.com/gag/ajV8qDG)<!-- MEMES:END -->
+ - 💣 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)
+ - ⏩ [Henry Cavill will officially star in and exec produce a live-action \u2018Warhammer 40K\u2019 series Amazon is in final talks to acquire the series](http://9gag.com/gag/aRE1j0A)
+ - 👉 [In Berlin the Worlds biggest free standing fish tank broken...](http://9gag.com/gag/a4oQG2Q)<!-- MEMES:END -->
 
 ---
 
