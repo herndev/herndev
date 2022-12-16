@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
- - ⏩ [Elon&#39;s jet has been on Epstein Island many times](http://9gag.com/gag/aEq2nqo)
- - 👉 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)<!-- MEMES:END -->
+ - 💣 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - ⏩ [And your next line is `sauce`](http://9gag.com/gag/aeQrbbB)
+ - 👉 [Obscene acceleration](http://9gag.com/gag/awZAnMB)<!-- MEMES:END -->
 
 ---
 
