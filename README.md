@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple, Google, and Mozilla are collaborating on the development of Speedometer 3, a browser benchmark that measures responsiveness &lpar;9to5Mac&rpar;](http://www.techmeme.com/221216/p18#a221216p18)
- - [Galaxy Z Fold 2 getting Android 13 and December’s security update](https://www.androidauthority.com/samsung-galaxy-z-fold-2-update-1191470/)
- - [Fusion Explained: Why the Big New Milestone Doesn&#39;t Mean Green Power Yet     - CNET](https://www.cnet.com/science/fusion-explained-why-the-big-new-milestone-doesnt-mean-green-power-yet/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Coyotes Unexpectedly Killed a Human in 2009. Scientists Now Know Why     - CNET](https://www.cnet.com/science/biology/coyotes-unexpectedly-killed-a-human-in-2009-scientists-now-know-why/#ftag=CAD590a51e)
+ - [NASA Telescopes Identify Two Alien Worlds Mostly Made of Water     - CNET](https://www.cnet.com/science/space/nasa-telescopes-identify-two-alien-worlds-mostly-made-of-water/#ftag=CAD590a51e)
+ - [Phones Were Boring in 2022. Here&#39;s Why They&#39;ll Be More Interesting in 2023     - CNET](https://www.cnet.com/tech/mobile/phones-were-boring-in-2022-heres-why-theyll-be-more-interesting-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
