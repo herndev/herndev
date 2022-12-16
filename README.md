@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Doxxing is not allowed. But it is when i do it.](http://9gag.com/gag/ajV8Nmq)
- - ⏩ [My pronounce is lig/ma](http://9gag.com/gag/aeQrYNB)
- - 👉 [Interesting thought, i didn&#39;t know.](http://9gag.com/gag/aQERey2)<!-- MEMES:END -->
+ - 💣 [Old but gold.](http://9gag.com/gag/armGg9B)
+ - ⏩ [This stone effortlessly crumbling into smaller rocks](http://9gag.com/gag/amAB7Nd)
+ - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
 
 ---
 
