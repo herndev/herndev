@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woke society in a nutshell](http://9gag.com/gag/axozNpn)
- - ⏩ [Feminists are full of shit](http://9gag.com/gag/a7q35xe)
- - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 💣 [Who?](http://9gag.com/gag/aKEx316)
+ - ⏩ [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
+ - 👉 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)<!-- MEMES:END -->
 
 ---
 
