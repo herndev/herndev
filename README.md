@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Singapore-based crypto trading platform Amber Group raised a $300M Series C led by Fenbushi Capital US, at less than its February valuation of $3B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221216/p1#a221216p1)
- - [OnePlus gives the 10T a sort of superhero makeover with new Marvel Edition box](https://www.androidauthority.com/oneplus-10t-marvel-edition-3255034/)
- - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)<!-- TECH:END -->
+ - [Sweep, which makes a no-code toolkit for building sales playbooks in Salesforce, raised $28M in seed and Series A led by Bessemer and Insight respectively &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221216/p2#a221216p2)
+ - [Donald Trump&#39;s Cringe NFT Collection Sells Out, Raising $4.45M     - CNET](https://www.cnet.com/culture/donald-trumps-cringe-nft-collection-sells-out-raising-4-45m/#ftag=CAD590a51e)
+ - [Singapore-based crypto trading platform Amber Group raised a $300M Series C led by Fenbushi Capital US, at less than its February valuation of $3B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221216/p1#a221216p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
