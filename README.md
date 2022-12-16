@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 💻 Time to reevaluate Chrome OS](https://www.androidauthority.com/daily-authority-december-16-2022-3255050/)
- - [Motorola ThinkPhone leak shows off a Lenovo ThinkPad-like phone](https://www.theverge.com/2022/12/16/23512394/motorola-thinkphone-leak-lenovo-thinkpad-design-rumor)
- - [New Pokémon series will feature Scarlet and Violet starters](https://www.theverge.com/2022/12/16/23511362/new-pokemon-animated-series-scarlet-violet)<!-- TECH:END -->
+ - [Big Tech Laid Off Thousands. Here’s Who Wants Them Next](https://www.wired.com/story/big-tech-layoffs-hiring/)
+ - [The Spawn of ChatGPT Will Try to Sell You Things](https://www.wired.com/story/the-spawn-of-chatgpt-will-try-to-sell-you-things/)
+ - [Fortnite just kicked off its latest anime collab with My Hero Academia](https://www.theverge.com/2022/12/16/23511424/fortnite-my-hero-academia-crossover)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
