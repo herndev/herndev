@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 545 answer and hint for Friday, December 16](https://www.pcgamer.com/wordle-545-answer-december-16)
  - [Henry Cavill reportedly in talks to star in and produce a Warhammer 40K series for Amazon](https://www.pcgamer.com/henry-cavill-reportedly-in-talks-to-star-in-and-produce-a-warhammer-40k-series-for-amazon)
- - [Congress Wants To Know What The Biggest Game Companies Are Doing To &#39;Combat Extremism&#39;](https://kotaku.com/congress-extremism-harassment-ea-playstation-xbox-riot-1849901765)
- - [They really all came crawlin&#39; back to Steam, didn&#39;t they?](https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they)<!-- GAME:END -->
+ - [Congress Wants To Know What The Biggest Game Companies Are Doing To &#39;Combat Extremism&#39;](https://kotaku.com/congress-extremism-harassment-ea-playstation-xbox-riot-1849901765)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
