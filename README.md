@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
- - ⏩ [When you dont want anymore baby girls...](http://9gag.com/gag/a5XMPWO)
- - 👉 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
+ - 💣 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)
+ - ⏩ [Post your favorites in the comments](http://9gag.com/gag/a6qOM6q)
+ - 👉 [Completely smashed](http://9gag.com/gag/aDY1WxB)<!-- MEMES:END -->
 
 ---
 
