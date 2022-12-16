@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Valve hints at revised Steam Deck with better battery life and screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)
- - [Henry Cavill moves on to a Warhammer 40K series with Amazon](https://www.polygon.com/23512390/henry-cavill-warhammer-40k-amazon-witcher-superman)
- - [New World is running a free weekend to highlight its new edition and discount](https://www.pcgamer.com/new-world-is-running-a-free-weekend-to-highlight-its-new-edition-and-discount)<!-- GAME:END -->
+ - [Chinese players are being prepared for the end of World of Warcraft](https://www.pcgamer.com/chinese-players-are-being-prepared-for-the-end-of-world-of-warcraft)
+ - [We&#39;re giving away bundles of some of our favourite games from GOG](https://www.pcgamer.com/were-giving-away-bundles-of-some-of-our-favourite-games-from-gog)
+ - [Valve hints at revised Steam Deck with better battery life and screen](https://www.pcgamer.com/valve-hints-at-revised-steam-deck-with-better-battery-life-and-screen)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
