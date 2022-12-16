@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
- - [Salt Lake City-based MasterControl, which makes software to manage the development of life science products, raised a $150M Series A led by Sixth Street &lpar;Keerthi Vedantam/Crunchbase News&rpar;](http://www.techmeme.com/221215/p44#a221215p44)
- - [Twitter Suddenly Suspends Half-Dozen Journalists&#39; Accounts     - CNET](https://www.cnet.com/news/social-media/twitter-suddenly-suspends-half-dozen-journalists-accounts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter suspends the account of its rival Mastodon, and many links to some Mastodon servers no longer work on Twitter, which flags them as &quot;potentially harmful&quot; &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/221215/p45#a221215p45)
+ - [Twitter is blocking links to Mastodon](https://www.theverge.com/2022/12/15/23512113/twitter-blocking-mastodon-links-elon-musk-elonjet)
+ - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
