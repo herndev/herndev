@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)
- - ⏩ [Get a room guys](http://9gag.com/gag/a7q3rEx)
- - 👉 [Obscene acceleration](http://9gag.com/gag/awZAnMB)<!-- MEMES:END -->
+ - 💣 [It&#39;s a mushroom.](http://9gag.com/gag/a4oQLnp)
+ - ⏩ [When you dont want anymore baby girls...](http://9gag.com/gag/a5XMPWO)
+ - 👉 [Farewell Cavill, you deserve better than DC](http://9gag.com/gag/a9qK77Z)<!-- MEMES:END -->
 
 ---
 
