@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [They really all came crawlin&#39; back to Steam, didn&#39;t they?](https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they)
- - [Magic’s $1000 30th Anniversary set evoked nostalgia, but for whom?](https://www.pcgamer.com/magics-dollar1000-30th-anniversary-set-evoked-nostalgia-but-for-who)
- - [It looks like Call of Duty&#39;s anti-cheat is permabanning innocent players](https://www.pcgamer.com/it-looks-like-call-of-dutys-anti-cheat-is-permabanning-innocent-players)<!-- GAME:END -->
+ - [Henry Cavill reportedly in talks to star in and produce a Warhammer 40K series for Amazon](https://www.pcgamer.com/henry-cavill-reportedly-in-talks-to-star-in-and-produce-a-warhammer-40k-series-for-amazon)
+ - [Congress Wants To Know What The Biggest Game Companies Are Doing To &#39;Combat Extremism&#39;](https://kotaku.com/congress-extremism-harassment-ea-playstation-xbox-riot-1849901765)
+ - [They really all came crawlin&#39; back to Steam, didn&#39;t they?](https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
