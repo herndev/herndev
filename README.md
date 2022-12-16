@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sweep, which makes a no-code toolkit for building sales playbooks in Salesforce, raised $28M in seed and Series A led by Bessemer and Insight respectively &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221216/p2#a221216p2)
- - [Donald Trump&#39;s Cringe NFT Collection Sells Out, Raising $4.45M     - CNET](https://www.cnet.com/culture/donald-trumps-cringe-nft-collection-sells-out-raising-4-45m/#ftag=CAD590a51e)
- - [Singapore-based crypto trading platform Amber Group raised a $300M Series C led by Fenbushi Capital US, at less than its February valuation of $3B &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221216/p1#a221216p1)<!-- TECH:END -->
+ - [How to connect your Fitbit and Noom accounts](https://www.androidauthority.com/connect-fitbit-noom-3182065/)
+ - [Steam’s annual winter sale kicks off next week](https://www.theverge.com/2022/12/16/23512383/steam-winter-sale-2022)
+ - [Elon Musk briefly showed up to a Twitter Space hosted by a BuzzFeed News reporter discussing the latest bans, but left after reporters asked him questions &lpar;Pranav Dixit/BuzzFeed News&rpar;](http://www.techmeme.com/221216/p3#a221216p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
