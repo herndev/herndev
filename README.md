@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [His biceps : ` Adios `](http://9gag.com/gag/aKExVVO)
- - ⏩ [Old but gold.](http://9gag.com/gag/armGg9B)
- - 👉 [Internet dad damn ninjas cutting onions](http://9gag.com/gag/a2KZZ7d)<!-- MEMES:END -->
+ - 💣 [Pepsi?](http://9gag.com/gag/aL1gDXg)
+ - ⏩ [Clown world](http://9gag.com/gag/aRE13Yq)
+ - 👉 [How long would it take you to notice?](http://9gag.com/gag/aXnY97P)<!-- MEMES:END -->
 
 ---
 
