@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rubber band magic](http://9gag.com/gag/ajV8qDG)
- - ⏩ [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
- - 👉 [Finally an affordable size](http://9gag.com/gag/aRE1A97)<!-- MEMES:END -->
+ - 💣 [16 Meter high aquarium in German Hotel exploded tonight.](http://9gag.com/gag/aRE1jB5)
+ - ⏩ [South Sudan president wets himself during opening a new road project](http://9gag.com/gag/aoKeOo3)
+ - 👉 [Back when things were reused](http://9gag.com/gag/aVbY3PO)<!-- MEMES:END -->
 
 ---
 
