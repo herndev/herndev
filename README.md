@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Winter Sale Has Big Savings On Games Like Mario + Rabbids Sparks Of Hope](https://kotaku.com/ubisoft-winter-sale-best-deals-switch-pc-xbox-far-cry-1849905089)
- - [Epic is giving away a free game every day in its annual Holiday Sale](https://www.pcgamer.com/epic-is-giving-away-a-free-game-every-day-in-its-annual-holiday-sale)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
+ - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)
+ - [Horizon Forbidden West’s makers are at work on ‘separate Online Project’](https://www.polygon.com/23513252/horizon-forbidden-west-multiplayer-online-mmo-ps5)
+ - [New England Mountains Reserve Out Now for theHunter: Call of the Wild](https://news.xbox.com/en-us/2022/12/16/new-england-mountains-reserve-out-now-for-thehunter-call-of-the-wild/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
