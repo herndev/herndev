@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Snag a refurbished Sonos Beam soundbar for $80 off](https://www.theverge.com/2022/12/16/23512490/sonos-beam-soundbar-bose-speaker-iphone-14-plus-macbook-deal-sale)
- - [Daily Deals Dec. 16: $199 AirPods Pro 2, 50% off TCL 55&quot; 4K Smart TV, 47% off Samsung Trio Wireless Charging Pad &amp; more](https://appleinsider.com/articles/22/12/16/daily-deals-dec-16-199-airpods-pro-2-50-off-tcl-55-4k-smart-tv-47-off-samsung-trio-wireless-charging-pad-more?utm_medium=rss)
- - [Apple cancels &#39;Shantaram&#39; after a single season](https://appleinsider.com/articles/22/12/16/apple-cancels-shantaram-after-a-single-season?utm_medium=rss)<!-- TECH:END -->
+ - [Waymo’s driverless robotaxis are now doing airport trips in Phoenix](https://www.theverge.com/2022/12/16/23511719/waymo-airport-phoenix-sf-av-robotaxi-driverless)
+ - [Storytelling Will Save the Earth](https://www.wired.com/story/environment-climate-change-storytelling/)
+ - [2023 Toyota Prius Starts at $28,545, Tops Out at $36,960     - CNET](https://www.cnet.com/roadshow/news/2023-toyota-prius-pricing/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
