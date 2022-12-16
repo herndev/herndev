@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blizzard Legend Chris Metzen Returns To Company](https://kotaku.com/blizzard-chris-metzen-returns-wow-starcraft-diablo-1849901021)
- - [Rick and Morty Creator Used Controversial AI Art, Voice Acting In New Shooter](https://kotaku.com/high-on-life-justin-roiland-ai-art-rick-morty-1849900835)
- - [The best hobby tools for getting started with miniatures](https://www.pcgamer.com/the-best-hobby-tools-for-getting-started-with-miniatures)<!-- GAME:END -->
+ - [They really all came crawlin&#39; back to Steam, didn&#39;t they?](https://www.pcgamer.com/they-really-all-came-crawlin-back-to-steam-didnt-they)
+ - [Magic’s $1000 30th Anniversary set evoked nostalgia, but for whom?](https://www.pcgamer.com/magics-dollar1000-30th-anniversary-set-evoked-nostalgia-but-for-who)
+ - [It looks like Call of Duty&#39;s anti-cheat is permabanning innocent players](https://www.pcgamer.com/it-looks-like-call-of-dutys-anti-cheat-is-permabanning-innocent-players)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
