@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Finally, the prog metal album that PC gaming deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)
  - [Potion Craft is Now Available on Xbox!](https://news.xbox.com/en-us/2022/12/16/potion-craft-is-now-available-on-xbox/)
- - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)
- - [US senator asks Gabe Newell what Valve is doing to fight Nazis on Steam](https://www.pcgamer.com/us-senator-asks-gabe-newell-what-valve-is-doing-to-fight-nazis-on-steam)<!-- GAME:END -->
+ - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
