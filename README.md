@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Who?](http://9gag.com/gag/aKEx316)
- - ⏩ [What are your thoughts on this? Could be happening in other western countries too](http://9gag.com/gag/a4oQjQy)
- - 👉 [Biology is gradually coming to be meaningless.](http://9gag.com/gag/avQ8nyd)<!-- MEMES:END -->
+ - 💣 [White man&#39;s w\u00f6rld](http://9gag.com/gag/aPgYMPG)
+ - ⏩ [Elon&#39;s jet has been on Epstein Island many times](http://9gag.com/gag/aEq2nqo)
+ - 👉 [Show me your worst gif!](http://9gag.com/gag/aXnYAe2)<!-- MEMES:END -->
 
 ---
 
