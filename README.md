@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [[Thread] Meta is shutting down Super, a Cameo-like app that let people pay creators or celebrities to interact with them in a live stream, on February 15, 2023 &lpar;Josh Constine/@joshconstine&rpar;](http://www.techmeme.com/221215/p41#a221215p41)
- - [Sesame Joins List of 8 Other Food Allergens to Require a Warning Label     - CNET](https://www.cnet.com/health/sesame-joins-list-of-8-other-food-allergens-to-require-special-labeling/#ftag=CAD590a51e)
- - [Deion &#39;Coach Prime&#39; Sanders Docuseries Coming to Amazon Prime Video on Dec. 29     - CNET](https://www.cnet.com/culture/entertainment/deion-coach-prime-sanders-docuseries-coming-to-amazon-prime-video-on-dec-29/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk starts banning critical journalists from Twitter](https://www.theverge.com/2022/12/15/23512004/elon-musk-starts-banning-critical-journalists-from-twitter)
+ - [[Thread] Twitter suspends accounts of journalists who cover Elon Musk, including WaPo&#39;s Drew Harwell, NYT&#39;s Ryan Mac, CNN&#39;s Donie O&#39;Sullivan, and Aaron Rupar &lpar;Ben Collins/@oneunderscore__&rpar;](http://www.techmeme.com/221215/p42#a221215p42)
+ - [Twitter suspends Mastodon after it tweeted about Elon’s jet](https://www.theverge.com/2022/12/15/23511894/twitter-suspends-mastodon-tweeted-about-elons-jet-elonjet)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
