@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, the prog metal album that PC gaming deserves](https://www.pcgamer.com/finally-the-prog-metal-album-that-pc-gaming-deserves)
- - [Potion Craft is Now Available on Xbox!](https://news.xbox.com/en-us/2022/12/16/potion-craft-is-now-available-on-xbox/)
- - [New $100 Diablo IV ‘Collector’s Box’ Doesn’t Include Game](https://kotaku.com/diablo-iv-4-blizzard-collectors-box-contents-price-1849905649)<!-- GAME:END -->
+ - [Whoa Scoob, Shaggy&#39;s gonna be like, the bad guy in a Five Nights at Freddy&#39;s movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)
+ - [Collectible tactics game Duelyst is back, and free as ever, in Duelyst 2](https://www.pcgamer.com/collectible-tactics-game-duelyst-is-back-and-free-as-ever-in-duelyst-2)
+ - [Streamer xQc Says He Put $500,000 On France To Win The World Cup, Womp](https://kotaku.com/world-cup-final-bet-argentina-france-xqc-lose-money-1849909003)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
