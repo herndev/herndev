@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Q&amp;A with Coinbase Ventures&#39; head Shan Aggarwal on the impact of FTX&#39;s collapse on his VC firm&#39;s 400+ company portfolio, ramifications for the industry, and more &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/221219/p4#a221219p4)
  - [Twitter deletes @TwitterSafety&#39;s thread and a webpage detailing its new policy to prevent accounts from promoting other social media platforms &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/221219/p3#a221219p3)
- - [A look at Performance Max, Google&#39;s black box ad product for all its owned media that can&#39;t break down by price, ad format, media channel, or creative elements &lpar;James Hercher/AdExchanger&rpar;](http://www.techmeme.com/221219/p2#a221219p2)
- - [You told us: You think Samsung can deliver a Snapdragon beater](https://www.androidauthority.com/samsung-beat-snapdragon-smartphone-chip-poll-results-3257807/)<!-- TECH:END -->
+ - [A look at Performance Max, Google&#39;s black box ad product for all its owned media that can&#39;t break down by price, ad format, media channel, or creative elements &lpar;James Hercher/AdExchanger&rpar;](http://www.techmeme.com/221219/p2#a221219p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
