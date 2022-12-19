@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
- - 👉 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 💣 [The US military used compressed air to deliver vaccines through the skin without a needle from the 1960s until the 1990s](http://9gag.com/gag/aMEZVY1)
+ - ⏩ [Slovenian man finishes 10km marathon after being told he will never walk again. He was paralysed after one wrong move during surfboarding.](http://9gag.com/gag/aEq2A09)
+ - 👉 [Sorry for WM](http://9gag.com/gag/a6qO5Qe)<!-- MEMES:END -->
 
 ---
 
