@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some lucky US consumers will soon get their hands on Nothing Phone 1](https://www.androidauthority.com/nothing-phone-1-us-beta-test-3257800/)
- - [Twitter has deleted @TwitterSafety&#39;s tweets and a webpage detailing its new policy to prevent accounts from promoting other social media platforms &lpar;Molly White/@molly0xfff&rpar;](http://www.techmeme.com/221218/p10#a221218p10)
- - [After Musk said that major new policies will go to a vote, @TwitterSafety posts a poll on whether accounts primarily promoting other platforms should be allowed &lpar;@twittersafety&rpar;](http://www.techmeme.com/221218/p9#a221218p9)<!-- TECH:END -->
+ - [Twitter deletes @TwitterSafety&#39;s thread and a webpage detailing its new policy to prevent accounts from promoting other social media platforms &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/221219/p3#a221219p3)
+ - [A look at Performance Max, Google&#39;s black box ad product for all its owned media that can&#39;t break down by price, ad format, media channel, or creative elements &lpar;James Hercher/AdExchanger&rpar;](http://www.techmeme.com/221219/p2#a221219p2)
+ - [You told us: You think Samsung can deliver a Snapdragon beater](https://www.androidauthority.com/samsung-beat-snapdragon-smartphone-chip-poll-results-3257807/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
