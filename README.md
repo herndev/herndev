@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - ⏩ [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
- - 👉 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
+ - 💣 [Jane Goodall take the rehabilitated chimpanzee, back into the wild, and he is incredibly thankful to her. \ud83c\udfa5 Jane Goodall](http://9gag.com/gag/ajV87O1)
+ - ⏩ [Old people will know](http://9gag.com/gag/aMEZxDA)
+ - 👉 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
 
 ---
 
