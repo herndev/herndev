@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - ⏩ [Police in SWAT gear fear for their safety.](http://9gag.com/gag/a4oQ3gw)
- - 👉 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
+ - ⏩ [Need more time](http://9gag.com/gag/armGow0)
+ - 👉 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
 
 ---
 
