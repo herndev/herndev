@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [ROCCAT&#39;s new gaming accessories merge power with beauty](https://www.pcgamer.com/roccats-new-gaming-accessories-merge-power-with-beauty)
- - [In a tornado of turn-based tactics, Hard West 2 went unfairly overlooked](https://www.pcgamer.com/in-a-tornado-of-turn-based-tactics-hard-west-2-went-unfairly-overlooked)
- - [Best Strategy Game 2022: Total War: Warhammer 3](https://www.pcgamer.com/best-strategy-game-2022-total-war-warhammer-3)<!-- GAME:END -->
+ - [NVIDIA is canning GameStream after nine years and users are pissed](https://www.pcgamer.com/nvidia-is-canning-gamestream-after-nine-years-and-users-are-pissed)
+ - [Valve is paying a whole lot of developers to keep the Steam Deck&#39;s open-source software going](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going)
+ - [ROCCAT&#39;s new gaming accessories merge power with beauty](https://www.pcgamer.com/roccats-new-gaming-accessories-merge-power-with-beauty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
