@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Lands on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-lands-on-hbo-max/#ftag=CAD590a51e)
- - [Elon Musk proposes stepping down as head of Twitter in poll](https://www.theverge.com/2022/12/18/23515764/elon-musk-head-twit-poll-tesla-doxxing-moderation)
- - [Elon Musk says polls will decide major policies at Twitter and then launches a poll that asks &quot;Should I step down as head of Twitter?&quot;; &quot;Yes&quot; is leading by 10%+ &lpar;Washington Post&rpar;](http://www.techmeme.com/221218/p8#a221218p8)<!-- TECH:END -->
+ - [Twitter has deleted @TwitterSafety&#39;s tweets and a webpage detailing its new policy to prevent accounts from promoting other social media platforms &lpar;Molly White/@molly0xfff&rpar;](http://www.techmeme.com/221218/p10#a221218p10)
+ - [After Musk said that major new policies will go to a vote, @TwitterSafety posts a poll on whether accounts primarily promoting other platforms should be allowed &lpar;@twittersafety&rpar;](http://www.techmeme.com/221218/p9#a221218p9)
+ - [&#39;Avatar: The Way of Water&#39; Ending Explained, Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-unanswered-questions/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
