@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jane Goodall take the rehabilitated chimpanzee, back into the wild, and he is incredibly thankful to her. \ud83c\udfa5 Jane Goodall](http://9gag.com/gag/ajV87O1)
- - ⏩ [Old people will know](http://9gag.com/gag/aMEZxDA)
- - 👉 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
+ - 💣 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
+ - ⏩ [Truth for women](http://9gag.com/gag/aOxY4xN)
+ - 👉 [Poor Harry](http://9gag.com/gag/abvYO58)<!-- MEMES:END -->
 
 ---
 
