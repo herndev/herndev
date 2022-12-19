@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No hard feelings, right guys?](http://9gag.com/gag/aKEx1Qg)
- - ⏩ [After 36 years](http://9gag.com/gag/a8q3AgZ)
- - 👉 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)<!-- MEMES:END -->
+ - 💣 [As I see 9GAG now...](http://9gag.com/gag/aoKeWXA)
+ - ⏩ [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
+ - 👉 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)<!-- MEMES:END -->
 
 ---
 
