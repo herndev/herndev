@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Whoa Scoob, Shaggy&#39;s gonna be like, the bad guy in a Five Nights at Freddy&#39;s movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)
- - [Collectible tactics game Duelyst is back, and free as ever, in Duelyst 2](https://www.pcgamer.com/collectible-tactics-game-duelyst-is-back-and-free-as-ever-in-duelyst-2)
- - [Streamer xQc Says He Put $500,000 On France To Win The World Cup, Womp](https://kotaku.com/world-cup-final-bet-argentina-france-xqc-lose-money-1849909003)<!-- GAME:END -->
+ - [Duke Nukem Forever Restoration mod releasing first slice this month](https://www.pcgamer.com/duke-nukem-forever-restoration-mod-releasing-first-slice-this-month)
+ - [Five new Steam games you probably missed &lpar;December 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-19-2022)
+ - [Whoa Scoob, Shaggy&#39;s gonna be like, the bad guy in a Five Nights at Freddy&#39;s movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
