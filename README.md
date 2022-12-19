@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - ⏩ [280](http://9gag.com/gag/adPLn9M)
- - 👉 [Good Vibrations.](http://9gag.com/gag/armGAy7)<!-- MEMES:END -->
+ - 💣 [You are bored? Find Professor Farnsworth!](http://9gag.com/gag/agonx36)
+ - ⏩ [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)
+ - 👉 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)<!-- MEMES:END -->
 
 ---
 
