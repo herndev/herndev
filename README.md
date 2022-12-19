@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iCloud Shared Photo Library vs. Shared Albums in Photos](https://appleinsider.com/inside/icloud/vs/icloud-shared-photo-library-vs-shared-albums-in-photos?utm_medium=rss)
- - [iOS 16.2 causes problems, Eve Matter update rolls out, and more smart home news](https://appleinsider.com/articles/22/12/19/ios-162-causes-problems-eve-matter-update-rolls-out-and-more-smart-home-news?utm_medium=rss)
- - [Getting a business started using Apple hardware is easier than ever](https://appleinsider.com/articles/22/12/19/getting-a-business-started-using-apple-hardware-is-easier-than-ever?utm_medium=rss)<!-- TECH:END -->
+ - [Helm.ai, which uses an unsupervised learning approach to its autonomous driving software, raised a $31M Series C led by Freeman Group at a $431M valuation &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/221219/p23#a221219p23)
+ - [Amazon Robotics sued for $280 million by supplier left holding the bag&lpar;s&rpar;](https://www.theverge.com/2022/12/19/23516598/amazon-sued-280-million-robot-parts-warehouse-gilimex)
+ - [Paris Commercial Court fines Apple over &#39;abusive&#39; App Store policy](https://appleinsider.com/articles/22/12/19/paris-commercial-court-fines-apple-over-abusive-app-store-policy?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
