@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What does my perfect 2022 smartphone look like?](https://www.androidauthority.com/perfect-smartphone-2022-3243847/)
- - [The Mystery of Nevada’s Ancient Reptilian Boneyard](https://www.wired.com/story/the-mystery-of-nevadas-ancient-reptilian-boneyard/)
- - [Editing videos takes forever, Wondershare Filmora 12 sets creators free](https://www.androidauthority.com/wondershare-filmora-12-3250579/)<!-- TECH:END -->
+ - [Sources: some Twitter investors were told Elon Musk would step down after three to six months and are divided on his decisions; a new CEO would report to Musk &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221219/p22#a221219p22)
+ - [Grab a Discounted Ember Smart Mug for the Coffee Aficionado on Your Gift List     - CNET](https://www.cnet.com/deals/grab-a-discounted-ember-smart-mug-for-the-coffee-aficionado-on-your-gift-list/#ftag=CAD590a51e)
+ - [Monday Night Football: How to Watch, Stream Rams vs. Packers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-rams-vs-packers-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
