@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap Has A Whole Ton Of Plans For 2023](https://kotaku.com/marvel-snap-second-dinner-features-card-battler-2023-1849910339)
- - [Where to find the Valor vendor in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-valor-vendor)
- - [Fortnite costs Epic $520M over charges of child privacy violations, microtransaction abuse](https://www.polygon.com/23516827/epic-games-ftc-settlement-fortnite-privacy-refunds)<!-- GAME:END -->
+ - [Witcher 3 Hotfix Should Help Stop It From Crashing So Much On PC](https://kotaku.com/witcher-3-pc-next-gen-upgrade-crash-framerate-ray-trace-1849910781)
+ - [Some people say I love you, Tom Cruise jumps out of airplanes](https://www.polygon.com/23516948/mission-impossible-dead-reckoning-tom-cruise-stunt-i-cant-believe-this-man)
+ - [How to get warp discs and farm warp crystals in High on Life](https://www.pcgamer.com/high-on-life-warp-discs-crystal-farm)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
