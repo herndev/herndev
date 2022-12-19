@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Epic Games pays $520M to settle child privacy violations](https://appleinsider.com/articles/22/12/19/epic-games-pays-520m-to-settle-child-privacy-violations?utm_medium=rss)
- - [Binance says Deloitte, E&amp;Y, KPMG, and PwC are &quot;currently unwilling&quot; to conduct audits on private crypto companies, after Mazars stopped providing such audits &lpar;Casey Wagner/Blockworks&rpar;](http://www.techmeme.com/221219/p19#a221219p19)
- - [This AncestryDNA Test Kit Makes a Great Outside-the-Box Gift for Just $49     - CNET](https://www.cnet.com/deals/this-ancestrydna-test-kit-makes-a-great-outside-the-box-gift-for-just-49/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What does my perfect 2022 smartphone look like?](https://www.androidauthority.com/perfect-smartphone-2022-3243847/)
+ - [The Mystery of Nevada’s Ancient Reptilian Boneyard](https://www.wired.com/story/the-mystery-of-nevadas-ancient-reptilian-boneyard/)
+ - [Editing videos takes forever, Wondershare Filmora 12 sets creators free](https://www.androidauthority.com/wondershare-filmora-12-3250579/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
