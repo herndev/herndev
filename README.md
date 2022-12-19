@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ashley Bardhan&#39;s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-plague-tale-tamagotchi-1849911976)
- - [Hideo Kojima’s Game Studio Video Looks Like A Hyper-Futuristic Episode Of MTV Cribs](https://kotaku.com/hideo-kojima-productions-death-stranding-studio-tour-1849911979)
- - [Last Of Us Showrunner Says Original Game Is ‘The Greatest Story Ever Told In Video Games’](https://kotaku.com/last-of-us-tv-hbo-greatest-story-ever-craig-mazin-1849912030)<!-- GAME:END -->
+ - [After 3 years of work, modders have remastered the first Star Wars FPS](https://www.pcgamer.com/after-3-years-of-work-modders-have-remastered-the-first-star-wars-fps)
+ - [The Best Gaming Merch of 2022 You Can Actually Show Off](https://kotaku.com/video-game-merch-clothes-vinyl-destiny-mass-effect-1849912046)
+ - [Ashley Bardhan&#39;s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-plague-tale-tamagotchi-1849911976)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
