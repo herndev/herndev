@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)
- - ⏩ [Police in SWAT gear fear for their safety.](http://9gag.com/gag/a4oQ3gw)
+ - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - ⏩ [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)
  - 👉 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
 
 ---
