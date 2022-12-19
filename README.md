@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
- - ⏩ [World cup problems](http://9gag.com/gag/aeQrZOv)
- - 👉 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)<!-- MEMES:END -->
+ - 💣 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - ⏩ [280](http://9gag.com/gag/adPLn9M)
+ - 👉 [Good Vibrations.](http://9gag.com/gag/armGAy7)<!-- MEMES:END -->
 
 ---
 
