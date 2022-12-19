@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - ⏩ [Need more time](http://9gag.com/gag/armGow0)
- - 👉 [This happens like once or twice a week now for some reason](http://9gag.com/gag/anz9Q85)<!-- MEMES:END -->
+ - 💣 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
+ - ⏩ [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 👉 [This is the 3rd time this month I&#39;m renovating](http://9gag.com/gag/ajV812g)<!-- MEMES:END -->
 
 ---
 
