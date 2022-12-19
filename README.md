@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OnePlus 11 series: What we know so far, what we want to see &lpar;Updated: Dec. 19&rpar;](https://www.androidauthority.com/oneplus-11-pro-3177299/)
- - [With These Three Wordle Starter Words It&#39;s Hard to Lose     - CNET](https://www.cnet.com/culture/with-these-three-wordle-starter-words-its-hard-to-lose/#ftag=CAD590a51e)
- - [Best Mac Mini Deals: Latest M1 Models at or Near All-Time Low Prices     - CNET](https://www.cnet.com/deals/best-mac-mini-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own](https://www.androidauthority.com/amazon-alexa-matter-3257894/)
+ - [Analysis of Elon Musk&#39;s reported attempts to raise more money for Twitter via an equity sale at an absurd price, why his successor will be unpopular, and more &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221219/p24#a221219p24)
+ - [How to use Lensa and its AI art features on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-use-lensa-and-its-ai-art-features-on-iphone?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
