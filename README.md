@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot distances itself from failed crypto sponsor and its League of Legends-loving CEO](https://www.polygon.com/23516549/riot-games-ftx-sam-bankman-fried-league-of-legends-deal)
- - [The Final Fantasy Pixel Remaster games are coming to Switch and PS4](https://www.polygon.com/23516573/final-fantasy-pixel-remaster-switch-ps4-release-date)
- - [How to watch the full Demon Wind movie in High on Life](https://www.pcgamer.com/high-on-life-demon-wind)<!-- GAME:END -->
+ - [Marvel Snap Has A Whole Ton Of Plans For 2023](https://kotaku.com/marvel-snap-second-dinner-features-card-battler-2023-1849910339)
+ - [Where to find the Valor vendor in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-valor-vendor)
+ - [Fortnite costs Epic $520M over charges of child privacy violations, microtransaction abuse](https://www.polygon.com/23516827/epic-games-ftc-settlement-fortnite-privacy-refunds)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
