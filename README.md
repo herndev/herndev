@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - ⏩ [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 💣 [No hard feelings, right guys?](http://9gag.com/gag/aKEx1Qg)
+ - ⏩ [After 36 years](http://9gag.com/gag/a8q3AgZ)
+ - 👉 [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)<!-- MEMES:END -->
 
 ---
 
