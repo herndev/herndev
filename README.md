@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
  - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 👉 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
 
 ---
 
