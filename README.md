@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Binance&#39;s BNB token dropped 9% over the past month, even as bitcoin remains steady, after record outflows; BNB has jumped over 1,600% in the past three years &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/221219/p5#a221219p5)
- - [Facebook Marketplace: Your home for old furniture, DVDs, and a Pixel Tablet](https://www.androidauthority.com/google-pixel-tablet-facebook-marketplace-3257809/)
- - [Q&amp;A with Coinbase Ventures&#39; head Shan Aggarwal on the impact of FTX&#39;s collapse on his VC firm&#39;s 400+ company portfolio, ramifications for the industry, and more &lpar;Gen&amp;eacute; Teare/Crunchbase News&rpar;](http://www.techmeme.com/221219/p4#a221219p4)<!-- TECH:END -->
+ - [A deep dive into the race to develop a quantum computer, which could help address climate change and food scarcity, break current encryption protocols, and more &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/221219/p7#a221219p7)
+ - [Microsoft Teams Premium is now available as a free 30-day trial](https://www.theverge.com/2022/12/19/23516363/microsoft-teams-premium-available-beta-free-trial-price-announcement)
+ - [YouTube removes Pornhub&#39;s official account, which gained nearly 900,000 subscribers over eight years, after Instagram permanently banned Pornhub in September &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221219/p6#a221219p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
