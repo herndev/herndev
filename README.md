@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: some Twitter investors were told Elon Musk would step down after three to six months and are divided on his decisions; a new CEO would report to Musk &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/221219/p22#a221219p22)
- - [Grab a Discounted Ember Smart Mug for the Coffee Aficionado on Your Gift List     - CNET](https://www.cnet.com/deals/grab-a-discounted-ember-smart-mug-for-the-coffee-aficionado-on-your-gift-list/#ftag=CAD590a51e)
- - [Monday Night Football: How to Watch, Stream Rams vs. Packers Tonight Without Cable     - CNET](https://www.cnet.com/tech/services-and-software/monday-night-football-how-to-watch-stream-rams-vs-packers-tonight-without-cable/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iCloud Shared Photo Library vs. Shared Albums in Photos](https://appleinsider.com/inside/icloud/vs/icloud-shared-photo-library-vs-shared-albums-in-photos?utm_medium=rss)
+ - [iOS 16.2 causes problems, Eve Matter update rolls out, and more smart home news](https://appleinsider.com/articles/22/12/19/ios-162-causes-problems-eve-matter-update-rolls-out-and-more-smart-home-news?utm_medium=rss)
+ - [Getting a business started using Apple hardware is easier than ever](https://appleinsider.com/articles/22/12/19/getting-a-business-started-using-apple-hardware-is-easier-than-ever?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
