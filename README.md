@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)
- - ⏩ [Reloading random objects](http://9gag.com/gag/aRE1My2)
- - 👉 [Oh god I didn&#39;t mean it!](http://9gag.com/gag/a3ZQyP1)<!-- MEMES:END -->
+ - 💣 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
+ - ⏩ [World cup problems](http://9gag.com/gag/aeQrZOv)
+ - 👉 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)<!-- MEMES:END -->
 
 ---
 
