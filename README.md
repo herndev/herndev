@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coyotes Unexpectedly Killed a Human in 2009. Scientists Now Know Why     - CNET](https://www.cnet.com/science/biology/coyotes-unexpectedly-killed-a-human-in-2009-scientists-now-know-why/#ftag=CAD590a51e)
- - [NASA Telescopes Identify Two Alien Worlds Mostly Made of Water     - CNET](https://www.cnet.com/science/space/nasa-telescopes-identify-two-alien-worlds-mostly-made-of-water/#ftag=CAD590a51e)
- - [Phones Were Boring in 2022. Here&#39;s Why They&#39;ll Be More Interesting in 2023     - CNET](https://www.cnet.com/tech/mobile/phones-were-boring-in-2022-heres-why-theyll-be-more-interesting-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk says polls will decide major policies at Twitter and then launches a poll that asks &quot;Should I step down as head of Twitter?&quot;; &quot;Yes&quot; is leading by 10%+ &lpar;Washington Post&rpar;](http://www.techmeme.com/221218/p8#a221218p8)
+ - [Mastodon Features That Twitter Should Steal &lpar;but Won’t&rpar;](https://www.wired.com/story/mastodon-features-that-twitter-should-steal-but-wont/)
+ - [Here Are Taco Bell&#39;s 2 New Mexican Pizzas     - CNET](https://www.cnet.com/culture/here-are-taco-bells-2-new-mexican-pizzas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
