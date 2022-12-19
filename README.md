@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Everything?!?](http://9gag.com/gag/a8q3qeZ)
- - ⏩ [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
- - 👉 [This is the 3rd time this month I&#39;m renovating](http://9gag.com/gag/ajV812g)<!-- MEMES:END -->
+ - 💣 [Don&#39;t go out on dates with guys who don&#39;t open the doors f...](http://9gag.com/gag/axozW8M)
+ - ⏩ [Police in SWAT gear fear for their safety.](http://9gag.com/gag/a4oQ3gw)
+ - 👉 [Old people will know](http://9gag.com/gag/aMEZxDA)<!-- MEMES:END -->
 
 ---
 
