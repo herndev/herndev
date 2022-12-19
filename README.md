@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Oppenheimer trailer sets up 2023’s great movie rivalry: Barbie versus the bomb](https://www.polygon.com/23516433/oppenheimer-trailer-christopher-nolan-cillian-murphy-release-date)
- - [NVIDIA is canning GameStream after nine years and users are pissed](https://www.pcgamer.com/nvidia-is-canning-gamestream-after-nine-years-and-users-are-pissed)
- - [Valve is paying a whole lot of developers to keep the Steam Deck&#39;s open-source software going](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going)<!-- GAME:END -->
+ - [Bear McCreary: God of War Ragnarök’s composer details scoring its beautiful soundtrack](https://blog.playstation.com/2022/12/19/bear-mccreary-god-of-war-ragnaroks-composer-details-scoring-its-beautiful-soundtrack/)
+ - [Avatar: The Way of Water’s box office total is already making waves](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [Where to find the safe code in Crisis Core Reunion](https://www.pcgamer.com/crisis-core-final-fantasy-7-reunion-safe-code)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
