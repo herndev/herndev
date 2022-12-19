@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Call Of Duty DMZ: Let&#39;s Get You Some Keycards For The Mysterious New Building 21](https://kotaku.com/call-of-duty-dmz-building-21-keycard-1849911640)
  - [2023&#39;s Big Games That Could Get Pushed Into 2024](https://kotaku.com/new-video-games-2023-release-delay-final-fantasy-ark-2-1849911227)
- - [The Best Way To Get Pokémon Scarlet &amp; Violet’s Only Cinderace](https://kotaku.com/pokemon-scarlet-violet-cinderace-tera-raid-best-moveset-1849911055)
- - [Epic slammed with half-a-billion dollar FTC fine in landmark ruling over Fortnite&#39;s failure to protect childrens&#39; privacy](https://www.pcgamer.com/Epic-slammed-with-half-a-billion-dollar-FTC-fine-in-landmark-ruling-over-Fortnites-failure-to-protect-childrens-privacy)<!-- GAME:END -->
+ - [The Best Way To Get Pokémon Scarlet &amp; Violet’s Only Cinderace](https://kotaku.com/pokemon-scarlet-violet-cinderace-tera-raid-best-moveset-1849911055)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
