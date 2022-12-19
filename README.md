@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own](https://www.androidauthority.com/amazon-alexa-matter-3257894/)
- - [Analysis of Elon Musk&#39;s reported attempts to raise more money for Twitter via an equity sale at an absurd price, why his successor will be unpopular, and more &lpar;Matt Levine/Bloomberg&rpar;](http://www.techmeme.com/221219/p24#a221219p24)
- - [How to use Lensa and its AI art features on iPhone](https://appleinsider.com/inside/iphone/tips/how-to-use-lensa-and-its-ai-art-features-on-iphone?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter’s latest unexpected change is square profile pictures for brands](https://www.theverge.com/2022/12/19/23517306/twitter-square-profile-pictures-update)
+ - [The best magnetic chargers to buy for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
+ - [Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own](https://www.androidauthority.com/amazon-alexa-matter-3257894/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
