@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 548 answer and hint for Monday, December 19](https://www.pcgamer.com/wordle-548-answer-december-19)
  - [Who should Henry Cavill play in Amazon&#39;s Warhammer 40,000?](https://www.pcgamer.com/who-should-henry-cavill-play-in-amazons-warhammer-40000)
- - [You can buy a portable quantum computer for under $9K](https://www.pcgamer.com/you-can-buy-a-portable-quantum-computer-for-under-dollar9k)
- - [Riot Games Trying To Get Out Of Terrible Crypto Sponsorship Deal](https://kotaku.com/riot-games-ftx-cryptocurrency-exchange-sponsorship-sue-1849909204)<!-- GAME:END -->
+ - [You can buy a portable quantum computer for under $9K](https://www.pcgamer.com/you-can-buy-a-portable-quantum-computer-for-under-dollar9k)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
