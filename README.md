@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter’s latest unexpected change is square profile pictures for brands](https://www.theverge.com/2022/12/19/23517306/twitter-square-profile-pictures-update)
- - [The best magnetic chargers to buy for your MagSafe iPhone](https://www.theverge.com/23505846/best-magsafe-magnetic-chargers-apple-iphone)
- - [Amazon brings Matter to Echo devices, plugs, bulbs, and other devices you own](https://www.androidauthority.com/amazon-alexa-matter-3257894/)<!-- TECH:END -->
+ - [Apple shares details of AirTag firmware updates](https://appleinsider.com/articles/22/12/19/apple-shares-details-of-airtag-firmware-updates?utm_medium=rss)
+ - [More People Need to Watch This Spanish Time Travel Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-spanish-time-travel-gem-on-netflix/#ftag=CAD590a51e)
+ - [NASA DART Mission Might Have Ejected Over 2 Million Pounds of Rock Into Space     - CNET](https://www.cnet.com/science/space/nasa-dart-mission-might-have-ejected-over-2-million-pounds-of-rock-into-space/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
