@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [2023&#39;s Big Games That Could Get Pushed Into 2024](https://kotaku.com/new-video-games-2023-release-delay-final-fantasy-ark-2-1849911227)
  - [The Best Way To Get Pokémon Scarlet &amp; Violet’s Only Cinderace](https://kotaku.com/pokemon-scarlet-violet-cinderace-tera-raid-best-moveset-1849911055)
- - [Epic slammed with half-a-billion dollar FTC fine in landmark ruling over Fortnite&#39;s failure to protect childrens&#39; privacy](https://www.pcgamer.com/Epic-slammed-with-half-a-billion-dollar-FTC-fine-in-landmark-ruling-over-Fortnites-failure-to-protect-childrens-privacy)
- - [FIFA video game correctly predicts its fourth — and likely last — World Cup winner in a row](https://www.polygon.com/23517126/fifa-23-world-cup-prediction-correct-ea-sports-argentina)<!-- GAME:END -->
+ - [Epic slammed with half-a-billion dollar FTC fine in landmark ruling over Fortnite&#39;s failure to protect childrens&#39; privacy](https://www.pcgamer.com/Epic-slammed-with-half-a-billion-dollar-FTC-fine-in-landmark-ruling-over-Fortnites-failure-to-protect-childrens-privacy)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
