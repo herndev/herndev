@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - ⏩ [The point](http://9gag.com/gag/a1PQ062)
- - 👉 [Thought it might be appreciated here.](http://9gag.com/gag/avQ8EEX)<!-- MEMES:END -->
+ - 💣 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)
+ - ⏩ [Reloading random objects](http://9gag.com/gag/aRE1My2)
+ - 👉 [Oh god I didn&#39;t mean it!](http://9gag.com/gag/a3ZQyP1)<!-- MEMES:END -->
 
 ---
 
