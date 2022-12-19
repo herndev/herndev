@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You are bored? Find Professor Farnsworth!](http://9gag.com/gag/agonx36)
- - ⏩ [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)
- - 👉 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)<!-- MEMES:END -->
+ - 💣 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
+ - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
+ - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
 
