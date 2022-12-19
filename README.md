@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Who should Henry Cavill play in Amazon&#39;s Warhammer 40,000?](https://www.pcgamer.com/who-should-henry-cavill-play-in-amazons-warhammer-40000)
  - [You can buy a portable quantum computer for under $9K](https://www.pcgamer.com/you-can-buy-a-portable-quantum-computer-for-under-dollar9k)
- - [Riot Games Trying To Get Out Of Terrible Crypto Sponsorship Deal](https://kotaku.com/riot-games-ftx-cryptocurrency-exchange-sponsorship-sue-1849909204)
- - [Duke Nukem Forever Restoration mod releasing first slice this month](https://www.pcgamer.com/duke-nukem-forever-restoration-mod-releasing-first-slice-this-month)<!-- GAME:END -->
+ - [Riot Games Trying To Get Out Of Terrible Crypto Sponsorship Deal](https://kotaku.com/riot-games-ftx-cryptocurrency-exchange-sponsorship-sue-1849909204)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
