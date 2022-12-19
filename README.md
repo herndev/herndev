@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [ROCCAT&#39;s new gaming accessories merge power with beauty](https://www.pcgamer.com/roccats-new-gaming-accessories-merge-power-with-beauty)
  - [In a tornado of turn-based tactics, Hard West 2 went unfairly overlooked](https://www.pcgamer.com/in-a-tornado-of-turn-based-tactics-hard-west-2-went-unfairly-overlooked)
- - [Best Strategy Game 2022: Total War: Warhammer 3](https://www.pcgamer.com/best-strategy-game-2022-total-war-warhammer-3)
- - [Best Ongoing Game 2022: Guild Wars 2](https://www.pcgamer.com/best-ongoing-game-2022-guild-wars-2)<!-- GAME:END -->
+ - [Best Strategy Game 2022: Total War: Warhammer 3](https://www.pcgamer.com/best-strategy-game-2022-total-war-warhammer-3)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
