@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drake&#39;s security overstep their boundary](http://9gag.com/gag/aZDL04z)
+ - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
  - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
- - 👉 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
+ - 👉 [I ask the wise men of 9gag. Tell me whether this logic can work in a saber fight in star wars.](http://9gag.com/gag/a04QZen)<!-- MEMES:END -->
 
 ---
 
