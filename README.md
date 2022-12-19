@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some lucky US consumers will soon get their hands on Nothing Phone 1](https://www.androidauthority.com/nothing-phone-1-us-beta-test-3257800/)
  - [Twitter has deleted @TwitterSafety&#39;s tweets and a webpage detailing its new policy to prevent accounts from promoting other social media platforms &lpar;Molly White/@molly0xfff&rpar;](http://www.techmeme.com/221218/p10#a221218p10)
- - [After Musk said that major new policies will go to a vote, @TwitterSafety posts a poll on whether accounts primarily promoting other platforms should be allowed &lpar;@twittersafety&rpar;](http://www.techmeme.com/221218/p9#a221218p9)
- - [&#39;Avatar: The Way of Water&#39; Ending Explained, Unanswered Questions     - CNET](https://www.cnet.com/culture/entertainment/avatar-the-way-of-water-ending-explained-unanswered-questions/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [After Musk said that major new policies will go to a vote, @TwitterSafety posts a poll on whether accounts primarily promoting other platforms should be allowed &lpar;@twittersafety&rpar;](http://www.techmeme.com/221218/p9#a221218p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
