@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
- - ⏩ [Slovenian man finishes 10km marathon after being told he will never walk again. He was paralysed after one wrong move during surfboarding.](http://9gag.com/gag/aEq2A09)
- - 👉 [Unless it&#39;s elden ring](http://9gag.com/gag/agon7Mr)<!-- MEMES:END -->
+ - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
+ - ⏩ [The point](http://9gag.com/gag/a1PQ062)
+ - 👉 [Thought it might be appreciated here.](http://9gag.com/gag/avQ8EEX)<!-- MEMES:END -->
 
 ---
 
