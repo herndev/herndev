@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Call Of Duty DMZ: Let&#39;s Get You Some Keycards For The Mysterious New Building 21](https://kotaku.com/call-of-duty-dmz-building-21-keycard-1849911640)
- - [2023&#39;s Big Games That Could Get Pushed Into 2024](https://kotaku.com/new-video-games-2023-release-delay-final-fantasy-ark-2-1849911227)
- - [The Best Way To Get Pokémon Scarlet &amp; Violet’s Only Cinderace](https://kotaku.com/pokemon-scarlet-violet-cinderace-tera-raid-best-moveset-1849911055)<!-- GAME:END -->
+ - [Ashley Bardhan&#39;s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-plague-tale-tamagotchi-1849911976)
+ - [Hideo Kojima’s Game Studio Video Looks Like A Hyper-Futuristic Episode Of MTV Cribs](https://kotaku.com/hideo-kojima-productions-death-stranding-studio-tour-1849911979)
+ - [Last Of Us Showrunner Says Original Game Is ‘The Greatest Story Ever Told In Video Games’](https://kotaku.com/last-of-us-tv-hbo-greatest-story-ever-craig-mazin-1849912030)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
