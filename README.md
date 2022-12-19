@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 548 answer and hint for Monday, December 19](https://www.pcgamer.com/wordle-548-answer-december-19)
- - [Who should Henry Cavill play in Amazon&#39;s Warhammer 40,000?](https://www.pcgamer.com/who-should-henry-cavill-play-in-amazons-warhammer-40000)
- - [You can buy a portable quantum computer for under $9K](https://www.pcgamer.com/you-can-buy-a-portable-quantum-computer-for-under-dollar9k)<!-- GAME:END -->
+ - [In a tornado of turn-based tactics, Hard West 2 went unfairly overlooked](https://www.pcgamer.com/in-a-tornado-of-turn-based-tactics-hard-west-2-went-unfairly-overlooked)
+ - [Best Strategy Game 2022: Total War: Warhammer 3](https://www.pcgamer.com/best-strategy-game-2022-total-war-warhammer-3)
+ - [Best Ongoing Game 2022: Guild Wars 2](https://www.pcgamer.com/best-ongoing-game-2022-guild-wars-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
