@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riot Games Trying To Get Out Of Terrible Crypto Sponsorship Deal](https://kotaku.com/riot-games-ftx-cryptocurrency-exchange-sponsorship-sue-1849909204)
  - [Duke Nukem Forever Restoration mod releasing first slice this month](https://www.pcgamer.com/duke-nukem-forever-restoration-mod-releasing-first-slice-this-month)
- - [Five new Steam games you probably missed &lpar;December 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-19-2022)
- - [Whoa Scoob, Shaggy&#39;s gonna be like, the bad guy in a Five Nights at Freddy&#39;s movie](https://www.pcgamer.com/whoa-scoob-shaggys-gonna-be-like-the-bad-guy-in-a-five-nights-at-freddys-movie)<!-- GAME:END -->
+ - [Five new Steam games you probably missed &lpar;December 19, 2022&rpar;](https://www.pcgamer.com/five-new-steam-games-you-probably-missed-december-19-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
