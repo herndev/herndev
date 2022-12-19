@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple iOS 16 and iPadOS 16 &lpar;2022&rpar;: How to Download, New Features, Supported Devices](https://www.wired.com/story/apple-iphone-ios-16-ipados-16-new-features/)
- - [Empathy in the Age of AI](https://www.wired.com/story/artificial-intelligence-animals-anthropomorphism/)
- - [YouTube announces Courses in India, letting teachers post videos and reading materials for free or for a fee in several regional languages, rolling out &quot;soon&quot; &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221219/p12#a221219p12)<!-- TECH:END -->
+ - [The DOJ says Karl Sebastian Greenwood, who co-founded the $4B+ fraudulent OneCoin scheme, has pleaded guilty to wire fraud and other charges &lpar;Associated Press&rpar;](http://www.techmeme.com/221219/p16#a221219p16)
+ - [Your custom Android home screens really wowed us in 2022!](https://www.androidauthority.com/android-home-screens-2022-3242895/)
+ - [OnePlus announces the official launch date of the OnePlus 11](https://www.androidauthority.com/oneplus-11-launch-date-3255407/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
