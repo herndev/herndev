@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Oppenheimer trailer sets up 2023’s great movie rivalry: Barbie versus the bomb](https://www.polygon.com/23516433/oppenheimer-trailer-christopher-nolan-cillian-murphy-release-date)
  - [NVIDIA is canning GameStream after nine years and users are pissed](https://www.pcgamer.com/nvidia-is-canning-gamestream-after-nine-years-and-users-are-pissed)
- - [Valve is paying a whole lot of developers to keep the Steam Deck&#39;s open-source software going](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going)
- - [ROCCAT&#39;s new gaming accessories merge power with beauty](https://www.pcgamer.com/roccats-new-gaming-accessories-merge-power-with-beauty)<!-- GAME:END -->
+ - [Valve is paying a whole lot of developers to keep the Steam Deck&#39;s open-source software going](https://www.pcgamer.com/valve-is-paying-a-whole-lot-of-developers-to-keep-the-steam-decks-open-source-software-going)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
