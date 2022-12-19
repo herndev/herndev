@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A deep dive into the race to develop a quantum computer, which could help address climate change and food scarcity, break current encryption protocols, and more &lpar;Stephen Witt/New Yorker&rpar;](http://www.techmeme.com/221219/p7#a221219p7)
- - [Microsoft Teams Premium is now available as a free 30-day trial](https://www.theverge.com/2022/12/19/23516363/microsoft-teams-premium-available-beta-free-trial-price-announcement)
- - [YouTube removes Pornhub&#39;s official account, which gained nearly 900,000 subscribers over eight years, after Instagram permanently banned Pornhub in September &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221219/p6#a221219p6)<!-- TECH:END -->
+ - [Crypto.com&#39;s 2022 World Cup sponsorship, a symbol of how aggressively crypto companies spent on ads to gain users, was largely overshadowed by FTX&#39;s collapse &lpar;Carly Wanna/Bloomberg&rpar;](http://www.techmeme.com/221219/p10#a221219p10)
+ - [The Chilling White Lotus Scene That Epitomized 2022](https://www.wired.com/story/white-lotus-scene-epitomized-2022/)
+ - [The UK Is Enduring an Onslaught of Scarlet Fever. Is the US Next?](https://www.wired.com/story/the-uk-is-enduring-an-onslaught-of-scarlet-fever-is-the-us-next/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
