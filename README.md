@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [As I see 9GAG now...](http://9gag.com/gag/aoKeWXA)
- - ⏩ [Bros returning husband from guys night out](http://9gag.com/gag/a3ZQ5yv)
- - 👉 [Every man is born knowing this signal](http://9gag.com/gag/aPgYPwg)<!-- MEMES:END -->
+ - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
+ - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
 
