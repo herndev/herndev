@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Bear McCreary: God of War Ragnarök’s composer details scoring its beautiful soundtrack](https://blog.playstation.com/2022/12/19/bear-mccreary-god-of-war-ragnaroks-composer-details-scoring-its-beautiful-soundtrack/)
- - [Avatar: The Way of Water’s box office total is already making waves](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [Where to find the safe code in Crisis Core Reunion](https://www.pcgamer.com/crisis-core-final-fantasy-7-reunion-safe-code)<!-- GAME:END -->
+ - [Riot distances itself from failed crypto sponsor and its League of Legends-loving CEO](https://www.polygon.com/23516549/riot-games-ftx-sam-bankman-fried-league-of-legends-deal)
+ - [The Final Fantasy Pixel Remaster games are coming to Switch and PS4](https://www.polygon.com/23516573/final-fantasy-pixel-remaster-switch-ps4-release-date)
+ - [How to watch the full Demon Wind movie in High on Life](https://www.pcgamer.com/high-on-life-demon-wind)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
