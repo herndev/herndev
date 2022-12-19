@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
- - ⏩ [Truth for women](http://9gag.com/gag/aOxY4xN)
- - 👉 [Poor Harry](http://9gag.com/gag/abvYO58)<!-- MEMES:END -->
+ - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - ⏩ [Uuuummmm...](http://9gag.com/gag/aXnYoRP)
+ - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
 
