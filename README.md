@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you think you one hit a dragon](http://9gag.com/gag/a2KZyzO)
- - ⏩ [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)
- - 👉 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
+ - 💣 [Lukashenko finally speaks truth: `You know, we are co-aggressors, the most pernicious, toxic people on the planet. We only have one argument - which one&#39;s worse. Putin says it&#39;s me, I was starting to think it&#39;s him. Today we decided we are together, same amount. That&#39;s it`](http://9gag.com/gag/aeQrx2p)
+ - ⏩ [How interesting](http://9gag.com/gag/a5XM2ME)
+ - 👉 [Boy, smokes, lets go!](http://9gag.com/gag/a4oQ2EQ)<!-- MEMES:END -->
 
 ---
 
