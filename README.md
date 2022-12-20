@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Changpeng Zhao confirms Binance acquired the remaining 49% stake in Indonesia&#39;s crypto exchange Tokocrypto; the unit will cut 58% of jobs and replace its CEO &lpar;Norman Harsono/Bloomberg&rpar;](http://www.techmeme.com/221220/p9#a221220p9)
- - [Amazon quietly launches Prime Gaming in India, weeks after testing the service, offering Prime and Video subscribers access to mobile, PC, and Mac games &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221220/p8#a221220p8)
- - [Mastodon CEO Eugen Rochko says the social network reached 2.5M MAUs in November, up from around 300,000 in October, as Twitter users flee the service &lpar;Jay Peters/The Verge&rpar;](http://www.techmeme.com/221220/p7#a221220p7)<!-- TECH:END -->
+ - [A look at Modulo Capital, a mysterious multi-strategy hedge fund founded in 2022 and based in Albany in The Bahamas, which received $400M from Alameda Research &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221220/p13#a221220p13)
+ - [Conscious Machines May Never Be Possible](https://www.wired.com/story/artificial-intelligence-consciousness/)
+ - [9 Best Retro Game Consoles &lpar;2022&rpar;: Evercade, Polymega, Analogue Pocket, and Controllers](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
