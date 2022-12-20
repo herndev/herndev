@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Remote work and tech layoffs hollow out San Francisco, where only 43.1% of workers are back at offices, compared to LA&#39;s 46.1%, NYC&#39;s 47.6%, and Austin&#39;s 62.7% &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p4#a221220p4)
- - [We asked, you told us: Chrome OS has plenty of regular users](https://www.androidauthority.com/chrome-os-use-last-year-poll-results-3258273/)
- - [&#39;Santa Should Phase Out Coal&#39; For Naughty Kids This Christmas     - CNET](https://www.cnet.com/culture/santa-should-phase-out-coal-for-naughty-kids-this-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: DCG is attempting to raise capital and avoid bankruptcy for its Genesis subsidiary in part to avert a $350M loan repayment to Todd Boehly&#39;s Eldridge &lpar;Nikou Asgari/Financial Times&rpar;](http://www.techmeme.com/221220/p6#a221220p6)
+ - [An analysis shows how Chinese-language bots on Twitter drowned out tweets about protests over China&#39;s zero-COVID-19 policy, as people sought to evade censors &lpar;New York Times&rpar;](http://www.techmeme.com/221220/p5#a221220p5)
+ - [The 29 Absolute Best Movies to Watch on Prime Video     - CNET](https://www.cnet.com/culture/entertainment/the-29-absolute-best-movies-to-watch-on-amazon-prime-video-in-december-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
