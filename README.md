@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)
- - ⏩ [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)
- - 👉 [The US military used compressed air to deliver vaccines through the skin without a needle from the 1960s until the 1990s](http://9gag.com/gag/aMEZVY1)<!-- MEMES:END -->
+ - 💣 [Window!? what a luxury](http://9gag.com/gag/aA032jp)
+ - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
+ - 👉 [The sad truth.](http://9gag.com/gag/a8q3eoY)<!-- MEMES:END -->
 
 ---
 
