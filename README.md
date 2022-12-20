@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is pure gold](http://9gag.com/gag/axozRmD)
- - ⏩ [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - 👉 [Which one](http://9gag.com/gag/anz92oV)<!-- MEMES:END -->
+ - 💣 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
+ - ⏩ [Things have changed](http://9gag.com/gag/aZDLzmp)
+ - 👉 [Trash me all day but it&#39;ll still cost you $8](http://9gag.com/gag/ay2BYBV)<!-- MEMES:END -->
 
 ---
 
