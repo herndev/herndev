@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to create emergency contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-emergency-contacts-in-ios-16?utm_medium=rss)
- - [Spaceflight Companies Promised to Do Science—So How’s It Going?](https://www.wired.com/story/spaceflight-companies-promised-to-do-science-so-hows-it-going/)
- - [Apple plans to make MacBooks in Vietnam from mid-2023](https://appleinsider.com/articles/22/12/20/apple-plans-to-make-macbooks-in-vietnam-from-mid-2023?utm_medium=rss)<!-- TECH:END -->
+ - [The biggest smartphone fails of 2022](https://www.androidauthority.com/biggest-smartphone-fails-of-2022-3242255/)
+ - [Save Your Gear From the Elements With These Waterproof Bags](https://www.wired.com/story/matador-flatpak-dry-bag-rave/)
+ - [Billionaires Are A Security Threat](https://www.wired.com/story/twitter-elon-musk-open-source-platforms/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
