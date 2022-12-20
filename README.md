@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)
- - ⏩ [Things have changed](http://9gag.com/gag/aZDLzmp)
- - 👉 [Trash me all day but it&#39;ll still cost you $8](http://9gag.com/gag/ay2BYBV)<!-- MEMES:END -->
+ - 💣 [Imagine that nonsense is even discussed on TV. What a disgrace and nonsense](http://9gag.com/gag/aZDL2w0)
+ - ⏩ [This is pure gold](http://9gag.com/gag/axozRmD)
+ - 👉 [When your browser history follows you](http://9gag.com/gag/a8q304p)<!-- MEMES:END -->
 
 ---
 
