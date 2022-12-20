@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s AI-generated photo-based graphics will blow your tiny mind](https://www.pcgamer.com/nvidias-ai-generated-photo-based-graphics-will-blow-your-tiny-mind)
- - [Internet squared: After meme-crashing the Game Awards, &#39;reformed orthodox rabbi&#39; Bill Clinton comes to Elden Ring](https://www.pcgamer.com/internet-squared-after-meme-crashing-the-game-awards-reformed-orthodox-rabbi-bill-clinton-comes-to-elden-ring)
- - [DualSense Edge wireless controller hands-on — key takeaways](https://blog.playstation.com/2022/12/20/dualsense-edge-wireless-controller-hands-on-key-takeaways/)<!-- GAME:END -->
+ - [Support charity and win a set of Winter Wonderland gaming peripherals by entering our giveaway!](https://www.pcgamer.com/support-charity-and-win-a-set-of-winter-wonderland-gaming-peripherals-by-entering-our-giveaway)
+ - [Activision Blizzard President Leaves To Take Over Bored Ape Yacht Club](https://kotaku.com/activision-blizzard-daniel-alegre-yuga-labs-bayc-ceo-1849914535)
+ - [PS.Blog Game of the Year 2022: The Winners](https://blog.playstation.com/2022/12/20/ps-blog-game-of-the-year-2022-the-winners/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
