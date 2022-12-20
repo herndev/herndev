@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When your browser history follows you](http://9gag.com/gag/a8q304p)
- - ⏩ [The timing on this.](http://9gag.com/gag/a2KZLNe)
- - 👉 [Pranks that don\u2019t hurt anyone](http://9gag.com/gag/awZAYVy)<!-- MEMES:END -->
+ - 💣 [Mfs knew the Dinosaurs on a first name basis](http://9gag.com/gag/ap9mx4B)
+ - ⏩ [What a Beauty !](http://9gag.com/gag/aNwYB0K)
+ - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
 
