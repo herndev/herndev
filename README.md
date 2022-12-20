@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Irrational or not, I still long for a screenless Fitbit](https://www.androidauthority.com/screenless-fitbit-flex-3-3248911/)
- - [Brave the Winter Chill With Up to 45% Off Amazon Winter Styles     - CNET](https://www.cnet.com/deals/brave-the-winter-chill-with-up-to-45-off-amazon-winter-styles/#ftag=CAD590a51e)
- - [Save $120 On This 43-inch Pioneer 4K TV and Get a Free Echo Dot Smart Speaker     - CNET](https://www.cnet.com/deals/save-120-on-this-43-inch-pioneer-4k-tv-and-get-a-free-echo-dot-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [South Korean financial super app Toss raised $405M Series G at a 9.1T won valuation, or ~$7B, after a 8.5T won valuation in June &#39;21; Toss Bank has 5M users &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/221220/p24#a221220p24)
+ - [UCOMX Nano 3-in-1 Wireless Charger review: Budget-friendly alternative to the MagSafe Duo](https://appleinsider.com/articles/22/12/20/ucomx-nano-3-in-1-wireless-charger-review-budget-friendly-alternative-to-the-magsafe-duo?utm_medium=rss)
+ - [Logitech’s new iPad keyboard and stylus are a better buy than Apple’s](https://www.theverge.com/23505470/logitech-crayon-combo-touch-10th-gen-ipad-review-comparison)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
