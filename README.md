@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
- - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
- - 👉 [The sad truth.](http://9gag.com/gag/a8q3eoY)<!-- MEMES:END -->
+ - ⏩ [The sad truth.](http://9gag.com/gag/a8q3eoY)
+ - 👉 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
 
 ---
 
