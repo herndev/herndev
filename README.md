@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Didn\u2019t know seagulls we\u2019re allowed on bikes](http://9gag.com/gag/aeQrmYQ)
- - ⏩ [Maybe](http://9gag.com/gag/aRE1vvB)
- - 👉 [Lukashenko finally speaks truth: `You know, we are co-aggressors, the most pernicious, toxic people on the planet. We only have one argument - which one&#39;s worse. Putin says it&#39;s me, I was starting to think it&#39;s him. Today we decided we are together, same amount. That&#39;s it`](http://9gag.com/gag/aeQrx2p)<!-- MEMES:END -->
+ - 💣 [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)
+ - ⏩ [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)
+ - 👉 [The US military used compressed air to deliver vaccines through the skin without a needle from the 1960s until the 1990s](http://9gag.com/gag/aMEZVY1)<!-- MEMES:END -->
 
 ---
 
