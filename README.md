@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - ⏩ [You are bored? Find Professor Farnsworth!](http://9gag.com/gag/agonx36)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 💣 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - ⏩ [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - 👉 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)<!-- MEMES:END -->
 
 ---
 
