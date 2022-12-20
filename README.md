@@ -38,7 +38,7 @@
 <!-- TECH:START -->
  - [Remote work and tech layoffs hollow out San Francisco, where only 43.1% of workers are back at offices, compared to LA&#39;s 46.1%, NYC&#39;s 47.6%, and Austin&#39;s 62.7% &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p4#a221220p4)
  - [We asked, you told us: Chrome OS has plenty of regular users](https://www.androidauthority.com/chrome-os-use-last-year-poll-results-3258273/)
- - [Twitter pilots Blue for Business with select businesses, helping companies identify employees via an additional badge, but doesn&#39;t share other perks and pricing &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221220/p3#a221220p3)<!-- TECH:END -->
+ - [&#39;Santa Should Phase Out Coal&#39; For Naughty Kids This Christmas     - CNET](https://www.cnet.com/culture/santa-should-phase-out-coal-for-naughty-kids-this-christmas/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
