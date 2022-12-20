@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [100+ BTC was moved out of cold storage wallets tied to QuadrigaCX, the exchange that went bankrupt after its CEO allegedly died, claimed to be inaccessible &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221220/p1#a221220p1)
- - [Source: Sam Bankman-Fried agrees voluntarily to be extradited to the US, where he is facing multiple criminal and civil charges, including conspiracy and fraud &lpar;Washington Post&rpar;](http://www.techmeme.com/221219/p34#a221219p34)
- - [Apple fixes a vulnerability, reported by Microsoft, that allowed attackers to bypass the macOS feature that checks if apps are notarized and developer-signed &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221219/p33#a221219p33)<!-- TECH:END -->
+ - [Chinese media reports: Xiaomi plans to lay off ~15% of its 35,314 employees amid weaker sales due to China&#39;s COVID-19 lockdowns and slower consumer spending &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221220/p2#a221220p2)
+ - [Save $120 on Apple&#39;s Midnight M2 MacBook Air w/ 16GB RAM, 512GB SSD, in stock for Christmas](https://appleinsider.com/articles/22/12/17/save-120-on-apples-midnight-m2-macbook-air-w-16gb-ram-512gb-ssd-in-stock-for-christmas?utm_medium=rss)
+ - [100+ BTC claimed to be inaccessible was moved out of cold wallets tied to QuadrigaCX, the exchange that went bankrupt in 2019 after its CEO allegedly died &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221220/p1#a221220p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
