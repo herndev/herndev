@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [How to craft a Dead Raiser in Valheim](https://www.pcgamer.com/valheim-dead-raiser)
  - [AMD dismisses reports of RDNA 3 graphics bugs](https://www.pcgamer.com/amd-dismisses-reports-of-rdna-3-graphics-bugs)
- - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)
- - [Best Early Access 2022: Disney Dreamlight Valley](https://www.pcgamer.com/best-early-access-2022-disney-dreamlight-valley)<!-- GAME:END -->
+ - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
