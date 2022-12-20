@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Musk&#39;s Twitter meltdown reeks of &#39;00s forum mod tantrums](https://www.pcgamer.com/musks-twitter-meltdown-reeks-of-00s-forum-mod-tantrums)
- - [Warzone 2.0 Finally Lets Players Purchase Full Loadouts](https://kotaku.com/warzone-2-call-of-duty-loadout-mw2-1849916482)
- - [The State Of The Nintendo Switch In 2022](https://kotaku.com/nintendo-switch-pro-pokemon-scarlet-violet-arceus-2022-1849916169)<!-- GAME:END -->
+ - [River City Girls 2 Is The Beat ‘Em Up That Dreams Are Made Of](https://kotaku.com/river-city-girls-2-review-wayforward-beat-em-up-anime-1849916920)
+ - [New Micro FPS Is The Coolest Game Of 2022](https://kotaku.com/chop-goblins-fps-retro-shooter-dusk-steam-review-1849916817)
+ - [Valorant game director Joe Ziegler leaves Riot for Bungie](https://www.pcgamer.com/valorant-game-director-joe-ziegler-leaves-riot-for-bungie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
