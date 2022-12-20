@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one](http://9gag.com/gag/anz92oV)
- - ⏩ [Peek a boo!](http://9gag.com/gag/aXnY2g6)
- - 👉 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)<!-- MEMES:END -->
+ - 💣 [When your browser history follows you](http://9gag.com/gag/a8q304p)
+ - ⏩ [The timing on this.](http://9gag.com/gag/a2KZLNe)
+ - 👉 [Pranks that don\u2019t hurt anyone](http://9gag.com/gag/awZAYVy)<!-- MEMES:END -->
 
 ---
 
