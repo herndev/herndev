@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [South Korean financial super app Toss raised $405M Series G at a 9.1T won valuation, or ~$7B, after a 8.5T won valuation in June &#39;21; Toss Bank has 5M users &lpar;Kate Park/TechCrunch&rpar;](http://www.techmeme.com/221220/p24#a221220p24)
- - [UCOMX Nano 3-in-1 Wireless Charger review: Budget-friendly alternative to the MagSafe Duo](https://appleinsider.com/articles/22/12/20/ucomx-nano-3-in-1-wireless-charger-review-budget-friendly-alternative-to-the-magsafe-duo?utm_medium=rss)
- - [Logitech’s new iPad keyboard and stylus are a better buy than Apple’s](https://www.theverge.com/23505470/logitech-crayon-combo-touch-10th-gen-ipad-review-comparison)<!-- TECH:END -->
+ - [These are the biggest smartwatch fails and flops of 2022](https://www.androidauthority.com/biggest-smartwatch-fails-2022-3245313/)
+ - [OpenAI releases Point-E, an open-source ML system that generates and displays 3D objects from a text prompt in one to two minutes on a single Nvidia V100 GPU &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221220/p26#a221220p26)
+ - [Sources: Foxconn workers in Zhengzhou say they got COVID-19 at the plant in December and some were asked to keep working; one said he was dissuaded from testing &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/221220/p25#a221220p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
