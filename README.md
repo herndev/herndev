@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Star Wars: Dark Forces Looks Fantastic In 2022](https://kotaku.com/star-wars-dark-forces-mod-remake-rebuild-fps-pc-1849912441)
- - [High On Life Is Now The Most Popular Game On Game Pass](https://kotaku.com/high-on-life-game-pass-most-popular-xbox-pc-forza-halo-1849912640)
- - [The Week In Games: Holiday Season Edition](https://kotaku.com/december-2022-game-releases-valkyrie-profile-lenneth-1849912496)<!-- GAME:END -->
+ - [NASA Robot Sends One Of The Saddest Tweets I Have Ever Seen](https://kotaku.com/nasa-insight-rover-mars-sad-tweet-rip-goodbye-esa-1849913028)
+ - [John Carmack Quits Meta, Says &#39;This Is The End Of My Decade In VR&#39;](https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694)
+ - [Star Wars: Dark Forces Looks Fantastic In 2022](https://kotaku.com/star-wars-dark-forces-mod-remake-rebuild-fps-pc-1849912441)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
