@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple shares details of AirTag firmware updates](https://appleinsider.com/articles/22/12/19/apple-shares-details-of-airtag-firmware-updates?utm_medium=rss)
- - [More People Need to Watch This Spanish Time Travel Gem on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-spanish-time-travel-gem-on-netflix/#ftag=CAD590a51e)
- - [NASA DART Mission Might Have Ejected Over 2 Million Pounds of Rock Into Space     - CNET](https://www.cnet.com/science/space/nasa-dart-mission-might-have-ejected-over-2-million-pounds-of-rock-into-space/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dear Sharks, Steven Spielberg Is Sorry About What &#39;Jaws&#39; Did to You     - CNET](https://www.cnet.com/culture/entertainment/dear-sharks-steven-spielberg-is-sorry-about-what-jaws-did-to-you/#ftag=CAD590a51e)
+ - [More People Need to Watch This Masterful Sci-Fi Series on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-masterful-sci-fi-series-on-netflix/#ftag=CAD590a51e)
+ - [Tumblr adds support for livestreaming to its iOS and Android apps in the US; the service is powered by video platform Livebox, which lets users tip streamers &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221219/p26#a221219p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
