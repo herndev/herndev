@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1744 your wife is cheating.](http://9gag.com/gag/aXnYPdV)
- - ⏩ [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - 👉 [No one ever responded to treatment that fast, it must have combined with the previous treatments... His levels were almost three times the norm. We almost had to call the police](http://9gag.com/gag/ajV8Bwg)<!-- MEMES:END -->
+ - 💣 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - ⏩ [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
 
