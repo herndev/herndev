@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sad truth.](http://9gag.com/gag/a8q3eoY)
- - ⏩ [Gonna get shot real quick in the club](http://9gag.com/gag/ap9mxbD)
- - 👉 [B aren&#39;t loyal.](http://9gag.com/gag/aEq2WWG)<!-- MEMES:END -->
+ - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
+ - ⏩ [The sad truth.](http://9gag.com/gag/a8q3eoY)
+ - 👉 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)<!-- MEMES:END -->
 
 ---
 
