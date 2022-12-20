@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Dec. 20&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
- - [Sen. Warren&#39;s Digital Asset Anti-Money Laundering Act would be a disaster for civil liberties, effectively adding surveillance for all blockchain participants &lpar;Marta Belcher/CoinDesk&rpar;](http://www.techmeme.com/221220/p30#a221220p30)
- - [Lenovo Debuts Latest ThinkPad X1, IdeaPad 5 Laptops, Tab M9 Tablet Ahead of CES 2023     - CNET](https://www.cnet.com/tech/computing/lenovo-debuts-latest-thinkpad-x1-ideapad-5-laptops-tab-m9-tablet-ahead-of-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
+ - [Internal documents show that, going back to 2017, Twitter worked with the Pentagon to whitelist CENTCOM accounts used in online foreign influence campaigns &lpar;Lee Fang/The Intercept&rpar;](http://www.techmeme.com/221220/p31#a221220p31)
+ - [Netflix&#39;s Top Hit Shows and Movies, Ranked &lpar;According to Netflix&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-top-hit-shows-and-movies-ranked-according-to-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
