@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - ⏩ [Maybe](http://9gag.com/gag/aRE1vvB)
- - 👉 [World cup problems](http://9gag.com/gag/aeQrZOv)<!-- MEMES:END -->
+ - 💣 [The sad truth.](http://9gag.com/gag/a8q3eoY)
+ - ⏩ [Gonna get shot real quick in the club](http://9gag.com/gag/ap9mxbD)
+ - 👉 [B aren&#39;t loyal.](http://9gag.com/gag/aEq2WWG)<!-- MEMES:END -->
 
 ---
 
