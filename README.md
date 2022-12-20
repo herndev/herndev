@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)
- - ⏩ [The sad truth.](http://9gag.com/gag/a8q3eoY)
- - 👉 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)<!-- MEMES:END -->
+ - 💣 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
+ - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
+ - 👉 [The sad truth.](http://9gag.com/gag/a8q3eoY)<!-- MEMES:END -->
 
 ---
 
