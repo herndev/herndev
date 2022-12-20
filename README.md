@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Modulo Capital, a mysterious multi-strategy hedge fund founded in 2022 and based in Albany in The Bahamas, which received $400M from Alameda Research &lpar;Tracy Wang/CoinDesk&rpar;](http://www.techmeme.com/221220/p13#a221220p13)
- - [Conscious Machines May Never Be Possible](https://www.wired.com/story/artificial-intelligence-consciousness/)
- - [9 Best Retro Game Consoles &lpar;2022&rpar;: Evercade, Polymega, Analogue Pocket, and Controllers](https://www.wired.com/gallery/best-retro-gaming-consoles/)<!-- TECH:END -->
+ - [How to create emergency contacts in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-create-emergency-contacts-in-ios-16?utm_medium=rss)
+ - [Spaceflight Companies Promised to Do Science—So How’s It Going?](https://www.wired.com/story/spaceflight-companies-promised-to-do-science-so-hows-it-going/)
+ - [Apple plans to make MacBooks in Vietnam from mid-2023](https://appleinsider.com/articles/22/12/20/apple-plans-to-make-macbooks-in-vietnam-from-mid-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
