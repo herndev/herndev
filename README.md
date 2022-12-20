@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - ⏩ [World cup problems](http://9gag.com/gag/aeQrZOv)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
+ - ⏩ [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - 👉 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)<!-- MEMES:END -->
 
 ---
 
