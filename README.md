@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese media reports: Xiaomi plans to lay off ~15% of its 35,314 employees amid weaker sales due to China&#39;s COVID-19 lockdowns and slower consumer spending &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221220/p2#a221220p2)
- - [Save $120 on Apple&#39;s Midnight M2 MacBook Air w/ 16GB RAM, 512GB SSD, in stock for Christmas](https://appleinsider.com/articles/22/12/17/save-120-on-apples-midnight-m2-macbook-air-w-16gb-ram-512gb-ssd-in-stock-for-christmas?utm_medium=rss)
- - [100+ BTC claimed to be inaccessible was moved out of cold wallets tied to QuadrigaCX, the exchange that went bankrupt in 2019 after its CEO allegedly died &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221220/p1#a221220p1)<!-- TECH:END -->
+ - [First Google Pixel 8 camera leak points to major upgrade](https://www.androidauthority.com/google-pixel-8-camera-leak-staggered-hdr-3250930/)
+ - [More evidence emerges about the Pixel Tablet Pro](https://www.androidauthority.com/google-pixel-tablet-pro-3258263/)
+ - [Chinese media reports: Xiaomi starts laying off ~15% of its 35,314 employees amid weaker sales due to China&#39;s COVID-19 lockdowns and slower consumer spending &lpar;Che Pan/South China Morning Post&rpar;](http://www.techmeme.com/221220/p2#a221220p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
