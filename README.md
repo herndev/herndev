@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV app rumored to hit Android smartphones soon](https://appleinsider.com/articles/22/12/20/apple-tv-app-rumored-to-hit-android-smartphones-soon?utm_medium=rss)
- - [A profile of London-based crypto trading firm Wintermute in the aftermath of UST and FTX&#39;s implosion and a $160M hack, as revenues dramatically decline in 2022 &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/221220/p22#a221220p22)
- - [Daily Deals Dec. 20: Google Nest Hub for $49.98, 31% off Apple Pencil 2 &amp; more](https://appleinsider.com/articles/22/12/20/daily-deals-dec-20-google-nest-hub-for-4998-31-off-apple-pencil-2-more?utm_medium=rss)<!-- TECH:END -->
+ - [Irrational or not, I still long for a screenless Fitbit](https://www.androidauthority.com/screenless-fitbit-flex-3-3248911/)
+ - [Brave the Winter Chill With Up to 45% Off Amazon Winter Styles     - CNET](https://www.cnet.com/deals/brave-the-winter-chill-with-up-to-45-off-amazon-winter-styles/#ftag=CAD590a51e)
+ - [Save $120 On This 43-inch Pioneer 4K TV and Get a Free Echo Dot Smart Speaker     - CNET](https://www.cnet.com/deals/save-120-on-this-43-inch-pioneer-4k-tv-and-get-a-free-echo-dot-smart-speaker/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
