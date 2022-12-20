@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mfs knew the Dinosaurs on a first name basis](http://9gag.com/gag/ap9mx4B)
- - ⏩ [What a Beauty !](http://9gag.com/gag/aNwYB0K)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 💣 [This is pure gold](http://9gag.com/gag/axozRmD)
+ - ⏩ [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - 👉 [Which one](http://9gag.com/gag/anz92oV)<!-- MEMES:END -->
 
 ---
 
