@@ -44,7 +44,7 @@
 
 <!-- MEMES:START -->
  - 💣 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
- - ⏩ [Monke land](http://9gag.com/gag/anz92YE)
+ - ⏩ [You are bored? Find Professor Farnsworth!](http://9gag.com/gag/agonx36)
  - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
 
 ---
