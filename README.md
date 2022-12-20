@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - ⏩ [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 👉 [Messi really did make it in life](http://9gag.com/gag/aVbYogP)<!-- MEMES:END -->
+ - 💣 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)
+ - ⏩ [Thats what friends are for](http://9gag.com/gag/a3ZQWd5)
+ - 👉 [Ladies and gentlemen we got em](http://9gag.com/gag/axozPVD)<!-- MEMES:END -->
 
 ---
 
