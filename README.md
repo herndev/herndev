@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter says the #WC2022 tag for the FIFA World Cup generated 147B impressions, surpassing #WC2018 and over twice the impressions of the #Tokyo2020 Olympics &lpar;Twitter&rpar;](http://www.techmeme.com/221219/p28#a221219p28)
- - [Elon Musk, in a reply to a tweet suggesting that voting on policy decisions should be restricted to Blue subscribers, says &quot;Twitter will make that change&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/221219/p27#a221219p27)
- - [More People Should Watch This Tense Time Travel Thriller on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-should-watch-this-tense-time-travel-thriller-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [CyberCube, a cyber risk analytics service for insurers, raised $50M from Morgan Stanley Tactical Value, bringing its total raised to over $100M &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/221219/p32#a221219p32)
+ - [Amazon rolls out Matter smart home standard over Wi-Fi to 17 Echo devices, including Echo Dot &lpar;5th Gen&rpar; and Echo &lpar;4th Gen&rpar;, for users with Android phones &lpar;Stacey Higginbotham/Stacey on IoT&rpar;](http://www.techmeme.com/221219/p31#a221219p31)
+ - [Germany-based VMRay, which offers advanced threat detection and analysis services, raised a $34M Series B led by Tikehau Capital &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221219/p30#a221219p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
