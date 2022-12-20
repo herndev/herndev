@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s cheapest skin is this 1-coin Gingerbread Bastion](https://www.polygon.com/23519171/overwatch-2-gingerbread-bastion-skin-shop)
- - [Overwatch 2 – Winter Wonderland Event 2022](https://news.xbox.com/en-us/2022/12/20/overwatch-2-winter-wonderland-event-2022/)
- - [Marvel Snap’s winter event gives you a card signed by actual Nick Fury](https://www.polygon.com/23518736/marvel-snap-winterverse-event-rewards-list-nick-fury-samuel-l-jackson)<!-- GAME:END -->
+ - [High on Life Is Xbox Game Pass’ Biggest 2022 Launch, and the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2022/12/20/high-on-life-xbox-game-pass-biggest-launch/)
+ - [The Big O’s Christmas episode understands the spirit of the season](https://www.polygon.com/23511676/big-o-best-christmas-episode-anime)
+ - [Ubisoft hands out free PC games to Stadia customers](https://www.polygon.com/23519219/google-stadia-shuts-down-ubisoft-games-refunds-free-copies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
