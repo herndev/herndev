@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High on Life Is Xbox Game Pass’ Biggest 2022 Launch, and the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2022/12/20/high-on-life-xbox-game-pass-biggest-launch/)
- - [The Big O’s Christmas episode understands the spirit of the season](https://www.polygon.com/23511676/big-o-best-christmas-episode-anime)
- - [Ubisoft hands out free PC games to Stadia customers](https://www.polygon.com/23519219/google-stadia-shuts-down-ubisoft-games-refunds-free-copies)<!-- GAME:END -->
+ - [High On Life sets Xbox Game Pass records as ‘biggest 2022 launch’](https://www.polygon.com/23519406/high-on-life-xbox-game-pass-most-popular-pc)
+ - [Risk of Rain Returns is &#39;a whole new game&#39; and final farewell from Hopoo Games](https://www.pcgamer.com/risk-of-rain-returns-is-a-whole-new-game-and-final-farewell-from-hopoo-games)
+ - [High on Life Is Xbox Game Pass’ Biggest 2022 Launch, and the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2022/12/20/high-on-life-xbox-game-pass-biggest-launch/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
