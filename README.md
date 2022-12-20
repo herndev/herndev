@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - ⏩ [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - 👉 [Did he just completely ignore Macron?](http://9gag.com/gag/amAB146)<!-- MEMES:END -->
+ - 💣 [Woman-falls from ride and dangles by feet](http://9gag.com/gag/aDY172N)
+ - ⏩ [Maybe](http://9gag.com/gag/aRE1vvB)
+ - 👉 [World cup problems](http://9gag.com/gag/aeQrZOv)<!-- MEMES:END -->
 
 ---
 
