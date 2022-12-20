@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 549 answer and hint for Tuesday, December 20](https://www.pcgamer.com/wordle-549-answer-december-20)
  - [This Week’s Deals with Gold and Spotlight Sale, Plus the Countdown Sale](https://news.xbox.com/en-us/2022/12/19/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-countdown-sale-5/)
- - [NASA Robot Sends One Of The Saddest Tweets I Have Ever Seen](https://kotaku.com/nasa-insight-rover-mars-sad-tweet-rip-goodbye-esa-1849913028)
- - [John Carmack Quits Meta, Says &#39;This Is The End Of My Decade In VR&#39;](https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694)<!-- GAME:END -->
+ - [NASA Robot Sends One Of The Saddest Tweets I Have Ever Seen](https://kotaku.com/nasa-insight-rover-mars-sad-tweet-rip-goodbye-esa-1849913028)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
