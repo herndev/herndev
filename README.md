@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Greatest Wheel of Fortune Guess Ever!](http://9gag.com/gag/a5XMzmy)
- - ⏩ [The sad truth.](http://9gag.com/gag/a8q3eoY)
- - 👉 [Look mom! I made it...](http://9gag.com/gag/aYVYGB7)<!-- MEMES:END -->
+ - 💣 [When you think you one hit a dragon](http://9gag.com/gag/a2KZyzO)
+ - ⏩ [Elon Dogg Snoop Musk](http://9gag.com/gag/aeQrOEQ)
+ - 👉 [Monke land](http://9gag.com/gag/anz92YE)<!-- MEMES:END -->
 
 ---
 
