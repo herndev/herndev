@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life sets Xbox Game Pass records as ‘biggest 2022 launch’](https://www.polygon.com/23519406/high-on-life-xbox-game-pass-most-popular-pc)
- - [Risk of Rain Returns is &#39;a whole new game&#39; and final farewell from Hopoo Games](https://www.pcgamer.com/risk-of-rain-returns-is-a-whole-new-game-and-final-farewell-from-hopoo-games)
- - [High on Life Is Xbox Game Pass’ Biggest 2022 Launch, and the Biggest 3rd Party Game Pass Launch Ever](https://news.xbox.com/en-us/2022/12/20/high-on-life-xbox-game-pass-biggest-launch/)<!-- GAME:END -->
+ - [Musk&#39;s Twitter meltdown reeks of &#39;00s forum mod tantrums](https://www.pcgamer.com/musks-twitter-meltdown-reeks-of-00s-forum-mod-tantrums)
+ - [Warzone 2.0 Finally Lets Players Purchase Full Loadouts](https://kotaku.com/warzone-2-call-of-duty-loadout-mw2-1849916482)
+ - [The State Of The Nintendo Switch In 2022](https://kotaku.com/nintendo-switch-pro-pokemon-scarlet-violet-arceus-2022-1849916169)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
