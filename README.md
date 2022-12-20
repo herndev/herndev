@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dear Sharks, Steven Spielberg Is Sorry About What &#39;Jaws&#39; Did to You     - CNET](https://www.cnet.com/culture/entertainment/dear-sharks-steven-spielberg-is-sorry-about-what-jaws-did-to-you/#ftag=CAD590a51e)
- - [More People Need to Watch This Masterful Sci-Fi Series on Netflix     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-this-masterful-sci-fi-series-on-netflix/#ftag=CAD590a51e)
- - [Tumblr adds support for livestreaming to its iOS and Android apps in the US; the service is powered by video platform Livebox, which lets users tip streamers &lpar;Adi Robertson/The Verge&rpar;](http://www.techmeme.com/221219/p26#a221219p26)<!-- TECH:END -->
+ - [Twitter says the #WC2022 tag for the FIFA World Cup generated 147B impressions, surpassing #WC2018 and over twice the impressions of the #Tokyo2020 Olympics &lpar;Twitter&rpar;](http://www.techmeme.com/221219/p28#a221219p28)
+ - [Elon Musk, in a reply to a tweet suggesting that voting on policy decisions should be restricted to Blue subscribers, says &quot;Twitter will make that change&quot; &lpar;Vlad Savov/Bloomberg&rpar;](http://www.techmeme.com/221219/p27#a221219p27)
+ - [The Verge’s 2022 fitness and wellness gift guide](https://www.theverge.com/23458554/fitness-health-holiday-gift-guide-2022-trackers-smartwatches-fitbit-earbuds-tech)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
