@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)
- - [Internal documents show that, going back to 2017, Twitter worked with the Pentagon to whitelist CENTCOM accounts used in online foreign influence campaigns &lpar;Lee Fang/The Intercept&rpar;](http://www.techmeme.com/221220/p31#a221220p31)
- - [Netflix&#39;s Top Hit Shows and Movies, Ranked &lpar;According to Netflix&rpar;     - CNET](https://www.cnet.com/tech/services-and-software/netflixs-top-hit-shows-and-movies-ranked-according-to-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Android and Google Chrome will soon no longer trust certificates from TrustCor Systems, following Firefox and Edge, over alleged ties to a US defense contractor &lpar;Mishaal Rahman/Esper Blog&rpar;](http://www.techmeme.com/221220/p33#a221220p33)
+ - [The Pixel 8 camera might adopt a new HDR technique](https://www.theverge.com/2022/12/20/23519193/google-pixel-8-camera-rumor-staggered-hdr-sensor)
+ - [Best Holiday Gifts Under $300 for 2022     - CNET](https://www.cnet.com/tech/mobile/best-holiday-gifts-under-300/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
