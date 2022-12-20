@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Blizzard offers Overwatch 2 holiday skin for cheap amid pricing controversy](https://www.theverge.com/2022/12/20/23519082/overwatch-2-skins-gingerbread-bastion)
- - [The European Union opens an investigation into Broadcom&#39;s proposed $61B VMware acquisition, after EU regulators warn over its impact on prices and innovation &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p28#a221220p28)
- - [Cruise’s driverless robotaxis are accepting passengers in Phoenix and Austin](https://www.theverge.com/2022/12/20/23518833/cruise-driverless-taxi-austin-phoenix-waitlist)<!-- TECH:END -->
+ - [Samsung Galaxy S23 series: Everything we know so far &lpar;Updated: Dec. 20&rpar;](https://www.androidauthority.com/samsung-galaxy-s23-3177601/)
+ - [Sen. Warren&#39;s Digital Asset Anti-Money Laundering Act would be a disaster for civil liberties, effectively adding surveillance for all blockchain participants &lpar;Marta Belcher/CoinDesk&rpar;](http://www.techmeme.com/221220/p30#a221220p30)
+ - [Lenovo Debuts Latest ThinkPad X1, IdeaPad 5 Laptops, Tab M9 Tablet Ahead of CES 2023     - CNET](https://www.cnet.com/tech/computing/lenovo-debuts-latest-thinkpad-x1-ideapad-5-laptops-tab-m9-tablet-ahead-of-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
