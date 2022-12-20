@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [FIFA 23 predicted the winner of the world cup in November](https://www.pcgamer.com/fifa-23-predicted-the-winner-of-the-world-cup-in-november)
  - [How to craft a Dead Raiser in Valheim](https://www.pcgamer.com/valheim-dead-raiser)
- - [AMD dismisses reports of RDNA 3 graphics bugs](https://www.pcgamer.com/amd-dismisses-reports-of-rdna-3-graphics-bugs)
- - [The Witcher 3 next-gen re-release solidifies its status as my eternal GOTY](https://www.pcgamer.com/the-witcher-3-next-gen-re-release-solidifies-its-status-as-my-eternal-goty)<!-- GAME:END -->
+ - [AMD dismisses reports of RDNA 3 graphics bugs](https://www.pcgamer.com/amd-dismisses-reports-of-rdna-3-graphics-bugs)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
