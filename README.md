@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The biggest smartphone fails of 2022](https://www.androidauthority.com/biggest-smartphone-fails-of-2022-3242255/)
- - [Save Your Gear From the Elements With These Waterproof Bags](https://www.wired.com/story/matador-flatpak-dry-bag-rave/)
- - [Billionaires Are A Security Threat](https://www.wired.com/story/twitter-elon-musk-open-source-platforms/)<!-- TECH:END -->
+ - [Apple TV app rumored to hit Android smartphones soon](https://appleinsider.com/articles/22/12/20/apple-tv-app-rumored-to-hit-android-smartphones-soon?utm_medium=rss)
+ - [A profile of London-based crypto trading firm Wintermute in the aftermath of UST and FTX&#39;s implosion and a $160M hack, as revenues dramatically decline in 2022 &lpar;Jeff Kauflin/Forbes&rpar;](http://www.techmeme.com/221220/p22#a221220p22)
+ - [Daily Deals Dec. 20: Google Nest Hub for $49.98, 31% off Apple Pencil 2 &amp; more](https://appleinsider.com/articles/22/12/20/daily-deals-dec-20-google-nest-hub-for-4998-31-off-apple-pencil-2-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
