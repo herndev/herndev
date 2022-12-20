@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [These are the biggest smartwatch fails and flops of 2022](https://www.androidauthority.com/biggest-smartwatch-fails-2022-3245313/)
- - [OpenAI releases Point-E, an open-source ML system that generates and displays 3D objects from a text prompt in one to two minutes on a single Nvidia V100 GPU &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221220/p26#a221220p26)
- - [Sources: Foxconn workers in Zhengzhou say they got COVID-19 at the plant in December and some were asked to keep working; one said he was dissuaded from testing &lpar;Viola Zhou/Rest of World&rpar;](http://www.techmeme.com/221220/p25#a221220p25)<!-- TECH:END -->
+ - [Blizzard offers Overwatch 2 holiday skin for cheap amid pricing controversy](https://www.theverge.com/2022/12/20/23519082/overwatch-2-skins-gingerbread-bastion)
+ - [The European Union opens an investigation into Broadcom&#39;s proposed $61B VMware acquisition, after EU regulators warn over its impact on prices and innovation &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p28#a221220p28)
+ - [Cruise’s driverless robotaxis are accepting passengers in Phoenix and Austin](https://www.theverge.com/2022/12/20/23518833/cruise-driverless-taxi-austin-phoenix-waitlist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
