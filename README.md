@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Good Vibrations.](http://9gag.com/gag/armGAy7)
- - ⏩ [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - 👉 [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)<!-- MEMES:END -->
+ - 💣 [Which one](http://9gag.com/gag/anz92oV)
+ - ⏩ [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 👉 [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)<!-- MEMES:END -->
 
 ---
 
