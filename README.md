@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CyberCube, a cyber risk analytics service for insurers, raised $50M from Morgan Stanley Tactical Value, bringing its total raised to over $100M &lpar;Taryn Plumb/VentureBeat&rpar;](http://www.techmeme.com/221219/p32#a221219p32)
- - [Amazon rolls out Matter smart home standard over Wi-Fi to 17 Echo devices, including Echo Dot &lpar;5th Gen&rpar; and Echo &lpar;4th Gen&rpar;, for users with Android phones &lpar;Stacey Higginbotham/Stacey on IoT&rpar;](http://www.techmeme.com/221219/p31#a221219p31)
- - [Germany-based VMRay, which offers advanced threat detection and analysis services, raised a $34M Series B led by Tikehau Capital &lpar;Callum Cyrus/Tech.eu&rpar;](http://www.techmeme.com/221219/p30#a221219p30)<!-- TECH:END -->
+ - [100+ BTC was moved out of cold storage wallets tied to QuadrigaCX, the exchange that went bankrupt after its CEO allegedly died, claimed to be inaccessible &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/221220/p1#a221220p1)
+ - [Source: Sam Bankman-Fried agrees voluntarily to be extradited to the US, where he is facing multiple criminal and civil charges, including conspiracy and fraud &lpar;Washington Post&rpar;](http://www.techmeme.com/221219/p34#a221219p34)
+ - [Apple fixes a vulnerability, reported by Microsoft, that allowed attackers to bypass the macOS feature that checks if apps are notarized and developer-signed &lpar;Sergiu Gatlan/BleepingComputer&rpar;](http://www.techmeme.com/221219/p33#a221219p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
