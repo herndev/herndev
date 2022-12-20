@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Countdown Sale](https://news.xbox.com/en-us/2022/12/19/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-countdown-sale-5/)
  - [NASA Robot Sends One Of The Saddest Tweets I Have Ever Seen](https://kotaku.com/nasa-insight-rover-mars-sad-tweet-rip-goodbye-esa-1849913028)
- - [John Carmack Quits Meta, Says &#39;This Is The End Of My Decade In VR&#39;](https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694)
- - [Star Wars: Dark Forces Looks Fantastic In 2022](https://kotaku.com/star-wars-dark-forces-mod-remake-rebuild-fps-pc-1849912441)<!-- GAME:END -->
+ - [John Carmack Quits Meta, Says &#39;This Is The End Of My Decade In VR&#39;](https://kotaku.com/john-carmack-quit-meta-facebook-vr-oculus-rift-doom-1849912694)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
