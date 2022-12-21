@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got promoted and fired in the same day..](http://9gag.com/gag/amABdRX)
- - ⏩ [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
- - 👉 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
+ - 💣 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)
+ - ⏩ [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 👉 [People who stand for something..](http://9gag.com/gag/aeQrdNj)<!-- MEMES:END -->
 
 ---
 
