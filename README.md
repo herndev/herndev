@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the Australian Securities Exchange&#39;s blockchain project, abandoned in November 2022, to replace its combined trading, clearing, and settlement system &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/221221/p4#a221221p4)
- - [Bengaluru-based BetterPlace, which offers a SaaS for blue-collar workforce management, raised a $40M Series C extension, bringing its total funding to $90M+ &lpar;Vibhuti Sharma/DealStreetAsia&rpar;](http://www.techmeme.com/221221/p3#a221221p3)
- - [Mark Zuckerberg testified in US federal court about Meta&#39;s acquisition of Within, as the FTC seeks an injunction to stop the deal, in a highly unusual challenge &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p2#a221221p2)<!-- TECH:END -->
+ - [Sources: Sam Bankman-Fried&#39;s legal team is discussing a post-extradition deal with the DOJ to let him be released on bail, subject to approval from a judge &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p7#a221221p7)
+ - [Don’t expect a Raspberry Pi 5 next year](https://www.theverge.com/2022/12/21/23520400/raspberry-pi-5-release-date-pandemic-supply-chain-constraints-delay-eben-upton-ceo)
+ - [US-based crypto miner Core Scientific files for Chapter 11 bankruptcy in Texas, estimating its liabilities and assets at $1B-$10B and creditors at 1,000-5,000 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221221/p6#a221221p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
