@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Do you prefer fingerprint scanners or face unlock?](https://www.androidauthority.com/fingerprint-scanners-face-unlock-poll-3250022/)
- - [XRAI Glass Wants to Subtitle Life for Deaf and Hearing-Impaired Users](https://www.wired.com/story/xrai-glass-caption-ar-glasses-first-look/)
- - [Mastodon Is Hurtling Toward a Tipping Point](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)<!-- TECH:END -->
+ - [Raspberry Pi CEO Eben Upton says 2023 will be a &quot;recovery year&quot; for the company and customers should not expect the Pi 5, due to ongoing supply chain issues &lpar;Kevin Purdy/Ars Technica&rpar;](http://www.techmeme.com/221221/p14#a221221p14)
+ - [I want truly innovative flagship phones in 2023](https://www.androidauthority.com/innovative-flagship-phone-2023-3240998/)
+ - [The Case That Foreshadowed the Lessons of the FTX Collapse](https://www.wired.com/story/cryptocurrency-sbf-ftx-microfinance/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
