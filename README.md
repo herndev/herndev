@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Concoct your finest brews in Potion Craft, a brand new alchemy simulator that just left Early Access](https://www.pcgamer.com/concoct-your-finest-brews-in-potion-craft-a-brand-new-alchemy-simulator-that-just-left-early-access)
- - [Company of Heroes 3 is Coming to Xbox – Here’s How Relic Made It Possible](https://news.xbox.com/en-us/2022/12/21/company-of-heroes-3-xbox-launch-console-version/)
- - [Blizzard announces Dragonflight trial for World of Warcraft subscribers](https://www.pcgamer.com/blizzard-announces-dragonflight-trial-for-world-of-warcraft-subscribers)<!-- GAME:END -->
+ - [Xbox Podcast: Justin Roiland on Why High on Life Came to Game Pass &lpar;and How That Will Help Make Future Games&rpar;](https://news.xbox.com/en-us/2022/12/21/high-on-life-game-pass-future-games-podcast-justin-roiland/)
+ - [God of War Ragnarök: great dad game, hellish mom game](https://www.polygon.com/23519077/god-of-war-ragnarok-female-characters-freya-faye-angrboda-portrayal-analysis)
+ - [An Open-World Game With BOTW Vibes, Except You&#39;re Not Human](https://kotaku.com/the-gecko-gods-nintendo-switch-steam-release-date-1849919482)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
