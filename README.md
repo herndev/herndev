@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Sam Bankman-Fried&#39;s legal team is discussing a post-extradition deal with the DOJ to let him be released on bail, subject to approval from a judge &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p7#a221221p7)
- - [Don’t expect a Raspberry Pi 5 next year](https://www.theverge.com/2022/12/21/23520400/raspberry-pi-5-release-date-pandemic-supply-chain-constraints-delay-eben-upton-ceo)
- - [US-based crypto miner Core Scientific files for Chapter 11 bankruptcy in Texas, estimating its liabilities and assets at $1B-$10B and creditors at 1,000-5,000 &lpar;CoinDesk&rpar;](http://www.techmeme.com/221221/p6#a221221p6)<!-- TECH:END -->
+ - [Okta tells customers its GitHub repositories were hacked this month and its source code was stolen, but says hackers did not access service or customer data &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/221221/p8#a221221p8)
+ - [&#39;Willow&#39; Release Schedule: When Will Episode 5 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/willow-release-schedule-when-will-episode-5-come-to-disney-plus/#ftag=CAD590a51e)
+ - [Best Amazon Deals: Echo and Smart Bulb Bundles, Black &amp; Decker Tools and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
