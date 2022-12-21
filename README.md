@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the intelligence and battle management system, built around software developed by Palantir, that has given Ukraine a high-tech edge in Russia&#39;s war &lpar;David Ignatius/Washington Post&rpar;](http://www.techmeme.com/221221/p22#a221221p22)
- - [Best Robot Vacuums of 2022     - CNET](https://www.cnet.com/news/best-robot-vacuum/#ftag=CAD590a51e)
- - [Netflix will start streaming Nike Training Club classes next week](https://www.theverge.com/2022/12/21/23521005/netflix-nike-training-club-fitness-streaming)<!-- TECH:END -->
+ - [Sources detail steps Netflix may take to reduce US password sharing, like charging account owners an extra sharing fee at just below the $6.99 ad-supported tier &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221221/p24#a221221p24)
+ - [In New &#39;Titanic&#39; Documentary, James Cameron Will Explain Why Jack Had to Die     - CNET](https://www.cnet.com/culture/entertainment/in-new-titanic-documentary-james-cameron-will-explain-why-jack-had-to-die/#ftag=CAD590a51e)
+ - [Three-Legged Deer With Christmas Lights in Its Antlers Gets Human Help     - CNET](https://www.cnet.com/science/biology/three-legged-deer-with-christmas-lights-on-its-antlers-gets-human-help/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
