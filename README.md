@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Which one](http://9gag.com/gag/anz92oV)
- - ⏩ [Peek a boo!](http://9gag.com/gag/aXnY2g6)
- - 👉 [The sound....like dropping a broomstick on tile](http://9gag.com/gag/az29Z5p)<!-- MEMES:END -->
+ - 💣 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
+ - ⏩ [When I ruled the world...](http://9gag.com/gag/a5XMq8G)
+ - 👉 [Ctrl+C Ctrl+V](http://9gag.com/gag/adPLRpB)<!-- MEMES:END -->
 
 ---
 
