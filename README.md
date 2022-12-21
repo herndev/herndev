@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Gamer of the Year 2022: Let Me Solo Her](https://www.pcgamer.com/gamer-of-the-year-2022-let-me-solo-her)
- - [Overwatch 2 Bastion Skin Costs One Coin, Causes Problems](https://kotaku.com/overwatch-2-gingerbread-skin-one-coin-store-cost-1849920167)
- - [Atari’s Shambling, Zombie Corpse Is Once Again In Trouble](https://kotaku.com/atari-vcs-2600-console-crypto-nft-financial-report-1849920146)<!-- GAME:END -->
+ - [Angry gamers sue Microsoft to stop Activision Blizzard acquisition](https://www.pcgamer.com/angry-gamers-sue-microsoft-to-stop-activision-blizzard-acquisition)
+ - [Let’s Get Geralt The Netflix Series Armor In The New Witcher 3 Quest](https://kotaku.com/witcher-3-netflix-armor-quest-next-gen-update-1849920425)
+ - [Gamer of the Year 2022: Let Me Solo Her](https://www.pcgamer.com/gamer-of-the-year-2022-let-me-solo-her)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
