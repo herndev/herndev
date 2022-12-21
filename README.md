@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Thats what friends are for](http://9gag.com/gag/a3ZQWd5)
- - ⏩ [True](http://9gag.com/gag/aeQr7dO)
- - 👉 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/aeQr7dO)
+ - ⏩ [Ladies and gentlemen we got em](http://9gag.com/gag/axozPVD)
+ - 👉 [When woke done right](http://9gag.com/gag/aeQr7Gq)<!-- MEMES:END -->
 
 ---
 
