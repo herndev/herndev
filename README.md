@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Ghosts of Christmas Yet to Come, ranked by how hard they go](https://www.polygon.com/23509118/best-christmas-carol-ghost-of-christmas-future-yet-to-come-scariest)
- - [God of War Ragnarök Photo Mode tips from community virtual photographers](https://blog.playstation.com/2022/12/21/god-of-war-ragnarok-photo-mode-tips-from-community-virtual-photographers/)
- - [Everything I learned about Jesus Christ by playing him in a videogame](https://www.pcgamer.com/everything-i-learned-about-jesus-christ-by-playing-him-in-a-videogame)<!-- GAME:END -->
+ - [Concoct your finest brews in Potion Craft, a brand new alchemy simulator that just left Early Access](https://www.pcgamer.com/concoct-your-finest-brews-in-potion-craft-a-brand-new-alchemy-simulator-that-just-left-early-access)
+ - [Company of Heroes 3 is Coming to Xbox – Here’s How Relic Made It Possible](https://news.xbox.com/en-us/2022/12/21/company-of-heroes-3-xbox-launch-console-version/)
+ - [Blizzard announces Dragonflight trial for World of Warcraft subscribers](https://www.pcgamer.com/blizzard-announces-dragonflight-trial-for-world-of-warcraft-subscribers)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
