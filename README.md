@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witch Queen wasn&#39;t just a good Destiny 2 expansion—it was the best FPS campaign of the year](https://www.pcgamer.com/the-witch-queen-wasnt-just-a-good-destiny-2-expansionit-was-the-best-fps-campaign-of-the-year)
- - [Best Puzzle Game 2022: Strange Horticulture](https://www.pcgamer.com/best-puzzle-game-2022-strange-horticulture)
- - [In 2022, Tactics Ogre: Reborn reminded me why I love turn-based strategy games](https://www.pcgamer.com/in-2022-tactics-ogre-reborn-reminded-me-why-i-love-turn-based-strategy-games)<!-- GAME:END -->
+ - [Samsung promises to take DDR5 mainstream with &#39;12nm-class&#39; RAM](https://www.pcgamer.com/samsung-promises-to-take-ddr5-mainstream-with-12nm-class-ram)
+ - [Warzone 2 brings back easy loadout drops](https://www.pcgamer.com/warzone-2-brings-back-easy-loadout-drops)
+ - [The Witch Queen wasn&#39;t just a good Destiny 2 expansion—it was the best FPS campaign of the year](https://www.pcgamer.com/the-witch-queen-wasnt-just-a-good-destiny-2-expansionit-was-the-best-fps-campaign-of-the-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
