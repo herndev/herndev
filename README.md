@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine that nonsense is even discussed on TV. What a disgrace and nonsense](http://9gag.com/gag/aZDL2w0)
- - ⏩ [This is pure gold](http://9gag.com/gag/axozRmD)
- - 👉 [When your browser history follows you](http://9gag.com/gag/a8q304p)<!-- MEMES:END -->
+ - 💣 [Which one](http://9gag.com/gag/anz92oV)
+ - ⏩ [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 👉 [The sound....like dropping a broomstick on tile](http://9gag.com/gag/az29Z5p)<!-- MEMES:END -->
 
 ---
 
