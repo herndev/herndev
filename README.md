@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [River City Girls 2 Is The Beat ‘Em Up That Dreams Are Made Of](https://kotaku.com/river-city-girls-2-review-wayforward-beat-em-up-anime-1849916920)
- - [New Micro FPS Is The Coolest Game Of 2022](https://kotaku.com/chop-goblins-fps-retro-shooter-dusk-steam-review-1849916817)
- - [Valorant game director Joe Ziegler leaves Riot for Bungie](https://www.pcgamer.com/valorant-game-director-joe-ziegler-leaves-riot-for-bungie)<!-- GAME:END -->
+ - [5 hidden gems you may have missed in 2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)
+ - [Some Of My Favorite Images From ArtStation&#39;s AI Protests](https://kotaku.com/artstation-ai-art-images-protest-illustration-artists-1849917144)
+ - [Gamers Are Suing Microsoft To Thwart Its Merger With Activision](https://kotaku.com/microsoft-activision-merger-lawsuit-ftc-call-of-duty-1849917017)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
