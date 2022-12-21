@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope he gets the job](http://9gag.com/gag/avQ8Dpq)
- - ⏩ [Never go full retarded](http://9gag.com/gag/aA03mRo)
- - 👉 [I demand equal rights](http://9gag.com/gag/a9qKVpL)<!-- MEMES:END -->
+ - 💣 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - ⏩ [Currency of Love](http://9gag.com/gag/aVbYB8K)
+ - 👉 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
 
 ---
 
