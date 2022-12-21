@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Zack Zwiezen’s Top 10 Games Of 2022](https://kotaku.com/zack-zwiezen-s-top-10-games-of-2022-1849916027)
- - [Did anyone have more fun at the 2009 Avatar premiere than Danny DeVito? No!](https://www.polygon.com/23518084/avatar-cast-photos-2009-premiere-danny-devito-had-fun)
- - [Atari CEO makes &#39;friendly offer&#39; to acquire control of struggling games publisher](https://www.pcgamer.com/atari-ceo-makes-friendly-offer-to-acquire-control-of-struggling-games-publisher)<!-- GAME:END -->
+ - [Gamer of the Year 2022: Let Me Solo Her](https://www.pcgamer.com/gamer-of-the-year-2022-let-me-solo-her)
+ - [Overwatch 2 Bastion Skin Costs One Coin, Causes Problems](https://kotaku.com/overwatch-2-gingerbread-skin-one-coin-store-cost-1849920167)
+ - [Atari’s Shambling, Zombie Corpse Is Once Again In Trouble](https://kotaku.com/atari-vcs-2600-console-crypto-nft-financial-report-1849920146)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
