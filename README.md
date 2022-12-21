@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [RIP To These 14 Games That Died In 2022](https://kotaku.com/dead-delisted-games-overwatch-dirt-4-hyper-scape-fuser-1849916473)
- - [The Callisto Protocol now lets you skip the grisly death animations](https://www.pcgamer.com/the-callisto-protocol-now-lets-you-skip-the-grisly-death-animations)
- - [How to get Revision Zero in Destiny 2](https://www.pcgamer.com/destiny-2-revision-zero-catalyst-crafting)<!-- GAME:END -->
+ - [The Ghosts of Christmas Yet to Come, ranked by how hard they go](https://www.polygon.com/23509118/best-christmas-carol-ghost-of-christmas-future-yet-to-come-scariest)
+ - [God of War Ragnarök Photo Mode tips from community virtual photographers](https://blog.playstation.com/2022/12/21/god-of-war-ragnarok-photo-mode-tips-from-community-virtual-photographers/)
+ - [Everything I learned about Jesus Christ by playing him in a videogame](https://www.pcgamer.com/everything-i-learned-about-jesus-christ-by-playing-him-in-a-videogame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
