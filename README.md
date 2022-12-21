@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Angry gamers sue Microsoft to stop Activision Blizzard acquisition](https://www.pcgamer.com/angry-gamers-sue-microsoft-to-stop-activision-blizzard-acquisition)
- - [Let’s Get Geralt The Netflix Series Armor In The New Witcher 3 Quest](https://kotaku.com/witcher-3-netflix-armor-quest-next-gen-update-1849920425)
- - [Gamer of the Year 2022: Let Me Solo Her](https://www.pcgamer.com/gamer-of-the-year-2022-let-me-solo-her)<!-- GAME:END -->
+ - [The Best Marvel Snap Deck For Winning With Agatha Harkness](https://kotaku.com/marvel-snap-agatha-harkness-discard-deck-wandavision-1849920555)
+ - [One Of The Best Game Pass Games Is Leaving Later This Month](https://kotaku.com/xbox-game-pass-games-leaving-2022-outer-wilds-tropico-6-1849920921)
+ - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
