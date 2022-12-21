@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)
- - ⏩ [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - 👉 [People who stand for something..](http://9gag.com/gag/aeQrdNj)<!-- MEMES:END -->
+ - 💣 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
+ - ⏩ [Male university students in Afghanistan walked out of their exam in protest against the Taliban\u2019s decision to ban female students from university education.](http://9gag.com/gag/aA03N6g)
+ - 👉 [Sane country](http://9gag.com/gag/aPgYdpq)<!-- MEMES:END -->
 
 ---
 
