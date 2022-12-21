@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - ⏩ [Currency of Love](http://9gag.com/gag/aVbYB8K)
- - 👉 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
+ - ⏩ [Mild shock](http://9gag.com/gag/aMEZWOA)
+ - 👉 [Currency of Love](http://9gag.com/gag/aVbYB8K)<!-- MEMES:END -->
 
 ---
 
