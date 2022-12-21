@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Podcast: Justin Roiland on Why High on Life Came to Game Pass &lpar;and How That Will Help Make Future Games&rpar;](https://news.xbox.com/en-us/2022/12/21/high-on-life-game-pass-future-games-podcast-justin-roiland/)
- - [God of War Ragnarök: great dad game, hellish mom game](https://www.polygon.com/23519077/god-of-war-ragnarok-female-characters-freya-faye-angrboda-portrayal-analysis)
- - [An Open-World Game With BOTW Vibes, Except You&#39;re Not Human](https://kotaku.com/the-gecko-gods-nintendo-switch-steam-release-date-1849919482)<!-- GAME:END -->
+ - [Zack Zwiezen’s Top 10 Games Of 2022](https://kotaku.com/zack-zwiezen-s-top-10-games-of-2022-1849916027)
+ - [Did anyone have more fun at the 2009 Avatar premiere than Danny DeVito? No!](https://www.polygon.com/23518084/avatar-cast-photos-2009-premiere-danny-devito-had-fun)
+ - [Atari CEO makes &#39;friendly offer&#39; to acquire control of struggling games publisher](https://www.pcgamer.com/atari-ceo-makes-friendly-offer-to-acquire-control-of-struggling-games-publisher)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
