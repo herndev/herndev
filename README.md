@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reader’s Choice best camera phone of 2022: Which phone won our blind shootout?](https://www.androidauthority.com/best-camera-phone-2022-readers-choice-3257825/)
- - [Intel splits AXG graphics unit into two groups under gaming and data center units; AXG&#39;s EVP Raja Koduri returns to previous role as an Intel Chief Architect &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221221/p18#a221221p18)
- - [Where to find Verge staff on Mastodon](https://www.theverge.com/23519135/mastodon-verge-staff-where-to-find)<!-- TECH:END -->
+ - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)
+ - [It&#39;s back: get a HomePod mini for just $60](https://appleinsider.com/articles/22/12/02/get-a-homepod-mini-in-time-for-christmas-for-60?utm_medium=rss)
+ - [Best Balance Transfer Credit Cards for December 2022     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-balance-transfer-credit-card/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
