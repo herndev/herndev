@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 550 answer and hint for Wednesday, December 21](https://www.pcgamer.com/wordle-550-answer-december-21)
- - [You can grab a $1,099 VR headset pack for $499 from Pimax&#39;s new refurb store](https://www.pcgamer.com/you-can-grab-a-dollar1099-vr-headset-pack-for-dollar499-from-pimaxs-new-refurb-store)
- - [Welcome a rainbow of quacking ducks to your keyboard these holidays](https://www.pcgamer.com/welcome-a-rainbow-of-quacking-ducks-to-your-keyboard-these-holidays)<!-- GAME:END -->
+ - [The Witch Queen wasn&#39;t just a good Destiny 2 expansion—it was the best FPS campaign of the year](https://www.pcgamer.com/the-witch-queen-wasnt-just-a-good-destiny-2-expansionit-was-the-best-fps-campaign-of-the-year)
+ - [Best Puzzle Game 2022: Strange Horticulture](https://www.pcgamer.com/best-puzzle-game-2022-strange-horticulture)
+ - [In 2022, Tactics Ogre: Reborn reminded me why I love turn-based strategy games](https://www.pcgamer.com/in-2022-tactics-ogre-reborn-reminded-me-why-i-love-turn-based-strategy-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
