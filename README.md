@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wallpaper Wednesday: More great phone wallpapers for all to share &lpar;Dec. 21&rpar;](https://www.androidauthority.com/wallpaper-wednesday-dec-21-2022-3258016/)
- - [Twitter says Community Notes will require contributors to achieve a &quot;Rating Impact&quot; of 5+ by rating enough notes before they can write notes themselves &lpar;Jess Weatherbed/The Verge&rpar;](http://www.techmeme.com/221221/p15#a221221p15)
- - [UK says sharing Netflix passwords could be illegal](https://appleinsider.com/articles/22/12/21/uk-says-sharing-netflix-passwords-could-be-illegal?utm_medium=rss)<!-- TECH:END -->
+ - [Daily Deals Dec. 21: $400 off MacBook Pro, 48% off Philips Hue bulbs, 32% off Samsung Galaxy Watch 4 &amp; more](https://appleinsider.com/articles/22/12/21/daily-deals-dec-21-400-off-macbook-pro-48-off-philips-hue-bulbs-32-off-samsung-galaxy-watch-4-more?utm_medium=rss)
+ - [10 most controversial apps and games from 2022](https://www.androidauthority.com/most-controversial-apps-2022-3249877/)
+ - [Galaxy S23 launch date apparently leaks, and it’s earlier than previous launch](https://www.androidauthority.com/samsung-galaxy-s23-launch-3258948/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
