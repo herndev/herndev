@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: US National Cyber Director Chris Inglis is expected to step down and retire in the next two months, after serving since July 2021 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/221221/p21#a221221p21)
- - [Instagram Recap 2022: A New Reels Template Makes It Easy to Customize     - CNET](https://www.cnet.com/news/social-media/instagram-recap-2022-a-new-reels-template-makes-it-easy-to-customize/#ftag=CAD590a51e)
- - [Amazon discounts the Apple Watch Ultra to $749 with delivery by Christmas for many](https://appleinsider.com/articles/22/12/21/amazon-discounts-the-apple-watch-ultra-to-749-with-delivery-by-christmas-for-many?utm_medium=rss)<!-- TECH:END -->
+ - [A look at the intelligence and battle management system, built around software developed by Palantir, that has given Ukraine a high-tech edge in Russia&#39;s war &lpar;David Ignatius/Washington Post&rpar;](http://www.techmeme.com/221221/p22#a221221p22)
+ - [Best Robot Vacuums of 2022     - CNET](https://www.cnet.com/news/best-robot-vacuum/#ftag=CAD590a51e)
+ - [Netflix will start streaming Nike Training Club classes next week](https://www.theverge.com/2022/12/21/23521005/netflix-nike-training-club-fitness-streaming)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
