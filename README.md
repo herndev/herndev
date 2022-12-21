@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [To kill a hero....](http://9gag.com/gag/az29ZYN)
- - ⏩ [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
- - 👉 [So much Anti Semitism against His Holiness Jeffrey Epstein](http://9gag.com/gag/aA0324o)<!-- MEMES:END -->
+ - 💣 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
+ - ⏩ [I miss shows like mythbuster... simple times](http://9gag.com/gag/axozYPb)
+ - 👉 [When your browser history follows you](http://9gag.com/gag/a8q304p)<!-- MEMES:END -->
 
 ---
 
