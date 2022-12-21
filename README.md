@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony’s DualSense Edge offers an opulent toolbox to tweak your PS5 controls](https://www.polygon.com/23517650/ps5-dualsense-edge-pro-controller-hands-on-preview)
  - [Elon Musk to resign as Twitter CEO after finding someone &#39;foolish enough to take the job&#39;](https://www.pcgamer.com/elon-musk-to-resign-as-twitter-ceo-after-finding-someone-foolish-enough-to-take-the-job)
- - [Star Wars Jedi: Survivor will have five &#39;fully realized&#39; combat stances](https://www.pcgamer.com/star-wars-jedi-survivor-will-have-five-fully-realized-combat-stances)
- - [Samsung promises to take DDR5 mainstream with &#39;12nm-class&#39; RAM](https://www.pcgamer.com/samsung-promises-to-take-ddr5-mainstream-with-12nm-class-ram)<!-- GAME:END -->
+ - [Star Wars Jedi: Survivor will have five &#39;fully realized&#39; combat stances](https://www.pcgamer.com/star-wars-jedi-survivor-will-have-five-fully-realized-combat-stances)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
