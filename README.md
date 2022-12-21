@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bengaluru-based BetterPlace, which offers a SaaS for blue-collar workforce management, raised a $40M Series C extension, bringing its total funding to ~$80M &lpar;Vibhuti Sharma/DealStreetAsia&rpar;](http://www.techmeme.com/221221/p3#a221221p3)
- - [Mark Zuckerberg testified in federal court about Meta&#39;s acquisition of Within, as the FTC&#39;s highly unusual challenge seeks an injunction to stop the deal &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p2#a221221p2)
- - [Source: Publicly-traded US bitcoin miner Core Scientific is filing for Chapter 11 bankruptcy on Wednesday, as its valuation fell from $4.3B in July 2021 to $78M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/221221/p1#a221221p1)<!-- TECH:END -->
+ - [A look at the Australian Securities Exchange&#39;s blockchain project, abandoned in November 2022, to replace its combined trading, clearing, and settlement system &lpar;Byron Kaye/Reuters&rpar;](http://www.techmeme.com/221221/p4#a221221p4)
+ - [Bengaluru-based BetterPlace, which offers a SaaS for blue-collar workforce management, raised a $40M Series C extension, bringing its total funding to $90M+ &lpar;Vibhuti Sharma/DealStreetAsia&rpar;](http://www.techmeme.com/221221/p3#a221221p3)
+ - [Mark Zuckerberg testified in US federal court about Meta&#39;s acquisition of Within, as the FTC seeks an injunction to stop the deal, in a highly unusual challenge &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p2#a221221p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
