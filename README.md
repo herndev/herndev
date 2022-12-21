@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo casts doubt on fourth-gen iPhone SE 2024 release date](https://appleinsider.com/articles/22/12/21/kuo-casts-doubt-on-fourth-gen-iphone-se-2024-release-date?utm_medium=rss)
- - [Tata Digital-owned Indian e-grocer BigBasket raised $200M from Tata Digital and others at a $3.2B valuation, up from $2.7B in March in a secondary share sale &lpar;The Economic Times&rpar;](http://www.techmeme.com/221220/p42#a221220p42)
- - [Donie O&#39;Sullivan, Drew Harwell, and other journalists remain locked out of their Twitter accounts despite suspensions lifted, many until they delete tweets &lpar;Micah Lee/The Intercept&rpar;](http://www.techmeme.com/221220/p41#a221220p41)<!-- TECH:END -->
+ - [Source: Publicly-traded US bitcoin miner Core Scientific is filing for Chapter 11 bankruptcy on Wednesday, as its valuation fell from $4.3B in July 2021 to $78M &lpar;MacKenzie Sigalos/CNBC&rpar;](http://www.techmeme.com/221221/p1#a221221p1)
+ - [Elon Musk: &#39;l Will Resign as CEO&#39; of Twitter     - CNET](https://www.cnet.com/culture/elon-musk-l-will-resign-as-ceo-of-twitter/#ftag=CAD590a51e)
+ - [6 Coping Strategies to Manage Depression Symptoms During the Holidays     - CNET](https://www.cnet.com/health/mental/6-coping-strategies-to-manage-depression-symptoms-during-the-holidays/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
