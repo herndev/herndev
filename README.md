@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Elon Musk isn’t serious about giving power to a new CEO](https://www.theverge.com/2022/12/20/23520019/elon-musk-stop-twitter-ceo-software-server-teams)
- - [Geohot resigns from Twitter](https://www.theverge.com/2022/12/20/23519922/george-hotz-geohot-twitter-internship-resigns)
- - [Elon Musk says he will resign as CEO once he finds someone &quot;foolish enough to take the job&quot;, after which time he plans to run the &quot;software and servers teams&quot; &lpar;Elon Musk/@elonmusk&rpar;](http://www.techmeme.com/221220/p38#a221220p38)<!-- TECH:END -->
+ - [China issues new data guidelines, imposing strict review of data processing, cross-border data transfers, and M&amp;A activities involving foreign capital &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/221220/p40#a221220p40)
+ - [Ukrainian Vice PM Mykhailo Fedorov expects 10K+ more Starlink terminals to arrive in the coming months, saying &quot;all financial issues have been resolved&quot; for now &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p39#a221220p39)
+ - [Get Apple&#39;s 1TB MacBook Pro 16-inch for $2,249](https://appleinsider.com/articles/22/12/21/get-apples-1tb-macbook-pro-16-inch-for-2249?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
