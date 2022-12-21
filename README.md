@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What a Beauty !](http://9gag.com/gag/aNwYB0K)
- - ⏩ [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)
- - 👉 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
+ - 💣 [Thats what friends are for](http://9gag.com/gag/a3ZQWd5)
+ - ⏩ [True](http://9gag.com/gag/aeQr7dO)
+ - 👉 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
 
 ---
 
