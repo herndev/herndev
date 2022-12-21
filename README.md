@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
- - ⏩ [Reality](http://9gag.com/gag/aWGY923)
- - 👉 [Someone should invent this](http://9gag.com/gag/a1PQww2)<!-- MEMES:END -->
+ - 💣 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - ⏩ [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)
+ - 👉 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
 
 ---
 
