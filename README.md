@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/aeQr7dO)
- - ⏩ [Ladies and gentlemen we got em](http://9gag.com/gag/axozPVD)
- - 👉 [When woke done right](http://9gag.com/gag/aeQr7Gq)<!-- MEMES:END -->
+ - 💣 [Truth be told...](http://9gag.com/gag/aBd0O2z)
+ - ⏩ [What a Beauty !](http://9gag.com/gag/aNwYB0K)
+ - 👉 [He&#39;s the father alright](http://9gag.com/gag/aVbYBeM)<!-- MEMES:END -->
 
 ---
 
