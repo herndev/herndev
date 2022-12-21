@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [5 hidden gems you may have missed in 2022](https://www.pcgamer.com/5-hidden-gems-you-may-have-missed-in-2022)
- - [Some Of My Favorite Images From ArtStation&#39;s AI Protests](https://kotaku.com/artstation-ai-art-images-protest-illustration-artists-1849917144)
- - [Gamers Are Suing Microsoft To Thwart Its Merger With Activision](https://kotaku.com/microsoft-activision-merger-lawsuit-ftc-call-of-duty-1849917017)<!-- GAME:END -->
+ - [Somehow, our favorite game of 2018 got even better in 2022](https://www.pcgamer.com/into-the-breach-advanced-edition-2022)
+ - [The best abandonware games](https://www.pcgamer.com/the-best-abandonware-games)
+ - [The Holiday Sale promotion comes to PlayStation Store](https://blog.playstation.com/2022/12/20/the-holiday-sale-promotion-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
