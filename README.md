@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [China issues new data guidelines, imposing strict review of data processing, cross-border data transfers, and M&amp;A activities involving foreign capital &lpar;Xinmei Shen/South China Morning Post&rpar;](http://www.techmeme.com/221220/p40#a221220p40)
- - [Ukrainian Vice PM Mykhailo Fedorov expects 10K+ more Starlink terminals to arrive in the coming months, saying &quot;all financial issues have been resolved&quot; for now &lpar;Bloomberg&rpar;](http://www.techmeme.com/221220/p39#a221220p39)
- - [Get Apple&#39;s 1TB MacBook Pro 16-inch for $2,249](https://appleinsider.com/articles/22/12/21/get-apples-1tb-macbook-pro-16-inch-for-2249?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo casts doubt on fourth-gen iPhone SE 2024 release date](https://appleinsider.com/articles/22/12/21/kuo-casts-doubt-on-fourth-gen-iphone-se-2024-release-date?utm_medium=rss)
+ - [Tata Digital-owned Indian e-grocer BigBasket raised $200M from Tata Digital and others at a $3.2B valuation, up from $2.7B in March in a secondary share sale &lpar;The Economic Times&rpar;](http://www.techmeme.com/221220/p42#a221220p42)
+ - [Donie O&#39;Sullivan, Drew Harwell, and other journalists remain locked out of their Twitter accounts despite suspensions lifted, many until they delete tweets &lpar;Micah Lee/The Intercept&rpar;](http://www.techmeme.com/221220/p41#a221220p41)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
