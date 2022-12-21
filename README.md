@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a Twitter Space, Elon Musk says he expects Twitter to &quot;be okay&quot; next year after cost cutting, claiming the company was on course to spend ~$5B in 2023 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221221/p11#a221221p11)
- - [What is Steam: The popular gaming platform explained](https://www.androidauthority.com/what-is-steam-3254981/)
- - [Q&amp;A With &#39;Cyclettes&#39; Author and Designer Tree Abraham](https://www.wired.com/story/cyclettes-tree-abraham-interview/)<!-- TECH:END -->
+ - [Poll: Do you prefer fingerprint scanners or face unlock?](https://www.androidauthority.com/fingerprint-scanners-face-unlock-poll-3250022/)
+ - [XRAI Glass Wants to Subtitle Life for Deaf and Hearing-Impaired Users](https://www.wired.com/story/xrai-glass-caption-ar-glasses-first-look/)
+ - [Mastodon Is Hurtling Toward a Tipping Point](https://www.wired.com/story/mastodon-legal-issues-tipping-point/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
