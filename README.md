@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
- - ⏩ [When I ruled the world...](http://9gag.com/gag/a5XMq8G)
- - 👉 [Ctrl+C Ctrl+V](http://9gag.com/gag/adPLRpB)<!-- MEMES:END -->
+ - 💣 [To kill a hero....](http://9gag.com/gag/az29ZYN)
+ - ⏩ [What kind of corn intro is this?](http://9gag.com/gag/aA03ENL)
+ - 👉 [So much Anti Semitism against His Holiness Jeffrey Epstein](http://9gag.com/gag/aA0324o)<!-- MEMES:END -->
 
 ---
 
