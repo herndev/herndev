@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources detail steps Netflix may take to reduce US password sharing, like charging account owners an extra sharing fee at just below the $6.99 ad-supported tier &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221221/p24#a221221p24)
- - [In New &#39;Titanic&#39; Documentary, James Cameron Will Explain Why Jack Had to Die     - CNET](https://www.cnet.com/culture/entertainment/in-new-titanic-documentary-james-cameron-will-explain-why-jack-had-to-die/#ftag=CAD590a51e)
- - [Three-Legged Deer With Christmas Lights in Its Antlers Gets Human Help     - CNET](https://www.cnet.com/science/biology/three-legged-deer-with-christmas-lights-on-its-antlers-gets-human-help/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Most Exciting Rumored Phones Coming Out in 2023     - CNET](https://www.cnet.com/tech/mobile/8-most-exciting-rumored-phones-coming-out-in-2023/#ftag=CAD590a51e)
+ - [Micron reports Q1 revenue down ~47% YoY to $4.09B and plans to reduce its workforce by ~10% over the next year; Micron had 48,000 employees in September 2022 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/221221/p25#a221221p25)
+ - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Comes to HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-comes-to-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
