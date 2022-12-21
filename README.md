@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Here are 50 last-minute gifts you can still get before the holidays](https://www.theverge.com/23505584/christmas-gifts-hanukkah-best-last-minute-tech-gaming-headphones-laptops-gadgets-shipping)
- - [Deep Voodoo, founded by South Park creators Trey Parker and Matt Stone to develop deepfake technology and cost-effective visual effects, raised $20M &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/221221/p20#a221221p20)
- - [Get These Great Last Minute Deals Delivered Right to Your Inbox     - CNET](https://www.cnet.com/deals/stacksocial-last-minute-holiday-gifts/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: US National Cyber Director Chris Inglis is expected to step down and retire in the next two months, after serving since July 2021 &lpar;Sean Lyngaas/CNN&rpar;](http://www.techmeme.com/221221/p21#a221221p21)
+ - [Instagram Recap 2022: A New Reels Template Makes It Easy to Customize     - CNET](https://www.cnet.com/news/social-media/instagram-recap-2022-a-new-reels-template-makes-it-easy-to-customize/#ftag=CAD590a51e)
+ - [Amazon discounts the Apple Watch Ultra to $749 with delivery by Christmas for many](https://appleinsider.com/articles/22/12/21/amazon-discounts-the-apple-watch-ultra-to-749-with-delivery-by-christmas-for-many?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
