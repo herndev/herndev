@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Okta tells customers its GitHub repositories were hacked this month and its source code was stolen, but says hackers did not access service or customer data &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/221221/p8#a221221p8)
- - [&#39;Willow&#39; Release Schedule: When Will Episode 5 Come to Disney Plus?     - CNET](https://www.cnet.com/culture/entertainment/willow-release-schedule-when-will-episode-5-come-to-disney-plus/#ftag=CAD590a51e)
- - [Best Amazon Deals: Echo and Smart Bulb Bundles, Black &amp; Decker Tools and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [In a Twitter Space, Elon Musk says he expects Twitter to &quot;be okay&quot; next year after cost cutting, claiming the company was on course to spend ~$5B in 2023 &lpar;Hannah Murphy/Financial Times&rpar;](http://www.techmeme.com/221221/p11#a221221p11)
+ - [What is Steam: The popular gaming platform explained](https://www.androidauthority.com/what-is-steam-3254981/)
+ - [Q&amp;A With &#39;Cyclettes&#39; Author and Designer Tree Abraham](https://www.wired.com/story/cyclettes-tree-abraham-interview/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
