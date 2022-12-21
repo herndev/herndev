@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Coming back to NSFW after Long time](http://9gag.com/gag/amABmgV)
- - ⏩ [When your browser history follows you](http://9gag.com/gag/a8q304p)
+ - 💣 [No one ever responded to treatment that fast, it must have combined with the previous treatments... His levels were almost three times the norm. We almost had to call the police](http://9gag.com/gag/ajV8Bwg)
+ - ⏩ [What a Beauty !](http://9gag.com/gag/aNwYB0K)
  - 👉 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
 
 ---
