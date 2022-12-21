@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Free next day shipping &amp; save up to $500 on 200+ Apple products at B&amp;H](https://appleinsider.com/articles/22/12/20/free-next-day-shipping-save-up-to-500-on-200-apple-products-at-bh?utm_medium=rss)
- - [US prosecutors say two men conspired with Russian hackers to tamper with JFK airport&#39;s taxi queuing software, allegedly letting drivers cut the line for a fee &lpar;James Reddick/The Record&rpar;](http://www.techmeme.com/221220/p34#a221220p34)
- - [Android and Google Chrome will soon no longer trust certificates from TrustCor Systems, following Firefox and Edge, over alleged ties to a US defense contractor &lpar;Mishaal Rahman/Esper Blog&rpar;](http://www.techmeme.com/221220/p33#a221220p33)<!-- TECH:END -->
+ - [USPS to Buy 66,000 Electric Delivery Vehicles to Cut Carbon Emissions     - CNET](https://www.cnet.com/news/usps-to-buy-66000-electric-delivery-vehicles-to-cut-carbon-emissions/#ftag=CAD590a51e)
+ - [SEC deposition: in 2017, Zuckerberg considered saying Facebook was investigating &quot;organizations like Cambridge Analytica&quot;, before advisers suggested against it &lpar;Brian Fung/CNN&rpar;](http://www.techmeme.com/221220/p35#a221220p35)
+ - [Inside Bored Ape Yacht Club&#39;s Plans to Master the Metaverse     - CNET](https://www.cnet.com/culture/features/inside-bored-ape-yacht-clubs-plans-to-master-the-metaverse/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
