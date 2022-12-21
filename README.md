@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Dec. 21: $400 off MacBook Pro, 48% off Philips Hue bulbs, 32% off Samsung Galaxy Watch 4 &amp; more](https://appleinsider.com/articles/22/12/21/daily-deals-dec-21-400-off-macbook-pro-48-off-philips-hue-bulbs-32-off-samsung-galaxy-watch-4-more?utm_medium=rss)
- - [10 most controversial apps and games from 2022](https://www.androidauthority.com/most-controversial-apps-2022-3249877/)
- - [Galaxy S23 launch date apparently leaks, and it’s earlier than previous launch](https://www.androidauthority.com/samsung-galaxy-s23-launch-3258948/)<!-- TECH:END -->
+ - [Reader’s Choice best camera phone of 2022: Which phone won our blind shootout?](https://www.androidauthority.com/best-camera-phone-2022-readers-choice-3257825/)
+ - [Intel splits AXG graphics unit into two groups under gaming and data center units; AXG&#39;s EVP Raja Koduri returns to previous role as an Intel Chief Architect &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221221/p18#a221221p18)
+ - [Where to find Verge staff on Mastodon](https://www.theverge.com/23519135/mastodon-verge-staff-where-to-find)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
