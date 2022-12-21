@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Best Marvel Snap Deck For Winning With Agatha Harkness](https://kotaku.com/marvel-snap-agatha-harkness-discard-deck-wandavision-1849920555)
- - [One Of The Best Game Pass Games Is Leaving Later This Month](https://kotaku.com/xbox-game-pass-games-leaving-2022-outer-wilds-tropico-6-1849920921)
- - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)<!-- GAME:END -->
+ - [One Of Steam’s Biggest Games Last Month Was A Police Sim, Not Worrying At All](https://kotaku.com/police-simulator-patrol-officers-platforms-steam-top-20-1849921064)
+ - [Thanks to Golden Packs, Magic Arena&#39;s economy doesn&#39;t suck anymore](https://www.pcgamer.com/thanks-to-golden-packs-magic-arenas-economy-doesnt-suck-anymore)
+ - [Streamer Dislocates Knee Playing Call Of Duty](https://kotaku.com/streamer-dislocates-breaks-knee-call-duty-twitch-1849920849)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
