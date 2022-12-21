@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
- - ⏩ [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - 👉 [Currency of Love](http://9gag.com/gag/aVbYB8K)<!-- MEMES:END -->
+ - 💣 [Hope he gets the job](http://9gag.com/gag/avQ8Dpq)
+ - ⏩ [Never go full retarded](http://9gag.com/gag/aA03mRo)
+ - 👉 [I demand equal rights](http://9gag.com/gag/a9qKVpL)<!-- MEMES:END -->
 
 ---
 
