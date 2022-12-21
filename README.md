@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sound....like dropping a broomstick on tile](http://9gag.com/gag/az29Z5p)
- - ⏩ [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 💣 [Got promoted and fired in the same day..](http://9gag.com/gag/amABdRX)
+ - ⏩ [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
  - 👉 [Mild shock](http://9gag.com/gag/aMEZWOA)<!-- MEMES:END -->
 
 ---
