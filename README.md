@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - 💣 [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
  - ⏩ [Reality](http://9gag.com/gag/aWGY923)
- - 👉 [To stop a truck from rolling back](http://9gag.com/gag/aL1grGA)<!-- MEMES:END -->
+ - 👉 [Someone should invent this](http://9gag.com/gag/a1PQww2)<!-- MEMES:END -->
 
 ---
 
