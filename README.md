@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
- - ⏩ [Aww splendid!](http://9gag.com/gag/ap9m8nn)
- - 👉 [*crickets chirping*](http://9gag.com/gag/aQERVre)<!-- MEMES:END -->
+ - 💣 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - ⏩ [Reality](http://9gag.com/gag/aWGY923)
+ - 👉 [To stop a truck from rolling back](http://9gag.com/gag/aL1grGA)<!-- MEMES:END -->
 
 ---
 
