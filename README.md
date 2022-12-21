@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
- - ⏩ [The moment the Mayor of \u0130stanbul learnt about the imprisonment decision against him.](http://9gag.com/gag/aGEZA46)
- - 👉 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)<!-- MEMES:END -->
+ - 💣 [I follow Slaanesh for the plot..](http://9gag.com/gag/aeQrR7Q)
+ - ⏩ [China&#39;s `With Corona` is killing off more people than they can count.](http://9gag.com/gag/aL1gr3x)
+ - 👉 [Currency of Love](http://9gag.com/gag/aVbYB8K)<!-- MEMES:END -->
 
 ---
 
