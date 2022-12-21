@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy Saving his Buddies Life](http://9gag.com/gag/amABM32)
- - ⏩ [I miss shows like mythbuster... simple times](http://9gag.com/gag/axozYPb)
- - 👉 [When your browser history follows you](http://9gag.com/gag/a8q304p)<!-- MEMES:END -->
+ - 💣 [Pranks that don\u2019t hurt anyone](http://9gag.com/gag/awZAYVy)
+ - ⏩ [Peek a boo!](http://9gag.com/gag/aXnY2g6)
+ - 👉 [Kid perfectly imitating the sound of a lawn cutter](http://9gag.com/gag/a8q3V5V)<!-- MEMES:END -->
 
 ---
 
