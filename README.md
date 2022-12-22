@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Got promoted and fired in the same day..](http://9gag.com/gag/amABdRX)
+ - 💣 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
  - ⏩ [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
- - 👉 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)<!-- MEMES:END -->
+ - 👉 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
 
 ---
 
