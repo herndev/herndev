@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The US government&#39;s entity list also targets newer Chinese chip companies, including PXW, which are more vulnerable than established players like Huawei &lpar;Financial Times&rpar;](http://www.techmeme.com/221222/p2#a221222p2)
  - [15 best Android apps released in 2022](https://www.androidauthority.com/best-android-apps-released-2022-3249876/)
- - [OnePlus 11 specs confirmed by certification authority](https://www.androidauthority.com/oneplus-11-full-specs-3259331/)
- - [Reports: an Android malware called Godfather is using overlaid login screens to get users&#39; credentials on 400+ banking apps and crypto exchanges in 16 countries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221222/p1#a221222p1)<!-- TECH:END -->
+ - [OnePlus 11 specs confirmed by certification authority](https://www.androidauthority.com/oneplus-11-full-specs-3259331/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
