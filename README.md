@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Technically.... He&#39;s right](http://9gag.com/gag/aDY1NPd)
- - ⏩ [Short and sweet](http://9gag.com/gag/a9qKVED)
- - 👉 [Now that&#39;s Literally me irl!!](http://9gag.com/gag/aVbY1Z8)<!-- MEMES:END -->
+ - 💣 [Got promoted and fired in the same day..](http://9gag.com/gag/amABdRX)
+ - ⏩ [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
+ - 👉 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)<!-- MEMES:END -->
 
 ---
 
