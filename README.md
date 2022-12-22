@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
- - ⏩ [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - 👉 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)<!-- MEMES:END -->
+ - 💣 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - ⏩ [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 👉 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)<!-- MEMES:END -->
 
 ---
 
