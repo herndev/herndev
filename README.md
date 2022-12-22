@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of Steam’s Biggest Games Last Month Was A Police Sim, Not Worrying At All](https://kotaku.com/police-simulator-patrol-officers-platforms-steam-top-20-1849921064)
- - [Thanks to Golden Packs, Magic Arena&#39;s economy doesn&#39;t suck anymore](https://www.pcgamer.com/thanks-to-golden-packs-magic-arenas-economy-doesnt-suck-anymore)
- - [Streamer Dislocates Knee Playing Call Of Duty](https://kotaku.com/streamer-dislocates-breaks-knee-call-duty-twitch-1849920849)<!-- GAME:END -->
+ - [Kickstarter Suspends AI-Generated Image &lpar;Well, Porn&rpar; Project](https://kotaku.com/kickstarter-ai-art-image-porn-unstable-diffusion-nsfw-1849921325)
+ - [When will Avatar: The Way of Water come to Disney Plus?](https://www.polygon.com/23520740/avatar-way-water-streaming-disney-plus-hbo-max)
+ - [Amazon Promises God Of War Show Will Be ‘Incredibly True’ To Original Games](https://kotaku.com/god-of-war-amazon-tv-show-ps4-ps5-kratos-adaptation-1849921251)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
