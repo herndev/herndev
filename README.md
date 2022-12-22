@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [US SDNY attorney: ex-Alameda CEO Caroline Ellison and FTX co-founder Gary Wang have pleaded guilty to federal charges and are cooperating in SBF criminal case &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p27#a221221p27)
- - [Spotify app code shows upcoming HealthKit integration for workout playlists](https://appleinsider.com/articles/22/12/22/spotify-app-code-shows-upcoming-healthkit-integration-for-workout-playlists?utm_medium=rss)
- - [Excitrus 105W Power Bank Ultimate: Power to go and to spare](https://appleinsider.com/articles/22/12/21/excitrus-105w-power-bank-ultimate-power-to-go-and-to-spare?utm_medium=rss)<!-- TECH:END -->
+ - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch-now/#ftag=CAD590a51e)
+ - [Sources: ChatGPT&#39;s release led Google to declare a &quot;code red&quot;, as teams have been reassigned to respond to the threat that ChatGPT poses to its search business &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p28#a221221p28)
+ - [&#39;Mysterious Shapes&#39; Inside Mars Crater Puzzle Scientists     - CNET](https://www.cnet.com/science/space/mysterious-shapes-inside-mars-crater-puzzle-scientists/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
