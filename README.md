@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - ⏩ [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)
- - 👉 [The negotiations were short](http://9gag.com/gag/aXnYzZv)<!-- MEMES:END -->
+ - 💣 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - ⏩ [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 👉 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
 
 ---
 
