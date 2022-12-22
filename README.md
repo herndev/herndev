@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sane country](http://9gag.com/gag/aPgYdpq)
+ - 💣 [Technically.... He&#39;s right](http://9gag.com/gag/aDY1NPd)
  - ⏩ [Short and sweet](http://9gag.com/gag/a9qKVED)
  - 👉 [Now that&#39;s Literally me irl!!](http://9gag.com/gag/aVbY1Z8)<!-- MEMES:END -->
 
