@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have to pass a cable under the terrace](http://9gag.com/gag/amABK1V)
- - ⏩ [Male university students in Afghanistan walked out of their exam in protest against the Taliban\u2019s decision to ban female students from university education.](http://9gag.com/gag/aA03N6g)
- - 👉 [Old old](http://9gag.com/gag/ap9mnvn)<!-- MEMES:END -->
+ - 💣 [I don&#39;t get it, was so hard while kissing her earlier](http://9gag.com/gag/aQERBjW)
+ - ⏩ [Miss Universe contestant from Ukraine](http://9gag.com/gag/aDY1qXN)
+ - 👉 [Little Girl Thinks Old Man In Supermarket Is Really Santa!](http://9gag.com/gag/a5XM9Xr)<!-- MEMES:END -->
 
 ---
 
