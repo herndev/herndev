@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Tower of Fantasy&#39;s 2.2 update expands a city-hub into a metropolis](https://www.pcgamer.com/tower-of-fantasys-22-update-expands-a-city-hub-into-a-metropolis)
  - [Today&#39;s Wordle 551 answer and hint for Thursday, December 22](https://www.pcgamer.com/wordle-551-answer-december-22)
- - [Rasberry Pi 5 pushed back to make more Pi for everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)
- - [Gigabyte RTX 4070 Ti AERO shows off triple fan setup in first pics](https://www.pcgamer.com/gigabyte-rtx-4070-ti-aero-shows-off-triple-fan-setup-in-first-pics)<!-- GAME:END -->
+ - [Rasberry Pi 5 pushed back to make more Pi for everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
