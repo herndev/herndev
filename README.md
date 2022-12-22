@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - ⏩ [Mild shock](http://9gag.com/gag/aMEZWOA)
- - 👉 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
+ - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
+ - ⏩ [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - 👉 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)<!-- MEMES:END -->
 
 ---
 
