@@ -31,7 +31,7 @@
 <!-- GAME:START -->
  - [Rasberry Pi 5 pushed back to make more Pi for everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)
  - [Gigabyte RTX 4070 Ti AERO shows off triple fan setup in first pics](https://www.pcgamer.com/gigabyte-rtx-4070-ti-aero-shows-off-triple-fan-setup-in-first-pics)
- - [Kickstarter Suspends AI-Generated Image &lpar;Well, Porn&rpar; Project](https://kotaku.com/kickstarter-ai-art-image-porn-unstable-diffusion-nsfw-1849921325)<!-- GAME:END -->
+ - [Kickstarter Suspends AI-Generated Image &lpar;Well, Porn&rpar; Project [Update]](https://kotaku.com/kickstarter-ai-art-image-porn-unstable-diffusion-nsfw-1849921325)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
