@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best apps for reading library books on iPhone and iPad](https://appleinsider.com/inside/ipad/tips/best-apps-for-reading-library-books-on-iphone-and-ipad?utm_medium=rss)
- - [Sam Bankman-Fried appears in US federal court charged with wire fraud and other crimes; judge grants bail with a $250M bond and custody at his parents&#39; CA home &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/221222/p26#a221222p26)
- - [Daily Deals Dec. 22: 34% off Logitech 4K Webcam, 28% off Roku Stick &amp; more](https://appleinsider.com/articles/22/12/22/daily-deals-dec-22-34-off-logitech-4k-webcam-28-off-roku-stick-more?utm_medium=rss)<!-- TECH:END -->
+ - [Internal documents detail Google&#39;s new performance review process, estimating 6% of full-time employees will get low ratings starting in 2023, versus 2% before &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/221222/p27#a221222p27)
+ - [How does AirDrop work? Our experts have answers](https://www.androidauthority.com/how-does-airdrop-work-3259231/)
+ - [Tesla’s in-car navigation will get friendlier to non-Superchargers](https://www.theverge.com/2022/12/22/23522392/tesla-qualified-third-party-chargers-europe-israel-launch-supercharger)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
