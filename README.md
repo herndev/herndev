@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
- - ⏩ [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - 👉 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
+ - 💣 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
+ - ⏩ [Just found this and some women are criticizing the man](http://9gag.com/gag/a3ZQDV3)
+ - 👉 [Wife material](http://9gag.com/gag/aBd0Mvx)<!-- MEMES:END -->
 
 ---
 
