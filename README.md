@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: at a town hall, Tencent CEO Pony Ma ranted for 10 minutes about staff laziness, graft, &quot;superficial&quot; reforms, Tencent&#39;s aging social network, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p8#a221222p8)
- - [Twitter rolls out $Cashtags, offering stock, ETF, and crypto prices within search results using data from TradingView and adds a View on Robinhood link &lpar;Brayden Lindrea/Cointelegraph&rpar;](http://www.techmeme.com/221222/p7#a221222p7)
- - [TuSimple confirms plans to lay off 25% of its workforce, or an estimated 350 workers, following a rough year for the self-driving trucking company &lpar;Rebecca Bellan/TechCrunch&rpar;](http://www.techmeme.com/221222/p6#a221222p6)<!-- TECH:END -->
+ - [Users report horizontal lines on iPhone 14 Pro display at startup](https://appleinsider.com/articles/22/12/22/users-report-horizontal-lines-on-iphone-14-pro-display-at-startup?utm_medium=rss)
+ - [The Year the NFT Died and Came Back to Life](https://www.wired.com/story/the-year-the-nft-died-and-came-back-to-life/)
+ - [Here Comes a Bomb Cyclone to Ruin Christmas](https://www.wired.com/story/bomb-cyclone-storm-christmas-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
