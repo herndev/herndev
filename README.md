@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Investigation: Eric Schmidt helps fund the salaries of over 24 Biden administration officials through the Federation of American Scientists and Schmidt Futures &lpar;Alex Thompson/Politico&rpar;](http://www.techmeme.com/221222/p25#a221222p25)
- - [The SEC&#39;s complaint against Caroline Ellison and Gary Wang says FTX&#39;s FTT token is a security as it was sold as an investment contract &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221222/p24#a221222p24)
- - [Verizon Goes After Switchers With a New Welcome Unlimited Plan Discount     - CNET](https://www.cnet.com/tech/mobile/verizon-goes-after-switchers-with-a-new-welcome-unlimited-plan-discount/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best apps for reading library books on iPhone and iPad](https://appleinsider.com/inside/ipad/tips/best-apps-for-reading-library-books-on-iphone-and-ipad?utm_medium=rss)
+ - [Sam Bankman-Fried appears in US federal court charged with wire fraud and other crimes; judge grants bail with a $250M bond and custody at his parents&#39; CA home &lpar;Luc Cohen/Reuters&rpar;](http://www.techmeme.com/221222/p26#a221222p26)
+ - [Daily Deals Dec. 22: 34% off Logitech 4K Webcam, 28% off Roku Stick &amp; more](https://appleinsider.com/articles/22/12/22/daily-deals-dec-22-34-off-logitech-4k-webcam-28-off-roku-stick-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
