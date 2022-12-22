@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Christmas Movies 2022: The Best &lpar;and the Merely Okay&rpar; to Stream Now     - CNET](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-of-2022/#ftag=CAD590a51e)
- - [Google might be hitting the panic button to protect Search from ChatGPT](https://www.androidauthority.com/google-chatgpt-ai-3259557/)
- - [NFL Sunday Ticket and YouTube: 8 Things Football Fans Should Know     - CNET](https://www.cnet.com/tech/services-and-software/nfl-sunday-ticket-and-youtube-8-things-football-fans-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A 1974 US privacy law that prevents the sharing of citizens&#39; data between US agencies is forcing the government to use and pay millions annually to data brokers &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/221222/p28#a221222p28)
+ - [FTX Co-Founder Sam Bankman-Fried Released on $250 Million Bail, Reports Say     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-co-founder-sam-bankman-fried-released-on-250-million-bail-reports-say/#ftag=CAD590a51e)
+ - [TikTok’s parent company accessed the data of US journalists](https://www.theverge.com/2022/12/22/23522808/tiktok-journalists-data-accessed-bytedance-internal-audit)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
