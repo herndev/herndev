@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruh...](http://9gag.com/gag/a7q3nzr)
- - ⏩ [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
- - 👉 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
+ - 💣 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 👉 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
 
 ---
 
