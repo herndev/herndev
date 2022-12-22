@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Movie studios can be sued over ‘deceptive’ trailers, judge says](https://www.polygon.com/23522885/cut-trailer-scenes-ana-de-armas-footage-lawsuit)
- - [The Witcher season 3 will be a &#39;heroic sendoff&#39; for Henry Cavill](https://www.pcgamer.com/the-witcher-season-3-will-be-a-heroic-sendoff-for-henry-cavill)
- - [Willow has become what all queer fantasy love stories should feel like](https://www.polygon.com/23523196/willow-episode-5-queer-kit-jade-kiss)<!-- GAME:END -->
+ - [What You Should Know About ‘Next Gen’ Witcher 3’s New Casting System](https://kotaku.com/witcher-3-signs-how-to-quick-casting-standard-ps5-xbox-1849925171)
+ - [TMNT Shredder’s Revenge now plays even more like a classic Konami arcade game](https://www.polygon.com/23523292/tmnt-shredders-revenge-arcade-mode-update-konami-ninja-turtles)
+ - [The best deals in the 2022 Steam Winter Sale](https://www.pcgamer.com/steam-winter-sale-deals-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
