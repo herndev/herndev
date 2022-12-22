@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Import peaceful third world emigrants to your country and become third world country. Fyi- I&#39;m from third world country, but not the peaceful one.](http://9gag.com/gag/aeQrmoO)
- - ⏩ [Male university students in Afghanistan walked out of their exam in protest against the Taliban\u2019s decision to ban female students from university education.](http://9gag.com/gag/aA03N6g)
- - 👉 [Sane country](http://9gag.com/gag/aPgYdpq)<!-- MEMES:END -->
+ - 💣 [Sane country](http://9gag.com/gag/aPgYdpq)
+ - ⏩ [Short and sweet](http://9gag.com/gag/a9qKVED)
+ - 👉 [Now that&#39;s Literally me irl!!](http://9gag.com/gag/aVbY1Z8)<!-- MEMES:END -->
 
 ---
 
