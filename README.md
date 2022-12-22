@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Alphabet, Meta, and Salesforce are seeking to abandon leased office space in London and Dublin; Amazon and Microsoft put London expansion plans on hold &lpar;Financial Times&rpar;](http://www.techmeme.com/221221/p30#a221221p30)
- - [Netflix will add Nike Training Club workouts to its offerings from December 30, with plans to add over 90 Nike Training Club workouts in total &lpar;BreAnna Bell/Variety&rpar;](http://www.techmeme.com/221221/p29#a221221p29)
- - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [15 best Android apps released in 2022](https://www.androidauthority.com/best-android-apps-released-2022-3249876/)
+ - [OnePlus 11 specs confirmed by certification authority](https://www.androidauthority.com/oneplus-11-full-specs-3259331/)
+ - [Reports: an Android malware called Godfather is using overlaid login screens to get users&#39; credentials on 400+ banking apps and crypto exchanges in 16 countries &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/221222/p1#a221222p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
