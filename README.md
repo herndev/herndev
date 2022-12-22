@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)
- - [A profile of stablecoin developer Tether, which has withstood huge redemption runs during the current brutal crypto winter, competition, and regulatory pressure &lpar;Forbes&rpar;](http://www.techmeme.com/221222/p17#a221222p17)
- - [Google is adding another layer of testing for Chrome updates](https://www.theverge.com/2022/12/22/23522340/google-chrome-testing-release-update-early-stable)<!-- TECH:END -->
+ - [The most underrated smartphones of 2022](https://www.androidauthority.com/underrated-smartphones-2022-3240579/)
+ - [The best new streaming movies this week on Netflix, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [Apple halts update to HomeKit&#39;s new Home architecture](https://appleinsider.com/articles/22/12/22/apple-halts-update-to-homekits-new-home-architecture?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
