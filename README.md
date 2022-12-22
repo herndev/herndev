@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Steam, Xbox, and PlayStation sales flood your shelves with more games to play](https://www.polygon.com/23522971/steam-sale-xbox-playstation-winter-2022-deals)
- - [Norway Reserve is Available Now in Call of the Wild: The Angler](https://news.xbox.com/en-us/2022/12/22/norway-reserve-is-available-now-in-call-of-the-wild-the-angler/)
- - [TikTokers Trick Its Anime Filter Into Giving Them Big Boobs](https://kotaku.com/tiktok-ai-anime-filter-trend-big-boobs-1849924284)<!-- GAME:END -->
+ - [Movie studios can be sued over ‘deceptive’ trailers, judge says](https://www.polygon.com/23522885/cut-trailer-scenes-ana-de-armas-footage-lawsuit)
+ - [The Witcher season 3 will be a &#39;heroic sendoff&#39; for Henry Cavill](https://www.pcgamer.com/the-witcher-season-3-will-be-a-heroic-sendoff-for-henry-cavill)
+ - [Willow has become what all queer fantasy love stories should feel like](https://www.polygon.com/23523196/willow-episode-5-queer-kit-jade-kiss)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
