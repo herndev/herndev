@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 1974 US privacy law that prevents the sharing of citizens&#39; data between US agencies is forcing the government to use and pay millions annually to data brokers &lpar;Alfred Ng/Politico&rpar;](http://www.techmeme.com/221222/p28#a221222p28)
- - [FTX Co-Founder Sam Bankman-Fried Released on $250 Million Bail, Reports Say     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-co-founder-sam-bankman-fried-released-on-250-million-bail-reports-say/#ftag=CAD590a51e)
- - [TikTok’s parent company accessed the data of US journalists](https://www.theverge.com/2022/12/22/23522808/tiktok-journalists-data-accessed-bytedance-internal-audit)<!-- TECH:END -->
+ - [Crypto exchange Bullish, backed by Peter Thiel, and Far Peak, a SPAC led by ex-NYSE President Thomas Farley, call off their planned $9B merger announced in 2021 &lpar;Joanna Ossinger/Bloomberg&rpar;](http://www.techmeme.com/221222/p30#a221222p30)
+ - [Wear This Sneaky &#39;Snack Scarf&#39; to Smuggle Food Out of Holiday Parties     - CNET](https://www.cnet.com/culture/wear-this-sneaky-snack-scarf-to-smuggle-food-out-of-holiday-parties/#ftag=CAD590a51e)
+ - [LastPass says a threat actor stole a backup copy of its customers&#39; encrypted vault data using cloud storage keys stolen from a LastPass employee in August 2022 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/221222/p29#a221222p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
