@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter begins rolling out public view counts for tweets, expanding on video view counts and analytics; Elon Musk says they will show how &quot;alive Twitter is&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221222/p22#a221222p22)
- - [YouTube beats Apple to win the rights to NFL Sunday Ticket](https://www.androidauthority.com/youtube-nfl-sunday-ticket-3259447/)
- - [Pathmatics: about 70% of Twitter&#39;s top 100 ad spenders before Elon Musk&#39;s takeover were not spending on the service as of the week ending December 18 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221222/p21#a221222p21)<!-- TECH:END -->
+ - [Investigation: Eric Schmidt helps fund the salaries of over 24 Biden administration officials through the Federation of American Scientists and Schmidt Futures &lpar;Alex Thompson/Politico&rpar;](http://www.techmeme.com/221222/p25#a221222p25)
+ - [The SEC&#39;s complaint against Caroline Ellison and Gary Wang says FTX&#39;s FTT token is a security as it was sold as an investment contract &lpar;Sam Reynolds/CoinDesk&rpar;](http://www.techmeme.com/221222/p24#a221222p24)
+ - [Verizon Goes After Switchers With a New Welcome Unlimited Plan Discount     - CNET](https://www.cnet.com/tech/mobile/verizon-goes-after-switchers-with-a-new-welcome-unlimited-plan-discount/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
