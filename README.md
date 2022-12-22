@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal documents detail Google&#39;s new performance review process, estimating 6% of full-time employees will get low ratings starting in 2023, versus 2% before &lpar;Jennifer Elias/CNBC&rpar;](http://www.techmeme.com/221222/p27#a221222p27)
- - [How does AirDrop work? Our experts have answers](https://www.androidauthority.com/how-does-airdrop-work-3259231/)
- - [Tesla’s in-car navigation will get friendlier to non-Superchargers](https://www.theverge.com/2022/12/22/23522392/tesla-qualified-third-party-chargers-europe-israel-launch-supercharger)<!-- TECH:END -->
+ - [New Christmas Movies 2022: The Best &lpar;and the Merely Okay&rpar; to Stream Now     - CNET](https://www.cnet.com/culture/entertainment/best-new-christmas-movies-of-2022/#ftag=CAD590a51e)
+ - [Google might be hitting the panic button to protect Search from ChatGPT](https://www.androidauthority.com/google-chatgpt-ai-3259557/)
+ - [NFL Sunday Ticket and YouTube: 8 Things Football Fans Should Know     - CNET](https://www.cnet.com/tech/services-and-software/nfl-sunday-ticket-and-youtube-8-things-football-fans-should-know/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
