@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This was removed so I&#39;m re-uploading it](http://9gag.com/gag/agondEK)
- - ⏩ [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
- - 👉 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
+ - 💣 [When you have to pass a cable under the terrace](http://9gag.com/gag/amABK1V)
+ - ⏩ [Male university students in Afghanistan walked out of their exam in protest against the Taliban\u2019s decision to ban female students from university education.](http://9gag.com/gag/aA03N6g)
+ - 👉 [Old old](http://9gag.com/gag/ap9mnvn)<!-- MEMES:END -->
 
 ---
 
