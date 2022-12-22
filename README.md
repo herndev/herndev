@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Customs data: Chinese companies imported $2.3B worth of semiconductor manufacturing machines in November, down 40% YoY and the lowest level since May 2020 &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p16#a221222p16)
- - [Our favorite reader-created Android wallpapers of 2022](https://www.androidauthority.com/best-android-wallpapers-2022-3242430/)
- - [The Bittersweet Defeat of Mpox](https://www.wired.com/story/the-bittersweet-defeat-of-mpox/)<!-- TECH:END -->
+ - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)
+ - [A profile of stablecoin developer Tether, which has withstood huge redemption runs during the current brutal crypto winter, competition, and regulatory pressure &lpar;Forbes&rpar;](http://www.techmeme.com/221222/p17#a221222p17)
+ - [Google is adding another layer of testing for Chrome updates](https://www.theverge.com/2022/12/22/23522340/google-chrome-testing-release-update-early-stable)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
