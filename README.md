@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple offers free two-hour delivery for Christmas](https://appleinsider.com/articles/22/12/22/apple-offers-free-two-hour-delivery-for-christmas?utm_medium=rss)
- - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)
- - [Apple bows to authoritarian regimes, claims activist group](https://appleinsider.com/articles/22/12/22/apple-bows-to-authoritarian-regimes-claims-activist-group?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter begins rolling out public view counts for tweets, expanding on video view counts and analytics; Elon Musk says they will show how &quot;alive Twitter is&quot; &lpar;Amanda Silberling/TechCrunch&rpar;](http://www.techmeme.com/221222/p22#a221222p22)
+ - [YouTube beats Apple to win the rights to NFL Sunday Ticket](https://www.androidauthority.com/youtube-nfl-sunday-ticket-3259447/)
+ - [Pathmatics: about 70% of Twitter&#39;s top 100 ad spenders before Elon Musk&#39;s takeover were not spending on the service as of the week ending December 18 &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221222/p21#a221222p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
