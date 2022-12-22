@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Time to put out the fire](http://9gag.com/gag/aMEZD2X)
- - ⏩ [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - 💣 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - ⏩ [What!!](http://9gag.com/gag/ajV8K9G)
  - 👉 [Give Dad a \ud83c\udfc6 and light community service, to top off the service he already did](http://9gag.com/gag/ajV8GGx)<!-- MEMES:END -->
 
 ---
