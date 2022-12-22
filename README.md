@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The most underrated smartphones of 2022](https://www.androidauthority.com/underrated-smartphones-2022-3240579/)
- - [The best new streaming movies this week on Netflix, Prime Video, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
- - [Apple halts update to HomeKit&#39;s new Home architecture](https://appleinsider.com/articles/22/12/22/apple-halts-update-to-homekits-new-home-architecture?utm_medium=rss)<!-- TECH:END -->
+ - [Apple offers free two-hour delivery for Christmas](https://appleinsider.com/articles/22/12/22/apple-offers-free-two-hour-delivery-for-christmas?utm_medium=rss)
+ - [Apple adds new Shortcuts actions for Books, Wallpapers](https://appleinsider.com/articles/22/12/22/apple-adds-new-shortcuts-actions-for-books-wallpapers?utm_medium=rss)
+ - [Apple bows to authoritarian regimes, claims activist group](https://appleinsider.com/articles/22/12/22/apple-bows-to-authoritarian-regimes-claims-activist-group?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
