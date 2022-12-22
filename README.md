@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Tower of Fantasy&#39;s 2.2 update expands a city-hub into a metropolis](https://www.pcgamer.com/tower-of-fantasys-22-update-expands-a-city-hub-into-a-metropolis)
- - [Today&#39;s Wordle 551 answer and hint for Thursday, December 22](https://www.pcgamer.com/wordle-551-answer-december-22)
- - [Rasberry Pi 5 pushed back to make more Pi for everyone](https://www.pcgamer.com/rasberry-pi-5-pushed-back-to-make-more-pi-for-everyone)<!-- GAME:END -->
+ - [I&#39;m hooked on Call of Duty like it&#39;s 2008 again &lpar;please don&#39;t tell any cool people&rpar;](https://www.pcgamer.com/im-hooked-on-call-of-duty-like-its-2008-again-please-dont-tell-any-cool-people)
+ - [Grounded finally makes survival fun](https://www.pcgamer.com/grounded-finally-makes-survival-fun)
+ - [Best Sandbox 2022: Teardown](https://www.pcgamer.com/best-sandbox-2022-teardown)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
