@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
- - ⏩ [Hmmm... This hospital looks suspicious...](http://9gag.com/gag/ap9mzj5)
- - 👉 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)<!-- MEMES:END -->
+ - 💣 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)
+ - ⏩ [Monk mom...](http://9gag.com/gag/aDY1rN9)
+ - 👉 [If being petty was a sport...](http://9gag.com/gag/aGEZ6qK)<!-- MEMES:END -->
 
 ---
 
