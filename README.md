@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I&#39;m hooked on Call of Duty like it&#39;s 2008 again &lpar;please don&#39;t tell any cool people&rpar;](https://www.pcgamer.com/im-hooked-on-call-of-duty-like-its-2008-again-please-dont-tell-any-cool-people)
- - [Grounded finally makes survival fun](https://www.pcgamer.com/grounded-finally-makes-survival-fun)
- - [Best Sandbox 2022: Teardown](https://www.pcgamer.com/best-sandbox-2022-teardown)<!-- GAME:END -->
+ - [The GTA 6 leak was one of the biggest ever, and the only winners were the news writers](https://www.pcgamer.com/the-gta-6-leak-was-one-of-the-biggest-ever-and-the-only-winners-were-the-news-writers)
+ - [World of Warcraft to get six updates in the next year](https://www.polygon.com/23522309/world-of-warcraft-dragonflight-roadmap-season-1-2)
+ - [Amazon&#39;s adding shorts and tights to a new Lost Ark class to dial-down the lewdness](https://www.pcgamer.com/amazons-adding-shorts-and-tights-to-a-new-lost-ark-class-to-dial-down-the-lewdness)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
