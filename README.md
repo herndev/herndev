@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [People who stand for something..](http://9gag.com/gag/aeQrdNj)
- - ⏩ [Anyone care to guess?](http://9gag.com/gag/aWGYbnx)
- - 👉 [Bruh...](http://9gag.com/gag/a7q3nzr)<!-- MEMES:END -->
+ - ⏩ [Hmmm... This hospital looks suspicious...](http://9gag.com/gag/ap9mzj5)
+ - 👉 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)<!-- MEMES:END -->
 
 ---
 
