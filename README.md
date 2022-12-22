@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [16 easy mounts to get in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-dragonflight-mounts-easy)
- - [Gloomwood&#39;s final update of the year adds a pub and lets you quicksave](https://www.pcgamer.com/gloomwoods-final-update-of-the-year-adds-a-pub-and-lets-you-quicksave)
- - [The mistakes from Shadowlands that World of Warcraft: Dragonflight fixed](https://www.pcgamer.com/the-mistakes-from-shadowlands-that-world-of-warcraft-dragonflight-fixed)<!-- GAME:END -->
+ - [Avatar court: the case for and against Spider](https://www.polygon.com/23521274/avatar-way-water-spider-jack-champion)
+ - [Celebrating 25 Years of Gran Turismo](https://blog.playstation.com/2022/12/22/celebrating-25-years-of-gran-turismo/)
+ - [Square Enix Abandons Its Chocobo Racing Game Just 9 Months After Launch](https://kotaku.com/chocobo-racing-gp-switch-final-fantasy-mario-kart-1849922771)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
