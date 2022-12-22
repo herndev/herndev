@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix to end password sharing in early 2023](https://appleinsider.com/articles/22/12/21/netflix-to-end-password-sharing-in-early-2023?utm_medium=rss)
- - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)
- - [Wednesday’s top tech news: Musk will still run Twitter even if he finds a new CEO](https://www.theverge.com/2022/12/21/23520407/december-21-2022-tech-news-liveblog)<!-- TECH:END -->
+ - [Spotify app code shows upcoming HealthKit integration for workout playlists](https://appleinsider.com/articles/22/12/22/spotify-app-code-shows-upcoming-healthkit-integration-for-workout-playlists?utm_medium=rss)
+ - [Excitrus 105W Power Bank Ultimate: Power to go and to spare](https://appleinsider.com/articles/22/12/21/excitrus-105w-power-bank-ultimate-power-to-go-and-to-spare?utm_medium=rss)
+ - [Bald Eagle Caught on Video Carrying Off Canada Goose     - CNET](https://www.cnet.com/science/bald-eagle-caught-on-video-carrying-off-canada-goose/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
