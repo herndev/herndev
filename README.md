@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3 made a small change that causes huge ripples](https://www.polygon.com/23522481/witcher-3-next-gen-quick-sign-cast-rules)
- - [Colorful peripherals made PC gaming approachable in a way I never expected](https://www.pcgamer.com/colorful-peripherals-made-pc-gaming-approachable-in-a-way-i-never-expected)
- - [Game Awards Photoshops Bill Clinton Kid Out Of Elden Ring Speech](https://kotaku.com/game-awards-2022-clinton-elden-ring-hidetaka-miyazaki-1849923033)<!-- GAME:END -->
+ - [How Bloodborne paved the way for one of 2022’s breakout hits](https://www.polygon.com/gaming/23521420/bloodborne-zelda-tunic-interview-soulslikes-puzzles-best-indie-games-2022)
+ - [Mythic Quest’s Charlotte Nicdao Teaches Us Some Handy Australian Slang](https://kotaku.com/charlotte-nicdao-mythic-quest-australian-slang-old-mate-1849923409)
+ - [Hideo Kojima says he &#39;completely rewrote&#39; Death Stranding 2 after the pandemic](https://www.pcgamer.com/hideo-kojima-says-he-completely-rewrote-death-stranding-2-after-the-pandemic)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
