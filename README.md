@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [US SDNY attorney: ex-Alameda CEO Caroline Ellison and FTX co-founder Gary Wang have pleaded guilty to federal charges and are cooperating in SBF criminal case &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p27#a221221p27)
  - [Spotify app code shows upcoming HealthKit integration for workout playlists](https://appleinsider.com/articles/22/12/22/spotify-app-code-shows-upcoming-healthkit-integration-for-workout-playlists?utm_medium=rss)
- - [Excitrus 105W Power Bank Ultimate: Power to go and to spare](https://appleinsider.com/articles/22/12/21/excitrus-105w-power-bank-ultimate-power-to-go-and-to-spare?utm_medium=rss)
- - [Bald Eagle Caught on Video Carrying Off Canada Goose     - CNET](https://www.cnet.com/science/bald-eagle-caught-on-video-carrying-off-canada-goose/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Excitrus 105W Power Bank Ultimate: Power to go and to spare](https://appleinsider.com/articles/22/12/21/excitrus-105w-power-bank-ultimate-power-to-go-and-to-spare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
