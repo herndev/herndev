@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [8 Most Exciting Rumored Phones Coming Out in 2023     - CNET](https://www.cnet.com/tech/mobile/8-most-exciting-rumored-phones-coming-out-in-2023/#ftag=CAD590a51e)
- - [Micron reports Q1 revenue down ~47% YoY to $4.09B and plans to reduce its workforce by ~10% over the next year; Micron had 48,000 employees in September 2022 &lpar;Ian King/Bloomberg&rpar;](http://www.techmeme.com/221221/p25#a221221p25)
- - [Black Adam: Post-Credits Scene, Misleading DC Cameo Explained as Movie Comes to HBO Max     - CNET](https://www.cnet.com/culture/entertainment/black-adam-post-credits-scene-misleading-dc-cameo-explained-as-movie-comes-to-hbo-max/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Netflix to end password sharing in early 2023](https://appleinsider.com/articles/22/12/21/netflix-to-end-password-sharing-in-early-2023?utm_medium=rss)
+ - [The Absolute Best Sci-Fi Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-sci-fi-movies-on-netflix/#ftag=CAD590a51e)
+ - [Wednesday’s top tech news: Musk will still run Twitter even if he finds a new CEO](https://www.theverge.com/2022/12/21/23520407/december-21-2022-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
