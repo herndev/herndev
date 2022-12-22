@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - ⏩ [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
- - 👉 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)<!-- MEMES:END -->
+ - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
+ - ⏩ [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
+ - 👉 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
 
 ---
 
