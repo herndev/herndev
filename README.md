@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch-now/#ftag=CAD590a51e)
- - [Sources: ChatGPT&#39;s release led Google to declare a &quot;code red&quot;, as teams have been reassigned to respond to the threat that ChatGPT poses to its search business &lpar;New York Times&rpar;](http://www.techmeme.com/221221/p28#a221221p28)
- - [&#39;Mysterious Shapes&#39; Inside Mars Crater Puzzle Scientists     - CNET](https://www.cnet.com/science/space/mysterious-shapes-inside-mars-crater-puzzle-scientists/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Alphabet, Meta, and Salesforce are seeking to abandon leased office space in London and Dublin; Amazon and Microsoft put London expansion plans on hold &lpar;Financial Times&rpar;](http://www.techmeme.com/221221/p30#a221221p30)
+ - [Netflix will add Nike Training Club workouts to its offerings from December 30, with plans to add over 90 Nike Training Club workouts in total &lpar;BreAnna Bell/Variety&rpar;](http://www.techmeme.com/221221/p29#a221221p29)
+ - [HBO Max: The Absolute Best Sci-Fi Movies to Watch     - CNET](https://www.cnet.com/culture/entertainment/hbo-max-the-absolute-best-sci-fi-movies-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
