@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
- - ⏩ [Just found this and some women are criticizing the man](http://9gag.com/gag/a3ZQDV3)
- - 👉 [Wife material](http://9gag.com/gag/aBd0Mvx)<!-- MEMES:END -->
+ - 💣 [Bruh...](http://9gag.com/gag/a7q3nzr)
+ - ⏩ [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - 👉 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
 
 ---
 
