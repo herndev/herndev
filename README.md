@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bruh...](http://9gag.com/gag/a7q3nzr)
- - ⏩ [Can you guys give me more of this type of videos/gifs in the comments pls](http://9gag.com/gag/anz9djV)
- - 👉 [Are you ok? Nope](http://9gag.com/gag/anz9r2n)<!-- MEMES:END -->
+ - 💣 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - ⏩ [So, I&#39;m not the only one?](http://9gag.com/gag/awZADKR)
+ - 👉 [The negotiations were short](http://9gag.com/gag/aXnYzZv)<!-- MEMES:END -->
 
 ---
 
