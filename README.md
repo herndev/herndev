@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BenQ 34-inch ultrawide 2K monitor review: Perfect for Universal Control](https://appleinsider.com/articles/22/12/23/benq-34-inch-ultrawide-2k-monitor-review-perfect-for-universal-control?utm_medium=rss)
- - [Jessica Henwick Shot a Movie on a Phone. It Wasn’t Exactly Easy](https://www.wired.com/story/phone-cameras-in-film/)
- - [No, You Haven’t Won a Yeti Cooler From Dick’s Sporting Goods](https://www.wired.com/story/email-scam-dicks-sporting-goods-yeti-cooler/)<!-- TECH:END -->
+ - [We voted, you voted: Everyone loves a Pixel camera, Xperia not so much](https://www.androidauthority.com/teamaa-vs-reader-blind-camera-3258408/)
+ - [Google’s alleged Pixel phone plans for the next three years have leaked](https://www.theverge.com/2022/12/23/23523070/google-pixel-foldable-2023-2025-rumors-compact-pro)
+ - [ArtStation is hiding images protesting AI art on the platform](https://www.theverge.com/2022/12/23/23523864/artstation-removing-anti-ai-protest-artwork-censorship)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
