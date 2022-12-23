@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Amazon Deals: Samsung Cordless Vacuum, Massage Guns and More     - CNET](https://www.cnet.com/deals/best-amazon-deals/#ftag=CAD590a51e)
- - [Twitter will now let Blue subscribers upload 60-minute, 1080p videos up to 2GB on the web; iOS and Android users are still limited to 10-minute, 512MB videos &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/221223/p4#a221223p4)
- - [Filing: Meta agrees to pay $725M to settle a class-action lawsuit accusing the company of letting third parties, including Cambridge Analytica, access user data &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/221223/p3#a221223p3)<!-- TECH:END -->
+ - [I Baked ‘Fabulous Modern Cookies’ With My Mom—and She Approves](https://www.wired.com/story/fabulous-modern-cookies-baking-recipes/)
+ - [A More Elegant Form of Gene Editing Progresses to Human Testing](https://www.wired.com/story/a-more-elegant-form-of-gene-editing-progresses-to-human-testing/)
+ - [Rian Johnson Knows the Tech Bro in &#39;Glass Onion&#39; Looks Very Familiar](https://www.wired.com/story/rian-johnson-glass-onion-q-and-a/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
