@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Forget RGB, this keyboard runs the Unreal Engine to display full interactive video](https://www.pcgamer.com/forget-rgb-this-keyboard-runs-the-unreal-engine-to-display-full-interactive-video)
  - [Ukrainian Devs Remind Us Life Is Still Hell As Russian Missiles Strike Cities](https://kotaku.com/ukraine-russia-kyiv-bomb-drones-video-games-frogwares-1849925428)
- - [Fans Discover Half-Life 2 Corpse Has Actual Dead Human’s Face](https://kotaku.com/half-life-2-creepy-corpse01-mdl-face-dead-guy-explained-1849925387)
- - [Boomer shooters had a phenomenal year—these are our top picks for retro FPS action on the cheap](https://www.pcgamer.com/boomer-shooters-had-a-phenomenal-yearthese-are-our-top-picks-for-retro-fps-action-on-the-cheap)<!-- GAME:END -->
+ - [Fans Discover Half-Life 2 Corpse Has Actual Dead Human’s Face](https://kotaku.com/half-life-2-creepy-corpse01-mdl-face-dead-guy-explained-1849925387)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
