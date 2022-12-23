@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Yes, it happened again. Don&#39;t laugh...it could have happened to anyone...twice...](http://9gag.com/gag/a3ZQgvN)
- - ⏩ [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - 👉 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/a6qOg3b)
+ - ⏩ [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
+ - 👉 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
 
 ---
 
