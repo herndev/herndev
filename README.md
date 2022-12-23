@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - ⏩ [Simpsons April Fools](http://9gag.com/gag/a8q3OpY)
- - 👉 [Me and who ?](http://9gag.com/gag/amABwgv)<!-- MEMES:END -->
+ - 💣 [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - ⏩ [Good night](http://9gag.com/gag/a4oQg3v)
+ - 👉 [Based](http://9gag.com/gag/a6qOg3b)<!-- MEMES:END -->
 
 ---
 
