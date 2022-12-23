@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
- - ⏩ [You people disgust me](http://9gag.com/gag/aKExyo3)
- - 👉 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)<!-- MEMES:END -->
+ - 💣 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
+ - ⏩ [Alcohol and board games are a great time](http://9gag.com/gag/axozqKn)
+ - 👉 [Store policy](http://9gag.com/gag/ap9mZ4E)<!-- MEMES:END -->
 
 ---
 
