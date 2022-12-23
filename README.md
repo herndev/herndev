@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
- - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
- - 👉 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)<!-- MEMES:END -->
+ - 💣 [Based](http://9gag.com/gag/a6qOg3b)
+ - ⏩ [Good night](http://9gag.com/gag/a4oQg3v)
+ - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
 
 ---
 
