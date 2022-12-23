@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Glass Onion’s Among Us gag was also full of famous murder-mystery cameos](https://www.polygon.com/23516904/glass-onion-among-us-cameos-angela-lansbury-kareem-stephen-sondheim)
  - [Watch a tiny Lego OLED terminal being made in this ASMR video](https://www.pcgamer.com/watch-a-tiny-lego-oled-terminal-being-made-in-this-asmr-video)
- - [Forget RGB, this keyboard runs the Unreal Engine to display full interactive video](https://www.pcgamer.com/forget-rgb-this-keyboard-runs-the-unreal-engine-to-display-full-interactive-video)
- - [Ukrainian Devs Remind Us Life Is Still Hell As Russian Missiles Strike Cities](https://kotaku.com/ukraine-russia-kyiv-bomb-drones-video-games-frogwares-1849925428)<!-- GAME:END -->
+ - [Forget RGB, this keyboard runs the Unreal Engine to display full interactive video](https://www.pcgamer.com/forget-rgb-this-keyboard-runs-the-unreal-engine-to-display-full-interactive-video)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
