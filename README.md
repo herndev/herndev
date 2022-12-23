@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Baked ‘Fabulous Modern Cookies’ With My Mom—and She Approves](https://www.wired.com/story/fabulous-modern-cookies-baking-recipes/)
- - [A More Elegant Form of Gene Editing Progresses to Human Testing](https://www.wired.com/story/a-more-elegant-form-of-gene-editing-progresses-to-human-testing/)
- - [Rian Johnson Knows the Tech Bro in &#39;Glass Onion&#39; Looks Very Familiar](https://www.wired.com/story/rian-johnson-glass-onion-q-and-a/)<!-- TECH:END -->
+ - [BenQ 34-inch ultrawide 2K monitor review: Perfect for Universal Control](https://appleinsider.com/articles/22/12/23/benq-34-inch-ultrawide-2k-monitor-review-perfect-for-universal-control?utm_medium=rss)
+ - [Jessica Henwick Shot a Movie on a Phone. It Wasn’t Exactly Easy](https://www.wired.com/story/phone-cameras-in-film/)
+ - [No, You Haven’t Won a Yeti Cooler From Dick’s Sporting Goods](https://www.wired.com/story/email-scam-dicks-sporting-goods-yeti-cooler/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
