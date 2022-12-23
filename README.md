@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
- - ⏩ [Alcohol and board games are a great time](http://9gag.com/gag/axozqKn)
- - 👉 [Store policy](http://9gag.com/gag/ap9mZ4E)<!-- MEMES:END -->
+ - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 👉 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
 
 ---
 
