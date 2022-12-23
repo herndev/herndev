@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
- - ⏩ [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
- - 👉 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)<!-- MEMES:END -->
+ - 💣 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
+ - ⏩ [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
+ - 👉 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)<!-- MEMES:END -->
 
 ---
 
