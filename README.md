@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [You people disgust me](http://9gag.com/gag/aKExyo3)
  - ⏩ [Simpsons April Fools](http://9gag.com/gag/a8q3OpY)
- - 👉 [Always look on the bright side of life](http://9gag.com/gag/aQERb0e)<!-- MEMES:END -->
+ - 👉 [Me and who ?](http://9gag.com/gag/amABwgv)<!-- MEMES:END -->
 
 ---
 
