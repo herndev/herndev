@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
- - ⏩ [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)
- - 👉 [You people disgust me](http://9gag.com/gag/aKExyo3)<!-- MEMES:END -->
+ - 💣 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
+ - ⏩ [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
+ - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
 
 ---
 
