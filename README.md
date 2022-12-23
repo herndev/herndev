@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [We voted, you voted: Everyone loves a Pixel camera, Xperia not so much](https://www.androidauthority.com/teamaa-vs-reader-blind-camera-3258408/)
- - [Google’s alleged Pixel phone plans for the next three years have leaked](https://www.theverge.com/2022/12/23/23523070/google-pixel-foldable-2023-2025-rumors-compact-pro)
- - [ArtStation is hiding images protesting AI art on the platform](https://www.theverge.com/2022/12/23/23523864/artstation-removing-anti-ai-protest-artwork-censorship)<!-- TECH:END -->
+ - [ITC finds Apple guilty of heart rate monitoring patent infringement](https://appleinsider.com/articles/22/12/23/itc-finds-apple-guilty-of-heart-rate-monitoring-patent-infringement?utm_medium=rss)
+ - [Missing in action: The smartphones we didn’t see in 2022](https://www.androidauthority.com/missing-phones-2022-3241275/)
+ - [Daily Deals Dec 23: AirPods $89, 30% off Amazon eero Pro 6 mesh Wi-Fi 6 system &amp; more](https://appleinsider.com/articles/22/12/23/daily-deals-dec-23-airpods-89-30-off-amazon-eero-pro-6-mesh-wi-fi-6-system-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
