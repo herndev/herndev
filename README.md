@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [What You Should Know About ‘Next Gen’ Witcher 3’s New Casting System](https://kotaku.com/witcher-3-signs-how-to-quick-casting-standard-ps5-xbox-1849925171)
- - [TMNT Shredder’s Revenge now plays even more like a classic Konami arcade game](https://www.polygon.com/23523292/tmnt-shredders-revenge-arcade-mode-update-konami-ninja-turtles)
- - [The best deals in the 2022 Steam Winter Sale](https://www.pcgamer.com/steam-winter-sale-deals-2022)<!-- GAME:END -->
+ - [Ukrainian Devs Remind Us Life Is Still Hell As Russian Missiles Strike Cities](https://kotaku.com/ukraine-russia-kyiv-bomb-drones-video-games-frogwares-1849925428)
+ - [Fans Discover Half-Life 2 Corpse Has Actual Dead Human’s Face](https://kotaku.com/half-life-2-creepy-corpse01-mdl-face-dead-guy-explained-1849925387)
+ - [Boomer shooters had a phenomenal year—these are our top picks for retro FPS action on the cheap](https://www.pcgamer.com/boomer-shooters-had-a-phenomenal-yearthese-are-our-top-picks-for-retro-fps-action-on-the-cheap)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
