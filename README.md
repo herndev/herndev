@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
- - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
- - 👉 [Not my f**king problem](http://9gag.com/gag/a4oQOep)<!-- MEMES:END -->
+ - 💣 [Before and after leg lengthening.](http://9gag.com/gag/aeQr8ov)
+ - ⏩ [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
+ - 👉 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)<!-- MEMES:END -->
 
 ---
 
