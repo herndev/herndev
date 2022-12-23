@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court transcript from plea hearing: Caroline Ellison said she and Sam Bankman-Fried knowingly misled lenders about how much Alameda was borrowing from FTX &lpar;Reuters&rpar;](http://www.techmeme.com/221223/p15#a221223p15)
  - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)
- - [How to use Apple Health calorie burn metrics](https://appleinsider.com/inside/apple-fitness-plus/tips/how-to-use-apple-healths-calorie-burn-metrics?utm_medium=rss)
- - [After pushback, the IRS delays a requirement for e-commerce platforms, including Venmo and PayPal, to send tax forms to small businesses with $600+ transactions &lpar;Naomi Jagoda/Bloomberg&rpar;](http://www.techmeme.com/221223/p14#a221223p14)<!-- TECH:END -->
+ - [Search Engine You.com Launches ChatGPT-Style Chatbot, But Don&#39;t Trust It Fully Yet     - CNET](https://www.cnet.com/tech/services-and-software/search-engine-you-com-launches-chatgpt-style-chatbot/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
