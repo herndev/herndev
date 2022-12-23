@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Watching shows be like:](http://9gag.com/gag/aNwYMoK)
- - ⏩ [This should not be part and parcel of living in big cities.](http://9gag.com/gag/ay2BrRY)
- - 👉 [Do you have any talent?](http://9gag.com/gag/aBd0M0Q)<!-- MEMES:END -->
+ - 💣 [Spirit airlines](http://9gag.com/gag/aNwYGxK)
+ - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 👉 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)<!-- MEMES:END -->
 
 ---
 
