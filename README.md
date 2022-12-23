@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [18 Cozy Games That Feel Like A Warm Blanket](https://kotaku.com/best-cozy-games-disney-dreamlight-valley-chill-relaxing-1848255535)
- - [A decade on, early access is still a big mess](https://www.pcgamer.com/a-decade-on-early-access-is-still-a-big-mess)
- - [Our Favorite Childhood Holiday Gifts, Video Game Edition](https://kotaku.com/best-gaming-gifts-guide-xbox-playstation-nintendo-1849923839)<!-- GAME:END -->
+ - [Hyper Gunsport, One of the Oldest ID@Xbox Games, is Finally Available!](https://news.xbox.com/en-us/2022/12/23/hyper-gunsport-one-of-the-oldest-idxbox-games-is-finally-available/)
+ - [This Great Snowboarding Game Belongs In The Voice Acting Hall Of Shame](https://kotaku.com/shredders-foampunch-xbox-game-pass-snowboarding-1848700279)
+ - [Cute cops on Kawasakis drive this deceptively deep PC-98 strategy game](https://www.pcgamer.com/cute-cops-on-kawasakis-drive-this-deceptively-deep-pc-98-strategy-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
