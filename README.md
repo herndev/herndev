@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)
- - ⏩ [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)
- - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
+ - 💣 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
+ - ⏩ [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - 👉 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)<!-- MEMES:END -->
 
 ---
 
