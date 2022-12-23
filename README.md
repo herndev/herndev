@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [20 must-play indie gems available with the PlayStation Plus Game Catalog](https://blog.playstation.com/2022/12/23/20-must-play-indie-gems-available-with-the-playstation-plus-game-catalog/)
- - [The metaverse has legs but nowhere to go](https://www.pcgamer.com/the-metaverse-has-legs-but-nowhere-to-go)
- - [Dragon Age: Absolution sets up the future of the franchise in the least obvious way](https://www.polygon.com/23521191/dragon-age-absolution-rezaren-tevinter-dreadwolf)<!-- GAME:END -->
+ - [18 Cozy Games That Feel Like A Warm Blanket](https://kotaku.com/best-cozy-games-disney-dreamlight-valley-chill-relaxing-1848255535)
+ - [A decade on, early access is still a big mess](https://www.pcgamer.com/a-decade-on-early-access-is-still-a-big-mess)
+ - [Our Favorite Childhood Holiday Gifts, Video Game Edition](https://kotaku.com/best-gaming-gifts-guide-xbox-playstation-nintendo-1849923839)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
