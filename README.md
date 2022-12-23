@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TokToking Apple employee terminated over medical leave, not videos](https://appleinsider.com/articles/22/12/23/toktoking-apple-employee-terminated-over-medical-leave-not-videos?utm_medium=rss)
- - [Research: tens of thousands of Twitter poll bot votes can cost less than $100, potentially undermining Elon Musk&#39;s move to rely on polls for company decisions &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/221222/p31#a221222p31)
- - [NASA&#39;s Groundbreaking Mars Insight Lander Mission Meets Dusty Demise     - CNET](https://www.cnet.com/science/space/nasas-groundbreaking-mars-insight-lander-mission-meets-dusty-demise/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [President Jair Bolsonaro signs into law Brazil&#39;s first crypto framework, which defines digital assets and provides ground rules for crypto brokerages &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p33#a221222p33)
+ - [ByteDance fired four employees after finding in a probe they accessed data on US TikTok users, including reporters, while trying to learn the sources of a story &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221222/p32#a221222p32)
+ - [TokToking Apple employee terminated over medical leave, not videos](https://appleinsider.com/articles/22/12/23/toktoking-apple-employee-terminated-over-medical-leave-not-videos?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
