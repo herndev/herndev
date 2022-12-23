@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Congress passes a $1.7T spending package including a bill banning TikTok on federal government devices, but fails to pass many aggressive bills targeting tech &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/221223/p13#a221223p13)
- - [How to use Sonos speakers with Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-sonos-speakers-with-apple-tv?utm_medium=rss)
- - [Study: Black Patients Have Lower Access to Newer, Safer Heart Surgeries     - CNET](https://www.cnet.com/science/biology/study-black-patients-have-lower-access-to-newer-safer-heart-surgeries/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)
+ - [How to use Apple Health calorie burn metrics](https://appleinsider.com/inside/apple-fitness-plus/tips/how-to-use-apple-healths-calorie-burn-metrics?utm_medium=rss)
+ - [After pushback, the IRS delays a requirement for e-commerce platforms, including Venmo and PayPal, to send tax forms to small businesses with $600+ transactions &lpar;Naomi Jagoda/Bloomberg&rpar;](http://www.techmeme.com/221223/p14#a221223p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
