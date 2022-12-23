@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ITC finds Apple guilty of heart rate monitoring patent infringement](https://appleinsider.com/articles/22/12/23/itc-finds-apple-guilty-of-heart-rate-monitoring-patent-infringement?utm_medium=rss)
- - [Hackers stole encrypted LastPass password vaults, and we’re just now hearing about it](https://www.theverge.com/2022/12/22/23523322/lastpass-data-breach-cloud-encrypted-password-vault-hackers)
- - [Tesla’s Full Self-Driving is blamed for eight-car pileup in California](https://www.theverge.com/2022/12/22/23523201/tesla-fsd-braking-crash-bay-bridge-california-chp)<!-- TECH:END -->
+ - [TokToking Apple employee terminated over medical leave, not videos](https://appleinsider.com/articles/22/12/23/toktoking-apple-employee-terminated-over-medical-leave-not-videos?utm_medium=rss)
+ - [Research: tens of thousands of Twitter poll bot votes can cost less than $100, potentially undermining Elon Musk&#39;s move to rely on polls for company decisions &lpar;Davey Alba/Bloomberg&rpar;](http://www.techmeme.com/221222/p31#a221222p31)
+ - [NASA&#39;s Groundbreaking Mars Insight Lander Mission Meets Dusty Demise     - CNET](https://www.cnet.com/science/space/nasas-groundbreaking-mars-insight-lander-mission-meets-dusty-demise/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
