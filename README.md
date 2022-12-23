@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Show didn\u2019t just film a rape, but doubled up and filmed her reaction to watching the video](http://9gag.com/gag/a04QDEL)
- - ⏩ [The captive orca Tilikum looking at its trainers. There have only been 4 human deaths caused by orcas as of 2019, and Tilikum was responsible for 3 of them.](http://9gag.com/gag/aA03A9E)
- - 👉 [Based](http://9gag.com/gag/a6qOg3b)<!-- MEMES:END -->
+ - 💣 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
+ - ⏩ [The carp &#39;ghosted&#39; Clarkson and his dad.](http://9gag.com/gag/a5XM3gr)
+ - 👉 [Excited Puppy](http://9gag.com/gag/avQ8w4O)<!-- MEMES:END -->
 
 ---
 
