@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s like a battle royale by that point](http://9gag.com/gag/axozw82)
- - ⏩ [Americans are freezing asleep, quick upvote real walls.](http://9gag.com/gag/aeQrBVm)
- - 👉 [Are you working this weekend bro?](http://9gag.com/gag/aPgYq9w)<!-- MEMES:END -->
+ - 💣 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
+ - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
+ - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
 
 ---
 
