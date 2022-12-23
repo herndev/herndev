@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/a6qOg3b)
- - ⏩ [He is 7\u20196\u201d](http://9gag.com/gag/adPLrrZ)
- - 👉 [Well well well, how the turn tables!](http://9gag.com/gag/aL1g34V)<!-- MEMES:END -->
+ - 💣 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
+ - ⏩ [Good riddance.](http://9gag.com/gag/aA035od)
+ - 👉 [Going in for batman once again](http://9gag.com/gag/aPgY2Nn)<!-- MEMES:END -->
 
 ---
 
