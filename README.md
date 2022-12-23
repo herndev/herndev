@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [After almost a year with the Steam Deck I&#39;ve finally been converted](https://www.pcgamer.com/after-almost-a-year-with-the-steam-deck-ive-finally-been-converted)
- - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)
- - [Pentiment&#39;s biggest success was making me think about failure](https://www.pcgamer.com/pentiments-biggest-success-was-making-me-think-about-failure)<!-- GAME:END -->
+ - [12 Brilliant Games To Play With Your Family This Holiday Season](https://kotaku.com/10-brilliant-games-to-play-with-your-family-this-holida-1848268184)
+ - [The Top 4 Romance Anime to Watch During The 2022 Cuffing Season](https://kotaku.com/2022-2023-cuffing-season-romance-anime-urusei-yatsura-1849924718)
+ - [My severe Steam Deck FOMO still won&#39;t let me take the handheld PC plunge](https://www.pcgamer.com/my-severe-steam-deck-fomo-still-wont-let-me-take-the-handheld-pc-plunge)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
