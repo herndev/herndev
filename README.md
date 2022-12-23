@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AT&amp;T will launch broadband service in states it doesn&#39;t currently serve via a joint venture with BlackRock, initially reaching 1.5M customer locations in the US &lpar;Will Feuer/Wall Street Journal&rpar;](http://www.techmeme.com/221223/p10#a221223p10)
- - [Apple pulls option to upgrade to new HomeKit architecture in iOS 16.2](https://www.theverge.com/2022/12/22/23522418/apple-ios16-2-homekit-home-app-upgrade-removed)
- - [Tesla’s $300 wireless charger uses coils from a company called FreePower](https://www.theverge.com/2022/12/23/23524089/tesla-wireless-charging-platform-freepower-aira-multi-device)<!-- TECH:END -->
+ - [Congress passes a $1.7T spending package including a bill banning TikTok on federal government devices, but fails to pass many aggressive bills targeting tech &lpar;Lauren Feiner/CNBC&rpar;](http://www.techmeme.com/221223/p13#a221223p13)
+ - [How to use Sonos speakers with Apple TV](https://appleinsider.com/inside/apple-tv/tips/how-to-use-sonos-speakers-with-apple-tv?utm_medium=rss)
+ - [Study: Black Patients Have Lower Access to Newer, Safer Heart Surgeries     - CNET](https://www.cnet.com/science/biology/study-black-patients-have-lower-access-to-newer-safer-heart-surgeries/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
