@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ITC finds Apple guilty of heart rate monitoring patent infringement](https://appleinsider.com/articles/22/12/23/itc-finds-apple-guilty-of-heart-rate-monitoring-patent-infringement?utm_medium=rss)
- - [Missing in action: The smartphones we didn’t see in 2022](https://www.androidauthority.com/missing-phones-2022-3241275/)
- - [Daily Deals Dec 23: AirPods $89, 30% off Amazon eero Pro 6 mesh Wi-Fi 6 system &amp; more](https://appleinsider.com/articles/22/12/23/daily-deals-dec-23-airpods-89-30-off-amazon-eero-pro-6-mesh-wi-fi-6-system-more?utm_medium=rss)<!-- TECH:END -->
+ - [2022 was a killer year for streaming movies! Here are our 10 favorites](https://www.androidauthority.com/best-streaming-movies-2022-3251627/)
+ - [Wearing an Apple Watch Ultra for a month convinced me to buy a Series 7](https://www.theverge.com/23522637/apple-watch-ultra-series-7-edition-instead)
+ - [Best tech for bicyclists in your life](https://appleinsider.com/articles/22/12/23/best-tech-for-bicyclists-in-your-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
