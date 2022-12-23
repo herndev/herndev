@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [After almost a year with the Steam Deck I&#39;ve finally been converted](https://www.pcgamer.com/after-almost-a-year-with-the-steam-deck-ive-finally-been-converted)
  - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)
- - [Pentiment&#39;s biggest success was making me think about failure](https://www.pcgamer.com/pentiments-biggest-success-was-making-me-think-about-failure)
- - [Best RPG 2022: Persona 5 Royal](https://www.pcgamer.com/best-rpg-2022-persona-5-royal)<!-- GAME:END -->
+ - [Pentiment&#39;s biggest success was making me think about failure](https://www.pcgamer.com/pentiments-biggest-success-was-making-me-think-about-failure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
