@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Based](http://9gag.com/gag/a6qOg3b)
- - ⏩ [Good night](http://9gag.com/gag/a4oQg3v)
- - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
+ - 💣 [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - ⏩ [Simpsons April Fools](http://9gag.com/gag/a8q3OpY)
+ - 👉 [Always look on the bright side of life](http://9gag.com/gag/aQERb0e)<!-- MEMES:END -->
 
 ---
 
