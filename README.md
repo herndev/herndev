@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Glass Onion, Top Gun 2, and every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/23/23517032/new-movies-watch-glass-onion-netflix-top-gun-maverick-paramount-plus-aftersun-vod)
  - [Our favorite Steam Deck games in the Steam Winter Sale](https://www.pcgamer.com/best-steam-deck-winter-sale-deals)
- - [Getting A PS5 Or Xbox Series S/X Is Sorta Easier Two Years Later](https://kotaku.com/ps5-xbox-series-x-series-s-microsoft-sony-semiconductor-1849924637)
- - [Sherlock Holmes studio Frogwares shares a defiant look at life inside Ukraine](https://www.pcgamer.com/sherlock-holmes-studio-frogwares-shares-a-defiant-look-at-life-inside-ukraine)<!-- GAME:END -->
+ - [Getting A PS5 Or Xbox Series S/X Is Sorta Easier Two Years Later](https://kotaku.com/ps5-xbox-series-x-series-s-microsoft-sony-semiconductor-1849924637)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
