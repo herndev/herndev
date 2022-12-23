@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 was a killer year for streaming movies! Here are our 10 favorites](https://www.androidauthority.com/best-streaming-movies-2022-3251627/)
- - [Wearing an Apple Watch Ultra for a month convinced me to buy a Series 7](https://www.theverge.com/23522637/apple-watch-ultra-series-7-edition-instead)
- - [Best tech for bicyclists in your life](https://appleinsider.com/articles/22/12/23/best-tech-for-bicyclists-in-your-life?utm_medium=rss)<!-- TECH:END -->
+ - [Lowest price ever: Apple M1 Max MacBook Pro 16-inch &lpar;32GB RAM, 1TB SSD&rpar; on sale for $2,999](https://appleinsider.com/articles/22/12/23/lowest-price-ever-apple-m1-max-macbook-pro-16-inch-32gb-ram-1tb-ssd-on-sale-for-2999?utm_medium=rss)
+ - [Cambridge Analytica suit settled for historic $725 million [u]](https://appleinsider.com/articles/22/12/23/cambridge-analytica-suit-settled-for-historic-725-million?utm_medium=rss)
+ - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
