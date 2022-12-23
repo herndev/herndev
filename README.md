@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 552 answer and hint for Friday, December 23](https://www.pcgamer.com/wordle-552-answer-december-23)
- - [Glass Onion’s Among Us gag was also full of famous murder-mystery cameos](https://www.polygon.com/23516904/glass-onion-among-us-cameos-angela-lansbury-kareem-stephen-sondheim)
- - [Watch a tiny Lego OLED terminal being made in this ASMR video](https://www.pcgamer.com/watch-a-tiny-lego-oled-terminal-being-made-in-this-asmr-video)<!-- GAME:END -->
+ - [Souls clones barely stood a chance in 2022, but Steelrising at least had style](https://www.pcgamer.com/souls-clones-barely-stood-a-chance-in-2022-but-steelrising-at-least-had-style)
+ - [Pentiment&#39;s biggest success was making me think about failure](https://www.pcgamer.com/pentiments-biggest-success-was-making-me-think-about-failure)
+ - [Best RPG 2022: Persona 5 Royal](https://www.pcgamer.com/best-rpg-2022-persona-5-royal)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
