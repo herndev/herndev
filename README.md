@@ -36,7 +36,7 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Meta to pay $725M to settle a class-action lawsuit accusing the company of allowing third parties, including Cambridge Analytica, to access users&#39; data &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/221223/p3#a221223p3)
+ - [Filing: Meta agrees to pay $725M to settle a class-action lawsuit accusing the company of letting third parties, including Cambridge Analytica, access user data &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/221223/p3#a221223p3)
  - [Sources: TSMC is in advanced talks with key suppliers about setting up its first European plant in Dresden, Germany; construction could begin in early 2024 &lpar;Financial Times&rpar;](http://www.techmeme.com/221223/p2#a221223p2)
  - [Flipkart no longer owns a stake in PhonePe, the two companies say; source: PhonePe is in talks to raise $1.5B at a pre-money valuation of $12B &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/221223/p1#a221223p1)<!-- TECH:END -->
 
