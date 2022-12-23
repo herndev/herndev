@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [My, my, how time does fly](http://9gag.com/gag/adPL4KN)
- - ⏩ [Tis but a scratch](http://9gag.com/gag/awZAP2x)
- - 👉 [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)<!-- MEMES:END -->
+ - ⏩ [Fascinating behaviors at the airport](http://9gag.com/gag/az29wdz)
+ - 👉 [\u20ac100.000 vs \u20ac5.000](http://9gag.com/gag/aL1g7B5)<!-- MEMES:END -->
 
 ---
 
