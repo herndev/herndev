@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Denied entry because of facial recognition database. Get ready boys &amp; girls, it&#39;s only the beginning](http://9gag.com/gag/aBd0eoQ)
- - ⏩ [It&#39;s like a battle royale by that point](http://9gag.com/gag/axozw82)
+ - 💣 [It&#39;s like a battle royale by that point](http://9gag.com/gag/axozw82)
+ - ⏩ [Americans are freezing asleep, quick upvote real walls.](http://9gag.com/gag/aeQrBVm)
  - 👉 [Are you working this weekend bro?](http://9gag.com/gag/aPgYq9w)<!-- MEMES:END -->
 
 ---
