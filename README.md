@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [President Jair Bolsonaro signs into law Brazil&#39;s first crypto framework, which defines digital assets and provides ground rules for crypto brokerages &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p33#a221222p33)
- - [ByteDance fired four employees after finding in a probe they accessed data on US TikTok users, including reporters, while trying to learn the sources of a story &lpar;Emily Baker-White/Forbes&rpar;](http://www.techmeme.com/221222/p32#a221222p32)
- - [TokToking Apple employee terminated over medical leave, not videos](https://appleinsider.com/articles/22/12/23/toktoking-apple-employee-terminated-over-medical-leave-not-videos?utm_medium=rss)<!-- TECH:END -->
+ - [Hackers obtained LastPass customer data vaults in recent data breach](https://appleinsider.com/articles/22/12/23/hackers-obtained-lastpass-customer-data-vaults-in-recent-data-breach?utm_medium=rss)
+ - [Microsoft files a rebuttal to the FTC&#39;s lawsuit to block its Activision deal, saying the deal won&#39;t hurt competition and that it isn&#39;t the top game developer &lpar;Sarah E. Needleman/Wall Street Journal&rpar;](http://www.techmeme.com/221222/p34#a221222p34)
+ - [President Jair Bolsonaro signs into law Brazil&#39;s first crypto framework, which defines digital assets and provides ground rules for crypto brokerages &lpar;Bloomberg&rpar;](http://www.techmeme.com/221222/p33#a221222p33)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
