@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)
- - ⏩ [Good riddance.](http://9gag.com/gag/aA035od)
- - 👉 [Going in for batman once again](http://9gag.com/gag/aPgY2Nn)<!-- MEMES:END -->
+ - 💣 [Make your crushes Christmas something special!](http://9gag.com/gag/amABZOd)
+ - ⏩ [You people disgust me](http://9gag.com/gag/aKExyo3)
+ - 👉 [Mistakes were made. will it be a chog or dicken?](http://9gag.com/gag/a04QDwO)<!-- MEMES:END -->
 
 ---
 
