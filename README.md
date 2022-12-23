@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sherlock Holmes studio Frogwares shares a defiant look at life inside Ukraine](https://www.pcgamer.com/sherlock-holmes-studio-frogwares-shares-a-defiant-look-at-life-inside-ukraine)
- - [Hyper Gunsport, One of the Oldest ID@Xbox Games, is Finally Available!](https://news.xbox.com/en-us/2022/12/23/hyper-gunsport-one-of-the-oldest-idxbox-games-is-finally-available/)
- - [This Great Snowboarding Game Belongs In The Voice Acting Hall Of Shame](https://kotaku.com/shredders-foampunch-xbox-game-pass-snowboarding-1848700279)<!-- GAME:END -->
+ - [Our favorite Steam Deck games in the Steam Winter Sale](https://www.pcgamer.com/best-steam-deck-winter-sale-deals)
+ - [Getting A PS5 Or Xbox Series S/X Is Sorta Easier Two Years Later](https://kotaku.com/ps5-xbox-series-x-series-s-microsoft-sony-semiconductor-1849924637)
+ - [Sherlock Holmes studio Frogwares shares a defiant look at life inside Ukraine](https://www.pcgamer.com/sherlock-holmes-studio-frogwares-shares-a-defiant-look-at-life-inside-ukraine)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
