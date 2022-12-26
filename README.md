@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know, he is something of trendsetter himself](http://9gag.com/gag/aVb0QnK)
- - ⏩ [RAGE MEMES are back tho.](http://9gag.com/gag/ago5N46)
- - 👉 [Heal me my bros](http://9gag.com/gag/anz5B3q)<!-- MEMES:END -->
+ - 💣 [Innocent or horny](http://9gag.com/gag/aOxY6nE)
+ - ⏩ [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)
+ - 👉 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
 
 ---
 
