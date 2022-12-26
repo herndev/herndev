@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 555 answer and hint for Monday, December 26](https://www.pcgamer.com/wordle-555-answer-december-26)
  - [Glass Onion is louder, sillier, and sunnier than Knives Out](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix-streaming)
- - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)
- - [Death Stranding is free on the Epic Games Store right now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)<!-- GAME:END -->
+ - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
