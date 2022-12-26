@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - ⏩ [Short title](http://9gag.com/gag/a9qRjXD)
- - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
+ - 💣 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
+ - ⏩ [You little sh*t!](http://9gag.com/gag/a1PRe42)
+ - 👉 [Heal me my bros](http://9gag.com/gag/anz5B3q)<!-- MEMES:END -->
 
 ---
 
