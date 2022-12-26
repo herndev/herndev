@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Innocent or horny](http://9gag.com/gag/aOxY6nE)
- - ⏩ [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)
+ - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
+ - ⏩ [Marry Christmas.](http://9gag.com/gag/az21Loq)
  - 👉 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
 
 ---
