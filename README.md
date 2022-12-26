@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Chinese government data for January to October 2022 shows domestic smartphone shipments fell 22% YoY from 275.3M to 214.5M units &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/221226/p11#a221226p11)
  - [Apple offers limited-edition AirTags for Japan Year of the Rabbit](https://appleinsider.com/articles/22/12/26/apple-offers-limited-edition-airtags-for-japan-year-of-the-rabbit?utm_medium=rss)
- - [IntoTheBlock: Bitcoin network hashrate dropped by 38.8%+ on Saturday from its Wednesday peak, as many US-based miners had to pause operations due to blizzards &lpar;Timmy Shen/Forkast&rpar;](http://www.techmeme.com/221226/p10#a221226p10)
- - [Bearing the Financial Cost of Pregnancy: What Expecting Parents Should Expect     - CNET](https://www.cnet.com/personal-finance/bearing-the-financial-cost-of-pregnancy-what-expecting-parents-should-expect/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [IntoTheBlock: the Bitcoin network hashrate dropped by 38.8%+ on December 24 from its December 21 peak as many US-based miners paused operations due to blizzards &lpar;Timmy Shen/Forkast&rpar;](http://www.techmeme.com/221226/p10#a221226p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
