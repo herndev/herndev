@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s go f*ck!](http://9gag.com/gag/aMEYb86)
- - ⏩ [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
- - 👉 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
+ - 💣 [The general daughter who came to the party with his father lol](http://9gag.com/gag/armo42V)
+ - ⏩ [Show me your best cursed images](http://9gag.com/gag/aA03n1o)
+ - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 ---
 
