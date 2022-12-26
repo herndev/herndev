@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
  - [Best BBQ Sauce for 2022     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Best Kamado Grill for 2022     - CNET](https://www.cnet.com/news/best-kamado-grill/#ftag=CAD590a51e)
- - [Study: programmers who use AI tools like GitHub Copilot produce less secure code than those who don&#39;t while making them believe their code has no safety issues &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/221225/p6#a221225p6)<!-- TECH:END -->
+ - [Best Kamado Grill for 2022     - CNET](https://www.cnet.com/news/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
