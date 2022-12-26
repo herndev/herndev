@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here are the biggest PC gaming hardware stories of 2022](https://www.pcgamer.com/here-are-the-biggest-pc-gaming-hardware-stories-of-2022)
  - [Sonic Advance 2 Perfected The Series 20 Years Ago &lpar;Maybe Video Games, Too&rpar;](https://kotaku.com/sonic-advance-2-hedgehog-sega-gba-fast-dimps-boost-mode-1849922856)
- - [All the big games that shut down in 2022](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2022)
- - [How NFT video games crashed and burned](https://www.polygon.com/23521430/nft-video-games-crypto-failed-decentraland-axie-infinity)<!-- GAME:END -->
+ - [All the big games that shut down in 2022](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
