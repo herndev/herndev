@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Learning cheaters never prosper in WWE 2K22](https://www.pcgamer.com/learning-cheaters-never-prosper-in-wwe-2k22)
  - [Today&#39;s Wordle 555 answer and hint for Monday, December 26](https://www.pcgamer.com/wordle-555-answer-december-26)
- - [Glass Onion is louder, sillier, and sunnier than Knives Out](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix-streaming)
- - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)<!-- GAME:END -->
+ - [Glass Onion is louder, sillier, and sunnier than Knives Out](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix-streaming)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
