@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Embrace the cringe in your heart and join me in loving Neon White&#39;s dialogue](https://www.pcgamer.com/embrace-the-cringe-in-your-heart-and-join-me-in-loving-neon-whites-dialogue)
  - [It&#39;s not just you: spam is back](https://www.pcgamer.com/its-not-just-you-spam-is-back)
- - [The best MMO stories of 2022](https://www.pcgamer.com/the-best-mmo-stories-of-2022)
- - [Dorfromantik was 2022&#39;s &#39;no thoughts, just vibes&#39; game of the year](https://www.pcgamer.com/dorfromantik-was-2022s-no-thoughts-just-vibes-game-of-the-year)<!-- GAME:END -->
+ - [The best MMO stories of 2022](https://www.pcgamer.com/the-best-mmo-stories-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
