@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nailed it!](http://9gag.com/gag/aKEdgKW)
- - ⏩ [Indians offering prayers in Yamuna river filled with Industrial waste foam](http://9gag.com/gag/anz5YrB)
- - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
+ - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
+ - ⏩ [The seks](http://9gag.com/gag/ap9me1E)
+ - 👉 [Why even bother delivering it?](http://9gag.com/gag/a5XRe2G)<!-- MEMES:END -->
 
 ---
 
