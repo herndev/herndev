@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court transcript from plea hearing: Caroline Ellison said she and Sam Bankman-Fried knowingly misled lenders about how much Alameda was borrowing from FTX &lpar;Reuters&rpar;](http://www.techmeme.com/221223/p15#a221223p15)
- - [Deals: 25% off refurbished Sonos One SL Speaker &amp; Beam Soundbar](https://appleinsider.com/articles/22/12/23/deals-25-off-refurbished-sonos-one-sl-speaker-beam-soundbar?utm_medium=rss)
- - [Search Engine You.com Launches ChatGPT-Style Chatbot, But Don&#39;t Trust It Fully Yet     - CNET](https://www.cnet.com/tech/services-and-software/search-engine-you-com-launches-chatgpt-style-chatbot/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Foods That Will Make You Happier in 2023     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CAD590a51e)
+ - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)
+ - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
