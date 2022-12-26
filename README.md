@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [My fav. Sports is Women&#39;s Beach Volleyball](http://9gag.com/gag/ap95B3W)
- - ⏩ [I feel this sometime](http://9gag.com/gag/a1PRM4b)
- - 👉 [Remember Russia](http://9gag.com/gag/aYV7egx)<!-- MEMES:END -->
+ - 💣 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - ⏩ [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
+ - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 ---
 
