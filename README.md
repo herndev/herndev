@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week on Xbox: Exploring Your New Xbox Series S and Game Updates](https://news.xbox.com/en-us/2022/12/23/this-week-on-xbox-exploring-your-new-xbox-series-s-and-game-updates/)
- - [Glass Onion, Top Gun 2, and every new movie you can watch at home this weekend](https://www.polygon.com/2022/12/23/23517032/new-movies-watch-glass-onion-netflix-top-gun-maverick-paramount-plus-aftersun-vod)
- - [Our favorite Steam Deck games in the Steam Winter Sale](https://www.pcgamer.com/best-steam-deck-winter-sale-deals)<!-- GAME:END -->
+ - [Disney’s gorgeous animated fantasy Strange World only has one flaw](https://www.polygon.com/23464232/strange-world-review-disney-streaming)
+ - [Death Stranding is free on the Epic Games Store right now](https://www.pcgamer.com/death-stranding-directors-cut-is-free-on-the-epic-games-store-right-now)
+ - [How many episodes is The Witcher: Blood Origin?](https://www.polygon.com/23521634/witcher-blood-origin-how-many-episodes-list)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
