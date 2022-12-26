@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nope they dont.](http://9gag.com/gag/amA5L24)
- - ⏩ [I study abroad and flights are expensive af, so I spend the holidays 1500km away from my family. Decided to pick up christmas shifts so my colleagues can have time off. Shout out to all service workers still busting ass! Merry Christmas!](http://9gag.com/gag/aRE0Poj)
- - 👉 [Monkey wedding crashers](http://9gag.com/gag/aVb0Wxd)<!-- MEMES:END -->
+ - 💣 [Short title](http://9gag.com/gag/a9qRjXD)
+ - ⏩ [Egg potion](http://9gag.com/gag/aBdg9XA)
+ - 👉 [Nailed it!](http://9gag.com/gag/aKEdgKW)<!-- MEMES:END -->
 
 ---
 
