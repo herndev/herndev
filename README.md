@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
- - ⏩ [It is what it is](http://9gag.com/gag/ago5NWg)
- - 👉 [Focus](http://9gag.com/gag/a7qw7r2)<!-- MEMES:END -->
+ - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
+ - ⏩ [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
+ - 👉 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 ---
 
