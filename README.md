@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 in review: AppleInsider&#39;s favorite articles of the year](https://appleinsider.com/articles/22/12/26/2022-in-review-appleinsiders-favorite-articles-of-the-year?utm_medium=rss)
- - [Best USB-C travel docks for Mac or iPad](https://appleinsider.com/inside/accessories-and-io/best/best-usb-c-travel-docks-for-your-mac-or-ipad?utm_medium=rss)
- - [Daily Deals Dec. 26: 59% off Dreametech Robot Vacuum, 40% off Seagate Expansion External Hard Drive &amp; More](https://appleinsider.com/articles/22/12/26/daily-deals-dec-26-59-off-dreametech-robot-vacuum-40-off-seagate-expansion-external-hard-drive-more?utm_medium=rss)<!-- TECH:END -->
+ - [Disney Dreamlight Valley review: Filled with pixie dust, magic, and bugs](https://appleinsider.com/articles/22/12/26/disney-dreamlight-valley-review-filled-with-pixie-dust-magic-and-bugs?utm_medium=rss)
+ - [How to control HomeKit with Stream Deck](https://appleinsider.com/inside/homekit/tips/how-to-control-homekit-with-stream-deck?utm_medium=rss)
+ - [Stack Overflow&#39;s 2022 Developer Survey shows ~40% use a Linux-based system, up from ~25% in 2021 and ~23% in 2018, compared to ~62% for Windows and ~31% for Mac &lpar;Justin Garrison/Justin Garrison&rpar;](http://www.techmeme.com/221226/p5#a221226p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
