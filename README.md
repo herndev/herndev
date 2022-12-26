@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - ⏩ [Quick, give an upvote for the saltwater battery, as solar and wind power storage for zero-energy houses while the economy and politics are still fighting for dominance in the energy carrier market](http://9gag.com/gag/a8q5bNQ)
- - 👉 [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)<!-- MEMES:END -->
+ - 💣 [Short title](http://9gag.com/gag/a9qRjXD)
+ - ⏩ [Marry Christmas.](http://9gag.com/gag/az21Loq)
+ - 👉 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
 
 ---
 
