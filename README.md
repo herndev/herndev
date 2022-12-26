@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: publicly listed bitcoin mining companies collectively owe over $4B, led by bankrupt Core Scientific with $1.3B in liabilities and Marathon with $851M &lpar;Jaran Mellerud/Hashrate Index&rpar;](http://www.techmeme.com/221226/p8#a221226p8)
- - [All I want is one productivity app that can handle everything](https://www.theverge.com/23521586/productivity-apps-to-do-lists)
- - [iPhone 14 crash detection still sending deluge of false alarms from skiers](https://appleinsider.com/articles/22/12/26/iphone-14-crash-detection-still-sending-deluge-of-false-alarms-from-skiers?utm_medium=rss)<!-- TECH:END -->
+ - [Research into the global GPU market shows 18 companies develop GPUs globally; eight out of 11 PC and data center GPU designers are based in China &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221226/p9#a221226p9)
+ - [Apple Japan hit with $98 million in additional taxes](https://appleinsider.com/articles/22/12/26/apple-japan-hit-with-98-million-in-additional-taxes?utm_medium=rss)
+ - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
