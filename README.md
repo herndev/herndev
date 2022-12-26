@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The general daughter who came to the party with his father lol](http://9gag.com/gag/armo42V)
- - ⏩ [Show me your best cursed images](http://9gag.com/gag/aA03n1o)
+ - 💣 [Nailed it!](http://9gag.com/gag/aKEdgKW)
+ - ⏩ [Indians offering prayers in Yamuna river filled with Industrial waste foam](http://9gag.com/gag/anz5YrB)
  - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 ---
