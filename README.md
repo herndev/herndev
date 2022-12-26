@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [&#39;The Witcher: Blood Origin&#39; Ending and Post-Credits Scene Explained     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-blood-origin-ending-and-post-credits-scene-explained/#ftag=CAD590a51e)
  - [8 Foods That Will Make You Happier in 2023     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CAD590a51e)
- - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)
- - [A look at Flipper Zero, a $200 portable security penetration testing tool for hackers of all levels to intercept and replay signals from IoT sensors and more &lpar;Dhruv Mehrotra/Wired&rpar;](http://www.techmeme.com/221225/p5#a221225p5)<!-- TECH:END -->
+ - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
