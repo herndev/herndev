@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - ⏩ [The seks](http://9gag.com/gag/ap9me1E)
- - 👉 [Why even bother delivering it?](http://9gag.com/gag/a5XRe2G)<!-- MEMES:END -->
+ - 💣 [NYC shop owner takes matters into his own hands, blocks shoplifter and forces her to pay.](http://9gag.com/gag/aOx0yW3)
+ - ⏩ [Marry Christmas.](http://9gag.com/gag/az21Loq)
+ - 👉 [Quick, give an upvote for the saltwater battery, as solar and wind power storage for zero-energy houses while the economy and politics are still fighting for dominance in the energy carrier market](http://9gag.com/gag/a8q5bNQ)<!-- MEMES:END -->
 
 ---
 
