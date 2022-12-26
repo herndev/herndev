@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)
- - [Best BBQ Sauce for 2022     - CNET](https://www.cnet.com/news/best-bbq-sauces/#ftag=CAD590a51e)
- - [Best Kamado Grill for 2022     - CNET](https://www.cnet.com/news/best-kamado-grill/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Internal memo: Xiaomi President Wang Xiang and co-founders Hong Feng and Wang Chuan step down, as the company battles slowing sales amid COVID-19 disruptions &lpar;Financial Times&rpar;](http://www.techmeme.com/221226/p1#a221226p1)
+ - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
+ - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
