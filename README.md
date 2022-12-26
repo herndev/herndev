@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
- - ⏩ [You little sh*t!](http://9gag.com/gag/a1PRe42)
- - 👉 [Heal me my bros](http://9gag.com/gag/anz5B3q)<!-- MEMES:END -->
+ - 💣 [My fav. Sports is Women&#39;s Beach Volleyball](http://9gag.com/gag/ap95B3W)
+ - ⏩ [I feel this sometime](http://9gag.com/gag/a1PRM4b)
+ - 👉 [Remember Russia](http://9gag.com/gag/aYV7egx)<!-- MEMES:END -->
 
 ---
 
