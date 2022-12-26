@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Facts about breast cancer](http://9gag.com/gag/amAB4VX)
- - ⏩ [Idiot driver keeps blocking ambulance](http://9gag.com/gag/amAByzV)
- - 👉 [Jade Janks &lpar;accused of killing her step-father after discovering nude images of herself on his computer&rpar; hears her verdict in court.](http://9gag.com/gag/aZDLKLQ)<!-- MEMES:END -->
+ - 💣 [China, people waiting other to die, so they can get the bed.](http://9gag.com/gag/aA03W9g)
+ - ⏩ [LeBron James sent a jersey to Zlatan Ibrahimovic, he signed it and mailed it back](http://9gag.com/gag/ap95owp)
+ - 👉 [Some french media ask for the final to be played again because 2 argentinian substitutes invaded the field during Messi&#39;s last goal. The ref send them to check where 7 of their substitutes were during Mbappe&#39;s goal...](http://9gag.com/gag/aQERG7e)<!-- MEMES:END -->
 
 ---
 
