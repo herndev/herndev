@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some New Year’s resolutions that won’t end up in your pile of shame](https://www.theverge.com/tldr/2022/12/26/23523235/new-years-resolution-self-improvement)
- - [Apple&#39;s 1TB 16-inch MacBook Pro is on sale for $2,199, plus $80 off AppleCare](https://appleinsider.com/articles/22/12/26/apples-1tb-16-inch-macbook-pro-is-on-sale-for-2199-plus-80-off-applecare?utm_medium=rss)
- - [19 Best After-Christmas Sales and Deals &lpar;2022&rpar;: Vacuums, Phones, and Board Games](https://www.wired.com/story/christmas-sales-and-deals-2022/)<!-- TECH:END -->
+ - [Apple offers limited-edition AirTags for Japan Year of the Rabbit](https://appleinsider.com/articles/22/12/26/apple-offers-limited-edition-airtags-for-japan-year-of-the-rabbit?utm_medium=rss)
+ - [IntoTheBlock: Bitcoin network hashrate dropped by 38.8%+ on Saturday from its Wednesday peak, as many US-based miners had to pause operations due to blizzards &lpar;Timmy Shen/Forkast&rpar;](http://www.techmeme.com/221226/p10#a221226p10)
+ - [Bearing the Financial Cost of Pregnancy: What Expecting Parents Should Expect     - CNET](https://www.cnet.com/personal-finance/bearing-the-financial-cost-of-pregnancy-what-expecting-parents-should-expect/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
