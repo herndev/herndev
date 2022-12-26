@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Internal memo: Xiaomi President Wang Xiang and co-founders Hong Feng and Wang Chuan step down, as the company battles slowing sales amid COVID-19 disruptions &lpar;Financial Times&rpar;](http://www.techmeme.com/221226/p1#a221226p1)
- - [Best Apple AirTag Accessories     - CNET](https://www.cnet.com/tech/mobile/best-apple-airtag-accessories/#ftag=CAD590a51e)
- - [Best Tennis Balls of 2022     - CNET](https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Digital Health Tools Need a New Benchmark](https://www.wired.com/story/medicine-artificial-intelligence-digital-healthcare/)
+ - [Dear Electric Vehicle Owners: You Don’t Need That Giant Battery](https://www.wired.com/story/dear-electric-vehicle-owners-you-dont-need-that-giant-battery/)
+ - [AI Is Now Essential National Infrastructure](https://www.wired.com/story/digital-infrastructure-artificial-intelligence/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
