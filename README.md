@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best USB-C travel docks for Mac or iPad](https://appleinsider.com/inside/accessories-and-io/best/best-usb-c-travel-docks-for-your-mac-or-ipad?utm_medium=rss)
- - [2022 in review: AppleInsider&#39;s favorite articles of the year](https://appleinsider.com/articles/22/12/26/2022-in-review-appleinsiders-favorite-articles-of-the-year?utm_medium=rss)
- - [A look at the Central African Republic&#39;s decision to adopt bitcoin in September 2021 and launch its own &quot;Sangocoin&quot; currency, which has stalled after weak sales &lpar;Ben Hunte/VICE&rpar;](http://www.techmeme.com/221226/p6#a221226p6)<!-- TECH:END -->
+ - [Save On Your Next Pair of Glasses With Up to 50% Off at EyeBuyDirect     - CNET](https://www.cnet.com/deals/save-on-your-next-pair-of-glasses-with-up-to-50-off-at-eyebuydirect/#ftag=CAD590a51e)
+ - [Save an Extra 20% on Select Nike Gear and Start the New Year in Style     - CNET](https://www.cnet.com/deals/save-an-extra-20-on-select-nike-gear-and-start-the-new-year-in-style/#ftag=CAD590a51e)
+ - [Sell your used iPhone, iPad, Apple Watch or Mac for cash &amp; get a 10% bonus](https://appleinsider.com/articles/22/12/26/sell-your-used-iphone-ipad-apple-watch-or-mac-for-cash-get-a-10-bonus?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
