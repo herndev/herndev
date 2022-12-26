@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Research into the global GPU market shows 18 companies develop GPUs globally; eight out of 11 PC and data center GPU designers are based in China &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221226/p9#a221226p9)
- - [Apple Japan hit with $98 million in additional taxes](https://appleinsider.com/articles/22/12/26/apple-japan-hit-with-98-million-in-additional-taxes?utm_medium=rss)
- - [Apple iPhone 15: Everything we know so far and what we want to see](https://www.androidauthority.com/apple-iphone-15-release-date-specs-price-rumors-3255350/)<!-- TECH:END -->
+ - [Some New Year’s resolutions that won’t end up in your pile of shame](https://www.theverge.com/tldr/2022/12/26/23523235/new-years-resolution-self-improvement)
+ - [Apple&#39;s 1TB 16-inch MacBook Pro is on sale for $2,199, plus $80 off AppleCare](https://appleinsider.com/articles/22/12/26/apples-1tb-16-inch-macbook-pro-is-on-sale-for-2199-plus-80-off-applecare?utm_medium=rss)
+ - [19 Best After-Christmas Sales and Deals &lpar;2022&rpar;: Vacuums, Phones, and Board Games](https://www.wired.com/story/christmas-sales-and-deals-2022/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
