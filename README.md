@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - ⏩ [Marry Christmas.](http://9gag.com/gag/az21Loq)
- - 👉 [You little sh*t!](http://9gag.com/gag/a1PRe42)<!-- MEMES:END -->
+ - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
+ - ⏩ [It is what it is](http://9gag.com/gag/ago5NWg)
+ - 👉 [Focus](http://9gag.com/gag/a7qw7r2)<!-- MEMES:END -->
 
 ---
 
