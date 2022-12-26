@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Study: programmers who use AI tools like GitHub Copilot produce less secure code than those who don&#39;t while making them believe their code has no safety issues &lpar;Thomas Claburn/The Register&rpar;](http://www.techmeme.com/221225/p6#a221225p6)
  - [&#39;The Witcher: Blood Origin&#39; Ending and Post-Credits Scene Explained     - CNET](https://www.cnet.com/culture/entertainment/the-witcher-blood-origin-ending-and-post-credits-scene-explained/#ftag=CAD590a51e)
- - [8 Foods That Will Make You Happier in 2023     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CAD590a51e)
- - [Christmas Day Deals at Amazon, Best Buy, Walmart and More to Shop Today     - CNET](https://www.cnet.com/deals/best-christmas-day-shopping-deals-at-amazon-best-buy-walmart-and-more-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [8 Foods That Will Make You Happier in 2023     - CNET](https://www.cnet.com/health/mental/8-foods-that-will-make-you-happy/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
