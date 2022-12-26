@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Learning cheaters never prosper in WWE 2K22](https://www.pcgamer.com/learning-cheaters-never-prosper-in-wwe-2k22)
- - [Today&#39;s Wordle 555 answer and hint for Monday, December 26](https://www.pcgamer.com/wordle-555-answer-december-26)
- - [Glass Onion is louder, sillier, and sunnier than Knives Out](https://www.polygon.com/reviews/23474865/glass-onion-review-knives-out-sequel-netflix-streaming)<!-- GAME:END -->
+ - [It&#39;s not just you: spam is back](https://www.pcgamer.com/its-not-just-you-spam-is-back)
+ - [The best MMO stories of 2022](https://www.pcgamer.com/the-best-mmo-stories-of-2022)
+ - [Dorfromantik was 2022&#39;s &#39;no thoughts, just vibes&#39; game of the year](https://www.pcgamer.com/dorfromantik-was-2022s-no-thoughts-just-vibes-game-of-the-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
