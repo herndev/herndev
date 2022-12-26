@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save On Your Next Pair of Glasses With Up to 50% Off at EyeBuyDirect     - CNET](https://www.cnet.com/deals/save-on-your-next-pair-of-glasses-with-up-to-50-off-at-eyebuydirect/#ftag=CAD590a51e)
- - [Save an Extra 20% on Select Nike Gear and Start the New Year in Style     - CNET](https://www.cnet.com/deals/save-an-extra-20-on-select-nike-gear-and-start-the-new-year-in-style/#ftag=CAD590a51e)
- - [Sell your used iPhone, iPad, Apple Watch or Mac for cash &amp; get a 10% bonus](https://appleinsider.com/articles/22/12/26/sell-your-used-iphone-ipad-apple-watch-or-mac-for-cash-get-a-10-bonus?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 crash detection still sending deluge of false alarms from skiers](https://appleinsider.com/articles/22/12/26/iphone-14-crash-detection-still-sending-deluge-of-false-alarms-from-skiers?utm_medium=rss)
+ - [Source: Magic Leap raised $450M in 2022, across $150M in equity and $300M in debt, giving Saudi Arabia&#39;s sovereign wealth fund a majority stake in the company &lpar;Matthew Field/Telegraph&rpar;](http://www.techmeme.com/221226/p7#a221226p7)
+ - [The best phones to look forward to in 2023](https://www.androidauthority.com/best-phones-look-forward-to-2023-3250063/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
