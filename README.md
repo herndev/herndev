@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Short title](http://9gag.com/gag/a9qRjXD)
- - ⏩ [Egg potion](http://9gag.com/gag/aBdg9XA)
- - 👉 [Nailed it!](http://9gag.com/gag/aKEdgKW)<!-- MEMES:END -->
+ - 💣 [Let&#39;s go f*ck!](http://9gag.com/gag/aMEYb86)
+ - ⏩ [Kreeiiiiiiisch.......](http://9gag.com/gag/aMEZ36G)
+ - 👉 [The seks](http://9gag.com/gag/ap9me1E)<!-- MEMES:END -->
 
 ---
 
