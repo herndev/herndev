@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find Rudolph](http://9gag.com/gag/a8q3rKV)
- - ⏩ [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
+ - 💣 [Lol](http://9gag.com/gag/awZoVry)
+ - ⏩ [You little sh*t!](http://9gag.com/gag/a1PRe42)
  - 👉 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 ---
