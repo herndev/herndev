@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming laptops of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2022)
- - [The best Netflix original movies of 2022](https://www.polygon.com/what-to-watch/23516874/best-netflix-original-movies-2022)
- - [The 10 Biggest Kotaku Posts Of 2022](https://kotaku.com/kotaku-top-posts-hentai-netflix-twitch-simpsons-nft-1849925288)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming monitors of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-monitors-of-2022)
+ - [The Year In Gaming Apologies](https://kotaku.com/apologize-games-splatoon-3-porn-assassin-s-creed-leaks-1849925385)
+ - [PC Gamer Hardware Awards: The best gaming laptops of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-laptops-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
