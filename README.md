@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 crash detection still sending deluge of false alarms from skiers](https://appleinsider.com/articles/22/12/26/iphone-14-crash-detection-still-sending-deluge-of-false-alarms-from-skiers?utm_medium=rss)
- - [Source: Magic Leap raised $450M in 2022, across $150M in equity and $300M in debt, giving Saudi Arabia&#39;s sovereign wealth fund a majority stake in the company &lpar;Matthew Field/Telegraph&rpar;](http://www.techmeme.com/221226/p7#a221226p7)
- - [The best phones to look forward to in 2023](https://www.androidauthority.com/best-phones-look-forward-to-2023-3250063/)<!-- TECH:END -->
+ - [Analysis: publicly listed bitcoin mining companies collectively owe over $4B, led by bankrupt Core Scientific with $1.3B in liabilities and Marathon with $851M &lpar;Jaran Mellerud/Hashrate Index&rpar;](http://www.techmeme.com/221226/p8#a221226p8)
+ - [All I want is one productivity app that can handle everything](https://www.theverge.com/23521586/productivity-apps-to-do-lists)
+ - [iPhone 14 crash detection still sending deluge of false alarms from skiers](https://appleinsider.com/articles/22/12/26/iphone-14-crash-detection-still-sending-deluge-of-false-alarms-from-skiers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
