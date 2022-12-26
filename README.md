@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How NFT video games crashed and burned](https://www.polygon.com/23521430/nft-video-games-crypto-failed-decentraland-axie-infinity)
- - [Inside Intel: here&#39;s what goes into making a cutting-edge gaming CPU](https://www.pcgamer.com/intel-fab-28-idc-tour)
- - [Embrace the cringe in your heart and join me in loving Neon White&#39;s dialogue](https://www.pcgamer.com/embrace-the-cringe-in-your-heart-and-join-me-in-loving-neon-whites-dialogue)<!-- GAME:END -->
+ - [Sonic Advance 2 Perfected The Series 20 Years Ago &lpar;Maybe Video Games, Too&rpar;](https://kotaku.com/sonic-advance-2-hedgehog-sega-gba-fast-dimps-boost-mode-1849922856)
+ - [All the big games that shut down in 2022](https://www.pcgamer.com/all-the-big-games-that-shut-down-in-2022)
+ - [How NFT video games crashed and burned](https://www.polygon.com/23521430/nft-video-games-crypto-failed-decentraland-axie-infinity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
