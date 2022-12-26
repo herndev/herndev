@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lol](http://9gag.com/gag/awZoVry)
- - ⏩ [You little sh*t!](http://9gag.com/gag/a1PRe42)
+ - 💣 [That\u2019s not how it works! That\u2019s not how any of this works!](http://9gag.com/gag/aPgRGgG)
+ - ⏩ [Sadly the Christmas traditions still continues](http://9gag.com/gag/anz5BOB)
  - 👉 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 ---
