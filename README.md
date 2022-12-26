@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Digital Health Tools Need a New Benchmark](https://www.wired.com/story/medicine-artificial-intelligence-digital-healthcare/)
- - [Dear Electric Vehicle Owners: You Don’t Need That Giant Battery](https://www.wired.com/story/dear-electric-vehicle-owners-you-dont-need-that-giant-battery/)
- - [AI Is Now Essential National Infrastructure](https://www.wired.com/story/digital-infrastructure-artificial-intelligence/)<!-- TECH:END -->
+ - [Apple&#39;s got $3 trillion, Intel says it&#39;s got an M1 killer, and more - Apple&#39;s January 2022 in review](https://appleinsider.com/articles/22/02/01/apples-got-3-trillion-intel-says-its-got-an-m1-killer-and-spotify-has-problems---january-2022-in-review?utm_medium=rss)
+ - [Daily Deals Dec. 26: 59% off Dreametech Robot Vacuum, 40% off Seagate Expansion External Hard Drive &amp; More](https://appleinsider.com/articles/22/12/26/daily-deals-dec-26-59-off-dreametech-robot-vacuum-40-off-seagate-expansion-external-hard-drive-more?utm_medium=rss)
+ - [2022 in review: AppleInsider&#39;s favorite articles of the year](https://appleinsider.com/articles/22/12/26/2022-in-review-appleinsiders-favorite-articles-of-the-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
