@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - ⏩ [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - 👉 [Wait a minute...](http://9gag.com/gag/aQE1eB7)<!-- MEMES:END -->
+ - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - ⏩ [Ok, what?](http://9gag.com/gag/abvryev)
+ - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 ---
 
