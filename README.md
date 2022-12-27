@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s what Skyrim and Fallout modders want to see in Starfield mods](https://www.pcgamer.com/heres-what-skyrim-and-fallout-modders-want-to-see-in-starfield-mods)
  - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)
- - [Devs of Warhammer 40k: Gladius have cooked up a cool world for their new project](https://www.pcgamer.com/devs-of-warhammer-40k-gladius-have-cooked-up-a-cool-world-for-their-new-project)
- - [Steam Deck OS 3.4 update beefs up the desktop mode](https://www.pcgamer.com/the-steam-deck-os-34-update-beefed-up-the-desktop-mode)<!-- GAME:END -->
+ - [Devs of Warhammer 40k: Gladius have cooked up a cool world for their new project](https://www.pcgamer.com/devs-of-warhammer-40k-gladius-have-cooked-up-a-cool-world-for-their-new-project)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
