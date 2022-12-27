@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [I personally love watching Kobeni fail on Chainsaw Man](https://www.polygon.com/23528378/chainsaw-man-kobeni-higashiyama)
  - [Puss in Boots: The Last Wish might be the year’s most unexpected triumph](https://www.polygon.com/reviews/23528092/puss-in-boots-2-last-wish-review)
- - [Capcom Shuts Down Fan Remakes Of Original Resident Evil And Code: Veronica](https://kotaku.com/resident-evil-code-veronica-fan-remake-capcom-1849931638)
- - [PlayStation Plus’ free games for 2022: The most value for the least cost](https://www.polygon.com/23527733/playstation-ps-plus-essential-free-games-list-2022)<!-- GAME:END -->
+ - [Capcom Shuts Down Fan Remakes Of Original Resident Evil And Code: Veronica](https://kotaku.com/resident-evil-code-veronica-fan-remake-capcom-1849931638)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
