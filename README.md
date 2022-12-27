@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 13-inch MacBook Pro with 16GB RAM, 1TB SSD for $1,369](https://appleinsider.com/articles/22/12/27/get-apples-m1-13-inch-macbook-pro-with-16gb-ram-1tb-ssd-for-1369?utm_medium=rss)
- - [Oppo now promises to match Samsung for updates &lpar;Update: Oppo clarifies&rpar;](https://www.androidauthority.com/oppo-update-policy-five-years-3258331/)
- - [LG is raising its game at CES 2023 with new 240Hz OLED monitors](https://www.androidauthority.com/lg-ultragear-gaming-monitors-2023-3260238/)<!-- TECH:END -->
+ - [We asked, you told us: Many of you own an Android TV set or box](https://www.androidauthority.com/android-tv-own-poll-results-3260245/)
+ - [Jakarta-based Akulaku, a digital banking startup which offers a virtual credit card, neobank, and more, raised $200M from Japan&#39;s Mitsubishi UFJ Financial Group &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221227/p1#a221227p1)
+ - [Get Apple&#39;s M1 13-inch MacBook Pro with 16GB RAM, 1TB SSD for $1,369](https://appleinsider.com/articles/22/12/27/get-apples-m1-13-inch-macbook-pro-with-16gb-ram-1tb-ssd-for-1369?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
