@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
- - ⏩ [Marry Christmas.](http://9gag.com/gag/az21Loq)
- - 👉 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
+ - ⏩ [Dr. Strange and the Old Woman with Dementia](http://9gag.com/gag/aNw0WRw)
+ - 👉 [Russian oligarch Pavel Antonow fell of the window 3 days after his companion fell of the window in the same building. This shit is beyond comedy. Source in comments](http://9gag.com/gag/aKEd3KZ)<!-- MEMES:END -->
 
 ---
 
