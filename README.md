@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Metropolis, Sherlock Holmes, and more enter public domain in 2023](https://www.polygon.com/entertainment/23527444/public-domain-2023-sherlock-holmes-metropolis)
- - [7 trends that shaped PlayStation gaming in 2022](https://blog.playstation.com/2022/12/27/7-trends-that-shaped-playstation-gaming-in-2022/)
- - [Our favorite movie scenes of the year](https://www.polygon.com/23516876/best-movie-scenes-moments-2022)<!-- GAME:END -->
+ - [The era of Netflix password sharing will end soon, somehow](https://www.polygon.com/23527825/netflix-price-charging-fee-sharing-password)
+ - [Pokémon Players Are Getting Wrecked By This Weird Little Crow Right Now](https://kotaku.com/pokemon-scarlet-violet-murkrow-prankster-tailwind-1849931152)
+ - [Matilda’s viral showstopping finale isn’t the musical’s only incredible song](https://www.polygon.com/23527882/matilda-musical-netflix-songs-clips)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
