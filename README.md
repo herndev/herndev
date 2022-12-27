@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Your post got 1000 points](http://9gag.com/gag/aGEgD57)
- - ⏩ [Cop versus cafeteria kids](http://9gag.com/gag/abvr6RO)
- - 👉 [And now if I bite her, I&#39;ll be the bad one](http://9gag.com/gag/aMEYwmX)<!-- MEMES:END -->
+ - 💣 [You little sh*t!](http://9gag.com/gag/a1PRe42)
+ - ⏩ [If you see it...](http://9gag.com/gag/a1PRYDR)
+ - 👉 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
 
 ---
 
