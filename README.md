@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with YouTube&#39;s Chief Product Officer Neal Mohan on why the company acquired NFL rights, giving creators game footage, 4K broadcasts, multiscreen, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221227/p7#a221227p7)
- - [The $1.7T US funding package included the INFORM Act, forcing Amazon, Meta, and others to verify prolific sellers to combat counterfeit and dangerous goods &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/221227/p6#a221227p6)
- - [5 things we want to see from Xiaomi in 2023](https://www.androidauthority.com/xiaomi-2023-3245818/)<!-- TECH:END -->
+ - [BAYC, Doodles, Pudgy Penguins, and other NFT projects are diversifying into real-world assets, including toys, albums, and sports teams, to generate new revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/221227/p10#a221227p10)
+ - [In 2022, I stopped using my VR headset](https://www.androidauthority.com/stopped-using-vr-headset-3257772/)
+ - [How to use email aliases and Hide My Email in iOS 16](https://appleinsider.com/inside/icloud/tips/how-to-use-email-aliases-and-hide-my-email-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
