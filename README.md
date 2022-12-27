@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
- - ⏩ [Dr. Strange and the Old Woman with Dementia](http://9gag.com/gag/aNw0WRw)
- - 👉 [Russian oligarch Pavel Antonow fell of the window 3 days after his companion fell of the window in the same building. This shit is beyond comedy. Source in comments](http://9gag.com/gag/aKEd3KZ)<!-- MEMES:END -->
+ - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - ⏩ [She can bite a sheep through a fence.](http://9gag.com/gag/a8q54B3)
+ - 👉 [True.](http://9gag.com/gag/aeQ5Y1Q)<!-- MEMES:END -->
 
 ---
 
