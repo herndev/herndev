@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
- - 👉 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)<!-- MEMES:END -->
+ - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - ⏩ [Sound like a fun evening](http://9gag.com/gag/aoK5O6w)
+ - 👉 [There is no bankrun in Russia. Its fake...](http://9gag.com/gag/aNw01D4)<!-- MEMES:END -->
 
 ---
 
