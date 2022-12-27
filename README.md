@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
- - ⏩ [9gagers&lpar;including me&rpar; be like :](http://9gag.com/gag/a3ZRMK3)
- - 👉 [The answer is zero.](http://9gag.com/gag/a9qRAKo)<!-- MEMES:END -->
+ - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - ⏩ [If you see it...](http://9gag.com/gag/a1PRYDR)
+ - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 ---
 
