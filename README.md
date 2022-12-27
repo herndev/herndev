@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An interview with AI researcher and MacArthur Fellow Yejin Choi on misconceptions about AI, GPT-3, training models to make moral decisions, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/221227/p3#a221227p3)
  - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [A profile of Senegal-based Wave, Francophone West Africa&#39;s only unicorn and the first non-telco, non-bank offering mobile money services in eight countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/221227/p2#a221227p2)
- - [We asked, you told us: Many of you own an Android TV set or box](https://www.androidauthority.com/android-tv-own-poll-results-3260245/)<!-- TECH:END -->
+ - [&#39;Glass Onion&#39; Review: Daniel Craig Looks Sharp in Hilarious Whodunit on Netflix     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-review-daniel-craig-looks-sharp-in-hilarious-whodunit-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
