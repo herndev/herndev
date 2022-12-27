@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
- - [How to get an App Store refund from your iPhone or iPad](https://appleinsider.com/articles/21/01/07/how-to-get-a-refund-from-the-app-store-on-your-iphone-ipad-or-ipod-touch?utm_medium=rss)
- - [The Verge’s 2022 New Year’s resolution gift guide](https://www.theverge.com/23463044/new-years-resolution-gifts-ideas-2022-tech-gadgets-fitness)<!-- TECH:END -->
+ - [LastPass&#39; breach update was full of spin, omitted helpful but damning info, provided rosy interpretations hiding a failure to contain August&#39;s breach, and more &lpar;Wladimir Palant/Almost Secure&rpar;](http://www.techmeme.com/221227/p14#a221227p14)
+ - [Know the holiday return policies for Amazon, Target, Walmart, and others](https://www.theverge.com/21570161/holiday-shipping-return-policy-apple-google-microsoft-amazon)
+ - [LG’s working with AI startup Asleep on TVs, washers, fridges, and more that can track sleep](https://www.theverge.com/23527858/lg-sleep-tech-ai-asleep-tv-washer-fridge-smart-home)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
