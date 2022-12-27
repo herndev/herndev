@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 💣 [One title, please!](http://9gag.com/gag/ajV5q1G)
  - ⏩ [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
  - 👉 [Wait a minute...](http://9gag.com/gag/aQE1eB7)<!-- MEMES:END -->
 
