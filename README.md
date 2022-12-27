@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You little sh*t!](http://9gag.com/gag/a1PRe42)
- - ⏩ [He twisted the bottle crock, it popped and the champagne spilled all over me.](http://9gag.com/gag/a8q5p6d)
- - 👉 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
+ - 💣 [Me, before rage coming 2nd Reich](http://9gag.com/gag/ay2op1b)
+ - ⏩ [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 ---
 
