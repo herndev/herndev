@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 556 answer and hint for Tuesday, December 27](https://www.pcgamer.com/wordle-556-answer-december-27)
  - [Here&#39;s what Skyrim and Fallout modders want to see in Starfield mods](https://www.pcgamer.com/heres-what-skyrim-and-fallout-modders-want-to-see-in-starfield-mods)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)
- - [Devs of Warhammer 40k: Gladius have cooked up a cool world for their new project](https://www.pcgamer.com/devs-of-warhammer-40k-gladius-have-cooked-up-a-cool-world-for-their-new-project)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
