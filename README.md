@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)
  - [Devs of Warhammer 40k: Gladius have cooked up a cool world for their new project](https://www.pcgamer.com/devs-of-warhammer-40k-gladius-have-cooked-up-a-cool-world-for-their-new-project)
- - [Steam Deck OS 3.4 update beefs up the desktop mode](https://www.pcgamer.com/the-steam-deck-os-34-update-beefed-up-the-desktop-mode)
- - [Steam&#39;s Year in Review serves up highlights of your 2022 playtime](https://www.pcgamer.com/steams-year-in-review-serves-up-highlights-of-your-2022-playtime)<!-- GAME:END -->
+ - [Steam Deck OS 3.4 update beefs up the desktop mode](https://www.pcgamer.com/the-steam-deck-os-34-update-beefed-up-the-desktop-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
