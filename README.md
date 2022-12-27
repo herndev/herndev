@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 14 Pro lead times have returned to after-launch levels](https://appleinsider.com/articles/22/12/27/iphone-14-pro-lead-times-have-returned-to-after-launch-levels?utm_medium=rss)
- - [Hacker claims to have 400 million Twitter accounts for sale](https://appleinsider.com/articles/22/12/27/hacker-claims-to-have-400-million-twitter-accounts-for-sale?utm_medium=rss)
- - [An investigation shows how Amazon plastic shipping envelopes, discarded for recycling by US and Canadian consumers, end up being burned in Muzaffarnagar, India &lpar;K Oanh Ha/Bloomberg&rpar;](http://www.techmeme.com/221227/p11#a221227p11)<!-- TECH:END -->
+ - [Kuo: Apple plans an updated iPad mini in late 2023 or H1 2024, with a new chip as its main selling point; a foldable iPad is unlikely to replace the mini &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221227/p13#a221227p13)
+ - [Apple Watch sensor has racial bias, claims new lawsuit](https://appleinsider.com/articles/22/12/27/apple-watch-sensor-has-racial-bias-claims-new-lawsuit?utm_medium=rss)
+ - [Daily Deals Dec. 27: Save $450 on a MacBook Air, portable Apple Watch charger for $32 &amp; more](https://appleinsider.com/articles/22/12/27/daily-deals-dec-27-save-450-on-a-macbook-air-portable-apple-watch-charger-for-32-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
