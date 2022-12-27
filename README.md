@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [One title, please!](http://9gag.com/gag/ajV5q1G)
- - ⏩ [Cats cats cats](http://9gag.com/gag/armobOB)
- - 👉 [The fact that this is true](http://9gag.com/gag/avQorNM)<!-- MEMES:END -->
+ - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - ⏩ [He twisted the bottle crock, it popped and the champagne spilled all over me.](http://9gag.com/gag/a8q5p6d)
+ - 👉 [If you see it...](http://9gag.com/gag/a1PRYDR)<!-- MEMES:END -->
 
 ---
 
