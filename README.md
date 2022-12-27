@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Experts say Hua Hong, China&#39;s second-largest chip foundry, is barely affected by US sanctions and its focus on older chips could make it Beijing&#39;s new favorite &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/221226/p12#a221226p12)
- - [Chinese government data for January to October 2022 shows domestic smartphone shipments fell 22% YoY from 275.3M to 214.5M units &lpar;Iris Deng/South China Morning Post&rpar;](http://www.techmeme.com/221226/p11#a221226p11)
- - [TikTok Under Pressure as Biden Administration Scrutinizes Chinese Ownership     - CNET](https://www.cnet.com/tech/services-and-software/tiktok-under-pressure-as-biden-administration-scrutinizes-chinese-ownership/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG is raising its game at CES 2023 with new 240Hz OLED monitors](https://www.androidauthority.com/lgs-ultragear-gaming-monitors-2023-3260238/)
+ - [Q&amp;A with Apple App Store Vice President Matt Fischer on Apple Arcade&#39;s inception, its lack of a flagship exclusive game, approaching game developers, and more &lpar;Shelby Brown/CNET&rpar;](http://www.techmeme.com/221226/p13#a221226p13)
+ - [Experts say Hua Hong, China&#39;s second-largest chip foundry, is barely affected by US sanctions and its focus on older chips could make it Beijing&#39;s new favorite &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/221226/p12#a221226p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
