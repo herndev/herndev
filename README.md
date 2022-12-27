@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG is raising its game at CES 2023 with new 240Hz OLED monitors](https://www.androidauthority.com/lgs-ultragear-gaming-monitors-2023-3260238/)
- - [Q&amp;A with Apple App Store Vice President Matt Fischer on Apple Arcade&#39;s inception, its lack of a flagship exclusive game, approaching game developers, and more &lpar;Shelby Brown/CNET&rpar;](http://www.techmeme.com/221226/p13#a221226p13)
- - [Experts say Hua Hong, China&#39;s second-largest chip foundry, is barely affected by US sanctions and its focus on older chips could make it Beijing&#39;s new favorite &lpar;Qianer Liu/Financial Times&rpar;](http://www.techmeme.com/221226/p12#a221226p12)<!-- TECH:END -->
+ - [Get Apple&#39;s M1 13-inch MacBook Pro with 16GB RAM, 1TB SSD for $1,369](https://appleinsider.com/articles/22/12/27/get-apples-m1-13-inch-macbook-pro-with-16gb-ram-1tb-ssd-for-1369?utm_medium=rss)
+ - [Oppo now promises to match Samsung for updates &lpar;Update: Oppo clarifies&rpar;](https://www.androidauthority.com/oppo-update-policy-five-years-3258331/)
+ - [LG is raising its game at CES 2023 with new 240Hz OLED monitors](https://www.androidauthority.com/lg-ultragear-gaming-monitors-2023-3260238/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
