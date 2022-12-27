@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - ⏩ [Sound like a fun evening](http://9gag.com/gag/aoK5O6w)
- - 👉 [There is no bankrun in Russia. Its fake...](http://9gag.com/gag/aNw01D4)<!-- MEMES:END -->
+ - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - ⏩ [Give a man a fish...](http://9gag.com/gag/amA570X)
+ - 👉 [A tale of wisdom.](http://9gag.com/gag/a4oR7jw)<!-- MEMES:END -->
 
 ---
 
