@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lawyers working on crypto bankruptcies, including FTX and Celsius, are charging more than $1,800 per hour, leading some creditors to criticize the process &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/221227/p5#a221227p5)
- - [Why Apple Hasn&#39;t Released the iPhone Fold... Yet     - CNET](https://www.cnet.com/tech/mobile/why-apple-hasnt-released-the-iphone-fold-yet/#ftag=CAD590a51e)
- - [Solana-based NFT projects DeGods and Y00ts plan to leave the SOL ecosystem for Ethereum and Polygon, respectively; DeGods had asked for $5M to stay on SOL &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/221227/p4#a221227p4)<!-- TECH:END -->
+ - [Q&amp;A with YouTube&#39;s Chief Product Officer Neal Mohan on why the company acquired NFL rights, giving creators game footage, 4K broadcasts, multiscreen, and more &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/221227/p7#a221227p7)
+ - [The $1.7T US funding package included the INFORM Act, forcing Amazon, Meta, and others to verify prolific sellers to combat counterfeit and dangerous goods &lpar;Haleluya Hadero/Associated Press&rpar;](http://www.techmeme.com/221227/p6#a221227p6)
+ - [5 things we want to see from Xiaomi in 2023](https://www.androidauthority.com/xiaomi-2023-3245818/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
