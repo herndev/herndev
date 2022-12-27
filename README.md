@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An interview with AI researcher and MacArthur Fellow Yejin Choi on misconceptions about AI, GPT-3, training models to make moral decisions, and more &lpar;David Marchese/New York Times&rpar;](http://www.techmeme.com/221227/p3#a221227p3)
- - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
- - [&#39;Glass Onion&#39; Review: Daniel Craig Looks Sharp in Hilarious Whodunit on Netflix     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-review-daniel-craig-looks-sharp-in-hilarious-whodunit-on-netflix/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Lawyers working on crypto bankruptcies, including FTX and Celsius, are charging more than $1,800 per hour, leading some creditors to criticize the process &lpar;Sujeet Indap/Financial Times&rpar;](http://www.techmeme.com/221227/p5#a221227p5)
+ - [Why Apple Hasn&#39;t Released the iPhone Fold... Yet     - CNET](https://www.cnet.com/tech/mobile/why-apple-hasnt-released-the-iphone-fold-yet/#ftag=CAD590a51e)
+ - [Solana-based NFT projects DeGods and Y00ts plan to leave the SOL ecosystem for Ethereum and Polygon, respectively; DeGods had asked for $5M to stay on SOL &lpar;Eli Tan/CoinDesk&rpar;](http://www.techmeme.com/221227/p4#a221227p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
