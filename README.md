@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: Apple plans an updated iPad mini in late 2023 or H1 2024, with a new chip as its main selling point; a foldable iPad is unlikely to replace the mini &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/221227/p13#a221227p13)
- - [Apple Watch sensor has racial bias, claims new lawsuit](https://appleinsider.com/articles/22/12/27/apple-watch-sensor-has-racial-bias-claims-new-lawsuit?utm_medium=rss)
- - [Daily Deals Dec. 27: Save $450 on a MacBook Air, portable Apple Watch charger for $32 &amp; more](https://appleinsider.com/articles/22/12/27/daily-deals-dec-27-save-450-on-a-macbook-air-portable-apple-watch-charger-for-32-more?utm_medium=rss)<!-- TECH:END -->
+ - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
+ - [iPhone gains China market share in declining smartphone market](https://appleinsider.com/articles/22/12/27/iphone-gains-china-market-share-in-declining-smartphone-market?utm_medium=rss)
+ - [How to remove the background from multiple photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-background-from-multiple-photos-in-ios-16?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
