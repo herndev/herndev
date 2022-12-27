@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - ⏩ [She can bite a sheep through a fence.](http://9gag.com/gag/a8q54B3)
- - 👉 [True.](http://9gag.com/gag/aeQ5Y1Q)<!-- MEMES:END -->
+ - 💣 [Marry Christmas](http://9gag.com/gag/a3ZRjmr)
+ - ⏩ [How is it possible?](http://9gag.com/gag/ay2o8oW)
+ - 👉 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)<!-- MEMES:END -->
 
 ---
 
