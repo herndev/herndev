@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - ⏩ [Ok, what?](http://9gag.com/gag/abvryev)
- - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 💣 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 👉 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)<!-- MEMES:END -->
 
 ---
 
