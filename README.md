@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 💣 [You little sh*t!](http://9gag.com/gag/a1PRe42)
  - ⏩ [He twisted the bottle crock, it popped and the champagne spilled all over me.](http://9gag.com/gag/a8q5p6d)
- - 👉 [If you see it...](http://9gag.com/gag/a1PRYDR)<!-- MEMES:END -->
+ - 👉 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
 
 ---
 
