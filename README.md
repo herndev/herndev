@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Me, before rage coming 2nd Reich](http://9gag.com/gag/ay2op1b)
+ - 💣 [If you see it...](http://9gag.com/gag/a1PRYDR)
  - ⏩ [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 👉 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
 
 ---
 
