@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [B&amp;H&#39;s Mega Deal Zone offers 100s of year-end discounts](https://appleinsider.com/articles/22/12/27/bhs-mega-deal-zone-offers-100s-of-year-end-discounts?utm_medium=rss)
- - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
- - [iPad mini 6 review: One year later, still a great reader and streamer](https://appleinsider.com/articles/22/12/27/ipad-mini-6-review-one-year-later-still-a-great-reader-and-streamer?utm_medium=rss)<!-- TECH:END -->
+ - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)
+ - [4 More Lots of Blood Pressure Medication Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/4-more-lots-of-blood-pressure-medication-recalled-over-impurity/#ftag=CAD590a51e)
+ - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
