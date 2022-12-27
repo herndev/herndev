@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
- - ⏩ [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - 👉 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
+ - 💣 [Mandatory paternity tests](http://9gag.com/gag/ap95L15)
+ - ⏩ [Double standards](http://9gag.com/gag/aQE18D7)
+ - 👉 [Back in 2014, John McCain fully predicted Putin&#39;s next moves. `Not to provoke Putin is to show weakness, which will 100% provoke Putin` `A developing and democratic Ukraine is a threat to Putin&#39;s power` `He will try to cut more Ukraine and then Baltics`](http://9gag.com/gag/aeQ5eNB)<!-- MEMES:END -->
 
 ---
 
