@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Steam Deck OS 3.4 update beefs up the desktop mode](https://www.pcgamer.com/the-steam-deck-os-34-update-beefed-up-the-desktop-mode)
  - [Steam&#39;s Year in Review serves up highlights of your 2022 playtime](https://www.pcgamer.com/steams-year-in-review-serves-up-highlights-of-your-2022-playtime)
- - [Carolyn Petit’s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-vampire-survivors-fortnite-1849927777)
- - [Strange World’s Magic: The Gathering-like card game is even more fleshed out than we see](https://www.polygon.com/23521408/strange-world-card-game-magic-the-gathering)<!-- GAME:END -->
+ - [Carolyn Petit’s Top 5 Games Of 2022](https://kotaku.com/best-games-2022-elden-ring-vampire-survivors-fortnite-1849927777)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
