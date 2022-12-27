@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)
- - [4 More Lots of Blood Pressure Medication Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/4-more-lots-of-blood-pressure-medication-recalled-over-impurity/#ftag=CAD590a51e)
- - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
+ - [You’ll soon be able to talk to Home Assistant without Google, Siri, or Alexa](https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa)
+ - [4 More Lots of Blood Pressure Medication Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/4-more-lots-of-blood-pressure-medication-recalled-over-impurity/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
