@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Our favorite movie scenes of the year](https://www.polygon.com/23516876/best-movie-scenes-moments-2022)
- - [I thrashed the RTX 4090 for 8 hours straight training Stable Diffusion to paint like my uncle Hermann](https://www.pcgamer.com/nvidia-rtx-4090-stable-diffusion-training-aharon-kahana)
- - [15 things I deleted from my PC that you can probably delete too](https://www.pcgamer.com/15-things-i-deleted-from-my-pc-that-you-can-probably-delete-too)<!-- GAME:END -->
+ - [Metropolis, Sherlock Holmes, and more enter public domain in 2023](https://www.polygon.com/entertainment/23527444/public-domain-2023-sherlock-holmes-metropolis)
+ - [7 trends that shaped PlayStation gaming in 2022](https://blog.playstation.com/2022/12/27/7-trends-that-shaped-playstation-gaming-in-2022/)
+ - [Our favorite movie scenes of the year](https://www.polygon.com/23516876/best-movie-scenes-moments-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
