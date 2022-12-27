@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;ll take the refrigerator lightbulb](http://9gag.com/gag/aoK520n)
- - ⏩ [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
+ - 💣 [Your post got 1000 points](http://9gag.com/gag/aGEgD57)
+ - ⏩ [Cop versus cafeteria kids](http://9gag.com/gag/abvr6RO)
+ - 👉 [And now if I bite her, I&#39;ll be the bad one](http://9gag.com/gag/aMEYwmX)<!-- MEMES:END -->
 
 ---
 
