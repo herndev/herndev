@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Check out this abandoned cityscape made in Minecraft](https://www.pcgamer.com/check-out-this-abandoned-cityscape-made-in-minecraft)
- - [Nobody, Critics Or Fans, Seems To Like The New Netflix Witcher Spin-Off](https://kotaku.com/witcher-blood-origin-netflix-reviews-henry-cavill-1849932144)
- - [I personally love watching Kobeni fail on Chainsaw Man](https://www.polygon.com/23528378/chainsaw-man-kobeni-higashiyama)<!-- GAME:END -->
+ - [Team Ninja&#39;s Next Game Is Giving Me Sekiro PTSD](https://kotaku.com/wo-long-trailer-soulsike-team-ninja-sekiro-guardian-ape-1849931867)
+ - [Fallout: New Vegas Director On Creating Some Of 2022&#39;s Best Video Game Characters](https://kotaku.com/pentiment-obsidian-josh-sawyer-interview-xbox-gamepass-1849932260)
+ - [Check out this abandoned cityscape made in Minecraft](https://www.pcgamer.com/check-out-this-abandoned-cityscape-made-in-minecraft)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
