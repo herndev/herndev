@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you see it...](http://9gag.com/gag/a1PRYDR)
- - ⏩ [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - 👉 [One title, please!](http://9gag.com/gag/ajV5q1G)<!-- MEMES:END -->
+ - 💣 [Ok, what?](http://9gag.com/gag/abvryev)
+ - ⏩ [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - 👉 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 ---
 
