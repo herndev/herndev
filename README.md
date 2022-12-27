@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The old PeePee TP problem.](http://9gag.com/gag/anz5XWB)
+ - 💣 [I&#39;ll take the refrigerator lightbulb](http://9gag.com/gag/aoK520n)
  - ⏩ [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 👉 [Ok, what?](http://9gag.com/gag/abvryev)<!-- MEMES:END -->
+ - 👉 [Marry Christmas.](http://9gag.com/gag/az21Loq)<!-- MEMES:END -->
 
 ---
 
