@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
- - ⏩ [If you see it...](http://9gag.com/gag/a1PRYDR)
- - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - ⏩ [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - 👉 [Wait a minute...](http://9gag.com/gag/aQE1eB7)<!-- MEMES:END -->
 
 ---
 
