@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What network does Google Fi use?](https://www.androidauthority.com/what-network-does-google-fi-use-3260343/)
- - [You’ll soon be able to talk to Home Assistant without Google, Siri, or Alexa](https://www.theverge.com/2022/12/27/23527790/home-assistant-voice-control-rhasspy-nabu-casa-smart-google-siri-alexa)
- - [4 More Lots of Blood Pressure Medication Recalled Over Impurity     - CNET](https://www.cnet.com/health/medical/4-more-lots-of-blood-pressure-medication-recalled-over-impurity/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Social media shadowbanning is real and tech firms should be more transparent about it; survey: ~1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)
+ - [LG Innotek is ready to put true optical zoom lenses in the next wave of flagship phones](https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera)
+ - [Tips and Natural Cold, Fever Remedies for When Your Child Is Sick     - CNET](https://www.cnet.com/health/medical/tips-and-natural-cold-fever-remedies-for-when-your-child-is-sick/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
