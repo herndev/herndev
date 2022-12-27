@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The era of Netflix password sharing will end soon, somehow](https://www.polygon.com/23527825/netflix-price-charging-fee-sharing-password)
- - [Pokémon Players Are Getting Wrecked By This Weird Little Crow Right Now](https://kotaku.com/pokemon-scarlet-violet-murkrow-prankster-tailwind-1849931152)
- - [Matilda’s viral showstopping finale isn’t the musical’s only incredible song](https://www.polygon.com/23527882/matilda-musical-netflix-songs-clips)<!-- GAME:END -->
+ - [Pentiment Soundtrack Available Now, Vinyl Coming Next Year](https://news.xbox.com/en-us/2022/12/27/pentiment-soundtrack-vinyl/)
+ - [Hot Damn: Another Activision Blizzard Studio Is Unionizing](https://kotaku.com/wow-dragonflight-activision-blizzard-proletariat-union-1849931437)
+ - [You have a few more days to watch these expiring streaming movies](https://www.polygon.com/what-to-watch/2022/12/27/23516877/best-movies-netflix-amazon-hulu-hbo-leaving-december-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
