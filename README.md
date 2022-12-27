@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You little sh*t!](http://9gag.com/gag/a1PRe42)
- - ⏩ [If you see it...](http://9gag.com/gag/a1PRYDR)
+ - 💣 [He twisted the bottle crock, it popped and the champagne spilled all over me.](http://9gag.com/gag/a8q5p6d)
+ - ⏩ [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
  - 👉 [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)<!-- MEMES:END -->
 
 ---
