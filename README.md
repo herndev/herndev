@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Octane X App launches on iPadOS for GPU rendering workflows](https://appleinsider.com/articles/22/12/27/octane-x-app-launches-on-ipados-for-gpu-rendering-workflows?utm_medium=rss)
- - [iPhone gains China market share in declining smartphone market](https://appleinsider.com/articles/22/12/27/iphone-gains-china-market-share-in-declining-smartphone-market?utm_medium=rss)
- - [How to remove the background from multiple photos in iOS 16](https://appleinsider.com/inside/ios-16/tips/how-to-remove-the-background-from-multiple-photos-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
+ - [How to get an App Store refund from your iPhone or iPad](https://appleinsider.com/articles/21/01/07/how-to-get-a-refund-from-the-app-store-on-your-iphone-ipad-or-ipod-touch?utm_medium=rss)
+ - [The Verge’s 2022 New Year’s resolution gift guide](https://www.theverge.com/23463044/new-years-resolution-gifts-ideas-2022-tech-gadgets-fitness)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
