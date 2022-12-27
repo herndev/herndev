@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Our favorite movie scenes of the year](https://www.polygon.com/23516876/best-movie-scenes-moments-2022)
  - [I thrashed the RTX 4090 for 8 hours straight training Stable Diffusion to paint like my uncle Hermann](https://www.pcgamer.com/nvidia-rtx-4090-stable-diffusion-training-aharon-kahana)
- - [15 things I deleted from my PC that you can probably delete too](https://www.pcgamer.com/15-things-i-deleted-from-my-pc-that-you-can-probably-delete-too)
- - [PC Gamer Hardware Awards: The best graphics card of 2022](https://www.pcgamer.com/pcgamer-hardware-awards-best-graphics-card-2022)<!-- GAME:END -->
+ - [15 things I deleted from my PC that you can probably delete too](https://www.pcgamer.com/15-things-i-deleted-from-my-pc-that-you-can-probably-delete-too)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
