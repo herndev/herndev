@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BAYC, Doodles, Pudgy Penguins, and other NFT projects are diversifying into real-world assets, including toys, albums, and sports teams, to generate new revenue &lpar;Financial Times&rpar;](http://www.techmeme.com/221227/p10#a221227p10)
- - [In 2022, I stopped using my VR headset](https://www.androidauthority.com/stopped-using-vr-headset-3257772/)
- - [How to use email aliases and Hide My Email in iOS 16](https://appleinsider.com/inside/icloud/tips/how-to-use-email-aliases-and-hide-my-email-in-ios-16?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro lead times have returned to after-launch levels](https://appleinsider.com/articles/22/12/27/iphone-14-pro-lead-times-have-returned-to-after-launch-levels?utm_medium=rss)
+ - [Hacker claims to have 400 million Twitter accounts for sale](https://appleinsider.com/articles/22/12/27/hacker-claims-to-have-400-million-twitter-accounts-for-sale?utm_medium=rss)
+ - [An investigation shows how Amazon plastic shipping envelopes, discarded for recycling by US and Canadian consumers, end up being burned in Muzaffarnagar, India &lpar;K Oanh Ha/Bloomberg&rpar;](http://www.techmeme.com/221227/p11#a221227p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
