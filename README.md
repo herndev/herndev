@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Over 40 of the best holiday smartwatch deals](https://www.androidauthority.com/best-smartwatch-deals-1107833/)
  - [A profile of Senegal-based Wave, Francophone West Africa&#39;s only unicorn and the first non-telco, non-bank offering mobile money services in eight countries &lpar;Bloomberg&rpar;](http://www.techmeme.com/221227/p2#a221227p2)
- - [We asked, you told us: Many of you own an Android TV set or box](https://www.androidauthority.com/android-tv-own-poll-results-3260245/)
- - [Jakarta-based Akulaku, a digital banking startup which offers a virtual credit card, neobank, and more, raised $200M from Japan&#39;s Mitsubishi UFJ Financial Group &lpar;Catherine Shu/TechCrunch&rpar;](http://www.techmeme.com/221227/p1#a221227p1)<!-- TECH:END -->
+ - [We asked, you told us: Many of you own an Android TV set or box](https://www.androidauthority.com/android-tv-own-poll-results-3260245/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
