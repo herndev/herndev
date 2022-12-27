@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 556 answer and hint for Tuesday, December 27](https://www.pcgamer.com/wordle-556-answer-december-27)
- - [Here&#39;s what Skyrim and Fallout modders want to see in Starfield mods](https://www.pcgamer.com/heres-what-skyrim-and-fallout-modders-want-to-see-in-starfield-mods)
- - [This Week’s Deals with Gold and Spotlight Sale, Plus the Final Week of the Countdown Sale](https://news.xbox.com/en-us/2022/12/26/this-weeks-deals-with-gold-and-spotlight-sale-plus-the-final-week-of-the-countdown-sale/)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best graphics card of 2022](https://www.pcgamer.com/pcgamer-hardware-awards-best-graphics-card-2022)
+ - [PC Gamer Hardware Awards: The best CPUs of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-cpus-of-2022)
+ - [PC Gamer&#39;s highest hardware review scores of 2022... and the five lowest](https://www.pcgamer.com/top-pc-gamer-hardware-reviews-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
