@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Social media shadowbanning is real and tech firms should be more transparent about it; survey: ~1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)
- - [LG Innotek is ready to put true optical zoom lenses in the next wave of flagship phones](https://www.theverge.com/2022/12/27/23528191/lg-innotek-optical-telephoto-zoom-smartphone-camera)
- - [Tips and Natural Cold, Fever Remedies for When Your Child Is Sick     - CNET](https://www.cnet.com/health/medical/tips-and-natural-cold-fever-remedies-for-when-your-child-is-sick/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [LG’s new optical zoom sensor aims to get rid of the smartphone camera bump](https://www.androidauthority.com/lg-smartphone-camera-sensor-3260484/)
+ - [Filing: US prosecutors charge a man with fraud and manipulation, accusing him of trying to steal ~$110M in October by rigging the DeFi platform Mango Markets &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221227/p17#a221227p17)
+ - [Shadowbanning is real and social media sites should be more transparent about it; survey: nearly 1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
