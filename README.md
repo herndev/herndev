@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hope this helps all parents!](http://9gag.com/gag/a4oRYeA)
- - ⏩ [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 💣 [The mother of dragons is adorable](http://9gag.com/gag/aYV7g5m)
+ - ⏩ [Nicholas Cage as Dracula. Yes this is actually happening](http://9gag.com/gag/amA5Bp2)
+ - 👉 [Google&#39;s hilarious results for `shoplifter`](http://9gag.com/gag/aA0g3QR)<!-- MEMES:END -->
 
 ---
 
