@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life Players Are Getting Perma-Trapped In Applebee’s](https://kotaku.com/high-on-life-rick-and-morty-applebees-game-pass-xbox-1849935068)
- - [Chainsaw Man’s episode endings tell the whole story of the anime adaptation](https://www.polygon.com/23528252/chainsaw-man-endings-songs-anime-finale)
- - [I Hope You Didn&#39;t Just Buy Star Wars Jedi: Fallen Order Because It&#39;s January&#39;s PS Plus Game](https://kotaku.com/jedi-fallen-order-star-wars-ps-plus-free-january-2023-1849934565)<!-- GAME:END -->
+ - [Sonic Co-Creator Charged With Illegally Trading Over $1 Million In Final Fantasy Stock](https://kotaku.com/sonic-square-enix-final-fantasy-dragon-quest-stock-1849935301)
+ - [D&amp;D will change to defend itself against crypto and other forms of exploitation](https://www.polygon.com/23529385/one-dnd-scandal-ogl-srd-crypto-nft-intellectual-property)
+ - [High On Life Players Are Getting Perma-Trapped In Applebee’s](https://kotaku.com/high-on-life-rick-and-morty-applebees-game-pass-xbox-1849935068)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
