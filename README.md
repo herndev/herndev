@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Embracer Group, which owns more video game studios than any other company in the world, overseeing 237 games being developed across 132 studios &lpar;Jaweed Kaleem/Los Angeles Times&rpar;](http://www.techmeme.com/221228/p11#a221228p11)
- - [As the Nasdaq closes its worst year since 2008, IBM was a bright spot for tech companies with a $50B+ market cap, rising 6% in 2022, as investors sought safety &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221228/p10#a221228p10)
- - [A look at North Dimension, a little-known Alameda Research subsidiary, where the SEC says FTX told customers to wire funds to trade without disclosing the ties &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/221228/p9#a221228p9)<!-- TECH:END -->
+ - [Best iOS apps for cooking basics in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
+ - [What devices are Android Authority readers using? &lpar;2022 Edition&rpar;](https://www.androidauthority.com/android-authority-readers-2022-3242250/)
+ - [Let’s Go to Mars. Let’s Not Live There](https://www.wired.com/story/lets-go-to-mars-lets-not-live-there/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
