@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [9 great games for your VR headset from 2022](https://www.theverge.com/23500956/vr-virtual-reality-games-meta-quest-oculus-2022-roundup)
- - [Sony’s WH-1000XM5 headphones are 30 percent off, their lowest price yet](https://www.theverge.com/2022/12/28/23529187/sony-wh-1000xm5-headphones-bose-bluetooth-steam-pc-games-ikea-sonos-deal-sale)
- - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
+ - [After Amazon workers in Staten Island voted to unionize in April, similar movements at other US warehouses fizzled out, stymied by turnover and company efforts &lpar;Sebastian Herrera/Wall Street Journal&rpar;](http://www.techmeme.com/221228/p19#a221228p19)
+ - [Daily Deals Dec 28: Apple Watch SE for $249, 45% off Samsung Soundbar &amp; More](https://appleinsider.com/articles/22/12/28/daily-deals-dec-28-apple-watch-se-for-249-45-off-samsung-soundbar-more?utm_medium=rss)
+ - [What were the best streaming services of 2022?](https://www.androidauthority.com/what-were-the-best-streaming-services-of-2022-3248969/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
