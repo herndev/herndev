@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best iOS apps for cooking basics in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
- - [What devices are Android Authority readers using? &lpar;2022 Edition&rpar;](https://www.androidauthority.com/android-authority-readers-2022-3242250/)
- - [Let’s Go to Mars. Let’s Not Live There](https://www.wired.com/story/lets-go-to-mars-lets-not-live-there/)<!-- TECH:END -->
+ - [Foxconn hopes to retain workers by offering cash bonuses](https://appleinsider.com/articles/22/12/28/foxconn-hopes-to-retain-workers-by-offering-cash-bonuses?utm_medium=rss)
+ - [SEC filing: MicroStrategy acquires ~3,205 BTC for ~$56.4M between November 1 and December 24, taking its holding to 135K BTC, and sells 704 BTC to offset gains &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221228/p16#a221228p16)
+ - [New TerraMaster NAS models have fast speeds, high capacity](https://appleinsider.com/articles/22/12/28/new-terramaster-nas-models-have-fast-speeds-high-capacity?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
