@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Court filings: Sam Bankman-Fried said in an affidavit that he and Gary Wang borrowed $546M+ from Alameda to buy a nearly 8% stake, or ~56M shares, in Robinhood &lpar;Bloomberg&rpar;](http://www.techmeme.com/221228/p4#a221228p4)
- - [Samsung promises to complete One UI 5 rollout in the next 4 days](https://www.androidauthority.com/samsung-one-ui-5-rollout-deadline-3260533/)
- - [You told us: Here’s the last time you sideloaded an app on your phone](https://www.androidauthority.com/last-time-sideload-apps-phone-poll-results-3260528/)<!-- TECH:END -->
+ - [Alameda-linked wallets traded Lido, Polygon, Uniswap, and other tokens for ether and USDT, before swapping for bitcoin, taking their holdings to 47.6 BTC &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221228/p8#a221228p8)
+ - [India&#39;s government-backed nonprofit Open Network for Digital Commerce is holding trials in over 85 cities, including Bengaluru, after raising $22M &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/221228/p7#a221228p7)
+ - [Solana drops 10%+ to around $10, as bitcoin and ether saw modest declines, over concerns that large holders could offload the token; SOL is down 94% in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/221228/p6#a221228p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
