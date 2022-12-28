@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [High On Life Players Are Getting Perma-Trapped In Applebee’s](https://kotaku.com/high-on-life-rick-and-morty-applebees-game-pass-xbox-1849935068)
  - [Chainsaw Man’s episode endings tell the whole story of the anime adaptation](https://www.polygon.com/23528252/chainsaw-man-endings-songs-anime-finale)
- - [I Hope You Didn&#39;t Just Buy Star Wars Jedi: Fallen Order Because It&#39;s January&#39;s PS Plus Game](https://kotaku.com/jedi-fallen-order-star-wars-ps-plus-free-january-2023-1849934565)
- - [PC Gamer Hardware Awards: The best SSDs of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-ssd-of-2022)<!-- GAME:END -->
+ - [I Hope You Didn&#39;t Just Buy Star Wars Jedi: Fallen Order Because It&#39;s January&#39;s PS Plus Game](https://kotaku.com/jedi-fallen-order-star-wars-ps-plus-free-january-2023-1849934565)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
