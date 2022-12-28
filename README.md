@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [LG’s new optical zoom sensor aims to get rid of the smartphone camera bump](https://www.androidauthority.com/lg-smartphone-camera-sensor-3260484/)
- - [Filing: US prosecutors charge a man with fraud and manipulation, accusing him of trying to steal ~$110M in October by rigging the DeFi platform Mango Markets &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221227/p17#a221227p17)
- - [Shadowbanning is real and social media sites should be more transparent about it; survey: nearly 1 in 10 US social media users think they&#39;ve been shadowbanned &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/221227/p16#a221227p16)<!-- TECH:END -->
+ - [Sell your used iPhone, iPad, Apple Watch or Mac for cash &amp; get a 10% bonus](https://appleinsider.com/articles/22/12/26/sell-your-used-iphone-ipad-apple-watch-or-mac-for-cash-get-a-10-bonus?utm_medium=rss)
+ - [US military biometric capture devices loaded with data were sold on eBay](https://www.theverge.com/2022/12/27/23528338/us-military-biometric-devices-fingerprints-pictures-iris-scans-afghanistan)
+ - [Southwest cancels thousands of flights, leaving passengers stranded across the US](https://www.theverge.com/2022/12/27/23528333/southwest-airlines-flights-canceled-winter-storm)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
