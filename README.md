@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mother of dragons is adorable](http://9gag.com/gag/aYV7g5m)
- - ⏩ [Nicholas Cage as Dracula. Yes this is actually happening](http://9gag.com/gag/amA5Bp2)
- - 👉 [Google&#39;s hilarious results for `shoplifter`](http://9gag.com/gag/aA0g3QR)<!-- MEMES:END -->
+ - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - ⏩ [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
+ - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 ---
 
