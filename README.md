@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Nier: Automata anime has a firm release date and release trailer](https://www.pcgamer.com/the-nier-automata-anime-has-a-firm-release-date-and-release-trailer)
- - [Tarkov&#39;s new urban map is packed with atmosphere, take a look ahead of release](https://www.pcgamer.com/tarkovs-new-urban-map-is-packed-with-atmosphere-take-a-look-ahead-of-release)
- - [Elden Ring Was The Most Completed, And Most Quit, Game Of 2022](https://kotaku.com/elden-ring-stats-most-played-2022-fromsoft-quit-malenia-1849932520)<!-- GAME:END -->
+ - [Today&#39;s Wordle 557 answer and hint for Wednesday, December 28](https://www.pcgamer.com/wordle-557-answer-december-28)
+ - [I&#39;m still waiting for MMOs to get a lot weirder](https://www.pcgamer.com/im-still-waiting-for-mmos-to-get-a-lot-weirder)
+ - [The Nier: Automata anime has a firm release date and release trailer](https://www.pcgamer.com/the-nier-automata-anime-has-a-firm-release-date-and-release-trailer)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
