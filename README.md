@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Let&#39;s roast some great RPGs for their absolutely god-awful names](https://www.pcgamer.com/lets-roast-some-great-rpgs-for-their-absolutely-god-awful-names)
  - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)
- - [Years after release, Death Stranding keeps delivering](https://www.pcgamer.com/years-after-release-death-stranding-keeps-delivering)
- - [Best Comedy 2022: Trombone Champ](https://www.pcgamer.com/best-comedy-2022-trombone-champ)<!-- GAME:END -->
+ - [Years after release, Death Stranding keeps delivering](https://www.pcgamer.com/years-after-release-death-stranding-keeps-delivering)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
