@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ancient wisdom is still relevant](http://9gag.com/gag/ago55pw)
- - ⏩ [Lady driving the frozen canal in Indianapolis thinking its a road. Results in the comments.](http://9gag.com/gag/a6qNKrm)
- - 👉 [Metallic crystals produce interesting `architectural` structure](http://9gag.com/gag/a2KRWEZ)<!-- MEMES:END -->
+ - 💣 [Please arrest mommy](http://9gag.com/gag/aYV7K2V)
+ - ⏩ [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
+ - 👉 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)<!-- MEMES:END -->
 
 ---
 
