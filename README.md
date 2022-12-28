@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)
- - ⏩ [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)
- - 👉 [Those are some quite big babies](http://9gag.com/gag/avQo71q)<!-- MEMES:END -->
+ - 💣 [The mother of dragons is adorable](http://9gag.com/gag/aYV7g5m)
+ - ⏩ [Politicians in a nutshell](http://9gag.com/gag/a2KRoeY)
+ - 👉 [Superhero](http://9gag.com/gag/aOx0Yvr)<!-- MEMES:END -->
 
 ---
 
