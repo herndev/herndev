@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ZipRecruiter: 37% of laid off or fired tech workers were able to find a job within a month of starting their search and ~79% were able to within three months &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221227/p22#a221227p22)
- - [Kraken says it is closing its cryptocurrency exchange services in Japan, operated by Payward Asia, on January 31 2023, weeks after cutting its workforce by 30% &lpar;Bloomberg&rpar;](http://www.techmeme.com/221227/p21#a221227p21)
- - [Southwest Airlines says the operational meltdown over the holiday weekend was partly caused by its scheduling software, which a union rep called as &quot;outdated&quot; &lpar;Taylor Rains/Insider&rpar;](http://www.techmeme.com/221227/p20#a221227p20)<!-- TECH:END -->
+ - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
+ - [Poll: Did you get any Android-powered devices for Christmas?](https://www.androidauthority.com/android-powered-devices-christmas-gift-december-3260518/)
+ - [Researchers discuss AI expectations for 2023: continued problematic art-generating apps, incoming regulations, open-source and decentralized efforts, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221228/p1#a221228p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
