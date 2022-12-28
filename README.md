@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [An anonymous Twitter user leaks an alleged list of API keys belonging to crypto trading service 3Commas&#39; users, after 3Commas said its users had been &quot;phished&quot; &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)
- - [LastPass Data Breach: It&#39;s Time to Ditch This Password Manager](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
- - [These Weird Wordle Starter Words Practically Guarantee a a Winning Streak     - CNET](https://www.cnet.com/culture/these-weird-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [What I&#39;ve Learned About the Financial Toll of Taking Care of Aging Relatives     - CNET](https://www.cnet.com/personal-finance/what-ive-learned-about-the-financial-toll-of-taking-care-of-aging-relatives/#ftag=CAD590a51e)
+ - [A hacker leaks API keys belonging to users of crypto trading service 3Commas, which said its users were &quot;phished&quot;; 3Commas CEO confirms the leaked data &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)
+ - [5 Best Immunity Supplements for Winter     - CNET](https://www.cnet.com/health/nutrition/best-immunity-supplements-for-winter/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
