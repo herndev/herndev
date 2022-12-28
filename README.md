@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - ⏩ [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
- - 👉 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)<!-- MEMES:END -->
+ - 💣 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
+ - ⏩ [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 ---
 
