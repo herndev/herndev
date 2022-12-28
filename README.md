@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
- - 👉 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
+ - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - ⏩ [If you know every word, but never heard it like this before](http://9gag.com/gag/a4oRR8A)
+ - 👉 [YEAH!! WHAT IS IT?!?!?!](http://9gag.com/gag/aVb0wQn)<!-- MEMES:END -->
 
 ---
 
