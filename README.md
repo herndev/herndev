@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please arrest mommy](http://9gag.com/gag/aYV7K2V)
- - ⏩ [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 👉 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)<!-- MEMES:END -->
+ - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - ⏩ [How to get fired from Mac Donalds really quick](http://9gag.com/gag/aEqgPyO)
+ - 👉 [His homies will never believe him](http://9gag.com/gag/az21m3p)<!-- MEMES:END -->
 
 ---
 
