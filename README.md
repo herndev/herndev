@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The mother of dragons is adorable](http://9gag.com/gag/aYV7g5m)
- - ⏩ [Politicians in a nutshell](http://9gag.com/gag/a2KRoeY)
- - 👉 [Superhero](http://9gag.com/gag/aOx0Yvr)<!-- MEMES:END -->
+ - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - ⏩ [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 👉 [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)<!-- MEMES:END -->
 
 ---
 
