@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
- - ⏩ [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
- - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
+ - 💣 [How action RPG \u201csilent takedown\u201d work](http://9gag.com/gag/aeQ5M4v)
+ - ⏩ [...](http://9gag.com/gag/amA5BZV)
+ - 👉 [Oh you\u2026](http://9gag.com/gag/ajV55qx)<!-- MEMES:END -->
 
 ---
 
