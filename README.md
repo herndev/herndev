@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You told us: Here’s the last time you sideloaded an app on your phone](https://www.androidauthority.com/last-time-sideload-apps-phone-poll-results-3260528/)
- - [Bitcoin miner Argo Blockchain will avoid bankruptcy filing after agreeing to sell its Helios mining facility in Texas to Galaxy Digital for $65M and a $35M loan &lpar;Aoyon Ashraf/CoinDesk&rpar;](http://www.techmeme.com/221228/p3#a221228p3)
- - [Some telehealth companies are running social media ads promoting drugs for unapproved uses, showing benefits and paid testimonials but not risks or side effects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221228/p2#a221228p2)<!-- TECH:END -->
+ - [Court filings: Sam Bankman-Fried said in an affidavit that he and Gary Wang borrowed $546M+ from Alameda to buy a nearly 8% stake, or ~56M shares, in Robinhood &lpar;Bloomberg&rpar;](http://www.techmeme.com/221228/p4#a221228p4)
+ - [Samsung promises to complete One UI 5 rollout in the next 4 days](https://www.androidauthority.com/samsung-one-ui-5-rollout-deadline-3260533/)
+ - [You told us: Here’s the last time you sideloaded an app on your phone](https://www.androidauthority.com/last-time-sideload-apps-phone-poll-results-3260528/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
