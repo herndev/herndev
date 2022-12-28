@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How action RPG \u201csilent takedown\u201d work](http://9gag.com/gag/aeQ5M4v)
- - ⏩ [...](http://9gag.com/gag/amA5BZV)
- - 👉 [Oh you\u2026](http://9gag.com/gag/ajV55qx)<!-- MEMES:END -->
+ - 💣 [Don&#39;t stick it in crazy](http://9gag.com/gag/az21jvm)
+ - ⏩ [Always](http://9gag.com/gag/aOx0Y6R)
+ - 👉 [Same old life, new year](http://9gag.com/gag/ap95mZW)<!-- MEMES:END -->
 
 ---
 
