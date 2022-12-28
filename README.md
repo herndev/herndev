@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Foxconn hopes to retain workers by offering cash bonuses](https://appleinsider.com/articles/22/12/28/foxconn-hopes-to-retain-workers-by-offering-cash-bonuses?utm_medium=rss)
- - [SEC filing: MicroStrategy acquires ~3,205 BTC for ~$56.4M between November 1 and December 24, taking its holding to 135K BTC, and sells 704 BTC to offset gains &lpar;Oliver Knight/CoinDesk&rpar;](http://www.techmeme.com/221228/p16#a221228p16)
- - [New TerraMaster NAS models have fast speeds, high capacity](https://appleinsider.com/articles/22/12/28/new-terramaster-nas-models-have-fast-speeds-high-capacity?utm_medium=rss)<!-- TECH:END -->
+ - [9 great games for your VR headset from 2022](https://www.theverge.com/23500956/vr-virtual-reality-games-meta-quest-oculus-2022-roundup)
+ - [Sony’s WH-1000XM5 headphones are 30 percent off, their lowest price yet](https://www.theverge.com/2022/12/28/23529187/sony-wh-1000xm5-headphones-bose-bluetooth-steam-pc-games-ikea-sonos-deal-sale)
+ - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
