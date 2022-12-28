@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Elden Ring Was The Most Completed, And Most Quit, Game Of 2022](https://kotaku.com/elden-ring-stats-most-played-2022-fromsoft-quit-malenia-1849932520)
  - [Team Ninja&#39;s Next Game Is Giving Me Sekiro PTSD](https://kotaku.com/wo-long-trailer-soulsike-team-ninja-sekiro-guardian-ape-1849931867)
- - [Fallout: New Vegas Director On Creating Some Of 2022&#39;s Best Video Game Characters](https://kotaku.com/pentiment-obsidian-josh-sawyer-interview-xbox-gamepass-1849932260)
- - [Check out this abandoned cityscape made in Minecraft](https://www.pcgamer.com/check-out-this-abandoned-cityscape-made-in-minecraft)<!-- GAME:END -->
+ - [Fallout: New Vegas Director On Creating Some Of 2022&#39;s Best Video Game Characters](https://kotaku.com/pentiment-obsidian-josh-sawyer-interview-xbox-gamepass-1849932260)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
