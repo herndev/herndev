@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Court filing: Intel and VLSI Technology agreed to end a patent dispute in Delaware where Intel previously said VLSI had asked for more than $4B in damages &lpar;Blake Brittain/Reuters&rpar;](http://www.techmeme.com/221227/p19#a221227p19)
  - [Sources: Instacart cuts its internal valuation to ~$10B, down ~75% from $39B in March 2021; the company slashed its valuation every quarter in 2022 &lpar;Erin Woo/The Information&rpar;](http://www.techmeme.com/221227/p18#a221227p18)
- - [The Measles Outbreak in Ohio Still Growing. Here&#39;s What to Know About the Measles Vaccine and More     - CNET](https://www.cnet.com/health/medical/the-measles-outbreak-in-ohio-still-growing-heres-what-to-know-about-the-measles-vaccine-and-more/#ftag=CAD590a51e)
- - [Sell your used iPhone, iPad, Apple Watch or Mac for cash &amp; get a 10% bonus](https://appleinsider.com/articles/22/12/26/sell-your-used-iphone-ipad-apple-watch-or-mac-for-cash-get-a-10-bonus?utm_medium=rss)<!-- TECH:END -->
+ - [House Reportedly Bans TikTok on Official Devices     - CNET](https://www.cnet.com/news/house-bans-tiktok-on-official-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
