@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CCS Insight: global shipments of VR and AR devices fell 12%+ YoY to 9.6M in 2022; NPD Group: US sales of VR headsets fell 2% YoY to $1.1B as of early December &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221228/p20#a221228p20)
- - [Here’s where you can buy a PS5](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)
- - [This was the hottest year yet for the UK](https://www.theverge.com/2022/12/28/23529384/met-office-uk-weather-hottest-year-temperature-record-2022)<!-- TECH:END -->
+ - [LastPass Data Breach: It&#39;s Time to Ditch This Password Manager](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
+ - [House of Representatives bans staff use of &#39;high risk&#39; TikTok](https://appleinsider.com/articles/22/12/28/house-of-representatives-bans-staff-use-of-high-risk-tiktok?utm_medium=rss)
+ - [&#39;Find My&#39; pinpoints location of crash victim stranded overnight](https://appleinsider.com/articles/22/12/28/find-my-pinpoints-location-of-crash-victim-stranded-overnight?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
