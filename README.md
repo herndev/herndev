@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you know, you know](http://9gag.com/gag/a2KR4o1)
- - ⏩ [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
- - 👉 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
+ - 💣 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
+ - ⏩ [Equal opportunity..](http://9gag.com/gag/aBdggnx)
+ - 👉 [I wonder how, I wonder why](http://9gag.com/gag/aL100Gv)<!-- MEMES:END -->
 
 ---
 
