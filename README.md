@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
- - [Apple looks to Luxshare for iPhone 15 Pro Max assembly](https://appleinsider.com/articles/22/12/28/apple-looks-to-luxshare-for-iphone-15-pro-max-assembly?utm_medium=rss)
- - [Daily Deals Dec 28: Apple Watch SE for $249, 45% off Samsung Soundbar &amp; More](https://appleinsider.com/articles/22/12/28/daily-deals-dec-28-apple-watch-se-for-249-45-off-samsung-soundbar-more?utm_medium=rss)<!-- TECH:END -->
+ - [Fuel 3 in 1 Foldable Power Station review: Large but effective](https://appleinsider.com/articles/22/12/28/fuel-3-in-1-foldable-power-station-review-large-but-effective?utm_medium=rss)
+ - [5 things we want to see from Sony Xperia in 2023](https://www.androidauthority.com/sony-xperia-2023-3250085/)
+ - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
