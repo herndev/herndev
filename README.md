@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [There may never be another Crysis moment for PC gaming](https://www.pcgamer.com/there-may-never-be-another-crysis-moment-for-pc-gaming)
  - [Let&#39;s roast some great RPGs for their absolutely god-awful names](https://www.pcgamer.com/lets-roast-some-great-rpgs-for-their-absolutely-god-awful-names)
- - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)
- - [Years after release, Death Stranding keeps delivering](https://www.pcgamer.com/years-after-release-death-stranding-keeps-delivering)<!-- GAME:END -->
+ - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
