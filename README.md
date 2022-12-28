@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)
- - ⏩ [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - 👉 [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)<!-- MEMES:END -->
+ - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - ⏩ [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)
+ - 👉 [If you see it...](http://9gag.com/gag/a1PRYDR)<!-- MEMES:END -->
 
 ---
 
