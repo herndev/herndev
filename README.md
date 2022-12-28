@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Fuel 3 in 1 Foldable Power Station review: Large but effective](https://appleinsider.com/articles/22/12/28/fuel-3-in-1-foldable-power-station-review-large-but-effective?utm_medium=rss)
- - [5 things we want to see from Sony Xperia in 2023](https://www.androidauthority.com/sony-xperia-2023-3250085/)
- - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)<!-- TECH:END -->
+ - [CCS Insight: global shipments of VR and AR devices fell 12%+ YoY to 9.6M in 2022; NPD Group: US sales of VR headsets fell 2% YoY to $1.1B as of early December &lpar;Jonathan Vanian/CNBC&rpar;](http://www.techmeme.com/221228/p20#a221228p20)
+ - [Here’s where you can buy a PS5](https://www.theverge.com/22323257/sony-playstation-5-ps5-in-stock-digital-disk-edition-where-buy)
+ - [This was the hottest year yet for the UK](https://www.theverge.com/2022/12/28/23529384/met-office-uk-weather-hottest-year-temperature-record-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
