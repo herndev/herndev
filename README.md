@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - ⏩ [How to get fired from Mac Donalds really quick](http://9gag.com/gag/aEqgPyO)
- - 👉 [His homies will never believe him](http://9gag.com/gag/az21m3p)<!-- MEMES:END -->
+ - 💣 [Ancient wisdom is still relevant](http://9gag.com/gag/ago55pw)
+ - ⏩ [Metallic crystals produce interesting `architectural` structure](http://9gag.com/gag/a2KRWEZ)
+ - 👉 [A shamefur dispray](http://9gag.com/gag/amA5vP6)<!-- MEMES:END -->
 
 ---
 
