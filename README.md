@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - ⏩ [Equal opportunity..](http://9gag.com/gag/aBdggnx)
- - 👉 [I wonder how, I wonder why](http://9gag.com/gag/aL100Gv)<!-- MEMES:END -->
+ - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
+ - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 👉 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
 
 ---
 
