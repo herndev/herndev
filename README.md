@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Sonic Co-Creator Charged With Illegally Trading Over $1 Million In Final Fantasy Stock](https://kotaku.com/sonic-square-enix-final-fantasy-dragon-quest-stock-1849935301)
- - [D&amp;D will change to defend itself against crypto and other forms of exploitation](https://www.polygon.com/23529385/one-dnd-scandal-ogl-srd-crypto-nft-intellectual-property)
- - [High On Life Players Are Getting Perma-Trapped In Applebee’s](https://kotaku.com/high-on-life-rick-and-morty-applebees-game-pass-xbox-1849935068)<!-- GAME:END -->
+ - [The Witcher: Blood Origin changes Ciri’s story and sets up Witcher season 3 &lpar;maybe&rpar;](https://www.polygon.com/23529356/witcher-blood-origin-post-credits-prophecy-ending-explained)
+ - [High on Life can trap players inside Applebee&#39;s forever](https://www.pcgamer.com/high-on-life-can-trap-players-inside-applebees-forever)
+ - [Where to find every Security Drone in Destiny 2](https://www.polygon.com/destiny-2-guide-walkthrough/23519796/destiny-2-security-drone-locations-revision-zero-operation-seraphs-shield)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
