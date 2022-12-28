@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Police officer knows his priorities.](http://9gag.com/gag/anz5NqB)
+ - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
  - ⏩ [Let\u2019s trY.](http://9gag.com/gag/az21j9Z)
- - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
 ---
 
