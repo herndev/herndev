@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Meeting &lpar;and keeping&rpar; the neighbours in The Sims 4](https://www.pcgamer.com/meeting-and-keeping-the-neighbours-in-the-sims-4)
  - [Today&#39;s Wordle 557 answer and hint for Wednesday, December 28](https://www.pcgamer.com/wordle-557-answer-december-28)
- - [I&#39;m still waiting for MMOs to get a lot weirder](https://www.pcgamer.com/im-still-waiting-for-mmos-to-get-a-lot-weirder)
- - [The Nier: Automata anime has a firm release date and release trailer](https://www.pcgamer.com/the-nier-automata-anime-has-a-firm-release-date-and-release-trailer)<!-- GAME:END -->
+ - [I&#39;m still waiting for MMOs to get a lot weirder](https://www.pcgamer.com/im-still-waiting-for-mmos-to-get-a-lot-weirder)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
