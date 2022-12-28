@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - ⏩ [Give a man a fish...](http://9gag.com/gag/amA570X)
- - 👉 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)<!-- MEMES:END -->
+ - 💣 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)
+ - ⏩ [Those are some quite big babies](http://9gag.com/gag/avQo71q)
+ - 👉 [Suicide should count as an organ failure.](http://9gag.com/gag/ajV5EQ0)<!-- MEMES:END -->
 
 ---
 
