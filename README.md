@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best TV episodes of the year](https://www.polygon.com/23488385/best-tv-episodes-2022)
- - [Hogwarts Legacy Transphobia Controversy Fuels Reddit Drama](https://kotaku.com/hogwarts-legacy-controversy-reddit-harry-potter-rowling-1849933298)
- - [Discord can suck up an alarming amount of data, and 4 other things I learned by reviewing my PC&#39;s data footprint](https://www.pcgamer.com/discord-can-suck-up-an-alarming-amount-of-data-and-4-other-things-i-learned-by-reviewing-my-pcs-data-footprint)<!-- GAME:END -->
+ - [This Cringe Fail Anime Girl Is The Undisputed Meme Queen Of 2022](https://kotaku.com/anime-bocchi-the-rock-spy-x-family-anya-forger-meme-1849932494)
+ - [All the PC Gamer hardware reviews from 2022](https://www.pcgamer.com/pc-gamer-hardware-reviews-2022)
+ - [The best TV episodes of the year](https://www.polygon.com/23488385/best-tv-episodes-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
