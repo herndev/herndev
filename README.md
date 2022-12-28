@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [An anonymous Twitter user leaks an alleged list of API keys belonging to crypto trading service 3Commas&#39; users, after 3Commas said its users had been &quot;phished&quot; &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221228/p22#a221228p22)
  - [LastPass Data Breach: It&#39;s Time to Ditch This Password Manager](https://www.wired.com/story/lastpass-breach-vaults-password-managers/)
- - [House of Representatives bans staff use of &#39;high risk&#39; TikTok](https://appleinsider.com/articles/22/12/28/house-of-representatives-bans-staff-use-of-high-risk-tiktok?utm_medium=rss)
- - [&#39;Find My&#39; pinpoints location of crash victim stranded overnight](https://appleinsider.com/articles/22/12/28/find-my-pinpoints-location-of-crash-victim-stranded-overnight?utm_medium=rss)<!-- TECH:END -->
+ - [These Weird Wordle Starter Words Practically Guarantee a a Winning Streak     - CNET](https://www.cnet.com/culture/these-weird-wordle-starter-words-practically-guarantee-a-a-winning-streak/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
