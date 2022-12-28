@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
+ - 💣 [Hope this helps all parents!](http://9gag.com/gag/a4oRYeA)
  - ⏩ [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
  - 👉 [Clothed girls are sfw...](http://9gag.com/gag/aL102qV)<!-- MEMES:END -->
 
