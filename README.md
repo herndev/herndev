@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
- - ⏩ [You\u2019re not a kitten anymore.](http://9gag.com/gag/aPgRRWR)
- - 👉 [Equal opportunity..](http://9gag.com/gag/aBdggnx)<!-- MEMES:END -->
+ - 💣 [If you know, you know](http://9gag.com/gag/a2KR4o1)
+ - ⏩ [Russian citizens storming a bank after the decree of the russian central bank to disown accounts to fund the war.](http://9gag.com/gag/aA0gPmd)
+ - 👉 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)<!-- MEMES:END -->
 
 ---
 
