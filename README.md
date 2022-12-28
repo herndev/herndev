@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [There may never be another Crysis moment for PC gaming](https://www.pcgamer.com/there-may-never-be-another-crysis-moment-for-pc-gaming)
- - [Let&#39;s roast some great RPGs for their absolutely god-awful names](https://www.pcgamer.com/lets-roast-some-great-rpgs-for-their-absolutely-god-awful-names)
- - [The best bugs of 2022](https://www.pcgamer.com/the-best-bugs-of-2022)<!-- GAME:END -->
+ - [The best TV episodes of the year](https://www.polygon.com/23488385/best-tv-episodes-2022)
+ - [Hogwarts Legacy Transphobia Controversy Fuels Reddit Drama](https://kotaku.com/hogwarts-legacy-controversy-reddit-harry-potter-rowling-1849933298)
+ - [Discord can suck up an alarming amount of data, and 4 other things I learned by reviewing my PC&#39;s data footprint](https://www.pcgamer.com/discord-can-suck-up-an-alarming-amount-of-data-and-4-other-things-i-learned-by-reviewing-my-pcs-data-footprint)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
