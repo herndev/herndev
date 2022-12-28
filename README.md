@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Don&#39;t stick it in crazy](http://9gag.com/gag/az21jvm)
- - ⏩ [Always](http://9gag.com/gag/aOx0Y6R)
- - 👉 [Same old life, new year](http://9gag.com/gag/ap95mZW)<!-- MEMES:END -->
+ - 💣 [Uuuhhhh\u2026?](http://9gag.com/gag/amA5zbv)
+ - ⏩ [You\u2019re not a kitten anymore.](http://9gag.com/gag/aPgRRWR)
+ - 👉 [Equal opportunity..](http://9gag.com/gag/aBdggnx)<!-- MEMES:END -->
 
 ---
 
