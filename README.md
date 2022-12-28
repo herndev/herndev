@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 💣 [Those are some quite big babies](http://9gag.com/gag/avQo71q)
  - ⏩ [Give a man a fish...](http://9gag.com/gag/amA570X)
- - 👉 [A tale of wisdom.](http://9gag.com/gag/a4oR7jw)<!-- MEMES:END -->
+ - 👉 [Simple geometry knowledge](http://9gag.com/gag/aRE0jdj)<!-- MEMES:END -->
 
 ---
 
