@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Cringe Fail Anime Girl Is The Undisputed Meme Queen Of 2022](https://kotaku.com/anime-bocchi-the-rock-spy-x-family-anya-forger-meme-1849932494)
- - [All the PC Gamer hardware reviews from 2022](https://www.pcgamer.com/pc-gamer-hardware-reviews-2022)
- - [The best TV episodes of the year](https://www.polygon.com/23488385/best-tv-episodes-2022)<!-- GAME:END -->
+ - [Twitch Streamer Pokimane Wants Tougher Laws On Revenge Porn](https://kotaku.com/twitch-pokimane-hasan-piker-revenge-porn-1849934231)
+ - [PlayStation Plus Monthly Games for January: Star Wars Jedi: Fallen Order, Fallout 76, Axiom Verge 2](https://blog.playstation.com/2022/12/28/playstation-plus-monthly-games-for-january-star-wars-jedi-fallen-order-fallout-76-axiom-verge-2/)
+ - [The year of violent denial](https://www.polygon.com/23523350/2022-movies-tv-year-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
