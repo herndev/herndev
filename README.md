@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Centralized vs decentralized country](http://9gag.com/gag/avQoGvn)
- - ⏩ [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 👉 [Poor Kid](http://9gag.com/gag/aGEgZG6)<!-- MEMES:END -->
+ - 💣 [Ancient wisdom is still relevant](http://9gag.com/gag/ago55pw)
+ - ⏩ [Lady driving the frozen canal in Indianapolis thinking its a road. Results in the comments.](http://9gag.com/gag/a6qNKrm)
+ - 👉 [Metallic crystals produce interesting `architectural` structure](http://9gag.com/gag/a2KRWEZ)<!-- MEMES:END -->
 
 ---
 
