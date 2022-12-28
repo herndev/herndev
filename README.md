@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alameda-linked wallets traded Lido, Polygon, Uniswap, and other tokens for ether and USDT, before swapping for bitcoin, taking their holdings to 47.6 BTC &lpar;Osato Avan-Nomayo/The Block&rpar;](http://www.techmeme.com/221228/p8#a221228p8)
- - [India&#39;s government-backed nonprofit Open Network for Digital Commerce is holding trials in over 85 cities, including Bengaluru, after raising $22M &lpar;Benjamin Parkin/Financial Times&rpar;](http://www.techmeme.com/221228/p7#a221228p7)
- - [Solana drops 10%+ to around $10, as bitcoin and ether saw modest declines, over concerns that large holders could offload the token; SOL is down 94% in 2022 &lpar;Sidhartha Shukla/Bloomberg&rpar;](http://www.techmeme.com/221228/p6#a221228p6)<!-- TECH:END -->
+ - [A look at Embracer Group, which owns more video game studios than any other company in the world, overseeing 237 games being developed across 132 studios &lpar;Jaweed Kaleem/Los Angeles Times&rpar;](http://www.techmeme.com/221228/p11#a221228p11)
+ - [As the Nasdaq closes its worst year since 2008, IBM was a bright spot for tech companies with a $50B+ market cap, rising 6% in 2022, as investors sought safety &lpar;Jordan Novet/CNBC&rpar;](http://www.techmeme.com/221228/p10#a221228p10)
+ - [A look at North Dimension, a little-known Alameda Research subsidiary, where the SEC says FTX told customers to wire funds to trade without disclosing the ties &lpar;Gretchen Morgenson/NBC News&rpar;](http://www.techmeme.com/221228/p9#a221228p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
