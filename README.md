@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Some telehealth companies are running social media ads promoting drugs for unapproved uses, showing benefits and paid testimonials but not risks or side effects &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221228/p2#a221228p2)
  - [Top year-end deals knock up to $550 off Apple gear, software &amp; more](https://appleinsider.com/articles/22/12/27/top-year-end-deals-knock-up-to-550-off-apple-gear-software-more?utm_medium=rss)
- - [Poll: Did you get any Android-powered devices for Christmas?](https://www.androidauthority.com/android-powered-devices-christmas-gift-december-3260518/)
- - [Researchers discuss AI expectations for 2023: continued problematic art-generating apps, incoming regulations, open-source and decentralized efforts, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/221228/p1#a221228p1)<!-- TECH:END -->
+ - [Poll: Did you get any Android-powered devices for Christmas?](https://www.androidauthority.com/android-powered-devices-christmas-gift-december-3260518/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
