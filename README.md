@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It was at this moment he knew...](http://9gag.com/gag/ago5gA1)
+ - 💣 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
  - ⏩ [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
+ - 👉 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
 
 ---
 
