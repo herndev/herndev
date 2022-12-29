@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;Weather Whiplash&#39; Is the New Normal. What It&#39;s Like Living Through It     - CNET](https://www.cnet.com/science/climate/weather-whiplash-is-the-new-normal-what-its-like-living-through-it/#ftag=CAD590a51e)
- - [First comprehensive Right to Repair law in US becomes toothless at last minute](https://www.androidauthority.com/digital-fair-repair-act-3260958/)
- - [Amazon starts Prime Air drone deliveries in Lockeford, California, and College Station, Texas, delivering small packages with a maximum payload of 5 lbs &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/221229/p20#a221229p20)<!-- TECH:END -->
+ - [The 240Hz OLED gaming displays are coming](https://www.theverge.com/2022/12/29/23531060/240hz-oled-gaming-displays-monitor-ces-2023-lg-asus-corsair)
+ - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)
+ - [Samsung Galaxy A34 could come in four funky colors](https://www.androidauthority.com/samsung-galaxy-a34-colors-3260979/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
