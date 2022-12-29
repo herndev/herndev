@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [5 things we want to see from budget phones in 2023](https://www.androidauthority.com/budget-phones-2023-3248472/)
- - [Meross Smart Garage Door Opener review: Not your father&#39;s garage door opener](https://appleinsider.com/articles/22/12/29/meross-smart-garage-door-opener-review-not-your-fathers-garage-door-opener?utm_medium=rss)
- - [OpenSea CEO Devin Finzer acknowledges &quot;some setbacks&quot; since FTX fell, argues NFTs could be &quot;denominated in US dollars&quot;, and says OpenSea has a &quot;healthy runway&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/221229/p11#a221229p11)<!-- TECH:END -->
+ - [Apple is doubly vulnerable to Chinese escalation against Taiwan, which could impact the iPhone&#39;s complex components and assembly, driving production near zero &lpar;Chris Miller/The Atlantic&rpar;](http://www.techmeme.com/221229/p14#a221229p14)
+ - [Best two-factor authentication apps for iOS 16 in 2023](https://appleinsider.com/inside/ios-16/tips/best-two-factor-authentication-apps-for-ios-16-in-2023?utm_medium=rss)
+ - [iPhone 15 may be 35% more power efficient with new TSMC 3nm chip](https://appleinsider.com/articles/22/12/29/iphone-15-may-be-35-more-power-efficient-with-new-tsmc-3nm-chip?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
