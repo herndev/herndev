@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Please enjoy this free, weird, and somewhat disconcerting adventure](https://www.pcgamer.com/please-enjoy-this-free-weird-and-somewhat-disconcerting-adventure)
- - [Dwarf Fortress faces mind-boggling reality of hiring second programmer](https://www.pcgamer.com/dwarf-fortress-faces-mind-boggling-reality-of-hiring-second-programmer)
- - [Chainsaw Man Does The Shonen Anime Trio Formula Right](https://kotaku.com/anime-chainsaw-man-mappa-aki-denji-power-naruto-1849935738)<!-- GAME:END -->
+ - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
+ - [The fate of Disco Elysium 2 is uncertain, but these games make up for it](https://www.pcgamer.com/disco-elysiums-influence-on-games-grows-despite-its-sequels-uncertain-fate)
+ - [Please enjoy this free, weird, and somewhat disconcerting adventure](https://www.pcgamer.com/please-enjoy-this-free-weird-and-somewhat-disconcerting-adventure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
