@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
- - ⏩ [This dog training/sitting company takes the doggos to the woods in Alaska and let them play in nature](http://9gag.com/gag/a04R7DZ)
- - 👉 [Oops](http://9gag.com/gag/aYV7oX2)<!-- MEMES:END -->
+ - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - ⏩ [Those are some quite big babies](http://9gag.com/gag/avQo71q)
+ - 👉 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)<!-- MEMES:END -->
 
 ---
 
