@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)
- - [Pelé, Global Soccer Legend, Dead at 82: &#39;Forever the King of Football&#39;     - CNET](https://www.cnet.com/culture/sports/pele-global-soccer-legend-dies-at-82-forever-the-king-of-football/#ftag=CAD590a51e)
- - [Marvel Bringing Official Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-official-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Best cooking apps for iOS in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
+ - [An obituary of Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple shuts the iOS app down on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)
+ - [Samsung might be working on a more colorful budget phone and we’re here for it](https://www.theverge.com/2022/12/29/23531141/samsung-galaxy-a34-leak-render-color-options)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
