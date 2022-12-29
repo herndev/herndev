@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Poor Kid](http://9gag.com/gag/aGEgZG6)
+ - 💣 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
  - ⏩ [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
- - 👉 [This is a game changer](http://9gag.com/gag/a9qRE9D)<!-- MEMES:END -->
+ - 👉 [Whos the girl on the right](http://9gag.com/gag/a5XRE4E)<!-- MEMES:END -->
 
 ---
 
