@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Games with Gold for January 2023](https://news.xbox.com/en-us/2022/12/29/new-games-with-gold-for-january-2023/)
- - [The best video essays of 2022](https://www.polygon.com/what-to-watch/23500291/best-video-essays-2022-youtube)
- - [20 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)<!-- GAME:END -->
+ - [Xbox Games With Gold lived in Game Pass’ shadow in 2022](https://www.polygon.com/23530689/xbox-games-with-gold-list-2022-free)
+ - [The new PS Plus still couldn’t compete with Xbox Game Pass in 2022](https://www.polygon.com/23530305/playstation-plus-extra-premium-essential-2022-games-analysis-subscription-cost)
+ - [Xbox Games With Gold opens 2023 with two more from the bargain bin](https://www.polygon.com/23530986/xbox-free-games-with-gold-january-2023-xbox-one-xbox-series-x)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
