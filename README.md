@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best video essays of 2022](https://www.polygon.com/what-to-watch/23500291/best-video-essays-2022-youtube)
  - [Should I read the Chainsaw Man manga after the anime?](https://www.polygon.com/23529776/chainsaw-man-manga-finished-anime-season-2)
- - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)
- - [The best action scenes in 2022 movies](https://www.polygon.com/23516879/best-action-fight-scenes-2022-movies)<!-- GAME:END -->
+ - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
