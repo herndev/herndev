@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - ⏩ [This is the only acceptable Metaverse](http://9gag.com/gag/aoK5gO3)
- - 👉 [Bring back Vine!](http://9gag.com/gag/aRE0rjq)<!-- MEMES:END -->
+ - 💣 [How did your husband die?](http://9gag.com/gag/aKEd6pg)
+ - ⏩ [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
 
 ---
 
