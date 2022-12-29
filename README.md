@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PC Gamer Hardware Awards: The best gaming headsets of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2022)
- - [The Year In Twitch Pol Himbo King Hasan Piker](https://kotaku.com/hasan-piker-andrew-tate-sam-hyde-twitch-porsche-taycan-1849933722)
- - [Xbox Games With Gold lived in Game Pass’ shadow in 2022](https://www.polygon.com/23530689/xbox-games-with-gold-list-2022-free)<!-- GAME:END -->
+ - [Please enjoy this free, weird, and somewhat disconcerting adventure](https://www.pcgamer.com/please-enjoy-this-free-weird-and-somewhat-disconcerting-adventure)
+ - [Dwarf Fortress faces mind-boggling reality of hiring second programmer](https://www.pcgamer.com/dwarf-fortress-faces-mind-boggling-reality-of-hiring-second-programmer)
+ - [Chainsaw Man Does The Shonen Anime Trio Formula Right](https://kotaku.com/anime-chainsaw-man-mappa-aki-denji-power-naruto-1849935738)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
