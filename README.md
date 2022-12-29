@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at India&#39;s plan to build a semiconductor supply chain, including via a ~$10B incentive program, issues with the Foxconn-Vedanta joint venture, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/221229/p22#a221229p22)
  - [The 240Hz OLED gaming displays are coming](https://www.theverge.com/2022/12/29/23531060/240hz-oled-gaming-displays-monitor-ces-2023-lg-asus-corsair)
- - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)
- - [Samsung Galaxy A34 could come in four funky colors](https://www.androidauthority.com/samsung-galaxy-a34-colors-3260979/)<!-- TECH:END -->
+ - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
