@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [After a hacker demanded $200K to delete data on 400M Twitter accounts, Ireland&#39;s DPC plans to examine &quot;that security issue&quot;; Twitter has not yet commented &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/221229/p19#a221229p19)
- - [Apple Watch sensor has racial bias, claims new lawsuit](https://appleinsider.com/articles/22/12/27/apple-watch-sensor-has-racial-bias-claims-new-lawsuit?utm_medium=rss)
- - [New York passes functionally toothless Right to Repair bill](https://appleinsider.com/articles/22/12/29/new-york-passes-functionally-toothless-right-to-repair-bill?utm_medium=rss)<!-- TECH:END -->
+ - [&#39;Weather Whiplash&#39; Is the New Normal. What It&#39;s Like Living Through It     - CNET](https://www.cnet.com/science/climate/weather-whiplash-is-the-new-normal-what-its-like-living-through-it/#ftag=CAD590a51e)
+ - [First comprehensive Right to Repair law in US becomes toothless at last minute](https://www.androidauthority.com/digital-fair-repair-act-3260958/)
+ - [Amazon starts Prime Air drone deliveries in Lockeford, California, and College Station, Texas, delivering small packages with a maximum payload of 5 lbs &lpar;Eric Bangeman/Ars Technica&rpar;](http://www.techmeme.com/221229/p20#a221229p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
