@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Here&#39;s a quirky little game with excellent sailing ships to explore and battle in](https://www.pcgamer.com/heres-a-quirky-little-game-with-excellent-sailing-ships-to-explore-and-battle-in)
  - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Latest STALKER 2 trailer takes you into the Noosphere](https://www.pcgamer.com/latest-stalker-2-trailer-takes-you-into-the-noosphere)
- - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)<!-- GAME:END -->
+ - [Latest STALKER 2 trailer takes you into the Noosphere](https://www.pcgamer.com/latest-stalker-2-trailer-takes-you-into-the-noosphere)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
