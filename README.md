@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How did your husband die?](http://9gag.com/gag/aKEd6pg)
- - ⏩ [This is Biznesss](http://9gag.com/gag/a1PRWO2)
- - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
+ - 💣 [It was at this moment he knew...](http://9gag.com/gag/ago5gA1)
+ - ⏩ [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - 👉 [Worth a try](http://9gag.com/gag/anz5bLo)<!-- MEMES:END -->
 
 ---
 
