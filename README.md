@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
- - [Deals: Apple&#39;s Mac Studio is on sale for $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/28/deals-apples-mac-studio-is-on-sale-for-1845-plus-30-off-applecare?utm_medium=rss)
- - [FTX Co-Founder Sam Bankman-Fried to Enter Plea Next Week     - CNET](https://www.cnet.com/personal-finance/crypto/ftx-co-founder-sam-bankman-fried-to-enter-plea-next-week/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [COVID Test for Travelers From China to Be Required by US     - CNET](https://www.cnet.com/health/covid-test-for-travelers-from-china-to-be-required-by-us/#ftag=CAD590a51e)
+ - [Deals: Apple&#39;s Mac Studio is on sale for $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/28/deals-apples-mac-studio-is-on-sale-for-1845-plus-30-off-applecare?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
