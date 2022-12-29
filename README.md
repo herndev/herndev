@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple is doubly vulnerable to Chinese escalation against Taiwan, which could impact the iPhone&#39;s complex components and assembly, driving production near zero &lpar;Chris Miller/The Atlantic&rpar;](http://www.techmeme.com/221229/p14#a221229p14)
- - [Best two-factor authentication apps for iOS 16 in 2023](https://appleinsider.com/inside/ios-16/tips/best-two-factor-authentication-apps-for-ios-16-in-2023?utm_medium=rss)
- - [iPhone 15 may be 35% more power efficient with new TSMC 3nm chip](https://appleinsider.com/articles/22/12/29/iphone-15-may-be-35-more-power-efficient-with-new-tsmc-3nm-chip?utm_medium=rss)<!-- TECH:END -->
+ - [What were the best streaming movies that flew under the radar in 2022?](https://www.androidauthority.com/underrated-streaming-movies-of-2022-3258624/)
+ - [The best new streaming movies this week on Netflix, HBO Max, Hulu, and more](https://www.androidauthority.com/best-new-streaming-movies-this-week-3083965/)
+ - [10 best Android lock screen apps and lock screen replacement apps](https://www.androidauthority.com/best-android-lock-screen-apps-lock-screen-replacement-apps-565514/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
