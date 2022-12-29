@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A Decade Later, Your Phone Still Can&#39;t Replace a Pro Camera     - CNET](https://www.cnet.com/tech/mobile/a-decade-later-your-phone-still-cant-replace-a-pro-camera/#ftag=CAD590a51e)
- - [Samsung’s latest fridge will be even better for TikTok](https://www.theverge.com/2022/12/29/23530623/samsung-smart-fridge-tiktok-display-tv-ces-2023)
- - [After a 24+ hour Alibaba Cloud outage on December 18, Alibaba names Wu Zeming as CTO and says CEO Daniel Zhang Yong will oversee Cloud, effective immediately &lpar;Tracy Qu/South China Morning Post&rpar;](http://www.techmeme.com/221229/p7#a221229p7)<!-- TECH:END -->
+ - [CryptoSlam: NFT trading volume fell from $24M+ on December 20 to $12.9M on December 25, down for a second consecutive year; Yuga&#39;s BAYC rallied before Christmas &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/221229/p9#a221229p9)
+ - [2022 saw the re-emergence of hacktivism on a large scale, with some new tactics and approaches blurring the lines between hacktivism and state-sponsored attacks &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/221229/p8#a221229p8)
+ - [The Singularity of Allison Williams](https://www.wired.com/story/singularity-allison-williams-m3gan/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
