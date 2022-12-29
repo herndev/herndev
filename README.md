@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Ceviche - white raver rafting.](http://9gag.com/gag/avQo50Z)
- - ⏩ [This new Witcher thing](http://9gag.com/gag/aDYg40N)
- - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
+ - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
+ - 👉 [The Bloodthirsty Creatures of The Callisto Protocol Will Terrify You](http://9gag.com/gag/a1PQ8LR)<!-- MEMES:END -->
 
 ---
 
