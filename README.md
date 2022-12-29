@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
- - ⏩ [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - 👉 [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)<!-- MEMES:END -->
+ - 💣 [Poor Kid](http://9gag.com/gag/aGEgZG6)
+ - ⏩ [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
+ - 👉 [This is a game changer](http://9gag.com/gag/a9qRE9D)<!-- MEMES:END -->
 
 ---
 
