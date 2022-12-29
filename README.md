@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia&#39;s RTX 4070 Ti preorder price in China isn&#39;t pretty](https://www.pcgamer.com/nvidias-rtx-4070-ti-preorder-price-in-china-isnt-pretty)
  - [Try the demo for Outpath, a fusion of Minecraft and clicker games](https://www.pcgamer.com/try-the-demo-for-outpath-a-fusion-of-minecraft-and-clicker-games)
- - [Activision Blizzard developer Proletariat is unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)
- - [YouTuber: Logan Paul’s NFT ‘Game’ Is A Big Crypto Scam](https://kotaku.com/logan-paul-cryptozoo-blockchain-scam-youtube-nft-crypto-1849935953)<!-- GAME:END -->
+ - [Activision Blizzard developer Proletariat is unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
