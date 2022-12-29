@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
- - ⏩ [I play F.E.A.R. every year, what a masterpiece](http://9gag.com/gag/aDYgYvO)
- - 👉 [I&#39;m ready for death by snu-snu](http://9gag.com/gag/ap959nM)<!-- MEMES:END -->
+ - 💣 [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - ⏩ [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - 👉 [This is Biznesss](http://9gag.com/gag/a1PRWO2)<!-- MEMES:END -->
 
 ---
 
