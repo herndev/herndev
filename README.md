@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese media: two government institutions and Huaban plan to launch China Digital Assets Trading Platform, an NFT marketplace that will allow secondary trading &lpar;Callan Quinn/The Block&rpar;](http://www.techmeme.com/221229/p17#a221229p17)
- - [LastPass password vaults crackable for $100, alleges 1Password](https://appleinsider.com/articles/22/12/29/lastpass-password-vaults-crackable-for-100-alleges-1password?utm_medium=rss)
- - [Daily Deals Dec. 29: $200 off Apple 11-inch iPad Pro, Fire 8 tablet 50% off &amp; more](https://appleinsider.com/articles/22/12/29/daily-deals-dec-29-200-off-apple-11-inch-ipad-pro-fire-8-tablet-50-off-more?utm_medium=rss)<!-- TECH:END -->
+ - [After a hacker demanded $200K to delete data on 400M Twitter accounts, Ireland&#39;s DPC plans to examine &quot;that security issue&quot;; Twitter has not yet commented &lpar;Chris Vallance/BBC&rpar;](http://www.techmeme.com/221229/p19#a221229p19)
+ - [Apple Watch sensor has racial bias, claims new lawsuit](https://appleinsider.com/articles/22/12/27/apple-watch-sensor-has-racial-bias-claims-new-lawsuit?utm_medium=rss)
+ - [New York passes functionally toothless Right to Repair bill](https://appleinsider.com/articles/22/12/29/new-york-passes-functionally-toothless-right-to-repair-bill?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
