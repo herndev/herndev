@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [New Games with Gold for January 2023](https://news.xbox.com/en-us/2022/12/29/new-games-with-gold-for-january-2023/)
  - [The best video essays of 2022](https://www.polygon.com/what-to-watch/23500291/best-video-essays-2022-youtube)
- - [Should I read the Chainsaw Man manga after the anime?](https://www.polygon.com/23529776/chainsaw-man-manga-finished-anime-season-2)
- - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)<!-- GAME:END -->
+ - [20 Best Steam Deck Games Of 2022](https://kotaku.com/steam-deck-valve-best-games-to-play-verified-pc-gaming-1849371052)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
