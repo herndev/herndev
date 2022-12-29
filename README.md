@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s RTX 4070 Ti preorder price in China isn&#39;t pretty](https://www.pcgamer.com/nvidias-rtx-4070-ti-preorder-price-in-china-isnt-pretty)
- - [Try the demo for Outpath, a fusion of Minecraft and clicker games](https://www.pcgamer.com/try-the-demo-for-outpath-a-fusion-of-minecraft-and-clicker-games)
- - [Activision Blizzard developer Proletariat is unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)<!-- GAME:END -->
+ - [Today&#39;s Wordle 558 answer and hint for Thursday, December 29](https://www.pcgamer.com/wordle-558-answer-december-29)
+ - [These 4TB m.2 SSDs are among the cheapest we&#39;ve seen](https://www.pcgamer.com/these-4tb-m2-ssds-are-among-the-cheapest-weve-seen)
+ - [Nvidia&#39;s RTX 4070 Ti preorder price in China isn&#39;t pretty](https://www.pcgamer.com/nvidias-rtx-4070-ti-preorder-price-in-china-isnt-pretty)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
