@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
- - [COVID Test for Travelers From China to Be Required by US     - CNET](https://www.cnet.com/health/covid-test-for-travelers-from-china-to-be-required-by-us/#ftag=CAD590a51e)
- - [Deals: Apple&#39;s Mac Studio is on sale for $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/28/deals-apples-mac-studio-is-on-sale-for-1845-plus-30-off-applecare?utm_medium=rss)<!-- TECH:END -->
+ - [Some Twitter users are reporting widespread service interruptions; Downdetector: the issues mainly affect its website and started around 7 PM ET on Wednesday &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/221228/p24#a221228p24)
+ - [Twitter is acting up with intermittent error messages and notifications that won’t load](https://www.theverge.com/2022/12/28/23530256/twitter-outage-down-connection-loading-error-notifications)
+ - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
