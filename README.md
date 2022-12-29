@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [CryptoSlam: NFT trading volume fell from $24M+ on December 20 to $12.9M on December 25, down for a second consecutive year; Yuga&#39;s BAYC rallied before Christmas &lpar;MK Manoylov/The Block&rpar;](http://www.techmeme.com/221229/p9#a221229p9)
- - [2022 saw the re-emergence of hacktivism on a large scale, with some new tactics and approaches blurring the lines between hacktivism and state-sponsored attacks &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/221229/p8#a221229p8)
- - [The Singularity of Allison Williams](https://www.wired.com/story/singularity-allison-williams-m3gan/)<!-- TECH:END -->
+ - [5 things we want to see from budget phones in 2023](https://www.androidauthority.com/budget-phones-2023-3248472/)
+ - [Meross Smart Garage Door Opener review: Not your father&#39;s garage door opener](https://appleinsider.com/articles/22/12/29/meross-smart-garage-door-opener-review-not-your-fathers-garage-door-opener?utm_medium=rss)
+ - [OpenSea CEO Devin Finzer acknowledges &quot;some setbacks&quot; since FTX fell, argues NFTs could be &quot;denominated in US dollars&quot;, and says OpenSea has a &quot;healthy runway&quot; &lpar;Cristina Criddle/Financial Times&rpar;](http://www.techmeme.com/221229/p11#a221229p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
