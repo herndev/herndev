@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
- - ⏩ [Filter](http://9gag.com/gag/a1PRrXR)
- - 👉 [Meme](http://9gag.com/gag/a8q5E1O)<!-- MEMES:END -->
+ - 💣 [Ceviche - white raver rafting.](http://9gag.com/gag/avQo50Z)
+ - ⏩ [This new Witcher thing](http://9gag.com/gag/aDYg40N)
+ - 👉 [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)<!-- MEMES:END -->
 
 ---
 
