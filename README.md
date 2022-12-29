@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Brokers and investors: Silicon Valley workers are offloading shares in secondary markets, compounding a fall in valuations, amid layoffs and a slow IPO market &lpar;Tabby Kinder/Financial Times&rpar;](http://www.techmeme.com/221229/p4#a221229p4)
- - [TSMC begins mass production of next-gen 3nm chips in Taiwan, which need ~35% less power than 5nm chips, following Samsung, and also plans to build 2nm plants &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/221229/p3#a221229p3)
- - [Jon Peddie Research: shipments of discrete GPUs fell 42% YoY to ~14M in Q3 2022, including ~6.9M units for desktop PCs, the lowest number since at least Q3 2005 &lpar;Anton Shilov/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/221229/p2#a221229p2)<!-- TECH:END -->
+ - [Solana cofounders Anatoly Yakovenko and Raj Gokal scramble to move past FTX&#39;s stain on their token, down 96% from November 2021; FTX and Alameda bought 58M+ SOL &lpar;Hannah Miller/Bloomberg&rpar;](http://www.techmeme.com/221229/p6#a221229p6)
+ - [Behind the rise of &quot;cozy&quot; games that encourage players to take their time in open worlds devoid of competition and went from niche to video game fixture in 2022 &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/221229/p5#a221229p5)
+ - [PlayStation Plus Deals: How to Save Cash on Sony&#39;s Gaming Subscriptions     - CNET](https://www.cnet.com/deals/best-playstation-plus-deals/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
