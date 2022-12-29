@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Try the demo for Outpath, a fusion of Minecraft and clicker games](https://www.pcgamer.com/try-the-demo-for-outpath-a-fusion-of-minecraft-and-clicker-games)
  - [Activision Blizzard developer Proletariat is unionizing](https://www.pcgamer.com/activision-blizzard-developer-proletariat-is-unionizing)
- - [YouTuber: Logan Paul’s NFT ‘Game’ Is A Big Crypto Scam](https://kotaku.com/logan-paul-cryptozoo-blockchain-scam-youtube-nft-crypto-1849935953)
- - [Kojima: MGS2 &#39;Seemed Impossible To Release&#39; After 9/11, Nearly Quit](https://kotaku.com/hideo-kojima-metal-gear-solid-2-death-stranding-1849935746)<!-- GAME:END -->
+ - [YouTuber: Logan Paul’s NFT ‘Game’ Is A Big Crypto Scam](https://kotaku.com/logan-paul-cryptozoo-blockchain-scam-youtube-nft-crypto-1849935953)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
