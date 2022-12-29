@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - ⏩ [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 👉 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
+ - 💣 [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
+ - ⏩ [I play F.E.A.R. every year, what a masterpiece](http://9gag.com/gag/aDYgYvO)
+ - 👉 [I&#39;m ready for death by snu-snu](http://9gag.com/gag/ap959nM)<!-- MEMES:END -->
 
 ---
 
