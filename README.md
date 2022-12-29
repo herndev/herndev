@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [No prof pic?](http://9gag.com/gag/a9qRqW6)
- - ⏩ [Nothing like a good neighbor](http://9gag.com/gag/anz57Q5)
- - 👉 [Sh!t escalated quickly!](http://9gag.com/gag/aeQ59Vm)<!-- MEMES:END -->
+ - 💣 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
+ - ⏩ [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - 👉 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
 
 ---
 
