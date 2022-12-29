@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at India&#39;s plan to build a semiconductor supply chain, including via a ~$10B incentive program, issues with the Foxconn-Vedanta joint venture, and more &lpar;Dylan Patel/SemiAnalysis&rpar;](http://www.techmeme.com/221229/p22#a221229p22)
- - [The 240Hz OLED gaming displays are coming](https://www.theverge.com/2022/12/29/23531060/240hz-oled-gaming-displays-monitor-ces-2023-lg-asus-corsair)
- - [The Best New Christmas Movies on Hallmark     - CNET](https://www.cnet.com/culture/entertainment/the-best-new-christmas-movies-on-hallmark-2022/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Save $150 on this M2 MacBook Air with 16GB RAM &amp; 512GB SSD, plus free next day delivery](https://appleinsider.com/articles/22/12/29/save-150-on-this-m2-macbook-air-with-16gb-ram-512gb-ssd-plus-free-next-day-delivery?utm_medium=rss)
+ - [Pelé, Global Soccer Legend, Dead at 82: &#39;Forever the King of Football&#39;     - CNET](https://www.cnet.com/culture/sports/pele-global-soccer-legend-dies-at-82-forever-the-king-of-football/#ftag=CAD590a51e)
+ - [Marvel Bringing Official Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-official-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
