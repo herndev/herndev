@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Games With Gold lived in Game Pass’ shadow in 2022](https://www.polygon.com/23530689/xbox-games-with-gold-list-2022-free)
- - [The new PS Plus still couldn’t compete with Xbox Game Pass in 2022](https://www.polygon.com/23530305/playstation-plus-extra-premium-essential-2022-games-analysis-subscription-cost)
- - [Xbox Games With Gold opens 2023 with two more from the bargain bin](https://www.polygon.com/23530986/xbox-free-games-with-gold-january-2023-xbox-one-xbox-series-x)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming headsets of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-headsets-of-2022)
+ - [The Year In Twitch Pol Himbo King Hasan Piker](https://kotaku.com/hasan-piker-andrew-tate-sam-hyde-twitch-porsche-taycan-1849933722)
+ - [Xbox Games With Gold lived in Game Pass’ shadow in 2022](https://www.polygon.com/23530689/xbox-games-with-gold-list-2022-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
