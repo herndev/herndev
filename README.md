@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Singel? thats why!](http://9gag.com/gag/awZoBNQ)
- - ⏩ [They painted the shadow...](http://9gag.com/gag/aWGEjm6)
- - 👉 [Training LOTR style](http://9gag.com/gag/a6qNKjN)<!-- MEMES:END -->
+ - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
+ - ⏩ [This dog training/sitting company takes the doggos to the woods in Alaska and let them play in nature](http://9gag.com/gag/a04R7DZ)
+ - 👉 [Oops](http://9gag.com/gag/aYV7oX2)<!-- MEMES:END -->
 
 ---
 
