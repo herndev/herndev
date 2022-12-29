@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - ⏩ [Give him the money](http://9gag.com/gag/a4oR1md)
- - 👉 [This guy was once considered as future Ballon D&#39;or amidst Ronaldo vs Messi debate](http://9gag.com/gag/a8q51vZ)<!-- MEMES:END -->
+ - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - ⏩ [Find the cat](http://9gag.com/gag/aQE1R3z)
+ - 👉 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
 
 ---
 
