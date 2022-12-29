@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Philosoraptor confused](http://9gag.com/gag/a7qwr2w)
- - ⏩ [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)
- - 👉 [How to reset Mosin-Nagant 91/30 Pu sniper scope ?](http://9gag.com/gag/awZoMLx)<!-- MEMES:END -->
+ - 💣 [Singel? thats why!](http://9gag.com/gag/awZoBNQ)
+ - ⏩ [They painted the shadow...](http://9gag.com/gag/aWGEjm6)
+ - 👉 [Training LOTR style](http://9gag.com/gag/a6qNKjN)<!-- MEMES:END -->
 
 ---
 
