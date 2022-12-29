@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice glasses](http://9gag.com/gag/aQE1Xg7)
- - ⏩ [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
- - 👉 [Whos the girl on the right](http://9gag.com/gag/a5XRE4E)<!-- MEMES:END -->
+ - 💣 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - ⏩ [Give him the money](http://9gag.com/gag/a4oR1md)
+ - 👉 [This guy was once considered as future Ballon D&#39;or amidst Ronaldo vs Messi debate](http://9gag.com/gag/a8q51vZ)<!-- MEMES:END -->
 
 ---
 
