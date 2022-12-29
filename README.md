@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [So, so many Vampire Survivors clones came out this year](https://www.pcgamer.com/so-so-many-vampire-survivors-clones-came-out-this-year)
- - [2023&#39;s looking like another banger year for deckbuilders](https://www.pcgamer.com/2023s-looking-like-another-banger-year-for-deckbuilders)
- - [The best rhythm game finally came to PC this year and took over my life](https://www.pcgamer.com/the-best-rhythm-game-finally-came-to-pc-this-year-and-took-over-my-life)<!-- GAME:END -->
+ - [In this, the blandest year for PC gaming tech only Valve took a risk](https://www.pcgamer.com/2022-blandest-pc-hardware-year-on-record)
+ - [Microsoft&#39;s &#39;normcore&#39; clothing line had me feeling highly inappropriate](https://www.pcgamer.com/microsoft-hardwear-normcore-clothing-line-hands-on)
+ - [So, so many Vampire Survivors clones came out this year](https://www.pcgamer.com/so-so-many-vampire-survivors-clones-came-out-this-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
