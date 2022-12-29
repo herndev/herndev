@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Twitter users are reporting widespread service interruptions; Downdetector: the issues mainly affect its website and started around 7 PM ET on Wednesday &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/221228/p24#a221228p24)
- - [Twitter is acting up with intermittent error messages and notifications that won’t load](https://www.theverge.com/2022/12/28/23530256/twitter-outage-down-connection-loading-error-notifications)
- - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)<!-- TECH:END -->
+ - [Twitter Outage: Thousands of Users Report Problems With Website     - CNET](https://www.cnet.com/news/social-media/twitter-outage-thousands-of-users-report-problems-with-website/#ftag=CAD590a51e)
+ - [A US appeals court revives a lawsuit accusing Google and others of violating children&#39;s privacy state laws by tracking their YouTube activity for ad targeting &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221228/p25#a221228p25)
+ - [Some Twitter users are reporting widespread service interruptions; Downdetector: the issues mainly affect its website and started around 7pm ET on Wednesday &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/221228/p24#a221228p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
