@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Find the cat](http://9gag.com/gag/aQE1R3z)
- - ⏩ [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - 👉 [This is Biznesss](http://9gag.com/gag/a1PRWO2)<!-- MEMES:END -->
+ - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - ⏩ [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
+ - 👉 [Find the cat](http://9gag.com/gag/aQE1R3z)<!-- MEMES:END -->
 
 ---
 
