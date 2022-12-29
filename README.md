@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Any thought?](http://9gag.com/gag/a9qRrDD)
- - ⏩ [I\u2019m just Curious asking for a friend?](http://9gag.com/gag/az21qWj)
- - 👉 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)<!-- MEMES:END -->
+ - 💣 [Worth a try](http://9gag.com/gag/anz5bLo)
+ - ⏩ [Filter](http://9gag.com/gag/a1PRrXR)
+ - 👉 [Meme](http://9gag.com/gag/a8q5E1O)<!-- MEMES:END -->
 
 ---
 
