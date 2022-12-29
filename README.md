@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Q&amp;A with Christopher Phillips, head of the Google Geo group, which runs Maps, on the future of navigation, making maps more immersive, and more &lpar;Danny Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/221228/p23#a221228p23)
- - [The LastPass disclosure of leaked password vaults is being torn apart by security experts](https://www.theverge.com/2022/12/28/23529547/lastpass-vault-breach-disclosure-encryption-cybersecurity-rebuttal)
- - [Amazon’s started to deliver orders by drones in California and Texas](https://www.theverge.com/2022/12/28/23529705/amazon-drone-delivery-prime-air-california-texas)<!-- TECH:END -->
+ - [Deals: Apple&#39;s Mac Studio is on sale for $1,845, plus $30 off AppleCare](https://appleinsider.com/articles/22/12/28/deals-apples-mac-studio-is-on-sale-for-1845-plus-30-off-applecare?utm_medium=rss)
+ - [Marvel Bringing Stan Lee Documentary to Disney Plus in 2023     - CNET](https://www.cnet.com/culture/entertainment/marvel-bringing-stan-lee-documentary-to-disney-plus-in-2023/#ftag=CAD590a51e)
+ - [Q&amp;A with Christopher Phillips, the VP and GM of Google Geo, which oversees Maps and Waze, on the future of navigation, more visual and immersive maps, and more &lpar;Danny Lewis/Wall Street Journal&rpar;](http://www.techmeme.com/221228/p23#a221228p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
