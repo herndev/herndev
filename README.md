@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)
- - [The fate of Disco Elysium 2 is uncertain, but these games make up for it](https://www.pcgamer.com/disco-elysiums-influence-on-games-grows-despite-its-sequels-uncertain-fate)
- - [Please enjoy this free, weird, and somewhat disconcerting adventure](https://www.pcgamer.com/please-enjoy-this-free-weird-and-somewhat-disconcerting-adventure)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Latest STALKER 2 trailer takes you into the Noosphere](https://www.pcgamer.com/latest-stalker-2-trailer-takes-you-into-the-noosphere)
+ - [Avatar: The Way of Water’s world box office continued to soar through Christmas](https://www.polygon.com/23512953/avatar-way-water-2-box-office-total)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
