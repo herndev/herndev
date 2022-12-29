@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
- - ⏩ [Find the cat](http://9gag.com/gag/aQE1R3z)
- - 👉 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
+ - 💣 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
+ - ⏩ [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
+ - 👉 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)<!-- MEMES:END -->
 
 ---
 
