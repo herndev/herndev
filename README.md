@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - ⏩ [Those are some quite big babies](http://9gag.com/gag/avQo71q)
- - 👉 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)<!-- MEMES:END -->
+ - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
+ - ⏩ [This is the only acceptable Metaverse](http://9gag.com/gag/aoK5gO3)
+ - 👉 [Bring back Vine!](http://9gag.com/gag/aRE0rjq)<!-- MEMES:END -->
 
 ---
 
