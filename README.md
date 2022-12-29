@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In this, the blandest year for PC gaming tech only Valve took a risk](https://www.pcgamer.com/2022-blandest-pc-hardware-year-on-record)
- - [Microsoft&#39;s &#39;normcore&#39; clothing line had me feeling highly inappropriate](https://www.pcgamer.com/microsoft-hardwear-normcore-clothing-line-hands-on)
- - [So, so many Vampire Survivors clones came out this year](https://www.pcgamer.com/so-so-many-vampire-survivors-clones-came-out-this-year)<!-- GAME:END -->
+ - [Should I read the Chainsaw Man manga after the anime?](https://www.polygon.com/23529776/chainsaw-man-manga-finished-anime-season-2)
+ - [11 Things Every New Xbox Series X/S Owner Should Try Or Consider](https://kotaku.com/11-things-every-new-xbox-series-x-s-owner-should-try-or-1848266038)
+ - [The best action scenes in 2022 movies](https://www.polygon.com/23516879/best-action-fight-scenes-2022-movies)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
