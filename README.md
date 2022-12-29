@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
- - ⏩ [Worth a try](http://9gag.com/gag/anz5bLo)
- - 👉 [The Bloodthirsty Creatures of The Callisto Protocol Will Terrify You](http://9gag.com/gag/a1PQ8LR)<!-- MEMES:END -->
+ - 💣 [Philosoraptor confused](http://9gag.com/gag/a7qwr2w)
+ - ⏩ [Covering Blue - EIffel 65 on a Harp](http://9gag.com/gag/anz5QEE)
+ - 👉 [How to reset Mosin-Nagant 91/30 Pu sniper scope ?](http://9gag.com/gag/awZoMLx)<!-- MEMES:END -->
 
 ---
 
