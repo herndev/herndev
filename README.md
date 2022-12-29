@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [The SEC says FTX made two $100M investments using customer funds in fintech company Dave in March 2022 and blockchain startup Mysten Labs in September 2022 &lpar;CNBC&rpar;](http://www.techmeme.com/221229/p1#a221229p1)
  - [Twitter Outage: Thousands of Users Report Problems With Website     - CNET](https://www.cnet.com/news/social-media/twitter-outage-thousands-of-users-report-problems-with-website/#ftag=CAD590a51e)
- - [A US appeals court revives a lawsuit accusing Google and others of violating children&#39;s privacy state laws by tracking their YouTube activity for ad targeting &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221228/p25#a221228p25)
- - [Twitter’s recovering from a few hours of glitchiness](https://www.theverge.com/2022/12/28/23530256/twitter-outage-down-connection-loading-error-notifications)<!-- TECH:END -->
+ - [A US appeals court revives a lawsuit accusing Google and others of violating children&#39;s privacy state laws by tracking their YouTube activity for ad targeting &lpar;Jonathan Stempel/Reuters&rpar;](http://www.techmeme.com/221228/p25#a221228p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
