@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The neighbor who came to the house to say that he was cheated on by his wife](http://9gag.com/gag/avQoObb)
+ - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
  - ⏩ [Find the cat](http://9gag.com/gag/aQE1R3z)
- - 👉 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
+ - 👉 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
 
 ---
 
