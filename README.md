@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Best cooking apps for iOS in 2023](https://appleinsider.com/inside/ios-16/best/best-ios-apps-for-cooking-basics-in-2023?utm_medium=rss)
- - [Questions Swirl About Potential Twitter Hack Affecting 400m Accounts     - CNET](https://www.cnet.com/news/social-media/questions-swirl-about-potential-twitter-hack-affecting-400m-accounts/#ftag=CAD590a51e)
- - [An obituary for Dark Sky, which changed how people consume weather forecasts but is disparaged by scientists, as Apple plans to kill the iOS app on January 1 &lpar;Russell Jacobs/Slate&rpar;](http://www.techmeme.com/221229/p23#a221229p23)<!-- TECH:END -->
+ - [Sources detail Elon Musk&#39;s Twitter cost-cutting measures, including closing a data center, reducing training for new staff, and canceling janitorial services &lpar;New York Times&rpar;](http://www.techmeme.com/221229/p24#a221229p24)
+ - [WhatsApp Communities: Everything you need to know](https://www.androidauthority.com/whatsapp-communities-explained-3261009/)
+ - [Miles Bron&#39;s &#39;Glass Onion&#39; Estate Listed on Zillow for $450 Million     - CNET](https://www.cnet.com/culture/entertainment/miles-brons-glass-onion-estate-listed-on-zillow-for-450-million/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
