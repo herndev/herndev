@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [17 Fantastic Games That Went Under The Radar In 2022](https://kotaku.com/2022-goty-underrated-hidden-gems-best-games-1849936105)
- - [Watching AI evolve this year has been a rollercoaster](https://www.pcgamer.com/watching-ai-evolve-this-year-has-been-a-rollercoaster)
- - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)<!-- GAME:END -->
+ - [In White Noise, Noah Baumbach takes Netflix’s money and runs](https://www.polygon.com/reviews/23522513/white-noise-review-netflix)
+ - [69 things that made us say &#39;holy shit&#39; in 2022](https://www.pcgamer.com/69-things-that-made-us-say-holy-shit-in-2022)
+ - [PC Gamer Hardware Awards: The best gaming mice of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-mice-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
