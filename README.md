@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the FBI is investigating the leak of ~100K API keys linked to users of crypto trading service 3Commas, as a victims group claims to have lost over $20M &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221229/p25#a221229p25)
- - [Thursday Night Football: How to Watch, Stream Cowboys vs. Titans Tonight on Prime Video or Twitch     - CNET](https://www.cnet.com/tech/services-and-software/thursday-night-football-how-to-watch-stream-cowboys-vs-titans-tonight-on-prime-video-or-twitch/#ftag=CAD590a51e)
- - [Sources detail Elon Musk&#39;s Twitter cost-cutting measures, including closing a data center, reducing training for new staff, and canceling janitorial services &lpar;New York Times&rpar;](http://www.techmeme.com/221229/p24#a221229p24)<!-- TECH:END -->
+ - [Google Voice will now warn you about potential spam calls](https://www.theverge.com/2022/12/29/23531770/google-voice-spam-call-warning-enhanced-protection)
+ - [4 Easy Tips to Improve Your Target Shopping Experience in the New Year     - CNET](https://www.cnet.com/deals/4-easy-tips-to-improve-your-target-shopping-experience-in-the-new-year/#ftag=CAD590a51e)
+ - [Sources: the FBI is investigating the leak of ~100K API keys linked to users of crypto trading service 3Commas, as a victims group claims to have lost over $20M &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221229/p25#a221229p25)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
