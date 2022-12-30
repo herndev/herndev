@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The top wearables we hope to see in 2023](https://www.androidauthority.com/top-wearables-we-hope-to-see-2023-3248828/)
- - [The Password Isn’t Dead Yet. You Need a Hardware Key](https://www.wired.com/story/hardware-security-key-passwords-passkeys/)
- - [How to Live on the Precipice of Tomorrow](https://www.wired.com/story/history-predictions-change-precipice-future/)<!-- TECH:END -->
+ - [Mac Studio, Studio Display, and 2022 in review on the AppleInsider Podcast](https://appleinsider.com/articles/22/12/30/mac-studio-studio-display-and-2022-in-review-on-the-appleinsider-podcast?utm_medium=rss)
+ - [Year of the Rabbit AirPods Pro on sale in China, Taiwan, Hong Kong, Macau](https://appleinsider.com/articles/22/12/30/year-of-the-rabbit-airpods-pro-on-sale-in-china-taiwan-hong-kong-macau?utm_medium=rss)
+ - [China-based Freetech Intelligent Systems, which creates software and hardware for autonomous vehicles, raised a ~$100M Series B led by Chaos Investment &lpar;Shadine Taufik/Tech in Asia&rpar;](http://www.techmeme.com/221230/p5#a221230p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
