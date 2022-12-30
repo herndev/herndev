@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New iPads, mostly new Apple TV, and old problems -- October 2022 in review](https://appleinsider.com/articles/22/12/30/new-ipads-mostly-new-apple-tv-and-old-problems----october-2022-in-review?utm_medium=rss)
- - [Accounting software maker Sage threatens to turn off UK customers&#39; long-term licenses, citing security issues to push them to buy costly monthly subscriptions &lpar;Ian Johnston/Financial Times&rpar;](http://www.techmeme.com/221230/p8#a221230p8)
- - [Apple&#39;s Mac mini with 16GB RAM, 512GB SSD is back in stock for $999](https://appleinsider.com/articles/22/12/30/apples-mac-mini-with-16gb-ram-512gb-ssd-is-back-in-stock-for-999?utm_medium=rss)<!-- TECH:END -->
+ - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)
+ - [Keep your eyes peeled for this comet in 2023](https://www.theverge.com/2022/12/30/23532397/new-comet-visible-naked-eye-january-february-2023)
+ - [Prime Video: The 34 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/amazon-prime-video-the-34-absolute-best-tv-shows-december-2022/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
