@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
- - ⏩ [Find the cat](http://9gag.com/gag/aQE1R3z)
- - 👉 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
+ - 💣 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
+ - ⏩ [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
+ - 👉 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)<!-- MEMES:END -->
 
 ---
 
