@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bahamas&#39; Securities Commission says it is holding FTX assets worth $3.5B on a temporary basis and plans to deliver them to customers and creditors who own them &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p3#a221230p3)
- - [LastPass password vaults crackable for $100, alleges 1Password](https://appleinsider.com/articles/22/12/29/lastpass-password-vaults-crackable-for-100-alleges-1password?utm_medium=rss)
- - [Canada&#39;s competition tribunal approves Rogers&#39; $14.77B bid to acquire Shaw, saying the deal is &quot;not likely to prevent or lessen competition substantially&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p2#a221230p2)<!-- TECH:END -->
+ - [Poll: What improvements do you want to see from smartphone cameras in 2023?](https://www.androidauthority.com/smartphone-cameras-2023-poll-3261217/)
+ - [The Lensa AI app — everything you need to know](https://www.androidauthority.com/lensa-ai-app-3260866/)
+ - [Bahamas&#39; Securities Commission says it is holding FTX assets worth $3.5B on a temporary basis and plans to deliver them to customers and creditors who own them &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p3#a221230p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
