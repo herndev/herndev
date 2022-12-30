@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Moto Watch 100 revealed: A cheaper smartwatch, at a cost](https://www.androidauthority.com/moto-watch-100-moto-buds-600-anc-3261181/)
  - [This smart ring promises to tell women the ‘why behind what they’re feeling’](https://www.androidauthority.com/movano-evie-ring-3261180/)
- - [Amazon, Apple, and Microsoft plan to connect data centers to heating systems in Europe; Meta began in 2020 in Denmark, and Google is assessing its opportunities &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221230/p1#a221230p1)
- - [Andrew Tate detained in Romania by police investigating human trafficking](https://www.theverge.com/2022/12/29/23531846/andrew-tate-human-trafficking-investigation-romania-greta-thunberg)<!-- TECH:END -->
+ - [Amazon, Apple, and Microsoft plan to connect data centers to heating systems in Europe; Meta began in 2020 in Denmark, and Google is assessing its opportunities &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221230/p1#a221230p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
