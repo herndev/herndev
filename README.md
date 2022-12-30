@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In White Noise, Noah Baumbach takes Netflix’s money and runs](https://www.polygon.com/reviews/23522513/white-noise-review-netflix)
- - [69 things that made us say &#39;holy shit&#39; in 2022](https://www.pcgamer.com/69-things-that-made-us-say-holy-shit-in-2022)
- - [PC Gamer Hardware Awards: The best gaming mice of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-mice-of-2022)<!-- GAME:END -->
+ - [PC Gamer Hardware Awards: The best gaming keyboards of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2022)
+ - [Video Game Gear: 10 Things We Got In 2022 That We Now Can&#39;t Live Without](https://kotaku.com/best-game-hardware-keyboard-controller-steam-deck-ipad-1849936086)
+ - [In White Noise, Noah Baumbach takes Netflix’s money and runs](https://www.polygon.com/reviews/23522513/white-noise-review-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
