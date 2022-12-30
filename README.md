@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I just found out what Wi-Fi means and it&#39;s sending me](https://www.pcgamer.com/i-just-found-out-what-wi-fi-means-and-its-sending-me)
- - [I thought Elden Ring was going to be hot garbage, then it took over my life](https://www.pcgamer.com/i-thought-elden-ring-was-going-to-be-hot-garbage-then-it-took-over-my-life)
- - [2022 was a warning shot for the big-budget games industry](https://www.pcgamer.com/2022-was-a-warning-shot-for-the-big-budget-games-industry)<!-- GAME:END -->
+ - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)
+ - [The biggest gaming controversies of 2022](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2022)
+ - [The year in crypto—collapses, failures, and straight-up fraudsters](https://www.pcgamer.com/2022-cryptos-worst-year-since-last-year)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
