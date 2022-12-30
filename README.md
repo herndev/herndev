@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
- - ⏩ [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)
- - 👉 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
+ - 💣 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
+ - ⏩ [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
+ - 👉 [You know who you are, and for you that is good enough.](http://9gag.com/gag/aoK530X)<!-- MEMES:END -->
 
 ---
 
