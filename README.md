@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s Mac mini with 16GB RAM, 512GB SSD is back in stock for $999](https://appleinsider.com/articles/22/12/30/apples-mac-mini-with-16gb-ram-512gb-ssd-is-back-in-stock-for-999?utm_medium=rss)
- - [Google Voice Can Now Flag Suspected Spam Calls     - CNET](https://www.cnet.com/tech/services-and-software/google-voice-can-now-flag-suspected-spam-calls/#ftag=CAD590a51e)
- - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
+ - [New iPads, mostly new Apple TV, and old problems -- October 2022 in review](https://appleinsider.com/articles/22/12/30/new-ipads-mostly-new-apple-tv-and-old-problems----october-2022-in-review?utm_medium=rss)
+ - [Accounting software maker Sage threatens to turn off UK customers&#39; long-term licenses, citing security issues to push them to buy costly monthly subscriptions &lpar;Ian Johnston/Financial Times&rpar;](http://www.techmeme.com/221230/p8#a221230p8)
+ - [Apple&#39;s Mac mini with 16GB RAM, 512GB SSD is back in stock for $999](https://appleinsider.com/articles/22/12/30/apples-mac-mini-with-16gb-ram-512gb-ssd-is-back-in-stock-for-999?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
