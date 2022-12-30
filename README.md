@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
- - ⏩ [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - 👉 [Meirl](http://9gag.com/gag/awZo3gr)<!-- MEMES:END -->
+ - 💣 [Lady driving the frozen canal in Indianapolis thinking its a road. Results in the comments.](http://9gag.com/gag/a6qNKrm)
+ - ⏩ [A little kitty trick](http://9gag.com/gag/aNw09OK)
+ - 👉 [Surprises keep coming up](http://9gag.com/gag/aWGE7nq)<!-- MEMES:END -->
 
 ---
 
