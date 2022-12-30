@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - ⏩ [V8 Supercars mechanic elbow drops a car bonnet to repair it](http://9gag.com/gag/aVb0gDd)
- - 👉 [We developed that idea after having some beers and as some kind of joke. People reading that nonsense and we living of it kinda well. We won\u2019t become millionaires or so, but earn the same money as a proper 9-to-5 job with 10 minutes of work a day.](http://9gag.com/gag/armoWA7)<!-- MEMES:END -->
+ - 💣 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
+ - ⏩ [He&#39;s a little sandcat](http://9gag.com/gag/aqegR8M)
+ - 👉 [On December 29, an unidentified object was detected in the sky at the Engels-1 airbase in the Saratov region of the Russian Federation. Air defense decided to shoot down. It turned out to be a Russian Su-27 fighter jet. The pilot is dead.](http://9gag.com/gag/aoK5Wn3)<!-- MEMES:END -->
 
 ---
 
