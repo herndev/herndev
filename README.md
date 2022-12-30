@@ -36,8 +36,8 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 Was a Ridiculously Good Year for TV. These Are the Best Shows     - CNET](https://www.cnet.com/culture/entertainment/2022-was-a-ridiculously-good-year-for-tv-these-are-the-best-shows/#ftag=CAD590a51e)
- - [Taylor Swift Just Had Her Most Epically Creative Year Yet     - CNET](https://www.cnet.com/culture/entertainment/taylor-swift-just-had-her-most-epically-creative-year-yet/#ftag=CAD590a51e)
+ - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)
+ - [Source: FTX founder Sam Bankman-Fried is likely to plead not guilty to eight counts of fraud at a hearing next week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221230/p10#a221230p10)
  - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
