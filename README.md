@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
- - ⏩ [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - 👉 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
+ - 💣 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
+ - ⏩ [Pay me to show me pee pee](http://9gag.com/gag/aeQ51DB)
+ - 👉 [No haram](http://9gag.com/gag/a1PRN7Y)<!-- MEMES:END -->
 
 ---
 
