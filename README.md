@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: What improvements do you want to see from smartphone cameras in 2023?](https://www.androidauthority.com/smartphone-cameras-2023-poll-3261217/)
- - [The Lensa AI app — everything you need to know](https://www.androidauthority.com/lensa-ai-app-3260866/)
- - [Bahamas&#39; Securities Commission says it is holding FTX assets worth $3.5B on a temporary basis and plans to deliver them to customers and creditors who own them &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p3#a221230p3)<!-- TECH:END -->
+ - [The top wearables we hope to see in 2023](https://www.androidauthority.com/top-wearables-we-hope-to-see-2023-3248828/)
+ - [The Password Isn’t Dead Yet. You Need a Hardware Key](https://www.wired.com/story/hardware-security-key-passwords-passkeys/)
+ - [How to Live on the Precipice of Tomorrow](https://www.wired.com/story/history-predictions-change-precipice-future/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
