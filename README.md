@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Mac Studio, Studio Display, and 2022 in review on the AppleInsider Podcast](https://appleinsider.com/articles/22/12/30/mac-studio-studio-display-and-2022-in-review-on-the-appleinsider-podcast?utm_medium=rss)
- - [Year of the Rabbit AirPods Pro on sale in China, Taiwan, Hong Kong, Macau](https://appleinsider.com/articles/22/12/30/year-of-the-rabbit-airpods-pro-on-sale-in-china-taiwan-hong-kong-macau?utm_medium=rss)
- - [China-based Freetech Intelligent Systems, which creates software and hardware for autonomous vehicles, raised a ~$100M Series B led by Chaos Investment &lpar;Shadine Taufik/Tech in Asia&rpar;](http://www.techmeme.com/221230/p5#a221230p5)<!-- TECH:END -->
+ - [Otterbox Terrus Apple Watch Band review: Casual and reliable](https://appleinsider.com/articles/22/12/30/otterbox-terrus-apple-watch-band-review-casual-and-reliable?utm_medium=rss)
+ - [iPad Pro now has excellent options for professional video editors](https://appleinsider.com/articles/22/12/30/ipad-pro-now-has-excellent-options-for-professional-video-editors?utm_medium=rss)
+ - [Daily Deals Dec. 30: 23% off eufy Home Security Camera System, Samsung Galaxy Watch 4 $199 &amp; more](https://appleinsider.com/articles/22/12/30/daily-deals-dec-30-23-off-eufy-home-security-camera-system-samsung-galaxy-watch-4-199-more?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
