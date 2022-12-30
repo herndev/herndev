@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Guy who identifies as rich](http://9gag.com/gag/adP5Bjj)
- - ⏩ [McDonalds](http://9gag.com/gag/aqegRNP)
- - 👉 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
+ - 💣 [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - ⏩ [V8 Supercars mechanic elbow drops a car bonnet to repair it](http://9gag.com/gag/aVb0gDd)
+ - 👉 [We developed that idea after having some beers and as some kind of joke. People reading that nonsense and we living of it kinda well. We won\u2019t become millionaires or so, but earn the same money as a proper 9-to-5 job with 10 minutes of work a day.](http://9gag.com/gag/armoWA7)<!-- MEMES:END -->
 
 ---
 
