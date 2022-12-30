@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The button on Canon’s image-stabilized binoculars unlocked superhuman sight](https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month)
- - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)
- - [iPhone 15 Pro Could See Longer Battery Life From New Chip Line     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-could-see-longer-battery-life-from-new-chip-line/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple&#39;s Mac mini with 16GB RAM, 512GB SSD is back in stock for $999](https://appleinsider.com/articles/22/12/30/apples-mac-mini-with-16gb-ram-512gb-ssd-is-back-in-stock-for-999?utm_medium=rss)
+ - [Google Voice Can Now Flag Suspected Spam Calls     - CNET](https://www.cnet.com/tech/services-and-software/google-voice-can-now-flag-suspected-spam-calls/#ftag=CAD590a51e)
+ - [Former patent attorney sues Apple over harassment &amp; discrimination](https://appleinsider.com/articles/22/12/27/former-patent-attorney-sues-apple-over-harassment-discrimination?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
