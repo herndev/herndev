@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the FBI is investigating the leak of ~100K API keys linked to users of crypto trading service 3Commas, as a victims group claims to have lost over $20M &lpar;Sam Kessler/CoinDesk&rpar;](http://www.techmeme.com/221229/p25#a221229p25)
  - [Sources detail Elon Musk&#39;s Twitter cost-cutting measures, including closing a data center, reducing training for new staff, and canceling janitorial services &lpar;New York Times&rpar;](http://www.techmeme.com/221229/p24#a221229p24)
- - [WhatsApp Communities: Everything you need to know](https://www.androidauthority.com/whatsapp-communities-explained-3261009/)
- - [Miles Bron&#39;s &#39;Glass Onion&#39; Estate Listed on Zillow for $450 Million     - CNET](https://www.cnet.com/culture/entertainment/miles-brons-glass-onion-estate-listed-on-zillow-for-450-million/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [WhatsApp Communities: Everything you need to know](https://www.androidauthority.com/whatsapp-communities-explained-3261009/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
