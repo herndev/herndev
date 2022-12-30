@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Give me some of your favourite downvote gifs.](http://9gag.com/gag/aRE0Zj7)
+ - 💣 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
  - ⏩ [Yep.](http://9gag.com/gag/a8q5An6)
- - 👉 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)<!-- MEMES:END -->
+ - 👉 [Dumb ass.](http://9gag.com/gag/a4oRnzA)<!-- MEMES:END -->
 
 ---
 
