@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Andrew Tate detained in Romania by police investigating human trafficking](https://www.theverge.com/2022/12/29/23531846/andrew-tate-human-trafficking-investigation-romania-greta-thunberg)
  - [Report: Twitter is closing its Seattle office, the company&#39;s second-largest engineering hub outside of San Francisco, asking employees to work from home instead &lpar;Taylor Soper/GeekWire&rpar;](http://www.techmeme.com/221229/p26#a221229p26)
- - [Google Voice will now warn you about potential spam calls](https://www.theverge.com/2022/12/29/23531770/google-voice-spam-call-warning-enhanced-protection)
- - [4 Easy Tips to Improve Your Target Shopping Experience in the New Year     - CNET](https://www.cnet.com/deals/4-easy-tips-to-improve-your-target-shopping-experience-in-the-new-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Google Voice will now warn you about potential spam calls](https://www.theverge.com/2022/12/29/23531770/google-voice-spam-call-warning-enhanced-protection)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
