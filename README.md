@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Twitter will soon let you swipe between tweets, topics, and trends](https://www.theverge.com/2022/12/30/23532743/twitter-swipe-views-timeline-elon-musk)
- - [Google changes its appeals process for accounts flagged as containing CSAM; the content deemed exploitative will still be removed from Google and reported &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)
- - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)<!-- TECH:END -->
+ - [Google Settles Washington DC, Indiana Lawsuits Totaling $29.5 Million     - CNET](https://www.cnet.com/news/privacy/google-settles-washington-dc-indiana-lawsuits-totaling-29-5-million/#ftag=CAD590a51e)
+ - [Google changes its appeals process for CSAM-flagged accounts; content deemed exploitative will still be removed and reported but users can plead their innocence &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
