@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Otterbox Terrus Apple Watch Band review: Casual and reliable](https://appleinsider.com/articles/22/12/30/otterbox-terrus-apple-watch-band-review-casual-and-reliable?utm_medium=rss)
- - [iPad Pro now has excellent options for professional video editors](https://appleinsider.com/articles/22/12/30/ipad-pro-now-has-excellent-options-for-professional-video-editors?utm_medium=rss)
- - [Daily Deals Dec. 30: 23% off eufy Home Security Camera System, Samsung Galaxy Watch 4 $199 &amp; more](https://appleinsider.com/articles/22/12/30/daily-deals-dec-30-23-off-eufy-home-security-camera-system-samsung-galaxy-watch-4-199-more?utm_medium=rss)<!-- TECH:END -->
+ - [The button on Canon’s image-stabilized binoculars unlocked superhuman sight](https://www.theverge.com/23523047/canon-image-stabilized-binoculars-button-of-the-month)
+ - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)
+ - [iPhone 15 Pro Could See Longer Battery Life From New Chip Line     - CNET](https://www.cnet.com/tech/mobile/iphone-15-pro-could-see-longer-battery-life-from-new-chip-line/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
