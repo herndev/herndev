@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Canada&#39;s competition tribunal approves Rogers&#39; $14.77B bid to acquire Shaw, saying the deal is &quot;not likely to prevent or lessen competition substantially&quot; &lpar;Reuters&rpar;](http://www.techmeme.com/221230/p2#a221230p2)
  - [Moto Watch 100 revealed: A cheaper smartwatch, at a cost](https://www.androidauthority.com/moto-watch-100-moto-buds-600-anc-3261181/)
- - [This smart ring promises to tell women the ‘why behind what they’re feeling’](https://www.androidauthority.com/movano-evie-ring-3261180/)
- - [Amazon, Apple, and Microsoft plan to connect data centers to heating systems in Europe; Meta began in 2020 in Denmark, and Google is assessing its opportunities &lpar;Sam Schechner/Wall Street Journal&rpar;](http://www.techmeme.com/221230/p1#a221230p1)<!-- TECH:END -->
+ - [This smart ring promises to tell women the ‘why behind what they’re feeling’](https://www.androidauthority.com/movano-evie-ring-3261180/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
