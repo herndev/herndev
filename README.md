@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
- - ⏩ [Yep.](http://9gag.com/gag/a8q5An6)
- - 👉 [Dumb ass.](http://9gag.com/gag/a4oRnzA)<!-- MEMES:END -->
+ - 💣 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)
+ - ⏩ [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - 👉 [Great idea !](http://9gag.com/gag/aqeg87Z)<!-- MEMES:END -->
 
 ---
 
