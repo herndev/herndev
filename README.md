@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - ⏩ [He&#39;s a little sandcat](http://9gag.com/gag/aqegR8M)
- - 👉 [On December 29, an unidentified object was detected in the sky at the Engels-1 airbase in the Saratov region of the Russian Federation. Air defense decided to shoot down. It turned out to be a Russian Su-27 fighter jet. The pilot is dead.](http://9gag.com/gag/aoK5Wn3)<!-- MEMES:END -->
+ - 💣 [McDonalds](http://9gag.com/gag/aqegRNP)
+ - ⏩ [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
+ - 👉 [Life comes before work](http://9gag.com/gag/anz57Wb)<!-- MEMES:END -->
 
 ---
 
