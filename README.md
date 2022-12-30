@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Please](http://9gag.com/gag/aA0g6AE)
- - ⏩ [I mean what else is there to do?](http://9gag.com/gag/adP5Oyj)
- - 👉 [Darwin Approves](http://9gag.com/gag/aNw096G)<!-- MEMES:END -->
+ - 💣 [The cliff](http://9gag.com/gag/ap95gn9)
+ - ⏩ [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
+ - 👉 [Yep.](http://9gag.com/gag/a8q5An6)<!-- MEMES:END -->
 
 ---
 
