@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [True](http://9gag.com/gag/amA51KX)
- - ⏩ [Wanting sharia law while fleeing from sharia law](http://9gag.com/gag/aYV7O7q)
- - 👉 [Family Reunion](http://9gag.com/gag/aeQ5Og5)<!-- MEMES:END -->
+ - 💣 [Let&#39;s see what&#39;s going on in Sweden. Or maybe not....](http://9gag.com/gag/aoK5VM3)
+ - ⏩ [Nice glasses](http://9gag.com/gag/aQE1Xg7)
+ - 👉 [Deer seen walking around on its bones](http://9gag.com/gag/aMEY4yR)<!-- MEMES:END -->
 
 ---
 
