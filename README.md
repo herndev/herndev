@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
- - ⏩ [Meirl](http://9gag.com/gag/awZo3gr)
- - 👉 [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)<!-- MEMES:END -->
+ - 💣 [True](http://9gag.com/gag/amA51KX)
+ - ⏩ [Wanting sharia law while fleeing from sharia law](http://9gag.com/gag/aYV7O7q)
+ - 👉 [Family Reunion](http://9gag.com/gag/aeQ5Og5)<!-- MEMES:END -->
 
 ---
 
