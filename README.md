@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
- - ⏩ [I am NOT alone in this!](http://9gag.com/gag/aRE0Lmy)
- - 👉 [You know who you are, and for you that is good enough.](http://9gag.com/gag/aoK530X)<!-- MEMES:END -->
+ - 💣 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - ⏩ [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 👉 [Scarry ass game](http://9gag.com/gag/ajV5gGg)<!-- MEMES:END -->
 
 ---
 
