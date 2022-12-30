@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Get £50 off this Samsung WQHD 144Hz curved gaming monitor](https://www.pcgamer.com/get-pound50-off-this-samsung-wqhd-144hz-curved-gaming-monitor)
  - [Here&#39;s a quirky little game with excellent sailing ships to explore and battle in](https://www.pcgamer.com/heres-a-quirky-little-game-with-excellent-sailing-ships-to-explore-and-battle-in)
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Latest STALKER 2 trailer takes you into the Noosphere](https://www.pcgamer.com/latest-stalker-2-trailer-takes-you-into-the-noosphere)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
