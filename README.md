@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Watching AI evolve this year has been a rollercoaster](https://www.pcgamer.com/watching-ai-evolve-this-year-has-been-a-rollercoaster)
  - [Kenneth Shepard&#39;s Top Five Games Of 2022](https://kotaku.com/best-games-2022-pokemon-legends-arceus-overwatch-ofk-1849935691)
- - [The biggest gaming controversies of 2022](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2022)
- - [The year in crypto—collapses, failures, and straight-up fraudsters](https://www.pcgamer.com/2022-cryptos-worst-year-since-last-year)<!-- GAME:END -->
+ - [The biggest gaming controversies of 2022](https://www.pcgamer.com/the-biggest-gaming-controversies-of-2022)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
