@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Group of young men harassed and almost attacked family with a little girl at the mall](http://9gag.com/gag/aA0gGxE)
- - ⏩ [Pay me to show me pee pee](http://9gag.com/gag/aeQ51DB)
- - 👉 [No haram](http://9gag.com/gag/a1PRN7Y)<!-- MEMES:END -->
+ - 💣 [This is Biznesss](http://9gag.com/gag/a1PRWO2)
+ - ⏩ [Lady driving the frozen canal in Indianapolis thinking its a road. Results in the comments.](http://9gag.com/gag/a6qNKrm)
+ - 👉 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)<!-- MEMES:END -->
 
 ---
 
