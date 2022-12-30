@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [McDonalds](http://9gag.com/gag/aqegRNP)
- - ⏩ [Even the gays are waking up](http://9gag.com/gag/amA5gYX)
- - 👉 [Life comes before work](http://9gag.com/gag/anz57Wb)<!-- MEMES:END -->
+ - 💣 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
+ - ⏩ [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
+ - 👉 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)<!-- MEMES:END -->
 
 ---
 
