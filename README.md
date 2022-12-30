@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lady driving the frozen canal in Indianapolis thinking its a road. Results in the comments.](http://9gag.com/gag/a6qNKrm)
- - ⏩ [A little kitty trick](http://9gag.com/gag/aNw09OK)
- - 👉 [Surprises keep coming up](http://9gag.com/gag/aWGE7nq)<!-- MEMES:END -->
+ - 💣 [Please](http://9gag.com/gag/aA0g6AE)
+ - ⏩ [I mean what else is there to do?](http://9gag.com/gag/adP5Oyj)
+ - 👉 [Darwin Approves](http://9gag.com/gag/aNw096G)<!-- MEMES:END -->
 
 ---
 
