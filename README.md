@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)
- - [Source: FTX founder Sam Bankman-Fried is likely to plead not guilty to eight counts of fraud at a hearing next week &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/221230/p10#a221230p10)
- - [Tim Cook talked App Store laws &amp; user privacy with Japan&#39;s PM](https://appleinsider.com/articles/22/12/30/tim-cook-talked-app-store-laws-user-privacy-with-japans-pm?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter will soon let you swipe between tweets, topics, and trends](https://www.theverge.com/2022/12/30/23532743/twitter-swipe-views-timeline-elon-musk)
+ - [Google changes its appeals process for accounts flagged as containing CSAM; the content deemed exploitative will still be removed from Google and reported &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)
+ - [Moto Watch 100 offers iPhone music control in 2023 update](https://appleinsider.com/articles/22/12/30/moto-watch-100-offers-iphone-music-control-in-2023-update?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
