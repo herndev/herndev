@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Neymar doing Neymar things again.](http://9gag.com/gag/aQE1oj7)
- - ⏩ [Aeroflot Flight 593 - It crashed in 1994 when the pilot allowed his children to control the aircraft. This is the crash animation and audio log](http://9gag.com/gag/a1PRrev)
- - 👉 [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)<!-- MEMES:END -->
+ - 💣 [If you ever feel like overspending, just remember this Vietnamese rapper hired 6 bodyguard for protection while the people around could not give a single f*ck about the guy.](http://9gag.com/gag/aqegnvZ)
+ - ⏩ [All I know is that he got arrested for human trafficking](http://9gag.com/gag/axo7W51)
+ - 👉 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)<!-- MEMES:END -->
 
 ---
 
