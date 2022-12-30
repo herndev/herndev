@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Robbing from the rich in Mount &amp; Blade 2: Bannerlord](https://www.pcgamer.com/robbing-from-the-rich-in-mount-and-blade-2-bannerlord)
- - [Today&#39;s Wordle 559 answer and hint for Friday, December 30](https://www.pcgamer.com/wordle-559-answer-december-30)
- - [Get £50 off this Samsung WQHD 144Hz curved gaming monitor](https://www.pcgamer.com/get-pound50-off-this-samsung-wqhd-144hz-curved-gaming-monitor)<!-- GAME:END -->
+ - [2022 was a warning shot for the big-budget games industry](https://www.pcgamer.com/2022-was-a-warning-shot-for-the-big-budget-games-industry)
+ - [Call of Duty campaigns are in desperate need of new mechanics that stick](https://www.pcgamer.com/call-of-duty-campaigns-are-in-desperate-need-of-new-mechanics-that-stick)
+ - [Game of the Year 2022: Elden Ring](https://www.pcgamer.com/game-of-the-year-2022-elden-ring)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
