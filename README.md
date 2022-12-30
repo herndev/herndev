@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There&#39;s still hope](http://9gag.com/gag/aPgRRyV)
- - ⏩ [It is finally done. Neymar gets a red card for diving and is escorted from the pitch. Says `referee is incompetent`.](http://9gag.com/gag/aoK5MGm)
- - 👉 [The cliff](http://9gag.com/gag/ap95gn9)<!-- MEMES:END -->
+ - 💣 [Guy who identifies as rich](http://9gag.com/gag/adP5Bjj)
+ - ⏩ [McDonalds](http://9gag.com/gag/aqegRNP)
+ - 👉 [This is the sportsmanship that the world wants!](http://9gag.com/gag/aQE1g8w)<!-- MEMES:END -->
 
 ---
 
