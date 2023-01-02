@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
  - ⏩ [Hi, this is flight AFL2132 and welcome to Jackass!](http://9gag.com/gag/anz5WVV)
- - 👉 [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)<!-- MEMES:END -->
+ - 👉 [Old is gold](http://9gag.com/gag/aBdgjQD)<!-- MEMES:END -->
 
 ---
 
