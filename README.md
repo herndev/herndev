@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Matrix, an open-source, decentralized protocol for messaging interoperability that saw its network&#39;s users double in 2022 to at least 80.3M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230101/p9#a230101p9)
  - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)
- - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)
- - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
