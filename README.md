@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 👉 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)<!-- MEMES:END -->
+ - 💣 [Great Success](http://9gag.com/gag/aA0gZ7o)
+ - ⏩ [Welp](http://9gag.com/gag/aVb0L3y)
+ - 👉 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
 
 ---
 
