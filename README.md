@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The arrival of Overwatch 2 meant the slow destruction of my favourite mode](https://www.pcgamer.com/the-arrival-of-overwatch-2-meant-the-slow-destruction-of-my-favourite-mode)
  - [Good job, internet: You bullied NFTs out of mainstream games](https://www.pcgamer.com/good-job-internet-you-bullied-nfts-out-of-mainstream-games)
- - [Today&#39;s Wordle 562 answer and hint for Monday, January 2](https://www.pcgamer.com/wordle-562-answer-january-2)
- - [Great moments in PC gaming: Killing a guy with another guy](https://www.pcgamer.com/great-moments-in-pc-gaming-killing-a-guy-with-another-guy)<!-- GAME:END -->
+ - [Today&#39;s Wordle 562 answer and hint for Monday, January 2](https://www.pcgamer.com/wordle-562-answer-january-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
