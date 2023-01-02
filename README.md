@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is the Titan M2 security chip in Google’s Pixel phones?](https://www.androidauthority.com/titan-m2-google-3261547/)
- - [Luke Dashjr, one of the original core BTC developers, says someone stole &quot;basically&quot; all his BTC by compromising his PGP key; a wallet shows ~217 BTC were moved &lpar;Stephen Katte/Cointelegraph&rpar;](http://www.techmeme.com/230102/p3#a230102p3)
- - [A look at the longest tech boom so far, including crypto&#39;s rise and fall, VR falling short of its hype, the marketplace economy&#39;s growth, pizza robots, and more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230102/p2#a230102p2)<!-- TECH:END -->
+ - [Apple will hike iPhone battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
+ - [German grocery delivery app Flink, one of the last independent services, had &amp;euro;400M in 2022 sales and expects to be profitable in 2023; Flink has raised $700M+ &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p4#a230102p4)
+ - [Poll: Are you the designated photographer at social gatherings?](https://www.androidauthority.com/designated-photographer-social-gatherings-poll-3260550/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
