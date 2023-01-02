@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [World of Horror will finally release in Summer 2023](https://www.pcgamer.com/world-of-horror-will-finally-release-in-summer-2023)
  - [What was the best year for PC gaming?](https://www.pcgamer.com/what-was-the-best-year-for-pc-gaming)
- - [23 indie games to look forward to in 2023](https://www.polygon.com/gaming/23507157/2023-upcoming-indie-video-games-pc-nintendo-switch-ps4-ps5-xbox)
- - [Netflix’s Sonic Prime would be one of the great Sonic games if you could actually play it](https://www.polygon.com/23529306/netflix-sonic-prime-review-season-1-games)<!-- GAME:END -->
+ - [23 indie games to look forward to in 2023](https://www.polygon.com/gaming/23507157/2023-upcoming-indie-video-games-pc-nintendo-switch-ps4-ps5-xbox)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
