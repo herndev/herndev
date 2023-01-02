@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
- - ⏩ [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)
- - 👉 [Based](http://9gag.com/gag/axo7n11)<!-- MEMES:END -->
+ - 💣 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)
+ - ⏩ [Hi, this is flight AFL2132 and welcome to Jackass!](http://9gag.com/gag/anz5WVV)
+ - 👉 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
 
 ---
 
