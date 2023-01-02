@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Brooooooo](http://9gag.com/gag/aBdgozD)
- - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
+ - 💣 [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)
+ - ⏩ [That\u2019s right](http://9gag.com/gag/amA5pRV)
+ - 👉 [Shake the balls](http://9gag.com/gag/aXnjemv)<!-- MEMES:END -->
 
 ---
 
