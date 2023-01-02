@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Sportsmanship at its finest](http://9gag.com/gag/aMEYOG1)
- - ⏩ [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
- - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
+ - 💣 [Girlfriend of 4 years cheated.. So I kicked her out and got a puppy. much happier](http://9gag.com/gag/az21Bjp)
+ - ⏩ [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)
+ - 👉 [That\u2019s right](http://9gag.com/gag/amA5pRV)<!-- MEMES:END -->
 
 ---
 
