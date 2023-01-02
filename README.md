@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - ⏩ [Hi, this is flight AFL2132 and welcome to Jackass!](http://9gag.com/gag/anz5WVV)
- - 👉 [Old is gold](http://9gag.com/gag/aBdgjQD)<!-- MEMES:END -->
+ - 💣 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
+ - ⏩ [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
 
 ---
 
