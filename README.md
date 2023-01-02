@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cancer is no more](http://9gag.com/gag/amA5n5v)
- - ⏩ [Guess the country](http://9gag.com/gag/aqegpGQ)
- - 👉 [Waste of money](http://9gag.com/gag/a1PRqjP)<!-- MEMES:END -->
+ - 💣 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - ⏩ [Hi, this is flight AFL2132 and welcome to Jackass!](http://9gag.com/gag/anz5WVV)
+ - 👉 [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)<!-- MEMES:END -->
 
 ---
 
