@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The 2023 movie preview](https://www.polygon.com/23529280/biggest-new-movies-2023-coming-out-most-anticipated-preview)
  - [What we want to see in a Steam Deck 2: more power, less noise, and bright colors](https://www.pcgamer.com/steam-deck-2)
- - [The arrival of Overwatch 2 meant the slow destruction of my favourite mode](https://www.pcgamer.com/the-arrival-of-overwatch-2-meant-the-slow-destruction-of-my-favourite-mode)
- - [Good job, internet: You bullied NFTs out of mainstream games](https://www.pcgamer.com/good-job-internet-you-bullied-nfts-out-of-mainstream-games)<!-- GAME:END -->
+ - [The arrival of Overwatch 2 meant the slow destruction of my favourite mode](https://www.pcgamer.com/the-arrival-of-overwatch-2-meant-the-slow-destruction-of-my-favourite-mode)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
