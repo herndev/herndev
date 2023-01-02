@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter will soon let you swipe between tweets, topics, and trends](https://www.theverge.com/2022/12/30/23532743/twitter-swipe-views-timeline-elon-musk)
- - [Google Settles Washington DC, Indiana Lawsuits Totaling $29.5 Million     - CNET](https://www.cnet.com/news/privacy/google-settles-washington-dc-indiana-lawsuits-totaling-29-5-million/#ftag=CAD590a51e)
- - [Google changes its appeals process for CSAM-flagged accounts; content deemed exploitative will still be removed and reported but users can plead their innocence &lpar;Kashmir Hill/New York Times&rpar;](http://www.techmeme.com/221230/p11#a221230p11)<!-- TECH:END -->
+ - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)
+ - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)
+ - [A look at the use of AI to design and test games, such as to tune difficulty, find world geometry flaws, and sniff out situations that make it impossible to win &lpar;Matthew Smith/Wired&rpar;](http://www.techmeme.com/230101/p8#a230101p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
