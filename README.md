@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You get two guesses as to what puzzle game Sushi for Robots is about](https://www.pcgamer.com/you-get-two-guesses-as-to-what-puzzle-game-sushi-for-robots-is-about)
- - [This Week on Xbox: Great Xbox Moments From 2022](https://news.xbox.com/en-us/2022/12/30/this-week-on-xbox-great-xbox-moments-from-2022/)
- - [PC Gamer Hardware Awards: The best gaming keyboards of 2022](https://www.pcgamer.com/pc-gamer-hardware-awards-the-best-gaming-keyboards-of-2022)<!-- GAME:END -->
+ - [Canceled Duke Nukem 3D remake is the latest Duke project to leak](https://www.pcgamer.com/canceled-duke-nukem-3d-remake-is-the-latest-duke-project-to-leak)
+ - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/entertainment/2023/1/1/23528576/disney-plus-new-movies-tv-watch-january-2023)
+ - [Kaleidoscope’s random-episode gimmick can’t save a Netflix heist show gone wrong](https://www.polygon.com/23531210/kaleidoscope-netflix-review-heist-show-random-episodes-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
