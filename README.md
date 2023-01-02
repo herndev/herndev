@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - ⏩ [Based](http://9gag.com/gag/axo7n11)
- - 👉 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
+ - 💣 [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
+ - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 👉 [She wasn&#39;t the only one](http://9gag.com/gag/aRE02mM)<!-- MEMES:END -->
 
 ---
 
