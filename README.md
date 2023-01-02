@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)
- - ⏩ [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
+ - 💣 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
+ - ⏩ [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - 👉 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
 
 ---
 
