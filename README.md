@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [You Can Save Big Bucks by Going Meatless Once a Week     - CNET](https://www.cnet.com/news/you-can-save-big-bucks-by-going-meatless-once-a-week/#ftag=CAD590a51e)
- - [Zomato co-founder and CTO Gunjan Patidar leaves, following departures of two senior execs and another co-founder last month; Zomato&#39;s stock dropped 57%+ in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230102/p12#a230102p12)
- - [Samsung reveals the massive 57-inch Odyssey Neo G9 gaming monitor for CES 2023](https://www.androidauthority.com/samsung-odyssey-neo-g9-3261577/)<!-- TECH:END -->
+ - [Arlo Sends End-of-Life Notice for Gen 3, Pro Camera Owners     - CNET](https://www.cnet.com/news/arlo-sends-end-of-life-notice-for-gen-3-pro-camera-owners/#ftag=CAD590a51e)
+ - [Try Out These Fitbit Tricks to Reach Your Fitness Goals This New Year     - CNET](https://www.cnet.com/tech/mobile/try-out-these-fitbit-tricks-to-reach-your-fitness-goals-this-new-year/#ftag=CAD590a51e)
+ - [Yes, You Can Become a Morning Person With These 9 Science-Backed Tips     - CNET](https://www.cnet.com/health/sleep/yes-you-can-become-a-morning-person-with-these-9-science-backed-tips/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
