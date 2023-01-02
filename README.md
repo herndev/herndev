@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)
+ - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)
  - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)
- - [A look at the use of AI to design and test games, such as to tune difficulty, find world geometry flaws, and sniff out situations that make it impossible to win &lpar;Matthew Smith/Wired&rpar;](http://www.techmeme.com/230101/p8#a230101p8)<!-- TECH:END -->
+ - [The best cameras for watching your pet remotely under $50](https://appleinsider.com/articles/23/01/01/the-best-cameras-for-watching-your-pet-remotely-under-50?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
