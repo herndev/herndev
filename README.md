@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will hike iPhone battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
- - [German grocery delivery app Flink, one of the last independent services, had &amp;euro;400M in 2022 sales and expects to be profitable in 2023; Flink has raised $700M+ &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p4#a230102p4)
- - [Poll: Are you the designated photographer at social gatherings?](https://www.androidauthority.com/designated-photographer-social-gatherings-poll-3260550/)<!-- TECH:END -->
+ - [How to open a Mac DMG file in Windows](https://appleinsider.com/inside/macos/tips/how-to-open-a-mac-dmg-file-in-windows?utm_medium=rss)
+ - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
+ - [A look at a growing wave of US doctors and telehealth startups prescribing ketamine online, aided by looser federal rules on prescribing controlled substances &lpar;Daniel Gilbert/Washington Post&rpar;](http://www.techmeme.com/230102/p5#a230102p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
