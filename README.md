@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It applies to other jobs as well](http://9gag.com/gag/ap95dMM)
- - ⏩ [That\u2019s right](http://9gag.com/gag/amA5pRV)
- - 👉 [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)<!-- MEMES:END -->
+ - 💣 [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - ⏩ [Based](http://9gag.com/gag/axo7n11)
+ - 👉 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
 
 ---
 
