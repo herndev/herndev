@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - ⏩ [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
- - 👉 [The only good Karen.](http://9gag.com/gag/ay2ozAY)<!-- MEMES:END -->
+ - 💣 [An apple a day, keeps the evil spirits away &lpar;Cr: DoctorLoops&rpar;](http://9gag.com/gag/a6qN869)
+ - ⏩ [China](http://9gag.com/gag/aDYgr0O)
+ - 👉 [Strong Men](http://9gag.com/gag/avQo4RE)<!-- MEMES:END -->
 
 ---
 
