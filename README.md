@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
- - ⏩ [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
- - 👉 [Based](http://9gag.com/gag/aXnjedD)<!-- MEMES:END -->
+ - 💣 [Sportsmanship at its finest](http://9gag.com/gag/aMEYOG1)
+ - ⏩ [Fraaaaasss](http://9gag.com/gag/aRE0Ov2)
+ - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
 
 ---
 
