@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
- - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
+ - 💣 [Cancer is no more](http://9gag.com/gag/amA5n5v)
+ - ⏩ [Guess the country](http://9gag.com/gag/aqegpGQ)
+ - 👉 [Waste of money](http://9gag.com/gag/a1PRqjP)<!-- MEMES:END -->
 
 ---
 
