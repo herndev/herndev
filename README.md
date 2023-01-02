@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - ⏩ [If I&#39;m rich...](http://9gag.com/gag/aQE1N97)
- - 👉 [Climate change denier gets demolished.](http://9gag.com/gag/amA5b7d)<!-- MEMES:END -->
+ - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
 
 ---
 
