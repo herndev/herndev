@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - ⏩ [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)
- - 👉 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)<!-- MEMES:END -->
+ - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
+ - ⏩ [Cyclist on his way to annoy pilots](http://9gag.com/gag/a3ZRp9m)
+ - 👉 [Based](http://9gag.com/gag/axo7n11)<!-- MEMES:END -->
 
 ---
 
