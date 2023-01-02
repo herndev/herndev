@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [An apple a day, keeps the evil spirits away &lpar;Cr: DoctorLoops&rpar;](http://9gag.com/gag/a6qN869)
- - ⏩ [China](http://9gag.com/gag/aDYgr0O)
- - 👉 [Strong Men](http://9gag.com/gag/avQo4RE)<!-- MEMES:END -->
+ - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 👉 [A group of scientists and engineers from Mexico decided to intentionally crash a Boeing 727. They wanted to study which seats had the best chance for survival](http://9gag.com/gag/a2KRxAO)<!-- MEMES:END -->
 
 ---
 
