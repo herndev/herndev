@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Members of the largest Mexican drug cartel posted a video from Red Square](http://9gag.com/gag/ago5oEn)
- - ⏩ [Scarry ass game](http://9gag.com/gag/ajV5gGg)
- - 👉 [Anyone cares to explain?](http://9gag.com/gag/a04RVXZ)<!-- MEMES:END -->
+ - 💣 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
+ - ⏩ [Great Success](http://9gag.com/gag/aA0gZ7o)
+ - 👉 [Girlfriend of 4 years cheated.. So I kicked her out and got a puppy. much happier](http://9gag.com/gag/az21Bjp)<!-- MEMES:END -->
 
 ---
 
