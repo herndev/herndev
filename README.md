@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Sonic Prime would be one of the great Sonic games if you could actually play it](https://www.polygon.com/23529306/netflix-sonic-prime-review-season-1-games)
- - [CES 2023 preview: All the PC gaming hardware you can expect from the show](https://www.pcgamer.com/ces-2023-preview)
- - [All the new video games launching in 2023](https://www.polygon.com/23493762/new-video-games-2023-release-dates-calendar-upcoming)<!-- GAME:END -->
+ - [What was the best year for PC gaming?](https://www.pcgamer.com/what-was-the-best-year-for-pc-gaming)
+ - [23 indie games to look forward to in 2023](https://www.polygon.com/gaming/23507157/2023-upcoming-indie-video-games-pc-nintendo-switch-ps4-ps5-xbox)
+ - [Netflix’s Sonic Prime would be one of the great Sonic games if you could actually play it](https://www.polygon.com/23529306/netflix-sonic-prime-review-season-1-games)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
