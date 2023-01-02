@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Payday 3 has a Steam page](https://www.pcgamer.com/payday-3-has-a-steam-page)
  - [Canceled Duke Nukem 3D remake is the latest Duke project to leak](https://www.pcgamer.com/canceled-duke-nukem-3d-remake-is-the-latest-duke-project-to-leak)
- - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/entertainment/2023/1/1/23528576/disney-plus-new-movies-tv-watch-january-2023)
- - [Kaleidoscope’s random-episode gimmick can’t save a Netflix heist show gone wrong](https://www.polygon.com/23531210/kaleidoscope-netflix-review-heist-show-random-episodes-cast)<!-- GAME:END -->
+ - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/entertainment/2023/1/1/23528576/disney-plus-new-movies-tv-watch-january-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
