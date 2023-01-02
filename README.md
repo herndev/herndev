@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [What 2023 may bring for crypto regulation in the US and around the world, as bankruptcies stretch into the new year, attracting lawmakers and criminal probes &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230102/p1#a230102p1)
  - [A profile of Matrix, an open-source, decentralized protocol for messaging interoperability that saw its network&#39;s users double in 2022 to at least 80.3M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230101/p9#a230101p9)
- - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)
- - [iPhone 14 Pro long term review: Still worth the upgrade](https://appleinsider.com/articles/23/01/01/iphone-14-pro-long-term-review-still-worth-the-upgrade?utm_medium=rss)<!-- TECH:END -->
+ - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
