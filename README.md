@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)
- - [AirTags catch United Airlines in lie about missing luggage](https://appleinsider.com/articles/23/01/02/airtags-catch-united-airlines-in-lie-about-missing-luggage?utm_medium=rss)
- - [In an open letter, Cameron Winklevoss says Digital Currency Group CEO Barry Silbert has engaged in &quot;bad faith stall tactics&quot; since halting Genesis withdrawals &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230102/p7#a230102p7)<!-- TECH:END -->
+ - [A look back at a tough year for startups, from plummeting investment to scarce public listings, as 2023 shapes up to be even more difficult &lpar;Heather Somerville/Wall Street Journal&rpar;](http://www.techmeme.com/230102/p9#a230102p9)
+ - [An overview of Chinese tech companies&#39; rush to match generative AI tools like DALL-E 2 despite tighter regulations, censorship, US chip sanctions, and more &lpar;Rita Liao/TechCrunch&rpar;](http://www.techmeme.com/230102/p8#a230102p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
