@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A look at the longest tech boom so far, including crypto&#39;s rise and fall, VR falling short of its hype, the marketplace economy&#39;s growth, pizza robots, and more &lpar;Christopher Mims/Wall Street Journal&rpar;](http://www.techmeme.com/230102/p2#a230102p2)
  - [What 2023 may bring for crypto regulation in the US and around the world, as bankruptcies stretch into the new year, attracting lawmakers and criminal probes &lpar;Nikhilesh De/CoinDesk&rpar;](http://www.techmeme.com/230102/p1#a230102p1)
- - [A profile of Matrix, an open-source, decentralized protocol for messaging interoperability that saw its network&#39;s users double in 2022 to at least 80.3M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230101/p9#a230101p9)
- - [Google phones: A history of the Nexus and Pixel lineup so far](https://www.androidauthority.com/google-phones-nexus-pixel-history-3260339/)<!-- TECH:END -->
+ - [A profile of Matrix, an open-source, decentralized protocol for messaging interoperability that saw its network&#39;s users double in 2022 to at least 80.3M &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230101/p9#a230101p9)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
