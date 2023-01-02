@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Great Success](http://9gag.com/gag/aA0gZ7o)
- - ⏩ [Welp](http://9gag.com/gag/aVb0L3y)
- - 👉 [Only mathematics can explain this](http://9gag.com/gag/a3ZR82m)<!-- MEMES:END -->
+ - 💣 [Brooooooo](http://9gag.com/gag/aBdgozD)
+ - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 👉 [\u2026.. guess he couldn\u2019t stand it no more](http://9gag.com/gag/ajV5Wdq)<!-- MEMES:END -->
 
 ---
 
