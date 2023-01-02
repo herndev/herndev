@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I lost my father into Alzheimer&#39;s - absolutely the worst feeling ever when he didn&#39;t recognize us. I should have tried this - just for a brief moment with him before we totally lost him](http://9gag.com/gag/aKEdLDb)
- - ⏩ [That\u2019s right](http://9gag.com/gag/amA5pRV)
- - 👉 [Shake the balls](http://9gag.com/gag/aXnjemv)<!-- MEMES:END -->
+ - 💣 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - ⏩ [Everybody dance now](http://9gag.com/gag/az21BKK)
+ - 👉 [When Kyoto university allowed students to wear anything in their graduation](http://9gag.com/gag/aOx0jRM)<!-- MEMES:END -->
 
 ---
 
