@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - ⏩ [Everybody dance now](http://9gag.com/gag/az21BKK)
- - 👉 [When Kyoto university allowed students to wear anything in their graduation](http://9gag.com/gag/aOx0jRM)<!-- MEMES:END -->
+ - 💣 [At least Squidward had backup](http://9gag.com/gag/a2KRxK9)
+ - ⏩ [It&#39;s the law](http://9gag.com/gag/ay2oRwq)
+ - 👉 [Based](http://9gag.com/gag/aXnjedD)<!-- MEMES:END -->
 
 ---
 
