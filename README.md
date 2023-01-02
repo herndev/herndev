@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [All I want for 2023 are new smart home interfaces](https://www.theverge.com/2023/1/2/23533816/mui-board-second-gen-smatter-smart-home-control-interface)
- - [Amazon&#39;s $299 iPad deal is still available for January 2023](https://appleinsider.com/articles/23/01/02/amazons-299-ipad-deal-is-still-available-for-january-2023?utm_medium=rss)
- - [Tesla falls short of its goal of growing 50 percent in 2022](https://www.theverge.com/2023/1/2/23535573/tesla-vehicle-delivery-q4-2022-50-percent-growth)<!-- TECH:END -->
+ - [Stolen AirPods give up thief&#39;s location with Find My](https://appleinsider.com/articles/23/01/02/stolen-airpods-give-up-thiefs-location-with-find-my?utm_medium=rss)
+ - [Developers cautiously welcome prospect of third-party app stores](https://appleinsider.com/articles/23/01/02/developers-cautiously-welcome-prospect-of-third-party-app-stores?utm_medium=rss)
+ - [The Polar H10 chest strap is the unsung hero of our wearables team](https://www.androidauthority.com/polar-h10-review-3260710/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
