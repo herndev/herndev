@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stolen AirPods give up thief&#39;s location with Find My](https://appleinsider.com/articles/23/01/02/stolen-airpods-give-up-thiefs-location-with-find-my?utm_medium=rss)
- - [Developers cautiously welcome prospect of third-party app stores](https://appleinsider.com/articles/23/01/02/developers-cautiously-welcome-prospect-of-third-party-app-stores?utm_medium=rss)
- - [The Polar H10 chest strap is the unsung hero of our wearables team](https://www.androidauthority.com/polar-h10-review-3260710/)<!-- TECH:END -->
+ - [Samsung reveals the massive 57-inch Odyssey Neo G9 gaming monitor for CES 2023](https://www.androidauthority.com/samsung-odyssey-neo-g9-3261577/)
+ - [A look at China&#39;s rising Beijing-endorsed industry of &quot;virtual people&quot;, including scandal-free influencers, performers, and customer service representatives &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/230102/p11#a230102p11)
+ - [The 31 Absolute Best TV Shows to Watch on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-31-absolute-best-tv-shows-to-watch-on-hbo-max-in-january/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
