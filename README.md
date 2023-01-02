@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to open a Mac DMG file in Windows](https://appleinsider.com/inside/macos/tips/how-to-open-a-mac-dmg-file-in-windows?utm_medium=rss)
  - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
- - [A look at a growing wave of US doctors and telehealth startups prescribing ketamine online, aided by looser federal rules on prescribing controlled substances &lpar;Daniel Gilbert/Washington Post&rpar;](http://www.techmeme.com/230102/p5#a230102p5)<!-- TECH:END -->
+ - [&#39;Fortnite&#39; will return to iPhone in 2023, says Epic CEO](https://appleinsider.com/articles/23/01/02/fortnite-will-return-to-ios-in-2023-says-epic-ceo?utm_medium=rss)
+ - [PyTorch identifies a malicious dependency that uses its &quot;torchtriton&quot; library name, warning users to uninstall the framework; the hacker claims ethical research &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230102/p6#a230102p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
