@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will hike nearly every battery replacement cost in March](https://appleinsider.com/articles/23/01/02/apple-will-hike-iphone-battery-replacement-cost-in-march?utm_medium=rss)
- - [&#39;Fortnite&#39; will return to iPhone in 2023, says Epic CEO](https://appleinsider.com/articles/23/01/02/fortnite-will-return-to-ios-in-2023-says-epic-ceo?utm_medium=rss)
- - [PyTorch identifies a malicious dependency that uses its &quot;torchtriton&quot; library name, warning users to uninstall the framework; the hacker claims ethical research &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230102/p6#a230102p6)<!-- TECH:END -->
+ - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)
+ - [AirTags catch United Airlines in lie about missing luggage](https://appleinsider.com/articles/23/01/02/airtags-catch-united-airlines-in-lie-about-missing-luggage?utm_medium=rss)
+ - [In an open letter, Cameron Winklevoss says Digital Currency Group CEO Barry Silbert has engaged in &quot;bad faith stall tactics&quot; since halting Genesis withdrawals &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230102/p7#a230102p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
