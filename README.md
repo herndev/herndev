@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Great moments in PC gaming: Killing a guy with another guy](https://www.pcgamer.com/great-moments-in-pc-gaming-killing-a-guy-with-another-guy)
  - [Nvidia&#39;s new RTX 3050s come with an even lower TDP](https://www.pcgamer.com/nvidias-new-rtx-3050s-come-with-an-even-lower-tdp)
- - [Criminally oversized Skyrim mod expands the Thieves Guild, lets you romance a thief](https://www.pcgamer.com/criminally-oversized-skyrim-mod-expands-the-thieves-guild-lets-you-romance-a-thief)
- - [Software engineer busted after being inspired by Office Space scam](https://www.pcgamer.com/software-engineer-busted-after-being-inspired-by-office-space-scam)<!-- GAME:END -->
+ - [Criminally oversized Skyrim mod expands the Thieves Guild, lets you romance a thief](https://www.pcgamer.com/criminally-oversized-skyrim-mod-expands-the-thieves-guild-lets-you-romance-a-thief)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
