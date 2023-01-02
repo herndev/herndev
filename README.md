@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Evolution of Mickey Rourke](http://9gag.com/gag/a3ZRbBQ)
- - ⏩ [Great Success](http://9gag.com/gag/aA0gZ7o)
- - 👉 [Girlfriend of 4 years cheated.. So I kicked her out and got a puppy. much happier](http://9gag.com/gag/az21Bjp)<!-- MEMES:END -->
+ - 💣 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
+ - ⏩ [Work smarter, not harder](http://9gag.com/gag/ago5j2x)
+ - 👉 [How the turn tabled](http://9gag.com/gag/aZD7Rb6)<!-- MEMES:END -->
 
 ---
 
