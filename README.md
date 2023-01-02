@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Zomato co-founder and CTO Gunjan Patidar leaves, following departures of two senior execs and another co-founder last month; Zomato&#39;s stock dropped 57%+ in 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230102/p12#a230102p12)
  - [Samsung reveals the massive 57-inch Odyssey Neo G9 gaming monitor for CES 2023](https://www.androidauthority.com/samsung-odyssey-neo-g9-3261577/)
- - [A look at China&#39;s rising Beijing-endorsed industry of &quot;virtual people&quot;, including scandal-free influencers, performers, and customer service representatives &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/230102/p11#a230102p11)
- - [The 31 Absolute Best TV Shows to Watch on HBO Max     - CNET](https://www.cnet.com/culture/entertainment/the-31-absolute-best-tv-shows-to-watch-on-hbo-max-in-january/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [A look at China&#39;s rising Beijing-endorsed industry of &quot;virtual people&quot;, including scandal-free influencers, performers, and customer service representatives &lpar;Evelyn Cheng/CNBC&rpar;](http://www.techmeme.com/230102/p11#a230102p11)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
