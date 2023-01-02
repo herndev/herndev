@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How to format flash drives for Mac and PC](https://appleinsider.com/inside/macos-ventura/tips/how-to-format-flash-drives-for-mac-and-pc?utm_medium=rss)
- - [The best streaming shows we can’t wait to watch in 2023](https://www.androidauthority.com/streaming-shows-of-2023-3249869/)
- - [Daily Deals Jan. 2: M1 MacBook Air $899, 56% off Touchscreen Portable Monitor, 44% off new Echo Dot &amp; more](https://appleinsider.com/articles/23/01/02/daily-deals-jan-2-m1-macbook-air-899-56-off-touchscreen-portable-monitor-44-off-new-echo-dot-more?utm_medium=rss)<!-- TECH:END -->
+ - [All I want for 2023 are new smart home interfaces](https://www.theverge.com/2023/1/2/23533816/mui-board-second-gen-smatter-smart-home-control-interface)
+ - [Amazon&#39;s $299 iPad deal is still available for January 2023](https://appleinsider.com/articles/23/01/02/amazons-299-ipad-deal-is-still-available-for-january-2023?utm_medium=rss)
+ - [Tesla falls short of its goal of growing 50 percent in 2022](https://www.theverge.com/2023/1/2/23535573/tesla-vehicle-delivery-q4-2022-50-percent-growth)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
