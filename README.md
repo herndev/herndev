@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Software engineer busted after being inspired by Office Space scam](https://www.pcgamer.com/software-engineer-busted-after-being-inspired-by-office-space-scam)
  - [Payday 3 has a Steam page](https://www.pcgamer.com/payday-3-has-a-steam-page)
- - [Canceled Duke Nukem 3D remake is the latest Duke project to leak](https://www.pcgamer.com/canceled-duke-nukem-3d-remake-is-the-latest-duke-project-to-leak)
- - [Every new movie and show coming to Disney Plus in January](https://www.polygon.com/entertainment/2023/1/1/23528576/disney-plus-new-movies-tv-watch-january-2023)<!-- GAME:END -->
+ - [Canceled Duke Nukem 3D remake is the latest Duke project to leak](https://www.pcgamer.com/canceled-duke-nukem-3d-remake-is-the-latest-duke-project-to-leak)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
