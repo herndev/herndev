@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
- - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 👉 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
+ - 💣 [Keep it real](http://9gag.com/gag/aXnjGXg)
+ - ⏩ [Based](http://9gag.com/gag/axo7n11)
+ - 👉 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
 
 ---
 
