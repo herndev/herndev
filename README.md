@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
- - ⏩ [Jail](http://9gag.com/gag/a4oRrWw)
- - 👉 [A seagull in human form](http://9gag.com/gag/ago5br6)<!-- MEMES:END -->
+ - 💣 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
+ - ⏩ [How the turn tabled](http://9gag.com/gag/aZD7Rb6)
+ - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
 
 ---
 
