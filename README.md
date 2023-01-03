@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)
- - ⏩ [A seagull in human form](http://9gag.com/gag/ago5br6)
- - 👉 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
+ - 💣 [A seagull in human form](http://9gag.com/gag/ago5br6)
+ - ⏩ [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
+ - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
 
 ---
 
