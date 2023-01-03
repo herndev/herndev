@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell 32-inch 6K display takes on Apple&#39;s Pro Display XDR](https://appleinsider.com/articles/23/01/03/dell-32-inch-6k-display-takes-on-apples-pro-display-xdr?utm_medium=rss)
- - [The LG Gram Ultraslim notebook is the company’s thinnest laptop ever](https://www.androidauthority.com/lg-gram-ultraslim-3261950/)
- - [Twitch is recovering from its the outage that took down everyone’s stream pages](https://www.theverge.com/2023/1/3/23537454/twitch-down-outage-stream-pages)<!-- TECH:END -->
+ - [Intel’s 13th-gen mobile processor delivers the first 24-core laptop CPU](https://www.androidauthority.com/intel-13th-gen-cpu-3261852/)
+ - [&#39;Glass Onion&#39;: Ending Explained, Celebrity Cameos, Burning Questions     - CNET](https://www.cnet.com/culture/entertainment/glass-onion-ending-explained-celebrity-cameos-burning-questions/#ftag=CAD590a51e)
+ - [Samsung Galaxy S23 Rumors: Price, Launch Date, Cameras and More     - CNET](https://www.cnet.com/tech/mobile/samsung-galaxy-s23-rumors-price-launch-date-cameras-and-more/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
