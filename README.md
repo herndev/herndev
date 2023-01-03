@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A seagull in human form](http://9gag.com/gag/ago5br6)
- - ⏩ [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
- - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
+ - 💣 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
+ - ⏩ [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 👉 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
 
 ---
 
