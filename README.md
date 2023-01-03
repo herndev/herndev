@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/02/this-weeks-deals-with-gold-and-spotlight-sale-256/)
  - [The post-apocalyptic beavers have robots now](https://www.pcgamer.com/the-post-apocalyptic-beavers-have-robots-now)
- - [World of Horror will finally release in Summer 2023](https://www.pcgamer.com/world-of-horror-will-finally-release-in-summer-2023)
- - [What was the best year for PC gaming?](https://www.pcgamer.com/what-was-the-best-year-for-pc-gaming)<!-- GAME:END -->
+ - [World of Horror will finally release in Summer 2023](https://www.pcgamer.com/world-of-horror-will-finally-release-in-summer-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
