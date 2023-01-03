@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This AI-generated video showing the evolution of visual expression.](http://9gag.com/gag/abvrLn8)
- - ⏩ [I can do this with 1ton](http://9gag.com/gag/a1PRB4P)
- - 👉 [Mother of noots](http://9gag.com/gag/ap95j55)<!-- MEMES:END -->
+ - 💣 [Persistence](http://9gag.com/gag/abvrLdL)
+ - ⏩ [Repost](http://9gag.com/gag/aXnjmQv)
+ - 👉 [Idiot British ruins the expensive car just to show off in front of a cyclist.](http://9gag.com/gag/ago59qr)<!-- MEMES:END -->
 
 ---
 
