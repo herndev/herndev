@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jail](http://9gag.com/gag/a4oRrWw)
- - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 👉 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)<!-- MEMES:END -->
+ - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
+ - ⏩ [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
+ - 👉 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)<!-- MEMES:END -->
 
 ---
 
