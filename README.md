@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung&#39;s G9 mega-monitor range just got more confusing thanks to new dual-4K and OLED models](https://www.pcgamer.com/samsungs-g9-mega-monitor-range-just-got-more-confusing-thanks-to-new-dual-4k-and-oled-models)
- - [Happy new year everyone: Square Enix still loves the blockchain!](https://www.pcgamer.com/happy-new-year-everyone-square-enix-still-loves-the-blockchain)
- - [The must-watch anime to look out for in 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)<!-- GAME:END -->
+ - [The 5 best sci-fi board games](https://www.polygon.com/tabletop-games/23529779/best-sci-fi-board-games)
+ - [Dark creators mourn Netflix killing their new show 1899](https://www.polygon.com/23536946/netflix-1899-canceled-season-2-3)
+ - [When will Black Panther: Wakanda Forever come to Disney Plus?](https://www.polygon.com/23460000/black-panther-wakanda-forever-streaming-disney-plus)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
