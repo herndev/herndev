@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Nvidia RTX 4070 Ti reportedly launches Thursday at $799](https://www.pcgamer.com/nvidia-rtx-4070-ti-reportedly-launches-thursday-at-dollar799)
  - [Today&#39;s Wordle 563 answer and hint for Tuesday, January 3](https://www.pcgamer.com/wordle-563-answer-january-3)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/02/this-weeks-deals-with-gold-and-spotlight-sale-256/)
- - [The post-apocalyptic beavers have robots now](https://www.pcgamer.com/the-post-apocalyptic-beavers-have-robots-now)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/02/this-weeks-deals-with-gold-and-spotlight-sale-256/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
