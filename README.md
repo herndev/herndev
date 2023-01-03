@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Witcher 3: Dos and Don’ts For Fighting Werewolves](https://kotaku.com/the-witcher-3-how-to-beat-werewolves-healing-cursed-oil-1849945080)
- - [Twitch not loading correctly? You&#39;re not alone](https://www.pcgamer.com/twitch-not-loading-correctly-youre-not-alone)
- - [Prime subscribers can grab one of our favourite survival horror games free to keep right now](https://www.pcgamer.com/prime-subscribers-can-grab-one-of-our-favourite-survival-horror-games-for-free-right-now)<!-- GAME:END -->
+ - [Where To Catch Up On Pokémon Before Ash And Pikachu&#39;s Farewell](https://kotaku.com/pokemon-anime-where-to-stream-netflix-prime-ash-pikachu-1849945348)
+ - [The Pokemon Devs Made A Cult Hit That You Now Have Another Chance To Play](https://kotaku.com/pokemon-game-freak-3ds-pocket-card-jockey-iphone-1849945356)
+ - [Destiny 2 dataminers admit leaked subscription plan was a hoax: &#39;We trolled everyone&#39;](https://www.pcgamer.com/destiny-2-dataminers-admit-leaked-subscription-plan-was-a-hoax-we-trolled-everyone)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
