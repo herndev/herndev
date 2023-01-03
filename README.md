@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The must-watch anime to look out for in 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
- - [Racer improved 1000% by mod that replaces supercars with man in dolly cart](https://www.pcgamer.com/racer-improved-1000-by-mod-that-replaces-supercars-with-man-in-dolly-cart)
- - [How to watch Nvidia&#39;s CES keynote today](https://www.pcgamer.com/how-to-watch-nvidias-ces-keynote-today)<!-- GAME:END -->
+ - [Samsung&#39;s G9 mega-monitor range just got more confusing thanks to new dual-4K and OLED models](https://www.pcgamer.com/samsungs-g9-mega-monitor-range-just-got-more-confusing-thanks-to-new-dual-4k-and-oled-models)
+ - [Happy new year everyone: Square Enix still loves the blockchain!](https://www.pcgamer.com/happy-new-year-everyone-square-enix-still-loves-the-blockchain)
+ - [The must-watch anime to look out for in 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
