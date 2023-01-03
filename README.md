@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - ⏩ [The N Pass](http://9gag.com/gag/a8q5OM6)
- - 👉 [And they lived ever after](http://9gag.com/gag/axo7wzn)<!-- MEMES:END -->
+ - 💣 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - ⏩ [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 👉 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
 
 ---
 
