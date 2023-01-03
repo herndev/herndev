@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tough](http://9gag.com/gag/aDYg9jx)
- - ⏩ [Offended by life](http://9gag.com/gag/aPgR2MK)
- - 👉 [I tried my best...now i&#39;m wearing same clothes every day](http://9gag.com/gag/aoK5wXw)<!-- MEMES:END -->
+ - 💣 [Those giga c**ts did it again, got me invested In something that I will never know how it finishes](http://9gag.com/gag/amA5yzj)
+ - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 👉 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)<!-- MEMES:END -->
 
 ---
 
