@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is there sexual harassment in Japan?](http://9gag.com/gag/armod80)
- - ⏩ [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - 👉 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
+ - 💣 [This AI-generated video showing the evolution of visual expression.](http://9gag.com/gag/abvrLn8)
+ - ⏩ [I can do this with 1ton](http://9gag.com/gag/a1PRB4P)
+ - 👉 [Mother of noots](http://9gag.com/gag/ap95j55)<!-- MEMES:END -->
 
 ---
 
