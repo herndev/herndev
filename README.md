@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Riyadh-based Manafa, which offers SMBs debt and equity financing based on a crowdfunding model, raised a ~$28.2M Series A led by STV and Aramco&#39;s Wa&#39;ed Ventures &lpar;Deena Kamel/The National&rpar;](http://www.techmeme.com/230103/p1#a230103p1)
  - [iPhone 15 Pro line could boast titanium frame, haptic buttons, and 8 gigs of RAM](https://appleinsider.com/articles/23/01/03/iphone-15-pro-line-could-boast-titanium-frame-haptic-buttons-and-8-gigs-of-ram?utm_medium=rss)
- - [India releases draft online gaming rules, seeking to create a self-regulatory body and to require parental consent for gamers under 18, for public consultation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230102/p14#a230102p14)
- - [Next gen Apple Watch Ultra to get micro LED display](https://appleinsider.com/articles/23/01/03/next-gen-apple-watch-ultra-to-get-micro-led-display?utm_medium=rss)<!-- TECH:END -->
+ - [India releases draft online gaming rules, seeking to create a self-regulatory body and to require parental consent for gamers under 18, for public consultation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230102/p14#a230102p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
