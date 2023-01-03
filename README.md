@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked video may give us our first hands-on look at the Pixel 7a](https://www.androidauthority.com/pixel-7a-leaked-video-3261871/)
- - [Apple&#39;s market cap sinks below $2T in intraday trading, as its stock continues to slide; a year ago, Apple was the first company to reach a $3T market cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/230103/p19#a230103p19)
- - [6 Best Gaming Laptops &lpar;2022&rpar;: From Cheap to High End](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
+ - [Nvidia upgrades its $19.99/month GeForce Now Ultimate plan to support 240 FPS streaming, ultrawide monitors, and more by using RTX 4080-class GPUs &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230103/p21#a230103p21)
+ - [GE&#39;s Cync line massively expands at CES 2023](https://appleinsider.com/articles/23/01/03/ges-cync-line-massively-expands-at-ces-2023?utm_medium=rss)
+ - [Nvidia RTX 40 Series laptop GPUs are ready for PC gamers this February](https://www.androidauthority.com/nvidia-geforce-rtx-40-3261890/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
