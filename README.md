@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Super Lesbian Animal RPG is a big hit with the target audience](https://www.pcgamer.com/super-lesbian-animal-rpg-is-a-big-hit-with-the-target-audience)
- - [All The Hitman Games Are Getting Fused Into One Mega Murder Sim](https://kotaku.com/hitman-3-world-assassination-dlc-delisted-steam-io-1849945934)
- - [Moddb&#39;s &#39;Mod of the Year&#39; is the best Half-Life 2 campaign since Half-Life 2](https://www.pcgamer.com/moddbs-mod-of-the-year-is-the-best-half-life-2-campaign-since-half-life-2)<!-- GAME:END -->
+ - [Overwatch 2’s new mode gives you godlike powers for the next two weeks](https://www.polygon.com/23537885/overwatch-2-battle-for-olympus-mode-dates)
+ - [Amazon&#39;s MMO Covers Up New Hero To Make Her Less Risqué](https://kotaku.com/amazon-lost-ark-the-artist-shorts-tights-lewd-cosmetic-1849946336)
+ - [High On Life Reacts To Speedrunners And Cheers Them On](https://kotaku.com/high-on-life-speedrunning-secret-easter-egg-game-pass-1849946291)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
