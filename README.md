@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You Should Watch This ‘90s Movie That’s Basically Just Cyberpunk 2077](https://kotaku.com/strange-days-streaming-cyberpunk-2077-braindance-1849945692)
- - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
- - [ZeniMax employees vote to form the biggest videogame union in the US](https://www.pcgamer.com/zenimax-employees-vote-to-form-the-biggest-videogame-union-in-the-us)<!-- GAME:END -->
+ - [Super Lesbian Animal RPG is a big hit with the target audience](https://www.pcgamer.com/super-lesbian-animal-rpg-is-a-big-hit-with-the-target-audience)
+ - [All The Hitman Games Are Getting Fused Into One Mega Murder Sim](https://kotaku.com/hitman-3-world-assassination-dlc-delisted-steam-io-1849945934)
+ - [Moddb&#39;s &#39;Mod of the Year&#39; is the best Half-Life 2 campaign since Half-Life 2](https://www.pcgamer.com/moddbs-mod-of-the-year-is-the-best-half-life-2-campaign-since-half-life-2)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
