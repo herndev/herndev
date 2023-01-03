@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 563 answer and hint for Tuesday, January 3](https://www.pcgamer.com/wordle-563-answer-january-3)
  - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/02/this-weeks-deals-with-gold-and-spotlight-sale-256/)
- - [The post-apocalyptic beavers have robots now](https://www.pcgamer.com/the-post-apocalyptic-beavers-have-robots-now)
- - [World of Horror will finally release in Summer 2023](https://www.pcgamer.com/world-of-horror-will-finally-release-in-summer-2023)<!-- GAME:END -->
+ - [The post-apocalyptic beavers have robots now](https://www.pcgamer.com/the-post-apocalyptic-beavers-have-robots-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
