@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Shopify President Harley Finkelstein says the company&#39;s Audiences marketing tool, which uploads customer data to Meta and Google&#39;s ad platforms, is a key focus &lpar;Tim Bradshaw/Financial Times&rpar;](http://www.techmeme.com/230102/p13#a230102p13)
- - [LG OLED TVs Promise Brighter Pictures at CES 2023     - CNET](https://www.cnet.com/tech/home-entertainment/lg-oled-tvs-promise-brighter-pictures-at-ces-2023/#ftag=CAD590a51e)
- - [LG’s 2023 OLED TVs are brighter &lpar;again&rpar; and make webOS smarter](https://www.theverge.com/2023/1/2/23535050/lg-2023-oled-evo-g3-c3-tvs-announced-features)<!-- TECH:END -->
+ - [Apple allegedly working on cheaper &#39;AirPods Lite&#39;](https://appleinsider.com/articles/23/01/03/apple-allegedly-working-on-cheaper-airpods-lite?utm_medium=rss)
+ - [The 15 Best PS5 Games To Play Right Now     - CNET](https://www.cnet.com/culture/the-15-best-ps5-games-to-play-right-now/#ftag=CAD590a51e)
+ - [Don&#39;t Throw Out Your Old TV Before You Read This     - CNET](https://www.cnet.com/tech/home-entertainment/dont-throw-out-your-old-tv-before-you-read-this/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
