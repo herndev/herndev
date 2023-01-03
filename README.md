@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aphrodite was born](http://9gag.com/gag/anz5WQq)
- - ⏩ [How the turn tabled](http://9gag.com/gag/aZD7Rb6)
- - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
+ - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
+ - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 👉 [Jail](http://9gag.com/gag/a4oRrWw)<!-- MEMES:END -->
 
 ---
 
