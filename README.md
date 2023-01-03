@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung made a laptop display that folds and slides at the same time](https://www.androidauthority.com/samsung-flex-hybrid-3261743/)
- - [Casper Mattress Review: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
- - [Sony’s $529 InZone M3 gaming monitor is now available](https://www.theverge.com/2023/1/3/23517241/sony-inzone-m3-gaming-monitor-features-specs-price)<!-- TECH:END -->
+ - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)
+ - [United Talent Agency CEO Jeremy Zimmer argues the creative talent behind shows on Netflix&#39;s ad-supported tier should earn more money if their shows are popular &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/230103/p3#a230103p3)
+ - [Samsung made a laptop display that folds and slides at the same time](https://www.androidauthority.com/samsung-flex-hybrid-3261743/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
