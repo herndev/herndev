@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Netflix&#39;s &#39;1899&#39; Canceled After One Season     - CNET](https://www.cnet.com/culture/entertainment/netflixs-1899-canceled-after-one-season/#ftag=CAD590a51e)
  - [Arlo Sends End-of-Life Notice for Gen 3, Pro Camera Owners     - CNET](https://www.cnet.com/news/arlo-sends-end-of-life-notice-for-gen-3-pro-camera-owners/#ftag=CAD590a51e)
- - [Try Out These Fitbit Tricks to Reach Your Fitness Goals This New Year     - CNET](https://www.cnet.com/tech/mobile/try-out-these-fitbit-tricks-to-reach-your-fitness-goals-this-new-year/#ftag=CAD590a51e)
- - [Yes, You Can Become a Morning Person With These 9 Science-Backed Tips     - CNET](https://www.cnet.com/health/sleep/yes-you-can-become-a-morning-person-with-these-9-science-backed-tips/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Try Out These Fitbit Tricks to Reach Your Fitness Goals This New Year     - CNET](https://www.cnet.com/tech/mobile/try-out-these-fitbit-tricks-to-reach-your-fitness-goals-this-new-year/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
