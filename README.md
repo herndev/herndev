@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A34 5G specs leak: Where are the upgrades?](https://www.androidauthority.com/samsung-galaxy-a34-5g-specs-3261779/)
- - [Southwest Airlines&#39; recent meltdown exposed an over-reliance on aging crew-assignment software SkySolver, forcing the company to return to manual scheduling &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p6#a230103p6)
- - [Buffalo Bills&#39; Damar Hamlin Suffered Cardiac Arrest During Monday Night Football     - CNET](https://www.cnet.com/culture/sports/buffalo-bills-damar-hamlin-suffered-cardiac-arrest-during-monday-night-football/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Dell unveils second-gen Concept Nyx, the gaming controller of the future](https://www.androidauthority.com/dell-concept-nyx-3259079/)
+ - [Memo: Shopify cancels all recurring meetings with over two people &quot;in perpetuity&quot; and encourages staff to decline invitations, leave big group chats, and more &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/230103/p8#a230103p8)
+ - [Replying to the FTC&#39;s lawsuit, Microsoft bizarrely claims not to know when Call of Duty was first released or have details on Activision&#39;s budget and resources &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230103/p7#a230103p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
