@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [How to watch Nvidia&#39;s CES keynote today](https://www.pcgamer.com/how-to-watch-nvidias-ces-keynote-today)
- - [Nvidia RTX 4070 Ti reportedly launches Thursday at $799](https://www.pcgamer.com/nvidia-rtx-4070-ti-reportedly-launches-thursday-at-dollar799)
- - [Today&#39;s Wordle 563 answer and hint for Tuesday, January 3](https://www.pcgamer.com/wordle-563-answer-january-3)<!-- GAME:END -->
+ - [The must-watch anime to look out for in 2023](https://www.polygon.com/2023/1/3/23466614/new-anime-2023-how-to-watch)
+ - [Racer improved 1000% by mod that replaces supercars with man in dolly cart](https://www.pcgamer.com/racer-improved-1000-by-mod-that-replaces-supercars-with-man-in-dolly-cart)
+ - [How to watch Nvidia&#39;s CES keynote today](https://www.pcgamer.com/how-to-watch-nvidias-ces-keynote-today)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
