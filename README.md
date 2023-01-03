@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hitman 3 gets a new name — and two free games with it](https://www.polygon.com/23537193/hitman-3-renamed-free-games-2-3-steam)
- - [Nvidia has finally announced the $799 RTX 4070 Ti launching Jan 5](https://www.pcgamer.com/nvidia-rtx-4070-ti-announcement)
- - [Nvidia bringing RTX 4080s to GeForce Now with DLSS 3 and 240Hz mode support](https://www.pcgamer.com/nvidia-geforce-now-rtx-4080-availability)<!-- GAME:END -->
+ - [New Lego Super Mario sets go deep, but not Lego Waluigi deep](https://www.polygon.com/23537096/lego-mario-2023-series-6)
+ - [Nvidia announces that Atomic Heart and Witchfire will support DLSS 3 at launch](https://www.pcgamer.com/nvidia-announces-that-atomic-heart-and-witchfire-will-support-dlss-3-at-launch)
+ - [Netflix Hit Glass Onion&#39;s Among Us Scene Is A Big Moment For Gaming](https://kotaku.com/knives-out-glass-onion-among-us-netflix-daniel-craig-1849944725)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
