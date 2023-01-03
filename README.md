@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Email: SpaceX is raising $750M in a round likely led by a16z at a $137B valuation; the company raised $2B+ in 2022 and was valued at $127M in May &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230103/p2#a230103p2)
- - [Fitbit Premium is 60% off right now for a limited time!](https://www.androidauthority.com/fitbit-premium-sale-3261737/)
- - [Samsung Galaxy A54 specs leak: What to expect from Samsung’s bread and butter](https://www.androidauthority.com/samsung-galaxy-a54-specs-3260522/)<!-- TECH:END -->
+ - [Samsung made a laptop display that folds and slides at the same time](https://www.androidauthority.com/samsung-flex-hybrid-3261743/)
+ - [Casper Mattress Review: A Feel That&#39;s Ideal for All Sleepers     - CNET](https://www.cnet.com/health/sleep/casper-original-mattress-review/#ftag=CAD590a51e)
+ - [Sony’s $529 InZone M3 gaming monitor is now available](https://www.theverge.com/2023/1/3/23517241/sony-inzone-m3-gaming-monitor-features-specs-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
