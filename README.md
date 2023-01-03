@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Xfinity Customers Will Get HBO Max Through &#39;Free This Week&#39; Program     - CNET](https://www.cnet.com/tech/services-and-software/xfinity-customers-will-get-hbo-max-through-free-this-week-program/#ftag=CAD590a51e)
- - [Best Gas Credit Cards for January 2023     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-gas-credit-cards/#ftag=CAD590a51e)
- - [Best Debit Cards for Kids and Teens in January 2023: GoHenry, BusyKid and More     - CNET](https://www.cnet.com/personal-finance/credit-cards/debit-cards-for-kids-and-teens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Leaked video may give us our first hands-on look at the Pixel 7a](https://www.androidauthority.com/pixel-7a-leaked-video-3261871/)
+ - [Apple&#39;s market cap sinks below $2T in intraday trading, as its stock continues to slide; a year ago, Apple was the first company to reach a $3T market cap &lpar;Bloomberg&rpar;](http://www.techmeme.com/230103/p19#a230103p19)
+ - [6 Best Gaming Laptops &lpar;2022&rpar;: From Cheap to High End](https://www.wired.com/gallery/best-gaming-laptops/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
