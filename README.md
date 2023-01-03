@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Galaxy A54 specs leak: What to expect from Samsung’s bread and butter](https://www.androidauthority.com/samsung-galaxy-a54-specs-3260522/)
- - [OnePlus 11 strikes a pose in live images, camera details officially confirmed](https://www.androidauthority.com/oneplus-11-images-camera-specs-3261725/)
- - [Riyadh-based Manafa, which offers SMBs debt and equity financing based on a crowdfunding model, raised a ~$28.2M Series A led by STV and Aramco&#39;s Wa&#39;ed Ventures &lpar;Deena Kamel/The National&rpar;](http://www.techmeme.com/230103/p1#a230103p1)<!-- TECH:END -->
+ - [Email: SpaceX is raising $750M in a round likely led by a16z at a $137B valuation; the company raised $2B+ in 2022 and was valued at $127M in May &lpar;Lora Kolodny/CNBC&rpar;](http://www.techmeme.com/230103/p2#a230103p2)
+ - [Fitbit Premium is 60% off right now for a limited time!](https://www.androidauthority.com/fitbit-premium-sale-3261737/)
+ - [Samsung Galaxy A54 specs leak: What to expect from Samsung’s bread and butter](https://www.androidauthority.com/samsung-galaxy-a54-specs-3260522/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
