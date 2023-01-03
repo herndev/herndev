@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dell unveils second-gen Concept Nyx, the gaming controller of the future](https://www.androidauthority.com/dell-concept-nyx-3259079/)
- - [Memo: Shopify cancels all recurring meetings with over two people &quot;in perpetuity&quot; and encourages staff to decline invitations, leave big group chats, and more &lpar;Matthew Boyle/Bloomberg&rpar;](http://www.techmeme.com/230103/p8#a230103p8)
- - [Replying to the FTC&#39;s lawsuit, Microsoft bizarrely claims not to know when Call of Duty was first released or have details on Activision&#39;s budget and resources &lpar;Sean Hollister/The Verge&rpar;](http://www.techmeme.com/230103/p7#a230103p7)<!-- TECH:END -->
+ - [I Threw a Holiday Party in Horizon Worlds. It Didn’t Go Well](https://www.wired.com/story/holiday-party-horizon-worlds-the-metaverse-doesnt-exist/)
+ - [Filing: lawyers for Sam Bankman-Fried ask a judge to redact the names of the two people who intend to sign on as sureties to his bail, citing media scrutiny &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/230103/p11#a230103p11)
+ - [Future Apple Pencil could detect colors and textures](https://appleinsider.com/articles/23/01/03/future-apple-pencil-could-detect-colors-and-textures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
