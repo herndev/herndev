@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)
- - [Google’s Pixel Fold production plans hint at Q4 launch](https://www.androidauthority.com/google-pixel-fold-release-date-3261752/)
- - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)<!-- TECH:END -->
+ - [Samsung Galaxy A34 5G specs leak: Where are the upgrades?](https://www.androidauthority.com/samsung-galaxy-a34-5g-specs-3261779/)
+ - [Southwest Airlines&#39; recent meltdown exposed an over-reliance on aging crew-assignment software SkySolver, forcing the company to return to manual scheduling &lpar;Belle Lin/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p6#a230103p6)
+ - [Buffalo Bills&#39; Damar Hamlin Suffered Cardiac Arrest During Monday Night Football     - CNET](https://www.cnet.com/culture/sports/buffalo-bills-damar-hamlin-suffered-cardiac-arrest-during-monday-night-football/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
