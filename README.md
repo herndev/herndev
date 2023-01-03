@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
+ - 💣 [Like jury duty](http://9gag.com/gag/a9qRZ6o)
+ - ⏩ [Based](http://9gag.com/gag/axo7n11)
+ - 👉 [Persistence](http://9gag.com/gag/abvrLdL)<!-- MEMES:END -->
 
 ---
 
