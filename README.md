@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fireworks show in San Diego where a computer glitch caused the entire 18 minute show to go off in 25 seconds](http://9gag.com/gag/aNw0qW4)
- - ⏩ [Hi, this is flight AFL2132 and welcome to Jackass!](http://9gag.com/gag/anz5WVV)
- - 👉 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)<!-- MEMES:END -->
+ - 💣 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
+ - ⏩ [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
+ - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
 
 ---
 
