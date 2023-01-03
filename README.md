@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
- - [Fnatic x ChopValue Revive Pro recycled gaming desk](https://www.pcgamer.com/fnatic-chopvalue-revive-gaming-desk-review)
- - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
+ - [Hitman 3 gets a new name — and two free games with it](https://www.polygon.com/23537193/hitman-3-renamed-free-games-2-3-steam)
+ - [Nvidia has finally announced the $799 RTX 4070 Ti launching Jan 5](https://www.pcgamer.com/nvidia-rtx-4070-ti-announcement)
+ - [Nvidia bringing RTX 4080s to GeForce Now with DLSS 3 and 240Hz mode support](https://www.pcgamer.com/nvidia-geforce-now-rtx-4080-availability)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
