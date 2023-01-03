@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)
- - ⏩ [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)
- - 👉 [Waffle House \u201cAvenger\u201d claims she was blacklisted by company following viral chair video](http://9gag.com/gag/az21Dob)<!-- MEMES:END -->
+ - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
+ - ⏩ [Jail](http://9gag.com/gag/a4oRrWw)
+ - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
 
 ---
 
