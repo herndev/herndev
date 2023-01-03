@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [New Lego Super Mario sets go deep, but not Lego Waluigi deep](https://www.polygon.com/23537096/lego-mario-2023-series-6)
- - [Nvidia announces that Atomic Heart and Witchfire will support DLSS 3 at launch](https://www.pcgamer.com/nvidia-announces-that-atomic-heart-and-witchfire-will-support-dlss-3-at-launch)
- - [Netflix Hit Glass Onion&#39;s Among Us Scene Is A Big Moment For Gaming](https://kotaku.com/knives-out-glass-onion-among-us-netflix-daniel-craig-1849944725)<!-- GAME:END -->
+ - [The Witcher 3: Dos and Don’ts For Fighting Werewolves](https://kotaku.com/the-witcher-3-how-to-beat-werewolves-healing-cursed-oil-1849945080)
+ - [Twitch not loading correctly? You&#39;re not alone](https://www.pcgamer.com/twitch-not-loading-correctly-youre-not-alone)
+ - [Prime subscribers can grab one of our favourite survival horror games free to keep right now](https://www.pcgamer.com/prime-subscribers-can-grab-one-of-our-favourite-survival-horror-games-for-free-right-now)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
