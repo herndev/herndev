@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Persistence](http://9gag.com/gag/abvrLdL)
- - ⏩ [Repost](http://9gag.com/gag/aXnjmQv)
- - 👉 [Idiot British ruins the expensive car just to show off in front of a cyclist.](http://9gag.com/gag/ago59qr)<!-- MEMES:END -->
+ - 💣 [A seagull in human form](http://9gag.com/gag/ago5br6)
+ - ⏩ [Those giga c**ts did it again, got me invested In something that I will never know how it finishes](http://9gag.com/gag/amA5yzj)
+ - 👉 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
 
 ---
 
