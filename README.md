@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Tough](http://9gag.com/gag/aDYg9jx)
- - ⏩ [The last one is the best](http://9gag.com/gag/anz5Zw0)
- - 👉 [Artists on suicide watch](http://9gag.com/gag/aEqg57K)<!-- MEMES:END -->
+ - 💣 [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - ⏩ [The N Pass](http://9gag.com/gag/a8q5OM6)
+ - 👉 [And they lived ever after](http://9gag.com/gag/axo7wzn)<!-- MEMES:END -->
 
 ---
 
