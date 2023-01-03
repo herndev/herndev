@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
- - ⏩ [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - 👉 [Holy shit, they&#39;re armed now](http://9gag.com/gag/avQoDnb)<!-- MEMES:END -->
+ - 💣 [Tough](http://9gag.com/gag/aDYg9jx)
+ - ⏩ [The last one is the best](http://9gag.com/gag/anz5Zw0)
+ - 👉 [Artists on suicide watch](http://9gag.com/gag/aEqg57K)<!-- MEMES:END -->
 
 ---
 
