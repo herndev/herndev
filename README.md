@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Netflix&#39;s &#39;1899&#39; Canceled After One Season     - CNET](https://www.cnet.com/culture/entertainment/netflixs-1899-canceled-after-one-season/#ftag=CAD590a51e)
- - [Arlo Sends End-of-Life Notice for Gen 3, Pro Camera Owners     - CNET](https://www.cnet.com/news/arlo-sends-end-of-life-notice-for-gen-3-pro-camera-owners/#ftag=CAD590a51e)
- - [Try Out These Fitbit Tricks to Reach Your Fitness Goals This New Year     - CNET](https://www.cnet.com/tech/mobile/try-out-these-fitbit-tricks-to-reach-your-fitness-goals-this-new-year/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Space Solar Power Satellite Could Help Realize Our Sci-Fi Dreams of Unlimited Energy     - CNET](https://www.cnet.com/science/space/space-solar-power-satellite-could-help-realize-our-sci-fi-dreams-of-unlimited-energy/#ftag=CAD590a51e)
+ - [Netflix&#39;s &#39;1899&#39; Canceled After 1 Season     - CNET](https://www.cnet.com/culture/entertainment/netflixs-1899-canceled-after-1-season/#ftag=CAD590a51e)
+ - [Arlo is taking away security camera features you paid for](https://www.theverge.com/2023/1/2/23536194/arlo-eol-security-cameras-pro-baby-q-gen-3-lights-doorbell)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
