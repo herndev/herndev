@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Nvidia upgrades its $19.99/month GeForce Now Ultimate plan to support 240 FPS streaming, ultrawide monitors, and more by using RTX 4080-class GPUs &lpar;Romain Dillet/TechCrunch&rpar;](http://www.techmeme.com/230103/p21#a230103p21)
- - [GE&#39;s Cync line massively expands at CES 2023](https://appleinsider.com/articles/23/01/03/ges-cync-line-massively-expands-at-ces-2023?utm_medium=rss)
- - [Nvidia RTX 40 Series laptop GPUs are ready for PC gamers this February](https://www.androidauthority.com/nvidia-geforce-rtx-40-3261890/)<!-- TECH:END -->
+ - [Dell 32-inch 6K display takes on Apple&#39;s Pro Display XDR](https://appleinsider.com/articles/23/01/03/dell-32-inch-6k-display-takes-on-apples-pro-display-xdr?utm_medium=rss)
+ - [The LG Gram Ultraslim notebook is the company’s thinnest laptop ever](https://www.androidauthority.com/lg-gram-ultraslim-3261950/)
+ - [Twitch is recovering from its the outage that took down everyone’s stream pages](https://www.theverge.com/2023/1/3/23537454/twitch-down-outage-stream-pages)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
