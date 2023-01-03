@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [10 best quiz games and trivia games for Android](https://www.androidauthority.com/best-quiz-games-and-trivia-games-for-android-692955/)
- - [Fossil announces Gen 6 Hybrid Wellness Edition with 2-week battery life](https://www.androidauthority.com/gen-6-hybrid-wellness-3261827/)
- - [Apple &#39;cuts orders&#39; on MacBook, Apple Watch, AirPods after weak demand](https://appleinsider.com/articles/23/01/03/apple-cuts-orders-on-macbook-apple-watch-airpods-after-weak-demand?utm_medium=rss)<!-- TECH:END -->
+ - [Xfinity Customers Will Get HBO Max Through &#39;Free This Week&#39; Program     - CNET](https://www.cnet.com/tech/services-and-software/xfinity-customers-will-get-hbo-max-through-free-this-week-program/#ftag=CAD590a51e)
+ - [Best Gas Credit Cards for January 2023     - CNET](https://www.cnet.com/personal-finance/credit-cards/best-gas-credit-cards/#ftag=CAD590a51e)
+ - [Best Debit Cards for Kids and Teens in January 2023: GoHenry, BusyKid and More     - CNET](https://www.cnet.com/personal-finance/credit-cards/debit-cards-for-kids-and-teens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
