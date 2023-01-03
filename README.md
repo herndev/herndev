@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Where To Catch Up On Pokémon Before Ash And Pikachu&#39;s Farewell](https://kotaku.com/pokemon-anime-where-to-stream-netflix-prime-ash-pikachu-1849945348)
- - [The Pokemon Devs Made A Cult Hit That You Now Have Another Chance To Play](https://kotaku.com/pokemon-game-freak-3ds-pocket-card-jockey-iphone-1849945356)
- - [Destiny 2 dataminers admit leaked subscription plan was a hoax: &#39;We trolled everyone&#39;](https://www.pcgamer.com/destiny-2-dataminers-admit-leaked-subscription-plan-was-a-hoax-we-trolled-everyone)<!-- GAME:END -->
+ - [You Should Watch This ‘90s Movie That’s Basically Just Cyberpunk 2077](https://kotaku.com/strange-days-streaming-cyberpunk-2077-braindance-1849945692)
+ - [Here’s Every Video Game Release Date For 2023](https://kotaku.com/upcoming-video-game-release-date-2023-ps5-xbox-pc-1849945704)
+ - [ZeniMax employees vote to form the biggest videogame union in the US](https://www.pcgamer.com/zenimax-employees-vote-to-form-the-biggest-videogame-union-in-the-us)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
