@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [I Threw a Holiday Party in Horizon Worlds. It Didn’t Go Well](https://www.wired.com/story/holiday-party-horizon-worlds-the-metaverse-doesnt-exist/)
- - [Filing: lawyers for Sam Bankman-Fried ask a judge to redact the names of the two people who intend to sign on as sureties to his bail, citing media scrutiny &lpar;Chris Dolmetsch/Bloomberg&rpar;](http://www.techmeme.com/230103/p11#a230103p11)
- - [Future Apple Pencil could detect colors and textures](https://appleinsider.com/articles/23/01/03/future-apple-pencil-could-detect-colors-and-textures?utm_medium=rss)<!-- TECH:END -->
+ - [Tuesday’s top tech news: CES kicks off 2023 with a bang](https://www.theverge.com/2023/1/3/23536793/january-3-2023-tech-news-liveblog)
+ - [Legal filings: Google alleges over 50 instances of India&#39;s antitrust investigators copy-pasting parts of the EU&#39;s antitrust ruling, sometimes word-for-word &lpar;Reuters&rpar;](http://www.techmeme.com/230103/p14#a230103p14)
+ - [Apple adds third-generation iPad mini to list of obsolete products](https://appleinsider.com/articles/23/01/03/apple-adds-third-generation-ipad-mini-to-list-of-obsolete-products?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
