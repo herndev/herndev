@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple allegedly working on cheaper &#39;AirPods Lite&#39;](https://appleinsider.com/articles/23/01/03/apple-allegedly-working-on-cheaper-airpods-lite?utm_medium=rss)
- - [The 15 Best PS5 Games To Play Right Now     - CNET](https://www.cnet.com/culture/the-15-best-ps5-games-to-play-right-now/#ftag=CAD590a51e)
- - [Don&#39;t Throw Out Your Old TV Before You Read This     - CNET](https://www.cnet.com/tech/home-entertainment/dont-throw-out-your-old-tv-before-you-read-this/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [iPhone 15 Pro line could boast titanium frame, haptic buttons, and 8 gigs of RAM](https://appleinsider.com/articles/23/01/03/iphone-15-pro-line-could-boast-titanium-frame-haptic-buttons-and-8-gigs-of-ram?utm_medium=rss)
+ - [India releases draft online gaming rules, seeking to create a self-regulatory body and to require parental consent for gamers under 18, for public consultation &lpar;Moneycontrol&rpar;](http://www.techmeme.com/230102/p14#a230102p14)
+ - [Next gen Apple Watch Ultra to get micro LED display](https://appleinsider.com/articles/23/01/03/next-gen-apple-watch-ultra-to-get-micro-led-display?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
