@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - ⏩ [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - 👉 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
+ - 💣 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
+ - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 👉 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)<!-- MEMES:END -->
 
 ---
 
