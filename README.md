@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The 5 best sci-fi board games](https://www.polygon.com/tabletop-games/23529779/best-sci-fi-board-games)
- - [Dark creators mourn Netflix killing their new show 1899](https://www.polygon.com/23536946/netflix-1899-canceled-season-2-3)
- - [When will Black Panther: Wakanda Forever come to Disney Plus?](https://www.polygon.com/23460000/black-panther-wakanda-forever-streaming-disney-plus)<!-- GAME:END -->
+ - [The best action movies on Netflix from around the world](https://www.polygon.com/what-to-watch/23196729/netflix-action-movies-best-good-list)
+ - [Fnatic x ChopValue Revive Pro recycled gaming desk](https://www.pcgamer.com/fnatic-chopvalue-revive-gaming-desk-review)
+ - [The best horror movies you can watch right now](https://www.polygon.com/22725152/best-horror-movies-netflix-amazon-prime-hulu-hbo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
