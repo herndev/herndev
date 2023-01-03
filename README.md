@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)
- - [United Talent Agency CEO Jeremy Zimmer argues the creative talent behind shows on Netflix&#39;s ad-supported tier should earn more money if their shows are popular &lpar;Christopher Grimes/Financial Times&rpar;](http://www.techmeme.com/230103/p3#a230103p3)
- - [Samsung made a laptop display that folds and slides at the same time](https://www.androidauthority.com/samsung-flex-hybrid-3261743/)<!-- TECH:END -->
+ - [Chinese media: Foxconn says its Zhengzhou plant is operating with ~200,000 workers, or ~90% capacity, back to around reported normal levels, after disruptions &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230103/p4#a230103p4)
+ - [Google’s Pixel Fold production plans hint at Q4 launch](https://www.androidauthority.com/google-pixel-fold-release-date-3261752/)
+ - [Samsung Display’s latest foldable concept can both slide and fold](https://www.theverge.com/2023/1/3/23536788/samsung-display-flex-hybrid-foldable-slidable-ces-2022)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
