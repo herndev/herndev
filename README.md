@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [OtterBox launches new iPhone case with integrated grip &amp; MagSafe support](https://appleinsider.com/articles/23/01/03/otterbox-launches-new-iphone-case-with-integrated-grip-magsafe-support?utm_medium=rss)
- - [Judge sets SBF&#39;s trial for early October, allows redaction of SBF&#39;s bond signers&#39; names for now, and amends bail terms to keep SBF from accessing FTX funds &lpar;CoinDesk&rpar;](http://www.techmeme.com/230103/p26#a230103p26)
- - [Best Xbox Deals: Save on Controllers, Headsets, Hard Drives and More     - CNET](https://www.cnet.com/deals/best-xbox-deals/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung introduces pair of Studio Display competitors at CES 2023](https://appleinsider.com/articles/23/01/02/samsung-introduces-pair-of-studio-display-competitors-at-ces-2023?utm_medium=rss)
+ - [[Thread] Twitter says it is relaxing its policy on cause-based ads in the US and plans to expand the political advertising it permits in the coming weeks &lpar;Twitter Safety&rpar;](http://www.techmeme.com/230103/p27#a230103p27)
+ - [OtterBox launches new iPhone case with integrated grip &amp; MagSafe support](https://appleinsider.com/articles/23/01/03/otterbox-launches-new-iphone-case-with-integrated-grip-magsafe-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
