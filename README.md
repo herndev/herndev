@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Keep it real](http://9gag.com/gag/aXnjGXg)
- - ⏩ [Based](http://9gag.com/gag/axo7n11)
- - 👉 [Aphrodite was born](http://9gag.com/gag/anz5WQq)<!-- MEMES:END -->
+ - 💣 [Those giga c**ts did it again, got me invested In something that I will never know how it finishes](http://9gag.com/gag/amA5yzj)
+ - ⏩ [The future is now](http://9gag.com/gag/a2KR9MO)
+ - 👉 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)<!-- MEMES:END -->
 
 ---
 
