@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The only good Karen.](http://9gag.com/gag/ay2ozAY)
+ - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
  - ⏩ [Jail](http://9gag.com/gag/a4oRrWw)
- - 👉 [\u00d6uch](http://9gag.com/gag/aDYgQ4B)<!-- MEMES:END -->
+ - 👉 [A seagull in human form](http://9gag.com/gag/ago5br6)<!-- MEMES:END -->
 
 ---
 
