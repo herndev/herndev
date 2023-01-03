@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
- - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 👉 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)<!-- MEMES:END -->
+ - 💣 [Tough](http://9gag.com/gag/aDYg9jx)
+ - ⏩ [Offended by life](http://9gag.com/gag/aPgR2MK)
+ - 👉 [I tried my best...now i&#39;m wearing same clothes every day](http://9gag.com/gag/aoK5wXw)<!-- MEMES:END -->
 
 ---
 
