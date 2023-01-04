@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [BattleTech is officially one of the biggest names in tabletop gaming now](https://www.polygon.com/tabletop-games/23538869/battletech-sales-numbers-2022)
- - [Secret Room In Switch Exclusive Lashes Out Against Dev Dysfunction](https://kotaku.com/sports-story-golf-dev-room-how-find-rpg-nintendo-switch-1849950373)
- - [Star Wars Fans Waited 20 Years For This Excellent LEGO Set](https://kotaku.com/lego-star-wars-tie-bomber-2023-review-75347-minifigs-1849950293)<!-- GAME:END -->
+ - [World of Warcraft’s Leeroy Jenkins invades historic Speaker of the House vote](https://www.polygon.com/23539411/hakeem-jeffries-leeroy-jenkins-jared-huffman-speaker-house-vote)
+ - [10 Iconic Video Game Intros To Jumpstart Your New Year](https://kotaku.com/best-video-game-intros-2023-bioshock-final-fantasy-1849950665)
+ - [Microsoft hopes that adding conversational AI to Bing will actually make people want to use Bing](https://www.pcgamer.com/microsoft-hopes-that-adding-conversational-ai-to-bing-will-actually-make-people-want-to-use-bing)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
