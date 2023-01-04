@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Blade Runner 1997 is still the cyberpunk experience to beat](https://www.pcgamer.com/blade-runner-1997-is-still-the-cyberpunk-experience-to-beat)
  - [Today&#39;s Wordle 564 answer and hint for Wednesday, January 4](https://www.pcgamer.com/wordle-564-answer-january-4)
- - [Tár and Marcel the Shell With Shoes On are basically the exact same movie](https://www.polygon.com/23537592/tar-vs-marcel-the-shell-with-shoes-on-same-movie)
- - [Wizards of the Coast has reportedly canceled at least five videogames in development](https://www.pcgamer.com/wizards-of-the-coast-has-reportedly-canceled-at-least-five-videogames-in-development)<!-- GAME:END -->
+ - [Tár and Marcel the Shell With Shoes On are basically the exact same movie](https://www.polygon.com/23537592/tar-vs-marcel-the-shell-with-shoes-on-same-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
