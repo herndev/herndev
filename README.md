@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Blade Runner 1997 is still the cyberpunk experience to beat](https://www.pcgamer.com/blade-runner-1997-is-still-the-cyberpunk-experience-to-beat)
- - [Today&#39;s Wordle 564 answer and hint for Wednesday, January 4](https://www.pcgamer.com/wordle-564-answer-january-4)
- - [Tár and Marcel the Shell With Shoes On are basically the exact same movie](https://www.polygon.com/23537592/tar-vs-marcel-the-shell-with-shoes-on-same-movie)<!-- GAME:END -->
+ - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)
+ - [This may be the most bizarre PC manual ever](https://www.pcgamer.com/this-may-be-the-most-bizarre-pc-manual-ever)
+ - [Gaming monitors with tiny screens in the stands and built-in Wi-Fi antennas? Sure](https://www.pcgamer.com/gaming-monitors-with-tiny-screens-in-the-stands-and-built-in-wi-fi-antennas-sure)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
