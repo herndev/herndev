@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Caught red handed\u2026](http://9gag.com/gag/a2KRppp)
- - ⏩ [Monsters inc](http://9gag.com/gag/a4oROZQ)
- - 👉 [Ultimate Sexual Fantasy](http://9gag.com/gag/anz5P5o)<!-- MEMES:END -->
+ - 💣 [Those giga c**ts did it again, got me invested In something that I will never know how it finishes](http://9gag.com/gag/amA5yzj)
+ - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 ---
 
