@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)
- - [Twitter&#39;s head of product and engineering Behnam Rezaei and acting head of human resources Katie Marcotte, who was at Twitter for 10 years, have resigned &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230103/p36#a230103p36)
- - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
+ - [Sources: China is pausing massive investments and costly subsidies aimed at building a chip industry to compete with the US, amid a nationwide COVID-19 wave &lpar;Bloomberg&rpar;](http://www.techmeme.com/230103/p39#a230103p39)
+ - [Android&#39;s director of engineering said Google wants RISC-V to be a &quot;tier-1&quot; Android architecture and outlined a years-long roadmap at the recent RISC-V summit &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230103/p38#a230103p38)
+ - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
