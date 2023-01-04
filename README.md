@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [If your Internet is good enough, GeForce NOW Ultimate will stream games at 4K and 240 FPS](https://appleinsider.com/articles/23/01/04/nvidia-launches-new-geforce-now-ultimate-tier?utm_medium=rss)
- - [&#39;Foundation&#39; trailer teases new season &amp; summer release](https://appleinsider.com/articles/23/01/04/foundation-trailer-teases-new-season-summer-release?utm_medium=rss)
- - [SwitchBot unveils smart home Hub 2 with Matter support](https://appleinsider.com/articles/23/01/04/switchbot-unveils-smart-home-hub-2-with-matter-support?utm_medium=rss)<!-- TECH:END -->
+ - [Stellantis will mass-produce Archer’s electric air taxi as part of $150 million deal](https://www.theverge.com/2023/1/4/23538953/stellantis-archer-electric-air-taxi-evtol-midnight-mass-produce-investment)
+ - [Apple Confluence retail store will close until March for renovations](https://appleinsider.com/articles/23/01/04/apple-confluence-retail-store-will-close-until-march-for-renovations?utm_medium=rss)
+ - [Samsung ViewFinity S9 first look: a sleek alternative to Apple’s Studio Display](https://www.theverge.com/2023/1/4/23538534/samsung-viewfinity-s9-5k-monitor-first-look-preview-apple-studio-display)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
