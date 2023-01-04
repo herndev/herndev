@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)
- - [Catalyst releases Essential Case for AirPods Pro 2](https://appleinsider.com/articles/23/01/04/catalyst-releases-essential-case-for-airpods-pro-2?utm_medium=rss)
- - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Chinese regulators approve Ant Group&#39;s plan to raise ~$1.5B for its consumer unit, signaling progress in the firm&#39;s government-ordered overhaul &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230104/p2#a230104p2)
+ - [Try These 5 Foolproof Hacks to Calm Your Anxiety at Night     - CNET](https://www.cnet.com/health/sleep/try-these-5-foolproof-hacks-to-calm-your-anxiety-at-night/#ftag=CAD590a51e)
+ - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
