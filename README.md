@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Wizards of the Coast has reportedly canceled at least five videogames in development](https://www.pcgamer.com/wizards-of-the-coast-has-reportedly-canceled-at-least-five-videogames-in-development)
  - [12 survival games to look forward to in 2023](https://www.pcgamer.com/12-survival-games-to-look-forward-to-in-2023)
- - [Valve&#39;s working on HDR for Linux gaming, paving the way for an eventual OLED Steam Deck](https://www.pcgamer.com/valves-working-on-hdr-for-linux-gaming-paving-the-way-for-an-eventual-oled-steam-deck)
- - [FIFA 23 players find Ryan Reynolds Easter eggs in the commentary](https://www.polygon.com/23537282/fifa-23-wrexham-easter-egg-ryan-reynolds-rob-mcelhenney-commentary)<!-- GAME:END -->
+ - [Valve&#39;s working on HDR for Linux gaming, paving the way for an eventual OLED Steam Deck](https://www.pcgamer.com/valves-working-on-hdr-for-linux-gaming-paving-the-way-for-an-eventual-oled-steam-deck)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
