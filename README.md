@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung&#39;s new microLED TVs are five million times faster than your gaming monitor](https://www.pcgamer.com/samsungs-new-microled-tvs-are-five-million-times-faster-than-your-gaming-monitor)
  - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)
- - [This may be the most bizarre PC manual ever](https://www.pcgamer.com/this-may-be-the-most-bizarre-pc-manual-ever)
- - [Gaming monitors with tiny screens in the stands and built-in Wi-Fi antennas? Sure](https://www.pcgamer.com/gaming-monitors-with-tiny-screens-in-the-stands-and-built-in-wi-fi-antennas-sure)<!-- GAME:END -->
+ - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
