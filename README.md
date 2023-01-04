@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cooler Master&#39;s new gear is aimed at content creators &amp; enthusiasts](https://appleinsider.com/articles/23/01/04/cooler-masters-new-gear-is-aimed-at-content-creators-enthusiasts?utm_medium=rss)
- - [Drop’s desktop computer speakers are tempting me to ditch the headset](https://www.theverge.com/2023/1/4/23538580/drop-bmr1-nearfield-monitor-desktop-computer-speakers-ces-price)
- - [The Global X Fintech ETF dropped 52% in 2022, above the broader financial sector&#39;s 12% drop and Nasdaq Composite Index&#39;s 33%, weighed down by interest rates &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/230104/p14#a230104p14)<!-- TECH:END -->
+ - [Eve has more HomeKit blinds &amp; expands Matter support](https://appleinsider.com/articles/23/01/04/eve-has-more-homekit-blinds-expands-matter-support?utm_medium=rss)
+ - [Daily Deals Dec. 4: $600 off 11-inch iPad Pro, Google Pixel Buds Pro $169, Lubluelu Robot Vacuum $110 &amp; more](https://appleinsider.com/articles/23/01/04/daily-deals-dec-4-600-off-11-inch-ipad-pro-google-pixel-buds-pro-169-lubluelu-robot-vacuum-110-more?utm_medium=rss)
+ - [Stop-motion educational series &#39;Shape Island&#39; coming to Apple TV+](https://appleinsider.com/articles/23/01/04/stop-motion-educational-series-shape-island-coming-to-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
