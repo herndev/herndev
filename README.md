@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
- - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
+ - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - ⏩ [`I help you`](http://9gag.com/gag/aZD7533)
+ - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
 
 ---
 
