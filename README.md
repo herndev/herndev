@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Monkeynizer](http://9gag.com/gag/aGEg5GG)
- - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 👉 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
+ - 💣 [1 Word: AMSTERDAM...](http://9gag.com/gag/aoK5QwX)
+ - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 ---
 
