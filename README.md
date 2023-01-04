@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ViewSonic reveals 27-inch 4K OLED Studio Display competitor, more](https://appleinsider.com/articles/23/01/04/viewsonic-reveals-27-inch-4k-oled-studio-display-competitor-more?utm_medium=rss)
- - [US officials say the DOJ has seized or is in the process of seizing assets linked to FTX, including ~$450M in Robinhood shares whose ownership is being disputed &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230104/p24#a230104p24)
- - [Android will officially support the RISC-V architecture, and that’s a big deal](https://www.androidauthority.com/android-risc-v-support-3262537/)<!-- TECH:END -->
+ - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)
+ - [In another wrongful arrest using erroneous facial recognition matches, a Black man in Georgia was jailed for a week due to a warrant secured by Louisiana cops &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230104/p25#a230104p25)
+ - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
