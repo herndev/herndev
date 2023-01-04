@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The future is now](http://9gag.com/gag/a2KR9MO)
- - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 👉 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)<!-- MEMES:END -->
+ - 💣 [Heroes](http://9gag.com/gag/aEqgyXe)
+ - ⏩ [Jail](http://9gag.com/gag/a4oRrWw)
+ - 👉 [Monsters inc](http://9gag.com/gag/a4oROZQ)<!-- MEMES:END -->
 
 ---
 
