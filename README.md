@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Report: Indian crypto exchanges lost 81% of trading volume between July and October 2022, as traders turned to foreign exchanges due to India&#39;s new crypto tax &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230104/p3#a230104p3)
  - [Chinese regulators approve Ant Group&#39;s plan to raise ~$1.5B for its consumer unit, signaling progress in the firm&#39;s government-ordered overhaul &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230104/p2#a230104p2)
- - [Try These 5 Foolproof Hacks to Calm Your Anxiety at Night     - CNET](https://www.cnet.com/health/sleep/try-these-5-foolproof-hacks-to-calm-your-anxiety-at-night/#ftag=CAD590a51e)
- - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)<!-- TECH:END -->
+ - [Try These 5 Foolproof Hacks to Calm Your Anxiety at Night     - CNET](https://www.cnet.com/health/sleep/try-these-5-foolproof-hacks-to-calm-your-anxiety-at-night/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
