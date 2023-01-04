@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
- - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 💣 [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 ---
 
