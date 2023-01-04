@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Tuesday’s top tech news: CES kicks off 2023 with a bang](https://www.theverge.com/2023/1/3/23536793/january-3-2023-tech-news-liveblog)
- - [The US Federal Reserve, FDIC, and OCC release a joint statement warning banks that issuing or holding crypto is likely inconsistent with safe banking practices &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
- - [Samsung’s recall fix for overheating washers is a software update — and a dongle](https://www.theverge.com/2023/1/3/23538060/samsung-washing-machine-recall-software-update-wi-fi-dongle)<!-- TECH:END -->
+ - [Suhail Sameer, CEO of New Delhi-based fintech BharatPe, plans to step down to an advisor on January 7, after co-founder Ashneer Grover&#39;s exit in February 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230103/p34#a230103p34)
+ - [The US Federal Reserve, FDIC, and OCC warn banks that issuing or holding crypto &quot;is highly likely to be inconsistent with safe and sound banking practices&quot; &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
+ - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
