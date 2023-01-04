@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: China is pausing massive investments and costly subsidies aimed at building a chip industry to compete with the US, amid a nationwide COVID-19 wave &lpar;Bloomberg&rpar;](http://www.techmeme.com/230103/p39#a230103p39)
- - [Android&#39;s director of engineering said Google wants RISC-V to be a &quot;tier-1&quot; Android architecture and outlined a years-long roadmap at the recent RISC-V summit &lpar;Ron Amadeo/Ars Technica&rpar;](http://www.techmeme.com/230103/p38#a230103p38)
- - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)<!-- TECH:END -->
+ - [Ampere Analysis: a decade-long original TV show spending boom is expected to slow to a crawl in 2023; streaming services will cut growth from 25% in 2022 to 8% &lpar;Alex Barker/Financial Times&rpar;](http://www.techmeme.com/230104/p1#a230104p1)
+ - [Catalyst releases Essential Case for AirPods Pro 2](https://appleinsider.com/articles/23/01/04/catalyst-releases-essential-case-for-airpods-pro-2?utm_medium=rss)
+ - [Scosche announces slate of new charging products for 2023](https://appleinsider.com/articles/23/01/04/scosche-announces-slate-of-new-charging-products-for-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
