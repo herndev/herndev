@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)
- - [U.S. Congressman Swears Oath On Rare Superman Comic Book](https://kotaku.com/superman-1-rare-comic-book-robert-garcia-california-1849948878)
- - [Toucan Pro Streaming Webcam](https://www.pcgamer.com/toucan-pro-streaming-webcam-review)<!-- GAME:END -->
+ - [Phison has its 14GB/s PCIe 5.0 SSD controller ready but there are no drives in sight](https://www.pcgamer.com/phison-has-its-14gbs-pcie-50-ssd-controller-ready-but-there-are-no-drives-in-sight)
+ - [Elgato Stream Deck +](https://www.pcgamer.com/elgato-stream-deck-plus-review)
+ - [Introducing Zeldathon, a year of Zelda stories](https://www.polygon.com/zelda/23537298/tears-of-the-kingdom-legend-of-zelda-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
