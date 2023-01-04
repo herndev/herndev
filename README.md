@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Screw dying, says Hideo Kojima, &#39;I&#39;ll probably become an AI and stick around&#39;](https://www.pcgamer.com/screw-dying-says-hideo-kojima-ill-probably-become-an-ai-and-stick-around)
- - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)
- - [Cooler Master&#39;s latest mech keyboard is a calamitous clash of colours](https://www.pcgamer.com/cooler-masters-latest-mech-keyboard-is-a-calamitous-clash-of-colours)<!-- GAME:END -->
+ - [Death Stranding 2 is mirroring Metal Gear Solid 2, and going La-li-lu-le-lo](https://www.pcgamer.com/kojception-death-stranding-2-is-mirroring-metal-gear-solid-2-and-going-la-le-lu-li-lo)
+ - [Madden fans find franchise saves destroyed after EA said they could play &#39;without issue&#39;](https://www.pcgamer.com/madden-fans-find-franchise-saves-destroyed-after-ea-said-they-could-play-without-issue)
+ - [Clue has a new look for a new generation of board game fans — and it goes on sale today](https://www.polygon.com/23537904/clue-board-game-2023-refresh-ryan-reynolds-movie)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
