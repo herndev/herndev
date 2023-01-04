@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Samsung&#39;s new microLED TVs are five million times faster than your gaming monitor](https://www.pcgamer.com/samsungs-new-microled-tvs-are-five-million-times-faster-than-your-gaming-monitor)
- - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)
- - [The Holiday Sale promotion refresh comes to PlayStation Store](https://blog.playstation.com/2023/01/04/the-holiday-sale-promotion-refresh-comes-to-playstation-store/)<!-- GAME:END -->
+ - [Screw dying, says Hideo Kojima, &#39;I&#39;ll probably become an AI and stick around&#39;](https://www.pcgamer.com/screw-dying-says-hideo-kojima-ill-probably-become-an-ai-and-stick-around)
+ - [Nvidia RTX 4070 Ti](https://www.pcgamer.com/nvidia-rtx-4070-ti-review-benchmarks-performance)
+ - [Cooler Master&#39;s latest mech keyboard is a calamitous clash of colours](https://www.pcgamer.com/cooler-masters-latest-mech-keyboard-is-a-calamitous-clash-of-colours)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
