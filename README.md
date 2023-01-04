@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The Mask](http://9gag.com/gag/aBdgAnZ)
- - ⏩ [Hope So I find a better one](http://9gag.com/gag/aqegorQ)
- - 👉 [All we need is ...](http://9gag.com/gag/aA0g8nZ)<!-- MEMES:END -->
+ - 💣 [Excellent teacher!](http://9gag.com/gag/abvr73X)
+ - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 ---
 
