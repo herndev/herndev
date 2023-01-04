@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Netflix’s Kaleidoscope has a random order, but there are better paths](https://www.polygon.com/23538715/netflix-kaleidoscope-chronological-best-watch-order)
- - [Six Things We Just Learned About HBO’s The Last Of Us TV Show](https://kotaku.com/the-last-of-us-hbo-joel-ellie-mandalorian-maisie-willia-1849949334)
- - [Madden Chaos Continues With Wiped Saves And Botched Presents](https://kotaku.com/ea-madden-nfl-23-franchise-mut-presents-corrupt-save-1849949420)<!-- GAME:END -->
+ - [What games did you play over the holidays?](https://www.pcgamer.com/what-games-did-you-play-over-the-holidays)
+ - [Creators Connect in Xbox Pilot Program](https://news.xbox.com/en-us/2023/01/04/creators-connect-in-xbox-pilot-program/)
+ - [Google embraces Nvidia GeForce Now with Asus&#39;s latest Chromebook](https://www.pcgamer.com/google-embraces-nvidia-geforce-now-with-asuss-latest-chromebook)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
