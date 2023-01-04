@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Heroes](http://9gag.com/gag/aEqgyXe)
- - ⏩ [Jail](http://9gag.com/gag/a4oRrWw)
- - 👉 [Monsters inc](http://9gag.com/gag/a4oROZQ)<!-- MEMES:END -->
+ - 💣 [Caught red handed\u2026](http://9gag.com/gag/a2KRppp)
+ - ⏩ [Monsters inc](http://9gag.com/gag/a4oROZQ)
+ - 👉 [Ultimate Sexual Fantasy](http://9gag.com/gag/anz5P5o)<!-- MEMES:END -->
 
 ---
 
