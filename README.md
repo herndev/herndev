@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Stellantis will mass-produce Archer’s electric air taxi as part of $150 million deal](https://www.theverge.com/2023/1/4/23538953/stellantis-archer-electric-air-taxi-evtol-midnight-mass-produce-investment)
- - [Apple Confluence retail store will close until March for renovations](https://appleinsider.com/articles/23/01/04/apple-confluence-retail-store-will-close-until-march-for-renovations?utm_medium=rss)
- - [Samsung ViewFinity S9 first look: a sleek alternative to Apple’s Studio Display](https://www.theverge.com/2023/1/4/23538534/samsung-viewfinity-s9-5k-monitor-first-look-preview-apple-studio-display)<!-- TECH:END -->
+ - [Apple plans to appeal $8.5 million French fine over data privacy](https://appleinsider.com/articles/23/01/04/apple-plans-to-appeal-85-million-french-fine-over-data-privacy?utm_medium=rss)
+ - [Cops Hacked Thousands of Phones. Was It Legal?](https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/)
+ - [Sources: Sirius XM and Amazon are slowing podcast deals, Spotify is freezing US budget for new podcasts; all three seek to keep 50% of ad revenue vs. 20% before &lpar;Bloomberg&rpar;](http://www.techmeme.com/230104/p21#a230104p21)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
