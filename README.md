@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
- - ⏩ [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 💣 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - ⏩ [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
  - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
 
 ---
