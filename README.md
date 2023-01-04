@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter users in Australia and New Zealand report the service being down for over 12 hours, starting around 6:40am AEST on January 4 &lpar;Zachariah Kelly/Gizmodo Australia&rpar;](http://www.techmeme.com/230104/p6#a230104p6)
- - [Arm VP Dennis Laudick says the company more than doubled automotive revenue since 2020 thanks to more complex cars; Arm&#39;s 2022 total revenue rose 35% to &amp;pound;2.7B &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/230104/p5#a230104p5)
- - [Daily Authority: 📱 OnePlus 11 goes official, Pixel 7a leaks on video, and more](https://www.androidauthority.com/daily-authority-january-4-2023-3262250/)<!-- TECH:END -->
+ - [A look at Samsung&#39;s TV updates in 2023: Neo QLEDs converting SDR to HDR, futuristic MicroLED TVs, improvements to The Frame, and software and AI updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230104/p10#a230104p10)
+ - [You can now buy a wearable sleep tracker for your baby](https://www.androidauthority.com/halo-sleepsure-baby-sleep-tracker-3260248/)
+ - [Apple Watch blood oxygen sensor saves skier&#39;s life](https://appleinsider.com/articles/23/01/04/apple-watch-blood-oxygen-sensor-saves-skiers-life?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
