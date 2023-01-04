@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)
- - [In another wrongful arrest using erroneous facial recognition matches, a Black man in Georgia was jailed for a week due to a warrant secured by Louisiana cops &lpar;Thomas Germain/Gizmodo&rpar;](http://www.techmeme.com/230104/p25#a230104p25)
- - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)<!-- TECH:END -->
+ - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)
+ - [Asus unveils Vivobook Pro 16X and ProArt Studiobook 16 laptops, with 3.2K, 120Hz 16&quot; glasses-free 3D OLED displays &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230104/p26#a230104p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
