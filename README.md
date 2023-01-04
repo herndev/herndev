@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Eve has more HomeKit blinds &amp; expands Matter support](https://appleinsider.com/articles/23/01/04/eve-has-more-homekit-blinds-expands-matter-support?utm_medium=rss)
- - [Daily Deals Dec. 4: $600 off 11-inch iPad Pro, Google Pixel Buds Pro $169, Lubluelu Robot Vacuum $110 &amp; more](https://appleinsider.com/articles/23/01/04/daily-deals-dec-4-600-off-11-inch-ipad-pro-google-pixel-buds-pro-169-lubluelu-robot-vacuum-110-more?utm_medium=rss)
- - [Stop-motion educational series &#39;Shape Island&#39; coming to Apple TV+](https://appleinsider.com/articles/23/01/04/stop-motion-educational-series-shape-island-coming-to-apple-tv?utm_medium=rss)<!-- TECH:END -->
+ - [Lockly Smart Safe pings your iPhone with tamper alerts](https://appleinsider.com/articles/23/01/04/lockly-smart-safe-pings-your-iphone-with-tamper-alerts?utm_medium=rss)
+ - [Canon imagePROGRAF TC-20 prints poster size - and beyond](https://appleinsider.com/articles/23/01/04/canon-imageprograf-tc-20-prints-poster-size---and-beyond?utm_medium=rss)
+ - [New Apple podcast investigates 1993 World Trade Center bombing](https://appleinsider.com/articles/23/01/04/new-apple-podcast-investigates-1993-world-trade-center-bombing?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
