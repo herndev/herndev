@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [Samsung introduces pair of Studio Display competitors at CES 2023](https://appleinsider.com/articles/23/01/02/samsung-introduces-pair-of-studio-display-competitors-at-ces-2023?utm_medium=rss)
- - [[Thread] Twitter says it is relaxing its policy on cause-based ads in the US and plans to expand the political advertising it permits in the coming weeks &lpar;Twitter Safety&rpar;](http://www.techmeme.com/230103/p27#a230103p27)
- - [OtterBox launches new iPhone case with integrated grip &amp; MagSafe support](https://appleinsider.com/articles/23/01/03/otterbox-launches-new-iphone-case-with-integrated-grip-magsafe-support?utm_medium=rss)<!-- TECH:END -->
+ - [Goodbye to Qi; The new Qi2 wireless charging standard is coming in late 2023](https://www.androidauthority.com/qi2-standard-3262053/)
+ - [Sources: crypto payments startup Wyre told its staff it&#39;s shutting down; Bolt planned to acquire Wyre for ~$1.5B, but the deal was canceled in September 2022 &lpar;Axios&rpar;](http://www.techmeme.com/230103/p28#a230103p28)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
