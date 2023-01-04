@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Twitter says it is relaxing its policy for cause-based ads in the US and plans to expand the political advertising the company permits in the coming weeks &lpar;Kate Conger/New York Times&rpar;](http://www.techmeme.com/230103/p32#a230103p32)
- - [Lost bag with AirTag saga is over -- but United still hasn&#39;t explained itself](https://appleinsider.com/articles/23/01/04/lost-bag-with-airtag-saga-is-over----but-united-still-hasnt-explained-itself?utm_medium=rss)
- - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [Tuesday’s top tech news: CES kicks off 2023 with a bang](https://www.theverge.com/2023/1/3/23536793/january-3-2023-tech-news-liveblog)
+ - [The US Federal Reserve, FDIC, and OCC release a joint statement warning banks that issuing or holding crypto is likely inconsistent with safe banking practices &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
+ - [Samsung’s recall fix for overheating washers is a software update — and a dongle](https://www.theverge.com/2023/1/3/23538060/samsung-washing-machine-recall-software-update-wi-fi-dongle)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
