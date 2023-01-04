@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The sound of a child laughing](http://9gag.com/gag/a2KRpK1)
- - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 👉 [Good.](http://9gag.com/gag/aXnj1KV)<!-- MEMES:END -->
+ - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
+ - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
+ - 👉 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
 
 ---
 
