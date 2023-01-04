@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - ⏩ [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
- - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
+ - 💣 [A butterfly](http://9gag.com/gag/a04Rzxq)
+ - ⏩ [It be like that sometimes](http://9gag.com/gag/adP5DbB)
+ - 👉 [Bad calculation](http://9gag.com/gag/a3ZR6Pv)<!-- MEMES:END -->
 
 ---
 
