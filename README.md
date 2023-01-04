@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What&#39;s happening here?](http://9gag.com/gag/aKEdoEg)
- - ⏩ [It be like that sometimes](http://9gag.com/gag/adP5DbB)
- - 👉 [The Mask](http://9gag.com/gag/aBdgAnZ)<!-- MEMES:END -->
+ - 💣 [Monkeynizer](http://9gag.com/gag/aGEg5GG)
+ - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
+ - 👉 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
 
 ---
 
