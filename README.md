@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Death Stranding 2 is mirroring Metal Gear Solid 2, and going La-li-lu-le-lo](https://www.pcgamer.com/kojception-death-stranding-2-is-mirroring-metal-gear-solid-2-and-going-la-le-lu-li-lo)
- - [Madden fans find franchise saves destroyed after EA said they could play &#39;without issue&#39;](https://www.pcgamer.com/madden-fans-find-franchise-saves-destroyed-after-ea-said-they-could-play-without-issue)
- - [Clue has a new look for a new generation of board game fans — and it goes on sale today](https://www.polygon.com/23537904/clue-board-game-2023-refresh-ryan-reynolds-movie)<!-- GAME:END -->
+ - [Wizards of the Coast reportedly cancels at least 5 video games](https://www.polygon.com/23538612/wizards-coast-dungeons-dragons-video-game-cancellations)
+ - [U.S. Congressman Swears Oath On Rare Superman Comic Book](https://kotaku.com/superman-1-rare-comic-book-robert-garcia-california-1849948878)
+ - [Toucan Pro Streaming Webcam](https://www.pcgamer.com/toucan-pro-streaming-webcam-review)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
