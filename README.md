@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Instant Karma, Indian Police](http://9gag.com/gag/a4oRmVd)
- - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 👉 [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)<!-- MEMES:END -->
+ - 💣 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)
+ - ⏩ [They outta pocket for that one](http://9gag.com/gag/aXnjOmV)
+ - 👉 [Cat cr\u00fcelty](http://9gag.com/gag/aQE1jK8)<!-- MEMES:END -->
 
 ---
 
