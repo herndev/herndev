@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - ⏩ [`I help you`](http://9gag.com/gag/aZD7533)
- - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
+ - 💣 [16 Years after the death of Nicole Van Den Hurk, her stepbrother Andy falsely confessed to killing her to get her body exhumed for DNA testing which lead to the arrest and prosecution of her attacker. Andy believed that his father was responsible for Nicole&#39;s death.](http://9gag.com/gag/ay2oG18)
+ - ⏩ [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 ---
 
