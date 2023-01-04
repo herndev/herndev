@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)
- - [OnePlus 11 is officially here but you’ll have to wait another month to get it](https://www.androidauthority.com/oneplus-11-specs-price-features-availability-3262282/)
- - [This new Withings device wants your pee!](https://www.androidauthority.com/withings-u-scan-3262169/)<!-- TECH:END -->
+ - [Alogic releases slew of new charging tech at CES 2023](https://appleinsider.com/articles/23/01/04/alogic-releases-slew-of-new-charging-tech-at-ces-2023?utm_medium=rss)
+ - [Scams have started impacting Amazon sellers across Pakistan, which Marketplace Pulse says has the third-highest number of registered sellers on the platform &lpar;Rest of World&rpar;](http://www.techmeme.com/230104/p4#a230104p4)
+ - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
