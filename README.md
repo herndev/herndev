@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Lockly Smart Safe pings your iPhone with tamper alerts](https://appleinsider.com/articles/23/01/04/lockly-smart-safe-pings-your-iphone-with-tamper-alerts?utm_medium=rss)
- - [Canon imagePROGRAF TC-20 prints poster size - and beyond](https://appleinsider.com/articles/23/01/04/canon-imageprograf-tc-20-prints-poster-size---and-beyond?utm_medium=rss)
- - [New Apple podcast investigates 1993 World Trade Center bombing](https://appleinsider.com/articles/23/01/04/new-apple-podcast-investigates-1993-world-trade-center-bombing?utm_medium=rss)<!-- TECH:END -->
+ - [If your Internet is good enough, GeForce NOW Ultimate will stream games at 4K and 240 FPS](https://appleinsider.com/articles/23/01/04/nvidia-launches-new-geforce-now-ultimate-tier?utm_medium=rss)
+ - [&#39;Foundation&#39; trailer teases new season &amp; summer release](https://appleinsider.com/articles/23/01/04/foundation-trailer-teases-new-season-summer-release?utm_medium=rss)
+ - [SwitchBot unveils smart home Hub 2 with Matter support](https://appleinsider.com/articles/23/01/04/switchbot-unveils-smart-home-hub-2-with-matter-support?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
