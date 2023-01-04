@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft’s Leeroy Jenkins invades historic Speaker of the House vote](https://www.polygon.com/23539411/hakeem-jeffries-leeroy-jenkins-jared-huffman-speaker-house-vote)
- - [10 Iconic Video Game Intros To Jumpstart Your New Year](https://kotaku.com/best-video-game-intros-2023-bioshock-final-fantasy-1849950665)
- - [Microsoft hopes that adding conversational AI to Bing will actually make people want to use Bing](https://www.pcgamer.com/microsoft-hopes-that-adding-conversational-ai-to-bing-will-actually-make-people-want-to-use-bing)<!-- GAME:END -->
+ - [Hugh Jackman begs Oscar voters not to honor Ryan Reynolds before Deadpool 3](https://www.polygon.com/23539372/hugh-jackman-ryan-reynolds-wolverine-and-deadpool-3-oscars)
+ - [Fallout: London mod shows off working trains, mailbox murderbots](https://www.pcgamer.com/fallout-london-mod-shows-off-working-trains-mailbox-murderbots)
+ - [Star Wars Has Been Used To Sell Some Weird-Ass Products](https://kotaku.com/weird-star-wars-merch-products-toys-1849950795)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
