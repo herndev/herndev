@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Those giga c**ts did it again, got me invested In something that I will never know how it finishes](http://9gag.com/gag/amA5yzj)
- - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
- - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
+ - 💣 [Fireworks in berlin](http://9gag.com/gag/aBdgjmQ)
+ - ⏩ [The worst possible photo your drone can take](http://9gag.com/gag/aoK56me)
+ - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
 
 ---
 
