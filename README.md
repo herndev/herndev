@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2’s new mode gives you godlike powers for the next two weeks](https://www.polygon.com/23537885/overwatch-2-battle-for-olympus-mode-dates)
- - [Amazon&#39;s MMO Covers Up New Hero To Make Her Less Risqué](https://kotaku.com/amazon-lost-ark-the-artist-shorts-tights-lewd-cosmetic-1849946336)
- - [High On Life Reacts To Speedrunners And Cheers Them On](https://kotaku.com/high-on-life-speedrunning-secret-easter-egg-game-pass-1849946291)<!-- GAME:END -->
+ - [Valve&#39;s working on HDR for Linux gaming, paving the way for an eventual OLED Steam Deck](https://www.pcgamer.com/valves-working-on-hdr-for-linux-gaming-paving-the-way-for-an-eventual-oled-steam-deck)
+ - [FIFA 23 players find Ryan Reynolds Easter eggs in the commentary](https://www.polygon.com/23537282/fifa-23-wrexham-easter-egg-ryan-reynolds-rob-mcelhenney-commentary)
+ - [Overwatch 2’s new mode gives you godlike powers for the next two weeks](https://www.polygon.com/23537885/overwatch-2-battle-for-olympus-mode-dates)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
