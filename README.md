@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [HP shows off new USB-C displays &amp; world&#39;s first 45-inch dual QHD curved monitor at CES](https://appleinsider.com/articles/23/01/04/hp-shows-off-new-usb-c-displays-worlds-first-45-inch-dual-qhd-curved-monitor-at-ces?utm_medium=rss)
- - [Asus Chromebook Vibe CX34 Flip is all about cloud gaming at CES 2023](https://www.androidauthority.com/asus-chromebook-vibe-cx34-flip-3262488/)
- - [Pick up a Mac mini with 32GB RAM for $499 today only](https://appleinsider.com/articles/23/01/04/pick-up-a-mac-mini-with-32gb-ram-for-499-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [ViewSonic reveals 27-inch 4K OLED Studio Display competitor, more](https://appleinsider.com/articles/23/01/04/viewsonic-reveals-27-inch-4k-oled-studio-display-competitor-more?utm_medium=rss)
+ - [US officials say the DOJ has seized or is in the process of seizing assets linked to FTX, including ~$450M in Robinhood shares whose ownership is being disputed &lpar;Jack Schickler/CoinDesk&rpar;](http://www.techmeme.com/230104/p24#a230104p24)
+ - [Android will officially support the RISC-V architecture, and that’s a big deal](https://www.androidauthority.com/android-risc-v-support-3262537/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
