@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [This dashcam of your dreams comes with T-Mobile connectivity and AI smarts](https://www.androidauthority.com/nextbase-iq-dashcam-3262328/)
- - [HP reveals the DragonFly Pro in Windows and Chromebook flavors](https://www.androidauthority.com/hp-dragonfly-pro-3259085/)
- - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)<!-- TECH:END -->
+ - [Cooler Master&#39;s new gear is aimed at content creators &amp; enthusiasts](https://appleinsider.com/articles/23/01/04/cooler-masters-new-gear-is-aimed-at-content-creators-enthusiasts?utm_medium=rss)
+ - [Drop’s desktop computer speakers are tempting me to ditch the headset](https://www.theverge.com/2023/1/4/23538580/drop-bmr1-nearfield-monitor-desktop-computer-speakers-ces-price)
+ - [The Global X Fintech ETF dropped 52% in 2022, above the broader financial sector&#39;s 12% drop and Nasdaq Composite Index&#39;s 33%, weighed down by interest rates &lpar;Peter Rudegeair/Wall Street Journal&rpar;](http://www.techmeme.com/230104/p14#a230104p14)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
