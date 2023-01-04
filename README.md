@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [`I help you`](http://9gag.com/gag/aZD7533)
- - ⏩ [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)
- - 👉 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)<!-- MEMES:END -->
+ - 💣 [The Mask](http://9gag.com/gag/aBdgAnZ)
+ - ⏩ [Hope So I find a better one](http://9gag.com/gag/aqegorQ)
+ - 👉 [All we need is ...](http://9gag.com/gag/aA0g8nZ)<!-- MEMES:END -->
 
 ---
 
