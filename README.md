@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alogic releases slew of new charging tech at CES 2023](https://appleinsider.com/articles/23/01/04/alogic-releases-slew-of-new-charging-tech-at-ces-2023?utm_medium=rss)
- - [Scams have started impacting Amazon sellers across Pakistan, which Marketplace Pulse says has the third-highest number of registered sellers on the platform &lpar;Rest of World&rpar;](http://www.techmeme.com/230104/p4#a230104p4)
- - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)<!-- TECH:END -->
+ - [Twitter users in Australia and New Zealand report the service being down for over 12 hours, starting around 6:40am AEST on January 4 &lpar;Zachariah Kelly/Gizmodo Australia&rpar;](http://www.techmeme.com/230104/p6#a230104p6)
+ - [Arm VP Dennis Laudick says the company more than doubled automotive revenue since 2020 thanks to more complex cars; Arm&#39;s 2022 total revenue rose 35% to &amp;pound;2.7B &lpar;Anna Gross/Financial Times&rpar;](http://www.techmeme.com/230104/p5#a230104p5)
+ - [Daily Authority: 📱 OnePlus 11 goes official, Pixel 7a leaks on video, and more](https://www.androidauthority.com/daily-authority-january-4-2023-3262250/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
