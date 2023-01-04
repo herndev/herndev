@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)
- - ⏩ [They outta pocket for that one](http://9gag.com/gag/aXnjOmV)
- - 👉 [Cat cr\u00fcelty](http://9gag.com/gag/aQE1jK8)<!-- MEMES:END -->
+ - 💣 [How to properly deal with these little sh*ts](http://9gag.com/gag/avQoqNO)
+ - ⏩ [May have I downloaded the wrong `Ben 10` movie. Any captain!?](http://9gag.com/gag/aWGEyKA)
+ - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
 
 ---
 
