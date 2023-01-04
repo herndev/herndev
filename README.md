@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How to properly deal with these little sh*ts](http://9gag.com/gag/avQoqNO)
- - ⏩ [May have I downloaded the wrong `Ben 10` movie. Any captain!?](http://9gag.com/gag/aWGEyKA)
- - 👉 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)<!-- MEMES:END -->
+ - 💣 [The future is now](http://9gag.com/gag/a2KR9MO)
+ - ⏩ [I guess 10 year marriage is hitting the wall. I hope I will get custody of my children](http://9gag.com/gag/a8q5OWZ)
+ - 👉 [When the audience discover Frankie Lymon is black, during his performance of Little Bitty Pretty one in 1960](http://9gag.com/gag/armory7)<!-- MEMES:END -->
 
 ---
 
