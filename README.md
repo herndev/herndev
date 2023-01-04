@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple plans to appeal $8.5 million French fine over data privacy](https://appleinsider.com/articles/23/01/04/apple-plans-to-appeal-85-million-french-fine-over-data-privacy?utm_medium=rss)
- - [Cops Hacked Thousands of Phones. Was It Legal?](https://www.wired.com/story/encrochat-phone-police-hacking-encryption-drugs/)
- - [Sources: Sirius XM and Amazon are slowing podcast deals, Spotify is freezing US budget for new podcasts; all three seek to keep 50% of ad revenue vs. 20% before &lpar;Bloomberg&rpar;](http://www.techmeme.com/230104/p21#a230104p21)<!-- TECH:END -->
+ - [HP shows off new USB-C displays &amp; world&#39;s first 45-inch dual QHD curved monitor at CES](https://appleinsider.com/articles/23/01/04/hp-shows-off-new-usb-c-displays-worlds-first-45-inch-dual-qhd-curved-monitor-at-ces?utm_medium=rss)
+ - [Asus Chromebook Vibe CX34 Flip is all about cloud gaming at CES 2023](https://www.androidauthority.com/asus-chromebook-vibe-cx34-flip-3262488/)
+ - [Pick up a Mac mini with 32GB RAM for $499 today only](https://appleinsider.com/articles/23/01/04/pick-up-a-mac-mini-with-32gb-ram-for-499-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
