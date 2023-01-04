@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A butterfly](http://9gag.com/gag/a04Rzxq)
+ - 💣 [What&#39;s happening here?](http://9gag.com/gag/aKEdoEg)
  - ⏩ [It be like that sometimes](http://9gag.com/gag/adP5DbB)
- - 👉 [Bad calculation](http://9gag.com/gag/a3ZR6Pv)<!-- MEMES:END -->
+ - 👉 [The Mask](http://9gag.com/gag/aBdgAnZ)<!-- MEMES:END -->
 
 ---
 
