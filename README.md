@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at Samsung&#39;s TV updates in 2023: Neo QLEDs converting SDR to HDR, futuristic MicroLED TVs, improvements to The Frame, and software and AI updates &lpar;Chris Welch/The Verge&rpar;](http://www.techmeme.com/230104/p10#a230104p10)
- - [You can now buy a wearable sleep tracker for your baby](https://www.androidauthority.com/halo-sleepsure-baby-sleep-tracker-3260248/)
- - [Apple Watch blood oxygen sensor saves skier&#39;s life](https://appleinsider.com/articles/23/01/04/apple-watch-blood-oxygen-sensor-saves-skiers-life?utm_medium=rss)<!-- TECH:END -->
+ - [This dashcam of your dreams comes with T-Mobile connectivity and AI smarts](https://www.androidauthority.com/nextbase-iq-dashcam-3262328/)
+ - [HP reveals the DragonFly Pro in Windows and Chromebook flavors](https://www.androidauthority.com/hp-dragonfly-pro-3259085/)
+ - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
