@@ -43,7 +43,7 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excellent teacher!](http://9gag.com/gag/abvr73X)
+ - 💣 [Reminder that this signal exists.](http://9gag.com/gag/aA0gLjE)
  - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
  - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
