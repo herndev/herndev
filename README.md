@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Report: Indian crypto exchanges lost 81% of trading volume between July and October 2022, as traders turned to foreign exchanges due to India&#39;s new crypto tax &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230104/p3#a230104p3)
- - [Chinese regulators approve Ant Group&#39;s plan to raise ~$1.5B for its consumer unit, signaling progress in the firm&#39;s government-ordered overhaul &lpar;Lulu Yilun Chen/Bloomberg&rpar;](http://www.techmeme.com/230104/p2#a230104p2)
- - [Try These 5 Foolproof Hacks to Calm Your Anxiety at Night     - CNET](https://www.cnet.com/health/sleep/try-these-5-foolproof-hacks-to-calm-your-anxiety-at-night/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [BOE regains Apple&#39;s trust, could supply more iPhone 15 screens than Samsung](https://appleinsider.com/articles/23/01/04/boe-regains-apples-trust-could-supply-more-iphone-15-screens-than-samsung?utm_medium=rss)
+ - [OnePlus 11 is officially here but you’ll have to wait another month to get it](https://www.androidauthority.com/oneplus-11-specs-price-features-availability-3262282/)
+ - [This new Withings device wants your pee!](https://www.androidauthority.com/withings-u-scan-3262169/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
