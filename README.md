@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1 Word: AMSTERDAM...](http://9gag.com/gag/aoK5QwX)
- - ⏩ [I see you baby](http://9gag.com/gag/aZD7KzQ)
- - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
+ - 💣 [`I help you`](http://9gag.com/gag/aZD7533)
+ - ⏩ [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)
+ - 👉 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)<!-- MEMES:END -->
 
 ---
 
