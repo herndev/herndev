@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Phison has its 14GB/s PCIe 5.0 SSD controller ready but there are no drives in sight](https://www.pcgamer.com/phison-has-its-14gbs-pcie-50-ssd-controller-ready-but-there-are-no-drives-in-sight)
- - [Elgato Stream Deck +](https://www.pcgamer.com/elgato-stream-deck-plus-review)
- - [Introducing Zeldathon, a year of Zelda stories](https://www.polygon.com/zelda/23537298/tears-of-the-kingdom-legend-of-zelda-nintendo-switch)<!-- GAME:END -->
+ - [Netflix’s Kaleidoscope has a random order, but there are better paths](https://www.polygon.com/23538715/netflix-kaleidoscope-chronological-best-watch-order)
+ - [Six Things We Just Learned About HBO’s The Last Of Us TV Show](https://kotaku.com/the-last-of-us-hbo-joel-ellie-mandalorian-maisie-willia-1849949334)
+ - [Madden Chaos Continues With Wiped Saves And Botched Presents](https://kotaku.com/ea-madden-nfl-23-franchise-mut-presents-corrupt-save-1849949420)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
