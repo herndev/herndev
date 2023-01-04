@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Suhail Sameer, CEO of New Delhi-based fintech BharatPe, plans to step down to an advisor on January 7, after co-founder Ashneer Grover&#39;s exit in February 2022 &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230103/p34#a230103p34)
- - [The US Federal Reserve, FDIC, and OCC warn banks that issuing or holding crypto &quot;is highly likely to be inconsistent with safe and sound banking practices&quot; &lpar;Paul Kiernan/Wall Street Journal&rpar;](http://www.techmeme.com/230103/p33#a230103p33)
- - [Nanoleaf rolls out new Matter home automation products at CES 2023](https://appleinsider.com/articles/23/01/04/nanoleaf-rolls-out-new-matter-home-automation-products-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [What to expect at CES 2023: advanced driver assistance systems, iterative TV improvements, Matter-compatible smart home devices, laptops, hearables, and more &lpar;The Verge&rpar;](http://www.techmeme.com/230103/p37#a230103p37)
+ - [Twitter&#39;s head of product and engineering Behnam Rezaei and acting head of human resources Katie Marcotte, who was at Twitter for 10 years, have resigned &lpar;Casey Newton/Platformer&rpar;](http://www.techmeme.com/230103/p36#a230103p36)
+ - [Elon Musk bought Twitter, and here’s everything that happened next](https://www.theverge.com/2022/4/11/23019836/elon-musk-twitter-board-of-directors-news-updates)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
