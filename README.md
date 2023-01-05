@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
- - ⏩ [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
- - 👉 [Disgrace](http://9gag.com/gag/aeQ5BKv)<!-- MEMES:END -->
+ - 💣 [Disgrace](http://9gag.com/gag/aeQ5BKv)
+ - ⏩ [No one reads this anyway](http://9gag.com/gag/aNw0yoG)
+ - 👉 [Only fans will understand](http://9gag.com/gag/aDYgBV7)<!-- MEMES:END -->
 
 ---
 
