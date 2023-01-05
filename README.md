@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Project Leonardo is a very different PS5 controller for gamers with disabilities](https://www.androidauthority.com/project-leonardo-3262790/)
- - [Internal email: Fanatics is selling its 60% stake in sports NFT company Candy Digital to an investor group led by Mike Novogratz&#39;s Galaxy Digital &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/230104/p31#a230104p31)
- - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)<!-- TECH:END -->
+ - [Apple quietly launches a catalogue of books narrated by AI on its Books app, in a move that publishers, authors, and agents say could upend the audiobook market &lpar;Leyland Cecco/The Guardian&rpar;](http://www.techmeme.com/230104/p35#a230104p35)
+ - [Qualcomm unveils Snapdragon Ride Flex SoCs for the auto industry that it says can simultaneously support digital cockpit and advanced driver assistance systems &lpar;Tim Sweezy/HotHardware&rpar;](http://www.techmeme.com/230104/p34#a230104p34)
+ - [AMD’s new Ryzen 7000 mobile processors include a massive 16-core chip](https://www.theverge.com/2023/1/4/23539638/amd-ryzen-7945hx-mobile-cpu-laptop-7940hs-ces)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
