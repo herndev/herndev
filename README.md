@@ -29,8 +29,8 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Sony shows off Project Leonardo, its accessibility controller](https://www.pcgamer.com/sony-shows-off-project-leonardo-its-accessibility-controller)
  - [This haunted typewriter is ironically the least creepy use for AI we&#39;ve seen lately](https://www.pcgamer.com/this-haunted-typewriter-is-ironically-the-least-creepy-use-for-ai-weve-seen-lately)
- - [Introducing Project Leonardo for PlayStation 5, a highly customizable accessibility controller kit](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/)
  - [Introducing Project Leonardo for PlayStation 5, a highly customizable accessibility controller kit](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
