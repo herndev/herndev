@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD crams 16 Zen 4 cores into gaming laptops with the Ryzen 7045 Series](https://www.pcgamer.com/amd-crams-16-zen-4-cores-into-gaming-laptops-with-the-ryzen-7045-series)
- - [Noctua delays new 140mm fans by nearly a year due to &#39;strict quality standards&#39;](https://www.pcgamer.com/noctua-delays-new-140mm-fans-by-nearly-a-year-due-to-strict-quality-standards)
- - [Fire Emblem Engage is a wild left turn from Three Houses](https://www.polygon.com/23539224/fire-emblem-engage-preview-impressions-three-houses-nintendo-switch)<!-- GAME:END -->
+ - [Guy Allegedly Stole Hundreds Of Thousands From Work And Then Lost It All On GameStop](https://kotaku.com/office-space-gamestop-meme-stock-crime-theft-1849953405)
+ - [Sony Claims The PlayStation 5 Shortage Is Over In 2023](https://kotaku.com/sony-ps5-supply-stock-availability-where-to-find-1849953356)
+ - [Thank the dark lord that Renfield gives us Nic Cage as Dracula](https://www.polygon.com/23540574/renfield-trailer-nic-cage-dracula-release)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
