@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PlayStation VR2 gets a free Gran Turismo 7 VR update as a launch title](https://www.polygon.com/23540319/playstation-vr2-psvr2-gran-turismo-7-gt7-free-launch-vr-update-ps5)
- - [Destiny 2 Dark Decider: God roll and how to get it](https://www.pcgamer.com/destiny-2-dark-decider-god-roll)
- - [AMD RDNA 3 heads to gaming laptops with cheaper GPUs first to arrive](https://www.pcgamer.com/amd-rdna-3-heads-to-gaming-laptops-with-cheaper-gpus-first-to-arrive)<!-- GAME:END -->
+ - [AMD crams 16 Zen 4 cores into gaming laptops with the Ryzen 7045 Series](https://www.pcgamer.com/amd-crams-16-zen-4-cores-into-gaming-laptops-with-the-ryzen-7045-series)
+ - [Noctua delays new 140mm fans by nearly a year due to &#39;strict quality standards&#39;](https://www.pcgamer.com/noctua-delays-new-140mm-fans-by-nearly-a-year-due-to-strict-quality-standards)
+ - [Fire Emblem Engage is a wild left turn from Three Houses](https://www.polygon.com/23539224/fire-emblem-engage-preview-impressions-three-houses-nintendo-switch)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
