@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The New York City Department of Education, the US&#39; largest school system, bans access to OpenAI&#39;s ChatGPT on school devices and networks, amid cheating concerns &lpar;Michael Elsen-Rooney/Chalkbeat New York&rpar;](http://www.techmeme.com/230104/p30#a230104p30)
- - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
- - [A Transformers-Inspired EV Bike That Folds Up to Fit Under Your Desk     - CNET](https://www.cnet.com/roadshow/news/a-transformers-inspired-ev-bike-that-folds-up-to-fit-under-your-desk/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)
+ - [New Panasonic LUMIX S5II cameras are great for livestreamers](https://appleinsider.com/articles/23/01/04/new-panasonic-lumix-s5ii-cameras-are-great-for-livestreamers?utm_medium=rss)
+ - [The New York City Department of Education, the US&#39; largest school system, bans access to OpenAI&#39;s ChatGPT on school devices and networks, amid cheating concerns &lpar;Michael Elsen-Rooney/Chalkbeat New York&rpar;](http://www.techmeme.com/230104/p30#a230104p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
