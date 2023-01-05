@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Gemini Trust COO Noah Perlman leaves the company, as founders Tyler and Cameron Winklevoss struggle to regain $900M in customer funds lent to DCG&#39;s Genesis &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230105/p8#a230105p8)
- - [iOttie Velox Elite is an actively cooled MagSafe car charger to prevent overheating](https://appleinsider.com/articles/23/01/05/iottie-velox-elite-is-an-actively-cooled-magsafe-car-charger-to-prevent-overheating?utm_medium=rss)
- - [Philips Hue owner Signify launches a Philips Hue Sync TV app for Samsung TVs, available for $130, effectively a software version of the $250M Play HDMI Sync Box &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230105/p7#a230105p7)<!-- TECH:END -->
+ - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
+ - [Kensington launches silent mechanical keyboard, ergonomic trackpads](https://appleinsider.com/articles/23/01/05/kensington-launches-silent-mechanical-keyboard-ergonomic-trackpads?utm_medium=rss)
+ - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
