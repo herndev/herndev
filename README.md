@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 👉 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
+ - 💣 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)
+ - ⏩ [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)
+ - 👉 [Cancer emoji place](http://9gag.com/gag/aDYgKgw)<!-- MEMES:END -->
 
 ---
 
