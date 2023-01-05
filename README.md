@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 📱 A high RISC move for Android?](https://www.androidauthority.com/daily-authority-january-5-2023-3262867/)
- - [Sources: Dell aims to stop using chips made in China by 2024 and tells suppliers to significantly reduce the number of all China-made components in its products &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230105/p4#a230105p4)
- - [CES 2023&#39;s Wildest Highlights: Stunning Cars, 3D Laptops and Shape Shifting Screens     - CNET](https://www.cnet.com/tech/ces-2023s-wildest-highlights-stunning-cars-3d-laptops-and-shape-shifting-screens/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Apple Books ditches voice actors for AI narration](https://appleinsider.com/articles/23/01/05/apple-books-ditches-voice-actors-for-ai-narration?utm_medium=rss)
+ - [Source: FTX&#39;s former top lawyer Daniel Friedberg has cooperated with US prosecutors, telling them what he knew of SBF and others misusing customer funds &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/230105/p6#a230105p6)
+ - [Dune Analytics: 630K+ wallets created 2.82M Ethereum Name Service domains in 2022, including 430K in September, the most, and 52K in December, the least &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230105/p5#a230105p5)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
