@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Aqara debuts HomeKit Secure Video doorbell and deadbolt lock](https://appleinsider.com/articles/23/01/05/aqara-debuts-homekit-secure-video-doorbell-and-deadbolt-lock?utm_medium=rss)
- - [The Best Movies You Missed in 2022—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-2022/)
- - [Apple buys Cupertino office it leased since before Apple Park](https://appleinsider.com/articles/23/01/05/apple-buys-cupertino-office-it-leased-since-before-apple-park?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s first trade sign &amp; Wozniak&#39;s toolbox up for auction](https://appleinsider.com/articles/23/01/05/apples-first-trade-sign-wozniaks-toolbox-up-for-auction?utm_medium=rss)
+ - [Delta and T-Mobile are making in-flight Wi-Fi free for all SkyMiles members](https://www.theverge.com/2023/1/5/23539234/delta-free-wifi-t-mobile-skymiles)
+ - [Thursday’s top tech news: chips, cars, and audiobooks](https://www.theverge.com/2023/1/5/23540275/january-5-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
