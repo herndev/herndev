@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
- - [The Pixel’s January software update has broken auto Bluetooth pairing for some](https://www.androidauthority.com/pixel-auto-bluetooth-pairing-3263107/)
- - [How do you sell over-the-counter hearing aids when nobody knows who you are?](https://www.theverge.com/2023/1/5/23539180/otc-hearing-aids-eargo-nuheara-hp-sony-ces-2023)<!-- TECH:END -->
+ - [The Slow Death of Surveillance Capitalism Has Begun](https://www.wired.com/story/meta-surveillance-capitalism/)
+ - [Qualcomm unveils Snapdragon Satellite, to let phones with a Gen 2 SoC and X70 modem connect to Iridium&#39;s satellites for off-grid texting, available in H2 2023 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230105/p31#a230105p31)
+ - [Ram 1500 Revolution brings muscle car energy — and tons of gimmicks — to EV truck race](https://www.theverge.com/2023/1/5/23540709/ram-1500-revolution-concept-ev-truck-ces-photos-specs)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
