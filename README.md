@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Shieldmaiden Is Available Now for Xbox One and Xbox Series X|S](https://news.xbox.com/en-us/2023/01/05/shieldmaiden-is-available-now-for-xbox-one-and-xbox-series-xs/)
- - [The PS5 shortage is over, says PlayStation boss](https://www.polygon.com/23540717/playstation-5-ps5-where-to-buy-shortage-supply)
- - [How to set up a metal industry in Dwarf Fortress](https://www.polygon.com/guides/23539366/dwarf-fortress-metal-ore-list-bars-alloys-smelting-armor-weapons-uses)<!-- GAME:END -->
+ - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
+ - [Sony&#39;s prototype car could be the start of a gross advertising trend](https://www.pcgamer.com/sonys-prototype-car-could-be-the-start-of-a-gross-advertising-trend)
+ - [CES 2023: The New Windows PC Gaming Devices Coming from Our Top Partners](https://news.xbox.com/en-us/2023/01/05/ces-2023-pc-gaming-round-up-game-pass/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
