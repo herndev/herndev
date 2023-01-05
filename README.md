@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best movies on Netflix right now](https://www.polygon.com/21266801/best-movies-on-netflix)
- - [Sony&#39;s prototype car could be the start of a gross advertising trend](https://www.pcgamer.com/sonys-prototype-car-could-be-the-start-of-a-gross-advertising-trend)
- - [CES 2023: The New Windows PC Gaming Devices Coming from Our Top Partners](https://news.xbox.com/en-us/2023/01/05/ces-2023-pc-gaming-round-up-game-pass/)<!-- GAME:END -->
+ - [The PS5 Is Getting An Ultra Customizable Controller That Lets New Fans Play](https://kotaku.com/ps5-project-leonardo-accessibility-controller-1849954609)
+ - [Sony’s new PS5 controller looks like a big leap for accessibility on PlayStation](https://www.polygon.com/23540502/ps5-accessibility-controller-project-leonardo-sony)
+ - [Dude who founded AGDQ in his mom&#39;s basement 13 years ago is moving on after raising $41 million for charity](https://www.pcgamer.com/dude-who-founded-agdq-in-his-moms-basement-13-years-ago-is-moving-on-after-raising-dollar41-million-for-charity)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
