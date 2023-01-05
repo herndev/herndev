@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The PS5 Is Getting An Ultra Customizable Controller That Lets New Fans Play](https://kotaku.com/ps5-project-leonardo-accessibility-controller-1849954609)
- - [Sony’s new PS5 controller looks like a big leap for accessibility on PlayStation](https://www.polygon.com/23540502/ps5-accessibility-controller-project-leonardo-sony)
- - [Dude who founded AGDQ in his mom&#39;s basement 13 years ago is moving on after raising $41 million for charity](https://www.pcgamer.com/dude-who-founded-agdq-in-his-moms-basement-13-years-ago-is-moving-on-after-raising-dollar41-million-for-charity)<!-- GAME:END -->
+ - [College student made app that exposes AI-written essays](https://www.polygon.com/23540714/chatgpt-plagiarism-app-gptzero-artifical-intelligence-ai)
+ - [PS2 Emulator Development Ceases Following Death Threats](https://kotaku.com/ps2-emulator-android-aethersx2-developer-death-threats-1849955012)
+ - [How to get into Destiny 2](https://www.polygon.com/destiny-2-witch-queen-guide/23392341/beginners-guide-starting-tips-lightfall-expansion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
