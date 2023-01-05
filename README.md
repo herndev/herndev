@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
- - ⏩ [`I help you`](http://9gag.com/gag/aZD7533)
- - 👉 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
+ - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - ⏩ [What is Swiss a beautiful language](http://9gag.com/gag/aoK5bKe)
+ - 👉 [Gender is binary](http://9gag.com/gag/aGEgWbZ)<!-- MEMES:END -->
 
 ---
 
