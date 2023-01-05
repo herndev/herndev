@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
- - [Kensington launches silent mechanical keyboard, ergonomic trackpads](https://appleinsider.com/articles/23/01/05/kensington-launches-silent-mechanical-keyboard-ergonomic-trackpads?utm_medium=rss)
- - [OWC&#39;s Thunderbolt Go Dock has built-in power supply &amp; 11 ports](https://appleinsider.com/articles/23/01/05/owcs-thunderbolt-go-dock-has-built-in-power-supply-11-ports?utm_medium=rss)<!-- TECH:END -->
+ - [Some VCs that held onto stakes in startups after IPOs during the bull market, including Sequoia, Menlo, and Altos, have been left with losses as markets drop &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230105/p12#a230105p12)
+ - [Apple will announce crucial holiday quarter earnings on Feb. 2](https://appleinsider.com/articles/23/01/04/apple-to-announce-first-quarter-earnings-on-february-2?utm_medium=rss)
+ - [Apple hasn&#39;t cut iPhone orders, says Foxconn source](https://appleinsider.com/articles/23/01/05/apple-hasnt-cut-iphone-orders-says-foxconn-source?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
