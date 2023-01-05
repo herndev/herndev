@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)
- - [Lenovo ThinkPhone hands-on: The business phone you might actually buy](https://www.androidauthority.com/lenovo-thinkphone-hands-on-3262084/)
- - [WhatsApp launches proxy support globally, letting users with blocked or disrupted connections access WhatsApp via servers set up by volunteers and others &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230105/p20#a230105p20)<!-- TECH:END -->
+ - [Satechi launches Thunderbolt Slim Hub, USB4 SSD enclosure at CES 2023](https://appleinsider.com/articles/23/01/05/satechi-launches-thunderbolt-slim-hub-usb4-ssd-enclosure-at-ces-2023?utm_medium=rss)
+ - [Peloton fined $19M over terrible handling of dangerous treadmills](https://appleinsider.com/articles/23/01/05/peloton-fined-19m-over-terrible-handling-of-dangerous-treadmills?utm_medium=rss)
+ - [Stitch Fix plans to cut 20% of its 1,700 salaried staff and founder Katrina Lake will reassume her role as CEO after current CEO Elizabeth Spaulding steps down &lpar;Gabrielle Fonrouge/CNBC&rpar;](http://www.techmeme.com/230105/p22#a230105p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
