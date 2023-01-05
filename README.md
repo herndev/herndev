@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 565 answer and hint for Thursday, January 5](https://www.pcgamer.com/wordle-565-answer-january-5)
  - [How the high-end horror movie The Menu connects to Game of Thrones and Succession](https://www.polygon.com/23467161/the-menu-succession-game-of-thrones-director-interview-mark-mylod)
- - [Sony shows off Project Leonardo, its accessibility controller](https://www.pcgamer.com/sony-shows-off-project-leonardo-its-accessibility-controller)
- - [This haunted typewriter is ironically the least creepy use for AI we&#39;ve seen lately](https://www.pcgamer.com/this-haunted-typewriter-is-ironically-the-least-creepy-use-for-ai-weve-seen-lately)<!-- GAME:END -->
+ - [Sony shows off Project Leonardo, its accessibility controller](https://www.pcgamer.com/sony-shows-off-project-leonardo-its-accessibility-controller)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
