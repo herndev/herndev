@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 👉 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
+ - 💣 [Excellent teacher!](http://9gag.com/gag/abvr73X)
+ - ⏩ [Tough](http://9gag.com/gag/aDYg9jx)
+ - 👉 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)<!-- MEMES:END -->
 
 ---
 
