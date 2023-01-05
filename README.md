@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - ⏩ [Handmade candy canes](http://9gag.com/gag/aDYgE3O)
- - 👉 [That battery pack](http://9gag.com/gag/awZo6nR)<!-- MEMES:END -->
+ - 💣 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - ⏩ [That battery pack](http://9gag.com/gag/awZo6nR)
+ - 👉 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)<!-- MEMES:END -->
 
 ---
 
