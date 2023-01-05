@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [AMD&#39;s new 3D V-Cache CPUs are hella quick but there&#39;s no clear pick for gamers](https://www.pcgamer.com/amds-new-3d-v-cache-cpus-are-hella-quick-but-theres-no-clear-pick-for-gamers)
- - [&#39;We win… and it&#39;s your fault!&#39;—Dwarf Fortress hits almost half a million sold in under a month](https://www.pcgamer.com/we-win-and-its-your-faultdwarf-fortress-hits-almost-half-a-million-sold-in-under-a-month)
- - [Where to buy an Nvidia RTX 4070 Ti today: early retailer listings from $840–$1,050](https://www.pcgamer.com/where-to-buy-rtx-4070-ti)<!-- GAME:END -->
+ - [PlayStation VR2 gets a free Gran Turismo 7 VR update as a launch title](https://www.polygon.com/23540319/playstation-vr2-psvr2-gran-turismo-7-gt7-free-launch-vr-update-ps5)
+ - [Destiny 2 Dark Decider: God roll and how to get it](https://www.pcgamer.com/destiny-2-dark-decider-god-roll)
+ - [AMD RDNA 3 heads to gaming laptops with cheaper GPUs first to arrive](https://www.pcgamer.com/amd-rdna-3-heads-to-gaming-laptops-with-cheaper-gpus-first-to-arrive)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
