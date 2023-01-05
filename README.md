@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
- - ⏩ [But...size doesn&#39;t matter](http://9gag.com/gag/ay2oyeb)
- - 👉 [This is BOAK the Russian partisan group sabotaging Putin: \u201cRussia is ours\u201d 44 sabotages in 2022 already 6 sabotages in 2023 &lpar;VIDEO in description&rpar;](http://9gag.com/gag/abvrjjX)<!-- MEMES:END -->
+ - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - ⏩ [Grandma Visit](http://9gag.com/gag/aoK5Beg)
+ - 👉 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
 
 ---
 
