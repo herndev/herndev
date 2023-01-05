@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Hugh Jackman begs Oscar voters not to honor Ryan Reynolds before Deadpool 3](https://www.polygon.com/23539372/hugh-jackman-ryan-reynolds-wolverine-and-deadpool-3-oscars)
- - [Fallout: London mod shows off working trains, mailbox murderbots](https://www.pcgamer.com/fallout-london-mod-shows-off-working-trains-mailbox-murderbots)
- - [Star Wars Has Been Used To Sell Some Weird-Ass Products](https://kotaku.com/weird-star-wars-merch-products-toys-1849950795)<!-- GAME:END -->
+ - [Congressman Does Leeroy Jenkins Impression Amid Republican Meltdown](https://kotaku.com/world-warcraft-leeroy-jenkins-congress-mccarthy-gaetz-1849951155)
+ - [The January PC game releases and events you should know about](https://www.pcgamer.com/pc-game-releases-jan-2023)
+ - [Hugh Jackman begs Oscar voters not to honor Ryan Reynolds before Deadpool 3](https://www.polygon.com/23539372/hugh-jackman-ryan-reynolds-wolverine-and-deadpool-3-oscars)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
