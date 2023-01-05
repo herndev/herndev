@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
- - ⏩ [The dog rushed at the child, the father defended](http://9gag.com/gag/aL10yQV)
- - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
+ - ⏩ [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
+ - 👉 [Disgrace](http://9gag.com/gag/aeQ5BKv)<!-- MEMES:END -->
 
 ---
 
