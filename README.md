@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Books ditches voice actors for AI narration](https://appleinsider.com/articles/23/01/05/apple-books-ditches-voice-actors-for-ai-narration?utm_medium=rss)
- - [Source: FTX&#39;s former top lawyer Daniel Friedberg has cooperated with US prosecutors, telling them what he knew of SBF and others misusing customer funds &lpar;Angus Berwick/Reuters&rpar;](http://www.techmeme.com/230105/p6#a230105p6)
- - [Dune Analytics: 630K+ wallets created 2.82M Ethereum Name Service domains in 2022, including 430K in September, the most, and 52K in December, the least &lpar;Shaurya Malwa/CoinDesk&rpar;](http://www.techmeme.com/230105/p5#a230105p5)<!-- TECH:END -->
+ - [Gemini Trust COO Noah Perlman leaves the company, as founders Tyler and Cameron Winklevoss struggle to regain $900M in customer funds lent to DCG&#39;s Genesis &lpar;Olga Kharif/Bloomberg&rpar;](http://www.techmeme.com/230105/p8#a230105p8)
+ - [iOttie Velox Elite is an actively cooled MagSafe car charger to prevent overheating](https://appleinsider.com/articles/23/01/05/iottie-velox-elite-is-an-actively-cooled-magsafe-car-charger-to-prevent-overheating?utm_medium=rss)
+ - [Philips Hue owner Signify launches a Philips Hue Sync TV app for Samsung TVs, available for $130, effectively a software version of the $250M Play HDMI Sync Box &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230105/p7#a230105p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
