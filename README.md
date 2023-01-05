@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [‘The hardest part was the poop’: An oral history of Babylon’s explosive elephant opening](https://www.polygon.com/23522938/babylon-elephant-poop-scene-damien-chazelle-oral-history)
- - [TikTokers speedrunning time-to-Marmaduke on Apple TV is the best wholesome fun](https://www.polygon.com/23541237/apple-tv-suggestions-speedrun-tiktok-marmaduke-minions)
- - [God Of War Is Still The GOAT For Opening Boss Fights](https://kotaku.com/god-of-war-ragnarok-thor-kratos-santa-monica-studio-1849955416)<!-- GAME:END -->
+ - [2022 was the year the dam broke on major videogame unions](https://www.pcgamer.com/2022-was-the-year-the-dam-broke-on-major-videogame-unions)
+ - [7 times potentially awesome content was cut from a game during development](https://www.pcgamer.com/best-cut-content-games)
+ - [HTC finally shows its Meta Quest 2 rival wireless VR headset](https://www.pcgamer.com/htc-finally-shows-its-meta-quest-2-rival-wireless-vr-headset)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
