@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple quietly launches a catalogue of books narrated by AI on its Books app, in a move that publishers, authors, and agents say could upend the audiobook market &lpar;Leyland Cecco/The Guardian&rpar;](http://www.techmeme.com/230104/p35#a230104p35)
- - [Qualcomm unveils Snapdragon Ride Flex SoCs for the auto industry that it says can simultaneously support digital cockpit and advanced driver assistance systems &lpar;Tim Sweezy/HotHardware&rpar;](http://www.techmeme.com/230104/p34#a230104p34)
- - [AMD’s new Ryzen 7000 mobile processors include a massive 16-core chip](https://www.theverge.com/2023/1/4/23539638/amd-ryzen-7945hx-mobile-cpu-laptop-7940hs-ces)<!-- TECH:END -->
+ - [The US SEC accuses alleged fraudster Neil Chandran and four others of scamming investors for $45M+ on the false promise of selling blockchain technology &lpar;Jesse Hamilton/CoinDesk&rpar;](http://www.techmeme.com/230104/p38#a230104p38)
+ - [AMD announces Ryzen 7040 series processors with on-chip AI](https://www.androidauthority.com/amd-ryzen-7040-series-processors-3262821/)
+ - [CircleCI says it&#39;s investigating a &quot;security incident&quot; and &quot;out of an abundance of caution&quot; all customers should &quot;rotate any and all secrets stored in CircleCI&quot; &lpar;Rob Zuber/CircleCI&rpar;](http://www.techmeme.com/230104/p37#a230104p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
