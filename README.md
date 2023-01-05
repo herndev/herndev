@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [AMD&#39;s new 3D V-Cache CPUs are hella quick but there&#39;s no clear pick for gamers](https://www.pcgamer.com/amds-new-3d-v-cache-cpus-are-hella-quick-but-theres-no-clear-pick-for-gamers)
  - [&#39;We win… and it&#39;s your fault!&#39;—Dwarf Fortress hits almost half a million sold in under a month](https://www.pcgamer.com/we-win-and-its-your-faultdwarf-fortress-hits-almost-half-a-million-sold-in-under-a-month)
- - [Where to buy an Nvidia RTX 4070 Ti today: early retailer listings from $840–$1,050](https://www.pcgamer.com/where-to-buy-rtx-4070-ti)
- - [Gran Turismo movie looks a lot like Gran Turismo, a bit less like a movie](https://www.polygon.com/23540282/gran-turismo-movie-first-trailer-release-date)<!-- GAME:END -->
+ - [Where to buy an Nvidia RTX 4070 Ti today: early retailer listings from $840–$1,050](https://www.pcgamer.com/where-to-buy-rtx-4070-ti)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
