@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Dell plans to stop using chips made in China by 2024 and tells suppliers to significantly reduce the number of China-made components in its products &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230105/p4#a230105p4)
- - [CircleCI says it&#39;s investigating &quot;a security incident&quot; and &quot;out of an abundance of caution&quot; all customers should &quot;rotate any and all secrets stored in CircleCI&quot; &lpar;Ax Sharma/BleepingComputer&rpar;](http://www.techmeme.com/230105/p3#a230105p3)
- - [Asus’ new Xbox controller rocks an OLED display and tri-mode connectivity](https://www.androidauthority.com/asus-rog-raikiri-pro-xbox-controller-3262864/)<!-- TECH:END -->
+ - [Daily Authority: 📱 A high RISC move for Android?](https://www.androidauthority.com/daily-authority-january-5-2023-3262867/)
+ - [Sources: Dell aims to stop using chips made in China by 2024 and tells suppliers to significantly reduce the number of all China-made components in its products &lpar;Cheng Ting-Fang/Nikkei Asia&rpar;](http://www.techmeme.com/230105/p4#a230105p4)
+ - [CES 2023&#39;s Wildest Highlights: Stunning Cars, 3D Laptops and Shape Shifting Screens     - CNET](https://www.cnet.com/tech/ces-2023s-wildest-highlights-stunning-cars-3d-laptops-and-shape-shifting-screens/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
