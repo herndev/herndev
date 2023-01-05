@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nice car collection you have there, it will be shame if](http://9gag.com/gag/abvrP8X)
- - ⏩ [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - 👉 [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)<!-- MEMES:END -->
+ - 💣 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
+ - ⏩ [The dog rushed at the child, the father defended](http://9gag.com/gag/aL10yQV)
+ - 👉 [`I help you`](http://9gag.com/gag/aZD7533)<!-- MEMES:END -->
 
 ---
 
