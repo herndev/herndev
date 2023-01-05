@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Michael Jackson telling Oprah about his Lightened Skin](http://9gag.com/gag/a9qRG2o)
- - ⏩ [Tough](http://9gag.com/gag/aDYg9jx)
- - 👉 [I see you baby](http://9gag.com/gag/aZD7KzQ)<!-- MEMES:END -->
+ - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - ⏩ [Handmade candy canes](http://9gag.com/gag/aDYgE3O)
+ - 👉 [That battery pack](http://9gag.com/gag/awZo6nR)<!-- MEMES:END -->
 
 ---
 
