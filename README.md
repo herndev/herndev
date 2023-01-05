@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Congressman Does Leeroy Jenkins Impression Amid Republican Meltdown](https://kotaku.com/world-warcraft-leeroy-jenkins-congress-mccarthy-gaetz-1849951155)
- - [The January PC game releases and events you should know about](https://www.pcgamer.com/pc-game-releases-jan-2023)
- - [Hugh Jackman begs Oscar voters not to honor Ryan Reynolds before Deadpool 3](https://www.polygon.com/23539372/hugh-jackman-ryan-reynolds-wolverine-and-deadpool-3-oscars)<!-- GAME:END -->
+ - [Strategy-RPGs to look forward to in 2023](https://www.pcgamer.com/strategy-rpgs-to-look-forward-to-in-2023)
+ - [Vampire Survivors studio says it couldn&#39;t find a &#39;non-predatory&#39; mobile developer, so it did the job itself](https://www.pcgamer.com/vampire-survivors-studio-says-it-couldnt-find-a-non-predatory-mobile-developer-so-it-did-the-job-itself)
+ - [Congressman Does Leeroy Jenkins Impression Amid Republican Meltdown](https://kotaku.com/world-warcraft-leeroy-jenkins-congress-mccarthy-gaetz-1849951155)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
