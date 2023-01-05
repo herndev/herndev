@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [College student made app that exposes AI-written essays](https://www.polygon.com/23540714/chatgpt-plagiarism-app-gptzero-artifical-intelligence-ai)
- - [PS2 Emulator Development Ceases Following Death Threats](https://kotaku.com/ps2-emulator-android-aethersx2-developer-death-threats-1849955012)
- - [How to get into Destiny 2](https://www.polygon.com/destiny-2-witch-queen-guide/23392341/beginners-guide-starting-tips-lightfall-expansion)<!-- GAME:END -->
+ - [You’re telling me Emily hasn’t been in Paris for a year yet?](https://www.polygon.com/23540603/emily-paris-season-3)
+ - [Crappy Mobile Games Accidentally Led To The Best Version Of Vampire Survivors](https://kotaku.com/vampire-survivors-free-iphone-steam-mobile-smartphone-1849955308)
+ - [This Gritty Steam Shooter Is Your Next PC Gaming Addiction](https://kotaku.com/zero-sievert-steam-pc-game-extraction-shooter-tarkov-1849955431)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
