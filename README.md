@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: crypto lender Genesis Global laid off 30% of its staff, after cutting 20% of its 260 workforce in 2022, and is considering filing for bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230105/p29#a230105p29)
- - [The best Android emulators for PC and Mac of 2023](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
- - [Pick up a Mac mini with 32GB RAM for $499 today only](https://appleinsider.com/articles/23/01/04/pick-up-a-mac-mini-with-32gb-ram-for-499-today-only?utm_medium=rss)<!-- TECH:END -->
+ - [Find the best AI-powered app to transcribe your audio](https://www.theverge.com/23316220/transcription-ai-otter-temi-how-to)
+ - [The Pixel’s January software update has broken auto Bluetooth pairing for some](https://www.androidauthority.com/pixel-auto-bluetooth-pairing-3263107/)
+ - [How do you sell over-the-counter hearing aids when nobody knows who you are?](https://www.theverge.com/2023/1/5/23539180/otc-hearing-aids-eargo-nuheara-hp-sony-ces-2023)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
