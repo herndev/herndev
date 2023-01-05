@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [You’re telling me Emily hasn’t been in Paris for a year yet?](https://www.polygon.com/23540603/emily-paris-season-3)
- - [Crappy Mobile Games Accidentally Led To The Best Version Of Vampire Survivors](https://kotaku.com/vampire-survivors-free-iphone-steam-mobile-smartphone-1849955308)
- - [This Gritty Steam Shooter Is Your Next PC Gaming Addiction](https://kotaku.com/zero-sievert-steam-pc-game-extraction-shooter-tarkov-1849955431)<!-- GAME:END -->
+ - [‘The hardest part was the poop’: An oral history of Babylon’s explosive elephant opening](https://www.polygon.com/23522938/babylon-elephant-poop-scene-damien-chazelle-oral-history)
+ - [TikTokers speedrunning time-to-Marmaduke on Apple TV is the best wholesome fun](https://www.polygon.com/23541237/apple-tv-suggestions-speedrun-tiktok-marmaduke-minions)
+ - [God Of War Is Still The GOAT For Opening Boss Fights](https://kotaku.com/god-of-war-ragnarok-thor-kratos-santa-monica-studio-1849955416)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
