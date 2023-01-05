@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)
- - [New Panasonic LUMIX S5II cameras are great for livestreamers](https://appleinsider.com/articles/23/01/04/new-panasonic-lumix-s5ii-cameras-are-great-for-livestreamers?utm_medium=rss)
- - [The New York City Department of Education, the US&#39; largest school system, bans access to OpenAI&#39;s ChatGPT on school devices and networks, amid cheating concerns &lpar;Michael Elsen-Rooney/Chalkbeat New York&rpar;](http://www.techmeme.com/230104/p30#a230104p30)<!-- TECH:END -->
+ - [Project Leonardo is a very different PS5 controller for gamers with disabilities](https://www.androidauthority.com/project-leonardo-3262790/)
+ - [Internal email: Fanatics is selling its 60% stake in sports NFT company Candy Digital to an investor group led by Mike Novogratz&#39;s Galaxy Digital &lpar;Ian Thomas/CNBC&rpar;](http://www.techmeme.com/230104/p31#a230104p31)
+ - [Sony Releases Its First Accessible Controller](https://www.wired.com/story/sony-releases-first-accessible-controller-project-leonardo/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
