@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some VCs that held onto stakes in startups after IPOs during the bull market, including Sequoia, Menlo, and Altos, have been left with losses as markets drop &lpar;Berber Jin/Wall Street Journal&rpar;](http://www.techmeme.com/230105/p12#a230105p12)
- - [Apple will announce crucial holiday quarter earnings on Feb. 2](https://appleinsider.com/articles/23/01/04/apple-to-announce-first-quarter-earnings-on-february-2?utm_medium=rss)
- - [Apple hasn&#39;t cut iPhone orders, says Foxconn source](https://appleinsider.com/articles/23/01/05/apple-hasnt-cut-iphone-orders-says-foxconn-source?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone coming after Samsung&#39;s last bastion - the South Korean government](https://appleinsider.com/articles/23/01/05/iphone-coming-after-samsungs-last-bastion---the-south-korean-government?utm_medium=rss)
+ - [Amazon adds four partners for its Sidewalk network, including Deviceroy&#39;s Aria solar inverters, and plans to open the platform for developers later in 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230105/p14#a230105p14)
+ - [Ring Car Cam &amp; new Peephole Cam launch at CES 2023](https://appleinsider.com/articles/23/01/05/ring-car-cam-new-peephole-cam-launch-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
