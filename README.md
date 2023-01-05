@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - ⏩ [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - 👉 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
+ - 💣 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
+ - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 👉 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)<!-- MEMES:END -->
 
 ---
 
