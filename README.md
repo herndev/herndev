@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [This peacock pecked at his own reflection on a BMW for over half an hour](http://9gag.com/gag/awZowor)
- - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
- - 👉 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)<!-- MEMES:END -->
+ - 💣 [Nice car collection you have there, it will be shame if](http://9gag.com/gag/abvrP8X)
+ - ⏩ [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - 👉 [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)<!-- MEMES:END -->
 
 ---
 
