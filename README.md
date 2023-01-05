@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)
- - ⏩ [It\u2019s a sin?](http://9gag.com/gag/a9qRQPo)
- - 👉 [Savage Vegeta!](http://9gag.com/gag/aZD7Arn)<!-- MEMES:END -->
+ - 💣 [Pikachu face, blink blink](http://9gag.com/gag/aEqg4xo)
+ - ⏩ [Oh shit.](http://9gag.com/gag/ap95OOE)
+ - 👉 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 ---
 
