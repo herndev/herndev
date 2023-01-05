@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sync your Hue lights with your Samsung TV natively for $130](https://appleinsider.com/articles/23/01/04/sync-your-hue-lights-with-your-samsung-tv-natively-for-130?utm_medium=rss)
- - [Hyper&#39;s new SSD enclosure &amp; docks are made with recycled material](https://appleinsider.com/articles/23/01/04/hypers-new-ssd-enclosure-docks-are-made-with-recycled-material?utm_medium=rss)
- - [Asus unveils Vivobook Pro 16X and ProArt Studiobook 16 laptops, with 3.2K, 120Hz 16&quot; glasses-free 3D OLED displays &lpar;Monica Chin/The Verge&rpar;](http://www.techmeme.com/230104/p26#a230104p26)<!-- TECH:END -->
+ - [Sources: Amazon plans to lay off over 17,000 employees, more than the 10,000 workers it expected in November 2022, with new cuts starting over the coming weeks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230104/p28#a230104p28)
+ - [Asus upgrades the Zenbook 14X with Raptor Lake CPUs and faster refresh rate](https://www.androidauthority.com/asus-zenbook-14x-3262599/)
+ - [Deals: Anker 577 Thunderbolt Docking Station 13-in-1 is now only $199](https://appleinsider.com/articles/23/01/04/deals-anker-577-thunderbolt-docking-station-13-in-1-is-now-only-199?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
