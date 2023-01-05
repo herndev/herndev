@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Strategy-RPGs to look forward to in 2023](https://www.pcgamer.com/strategy-rpgs-to-look-forward-to-in-2023)
- - [Vampire Survivors studio says it couldn&#39;t find a &#39;non-predatory&#39; mobile developer, so it did the job itself](https://www.pcgamer.com/vampire-survivors-studio-says-it-couldnt-find-a-non-predatory-mobile-developer-so-it-did-the-job-itself)
- - [Congressman Does Leeroy Jenkins Impression Amid Republican Meltdown](https://kotaku.com/world-warcraft-leeroy-jenkins-congress-mccarthy-gaetz-1849951155)<!-- GAME:END -->
+ - [Introducing Project Leonardo for PlayStation 5, a highly customizable accessibility controller kit](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/)
+ - [Introducing Project Leonardo for PlayStation 5, a highly customizable accessibility controller kit](https://blog.playstation.com/2023/01/04/introducing-project-leonardo-for-playstation-5-a-highly-customizable-accessibility-controller-kit/)
+ - [Strategy-RPGs to look forward to in 2023](https://www.pcgamer.com/strategy-rpgs-to-look-forward-to-in-2023)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
