@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never swim in the Great Lakes...](http://9gag.com/gag/anz5pX0)
- - ⏩ [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - 👉 [The power of being a good D sucker.](http://9gag.com/gag/aQE1L1d)<!-- MEMES:END -->
+ - 💣 [Dead on arrival.](http://9gag.com/gag/a9qRo9D)
+ - ⏩ [I&#39;m pretty sure that cats see things that we can not see. This video was taken hours after the dog passed away. They were best friends.](http://9gag.com/gag/a8q5Zgd)
+ - 👉 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)<!-- MEMES:END -->
 
 ---
 
