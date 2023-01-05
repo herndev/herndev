@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [WhatsApp adds official proxy support to help users circumvent internet blocks](https://www.theverge.com/2023/1/5/23540307/whatsapp-official-proxy-support-internet-blocks-bans)
- - [Lenovo’s new all-in-one is all screen](https://www.theverge.com/2023/1/5/23539129/lenovo-yoga-aio-9i-display-charging-pad)
- - [Lenovo made a Kindle Scribe](https://www.theverge.com/2023/1/5/23535581/lenovo-smart-paper-e-ink-kindle-notes-thinkbook-plus-twist)<!-- TECH:END -->
+ - [Victrola Stream Onyx plays vinyl through Sonos smart speakers](https://appleinsider.com/articles/23/01/05/victrola-stream-onyx-plays-vinyl-through-sonos-smart-speakers?utm_medium=rss)
+ - [Lenovo ThinkPhone hands-on: The business phone you might actually buy](https://www.androidauthority.com/lenovo-thinkphone-hands-on-3262084/)
+ - [WhatsApp launches proxy support globally, letting users with blocked or disrupted connections access WhatsApp via servers set up by volunteers and others &lpar;Matt Burgess/Wired&rpar;](http://www.techmeme.com/230105/p20#a230105p20)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
