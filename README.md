@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [The dog rushed at the child, the father defended](http://9gag.com/gag/aL10yQV)
- - ⏩ [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
+ - 💣 [This peacock pecked at his own reflection on a BMW for over half an hour](http://9gag.com/gag/awZowor)
+ - ⏩ [Cancer emoji place](http://9gag.com/gag/aDYgKgw)
  - 👉 [You&#39;ll Never See A Happier Bride](http://9gag.com/gag/a8q5OMp)<!-- MEMES:END -->
 
 ---
