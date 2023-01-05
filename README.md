@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Satechi launches Thunderbolt Slim Hub, USB4 SSD enclosure at CES 2023](https://appleinsider.com/articles/23/01/05/satechi-launches-thunderbolt-slim-hub-usb4-ssd-enclosure-at-ces-2023?utm_medium=rss)
- - [Peloton fined $19M over terrible handling of dangerous treadmills](https://appleinsider.com/articles/23/01/05/peloton-fined-19m-over-terrible-handling-of-dangerous-treadmills?utm_medium=rss)
- - [Stitch Fix plans to cut 20% of its 1,700 salaried staff and founder Katrina Lake will reassume her role as CEO after current CEO Elizabeth Spaulding steps down &lpar;Gabrielle Fonrouge/CNBC&rpar;](http://www.techmeme.com/230105/p22#a230105p22)<!-- TECH:END -->
+ - [Aqara debuts HomeKit Secure Video doorbell and deadbolt lock](https://appleinsider.com/articles/23/01/05/aqara-debuts-homekit-secure-video-doorbell-and-deadbolt-lock?utm_medium=rss)
+ - [The Best Movies You Missed in 2022—and Where to Watch Them](https://www.wired.com/story/best-movies-you-missed-2022/)
+ - [Apple buys Cupertino office it leased since before Apple Park](https://appleinsider.com/articles/23/01/05/apple-buys-cupertino-office-it-leased-since-before-apple-park?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
