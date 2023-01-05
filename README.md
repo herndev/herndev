@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Amazon plans to lay off over 17,000 employees, more than the 10,000 workers it expected in November 2022, with new cuts starting over the coming weeks &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230104/p28#a230104p28)
- - [Asus upgrades the Zenbook 14X with Raptor Lake CPUs and faster refresh rate](https://www.androidauthority.com/asus-zenbook-14x-3262599/)
- - [Deals: Anker 577 Thunderbolt Docking Station 13-in-1 is now only $199](https://appleinsider.com/articles/23/01/04/deals-anker-577-thunderbolt-docking-station-13-in-1-is-now-only-199?utm_medium=rss)<!-- TECH:END -->
+ - [The New York City Department of Education, the US&#39; largest school system, bans access to OpenAI&#39;s ChatGPT on school devices and networks, amid cheating concerns &lpar;Michael Elsen-Rooney/Chalkbeat New York&rpar;](http://www.techmeme.com/230104/p30#a230104p30)
+ - [SECURAM launches smart light and smart dimmer switches](https://appleinsider.com/articles/23/01/05/securam-launches-smart-light-and-smart-dimmer-switches?utm_medium=rss)
+ - [A Transformers-Inspired EV Bike That Folds Up to Fit Under Your Desk     - CNET](https://www.cnet.com/roadshow/news/a-transformers-inspired-ev-bike-that-folds-up-to-fit-under-your-desk/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
