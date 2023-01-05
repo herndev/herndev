@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Batgirl &lpar;2022&rpar; film footage, Leslie Grace close-up running..............Ohhhh, that&#39;s why they&#39;re not releasing it.](http://9gag.com/gag/ay2oK5Y)
- - ⏩ [That battery pack](http://9gag.com/gag/awZo6nR)
- - 👉 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)<!-- MEMES:END -->
+ - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
+ - ⏩ [`I help you`](http://9gag.com/gag/aZD7533)
+ - 👉 [Tough](http://9gag.com/gag/aDYg9jx)<!-- MEMES:END -->
 
 ---
 
