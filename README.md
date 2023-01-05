@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
- - ⏩ [What is Swiss a beautiful language](http://9gag.com/gag/aoK5bKe)
- - 👉 [Gender is binary](http://9gag.com/gag/aGEgWbZ)<!-- MEMES:END -->
+ - 💣 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)
+ - ⏩ [Goodnight sweet prince](http://9gag.com/gag/a4oRDxy)
+ - 👉 [Loading up PlayStation 1 on a gigantic screen](http://9gag.com/gag/aWGEwoq)<!-- MEMES:END -->
 
 ---
 
