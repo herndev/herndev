@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone coming after Samsung&#39;s last bastion - the South Korean government](https://appleinsider.com/articles/23/01/05/iphone-coming-after-samsungs-last-bastion---the-south-korean-government?utm_medium=rss)
- - [Amazon adds four partners for its Sidewalk network, including Deviceroy&#39;s Aria solar inverters, and plans to open the platform for developers later in 2023 &lpar;Frederic Lardinois/TechCrunch&rpar;](http://www.techmeme.com/230105/p14#a230105p14)
- - [Ring Car Cam &amp; new Peephole Cam launch at CES 2023](https://appleinsider.com/articles/23/01/05/ring-car-cam-new-peephole-cam-launch-at-ces-2023?utm_medium=rss)<!-- TECH:END -->
+ - [WhatsApp adds official proxy support to help users circumvent internet blocks](https://www.theverge.com/2023/1/5/23540307/whatsapp-official-proxy-support-internet-blocks-bans)
+ - [Lenovo’s new all-in-one is all screen](https://www.theverge.com/2023/1/5/23539129/lenovo-yoga-aio-9i-display-charging-pad)
+ - [Lenovo made a Kindle Scribe](https://www.theverge.com/2023/1/5/23535581/lenovo-smart-paper-e-ink-kindle-notes-thinkbook-plus-twist)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
