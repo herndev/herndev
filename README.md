@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s first trade sign &amp; Wozniak&#39;s toolbox up for auction](https://appleinsider.com/articles/23/01/05/apples-first-trade-sign-wozniaks-toolbox-up-for-auction?utm_medium=rss)
- - [Delta and T-Mobile are making in-flight Wi-Fi free for all SkyMiles members](https://www.theverge.com/2023/1/5/23539234/delta-free-wifi-t-mobile-skymiles)
- - [Thursday’s top tech news: chips, cars, and audiobooks](https://www.theverge.com/2023/1/5/23540275/january-5-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [Sources: crypto lender Genesis Global laid off 30% of its staff, after cutting 20% of its 260 workforce in 2022, and is considering filing for bankruptcy &lpar;Wall Street Journal&rpar;](http://www.techmeme.com/230105/p29#a230105p29)
+ - [The best Android emulators for PC and Mac of 2023](https://www.androidauthority.com/best-android-emulators-for-pc-655308/)
+ - [Pick up a Mac mini with 32GB RAM for $499 today only](https://appleinsider.com/articles/23/01/04/pick-up-a-mac-mini-with-32gb-ram-for-499-today-only?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
