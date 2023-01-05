@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Grandma Visit](http://9gag.com/gag/aoK5Beg)
- - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 👉 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)<!-- MEMES:END -->
+ - 💣 [Never swim in the Great Lakes...](http://9gag.com/gag/anz5pX0)
+ - ⏩ [Reason for consultation: it itches under the cast](http://9gag.com/gag/a5XR4jy)
+ - 👉 [The power of being a good D sucker.](http://9gag.com/gag/aQE1L1d)<!-- MEMES:END -->
 
 ---
 
