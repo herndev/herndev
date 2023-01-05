@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Excellent teacher!](http://9gag.com/gag/abvr73X)
- - ⏩ [Tough](http://9gag.com/gag/aDYg9jx)
- - 👉 [Borzoi, mauler of those who maul children themselves](http://9gag.com/gag/aPgR5RP)<!-- MEMES:END -->
+ - 💣 [A short and witty title does the trick](http://9gag.com/gag/aDYgKyw)
+ - ⏩ [It\u2019s a sin?](http://9gag.com/gag/a9qRQPo)
+ - 👉 [Savage Vegeta!](http://9gag.com/gag/aZD7Arn)<!-- MEMES:END -->
 
 ---
 
