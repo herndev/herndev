@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [World of Warcraft support studio to form third union under Activision Blizzard](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote)
- - [GTA 5 players pay tribute to departed rally driver Ken Block in the best way possible: with sick stunts](https://www.pcgamer.com/gta-5-players-pay-tribute-to-departed-rally-driver-ken-block-in-the-best-way-possible-with-sick-stunts)
- - [Baba Files Taxes makes light of the upcoming tax season](https://www.polygon.com/23541369/baba-is-you-files-taxes-2023-tax-season)<!-- GAME:END -->
+ - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)
+ - [Let It Die battle royale spinoff Deathverse is getting only kinda canceled](https://www.polygon.com/23542272/deathverse-let-it-die-offline-suspension-service-canceled)
+ - [A Fatal Warzone 2 Glitch Is Making Helicopters Explode](https://kotaku.com/cod-warzone-2-helicopter-glitch-reddit-activision-1849958729)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
