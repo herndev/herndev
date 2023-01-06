@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Deals Jan. 6: Save $50 on Apple Watch Series 8, Kindle Scribe 14% off &amp; more](https://appleinsider.com/articles/23/01/06/daily-deals-jan-6-save-50-on-apple-watch-series-8-kindle-scribe-14-off-more?utm_medium=rss)
- - [Apple loses market share in China as iPhone shipment decline peaks](https://appleinsider.com/articles/23/01/06/apple-loses-market-share-in-china-as-iphone-shipment-decline-peaks?utm_medium=rss)
- - [Rackspace will discontinue its Exchange service after confirming hackers accessed the personal data of 27 customers during the December 2022 ransomware attack &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230106/p8#a230106p8)<!-- TECH:END -->
+ - [Researchers: cybercriminals look for ways to use ChatGPT to create hacking tools, share AI generated malware code in forums, discuss creating dating scam bots &lpar;Thomas Brewster/Forbes&rpar;](http://www.techmeme.com/230106/p10#a230106p10)
+ - [Satechi reveals 200W 6-Port USB-C GaN charger at CES 2023](https://appleinsider.com/articles/23/01/06/satechi-reveals-200w-6-port-usb-c-gan-charger-at-ces-2023?utm_medium=rss)
+ - [iPhone SE 4 allegedly canceled over Apple&#39;s 5G modem failures](https://appleinsider.com/articles/23/01/06/iphone-se-4-allegedly-canceled-over-apples-5g-modem-failures?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
