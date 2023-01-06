@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)
- - [Let It Die battle royale spinoff Deathverse is getting only kinda canceled](https://www.polygon.com/23542272/deathverse-let-it-die-offline-suspension-service-canceled)
- - [A Fatal Warzone 2 Glitch Is Making Helicopters Explode](https://kotaku.com/cod-warzone-2-helicopter-glitch-reddit-activision-1849958729)<!-- GAME:END -->
+ - [Finally, a device that will let you smell anime](https://www.pcgamer.com/finally-a-device-that-will-let-you-smell-anime)
+ - [Let’s Kill High On Life’s Most Annoying Boss](https://kotaku.com/high-on-life-nipulon-boss-fight-beat-game-pass-1849959194)
+ - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
