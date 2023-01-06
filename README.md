@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 566 answer and hint for Friday, January 6](https://www.pcgamer.com/wordle-566-answer-january-6)
  - [The Duke Nukem Forever leaker just dropped the source code for another beloved &#39;90s FPS](https://www.pcgamer.com/the-duke-nukem-forever-leaker-just-dropped-the-source-code-for-another-beloved-90s-fps)
- - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)
- - [After &#39;Retiring,&#39; Vince McMahon Wants Back In WWE](https://kotaku.com/vince-mcmahon-wwe-wrestling-return-retirement-raw-1849956387)<!-- GAME:END -->
+ - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
