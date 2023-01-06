@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Irish DPC&#39;s &amp;euro;390M Meta fine, issued at the behest of European Data Protection Board, is a harbinger of how EU may crack down on Big Tech in the next two years &lpar;Parmy Olson/Bloomberg&rpar;](http://www.techmeme.com/230106/p14#a230106p14)
- - [Best TV for 2023: Samsung, TCL, LG and More     - CNET](https://www.cnet.com/tech/home-entertainment/best-tv/#ftag=CAD590a51e)
- - [Why This Decked-Out Smart Mixer is Actually a Big Deal     - CNET](https://www.cnet.com/news/why-this-decked-out-smart-mixer-is-actually-a-big-deal/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Some Twitter staff in the US and other countries laid off by Elon Musk in November say they had not received information about the severance they were promised &lpar;Wired&rpar;](http://www.techmeme.com/230106/p15#a230106p15)
+ - [Microsoft is running an ad in The Washington Post to say that it’s cool with unions](https://www.theverge.com/2023/1/6/23543005/microsoft-washington-post-ad-cwa-unions)
+ - [Software engineer allegedly stole $300K from an e-commerce site by copying Office Space](https://www.theverge.com/2023/1/6/23542859/office-space-fraud-zulily-employee-security)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
