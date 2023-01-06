@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung expects Q4 operating profit fell by 69% YoY to $3.37B, an eight-year low, citing a greater than expected decline in memory chip demand &lpar;CNBC&rpar;](http://www.techmeme.com/230105/p37#a230105p37)
  - [Sources: the White House is set to unveil a strategy in the coming weeks that calls for cybersecurity regulation impacting all critical US infrastructure &lpar;Washington Post&rpar;](http://www.techmeme.com/230105/p36#a230105p36)
- - [3AC liquidators have subpoenaed founders Zhu Su and Kyle Davies, who have resisted cooperation, via Twitter to disclose documents related to the fund&#39;s collapse &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230105/p35#a230105p35)
- - [Razer Blade 16 hands-on: a dream gaming laptop](https://www.theverge.com/2023/1/5/23541521/razer-blade-16-18-gaming-laptop-hands-on-ces)<!-- TECH:END -->
+ - [3AC liquidators have subpoenaed founders Zhu Su and Kyle Davies, who have resisted cooperation, via Twitter to disclose documents related to the fund&#39;s collapse &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230105/p35#a230105p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
