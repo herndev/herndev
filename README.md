@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Let&#39;s not forget this](http://9gag.com/gag/adP5302)
- - ⏩ [I bet Shutterstock and other stock websites love this](http://9gag.com/gag/aVbwjEw)
- - 👉 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)<!-- MEMES:END -->
+ - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - ⏩ [Now you know your shit](http://9gag.com/gag/a8qGLLY)
+ - 👉 [Don&#39;t let go](http://9gag.com/gag/aKE7wBW)<!-- MEMES:END -->
 
 ---
 
