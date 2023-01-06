@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [How I met your mother](http://9gag.com/gag/aA0gn8p)
- - ⏩ [The simplest creatures in the world.](http://9gag.com/gag/awZB06D)
- - 👉 [Tony Timpa... remember his name.](http://9gag.com/gag/aXngb9d)<!-- MEMES:END -->
+ - 💣 [Mike Tyson on how he got into boxing](http://9gag.com/gag/avQz0GE)
+ - ⏩ [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
+ - 👉 [Oh no](http://9gag.com/gag/armVvy0)<!-- MEMES:END -->
 
 ---
 
