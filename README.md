@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Finally, a device that will let you smell anime](https://www.pcgamer.com/finally-a-device-that-will-let-you-smell-anime)
- - [Let’s Kill High On Life’s Most Annoying Boss](https://kotaku.com/high-on-life-nipulon-boss-fight-beat-game-pass-1849959194)
- - [Trigun Stampede’s Pilot Episode Puts Any Gripes Over CGI Anime To Rest](https://kotaku.com/trigun-stampede-remake-anime-crunchyroll-review-cgi-1849959172)<!-- GAME:END -->
+ - [This Among Us Copycat Is Now More Popular Than The Original On Steam](https://kotaku.com/among-us-goose-goose-duck-steam-pc-bts-kpop-1849959829)
+ - [The Internet Wants To Get Murdered By Clue&#39;s Sexy New Cast](https://kotaku.com/new-clue-2023-hasbro-sexy-bi-chef-white-mustard-horny-1849959653)
+ - [These are the city builders I&#39;m most excited about in 2023](https://www.pcgamer.com/city-builder-games-2023-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
