@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Slow Death of Surveillance Capitalism Has Begun](https://www.wired.com/story/meta-surveillance-capitalism/)
- - [Qualcomm unveils Snapdragon Satellite, to let phones with a Gen 2 SoC and X70 modem connect to Iridium&#39;s satellites for off-grid texting, available in H2 2023 &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230105/p31#a230105p31)
- - [Ram 1500 Revolution brings muscle car energy — and tons of gimmicks — to EV truck race](https://www.theverge.com/2023/1/5/23540709/ram-1500-revolution-concept-ev-truck-ces-photos-specs)<!-- TECH:END -->
+ - [Leaked press renders of the Galaxy S23 series colors show green, pink, and more](https://www.androidauthority.com/samsung-galaxy-s23-colors-3263421/)
+ - [Memo: Genesis parent company DCG shut its wealth management division HQ on January 2; filing: HQ had more than $3.5B under management as of December 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230105/p32#a230105p32)
+ - [Tiny Satellite Called Mario Sends Extremely Mario Message Back to Earth     - CNET](https://www.cnet.com/science/space/tiny-satellite-called-mario-sends-extremely-mario-message-back-to-earth/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
