@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo: due to development issues, Apple is &quot;more likely&quot; to debut its mixed-reality headset in the spring or at WWDC than in January as previously predicted &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230106/p3#a230106p3)
- - [Pixel 7 owners report ‘spontaneously’ shattering camera glass](https://www.theverge.com/2023/1/6/23542070/pixel-7-shattered-camera-glass-problems-hot-cold-temperatures-warranty-fix)
- - [Cake’s first e-bike can go over 200 miles before needing a charge](https://www.theverge.com/2023/1/6/23542058/cake-aik-electric-bike-specs-price-date)<!-- TECH:END -->
+ - [iLive 3-in-1 Wireless Charging Stand review: A quirky travel charger](https://appleinsider.com/articles/23/01/06/ilive-3-in-1-wireless-charging-stand-review-a-quirky-travel-charger?utm_medium=rss)
+ - [Salesforce&#39;s layoffs hit Tableau, acquired for $15.7B in 2019, harder than other divisions, after CEO Mark Nelson was ousted in late December 2022 &lpar;Brody Ford/Bloomberg&rpar;](http://www.techmeme.com/230106/p4#a230106p4)
+ - [Best CES announcements, Apple Books AI narration, LastPass &amp; password managers](https://appleinsider.com/articles/23/01/06/best-ces-announcements-apple-books-ai-narration-lastpass-password-managers?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
