@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
- - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
+ - 💣 [Shaq On Yao Ming](http://9gag.com/gag/aA0eYKR)
+ - ⏩ [She walked right into that one.](http://9gag.com/gag/aZDyPOp)
+ - 👉 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)<!-- MEMES:END -->
 
 ---
 
