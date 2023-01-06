@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
- - ⏩ [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
- - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
+ - 💣 [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - ⏩ [The simplest creatures in the world.](http://9gag.com/gag/awZB06D)
+ - 👉 [Tony Timpa... remember his name.](http://9gag.com/gag/aXngb9d)<!-- MEMES:END -->
 
 ---
 
