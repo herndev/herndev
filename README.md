@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - ⏩ [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - 👉 [Oh shit.](http://9gag.com/gag/ap95OOE)<!-- MEMES:END -->
+ - 💣 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
+ - ⏩ [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - 👉 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
 
 ---
 
