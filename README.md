@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Resisting arrest &lpar;NSFW&rpar;](http://9gag.com/gag/aqenmA7)
- - ⏩ [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
- - 👉 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)<!-- MEMES:END -->
+ - 💣 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
+ - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
+ - 👉 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
 
 ---
 
