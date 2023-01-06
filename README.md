@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mike Tyson on how he got into boxing](http://9gag.com/gag/avQz0GE)
- - ⏩ [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
- - 👉 [Oh no](http://9gag.com/gag/armVvy0)<!-- MEMES:END -->
+ - 💣 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
 
 ---
 
