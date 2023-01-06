@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Leaked press renders of the Galaxy S23 series colors show green, pink, and more](https://www.androidauthority.com/samsung-galaxy-s23-colors-3263421/)
- - [Memo: Genesis parent company DCG shut its wealth management division HQ on January 2; filing: HQ had more than $3.5B under management as of December 2022 &lpar;Kate Clark/The Information&rpar;](http://www.techmeme.com/230105/p32#a230105p32)
- - [Tiny Satellite Called Mario Sends Extremely Mario Message Back to Earth     - CNET](https://www.cnet.com/science/space/tiny-satellite-called-mario-sends-extremely-mario-message-back-to-earth/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung Expects Profit to Plummet 69% in Fourth Quarter     - CNET](https://www.cnet.com/tech/mobile/samsung-expects-profit-to-plummet-69-in-fourth-quarter/#ftag=CAD590a51e)
+ - [Twitter verified a Washington Post columnist&#39;s fake US Senator Ed Markey account, after Elon Musk said &quot;all verified accounts will be manually authenticated&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230105/p34#a230105p34)
+ - [Razer Ups Its Gaming Gear for 2023 with 18-inch Blade, Accessories     - CNET](https://www.cnet.com/tech/computing/razer-ups-its-gaming-gear-for-2023-with-18-inch-blade-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
