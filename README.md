@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [3AC liquidators have subpoenaed founders Zhu Su and Kyle Davies, who have resisted cooperation, via Twitter to disclose documents related to the fund&#39;s collapse &lpar;Ana Paula Pereira/Cointelegraph&rpar;](http://www.techmeme.com/230105/p35#a230105p35)
  - [Samsung Expects Profit to Plummet 69% in Fourth Quarter     - CNET](https://www.cnet.com/tech/mobile/samsung-expects-profit-to-plummet-69-in-fourth-quarter/#ftag=CAD590a51e)
- - [Twitter verified a Washington Post columnist&#39;s fake US Senator Ed Markey account, after Elon Musk said &quot;all verified accounts will be manually authenticated&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230105/p34#a230105p34)
- - [Razer Ups Its Gaming Gear for 2023 with 18-inch Blade, Accessories     - CNET](https://www.cnet.com/tech/computing/razer-ups-its-gaming-gear-for-2023-with-18-inch-blade-accessories/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Twitter verified a Washington Post columnist&#39;s fake US Senator Ed Markey account, after Elon Musk said &quot;all verified accounts will be manually authenticated&quot; &lpar;Geoffrey A. Fowler/Washington Post&rpar;](http://www.techmeme.com/230105/p34#a230105p34)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
