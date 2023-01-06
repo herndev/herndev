@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Shaq On Yao Ming](http://9gag.com/gag/aA0eYKR)
- - ⏩ [She walked right into that one.](http://9gag.com/gag/aZDyPOp)
- - 👉 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)<!-- MEMES:END -->
+ - 💣 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
+ - ⏩ [This guy uses a kitten to call back mama cat and she instantly responds to lovely kitten](http://9gag.com/gag/aWGx04x)
+ - 👉 [Day off. It&#39;s raining. No chores to do. Finally starting this game.](http://9gag.com/gag/aXngEyD)<!-- MEMES:END -->
 
 ---
 
