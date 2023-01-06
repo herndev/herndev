@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [2022 was the year the dam broke on major videogame unions](https://www.pcgamer.com/2022-was-the-year-the-dam-broke-on-major-videogame-unions)
- - [7 times potentially awesome content was cut from a game during development](https://www.pcgamer.com/best-cut-content-games)
- - [HTC finally shows its Meta Quest 2 rival wireless VR headset](https://www.pcgamer.com/htc-finally-shows-its-meta-quest-2-rival-wireless-vr-headset)<!-- GAME:END -->
+ - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)
+ - [After &#39;Retiring,&#39; Vince McMahon Wants Back In WWE](https://kotaku.com/vince-mcmahon-wwe-wrestling-return-retirement-raw-1849956387)
+ - [Bloober on Silent Hill 2 remake: &#39;We want to stick close to the original&#39;](https://www.pcgamer.com/bloober-on-silent-hill-2-remake-we-want-to-stick-close-to-the-original)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
