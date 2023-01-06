@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Shaik Salauddin, an Uber driver turned union leader, who has become a quasi-celebrity in India after fighting for gig worker rights in the country &lpar;Varsha Bansal/Rest of World&rpar;](http://www.techmeme.com/230106/p2#a230106p2)
- - [New Apple Card users can get a &#39;free&#39; Wall Street Journal subscription](https://appleinsider.com/articles/23/01/06/new-apple-card-users-can-get-a-free-wall-street-journal-subscription?utm_medium=rss)
- - [Samsung profits plummet 69% on falling demand for processors](https://appleinsider.com/articles/23/01/06/samsung-profits-plummet-69-on-falling-demand-for-processors?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: due to development issues, Apple is &quot;more likely&quot; to debut its mixed-reality headset in the spring or at WWDC than in January as previously predicted &lpar;Eric Slivka/MacRumors&rpar;](http://www.techmeme.com/230106/p3#a230106p3)
+ - [Pixel 7 owners report ‘spontaneously’ shattering camera glass](https://www.theverge.com/2023/1/6/23542070/pixel-7-shattered-camera-glass-problems-hot-cold-temperatures-warranty-fix)
+ - [Cake’s first e-bike can go over 200 miles before needing a charge](https://www.theverge.com/2023/1/6/23542058/cake-aik-electric-bike-specs-price-date)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
