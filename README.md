@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)
- - ⏩ [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - 👉 [This explains why the bunker wasn\u2019t draining.](http://9gag.com/gag/aBdgBW1)<!-- MEMES:END -->
+ - 💣 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
+ - ⏩ [Oh shit.](http://9gag.com/gag/ap95OOE)
+ - 👉 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
 
 ---
 
