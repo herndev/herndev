@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 👉 [I\u2019ve been asking her since 3 years ago](http://9gag.com/gag/aVb0ngd)<!-- MEMES:END -->
+ - 💣 [You know, the first one](http://9gag.com/gag/aYVyjP7)
+ - ⏩ [I know that&#39;s a big a$ headset..i $uck at photoshop..lol](http://9gag.com/gag/agoA09x)
+ - 👉 [That was fast. Bradleys for Ukraine already spotted](http://9gag.com/gag/aYVyp87)<!-- MEMES:END -->
 
 ---
 
