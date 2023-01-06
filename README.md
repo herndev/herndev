@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [LG&#39;s beautiful 97-inch OLED TV wants you to ditch those ugly cables](https://www.pcgamer.com/lgs-beautiful-97-inch-oled-tv-wants-you-to-ditch-those-ugly-cables)
- - [AI-Controlled VTuber Streams Games On Twitch, Denies Holocaust](https://kotaku.com/vtuber-twitch-holocaust-denial-minecraft-ai-chatgpt-1849960527)
- - [Genshin Impact’s Biggest Annual Update Has Surprising Reveals About A Mysterious Character](https://kotaku.com/genshin-impact-alhaitham-yaoyao-xiao-hoyoverse-update-1849960580)<!-- GAME:END -->
+ - [Redfall creative director says Arkane&#39;s vampire shooter is not like Left 4 Dead &#39;at all&#39;](https://www.pcgamer.com/redfall-creative-director-says-arkanes-vampire-shooter-is-not-like-left-4-dead-at-all)
+ - [Does M3GAN have a post-credits scene?](https://www.polygon.com/23543047/m3gan-post-credits-scene-megan-sequel-ending-explained)
+ - [Pokémon anime will end Ash’s journey with a reunion of old pals](https://www.polygon.com/23542929/pokemon-anime-ash-leaving-brock-misty-reunion)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
