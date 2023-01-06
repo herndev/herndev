@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [MSI made a stylus that is also a pencil](https://www.theverge.com/2023/1/6/23542513/msi-pen-2-creator-z-17-hands-on-preview-stylus-laptop-haptic-pencil)
- - [Twitter Promised Them Severance. They Got Nothing](https://www.wired.com/story/twitter-employees-severance/)
- - [Dridex banking malware modified to spread using macOS](https://appleinsider.com/articles/23/01/06/dridex-banking-malware-modified-to-spread-using-macos?utm_medium=rss)<!-- TECH:END -->
+ - [The EPA wants to strengthen air pollution rules — does its plan do enough?](https://www.theverge.com/2023/1/6/23542368/environmental-protection-agency-rule-soot-particulate-matter-pollution)
+ - [Seven free alternatives to the LastPass password manager](https://www.theverge.com/22285499/password-manager-lastpass-free-bitwarden-zoho)
+ - [Amazon S3 will now automatically encrypt all new objects added on buckets on the server side using AES-256; AWS has had server-side encryption for over a decade &lpar;Bill Toulas/BleepingComputer&rpar;](http://www.techmeme.com/230106/p13#a230106p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
