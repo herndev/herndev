@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [People can’t stop thirsting over the new Clue characters](https://www.polygon.com/23542567/new-clue-chef-white-hot-online)
- - [Netflix’s Christian Bale horror mystery The Pale Blue Eye is at its best when it gets pulpy](https://www.polygon.com/reviews/23540723/the-pale-blue-eye-netflix-review-christian-bale)
- - [Halo 3&#39;s Holy Grail, the &#39;Pimps at Sea&#39; build, has leaked](https://www.pcgamer.com/halo-3s-holy-grail-the-pimps-at-sea-build-has-leaked)<!-- GAME:END -->
+ - [LG&#39;s beautiful 97-inch OLED TV wants you to ditch those ugly cables](https://www.pcgamer.com/lgs-beautiful-97-inch-oled-tv-wants-you-to-ditch-those-ugly-cables)
+ - [AI-Controlled VTuber Streams Games On Twitch, Denies Holocaust](https://kotaku.com/vtuber-twitch-holocaust-denial-minecraft-ai-chatgpt-1849960527)
+ - [Genshin Impact’s Biggest Annual Update Has Surprising Reveals About A Mysterious Character](https://kotaku.com/genshin-impact-alhaitham-yaoyao-xiao-hoyoverse-update-1849960580)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
