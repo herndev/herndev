@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
- - ⏩ [Battery huh ?](http://9gag.com/gag/avQzpq5)
- - 👉 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)<!-- MEMES:END -->
+ - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
+ - ⏩ [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
+ - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
 
 ---
 
