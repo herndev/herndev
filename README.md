@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You know, the first one](http://9gag.com/gag/aYVyjP7)
- - ⏩ [I know that&#39;s a big a$ headset..i $uck at photoshop..lol](http://9gag.com/gag/agoA09x)
- - 👉 [That was fast. Bradleys for Ukraine already spotted](http://9gag.com/gag/aYVyp87)<!-- MEMES:END -->
+ - 💣 [Skillfully threaded..](http://9gag.com/gag/axo9N6n)
+ - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
+ - 👉 [Crazy frog..](http://9gag.com/gag/aGEdV0n)<!-- MEMES:END -->
 
 ---
 
