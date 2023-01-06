@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)
- - ⏩ [No one reads this anyway](http://9gag.com/gag/aNw0yoG)
- - 👉 [Hodgkin\u2019s Lymphoma, specifically](http://9gag.com/gag/aRE0xdM)<!-- MEMES:END -->
+ - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - ⏩ [Battery huh ?](http://9gag.com/gag/avQzpq5)
+ - 👉 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)<!-- MEMES:END -->
 
 ---
 
