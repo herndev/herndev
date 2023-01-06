@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [You can literally see her 2 braincells trying to figure that out...](http://9gag.com/gag/ap95yYE)
- - ⏩ [This is probably the only solution at the moment](http://9gag.com/gag/aPgRKjn)
- - 👉 [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)<!-- MEMES:END -->
+ - ⏩ [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)
+ - 👉 [This is probably the only solution at the moment](http://9gag.com/gag/aPgRKjn)<!-- MEMES:END -->
 
 ---
 
