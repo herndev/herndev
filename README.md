@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s M2 MacBook Air with 16GB RAM is $150 off &amp; in stock](https://appleinsider.com/articles/23/01/06/apples-m2-macbook-air-with-16gb-ram-is-150-off-in-stock?utm_medium=rss)
- - [Daily Deals Jan. 6: Save $50 on Apple Watch Series 8, Kindle Scribe 14% off &amp; more](https://appleinsider.com/articles/23/01/06/daily-deals-jan-6-save-50-on-apple-watch-series-8-kindle-scribe-14-off-more?utm_medium=rss)
- - [Bengaluru-based KreditBee, which operates a digital lending service for personal loans, raised a $100M Series D extension, bringing the round&#39;s total to $200M &lpar;Manish Singh/TechCrunch&rpar;](http://www.techmeme.com/230106/p6#a230106p6)<!-- TECH:END -->
+ - [Wear OS no longer needs your phone for Google Maps navigation](https://www.androidauthority.com/wear-os-google-maps-2-3263665/)
+ - [Last call to grab Microsoft Office for Mac Home &amp; Business 2021 for $29.99](https://appleinsider.com/articles/23/01/06/last-call-to-grab-microsoft-office-for-mac-home-business-2021-for-2999?utm_medium=rss)
+ - [Sources: Taiwan&#39;s space agency plans a low-earth orbit satellite communications project to help resist any attacks by China, inspired by Starlink in Ukraine &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230106/p7#a230106p7)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
