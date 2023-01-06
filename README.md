@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap’s powerful Leader gets a nerf, with more on the way](https://www.polygon.com/23542287/marvel-snap-leader-nerf-card-patch-notes)
- - [Neon White achieved in 60 seconds what Dying Light 2 couldn&#39;t in 60 hours](https://www.pcgamer.com/neon-white-achieved-in-60-seconds-what-dying-light-2-couldnt-in-60-hours)
- - [Base your entire PC setup around this inconceivably bad NFT anime](https://www.pcgamer.com/base-your-entire-pc-setup-around-this-inconceivably-bad-anime)<!-- GAME:END -->
+ - [World of Warcraft support studio to form third union under Activision Blizzard](https://www.polygon.com/23541125/proletariat-activision-blizzard-union-vote)
+ - [GTA 5 players pay tribute to departed rally driver Ken Block in the best way possible: with sick stunts](https://www.pcgamer.com/gta-5-players-pay-tribute-to-departed-rally-driver-ken-block-in-the-best-way-possible-with-sick-stunts)
+ - [Baba Files Taxes makes light of the upcoming tax season](https://www.polygon.com/23541369/baba-is-you-files-taxes-2023-tax-season)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
