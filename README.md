@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Next Week on Xbox: New Games for January 9 to 13](https://news.xbox.com/en-us/2023/01/06/next-week-on-xbox-new-games-for-january-9-to-13/)
- - [Razer&#39;s new soundbar is tracking my head in the name of better audio](https://www.pcgamer.com/razer-leviathan-v2-pro-first-impressions-beamforming)
- - [US House speaker vote treated to its own &lpar;accidental&rpar; Leeroy Jenkins sideshow](https://www.pcgamer.com/us-house-speaker-vote-treated-to-its-own-accidental-leeroy-jenkins-sideshow)<!-- GAME:END -->
+ - [Marvel Snap’s powerful Leader gets a nerf, with more on the way](https://www.polygon.com/23542287/marvel-snap-leader-nerf-card-patch-notes)
+ - [Neon White achieved in 60 seconds what Dying Light 2 couldn&#39;t in 60 hours](https://www.pcgamer.com/neon-white-achieved-in-60-seconds-what-dying-light-2-couldnt-in-60-hours)
+ - [Base your entire PC setup around this inconceivably bad NFT anime](https://www.pcgamer.com/base-your-entire-pc-setup-around-this-inconceivably-bad-anime)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
