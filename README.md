@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Wear OS no longer needs your phone for Google Maps navigation](https://www.androidauthority.com/wear-os-google-maps-2-3263665/)
- - [Last call to grab Microsoft Office for Mac Home &amp; Business 2021 for $29.99](https://appleinsider.com/articles/23/01/06/last-call-to-grab-microsoft-office-for-mac-home-business-2021-for-2999?utm_medium=rss)
- - [Sources: Taiwan&#39;s space agency plans a low-earth orbit satellite communications project to help resist any attacks by China, inspired by Starlink in Ukraine &lpar;Kathrin Hille/Financial Times&rpar;](http://www.techmeme.com/230106/p7#a230106p7)<!-- TECH:END -->
+ - [Daily Deals Jan. 6: Save $50 on Apple Watch Series 8, Kindle Scribe 14% off &amp; more](https://appleinsider.com/articles/23/01/06/daily-deals-jan-6-save-50-on-apple-watch-series-8-kindle-scribe-14-off-more?utm_medium=rss)
+ - [Apple loses market share in China as iPhone shipment decline peaks](https://appleinsider.com/articles/23/01/06/apple-loses-market-share-in-china-as-iphone-shipment-decline-peaks?utm_medium=rss)
+ - [Rackspace will discontinue its Exchange service after confirming hackers accessed the personal data of 27 customers during the December 2022 ransomware attack &lpar;Carly Page/TechCrunch&rpar;](http://www.techmeme.com/230106/p8#a230106p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
