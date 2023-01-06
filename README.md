@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Look at the size of this Salamander!](http://9gag.com/gag/a04N8wQ)
- - ⏩ [Oh shit.](http://9gag.com/gag/ap95OOE)
- - 👉 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
+ - 💣 [Beacouuuuuuuse\ud83e\udd23](http://9gag.com/gag/aXng01b)
+ - ⏩ [No one reads this anyway](http://9gag.com/gag/aNw0yoG)
+ - 👉 [Hodgkin\u2019s Lymphoma, specifically](http://9gag.com/gag/aRE0xdM)<!-- MEMES:END -->
 
 ---
 
