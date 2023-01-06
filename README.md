@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Newly released footage from inside helicopter during fatal mid-air collision &lpar;2023, Queensland Australia&rpar;](http://9gag.com/gag/aeQ5o3v)
- - ⏩ [This guy uses a kitten to call back mama cat and she instantly responds to lovely kitten](http://9gag.com/gag/aWGx04x)
- - 👉 [Day off. It&#39;s raining. No chores to do. Finally starting this game.](http://9gag.com/gag/aXngEyD)<!-- MEMES:END -->
+ - 💣 [Huh... Good luck 2023](http://9gag.com/gag/aqeg3zv)
+ - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
+ - 👉 [I\u2019ve been asking her since 3 years ago](http://9gag.com/gag/aVb0ngd)<!-- MEMES:END -->
 
 ---
 
