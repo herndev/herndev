@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
- - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
+ - 💣 [Resisting arrest &lpar;NSFW&rpar;](http://9gag.com/gag/aqenmA7)
+ - ⏩ [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
+ - 👉 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)<!-- MEMES:END -->
 
 ---
 
