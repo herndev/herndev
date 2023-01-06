@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - ⏩ [You look different](http://9gag.com/gag/adPVNdZ)
- - 👉 [Sometimes that&#39;s how it is](http://9gag.com/gag/abvGqyE)<!-- MEMES:END -->
+ - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
+ - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
+ - 👉 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
 
 ---
 
