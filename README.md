@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 566 answer and hint for Friday, January 6](https://www.pcgamer.com/wordle-566-answer-january-6)
- - [The Duke Nukem Forever leaker just dropped the source code for another beloved &#39;90s FPS](https://www.pcgamer.com/the-duke-nukem-forever-leaker-just-dropped-the-source-code-for-another-beloved-90s-fps)
- - [Oops: Microsoft Called FTC Unconstitutional, Regrets The Error](https://kotaku.com/microsoft-activision-xbox-ftc-lawsuit-unconstitutional-1849956418)<!-- GAME:END -->
+ - [M3GAN is gleeful, unhinged fun — but it’s smarter than it looks](https://www.polygon.com/23540740/m3gan-movie-review-release-date-cast)
+ - [Microsoft realises criticising the FTC&#39;s constitutionality was dumb and offers a forelock-tugging retraction](https://www.pcgamer.com/microsoft-realises-criticising-the-ftcs-constitutionality-was-dumb-and-offers-a-forelock-tugging-retraction)
+ - [Three months after release and with no players, Let It Die&#39;s sequel is being mothballed](https://www.pcgamer.com/three-months-after-release-and-with-no-players-let-it-dies-sequel-is-being-mothballed)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
