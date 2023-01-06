@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh shit.](http://9gag.com/gag/ap95OOE)
- - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 👉 [How I met your mother](http://9gag.com/gag/aA0gn8p)<!-- MEMES:END -->
+ - 💣 [When you have a female PT.](http://9gag.com/gag/a8q5ZDV)
+ - ⏩ [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - 👉 [For people who post real NSFW!!!](http://9gag.com/gag/a6qKmee)<!-- MEMES:END -->
 
 ---
 
