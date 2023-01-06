@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You can literally see her 2 braincells trying to figure that out...](http://9gag.com/gag/ap95yYE)
- - ⏩ [Pokemon gotta...](http://9gag.com/gag/aGEgWpX)
- - 👉 [This is probably the only solution at the moment](http://9gag.com/gag/aPgRKjn)<!-- MEMES:END -->
+ - 💣 [Let&#39;s not forget this](http://9gag.com/gag/adP5302)
+ - ⏩ [I bet Shutterstock and other stock websites love this](http://9gag.com/gag/aVbwjEw)
+ - 👉 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)<!-- MEMES:END -->
 
 ---
 
