@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Amazon Prime’s free games for January: The Evil Within 2, Lawn Mowing Simulator](https://www.polygon.com/23542119/amazon-prime-gaming-free-games-january-2023)
- - [Guilty Gear Strive streamers are being hammered by hackers](https://www.pcgamer.com/guilty-gear-strive-streamers-are-being-hammered-by-hackers)
- - [M3GAN is gleeful, unhinged fun — but it’s smarter than it looks](https://www.polygon.com/23540740/m3gan-movie-review-release-date-cast)<!-- GAME:END -->
+ - [Next Week on Xbox: New Games for January 9 to 13](https://news.xbox.com/en-us/2023/01/06/next-week-on-xbox-new-games-for-january-9-to-13/)
+ - [Razer&#39;s new soundbar is tracking my head in the name of better audio](https://www.pcgamer.com/razer-leviathan-v2-pro-first-impressions-beamforming)
+ - [US House speaker vote treated to its own &lpar;accidental&rpar; Leeroy Jenkins sideshow](https://www.pcgamer.com/us-house-speaker-vote-treated-to-its-own-accidental-leeroy-jenkins-sideshow)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
