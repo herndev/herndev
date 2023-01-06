@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
- - ⏩ [Now you know your shit](http://9gag.com/gag/a8qGLLY)
- - 👉 [Don&#39;t let go](http://9gag.com/gag/aKE7wBW)<!-- MEMES:END -->
+ - 💣 [It&#39;s probably harder than it looks tbh](http://9gag.com/gag/aeQ5XnO)
+ - ⏩ [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
+ - 👉 [Oh shit.](http://9gag.com/gag/ap95OOE)<!-- MEMES:END -->
 
 ---
 
