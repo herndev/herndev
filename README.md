@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Samsung projects lowest profits in 8 years owing to weak smartphone demand](https://www.androidauthority.com/samsung-q4-2022-profit-decline-3263536/)
  - [Kuo predicts spring debut for Apple mixed-reality headset](https://appleinsider.com/articles/23/01/06/kuo-predicts-spring-debut-for-apple-mixed-reality-device?utm_medium=rss)
- - [Snap is shutting down its Camera app for Mac and PC on January 25; launched in 2018, the app let users apply facial filters while on video conference calls &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230105/p38#a230105p38)
- - [Samsung expects Q4 operating profit fell by 69% YoY to $3.37B, an eight-year low, citing a greater than expected decline in memory chip demand &lpar;CNBC&rpar;](http://www.techmeme.com/230105/p37#a230105p37)<!-- TECH:END -->
+ - [Snap is shutting down its Camera app for Mac and PC on January 25; launched in 2018, the app let users apply facial filters while on video conference calls &lpar;Mitchell Clark/The Verge&rpar;](http://www.techmeme.com/230105/p38#a230105p38)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
