@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Google’s huge Vegas billboard tells Apple to stop dropping the ball](https://www.androidauthority.com/google-billboard-apple-iphone-android-imessage-rcs-3263568/)
  - [OnePlus might skip the OnePlus 11 Pro this year](https://www.androidauthority.com/oneplus-11-pro-skip-3263092/)
- - [Stellantis announces Mobilisights, a business unit focused on selling software using connected vehicle data to enterprises, utilities, and other organizations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230106/p1#a230106p1)
- - [Samsung projects lowest profits in 8 years owing to weak smartphone demand](https://www.androidauthority.com/samsung-q4-2022-profit-decline-3263536/)<!-- TECH:END -->
+ - [Stellantis announces Mobilisights, a business unit focused on selling software using connected vehicle data to enterprises, utilities, and other organizations &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230106/p1#a230106p1)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
