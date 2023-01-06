@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Skillfully threaded..](http://9gag.com/gag/axo9N6n)
- - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 👉 [Crazy frog..](http://9gag.com/gag/aGEdV0n)<!-- MEMES:END -->
+ - 💣 [Dads are Best Moms](http://9gag.com/gag/aRE7g7Q)
+ - ⏩ [How I met your mother](http://9gag.com/gag/aA0gn8p)
+ - 👉 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)<!-- MEMES:END -->
 
 ---
 
