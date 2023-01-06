@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fan jumps onto crane with Michael Jackson - &lpar;Seoul, South Korea 1996&rpar;.](http://9gag.com/gag/axo9Erp)
- - ⏩ [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)
- - 👉 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)<!-- MEMES:END -->
+ - 💣 [Someone should make a reverse gif from this video](http://9gag.com/gag/avQoND5)
+ - ⏩ [She walked right into that one.](http://9gag.com/gag/aZDyPOp)
+ - 👉 [Sometimes I miss the long posts like this](http://9gag.com/gag/anz4YQB)<!-- MEMES:END -->
 
 ---
 
