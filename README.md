@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
- - ⏩ [Someone\u2019s a little eager to get on the road.](http://9gag.com/gag/aDY4g9N)
- - 👉 [Kids these days](http://9gag.com/gag/amAvvqj)<!-- MEMES:END -->
+ - 💣 [Drive safely](http://9gag.com/gag/amAv5jd)
+ - ⏩ [Damn](http://9gag.com/gag/aYVyKN0)
+ - 👉 [Only men knows](http://9gag.com/gag/axo91Np)<!-- MEMES:END -->
 
 ---
 
