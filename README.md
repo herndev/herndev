@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Taiwanese lawmakers pass rules letting domestic chip companies convert 25% of their annual R&amp;D expenses into tax credits; TSMC&#39;s stock rises 4%+ &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230109/p4#a230109p4)
- - [UK-based insurer Beazley launches the first cyber catastrophe bond, typically used for hurricanes and extreme weather, as the industry combats ransomware claim &lpar;Ian Smith/Financial Times&rpar;](http://www.techmeme.com/230109/p3#a230109p3)
- - [UK-based Oxford Ionics, which is using trapped ions to scale quantum computing, raised a &amp;pound;30M Series A led by Oxford Science Enterprises and Braavos &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/230109/p2#a230109p2)<!-- TECH:END -->
+ - [London-based insurance broker Superscript, which offers a &quot;self-serve&quot; platform for SMEs, sole traders, and others, raised a &amp;pound;45M Series B led by BHL UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230109/p8#a230109p8)
+ - [Sources: UK PM Rishi Sunak met Arm CEO Rene Haas and Masayoshi Son to revive efforts to secure a London listing for Cambridge-based Arm&#39;s IPO alongside New York &lpar;Financial Times&rpar;](http://www.techmeme.com/230109/p7#a230109p7)
+ - [Apple starts hiring spree for first flagship stores in India](https://appleinsider.com/articles/23/01/09/apple-starts-hiring-spree-for-first-flagship-stores-in-india?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
