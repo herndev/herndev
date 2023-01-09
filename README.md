@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
- - ⏩ [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 👉 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)<!-- MEMES:END -->
+ - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - ⏩ [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - 👉 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)<!-- MEMES:END -->
 
 ---
 
