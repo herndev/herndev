@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Dads are Best Moms](http://9gag.com/gag/aRE7g7Q)
- - ⏩ [How I met your mother](http://9gag.com/gag/aA0gn8p)
- - 👉 [To embarrass a comic during his set](http://9gag.com/gag/adPV0wV)<!-- MEMES:END -->
+ - 💣 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
+ - ⏩ [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
+ - 👉 [What do you hear?](http://9gag.com/gag/anz4Mbq)<!-- MEMES:END -->
 
 ---
 
