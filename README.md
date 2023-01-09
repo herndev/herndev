@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Redfall creative director says Arkane&#39;s vampire shooter is not like Left 4 Dead &#39;at all&#39;](https://www.pcgamer.com/redfall-creative-director-says-arkanes-vampire-shooter-is-not-like-left-4-dead-at-all)
- - [Does M3GAN have a post-credits scene?](https://www.polygon.com/23543047/m3gan-post-credits-scene-megan-sequel-ending-explained)
- - [Pokémon anime will end Ash’s journey with a reunion of old pals](https://www.polygon.com/23542929/pokemon-anime-ash-leaving-brock-misty-reunion)<!-- GAME:END -->
+ - [This documentary dives into the clever, charitable world of videogame speedrunning](https://www.pcgamer.com/this-documentary-dives-into-the-clever-charitable-world-of-videogame-speedrunning)
+ - [Borderlands movie goes back for reshoots with Deadpool director taking over](https://www.pcgamer.com/borderlands-movie-goes-back-for-reshoots-with-deadpool-director-taking-over)
+ - [YouTuber Dunkey&#39;s publisher, BigMode, has revealed its first game](https://www.pcgamer.com/youtuber-dunkeys-publisher-bigmode-has-revealed-its-first-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
