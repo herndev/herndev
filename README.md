@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
- - 👉 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)<!-- MEMES:END -->
+ - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
+ - ⏩ [Bikes](http://9gag.com/gag/aeQDMMO)
+ - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
 
 ---
 
