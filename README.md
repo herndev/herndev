@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - ⏩ [Bikes](http://9gag.com/gag/aeQDMMO)
- - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
+ - 💣 [Russia supplied 64.1% of Germany&#39;s gas in May 2021. Today, that number is 0%](http://9gag.com/gag/a5XWWLg)
+ - ⏩ [Avatar 4 will also introduce Super Saiyan Na&#39;vi](http://9gag.com/gag/aRE77Ly)
+ - 👉 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)<!-- MEMES:END -->
 
 ---
 
