@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Oh the wonders of working at PC recycling. keep donating your pcs guys!](http://9gag.com/gag/a8qGyNQ)
+ - 💣 [Bikes](http://9gag.com/gag/aeQDMMO)
  - ⏩ [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)
- - 👉 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)<!-- MEMES:END -->
+ - 👉 [!!!!!!.........!!!!!!!!!!!!!!](http://9gag.com/gag/a7qW3m2)<!-- MEMES:END -->
 
 ---
 
