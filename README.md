@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bikes](http://9gag.com/gag/aeQDMMO)
- - ⏩ [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)
- - 👉 [!!!!!!.........!!!!!!!!!!!!!!](http://9gag.com/gag/a7qW3m2)<!-- MEMES:END -->
+ - 💣 [Jonathan Lee Riches has sued over 4,000 companies and individuals, and holds the world record for the largest amount of lawsuits filed, including suits against Bill Gates and Pope Benedict XVI. When he found out that he held the record, he sued Guinness.](http://9gag.com/gag/aoKPpW3)
+ - ⏩ [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - 👉 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
 
 ---
 
