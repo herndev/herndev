@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Poll: Is your kitchen a tech-free zone or not?](https://www.androidauthority.com/kitchen-tech-poll-3264482/)
- - [Asleep interview: A more convenient way to track your sleep](https://www.androidauthority.com/asleep-interview-ces-3264465/)
- - [Daily Authority: 📺 Are two screens better than one?](https://www.androidauthority.com/daily-authority-january-9-2023-3264440/)<!-- TECH:END -->
+ - [Taiwanese lawmakers pass rules letting domestic chip companies convert 25% of their annual R&amp;D expenses into tax credits; TSMC&#39;s stock rises 4%+ &lpar;Debby Wu/Bloomberg&rpar;](http://www.techmeme.com/230109/p4#a230109p4)
+ - [UK-based insurer Beazley launches the first cyber catastrophe bond, typically used for hurricanes and extreme weather, as the industry combats ransomware claim &lpar;Ian Smith/Financial Times&rpar;](http://www.techmeme.com/230109/p3#a230109p3)
+ - [UK-based Oxford Ionics, which is using trapped ions to scale quantum computing, raised a &amp;pound;30M Series A led by Oxford Science Enterprises and Braavos &lpar;Patricia Allen/EU-Startups&rpar;](http://www.techmeme.com/230109/p2#a230109p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
