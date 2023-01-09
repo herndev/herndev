@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - ⏩ [We stay winning](http://9gag.com/gag/az2mq8N)
- - 👉 [There has been an unfortunate security breach and civilians are advised to be vigilant](http://9gag.com/gag/a1PWRMv)<!-- MEMES:END -->
+ - 💣 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
+ - ⏩ [What do you hear?](http://9gag.com/gag/anz4Mbq)
+ - 👉 [#BelieveAllWomen](http://9gag.com/gag/agoALD6)<!-- MEMES:END -->
 
 ---
 
