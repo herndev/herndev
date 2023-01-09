@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Worlds, which builds &quot;digital twins&quot; of floor operations for industrial companies to help boost productivity, raised a $21.2M Series A led by Moneta Ventures &lpar;VentureBeat&rpar;](http://www.techmeme.com/230109/p28#a230109p28)
+ - [Dallas-based Worlds, whose &quot;digital twins&quot; of industrial companies&#39; floor operations help boost productivity, raised a $21.2M Series A1 led by Moneta Ventures &lpar;VentureBeat&rpar;](http://www.techmeme.com/230109/p28#a230109p28)
  - [Apple looking to drop Broadcom as wi-fi, bluetooth, cellular supplier](https://appleinsider.com/articles/23/01/09/apple-looking-to-drop-broadcom-as-wi-fi-bluetooth-cellular-supplier?utm_medium=rss)
- - [Meta rolls out AI ad-targeting tech it calls a Variance Reduction System in an effort to comply with its DOJ settlement and reduce discrimination in housing ads &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230109/p27#a230109p27)<!-- TECH:END -->
+ - [Meta rolls out a Variance Reduction System, its AI ad-targeting tech meant to comply with its DOJ settlement and reduce discrimination in housing ads, in the US &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230109/p27#a230109p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
