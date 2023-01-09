@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Jonathan Lee Riches has sued over 4,000 companies and individuals, and holds the world record for the largest amount of lawsuits filed, including suits against Bill Gates and Pope Benedict XVI. When he found out that he held the record, he sued Guinness.](http://9gag.com/gag/aoKPpW3)
- - ⏩ [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - 👉 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
+ - 💣 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
+ - ⏩ [Activate bro code](http://9gag.com/gag/awZBXer)
+ - 👉 [Let&#39;s get rid of the shitposters](http://9gag.com/gag/a04NQPL)<!-- MEMES:END -->
 
 ---
 
