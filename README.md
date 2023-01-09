@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Best Products We Found at CES 2023, From Giant TVs to Tiny Pee Sensors     - CNET](https://www.cnet.com/tech/the-best-products-we-found-at-ces-2023-from-giant-tvs-to-tiny-pee-sensors/#ftag=CAD590a51e)
- - [Russia&#39;s invasion of Ukraine boosted European investments in dual-use tech like autonomous drones, rockets for satellites, and more &lpar;Aggi Cantrill/Bloomberg&rpar;](http://www.techmeme.com/230108/p9#a230108p9)
- - [Samsung&#39;s 8K Premiere Projector Turns Your Wall Into a Cinema Screen     - CNET](https://www.cnet.com/tech/home-entertainment/samsungs-8k-premiere-projector-turns-your-wall-into-a-cinema-screen/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [How Telegram, TikTok, Instagram, Facebook, and Twitter were used to boost election fraud claims in Brazil before riots hit congress and supreme court buildings &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/230108/p10#a230108p10)
+ - [The history of cell phones: A decade-by-decade timeline](https://www.androidauthority.com/history-of-cell-phones-timeline-3264425/)
+ - [How to Watch the Golden Globes 2023: Date, Host, Nominations     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-golden-globes-2023-date-host-nominations/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
