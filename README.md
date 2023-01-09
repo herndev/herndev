@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Structured 3.0.1 review: No frills, attractive daily planner](https://appleinsider.com/articles/23/01/09/structured-301-review-no-frills-attractive-daily-planner?utm_medium=rss)
- - [Exploring the impact of the emerging AI epoch, led by DALL-E, Midjourney, Stable Diffusion, and ChatGPT, on Apple, Amazon, Meta, Google, and Microsoft &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230109/p16#a230109p16)
- - [FTX&#39;s bankruptcy executives are seeking to recoup Sam Bankman-Fried&#39;s and FTX&#39;s charitable donations; FTX&#39;s Future Fund pledged $160M+ to over 110 nonprofits &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230109/p15#a230109p15)<!-- TECH:END -->
+ - [Supplies of iPhone 14 Pro models almost back to expected levels](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)
+ - [SCOTUS lets Meta&#39;s WhatsApp pursue a lawsuit accusing Israel&#39;s NSO Group of exploiting a bug to install spyware, allowing surveillance on 1,400 people &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/230109/p18#a230109p18)
+ - [Get a free Pixel 7 Pro with trade-in, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
