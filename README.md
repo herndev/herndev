@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Daily Authority: 📺 Are two screens better than one?](https://www.androidauthority.com/daily-authority-january-9-2023-3264440/)
  - [Samsung Galaxy phones get ‘Matter Easy Pair’ for quick smart home setups](https://www.androidauthority.com/samsung-galaxy-phones-matter-easy-pair-3264460/)
- - [HTC Vive XR Elite hands-on: Is augmented reality the next big thing?](https://www.androidauthority.com/htc-vive-xr-elite-hands-on-3264420/)
- - [Galaxy S23 leak suggests base storage is going up this year](https://www.androidauthority.com/samsung-galaxy-s23-ram-storage-colors-3264449/)<!-- TECH:END -->
+ - [HTC Vive XR Elite hands-on: Is augmented reality the next big thing?](https://www.androidauthority.com/htc-vive-xr-elite-hands-on-3264420/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
