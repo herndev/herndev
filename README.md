@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [The best Dwarf Fortress mod is nearly ready for the Steam version](https://www.pcgamer.com/the-best-dwarf-fortress-mod-is-nearly-ready-for-the-steam-version)
  - [This documentary dives into the clever, charitable world of videogame speedrunning](https://www.pcgamer.com/this-documentary-dives-into-the-clever-charitable-world-of-videogame-speedrunning)
- - [Borderlands movie goes back for reshoots with Deadpool director taking over](https://www.pcgamer.com/borderlands-movie-goes-back-for-reshoots-with-deadpool-director-taking-over)
- - [YouTuber Dunkey&#39;s publisher, BigMode, has revealed its first game](https://www.pcgamer.com/youtuber-dunkeys-publisher-bigmode-has-revealed-its-first-game)<!-- GAME:END -->
+ - [Borderlands movie goes back for reshoots with Deadpool director taking over](https://www.pcgamer.com/borderlands-movie-goes-back-for-reshoots-with-deadpool-director-taking-over)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
