@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)
- - ⏩ [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
- - 👉 [What do you hear?](http://9gag.com/gag/anz4Mbq)<!-- MEMES:END -->
+ - 💣 [What do you hear?](http://9gag.com/gag/anz4Mbq)
+ - ⏩ [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - 👉 [We stay winning](http://9gag.com/gag/az2mq8N)<!-- MEMES:END -->
 
 ---
 
