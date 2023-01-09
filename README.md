@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you hear?](http://9gag.com/gag/anz4Mbq)
- - ⏩ [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
- - 👉 [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)<!-- MEMES:END -->
+ - 💣 [Bikes](http://9gag.com/gag/aeQDMMO)
+ - ⏩ [Nicolas Metal Cage](http://9gag.com/gag/a1PWQDD)
+ - 👉 [Time Travel](http://9gag.com/gag/abvGYrp)<!-- MEMES:END -->
 
 ---
 
