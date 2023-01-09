@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
- - ⏩ [New Way to Avoid Deportation](http://9gag.com/gag/a9qnELD)
- - 👉 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)<!-- MEMES:END -->
+ - 💣 [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
+ - ⏩ [Not again..](http://9gag.com/gag/aA0ebMR)
+ - 👉 [The price of Russian Urals oil fell to $37.80 per barrel, well below the $60 per barrel limit set by the G-7 \u2014 following sanctions targeting Russia&#39;s oil revenue.](http://9gag.com/gag/anz4QOz)<!-- MEMES:END -->
 
 ---
 
