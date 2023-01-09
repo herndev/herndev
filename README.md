@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - ⏩ [Only men knows](http://9gag.com/gag/axo91Np)
- - 👉 [Your daily dose of &#39;Murica](http://9gag.com/gag/a5XWWgy)<!-- MEMES:END -->
+ - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
+ - ⏩ [New Way to Avoid Deportation](http://9gag.com/gag/a9qnELD)
+ - 👉 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)<!-- MEMES:END -->
 
 ---
 
