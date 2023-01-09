@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Bluetti&#39;s new AC500 and EP900: More power in an emergency](https://appleinsider.com/articles/23/01/09/bluettis-new-ac500-and-ep900-more-power-in-an-emergency?utm_medium=rss)
- - [Google’s Extension SDK brings new features to older versions of Android](https://www.androidauthority.com/google-extension-sdk-3264629/)
- - [Montreal-based payments company Nuvei enters a deal to acquire Atlanta-based rival Paya for ~$1.3B, a ~25% premium to Paya&#39;s last close; Paya stock jumps 24%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230109/p22#a230109p22)<!-- TECH:END -->
+ - [Top Apple deals on Amazon for the week of January 9th](https://appleinsider.com/articles/23/01/09/top-apple-deals-on-amazon-for-the-week-of-january-9th?utm_medium=rss)
+ - [A shady iOS app selling IAP subs called &quot;ChatGPT Chat GPT AI With GPT-3&quot; that is not affiliated with OpenAI has been a top paid app on the App Store for days &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/230109/p24#a230109p24)
+ - [We tried Tesla&#39;s wireless charger -- but we can&#39;t show you](https://appleinsider.com/articles/23/01/09/we-tried-teslas-wireless-charger----but-we-cant-show-you?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
