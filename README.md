@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Taste Sweet Victory with Special Edition Xbox Oreo Cookies and Delicious Prizes](https://news.xbox.com/en-us/2023/01/09/oreo-xbox-prizes-halo-forza-sea-of-thieves/)
- - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)
- - [Blood Origin shows the Witcher series isn&#39;t interested in winning back hardcore fans](https://www.pcgamer.com/blood-origin-shows-the-witcher-series-isnt-interested-in-winning-back-hardcore-fans)<!-- GAME:END -->
+ - [Genshin Impact is getting a one-off beetle fighting game mode](https://www.pcgamer.com/genshin-impact-is-getting-a-one-off-beetle-fighting-game-mode)
+ - [People are lavishing praise on this fan-made Whiterun map for Halo Infinite](https://www.pcgamer.com/people-are-lavishing-praise-on-this-fan-made-whiterun-map-for-halo-infinite)
+ - [Hello Games resurrects Joe Danger as a free browser game](https://www.pcgamer.com/hello-games-resurrects-joe-danger-as-a-free-browser-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
