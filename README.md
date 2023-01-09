@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Russia supplied 64.1% of Germany&#39;s gas in May 2021. Today, that number is 0%](http://9gag.com/gag/a5XWWLg)
- - ⏩ [Avatar 4 will also introduce Super Saiyan Na&#39;vi](http://9gag.com/gag/aRE77Ly)
- - 👉 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)<!-- MEMES:END -->
+ - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
+ - ⏩ [Brutal](http://9gag.com/gag/aeQDDw5)
+ - 👉 [Sug_Madic](http://9gag.com/gag/ajV9mqx)<!-- MEMES:END -->
 
 ---
 
