@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Can&#39;t just imagine what male genders will be doing during dribbling](http://9gag.com/gag/a9qnpbL)
- - ⏩ [Activate bro code](http://9gag.com/gag/awZBXer)
- - 👉 [Let&#39;s get rid of the shitposters](http://9gag.com/gag/a04NQPL)<!-- MEMES:END -->
+ - 💣 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - ⏩ [We stay winning](http://9gag.com/gag/az2mq8N)
+ - 👉 [There has been an unfortunate security breach and civilians are advised to be vigilant](http://9gag.com/gag/a1PWRMv)<!-- MEMES:END -->
 
 ---
 
