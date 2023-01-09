@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Bikes](http://9gag.com/gag/aeQDMMO)
- - ⏩ [I\u2019m not a cat](http://9gag.com/gag/aXngYMv)
- - 👉 [The child did not stop insisting about tasting](http://9gag.com/gag/agoAnQv)<!-- MEMES:END -->
+ - 💣 [Oh the wonders of working at PC recycling. keep donating your pcs guys!](http://9gag.com/gag/a8qGyNQ)
+ - ⏩ [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)
+ - 👉 [Is it ok to deal with a Catfisher like that?](http://9gag.com/gag/anz4j9B)<!-- MEMES:END -->
 
 ---
 
