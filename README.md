@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Taste Sweet Victory with Special Edition Xbox Oreo Cookies and Delicious Prizes](https://news.xbox.com/en-us/2023/01/09/oreo-xbox-prizes-halo-forza-sea-of-thieves/)
  - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)
- - [Blood Origin shows the Witcher series isn&#39;t interested in winning back hardcore fans](https://www.pcgamer.com/blood-origin-shows-the-witcher-series-isnt-interested-in-winning-back-hardcore-fans)
- - [Samsung&#39;s new game-streaming projectors combine together like Voltron](https://www.pcgamer.com/samsungs-new-game-streaming-projectors-combine-together-like-voltron)<!-- GAME:END -->
+ - [Blood Origin shows the Witcher series isn&#39;t interested in winning back hardcore fans](https://www.pcgamer.com/blood-origin-shows-the-witcher-series-isnt-interested-in-winning-back-hardcore-fans)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
