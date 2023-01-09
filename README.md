@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Fashion Legend That&#39;s Influenced Some Of Your Favorite Games And Manga](https://kotaku.com/vivienne-westwood-video-games-nana-anime-final-fantasy-1849965424)
- - [Some Overwatch 2 Players Can&#39;t Stand This &#39;Pay To Lose&#39; Skin](https://kotaku.com/overwatch-2-battle-for-olympus-widowmaker-medusa-skin-1849965432)
- - [12 Things I Wish I Knew Before Playing High On Life](https://kotaku.com/high-on-life-justin-roiland-rick-and-morty-xbox-pc-tips-1849965493)<!-- GAME:END -->
+ - [Combining Trauma with Feelgood — The Story of Wavetale](https://news.xbox.com/en-us/2023/01/09/combining-trauma-with-feelgood-the-story-of-wavetale/)
+ - [Mayfair Witches fumbles Interview With the Vampire’s promising universe](https://www.polygon.com/23542956/mayfair-witches-review)
+ - [The Week In Games: Set Sail For Silentown](https://kotaku.com/january-game-releases-out-this-week-one-piece-odyssey-1849965800)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
