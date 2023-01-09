@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Today&#39;s Wordle 569 answer and hint for Monday, January 9](https://www.pcgamer.com/wordle-569-answer-january-9)
  - [Blood Origin shows the Witcher series isn&#39;t interested in winning back hardcore fans](https://www.pcgamer.com/blood-origin-shows-the-witcher-series-isnt-interested-in-winning-back-hardcore-fans)
- - [Samsung&#39;s new game-streaming projectors combine together like Voltron](https://www.pcgamer.com/samsungs-new-game-streaming-projectors-combine-together-like-voltron)
- - [I wish my tax dollars went to cool stuff like this Canadian government-funded Fallout mod](https://www.pcgamer.com/i-wish-my-tax-dollars-went-to-cool-stuff-like-this-canadian-government-funded-fallout-mod)<!-- GAME:END -->
+ - [Samsung&#39;s new game-streaming projectors combine together like Voltron](https://www.pcgamer.com/samsungs-new-game-streaming-projectors-combine-together-like-voltron)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
