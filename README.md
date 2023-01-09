@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: after Kevin McCarthy made concessions for the speakership, the GOP plans a subcommittee and hearings to investigate Big Tech, like the &quot;Twitter Files&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/230109/p13#a230109p13)
- - [Meta&#39;s Oversight Board overturns Facebook&#39;s decision to remove a post that said &quot;death to Khamenei&quot;, referencing the Iranian leader, after violent protests &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/230109/p12#a230109p12)
- - [I Tried Neutrogena&#39;s New Skinstacks Nutrient Gummies     - CNET](https://www.cnet.com/health/medical/i-tried-neutrogenas-new-skinstacks-nutrient-gummies/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Structured 3.0.1 review: No frills, attractive daily planner](https://appleinsider.com/articles/23/01/09/structured-301-review-no-frills-attractive-daily-planner?utm_medium=rss)
+ - [Exploring the impact of the emerging AI epoch, led by DALL-E, Midjourney, Stable Diffusion, and ChatGPT, on Apple, Amazon, Meta, Google, and Microsoft &lpar;Ben Thompson/Stratechery&rpar;](http://www.techmeme.com/230109/p16#a230109p16)
+ - [FTX&#39;s bankruptcy executives are seeking to recoup Sam Bankman-Fried&#39;s and FTX&#39;s charitable donations; FTX&#39;s Future Fund pledged $160M+ to over 110 nonprofits &lpar;Eric Wallerstein/Wall Street Journal&rpar;](http://www.techmeme.com/230109/p15#a230109p15)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
