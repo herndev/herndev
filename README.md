@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Anime Fighting Game Under Attack By Hackers Who Have Made It Unplayable](https://kotaku.com/guilty-gear-strike-r-code-exploit-hack-online-game-cras-1849966315)
- - [Dead Space 2 Free On Steam For Those Who Order PC Remake](https://kotaku.com/dead-space-remake-free-steam-deck-game-pass-1849966307)
- - [Yes, That Absurd T-Rex Movie In High On Life Is Real](https://kotaku.com/high-on-life-tammy-t-rex-paul-walker-game-pass-amazon-p-1849966299)<!-- GAME:END -->
+ - [This new AI can mimic human voices with only 3 seconds of training](https://www.pcgamer.com/this-new-ai-can-mimic-human-voices-with-only-3-seconds-of-training)
+ - [Bring Your Game-Changing Idea to Life at Imagine Cup 2023](https://news.xbox.com/en-us/2023/01/09/bring-your-game-changing-idea-to-life-at-imagine-cup-2023/)
+ - [A Fully Playable Left 4 Dead Prototype Has Been Discovered 15 Years Later](https://kotaku.com/pc-gaming-steam-valve-counter-strike-left-4-dead-l4d-1849966662)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
