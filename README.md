@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Top Apple deals on Amazon for the week of January 9th](https://appleinsider.com/articles/23/01/09/top-apple-deals-on-amazon-for-the-week-of-january-9th?utm_medium=rss)
- - [A shady iOS app selling IAP subs called &quot;ChatGPT Chat GPT AI With GPT-3&quot; that is not affiliated with OpenAI has been a top paid app on the App Store for days &lpar;Sami Fathi/MacRumors&rpar;](http://www.techmeme.com/230109/p24#a230109p24)
- - [We tried Tesla&#39;s wireless charger -- but we can&#39;t show you](https://appleinsider.com/articles/23/01/09/we-tried-teslas-wireless-charger----but-we-cant-show-you?utm_medium=rss)<!-- TECH:END -->
+ - [Worlds, which builds &quot;digital twins&quot; of floor operations for industrial companies to help boost productivity, raised a $21.2M Series A led by Moneta Ventures &lpar;VentureBeat&rpar;](http://www.techmeme.com/230109/p28#a230109p28)
+ - [Apple looking to drop Broadcom as wi-fi, bluetooth, cellular supplier](https://appleinsider.com/articles/23/01/09/apple-looking-to-drop-broadcom-as-wi-fi-bluetooth-cellular-supplier?utm_medium=rss)
+ - [Meta rolls out AI ad-targeting tech it calls a Variance Reduction System in an effort to comply with its DOJ settlement and reduce discrimination in housing ads &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230109/p27#a230109p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
