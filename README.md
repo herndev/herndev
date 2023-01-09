@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [EA, you&#39;ve created a time paradox! Dead Space&#39;s pre-order bonus is Dead Space 2](https://www.pcgamer.com/ea-youve-created-a-time-paradox-dead-spaces-pre-order-bonus-is-dead-space-2)
- - [I&#39;m obsessed with this Nintendo Switch-inspired mechanical keyboard](https://www.pcgamer.com/im-obsessed-with-this-nintendo-switch-inspired-mechanical-keyboard)
- - [Report: Callisto Protocol Devs Left Out Of Credits Despite ‘Intense’ Work](https://kotaku.com/callisto-protocol-crunch-credits-dead-space-schofield-1849967065)<!-- GAME:END -->
+ - [G.Skill Trident Z5 RGB DDR5-7200 CL34](https://www.pcgamer.com/gskill-trident-z5-rgb-ddr5-7200-cl34)
+ - [The Writer Of Minecraft&#39;s Ending Poem Got High And Made It Free](https://kotaku.com/minecraft-ending-poem-microsoft-public-domain-contract-1849967368)
+ - [Windows 11 requirements: How to check if your PC can run it](https://www.pcgamer.com/windows-11-requirements)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
