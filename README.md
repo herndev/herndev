@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
  - ⏩ [Only men knows](http://9gag.com/gag/axo91Np)
- - 👉 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)<!-- MEMES:END -->
+ - 👉 [Your daily dose of &#39;Murica](http://9gag.com/gag/a5XWWgy)<!-- MEMES:END -->
 
 ---
 
