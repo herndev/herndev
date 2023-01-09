@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Get Apple&#39;s M1 MacBook Air with 16GB RAM, 1TB SSD for $1,349, a $300 discount](https://appleinsider.com/articles/23/01/09/get-apples-m1-macbook-air-with-16gb-ram-1tb-ssd-for-1349-a-300-discount?utm_medium=rss)
- - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)
- - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)<!-- TECH:END -->
+ - [Bluetti&#39;s new AC500 and EP900: More power in an emergency](https://appleinsider.com/articles/23/01/09/bluettis-new-ac500-and-ep900-more-power-in-an-emergency?utm_medium=rss)
+ - [Google’s Extension SDK brings new features to older versions of Android](https://www.androidauthority.com/google-extension-sdk-3264629/)
+ - [Montreal-based payments company Nuvei enters a deal to acquire Atlanta-based rival Paya for ~$1.3B, a ~25% premium to Paya&#39;s last close; Paya stock jumps 24%+ &lpar;Reuters&rpar;](http://www.techmeme.com/230109/p22#a230109p22)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
