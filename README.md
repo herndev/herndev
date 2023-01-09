@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Razer Edge is the best cloud gaming machine, but that comes at a cost](https://www.androidauthority.com/razer-edge-hands-on-3264406/)
- - [Best workout tech accessories for the fitness newbie in your life](https://appleinsider.com/articles/23/01/08/get-these-workout-accessories-for-the-fitness-newbie-in-your-life?utm_medium=rss)
- - [Meta says it is weeks away from announcing its decision on reinstating Trump, who continues to harass 2020 election workers by name, as recently as last week &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230108/p8#a230108p8)<!-- TECH:END -->
+ - [The Best TVs We Saw at CES 2023     - CNET](https://www.cnet.com/tech/home-entertainment/the-best-tvs-we-saw-at-ces-2023/#ftag=CAD590a51e)
+ - [Netflix: The 52 Absolute Best TV Shows to Watch     - CNET](https://www.cnet.com/culture/entertainment/netflix-the-52-absolute-best-tv-shows-to-binge/#ftag=CAD590a51e)
+ - [The Key CES Trends That Are Shaping the Future of Tech     - CNET](https://www.cnet.com/tech/the-key-ces-trends-that-are-shaping-the-future-of-tech/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
