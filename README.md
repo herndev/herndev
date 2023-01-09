@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [There has been an unfortunate security breach and civilians are advised to be vigilant](http://9gag.com/gag/a1PWRMv)
- - ⏩ [Bikes](http://9gag.com/gag/aeQDMMO)
- - 👉 [Jack lifts the engine.](http://9gag.com/gag/amAv71V)<!-- MEMES:END -->
+ - 💣 [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
+ - ⏩ [Someone\u2019s a little eager to get on the road.](http://9gag.com/gag/aDY4g9N)
+ - 👉 [Kids these days](http://9gag.com/gag/amAvvqj)<!-- MEMES:END -->
 
 ---
 
