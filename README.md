@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [SteelSeries Apex 9 TKL](https://www.pcgamer.com/steelseries-apex-9-tkl-gaming-keyboard-review)
- - [Genshin Impact is getting a one-off beetle fighting game mode](https://www.pcgamer.com/genshin-impact-is-getting-a-one-off-beetle-fighting-game-mode)
- - [People are lavishing praise on this fan-made Whiterun map for Halo Infinite](https://www.pcgamer.com/people-are-lavishing-praise-on-this-fan-made-whiterun-map-for-halo-infinite)<!-- GAME:END -->
+ - [Hideo Kojima had an idea for a Policenauts sequel &#39;but it never happened&#39;](https://www.pcgamer.com/hideo-kojima-had-an-idea-for-a-policenauts-sequel-but-it-never-happened)
+ - [5 great sci-fi movies you can stream right now on Netflix in January](https://www.polygon.com/what-to-watch/2023/1/9/23538827/best-sci-fi-movies-netflix-january-2023)
+ - [Steam had 10M people playing at the same time this week](https://www.pcgamer.com/steam-had-10m-people-playing-at-the-same-time-this-week)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
