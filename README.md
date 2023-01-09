@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Bikes](http://9gag.com/gag/aeQDMMO)
- - ⏩ [Nicolas Metal Cage](http://9gag.com/gag/a1PWQDD)
- - 👉 [Time Travel](http://9gag.com/gag/abvGYrp)<!-- MEMES:END -->
+ - ⏩ [I\u2019m not a cat](http://9gag.com/gag/aXngYMv)
+ - 👉 [The child did not stop insisting about tasting](http://9gag.com/gag/agoAnQv)<!-- MEMES:END -->
 
 ---
 
