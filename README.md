@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Belarus legalises piracy for content from &#39;unfriendly&#39; countries](https://www.pcgamer.com/belarus-legalises-piracy-for-content-from-unfriendly-countries)
- - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)
- - [6 Games To Play Now That You&#39;ve Finished Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-games-like-digimon-cult-lamb-1849965748)<!-- GAME:END -->
+ - [Anime Fighting Game Under Attack By Hackers Who Have Made It Unplayable](https://kotaku.com/guilty-gear-strike-r-code-exploit-hack-online-game-cras-1849966315)
+ - [Dead Space 2 Free On Steam For Those Who Order PC Remake](https://kotaku.com/dead-space-remake-free-steam-deck-game-pass-1849966307)
+ - [Yes, That Absurd T-Rex Movie In High On Life Is Real](https://kotaku.com/high-on-life-tammy-t-rex-paul-walker-game-pass-amazon-p-1849966299)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
