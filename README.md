@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Supplies of iPhone 14 Pro models almost back to expected levels](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)
- - [SCOTUS lets Meta&#39;s WhatsApp pursue a lawsuit accusing Israel&#39;s NSO Group of exploiting a bug to install spyware, allowing surveillance on 1,400 people &lpar;Nate Raymond/Reuters&rpar;](http://www.techmeme.com/230109/p18#a230109p18)
- - [Get a free Pixel 7 Pro with trade-in, and more Google Pixel deals](https://www.androidauthority.com/best-google-pixel-deals-1106212/)<!-- TECH:END -->
+ - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)
+ - [Samsung reveals launch event for what could be the Galaxy A54](https://www.androidauthority.com/samsung-galaxy-a54-event-3264534/)
+ - [iPhone 14 Pro almost back to expected levels at retail](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
