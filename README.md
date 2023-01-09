@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - 💣 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)
  - ⏩ [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 👉 [Drive safely](http://9gag.com/gag/amAv5jd)<!-- MEMES:END -->
+ - 👉 [Did the ad that came next know how trashy she was?](http://9gag.com/gag/anz45oL)<!-- MEMES:END -->
 
 ---
 
