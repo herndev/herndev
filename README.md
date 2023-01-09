@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [London-based insurance broker Superscript, which offers a &quot;self-serve&quot; platform for SMEs, sole traders, and others, raised a &amp;pound;45M Series B led by BHL UK &lpar;Paul Sawers/TechCrunch&rpar;](http://www.techmeme.com/230109/p8#a230109p8)
- - [Sources: UK PM Rishi Sunak met Arm CEO Rene Haas and Masayoshi Son to revive efforts to secure a London listing for Cambridge-based Arm&#39;s IPO alongside New York &lpar;Financial Times&rpar;](http://www.techmeme.com/230109/p7#a230109p7)
- - [Apple starts hiring spree for first flagship stores in India](https://appleinsider.com/articles/23/01/09/apple-starts-hiring-spree-for-first-flagship-stores-in-india?utm_medium=rss)<!-- TECH:END -->
+ - [Zeus 270w Wall Charger review: Big power in a compact body](https://appleinsider.com/articles/23/01/09/zeus-270w-wall-charger-review-big-power-in-a-compact-body?utm_medium=rss)
+ - [LinkedIn posts and Apple job listings suggest Apple plans to open its first flagship stores in India, likely beyond the reported 22,000 sq. ft. store in Mumbai &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230109/p11#a230109p11)
+ - [The EFF, iFixit, Consumer Reports, and other advocacy groups say many buzzy tech demos at CES failed to address how customer data is collected and protected &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230109/p10#a230109p10)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
