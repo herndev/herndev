@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [SteelSeries Apex 9 TKL](https://www.pcgamer.com/steelseries-apex-9-tkl-gaming-keyboard-review)
  - [Genshin Impact is getting a one-off beetle fighting game mode](https://www.pcgamer.com/genshin-impact-is-getting-a-one-off-beetle-fighting-game-mode)
- - [People are lavishing praise on this fan-made Whiterun map for Halo Infinite](https://www.pcgamer.com/people-are-lavishing-praise-on-this-fan-made-whiterun-map-for-halo-infinite)
- - [Hello Games resurrects Joe Danger as a free browser game](https://www.pcgamer.com/hello-games-resurrects-joe-danger-as-a-free-browser-game)<!-- GAME:END -->
+ - [People are lavishing praise on this fan-made Whiterun map for Halo Infinite](https://www.pcgamer.com/people-are-lavishing-praise-on-this-fan-made-whiterun-map-for-halo-infinite)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
