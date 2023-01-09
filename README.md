@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Samsung&#39;s new game-streaming projectors combine together like Voltron](https://www.pcgamer.com/samsungs-new-game-streaming-projectors-combine-together-like-voltron)
  - [I wish my tax dollars went to cool stuff like this Canadian government-funded Fallout mod](https://www.pcgamer.com/i-wish-my-tax-dollars-went-to-cool-stuff-like-this-canadian-government-funded-fallout-mod)
- - [Baba Files Taxes is a real spinoff you can play for free](https://www.pcgamer.com/baba-files-taxes-is-a-real-spinoff-you-can-play-for-free)
- - [The best Dwarf Fortress mod is nearly ready for the Steam version](https://www.pcgamer.com/the-best-dwarf-fortress-mod-is-nearly-ready-for-the-steam-version)<!-- GAME:END -->
+ - [Baba Files Taxes is a real spinoff you can play for free](https://www.pcgamer.com/baba-files-taxes-is-a-real-spinoff-you-can-play-for-free)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
