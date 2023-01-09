@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Galaxy S23 leak suggests base storage is going up this year](https://www.androidauthority.com/samsung-galaxy-s23-ram-storage-colors-3264449/)
  - [How Telegram, TikTok, Instagram, Facebook, and Twitter were used to boost election fraud claims in Brazil before riots hit congress and supreme court buildings &lpar;Elizabeth Dwoskin/Washington Post&rpar;](http://www.techmeme.com/230108/p10#a230108p10)
- - [The history of cell phones: A decade-by-decade timeline](https://www.androidauthority.com/history-of-cell-phones-timeline-3264425/)
- - [How to Watch the Golden Globes 2023: Date, Host, Nominations     - CNET](https://www.cnet.com/culture/entertainment/how-to-watch-the-golden-globes-2023-date-host-nominations/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The New EVs, Electric Bikes and Rideables We Saw at CES 2023     - CNET](https://www.cnet.com/roadshow/news/the-new-evs-electric-bikes-and-rideables-we-saw-at-ces-2023/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
