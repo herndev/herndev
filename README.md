@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
- - ⏩ [Brutal](http://9gag.com/gag/aeQDDw5)
- - 👉 [Sug_Madic](http://9gag.com/gag/ajV9mqx)<!-- MEMES:END -->
+ - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
+ - ⏩ [Only men knows](http://9gag.com/gag/axo91Np)
+ - 👉 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)<!-- MEMES:END -->
 
 ---
 
