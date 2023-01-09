@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Combining Trauma with Feelgood — The Story of Wavetale](https://news.xbox.com/en-us/2023/01/09/combining-trauma-with-feelgood-the-story-of-wavetale/)
- - [Mayfair Witches fumbles Interview With the Vampire’s promising universe](https://www.polygon.com/23542956/mayfair-witches-review)
- - [The Week In Games: Set Sail For Silentown](https://kotaku.com/january-game-releases-out-this-week-one-piece-odyssey-1849965800)<!-- GAME:END -->
+ - [Belarus legalises piracy for content from &#39;unfriendly&#39; countries](https://www.pcgamer.com/belarus-legalises-piracy-for-content-from-unfriendly-countries)
+ - [Should you play as a boy or girl in Persona 3 Portable?](https://www.polygon.com/guides/23542712/persona-3-portable-p3p-male-female-differences-vs-girl-boy-social-links)
+ - [6 Games To Play Now That You&#39;ve Finished Pokémon Scarlet And Violet](https://kotaku.com/pokemon-scarlet-violet-games-like-digimon-cult-lamb-1849965748)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
