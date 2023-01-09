@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The best Dwarf Fortress mod is nearly ready for the Steam version](https://www.pcgamer.com/the-best-dwarf-fortress-mod-is-nearly-ready-for-the-steam-version)
- - [This documentary dives into the clever, charitable world of videogame speedrunning](https://www.pcgamer.com/this-documentary-dives-into-the-clever-charitable-world-of-videogame-speedrunning)
- - [Borderlands movie goes back for reshoots with Deadpool director taking over](https://www.pcgamer.com/borderlands-movie-goes-back-for-reshoots-with-deadpool-director-taking-over)<!-- GAME:END -->
+ - [I wish my tax dollars went to cool stuff like this Canadian government-funded Fallout mod](https://www.pcgamer.com/i-wish-my-tax-dollars-went-to-cool-stuff-like-this-canadian-government-funded-fallout-mod)
+ - [Baba Files Taxes is a real spinoff you can play for free](https://www.pcgamer.com/baba-files-taxes-is-a-real-spinoff-you-can-play-for-free)
+ - [The best Dwarf Fortress mod is nearly ready for the Steam version](https://www.pcgamer.com/the-best-dwarf-fortress-mod-is-nearly-ready-for-the-steam-version)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
