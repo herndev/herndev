@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [How to tether an iPhone to make a wireless hotspot](https://appleinsider.com/inside/iphone/tips/how-to-tether-an-iphone-to-make-a-wireless-hotspot?utm_medium=rss)
  - [Rolling Square AirCard &amp; AirCard E with Find My -- Hands on](https://appleinsider.com/articles/23/01/09/rolling-square-aircard-aircard-e-with-find-my----hands-on?utm_medium=rss)
- - [Samsung reveals launch event for what could be the Galaxy A54](https://www.androidauthority.com/samsung-galaxy-a54-event-3264534/)
- - [iPhone 14 Pro almost back to expected levels at retail](https://appleinsider.com/articles/23/01/09/supplies-of-iphone-14-pro-models-almost-back-to-expected-levels?utm_medium=rss)<!-- TECH:END -->
+ - [A celebrity photo lawsuit claims Twitter’s copyright process is broken](https://www.theverge.com/2023/1/9/23537351/twitter-lawsuit-dmca-copyright-infringement-backgrid)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
