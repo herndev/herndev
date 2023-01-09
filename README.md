@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Some Twitter staff in the US and other countries laid off by Elon Musk in November say they had not received information about the severance they were promised &lpar;Wired&rpar;](http://www.techmeme.com/230106/p15#a230106p15)
- - [Microsoft is running an ad in The Washington Post to say that it’s cool with unions](https://www.theverge.com/2023/1/6/23543005/microsoft-washington-post-ad-cwa-unions)
- - [Software engineer allegedly stole $300K from an e-commerce site by copying Office Space](https://www.theverge.com/2023/1/6/23542859/office-space-fraud-zulily-employee-security)<!-- TECH:END -->
+ - [Razer Edge is the best cloud gaming machine, but that comes at a cost](https://www.androidauthority.com/razer-edge-hands-on-3264406/)
+ - [Best workout tech accessories for the fitness newbie in your life](https://appleinsider.com/articles/23/01/08/get-these-workout-accessories-for-the-fitness-newbie-in-your-life?utm_medium=rss)
+ - [Meta says it is weeks away from announcing its decision on reinstating Trump, who continues to harass 2020 election workers by name, as recently as last week &lpar;Naomi Nix/Washington Post&rpar;](http://www.techmeme.com/230108/p8#a230108p8)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
