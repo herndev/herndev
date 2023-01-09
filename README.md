@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [What do you hear?](http://9gag.com/gag/anz4Mbq)
- - ⏩ [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
- - 👉 [We stay winning](http://9gag.com/gag/az2mq8N)<!-- MEMES:END -->
+ - ⏩ [Happy new year dear traveller!](http://9gag.com/gag/a4o3b2A)
+ - 👉 [GoPro inside a dishwasher](http://9gag.com/gag/avQzOKE)<!-- MEMES:END -->
 
 ---
 
