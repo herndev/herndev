@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Drive safely](http://9gag.com/gag/amAv5jd)
- - ⏩ [Damn](http://9gag.com/gag/aYVyKN0)
- - 👉 [Only men knows](http://9gag.com/gag/axo91Np)<!-- MEMES:END -->
+ - 💣 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - ⏩ [Something is missing...](http://9gag.com/gag/a2KW4QD)
+ - 👉 [Drive safely](http://9gag.com/gag/amAv5jd)<!-- MEMES:END -->
 
 ---
 
