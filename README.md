@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Zeus 270w Wall Charger review: Big power in a compact body](https://appleinsider.com/articles/23/01/09/zeus-270w-wall-charger-review-big-power-in-a-compact-body?utm_medium=rss)
- - [LinkedIn posts and Apple job listings suggest Apple plans to open its first flagship stores in India, likely beyond the reported 22,000 sq. ft. store in Mumbai &lpar;Patrick McGee/Financial Times&rpar;](http://www.techmeme.com/230109/p11#a230109p11)
- - [The EFF, iFixit, Consumer Reports, and other advocacy groups say many buzzy tech demos at CES failed to address how customer data is collected and protected &lpar;Tatum Hunter/Washington Post&rpar;](http://www.techmeme.com/230109/p10#a230109p10)<!-- TECH:END -->
+ - [Sources: after Kevin McCarthy made concessions for the speakership, the GOP plans a subcommittee and hearings to investigate Big Tech, like the &quot;Twitter Files&quot; &lpar;Mike Allen/Axios&rpar;](http://www.techmeme.com/230109/p13#a230109p13)
+ - [Meta&#39;s Oversight Board overturns Facebook&#39;s decision to remove a post that said &quot;death to Khamenei&quot;, referencing the Iranian leader, after violent protests &lpar;Katie Paul/Reuters&rpar;](http://www.techmeme.com/230109/p12#a230109p12)
+ - [I Tried Neutrogena&#39;s New Skinstacks Nutrient Gummies     - CNET](https://www.cnet.com/health/medical/i-tried-neutrogenas-new-skinstacks-nutrient-gummies/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
