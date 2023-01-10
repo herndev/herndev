@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [10 Years Later](http://9gag.com/gag/ay2eMOq)
  - ⏩ [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
- - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 👉 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
 
 ---
 
