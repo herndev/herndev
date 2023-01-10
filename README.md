@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Overwatch 2 coach says gameplay isn’t the key — it’s ‘how you are as a person’](https://www.polygon.com/23546521/overwatch-2-how-to-get-good-tips-coach-spilo-interview)
- - [Logan Paul just did too many shitty things to fit in this headline](https://www.pcgamer.com/logan-paul-just-did-too-many-shitty-things-to-fit-into-this-headline)
- - [AMD&#39;s lopsided Ryzen X3D CPUs need to be told which games want more cache or higher clock speeds](https://www.pcgamer.com/amds-lopsided-ryzen-x3d-cpus-need-to-be-told-which-games-want-more-cache-or-higher-clock-speeds)<!-- GAME:END -->
+ - [The Rescue Of Logan Paul&#39;s Old Pig Has The Internet Aghast](https://kotaku.com/logan-paul-pearl-pig-crypto-animal-rescue-youtube-1849970003)
+ - [Where to unlock the Euphrosyne alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546698/euphrosyne-raid-unlock-location-alliance-myths-of-the-realm-gear-6-3-item-level)
+ - [New on Xbox Game Pass for January: Persona’s portable ports, and Monster Hunter](https://www.polygon.com/23548362/xbox-game-pass-pc-january-2023-games-release-date)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
