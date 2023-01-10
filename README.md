@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 💣 [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
+ - ⏩ [Milk....mmmm...](http://9gag.com/gag/a3ZwGZe)
+ - 👉 [Never did i think about it this way.](http://9gag.com/gag/adPVvA9)<!-- MEMES:END -->
 
 ---
 
