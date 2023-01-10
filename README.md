@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
- - ⏩ [Milk....mmmm...](http://9gag.com/gag/a3ZwGZe)
+ - 💣 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
+ - ⏩ [That dude at the end be like, `How? Why? Wait a minute ..`](http://9gag.com/gag/a2KWMmO)
  - 👉 [Never did i think about it this way.](http://9gag.com/gag/adPVvA9)<!-- MEMES:END -->
 
 ---
