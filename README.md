@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Intel debuts new Sapphire Rapids CPUs across 52 models ranging from $415 to $17K with up to 60 cores and support for PCIe 5.0 and DDR5, to rival AMD Genoa chips &lpar;Paul Alcorn/Tom&#39;s Hardware&rpar;](http://www.techmeme.com/230110/p21#a230110p21)
- - [Apple issues second developer beta for iOS 16.3, iPadOS 16.3, tvOS 16.3, watchOS 9.3](https://appleinsider.com/articles/23/01/10/apple-issues-second-developer-beta-for-ios-163-ipados-163-tvos-163-watchos-93?utm_medium=rss)
- - [Apple seeds second developer beta for macOS Ventura 13.2](https://appleinsider.com/articles/23/01/10/apple-seeds-second-developer-beta-for-macos-ventura-132?utm_medium=rss)<!-- TECH:END -->
+ - [Meta adds more limits on targeting users under 18 with ads, including removing the options to target teens users based on gender and in-app activity &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p22#a230110p22)
+ - [Astronomers May Have Just Spotted the Universe’s First Galaxies](https://www.wired.com/story/astronomers-may-have-just-spotted-the-universes-first-galaxies/)
+ - [Microsoft pivots to foldable screens, ditches its initial Surface Duo 3 plans](https://www.androidauthority.com/surface-duo-3-display-3265002/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
