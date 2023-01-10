@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A look at the US government&#39;s crypto-related sanctions strategy, the types of entities sanctioned, and the impact of the sanctions on the crypto crime ecosystem &lpar;Chainalysis&rpar;](http://www.techmeme.com/230110/p2#a230110p2)
- - [The January 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
- - [First OnePlus Nord 3 details suggest device on track for June/July launch](https://www.androidauthority.com/oneplus-nord-3-launch-2-3264837/)<!-- TECH:END -->
+ - [A 7-year-old smartphone will finally stop receiving updates this year](https://www.androidauthority.com/fairphone-2-stop-getting-updates-3264846/)
+ - [A profile of Bela Bajaria, Netflix&#39;s global head of TV who leads its hyper-aggressive strategy to adapt successful show formats to different parts of the world &lpar;Rachel Syme/New Yorker&rpar;](http://www.techmeme.com/230110/p3#a230110p3)
+ - [A look at the US government&#39;s crypto-related sanctions strategy, the types of entities sanctioned, and the impact of the sanctions on the crypto crime ecosystem &lpar;Chainalysis&rpar;](http://www.techmeme.com/230110/p2#a230110p2)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
