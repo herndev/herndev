@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Future of MagSafe, and the new Qi2 wireless charging spec](https://appleinsider.com/articles/23/01/10/future-of-magsafe-and-the-new-qi2-wireless-charging-spec?utm_medium=rss)
- - [Apple&#39;s 14-inch MacBook Pro dips to $1,599 at Amazon, plus $400 off additional models](https://appleinsider.com/articles/23/01/10/apples-14-inch-macbook-pro-dips-to-1599-at-amazon-plus-400-off-additional-models?utm_medium=rss)
- - [Three years after ending mainstream support for Windows 7, Microsoft ends premium extended security support for the OS and support for Windows 8.1 &lpar;Zack Whittaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p17#a230110p17)<!-- TECH:END -->
+ - [Apple names broadcasters for MLS Season Pass on Apple TV+](https://appleinsider.com/articles/23/01/10/apple-names-broadcasters-for-mls-season-pass-on-apple-tv?utm_medium=rss)
+ - [Amazon’s opening up Buy with Prime, pulling other US retailers into its ‘free’ shipping subscription](https://www.theverge.com/2023/1/10/23548108/amazon-buy-with-prime-button-expansion)
+ - [What is chokepoint capitalism with authors Cory Doctorow and Rebecca Giblin](https://www.theverge.com/23547877/decoder-chokepoint-capitalism-cory-doctorow-rebecca-giblin-spotify-ticketmaster-antitrust)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
