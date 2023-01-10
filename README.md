@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: e-commerce spending on ByteDance&#39;s Douyin in China reached $208B in 2022, up 76% YoY; shoppers in Southeast Asia spent $4.4B on TikTok in 2022 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230109/p30#a230109p30)
- - [China&#39;s Historic Zhurong Rover May Have Gone Silent on Dusty Mars     - CNET](https://www.cnet.com/science/space/chinas-historic-zhurong-mars-rover-may-have-gone-silent/#ftag=CAD590a51e)
- - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft unveils text-to-speech AI model VALL-E, which was trained on English speech data and can simulate a person&#39;s voice with three seconds of sample audio &lpar;Damir Yalalov/Metaverse Post&rpar;](http://www.techmeme.com/230109/p31#a230109p31)
+ - [Facebook Parent Meta Rolls Out Ad Tech Changes to Prevent Discrimination     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-rolls-out-ad-tech-changes-to-prevent-discrimination/#ftag=CAD590a51e)
+ - [Remember &#39;Carnival Row&#39;? Amazon&#39;s Fantasy Has a Tense Season 2 Trailer     - CNET](https://www.cnet.com/culture/entertainment/remember-carnival-row-amazons-fantasy-has-a-tense-season-2-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
