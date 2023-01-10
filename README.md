@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/09/this-weeks-deals-with-gold-and-spotlight-sale-257/)
- - [Asus&#39;s new gaming routers look like spiders, are Wi-Fi 7 ready](https://www.pcgamer.com/asuss-new-gaming-routers-look-like-spiders-are-wi-fi-7-ready)
- - [Ant-Man and the Wasp: Quantumania shows off MODOK, Kang, and the Quantum Realm](https://www.polygon.com/23547481/ant-man-wasp-quantumania-trailer-modok-kang-release-date-cast)<!-- GAME:END -->
+ - [Today&#39;s Wordle 570 answer and hint for Tuesday, January 10](https://www.pcgamer.com/wordle-570-answer-january-10)
+ - [HBO’s The Last of Us finds hope in another zombie apocalypse — for some](https://www.polygon.com/reviews/23547254/last-us-review-hbo-tv)
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/09/this-weeks-deals-with-gold-and-spotlight-sale-257/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
