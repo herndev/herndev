@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Dallas-based Worlds, whose &quot;digital twins&quot; of industrial companies&#39; floor operations help boost productivity, raised a $21.2M Series A1 led by Moneta Ventures &lpar;VentureBeat&rpar;](http://www.techmeme.com/230109/p28#a230109p28)
- - [Apple looking to drop Broadcom as wi-fi, bluetooth, cellular supplier](https://appleinsider.com/articles/23/01/09/apple-looking-to-drop-broadcom-as-wi-fi-bluetooth-cellular-supplier?utm_medium=rss)
- - [Meta rolls out a Variance Reduction System, its AI ad-targeting tech meant to comply with its DOJ settlement and reduce discrimination in housing ads, in the US &lpar;Jon Fingas/Engadget&rpar;](http://www.techmeme.com/230109/p27#a230109p27)<!-- TECH:END -->
+ - [Sources: e-commerce spending on ByteDance&#39;s Douyin in China reached $208B in 2022, up 76% YoY; shoppers in Southeast Asia spent $4.4B on TikTok in 2022 &lpar;Juro Osawa/The Information&rpar;](http://www.techmeme.com/230109/p30#a230109p30)
+ - [China&#39;s Historic Zhurong Rover May Have Gone Silent on Dusty Mars     - CNET](https://www.cnet.com/science/space/chinas-historic-zhurong-mars-rover-may-have-gone-silent/#ftag=CAD590a51e)
+ - [In This Dystopian New Graphic Novel, the Jan. 6 Attack Succeeded     - CNET](https://www.cnet.com/culture/internet/in-this-dystopian-new-graphic-novel-the-january-6-attack-succeeded/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
