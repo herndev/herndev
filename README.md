@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [It’s the end of the software update line for OnePlus 7, OnePlus 7T](https://www.androidauthority.com/oneplus-7-oneplus-7t-final-software-updates-3264835/)
- - [A New York University study finds Russian troll Twitter accounts had a minimal impact on 2016 US election voters; 1% of users accounted for 70% of the exposure &lpar;Washington Post&rpar;](http://www.techmeme.com/230110/p1#a230110p1)
- - [Sources: former FTX engineering chief Nishad Singh, who has not been accused of wrongdoing, met with US federal prosecutors last week to seek a cooperation deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/230109/p37#a230109p37)<!-- TECH:END -->
+ - [A look at the US government&#39;s crypto-related sanctions strategy, the types of entities sanctioned, and the impact of the sanctions on the crypto crime ecosystem &lpar;Chainalysis&rpar;](http://www.techmeme.com/230110/p2#a230110p2)
+ - [The January 2023 update is here for Google Pixel Watch](https://www.androidauthority.com/google-pixel-watch-updates-3220078/)
+ - [First OnePlus Nord 3 details suggest device on track for June/July launch](https://www.androidauthority.com/oneplus-nord-3-launch-2-3264837/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
