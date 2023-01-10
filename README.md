@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Her smile when she realized he was there](http://9gag.com/gag/aBdmdPZ)
- - ⏩ [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
- - 👉 [AOP](http://9gag.com/gag/aYVyQoV)<!-- MEMES:END -->
+ - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - ⏩ [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
+ - 👉 [Better Football](http://9gag.com/gag/aDY47m9)<!-- MEMES:END -->
 
 ---
 
