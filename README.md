@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
- - ⏩ [Something is missing...](http://9gag.com/gag/a2KW4QD)
- - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
+ - 💣 [Damn Woman](http://9gag.com/gag/aQEdExr)
+ - ⏩ [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)
+ - 👉 [Sigma move](http://9gag.com/gag/aVbwwDy)<!-- MEMES:END -->
 
 ---
 
