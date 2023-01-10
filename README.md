@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Coinbase plans to lay off a further ~950 employees, or ~20% of its workforce, seeking to reduce its operating expense by 25% QoQ; Coinbase laid off 18% in June &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/230110/p11#a230110p11)
- - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)
- - [Apple&#39;s most affordable Mac mini is 18 years old](https://appleinsider.com/articles/23/01/10/apples-most-affordable-mac-mini-is-18-years-old?utm_medium=rss)<!-- TECH:END -->
+ - [iPhone 16 Pro rumored to get under-display Face ID](https://appleinsider.com/articles/23/01/10/iphone-16-pro-rumored-to-get-under-display-face-id?utm_medium=rss)
+ - [Common Sense Media survey of 1,358 US teenagers: 75% report having viewed porn online by 17, including 41% seeing images of nudity or sexual acts during school &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230110/p12#a230110p12)
+ - [&#39;Peaky Blinders&#39; Creator Steven Knight: &#39;History Is Chaos and Madness&#39;     - CNET](https://www.cnet.com/culture/entertainment/peaky-blinders-and-rogue-heroes-creator-steven-knight-history-is-chaos-and-madness/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
