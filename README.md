@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Damn Woman](http://9gag.com/gag/aQEdExr)
- - ⏩ [What a shy person](http://9gag.com/gag/aEqP8gn)
- - 👉 [Nothing happens!](http://9gag.com/gag/amAvv06)<!-- MEMES:END -->
+ - 💣 [Cyclist got angry that his dog walked out on the cyclist lane slowing her down. Ironic.](http://9gag.com/gag/a1PWRvD)
+ - ⏩ [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)
+ - 👉 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 ---
 
