@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
- - 👉 [Better Football](http://9gag.com/gag/aDY47m9)<!-- MEMES:END -->
+ - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 ---
 
