@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: former FTX engineering chief Nishad Singh, who has not been accused of wrongdoing, met with US federal prosecutors last week to seek a cooperation deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/230109/p37#a230109p37)
- - [The FAA proposes a February 1, 2024 deadline for airlines to replace or retrofit altimeters that can&#39;t filter out 5G signals, preventing full C-Band deployment &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230109/p36#a230109p36)
- - [Monday’s top tech news: an Apple headset this year? Finally?](https://www.theverge.com/2023/1/9/23546147/january-9-2023-tech-news-liveblog)<!-- TECH:END -->
+ - [It’s the end of the software update line for OnePlus 7, OnePlus 7T](https://www.androidauthority.com/oneplus-7-oneplus-7t-final-software-updates-3264835/)
+ - [A New York University study finds Russian troll Twitter accounts had a minimal impact on 2016 US election voters; 1% of users accounted for 70% of the exposure &lpar;Washington Post&rpar;](http://www.techmeme.com/230110/p1#a230110p1)
+ - [Sources: former FTX engineering chief Nishad Singh, who has not been accused of wrongdoing, met with US federal prosecutors last week to seek a cooperation deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/230109/p37#a230109p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
