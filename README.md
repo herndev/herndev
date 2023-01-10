@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)
- - ⏩ [Some will say it&#39;s photoshopped](http://9gag.com/gag/aeQDQAQ)
- - 👉 [.](http://9gag.com/gag/a4o3o9d)<!-- MEMES:END -->
+ - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
+ - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 👉 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
 
 ---
 
