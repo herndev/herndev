@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HUP!](http://9gag.com/gag/aDY4dn7)
- - ⏩ [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
- - 👉 [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)<!-- MEMES:END -->
+ - 💣 [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
+ - ⏩ [Something is missing...](http://9gag.com/gag/a2KW4QD)
+ - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
 
 ---
 
