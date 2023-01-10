@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [You&#39;re a peasant Harry, I&#39;m a what?](http://9gag.com/gag/ay2eevY)
- - ⏩ [Results of an AI request to turn countries into a villain](http://9gag.com/gag/aqen1KY)
- - 👉 [New Audi headlight system](http://9gag.com/gag/aPg77Yg)<!-- MEMES:END -->
+ - 💣 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
+ - ⏩ [#BelieveAllWomen](http://9gag.com/gag/agoALD6)
+ - 👉 [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)<!-- MEMES:END -->
 
 ---
 
