@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A 7-year-old smartphone will finally stop receiving updates this year](https://www.androidauthority.com/fairphone-2-stop-getting-updates-3264846/)
- - [A profile of Bela Bajaria, Netflix&#39;s global head of TV who leads its hyper-aggressive strategy to adapt successful show formats to different parts of the world &lpar;Rachel Syme/New Yorker&rpar;](http://www.techmeme.com/230110/p3#a230110p3)
- - [A look at the US government&#39;s crypto-related sanctions strategy, the types of entities sanctioned, and the impact of the sanctions on the crypto crime ecosystem &lpar;Chainalysis&rpar;](http://www.techmeme.com/230110/p2#a230110p2)<!-- TECH:END -->
+ - [To buy, or not to buy? Here’s what you said about the PSVR 2.](https://www.androidauthority.com/sony-psvr-2-poll-results-3264845/)
+ - [HBO&#39;s &#39;The Last of Us&#39; Review: The Greatest Video Game Adaptation Ever Made     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-review-the-greatest-video-game-adaptation-ever-made/#ftag=CAD590a51e)
+ - [HBO’s The Last of Us is a compact adaptation that puts you in the passenger seat](https://www.theverge.com/23543145/hbo-the-last-of-us-review)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
