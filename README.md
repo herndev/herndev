@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)
- - ⏩ [#BelieveAllWomen](http://9gag.com/gag/agoALD6)
- - 👉 [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)<!-- MEMES:END -->
+ - 💣 [What do you hear?](http://9gag.com/gag/anz4Mbq)
+ - ⏩ [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
+ - 👉 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
 
 ---
 
