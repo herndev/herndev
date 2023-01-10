@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [One Of The Most Beloved Nintendo Controllers Is Back To Fix Switch Joy-Con Drift](https://kotaku.com/joy-con-drift-switch-gamecube-controller-wavebird-nyxi-1849970883)
- - [The creators of Hulu’s Koala Man flip the adult animation script with sincerity](https://www.polygon.com/23548310/koala-man-hulu-creators-interview)
- - [2023 is the year for a small, tactical upgrade to your PC](https://www.pcgamer.com/2023-is-the-year-for-a-small-tactical-upgrade-to-your-pc)<!-- GAME:END -->
+ - [Final Fantasy XVI Producer Suggests PC Players Should Just &#39;Buy A PS5&#39;](https://kotaku.com/final-fantasy-16-release-ps5-exclusive-pc-naoki-yoshida-1849971190)
+ - [TMNT: Shredder’s Revenge now on mobile via Netflix](https://www.polygon.com/23548751/tmnt-shredders-revenge-mobile-netflix-announcement)
+ - [Gaming YouTube Is In Turmoil Thanks To New Violence And Profanity Rules](https://kotaku.com/youtube-violence-profanity-policy-rtgame-moist-critical-1849971177)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
