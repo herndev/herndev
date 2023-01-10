@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rumoured AI-enhanced Nvidia graphics driver could boost performance by 30%](https://www.pcgamer.com/rumoured-ai-enhanced-nvidia-graphics-driver-could-boost-performance-by-30)
- - [The Callisto Protocol leaves key developers out of its credits](https://www.pcgamer.com/the-callisto-protocol-leaves-key-developers-out-of-its-credits)
- - [Today&#39;s Wordle 570 answer and hint for Tuesday, January 10](https://www.pcgamer.com/wordle-570-answer-january-10)<!-- GAME:END -->
+ - [Where to find the Lost Banana in World of Warcraft: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-dragonflight-lost-banana-location)
+ - [Kat VR C2+](https://www.pcgamer.com/kat-vr-c2-plus-treadmill-review)
+ - [Rumoured AI-enhanced Nvidia graphics driver could boost performance by 30%](https://www.pcgamer.com/rumoured-ai-enhanced-nvidia-graphics-driver-could-boost-performance-by-30)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
