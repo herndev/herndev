@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Ant-Man and the Wasp: Quantumania shows off MODOK, Kang, and the Quantum Realm](https://www.polygon.com/23547481/ant-man-wasp-quantumania-trailer-modok-kang-release-date-cast)
  - [MSI GeForce RTX 4080 Suprim X](https://www.pcgamer.com/msi-geforce-rtx-4080-suprim-x)
- - [This adventure game tech demo with AI-generated art is impressive and disconcerting](https://www.pcgamer.com/this-adventure-game-tech-demo-with-ai-generated-art-is-impressive-and-disconcerting)
- - [Company of Heroes 3 final tech test starts later this week and you&#39;re all invited](https://www.pcgamer.com/company-of-heroes-3-final-tech-test-starts-later-this-week-and-youre-all-invited)<!-- GAME:END -->
+ - [This adventure game tech demo with AI-generated art is impressive and disconcerting](https://www.pcgamer.com/this-adventure-game-tech-demo-with-ai-generated-art-is-impressive-and-disconcerting)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
