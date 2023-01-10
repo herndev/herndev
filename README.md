@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [Valedictorian slams ineffective school staff in graduation speech](http://9gag.com/gag/a9qn1wD)
- - 👉 [Renters demand a new dryer since this one \u201cisn\u2019t working well\u201d...](http://9gag.com/gag/a04NZBz)<!-- MEMES:END -->
+ - ⏩ [Sigma move](http://9gag.com/gag/aVbwwDy)
+ - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
 
 ---
 
