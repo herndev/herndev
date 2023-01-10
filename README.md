@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Does NordVPN work with Netflix?](https://www.androidauthority.com/does-nordvpn-work-with-netflix-3262553/)
- - [Google releases the Extension SDK for developers to bring new features, like the new Photo Picker API that launched with Android 13, to older Android versions &lpar;Adam Conway/XDA Developers&rpar;](http://www.techmeme.com/230110/p6#a230110p6)
- - [Daily Authority: 📱 Samsung Galaxy A54 launch, new Pixel emoji](https://www.androidauthority.com/daily-authority-january-10-2023-3264530/)<!-- TECH:END -->
+ - [Coinbase plans to lay off a further ~950 employees, or ~20% of its workforce, seeking to reduce its operating expense by 25% QoQ; Coinbase laid off 18% in June &lpar;Kate Rooney/CNBC&rpar;](http://www.techmeme.com/230110/p11#a230110p11)
+ - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)
+ - [Apple&#39;s most affordable Mac mini is 18 years old](https://appleinsider.com/articles/23/01/10/apples-most-affordable-mac-mini-is-18-years-old?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
