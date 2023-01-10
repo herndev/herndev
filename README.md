@@ -11,11 +11,11 @@
 |   SOFTWARE DEVELOPER <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>    |   GITHUB STATUS <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>    |
 | ----------- | ----------- |
 | <img src="./img/banner-half.png" /> | <img src="https://github-readme-stats.vercel.app/api?username=herndev&show_icons=true&theme=merko" alt="herndev :: Profile Stats" /> |
-
+<!-- 
 |   CONTRIBUTION GRAPH <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitparrot.gif" width="25" height="25"/>     |
 | ----------- |
 | <img src="https://activity-graph.herokuapp.com/graph?username=herndev&theme=react-dark&hide_title=true&area=true&color=61C284&line=90D401" /> |
-
+ -->
 |   RANDOM JOKE <img src="https://cultofthepartyparrot.com/parrots/hd/bouncingparrot.gif" width="25" height="25"/>    |
 | ----------- |
 <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%2361C284&aColor=%2390D401&textColor=%2390D401&codeColor=%2390D401&bgColor=%23000" width="100%" />
