@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [1st date](http://9gag.com/gag/a7qWMn2)
- - 👉 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
+ - 💣 [1st date](http://9gag.com/gag/a7qWMn2)
+ - ⏩ [Bikes](http://9gag.com/gag/aeQDMMO)
+ - 👉 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
 
 ---
 
