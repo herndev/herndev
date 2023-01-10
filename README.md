@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Microsoft ditched a dual-screen design for the Surface Duo 3 and pivoted to a foldable screen design with 180-degree hinge and external cover display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230110/p25#a230110p25)
- - [A look at Intel&#39;s struggles with launching Sapphire Rapids, originally slated for mid-2022, which Intel says has led to changes in product design and testing &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230110/p24#a230110p24)
- - [Developers flood Apple&#39;s App Store and Google Play with apps listing &quot;ChatGPT&quot; in titles and descriptions; OpenAI doesn&#39;t offer a public ChatGPT API or an app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230110/p23#a230110p23)<!-- TECH:END -->
+ - [Right-to-Repair Advocates Question John Deere’s New Promises](https://www.wired.com/story/right-to-repair-advocates-question-john-deeres-new-promises/)
+ - [Deals: save $50 on every Apple Watch Ultra](https://appleinsider.com/articles/23/01/10/deals-save-50-on-every-apple-watch-ultra?utm_medium=rss)
+ - [Scale AI, which labels data for ML algorithms and was valued at $7.3B in April 2021, lays off 20% of its staff; the startup had ~450 employees in February 2022 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230110/p27#a230110p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
