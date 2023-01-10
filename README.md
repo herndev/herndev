@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft unveils text-to-speech AI model VALL-E, which was trained on English speech data and can simulate a person&#39;s voice with three seconds of sample audio &lpar;Damir Yalalov/Metaverse Post&rpar;](http://www.techmeme.com/230109/p31#a230109p31)
- - [Facebook Parent Meta Rolls Out Ad Tech Changes to Prevent Discrimination     - CNET](https://www.cnet.com/news/social-media/facebook-parent-meta-rolls-out-ad-tech-changes-to-prevent-discrimination/#ftag=CAD590a51e)
- - [Remember &#39;Carnival Row&#39;? Amazon&#39;s Fantasy Has a Tense Season 2 Trailer     - CNET](https://www.cnet.com/culture/entertainment/remember-carnival-row-amazons-fantasy-has-a-tense-season-2-trailer/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft unveils text-to-speech AI model VALL-E, which was trained on English speech data and can simulate a person&#39;s voice with three seconds of sample audio &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230109/p33#a230109p33)
+ - [New Apple ads show off iPhone 14 Action Mode and iOS 16 Undo Send in Messages](https://appleinsider.com/articles/23/01/10/new-apple-ads-show-off-iphone-14-action-mode-and-ios-16-undo-send-in-messages?utm_medium=rss)
+ - [Microsoft acquires Fungible, a maker of data processing units for data centers that has raised $300M+; December 2022 reports suggested the deal is worth ~$190M &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230109/p32#a230109p32)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
