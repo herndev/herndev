@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 Years Later](http://9gag.com/gag/ay2eMOq)
- - ⏩ [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
- - 👉 [An entire garden, without a single grain of soil, sand or compost](http://9gag.com/gag/aQEdd7K)<!-- MEMES:END -->
+ - 💣 [Her smile when she realized he was there](http://9gag.com/gag/aBdmdPZ)
+ - ⏩ [Leave rdj alone lol..](http://9gag.com/gag/aA0e05R)
+ - 👉 [AOP](http://9gag.com/gag/aYVyQoV)<!-- MEMES:END -->
 
 ---
 
