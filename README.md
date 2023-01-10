@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [WAIT FOR IT..](http://9gag.com/gag/aYVyrAw)
- - ⏩ [That&#39;s high 20s for you weenies...](http://9gag.com/gag/aWGxGq6)
- - 👉 [Me too!](http://9gag.com/gag/agoAAnW)<!-- MEMES:END -->
+ - 💣 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - ⏩ [The wonders of engineering keeping people safe](http://9gag.com/gag/aBdmdYx)
+ - 👉 [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)<!-- MEMES:END -->
 
 ---
 
