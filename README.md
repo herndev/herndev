@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cyclist got angry that his dog walked out on the cyclist lane slowing her down. Ironic.](http://9gag.com/gag/a1PWRvD)
- - ⏩ [Dude blew his interview in the first 5 minutes after he entered the building](http://9gag.com/gag/aGEdzEZ)
- - 👉 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 💣 [10 Years Later](http://9gag.com/gag/ay2eMOq)
+ - ⏩ [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)
+ - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 ---
 
