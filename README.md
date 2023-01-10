@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [This adventure game tech demo with AI-generated art is impressive and disconcerting](https://www.pcgamer.com/this-adventure-game-tech-demo-with-ai-generated-art-is-impressive-and-disconcerting)
  - [Company of Heroes 3 final tech test starts later this week and you&#39;re all invited](https://www.pcgamer.com/company-of-heroes-3-final-tech-test-starts-later-this-week-and-youre-all-invited)
- - [Samsung&#39;s self-driving display should be an actual sim rig](https://www.pcgamer.com/samsungs-self-driving-display-should-be-an-actual-sim-rig)
- - [One month after its release, one of our favorite games of 2022 is already $20 off](https://www.pcgamer.com/one-month-after-its-release-one-of-our-favorite-games-of-2022-is-already-dollar20-off)<!-- GAME:END -->
+ - [Samsung&#39;s self-driving display should be an actual sim rig](https://www.pcgamer.com/samsungs-self-driving-display-should-be-an-actual-sim-rig)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
