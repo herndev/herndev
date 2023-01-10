@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [1st date](http://9gag.com/gag/a7qWMn2)
- - ⏩ [Bikes](http://9gag.com/gag/aeQDMMO)
- - 👉 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
+ - 💣 [Wrong house? You gotta talk to God](http://9gag.com/gag/aXngqWD)
+ - ⏩ [People who know](http://9gag.com/gag/aMExKwV)
+ - 👉 [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)<!-- MEMES:END -->
 
 ---
 
