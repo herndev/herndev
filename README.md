@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [To buy, or not to buy? Here’s what you said about the PSVR 2.](https://www.androidauthority.com/sony-psvr-2-poll-results-3264845/)
- - [HBO&#39;s &#39;The Last of Us&#39; Review: The Greatest Video Game Adaptation Ever Made     - CNET](https://www.cnet.com/culture/entertainment/the-last-of-us-review-the-greatest-video-game-adaptation-ever-made/#ftag=CAD590a51e)
- - [HBO’s The Last of Us is a compact adaptation that puts you in the passenger seat](https://www.theverge.com/23543145/hbo-the-last-of-us-review)<!-- TECH:END -->
+ - [Looks like those OnePlus Nord 3 details were wrong &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-3264837/)
+ - [A breakdown of Binance&#39;s known assets, using data from Nansen and others, estimates the exchange has around $50B, including ~$10B in BNB, down 24% from November &lpar;Javier Paz/Forbes&rpar;](http://www.techmeme.com/230110/p4#a230110p4)
+ - [To buy, or not to buy? Here’s what you said about the PSVR 2.](https://www.androidauthority.com/sony-psvr-2-poll-results-3264845/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
