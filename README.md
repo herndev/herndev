@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Right-to-Repair Advocates Question John Deere’s New Promises](https://www.wired.com/story/right-to-repair-advocates-question-john-deeres-new-promises/)
- - [Deals: save $50 on every Apple Watch Ultra](https://appleinsider.com/articles/23/01/10/deals-save-50-on-every-apple-watch-ultra?utm_medium=rss)
- - [Scale AI, which labels data for ML algorithms and was valued at $7.3B in April 2021, lays off 20% of its staff; the startup had ~450 employees in February 2022 &lpar;Kirsten Korosec/TechCrunch&rpar;](http://www.techmeme.com/230110/p27#a230110p27)<!-- TECH:END -->
+ - [Sources: Cloud Software Group, the parent company of Citrix and Tibco, begin layoffs impacting thousands of employees &lpar;Wade Tyler Millward/CRN&rpar;](http://www.techmeme.com/230110/p29#a230110p29)
+ - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
+ - [Golden Globes 2023: Where to Watch &lpar;Or Stream&rpar; Tonight&#39;s Show     - CNET](https://www.cnet.com/culture/entertainment/golden-globes-2023where-to-watch-or-stream-tonights-show/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
