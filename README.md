@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Meta adds more limits on targeting users under 18 with ads, including removing the options to target teens users based on gender and in-app activity &lpar;Taylor Hatmaker/TechCrunch&rpar;](http://www.techmeme.com/230110/p22#a230110p22)
- - [Astronomers May Have Just Spotted the Universe’s First Galaxies](https://www.wired.com/story/astronomers-may-have-just-spotted-the-universes-first-galaxies/)
- - [Microsoft pivots to foldable screens, ditches its initial Surface Duo 3 plans](https://www.androidauthority.com/surface-duo-3-display-3265002/)<!-- TECH:END -->
+ - [Sources: Microsoft ditched a dual-screen design for the Surface Duo 3 and pivoted to a foldable screen design with 180-degree hinge and external cover display &lpar;Zac Bowden/Windows Central&rpar;](http://www.techmeme.com/230110/p25#a230110p25)
+ - [A look at Intel&#39;s struggles with launching Sapphire Rapids, originally slated for mid-2022, which Intel says has led to changes in product design and testing &lpar;Don Clark/New York Times&rpar;](http://www.techmeme.com/230110/p24#a230110p24)
+ - [Developers flood Apple&#39;s App Store and Google Play with apps listing &quot;ChatGPT&quot; in titles and descriptions; OpenAI doesn&#39;t offer a public ChatGPT API or an app &lpar;Ivan Mehta/TechCrunch&rpar;](http://www.techmeme.com/230110/p23#a230110p23)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
