@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [iPhone 16 Pro rumored to get under-display Face ID](https://appleinsider.com/articles/23/01/10/iphone-16-pro-rumored-to-get-under-display-face-id?utm_medium=rss)
- - [Common Sense Media survey of 1,358 US teenagers: 75% report having viewed porn online by 17, including 41% seeing images of nudity or sexual acts during school &lpar;Cecilia Kang/New York Times&rpar;](http://www.techmeme.com/230110/p12#a230110p12)
- - [&#39;Peaky Blinders&#39; Creator Steven Knight: &#39;History Is Chaos and Madness&#39;     - CNET](https://www.cnet.com/culture/entertainment/peaky-blinders-and-rogue-heroes-creator-steven-knight-history-is-chaos-and-madness/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The iPhone 16 series could offer under-display Face ID next year](https://www.androidauthority.com/apple-iphone-16-under-display-face-id-3264910/)
+ - [Daily Deals Jan. 10: Fire TV Stick 4K for $35, $100 off iPad mini 6 &amp; more](https://appleinsider.com/articles/23/01/10/daily-deals-jan-10-fire-tv-stick-4k-for-35-100-off-ipad-mini-6-more?utm_medium=rss)
+ - [Amazon plans to launch Buy with Prime for all US-based merchants on January 31, letting them access Prime benefits, expanding on Fulfillment by Amazon merchants &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230110/p13#a230110p13)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
