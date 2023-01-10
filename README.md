@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Nothing happens!](http://9gag.com/gag/amAvv06)
- - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
- - 👉 [Something is missing...](http://9gag.com/gag/a2KW4QD)<!-- MEMES:END -->
+ - 💣 [WAIT FOR IT..](http://9gag.com/gag/aYVyrAw)
+ - ⏩ [That&#39;s high 20s for you weenies...](http://9gag.com/gag/aWGxGq6)
+ - 👉 [Me too!](http://9gag.com/gag/agoAAnW)<!-- MEMES:END -->
 
 ---
 
