@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel&#39;s Midnight Suns has competition from an indie game with an extremely similar name and premise](https://www.pcgamer.com/marvels-midnight-suns-has-competition-from-an-indie-game-with-an-extremely-similar-name-and-premise)
- - [Single’s Inferno filled the Bachelor-sized hole in my heart](https://www.polygon.com/23547301/singles-inferno-netflix-bachelor-dating-reality-tv)
- - [12 Things Every New Steam Deck Owner Should Try Or Consider](https://kotaku.com/steam-deck-valve-lock-screen-graphics-battery-framerate-1849970296)<!-- GAME:END -->
+ - [One Of The Most Beloved Nintendo Controllers Is Back To Fix Switch Joy-Con Drift](https://kotaku.com/joy-con-drift-switch-gamecube-controller-wavebird-nyxi-1849970883)
+ - [The creators of Hulu’s Koala Man flip the adult animation script with sincerity](https://www.polygon.com/23548310/koala-man-hulu-creators-interview)
+ - [2023 is the year for a small, tactical upgrade to your PC](https://www.pcgamer.com/2023-is-the-year-for-a-small-tactical-upgrade-to-your-pc)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
