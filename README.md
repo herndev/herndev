@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple names broadcasters for MLS Season Pass on Apple TV+](https://appleinsider.com/articles/23/01/10/apple-names-broadcasters-for-mls-season-pass-on-apple-tv?utm_medium=rss)
- - [Amazon’s opening up Buy with Prime, pulling other US retailers into its ‘free’ shipping subscription](https://www.theverge.com/2023/1/10/23548108/amazon-buy-with-prime-button-expansion)
- - [What is chokepoint capitalism with authors Cory Doctorow and Rebecca Giblin](https://www.theverge.com/23547877/decoder-chokepoint-capitalism-cory-doctorow-rebecca-giblin-spotify-ticketmaster-antitrust)<!-- TECH:END -->
+ - [Apple opens up Podcasts Subscriptions to publishers on rival services](https://appleinsider.com/articles/23/01/10/apple-opens-up-podcasts-subscriptions-to-publishers-on-rival-services?utm_medium=rss)
+ - [Nothing Phone 1 comes to the US through beta membership](https://www.androidauthority.com/nothing-phone-1-us-3264970/)
+ - [Apple &#39;Shape Island&#39; trailer drops ahead of January 20 debut](https://appleinsider.com/articles/23/01/10/apple-shape-island-drops-ahead-of-january-20-streaming-debut?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
