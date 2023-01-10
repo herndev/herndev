@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Jersey and Ohio ban TikTok on government-owned and managed devices; New Jersey&#39;s governor plans to ban products from 12+ vendors including Huawei and ZTE &lpar;David Shepardson/Reuters&rpar;](http://www.techmeme.com/230109/p35#a230109p35)
- - [Sources: Microsoft is in talks to invest $10B in OpenAI at a $29B valuation while taking 75% of the startup&#39;s profits until the company recoups its investment &lpar;Semafor&rpar;](http://www.techmeme.com/230109/p34#a230109p34)
- - [Microsoft unveils VALL-E, a text-to-speech AI model trained on 60K hours of English speech that can simulate a person&#39;s voice from three seconds of sample audio &lpar;Benj Edwards/Ars Technica&rpar;](http://www.techmeme.com/230109/p33#a230109p33)<!-- TECH:END -->
+ - [Sources: former FTX engineering chief Nishad Singh, who has not been accused of wrongdoing, met with US federal prosecutors last week to seek a cooperation deal &lpar;Bloomberg&rpar;](http://www.techmeme.com/230109/p37#a230109p37)
+ - [The FAA proposes a February 1, 2024 deadline for airlines to replace or retrofit altimeters that can&#39;t filter out 5G signals, preventing full C-Band deployment &lpar;Jon Brodkin/Ars Technica&rpar;](http://www.techmeme.com/230109/p36#a230109p36)
+ - [Monday’s top tech news: an Apple headset this year? Finally?](https://www.theverge.com/2023/1/9/23546147/january-9-2023-tech-news-liveblog)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
