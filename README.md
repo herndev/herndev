@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 570 answer and hint for Tuesday, January 10](https://www.pcgamer.com/wordle-570-answer-january-10)
- - [HBO’s The Last of Us finds hope in another zombie apocalypse — for some](https://www.polygon.com/reviews/23547254/last-us-review-hbo-tv)
- - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/09/this-weeks-deals-with-gold-and-spotlight-sale-257/)<!-- GAME:END -->
+ - [Rumoured AI-enhanced Nvidia graphics driver could boost performance by 30%](https://www.pcgamer.com/rumoured-ai-enhanced-nvidia-graphics-driver-could-boost-performance-by-30)
+ - [The Callisto Protocol leaves key developers out of its credits](https://www.pcgamer.com/the-callisto-protocol-leaves-key-developers-out-of-its-credits)
+ - [Today&#39;s Wordle 570 answer and hint for Tuesday, January 10](https://www.pcgamer.com/wordle-570-answer-january-10)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
