@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy XVI Producer Suggests PC Players Should Just &#39;Buy A PS5&#39;](https://kotaku.com/final-fantasy-16-release-ps5-exclusive-pc-naoki-yoshida-1849971190)
- - [TMNT: Shredder’s Revenge now on mobile via Netflix](https://www.polygon.com/23548751/tmnt-shredders-revenge-mobile-netflix-announcement)
- - [Gaming YouTube Is In Turmoil Thanks To New Violence And Profanity Rules](https://kotaku.com/youtube-violence-profanity-policy-rtgame-moist-critical-1849971177)<!-- GAME:END -->
+ - [Fortnite on the fritz as Epic struggles to squish multiple major bugs](https://www.pcgamer.com/fortnite-on-the-fritz-as-epic-struggles-to-squish-multiple-major-bugs)
+ - [The Last of Us TV show is a massive critical hit](https://www.pcgamer.com/the-last-of-us-tv-show-is-a-massive-critical-hit)
+ - [Final Fantasy XVI Producer Suggests PC Players Should Just &#39;Buy A PS5&#39;](https://kotaku.com/final-fantasy-16-release-ps5-exclusive-pc-naoki-yoshida-1849971190)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
