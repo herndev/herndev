@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Looks like those OnePlus Nord 3 details were wrong &lpar;Updated&rpar;](https://www.androidauthority.com/oneplus-nord-3-nord-ce-3-3264837/)
- - [A breakdown of Binance&#39;s known assets, using data from Nansen and others, estimates the exchange has around $50B, including ~$10B in BNB, down 24% from November &lpar;Javier Paz/Forbes&rpar;](http://www.techmeme.com/230110/p4#a230110p4)
- - [To buy, or not to buy? Here’s what you said about the PSVR 2.](https://www.androidauthority.com/sony-psvr-2-poll-results-3264845/)<!-- TECH:END -->
+ - [Does NordVPN work with Netflix?](https://www.androidauthority.com/does-nordvpn-work-with-netflix-3262553/)
+ - [Google releases the Extension SDK for developers to bring new features, like the new Photo Picker API that launched with Android 13, to older Android versions &lpar;Adam Conway/XDA Developers&rpar;](http://www.techmeme.com/230110/p6#a230110p6)
+ - [Daily Authority: 📱 Samsung Galaxy A54 launch, new Pixel emoji](https://www.androidauthority.com/daily-authority-january-10-2023-3264530/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
