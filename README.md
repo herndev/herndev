@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ant-Man and the Wasp: Quantumania shows off MODOK, Kang, and the Quantum Realm](https://www.polygon.com/23547481/ant-man-wasp-quantumania-trailer-modok-kang-release-date-cast)
- - [MSI GeForce RTX 4080 Suprim X](https://www.pcgamer.com/msi-geforce-rtx-4080-suprim-x)
- - [This adventure game tech demo with AI-generated art is impressive and disconcerting](https://www.pcgamer.com/this-adventure-game-tech-demo-with-ai-generated-art-is-impressive-and-disconcerting)<!-- GAME:END -->
+ - [This Week’s Deals with Gold and Spotlight Sale](https://news.xbox.com/en-us/2023/01/09/this-weeks-deals-with-gold-and-spotlight-sale-257/)
+ - [Asus&#39;s new gaming routers look like spiders, are Wi-Fi 7 ready](https://www.pcgamer.com/asuss-new-gaming-routers-look-like-spiders-are-wi-fi-7-ready)
+ - [Ant-Man and the Wasp: Quantumania shows off MODOK, Kang, and the Quantum Realm](https://www.polygon.com/23547481/ant-man-wasp-quantumania-trailer-modok-kang-release-date-cast)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
