@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Damn Woman](http://9gag.com/gag/aQEdExr)
- - ⏩ [Drilling a hole in a wall goes wrong](http://9gag.com/gag/aBdm20N)
- - 👉 [Sigma move](http://9gag.com/gag/aVbwwDy)<!-- MEMES:END -->
+ - ⏩ [What a shy person](http://9gag.com/gag/aEqP8gn)
+ - 👉 [Nothing happens!](http://9gag.com/gag/amAvv06)<!-- MEMES:END -->
 
 ---
 
