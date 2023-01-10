@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The Rescue Of Logan Paul&#39;s Old Pig Has The Internet Aghast](https://kotaku.com/logan-paul-pearl-pig-crypto-animal-rescue-youtube-1849970003)
- - [Where to unlock the Euphrosyne alliance raid in FFXIV](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23546698/euphrosyne-raid-unlock-location-alliance-myths-of-the-realm-gear-6-3-item-level)
- - [New on Xbox Game Pass for January: Persona’s portable ports, and Monster Hunter](https://www.polygon.com/23548362/xbox-game-pass-pc-january-2023-games-release-date)<!-- GAME:END -->
+ - [Marvel&#39;s Midnight Suns has competition from an indie game with an extremely similar name and premise](https://www.pcgamer.com/marvels-midnight-suns-has-competition-from-an-indie-game-with-an-extremely-similar-name-and-premise)
+ - [Single’s Inferno filled the Bachelor-sized hole in my heart](https://www.polygon.com/23547301/singles-inferno-netflix-bachelor-dating-reality-tv)
+ - [12 Things Every New Steam Deck Owner Should Try Or Consider](https://kotaku.com/steam-deck-valve-lock-screen-graphics-battery-framerate-1849970296)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
