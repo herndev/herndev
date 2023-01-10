@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What do you hear?](http://9gag.com/gag/anz4Mbq)
- - ⏩ [Jack lifts the engine.](http://9gag.com/gag/amAv71V)
- - 👉 [Bikes](http://9gag.com/gag/aeQDMMO)<!-- MEMES:END -->
+ - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
+ - ⏩ [Valedictorian slams ineffective school staff in graduation speech](http://9gag.com/gag/a9qn1wD)
+ - 👉 [Renters demand a new dryer since this one \u201cisn\u2019t working well\u201d...](http://9gag.com/gag/a04NZBz)<!-- MEMES:END -->
 
 ---
 
