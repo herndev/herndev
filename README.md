@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Some men just want to watch the world burn](http://9gag.com/gag/aZDyLR9)
- - ⏩ [Sigma move](http://9gag.com/gag/aVbwwDy)
- - 👉 [Foreigner fails to bribe a Cop in Chile.](http://9gag.com/gag/aKE7dgZ)<!-- MEMES:END -->
+ - 💣 [They were taught to be a victim.](http://9gag.com/gag/aZDy0Dn)
+ - ⏩ [Some will say it&#39;s photoshopped](http://9gag.com/gag/aeQDQAQ)
+ - 👉 [.](http://9gag.com/gag/a4o3o9d)<!-- MEMES:END -->
 
 ---
 
