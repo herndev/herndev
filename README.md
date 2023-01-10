@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [G.Skill Trident Z5 RGB DDR5-7200 CL34](https://www.pcgamer.com/gskill-trident-z5-rgb-ddr5-7200-cl34)
- - [The Writer Of Minecraft&#39;s Ending Poem Got High And Made It Free](https://kotaku.com/minecraft-ending-poem-microsoft-public-domain-contract-1849967368)
- - [Windows 11 requirements: How to check if your PC can run it](https://www.pcgamer.com/windows-11-requirements)<!-- GAME:END -->
+ - [Company of Heroes 3 final tech test starts later this week and you&#39;re all invited](https://www.pcgamer.com/company-of-heroes-3-final-tech-test-starts-later-this-week-and-youre-all-invited)
+ - [Samsung&#39;s self-driving display should be an actual sim rig](https://www.pcgamer.com/samsungs-self-driving-display-should-be-an-actual-sim-rig)
+ - [One month after its release, one of our favorite games of 2022 is already $20 off](https://www.pcgamer.com/one-month-after-its-release-one-of-our-favorite-games-of-2022-is-already-dollar20-off)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
