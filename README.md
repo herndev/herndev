@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The iPhone 16 series could offer under-display Face ID next year](https://www.androidauthority.com/apple-iphone-16-under-display-face-id-3264910/)
- - [Daily Deals Jan. 10: Fire TV Stick 4K for $35, $100 off iPad mini 6 &amp; more](https://appleinsider.com/articles/23/01/10/daily-deals-jan-10-fire-tv-stick-4k-for-35-100-off-ipad-mini-6-more?utm_medium=rss)
- - [Amazon plans to launch Buy with Prime for all US-based merchants on January 31, letting them access Prime benefits, expanding on Fulfillment by Amazon merchants &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230110/p13#a230110p13)<!-- TECH:END -->
+ - [German drugmaker BioNTech acquires London-based AI startup InstaDeep for up to &amp;pound;562M to help harness machine learning to improve drug discovery &lpar;Hannah Kuchler/Financial Times&rpar;](http://www.techmeme.com/230110/p16#a230110p16)
+ - [New DJI RS 3 Mini supports vertical videos &amp; mirrorless cameras](https://appleinsider.com/articles/23/01/10/new-dji-rs-3-mini-supports-vertical-videos-mirrorless-cameras?utm_medium=rss)
+ - [Apple Watch rumored to get MicroLED face in 2025](https://appleinsider.com/articles/23/01/10/apple-watch-rumored-to-get-microled-face-in-2025?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
