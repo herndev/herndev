@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Analysis: cybersecurity startups raised $15.3B in 2022, down by a third from a record $22.8B raised in 2021 but still 68% higher than the $9.1B raised in 2020 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230111/p1#a230111p1)
- - [Kuo: First MacBook with OLED display could launch in 2024](https://appleinsider.com/articles/23/01/11/kuo-first-macbook-with-oled-display-could-launch-in-2024?utm_medium=rss)
- - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-films-on-netflix-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Samsung could skip the Galaxy S24 Plus in 2024](https://www.androidauthority.com/samsung-skip-galaxy-s24-plus-3265279/)
+ - [Sources: Tata Group&#39;s WeChat-like super app Neu is expected to generate sales of ~$4B in the year to March 31, missing the $8B goal set at the start of 2022 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230111/p3#a230111p3)
+ - [Watch: Samsung drops first official Galaxy S23 teaser videos](https://www.androidauthority.com/samsung-galaxy-s23-teasers-3263552/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
