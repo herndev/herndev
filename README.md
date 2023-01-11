@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple’s MicroLED dream: what it means for the Apple Watch and beyond](https://www.theverge.com/2023/1/11/23550155/apple-microled-watch-iphone-explained)
- - [Twitter says that the company&#39;s investigation found &quot;no evidence&quot; that its users&#39; data sold online was obtained by exploiting vulnerabilities in its systems &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230111/p33#a230111p33)
- - [Apple may ditch physical power and volume buttons on the iPhone 15 Pro](https://www.androidauthority.com/apple-15-pro-buttons-3265558/)<!-- TECH:END -->
+ - [The FAA NOTAM Outage Highlights an Essential System Everyone Hates](https://www.wired.com/story/faa-notam-outage/)
+ - [Apple considering 2025 debut of touchscreen MacBook Pro](https://appleinsider.com/articles/23/01/11/apple-considering-2025-debut-of-touchscreen-macbook-pro?utm_medium=rss)
+ - [Sources: Apple is working on Macs with a touchscreen; the first model may be a MacBook Pro with an OLED display supporting gestures, set to be released in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230111/p35#a230111p35)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
