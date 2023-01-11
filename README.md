@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 Years Later](http://9gag.com/gag/ay2eMOq)
- - ⏩ [Damn Woman](http://9gag.com/gag/aQEdExr)
- - 👉 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)<!-- MEMES:END -->
+ - 💣 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - ⏩ [Choose wisely](http://9gag.com/gag/az2m58x)
+ - 👉 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
 
 ---
 
