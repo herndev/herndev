@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
- - [X project Mineral, which debuted in March 2018 to use AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, graduates into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
- - [Apple’s next custom hardware trick might be its own microLED screens](https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung)<!-- TECH:END -->
+ - [Filing: Google warns Android growth in India will stall due to the CCI&#39;s antitrust order that requires making &quot;far-reaching changes&quot; to its mobile platform &lpar;Reuters&rpar;](http://www.techmeme.com/230110/p39#a230110p39)
+ - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)
+ - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
