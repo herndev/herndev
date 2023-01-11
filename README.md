@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [10 Years Later](http://9gag.com/gag/ay2eMOq)
- - ⏩ [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 👉 [Choose wisely](http://9gag.com/gag/az2m58x)<!-- MEMES:END -->
+ - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
+ - ⏩ [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
 
 ---
 
