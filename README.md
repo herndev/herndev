@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Riot apologises for awful League of Legends cinematic after fan backlash](https://www.pcgamer.com/riot-apologises-for-awful-league-of-legends-cinematic-after-fan-backlash)
  - [The science fiction and fantasy books we’re excited for in 2023](https://www.polygon.com/23546367/new-books-science-fiction-fantasy-2023)
- - [D&amp;D is getting a live-action TV adaptation from the writer and director of Dodgeball](https://www.pcgamer.com/dandd-is-getting-a-live-action-tv-adaptation-from-the-writer-and-director-of-dodgeball)
- - [How to complete the Forgotten Grotto Relics world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-forgotten-grotto-relics)<!-- GAME:END -->
+ - [D&amp;D is getting a live-action TV adaptation from the writer and director of Dodgeball](https://www.pcgamer.com/dandd-is-getting-a-live-action-tv-adaptation-from-the-writer-and-director-of-dodgeball)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
