@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)
- - [Samsung&#39;s Galaxy Unpacked event is on February 1](https://appleinsider.com/articles/23/01/11/samsungs-galaxy-unpacked-event-is-on-february-1?utm_medium=rss)
- - [Sources: Apple plans to start making its own displays for mobile devices, starting with microLED screens for high-end Watches by the end of 2024, iPhones later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230110/p37#a230110p37)<!-- TECH:END -->
+ - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
+ - [Alphabet graduates its X Moonshot project Mineral, which uses AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
+ - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
