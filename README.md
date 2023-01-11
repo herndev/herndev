@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Cloud Software Group, the parent company of Citrix and Tibco, begin layoffs impacting thousands of employees &lpar;Wade Tyler Millward/CRN&rpar;](http://www.techmeme.com/230110/p29#a230110p29)
- - [Here are the best iPad deals right now](https://www.theverge.com/21280354/best-ipad-deals-apple)
- - [Golden Globes 2023: Where to Watch &lpar;Or Stream&rpar; Tonight&#39;s Show     - CNET](https://www.cnet.com/culture/entertainment/golden-globes-2023where-to-watch-or-stream-tonights-show/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Parler&#39;s parent company laid off most of its staff and chief executives over the last few weeks, leaving the company with approximately 20 employees &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230110/p33#a230110p33)
+ - [A US bankruptcy judge approves Voyager&#39;s request to sell its crypto platform to Binance.US for $20M, overruling objections by federal regulators and some states &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/230110/p32#a230110p32)
+ - [Oxbotica, an Oxford-based autonomous vehicle software developer for enterprise customers, raised a $140M Series C, bringing its total funding to $225M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230110/p31#a230110p31)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
