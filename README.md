@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
- - [Apple Fitness+ Kickboxing Review: Beginners, beware](https://appleinsider.com/articles/23/01/11/apple-fitness-kickboxing-review-beginners-beware?utm_medium=rss)
- - [Sources: Twitter has considered selling usernames through online auctions to generate new revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230111/p29#a230111p29)<!-- TECH:END -->
+ - [Equity management service Carta cuts 10% of its staff, possibly impacting ~200 workers, as it sues a former CTO; the company was valued at $7.4B in August 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/230111/p31#a230111p31)
+ - [App Store&#39;s December may not have been all that great](https://appleinsider.com/articles/23/01/11/app-stores-december-may-not-have-been-all-that-great?utm_medium=rss)
+ - [Memo: Microsoft to give US salaried staff unlimited &quot;Discretionary Time Off&quot;, plus 10 corporate holidays, leaves of absence, mental health time off, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p30#a230111p30)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
