@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
- - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
- - 👉 [Nothing happens!](http://9gag.com/gag/amAvv06)<!-- MEMES:END -->
+ - 💣 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)
+ - ⏩ [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 👉 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 ---
 
