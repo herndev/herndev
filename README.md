@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Analysis: cybersecurity startups raised $15.3B in 2022, down by a third from a record $22.8B raised in 2021 but still 68% higher than the $9.1B raised in 2020 &lpar;Chris Metinko/Crunchbase News&rpar;](http://www.techmeme.com/230111/p1#a230111p1)
  - [Kuo: First MacBook with OLED display could launch in 2024](https://appleinsider.com/articles/23/01/11/kuo-first-macbook-with-oled-display-could-launch-in-2024?utm_medium=rss)
- - [Microsoft releases 98 security fixes, including 11 critical vulnerabilities and one for an actively exploited privilege escalation zero-day flaw in Windows ALPC &lpar;Jai Vijayan/Dark Reading&rpar;](http://www.techmeme.com/230110/p41#a230110p41)
- - [Apple Reportedly Plans to Use Own Screens on Mobile Devices     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-plans-to-use-own-screens-on-mobile-devices/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [The Absolute Best Horror Movies on Netflix     - CNET](https://www.cnet.com/culture/entertainment/the-absolute-best-horror-films-on-netflix-to-watch-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
