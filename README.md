@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Filing: Google warns Android growth in India will stall due to the CCI&#39;s antitrust order that requires making &quot;far-reaching changes&quot; to its mobile platform &lpar;Reuters&rpar;](http://www.techmeme.com/230110/p39#a230110p39)
- - [Guillermo del Toro&#39;s &#39;Pinocchio&#39; Is About Life, Death and Mussolini     - CNET](https://www.cnet.com/culture/entertainment/guillermo-del-toros-pinocchio-is-about-life-death-and-mussolini/#ftag=CAD590a51e)
- - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)<!-- TECH:END -->
+ - [Kuo: First MacBook with OLED display could launch in 2024](https://appleinsider.com/articles/23/01/11/kuo-first-macbook-with-oled-display-could-launch-in-2024?utm_medium=rss)
+ - [Microsoft releases 98 security fixes, including 11 critical vulnerabilities and one for an actively exploited privilege escalation zero-day flaw in Windows ALPC &lpar;Jai Vijayan/Dark Reading&rpar;](http://www.techmeme.com/230110/p41#a230110p41)
+ - [Apple Reportedly Plans to Use Own Screens on Mobile Devices     - CNET](https://www.cnet.com/tech/mobile/apple-reportedly-plans-to-use-own-screens-on-mobile-devices/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
