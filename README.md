@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)
- - ⏩ [Damn Woman](http://9gag.com/gag/aQEdExr)
- - 👉 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)<!-- MEMES:END -->
+ - 💣 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
+ - ⏩ [What if...](http://9gag.com/gag/aEqPVOx)
+ - 👉 [The truth must be spoken!](http://9gag.com/gag/abvG45L)<!-- MEMES:END -->
 
 ---
 
