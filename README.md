@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
- - ⏩ [That dude at the end be like, `How? Why? Wait a minute ..`](http://9gag.com/gag/a2KWMmO)
- - 👉 [Never did i think about it this way.](http://9gag.com/gag/adPVvA9)<!-- MEMES:END -->
+ - 💣 [Just quick reminder](http://9gag.com/gag/aYVyQZ7)
+ - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
+ - 👉 [Nothing happens!](http://9gag.com/gag/amAvv06)<!-- MEMES:END -->
 
 ---
 
