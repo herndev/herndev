@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Watch Intel show off unreleased 6GHz chip in the labs](https://www.pcgamer.com/watch-intel-show-off-unreleased-6ghz-chip-in-the-labs)
- - [Logitech Chorus](https://www.pcgamer.com/logitech-chorus-review)
- - [Today&#39;s Wordle 571 answer and hint for Wednesday, January 11](https://www.pcgamer.com/wordle-571-answer-january-11)<!-- GAME:END -->
+ - [The science fiction and fantasy books we’re excited for in 2023](https://www.polygon.com/23546367/new-books-science-fiction-fantasy-2023)
+ - [D&amp;D is getting a live-action TV adaptation from the writer and director of Dodgeball](https://www.pcgamer.com/dandd-is-getting-a-live-action-tv-adaptation-from-the-writer-and-director-of-dodgeball)
+ - [How to complete the Forgotten Grotto Relics world quest in WoW: Dragonflight](https://www.pcgamer.com/world-of-warcraft-wow-forgotten-grotto-relics)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
