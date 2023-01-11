@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Judge rules Apple Watch infringes Masimo pulse oximetry patent](https://appleinsider.com/articles/23/01/11/judge-rules-apple-watch-infringes-masimo-pulse-oximetry-patent?utm_medium=rss)
- - [How Section 19a of Germany&#39;s Competition Act gives antitrust authorities the power to divest and sanction Big Tech, as the EU slowly rolls out its enforcement &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230111/p7#a230111p7)
- - [Court documents: New England Patriots owner Robert Kraft, NFL star Tom Brady, a Peter Thiel-linked trust, and more own FTX Group stock, now considered worthless &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230111/p6#a230111p6)<!-- TECH:END -->
+ - [MacBook Pro with OLED display rumored to arrive in 2024](https://appleinsider.com/articles/23/01/11/kuo-first-macbook-with-oled-display-could-launch-in-2024?utm_medium=rss)
+ - [BOE plans $400 million investment in new Vietnam factories](https://appleinsider.com/articles/23/01/11/boe-plans-400-million-investment-in-new-vietnam-factories?utm_medium=rss)
+ - [Cory Doctorow and law professor Rebecca Giblin on their new book, Chokepoint Capitalism, and how tech platforms monetize creators via distribution bottlenecks &lpar;Nilay Patel/The Verge&rpar;](http://www.techmeme.com/230111/p12#a230111p12)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
