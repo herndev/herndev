@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: Parler&#39;s parent company laid off most of its staff and chief executives over the last few weeks, leaving the company with approximately 20 employees &lpar;Makena Kelly/The Verge&rpar;](http://www.techmeme.com/230110/p33#a230110p33)
- - [A US bankruptcy judge approves Voyager&#39;s request to sell its crypto platform to Binance.US for $20M, overruling objections by federal regulators and some states &lpar;Steven Church/Bloomberg&rpar;](http://www.techmeme.com/230110/p32#a230110p32)
- - [Oxbotica, an Oxford-based autonomous vehicle software developer for enterprise customers, raised a $140M Series C, bringing its total funding to $225M &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230110/p31#a230110p31)<!-- TECH:END -->
+ - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)
+ - [Samsung&#39;s Galaxy Unpacked event is on February 1](https://appleinsider.com/articles/23/01/11/samsungs-galaxy-unpacked-event-is-on-february-1?utm_medium=rss)
+ - [Sources: Apple plans to start making its own displays for mobile devices, starting with microLED screens for high-end Watches by the end of 2024, iPhones later &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230110/p37#a230110p37)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
