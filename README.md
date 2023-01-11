@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The FAA NOTAM Outage Highlights an Essential System Everyone Hates](https://www.wired.com/story/faa-notam-outage/)
- - [Apple considering 2025 debut of touchscreen MacBook Pro](https://appleinsider.com/articles/23/01/11/apple-considering-2025-debut-of-touchscreen-macbook-pro?utm_medium=rss)
- - [Sources: Apple is working on Macs with a touchscreen; the first model may be a MacBook Pro with an OLED display supporting gestures, set to be released in 2025 &lpar;Mark Gurman/Bloomberg&rpar;](http://www.techmeme.com/230111/p35#a230111p35)<!-- TECH:END -->
+ - [Alphabet&#39;s life sciences unit Verily lays off about 15% of its staff, or more than 200 employees, and discontinues work on several products &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230111/p37#a230111p37)
+ - [Google strikes back in search antitrust lawsuit](https://www.theverge.com/2023/1/11/23550023/google-search-antitrust-doj-state-lawsuit-unsealed)
+ - [In the Next Pandemic, Let’s Pay People to Get Vaccinated](https://www.wired.com/story/lets-pay-people-to-get-vaccinated/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
