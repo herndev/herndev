@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [That&#39;s what grandma&#39;s do](http://9gag.com/gag/aMExYA1)
- - ⏩ [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - 👉 [HUP!](http://9gag.com/gag/aDY4dn7)<!-- MEMES:END -->
+ - 💣 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - ⏩ [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
+ - 👉 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)<!-- MEMES:END -->
 
 ---
 
