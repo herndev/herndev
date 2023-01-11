@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [How Tinder changed everything](https://www.theverge.com/23549905/tinder-swipe-creation-dating-app-revolution-land-of-the-giants)
- - [Why some of the biggest names in tech and auto are teaming up on virtual power plants](https://www.theverge.com/2023/1/11/23548812/gm-google-nest-virtual-power-plants-rmi-ford-electricity-grid)
- - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)<!-- TECH:END -->
+ - [In a Discord post, OpenAI says it&#39;s &quot;starting to&quot; consider monetizing ChatGPT, possibly via ChatGPT Professional, polls members on payment preferences, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230111/p20#a230111p20)
+ - [Daily Deals Jan. 11: $200 off M2 MacBook Air, $139 15-in-1 Thunderbolt 3 dock, 33% off Apple Watch &amp; more](https://appleinsider.com/articles/23/01/11/daily-deals-jan-11-200-off-m2-macbook-air-139-15-in-1-thunderbolt-3-dock-33-off-apple-watch-more?utm_medium=rss)
+ - [Razer Edge 5G gaming handheld -- hands on at CES](https://appleinsider.com/articles/23/01/11/razer-edge-5g-gaming-handheld----hands-on-at-ces?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
