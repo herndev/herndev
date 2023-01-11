@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
- - ⏩ [What if...](http://9gag.com/gag/aEqPVOx)
- - 👉 [The truth must be spoken!](http://9gag.com/gag/abvG45L)<!-- MEMES:END -->
+ - 💣 [Most](http://9gag.com/gag/aWGxn6Z)
+ - ⏩ [People who know](http://9gag.com/gag/aMExKwV)
+ - 👉 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
 
 ---
 
