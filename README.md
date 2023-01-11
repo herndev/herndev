@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox Is Now the First Carbon Aware Console, Update Rolling Out to Everyone Soon](https://news.xbox.com/en-us/2023/01/11/xbox-carbon-aware-console-sustainability/)
- - [New League Of Legends Trailer Is So Bad Riot Had To Answer For It](https://kotaku.com/league-of-legends-new-trailer-season-brink-of-infinity-1849975104)
- - [The original Legend of Zelda in VR is more terrifying than you’d expect](https://www.polygon.com/zelda/23550050/legend-of-zelda-1986-vr-doom-mod-nintendo)<!-- GAME:END -->
+ - [I can’t believe I’m saying this again but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-again-but-skull-and-bones-is-delayed-again)
+ - [New Velma trailer shows off the bratty high school versions of the Scooby gang](https://www.polygon.com/23550360/velma-show-hbo-max-plot-synopsis-release-date-trailer)
+ - [Microsoft reportedly plans to invest $10B into the creator of ChatGPT and DALL-E](https://www.pcgamer.com/microsoft-reportedly-plans-to-invest-dollar10b-into-the-creator-of-chatgpt-and-dall-e)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
