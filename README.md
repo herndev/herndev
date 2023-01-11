@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Hiu Goreng Vegetarian](http://9gag.com/gag/aoKPVB0)
- - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
- - 👉 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)<!-- MEMES:END -->
+ - 💣 [If you prefer TikTok over 9gag, you&#39;re an idiot](http://9gag.com/gag/ay2e90X)
+ - ⏩ [Damn Woman](http://9gag.com/gag/aQEdExr)
+ - 👉 [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)<!-- MEMES:END -->
 
 ---
 
