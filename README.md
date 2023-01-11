@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [In a Discord post, OpenAI says it&#39;s &quot;starting to&quot; consider monetizing ChatGPT, possibly via ChatGPT Professional, polls members on payment preferences, and more &lpar;Kyle Wiggers/TechCrunch&rpar;](http://www.techmeme.com/230111/p20#a230111p20)
- - [Daily Deals Jan. 11: $200 off M2 MacBook Air, $139 15-in-1 Thunderbolt 3 dock, 33% off Apple Watch &amp; more](https://appleinsider.com/articles/23/01/11/daily-deals-jan-11-200-off-m2-macbook-air-139-15-in-1-thunderbolt-3-dock-33-off-apple-watch-more?utm_medium=rss)
- - [Razer Edge 5G gaming handheld -- hands on at CES](https://appleinsider.com/articles/23/01/11/razer-edge-5g-gaming-handheld----hands-on-at-ces?utm_medium=rss)<!-- TECH:END -->
+ - [Apple&#39;s AR &amp; VR headset will launch into a poorly defined market](https://appleinsider.com/articles/23/01/11/apples-ar-vr-headset-will-launch-into-a-poorly-defined-market?utm_medium=rss)
+ - [Mujjo&#39;s newest iPhone wallet case works with MagSafe charging](https://appleinsider.com/articles/23/01/11/mujjos-newest-iphone-wallet-case-works-with-magsafe-charging?utm_medium=rss)
+ - [Jackery shines at CES 2023 with Pro Family solar generators](https://www.androidauthority.com/jackery-3264978/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
