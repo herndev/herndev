@@ -37,8 +37,8 @@
 
 <!-- TECH:START -->
  - [What is Qi2 wireless charging? Everything you need to know](https://www.androidauthority.com/qi2-wireless-charging-3265223/)
- - [Alphabet graduates its X Moonshot project Mineral, which uses AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
- - [Apple may be designing its own Apple Watch MicroLED screen](https://appleinsider.com/articles/23/01/11/apple-may-be-designing-its-own-apple-watch-microled-screen?utm_medium=rss)<!-- TECH:END -->
+ - [X project Mineral, which debuted in March 2018 to use AI, ML, and edge computing to &quot;help scale sustainable agriculture&quot;, graduates into a full Alphabet company &lpar;Abner Li/9to5Google&rpar;](http://www.techmeme.com/230110/p38#a230110p38)
+ - [Apple’s next custom hardware trick might be its own microLED screens](https://www.theverge.com/2023/1/10/23549429/microled-apple-watch-rumor-custom-design-samsung)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
