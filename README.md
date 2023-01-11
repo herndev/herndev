@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
- - ⏩ [French animation hits different [Dofus: Book 1]](http://9gag.com/gag/aVbwE9d)
- - 👉 [When i clicked on posts before it showed comments, now comments are gone by default and I need to click another button to get to comments. This is stupid.](http://9gag.com/gag/armVXvB)<!-- MEMES:END -->
+ - 💣 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
+ - ⏩ [We live in a society](http://9gag.com/gag/a3ZwAo1)
+ - 👉 [Here we go 11/01/2023. / whos next](http://9gag.com/gag/aA0eKNZ)<!-- MEMES:END -->
 
 ---
 
