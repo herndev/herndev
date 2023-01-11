@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Most](http://9gag.com/gag/aWGxn6Z)
- - ⏩ [People who know](http://9gag.com/gag/aMExKwV)
- - 👉 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
+ - 💣 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
+ - ⏩ [French animation hits different [Dofus: Book 1]](http://9gag.com/gag/aVbwE9d)
+ - 👉 [When i clicked on posts before it showed comments, now comments are gone by default and I need to click another button to get to comments. This is stupid.](http://9gag.com/gag/armVXvB)<!-- MEMES:END -->
 
 ---
 
