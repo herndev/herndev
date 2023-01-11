@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Revealing Mortal Kombat II Code Leak Pulled By Warner Bros.](https://kotaku.com/mortal-kombat-2-mk2-source-code-leak-dmca-takedown-1849977045)
- - [Lian Li&#39;s just went ahead and made fans cool again](https://www.pcgamer.com/lian-lis-just-went-ahead-and-made-desktop-fans-cool-again)
- - [FFXIV Adventurer Plate and portrait guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23550356/adventurer-plate-instant-portrait-not-working-bug-fixes)<!-- GAME:END -->
+ - [Fortnite&#39;s Plague Doc Skin Is Back After Three Years, Fans Blame COVID](https://kotaku.com/fortnite-plague-doctor-grim-medicine-store-return-covid-1849977313)
+ - [AI VTuber Banned For &#39;Hateful Conduct,&#39; Now Undistinguishable From Real Twitch Stars](https://kotaku.com/neuro-sama-twitch-vtuber-ban-holocaust-minecraft-ai-1849977269)
+ - [Revealing Mortal Kombat II Code Leak Pulled By Warner Bros.](https://kotaku.com/mortal-kombat-2-mk2-source-code-leak-dmca-takedown-1849977045)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
