@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [I can’t believe I’m saying this again but Skull and Bones is delayed again](https://www.pcgamer.com/i-cant-believe-im-saying-this-again-but-skull-and-bones-is-delayed-again)
- - [New Velma trailer shows off the bratty high school versions of the Scooby gang](https://www.polygon.com/23550360/velma-show-hbo-max-plot-synopsis-release-date-trailer)
- - [Microsoft reportedly plans to invest $10B into the creator of ChatGPT and DALL-E](https://www.pcgamer.com/microsoft-reportedly-plans-to-invest-dollar10b-into-the-creator-of-chatgpt-and-dall-e)<!-- GAME:END -->
+ - [The ending of this survival game is the most tension-filled fun I&#39;ve had in ages](https://www.pcgamer.com/the-ending-of-this-survival-game-is-the-most-tension-filled-fun-ive-had-in-ages)
+ - [PlayStation Plus’ January Update Has Something For Everyone](https://kotaku.com/ps-plus-january-2023-devil-may-cry-ps1-classic-ps5-ps4-1849975731)
+ - [Deep Rock Galactic sold millions of copies last year, and I reckon its wholesome community is to blame](https://www.pcgamer.com/deep-rock-galactic-sold-millions-of-copies-last-year-and-i-reckon-its-wholesome-community-is-to-blame)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
