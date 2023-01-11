@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - ⏩ [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - 👉 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)<!-- MEMES:END -->
+ - 💣 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
+ - ⏩ [Live on french TV...](http://9gag.com/gag/a4o356v)
+ - 👉 [Terry at it again](http://9gag.com/gag/az2mG3B)<!-- MEMES:END -->
 
 ---
 
