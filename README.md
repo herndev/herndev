@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Xbox and Bethesda to Present Developer_Direct Livestream on January 25](https://news.xbox.com/en-us/2023/01/11/xbox-bethesda-present-developer-direct-livestream-january-25/)
- - [UK government launching public consultation into creation of a &#39;digital pound&#39;](https://www.pcgamer.com/uk-government-launching-public-consultation-into-creation-of-a-digital-pound)
- - [‘Excuuuuse me, Princess!’: An oral history of The Legend of Zelda cartoon](https://www.polygon.com/zelda/23540526/legend-of-zelda-cartoon-oral-history-zeldathon)<!-- GAME:END -->
+ - [Marvel Snap&#39;s latest update gives credit where it&#39;s due](https://www.pcgamer.com/marvel-snaps-latest-update-gives-credit-where-its-due)
+ - [Gigabit-ready internet connections are now mandatory in new homes in England](https://www.pcgamer.com/gigabit-ready-internet-connections-are-now-mandatory-in-new-homes-in-england)
+ - [Starfield is getting a &#39;deep dive&#39; showcase, but not until after this month&#39;s Xbox/Bethesda livestream](https://www.pcgamer.com/starfield-is-getting-a-deep-dive-showcase-but-not-until-after-this-months-xboxbethesda-livestream)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
