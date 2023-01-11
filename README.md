@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [A profile of Character.AI, founded by two former Google researchers to offer &quot;plausible conversation&quot; with famous people, like William Shakespeare and Elon Musk &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230111/p5#a230111p5)
- - [We asked, you told us: You’re intrigued by a RISC-V Android phone](https://www.androidauthority.com/buy-risc-v-android-phone-poll-results-3265290/)
- - [An overview of the adoption of Matter, the new open-source smart home interoperability standard, across the devices and controllers on display at CES 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230111/p4#a230111p4)<!-- TECH:END -->
+ - [Judge rules Apple Watch infringes Masimo pulse oximetry patent](https://appleinsider.com/articles/23/01/11/judge-rules-apple-watch-infringes-masimo-pulse-oximetry-patent?utm_medium=rss)
+ - [How Section 19a of Germany&#39;s Competition Act gives antitrust authorities the power to divest and sanction Big Tech, as the EU slowly rolls out its enforcement &lpar;Javier Espinoza/Financial Times&rpar;](http://www.techmeme.com/230111/p7#a230111p7)
+ - [Court documents: New England Patriots owner Robert Kraft, NFL star Tom Brady, a Peter Thiel-linked trust, and more own FTX Group stock, now considered worthless &lpar;Jeremy Hill/Bloomberg&rpar;](http://www.techmeme.com/230111/p6#a230111p6)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
