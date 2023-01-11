@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [A profile of Character.AI, founded by two former Google researchers to offer &quot;plausible conversation&quot; with famous people, like William Shakespeare and Elon Musk &lpar;Cade Metz/New York Times&rpar;](http://www.techmeme.com/230111/p5#a230111p5)
  - [We asked, you told us: You’re intrigued by a RISC-V Android phone](https://www.androidauthority.com/buy-risc-v-android-phone-poll-results-3265290/)
- - [An overview of the adoption of Matter, the new open-source smart home interoperability standard, across the devices and controllers on display at CES 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230111/p4#a230111p4)
- - [Samsung could skip the Galaxy S24 Plus in 2024](https://www.androidauthority.com/samsung-skip-galaxy-s24-plus-3265279/)<!-- TECH:END -->
+ - [An overview of the adoption of Matter, the new open-source smart home interoperability standard, across the devices and controllers on display at CES 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230111/p4#a230111p4)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
