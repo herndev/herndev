@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Uh oh, people are now using machine learning to cheat in Rocket League](https://www.pcgamer.com/uh-oh-people-are-now-using-a-machine-learning-bot-to-cheat-in-rocket-league)
  - [Overwatch Drags Ramattra Into Its Sinful Obsession With Feet](https://kotaku.com/overwatch-drags-ramattra-into-its-sinful-obsession-with-1849972581)
- - [Internet Misogynist Andrew Tate Back In Custody Following Brief Hospital Visit](https://kotaku.com/andrew-tate-hospital-released-jail-arrested-romania-1849972453)
- - [Madden NFL 23 will cut CPR touchdown celebration following Damar Hamlin&#39;s cardiac arrest](https://www.pcgamer.com/madden-nfl-23-will-cut-cpr-touchdown-celebration-following-damar-hamlins-cardiac-arrest)<!-- GAME:END -->
+ - [Internet Misogynist Andrew Tate Back In Custody Following Brief Hospital Visit](https://kotaku.com/andrew-tate-hospital-released-jail-arrested-romania-1849972453)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
