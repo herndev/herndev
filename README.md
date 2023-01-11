@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Today&#39;s Wordle 571 answer and hint for Wednesday, January 11](https://www.pcgamer.com/wordle-571-answer-january-11)
- - [Uh oh, people are now using AI to cheat in Rocket League](https://www.pcgamer.com/uh-oh-people-are-now-using-a-machine-learning-bot-to-cheat-in-rocket-league)
- - [Overwatch Drags Ramattra Into Its Sinful Obsession With Feet](https://kotaku.com/overwatch-drags-ramattra-into-its-sinful-obsession-with-1849972581)<!-- GAME:END -->
+ - [Watch Intel show off unreleased 6GHz chip in the labs](https://www.pcgamer.com/watch-intel-show-off-unreleased-6ghz-chip-in-the-labs)
+ - [Logitech Chorus](https://www.pcgamer.com/logitech-chorus-review)
+ - [Today&#39;s Wordle 571 answer and hint for Wednesday, January 11](https://www.pcgamer.com/wordle-571-answer-january-11)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
