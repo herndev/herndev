@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Marvel Snap&#39;s latest update gives credit where it&#39;s due](https://www.pcgamer.com/marvel-snaps-latest-update-gives-credit-where-its-due)
- - [Gigabit-ready internet connections are now mandatory in new homes in England](https://www.pcgamer.com/gigabit-ready-internet-connections-are-now-mandatory-in-new-homes-in-england)
- - [Starfield is getting a &#39;deep dive&#39; showcase, but not until after this month&#39;s Xbox/Bethesda livestream](https://www.pcgamer.com/starfield-is-getting-a-deep-dive-showcase-but-not-until-after-this-months-xboxbethesda-livestream)<!-- GAME:END -->
+ - [Xbox Is Now the First Carbon Aware Console, Update Rolling Out to Everyone Soon](https://news.xbox.com/en-us/2023/01/11/xbox-carbon-aware-console-sustainability/)
+ - [New League Of Legends Trailer Is So Bad Riot Had To Answer For It](https://kotaku.com/league-of-legends-new-trailer-season-brink-of-infinity-1849975104)
+ - [The original Legend of Zelda in VR is more terrifying than you’d expect](https://www.polygon.com/zelda/23550050/legend-of-zelda-1986-vr-doom-mod-nintendo)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
