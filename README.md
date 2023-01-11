@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Ubisoft Has Canceled At Least Seven Games In Six Months](https://kotaku.com/ubisoft-7-canceled-games-splinter-cell-assasin-s-creed-1849976552)
- - [Xbox Is About To Get Some Big Energy-Saving Updates](https://kotaku.com/xbox-microsoft-carbon-environment-console-update-1849976465)
- - [A new MechWarrior game is coming in 2024](https://www.pcgamer.com/a-new-mechwarrior-game-is-coming-in-2024)<!-- GAME:END -->
+ - [Revealing Mortal Kombat II Code Leak Pulled By Warner Bros.](https://kotaku.com/mortal-kombat-2-mk2-source-code-leak-dmca-takedown-1849977045)
+ - [Lian Li&#39;s just went ahead and made fans cool again](https://www.pcgamer.com/lian-lis-just-went-ahead-and-made-desktop-fans-cool-again)
+ - [FFXIV Adventurer Plate and portrait guide](https://www.polygon.com/ffxiv-guides-ff14-final-fantasy-14-online/23550356/adventurer-plate-instant-portrait-not-working-bug-fixes)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
