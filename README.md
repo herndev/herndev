@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Riot apologises for awful League of Legends cinematic after fan backlash](https://www.pcgamer.com/riot-apologises-for-awful-league-of-legends-cinematic-after-fan-backlash)
- - [The science fiction and fantasy books we’re excited for in 2023](https://www.polygon.com/23546367/new-books-science-fiction-fantasy-2023)
- - [D&amp;D is getting a live-action TV adaptation from the writer and director of Dodgeball](https://www.pcgamer.com/dandd-is-getting-a-live-action-tv-adaptation-from-the-writer-and-director-of-dodgeball)<!-- GAME:END -->
+ - [Xbox and Bethesda to Present Developer_Direct Livestream on January 25](https://news.xbox.com/en-us/2023/01/11/xbox-bethesda-present-developer-direct-livestream-january-25/)
+ - [UK government launching public consultation into creation of a &#39;digital pound&#39;](https://www.pcgamer.com/uk-government-launching-public-consultation-into-creation-of-a-digital-pound)
+ - [‘Excuuuuse me, Princess!’: An oral history of The Legend of Zelda cartoon](https://www.polygon.com/zelda/23540526/legend-of-zelda-cartoon-oral-history-zeldathon)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
