@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Drug Shortages Aren’t New. The Tripledemic Just Made You Look](https://www.wired.com/story/drug-shortages-arent-new-the-tripledemic-just-made-you-look/)
- - [PC market got hammered in holiday season, but Apple didn&#39;t](https://appleinsider.com/articles/23/01/11/pc-market-got-hammered-in-holiday-season-but-apple-didnt?utm_medium=rss)
- - [UK-based Hack the Box, which wants to encourage white hat hackers via gamified training, raised a $55M Series B led by Carlyle and reports having 1.7M users &lpar;Ingrid Lunden/TechCrunch&rpar;](http://www.techmeme.com/230111/p14#a230111p14)<!-- TECH:END -->
+ - [How Tinder changed everything](https://www.theverge.com/23549905/tinder-swipe-creation-dating-app-revolution-land-of-the-giants)
+ - [Why some of the biggest names in tech and auto are teaming up on virtual power plants](https://www.theverge.com/2023/1/11/23548812/gm-google-nest-virtual-power-plants-rmi-ford-electricity-grid)
+ - [Ender-3 V2 Neo review: 3D printing, with the beginner in mind](https://appleinsider.com/articles/23/01/11/ender-3-v2-neo-review-3d-printing-with-the-beginner-in-mind?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
