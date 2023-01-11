@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [The Guardian confirms a ransomware attack in December 2022 and that the personal data of UK staff was accessed, possibly via a phishing attempt &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230111/p25#a230111p25)
- - [The US Just Greenlit High-Tech Alternatives to Animal Testing](https://www.wired.com/story/the-us-just-greenlit-high-tech-alternatives-to-animal-testing/)
- - [How to mute people on Instagram](https://www.theverge.com/23546554/instagram-mute-people-how-to)<!-- TECH:END -->
+ - [Kuo doubles down on iPhone 15 Pro having no physical buttons](https://appleinsider.com/articles/23/01/11/kuo-doubles-down-on-iphone-15-pro-having-no-physical-buttons?utm_medium=rss)
+ - [Get the Asus ROG Phone 6 wallpapers here, including a live wallpaper](https://www.androidauthority.com/asus-rog-phone-6-wallpapers-3183353/)
+ - [After months of protest, Google contractor Appen, which rates search results, raised hourly pay to $14-$14.50 from $10-$12 on January 1, the first ever raise &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230111/p27#a230111p27)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
