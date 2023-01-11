@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - ⏩ [Choose wisely](http://9gag.com/gag/az2m58x)
- - 👉 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)<!-- MEMES:END -->
+ - 💣 [HUP!](http://9gag.com/gag/aDY4dn7)
+ - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - 👉 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)<!-- MEMES:END -->
 
 ---
 
