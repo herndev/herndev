@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
- - ⏩ [Poor kitty didn&#39;t know](http://9gag.com/gag/awZBm91)
- - 👉 [Monkey business](http://9gag.com/gag/awZB1dW)<!-- MEMES:END -->
+ - 💣 [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
+ - ⏩ [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
+ - 👉 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)<!-- MEMES:END -->
 
 ---
 
