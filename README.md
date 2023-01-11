@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Equity management service Carta cuts 10% of its staff, possibly impacting ~200 workers, as it sues a former CTO; the company was valued at $7.4B in August 2021 &lpar;Natasha Mascarenhas/TechCrunch&rpar;](http://www.techmeme.com/230111/p31#a230111p31)
- - [App Store&#39;s December may not have been all that great](https://appleinsider.com/articles/23/01/11/app-stores-december-may-not-have-been-all-that-great?utm_medium=rss)
- - [Memo: Microsoft to give US salaried staff unlimited &quot;Discretionary Time Off&quot;, plus 10 corporate holidays, leaves of absence, mental health time off, and more &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p30#a230111p30)<!-- TECH:END -->
+ - [Apple’s MicroLED dream: what it means for the Apple Watch and beyond](https://www.theverge.com/2023/1/11/23550155/apple-microled-watch-iphone-explained)
+ - [Twitter says that the company&#39;s investigation found &quot;no evidence&quot; that its users&#39; data sold online was obtained by exploiting vulnerabilities in its systems &lpar;Todd Spangler/Variety&rpar;](http://www.techmeme.com/230111/p33#a230111p33)
+ - [Apple may ditch physical power and volume buttons on the iPhone 15 Pro](https://www.androidauthority.com/apple-15-pro-buttons-3265558/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
