@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple&#39;s AR &amp; VR headset will launch into a poorly defined market](https://appleinsider.com/articles/23/01/11/apples-ar-vr-headset-will-launch-into-a-poorly-defined-market?utm_medium=rss)
- - [Mujjo&#39;s newest iPhone wallet case works with MagSafe charging](https://appleinsider.com/articles/23/01/11/mujjos-newest-iphone-wallet-case-works-with-magsafe-charging?utm_medium=rss)
- - [Jackery shines at CES 2023 with Pro Family solar generators](https://www.androidauthority.com/jackery-3264978/)<!-- TECH:END -->
+ - [The Guardian confirms a ransomware attack in December 2022 and that the personal data of UK staff was accessed, possibly via a phishing attempt &lpar;Dan Milmo/The Guardian&rpar;](http://www.techmeme.com/230111/p25#a230111p25)
+ - [The US Just Greenlit High-Tech Alternatives to Animal Testing](https://www.wired.com/story/the-us-just-greenlit-high-tech-alternatives-to-animal-testing/)
+ - [How to mute people on Instagram](https://www.theverge.com/23546554/instagram-mute-people-how-to)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
