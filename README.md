@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
- - ⏩ [We live in a society](http://9gag.com/gag/a3ZwAo1)
- - 👉 [Here we go 11/01/2023. / whos next](http://9gag.com/gag/aA0eKNZ)<!-- MEMES:END -->
+ - 💣 [Cat demands to be let in](http://9gag.com/gag/a4o368m)
+ - ⏩ [Poor kitty didn&#39;t know](http://9gag.com/gag/awZBm91)
+ - 👉 [Monkey business](http://9gag.com/gag/awZB1dW)<!-- MEMES:END -->
 
 ---
 
