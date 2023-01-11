@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Kuo doubles down on iPhone 15 Pro having no physical buttons](https://appleinsider.com/articles/23/01/11/kuo-doubles-down-on-iphone-15-pro-having-no-physical-buttons?utm_medium=rss)
- - [Get the Asus ROG Phone 6 wallpapers here, including a live wallpaper](https://www.androidauthority.com/asus-rog-phone-6-wallpapers-3183353/)
- - [After months of protest, Google contractor Appen, which rates search results, raised hourly pay to $14-$14.50 from $10-$12 on January 1, the first ever raise &lpar;Richard Nieva/Forbes&rpar;](http://www.techmeme.com/230111/p27#a230111p27)<!-- TECH:END -->
+ - [Apple spending $240M to expand its Austin, Texas campus](https://appleinsider.com/articles/23/01/11/apple-spending-240m-to-expand-its-austin-texas-campus?utm_medium=rss)
+ - [Apple Fitness+ Kickboxing Review: Beginners, beware](https://appleinsider.com/articles/23/01/11/apple-fitness-kickboxing-review-beginners-beware?utm_medium=rss)
+ - [Sources: Twitter has considered selling usernames through online auctions to generate new revenue &lpar;New York Times&rpar;](http://www.techmeme.com/230111/p29#a230111p29)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
