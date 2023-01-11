@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [HUP!](http://9gag.com/gag/aDY4dn7)
- - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - 💣 [Hiu Goreng Vegetarian](http://9gag.com/gag/aoKPVB0)
+ - ⏩ [HUP!](http://9gag.com/gag/aDY4dn7)
  - 👉 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)<!-- MEMES:END -->
 
 ---
