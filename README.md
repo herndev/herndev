@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [We asked, you told us: You’re intrigued by a RISC-V Android phone](https://www.androidauthority.com/buy-risc-v-android-phone-poll-results-3265290/)
  - [An overview of the adoption of Matter, the new open-source smart home interoperability standard, across the devices and controllers on display at CES 2023 &lpar;Jennifer Pattison Tuohy/The Verge&rpar;](http://www.techmeme.com/230111/p4#a230111p4)
- - [Samsung could skip the Galaxy S24 Plus in 2024](https://www.androidauthority.com/samsung-skip-galaxy-s24-plus-3265279/)
- - [Sources: Tata Group&#39;s WeChat-like super app Neu is expected to generate sales of ~$4B in the year to March 31, missing the $8B goal set at the start of 2022 &lpar;Anto Antony/Bloomberg&rpar;](http://www.techmeme.com/230111/p3#a230111p3)<!-- TECH:END -->
+ - [Samsung could skip the Galaxy S24 Plus in 2024](https://www.androidauthority.com/samsung-skip-galaxy-s24-plus-3265279/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
