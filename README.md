@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
  - ⏩ [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 👉 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
+ - 👉 [Damn Woman](http://9gag.com/gag/aQEdExr)<!-- MEMES:END -->
 
 ---
 
