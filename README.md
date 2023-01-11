@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [The ending of this survival game is the most tension-filled fun I&#39;ve had in ages](https://www.pcgamer.com/the-ending-of-this-survival-game-is-the-most-tension-filled-fun-ive-had-in-ages)
- - [PlayStation Plus’ January Update Has Something For Everyone](https://kotaku.com/ps-plus-january-2023-devil-may-cry-ps1-classic-ps5-ps4-1849975731)
- - [Deep Rock Galactic sold millions of copies last year, and I reckon its wholesome community is to blame](https://www.pcgamer.com/deep-rock-galactic-sold-millions-of-copies-last-year-and-i-reckon-its-wholesome-community-is-to-blame)<!-- GAME:END -->
+ - [How to win Marvel Snap’s featured location, Altar of Death](https://www.polygon.com/guides/2023/1/11/23501179/marvel-snap-featured-location-altar-death-destroy-deck)
+ - [Ubisoft Delays Skull And Bones, Cancels More Games, And Announces New Cuts](https://kotaku.com/ubisoft-skull-bones-delay-assassins-creed-far-cry-cuts-1849975925)
+ - [PS Plus Extra’s January games include Back 4 Blood, Dragon Ball, and DMC](https://www.polygon.com/23550619/playstation-ps-plus-games-january-2023-extra-premium)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
