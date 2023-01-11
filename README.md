@@ -44,8 +44,8 @@
 
 <!-- MEMES:START -->
  - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - ⏩ [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 👉 [Damn Woman](http://9gag.com/gag/aQEdExr)<!-- MEMES:END -->
+ - ⏩ [Say what you want to about Sacha Baron Cohen. The man is a genuis when it comes to trolling. `Imagine if America was a dictatorship`](http://9gag.com/gag/anz4R8b)
+ - 👉 [Sure am excited for Spidey](http://9gag.com/gag/aEqP6LN)<!-- MEMES:END -->
 
 ---
 
