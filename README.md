@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - ⏩ [Lightning never strikes the same place twice...](http://9gag.com/gag/aA0eQLp)
- - 👉 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)<!-- MEMES:END -->
+ - 💣 [Milk....mmmm...](http://9gag.com/gag/a3ZwGZe)
+ - ⏩ [If you did 10 years of therapy. That just means you&#39;re unstable, not a therapist](http://9gag.com/gag/aEqP0EN)
+ - 👉 [Dude made Allah bend](http://9gag.com/gag/aDY4Yr7)<!-- MEMES:END -->
 
 ---
 
