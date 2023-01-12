@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Cybercriminals shall not pass: how to protect your Macs and yourself from the most popular cyber threats](https://appleinsider.com/articles/23/01/12/cybercriminals-shall-not-pass-how-to-protect-your-macs-and-yourself-from-the-most-popular-cyber-threats?utm_medium=rss)
- - [Yuga Labs announces a skill-based game, Dookey Dash, accessed via a free mint for BAYC holders called Sewer Passes, running between January 18 and February 15 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230112/p14#a230112p14)
- - [Apple&#39;s Music &amp; TV apps hit Windows - but only Windows 11](https://appleinsider.com/articles/23/01/12/apples-music-tv-apps-hit-windows---but-only-windows-11?utm_medium=rss)<!-- TECH:END -->
+ - [Galaxy Watches and Buds 2 Pro are now better companions for your phone’s camera](https://www.androidauthority.com/samsung-galaxy-watch-galaxy-buds-2-pro-camera-update-3265783/)
+ - [Toxicity in Gaming Is Rampant. This Nonprofit Is Fighting Back](https://www.wired.com/story/take-this-nonprofit-toxicity-harassment-gaming/)
+ - [Why Non-Farmers Should Care About John Deere’s Repair Memo](https://www.wired.com/story/gadget-lab-podcast-581/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
