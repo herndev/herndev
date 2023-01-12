@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Sources: the DOJ is investigating Ian and Dylan Macalinao over Solana stablecoin exchange Saber Labs, after an expos&amp;eacute; showed they faked a web of DeFi protocols &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230112/p2#a230112p2)
  - [Bill Gates has upgraded from the Galaxy Z Fold 3. This is his latest phone.](https://www.androidauthority.com/bill-gates-phone-2023-3265756/)
- - [JPMorgan Chase is suing the founder of Frank, a student loan software startup it bought for $175M, for allegedly lying about scale by creating 4M+ fake users &lpar;Forbes&rpar;](http://www.techmeme.com/230112/p1#a230112p1)
- - [Google&#39;s Verily to Cut 15% of Workforce     - CNET](https://www.cnet.com/tech/googles-verily-to-cut-15-of-workforce/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [&#39;The Pale Blue Eye&#39; Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-pale-blue-eye-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
