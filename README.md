@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [PNY RTX 4080 XLR8 Verto](https://www.pcgamer.com/pny-geforce-rtx-4080-xlr8-verto-review-performance)
- - [HBO Max’s ad-free tier just got a little more expensive](https://www.polygon.com/23552100/hbo-max-price-increase-ad-free)
- - [Dragonflight could soar if it wasn’t saddled with World of Warcraft’s messy storylines](https://www.polygon.com/23550557/dragonflight-world-of-warcraft-story-shadowlands-azeroth)<!-- GAME:END -->
+ - [Rocket League Players Found The Optimal Way To Cheat](https://kotaku.com/rocket-league-machine-learning-cheating-nexto-bot-1849980593)
+ - [Painterly Photography Game’s New Trailer Introduces Characters You’ll Meet At The End Of Things](https://kotaku.com/season-a-letter-to-the-future-trailer-pc-playstation-1849977452)
+ - [Is Nier: Automata ver1.1a’s puppet show a joke or something more?](https://www.polygon.com/23551925/nier-automata-anime-puppet-show)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
