@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - ⏩ [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
- - 👉 [His stuff is god tier](http://9gag.com/gag/a8qGDe3)<!-- MEMES:END -->
+ - 💣 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
+ - ⏩ [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
+ - 👉 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)<!-- MEMES:END -->
 
 ---
 
