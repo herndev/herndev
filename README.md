@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [In Google Stadia&#39;s final week, fans are banding together to mourn its demise](https://www.pcgamer.com/in-google-stadias-final-week-fans-are-banding-together-to-mourn-its-demise)
- - [5 things you need to know about underwater city builder Aquatico](https://www.pcgamer.com/5-things-you-need-to-know-about-underwater-city-builder-aquatico)
- - [Today&#39;s Wordle 572 answer and hint for Thursday, January 12](https://www.pcgamer.com/wordle-572-answer-january-12)<!-- GAME:END -->
+ - [Xbox consoles are about to get a little bit greener](https://www.polygon.com/23551636/xbox-series-x-microsoft-carbon-aware-shutdown-sleep)
+ - [YouTube&#39;s new profanity rules are punishing creators retroactively, and they&#39;re furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
+ - [Ash Ketchum inspired a generation of Pokémon fans — and his voice actor](https://www.polygon.com/pokemon/23548987/pokemon-anime-ultimate-journeys-voice-actor-interview)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
