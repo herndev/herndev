@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [5 things you need to know about underwater city builder Aquatico](https://www.pcgamer.com/5-things-you-need-to-know-about-underwater-city-builder-aquatico)
  - [Today&#39;s Wordle 572 answer and hint for Thursday, January 12](https://www.pcgamer.com/wordle-572-answer-january-12)
- - [Gigabyte Z790 Aorus Master](https://www.pcgamer.com/gigabyte-z790-aorus-master)
- - [Roomba testers found sensitive images uploaded to social media](https://www.pcgamer.com/roomba-testers-found-sensitive-images-uploaded-to-social-media)<!-- GAME:END -->
+ - [Gigabyte Z790 Aorus Master](https://www.pcgamer.com/gigabyte-z790-aorus-master)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
