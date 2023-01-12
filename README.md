@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
+ - [Data.ai: in 2022, mobile app global spending fell 2% YoY to $167B, downloads grew 11% YoY to 255B, game spending fell 5% YoY, and non-game spending grew 6% YoY &lpar;Sarah Perez/TechCrunch&rpar;](http://www.techmeme.com/230111/p45#a230111p45)
  - [Kuo: new $99 AirPods, new AirPods Max will ship in the second half of 2024](https://appleinsider.com/articles/23/01/12/kuo-new-99-airpods-new-airpods-max-will-ship-in-the-second-half-of-2024?utm_medium=rss)
- - [Kuo: mass shipments of second-generation AirPods Max and $99 AirPods will likely begin in the second half of 2024 or the first half of 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230111/p44#a230111p44)
- - [M2 Pro and M2 Max MacBook Pro models facing yet another delay](https://appleinsider.com/articles/23/01/12/m2-pro-and-m2-max-macbook-pro-models-facing-yet-another-delay?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: mass shipments of second-generation AirPods Max and AirPods with a $99 price target will likely begin in the second half of 2024 or the first half of 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230111/p44#a230111p44)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
