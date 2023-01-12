@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
- - ⏩ [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
- - 👉 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)<!-- MEMES:END -->
+ - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - ⏩ [That movie not legendary because of the bugssss](http://9gag.com/gag/a8qGDPp)
+ - 👉 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)<!-- MEMES:END -->
 
 ---
 
