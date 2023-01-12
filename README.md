@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Microsoft updates Xbox Series X and S consoles to automatically switch to energy-saving Shutdown mode and is working on a smarter Sleep mode for active hours &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p41#a230111p41)
- - [Super Bowl Commercials 2023: Watch All the Big Game Ads Released So Far     - CNET](https://www.cnet.com/culture/entertainment/super-bowl-commercials-2023-watch-all-the-big-game-ads-released-so-far/#ftag=CAD590a51e)
- - [Apple Original &#39;Severance&#39; nominated for Outstanding Performance by an Ensemble SAG Award](https://appleinsider.com/articles/23/01/12/apple-original-severance-nominated-for-outstanding-performance-by-an-ensemble-sag-award?utm_medium=rss)<!-- TECH:END -->
+ - [Kuo: new $99 AirPods, new AirPods Max will ship in the second half of 2024](https://appleinsider.com/articles/23/01/12/kuo-new-99-airpods-new-airpods-max-will-ship-in-the-second-half-of-2024?utm_medium=rss)
+ - [Kuo: mass shipments of second-generation AirPods Max and $99 AirPods will likely begin in the second half of 2024 or the first half of 2025 &lpar;Joe Rossignol/MacRumors&rpar;](http://www.techmeme.com/230111/p44#a230111p44)
+ - [M2 Pro and M2 Max MacBook Pro models facing yet another delay](https://appleinsider.com/articles/23/01/12/m2-pro-and-m2-max-macbook-pro-models-facing-yet-another-delay?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
