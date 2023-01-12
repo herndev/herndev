@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
- - ⏩ [Damn the flight to Australia was worth it. look what i saw](http://9gag.com/gag/a04NEWn)
- - 👉 [People doing things with their hands](http://9gag.com/gag/aZDyzZ9)<!-- MEMES:END -->
+ - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
+ - ⏩ [Steve carell being steve carell](http://9gag.com/gag/a6qKjQA)
+ - 👉 [Live at work](http://9gag.com/gag/agoAEoq)<!-- MEMES:END -->
 
 ---
 
