@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Butter Payments, which uses AI to help companies catch accidental subscription churn, raised a $21.5M Series A from Norwest, sources say at a ~$100M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p29#a230112p29)
- - [Sources: low-code app development tools maker OutSystems raised $228.4M in October 2022 at a $4.3B valuation, 55% lower than the $9.5B valuation from Feb. 2021 &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p28#a230112p28)
- - [New OtterBox iPhone 14 cases celebrate Chinese New Year](https://appleinsider.com/articles/23/01/12/new-otterbox-iphone-14-cases-celebrate-chinese-new-year?utm_medium=rss)<!-- TECH:END -->
+ - [2022 Wasn&#39;t the Hottest on Record. That&#39;s Nothing to Celebrate](https://www.wired.com/story/2022-wasnt-the-hottest-on-record-thats-nothing-to-celebrate/)
+ - [Sources: Google and Nvidia told the FTC that the Activision Blizzard deal could give Microsoft an unfair advantage in cloud, subscription, and mobile gaming &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p30#a230112p30)
+ - [Wear OS 3 support expands, another watch gets the update](https://www.androidauthority.com/wear-os-3-watch-3266014/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
