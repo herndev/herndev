@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
- - ⏩ [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
- - 👉 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
+ - 💣 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
+ - ⏩ [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
+ - 👉 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
 
 ---
 
