@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
- - ⏩ [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
- - 👉 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)<!-- MEMES:END -->
+ - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - ⏩ [Adios](http://9gag.com/gag/aRE7Mjq)
+ - 👉 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)<!-- MEMES:END -->
 
 ---
 
