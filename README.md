@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [2022 Wasn&#39;t the Hottest on Record. That&#39;s Nothing to Celebrate](https://www.wired.com/story/2022-wasnt-the-hottest-on-record-thats-nothing-to-celebrate/)
- - [Sources: Google and Nvidia told the FTC that the Activision Blizzard deal could give Microsoft an unfair advantage in cloud, subscription, and mobile gaming &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p30#a230112p30)
- - [Wear OS 3 support expands, another watch gets the update](https://www.androidauthority.com/wear-os-3-watch-3266014/)<!-- TECH:END -->
+ - [T-Mobile has Pixel owners confused as it fails to deliver January’s update](https://www.androidauthority.com/t-mobile-pixel-update-3266100/)
+ - [Apple racks up 21 nominations for the 2023 NAACP Image Awards](https://appleinsider.com/articles/23/01/12/apple-racks-up-21-nominations-for-the-2023-naacp-image-awards?utm_medium=rss)
+ - [Apple shareholder meeting to be held on March 10](https://appleinsider.com/articles/23/01/12/apple-shareholder-meeting-to-be-held-on-march-10?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
