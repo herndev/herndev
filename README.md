@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Daily Authority: 💻 Apple’s touchscreen computer catch-up](https://www.androidauthority.com/daily-authority-january-12-2023-3265753/)
- - [Some creators are protesting YouTube&#39;s policy changes to regulate swearing and violence, which demonetize gaming videos and retroactively impact old content &lpar;Kenneth Shepard/Kotaku&rpar;](http://www.techmeme.com/230112/p8#a230112p8)
- - [These 8 Protein-Packed Foods Can Help Build Muscle     - CNET](https://www.cnet.com/health/nutrition/these-8-protein-packed-foods-can-help-build-muscle/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Chinese social media becomes consumed by a debate on &quot;zero Covid&quot; ending, challenging government censors&#39; efforts to control the narrative without overstepping &lpar;New York Times&rpar;](http://www.techmeme.com/230112/p10#a230112p10)
+ - [South Korean social media giant&#39;s Kakao Entertainment, which offers apps for animated shows and novels, raised $930M from Saudi Arabia&#39;s PIF and Singapore&#39;s GIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p9#a230112p9)
+ - [Daily Authority: 💻 Apple’s touchscreen computer catch-up](https://www.androidauthority.com/daily-authority-january-12-2023-3265753/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
