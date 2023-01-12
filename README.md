@@ -43,8 +43,8 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - ⏩ [Epic anime fight.](http://9gag.com/gag/ap9GAn8)
+ - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - ⏩ [Damn the flight to Australia was worth it. look what i saw](http://9gag.com/gag/a04NEWn)
  - 👉 [Bruh](http://9gag.com/gag/aMExXDA)<!-- MEMES:END -->
 
 ---
