@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
- - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
- - 👉 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)<!-- MEMES:END -->
+ - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - ⏩ [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - 👉 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)<!-- MEMES:END -->
 
 ---
 
