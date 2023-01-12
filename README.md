@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
- - ⏩ [What kind of sorcerry is this, iam preety stup*d with math things](http://9gag.com/gag/aEqPARx)
- - 👉 [Hold my beer](http://9gag.com/gag/aNwgVQG)<!-- MEMES:END -->
+ - 💣 [What kind of sorcerry is this, iam preety stup*d with math things](http://9gag.com/gag/aEqPARx)
+ - ⏩ [Remember this, fellow 9gaggers](http://9gag.com/gag/aNwgVp6)
+ - 👉 [Soothing Sounds](http://9gag.com/gag/aeQDVpv)<!-- MEMES:END -->
 
 ---
 
