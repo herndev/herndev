@@ -45,7 +45,7 @@
 <!-- MEMES:START -->
  - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
  - ⏩ [Damn the flight to Australia was worth it. look what i saw](http://9gag.com/gag/a04NEWn)
- - 👉 [Bruh](http://9gag.com/gag/aMExXDA)<!-- MEMES:END -->
+ - 👉 [People doing things with their hands](http://9gag.com/gag/aZDyzZ9)<!-- MEMES:END -->
 
 ---
 
