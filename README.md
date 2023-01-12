@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [GTA Online has a Gun Van now, and the Gun Van is selling a railgun](https://www.pcgamer.com/gta-online-has-a-gun-van-now-and-the-gun-van-is-selling-a-railgun)
  - [Starfield ship customization—all the details so far](https://www.pcgamer.com/starfield-ship-customization-stats)
- - [High on Life, Rick and Morty creator Justin Roiland charged with felony domestic violence and false imprisonment](https://www.pcgamer.com/high-on-life-rick-and-morty-creator-justin-roiland-charged-with-felony-domestic-violence-and-false-imprisonment)
- - [Someone really just created a gamer muzzle, didn&#39;t they?](https://www.pcgamer.com/someone-really-just-created-a-gamer-muzzle-didnt-they)<!-- GAME:END -->
+ - [High on Life, Rick and Morty creator Justin Roiland charged with felony domestic violence and false imprisonment](https://www.pcgamer.com/high-on-life-rick-and-morty-creator-justin-roiland-charged-with-felony-domestic-violence-and-false-imprisonment)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
