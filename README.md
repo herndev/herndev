@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Free Play Days – I Am Fish](https://news.xbox.com/en-us/2023/01/12/free-play-days-i-am-fish/)
- - [How to unlock fast travel in One Piece Odyssey](https://www.pcgamer.com/one-piece-odyssey-fast-travel-unlock)
- - [Don&#39;t worry, Atlus won&#39;t punish you for streaming its 13-year-old game](https://www.pcgamer.com/dont-worry-atlus-wont-punish-you-for-streaming-its-13-year-old-game)<!-- GAME:END -->
+ - [Johnny Yong Bosch will reprise his role as Vash the Stampede in Trigun Stampede](https://www.polygon.com/23551626/johnny-yong-bosch-trigun-stampede-cast-announcement)
+ - [Yes, Intel has released the fastest gaming CPU ever for $699 and no, you don&#39;t need it](https://www.pcgamer.com/intel-core-i9-13900ks-release-date-price)
+ - [The Surprising Reason Twitch Star Amouranth Hasn&#39;t Ditched NSFW Content &lpar;Yet&rpar;](https://kotaku.com/amouranth-twitch-twitter-onlyfans-nsfw-hot-tub-staff-1849979742)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
