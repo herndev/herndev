@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Amazon&#39;s $500 price drop on Apple&#39;s M1 Max MacBook Pro 16-inch is the best ever](https://appleinsider.com/articles/23/01/12/amazons-500-price-drop-on-apples-m1-max-macbook-pro-16-inch-is-the-best-ever?utm_medium=rss)
- - [HBO Max’s first price hike raises the monthly rate by $1](https://www.theverge.com/2023/1/12/23551990/hbo-max-ad-free-price-increase-15-99)
- - [Tim Cook shares video to mark Chinese New Year on social media](https://appleinsider.com/articles/23/01/12/tim-cook-shares-video-to-mark-chinese-new-year-on-social-media?utm_medium=rss)<!-- TECH:END -->
+ - [Apple will provide more transparency on App Store removals](https://appleinsider.com/articles/23/01/12/apple-will-provide-more-transparency-on-app-store-removals?utm_medium=rss)
+ - [New Microsoft 365 Basic subscription is only $20 per year](https://appleinsider.com/articles/23/01/12/new-microsoft-365-basic-subscription-is-only-24-per-year?utm_medium=rss)
+ - [Letter: Social Capital narrows the scope of its Fund V to ~$1B with a focus on early-stage deals vs prior plan to raise much more and back growth-stage startups &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230112/p24#a230112p24)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
