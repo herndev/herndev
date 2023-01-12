@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [AWS partners with Ava Labs, which develops the Avalanche blockchain, to support Avalanche&#39;s infrastructure and dApp ecosystem through the AWS marketplace &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230111/p39#a230111p39)
- - [T-Mobile Rumored To Be Buying Ryan Reynolds&#39; Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/t-mobile-rumored-to-be-buying-ryan-reynolds-mint-mobile/#ftag=CAD590a51e)
- - [Apple’s Music and TV apps for Windows are now available in preview](https://www.theverge.com/2023/1/11/23551025/apple-music-tv-devices-windows-apps-preview)<!-- TECH:END -->
+ - [Apple Original &#39;Severance&#39; nominated for Outstanding Performance by an Ensemble SAG Award](https://appleinsider.com/articles/23/01/12/apple-original-severance-nominated-for-outstanding-performance-by-an-ensemble-sag-award?utm_medium=rss)
+ - [Source: Stripe lowers its internal valuation by ~11% to $63B, its third known cut since June 2022, bringing the total reduction to ~40% in the past six months &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230111/p40#a230111p40)
+ - [The Best Sci-Fi Movies on Netflix You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
