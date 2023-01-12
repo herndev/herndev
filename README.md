@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/aGEdnpK)
- - ⏩ [Stop asian hate period\u270a\ud83c\udfff](http://9gag.com/gag/az2mOoZ)
- - 👉 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)<!-- MEMES:END -->
+ - 💣 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - ⏩ [Why would someone get such an abomination?](http://9gag.com/gag/a1PWmP6)
+ - 👉 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)<!-- MEMES:END -->
 
 ---
 
