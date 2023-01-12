@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Alphabet&#39;s life sciences unit Verily lays off about 15% of its staff, or more than 200 employees, and discontinues work on several products &lpar;Miles Kruppa/Wall Street Journal&rpar;](http://www.techmeme.com/230111/p37#a230111p37)
- - [Google strikes back in search antitrust lawsuit](https://www.theverge.com/2023/1/11/23550023/google-search-antitrust-doj-state-lawsuit-unsealed)
- - [In the Next Pandemic, Let’s Pay People to Get Vaccinated](https://www.wired.com/story/lets-pay-people-to-get-vaccinated/)<!-- TECH:END -->
+ - [Reference to xrOS found in Apple Devices for Windows app preview](https://appleinsider.com/articles/23/01/11/reference-to-xros-found-in-apple-devices-for-windows-app-preview?utm_medium=rss)
+ - [More People Need to Watch Amazon&#39;s Best Hidden Sci-Fi Gem     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-amazons-best-hidden-sci-fi-gem/#ftag=CAD590a51e)
+ - [Golden Globes Highlights: Jerrod Carmichael vs. Tom Cruise, Eddie Murphy&#39;s Advice     - CNET](https://www.cnet.com/culture/entertainment/golden-globes-2023-highlights-jerrod-carmichael-vs-tom-cruise-eddie-murphys-advice/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
