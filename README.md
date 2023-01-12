@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [What kind of sorcerry is this, iam preety stup*d with math things](http://9gag.com/gag/aEqPARx)
- - ⏩ [Remember this, fellow 9gaggers](http://9gag.com/gag/aNwgVp6)
- - 👉 [Soothing Sounds](http://9gag.com/gag/aeQDVpv)<!-- MEMES:END -->
+ - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
+ - ⏩ [So\u2026 who did you summoned this time whiskers?](http://9gag.com/gag/aVbwmnv)
+ - 👉 [I `found` them](http://9gag.com/gag/ajV9x61)<!-- MEMES:END -->
 
 ---
 
