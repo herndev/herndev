@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - ⏩ [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - 👉 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)<!-- MEMES:END -->
+ - 💣 [Mom saves the day from a raccoon](http://9gag.com/gag/adPVeq2)
+ - ⏩ [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)
+ - 👉 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
 
 ---
 
