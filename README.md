@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - ⏩ [That movie not legendary because of the bugssss](http://9gag.com/gag/a8qGDPp)
- - 👉 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)<!-- MEMES:END -->
+ - 💣 [Student who is late for class answers a question correctly in seconds](http://9gag.com/gag/aGEdnpK)
+ - ⏩ [Stop asian hate period\u270a\ud83c\udfff](http://9gag.com/gag/az2mOoZ)
+ - 👉 [Sites to cure your boredom!](http://9gag.com/gag/aBdmyeP)<!-- MEMES:END -->
 
 ---
 
