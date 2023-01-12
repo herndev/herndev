@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [TSMC reports Q4 revenue of $19.93B, up 26.7% YoY, and a net income of $9.72B, up 78% YoY, beating estimates of ~$9.5B amid a chip industry downturn &lpar;Reuters&rpar;](http://www.techmeme.com/230112/p7#a230112p7)
- - [Sources: Twitter is leaving at least 12 international offices due to closures or not paying rent, including those in Hong Kong, Mexico, Africa, India, and more &lpar;Kali Hays/Insider&rpar;](http://www.techmeme.com/230112/p6#a230112p6)
- - [Sources: Twitter staff in Singapore have been reassigned as remote workers until further notice, amid cost-cuts which include not paying rent on global HQ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p5#a230112p5)<!-- TECH:END -->
+ - [Daily Authority: 💻 Apple’s touchscreen computer catch-up](https://www.androidauthority.com/daily-authority-january-12-2023-3265753/)
+ - [Some creators are protesting YouTube&#39;s policy changes to regulate swearing and violence, which demonetize gaming videos and retroactively impact old content &lpar;Kenneth Shepard/Kotaku&rpar;](http://www.techmeme.com/230112/p8#a230112p8)
+ - [These 8 Protein-Packed Foods Can Help Build Muscle     - CNET](https://www.cnet.com/health/nutrition/these-8-protein-packed-foods-can-help-build-muscle/#ftag=CAD590a51e)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
