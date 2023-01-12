@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Reference to xrOS found in Apple Devices for Windows app preview](https://appleinsider.com/articles/23/01/11/reference-to-xros-found-in-apple-devices-for-windows-app-preview?utm_medium=rss)
- - [More People Need to Watch Amazon&#39;s Best Hidden Sci-Fi Gem     - CNET](https://www.cnet.com/culture/entertainment/more-people-need-to-watch-amazons-best-hidden-sci-fi-gem/#ftag=CAD590a51e)
- - [Golden Globes Highlights: Jerrod Carmichael vs. Tom Cruise, Eddie Murphy&#39;s Advice     - CNET](https://www.cnet.com/culture/entertainment/golden-globes-2023-highlights-jerrod-carmichael-vs-tom-cruise-eddie-murphys-advice/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [AWS partners with Ava Labs, which develops the Avalanche blockchain, to support Avalanche&#39;s infrastructure and dApp ecosystem through the AWS marketplace &lpar;Jacquelyn Melinek/TechCrunch&rpar;](http://www.techmeme.com/230111/p39#a230111p39)
+ - [T-Mobile Rumored To Be Buying Ryan Reynolds&#39; Mint Mobile     - CNET](https://www.cnet.com/tech/mobile/t-mobile-rumored-to-be-buying-ryan-reynolds-mint-mobile/#ftag=CAD590a51e)
+ - [Apple’s Music and TV apps for Windows are now available in preview](https://www.theverge.com/2023/1/11/23551025/apple-music-tv-devices-windows-apps-preview)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
