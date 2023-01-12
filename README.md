@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Mom saves the day from a raccoon](http://9gag.com/gag/adPVeq2)
- - ⏩ [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)
- - 👉 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)<!-- MEMES:END -->
+ - 💣 [All day lol](http://9gag.com/gag/a4o32Q6)
+ - ⏩ [The truth must be spoken!](http://9gag.com/gag/abvG45L)
+ - 👉 [She DESTROYED Feminism in Less Than a Minute](http://9gag.com/gag/aVbwmrw)<!-- MEMES:END -->
 
 ---
 
