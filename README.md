@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New Microsoft 365 Basic subscription is only $20 per year](https://appleinsider.com/articles/23/01/12/new-microsoft-365-basic-subscription-is-only-24-per-year?utm_medium=rss)
- - [NASA’s James Webb telescope discovers its first Earth-sized exoplanet](https://www.theverge.com/2023/1/12/23551889/nasa-james-webb-telescope-discover-exoplanet-atmosphere-space)
- - [TCL’s 65-inch 6-Series Mini LED TV is a major deal at $699.99](https://www.theverge.com/2023/1/12/23550054/tcl-qled-tv-keyboard-logitech-mouse-asus-rog-flow-laptop-deal-sale)<!-- TECH:END -->
+ - [Amazon&#39;s $500 price drop on Apple&#39;s M1 Max MacBook Pro 16-inch is the best ever](https://appleinsider.com/articles/23/01/12/amazons-500-price-drop-on-apples-m1-max-macbook-pro-16-inch-is-the-best-ever?utm_medium=rss)
+ - [HBO Max’s first price hike raises the monthly rate by $1](https://www.theverge.com/2023/1/12/23551990/hbo-max-ad-free-price-increase-15-99)
+ - [Tim Cook shares video to mark Chinese New Year on social media](https://appleinsider.com/articles/23/01/12/tim-cook-shares-video-to-mark-chinese-new-year-on-social-media?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
