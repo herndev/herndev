@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Galaxy Watches and Buds 2 Pro are now better companions for your phone’s camera](https://www.androidauthority.com/samsung-galaxy-watch-galaxy-buds-2-pro-camera-update-3265783/)
- - [Toxicity in Gaming Is Rampant. This Nonprofit Is Fighting Back](https://www.wired.com/story/take-this-nonprofit-toxicity-harassment-gaming/)
- - [Why Non-Farmers Should Care About John Deere’s Repair Memo](https://www.wired.com/story/gadget-lab-podcast-581/)<!-- TECH:END -->
+ - [Apple TV+ &#39;Sharper&#39; gets theatrical and streaming premiere dates](https://appleinsider.com/articles/23/01/12/apple-tv-sharper-gets-theatrical-and-streaming-premiere-dates?utm_medium=rss)
+ - [A filing details Adobe&#39;s $20B Figma acquisition: multiple attempts in 2020 and 2021 before co-founder Dylan Field accepted, interest from Microsoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p20#a230112p20)
+ - [Sam Bankman-Fried publishes a Substack post offering his account of how FTX collapsed, sticking to his claims of innocence, even as ex-executives plead guilty &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230112/p19#a230112p19)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
