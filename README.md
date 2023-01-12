@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Fortnite&#39;s Plague Doc Skin Is Back After Three Years, Fans Blame COVID](https://kotaku.com/fortnite-plague-doctor-grim-medicine-store-return-covid-1849977313)
- - [AI VTuber Banned For &#39;Hateful Conduct,&#39; Now Undistinguishable From Real Twitch Stars](https://kotaku.com/neuro-sama-twitch-vtuber-ban-holocaust-minecraft-ai-1849977269)
- - [Revealing Mortal Kombat II Code Leak Pulled By Warner Bros.](https://kotaku.com/mortal-kombat-2-mk2-source-code-leak-dmca-takedown-1849977045)<!-- GAME:END -->
+ - [I desperately need to go to this JRPG Taco Bell](https://www.polygon.com/23550940/taco-bell-jrpg-meme-twitter-xenoblade-chronicles)
+ - [Ubisoft is having a bad time, cancels more unannounced games as its share price plunges](https://www.pcgamer.com/ubisoft-is-having-a-bad-time-cancels-more-unannounced-games-as-its-share-price-plunges)
+ - [Fortnite&#39;s Plague Doc Skin Is Back After Three Years, Fans Blame COVID](https://kotaku.com/fortnite-plague-doctor-grim-medicine-store-return-covid-1849977313)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
