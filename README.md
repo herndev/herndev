@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple will provide more transparency on App Store removals](https://appleinsider.com/articles/23/01/12/apple-will-provide-more-transparency-on-app-store-removals?utm_medium=rss)
- - [New Microsoft 365 Basic subscription is only $20 per year](https://appleinsider.com/articles/23/01/12/new-microsoft-365-basic-subscription-is-only-24-per-year?utm_medium=rss)
- - [Letter: Social Capital narrows the scope of its Fund V to ~$1B with a focus on early-stage deals vs prior plan to raise much more and back growth-stage startups &lpar;Dan Primack/Axios&rpar;](http://www.techmeme.com/230112/p24#a230112p24)<!-- TECH:END -->
+ - [ExxonMobil accurately predicted climate change while publicly dismissing it](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
+ - [T-Mobile allegedly wants to buy Mint Mobile, the carrier owned by Ryan Reynolds](https://www.androidauthority.com/t-mobile-mint-mobile-3265992/)
+ - [Sources: Tiger Global struggles to raise its latest fund after investors learned it secretly paid a senior female staffer $10M to settle allegations of bullying &lpar;Semafor&rpar;](http://www.techmeme.com/230112/p26#a230112p26)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
