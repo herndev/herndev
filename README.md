@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Rocket League Players Found The Optimal Way To Cheat](https://kotaku.com/rocket-league-machine-learning-cheating-nexto-bot-1849980593)
- - [Painterly Photography Game’s New Trailer Introduces Characters You’ll Meet At The End Of Things](https://kotaku.com/season-a-letter-to-the-future-trailer-pc-playstation-1849977452)
- - [Is Nier: Automata ver1.1a’s puppet show a joke or something more?](https://www.polygon.com/23551925/nier-automata-anime-puppet-show)<!-- GAME:END -->
+ - [Gifts Galore: Celebrating 12 Years of DC Universe Online](https://news.xbox.com/en-us/2023/01/12/gifts-galore-celebrating-12-years-of-dc-universe-online/)
+ - [Prototypes for a Lenovo handheld gaming console show up on sale in China](https://www.pcgamer.com/prototypes-for-a-lenovo-handheld-gaming-console-show-up-on-sale-in-china)
+ - [The Next Assassin&#39;s Creed Is Smaller Because Past Games Got Way Too Big](https://kotaku.com/assassin-s-creed-mirage-valhalla-size-small-rpg-ubisoft-1849980777)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
