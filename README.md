@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - ⏩ [Agree.....](http://9gag.com/gag/amAvMpX)
- - 👉 [Did he?](http://9gag.com/gag/avQzRNb)<!-- MEMES:END -->
+ - 💣 [99-million-year-old dinosaur tail found preserved in amber - It is covered completely in feathers](http://9gag.com/gag/a04NeGn)
+ - ⏩ [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)
+ - 👉 [Bonjor](http://9gag.com/gag/aeQD1wv)<!-- MEMES:END -->
 
 ---
 
