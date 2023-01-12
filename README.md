@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Imagine being that fat and pretending to be oppressed than a starving child in yemen](http://9gag.com/gag/a9qn2MK)
- - ⏩ [Both... both is amazing!](http://9gag.com/gag/agoA4Y6)
- - 👉 [Title](http://9gag.com/gag/abvGBQB)<!-- MEMES:END -->
+ - 💣 [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
+ - ⏩ [We\u2019re doomed](http://9gag.com/gag/ajV9Poq)
+ - 👉 [Adios](http://9gag.com/gag/aRE7Mjq)<!-- MEMES:END -->
 
 ---
 
