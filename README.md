@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Woman pepper sprays a guy threatening her with a knife](http://9gag.com/gag/a8qGqnp)
- - ⏩ [So\u2026 who did you summoned this time whiskers?](http://9gag.com/gag/aVbwmnv)
- - 👉 [I `found` them](http://9gag.com/gag/ajV9x61)<!-- MEMES:END -->
+ - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - ⏩ [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
+ - 👉 [His stuff is god tier](http://9gag.com/gag/a8qGDe3)<!-- MEMES:END -->
 
 ---
 
