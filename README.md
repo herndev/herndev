@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple TV+ &#39;Sharper&#39; gets theatrical and streaming premiere dates](https://appleinsider.com/articles/23/01/12/apple-tv-sharper-gets-theatrical-and-streaming-premiere-dates?utm_medium=rss)
- - [A filing details Adobe&#39;s $20B Figma acquisition: multiple attempts in 2020 and 2021 before co-founder Dylan Field accepted, interest from Microsoft, and more &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p20#a230112p20)
- - [Sam Bankman-Fried publishes a Substack post offering his account of how FTX collapsed, sticking to his claims of innocence, even as ex-executives plead guilty &lpar;Lucinda Shen/Axios&rpar;](http://www.techmeme.com/230112/p19#a230112p19)<!-- TECH:END -->
+ - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)
+ - [How to run iPadOS apps on macOS Ventura in 2023](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
+ - [Intel breaks the 6GHz barrier with $699 Core i9-13900KS processor](https://www.theverge.com/2023/1/12/23551748/intel-6ghz-processor-core-i9-13900k-release-date-price)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
