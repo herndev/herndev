@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
- - ⏩ [Weirdly relatable](http://9gag.com/gag/aPg7QOR)
- - 👉 [Did he?](http://9gag.com/gag/avQzRNb)<!-- MEMES:END -->
+ - 💣 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)
+ - ⏩ [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - 👉 [The original `&#39;no jab, no job`](http://9gag.com/gag/aOx7ZgR)<!-- MEMES:END -->
 
 ---
 
