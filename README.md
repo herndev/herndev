@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
+ - [Final Fantasy 14&#39;s zen farming mode had an unexpected inspiration](https://www.pcgamer.com/final-fantasy-14s-zen-farming-mode-had-an-unexpected-inspiration)
  - [Xbox consoles are about to get a little bit greener](https://www.polygon.com/23551636/xbox-series-x-microsoft-carbon-aware-shutdown-sleep)
- - [YouTube&#39;s new profanity rules are punishing creators retroactively, and they&#39;re furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)
- - [Ash Ketchum inspired a generation of Pokémon fans — and his voice actor](https://www.polygon.com/pokemon/23548987/pokemon-anime-ultimate-journeys-voice-actor-interview)<!-- GAME:END -->
+ - [YouTube&#39;s new profanity rules are punishing creators retroactively, and they&#39;re furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
