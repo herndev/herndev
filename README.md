@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Rope snaps on climber](http://9gag.com/gag/avQzQ8n)
- - ⏩ [Live on french TV...](http://9gag.com/gag/a4o356v)
- - 👉 [Terry at it again](http://9gag.com/gag/az2mG3B)<!-- MEMES:END -->
+ - 💣 [Old man trying to help.](http://9gag.com/gag/aYVyPDm)
+ - ⏩ [What kind of sorcerry is this, iam preety stup*d with math things](http://9gag.com/gag/aEqPARx)
+ - 👉 [Hold my beer](http://9gag.com/gag/aNwgVQG)<!-- MEMES:END -->
 
 ---
 
