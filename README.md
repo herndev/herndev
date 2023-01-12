@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [New OtterBox iPhone 14 cases celebrate Chinese New Year](https://appleinsider.com/articles/23/01/12/new-otterbox-iphone-14-cases-celebrate-chinese-new-year?utm_medium=rss)
- - [Cybercriminals shall not pass: how to protect your Macs and yourself from the most popular cyber threats](https://appleinsider.com/articles/23/01/12/cybercriminals-shall-not-pass-how-to-protect-your-macs-and-yourself-from-the-most-popular-cyber-threats?utm_medium=rss)
- - [Google TV is about to get a remote that never runs out of power](https://www.androidauthority.com/google-tv-remote-3265974/)<!-- TECH:END -->
+ - [Butter Payments, which uses AI to help companies catch accidental subscription churn, raised a $21.5M Series A from Norwest, sources say at a ~$100M valuation &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p29#a230112p29)
+ - [Sources: low-code app development tools maker OutSystems raised $228.4M in October 2022 at a $4.3B valuation, 55% lower than the $9.5B valuation from Feb. 2021 &lpar;Kenrick Cai/Forbes&rpar;](http://www.techmeme.com/230112/p28#a230112p28)
+ - [New OtterBox iPhone 14 cases celebrate Chinese New Year](https://appleinsider.com/articles/23/01/12/new-otterbox-iphone-14-cases-celebrate-chinese-new-year?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
