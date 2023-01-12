@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Johnny Yong Bosch will reprise his role as Vash the Stampede in Trigun Stampede](https://www.polygon.com/23551626/johnny-yong-bosch-trigun-stampede-cast-announcement)
- - [Yes, Intel has released the fastest gaming CPU ever for $699 and no, you don&#39;t need it](https://www.pcgamer.com/intel-core-i9-13900ks-release-date-price)
- - [The Surprising Reason Twitch Star Amouranth Hasn&#39;t Ditched NSFW Content &lpar;Yet&rpar;](https://kotaku.com/amouranth-twitch-twitter-onlyfans-nsfw-hot-tub-staff-1849979742)<!-- GAME:END -->
+ - [PNY RTX 4080 XLR8 Verto](https://www.pcgamer.com/pny-geforce-rtx-4080-xlr8-verto-review-performance)
+ - [HBO Max’s ad-free tier just got a little more expensive](https://www.polygon.com/23552100/hbo-max-price-increase-ad-free)
+ - [Dragonflight could soar if it wasn’t saddled with World of Warcraft’s messy storylines](https://www.polygon.com/23550557/dragonflight-world-of-warcraft-story-shadowlands-azeroth)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
