@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [High On Life And Rick And Morty Creator Facing Domestic Violence Charges](https://kotaku.com/justin-roiland-domestic-violence-rick-and-morty-high-on-1849981421)
- - [PS5 Owners Are Worried About Standing The Console Vertically &lpar;They Shouldn&#39;t Be&rpar;](https://kotaku.com/ps5-playstation-5-repair-leak-vertical-liquid-youtube-1849981264)
- - [Gaming YouTubers say their videos are being demonetized due to profanity policies](https://www.polygon.com/23549991/youtube-gaming-profanity-swearing-rtgame)<!-- GAME:END -->
+ - [Starfield ship customization—all the details so far](https://www.pcgamer.com/starfield-ship-customization-stats)
+ - [High on Life, Rick and Morty creator Justin Roiland charged with felony domestic violence and false imprisonment](https://www.pcgamer.com/high-on-life-rick-and-morty-creator-justin-roiland-charged-with-felony-domestic-violence-and-false-imprisonment)
+ - [Someone really just created a gamer muzzle, didn&#39;t they?](https://www.pcgamer.com/someone-really-just-created-a-gamer-muzzle-didnt-they)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
