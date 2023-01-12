@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Apple Original &#39;Severance&#39; nominated for Outstanding Performance by an Ensemble SAG Award](https://appleinsider.com/articles/23/01/12/apple-original-severance-nominated-for-outstanding-performance-by-an-ensemble-sag-award?utm_medium=rss)
- - [Source: Stripe lowers its internal valuation by ~11% to $63B, its third known cut since June 2022, bringing the total reduction to ~40% in the past six months &lpar;Maria Heeter/The Information&rpar;](http://www.techmeme.com/230111/p40#a230111p40)
- - [The Best Sci-Fi Movies on Netflix You Can Watch Right Now     - CNET](https://www.cnet.com/culture/entertainment/the-best-sci-fi-movies-on-netflix-you-can-watch-right-now/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Microsoft updates Xbox Series X and S consoles to automatically switch to energy-saving Shutdown mode and is working on a smarter Sleep mode for active hours &lpar;Tom Warren/The Verge&rpar;](http://www.techmeme.com/230111/p41#a230111p41)
+ - [Super Bowl Commercials 2023: Watch All the Big Game Ads Released So Far     - CNET](https://www.cnet.com/culture/entertainment/super-bowl-commercials-2023-watch-all-the-big-game-ads-released-so-far/#ftag=CAD590a51e)
+ - [Apple Original &#39;Severance&#39; nominated for Outstanding Performance by an Ensemble SAG Award](https://appleinsider.com/articles/23/01/12/apple-original-severance-nominated-for-outstanding-performance-by-an-ensemble-sag-award?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
