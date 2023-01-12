@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Waterfield iPhone Pouch review: unassuming functionality](https://appleinsider.com/articles/23/01/12/waterfield-iphone-pouch-review-unassuming-functionality?utm_medium=rss)
- - [How to run iPadOS apps on macOS Ventura in 2023](https://appleinsider.com/inside/macos-ventura/tips/how-to-find-ios-apps-that-run-on-apple-silicon-in-macos-ventura?utm_medium=rss)
- - [Intel breaks the 6GHz barrier with $699 Core i9-13900KS processor](https://www.theverge.com/2023/1/12/23551748/intel-6ghz-processor-core-i9-13900k-release-date-price)<!-- TECH:END -->
+ - [New Microsoft 365 Basic subscription is only $20 per year](https://appleinsider.com/articles/23/01/12/new-microsoft-365-basic-subscription-is-only-24-per-year?utm_medium=rss)
+ - [NASA’s James Webb telescope discovers its first Earth-sized exoplanet](https://www.theverge.com/2023/1/12/23551889/nasa-james-webb-telescope-discover-exoplanet-atmosphere-space)
+ - [TCL’s 65-inch 6-Series Mini LED TV is a major deal at $699.99](https://www.theverge.com/2023/1/12/23550054/tcl-qled-tv-keyboard-logitech-mouse-asus-rog-flow-laptop-deal-sale)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
