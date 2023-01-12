@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [ExxonMobil accurately predicted climate change while publicly dismissing it](https://www.theverge.com/23550834/exxonmobil-climate-change-predictions-shockingly-accurate)
- - [T-Mobile allegedly wants to buy Mint Mobile, the carrier owned by Ryan Reynolds](https://www.androidauthority.com/t-mobile-mint-mobile-3265992/)
- - [Sources: Tiger Global struggles to raise its latest fund after investors learned it secretly paid a senior female staffer $10M to settle allegations of bullying &lpar;Semafor&rpar;](http://www.techmeme.com/230112/p26#a230112p26)<!-- TECH:END -->
+ - [New OtterBox iPhone 14 cases celebrate Chinese New Year](https://appleinsider.com/articles/23/01/12/new-otterbox-iphone-14-cases-celebrate-chinese-new-year?utm_medium=rss)
+ - [Cybercriminals shall not pass: how to protect your Macs and yourself from the most popular cyber threats](https://appleinsider.com/articles/23/01/12/cybercriminals-shall-not-pass-how-to-protect-your-macs-and-yourself-from-the-most-popular-cyber-threats?utm_medium=rss)
+ - [Google TV is about to get a remote that never runs out of power](https://www.androidauthority.com/google-tv-remote-3265974/)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
