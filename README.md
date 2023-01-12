@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Sources: the DOJ is investigating Ian and Dylan Macalinao over Solana stablecoin exchange Saber Labs, after an expos&amp;eacute; showed they faked a web of DeFi protocols &lpar;Danny Nelson/CoinDesk&rpar;](http://www.techmeme.com/230112/p2#a230112p2)
- - [Bill Gates has upgraded from the Galaxy Z Fold 3. This is his latest phone.](https://www.androidauthority.com/bill-gates-phone-2023-3265756/)
- - [&#39;The Pale Blue Eye&#39; Ending Explained and All Your Questions Answered     - CNET](https://www.cnet.com/culture/entertainment/the-pale-blue-eye-ending-explained-and-all-your-questions-answered/#ftag=CAD590a51e)<!-- TECH:END -->
+ - [Sources: Twitter staff in Singapore have been reassigned as remote workers until further notice, amid cost-cuts which include not paying rent on global HQ &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p5#a230112p5)
+ - [An NLRB official rejects Amazon&#39;s attempt to overturn an April 2022 Staten Island warehouse union victory, citing lack of evidence; Amazon intends to appeal &lpar;New York Times&rpar;](http://www.techmeme.com/230112/p4#a230112p4)
+ - [Employment scams, which lure applicants via fake job offers and websites to reveal sensitive data or pay for work equipment, are targeting laid-off tech workers &lpar;Imani Moise/Wall Street Journal&rpar;](http://www.techmeme.com/230112/p3#a230112p3)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
