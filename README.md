@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [I&#39;d tear that place apart](http://9gag.com/gag/a7qWopq)
- - ⏩ [Careful of this site pretending to be amd](http://9gag.com/gag/aWGx7VZ)
- - 👉 [Should do this to every insta and ticktok losers](http://9gag.com/gag/avQzRKX)<!-- MEMES:END -->
+ - 💣 [Aww, that\u2019s sweet! Oh..](http://9gag.com/gag/anz4Oeb)
+ - ⏩ [Agree.....](http://9gag.com/gag/amAvMpX)
+ - 👉 [Did he?](http://9gag.com/gag/avQzRNb)<!-- MEMES:END -->
 
 ---
 
