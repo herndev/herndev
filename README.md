@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [Chinese social media becomes consumed by a debate on &quot;zero Covid&quot; ending, challenging government censors&#39; efforts to control the narrative without overstepping &lpar;New York Times&rpar;](http://www.techmeme.com/230112/p10#a230112p10)
- - [South Korean social media giant&#39;s Kakao Entertainment, which offers apps for animated shows and novels, raised $930M from Saudi Arabia&#39;s PIF and Singapore&#39;s GIC &lpar;Bloomberg&rpar;](http://www.techmeme.com/230112/p9#a230112p9)
- - [Daily Authority: 💻 Apple’s touchscreen computer catch-up](https://www.androidauthority.com/daily-authority-january-12-2023-3265753/)<!-- TECH:END -->
+ - [Cybercriminals shall not pass: how to protect your Macs and yourself from the most popular cyber threats](https://appleinsider.com/articles/23/01/12/cybercriminals-shall-not-pass-how-to-protect-your-macs-and-yourself-from-the-most-popular-cyber-threats?utm_medium=rss)
+ - [Yuga Labs announces a skill-based game, Dookey Dash, accessed via a free mint for BAYC holders called Sewer Passes, running between January 18 and February 15 &lpar;Rosie Perper/CoinDesk&rpar;](http://www.techmeme.com/230112/p14#a230112p14)
+ - [Apple&#39;s Music &amp; TV apps hit Windows - but only Windows 11](https://appleinsider.com/articles/23/01/12/apples-music-tv-apps-hit-windows---but-only-windows-11?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
