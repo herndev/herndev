@@ -43,9 +43,9 @@
 ### 😂 Memes of the hour
 
 <!-- MEMES:START -->
- - 💣 [Fellow wageslaves, how do you cope? How to escape the wagie life? I&#39;ve been doing it for 10+ years and it feels like I&#39;m going nowhere.](http://9gag.com/gag/ay2eRbp)
- - ⏩ [Steve carell being steve carell](http://9gag.com/gag/a6qKjQA)
- - 👉 [Live at work](http://9gag.com/gag/agoAEoq)<!-- MEMES:END -->
+ - 💣 [Never knew about this song and even this group. But now, it one of my favorites](http://9gag.com/gag/awZBmXD)
+ - ⏩ [Asian Flush is commonly known under Asians after consuming alcohol](http://9gag.com/gag/a5XWz0O)
+ - 👉 [Cinder blocks and cement-filled buckets with ropes tied to them found at the bottom of a dried up dam](http://9gag.com/gag/adPVOxQ)<!-- MEMES:END -->
 
 ---
 
