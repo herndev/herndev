@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s email verification is down, blocking logins to GeForce Now and GeForce Experience](https://www.pcgamer.com/nvidias-email-verification-is-down-blocking-logins-to-geforce-now-and-geforce-experience)
- - [The 12 Best Games On The iPhone](https://kotaku.com/the-12-best-games-on-the-iphone-5878819)
- - [PlayStation Store: December 2022’s top downloads](https://blog.playstation.com/2023/01/12/playstation-store-december-2022s-top-downloads/)<!-- GAME:END -->
+ - [Free Play Days – I Am Fish](https://news.xbox.com/en-us/2023/01/12/free-play-days-i-am-fish/)
+ - [How to unlock fast travel in One Piece Odyssey](https://www.pcgamer.com/one-piece-odyssey-fast-travel-unlock)
+ - [Don&#39;t worry, Atlus won&#39;t punish you for streaming its 13-year-old game](https://www.pcgamer.com/dont-worry-atlus-wont-punish-you-for-streaming-its-13-year-old-game)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
