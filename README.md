@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Final Fantasy 14&#39;s zen farming mode had an unexpected inspiration](https://www.pcgamer.com/final-fantasy-14s-zen-farming-mode-had-an-unexpected-inspiration)
- - [Xbox consoles are about to get a little bit greener](https://www.polygon.com/23551636/xbox-series-x-microsoft-carbon-aware-shutdown-sleep)
- - [YouTube&#39;s new profanity rules are punishing creators retroactively, and they&#39;re furious](https://www.pcgamer.com/youtubes-new-profanity-rules-are-punishing-creators-retroactively-and-theyre-furious)<!-- GAME:END -->
+ - [Nvidia&#39;s email verification is down, blocking logins to GeForce Now and GeForce Experience](https://www.pcgamer.com/nvidias-email-verification-is-down-blocking-logins-to-geforce-now-and-geforce-experience)
+ - [The 12 Best Games On The iPhone](https://kotaku.com/the-12-best-games-on-the-iphone-5878819)
+ - [PlayStation Store: December 2022’s top downloads](https://blog.playstation.com/2023/01/12/playstation-store-december-2022s-top-downloads/)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
