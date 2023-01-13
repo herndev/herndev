@@ -36,9 +36,9 @@
 ### 💻 Tech news for the hour
 
 <!-- TECH:START -->
- - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)
- - [Sources: Goldman Sachs&#39; Platform Solutions lost ~$2B in 2022, mostly due to the Apple Card and Goldman&#39;s installment-lending platform GreenSky &lpar;Sridhar Natarajan/Bloomberg&rpar;](http://www.techmeme.com/230113/p14#a230113p14)
- - [Check your LG TV, as it may have just been recalled for a safety risk](https://www.androidauthority.com/lg-tv-recall-3266506/)<!-- TECH:END -->
+ - [Galaxy S23 Plus and Ultra official press renders leak ahead of Unpacked event](https://www.androidauthority.com/galaxy-s23-plus-ultra-3266548/)
+ - [Apple Music releases Rihanna trailer for Super Bowl LVII Halftime Show](https://appleinsider.com/articles/23/01/13/apple-music-releases-rihanna-trailer-for-super-bowl-lvii-halftime-show?utm_medium=rss)
+ - [&#39;My Kind of Country&#39; competition debuts March 24 on Apple TV+](https://appleinsider.com/articles/23/01/13/my-kind-of-country-competition-debuts-march-24-on-apple-tv?utm_medium=rss)<!-- TECH:END -->
 
 ### 😂 Memes of the hour
 
