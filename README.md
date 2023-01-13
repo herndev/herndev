@@ -29,9 +29,9 @@
 ### 🎮 Game news for the hour
 
 <!-- GAME:START -->
- - [Nvidia&#39;s latest AI lets you maintain uncanny valley levels of eye contact on camera](https://www.pcgamer.com/nvidia-broadcast-eye-contact-out-now)
- - [How The Last of Us became ‘the greatest story that has ever been told in video games’](https://www.polygon.com/gaming/23552202/last-of-us-greatest-video-game-status)
- - [Next Week on Xbox: New Games for January 16 to 20](https://news.xbox.com/en-us/2023/01/13/next-week-on-xbox-new-games-for-january-16-to-20/)<!-- GAME:END -->
+ - [Share of the Week: Unlucky](https://blog.playstation.com/2023/01/13/share-of-the-week-unlucky/)
+ - [Google serves up fake AMD driver downloads in search results](https://www.pcgamer.com/google-serves-up-fake-amd-driver-downloads-in-search-results)
+ - [Marvel Snap&#39;s First Three Explosive Months: The Ben Brode Creator Interview](https://kotaku.com/marvel-snap-ben-brode-galactus-shop-deck-interview-ccg-1849978973)<!-- GAME:END -->
 
 ### 💻 Tech news for the hour
 
